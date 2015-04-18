@@ -1,0 +1,1 @@
+{100}{}{This equipment is non-functional.}

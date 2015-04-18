@@ -1,0 +1,1 @@
+{100}{}{It's some kind of huge super mutant creature! And it has a very large gun!}

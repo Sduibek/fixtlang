@@ -1,0 +1,6 @@
+{100}{}{You see a glowing creature.}
+{101}{}{Mmmm...}
+{102}{}{Ahhh...}
+{103}{}{The glowing one mumbles something and is then silent. He is
+ drooling uncontrollably}
+{104}{}{There is no response.}

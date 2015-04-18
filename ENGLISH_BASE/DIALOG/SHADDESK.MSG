@@ -1,0 +1,1 @@
+{100}{}{You notice a desk cluttered with papers.}

@@ -1,0 +1,13 @@
+{100}{}{You see a Caravan Customer.}
+{101}{}{They never have what I want.}
+{102}{}{I think the selection is getting worse.}
+{103}{}{Sorry, I'm not supposed to talk to outsiders.}
+{104}{}{I can never find what I want.}
+{105}{}{If you see any Redalek's, let me know.}
+{106}{}{These prices are getting out of hand.}
+{107}{}{I'm glad those Water Merchants don't come here anymore.}
+{108}{}{You should see Cabbot or Darrell if you have questions.}
+{109}{}{Cabbot's our Greeter. You should talk to him or Darrell.}
+{110}{}{I like the Crimson Caravan's selection better.}
+{111}{}{Aren't the Far Go Traders a pleasant crowd?}
+{112}{}{The Crimson Caravan is too vulgar for me.}
