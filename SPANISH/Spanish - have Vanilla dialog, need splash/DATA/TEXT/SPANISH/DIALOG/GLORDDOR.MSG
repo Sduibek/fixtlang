@@ -1,0 +1,119 @@
+{100}{}{El marco de esta puerta de seguridad lleva restos de pintura azul}
+{101}{}{Recibes una leve descarga del campo eléctrico de la puerta y sufres
+ punto
+ de daño.}
+{102}{}{Recibes una descarga importante del campo eléctrico de la puerta. Sufres}
+{103}{}{ puntos de daño.}
+{104}{}{Fuerzas la puerta y la abres.}
+{105}{}{La puerta está cerrada con cerrojo.}
+{106}{}{Autorización concedida. Eliminas el campo eléctrico.}
+{107}{}{No tienes autorización para entrar en esta sala.}
+{108}{}{Este objeto no afecta a los sistemas de seguridad.}
+{109}{}{Fuerzas el cierre de la puerta de seguridad.}
+{110}{}{Parece que esta puerta tiene algún tipo de medida de seguridad.}
+{111}{}{No consigues forzar el cerrojo de la puerta.}
+{112}{}{Esta habilidad no tiene efecto sobre la puerta.}
+
+{113}{}{Desactivas el campo eléctrico.}
+{114}{}{Intensificas la potencia del campo eléctrico.}
+{115}{}{No consigues desactivar el campo eléctrico.}
+{116}{}{Fuerzas el cerrojo de la puerta sin activar el sistema de seguridad.}
+{117}{}{No consigues forzar el cerrojo y el sistema de seguridad te daña gravemente.}
+{118}{}{No consigues forzar el cerrojo y el sistema de seguridad te daña.}
+{119}{}{Recibes una descarga del sistema de seguridad y pierdes la concentración para forzar el cerrojo.}
+{120}{}{Recibes una descarga importante del sistema de seguridad y pierdes la concentración para forzar el cerrojo.}
+{121}{}{No consigues de ninguna manera forzar el cerrojo y destruyes todas tus ganzúas.}
+{122}{}{No consigues forzar este cerrojo.}
+{123}{}{Estás viendo una puerta fuerte y oxidada.}
+
+{124}{}{Estás viendo una puerta cerrada sin cerrojo pintada de verde.}
+{125}{}{Estás viendo una puerta cerrada sin cerrojo pintada de verde.}
+{126}{}{Estás viendo una puerta cerrada con cerrojo con un campo móvil verde delante de ésta.}
+{127}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{128}{}{Estás viendo una puerta pintada de verde.}
+{129}{}{Estás viendo una puerta pintada de verde.}
+{130}{}{Estás viendo una puerta con un campo móvil verde delante de ésta.}
+{131}{}{Estás viendo una puerta con un sistema de seguridad de alto voltaje instalado en ésta.}
+{132}{}{Estás viendo una puerta cerrada con cerrojo pintada de verde.}
+{133}{}{Estás viendo una puerta cerrada con cerrojo pintada de verde.}
+{134}{}{Estás viendo una puerta cerrada con un campo móvil verde delante de ésta.}
+{135}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{136}{}{El cerrojo de esta puerta verde aparece parece necesitar una llave maestra especial.}
+{137}{}{El cerrojo de esta puerta aparece parece necesitar una llave maestra especial.}
+{138}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un campo brillante verde delante de la puerta.}
+{139}{}{El cerrojo parece necesitar una llave maestra especial verde. Además, te das cuenta de que hay un sistema de seguridad de alto voltaje instalado en ésta.}
+
+{140}{}{Estás viendo una puerta cerrada sin cerrojo.}
+{141}{}{Estás viendo una puerta cerrada sin cerrojo.}
+{142}{}{Estás viendo una puerta cerrada sin cerrojo con un campo móvil delante de ésta Estás viendo una puerta cerrada sin cerrojo.}
+{143}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{144}{}{Estás viendo una puerta.}
+{145}{}{Estás viendo una puerta.}
+{146}{}{Estás viendo una puerta con un campo móvil delante de ésta.}
+{147}{}{Estás viendo una puerta con un sistema de seguridad de alto voltaje instalado en ésta.}
+{148}{}{Estás viendo una puerta cerrada con cerrojo.}
+{149}{}{Estás viendo una puerta cerrada con cerrojo.}
+{150}{}{Estás viendo una puerta cerrada con cerrojo con un campo móvil delante de ésta.}
+{151}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{152}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial.}
+{153}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial.}
+{154}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un campo brillante delante de la puerta.}
+{155}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un sistema de seguridad de alto voltaje instalado en ésta.}
+
+{156}{}{Estás viendo una puerta cerrada sin cerrojo pintada de rojo.}
+{157}{}{Estás viendo una puerta cerrada sin cerrojo pintada de rojo.}
+{158}{}{Estás viendo una puerta cerrada sin cerrojo con un campo móvil rojo delante de ésta.}
+{159}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{160}{}{Estás viendo una puerta pintada de rojo.}
+{161}{}{Estás viendo una puerta pintada de rojo.}
+{162}{}{Estás viendo una puerta con un campo móvil rojo delante de ésta.}
+{163}{}{Estás viendo una puerta con un sistema de seguridad de alto voltaje instalado en ésta.}
+{164}{}{Estás viendo una puerta cerrada con cerrojo pintada de rojo.}
+{165}{}{Estás viendo una puerta cerrada con cerrojo pintada de rojo.}
+{166}{}{Estás viendo una puerta cerrada con cerrojo con un campo móvil rojo delante de ésta.}
+{167}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{168}{}{El cerrojo de esta puerta roja parece que necesita una llave maestra especial.}
+{169}{}{El cerrojo de esta puerta roja parece que necesita una llave maestra especial.}
+{170}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un campo brillante rojo delante de la puerta.}
+{171}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un sistema de seguridad de alto voltaje instalado en ésta.}
+
+{172}{}{Estás viendo una puerta cerrada sin cerrojo pintada de rojo.}
+{173}{}{Estás viendo una puerta cerrada sin cerrojo pintada de rojo.}
+{174}{}{Estás viendo una puerta cerrada sin cerrojo con un campo móvil rojo delante de ésta.}
+{175}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{176}{}{Estás viendo una puerta pintada de rojo.}
+{177}{}{Estás viendo una puerta pintada de rojo.}
+{178}{}{Estás viendo una puerta con un campo móvil rojo delante de ésta.}
+{179}{}{Estás viendo una puerta con un sistema de seguridad de alto voltaje instalado en ésta.}
+{180}{}{Estás viendo una puerta cerrada con cerrojo pintada de rojo.}
+{181}{}{Estás viendo una puerta cerrada con cerrojo pintada de rojo.}
+{182}{}{Estás viendo una puerta cerrada con cerrojo con un campo móvil rojo delante de ésta.}
+{183}{}{Estás viendo una puerta cerrada con cerrojo con un sistema de seguridad de alto voltaje instalado en ésta.}
+{184}{}{El cerrojo de esta puerta roja parece que necesita una llave maestra especial.}
+{185}{}{El cerrojo de esta puerta roja parece que necesita una llave maestra especial.}
+{186}{}{El cerrojo de esta puerta parece necesitar una llave maestra especial. Además, te das cuenta de que hay un campo brillante rojo delante de la puerta.}
+{187}{}{El cerrojo de esta puerta parece que necesita una llave maestra especial y roja. Además, te das cuenta de que hay un sistema de seguridad de alto voltaje instalado en ésta.}
+
+{188}{}{Estás viendo una puerta pintada de amarillo.}
+{189}{}{Estás viendo una puerta con un campo móvil amarillo delante de ésta.}
+{190}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta amarilla.}
+{191}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta amarilla. Te preguntas si hay una llave maestra para abrirla.}
+
+{192}{}{Estás viendo una puerta.}
+{193}{}{Estás viendo una puerta con un campo móvil delante de ésta.}
+{194}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta.}
+{195}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta. Te preguntas si hay una llave maestra para abrirla.}
+
+{196}{}{Estás viendo una puerta pintada de rojo.}
+{197}{}{Estás viendo una puerta con un campo móvil rojo delante de ésta.}
+{198}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta roja.}
+{199}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta roja. Te preguntas si hay una llave maestra para abrirla.}
+
+{200}{}{Estás viendo una puerta pintada de rojo.}
+{201}{}{Estás viendo una puerta con un campo móvil rojo delante de ésta.}
+{202}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta roja.}
+{203}{}{Estás viendo un sistema de seguridad de alto voltaje en esta puerta roja. Te preguntas si hay una llave maestra para abrirla.}
+
+{204}{}{Te das cuenta de que hay una trampa en esta puerta.}
+{205}{}{El ascensor no funciona. Parece necesitar necesita energía.}
+

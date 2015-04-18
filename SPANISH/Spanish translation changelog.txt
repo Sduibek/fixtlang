@@ -1,0 +1,118 @@
+
+LEYENDA:
+P - Fallos puntuales y menores -no pretendidos-, no presentes en toda la traducción.
+T - Cambios en toda la traducción.
+
+***********************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************************
+
+CHANGELOG -- VERSIÓN 1.1 -- 01.08.13
+
+***********************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************************
+
+
+Este trabajo tomó base en la última versión de la traducción mejorada de L@Zar0 de DLAN. 
+El objetivo de está traducción no es solo el de traducir FIXT sino de mejorar aún más la traducción original.
+A continuación aparecen a grandes rasgos los cambios efectuados y más adelante se alistan los cambios en mayor detalle.
+
+
+
+
+ RESUMEN / CAMBIOS MAYORES:  
+
+  - Arreglados cientos de errores ortográficos, sintácticos y de traducción; 
+    ahora muchas escenas tienen sentido
+
+  - Textos introducidos en los parches oficiales, semioficiales 
+    y no oficiales (1.1?/1.2.X/1.3.X) traducidos. Ahora la traducción es completa.
+
+  - Eliminada la irregular campaña "ética" de los traductores/distribuidora: devuelta cualquier referencia a adicciones, drogas, etc. 
+    Ejemplos de la antigua traducción: 
+    - "Child-Killer" por "Asesino"    * No se menciona en ninguna parte a los niños.
+    - "Very addictive." por "Causan convulsiones intensas."
+    - "They are extremely addictive and dangerous to use." por "Provocan ansiedad y son peligrosos." 
+    * Se mantiene el término "fármaco" en contextos médicos.
+
+  - Grandes mejoras en los mensajes de combate: 
+    - Ya no aparece el pronombre personal "Tú". Se acabaron los: "Tú sufres daño".
+    - Mejoradas las traducciones
+	- Uniformidad en las descripciones.
+	 * Todavía quedan inciertos algunos términos, puede haber fallos.
+	
+  - Eliminados archivos de texto "repetidos" - tenían traducciones ligeramente parecidas-
+    e innecesarios. Tenían nombres incorrectos, por lo que el juego no los cargaba. 
+	Por otra parte, algunos de estos textos traducidos eran genuinos pero no eran cargados, 
+	quedando en inglés esas partes.  
+    
+    
+***********************************************************************************************************************************************************************************  
+***********************************************************************************************************************************************************************************
+
+  CAMBIOS EN FIXT (relevantes para la traducción):
+
+ - Cambios:
+    
+    - Uso correcto de las mayúsculas, ahora los nombres de criaturas y objetos comunes aparecerán en minúscula. 
+        * Hay excepciones: títulos de lugares, misiones y nombres genéricos de NPCs y objetos-
+    - "sustancias químicas" (chems) por "drogas" (drugs) * No confundir con los cambios anteriores: a veces el término droga se dejaba y no se traducía correctamente.
+    - "holocinta" (holotape) por "holodisco" (holodisk) * Ahora la terminología es homogénea.
+    - Ahora se utiliza el término "Pip-Boy 2000", por lo general aparecía: "PIPBoy". Dejado como Pip-Boy cuando no se podía por falta de espacio.
+    - Ahora la mayoría, si no todos, los NPCs tienen el mensaje formateado como "Ves: ..." cuando pasas el ratón por encima. Que difiere del "Estás viendo..." cuando los examinas.
+	
+ - Omitido:
+
+    - "Brahmin" por "Brahma". * Brahmin es el plural de Brahma y el autor así lo cambia. En español no se tradujo, así que lo dejo tal cual está.
+    
+
+***********************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************************
+
+
+ EN DETALLE:    ["antigua traducción"  por  "nueva traducción"  (término en inglés)]
+
+ 
+  Ver. 1.0 (25.02.13)
+  
+  - "Robomente" por "Cerebrobot".                                                 T * La traducción hecha en el F3 queda mucho mejor
+  - "Manitas"/"Don Manitas"/"Sr. Manitas" por "Sr. Mañoso".                       T * Aquí lo mismo, además de homogeneizar
+  - "Extranjero Misterioso" por "Forastero Misterioso"                            T
+  - "Nómada" por "Flotante" (Floater)                                             T *    
+  - "carro" por "camión" (truck).                                                 P
+  - "cerrojo" por "cerradura" (lock pick).                                        T
+  - "técnica" por "habilidad" (skills).                                           T *  Queda mejor pero tuve que acortar un par de líneas
+  - "mendigo" por "desgraciado" (loser).                                          P *  "loser" es ofensivo
+  - "IEM" por "PEM" (EMP) y corregido cuando no estaba en siglas.                 T
+  - "scripts" se traducía erróneamente en algunos casos.                          P * hacen ref. a las chapas
+  - "Enciclopedia de la Ciencia" (Big Book of Science) por "El Gran Libro de la Ciencia"
+  - "Libro de Electrónica" (Dean's Electronics) por "Biblia de la Electrónica".   T * 
+  - Conversión de pies a metros (único caso).                                     P
+  - "secuaz" por "prole" (Deathclaw Spawn).                                       T * "hijo" sería menos correcto (?) pero sonaría mejor.  
+  - "novato" por "mocoso"/"mierdecilla"/"gamberro" (Punk).                        T * "novato" no suena tan 'ofensivo' -dejado cuando no sonaba bien-.    
+  - "gasp" se traduce como "jadea fuertemente"/"suspiro".                         T
+  - Ahora "el yermo" aparece en singular y en minúscula.                          T * "los yermos" sonaba sobrecargado y muchas veces no quedaba bien * 
+  - Correcto uso del nombre "Viscious", ahora este personaje se llama "Vicioso".  T * Y no "Viscoso". La marcha distintiva de este NPC es que fuma.
+  - Uso correcto del término rad (la medida).                                     P
+  - Ya no se trata a los necrófagos como una facción sino como una raza.          T
+  - Traducido el nombre de la ciudad de la demo, Scrapheap, como Desguace.        T * Antes aperecía como "Chatarra de Pila" ¿¿??
+  - "medicamentos" por "estimulantes" (stimpak).                                  P
+  - "Mano de Tangler" (Tangler's Hand) ahora se traduce correctamente.            P
+  - "Medallón" (Locket) ahora se traduce correctamente.                           T
+  - "Runk" no se traduce. Se trata de un "sonido" que hacen los 
+    jugadores con inteligencia baja.                                              P
+  - La "inexistente" facción llamada "Clandestinos" desaparece,
+    ahora "undergrounder" no se traduce como "Clandestino" o la "Resistencia", 
+    sino como "subterráneo": los necrófagos son pacíficos y no se enfrentan a 
+    la "ley".                                                                     T * 
+
+  Ver. 1.1 (15.06.13)
+  
+  - Añadida versión en femenino.
+  - "merodeador" por "viajero" (wanderer).                                        P
+  - Zombie/zombies corregido a zombi/zombis.                                      T
+  - "al Fosa Común" corregido a "a la Fosa Común".                                P
+  - "L.A." corregido a "LA" para respetar la puntuación en siglas                 T
+  
+  
+***********************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************************

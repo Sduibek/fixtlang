@@ -1,0 +1,138 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Consciencia}
+{102}{}{Ataque Extra CaC}
+{103}{}{Daño Extra CaC}
+{104}{}{Movimiento Extra}
+{105}{}{Daño Extra con Alcance}
+{106}{}{Gatillo Extra Rápido}
+{107}{}{Secuencia Anterior}
+{108}{}{Curación más Rápida}
+{109}{}{Más Críticos}
+{110}{}{Visión Nocturna}
+{111}{}{Presencia}
+{112}{}{Resistencia a la Radiación}
+{113}{}{Dureza}
+{114}{}{Mulo}
+{115}{}{Tirador de Elite}
+{116}{}{Carreras Silenciosas}
+{117}{}{Sobreviviente}
+{118}{}{Comerciante Magistral}
+{119}{}{Instruido}
+{120}{}{Sanador}
+{121}{}{Afortunado}
+{122}{}{Mejores Críticos}
+{123}{}{Empatía}
+{124}{}{Matador}
+{125}{}{Francotirador}
+{126}{}{Muerte Silenciosa}
+{127}{}{Chico de Acción}
+{128}{}{Bloqueo Mental}
+{129}{}{Vitalidad}
+{130}{}{Esquivador}
+{131}{}{Comedor de Serpientes}
+{132}{}{Manitas}
+{133}{}{Médico}
+{134}{}{Ladrón Magistral}
+{135}{}{Orador}
+{136}{}{Lanzador}
+{137}{}{Enemigo Amistoso}
+{138}{}{Carterista}
+{139}{}{Fantasma}
+{140}{}{Culto de la Personalidad}
+{141}{}{Gorrón}
+{142}{}{Explorador}
+{143}{}{Jipi}
+{144}{}{Guía}
+{145}{}{Amigo de los Animales}
+{146}{}{Scout}
+{147}{}{Extranjero Misterioso}
+{148}{}{Guardabosque}
+{149}{}{Bolsillos Rápidos}
+{150}{}{Convinsente}
+{151}{}{Aprendizaje Rápido}
+{152}{}{Técnica Destacada}
+{153}{}{¡Muta!}
+{154}{}{Enganchado a la Nuka-Cola}
+{155}{}{Enganchado al Buffout}
+{156}{}{Enganchado al Mentats}
+{157}{}{Enganchado al Psycho}
+{158}{}{Enganchado al FueraRad}
+{159}{}{Armas de largo alcance}
+{160}{}{Arma Certera}
+{161}{}{Arma Penetrante}
+{162}{}{Arma Rechazo}
+{163}{}{Armadura de Poder}
+{164}{}{Coraza de Combate}
+#
+#   PERK DESCRIPTIONS
+#
+{201}{}{Te das cuenta de más detalles sobre la gente. "Observación" te concederá una información más detallada sobre ellos cuando hagas "Examinar".}
+{202}{}{Has aprendido las artes orientales secretas, o sea que sacudes más deprisa.  En cualquier caso, te cuesta 1 PA menos llevar a cabo los ataques "Cuerpo a Cuerpo".}
+{203}{}{Tu experiencia en combate sin armas hace que seas muy dañino para tus adversarios.  Causas +2 puntos de daño en combate cuerpo a cuerpo y en melé por cada nivel de este "Extra".}
+{204}{}{Por cada nivel de "Bonus de Movimiento", obtienes 2 PA libres en cada turno, que sólo pueden usarse para movimiento.  En pocas palabras, puedes moverte 2 hexágonos más en cada turno por cada nivel de este "Extra".}
+{205}{}{Tu entrenamiento con armas de alcance te han convertido en un poderoso adversario en el combate de alcance. Por cada nivel de este "Extra" haces +2 puntos de daño con armas de alcance.}
+{206}{}{Este "Extra" te hace más rápido con el gatillo, sin perjudicar tu estupenda puntería. Te cuesta 1 PA menos llevar a cabo cada ataque de arma de alcance.}
+{207}{}{Es más probable que te muevas antes que tus oponentes durante el combate, dado que tu "Secuencia" es de +2 por cada nivel de este "Extra".}
+{208}{}{Con cada nivel de este "Extra" obtendrás un bonus de +1 en tu ritmo de curación. Es decir, que te curarás más rápido.}
+{209}{}{Con este "Extra" tienes más posibilidades de asestar "Impactos Críticos" durante el combate. Cada nivel de "Más Críticos" aumentará tu posibilidad de asestar un impacto crítico en +5 %.}
+{210}{}{Con el "Extra" de "Visión Nocturna" mejora tu visión en la oscuridad. Cada nivel de este "Extra" reducirá el nivel general de oscuridad en un 10 %.}
+{211}{}{En cuanto entras en una habitación, eres el centro de atención. La primera impresión que tienen las personas de ti mejora en un 10 % en cada nivel de este "Extra".}
+{212}{}{Eres más hábil evitando las radiaciones, y los terribles efectos que provocan. Cada nivel de este "Extra" mejorará tu "Resistencia a las Radiaciones" en un 10 %.}
+{213}{}{Cuando eres duro te hacen menos daño. Cada nivel de este "Extra" añadirá +10 % a tu resistencia al dolor en general.}
+{214}{}{"Eres fuerte como un mulo". Puedes llevar 50 libras de peso adicional de equipo en cada nivel de este "Extra".}
+{215}{}{Obtienes un bonus de +2 por cada nivel de este "Extra", que aumenta tu "Percepción" a la hora de determinar los modificadores de alcance. ¡Es más fácil que nunca matar a gran distancia!}
+{216}{}{Con este "Extra" ahora puedes moverte rápidamente sin hacer ruido. Puedes ser "Sigiloso" y correr al mismo tiempo.  Sin este "Extra", dejarías de ser "Sigiloso" en cuanto empezases a correr.}
+{217}{}{Eres un maestro en el exterior. Este "Extra" te otorga la habilidad de sobrevivir en entornos hostiles. Tu cualidad de "Supervivencia" aumenta en un +20 % en relación con "Sobreviviente", en cada nivel de este "Extra".}
+{218}{}{Tienes la habilidad de obtener bienes a mucho mejor precio que una persona normal.  Gracias a este "Extra", obtienes un descuento del 25 % al comprar artículos en una tienda o de otro comerciante.}
+{219}{}{Cada nivel de "Educado" añadirá +2 puntos de habilidad cuando ganes un nuevo nivel de experiencia. Este "Extra" te será más útil si lo compras al principio de tu aventura.}
+{220}{}{Con este "Extra" te será más fácil curar los cuerpos. Cada nivel supondrá 2-5 puntos más de impacto curados al usar los "Primeros Auxilios" o la habilidad de "Médico".}
+{221}{}{Tienes talento para encontrar dinero. De vez en cuando te irás encontrando dinero en el desierto.}
+{222}{}{Los impactos críticos que causas durante el combate son aún más devastadores. Ganas un bonus del 20 % en tu tabla de impactos críticos, con lo que harás más daño. Esto no afecta a la posibilidad de causar un impacto crítico.}
+{223}{}{Has estudiado a otros seres humanos, conoces sus reacciones emocionales hacia ti. Verás el nivel de reacción de la persona con la que estás hablando, cuando mantengas una conversación profunda.}
+{224}{}{¡El "Asesino" anda suelto! En el combate "Cuerpo a Cuerpo", todos tus golpes se convertirán en impactos críticos - sembrando destrucción y muerte a tu alrededor.}
+{225}{}{Eres un experto con armas de alcance. Con este "Extra" cada impacto acertado durante el combate con un arma de alcance se convertirá en un impacto crítico si al mismo tiempo haces un "Tiro con Suerte".}
+{226}{}{Si mientras andas con "Sigilo" atacas a una criatura por detras, le harás doble daño si el ataque es C a C. En esto consiste el "Extra Muerte Silenciosa".}
+{227}{}{Cada nivel de "Chico de Acción" (pon Chica si quieres) te dará un PA adicional para gastar en cada turno de combate. Puedes utilizar estos PAs genéricos en cualquier tarea.}
+{228}{}{"Mente en Blanco" es la habilidad de abstraerse de cualquier interferencia mental exterior. Has debido aprender a hacerlo con un gurú, o quizás una noche de copas.}
+{229}{}{En cada nivel de este "Extra" ganas 4 puntos de salud adicionales. Puede que no sea mucho, pero nunca viene mal.}
+{230}{}{Si tienes este "Extra" es menos probable que te hieran en combate. Cada nivel añadirá un +5% a tu "Clase de Coraza", además del bonus de la coraza que lleves.}
+{231}{}{¡Ñam-ñam! Sabe a pollo. Eres inmune al veneno, por lo que tu "Resistencia" al veneno aumenta en un 25 %.}
+{232}{}{Este "Extra" te concederá un bonus de un +20 % de un solo uso en las habilidades "Reparar" y "Ciencia". Una noche de estudio no le hace daño a nadie, sobre todo a ti.}
+{233}{}{El "Extra Médico" te concede un bonus del +20 % de un solo uso en las habilidades de Primeros Auxilios y Médico. Viene bien tener habilidades "Curativas".}
+{234}{}{Un "Maestro Ladrón" tiene un bonus del +10 % de un solo uso en las habilidades "Sigilo", "Ganzúa", "Robar" y "Trampas". Roba a los pobres y dátelo a ti.}
+{235}{}{Ser un "Orador" significa que tienes un bonus del +20 % de un solo uso en las habilidades "Discurso" Y "Trueque". Además de ser un maestro del flirteo, claro.}
+{236}{}{Cada nivel del "Extra "¡Allá va!" dará a tus armas lanzadas +2 de "Fuerza", sólo para determinar el alcance.}
+{237}{}{Los personajes que forman parte de tu equipo aparecen resaltados en verde en vez de en rojo durante el combate. Pero puede que aún así haya personajes rojos que no te sean hostiles.}
+{238}{}{Eres algo más que un ladronzuelo, eres un experto en "Robar". Con este "Extra" ignorarás los modificadores de tamaño y enfrentamientos cuando robes a alguien.}
+{239}{}{Cuando caiga el sol, o estés en un lugar poco iluminado, te moverás como un "Fantasma" con este "Extra". Tu "Sigilo" aumenta en un +20 % mientras esté oscuro.}
+{240}{}{La gente siempre ha oído cosas buenas de ti. Sin este "Extra", una gran reputación negativa te habría puesto a malas con la gente honrada. Pero claro, lo mismo pasa con la buena reputación y la gente no tan honrada.}
+{241}{}{Encuentras más munición que el superviviente post-nuclear medio. Este "Extra" doblará la cantidad de munición que vayas encontrando por ahí.}
+{242}{}{El destino de todo "Expedicionario" es buscar nuevos e interesantes lugares. Con este "Extra" tu posibilidad de encontrar gentes y lugares especiales crece.}
+{243}{}{Gracias a este "Extra", es muy difícil que te enganches a las drogas (un 50 % menos probable), y encima sufres sólo la mitad del síndrome de abstinencia que una persona normal.}
+{244}{}{El "Rastreador" es el mejor encontrando la ruta más corta. Con este "Extra" tu tiempo de viaje en el Mapa del Mundo se reduce en un 25 % en cada nivel.}
+{245}{}{Los animales no atacarían a uno de sus amigos, a menos que sean amenazados o atacados primero. Aunque todavía está por discutir quién es exactamente un animal en este mundo.}
+{246}{}{Tu habilidad para ver los lugares lejanos ha mejorado, ya que el tamaño de las exploraciones en el Mapa del Mundo ha aumentado un cuadrado en cada dirección.}
+{247}{}{Con este "Extra" te ganas la atención de un "Misterioso Desconocido", que aparecerá para ayudarte de vez en cuando. Si tu aliado desaparece en combate, no esperes que sea sustituido o sustituida.}
+{248}{}{Eres capaz de despertar menos interés no deseado mientras viajas por las tierras baldías. La posibilidad de que tengas encuentros hostiles disminuye en cada nivel de este "Extra".}
+{249}{}{Has aprendido a almacenar mejor el equipo que llevas encima. En cada nivel de este "Extra", el coste de PA requerido para acceder al Inventario durante el combate se reduce en uno.}
+{250}{}{Un "Buen Conver-sador" sabe como incrementar las opciones de diálogo, aunque no sepa necesariamente de qué está hablando. Cada nivel de este "Extra" aumenta tu IN por uno, sólo en cuanto al diálogo.}
+{251}{}{Eres inteligente y eficiente, por eso recibes un incremento de 5% a tus Pts. de experiencia adquiridos. Resulta más útil si lo adquieres al principio.}
+{252}{}{Tus habilidades han llegado a tal punto que se te permite escoger una nueva "Habilidad" como "Habilidad Personal", lo cual aumentará inmediatamente dicha habilidad en un +20 % y en un 2 % por pto de habilidad gastado.}
+{253}{}{¡Las radiaciones de las tierras baldías te han transformado! Uno de tus Rasgos está mutando en otra cosa...}
+{254}{}{Te mueres por otra Nuka-Cola.}
+{255}{}{Tienes el tembleque.}
+{256}{}{Te sientes muy débil.}
+{257}{}{Se te va la pelota.}
+{258}{}{Sientes nauseas.}
+{259}{}{Arma de Largo Alcance}
+{260}{}{Arma Certera}
+{261}{}{Arma Penetrante}
+{262}{}{Arma Rechazo}
+{263}{}{Armadura de Poder}
+{264}{}{Coraza de Combate}
+
