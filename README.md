@@ -7,7 +7,7 @@ INSTRUCTIONS FOR TRANSLATORS & TRANSLATIONS:
 
 0)  GitHub will not let me commit or upload any files with a tilde (~) in the file name.
 
-    This is not a big deal since those files are empty (zero size) but it's important to note if you see these files missing, to not worry about it:
+This is not a big deal since those files are empty (zero size) but it's important to note if you see these files missing, to not worry about it:
 
 	ANIMFR~1.MSG
 	BARTER~1.MSG
@@ -19,11 +19,11 @@ INSTRUCTIONS FOR TRANSLATORS & TRANSLATIONS:
 
 1)  Check this repository periodically as I may add more tools over time. The link contains information and files on:
 
-    - Quotation marks and elipsis being changed to their "dumb" counterparts.
-    - Two tools for converting graphics (such as interface) into editable file types. If you're working on translating Splash screens, you can convert to/from RIX (splash screen) file format using viewer.exe, Titanium browser can export FRM (Fallout graphics) to BMP/GIF/etc.
-    - Registry entries to associate Fallout dialog files with text-editors.  Most files are in *.MSG format, and cutscene subtitles are in *.SVE format.
-    - (NOT YET ADDED) templates for splash screens by Luffier, and text formatting scripts by Luffier
-    - Archive of all Fixt text and dialog back to alpha 6.0
+- Quotation marks and elipsis being changed to their "dumb" counterparts.
+- Two tools for converting graphics (such as interface) into editable file types. If you're working on translating Splash screens, you can convert to/from RIX (splash screen) file format using viewer.exe, Titanium browser can export FRM (Fallout graphics) to BMP/GIF/etc.
+- Registry entries to associate Fallout dialog files with text-editors.  Most files are in *.MSG format, and cutscene subtitles are in *.SVE format.
+- (NOT YET ADDED) templates for splash screens by Luffier, and text formatting scripts by Luffier
+- Archive of all Fixt text and dialog back to alpha 6.0
 
 	https://github.com/Sduibek/Fallout-Fixt-localization
 
@@ -31,10 +31,10 @@ INSTRUCTIONS FOR TRANSLATORS & TRANSLATIONS:
 2)  Unless we discussed otherwise, you should have been provided access to this project as a Collaborator, but it's open to anyone to make changes.
     Typically this repo will contain:
     
-    - ENGLISH default text files from v1.2 Fallout1 ("English Original")
-    - Files in your language ("{language} Original")  -  I have provided all I could find, it's possible that more exist. These may be in multiple folders if there was different translations, or multiple translations for patches/mods.
-    - Graphics files, if available, such as Splash screens and Interface files.
-    - Downloaded archives and/or executables of translations in your language, if available.
+- ENGLISH default text files from v1.2 Fallout1 ("English Original")
+- Files in your language ("{language} Original")  -  I have provided all I could find, it's possible that more exist. These may be in multiple folders if there was different translations, or multiple translations for patches/mods.
+- Graphics files, if available, such as Splash screens and Interface files.
+- Downloaded archives and/or executables of translations in your language, if available.
 
 
 3) The newest text and dialog files for Fallout Fixt, as well as this readme file, can always be found at:
