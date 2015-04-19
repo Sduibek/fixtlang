@@ -1,3 +1,8 @@
+# Dropbox
+.dropbox
+.dropbox.attr
+.dropbox.cache
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
