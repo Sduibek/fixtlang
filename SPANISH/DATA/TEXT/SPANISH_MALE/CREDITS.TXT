@@ -1,0 +1,884 @@
+; #MAIN HEADING - LARGE WHITE
+; @Subheading - SMALL DARK
+; List of folks - LARGE YELLOW
+#= Fallout Fixt =
+
+@A customizable patch, mod, restoration, and compilation
+
+@Version: alpha 6.7.3
+Sduibek
+
+
+#Philanthropists:
+
+phillon
+Salk
+Vasiliy Kashiskiy
+
+
+#SDUIBEK WOULD LIKE TO THANK:
+@(Listed Alphabetically)
+
+.Pixote.
+@For feedback, support and many graphics
+
+Continuum
+@For code, information, and graphics
+
+Cubik2k (Cubik)
+@For assistance, code, and many great tools and utilites
+@without which Fallout Fixt would be much less interesting
+
+Darek
+@For research, help with the engine conversion, lots of code
+@And providing additional resources and suggestions
+
+Drobovik
+@For the Fallout file archives
+
+Dude101
+@For feedback, admin access to the wiki, and News entry
+
+Endocore
+@For feedback, essential mapper guidance, and code
+
+gustarballs1983
+@For feedback and brainstorming
+
+holder80
+@For the Play-As-A-Mutant idea, design doc and info
+
+Infinitron
+@For unscaled feedback and News entry
+
+Jackalgunner
+@For feedback, bug-listing footwork and Wiki entries
+
+JimTheDinosaur
+@For support, suggestions, code, feedback, assistance
+
+Jordan
+@For making the engine conversion, and scripting help
+
+killap (Bear Dude)
+@For assistance, feedback, guidance, and being an
+@inspiration to the entire Fallout modding community
+
+Lexx (Tophat Cat)
+@For the uncut patch, graphics, code, feedback, info
+
+Mash
+@For the high-res patch that we love so much, and for
+@putting up with all my annoying messages
+
+Nevill
+@For being a bug-finding ninja and tester extraordinaire
+@Seriously this guy is thorough and meticulous
+
+Nirran
+@For feedback, assistance, code, and many great plugins
+
+Noid
+@For tools, and the original code to enable Debug Mode
+
+'No Mutants Allowed' forum and website
+@For being an indispensable Fallout resource and great community
+
+Oppen
+@For feedback, brainstorming, code, tools, and assistance
+
+Per
+@For writing the Nearly Ultimate Fallout Guide, a great resource
+@Which I still use as a reference when working on Fixt
+
+RPGCodex forum users
+@For the excellent no-bullshit feedback they provide,
+@without scaling to your level
+
+TarkinMX
+@For feedback and making the frontend loader / options utility
+@And working on the Engine Conversion and other tools
+
+TeamX
+@For being such a valuable resource to Fallout modders, their
+@many useful tools and utilities, and so much great information
+
+Timeslip
+@For feedback, brainstorming and creating the mighty Sfall
+
+Timothy (Tim) Cain
+@For creating Fallout 1, being a cool guy, and personally
+@answering my questions about Fallout, this many years later
+
+Wasteland Ghost
+@For being an amazing modder who left a legacy, and indirectly
+@the main reason Fallout Fixt exists
+
+WorstUsernameEver
+@For News entry
+
+
+#PROGRAMMING / SCRIPTING
+
+Sduibek
+
+@With contributions by
+Continuum
+Cubik2k (Cubik)
+Darek
+Endocore
+JimTheDinosaur
+Nevill
+Wasteland Ghost
+
+@Michael and Sophia quests restoration
+Ash
+
+@Lenore and Phil restorations
+Continuum
+
+
+#ART / GRAPHICS
+
+@High-res Main Menus
+.Pixote.
+
+@"Long Hair Dude" (Ian)
+Brother Soifran
+Josan12
+Mash
+x'il
+
+@"Mr. Bald Dude" (Tycho)
+.Pixote.
+Mr.Wolna
+x'il
+
+@"Ms. Punk Girl" (Katja)
+Geras
+Pjotr
+Sketch
+Yanok
+
+@"Old Maxx" NPC
+x'il
+
+@Lieutenant Fixed Offsets
+Lexx (Tophat Cat)
+
+@Smoking NPC Idle Animations
+Josan12
+
+@Human Male Metal Armor Hammer Thrust fix
+x'il
+
+@Black Guy Missing Running Animation
+Jotisz
+
+@Tanned Super Mutant
+x'il
+
+@"Nixie numbers"
+Inin / Mangler
+
+@Extended Flamer Attack Mod
+.Pixote.
+
+@Splash screens #5 and #6
+Kevin
+
+@Some new splash screens and rework of others
+.Pixote.
+Ghouly89
+
+@All other splash screens
+Sduibek
+
+@Fallout Fixt logo/banner
+Sduibek
+(Original artwork by Interplay)
+
+@Other minor graphics stuff
+Sduibek
+
+@120%-Size Mutant Death Animations
+.Pixote.
+Sduibek
+
+
+#DESIGN / WRITING (ENGLISH)
+
+Sduibek
+
+@With contributions by
+Ash
+Endocore
+
+@"Dialog Fixes" mod/patch
+Nimrod
+
+@"MSG Review" fixes and overhaul for Fixt
+robbforce
+
+@Further fixes, feedback, error-checking
+Luffier
+
+
+#DESIGN / WRITING (SPANISH)
+
+@Fixt and new improved translation (male and female)
+Luffier
+
+@Original improved translation (male and female)
+L@Zar0
+
+
+#DESIGN / WRITING (CZECH)
+
+@Unpacking & Decoding
+RAPTOR
+
+@Fonts & BMP Editing
+IDLER
+
+@Project leader
+Ondøej Prùša
+
+@Translation (in KB order)
+Radek Friedrich
+Somnambulus
+Petr Bulíø
+Vašek Vlèek
+Jakub Tureèek
+Punik
+Jana X.
+Tomáš Turek
+Pavel Zvìøina
+Daniel Bahula
+
+@Special thanx 
+Jan "Premie" Herodes
+Jirka "Weapons" Švarc
+Pavel "Krysák" Zvìøina
+
+@Fixt addon
+Khalashnikovf
+
+
+#DESIGN / WRITING (FRENCH)
+
+FuryMGS
+HawK-EyE
+
+
+#TESTING / TESTERS
+
+@(Listed Alphabetically)
+Alexisok
+bozyn
+dudejo001
+gustarballs1983
+Hal900x
+Izo
+Jackalgunner
+Justin Hein
+Mortimus
+Nevill
+OtakuMage
+Peter
+Ryan Paul Fialcowitz
+warning077
+zebrajch
+ziemeck
+
+
+#AUDIO
+
+Sduibek
+
+@FO1 Pistol Sound Patch
+Mutated Mark
+
+@Medium quality MP3 soundtrack
+Good Old Games (GOG.com)
+
+@High-quality remastered MP3 soundtrack
+Aural Network
+Mark Morgan
+Redbase
+Vladislav Isaev
+
+
+#MAPPING
+
+Sduibek
+
+@With contributions by
+.Pixote.
+Darek
+Endocore
+
+@Made possible using map converter utility by
+Cubik2k (Cubik)
+
+@Also made possible with documentation by
+Sorrow
+
+
+#INCLUDED PATCHES
+
+@Unofficial Patches v1.2X, 1.3X
+Alchemist
+AO
+Avega
+Dude101
+TeamX
+Wasteland Ghost
+
+@Missing Children patch
+Skynet
+
+@Cathedral crash fix
+Alchemist
+Coyote
+TeamX
+
+@Armor-Piercing Ammo patch
+Celestial
+
+@Uncut patch (for German versions)
+Lexx (Tophat Cat)
+
+@Gore Patch (for German versions)
+NeuRomancer
+
+
+#INCLUDED MODS
+
+@NPC Mod
+Alchemist
+Avega
+Dude101
+Nimrod
+TeamX
+Wasteland Ghost
+
+@Update and Restoration Mod v1.2.5
+Alchemist
+Dude101
+Pal
+Setau
+Spy
+Vault13
+Wasteland Ghost
+Wasteland Hellbringer
+
+@EndGame Mod and Cheatboy
+Cpt Corpse (Corpse)
+
+
+#SFALL PLUGIN
+
+@GPL 2008 - 2012
+Timeslip
+
+
+#HIGH-RESOLUTION PATCH/MOD
+
+Mash
+
+@With contributions by
+.Pixote.
+Continuum
+
+
+#FRONTEND LOADER / OPTIONS UTILITY
+
+TarkinMX
+
+@With contributions by
+Sduibek
+
+
+#SCREEN REFRESH UTILITY
+
+Lionel d'Hauenens (LABO)
+
+@Translated by
+Alchemist
+
+
+#DEBUG MODE 
+
+Cubik2k (Cubik)
+Noid
+Platon
+
+
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+
+
+#- FALLOUT -
+
+@A Post-Nuclear Role-Playing Game
+
+@Copyright 1995 - 1997
+Interplay Entertainment, Interplay Productions
+
+@"Fallout" is a registered trademark of
+@Bethesda Softworks LLC, a ZeniMax Media company
+
+
+
+#PROGRAMACION
+
+@Programadores Principales
+Tim Cain
+Chris Jones
+
+@Programadores
+Jesse L. Reynolds
+Kevin Weatherman
+Nick Kesting
+Robert Hertenstein 2
+Jess Heinig
+Jason Taylor
+
+@Programador de Mac
+Tim Hume
+
+@Programacion Adicional por
+Mark Harrison (Lizard Byte)
+John Price
+Chris DeSalvo
+Mark Murakami
+Dan Spitzley
+Guido Henkel
+Michael Bernstein
+Thomas French
+
+@Tecnologia Cinematografica
+Paul Edelstein
+
+@Instalador/Autoplay
+Darren Monahan
+
+
+#ARTE
+
+@Director de Arte
+Leonard Boyarsky
+
+@Artistas Principales
+Jason Anderson
+Leonard Boyarsky
+Gary Platner
+
+@Artistas
+Robert Collier
+Michael Dean
+Tramell Ray Isaac
+Eddie Rainwater
+Scott Rodenhizer
+Sharon Shellman
+
+@Arte Adicional por
+Peter Kroko
+Justin Sweet
+Joseph Cesario
+Cheryl Austin
+Jay Esparza (Tachyon)
+Geoff Gregor
+Arlene Sommers
+George Almond
+Erik Jamison
+Helena Wickberg
+James Doyle (Apples Animation)
+
+@Modelador de Barro
+Scott Rodenhizer
+
+@Artista Conceptual
+Tony Postma
+
+
+
+#DISEÑO
+
+@Diseñador Pricipal
+Chris Taylor
+
+@Diseñadores
+David Hendee
+Scott Bennie
+Brian Freyermuth
+Scott Campbell
+
+@Diseñador Tecnico
+Scott Everts
+
+@Diseños Adicionales por
+Robert Hertenstein 2
+Jess Heinig
+Nick Kesting
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Fred Hatch
+Evan Chantland
+Erick Lujan
+Dennis Presnell
+Feargus Urquhart
+
+@Diseño/Dialogo
+Mark O'Green
+
+@Diseño Original por
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+
+
+#PRODUCCION
+
+@Productor
+Tim Cain
+
+@Asistente Productor
+Fred Hatch
+
+@Director de Division
+Feargus Urquhart
+
+@Asistente Director de Division
+Jeremy Barnes
+
+@Productor Original
+Tom Decker
+
+@Asistente de Produccion
+Jason G. Suinn
+
+@Monito
+Mike "Paco" Greene
+
+@Asistencia de Mac
+Chris Benson
+
+@Version Localizada
+Tom Decker
+
+@Revision, Traduccion Adicional y
+@Garantia de Calidad en Frances
+Marina Bermon
+
+@Revision, Traduccion Adicional y
+@Garantia de Calidad en Español
+Rafael "Rafa" Lopez
+
+@Ensayadores en Español
+Natalija Benjovski
+
+#GARANTIA DE CALIDAD
+
+@Director de Garantia de Calidad
+Chad Allison
+
+@Asistente Director de G.C.
+Colin Totman
+
+@Ensayadores Principales, Version PC
+Ron Hodge
+Greg "Moose" Baumeister
+
+@Ensayadores, Version PC
+Shanna SanPaolo
+Evan Chantland
+Ed Hyland
+Steve Reed
+James Chung
+Kaycee Vardaman
+Bill Field
+Richard Barker
+Rene Hakiki
+Erick Lujan
+Matt Kaupa
+Steve Victory
+Scot Humphreys
+Tim Anderson
+Darrell Jones
+
+@Ensayadores Principales, Version Mac
+Jim Dodds
+Matt Murakami
+Steve McLafferty
+
+@Ensayadores, Version Mac
+Adam Chaney
+Dennis Presnell
+Savina Greene
+Kaycee Vardaman
+Scot Humphreys
+Mike Krueger
+Matt Golembiewski
+
+@Tecnicos de Servicios Informaticos
+Bill Delk
+Steve Cabiness
+
+@Director de Compatibilidad
+Phuong Nguyen
+
+@Tecnicos de Compatibilidad
+Marc Duran
+Dan Forsyth
+Derek Gibbs
+Aaron Olalz
+John Parker
+
+
+
+#SONIDO
+
+@Director de Sonido
+Charles Deenen
+
+@Maestro de Sonido
+Craig Duman
+
+@Musica de Fondo para TV
+Ronald Valdez
+
+@Mezclador de Regrabado Cinematico
+Dave West
+
+@Sonidos Especiales Cinematicos
+West Productions
+
+@Artistas de Sonidos Especiales
+Doug Turner
+Gary Murello
+Larry Peacock
+
+@Editor de Sonidos Especiales
+Caron Weidner
+
+@Mezclador de Sonidos Especiales
+Debby Ruby
+
+@Artista/Mezclador de Sonidos Especiales
+Cecilia Perna
+
+@Sonidos Especiales Grabados en
+West Productions
+
+@Supervision de Sonidos Especiales
+Charles Deenen
+Larry Peacock
+
+@Editor de Efectos Especiales
+Michael Dickeson
+
+@Musica Por
+Mark Morgan
+@De
+Four Bars Entertainment
+
+@Mezclador de Regrabado, Introduccion
+Charles Deenen
+
+@Supervisor de Musica
+Brian Luzietti
+
+@Bibliotecarios de Efectos de Sonido
+Doug Rappaport
+Sergio Bustamante II
+Ron Valdez
+
+@Diseño de Efectos de Sonido
+Charles Deenen
+Gregory Allen
+Larry Peacock
+EFX
+Weddington
+Caron Weidner
+
+@Editores de Dialogo
+Doug Rappaport
+Sergio Bustamante II
+
+@Productor de Dialogo
+Fred Hatch
+
+@Ingeniero de Grabado, Dialogo
+Paul Hurtubise
+
+@Supervisor de Dialogo
+Chris Borders
+
+@Coordinador de Talento, Dialogo
+Julie Morgavi
+
+@Dialogo Grabado en
+Hollywood Recording Services
+Hollywood, CA
+
+@Director de Dialogo
+Jamie Thomason
+
+
+@PRESENTANDO LAS VOCES DE
+
+Charlie Adler
+@Harold
+
+Richard Dean Anderson
+@Killian
+
+Jeff Bennett
+@Loxley
+
+Clancy Brown
+@Rhombus
+
+Jim Cummings
+@Set, Gizmo, El Maestro
+
+Keith David
+@Decker
+
+Brad Garrett
+@Harry
+
+Tony Jay
+@El teniente
+
+Tress MacNeille
+@Jain
+
+Ken Mars
+@Supervisor
+
+Richard Moll
+@Cabbot
+
+Ron Perlman
+@Butch Harris, Narrador
+
+CCH Pounder
+@Vree
+
+Pam Segall
+@Nicole
+
+Tony Shalub
+@Aradesh
+
+Kath Soucie
+@Laura, El Maestro
+
+Cree Summer
+@Tandi
+
+David Warner
+@Morfeo
+
+Frank Welker
+@Maxson
+
+@Dialogo Adicional Por
+Max the Dog
+
+
+
+"Maybe"
+@Interpretado Por Ink Spots
+@Cortesia de MCA Records
+@Por Arreglo con Universial Music Special Markets, Inc.
+
+"MAYBE"
+@Escrito por Allan Flynn y Frank Madden
+@Utilizado con Permiso de EMI Robbins Catalog Inc. (ASCAP)
+
+@AVISO: Es una violacion de leyes federales de Copyright
+@copiar, duplicar o reproducir este programa o
+@cualquier parte del programa sin el expreso permiso por
+@escrito del dueño del Copyright.
+
+#MERCADEO
+
+@Gerente de Relaciones Publicas
+Genevieve Ostergard
+
+@Director de Mercadeo
+Paul Sackman
+
+@Gerentes de Mercadeo
+Mike Markin
+Craig Owens
+Michael Courtney
+
+@Gerente de Mercadeo Asociado
+Tod Mack
+
+@Gerente de Trafico
+Thom Dohner
+
+
+
+
+@Gracias a: Scott Everts, Bomberman, Quake, Diablo,
+@Warcraft II, musica de varias peliculas, Brian Eno, la hielera
+@de refrescos (¡Gracias Gus y Rusty!), el espiritu navideño
+@(¡Hola Santo C!), Demo el gato, Nicol, Tracy, Mary & Adam, Lisa
+@(soporte moral), Jamal, mama de T-Ray, los dos Donalds,
+@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, el atrio
+@merendero, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
+@X-Files, Xena, Buffy, Los Simpsons, ER, Jeepin y el chucho
+@hablador que a ultima hora encontro una falla.
+
+@Gracias a los miembros del boletin electronico de fallout
+@por comentarios, sugerencias y reportes de fallas en la demo.
+@Su ayuda es muy agradecida.
+
+
+
+
+
+
+
+
+@¡Eso es todo!
+
+
+
+@No hay mas creditos.
+
+
+
+@Dejais de leer.
+
+
+
+
+
+
+
+
+
+@Fallout es presentado por Interplay Productions,
+@el equipo Fallout y la letra Q.
+
+
+
+
+Tengais un buen dia.

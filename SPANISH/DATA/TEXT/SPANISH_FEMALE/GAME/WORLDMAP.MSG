@@ -1,0 +1,133 @@
+#
+# Townmap and Worldmap names, and messages.
+#
+#
+# TOWNMAP:
+#
+#
+# --- Town map selection names ---
+# This is what shows up, on the -TOWN- map, when you hover your mouse over
+# the clickable green triangle icons for the town areas.
+#
+# NOTE: Not used for text on righthand area in savegames, just the townmap hover text!
+#
+#
+# Vault 13
+#
+{200}{}{Caverna, Puerta del Refugio}
+{201}{}{Nivel 1 - Entrada, Zona médica}
+{202}{}{Nivel 2 - Aposentos}
+{203}{}{Nivel 3 - Biblioteca, Centro de mando}
+#
+# Vault 15
+#
+{210}{}{Choza}
+{211}{}{Entrada de la Caverna, Zona médica}
+{212}{}{Nivel 1 - Aposentos}
+{213}{}{Nivel 2 - Centro de mando}
+#
+# Shady Sands
+#
+{220}{}{Entrada}
+{221}{}{Campo de cultivo}
+{222}{}{Corral de brahmines}
+{223}{}{Cuevas de los escorpiones rad}
+#
+# Junktown
+#
+{230}{}{Entrada}
+{231}{}{Posada}
+{232}{}{Casino}
+#
+# Raiders
+#
+{240}{}{Campo base}
+#
+# Necropolis
+#
+{250}{}{Hotel de la perdición}
+{251}{}{Salón de los muertos}
+{252}{}{El almacén de agua}
+#
+# The Hub
+#
+{260}{}{Entrada}
+{261}{}{Centro de la ciudad}
+{262}{}{Alturas}
+{263}{}{Ciudad Antigua}
+{264}{}{Mercaderes}
+{265}{}{Cueva}
+#
+# Brotherhood of Steel
+#
+{270}{}{Entrada}
+{271}{}{Nivel 1}
+{272}{}{Nivel 2}
+{273}{}{Nivel 3}
+{274}{}{Nivel 4}
+#
+# Military Base
+#
+{280}{}{Entrada}
+{281}{}{Fortaleza Nivel 1}
+{282}{}{Fortaleza Nivel 2}
+{283}{}{Tanques Nivel 1}
+{284}{}{Tanques Nivel 2}
+#
+# Glow
+#
+{290}{}{Cráter}
+{291}{}{Nivel 1}
+{292}{}{Nivel 2}
+{293}{}{Nivel 3}
+{294}{}{Nivel 4}
+{295}{}{Nivel 5}
+{296}{}{Nivel 6}
+#
+# L.A. Boneyard
+#
+{300}{}{Adytum}
+{301}{}{Centro de la ciudad}
+{302}{}{Biblioteca}
+{303}{}{Fortaleza}
+{304}{}{Almacén}
+#
+# Cathedral
+#
+{310}{}{Entrada}
+{311}{}{Interior}
+#
+#
+#
+# WORLDMAP:
+#
+#
+# --- Nuked areas ---
+# These are used for when you've blown up the Cathedral and Military Base.
+# Possibly also used if Brotherhood blown up, but that is cut content.
+#
+# Generated automatically by engine, displayed in messagebox:
+#
+{500}{}{Ganas 10.000 puntos de experiencia.}
+#
+#Used for hover text
+#
+{501}{}{Ruinas}
+#
+#
+# --- Terrain type names for worldmap ---
+# When you hover your mouse over the clickable green triangle icon.
+# NOTE: Not used for text on righthand area in savegames, just the worldmap hover text.
+#
+{1000}{}{Desierto}
+{1001}{}{Montañas}
+{1002}{}{Ruinas de ciudad}
+{1003}{}{Costa}
+#
+#
+# --- Unvisited city/town ---
+# if you've never entered the location before:
+# This is what shows up, on the -WORLD- map, while standing on their green circle,
+# when you hover your mouse over the clickable green triangle icon.
+#
+{1004}{}{Desconocido}
