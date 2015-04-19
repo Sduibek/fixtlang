@@ -1,0 +1,287 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Du siehst eine Frau.}
+{107}{}{Du siehst einen Mann.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{Du siehst einen Betrunkenen.}
+{110}{}{Lass mich mit meinem Schmerz allein!}
+{111}{}{Du bist mein bestester Freund!}
+# best friend (slurred)
+
+{112}{}{Warum bist du... (hickst) wo bin ich?}
+{113}{}{Wer bist du?}
+{114}{}{Kenn ich dich?}
+{115}{}{Ich fühle mich ein wenig unwohl.}
+{116}{}{Drinks gehen auf mich, ich meine dich!}
+{117}{}{Warum sind da zwei von dir?}
+
+#They say 'Stand still' because their vision is blurry and moving from being drunk
+
+# laddy is male. long version of "lad".
+{118}{}{Stehen sie still Laddy!}
+# female
+{119}{}{Steh still Mädchen!}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{Du siehst einen Kunden.}
+{104}{}{Du siehst einen Spieler.}
+{120}{}{Raus hier du Versager!}
+# == "Get out of here loser"
+
+{121}{}{Du senkst du Klasse von dieser Bude.}
+# == "you are dropping the class of this place"
+
+{122}{}{Geh weg, du verhext mich noch!}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Unterbrich nicht meine Konzentration!}
+{124}{}{Ich werde dieses verdammte Spiel schlagen!}
+{125}{}{Bist du gut darin?}
+{126}{}{Hast du das gesehn? Das war unmöglich!}
+# referring to dice roll
+
+{127}{}{Ich glaub die bescheißen.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{Nun, das sind gute Chancen.}
+{129}{}{Das ist ein sicheres Ding.}
+# TRANSLATION NOTE: line 129 is referring to a bet.
+
+{130}{}{Was? Wie konnte ich verlieren?}
+{131}{}{Dieser Tisch ist verhext!}
+# TRANSLATION NOTE: line 131 means "this table is cursed/unlucky"
+
+{132}{}{Ich bin beschäftigt.}
+{133}{}{Kannst du nicht, dass ich hier gerade spiele?}
+{134}{}{Wette oder geh!}
+# TRANSLATION NOTE: line 134 "Make a bet on the game or go away"
+
+
+######################################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her 20 caps. She will be talking a sexy, but lewd voice.
+
+{102}{}{Du siehst eine schäbig aussehende Frau.}
+{302}{}{Bei genauerer Betrachtung ist es offensichtlich, dass dies eine Prostituierte ist. Sie wirft dir ein falsches Lächeln zu.}
+
+# MALE CUSTOMERS
+
+# random 200 to 209 can display when dialog begins
+{200}{}{Hey Liebling, suchst du nach etwas Vergnügen?}
+{201}{}{Wonach suchst du Liebling?}
+{202}{}{Suchst du nach ein wenig Gesellschaft?}
+{203}{}{Hey du Süßer!}
+{204}{}{Magst du, was du siehst? Also ich schon ...}
+{205}{}{Zeig mir, was du hast, Süßer!}
+
+# random 206 to 209 display as a float message when dialog ends
+{206}{}{Ich mag es hart, wenn du verstehst!?}
+{207}{}{Keine Krankheiten, ich bin sauber!}
+{208}{}{Für ein kleines Extra, mach ich auch Gruppensex.}
+{209}{}{Wenn der Preis stimmt mach ich alles ...}
+
+# FEMALE CUSTOMERS
+
+# random 210 to 219 can display when dialog begins
+{210}{}{Ich hatte noch nie was mit einer anderen Frau...}
+{211}{}{Ich bin dein wahr gewordener Traum, Schätzchen!}
+{212}{}{Wenn du die Kohle, hast bin ich dabei.}
+{213}{}{Gefällt dir, was du siehst? Also mir schon ...}
+{214}{}{Hey du, Schätzchen!}
+{215}{}{Hey Schätzchen, suchst du etwas Vergnügen?}
+
+# random 216 to 219 display as a float message when dialog ends
+{216}{}{Ich mag's hart, wenn du weiß, was ich meine!?}
+{217}{}{Keine Krankheiten, ich bin sauber!}
+{218}{}{Für ein kleines Extra, mach ich auch Gruppensex.}
+{219}{}{Wenn der Preis stimmt mache ich alles ...}
+
+# STUPID CUSTOMERS
+
+{232}{}{Hübsche Frau! Vielleicht mit mir?}
+{233}{}{Oh Gott ... Schätzchen, ich muss zwar meinen Lebensunterhalt damit bestreiten, aber auch ich habe Standards.}
+{235}{}{ICH WILL!}
+{405}{}{Nun ... ich glaube, ich könnte eine Ausnahme machen. Du solltest aber besser haben verdammt viele Scheine haben!}
+# == "you better have a very large amount of caps though"
+{243}{}{Deckel?}
+{244}{}{[seufzt] Ja, du Idiot, Deckel! Zahl mir 150 und ich zeig dir was Vergnügen ist! Das sollte mir reichen, um meine Schande an der Bar zu ertränken und noch einen Gewinn zu erzielen.}
+# "that should be enough caps to buy me lots of alcohol and still have caps left over"
+{238}{}{Hmph.}
+{239}{}{Tut mir leid Schätzchen. Wenn du ein neues Gehirn gefunden hast, komm zrück!}
+{240}{}{Mmf. Oh-k, ich geh.}
+{257}{}{Hier geh!}
+{258}{}{Ich hab kein Geld bekommen ...}
+{259}{}{Hmph!}
+{260}{}{Ich kann nicht glauben, dass ich das mache ....}
+{261}{}{Geh einfach!}
+{262}{}{Ich brauch nen neuen Job.}
+{263}{}{Du schon wieder? Verpiss dich, ich mach's nicht mit Vollidiot, die nicht zahlen können.}
+{264}{}{Urr...}
+{265}{}{Buh?}
+
+# Generic hooker msgs
+
+{220}{}{Was kostet der Spaß?}
+{221}{}{20 Deckel.}
+{249}{}{Okay, klingt gut.}
+{222}{}{Zurück an die Arbeit ...}
+# 227 "what service do you want?"
+{227}{}{In Ordnung. Wonach suchst'n Schätzchen?}
+{223}{}{Nein Danke, ich bin nicht interessiert!}
+{225}{}{Was kostet denn ein bischen Gruppenvergnügen?}
+{241}{}{Hängt davon ab, was du suchst Schätzchen.}
+{226}{}{Hundert Deckel.}
+{230}{}{Lapdance.}
+{231}{}{Striptease.}
+{234}{}{Mach's dir selber und ich schau zu!}
+{237}{}{Alles und jedes! Überrasch mich ...}
+{245}{}{Ist mir egal, lass es uns einfach hinter uns bringen.}
+{246}{}{Nur Sex.}
+{236}{}{Das Übliche.}
+{250}{}{Vergiß es!}
+# 251 "if you don't want any, okay. but you'll come back."
+{251}{}{Zieh dich an Schätzchen und komm wieder!}
+{228}{}{In Ordnung, folge mir ....}
+{242}{}{In Ordnung, folgt mir ...}
+{254}{}{[Weiter]}
+{229}{}{Danke, Fremder! [steckt die Deckel ein und haucht dir eine Kuss zu]}
+{256}{}{Danke Schätzchen! Komm bald wieder zurück!}
+{224}{}{Danke für das Vergnügen! Wir sehen uns!}
+
+# for when she says how many caps it costs to be with her
+#low Charisma
+{247}{}{Für dich, }
+#high Charisma
+{248}{}{Für dich Schätzchen?}
+{300}{}{ Deckel.}
+{252}{}{So viel habe ich nicht.}
+{253}{}{Warum zur Hölle redest du dann mit mir? Raus hier!}
+{255}{}{[Fertig]}
+
+# messages from team members while doing group action
+{400}{}{Also das war interessant!}
+{401}{}{Wau!}
+{402}{}{Wir sollten zurück an die Arbeit.}
+{403}{}{Ohh Mann, fühl ich mich schmutzig!}
+{404}{}{Oh wow...}
+
+################################
+# Busy prostitute
+
+{105}{}{Du siehst eine sehr hübsche Dame. Sie scheint beschäftigt zu sein.}
+{301}{}{Bei genauerer Betrachtung ist es offensichtlich, dass es sich um eine Prostituierte mit einem Kunden handelt. Sie gibt dir ein Zeichen sofort zu verschwinden.}
+
+{135}{}{Laß uns alleine oder ich rufe die Wachen.}
+{136}{}{Schau, ich bin ein guter Freund von Deputy Fry!}
+{137}{}{Macht es dir etwas aus uns alleine zu lassen?}
+# == "could you please leave us alone? you're being rude"
+{138}{}{Keine Peep-Shows!}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Ich mache keinen Gruppensex.}
+# == "I don't have sex with more than one person."
+
+{140}{}{Ich bin zu müde für noch einen.}
+# referring to having another round of sex.
+
+{141}{}{Du träumst wohl Kumpel, schlag zu!}
+{142}{}{Raus hier zum Teufel!}
+{143}{}{Was zur Hölle glaubst du, tust du da?}
+{144}{}{Kümmere dich um deine Manieren!}
+{145}{}{Ich rufe die Bullen!}
+{146}{}{Denk nicht einmal daran!}
+{147}{}{Raus hier!}
+{148}{}{Schlag zu!}
+{149}{}{Was starrst du an?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{Du siehst a Händler.}
+{150}{}{Macht es dir etwas aus?}
+{151}{}{Verdammt noch mal, raus aus meinem Zimmer!}
+{152}{}{Raus hier!}
+{153}{}{Gehörst du dazu?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Raus hier du Perverser!}
+# == "get out of here, perverse person"
+
+{155}{}{Was ist dein Problem?}
+{156}{}{Raus hier, bevor ich sauer werde!}
+# "Beat it" == "get out of here"
+
+{157}{}{Machs dir selbst!}
+# == "get your own hooker"
+
+{158}{}{Die gehört zu mir!}
+# "She" is referring to the hooker.
+
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{Du siehst einen sehr verärgerten Spieler.}
+{159}{}{Verdammt!}
+{160}{}{Betrügst du?}
+# referring to the player
+
+{161}{}{Das sollte mir gehören.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Schnell!}
+# nearly got his number on the roulette wheel
+
+{163}{}{Gerade verpasst.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{Wie sind noch gleich die Regeln?}
+# in referrence to a gambling game
+
+{165}{}{Früher war ich echt gut darin.}
+# in referrence to a gambling game
+
+{166}{}{Danke für nichts!}
+{167}{}{Ich glaube es nicht!}
+{168}{}{Ich dachte ehrlich, ich mach's.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{Du siehst eine seltsam aussehenden Mann.}
+{169}{}{Platzieren Sie Ihre Einsätze.}
+{170}{}{Halten Sie Ihre Hände weg Sir.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Gewonnen!}
+{172}{}{Sorry Leute, vielleicht beim nächsten Mal.}
+# maybe next time someone can win
+
+{173}{}{Noch ein Gewinner!}
+{174}{}{Hände weg!}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{Sie sind dran Sir!}
+# your turn to bet
+{176}{}{Tut mir leid, die Wette ist ungültig.}
+{177}{}{Das war's!}
+{178}{}{Noch jemand?}
+
+
+
+

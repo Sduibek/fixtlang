@@ -1,0 +1,26 @@
+#
+#from GENLOCK.MSG
+#
+{100}{}{Der Schrank ist verschlossen.}
+{101}{}{Dein Dietrich ist kaputt.}
+{102}{}{Du entriegelst den Schrank.}
+{103}{}{Du schaffst es nicht, den Schrank zu entriegeln.}
+{104}{}{Der Schrank ist schon offen.}
+{105}{}{Du brichst den Dietrech im Schloß ab!}
+{106}{}{Du öffnest geschickt das Schloß.}
+#
+#from LOCKER.MSG
+#
+{107}{}{Der Schrank ist zugesperrt.}
+{108}{}{Du brichst deine Dietriche ab.}
+{109}{}{Du sperrst den Schrank auf.}
+{110}{}{Sie gelingt dir nicht den Spind zu öffnen.}
+#
+# new for Fallout Fixt
+#
+{111}{}{Die Explosion zerstört das ganze Schloß.}
+{112}{}{Die Explosion zerstört den ganzen Kasten.}
+
+
+
+

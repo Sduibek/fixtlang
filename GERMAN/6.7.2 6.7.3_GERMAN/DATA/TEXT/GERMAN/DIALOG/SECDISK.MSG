@@ -1,0 +1,25 @@
+{100}{}{Das ist merkwürdig: Es sieht so aus, als könntest du es in deinem PipBoy verwenden.}
+{101}{}{PipBoy zeigt an: Datei im System gefunden. Download abgebrochen.}
+{102}{}{PipBoy zeigt an: Daten werden von Disk geladen.}
+#
+#
+# For Fallout Fixt:
+#
+#
+# NOTE: In 103, override is spelled improperly on purpose.
+#
+{103}{}{Diese Disk ist in einem schlechten Zustand. Sie hat keine richtiges Etikett, aber mehrfach überschriebene Kratzer auf der Seite.}
+{104}{}{Du siehst: Eine Disk zum Überschreiben der Sicherheitsprotokolle.}
+#
+#TRANSLATION NOTE: In 105, admin is abbreviation for administrator, so use your language's equivalent of "administrator" if abbreviation doesn't exist.
+# "muerte" is "death" in Spanish, leave as-is, do not translate. (Wasteland reference)
+#
+{105}{}{Benutzername: "admin". Kennwort: "muerte". Sicherheitsprotokoll überschreiben: Gamma Omicron Delta.}
+{106}{}{**ANFANG-DISKETTE**}
+{107}{}{**ENDE DER DISKETTE**}
+{108}{}{[Weiter]}
+{109}{}{Pip-Boy 2000 zeigt an: Benutzername: "admin". Kennwort: "muerte". Sicherheitsprotokoll überschreiben: Gamma Omicron Delta.}
+
+
+
+

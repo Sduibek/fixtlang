@@ -1,0 +1,23 @@
+{100}{}{Vor dir siehst du einen Würfelspieltisch. Mindesteinsatz ist 40 Dollar.}
+{101}{}{Du hast eine 7 gewürfelt. Du hast gewonnen!}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{Du hast Schlangenaugen gewürfelt. Du hast verloren.}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{Du hast eine }
+{104}{}{ gewürfelt. Du hast gewonnen!}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{Du hast eine }
+{106}{}{ gewürfelt. Du hast verloren.}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{Du hast eine }
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{ gewürfelt und keinen Punkt gemacht. Du hast verloren.}
+{109}{}{Du hast einen Punkt gemacht. Du hast gewonnen!}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{Du hast eine }
+{111}{}{ gewürfelt und einen Punkt gemacht. Würfel noch einmal!}
+{112}{}{Du erhältst 70 Erfahrungspunkte, weil du den Croupier umgelegt hast.}
+
+
+
+

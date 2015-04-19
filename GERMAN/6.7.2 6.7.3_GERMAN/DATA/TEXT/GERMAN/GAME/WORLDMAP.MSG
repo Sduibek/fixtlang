@@ -1,0 +1,135 @@
+#
+# Townmap and Worldmap names, and messages.
+#
+#
+# TOWNMAP:
+#
+#
+# --- Town map selection names ---
+# This is what shows up, on the -TOWN- map, when you hover your mouse over
+# the clickable green triangle icons for the town areas.
+#
+# NOTE: Not used for text on righthand area in savegames, just the townmap hover text!
+#
+#
+# Vault 13
+#
+{200}{}{Höhleneingang}
+{201}{}{Eingang}
+{202}{}{Unterkünfte}
+{203}{}{Kommandozentrale}
+#
+# Vault 15
+#
+{210}{}{Wüsteneingang}
+{211}{}{Höhleneingang}
+{212}{}{Unterkünfte}
+{213}{}{Kommandozentrale}
+#
+# Shady Sands
+#
+{220}{}{Eingang}
+{221}{}{Garten}
+{222}{}{Brahmin-Stall}
+{223}{}{Radskorpion-Hölen}
+#
+# Junktown
+#
+{230}{}{Eingang}
+{231}{}{Crash House}
+{232}{}{Kasino}
+#
+# Raiders
+#
+{240}{}{Basis}
+#
+# Necropolis
+#
+{250}{}{Hotel}
+{251}{}{Halle}
+{252}{}{Wasserstelle}
+#
+# The Hub
+#
+{260}{}{Eingang}
+{261}{}{Downtown}
+{262}{}{Heights}
+{263}{}{Old Town}
+{264}{}{Händler}
+{265}{}{Höhle}
+#
+# Brotherhood of Steel
+#
+{270}{}{Eingang}
+{271}{}{Ebene 1}
+{272}{}{Ebene 2}
+{273}{}{Ebene 3}
+{274}{}{Ebene 4}
+#
+# Military Base
+#
+{280}{}{Eingang}
+{281}{}{Festung, Ebene 1}
+{282}{}{Festung, Ebene 2}
+{283}{}{Container, Ebene 1}
+{284}{}{Container, Ebene 2}
+#
+# Glow
+#
+{290}{}{Krater}
+{291}{}{Ebene 1}
+{292}{}{Ebene 2}
+{293}{}{Ebene 3}
+{294}{}{Ebene 4}
+{295}{}{Ebene 5}
+{296}{}{Ebene 6}
+#
+# L.A. Boneyard
+#
+{300}{}{Adytum}
+{301}{}{Downtown}
+{302}{}{Bibliothek}
+{303}{}{Festung}
+{304}{}{Lager}
+#
+# Cathedral
+#
+{310}{}{Eingang}
+{311}{}{Inneres}
+#
+#
+#
+# WORLDMAP:
+#
+#
+# --- Nuked areas ---
+# These are used for when you've blown up the Cathedral and Military Base.
+# Possibly also used if Brotherhood blown up, but that is cut content.
+#
+# Generated automatically by engine, displayed in messagebox:
+#
+{500}{}{Du erhältst 10.000 Erfahrungspunkte!}
+#
+#Used for hover text
+#
+{501}{}{Ruinen}
+#
+#
+# --- Terrain type names for worldmap ---
+# When you hover your mouse over the clickable green triangle icon.
+# NOTE: Not used for text on righthand area in savegames, just the worldmap hover text.
+#
+{1000}{}{Wüste}
+{1001}{}{Berge}
+{1002}{}{Stadt}
+{1003}{}{Küste}
+#
+#
+# --- Unvisited city/town ---
+# if you've never entered the location before:
+# This is what shows up, on the -WORLD- map, while standing on their green circle,
+# when you hover your mouse over the clickable green triangle icon.
+#
+{1004}{}{Unbekannt}  # Unknown/visited city
+
+

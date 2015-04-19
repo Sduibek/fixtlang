@@ -1,0 +1,177 @@
+{100}{}{Du siehst die Ärztin der Brotherhood of Steel.}
+{101}{}{Du siehst: Lorri, die Chefärztin der medizinischen Einrichtung der Bruderschaft.}
+{102}{}{Hallo, wie kann ich dir helfen?}
+{103}{}{Ich bin verletzt.}
+{104}{}{Ich bin verstrahlt.}
+{105}{}{Operierst du auch?}
+{106}{}{Erzähl mir das mit den Operationen noch mal.}
+{107}{}{Ägh!}
+{108}{}{Bist du verletzt? Laß mal sehen ...}
+{109}{}{Aha, das war also das Problem! Sei in Zukunft vorsichtiger da draußen.}
+{110}{}{Tut mir leid, aber ich kann dir nicht helfen, wenn du mir nicht sagst, was dir fehlt.}
+{111}{}{Dir scheint nichts zu fehlen.}
+{112}{}{So, das war's schon ... Ich hoffe, du fühlst dich jetzt besser.}
+{113}{}{So, fertig ... Laß dich in Zukunft nicht mehr auf Kämpfe ein.}
+{114}{}{Jetzt solltest du wieder in Ordnung sein.}
+{115}{}{Wie neugeboren!}
+{116}{}{Alles geheilt!}
+{117}{}{Radioaktive Strahlung ist sehr gefährlich, du solltest daher vorsichtiger sein.}
+{118}{}{Ich habe keine Zeit für Spielchen.}
+{119}{}{Aber natürlich, allerdings kosten Operationen viel Geld und Zeit.}
+{120}{}{Einzelheiten?}
+{121}{}{Okay, schon gut.}
+# Standard install
+{122}{}{Gut, ich kann dir zu mehr Stärke, einer besseren Wahrnehmung und mehr Ausdauer verhelfen, deinen Lernprozeß beschleunigen und dein Geschick steigern. Über was willst du mehr wissen? Ich kann jede Operation nur einmal durchführen.}
+# With "Bug Fixes Only" enabled, or Charisma disabled
+{222}{}{Gut, ich kann dir zu mehr Stärke, einer besseren Wahrnehmung und mehr Ausdauer verhelfen, deinen Lernprozeß beschleunigen und dein Geschick steigern. Über was willst du mehr wissen?}
+{124}{}{Wer bist du?}
+{125}{}{Mein Name ist Lorri. Ich leite das medizinische Personal und führe alle wichtigen Operationen und medizinische Prozeduren druch. Eigentlich bin ich hier der einzige Arzt. Und Sie sind?}
+{126}{}{Okay, für welche Operation interessierst du dich?}
+{127}{}{Stärke.}
+{128}{}{Wahrnehmung.}
+{129}{}{Ausdauer.}
+{123}{}{Charisma.}
+{130}{}{Intelligenz.}
+{131}{}{Beweglichkeit.}
+{132}{}{Schon gut.}
+{133}{}{Diese Operation ist ganz einfach, aber die Genesung dauert ziemlich lange. Sie kostet nur 2000 Scripts, aber du mußt mit 3 Wochen für die Genesung rechnen.}
+{134}{}{Ich bin }
+{135}{}{Okay, ich lass' es machen.}
+{136}{}{Ich lass' es lieber.}
+{137}{}{Nun, das ist eine schwierige Operation. Sie kostet 4000 Scripts, aber die Genesung dauert dafür nur eine Woche.}
+
+#TRANSLATION NOTE: Player's name will be inserted after line 138. Then appends 152 and 142.
+#Brotherhood of Steel calls everyone "Brother ____", even females.
+{138}{}{Es ist eine Freude, dich zu treffen, Bruder }
+
+{139}{}{Diese Operation ist nicht so schwierig. Sie kostet 3000 Scripts, und die Genesung dauert ungefähr eine Woche.}
+{140}{}{Ich bin vergiftet!}
+{141}{}{Das ist die schwierigste und gefährlichste Operation. Sie kostet 6000 Scripts, und die Genesung dauert 3 Wochen.}
+{142}{}{ Nun, was kann ich für dich tun?}
+{143}{}{Das ist keine sehr schwierige Operation, aber sie kostet viel Geld und Zeit. Sie kostet 5000 Scripts, und die Genesung dauert 3 Wochen.}
+{144}{}{[Weiter]}
+{145}{}{Diese Operation ist ganz einfach, aber die Genesung dauert ziemlich lange. Sie kostet nur }
+{146}{}{Okay, das war's schon ... Ich hoffe, der Schaum hat deiner Haut nicht geschadet.}
+{147}{}{Tut mir leid, aber ohne Geld kann ich dich nicht behandeln.}
+{148}{}{Tut mir leid, aber du bist keiner von uns. Nach 10 Jahren oder mehr in der Brotherhood kann ich dich umsonst operieren. So entstehen uns nur Kosten, und du bist noch kein arbeitendes Mitglied der Brotherhood.}
+{149}{}{Sag mir, wenn du das Geld hast.}
+{150}{}{I cannot accurately assess your physical strength while you are wearing Power Armor. Please remove it and speak with me again.}
+
+#TRANSLATION NOTE: Player's name will be inserted between lines 151 and 152.
+{151}{}{Ich bin }
+{152}{}{.}
+
+{153}{}{Wolltest du dich über eine andere Operation informieren?}
+{155}{}{Tummy fühlt sich krank!}
+{157}{}{Hep?}
+{158}{}{Hallo nochmal, wie kann ich dir helfen?}
+
+
+#STRENGTH
+{154}{}{Da läßt sich leider gar nichts mehr machen ... War nur'n Witz! Wir können sofort anfangen. [Sie betäubt dich, und du verlierst langsam das Bewußtsein.]}
+{156}{}{Wie geht's uns denn so? [Du spürst schon einen Unterschied zu vorher.] Du bist übrigens sehr gesprächig im Schlaf. Du kannst jetzt gehen. Schönen Tag noch!}
+
+#PERCEPTION
+{159}{}{Aus alt mach neu ... [Du fällst wie ein Felsen tief in einen Abgrund.]}
+{161}{}{Du siehst unverändert aus, aber wie fühlst du dich? [Deine Sinne sind viel schärfer.] Jetzt brauchen wir allerdings dein Bett, also geh!}
+
+#ENDURANCE
+#Translation: "fall under" meaning fade into unconsciousness under the effect of the anesthetic
+{164}{}{Ich hoffe, du hast ein Herz ... [Sie zwinkert dir zu, während du einschläfst.]}
+{166}{}{Du siehst ein bißchen stämmiger aus. [Du fühlst dich großartig!] Laß es mich wissen, wenn es irgendwelche Komplikationen gibt.}
+
+#CHARISMA
+{180}{}{Ich hoffe, das endet nicht wieder mit einem faulen Auge, wie beim letzten mal ... (Du kämpfst gegen die Drogen an, aber sie sind zu mächtig)}
+{181}{}{Meine Güte, bist du eindrucksvoll! Ich hab mich selbst übertroffen! (Sie schaut dich ein paar mal von oben bis unten an und scheint sich dann loszureißen) Oh, tut mir leid, du kannst gehen!}
+{182}{}{Danke!}
+{185}{}{Nicht so eindrucksvoll wie du!}
+
+#INTELLIGENCE
+{168}{}{Wo war das Gehirn noch mal? Und was macht man damit? [Du versuchst, dich mit deinem benommenen Kopf zu konzentrieren, aber vergebens.]}
+{170}{}{Alles scheint wieder an seinem richtigen Platz zu sein und zu funktionieren. [Es ist so, als ob deine Gedanken in deinem Kopf miteinander verbunden und deine Erinnerungen viel schärfer sind.] Kein Grund zur Panik.}
+
+#AGILITY
+{174}{}{Okay, schauen wir mal ... [Man verabreicht dir Präparate, die dich langsam in einen tiefen Schlaf fallen lassen.]}
+{176}{}{Okay, du bist wieder einsatzbereit. [Du spannst deine Muskeln an und spürst, daß du mehr Kraft und Körperbeherrschung hast.] Alles, worum ich dich bitte, ist, mein bestes Stück nicht zu demolieren.}
+
+#
+# NOT Lorri
+#
+
+{200}{}{Du siehst die Arzthelferin.}
+{233}{}{ Scheine aber es dauert 3 Wochen, um zu heilen.}
+{237}{}{ Scheine, aber die Erholung von dieser Operation dauert nur eine Woche.}
+{239}{}{ Scheine.}
+{241}{}{ Scheine.}
+{243}{}{ Scheine.}
+{245}{}{ Scheine und die Heilung dauert 3 Wochen.}
+#
+#
+
+{279}{}{Du solltest zum Arzt gehen.}
+{280}{}{Sie ist die Ärztin, nicht ich.}
+{281}{}{Ich bin noch in der Ausbildung.}
+{282}{}{Offiziell kann ich dir nicht helfen.}
+{283}{}{Lori ist die Ärztin.}
+{284}{}{Du mußt einen Arzt fragen.}
+
+{285}{}{Keine Panik, sie ist nur ein kleiner Witzbold.}
+{286}{}{Sie macht nur gerne mal 'nen Witz, keine Sorge.}
+
+
+{500}{}{Es tut mir leid, aber diese Operation wird dir nicht helfen.}
+
+
+{400}{}{Hmmm, wenn hier irgend jemand mehr Intelligenz braucht, dann du! Ich mache es für 3000 statt der 6000 Deckel, die du normalerweise für die Operation zahlen müßtest. Ich kann zwar keinen Erfolg versprechen, aber ich finde, es ist einen Versuch wert. Deine Genesung dauert 3 Wochen. Wahrscheinlich kapierst du gar nicht, was ich dir hier erzähle, was?}
+{401}{}{Ich wollen schlau sein.}
+{402}{}{Nicht wollen.}
+{403}{}{Bist du verstrahlt oder verletzt? Ich werde dir helfen, wenn ich kann.}
+{404}{}{Ich verletzt.}
+{405}{}{Haare fallen aus.}
+{406}{}{Nein.}
+{407}{}{Okay, du bist wach. Laß mal sehen. Fühlst du dich jetzt schlauer?}
+{408}{}{Häh?}
+{409}{}{Ja!}
+{410}{}{Scheiße, schiefgegangen ... Naja, wenigstens hatte ich nicht viel Arbeit  damit. Tut mir leid, aber du bist nun mal ein Idiot und wirst wahrscheinlich auch immer einer bleiben. Wir können die Operation leider nicht wiederholen.}
+{411}{}{Es hat geklappt! Ich konnte deinen IQ auf ein akzeptables Niveau bringen. Wie fühlt man sich denn so mit einem halben Gehirn?}
+{412}{}{Einfach großartig. Danke, Doktor. Tschüß dann!}
+{413}{}{Wird schon wieder.}
+
+#
+# Fallout Fixt, by Sduibek:
+#
+
+#Bionic Man
+{502}{}{Welche anderen Operationen kannst du durchführen?}
+{503}{}{Nun, technisch gesehen sollte ich nicht darüber reden, aber wir haben es stehen andere Operationen zur Verfügung. Ich warne dich, dass einige von ihnen sehr gefährlich sind und ein Risiko von Nebenwirkungen haben, während andere ganz sicher sind, aber eine extrem lange Erholungszeit haben. Möchten Sie weitere Informationen?}
+
+#Poison examine
+{504}{}{Ach ja, las mal sehen ...}
+
+#
+#Sex
+#
+{300}{}{Tut mir leid, aber diese Operation wird dir nicht helfen.}
+{301}{}{Nichts für ungut, Schätzchen, aber du bist ein wenig unter meinem Niveau. Ich fühle mich dennoch geschmeichelt.}
+{302}{}{Oh, vielen Dank! (Sie errötet) Ich bekomme sonst nie irgendwelche Komplimente. Die Arztin der Bruderschaft zu sein, ist meist nur eine stressige, undankbare Aufgabe. Ich scherze gern, um mich bei Laune zu halten.}
+{303}{}{Ich verstehe. Würde es nicht helfen ab und an etwas Dampf abzulassen?}
+{304}{}{Gern geschehen! Tschüss!}
+{305}{}{Nun ... Ich bin manchmal einsam und wenn man die einzige Ärztin der Bruderschaft ist, gibt es nie Zeit zum Entspannen. Ach, was sage ich, obwohl? Das ist so dumm.}
+{306}{}{Schlucks runter! Sei stolz auf deine Arbeit und der Rest wird folgen!}
+{307}{}{Das Leben ist so kurz. Wollen Sie es nicht genießen, solange es dauert?}
+{308}{}{So dumm ist das garnicht! (Du berührst leicht ihr Gesicht, dann lehnst du dich zu ihr rüber und küßt sie)}
+{309}{}{Ja, ich denke, du hast Recht! (Sie schüttelt den Kopf und seufzt, faßt sich und lächelt) Nun, zurück an die Arbeit! Vielen Dank für das Kompliment!}
+{310}{}{(Sie überlegt kurz) Du hast Recht! Und das tue ich auch! Gib mir zehn Minuten - Ich muss die Untersuchungstisch vorbereiten. (Sie lächelt teuflisch und beißt sich auf die Unterlippe)}
+{311}{}{(Sie nimmt deine Hand und führt dich zu ihrem Zimmer ...)}
+{312}{}{Das war schön. Ich ... ich glaube, ich bin in dich verliebt. (Sie kichert) Nur ein Scherz! Okay, Zeit zu gehen. Ich habe zu arbeiten.}
+{313}{}{Oh wow. Ich bin jahrenlang nicht so gefickt worden. Ich denke, ich werde für eine Woche wund zu sein, aber es hat sich gelohnt! (Sie schaut dich sehnsüchtig) Das machen wir bald wieder!}
+{315}{}{Auf jeden Fall. Bis später!}
+{314}{}{Hallo Schätzchen! Auf der Suche nach etwas mehr Spaß?}
+{316}{}{Was tust du ... (Sie ist zunächst überrascht, schmilzt dann aber schnell in deiner Umarmung und erwiedert deinen Kusszärtlich, stöhnte leise als eure Küsse immer leidenschaftlich werden, stoppt dann und zieht den Kopf weg) Komm mit. (Sie steht auf und führt dich in ihr Quartier ...)}
+{317}{}{Ja! Dank dir fühle ich mich schön und begehrenswert!}
+{318}{}{(Sie lächelt und nimmt deine Hand ...)}
+{319}{}{Nun, ich muss mich etwas auffrischen für mein Anatomieunterricht ... (Sie zwinkert)}
+
+
+
+

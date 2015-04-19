@@ -1,0 +1,83 @@
+##
+##
+## THIS FILE IS NOT CURRENTLY USED, DOES NOT NEED TRANSLATION
+##
+##
+##
+# for displaying radiation and poison level of dude's body
+# code by Cubik2k and Wasteland Ghost
+#
+# FALLOUT RADIATION EFFECTS TABLE:
+# 	Rads 	        Message 		HR? 	CHP? 	ST 	PE 	EN 	CH 	IN 	AG
+# 	0-149 		very nauseous
+# 	150-299 	slightly fatigued 			-1
+# 	300-449 	vomiting does not stop 	-3 		-1 					-1
+# 	450-599 	hair is falling out 	-5 	-5 	-2 		-1 			-2
+# 	600-999 	skin is falling off 	-10 	-15 	-4 	-3 	-3 	-3 	-1 	-5
+# 	1000+ 		intense agony 		-10 	-20 	-6 	-5 	-5 	-5 	-3 	-6
+#
+#? Healing rate; ? Current Hit Points
+#
+# The character has a hidden radiation ("Rad") count that can be checked with a Geiger counter.
+# This rad count causes the effect "radiated" to appear. As the Geiger count increases,
+# further radiation poisoning occurs. Merely being "radiated" incurs no penalty.
+# If the rad count gets high enough, however, SPECIAL stats begin to drop, and if any of these
+# drop to zero due to poisoning, the character dies.
+# Also, should the character be able to survive to maximum irradiation (1000 rads)
+# (as in their stats do not reach zero), the character has 24 hours to use enough RadAway
+# to get themselves under 1000 rads or die anyway.
+#
+#
+# Skillcheck failure
+#
+{100}{}{Du bist nicht in der Lage festzustellen, ob du vergiftet oder verstrahlt bist.}
+{101}{}{Du stellst fest, dass du verstrahlt und vergiftet bist. Aber du bist dir nicht sicher, wie stark.}
+{102}{}{Du stellst fest, dass du verstrahlten bist. Unklar ist wie stark.}
+{103}{}{Du stellst fest, dass du vergiftet bist. Unklar ist wie stark.}
+{104}{}{Du bist verstrahlt. Unklar ist wie stark.}
+{105}{}{Du bist vergiftet. Unklar ist wie stark.}
+{106}{}{Du bist verstrahlt und vergiftet. Unklar ist wie stark.}
+#{170}{}{Radiation level of your body is }
+#
+{170}{}{Du bist verstrahlt mit }
+{171}{}{.}
+{172}{}{ Du bist vergiftet auf einem Niveau von }
+{173}{}{Deine Fähigkeiten als Arzt reichen nicht für eine bessere Selbstdiagnose. Versuch es später nochmal.}
+{174}{}{ Strahlungsniveau ist niedrig.}
+{175}{}{ Strahlungsniveau ist durchschnittlich.}
+{176}{}{ Strahlungsniveau ist hoch.}
+{177}{}{Du bist frei von Giften und Verstrahlung.}
+{178}{}{Du bist verstrahlt.}
+{179}{}{Du bist vergiftet.}
+{180}{}{ Giftniveau ist niedrig.}
+{181}{}{ Giftniveau ist durchschnittlich.}
+{182}{}{ Giftniveau ist hoch.}
+{183}{}{Du bist verstrahlt und vergiftet.}
+#
+# Skillcheck successes
+#
+{200}{}{Du bist }# this line will be completed with lines below.
+ {201}{}{unwesentlich }#  1 to 100 rads. 1 RadAway needed.
+ {202}{}{leicht }	# 101 to 299 rads. 2-3 RadAway needed.
+ {203}{}{mäßig }	#
+ {204}{}{sehr }		#
+ {205}{}{extrem }	#
+ {206}{}{gefährlich }
+{207}{}{tödlich }
+
+#   1 100		insignificant
+#   100 200		slight
+#   200 300		mild
+#   300 400		moderate
+#   400 500		heavily
+#   500 600
+#   600 700
+#   700 800		extreme
+#   800 900		dangerous
+#   900 1000	excessive
+#   1000+		fatal
+
+
+
+
+

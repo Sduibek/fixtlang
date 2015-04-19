@@ -1,0 +1,264 @@
+# 100 to 103 are NOT USED, looks like it was old code for finding the Radscorpion Cave from the worldmap.
+#
+{100}{}{So wie die Dinge liegen, können sie nicht weit gereist sein. Sie müssen hier irgendwo einen
+ Unterschlupf haben.}
+{101}{}{Sie scheinen aus einem nahegelegenen Ort zu kommen.}
+{102}{}{Sieht so aus, als wären sie aus dem fernen Norden hier her gereist.}
+{103}{}{Anscheinend sind sie einfach durch das Ödland gewandert.}
+#
+# DEHYDRATION ENCOUNTERS
+#
+{125}{}{Du entgehst mit Hilfe deines Wasservorrats einer Austrocknung.}
+{119}{}{ Trefferpunkte ein.}
+{124}{}{ Trefferpunkte.}
+{112}{}{Dein Wasservorrat geht zur Neige, und deine Suche nach einer Wasserquelle bleibt erfolglos.
+ Du beginnst unter schwerer Austrocknung zu leiden, die dich }
+# TRANSLATION NOTE: a period is inserted by the script at the end of the list of drinks consumed, and a comma between each if multiple types are consumed.
+{116}{}{ Trefferpunkte kostet.}
+{117}{}{Du suchst eine Stunde lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du büßt einen Gesundheitspunkt ein.}
+{141}{}{ Nuka-cola}
+{140}{}{ Nuka-colas}
+{142}{}{ Bier}
+{149}{}{ Bier}
+{150}{}{ Schnapsflasche}
+{151}{}{ Schnapsflaschen}
+{152}{}{Das Zurückgreifen auf Alkohol reduziert deine }
+{153}{}{Stärke}
+{154}{}{Ausdauer}
+{156}{}{ um 1 Punkt.}
+{157}{}{ um 2 Punkte.}
+{155}{}{Stärke und Ausdauer}
+{158}{}{ jeweils um 1 Punkt.}
+#
+# DRANK BUT STILL THIRSTY
+#
+{114}{}{ Dein Wasservorrat geht zur Neige und deine }
+{161}{}{Dein Flüssigkeitsvorrat ist aufgebraucht, }
+{162}{}{und deine Suche nach Wasser schlägt nach }
+{115}{}{ Stunden dauernde Suche nach einer Wasserquelle bleibt erfolglos Du beginnst, unter schwerer Austrocknung zu leiden, die dich }
+{148}{}{ Trefferpunkt.}
+{113}{}{ Trefferpunkte kostet.}
+{163}{}{aber es gelingt dir, die Dehydrierung durch die Suche nach Wasser zu verhinder. Die Suche kostet dich }
+{164}{}{1 Stunde.}
+{111}{}{ Stunden in Anspruch.}
+#
+# CRITICAL SUCCESS ON OUTDOORSMAN CHECK
+#
+{147}{}{Es gelingt dir, die Dehydrierung durch die Suche nach Wasser zu verhindert. Die Suche kostet dich 1 Stunde.}
+{138}{}{ u befüllst }
+{118}{}{Du suchst eine Stunde lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst }
+{159}{}{Flaschen}
+{160}{}{ mit Trinkwasser.}
+{165}{}{Du erhältst }
+{166}{}{ Erfahrungspunkte für die erfolgreiche Anwendung deiner Fähigkeit "Naturbursche".}
+#
+{109}{}{Du mußt nach Wasser suchen, um eine schlimme Austrocknung zu vermeiden. Die Suche nimmt eine zusätzliche Stunde in Anspruch.}
+{110}{}{ Du mußt nach Wasser suchen, um eine schlimme Austrocknung zu vermeiden. Die Suche nimmt zusätzliche}
+{120}{}{Du suchst }
+{121}{}{ Stunden lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst einen Trefferpunkt.}
+{122}{}{ Du suchst }
+{123}{}{ Stunden lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst }
+{167}{}{}
+{168}{}{}
+#
+# NORTH_TABLE ENCOUNTERS
+#
+# North1
+#
+# if pass Perception check or have Awareness:
+#   197 Uh-oh... a raiding party!
+# else is:
+{105}{}{HINTERHALT!!!}
+#
+# North2
+#
+{104}{}{Du bist in einen wilden Kampf zwischen Radscorpions und Maulwurfratten geraten.}
+#
+# North3
+#
+{106}{}{Du bist in eine große Schar Radscorpions geraten!}
+#
+# North4
+#
+{107}{}{Du bist in eine Schar Radscorpions geraten.}
+#
+# North5
+#
+{108}{}{Du bist in eine Familie Maulwurfratten geraten.}
+#
+# North6
+#
+# -Dehydration-
+#
+# SOUTH_TABLE ENCOUNTERS
+#
+# South1 -- change this encounter to something else??
+#
+{131}{}{PANIK!!!}
+#
+# South2
+#
+{132}{}{Du gerätst in eine große Schar of Radscorpions!}
+#
+# South3
+#
+# -Dehydration-
+#
+# South4 -- change this encounter to something else
+#
+# 143 "Raiders!!!"
+#
+# South5
+#
+{144}{}{Du gerätst in eine große Ansammlung von Maulwurfratten.}
+#
+# South6
+#
+{145}{}{Du begegnest einer Schar Radscorpions.}
+#
+#
+# SHADY ENCOUNTERS
+#
+#
+# Shady1
+#
+{146}{}{Du begegnest einigen Bauern, die gerade angegriffen werden.}
+#
+# Shady2
+#
+# -Dehydration-
+#
+# Shady3
+#
+{169}{}{Du gerätst in eine Familie Radscorpions.}
+#
+# Shady4
+#
+{170}{}{Du triffst einen reisenden Händler mit Wachen.}
+#
+# unless he's dead, then you get
+#
+{305}{}{Du kommst zu den Überresten der feindlichen Wachen des Händlers Duc.}
+#
+# once that has been seen, call Shady3
+#
+# Shady5
+#
+{17100}{}{Du hast eine Begegnung mit einem Wanderer.}
+# or if killed,
+{171}{}{Du siehst einen toten Reisenden.}
+#
+# else call Shady2
+#
+# Shady
+#
+{126}{}{Du bist in eine Gruppe Radscorpions geraten, die gerade Maulwurfratten jagt.}
+{127}{}{Feindliche, magere, menschliche Wesen mit grünlicher Hautfarbe kommen näher.}
+{128}{}{Überall ist Müll und Geröll verstreut.}
+#
+# UNUSED ENTRY:
+{129}{}{Ein einsamer Radscorpion greift dich aus dem Hinterhalt an!}
+#
+{130}{}{Du bemerkst eine bereits angeknabberte Leiche.}
+{134}{}{Eine Schar bösartiger Radscorpions schlagen aus der Wüste zu!}
+{135}{}{Du begegnest einer Gruppe Wachmänner auf Patrouille.}
+{136}{}{Du triffst einen Händler mit mehreren Wachen.}
+# 13600 added by Wasteland Ghost
+{13600}{}{Du triffst auf die Überreste eines Kaufmanns und seiner Wachen.}
+{137}{}{Du siehst einen Bauern, der ein paar Brahmin hütet.}
+{139}{}{Radskorpione jagen Maulwurfsratten in den zerstörten Stadtmauern.}//Sduibek, Fallout Fixt
+ {172}{}{Du bist über einige Sachen gestolpert, die am Boden lagen.}
+{17200}{}{Du stolperst über einen kleinen Fleck mit zerstörten und verlassenen Gebäuden.}
+#
+#
+# RAIDER_TABLE ENCOUNTERS
+#
+#
+# Raider1
+#
+{133}{}{Gangster überfallen dich aus dem Hinterhalt!}
+#
+# Raider2 - half chance of either msg displayed, but encounter the same
+#
+{143}{}{Gangster!!!}
+{197}{}{Oh aha . . . eine Gangsterbande!}
+#
+# Raider3
+#
+{173}{}{Du entdeckst die Überreste eines von Gangstern geplünderten Caravans.}
+#
+# Raider4
+#
+{310}{}{Eine kleine Gangstergruppe greift an!}
+#
+# Raider5 - 198 always, plus 196 half the time
+#
+{198}{}{In der Ferne siehst du einen einsamen Gangster.}
+{196}{}{Radscorpions kommen!}
+#
+# Raider6 - displays and runs both (because bodies are empty)
+#
+{199}{}{Du kommst an ein altes Schlachtfeld, auf dem noch einige Leichen herumliegen.}
+#plus 196
+#
+#
+{223}{}{Du sichtest eine wandernde Gruppe wilder Kojoten.}
+{200}{}{Radscorpions kommen!}
+{224}{}{Du bemerkst einige einzelne Personen, die sich hier umsehen.}
+{225}{}{Du triffst eine kleine Gruppe von Händlern und Wachen.}
+{226}{}{Du siehst ein Gefecht zwischen Männern und Mutanten!}
+{227}{}{Eine riesige Horde Radscorpions kommt näher!}
+#
+{250}{}{Einige Männer in Powerrüstungen nähern sich dir.}
+{251}{}{Du siehst eine Gruppe Händler und Wachen.}
+{252}{}{Du siehst eine wilde Schlacht zwischen mehreren Wüstengangstern und einer Gruppe Männer in Powerrüstungen.}
+{253}{}{Du siehst mehrere Mutanten, die feindliches Gebiet erkunden.}
+{254}{}{Du siehst einige merkwürdige Kreaturen vor dir . . .}
+{256}{}{Eine Patrouille von Supermutanten zieht ganz dicht vorbei!}
+
+{25500}{}{Du machst die Ruinen eines kleinen Dorfes aus.}
+
+# UNUSED ENTRY:
+{25500}{}{Du machst die Ruinen eines kleinen Dorfes aus.}
+
+{279}{}{Vor dir siehst du im Sand verstreuten Müll.}
+{280}{}{Du gerätst in eine kriegerische Gruppe von Supermutanten.}
+{281}{}{Du gerätst in eine Gruppe bizarrer Kreaturen.}
+{282}{}{Du gerätst in eine Schar hungriger Radscorpions.}
+{283}{}{Du fühlst dich ekelhaft, und die Luft scheint vor Hitze zu flimmern.}
+{284}{}{Du bist über eine bizarre, schwimmende Kreatur gestolpert.}
+{285}{}{Du begegnest etwas aus einem alten Science Fiction-Film.}
+{286}{}{Die Deathclaw!!}
+{287}{}{Du gerätst in eine herumziehende Schar Radscorpions.}
+{288}{}{Du begegnest einer mutierten Kreatur aus der Wüste.}
+#
+{299}{}{In einiger Entfernung siehst du mehrere Radscorpions.}
+{300}{}{Du triffst einen zerlumpten Bauern.}
+{301}{}{Du begegnest einer Maulwurfratte.}
+
+# was: "The Deathclaw!!"
+{302}{}{Die Deathclaw!!}
+
+{303}{}{Du gerätst in eine Schar wandernder Radscorpions.}
+#
+{306}{}{Eine Patrouille von Mutanten zieht zusammen mit einigen merkwürdigen Kreaturen ganz dicht vorbei!}
+{307}{}{Du gerätst in den Hinterhalt einer kleinen, kriegerischen Gruppe Supermutanten.}
+{308}{}{Sieht so als, als wärst du in einen teuflischen Bandenkrieg hineingeraten!}
+{309}{}{Eine Gruppe feindlicher Gangmitglieder brechen hervor!}
+{311}{}{Eine kleine Gruppe von Gangmitgliedern greift an!}
+{313}{}{ Du wirst völlig unvermittelt von einem Heuschreckenschwarm angegriffen!}
+
+# UNUSED ENTRY:
+{312}{}{Du wirst völlig unvermittelt von Ratten angegriffen!}
+
+# SPECIAL ENCOUNTERS TEXT:
+{314}{}{Hey! Sie sind wirklich da draußen.}
+{315}{}{In der Ferne siehst du einen umgestürzten Lastwagen.}
+{316}{}{Du findest einige Autowracks, die mitten im Ödland liegen.}
+{317}{}{Im Nordosten sichtest du ein Polizeihäuschen.}
+{318}{}{Du kommst an einer Herde wilder Brahmin vorbei. Du spürst, daß irgendetwas nicht stimmt...}
+#
+
+
+
+

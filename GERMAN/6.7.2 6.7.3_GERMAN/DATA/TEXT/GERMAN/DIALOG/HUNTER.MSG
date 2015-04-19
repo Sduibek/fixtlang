@@ -1,0 +1,76 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{Du siehst einen stämmigen Kopfgeldjäger mit einem Anstecker, auf dem steht 'Ich bin Christopher, und du bist Fleisch!'}
+# Bounty Hunter is considered Male term
+
+{101}{}{Was willst du?}
+{102}{}{Einen Donut.}
+{103}{}{Was tust du hier?}
+{104}{}{Ich seh' mich nur um.}
+{105}{}{Nichts.}
+{106}{}{Wir mögen hier keine Klugscheißer. Verzieh dich!}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+{107}{}{Schon beim ersten Mal war der Witz nicht lustig. Gleich wirst du erfahren, warum ich einer der gefürchtetsten Kopfgeldjäger im Ödland bin. Und ich werde nicht einmal bezahlt dafür.}
+{108}{}{Geht dich nichts an!}
+{109}{}{Dann schnüffel woanders rum!}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{Weißt du eigentlich, daß auf deinen Kopf eine Belohnung von 1500 Deckel ausgesetzt ist? Die hol' ich mir!}
+{200}{}{ Deckel auf deinen Kopf ausgesetzt, für das Töten von Kinder? Es ist Zeit die zu kassieren!}
+# Children is considered male plural
+
+{1110}{}{Das ist der Angel's Boneyard, die Überreste der alten Stadt Los Angeles.}
+{112}{}{Oft genug, warum fragst du?}
+{113}{}{Nun, sehen Sie ... mein Geschäfts kostet mich fast meine ganze Zeit und ich kenne keine Möglichkeit dorthin zu gelangen. Und als ein unheilbarer Raucher vermisse ich ein altens Zippo-Feuerzeug sehr. Es wird gesagt, viele jener Vorkriegsprodukte könnten in den Läden dort zu finden sein. Wenn du ein Zippo für mich bekommst, werde ich mit dir einige Informationen teilen, die ich über die benachbarten Siedlungen habe. Ich denke, es könnte von Nutzen sein!}
+{114}{}{Das ist schade! Sieht so aus, als ob ich einen Fehler mit dir gemacht habe. Raus hier!}
+{115}{}{Warum nicht? Ich besorg dir eins!}
+{116}{}{Okay. }
+{117}{}{Hey, ich habe eins! Ich kann es nicht wirklich brauchen und könnte es dir im Austausch für die Informationen geben.}
+{118}{}{Danke! [nimmt das Feuerzeug] Also, was wollst du genau hören?}
+{119}{}{Hier ist Ihr Feuerzeug. Es ist an der Zeit, mir die Informationen zu geben!}
+{120}{}{Keine weiteren Fragen, Danke!}
+{121}{}{[Mehr]}
+{122}{}{Was möchtest du noch wissen?}
+{123}{}{Ich brauche Informationen.}
+{124}{}{Buuhhh.. Wuh?}
+{125}{}{Ist das dein Ernst? Geh mir aus den Augen!}
+{126}{}{Ich werde der Welt einen Gefallen tun, indem ich dir eine Kugel in den Schädel jage.}
+
+
+{300}{}{Adytum}
+{301}{}{Followers of the Apocalypse}
+{302}{}{Children of the Cathedral}
+{303}{}{Rippers}
+{304}{}{Blades}
+{305}{}{Gunrunner}
+{306}{}{Hub}
+{307}{}{LA Boneyard}
+
+{310}{}{Eine kleine Stadt im Süden. Gelegentlich kommen Besucher dorthin.}
+{311}{}{Das sind die friedliebensten Freaks, die in unserer Nähe leben.}
+{312}{}{Eine seltsamer Kult südlich von Adytum und in Boneyard. Nicole sagt, dass sie an seltsames Zeug glaub.}
+{313}{}{Ein ultra-gewalttätige Bande westlich von uns. Es war, also letztlich ... Ich weiß es nicht genau, was passiert ist, aber in der Basis wimmelt es jetzt vor Todeskrallen.}
+{314}{}{Eine Gang im Osten. Sie verwenden Vibro-Messer.}
+{315}{}{Eine Gang vom Hub, die Waffen verkauft. Sie leben nördlich von hier.}
+{316}{}{Der Hub ist eine große Stadt mit Händlern und Unternehmen im Osten.}
+{317}{}{Dies ist Angel's Boneyard, die Überreste der alten Stadt Los Angeles.}
+
+# Alchemist: These are currently disabled teel-me-abouts. Don't delete, they may be of use in the future.
+
+# {1005}{}{Gun}
+# {1007}{}{Junktown}
+# {1008}{}{Water}
+# {1009}{}{Nicole}
+# {1011}{}{Runners}
+# {1012}{}{Chip}
+# {1107}{}{Junktown is a small city just north of the Hub.}
+# {1108}{}{I can't help you with that.}
+# {1109}{}{She's the leader of the Followers.}
+# {1111}{}{A gang that came from the Hub, and sells guns. They are north of here.}
+# {1112}{}{I can't help you with that.}
+
+
+
+

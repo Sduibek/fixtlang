@@ -1,0 +1,14 @@
+# This file is new for Fallout Fixt. Most entries moved here from ARTIFACT.MSG!
+#
+{100}{}{Du siehst die Holodisk, die dir Maxson gegeben hat.}
+{101}{}{Der PIPBoy zeigt an: Datei im System gefunden. Ladevorgang abgebrochen.}
+{102}{}{Der PIPBoy zeigt an: Daten werden von CD geladen.}
+#
+# for Fallout Fixt:
+#
+{103}{}{Diese Disk trägt die Insignien der Brotherhood of Steel und ist in ausgezeichnetem Zustand. Es kann mit deinem Pip-Boy verwendet werden.}
+{104}{}{Du siehst: Maxsons Disk.}
+
+
+
+

@@ -1,0 +1,41 @@
+{100}{}{Du benutzt den Türcomputer. Dein Zugriffscode wird vom Computer nicht erkannt.}
+{101}{}{Du benutzt den Türcomputer. Ein Lautsprecher schaltet sich mit einem Rauschen ein.}
+{102}{}{Tut uns leid, wir können dich momentan nicht hereinlassen. Uh, technische Probleme. Versuch's später noch mal.}
+{103}{}{Du siehst den Eingangscomputer der Tür zu Vault-13.}
+#
+# Cast out:
+#
+{104}{}{Wir sind dir dankbar, dass du uns gerettest hast, aber wir können dich nicht herein lassen!}
+{105}{}{Es tut uns leid, aber du kannst nicht zurück kommen. Wir wünschen dir alles Gute!}
+{106}{}{Der Aufseher hat gesprochen! Du mußt gehn!}
+{107}{}{Versteh doch, viele von uns empört über die Entscheidung des Aufsehers, aber wir müssen und seinem Willen beugen!}
+{108}{}{Von nun an findet dein Leben in der Welt da draußen statt. Viel Glück, mein Freund!}
+#
+# Killed Overseer:
+#
+{109}{}{Du bist eine Gefahr für die Zunkunft dieser Valt! Du mußt gehen und zwar sofort!}
+{110}{}{Du bist hier nicht willkommen! Geh weg!}
+{111}{}{Wir tollerieren keine Mörder in der Vault. Zieh deines Weges!}
+{112}{}{Wir fürchten das, was aus dir geworden ist und was du mit uns anstellen könntest! Geh!}
+{113}{}{Glaubst du, wir ließen dich rein, nachdem, was du dem Aufseher angetan hast?}
+{114}{}{Wie konntest du uns nur so verraten?}
+{115}{}{Geh weg, du Wahnsinniger!}
+#
+#
+# Fallout Fixt:
+#
+#
+{116}{}{Der Computer explodiert in einem spektakulären Funkenregen. Zurück bleibt ein einziger Kabelsalat.}
+{117}{}{Du siehst den zerstörten Türsteuerungscomputer von Vault 13.}
+{118}{}{Es ist ein einziger Kabelsalat, weit davon entfernt repariert zu werden.}
+#Spaces at beginning of 119 and 120 and end of 121/122 are intentional
+{119}{}{ Die Tür schließt sich nie wieder.}
+{120}{}{  Die Tür öffnet sich nie wieder.}
+{121}{}{Dirketer Treffer!}
+{122}{}{Uh-oh! }
+{123}{}{Der Computer ist unbrauchbar.}
+{124}{}{Mit der für immer versiegelten Tür und ohne Ersatz für den Wasserchip werden die Bewohner von Vault 13 sehr bald feststellen, dass die Vault zu ihrem Grab geworden ist.}
+
+
+
+

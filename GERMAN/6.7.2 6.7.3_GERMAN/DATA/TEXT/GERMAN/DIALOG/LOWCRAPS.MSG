@@ -1,0 +1,23 @@
+{100}{}{Vor dir siehst du den Würfelspieltisch, an dem nur mit
+ geringem Einsatz gespielt wird. Ein Spiel kostet 20 Dollar.}
+{101}{}{Du würfelst eine 7. Du gewinnst!!}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{Du würfelst Schlangenaugen. Du verlierst.}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{Du würfelst }
+{104}{}{! Du gewinnst!!}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{Du würfelst  }
+{106}{}{. Du verlierst.}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{Du würfelst  }
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{ bevor du deinen Punkt erreicht hast. Du verlierst.}
+{109}{}{Du würfelst deinen Punkt. Du gewinnst.}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{Du würfelst  }
+{111}{}{. Das ist dein Punkt. Würfle noch mal.}
+
+
+
+

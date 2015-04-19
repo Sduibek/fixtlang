@@ -1,0 +1,512 @@
+{100}{}{Lederrüstung}
+{101}{}{Deine Grundrüstung aus Leder, kunstvoll gefertigt aus gefärbter Brahmin-Haut.}
+{200}{}{Metallrüstung}
+{201}{}{Polierte Metallplatten bilden diese einfache Grundrüstung.}
+{300}{}{Powerrüstung}
+{301}{}{Energieunabhängige High-Tech-Rüstung, die mit einem kleinen Fusionsreaktor betrieben wird. Mit Brennstoff für mehr als 100 Jahre.}
+{400}{}{Messer}
+{401}{}{Scharfe Hieb- und Stichwaffe. Mindeststärke: 2.}
+{500}{}{Knüppel}
+{501}{}{Knüppel aus Hartholz für Militär- oder Polizeieinsätze. Mindeststärke: 3.}
+{600}{}{Vorschlaghammer}
+{601}{}{Großer Hammer mit großem Griff. Sehr beliebt bei Muskelmännern. Mindeststärke: 6.}
+{700}{}{Speer}
+{701}{}{Stab mit einer messerscharfen Spitze. Der Stab ist aus Holz und die Spitze aus bearbeitetem Stahl. Mindeststärke: 4.}
+{800}{}{10mm-Pistole}
+{801}{}{Selbstlader vom Typ Colt 6520, 10mm. Bei jedem Abzug lädt sich die Waffe automatisch, bis das Magazin leer ist. Nur Einzelschuß. Mindeststärke: 3.}
+{900}{}{10mm-Klein-MG}
+{901}{}{H&K MP9-Maschinengewehr, 10mm. Maschinengewehr mittlerer Größe für Einzelschuß oder Dauerfeuer. Mindeststärke: 4.}
+{1000}{}{Jagdgewehr}
+{1001}{}{Halbautomatikgewehr vom Typ Colt Rangemaster, Kaliber .223. Nur Einzelschuß. Mindeststärke: 5.}
+{1100}{}{Flammenwerfer}
+{1101}{}{Flammenwerfer vom Modell Flambe 450, Varmiter-Modell. Feuert einen Strahl extrem heißer, brennbarer Flüssigkeit ab. Mindeststärke: 6.}
+{1200}{}{Kleingeschütz}
+{1201}{}{Kleingeschütz vom Typ Rockwell CZ53. Maschinengewehr mit mehreren Läufen. Feuert über 60.000 Schuß pro Minute ab. Mindeststärke: 7.}
+{1300}{}{Raketenwerfer}
+{1301}{}{Raketenwerfer vom Typ Rockwell BigBazooka. Mit schwerem Deluxe-Abzug. Mindeststärke: 6.}
+{1400}{}{Sprengrakete}
+{1401}{}{Rakete mit einem großen Sprengkopf.}
+{1500}{}{Plasmagewehr}
+{1501}{}{Plasmagewehr vom Typ Winchester P94. Energiewaffe, die durch einen superleitenden Gewehrlauf hocherhitztes Plasma abfeuert. Mindeststärke: 6.}
+{1600}{}{Laserpistole}
+{1601}{}{Laserpistole vom Typ Wattz 1000. Als Modell für den Zivileinsatz mit niedrigerer Wattzahl als das Modell für Militär- oder Polizeieinsätze. Mindeststärke: 3.}
+{1700}{}{Kampfrüstung}
+{1701}{}{High-Tech-Rüstung aus hochmodernen kugelresistenten Polymeren.}
+{1800}{}{Desert Eagle}
+{1801}{}{Alte Pistole vom Typ Desert Eagle, .44 Magnum. Durch ihren Einsatz in Filmen des späten 20. Jahrhunderts wurde sie zur beliebtesten Handfeuerwaffe. Mindeststärke: 4.}
+{1900}{}{Stein}
+{1901}{}{Bei diesem Modell der Firma Granite Inc. handelt es sich um eine verbesserte Version. Mindeststärke: 1.}
+{2000}{}{Brecheisen}
+{2001}{}{Stabiles, schweres Eisenteil, das als Hebel oder Waffe im Nahkampf eingesetzt werden kann. Mindeststärke: 5.}
+{2100}{}{Schlagring}
+{2101}{}{Schlagring aus gehärtetem Stahl. Schützt die eigene Hand und kann im unbewaffneten Kampf großen Schaden anrichten. Mindeststärke: 1.}
+{2200}{}{14mm-Pistole}
+{2201}{}{14mm-Selbstlader vom Typ Sig-Sauer. Große Handfeuerwaffe mit Einzelschuß. Hervorragende Verarbeitung. Mindeststärke: 4.}
+{2300}{}{Sturmgewehr}
+{2301}{}{Sturmgewehr vom Typ AK-112, 5mm. Ein älteres Militärmodell, das seit der Kriegszeit nicht mehr eingesetzt wurde. Einzelschuß oder Dauerfeuer. Mindeststärke: 5.}
+{2400}{}{Plasmapistole}
+{2401}{}{Plasmapistole vom Typ Glock 86, hergestellt von Gaston Glock AI. Feuert einen kleinen Strahl hocherhitzten Plasmas ab. Mindeststärke: 4.}
+{2500}{}{Splittergranate}
+{2501}{}{Enthält eine kleine Menge hochexplosiven Sprengstoffs. Die Hülle selbst bildet die gefährlichsten Splitter. Explodiert beim Aufprall. Mindeststärke: 3.}
+{2600}{}{Plasmagranate}
+{2601}{}{Magnetisch versiegelte Plasmaeinheit mit hochexplosivem Sprengstoff. Gibt beim Aufprall hocherhitztes Plasma frei. Mindeststärke: 4.}
+{2700}{}{Pulsgranate}
+{2701}{}{Elektromagnetische Pulsgranate, die bei der Detonation ein starkes Magnetfeld erzeugt. Hat keine Wirkung auf biologische Lebewesen. Explodiert beim Aufprall. Mindeststärke: 4.}
+{2800}{}{Gatling-Laser}
+{2801}{}{H&K L30 Gatling-Laser. Dieser für Militärzwecke entwickelte Laser befand sich zu Kriegsbeginn im Prototypstadium. Durch die Verwendung mehrerer Läufe kommt es nicht so schnell zur Überhitzung. Mindeststärke: 6.}
+{2900}{}{10mm-JHP}
+{2901}{}{Munition. Kaliber: 10mm, Hohlmantelgeschoß.}
+{3000}{}{10mm-AP}
+{3001}{}{Munition. Kaliber: 10mm, Stahlkerngeschoß.}
+{3100}{}{.44-JHP}
+{3101}{}{Munition. Kaliber: .44 Magnum, Hohlmantelgeschoß.}
+{3200}{}{Brennstoff}
+{3201}{}{Zylinder mit leicht entzündbarem Flüssigbrennstoff für Flammenwerfer.}
+{3300}{}{14mm-AP}
+{3301}{}{Großkalibrige Munition. Kaliber: 14mm, Stahlkerngeschoß.}
+{3400}{}{.223-FMJ}
+{3401}{}{Munition. Kaliber: .223, Vollmantelgeschoß.}
+{3500}{}{5mm-JHP}
+{3501}{}{Kleine, leichte Munition. Kaliber: 5mm, Hohlmantelgeschoß.}
+{3600}{}{5mm-AP}
+{3601}{}{Kleinkalibrige Munition. Kaliber: 5mm, Stahlkerngeschoß.}
+{3700}{}{Raketen-AP}
+{3701}{}{Raketenhülle mit kleinem Sprengkopf und großer Durchschlagskraft.}
+{3800}{}{Energiezelle}
+{3801}{}{Kleine in sich geschlossene Energiespeichereinheit.}
+{3900}{}{Fusionszelle}
+{3901}{}{Energieerzeugende Einheit mittlerer Größe. Ein in sich geschlossener Fusionsreaktor.}
+{4000}{}{Stimpak}
+{4001}{}{Heilpräparat. Kleine Wunden heilen unmittelbar nach der Injektion.}
+{4100}{}{Deckel}
+{4101}{}{In dieser Tasche befinden einige Deckel.}
+{4200}{}{Kühlschrank}
+{4201}{}{Kühlschrank ohne Kühlmittel.}
+{4300}{}{Eistruhe}
+{4301}{}{Altmodische Eistruhe, deren Scharniere noch in gutem Zustand sind.}
+{4400}{}{Eistruhe}
+{4401}{}{Altmodische Eistruhe, deren Scharniere noch in gutem Zustand sind.}
+{4500}{}{Wurfmesser}
+{4501}{}{Speziell für Wurfzwecke ausgelegtes Messer. Aus lasergeschärftem Titan. Mindeststärke: 3.}
+{4600}{}{Tasche}
+{4601}{}{Tasche mittlerer Größe aus gewebten Brahmin-Haaren.}
+{4700}{}{Erste-Hilfe-Koffer}
+{4701}{}{Kleiner Koffer mit medizinischer Grundausstattung: Verbandsmaterial, Pflaster, antiseptisches Spray usw.}
+{4800}{}{RadAway}
+{4801}{}{Chemische Lösung, die sich mit Strahlenteilchen verbindet und diese so aus dem Körper entfernt. Erst nach einiger Zeit wirksam.}
+{4900}{}{Gegengift}
+{4901}{}{Flasche mit einem selbstgebrauten Mittel gegen Gift. Milchige Flüssigkeit versetzt mit Stücken von Radscorpion-Fleisch.}
+{5000}{}{Reserveobjekt}
+{5001}{}{Dies ist ein Reserveobjekt. NICHT BENUTZEN!}
+{5100}{}{Dynamit}
+{5101}{}{Hochexplosiver Sprengstoff aus Nitroglyzerin, gemischt mit der absorbierenden Substanz Kieselguhr. Mit Zeitzünder.}
+{5200}{}{Geigerzähler}
+{5201}{}{Geigerzähler vom Typ Wattz Electronics C-Radz. Zeigt Strahlungsfelder und ihre Stärke an.}
+{5300}{}{Mentats}
+{5301}{}{Präparat zur Steigerung der Gehirnfunktionen und Beschleunigung andere mentale Vorgänge. Kann Abhängigkeit hervorrufen.}
+{5400}{}{Stealth Boy}
+{5401}{}{Tarnkappe vom Typ RobCo Stealth Boy 3001. Generiert ein Modulationsfeld, das reflektiertes Licht von der einen Seite eines Objekts auf die andere leitet.}
+{5500}{}{Steuerchip}
+{5501}{}{Chip zur Steuerung des Computers der Trinkwasseranlage. Sieht dem Chip überraschend ähnlich, den deine Vault benötigt.}
+{5600}{}{Erkennungsmarken}
+{5601}{}{Verschiedene Erkennungsmarken. Außer dem Namen 'Darkwater' ist darauf nicht viel zu erkennen.}
+{5700}{}{Wanze}
+{5701}{}{Minimikrofon und Übertragungsgerät.}
+{5800}{}{CD}
+{5801}{}{Holo-CD der Firma Wattz Electronics. Offensichtlich in sehr schlechtem Zustand.}
+{5900}{}{Scanner}
+{5901}{}{Scanner der Firma Wattz Electronics vom Typ C-U. Erkennt Bewegungen von biologischem Material auf eine Entfernung von mehreren Metern mittels eines justierten Radargeräts.}
+{6000}{}{Regal}
+{6001}{}{Regal aus Holz.}
+{6100}{}{Regal}
+{6101}{}{Regal aus Holz.}
+{6200}{}{Regal}
+{6201}{}{Regal aus Holz.}
+{6300}{}{Regal}
+{6301}{}{Regal aus Holz.}
+{6400}{}{Regal}
+{6401}{}{Regal aus Holz.}
+{6500}{}{Regal}
+{6501}{}{Regal aus Holz.}
+{6600}{}{Schreibtisch}
+{6601}{}{Schreibtisch aus Holz.}
+{6700}{}{Schreibtisch}
+{6701}{}{Schreibtisch aus Holz.}
+{6800}{}{Kommode}
+{6801}{}{Kommode aus Holz.}
+{6900}{}{Kommode}
+{6901}{}{Kommode aus Holz.}
+{7000}{}{Kommode}
+{7001}{}{Kommode aus Holz.}
+{7100}{}{Obst}
+{7101}{}{Seltsames Obststück. Ohne Konservierungsstoffe und zusätzliche Farbstoffe.}
+{7200}{}{Aktenkoffer}
+{7201}{}{Lederner Aktenkoffer, dem Etikett nach in den USA hergestellt. In gutem Zustand, aber das Kombinationsschloß ist kaputt.}
+{7300}{}{Fachlexika}
+{7301}{}{Verschiedene Bücher mit Informationen zu unterschiedlichen Bereichen der Wissenschaft.}
+{7400}{}{Lederjacke}
+{7401}{}{Schwere schwarze Lederjacke.}
+{7500}{}{Werkzeug}
+{7501}{}{Verschiedene hervorragende Werkzeuge, darunter sehr nützliche Dinge.}
+{7600}{}{Deans Electronics}
+{7601}{}{Elektroniklehrbuch. Auf dem Einband steht, daß sich das Buch an den 'angehenden jungen Elektrotechniker in jedem von uns' wendet.}
+{7700}{}{Elektronischer Dietrich}
+{7701}{}{Elektronischer Dietrich vom Typ Micromanipulator FingerStuff der Firma Wattz Electronics. Zum Öffnen von elektronischen Schlössern und Sicherheitssystemen.}
+{7800}{}{Gemälde}
+{7801}{}{Auf diesem wohl sehr alten Gemälde ist recht undeutlich ein Sänger zu erkennen. Das Gemälde hat eine Filzbeschichtung, die noch in gutem Zustand ist.}
+{7900}{}{Leuchtrakete}
+{7901}{}{Erzeugt für einen kurzen Augenblick Licht. Das Etikett ist schon ein bißchen verschlissen. Insgesamt aber noch in gutem Zustand. Zur Aktivierung oben drehen.}
+{8000}{}{Erste-Hilfe-Buch}
+{8001}{}{Lehrbuch zur praktischen Erste Hilfe.}
+{8100}{}{Leguan am Spieß}
+{8101}{}{In eigener Haut gerösteter Leguan.}
+{8200}{}{Schlüssel}
+{8201}{}{Schlüssel zum Öffnen eines bestimmten Schlosses.}
+{8300}{}{Schlüsselbund}
+{8301}{}{Ring mit verschiedenen Schlüsseln.}
+{8400}{}{Dietriche}
+{8401}{}{Verschiedene Schlosserwerkzeuge. Umfaßt alle Dietriche und Schraubenschlüssel, die man zum Öffnen herkömmlicher Schlösser braucht.}
+{8500}{}{Plastiksprengstoff}
+{8501}{}{Cordex, ein Plastiksprengstoff für Militärzwecke. Hohe Stabilität, hohe Zerstörungskraft. Mit Zeitzünder.}
+{8600}{}{Pfadfinderbuch}
+{8601}{}{Buch über die Methoden und Ziele der Pfadfinder mit sehr praktischen Informationen zum Leben in der Natur.}
+{8700}{}{Buffout}
+{8701}{}{Hochmodernes Steroidpräparat für mehr Kraft und schnellere Reflexe. Kann starke Abhängigkeit hervorrufen.}
+{8800}{}{Uhr}
+{8801}{}{Teure Uhr. Funktioniert zwar nicht richtig, sieht aber nett aus.}
+{8900}{}{Motor}
+{8901}{}{Elektromotor mit 40 PS.}
+{9000}{}{Rucksack}
+{9001}{}{Einfacher Rucksack mit zusätzlichen Tragegurten.}
+{9100}{}{Arzttasche}
+{9101}{}{Diese schwarze Tasche enthält Instrumente und Präparate, wie sie von Ärzten benutzt werden.}
+{9200}{}{Skorpionschwanz}
+{9201}{}{Abgetrennter Schwanz eines Radscorpion.}
+{9300}{}{Tasche}
+{9301}{}{Tasche mittlerer Größe aus gewebten Brahmin-Haaren.}
+{9400}{}{Gewehr}
+{9401}{}{Gewehr vom Typ Winchester Widowmaker, Kaliber 12, mit zwei kurzen Läufen und Mahagonigriff. Mindeststärke: 4.}
+{9500}{}{Gewehrkugeln}
+{9501}{}{Gewehrmunition. Diese Munition trägt den Vermerk '12 Kaliber-Geschosse'.}
+{9600}{}{Roter Schlüssel}
+{9601}{}{Roter elektronischer Sicherheitsschlüssel.}
+{9700}{}{Blauer Schlüssel}
+{9701}{}{Blauer elektronischer Sicherheitsschlüssel.}
+{9800}{}{Schrott}
+{9801}{}{Haufen aus Schrotteilen. Von allem etwas.}
+{9900}{}{Goldmedaillon}
+{9901}{}{Wertvolles Goldmedaillon.}
+{10000}{}{Funkgerät}
+{10001}{}{Funkgerät vom Modell 2043B von Wattz Electronics. Verläßlich, robust und unauffällig. Mit optionaler RS 121-Schnittstelle.}
+{10100}{}{Feuerzeug}
+{10101}{}{Silbernes Butanfeuerzeug in gutem Zustand.}
+{10200}{}{'Gewehre und Kugeln'}
+{10201}{}{Zeitschrift über die praktische Anwendung von Feuerwaffen. Enthält gelegentlich voreingenommene Kommentare.}
+{10300}{}{Leguan am Spieß}
+{10301}{}{Verkohltes Fleisch und Gemüse am Spieß.}
+{10400}{}{Kassettenrecorder}
+{10401}{}{Kassettenrecorder von Wattz Electronics. Zum Ab- und Bespielen der normalen 30-HD-Kassetten, die nur einmal bespielt werden können.}
+{10500}{}{Schlüssel}
+{10501}{}{Besonderer Schlüssel.}
+{10600}{}{Nuka Cola}
+{10601}{}{Flasche Nuka Cola. Erfrischungsgetränk der postnuklearen Welt. Warm und abgestanden.}
+{10700}{}{Knochen}
+{10701}{}{Sammlung seltener Knochen.}
+{10800}{}{Knochen}
+{10801}{}{Sammlung seltener Knochen.}
+{10900}{}{Rad-X}
+{10901}{}{Antistrahlenmittel zum Einnehmen vor Strahlungsaussetzung. Nebenwirkungen sind nicht bekannt.}
+{11000}{}{Psycho}
+{11001}{}{Einzigartiges Präparat, das seltsame, unbekannte chemische Substanzen enthält, die vermutlich militärischen Ursprungs sind. Soll die Kampffähigkeiten eines Soldaten verbessern.}
+{11100}{}{.44-FMJ}
+{11101}{}{Munition. Kaliber: .44 Magnum, Vollmantelgeschoß.}
+{11200}{}{Urne}
+{11201}{}{Schöne, mit Asche gefüllte Urne aus Gold. Auf der Vorderseite ist der Name 'Harriet' eingraviert.}
+{11300}{}{Robe}
+{11301}{}{Robe der Children of the Cathedral.}
+{11400}{}{Tanglers Hand}
+{11401}{}{Kybernetisches Greifwerkzeug in Form einer Hand. Wurde durch unsachgemäße Entfernung beschädigt.}
+{11500}{}{Super-Hammer}
+{11501}{}{Vorschlaghammer, von der Brotherhood of Steel nach dem neuesten Stand der Waffentechnik hergestellt. Enthält ein Speichergerät für kinetische Energie, um die Wirkung beim Aufprall zu verstärken. Mindeststärke: 5.}
+{11600}{}{Ripper}
+{11601}{}{Ripper(tm)-Kettensäge. Schneidet und bohrt sich in ihr Ziel. Mindeststärke: 4.}
+{11700}{}{Blume}
+{11701}{}{Wunderschöne Blume.}
+{11800}{}{Lasergewehr}
+{11801}{}{Leistungsstarkes Wattz 2000-Lasergewehr mit verlängertem Lauf für eine größere Reichweite. Mindeststärke: 6.}
+{11900}{}{Halskette}
+{11901}{}{Teuer aussehende Halskette aus Silber, Gold und Diamanten.}
+{12000}{}{Alien Blaster}
+{12001}{}{Seltsames Gewehr, das offensichtlich von Außerirdischen stammt. Mindeststärke: 2.}
+{12100}{}{9mm-Kugeln}
+{12101}{}{Sammlung alter 9x19mm-Kugeln. Standardkugeln. Müssen mit viel Schmiere vor Umwelteinflüssen geschützt werden.}
+{12200}{}{9mm-Mauser}
+{12201}{}{Mauser M/96, in 9x19mm-Parabellum. In hervorragendem Zustand. Extrem genau. Mindeststärke: 3.}
+{12300}{}{Annullierer}
+{12301}{}{Eigenartiges Gerät, hergestellt mit einer seltenen Technologie.}
+{12400}{}{Bier}
+{12401}{}{Selbstgebrautes Bier.}
+{12500}{}{Booze}
+{12501}{}{Altes alkoholisches Getränk aus der Zeit vor dem Krieg.}
+{12600}{}{Wasserflasche}
+{12601}{}{Behälter für Wasser oder andere Getränke.}
+{12700}{}{Seil}
+{12701}{}{Starke, dicke Leine. Ca. 45 Fuß lang.}
+{12800}{}{Kasten}
+{12801}{}{Einfacher Kasten zum Aufbewahren verschiedener Dinge. Befindet sich am Bettende. Abschließbar.}
+{12900}{}{Kasten}
+{12901}{}{Einfacher Kasten zum Aufbewahren verschiedener Dinge. Befindet sich am Bettende. Abschließbar.}
+{13000}{}{Kasten}
+{13001}{}{Einfacher Kasten zum Aufbewahren verschiedener Dinge. Befindet sich am Bettende. Abschließbar.}
+{13100}{}{Kasten}
+{13101}{}{Einfacher Kasten zum Aufbewahren verschiedener Dinge. Befindet sich am Bettende. Abschließbar.}
+{13200}{}{Spind}
+{13201}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13300}{}{Spind}
+{13301}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13400}{}{Spind}
+{13401}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13500}{}{Spind}
+{13501}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13600}{}{Spind}
+{13601}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13700}{}{Spind}
+{13701}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13800}{}{Spind}
+{13801}{}{Schrank zum Verstauen verschiedener Dinge.}
+{13900}{}{Spind}
+{13901}{}{Schrank zum Verstauen verschiedener Dinge.}
+{14000}{}{Zugangsausweis}
+{14001}{}{Zugangsausweis für ein Sicherheitssystem. Noch funktionsfähig.}
+{14100}{}{CoC-Abzeichen}
+{14101}{}{Abzeichen in Form des Symbols der Children of the Cathedral. Auf der einen Seite sind Eindellungen und Einkerbungen zu sehen, die an einen Schlüssel erinnern.}
+{14200}{}{CoC-Abzeichen}
+{14201}{}{Abzeichen in Form des Symbols der Children of the Cathedral. Auf der einen Seite sind Eindellungen und Einkerbungen zu sehen, die an einen Schlüssel erinnern.}
+{14300}{}{Sniper-Gewehr}
+{14301}{}{Scharfschützengewehr vom Typ DKS-501. Hervorragende Distanzwaffe. Diese Waffe hat das gängigere Kaliber .223, obwohl früher das Kaliber .308 benutzt wurde. Mindeststärke: 5.}
+{14400}{}{Super-Stimpak}
+{14401}{}{Modernes Heilpräparat. Sehr wirksam. Aufgrund der verwendeten Inhaltstoffe können nach der Einnahme kleinere Nebenwirkungen auftreten.}
+{14500}{}{Regal}
+{14501}{}{Regal aus Holz.}
+{14600}{}{Regal}
+{14601}{}{Regal aus Holz.}
+{14700}{}{Regal}
+{14701}{}{Regal aus Holz.}
+{14800}{}{Regal}
+{14801}{}{Regal aus Holz.}
+{14900}{}{Regal}
+{14901}{}{Regal aus Holz.}
+{15000}{}{Regal}
+{15001}{}{Regal aus Holz.}
+{15100}{}{Regale}
+{15101}{}{Mehrere Regale aus Holz.}
+{15200}{}{Regale}
+{15201}{}{Mehrere Regale aus Holz.}
+{15300}{}{Regale}
+{15301}{}{Mehrere Regale aus Holz.}
+{15400}{}{Regale}
+{15401}{}{Mehrere Regale aus Holz.}
+{15500}{}{Regale}
+{15501}{}{Mehrere Regale aus Holz.}
+{15600}{}{Regale}
+{15601}{}{Mehrere Regale aus Holz.}
+{15700}{}{Werkbank}
+{15701}{}{Ja, die gute alte Werkbank! Sieht dort obendrein noch gut aus.}
+{15800}{}{Werkzeughalter}
+{15801}{}{Über der Werkbank angebrachter Halter mit verschiedenen Werkzeugen.}
+{15900}{}{Molotow-Cocktail}
+{15901}{}{Selbstgefertigte, leicht entzündbare Granate. Mindeststärke: 3.}
+{16000}{}{Elektrogabel}
+{16001}{}{Elektrogabel vom Typ 'Farmerfreund' der Firma Wattz Electronics. Mindeststärke: 4.}
+{16100}{}{Red Ryder}
+{16101}{}{Klassisches Luftgewehr vom Typ Red Ryder. Mindeststärke: 3.}
+{16200}{}{Red Ryder LE}
+{16201}{}{Sonderausführung des Red Ryder-Luftgewehrs. Ein wahrer Klassiker. Mindeststärke: 3.}
+{16300}{}{BBs}
+{16301}{}{Packung mit Luftgewehrkugeln aus der Zeit vor dem Krieg. In hervorragendem Zustand. Aus Edelstahl.}
+{16400}{}{BoS-CD}
+{16401}{}{Holo-CD mit Aufzeichnungen von der Brotherhood of Steel.}
+{16500}{}{Leguan-Stand}
+{16501}{}{Zuhause von 'Bobs Iguana Bits'. Gibt es an frisch gebratenem Leguan irgend etwas auszusetzen?}
+{16600}{}{Tisch}
+{16601}{}{Einfacher Tisch zum Ablegen von Dingen.}
+{16700}{}{Tisch}
+{16701}{}{Einfacher Tisch zum Ablegen von Dingen.}
+{16800}{}{Dinge}
+{16801}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{16900}{}{Dinge}
+{16901}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17000}{}{Dinge}
+{17001}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17100}{}{Dinge}
+{17101}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17200}{}{Dinge}
+{17201}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17300}{}{Dinge}
+{17301}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17400}{}{Dinge}
+{17401}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17500}{}{Dinge}
+{17501}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17600}{}{Dinge}
+{17601}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17700}{}{Dinge}
+{17701}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17800}{}{Dinge}
+{17801}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{17900}{}{Dinge}
+{17901}{}{Verschiedene Objekte, auch 'Dinge' genannt.}
+{18000}{}{Kiste}
+{18001}{}{Kiste aus Holz mit verschiedenen Dingen darin.}
+{18100}{}{Schreibtisch}
+{18101}{}{Einfacher Schreibtisch. Hast du einen gesehen, hast du alle gesehen!}
+{18200}{}{Schreibtisch}
+{18201}{}{Einfacher Schreibtisch.}
+{18300}{}{Schreibtisch}
+{18301}{}{Einfacher Schreibtisch.}
+{18400}{}{Schreibtisch}
+{18401}{}{Einfacher Schreibtisch.}
+{18500}{}{Schreibtisch}
+{18501}{}{Einfacher Schreibtisch.}
+{18600}{}{Schreibtisch}
+{18601}{}{Einfacher Schreibtisch.}
+{18700}{}{Schreibtisch}
+{18701}{}{Einfacher Schreibtisch.}
+{18800}{}{Spind}
+{18801}{}{Einfacher Spind.}
+{18900}{}{Spind}
+{18901}{}{Einfacher Spind.}
+{19000}{}{FEV Experiment-CD}
+{19001}{}{Holo-CD mit medizinischen Daten. Kann in den PIPBoy geladen werden.}
+{19100}{}{Sicherheitsprotokoll}
+{19101}{}{Laut Etikett befindet sich auf dieser Holo-CD ein Sicherheitsprotokoll. Kann in den PIPBoy geladen werden.}
+{19200}{}{Alpha Experiment-CD}
+{19201}{}{Laut Etikett befindet sich auf dieser Holo-CD das Protokoll zum Alpha-Experiment.}
+{19300}{}{Delta Experiment-CD}
+{19301}{}{Laut Etikett befindet sich auf dieser Holo-CD das Protokoll zum Delta-Experiment.}
+{19400}{}{Vrees Experiment-CD}
+{19401}{}{Diese Holo-CD enthält aktualisierte medizinische Daten von Vree von der BoS. Kann in den PIPBoy geladen werden.}
+{19500}{}{BoS-Ehrenkodex}
+{19501}{}{Holo-CD mit eingraviertem Symbol der Brotherhood of Steel. Kann in den PIPBoy geladen werden.}
+{19600}{}{Mutantenübertragung}
+{19601}{}{Auf dieser Holo-CD scheinen Funkübertragungen gespeichert zu sein. Kann in den PIPBoy geladen werden.}
+{19700}{}{Kiste}
+{19701}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{19800}{}{Kiste}
+{19801}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{19900}{}{Kiste}
+{19901}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{20000}{}{Kiste}
+{20001}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{20100}{}{Kiste}
+{20101}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{20200}{}{Kiste}
+{20201}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{20300}{}{Kiste}
+{20301}{}{High-Tech-Kiste aus einem stabilen Leichtverbundwerkstoff . Wahrscheinlich für die Lagerung von Waffen oder medizinischen Geräten.}
+{20400}{}{Kiste}
+{20401}{}{}
+{20500}{}{Leuchtrakete}
+{20501}{}{Erzeugt für einen kurzen Augenblick Licht. Das Etikett ist schon ein bißchen verschlissen. Insgesamt aber noch in gutem Zustand. Aktiviert.}
+{20600}{}{Dynamit}
+{20601}{}{Hochexplosiver Sprengstoff aus Nitroglyzerin, gemischt mit der absorbierenden Substanz Kieselguhr. Mit tickendem Zeitzünder.}
+{20700}{}{Geigerzähler}
+{20701}{}{Geigerzähler vom Typ Wattz Electronics C-Radz. Zeigt Strahlungsfelder und ihre Stärke an. Eingeschaltet.}
+{20800}{}{Scanner}
+{20801}{}{Scanner der Firma Wattz Electronics vom Typ C-U. Erkennt Bewegungen von biologischem Material auf eine Entfernung von mehreren Metern mittels eines justierten Radargeräts. Aktiviert.}
+{20900}{}{Plastiksprengstoff}
+{20901}{}{Cordex, ein Plastiksprengstoff für Militärzwecke. Hohe Stabilität, hohe Zerstörungskraft. Mit tickendem Zeitzünder.}
+{21000}{}{Stealth Boy}
+{21001}{}{Tarnkappe vom Typ RobCo Stealth Boy 3001. Generiert ein Modulationsfeld, das reflektiertes Licht von der einen Seite eines Objekts auf die andere leitet.}
+{21100}{}{Knochen}
+{21101}{}{Du siehst Ed. Ed ist tot.}
+{21200}{}{Tandi}
+{21201}{}{Du handelst die Freilassung von Tandi aus.}
+{21300}{}{Gizmos Überreste}
+{21301}{}{Gizmo, der ehemalige Verbrecherboß von Junktown, ist tot. Und stinkt ganz schön!}
+{21400}{}{Schreibtisch}
+{21401}{}{Einfacher Schreibtisch. Nach genauerer Betrachtung kommst du zu dem Schluß, daß es immer noch ein Schreibtisch ist.}
+{21500}{}{Sophias CD}
+{21501}{}{Holo-CD mit Informationen zur Brotherhood of Steel. Kann in den PIPBoy geladen werden.}
+{21600}{}{Maxsons CD}
+{21601}{}{}
+{21700}{}{Militärbasis-CD}
+{21701}{}{}
+{21800}{}{Leichte Heilung}
+{21801}{}{Handle um diese Option, wenn du eine leichte Heilung wünschst.}
+{21900}{}{Mittlere Heilung}
+{21901}{}{Handle um diese Option, wenn du eine mittlere Heilung wünschst.}
+{22000}{}{Starke Heilung}
+{22001}{}{Handle um diese Option, wenn du viel Pflege und eine starke Heilung wünschst.}
+{22100}{}{Sicherheitsausweis}
+{22101}{}{Karte mit verschlüsseltem Sicherheitscode, der in die einfache Elektronik integriert ist.}
+{22200}{}{Feldschalter}
+{22201}{}{Elektronisches Übertragungsgerät mit einem sehr einfachen, großen Ein-/Ausschalter. Anscheinend erst vor kurzem hergestellt und auf sehr große Hände ausgelegt.}
+{22300}{}{Gelber Schlüssel}
+{22301}{}{Gelber elektronischer Sicherheitsschlüssel.}
+{22400}{}{Kleine Statue}
+{22401}{}{Du vermutest, daß der PIPBoy dieses Werk geschaffen hat, bist dir aber nicht ganz sicher.}
+{22500}{}{Keine Ahnung}
+{22501}{}{Auch nach genauerer Betrachtung hast du noch immer keine Ahnung, was das sein könnte.}
+{22600}{}{Packung Nudeln}
+{22601}{}{Du hast keine Ahnung, was 'Instant-Spaghetti' sein könnten.}
+{22700}{}{Verstaubte Kiste}
+{22701}{}{Du bist dir nicht sicher, was das sein könnte, aber es ist bestimmt nicht mehr eßbar. Vielleicht ist es das nie gewesen!}
+{22800}{}{Reparaturhandbuch}
+{22801}{}{Handbuch zur Reparatur der T 51b-Powerrüstung.}
+{22900}{}{Kleines Gerät}
+{22901}{}{Du siehst einen systolischen Motivator. Dieses ungewöhnliche Gerät ist sehr klein.}
+{23000}{}{Vaultstandorte-CD}
+{23001}{}{Diese CD enthält wichtige Aufzeichnungen eines Vaultcomputers. Unter Umständen beschädigt.}
+{23100}{}{Militärbasiscode}
+{23101}{}{ }
+{23200}{}{Super-Powerrüstung}
+{23201}{}{Sondermodell der T 51b-Powerrüstung. Die Verteidigungsfunktionen dieser High-Tech-Rüstung wurden durch das Härteverfahren weiter verbessert.}
+{23300}{}{Turbo-Plasmagewehr}
+{23301}{}{Umgerüstetes Winchester P94-Plasmagewehr. Die Plasmakammern wurden mit Draht ausgelegt, um die Bolzenbildung zu beschleunigen. Mindeststärke: 6.}
+{23400}{}{Schlagring mit Spitzen}
+{23401}{}{Verbesserte Version des klassischen Schlagrings. Der mit Spitzen versehene Schlagring richtet im unbewaffneten Kampf mehr Schaden an. Mindeststärke: 1.}
+{23500}{}{Powerfaust}
+{23501}{}{Powerfaust von BeatCo. Von vielen als die beste Waffe für den unbewaffneten Kampf angesehen. Furchterregend. Mindeststärke: 1.}
+{23600}{}{Kampfmesser}
+{23601}{}{Das Stallona von SharpWit Inc. ist ein qualitativ hochwertiges Kampfmesser. Die Klinge bleibt garantiert zehn Jahre lang scharf. Mindeststärke: 2.}
+{23700}{}{Chemiezeitschriften}
+{23701}{}{Verschiedene Zeitschriften zum Bereich Chemie. Die Artikel über Molekularchemie sind besonders interessant.}
+{23800}{}{Regulatorübertragung}
+{23801}{}{Auf dieser Holo-CD sind Funkübertragungen gespeichert.}
+{23900}{}{BoS-Rüstung}
+{23901}{}{Neustes Kampfrüstungsmodell. Die Brotherhood of Steel hat die Standardausführung enorm verbessert.}
+{24000}{}{Tesla-Rüstung}
+{24001}{}{Diese glänzende Rüstung bietet höchsten Schutz bei Angriffen mit Energiewaffen. Die drei Tesla-Magnetspulen neutralisieren einen Großteil der in einem Angriff eingesetzten Energie.}
+{24100}{}{.223-Pistole}
+{24101}{}{.223-Gewehr, das zu einer Pistole umgerüstet und verkleinert wurde. Eine einmalige Feuerwaffe, die mit viel Liebe und großem Können angefertigt wurde. Mindeststärke: 5.}
+{24200}{}{Kampfgewehr}
+{24201}{}{Kampfgewehr vom Typ Winchester City-Killer, Kaliber 12, Bullpup-Modell. In hervorragendem Zustand. Mit optionaler Umrüstung für einen Krieg in der Wüste noch zuverlässiger. Mindeststärke: 5.}
+{24300}{}{MacRaes Training}
+{24301}{}{Verwenden dies, um deinen Nahkampfschaden um 1 und deine Schadensresistenz % (Normal) um 5 dauerhaft zu erhöhen.}
+{24400}{}{Gold Nugget}
+{24401}{}{Ein Gold Nugget.}
+{24500}{}{Alien Blaster CHEAT}
+{24501}{}{Du betrügerischer Bastard.}
+{24600}{}{Uzi 9mm SMG}
+{24601}{}{Dies ist eine Uzi-Maschinenpistole, Kaliber 9mm. Erstaunlicherweise ist sie immer noch in einwandfreiem Zustand. Die Uzi war billig, leicht und klemmte selten, was sie zu einem Klassiker unter Drogengängstern in der Anfangsphase des 21. Jahrhunderts machte. Min STR: 3.}
+{24700}{}{Rattenfleisch}
+{24701}{}{Teile einer zerstückelten Ratte. Schade, dass du das Document VTR-003 "Wie man Ratte ißt" in der Vault nicht gelsen hast, sonst wärst du in der Lage es schmackhafter zu machen.}
+{24800}{}{Brahminfleisch}
+{24801}{}{Brahminfleisch ist reich an Vitaminen, Mineralstoffen, Fett, Eiweiß und Rad. Schade, dass du keine Zeit hast dir ein paar leckere Brahmin-Burger zu kochen!}
+{24900}{}{Hundefleisch}
+{24901}{}{Hart und zäh, aber was hast du erwartet? Es geht das Gerücht, dass im 20. und 21. Jahrhunderts, vor dem Großen Krieg Hundefleisch eine Delikatesse in China war.}
+{25000}{}{Ghoulfleisch}
+{25001}{}{Du bist nicht einmal sicher, ob dies essbar ist. Es riecht nach Tod und schmeckt wahrscheinlich auch nicht besser.}
+{25100}{}{Fleisch von Deathclaws}
+{25101}{}{Sehr zäh und trocken, aber fast zu 100% aus Protein; wohl das sättigendste und "gesundes" Fleisch, das du in den Abfällen finden wirst.}
+{25200}{}{Gottesanbeterinenstücke}
+{25201}{}{Wenn du so tust, als seinen es Leguan Bits, dann ist es garnicht nicht so schlecht, bis auf das Knirschen. Eigentlich ist es immer noch ziemlich schlecht.}
+{25300}{}{Wasserflasche (leer)}
+{25301}{}{Ein Behälter, auch "Feldflasch" genannt, für die Haltung und Schutz von Wasser und anderen Flüssigkeiten. Vor dem Ersten Weltkrieg, wurden diese häufig von Wanderer, Lagerbewohner, Soldaten und Arbeiter im Feld verwendet. Dieser ist leer. Denkt daran Kinder, die Vermeidung von Dehydrierung ist ein wichtiger Bestandteil eines jeden Katastrophenplans!}
+{25400}{}{F.E.V. (Supermutant)}
+{25401}{}{Also ein Supermutanten bist du jetzt. Aber hey, es könnte schlimmer sein! Zumindest haben sie dir deine Sachen gelassen. Auf jedem Fall ist deine Ausdauer, Kraft und Strahlungsbeständigkeit erhöht, aber deine Intelligenz wurde verringert und du kannst keine Rüstung mehr tragen.}
+{25500}{}{mutiertes Fleisch}
+{25501}{}{Du beobachtest das Fleisch gespannt, um festzustellen ob es sich noch bewegt.}
+
+

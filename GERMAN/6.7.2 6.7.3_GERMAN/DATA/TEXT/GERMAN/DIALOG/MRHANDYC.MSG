@@ -1,0 +1,69 @@
+{100}{}{Der Roboter funktioniert nicht. Die Staubschicht läßt darauf schließen, daß er
+ schon länger nicht mehr aktiv war.}
+{101}{}{Der Roboter ist zwar repariert, aber er funktioniert dennoch nicht.}
+{102}{}{Die Hardware ist nicht das Problem, es muß die Software sein.}
+{103}{}{Du kannst auf die Funktionen des Roboters nicht zugreifen, er ist deaktiviert.}
+{104}{}{Du hantierst an einigen kaputten Komponenten herum, benötigst jedoch
+ mehr Zeit zum Reparieren.}
+{105}{}{Du bootest den Computer und startest den Roboter.
+ Du bemerkst, daß das Funksystem des Roboters zerstört ist.}
+{106}{}{Du arbeitest einige Zeit am Computer des Roboters, kannst ihn aber
+ nicht neu starten.}
+{107}{}{Einheit Nr. 462 online. Selbsttest. Datenanpassung. Erledigt.
+ Erstellen einer neuen Speicherdatei. Erledigt. Fehler - Aufgabe unvollständig.}
+{108}{}{Rogga.}
+{109}{}{Welche Aufgabe ist unvollständig?}
+{110}{}{Hm, mach?s einfach und laß' mich in Ruhe!}
+{111}{}{[Klick] Alles klar! Aufgabe wird erneut durchgeführt.}
+{112}{}{Einheit Nr. 462 ist ein Reinigungsmodell. Du mußt auf diesem Level
+ Reinigungsarbeiten und Wartung abschließen.}
+{113}{}{Los geht?s!}
+{114}{}{Was muß noch aufgeräumt werden?}
+{115}{}{Die Container-Steuerzentrale. [Klick] Ende der Liste.}
+{116}{}{Heh. Beende deine Aufgabe.}
+{117}{}{Du erhältst 1000 Erfahrungspunkte für diese Reinigungsarbeiten.}
+#
+# Fallout Fixt
+#
+{118}{}{Das spielt keine Rolle.}
+{119}{}{Dieser Roboter ist in keinem guten Zustand mehr, aber er scheint noch vollständig zu funktionieren.}
+#
+#  120 TRANSLATION NOTE: "Jury-rig" is a nautical term that's come into common use to mean "fix acceptably with the tools at hand" or "a temporary but functional workaround fix"
+#
+{120}{}{Du fummelst am Funksystem des Roboters herum; es sollte jetzt wieder funktionieren.}
+{121}{}{Du ersätzt erfolgreich das Funksystems des Roboters.}
+{122}{}{Das System reagiert nicht auf deine Eingabe.}
+{123}{}{Das Funksystem des Roboters ist defekt.}
+#
+{124}{}{Warte einen Moment. Welche Funktionen kannst du ausführen?}
+{125}{}{Einheit 462 unterstützt bei Aufgaben, wie sie in den Dateien im Speicher und durch die Programmierung spezifiziert sind.}
+{126}{}{Ja, ja ... komm zu den wichtigen Teilen!}
+{127}{}{Etwas genauer bitte!}
+{128}{}{[Klick] Einheit 462 kann Brennstäbe in Kernreaktoren austauschen, Gefahrenstoffe, sowei Verstrahlung beseitigen und grundlegende mechanische Reparaturarbeiten durchführen.}
+{129}{}{Sonst noch was?}
+{130}{}{[Beep!] Einheit 462 ist darüber hinaus mit Selbstwartungsroutinen, Selbstverteidigungsmechanismen und einem voll konfigurierbarem Betriebssystem ausgestattet.}
+{131}{}{Selbstverteidigungsmechanismen?}
+{132}{}{Okay, danke.}
+{133}{}{[Klicken] Einheit 462 ist berechtigt, tödliche Gewalt zur Selbstverteidigung anzuwenden, soweit es die Programmierung gestattet.}
+{134}{}{Tödliche Gewallt?}
+{135}{}{(Ein Lautsprecher erwacht mit einem Knacken zum Leben und eine aufgezeichnete Nachricht von einer männlichen Stimme ist zu hören. Es klingt wie Werbung.) "RobCo ist zu Ihrer Sicherheit und Ihrem Wohlbefinden verpflichtet. Alle Mr. Handys von RobCo sind ausgestattet mit den neuesten Sicherheitsanforderungen, um bedauerliche Vorfälle zu vermeiden. Seien Sie versichert, Mr. Handy ist die beste und sicherste Investitionen, die ihre Familie jemals machen wird." (Der Lautsprecher verstummt.)}
+{136}{}{[Weiter]}
+{137}{}{[Klick] Verarbeitung läuft ... [Klick] Dateien im Speicher belegen, dass seit dem Herstllungsdatum von Einheit 462, bei 4629 aufgezeichneten Ereignissen zur Selbstverteidigung von identsichen Einheiten, nur 930 davon einen tödlichen Ausgang für unbewaffnete Zivilisten hatten.}
+{138}{}{Oh ... das klingt nicht sehr gut.}
+{139}{}{Hmm. Ich könnte etwas Hilfe beim Aufräumen hier gebrauchen. Kannst du mir dabei helfen?}
+{140}{}{Kann die Selbstverteidigungssystem auf Angriff umprogrammiert werden?}
+{141}{}{Ich denke doch, dass die Vault-Bewohner Zivilisten bedacht habe, also werde ich mein Bestes tun, es nicht zu vermasseln.}
+{142}{}{[Klick] Prüfung läuft ... [Klick] Die Programmierung von Einheit 462 ist derzeit nicht dafür konfiguriert. Ein Wechsel des Eigentümers und eine Neuausrichtung der Waffensystem wird vom derzeitigen Protokoll nicht unterstützt.}
+{143}{}{[Du versuchst, das Gerät zu hacken und die Programmierprotokolle zu umgehen]}
+{144}{}{(Es dauert eine Weile, aber schließlich bist du in der Lage, die Codes zu knacken und Root-Zugang zum System zu erhalten.)}
+{145}{}{[Beep!] Einheit 462 online. Selbsttest ... OK. Justiere Standortdaten. Fertig. Wiederaufbau der Speicherdatein. Fertig. Lösche Aufgabenliste ... Fertig. [Klicken] Befehl?}
+{146}{}{Folgen mir und halten Selbstverteidigungsmechanismen einsatzbereit. Oh, und nicht auf mich schießen, ich bin keine Bedrohung. Das solltest du vielleicht noch zu den Selbstverteidigungprotokollen hinzufügen!}
+{147}{}{[Klick] Okey-dokey! Rekursive Aufgabe erstellt. Beende Eingabe.}
+{148}{}{(Du versuchst, Root-Zugriff auf dem System zu erhalten, ohne Erfolg. Ein rotes Licht beginnt zu blinken.) Oh, oh ...}
+{149}{}{Alarm! Alarm! Bedrohung endeckt! [Klick] Leite Selbstverteidigungsrotokolle ein.}
+{150}{}{Der Roboter ignoriert dich und fährt mit seiner Aufgabe fort.}
+{151}{}{Einheit 462, zu ihren Diensten.}
+
+
+
+

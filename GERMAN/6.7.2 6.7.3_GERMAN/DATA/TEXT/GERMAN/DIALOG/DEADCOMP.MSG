@@ -1,0 +1,113 @@
+{100}{}{Dieser Ausrüstungsgegenstand funktioniert nicht.}
+{101}{}{Du drückst einen losen Chip wieder in seine Fassung und überraschend leuchtet der Monitor auf!}
+{102}{}{Der Schaden scheint physische und nicht elektrischen zu sein. Er könnte immernoch booten, mit ein wenig Arbeit.}
+{103}{}{Dieses Gerät ist funktionsunfähig.}
+{104}{}{Du fummelst herum und schneidst dir am Gehäuse deine Hände auf. Autsch!}
+{105}{}{Macro$oft (tm) Wyndoze 99 (c) startet...   Fertig.
+ U:\ > }
+{106}{}{DIR}
+{107}{}{EXIT}
+{108}{}{FALLOUT    <DIR>          20.10.99   13:04
+ 0 Bytes in 0 Dateien, 0 Bytes belegt, 4.379.255 Bytes frei}
+{109}{}{CD FALLOUT}
+{110}{}{Wow! Das ist ein großartiges Spiel!}
+{111}{}{ U:\ > }
+{112}{}{Nach einigen Minuten des Suchens findest du eine Jumper-Einstellung für den Debug-Modus und ändern Sie in 01.}
+{113}{}{FALLOUTW.EXE}
+{114}{}{U:\Fallout\ > }
+{115}{}{FALLOUTW.EXE     1384432   20.10.99   13:04
+ FALLDEMO.EXE     995328    22.04.97   14:13
+2.379.760 Bytes in 2 Dateien,  2.436.874 Bytes belegt, 0 Bytes frei}
+{116}{}{[Weiter]}
+{117}{}{> LADEN...  }
+{118}{}{[Fertig]}
+{119}{}{Du erhältst 100 Erfahrungspunkte für das Spielen von Fallout.}
+{120}{}{    U:\Fallout\ > }
+{121}{}{Ich kann nicht genug bekommen von diesem Fallout-Spiel. Sie machen sie heute einfach nicht mehr, wie in der Vorkriegszeit.}
+{122}{}{Hmmm ... Ich frage mich, was diese Einstellung ändert?}
+{123}{}{> Starte Debug-Sequenz}
+{124}{}{*Klick* ............. Bitte warten ... ... ... ... ... ...
+ %s  Done.}
+{125}{}{> Starte Speicherabbild}
+{126}{}{FALLDEMO.EXE}
+{127}{}{Du erhältst 25 Erfahrungspunkte}
+{128}{}{[Fertig]}
+{129}{}{Speicherabbild BEGONNEN >>> NICHT ABSCHALTEN oder Dieses Terminal RESETEN
+ ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...
+...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  }
+{130}{}{Ich verstehe nichts davon.}
+{131}{}{Du siehst: Computer Desk.}
+{132}{}{> BITTE EXTRAKTIONSMEDIUM EINLEGEN <}
+{133}{}{Ähm ... Ich habe so etwas nicht.}
+{134}{}{[Überprüfe, ob es etwas auf der externen Festplatten des Computers gibt]}
+{135}{}{
+ 
+Erfolg! Hier findest Du eine 5 "Diskette unter der Tastatur. Es ist sehr staubig, aber scheint funktionsfähig zu sein.}
+{136}{}{
+ 
+Du findest nichts, was wie eine Diskette oder eine Kasette aussieht ...}
+{137}{}{[Weiter suchen]}
+{138}{}{
+ 
+Es gibt eine alte Holodisk im Bandlaufwerk, eine Kasette, die aussieht, als müßte sie in Ihrem Pip-Boy 2000 arbeiten!}
+{139}{}{[Installiere die Diskette]}
+{140}{}{rrrggg... In-doh?}
+{141}{}{
+ 
+Du drückst den Holodisk bis zum Anschlag in das Bandlaufwerk nachdem du sie Abgeblasen hast und überprüfst, dass das Band richtig gespult ist. Nach dem Abstauben der 5 "Diskette legst du sie in das Diskettenlaufwerk ein und drehst den Feststellhebel.}
+{142}{}{> 12:50 [Drücke Enter]}
+{143}{}{[Für einige Augenblicke blinken die Leuchten am Diskettenlaufwerk und aus dem Bandlaufwerk ist ein schrilles Surren zu hören. Als es aufhört, folgt ein gleichmäßiges Schleifgeräusch aus dem Diskettenlaufwerk.]}
+{144}{}{>>> NICHT AUSSCHALTEN ODER RESETEN >>> :: Datenbeschädigungen werden auftreten ::
+ 
+ÜBERPRÜFE DATEN: 0% ### ### ### 32% ### ### ### 59% ### ### ### 82% ### ### ### 99% ### ### ### ... FERTIG.
+SCHREIBE 512KB IN SPEICHERPUFFER: 0% ### ### ### 28% ### ### ### 62% ### ### ### 77% ### ### ### 95% ### ### ### ... FERTIG.
+ÜBERPFÜFE SPEICHER: 0% ### ### ### 17% ### ### ### 50% ### ### ### 79% ### ### ### 97% ### ### ### ... FERTIG.}
+{145}{}{::: DATENÜBERTRAGUNG IM GANGE :::
+ .
+...
+.....
+Übertrage 6,759,015 Bytes zum Sicherungsbandlaufwerk................................
+.......
+.........
+...........}
+{146}{}{DATENÜBERTRAGUNG ABGESCHLOSSEN. BITTE ENTFERNEN SIE DEN EXTERNEN DATENTRÄGER! EINEN SCHÖNEN TAG NOCH!
+ [Das System wird heruntergefahren, es gibt Kurzschlüsse, dann folgt Stille]}
+{147}{}{Danke!}
+{148}{}{Der Computer sieht schwer beschädigt aus und irreparabel.}
+{149}{}{Viele Schaltkreise wurden von einem EMP gebraten.}
+{150}{}{Das funktioniert nicht.}
+{151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
+{152}{}{Du erhällst 25 Erfahrungspunkte für das Spielen von Fallout.}
+{153}{}{Interessante. Ich wette, die Vollversion wird ein großartiges Spiel werden!}
+{154}{}{Hmm. Die Vollversion von Fallout ist besser, aber diese Demo hat dennoch einen einzigartigen Charm.}
+{155}{}{Du erhältst 25 Erfahrungspunkte für das Spielen der interaktiven Fallout Demo.}
+{156}{}{}
+{157}{}{}
+{158}{}{}
+{159}{}{}
+
+
+# 400 and 401 are picked randomly when playing falldemo.exe, and represent the different playtype paths
+
+{400}{}{Mit dem defekten Generator, gibt es für die Banden keinen Grund um Scrap Heap zu kämpfen. Die Menschen von Scrap Heap werden eine schlechteres Leben führen ohne Strom; aber die Banden verschwinden, zumindest werden sie am Leben sein. Ihre Aufgabe hier ist getan, aber Ihre Mission, den Chip für die Wasserreinigung zu finden geht weiter.}
+{401}{}{Nach einem langen Kampf und viel Blutvergießen, siegst Du. Mit den besiegten Banden ist Scrap Heap wieder ein sicherer Hafen. Die Bürger sind dankbar - Sie geben Ihnen einige wertvolle Informationen, und Ihre Aufgabe in Scrap Heap ist nun abgeschlossen. Jedoch nicht die Aufgabe, den Wasserreinigung-Chip zu finden.}
+
+
+# 500 onward are picked randomly when playing falloutw.exe, and represent the different playtype paths
+
+#standard
+{500}{}{500 Nach dem der Meister aufgehalten und sein Labor zerstört wurde , mit dem er seine Armee von Supermutanten schaffen woltte, kehrst du nach Hause zurück, nur um zu entdecken, dass Du aus deiner Vault als zu destruktiven geworfen wurdest. Vielen Dank für das Spielen von Fallout!}
+
+#dialog/'good'
+{501}{}{501 Nachdem du dem Meister überzeugt hast seine schlecht geplante Herrschaft aufzugeben und nach der Zerstörung der Container, kehrst du nach Hause zurück, nur um verbannt werden, angeblich, um andere am Verlassen der Vault zu hindern. Vielen Dank für das Spielen von Fallout!}
+
+#combat/'evil'
+{502}{}{502 Nach der Zerstörung der Container, des Meister und seiner Armee von Supermutanten, kehrst du nach Hause zurück, aber bist bicht länger willkommen. Sie rächen sich und der zerschmetterte Leichnam des Aufseher bleibt hinter dir zurück. Vielen Dank für das Spielen von Fallout!}
+
+#traitor/dipped
+{503}{}{503 Du wurdest in FEV eingetaucht und nach der Vereinigung mit dem Meister zeigst du auf die Position von Vault 13. Du wirst mit dem führenden Angriff auf deine Vault und das Töten des Aufsehers mit bloßen Fäusten belohnt. Vielen Dank für das Spielen von Fallout!}
+
+
+
+
+

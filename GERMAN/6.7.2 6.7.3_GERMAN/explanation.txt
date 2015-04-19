@@ -1,0 +1,9 @@
+I tooked a clean installation of Fallout1 German v1.2 and applayed the "Fallout_Fixt_alpha-6.7.2_GERMAN_UNCUT.exe", option "FULL". The "master.dat" was extracted to a seperate folder.
+
+Each msg-file in ".\f1\data\text\english" was compared with it's coresponding file in ".\f1.extracted\data\text\german".
+
+I used the line numbers (number between the first "{}") of the English files to copy them to new German createt files line by line at ".\f1\data\text\german" and if a line number was missing I translated the English text. Comments and so one had been copied in the same order as my tool found them.
+
+Any file with a "demo" or "test" in it's name had been igrnored, all lines in one of the files that looked like a part of a cheating menue and any helptext for the screen setting menue, too.
+
+I repeated this procedure with the content of "Fallout_Fixt_alpha-6.7.3_PATCH.exe" seperatly and what you got is the result. 

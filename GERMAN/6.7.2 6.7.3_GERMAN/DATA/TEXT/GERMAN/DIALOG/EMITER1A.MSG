@@ -1,0 +1,22 @@
+{100}{}{Du kannst an dem Emitter keine Steuerkonsole sehen. Vielleicht kannst du dieses
+ Energiefeld irgendwie anders abschwächen.}
+{101}{}{Du deaktivierst das Kraftfeld kurzzeitig, indem du den Emitter beschädigst.}
+{102}{}{Du zerstörst den Kraftfeldemitter vollständig und das Energiefeld wird aufgelöst.}
+{103}{}{Du deaktivierst kurzzeitig den Kraftfeldemitter.}
+{104}{}{Du weißt nicht, was du mit dem Kraftfeldemitter anfangen sollst.}
+{105}{}{Du aktivierst den Kraftfeldemitter.}
+{150}{}{Dein Versuch den Kraftfeldemitter wieder zu verbinden scheitert.}
+{151}{}{Du schaltest den Kraftfeldemitter ab.}
+{200}{}{Du siehst einen schrecklich beschädigten Kraftfeldemitter.}
+{201}{}{Der Kraftfeldemitter ist zu beschädigt, um ihn zu verwenden.}
+{202}{}{Der Kraftfeldemitter ist zu beschädigt, um ihn zu reparieren.}
+{203}{}{Du merkst, dass das Kraftfeld beschädigt ist und man hindurch gehen kann.}
+#
+# Fallout Fixt
+#
+{204}{}{Ein gut platzierter Sprengsatz könnte den Kraftfeldemitter vollständig ausschalten.}
+{205}{}{Du siehst keinen Weg den Sprengstoff an dem Kraftfeldemitter zu befestigen. Du mußt ihn in der Nähe platzieren.}
+
+
+
+

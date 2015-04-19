@@ -1,0 +1,57 @@
+# The following dialog lines were pulled from these files, which are now blank:
+# DEMODOG
+# DOG2
+# DOGMEAT
+# JUNKDOG
+###############################################################################
+#
+# DEMODOG.MSG
+#
+{100}{}{Du siehst einen Hund. Er scheint dir zu folgen.}
+{101}{}{Du siehst einen Hund.}
+{102}{}{Wau!}
+{103}{}{Grrr!}
+{104}{}{Es scheint, dass du in dem Hund einen Freund gefunden hast.}
+{105}{}{Du erhältst 200 Erfahrungspunkte für das Anfreunden mit dem Hund.}
+{106}{}{Du erhältst 335 Erfahrungspunkte für den Sieg über den Hund und dass Phil zurück in sein Haus kann.}
+#
+# DOG2.MSG
+#
+{107}{}{Komm her, mein Junge.}
+{108}{}{Grrrrr ... Wau! Grrrrr ... Wau! }
+{109}{}{Aus irgendeinem Grund mag dich dieser Hund.}
+#
+# DOGMEAT.MSG
+#
+{110}{}{Du siehst: Dogmeat.}
+{111}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
+{112}{}{[Schnüffel. Schnüffel.] Grrrr! Knurr!}
+{113}{}{[Schnüffel. Schnüffel] Wau!}
+#
+# JUNKDOG.MSG
+#
+{114}{}{Du verdienst dir 100 Erfahrungspunkte für die Hilfe beim Lösen von Phils vierbeinigem Rätsel.}
+{115}{}{Der Hund scheint zu glauben, du seist sein Herrchen.}
+{116}{}{Sie verdienst dir 35 Erfahrungspunkte für die Hilfe beim Lösen von Phils vierbeinigem Rätsel.}
+{117}{}{Wau-wau!}
+{118}{}{Komm schon, Kumpel!}
+{119}{}{Bleib hier und warten, okay?}
+{120}{}{Guter Hund!}
+{121}{}{Welpen!!!}
+{122}{}{Wau?}
+{123}{}{Arf?}
+
+
+# Translation Note:
+# these are for stupid characters (INT <= 3)
+
+{300}{}{Hündchen!! Willst du mein Freund sein?}
+{301}{}{Hund bleib! Nicht bewegen!}
+{302}{}{Bei Seite Kumpel! Guter Junge!}
+{303}{}{Dummer Köter!}
+{304}{}{Guter Hund!}
+
+
+
+
+
