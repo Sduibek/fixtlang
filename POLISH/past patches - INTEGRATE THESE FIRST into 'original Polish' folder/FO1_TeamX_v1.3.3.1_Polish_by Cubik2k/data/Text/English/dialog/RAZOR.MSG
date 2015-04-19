@@ -1,0 +1,152 @@
+{100}{}{Witaj, co mogê dla ciebie zrobiæ?}
+{101}{}{Kim jesteœ}
+{102}{}{Ty jesteœ szefow¹ tego gangu?}
+{103}{}{Niewa¿ne.}
+{104}{}{A...Co?}
+{105}{}{Mam na imiê Brzytwa. Sprawujê funkcjê najbli¿sz¹ przywódcy.}
+{106}{}{Wiêc to ty kierujesz tym gangiem?}
+{107}{}{Co to za historia z tym ogrodzonym obszarem na po³udnie st¹d?}
+
+# Fixed with patch 1.3 from TeamX. Player's name will be substitued at the end of the line 108.
+
+{108}{}{Mi³o mi ciê poznaæ. Jestem }
+{109}{}{Mi³o mi ciê poznaæ. Ale muszê ju¿ iœæ.}
+{110}{}{Gang? Trudno nazwaæ nas gangiem. Ale to ja tu dowodzê.}
+{111}{}{Skoro nie jesteœcie gangiem, to czym?}
+{112}{}{Jak dla mnie wygl¹dacie na gang.}
+{113}{}{¯egnaj.}
+{114}{}{To Adytum. To niewolniczy obóz pracy nadzorowany przez Regulatorów. Ale oni mówi¹ wszystkim, ¿e to "miasto". Przyszli tutaj i zabrali naszych ludzi, ¿eby zaharowywali siê na œmieræ. A kiedy do tego dojdzie przyjd¹ po wiêcej.}
+{115}{}{Nie mo¿ecie tam pójœæ i uwolniæ waszych ludzi?}
+{116}{}{Po co wiêc marnujê czas na rozmowê z tob¹? Lepiej dogadam siê z tamtymi.}
+{117}{}{Dowiem siê jak stoj¹ sprawy w Adytum. Do widzenia.}
+{118}{}{Taaak. Co siê sprowadza w t¹ czêœæ Pustkowia?}
+{119}{}{Szukam hydroprocesora. Nie wiesz mo¿e, gdzie mo¿na taki znaleŸæ?}
+{120}{}{Tak sobie wêdrujê...}
+{121}{}{Tylko siê rozgl¹dam. Na razie.}
+{122}{}{Jesteœmy tylko ludŸmi, którzy walcz¹ o przetrwanie. To Adytum wprowadzi³o nas w ten stan. Pilnuj¹ nas i wykorzystuj¹ naszych przyjació³ i rodziny jak zwierzêta. Nawet nie mo¿emy siê broniæ.}
+{123}{}{Dlaczego nie wypowiecie im walki?}
+{124}{}{Broniæ siê przed kim?}
+{125}{}{No có¿, skoro mieszkañcy Adytum s¹ silniejsi i m¹drzejsi od was, to maj¹ prawo, ¿eby wykorzystywaæ s³abych.}
+{126}{}{Rozejrzê siê i przekonamy siê co uda mi siê odkryæ. Na razie.}
+{127}{}{Szkoda, ¿e nie jesteœmy gangiem. Wtedy przynajmniej mielibyœmy porz¹dn¹ broñ do obrony.}
+{128}{}{Broniæ siê przed kim?}
+{129}{}{Nie oszukasz mnie. Jesteœcie band¹ degeneratów i wydaje mi siê, ¿e nie planujecie nic dobrego.}
+{130}{}{Jak dla mnie wygl¹dacie na gang.}
+{131}{}{Nie potrafiê wam pomóc.}
+{132}{}{Co to za historia z tym ogrodzonym obszarem na po³udnie st¹d?}
+{133}{}{Ty jesteœ szefow¹ tego gangu?}
+{134}{}{Potrzebna nam lepsza broñ. Zbrojmistrze, którzy maj¹ siedzibê niedaleko st¹d maj¹ broñ, ale nie mo¿emy siê do nich dostaæ.}
+{135}{}{Dlaczego?}
+{136}{}{Dowiem siê jak sprawy stoj¹.}
+{137}{}{Reglatorzy. To oni tak naprawdê rz¹dz¹ w Adytum, a nie Zimmerman. Przychodz¹ tutaj i zabieraj¹ naszych ludzi do Adytum jako niewolników. Jak ktoœ siê temu przeciwstawia, to go zabijaj¹. Czasem wpadaj¹ zabiæ kilka osób, ¿eby pokazaæ trupy Zimmermanowi i powiedzieæ, ¿e chcieliœmy najechaæ miasto czy coœ równie absurdalnego. Te gnojki zabi³y Zimmermanowi syna!}
+{138}{}{Syna Zimmermana? Po co mieliby to robiæ?}
+{139}{}{Chcesz powiedzieæ, ¿e nigdy nie wyst¹piliœcie przeciwko Adytum?}
+{140}{}{Po drodze do nich znajduje siê gniazdo Szponów Œmierci. Nigdy nie uda³o nam siê choæby porozmawiaæ z którymkolwiek z handlarzy. Regulatorzy maj¹ doœæ si³y ognia, ¿eby pozabijaæ te Szpony Œmierci, ale z jakiegoœ powodu tego nie zrobili.}
+{141}{}{Jak mogê znaleŸæ tych Handlarzy broni¹?}
+{142}{}{Dobrze. Do widzenia.}
+{143}{}{Josh mieszka³ tu ze mn¹... eee... To... to znaczy z nami. Zna³ prawdê i wiedzia³ co siê dzieje. Regulatorzy powiedzieli mu, ¿e jeœli spróbuje skontaktowaæ siê z ojcem, albo wróciæ do Adytum, to go zabij¹.}
+{144}{}{Zabili go? Co takiego zrobi³?}
+{145}{}{Idê do Adytum i dowiem siê jak do tego dosz³o.}
+{146}{}{Pewnej nocy, bardzo póŸno chcia³ zakraœæ siê do miasta, ¿eby powiedzieæ ojcu co tak naprawdê siê dzieje. Pods³uchiwa³am transmisje radiowe Regulatorów w t¹ noc kiedy... oni... on... zosta³ z³apany. [Spuszcza oczy i potrz¹sa g³ow¹.] Proszê, wszystko jest na tym dysku.}
+{147}{}{Dlaczego nie da³aœ tego ojcu Josha?}
+{148}{}{Nikt z nas nie mo¿e siê nawet zbli¿yæ do Adytum. Zastrzeliliby nas zanim zdo³alibyœmy dotrzeæ do bramy.}
+{149}{}{Mo¿e ja zaniosê mu ten dysk?}
+{150}{}{Dlaczego nie zbierzecie siê razem i nie przejmiecie Adytum si³¹?}
+{151}{}{Zaryzykujesz swoje ¿ycie, ¿eby nam pomóc?}
+{152}{}{Jasne. Zrobiê co w mojej mocy, ¿eby wam pomóc.}
+{153}{}{Mo¿liwe. Zanim jednak podejmê jakiekolwiek dzia³ania muszê sprawdziæ kilka rzeczy.}
+{154}{}{Dziêkujê. To rzeczywiœcie mo¿e nam pomóc. Powodzenia. [Wrêcza ci dysk.]}
+{155}{}{Do zobaczenia.}
+{156}{}{Dobrze. Mam nadziejê, ¿e podejmiesz s³uszn¹ decyzjê.}
+{157}{}{Do widzenia.}
+{158}{}{Do Handlarzy broni¹ dotrzesz id¹c najpierw na wschód, a potem na pó³noc. Musisz jednak uwa¿aæ - nie³atwo pokonaæ Szpona Œmierci. Widzia³am kiedyœ jak cz³owiek zosta³ rozdarty na pó³ jednym uderzeniem szponiastej ³apy.}
+{159}{}{Zobaczymy czego uda mi siê dowiedzieæ.}
+{160}{}{Przykro mi, ¿e tak uwa¿asz. Najlepiej bêdzie jak st¹d odejdziesz.}
+{161}{}{¯egnaj.}
+{162}{}{Mogê ci w czymœ pomóc?}
+{163}{}{Ty jesteœ szefow¹ tego gangu?}
+{164}{}{Niewa¿ne.}
+{165}{}{A...Co?}
+{166}{}{Gang? Trudno nazwaæ nas gangiem. Ale to w³aœnie do mnie wszyscy przychodz¹ po radê.}
+{167}{}{Zimmerman mnie przys³a³.}
+{168}{}{Jak dla mnie wygl¹dacie na gang.}
+{169}{}{¯egnaj.}
+{170}{}{(Wygl¹da na nieco zdenerwowan¹) S³ucham? Czy on...}
+{171}{}{¯eby ci wpakowaæ kulê w ³eb.}
+{172}{}{¯eby ci odp³aciæ za zabicie jego syna.}
+{173}{}{CO!!! PIEPRZONA BANDA SKURWIELI! POZABIJAM ICH, WYŒLÊ ICH WSZYSTKICH DO PIEK£A!!!}
+{174}{}{Nie, to ty zaraz trafisz do piek³a.}
+{175}{}{Eee... kogo chcesz wys³aæ do piek³a?}
+{176}{}{... Regulatorów. To oni zabili Josha! Nigdy nie mog³abym zrobiæ mu nic z³ego. To Regulatorzy kontroluj¹ Adytum, a nie Zimmerman.}
+{177}{}{¯a³osny sposób, ¿eby siê wykaraskaæ z k³opotów.}
+{178}{}{Po co Regulatorzy mieliby zabijaæ syna Zimmermana?}
+{179}{}{Josh mieszka³ tu ze mn¹... eee... To... to znaczy z nami. Zna³ prawdê i wiedzia³ co siê dzieje. Regulatorzy powiedzieli mu, ¿e jeœli spróbuje skontaktowaæ siê z ojcem, albo wróciæ do Adytum, to go zabij¹. Œmiali siê z niego... byli pewni, ¿e nie uda mu siê dotrzeæ do ojca...}
+{180}{}{Zabili go? Co takiego zrobi³?}
+{181}{}{Jak przebiega realizacja naszego planu?}
+{182}{}{Wci¹¿ nad tym pracujê.}
+{183}{}{A...Co?}
+{184}{}{Nie jestem pewna, czy to zadzia³a bez gróŸb popartych broni¹. Tym czego naprawdê potrzebujemy jest broñ od Handlarzy.}
+{185}{}{Gdzie mo¿na ich tych Handlarzy? Dlaczego nie kupicie od nich broni?}
+{186}{}{No có¿, ja to za³atwiê. Do widzenia.}
+{187}{}{S¹ na wschód od nas, ale po drodze znajduje siê gniazdo Szponów Œmierci. Nigdy nie uda³o nam siê choæby porozmawiaæ z którymkolwiek ze Handlarzy.}
+{188}{}{Dobrze, daj mi ten dysk. Porozmawiam ze Handlarzami zanim spotkam siê z Zimmermanem.}
+{189}{}{Mam nadziejê, ¿e uda ci siê znaleŸæ jakiœ sposób, ¿eby nam pomóc. Do widzenia.}
+{190}{}{Coœ siê sta³o?}
+{191}{}{Zabili Zimmermana!}
+{192}{}{A...Co?}
+{193}{}{....Teraz nie mamy innego wyjœcia, musimy dostaæ broñ od Handlarzy. Pomo¿esz nam?}
+{194}{}{Tak.}
+{195}{}{Nie.}
+{196}{}{Dziêkujê. Niech strzeg¹ ciê Bogowie.}
+{197}{}{Dziêkujemy ci za pomoc. Nied³ugo zaatakujemy Adytum, przyda nam siê ktoœ taki jak ty.}
+{198}{}{Nie dziêki, mam ju¿ doœæ wra¿eñ na ten tydzieñ.}
+{199}{}{Chêtnie, z przyjemnoœci¹ zastrzelê kilku Regulatorów.}
+{200}{}{A...Co?}
+{201}{}{Najpierw muszê porozmawiaæ z Zimmermanem.}
+{202}{}{Jeszcze raz dziêkujê za pomoc. Do widzenia.}
+{203}{}{Œwietnie. Ruszajmy.}
+{204}{}{Nie uwa¿am, ¿eby to by³ dobry pomys³, ale mo¿esz spróbowaæ.}
+
+# 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
+
+{205}{}{ Teraz, jak ju¿ nie ma Handlarzy nigdy nie zdo³amy siê uzbroiæ. Wynoœ siê st¹d, nie chcemy ciê tu widzieæ.}
+{206}{}{Przykro mi.}
+{207}{}{Wypchaj siê.}
+{208}{}{Porozmawiam z Zimmermanem, dam mu ten dysk i wszystko bêdzie w porz¹dku.}
+{209}{}{Wiesz co? Zabijê ciê.}
+{210}{}{A...Co?}
+{211}{}{Nie krêpuj siê. To twój pogrzeb. Bez tych karabinów i tak nie mamy czym siê broniæ.}
+{212}{}{OdejdŸ!}
+{213}{}{Nie chcemy ciê tutaj widzieæ.}
+{214}{}{Spadaj.}
+{215}{}{Dziêkujê.}
+{216}{}{Moi ludzie s¹ wolni.}
+{217}{}{Witaj.}
+{218}{}{Co ci siê sta³o, ktoœ siê postrzeli³ w g³owê?}
+{219}{}{Hê?}
+{220}{}{Widzisz Brzytwê, przywódcê Ostrzy.}
+{221}{}{Widzisz piêkn¹ m³od¹ kobietê, o smutnych oczach.}
+{222}{}{OdejdŸ proszê. Jestem bardzo zajêta.}
+{223}{}{Dziêkujê za pomoc z Regulatorami. Mo¿esz u nas zostaæ tak d³ugo jak tylko zechcesz. Porozmawiaj z Milesem i Smittym, mo¿e bêd¹ mogli ci jakoœ pomóc w dalszej podró¿y.}
+{224}{}{Czeœæ, mogê ci jakoœ pomóc?}
+{225}{}{Jak siê masz?}
+{226}{}{Hootzpah!}
+{227}{}{Mam na imiê Brzytwa i kierujê, ludŸmi, których tu widzisz. Mieszkamy tu, bo taka jest zachcianka Regulatorów Adytum.}
+{228}{}{Regulatorzy? Uda³o mi siê nimi zaj¹æ. By³ z nimi jakiœ problem?}
+{229}{}{Nie ¿yj¹?! W takim razie nie ma ¿adnego problemu. Moi ludzie bêd¹ teraz mogli spokojnie wieœæ ¿ycie z mieszkañcami Adytum.}
+{230}{}{To nieprawdopodobne. Uda³o ci siê pozabijaæ ich wszystkich. Ostrza i ja sk³adamy ci podziêkowania.}
+{231}{}{S³ysza³am, ¿e Regulatorzy ci¹gle kontroluj¹ Adytum. Nie uda³o ci siê wybiæ ich wszystkich.}
+{232}{}{Nie przejmuj siê, zajmê siê tym.}
+{233}{}{Chyba nie dam rady tego zrobiæ.}
+{234}{}{Poszlibyœmy z tob¹, ale nie mamy broni i Regulatorzy bez problemu by nas wystrzelali. Mo¿e istnieje inne wyjœcie [Brzytwa zastanawia siê przez chwilê]. Je¿eli uda ci siê przekonaæ Handlarzy broni¹, ¿eby zaopatrzyli nas w uzbrojenie, to moglibyœmy pójœæ z tob¹.}
+{235}{}{Brzmi nieŸle. Porozmawiam z nimi.}
+{236}{}{Jeszcze raz spróbujê wykoñczyæ Regulatorów.}
+{237}{}{Witaj ponownie. S³ysza³am, ¿e uda³o ci siê zabawiæ z Regulatorami. Chcia³am ci podziêkowaæ za pomoc. Moi ludzie bêd¹ teraz mogli ¿yæ w pokoju razem z mieszkañcami Adytum.}
+{238}{}{Zajmê siê Regulatorami osobiœcie.}
+{239}{}{Naprawdê? No có¿, jeœli jednak bêdziesz potrzebowaæ pomocy, albo jak ju¿ sobie z nimi poradzisz to przyjdŸ ze mn¹ porozmawiaæ.}
+
+# 240-241 added with patch 1.3 from TeamX.
+# TRANSLATION NOTE: Following two lines are gender dependent.
+
+{240}{}{Ty bydlaku!}
+{241}{}{Ty suko!}

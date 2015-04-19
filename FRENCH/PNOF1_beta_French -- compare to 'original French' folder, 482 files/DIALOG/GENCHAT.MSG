@@ -1,0 +1,95 @@
+{100}{}{Merci.}
+{101}{}{Au revoir.}
+{102}{}{Bonjour.}
+{103}{}{Tu gagnes }
+{104}{}{ points d'expérience.}
+{105}{}{Oh oh !}
+{106}{}{Clic !}
+{107}{}{Houp !}
+{108}{}{Waouh !}
+{109}{}{A un de ces quatre.}
+{110}{}{Mollo !}
+{111}{}{C'était marrant.}
+{112}{}{Et voilà.}
+{113}{}{Autre chose ?}
+{114}{}{Oui.}
+{115}{}{Non.}
+{116}{}{Tu gagnes }
+{117}{}{ points compétence en armes légères.}
+{118}{}{ points compétence en armes lourdes.}
+{119}{}{ points compétence en armes à énergie.}
+{120}{}{ points compétence au corps à corps.}
+{121}{}{ points compétence en armes blanches.}
+{122}{}{ points compétence en projectiles.}
+{123}{}{ points compétence Secourisme.}
+{124}{}{ points compétence Médecin.}
+{125}{}{ points compétence Esquive.}
+{126}{}{ points compétence Voleur.}
+{127}{}{ points compétence Passe-partout.}
+{128}{}{ points compétence Pièges.}
+{129}{}{ points compétence Science.}
+{130}{}{ points compétence Réparation.}
+{131}{}{ points compétence Discours.}
+{132}{}{ points compétence Troc.}
+{133}{}{ points compétence Jeu.}
+{134}{}{ points compétence Vie en plein air.}
+{135}{}{Tu gagnes un point compétence en armes légères.}
+{136}{}{Tu gagnes un point compétence en armes lourdes.}
+{137}{}{Tu gagnes un point compétence en armes à énergie.}
+{138}{}{Tu gagnes un point compétence au corps à corps.}
+{139}{}{Tu gagnes un point compétence en armes blanches.}
+{140}{}{Tu gagnes un point compétence en projectiles.}
+{141}{}{Tu gagnes un point compétence Secourisme.}
+{142}{}{Tu gagnes un point compétence Médecin.}
+{143}{}{Tu gagnes un point compétence Esquive.}
+{144}{}{Tu gagnes un point compétence Voleur.}
+{145}{}{Tu gagnes un point compétence Passe-partout.}
+{146}{}{Tu gagnes un point compétence Pièges.}
+{147}{}{Tu gagnes un point compétence Science.}
+{148}{}{Tu gagnes un point compétence Réparation.}
+{149}{}{Tu gagnes un point compétence Discours.}
+{150}{}{Tu gagnes un point compétence Troc.}
+{151}{}{Tu gagnes un point compétence Jeu.}
+{152}{}{Tu gagnes un point compétence Vie en plein air.}
+{153}{}{Ta force augmente de }
+{154}{}{Ta perception augmente de }
+{155}{}{Ton endurance augmente de }
+{156}{}{Ton charisme augmente de }
+{157}{}{Ton intelligence augmente de }
+{158}{}{Ton agilité augmente de }
+{159}{}{Ta chance augmente de }
+{160}{}{points.}
+{161}{}{Ta force augmente d'un point.}
+{162}{}{Ta perception augmente d'un point.}
+{163}{}{Ton endurance augmente d'un point.}
+{164}{}{Ton charisme augmente d'un point.}
+{165}{}{Ton intelligence augmente d'un point.}
+{166}{}{Ton agilité augmente d'un point.}
+{167}{}{Ta chance augmente d'un point.}
+{168}{}{Merci de ton aide.}
+{169}{}{De rien !}
+{170}{}{Aradesh est furieux et ne veut plus te parler.}
+{171}{}{Je crois que le Maître souhaite te parler.}
+{172}{}{Tu paieras pour ton BLASPHEME !}
+{173}{}{Ce robot ne semble pas fonctionner. Peut-être une défaillance au niveau de l'alimentation.}
+{174}{}{Ce robot te semble tout à fait normal.}
+{175}{}{Cet Ecorcheur refuse de te parler.}
+{176}{}{La valise est scellée et impossible à ouvrir.}
+{177}{}{Dépêchons-nous, je t'en prie. Pas le temps de discuter.}
+{178}{}{Morpheus est le seul à posséder la clé de cette porte. Faut que je file pour dire à Nicole ce qui se passe ici.}
+{179}{}{S'il te plaît, il faut que je file d'ici avant qu'ils découvrent mon identité.}
+{180}{}{Tu ne parviens pas à t'emparer de quoi que ce soit et tu te demandes si tu t'es fait repérer.}
+{181}{}{Les membres de la Confrérie t'ont surpris en train de voler.}
+# Mysterious Stranger messages 
+{182}{}{Allez, c'est pariti !}                                # 0
+{183}{}{On dirait bien que t'as besoin d'aide.} # 1
+{184}{}{Je vais t'aider.}                         # 0
+{185}{}{Je suis pas causant.}                        # 1
+{186}{}{Le haut-parleur se met à hurler : Attention ! Alerte Envahisseur.}
+{187}{}{La substance gluante a ralenti la transmission de ta frappe.}
+{188}{}{Les radscorpions sont maintenant enfermés dans leur grotte.}
+{189}{}{L'entrée de la grotte t'invite à t'enfoncer dans le nid des radscorpions.}
+{200}{}{Tu vois un champ émetteur terriblement endommagé.}
+{201}{}{L'émetteur est hors d'usage.}
+{202}{}{L'émetteur n'est pas réparable.}
+{203}{}{Tu remarques que le champ est si endommagé qu'on peut le traverser.}

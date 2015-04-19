@@ -1,0 +1,139 @@
+{100}{}{Widzisz Talusa.}
+{101}{}{Witaj. To ty musisz byæ t¹ œwie¿o wtajemniczon¹ osob¹ z zewn¹trz. Mi³o mi ciê poznaæ. W czym mogê pomóc?}
+{102}{}{Kto przewodzi waszej organizacji?}
+{103}{}{Kto tu rz¹dzi?}
+{104}{}{Sk¹d wezmê lepsz¹ broñ i sprzêt?}
+{105}{}{Czaga!}
+{106}{}{Rada starszych. Dok³adniej Wielki Mistrz, Maxson. Starsi podejmuj¹ tu wszystkie wa¿niejsze decyzje. Jeœli chcesz z nimi porozmawiaæ, to znajdziesz ich na czwartym piêtrze.}
+{107}{}{Czym siê zajmujecie?}
+{108}{}{Nikt konkretnie - ogólnie to rada starszych. Maxson, Wielki Mistrz jest chyba tym, o którego ci chodzi. Jeœli chcesz z nim pomówiæ, to znajdziesz go na czwartym piêtrze.}
+{109}{}{Naprawdê potrzebujê lepszego uzbrojenia.}
+{110}{}{Jestem Starszym Paladynem, praw¹ rêk¹ Rhombusa. Dowodzimy Paladynami i Rycerzami. W chwili obecnej nadzorujê trening. Przygotowujemy siê... na wszystko.}
+{111}{}{Na co konkretnie?}
+{112}{}{Sk¹d wezmê lepsz¹ broñ i sprzêt?}
+{113}{}{Pojawiaj¹ siê plotki o du¿ych si³ach przemieszczaj¹cych siê w górach i na pustyni. Bior¹c je pod uwagê i dodaj¹c do tego zaginione karawany, wolimy siê zabezpieczyæ.}
+{115}{}{Naprawdê? Dobra, dziêki.}
+{116}{}{Œpieszymy siê, co? Jako Nowicjusz, masz kilka uprawnieñ. Wypiszê ci przydzia³ na pancerz bojowy i trzy na amunicjê - zgodnie z twoim wyborem. Zajrzyj do Michaela obok, aby je zrealizowaæ.}
+{117}{}{Dziêkujê, ale czy nie mam ¿adnych szans na otrzymanie jakiejœ broni, która pomo¿e mi prze¿yæ na zewn¹trz?}
+{118}{}{Dziêki, a mo¿e by tak jeszcze jakaœ skomplikowana pukawka?}
+{119}{}{Tylko tyle? Chyba ¿artujesz!}
+{120}{}{Rozumiem, ale naprawdê goni mnie czas i naprawdê potrzebujê czegoœ o du¿ej sile ognia.}
+{121}{}{Super! Co mam teraz zrobiæ? Wspi¹æ siê na najwy¿sz¹ górê?}
+{122}{}{Brzmi œwietnie. Mo¿esz zacz¹æ od razu.}
+{123}{}{Có¿, mo¿e da siê zrobiæ wyj¹tek. NajwyraŸniej masz za sob¹ porz¹dny trening. Gdyby by³o inaczej, nie uda³o by ci siê wykonaæ tego szalonego zadania zleconego przez G³ównego Starszego.}
+{124}{}{Czasami siê zastanawiam, czy on próbuje znaleŸæ pomoc z zewn¹trz, czy tylko pozbyæ siê natrêtnych g³upków. Bez obrazy. Coœ ci powiem. Mam ma³y k³opot - zwiadowcy, których wys³a³em jakiœ czas temu nie wrócili.}
+{125}{}{To by³ mój pomys³ i zbieram teraz za niego ciêgi. Jeœli uda³oby ci siê dowiedzieæ, co siê sta³o z tymi zwiadowcami, to na pewno nie po¿a³ujesz.}
+{126}{}{Przemyœlê to.}
+{127}{}{Przepraszam. Nie chodŸ tu z broni¹. Schowaj j¹, chyba, ¿e zamierzasz jej u¿yæ.}
+{128}{}{Schowaj broñ. Nie bierzesz udzia³u w treningu, wiêc j¹ od³ó¿.}
+{129}{}{Przestaniesz tak machaæ broni¹, czy nie? Nale¿y... Och, niewa¿ne.}
+{130}{}{Witaj ponownie, Bracie }
+{131}{}{. W czym mogê pomóc?}
+{132}{}{Kto tu jest wa¿ny?}
+{133}{}{Mo¿esz mi jeszcze raz opowiedzieæ o miejscowych grubych rybach?}
+{134}{}{Sk¹d wezmê lepsz¹ broñ i sprzêt?}
+{135}{}{Sk¹d wezmê amunicjê?}
+{136}{}{W niczym, dziêkujê.}
+{137}{}{Ode mnie. Jako Nowicjusz, masz prawo do kilku rzeczy. Wypiszê ci przydzia³ na pancerz bojowy i trzy na amunicjê - zgodnie z twoim wyborem.}
+{138}{}{Zajrzyj do Michaela obok, aby je zrealizowaæ.}
+{139}{}{A co z tym metalowym pancerzem, który masz na sobie?}
+{140}{}{Dziêki, a mo¿e by tak jeszcze jakaœ skomplikowana pukawka?}
+{141}{}{Wszyscy jesteœmy wa¿ni, ale nie wiem, o co ci konkretnie chodzi.}
+{142}{}{To ¿aden problem. Nale¿y dobrze poznaæ swoich wspó³braci. Wiem, ¿e jest nas wielu i mo¿e byæ trudno wszystkich spamiêtaæ.}
+{143}{}{Po pierwsze - Rhombus. To nasz G³ówny Paladyn oraz Pierwszy Rycerz. Potem mamy Vree, nasz¹ G³ówn¹ Skrybê. No i oczywiœcie nie mo¿emy zapomnieæ o naszym Wielkim Mistrzu, Maxsonie.}
+{144}{}{Opowiedz mi o Rhombusie.}
+{145}{}{Opowiedz mi o Vree.}
+{146}{}{Opowiedz mi o Maxsonie.}
+{147}{}{Rhombus to mój najlepszy przyjaciel, mentor, idol i zastêpczy ojciec w jednym. Jest trochê nieokrzesany, ale musi taki byæ bior¹c pod uwagê pozycjê, któr¹ zajmuje.}
+{148}{}{Jeœli bêdziesz kiedykolwiek potrzebowaæ z nim pomówiæ, to z regu³y przebywa w swoim biurze...
+ To znaczy pokoju. Po drugiej stronie tego poziomu, naprzeciwko pokoju stra¿y.}
+{149}{}{Oczywiœcie. Znajdziesz j¹ na poziomie drugim, obok czytelni.}
+{150}{}{Dziêki, czeœæ.}
+{151}{}{Dziêkujê. To wszystko.}
+{152}{}{Vree to jedna z najinteligentniejszych osób, jakie spotka³em. Znajomoœæ chemii i fizyki wyssa³a chyba z mlekiem matki.}
+{153}{}{Ka¿d¹ mo¿liw¹ chwilê spêdza na badaniach, analizach i ocenach wszystkiego, co tylko dorwie. Jeœli bêdziesz potrzebowaæ z ni¹ pomówiæ, to znajdziesz j¹ w jej pokoju na trzecim piêtrze.}
+{154}{}{Znajdziesz j¹ na poziomie drugim. ZjedŸ na drugie piêtro, skrêæ w lewo. To zaraz za czytelni¹. Muszê wracaæ do pracy. Jeœli masz jeszcze jakieœ pytania, to œmia³o.}
+{155}{}{Jak ju¿ wspomnia³em, znajdziesz j¹ na poziomie drugim. Nie da siê nie trafiæ. To jedyny wiêkszy pokój na drugim piêtrze, poza czytelni¹.}
+{156}{}{Dobra - do zobaczenia.}
+{157}{}{Maxson to kawa³ starego twardziela. To pra-prawnuk... A mo¿e pra-pra-prawnuk? W ka¿dym razie. Jest potomkiem jednego z naszych ojców za³o¿ycieli. No i oczywiœcie jest te¿ Wielkim Mistrzem.}
+{158}{}{Cieszysz siê dobr¹ reputacj¹. Ludzie, których o ciebie pyta³em maj¹ o tobie wysokie mniemanie. Nie s¹dzê, aby by³a ci potrzebna jakaœ pomoc, wydajesz siê posiadaæ co najmniej odpowiednie umiejêtnoœci. Jeœli jednak pomo¿esz mi z ma³ym problemem, byæ mo¿e uda mi siê ciebie jakoœ wynagrodziæ.}
+{159}{}{Wielkie dziêki, czeœæ.}
+{160}{}{To wszystko, dziêki.}
+{161}{}{Zaczynasz mnie denerwowaæ. Czego znowu chcesz?}
+{162}{}{Nic, chêtnie po prostu s³ucham twojego przyjemnego g³osu.}
+{163}{}{Przepraszam, nie uda³o mi siê ciebie dostrzec.}
+{164}{}{Cza To We Lo!}
+{165}{}{Ug.}
+{166}{}{Przestañ marnowaæ mój czas!}
+{167}{}{W jaki sposób uda³o ci siê tu dostaæ? Wynoœ siê st¹d.}
+{168}{}{Mogê ci daæ jeszcze trochê amunicji, jeœli jest ci naprawdê potrzebna. Przydzia³ bêdzie na ciebie czeka³ u Michaela.}
+{169}{}{Dopiero co da³em ci przydzia³! Musisz siê nauczyæ oszczêdzania amunicji.}
+{170}{}{Przykro mi, ale i tak ju¿ wyda³em ci za du¿o w tym tygodniu. Musisz sobie radziæ z tym, co masz. Nie dysponujemy nieskoñczonymi zapasami, wbrew pozorom.}
+{171}{}{S³ysza³em o niektórych z twoich postêpków - nie przepadamy tu za mordercami dzieci. Starsi uwa¿aj¹, ¿e mo¿esz nam coœ zaoferowaæ, ale ja nie chcê mieæ z tob¹ nic do czynienia.}
+{172}{}{Przecie¿ zginê³o tylko jedno.}
+{173}{}{Nie znasz ca³ej historii.}
+{174}{}{Nie muszê siê przed tob¹ t³umaczyæ.}
+{175}{}{Cieszysz siê dobr¹ reputacj¹. Nie s¹dzê, aby by³a ci potrzebna jakaœ pomoc, wydajesz siê posiadaæ wiêcej, ni¿ odpowiednie umiejêtnoœci. Jednak jest pewna problem, który potrzebujê zbadaæ. Mo¿e bêdê ci w stanie pomóc, jeœli ty pomo¿esz mnie.}
+{176}{}{Jasne. Co to za problem?}
+{177}{}{Nie, dziêki - za nic.}
+{178}{}{Przykro mi, ale nie mogê. Dziêkujê jednak za pancerz.}
+{179}{}{Skoro uda³o ci siê samotnie prze¿yæ na pustkowiach, to wydaje mi siê, ¿e masz wystarczaj¹ce umiejêtnoœci. Mam jednak problem - jeœli pomo¿esz mi z nim, to mo¿e bêdê ciê móg³ wynagrodziæ.}
+{180}{}{Nie. S¹dzê, ¿e musisz ju¿ iœæ.}
+{181}{}{Jakiœ czas temu wys³a³em jednego z nowicjuszy do Hubu i od tamtej pory nie da³ znaku ¿ycia. Jeœli zdo³asz siê dowiedzieæ, co siê z nim sta³o, to bêdê bardzo wdziêczny.}
+{182}{}{Zajmê siê tym.}
+{183}{}{Spróbujê, ale nic nie mogê obiecaæ.}
+{184}{}{Kaza³em ci wyjœæ.}
+{185}{}{Tylko? Nie s¹dzê, aby nasza organizacja mog³a ci pomóc. ¯egnam.}
+{186}{}{Nie muszê. ¯egnam.}
+{187}{}{Dziêkujê. Zapamiêtam to - gdy zdobêdziesz doœæ doœwiadczenia, byæ mo¿e bêdê ci móg³ daæ od nas coœ specjalnego.}
+{188}{}{Naprawdê? Co takiego?}
+{189}{}{Daj mi teraz!}
+{190}{}{Brzmi nieŸle. Czeœæ.}
+{191}{}{Nie powinienem tego mówiæ, ale to nie jest broñ. To coœ, co mo¿e posiadaæ tylko elita naszej organizacji, ale skoro jesteœ z zewn¹trz i potrzebujesz tego bardziej od nas... Mo¿e bêdê móg³ zrobiæ wyj¹tek.}
+{192}{}{Nie mo¿esz powiedzieæ?}
+{193}{}{Dobra, czeœæ.}
+{194}{}{S¹dzê, ¿e masz ogólne pojêcie, o co chodzi. To na razie wystarczy.}
+{195}{}{Nie, i s¹dzê, ¿e musisz ju¿ sobie iœæ.}
+{196}{}{Tylko Paladyni nosz¹ Pancerze Wspomagane. Pewnego dnia i ty mo¿esz dost¹piæ tego zaszczytu.}
+{197}{}{Dziêki, a mo¿e by tak jeszcze jakaœ skomplikowana pukawka?}
+{198}{}{Widzê, ¿e nowy nabytek naszego zakonu odznacza siê wyj¹tkow¹ zmyœlnoœci¹... [Talus mruga do ciebie.] Nie kombinuj. Ani nie jestem w nastroju, ani nie mam do tego cierpliwoœci!}
+{199}{}{Nie myœla³em, ¿e twoja g³upota jest tak wielka. Nic ci nie musia³em dawaæ. Masz szczêœcie, ¿e ciê st¹d jeszcze nie wykopa³em. Lepiej st¹d idŸ, zanim zmieniê zdania.}
+{200}{}{W porz¹dku. Przyda siê ka¿da informacja.}
+{201}{}{Bracie }
+{202}{}{! Otrzyma³em wiadomoœæ od Brata Jonathana. Dziêkujê za uratowanie go.}
+{203}{}{Rozumiem, ¿e Decker nie ¿yje - twój talent przerasta moj¹ ocenê, a to bardzo du¿o.}
+{204}{}{Zmusimy Deckera do zap³aty za to, co zrobi³ - dajê ci s³owo.}
+{205}{}{Nie ma za co.}
+{206}{}{Lup?}
+{207}{}{Witaj, przybyszu! S³ysza³em, ¿e to tobie nale¿y dziêkowaæ za bezpieczny powrót mojego zaginionego podw³adnego.}
+{208}{}{Rozumiem równie¿, ¿e Decker nie ¿yje. Mo¿esz siê bardzo przydaæ naszemu Bractwu.}
+{209}{}{Nie tolerujemy wœród nas narkomanów. Proponujê wizytê u lekarza i odwyk.}
+{210}{}{Jako nagrodê dostaniesz jeden z poni¿szych przedmiotów:}
+{211}{}{Który wybierasz?}
+{212}{}{Wyrzutnia rakiet.}
+{213}{}{Pistolet laserowy.}
+{214}{}{Super m³ot.}
+{215}{}{Musze siê zastanowiæ.}
+{216}{}{Zaraz wklepiê upowa¿nienie. Broñ odbierzesz u Michaela.}
+{217}{}{, czas za³o¿yæ w³asny Pancerz Wspomagany. To wyj¹tkowy przywilej jak na kogoœ o tak ma³ym sta¿u w naszej organizacji. Noœ nasz Pancerz jako symbol nadziei - krocz¹c po pustkowiach pamiêtaj, ¿e pewnego dnia, gdy œwiat bêdzie gotów, wyjdziemy z ukrycia i odnowimy nasz¹ zmêczon¹ Ziemiê. Gratulujê, jesteœmy z ciebie bardzo dumni. Przeœlê upowa¿nienie Michaelowi.}
+{218}{}{Widzê, ¿e ktoœ ci ju¿ wrêczy³ twój Pancerz Wspomagany. Mia³em nadziejê zrobiæ to osobiœcie, ale niech tak bêdzie. Mam nadziejê, ¿e pomo¿e ci w twoim zadaniu.}
+{219}{}{Uwa¿aj na kondycjê!}
+{220}{}{Uwa¿ajcie.}
+{221}{}{Nie obijaæ siê!}
+{222}{}{Zachowuj siê, albo skierujê ciê na nocny patrol terenowy.}
+{223}{}{Cicho - nie zmuszajcie mnie, ¿ebym wezwa³ tu Rhombusa. Tak wam skopie ty³ki, ¿e...}
+{300}{}{Jeœli czegoœ chcesz, przyjdŸ rano.}
+{301}{}{Rano znajdziesz mnie w sali treningowej. Wtedy pomówimy.}
+{302}{}{Co tu robisz? To nie s¹ twoje kwatery.}
+{303}{}{Dobranoc - pomówimy rano. Cokolwiek ode mnie chcesz, nie mo¿e to byæ a¿ tak wa¿ne.}
+{304}{}{Jestem zmêczony i chcê siê po³o¿yæ. IdŸ sobie, proszê.}
+{305}{}{Masz zwyczaj nachodzenia ludzi w ich kwaterach?}
+{400}{}{Zawsze mo¿esz... Moment. Spójrz mi w oczy... Tak myœla³em. Musisz odstawiæ prochy, mog¹ ci nieŸle nabruŸdziæ. Jeœli nie bêdziesz siê pilnowaæ, skoñczysz jak Skagowie w Hubie. Co wiêc chcesz?}
+{401}{}{Macie tu doktora? Mam k³opoty.}
+{402}{}{Macie tu doktora?}
+{403}{}{Ta góra ju¿ zdobyta.}
+{404}{}{Gdzie ten wasz doktor?}
+{406}{}{No nie wiem... Mo¿e i jesteœ Nowicjuszem, ale to nie znaczy, ¿e od razu mo¿emy rozdawaæ broñ osobom, które mog¹ nie mieæ odpowiednich kwalifikacji - zw³aszcza osobom z zewn¹trz, bez obrazy.}
+{407}{}{Pancerz Wspomagany.}
+{408}{}{Zyskujesz }
+{409}{}{ punktów doœwiadczenia za uratowanie zwiadowcy.}

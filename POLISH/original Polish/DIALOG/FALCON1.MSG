@@ -1,0 +1,106 @@
+{100}{}{To barmanka.}
+{101}{}{Ta, czego chcesz?}
+{102}{}{Wodê.}
+{103}{}{Piwo.}
+{104}{}{Gorza³ê.}
+{105}{}{Cokolwiek, co powali mnie najszybciej.}
+{106}{}{Nic.}
+{107}{}{Taa?}
+{108}{}{Jak nie masz kapsli, to wypierdalaj w cholerê!}
+{109}{}{Jak se ¿yczysz.}
+{110}{}{Koleœ, chyba ju¿ ci wystarczy.}
+{111}{}{Paniusiu, chyba ju¿ ci wystarczy.}
+{112}{}{Ta... To spadaj.}
+{113}{}{To bêdzie dwa kapsle.}
+{114}{}{OK.}
+{115}{}{Nie, dziêki.}
+{116}{}{To bêdzie piêæ kapsli.}
+{117}{}{Jasne.}
+{118}{}{To bêdzie dziesiêæ kapsli.}
+{119}{}{Hmmm, jak dla kogoœ twojej wielkoœci...}
+{120}{}{}
+{121}{}{ dziesiêæ}
+{122}{}{ dwadzieœcia}
+{123}{}{ trzydzieœci}
+{124}{}{ czterdzieœci}
+{125}{}{ piêædziesi¹t}
+{126}{}{ szeœædziesi¹t}
+{127}{}{ siedemdziesi¹t}
+{128}{}{ osiemdziesi¹t}
+{129}{}{ dziewiêædziesi¹t}
+{130}{}{ sto}
+{131}{}{ kapsli powinno za³atwiæ sprawê.}
+{132}{}{Œwietnie! To bêdzie znowu kosztowa³o}
+{133}{}{ kapsli.}
+{134}{}{Podawaj.}
+{135}{}{Darujê sobie.}
+{136}{}{Masz. [Barmanka przysuwa ci brudny, blaszany kubek pe³en}
+{137}{}{ jakiejœ mêtnej wody. Po wypiciu tego p³ynu masz w ustach}
+{138}{}{ dziwny posmak.]}
+{139}{}{Masz. [Barmanka przysuwa ci kolejny kubek tej samej, mêtnej}
+{140}{}{ wody, po której wypiciu przypominasz sobie, jak dziwnie}
+{141}{}{ smakowa³a poprzednim razem...]}
+{142}{}{To powinno byæ zabawne... [Barmanka podaje ci drinki, a ty szybko}
+{143}{}{ tracisz rachubê. Po pewnym czasie s³yszysz przyt³umiony ³omot;}
+{144}{}{ zauwa¿asz, ¿e le¿ysz na pod³odze, twarz¹ w dó³...]}
+{145}{}{Jedziemy od nowa... [Barmanka ustawia drinki w szeregu, podczas}
+{146}{}{ gdy wszyscy wokó³ baru ciê dopinguj¹...]}
+{147}{}{...}
+{148}{}{...}
+{149}{}{...}
+{150}{}{ [Wkrótce wszystko zaczyna siê rozmywaæ...]}
+{151}{}{Wcale nie myœla³am, ¿e twój organizm jest w stanie zatrzymaæ}
+{152}{}{ wódê.}
+{153}{}{Szkoda. Wszyscy mieliœmy nadziejê, ¿e znowu zobaczymy, jak}
+{154}{}{ "wystêpujesz".}
+{155}{}{Ojej... Nie poka¿esz nam jeszcze raz twojego "numeru"? Có¿, w}
+{156}{}{ porz¹dku, masz tu twoje piwo. Coœ jeszcze?}
+{157}{}{Na pewno jesteœ w stanie oprzeæ siê pokusie? Ten twój poprzedni}
+{158}{}{ "wystêp" by³ ca³kiem niez³y. Có¿, proszê. [Barmanka wrêcza ci}
+{159}{}{ butelkê gorza³y.] Coœ jeszcze?}
+{160}{}{Proszê. [Barmanka wrêcza ci butelkê piwa].) Coœ jeszcze?}
+{161}{}{ }
+{162}{}{Uchlej mnie znowu!}
+{163}{}{Proszê. [Barmanka wrêcza ci butelkê gorza³y.] Coœ jeszcze?}
+{164}{}{ }
+{165}{}{W ustach czujesz naprawdê paskudny posmak.}
+{166}{}{Przypuszczasz, ¿e g³owa ci zaraz pêknie.}
+{167}{}{To krupier.}
+{168}{}{To krupier.}
+{169}{}{To jednorêki bandyta.}
+{170}{}{Zauwa¿asz, ¿e szanse wydaj¹ siê niezbyt wyrównane.}
+{171}{}{Przypuszczasz, ¿e koœci s¹ spreparowane.}
+{172}{}{Przypuszczasz, ¿e ten stó³ zosta³ spreparowany.}
+{173}{}{Proszê obstawiaæ.}
+{174}{}{5 kapsli.}
+{175}{}{15 kapsli.}
+{176}{}{25 kapsli.}
+{177}{}{50 kapsli.}
+{178}{}{Nie, dziêki.}
+{179}{}{Rurch.}
+{180}{}{Przykro mi, ale nie jesteœ w stanie niczego obstawiæ. [Patrzysz}
+{181}{}{ na grê i zupe³nie nic z niej nie rozumiesz.]}
+{182}{}{Przykro mi, ¿yczê wiêcej szczêœcia nastêpnym razem.}
+{183}{}{Wygrana! [Odzyskujesz stawkê zak³adu.]}
+{184}{}{Wygrana! [Wygrywasz podwojon¹ stawkê zak³adu.]}
+{185}{}{Wygrana! [Wygrywasz potrojon¹ stawkê zak³adu.]}
+{186}{}{Kolego, nie masz doœæ pieniêdzy, ¿eby zagraæ.}
+{187}{}{Paniusiu, nie masz doœæ pieniêdzy, ¿eby zagraæ.}
+{188}{}{Zauwa¿asz, ¿e szanse s¹ z grubsza wyrównane.}
+{189}{}{Ile pieniêdzy wrzucasz?}
+{190}{}{1 kapsel.}
+{191}{}{2 kapsle.}
+{192}{}{3 kapsle.}
+{193}{}{4 kapsle.}
+{194}{}{5 kapsli.}
+{195}{}{Zero.}
+{196}{}{Nie wiesz, co siê z tym robi, ale na pewno wygl¹da œlicznie.}
+{197}{}{Przegrywasz.}
+{198}{}{Odzyskujesz stawkê zak³adu.}
+{199}{}{Wygrywasz podwojon¹ stawkê zak³adu.}
+{200}{}{Wygrywasz potrojon¹ stawkê zak³adu.}
+{201}{}{Nie masz pieniêdzy nawet na jedn¹ grê.}
+{202}{}{Liczba obecnie posiadanych przez ciebie kapsli to }
+{203}{}{. Ile chcesz postawiæ?}
+{204}{}{ Czy chcesz zagraæ ponownie?}
+

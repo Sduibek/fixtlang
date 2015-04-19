@@ -1,0 +1,253 @@
+{100}{}{To Killian.}
+{101}{}{Kim jesteœ?}
+{102}{}{Mo¿e opowiedzia³byœ mi co nieco o tej osadzie?}
+{103}{}{Czy jesteœ w³aœcicielem tego sklepu?}
+{104}{}{Chcê coœ kupiæ.}
+{105}{}{Co jest tu, w okolicy, do roboty?}
+{106}{}{Co muszê zrobiæ, ¿eby ci pomóc pozbyæ siê Gizma?}
+{107}{}{Lepiej ju¿ pójdê.}
+{108}{}{Nu-uhh?}
+{109}{Kill0a}{Chcesz coœ kupiæ?}
+{110}{}{Uh-hum.}
+{111}{}{Nuh-um.}
+{112}{Kill1m}{Witaj w Z³omowie, przybyszu. W czym mogê ci pomóc?}
+{113}{Kill1f}{Witaj, z³otko. Co mogê ci podaæ?}
+{114}{Kill1b}{Czego chcesz?}
+{115}{Kill1g}{Czy mogê ci pomóc?}
+{116}{}{Mo¿e opowiedzia³byœ mi co nieco o tej osadzie?}
+{117}{}{Czy jesteœ w³aœcicielem tego sklepu?}
+{118}{}{Chcê coœ kupiæ.}
+{119}{}{Co jest tu, w okolicy, do roboty?}
+{120}{}{Co muszê zrobiæ, ¿eby ci pomóc pozbyæ siê Gizma?}
+{121}{}{Lepiej ju¿ pójdê.}
+{122}{}{Nu-uhh?}
+{123}{Kill02}{Nazywam siê Killian. Killian Darkwater. Jestem burmistrzem tej wspania³ej osady. A kim ty mo¿esz byæ?}
+{124}{}{Jestem }
+{125}{}{.}
+{126}{}{Nazywam siê }
+{127}{}{. Pochodzê z pó³nocy.}
+{128}{}{Co ci do tego?}
+{129}{Kill03}{Niewiele jest w tamt¹ stronê, prócz pustyni i Cienistych Piasków. Jesteœ stamt¹d?}
+{130}{}{Nie. Pochodzê z Krypty, która le¿y nieco na zachód.}
+{131}{}{Nie. Moja... ee... wieœ le¿y kawa³ek na zachód, w górach.}
+{132}{}{Tak naprawdê, to nie. Jest tam jeszcze coœ innego?}
+{133}{}{Oczywiœcie, ¿e stamt¹d pochodzê, ty idioto.}
+{134}{Kill03a}{Hej, z tego, co mówisz, wynika, ¿e masz nadziejê, ¿e to ja wype³niê za ciebie luki w twojej historii.}
+{135}{Kill04}{Ta, skoro tak mówisz. To czego potrzebujesz?}
+{136}{Kill05}{O ta, jasne, ¿e tak. A w niemowlêctwie twoim kojcem by³ sejf.}
+{137}{}{Nie, nie. To siê nazywa Krypta. Ochroni³a nas przed Wojn¹. Od osiemdziesiêciu lat jest pe³na ludzi!}
+{138}{}{Ha, za³apa³eœ mój dowcip. W rzeczywistoœci pochodzê ze wsi le¿¹cej niedaleko Cienistych Piasków.}
+{139}{Kill06}{Nie martw siê, to nie najgorsza historia, jak¹ mi opowiedziano. To... co mogê dla ciebie zrobiæ?}
+{140}{Kill08}{Có¿, podró¿nicy mówili mi, ¿e na pó³nocy jest banda pomyleñców zwana ¯mijami. Inna grupa barbarzyñców jest na pó³nocnym wschodzie, zwie siê Chanami. ¯adna z nich nie zaprosi ciê na kolacjê w charakterze innym ni¿ g³ównego dania, jeœli wiesz, co mam na myœli.}
+{141}{}{Co jeszcze jest poza Z³omowem?}
+{142}{}{Dziêki.}
+{143}{Kill09}{Có¿, na po³udniu masz Hub. Nie chodŸ jednak na po³udniowy wschód. Tam bêdzie Nekropolis; ee... klimat jest tam nieprzyjemny, czy s³oñce, czy deszcz. Jeœli rozumiesz, o czym mówiê.}
+{144}{}{Có¿, dziêki za informacje. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{145}{}{Ty po prostu wiesz wszystko, nieprawda¿?}
+{146}{}{Lepiej ju¿ sobie pójdê.}
+{147}{Kill10a}{Do diab³a, czemu nie. Pytaj œmia³o.}
+{148}{Kill10b}{Ta, OK. Ale szybko, bo mam robotê do wykonania.}
+{149}{Kill11}{Có¿, Z³omowo nie jest nadzwyczajne, ale to nasz dom. G³ównie handlujemy z ludŸmi albo pozwalamy im na trochê zapomnieæ o ich k³opotach. Oczywiœcie mamy nasz¹ w³asn¹ porcjê problemów.}
+{150}{}{Problemów?}
+{151}{}{Co jest do roboty w tej osadzie?}
+{152}{}{Jakie inne miasta le¿¹ w tej okolicy?}
+{153}{}{Dziêki.}
+{154}{Kill12}{Z zewn¹trz mieliœmy od czasu do czasu do czynienia z Chanami. Ale ostatnio ca³kiem przycichli. Wewn¹trz k³opoty sprawiaj¹ Czachy. I s³ysza³em, ¿e jakieœ dziwne rzeczy dziej¹ siê w Hubie, ale na razie nas to nie dotyka, odpukaæ w g³owê mojej teœciowej.}
+{155}{Kill13b}{O, mamy tony rzeczy do roboty. Nora Szumowin jest po pó³nocnej stronie. Œwietna knajpa. Kasyno Gizma jest zaraz obok niej. A jeœli coœ ci dolega, doktorek Kostucha jest do twoich us³ug.}
+{156}{}{Dziêki.}
+{157}{}{To wszystko, co mo¿na tutaj robiæ?}
+{158}{Kill14}{Có¿, jak jest tu dla ciebie za sztywno, to zwyczajnie nas omijaj, kole¿ko. Kole¿ko, zgadza siê?}
+{159}{}{Lepsze to chyba ni¿ nic.}
+{160}{}{Wtedy nie by³oby w tej mieœcinie nic ciekawego.}
+{161}{Kill15}{O cholernie du¿¹ ró¿nicê.}
+{162}{Kill16}{Ach, najwyraŸniej pomyli³em ci siê z kimœ, kto musi znosiæ twoje pyskowanie. PrzyjdŸ tu znowu, jak twoja mama nauczy ciê trochê manier.}
+{163}{Kill21}{Có¿, to cholernie korzystny zbieg okolicznoœci! Po to w³aœnie jest tu ten sklep! Mamy praktycznie wszystko, czego mo¿esz potrzebowaæ. Pozwól, ¿e poka¿ê ci tu parê rzeczy...}
+{164}{Kill22}{A jak¿e. Mo¿e nie jest tak du¿y, jak niektóre w Hubie, ale ludzie zwykle znajduj¹ tu to, czego szukaj¹. Rozejrzyj siê...}
+{165}{Kill23}{Musisz za³o¿yæ magnetofon i nagraæ, jak Gizmo siê przyznaje, albo zainstalowaæ tê pluskwê w jego gabinecie. Zrób tak czy tak, to go przyskrzynimy.}
+{166}{Kill24}{Có¿, witam! Co mogê dzisiaj dla ciebie zrobiæ?}
+{167}{Kill26}{Znowu ty. Czego teraz chcesz?}
+{168}{Kill27}{O ile nie zamierzasz za to zap³aciæ, lepiej to od³ó¿.}
+{169}{Kill28}{Nie masz za du¿o oleju w g³owie, prawda? Ch³opcy...}
+{170}{Kill29}{To oczywiste, ¿e twoja mama nie nauczy³a ciê manier. Czy ja bêdê musia³ siê tym zaj¹æ?}
+{171}{Kill30}{Có¿, gratulacje. W³aœnie uda³o ci siê zas³u¿yæ na noc w celi. Ch³opcy...}
+{172}{Kill31}{A co, do piekielnego Wuja Sama, ty tutaj robisz?}
+{173}{}{Ee... B³¹dzê?}
+{174}{}{Och, to twój lokal?}
+{175}{}{No có¿... W³amanie.}
+{176}{Kill32}{Masz cholern¹ racjê, ¿e to mój lokal! Teraz wynoœ siê do diab³a, zanim zrobiê z twojej g³owy œcienne trofeum!}
+{177}{}{OK, OK, ju¿ idê.}
+{178}{}{Ty? ObudŸ siê, koleœ, bo jeszcze œnisz.}
+{179}{Kill34}{E, nie. G³upiejesz. Wynoœ siê st¹d!}
+{180}{}{OK. Przepraszam za k³opot.}
+{181}{}{Kto mnie do tego zmusi? Ty? Nie rozœmieszaj mnie...}
+{182}{Kill35}{Uczciwy z³odziej. Hmm. Có¿, i tak bêdê musia³ ciê zwin¹æ. ChodŸ po dobroci, to nie stanie ci siê krzywda.}
+{183}{}{W porz¹dku, pójdê po dobroci.}
+{184}{}{Tak... Nie s¹dzê.}
+{185}{Kill36}{Jak mówi³em...}
+{186}{Kill37}{Ju¿ ci powiedzia³em...}
+{187}{Kill38}{Ju¿ ci mówi³em...}
+{188}{Kill39}{Dobrze s³yszysz? Powiedzia³em...}
+{189}{Kill40}{S³uchaj, jak nie pamiêtasz, to trudno.}
+{190}{Kill41}{S³uchaj, ju¿ ci to mówi³em wiele razy.}
+{191}{Kill42}{Tak szybko wychodzisz? Lepiej najpierw zap³aæ.}
+{192}{Kill43}{To nie jest coœ, co traktujê jako ¿art. P³aæ. Ale ju¿.}
+{193}{Kill44}{W porz¹dku. Œwietnie. Zobaczmy, czy noc w karcerze ciê trochê ostudzi.}
+{194}{Kill45}{Jeszcze jakieœ pytania?}
+{195}{}{A jak¿e.}
+{196}{}{Nie. Starczy, dziêki.}
+{197}{Kill46}{To do zobaczenia na mieœcie. Uwa¿aj, ¿eby siê nie wpakowaæ w zbyt du¿e k³opoty.}
+{198}{Kill47}{S³uchaj. Dziêki za uratowanie mi ¿ycia. Taki czyn wymaga wielkiej odwagi. Wygl¹da na to, ¿e mamy tu nieciekaw¹ sytuacjê. Wiem, ¿e Gizmo za tym stoi, ale potrzebujê dowodu. Interesuje ciê pomoc?}
+{199}{}{Mnie? Do czego mnie potrzebujesz?}
+{200}{}{Nie mo¿esz wzi¹æ kogoœ innego? Mam trochê spraw na g³owie...}
+{201}{}{Wchodzê w to.}
+{202}{Kill48}{No, jak dostanê dowód, to ludnoœæ Z³omowa go st¹d wykopie. Tak jak kombinujê, to trzeba albo zainstalowaæ u niego pluskwê, albo wzi¹æ magnetofon i nak³oniæ go, ¿eby siê przyzna³. Jesteœ w stanie siê tego podj¹æ?}
+{203}{}{Rety. Brzmi to trochê niebezpiecznie...}
+{204}{}{Co dostanê w zamian?}
+{205}{}{Hmmm... nie. Anga¿owanie siê w cudze problemy nigdy siê nie sprawdza.}
+{206}{Kill49}{Nie zamierzam ciê ok³amywaæ, to bêdzie niebezpieczne. Ale bêdê ci coœ winien, a Killian Darkwater zawsze sp³aca swoje d³ugi.}
+{207}{}{Na pewno nie mo¿esz znaleŸæ nikogo innego?}
+{208}{}{Jak to, "sp³aca swoje d³ugi"?}
+{209}{}{Nie s¹dzê. Brzmi to dla mnie zbyt niebezpiecznie.}
+{210}{Kill50}{Wyjdzie to najlepiej, jak to bêdziesz ty. Gizmo ciê nie zna, wiêc mo¿e ci zaufa. Lub przynajmniej trudno bêdzie mu mnie oskar¿yæ. Tak czy siak jesteœ najlepsz¹ osob¹ do tej roboty.}
+{211}{}{Niech bêdzie, zrobiê to.}
+{212}{}{Pasujê. W³asna œmieræ nie wydaje mi siê zabawn¹ spraw¹.}
+{213}{}{Co za to dostanê?}
+{214}{Kill51}{Umówmy siê tak. Dowolny towar w tym sklepie, nawet najdro¿szy, bêdzie twój. Za darmo. Je¿eli to bêdzie spluwa, dam ci jeszcze tyle amunicji, ile dasz radê udŸwign¹æ. Czy to brzmi uczciwie?}
+{215}{}{Ta. Zrobiê to.}
+{216}{}{To o wiele za ma³o. Nie bêdê za to ryzykowaæ g³ow¹.}
+{217}{Kill52}{Có¿, cholera. Szkoda. Ale wiesz co, bêdê musia³ ciê zamkn¹æ, dopóki ta sprawa siê nie skoñczy. Nie mogê ryzykowaæ, ¿e Gizmo siê dowie. Wybacz.}
+{218}{Kill53}{W porz¹dku, jestem twoim d³u¿nikiem. Oto pluskwa i magnetofon. Daj mi znaæ, gdy to ju¿ bêdzie zrobione. I powodzenia.}
+{219}{Kill54}{No, to masz ju¿ dowód?}
+{220}{}{Jeszcze nie. Ale zdobêdê go, wierz mi!}
+{221}{}{Pewnie, ¿e tak.}
+{222}{Kill55}{Có¿, on nie przyjdzie tutaj siê przyznaæ! Nie powinniœmy byæ nawet widziani razem, dopóki to nie bêdzie za³atwione. IdŸ ju¿.}
+{223}{Kill56}{Który, pluskwê czy taœmê?}
+{224}{}{Pluskwê.}
+{225}{}{Przyznanie siê do winy.}
+{226}{Kill57}{Wspaniale! Daj mi siê upewniæ, czy dzia³a.}
+{227}{Kill57a}{G³oœno i wyraŸnie. Dorwiemy go. W miêdzyczasie mamy pewn¹ sprawê do za³atwienia...}
+{228}{Kill58}{Pos³uchajmy tego.}
+{229}{Kill58b}{To pierwszy raz, kiedy jestem szczêœliwy s³uchaj¹c jego g³osu. Dziêki. A teraz czas, ¿ebyœmy siê razem zajêli inn¹ spraw¹.}
+{230}{Kill59}{Có¿, ponownie dziêki. A, s³uchaj, wezmê Stra¿ników i pogoniê Gizma i jego przydupasów z miasta. Przyda³aby mi siê jeszcze jedna spluwa. Piszesz siê na to? Mo¿e byæ niez³y ubaw.}
+{231}{}{Jasne. Warto choæby tylko po to, ¿eby zobaczyæ, jak on próbuje przejœæ wiêcej ni¿ trzy metry.}
+{232}{}{Trochê to zale¿y od tego, co jesteœ sk³onny mi daæ.}
+{233}{}{Znowu? Nie s¹dzê. Mam o wiele za du¿o spraw na g³owie.}
+{234}{Kill60}{IdŸ do Larsa na posterunku Stra¿ników. On ciê zapozna z detalami. I s³uchaj, to miasto zawdziêcza ci... mnóstwo.}
+{235}{Kill61b}{Có¿, mogê ci zap³aciæ standardow¹ stawkê za pracê najemnika, 500 kapsli.}
+{236}{}{Robi siê.}
+{237}{}{Niestety, za ma³o.}
+{238}{Kill62}{Niech bêdzie. IdŸ siê zobaczyæ z Larsem, on poda ci szczegó³y.}
+{239}{Kill63}{S³uchaj, to wszystko, co oferujê. Dziêki za zdobycie materia³u dowodowego, ale nie bêdê b³aga³ o twoje us³ugi.}
+{240}{}{W porz¹dku, zrobiê to za tê stawkê.}
+{241}{}{No có¿, trudno. Do zobaczenia.}
+{242}{Kill64}{Powodzenia w podró¿ach. A teraz, jeœli mi wybaczysz, mam t³ust¹ dupê do ruszenia.}
+{243}{Kill65}{Gizmo jest w³aœcicielem kasyna. Nazwanego po nim samym. Bardzo uwa¿aj w jego obecnoœci.}
+{244}{Kill66}{Có¿, to ja. Sk¹d ty jesteœ, ¿e o tym nie wiesz?}
+{245}{Kill67}{A, Lars szefuje tu Stra¿nikom. To dobry goœæ. Ca³kiem godny zaufania.}
+{246}{Kill68}{Có¿, Vinnie, on nale¿y do tych trudnych dzieci. Przewodzi grupie ¿ulików, zwanej Czachami. Mimo wszystko p³ac¹ oni czynsz, i dot¹d nikomu za bardzo nie dokuczali.}
+{247}{Kill69}{Có¿, doktorek ma ma³y lokal niemal w œrodku osady. W razie potrzeby potrafi zgrabnie po³ataæ. Ma doœæ rozs¹dne ceny.}
+{248}{Kill70}{Czachy to banda ¿ulików pracuj¹cych dla Gizma. Nie sprawiaj¹ tak znowu du¿o k³opotów, ale ja i Lars mamy na nich oko.}
+{249}{Kill71}{Có¿, Chanowie to banda zbirów mieszkaj¹cych na pó³nocny wschód st¹d. Próbuj¹ zdobyæ Z³omowo, odk¹d siêgnê pamiêci¹, ale nigdy nie dali rady przedostaæ siê za bramê.}
+{250}{Kill72}{¯mije to szalona banda z pó³nocy. Czcz¹ wê¿e, czy coœ w tym stylu.}
+{251}{Kill73}{To mój sklep. Ty czegoœ potrzebujesz, ja to mam.}
+{252}{Kill74}{Œwietne miejsce, ¿eby dostaæ tani pokój. Nawet nieszczególnie brudny. Ale nie zadzieraj z w³aœcicielk¹, Marcelles, bo powyrywa ci rêce, jak j¹ wkurzysz.}
+{253}{Kill75}{Ach, Kasyno Gizma le¿y po pó³nocnej stronie. Jestem zdziwiony, ¿e jeszcze o tym nie wiesz. Zwykle mo¿na je wyczuæ po zapachu z paru mil. Ale có¿, sprowadza turystów.}
+{254}{Kill76}{To nasz miejscowy bar. Jedzenie ujdzie, ale piwo jest wspania³e. W³aœciciel, Neil, nie daje sobie pyskowaæ, nawet niektórym najeŸdŸcom, którzy tam bywaj¹.}
+{255}{Kill76a}{Niewiele jest tu do powiedzenia. Doktorek Kostucha jest nieŸle wkurzony, bo maj¹ ni¿sze ceny na sprawy medyczne. S¹ po po³udniowej stronie.}
+{256}{Kill77}{Szpon Œmierci? O, to bajeczka na dobranoc. Pije krew i wyje do ksiê¿yca w pe³ni. Ta, akurat.}
+{257}{Kill78}{Có¿, Hub to g³ówne miejsce handlu. Wszystko, czego nie znajdziesz tutaj, prawdopodobnie znajdziesz w Hubie. Nie jestem pewien, jak tam jest bezpiecznie teraz, kiedy dziej¹ siê te wszystkie dziwne rzeczy.}
+{258}{Kill79}{Cieniste Piaski? To ma³a miejscowoœæ na pó³nocy. Chcia³bym z nimi wiêcej handlowaæ.}
+{259}{Kill80}{To miasto to gwarancja œmierci. Wys³a³em tam dwa patrole, i ¿aden z nich nie wróci³.}
+{260}{Kill81}{Có¿, s¹ ich dwa rodzaje, Chanowie i ¯mije. ¯mije zwykle nie sprawiaj¹ nam k³opotów, i paru z nich nawet bywa w osadzie. Chanowie jednak to wredna banda. Myœl¹, ¿e s¹ w stanie podbiæ œwiat, czy jakieœ podobne bzdury.}
+{261}{Kill82}{Nie by³o ciê na œwiecie w ci¹gu ostatnich stu lat? Mo¿e uda³o ci siê je przesiedzieæ w szafie? Mój ojciec opowiada³ mi historie o Wojnie. Jego ojciec by³ ¿o³nierzem, zanim za³o¿y³ Z³omowo.}
+{262}{Kill83}{Có¿, z Hubu docieraj¹ tu pewne pog³oski. Karawany znikaj¹, ludzie s¹ zarzynani, mówi siê nawet o wielkich, zielonych potworach, które jedz¹ ludzkie miêso. Wszelkiego rodzaju dziwactwa.}
+{263}{Kill84}{Nie, nigdy o czymœ takim nie s³ysza³em.}
+{264}{Kill85}{Nie mam pojêcia.}
+{265}{Kill86}{Oooch... Naprawdê nie jestem w stanie ci powiedzieæ.}
+{266}{Kill87}{PójdŸ pogadaæ z Larsem. On powie ci wiêcej.}
+{267}{}{[Koniec]}
+{268}{}{[Wiêcej]}
+{269}{}{Zyskujesz 600 punktów doœwiadczenia za swój udzia³ w pokonaniu Killiana. Z³omowo ju¿ nigdy nie bêdzie takie same.}
+{270}{}{Zyskujesz 500 punktów doœwiadczenia za zabezpieczenie przyznania siê Gizma.}
+{271}{}{Jestem tu, ¿eby ciê zwin¹æ, Gizmo. Tym razem mam dowód, którego potrzebowa³em.}
+{272}{}{Co wiesz o tym Gizmie?}
+{273}{}{OK.}
+{274}{}{Ta, to niebezpieczny facet. Jestem tu, by ciê dla niego zabiæ.}
+{275}{}{Ja myœlê... Ta t³usta fleja dopiero co próbowa³a wynaj¹æ mnie, ¿eby ciê zabiæ. Mo¿e byœ coœ zrobi³ w jego sprawie?}
+{276}{}{Wezmê strzelbê i naboje.}
+{277}{}{Wezmê skórzany pancerz.}
+{278}{}{Wezmê lekarski zestaw medyczny.}
+{279}{}{Wezmê wszystkie Stimpaki, jakie mo¿esz mi daæ.}
+{280}{}{Nie, dziêki. Œwiadomoœæ, ¿e Gizmo dostanie to, co mu siê nale¿y, to wystarczaj¹ce podziêkowanie.}
+{281}{}{Chêtnie rzucê okiem na sprzêt podró¿niczy.}
+{282}{}{Rozejrzê siê na w³asn¹ rêkê, dziêki.}
+{283}{}{Niewa¿ne. Dziêki.}
+{284}{}{Twoja akcja przeciw Gizmowi nie mia³a prawnej podstawy. Wiesz, on nie robi³ siê coraz lepszy, ale ty te¿ nie. IdŸ siê zobaczyæ z Larsem.}
+
+
+# Killian Tell-Me-Abouts generic responses
+{980}{Kill84}{Nie, nigdy o czymœ takim nie s³ysza³em.}
+{981}{Kill85}{Nie mam pojêcia.}
+{982}{Kill86}{Oooch... Naprawdê nie jestem w stanie ci powiedzieæ.}
+{983}{Kill87}{PójdŸ pogadaæ z Larsem. On powie ci wiêcej.}
+
+#
+# Killian Tell-Me-Abouts
+#
+
+
+{1000}{}{Gizmo}
+{1001}{}{Killian}
+{1002}{}{Lars}
+{1003}{}{Vinnie}
+{1004}{}{doktor}
+{1005}{}{Czachy}
+{1006}{}{Chanowie}
+{1007}{}{¿mije}
+{1008}{}{Killiana}
+{1009}{}{Noclegownia}
+{1010}{}{Kasyno}
+{1011}{}{Nora}
+{1012}{}{Dzieci}
+{1013}{}{Szpon}
+{1014}{}{Hub}
+{1015}{}{Cieniste}
+{1016}{}{Nekropolis}
+{1017}{}{najeŸdŸcy}
+{1018}{}{Wojna}
+{1019}{}{dziwne}
+{1020}{}{Darkwater}
+{1021}{}{Kostucha}
+{1022}{}{U Killiana}
+{1023}{}{Gizma}
+{1024}{}{Szumowin}
+{1025}{}{Piaski}
+{1026}{}{Nora}
+
+{1100}{Kill65}{Gizmo jest w³aœcicielem kasyna. Nazwanego po nim samym. Bardzo uwa¿aj w jego obecnoœci.}
+{1101}{Kill66}{Có¿, to ja. Sk¹d ty jesteœ, ¿e o tym nie wiesz?}
+{1102}{Kill67}{A, Lars szefuje tu Stra¿nikom. To dobry goœæ. Ca³kiem godny zaufania.}
+{1103}{Kill68}{Có¿, Vinnie, on nale¿y do tych trudnych dzieci. Przewodzi grupie ¿ulików, zwanej Czachami. Mimo wszystko p³ac¹ oni czynsz, i dot¹d nikomu za bardzo nie dokuczali.}
+{1104}{Kill69}{Có¿, doktorek ma ma³y lokal niemal w œrodku osady. W razie potrzeby potrafi zgrabnie po³ataæ. Ma doœæ rozs¹dne ceny.}
+{1105}{Kill70}{Czachy to banda ¿ulików pracuj¹cych dla Gizma. Nie sprawiaj¹ tak znowu du¿o k³opotów, ale ja i Lars mamy na nich oko.}
+{1106}{Kill71}{Có¿, Chanowie to banda zbirów mieszkaj¹cych na pó³nocny wschód st¹d. Próbuj¹ zdobyæ Z³omowo, odk¹d siêgnê pamiêci¹, ale nigdy nie dali rady przedostaæ siê za bramê.}
+{1107}{Kill72}{¯mije to szalona banda z pó³nocy. Czcz¹ wê¿e, czy coœ w tym stylu.}
+{1108}{Kill73}{To mój sklep. Ty czegoœ potrzebujesz, ja to mam.}
+{1109}{Kill74}{Œwietne miejsce, ¿eby dostaæ tani pokój. Nawet nieszczególnie brudny. Ale nie zadzieraj z w³aœcicielk¹, Marcelles, bo powyrywa ci rêce, jak j¹ wkurzysz.}
+{1110}{Kill75}{Ach, Kasyno Gizma le¿y po pó³nocnej stronie. Jestem zdziwiony, ¿e jeszcze o tym nie wiesz. Zwykle mo¿na je wyczuæ po zapachu z paru mil. Ale có¿, sprowadza turystów.}
+{1111}{Kill76}{To nasz miejscowy bar. Jedzenie ujdzie, ale piwo jest wspania³e. W³aœciciel, Neil, nie daje sobie pyskowaæ, nawet niektórym najeŸdŸcom, którzy tam bywaj¹.}
+{1112}{Kill76a}{Niewiele jest tu do powiedzenia. Doktorek Kostucha jest nieŸle wkurzony, bo maj¹ ni¿sze ceny na sprawy medyczne. S¹ po po³udniowej stronie.}
+{1113}{Kill77}{Szpon Œmierci? O, to bajeczka na dobranoc. Pije krew i wyje do ksiê¿yca w pe³ni. Ta, akurat.}
+{1114}{Kill78}{Có¿, Hub to g³ówne miejsce handlu. Wszystko, czego nie znajdziesz tutaj, prawdopodobnie znajdziesz w Hubie. Nie jestem pewien, jak tam jest bezpiecznie teraz, kiedy dziej¹ siê te wszystkie dziwne rzeczy.}
+{1115}{Kill79}{Cieniste Piaski? To ma³a miejscowoœæ na pó³nocy. Chcia³bym z nimi wiêcej handlowaæ.}
+{1116}{Kill80}{To miasto to gwarancja œmierci. Wys³a³em tam dwa patrole, i ¿aden z nich nie wróci³.}
+{1117}{Kill81}{Có¿, s¹ ich dwa rodzaje, Chanowie i ¯mije. ¯mije zwykle nie sprawiaj¹ nam k³opotów, i paru z nich nawet bywa w osadzie. Chanowie jednak to wredna banda. Myœl¹, ¿e s¹ w stanie podbiæ œwiat, czy jakieœ podobne bzdury.}
+{1118}{Kill82}{Nie by³o ciê na œwiecie w ci¹gu ostatnich stu lat? Mo¿e uda³o ci siê je przesiedzieæ w szafie? Mój ojciec opowiada³ mi historie o Wojnie. Jego ojciec by³ ¿o³nierzem, zanim za³o¿y³ Z³omowo.}
+{1119}{Kill83}{Có¿, z Hubu docieraj¹ tu pewne pog³oski. Karawany znikaj¹, ludzie s¹ zarzynani, mówi siê nawet o wielkich, zielonych potworach, które jedz¹ ludzkie miêso. Wszelkiego rodzaju dziwactwa.}
+{1120}{Kill66}{Có¿, to ja. Sk¹d ty jesteœ, ¿e o tym nie wiesz?}
+{1121}{Kill69}{Có¿, doktorek ma ma³y lokal niemal w œrodku osady. W razie potrzeby potrafi zgrabnie po³ataæ. Ma doœæ rozs¹dne ceny.}
+{1122}{Kill73}{To mój sklep. Ty czegoœ potrzebujesz, ja to mam.}
+{1123}{Kill75}{Ach, Kasyno Gizma le¿y po pó³nocnej stronie. Jestem zdziwiony, ¿e jeszcze o tym nie wiesz. Zwykle mo¿na je wyczuæ po zapachu z paru mil. Ale có¿, sprowadza turystów.}
+{1124}{Kill76}{To nasz miejscowy bar. Jedzenie ujdzie, ale piwo jest wspania³e. W³aœciciel, Neil, nie daje sobie pyskowaæ, nawet niektórym najeŸdŸcom, którzy tam bywaj¹.}
+{1125}{Kill79}{Cieniste Piaski? To ma³a miejscowoœæ na pó³nocy. Chcia³bym z nimi wiêcej handlowaæ.}
+{1126}{Kill76}{To nasz miejscowy bar. Jedzenie ujdzie, ale piwo jest wspania³e. W³aœciciel, Neil, nie daje sobie pyskowaæ, nawet niektórym najeŸdŸcom, którzy tam bywaj¹.}

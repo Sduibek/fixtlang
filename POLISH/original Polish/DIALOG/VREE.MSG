@@ -1,0 +1,152 @@
+{100}{}{Widzisz Vree.}
+{101}{Vree00}{Przepraszam, ale przeszkadzasz mi w medytacjach. WyjdŸ, proszê.}
+{102}{}{Przepraszam. Wrócê póŸniej.}
+{103}{}{Jeszcze tu wrócê.}
+{104}{}{A sk¹d ja mam niby znaæ twój rozk³ad zajêæ?}
+{105}{}{Eeee?}
+{106}{Vree01}{Nie podnoœ na mnie g³osu. Mam kazaæ jednemu z Braci nauczyæ ciê, jak siê nale¿y zachowywaæ?}
+{107}{}{Przepraszam.}
+{108}{}{Dobra, cokolwiek.}
+{109}{}{Ale siê bojê.}
+{110}{Vree02}{Witam. Wspania³y dzieñ na naukê. W czym ci mogê pomóc?}
+{111}{}{Wiem, ¿e jesteœ tu G³ównym Skryb¹, ale co to oznacza?}
+{112}{}{Potrzebne mi s¹ pewne techniczne informacje.}
+{113}{}{Eee... }
+{114}{Vree03}{Spisujê wiedzê naszych przodków dla przysz³ych pokoleñ.}
+{115}{}{Ciekawe. To znaczy, ¿e du¿o wiesz.}
+{116}{Vree03a}{Owszem. Chyba mo¿na tak powiedzieæ.}
+{117}{Vree17}{W czym ci mogê pomóc?}
+{118}{Vree17a}{S³ucham.}
+{119}{}{Potrzebujê naprawiæ hydroprocesor. Pomo¿esz mi?}
+{120}{}{Chcê siê czegoœ dowiedzieæ o uzbrojeniu, które tu produkujecie.}
+{121}{}{Coœ by³o... jakieœ holodyski, czy co... Jak odczytaæ zawarte na nich informacje?}
+{122}{}{Jak siê ustrzec choroby popromiennej?}
+{123}{}{Co jest powodem tych wszystkich mutacji?}
+{124}{Vree18}{Pomów z Rycerzami. Poproœ ich, aby ci pokazali najnowszy wymyœlony przeze mnie pistolet laserowy.}
+{125}{}{Dziêki!}
+{126}{}{Mam jeszcze inne pytania... }
+{127}{Vree19}{Nie masz jeszcze umiejêtnoœci odpowiednich do korzystania z tej uœwiêconej wiedzy.}
+{128}{Vree21}{Mo¿esz to zrobiæ za pomoc¹ swojego Pip-Boya 2000. W³ó¿ dysk do czytnika. Przy odpowiednich umiejêtnoœciach komputerowych powinno ci siê udaæ zeskanowaæ dane.}
+{129}{}{W jaki sposób mogê nabyæ te umiejêtnoœci?}
+{130}{}{Dziêki.}
+{131}{}{Czy mogê ci zadaæ inne pytanie?}
+{132}{Vree22}{Bractwo oferuje kilka zautomatyzowanych kursów, w których mo¿esz wzi¹æ udzia³. Poka¿ê ci.}
+{133}{Vree23}{Podstawy obs³ugi komputera poznasz przy tym terminalu.}
+{134}{Vree24}{Nie grzeszysz m¹droœci¹, co? Nosisz czytnik holodysków na ramieniu.}
+{135}{Vree25}{Do tego potrzebne s¹ leki antyradiacyjne. Mam ich trochê... Za¿yj je natychmiast, jeœli s¹dzisz, ¿e zbli¿asz siê do Ÿród³a radiacji.}
+{136}{}{Dziêki!}
+{137}{}{Mogê spytaæ o coœ innego?}
+{138}{Vree26}{Nie pij œwiec¹cej siê wody.}
+{139}{Vree27}{Bior¹c pod uwagê wykorzystanie w Wojnie broni nuklearnej i biologicznej, dziwne jest, ¿e mutacji jest tylko tyle. Jeœli przetrwamy, wszystko bêdzie w porz¹dku.}
+{140}{}{Dlaczego tak twierdzisz?}
+{141}{}{Masz racjê. Nic nam nie bêdzie.}
+{142}{}{Mam jeszcze inne pytania... }
+{143}{Vree28}{Wszyscy mutanci, których bada³am, byli wysterylizowani - nie mogli siê rozmna¿aæ. Gdyby uda³o nam siê pozbyæ mutagenów, powinniœmy po prostu ich prze¿yæ.}
+{144}{}{Niez³y plan.}
+{145}{}{Ciekawa teoria. Masz na ni¹ jakieœ dowody?}
+{146}{}{Mam jeszcze inne pytania... }
+{147}{Vree29}{WeŸ ten holodysk, znajdziesz na nim kopie autopsji, które przeprowadzi³am na mutancich zw³okach. WyraŸnie widaæ, ¿e ¿aden mutant nie móg³by siê rozmno¿yæ.}
+{148}{}{Dziêki.}
+{149}{}{Mogê spytaæ o coœ innego?}
+{150}{Vree30}{Nie powinnam ci chyba nic mówiæ. Mo¿e póŸniej, gdy udowodnisz swoje oddanie sprawie Bractwa. }
+{151}{Vree31}{Z pewnoœci¹ twoja obecnoœæ tutaj jest pomy³k¹. WyjdŸ, proszê, jestem zajêta.}
+{152}{Vree32}{Zniszczysz wiedzê, która mo¿e ocaliæ œwiat!}
+{153}{}{Zaczynaj¹c od ciebie.}
+{154}{}{Nie. Powstrzymam tylko tych, którzy mog¹ wywo³aæ kolejn¹ wojnê atomow¹.}
+{155}{Vree33}{Nigdy! Bractwo upewni siê, ¿e do tego nie dojdzie!}
+{156}{}{Wszyscy tak mówi¹... ale nie ty. Ty bêdziesz martwa.}
+{157}{Vree34}{W czym ci mogê pomóc?}
+{158}{}{Muszê ci powiedzieæ coœ wa¿nego dotycz¹cego Kedricka. To zdrajca.}
+{159}{}{Co byœ zrobi³a, gdyby okaza³o siê, ¿e w Bractwie zagoœci³a korupcja?}
+{160}{}{Nuhh. Nuh-uh-nuh!}
+{161}{Vree35}{Œwietnie. Widzê, ¿e lekcje by³y bardzo pomocne.}
+{162}{Vree36}{Kedrick? By³ od zawsze lojalnym cz³onkiem Bractwa. W¹tpiê, aby kiedykolwiek do ciebie dotar³o, co to oznacza.}
+{163}{}{Ju¿ dotar³o. Kedrick to zdrajca, planuj¹cy przewrót.}
+{164}{}{Mo¿e jednak.}
+{165}{Vree37}{Masz ca³kowit¹ pewnoœæ? Mo¿e trzeba o tym pomówiæ z Wielkim Mistrzem.}
+{166}{Vree38}{Nie mêcz mnie tymi insynuacjami. Dostarcz dowody Wielkiemu Mistrzowi lub zamilcz.}
+{167}{Vree39}{To, co jest konieczne. Wypleni³abym herezjê i usunê³a tych, którzy byliby za ni¹ odpowiedzialni.}
+{168}{}{Nawet, jeœli dotyczy³oby to zaufanego cz³onka Bractwa?}
+{169}{}{Kto by siê zaj¹³ usuwaniem?}
+{170}{Vree40}{Nawet wtedy. Musia³yby jednak zostaæ przedstawione dowody jego winy.}
+{171}{}{Kedrick to zdrajca. Planuje morderstwo Starszych.}
+{172}{}{Zdobêdê dowód.}
+{173}{Vree41}{Musimy siê wiêc udaæ do Wielkiego Mistrza. Dostarcz dowód i ruszamy.}
+{174}{Vree42}{Oczywiœcie Wielki Mistrz i Rhombus.}
+{175}{Vree43}{Znasz historiê zaginionego Nowicjusza? To straszne!}
+{176}{}{Zgadzam siê.}
+{177}{}{Ni-e-ee.}
+{178}{Vree44}{By³abym ogromnie wdziêczna, jeœli uda³oby ci siê mu pomóc.}
+{179}{Vree45}{Dobre uczynki nale¿y nagradzaæ. WeŸ to w zamian za pomoc temu Nowicjuszowi.}
+{180}{Vree46}{A, to ty. Czego chcesz?}
+{181}{}{Przeprosiæ.}
+{182}{}{Nie ten pokój...}
+{183}{Vree47}{Dziêkujê za przeprosiny. }
+{184}{Vree47a}{¯egnam.}
+{185}{Vree48}{Brzmi, jak problem produkcyjny. Tutaj zajmujemy siê tylko teori¹ i projektowaniem. Niech ci pomo¿e jeden z Rycerzy.}
+{186}{}{Mimo wszystko dziêkujê.}
+{187}{}{Mogê spytaæ o coœ innego?}
+{188}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{189}{Vree201}{Nic mi o tym nie wiadomo. Brzmi jednak jak coœ, co powinnam zbadaæ.}
+{190}{Vree202}{Przykro mi, ale to nie moja specjalnoœæ. Mo¿e inni bracia bêd¹ coœ wiedzieæ na ten temat.}
+{191}{Vree203}{Stra¿e! Stra¿e!}
+{192}{Vree204}{Mój pokój! Zniszczony! Przez ciebie!}
+{193}{Vree205}{Co ty wyrabiasz moimi rzeczami?}
+{194}{Vree300}{Kto? Imiê brzmi znajomo... Mo¿e to przywódca jakichœ mutantów.}
+{195}{Vree301}{Zak³adam, ¿e chodzi ci o ostatni¹ wojnê atomow¹. Bractwo robi wszystko, co w jego mocy, aby odzyskaæ to, co zosta³o stracone.}
+{196}{Vree302}{To urz¹dzenia s³u¿¹ce do przechowywania danych o wysokiej gêstoœci zapisu i laserowym odczycie. Na jednym mieœci siê ponad 4,000 gigabajtów informacji.}
+{197}{Vree303}{To jedyny ratunek dla tej zmêczonej planety i ¿yj¹cych na niej ludzi. Bez nas ludzkoœæ z pewnoœci¹ zginie.}
+{198}{Vree304}{Nie wiem. Spytaj w Dziale Produkcyjnym.}
+{199}{Vree305}{Pilnuje, aby Bractwo nie zesz³o ze œcie¿ki praworz¹dnoœci.}
+{200}{Vree306}{Zapewnia wykonywanie ¿yczeñ Wielkiego Mistrza. Si³¹, jeœli to konieczne.}
+{300}{}{Ciekawe.}
+{301}{}{Wystarczy.}
+{302}{}{Powinno teraz dzia³aæ.}
+{303}{}{Dobrze.}
+{304}{}{Wiedzia³am, ¿e to zadzia³a!}
+{305}{}{Jak to sz³o...}
+{306}{}{Algorytm jest b³êdny. Coœ musi byæ nie tak z komputerem.}
+{307}{}{No i proszê.}
+{308}{}{Jeœli zrobimy tak... Powinno dzia³aæ.}
+{400}{}{Mo¿esz skorzystaæ z tego terminala, aby zwiêkszyæ swoje umiejêtnoœci komputerowe.}
+{401}{}{Lekcja koñczy siê szeœæ godzin póŸniej. Masz wszystkiego doœæ.}
+{980}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+#
+# Vree Tell-Me-Abouts
+#
+{1000}{}{Mistrz}
+{1001}{}{Wojna}
+{1002}{}{Dyski}
+{1003}{}{Bractwo}
+{1004}{}{Procesor}
+{1005}{}{Starszy}
+{1006}{}{Rhombus}
+{1007}{}{Exodus}
+{1008}{}{Dziwna Armia}
+{1009}{}{Kupcy}
+{1010}{}{Zaginione karawany}
+{1011}{}{Hub}
+{1012}{}{Dzieci Katedry}
+{1013}{}{Nowicjusze}
+{1014}{}{Skryby}
+{1015}{}{Rycerze}
+{1016}{}{Paladyni}
+{1017}{}{Holo}
+{1100}{Vree300}{Kto? Imiê brzmi znajomo... Mo¿e to przywódca jakichœ mutantów.}
+{1101}{Vree301}{Zak³adam, ¿e chodzi ci o ostatni¹ wojnê atomow¹. Bractwo robi wszystko, co w jego mocy, aby odzyskaæ to, co zosta³o stracone.}
+{1102}{Vree302}{To urz¹dzenia s³u¿¹ce do przechowywania danych o wysokiej gêstoœci zapisu i laserowym odczycie. Na jednym mieœci siê ponad 4,000 gigabajtów informacji.}
+{1103}{Vree303}{To jedyny ratunek dla tej zmêczonej planety i ¿yj¹cych na niej ludzi. Bez nas ludzkoœæ z pewnoœci¹ zginie.}
+{1104}{Vree304}{Nie wiem. Spytaj w Dziale Produkcyjnym.}
+{1105}{Vree305}{Pilnuje, aby Bractwo nie zesz³o ze œcie¿ki praworz¹dnoœci.}
+{1106}{Vree306}{Zapewnia wykonanie ¿yczeñ Wielkiego Mistrza. Si³¹, jeœli to konieczne.}
+{1107}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1108}{Vree201}{Nic mi o tym nie wiadomo. Brzmi jednak jak coœ, co powinnam zbadaæ.}
+{1109}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1110}{Vree201}{Nic mi o tym nie wiadomo. Brzmi jednak jak coœ, co powinnam zbadaæ.}
+{1111}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1112}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1113}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1114}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1115}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1116}{Vree200}{Pomów z innym skryb¹, proszê. Próbujê skoñczyæ raporty dla Rady Starszych.}
+{1117}{Vree302}{To urz¹dzenia s³u¿¹ce do przechowywania danych o wysokiej gêstoœci zapisu i laserowym odczycie. Na jednym mieœci siê ponad 4,000 gigabajtów informacji.}

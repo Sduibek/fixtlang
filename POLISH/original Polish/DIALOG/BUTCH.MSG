@@ -1,0 +1,384 @@
+{100}{}{To Butch.}
+{101}{}{Opowiedz mi o sobie.}
+{102}{}{S³ysza³eœ jakieœ ciekawe plotki?}
+{103}{}{Co tu jeszcze jest w okolicy, poza Hubem?}
+{104}{}{Co znajduje siê w Hubie?}
+{105}{}{Dziêki, starczy.}
+{106}{BUTCH01}{Czego chcesz?}
+{107}{}{Muszê zadaæ ci kilka pytañ.}
+{108}{}{Nic, dziêki.}
+{109}{BUTCH02}{Czas to pieni¹dz. Pogaduszka to nie pieni¹dz. Jesteœ tu za robot¹, czy co?}
+{110}{}{Tak.}
+{111}{}{Jak¹ robot¹?}
+{112}{}{A po co innego?}
+{113}{BUTCH03}{Ja pierdzielê, ktoœ z jajami! Zgoda, za³atwione. IdŸ pogadaæ o szczegó³ach z moim zastêpc¹, Rutgerem.}
+{114}{}{Czekaj! Mam najpierw parê pytañ o tej pracy!}
+{115}{}{OK, dziêki.}
+{116}{BUTCH04}{Aach, nie psuj tego! Niech bêd¹ krótkie.}
+{117}{}{Ile dostanê?}
+{118}{}{Eee... Co to za fucha?}
+{119}{}{Có¿, jeœli tak to odbierasz, po prostu pójdê porozmawiaæ z Rutgerem.}
+{120}{BUTCH05}{Eee... Rutger to za³atwi. To on zajmuje siê wszystkimi trywialnymi sprawami Wszêdobylskich Handlowców. Teraz siê st¹d zabieraj, bo mam robotê!}
+{121}{}{Jeszcze jedno pytanie, OK?}
+{122}{}{OK, dziêki.}
+{123}{butch06}{Tylko jedno. }
+{124}{}{ [Zauwa¿asz, ¿e Butch wydaje siê spiêty.]}
+{125}{}{Eee... Co to za fucha?}
+{126}{}{Czy ta praca jest ograniczona czasowo?}
+{127}{}{Ee, to móg³byœ powtórzyæ, ile dostanê?}
+{128}{}{Jak dok³adnie g³upi jesteœ?}
+{129}{}{Wydajesz siê spiêty. Chcesz o tym porozmawiaæ?}
+{130}{BUTCH07}{Co to za... zgadzasz siê na robotê, nie wiedz¹c na czym polega? Ja pierdzielê, musisz byæ w rozpaczliwej sytuacji. Podoba mi siê to!}
+{131}{}{Po prostu powiedz mi co to jest, OK?}
+{132}{}{Có¿, ty te¿ wydajesz siê byæ w rozpaczliwej sytuacji, wiêc jesteœmy kwita.}
+{133}{BUTCH08}{No wiêc, parê karawan ostatnio nam zniknê³o. Pierdzielê, jeœli ktoœ jest w stanie wykombinowaæ, co siê z nimi sta³o.}
+{134}{}{Co mam zatem zrobiæ?}
+{135}{}{Za³o¿ê siê, ¿e nawet ich nie szukaliœcie.}
+{136}{BUTCH09}{To proste. Dowiedz siê, kto to robi, i powiedz mi o tym. Albo za³atw ich. Nie czyni mi to pierdzielonej ró¿nicy. Tylko wykonaj tê robotê!}
+{137}{}{Jakieœ wskazówki, kto to mo¿e robiæ?}
+{138}{}{Za³atwiê ich.}
+{139}{}{Brzmi strasznie... Lepiej sobie darujê.}
+{140}{BUTCH10}{Nie. Tylko to, co zwykle.}
+{141}{}{No nie b¹dŸ taki. Musi istnieæ coœ, co mogê wykorzystaæ.}
+{142}{butch11}{S³uchaj, nie mam czasu, ¿eby wymieniaæ siê z tob¹ historyjkami.}
+{143}{butch12}{Có¿, jest eee... coœ, ale ja nigdy nie s³ucham takich plotek.}
+{144}{}{Za to ja tak. O co chodzi?}
+{145}{}{OK, dziêki.}
+{146}{BUTCH13}{Ty eee... ty naprawdê chcesz to us³yszeæ, tak? No, niektórzy mówi¹, ¿e to Szpon Œmierci, ale... ale ja nic o tym nie wiem.}
+{147}{}{Brzmisz, jakbyœ by³ wystraszony.}
+{148}{}{Dziêki. Czy mogê zadaæ ci kilka pytañ?}
+{149}{}{Jak dowiedzieæ siê czegoœ o tym Szponie Œmierci?}
+{150}{butch13a}{Jak dowiedzieæ... IdŸ pogadaæ z Beth, ona wie wiêcej o tym ³ajnie.}
+{151}{}{Ta, jesteœ wystraszony jak zbity pies.}
+{152}{}{Pójdê to sprawdziæ.}
+{153}{}{Potrzebujê nieco wiêcej informacji.}
+{154}{BUTCH14}{S³uchaj ty, nie jestem wystraszony. Jestem... ostro¿ny. Tylko g³upek by nie by³, wobec Szpona Œmierci. IdŸ pogadaæ z Beth, ona powie ci wiêcej.}
+{155}{}{Brzmisz, jakbyœ by³ wystraszony jak zbity pies.}
+{156}{}{Preprrrraszam. Pójdê to sprawdziæ.}
+{157}{}{Potrzebujê nieco wiêcej informacji.}
+{158}{BUTCH15}{Zmêczy³em siê twoimi obelgami, ty... ty t³umoku! Nie wracaj tu! Rutger, zabierz st¹d tego wkurzaj¹cego robala!}
+{159}{BUTCH16}{Zgoda i za³atwione. Teraz wynoœ siê ju¿ st¹d, ale przyjdŸ z powrotem i porozmawiaj ze mn¹ jak coœ znajdziesz.}
+{160}{BUTCH17}{Tylko szybko.}
+{161}{BUTCH18}{To czemu, do cholery, jeszcze ciê tu widzê? Wynoœ siê!}
+{162}{butch19}{Eee... mówisz, ¿e co?}
+{163}{}{Wnioskujê, ¿e byliœcie za bardzo przera¿eni, ¿eby pójœæ ich poszukaæ.}
+{164}{}{Nic. No to co mam zrobiæ?}
+{165}{BUTCH20}{Wiesz, nie lubiê ciê. Ale to bez znaczenia. Chcesz tê robotê, czy nie?}
+{166}{}{Jasne.}
+{167}{}{Nie, dziêki.}
+{168}{butch19}{Eee... Mówisz, ¿e co?}
+{169}{}{S³ysza³eœ mnie.}
+{170}{}{Nic. No to co mam zrobiæ?}
+{171}{BUTCH22}{Ta, do wczoraj! Zbieraj siê!}
+{172}{BUTCH23}{Hmmm. A czemu o to pytosz?}
+{173}{}{Czysta ciekawoœæ.}
+{174}{}{Bez powodu.}
+{175}{}{Niewa¿ne. Mam jeszcze parê pytañ.}
+{176}{BUTCH24}{Có¿, prowadzê Wszêdobylskich Handlowców od mniej wiêcej piêciu lat. Wczeœniej by³em w Adytum. Jeszcze wczeœniej, ko³o Blasku.}
+{177}{}{Coœ jeszcze?}
+{178}{}{No có¿, dziêki.}
+{179}{BUTCH25}{Raczej nie.}
+{180}{BUTCH26}{Ta, no có¿, ja nie lubiê rozmawiaæ o moim ¿yciu osobistym i podobnych rzeczach.}
+{181}{}{Oj nie b¹dŸ taki, proszê.}
+{182}{}{Och, w porz¹dku.}
+{183}{BUTCH27}{A co, ja wygl¹dam jak, e... e... jedna z tych rzeczy dla turystów? Rety.}
+{184}{}{Nie, wydajesz siê byæ wspania³ym cz³owiekiem.}
+{185}{}{Chcê tylko dowiedzieæ siê czegoœ o okolicy.}
+{186}{BUTCH28}{Dziêki. No wiêc, coœ jeszcze?}
+{187}{BUTCH29}{No, masz Stare Miasto i Wzgórza, ale to tylko sypialnie. W Œródmieœciu s¹ wszystkie sklepy i reszta.}
+{188}{}{Jakie sklepy?}
+{189}{}{Dziêki.}
+{190}{BUTCH30}{Zwyczajne. Jak chcesz zobaczyæ miasto, to idŸ je sobie poogl¹daæ samodzielnie!}
+{191}{}{Eee, dziêki za nic.}
+{192}{}{Dziêki.}
+{193}{butch19}{Eee... ¯e co?}
+{194}{}{Jesteœ g³uchy?}
+{195}{}{Nic. Muszê ci jednak zadaæ jeszcze kilka pytañ.}
+{196}{BUTCH32}{Có¿, masz Soko³a Maltañskiego, mi³e miejsce na wy¿erkê, wierz mi. I jeszcze... pomyœlmy, sklep Myd³o-i-Powid³o, Sklep z Broni¹... i, oczywiœcie, Iguany Boba.}
+{197}{}{Dziêki.}
+{198}{}{Coœ jeszcze?}
+{199}{BUTCH33}{Po po³udniowej stronie Œródmieœcia masz szpital Dzieci Katedry. I jeszcze, oczywiœcie, masz Kupców Wodnych na po³udniu i Karmazynow¹ Karawanê na zachodzie.}
+{200}{}{Dziêki.}
+{201}{BUTCH34}{No, masz Z³omowo na pó³nocy i Bractwo Stali na pó³nocnym zachodzie. I, oczywiœcie, Gruzy na po³udniu.}
+{202}{}{Coœ jeszcze?}
+{203}{}{Dziêki.}
+{204}{butch35}{Có¿, Nekropolis jest na wschodzie. Ale eee... nie poszed³bym tam pluæ, nawet gdyby moja œlina mia³a siê przez to zamieniæ w z³oto, jeœli wiesz co mam na myœli. Tamtejsze ghule ze¿r¹ cz³owiekowi twarz szybciej, ni¿ babcia robi zakupy na wyprzeda¿y.}
+{205}{}{Brzmi weso³o.}
+{206}{butch35a}{Ffff. Mo¿e dla ciebie! Jak lubisz takie klimaty, to Blask jest kawa³ drogi na po³udnie. To radioaktywna jama.}
+{207}{}{Mo¿e popracujê nad opalenizn¹.}
+{208}{BUTCH36}{Po prostu parê ró¿nych miejsc. IdŸ sprawdziæ samodzielnie!}
+{209}{}{No to dziêki za nic.}
+{210}{}{Dziêki.}
+{211}{BUTCH37}{No, co masz?}
+{212}{}{Có¿, wiem ju¿ kto porywa karawany.}
+{213}{}{Có¿, wiem, ¿e to nie Szpon Œmierci dorwa³ karawany.}
+{214}{}{Na razie nic. Bywaj.}
+{215}{BUTCH38}{Naprawdê? Kto?}
+{216}{}{To wielcy, zmutowani goœcie.}
+{217}{}{Szczury! WIELKIE szczury z WIELKIMI zêbami...}
+{218}{BUTCH39}{Cze... czego mutanci mogliby chcieæ od naszych karawan?}
+{219}{}{Nie wiem, ale wydaj¹ siê braæ ludzi do niewoli.}
+{220}{}{Nie wiem na pewno. Ale to mutanci, a nie Szpon Œmierci.}
+{221}{BUTCH40}{Co jest, czy ja wygl¹dam jak paleta bez ³adunku? Chocia¿ wiesz, jak wygl¹da Szpon Œmierci?}
+{222}{}{Przyby³o siê, zobaczy³o, ubi³o.}
+{223}{}{Mówiê ci, ¿e to nie by³ Szpon Œmierci.}
+{224}{BUTCH41}{To zosta³o zabite przez... przez ciebie? Tego... ja eee... um... eee,
+ sk¹d przyszli ci mutanci?}
+{225}{}{Jeszcze nie wiem. Ale maj¹ placówkê w górach.}
+{226}{}{Pracuj¹ dla Mistrza. Nie s¹ to te¿ tacy zwykli mutanci.}
+{227}{BUTCH42}{Placówkê? Có¿... um... có¿, eee. Bêdê musia³ porozmawiaæ z Rad¹. Ta... ta, oni bêd¹ wiedzieli, co robiæ. Zrobione i za³atwione. Wynoœ siê, bo mam parê spraw do za³atwienia... OK?}
+{228}{BUTCH43}{Mistrza? O-On jest bardziej mityczny ni¿ Szpon Œmierci. Ty... ty nie myœlisz, ¿e on naprawdê istnieje, prawda?}
+{229}{}{Nie mam pewnoœci. Ale zamierzam to sprawdziæ.}
+{230}{}{Ta, on istnieje! I nadchodzi, by ciê dorwaæ!}
+{231}{BUTCH44}{Ta, zgoda i... ta, ty to za³atw! Eee, muszê porozmawiaæ z Rad¹. Oni bêd¹ wiedzieli, co robiæ. T-T-Teraz siê wynoœ! Mam masê do zrobienia... OK?}
+{232}{BUTCH45}{Co?! No... no... nie bojê siê! Rutger! Mam broñ! Rutger!}
+{233}{BUTCH46}{W porz¹dku, wiêc to nie by³ Szpon Œmierci. Ale czego mutanci ze Starego Miasta mog¹ chcieæ od naszych karawan? Chyba ¿e to jakiœ spisek.}
+{234}{}{Nie, nie, nie, ty palancie. Ci mutanci s¹ wielcy i zieloni, i maj¹ armiê w górach na pó³nocy.}
+{235}{}{Ty naprawdê jesteœ g³upi, nieprawda¿? Nie s³uchasz mnie!}
+{236}{BUTCH47}{Co? Wynoœ siê! Muszê powiedzieæ o tym Radzie. Ruszaj, wynocha!}
+{237}{BUTCH48}{Daj spokój. Potrafisz wymyœliæ coœ lepszego.}
+{238}{}{Nie, naprawdê. To wielcy, zieloni, zmutowani goœcie.}
+{239}{}{Masz racjê.}
+{240}{}{Och, no co ty. Myœlisz, ¿e kobieta taka jak ja by k³ama³a?}
+{241}{BUTCH49}{Nie mam na to czasu. Wynoœ siê i nie wracaj dopóki nie znajdziesz czegoœ u¿ytecznego!}
+{242}{BUTCH50}{No wiêc, co to jest?}
+{243}{}{W rzeczywistoœci to S¥ wielcy, zmutowani goœcie...}
+{244}{}{Szczury, mówiê ci! Wielkie, w³ochate...}
+{245}{BUTCH51}{Szczury? Musisz sobie ze mnie ¿artowaæ.}
+{246}{}{Nie, naprawdê. WIELKIE szczury!}
+{247}{}{Masz racjê. Tylko ¿artujê.}
+{248}{BUTCH52}{No... OK. Powiem Radzie, ale nie s¹dzê, ¿eby w to uwierzyli. Chocia¿ widzia³em w okolicy silne, du¿e szczury...}
+{249}{BUTCH53}{A sk¹d to wiesz? Ze spotkania ze Szponem Œmierci?}
+{250}{}{Przyby³o siê, zobaczy³o, ubi³o.}
+{251}{}{Po prostu mi zaufaj. Ja to wiem.}
+{252}{butch54}{To zosta³o zabite przez... przez ciebie?}
+{253}{}{Ta, dok³adnie tak.}
+{254}{butch54a}{No wiêc, to kto porywa moje karawany?}
+{255}{}{Jeszcze nie wiem, ale siê tego dowiem.}
+{256}{}{Ralph to zrobi³.}
+{257}{BUTCH55}{Eee, zrób to. I wróæ tu, i powiedz mi... OK?}
+{500}{butch55a}{Eee, zrób to. I wróæ tu, i powiedz mi... OK?}
+{258}{BUTCH56}{Kim do cholery jest Ralph?}
+{259}{}{Niewa¿ne. Zdobêdê wiêcej informacji o problemie z karawanami.}
+{260}{}{On nadchodzi po twoj¹ duszê!}
+{261}{BUTCH57}{Hej! Robisz sobie ze mnie jaja, prawda? Rutger, poka¿ temu pó³g³ówkowi ulicê! I nie wracaj bez jakichœ prawdziwych informacji!}
+{262}{BUTCH58}{Tak, rzeczywiœcie. Jakbym mia³ w to uwierzyæ. Wynoœ siê, póki nie znajdziesz dla mnie czegoœ u¿ytecznego.}
+{263}{BUTCH59}{No, co masz dla mnie?}
+{264}{}{To byli Mutanci.}
+{265}{}{Có¿, wiem, ¿e to nie Szpon Œmierci dorwa³ karawany.}
+{266}{BUTCH60}{Zostaw mnie samego! Masz swoj¹ nagrodê, teraz siê wynoœ!}
+{267}{BUTCH61}{Ej, schowaj to!}
+{268}{BUTCH62}{Wystarczy. Teraz Rutger zajdzie ci za skórê!}
+{269}{BUTCH63}{Natychmiast przestañ!}
+{501}{butch63a}{Hej! Przestañ!}
+{270}{BUTCH64}{No, co ty tutaj robisz? Wynocha!}
+{272}{butch65}{Och... có¿, nie, wiêc wynoœ siê!}
+{273}{BUTCH66}{Rutger zamieni ciê w ludzki precel. Mi³ej zabawy. RUTGER!}
+{274}{BUTCH67}{O, jesteœ bystrzak, nie? Oto robota: Odkryæ kto porywa moje karawany. Kasa, du¿o. Ty zawieœæ, krzywda, du¿o. Rozumieæ? To wynocha st¹d!}
+{275}{butch67a}{Kurde, jesteœ przyg³upem. Nie mam na to czasu. IdŸ pogadaæ z Rutgerem.}
+{276}{BUTCH68}{IdŸ pogadaæ z Rutgerem. On mo¿e ci powiedzieæ wiêcej o tym ³ajnie.}
+{277}{butch69}{Jak ci mówi³em...}
+{502}{butch69a}{Jak ci mówi³em...}
+{278}{butch70a}{Jak powiedzia³em...}
+{503}{butch70b}{Jak powiedzia³em...}
+{279}{BUTCH71}{Nie bêdê siê znowu powtarza³!}
+{280}{BUTCH72}{S³uchaj, nie powtórzê tego znowu!}
+{281}{BUTCH73}{To w³aœciciel Soko³a Maltañskiego po zachodniej stronie miasta. Trzyma³bym siê od niego z daleka; nie jest uczciwy, jak ja.}
+{282}{BUTCH74}{O, nie. O nie, nie chcemy o tym rozmawiaæ.}
+{283}{BUTCH75}{Sokó³ Maltañski to klub nocny po zachodniej stronie miasta. Œpiewa tam Nadzieja. Co za lala.}
+{284}{BUTCH76}{S¹ prawdziwym utrapieniem. Uwa¿amy, ¿e ich kryjówka jest na Starym Mieœcie, ale nie jesteœmy w stanie tego udowodniæ.}
+{285}{BUTCH77}{O, jest szeryfem. Ale jeœli zobaczysz przestêpstwo, zg³oœ je do mnie. Justin niczym nie rz¹dzi w tej okolicy.}
+{286}{BUTCH78}{Stary Harold? Czego chcesz od tego starego mutanta? Jest na Starym Mieœcie. Po prostu tam popytaj.}
+{287}{BUTCH79}{To skurwiele. Daren Wie¿owiec myœli, ¿e posiada ca³y cholerny Hub, tylko z powodu Wie¿y Ciœnieñ.}
+{288}{BUTCH80}{Szefuje Kupcom Wodnym. To wredny, chciwy bêkart.}
+{289}{BUTCH81}{Mo¿na ich znaleŸæ na pó³nocno-zachodniej krawêdzi Œródmieœcia. Prowadzili szpital, zanim zajê³y go Dzieci. To dopiero zamiana siekierki na kijek.}
+{290}{BUTCH82}{Jest szefem Karmazynowej Karawany. Jeœli o mnie chodzi, to œwir.}
+{291}{BUTCH83}{Nie wiesz, gdzie s¹ twoje w³asne stopy?}
+{292}{BUTCH84}{To ja. Niedowidzisz, czy co?}
+{293}{BUTCH85}{Eee, Beth to kierownik Sklepu z Broni¹. S³yszy wiele pog³osek, jeœli interesuj¹ ciê takie sprawy.}
+{294}{BUTCH86}{Rutger to mój asystent.}
+{295}{BUTCH87}{Jest na po³udnie od Targu. Jedyne Ÿród³o wody tutaj i na sporym szmacie okolicznego terenu. Kupcy Wodni posiadaj¹ to cholerstwo.}
+{296}{BUTCH88}{Trzy z moich karawan zniknê³y w zesz³ym miesi¹cu. Na pocz¹tku myœla³em, ¿e to albo Kupcy Wodni albo Karmazynowa Karawana, ale oni te¿ maj¹ zaginiêcia.}
+{297}{BUTCH89}{Tam wszyscy handluj¹. Samiuteñki œrodek miasta.}
+{298}{BUTCH90}{Eee, nic n-nie... IdŸ pogadaæ z Beth, ona wie wiêcej o tym ³ajnie.}
+{299}{BUTCH91}{Blask to radioaktywna jama daleko, daleko na po³udniu. Za du¿o promieniowania, ¿eby ktoœ móg³ tam ¿yæ.}
+{300}{BUTCH92}{Stare Miasto jest po wschodniej stronie Hubu. £achy tam przesiaduj¹.}
+{301}{butch93}{To po zachodniej stronie Hubu.}
+{302}{BUTCH94}{Z³omowo? Tak, by³em tam na pó³nocy parê razy. Maj¹ œwietn¹ gorza³ê.}
+{303}{BUTCH95}{Z³omowo? To na pó³nocy. S³ysza³em, ¿e maj¹ jakieœ k³opoty, bo ich burmistrz Killian zosta³ zabity i w ogóle.}
+{304}{BUTCH96}{Jest burmistrzem Z³omowa, to wszystko co wiem.}
+{305}{BUTCH97}{S³ysza³em, ¿e nie ¿yje. Co jeszcze chcesz wiedzieæ?}
+{306}{BUTCH98}{O, to banda maniaków spluw na pó³nocnym zachodzie. Naprawdê dziwaczna. Jednak faktycznie robi¹ cholernie dobr¹ broñ.}
+{307}{BUTCH99}{Przewodzi Bractwu. To z grubsza wszystko co wiem.}
+{308}{butch100}{No, to wielkie, zrujnowane miasto na po³udniu. S¹ tam Dzieci, Uczniowie i Adytum, razem z wszystkimi gangami i reszt¹.}
+{309}{butch101}{Czemu pytasz? Co wiesz? S³ysza³em, ¿e zosta³o spl¹drowane, ale nikt nie wie, kto to zrobi³. Ale eee, nie obawiam siê. Nikt nie zdobêdzie Hubu.}
+{310}{butch102}{Có¿, to miejsce, gdzie wszyscy chodz¹ handlowaæ w Gruzach. To jedyne miejsce wystarczaj¹co cywilizowane do tego.}
+{311}{butch103}{Ostatnio jak s³ysza³em, by³ burmistrzem Adytum.}
+{312}{butch104}{Có¿, prowadz¹ wielki, stary szpital po po³udniowej stronie Œródmieœcia. Banda religijnych œwirów, jeœli o mnie chodzi.}
+{313}{butch105}{Przewodzi Dzieciom Katedry w Gruzach.}
+{314}{buth105a}{Jain jest Najwy¿sz¹ Kap³ank¹ Dzieci Katedry i prowadzi szpital tutaj w Hubie.}
+{504}{buth105b}{Nie mam pojêcia o czym mówisz.}
+{315}{butch106}{Eee... S³ysza³em opowieœci, to wszystko. Nie ma w nich prawdy.}
+{316}{butch107}{Najlepsze ceny na najlepsz¹ broñ w mieœcie. Ka¿dy tak mówi, to nie to, ¿e jestem jego w³aœcicielem! Po prostu wyskocz tymi drzwiami i wal na prawo. Nie da siê go przegapiæ.}
+{317}{butch108}{No tam to jest dobra wy¿erka. Bob ma najlepsze przypalone iguany po tej stronie pustyni.}
+{318}{butch109}{No, ty... eee... nie masz po co tam chodziæ. Ceny s¹ naprawdê wysokie, a jakoœæ kiepska.}
+{319}{butch110}{Czego chcesz od tych dziwaków? Rany, ca³e to g³oszenie pokoju i tulenie siê do drzew. Niedobrze mi siê od tego robi.}
+{320}{butch111}{Nic o tym nie wiem.}
+{321}{butch112}{Ja... eee... nie s¹dzê, ¿ebym chcia³ ci o tym mówiæ. Ta, w³aœnie.}
+{322}{butch113}{Nigdy o tym nie s³ysza³em. Na pewno to zmyœlasz albo co.}
+{323}{butch114}{Có¿, ostatnio jak s³ysza³em, ktoœ tam zrobi³ demolkê. Jednak nie wiem kto.}
+{324}{}{Jestem teraz zajêty. Pogadaj z Rutgerem. On da mi znaæ, czy warto ciê ogl¹daæ.}
+{325}{}{Nie mam ci nic do powiedzenia.}
+{326}{}{Gdzie dostanê moj¹ nagrodê?}
+{327}{}{To co to mam zrobiæ?}
+{328}{}{Wynoœ siê st¹d do diab³a!}
+{329}{}{Jeszcze nic.}
+{330}{}{Snargle!!!}
+{331}{}{Wynoœ siê st¹d, ty matole.}
+
+# Tell-Me-Abouts generic responses
+{980}{butch111}{Nic o tym nie wiem.}
+{981}{butch112}{Ja... eee... nie s¹dzê, ¿ebym chcia³ ci o tym mówiæ. Ta, w³aœnie.}
+{982}{butch113}{Nigdy o tym nie s³ysza³em. Na pewno to zmyœlasz albo co.}
+
+#
+# Tell-Me-Abouts
+#
+
+
+{1000}{}{Kafar}
+{1001}{}{Podziemie}
+{1002}{}{Sokó³}
+{1003}{}{Kr¹g}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Kupcy}
+{1007}{}{Daren}
+{1008}{}{Karmazynowa}
+{1009}{}{Demetre}
+{1010}{}{Wszêdobylscy}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Rutger}
+{1014}{}{Wie¿a}
+{1015}{}{zaginione}
+{1016}{}{Targ}
+{1017}{}{Szpon}
+{1018}{}{Blask}
+{1019}{}{Miasto}
+{1020}{}{Wzgórza}
+{1021}{}{Z³omowo}
+{1022}{}{Killian}
+{1023}{}{Bractwo}
+{1024}{}{Starszy}
+{1025}{}{LA}
+{1026}{}{Adytum}
+{1027}{}{Jon}
+{1028}{}{Katedra}
+{1029}{}{Morfeusz}
+{1030}{}{Jain}
+{1031}{}{Mistrz}
+{1032}{}{Broni¹}
+{1033}{}{Boba}
+{1034}{}{Myd³o-i-Powid³o}
+{1035}{}{Uczniowie}
+{1036}{}{Harris}
+{1037}{}{Maltañski}
+{1038}{}{klub}
+{1039}{}{Wodni}
+{1040}{}{Wie¿owiec}
+{1041}{}{Greene}
+{1042}{}{Karawana}
+{1043}{}{Romara}
+{1044}{}{Handlowcy}
+{1045}{}{Ciœnieñ}
+{1046}{}{karawany}
+{1047}{}{Darkwater}
+{1048}{}{Stali}
+{1049}{}{Los}
+{1050}{}{Gruzy}
+{1051}{}{Zimmerman}
+{1052}{}{Sklep}
+{1053}{}{Broni¹}
+{1054}{}{broñ}
+{1055}{}{Boba}
+{1056}{}{Iguany}
+{1057}{}{Apokalipsy}
+{1058}{}{œmierci}
+{1059}{}{Szpon}
+{1060}{}{Punkt}
+{1061}{}{Starówka}
+{1062}{}{Stare}
+{1063}{}{Maxson}
+{1064}{}{Myd³o}
+{1065}{}{Z³omowo}
+
+{1100}{BUTCH73}{To w³aœciciel Soko³a Maltañskiego po zachodniej stronie miasta. Trzyma³bym siê od niego z daleka; nie jest uczciwy, jak ja.}
+{1101}{BUTCH74}{O, nie. O nie, nie chcemy o tym rozmawiaæ.}
+{1102}{BUTCH75}{Sokó³ Maltañski to klub nocny po zachodniej stronie miasta. Œpiewa tam Nadzieja. Co za lala.}
+{1103}{BUTCH76}{S¹ prawdziwym utrapieniem. Uwa¿amy, ¿e ich kryjówka jest na Starym Mieœcie, ale nie jesteœmy w stanie tego udowodniæ.}
+{1104}{BUTCH77}{O, jest szeryfem. Ale jeœli zobaczysz przestêpstwo, zg³oœ je do mnie. Justin niczym nie rz¹dzi w tej okolicy.}
+{1105}{BUTCH78}{Stary Harold? Czego chcesz od tego starego mutanta? Jest na Starym Mieœcie. Po prostu tam popytaj.}
+{1106}{BUTCH79}{To skurwiele. Daren Wie¿owiec myœli, ¿e posiada ca³y cholerny Hub, tylko z powodu Wie¿y Ciœnieñ.}
+{1107}{BUTCH80}{Szefuje Kupcom Wodnym. To wredny, chciwy bêkart.}
+{1108}{BUTCH81}{Mo¿na ich znaleŸæ na pó³nocno-zachodnim skraju Œródmieœcia. Prowadzili szpital, zanim zajê³y go Dzieci. To dopiero zamiana siekierki na kijek.}
+{1109}{BUTCH82}{Jest szefem Karmazynowej Karawany. Jeœli o mnie chodzi, to œwir.}
+{1110}{BUTCH83}{Nie wiesz, gdzie s¹ twoje w³asne stopy?}
+{1111}{BUTCH84}{To ja. Niedowidzisz, czy co?}
+{1112}{BUTCH85}{Ee, Beth to kierownik Sklepu z Broni¹. S³yszy wiele pog³osek, jeœli interesuj¹ ciê takie sprawy.}
+{1113}{BUTCH86}{Rutger to mój asystent.}
+{1114}{BUTCH87}{Jest na po³udnie od Targu. Jedyne Ÿród³o wody tutaj i na sporej po³aci okolicznego terenu. Kupcy Wodni posiadaj¹ to cholerstwo.}
+{1115}{BUTCH88}{Trzy z moich karawan zniknê³y w zesz³ym miesi¹cu. Na pocz¹tku myœla³em, ¿e to albo Kupcy Wodni albo Karmazynowa Karawana, ale oni te¿ maj¹ zaginiêcia.}
+{1116}{BUTCH89}{Tam wszyscy handluj¹. Samiuteñki œrodek miasta.}
+{1117}{BUTCH90}{Eee, nic n-nie... IdŸ pogadaæ z Beth, ona wie wiêcej o tym ³ajnie.}
+{1118}{BUTCH91}{Blask to radioaktywna jama daleko, daleko na po³udniu. Za du¿o tam promieniowania, ¿eby ktoœ móg³ tam ¿yæ.}
+{1119}{BUTCH92}{Stare Miasto jest po wschodniej stronie Hubu. £achy tam przesiaduj¹.}
+{1120}{butch93}{To po zachodniej stronie Hubu.}
+{1121}{BUTCH94}{Z³omowo? Tak, by³em tam na pó³nocy parê razy. Maj¹ œwietn¹ gorza³ê.}
+#{1122}{BUTCH95}{Z³omowo? To na pó³nocy. S³ysza³em, ¿e maj¹ jakieœ k³opoty, bo ich burmistrz Killian zosta³ zabity i w ogóle.}
+{1122}{BUTCH96}{Jest burmistrzem Z³omowa, to wszystko co wiem.}
+#{1123}{BUTCH97}{S³ysza³em, ¿e nie ¿yje. Co jeszcze chcesz wiedzieæ?}
+{1123}{BUTCH98}{O, to banda maniaków spluw na pó³nocnym zachodzie. Naprawdê dziwaczna. Jednak faktycznie robi¹ cholernie dobr¹ broñ.}
+{1124}{BUTCH99}{Przewodzi Bractwu. To z grubsza wszystko co wiem.}
+{1125}{butch100}{No, to wielkie, zrujnowane miasto na po³udniu. S¹ tam Dzieci, Uczniowie i Adytum, razem z wszystkimi gangami i reszt¹.}
+#{1126}{butch101}{Czemu pytasz? Co wiesz? S³ysza³em, ¿e zosta³o spl¹drowane, ale nikt nie wie, kto to zrobi³. Ale eee, nie obawiam siê. Nikt nie zdobêdzie Hubu.}
+{1126}{butch102}{Có¿, to miejsce, gdzie wszyscy chodz¹ handlowaæ w Gruzach. To jedyne miejsce wystarczaj¹co cywilizowane do tego.}
+{1127}{butch103}{Ostatnio jak s³ysza³em, by³ burmistrzem Adytum.}
+{1128}{butch104}{Có¿, prowadz¹ wielki, stary szpital po po³udniowej stronie Œródmieœcia. Banda religijnych œwirów, jeœli o mnie chodzi.}
+{1129}{butch105}{Przewodzi Dzieciom Katedry w Gruzach.}
+{1130}{buth105a}{Jain jest Najwy¿sz¹ Kap³ank¹ Dzieci Katedry i prowadzi szpital tutaj w Hubie.}
+{1131}{butch106}{Eee... S³ysza³em opowieœci, to wszystko. Nie ma w nich prawdy.}
+{1132}{butch107}{Najlepsze ceny na najlepsz¹ broñ w mieœcie. Ka¿dy tak mówi, to nie to, ¿e jestem jego w³aœcicielem! Po prostu wytruchtaj tymi drzwiami i wal na prawo. Nie da siê go przegapiæ.}
+{1133}{butch108}{No tam to jest dobra wy¿erka. Bob ma najlepsze przypalone iguany po tej stronie pustyni.}
+{1134}{butch109}{No, ty... eee... nie masz po co tam chodziæ. Ceny s¹ naprawdê wysokie, a jakoœæ kiepska.}
+{1135}{butch110}{Czego chcesz od tych dziwaków? Rany, ca³e to g³oszenie pokoju i tulenie siê do drzew. Niedobrze mi siê od tego robi.}
+{1136}{BUTCH84}{To ja. Niedowidzisz, czy co?}
+{1137}{BUTCH75}{Sokó³ Maltañski to klub nocny po zachodniej stronie miasta. Œpiewa tam Nadzieja. Co za lala.}
+{1138}{BUTCH75}{Sokó³ Maltañski to klub nocny po zachodniej stronie miasta. Œpiewa tam Nadzieja. Co za lala.}
+{1139}{BUTCH79}{To skurwiele. Daren Wie¿owiec myœli, ¿e posiada ca³y cholerny Hub, tylko z powodu Wie¿y Ciœnieñ.}
+{1140}{BUTCH80}{Szefuje Kupcom Wodnym. To wredny, chciwy bêkart.}
+{1141}{BUTCH77}{O, jest szeryfem. Ale jeœli zobaczysz przestêpstwo, zg³oœ je do mnie. Justin niczym nie rz¹dzi w tej okolicy.}
+{1142}{BUTCH81}{Mo¿na ich znaleŸæ na pó³nocno-zachodnim skraju Œródmieœcia. Prowadzili szpital, zanim zajê³y go Dzieci. To dopiero zamiana siekierki na kijek.}
+{1143}{BUTCH82}{Jest szefem Karmazynowej Karawany. Jeœli o mnie chodzi, to œwir.}
+{1144}{BUTCH83}{Nie wiesz, gdzie s¹ twoje w³asne stopy?}
+{1145}{BUTCH87}{Jest na po³udnie od Targu. Jedyne Ÿród³o wody tutaj i na sporej po³aci okolicznego terenu. Kupcy Wodni posiadaj¹ to cholerstwo.}
+{1146}{BUTCH88}{Trzy z moich karawan zniknê³y w zesz³ym miesi¹cu. Na pocz¹tku myœla³em, ¿e to albo Kupcy Wodni albo Karmazynowa Karawana, ale oni te¿ maj¹ zaginiêcia.}
+{1147}{BUTCH96}{Jest burmistrzem Z³omowa, to wszystko co wiem.}
+{1148}{BUTCH98}{O, to banda maniaków spluw na pó³nocnym zachodzie. Naprawdê dziwaczna. Jednak faktycznie robi¹ cholernie dobr¹ broñ.}
+{1149}{butch100}{No, to wielkie, zrujnowane miasto na po³udniu. S¹ tam Dzieci, Uczniowie i Adytum, razem z wszystkimi gangami i reszt¹.}
+{1150}{butch100}{No, to wielkie, zrujnowane miasto na po³udniu. S¹ tam Dzieci, Uczniowie i Adytum, razem z wszystkimi gangami i reszt¹.}
+{1151}{butch103}{Ostatnio jak s³ysza³em, by³ burmistrzem Adytum.}
+{1152}{butch107}{Najlepsze ceny na najlepsz¹ broñ w mieœcie. Ka¿dy tak mówi, to nie to, ¿e jestem jego w³aœcicielem! Po prostu wytruchtaj tymi drzwiami i wal na prawo. Nie da siê go przegapiæ.}
+{1153}{butch107}{Najlepsze ceny na najlepsz¹ broñ w mieœcie. Ka¿dy tak mówi, to nie to, ¿e jestem jego w³aœcicielem! Po prostu wytruchtaj tymi drzwiami i wal na prawo. Nie da siê go przegapiæ.}
+{1154}{butch107}{Najlepsze ceny na najlepsz¹ broñ w mieœcie. Ka¿dy tak mówi, to nie to, ¿e jestem jego w³aœcicielem! Po prostu wytruchtaj tymi drzwiami i wal na prawo. Nie da siê go przegapiæ.}
+{1155}{butch108}{No tam to jest dobra wy¿erka. Bob ma najlepsze przypalone iguany po tej stronie pustyni.}
+{1156}{butch108}{No tam to jest dobra wy¿erka. Bob ma najlepsze przypalone iguany po tej stronie pustyni.}
+{1157}{butch110}{Czego chcesz od tych dziwaków? Rany, ca³e to g³oszenie pokoju i tulenie siê do drzew. Niedobrze mi siê od tego robi.}
+{1158}{BUTCH90}{Eee, nic n-nie... IdŸ pogadaæ z Beth, ona wie wiêcej o tym ³ajnie.}
+{1159}{BUTCH90}{Eee, nic n-nie... IdŸ pogadaæ z Beth, ona wie wiêcej o tym ³ajnie.}
+{1160}{BUTCH91}{Blask to radioaktywna jama daleko, daleko na po³udniu. Za du¿o tam promieniowania, ¿eby ktoœ móg³ tam ¿yæ.}
+{1161}{BUTCH92}{Stare Miasto jest po wschodniej stronie Hubu. £achy tam przesiaduj¹.}
+{1162}{BUTCH92}{Stare Miasto jest po wschodniej stronie Hubu. £achy tam przesiaduj¹.}
+{1163}{BUTCH99}{Przewodzi Bractwu. To z grubsza wszystko co wiem.}
+{1164}{butch109}{No, ty... eee... nie masz po co tam chodziæ. Ceny s¹ naprawdê wysokie, a jakoœæ kiepska.}
+{1165}{BUTCH94}{Z³omowo? Tak, by³em tam na pó³nocy parê razy. Maj¹ œwietn¹ gorza³ê.}

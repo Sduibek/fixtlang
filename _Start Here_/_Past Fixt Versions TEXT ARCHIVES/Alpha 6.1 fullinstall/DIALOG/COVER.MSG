@@ -1,0 +1,8 @@
+{100}{}{You close the manhole cover.}
+{101}{}{You open the manhole cover and peer down
+ into the darkness. You see a ladder that
+ leads into the sewers.}
+{102}{}{You strain your muscles, but the heavy iron
+ disk is too much for your weak physique. You
+ can feel something pop in your back.}
+{103}{}{The manhole cover is heavy and awkward to lift.}

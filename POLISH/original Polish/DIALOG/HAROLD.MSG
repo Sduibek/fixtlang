@@ -1,0 +1,207 @@
+{100}{}{To Harold.}
+{101}{HROLD0}{Masz na zbyciu drobne, ziomuœ, przyjazna duszo? Czy mo¿esz wspomóc biednego, pechowego mutanta? [Harold kaszle.]}
+{102}{}{Ta, masz tu 25 kapsli. ¯yczê ci szczêœcia.}
+{103}{}{Co powiesz na 5 kapsli?}
+{104}{}{Przykro mi, nie mam przy sobie ¿adnych pieniêdzy.}
+{105}{}{Trzymaj siê ode mnie z daleka!}
+{106}{}{Uhhh?}
+{107}{HROLD1}{Rany. Nawet ja jestem od ciebie zamo¿niejszy. ¯yczê szczêœcia.}
+{108}{HROLD2}{O, mi³o z twojej strony. Bardzo mi³o. Wiesz, jakbym móg³ wytrzeæ stamt¹d maŸ, znalaz³aby siê ³ezka w oku Starego Harolda.}
+{109}{}{A to czemu?}
+{110}{}{Nie ma o czym mówiæ.}
+{111}{HROLD3}{[Harold kaszle.] Odk¹d wróci³em do miasta, reszta Hubiaków czepia siê mnie jak paluch gluta w nosie. Nie mogê jednak odejœæ. Mimo wszystko... [Hyy.] to ci¹gle mój dom.}
+{112}{}{Co ci siê sta³o?}
+{113}{}{Kim s¹ Hubiacy?}
+{114}{}{Mam nadziejê, ¿e bêdzie lepiej. Do zobaczenia.}
+{115}{HROLD4}{Có¿, po Wielkiej Wojnie moja Krypta otwar³a siê jako jedna z pierwszych. [Harold bierze g³êboki oddech.] Fiu. Kopê lat.}
+{116}{}{Opowiedz mi coœ wiêcej o tych czasach.}
+{117}{}{Nie, nie. Chodzi mi o to, co ciê przemieni³o.}
+{118}{HROLD5}{Wszystko zaczê³o siê od syren. By³em m³ody, ale o, to pamiêtam œwietnie. Potem by³a masa straszliwych lat. I pamiêtam wyjœcie z Krypty pewnego przedpo³udnia.}
+{119}{}{Czym siê wtedy zajmowa³eœ?}
+{120}{}{Gdzie znajdowa³a siê twoja Krypta?}
+{121}{}{Wiesz, ile w takim razie musisz mieæ lat?}
+{122}{HROLD6}{Wiesz, [Harold kaszle.] ju¿ nie bardzo pamiêtam. Chyba na zachodzie. E, wróæ - na wschodzie? Och, sam nie wiem. [Harold sucho kaszle.]}
+{123}{}{Czym siê wtedy zajmowa³eœ?}
+{124}{HROLD7}{Có¿, by³em handlarzem. Ca³kiem dobrze mi sz³o na trasie miêdzy ocalonymi. Straci³em jednak masê dobrych ludzi. [Harold kaszle.]}
+{125}{}{W jaki sposób?}
+{126}{HROLD8}{Dorwa³y ich gangi. Szabrownicy atakuj¹cy karawany. I mutanci, psie syny, roili siê jak króliki-erotomani. [Harold kaszle.] Musia³em mieæ ze sob¹ armiê stra¿ników, ¿eby tylko ubiæ interes.}
+{127}{}{Czy ci stra¿nicy nie pomagali?}
+{128}{}{Sk¹d przychodzili ci mutanci?}
+{129}{HROLD9}{Jasne, ¿e pomagali, t³umoku! Po prostu mutantów by³o za du¿o, ¿eby sobie z nimi daæ radê!}
+{130}{}{W jaki sposób uda³o ci siê przetrwaæ ataki mutantów?}
+{131}{HROLD9A}{Nie uda³o. Zabili mnie. [Harold krztusi siê ze œmiechu.] Uwielbiam ten kawa³.}
+{132}{}{A, tak.}
+{133}{HROLD10}{Zewsz¹d! Do diab³a, zdawa³o siê, ¿e nie mo¿na pierdn¹æ, ¿eby jakiegoœ nie trafiæ. Ale g³ównie z pó³nocnego zachodu.}
+{134}{}{Zbada³eœ ten obszar?}
+{135}{}{Czemu po prostu nie unika³eœ tego obszaru?}
+{136}{}{Pierdzia³eœ na pó³nocny zachód?}
+{137}{hrold10a}{[Harold siê œmieje.] Ca³kiem niez³e... Niee...}
+{138}{HROLD11}{Podjêliœmy ekspedycjê. Bo¿e, Richard. Richard Grey. Poprowadzi³ tam nasz¹ ma³¹ grupê.}
+{139}{}{Richard Grey?}
+{140}{}{Dok¹d konkretnie poszliœcie?}
+{141}{HROLD12}{Mieliœmy zobaczyæ, co tam by³o. Mo¿e zatrzymaæ cokolwiek, co ich, smarków jednych, wytwarza³o. Myœleliœmy, ¿e jesteœmy przygotowani. Myliliœmy siê.}
+{142}{}{Co zrobiliœcie?}
+{143}{HROLD13}{Nie pamiêtam marszruty, ani nic takiego. Ale jestem cholernie pewny, ¿e to by³ pó³nocny zachód, chocia¿... Tak myœlê.}
+{144}{}{Czy istnieje krótsza wersja tej historii?}
+{145}{}{Co z waszym przywódc¹?}
+{146}{HROLD14}{Richard Grey by³ lekarzem. Trochê starszy ode mnie i naprawdê bystry. Odkry³ Ÿród³o.}
+{147}{}{I co to by³o?}
+{148}{HROLD15}{Lubiê opowiadaæ j¹ po swojemu. Krótka wersja bêdzie ciê kosztowaæ dodatkowe 25 kapsli. Która ma byæ?}
+{149}{}{OK, niech bêdzie d³uga.}
+{150}{}{Krótka.}
+{151}{}{Krótka, ale nie mam tyle gotówki.}
+{152}{}{Co powiesz na ¿adn¹, ty stary pierdzielu?}
+{153}{HROLD16}{Có¿, sprawiasz porz¹dne wra¿enie. Trochê przyspieszê.}
+{154}{}{Dziêki.}
+{155}{hrold16a}{Ok³amujesz biednego, starego mutanta. Do czego zmierza ten œwiat? [Harold kaszle.]}
+{156}{hrold17}{Ciut ma³o funduszy, co?}
+{157}{hrold17a}{Po mojemu lub odchodzisz po pró¿nemu. Twój wybór.}
+{158}{}{No to idê.}
+{159}{}{OK. Niech bêdzie d³uga.}
+{160}{HROLD18}{Jakaœ stara baza wojskowa. Dostaj¹c siê tam, straciliœmy masê dobrych ludzi.}
+{161}{}{Sk¹d wiedzieliœcie, ¿e ta baza by³a Ÿród³em?}
+{162}{}{Co tam napotkaliœcie?}
+{163}{HROLD19}{Roboty i takie tam. Masa ich by³a. Cholernie zaskakuj¹ce, ¿e jeszcze dzia³a³y po takim czasie, po Wojnie i w ogóle. O, kurcze, one to nam nieŸle powyrywa³y nogi z dupy.}
+{164}{}{Co zrobiliœcie, jak ju¿ przedostaliœcie siê przez roboty?}
+{165}{HROLD20}{Bo by³o tam, jakby ktoœ robi³ zakupy na promocji w mutantmarkecie! Rany! Im wiêcej, tym taniej! Nie przychodzi mi do g³owy ¿aden inny powód, ni¿ taki, ¿e tam by³a ich fabryka.}
+{166}{}{Czy dok³adnie zbadaliœcie tê bazê?}
+{167}{HROLD21}{Dotarliœmy ca³kiem daleko do œrodka. Niewiele nas wtedy zosta³o. Grey, ja i para innych.}
+{168}{}{I co wtedy?}
+{169}{HROLD22}{Jeden z tych robotów dorwa³ Francine. Mark by³ ranny, wys³aliœmy go z powrotem na powierzchniê. Wtedy by³em ju¿ tylko ja i Grey.}
+{170}{}{Co siê sta³o z Markiem?}
+{171}{}{Co siê wtedy sta³o?}
+{172}{HROLD23}{Do dzisiaj nie wiem. Nigdy tu nie wróci³, a... có¿, ja... nie mog³em siê znowu zmierzyæ z Pustkowiem, wiêc... nie szuka³em.}
+{173}{}{A co z tob¹ i Greyem?}
+{174}{HROLD24}{Dotarliœmy do jakiegoœ centralnego rdzenia, czegoœ w rodzaju fabryki. To wtedy to siê sta³o.}
+{175}{}{Co?}
+{176}{HROLD25}{Zrobotyzowany ¿uraw nas r¹bn¹³. Ostatni raz widzia³em Greya, jak lecia³ d-do jakiejœ balii z kwasem. By³em w z³ym stanie i... Có¿, zemdla³em.}
+{177}{}{W jaki sposób uda³o ci siê prze¿yæ?}
+{178}{}{I ju¿ nigdy wiêcej nie widzia³eœ Greya?}
+{179}{hrold25a}{Nie uda³o. Zgin¹³em... [Harold œmieje siê, a potem kaszle.] Bo¿e, uwielbiam ten dowcip.}
+{180}{}{Ta, wiem coœ o tym.}
+{181}{HROLD26}{Có¿, nie mam pojêcia. Obudzi³em siê na pustkowiu, ledwo ¿ywy. Mia³em szczêœcie, i handlarze, których zna³em, znaleŸli mnie po paru dniach. To dobrze, bo ju¿ siê zmienia³em. Doprowadzili mnie tutaj, i tu od tej pory jestem.}
+{182}{}{Dlaczego zmutowa³eœ?}
+{183}{}{Œwietna historia. Dziêki.}
+{184}{hrold26a}{Có¿... Dziêki, ¿e mog³em j¹ opowiedzieæ.}
+{185}{}{To mia³a byæ krótka wersja?}
+{186}{hrold26a}{Có¿... Dziêki, ¿e mog³em j¹ opowiedzieæ.}
+{187}{hrold26b}{Dla mnie by³a.}
+{188}{HROLD27}{Nie, ty matole! Dopiero co powiedzia³em, ¿e ju¿ go wiêcej nie zobaczy³em, nieprawda¿?}
+{189}{}{W jaki sposób uda³o ci siê prze¿yæ?}
+{190}{HROLD28}{Wszystko co wiem, to to, ¿e to przez coœ z tej bazy.}
+{191}{}{Myœlisz, ¿e to mog³o byæ promieniowanie?}
+{192}{}{Wybacz, muszê iœæ. Dziêki za opowieœæ.}
+{193}{HROLD29}{Sk¹d, u diab³a, mam wiedzieæ? Jeœli ktoœ by móg³ wiedzieæ, to Grey. [Harold wzdycha.] W ka¿dym razie, tak siê ta sprawa potoczy³a.}
+{194}{}{Dziêki za opowieœæ.}
+{195}{HROLD30}{Ta, mniej wiêcej stulecie, albo dwa w psich latach.}
+{196}{}{Co?}
+{197}{HROLD31}{Niewa¿ne, to z moich czasów. Jestem pogiêty i stary ju¿ od kiedy siê zmieni³em.}
+{198}{}{Co robi³eœ, zanim ci siê to sta³o?}
+{199}{HROLD32}{Có¿, zosta³em zmutowany. Pewnie, ¿e siê taki brzydki nie urodzi³em. Zdarzy³o siê to kiedy próbowaliœmy odkryæ, sk¹d przychodzi³y te wszystkie mutanty.}
+{200}{}{Co siê sta³o?}
+{201}{HROLD33}{To przesz³oœæ. Pewnie powinno tak zostaæ.}
+{202}{}{Proszê, powiedz mi, co siê sta³o; mo¿e mi to teraz pomóc.}
+{203}{}{Jak sobie ¿yczysz.}
+{204}{HROLD34}{Có¿, skoro tak to stawiasz. Chyba nie zaszkodzi.}
+{205}{}{Dziêki.}
+{206}{HROLD35}{Nie, nie. To zbyt bolesne, nawet teraz. Dziêki za pomoc. ¯yczê ci szczêœcia.}
+{207}{HROLD36}{Jesteœ w Hubie, zgadza siê? Ludzie, co mieszkaj¹ w Hubie? Hubiacy. Kapujesz? [Harold kaszle.] Rety! Dziêki za pomoc i ¿yczê szczêœcia... Pewnie bêdzie ci potrzebne.}
+{208}{HROLD37}{Niczym siê nie ró¿nisz od reszty. [Harold sucho kaszle.]}
+{209}{HROLD38}{No có¿, i tak dziêkujê. [Harold kaszle.]}
+{210}{HROLD39}{Hej, czy mo¿esz mnie wspomóc, przyjazna duszo?}
+{211}{}{Ta, masz tu 25 kapsli.}
+{212}{}{WeŸ 5 kapsli.}
+{213}{}{Nie zawracaj mi dupy.}
+{214}{}{Uhhh?}
+{215}{HROLD40}{Hej, doceniam to! Muszê przyznaæ, ¿e jak ciê pierwszy raz zobaczy³em, [Harold kaszle.] wykombinowa³em, ¿e mo¿esz mi dokuczaæ.}
+{216}{}{Czemu tak mówisz?}
+{217}{}{Nie, nie ja! Dobrego dzionka.}
+{218}{HROLD41}{O, hej, to znowu ty.}
+{219}{}{Masz tu 20 kapsli, jeœli ci trzeba.}
+{220}{}{Czeœæ.}
+{221}{}{Uhh?}
+{222}{hrold42}{Robisz mnie tylko w jajo, co?}
+{223}{HROLD43}{Coœ mogê dla ciebie zrobiæ?}
+{224}{}{S³ysza³eœ ostatnio jakieœ dobre nowiny?}
+{225}{}{Potrzebne mi informacje o Szponie Œmierci, a podobno ty jesteœ od niego specem.}
+{226}{}{Jak brzmi twoja historia?}
+{227}{}{Ni.}
+{228}{hrold43a}{Caluteñka? Có¿...}
+{229}{HROLD44}{Aaa, có¿, dziêki. Mam nadziejê, ¿e to nie by³ zbyt wielki wysi³ek. [Harold kaszle.]}
+{230}{HROLD45}{Aaa, o to chodzi. To prawdziwa koszmarnoœæ. Po kiego licha o niego pytasz?}
+{231}{}{Planujê go zabiæ.}
+{232}{}{Chcê wiedzieæ, co robiæ, jak mnie dorwie.}
+{233}{HROLD47}{OK. Có¿, jest jak cholernie wielki facet, taki jest. Ma kolce i szpony, które mog¹ przebiæ najciê¿szy pancerz. Ale niech jego wielkoœæ ciê nie zmyli, jest szybki.}
+{234}{}{Jakieœ s³aboœci?}
+{235}{HROLD49}{Có¿, z tego, co s³ysza³em, mo¿e r¹bnij go w ³eb? Ja bym spróbowa³ po oczach. Oczywista, jest z tym problem.}
+{236}{}{Jakiego rodzaju problem?}
+{237}{HROLD50}{Nie mo¿na na niego patrzeæ! Mówi siê, ¿e Szpon Œmierci mo¿e zahipnotyzowaæ samym spojrzeniem. Potem podchodzi i "bum", dostajesz berka!}
+{238}{}{Super, dziêki.}
+{239}{HROLD51}{¯yczê ci szczêœcia... Bêdziesz go potrzebowaæ.}
+{240}{}{Mo¿liwe.}
+{241}{HROLD52}{Wcale nie chcesz nic wiedzieæ o Szponie Œmierci, a ja nie bêdê kimœ, kto ci o nim opowie.}
+{242}{HROLD53}{Có¿, s³ysza³em, ¿e jeden z ludzi Kafara wiêzi na Starówce kogoœ z Bractwa Stali.}
+{243}{}{Dziêki.}
+{244}{HROLD54}{Nie wierzê w to, ale niektórzy mówi¹, ¿e nadci¹ga armia mutantów. [Harold kaszle.]}
+{245}{}{Dziêki.}
+{246}{HROLD55}{Daj mi spokój. [Harold kaszle.]}
+{247}{}{Chcê z tob¹ porozmawiaæ.}
+{248}{}{Masz tu trochê gotówki.}
+{249}{HROLD56}{Có¿, nie chce mi siê z tob¹ gadaæ. OdejdŸ st¹d!}
+{250}{HROLD57}{Nie chcê twoich pieniêdzy. OdejdŸ. [Harold kaszle.]}
+{251}{hrold200}{Chocia¿ uwielbiam handlowaæ, nie mam nic na wymianê. [Harold kaszle.]}
+{252}{hrold201}{Muszê chwilê pospaæ. Jestem trochê zmêczony.}
+{253}{hrold202}{Dobrze bêdzie, jak zaczniesz bardziej uwa¿aæ. [Harold kaszle.] S³ysza³em, ¿e uda³o ci siê ostatnio wykoñczyæ paru ludzi.}
+{254}{hrold203}{Emm... Kafar ciê szuka. Chce pogadaæ. [Harold kaszle.]}
+{255}{hrold204}{Wszystko, co mam, to ubranie i wolnoœæ, a to drugie jest dyskusyjne.}
+{256}{hrold300}{B³yskotliwy goœæ. Lekarz i filozof. Dawno temu poprowadzi³ ekspedycjê, na której zmieni³em siê w mutanta.}
+{257}{hrold301}{Mistarowicz? Czy to jakiœ seksuolog? Wiesz, mi by siê taki przyda³.}
+{258}{hrold302}{Mutanci. Niewa¿ne, jak siebie nazywaj¹.}
+{259}{hrold303}{A, on. Przywodzi Krêgowi Z³odziei. Myœli, ¿e jest Robinem Hoodem. [Harold kaszle.] Jest w porz¹dku, jak mi siê zdaje.}
+{260}{hrold304}{Widzia³em, jak religie przychodz¹ i odchodz¹, i mam nadziejê, ¿e ta odejdzie. Nied³ugo.}
+{261}{hrold305}{Ta, pochodzê z Krypty. Za du¿o ludzi, nie starcza³o jedzenia i wody. Ale ty nic o tym nie wiesz, prawda?}
+{262}{hrold306}{Okropnoœæ. Œwiat po prostu zwariowa³. Dawno temu, ale nigdy jej nie zapomnê. Nigdy.}
+{263}{hrold307}{[Harold kaszle.] K³opoty. Same k³opoty.}
+{264}{hrold400}{Có¿, jak powiedzia³em...}
+{265}{}{Nic, dziêki.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{266}{HROLD0}{Masz na zbyciu drobne, stary przyjacielu, stary kumplu? Czy mo¿esz wspomóc biednego, pechowego mutanta? [Harold kaszle.]}
+{267}{HROLD0}{Masz na zbyciu drobne, stara przyjació³ko, stara kumpelo? Czy mo¿esz wspomóc biednego, pechowego mutanta? [Harold kaszle.]}
+{268}{HROLD2}{O, mi³o z twojej strony, przyjacielu. Bardzo mi³o. Wiesz, jakbym móg³ wytrzeæ stamt¹d maŸ, znalaz³byœ ³ezkê w oku Starego Harolda.}
+{269}{HROLD2}{O, mi³o z twojej strony, przyjació³ko. Bardzo mi³o. Wiesz, jakbym móg³ wytrzeæ stamt¹d maŸ, znalaz³abyœ ³ezkê w oku Starego Harolda.}
+{270}{HROLD35}{Nie, nie. To zbyt bolesne, nawet teraz. Dziêki za pomoc, przyjacielu. ¯yczê ci szczêœcia.}
+{271}{HROLD35}{Nie, nie. To zbyt bolesne, nawet teraz. Dziêki za pomoc, przyjació³ko. ¯yczê ci szczêœcia.}
+{272}{HROLD39}{Hej, czy mo¿esz mnie wspomóc, przyjacielu?}
+{273}{HROLD39}{Hej, czy mo¿esz mnie wspomóc, przyjació³ko?}
+
+#
+# Harold's Tell-Me-Abouts
+#
+
+
+{1000}{}{Richard}
+{1001}{}{Mistrz}
+{1002}{}{ghule}
+{1003}{}{Loxley}
+{1004}{}{Katedra}
+{1005}{}{Krypta}
+{1006}{}{Wojna}
+{1007}{}{Kafar}
+{1008}{}{Grey}
+
+{1100}{hrold300}{B³yskotliwy goœæ. Lekarz i filozof. Dawno temu poprowadzi³ ekspedycjê, na której zmieni³em siê w mutanta.}
+{1101}{hrold301}{Mistarowicz? Czy to jakiœ seksuolog? Wiesz, mi by siê taki przyda³.}
+{1102}{hrold302}{Mutanci. Niewa¿ne, jak siebie nazywaj¹.}
+{1103}{hrold303}{A, on. Przywodzi Krêgowi Z³odziei. Myœli, ¿e jest Robinem Hoodem. [Harold kaszle.] Jest w porz¹dku, jak mi siê zdaje.}
+{1104}{hrold304}{Widzia³em, jak religie przychodz¹ i odchodz¹, i mam nadziejê, ¿e ta odejdzie. Nied³ugo.}
+{1105}{hrold305}{Ta, pochodzê z Krypty. Za du¿o ludzi, nie starcza³o jedzenia i wody. Ale ty nic o tym nie wiesz, prawda?}
+{1106}{hrold306}{Okropnoœæ. Œwiat po prostu zwariowa³. Dawno temu, ale nigdy jej nie zapomnê. Nigdy.}
+{1107}{hrold307}{[Harold kaszle.] K³opoty. Same k³opoty.}
+{1108}{hrold300}{B³yskotliwy goœæ. Lekarz i filozof. Dawno temu poprowadzi³ ekspedycjê, na której zmieni³em siê w mutanta.}

@@ -1,0 +1,12 @@
+{100}{}{To Handlarz.}
+{101}{}{Chcesz pohandlowaæ?}
+{102}{}{Kliknij Handel -->}
+{103}{}{Nie.}
+{104}{}{Ju¿ od pewnego czasu nêkaj¹ nas radskorpiony. Wszyscy, którzy zostali wys³ani, ¿eby zniszczyæ te potwory, nie powrócili. Dam ci uzbrojenie i pancerz, jeœli pójdziesz z moim przewodnikiem do ich gniazda i wszystkie je uœmiercisz.}
+{105}{}{Brzmi nieŸle.}
+{106}{}{Nie, dziêki.}
+{107}{}{Szkoda. OdejdŸ, proszê.}
+{108}{}{Doskonale. Ten tu Sammy poprowadzi ciê do gniazda. WeŸ te rzeczy, przydadz¹ ci siê.}
+{109}{}{Proszê, pomó¿ nam jak najszybciej. Czas mija.}
+{110}{}{Nie rozmawiam z takimi jak ty.}
+{111}{}{Dziêkujemy ci za rozprawienie siê z radskorpionami, nieznajomy}

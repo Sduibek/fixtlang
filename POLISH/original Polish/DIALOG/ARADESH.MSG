@@ -1,0 +1,216 @@
+{100}{}{To Aradesh.}
+{101}{Ara_1g}{Witaj, wêdrowcze. Proszê, nie obra¿aj siê, jeœli ³agodni ludzie wokó³ wydadz¹ ci siê szorstcy w obejœciu. Jak mawia³ Dharma, "Ciê¿kie czasy garbuj¹ ludzk¹ skórê". Czego mo¿esz szukaæ w Cienistych Piaskach?}
+{102}{Ara_1n}{Witaj. Czego mo¿esz szukaæ w Cienistych Piaskach?}
+{103}{Ara_1b}{Nie bardzo lubimy obcych. Czego szukasz w Cienistych Piaskach?}
+{104}{}{Jestem z ma³ej wioski na zachód st¹d. Tylko badam okolicê i nie mam wobec was z³ych zamiarów.}
+{105}{}{Co ci do tego?}
+{106}{}{Moje sprawy zatrzymujê dla siebie.}
+{107}{}{Jestem z Krypty na zachodzie. Moi ludzie umieraj¹ z pragnienia, i muszê zdobyæ hydroprocesor, ¿eby mogli prze¿yæ.}
+{108}{}{Ratujê ca³y lud przed zag³ad¹!}
+{109}{}{Cieniste Piaski? O rany, to nie to miejsce! Lepiej ju¿ sobie pójdê.}
+{110}{}{Hmm?}
+{111}{Ara_2}{Nic mi nie wiadomo o ¿adnej wsi na zachodzie.}
+{112}{}{Przeby³eœ góry na zachód st¹d?}
+{113}{}{Wiêc?}
+{114}{}{Mówisz, ¿e znasz ka¿de miejsce st¹d do oceanu?}
+{115}{}{Wierzê, ¿e by³eœ w wielu miejscach, ale musia³eœ przegapiæ moj¹ maleñk¹ wioseczkê.}
+{116}{Ara_3}{No có¿, ku mojemu ¿alowi, nie. Co wymaga zapytania, jak tobie uda³o siê tamtêdy przejœæ?}
+{117}{}{By³o to bardzo trudne, ale uda³o mi siê.}
+{118}{}{Co ci do tego?}
+{119}{}{S³uchaj, wszystko czego chcê to trochê zapasów i parê rzeczy, ale chêtnie pójdê gdzie indziej.}
+{120}{}{Nie muszê ci odpowiadaæ.}
+{121}{Ara_4}{Tak, hmmm, tak, tak, tak. Uwierzê ci... na razie. Ale my ³atwo nie obdarzamy zaufaniem, zw³aszcza tych, którzy mog¹ byæ niebezpieczni. Wiedz, ¿e Seth i ja bêdziemy ciê obserwowaæ.}
+{122}{Ara_5}{To moja osada, wêdrowcze. Musisz odpowiedzieæ na moje pytania lub odejœæ. To nie jest kwestia wyboru.}
+{123}{}{Nie muszê ci niczego mówiæ.}
+{124}{}{Nie mam wobec was z³ych zamiarów, naprawdê.}
+{125}{}{Nie denerwuj siê, odchodzê.}
+{126}{Ara_6}{Bezczelnoœæ ci nie pomo¿e. Uwa¿am, ¿e twoja osoba powinna opuœciæ Cieniste Piaski. I ju¿ nie wracaæ. Nie bêdzie tu mile widziana.}
+{127}{Ara_7}{Niech tak bêdzie, wêdrowcze. Seth ciê odprowadzi.}
+{128}{Ara_8}{Musisz uwa¿aæ mnie za ca³kiem naiwnego, wêdrowcze. Pokonanie gór w pojedynkê?}
+{129}{}{Nie liczy siê co uwa¿am. Prawd¹ jest, ¿e przychodzê z gór.}
+{130}{}{Nie, po prostu za g³upiego.}
+{131}{Ara_9}{Jak powiedzia³ Dharma, "Ostro¿noœæ jest ¿yciem w niepewnych czasach". Twoje pochodzenie nie jest istotne. Twoje intencje - owszem.}
+{132}{}{OK.}
+{133}{Ara_9A}{Pozwolê ci zostaæ, lecz wiedz, ¿e Seth i ja bêdziemy obserwowaæ ka¿dy twój ruch. Nawet nie rozwa¿aj sprowadzania tu k³opotów.}
+{134}{Ara_10}{I zatrzymaæ je mo¿esz. Ale to nie jest goœcinna osada. Jeœli takiej szukasz, udaj siê do Z³omowa. Mo¿esz odwiedzaæ Cieniste Piaski, lecz wiedz, ¿e mamy ciê na oku.}
+{135}{Ara_11}{Krypta. Jak mam ci zaufaæ, wêdrowcze, skoro nie mówisz mi prawdy?}
+{136}{}{Nie, naprawdê, przybywam z Krypty!}
+{137}{}{Krypta to... nazwa mojej wsi.}
+{138}{}{Masz racjê, to k³amstwo.}
+{139}{Ara_12}{Hmmm, tak, tak, tak. Opowiedz mi zatem o tej Krypcie.}
+{140}{}{Có¿... Krypta to w rzeczywistoœci nazwa mojej osady. Nazywamy j¹ tak, bo le¿y w dolinie, pomiêdzy dwoma wysokimi urwiskami.}
+{141}{}{To wielki kompleks wbudowany w górê daleko na zachodzie. Mój lud przebywa tam od 80 lat.}
+{142}{}{Po co ci te informacje?}
+{143}{Ara_13}{Wêdrowcze, uwierzê ci... na razie. Mo¿esz przebywaæ w Cienistych Piaskach, lecz ostrzegam ciê, ¿e ka¿dy twój ruch bêdzie obserwowany.}
+{144}{Ara_14}{Nie akceptujê ³garstw, wêdrowcze.}
+{145}{}{Nie muszê ci niczego mówiæ.}
+{146}{}{Nie mam wobec was z³ych zamiarów, naprawdê.}
+{147}{}{Nie denerwuj siê, odchodzê.}
+{148}{Ara_15}{Hmmm. Mo¿esz odwiedzaæ Cieniste Piaski. Ale trzymaj siê z dala od k³opotów.}
+{149}{}{Co mo¿esz mi powiedzieæ o innych osadach w okolicy?}
+{150}{}{Co dzieje siê w okolicy?}
+{151}{}{Dziêki. Czeœæ.}
+{152}{Ara_17}{Witaj ponownie, m³ody wêdrowcze. Mam nadziejê, ¿e twój pobyt tutaj by³ przyjemny.}
+{153}{}{By³o wspaniale. Czy mogê zadaæ ci kilka pytañ?}
+{154}{}{Owszem. Muszê siê ju¿ jednak zbieraæ.}
+{155}{}{Jeœli ktoœ lubi kana³y œciekowe.}
+{156}{}{Nu-hum.}
+{157}{Ara_18n}{Witaj. Czy mogê ci w czymœ pomóc tego piêknego dnia?}
+{158}{Ara_18b}{Czy czegoœ chcesz?}
+{159}{}{Czy móg³byœ opowiedzieæ mi o Cienistych Piaskach?}
+{160}{}{Zastanawiam siê, czy mogê ci zadaæ kilka pytañ?}
+{161}{}{Nie, naprawdê, w³aœnie wychodzê.}
+{162}{}{Nuh-um.}
+{163}{Ara_19}{Oczywiœcie. Co pragniesz wiedzieæ?}
+{164}{Ara_19b}{Mo¿esz pytaæ, lecz proszê, pospiesz siê. S¹ wa¿niejsze sposoby wykorzystania mojego czasu.}
+{165}{}{Co mo¿esz mi powiedzieæ o innych osadach w okolicy?}
+{166}{}{Co siê dzieje w okolicy?}
+{167}{}{Dziêki. Czeœæ.}
+{168}{Ara_20g}{Ach. Szczêœliwych podró¿y, wêdrowcze.}
+{169}{Ara_20n}{¯egnaj.}
+{170}{Ara_20b}{Mam w³aœnie tak¹ nadziejê.}
+{171}{Ara_21}{Dharma rzek³ "Cz³owiek i jego krn¹brny jêzyk szybko siê rozstaj¹". Wróæ, gdy nabierzesz nieco manier.}
+{172}{Ara_22}{Miarka siê przebra³a, wêdrowcze. Seth wyprowadzi ciê z osady. Nie wracaj. Twoje powitanie nie bêdzie przyjemne.}
+{173}{Ara_23g}{Spo³ecznoœæ Cienistych Piasków jest ca³kiem jak rodzina - taka, która trzyma tylko ze sob¹.}
+{174}{Ara_23b}{Jesteœmy bardzo zwart¹ spo³ecznoœci¹. Jak powiedzia³ Dharma, "Wiele patyków mo¿na z³amaæ. Wi¹zki nie".}
+{175}{}{Co tu wokó³ macie?}
+{176}{}{Interesuj¹ce. Czy w okolicy s¹ jakieœ inne osady?}
+{177}{}{Jak milusio. No có¿, lepiej sobie pójdê.}
+{178}{Ara_24}{Ogród jest po po³udniowej stronie. Zagroda braminów po pó³nocnej, ale ich zapach jest, obawiam siê, doœæ intensywny o tej porze roku.}
+{179}{}{Coœ jeszcze?}
+{180}{Ara_24a}{Jesteœmy ma³¹ i samowystarczaln¹ osad¹, wiêc nie mam wiele wiêcej do powiedzenia.}
+{181}{}{Dziêki. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{182}{}{Dziêki. Czeœæ.}
+{183}{Ara_24b}{To ma³a miejscowoœæ.}
+{184}{}{Dziêki. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{185}{Ara_25b}{Dharma powiedzia³ "Nie zwa¿aj na zew wilka, gdy lis buszuje w kurniku".}
+{186}{Ara_25g}{Z³omowo le¿y na po³udnie st¹d, jednak niewiele jest tam do zobaczenia. Z opowieœci wiem, ¿e jeszcze dalej na po³udnie s¹ miasta.}
+{187}{}{Dziêki. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{188}{Ara_26}{Jest spokojnie, na szczêœcie.}
+{189}{}{Wydaje siê to... nudne.}
+{190}{}{No có¿, to mogê zadaæ ci jeszcze kilka pytañ?}
+{191}{}{Dobrze. Miejmy nadziejê, ¿e pozostanie tak przez jakiœ czas.}
+{192}{Ara_27}{Tak. W³aœnie tak nam siê podoba.}
+{193}{}{Co mo¿esz mi powiedzieæ o innych osadach w tej okolicy?}
+{194}{}{Co dzieje siê w okolicy?}
+{195}{}{Dziêki. Czeœæ.}
+{196}{Ara_28}{Ach tak. Wielkie sfory radskorpionów wybijaj¹ nasze stada. Nie wiemy sk¹d przychodz¹ i obojêtnie ile zabijemy, ci¹gle jest ich wiêcej!}
+{197}{}{Kontynuuj.}
+{198}{Ara_28a}{A teraz te potwory atakuj¹ moich ludzi! Razlo próbuje odkryæ lekarstwo na ich jad, ale nie jestem pewien, jak mu to wychodzi.}
+{199}{}{Có¿, pomogê wam siê ich pozbyæ!}
+{200}{}{Mogê wam pomóc za op³at¹.}
+{201}{}{To okropne. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{202}{Ara_29}{Ummm, tak, tak, tak, tak, tak! Proszê, porozmawiaj z Razlo. On posiada znacznie wiêcej informacji o tych stworzeniach ni¿ ja.}
+{203}{Ara_30}{Jak powiedzia³ Dharma, "Ci, którzy opiekuj¹ siê w³asnym stadem, znaj¹ pasterza".}
+{204}{}{Wiem, ¿e trudno ci mi zaufaæ, ale chcê pomóc.}
+{205}{}{Twój wybór. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{206}{Ara_30a}{Proszê, pospiesz siê i uwolnij nas od tych radskorpionów!}
+{207}{Ara_31}{Sprawy siê teraz znacznie bardziej uspokoi³y. Razlo pracuje nad odtrutk¹ na jad radskorpionów, a z ni¹ powinniœmy byæ w stanie zwalczyæ to, co z nich zosta³o.}
+{208}{}{Nie ma o czym mówiæ. Mogê zadaæ ci jeszcze kilka pytañ?}
+{209}{}{Ju¿ nie musicie siê tym martwiæ. Ich gniazdo zosta³o przeze mnie zniszczone.}
+{210}{Ara_32}{Jesteœ prawdziwym bohaterem! Wiedz, ¿e mieszkañcy Cienistych Piasków s¹ ci bezgranicznie wdziêczni.}
+{211}{}{Dziêki. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{212}{}{Dziêki. Czeœæ!}
+{213}{Ara_33}{Je¿eli jesteœ w stanie zrozumieæ co teraz czujê, proszê, spróbuj odnaleŸæ moj¹ córkê.}
+{214}{Ara_35}{Od kiedy dziêki tobie wróci³a do mnie moja Tandi, wszystko uk³ada siê ca³kiem œwietnie. Masz moj¹ wieczn¹ wdziêcznoœæ, wêdrowcze.}
+{215}{}{Co mo¿esz mi powiedzieæ o innych osadach w okolicy?}
+{216}{}{Co dzieje siê w okolicy?}
+{217}{}{Dziêki. Czeœæ.}
+{218}{Ara_36}{Tak, tak. Umm. ¯yczê ci mi³ego pobytu.}
+{219}{Ara_37}{Ach, wêdrowiec. Jak ci idzie poszukiwanie mojej córki?}
+{220}{}{Przykro mi, ale jeszcze nie mam jej ze sob¹. Odnajdê j¹ jednak.}
+{221}{}{Przykro mi, ale ona nie ¿yje.}
+{222}{}{Duh-nada.}
+{223}{}{Przykro mi, ale jeszcze nie mam jej ze sob¹. Odnajdê j¹ jednak.}
+{224}{}{Powoli, lecz robiê pewne postêpy. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{225}{}{Guunngggg!}
+{226}{Ara_37a}{Dziêkujê ci za twoje wysi³ki. Proszê, zostaw mnie samego z moim ¿alem.}
+{227}{Ara_38}{Oby moje myœli sta³y siê skrzyd³ami dla twych stóp. Proszê, spiesz siê.}
+{228}{Ara_39}{Dziêki Opatrznoœci, ¿e tu jesteœ! Rozpaczliwie potrzebujê pomocy. Moja córka, Tandi, zosta³a uprowadzona. Nie wiem co czyniæ!}
+{229}{}{Próbowaliœcie j¹ uratowaæ?}
+{230}{}{Ee?}
+{231}{Ara_39a}{Moi ludzie nie s¹ wprawieni w czymœ takim. Ju¿ trzy patrole wyruszy³y na poszukiwania, ale ¿aden nie powróci³. Czy mi pomo¿esz?}
+{232}{}{OK. Kto móg³ j¹ porwaæ?}
+{233}{}{Zrobiê to... za op³at¹.}
+{234}{}{Przykro mi, ale mam inne sprawy, które muszê za³atwiæ.}
+{235}{Ara_40}{Seth i ja uwa¿amy, ¿e jeden z klanów najeŸdŸców jest za to odpowiedzialny - to kara za nasz opór wobec nich. WeŸ tê w³óczniê. Zosta³a znaleziona w miejscu, gdzie po raz ostatni widziano moj¹ córkê.}
+{236}{}{OK, sprawdzê to.}
+{237}{Ara_40A}{Proszê, porozmawiaj z Sethem. On sporo wie o tych najeŸdŸcach. I powodzenia, wêdrowcze.}
+{238}{Ara_41}{Oczywiœcie, nagrodzê ciê. PrzyprowadŸ j¹, a otrzymasz 500 kapsli. Pomo¿esz mi?}
+{239}{}{OK. Kto móg³ j¹ porwaæ?}
+{240}{}{Ee... nie, dziêki. Mam inne rzeczy, które muszê za³atwiæ.}
+{241}{Ara_42}{Jak rzek³ Dharma, "Gdy polujesz na wilki, nie sprowadzaj lwa do swego schronienia". Jeœli nie pomo¿esz, musisz st¹d odejœæ.}
+{242}{Ara_43}{Na zawsze bêdê twoim d³u¿nikiem za tw¹ odwagê i dzielnoœæ, wêdrowcze. Oto twoja nagroda.}
+{243}{}{Dziêki. Czy mogê najpierw zadaæ ci jeszcze kilka pytañ?}
+{244}{}{Dziêki.}
+{245}{Ara_44}{Do naszego kolejnego spotkania w przyjaŸni. Oby woda, któr¹ znajdziesz na pustyni, nie rozœwietla³a ciê w mroku.}
+{246}{Ara_45}{Co ty wyrabiasz? Od³ó¿ to natychmiast!}
+{247}{Ara_46}{To nie twoje. Nie zabieraj tego, proszê.}
+{248}{Ara_47}{Natychmiast przestañ!}
+{249}{Ara_48}{Co tu robisz? Za¿ywam spoczynku, przyjdŸ rano!}
+{250}{Ara_49}{Jestem nim. Przewodzê tej skromnej osadzie Cieniste Piaski.}
+{251}{Ara_49A}{Dharma by³ wielkim, religijnym cz³owiekiem. Uwa¿ne s³uchanie jego maksym wyjdzie ci na dobre.}
+{252}{Ara_50}{To moja córka. To ona czyni to ciê¿kie ¿ycie wartym ¿ycia.}
+{253}{Ara_51}{Hmm, tak, tak. Razlo jest naszym lekarzem. Jeœli coœ komuœ dolega, on potrafi to uleczyæ. Za³o¿ê siê, ¿e w tej chwili jest on tylko parê kroków na pó³noc od nas.}
+{254}{Ara_52}{Wspania³y m³odzieniec. Kapitan naszych Stra¿ników. Zapewne jest teraz w ich kwaterze.}
+{255}{Ara_53}{Cudowna kobieta. W³aœnie obchodzi³a swoje szeœædziesi¹te urodziny! Spêdza wiele czasu z Razlo, zagaduj¹c go swoj¹ istn¹ skarbnic¹ opowieœci.}
+{256}{Ara_54}{Ummm, um, um. S¹ bardzo Ÿli. Wiemy o dwóch bandach najeŸdŸców. Nazywaj¹ siê ¯mijami i Chanami.}
+{257}{Ara_55}{Zachowaj wielk¹ ostro¿noœæ wobec takich jak oni. NajeŸdŸcy, którzy s¹ fanatycznie religijni, mog¹ byæ bardzo niebezpieczni. Nikt tutaj nie wie nic o ich bazie.}
+{258}{Ara_56}{Umm, tak, tak. Chanowie s¹ wredniejsi od ¯mij, mo¿esz mi wierzyæ. Ci barbarzyñcy atakuj¹ z po³udniowego wschodu.}
+{259}{Ara_57}{To z³e stworzenia. Uwa¿aj na ich ogony. Ich jad mo¿e byæ zabójczy, je¿eli ktoœ siê nim nie zajmie.}
+{260}{Ara_58}{Tak, tak, tak. Wed³ug pog³osek to potwór stworzony podczas wojny.}
+{262}{Ara_60}{Z³omowo le¿y na po³udnie st¹d. Tamtejsi kupcy co jakiœ czas przybywaj¹ tu, by handlowaæ, ale niezbyt czêsto.}
+{263}{Ara_61}{Zarówno ¯mije, jak i Chanowie, u¿ywaj¹ w³óczni. Wiemy o tym z ich ataków.}
+{264}{Ara_62}{Znajdziesz j¹ u wejœcia do osady. Seth pewnie tam bêdzie.}
+{265}{Ara_63}{Nikt nie wie na pewno, gdzie siê ono znajduje, ale sfory wydaj¹ siê nadchodziæ z pó³nocnego wschodu.}
+{266}{Ara_64}{Nie wiem.}
+{267}{Ara_65}{Naprawdê nie mogê powiedzieæ, ¿ebym o tym s³ysza³.}
+{268}{Ara_66}{Hm, nie. Nie, nie s³ysza³em o tym.}
+{269}{Ara_67}{Jak mówi³em...}
+{270}{Ara_68}{Jak wspomnia³em wczeœniej...}
+{271}{Ara_69}{Jak powiedzia³em...}
+{272}{Ara_70}{Jak ci ju¿ wczeœniej powiedzia³em...}
+{273}{Ara_71}{Nie bêdê siê powtarza³ na tyle czêsto, ¿ebym zacz¹³ sprawiaæ wra¿enie idioty. Proszê ciê o uwagê nastêpnym razem.}
+{274}{Ara_72}{Nie bêdê strzêpi³ jêzyka tylko dlatego, ¿e nie potrafisz s³uchaæ.}
+{275}{Ara_73}{IdŸ porozmawiaæ o tym z Sethem. On bêdzie o tym wiedzia³ wiêcej ode mnie.}
+{276}{}{}
+{277}{}{Nie bêdê traci³ czasu dla zdradliwych przybyszów.}
+
+# tell me about generic responses
+{980}{Ara_64}{Nie wiem.}
+{981}{Ara_65}{Naprawdê nie mogê powiedzieæ, ¿ebym o tym s³ysza³.}
+{982}{Ara_66}{Hm, nie. Nie, nie s³ysza³em o tym.}
+
+{1000}{}{Aradesh}
+{1001}{}{Dharma}
+{1002}{}{Tandi}
+{1003}{}{Razlo}
+{1004}{}{najeŸdŸcy}
+{1005}{}{¿mije}
+{1006}{}{Chanowie}
+{1007}{}{skorpiony}
+{1008}{}{Szpon}
+{1009}{}{Z³omowo}
+{1010}{}{w³ócznia}
+{1011}{}{kwatera}
+{1012}{}{gniazdo}
+{1013}{}{skorpion}
+{1014}{}{Stra¿ników}
+{1015}{}{Seth}
+
+{1100}{Ara_49}{Jestem nim. Przewodzê tej skromnej osadzie Cieniste Piaski.}
+{1101}{Ara_49A}{Dharma by³ wielkim, religijnym cz³owiekiem. Uwa¿ne s³uchanie jego maksym wyjdzie ci na dobre.}
+{1102}{Ara_50}{To moja córka. To ona czyni to ciê¿kie ¿ycie wartym ¿ycia.}
+{1103}{Ara_51}{Hmm, tak, tak. Razlo jest naszym lekarzem. Jeœli coœ komuœ dolega, on potrafi to uleczyæ. Za³o¿ê siê, ¿e w tej chwili jest on tylko parê kroków na pó³noc od nas.}
+{1104}{Ara_54}{Ummm, um, um. S¹ bardzo Ÿli. Wiemy o dwóch bandach najeŸdŸców. Nazywaj¹ siê ¯mijami i Chanami.}
+{1105}{Ara_55}{Zachowaj wielk¹ ostro¿noœæ wobec takich jak oni. NajeŸdŸcy, którzy s¹ fanatycznie religijni, mog¹ byæ bardzo niebezpieczni. Nikt tutaj nie wie nic o ich bazie.}
+{1106}{Ara_56}{Umm, tak, tak. Chanowie s¹ wredniejsi od ¯mij, mo¿esz mi wierzyæ. Ci barbarzyñcy atakuj¹ z po³udniowego wschodu.}
+{1107}{Ara_57}{To z³e stworzenia. Uwa¿aj na ich ogony. Ich jad mo¿e byæ zabójczy, je¿eli ktoœ siê nim nie zajmie.}
+{1108}{Ara_58}{Tak, tak, tak. Wed³ug pog³osek to potwór stworzony podczas wojny.}
+{1109}{Ara_60}{Z³omowo le¿y na po³udnie st¹d. Tamtejsi kupcy co jakiœ czas przybywaj¹ tu, by handlowaæ, ale niezbyt czêsto.}
+{1110}{Ara_61}{Zarówno ¯mije, jak i Chanowie, u¿ywaj¹ w³óczni. Wiemy o tym z ich ataków.}
+{1111}{Ara_62}{Znajdziesz j¹ u wejœcia do osady. Seth pewnie tam bêdzie.}
+{1112}{Ara_63}{Nikt nie wie na pewno, gdzie siê ono znajduje, ale sfory wydaj¹ siê nadchodziæ z pó³nocnego wschodu.}
+{1113}{Ara_57}{To z³e stworzenia. Uwa¿aj na ich ogony. Ich jad mo¿e byæ zabójczy, je¿eli ktoœ siê nim nie zajmie.}
+{1114}{Ara_62}{Znajdziesz j¹ u wejœcia do osady. Seth pewnie tam bêdzie.}
+{1115}{Ara_52}{Wspania³y m³odzieniec. Kapitan naszych Stra¿ników. Zapewne jest teraz w ich kwaterze.}

@@ -1,0 +1,21 @@
+#Fallout 1 Update Mod v1.2.5 traduit par Ultramedecine - 15 septembre 2009
+{100}{}{Voici le Doyen.}
+{101}{}{Je suis ravi de vous rencontrer. J'espère que vous trouvez notre petit village bien plaisant.}
+{102}{}{Oui.}
+{103}{}{Non, il n'y a pas assez d'action dans le coin.}
+{104}{}{Excellent. J'ai une faveur à vous demander. Je vous assure que vous serez bien récompensé pour vos services à la communauté.}
+{105}{}{Je vous écoute...}
+{106}{}{C'est juste un passage, mais peut-être aimerez vous entendre ce qui suit.}
+{107}{}{Je suis tout ouïe...}
+{108}{}{Depuis quelques temps, nous sommes infestés par des radscorpions. Tous ceux envoyés pour détruire ces monstres ne sont jamais revenus. Je vous donnerai armes et armure si vous allez à leur repaire et si vous les exterminez.}
+{109}{}{Cela me semble correct.}
+{110}{}{Non merci. Ce n'est pas mon genre.}
+{111}{}{C'est honteux ! Veuillez quitter les lieux.}
+{112}{}{Excellent. Seth vous guidera jusqu'au repaire. Prenez ces objets, ils vous seront d'une grande aide.}
+{113}{}{Merci de nous aider dès que possible. Le temps nous est compté.}
+{114}{}{Je ne parle pas à des gens de votre genre, étranger.}
+{115}{}{Merci ! Vous avez sauvé notre village d'un grand péril. Voyager sans risque autour du village est maintenant possible. Acceptez ceci comme symbole de notre gratitude. [Il vous donne des caps]}
+{116}{}{Merci ! Nous vous devons beaucoup !}
+
+
+#Fallout 1 Update Mod v1.2.5 traduit par Ultramedecine - 15 septembre 2009

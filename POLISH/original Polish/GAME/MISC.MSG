@@ -1,0 +1,66 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Czy na pewno chcesz zrezygnowaæ?}
+{1}{}{Wersja demo.}
+{2}{}{U¿yta zostanie postaæ domyœlna.}
+{3}{}{Zapisano zrzut ekranu.}
+{4}{}{Gra do szybkiego odczytu za³adowana.}
+{5}{}{Gra do szybkiego zapisu zapisana.}
+{6}{}{Koniec limitu czasowego wersji demo.}
+{7}{}{Pip-Boy nie jest dostêpny podczas walki!}
+{8}{}{B³¹d w trakcie zapisywania zrzutu ekranu.}
+{9}{}{WSTÊP}
+{10}{}{NOWA GRA}
+{11}{}{WCZYTAJ}
+{12}{}{TWÓRCY}
+{13}{}{WYJŒCIE}
+{14}{}{Fallout (c) 1997 Interplay Productions. All rights reserved.}
+{15}{}{Punkty akcji}
+{16}{}{PW}
+{17}{}{Detektor ruchu nie zosta³ zainstalowany.}
+{18}{}{Detektor ruchu jest roz³adowany.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{B³¹d w trakcie zapisu konfiguracji!}
+{101}{}{Ustawienia gry nie zosta³y zapisane.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Odczuwasz silne md³oœci.}
+{1001}{}{Odczuwasz silne md³oœci, a po lekkich wymiotach tak¿e niewielkie zmêczenie.}
+{1002}{}{Odczuwasz silne zmêczenie, wymiotom nie ma koñca, a tempo twojego zdrowienia uleg³o pogorszeniu.}
+{1003}{}{Obficie krwawisz, jest ci bardzo niedobrze, a ponadto wypadaj¹ ci w³osy.}
+{1004}{}{Obficie i bezustannie krwawisz. Nawet twoje wymiociny zabarwione s¹ krwi¹. Skóra odpada z ciebie p³atami.}
+{1005}{}{Krwawienie twoich jelit wywo³a³o ciê¿k¹ biegunkê. Masz wra¿enie, ¿e spuch³o ci ca³e cia³o, i pogr¹¿asz siê w bolesnej agonii.}
+{1006}{}{Umierasz na chorobê popromienn¹.}
+{1007}{}{Otrzymujesz du¿¹ dawkê promieniowania.}
+{1008}{}{Licznik Geigera trzeszczy.}
+{1009}{}{Licznik Geigera szaleñczo trzeszczy.}
+#
+# Message used in actions.c
+#
+{2000}{}{W tym momencie nie potrafisz siê tam dostaæ.}
+{2001}{}{Zamek jest zaklinowany.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Ulegasz zatruciu!}
+{3001}{}{Ponosisz obra¿enia wskutek zatrucia.}
+#
+# from queue.c
+#
+{4000}{}{Z powodu twojej nieudolnoœci ³adunek detonuje przedwczeœnie.}
+#
+# from combatai.c
+#
+{5000}{}{wykorzystuje obiekt}
+{5001}{}{nie ma amunicji, potrzebnej do prze³adowania dzier¿onej przezeñ broni, któr¹ jest}
+{5002}{}{prze³adowuje dzier¿on¹ przez siebie broñ, któr¹ jest}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{¯e co?}

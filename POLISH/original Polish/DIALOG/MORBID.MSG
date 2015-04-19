@@ -1,0 +1,144 @@
+{100}{}{Widzisz Doktora Kostuchê.}
+{101}{}{Jestem Doktor Kostucha, mogê ci w czymœ pomóc?}
+{102}{}{Taak, potrzebna mi pomoc.}
+{103}{}{Potrzebujê pomocy medycznej.}
+{104}{}{Nie, nie dzisiaj.}
+{105}{}{Nng.}
+{106}{}{Ya.}
+{107}{}{No có¿, dobrze. Zajrzyj do mnie jeszcze kiedyœ.}
+{108}{}{No có¿, skoro nie dzisiaj, to mo¿e w niedalekiej przysz³oœci.}
+{109}{}{Na szczêœcie nie. ¯egnaj.}
+{110}{}{Bêdziemy musieli siê przekonaæ. Ale w¹tpiê.}
+{111}{}{Hmm, popatrzmy}
+{112}{}{Jesteœ w niemal doskona³ym zdrowiu. Nale¿y siê 10 kapsli za badanie.}
+{113}{}{Dziesiêæ kapsli za tak¹ diagnozê? Chyba sobie ¿artujesz.}
+{114}{}{Proszê. Oto twoje pieni¹dze.}
+{115}{}{Ja nigdy nie ¿artujê. A ju¿ szczególnie kiedy chodzi o fizyczne uszkodzenia. Zap³aæ, bo bêdê zmuszony siêgn¹æ po inne formy wynagrodzenia - o wiele bardziej bolesne ni¿ moja zwyczajowa stawka.}
+{116}{}{Dobra, oto twoje pieni¹dze.}
+{117}{}{Mo¿esz mnie poca³owaæ. Wychodzê.}
+{118}{}{Jak sobie ¿yczysz. Kuguar, B³ysk, wska¿cie naszemu "pacjentowi" drogê do laboratorium.}
+{119}{}{Dziêkujê za wizytê. Zagl¹daj do mnie czêœciej.}
+{120}{}{Nie masz doœæ pieniêdzy. Mam specjalne podejœcie do d³u¿ników - nie tolerujê ich. B³ysk, Kuguar, zabierzcie nasze nowe Ÿród³o dochodów do laboratorium, celem przetworzenia.}
+{121}{}{Dobra, mam twoje wyniki: }
+{122}{}{Jesteœ }
+{123}{}{Op³ata wynosi }
+{124}{}{. P³atne przed rozpoczêciem leczenia. ¯adnych wyj¹tków. P³acisz?}
+{125}{}{Tak.}
+{126}{}{Nie, nie mam pieniêdzy. Mogê zap³aciæ póŸniej?}
+{127}{}{Nie.}
+{128}{}{Ya.}
+{129}{}{Nuh.}
+{130}{}{Nie. Nie po¿yczam nikomu, absolutnie nikomu i ¿adnych kwot. Wynoœ siê ¿ebraku.}
+{131}{}{To twoje ¿ycie. Do widzenia.}
+{132}{}{Doskonale. Zaczynajmy. To mo¿e trochê zaboleæ...}
+{133}{}{I ju¿. Zajrzyj do mnie jeszcze kiedyœ!}
+{134}{}{Oo, jesteœ z powrotem. W czym mogê ci pomóc?}
+{135}{}{Trzeba mnie opatrzyæ.}
+{136}{}{W niczym, chcê tylko pogadaæ.}
+{137}{}{Wock!}
+{138}{}{Rób to gdzie indziej, jestem zajêty.}
+{139}{}{Hmm. Nie podoba mi siê twój wygl¹d. Co mogê dla ciebie zrobiæ? Nigdy nie odmawiam us³ugi klientowi, który ma gotówkê.}
+{140}{}{Potrzebujê pomocy.}
+{141}{}{Potrzebujê pomocy medycznej.}
+{142}{}{Dzisiaj nic. Dziêki.}
+{143}{}{Hep.}
+{144}{}{Oo, to znowu ty. Podoba mi siê twój styl, nawet pomimo tego, ¿e ciebie nie lubiê. W czym mogê ci pomóc?}
+{145}{}{Trzeba mnie opatrzyæ.}
+{146}{}{W niczym, chcê tylko pogadaæ.}
+{147}{}{Wock!}
+{148}{}{Aaa, klient! W czym mogê ci pomóc?}
+{149}{}{Trzeba mnie opatrzyæ.}
+{150}{}{W niczym, chcê tylko pogadaæ.}
+{151}{}{Cieszysz siê na mój widok?}
+{152}{}{Wock!}
+{153}{}{Ostatnio spad³y mi obroty. Cieszê siê, ¿e jeszcze trafiaj¹ mi siê klienci. Nie ¿eby przeszkadza³o mi twoje towarzystwo.}
+{154}{}{Doskonale, trzeba mnie opatrzyæ.}
+{155}{}{Dlaczego spad³y ci obroty?}
+{156}{}{Oczywiœcie, rozumiem. Mi³ego dnia.}
+{157}{}{Có¿, jeœli bêdziesz czegoœ potrzebowaæ wst¹p do mnie. Nikt nie oferuje lepszych us³ug ni¿ ja!}
+{158}{}{Mam konkurencjê, jeœli tego jeszcze nie wiesz.}
+{159}{}{Skargi u Killiana nie pomog¹. Nie widzi nic z³ego w nowych mieszkañcach.}
+{160}{}{Te cholerne Dzieci wprowadzi³y siê do s¹siedztwa i straci³em niemal wszystkich klientów. Nie podoba mi siê to, ale nie mogê obni¿yæ cen to takiego poziomu jaki panuje u nich. Mogê jedynie œwiadczyæ lepsze us³ugi.}
+{161}{}{Aaa to dobrze, bo trzeba mnie opatrzyæ.}
+{162}{}{Hmm, lepsze ceny, interesuj¹ce. Dziêkujê.}
+{163}{}{Ooo, sta³y klient. Doskonale! W czym mogê ci pomóc?}
+{164}{}{Trzeba mnie opatrzyæ.}
+{165}{}{W niczym, chcê tylko pogadaæ.}
+{166}{}{Wock!}
+{167}{}{Mam nadziejê, ¿e masz dobry powód, ¿eby mi przeszkadzaæ. Mój czas jest bardzo cenny.}
+{168}{}{Umieram! Pomó¿ mi!}
+{169}{}{Wybacz, ¿e ci przeszkadzam, ale potrzebujê pomocy.}
+{170}{}{Aggh!}
+{171}{}{Nie podobaj¹ mi siê twoje ¿arty. OdejdŸ i pozwól mi wróciæ do pracy.}
+{172}{}{Hmm. Hmm, wygl¹dasz dobrze. Mo¿e musisz trochê odpocz¹æ. IdŸ do Noclegowni, to zaraz za rogiem. Dobranoc.}
+{173}{}{Przykro mi, w nocy nie leczê idiotów. To pewnie ta pe³nia i lunatyzm. Dobrej nocy.}
+{174}{}{To znowu ty. Mam nadziejê, ¿e masz dobry powód, ¿eby mi przeszkadzaæ...}
+{175}{}{Umieram! Pomó¿ mi!}
+{176}{}{Wybacz, ¿e ci przeszkadzam, ale potrzebujê pomocy.}
+{177}{}{Aggh!}
+# TRANSLATION NOTES
+# When the player gets help from the Doctor, it will build a diagnosis report
+# from the lines below. First, it uses one of lines 178-182 to report
+# the character's status. Second, it adds on one of lines 183-186.
+# If the player is poisoned, it appends one of lines 187-190; if
+# the player is irradiated, it adds a line from 191-194 depending on
+# the severity of the radiation, and then adds line 195 as well.
+{178}{}{w doskona³ym zdrowiu,}
+{179}{}{lekko ranny,}
+{180}{}{doœæ powa¿nie ranny,}
+{181}{}{ciê¿ko ranny,}
+{182}{}{bliski œmierci,}
+{183}{}{ taka przynajmniej jest moja diagnoza.}
+{184}{}{ tak wynika z moich badañ.}
+{185}{}{ bez cienia w¹tpliwoœci.}
+{186}{}{ przynajmniej moim zdaniem.}
+{187}{}{ Z ca³¹ pewnoœci¹ cierpisz z powodu zatrucia.}
+{188}{}{ Masz w organizmie truciznê.}
+{189}{}{ Wiesz, ¿e masz w organizmie truciznê?}
+{190}{}{ W twoim krwioobiegu znajduj¹ siê œmiertelne toksyny.}
+{191}{}{ Twój organizm zosta³ w niewielkim stopniu napromieniowany.}
+{192}{}{ Twój organizm zosta³ w powa¿nym stopniu napromieniowany.}
+{193}{}{ Twój organizm przyj¹³ straszliw¹ dawkê napromieniowania.}
+{194}{}{ Jeszcze nigdy nie mia³em takiego odczytu. Uwa¿am, ¿e d³ugo ju¿ nie poci¹gniesz. Dajê ci dwa do trzech tygodni.}
+{195}{}{ Nie mogê na to poradziæ.}
+{196}{}{Mam nadziejê, ¿e masz dobre powody, by mi przeszkadzaæ. Mój czas jest bardzo cenny.}
+{197}{}{Umieram! Pomó¿ mi!}
+{198}{}{Przepraszam, ¿e ci przeszkadzam, ale potrzebujê pomocy medycznej.}
+{199}{}{Aggh!}
+{200}{}{Nie podoba mi siê twoje poczucie humoru. WyjdŸ i pozwól mi wróciæ do pracy.}
+{201}{}{Hmm. Wygl¹dasz dobrze. Mo¿e potrzeba ci trochê odpoczynku. Zajrzyj do Noclegowni, to zaraz za rogiem. Dobranoc.}
+{202}{}{Przykro mi, ale w nocy nie leczê idiotów. To pewnie przez t¹ pe³niê i lunatyzm. Dobrej nocy.}
+{203}{}{To znowu ty. Mam nadziejê, ¿e masz dobre powody, by mi przeszkadzaæ...}
+{204}{}{Hej! To mój prywatny pokój!}
+{205}{}{}
+{206}{}{}
+{207}{}{No dalej rzeŸniku!}
+{208}{}{Czekaj!}
+{209}{}{Auæ!}
+{210}{}{Nawet nie próbuj zaczynaæ rozmowy. Nie wykrêcisz siê!}
+{211}{}{A po co?}
+{212}{}{Nie stanowiê dla ciebie ¿adnego zagro¿enia!}
+{213}{}{Koñczê twoj¹ dzia³alnoœæ. Tu i teraz!}
+{214}{}{Nie! Nie pozwolê ci na to! Gretch, przynieœ }
+{215}{}{Dlaczego?!}
+{216}{}{Wiem co tu robisz i nie mam zamiaru ciê powstrzymywaæ.}
+{217}{}{Jesteœ znacznie potê¿niejszy ni¿ ja.}
+{218}{}{To prawda. Niestety za du¿o wiesz. Hmm.}
+{219}{}{ Trzeba siê tob¹ zaj¹æ. Przykro mi.}
+{220}{}{ Musisz dowieœæ swej szczeroœci. A ja bêdê mia³ jak¹œ korzyœæ z tej umowy.}
+{221}{}{Co masz na myœli?}
+{222}{}{Nie bêdzie ¿adnej umowy; nie ma mowy.}
+{223}{}{Dobrze. Niech bêdzie!}
+{224}{}{Wezmê coœ od ciebie i bêdziemy kwita.}
+{225}{}{Dobrze.}
+{226}{}{Nie ma mowy.}
+{227}{}{Doskonale!}
+{228}{}{Dr Kostucha siêga po jakieœ narzêdzie chirurgiczne i zanim mo¿esz zareagowaæ usuwa ci jedno z oczu. W wyj¹tkowo bolesny sposób.}
+{229}{}{Teraz po³owa tego co uda³o ci siê zobaczyæ znowu nale¿y do mnie.}
+{230}{}{WYRWA£EŒ MI OKO! TY SKUR...}
+{231}{}{No! Uwa¿aj co mówisz.}
+{232}{}{Nie ma lekarza.}
+{233}{}{Ty ohydny rzeŸniku - wiem co robisz do spó³ki z Bobem Iguan¹.}
+{234}{}{S³u... s³ucham? Co masz na myœli?}
+{235}{}{Mam za sob¹ rozmowê z twoim kar³owatym trollem...}
+{236}{}{[Chytrze rzuca okiem z prawa na lewo] To niczego nie dowodzi. Gretch doœæ ciê¿ko... myœli. Nikt go tutaj nie s³ucha. Najlepiej bêdzie jak sobie pójdziesz.}

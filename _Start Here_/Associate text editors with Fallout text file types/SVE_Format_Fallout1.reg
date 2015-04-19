@@ -1,0 +1,63 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.SVE]
+@="SVE_auto_file"
+
+[HKEY_CURRENT_USER\Software\Classes\.SVE]
+@="SVE_auto_file"
+
+[HKEY_CLASSES_ROOT\SVE_auto_file]
+@="Fallout1 Movie Subtitles file"
+
+[HKEY_CLASSES_ROOT\SVE_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\SVE_auto_file\shell\edit]
+
+[HKEY_CLASSES_ROOT\SVE_auto_file\shell\edit\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4e,00,4f,00,\
+  54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,25,00,31,00,00,\
+  00
+
+[HKEY_CLASSES_ROOT\SVE_auto_file\shell\open]
+
+[HKEY_CLASSES_ROOT\SVE_auto_file\shell\open\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4e,00,4f,00,\
+  54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,25,00,31,00,00,\
+  00
+
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file]
+@="Fallout Global Variables file"
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell\edit]
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell\edit\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4e,00,4f,00,\
+  54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,25,00,31,00,00,\
+  00
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell\open]
+
+[HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell\open\command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4e,00,4f,00,\
+  54,00,45,00,50,00,41,00,44,00,2e,00,45,00,58,00,45,00,20,00,25,00,31,00,00,\
+  00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.SVE]
+"Progid"="SVE_auto_file"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.SVE\OpenWithList]
+"a"="NOTEPAD.EXE"
+"b"="BCompare.exe"
+"c"="Notepad++.exe"
+"MRUList"="abc"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.SVE\OpenWithProgids]
+"SVE_auto_file"=hex(0):
+

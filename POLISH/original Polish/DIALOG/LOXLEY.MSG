@@ -1,0 +1,260 @@
+{100}{}{To Loxley, przywódca Krêgu Z³odziei.}
+{101}{LOX_0}{To ma³y prezencik od moich tatka i mamci. Faktycznie, to parê pokoleñ przedtem. Podoba ci siê?}
+{102}{}{Pasuje do ciebie.}
+{103}{}{Nie, bol¹ mnie od niego uszy.}
+{104}{LOX_0A}{Ach, dziêkujê. Muszê sporo pracowaæ, ¿eby go zachowaæ w tym niewyrafinowanym otoczeniu, wiesz¿e? Lecz wystarczy tego. Loxley zwê siê. A jak¿e ty?}
+{105}{}{Jestem }
+{106}{}{.}
+{107}{}{Co ci do tego?}
+{108}{}{Co to za miejsce?}
+{110}{LOX_1F}{Cholernie zachwycaj¹ce by³o takie prze³amanie zabezpieczeñ! Jak masz na imiê, kochana?}
+{109}{LOX_1M}{Cholernie œwietn¹ robot¹ by³o prze³amanie zabezpieczeñ, brachu! Jestem nader zachwycony. Rzuæ mi twe imiê!}
+{111}{}{Jestem }
+{112}{}{.}
+{113}{}{Co ci do tego?}
+{114}{}{Co to za miejsce?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{115}{}{Masz naprawdê ciekawy akcent, przyjacielu.}
+
+{116}{}{Gadasz jak idiota.}
+{117}{}{Nuuh?}
+{118}{LOX_2F}{Ca³kiem mi³o mi siê z tob¹ zapoznaæ, faktycznie... na razie. Za³atwmy drugi fragment uprzejmoœci, dobrze? Co, do jasnej, jasnej, jasnej cholery, tutaj robisz!}
+{119}{}{Chcê do³¹czyæ do Krêgu.}
+{120}{}{Muszê ciê spytaæ o parê spraw.}
+{121}{}{Zabieram was wszystkich do wiêzienia.}
+{122}{LOX_3}{O, jak¿e mi³o. Kandydat. Có¿, po tak ciê¿kiej pracy zas³ugujesz na rzut okiem. Lecz jeœli naprawdê chcesz siê przy³¹czyæ, musisz podj¹æ siê Drugiego Sprawdzianu.}
+{123}{}{A co to?}
+{124}{}{Brzmi to strasznie... Co powiesz, jak sobie darujê?}
+{125}{}{Ee... Jaki by³ Pierwszy Sprawdzian?}
+{126}{LOX_4}{To ca³kiem proste, naprawdê. Sprawdzisz siê jako z³odziej. Powiedzie ci siê, a œwiat bêdzie twój! Jeœli nie, to ju¿ nigdy nas nie zobaczysz. Chyba ¿e przyjdziesz nas szukaæ. A jeœli nie rozumiesz, ten ostatni fragment jest groŸb¹.}
+{127}{}{Na czym polega ten sprawdzian?}
+{128}{}{Mówisz, ¿e je¿eli zawiodê, to przeniesiesz ca³y ten lokal gdzieœ indziej, czy ¿e spróbujesz mnie zabiæ?}
+{129}{}{Grozisz mi?}
+{130}{LOX_5}{To takie, takie proste. Na Wzgórzach znajdziesz dom Darena Wie¿owca, ca³y utuczony i dojrza³y do oskubania. Masz¿e apetyt na ¿ycie?! Czy akceptujesz wyzwanie?}
+{131}{}{Tak, a jak¿e!}
+{132}{}{A takiego wa³a!}
+{134}{LOX_6F}{Tak trzymaj, kochana!}
+{133}{LOX_6M}{Tak trzymaj, brachu!}
+{135}{LOX_6B}{Porozmawiaj tylko z Jasmine w pokoju poza t¹ komnat¹. Ona poda ci szczegó³y, mapê i kilka drobnych gad¿etów, ¿eby ci pomóc na pocz¹tek. Lecz pamiêtaj, jeœli choæby pomyœlisz o sprzedaniu nas gliniarzom, ulotnimy siê st¹d, nim przybêd¹. Ale starczy ponuroœci. Czo³em, powodzenia i pa pa!}
+{136}{LOX_7}{Có¿, z jakiego zatem powodu, do jasnej cholery, jesteœ tutaj? Zwiedzania? Wytwornej atmosfery? Mojej przystojnej twarzy?}
+{137}{}{Nie, przychodzê, aby ci zadaæ kilka pytañ.}
+{138}{}{Na pewno nie z powodu twarzy.}
+{139}{}{Masz racjê, chcê do³¹czyæ do Krêgu.}
+{140}{LOX_8}{To wszystko? Kilka pytañ! Có¿, albo z ciebie niewiarygodny chwat, albo zupe³ny debil. Pytaj¿e, pytaj¿e! A potem odprowadzimy ciê do drzwi, nieprawda¿?}
+{141}{LOX_9}{Z pewnoœci¹ ¿artujesz! Myœlisz, ¿e z³apa³bym siê na taki tekst! IdŸ precz, ty chamowskie nasienie!}
+{142}{LOX_10}{O, nader harda to postawka! Lecz wszyscy tu jesteœmy przyjació³mi, nieprawda¿?}
+{143}{}{Nie widzê ku temu powodu.}
+{144}{}{Masz racjê. Przepraszam.}
+{145}{LOX_11}{Oooch, mam z³amane serce. Nasza szansa na braterstwo utracona! [Loxley wzdycha.] Jasmine, wska¿ temu cwel¹tku drzwi.}
+{146}{LOX_12}{Ooch, odrobinê w tê i we w tê. Lubiê ludzi, którzy graj¹ ostro. Myœlê, ¿e bêdziesz wspania³ym dodatkiem do naszej ma³ej, weso³ej bandy. Có¿ ty na to rzekniesz?}
+{147}{}{OK!}
+{148}{}{Rzeknê, ¿e jesteœ zupe³nym wariatem.}
+{149}{lox_12b}{OK!}
+{150}{LOX_13}{A, bzdura i zawracanie g³owy. Có¿, nader przykro mi to s³yszeæ, faktycznie. By³by z ciebie œwietny z³odziej. Lecz Kr¹g nie jest dla krañcowo g³upich. Zatem, Jasmine, wska¿, proszê, naszemu goœciowi drzwi.}
+{151}{LOX_14}{Och, za kogo ty mnie bierzesz? Jeœli szukasz zimnokrwistego mordercy, porozmawiaj z Kafarem i jego paczk¹. Je¿eli doznasz niepowodzenia, co obecnie wydaje siê o wiele bardziej prawdopodobne, my po prostu znikniemy. A zatem, masz¿e chêæ spróbowaæ, czy nie?}
+{152}{}{Jasne.}
+{153}{}{Nie.}
+{154}{LOX_16}{Och, nie. Tak siê bojê. ¯ycie jest takie ciê¿kie. Loxley, wolê byæ tchórzem przez ca³e moje ¿ycie, ni¿ doœwiadczyæ pojedynczej chwili triumfu. Ach, jesteœ tylko zwyk³ym koniowa³em, nieprawda¿? Precz!}
+{155}{LOX_17}{Jeszczeœmy tego nie wykoncypowali, nieprawda¿? Pierwszym Sprawdzianem by³o samo dotarcie tutaj! To jedyny powód, dla którego rozwa¿am tw¹ kandydaturê.}
+{156}{}{OK, zrobiê, co tylko chcesz!!}
+{157}{}{Jaki jest kolejny sprawdzian?}
+{158}{}{No có¿, wszystko, czego pragnê, to zadaæ ci kilka pytañ.}
+{159}{LOX_18}{Ha ha ha. Ooch, to nader zabawne. Zabierzesz nas do wiêzienia, zgadza siê? A jak, jeœli mogê spytaæ, planujesz dokonaæ tego wyczynu?}
+{160}{}{Po prostu chodŸ ze mn¹ po dobroci, to nikomu nie stanie siê krzywda.}
+{161}{}{Có¿, mo¿e tym razem wam odpuszczê.}
+{162}{LOX_21}{Co mi do tego? To proste, naprawdê. Powiedz mi twe imiê, albo wska¿emy ci drzwi.}
+{163}{}{OK. Jestem }
+{164}{}{.}
+{165}{}{A co powiesz, jak ja ci wska¿ê mojego glana?}
+{166}{LOX_22}{To s³ynny Kr¹g Z³odziei! Myœla³em, ¿e bêdziesz to wiedzieæ, zwa¿ywszy i¿ uda³o ci siê przedostaæ przez wszystkie zabezpieczenia itd. Lecz niewa¿ne. Jesteœ nader obiecuj¹cym materia³em, i Krêgowi przyda³by siê ktoœ taki jak ty.}
+{167}{}{OK, co mam zrobiæ?}
+{168}{}{Nie, dziêki. Chcê ci jednak zadaæ parê pytañ.}
+{169}{}{Mowy nie ma.}
+{170}{LOX_23}{Có¿, uda³o ci siê przedostaæ przez moje zabezpieczenia, wiêc z pewnoœci¹ masz umiejêtnoœci. Jak siê zwiesz?}
+{171}{}{Jestem }
+{172}{}{.}
+{173}{}{Co ci do tego?}
+{174}{}{Co to za miejsce?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{175}{}{Masz naprawdê ciekawy akcent, przyjacielu.}
+
+{176}{}{Gadasz jak idiota.}
+{177}{LOX_24}{Czego, do cholery, chcesz?}
+{178}{}{Sta³a ci siê przeze mnie jakaœ krzywda? Po co ta wrogoœæ?}
+{179}{}{Byæ z dala od ciebie.}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{180}{}{Hej, jestem po twojej stronie. Jestem tu jako przyjaciel.}
+
+{181}{LOX_25}{Nie lubiê ciê. Nie wiem czemu, nie obchodzi mnie to.}
+{182}{}{Daj mi szansê!}
+{183}{}{Có¿, jesteœ zatem zwyk³ym idiot¹, nieprawda¿?}
+{184}{LOX_26}{Dziêki za tak urocz¹ chwilê. Jasmine, wyprowadŸ naszego goœcia.}
+{185}{LOX_27}{O, jak¿e mi³o ciê znowu widzieæ. Czy masz dla mnie ma³e conieco?}
+{186}{}{Tak, moj¹ rezygnacjê. Nie bêdê zdawaæ twojego g³upiego sprawdzianu.}
+{187}{}{Jeszcze nie.}
+{188}{}{Oto naszyjnik...}
+{189}{LOX_29}{Ha! Ha! Dobra robota! Gratulujê. Jesteœ teraz cz³onkiem œwiatowej s³awy Krêgu Z³odziei. Zawo³amy tu Jasmine i zrobimy balangê, nieprawda¿?}
+{190}{LOX_30}{O, jak zabawnie. Naprawdê muszê ci jednak powiedzieæ, ¿e niezbyt przepadam za tego typu ¿artami. Tego typu chichotem. Tego typu zrób-starego-Loxleya-w-balona, hê. Zróbmy tak. Dostaniesz jeszcze jedn¹ szansê. Przynieœ tu naszyjnik.}
+{191}{LOX_31}{Tak naprawdê jesteœ tylko zupe³n¹ zadr¹ w dupie, nieprawda¿?}
+{192}{LOX_32}{G³upiego?! Och. Jestem wielce rozczarowany, ¿e tak uwa¿asz. No có¿, nasz ma³y Kr¹g bêdzie po prostu musia³ radziæ sobie dalej bez twojej b³yskotliwej obecnoœci. Jak¿e to smutne. Jasmine, drzwi dla naszego goœcia. I bez przywileju powrotu, hmm?}
+{193}{LOX_33}{Zatem co, do jasnej, jasnej cholery, robisz tutaj? Sio! OdejdŸ. Tylko tym razem wróæ z naszyjnikiem.}
+{194}{}{Dzieje siê w tej okolicy coœ ciekawego?}
+{195}{}{Opowiedz mi o Hubie.}
+{196}{}{S³ysza³eœ ostatnio jakieœ ciekawe pog³oski?}
+{197}{}{Powiedz mi coœ wiêcej o Krêgu.}
+{198}{}{Szukam zaginionych karawan. Masz jakieœ podejrzenia?}
+{199}{LOX_35}{Có¿, ca³e to cholerne miasto wrze, z racji na zaginione karawany i resztê. To pewne utrapienie. Wcina siê w interesy Krêgu, nieprawda¿?}
+{200}{}{Czy wiesz, czyja to mo¿e byæ robota?}
+{201}{}{Dziêki. Czy mogê ci zadaæ jeszcze parê pytañ?}
+{202}{LOX_36}{Nie wiem, ale mam nadziejê, ¿e wkrótce to odkryj¹. Ludzie s¹ nerwowi, a to czyni nasz¹ pracê trudniejsz¹, no nie? Nie wspominaj¹c o tych wszystkich zabobonnych nonsensach, które tu kr¹¿¹.}
+{203}{}{Jakich nonsensach?}
+{204}{}{Dziêki. Czy mogê ci zadaæ jeszcze parê pytañ?}
+{205}{LOX_37}{A, jakaœ bzdura i zawracanie g³owy, ¿e to Szpon Œmierci z³apa³ karawany i zaci¹gn¹³ je do swojego le¿a na podwieczorek.}
+{206}{}{Brzmi smakowicie. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{207}{LOX_38A}{Och, naturalnie. Wszyscy tu jesteœmy przyjació³mi.}
+{208}{lox_38b}{[Loxley wzdycha.] Czemu¿ by nie?}
+{209}{LOX_38C}{Pytaj¿e, pytaj¿e.}
+{210}{LOX_39}{W rzeczy samej, nie. Jedna by³a ci dana. Uwa¿aj siê za szczêœciarza. ¯egnaj, pa pa.}
+{211}{lox_40}{Nic, co mog³oby ciê interesowaæ.}
+{212}{}{Przekonajmy siê.}
+{213}{}{OK, dziêki. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{214}{LOX_41}{Och, nic. Tylko ca³e to cholerne miasto trzyma palce na spuœcie z powodu tych wszystkich zaginionych karawan. To wszystko.}
+{215}{}{Rety, dziêki. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{216}{LOX_42}{Och, tylko to, co zwykle. Kupieckie karawany obrastaj¹ w t³uszcz kosztem ubogich, podczas gdy ten ³ajdak, Kafar, rozgrywa wszystkich po swojemu.}
+{217}{LOX_43}{Có¿, masz tu zwyk³¹ liczbê sklepów i tym podobnych. Domieszaj nieco œwirusów z Dzieci Katedry. Dodaj kawa³ Kafara i jego Podziemia, czyni¹cych ¿ycie ciê¿kim dla nas wszystkich. Zwieñcz to szczypt¹ chciwych kupców, i to bêdzie w zasadzie wszystko.}
+{218}{}{Kupcy to niezgorsze mêty, co?}
+{219}{}{Wygl¹da na to, ¿e jesteœ prawdziwym fanem Kafara.}
+{220}{LOX_43A}{Nastêpne pytanie, proszê.}
+{221}{LOX_44}{Szczera prawda! To dlatego powsta³ Kr¹g, rozumiesz. S¹ tu ci wszyscy bogaci cwele, tucz¹cy siê na ubogich. A ci ubodzy tylko czekaj¹ na bohatera. Z powodu pomocy, której im udzielamy, praktycznie padaj¹ nam do stóp.}
+{222}{}{Co jest z³ego w zarabianiu pieniêdzy?}
+{223}{}{Ca³kiem jak Robin Hood.}
+{224}{LOX_47}{Co z³ego?! Ty kurdup... Có¿, myli³em siê co do ciebie, nieprawda¿? Jasmine, wska¿ tej kupieckiej w³azidupie drzwi!}
+{225}{LOX_48}{Znasz tê historiê! Wiedzia³em, i¿ jest w tobie coœ szczególnego. Ach, mój dziadzio opowiedzia³ mi j¹ dawno temu. To dopiero by³ z³odziej! Lecz wystarczy. Chcesz jeszcze o coœ spytaæ?}
+{226}{LOX_51}{Nie licz¹c zaginionych karawan, niewiele. Och, czekaj. Jeden z moich ch³opaków wróci³ wczoraj ca³y œwiec¹cy z odrobiny zatrucia radiacj¹. Paskudna sprawa. Zapewne chodzi³ na paluszkach trochê zbyt blisko starego Punktu Zapalnego.}
+{227}{LOX_53}{Okradamy bogatych, prosto i zwyczajnie. Oko³o, och, dziesiêciu do dwudziestu procent dajemy biedakom ze Starego Miasta. Kr¹g zatrzymuje dwadzieœcia, co pozostawia resztê dla z³odzieja. Niez³y interes pod ka¿dym wzglêdem.}
+{228}{LOX_54}{Jesteœmy zgraj¹ w³amywaczy! Za kogó¿ ty nas uwa¿asz, zgrajê pomywaczy?}
+{229}{LOX_55A}{Mo¿esz spróbowaæ u kupców, chocia¿ twój czas by³by lepiej spêdzony na szacowaniu ich pod k¹tem nocnej ekspropriacji. Jakkolwiek uwa¿am go za ca³kowit¹ banialukê, popytaj wokó³ o Szpona Œmierci. Albo nawet wyrusz z karawan¹, jeœli masz zupe³ne kuku na muniu.}
+{230}{LOX_55B}{Có¿, sk¹d, do jasnej cholery, mia³bym wiedzieæ? Czy ja wygl¹dam na kupca?}
+{231}{LOX_56}{Para podstawowych regu³. Po pierwsze, nigdy nie daj siê z³apaæ, a po drugie, nigdy, przenigdy nie okradaj Krêgu. Od³ó¿ to.}
+{232}{LOX_57}{Ty najzwyczajniej nie ³apiesz, o co w tym chodzi, prawda? Jasmine, wska¿ drzwi naszemu przyg³upiemu kompanowi, i nie dopuœæ, bym kiedykolwiek ponownie zobaczy³ tê fizjonomiê.}
+{233}{LOX_58}{Ty chyba nie do koñca mnie rozumiesz. Zachowaj to na kupców, zgoda?}
+{234}{LOX_59}{Co, do jasnej cholery, tutaj robisz? Wynocha!}
+{235}{LOX_60}{Widzisz, jest tak, jak powiedzia³em...}
+{236}{LOX_61}{Có¿, jak mówi³em...}
+{237}{LOX_62}{Czy ci najzwyczajniej brakuje oleju w g³owie? Mówi³em ci...}
+{238}{LOX_63}{Co ciê dotyka, g³uchota czy g³upota? Jak powiedzia³em...}
+{239}{LOX_64}{Nie jest fajnie siê powtarzaæ.}
+{240}{LOX_65}{B³e! To pozbawione sensu. NajwyraŸniej ¿adna iloœæ powtarzania nie jest zdolna w jakikolwiek sposób wt³oczyæ tej informacji do twojej grubej czaszki.}
+{241}{LOX_66}{Nie. Kafar to szczwany lis. Ma ca³e miasto w kieszeni, owszem. Udziela kupcom swej "ochrony", zarazem bezustannie podjudzaj¹c ich przeciw sobie nawzajem. To nie ktoœ, z kim chcesz zadzieraæ, lecz zwykle mo¿na go zastaæ w Sokole Maltañskim.}
+{242}{LOX_67}{To handlarz spluw z siedzib¹ w pó³nocnej czêœci Starego Miasta. Cholernie niebezpieczny facio, czêœæ z jego sprzêtu jest odrobinê zbyt zabójcza.}
+{243}{LOX_68}{W samej rzeczy niezbyt za nami przepadaj¹.}
+{244}{LOX_69}{Harold? To ca³kiem dobry facet, mimo ¿e jest ghulem i tak dalej. Mieszka po po³udniowej stronie Starego Miasta.}
+{245}{LOX_70}{Prawa rêka Kafara, zdecydowanie nie ktoœ, z kim mo¿na zadzieraæ. Zwykle mo¿na go zastaæ w Sokole Maltañskim.}
+{246}{LOX_71}{Oni. Siedz¹ wielcy i potê¿ni w swojej Wie¿y Ciœnieñ na po³udnie od Œródmieœcia, obci¹¿aj¹c nas wszystkich przyzwoitych ludzi za ka¿d¹ kroplê wody, jaka wyp³ywa spod ziemi. Wszyscy oni powinni, cholera, zostaæ rozstrzelani, owszem.}
+{247}{LOX_72}{Maj¹ niewielki sklep wielobran¿owy w Œródmieœciu. Nie mo¿na im jednak ufaæ. Wiêkszoœæ czasu chowaj¹ siê w swoim cholernym magazynie. Choæ rzeczywiœcie sprzedaj¹ solidne narkotyki i medpakiety. O wiele taniej ni¿ te durne Dzieci Katedry, mo¿esz mi wierzyæ.}
+{248}{LOX_73}{Najbli¿sza przyzwoitoœci wœród wszystkich trzech kompanii karawanowych. Zabrak³o jej do niej ledwie kilku mil.}
+{249}{LOX_74}{Kryminaliœci. Skoñczeni kryminaliœci. Wyciskaj¹ ¿ycie z miasta. Wszêdobylscy Handlowcy, Karmazynowa Karawana, i najgorsi z nich wszystkich, Kupcy Wodni. Do koloru, do wyboru.}
+{250}{lox_75}{Le¿y poœrodku miasta.}
+{251}{LOX_76}{Niewiele jest do powiedzenia, naprawdê. Nocami strasz twoje dzieci opowieœciami o bestyjce, która mieszka na pó³nocy i karmi siê miêsem niegrzecznych dzieciaczków ze wszystkich stron œwiata.}
+{252}{LOX_77}{Wygl¹da wrêcz na to, ¿e codziennie okazuje siê, i¿ kolejna zaginê³a. Ludzie obawiaj¹ siê opuszczaæ miasto bez ochrony. Niektórzy nawet wini¹ Szpona Œmierci.}
+{253}{LOX_78}{Przed oko³o trzema laty jeden z kupców wyruszy³ daleko na po³udnie w poszukiwaniu innych osad. Wróci³ z wypadaj¹cymi wszystkimi w³osami i zêbami, paplaj¹c o jakiejœ wielkiej koncentracji promieniowania. Kto wie, mo¿e przed Wojn¹ by³o tam coœ szczególnego.}
+{254}{LOX_79}{Wiêkszoœæ z ubogich, którzy pracuj¹ dla kupców, mieszka tutaj, w budynkach o œcianach tak cienkich, ¿e nie powstrzymuj¹ promieni s³onecznych. Tymczasem tamtym bogatym skurwielom jest wygodnie w ich ³adnych domach na Wzgórzach. Robi mi siê przez to niedobrze.}
+{255}{LOX_80}{Ekstrawaganckie budynki. Kupione za krew ubogich.}
+{256}{LOX_81}{Boba mo¿na zawsze znaleŸæ w samym centrum Targu. Prawdopodobnie bêdzie sprzedawa³ te iguany, a¿ padnie trupem.}
+{257}{LOX_82}{To dopiero przera¿aj¹ca zgraja. Paraduj¹ ci¹gle dooko³a, gadaj¹c o ich Nocnym Bogu, jak gdyby by³ najlepsz¹ rzecz¹ po kupieckich kieszeniach z dziurami. Mog¹ ciê ca³kiem tanio wyleczyæ. To trzeba im przyznaæ. Mo¿esz ich znaleŸæ w tym ich szpitalu w Œródmieœciu.}
+{258}{LOX_83}{A, kolejna zgraja szajbusów. Siedz¹ w swojej wielkiej, czarnej fortecy na pó³nocny zachód st¹d, nie mog¹c siê doczekaæ nastêpnej wojny.}
+{259}{LOX_84}{Trzeba tam zachowywaæ odrobinê ostro¿noœci. Rozpruwacze i Ostrza lubi¹ kroiæ ludzi dla samej zabawy. Jednoczeœnie tamtejsza osada, Adytum, stara siê ledwie przetrwaæ. Jeœli zdarzy ci siê w³óczyæ w tamtej okolicy i napotkaæ Ostrza, pamiêtaj, by pozdrowiæ ode mnie Brzytwê. Myœlenie o niej przywo³uje wspomnienia, owszem.}
+{260}{LOX_85}{To zakute ³by z Gruzów. Walcz¹ od lat, a nawet nie wiedz¹ ju¿ o co. Cholernie g³upie to jest.}
+{261}{LOX_86}{Ach, co za kobieta! By³a tutaj wczeœniej z³odziejk¹, dopóki nie postanowi³a siê przenieœæ na po³udnie, do Gruzów. Ostatnie, co o niej s³ysza³em, to to, ¿e wst¹pi³a do Ostrzy. No có¿, rozum nie by³ jej najmocniejsz¹ stron¹.}
+{262}{LOX_87}{Hmm, nie mam zielonego pojêcia.}
+{263}{LOX_88}{Naprawdê nie wiem.}
+{264}{LOX_89}{Hmm. W samej rzeczy nie mam o tym pojêcia.}
+{265}{LOX_90}{Có¿, [Szyderczy dŸwiêk.] w jaki sposób zupe³ny mato³, taki jak ty, przedosta³ siê przez moje zabezpieczenia? Wybacz, nie przyjmujemy ¿adnych genialnych idiotów, lubimy tutaj ciekawe konwersacje. Jasmine, wska¿, proszê, drzwi temu œlini¹cemu siê indywiduum.}
+{266}{LOX_91}{Pomów z Jasmine, a wprowadzi ciê w szczegó³y.}
+{267}{}{Loxley wygl¹da na zbyt zajêtego, by rozmawiaæ.}
+{268}{}{Twoje wynagrodzenie otrzymasz od Jasmine.}
+
+
+# Loxley Tell-Me-Abouts generic responses
+{980}{LOX_87}{Hmm, nie mam zielonego pojêcia.}
+{981}{LOX_88}{Naprawdê nie wiem.}
+{982}{LOX_89}{Hmm. W samej rzeczy nie mam o tym pojêcia.}
+{983}{LOX_90}{Có¿, [Szyderczy dŸwiêk.] w jaki sposób zupe³ny mato³, taki jak ty, przedosta³ siê przez moje zabezpieczenia? Wybacz, nie przyjmujemy ¿adnych genialnych idiotów, lubimy tutaj ciekawe konwersacje. Jasmine, wska¿, proszê, drzwi temu œlini¹cemu siê indywiduum.}
+
+
+#
+# Loxley Tell-Me-Abouts
+#
+
+{1000}{}{Kafar}
+{1001}{}{Jake}
+{1002}{}{Policja}
+{1003}{}{Harold}
+{1004}{}{Kane}
+{1006}{}{Karmazynowa}
+{1007}{}{Handlowcy}
+{1008}{}{kompanie}
+{1009}{}{Targ}
+{1010}{}{Szpon}
+{1011}{}{zaginione}
+{1012}{}{Zapalny}
+{1013}{}{Miasto}
+{1014}{}{Wzgórza}
+{1015}{}{Boba}
+{1016}{}{Dzieci Katedry}
+{1017}{}{Bractwo}
+{1018}{}{Los Angeles}
+{1019}{}{Ostrza}
+{1020}{}{Brzytwa}
+{1021}{}{Kupcy}
+{1022}{}{Punkt}
+{1023}{}{Iguany}
+{1024}{}{Iguana}
+{1025}{}{Bob}
+{1026}{}{Stali}
+{1027}{}{LA}
+{1028}{}{Gruzy}
+{1029}{}{karawany}
+{1030}{}{œmierci}
+{1031}{}{Szpon Œmierci}
+{1032}{}{Blask}
+{1033}{}{Starówka}
+{1034}{}{Stare}
+
+{1100}{LOX_66}{O, Kafar to szczwany lis. Ma ca³e miasto w kieszeni, owszem. Udziela kupcom swej "ochrony", zarazem bezustannie podjudzaj¹c ich przeciw sobie nawzajem. To nie ktoœ, z kim chcesz zadzieraæ, lecz zwykle mo¿na go zastaæ w Sokole Maltañskim.}
+{1101}{LOX_67}{To handlarz spluw z siedzib¹ w pó³nocnej czêœci Starego Miasta. Cholernie niebezpieczny facio, czêœæ z jego sprzêtu jest odrobinê zbyt zabójcza.}
+{1102}{LOX_68}{W samej rzeczy niezbyt za nami przepadaj¹.}
+{1103}{LOX_69}{Harold? To ca³kiem dobry facet, mimo ¿e jest ghulem i tak dalej. Mieszka po po³udniowej stronie Starego Miasta.}
+{1104}{LOX_70}{Prawa rêka Kafara, zdecydowanie nie ktoœ, z kim mo¿na zadzieraæ. Zwykle mo¿na go zastaæ w Sokole Maltañskim.}
+{1106}{LOX_72}{Maj¹ niewielki sklep wielobran¿owy w Œródmieœciu. Nie mo¿na im jednak ufaæ. Wiêkszoœæ czasu chowaj¹ siê w swoim cholernym magazynie. Choæ rzeczywiœcie sprzedaj¹ solidne narkotyki i medpakiety. O wiele taniej ni¿ te durne Dzieci Katedry, mo¿esz mi wierzyæ.}
+{1107}{LOX_73}{Najbli¿sza przyzwoitoœci wœród wszystkich trzech kompanii karawanowych. Zabrak³o jej do niej ledwie kilku mil.}
+{1108}{LOX_74}{Kryminaliœci. Skoñczeni kryminaliœci. Wyciskaj¹ ¿ycie z miasta. Wszêdobylscy Handlowcy, Karmazynowa Karawana, i najgorsi z nich wszystkich, Kupcy Wodni. Do koloru, do wyboru.}
+{1109}{lox_75}{Le¿y poœrodku miasta.}
+{1110}{LOX_76}{Niewiele jest do powiedzenia, naprawdê. Nocami strasz twoje dzieci opowieœciami o bestyjce, która mieszka na pó³nocy i karmi siê miêsem niegrzecznych dzieciaczków ze wszystkich stron œwiata.}
+{1111}{LOX_77}{Wygl¹da wrêcz na to, ¿e codziennie okazuje siê, i¿ kolejna zaginê³a. Ludzie obawiaj¹ siê opuszczaæ miasto bez ochrony. Niektórzy nawet wini¹ Szpona Œmierci.}
+{1112}{LOX_78}{Przed oko³o trzema laty jeden z kupców wyruszy³ daleko na po³udnie w poszukiwaniu innych osad. Wróci³ z wypadaj¹cymi wszystkimi w³osami i zêbami, paplaj¹c o jakiejœ wielkiej koncentracji promieniowania. Kto wie, mo¿e przed Wojn¹ by³o tam coœ szczególnego.}
+{1113}{LOX_79}{Wiêkszoœæ z ubogich, którzy pracuj¹ dla kupców, mieszka tutaj, w budynkach o œcianach tak cienkich, ¿e nie powstrzymuj¹ promieni s³onecznych. Tymczasem tamtym bogatym skurwielom jest wygodnie w ich ³adnych domach na Wzgórzach. Robi mi siê przez to niedobrze.}
+{1114}{LOX_80}{Ekstrawaganckie budynki. Kupione za krew ubogich.}
+{1115}{LOX_81}{Boba mo¿na zawsze znaleŸæ w samym centrum Targu. Prawdopodobnie bêdzie sprzedawa³ te iguany, a¿ padnie trupem.}
+{1116}{LOX_82}{To dopiero przera¿aj¹ca zgraja. Paraduj¹ ci¹gle dooko³a, gadaj¹c o ich Nocnym Bogu, jak gdyby by³ najlepsz¹ rzecz¹ po kupieckich kieszeniach z dziurami. Mog¹ ciê ca³kiem tanio wyleczyæ. To trzeba im przyznaæ. Mo¿esz ich znaleŸæ w tym ich szpitalu w Œródmieœciu.}
+{1117}{LOX_83}{A, kolejna zgraja szajbusów. Siedz¹ w swojej wielkiej, czarnej fortecy na pó³nocny zachód st¹d, nie mog¹c siê doczekaæ nastêpnej wojny.}
+{1118}{LOX_84}{Trzeba tam zachowywaæ odrobinê ostro¿noœci. Rozpruwacze i Ostrza lubi¹ kroiæ ludzi dla samej zabawy. Jednoczeœnie tamtejsza osada, Adytum, stara siê ledwie przetrwaæ. Jeœli zdarzy ci siê w³óczyæ w tamtej okolicy i napotkaæ Ostrza, pamiêtaj, by pozdrowiæ ode mnie Brzytwê. Myœlenie o niej przywo³uje wspomnienia, owszem.}
+{1119}{LOX_85}{To zakute ³by z Gruzów. Walcz¹ od lat, a nawet nie wiedz¹ ju¿ o co. Cholernie g³upie to jest.}
+{1120}{LOX_86}{Ach, co za kobieta! By³a tutaj wczeœniej z³odziejk¹, dopóki nie postanowi³a siê przenieœæ na po³udnie, do Gruzów. Ostatnie, co o niej s³ysza³em, to to, ¿e wst¹pi³a do Ostrzy. No có¿, rozum nie by³ jej najmocniejsz¹ stron¹.}
+{1121}{LOX_71}{Oni. Siedz¹ wielcy i potê¿ni w swojej Wie¿y Ciœnieñ na po³udnie od Œródmieœcia, obci¹¿aj¹c nas wszystkich przyzwoitych ludzi za ka¿d¹ kroplê wody, jaka wyp³ywa spod ziemi. Wszyscy oni powinni, cholera, zostaæ rozstrzelani, owszem.}
+{1122}{LOX_78}{Przed oko³o trzema laty jeden z kupców wyruszy³ daleko na po³udnie w poszukiwaniu innych osad. Wróci³ z wypadaj¹cymi wszystkimi w³osami i zêbami, paplaj¹c o jakiejœ wielkiej koncentracji promieniowania. Kto wie, mo¿e przed Wojn¹ by³o tam coœ szczególnego.}
+{1123}{LOX_81}{Boba mo¿na zawsze znaleŸæ w samym centrum Targu. Prawdopodobnie bêdzie sprzedawa³ te iguany, a¿ padnie trupem.}
+{1124}{LOX_81}{Boba mo¿na zawsze znaleŸæ w samym centrum Targu. Prawdopodobnie bêdzie sprzedawa³ te iguany, a¿ padnie trupem.}
+{1125}{LOX_81}{Boba mo¿na zawsze znaleŸæ w samym centrum Targu. Prawdopodobnie bêdzie sprzedawa³ te iguany, a¿ padnie trupem.}
+{1126}{LOX_83}{A, kolejna zgraja szajbusów. Siedz¹ w swojej wielkiej, czarnej fortecy na pó³nocny zachód st¹d, nie mog¹c siê doczekaæ nastêpnej wojny.}
+{1127}{LOX_84}{Trzeba tam zachowywaæ odrobinê ostro¿noœci. Rozpruwacze i Ostrza lubi¹ kroiæ ludzi dla samej zabawy. Jednoczeœnie tamtejsza osada, Adytum, stara siê ledwie przetrwaæ. Jeœli zdarzy ci siê w³óczyæ w tamtej okolicy i napotkaæ Ostrza, pamiêtaj, by pozdrowiæ ode mnie Brzytwê. Myœlenie o niej przywo³uje wspomnienia, owszem.}
+{1128}{LOX_84}{Trzeba tam zachowywaæ odrobinê ostro¿noœci. Rozpruwacze i Ostrza lubi¹ kroiæ ludzi dla samej zabawy. Jednoczeœnie tamtejsza osada, Adytum, stara siê ledwie przetrwaæ. Jeœli zdarzy ci siê w³óczyæ w tamtej okolicy i napotkaæ Ostrza, pamiêtaj, by pozdrowiæ ode mnie Brzytwê. Myœlenie o niej przywo³uje wspomnienia, owszem.}
+{1129}{LOX_74}{Kryminaliœci. Skoñczeni kryminaliœci. Wyciskaj¹ ¿ycie z miasta. Wszêdobylscy Handlowcy, Karmazynowa Karawana, i najgorsi z nich wszystkich, Kupcy Wodni. Do koloru, do wyboru.}
+{1130}{LOX_76}{Niewiele jest do powiedzenia, naprawdê. Nocami strasz twoje dzieci opowieœciami o bestyjce, która mieszka na pó³nocy i karmi siê miêsem niegrzecznych dzieciaczków ze wszystkich stron œwiata.}
+{1131}{LOX_76}{Niewiele jest do powiedzenia, naprawdê. Nocami strasz twoje dzieci opowieœciami o bestyjce, która mieszka na pó³nocy i karmi siê miêsem niegrzecznych dzieciaczków ze wszystkich stron œwiata.}
+{1132}{LOX_78}{Przed oko³o trzema laty jeden z kupców wyruszy³ daleko na po³udnie w poszukiwaniu innych osad. Wróci³ z wypadaj¹cymi wszystkimi w³osami i zêbami, paplaj¹c o jakiejœ wielkiej koncentracji promieniowania. Kto wie, mo¿e przed Wojn¹ by³o tam coœ szczególnego.}
+{1133}{LOX_79}{Wiêkszoœæ z ubogich, którzy pracuj¹ dla kupców, mieszka tutaj, w budynkach o œcianach tak cienkich, ¿e nie powstrzymuj¹ promieni s³onecznych. Tymczasem tamtym bogatym skurwielom jest wygodnie w ich ³adnych domach na Wzgórzach. Robi mi siê przez to niedobrze.}
+{1134}{LOX_79}{Wiêkszoœæ z ubogich, którzy pracuj¹ dla kupców, mieszka tutaj, w budynkach o œcianach tak cienkich, ¿e nie powstrzymuj¹ promieni s³onecznych. Tymczasem tamtym bogatym skurwielom jest wygodnie w ich ³adnych domach na Wzgórzach. Robi mi siê przez to niedobrze.}

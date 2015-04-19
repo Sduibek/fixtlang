@@ -1,0 +1,83 @@
+{100}{}{Widzisz Komputer Kontrolny Kadzi.}
+{101}{}{Brak dostêpu.}
+{102}{}{Pozwolenie na dostêp. Komenda?}
+{103}{}{Wyœwietl kody zabezpieczeñ.}
+{104}{}{Przeszukaj zapisy.}
+{105}{}{Pod³¹cz siê do komputerów medycznych.}
+{106}{}{Postaw bazê w stan alarmu.}
+{107}{}{17652-1028-1285362}
+{108}{}{67209-5574-7805564}
+{109}{}{55658-8678-1251533}
+{110}{}{31914-1041-1251514}
+{111}{}{53478-2565-7763929}
+{112}{}{44309-3674-1254730}
+{113}{}{[Spróbuj obejœæ firewalla, aby uzyskaæ dostêp do danych] Wyœwietl tablicê szyfrów kodów zabezpieczeñ.}
+{114}{}{Wykonujê 17652-1028-1285362}
+{115}{}{Wykonujê 67209-5574-7805564}
+{116}{}{Wykonujê 55658-8678-1251533}
+{117}{}{Wykonujê 31914-1041-1251514}
+{118}{}{Wykonujê 53478-2565-7763929}
+{119}{}{Wykonujê 44309-3674-1254730}
+{120}{}{[Uda³o ci siê uzyskaæ dostêp do tablicy szyfrów.] Komenda?}
+{121}{}{17652-1028-1285362 zainicjuj cich¹ sekwencjê samozniszczenia za 1 minutê}
+{122}{}{67209-5574-7805564 zainicjuj sekwencjê samozniszczenia za 30 sekund i postaw bazê w stan alarmu}
+{123}{}{55658-8678-1251533 postaw bazê w stan alarmu}
+{124}{}{31914-1041-1251514 zainicjuj cich¹ sekwencjê samozniszczenia za 3 minuty}
+{125}{}{53478-2565-7763929 zainicjuj sekwencjê samozniszczenia za 3 minuty i postaw bazê w stan alarmu}
+{126}{}{44309-3674-1254730 natychmiastowe samozniszczenie}
+{127}{}{Niew³aœciwa komenda. Koniec sesji.}
+{128}{}{Zdefiniuj zapisy, które chcesz przejrzeæ.}
+{129}{}{Grey}
+{130}{}{Boyarsky}
+{131}{}{Maxson}
+{132}{}{Anderson}
+{133}{}{Wczytaæ zapisy Richarda Greya?}
+{134}{}{Tak.}
+{135}{}{Wróæ do menu g³ównego.}
+{136}{}{Wczytaæ zapisy kapt. Maxsona?}
+{137}{}{Tak.}
+{138}{}{Wróæ do menu g³ównego.}
+{139}{}{Nieoczekiwany koniec linii. Napotkano b³êdne dane. Komenda?}
+{140}{}{Komenda?}
+{141}{}{Po³¹czenie udane. Czekam na komendê.}
+{142}{}{Jaki jest obecny stan pacjentów?}
+{143}{}{Obecny status pacjentów: Grupa FEV #23872-A sk³ada siê z czterech okazów mêskich i dwóch ¿eñskich. Wszystkie okazy zosta³y wystawione na dzia³anie FEV. Oznaki ¿ycia w normie. Postepy wirusa na wszystkich okazach wynosz¹ oko³o 50%. Pe³na transformacja spodziewana w ci¹gu 12 godzin.}
+{144}{}{chyba coœ siê dzieje z jednym z pacjentów. Czy mogê coœ zrobiæ?}
+{145}{}{Pacjent cierpi na arytmiê. Wyœwietl opisy stanu pacjentów.}
+{146}{}{Dostêpne mo¿liwoœci:}
+{147}{}{Opis stanu poszczególnych obiektów.}
+{148}{}{Wy³¹czenie systemów podtrzymywania ¿ycia.}
+{149}{}{Zwiêkszenie dawki oryginalnego DNA obiektów do 100%.}
+{150}{}{Wylogowanie.}
+{151}{}{Proszê wpisaæ kod autoryzacji.}
+{152}{}{Kod 3578X287A.}
+{153}{}{Z876342BCD}
+{154}{}{Alfa Delta 287 Fokstrot}
+{155}{}{[Spróbuj w³amaæ siê do komputera]}
+{156}{}{B³êdny kod autoryzacji. Komenda?}
+{157}{}{Przyjêto kod autoryzacji. Proszê czekaæ. Wczytujê dane. Gotowoœæ do wykonania komend.}
+{158}{}{Wy³¹cz systemy podtrzymywania ¿ycia grupy FEV #23872-A.}
+{159}{}{Zwiêksz dawkê oryginalnego DNA wszystkich okazów do 100%.}
+{160}{}{Pozwolenie dostêpu. Plik którego pacjenta chcesz zbadaæ?}
+{161}{}{Plik pacjenta #23869.}
+{162}{}{Plik pacjenta #23870.}
+{163}{}{Plik pacjenta #23871.}
+{164}{}{Plik pacjenta #23872.}
+{165}{}{Plik pacjenta #23869. Okaz: Mêski. 25 lat. Poziom napromieniowania: 40. Zaawansowanie FEV: 50%. Iloœæ oryginalnego DNA: 50%. Oznaki ¿ycia w górnych partiach normy.}
+{166}{}{Wyœwietl plik innego pacjenta.}
+{167}{}{Plik pacjenta #23870. Okaz: Mêski. 23 lata. Poziom napromieniowania: 15. Zaawansowanie FEV: 60%. Iloœæ oryginalnego DNA: 40%. Oznaki ¿ycia w normie.}
+{168}{}{Plik pacjenta #23781. Okaz: ¯eñski. 20 lat. Poziom napromieniowania: 10. Zaawansowanie FEV: 55%. Iloœæ oryginalnego DNA: 45%. Oznaki ¿ycia w normie.}
+{169}{}{Plik pacjenta #23782. Okaz: Mêski. 26 lat. Poziom napromieniowania: 35. Zaawansowanie FEV: 60%. Iloœæ oryginalnego DNA: 40%. Oznaki ¿ycia powy¿ej normy, ale w rozs¹dnych granicach.}
+{170}{}{Czy na pewno chcesz wy³¹czyæ systemy podtrzymywania ¿ycia grupy FEV #23872-A?}
+{171}{}{Grupa FEV #23872-A od³¹czona. Komenda?}
+{172}{}{Tak.}
+{173}{}{Nie.}
+{174}{}{Czy na pewno chcesz zwiêkszyæ dawkê? Spowoduje to wy³¹czenie auto korekcji.}
+{175}{}{Zwiêkszam dawkê oryginalnego DNA do 100%. UWAGA: wy³¹czono auto korekcjê.}
+{176}{}{Uda³o ci siê amusiæ komputer do wyœwietlenia ekranu interfejsu.}
+{177}{}{Próbujesz skorzystaæ z komputera, ale nie udaje ci siê wyci¹gn¹æ z niego ¿adnych przydatnych informacji.}
+{178}{}{Próbujesz skorzystaæ z komputera, ale ten system jest zbyt skomplikowany, aby go ³atwo rozgryŸæ. Próbuj dalej.}
+{179}{}{Eksplozja niszczy kamputer kontrolny. Bez zarz¹dazania system z pewnoœci¹ wkrótce wymknie siê spod kontroli.}
+{180}{}{Przesuwasz kart¹ bezpieczeñstwa po czytniku terminala. Terminal o¿ywa i wyœwietla niekodowany obraz.}
+{181}{}{[WyjdŸ z systemu]}
+{200}{}{Zauwa¿asz, ¿e g³ówny panel naprawczy zosta³ usuniêty, ujawniaj¹c delikatne wnêtrznoœci komputera.}

@@ -1,0 +1,68 @@
+{100}{}{Nie mogê uwierzyæ, co ty wyrabiasz.}
+{101}{}{Nie obchodzi mnie to. Mam rany. Wylecz mnie.}
+{102}{}{Hngh!}
+{103}{}{Nie. Œlubowa³em ratowaæ ¿ycie, ale tobie nie pomogê.}
+{104}{}{Brak inteligencji nie jest usprawiedliwieniem dla twoich czynów. OdejdŸ st¹d, nie bêdê z tob¹ wiêcej rozmawiaæ.}
+{105}{}{O rety, masz powa¿ne obra¿enia. ChodŸ, pozwól, ¿e ci pomogê.}
+{106}{}{O, }
+{107}{}{, witaj z powrotem. Jak id¹ poszukiwania?}
+{108}{}{Jest OK.}
+{109}{}{Potrzebujê pomocy.}
+{110}{}{Lol?}
+{111}{}{Och. Tak. Masz, znalaz³em takie coœ. Spróbuj tego, kiedy bêdziesz potrzebowaæ dopa³u.}
+{112}{}{Dobrze, rób tak dalej. I daj mi znaæ, jeœli bêdziesz czegoœ potrzebowaæ.}
+{113}{}{Co mogê dla ciebie zrobiæ?}
+{114}{}{Potrzebujê leczenia.}
+{115}{}{Potrzebujê trochê narkotyków.}
+{116}{}{Potrzebujê jeszcze trochê Stimpaków.}
+{117}{}{O³!}
+{118}{}{U³!}
+{119}{}{Nie jestem upowa¿niony, by ci jakieœ daæ. Wybacz.}
+{120}{}{Dziêki, tak czy owak.}
+{121}{}{Ja ich pilnie potrzebujê. Bez narkotyków zagro¿one bêdzie bezpieczeñstwo Krypty.}
+{122}{}{Przepraszam, ale nie mogê ci ich daæ.}
+{123}{}{No có¿, skoro tak to ujmujesz. Ale nie mów nikomu, ¿e pozwoli³em ci je wzi¹æ. S¹ niezwykle uzale¿niaj¹ce i niebezpieczne w u¿yciu.}
+{124}{}{Dziêki.}
+{125}{}{Stimpaki s¹ racjonowane. Mo¿esz skorzystaæ z tego, co mamy w tej apteczce œciennej. WeŸ tyle, ile ci trzeba, ale u¿ywaj ich z umiarem. Trochê potrwa, zanim bêdziemy w stanie za³atwiæ ich dla ciebie wiêcej.}
+{126}{}{Hmm. Zobaczmy, czy masz jakieœ obra¿enia.}
+{127}{}{Na moje oko twój stan wydaje siê byæ idealny. PrzyjdŸ tu, jeœli bêdziesz potrzebowaæ leczenia.}
+{128}{}{Wygl¹da na to, ¿e masz rany. ChodŸ, pozwól, ¿e ci pomogê.}
+{129}{}{Je¿eli bêdziesz potrzebowaæ leczenia, wróæ tu do mnie, albo u¿yj trochê Stimpaków. Mo¿esz ich wzi¹æ wiêcej z apteczki œciennej.}
+{130}{}{Po³ó¿ siê tutaj, i rozpoczniemy proces leczenia.}
+{131}{}{Przywróci³em ci pe³niê zdrowia. Uwa¿aj na siebie w przysz³oœci, ale te¿ nie wahaj siê tu wróciæ, je¿eli bêdziesz znowu potrzebowaæ leczenia. }
+{132}{}{Skanery medyczne wykry³y œmiertelne ska¿enie promieniowaniem. Czy chcesz, byœmy podjêli próbê leczenia? Trochê to potrwa.}
+{133}{}{Skanery medyczne wykry³y powa¿ne ska¿enie promieniowaniem. Czy chcesz, byœmy podjêli próbê leczenia? Trochê to potrwa.}
+{134}{}{Skanery medyczne wykry³y wysokie ska¿enie promieniowaniem. Czy chcesz, byœmy podjêli próbê leczenia? Trochê to potrwa.}
+{135}{}{Skanery medyczne wykry³y niewielkie ska¿enie promieniowaniem. Czy chcesz, byœmy podjêli próbê leczenia? Trochê to potrwa.}
+{136}{}{To oficer medyczny Krypty 13.}
+{137}{}{}
+{138}{}{Nie.}
+{139}{}{OK, zrób to.}
+{140}{}{Jak d³ugo?}
+{141}{}{Ile czasu to zajmie, i jak du¿o napromieniowania mo¿e usun¹æ?}
+{142}{}{Na.}
+{143}{}{Ta.}
+{144}{}{To twoje cia³o.}
+{145}{}{Potrwa to oko³o }
+{146}{}{ minut. Czy chcesz, ¿ebym rozpocz¹³ proces?}
+{147}{}{Nie.}
+{148}{}{Tak.}
+{149}{}{Potrwa to oko³o }
+{150}{}{ minut, a bêdzie w stanie usun¹æ mniej wiêcej }
+{151}{}{ procent ska¿enia. Czy chcesz, ¿ebym rozpocz¹³ proces?}
+{152}{}{Nie.}
+{153}{}{Tak.}
+{154}{}{To bêdzie bardzo, ale to bardzo bolesne.}
+{155}{}{OK, to zupe³nie nie powinno boleæ.}
+{156}{}{OK, twoje samopoczucie powinno siê znacznie poprawiæ. Zachowuj ostro¿noœæ tam, na zewn¹trz.}
+{157}{}{S³ysza³em, co uda³o ci siê dokonaæ, ocaliæ Kryptê. Dziêkujê ci.}
+{158}{}{[Wiêcej]}
+{159}{}{Oficer medyczny nie zamierza z tob¹ rozmawiaæ.}
+{160}{}{Nie rób tego, proszê.}
+
+# Medic tell-me-abouts
+
+{1000}{}{oficer medyczny}
+{1001}{}{leczenie}
+{1100}{}{Jestem tutaj ca³y czas, by s³u¿yæ leczeniem i pomoc¹.}
+{1101}{}{Mogê ciê wyleczyæ, je¿eli cierpisz z powodu obra¿eñ.}

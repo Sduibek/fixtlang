@@ -1,0 +1,196 @@
+{100}{}{Widzisz Opiekuna.}
+{101}{}{Aaa, to ty. Œwietnie. Ca³e szczêœcie, ¿e tu jesteœ. Mamy problem. Powa¿ny. Popsu³ siê uk³ad steruj¹cy systemami oczyszczania wody. Nie mo¿emy zrobiæ nowego, a procedura jest zbyt skomplikowana, ¿eby to jakoœ obejœæ. Mówi¹c wprost - koñczy nam siê woda zdatna do picia. A bez wody nie bêdzie Krypty. Có¿, przez ostatnie kilka lat trochê siê spieraliœmy. Jest w tobie chêæ do wêdrówki - pragnienie, którego nie mo¿na zrealizowaæ ¿yj¹c w Krypcie. Jak pewnie wiesz to mo¿e byæ ostatnie bezpieczne miejsce, wiêc zawsze martwiê siê o tych, którzy chc¹ wychodziæ na zewn¹trz. Hej, gdyby wszyscy sobie poszli, to zosta³bym bez pracy! Ale mówi¹c powa¿nie, to ma decyduj¹ce znaczenie dla naszego przetrwania. Mówi¹c szczerze uwa¿am, ¿e jesteœ nasz¹ jedyn¹ nadziej¹. Musisz znaleŸæ nowy hydroprocesor.}
+{102}{Over_0a}{W Pipboyu masz zdjêcie, które pomo¿e ci rozpoznaæ takie urz¹dzenie.}
+{103}{Over_1}{Masz trzy miesi¹ce na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{104}{}{Miesi¹c... dwa... cztery... piêæ... szeœæ...}
+{105}{Over_2}{Masz dwa miesi¹ce, mo¿e mniej, na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda. Ten procesor jest nam bardzo potrzebny!}
+{106}{Over_3}{Oceniamy, ¿e mamy jakieœ cztery do piêciu miesiêcy zanim skoñczy siê woda. Ten procesor jest nam bardzo potrzebny!}
+{107}{Over_4}{Tu masz trochê sprzêtu, który mo¿e ci siê przydaæ.}
+{108}{Over_4a}{Nie prosi³bym o to, gdyby to nie by³o naprawdê konieczne. Je¿eli tobie siê nie uda, to nie wiem kto móg³by podo³aæ temu zadaniu. Pomó¿ nam. Jesteœ nasz¹ jedyn¹... nadziej¹.}
+{109}{Over_5}{Jeœli bêdziesz potrzebowaæ pomocy, to wróæ. Zrobimy co w naszej mocy. Nie mamy jednak zbyt wiele czasu. Uwa¿aj na siebie, znajdŸ ten procesor i wracaj do nas.}
+{110}{Over_6}{Zaznaczyliœmy na twojej mapie po³o¿enie innej Krypty. To chyba dobre miejsce, ¿eby zacz¹æ poszukiwania. Zreszt¹, co ja wiem o œwiecie na zewn¹trz? Ja... s³uchaj. W'wiesz, ¿e bardzo siê dla mnie liczysz... Naprawdê... uwa¿aj na siebie, dobrze?}
+{111}{Over_7}{Jesteœ z powrotem! I to w jednym kawa³ku! Jak przebiegaj¹ poszukiwania?}
+{112}{}{Nie najlepiej, ale uda³o mi siê stwierdziæ, ¿e poziom promieniowani jest niski. Dlaczego nie wyprowadziæ ludzi z Krypty?}
+{113}{}{Nie uda³o mi siê znaleŸæ procesora. Nie mo¿emy zrobiæ uk³adu zastêpczego?}
+{114}{}{Jak do tej pory nic.}
+{115}{}{Nuh.}
+{116}{Over_8}{Pos³uchaj, wiem, ¿e to trudne. Ale liczymy na ciebie. I zaczyna nam brakowaæ czasu. Proszê! Postaraj siê!}
+{117}{Over_9}{Ech, nigdy nie s³uchasz co siê do ciebie mówi. Nie mamy wszystkich potrzebnych czêœci. Wykorzystaliœmy je ju¿ wczeœniej.}
+{118}{}{Aha. Dziêki.}
+{119}{Over_10}{Ju¿ to omawialiœmy. Teraz powinno byæ to dla ciebie oczywiste! Wiesz jak jest na zewn¹trz. Uwa¿asz, ¿e pozostali daliby sobie radê? Poza tym straci³bym pracê! Jestem kierownikiem! Nie umiem robiæ nic u¿ytecznego!}
+{120}{}{Zgadzamy siê w tej kwestii.}
+{121}{Over_12}{I jak, masz hydroprocesor?}
+{122}{}{Jeszcze nie. Przykro mi.}
+{123}{}{Uwa¿am, ¿e wszyscy powinni siê spakowaæ i odejœæ st¹d.}
+{124}{}{Nie, ale mam mnóstwo wa¿nych rzeczy do powiedzenia!}
+{125}{}{Nuh.}
+{126}{Over_13}{[Opiekun wzdycha.] Nie martw siê. Wiem, ¿e dajesz z siebie wszystko, a to wiele znaczy. Nie mo¿esz siê jednak poddawaæ.}
+{127}{Over_14}{To nie jest najlepsza pora, ¿eby nad tym dyskutowaæ. Zdob¹dŸ dla nas ten procesor, wtedy bêdziemy mogli wybieraæ. Wiêkszoœæ z tych ludzi i ja siê do nich zaliczam, uwa¿a, ¿e nie zdo³amy przetrwaæ na zewn¹trz.}
+{128}{}{Dobra, zobaczê co da siê zrobiæ.}
+{129}{Over_16}{Nie mamy czasu, ani wyboru. Wiem, ¿e to dla ciebie du¿a odpowiedzialnoœæ, ale nie mamy wyboru. Ten procesor jest nam potrzebny i to jak najszybciej.}
+{130}{Over_19a}{Proszê, powiedz mi, ¿e uda³o ci siê znaleŸæ procesor.}
+{131}{}{Nie, ale moje oczy widzia³y wiele niesamowitych rzeczy!}
+{132}{}{Przykro mi, nie uda³o mi siê go jeszcze zlokalizowaæ.}
+{133}{}{Nie.}
+{134}{}{Nuh-uh.}
+{135}{Over_20}{Có¿, szukaj dalej. Czasu mamy coraz mniej.}
+{136}{Over_21}{Nie mamy na to czasu! Ten uk³ad jest nam potrzebny. Zosta³o nam niewiele czasu. [Westchnienie]}
+{137}{Over_22}{Jest jakiœ problem, potrzebujesz wiêcej sprzêtu? Mo¿emy ci jakoœ pomóc?}
+{138}{}{Nie, to po prostu musi trochê potrwaæ. Œwiat na zewn¹trz jest doœæ rozleg³y.}
+{139}{}{Przyda³oby mi siê jeszcze kilka drobiazgów.}
+{140}{}{Taak, móg³byœ zejœæ na dó³ i coœ pomóc.}
+{141}{Over_23}{Rób co w twojej mocy. Pamiêtaj, ¿e wszyscy na ciebie liczymy.}
+{142}{Over_24}{Masz, to reszta naszej amunicji i œrodków opatrunkowych. Mamy powa¿ne k³opoty. Pospiesz siê!}
+{143}{Over_25}{Co zrobiæ? Z kim? Ka¿da inna osoba mia³aby gorsze kwalifikacje i mniej sprzêtu. To by³oby samobójstwo.}
+{144}{}{Twój wybór. Robiê co mogê, ale nie wiem, czy to wystarczy.}
+{145}{}{Rozumiem.}
+{146}{Over_26}{Musi. Je¿eli tobie siê nie uda, to podobny los czeka ca³¹ Kryptê.}
+{147}{}{Jasne.}
+{148}{}{Co za ró¿nica.}
+{149}{Over_27}{Dobrze, zatem ruszaj!}
+{150}{Over_28}{Uda³o ci siê znaleŸæ procesor?}
+{151}{}{Tak.}
+{152}{}{Tak, ale uwa¿am, ¿e musimy porozmawiaæ o wypuszczeniu ludzi z Krypty.}
+{153}{}{Nuh-huh!}
+{154}{Over_29}{Œwietnie! Daj mi go. Zobaczymy czy dzia³a.}
+{155}{Over_30}{Proszê, daj mi ten procesor!}
+{156}{Over_31}{Dobra. Chwilka, inicjalizacja uk³adu. To - To - i to - Doskonale... Diagnostyka zakoñczona pomyœlnie... uruchamianie zakoñczone... Ha! Dzia³a! No i mamy zwyciêzcê! Haha! [Opiekun wzdycha z ulg¹.] Uda³o ci siê nas uratowaæ. Uda³o ci siê!}
+{157}{}{Aa, to nic takiego.}
+{158}{}{Nie ma sprawy.}
+{159}{Over_32}{Nic takiego? Nie, no nie! To naprawdê by³o coœ. Nie umniejszaj swoich osi¹gniêæ. Uda³o ci siê uratowaæ wiele istnieñ. No dobrze, a teraz potrzebny nam jest raport o sytuacji na zewn¹trz. PrzejdŸ proszê do biblioteki.}
+{160}{}{Dobrze.}
+{161}{Over_33}{Uda³o ci siê uratowaæ Kryptê. Masz powody do dumy. Ale teraz potrzebny nam jest raport. Wys³uchamy go w bibliotece. IdŸ tam.}
+{162}{}{Dobrze.}
+{163}{Over_34}{No có¿, z pewnoœci¹ masz prawo tego ¿¹daæ. Ale najpierw powinniœmy siê zaj¹æ najwa¿niejszymi sprawami dotycz¹cymi naszego przetrwania. Daj mi procesor. Porozmawiamy na ten temat kiedy ju¿ zdasz raport z sytuacji na zewn¹trz.}
+{164}{}{Niech bêdzie.}
+{165}{}{Nie wiem...}
+{166}{Over_37}{To œwietnie! Mogê dostaæ ten procesor?}
+{167}{Over_38}{Nie, nie to. Chcê procesor kom-pu-te-ro-wy.}
+{168}{Over_38a}{Nie. Procesor.}
+{169}{Over_39}{Daj-mi-ten-procesor!}
+{170}{Over_40}{Dziêkujê. A teraz idŸ do biblioteki i odpocznij chwilkê, dobrze?}
+{171}{}{Nuh-huh, uh-nuh?}
+{172}{}{Uh, nuh? Nuh-uh-uh-nuh.}
+{173}{Over_41}{Tak, mo¿esz sobie podotykaæ wszystko co tam jest.}
+{174}{Over_41a}{Ach, tak. Doskona³a robota. Jestem pewien, ¿e masz wiele do opowiedzenia.}
+{175}{Over_42}{Chcia³em ci powiedzieæ, ¿e nasze zapasy wody przesta³y topnieæ. W³aœciwie to zaczynamy je odbudowywaæ. Œwietna robota... Ale trochê siê martwiê.}
+{176}{}{Czym?}
+{177}{}{Hê?}
+{178}{Over_43}{Nie podoba mi siê twój raport. To znaczy, to co w nim jest. Hmm. W gruncie rzeczy bardzo mnie przerazi³. Chodzi o tych mutantów. Wykona³em trochê obliczeñ i doszed³em do niepokoj¹cych wniosków.}
+{179}{}{Jakich?}
+{180}{Over_44}{[Westchnienie] Populacja mutantów jest du¿o wiêksza, ni¿ mo¿na by siê spodziewaæ w przypadku naturalnego ich powstawiania. To prowadzi do wniosku - w sumie tego nie rozumiem - ale wygl¹da na to, ¿e ktoœ tworzy nowych mutantów. W zastraszaj¹cym tempie.}
+{181}{}{Mo¿esz powtórzyæ? Nie ma pomy³ki?}
+{182}{}{Zatem gdzieœ musi byæ laboratorium.}
+{183}{Over_45}{Ktoœ tworzy mutantów!}
+{184}{}{Co mam zatem zrobiæ?}
+{185}{Over_46}{Dok³adnie! I jak siê zapewne domyœlasz, do ¿adnej z tych mutacji nie mog³o doœæ w sposób naturalny, nawet w wyniku promieniowania wtórnego po wojnie.}
+{186}{}{I co mam zrobiæ w tej sprawie?}
+{187}{Over_47}{Bezpieczeñstwo Krypty jest zagro¿one, tak d³ugo, jak ktoœ tworzy w takim tempie mutantów! Musisz je jak najszybciej odnaleŸæ i zniszczyæ.}
+{188}{}{Dobra.}
+{189}{}{Jeszcze raz na pustkowia...}
+{190}{Over_48}{Nawet nie masz pojêcia jak mi przykro, ¿e muszê ciê tam wys³aæ.}
+{191}{Over_49}{Ach tak. Hmm... Hmm. Spróbujmy tak Jest takie z³e miejsce, z którego przychodz¹ niedobre mutanty. Z³e. Krypta jest dobra. Proszê, idŸ zniszczyæ niedobre miejsce.}
+{192}{Over_50}{Uda³o ci siê znaleŸæ laboratorium? Najlepiej powiedz mi, ¿e ju¿ zosta³o zniszczone.}
+{193}{}{Nie.}
+{194}{}{Jeszcze nie, ale mam kilka dobrych œladów.}
+{195}{}{Nie, mam trochê k³opotów.}
+{196}{}{Nungh.}
+{197}{Over_51}{Có¿, szukaj dalej.}
+{198}{Over_52}{Dobrze. Pospiesz siê jednak. Im wiêcej bêd¹ mieli czasu na produkcjê, tym trudniej bêdzie ich powstrzymaæ.}
+{199}{Over_53}{Có¿, opieraj¹c siê na dostarczonych przez ciebie informacjach dotycz¹cych gêstoœci zaludnienia wydaje mi siê, ¿e musisz skupiæ swoje poszukiwania na zachodzie.}
+{200}{Over_54}{Jakie masz wieœci o mutantach?}
+{201}{}{Uda³o mi siê skasowaæ g³ównego ³otra.}
+{202}{}{Uda³o mi siê zabiæ Mistrza - przywódcê mutantów.}
+{203}{}{Nuh, ungh. Uh-nuh, nuh.}
+{204}{Over_55}{Znakomicie! Co z laboratorium? Te¿ uda³o ci siê je zniszczyæ?}
+{205}{}{Nie.}
+{206}{}{Jasne. Uda³o mi siê rozwaliæ wszystkich mutantów i wysadziæ kadzie do ich produkcji. Mieszkañcom krypty nic ju¿ nie grozi.}
+{207}{Over_58}{Uda³o ci siê tyle dokonaæ... Masz powody do dumy. Z³o¿yliœmy swój los w twoje rêce i uda³o ci siê sprostaæ zadaniom. Porozmawiajmy teraz o twojej przysz³oœci...}
+{208}{Over_59}{Na pewno? Przeoczenie czegoœ mog³oby siê okazaæ fatalne w skutkach dla Krypty. Uwa¿am, ¿e musisz iœæ jeszcze raz i dok³adnie to sprawdziæ. Poszukaj na zachodzie. Wygl¹da na to, ¿e tam jest najwiêksze skupisko mutantów.}
+{209}{Over_60}{IdŸ jeszcze raz i sprawdŸ to. Trzeba je zniszczyæ - dla bezpieczeñstwa Krypty. Poszukaj na zachodzie, wygl¹da na to, ¿e tam jest najwiêcej mutantów.}
+{210}{Over_61}{Co takiego? Uda³o ci siê zabiæ przywódcê mutantów?}
+{211}{}{Uh-huh, nuh, huh. Nuh-nuh.}
+{212}{Over_61aS}{Mutanci ci¹gle siê pojawiaj¹? Musisz zniszczyæ kadzie do ich produkcji? Doskonale! IdŸ i zajmij siê tym.}
+{213}{Over_62}{Jakie s¹ wieœci o mutantach?}
+{214}{}{Wylecieli w powietrze.}
+{215}{}{Kadzie do produkcji mutantów zosta³y zniszczone.}
+{216}{}{Nuhh!}
+{217}{Over_63}{Wszyscy?}
+{218}{}{Có¿, wszyscy, którzy byli przy kadziach.}
+{219}{}{Uh, nuh-nuh.}
+{220}{Over_64}{A co z przywódc¹ mutantów? Z tym tak zwanym Mistrzem?}
+{221}{}{O ile mi wiadomo ci¹gle ¿yje.}
+{222}{}{Uh-nuh-nuh.}
+{223}{Over_66}{Trzeba go powstrzymaæ. W przeciwnym razie móg³by odbudowaæ imperium mutantów, a wtedy z pewnoœci¹ uderzyliby na nas. Póki Mistrz ¿yje Krypta nie jest bezpieczna.}
+{224}{Over_68}{Czy problem z przywódc¹ Mutantów zosta³ ju¿... rozwi¹zany?}
+{225}{}{Nie.}
+{226}{}{Ale nied³ugo zostanie...}
+{227}{}{Nuh.}
+{228}{Over_69}{Wiem, ¿e to dla ciebie trudne. Ale ten Mistrz na pewno bêdzie chcia³ odbudowaæ swoj¹ armiê. A wtedy ruszy na nas. Proszê, idŸ wykonaæ zadanie do koñca.}
+{229}{Over_70}{Có¿, t't'to œwietnie... Doskonale. Wygl¹da na to, ¿e ca³kiem nieŸle panujesz nad sytuacj¹. Proszê, dokoñcz to tak szybko jak tylko siê da... Bêd¹c tam na zewn¹trz pamiêtaj, ¿e ludzie w Krypcie wiedz¹, kto ich uratowa³.}
+{230}{Over_71}{Nie mo¿emy tego zrobiæ. Nie teraz. Nie w sytuacji kiedy dzieje siê to wszystko. Regulamin Krypty zosta³ przygotowany dla naszego bezpieczeñstwa i zapewnienia przetrwania naszego gatunku.}
+{231}{Over_72}{Co siê z tob¹ sta³o?! Obracasz siê przeciwko nam?! Nie mogê do tego dopuœciæ.}
+{232}{Over_73}{Zaczê³y do nas docieraæ Karawany z wod¹ z Hub. Dokona³em obliczeñ i mam trochê niepokoj¹cych wieœci.}
+{233}{}{Jakich?}
+{234}{}{Hê?}
+{235}{Over_74}{Aa, niewa¿ne. Po prostu znajdŸ ten procesor. Zdob¹dŸ go. Wci¹¿ jest nam potrzebny.}
+{236}{Over_75}{Karawany z wod¹ pozwol¹ nam utrzymaæ aktualny poziom zapasów, ale nie uda nam siê go zwiêkszyæ. Nie wspominaj¹c o tym, ¿e ci kupcy zdzieraj¹ z nas skórê. Jesteœmy wdziêczni za pomoc, ale to nie rozwi¹zuje problemu.}
+{237}{}{Dobrze.}
+{238}{}{Jest jeszcze coœ, prawda?}
+{239}{Over_76}{Szukaj dalej tego procesora. Bezpieczeñstwo i niezale¿noœæ mo¿emy utrzymaæ jedynie dziêki izolacji.}
+{240}{Over_77}{Pokazuj¹c tym ludziom drogê do naszej krypty podejmujemy szalone ryzyko. Rozumiem twoj¹ decyzjê, mo¿e bêdzie dla nas ratunkiem. Mimo to martwiê siê. Czy mo¿emy zaufaæ tym ludziom?}
+{241}{}{Ja im ufam.}
+{242}{}{Rozumiem.}
+{243}{Over_78}{Jestem pewien, ¿e tak. Ten uk³ad jest nam jednak potrzebny do d³ugoterminowego i stabilnego funkcjonowania. Nasza produkcja nie jest dostatecznie du¿a, ¿eby jeszcze p³aciæ za wodê i nied³ugo nie bêdziemy mieli za co jej kupowaæ. ZnajdŸ ten procesor.}
+{244}{Over_79}{Jestem pewien, ¿e tak. Musisz jednak zrozumieæ jak bardzo potrzebny nam jest ten procesor. Proszê, szukaj dalej.}
+{245}{Over_80}{Proszê, szukaj dalej tego hydroprocesora. Na d³u¿sz¹ metê te karawany sprowadz¹ na nas k³opoty.}
+{246}{Over_81}{Uda³o ci siê! To... wspania³e. Niesamowite! Jestem taki dumny z twoich osi¹gniêæ, z tego co uda³o ci siê znieœæ. Nie ma sposobu, w jaki mieszkañcy Krypty mog¹ podziêkowaæ za to, czego uda³o ci siê dokonaæ. Zawdziêczamy ci ¿ycie. Kto, wie mo¿e nawet uda³o ci siê uratowaæ rasê ludzk¹. [Opiekun wzdycha.] To sprawia, ¿e trudno mi to mówiæ, ale muszê. Wszyscy bêd¹ chcieli z tob¹ rozmawiaæ. Ka¿dy wyrostek bêdzie bra³ ciê za przyk³ad. Za wzór do naœladowania. A co siê wtedy stanie? Bêd¹ chwieli odejœæ. Co stanie siê z Krypt¹, kiedy stracimy najlepsze jednostki m³odego pokolenia? Co jeœli to jest ostatnie bezpieczne miejsce na Ziemi? Tobie uda³o siê ocaliæ te wszystkie istnienia... Nie mogê zaryzykowaæ ich utraty. Od czasu kiedy zaj¹³em to stanowisko podj¹³em ju¿ wiele trudnych decyzji, ale ¿adna nie by³a trudniejsza od tej. Uda³o ci siê nas uratowaæ, ale nas zabijesz. Przykro mi. Jesteœ bohaterem... ale musisz odejœæ.}
+{247}{Over_100}{Nie wiem nic na ten temat.}
+{248}{Over_200}{To bardzo wa¿na czêœæ, która umo¿liwia nam oczyszczanie wody. Bez niej zabraknie nam wody.}
+{249}{Over_201}{To nasz dom. Bez niej wszyscy bylibyœmy martwi. Je¿eli bêdziemy o ni¹ w³aœciwie dbaæ, to powinna nam s³u¿yæ jeszcze przez d³ugi czas.}
+{250}{Over_202}{To by³o straszne. Mam nadziejê, ¿e zrozumieliœmy lekcjê i nigdy tego nie powtórzymy.}
+{251}{Over_203}{Sk¹d mam wiedzieæ? Z trudem nad¹¿am za tym co dzieje siê tutaj! Pewnie siê dowiesz.}
+{252}{}{Za zdobycie hydroprocesora i uratowanie Krypty zdobywasz 7,500 punktów doœwiadczenia. Gratulacje!}
+{253}{Over_0ab}{Tu masz zdjêcie, pomo¿e ci rozpoznaæ to urz¹dzenie.}
+{254}{Over_1a}{Masz miesi¹c na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{255}{Over_1b}{Masz dwa miesi¹ce na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{256}{Over_1c}{Masz cztery miesi¹ce na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{257}{Over_1d}{Masz piêæ miesiêcy na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{258}{Over_1e}{Masz szeœæ miesiêcy na znalezienie tego uk³adu. Potem w Krypcie skoñczy siê woda.}
+{259}{}{Taak, pewnie bêdziesz musia³ znaleŸæ kogoœ innego, ¿eby odwali³ za ciebie ca³¹ brudn¹ robotê.}
+{260}{}{Rozumiem. Postaram siê znaleŸæ ten procesor.}
+{261}{Over_81a}{Uda³o ci siê! To... wspania³e. Niesamowite! Jestem taki dumny z twoich osi¹gniêæ, z tego co uda³o ci siê znieœæ.}
+{262}{Over_81b}{Nie ma sposobu, w jaki mieszkañcy Krypty mog¹ podziêkowaæ za to, czego uda³o ci siê dokonaæ. Zawdziêczamy ci ¿ycie. Kto, wie mo¿e nawet uda³o ci siê uratowaæ rasê ludzk¹. [Opiekun wzdycha.] To sprawia, ¿e trudno mi to mówiæ, ale muszê.}
+{263}{Over_81c}{Wszyscy bêd¹ chcieli z tob¹ rozmawiaæ. Ka¿dy wyrostek bêdzie bra³ ciê za przyk³ad. Za wzór do naœladowania. A co siê wtedy stanie?}
+{264}{Over_81d}{Bêd¹ chwieli odejœæ. Co stanie siê z Krypt¹, kiedy stracimy najlepsze jednostki m³odego pokolenia? Co jeœli to jest ostatnie bezpieczne miejsce na Ziemi? Tobie uda³o siê ocaliæ te wszystkie istnienia... Nie mogê zaryzykowaæ ich utraty.}
+{265}{Over_81e}{Od czasu kiedy zaj¹³em to stanowisko podj¹³em ju¿ wiele trudnych decyzji, ale ¿adna nie by³a trudniejsza od tej. Uda³o ci siê nas uratowaæ, ale nas zabijesz. Przykro mi. Jesteœ bohaterem... ale musisz odejœæ.}
+# erseer Tell-Me-Abouts generic responses
+{980}{Over_100}{Nic o tym nie wiem.}
+#
+# erseer Tell-Me-Abouts
+#
+{1000}{}{Woda}
+{1001}{}{Krypta}
+{1002}{}{Wojna}
+{1003}{}{œwiat zewnêtrzny}
+{1004}{}{Procesor}
+{1005}{}{Biblioteka}
+{1006}{}{Leczenie}
+{1007}{}{Lekarz}
+{1008}{}{Krypta13}
+{1009}{}{Krypta 13}
+{1010}{}{Opiekun}
+{1011}{}{Hydroprocesor}
+
+{1100}{Over_200}{To bardzo wa¿na czêœæ, która umo¿liwia nam oczyszczanie wody. Bez niej zabraknie nam wody.}
+{1101}{Over_201}{To nasz dom. Bez niej wszyscy bylibyœmy martwi. Je¿eli bêdziemy o ni¹ w³aœciwie dbaæ, to powinna nam s³u¿yæ jeszcze przez d³ugi czas.}
+{1102}{Over_202}{To by³o straszne. Mam nadziejê, ¿e zrozumieliœmy lekcjê i nigdy tego nie powtórzymy.}
+{1103}{Over_203}{Sk¹d mam wiedzieæ? Z trudem nad¹¿am za tym co dzieje siê tutaj! Pewnie siê dowiesz.}
+{1104}{Over_200}{To bardzo wa¿na czêœæ, która umo¿liwia nam oczyszczanie wody. Bez niej zabraknie nam wody.}
+{1105}{Over_21q}{Nie mamy na to czasu!}
+{1106}{Over_21q}{Nie mamy na to czasu!}
+{1107}{Over_21q}{Nie mamy na to czasu!}
+{1108}{Over_201}{To nasz dom. Bez niej wszyscy bylibyœmy martwi. Je¿eli bêdziemy o ni¹ w³aœciwie dbaæ, to powinna nam s³u¿yæ jeszcze przez d³ugi czas.}
+{1109}{Over_201}{To nasz dom. Bez niej wszyscy bylibyœmy martwi. Je¿eli bêdziemy o ni¹ w³aœciwie dbaæ, to powinna nam s³u¿yæ jeszcze przez d³ugi czas.}
+{1110}{Over_21q}{Nie mamy na to czasu!}
+{1111}{Over_200}{To bardzo wa¿na czêœæ, która umo¿liwia nam oczyszczanie wody. Bez niej zabraknie nam wody.}

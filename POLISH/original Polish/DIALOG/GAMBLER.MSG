@@ -1,0 +1,46 @@
+{100}{}{To podejrzanie wygl¹daj¹cy Meksykanin z przylizanymi w³osami.}
+{101}{}{To Hernandez, nieuczciwy hazardzista.}
+{102}{}{Hola, muchacho, pozwól, ¿e siê przedstawiê. Jestem Hernandez, facet z cojones! Jesteœ tu chyba pierwszy raz. Pozwól, proszê, ¿e zostanê twoim przewodnikiem po kasynie.}
+{103}{}{Czy mo¿esz mi coœ opowiedzieæ o tym kasynie?}
+{104}{}{Nie, dziêki.}
+{105}{}{Bluu?}
+{106}{}{Ale¿ oczywiœcie! Ten wspania³y przybytek prowadzi przes³awny Gizmo. To prawdziwy wizjoner i bardzo zamo¿ny cz³owiek.}
+{107}{}{Dziêki.}
+{108}{}{Mówisz, ¿e Gizmo jest wizjonerem. Jak¹ ma wizjê?}
+{109}{}{Jakie s¹ szanse na zwyciêstwo w tutejszych grach?}
+{110}{}{Mi amigo, nie cierpiê po¿yczaæ, ale mo¿e jesteœ w stanie mnie wesprzeæ. Opracowa³em stuprocentowo pewny system, poniewa¿ odkry³em, w jaki sposób dzia³aj¹ sto³y Gizma, tylko nie mam kapsli, by zagraæ.}
+{111}{}{[Masz wra¿enie, ¿e on próbuje zrobiæ ciê w balona.]}
+{112}{}{Byæ mo¿e masz na zbyciu parê kapsli? Sukces jest gwarantowany.}
+{113}{}{Jasne, brzmi to nieŸle.}
+{114}{}{Nie, dziêki.}
+{115}{}{Myœlê, ¿e ³¿esz. Próbujesz mnie zrobiæ w balona.}
+{116}{}{Szkoda, mi amigo. Hej, pozwól, ¿e poka¿ê ci przyjemn¹ grê...}
+{117}{}{Bardzo ci dziêkujê, mi amigo! Za kilka dni bêdê w stanie zwróciæ ci pieni¹dze z odsetkami. Rozumiesz, mój system jest powolny, wymaga wiele cierpliwoœci, ale z ca³¹ pewnoœci¹ doprowadzi do wielkich zysków!}
+{118}{}{W porz¹dku, ale sukces jest pewny! Jeœli chcesz bez wysi³ku zdobyæ bogactwo, to wróæ do mnie szybko, albo znajdê sobie innego wspólnika!}
+{119}{}{Mi amigo, widzê, ¿e ty te¿ masz cojones. Mo¿e zagramy w prost¹ grê w koœci?}
+{120}{}{W porz¹dku!}
+{121}{}{Nie, dziêki, wolê spróbowaæ czegoœ innego.}
+{122}{}{Gizmo mia³ marzenie, by stworzyæ lokal, w którym ludzie mogliby siê spotykaæ i dobrze bawiæ. Mia³ te¿ wystarczaj¹co du¿o ambicji, ¿eby je urzeczywistniæ. Rezultatem tego jest to kasyno.}
+{123}{}{On daje ludziom szansê, by otrz¹sn¹æ siê z trosk nêkaj¹cych ich w strzaskanym œwiecie na zewn¹trz. I przyci¹ga do Z³omowa pieni¹dze!}
+{124}{}{Wygl¹da to na niez³y pomys³.}
+{125}{}{¯ycie jest ju¿ wystarczaj¹co ciê¿kie. Nie zaufam komuœ, kto zachêca innych do tracenia pieniêdzy.}
+{126}{}{NajwyraŸniej nie posiadasz geniuszu Gizma. To miejsce stanowi wytchnienie od surowoœci codziennego ¿ycia.}
+{127}{}{Có¿, Gizmo prowadzi ca³kiem niez³y lokal, chocia¿ w grach raczej, ¿e tak powiem, przewa¿aj¹ wygrane kasyna. Bynajmniej nie chodzi o to, ¿e krupierzy oszukuj¹. Jednak bez systemu, takiego jak mój, trzeba byæ bardzo dobrym.}
+{128}{}{Dziêki.}
+{129}{}{}
+{130}{}{Jak idzie z twoim systemem?}
+{131}{}{Nic, dziêki.}
+{132}{}{Mój system rozkrêca siê powoli. Ponoszê wydatki na ¿ycie i tym podobne, rozumiesz, ale on dzia³a!}
+{133}{}{To wspaniale!}
+{134}{}{Myœlê, ¿e jesteœ ³garzem i oszustem. Gdzie moja forsa?}
+{135}{}{O, myœlisz, ¿e uda³o ci siê mnie przejrzeæ, co? Có¿, nic ode mnie nie dostaniesz!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{136}{}{!Hola, mi amigo! Co mogê dla ciebie zrobiæ?}
+{137}{}{!Hola, mi amiga! Co mogê dla ciebie zrobiæ?}

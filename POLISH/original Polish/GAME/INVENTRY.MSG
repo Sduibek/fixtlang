@@ -1,0 +1,33 @@
+#
+# Inventory messages from inventry.c
+#
+{0}{}{SI}
+{1}{}{PE}
+{2}{}{WT}
+{3}{}{CH}
+{4}{}{IN}
+{5}{}{ZR}
+{6}{}{SZ}
+{7}{}{PW}
+{8}{}{Klasa Panc.}
+{9}{}{  Konw.}
+{10}{}{  Laser}
+{11}{}{  Ogieñ}
+{12}{}{  Plazma}
+{13}{}{  Wybuchy}
+{14}{}{Bez broni}
+{15}{}{Moc:}
+{16}{}{Zas:}
+{17}{}{Amn:}
+{18}{}{(Ten egzemplarz nie jest w tej chwili u¿ywany)}
+{19}{}{Masz za ma³o punktów akcji, by skorzystaæ z ekwipunku.}
+{20}{}{Obci¹¿.:}
+{21}{}{PRZENIEŒ}
+{22}{}{CA£OŒÆ}
+{23}{}{USTAW ZAPALNIK}
+{24}{}{Moc bez broni:}
+{25}{}{Nie jesteœ w stanie tego podnieœæ. Twoje obci¹¿enie jest ju¿ maksymalne.}
+{26}{}{Nie ma ju¿ miejsca na ten przedmiot.}
+{27}{}{OK, to dobry interes.}
+{28}{}{Nie, twoja oferta jest za s³aba.}
+{29}{}{Zyskujesz %d punktów doœwiadczenia za skuteczne zastosowanie umiejêtnoœci kradzie¿y.}

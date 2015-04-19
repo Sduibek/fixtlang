@@ -1,0 +1,96 @@
+{100}{}{Dziêkujê.}
+{101}{}{¯egnaj.}
+{102}{}{Witaj.}
+{103}{}{Zyskujesz }
+{104}{}{ PD.}
+{105}{}{Ojej!}
+{106}{}{Klik!}
+{107}{}{Oj!}
+{108}{}{A³!}
+{109}{}{Jeszcze siê zobaczymy.}
+{110}{}{Wyœluzuj siê.}
+{111}{}{By³o weso³o.}
+{112}{}{Proszê bardzo.}
+{113}{}{Coœ jeszcze?}
+{114}{}{Tak.}
+{115}{}{Nie.}
+{116}{}{Zyskujesz }
+{117}{}{ PU w dziedzinie rêcznej broni palnej.}
+{118}{}{ PU w dziedzinie broni ciê¿kiej.}
+{119}{}{ PU w dziedzinie broni energetycznej.}
+{120}{}{ PU w dziedzinie walki wrêcz.}
+{121}{}{ PU w dziedzinie broni bia³ej.}
+{122}{}{ PU w dziedzinie rzucania.}
+{123}{}{ PU w dziedzinie pierwszej pomocy.}
+{124}{}{ PU w dziedzinie leczenia.}
+{125}{}{ PU w dziedzinie skradania siê.}
+{126}{}{ PU w dziedzinie kradzie¿y.}
+{127}{}{ PU w dziedzinie otwierania zamków.}
+{128}{}{ PU w dziedzinie pu³apek.}
+{129}{}{ PU w dziedzinie nauk œcis³ych.}
+{130}{}{ PU w dziedzinie napraw.}
+{131}{}{ PU w dziedzinie retoryki.}
+{132}{}{ PU w dziedzinie handlu.}
+{133}{}{ PU w dziedzinie hazardu.}
+{134}{}{ PU w dziedzinie sztuki przetrwania.}
+{135}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie rêcznej broni palnej.}
+{136}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie broni ciê¿kiej.}
+{137}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie broni energetycznej.}
+{138}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie walki wrêcz.}
+{139}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie broni bia³ej.}
+{140}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie rzucania.}
+{141}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie pierwszej pomocy.}
+{142}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie leczenia.}
+{143}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie skradania siê.}
+{144}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie kradzie¿y.}
+{145}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie otwierania zamków.}
+{146}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie pu³apek.}
+{147}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie nauk œcis³ych.}
+{148}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie napraw.}
+{149}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie retoryki.}
+{150}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie handlu.}
+{151}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie hazardu.}
+{152}{}{Zyskujesz 1 punkt umiejêtnoœci w dziedzinie sztuki przetrwania.}
+{153}{}{Twoja si³a wzrasta o kwotê }
+{154}{}{Twoja percepcja wzrasta o kwotê }
+{155}{}{Twoja wytrzyma³oœæ wzrasta o kwotê }
+{156}{}{Twoja charyzma wzrasta o kwotê }
+{157}{}{Twoja inteligencja wzrasta o kwotê }
+{158}{}{Twoja zrêcznoœæ wzrasta o kwotê }
+{159}{}{Twoje szczêœcie wzrasta o kwotê }
+{160}{}{ punktów.}
+{161}{}{Twoja si³a wzrasta o 1 punkt.}
+{162}{}{Twoja percepcja wzrasta o 1 punkt.}
+{163}{}{Twoja wytrzyma³oœæ wzrasta o 1 punkt.}
+{164}{}{Twoja charyzma wzrasta o 1 punkt.}
+{165}{}{Twoja inteligencja wzrasta o 1 punkt.}
+{166}{}{Twoja zrêcznoœæ wzrasta o 1 punkt.}
+{167}{}{Twoje szczêœcie wzrasta o 1 punkt.}
+{168}{}{Dziêki za pomoc.}
+{169}{}{Dziêki za nic.}
+{170}{}{Aradesh jest wœciek³y i nie zamierza ju¿ z tob¹ rozmawiaæ.}
+{171}{}{S¹dzê, i¿ Mistrz pragnie z tob¹ mówiæ.}
+{172}{}{Zap³acisz za twoje BLUNIERSTWO!}
+{173}{}{Ten robot wydaje siê nie funkcjonowaæ. Mo¿e to byæ spowodowane brakiem zasilania.}
+{174}{}{Nie dostrzegasz w tym robocie nic szczególnego.}
+{175}{}{To Ostrze nie zamierza z tob¹ rozmawiaæ.}
+{176}{}{Ta aktówka jest zaplombowana i nie mo¿na jej otworzyæ.}
+{177}{}{Proszê, musimy siê pospieszyæ. Nie mamy teraz czasu na rozmowê.}
+{178}{}{Jedynie Morfeusz ma klucz do tych drzwi. Muszê teraz odejœæ, ¿eby powiadomiæ Nicole, co siê tutaj dzieje.}
+{179}{}{Proszê, muszê st¹d odejœæ, zanim odkryj¹, kim jestem.}
+{180}{}{Nie udaje ci siê czegokolwiek ukraœæ; zastanawiasz siê, czy ktoœ ciê nakry³.}
+{181}{}{Cz³onkowie Bractwa przy³apali ciê na kradzie¿y.}
+# Mysterious Stranger messages
+{182}{}{Walimy!}
+{183}{}{Wygl¹da na to, ¿e przyda³aby ci siê pomoc.} # 1
+{184}{}{Pomogê ci.}
+{185}{}{Nie gadam du¿o.}
+{186}{}{S³yszysz dobiegaj¹cy z g³oœnika komunikat "Uwaga! Wrogie wtargniêcie.".}
+{187}{}{MaŸ spowalnia pracê klawiatury.}
+{188}{}{Radskorpiony s¹ teraz pogrzebane w swojej jaskini.}
+{189}{}{Otwór jaskini zaprasza ciê w g³¹b gniazda radskorpionów.}
+
+{200}{}{To straszliwie uszkodzony emiter pola si³owego.}
+{201}{}{Ten emiter jest nadmiernie uszkodzony, by dzia³aæ.}
+{202}{}{Ten emiter jest nadmiernie uszkodzony, by mo¿na by³o go naprawiæ.}
+{203}{}{Pole jest na tyle os³abione, ¿e mo¿na przez nie przejœæ.}

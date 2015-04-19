@@ -1,0 +1,309 @@
+# Beth is female. She speaks with a normal accent. She is a friendly person
+# who is mostly interested in selling equipment and information.
+{100}{}{To Beth, kierowniczka Sklepu z Broni¹.}
+{101}{}{Siemanko. Jak mogê ci pomóc?}
+{102}{}{Czy mogê zadaæ ci parê pytañ?}
+{103}{}{Czy mogê ci zadaæ jeszcze parê pytañ?}
+{104}{}{Chcê coœ kupiæ.}
+{105}{}{Mam coœ do sprzedania.}
+{106}{}{Jak siê w tej okolicy zarabia pieni¹dze?}
+{107}{}{Niewa¿ne. Czeœæ.}
+{108}{}{Ruk?}
+{109}{}{Co mówi¹ na mieœcie o zaginionych karawanach?}
+# the Deathclaw is male
+{110}{}{Co wiesz o Szponie Œmierci?}
+{111}{}{Czy mog³abyœ jeszcze raz opowiedzieæ mi o Szponie Œmierci?}
+# Decker is male
+{112}{}{Co mo¿esz mi powiedzieæ o Kafarze? }
+{113}{}{Co mo¿esz mi powiedzieæ o poszczególnych grupach kupców?}
+{114}{}{S³ysza³aœ jakieœ ciekawe pog³oski?}
+{115}{}{Dziêki, to wszystko. Czeœæ.}
+{116}{}{Umm, niewa¿ne.}
+# Jain is a female religious figure
+{117}{}{Có¿, nie lubiê plotkowaæ, ale s³ysza³am, ¿e œmieræ Kafara jest jakoœ powi¹zana z zamachem na Jain.}
+# The Maltese Falcon is a bar
+{118}{}{Có¿, zwykle nie obmawiam ludzi za ich plecami, ale znam kogoœ, kto zna kogoœ, kto mówi, ¿e widzia³, jak trzy niesamowicie du¿e postacie w habitach wchodz¹ do Soko³a Maltañskiego na chwilê przed morderstwami.}
+# The Children of the Cathedral is an organization - religious
+{119}{}{Có¿, zwykle nie obmawiam ludzi za ich plecami, ale ktoœ zabi³ Jain, Najwy¿sz¹ Kap³ankê Dzieci Katedry. Ja sama za nimi nie przepadam, ale nie wiem, co ona mog³a takiego zrobiæ, ¿eby na to zas³u¿yæ.}
+# The Brotherhood of Steel is an organization - religious
+{121}{}{Có¿, zwykle nie obmawiam ludzi za ich plecami, ale zaprzyjaŸniony ze mn¹ kupiec widzia³ grupê mutantów pêtaj¹cych siê po pustyni za Cytadel¹ Bractwa Stali, daleko na pó³nocnym zachodzie.}
+{122}{}{Có¿, zwykle nie obmawiam ludzi za ich plecami, ale Dzieci Katedry rozpytuj¹, gdzie jesteœ. Na twoim miejscu bym uwa¿a³a. Dziwna z nich paczka.}
+{123}{}{Có¿, nie lubiê plotkowaæ, ale s³ysza³am, ¿e œmieræ Kafara jest jakoœ powi¹zana z zamachem na Jain.}
+{124}{}{Jest jeszcze coœ. Znam kogoœ, kto zna kogoœ, kto mówi, ¿e widzia³, jak trzy niesamowicie du¿e postacie w habitach wchodz¹ do Soko³a Maltañskiego na chwilê przed morderstwami.}
+{125}{}{Jest jeszcze coœ. Ktoœ zabi³ Jain, Najwy¿sz¹ Kap³ankê Dzieci Katedry. Ja sama za nimi nie przepadam, ale nie wiem, co ona mog³a takiego zrobiæ, ¿eby na to zas³u¿yæ.}
+{126}{}{Jest jeszcze coœ. ZaprzyjaŸniony ze mn¹ kupiec widzia³ grupê mutantów pêtaj¹cych siê po pustyni za Cytadel¹ Bractwa Stali, daleko na pó³nocnym zachodzie.}
+{127}{}{Jest jeszcze coœ. Dzieci Katedry rozpytuj¹, gdzie jesteœ. Na twoim miejscu bym uwa¿a³a. Dziwna z nich paczka.}
+{128}{}{Coœ jeszcze?}
+{129}{}{Dziêki, czy mogê zadaæ ci kolejne pytanie?}
+{130}{}{OK, dziêki.}
+{131}{}{Przepraszam, co to by³o?}
+# Klug and Ruk are a stupid person saying something incomprehensible
+{132}{}{Klug?}
+{133}{}{Ruk!}
+{134}{}{Wybacz, nie rozumiem. Proszê, przyjdŸ ponownie, jak poczujesz siê lepiej.}
+# The Merchant Market is a location
+{135}{}{Có¿, ja nie przyjmujê, ale na Targu stoi tablica z og³oszeniami o pracy, mo¿esz sprawdziæ tam.}
+{136}{}{OK, dziêki.}
+{137}{}{Nie, a przynajmniej nic rzeczywiœcie ciekawego. Daj mi trochê poszperaæ. [Beth mruga do ciebie.] Coœ jeszcze?}
+{138}{}{Tak.}
+{139}{}{Nie.}
+{140}{}{Co jeszcze mogê dla ciebie zrobiæ?}
+{141}{}{Oczywiœcie, ¿e mo¿esz; nie wyg³upiaj siê.}
+{142}{}{Ale¿ pewnie, z przyjemnoœci¹ ci pomogê. Co chcesz wiedzieæ?}
+{143}{}{W porz¹dku. Có¿, mi³o by³o z tob¹ porozmawiaæ, ¿yczê ci mi³ego dnia.}
+{144}{}{Nie, to wszystko. Czy chcesz o czymœ jeszcze ze mn¹ porozmawiaæ?}
+{145}{}{Tak.}
+{146}{}{Nie.}
+{147}{}{Có¿, nied³ugo zajrzyj tu ponownie. Czuj siê tu jak u siebie.}
+{148}{}{O, to ktoœ, z kim nie chce siê kiedykolwiek zadzieraæ; mnie on przera¿a. Jest "posiadaczem" Soko³a Maltañskiego.}
+{149}{}{Czemu powiedzia³aœ to w taki sposób? Jest "posiadaczem" Soko³a Maltañskiego.}
+{150}{}{Dlaczego Kafar ciê przera¿a? }
+{151}{}{Wybacz, po prostu przypomina mi to o przyjacielu, który posiada³ go przed nim. Kafar naprawdê bardzo go chcia³, ale mój przyjaciel nie zgodzi³ siê na sprzeda¿. Dwa dni póŸniej znaleŸli go martwego w bocznym zau³ku na Starym Mieœcie.}
+{152}{}{Dlaczego uwa¿asz, ¿e to Kafar jest za to odpowiedzialny?}
+{153}{}{No có¿, powinien by³ wiedzieæ, ¿e nie nale¿y zadzieraæ z Kafarem.}
+{154}{}{Wybacz, ale muszê ju¿ iœæ.}
+{155}{}{Mój przyjaciel by³ maniakiem higieny. Nie zbli¿y³by siê nawet na sto metrów do Starego Miasta. Zosta³ zastrzelony z Magnum; nikogo ze Starówki na nie nie staæ. Na dodatek dosta³ raz w g³owê i dwa razy w plecy. Czy to wygl¹da na napad rabunkowy? A mój przyjaciel tylko próbowa³ odzyskaæ swoje ¿ycie.}
+{156}{}{Hej, podoba mi siê jego styl. Jak kogoœ zabije, umieszcza jego cia³o w miejscu, którym tamten najbardziej gardzi³.}
+{157}{}{Odzyskaæ swoje ¿ycie?}
+{158}{}{Przykro mi to s³yszeæ.}
+{159}{}{Ach, OK.}
+{160}{}{Zapewne nie rozumiesz, ale wiêkszoœæ z nas wygl¹da dnia, kiedy bêdziemy w³aœcicielami naszego w³asnego ¿ycia. Kiedy nie bêdzie ono nale¿a³o do kupców albo lichwiarzy.}
+{161}{}{A, dziêki.}
+{162}{}{Czy ty nigdy nie przestajesz mówiæ?!}
+{163}{}{To najdurniejszy tekst, jaki ktokolwiek wypowiedzia³ w mojej obecnoœci!}
+{164}{}{Czy mogê coœ jeszcze dla ciebie zrobiæ?}
+{165}{}{Có¿, przepraszam, ale to TY o to pytasz.}
+{166}{}{Jest najgroŸniejsz¹ osob¹ w Hubie; wiêkszoœæ uwa¿a, ¿e to on tu rz¹dzi, a nie kupcy lub Policja. Je¿eli kiedykolwiek wejdziesz mu w drogê, to uwa¿aj na siebie.}
+{167}{}{To nie daje mu prawa, ¿eby kogokolwiek zabijaæ.}
+{168}{}{Robi mi siê przez ciebie niedobrze; proszê, odejdŸ st¹d. Na pewno brakuje mu twojego towarzystwa.}
+{169}{}{Có¿, s¹ trzy g³ówne grupy kupieckie. To Kupcy Wodni, Karmazynowa Karawana oraz Wszêdobylscy Handlowcy. Oni wszyscy tworz¹ te¿ Radê Miejsk¹. O czym chcesz siê dowiedzieæ?}
+{170}{}{O Kupcach Wodnych.}
+{172}{}{O Karmazynowej Karawanie.}
+{173}{}{O Wszêdobylskich Handlowcach.}
+{174}{}{O Radzie Miejskiej.}
+{175}{}{To wszystko. Dziêki za informacje.}
+{176}{}{Tak faktycznie, to niewa¿ne.}
+{177}{}{Do nich nale¿y ca³a woda. To chciwi ludzie, nie chcia³abym dla nich pracowaæ. P³ace u nich s¹ najgorsze, a robota jest równie kiepska.}
+{178}{}{Czy oni zawsze kontrolowali wszystk¹ wodê?}
+{179}{}{Czy to oni stoj¹ za zaginiêciami karawan?}
+{180}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{181}{}{Dziêki, czeœæ.}
+{182}{}{O czym jeszcze chcesz wiedzieæ?}
+{183}{}{Nie. Z tego co s³ysza³am, kawa³ czasu temu grupa kupców przejê³a kontrolê nad Wie¿¹ Ciœnieñ i og³osi³a, ¿e s¹ Kupcami Wodnymi, i wszyscy maj¹ od nich kupowaæ wodê. Wojna kupiecka szala³a ca³ymi latami, dopóki cz³owiek nazwiskiem Roy Greene - ta, dziadek Justina, zgadza siê - nie pomóg³ wynegocjowaæ porozumienia, które j¹ zakoñczy³o.}
+{184}{}{Co to by³o za porozumienie?}
+{185}{}{Cholera! Trzeba by³o nie pytaæ.}
+{186}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{187}{}{Dziêki, czeœæ.}
+{188}{}{Có¿, ustanowi³ Radê Miejsk¹ i ustali³ maksymalny pu³ap ceny wody. Osobiœcie uwa¿am, ¿e trzeba by³o spraæ ich na kwaœne jab³ko - ach, przepraszam. Chcia³am powiedzieæ, ¿e trzeba by³o im pokazaæ, kto tu rz¹dzi.}
+{189}{}{Œwietnie. Nie by³o mi potrzebne a¿ tyle informacji, ale tak czy owak dziêki.}
+{190}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{191}{}{Dziêki, czeœæ.}
+{192}{}{Wybacz, czêsto dajê siê ponieœæ moim s³owom. Czy chcesz dowiedzieæ siê o czymœ jeszcze?}
+{193}{}{Karmazynowa Karawana to banda szaleñców. Wykonaj¹ dowolne zlecenie, bez wzglêdu na ryzyko. Dziwi mnie, ¿e nie zaginê³o im wiêcej karawan ni¿ pozosta³ym.}
+{194}{}{Im te¿ gin¹ karawany?}
+{195}{}{Jakie ryzyko?}
+{196}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{197}{}{Dziêki, czeœæ.}
+{198}{}{Przechodz¹ przez sam œrodek terenów, o których wiadomo, ¿e grasuj¹ na nich najeŸdŸcy. Bardzo du¿o sobie licz¹, tak ¿e staæ ich na wynajêcie dodatkowych ludzi. Zarobki u nich s¹ wspania³e, ale trzeba ¿yæ, ¿eby móc je wydaæ, no nie?}
+{199}{}{Im te¿ gin¹ karawany?}
+{200}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{201}{}{Dziêki, czeœæ.}
+{202}{}{W rzeczywistoœci to wszystkim grupom zniknê³o po kilka karawan. Przypuszczam, ¿e Wszêdobylscy Handlowcy maj¹ po prostu pecha.}
+{203}{}{Jakie ryzyko podejmuje Karmazynowa Karawana?}
+{204}{}{Dziêki, mam kolejne pytanie na temat kupców...}
+{205}{}{Dziêki, czeœæ.}
+{206}{}{Wszêdobylscy Handlowcy dobrze p³ac¹, a praca u nich nie jest zbyt niebezpieczna. Butch jest w³aœcicielem tego sklepu, to dobry cz³owiek. S¹ uczciwi i pozwalaj¹ mi prowadziæ ten lokal tak, jak mi siê podoba; lubiê z nimi pracowaæ. Dodatkowo, ludzie, którzy pracuj¹ dla Butcha, dostaj¹ tutaj rabat przy zakupach.}
+{207}{}{Ja osobiœcie tak nie uwa¿am. Myœlê, ¿e to robota Szpona Œmierci albo mo¿e Bractwa Stali.}
+{208}{}{Dlaczego nie podejrzewasz Kupców Wodnych?}
+{209}{}{Czym dok³adnie jest Szpon Œmierci?}
+{210}{}{Czy mog³abyœ mi jeszcze raz opowiedzieæ o Szponie Œmierci? }
+{211}{}{Czym jest Bractwo?}
+{212}{}{Dlaczego s¹dzisz, ¿e to Bractwo Stali?}
+{213}{}{Dziêki, wróæmy do kupców.}
+{214}{}{OK, có¿, muszê ju¿ iœæ.}
+{215}{}{Niektórzy s¹dz¹, ¿e to Kupcy Wodni s¹ za to odpowiedzialni, ale ja tak nie myœlê. Uwa¿am, ¿e to ten drañski Szpon Œmierci, albo mo¿e ludzie Bractwa Stali.}
+{216}{}{Có¿, myœla³am, ¿e to on porywa karawany, ale wychodzi na to, ¿e to nie jego sprawka. Nadal jednak gdzieœ jest. Za du¿o kr¹¿y o nim plotek, ¿eby nie istnia³.}
+{217}{}{Myœlê, ¿e to on porywa karawany. Mo¿e za to te¿ odpowiadaæ Bractwo Stali; dziwna z nich paczka. Niektórzy uwa¿aj¹, ¿e to Kupcy Wodni, ale siê myl¹.}
+{218}{}{Pewnie.}
+{219}{}{Poniewa¿, jak mówiê wszystkim, im te¿ zniknê³o kilka karawan. Nie ma porównania z tym, co siê przytrafia Wszêdobylskim Handlowcom, ale ich to te¿ dotyka.}
+{220}{}{Mog¹ k³amaæ, albo mo¿e to byæ czêœci¹ ich planu, ¿eby odwróciæ od nich podejrzenia.}
+{221}{}{Dlaczego Wszêdobylskim Handlowcom zdarza siê to czêœciej ni¿ innym?}
+{222}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{223}{}{Dziêki, wróæmy do kupców.}
+{224}{}{Sadzisz takie bzdury, ¿e gówno wy³azi ci uszami!}
+{225}{}{Dziêki, ale muszê ju¿ iœæ.}
+{226}{}{Wypraszam sobie! Strasznie szybko wydajesz s¹dy, czy boisz siê prawdy?}
+{227}{}{Jest tam szeœciu przedstawicieli, po dwóch z ka¿dej z g³ównych grup kupieckich. ¯eby coœ przesz³o, musi dostaæ co najmniej cztery g³osy. Nigdy nie mog¹ siê zgodziæ w ¿adnej sprawie.}
+{228}{}{Dobra myœl, ale ja w to szczerze w¹tpiê. Sabotuj¹ innych od lat, ale to nie w ich stylu. Nie wydaliby tyle pieniêdzy, ¿eby likwidowaæ karawany. Dodatkowo, wszystkie karawany maj¹ solidn¹ ochronê. Mo¿na by przypuszczaæ, ¿e ktoœ by im uciek³. Kupcy maj¹ za ma³o personelu i gotówki, ¿eby to przeprowadziæ. Przynajmniej jedna osoba by ocala³a.}
+{229}{}{Ta, ale czemu Wszêdobylskim Handlowcom zdarza siê to czêœciej ni¿ pozosta³ym?}
+{230}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{231}{}{Dziêki, wróæmy do kupców.}
+{232}{}{Dziêki, ale muszê ju¿ iœæ. }
+{233}{}{Pech? Nie wiem, mo¿e podró¿uj¹ innymi trasami, ni¿ pozostali. Mo¿e dlatego, ¿e nie s¹ tak dobrze chronieni jak Karmazynowa Karawana, ale... mog¹ mieæ lepszy towar ni¿ Kupcy Wodni. Kto wie. Wydaje siê, ¿e nie ma ¿adnych wyraŸnych ró¿nic miêdzy t¹ trójk¹.}
+{234}{}{Kupcy Wodni mog¹ k³amaæ, albo mo¿e to byæ czêœci¹ ich planu, ¿eby odwróciæ od nich podejrzenia.}
+{235}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{236}{}{Dziêki, wróæmy do kupców. }
+{237}{}{Ty NIGDY nie przestajesz mówiæ, prawda?!}
+{238}{}{Dziêki, ale muszê ju¿ iœæ.}
+{239}{}{O, przepraszam! Mo¿esz odejœæ w ka¿dej chwili. Je¿eli nie chcesz s³uchaæ moich odpowiedzi, to nie zadawaj mi pytañ.}
+{240}{}{Szpon Œmierci to najwiêksze z³o, jakie powsta³o z popio³ów po Wojnie. Niektórzy mówi¹, ¿e to potê¿ny duch z czasu Wojny, który nawiedza Pustkowie. To nie duch, jest tak samo rzeczywisty jak ty i ja. Ma 6 metrów wysokoœci i zêby tak du¿e, jak twoja rêka. To jakiegoœ rodzaju demon, który dosta³ siê tu, gdy œwiat obejmowa³y p³omienie.}
+{241}{}{Ee, trzeba by³o nie pytaæ.}
+{242}{}{Jesteœ szalona! Powinno siê zakoñczyæ twoj¹ niedolê tu i teraz.}
+{243}{}{Czy wiesz coœ jeszcze o Szponie Œmierci?}
+{244}{}{O kurde! Czy wiesz, gdzie on jest?}
+{245}{}{Có¿, znam tego starego mutanta ze Starówki, który nazywa siê Harold. On go widzia³. Jest jedyn¹ osob¹, która go zobaczy³a i prze¿y³a.}
+{246}{}{Jedyn¹ osob¹, która go zobaczy³a i prze¿y³a?}
+{247}{}{Ta, jasne, a ja jestem tatusiem tego Szpona Œmierci.}
+{248}{}{Ta, jasne, a ja jestem mamusi¹ tego Szpona Œmierci.}
+{249}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{250}{}{Dziêki, wróæmy do kupców.}
+{251}{}{Sprawdzê to. Na razie.}
+{252}{}{Wujek Slappy na Starym Mieœcie czasem o nim mówi, ale on jest po prostu starym, szalonym durniem.}
+{253}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{254}{}{Dziêki, wróæmy do kupców.}
+{255}{}{Dziêki. Sprawdzê to. Czeœæ.}
+{256}{}{Jeszcze siê przekonasz!}
+{257}{}{Ta, to doœæ zadziwiaj¹ce, no nie? Jest gdzieœ na po³udniowy zachód st¹d. Na Starówce jest stary mutant imieniem Harold, który faktycznie widzia³ go w jego le¿u. To najmilszy ³ach, jakiego znam.}
+{258}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{259}{}{Dziêki, wróæmy do kupców.}
+{260}{}{Dziêki. Sprawdzê to. Czeœæ.}
+{261}{}{Bractwo Stali jest pe³ne szaleñców, którzy czcz¹ technologiê; s¹ na pó³nocny zachód st¹d. Sk³adaj¹ ofiary z ludzi i robi¹ wszelkie inne straszne rzeczy.}
+{262}{}{To absurdalne! Kto ci czegoœ takiego naopowiada³?}
+{263}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{264}{}{Dziêki, wróæmy do kupców.}
+{265}{}{To okropne, dziêki za ostrze¿enie. Czeœæ.}
+{266}{}{Có¿, ee. Nie pamiêtam, ale ktokolwiek to by³, nie k³ama³by... Chodzi mi o to, ¿e to mo¿e byæ prawda! Tak czy owak powinno siê byæ ostro¿nym.}
+{267}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{268}{}{Có¿, wróæmy do kupców.}
+{269}{}{Jesteœ idiotk¹!}
+{270}{}{Zobacz, która to ju¿ godzina, muszê lecieæ! Na razie.}
+{271}{}{Co, nie wiesz? [Beth zaczyna mówiæ szeptem.] S³ysza³am, ¿e oni sk³adaj¹ ofiary z ludzi i robi¹ wszelkie inne straszne rzeczy!}
+{272}{}{Tak, robimy to. Co w tym z³ego?}
+{273}{}{Jako CZ£ONEK Bractwa, mogê ciê ZAPEWNIÆ, i¿ NIC takiego siê tam nie dzieje!}
+{274}{}{Naprawdê? W czasie mojego pobytu w ich Cytadeli wydali mi siê dziwni, ale nie tacy Ÿli.}
+{275}{}{Naprawdê? Pierwszy raz o tym s³yszê.}
+{276}{}{Udajesz, ¿e niby o tym nie wiesz. NajwyraŸniej nale¿ysz do nich, skoro ³azisz w tym metalowym stroju. Wy wszyscy jesteœcie chorzy.}
+{277}{}{Nie wiem, o co ci chodzi, lecz mogê ciê zapewniæ, ¿e w Bractwie nie dzieje siê nic "chorego".}
+{278}{}{Ta, i co z tego? Czy ktoœ na tym œwiecie nie jest chory?}
+{279}{}{Pierwszy raz o tym s³yszê.}
+{280}{}{Proszê pana, przepraszam. Proszê schowaæ broñ.}
+{281}{}{Proszê pani, przepraszam. Proszê schowaæ broñ.}
+{282}{}{Wybacz, ale nie pomogê ci, dopóki nie schowasz broni. To sklep, a nie arena.}
+{283}{}{Eee... No có¿, ta... Umm. Ty... Ja... Czy potrzebujesz jeszcze czegoœ?}
+{284}{}{Nigdy nie wiadomo, jaki ktoœ jest w rzeczywistoœci, gdy nikt nie patrzy mu na rêce. Trzeba uwa¿aæ na to, z kim siê zadajemy. Czy potrzebujesz jeszcze czegoœ?}
+# Not believing the player for a moment, then getting nervous
+{285}{}{Ty jesteœ?... Mam na myœli... Nie mia³am na myœli... Umm... Uroczy dzieñ dzisiaj mamy. Nie s¹dzisz? No wiêc, czy mogê coœ jeszcze dla ciebie zrobiæ?}
+{286}{}{Mam kolejne pytanie na temat zaginionych karawan...}
+{287}{}{Dziêki, wróæmy do kupców.}
+{288}{}{Nie, ju¿ wystarczy. Czeœæ.}
+{289}{}{Jasne, jak tam sobie chcesz. Czy mogê coœ jeszcze dla ciebie zrobiæ?}
+{290}{}{Wspaniale! Pozwól, ¿e poka¿ê ci, co mam.}
+{291}{}{Mam najlepsze towary, czego szukasz?}
+{292}{}{To muzyka dla moich uszu! Czego ci trzeba?}
+{293}{}{PrzejdŸmy do interesów.}
+{294}{}{Jeœli masz pieni¹dze, masz moj¹ uwagê.}
+{295}{}{Nale¿ysz do mojego ulubionego rodzaju klientów!}
+{296}{}{Chcesz coœ kupiæ? Mo¿e Ÿle ciê oceni³am.}
+{297}{}{Ach, zgadza siê. Pracujesz dla Butcha, wiêc dostajesz 15% rabatu.}
+{298}{}{Nadal dam ci 15% rabatu, bo ciê polubi³am.}
+{299}{}{Przykro mi, ju¿ wiêcej nie dostaniesz rabatu.}
+{300}{}{Poka¿ mi, co masz.}
+{301}{}{Czy masz cokolwiek dobrego?}
+{302}{}{Có¿, zobaczmy.}
+{303}{}{Jasne.}
+{304}{}{Co masz dla mnie dzisiaj?}
+{305}{}{To wspaniale. Zawsze przyda mi siê wiêcej towaru.}
+{306}{}{Z chêci¹ rzucê okiem na to, co masz.}
+{307}{}{Nie próbuj mnie wycyckaæ.}
+{308}{}{Mo¿e dam ci coœ mi sprzedaæ, ale lepiej niech to bêdzie coœ dobrego.}
+{309}{}{Lepiej nie marnuj mojego czasu.}
+{310}{}{Mam nadziejê, ¿e tym razem masz coœ, czego potrzebujê.}
+{311}{}{Witaj ponownie. Mi³o ciê widzieæ. Jak mogê ci pomóc tego piêknego dnia?}
+{312}{}{O, witaj! Mi³o ciê znowu widzieæ. Co mogê dzisiaj dla ciebie zrobiæ?}
+{313}{}{Chcia³abym zrobiæ sobie wolne, na zewn¹trz jest tak uroczo.}
+{314}{}{O, witaj ponownie. Przystojnie dzisiaj wygl¹damy, co?}
+{315}{}{Tak szybko z powrotem?}
+{316}{}{Nie by³o ciê tu tylko przez chwilê. Ju¿ za mn¹ têsknisz?}
+{317}{}{Ju¿ czegoœ potrzebujesz?}
+{318}{}{Kopê lat. Co mogê dzisiaj dla ciebie zrobiæ?}
+{319}{}{Minê³o trochê czasu; mam nadziejê, ¿e nic ci siê nie sta³o.}
+{320}{}{Jak widzê, wci¹¿ ¿yjesz. Ju¿ zaczyna³am siê martwiæ. Co mogê dzisiaj dla ciebie zrobiæ?}
+{321}{}{Nareszcie jesteœ. Nie by³o ciê tu ponad tydzieñ. Musisz byæ ze mn¹ w kontakcie, przecie¿ to TY jesteœ moim ulubionym klientem!}
+{322}{}{Tak?}
+{323}{}{Co?}
+{324}{}{Jesteœ tu po to, ¿eby coœ kupiæ, czy nie?}
+{325}{}{To mój sklep, lepiej zachowuj siê jak nale¿y.}
+{326}{}{O co chodzi?!}
+{327}{}{Znowu ty?}
+{328}{}{Czas to pieni¹dz, o co chodzi?}
+{329}{}{Potrzebujesz czegoœ?}
+{330}{}{Znasz nowinê? On nie ¿yje! Jestem wniebowziêta! To najlepsze, co kiedykolwiek przydarzy³o siê temu miastu.}
+{331}{}{Ju¿ ci mówi³am. On nie ¿yje! Zwyczajnie o nim zapomnijmy, bo jego imiê przywo³uje z³e wspomnienia.}
+{332}{}{Ach, tak.}
+{333}{}{Ta, on na to zas³u¿y³, i po jego zabiciu nie odczuwam wyrzutów sumienia.}
+# Sid works for Beth. Sid is male.
+{334}{}{To ty to zrobi³eœ? Naprawdê? Kocham ciê! [Beth spogl¹da na Sida.] Nawet o tym nie myœl, m¹dralo... Masz, to w dowód mojej wdziêcznoœci... [Beth wrêcza ci szeœæ Stimpaków.] To niewiele, ale naprawdê to doceniam!}
+{335}{}{To ty to zrobi³aœ? Naprawdê? Jesteœ najlepsza! Nie masz pojêcia, jaka by³am szczêœliwa, kiedy us³ysza³am, ¿e on nie ¿yje. Masz, weŸ to... [Beth wrêcza ci szeœæ Stimpaków.] To niewiele, ale naprawdê to doceniam!}
+{336}{}{Przepraszam, ¿e nie mam nic, co by ci siê podoba³o.}
+{337}{}{Nie widzisz niczego, co by ci siê podoba³o? Postaram siê zdobyæ lepszy towar.}
+{338}{}{Przepraszam, je¿eli nie spodoba³a ci siê moja oferta, ale muszê mieæ mo¿liwoœæ sprzedania tego z zyskiem.}
+{339}{}{Mimo wszystko nie chcesz sprzedaæ? ¯aden problem.}
+{340}{}{Przykro mi, ¿e nie mog³am ci pomóc. ¯yczê ci mi³ego dnia.}
+{341}{}{Mo¿e nastêpnym razem. Czeœæ.}
+{342}{}{Mam nadziejê, ¿e nastêpnym razem bêdê mog³a ci bardziej pomóc.}
+{343}{}{Przestañ marnowaæ mój czas.}
+{344}{}{Je¿eli nie zamierzasz nic kupiæ, to proszê, wyjdŸ.}
+{345}{}{Skoro nie chcesz nic kupiæ, to chcia³abym zostaæ sama.}
+{346}{}{Je¿eli niczego nie sprzedajesz, to proszê, wyjdŸ.}
+{347}{}{Nie zawracaj mi g³owy, je¿eli nie chcesz niczego sprzedaæ.}
+{348}{}{Proszê wyjœæ.}
+{349}{}{Wiedzia³am, ¿e znowu bêdziesz marnowaæ mój czas.}
+{350}{}{Tego siê spodziewa³am; wiedzia³am, ¿e w ogóle nie masz pieniêdzy.}
+{351}{}{Dziêki za ruch w interesie, mo¿e pójdê dzisiaj wczeœniej do domu.}
+{352}{}{Zostawiasz mi prawie same puste pó³ki!}
+{353}{}{Mam nadziejê, ¿e jesteœ w stanie unieœæ to wszystko!}
+{354}{}{Dziêki, mam nadziejê, ¿e uda mi siê to wszystko sprzedaæ!}
+{356}{}{Dziêkujê, to siê powinno dobrze sprzedaæ.}
+{357}{}{To mi siê przyda. Dziêki.}
+{358}{}{Mam nadziejê, ¿e gdzieœ to wszystko pomieszczê!}
+{359}{}{Có¿, wielkie dziêki! Mam nadziejê, ¿e spotka ciê dziœ cudowny dzieñ!}
+{360}{}{Dziêki za ruch w interesie, wpadaj tu, kiedy chcesz.}
+{361}{}{Bêdziesz tu zawsze mi³ym goœciem, w godzinach roboczych, oczywiœcie.}
+{362}{}{Dziêkujê i ¿yczê ci mi³ego dnia.}
+{363}{}{Czeœæ! I dziêki!}
+{364}{}{To ju¿ wszystko, tylko amunicja? Jestem zawiedziona. Có¿, nastêpnym razem musisz wydaæ wiêcej!}
+{365}{}{Robisz zapasy amunicji? To dobry pomys³. Nigdy nie ma siê jej doœæ.}
+{366}{}{Tylko to, co niezbêdne, zgadza siê? Czeœæ!}
+{367}{}{Có¿, nie s¹dzi³am, ¿e coœ rzeczywiœcie kupisz.}
+{368}{}{Dziêki za ruch w interesie; nie jest z ciebie taki z³y cz³owiek.}
+{369}{}{Dziêki za towar.}
+{370}{}{¯yczê ci mi³ego dnia.}
+{371}{}{Czeœæ.}
+{372}{}{Dziêkujê.}
+{373}{}{Dziêki za zakupy, ¿yczê ci mi³ego dnia.}
+{374}{}{S³ysza³am!}
+{375}{}{Bez jaj.}
+{376}{}{Sid! Przestañ!}
+{377}{}{Ja ci dam prezent, jeœli siê nie zamkniesz.}
+{378}{}{S³ysza³am to! Zwalniam ciê!}
+{379}{}{Ignoruj go, ja zawsze tak robiê.}
+{380}{}{Ach, jesteœ po prostu rozkoszny, Sid.}
+{381}{}{Chcia³byœ.}
+{382}{}{Zamknij siê.}
+{383}{}{Hej. Spokój, Sid.}
+{384}{}{Nie s¹dzê, spryciarzu.}
+{385}{}{Jak nie zostawisz mojego klienta w spokoju, to ja ciê spiorê tak, ¿e bêdziesz niebieski.}
+{386}{}{Proszê wybaczyæ mojemu "odpychaj¹cemu" ochroniarzowi.}
+{387}{}{Ale z ciebie palant!}
+{388}{}{Sid!}
+{389}{}{Jak mnie nazwa³eœ? Sk¹d ty bierzesz te denerwuj¹ce okreœlenia?}
+{390}{}{[Beth wzdycha.] Powinnam}
+{391}{}{ go gdzieœ zamkn¹æ. Nie s¹dzisz?}
+{392}{}{Myœlê, ¿e jest zazdrosny!}
+{393}{}{Sid! Nie b¹dŸ niegrzeczny dla klientów!}
+{394}{}{Znasz jeszcze kogoœ, kto móg³by mieæ jakieœ informacje na temat Szpona Œmierci?}
+{395}{}{¯egnaj.}
+{396}{}{Dziêki.}
+{397}{}{Ook.}
+{398}{}{Czy czegoœ w tym mieœcie powinno siê unikaæ?}
+{399}{}{O, tak. Lepiej trzymaj siê tak daleko od Soko³a Maltañskiego, jak tylko mo¿esz. Kafar i jego obleœny pupilek Kane to gwarancja k³opotów. Zjedz¹ ciê ¿ywcem, je¿eli nie bêdziesz uwa¿aæ. Na twoim miejscu utrzymywa³abym te¿ bezpieczny dystans wobec Lorenza z Przyjaznego Towarzystwa Po¿yczkowego.}

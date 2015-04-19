@@ -1,313 +1,433 @@
 #
 # This is all of the combat messages used by combat.c
+# Note: all %d values will be filled with a number greater than 1
 #
-# Combat Flag Strings
+# Truly Generic strings (no need for gender/number issues)
+#
+{100}{}{You need %d action points.}
+{101}{}{Out of ammo.}
+{102}{}{Target out of range.}
+{103}{}{Combat cannot end with nearby hostile creatures.}
+{104}{}{Your aim is blocked.}
+{105}{}{You cannot use weapons with both arms crippled.}
+{106}{}{You cannot use two-handed weapons with a crippled arm.}
+{107}{}{You are not strong enough to use this weapon properly.}
+{108}{}{ and }
+#
+# Combat Flag Strings (all of these happen to you, the player)
 #
 {200}{}{knocked out}
 {201}{}{knocked down}
-{202}{}{crippled left leg}
-{203}{}{crippled right leg}
-{204}{}{crippled left arm}
-{205}{}{crippled right arm}
+{202}{}{crippled your left leg}
+{203}{}{crippled your right leg}
+{204}{}{crippled your left arm}
+{205}{}{crippled your right arm}
 {206}{}{blinded}
-{207}{}{killed}
+{207}{}{were killed}
 {208}{}{hit}
 {209}{}{critical}
 {210}{}{on fire}
-{211}{}{had its armor bypassed}
-{212}{}{weapon exploded}
-{213}{}{weapon destroyed}
-{214}{}{weapon dropped}
-{215}{}{lost next turn}
-{216}{}{hit self}
-{217}{}{lost rest of ammo}
+{211}{}{had your armor bypassed}
+{212}{}{your weapon exploded}
+{213}{}{your weapon destroyed}
+{214}{}{your weapon dropped}
+{215}{}{lost your next turn}
+{216}{}{hit yourself}
+{217}{}{lost the rest of your ammo}
 {218}{}{fired a dud shot}
-{219}{}{hurt self}
+{219}{}{hurt yourself}
 {220}{}{hit randomly}
 {221}{}{crippled a random limb}
 {222}{}{peppered with fragments}
 #
-# Miscellaneous combat messages
+# Combat Flag Strings (all of these happen to a male)
 #
-{500}{}{You fell unconscious.}
-{501}{}{%s fell unconscious.}
-{502}{}{You can't attack.}
-{503}{}{You need %d action points.}
-{504}{}{Out of ammo.}
-{505}{}{Target out of range.}
+{300}{}{knocked out}
+{301}{}{knocked down}
+{302}{}{crippled his left leg}
+{303}{}{crippled his right leg}
+{304}{}{crippled his left arm}
+{305}{}{crippled his right arm}
+{306}{}{blinded}
+{307}{}{was killed}
+{308}{}{hit}
+{309}{}{critical}
+{310}{}{on fire}
+{311}{}{had his armor bypassed}
+{312}{}{his weapon exploded}
+{313}{}{his weapon destroyed}
+{314}{}{his weapon dropped}
+{315}{}{lost his next turn}
+{316}{}{hit himself}
+{317}{}{lost the rest of his ammo}
+{318}{}{fired a dud shot}
+{319}{}{hurt himself}
+{320}{}{hit randomly}
+{321}{}{crippled a random limb}
+{322}{}{peppered with fragments}
+#
+# Combat Flag Strings (all of these happen to a female)
+#
+{400}{}{knocked out}
+{401}{}{knocked down}
+{402}{}{crippled her left leg}
+{403}{}{crippled her right leg}
+{404}{}{crippled her left arm}
+{405}{}{crippled her right arm}
+{406}{}{blinded}
+{407}{}{was killed}
+{408}{}{hit}
+{409}{}{critical}
+{410}{}{on fire}
+{411}{}{had her armor bypassed}
+{412}{}{her weapon exploded}
+{413}{}{her weapon destroyed}
+{414}{}{her weapon dropped}
+{415}{}{lost her next turn}
+{416}{}{hit herself}
+{417}{}{lost the rest of her ammo}
+{418}{}{fired a dud shot}
+{419}{}{hurt herself}
+{420}{}{hit randomly}
+{421}{}{crippled a random limb}
+{422}{}{peppered with fragments}
+#
+# Miscellaneous combat messages (all of these happen to you, the player)
+# Note: the first %s will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person singular,
+#          which is "You" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second %s is the name of another creature
 {506}{}{You}
-{507}{}{were}
-{508}{}{was}
-{509}{}{Oops! %s %s hit instead of %s!}
-{510}{}{%s dodged}
-{511}{}{%s %s critically hit in the %s for %d hit points}
-{512}{}{%s %s hit in the %s for %d hit points}
-{513}{}{%s %s hit for %d hit points}
+{509}{}{Oops! %s were hit instead of %s!}
+{511}{}{%s were critically hit in %s for %d hit points}
+{512}{}{%s were hit in %s for %d hit points}
+{513}{}{%s were hit for %d hit points}
 {514}{}{%s critically missed}
 {515}{}{%s missed}
-{516}{}{You were hit for %d hit points}
-{517}{}{Nearby %s hit for %d hit points}
-{518}{}{ and }
-{519}{}{Combat cannot end with nearby hostile creatures.}
-{520}{}{%s %s critically hit for %d hit points}
-{521}{}{%s %s critically hit in the %s for 1 hit point}
-{522}{}{%s %s hit in the %s for 1 hit point}
-{523}{}{%s %s hit for 1 hit point}
-{524}{}{%s %s critically hit for 1 hit point}
-{525}{}{%s %s critically hit in the %s for no damage}
-{526}{}{%s %s hit in the %s for no damage}
-{527}{}{%s %s hit for no damage}
-{528}{}{%s %s critically hit for no damage}
-{529}{}{Your aim is blocked.}
-{530}{}{You cannot use weapons with both arms crippled.}
-{531}{}{You cannot use two-handed weapons with a crippled arm.}
-{532}{}{You are not strong enough to use this weapon properly.}
+{520}{}{%s were critically hit for %d hit points}
+{521}{}{%s were critically hit in %s for 1 hit point}
+{522}{}{%s were hit in %s for 1 hit point}
+{523}{}{%s were hit for 1 hit point}
+{524}{}{%s were critically hit for 1 hit point}
+{525}{}{%s were critically hit in %s for no damage}
+{526}{}{%s were hit in %s for no damage}
+{527}{}{%s were hit for no damage}
+{528}{}{%s were critically hit for no damage}
 {533}{}{%s critically missed and took 1 hit point}
 {534}{}{%s critically missed and took %d hit points}
+#
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first %s is the name of the male creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second %s is the name of another creature
+#
+{608}{}{Oops! %s was hit instead of you!}
+{609}{}{Oops! %s was hit instead of %s!}
+{611}{}{%s was critically hit in %s for %d hit points}
+{612}{}{%s was hit in %s for %d hit points}
+{613}{}{%s was hit for %d hit points}
+{614}{}{%s critically missed}
+{615}{}{%s missed}
+{620}{}{%s was critically hit for %d hit points}
+{621}{}{%s was critically hit in %s for 1 hit point}
+{622}{}{%s was hit in %s for 1 hit point}
+{623}{}{%s was hit for 1 hit point}
+{624}{}{%s was critically hit for 1 hit point}
+{625}{}{%s was critically hit in %s for no damage}
+{626}{}{%s was hit in %s for no damage}
+{627}{}{%s was hit for no damage}
+{628}{}{%s was critically hit for no damage}
+{633}{}{%s critically missed and took 1 hit point}
+{634}{}{%s critically missed and took %d hit points}
+#
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first %s is the name of the female creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second %s is the name of another creature
+#
+{708}{}{Oops! %s was hit instead of you!}
+{709}{}{Oops! %s was hit instead of %s!}
+{711}{}{%s was critically hit in %s for %d hit points}
+{712}{}{%s was hit in %s for %d hit points}
+{713}{}{%s was hit for %d hit points}
+{714}{}{%s critically missed}
+{715}{}{%s missed}
+{720}{}{%s was critically hit for %d hit points}
+{721}{}{%s was critically hit in %s for 1 hit point}
+{722}{}{%s was hit in %s for 1 hit point}
+{723}{}{%s was hit for 1 hit point}
+{724}{}{%s was critically hit for 1 hit point}
+{725}{}{%s was critically hit in %s for no damage}
+{726}{}{%s was hit in %s for no damage}
+{727}{}{%s was hit for no damage}
+{728}{}{%s was critically hit for no damage}
+{733}{}{%s critically missed and took 1 hit point}
+{734}{}{%s critically missed and took %d hit points}
 #
 # Hit Locations (by art_num alias)
 #
 # regular humans
 #
-{1110}{}{head}
-{1111}{}{left arm}
-{1112}{}{right arm}
-{1113}{}{torso}
-{1114}{}{right leg}
-{1115}{}{left leg}
-{1116}{}{eyes}
-{1117}{}{groin}
+{1110}{}{the head}
+{1111}{}{the left arm}
+{1112}{}{the right arm}
+{1113}{}{the torso}
+{1114}{}{the right leg}
+{1115}{}{the left leg}
+{1116}{}{the eyes}
+{1117}{}{the groin}
 {1118}{}{uncalled}
 #
 # Brahmin (Mutant 2-Headed Cows)
 #
-{1150}{}{head}
-{1151}{}{left hindleg}
-{1152}{}{right hindleg}
-{1153}{}{torso}
-{1154}{}{right foreleg}
-{1155}{}{left foreleg}
-{1156}{}{eyes}
-{1157}{}{udder}
+{1150}{}{the head}
+{1151}{}{the left hindleg}
+{1152}{}{the right hindleg}
+{1153}{}{the torso}
+{1154}{}{the right foreleg}
+{1155}{}{the left foreleg}
+{1156}{}{the eyes}
+{1157}{}{the udder}
 {1158}{}{uncalled}
 #
 # dogs
 #
-{1160}{}{head}
-{1161}{}{hindleg}
-{1162}{}{hindleg}
-{1163}{}{body}
-{1164}{}{foreleg}
-{1165}{}{foreleg}
-{1166}{}{eyes}
-{1167}{}{groin}
+{1160}{}{the head}
+{1161}{}{the hindleg}
+{1162}{}{the hindleg}
+{1163}{}{the body}
+{1164}{}{the foreleg}
+{1165}{}{the foreleg}
+{1166}{}{the eyes}
+{1167}{}{the groin}
 {1168}{}{uncalled}
 #
 # Mr. Handy
 #
-{1170}{}{CPU}
-{1171}{}{manipulator}
-{1172}{}{manipulator}
-{1173}{}{frame}
-{1174}{}{motivator}
-{1175}{}{motivator}
-{1176}{}{sensors}
-{1177}{}{regulator}
+{1170}{}{the CPU}
+{1171}{}{the manipulator}
+{1172}{}{the manipulator}
+{1173}{}{the frame}
+{1174}{}{the motivator}
+{1175}{}{the motivator}
+{1176}{}{the sensors}
+{1177}{}{the regulator}
 {1178}{}{uncalled}
 #
 # Super Mutants
 #
-{1180}{}{head}
-{1181}{}{left arm}
-{1182}{}{right arm}
-{1183}{}{torso}
-{1184}{}{right leg}
-{1185}{}{left leg}
-{1186}{}{eyes}
-{1187}{}{groin}
+{1180}{}{the head}
+{1181}{}{the left arm}
+{1182}{}{the right arm}
+{1183}{}{the torso}
+{1184}{}{the right leg}
+{1185}{}{the left leg}
+{1186}{}{the eyes}
+{1187}{}{the groin}
 {1188}{}{uncalled}
 #
 # Mole-Rat
 #
-{1190}{}{head}
-{1191}{}{left paw}
-{1192}{}{right paw}
-{1193}{}{body}
-{1194}{}{right leg}
-{1195}{}{left leg}
-{1196}{}{eyes}
-{1197}{}{groin}
+{1190}{}{the head}
+{1191}{}{the left paw}
+{1192}{}{the right paw}
+{1193}{}{the body}
+{1194}{}{the right leg}
+{1195}{}{the left leg}
+{1196}{}{the eyes}
+{1197}{}{the groin}
 {1198}{}{uncalled}
 #
 # big humans and mutants
 #
-{1210}{}{head}
-{1211}{}{left arm}
-{1212}{}{right arm}
-{1213}{}{torso}
-{1214}{}{right leg}
-{1215}{}{left leg}
-{1216}{}{eyes}
-{1217}{}{groin}
+{1210}{}{the head}
+{1211}{}{the left arm}
+{1212}{}{the right arm}
+{1213}{}{the torso}
+{1214}{}{the right leg}
+{1215}{}{the left leg}
+{1216}{}{the eyes}
+{1217}{}{the groin}
 {1218}{}{uncalled}
 #
 # Radscorpion
 #
-{1220}{}{head}
-{1221}{}{tail}
-{1222}{}{claw}
-{1223}{}{carapace}
-{1224}{}{forelegs}
-{1225}{}{hindlegs}
-{1226}{}{eyes}
-{1227}{}{brain}
+{1220}{}{the head}
+{1221}{}{the tail}
+{1222}{}{the claw}
+{1223}{}{the carapace}
+{1224}{}{the forelegs}
+{1225}{}{the hindlegs}
+{1226}{}{the eyes}
+{1227}{}{the brain}
 {1228}{}{uncalled}
 #
 # Floater
 #
-{1230}{}{head}
-{1231}{}{mouth}
-{1232}{}{fore mouth}
-{1233}{}{body}
-{1234}{}{float sac}
-{1235}{}{tail}
-{1236}{}{ganglion}
-{1237}{}{ovipositor}
+{1230}{}{the head}
+{1231}{}{the mouth}
+{1232}{}{the fore mouth}
+{1233}{}{the body}
+{1234}{}{the float sac}
+{1235}{}{the tail}
+{1236}{}{the ganglion}
+{1237}{}{the ovipositor}
 {1238}{}{uncalled}
 #
 # masrat? a rat perhaps?
 #
-{1240}{}{head}
-{1241}{}{left paw}
-{1242}{}{right paw}
-{1243}{}{body}
-{1244}{}{right leg}
-{1245}{}{left leg}
-{1246}{}{eyes}
-{1247}{}{groin}
+{1240}{}{the head}
+{1241}{}{the left paw}
+{1242}{}{the right paw}
+{1243}{}{the body}
+{1244}{}{the right leg}
+{1245}{}{the left leg}
+{1246}{}{the eyes}
+{1247}{}{the groin}
 {1248}{}{uncalled}
 #
 # Centaur
 #
-{1250}{}{head}
-{1251}{}{left arm}
-{1252}{}{right arm}
-{1253}{}{body}
-{1254}{}{right leg}
-{1255}{}{left leg}
-{1256}{}{eyes}
-{1257}{}{groin}
+{1250}{}{the head}
+{1251}{}{the left arm}
+{1252}{}{the right arm}
+{1253}{}{the body}
+{1254}{}{the right leg}
+{1255}{}{the left leg}
+{1256}{}{the eyes}
+{1257}{}{the groin}
 {1258}{}{uncalled}
 #
 # human midgets and children
 #
-{1270}{}{head}
-{1271}{}{left arm}
-{1272}{}{right arm}
-{1273}{}{torso}
-{1274}{}{right leg}
-{1275}{}{left leg}
-{1276}{}{eyes}
-{1277}{}{groin}
+{1270}{}{the head}
+{1271}{}{the left arm}
+{1272}{}{the right arm}
+{1273}{}{the torso}
+{1274}{}{the right leg}
+{1275}{}{the left leg}
+{1276}{}{the eyes}
+{1277}{}{the groin}
 {1278}{}{uncalled}
 #
 # Overseer
 #
-{1460}{}{head}
-{1461}{}{left arm}
-{1462}{}{right arm}
-{1463}{}{torso}
-{1464}{}{right leg}
-{1465}{}{left leg}
-{1466}{}{eyes}
-{1467}{}{groin}
+{1460}{}{the head}
+{1461}{}{the left arm}
+{1462}{}{the right arm}
+{1463}{}{the torso}
+{1464}{}{the right leg}
+{1465}{}{the left leg}
+{1466}{}{the eyes}
+{1467}{}{the groin}
 {1468}{}{uncalled}
 #
 # Gizmo
 #
-{1490}{}{head}
-{1491}{}{left arm}
-{1492}{}{right arm}
-{1493}{}{torso}
-{1494}{}{right leg}
-{1495}{}{left leg}
-{1496}{}{eyes}
-{1497}{}{groin}
+{1490}{}{the head}
+{1491}{}{the left arm}
+{1492}{}{the right arm}
+{1493}{}{the torso}
+{1494}{}{the right leg}
+{1495}{}{the left leg}
+{1496}{}{the eyes}
+{1497}{}{the groin}
 {1498}{}{uncalled}
 #
 # The Master!
 #
-{1500}{}{head}
+{1500}{}{the head}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{frame}
+{1503}{}{the frame}
 {1504}{}{???}
 {1505}{}{???}
-{1506}{}{eyes}
-{1507}{}{CPU}
+{1506}{}{the eyes}
+{1507}{}{the CPU}
 {1508}{}{uncalled}
 #
 # Death Claw
 #
-{1510}{}{head}
-{1511}{}{left arm}
-{1512}{}{right arm}
-{1513}{}{torso}
-{1514}{}{right leg}
-{1515}{}{left leg}
-{1516}{}{eyes}
-{1517}{}{groin}
+{1510}{}{the head}
+{1511}{}{the left arm}
+{1512}{}{the right arm}
+{1513}{}{the torso}
+{1514}{}{the right leg}
+{1515}{}{the left leg}
+{1516}{}{the eyes}
+{1517}{}{the groin}
 {1518}{}{uncalled}
 #
 # Mantis
 #
-{1520}{}{head}
-{1521}{}{raptorial leg}
-{1522}{}{raptorial leg}
-{1523}{}{abdomen}
-{1524}{}{legs}
-{1525}{}{wings}
-{1526}{}{eyes}
-{1527}{}{metathorax}
+{1520}{}{the head}
+{1521}{}{the raptorial leg}
+{1522}{}{the raptorial leg}
+{1523}{}{the abdomen}
+{1524}{}{the legs}
+{1525}{}{the wings}
+{1526}{}{the eyes}
+{1527}{}{the metathorax}
 {1528}{}{uncalled}
 #
 # Robobrain
 #
-{1530}{}{CPU}
-{1531}{}{manipulator}
-{1532}{}{manipulator}
-{1533}{}{frame}
-{1534}{}{motivator}
-{1535}{}{motivator}
-{1536}{}{sensors}
-{1537}{}{regulator}
+{1530}{}{the CPU}
+{1531}{}{the manipulator}
+{1532}{}{the manipulator}
+{1533}{}{the frame}
+{1534}{}{the motivator}
+{1535}{}{the motivator}
+{1536}{}{the sensors}
+{1537}{}{the regulator}
 {1538}{}{uncalled}
 #
 # Eyeball (Robot)
 #
-{1540}{}{CPU}
-{1541}{}{manipulator}
-{1542}{}{manipulator}
-{1543}{}{frame}
-{1544}{}{motivator}
-{1545}{}{motivator}
-{1546}{}{sensors}
-{1547}{}{regulator}
+{1540}{}{the CPU}
+{1541}{}{the manipulator}
+{1542}{}{the manipulator}
+{1543}{}{the frame}
+{1544}{}{the motivator}
+{1545}{}{the motivator}
+{1546}{}{the sensors}
+{1547}{}{the regulator}
 {1548}{}{uncalled}
 #
 # Mutant Pig Rat (small Mole-Rat)
 #
-{1550}{}{head}
-{1551}{}{left paw}
-{1552}{}{right paw}
-{1553}{}{body}
-{1554}{}{right leg}
-{1555}{}{left leg}
-{1556}{}{eyes}
-{1557}{}{groin}
+{1550}{}{the head}
+{1551}{}{the left paw}
+{1552}{}{the right paw}
+{1553}{}{the body}
+{1554}{}{the right leg}
+{1555}{}{the left leg}
+{1556}{}{the eyes}
+{1557}{}{the groin}
 {1558}{}{uncalled}
 #
-# Critical Hit Messages 
+# Deathclaw Egg
+#
+{1580}{}{the shell}
+{1581}{}{the shell}
+{1582}{}{the shell}
+{1583}{}{the shell}
+{1584}{}{the shell}
+{1585}{}{the shell}
+{1586}{}{the shell}
+{1587}{}{the shell}
+{1588}{}{uncalled}
+
+#
+# Critical Hit Messages
 #
 # 5000 series - men (including generics)
 #
@@ -473,7 +593,7 @@
 {5512}{}{. The Brahmin snorts with pain}
 {5513}{}{. The Brahmin is most upset with this udderly devastating attack}
 #
-# series 5600 - Radscorpions 
+# series 5600 - Radscorpions
 #
 {5600}{}{, sending the Radscorpion flying on it's back}
 {5601}{}{, separating the head from the carapace}

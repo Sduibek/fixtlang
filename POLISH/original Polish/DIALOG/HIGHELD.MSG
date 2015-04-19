@@ -1,0 +1,68 @@
+{100}{}{To Starszy Bractwa.}
+{101}{}{Witaj, kadecie. Muszê z tob¹ porozmawiaæ. [Skinieniem rêki nakazuje ci podejœæ bli¿ej.]}
+{102}{}{O czym?}
+{103}{}{Akurat teraz nie mam czasu.}
+{104}{}{Eee?}
+{105}{}{Jest pilna sprawa, w której potrzebujê twojej pomocy. To Maxson. Jesteœmy ca³kiem pewni, ¿e odbi³a mu szajba. Ci¹gle plecie o armii gromadz¹cej siê na pó³nocy.}
+{106}{}{Nie zamierzam posy³aæ naszych ¿o³nierzy w te byæ mo¿e napromieniowane rejony, je¿eli nie bêdê mia³a niepodwa¿alnego dowodu, ¿e ta "armia" istnieje.}
+{107}{}{Potrzebny mi jest ktoœ, kto nie jest przyjacielem Starego. Ktoœ, od kogo mogê otrzymaæ obiektywny raport. Czy chcesz przebadaæ pó³nocny region?}
+{108}{}{Zrobiê to.}
+{109}{}{Teraz nie mogê siê tego podj¹æ. S¹ inne sprawy, którymi muszê siê zaj¹æ.}
+{110}{}{Zdarzy³o mi siê ju¿ widzieæ na pó³nocy bazê opanowan¹ przez armiê mutantów.}
+{111}{}{Dobrze. Najpierw pójdŸ do Maxsona, je¿eli jeszcze z tob¹ nie porozmawia³. Zamelduj siê z powrotem u mnie, gdy skontrolujesz pó³nocne terytorium. Potem zdecydujemy, co zrobiæ z Maxsonem.}
+{112}{}{¯ycz mi szczêœcia.}
+{113}{}{Czy ca³e pó³nocne terytorium zosta³o ju¿ przez ciebie zbadane?}
+{114}{}{Tak.}
+{115}{}{Nie.}
+{116}{}{I co masz do zameldowania?}
+{117}{}{Znajduje siê tam baza strze¿ona przez ciê¿kozbrojnych mutantów. Wygl¹da to bardzo groŸnie.}
+{118}{}{Nie s¹dzê. Nie by³o ciê nader krótko. Teraz ruszaj tam z powrotem, i nie wracaj, dopóki nie bêdziesz w stanie z³o¿yæ PE£NEGO raportu.}
+{119}{}{Tak jest.}
+{120}{}{Powiadomiê Starszych. Zaczekamy na decyzjê Maxsona co do naszych dalszych dzia³añ. IdŸ poinformowaæ go o twoim odkryciu. Dziêki za pomoc, kadecie.}
+{121}{}{Proszê bardzo.}
+{122}{}{Zatem wygospodarujesz czas, ¿eby mnie wys³uchaæ.}
+{123}{}{Masz moj¹ uwagê.}
+{124}{}{Mo¿esz iœæ do diab³a, starucho.}
+{125}{}{Zapomnij o tym. Mam wa¿niejsze sprawy do za³atwienia.}
+{126}{}{Rozumiem. Jeœli jednak dotrzesz do tamtego obszaru i coœ znajdziesz, daj mi, proszê, znaæ.}
+{127}{}{Zawiadomiê ciê, je¿eli znajdê na pó³nocy cokolwiek, co przypomina armiê.}
+{128}{}{Dobra robota z tymi mutantami. Ju¿ wiemy, ¿e ich zak³ad produkcyjny zosta³ przez ciebie zniszczony. Dziêki za zajêcie siê tym problemem za nas.}
+{129}{}{¯aden problem.}
+{130}{}{Eee? Co to za odpowiedŸ, "Eee"? OdejdŸ! Natychmiast!}
+{131}{}{Gdyby to zale¿a³o ode mnie, nie by³oby ciê tu.}
+{132}{}{Nie mam ci nic do powiedzenia.}
+{133}{}{Musisz siê nauczyæ moresu.}
+{134}{}{Zebranie zostaje niniejszym otwarte. Wszyscy Starsi s¹ obecni i zgodzili siê wys³uchaæ tez, które formu³uje brat }
+{135}{}{. Na tej podstawie okreœlimy, jakie dzia³ania zostan¹ przez nas podjête. Brat }
+{136}{}{ opowie nam teraz o obserwacjach poczynionych przezeñ na pó³nocy.}
+{137}{}{W trakcie moich eksploracji zosta³a przeze mnie odkryta instalacja wojskowa, u¿ytkowana przez mutantów. Jest ona silnie strze¿ona, a jej otoczenie regularnie patrolowane.}
+{138}{}{Punoca?}
+{139}{}{A jak wygl¹dali ci mutanci?}
+{140}{}{To du¿e humanoidy. Ich masa miêœniowa jest o wiele wiêksza od mo¿liwej do uzyskania w jakikolwiek sposób przez zwyk³ego cz³owieka. Wydaje siê, ¿e kilku z nich pilnuje bramy jako zorganizowany oddzia³.}
+{141}{}{Byli duzi, zielonkawi, i nosili broñ.}
+{142}{}{Jak byæ mo¿e wiesz, nasza Mistrz Skrybów, Vree, dokona³a autopsji stworzenia bardzo podobnego do w³aœnie przez ciebie opisanego. Czy uwa¿asz, ¿e nale¿¹ one do tego samego gatunku?}
+{143}{}{Tak. Opis tamtego stworzenia jest niemal identyczny z tym, co uda³o mi siê zaobserwowaæ.}
+{144}{}{Jakie, twoim zdaniem, zagro¿enie stanowi¹ ci "mutanci"?}
+{145}{}{Tak samo jak Bractwo szykuje siê do walki, ta "mutancia armia" przygotowuje siê do czegoœ du¿ego.}
+{146}{}{Mówi¹c szczerze, twój meldunek nie dostarczy³ nam jakichkolwiek dowodów na to, ¿e stanowi¹ oni dla nas zagro¿enie. Co mo¿esz przytoczyæ na potwierdzenie ich wrogich zamiarów?}
+{147}{}{Najechali Nekropolis. Na tym nie poprzestan¹.}
+{148}{}{Gromadz¹ armiê. Ciê¿kozbrojn¹ armiê. Z pewnoœci¹ nie bêd¹ tylko defilowaæ. Zamierzaj¹ jej u¿yæ.}
+{149}{}{Czy jest zatem prawdopodobne, ¿e wskutek podejmowanych przez nich dzia³añ dotr¹ w koñcu tutaj?}
+{150}{}{Istnieje mo¿liwoœæ, ¿e ju¿ tu zmierzaj¹. Bractwo jest jedyn¹ rzeczywist¹ przeszkod¹, jak¹ mog¹ napotkaæ.}
+{151}{}{Nie uwa¿am, ¿eby to œwiadczy³o o wrogim nastawieniu. Mog¹ siê po prostu broniæ przed atakami. Nawet my musimy radziæ sobie ze sporadycznymi napaœciami.}
+{152}{}{Jeœli zaatakuj¹, NIE BÊDZIE TO MIA£O PORÓWNANIA ze sporadycznymi atakami najeŸdŸców. To bêdzie rzeŸ.}
+{153}{}{Skoro operuj¹ z tej starej instalacji wojskowej, mogê sobie wyobraziæ, ¿e dysponuj¹ broni¹ porównywaln¹ do waszej.}
+{154}{}{Co sugerujesz? Prewencyjne uderzenie na ich bazê?}
+{155}{}{Tak. Nie chcê jednak, by siê zorientowali, ¿e nadchodzimy. Niewielki zespó³ bêdzie mia³ najwiêksze szanse dotrzeæ na teren ich bazy niewykryty.}
+{156}{}{To rozwi¹¿e tylko czêœæ problemu. Kieruje nimi grupa operuj¹ca z Katedry w Gruzach.}
+{157}{}{Niech tak bêdzie. Trzech wybranych przeze mnie paladynów spotka siê z tob¹ przy ich bazie, by pomóc ci dostaæ siê do jej wnêtrza. Starsi, dziêkujê wam za uwagê. Powodzenia, kadecie.}
+{158}{}{Je¿eli jakaœ grupa kieruje nimi z Katedry w Gruzach, to prawdopodobnie równie¿ tam maj¹ niewielk¹ armiê.}
+{159}{}{Jeœli weŸmiemy siê za nich na pó³nocy, to ods³onimy nasz¹ po³udniow¹ flankê. Mogê u¿yczyæ tylko kilku ludzi do tego przedsiêwziêcia.}
+{160}{}{Przydzielcie mi kilku paladynów do likwidacji ich bazy na pó³nocy.}
+{161}{}{Przydzielcie mi kilku paladynów do likwidacji ich bazy na po³udniu.}
+{162}{}{Niech tak bêdzie. Dwóch wybranych przeze mnie paladynów spotka siê z tob¹ przy Katedrze w Gruzach. Starsi, dziêkujê wam za uwagê. Powodzenia, kadecie.}
+{163}{}{Niech tak bêdzie. Trzech wybranych przeze mnie paladynów spotka siê z tob¹ przy ich bazie, by pomóc ci dostaæ siê do jej wnêtrza. Starsi, dziêkujê wam za uwagê. Powodzenia, kadecie.}
+{164}{}{NajwyraŸniej pope³niliœmy b³¹d. Starsi, przepraszam za marnowanie waszego czasu. Czy ktoœ móg³by, proszê, usun¹æ to umys³owe szkaradztwo?}
+{165}{}{Nie przeszkadzaj mi, pracujê nad strategi¹ obronn¹.}
+{166}{}{Zyskujesz }
+{167}{}{ PD za przekonanie Bractwa do udzielenia ci pomocy.}

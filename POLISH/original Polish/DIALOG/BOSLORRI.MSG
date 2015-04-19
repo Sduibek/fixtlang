@@ -1,0 +1,76 @@
+{100}{}{To lekarz Bractwa.}
+{102}{}{Witaj, co ci dolega?}
+{103}{}{Rany.}
+{104}{}{Napromieniowanie.}
+{105}{}{Czy przeprowadzasz operacje?}
+{106}{}{Opowiedz mi jeszcze raz o operacjach.}
+{107}{}{Ug!}
+{108}{}{Masz obra¿enia? Popatrzmy...}
+{109}{}{Oto i problem. Za³atwione. Zachowuj wiêcej ostro¿noœci na zewn¹trz.}
+{110}{}{Wybacz, nie mogê ci pomóc, je¿eli nie powiesz mi, co jest nie tak.}
+{111}{}{Wydajesz siê byæ zdrow¹ osob¹.}
+{112}{}{Proszê. Mam nadziejê, ¿e poczujesz siê lepiej.}
+{113}{}{Proszê, ale przestañ wdawaæ siê w bójki.}
+{114}{}{To powinno ciê naprawiæ.}
+{115}{}{Jak noworodek.}
+{116}{}{Wszystko wyleczone.}
+{117}{}{Z radiacj¹ nie ma ¿artów; zachowuj wiêcej ostro¿noœci.}
+{118}{}{Nie mam czasu na gierki.}
+{119}{}{Ale¿ oczywiœcie, ale to bardzo kosztowne i czasoch³onne.}
+{120}{}{Szczegó³y?}
+{121}{}{OK, nie bêdê ci tym zawracaæ g³owy.}
+{122}{}{Có¿, mogê zwiêkszyæ twoj¹ si³ê, wytrzyma³oœæ i zrêcznoœæ, poprawiæ spostrzegawczoœæ, a tak¿e pomóc ci usprawniæ twój proces uczenia siê. O której obserwacji chcesz otrzymaæ wiêcej informacji? Ka¿dy zabieg mogê przeprowadziæ tylko raz.}
+{126}{}{OK, o którym zabiegu chcesz porozmawiaæ?}
+{127}{}{Si³a.}
+{128}{}{Percepcja.}
+{129}{}{Wytrzyma³oœæ.}
+{130}{}{Inteligencja.}
+{131}{}{Zrêcznoœæ.}
+{132}{}{Nie bêdê ci tym zawracaæ g³owy.}
+{133}{}{To ³atwe do wykonania, lecz wymaga d³ugiego okresu rekonwalescencji. Kosztuje jedynie 2000 kapsli, ale leczenie pooperacyjne zajmuje 3 tygodnie.}
+{135}{}{Biorê to!}
+{136}{}{Darujê sobie.}
+{137}{}{O, to trudna operacja. Kosztuje 4000 kapsli, ale za to rekonwalescencja po zabiegu trwa tylko tydzieñ.}
+{139}{}{Ten zabieg nie jest zbyt trudny. Wymaga oko³o tygodnia i bêdzie ciê kosztowa³ 3000 kapsli.}
+{141}{}{Ten jest najbardziej z³o¿ony i niebezpieczny! Zajmie 3 tygodnie, a kosztuje 6000 kapsli.}
+{143}{}{To nie jest zbyt trudna operacja, lecz bardzo kosztowna i czasoch³onna. Zabierze 3 tygodnie i bêdzie kosztowaæ 5000 kapsli.}
+{146}{}{OK, proszê bardzo. Mam nadziejê, ¿e pianka nie podra¿ni³a ci skóry.}
+{147}{}{Przykro mi, nie mogê ci pomóc, je¿eli nie masz pieniêdzy.}
+{148}{}{Przykro mi, ale nie jesteœ st¹d. Jak bêdziesz w Bractwie od dziesiêciu lat, czy coœ ko³o tego, bêdê mog³a przeprowadziæ operacjê za darmo, ale mamy wydatki, a ty nie jesteœ jeszcze regularnym, czynnym cz³onkiem Bractwa.}
+{149}{}{Daj mi znaæ gdy zdobêdziesz fundusze.}
+{153}{}{Czy chcesz zapytaæ o inny zabieg?}
+{154}{}{OK, raz kozie œmieræ... Tylko ¿artujê. Mo¿emy zacz¹æ od razu. [Lori podaje ci narkozê, i powoli odp³ywasz.]}
+{156}{}{No to jak siê czujemy? [Od razu czujesz ró¿nicê.] Jesteœ we œnie ca³kiem gadatliw¹ osob¹. Mo¿esz ju¿ iœæ! Do zobaczenia.}
+{159}{}{Precz ze starym, witaj nowe... [Spadasz w otch³añ jak g³az.]}
+{161}{}{Wygl¹dasz dok³adnie tak samo, ale jak siê czujesz? [Wszystkie twoje zmys³y wydaj¹ siê bardzo wyostrzone.] No no, zajmujesz cenn¹ powierzchniê ³ó¿kow¹. Zbieraj siê!}
+{164}{}{Mam nadziejê, ¿e posiadasz serce... [Lori mruga do ciebie, gdy zapadasz siê w ciemnoœæ.]}
+{166}{}{No, wygl¹dasz nieco masywniej. [Czujesz siê wspaniale!] Có¿, daj mi znaæ je¿eli wyst¹pi¹ jakieœ problemy.}
+{168}{}{No dobrze, to gdzie jest ten mózg? Co to ja mia³am zrobiæ? [Usi³ujesz walczyæ z narkoz¹, ale to przegrana bitwa.]}
+{170}{}{No có¿, wygl¹da na to, ¿e uda³o mi siê w³o¿yæ wszystko z powrotem i ca³oœæ œwietnie funkcjonuje. [Masz wra¿enie, ¿e œcie¿ki twoich myœli maj¹ bezpoœrednie po³¹czenia ze wszystkim w twojej g³owie, a twoje wspomnienia s¹ o wiele ¿ywsze.] Spokojnie.}
+{174}{}{W porz¹dku, bierzmy siê za to. [Farmaceutyki s¹ takie... przyjazne. Twój sen nadchodzi szybko.]}
+{176}{}{OK, przywróci³am ci pe³n¹ gotowoœæ do s³u¿by. [Napinasz miêœnie i czujesz zwiêkszon¹ szybkoœæ oraz poprawion¹ koordynacjê.] Tylko ciê proszê, nie uszkodŸ mojego arcydzie³a.}
+{200}{}{To asystent lekarza.}
+{279}{}{Powinien obejrzeæ ciê lekarz.}
+{280}{}{To ona jest lekarzem, nie ja.}
+{281}{}{Ja siê dopiero uczê.}
+{282}{}{Nie mogê ci pomóc, oficjalnie.}
+{283}{}{Lori jest lekarzem.}
+{284}{}{Musisz zapytaæ lekarza.}
+{285}{}{Nie obawiaj siê, ona po prostu jest kpiarzem.}
+{286}{}{Ona tylko lubi siê droczyæ, nie bój siê.}
+{300}{}{Przykro mi, ale ta operacja ci nie pomo¿e.}
+
+{400}{}{Hmmm. Jeœli ktoœ tu potrzebuje zwiêkszenia inteligencji, to w³aœnie ty. W rzeczy samej, zrobiê to za 3000 kapsli zamiast 6000, które normalnie kosztuje ta operacja. Nie mogê zagwarantowaæ, ¿e to ci pomo¿e, ale uwa¿am, i¿ warto spróbowaæ. Zabierze ci to tak¿e 3 tygodnie rekonwalescencji. Prawdopodobnie jednak nie rozumiesz co mówiê, nieprawda¿?}
+{401}{}{Ja chcieæ bystra.}
+{402}{}{Nie chcieæ.}
+{403}{}{Czy coœ ci siê sta³o - napromieniowanie albo zranienie? Pomogê ci, je¿eli bêdê w stanie.}
+{404}{}{jA rAnnA.}
+{405}{}{w£os odPadaÆ.}
+{406}{}{Nie.}
+{407}{}{OK. Ju¿ nie œpisz. No, zobaczmy. Czy czujesz siê bystrzejsz¹ osob¹?}
+{408}{}{Hunh?}
+{409}{}{Tak!}
+{410}{}{Cholera! To by³a pora¿ka. Có¿, nie mia³am za bardzo nad czym pracowaæ. Niestety, jesteœ tylko mato³kiem i najpewniej mato³kiem pozostaniesz. Przykro to powiedzieæ, ale tê operacjê mo¿emy przeprowadziæ tylko raz.}
+{411}{}{To by³ sukces! By³am w stanie podnieœæ twoje IQ do akceptowalnego poziomu. Jakie to uczucie, mieæ po³owê mózgu?}
+{412}{}{To wspania³e. Dziêki, doktorku. Czeœæ.}
+{413}{}{Proszê bardzo. Ju¿ lepiej.}

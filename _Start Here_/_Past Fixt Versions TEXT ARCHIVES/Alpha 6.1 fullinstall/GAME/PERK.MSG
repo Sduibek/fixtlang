@@ -1,0 +1,173 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
+#
+#  Messages from perk.c
+#
+#
+#  PERK NAMES
+#
+{101}{}{Awareness}
+{102}{}{Bonus HtH Attacks}
+{103}{}{Bonus HtH Damage}
+{104}{}{Bonus Move}
+{105}{}{Bonus Ranged Damage}
+{106}{}{Bonus Rate of Fire}
+{107}{}{Earlier Sequence}
+{108}{}{Faster Healing}
+{109}{}{More Criticals}
+{110}{}{Night Vision}
+{111}{}{Presence}
+{112}{}{Rad Resistance}
+{113}{}{Toughness}
+{114}{}{Strong Back}
+{115}{}{Sharpshooter}
+{116}{}{Silent Running}
+{117}{}{Survivalist}
+{118}{}{Master Trader}
+{119}{}{Educated}
+{120}{}{Healer}
+{121}{}{Fortune Finder}
+{122}{}{Better Criticals}
+{123}{}{Empathy}
+{124}{}{Slayer}
+{125}{}{Sniper}
+{126}{}{Silent Death}
+{127}{}{Action Boy}
+{128}{}{Mental Block}
+{129}{}{Lifegiver}
+{130}{}{Dodger}
+{131}{}{Snakeater}
+{132}{}{Mr. Fixit}
+{133}{}{Medic}
+{134}{}{Master Thief}
+{135}{}{Speaker}
+{136}{}{Heave Ho!}
+{137}{}{Friendly Foe}
+{138}{}{Pickpocket}
+{139}{}{Ghost}
+{140}{}{Cult of Personality}
+{141}{}{Scrounger}
+{142}{}{Explorer}
+{143}{}{Flower Child}
+{144}{}{Pathfinder}
+{145}{}{Animal Friend}
+{146}{}{Scout}
+{147}{}{Mysterious Stranger}
+{148}{}{Ranger}
+{149}{}{Quick Pockets}
+{150}{}{Smooth Talker}
+{151}{}{Swift Learner}
+{152}{}{Tag!}
+{153}{}{Mutate!}
+#
+# ADDICTIONS
+#
+{154}{}{Coke Fiend}
+{155}{}{Juicer}
+{156}{}{Mentalist}
+{157}{}{Psycho}
+{158}{}{Radiant}
+{164}{}{Alcoholic}# was Combat Armor
+#
+#
+{159}{}{Weapon Long Range}
+{160}{}{Weapon Accurate}
+{161}{}{Weapon Penetrate}
+{162}{}{Weapon Knockback}
+{163}{}{Power Armor}
+#
+#  PERK DESCRIPTIONS
+#
+{201}{}{You are more likely to notice details about people. Awareness will give more detailed information about them when you perform an Examine.}
+{202}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{203}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
+{204}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
+{205}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}
+{206}{}{This Perk allows you to pull the trigger a little more faster, and still remain as accurate as before. Each ranged weapon attack costs 1 AP less to perform.}
+{207}{}{You are more likely to move before your opponents in combat, since your Sequence is +2 for each level of this Perk.}
+{208}{}{With each level of this Perk, you will get a +1 bonus to your Healing Rate. Thus you heal faster.}
+{209}{}{You are more likely to cause Critical Hits in combat if you have this Perk. Each level of More Criticals will get you a +5% chance to cause a critical hit. This is a good thing.}
+{210}{}{With the Night Vision Perk, you can see in the dark better. Each level of this Perk will reduce the overall darkness level by 10%.}
+{211}{}{You command attention by just walking into a room. The initial reaction of another person is improved by 10% for each level of this Perk.}
+{212}{}{You are better able to avoid radiation, and the bad effects radiation causes. Each level of this Perk will improve your Radiation Resistance by 10%.}
+{213}{}{When you are tough, you take less damage. Each level of this Perk will add +10% to your general damage resistance.}
+{214}{}{AKA Mule. You can carry an additional 50 lbs. of equipment for each level of this Perk.}
+{215}{}{The talent of hitting things at longer distances. You get a +2 bonus, for each level of this Perk, to Perception for the purposes of determining range modifiers. This DOES have an effect at PER of 9 & 10.}
+{216}{}{With this Perk, you now have the ability to move quickly and still remain quiet. You can Sneak, and run at the same time. Without this Perk, you would automatically stop Sneaking if you ran.}
+{217}{}{You are a master of the outdoors. This Perk confers the ability to survive in hostile environments. You get a +20% bonus to Outdoorsman for survival purposes, for each level of this Perk.}
+{218}{}{You have mastered one aspect of bartering - the ability to buy goods for far cheaper than an average person. With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
+{219}{}{Each level of Educated will add +2 skill points when you earn a new experience level. This Perk works best when purchased early in your adventure.}
+{220}{}{The healing of bodies comes easier to you with this Perk. Each level will add 2-5 more hit points healed when using the First Aid or Doctor skills.}
+{221}{}{You have the talent of finding money. You will find additional money in random encounters in the desert.}
+{222}{}{The critical hits you cause in combat are more devastating. You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done. This does not affect the chance to cause a critical hit.}
+{223}{}{You have studied other human beings, giving you the inside knowledge of their emotional reaction to you. You will see the reaction level of the person you are talking to, when involved in an in-depth conversation.}
+{224}{}{The Slayer walks the earth! In Hand-to-Hand combat, all of your hits are upgraded to critical hits - causing destruction and mayhem.}
+{225}{}{You have mastered the firearm as a source of pain. With this Perk, any successful hit in combat with a ranged weapon will be upgraded to a critical hit if you also make a Luck roll.}
+{226}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a HtH attack. Silent Death is that kind of Perk.}
+{227}{}{Each level of Action Boy (insert Girl if you wish) will give you an additional AP to spend every combat turn. You can use these generic APs on any task.}
+{228}{}{Mental Block is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
+{229}{}{With each level of this Perk, your Maximum Hit Points increases by 4. You also gain an addition 4 Hit Points per experience level earned. This may not seem like a lot, but every little bit helps.}
+{230}{}{You are less likely to be hit in combat, if you have this Perk. Every level will add +5% to your Armor Class, in addition to the AC bonus from any worn armor.}
+{231}{}{Yum! Tastes like chicken. You have gained an immunity to poison, resulting in a +25% to your Poison Resistance.}
+{232}{}{This Perk will give you a one-time bonus of +20% to the Repair and Science skills. A little late night cramming never hurt anybody, especially you.}
+{233}{}{The Medic Perk will give you a one-time bonus of +20% to the First Aid and Doctor skills. Healing skills are a good thing.}
+{234}{}{A Master Thief has a one-time bonus of +10% to the Sneak, Lockpick, Steal and Traps skills. Rob from the rich, and give to you.}
+{235}{}{Being a Speaker means that you have a one-time bonus of +20% to the Speech and Barter skills. From the mouth of babes and all that.}
+{236}{}{Each level of the Heave Ho! Perk will give your thrown weapons an additional +2 Strength for purposes of determining range only.}
+{237}{}{Characters that are part of your team are high-lighted green in combat instead of red, if you have this Perk. Red high-lighted characters may still be non-hostile toward you.}
+{238}{}{You are much more adept at Stealing than the normal crook. You can Steal with the best of them, because with this Perk, you ignore size and facing modifiers, when stealing from a person.}
+{239}{}{When the sun goes down, or you are in a poorly lit area, you move like a Ghost with this Perk. Your Sneak skill is enhanced +20% during darkness conditions.}
+{240}{}{Your reputation is always positive to people. Without this Perk, a large negative reputation would have a bad effect on good natured people. Works with a good rep and bad people, too.}
+{241}{}{You can find more ammo than the normal post-holocaust survivor. This Perk will double the amount of ammo found in random encounters.}
+{242}{}{The mark of the Explorer is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places or peoples.}
+{243}{}{With this Perk, you are much less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
+{244}{}{The Pathfinder is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
+{245}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
+{246}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction.}
+{247}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him or her to be replaced.}
+{248}{}{You are better able to avoid unwanted attention while traveling through the wasteland. Your chance of a hostile random encounter is lowered by each level of this Perk.}
+{249}{}{You have learned to better store your equipment on your person. With each level of this Perk, the AP cost to access Inventory in combat is reduced by one.}
+{250}{}{A Smooth Talker has learned to increase their options in dialogue, without understanding what they are talking about. Each level of this Perk will increase your IN by one, for purposes of dialogue only.}
+{251}{}{You are indeed a Swift Learner with this Perk, as each level will give you an additional +5% bonus whenever you earn experience points. Best purchased at an early level.}
+{252}{}{Your skills have improved to the point where you can pick an additional Tag Skill, increasing that skill by +20% immediately and 2% per skill point spent.}
+{253}{}{The radiation of the wasteland has changed you! One of your Traits has mutated into something else...}
+{259}{}{Weapon Long Range}
+{260}{}{Weapon Accurate}
+{261}{}{Weapon Penetrate}
+{262}{}{Weapon Knockback}
+{263}{}{Power Armor}
+
+
+# Nuka-Cola addiction (154)
+# "You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud."
+{254}{}{You crave another Nuka-Cola, the delicious thirst-quenching soda pop.}
+# ORIGINAL: You crave another Nuka-Cola.
+
+# Buffout addiction (155)
+# "You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal."
+{255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
+# ORIGINAL: You've got the shakes.
+
+# Mentats addiction (156)
+# "You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal."
+{256}{}{You feel groggy and slow. Your brain itself seems to ache...}
+# ORIGINAL: You feel groggy.
+
+# Psycho addiction (157)
+# "You have a vicious drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer."
+{257}{}{You feel light-headed and irritable. Where's that spare syringe?}
+# ORIGINAL: You feel light-headed.
+
+# RadAway addiction (158)
+# "Your body has become addicted to RadAway. While not life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning."
+{258}{}{You feel nauseous and need a fix. Just one more pouch, that's all!}
+# ORIGINAL: You feel nauseous.
+
+# Alcohol addiction (164)
+# "You have a problem with alcohol. Actually, you have many problems with your drinking habits."
+{264}{}{You just want a hard drink; it's everyone else that has the problem.}
+#
+# Sduibek, Fallout FIXT - for some reason any new line crashes if used for Alcohol Addiction, so using this line instead.
+# 	(264 was "Combat Armor")

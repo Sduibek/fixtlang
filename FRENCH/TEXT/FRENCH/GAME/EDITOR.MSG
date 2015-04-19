@@ -1,0 +1,272 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+#
+{100}{}{FAIT}
+{101}{}{OPTIONS}
+{102}{}{ANNULER}
+{103}{}{IMPRIMER}
+{104}{}{AGE}
+{105}{}{SEXE}
+{106}{}{NOM}
+{107}{}{MASC.}
+{108}{}{FEM.}
+{109}{}{APTITUDES}
+{110}{}{KARMA}
+{111}{}{VICTIMES}
+{112}{}{POINTS COMPETENCES}
+{113}{}{Niveau}
+{114}{}{Exp}
+{115}{}{Niveau suiv.}
+{116}{}{PTS PERSONNAGE}
+{117}{}{COMPETENCES}
+{118}{}{Tu dois utiliser tous tes points} # 1
+{119}{}{personnage avant de lancer le jeu!}         # 2
+#
+{120}{}{Points personnage}
+{121}{}{Nombre de points personnage disponibles pouvant être ajoutés à l'une des statistiques de base.}
+{122}{}{Niveau suivant}
+{123}{}{Nombre de points d'expérience requis pour passer au niveau suivant.}
+{124}{}{Aptitudes}
+{125}{}{Karma}
+{126}{}{Victimes}
+{127}{}{Les aptitudes offrent des compétences supplémentaires. Tu peux choisir une aptitude tous les trois niveaux d'expérience.}
+{128}{}{Reflète les effets des choix que tu effectues pendant le jeu.}
+{129}{}{Indicateur répertoriant le type et le nombre de créatures que tu as éliminées ou que tu as vu se faire tuer.}
+{130}{}{Points compétences}
+{131}{}{Utilise tes points compétences disponibles pour accroître le niveau d'une compétence.}
+#
+{132}{}{Niveau maximum.}        # 1
+{133}{}{Impossible de l'augmenter.}  # 2
+{134}{}{Niveau minimum.}        # 1
+{135}{}{Impossible de descendre.}  # 2
+{136}{}{Aucun point compétences disponible.}
+{137}{}{Base:}
+{138}{}{ATOUTS PERSO.}
+{139}{}{QUALITES FACULTATIVES}
+{140}{}{Tu possèdes déjà les trois } # 1
+{141}{}{atouts personnels maximaux!}               # 2
+{142}{}{Tu dois sélectionner tous les atouts }  # 1
+{143}{}{personnels avant de lancer le jeu!}       # 2
+{144}{}{Atouts personnels }
+{145}{}{Les atouts personnels correspondent aux spécialités de ton personnage. Chaque atout personnel donne +20% et augmente deux fois plus vite. Tu dois sélectionner trois atouts personnels.}
+{146}{}{Qualités facultatives}
+{147}{}{Les qualités facultatives présentent ton personnage plus en détail. Toutes les qualités ont des effets ou positifs ou négatifs. Pour créer ton personnage, tu peux choisir au maximum deux qualités.}
+{148}{}{Tu possèdes déjà les deux } # 1
+{149}{}{qualités maximales!}                     # 2
+{150}{}{Compétences}
+{151}{}{Correspondent aux connaissances acquises. Augmentent selon l'expérience ou les événements. Tes performances sont meilleures quand le niveau de la compétence est élevé.}
+#
+{152}{}{SELECTIONNE UNE APTITUDE}
+{153}{}{SELECTIONNE UNE QUALITE}
+{154}{}{RENONCE A UNE QUALITE}
+{155}{}{SELECTIONNE UN NOUVEL ATOUT}
+{156}{}{QUALITES}
+#
+{157}{}{Toutes les statistiques doivent être comprises entre 1 et 10} # 1
+{158}{}{avant de lancer le jeu!}          # 2
+
+
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Nul}  # Terrible
+{201}{}{Mauv.}    # Bad
+{202}{}{Faible}   # Poor
+{203}{}{Moyen}   # Fair
+{204}{}{Normal}   # Average
+{205}{}{Bon}   # Good
+{206}{}{T. bon} # Very Good
+{207}{}{Super}  # Great
+{208}{}{Exclt} # Excellent
+{209}{}{Héros} # Heroic
+
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{PI}
+{301}{}{Points d'action}
+{302}{}{Type armure}
+{303}{}{Dégâts en corps à corps}
+{304}{}{Dégâts en rixe}
+{305}{}{Rés. dégâts}
+{306}{}{Rés. poison}
+{307}{}{Rés. radiation}
+{308}{}{Ordre}
+{309}{}{Vit. guérison}
+{310}{}{Coups critiques}
+{311}{}{Charge max.}
+{312}{}{Empoisonnement}
+{313}{}{Irradiation}
+{314}{}{Blessure à l'œil }
+{315}{}{Bras dr. estropié}
+{316}{}{Bras g. estropié}
+{317}{}{Jambe dr. estropiée}
+{318}{}{Jambe g. estropiée}
+
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{Ton personnage a été empoisonné. Le poison agira un certain temps, jusqu'à ce que le mal soit éradiqué ou jusqu'à ce qu'il se propage.}
+# Radiation
+{401}{}{Ton personnage a été sérieusement irradié. Plus les radiations sont importantes, plus leurs effets sont mortels.}
+# Eye Damage
+{402}{}{Cela signifie que ton personnage a été sérieusement touché à un œil ou aux deux yeux. Ta perception en sera affectée.}
+# Crippled right arm
+{403}{}{Le bras droit du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié, tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser aucune arme pour attaquer.}
+# Crippled left arm
+{404}{}{Le bras gauche du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié, tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser aucune arme pour attaquer.}
+# Crippled right leg
+{405}{}{La jambe droite de ton personnage est estropiée.}
+# Crippled left leg
+{406}{}{La jambe gauche de ton personnage est estropiée.}
+
+# Month strings
+{500}{}{janvier}
+{501}{}{février}
+{502}{}{mars}
+{503}{}{avril}
+{504}{}{mai}
+{505}{}{juin}
+{506}{}{juillet}
+{507}{}{août}
+{508}{}{septembre}
+{509}{}{octobre}
+{510}{}{novembre}
+{511}{}{décembre}
+
+#
+# Option menu text
+#
+{600}{}{SAUVEGARDER}
+{601}{}{CHARGER}
+{602}{}{IMPRIMER FICHIER}
+{603}{}{EFFACER}
+{604}{}{FAIT}
+{605}{}{Veux-tu vraiment supprimer}      # line 1
+{606}{}{ce personnage?}                 # line 2
+{607}{}{ a été sauvegardé.}
+{608}{}{ a été chargé.}
+{609}{}{existe déjà.}
+{610}{}{Annuler sauvegarde précédente?}
+{611}{}{Erreur à la sauvegarde}
+{612}{}{Erreur au chargement}
+{613}{}{Fichier personnage incorrect.}
+{614}{}{Données personnage incorrectes.}
+{615}{}{Erreur à la lecture de la liste de fichiers!}
+{616}{}{IMPRIMER}
+{617}{}{JOUEUR}
+{618}{}{BLANK.GCD}
+
+#
+# ASCII text file printing text
+#
+{620}{}{FALLOUT}                   # Title line 1
+{621}{}{REGISTRE DU PERSONNEL DE L'ABRI 13} # Title line 2
+{622}{}{heures} # Title line 3
+# -
+# -
+#{000}{}{      Force: 00        Points d'impact: 000/000          Séquence: 00}
+#{000}{}{    Perception: 00       Type armure: 000          Vit. guérison: 00}
+#{000}{}{     Endurance: 00     Points d'action: 000       Coups critiques: 000%}
+#{000}{}{      Charisme: 00      Dégâts en rixe: 000          Charge max.: 000 lbs.}
+#{000}{}{  Intelligence: 00       Rés. dégâts: 000%}
+#{000}{}{       Agilité: 00    Rés. radiation: 000%}
+#{000}{}{          Chance: 00       Rés. poison: 000%}
+#
+{623}{}{ ::: Statistiques :::}
+{624}{}{       Force:}
+{625}{}{        Points d'impact:}
+{626}{}{        Séquence:}
+# -
+{627}{}{     Perception:}
+{628}{}{       Type armure:}
+{629}{}{        Vit. guérison:}
+# -
+{630}{}{      Endurance:}
+{631}{}{     Points d'action:}
+{632}{}{      Coups critiques:}
+# -
+{633}{}{       Charisme:}
+{634}{}{      Dégâts en rixe:}
+{635}{}{         Charge max.:}
+# -
+{636}{}{   Intelligence:}
+{637}{}{       Rés. dégâts:}
+# -
+{638}{}{        Agilité:}
+{639}{}{    Rés. radiation:}
+# -
+{640}{}{           Chance:}
+{641}{}{       Rés. poison:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Nom:}
+{643}{}{Age:}
+{644}{}{               Sexe:}
+{645}{}{Masc.}
+{646}{}{Fém.}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{Niveau:}
+{648}{}{                Exp:}
+{649}{}{Niveau suivant:}
+#-
+{650}{}{ ::: Qualités :::           ::: Aptitudes :::           ::: Karma :::}
+#-
+{651}{}{ ::: Compétences :::                ::: Victimes :::}
+#-
+{652}{}{ ::: Inventaire :::}
+#-
+{653}{}{                                      Charge totale:}
+
+#
+# Karma name strings
+#
+{1000}{}{Réputation générale}
+{1001}{}{Furieux}
+{1002}{}{Champion}
+{1003}{}{Tueur}
+{1004}{}{Dépendance au Nuka-Cola}
+{1005}{}{Dépendance au Buffout}
+{1006}{}{Dépendance aux Mentats}
+{1007}{}{Dépendance au Psycho}
+{1008}{}{Dépendance au RadAway}
+{1009}{}{Dépendance à l'alcool}
+#
+# Karma description strings
+#
+{1100}{}{Statistique reflétant ta réputation générale. Plus cette valeur est élevée, plus on te respecte. Si ta réputation est négative, cela signifie que certains te détestent pour tes actions malveillantes.}
+{1101}{}{Tu as tué beaucoup de gens. Il est préférable de ne pas t'en vanter. Pourtant cela peut aussi t'attirer les faveurs de certaines personnes malveillantes.}
+{1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
+{1103}{}{Tu as tué des jeunes gens, des jeunes du désert, ce qui est très mal vu. Tu es un être diabolique.}
+{1104}{}{Tu raffoles de Nuka-Cola, le soda du monde post-nucléaire.}
+{1105}{}{Tu dois prendre du Buffout régulièrement pour te sentir bien.}
+{1106}{}{Tu dois boire du Mentats régulièrement pour te sentir bien.}
+{1107}{}{Si tu n'absorbes pas régulièrement de Psycho, tu souffres. Et si tu souffres, tu fais souffrir les autres.}
+{1108}{}{Tu es un adepte du Radaway. Bien que ta vie ne soit pas en danger, tu dois en prendre régulièrement.}
+{1109}{}{Tu as un problème avec l'alcool. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
+{1110}{}{PROVISOIRE - Qu'est-ce que c'est?}
+
+
+#
+# Special Demo version only text
+#
+{5000}{}{Imprimer un personnage n'est}   # 1
+{5001}{}{possible que dans la version complète.}   # 2
+{5002}{}{Sauvegarder un personnage n'est}    # 1
+{5003}{}{possible que dans la version complète.}   # 2
+{5004}{}{Charger un personnage sauvegardé n'est } # 1
+{5005}{}{possible que dans la version complète.}   # 2
+{5006}{}{MODE TRICHE}
+{5007}{}{Non disponible dans la démo.}
+
+

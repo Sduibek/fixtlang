@@ -439,3 +439,10 @@
 {509}{}{Glow}
 {510}{}{Boneyard}
 {511}{}{Cathedral}
+
+
+
+#
+# Error Messages
+#
+{1000}{}{Error: Not enough disk space to save map!}

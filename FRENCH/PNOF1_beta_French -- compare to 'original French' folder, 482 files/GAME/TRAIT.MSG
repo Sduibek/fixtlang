@@ -1,0 +1,42 @@
+#
+#   Messages from trait.c
+#
+#
+#   TRAIT NAME
+#
+{100}{}{Métabofast}
+{101}{}{Mr Muscle}
+{102}{}{Gringalet}
+{103}{}{Main-d'Or}
+{104}{}{Finesse}
+{105}{}{Kamikaze}
+{106}{}{Main-Lourde}
+{107}{}{Sang-Chaud}
+{108}{}{Brute}
+{109}{}{La-Poisse}
+{110}{}{Bon Vivant}
+{111}{}{Dépendance}
+{112}{}{Dur-à-cuire}
+{113}{}{Noctambule}
+{114}{}{Compétence}
+{115}{}{Talent}
+#
+#   TRAIT DESCRIPTIONS
+#
+{200}{}{Ton métabolisme est deux fois plus rapide que la normale.  Cela se traduit par un affaiblissement de ta résistance aux radiations et au poison mais tu guéris plus rapidement.}
+{201}{}{Un peu de lenteur mais une carrure imposante.  Tu ne frappes pas si souvent mais à chaque fois, on le sent passer ! Le total de tes points d'action s'en trouve diminué mais ton niveau de force est accru.}
+{202}{}{D'une taille certes plus modeste que les autres habitants de l'Abri, rien ne peut te freiner. Bien sûr, impossible de supporter de lourdes charges  mais question d'agilité, tu n'as pas ton pareil.}
+{203}{}{On ne peut pas dire que tu sois ambidextre.  Les armes maniées d'une seule main, c'est ton rayon. Pour les autres, tu as un léger problème !}
+{204}{}{Une méthode d'attaque toute en finesse.  Tu ne causes pas de gros dégâts mais les coups que tu portes sont souvent critiques.}
+{205}{}{En tant que véritable trompe-la-mort, tu es rapide comme l'éclair au combat mais ton armure se résume au strict minimum, c'est-à-dire à ce que tu portes.}
+{206}{}{Tu cognes plus fort, pas forcément mieux. Tes attaques sont brutales mais manquent de finesse. Les coups que tu portes sont rarement mortels mais au cours des rixes, ça fait vraiment très mal.}
+{207}{}{Tu n'as pas le temps de faire dans le détail lors d'une attaque ciblée parce que tu dégaines plus vite que la normale. Si tu utilises une arme, tu perds un point d'action.} 
+{208}{}{Les gens autour de toi tombent comme des mouches, comme frappés par un étrange coup du sort. Tu es un immonde tortionnaire.}
+{209}{}{La bonne nouvelle, c'est que tes adversaires ont peu de chance de s'en sortir vivants . La mauvaise, c'est que c'est le même tarif pour toi !}
+{210}{}{Plus jeune, tu as beaucoup étudié. Pas forcément les techniques de combat.  Tu débutes donc avec une capacité à combattre plus faible mais tes compétences Secourisme, Médecin, Discours et Troc sont renforcées.}
+{211}{}{Tu succombes rapidement aux charmes des stimulants. Tu as deux fois plus de chance de devenir dépendant que la normale mais tu te remets plus rapidement des effets secondaires.}
+{212}{}{Sur toi, les effets des stimulants durent deux fois moins longtemps que la normale ; mais tu as également deux fois moins de chance de devenir dépendant.}
+{213}{}{En tant que véritable noctambule, tous tes sens se mettent en éveil à la nuit tombée. La nuit, ton niveau d'intelligence et tes facultés de perception sont décuplées mais quel légume tu fais durant la journée !}
+{214}{}{Avec tout le temps passé à affiner tes compétences, tu débutes avec des niveaux de compétence accrus. Mais tu ne peux guère t'améliorer. Tu ne gagnes un petit extra que tous les quatre niveaux.}
+{215}{}{Chez toi, tout est inné. Pas besoin d'affiner tes compétences. Tes statistiques de base sont toutes augmentées d'un point mais tu perds 10% sur tes compétences de départ et tu reçois 5 points de moins par niveau.}
+

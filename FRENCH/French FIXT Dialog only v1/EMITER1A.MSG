@@ -1,0 +1,17 @@
+{100}{}{Tu ne trouves pas de tableau de commandes sur cet émetteur. Il y a peut-être un autre moyen de baisser le champ gravitanionnel.}
+{101}{}{Tu désactives temporairement le champ gravitationnel en endommageant l'émetteur.}
+{102}{}{Tu détruit l'émetteur de champ gravitationnel. Le champ disparaît.}
+{103}{}{Tu désactives provisoirement l'émetteur de champ gravitationnel.}
+{104}{}{Tu n'arrives à rien avec l'émetteur de champ gravitationnel.}
+{105}{}{Tu actives l'émetteur de champ gravitationnel.}
+{150}{}{Tu échoues dans ta tentative de raccorder l'émetteur de champ gravitationnel.}
+{151}{}{Tu coupes l'émetteur de champ gravitationnel.}
+{200}{}{Tu vois un émetteur de champ gravitationnel en piteux état.}
+{201}{}{L'émetteur est inutilisable.}
+{202}{}{L'émetteur est trop endommagé pour être réparer.}
+{203}{}{Tu remarques que le champ est maintenant assez diminué pour être franchi.}
+#
+# Fallout Fixt
+#
+{204}{}{Une charge explosive bien placée devrait venir à bout de l'émetteur.}
+{205}{}{Tu ne trouves aucun moyen de fixer les explosifs à l'émetteur. Tu devras les placer au plus près.}

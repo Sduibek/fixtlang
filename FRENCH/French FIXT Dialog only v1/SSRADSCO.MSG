@@ -1,0 +1,8 @@
+# Now split to allow different exp reward amount:  (Sduibek)
+{100}{}{Tu reçois 500 points d'expérience pour avoir arrêté les radscorpions.}
+{101}{}{Ne Bouge plus, étranger! Identifie toi!}
+{102}{}{Moi }
+# From GENCHAT.MSG:  (Sduibek)
+{188}{}{Les Radscorpions sont maintenant enfermés dans leur caverne, ils ne sont plus une menace pour les Sables Ombragés.}
+{189}{}{ }
+{200}{}{L'entrée de la grotte vous invite plus profondément dans l'antre des Radscorpions...}

@@ -1,0 +1,13 @@
+
+These will associate some Fallout file types with several common text-editor programs,
+ making it easy to open them so that you don't have to set up the associations yourself.
+
+If you are using Windows (or a Windows virtual machine such as Wine) you can simply
+ right-click -> "Merge" on these files,
+ or go to Start -> Run -> "regedit.exe" -> File -> Import and browse to the file(s).
+
+
+Let me know if you experience any issues with these files!
+
+
+-Sduibek, Jan 27 2014

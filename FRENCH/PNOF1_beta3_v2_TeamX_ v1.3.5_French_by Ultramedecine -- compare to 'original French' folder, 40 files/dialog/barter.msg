@@ -1,0 +1,15 @@
+#Fallout 1 Update Mod v1.2.5 traduit par Ultramedecine - 15 septembre 2009
+{100}{}{Voici un commerçant.}
+{101}{}{Tu veux faire du commerce ?}
+{102}{}{Clique sur Troc -->}
+{103}{}{Non.}
+{104}{}{Nous sommes en proie à des radscorpions depuis quelques temps. Tous ceux envoyés pour détruire ces monstres ne sont jamais revenus. Je te donnerai des armes si tu vas jusqu'à leur repaire et que tu t'en débarrasses.}
+{105}{}{Ça me semble bien.}
+{106}{}{Non merci.}
+{107}{}{C'est une honte. Va-t'en.}
+{108}{}{Excellent. Parles-en à Seth, il te guidera jusqu'à leur repaire. Prends ça, ça pourrait être utile. }
+{109}{}{S'il te plaît, aide-nous dès que tu le pourras. C'est urgent.}
+{110}{}{Je ne parle pas aux gens de ton espèce, étranger.}
+{111}{}{Merci de nous avoir débarrassés des radscorpions, étranger.}
+
+#Fallout 1 Update Mod v1.2.5 traduit par Ultramedecine - 15 septembre 2009

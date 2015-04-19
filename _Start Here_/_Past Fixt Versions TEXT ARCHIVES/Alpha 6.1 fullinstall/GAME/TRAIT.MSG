@@ -1,0 +1,45 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
+#
+#   Messages from trait.c
+#
+#
+#   TRAIT NAMES
+#
+{100}{}{Fast Metabolism}
+{101}{}{Bruiser}
+{102}{}{Small Frame}
+{103}{}{One-Hander}
+{104}{}{Finesse}
+{105}{}{Kamikaze}
+{106}{}{Heavy-Handed}
+{107}{}{Fast Shot}
+{108}{}{Bloody Mess}
+{109}{}{Jinxed}
+{110}{}{Good-Natured}
+{111}{}{Drug-Reliant}
+{112}{}{Drug-Resistant}
+{113}{}{Night Person}
+{114}{}{Skilled}
+{115}{}{Gifted}
+#
+#   TRAIT DESCRIPTIONS
+#
+{200}{}{Your metabolic rate is twice that of your fellow vault-dwellers. Because your body heals faster, it has not developed a normal resistance to the elements.               +2 Healing Rate, but Poison Resistance & Radiation Resistance start at 0%.}
+{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!              +2 Strength, -2 Action Points.}
+{202}{}{You are not quite as big as the other vault-dwellers, but that never slowed you down.            +1 Agility, but Carry Weight is lowered by 10 times your Strength (-10 lb at STR 1 up to -100 lb at STR 10).}
+{203}{}{One of your hands is very dominant.  You excel with single-handed weapons.   +20% Chance To Hit with all 1-handed weapons (including melee and unarmed), but -40% Chance To Hit with all 2-handed weapons.}
+{204}{}{Your attacks show a lot of finesse. You cause more critical hits, but you don't do as much damage.    +10% Critical Chance, but your attacks deal 30% less damage.}
+{205}{}{By not paying attention to any threats, you can act a lot faster in a combat turn.         +5 Sequence, but Armor Class is 0 unless wearing armor.}
+{206}{}{You swing harder, not better. Your attacks are very brutal, but lack finesse.            +4 Melee Damage, but  -30% to Critical Hits table (meaning damage boosts and other effects of Critical Hits are reduced and/or less likely).}
+{207}{}{You don't have time to aim for specific body parts, because you attack faster than normal people. All attacks (including melee and unarmed) cost 1 less Action Point, but you can no longer make targeted attacks.}
+{208}{}{By some strange twist of fate, people around you die very violently. You always see the worst way a person can die, but as you have not seen such violence in Vault life, this may have unforseen effects on your future actions.}
+{209}{}{The good thing is that everyone around you has more critical failures in combat. The bad thing is, so do you!                 All combat failures (misses) have a relatively high chance of being "upgraded" to a Critical Failure (critical miss).}
+{210}{}{You spent more time in the Vault library studing less-combative skills as you were growing up.     +15% to First Aid, Doctor, Speech, and Barter, but -10% to Small Guns, Big Guns, Energy Weapons, Throwing, Melee Weapons, and Unarmed.}
+{211}{}{You enjoy your trips to the Vault Medic a bit too much. You are easily addicted to drugs. You recover twice as fast as normal from the ill effects of drug addiction, but your chance to become addicted is also twice the normal.}
+{212}{}{You are resistant to all drugs and medications. This caused a lot of frustrations for the Vault Medic. Your chance to become addicted to drugs is 50% of normal, but drugs only affect you half as long as normal.}
+{213}{}{A night owl even as a child, you are more awake and alert when the sun goes down.         +1 Intelligence and +1 Perception between 6:01 PM and 6:00 AM, but -1 Intelligence and -1 Perception between 6:01 AM and 6:00 PM.}
+{214}{}{You've spent more time honing and improving your skills than a normal person, because you were born with less natural ability than a normal person. +10% to all skills and +5 Skill Points per level, but Perks earned only every fourth level.}
+{215}{}{You have more innate abilities and talents than most, so you have not spent as much time honing your skills. Your primary statistics are each +1, but you lose 10% on all skills and receive 5 less Skill Points per level.}

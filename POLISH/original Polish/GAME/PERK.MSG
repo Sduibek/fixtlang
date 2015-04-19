@@ -1,0 +1,137 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Orientacja}
+{102}{}{Szybkie piêœci}
+{103}{}{Twarde piêœci}
+{104}{}{Szybkie stopy}
+{105}{}{Wyrobione oko}
+{106}{}{Szybki palec}
+{107}{}{Pierwszy w kolejce}
+{108}{}{Szybkie zdrowienie}
+{109}{}{Czêstsze TK}
+{110}{}{Koci wzrok}
+{111}{}{Prezencja}
+{112}{}{Lugola w ¿y³ach}
+{113}{}{Twardziel}
+{114}{}{Mocny grzbiet}
+{115}{}{Strzelec wyborowy}
+{116}{}{Cichobieg}
+{117}{}{Traper}
+{118}{}{Mistrz kupiecki}
+{119}{}{Erudycja}
+{120}{}{Uzdrowiciel}
+{121}{}{Znajdywacz skarbów}
+{122}{}{Cz³owiek-demolka}
+{123}{}{Empatia}
+{124}{}{Urodzony morderca}
+{125}{}{Ba³kañski snajper}
+{126}{}{Skrytobójca}
+{127}{}{Cz³owiek czynu}
+{128}{}{Blokada mentalna}
+{129}{}{¯yciodajna moc}
+{130}{}{Mistrz uników}
+{131}{}{Wê¿o¿erca}
+{132}{}{Z³ota r¹czka}
+{133}{}{Sanitariusz}
+{134}{}{Ksi¹¿ê z³odziei}
+{135}{}{Mówca}
+{136}{}{Leci!}
+{137}{}{Przyjazny wróg}
+{138}{}{Doliniarz}
+{139}{}{Duch}
+{140}{}{Kult jednostki}
+{141}{}{Cwaniak}
+{142}{}{Odkrywca}
+{143}{}{Dziecko-kwiat}
+{144}{}{Szperacz}
+{145}{}{Przyjaciel zwierz¹t}
+{146}{}{Zwiadowca}
+{147}{}{Tajemniczy Wêdrowiec}
+{148}{}{Cichociemny}
+{149}{}{Szybki dostêp}
+{150}{}{G³adka gadka}
+{151}{}{Pojêtny uczeñ}
+{152}{}{Bieg³oœæ}
+{153}{}{Mutacja}
+{154}{}{Uzal. od Nuka-Coli}
+{155}{}{Uzal. od Wygrzewu}
+{156}{}{Uzal. od Mentatów}
+{157}{}{Uzal. od Psycho}
+{158}{}{Uzal. od AntyRadu}
+{159}{}{zasiêg broni}
+{160}{}{celnoœæ broni}
+{161}{}{zdolnoœæ penetracji broni}
+{162}{}{moc broni}
+{163}{}{pancerz wspomagany}
+{164}{}{pancerz bojowy}
+#
+#   PERK DESCRIPTIONS
+#
+{201}{}{£atwiej ci dostrzegaæ szczegó³y dotycz¹ce innych osób. Pozwala ci to uzyskiwaæ poprzez obserwacjê bardziej dok³adne informacje na ich temat.}
+{202}{}{Znasz sekretne sztuki walki Wschodu lub po prostu szybciej wymachujesz rêkami. Tak czy owak, ataki, których dokonujesz w trakcie walki wrêcz, kosztuj¹ ciê o 1 punkt akcji mniej.}
+{203}{}{Doœwiadczenie w walce bez broni pozwala ci uzyskaæ w niej przewagê. Za ka¿dy poziom tego profitu wielkoœæ obra¿eñ zadawanych w trakcie walki bezpoœredniej roœnie o 2 pkt.}
+{204}{}{Za ka¿dy poziom szybkich stóp, co turê walki otrzymujesz 2 punkty akcji, przeznaczone wy³¹cznie na ruch. Innymi s³owy,  za ka¿dy poziom tego profitu w ka¿dej turze walki mo¿esz za darmo przemieœciæ siê o 2 pola.}
+{205}{}{Praktyka w u¿ywaniu broni palnej sprawia, ¿e wyró¿niasz siê œmierteln¹ skutecznoœci¹. Za ka¿dy poziom tego profitu wyrz¹dzasz o 2 pkt. obra¿eñ wiêcej, gdy u¿ywasz broni do walki na dystans.}
+{206}{}{Ten profit pozwala ci poci¹gaæ za spust nieco szybciej, nie pogarszaj¹c celnoœci. Przeprowadzenie dowolnego ataku broni¹ do walki na odleg³oœæ kosztuje ciê o 1 punkt akcji mniej.}
+{207}{}{W trakcie walki prawdopodobnie wyprzedzisz przeciwników, jako ¿e twoja inicjatywa roœnie o 2 punkty za ka¿dy poziom tego profitu.}
+{208}{}{Z ka¿dym poziomem tego profitu tempo twojego zdrowienia wzrasta o 1 punkt. Co za tym idzie, zdrowiejesz szybciej.}
+{209}{}{Dziêki temu profitowi cechuje ciê wiêksze prawdopodobieñstwo zadawania trafieñ krytycznych. Ka¿dy poziom punktu krytycznego zwiêksza twoj¹ szansê na to o 5%. To dobra sprawa.}
+{210}{}{Z tym profitem lepiej widzisz w mroku. Ka¿dy poziom kociego wzroku zmniejsza postrzegany przez ciebie poziom ciemnoœci o 10%.}
+{211}{}{Od razu przyci¹gasz do siebie spojrzenia. Wstêpna reakcja innych osób wobec ciebie poprawia siê o 10% za ka¿dy poziom tego profitu.}
+{212}{}{£atwiej ci unikaæ napromieniowania i jego niekorzystnych skutków. Ka¿dy poziom tego profitu zwiêksza twoj¹ odpornoœæ na promieniowanie o 10%.}
+{213}{}{Jako twardziel otrzymujesz mniej obra¿eñ. Ka¿dy poziom tego profitu dodaje 10% do twojej ogólnej odpornoœci na obra¿enia.}
+{214}{}{Równoprawna nazwa to "Mu³". Za ka¿dy poziom tego profitu jesteœ w stanie nosiæ dodatkowe 50 funtów wyposa¿enia.}
+{215}{}{Talent do trafiania w cel z du¿ej odleg³oœci. Za ka¿dy poziom tego profitu otrzymujesz dwupunktow¹ premiê do percepcji. Zabijanie na odleg³oœæ jeszcze nigdy nie by³o takie proste!}
+{216}{}{Z tym profitem jesteœ w stanie przemieszczaæ siê szybko, a zarazem bezg³oœnie. Mo¿esz skradaæ siê i biec jednoczeœnie (bez tego profitu, bieg i skradanie wzajemnie siê wykluczaj¹).}
+{217}{}{Stajesz siê dzieckiem natury. Ten profit wyposa¿a ciê w zdolnoœæ prze¿ycia w niesprzyjaj¹cych ekosystemach. Za ka¿dy jego poziom otrzymujesz premiê w wysokoœci 20% do twojej znajomoœci sztuki przetrwania.}
+{218}{}{Osi¹gasz bieg³oœæ w jednym z aspektów handlu - potrafisz kupowaæ du¿o taniej ni¿ zwykli ludzie. Otrzymujesz rabat w wysokoœci 25% przy zakupach dokonywanych w sklepach i u handlarzy.}
+{219}{}{Ka¿dy poziom erudycji doda ci dwa punkty umiejêtnoœci przy awansach na wy¿szy poziom doœwiadczenia. Najlepsze skutki da wybór tego profitu u progu twej przygody.}
+{220}{}{Z tym profitem uzdrawianie cia³ przychodzi ci ³atwiej. Ka¿dy jego poziom przywraca twojemu pacjentowi dodatkowe 2-5 punktów wytrzyma³oœci, gdy go opatrujesz lub leczysz.}
+{221}{}{Masz smyka³kê do znajdywania pieniêdzy. Z przypadkowych spotkañ na pustyni nigdy nie wyjdziesz z pustymi kieszeniami.}
+{222}{}{Trafienia krytyczne s¹ bardziej niszcz¹ce w skutkach. Otrzymujesz 20% premii, co niemal gwarantuje twoim ofiarom powa¿ne obra¿enia. Ten profit nie wp³ywa jednak na prawdopodobieñstwo ich wyst¹pienia.}
+{223}{}{Po intensywnych badaniach nad innymi istotami ludzkimi, dysponujesz wiedz¹ z pierwszej rêki na temat ich reakcji wobec ciebie. Dziêki temu potrafisz okreœliæ poziom reakcji osób, z którymi prowadzisz d³u¿sze rozmowy.}
+{224}{}{Urodzony morderca zst¹pi³ na Ziemiê! Podczas walki wrêcz, wszystkie twoje uderzenia s¹ krytyczne - siej¹ œmieræ i zniszczenie.}
+{225}{}{Jesteœ mistrzem w u¿ywaniu broni palnej jako Ÿród³a cierpieñ. Z tym profitem, o ile uœmiechnie siê do ciebie twoje szczêœcie, wszystkie trafienia z broni do walki na dystans staj¹ siê krytyczne.}
+{226}{}{Jeœli skradaj¹c siê zadasz wrogowi w plecy cios z arsena³u walki wrêcz, spowodowane nim obra¿enia ulegn¹ podwojeniu. Skrytobójcy tacy ju¿ s¹.}
+{227}{}{Ka¿dy poziom cz³owieka (ewentualnie kobiety) czynu da ci w ka¿dej turze walki dodatkowy punkt akcji do zu¿ycia w dowolnym celu, wedle twojego uznania.}
+{228}{}{Blokada mentalna to zdolnoœæ odciêcia siê od wszelkich bodŸców oddzia³uj¹cych na umys³. Z pewnoœci¹ obdarzy³ ciê tym talentem wêdrowny guru lub naprawdê d³uga noc spêdzona w barze.}
+{229}{}{Z ka¿dym poziomem tego profitu zyskujesz 4 punkty wytrzyma³oœci. Mo¿e to nie wygl¹da na zbyt wiele, ale i tak ci siê pewnie przyda.}
+{230}{}{Mistrz uników rzadko obrywa podczas walki. Ka¿dy poziom tego profitu dodaje ci 5% do klasy pancerza, bez wzglêdu na to, czy stosujesz jakiekolwiek uzbrojenie ochronne.}
+{231}{}{Mniam! Smakuje jak kurczak. Przyzwyczajasz twój organizm do jadu, co wyra¿a siê w podniesieniu twojej odpornoœci na trucizny o 25%.}
+{232}{}{Wybór tego profitu skutkuje jednorazow¹ podwy¿k¹ twoich umiejêtnoœci naprawczych i naukowych o 20%. Odrobinka nocnego kucia jeszcze nikomu nie zaszkodzi³a, a ju¿ na pewno nie tobie.}
+{233}{}{Sanitariusz otrzymuje jednorazow¹ podwy¿kê umiejêtnoœci udzielania pierwszej pomocy oraz leczenia. Umiejêtnoœci medyczne to dobra sprawa.}
+{234}{}{Ksi¹¿ê z³odziei "za³atwia" sobie jednorazow¹ podwy¿kê umiejêtnoœci skradania siê, otwierania zamków, kradzie¿y i obchodzenia siê z pu³apkami o 10%. Zabieraj bogatym i oddawaj sobie.}
+{235}{}{Zostanie mówc¹ oznacza jednorazowy wzrost umiejêtnoœci retorycznych i handlowych o 20%. Dzia³a to m.in. na laski.}
+{236}{}{Ka¿dy poziom tego profitu dodaje twoim rzutom po 2 punkty si³y, uwzglêdniane wy³¹cznie przy okreœlaniu ich zasiêgu.}
+{237}{}{W czasie walki cz³onkowie twojego zespo³u obrysowywani s¹ na zielono, a nie na czerwono. Postacie obrysowane na czerwono bynajmniej nie musz¹ byæ do ciebie wrogo nastawione.}
+{238}{}{Kradniesz du¿o sprawniej ni¿ przeciêtny z³odziejaszek. Z tym profitem ignorujesz modyfikatory wynikaj¹ce z kierunku wzroku i rozmiarów okradanych przez ciebie osób.}
+{239}{}{Gdy okryje ciê mrok, przemieszczasz siê z tym profitem niczym duch. Twoja umiejêtnoœæ skradania siê w ciemnoœciach roœnie bowiem o 20%.}
+{240}{}{Twoja reputacja jawi siê innym osobom zawsze pozytywnie. Normalnie, wysoka reputacja ujemna dzia³a³aby niekorzystnie na osoby o dobrym usposobieniu. Dzia³a to równie¿ z dobr¹ reputacj¹ i z³ymi osobami.}
+{241}{}{Potrafisz znaleŸæ wiêcej amunicji ni¿ przeciêtny ocala³y z post-holocaustu. Ten profit podwaja iloœæ amunicji znajdowan¹ przez ciebie w trakcie przypadkowych spotkañ.}
+{242}{}{Misj¹ odkrywcy jest znajdywanie nowych, ciekawych miejsc. Z tym profitem rosn¹ twoje szanse na napotkanie szczególnie interesuj¹cych obiektów i osób.}
+{243}{}{Dziêki temu profitowi ryzyko, ¿e uzale¿nisz siê od œrodków chemicznych jest o wiele (œciœle pisz¹c, o 50%) ni¿sze; analogicznie, ewentualny czas trwania twojego odwyku jest o po³owê krótszy ni¿ w przypadku normalnego æpuna.}
+{244}{}{Szperacz z ³atwoœci¹ wynajduje najkrótsze trasy. Dziêki temu przeciêtny czas twoich wêdrówek po mapie Pustkowia zmniejsza siê o 25% na ka¿dy poziom tego profitu.}
+{245}{}{Zwierzêta nie wystêpuj¹ przeciw swoim przyjacio³om, chyba ¿e s¹ przez nich zagro¿one lub atakowane. Co dok³adnie jest zwierzêciem w tym œwiecie, pozostaje kwesti¹ otwart¹.}
+{246}{}{£atwo dostrzegasz odleg³e miejsca, dziêki czemu wêdruj¹c po mapie Pustkowia odkrywasz o jeden sektor w ka¿dym kierunku wiêcej.}
+{247}{}{Ten profit zwraca na ciebie uwagê tajemniczego wêdrowca, który od czasu do czasu zjawi siê, by ci pomóc. Jeœli twój sprzymierzeniec zginie w boju, nie spodziewaj siê, ¿e znajdzie siê dla niego (lub niej) zastêpstwo.}
+{248}{}{Potrafisz unikaæ niepo¿¹danych spojrzeñ w trakcie wêdrówek po Pustkowiu. Ryzyko przypadkowego zetkniêcia siê z wrogimi tobie istotami spada z ka¿dym poziomem tego profitu.}
+{249}{}{Po wielu nieudanych eksperymentach potrafisz ju¿ optymalnie rozmieszczaæ na sobie wyposa¿enie. Za ka¿dy poziom tego profitu koszt dostêpu do twojego ekwipunku w czasie walki spada o 1 punkt akcji.}
+{250}{}{Posiadacz sekretu g³adkiej gadki potrafi rozmno¿yæ liczbê opcji dialogowych, niekoniecznie maj¹c pojêcie o ich treœci. Na czas rozmów ka¿dy poziom tego profitu zwiêksza inteligencjê o 1 pkt.}
+{251}{}{Z tym profitem stajesz siê naprawdê pojêtnym uczniem, bowiem ka¿dy jego poziom dodaje ci 5% do zdobywanych PD. Najlepiej zaopatrzyæ siê w niego jak najwczeœniej.}
+{252}{}{Twoje umiejêtnoœci rozwinê³y siê do tego stopnia, ¿e mo¿esz wybraæ sobie dodatkow¹ umiejêtnoœæ g³ówn¹, która niezw³ocznie poprawi siê o 20%, a póŸniej bêdzie ros³a w podwojonym tempie.}
+{253}{}{Promieniowanie ciê odmieni³o! Jedna z twoich cech zmutowa³a w coœ innego...}
+{254}{}{Marzysz o kolejnej Nuka-Coli.}
+{255}{}{Masz dreszcze.}
+{256}{}{Odczuwasz os³abienie.}
+{257}{}{Szumi ci w g³owie.}
+{258}{}{Odczuwasz md³oœci.}
+{259}{}{zasiêg broni}
+{260}{}{celnoœæ broni}
+{261}{}{zdolnoœæ penetracji broni}
+{262}{}{moc broni}
+{263}{}{pancerz wspomagany}
+{264}{}{pancerz bojowy}

@@ -1,0 +1,3 @@
+{100}{}{You hear a female voice over a loudspeaker.}
+{101}{}{Warning! You have entered a secured area! Do not enter!
+ Lethal force authorized! Warning!}

@@ -1,0 +1,137 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Intuition}
+{102}{}{Bonus attaques CàC}
+{103}{}{Bonus dégâts CàC}
+{104}{}{Bonus déplacement}
+{105}{}{Bonus dégâts à distance}
+{106}{}{Bonus cadence de tir}
+{107}{}{Meilleure position}
+{108}{}{Guérison plus rapide}
+{109}{}{Plus de coups critiques}
+{110}{}{Vision nocturne}
+{111}{}{Présence}
+{112}{}{Résistance aux rad.}
+{113}{}{Résistance}
+{114}{}{Dos résistant}
+{115}{}{Tireur d'élite}
+{116}{}{Course silencieuse}
+{117}{}{Survivant}
+{118}{}{Maître marchand}
+{119}{}{Erudit}
+{120}{}{Guérisseur}
+{121}{}{Découvreur de trésor}
+{122}{}{Meilleurs coups critiques}
+{123}{}{Empathie}
+{124}{}{Tueur}
+{125}{}{Tireur embusqué}
+{126}{}{Mort silencieuse}
+{127}{}{Homme d'action}
+{128}{}{Bloc mental}
+{129}{}{Donneur de vie}
+{130}{}{Tire-au-flanc}
+{131}{}{Mangeur de serpents}
+{132}{}{M. Réparetout}
+{133}{}{Médecin}
+{134}{}{Maître Voleur}
+{135}{}{Orateur}
+{136}{}{Oh Hisse !}
+{137}{}{Ennemi amical}
+{138}{}{Pickpocket}
+{139}{}{Fantôme}
+{140}{}{Culte de la personnalité}
+{141}{}{Chapardeur}
+{142}{}{Explorateur}
+{143}{}{Enfant des Fleurs}
+{144}{}{Pionnier}
+{145}{}{Ami des animaux}
+{146}{}{Eclaireur}
+{147}{}{Etranger mystérieux }
+{148}{}{Commando}
+{149}{}{Poches}
+{150}{}{Beau parleur}
+{151}{}{Elève vif}
+{152}{}{Atout !}
+{153}{}{Mutation !}
+{154}{}{Dépendance au Nuka-Cola}
+{155}{}{Dépendance au Buffout}
+{156}{}{Dépendance aux Mentats}
+{157}{}{Dépendance au Psycho}
+{158}{}{Dépendance au RadAway}
+{159}{}{Arme à longue portée}
+{160}{}{Arme de précision}
+{161}{}{Arme pénétrante}
+{162}{}{Arme coûteuse}
+{163}{}{SuperArmure}
+{164}{}{Armure de combat}
+#
+#   PERK DESCRIPTIONS
+#
+{201}{}{Tu remarques davantage de choses sur ceux qui t'entourent. Lorsque tu effectues un examen, cette aptitude te donne accès à des informations plus détaillées sur ces personnes.}
+{202}{}{Ou bien tu as appris les secrets des arts orientaux, ou bien tes coups de poing sont simplement plus rapides. Dans les deux cas, chaque attaque au corps-à-corps t'épargne 1 PA.} 
+{203}{}{Ton expérience du corps-à-corps fait de toi un adversaire redoutable. A chaque niveau de cette aptitude, les attaques au c-à-c simples ou en rixe coûtent 2 pts de dégâts à ton adversaire.}
+{204}{}{A chaque niveau de cette aptitude, tu reçois 2 PA gratuits pour les tours au cours desquels tu peux uniquement te déplacer. Autrement dit, tu peux te déplacer sur deux cases libres à chaque tour de chacun des niveaux de cette aptitude.}
+{205}{}{Ton expérience des armes à feu et armes longue portée te rend redoutable lors des combats à distance. A chaque niveau, l'utilisation d'armes longue portée coûte 2 pts de dégât à ton adversaire.} 
+{206}{}{Cette aptitude te permet de tirer un peu plus vite tout en conservant la même précision. Chaque attaque avec une arme longue portée te coûte 1 PA.}
+{207}{}{Tu augmentes tes chances de précéder tes adversaires au combat, car à chaque niveau de cette aptitude, ta position augmente de +2.}
+{208}{}{A chaque niveau de cette aptitude, ta vitesse de guérison augmente de +1, ce qui te permet de guérir plus vite.}
+{209}{}{Avec cette aptitude, tu augmentes tes chances d'infliger des coups critiques au combat. Chaque niveau de Plus de coups critiques augmente tes chances de +5%, avantage non négligeable.}
+{210}{}{Grâce à la vision nocturne, tu vois mieux dans l'obscurité. Chaque niveau de cette aptitude réduit l'obscurité générale de 10%.}
+{211}{}{Tu attires l'attention simplement en traversant une pièce. La réaction initiale des personnes qui t'entourent augmente de 10% à chaque niveau de cette aptitude.}
+{212}{}{Tu échappes plus facilement aux radiations et à leurs effets nocifs. A chaque niveau de cette aptitude, ta résistance aux radiations augmente de 10%.}
+{213}{}{Lorsque ta résistance est élevée, tu subis moins de dégâts. A chaque niveau de cette aptitude, ta résistance générale augmente de +10%.}
+{214}{}{Alias Mulet. A chaque niveau de cette aptitude, tu peux transporter 25 kg de matériel en plus.}
+{215}{}{A chaque niveau de cette aptitude, tu reçois un bonus de perception de +2 qui te permet de repérer plus aisément les modificateurs de portée et d'atteindre les cibles à distance plus facilement !}
+{216}{}{Avec cette aptitude, tu peux désormais te déplacer rapidement et en silence. Tu peux utiliser ta compétence de furtivité et courir au même moment.}
+{217}{}{Tu es le maître du monde extérieur. Cette aptitude te permet de survivre dans un environnement hostile. A chaque niveau de cette aptitude, tu reçois un bonus de Vie en Extérieur de +20% pour ta survie.}
+{218}{}{Maître dans l'art du négoce, tu achètes des marchandises à des prix plus intéressants que quiconque. Tu bénéficies de 25% de remise sur les achats effectués dans un magasin ou auprès d'un marchand.}
+{219}{}{A chaque niveau de cette aptitude, tu reçois +2 points compétences lorsque tu accèdes au niveau d'expérience supérieur. Pour tirer le meilleur parti de cette aptitude, tâche de l'acheter au début de ton aventure.}
+{220}{}{Cette aptitude te permet de guérir plus efficacement les blessures. A chaque niveau, tu reçois 2 à 5 points d'impact guéris lorsque tu utilises les compétences Secourisme ou Médecin.}
+{221}{}{Tu as le talent de trouver de l'argent. Tu trouveras également de l'argent lors de tes rencontres dans le désert.}
+{222}{}{Les coups critiques que tu infliges au combat sont plus redoutables. Bonus de 20% sur le tableau des coups critiques. Tu crées donc plus de dégâts. Ceci n'affecte pas tes chances d'infliger des coups critiques.}
+{223}{}{Tu as étudié d'autres êtres humains, ce qui te permet d'évaluer leurs réactions émotionnelles à ton égard. Tu peux voir le niveau de réactions de la personne avec qui tu parles lorsque tu entames avec elle une conversation approfondie.}
+{224}{}{Le Tueur est parmi nous ! Lors des combats au corps-à-corps, tous tes coups sont transformés en coups critiques. Tu sèmes alors la terreur et la destruction sur ton passage.}
+{225}{}{Tu maîtrises le maniement des armes à feu pour semer la terreur. Avec cette aptitude, chaque tir réussi avec une arme longue portée se transforme en impact critique, à condition toutefois de posséder la carte Chance.}
+{226}{}{La compétence de Furtivité te permet de lancer une attaque au corps-à-corps qui, si tu attaques ton adversaire par derrière, lui infligera deux fois plus de dégâts. C'est ça l'aptitude Mort Silencieuse !}
+{227}{}{A chaque niveau de l'aptitude Homme (ou Femme) d'action, tu reçois des PA que tu pourras utiliser lors de tous les tours de combat. Ces PA peuvent être utilisés pour n'importe quelle tâche.}
+{228}{}{Le Bloc mental est l'aptitude à déjouer toute interférence mentale extérieure. Ce talent doit t'avoir été enseigné par un gourou de passage ou à la fin d'une soirée dans un bar.}
+{229}{}{A chaque niveau de cette aptitude, tu reçois 4 points d'impact. C'est peu, mais additionnés ces points peuvent t'être très utiles.}
+{230}{}{Lorsque tu possèdes cette aptitude, tes chances d'être touché(e) au combat diminuent. A chaque niveau, tu reçois un bonus de type d'armure de +5%, en plus du bonus de PA pour l'armure que tu portes.}
+{231}{}{Miam-miam ! Ça a le goût de poulet. Ton immunisation contre le poison augmente ta résistance au poison de +25%.}
+{232}{}{Avec cette aptitude, tu reçois un bonus de +20% lorsque tu utilises les compétences Réparation et Science. Ce n'est pas un peu de bachotage qui va te faire peur !}
+{233}{}{Avec l'aptitude Médecin, tu reçois un bonus de +20% lorsque tu utilises les compétences Secourisme et Médecin. Etre capable de soigner est une bonne chose.}
+{234}{}{Avec l'aptitude Maître Voleur, tu reçois un bonus de +10% lorsque tu utilises les compétences Esquive, Passe-partout, Voleur, et Pièges.}
+{235}{}{Avec l'aptitude Orateur, tu reçois un bonus de +20% lorsque tu utilises les compétences Discours et Troc.}
+{236}{}{A chaque niveau de l'aptitude Oh Hisse !, tes armes de lancement reçoivent +2 points de Force uniquement à des fins d'évaluation de la portée.}
+{237}{}{Les membres de ton équipe n'apparaissent plus en rouge mais en vert durant les combats. Les personnages en rouge peuvent se montrer amicaux à ton égard.}
+{238}{}{Avec cette aptitude, tu peux voler mieux que n'importe quel escroc, car ni la taille de l'objet ni l'angle d'attaque ne t'importent lorsque tu détrousses une personne.} 
+{239}{}{Lorsque le soleil se couche, ou lorsque tu te trouves dans un lieu mal éclairé, cette aptitude te permet de te déplacer tel un fantôme. Dans l'obscurité, ta compétence de furtivité augmente de +20%.}
+{240}{}{Tu as toujours une bonne réputation. Sans cette aptitude, une mauvaise réputation aurait des effets négatifs sur les personnes les plus bienveillantes. Même chose pour une bonne réputation face à des personnes malveillantes.} 
+{241}{}{Tu peux trouver plus de munitions que n'importe quel survivant de l'holocauste. Cette aptitude double la quantité de munitions que tu découvriras au cours de tes rencontres.}
+{242}{}{L'objectif de l'explorateur est de trouver de nouveaux sites intéressants. Avec cette aptitude, tu as plus de chances de découvrir des lieux ou des gens sortant de l'ordinaire.}
+{243}{}{Avec cette aptitude, tu dépends environ deux fois moins des stimulants et tu souffres deux fois moins des conséquences qu'une personne normale.}
+{244}{}{Le pionnier est plus apte que quiconque à trouver le chemin le plus court. Avec cette aptitude, le temps qu'il te faut pour voyager sur la Carte du Monde est réduit de 25% à chaque niveau.}
+{245}{}{Les animaux n'attaquent jamais leurs amis à moins d'être menacés ou attaqués. Quant à la définition du mot animal dans ce monde... Le débat est ouvert.}
+{246}{}{Tes aptitudes de repérage à longue distance se sont améliorées, ce qui accroît l'étendue de tes explorations sur la Carte du Monde d'un carré dans chaque direction.}
+{247}{}{Avec cette aptitude, tu as attiré l'attention d'un étranger mystérieux, qui apparaîtra de temps en temps pour t'aider. Si cet allié meurt au combat, ne t'attends pas à ce qu'on le remplace.}
+{248}{}{Tu attires moins l'attention lorsque tu voyages dans le désert. A chaque niveau de cette aptitude, tes chances de faire de mauvaises rencontres diminuent.}
+{249}{}{Tu as appris à mieux ranger ton matériel dans tes poches. A chaque niveau de cette aptitude, le coût en PA pour accéder à l'Inventaire pendant un combat diminue d'un point.}
+{250}{}{Les beaux parleurs s'expriment bien, sans forcément comprendre de quoi ils parlent. A chaque niveau de cette aptitude, tu reçois un point d'Intelligence à des fins de dialogue uniquement.}
+{251}{}{Avec cette aptitude, tu apprends plus vite. A chaque niveau, tu reçois un bonus de +5% lorsque tu gagnes des points d'expérience. A acheter de préférence au cours des premiers niveaux.}
+{252}{}{Compte tenu de l'amélioration de tes compétences, tu peux sélectionner un nouvel atout personnel. Tu recevras immédiatement +20%, puis 2% par point compétence utilisé.}
+{253}{}{Les radiations du désert t'ont changé(e) ! Une de tes qualités s'est transformée en quelque chose d'autre...}
+{254}{}{Il te faut du Nuka-Cola.}
+{255}{}{Tu trembles.}
+{256}{}{Tu as les jambes en coton.}
+{257}{}{Tu as des étourdissements.}
+{258}{}{Tu as des nausées.}
+{259}{}{Arme à longue portée}
+{260}{}{Arme de précision}
+{261}{}{Arme pénétrante}
+{262}{}{Arme coûteuse}
+{263}{}{SuperArmure}
+{264}{}{Armure de combat}

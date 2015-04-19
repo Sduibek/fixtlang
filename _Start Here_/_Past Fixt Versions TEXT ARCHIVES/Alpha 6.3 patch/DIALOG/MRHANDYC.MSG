@@ -1,0 +1,24 @@
+{100}{}{The robot is non-functional. The layer of dust on it suggests that it
+ hasn't been active recently.}
+{101}{}{The robot has been repaired, but it is still not functioning.}
+{102}{}{The hardware is not a problem, it must be the software.}
+{103}{}{You cannot access the robot's functions, as it is disabled.}
+{104}{}{You tinker with the malfunctioning components, but need more time to make
+ the fix.}
+{105}{}{You reboot the onboard computer, and successfully restart the robot.
+ You notice that the robot's radio is broken.}
+{106}{}{You spend some time working on the robot's computer, but cannot get it
+ restarted.}
+{107}{}{Unit #462 online. Self-test. Adjusting unit location data. Fixed.
+ Rebuilding memory file. Fixed. Error - task incomplete.}
+{108}{}{Rogga.}
+{109}{}{What is your incomplete task?}
+{110}{}{Well, just do it and get out of my way!}
+{111}{}{[Click] Okey-dokey! Restarting task.}
+{112}{}{Unit #462 is a cleaning model. Must finish cleaning and maintenance of
+ this level.}
+{113}{}{Go to it!}
+{114}{}{What do you have left to clean?}
+{115}{}{Vat Control Room. [Click] End of list.}
+{116}{}{Heh. Finish your task.}
+{117}{}{You earn 1000 experience points for doing a little clean-up work.}

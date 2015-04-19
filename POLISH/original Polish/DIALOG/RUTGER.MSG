@@ -1,0 +1,215 @@
+{100}{}{Widzisz Rutgera.}
+{101}{}{Witam u Wszêdobylskich Handlowców. W czym mogê pomóc?}
+{102}{}{Przewozicie wodê?}
+{103}{}{Ja w sprawie og³oszenia o pracy.}
+{104}{}{Szukam pracy.}
+{105}{}{Czym siê tu zajmujecie?}
+{106}{}{W niczym. Na razie.}
+{107}{}{Gak!}
+{108}{}{Nie zatrudniamy takich ³achmytów! Wynoœ siê.}
+{109}{}{Hmm. Jaka szkoda, ¿e w parze z tak wybuja³ymi miêœniami nie idzie umys³. Móg³by nam siê przydaæ ktoœ taki jak ty.}
+{110}{}{No có¿, "mo¿emy" przewoziæ wodê, ale to ciê bêdzie kosztowaæ. Ile potrzebujesz i dok¹d?}
+{111}{}{Potrzebujê tyle, ¿eby zaopatrzyæ Kryptê. To na pó³noc st¹d, za Z³omowem, w górach.}
+{112}{}{Potrzebujê tyle, ¿eby zaopatrzyæ Kryptê. To na pó³nocy, w górach.}
+{113}{}{Potrzebujê ca³¹ jaka jest! Pewnego dnia zmieniê oblicze naszej planety. Zobaczycie!}
+{114}{}{Ca³¹ kryptê? Pogiê³o ciê? Nie mamy dostêpu do takich iloœci wody. Nie wspominaj¹c o tym, ¿e jakoœ mi siê nie uœmiecha wycieczka w góry. Doœæ ju¿ mamy zaginionych karawan.}
+{115}{}{Nie? A jest ktoœ, kto da radê?}
+{116}{}{Co z t¹ prac¹ z og³oszenia?}
+{117}{}{No có¿, masz jak¹œ pracê?}
+{118}{}{Dziêki za nic.}
+{119}{}{O, przepraszam, nie jesteœ st¹d. Kupcy Wodni maj¹ w rêku ca³¹ wodê jaka tylko jest w tym mieœcie. Nawet bym nie marnowa³ czasu na negocjacje z nimi. To stado sêpów.}
+{120}{}{Gdzie mo¿na ich znaleŸæ?}
+{121}{}{Dobra, dziêki.}
+{122}{}{Nie mo¿na nie trafiæ. S¹ na po³udnie st¹d, zabarykadowani w tej cholernej wie¿y ciœnieñ.}
+{123}{}{Czym siê tu zajmujesz?}
+{124}{}{Dobra, dziêki.}
+{125}{}{Kierujê... to znaczy pomagam kierowaæ Wszêdobylskimi Handlowcami. Jak ktoœ zacznie nam bruŸdziæ, to ja siê tym zajmê. Prowadzimy handel pomiêdzy ró¿nymi osadami.}
+{126}{}{Ju¿ ci powiedzia³em. Butch i ja kierujemy Wszêdobylskimi Handlowcami. Co ciê do nas sprowadza?}
+{127}{}{Czym handlujecie?}
+{128}{}{Interesuj¹ce. Na razie.}
+{129}{}{Œwietnie. Co z t¹ prac¹ z og³oszenia?}
+{130}{}{Brzmi nieŸle. Potrzebujesz pomocy?}
+{131}{}{Dlaczego pytasz, handlujemy niemal wszystkim: lekami, oponami, broni¹, amunicj¹, ¿ywnoœci¹, braminami, ziemi¹, nawet kawa³kami metalu.}
+{132}{}{Ziemi¹? Kawa³kami metalu?}
+{133}{}{Ee... to fascynuj¹ce, ale muszê lecieæ.}
+{134}{}{Na pewno by ciê zaskoczy³o czego ludzie teraz potrzebuj¹. Coœ, co tutaj jest na porz¹dku dziennym w osadzie oddalonej o 10 mil mo¿e byæ poszukiwanym towarem.}
+{135}{}{Dobra, doœæ ju¿ tej nudnej handlowej gadki. Gdzie s¹ drzwi?}
+{136}{}{Dziêki, na razie.}
+{137}{}{Mo¿esz mi powiedzieæ coœ o tej pracy z og³oszenia?}
+{138}{}{Szukam jakiejœ pracy, masz coœ?}
+{139}{}{S³ysza³em, ¿e masz trochê nierówno pod sufitem, ale w³aœnie tego chyba nam trzeba. Musisz porozmawiaæ z Butchem. Lubi osobiœcie poznawaæ nowych pracowników. Znajdziesz go w pokoju za moimi plecami. IdŸ do niego.}
+{140}{}{Wydaje mi siê, ¿e nie potrzebujê zabójcy dzieci w jednej z moich karawan.}
+{141}{}{Zabójcy dzieci? To by³ wypadek.}
+{142}{}{Hej, ja ich nie rozró¿niam. Jak mi ktoœ wejdzie w drogê, to bez wzglêdu na wiek zostanie z niego tylko mokra plama na murze.}
+{143}{}{No có¿, wypadki siê zdarzaj¹. Ten œwiat jest doœæ pokrêcony. Ale nie jestem pewien, czy mogê ci ufaæ. IdŸ porozmawiaæ z Butchem. Jest w pokoju na zapleczu.}
+{144}{}{Gówno, a nie wypadek. Znam takich jak ty. Wydaje wam siê, ¿e mo¿ecie robiæ co tylko chcecie. W ka¿dym razie nie tutaj koleœ. IdŸ pogadaæ z Butchem, ale pamiêtaj, ¿e mam na ciebie oko. Znajdziesz go za tymi drzwiami, zaraz za moimi plecami.}
+{145}{}{Gówno, a nie wypadek. Znam takich jak ty. Wydaje wam siê, ¿e mo¿ecie robiæ co tylko chcecie. W ka¿dym razie nie tutaj paniusiu. IdŸ pogadaæ z Butchem, ale pamiêtaj, ¿e mam na ciebie oko. Znajdziesz go za tymi drzwiami, zaraz za moimi plecami.}
+{146}{}{Straszny z ciebie kawa³ skurwysyna. To siê mo¿e okazaæ pomocne, ale wcale nie oznacza, ¿e podobaj¹ mi siê twoje metody. Po prostu trzymaj siê z daleka od dzieciaków, bo zostanie z ciebie mokra plama. IdŸ porozmawiaæ z Butchem. Znajdziesz go w biurze za moimi plecami.}
+{147}{}{Szukasz pracy? S³ysza³em o tobie wiele dobrego. Przyda nam siê ktoœ o takiej reputacji. WejdŸ i pogadaj z Butchem. Jest w biurze za moimi plecami.}
+{148}{}{Szukasz pracy, co? Wygl¹dasz w sam raz. Pogadaj z Butchem. Jest w biurze za moimi plecami.}
+{149}{}{Myœla³em, ¿e nie chcesz tej pracy. Czego wiêc chcesz?}
+{150}{}{Nie. Ale zale¿a³o mi, ¿eby jeszcze raz spojrzeæ na twój paskudny ryj.}
+{151}{}{Przepraszam. Naprawdê chcê dostaæ tê pracê. Przyjmiecie mnie?}
+{152}{}{Nic.}
+{153}{}{Grudda!}
+{154}{}{Wynoœ siê st¹d cholerny ³achu!}
+{155}{}{Zdecyduj siê w koñcu. Mam du¿o zajêæ... Dobra, przeka¿ê ci szczegó³y.}
+{156}{}{Ale z ciebie kawa³ gówna. Wynoœ siê.}
+{157}{}{Po co ze mn¹ gadasz? Mówi³em ju¿, ¿e w sprawie pracy musisz porozmawiaæ z Butchem. Jak mu siê spodobasz, to powie ci co i jak.}
+{158}{}{Co? Jeszcze tu jesteœ?}
+{159}{}{Jak przebiegaj¹ poszukiwania?}
+{160}{}{Nie mogê nic znaleŸæ.}
+{161}{}{Mo¿esz powtórzyæ na czym mia³a polegaæ ta praca?}
+{162}{}{Masz jak¹œ pracê przy karawanie?}
+{163}{}{Przepraszam, muszê ju¿ iœæ.}
+{164}{}{Rhoo?}
+{165}{}{Có¿, nie powiedzia³em, ¿e to bêdzie ³atwe. W przeciwnym razie problem zosta³by rozwi¹zany ju¿ dawno temu. Popytaj w okolicy. Jak trzeba siêgnij po mocniejsze œrodki, ale nie przelewaj krwi. Przynajmniej nie w miejscach publicznych.}
+{166}{}{Mówiê ci, odstaw te prochy. Zrobi¹ z ciebie roœlinê.}
+{167}{}{Wynagrodzenie wynosi 500 kapsli, jeœli powiesz Butchowi co dok³adnie sta³o siê z wszystkimi karawanami, które ostatnio zniknê³y. Musisz zebraæ wszelkie mo¿liwe dowody. Ja osobiœcie uwa¿am, ¿e to ci przeklêci Kupcy Wodni, albo ci maniacy militariów z Bractwa Stali. Butch uwa¿a, ¿e to jakiœ pazur œmierci czy coœ takiego. Pogadaj z Beth, ona mo¿e wiedzieæ coœ wiêcej.}
+{168}{}{Dobra, ale nie wiem co ci umknê³o. Nie ma tego za wiele.}
+{169}{}{Wydawa³o mi siê, ¿e jesteœ st¹d. Tylko ciê sprawdza³em. Skoro nie jesteœ st¹d, to sk¹d masz ten stalowy pancerz, taki sam jak wszyscy, którzy tu paraduj¹?}
+{170}{}{Aa, to? Uda³o mi siê go "znaleŸæ" jeœli rozumiesz co mam na myœli.}
+{171}{}{Nie mogê powiedzieæ.}
+{172}{}{Cholera, musi byæ z ciebie zawodowiec. Cieszê siê, ¿e jesteœ po naszej stronie. Nie mam pojêcia jak mo¿na tego nie wiedzieæ, ale Bractwo to dziwna banda wyznawców technologii, czy coœ takiego. Maj¹ siedzibê na pó³noc st¹d.}
+{173}{}{Co to jest Bractwo Stali?}
+{174}{}{Mogê ci zagwarantowaæ, ¿e to nie Bractwo.}
+{175}{}{Co wiesz na o Szponach Œmierci?}
+{176}{}{Gdzie jest Beth?}
+{177}{}{Dziêki, na razie.}
+{178}{}{Cokolwiek powiesz. Na pewno uda³o ci siê ich gdzieœ spotkaæ. To dziwna banda wyznawców technologii, czy coœ takiego. Maj¹ siedzibê na pó³noc st¹d.}
+{179}{}{Oni s¹ naprawdê dziwni. Czcz¹ technologiê, czy coœ takiego. Dysponuj¹ niesamowit¹ si³¹ ognia. Bez problemu mogliby rozwaliæ ca³¹ karawanê. Maj¹ siedzibê na pó³nocny zachód st¹d.}
+{180}{}{Wiedzia³em, ¿e musisz do nich nale¿eæ. To przez ten stalowy pancerz. Mam nadziejê, ¿e masz racjê i ¿e zatrudniaj¹c ciê nie pope³niam b³êdu. Nie jesteœ jednak jedyn¹ osob¹, która zajmie siê t¹ spraw¹, wiêc chyba wszystko jest w porz¹dku.}
+{181}{}{Dlaczego tak mówisz?}
+{182}{}{Bo niedawno uda³o mi siê wst¹piæ do tego zakonu i dok³adnie ich sprawdziæ. Siedz¹ cicho i zajmuj¹ siê swoimi sprawami. Z ich strony nie ma siê czego obawiaæ.}
+{183}{}{Uda³o mi siê obejrzeæ ten ich bunkier - od œrodka. To nie ich szukacie.}
+{184}{}{Przeczucie.}
+{185}{}{Có¿, to bardzo pocieszaj¹ce. Tak mi siê przynajmniej wydaje.}
+{186}{}{Mam nadziejê, ¿e masz racjê.}
+{187}{}{Przeczucie nie wystarczy. Potrzebujemy dowodu.}
+{188}{}{Beth mo¿na znaleŸæ zaraz za tymi drzwiami i prawo. Prowadzi sklep z broni¹. Powiedz jej, ¿e pracujesz dla nas - dostaniesz 15% zni¿ki.}
+{189}{}{Aa, tak Szpon Œmierci, cokolwiek to jest. Wszyscy powariowali. To tylko wyobraŸnia p³ata ludziom figle. Nie ma ¿adnego ducha, potwora, ani cokolwiek niby ma to byæ. Trzymaj siê rzeczywistoœci, a bêdzie dobrze.}
+{190}{}{Tak? Mogê ci w czymœ pomóc?}
+{191}{}{Wiem co siê dzieje z waszymi karawanami.}
+{192}{}{Nic.}
+{193}{}{Wha.}
+{194}{}{Grrr.}
+{195}{}{Naprawdê? Wiêc kto to robi? Kupcy Wodni?}
+{196}{}{Tak, to oni! Chc¹ was dopaœæ. Chc¹... waszych... braminów.}
+{197}{}{Tak naprawdê to by³a grupa tych OLBRZYMICH mutantów.}
+{198}{}{To by³ Szpon Œmierci. Na moich oczach po¿ar³ ca³¹ karawanê.}
+{199}{}{Nie pamiêtam.}
+{200}{}{Nie pamiêtasz? Bardzo œmieszne. A teraz spadaj st¹d.}
+{201}{}{Nie pamiêtasz? Bardzo zabawne. A teraz spadaj st¹d.}
+{202}{}{Wiedzia³em, ¿e to oni. Masz jakieœ dowody? Zap³ac¹ za to co zrobili.}
+{203}{}{Uhh. Nie. Zgubi³y mi siê. Ale rêczê moim s³owem, ¿e to prawda.}
+{204}{}{W³aœciwie to nie byli oni. To by³a banda olbrzymich mutantów.}
+{205}{}{Przepraszam, muszê lecieæ.}
+{206}{}{Có¿, bez dowodów nie mogê nic zrobiæ. Nie mogê zacz¹æ kolejnej wojny pomiêdzy kupcami. Je¿eli dostarczysz mi dowody, to przedstawiê je stró¿om prawa i wtedy winni ponios¹ konsekwencje.}
+{207}{}{Ale z ciebie kawa³ gówna. ZejdŸ mi z oczu.}
+{208}{}{Co? S³ucham? To niemo¿liwe. Ty sobie chyba ¿artujesz? To ¿art, prawda?}
+{209}{}{Taak, przepraszam. Wierz lub nie, ale to by³a banda olbrzymich mutantów.}
+{210}{}{To by³o straszne. Mia³o wielkie, ostre zêbiska.}
+{211}{}{Ca³¹ karawanê? Powa¿nie? Wydaje ci siê, ¿e siê na to nabiorê? Wynoœ siê i lepiej dowiedz siê co tak naprawdê dzieje siê z naszymi karawanami.}
+{212}{}{Olbrzymie mutanty niszcz¹ce moje karawany? To niemal tak samo dobra historia jak ta ze Szponem Œmierci.}
+{213}{}{To nie by³ ¿art. Uda³o mi siê znaleŸæ tego Szpona Œmieci i go zabiæ. Ale przy ciele jednego z tych... super mutantów by³a ta holotaœma.}
+{214}{}{Có¿, powinieneœ obejrzeæ t¹ taœmê. By³a przy jednym z mutantów, którzy napadli na karawanê.}
+{215}{}{To prawda. Gdybyœ tam by³, to zobaczy³byœ to na w³asne oczy, jak ja. Przyniosê ci dowody.}
+{216}{}{Œwietnie, nie musisz mi wierzyæ.}
+{217}{}{Muszê ju¿ iœæ.}
+{218}{}{Hej, wiem jak z tego korzystaæ. Dawno temu Butch kupi³ trochê zabawek od zwiadowcy z Bractwa. Jedna z nich czyta takie dyski. Zobaczmy... Wybacz, ¿e ci nie uwierzy³em. To nie wró¿y nic dobrego kolesiom, którzy stoj¹ po stronie prawa. No có¿, oto twoje 500 kapsli. Do diab³a, niech bêdzie 800 i jeszcze raz dziêkujê za informacjê! Je¿eli bêdziesz jeszcze potrzebowaæ pracy, to zawsze mo¿esz do nas zajrzeæ.}
+{219}{}{Proszê, nie pog³êbiaj paranoi Butcha. On jest nieco przewra¿liwiony na punkcie Szponów Œmierci. A teraz powiedz mi, czego uda³o ci siê dowiedzieæ. To byli Kupcy Wodni?}
+{220}{}{Tak, to oni! Chc¹ was dopaœæ. Chc¹... waszych... braminów.}
+{221}{}{Tak naprawdê to by³a grupa tych OLBRZYMICH mutantów.}
+{222}{}{Nie, tak naprawdê do Szpon Œmierci. Na moich oczach po¿ar³ ca³¹ karawanê.}
+{223}{}{Nie pamiêtam.}
+{224}{}{Szczury, co? A teraz powiedz mi, czego uda³o ci siê dowiedzieæ? To ci przeklêci Kupcy Wodni, wiedzia³em!}
+{225}{}{Tak, to oni! Chc¹ was dopaœæ. Chc¹... waszych... braminów.}
+{226}{}{Tak naprawdê to by³a grupa tych OLBRZYMICH mutantów.}
+{227}{}{To by³ Szpon Œmierci. Na moich oczach po¿ar³ ca³¹ karawanê.}
+{228}{}{Nie pamiêtam.}
+{229}{}{Mutanci zniszczyli nasze karawany? To niemal tak samo dobra historia jak ta o Szponie Œmierci.}
+{230}{}{To nie by³ ¿art. Uda³o mi siê znaleŸæ tego Szpona Œmierci i go zabiæ. Ale przy ciele jednego z tych... super mutantów by³a ta holotaœma.}
+{231}{}{Có¿, powinieneœ obejrzeæ ten dysk. By³ przy jednym z mutantów, którzy napadli na karawanê.}
+{232}{}{To prawda. Gdybyœ tam by³, to zobaczy³byœ to na w³asne oczy, jak ja. Przyniosê ci dowody.}
+{233}{}{Muszê ju¿ iœæ.}
+{234}{}{I jak? Masz jakieœ dowody na to, kto rozwali³ moje, to znaczy nasze karawany?}
+{235}{}{Taak. Tu masz dysk, który by³ przy ciele jednego z tych... super mutantów.}
+{236}{}{Nie, ci¹gle szukam. Masz jakieœ sugestie?}
+{237}{}{Dam ci znaæ jak czegoœ siê dowiem.}
+{238}{}{Gak!}
+{239}{}{Je¿eli ten Szpon Œmierci naprawdê istnieje, to mo¿e warto przejrzeæ jego legowisko. Mo¿e tam coœ bêdzie.}
+{240}{}{Czeœæ. W czym mogê pomóc?}
+{241}{}{Wiem co siê sta³o z tymi zaginionymi karawanami.}
+{242}{}{Aa, nic.}
+{243}{}{Hej! S³ysza³em, ¿e uda³o ci siê rozwaliæ tego gnojka, który dowodzi³ mutantami. Œwietna robota. Prawdopodobnie uda³o ci siê uratowaæ ¿ycie wszystkim mieszkañcom Hub. Ciekawe sk¹d przyszli ci mutanci.}
+{244}{}{Tak! Wiêcej celów do zabicia! Ciekawe gdzie siê ukrywaj¹.}
+{245}{}{Tak, muszê dok³adnie wyczyœciæ okolicê z pomiotu Mistrza. Ciekawe gdzie siê ukrywaj¹.}
+{246}{}{Masz racjê! Ciekawe gdzie siê ukrywaj¹.}
+{247}{}{Potrzebujê trochê gotówki. Masz jak¹œ pracê?}
+{248}{}{A wszystko zajê³o jeden dzieñ pracy. Na razie!}
+{249}{}{Tak, uda³o mi siê skopaæ im ty³ki. Ojej, to znaczy... Gruk Chak!}
+{250}{}{Czo³em koleœ. Jak leci?}
+{252}{}{Czeœæ, œliczna. Jak leci?}
+{253}{}{Jak siê czuje moja ulubiona dama?}
+{254}{}{Œwietnie dziêki. Masz jeszcze jak¹œ pracê?}
+{255}{}{Œwietnie! Co s³ychaæ?}
+{256}{}{Yogwa?}
+{257}{}{Wszystko w porz¹dku! Nie ma ju¿ napadów ze stron tych przeklêtych mutantów. Handel znowu toczy siê normalnie. A w³aœciwie idzie znacznie lepiej ni¿ wczeœniej. Dziêki, ¿e pytasz.}
+{258}{}{Hej, s³ysza³em, ¿e uda³o ci siê zniszczyæ jak¹œ bazê, w której byli ci wszyscy mutanci! Œwietna robota! Szkoda, ¿e nie uda³o ci siê znaleŸæ ich przywódcy.}
+{259}{}{Taak! Jeszcze coœ do zabicia. Ciekawe gdzie ukrywa siê Mistrz.}
+{260}{}{Tak, muszê zniszczyæ Mistrza. Nie mogê pozwoliæ, ¿eby z³o znowu siê rozprzestrzeni³o. Ciekawe gdzie on siê ukrywa.}
+{261}{}{Mistrz nied³ugo spotka siê ze stwórc¹.}
+{262}{}{Masz racjê! Ciekawe gdzie ukrywa siê Mistrz.}
+{263}{}{Potrzebujê trochê gotówki. Masz jak¹œ pracê?}
+{264}{}{Tak, uda³o mi siê skopaæ im ty³ki. Ojej,. to znaczy... Gruk Chak!}
+{265}{}{Có¿, dosz³y mnie s³uchy, ¿e ludzie widzieli ma³e grupki mutantów daleko na pó³nocy. Daleko za Bractwem Stali.}
+{266}{}{Wiesz, od kiedy ci mutanci zostali zniszczeni Dzieci Katedry zaczê³y siê "bardzo" dziwnie zachowywaæ. S³ysza³em jak jedno z nich mówi³o o tobie. Wygl¹da na to, ¿e desperacko ciê szukaj¹.}
+{267}{}{W³aœciwie to sprawy nie maj¹ siê najlepiej. Ci mutanci wci¹¿ stwarzaj¹ problemy naszym karawanom. Musieliœmy wstrzymaæ ich wysy³anie. Dziêki, ¿e pytasz.}
+{268}{}{Pewnie, przydasz siê w jednej z naszych karawan. Chcesz pracowaæ w ochronie? Standardowe wynagrodzenie, 400 kapsli. Interesuje ciê to?}
+{269}{}{Pewnie.}
+{270}{}{Nie.}
+{271}{}{S³ucham? Co z tymi zaginionymi karawanami?}
+{272}{}{Czy jest lepszy sposób na znalezienie z³odziei ni¿ do³¹czenie do karawany?}
+{273}{}{Bêdê mieæ oczy szeroko otwarte, ale potrzebujê trochê gotówki.}
+{274}{}{Niewa¿ne.}
+{275}{}{Dobra, ale daj mi znaæ jeœli zmienisz zdanie. Przez wiêkszoœæ czasu to po prostu ³atwy zarobek.}
+{276}{}{Œwietnie, pogadaj z przewodnikiem karawany, który stoi zaraz przed frontowym wejœciem. On ci powie kiedy wyrusza nastêpna karawana. Bêdziesz mieæ pracê tak d³ugo jak bêdziesz siê dobrze spisywaæ.}
+{277}{}{Dam ci jeszcze jedn¹ szansê. Wynagrodzenie wynosi 400 kapsli. Przewodnik, którego znajdziesz przy g³ównym wejœciu powie ci kiedy ma wyruszyæ kolejna karawana.}
+{278}{}{Przykro mi, ale ju¿ da³em ci szansê. Lepiej ju¿ sobie idŸ.}
+{279}{}{¯artujesz sobie? Jestem wdziêczy na to, czego uda³o ci siê dokonaæ, ale to nie zmienia przesz³oœci. Lepiej ju¿ sobie idŸ.}
+{280}{}{Masz problemy ze s³uchem? Nie zatrudnimy ciê. WyjdŸ st¹d.}
+{281}{}{Nie wydaje mi siê, ¿eby to zadzia³a³o, ale mo¿esz pojechaæ z jedn¹ z nich jeœli tylko chcesz.}
+{282}{}{Dlaczego tak mówisz?}
+{283}{}{Masz racjê, pozwól mi zrobiæ jeszcze jeden kurs.}
+{284}{}{Dobra, biorê tê robotê.}
+{285}{}{Œwietnie. Nie zapomnij popytaæ w okolicy.}
+{286}{}{Dobrze. Pogadaj z woŸnic¹ z karawany, który stoi zaraz przed frontowym wejœciem. Bêdziesz mieæ pracê tak d³ugo jak bêdziesz siê dobrze spisywaæ.}
+{287}{}{Oczywiœcie! Ale ja siê tym nie zajmujê. Porozmawiaj z przewodnikiem karawany.}
+{288}{}{[WIÊCEJ]}
+{289}{}{Tracimy sporo karawan, ale to i tak niewielki odsetek naszych interesów. Prawdopodobieñstwo, ¿e bêdziesz w karawanie, która zostanie zaatakowana przez to coœ, co je kompletnie przejmuje, b¹dŸ niszczy jest doœæ nik³e. Ten kto to robi musi mieæ du¿e, albo niesamowicie skuteczne si³y.}
+{290}{}{Dobra. Myœlê, ¿e zapytam o to jeszcze kilka osób. }
+{291}{}{No có¿, potrzebujê pieniêdzy.}
+{292}{}{Witaj ponownie. Co mogê dla ciebie... potrzebujesz czegoœ?}
+{293}{}{Mi³o znowu ciê widzieæ.}
+{294}{}{Ciekawi mnie, czy transportujecie wodê?}
+{295}{}{Ja w sprawie og³oszenia o pracy.}
+{296}{}{Szukam pracy.}
+{297}{}{A co ci do tego?}
+{298}{}{Przepraszam, muszê ju¿ iœæ.}
+{299}{}{Rarwa.}
+{300}{}{Taa, czego do diab³a chcesz?}
+{301}{}{Zaczynam mieæ ciê doœæ. Co znowu?}
+{302}{}{Co!}
+{303}{}{Zawsze jesteœ taki denerwuj¹cy?}
+{304}{}{O co ci chodzi cz³owieku?!?!}
+{305}{}{Ciekawi mnie, czy transportujecie wodê?}
+{306}{}{Ja w sprawie og³oszenia o pracy.}
+{307}{}{Szukam pracy.}
+{308}{}{A co ci do tego?}
+{309}{}{Przepraszam, muszê ju¿ iœæ.}
+{310}{}{Tooka?}
+{311}{}{Trzeba by³o nie wkurzaæ szefa. Zje¿d¿aj st¹d!}
+{312}{}{Wydaje mi siê, ¿e wiem co siê sta³o z tymi zaginionymi karawanami.}
+{313}{}{To œwietnie! Powiedz Butchowi czego uda³o ci siê dowiedzieæ, a on da mi znaæ, czy nale¿y ci siê jakaœ nagroda.}
+{314}{}{Grdddle Snpp!!!}
+{315}{}{Przykro mi, ale nie robimy interesów z... hmm... inteligentnymi inaczej.}

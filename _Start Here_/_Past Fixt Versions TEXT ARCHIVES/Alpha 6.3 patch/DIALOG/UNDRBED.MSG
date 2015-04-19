@@ -1,0 +1,1 @@
+{100}{}{You see something in the darkness under the bed.}

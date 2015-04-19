@@ -1,0 +1,474 @@
+{100}{}{pancerz skórzany}
+{101}{}{Prosty strój skórzany, umiejêtnie wykonany z wyprawionej skóry bramina.}
+{200}{}{pancerz metalowy}
+{201}{}{Wypolerowane, metalowe p³yty, tworz¹ce toporn¹ zbrojê.}
+{300}{}{pancerz wspomagany}
+{301}{}{Wspomagany pancerz bojowy piechoty, model T-51b. Jest to zaawansowany technicznie, autonomiczny pancerz, zasilany energi¹ wytwarzan¹ w procesie mikrosyntezy termoj¹drowej. Wbudowany reaktor ma zapas paliwa na 100 lat.}
+{400}{}{nó¿}
+{401}{}{Broñ bia³a wyposa¿ona w ostr¹ g³owniê przystosowan¹ do ciêcia i k³ucia. Min. SI: 2.}
+{500}{}{pa³ka}
+{501}{}{Wojskowa lub policyjna pa³ka. Wykonana z twardego drewna. Min. SI: 3.}
+{600}{}{m³ot}
+{601}{}{Wielki m³ot z d³ugim trzonkiem. Bardzo popularny wœród miêœniaków. Min. SI: 6.}
+{700}{}{w³ócznia}
+{701}{}{Ostra jak brzytwa broñ drzewcowa. Drzewiec jest drewniany, a grot to obrobiona stal. Min. SI: 4.}
+{800}{}{Colt 6520 10 mm}
+{801}{}{Pistolet samopowtarzalny Colt 6520 kalibru 10 mm. Ka¿de naciœniêcie spustu automatycznie prze³adowuje broñ, do wyczerpania magazynka. Wy³¹cznie pojedyncze strza³y. Min. SI: 3.}
+{900}{}{H&K MP9 10 mm}
+{901}{}{Pistolet maszynowy Heckler & Koch MP9 (wariant 10 mm), œredniej wielkoœci, zdolny do ognia pojedynczego i ci¹g³ego. Min. SI: 4.}
+{1000}{}{Colt Rangemaster 5,56 mm}
+{1001}{}{Myœliwski karabin pó³automatyczny Colt Rangemaster kalibru 5,56 mm. Ogieñ wy³¹cznie pojedynczy. Min. SI: 5.}
+{1100}{}{Grill 450}
+{1101}{}{Miotacz ognia Grill 450, odmiana przeznaczona do niewymagaj¹cych zezwolenia polowañ na drobn¹ zwierzynê. Miota krótkie strugi bardzo gor¹cej, ³atwopalnej cieczy. Wymaga specjalnego paliwa. Min. SI: 6.}
+{1200}{}{Rockwell CZ53}
+{1201}{}{Osobiste minidzia³ko CZ53 firmy Rockwell. Jest to zasilany z taœmy, wielolufowy, ciê¿ki karabin maszynowy, zdolny do wystrzelenia w ci¹gu minuty ponad 60.000 pocisków kalibru 5 mm. Min. SI: 7.}
+{1300}{}{Rockwell BigBazooka}
+{1301}{}{Wyrzutnia rakietowa BigBazooka firmy Rockwell, wersja luksusowa z wa¿¹cym 1,5 kg mechanizmem spustowym. Wystrzeliwuje rakiety przeciwpancerne i burz¹ce. Min. SI: 6.}
+{1400}{}{rakieta burz¹ca}
+{1401}{}{Rakieta wyposa¿ona w du¿¹ g³owicê z ³adunkiem wybuchowym.}
+{1500}{}{Winchester Model P94}
+{1501}{}{Karabin plazmowy Winchester Model P94. Profesjonalna broñ energetyczna, wystrzeliwuj¹ca ekstremalnie rozgrzane drobiny plazmy przez lufê wykonan¹ z nadprzewodnika. Zasilana ogniwami termoj¹drowymi. Min. SI: 6.}
+{1600}{}{Wattz 1000}
+{1601}{}{Pistolet laserowy Wattz 1000. Model cywilny, zatem dyponuj¹cy mniejsz¹ moc¹ ni¿ odmiany wojskowa i policyjna. Wykorzystuje ma³e ogniwa energetyczne. Min. SI: 3.}
+{1700}{}{pancerz bojowy}
+{1701}{}{Zaawansowany technicznie pancerz wykonany z polimerów.}
+{1800}{}{Desert Eagle 0,44 cala}
+{1801}{}{Wiekowy pistolet Desert Eagle na amunicjê 0,44 cala Magnum. Utrzymuj¹ce siê przez dziesiêciolecia zainteresowanie kinematografi¹ koñca XX w. uczyni³o go jednym z najpopularniejszych przedstawicieli krótkiej broni palnej. Min. SI: 4.}
+{1900}{}{kamieñ}
+{1901}{}{Jest to kamieñ. Wersja ulepszona, produkcji firmy Granit SA. Min. SI: 1.}
+{2000}{}{³om}
+{2001}{}{Bardzo solidny i ciê¿ki kawa³ metalu, specjalnie zaprojektowany do podwa¿ania wszelkich obiektów. I rozwalania ³bów. Min. SI: 5.}
+{2100}{}{kastet}
+{2101}{}{Twarda nak³adka na palce, wykonana ze stali. W walce wrêcz chroni d³oñ i zwiêksza si³ê zadawanych ni¹ ciosów. Min. SI: 1.}
+{2200}{}{SIG Sauer 14 mm}
+{2201}{}{Pistolet samopowtarzalny SIG Sauer niemal armatniego kalibru 14 mm. Spora broñ rêczna, strzelaj¹ca ogniem pojedynczym. Doskona³a, szwajcarska jakoœæ wykonania. Min. SI: 4.}
+{2300}{}{AK-112}
+{2301}{}{Karabinek automatyczny AK-112. Stary model wojskowy, przed Wojn¹ wychodz¹cy z u¿ytku. Zdolny do ognia pojedynczego i ci¹g³ego z wykorzystaniem osi¹gaj¹cej wielkie prêdkoœci amunicji kalibru 5 mm. Min. SI: 5.}
+{2400}{}{Glock 86}
+{2401}{}{Pistolet plazmowy Glock 86. Zaprojektowany przez SI o profilu legendarnego za³o¿yciela firmy Glock, Gastona Glocka. Wystrzeliwuje ekstremalnie rozgrzane, niewielkie drobiny plazmy. Zasilany ma³ymi ogniwami energetycznymi. Min. SI: 4.}
+{2500}{}{granat od³amkowy}
+{2501}{}{Standardowy granat od³amkowy. Zawiera niewielk¹ iloœæ silnego materia³u wybuchowego, który po eksplozji, nastêpuj¹cej przy uderzeniu w dowolny obiekt, zmienia skorupê w siej¹ce zniszczenie od³amki. Min. SI: 3.}
+{2600}{}{granat plazmowy}
+{2601}{}{Magnetycznie zamkniêty pojemnik plazmy, wyposa¿ony w detonator. Po uderzeniu w dowolny obiekt wytwarza ob³ok ekstremalnie gor¹cego, zjonizowanego gazu. Min. SI: 4.}
+{2700}{}{granat EMP}
+{2701}{}{Granat wytwarzaj¹cy przy detonacji impuls elektromagnetyczny (EMP), niszcz¹ce uk³ady elektroniczne. Nie oddzia³ywuje na istoty biologiczne. Zapalnik kontaktowy. Min. SI: 4.}
+{2800}{}{H&K L30}
+{2801}{}{Laser wielolufowy Heckler & Koch L30. Na pocz¹tku Wojny znajdowa³ siê w stadium prototypowym. Wielolufowoœæ pozwala na opóŸnienie momentu przegrzania w trakcie prowadzenia ognia. Zasilany ogniwami termoj¹drowymi. Min. SI: 6.}
+{2900}{}{amunicja 10 mm JHP}
+{2901}{}{Amunicja. Kaliber 10 mm, pociski typu dum-dum, pó³p³aszczowe z wydr¹¿onym wierzcho³kiem. Grzybkuj¹ po uderzeniu w niemal dowolny obiekt, w przypadku penetracji wyrywaj¹c otwór wiêkszy od swego kalibru. Ma³o skuteczne przeciw celom opancerzonym.}
+{3000}{}{amunicja 10 mm AP}
+{3001}{}{Amunicja. Kaliber 10 mm, pociski przeciwpancerne. Celom nieopancerzonym zadaj¹ relatywnie mniejsze obra¿enia, ni¿ amunicja innych typów.}
+{3100}{}{amunicja 0,44 cala Magnum JHP}
+{3101}{}{Amunicja kalibru 0,44 cala Magnum, pociski typu dum-dum, pó³p³aszczowe z wydr¹¿onym wierzcho³kiem. Grzybkuj¹ po uderzeniu w niemal dowolny obiekt, w przypadku penetracji wyrywaj¹c otwór wiêkszy od swego kalibru. Ma³o skuteczne przeciw celom opancerzonym.}
+{3200}{}{paliwo do miotacza ognia}
+{3201}{}{Pojemnik zawieraj¹cy ³atwopaln¹ ciecz s³u¿¹c¹ jako paliwo do miotaczy ognia.}
+{3300}{}{amunicja 14 mm AP}
+{3301}{}{Amunicja wielkokalibrowa. Pociski przeciwpancerne 14 mm. Celom nieopancerzonym zadaj¹ relatywnie mniejsze obra¿enia, ni¿ amunicja innych typów.}
+{3400}{}{amunicja 5,56 mm FMJ}
+{3401}{}{Amunicja kalibru 5,56 mm, pociski pe³nop³aszczowe (o w³aœciwoœciach poœrednich miêdzy pociskami dum-dum a przeciwpancernymi).}
+{3500}{}{amunicja 5 mm JHP}
+{3501}{}{Amunicja ma³okalibrowa. Pociski 5 mm typu dum-dum, pó³p³aszczowe z wydr¹¿onym wierzcho³kiem. Grzybkuj¹ po uderzeniu w niemal dowolny obiekt, w przypadku penetracji wyrywaj¹c otwór wiêkszy od swego kalibru. Ma³o skuteczne przeciw celom opancerzonym.}
+{3600}{}{amunicja 5 mm AP}
+{3601}{}{Amunicja ma³okalibrowa. Pociski przeciwpancerne 5 mm. Celom nieopancerzonym zadaj¹ relatywnie mniejsze obra¿enia, ni¿ amunicja innych typów}
+{3700}{}{przeciwpancerna rakieta kumulacyjna}
+{3701}{}{Pocisk rakietowy z mniejsz¹ iloœci¹ materia³u wybuchowego, uformowanego w ³adunek kumulacyjny, zdolny do przebicia naprawdê grubego pancerza.}
+{3800}{}{ma³e ogniwo energetyczne}
+{3801}{}{Niewielka, autonomiczna jednostka s³u¿¹ca do przechowywania energii.}
+{3900}{}{ogniwo termoj¹drowe}
+{3901}{}{Œredniej wielkoœci ogniwo wytwarzaj¹ce energiê w procesie mikrosyntezy termoj¹drowej. Autonomiczna elektrownia atomowa.}
+{4000}{}{Stimpak}
+{4001}{}{Specyfik leczniczy. Natychmiast po wstrzykniêciu goi drobne rany.}
+{4100}{}{kapsle}
+{4101}{}{W tej torbie znajduj¹ siê twoje kapsle od butelek, u¿ywane jako œrodek p³atniczy.}
+{4200}{}{lodówka}
+{4201}{}{Jest to lodówka. Bez ch³odziwa.}
+{4300}{}{ch³odziarka}
+{4301}{}{Jest to staromodna ch³odziarka. Zawiasy ma w dobrym stanie.}
+{4400}{}{ch³odziarka}
+{4401}{}{Jest to staromodna ch³odziarka. Zawiasy ma w dobrym stanie.}
+{4500}{}{nó¿ do rzucania}
+{4501}{}{Nó¿ specjalnie wywa¿ony do rzucania. Wykonany z tytanu, zaostrzony laserem. Min. SI: 3.}
+{4600}{}{torba}
+{4601}{}{Torba œredniej wielkoœci, wykonana z we³ny bramina.}
+{4700}{}{zestaw pierwszej pomocy}
+{4701}{}{Niewielki zestaw zawieraj¹cy podstawowe œrodki medyczne. Plastry, banda¿e, aerozol antyseptyczny i inne materia³y.}
+{4800}{}{AntyRad}
+{4801}{}{Roztwór chemiczny, który wi¹¿e pierwiastki radioaktywne i wyp³ukuje je z sob¹ z organizmu. Mija nieco czasu, nim zadzia³a.}
+{4900}{}{antidotum}
+{4901}{}{Butelka zawieraj¹ca domowej roboty odtrutkê na jad - przypominaj¹cy mleko p³yn, w którym p³ywaj¹ skrawki miêsa radskorpiona.}
+{5000}{}{Zarezerwowane}
+{5001}{}{Zarezerwowane. NIE U¯YWAÆ.}
+{5100}{}{dynamit}
+{5101}{}{Silny materia³ wybuchowy sk³adaj¹cy siê z nitrogliceryny zmieszanej w proporcji 3:1 z substancj¹ ch³onn¹ - ziemi¹ okrzemkow¹. Ma zainstalowany zapalnik czasowy.}
+{5200}{}{licznik Geigera}
+{5201}{}{Licznik Geigera produkcji Wattz Electronics, model WID-Rad. Wykrywa obecnoœæ i si³ê promieniowania.}
+{5300}{}{Mentaty}
+{5301}{}{Tabletki modyfikuj¹ce funkcjonowanie mózgu. Poprawiaj¹ pracê pamiêci i przyspieszaj¹ inne procesy umys³owe. Silnie uzale¿niaj¹ce.}
+{5400}{}{SkradoBoy}
+{5401}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
+{5500}{}{hydroprocesor}
+{5501}{}{Uk³ad elektroniczny steruj¹cy systemem uzdatniania wody. Wygl¹da uderzaj¹co podobnie do procesora, którego potrzebuje twoja Krypta.}
+{5600}{}{nieœmiertelniki}
+{5601}{}{Para wojskowych nieœmiertelników. Daje siê odczytaæ nazwisko Darkwater, ale nic poza tym.}
+{5700}{}{pluskwa}
+{5701}{}{Miniaturowy mikrofon i urz¹dzenie nadawcze.}
+{5800}{}{holotaœma}
+{5801}{}{Taœma holograficzna produkcji Wattz Electronics. Ten egzemplarz jest w bardzo s³abym stanie.}
+{5900}{}{detektor ruchu}
+{5901}{}{Detektor ruchu, produkcji Wattz Electronics, model WID-C. Za pomoc¹ specjalnie dostrojonego radaru wykrywa ruch biomaterii z odleg³oœci wielu metrów.}
+{6000}{}{biblioteczka}
+{6001}{}{Jest to drewniana biblioteczka.}
+{6100}{}{biblioteczka}
+{6101}{}{Jest to drewniana biblioteczka.}
+{6200}{}{biblioteczka}
+{6201}{}{Jest to drewniana biblioteczka.}
+{6300}{}{biblioteczka}
+{6301}{}{Jest to drewniana biblioteczka.}
+{6400}{}{biblioteczka}
+{6401}{}{Jest to drewniana biblioteczka.}
+{6500}{}{biblioteczka}
+{6501}{}{Jest to drewniana biblioteczka.}
+{6600}{}{biurko}
+{6601}{}{Jest to drewniane biurko.}
+{6700}{}{biurko}
+{6701}{}{Jest to drewniane biurko.}
+{6800}{}{komoda}
+{6801}{}{Jest to drewniana komoda.}
+{6900}{}{komoda}
+{6901}{}{Jest to drewniana komoda.}
+{7000}{}{komoda}
+{7001}{}{Jest to drewniana komoda.}
+{7100}{}{owoc}
+{7101}{}{Dziwny owoc. Nie dodano do niego ¿adnych œrodków konserwuj¹cych ani sztucznych barwników.}
+{7200}{}{aktówka}
+{7201}{}{Aktówka z etykiet¹ "Wyprodukowano w USA". Skórzana, w dobrym stanie, lecz z zepsutym zamkiem szyfrowym.}
+{7300}{}{Wielka ksiêga nauki}
+{7301}{}{Seria ksi¹¿ek zawieraj¹cych informacje z ró¿nych obszarów nauki.}
+{7400}{}{skórzana kurtka}
+{7401}{}{Czarna, ciê¿ka, skórzana kurtka w komplecie ze spodniami. Wygl¹dasz siê w niej prawie jak twój ulubiony aktor, Max Gobson, w roli Szalonego Mela Kaminsky'ego.}
+{7500}{}{zestaw narzêdziowy}
+{7501}{}{Doskona³y zestaw narzêdzi, zawieraj¹cy ró¿norakie u¿yteczne instrumenty.}
+{7600}{}{M³ody elektronik}
+{7601}{}{Podrêcznik z dziedziny elektroniki. Notka na ok³adce g³osi, ¿e "ka¿dy ma zadatki na m³odego elektronika!"}
+{7700}{}{wytrych elektroniczny}
+{7701}{}{Rêczny Mikromanipulator produkcji Wattz Electronics - wytrych przeznaczony do pokonywania elektronicznych zamków i zabezpieczeñ.}
+{7800}{}{rozmazany obraz}
+{7801}{}{Wizerunek piosenkarza, najwyraŸniej bardzo stary. Z ty³u ma filcow¹ podœció³kê, która jest nadal w dobrym stanie.}
+{7900}{}{flara}
+{7901}{}{Standardowa flara. Przez krótki okres czasu po uaktywnieniu (poprzez odkrêcenie czubka) wytwarza œwiat³o. Papier jest nieco starty, lecz poza tym jest ona w dobrym stanie.}
+{8000}{}{Podrêcznik pierwszej pomocy}
+{8001}{}{Podrêcznik objaœniaj¹cy teoriê i praktykê udzielania pierwszej pomocy.}
+{8100}{}{iguana na patyku}
+{8101}{}{Iguana upieczona we w³asnej, chrupi¹cej skórce. Palce lizaæ.}
+{8200}{}{klucz}
+{8201}{}{Klucz przeznaczony do konkretnego zamka.}
+{8300}{}{kó³ko z kluczami}
+{8301}{}{Gama kluczy.}
+{8400}{}{wytrychy}
+{8401}{}{Zestaw narzêdzi œlusarskich. Zawiera wszelkie wytrychy i klucze dynamometryczne potrzebne do otwarcia konwencjonalnego zamka.}
+{8500}{}{Cordex}
+{8501}{}{Kawa³ Cordexu, wojskowego gatunku plastycznych materia³ów wybuchowych, wysoce stabilnego i destruktywnego. Ma zainstalowany zapalnik czasowy.}
+{8600}{}{Poradnik harcerza}
+{8601}{}{Ksi¹¿ka o technikach i idea³ach skautingu. Zawiera bardzo praktyczne informacje o ¿yciu z dala od cywilizacji.}
+{8700}{}{Wygrzew}
+{8701}{}{Wysoce zaawansowane sterydy. Czasowo zwiêkszaj¹ si³ê i poprawiaj¹ refleks. Silnie uzale¿niaj¹ce.}
+{8800}{}{zegarek}
+{8801}{}{Drogi zegarek. Tak naprawdê nie chodzi, ale nadal ³adnie wygl¹da.}
+{8900}{}{silnik}
+{8901}{}{Silnik elektryczny o mocy 40 KM.}
+{9000}{}{plecak}
+{9001}{}{Prosty plecak z dodatkowymi paskami.}
+{9100}{}{torba lekarska}
+{9101}{}{Ta czarna torba zawiera instrumenty i specyfiki u¿ywane przez lekarzy do wykonywania swojego zawodu.}
+{9200}{}{ogon skorpiona}
+{9201}{}{Oderwany ogon radskorpiona.}
+{9300}{}{torba}
+{9301}{}{Torba œredniej wielkoœci, wykonana z we³ny bramina.}
+{9400}{}{Winchester Widowmaker}
+{9401}{}{Dwururka Winchester Widowmaker kalibru 12. Krótkie lufy, mahoniowy chwyt. Min. SI: 4.}
+{9500}{}{amunicja œrutowa kal. 12}
+{9501}{}{Œrutowe naboje do strzelby, wagomiarowego kalibru 12 (z 1 funta o³owiu mo¿na odlaæ 12 kul o ich œrednicy). Pisze na nich "amunicja œrutowa kal. 12, nie do u¿ytku przez dzieci w wieku poni¿ej 3 lat".}
+{9600}{}{czerwona karta dostêpowa}
+{9601}{}{Elektroniczny klucz w kodowym kolorze czerwonym.}
+{9700}{}{niebieska karta dostêpowa}
+{9701}{}{Elektroniczny klucz w kodowym kolorze niebieskim.}
+{9800}{}{z³om}
+{9801}{}{Kupka starych czêœci. Po trochu wszystkiego.}
+{9900}{}{medalion}
+{9901}{}{Cenny, z³oty medalion.}
+{10000}{}{radio}
+{10001}{}{Komunikator radiowy produkcji Wattz Electronics, model 2043B. Niezawodny, odporny, w kamufla¿u maskuj¹cym. Wyposa¿ony w opcjonalny interfejs szeregowy RS-121.}
+{10100}{}{zapalniczka}
+{10101}{}{Srebrna zapalniczka gazowa, znajduj¹ca siê w dobrym stanie.}
+{10200}{}{Spluwy i Kulki}
+{10201}{}{Szmat³awiec poœwiêcony praktycznej stronie u¿ytkowania broni palnej, sporadycznie zamieszczaj¹cy "sponsorowane" recenzje.}
+{10300}{}{potrawka wyborowa}
+{10301}{}{Nieco przypalonego miêsa i warzyw w postaci szasz³yka.}
+{10400}{}{magnetofon}
+{10401}{}{Przenoœny magnetofon Taœman produkcji Wattz Electronics. Odtwarza i nagrywa standardowe, 30-minutowe taœmy Raz-A-Dobrze o wysokiej gêstoœci.}
+{10500}{}{klucz}
+{10501}{}{Klucz do jakiegoœ bardzo szczególnego zamka.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Butelka Nuka-Coli, podstawowego aromatyzowanego napoju bezalkoholowego w powojennym œwiecie. Ciep³ego i zwietrza³ego.}
+{10700}{}{koœci}
+{10701}{}{Zbiór dziwnych koœci.}
+{10800}{}{koœci}
+{10801}{}{Zbiór dziwnych koœci.}
+{10900}{}{Rad-X}
+{10901}{}{Specyfik antyradiacyjny (uwaga, nale¿y stosowaæ go PRZED wystawieniem siê na promieniowanie). Brak znanych efektów ubocznych.}
+{11000}{}{Psycho}
+{11001}{}{Unikalny system wstrzykiwania, nape³niony niezidentyfikowanymi specyfikami, których pochodzenie jest prawdopodobnie wojskowe. Ich zadaniem jest zwiêkszanie potencja³u bojowego u¿ytkownika.}
+{11100}{}{0,44 cala Magnum FMJ}
+{11101}{}{Amunicja kalibru 0,44 cala Magnum, pociski pe³nop³aszczowe (o w³aœciwoœciach poœrednich miêdzy pociskami dum-dum a przeciwpancernymi).}
+{11200}{}{urna}
+{11201}{}{Piêkna, z³ota urna z wygrawerowanym z przodu imieniem "Harriet" i prochami wewn¹trz.}
+{11300}{}{habit}
+{11301}{}{Szata Dzieciêcia Katedry.}
+{11400}{}{d³oñ Pl¹tacza}
+{11401}{}{Cybernetyczny manipulator w formie d³oni. Uszkodzony z racji na naturê procesu usuwania.}
+{11500}{}{m³ot wspomagany}
+{11501}{}{M³ot wspomagany, wyprodukowany przez Bractwo Stali w oparciu o najlepsze dostêpne technologie zbrojeniowe. Ma zainstalowane urz¹dzenie s³u¿¹ce do przechowywania energii kinetycznej, której uwolnienie zwiêksza moc obalaj¹c¹. Min. SI: 5.}
+{11600}{}{Rozpruwacz(R)}
+{11601}{}{Wibroostrze Rozpruwacz(R). Zasilane ma³y ogniwem energetycznym wibroostrze ³añcuchowe, wnikaj¹ce w niemal dowolny cel równie ³atwo jak w pustynny piasek. Min. SI: 4.}
+{11700}{}{kwiat}
+{11701}{}{Piêkny kwiat.}
+{11800}{}{Wattz 2000}
+{11801}{}{Karabin laserowy Wattz 2000. W porównaniu z modelem 1000 ma wiêksz¹ moc promienia, osi¹gniêt¹ poprzez zasilanie ogniwami termoj¹drowymi, oraz zasiêg - dziêki d³u¿szej lufie. Min. SI: 6.}
+{11900}{}{naszyjnik}
+{11901}{}{Naszyjnik wygl¹daj¹cy na kosztowny, wykonany ze srebra, z³ota i sztucznych diamentów.}
+{12000}{}{blaster Obcych}
+{12001}{}{Niezwyk³y pistolet najwyraŸniej pozaziemskiego pochodzenia. Wygl¹da jednak na to, ¿e pasuj¹ do niego ma³e ogniwa energetyczne. Min. SI: 2.}
+{12100}{}{amunicja 9 mm Parabellum}
+{12101}{}{Antyczna amunicja kalibru 9 mm Parabellum. Gruba warstwa smaru zabezpiecza j¹ przed wilgoci¹. Pociski standardowe.}
+{12200}{}{Mauser M/96 9 mm}
+{12201}{}{Pistolet Mauser M/96 na amunicjê kalibru 9 mm Parabellum. W doskona³ym stanie, niezwykle celny. Min. SI: 3.}
+{12300}{}{niwelator psychiczny}
+{12301}{}{Tajemnicze urz¹dzenie, wykonane w osobliwej technologii.}
+{12400}{}{piwo}
+{12401}{}{Piwo domowej roboty, w przedwojennej butelce.}
+{12500}{}{gorza³a}
+{12501}{}{Wiekowy trunek, pochodz¹cy jeszcze z ery przedwojennej.}
+{12600}{}{manierka}
+{12601}{}{Pojemnik s³u¿¹cy do przechowywania wody i innych p³ynów.}
+{12700}{}{lina}
+{12701}{}{Mocny, gruby sznur. Oko³o 15 metrów d³ugoœci.}
+{12800}{}{skrzynka}
+{12801}{}{Jest to niewyrafinowana skrzynka. Trzyma siê w niej ró¿ne rzeczy, mo¿na j¹ zamykaæ i trzymaæ pod ³ó¿kiem.}
+{12900}{}{skrzynka}
+{12901}{}{Jest to niewyrafinowana skrzynka. Trzyma siê w niej ró¿ne rzeczy, mo¿na j¹ zamykaæ i trzymaæ pod ³ó¿kiem.}
+{13000}{}{skrzynka}
+{13001}{}{Jest to niewyrafinowana skrzynka. Trzyma siê w niej ró¿ne rzeczy, mo¿na j¹ zamykaæ i trzymaæ pod ³ó¿kiem.}
+{13100}{}{skrzynka}
+{13101}{}{Jest to niewyrafinowana skrzynka. Trzyma siê w niej ró¿ne rzeczy, mo¿na j¹ zamykaæ i trzymaæ pod ³ó¿kiem.}
+{13200}{}{szafka}
+{13201}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13300}{}{szafka}
+{13301}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13400}{}{szafka}
+{13401}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13500}{}{szafka}
+{13501}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13600}{}{szafka}
+{13601}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13700}{}{szafka}
+{13701}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13800}{}{szafka}
+{13801}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{13900}{}{szafka}
+{13901}{}{Jest to obiekt pe³ni¹cy funkcje sk³adowe.}
+{14000}{}{karta kluczowa}
+{14001}{}{W pe³ni sprawna karta kluczowa.}
+{14100}{}{symbol Dzieci Katedry}
+{14101}{}{Jest to symbol Dzieci Katedry. Dostrzegasz na nim wybrzuszenie przypominaj¹ce klucz.}
+{14200}{}{symbol Dzieci Katedry}
+{14201}{}{Jest to symbol Dzieci Katedry. Dostrzegasz na nim wybrzuszenie przypominaj¹ce klucz.}
+{14300}{}{DKS-501 5,56 mm}
+{14301}{}{Karabin snajperski DKS-501. Doskona³a indywidualna broñ palna dalekiego zasiêgu. Pierwotnie kalibru 7,62 mm, ale ten egzemplarz ma lufê o bardziej popularnej œrednicy przewodu 5,56 mm. Min. SI: 5.}
+{14400}{}{Superstimpak}
+{14401}{}{Zaawansowany specyfik leczniczy o bardzo silnym dzia³aniu. Z racji na sw¹ moc, po up³ywie pewnego czasu od momentu u¿ycia Superstimy wywo³uj¹ drobne obra¿enia.}
+{14500}{}{rega³}
+{14501}{}{Jest to drewniany rega³.}
+{14600}{}{rega³}
+{14601}{}{Jest to drewniany rega³.}
+{14700}{}{rega³}
+{14701}{}{Jest to drewniany rega³.}
+{14800}{}{rega³}
+{14801}{}{Jest to drewniany rega³.}
+{14900}{}{rega³}
+{14901}{}{Jest to drewniany rega³.}
+{15000}{}{rega³}
+{15001}{}{Jest to drewniany rega³.}
+{15100}{}{rega³}
+{15101}{}{Jest to zestaw drewnianych pó³ek.}
+{15200}{}{rega³}
+{15201}{}{Jest to zestaw drewnianych pó³ek.}
+{15300}{}{rega³}
+{15301}{}{Jest to zestaw drewnianych pó³ek.}
+{15400}{}{rega³}
+{15401}{}{Jest to zestaw drewnianych pó³ek.}
+{15500}{}{rega³}
+{15501}{}{Jest to zestaw drewnianych pó³ek.}
+{15600}{}{rega³}
+{15601}{}{Jest to zestaw drewnianych pó³ek.}
+{15700}{}{warsztat}
+{15701}{}{Jest to zwyczajny warsztat. Tak, standardowy, stary, sztampowy stó³ roboczy. Wygl¹da tu ca³kiem ³adnie.}
+{15800}{}{tablica narzêdziowa}
+{15801}{}{Ta tablica utrzymuje gamê narzêdzi w zasiêgu rêki u¿ytkowników warsztatu.}
+{15900}{}{koktajl Mo³otowa}
+{15901}{}{Granat zapalaj¹cy domowej roboty. Min. SI: 3.}
+{16000}{}{pastuch elektryczny}
+{16001}{}{Pastuch elektryczny produkcji Wattz Electronics, model Najlepszy Przyjaciel Farmera. Zasilany ma³ymi ogniwami energetycznymi. Min. SI: 4.}
+{16100}{}{Czerwony Kapturek}
+{16101}{}{Wiatrówka Czerwony Kapturek. Amerykañska klasyka. Min. SI: 3.}
+{16200}{}{Czerwony Kapturek LE}
+{16201}{}{Wiatrówka Czerwony Kapturek z edycji limitowanej. Prawdziwa amerykañska klasyka. Min. SI: 3.}
+{16300}{}{œrut}
+{16301}{}{Pochodz¹cy sprzed Wojny œrut do wiatrówki, w doskona³ym stanie. Nierdzewna stal.}
+{16400}{}{taœma o Bractwie}
+{16401}{}{Holotaœma dotycz¹ca Bractwa Stali.}
+{16500}{}{stragan}
+{16501}{}{Siedziba Iguan Boba, restauracji familijnej. Czy¿ mo¿na nie uwielbiaæ œwie¿o upieczonych iguan?}
+{16600}{}{stó³}
+{16601}{}{Jest to zwyczajny stó³. Utrzymuje rzeczy nad pod³o¿em.}
+{16700}{}{stó³}
+{16701}{}{Jest to zwyczajny stó³. Utrzymuje rzeczy nad pod³o¿em.}
+{16800}{}{jakieœ rzeczy}
+{16801}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{16900}{}{jakieœ rzeczy}
+{16901}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17000}{}{jakieœ rzeczy}
+{17001}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17100}{}{jakieœ rzeczy}
+{17101}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17200}{}{jakieœ rzeczy}
+{17201}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17300}{}{jakieœ rzeczy}
+{17301}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17400}{}{jakieœ rzeczy}
+{17401}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17500}{}{jakieœ rzeczy}
+{17501}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17600}{}{jakieœ rzeczy}
+{17601}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17700}{}{jakieœ rzeczy}
+{17701}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17800}{}{jakieœ rzeczy}
+{17801}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{17900}{}{jakieœ rzeczy}
+{17901}{}{S¹ to rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
+{18000}{}{skrzynia}
+{18001}{}{Jest to drewniana skrzynia wype³niona ró¿norakimi rzeczami.}
+{18100}{}{biurko}
+{18101}{}{Jest to zwyczajne biurko. Kto widzia³ jedno, widzia³ je wszystkie.}
+{18200}{}{biurko}
+{18201}{}{Jest to zwyczajne biurko.}
+{18300}{}{biurko}
+{18301}{}{Jest to zwyczajne biurko.}
+{18400}{}{biurko}
+{18401}{}{Jest to zwyczajne biurko.}
+{18500}{}{biurko}
+{18501}{}{Jest to zwyczajne biurko.}
+{18600}{}{biurko}
+{18601}{}{Jest to zwyczajne biurko.}
+{18700}{}{biurko}
+{18701}{}{Jest to zwyczajne biurko.}
+{18800}{}{szafka}
+{18801}{}{Jest to zwyczajna szafka.}
+{18900}{}{szafka}
+{18901}{}{Jest to zwyczajna szafka.}
+{19000}{}{taœma o FEV}
+{19001}{}{Holotaœma zawieraj¹ca informacje medyczne. Mo¿na je przenieœæ do Pip-Boya.}
+{19100}{}{taœma Ochrony}
+{19101}{}{Holotaœma z napisem "Dziennik Ochrony" na etykiecie. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
+{19200}{}{taœma z eksperymentu Alfa}
+{19201}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Alfa"}
+{19300}{}{taœma z eksperymentu Delta}
+{19301}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Delta"}
+{19400}{}{taœma z eksperymentu Vree}
+{19401}{}{Ta holotaœma zawiera dane medyczne uzyskane przez Vree z BS. Zapisane na niej informacje mo¿na przenieœæ do Pip-Boya.}
+{19500}{}{Kodeks Honorowy Bractwa}
+{19501}{}{Holotaœma z naniesionym zarysem symbolu Bractwa Stali. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
+{19600}{}{transmisja mutantów}
+{19601}{}{Wygl¹da na to, ¿e na tê holotaœmê nagra³ siê radiowy przekaz dŸwiêkowy. Jej zawartoœæ mo¿na przenieœæ do Pip-Boya.}
+{19700}{}{pud³o}
+{19800}{}{pud³o}
+{19900}{}{pud³o}
+{20000}{}{pud³o}
+{20100}{}{pud³o}
+{20200}{}{pud³o}
+{20300}{}{pud³o}
+{20400}{}{pud³o}
+{20500}{}{flara}
+{20501}{}{Standardowa flara. Przez krótki okres czasu po uaktywnieniu (poprzez odkrêcenie czubka) wytwarza œwiat³o. Jest teraz zapalona.}
+{20600}{}{dynamit}
+{20601}{}{Silny materia³ wybuchowy sk³adaj¹cy siê z nitrogliceryny zmieszanej w proporcji 3:1 z substancj¹ ch³onn¹ - ziemi¹ okrzemkow¹. Ma zainstalowany zapalnik czasowy, który teraz tyka.}
+{20700}{}{licznik Geigera}
+{20701}{}{Licznik Geigera produkcji Wattz Electronics, model WID-Rad. Wykrywa obecnoœæ i si³ê promieniowania. Jest w³¹czony.}
+{20800}{}{detektor ruchu}
+{20801}{}{Detektor ruchu, produkcji Wattz Electronics, model WID-C. Za pomoc¹ specjalnie dostrojonego radaru wykrywa ruch biomaterii z odleg³oœci wielu metrów. Jest w³¹czony.}
+{20900}{}{Cordex}
+{20901}{}{Kawa³ Cordexu, wojskowego gatunku plastycznych materia³ów wybuchowych, wysoce stabilnego i destruktywnego. Ma zainstalowany zapalnik czasowy, który teraz tyka.}
+{21000}{}{SkradoBoy}
+{21001}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
+{21100}{}{szkielet}
+{21101}{}{To Ed. Ed zszed.}
+{21200}{}{Tandi}
+{21201}{}{Targujesz siê o uwolnienie Tandi.}
+{21300}{}{resztki Gizma}
+{21301}{}{Gizmo, by³y boss przestêpczego œwiatka Z³omowa, nie ¿yje. Poza tym, nieŸle œmierdzi.}
+{21400}{}{biurko}
+{21401}{}{Jest to biurko. Po d³u¿szych oglêdzinach uznajesz, ¿e nadal jest biurkiem.}
+{21500}{}{Historia Bractwa}
+{21501}{}{Holotaœma zawieraj¹ca informacje o Bractwie Stali. Mo¿na je przenieœæ do Pip-Boya.}
+{21600}{}{Historia Maxsona}
+{21700}{}{dziennik Maxsona}
+{21800}{}{umowa o leczenie ekonomiczne}
+{21801}{}{Op³aæ tê umowê, jeœli pragniesz wyleczenia drobnych obra¿eñ.}
+{21900}{}{umowa o leczenie standardowe}
+{21901}{}{Op³aæ tê umowê, jeœli pragniesz wyleczenia œrednich obra¿eñ.}
+{22000}{}{umowa o leczenie deluxe}
+{22001}{}{Op³aæ tê umowê, jeœli ¿yczysz sobie mnóstwa uwagi i wyleczenia powa¿nych obra¿eñ.}
+{22100}{}{karta bezpieczeñstwa}
+{22101}{}{Chipowa karta kluczowa z zakodowanym certyfikatem bezpieczeñstwa.}
+{22200}{}{zdalny prze³¹cznik}
+{22201}{}{Elektroniczne urz¹dzenie nadawcze z prostym w obs³udze, du¿ym przyciskiem. Wygl¹da na to, ¿e wykonano je niedawno, z myœl¹ o u¿ytkownikach z wielkimi d³oñmi.}
+{22300}{}{¿ó³ta karta dostêpowa}
+{22301}{}{Elektroniczny klucz w kodowym kolorze ¿ó³tym.}
+{22400}{}{ma³a statuetka}
+{22401}{}{Wydaje ci siê, ¿e mo¿e to byæ rzeŸba przedstawiaj¹ca maskotkê Pip-Boya, ale nie masz pewnoœci.}
+{22500}{}{nie wiadomo co}
+{22501}{}{Po szczegó³owych oglêdzinach nadal nie masz pojêcia, czym to jest.}
+{22600}{}{paczka makaronu}
+{22601}{}{Nie masz pojêcia, co to "Spaghetti B³yskawiczne".}
+{22700}{}{niewielkie, zakurzone pude³ko}
+{22701}{}{"Obiad z mikrofali". Nie masz pewnoœci, czym to jest, ale na pewno nie jest jadalne. Nie masz absolutnej pewnoœci, czy kiedykolwiek by³o.}
+{22800}{}{instrukcja}
+{22801}{}{Instrukcja naprawy pancerza wspomaganego T-51b.}
+{22900}{}{niewielki element mechaniczny}
+{22901}{}{Jest to motywator skurczowy. To niezwyk³e urz¹dzenie jest bardzo ma³e.}
+{23000}{}{Przewodnik po Kryptach}
+{23001}{}{Kompendium zdarzeñ i wa¿nych nagrañ zarejestrowanych w systemie komputerowym Krypty. Mo¿liwe, ¿e uszkodzone.}
+{23100}{}{kod dostêpu do Bazy Wojskowej}
+{23101}{}{ }
+{23200}{}{utwardzony pancerz wspomagany}
+{23201}{}{Zmodyfikowany pancerz wspomagany T-51b. Proces utwardzania zwiêkszy³ potencja³ defensywny tego zaawansowanego technicznie systemu.}
+{23300}{}{Winchester P94 Turbo}
+{23301}{}{Zmodyfikowany karabin plazmowy Winchester P94. Komora plazmowa jest na sta³e podpiêta do ogniwa termoj¹drowego celem przyspieszenia procesu formowania strugi plazmy. Min. SI: 6.}
+{23400}{}{kastet kolczasty}
+{23401}{}{Ulepszona wersja klasycznego kastetu. Wyrz¹dza wiêcej obra¿eñ, wbijaj¹c siê w cia³o przeciwników podczas walki wrêcz. Min. SI: 1.}
+{23500}{}{MegaPi¹cha}
+{23501}{}{Rêkawica wspomagana MegaPi¹cha produkcji firmy Pobij Sp. z o.o. Przez wielu uwa¿ana za najdoskonalsz¹ broñ przeznaczon¹ do walki wrêcz. Pozostali s¹ po prostu przera¿eni. Zasilanie ma³ymi ogniwami energetycznymi. Min. SI: 1.}
+{23600}{}{Stallona}
+{23601}{}{Wysokiej jakoœci nó¿ bojowy Stallona firmy CiêtyDowcip SA. Wed³ug producenta krawêdŸ g³owni ma bez konserwacji pozostaæ ostra nawet po ponad dziesiêciu latach u¿ytkowania! Min. SI: 2.}
+{23700}{}{czasopisma chemiczne}
+{23701}{}{Sterta literatury naukowej, poœwiêconej dyscyplinie chemii. Szczególnie interesuj¹ce s¹ artyku³y z dziedziny chemii molekularnej.}
+{23800}{}{transmisja Regulatorów}
+{23801}{}{Holotaœma z zapisem przekazu dŸwiêkowego.}
+{23900}{}{pancerz Bractwa}
+{23901}{}{Najdoskonalsza odmiana pancerza bojowego. Bractwo Stali poczyni³o wiele usprawnieñ w porównaniu z wersj¹ standardow¹.}
+{24000}{}{pancerz Tesli}
+{24001}{}{Ten lœni¹cy pancerz zapewnia najlepsz¹ ochronê przed atakami energetycznymi. Wbudowany weñ potrojony transformator Tesli rozprasza du¿¹ czêœæ energii skierowanej na u¿ytkownika.}
+{24100}{}{pistolet 5,56 mm}
+{24101}{}{Karabinek kalibru 5,56 mm zmodyfikowany i przyciêty do rozmiarów pistoletu. Jest to unikatowa broñ, najwyraŸniej wykonana z pietyzmem i bieg³oœci¹. Min. SI: 5.}
+{24200}{}{Winchester City-Killer}
+{24201}{}{Strzelba bojowa Winchester City-Killer kalibru 12, wariant w uk³adzie bullpup. W doskona³ym stanie; ma opcjonalne uszczelnienie przeciwpy³owe do walki pustynnej, zwiêkszaj¹ce niezawodnoœæ. Min. SI: 5.}

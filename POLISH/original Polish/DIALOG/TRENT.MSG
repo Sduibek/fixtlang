@@ -1,0 +1,50 @@
+{100}{}{Odsuñ siê ode mnie! Zostaw mnie w spokoju!}
+{101}{}{Witaj, przybyszu. Nie powinno ciê tu byæ. Tutaj czeka ciê tylko œmieræ!}
+{102}{}{Nie wiesz przypadkiem czegoœ o zaginionych karawanach?}
+{103}{}{Kim jesteœ?}
+{104}{}{Jaka œmieræ?}
+{105}{}{Potrzeba mi zapasów. Dawaj!}
+{106}{}{Szukam hydroprocesora. Pomo¿esz mi?}
+{107}{}{Ciekawi mnie, co wiesz o Szponie Œmierci.}
+{108}{}{Rurr? Sniff?}
+{109}{}{Czego ty ode mnie chcesz! Zostaw mnie w spokoju!}
+{110}{}{Rrr. Snrg.}
+{111}{}{Wielki! Wielki! Jak trzech ludzi! Szpony wielkoœci mojego ramienia! Rozdarci na sztuki! Rozdarci na sztuki!}
+{112}{}{Dobra. Co jeszcze?}
+{113}{}{Uspokój siê. Nic ci ju¿ nie grozi.}
+{114}{}{Wygl¹da mi na ostrego sukinsyna!}
+{115}{}{Zabi³eœ to coœ?}
+{116}{}{Nazywam siê Trent. Jestem stra¿nikiem Kupców Wodnych. Moj¹ karawanê zaatakowa³... potwór! Wielki, szybki. Ze¿ar³ Joego, nie wzruszy³y go strza³y z karabinów! By³ taki wielki!}
+{117}{}{Co was zaatakowa³o?}
+{118}{}{Wygl¹da mi na jakiegoœ mutanta.}
+{119}{}{Wygl¹da mi na Szpona Œmierci!}
+{120}{}{To was oduczy œrubowania cen!}
+{121}{}{Dobrze. I tak mi ju¿ nie s¹ potrzebne.}
+{122}{}{Hydroprocesor! Jestem stra¿nikiem, nie in¿ynierem! Spytaj siê kupców w Hubie, oni pewnie bêd¹ wiedzieæ!}
+{123}{}{Szpon Œmierci!}
+{124}{}{Co ty wyrabiasz? Zostaw mnie w spokoju!}
+{125}{}{Ja... Ja nie wiem. Dawno nie spa³em. G³ód. Pragnienie. Zmêczenie. Musze wracaæ do domu.}
+{126}{}{}
+{127}{}{Wielkie rogi, czerwona skóra, prosto z piekielnego koszmaru... Ze¿ar³ Joego w trzech kêsach... }
+{128}{}{Nikt nie jest bezpieczny! Nikt ju¿ nie jest bezpieczny, co ja zrobiê...}
+{129}{}{To wariactwo! Wpakowa³em w to coœ trzy kule z mojego Magnum, a to coœ nawet nie drgnê³o!}
+{130}{}{Niewa¿ne, czy to mutant, obcy, czy demon piekielny - nie chcê go ju¿ nigdy zobaczyæ!}
+{131}{}{Jestem tylko stra¿nikiem, do cholery! To nie moja wina! Dobrze mi p³ac¹! Nie mam z nimi ¿adnych konfliktów!}
+{132}{}{W czym mogê pomóc?}
+{133}{}{Dorwa³ ich Szpon Œmierci. Myœla³em, ¿e to tylko opowieœci, ale... nie uwierzysz, jak wielkie, ani jak szybkie one s¹. Najpierw je wyczuliœmy, potem wysz³y zza pagórka i rzuci³y siê na nas. Wszyscy rzuciliœmy siê do ucieczki. Mi siê uda³o.}
+{134}{}{Trent, Trent Barrister. Mieszkam w Hubie. Ostatnio by³o ma³o roboty, a ja nieŸle strzelam, wiêc naj¹³em siê na stra¿nika karawany Kupców Wodnych. Myœla³em sobie - dobrze p³ac¹, ryzyko niewielkie.}
+{135}{}{Nie mam pojêcia. To stara technologia, prawa? Mo¿e zbieracze coœ znaleŸli... Ale nie mam pojêcia, gdzie zacz¹æ poszukiwania. Nikt ju¿ z nich nie korzysta, co?}
+{136}{}{S¹ ogromne. Jak wielkie jaszczury, tylko skórzaste. Maj¹ wielkie szpony, zêby i rogi... Uwielbiaj¹ smak ludzkiego miêsa. I s¹ potwornie szybkie. Gdyby zdecydowa³y siê mnie goniæ, ju¿ by³bym martwy.}
+{137}{}{Dziêki. Mo¿e to by³o tylko nieporozumienie. Nie mam wiele pieniêdzy, ale oddam wszystko.}
+{138}{}{Dziêki. To dobrze, bardzo dobrze. Nie mam wiele pieniêdzy, ale oddam wszystko.}
+{139}{}{Dziêki. Mo¿e to by³o tylko nieporozumienie. Nie mam wiele pieniêdzy, ale... cholera! Musia³em to upuœciæ. Teraz jest twoje.}
+{140}{}{Dziêki. To dobrze, bardzo dobrze. Nie mam wiele... cholera! Musia³em to upuœciæ. Teraz jest twoje.}
+{141}{}{Pomó¿ mi!}
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{142}{}{Zapach œmierci, przyjacielu. Zapach œmierci...}
+{143}{}{Zapach œmierci, moja droga. Zapach œmierci...}

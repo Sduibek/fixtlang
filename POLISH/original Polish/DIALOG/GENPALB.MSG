@@ -1,0 +1,55 @@
+{100}{}{Giñ, sabako!}
+{101}{}{Moja pora¿ka zostanie pomszczona!}
+{102}{}{Stój, kadecie! Co masz do zameldowania?}
+{103}{}{Na Zachodzie bez zmian.}
+{104}{}{Radskorpiony i upa³ nie do zniesienia. Ee... proszê pana.}
+{105}{}{W rzeczywistoœci chcê sprawdziæ, czy dosz³y ciê jakieœ pog³oski.}
+{106}{}{Nic do zameldowania, proszê pana!}
+{107}{}{Ruu?}
+{108}{}{Stój! Poznajê ciê - ju¿ siê spotkaliœmy. Niektórzy mo¿e ci ufaj¹, ale ja nie. Wyjaw, w jakiej sprawie tu jesteœ!}
+{109}{}{Moja sprawa jest moja, tak samo jak twoja nale¿y do ciebie.}
+{110}{}{Szukam przyjaznej duszy.}
+{111}{}{Wêdrujê po Pustkowiu, staraj¹c siê prze¿yæ.}
+{112}{}{Zabijam pustynne szkodniki. Nie pochwalasz tego?}
+{113}{}{Wyjawiê to tylko g³owie twojego zakonu. ProwadŸ mnie do Cytadeli.}
+{114}{}{Wie?}
+{115}{}{Stój! Rozpoznajê ciê, ale ci nie ufam. Dam ci uczciwe ostrze¿enie: jeœli sprawisz nam k³opot, zastrzelimy ciê. Teraz ruszaj!}
+{116}{}{Stój! Kto idzie?! Wyjaw twoje imiê i sprawê, w jakiej przychodzisz!}
+# TRANSLATION NOTES
+# The player-character's name is inserted after line 117, and then has
+# line 118, 119, 120, or 121 appended.XXXIm Westen nichts Neues.
+{117}{}{Jestem }
+{118}{}{, szukam hydroprocesora dla mojej Krypty. Czy mo¿ecie mi pomóc?}
+{119}{}{, staram siê wykryæ Ÿród³o ataków mutantów.}
+{120}{}{, i to nie twoja sprawa!}
+{121}{}{, i szukam przygód.}
+{122}{}{Wal siê, ¿o³nierzyku.}
+{123}{}{Runk!}
+{124}{}{Stój! Te ziemie nale¿¹ do Bractwa Stali. Natychmiast odejdŸ, albo zastrzelimy ciê jako intruza.}
+{125}{}{Bardzo dobrze. Kontynuowaæ, kadecie.}
+{126}{}{Rozumiem. Kontynuowaæ, kadecie.}
+{127}{}{Mamy meldunki o wielkich, zmutowanych ludziach atakuj¹cych podró¿ników, wiêc zwiêkszamy czujnoœæ. Bacznie obserwuj teren i w razie potrzeby wycofaj siê do bazy. Kadecie, odmaszerowaæ!}
+{128}{}{Nasta³y ciê¿kie czasy, kadecie! Mutanci s¹ aktywni, atakuj¹ karawany! Potrzebujemy informacji, i to natychmiast! Nic do zameldowania to za ma³o!}
+{129}{}{Zabieraj st¹d twój ¿a³osny ty³ek i przynieœ nam jakieœ u¿yteczne dane wywiadowcze! Kadecie, odmaszerowaæ!}
+{130}{}{A tak, dosz³y mnie s³uchy o tobie. Masz niewielkie IQ, ale piekielnie dobry z ciebie wojownik. Szkoda.}
+{131}{}{To nasza ziemia, a na niej twoja sprawa jest nasz¹ spraw¹. Powtarzam, w jakiej sprawie przychodzisz?}
+{132}{}{Szukam hydroprocesora dla mojej Krypty. Czy mo¿ecie mi pomóc?}
+{133}{}{Staram siê wykryæ Ÿród³o ataków mutantów.}
+{134}{}{To mo¿e byæ wasza ziemia, ale ja nie jestem jednym z waszych niewolników.}
+{135}{}{Wêdrujê po Pustkowiu ju¿ bardzo d³ugo. Chcê poznaæ jakieœ nowiny.}
+{136}{}{Przyjaznej? No to nie mojej. Zalecam ci odejœcie st¹d.}
+{137}{}{Jak my wszyscy. Dopóki nie wystêpujesz przeciwko Bractwu, nie stanie ci siê krzywda, ale miej siê na bacznoœci.}
+{138}{}{To zale¿y od tego, czy uwa¿asz nas za szkodniki. Jeœli atakujesz naszych wrogów, mo¿esz podró¿owaæ po naszym terytorium. Jeœli wyst¹pisz przeciw nam, umrzesz. Zak³adam, ¿e masz ju¿ w tej kwestii jasnoœæ.}
+{139}{}{To rozs¹dna proœba. Za mn¹.}
+{140}{}{Hydroprocesora? Chyba nie mówisz powa¿nie! Lepiej by wam by³o zmagaæ siê z ¿yciem na powierzchni, ni¿ staæ siê niewolnikami pojedynczego urz¹dzenia.}
+{141}{}{Tak samo jak my. Wed³ug najpopularniejszej teorii przychodz¹ z Blasku, ale w¹tpiê, ¿eby nawet mutanci byli w stanie tam d³ugo prze¿yæ. Daj nam znaæ, jeœli siê czegoœ dowiesz.}
+{142}{}{Jak œmiesz oskar¿aæ Bractwo Stali o coœ takiego! Nigdy nie przymuszaliœmy nikogo, by nam s³u¿y³ wbrew swej woli. To by³oby przeciwne wszystkiemu, w co wierzymy. ZejdŸ mi z oczu!}
+{143}{}{Mniej wiêcej o jeden dzieñ drogi na zachód znaleŸliœmy resztki karawany. Ocala³a jedna dziewczyna - biedactwo. Twierdzi³a, ¿e zaatakowali ich zmutowani ludzie o niewiarygodnie wielkiej sile.}
+{144}{}{Otrzymaliœmy wystarczaj¹co wiele meldunków, byœmy byli... zatroskani. Lepiej miej siê na bacznoœci.}
+{145}{}{Nauczê ciê nieco dobrych manier, ch³opcze. To mi pozwoli lekko siê rozerwaæ.}
+{146}{}{Nauczê ciê nieco dobrych manier, dziewczyno. To mi pozwoli lekko siê rozerwaæ.}
+{147}{}{Cierpisz na ca³kowity brak rozumu. Biedactwo.}
+{148}{}{Przestañ marnowaæ mój czas, matole!}
+{149}{}{Czego chcesz?}
+{150}{}{Nic.}
+{151}{}{Wiêc lepiej st¹d odejdŸ.}

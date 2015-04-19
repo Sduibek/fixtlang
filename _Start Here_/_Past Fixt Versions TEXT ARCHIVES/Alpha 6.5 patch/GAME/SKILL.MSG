@@ -1,0 +1,135 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout FIXT
+##
+#
+#   SKILL NAMES
+#
+{100}{}{Small Guns}
+{101}{}{Big Guns}
+{102}{}{Energy Weapons}
+{103}{}{Unarmed}
+{104}{}{Melee Weapons}
+{105}{}{Throwing}
+{106}{}{First Aid}
+{107}{}{Doctor}
+{108}{}{Sneak}
+{109}{}{Lockpick}
+{110}{}{Steal}
+{111}{}{Traps}
+{112}{}{Science}
+{113}{}{Repair}
+{114}{}{Speech}
+{115}{}{Barter}
+{116}{}{Gambling}
+{117}{}{Outdoorsman}
+
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{The use, care and general knowledge of small firearms. Pistols, SMGs and rifles.}
+{201}{}{The operation and maintenance of really big guns. Miniguns, Rocket Launchers, Flamethrowers and such.}
+{202}{}{The care and feeding of energy-based weapons. How to arm and operate weapons that use laser or plasma technology.}
+{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts. Combat with your hands and feet.}
+{204}{}{Using non-ranged weapons in hand-to-hand, or melee, combat. Knives, sledgehammers, spears, clubs and so on.}
+{205}{}{The skill of muscle-propelled ranged weapons. Throwing knives, spears and grenades.}
+{206}{}{General healing skill. Used to heal small cuts, abrasions and other minor ills. In game terms, the use of first aid can heal more hit points over time than just rest.}
+{207}{}{The healing of major wounds and crippled limbs. Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{208}{}{Quiet movement, and the ability to remain unnoticed. If successful, you will be much harder to locate. You cannot run and sneak at the same time.}
+{209}{}{The skill of opening locks without the proper key. The use of lockpicks or electronic lockpicks will greatly enhance this skill.}
+{210}{}{The ability to make the things of others your own. Can be used to steal from people or places.}
+{211}{}{The finding and removal of traps. Also the setting of explosives for demolition purposes.}
+{212}{}{Covers a variety of high-technology skills, such as computers, biology, physics and geology.}
+{213}{}{The practical application of the Science skill. The fixing of broken equipment, machinery and electronics.}
+{214}{}{The ability to communicate in a practical and efficient manner. The skill of convincing others that your position is correct. The ability to lie and not get caught.}
+{215}{}{Trading and trade-related tasks. The ability to get better prices for items you sell, and lower prices for items you buy.}
+{216}{}{The knowledge and practical skills related to wagering. The skill at cards, dice and other games.}
+{217}{}{Practical knowledge of the outdoors, and the ability to live off the land. The knowledge of plants and animals.}
+
+#
+#   SKILL CALCULATION DESCRIPTIONS
+#
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+ (AG + ST)/2}
+{304}{}{+ (AG + ST)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)/2}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CH)}
+{315}{}{+ (2 x CH)}
+{316}{}{+ (3 x LK)}
+{317}{}{+ (EN + IN)/2}
+
+#
+#   SKILL USE MESSAGES
+#
+
+{510}{}{\nskill_use: invalid skill used.}
+
+#
+# First Aid and Doctor
+#
+{500}{}{You heal %d hit points.}# "d" is a number
+{501}{}{You look healthy already.}
+{502}{}{%s looks healthy already.}# "s" is a critter title/name from SCRNAME.MSG, such as "Hub Police Officer" or "Dogmeat" or "Aradesh"
+{503}{}{You fail to heal anything.}
+{505}{}{You earn %d experience points for honing your skills.}# "d" is a number
+
+{512}{}{You can't heal the dead.}
+{513}{}{Let the dead rest in peace.}
+{514}{}{It's dead, get over it.}
+#
+# Lines 530-534 are the endings to lines 520, 521, 525, 526
+#
+{520}{}{You mend your %s.}
+{521}{}{You mend the %s.}
+{525}{}{You fail to mend your %s.}
+{526}{}{You fail to mend the %s.}
+{530}{}{damaged eye}
+{531}{}{crippled left arm}
+{532}{}{crippled right arm}
+{533}{}{crippled right leg}
+{534}{}{crippled left leg}
+
+#
+# After 3 successful uses of a healing skill in one day
+#
+{590}{}{You've taxed your ability with that skill. Wait a while.}
+{591}{}{You're too tired to do that right now.}
+{592}{}{The strain might kill you. Get some rest first.}
+
+#
+# Lockpick
+#
+{550}{}{The lock triumphantly resists your attempt to bypass it.}
+
+#
+# Traps
+#
+{551}{}{You do not find any traps. The object may not be trapped at all.}
+
+#
+# Science
+#
+{552}{}{You tinker and study for a while, but do not discover any useful gadgets or information.}
+
+#
+# Repair
+#
+{553}{}{This cannot be repaired, or is already functioning normally.}
+
+#
+# Steal
+#
+{570}{}{You're caught stealing the %s.}
+{571}{}{You steal the %s.}
+{572}{}{You're caught planting the %s.}
+{573}{}{You plant the %s.}

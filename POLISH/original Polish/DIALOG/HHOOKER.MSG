@@ -1,0 +1,168 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{To kobieta.}
+{107}{}{To mê¿czyzna.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{To pijany mê¿czyzna.}
+{110}{}{Zostaw mnie moim smutkom.}
+{111}{}{Jesteœ moim najlepszejszym przyjacielem.}
+# best friend (slurred)
+
+{112}{}{Czemu jesteœ... (hik) gdzie ja jestem?}
+{113}{}{Kim ty jesteœ?}
+{114}{}{Czy ja ciê znam?}
+{115}{}{Jest mi trochê niedobrze.}
+{116}{}{Ja stawiam, znaczy ty.}
+{117}{}{Czemu jesteœ tu w dwóch osobach?}
+{118}{}{Stój spokojnie, ch³opaczku!}
+# laddy is male
+
+{119}{}{Stój spokojnie, dziewczyno!}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{To klient.}
+{104}{}{To osoba paraj¹ca siê hazardem.}
+{120}{}{Spadaj, ³achu!}
+# == "Get out of here loser"
+
+{121}{}{Obni¿asz klasê tej knajpy.}
+# == "you are dropping the class of this place"
+
+{122}{}{Zje¿d¿aj, bo mnie zapeszysz!}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Nie zak³ócaj mi koncentracji.}
+{124}{}{Jeszcze rozbijê ten cholerny bank!}
+{125}{}{Znasz siê coœ na tym?}
+{126}{}{Widzieliœcie to? To niemo¿liwe!}
+# referring to dice roll
+
+{127}{}{Coœ mi siê widzi, ¿e tu oszukuj¹.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{No, to dopiero jest du¿a szansa.}
+{129}{}{To pewniak.}
+# referring to a bet.
+
+{130}{}{Co? Jakim cudem mi nie wysz³o?}
+{131}{}{Ten stó³ jest pechowy!}
+# == "this table is cursed/unlucky"
+
+{132}{}{Nie mam teraz czasu.}
+{133}{}{Nie widzisz, ¿e ja tu gram?}
+{134}{}{Stawiaj albo spadaj.}
+
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+
+{102}{}{To bardzo ³adna dama.}
+{105}{}{To kobieta; wydaje siê byæ zajêta.}
+{135}{}{Zostaw nas w spokoju, bo zawo³am stra¿ników.}
+{136}{}{Uwa¿aj, jestem blisk¹ przyjació³k¹ zastêpcy Fry'a.}
+{137}{}{Czy mogê ciê przeprosiæ?}
+{138}{}{Tu nie peep show!}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Nie robiê numerów grupowych.}
+# == "I don't have sex with more than one person."
+
+{140}{}{Jestem za bardzo zmêczona na jeszcze jeden numerek.}
+# referring to having another round of sex.
+
+{141}{}{Kolo, marzysz, spadaj!}
+{142}{}{Wypierdalaj st¹d do diab³a!}
+{143}{}{Co ty niby, do cholery, wyrabiasz?}
+{144}{}{Naucz siê dobrych manier!}
+{145}{}{Zawo³am gliny!}
+{146}{}{Nawet o tym nie myœl!}
+{147}{}{Wynocha!}
+{148}{}{Spadaj!}
+{149}{}{Na co siê gapisz?}
+{150}{}{Czy mogê ciê przeprosiæ?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{To najemnik.}
+{151}{}{Do kurwy nêdzy, wychrzaniaj z naszego pokoju!}
+{152}{}{Won!}
+{153}{}{Robimy trójkê?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Spadaj, zboczku!}
+# == "get out of here, perverse person"
+
+{155}{}{Masz jakiœ problem?}
+{156}{}{Spadaj, zanim siê rozz³oszczê.}
+# "Beat it" == "get out of here"
+
+{157}{}{ZnajdŸ se w³asn¹.}
+# == "get your own hooker"
+
+{158}{}{Ta jest moja.}
+# "She" is referring to the hooker.
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{To bardzo zdenerwowany gracz.}
+{159}{}{Kurwa!}
+{160}{}{Czy ty nie oszukujesz?}
+# referring to the player
+
+{161}{}{To nale¿a³o siê mi.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Prawie!}
+# nearly got his number on the roulette wheel
+
+{163}{}{O ma³y w³os.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{To jakie znowu s¹ te regu³y?}
+# in referrence to a gambling game
+
+{165}{}{Kiedyœ by³em w tym dobry.}
+# in referrence to a gambling game
+
+{166}{}{Dziêki za nic.}
+{167}{}{Nie mogê w to uwierzyæ!}
+{168}{}{Specjalnie przegra³em.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{To dziwnie wygl¹daj¹cy mê¿czyzna.}
+{169}{}{Proszê obstawiaæ.}
+{170}{}{Proszê trzymaæ rêce przy sobie.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Wygrana!}
+{172}{}{Niestety, ludzie, mo¿e nastêpnym razem.}
+# maybe next time someone can win
+
+{173}{}{Kolejna wygrana!}
+{174}{}{Rêce przy sobie!}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{Twoja kolej.}
+# your turn to bet
+{176}{}{Niestety, to niedopuszczalny zak³ad.}
+{177}{}{W porz¹dku.}
+{178}{}{Ktoœ jeszcze?}

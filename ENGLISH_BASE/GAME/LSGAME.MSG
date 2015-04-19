@@ -39,7 +39,7 @@
 {128}{}{DEC}
 {129}{}{Level}
 {130}{}{DESCRIPTION}
-{131}{}{Save game already exits, overwrite?}
+{131}{}{Save game already exists, overwrite?}
 {132}{}{Error saving game!}             # Line 1
 {133}{}{Unable to save game.}           # Line 2
 {134}{}{Error loading game!}            # Line 1

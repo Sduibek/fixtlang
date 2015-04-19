@@ -1,0 +1,193 @@
+{100}{}{Voici un chien. On dirait qu'il te suit.}
+{101}{}{Voici un chien.}
+{102}{}{Wouaf !}
+{103}{}{Grrr !}
+{104}{}{Tu obtiens 100 points d'expérience pour avoir aidé Phil à résoudre son énigme sur les chiens.}
+{105}{}{On dirait que tu t'es fait un nouvel ami !}
+{106}{}{Le chien semble te considérer comme son maître.}
+
+
+{110}{}{Woof-woof!}
+{111}{}{Viens ici l'ami.}
+{112}{}{Reste ici et attend, OK?}
+{113}{}{Bon chien.}
+
+{970}{}{Woof?}        # added by Alchemist
+{971}{}{Woof!}        
+{972}{}{Woof-woof!}
+
+{980}{}{Woof?}        # added by Alchemist
+{981}{}{Arf?}
+{982}{}{Woof?}
+
+#Automatically generated with MSGtools by ALCHEMIST
+{1000}{}{Puce d'eau}
+{1001}{}{Dépôtville}
+{1002}{}{Centre}
+{1003}{}{Enfants de la Cathédrale}
+{1004}{}{Necropolis}
+{1005}{}{Sanctuaire}
+{1006}{}{Disciples}
+{1007}{}{Cathédrale}
+{1008}{}{The Rippers}
+{1009}{}{Ecorcheurs}
+{1010}{}{Les Contrebandiers}
+{1011}{}{Cimetière}
+{1012}{}{Sables ombragés}
+{1013}{}{Griffemort}
+{1014}{}{Maître}
+{1015}{}{Disciples de l'Apocalypse}
+{1016}{}{Le Maître}
+{1017}{}{Magasin}
+{1018}{}{Le Rayon}
+{1019}{}{Lieutenant}
+{1020}{}{Nightkin}
+{1021}{}{Super Mutants}
+{1022}{}{Mediums}
+{1023}{}{Expériences}
+{1024}{}{Police}
+{1025}{}{Marchands d'eau}
+{1026}{}{Caravane Ecarlate}
+{1027}{}{Marchands du Lointain}
+{1028}{}{Point important}
+{1029}{}{Confrérie de l'Acier}
+{1030}{}{Cimetière de L.A.}
+{1031}{}{Chateaux d'eau}
+{1032}{}{Vieille Ville}
+{1033}{}{Ville Basse}
+{1034}{}{Les hauteurs}
+{1035}{}{Set}
+{1036}{}{Réservoir}
+{1037}{}{Hall}
+{1038}{}{Killian}
+{1039}{}{Gizmo}
+{1040}{}{Casino}
+{1041}{}{La Guerre}
+{1042}{}{L'Exode}
+{1043}{}{L'Armée Etrange}
+{1044}{}{La Confrérie}
+{1045}{}{Les Marchands}
+{1046}{}{Les Caravanes disparues}
+{1047}{}{Initiés}
+{1048}{}{Scribes}
+{1049}{}{Chevaliers}
+{1050}{}{Paladins}
+{1051}{}{Khans}
+{1052}{}{Garl}
+{1053}{}{Tandi}
+{1054}{}{Zimmerman}
+{1055}{}{Les Regulateurs}
+{1056}{}{Les Fouineurs}
+{1057}{}{Nicole}
+{1058}{}{Razor}
+{1059}{}{Flamme Sacrée}
+{1060}{}{L'Unité}
+{1061}{}{Morpheus}
+{1062}{}{Mutants}
+{1063}{}{Base Militaire}
+{1064}{}{Les Cuves}
+{1065}{}{Aradesh}
+{1066}{}{Seth}
+{1067}{}{Razlo}
+{1068}{}{Abri}
+{1069}{}{Eau}
+{1070}{}{Dirigeant}
+{1071}{}{Puce}
+{1072}{}{Puce d'eau}
+{1073}{}{Abri-13}
+{1074}{}{Abri13}
+{1075}{}{Médecin}
+{1076}{}{Guérison}
+{1077}{}{Bibliothèque}
+{1078}{}{Alya}
+{1079}{}{Diana}
+{1080}{}{Gwen}
+{1081}{}{Petrox}
+{1082}{}{Tolya}
+{1083}{}{Alcool}
+{1084}{}{Stimulants}
+{1100}{}{Woof?}
+{1101}{}{Woof?}
+{1102}{}{Woof?}
+{1103}{}{Woof?}
+{1104}{}{Woof?}
+{1105}{}{Woof?}
+{1106}{}{Woof?}
+{1107}{}{Woof?}
+{1108}{}{Woof?}
+{1109}{}{Woof?}
+{1110}{}{Woof?}
+{1111}{}{Woof?}
+{1112}{}{Woof?}
+{1113}{}{Woof?}
+{1114}{}{Woof?}
+{1115}{}{Woof?}
+{1116}{}{Woof?}
+{1117}{}{Woof?}
+{1118}{}{Woof?}
+{1119}{}{Woof?}
+{1120}{}{Woof?}
+{1121}{}{Woof?}
+{1122}{}{Woof?}
+{1123}{}{Woof?}
+{1124}{}{Woof?}
+{1125}{}{Woof?}
+{1126}{}{Woof?}
+{1127}{}{Woof?}
+{1128}{}{Woof?}
+{1129}{}{Woof?}
+{1130}{}{Woof?}
+{1131}{}{Woof?}
+{1132}{}{Woof?}
+{1133}{}{Woof?}
+{1134}{}{Woof?}
+{1135}{}{Woof?}
+{1136}{}{Woof?}
+{1137}{}{Woof?}
+{1138}{}{Woof?}
+{1139}{}{Woof?}
+{1140}{}{Woof?}
+{1141}{}{Woof?}
+{1142}{}{Woof?}
+{1143}{}{Woof?}
+{1144}{}{Woof?}
+{1145}{}{Woof?}
+{1146}{}{Woof?}
+{1147}{}{Woof?}
+{1148}{}{Woof?}
+{1149}{}{Woof?}
+{1150}{}{Woof?}
+{1151}{}{Woof?}
+{1152}{}{Woof?}
+{1153}{}{Woof?}
+{1154}{}{Woof?}
+{1155}{}{Woof?}
+{1156}{}{Woof?}
+{1157}{}{Woof?}
+{1158}{}{Woof?}
+{1159}{}{Woof?}
+{1160}{}{Woof?}
+{1161}{}{Woof?}
+{1162}{}{Woof?}
+{1163}{}{Woof?}
+{1164}{}{Woof?}
+{1165}{}{Woof?}
+{1166}{}{Woof?}
+{1167}{}{Woof?}
+{1168}{}{Woof?}
+{1169}{}{Woof?}
+{1170}{}{Woof?}
+{1171}{}{Woof?}
+{1172}{}{Woof?}
+{1173}{}{Woof?}
+{1174}{}{Woof?}
+{1175}{}{Woof?}
+{1176}{}{Woof?}
+{1177}{}{Woof?}
+{1178}{}{Woof?}
+{1179}{}{Woof?}
+{1180}{}{Woof?}
+{1181}{}{Woof?}
+{1182}{}{Woof?}
+{1183}{}{Woof?}
+{1184}{}{Woof?}

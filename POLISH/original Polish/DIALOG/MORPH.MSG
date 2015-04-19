@@ -1,0 +1,199 @@
+{100}{}{Widzisz Morfeusza.}
+{101}{MORP02}{Nie przypominam sobie, ¿eby zaprasza³ kogoœ do mojego pokoju. A jednak mam goœcia. Dlaczego?}
+{102}{}{Oo, przepraszam. To chyba z³y pokój.}
+{103}{}{Bo mam do ciebie tak¹ sprawê...}
+{104}{}{Jestem }
+{105}{}{. A ty jak siê nazywasz?}
+{106}{}{Przys³a³ mnie jeden z Braci.}
+{107}{}{Mama?}
+{108}{MORP02A}{Nie. Jestem Ojciec Œmieræ...}
+{109}{MORP03}{Hmm, moje dziecko, niebezpiecznie jest zagl¹daæ w miejsca, gdzie nie wolno ci przebywaæ. Jak to siê sta³o, ¿e jesteœ w mojej prywatnej kwaterze? A gdzie chcesz trafiæ?}
+{110}{}{Jestem tu pierwszy raz. Wydawa³o mi siê, ¿e powinna tu byæ toaleta. Przys³a³ mnie jeden ze starszych kap³anów.}
+{111}{}{Chcê siê wyspowiadaæ, a jeden ze starszych kap³anów przys³a³ mnie tutaj. Naprawdê mi przykro, ¿e przeszkadzam!}
+{112}{}{Wiem gdzie jestem.}
+{113}{}{Jestem tu, ¿eby ciê zabiæ.}
+{114}{}{Nie pamiêtam. Lepiej ju¿ pójdê.}
+{115}{MORP04}{Aaa...Heh, heh heh. To pewnie Biczownik. On uwielbia sprowadzaæ k³opoty na nowych wyznawców. To twój szczêœliwy dzieñ. Mo¿esz odejœæ bez dalszych nieprzyjemnoœci.}
+{116}{MORP04A}{Ostrzega³em. Stra¿e!}
+{117}{MORP05A}{Jesteœ ¿a³osnym k³amc¹. A teraz powiedz mi co tu robisz... zanim obedrê ciê ze skóry.}
+{118}{}{Nie, naprawdê! Jestem tu przez przypadek!}
+{119}{}{No dobra, z³apa³eœ mnie. Jestem tu, ¿eby zaproponowaæ ci pewien uk³ad.}
+{120}{}{Tylko siê rozgl¹dam.}
+{121}{MORP06}{Podejrzewam, ¿e jesteœ szpiegiem przys³anym przez Uczniów. Mo¿e siê mylê, ale nie bêdê ryzykowa³. Trzeba ciê usun¹æ.}
+{122}{MORP07}{Co ty mo¿esz mi zaoferowaæ?}
+{123}{}{Jestem z Krypty. Wiesz co to jest, prawda?}
+{124}{}{Chcê ci zaoferowaæ informacje o waszych wrogach.}
+{125}{}{Przys³a³ mnie Mistrz. To on kaza³ mi was szpiegowaæ.}
+{126}{morp08}{Mów dalej.}
+{127}{}{Chcê przekazaæ waszemu mistrzowi trochê informacji na temat mojej Krypty.}
+{128}{}{Mam dla Mistrza informacje o mojej Krypcie.}
+{129}{}{Nie tak szybko. Chcê wiedzieæ co dostanê w zamian za moj¹ wiedzê.}
+{130}{MORP09}{ Ja nie mam mistrza imbecylu!}
+{131}{}{Wiêc dlaczego nazywasz go Mistrzem? Czy on nie sprawuje nad tob¹ kontroli?}
+{132}{}{Wygl¹da na to, ¿e Mistrz w pe³ni ciê kontroluje.}
+{133}{}{Hej. Uwa¿aj co mówisz!!!}
+{134}{}{Chyba uda³o mi siê trafiæ w czu³y punkt.}
+{135}{MORP10}{Nikt mnie nie kontroluje. On i ja jesteœmy... partnerami.}
+{136}{}{Taak, pewnie. Jesteœ marionetk¹ tañcz¹c¹ na sznurkach.}
+{137}{}{To nie ma znaczenia. Mam pewne informacje na temat Krypty, które on z pewnoœci¹ chcia³by uzyskaæ.}
+{138}{}{On wydaje polecenia, prawda? A ty je wykonujesz, bez zbêdnych pytañ.}
+{139}{MORP11}{Nie bêdê tolerowa³ obelg. Stra¿e!}
+{140}{MORP12}{Dobrze. Zabiorê ciê do Mistrza. Jeœli jednak k³amiesz, on to rozpozna.}
+{141}{}{Dobra, w porz¹dku.}
+{142}{}{Nigdzie mnie nie zabierzesz!}
+{143}{MORP13}{To nie twoja sprawa. Jeœli jednak naprawdê jesteœ z Krypty, to Mistrz bêdzie to wiedzia³. Stra¿e! ChodŸ.}
+{144}{MORP14}{Pozwolê ci zachowaæ ¿ycie. A teraz mów co wiesz.}
+{145}{}{Jestem z Krypty i chêtnie przeka¿ê Mistrzowi jej po³o¿enie.}
+{146}{}{Albo co?}
+{147}{}{Nic ci nie powiem.}
+{148}{MORP15}{ Nie? Zatem bêdê musia³ wydobyæ z ciebie t¹ wiedzê. Stra¿e!}
+{149}{MORP16}{ A kim s¹ ci moi wrogowie?}
+{150}{}{No có¿, Uczniowie s¹ nimi na pewno.}
+{151}{}{Z mojego punktu widzenia to chyba wszyscy.}
+{152}{MORP17}{Powiedz mi co wiesz.}
+{153}{}{Nie s¹dzê. Zabierz mnie do Mistrza. Jemu powiem.}
+{154}{}{Powiedzmy, ¿e wiem coœ, co mog³oby pomóc wam sobie z nimi poradziæ.}
+{155}{MORP18}{Przeka¿ mi te informacje, bo w przeciwnym razie czeka ciê powolna... odwlekana... œmieræ.}
+{156}{}{S¹dzisz, ¿e Mistrz by³by zadowolony, gdyby siê dowiedzia³, ¿e zabi³eœ mieszkañca Krypty?}
+{157}{}{Bêdê rozmawiaæ tylko z Mistrzem.}
+{158}{MORP19}{Aaa. Wiêc to ty jesteœ tym mieszkañcem Krypty, o którym tyle s³ysza³em. Dziwi ciê to? Mam swoje Ÿród³a. A teraz zabiorê ciê jako prezent dla Mistrza. Na pewno bardzo siê ucieszy.}
+{159}{}{A mo¿e zamiast tego ja zabiorê ciê w worku?}
+{160}{}{Ja te¿.}
+{161}{MORP20}{Szpieg? To bardzo g³upie z twojej strony. Trudno ci bêdzie z³o¿yæ raport, jeœli nie bêdziesz ju¿ ¿yæ, prawda?}
+{162}{MORP21}{Nie umiesz k³amaæ. A teraz powiedz mi co wiesz.}
+{163}{}{Jestem z Krypty. Wiesz co to jest, prawda?}
+{164}{}{Chcê ci zaoferowaæ informacje o waszych wrogach.}
+{165}{MORP23}{To ciekawe. A teraz powiedz mi co tu robisz.}
+{166}{}{Jestem z Krypty i chêtnie przeka¿ê Mistrzowi jej po³o¿enie.}
+{167}{}{Chcê ci zaoferowaæ informacje o waszych wrogach.}
+{168}{}{Ty chyba nie umiesz wyci¹gaæ z ludzi informacji.}
+{169}{}{Nic ci nie powiem.}
+{170}{MORP24}{ Naprawdê? A jak chcesz to zrobiæ? Za pomoc¹ b³yskotliwego umys³u i ciêtego jêzyka?}
+{171}{}{Nie, w taki sposób...}
+{172}{}{Przeciwko tobie to by³o zbyt proste. Pójdê nieco trudniejsz¹ drog¹.}
+{173}{}{Myœlê, ¿e kula w ³eb powinna wystarczyæ.}
+{174}{MORP26}{ S³uchaj. Powiedz mi co wiesz, a wyjdziesz st¹d o w³asnych si³ach.}
+{175}{}{Jestem z Krypty i chêtnie przeka¿ê Mistrzowi jej po³o¿enie.}
+{176}{}{Chcê ci zaoferowaæ informacje o waszych wrogach.}
+{177}{}{Ty chyba nie umiesz wyci¹gaæ z ludzi informacji.}
+{178}{}{Nic ci nie powiem.}
+{179}{MORP27}{To ja zadajê pytania, nie ty. A teraz powiedz mi co tutaj robisz.}
+{180}{}{Nie za bardzo wiem gdzie jestem.}
+{181}{}{Chcê ci zaproponowaæ pewien uk³ad.}
+{182}{morp28}{S³ucham?}
+{183}{}{Czo³em. Dopiero od niedawna jestem jednym z Dzieci i tak siê zastanawiam czy nie móg³byœ odpowiedzieæ na kilka pytañ.}
+{184}{}{Niewa¿ne.}
+{185}{}{Nuuch?}
+{186}{morp29}{Oczywiœcie moje dziecko.}
+{187}{}{Dziêki...}
+{188}{}{Niewa¿ne.}
+{189}{}{Jakie s¹ plany Dzieci?}
+{190}{}{Zmiana planów. Koniec z pytaniami.}
+{191}{}{A co byœ powiedzia³, gdybyœ siê dowiedzia³, ¿e jestem z Krypty?}
+{192}{MORP31}{Nasze plany? Dziecko, jesteœmy pos³añcami ewolucji. Pod¹¿amy za Mistrzem, który d¹¿y do uzdrowienia tej ziemi i jej mieszkañców.}
+{193}{}{Naprawdê? A o jakiej ewolucji nauczacie?}
+{194}{}{Jakiego uzdrowienia?}
+{195}{MORP32}{Wiemy, ¿e jest wy¿szy poziom, wspania³e miejsce, do którego ludzkoœæ powinna pod¹¿aæ. Naszym celem jest uczynienie ¿ycia czymœ lepszym, pe³niejszym ni¿ obecne, naznaczone przez ból i walkê.}
+{196}{}{¯artujesz sobie, prawda?}
+{197}{}{I tobie uda³o siê znaleŸæ ten wy¿szy poziom?}
+{198}{MORP33}{[Wœciekle] Dlaczego ty...! [Spokojnie] Wybaczam ci. Nie ka¿dy mo¿e dostrzec œwiat³o. Dziecko, powiedz mi dlaczego jesteœ z nami?}
+{199}{}{¯eby siê przekonaæ, czy faktycznie taka ¿a³osna z was banda jak mi mówiono. Teraz ju¿ wiem.}
+{200}{}{Przepraszam. Tak mi siê powiedzia³o.}
+{201}{morp34}{Nic nie wiesz.}
+{202}{MORP35}{Tak, ale wybaczam ci. A teraz, jeœli nie masz ju¿ pytañ, to chcia³bym wróciæ do pracy.}
+{203}{}{W³aœciwie to mam jeszcze kilka.}
+{204}{}{Nie, dziêki.}
+{205}{MORP36}{Oczywiœcie. Proszê. Mów dalej.}
+{206}{MORP37}{Tak, ale... wybaczam ci. IdŸ w pokoju dziecko.}
+{207}{MORP38}{Nie, ale z wiar¹ i nadziej¹ na pewno uda nam siê go odnaleŸæ. Moje dziecko, to wszystko powinno byæ ci ju¿ znane.}
+{208}{}{Wiem, ale mam jeszcze kilka pytañ. Mogê je zadaæ?}
+{209}{}{Wiem. Do widzenia.}
+{210}{MORP39}{Na pocz¹tek leczymy fizyczn¹ opokê. Na pewno uda³o ci siê znaleŸæ jeden z naszych szpitali. Potem dajemy nadziejê i leczymy ducha.}
+{211}{}{O kurczê. Prawie ci wierzê. Masz ch³opie talent!}
+{212}{}{Gdzie s¹ te szpitale?}
+{213}{MORP40}{Nasze wspania³e wysi³ki siêgnê³y ju¿ Adytum, no i oczywiœcie Hub, które a¿ p³onie od naszej pracy. Mam jednak wra¿enie, ¿e s¹ jeszcze rzeczy o które chcesz zapytaæ.}
+{214}{MORP41}{To wspania³e dni. Z³omowo do³¹czy³o do Adytum i Hub w naszej drodze ku ocaleniu cia³a i duszy. Chcesz wiedzieæ coœ jeszcze moje dziecko?}
+{215}{}{W³aœciwie to...}
+{216}{}{Nic. Muszê lecieæ.}
+{217}{MORP42}{Wizja Dzieci rozci¹ga siê od Adytum poprzez Hub, Z³omowo, a ostatnio dotar³a do Cienistych Piasków. Dlaczego pytasz?}
+{218}{}{Z ciekawoœci. Mogê zadaæ jeszcze kilka pytañ?}
+{219}{}{Nic. Muszê lecieæ.}
+{220}{MORP42A}{Kim jesteœ?}
+{221}{}{S³ysza³eœ. ZaprowadŸ mnie do Mistrza, natychmiast!}
+{222}{MORP42B}{Eee, tak. Hmm. ChodŸ za mn¹.}
+{223}{MORP42C}{Moje dziecko, to co mówisz mnie ma ¿adnego sensu. ZnajdŸ jednego z naszych lekarzy, niech ci pomo¿e.}
+{224}{MORP45}{Moje dziecko, porozmawiaj z Biczownikiem. On ci pomo¿e.}
+{225}{MORP46}{Powiedzia³em...}
+{226}{MORP47}{Masz problemy ze s³uchem? Powiedzia³em...}
+{227}{MORP48}{Nie bêdê powtarza³!}
+{228}{MORP49}{Nie zamierzam tego powtarzaæ!}
+{229}{MORP50}{Mroczni przyszli do nas jakiœ czas temu. Mo¿e rzeczywiœcie wygl¹daj¹ strasznie, ale s¹ skrajnie lojalni wzglêdem Dzieci. Tak jak my wszyscy.}
+{230}{MORP51}{On przekona³ mnie do wizji jednoœci i to on wprowadzi pokój na tej udrêczonej ziemi.}
+{231}{MORP52}{Moje dziecko, wiesz chyba gdzie jest Audytorium. Tam wyg³aszam kazania.}
+{232}{MORP53}{Nie k³opocz siê tym. Tam mog¹ wejœæ jedynie Najwy¿si Kap³ani.}
+{233}{MORP54}{Jestem tylko pokornym s³ug¹ Jednoœci.}
+{234}{MORP55}{Jesteœmy Najwy¿szymi Kap³anami potê¿nego Mrocznego Boga. Trzynastu spoœród nas cieszy siê takim b³ogos³awieñstwem i przekazuje jego s³owa reszcie Dzieci.}
+{235}{MORP56}{Nie mam pojêcia o czym mówisz.}
+{236}{MORP57}{Szpitale Dzieci Katedry zapewniaj¹ najlepsz¹ opiekê medyczn¹ na tej pobru¿d¿onej, rozdartej ziemi. Taka opieka ma kluczowe znaczenie dla Jednoœci.}
+{237}{MORP58}{Jednoœæ to nasze poszukiwania wy¿szego poziomu egzystencji i zjednoczenia z drugim cz³owiekiem.}
+{238}{MORP59}{To jeden z Najwy¿szych Kap³anów. Wiêkszoœæ czasu poœwiêca na swe studia.}
+{239}{MORP60}{Moje serce krwawi kiedy o nich myœlê. Sprowadzeni na zgubn¹ œcie¿kê. Nie wiedz¹, ¿e ich dzia³ania sprowadz¹ na ludzi tylko ból i cierpienie.}
+{240}{MORP61}{Nicole to nieszczêœliwa, zagubiona przywódczyni Uczniów Apokalipsy.}
+{241}{MORP62}{Adytum to miasto na pó³noc st¹d.}
+{242}{MORP63}{To nie jest wa¿ne.}
+{243}{MORP64}{To nic. Mo¿esz zapytaæ jeszcze o coœ.}
+{244}{morp65}{To nic czym warto siê zajmowaæ.}
+{245}{}{Mistrzu, mam nadziejê, ¿e to ci siê spodoba...}
+{500}{}{Za zniszczenie przywódcy Dzieci Katedry otrzymujesz 1000 punktów doœwiadczenia.}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+{980}{MORP63}{To nie jest wa¿ne.}
+{981}{MORP64}{To nic. Mo¿esz zapytaæ jeszcze o coœ.}
+{982}{morp65}{To nic czym warto siê zajmowaæ.}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+
+{1000}{}{Mroczni}
+{1001}{}{Mistrz}
+{1002}{}{Audytorium}
+{1003}{}{Sanctum}
+{1004}{}{Morfeusz}
+{1005}{}{Zakon}
+{1006}{}{Karawany}
+{1007}{}{Szpitale}
+{1008}{}{Jednoœæ}
+{1009}{}{Biczownik}
+{1010}{}{Uczniowie}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apokalipsa}
+{1014}{}{Mutanci}
+{1015}{}{œwiêty P³omieñ}
+{1016}{}{Dzieci}
+{1017}{}{Baza}
+{1018}{}{Procesor}
+
+{1100}{MORP50}{Mroczni przyszli do nas jakiœ czas temu. Mo¿e rzeczywiœcie wygl¹daj¹ strasznie, ale s¹ skrajnie lojalni wzglêdem Dzieci. Tak jak my wszyscy.}
+{1101}{MORP51}{On przekona³ mnie do wizji jednoœci i to on wprowadzi pokój na tej udrêczonej ziemi.}
+{1102}{MORP52}{Moje dziecko, wiesz chyba gdzie jest Audytorium. Tam wyg³aszam kazania.}
+{1103}{MORP53}{Nie k³opocz siê tym. Tam mog¹ wejœæ jedynie Najwy¿si Kap³ani.}
+{1104}{MORP54}{Jestem tylko pokornym s³ug¹ Jednoœci.}
+{1105}{MORP55}{Jesteœmy Najwy¿szymi Kap³anami potê¿nego Mrocznego Boga. Trzynastu spoœród cieszy siê takim b³ogos³awieñstwem i przekazuje jego s³owa reszcie Dzieci.}
+{1106}{MORP56}{Nie mam pojêcia o czym mówisz.}
+{1107}{MORP57}{Szpitale Dzieci Katedry zapewniaj¹ najlepsz¹ opiekê medyczn¹ na tej pobru¿d¿onej, rozdartej ziemi. Taka opieka ma kluczowe znaczenie dla Jednoœci.}
+{1108}{MORP58}{Jednoœæ to nasze poszukiwania wy¿szego poziomu egzystencji i zjednoczenia z drugim cz³owiekiem.}
+{1109}{MORP59}{To jeden z Najwy¿szych Kap³anów. Wiêkszoœæ czasu poœwiêca na swe studia.}
+{1110}{MORP60}{Moje serce krwawi kiedy o nich myœlê. Sprowadzeni na zgubn¹ œcie¿kê. Nie wiedz¹ ¿e ich dzia³ania sprowadz¹ na ludzi tylko ból i cierpienie.}
+{1111}{MORP61}{Nicole to nieszczêœliwa, zagubiona przywódczyni Uczniów Apokalipsy.}
+{1112}{MORP62}{Adytum to miasto na pó³noc st¹d.}
+{1113}{MORP60}{Moje serce krwawi kiedy o nich myœlê. Sprowadzeni na zgubn¹ œcie¿kê. Nie wiedz¹ ¿e ich dzia³ania sprowadz¹ na ludzi tylko ból i cierpienie.}
+{1114}{MORP50}{Mroczni przyszli do nas jakiœ czas temu. Mo¿e rzeczywiœcie wygl¹daj¹ strasznie, ale s¹ skrajnie lojalni wzglêdem Dzieci. Tak jak my wszyscy.}
+{1015}{morp65}{To nic czym warto siê zajmowaæ.}
+{1016}{morp65}{To nic czym warto siê zajmowaæ.}
+{1017}{morp65}{To nic czym warto siê zajmowaæ.}
+{1018}{morp65}{To nic czym warto siê zajmowaæ.}

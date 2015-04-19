@@ -1,0 +1,16 @@
+{100}{}{You see Barterman.}
+{101}{}{Do you want to trade?}
+{102}{}{Click Barter -->}
+{103}{}{Nope.}
+{104}{}{We have been plagued by Rad Scorpions for some time
+ now. All who have been sent to destroy these
+ monsters have not returned. I will give you weapons
+ and armor if you will follow my guide to their lair
+ and kill them all.}
+{105}{}{Sounds good.}
+{106}{}{No thanks.}
+{107}{}{That is a shame. Please leave.}
+{108}{}{Excellent. Sammy here will guide you to the lair.
+ Take these items, they will come in useful. }
+{109}{}{Please help us as soon as possible. Time is wasting.}
+{110}{}{I don't talk to your kind, stranger.}

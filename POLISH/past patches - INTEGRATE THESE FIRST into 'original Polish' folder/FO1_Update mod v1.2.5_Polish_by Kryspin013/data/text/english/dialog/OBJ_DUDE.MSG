@@ -1,0 +1,1086 @@
+{500}{}{Po zniszczeniu Mistrza i jego laboratorium, w którym tworzy³ armiê supermutantów wracasz do swej Krypty. Tam jednak dowiadujesz siê, ¿e jej mieszkañcy odrzucili ciê za nadmierne stosowanie przemocy. Dziêkujemy za grê w Fallout. }
+
+#                      #
+#                      #
+# TELL ME ABOUT STUFF  #
+#      "my name"       #
+#      (970-979)       #
+#                      #
+#                      #
+{970}{}{To moje imiê.}
+{971}{}{Rozmawiasz ze mn¹. }
+{972}{}{Dlaczego zadajesz g³upie pytania? To ja jestem t¹ osob¹.}
+# TELL ME ABOUT STUFF #
+# "don't know"
+# (970-979)
+{980}{}{Nic o tym nie wiem.}
+{981}{}{Przykro mi. Nie mam pojêcia.}
+{982}{}{Nic mi o tym nie wiadomo.}
+# DESERT1.MAP (1000)
+# DESERT2.MAP (1600)
+# DESERT3.MAP (2200)
+#
+# HALLDED.MAP
+# The Nekropolis Hall of the Dead Tell-Me-Abouts
+#
+{2800}{}{Mistrz}
+{2801}{}{Hydroprocesor}
+{2802}{}{Nekropolis}
+{2803}{}{Set}
+{2804}{}{Wododzia³}
+{2805}{}{Aula}
+{2900}{}{Czy to nie ten wa¿ny koleœ?}
+{2901}{}{Nie wiem, ale w Wododziale mog¹ mieæ coœ takiego.}
+{2902}{}{Jesteœ w nim. A przynajmniej w tym, co z niego zosta³o. To miasto umiera; powoli, ale nieuchronnie.}
+{2903}{}{A, lubiê go, naprawdê. Mo¿esz go znaleŸæ w Auli.}
+{2904}{}{To na pó³noc st¹d. Uwa¿aj na stra¿ników, bo traktuj¹ swoj¹ pracê naprawdê powa¿nie.}
+{2905}{}{Aula Umar³ych. To tam urzêduje Set - dok³adnie w samym œrodku Nekropolis.}
+#
+# HOTEL.MAP
+# The Nekropolis Hotel Tell-Me-Abouts
+#
+{3400}{}{Mistrz}
+{3401}{}{Hydroprocesor}
+{3402}{}{Nekropolis}
+{3403}{}{Set}
+{3404}{}{Wododzia³}
+{3405}{}{Aula}
+{3500}{}{Czy to nie ten wa¿niacha?}
+{3501}{}{Nie wiem, ale w Wododziale mog¹ mieæ coœ takiego.}
+{3502}{}{Stoisz w nim. A przynajmniej w tym, co z niego zosta³o. To miejsce umiera. Powoli, ale nieuchronnie.}
+{3503}{}{Aa, lubiê tego kolesia. mo¿esz go znaleŸæ w Auli.}
+{3504}{}{To na pó³noc st¹d. Uwa¿aj na stra¿ników. Traktuj¹ swoj¹ pracê naprawdê powa¿nie.}
+{3505}{}{Aula Umar³ych; to tam urzêduje Set. Znajdziesz j¹ dok³adnie w samym œrodku Nekropolis.}
+#
+# WATRSHD.MAP
+# The Nekropolis Watershed Tell-Me-Abouts
+#
+{4000}{}{Mistrz}
+{4001}{}{Hydroprocesor}
+{4002}{}{Nekropolis}
+{4003}{}{Set}
+{4004}{}{Wododzia³}
+{4005}{}{Aula}
+{4100}{}{Czy to nie ten wa¿niacha?}
+{4101}{}{Nie wiem, ale w Wododziale mog¹ mieæ coœ takiego.}
+{4102}{}{Stoisz w nim. A przynajmniej w tym, co z niego zosta³o. To miejsce umiera. Powoli, ale nieuchronnie.}
+{4103}{}{Aa, lubiê tego kolesia. Mo¿esz go znaleŸæ w Auli.}
+{4104}{}{Uwa¿aj na stra¿ników. Traktuj¹ swoj¹ pracê naprawdê powa¿nie.}
+{4105}{}{Aula Umar³ych. To tam urzêduje Set. Znajdziesz j¹ dok³adnie w samym œrodku Nekropolis.}
+#
+# VAULT13.MAP
+# Vault 13 Tell-Me-Abouts
+#
+{4600}{}{Krypta}
+{4601}{}{Woda}
+{4602}{}{Opiekun}
+{4603}{}{Procesor}
+{4604}{}{Hydroprocesor}
+{4605}{}{Krypta 13}
+{4606}{}{Krypta13}
+{4607}{}{Lekarz}
+{4608}{}{Leczenie}
+{4609}{}{Biblioteka}
+{4700}{}{Tu wszyscy ¿yjemy. Chyba to rozumiesz.}
+{4701}{}{Procesor kontroluje poziom czystoœci wody z podziemnych Ÿróde³. To bardzo wa¿na czêœæ, ale nie mo¿emy jej naprawiæ.}
+{4702}{}{To dobry cz³owiek, który wykonuje trudn¹ pracê.}
+{4703}{}{Procesor kontroluje poziom czystoœci wody z podziemnych Ÿróde³. To bardzo wa¿na czêœæ, ale nie mo¿emy jej naprawiæ.}
+{4704}{}{Procesor kontroluje poziom czystoœci wody z podziemnych Ÿróde³. To bardzo wa¿na czêœæ, ale nie mo¿emy jej naprawiæ.}
+{4705}{}{Tu wszyscy ¿yjemy. Chyba to rozumiesz.}
+{4706}{}{Tu wszyscy ¿yjemy. Chyba to rozumiesz.}
+{4607}{}{Lekarza mo¿na znaleŸæ na pierwszej kondygnacji, w laboratorium. IdŸ tam jeœli potrzebujesz pomocy medycznej.}
+{4608}{}{Lekarza mo¿na znaleŸæ na pierwszej kondygnacji, w laboratorium. IdŸ tam jeœli potrzebujesz pomocy medycznej.}
+{4609}{}{Biblioteka znajduje siê w zachodnim skrzydle, na trzeciej kondygnacji. To tam stoj¹ komputery badawcze.}
+# VAULTENT.MAP (5200)
+# VAULTBUR.MAP (5800)
+# VAULTNEC.MAP (6400)
+#
+# JUNKENT.MAP
+# ktown Entrance Tell-Me-Abouts
+#
+{7000}{}{Killian}
+{7001}{}{Gizmo}
+{7002}{}{Z³omowo}
+{7003}{}{Cieniste Piaski}
+{7004}{}{Hub}
+{7005}{}{Hydroprocesor}
+{7006}{}{Kasyno}
+{7007}{}{Sklep}
+{7008}{}{Szpon œmierci}
+{7100}{}{Killian jest burmistrzem. Prowadzi te¿ sklep.}
+{7101}{}{Gizmo prowadzi kasyno. Goœæ jest chyba w porz¹dku.}
+{7102}{}{To jest Z³omowo.}
+{7103}{}{Hmm, to chyba bardzo ma³e miejsce, Ale nigdy tam nie by³em.}
+{7104}{}{To trochê wiêksze miasto, na po³udnie st¹d.}
+{7105}{}{Co? Przykro mi.}
+{7106}{}{To du¿y budynek w pó³nocno - zachodniej czêœci miasta.}
+{7107}{}{Sklep Killiana? Znajduje siê w centralnej czêœci miasta.}
+{7108}{}{Nie mam pojêcia, ale to imiê mnie przera¿a.}
+#
+# JUNKCSNO.MAP
+# nktown Casino Tell-Me-Abouts
+#
+{7600}{}{Killian}
+{7601}{}{Gizmo}
+{7602}{}{Z³omowo}
+{7603}{}{Cieniste Piaski}
+{7604}{}{Hub}
+{7605}{}{Hydroprocesor}
+{7606}{}{Kasyno}
+{7607}{}{Sklep}
+{7608}{}{Szpon œmierci}
+{7700}{}{Killian jest burmistrzem. Przej¹³ tê funkcjê kiedy umar³ jego ojciec.}
+{7701}{}{Gizmo jest jednym z najwa¿niejszych ludzi w Z³omowie. Ma kasyno i ring bokserski. Zarabia mnóstwo forsy i kupuje w Hub ca³y stos ró¿nych rzeczy.}
+{7702}{}{To jest Z³omowo.}
+{7703}{}{To naprawdê niewielka spo³ecznoœæ na pó³nocy. Ludzie, którzy tam mieszkaj¹, to w wiêkszoœci rolnicy. Czasem z nimi handlujemy, ale chc¹, ¿eby zostawiæ ich w spokoju.}
+{7704}{}{Hub stanowi centrum handlu w tych okolicach. Niemal wszyscy kupcy stamt¹d pochodz¹. Jest tam kilka firm, które wci¹¿ zajmuj¹ siê produkcj¹. Je¿eli chcesz, mo¿esz pojechaæ do Hub z jedn¹ z ich karawan.}
+{7705}{}{Nic o tym nie wiem.}
+{7706}{}{Gizmo je prowadzi. Uwa¿aj na maszyny, mo¿na na nich straciæ masê forsy.}
+{7707}{}{Sklep Kiliana? Znajduje siê w centralnej czêœci miasta. Mo¿na siê z nim wymieniaæ albo p³aciæ gotówk¹.}
+{7708}{}{Wiem, ¿e ludzie o nich mówi¹, ale nigdy nic takiego nie uda³o mi siê spotkaæ Plotka g³osi, ¿e przemierzaj¹ pustyniê i uderzaj¹ zwykle w nocy.}
+#
+# JUNKKILL.MAP
+# nktown Killian's Tell-Me-Abouts
+#
+{8200}{}{Killian}
+{8201}{}{Gizmo}
+{8202}{}{Z³omowo}
+{8203}{}{Cieniste Piaski}
+{8204}{}{Hub}
+{8205}{}{Hydroprocesor}
+{8206}{}{Kasyno}
+{8207}{}{Sklep}
+{8208}{}{Szpon œmierci}
+{8300}{}{Killian jest burmistrzem. Przej¹³ tê funkcjê kiedy umar³ jego ojciec.}
+{8301}{}{Gizmo jest jednym z najwa¿niejszych ludzi w Z³omowie. Ma kasyno i ring bokserski. Zarabia mnóstwo forsy i kupuje w Hub ca³y stos ró¿nych rzeczy.}
+{8302}{}{To jest Z³omowo.}
+{8303}{}{To naprawdê niewielka spo³ecznoœæ na pó³nocy. Ludzie, którzy tam mieszkaj¹ to w wiêkszoœci rolnicy. Czasem z nimi handlujemy, ale chc¹, ¿eby zostawiæ ich w spokoju.}
+{8304}{}{Hub stanowi centrum handlu w tych okolicach. Niemal wszyscy kupcy stamt¹d pochodz¹. Jest tam kilka firm, które wci¹¿ zajmuj¹ siê produkcj¹. Je¿eli chcesz, mo¿esz pojechaæ do Hub z jedn¹ z ich karawan.}
+{8305}{}{Nic o tym nie wiem.}
+{8306}{}{Gizmo je prowadzi. Uwa¿aj na maszyny, mo¿na na nich straciæ masê forsy.}
+{8307}{}{Sklep Killiana? Znajduje siê w centralnej czêœci miasta. Mo¿na siê z nim wymieniaæ albo p³aciæ gotówk¹.}
+{8308}{}{Wiem, ¿e ludzie o nich mówi¹, ale nigdy nic takiego nie uda³o mi siê spotkaæ. Plotka g³osi ¿e przemierzaj¹ pustyniê i uderzaj¹ zwykle w nocy.}
+# BROHDENT.MAP (8800)
+{8800}{}{Mistrz}
+{8801}{}{Wojna}
+{8802}{}{Eksodus}
+{8803}{}{Dziwna armia}
+{8804}{}{Bractwo}
+{8805}{}{Kupcy}
+{8806}{}{Zaginione karawany}
+{8807}{}{Hub}
+{8808}{}{Dzieci katedry}
+{8809}{}{Kadeci}
+{8810}{}{Skrybowie}
+{8811}{}{Rycerze}
+{8812}{}{Paladyni}
+{8813}{}{Hydroprocesor}
+{8900}{}{Nie mam pojêcia o czym mówisz.}
+{8901}{}{Wspó³czesny œwiat powsta³ w konsekwencji wydarzeñ, które nie przynosz¹ ludzkoœci chluby. Zachowujemy wiedzê sprzed Wojny, ¿eby zapobiec nastêpnemu holocaustowi.}
+{8902}{}{To by³a trudna i smutna decyzja. Straciliœmy wielu ludzi, którzy zdecydowali siê samotnie szukaæ miejsca do rozpoczêcia nowego ¿ycia.}
+{8903}{}{Niewiele wiem na ten temat. Z raportów, które do mnie dotar³y wynika, ¿e gromadzi siê gdzieœ na pó³noc od nas.}
+{8904}{}{To tu stoimy.}
+{8905}{}{Kupcy Wodni to banda rabusiów, ale nie mam wyrobionej opinii o innych grupach.}
+{8906}{}{Nic o tym nie wiem.}
+{8907}{}{To dziura, w której a¿ roi siê od handlarzy. Jednak od czasu do czasu handlujemy z jedn¹ z bardziej uczciwych firm.}
+{8908}{}{To jakiœ kult.}
+{8909}{}{Oni s¹ przysz³oœci¹ Bractwa.}
+{8910}{}{Oni s¹ stra¿nikami naszej wiedzy.}
+{8911}{}{To oni wytwarzaj¹ uzbrojenie dla Bractwa.}
+{8912}{}{Oni s¹ obroñcami Bractwa.}
+{8913}{}{Nie mam pojêcia o czym mówisz.}
+# BROHD12.MAP (9400)
+{9400}{}{Mistrz}
+{9401}{}{Wojna}
+{9402}{}{Eksodus}
+{9403}{}{Dziwna armia}
+{9404}{}{Bractwo}
+{9405}{}{Kupcy}
+{9406}{}{Zaginione karawany}
+{9407}{}{Hub}
+{9408}{}{Dzieci katedry}
+{9409}{}{Kadeci}
+{9410}{}{Skrybowie}
+{9411}{}{Rycerze}
+{9412}{}{Paladyni}
+{9413}{}{Hydroprocesor}
+{9500}{}{Nie mam pojêcia o czym mówisz.}
+{9501}{}{Wspó³czesny œwiat powsta³ w konsekwencji wydarzeñ, które nie przynosz¹ ludzkoœci chluby. Zachowujemy wiedzê sprzed Wojny, ¿eby zapobiec nastêpnemu holocaustowi.}
+{9502}{}{To by³a trudna i smutna decyzja. Straciliœmy wielu ludzi, którzy zdecydowali siê samotnie szukaæ miejsca do rozpoczêcia nowego ¿ycia.}
+{9503}{}{Niewiele wiem na ten temat. Z raportów, które do mnie dotar³y wynika, ¿e gromadzi siê gdzieœ na pó³noc od nas.}
+{9504}{}{To tu stoimy.}
+{9505}{}{Kupcy Wodni to banda rabusiów, ale nie mam wyrobionej opinii o innych grupach.}
+{9506}{}{Nic o tym nie wiem.}
+{9507}{}{To dziura, w której a¿ roi siê od handlarzy. Jednak od czasu do czasu handlujemy z jedn¹ z bardziej uczciwych firm.}
+{9508}{}{To jakiœ kult.}
+{9509}{}{Oni s¹ przysz³oœci¹ Bractwa.}
+{9510}{}{Oni s¹ stra¿nikami naszej wiedzy.}
+{9511}{}{To oni wytwarzaj¹ uzbrojenie dla Bractwa.}
+{9512}{}{Oni s¹ obroñcami Bractwa.}
+{9513}{}{Nie mam pojêcia o czym mówisz.}
+# BROHD34.MAP (10000)
+{10000}{}{Mistrz}
+{10001}{}{Wojna}
+{10002}{}{Eksodus}
+{10003}{}{Dziwna armia}
+{10004}{}{Bractwo}
+{10005}{}{Kupcy}
+{10006}{}{Zaginione karawany}
+{10007}{}{Hub}
+{10008}{}{Dzieci Katedry}
+{10009}{}{Kadeci}
+{10010}{}{Skrybowie}
+{10011}{}{Rycerze}
+{10012}{}{Paladyni}
+{10013}{}{Hydroprocesor}
+{10000}{}{Nie mam pojêcia o czym mówisz.}
+{10101}{}{Wspó³czesny œwiat powsta³ w konsekwencji wydarzeñ, które nie przynosz¹ ludzkoœci chluby. Zachowujemy wiedzê sprzed Wojny, ¿eby zapobiec nastêpnemu holocaustowi.}
+{10102}{}{To by³a trudna i smutna decyzja. Straciliœmy wielu ludzi, którzy zdecydowali siê samotnie szukaæ miejsca do rozpoczêcia nowego ¿ycia.}
+{10103}{}{Niewiele wiem na ten temat. Z raportów, które do mnie dotar³y wynika, ¿e gromadzi siê gdzieœ na pó³noc od nas.}
+{10104}{}{To tu stoimy.}
+{10105}{}{Kupcy Wodni to banda rabusiów, ale nie mam wyrobionej opinii o innych grupach.}
+{10106}{}{Nic o tym nie wiem.}
+{10107}{}{To dziura, w której a¿ roi siê od handlarzy. Jednak od czasu do czasu handlujemy z jedn¹ z bardziej uczciwych firm.}
+{10108}{}{To jakiœ kult.}
+{10109}{}{Oni s¹ przysz³oœci¹ Bractwa.}
+{10110}{}{Oni s¹ stra¿nikami naszej wiedzy.}
+{10111}{}{To oni wytwarzaj¹ uzbrojenie dla Bractwa.}
+{10112}{}{Oni s¹ obroñcami Bractwa.}
+{10113}{}{Nie mam pojêcia o czym mówisz.}
+# CAVES.MAP (10600)
+# CHILDRN1.MAP (11200)
+{11200}{}{Œwiêty P³omieñ}
+{11201}{}{Jednoœæ}
+{11202}{}{Dzieci Katedry}
+{11203}{}{Morfeusz}
+{11204}{}{Mutanci}
+{11205}{}{Mistrz}
+{11206}{}{Uczniowie Apokalipsy}
+{11207}{}{Baza wojskowa}
+{11208}{}{Kadzie}
+{11209}{}{Hydroprocesor}
+
+{11300}{}{To Œwiêty P³omieñ poprowadzi nas do powstania nowego œwiata, w którym nie bêdzie nienawiœci ani wojny.}
+{11301}{}{Wszyscy jesteœmy czêœci¹ Jednoœci. Innym ludziom zarówno ludziom jak i mutantom przekazujemy mi³oœæ i pokój.}
+{11302}{}{To my.}
+{11303}{}{Morfeusz jest najwy¿szym kap³anem Dzieci. Jeœli akurat nas nie naucza, to zwykle mo¿na go znaleŸæ w jego pokoju.}
+{11304}{}{To ludzie, którzy zmutowali w wyniku promieniowania radioaktywnego po wybuchach bomb. Ale to nie zmienia faktu, ¿e s¹ to dobrzy ludzie.}
+{11305}{}{Ka¿dy ma jakiegoœ mistrza, prawda?}
+{11306}{}{Ci ludzie chc¹ zniszczyæ pokój, o który zabiega Mistrz.}
+{11307}{}{Przykro mi, nic nie tym nie wiem.}
+{11308}{}{Przykro mi, ale nie mam pojêcia o czym mówisz.}
+{11309}{}{Nie mam najmniejszego pojêcia o czym mówisz.}
+
+# CHILDRN2.MAP (11800)
+
+{11800}{}{Œwiêty P³omieñ}
+{11801}{}{Jednoœæ}
+{11802}{}{Dzieci Katedry}
+{11803}{}{Morfeusz}
+{11804}{}{Mutanci}
+{11805}{}{Mistrz}
+{11806}{}{Uczniowie Apokalipsy}
+{11807}{}{Baza wojskowa}
+{11808}{}{Kadzie}
+{11809}{}{Hydroprocesor}
+
+{11900}{}{To Œwiêty P³omieñ poprowadzi nas do powstania nowego œwiata, w którym nie bêdzie nienawiœci ani wojny.}
+{11901}{}{Wszyscy jesteœmy czêœci¹ Jednoœci. Innym ludziom zarówno ludziom jak i mutantom przekazujemy mi³oœæ i pokój.}
+{11902}{}{To my.}
+{11903}{}{Morfeusz jest najwy¿szym kap³anem Dzieci. Jeœli akurat nas nie naucza, to zwykle mo¿na go znaleŸæ w jego pokoju.}
+{11904}{}{To ludzie, którzy zmutowali w wyniku promieniowania radioaktywnego po wybuchach bomb. Ale to nie zmienia faktu, ¿e s¹ to dobrzy ludzie.}
+{11905}{}{Ka¿dy ma jakiegoœ mistrza, prawda?}
+{11906}{}{Ci ludzie chc¹ zniszczyæ pokój, o który zabiega Mistrz.}
+{11907}{}{Przykro mi, nic nie tym nie wiem.}
+{11908}{}{Przykro mi, ale nie mam pojêcia o czym mówisz.}
+{11909}{}{Nie mam najmniejszego pojêcia o czym mówisz.}
+
+# CITY1.MAP (12400)
+# COAST1.MAP (13000)
+# COAST2.MAP (13600)
+# COLATRUK.MAP (14200)
+# FSAUSER.MAP (14800)
+
+#
+# RAIDERS.MAP
+# Raiders Tell-Me-Abouts
+#
+{15400}{}{Chanowie}
+{15401}{}{Garl}
+{15402}{}{Z³omowo}
+{15403}{}{Cieniste Piaski}
+{15404}{}{Hub}
+{15405}{}{Hydroprocesor}
+{15406}{}{Tandi}
+{15407}{}{Alya}
+{15408}{}{Diana}
+{15409}{}{Gwen}
+{15410}{}{Petrox}
+{15411}{}{Tolya}
+{15412}{}{Bimber}
+{15413}{}{Prochy}
+{15500}{}{To przecie¿ my, g³upcze.}
+{15501}{}{To przywódca Chanów. To najstraszniejszy cz³owiek na pustyni.}
+{15502}{}{To na po³udniowy zachód st¹d. Czasem po ciê¿kim dniu rabowania chodzimy siê tam zabawiæ.}
+{15503}{}{Nie rozumiem dlaczego ich nie zniszczymy.}
+{15504}{}{To na po³udnie. Handlujemy z nimi. Najczêœciej kupujemy wodê i amunicjê, ale czasem maj¹ te¿ broñ.}
+{15505}{}{A co mnie to obchodzi?}
+{15506}{}{Nie znam nikogo o tym imieniu.}
+{15507}{}{Ona jest doradc¹. Planuje nasze napady.}
+{15508}{}{Ona jest zbrojmistrzem. Naprawia nasz sprzêt.}
+{15509}{}{Ona jest zastêpc¹ dowódcy.}
+{15510}{}{On gromadzi nasze zapasy.}
+{15511}{}{On jest kucharzem.}
+{15512}{}{Masz trochê?}
+{15513}{}{Masz trochê?}
+
+
+#
+# SHADYE.MAP
+# Shady Sands East Tell-Me-Abouts
+#
+{16000}{}{Chanowie}
+{16001}{}{Garl}
+{16002}{}{Z³omowo}
+{16003}{}{Cieniste Piaski}
+{16004}{}{Hub}
+{16005}{}{Hydroprocesor}
+{16006}{}{Tandi}
+{16007}{}{Aradesh}
+{16008}{}{Set}
+{16009}{}{Razlo}
+{16100}{}{To grupa przestêpców udaj¹cych, ¿e s¹ kimœ z przesz³oœci.}
+{16101}{}{On dowodzi Chanami To jeden z najniebezpieczniejszych ludzi, którzy kiedykolwiek ogl¹dali Cieniste Piaski. ¯elazn¹ piêœci¹ kontroluje klany rozbójników.}
+{16102}{}{To jakieœ 4 - 6 dni na po³udniowy zachód. Czasem mo¿na tam pohandlowaæ, ale najczêœciej próbuj¹ nas oszukaæ.}
+{16103}{}{Jesteœ w nich.}
+{16104}{}{To o wiele dalej na po³udnie ni¿ Z³omowo. Hub jest najwiêkszym miastem o jakim mi wiadomo. Ma co najmniej tysi¹c mieszkañców.}
+{16105}{}{Przykro mi, nie mogê ci pomóc.}
+{16106}{}{To córka Aradesha. Pewnego dnia mo¿e przejmie jego funkcjê, ale najpierw musi siê nauczyæ nad sob¹ panowaæ.}
+{16107}{}{To przywódca naszej spo³ecznoœci, prawdziwy bohater. Mo¿na go zawsze znaleŸæ w g³ównym budynku.}
+{16108}{}{Pracuje z Aradeshem, ¿eby zapewniæ nam bezpieczeñstwo.}
+{16109}{}{To nasz lekarz. IdŸ do niego jeœli trzeba ciê opatrzyæ.}
+
+#
+# SHADYW.MAP
+# Shady Sands West Tell-Me-Abouts
+#
+{16600}{}{Chanowie}
+{16601}{}{Garl}
+{16602}{}{Z³omowo}
+{16603}{}{Cieniste Piaski}
+{16604}{}{Hub}
+{16605}{}{Hydroprocesor}
+{16606}{}{Tandi}
+{16607}{}{Aradesh}
+{16608}{}{Set}
+{16609}{}{Razlo}
+{16700}{}{To grupa przestêpców udaj¹cych, ¿e s¹ kimœ z przesz³oœci.}
+{16701}{}{On dowodzi Chanami. To jeden z najniebezpieczniejszych ludzi, którzy kiedykolwiek ogl¹dali Cieniste Piaski. ¯elazn¹ piêœci¹ kontroluje klany rozbójników.}
+{16702}{}{To jakieœ 4 - 6 dni na po³udniowy zachód. Czasem mo¿na tam pohandlowaæ, ale najczêœciej próbuj¹ nas oszukaæ.}
+{16703}{}{Jesteœ w nich.}
+{16704}{}{To o wiele dalej na po³udnie ni¿ Z³omowo. Hub jest najwiêkszym miastem o jakim mi wiadomo. Ma co najmniej tysi¹c mieszkañców.}
+{16705}{}{Przykro mi, nie mogê ci pomóc.}
+{16706}{}{To córka Aradesha. Pewnego dnia mo¿e przejmie jego funkcjê, ale najpierw musi siê nauczyæ nad sob¹ panowaæ.}
+{16707}{}{To przywódca naszej spo³ecznoœci, prawdziwy bohater. Mo¿na go zawsze znaleŸæ w g³ównym budynku.}
+{16708}{}{Pracuje z Aradeshem, ¿eby zapewniæ nam bezpieczeñstwo.}
+{16709}{}{To nasz lekarz. IdŸ do niego jeœli trzeba ciê opatrzyæ.}
+
+# GLOWENT.MAP (17200)
+
+
+#
+# LAADYTUM.MAP
+#
+#
+
+#======================================================================
+# ADYTUM
+# Info Level 1 [People who know nothing]
+{17800}{}{Adytum}
+{17801}{}{Uczniowie}
+{17802}{}{Katedra}
+{17803}{}{Rozpruwacze}
+{17804}{}{Ostrza}
+{17805}{}{Handlarze broni¹}
+{17806}{}{Hub}
+{17807}{}{Z³omowo}
+{17808}{}{Hydroprocesor}
+{17809}{}{Sklep}
+{17810}{}{Zimmerman}
+{17811}{}{Nekropolis}
+{17812}{}{Blask}
+{17813}{}{Regulatorzy}
+{17814}{}{Szabrownicy}
+{17815}{}{Gruzy}
+{17900}{}{To tutaj.}
+{17901}{}{Mieszkaj¹ na pó³noc st¹d.}
+{17902}{}{To kawa³ek na po³udnie st¹d.}
+{17903}{}{Oni s¹ po zachodniej stronie.}
+{17904}{}{Oni s¹ po wschodniej stronie.}
+{17905}{}{Oni s¹ na pó³nocy, jeszcze za Uczniami.}
+{17906}{}{Handlujemy z nimi.}
+{17907}{}{Czy na pó³noc st¹d nie ma przypadkiem miasta?}
+{17908}{}{Co takiego?}
+{17909}{}{W pobli¿u bramy, pod ziemi¹ znajduje siê sklep Tinea.}
+{17910}{}{On jest burmistrzem.}
+{17911}{}{To podobno na zachodzie.}
+{17912}{}{To tylko legenda.}
+{17913}{}{Oni na chroni¹.}
+{17914}{}{Czasem wychodz¹ po ró¿ne rzeczy.}
+{17915}{}{To s¹ Gruzy.}
+
+
+# Info Level 1 [People who know nothing]
+{18000}{}{Adytum}
+{18001}{}{Uczniowie}
+{18002}{}{Katedra}
+{18003}{}{Rozpruwacze}
+{18004}{}{Ostrza}
+{18005}{}{Handlarze broni¹}
+{18006}{}{Hub}
+{18007}{}{Z³omowo}
+{18008}{}{Hydroprocesor}
+{18009}{}{Sklep}
+{18010}{}{Zimmerman}
+{18011}{}{Nekropolis}
+{18012}{}{Blask}
+{18013}{}{Regulatorzy}
+{18014}{}{Szabrownicy}
+{18015}{}{Gruzy}
+{18100}{}{Jesteœ w Gruzach.}
+{18101}{}{Uczniowie zajmuj¹ star¹ bibliotekê na pó³noc st¹d. Ucz¹ tolerancji i pokoju.}
+{18102}{}{Katedra znajduje siê daleko na po³udniu, nieopodal zatoki. Dzieci wyznaj¹ pokojow¹ religiê.}
+{18103}{}{Oni s¹ po zachodniej stronie. S¹ bardzo zawziêci i maj¹ mnóstwo pu³apek.}
+{18104}{}{Oni s¹ po wschodniej stronie. Maj¹ jakieœ zaawansowane technologicznie no¿e.}
+{18105}{}{Oni s¹ na pó³nocy, jeszcze za Uczniami. Sprzedaj¹ broñ gangom.}
+{18106}{}{Handlujemy z nimi. To najwiêksze miasto o jakim wiem.}
+{18107}{}{To ma³e miasto na pó³nocny wschód od nas.}
+{18108}{}{Pierwsze s³yszê.}
+{18109}{}{W pobli¿u bramy, pod ziemi¹ znajduje siê sklep Tinea. Tam mo¿esz sprzedaæ czêœæ swojego wyposa¿enia.}
+{18110}{}{On jest burmistrzem. Odwala kawa³ dobrej roboty.}
+{18111}{}{To miasto umar³ych, wiele dni drogi st¹d na wschód.}
+{18112}{}{To podobno bardzo daleko na po³udniu.}
+{18113}{}{Chroni¹ nas przed gangami i utrzymuj¹ pokój.}
+{18114}{}{Wyruszaj¹ poza miasto na poszukiwanie ró¿nych rzeczy.}
+{18115}{}{Jesteœmy w Grazach.}
+
+
+# Info level 3 [People who know more than something but less than everything]
+{18200}{}{Adytum}
+{18201}{}{Uczniowie}
+{18202}{}{Katedra}
+{18203}{}{Rozpruwacze}
+{18204}{}{Ostrza}
+{18205}{}{Handlarze broni¹}
+{18206}{}{Hub}
+{18207}{}{Z³omowo}
+{18208}{}{Hydroprocesor}
+{18209}{}{Sklep}
+{18210}{}{Zimmerman}
+{18211}{}{Nekropolis}
+{18212}{}{Blask}
+{18213}{}{Regulatorzy}
+{18214}{}{Szabrownicy}
+{18215}{}{Gruzy}
+{18300}{}{Jesteœmy potomkami ludzi z Krypty, która znajduje siê pod po³udniow¹ czêœci¹ miasta.}
+{18301}{}{Uczniowie to wykszta³ceni i spokojni ludzie. Mieszkaj¹ w starej bibliotece, na pó³noc st¹d.}
+{18302}{}{Dzieci wyznaj¹ tajemniczego Mrocznego Boga. Wygl¹daj¹ na nieszkodliwych, ale w ich religii jest jednak coœ dziwnego. Katedra znajduje siê na po³udnie st¹d.}
+{18303}{}{Wszyscy Rozpruwacze s¹ ze sob¹ spokrewnieni. Maj¹ ufortyfikowany budynek chroniony pu³apkami. Tam trzymaj¹ wiêŸniów, a potem i torturuj¹, i w koñcu morduj¹.}
+{18304}{}{Ostrza s¹ znani z powodu wibro-ostrzy, których u¿ywaj¹. S¹ zapamiêta³ymi wrogami Rozpruwaczy. Ich przywódc¹ jest kobieta o imieniu Brzytwa.}
+{18305}{}{Kiedyœ byli jednym z gangów, ale osiedli w magazynie po pó³nocnej stronie i zaczêli handlowaæ broni¹.}
+{18306}{}{Hub stanowi centrum handlu w tych okolicach. Wci¹¿ s¹ tam firmy, które ci¹gle zajmuj¹ siê produkcj¹. Maj¹ siedzibê na wschód st¹d.}
+#{18306 alternate If hydroponic farms aren't fixed:}{Sprzedajemy amunicjê do Hub.}
+{18307}{}{Z³omowo to miasto œredniej wielkoœci, które znajduj¹ siê na pó³noc od Hub.}
+{18308}{}{Przykro mi, nie mogê ci pomóc.}
+{18309}{}{Tine prowadzi sklep, zaraz obok g³ównej bramy. Mo¿e ci sprzedaæ broñ i zaopatrzenie podró¿ne.}
+{18310}{}{Jon jest naszym burmistrzem. Zawiera umowy handlowe, okreœla politykê i okreœla zadania Regulatorom i Szabrownikom.}
+{18311}{}{Miasto umar³ych? To podobno jakieœ miasto na wschodzie, zamieszkiwane przez kanibali. Na twoim miejscu bym siê tam nie wybiera³.}
+{18312}{}{Z tego co wiem, to jakieœ ska¿one miejsce daleko na po³udniu.}
+{18313}{}{To si³y policyjne Adytum. Chroni¹ nas przed gangami. Caleb nimi dowodzi.}
+{18314}{}{Szabrownicy szukaj¹ w Gruzach cennego sprzêtu. Dowodzi nimi Sammael.}
+{18315}{}{Gruzy to pozosta³oœæ po starym Los Angeles. Znajdujemy siê w centrum Gruzów.}
+# ======================================================================
+
+
+#
+# LAFOLLWR.MAP (18400)
+#
+#
+
+#======================================================================
+# FOLLOWERS OF THE APOCALYPSE
+# Info Level 1 [People who know nothing]
+{18400}{}{Adytum}
+{18401}{}{Uczniowie}
+{18402}{}{Katedra}
+{18403}{}{Rozpruwacze}
+{18404}{}{Ostrza}
+{18405}{}{Handlarze broni¹}
+{18406}{}{Hub}
+{18407}{}{Z³omowo}
+{18408}{}{Hydroprocesor}
+{18409}{}{Nicole}
+{18410}{}{Gruzy}
+{18500}{}{To wioska, na po³udnie st¹d.}
+{18501}{}{To my jesteœmy Uczniami Apokalipsy.}
+{18502}{}{To kult wystêpuj¹cy na po³udnie od Adytum.}
+{18503}{}{To gang z zachodu.}
+{18504}{}{To gang ze wschodu.}
+{18505}{}{To gang z pó³nocy.}
+{18506}{}{To wielkie miasto handlowe na pó³nocnym wschodzie.}
+{18507}{}{To œredniej wielkoœci miasto, na pó³noc od Hub.}
+{18508}{}{Przykro mi, nie mogê ci pomóc.}
+{18509}{}{Ona jest naszym szefem.}
+{18510}{}{To s¹ Gruzy.}
+
+# Info Level 1 [People who know nothing]
+{18600}{}{Adytum}
+{18601}{}{Uczniowie}
+{18602}{}{Katedra}
+{18603}{}{Rozpruwacze}
+{18604}{}{Ostrza}
+{18605}{}{Przemytnicy broni}
+{18606}{}{Hub}
+{18607}{}{Z³omowo}
+{18608}{}{Hydroprocesor}
+{18609}{}{Nicole}
+{18610}{}{Gruzy}
+{18700}{}{To ma³e miasteczko na po³udniu. Czasem odwiedza nas ktoœ stamt¹d.}
+{18701}{}{To my jesteœmy Uczniami Apokalipsy. Przyjêliœmy tak¹ nazwê, bo przyszliœmy po wojennej zawierusze, ¿eby sprowadziæ pokój.}
+{18702}{}{To dziwny kult wystêpuj¹cy na po³udnie od Adytum i reszty Gruzów. Nicole uwa¿a, ¿e oni coœ planuj¹.}
+{18703}{}{To bardzo brutalny gang maj¹cy siedzibê na zachód od nas.}
+{18704}{}{To gang ze wschodu. Jego cz³onkowie u¿ywaj¹ no¿y z drgaj¹cymi ostrzami.}
+{18705}{}{To gang, który przywêdrowa³ z Hub. Zajmuje siê handlem broni¹. Maj¹ siedzibê na pó³noc st¹d.}
+{18706}{}{Hub to du¿e centrum handlowe. Znajduje siê na wschód st¹d. }
+{18707}{}{Z³omowo to niewielkie miasteczko na pó³noc od Hub.}
+{18708}{}{Nie mogê ci pomóc.}
+{18709}{}{Jest naszym przywódc¹. Ma wizjê jak przywróciæ pokój rozbitemu na frakcje œwiatu.}
+{18710}{}{To miejsce to Gruzy, pozosta³oœci po Los Angeles.}
+
+# Info level 3 [People who know more than something but less than everything]
+{18800}{}{Adytum}
+{18801}{}{Uczniowie}
+{18802}{}{Katedra}
+{18803}{}{Rozpruwacze.}
+{18804}{}{Ostrza}
+{18805}{}{Handlarze broni¹}
+{18806}{}{Hub}
+{18807}{}{Z³omowo}
+{18808}{}{Hydroprocesor}
+{18809}{}{Nicole}
+{18810}{}{Gruzy}
+{18900}{}{To ma³a mieœcina na po³udniu. Mieszkaj¹ tam dobrzy ludzie, choæ cierpi¹ na lekk¹ paranojê. Niektórzy z nich czasem z nami pracuj¹.}
+{18901}{}{Jesteœmy Uczniami Apokalipsy. Naszym zadaniem jest przynieœæ pokój i przekazanie go œwiatu. Musimy zadbaæ by broñ ju¿ nigdy wiêcej nie rani³a ziemi.}
+{18902}{}{Katedra to olbrzymia budowla, która stoi na po³udnie od Gruzów. Dzieci to sekta wyznaj¹ca mrocznego i z³ego boga. Trzeba ich powstrzymaæ zanim ich religia zacznie siê szerzyæ drog¹ przemocy.}
+{18903}{}{To chytre bydlaki. Atakuj¹ wszystko co zauwa¿¹, a co nie jest z nimi zwi¹zane. Mieszkaj¹ na zachód st¹d w fortecy otoczonej pu³apkami.}
+{18904}{}{To wyj¹tkowo niebezpieczna grupa. Ich siedziba mieœci siê na wschód st¹d. Walcz¹ dziwnymi no¿ami z wibruj¹cymi ostrzami. Ich przywódczymi, Brzytwa, przyby³a z Hub i zmieni³a ich w rodzinê.}
+{18905}{}{To gang maj¹cy siedzibê w magazynie na pó³noc st¹d. Jest otoczony radioaktywn¹ fos¹. Sprzedaj¹c broñ innym gangom.}
+{18906}{}{Hub to du¿e miasto handlowe; le¿y daleko na wschód st¹d. Wysy³aj¹ karawany w mnóstwo miejsc, wliczaj¹c w to Adytum.}
+{18907}{}{To ma³e miasteczko na pó³noc od Hub. Podobno to dobre miejsce na odpoczynek dla zmêczonego wêdrowca.}
+{18908}{}{Trochê czyta³em o technologii Krypt, ale o tym nie s³ysza³em.}
+{18909}{}{Nicole jest naszym przywódc¹. Chce przynieœæ pokój œwiatu zniszczonemu przez wojnê.}
+{18910}{}{To sam œrodek Gruzów, pozosta³oœci po starym Los Angeles.}
+#======================================================================
+
+
+# MBENT.MAP (19000)
+
+{19000}{}{Mistrz}
+{19001}{}{Porucznik}
+{19002}{}{Dzieci Katedry}
+{19003}{}{Uczniowie Apokalipsy}
+{19004}{}{Mroczni}
+{19005}{}{Supermutanci}
+{19006}{}{Psychika}
+{19007}{}{Doœwiadczenia}
+{19008}{}{Hydroprocesor}
+
+{19100}{}{Nic ci nie muszê mówiæ.}
+{19101}{}{To nie jest wiedza dla poœledniejszych istot.}
+{19102}{}{Oni nie powinni ciê obchodziæ.}
+{19103}{}{Nie masz dostatecznie silnej pozycji, ¿eby mnie wypytywaæ.}
+{19104}{}{To nie twoja sprawa.}
+{19105}{}{Nie powinno ciê to obchodziæ.}
+{19106}{}{Brak ci m¹droœci, aby o nich wiedzieæ.}
+{19107}{}{Nie wolno ci o nich wiedzieæ.}
+{19108}{}{Nie zawracaj mi g³owy zabawkami.}
+
+# MBSTRG12.MAP (19600)
+
+{19600}{}{Mistrz}
+{19601}{}{Porucznik}
+{19602}{}{Dzieci Katedry}
+{19603}{}{Uczniowie Apokalipsy}
+{19604}{}{Mroczni}
+{19605}{}{Supermutanci}
+{19606}{}{Psychika}
+{19607}{}{Doœwiadczenia}
+{19608}{}{Hydroprocesor}
+{19700}{}{Nic ci nie muszê mówiæ.}
+{19701}{}{To nie jest wiedza dla poœledniejszych istot.}
+{19702}{}{Nie musisz siê nimi zajmowaæ.}
+{19703}{}{Nie masz dostatecznie wysokiej pozycji, ¿eby zadawaæ mi pytania.}
+{19704}{}{To nie twój interes.}
+{19705}{}{To nie twoja sprawa.}
+{19706}{}{Brak ci m¹droœci, aby o nich wiedzieæ.}
+{19707}{}{Nie wolno ci o nich wiedzieæ.}
+{19708}{}{Nie zawracaj mi g³owy zabawkami.}
+
+# MBVATS12.MAP (20200)
+
+{20200}{}{Mistrz}
+{20201}{}{Porucznik}
+{20202}{}{Dzieci Katedry}
+{20203}{}{Uczniowie Apokalipsy}
+{20204}{}{Mroczni}
+{20205}{}{Supermutanci}
+{20206}{}{Psychika}
+{20207}{}{Doœwiadczenia}
+{20208}{}{Hydroprocesor}
+{20300}{}{Nic ci nie muszê mówiæ.}
+{20301}{}{To nie jest wiedza dla poœledniejszych istot.}
+{20302}{}{Nie musisz siê nimi zajmowaæ.}
+{20303}{}{Nie masz dostatecznie wysokiej pozycji, ¿eby zadawaæ mi pytania.}
+{20304}{}{To nie twój interes.}
+{20305}{}{To nie twoja sprawa.}
+{20306}{}{Brak ci m¹droœci, aby o nich wiedzieæ.}
+{20307}{}{Nie wolno ci o nich wiedzieæ.}
+{20308}{}{Nie zawracaj mi g³owy zabawkami.}
+
+
+# MSTRLR12.MAP (20800)
+
+{20800}{}{Mistrz}
+{20801}{}{Porucznik}
+{20802}{}{Dzieci Katedry}
+{20803}{}{Uczniowie Apokalipsy}
+{20804}{}{Mroczni}
+{20805}{}{Supermutanci}
+{20806}{}{Psychika}
+{20807}{}{Doœwiadczenia}
+{20808}{}{Hydroprocesor}
+{20900}{}{Nic ci nie muszê mówiæ.}
+{20901}{}{To nie jest wiedza dla poœledniejszych istot.}
+{20902}{}{Nie musisz siê nimi zajmowaæ.}
+{20903}{}{Nie masz dostatecznie wysokiej pozycji, ¿eby zadawaæ mi pytania.}
+{20904}{}{To nie twój interes.}
+{20905}{}{To nie twoja sprawa.}
+{20906}{}{Brak ci m¹droœci, aby o nich wiedzieæ.}
+{20907}{}{Nie wolno ci o nich wiedzieæ.}
+{20908}{}{Nie zawracaj mi g³owy zabawkami.}
+
+# MSTRLR34.MAP (21400)
+
+{21400}{}{Mistrz}
+{21401}{}{Porucznik}
+{21402}{}{Dzieci Katedry}
+{21403}{}{Uczniowie Apokalipsy}
+{21404}{}{Mroczni}
+{21405}{}{Supermutanci}
+{21406}{}{Psychika}
+{21407}{}{Doœwiadczenia}
+{21408}{}{Hydroprocesor}
+{21500}{}{Nic ci nie muszê mówiæ.}
+{21501}{}{To nie jest wiedza dla poœledniejszych istot.}
+{21502}{}{Nie musisz siê nimi zajmowaæ.}
+{21503}{}{Nie masz dostatecznie wysokiej pozycji, ¿eby zadawaæ mi pytania.}
+{21504}{}{To nie twój interes.}
+{21505}{}{To nie twoja sprawa.}
+{21506}{}{Brak ci m¹droœci, aby o nich wiedzieæ.}
+{21507}{}{Nie wolno ci o nich wiedzieæ.}
+{21508}{}{Nie zawracaj mi g³owy zabawkami.}
+
+
+# V13ENT.MAP (22000)
+
+# HUBENT.MAP (22600)
+
+{22600}{}{Policja}
+{22601}{}{Kupcy wodni}
+{22602}{}{Karmazynowa Karawana}
+{22603}{}{Wszêdobylscy handlowcy}
+{22604}{}{Dzieci Katedry}
+{22605}{}{Nekropolis}
+{22606}{}{Punkt Zapalny}
+{22607}{}{Z³omowo}
+{22608}{}{Bractwo Stali}
+{22609}{}{Cieniste Piaski}
+{22610}{}{Gruzy}
+{22611}{}{Wie¿e ciœnieñ}
+{22612}{}{Stare miasto}
+{22613}{}{Œródmieœcie}
+{22614}{}{Wzgórza}
+{22615}{}{Szpon œmierci}
+{22616}{}{Hydroprocesor}
+{22700}{}{Policj¹ dowodzi szeryf Greene. Jej zadaniem jest pilnowanie porz¹dku i przestrzegania prawa w Hub. S¹ tacy, którzy uwa¿aj¹ ich za przeszkodê, a nie pomoc.}
+{22701}{}{To oni kontroluj¹ ca³¹ wodê w Hub. Przejêli kontrolê nad wie¿ami ciœnieñ i teraz ludzie musz¹ p³aciæ za wodê.}
+{22702}{}{To szaleni handlarze, którzy w drodze do sukcesu nie boj¹ siê podejmowaæ wielkiego ryzyka.}
+{22703}{}{To œrednia grupa handlarzy, którzy oferuj¹ swoje towary za uczciw¹ cenê i nie szukaj¹ k³opotów.}
+{22704}{}{To jakaœ sekta wyznawców czegoœ, co nazywaj¹ Mistrzem. Prowadz¹ szpital w po³udniowo - wschodniej czêœci miasta, zaraz obok Kupców Wodnych.}
+{22705}{}{Straszne miejsce. Chodz¹ plotki, ¿e nawiedzaj¹ je mutanci, którzy po¿eraj¹ ludzkie mózgi. To gdzieœ na wschód od Hub.}
+{22706}{}{Jest trochê opowieœci o pewnym miejscu, na po³udniowy - wschód st¹d, które zosta³o trafione g³owic¹ nuklearn¹.}
+{22707}{}{To na pó³noc od nas. Sporo z nimi handlujemy. Podobno Killian i Gizmo skacz¹ sobie do garde³.}
+{22708}{}{To miejsce le¿y na pó³nocny - zachód st¹d. To banda por¹bañców, którzy wyznaj¹ technologiê. Straszni ludzie.}
+{22709}{}{To prymitywne miasteczko le¿¹ce daleko na pó³noc st¹d. Niewiele o nich wiadomo, bo jego mieszkañcy s¹ zbyt biedni, ¿eby z nami handlowaæ.}
+{22710}{}{Pe³no tam szczurów, a na domiar z³ego walcz¹ tam gangi. Gdyby nie dobre kontakty handlowe z Adytum i Handlarzami Broni¹, to pewnie nikt by tam nie zagl¹da³.}
+{22711}{}{W nich przechowywana jest woda dla Hub. Kontrolê nad wie¿ami sprawuj¹ Kupcy Wodni.}
+{22712}{}{Stare Miasto to pó³nocno - wschodnia czêœci miasta. Ale tam krêc¹ siê tylko szmaciarze i mutanci. Podobno jest tam gdzieœ siedziba z³odziei.}
+{22713}{}{Tam dzia³aj¹ wszyscy handlarze. Na tym obszarze znajduje siê Sklep z Broni¹, Zbrojownia, Przyjazne Towarzystwo Po¿yczkowe i Sokó³ Maltañski.}
+{22714}{}{Tam mieszkaj¹ wszyscy bogaci kupcy. Szef Kupców Wodnych, Daren Wie¿owiec ma tam du¿y dom.}
+{22715}{}{To bajka, któr¹ straszy siê dzieci.}
+{22716}{}{Nie wiem nic na ten temat.}
+
+# DETHCLAW.MAP (23200)
+
+# HUBDWNTN.MAP (23800)
+
+{23800}{}{Policja}
+{23801}{}{Kupcy wodni}
+{23802}{}{Karmazynowa Karawana}
+{23803}{}{Wszêdobylscy handlowcy}
+{23804}{}{Dzieci Katedry}
+{23805}{}{Nekropolis}
+{23806}{}{Punkt Zapalny}
+{23807}{}{Z³omowo}
+{23808}{}{Bractwo Stali}
+{23809}{}{Cieniste Piaski}
+{23810}{}{Gruzy}
+{23811}{}{Wie¿e ciœnieñ}
+{23812}{}{Stare miasto}
+{23813}{}{Œródmieœcie}
+{23814}{}{Wzgórza}
+{23815}{}{Szpon Œmierci}
+{23816}{}{Hydroprocesor}
+{23900}{}{Policj¹ dowodzi szeryf Greene. Jej zadaniem jest pilnowanie porz¹dku i przestrzegania prawa w Hub. S¹ tacy którzy uwa¿aj¹ ich za przeszkodê, a nie pomoc.}
+{23901}{}{To oni kontroluj¹ ca³¹ wodê w Hub. Przejêli kontrolê nad wie¿ami ciœnieñ i teraz ludzie musz¹ p³aciæ za wodê.}
+{23902}{}{To szaleni handlarze, którzy w drodze do sukcesu nie boj¹ siê podejmowaæ wielkiego ryzyka.}
+{23903}{}{To œrednia grupa handlarzy, którzy oferuj¹ swoje towary za uczciw¹ cenê i nie szukaj¹ k³opotów.}
+{23904}{}{To jakaœ sekta wyznawców czegoœ, co nazywaj¹ Mistrzem. Prowadz¹ szpital w po³udniowo - wschodniej czêœci miasta zaraz obok Kupców Wodnych.}
+{23905}{}{Straszne miejsce. Chodz¹ plotki, ¿e nawiedzaj¹ je mutanci, którzy po¿eraj¹ ludzkie mózgi. To gdzieœ na wschód od Hub.}
+{23906}{}{Jest trochê opowieœci o pewnym miejscu, na po³udniowy - wschód st¹d, które zosta³o trafione g³owic¹ nuklearn¹.}
+{23907}{}{To na pó³noc od nas. Sporo z nimi handlujemy. Podobno Killian i Gizmo skacz¹ sobie do garde³.}
+{23908}{}{To miejsce le¿y na pó³nocny - zachód st¹d. To banda por¹bañców, którzy wyznaj¹ technologiê. Straszni ludzie.}
+{23909}{}{To prymitywne miasteczko le¿¹ce daleko na pó³noc st¹d. Niewiele o nich wiadomo, bo jego mieszkañcy s¹ zbyt biedni, ¿eby z nami handlowaæ.}
+{23910}{}{Pe³no tam szczurów, a na domiar z³ego walcz¹ tam gangi. Gdyby nie dobre kontakty handlowe z Adytum i Handlarzami Broni¹ to pewnie nikt by tam nie zagl¹da³.}
+{23911}{}{W nich przechowywana jest woda dla Hub. Kontrolê nad wie¿ami sprawuj¹ Kupcy Wodni.}
+{23912}{}{Stare Miasto to pó³nocno - wschodnia czêœci miasta. Ale tam krêc¹ siê tylko szmaciarze i mutanci. Podobno jest tam gdzieœ siedziba z³odziei.}
+{23913}{}{Tam dzia³aj¹ wszyscy handlarze. Na tym obszarze znajduje siê Sklep z Broni¹, Zbrojownia, Przyjazne Towarzystwo Po¿yczkowe i Sokó³ Maltañski.}
+{23914}{}{Tam mieszkaj¹ wszyscy bogaci kupcy. Szef Kupców Wodnych, Daren Wie¿owiec ma tam du¿y dom.}
+{23915}{}{To bajka, któr¹ straszy siê dzieci.}
+{23916}{}{Nie wiem nic na ten temat.}
+
+# HUBHEIGT.MAP (24400)
+
+{24400}{}{Policja}
+{24401}{}{Kupcy wodni}
+{24402}{}{Karmazynowa Karawana}
+{24403}{}{Wszêdobylscy handlowcy}
+{24404}{}{Dzieci Katedry}
+{24405}{}{Nekropolis}
+{24406}{}{Punkt Zapalny}
+{24407}{}{Z³omowo}
+{24408}{}{Bractwo Stali}
+{24409}{}{Cieniste Piaski}
+{24410}{}{Gruzy}
+{24411}{}{Wie¿e ciœnieñ}
+{24412}{}{Stare miasto}
+{24413}{}{Œródmieœcie}
+{24414}{}{Wzgórza}
+{24415}{}{Szpon Œmierci}
+{24416}{}{Hydroprocesor}
+{24500}{}{Policj¹ dowodzi szeryf Greene. Jej zadaniem jest pilnowanie porz¹dku i przestrzegania prawa w Hub. S¹ tacy którzy uwa¿aj¹ ich za przeszkodê, a nie pomoc.}
+{24501}{}{To oni kontroluj¹ ca³¹ wodê w Hub. Przejêli kontrolê nad wie¿ami ciœnieñ i teraz ludzie musz¹ p³aciæ za wodê.}
+{24502}{}{To szaleni handlarze, którzy w drodze do sukcesu nie boj¹ siê podejmowaæ wielkiego ryzyka.}
+{24503}{}{To œrednia grupa handlarzy, którzy oferuj¹ swoje towary za uczciw¹ cenê i nie szukaj¹ k³opotów.}
+{24504}{}{To jakaœ sekta wyznawców czegoœ, co nazywaj¹ Mistrzem. Prowadz¹ szpital w po³udniowo - wschodniej czêœci miasta zaraz obok Kupców Wodnych.}
+{24505}{}{Straszne miejsce. Chodz¹ plotki, ¿e nawiedzaj¹ je mutanci, którzy po¿eraj¹ ludzkie mózgi. To gdzieœ na wschód od Hub.}
+{24506}{}{Jest trochê opowieœci o pewnym miejscu, na po³udniowy - wschód st¹d, które zosta³o trafione g³owic¹ nuklearn¹.}
+{24507}{}{To na pó³noc od nas. Sporo z nimi handlujemy. Podobno Killian i Gizmo skacz¹ sobie do garde³.}
+{24508}{}{To miejsce le¿y na pó³nocny - zachód st¹d. To banda por¹bañców, którzy wyznaj¹ technologiê. Straszni ludzie.}
+{24509}{}{To prymitywne miasteczko le¿¹ce daleko na pó³noc st¹d. Niewiele o nich wiadomo, bo s¹ zbyt biedni, ¿eby z nami handlowaæ.}
+{24510}{}{Pe³no tam szczurów, a na domiar z³ego walcz¹ tam gangi. Gdyby nie dobre kontakty handlowe z Adytum i Handlarzami Broni¹ to pewnie nikt by tam nie zagl¹da³.}
+{24511}{}{W nich przechowywana jest woda dla Hub. Kontrolê nad wie¿ami sprawuj¹ Kupcy Wodni.}
+{24512}{}{Stare Miasto to pó³nocno - wschodnia czêœci miasta. Ale tam krêc¹ siê tylko szmaciarze i mutanci. Podobno jest tam gdzieœ siedziba z³odziei.}
+{24513}{}{Tam dzia³aj¹ wszyscy handlarze. Na tym obszarze znajduje siê Sklep z Broni¹, Zbrojownia, Przyjazne Towarzystwo Po¿yczkowe i Sokó³ Maltañski.}
+{24514}{}{Tam mieszkaj¹ wszyscy bogaci kupcy. Szef Kupców Wodnych, Daren Wie¿owiec ma tam du¿y dom.}
+{24515}{}{To bajka, któr¹ straszy siê dzieci.}
+{24516}{}{Nie wiem nic na ten temat.}
+
+# HUBOLDTN.MAP (25000)
+
+{25000}{}{Policja}
+{25001}{}{Kupcy wodni}
+{25002}{}{Karmazynowa Karawana}
+{25003}{}{Wszêdobylscy handlowcy}
+{25004}{}{Dzieci Katedry}
+{25005}{}{Nekropolis}
+{25006}{}{Punkt Zapalny}
+{25007}{}{Z³omowo}
+{25008}{}{Bractwo Stali}
+{25009}{}{Cieniste Piaski}
+{25010}{}{Gruzy}
+{25011}{}{Wie¿e ciœnieñ}
+{25012}{}{Stare miasto}
+{25013}{}{Œródmieœcie}
+{25014}{}{Wzgórza}
+{25015}{}{Szpon Œmierci}
+{25016}{}{Hydroprocesor}
+{25100}{}{Policj¹ dowodzi szeryf Greene. Jej zadaniem jest pilnowanie porz¹dku i przestrzegania prawa w Hub. S¹ tacy którzy uwa¿aj¹ ich za przeszkodê, a nie pomoc.}
+{25101}{}{To oni kontroluj¹ ca³¹ wodê w Hub. Przejêli kontrolê nad wie¿ami ciœnieñ i teraz ludzie musz¹ p³aciæ za wodê.}
+{25102}{}{To szaleni handlarze, którzy w drodze do sukcesu nie boj¹ siê podejmowaæ wielkiego ryzyka.}
+{25103}{}{To œrednia grupa handlarzy, którzy oferuj¹ swoje towary za uczciw¹ cenê i nie szukaj¹ k³opotów.}
+{25104}{}{To jakaœ sekta wyznawców czegoœ, co nazywaj¹ Mistrzem. Prowadz¹ szpital w po³udniowo - wschodniej czêœci miasta zaraz obok Kupców Wodnych.}
+{25105}{}{Straszne miejsce. Chodz¹ plotki, ¿e nawiedzaj¹ je mutanci, którzy po¿eraj¹ ludzkie mózgi. To gdzieœ na wschód od Hub.}
+{25106}{}{Jest trochê opowieœci o pewnym miejscu, na po³udniowy - wschód st¹d, które zosta³o trafione g³owic¹ nuklearn¹.}
+{25107}{}{To na pó³noc od nas. Sporo z nimi handlujemy. Podobno Killian i Gizmo skacz¹ sobie do garde³.}
+{25108}{}{To miejsce le¿y na pó³nocny - zachód st¹d. To banda por¹bañców, którzy wyznaj¹ technologiê. Straszni ludzie.}
+{25109}{}{To prymitywne miasteczko le¿¹ce daleko na pó³noc st¹d. Niewiele o nich wiadomo, bo s¹ zbyt biedni, ¿eby z nami handlowaæ.}
+{25110}{}{Pe³no tam szczurów, a na domiar z³ego walcz¹ tam gangi. Gdyby nie dobre kontakty handlowe z Adytum i Handlarzami Broni¹ to pewnie nikt by tam nie zagl¹da³.}
+{25111}{}{W nich przechowywana jest woda dla Hub. Kontrolê nad wie¿ami sprawuj¹ Kupcy Wodni.}
+{25112}{}{Stare Miasto to pó³nocno - wschodnia czêœci miasta. Ale tam krêc¹ siê tylko szmaciarze i mutanci. Podobno jest tam gdzieœ siedziba z³odziei.}
+{25113}{}{Tam dzia³aj¹ wszyscy handlarze. Na tym obszarze znajduje siê Sklep z Broni¹, Zbrojownia, Przyjazne Towarzystwo Po¿yczkowe i Sokó³ Maltañski.}
+{25114}{}{Tam mieszkaj¹ wszyscy bogaci kupcy. Szef Kupców Wodnych, Daren Wie¿owiec ma tam du¿y dom.}
+{25115}{}{To bajka, któr¹ straszy siê dzieci.}
+{25116}{}{Nie wiem nic na ten temat.}
+
+# HUBWATER.MAP (25600)
+
+{25600}{}{Policja}
+{25601}{}{Kupcy wodni}
+{25602}{}{Karmazynowa Karawana}
+{25603}{}{Wszêdobylscy handlowcy}
+{25604}{}{Dzieci Katedry}
+{25605}{}{Nekropolis}
+{25606}{}{Punkt Zapalny}
+{25607}{}{Z³omowo}
+{25608}{}{Bractwo Stali}
+{25609}{}{Cieniste Piaski}
+{25610}{}{Gruzy}
+{25611}{}{Wie¿e ciœnieñ}
+{25612}{}{Stare miasto}
+{25613}{}{Œródmieœcie}
+{25614}{}{Wzgórza}
+{25615}{}{Szpon Œmierci}
+{25616}{}{Hydroprocesor}
+{25700}{}{Policj¹ dowodzi szeryf Greene. Jej zadaniem jest pilnowanie porz¹dku i przestrzegania prawa w Hub. S¹ tacy którzy uwa¿aj¹ ich za przeszkodê, a nie pomoc.}
+{25701}{}{To oni kontroluj¹ ca³¹ wodê w Hub. Przejêli kontrolê nad wie¿ami ciœnieñ i teraz ludzie musz¹ p³aciæ za wodê.}
+{25702}{}{To szaleni handlarze, którzy w drodze do sukcesu nie boj¹ siê podejmowaæ wielkiego ryzyka.}
+{25703}{}{To œrednia grupa handlarzy, którzy oferuj¹ swoje towary za uczciw¹ cenê i nie szukaj¹ k³opotów.}
+{25704}{}{To jakaœ sekta wyznawców czegoœ, co nazywaj¹ Mistrzem. Prowadz¹ szpital w po³udniowo - wschodniej czêœci miasta zaraz obok Kupców Wodnych.}
+{25705}{}{Straszne miejsce. Chodz¹ plotki, ¿e nawiedzaj¹ je mutanci, którzy po¿eraj¹ ludzkie mózgi. To gdzieœ na wschód od Hub.}
+{25706}{}{Jest trochê opowieœci o pewnym miejscu, na po³udniowy - wschód st¹d, które zosta³o trafione g³owic¹ nuklearn¹.}
+{25707}{}{To na pó³noc od nas. Sporo z nimi handlujemy. Podobno Killian i Gizmo skacz¹ sobie do garde³.}
+{25708}{}{To miejsce le¿y na pó³nocny - zachód st¹d. To banda por¹bañców, którzy wyznaj¹ technologiê. Straszni ludzie.}
+{25709}{}{To prymitywne miasteczko le¿¹ce daleko na pó³noc st¹d. Niewiele o nich wiadomo, bo s¹ zbyt biedni, ¿eby z nami handlowaæ.}
+{25710}{}{Pe³no tam szczurów, a na domiar z³ego walcz¹ tam gangi. Gdyby nie dobre kontakty handlowe z Adytum i Handlarzami Broni¹ to pewnie nikt by tam nie zagl¹da³.}
+{25711}{}{W nich przechowywana jest woda dla Hub. Kontrolê nad wie¿ami sprawuj¹ Kupcy Wodni.}
+{25712}{}{Stare Miasto to pó³nocno - wschodnia czêœci miasta. Ale tam krêc¹ siê tylko szmaciarze i mutanci. Podobno jest tam gdzieœ siedziba z³odziei.}
+{25713}{}{Tam dzia³aj¹ wszyscy handlarze. Na tym obszarze znajduje siê Sklep z Broni¹, Zbrojownia, Przyjazne Towarzystwo Po¿yczkowe i Sokó³ Maltañski.}
+{25714}{}{Tam mieszkaj¹ wszyscy bogaci kupcy. Szef Kupców Wodnych, Daren Wie¿owiec ma tam du¿y dom.}
+{25715}{}{To bajka, któr¹ straszy siê dzieci.}
+{25716}{}{Nie wiem nic na ten temat.}
+
+# GLOW1.MAP (26200)
+# GLOW2.MAP (26800)
+
+
+#
+# LABLADES.MAP
+#
+#
+
+# ======================================================================
+# BLADES
+# Info Level 1 [People who know nothing]
+{27400}{}{Adytum}
+{27401}{}{Uczniowie}
+{27402}{}{Katedra}
+{27403}{}{Rozpruwacze}
+{27404}{}{Ostrza}
+{27405}{}{Handlarze Broni¹}
+{27406}{}{Hub}
+{27407}{}{Z³omowo}
+{27408}{}{Hydroprocesor}
+{27409}{}{Brzytwa}
+{27410}{}{Nekropolis}
+{27411}{}{Blask}
+{27412}{}{Gruzy}
+{27500}{}{To miasteczko na zachodzie.}
+{27501}{}{To banda miêczaków.}
+{27502}{}{Religijne œwiry.}
+{27503}{}{To nasi zaprzysiê¿eni wrogowie!}
+{27504}{}{To my!}
+{27505}{}{Czasem sprzedaj¹ nam broñ.}
+{27506}{}{To chyba handlowa mieœcina.}
+{27507}{}{Pierwsze s³yszê.}
+{27508}{}{Co takiego?}
+{27509}{}{To nasza szefowa. Najtwardsza kobitka w mieœcie!}
+{27510}{}{Nekro - co? To chore.}
+{27511}{}{¯artujesz, prawda?}
+{27512}{}{To s¹ Gruzy.}
+
+
+# Info Level 2 [People who know something]
+{27600}{}{Adytum}
+{27601}{}{Uczniowie}
+{27602}{}{Katedra}
+{27603}{}{Rozpruwacze}
+{27604}{}{Ostrza}
+{27605}{}{Handlarze Broni¹}
+{27606}{}{Hub}
+{27607}{}{Z³omowo}
+{27608}{}{Hydroprocesor}
+{27609}{}{Brzytwa}
+{27610}{}{Nekropolis}
+{27611}{}{Blask}
+{27612}{}{Gruzy}
+{27700}{}{To wioska s³abeuszy, na po³udniowy - zachód st¹d.}
+{27701}{}{To banda ¿a³osnych g³osicieli pokoju, którzy siedz¹ na zachód. Szybko byœmy ich zmia¿d¿yli, gdybyœmy tylko nie byli zajêci walk¹ z Rozpruwaczami.}
+{27702}{}{Fanatyczne œwiry. Nieszkodliwe i bezu¿yteczne.}
+{27703}{}{Nasi wrogowie z zachodu nied³ugo zostan¹ zg³adzeni!}
+{27704}{}{Jesteœmy Ostrzami! Nigdy o tym nie zapominaj!}
+{27705}{}{Kiedyœ byli gangiem, ale zmiêkli. Teraz sprzedaj¹ porz¹dn¹ broñ.}
+{27706}{}{Handlarze i kupcy.}
+{27707}{}{Znam tê nazwê, ale nic ponadto.}
+{27708}{}{Co takiego?}
+{27709}{}{Brzytwa jest najlepsz¹ wojowniczk¹ w naszych szeregach. Poprowadzi nas do zwyciêstwa.}
+{27710}{}{To historyjka o mieœcie kanibali; taka do straszenia dzieci.}
+{27711}{}{Pewnie tam spad³a atomówka.}
+{27712}{}{To s¹ Gruzy.}
+
+
+# Info level 3 [People who know more than something but less than everything]
+{27800}{}{Adytum}
+{27801}{}{Uczniowie}
+{27802}{}{Katedra}
+{27803}{}{Rozpruwacze}
+{27804}{}{Ostrza}
+{27805}{}{Handlarze Broni¹}
+{27806}{}{Hub}
+{27807}{}{Z³omowo}
+{27808}{}{Hydroprocesor}
+{27809}{}{Brzytwa}
+{27810}{}{Nekropolis}
+{27811}{}{Blask}
+{27812}{}{Gruzy}
+{27900}{}{Nie daj siê oszukaæ. Adytum wygl¹da na niewielk¹ osadê, ale Regulatorzy s¹ bardzo twardzi.}
+{27901}{}{Phi. Daj spokój. Brak im jaj, ¿eby walczyæ.}
+{27902}{}{To jacyœ kultyœci; na po³udniu maj¹ wielki koœció³. Z pozoru wydaj¹ siê nieszkodliwi, ale tam dzieje siê coœ dziwnego.}
+{27903}{}{Rozpruwacze s¹ jak specjalnie hodowane psy: wœciekli i g³upi.}
+{27904}{}{Widzisz mój nó¿? Sami takie robimy. Ka¿dy z nas robi sobie ostrze. St¹d nasza nazwa.}
+{27905}{}{Przyszli z Hub w poszukiwaniu ziemi, ale koniec koñców zrezygnowali z walki na rzecz handlu.}
+{27906}{}{To handlowe miasto na wschód st¹d. Tamtejsi kupcy czasem tu przyje¿d¿aj¹. Prowadz¹ interesy z Adytum i Handlarzami Broni¹.}
+{27907}{}{To chyba na pó³nocny - wschód st¹d. To niewielkie miasteczko.}
+{27908}{}{Co takiego?}
+{27909}{}{Brzytwa jest nasz¹ przywódczyni¹. Nie mam najmniejszych w¹tpliwoœci, ¿e z jej pomoc¹ w koñcu pokonamy Rozpruwaczy.}
+{27910}{}{To daleko na wschód st¹d. Podobno mieszkaj¹ tam ghule ¿ywi¹ce siê ludzkim miêsem. Biada tym, którzy musz¹ z nimi walczyæ.}
+{27911}{}{To podobno ruiny po jakiejœ bazie, która zosta³a bezpoœrednio trafiona bomb¹ atomow¹. Wydaje mi siê, ¿e to daleko na po³udniu.}
+{27912}{}{To s¹ Gruzy.}
+# ======================================================================
+
+
+#
+# LARIPPER.MAP (28000)
+#
+#
+
+#======================================================================
+#
+#RIPPERS
+#
+#The Rippers will not engage in dialog, and thus have no
+#tell-me-abouts.
+#
+#======================================================================
+
+
+#
+# LAGUNRUN.MAP (28600)
+#
+#
+
+# ======================================================================
+# GUN RUNNERS
+#Info Level 1 [People who know nothing]
+{28600}{}{Adytum}
+{28601}{}{Uczniowie}
+{28602}{}{Katedra}
+{28603}{}{Rozpruwacze}
+{28604}{}{Ostrza}
+{28605}{}{Handlarze Broni¹}
+{28606}{}{Hub}
+{28607}{}{Z³omowo}
+{28608}{}{Hydroprocesor}
+{28609}{}{Gruzy}
+{28700}{}{To ma³a wioska na po³udnie st¹d.}
+{28701}{}{To banda hipisów; mieszkaj¹ na po³udnie st¹d.}
+{28702}{}{Masz na myœli tych kolesi w br¹zowych habitach?}
+{28703}{}{To bardzo niebezpieczny gang; ma siedzibê na zachód st¹d.}
+{28704}{}{To bardzo ob³udny gang maj¹cy siedzibê na wschód st¹d.}
+{28705}{}{Tak? S³ucham?}
+{28706}{}{Kupujemy od nich broñ, a potem sprzedajemy j¹ bezpoœrednio tobie!}
+{28707}{}{Taak, to ma³e miasteczko na pó³noc od Hub.}
+{28708}{}{Co takiego?}
+{28709}{}{To s¹ Gruzy.}
+
+# Info Level 2 [People who know something]
+{28800}{}{Adytum}
+{28801}{}{Uczniowie}
+{28802}{}{Katedra}
+{28803}{}{Rozpruwacze}
+{28804}{}{Ostrza}
+{28805}{}{Handlarze Broni¹}
+{28806}{}{Hub}
+{28807}{}{Z³omowo}
+{28808}{}{Hydroprocesor}
+{28809}{}{Gruzy}
+{28900}{}{To ma³a osada na po³udnie st¹d. Jest doœæ mocno ufortyfikowana.}
+{28901}{}{To banda pacyfistów, którzy ukrywaj¹ siê na po³udnie st¹d. Powinniœmy ich po prostu rozwaliæ.}
+{28902}{}{A tak, banda zwariowanych mnichów. S¹ szaleni. Maj¹ wielki koœció³ na po³udnie od Gruzów.}
+{28903}{}{Hej, mo¿e i s¹ g³upi, ale kupuj¹ mnóstwo broni!}
+{28904}{}{Zawsze u¿ywaj¹ tych dziwnych wibrono¿y w³asnej produkcji. Przyda³by mi siê taki jeden. Ale przynajmniej kupuj¹ trochê broni.}
+{28905}{}{W³aœnie z nami rozmawiasz.}
+{28906}{}{To du¿e centrum handlowe na wschodzie. Sprzedajemy kupcom z Hub pancerze i broñ.}
+{28907}{}{To ma³e miasteczko na pó³noc od Hub. Trochê prymitywne.}
+{28908}{}{Pierwsze s³yszê.}
+{28909}{}{Jesteœmy w pó³nocnej czêœci Gruzów.}
+
+# Info level 3 [People who know more than something but less than everything]
+{29000}{}{Adytum}
+{29001}{}{Uczniowie}
+{29002}{}{Katedra}
+{29003}{}{Rozpruwacze}
+{29004}{}{Ostrza}
+{29005}{}{Handlarze Broni¹}
+{29006}{}{Hub}
+{29007}{}{Z³omowo}
+{29008}{}{Hydroprocesor}
+{29009}{}{Gruzy}
+{29100}{}{To ma³e miasteczko, które le¿y na po³udniu. Nie handluj¹ z nami. Obchodz¹ mnie tyle, co zesz³oroczny œnieg.}
+{29101}{}{Chowaj¹ siê w tej swojej bibliotece, na po³udnie st¹d i próbuj¹ nawróciæ wszystkich na pokojow¹ drogê ¿ycia. Nie pomagaj¹ nam w interesie!}
+{29102}{}{Dzieci Katedry maj¹ wielki koœció³ na po³udnie od Gruzów. To jakaœ dziwna sekta wyznaj¹ca Mrocznego Boga. Banda dziwaków.}
+{29103}{}{Rozpruwacze to jedna wielka rodzina, dos³ownie. Nie mo¿na z nimi rozmawiaæ, jeœli ciê nie znaj¹, wiêc nawet tego nie próbuj. Zajmuj¹ wielk¹ fortecê na po³udniowy - zachód od nas. Pe³no tam pu³apek. Jeœli chcesz tam zajrzeæ, to musisz uwa¿aæ na miny.}
+{29104}{}{Na po³udniowym wschodzie przerobili na domy kilka ma³ych budynków. S¹ dobrze zorganizowani i du¿o sprytniejsi ni¿ Rozpruwacze. Czasem dopuszczaj¹ w swoje szeregi kogoœ z zewn¹trz. Brzytwa, ich szefowa, to twarda zawodniczka.}
+{29105}{}{To my. Sprzedajemy Ostrzom i Rozpruwaczom broñ - jest z tego ca³kiem niez³y zarobek.}
+{29106}{}{To miasto handlowe le¿¹ce na wschodzie. Stamt¹d bierzemy broñ i inne towary. Wysy³aj¹ karawany niemal wszêdzie. Myœlê, ¿e jak siê jakaœ pojawi w Adytum, to mo¿e pozwol¹ ci do niej do³¹czyæ.}
+{29107}{}{To niewielkie miasteczko na pó³noc od Hub. Maj¹ tam wspania³e kasyno, ale tamtejszy szeryf trochê przesadza.}
+{29108}{}{Nie mam pojêcia o czym mówisz.}
+{29109}{}{To pó³nocna czêœæ Gruzów. Ludziom z zewn¹trz ta nazwa kojarzy siê z cmentarzyskiem, ale nie jest tu a¿ tak Ÿle. Mo¿na siê przyzwyczaiæ.}
+# ======================================================================
+
+
+# CHILDEAD.MAP (29200)
+
+# MBDEAD.MAP (29800)
+
+# MOUNTN1.MAP (30400)
+# MOUNTN2.MAP (31000)
+# FOOT.MAP (31600)
+# TARDIS.MAP (32200)
+# TALKCOW.MAP (32800)
+# USEDCAR.MAP (33400)
+# BRODEAD.MAP (34000)
+# DESCRVN1.MAP (34600)
+# DESCRVN2.MAP (35200)
+# MNTCRVN1.MAP (35800)
+# MNTCRVN2.MAP (36400)

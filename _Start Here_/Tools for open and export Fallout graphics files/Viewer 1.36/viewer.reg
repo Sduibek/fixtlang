@@ -1,0 +1,91 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\.bmp]
+@="bmp_auto_file"
+
+[HKEY_CLASSES_ROOT\bmp_auto_file]
+@="Τΰιλ 'BMP'"
+
+[HKEY_CLASSES_ROOT\bmp_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\bmp_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\bmp_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\.gif]
+@="gif_auto_file"
+
+[HKEY_CLASSES_ROOT\gif_auto_file]
+@="Τΰιλ 'GIF'"
+
+[HKEY_CLASSES_ROOT\gif_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\gif_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\gif_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\.jpg]
+@="jpg_auto_file"
+
+[HKEY_CLASSES_ROOT\jpg_auto_file]
+@="Τΰιλ 'JPG'"
+
+[HKEY_CLASSES_ROOT\jpg_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\jpg_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\jpg_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\.rix]
+@="rix_auto_file"
+
+[HKEY_CLASSES_ROOT\rix_auto_file]
+@="Τΰιλ 'RIX'"
+
+[HKEY_CLASSES_ROOT\rix_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\rix_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\rix_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\.FRM]
+@="FRM_auto_file"
+
+[HKEY_CLASSES_ROOT\FRM_auto_file]
+@="Τΰιλ 'FRM'"
+
+[HKEY_CLASSES_ROOT\FRM_auto_file\shell]
+
+[HKEY_CLASSES_ROOT\FRM_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\FRM_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\.mve]
+@="mve_auto_file"
+
+[HKEY_CLASSES_ROOT\mve_auto_file]
+@="Τΰιλ 'MVE'"
+"EditFlags"=hex:00,00,00,00
+
+[HKEY_CLASSES_ROOT\mve_auto_file\shell]
+@=""
+
+[HKEY_CLASSES_ROOT\mve_auto_file\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\mve_auto_file\shell\open\command]
+@="\"C:\\Program Files\\viewer\\viewer.exe\" "%1""
+
+[HKEY_CLASSES_ROOT\mve_auto_file\DefaultIcon]
+@="C:\\Program Files\\viewer\\viewer.exe,1"
+

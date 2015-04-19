@@ -1,0 +1,1 @@
+{100}{}{Unless it has been looted, there should be an uzi around here somewhere. }

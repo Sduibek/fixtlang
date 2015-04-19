@@ -1,0 +1,431 @@
+{100}{}{Mieszkaniec Krypty}
+{101}{}{}
+{200}{}{Mieszczanin}
+{201}{}{Jest to mê¿czyzna odziany w skórzany strój ochronny}
+{300}{}{Mieszczanin}
+{301}{}{Jest to mê¿czyzna odziany w ciê¿ki, stalowy pancerz.}
+{400}{}{Frajer}
+{401}{}{Ju¿ na pierwszy rzut oka widaæ, ¿e jest to kompletna ¿yciowa pora¿ka.}
+{500}{}{Rolnik}
+{501}{}{}
+{600}{}{Mieszkaniec Krypty}
+{601}{}{}
+{700}{}{pancerz wspomagany}
+{800}{}{Opiekun Krypty}
+{900}{}{Supermutant}
+{901}{}{}
+{1000}{}{Wiêkszy Kretoszczur}
+{1001}{}{}
+{1100}{}{Radskorpion}
+{1101}{}{Radskorpion}
+{1200}{}{Osoba w habicie}
+{1300}{}{Kupiec}
+{1301}{}{}
+{1400}{}{Stra¿nik Zombi}
+{1401}{}{}
+{1500}{}{Kobieta w pancerzu bojowym}
+{1600}{}{Œwiec¹cy}
+{1601}{}{}
+{1700}{}{Mê¿czyzna w skórzanej kurtce}
+{1800}{}{Rolnik}
+{1900}{}{Kobieta w skórzanej kurtce}
+{2000}{}{Rolnik}
+{2100}{}{Mê¿czyzna w pancerzu bojowym}
+{2200}{}{Mieszczka}
+{2201}{}{Jest to kobieta odziana w atrakcyjny, stalowy pancerz.}
+{2300}{}{Supermutant porucznik}
+{2301}{}{}
+{2400}{}{Mieszczka}
+{2401}{}{Jest to kobieta odziana w skórzany pancerz.}
+{2500}{}{Mroczny}
+{2501}{}{}
+{2600}{}{Mieszkaniec Krypty}
+{2601}{}{}
+{2700}{}{Stra¿nik}
+{2800}{}{Bramin}
+{2801}{}{Jest to dwug³owa krowa-mutant.}
+{2900}{}{Rolnik}
+{3000}{}{Rolnik}
+{3100}{}{Mê¿czyzna w skórzanym pancerzu}
+{3200}{}{Rolnik}
+{3201}{}{}
+{3300}{}{Mieszkaniec}
+{3301}{}{}
+{3400}{}{Mieszkaniec Krypty}
+{3500}{}{Mieszkaniec Krypty}
+{3501}{}{}
+{3600}{}{Pies}
+{3601}{}{Jest to canis canis, prawdopodobnie mieszaniec.}
+{3700}{}{Kobieta}
+{3800}{}{Mê¿czyzna}
+{3900}{}{Rolnik}
+{3901}{}{}
+{4000}{}{Rolnik}
+{4001}{}{}
+{4100}{}{Osoba w pancerzu wspomaganym}
+{4200}{}{Ch³opiec}
+{4201}{}{}
+{4300}{}{Mniejszy Centaur}
+{4301}{}{}
+{4400}{}{Pan Z³ota R¹czka}
+{4500}{}{Wisielec}
+{4501}{}{}
+{4600}{}{Skryba}
+{4700}{}{Opiekun}
+{4800}{}{Szczur Jaskiniowy}
+{4801}{}{}
+{4900}{}{Gizmo}
+{5000}{}{Mistrz}
+{5100}{}{Szpon Œmierci}
+{5101}{}{}
+{5200}{}{Technik}
+{5201}{}{}
+{5300}{}{Technik}
+{5301}{}{}
+{5400}{}{Technik}
+{5401}{}{}
+{5500}{}{Stra¿nik}
+{5501}{}{}
+{5600}{}{Stra¿nik}
+{5601}{}{}
+{5700}{}{Stra¿nik}
+{5800}{}{Technik}
+{5801}{}{}
+{5900}{}{Mieszkaniec}
+{5901}{}{}
+{6000}{}{W³óczêga}
+{6001}{}{}
+{6100}{}{Robotnik}
+{6101}{}{}
+{6200}{}{Uczeñ Katedry}
+{6201}{}{}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Kupiec}
+{6601}{}{}
+{6700}{}{Stra¿nik}
+{6701}{}{}
+{6800}{}{Modliszka}
+{6801}{}{}
+{6900}{}{Robomózg}
+{7000}{}{NajeŸdŸca}
+{7100}{}{Mieszkaniec}
+{7101}{}{}
+{7200}{}{Mieszkaniec}
+{7201}{}{}
+{7300}{}{Doradca Garla}
+{7400}{}{Mieszkaniec}
+{7401}{}{}
+{7500}{}{NajeŸdŸca}
+{7600}{}{Ian}
+{7700}{}{Lewituj¹ce Oko}
+{7800}{}{Œwinioszczur}
+{7801}{}{}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Podró¿nik}
+{8201}{}{}
+{8300}{}{Mieszkaniec}
+{8301}{}{}
+{8400}{}{Mieszkaniec}
+{8401}{}{}
+{8500}{}{Podró¿nik}
+{8501}{}{}
+{8600}{}{Rolnik}
+{8601}{}{}
+{8700}{}{Mieszkaniec}
+{8701}{}{}
+{8800}{}{Kupiec}
+{8801}{}{}
+{8900}{}{Wêdrowiec}
+{8901}{}{}
+{9000}{}{Stra¿nik}
+{9001}{}{}
+{9100}{}{Farmer}
+{9101}{}{}
+{9200}{}{Kupiec}
+{9201}{}{}
+{9300}{}{Rolnik}
+{9301}{}{}
+{9400}{}{Neal}
+{9500}{}{Rolnik}
+{9501}{}{}
+{9600}{}{Robotnik}
+{9601}{}{}
+{9700}{}{Kupiec}
+{9800}{}{Rolnik}
+{9801}{}{}
+{9900}{}{Zbir}
+{9901}{}{}
+{10000}{}{Wêdrowiec}
+{10001}{}{}
+{10100}{}{Dzieciê Katedry}
+{10200}{}{Vinnie}
+{10201}{}{}
+{10300}{}{Podró¿nik}
+{10301}{}{}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Ghul}
+{10601}{}{}
+{10700}{}{Mroczny}
+{10701}{}{}
+{10800}{}{Twardy Supermutant}
+{10801}{}{}
+{10900}{}{Ghul}
+{10901}{}{}
+{11000}{}{Ghul z podziemia}
+{11001}{}{}
+{11100}{}{Dan}
+{11200}{}{Szeryf Greene}
+{11300}{}{Zastêpca Fry}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Wie¿owiec}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Och³ap}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Brzytwa}
+{13000}{}{Pl¹tacz}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Fala}
+{13600}{}{Biczownik}
+{13700}{}{Barracus}
+{13800}{}{Jeremiasz}
+{13900}{}{Supermutant Sanitariusz}
+{14000}{}{Gideon}
+{14001}{}{Jego d³onie jarz¹ siê dziwn¹ energi¹.}
+{14100}{}{Dominic}
+{14101}{}{Dziwna energia p³onie w jego oczach.}
+{14200}{}{Lucy}
+{14201}{}{Jej g³owa jarzy siê dziwn¹ energi¹.}
+{14300}{}{Zêbol}
+{14301}{}{Niewielkie iskierki energii wêdruj¹ po jego ciele.}
+{14400}{}{Z³oœliwiec}
+{14500}{}{Supermutant porucznik}
+{14600}{}{Laura}
+{14700}{}{Morfeusz}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Kafar}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Twardy Szczur}
+{15901}{}{}
+{16000}{}{Radoszczur}
+{16001}{}{}
+{16100}{}{Twardy Radoszczur}
+{16101}{}{}
+{16200}{}{Mniejszy Kretoszczur}
+{16201}{}{}
+{16300}{}{Kojot}
+{16301}{}{}
+{16400}{}{Du¿y Bramin}
+{16401}{}{}
+{16500}{}{Pomiot Szpona Œmierci}
+{16501}{}{}
+{16600}{}{Wredny Radskorpion}
+{16601}{}{}
+{16700}{}{Wredny Wisielec}
+{16701}{}{}
+{16800}{}{Wiêkszy Centaur}
+{16801}{}{}
+{16900}{}{Ubogi Rolnik}
+{16901}{}{}
+{17000}{}{Rolnik}
+{17001}{}{}
+{17100}{}{Farmer}
+{17101}{}{}
+{17200}{}{Robotnik}
+{17201}{}{}
+{17300}{}{Farmer}
+{17301}{}{}
+{17400}{}{Kupiec}
+{17401}{}{}
+{17500}{}{Stra¿nik}
+{17501}{}{}
+{17600}{}{Wielka Modliszka}
+{17601}{}{}
+{17700}{}{Wredny Œwinioszczur}
+{17701}{}{}
+{17800}{}{Farmer}
+{17801}{}{}
+{17900}{}{Robotnik}
+{17901}{}{}
+{18000}{}{Kupiec}
+{18001}{}{}
+{18100}{}{Stra¿nik}
+{18101}{}{}
+{18200}{}{Œwiec¹cy}
+{18201}{}{}
+{18300}{}{Szalony Œwiec¹cy}
+{18301}{}{}
+{18400}{}{Zombi}
+{18401}{}{}
+{18500}{}{Stra¿nik}
+{18501}{}{}
+{18600}{}{Supermutant stra¿nik}
+{18601}{}{}
+{18700}{}{Wredny Supermutant}
+{18701}{}{}
+{18800}{}{Szalony Supermutant}
+{18900}{}{Morderczy Supermutant}
+{19000}{}{Twardy Mroczny}
+{19001}{}{}
+{19100}{}{Morderczy Mroczny}
+{19101}{}{}
+{19200}{}{Supermroczny}
+{19300}{}{Mroczny Mistrz}
+{19301}{}{}
+{19400}{}{Stra¿nik}
+{19401}{}{}
+{19500}{}{Kupiec}
+{19501}{}{}
+{19600}{}{Stra¿nik}
+{19601}{}{}
+{19700}{}{Stra¿nik}
+{19701}{}{}
+{19800}{}{Stra¿nik}
+{19801}{}{}
+{19900}{}{Dziewczynka}
+{19901}{}{}
+{20000}{}{Skryba}
+{20100}{}{Stra¿nik}
+{20101}{}{}
+{20200}{}{Wêdrowiec}
+{20201}{}{}
+{20300}{}{Zbir}
+{20301}{}{}
+{20400}{}{Najemnik}
+{20401}{}{}
+{20500}{}{Stra¿nik}
+{20501}{}{}
+{20600}{}{Mieszkaniec Krypty}
+{20700}{}{Garl}
+{20800}{}{Dr Kostucha}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Podró¿nik}
+{21700}{}{Wêdrowiec}
+{21800}{}{Zbir}
+{21900}{}{Najemnik}
+{22000}{}{Stra¿nik}
+{22100}{}{Mieszkaniec}
+{22200}{}{Wêdrowiec}
+{22300}{}{Zbir}
+{22400}{}{Najemnik}
+{22500}{}{Stra¿nik}
+{22600}{}{Mieszkaniec}
+{22700}{}{Podró¿nik}
+{22800}{}{Wêdrowiec}
+{22900}{}{Zbir}
+{23000}{}{Najemnik}
+{23100}{}{Stra¿nik}
+{23200}{}{Mieszkaniec}
+{23300}{}{Podró¿nik}
+{23400}{}{Najemnik}
+{23500}{}{Stra¿nik}
+{23600}{}{Podró¿nik}
+{23700}{}{Wêdrowiec}
+{23800}{}{Zbir}
+{23900}{}{Najemnik}
+{24000}{}{Stra¿nik}
+{24100}{}{Zbir}
+{24200}{}{Najemnik}
+{24300}{}{Stra¿nik}
+{24400}{}{Podró¿nik}
+{24500}{}{Wêdrowiec}
+{24600}{}{Zbir}
+{24700}{}{Najemnik}
+{24800}{}{Stra¿nik}
+{24900}{}{Podró¿nik}
+{25000}{}{Wêdrowiec}
+{25100}{}{Zbir}
+{25200}{}{Najemnik}
+{25300}{}{Stra¿nik}
+{25400}{}{Podró¿nik}
+{25500}{}{Wêdrowiec}
+{25600}{}{Zbir}
+{25700}{}{Najemnik}
+{25800}{}{Stra¿nik}
+{25900}{}{Podró¿nik}
+{26000}{}{Wêdrowiec}
+{26100}{}{Zbir}
+{26200}{}{Najemnik}
+{26300}{}{Stra¿nik}
+{26400}{}{Kadet}
+{26500}{}{Giermek}
+{26600}{}{M³odszy Rycerz}
+{26700}{}{Rycerz}
+{26800}{}{Starszy Rycerz}
+{26900}{}{Kadet}
+{27000}{}{Giermek}
+{27100}{}{M³odszy Rycerz}
+{27200}{}{Rycerz}
+{27300}{}{Starszy Rycerz}
+{27400}{}{M³odszy Paladyn}
+{27500}{}{Paladyn}
+{27600}{}{Starszy Paladyn}
+{27700}{}{M³odszy Paladyn}
+{27800}{}{Paladyn}
+{27900}{}{Starszy Paladyn}
+{28000}{}{Skryba Nowicjusz}
+{28100}{}{Skryba Uczeñ}
+{28200}{}{Skryba Czeladnik}
+{28300}{}{Skryba}
+{28400}{}{Starszy Skryba}
+{28500}{}{Skryba Nowicjusz}
+{28600}{}{Skryba Uczeñ}
+{28700}{}{Skryba Czeladnik}
+{28800}{}{Skryba}
+{28900}{}{Starszy Skryba}
+{29000}{}{Mê¿czyzna w habicie}
+{29100}{}{Dzieciê Mistrza}
+{29200}{}{Uczeñ Katedry}
+{29300}{}{Kobieta w habicie}
+{29400}{}{Dzieciê Mistrza}
+{29500}{}{Pupil Mistrza}
+{29600}{}{Zbir Mistrza}
+{29700}{}{Stra¿nik Mistrza}
+{29800}{}{Pupil Mistrza}
+{29900}{}{Zbir Mistrza}
+{30000}{}{Stra¿nik Mistrza}
+{30100}{}{Lekarz}
+{30200}{}{Katja}
+{30300}{}{Sasza}
+{30301}{}{Widzisz sukê rasy Siberian Husky, czekaj¹c¹ cierpliwie na swego pana.}
+{30400}{}{Tajemniczy Wêdrowiec}
+{30500}{}{Bezmyœlny Ghul}
+{30600}{}{Ga³a II}
+{30700}{}{Jajo}
+{30701}{}{Jajo Szpona Œmierci}
+{30800}{}{Dugan}
+{30900}{}{Maciora Szpona Œmierci}
+{31000}{}{M³ot}
+{31100}{}{martwy podró¿nik}
+{31200}{}{Kenji}

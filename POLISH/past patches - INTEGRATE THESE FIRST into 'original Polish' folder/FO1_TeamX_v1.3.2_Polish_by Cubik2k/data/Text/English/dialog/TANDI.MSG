@@ -1,0 +1,161 @@
+{100}{}{Widzisz Tandi.}
+{101}{}{Co jeszcze znajdê w tej okolicy?}
+{102}{}{Co siê dzieje w okolicy?}
+{103}{}{S³ysza³aœ jakieœ opowieœci z po³udnia?}
+{104}{}{Jak ci siê tu podoba?}
+{105}{}{To by by³o na tyle. Dziêkujê za poœwiêcenie mi czasu.}
+{106}{TAND_1}{Czeœæ! S³ysza³am, ¿e w mieœcie pojawi³ siê jakiœ wêdrowiec, ale by³am do tego nastawiona sceptycznie - a¿ do teraz. Nazywam siê Tandi, a ty?}
+{107}{}{Nazywam siê }
+{108}{}{.}
+{109}{}{Moje imiê brzmi }
+{110}{}{. Lepiej je zapamiêtaj.}
+{111}{}{Eee?}
+{112}{tand_2}{Jak ci siê podoba nasza ma³a mieœcina? Ju¿ siê nudzisz?}
+{113}{}{Jest w porz¹dku. Mogê ci zadaæ kilka pytañ?}
+{114}{}{Jasne. Tu nie ma nic do roboty - z wyj¹tkiem ogl¹dania braminów tego goœcia.}
+{115}{}{Chyba jest w porz¹dku.}
+{116}{}{Eee...tak. Jest tu trochê nudno.}
+{117}{TAND_3}{Chyba tak. Nigdy nie opuœci³am tego miejsca, wiêc nie wiem, w czym mogê pomóc. Czego ci potrzeba?}
+{118}{TAND_4}{Taa. Ty tu nie mieszkasz. Nie ma nic ciekawego do roboty, a wkurzanie braminów szybko siê nudzi.}
+{119}{}{Skoro jesteœ taka znudzono, to dlaczego nie wyjedziesz?}
+{120}{}{Na pewno przesadzasz.}
+{121}{}{Wydaje mi siê, ¿e tu jest mi³o i bezpiecznie.}
+{122}{TAND_5}{Ja i wyjazd? Chcia³abym. Za ma³o wiem, ¿eby wyruszyæ sama, a nikt inny nie chce siê st¹d ruszyæ. Co najgorsze, mój ojciec mówi, ¿e jeœli coœ mi siê stanie, to dostanie zawa³u!}
+{123}{}{Ciê¿ka sytuacja. Mogê ci zadaæ kilka pytañ?}
+{124}{}{Kurcze, muszê lecieæ. Powodzenia.}
+{125}{TAND_6}{Eee...Muszê tu teraz postaæ.}
+{126}{TAND_12}{To prze¿yj tu ca³e swoje ¿ycie i wtedy siê przekonamy! Chcesz wiedzieæ jeszcze coœ?}
+{127}{TAND_13}{Taak, baaardzo bezpiecznie... I tak nudno, ¿e mój mózg chyba zaraz wyp³ynie mi przez ucho.}
+{128}{}{Dlaczego wiêc nie wyjedziesz?}
+{129}{}{Przykro mi to s³yszeæ, ale nie mam zbyt wiele czasu. Mogê ci zadaæ kilka pytañ?}
+{130}{TAND_14}{Nareszcie! Ktoœ oprócz mnie, kto rozumie! Z pewnoœci¹ uda³o ci siê zwiedziæ ju¿ wszystko, wiêc musi to byæ dla ciebie piek³o.}
+{131}{}{Skoro jesteœ taka znudzono, to dlaczego nie wyjedziesz?}
+{132}{}{Na pewno przesadzasz.}
+{133}{}{Wydaje mi siê, ¿e tu jest mi³o i bezpiecznie.}
+{134}{TAND_15}{Z³omowo znajduje siê na po³udniowy zachód st¹d, ale nie wiem, jak daleko. Dalej znajduje siê dziwne miejsce, zwane Miastem Œmierci. A, i jeszcze jedno...Jak to siê ono nazywa³o? O tak, Hub.}
+{135}{tand_15a}{Na po³udnie st¹d jest kilka miast, Ale jestem pewna, ¿e tak wielki podró¿nik ju¿ je zna.}
+{136}{}{Dziêki.}
+{137}{TAND_16}{Nie ma sprawy. Coœ jeszcze?}
+
+# "300 tand_16a OK, cokolwiek." Wrong number! Removed with patch 1.3 from TeamX.
+
+{138}{TAND_20}{Mamy radskorpiony! Wiem, ¿e to nie jest coœ dobrego, ale nikt jeszcze nie umar³ od ich uk³uæ. Niestety, to nasza najwiêksza rozrywka, zak³adaj¹c, ¿e mo¿na je nazwaæ rozrywk¹!}
+{139}{TAND_21}{Nie bardzo, odk¹d uda³o ci siê wykoñczyæ wszystkie radskorpiony. Szkoda, ¿e tego nie widzia³am.}
+{140}{TAND_22}{To samo, co zwykle. Nuuuuuuda.}
+{142}{tand_23b}{A, takie tam.}
+{141}{tand_23g}{Najdziwniejsza, jak¹ s³ysza³am, jest opowieœæ o tym Szponie Œmierci.}
+{143}{}{Dziêki.}
+{144}{}{Szponie Œmierci?}
+{145}{TAND_24}{Chyba w porz¹dku. Tak, to jest mój dom i tak dalej, ale tak tu nudno! Chcê poznaæ trochê œwiata!}
+{146}{}{Skoro jesteœ taka znudzono, to dlaczego nie wyjedziesz?}
+{147}{}{Eee, nie mo¿e byæ a¿ tak Ÿle.}
+{148}{}{Wydaje mi siê, ¿e tu jest mi³o i bezpiecznie.}
+{150}{tand_27f}{S³uchaj...eee...ale ja...eee...j-ja lubiê facetów, dobra? Uff! Eee, wybacz, mam sporo roboty.}
+{149}{tand_27m}{Ja nie jestem taka, koleœ. ZnajdŸ sobie bramina albo co.}
+{151}{TAND_28}{Dziêki za rozmowê. Nie przybywa tu wielu podró¿ników, wiêc zawsze mi³o siê rozmawia z nowymi. Do zobaczenia!}
+{152}{}{Czeœæ.}
+{153}{TAND_29}{Pos³uchaj Muszê siê zaj¹æ braminami. Mi³o siê z tob¹ rozmawia³o...}
+{154}{tand_30a}{Witaj ponownie! W czym ci mogê pomóc?}
+{155}{}{Mogê ci zadaæ jeszcze kilka pytañ?}
+{156}{}{W niczym. ¯egnam.}
+{157}{TAND_35}{Eee...dziêki. Do zobaczenia.}
+{158}{TAND_36}{Czeœæ! Ba³am siê, ¿e ju¿ ciê tu nie ma i ¿e nie zd¹¿ê ci podziêkowaæ za uratowanie mnie. Ach! To by³o wspania³e! Akcja, przygoda...W ka¿dym razie, jeœli jest coœ, co mogê dla ciebie zrobiæ, to mów œmia³o.}
+{159}{}{Mo¿e jeszcze kilka pytañ?}
+{160}{}{A mo¿e byœmy...eee...no wiesz...lepiej siê poznali?}
+{161}{}{To chyba wszystko, dziêki.}
+{162}{}{Dung!!}
+{163}{TAND_37}{Kim jesteœ? Czego chcesz?}
+{164}{}{Nazywam siê}
+{165}{}{, przys³a³ mnie twój ojciec.}
+{166}{}{Jestem dobr¹ wró¿k¹. A na co ci to wygl¹da?}
+{167}{}{Da.}
+{168}{TAND_38}{Ojciec ciê przys³a³? Przybywasz, aby mnie st¹d wydostaæ?}
+{169}{}{Owszem - trochê cierpliwoœci. Wyci¹gnê ciê st¹d.}
+{170}{}{Nie, mam ciê tylko znaleŸæ.}
+{171}{TAND_39}{Jaki masz plan?}
+{172}{}{Czekaj, a¿ siê otworz¹ drzwi. Gdy tak siê stanie, biegnij, ile si³ w nogach!}
+{173}{}{Bêdê walczyæ z wodzem Chanów w zamian za twoj¹ wolnoœæ.}
+{174}{TAND_40}{To wszystko? To jest twój plan? Eeech... Dobra. Tylko siê pospiesz. S³ysza³am ich rozmowy i nie podoba mi siê to, co planuj¹.}
+{175}{TAND_41}{Ty? Walczyæ? Z nim? Chyba ¿artujesz! Eeech...Daj mi znaæ, jeœli wymyœlisz coœ lepszego.}
+{176}{TAND_42}{Myœlisz, ¿e masz œwietne poczucie humoru, co? Wyci¹gniesz mnie, czy nie?}
+{177}{}{Tak. SiedŸ spokojnie i biegnij, gdy otworz¹ siê drzwi.}
+{178}{}{Bêdê walczyæ z wodzem Chanów w zamian za twoj¹ wolnoœæ.}
+{179}{TAND_43}{A, to znowu ty! Wyci¹gniesz mnie st¹d?}
+{180}{}{Owszem - trochê cierpliwoœci. Wyci¹gnê ciê st¹d.}
+{181}{}{Nie, chcê tylko powiedzieæ 'czeœæ'.}
+{182}{}{Da.}
+{183}{tand_43a}{Hej, jest tam kto? Mo¿esz mnie st¹d wyci¹gn¹æ? Mo¿esz mnie ST¥D WYCI¥GN¥Æ?}
+{184}{tand_43b}{Nie ma czasu na gadanie, musimy siê st¹d wyrwaæ.}
+{185}{TAND_44}{Aradesh to mój ojciec. Jest w porz¹dku, o ile ojciec mo¿e byæ w porz¹dku.}
+{186}{TAND_45}{To ja. Tylko i wy³¹cznie.}
+{187}{TAND_46}{Razlo to staruszek mieszkaj¹cy we wschodniej czêœci miasta. Niez³y z niego doktor, nawet, jeœli jest zasuszony, niczym szkielet.}
+{188}{TAND_47}{Seth to kapitan stra¿y. Ojciec próbowa³ nas kiedyœ wyswataæ, ale nie jest w moim typie.}
+{189}{TAND_48}{Agatha jest tutaj najstarsza. Wszyscy j¹ kochamy, zw³aszcza jej opowieœci. Udaj siê do niej, jeœli chcesz us³yszeæ coœ ciekawego.}
+{190}{TAND_49}{Podobno to jakieœ wredne typy. Ojciec wie o nich wiêcej. Nigdy nie mówi mi zbyt wiele o œwiecie.}
+{191}{TAND_50}{To stamt¹d bierzemy wodê. Sta³a tam ju¿ przed moimi narodzinami.}
+{192}{TAND_51}{Naprawdê widzia³am jednego, co prawda z daleka. To pod³e istoty - maj¹ szczypce i wielkie ¿¹d³o. Ich trucizna mo¿e siê okazaæ œmiertelna, je¿eli nie jest leczona. Musisz pomówiæ z moim ojcem, Aradeshem - on wie o nich wiêcej.}
+{193}{TAND_52}{S³ysza³am opowieœci wêdrowca z po³udnia. Mówi³, ¿e Szpon Œmierci to stworzenie, które morduje w nocy ludzi. Mówi³ te¿, ¿e nikt go nie mo¿e z³apaæ, gdy¿ znika, niczym dym. Oczywiœcie w to nie wierzê.}
+{194}{TAND_53}{Z³omowo to ma³e miasto na po³udniowym wschodzie. Podobno nieŸle idzie im handel, ale mój ojciec nie chce o tym s³yszeæ. Mówi, ¿e musimy pozostaæ 'pod ochron¹'. Akurat. Raczej 'w klatce'.}
+{195}{TAND_54}{Hub to podobno wielkie miasto na po³udniu. Zawsze je chcia³am zobaczyæ, ale nie mia³am okazji.}
+{196}{TAND_55}{Nie wiem, ale goœæ, który mi o nim opowiada³ by³ bardzo przestraszony. Mówi³, ¿e nieumarli chodz¹ tam po ulicach!}
+{197}{TAND_62}{Nie wiem. Mo¿esz siê jednak o to spytaæ Setha albo mojego ojca.}
+{198}{TAND_63}{Hmm...Nic mi siê nie kojarzy.}
+{199}{TAND_64}{Hm...nie. Nigdy o tym nie s³ysza³am.}
+{200}{TAND_65}{Hej! Co ty sobie wyobra¿asz? Od³ó¿ to!}
+{201}{TAND_66}{Doœæ tego! Powiem ojcu!}
+{202}{TAND_67}{Co ty wyrabiasz? Przestañ!}
+{203}{TAND_68}{Co ty tu robisz? Lepiej st¹d idŸ zanim obudzi siê ojciec.}
+{204}{TAND_69}{Tak, jak mówi³am...}
+{205}{TAND_70}{S³uchaj, ju¿ ci mówi³am...}
+{206}{TAND_71}{Znowu? Hej? Ile razy mam ci powtarzaæ? Uszu nie myjesz, czy co?}
+{207}{TAND_72}{S³ysza³am o tym, ale lepiej pomów z Agath¹. Wie wiêcej ode mnie.}
+{208}{}{Wynoœmy siê st¹d.}
+{300}{}{Wow! To miejsce w niczym nie przypomina Cienistych Piasków.}
+{301}{}{Hej, co to jest?}
+{302}{}{Nie mogê siê doczekaæ, a¿ opowiem ludziom z Cienistych Piasków o œwiecie.}
+{303}{}{Uda³o ci siê zobaczyæ jeszcze jakieœ radskorpiony?}
+{304}{}{Gdzie idziemy?}
+{305}{}{Kiedy tam dotrzemy?}
+{980}{TAND_62}{Nie wiem. Mo¿esz siê jednak o to spytaæ Setha albo mojego ojca.}
+{981}{TAND_63}{Hmm...Nic mi siê nie kojarzy.}
+{982}{TAND_64}{Hm...nie. Nigdy o tym nie s³ysza³am.}
+{1000}{}{Aradesh}
+{1001}{}{Tandi}
+
+# "1002 Razlo" Wrong number! Removed with patch 1.3 from TeamX.
+
+{1002}{}{Seth}
+{1003}{}{Bandyci}
+{1004}{}{Studnia}
+{1005}{}{Skorpiony}
+{1006}{}{Szpon}
+{1007}{}{Z³omowo}
+{1008}{}{Hub}
+{1009}{}{Miasto}
+{1010}{}{Skorpion}
+{1011}{}{Chanowie}
+
+# 1012 added with patch 1.3 from TeamX.
+{1012}{}{Razlo}
+
+
+
+{1100}{TAND_44}{Aradesh to mój ojciec. Jest w porz¹dku, o ile ojciec mo¿e byæ w porz¹dku.}
+{1101}{TAND_45}{To ja. Tylko i wy³¹cznie.}
+
+# "1102 TAND_46 Razlo to staruszek mieszkaj¹cy we wschodniej czêœci miasta. Niez³y z
+# "niego doktor, nawet, jeœli jest zasuszony, niczym szkielet." Wrong number! Removed with patch 1.3 from TeamX.
+
+{1102}{TAND_47}{Seth to kapitan stra¿y. Ojciec próbowa³ nas kiedyœ wyswataæ, ale nie jest w moim typie.}
+{1103}{TAND_49}{To jakieœ wredne typy, przynajmniej tak s³ysza³am. Mój ojciec wie o nich wiêcej. Nigdy nie mówi mi zbyt wiele o œwiecie.}
+{1104}{TAND_50}{To stamt¹d bierzemy wodê. Sta³a tam ju¿ przed moimi narodzinami.}
+{1105}{TAND_51}{Naprawdê widzia³am jednego, co prawda z daleka. To pod³e istoty - maj¹ szczypce i wielkie ¿¹d³o. Ich trucizna mo¿e siê okazaæ œmiertelna, je¿eli nie jest leczona. Musisz pomówiæ z moim ojcem, Aradeshem - on wie o nich wiêcej.}
+{1106}{TAND_52}{S³ysza³am opowieœci wêdrowca z po³udnia. Mówi³, ¿e Szpon Œmierci to stworzenie, które morduje w nocy ludzi. Mówi³ te¿, ¿e nikt go nie mo¿e z³apaæ, gdy¿ znika, niczym dym. Oczywiœcie w to nie wierzê.}
+{1107}{TAND_53}{Z³omowo to ma³e miasto na po³udniowym wschodzie. Podobno nieŸle idzie im handel, ale mój ojciec nie chce o tym s³yszeæ. Mówi, ¿e musimy pozostaæ 'pod ochron¹'. Akurat. Raczej 'w klatce'.}
+{1108}{TAND_54}{Hub to podobno wielkie miasto na po³udniu. Zawsze je chcia³am zobaczyæ, ale nie mia³am okazji.}
+{1109}{TAND_55}{Nie wiem, ale goœæ, który mi o nim opowiada³ by³ bardzo Przestraszony. Mówi³, ¿e nieumarli chodz¹ tam po ulicach!}
+{1110}{TAND_51}{Naprawdê widzia³am jednego, co prawda z daleka. To pod³e istoty - maj¹ szczypce i wielkie ¿¹d³o. Ich trucizna mo¿e siê okazaæ œmiertelna, je¿eli nie jest leczona. Musisz pomówiæ z moim ojcem, Aradeshem - on wie o nich wiêcej.}
+{1111}{TAND_49}{To jakieœ wredne typy, przynajmniej tak s³ysza³am. Mój ojciec wie o nich wiêcej. Nigdy nie mówi mi zbyt wiele o œwiecie.}
+
+# 1112 added with patch 1.3 from TeamX.
+{1112}{TAND_46}{Razlo to staruszek mieszkaj¹cy we wschodniej czêœci miasta. Niez³y z niego doktor, nawet, jeœli jest zasuszony, niczym szkielet.}

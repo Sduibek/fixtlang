@@ -1,0 +1,1280 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+#
+# Special holiday dates
+#
+{100}{}{SzczÍúliwego Nowego Roku!} # New years
+{101}{}{SzczÍúliwego Dnia úw. Walentego!} # April fools
+{102}{}{Weso≥ego Prima Aprilis!} # April fools
+{103}{}{ } # Shipping day!
+{104}{}{SzczÍúliwego Dnia Niepodleg≥oúci!} # Independence day
+{105}{}{Weso≥ego Halloween!} # Halloween
+{106}{}{SzczÍúliwego Dnia DziÍkczynienia!} # Thanksgiving
+{107}{}{Weso≥ych åwiπt!} # X-mas
+
+#
+# System messages
+#
+{200}{}{WI CEJ}
+{201}{}{POWR”T}
+{202}{}{STATUS}
+{203}{}{Brak bieøπcych zadaÒ.}
+{204}{}{WSKAZ”WKI} # clues gone
+{205}{}{AUTOMAPY}
+{206}{}{ARCHIWA VIDEO}
+{207}{}{DANE}
+{208}{}{}
+{209}{}{}
+{210}{}{Status}
+{211}{}{DANE}
+{212}{}{/}
+{213}{}{Strona}
+{214}{}{KONIEC}
+{215}{}{Nie moøesz odpoczywaÊ w tym miejscu!}
+
+#
+# Alarm clock
+#
+{300}{}{BUDZIK}
+{301}{}{Punkty wytrzyma≥oúci}
+{302}{}{Odpoczynek dziesiÍciominutowy}
+{303}{}{Odpoczynek trzydziestominutowy}
+{304}{}{Odpoczynek godzinny}
+{305}{}{Odpoczynek dwugodzinny}
+{306}{}{Odpoczynek trzygodzinny}
+{307}{}{Odpoczynek czterogodzinny}
+{308}{}{Odpoczynek piÍciogodzinny}
+{309}{}{Odpoczynek szeúciogodzinny}
+{310}{}{Odpoczynek do rana (0600)}
+{311}{}{Odpoczynek do po≥udnia (1200)}
+{312}{}{Odpoczynek do wieczora (1800)}
+{313}{}{Odpoczynek do pÛ≥nocy (0000)}
+{314}{}{Odpoczynek do pe≥nego wyleczenia}
+
+#
+# Holodisk titles
+#
+{400}{}{Taúma z eksperymentu FEV}
+{401}{}{Taúma Ochrony}
+{402}{}{Taúma Staroøytnego Bractwa}
+{403}{}{Taúma z eksperymentu Alfa}
+{404}{}{Taúma z eksperymentu Delta}
+{405}{}{Taúma z eksperymentu Vree}
+{406}{}{Kodeks Honorowy Bractwa}
+{407}{}{Transmisja mutantÛw}
+{408}{}{Taúma Bractwa}
+{409}{}{Taúma Sophii}
+{410}{}{Dziennik kpt. Maxsona}
+{411}{}{PamiÍtnik Richarda Greya}
+{412}{}{PamiÍtnik kpt. Maxsona}
+{413}{}{Badania nad FEV}
+{414}{}{Spec. pancerza wspomaganego}
+{415}{}{Akta personelu badawczego}
+{416}{}{Przew. po Kryptach v34.129}
+{417}{}{Transmisja RegulatorÛw}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{Logo InterPlay}               # Not show in Pipboy
+{501}{}{Logo MacPlay}                 # MacPlay version,Not show in Pipboy
+{502}{}{WstÍp}                        # Not show in Pipboy
+{503}{}{Unicestwienie Kadzi}
+{504}{}{Unicestwienie Katedry}
+{505}{}{Odprawa Opiekuna}
+{506}{}{Brak wody w Krypcie 13}# Death
+{507}{}{Atak na KryptÍ 13}            # Death
+{508}{}{Odejúcie z Krypty}            # Man end
+{509}{}{Odejúcie z Krypty}            # Woman end
+{510}{}{Zanurzenie w Kadzi}           # Death
+{511}{}{Malejπcy zasÛb wody w Krypcie 13}
+{512}{}{NiedobÛr wody w Krypcie 13}
+{513}{}{Rae zabija Mistrza}
+
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{Status}
+{601}{}{Clues}  # Clues gone
+{602}{}{Automaps}
+{603}{}{Archives}
+{604}{}{Alarm Clock}
+{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{606}{}{Welcome to the Rob Co Pipboy 2000.}
+{607}{}{So long.}
+{608}{}{Wake up.}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1...9 thread/quest name
+#
+{700}{}{Krypta 13}
+{701}{}{Spacyfikuj buntownikÛw.}
+{702}{}{Wyeliminuj przywÛdcÍ mutantÛw.}
+{703}{}{Wyeliminuj ürÛd≥o mutantÛw.}
+{704}{}{Zdobπdü hydroprocesor.}
+{705}{}{Wykryj z≥odzieja wody.}
+#
+{710}{}{Krypta 15}
+#
+{720}{}{Cieniste Piaski}
+{721}{}{Wylecz Jarvisa z zatrucia jadem radskorpiona.}
+{722}{}{Sporzπdü antidotum na jad.}
+{723}{}{Ocal Tandi z rπk najeüdücÛw.}
+{724}{}{Powstrzymaj radskorpiony.}
+#
+{730}{}{Z≥omowo}
+{731}{}{PomÛø Saulowi.}
+{732}{}{Zabij Killiana.}
+{733}{}{Ocal SinthiÍ.}
+{734}{}{Ocal Trish.}
+{735}{}{Powstrzymaj Gizma}
+{736}{}{Rozbij Czachy.}
+#
+{740}{}{Chanowie}
+#
+{750}{}{Nekropolis}
+{751}{}{Wyeliminuj supermutantÛw przy Wododziale.}
+{752}{}{Napraw pompÍ wodnπ Nekropolis.}
+#
+{760}{}{Hub}
+{761}{}{Wyeliminuj Szpona åmierci.}
+{762}{}{Wyeliminuj Jain.}
+{763}{}{Wyeliminuj kupca.}
+{764}{}{Odnajdü zaginione karawany.}
+{765}{}{Ukradnij naszyjnik.}
+#
+{770}{}{Bractwo Stali}
+{771}{}{ZostaÒ kadetem.}
+{772}{}{Ocal kadeta z Hubu.}
+#
+{780}{}{Baza Wojskowa}
+#
+{790}{}{Blask}
+{791}{}{RozbrÛj pu≥apki na obszarze kompleksu.}
+{792}{}{Uruchom zasilanie kompleksu.}
+#
+{800}{}{Gruzy}
+{801}{}{ZostaÒ Ostrzem.}
+{802}{}{Dostarcz medalion w imieniu Romera.}
+{803}{}{Dostarcz przesy≥kÍ od ZbrojeniowcÛw.}
+{804}{}{Wykryj wúrÛd UczniÛw szpiega Dzieci.}
+{805}{}{Napraw hydroponiczne farmy Adytum.}
+{806}{}{Ocal Jasona Zimmermana.}
+{807}{}{Powstrzymaj gangi od atakowania Adytum.}
+#
+{810}{}{Katedra}
+
+
+#
+# Holodisk text
+#
+
+# *** FEV Experiment Disk ***
+{1000}{}{ï Raport z dnia 21 marca 2075}
+{1001}{}{Mjr. Barnett nakaza≥ podjπÊ eksperymenty z kulturπ}
+{1002}{}{10-011 wirionu wszechodpornoúciowego, ktÛry}
+{1003}{}{przemianowano na FEV, Wirus Wymuszonej Ewolucji.}
+{1004}{}{Jego g≥Ûwnπ troskπ sπ efekty uboczne zastosowania}
+{1005}{}{struktury poczwÛrnej spirali, a nie docelowy skutek}
+{1006}{}{w postaci stabilnoúci replikacji. Uwaøa on, øe nowa}
+{1007}{}{struktura jest kolejnym stadium ewolucji ssaczych jπder}
+{1008}{}{komÛrkowych. Eksperymenty na jednokomÛrkowcach}
+{1009}{}{powiod≥y siÍ w pe≥ni. ChoÊ ich metabolizm nie uleg≥}
+{1010}{}{obserwowalnym zmianom, ich odpornoúÊ na zakaøenia}
+{1011}{}{i promieniowanie przekracza wszelkie oczekiwania.}
+{1012}{}{Dodatek: wirion wydaje siÍ nie dzia≥aÊ na chloroplasty.}
+{1013}{}{Dalsze eksperymenty na komÛrkach roúlinnych zosta≥y}
+{1014}{}{odwo≥ane z rozkazu mjr. Barnetta.}
+{1015}{}{**END-PAR**}
+# -
+{1016}{}{ï Raport z dnia 9 maja 2075}
+{1017}{}{Zainfekowaliúmy FEV osobniki kilku gatunkÛw p≥aziÒcÛw.}
+{1018}{}{W ciπgu niewielu godzin robaki uros≥y úrednio o 28%,}
+{1019}{}{a ich populacja odpar≥a zakaøenia 39 rÛønymi}
+{1020}{}{wirusami. Kaødej prÛbce pozwolono ewoluowaÊ}
+{1021}{}{przez kilka pokoleÒ; okaza≥o siÍ dziÍki temu, iø nowa}
+{1022}{}{struktura DNA by≥a skutecznie przekazywana potomstwu}
+{1023}{}{robakÛw, choÊ zaobserwowano wúrÛd nich wy≥πcznie}
+{1024}{}{rozmnaøanie bezp≥ciowe. Eksperymenty na owadach}
+{1025}{}{powiod≥y siÍ w mniejszym stopniu. Mjr. Barnett}
+{1026}{}{zawiesi≥ te prace do odwo≥ania.}
+{1027}{}{**END-PAR**}
+# -
+{1028}{}{ï Raport z dnia 30 czerwca 2075}
+{1029}{}{Kilka odmian bia≥ych myszy zosta≥o skutecznie}
+{1030}{}{zainfekowanych FEV. Ponownie, w ciπgu niewielu godzin}
+{1031}{}{odnotowano przyrost gabarytÛw, a po 9 dniach rozmiary}
+{1032}{}{myszy ustali≥y siÍ na poziomie o 31% wyøszym niø w}
+{1033}{}{grupie kontrolnej. Sekcje wykaza≥y, øe uros≥y g≥Ûwnie}
+{1034}{}{tkanka miÍúni prπøkowanych i pewne organy wewnÍtrzne,}
+{1035}{}{takie jak wπtroba, serce oraz nerki. Ku naszemu}
+{1036}{}{zdziwieniu, zainfekowane myszy przebiega≥y przez}
+{1037}{}{labirynty w czasie o ponad 50% krÛtszym niø osobniki}
+{1038}{}{z grupy kontrolnej. By okreúliÊ to odkrycie jako}
+{1039}{}{znaczπce, konieczne bÍdπ dalsze testy.}
+{1040}{}{**END-PAR**}
+# -
+{1041}{}{ï Raport z dnia 9 listopada 2075}
+{1042}{}{Zainfekowaliúmy FEV 218 krÛlikÛw. Po≥owie obiektÛw}
+{1043}{}{wszczepiono elektrody, by monitorowaÊ aktywnoúÊ}
+{1044}{}{EEG przed i po infekcji. Wzrost aktywnoúci}
+{1045}{}{elektrycznej mÛzgu odnotowywano úrednio po 3,2}
+{1046}{}{od zastrzyku. Ponownie, odnotowano typowy}
+{1047}{}{przyrost rozmiarÛw. Zaobserwowano jednak rÛwnieø}
+{1048}{}{(zw≥aszcza wúrÛd samcÛw) wzrost agresywnoúci}
+{1049}{}{oraz asertywnoúci. Sekcje tkanki mÛzgowej}
+{1050}{}{wykaza≥y wzrost liczby po≥πczeÒ neuronowych,}
+{1051}{}{zw≥aszcza w obrÍbie systemu limbicznego i kory}
+{1052}{}{p≥atÛw czo≥owych.}
+{1053}{}{**END-PAR**}
+# -
+{1054}{}{ï Raport z dnia 12 stycznia 2076}
+{1055}{}{W kulturze 11-011 usprawniliúmy wydajnoúÊ cyklu}
+{1056}{}{o 43%. Nowπ odmianπ FEV zainfekowaliúmy 53}
+{1057}{}{szopy. Niezaleønie od oczekiwanego przez nas}
+{1058}{}{przyrostu rozmiarÛw, testy behawioralne}
+{1059}{}{potwierdzi≥y wzrost inteligencji oraz zrÍcznoúci}
+{1060}{}{manualnej o 19 punktÛw w skali Schulera-Kappa.}
+{1061}{}{Niestety, kilkoro obiektÛw wydosta≥o siÍ z klatek}
+{1062}{}{i po poúcigu musia≥o zostaÊ zlikwidowanych.}
+{1063}{}{Mjr. Barnett zdecydowa≥ o likwidacji pozosta≥ych.}
+{1064}{}{DwÛch par nie odnaleziono.}
+{1065}{}{**END-PAR**}
+# -
+{1066}{}{ï Raport z dnia 13 maja 2076}
+{1067}{}{Do FEV w≥πczyliúmy kilka nowych sekwencji genowych,}
+{1068}{}{dostarczonych przez zespÛ≥ doradczy mjr. Barnetta.}
+{1069}{}{Kulturπ 11-101a zainfekowaliúmy 23 psy, zarÛwno}
+{1070}{}{rasowe, jak i mieszaÒce; wszystkie doúwiadczy≥y}
+{1071}{}{niemal natychmiastowego wzrostu. WiÍkszym rozmiarom}
+{1072}{}{towarzyszy≥a zwiÍkszona agresywnoúÊ, bez znaczπcego}
+{1073}{}{przyrostu inteligencji. Planujemy podjπÊ prÛbÍ}
+{1074}{}{skrzyøowania 92 par alleli z kulturπ 11-011.}
+{1075}{}{Wszystkie obiekty zlikwidowano po 14 dniach badaÒ.}
+{1076}{}{**END-PAR**}
+# -
+{1077}{}{ï Raport z dnia 4 paüdziernika 2076}
+{1078}{}{Krzyøowanie zosta≥o ukoÒczone; nowπ kulturπ 11-111}
+{1079}{}{zainfekowano 15 szympansÛw. Rozrost i poziom}
+{1080}{}{odpornoúci sπ bezprecedensowe. PrÛby wywo≥ania}
+{1081}{}{nowotworÛw za pomocπ czynnikÛw radiologicznych}
+{1082}{}{i chemicznych okaza≥y siÍ nieskuteczne. Wzrost}
+{1083}{}{agresywnoúci doprowadzi≥ do izolacji obiektÛw. Dwa}
+{1084}{}{z nich dozna≥y gwa≥townych atakÛw epilepsji i umar≥y.}
+{1085}{}{Wszystkie pozosta≥e obiekty zlikwidowano.}
+{1086}{}{**END-PAR**}
+# -
+{1087}{}{ï Raport z dnia 7 stycznia 2077}
+{1088}{}{Mjr. Barnett nakaza≥ przenieúÊ ca≥oúÊ badaÒ nad}
+{1089}{}{FEV do Bazy Wojskowej Mariposa. Planuje on}
+{1090}{}{kontynuowanie eksperymentÛw projektu na ochotnikach.}
+{1091}{}{Nie popieram tego pomys≥u i pragnÍ w tym miejscu}
+{1092}{}{odnotowaÊ, øe eksperymenty na ludzkich obiektach}
+{1093}{}{nie sπ rekomendowane przeze mnie ani mÛj zespÛ≥.}
+{1094}{}{**END-DISK**}
+
+# *** Security Disk ***
+{2000}{}{Naruszenie zabezpieczeÒ Gamma Omikron Delta.}
+{2001}{}{**END-DISK**}
+
+# *** Ancient Brotherhood Disk ***
+{3000}{}{Kpt. Maxson mia≥ racjÍ. To miejsce jest úmierciπ.}
+{3001}{}{PiszÍ to, aby w przypadku, gdy nie uda nam siÍ}
+{3002}{}{wrÛciÊ, ktoú kiedyú mÛg≥ siÍ dowiedzieÊ, co siÍ}
+{3003}{}{z nami sta≥o.}
+{3004}{}{**END-PAR**}
+# -
+{3005}{}{Dotarliúmy do Oúrodka Badawczego West Tech po}
+{3006}{}{20 dniach piek≥a. Ale to by≥ naj≥atwiejszy etap.}
+{3007}{}{Poziom promieniowania wystrzeli≥ do gÛry, gdy}
+{3008}{}{tylko dostrzegliúmy wielki krater. Sprawdziliúmy}
+{3009}{}{zapasy i uznaliúmy, øe z pancerzami i specyfikami}
+{3010}{}{antyradiacyjnymi damy radÍ szukaÊ przynajmniej przez}
+{3011}{}{jeden dzieÒ. Wiedzieliúmy, øe istnieje ryzyko, ale}
+{3012}{}{technologia, ktÛrπ mogliúmy znaleüÊ, by≥a tego warta.}
+{3013}{}{**END-PAR**}
+# -
+{3014}{}{Spuúciliúmy siÍ w g≥πb krateru na pierwszy poziom i}
+{3015}{}{wszystko zdawa≥o siÍ iúÊ zgodnie z planem. Nie by≥o}
+{3016}{}{zasilania, wiÍc nie musieliúmy obchodziÊ systemÛw}
+{3017}{}{ochronnych. Tak przynajmniej sπdziliúmy. Na tym}
+{3018}{}{poziomie nie by≥o nic cennego, wiÍc zeszliúmy niøej.}
+{3019}{}{**END-PAR**}
+# -
+{3020}{}{Na drugim poziomie by≥o tak samo.}
+{3021}{}{**END-PAR**}
+# -
+{3022}{}{Kiedy Jensen zjecha≥ na trzeci poziom, rozszala≥o}
+{3023}{}{siÍ piek≥o. Czujniki ochronne na pierwszych dwÛch}
+{3024}{}{poziomach by≥y wypalone, ale nie na tamtym.}
+{3025}{}{Jensena pociÍ≥o na strzÍpy, zanim zrozumia≥, co siÍ}
+{3026}{}{dzieje. Nigdy wczeúniej nie widzieliúmy broni, ktÛra}
+{3027}{}{tak ≥atwo przebija≥a pancerz wspomagany. Ludzie}
+{3028}{}{padali na prawo i lewo, a jeszcze øywi panikowali.}
+{3029}{}{PrÛbowa≥em ich przegrupowaÊ, ale tylko Soto i}
+{3030}{}{Camarillo wrÛcili ze mnπ tu, na pierwszy poziom.}
+{3031}{}{**END-PAR**}
+# -
+{3032}{}{Fakt, øe dociera do mnie zapach spalenizny z kikuta}
+{3033}{}{rÍki Soto, úwiadczy o tym, øe mÛj pancerz juø nie}
+{3034}{}{jest hermetyczny, wiÍc wdycham o wiele wiÍcej}
+{3035}{}{radÛw, niø planowa≥em. Hydraulika wycieka mi w}
+{3036}{}{alarmujπcym tempie. Musimy oddaliÊ siÍ stπd na}
+{3037}{}{wystarczajπcy dystans, zanim mÛj pancerz wysiπdzie.}
+{3038}{}{**END-PAR**}
+# -
+{3039}{}{Camarillo wydawa≥ siÍ byÊ fizycznie zdrÛw, ale}
+{3040}{}{zniknπ≥ oko≥o godziny temu, mamroczπc coú o}
+{3041}{}{Gehennie. Ten bydlak ma wszystkie antyrady.}
+{3042}{}{**END-PAR**}
+# -
+{3043}{}{Pozosta≥ zatem Soto i ja. Nie uda nam siÍ odejúÊ}
+{3044}{}{wystarczajπco daleko stπd bez antyradÛw, wiÍc}
+{3045}{}{muszÍ sprÛbowaÊ znaleüÊ Camarilla, zanim nie}
+{3046}{}{bÍdzie za pÛüno.}
+{3047}{}{**END-PAR**}
+# -
+{3048}{}{Sierø. D. Allen, Si≥y Zbrojne StanÛw Zjednoczonych.}
+{3049}{}{**END-DISK**}
+
+
+#  *** Alpha Experiment Disk ***
+{4000}{}{Projekt Wirionu Wszechodpornoúci}
+{4001}{}{**END-PAR**}
+# -
+{4002}{}{W nadziei przeciwstawienia siÍ czynnikom}
+{4003}{}{bakteryjnym i wirusowym, stosowanym obecnie}
+{4004}{}{przez rzπd chiÒski, wytworzyliúmy czπstkÍ wirusa}
+{4005}{}{w postaci nici kwasu rybonukleinowego (RNA)}
+{4006}{}{skrytej w p≥aszczu bia≥kowo-lipidowym. ”w wirion}
+{4007}{}{zawiera specjalnie ukszta≥towanπ sekwencjÍ}
+{4008}{}{napromieniowanych aminokwasÛw (RAA) zdolnych}
+{4009}{}{do wiπzania siÍ z promotorami na ≥aÒcuchu kwasu}
+{4010}{}{dezoksyrybonukleinowego (DNA) i wymuszania}
+{4011}{}{niereplikatywnej mitozy. W rezultacie komÛrka}
+{4012}{}{øywiciela otrzymuje poczwÛrnπ spiralÍ DNA.}
+{4013}{}{**END-PAR**}
+# -
+{4014}{}{Pierwsze testy sπ obiecujπce. Wirion ≥atwo przenika}
+{4015}{}{przez b≥onÍ komÛrkowπ i wiπøe siÍ bezpoúrednio}
+{4016}{}{z DNA øywiciela w jπdrze komÛrkowym. Mitoza}
+{4017}{}{struktury rozpoczyna siÍ niemal natychmiast. Podzia≥}
+{4018}{}{komÛrki powstrzymuje usuwanie nici wrzeciona}
+{4019}{}{kariokinetycznego podczas anafazy. Ca≥y cykl}
+{4020}{}{mitotyczny trwa w przybliøeniu 2 godziny, lecz}
+{4021}{}{fenotypowe ujawnienie siÍ nowej struktury DNA moøe}
+{4022}{}{staÊ siÍ widoczne po up≥ywie kilku dni lub tygodni.}
+{4023}{}{**END-PAR**}
+# -
+{4024}{}{Obok faktycznie pe≥nej odpornoúci na czynniki}
+{4025}{}{bakteryjne i wirusowe, struktura poczwÛrnej spirali}
+{4026}{}{jest niemal ca≥kowicie odporna na b≥Ídy w ≥πczeniu}
+{4027}{}{nukleotydÛw podczas replikacji, z racji na}
+{4028}{}{redundancjÍ sekwencji bazowej. Tkanka poddana}
+{4029}{}{napromieniowaniu nie wykaza≥a mutacji, a mechanizmy}
+{4030}{}{syntezy bia≥ek w rybosomach nie uleg≥y uszkodzeniu.}
+{4031}{}{**END-PAR**}
+# -
+{4032}{}{Ponad 80% prÛbek tkanek zawiera≥o poczwÛrnπ spiralÍ}
+{4033}{}{DNA. Najbardziej podatne by≥y tkanki miÍúni i koúci,}
+{4034}{}{a takøe wydzielnicze, jako øe ich komÛrki wydajπ siÍ}
+{4035}{}{najbardziej podatne na wirion. KomÛrki czuciowe sπ}
+{4036}{}{najbardziej odporne. Co dziwne, nawet normalnie nie}
+{4037}{}{replikujπce siÍ komÛrki nerwowe i rozrodcze podjÍ≥y}
+{4038}{}{mitozÍ. Dalsze eksperymenty bÍdπ konieczne, by}
+{4039}{}{okreúliÊ tego skutki.}
+{4040}{}{**END-DISK**}
+
+
+# *** Delta Experiment Disk ***
+{5000}{}{Wojsko uzna≥o za konieczne, abyúmy gruntowniej}
+{5001}{}{przebadali oddzia≥ywanie technologii falowych na}
+{5002}{}{organizmy øywe. Za podstawÍ naszych badaÒ}
+{5003}{}{przyjÍliúmy úwiat≥o i düwiÍk. Manipulujπc amplitudπ}
+{5004}{}{i zwiÍkszajπc czÍstotliwoúÊ fal úwietlnych, byliúmy}
+{5005}{}{w stanie uzyskaÊ lasery zdolne do przebicia ponad}
+{5006}{}{metra stali. Niestety, ürÛd≥o energii do tego zadania}
+{5007}{}{nie zosta≥o jeszcze w pe≥ni opracowane. Zajmujπ}
+{5008}{}{siÍ tym inni naukowcy.}
+{5009}{}{**END-DISK**}
+
+
+# *** Vree's Experiment Disk ***
+{6000}{}{ï Obserwacje wstÍpne}
+{6001}{}{**END-PAR**}
+# -
+{6002}{}{To naprawdÍ zadziwiajπce. Patrol kilku rycerzy}
+{6003}{}{napotka≥ niezwyk≥π istotÍ. To stworzenie okazuje}
+{6004}{}{siÍ byÊ humanoidem, ca≥kiem moøliwe, øe niegdyú}
+{6005}{}{ludzkiego stanu. W strukturze tej istoty wystÍpuje}
+{6006}{}{jednak wiele rÛønic w stosunku do normalnych ludzi.}
+{6007}{}{**END-PAR**}
+# -
+{6008}{}{W trakcie wstÍpnych badaÒ tej istoty okaza≥o siÍ,}
+{6009}{}{iø posiada ona strukturÍ komÛrkowπ podobnπ do}
+{6010}{}{ludzkiej. Zanim nastπpi jakakolwiek dekompozycja,}
+{6011}{}{spiszÍ statystyki tego obiektu.}
+{6012}{}{**END-PAR**}
+# -
+{6013}{}{ï Statystyki obiektu A:}
+{6014}{}{**END-PAR**}
+# -
+{6015}{}{Wzrost: 3,2 m}
+{6016}{}{Waga:    363,21 kg}
+{6017}{}{P≥eÊ: nieokreúlona}
+{6018}{}{Kolor skÛry: Dominujπcy szary z odcieniami zieleni}
+{6019}{}{przy obecnym oúwietleniu. Brak pewnoúci, czy jest to}
+{6020}{}{spowodowane rozk≥adem, czy innymi czynnikami. Uwaga:}
+{6021}{}{skÛra jest skrajnie odporna na ostrza skalpeli.}
+{6022}{}{**END-PAR**}
+{6023}{}{Struktura wagowa cia≥a:}
+{6024}{}{    MiÍúnie: 77,41% }
+{6025}{}{    Szkielet: 10,23%}
+{6026}{}{    T≥uszcz:  3,02%}
+{6027}{}{    Pozosta≥e tkanki:  9,34%}
+{6028}{}{**END-PAR**}
+{6029}{}{Struktura komÛrkowa:}
+{6030}{}{    KomÛrki ulegajπ podzia≥om w przyspieszonym tempie.}
+{6031}{}{    Mitoza przebiega w tempie o 15% szybszym niø u}
+{6032}{}{    normalnych ludzi.}
+{6033}{}{    Struktura komÛrkowa okazuje siÍ byÊ bardzo podobna}
+{6034}{}{    do ludzkiej.}
+{6035}{}{    Struktura genetyczna wskazuje na silne podobieÒstwo}
+{6036}{}{    pomiÍdzy obiektem a Homo Sapiens. Moøliwa mutacja}
+{6037}{}{    spowodowana czynnikami jπdrowymi i biochemicznymi,}
+{6038}{}{    pozosta≥ymi z Wojny.}
+{6039}{}{    Nici DNA okazujπ siÍ byÊ bardzo zape≥nione.}
+{6040}{}{    Wydaje siÍ, øe wszystkie recesywne geny, powodujπce}
+{6041}{}{    zwyrodnienia, zosta≥y usuniÍte z systemu.}
+{6042}{}{    Nici RNA takøe wyglπdajπ na poddane manipulacji w}
+{6043}{}{    celu zwiÍkszenia przekazu informacji genetycznej.}
+{6044}{}{**END-PAR**}
+# -
+{6045}{}{ï WstÍpna hipoteza}
+{6046}{}{**END-PAR**}
+# -
+{6047}{}{Na podstawie powiÍkszonych rozmiarÛw aksonÛw,}
+{6048}{}{dendrytÛw i synaps jestem sk≥onna postawiÊ hipotezÍ,}
+{6049}{}{iø obiekt mia≥ ostre zmys≥y i szybkie odruchy. W}
+{6050}{}{úwietle raportu rycerzy odnoúnie obszaru, na ktÛrym}
+{6051}{}{odkryto obiekt, ja≥owego, silnie napromieniowanego, ze}
+{6052}{}{skrajnie wysokπ koncentracjπ czynnikÛw chemicznych,}
+{6053}{}{cudem jest, øe obiekt øy≥ tak d≥ugo. PrzeprowadzÍ}
+{6054}{}{testy, by ustaliÊ moøliwπ przyczynÍ zgonu.}
+{6055}{}{**END-PAR**}
+# -
+{6056}{}{ï Wyniki badaÒ przeprowadzonych na obiekcie A:}
+{6057}{}{**END-PAR**}
+# -
+{6058}{}{Inspekcja wizualna:}
+{6059}{}{    Drobiny prochu wokÛ≥ ran wskazujπ na pociski.}
+{6060}{}{    Skaleczenia o úrednicy 1,2 cm na prawej ≥ydce}
+{6061}{}{    wyglπdajπ na zadane zÍbami. PrzeprowadzÍ}
+{6062}{}{    test na moøliwπ wúciekliznÍ.}
+{6063}{}{    SkÛra wyschniÍta i ≥uszczπca siÍ. Moøliwe}
+{6064}{}{    oddzia≥ywanie szkodliwych czynnikÛw zewnÍtrznych.}
+{6065}{}{**END-PAR**}
+# -
+{6066}{}{Wyniki testÛw:}
+{6067}{}{    Napromieniowanie:   12 radÛw}
+{6068}{}{    Wúcieklizna:   brak}
+{6069}{}{    ChlorowodÛr:   brak}
+{6070}{}{    Poziom chloru:   0,07%}
+{6071}{}{    ZawartoúÊ siarki:   0,02%}
+{6072}{}{    Wirus zmiennofazowy:   brak}
+{6073}{}{    Wirus cyklotroniczny Gamma:   brak}
+{6074}{}{    Wirus Wymuszonej Ewolucji II:   nadmiar}
+{6075}{}{**END-PAR**}
+# -
+{6076}{}{ï Hipoteza}
+{6077}{}{**END-PAR**}
+# -
+{6078}{}{Na podstawie moich obserwacji jestem sk≥onna}
+{6079}{}{postawiÊ hipotezÍ, øe obiekt zgina≥ w ciÍøkiej}
+{6080}{}{walce z przynajmniej 2 ludümi i 3 zwierzÍtami}
+{6081}{}{wielkoúci psa. Prawdziwie zdumiewajπcy jest zakres}
+{6082}{}{infekcji wirusowej w obiekcie. Czyta≥am, iø naukowcy}
+{6083}{}{przedwojenni prowadzili eksperymenty z takim}
+{6084}{}{wirusem, lecz wszystkie ich zapiski badawcze}
+{6085}{}{uleg≥y zniszczeniu.}
+{6086}{}{**END-PAR**}
+# -
+{6087}{}{Badania nad wirusem doprowadzi≥y mnie do licznych}
+{6088}{}{ciekawych odkryÊ. Wiele spoúrÛd swoich mutacji}
+{6089}{}{obiekt zawdziÍcza jego obfitoúci. Jej skutkiem jest}
+{6090}{}{wzmocnienie struktury miÍúni i koúci. Dodatkowo,}
+{6091}{}{recesywne geny, powszechnie wystÍpujπce u ludzi,}
+{6092}{}{zosta≥y zmodyfikowane w taki sposÛb, aby osiπgnπÊ}
+{6093}{}{najlepszπ z moøliwych kombinacji. ChoÊ proces,}
+{6094}{}{za pomocπ ktÛrego to osiπgniÍto, jest nieznany,}
+{6095}{}{wiadomo, øe ma powaøne efekty uboczne. G≥Ûwnym z}
+{6096}{}{nich jest bezp≥odnoúÊ. Obiekt nie by≥ w stanie siÍ}
+{6097}{}{rozmnaøaÊ z jakπkolwiek istotπ, czystπ ani zmutowanπ.}
+{6098}{}{Do pozosta≥ych efektÛw ubocznych naleøy zmiana}
+{6099}{}{pigmentacji skÛry. Przewidywana d≥ugoúÊ øycia wzrasta}
+{6100}{}{o 10%, inteligencja maleje o 30%.}
+{6101}{}{**END-PAR**}
+# -
+{6102}{}{ï Wnioski}
+{6103}{}{**END-PAR**}
+# -
+{6104}{}{W oparciu o powyøsze informacje prognozujÍ, øe moøemy}
+{6105}{}{po prostu przeøyÊ tÍ odmianÍ mutantÛw. Jednakøe fakt,}
+{6106}{}{iø osobniki te cechuje skrajnie wysoka koncentracja}
+{6107}{}{wirusa, daje podstawÍ do przypuszczeÒ, øe istnieje}
+{6108}{}{miejsce, w ktÛrym sπ one tworzone. Nie jestem w stanie}
+{6109}{}{spekulowaÊ co do jego ewentualnego po≥oøenia.}
+{6110}{}{**END-DISK**}
+
+
+# *** Brotherhood of Steel Honor Code ***
+# *** Maxson's History ***
+{7000}{}{MÛj ojciec by≥ straønikiem tajnej bazy wojskowej na}
+{7001}{}{pustyni po≥udniowej Kalifornii. Typowym øandarmem,}
+{7002}{}{zapamiÍta≥em g≥Ûwnie jego si≥Í. Gdy nadszed≥ czas}
+{7003}{}{rewolucji, uszanowa≥em jego przekonania. Zosta≥ na}
+{7004}{}{miejscu, by pomagaÊ kalekim i rannym, nawet}
+{7005}{}{jajog≥owym. Z≥oøy≥ los mÛj oraz mojej matki w rÍce}
+{7006}{}{swojego najlepszego przyjaciela i kaza≥ nam}
+{7007}{}{odejúÊ na pustyniÍ z pozosta≥ymi buntownikami.}
+{7008}{}{**END-PAR**}
+# -
+{7009}{}{My, bardzo nieliczni, pomaszerowaliúmy na pustkowie.}
+{7010}{}{Jedyne, o czym myúla≥em, to to, øe juø go nigdy nie}
+{7011}{}{zobaczÍ. Wiedzia≥, iø zostaÊ znaczy umrzeÊ. Mimo tego}
+{7012}{}{zosta≥. Szanowa≥ flagÍ, g≥Ûwnodowodzπcego i odznakÍ,}
+{7013}{}{ktÛrπ nosi≥.}
+{7014}{}{**END-PAR**}
+# -
+{7015}{}{CÛø za idiota.}
+{7016}{}{**END-PAR**}
+# -
+{7017}{}{Umar≥ za grzechy innych. WiÍcej nam siÍ to juø nie}
+{7018}{}{zdarzy. Staniemy siÍ samowystarczalni. BÍdziemy}
+{7019}{}{kustoszami wiedzy i nauki. Przeøyjemy koniec}
+{7020}{}{cywilizacji. Przyjmiemy odpowiedzialnoúÊ za nasze}
+{7021}{}{czyny oraz dopilnujemy, by inni odpowiadali za}
+{7022}{}{swoje.}
+{7023}{}{**END-PAR**}
+# -
+{7024}{}{To úlubujÍ tobie, Maxsonie, mÛj synu. Bractwo Stali}
+{7025}{}{zosta≥o s≥usznie nazwane. Jesteúmy Bractwem. W}
+{7026}{}{przeciwieÒstwie do mojego ojca, bÍdziemy staÊ ramiÍ}
+{7027}{}{w ramiÍ z tymi, ktÛrzy podzielajπ nasze przekonania}
+{7028}{}{i poglπdy. Jesteúmy Stalπ. Twardπ i naostrzonπ.}
+{7029}{}{**END-PAR**}
+# -
+{7030}{}{Zawsze pamiÍtaj ognie, w ktÛrych zosta≥eú wykuty.}
+{7031}{}{Nigdy nie zapomnij.}
+{7032}{}{To dewiza z przesz≥oúci, a teraz nasza.}
+{7033}{}{**END-DISK**}
+
+# *** Mutant disk ***
+{8000}{}{NADAWCA: Baza, tu druga druøyna szabrownikÛw. Zg≥oúcie}
+{8001}{}{siÍ. OdbiÛr.}
+{8002}{}{**END-PAR**}
+# -
+{8003}{}{ODBIORCA: S≥yszymy was g≥oúno i wyraünie, kontynuujcie.}
+{8004}{}{OdbiÛr.}
+{8005}{}{**END-PAR**}
+# -
+{8006}{}{NADAWCA: Zebraliúmy czterech samcÛw, dwie samice,}
+{8007}{}{i ich zapasy z karawany. Nie sπ szczegÛlnie mocno}
+{8008}{}{skaøeni. Przekaøcie porucznikowi, øe wysy≥amy ich}
+{8009}{}{przed nami, mogπ byÊ w stanie przetrwaÊ proces.}
+{8010}{}{My poczekamy tu jeszcze parÍ dni, øeby sprÛbowaÊ}
+{8011}{}{przechwyciÊ kolejnπ karawanÍ. OdbiÛr.}
+{8011}{}{**END-PAR**}
+# -
+{8012}{}{ODBIORCA: Zrozumiano. Czy podczas pozyskania}
+{8013}{}{zosta≥y poniesione jakieú straty? OdbiÛr.}
+{8014}{}{**END-PAR**}
+# -
+{8015}{}{NADAWCA: Zaprzeczam. Kolejna czysta akcja. Baza,}
+{8016}{}{przekaøcie teø pierwszej druøynie szabrownikÛw, øe}
+{8017}{}{napotkaliúmy ten sam problem, co oni. Jeden z naszych}
+{8018}{}{zwiadowcÛw nie powrÛci≥ z obchodu. Kilku innych}
+{8019}{}{zg≥osi≥o, øe wczorajszej nocy zaobserwowali w pobliøu}
+{8020}{}{naszego obozu coú duøego i szybkiego. SprawdzÍ to}
+{8021}{}{osobiúcie jutro rano oko≥o godziny 06:00. OdbiÛr.}
+{8022}{}{**END-PAR**}
+# -
+{8023}{}{ODBIORCA: Zrozumiano. BÍdziemy oczekiwaÊ waszego}
+{8024}{}{raportu. W miarÍ moøliwoúci sprÛbujcie to z≥apaÊ.}
+{8025}{}{Mistrz by≥by bardzo zadowolony. Bez odbioru.}
+{8026}{}{**END-DISK**}
+
+
+# *** Military Base Disk***
+{9000}{}{ï 10 PAè 2077}
+{9001}{}{Ja, Roger Maxson, kapitan, numer 072389, zaczynam}
+{9002}{}{prowadziÊ ten dziennik, poniewaø przysz≥oúÊ nie}
+{9003}{}{zapowiada siÍ dobrze dla nikogo z nas, a chcia≥bym, by}
+{9004}{}{inni dowiedzieli siÍ, co siÍ tutaj rzeczywiúcie sta≥o.}
+{9005}{}{**END-PAR**}
+# -
+{9006}{}{Piek≥o rozpÍta≥o siÍ, gdy w koÒcu odkryliúmy, co knu≥y}
+{9007}{}{te bydlaki - naukowcy. Pu≥kownik zamknπ≥ siÍ w swoim}
+{9008}{}{biurze i wydaje siÍ przeøywaÊ swego rodzaju za≥amanie}
+{9009}{}{nerwowe. Øo≥nierze domagajπ siÍ krwi. Oczekujπ ode}
+{9010}{}{mnie przywÛdztwa, a ja nie jestem pewien, co robiÊ.}
+{9011}{}{Ktoú jednak musi coú zrobiÊ, zanim to miejsce zmieni}
+{9012}{}{siÍ w anarchistycznπ krwawπ ≥aüniÍ.}
+{9013}{}{**END-PAR**}
+# -
+{9014}{}{ï 12 PAè 2077}
+{9015}{}{Za kaødym razem, gdy otrzymujemy raport z gÛry, robi}
+{9016}{}{siÍ tu gorzej. Wojna idzie w bardzo z≥ym kierunku, a}
+{9017}{}{to miejsce zbliøa siÍ do stanu otwartego buntu, z ca≥ym}
+{9018}{}{wiπøπcym siÍ z tym chaosem. Dziú powstrzyma≥em jednego}
+{9019}{}{z øo≥nierzy przed zabiciem naukowca i zaøπda≥em, by}
+{9020}{}{ich przes≥uchaÊ w celu poznania ich rozkazÛw.}
+{9021}{}{**END-PAR**}
+# -
+{9022}{}{ï 13 PAè 2077}
+{9023}{}{Zabi≥em dziú cz≥owieka. Przes≥uchiwa≥em kierownika}
+{9024}{}{badaÒ, von Feldena; wyjawi≥ mi pe≥ne szczegÛ≥y ich}
+{9025}{}{nieludzkich eksperymentÛw. Powiedzia≥, øe rozkazy}
+{9026}{}{otrzymywa≥ od rzπdu, ale tego nie kupi≥em. Zaczπ≥}
+{9027}{}{krzyczeÊ, øe wykonywa≥ rozkazy, øe jest øo≥nierzem, a}
+{9028}{}{ja go po prostu zastrzeli≥em. Wmawiam sobie, øe to po}
+{9029}{}{to, by powstrzymaÊ go przed wywo≥aniem otwartego buntu}
+{9030}{}{moich ludzi, ale wcale nie jestem tego pewien.}
+{9031}{}{**END-PAR**}
+# -
+{9032}{}{ï 15 PAè 2077}
+{9033}{}{Ponownie sprÛbowa≥em porozmawiaÊ z pu≥kownikiem przez}
+{9034}{}{grÛdü, ale on wydawa≥ siÍ ca≥kowicie utraciÊ kontakt}
+{9035}{}{z rzeczywistoúciπ. Z kilkoma ludümi rozbi≥em grÛdü,}
+{9036}{}{akurat by zobaczyÊ, jak rozwala sobie g≥owÍ. Zanim}
+{9037}{}{pociπgnπ≥ za spust, powiedzia≥, øe øa≥uje.}
+{9038}{}{**END-PAR**}
+# -
+{9039}{}{ï 18 PAè 2077}
+{9040}{}{Zdaje siÍ, øe zabijajπc jajog≥owego potwierdzi≥em mojπ}
+{9041}{}{pozycjÍ przywÛdcy. Ludzie wykonujπ teraz moje rozkazy}
+{9042}{}{bez dyskusji. Przes≥uchania nieodmiennie koÒczπ siÍ}
+{9043}{}{jako egzekucje. Shellman wytrzyma≥a najd≥uøej, lecz}
+{9044}{}{efekt koÒcowy by≥ taki sam. Jej argumenty o rozkazach}
+{9045}{}{by≥y trochÍ zbyt szczegÛ≥owe, by byÊ ca≥kowicie}
+{9046}{}{zmyúlone. Mam naprawdÍ z≥e przeczucia co do tego, jak}
+{9047}{}{siÍ to wszystko skoÒczy. Nawet siÍ juø nie ok≥amujÍ}
+{9048}{}{odnoúnie powodÛw likwidowania przeze mnie naukowcÛw.}
+{9049}{}{**END-PAR**}
+# -
+{9050}{}{ï 20 PAè 2077}
+{9051}{}{W koÒcu odpowiedzia≥em úwiatu zewnÍtrznemu przez nasze}
+{9052}{}{radio. Nie wiem, czemu nikogo tu nie przys≥ali, øeby}
+{9053}{}{sprawdziÊ, co siÍ dzieje, po tym, jak przestaliúmy}
+{9054}{}{odpowiadaÊ na ich transmisje. To nie ma sensu. CÛø,}
+{9055}{}{teraz przybÍdπ. Og≥osi≥em naszπ secesjÍ z unii.}
+{9056}{}{Jefferson Davis to przy mnie ma≥e piwo.}
+{9057}{}{**END-PAR**}
+# -
+{9058}{}{ï 22 PAè 2077}
+{9059}{}{Co siÍ do cholery dzieje? Og≥aszamy naszπ ca≥kowitπ}
+{9060}{}{dezercjÍ z armii oraz odrzucenie zwierzchnoúci rzπdu}
+{9061}{}{federalnego, i co siÍ dzieje? Nic.}
+{9062}{}{Szykuje siÍ coú z≥ego.}
+{9063}{}{**END-PAR**}
+# -
+{9064}{}{ï 23 PAè 2077}
+{9065}{}{Nie mogÍ uwierzyÊ, øe te bydlaki w koÒcu to zrobi≥y.}
+{9066}{}{Niech ich diabli wezmπ. ZaczÍli rzucaÊ A-bombami.}
+{9067}{}{Byliúmy akurat w úrodku wyciπgania prawdy z Andersona,}
+{9068}{}{gdy kompletnie utraciliúmy ≥πcznoúÊ. Mam przeczucie, øe}
+{9069}{}{centrum badawcze West Techu mocno oberwa≥o. Nie wiem}
+{9070}{}{czemu, to po prostu przeczucie. Wydaje siÍ zupe≥nie}
+{9071}{}{niewyobraøalne, øebyúmy nie byli celem. Jestem pewien,}
+{9072}{}{øe ChiÒczycy skorygujπ to przeoczenie naprawdÍ prÍdko.}
+{9073}{}{Na szczÍúcie, przedwczoraj przenieúliúmy nasze rodziny}
+{9074}{}{do wnÍtrza kompleksu. Nie wiemy jeszcze, czy opad}
+{9075}{}{promieniotwÛrczy dotar≥ do naszego rejonu.}
+{9076}{}{**END-PAR**}
+# -
+{9077}{}{ï 25 PAè 2077}
+{9078}{}{Sierø. Platner zg≥osi≥ siÍ na ochotnika do wyjúcia na}
+{9079}{}{zewnπtrz i dokonania pomiarÛw atmosfery. Wydaje siÍ, øe}
+{9080}{}{promieniowanie tu nie dotar≥o. Jako øe mia≥ na sobie}
+{9081}{}{swÛj pancerz wspomagany, radiacja mu nie zagraøa≥a, ale}
+{9082}{}{gdyby uleg≥ napromieniowaniu, musia≥by zostaÊ wygnany.}
+{9083}{}{Nie dysponujemy tu bowiem odpowiednimi urzπdzeniami}
+{9084}{}{odkaøajπcymi.}
+{9085}{}{**END-PAR**}
+# -
+{9086}{}{ï 26 PAè 2077}
+{9087}{}{Przekona≥em ludzi do pogrzebania naukowcÛw. Nie wiem}
+{9088}{}{dlaczego... Moøe aby uløyÊ mojemu sumieniu. W koÒcu}
+{9089}{}{zaczπ≥em wierzyÊ w ich opowieúci, kiedy ostatni z nich}
+{9090}{}{umiera≥.}
+{9091}{}{**END-PAR**}
+# -
+{9092}{}{MÛj Boøe, czym ja siÍ sta≥em?}
+{9093}{}{**END-PAR**}
+# -
+{9094}{}{ï 27 PAè 2077}
+{9095}{}{Dzisiaj opuszczamy to porzucone przez Boga miejsce.}
+{9096}{}{PoprowadzÍ exodus do starego schronu rzπdowego}
+{9097}{}{w Lost Hill. Zostawiam ten dziennik, by uleg≥}
+{9098}{}{pogrzebaniu, gdy ten kompleks oberwie w nastÍpnej}
+{9099}{}{wymianie ognia. Moøe ktoú go kiedyú odnajdzie...}
+{9100}{}{**END-DISK**}
+
+# *** Sophia Disk ***
+{10000}{}{Exodus z przeklÍtej bazy by≥ czasem prÛby dla}
+{10001}{}{øo≥nierzy i ich rodzin. ChoÊ nie musieli zmagaÊ siÍ}
+{10002}{}{z opadem radioaktywnym, czÍsto nÍka≥y ich odpadki}
+{10003}{}{ludzkoúci. Wa≥Ísajπce siÍ bandy psychotycznych}
+{10004}{}{mordercÛw i rabusi kilkakrotnie zaatakowa≥y tÍ}
+{10005}{}{szlachetnπ grupÍ.}
+{10006}{}{**END-PAR**}
+# -
+{10007}{}{Sama kompania nie by≥a w niebezpieczeÒstwie, poniewaø}
+{10008}{}{nosi≥a Zbroje Mocy. Cz≥onkowie ich rodzin nie mieli}
+{10009}{}{jednak takiego szczÍúcia. Odkπd robactwo przekona≥o}
+{10010}{}{siÍ, øe jest ≥atwo odpierane, zaczÍ≥o strzelaÊ z}
+{10011}{}{dystansu do bezbronnych cywili.}
+{10012}{}{**END-PAR**}
+# -
+{10013}{}{Zbrodniarze zebrali krwawe øniwo, lecz za kaødego}
+{10014}{}{cz≥onka Exodusu powalonego w ten sposÛb, nasi}
+{10015}{}{szlachetni bracia odebrali Pustkowiu po dwa øywoty.}
+{10016}{}{**END-PAR**}
+# -
+{10017}{}{W koÒcu praojcowie dotarli do bezpiecznych murÛw}
+{10018}{}{schronu. Kpt. Maxson, Wielki Zbawca, og≥osi≥ go naszym}
+{10019}{}{nowym domem, i wszystko uk≥ada≥o siÍ pomyúlnie.}
+{10020}{}{**END-PAR**}
+# -
+{10021}{}{Po pewnym czasie schron sta≥ siÍ naszym prawdziwym}
+{10022}{}{domem, úwiπtyniπ i wybawieniem od horrorÛw zewnÍtrznego}
+{10023}{}{úwiata. ZaczÍliúmy przebudowywaÊ i przekszta≥caÊ naszπ}
+{10024}{}{fortecÍ w coú wspania≥ego, czego piÍkna nigdy wczeúniej}
+{10025}{}{nie oglπda≥ pozbawiony technologii úwiat.}
+{10026}{}{**END-PAR**}
+# -
+{10027}{}{Jednak byli tacy, ktÛrzy pragnÍli jeszcze wiÍcej. Te}
+{10028}{}{niespokojne dusze zaøπda≥y, abyúmy skierowali wzrok ku}
+{10029}{}{po≥udniowemu wschodowi i zaawansowanym technologiom,}
+{10030}{}{ktÛre mia≥y siÍ tam przypuszczalnie znajdowaÊ.}
+{10031}{}{**END-PAR**}
+# -
+{10032}{}{Kpt. Maxson ostrzeg≥ tych porywczych m≥odzikÛw, iø}
+{10033}{}{tamten oúrodek badawczy zosta≥ niechybnie zniszczony,}
+{10034}{}{gdy my ocaleliúmy, ale oni nie chcieli s≥uchaÊ Jego}
+{10035}{}{s≥Ûw. Za≥oøyli swe uúwiÍcone zbroje i wyruszyli po}
+{10036}{}{swego åwiÍtego Graala, wczeúniej jednak wymÛwili imiÍ}
+{10037}{}{Zbawcy nadaremno, kwestionujπc Jego mÍstwo!}
+{10038}{}{**END-PAR**}
+# -
+{10039}{}{Zaginπ≥ o nich wszelki s≥uch.}
+{10040}{}{**END-DISK**}
+
+# *** Maxson Disk ***
+{11000}{}{Z mojego rozkazu, jako pe≥niπcego obowiπzki dowÛdcy po}
+{11001}{}{przedwczesnej úmierci p≥k. Roberta Spindela w czasie}
+{11002}{}{obecnego kryzysu, ca≥y zespÛ≥ ochronny bazy zostaje}
+{11003}{}{przeniesiony do schronu w Lost Hill.}
+{11004}{}{**END-PAR**}
+# -
+{11005}{}{Niniejsza dyrektywa dotyczy takøe rodzin oficerÛw i}
+{11006}{}{øo≥nierzy.}
+{11007}{}{**END-PAR**}
+# -
+{11008}{}{O ile inaczej nie zarzπdzi uprawniony przedstawiciel}
+{11009}{}{Departamentu Wojny, niniejszy rozkaz obowiπzuje w}
+{11010}{}{zapisanym tu brzmieniu.}
+{11011}{}{**END-PAR**}
+# -
+{11012}{}{Operatyw 1: Ca≥y personel wojskowy, wraz z rodzinami,}
+{11013}{}{ma opuúciÊ bazÍ do godziny 08:00, 25 PAè 2077.}
+{11014}{}{Ca≥y ten personel, podrÛøujπc pod moim dowÛdztwem, uda}
+{11015}{}{siÍ do bazy Lost Hill. Nie udziela siÍ zwolnieÒ.}
+{11016}{}{**END-PAR**}
+# -
+{11017}{}{Operatyw 2: Ca≥y personel cywilny otrzymuje nakaz}
+{11018}{}{pozostania na terenie bazy, w oczekiwaniu na rozkazy z}
+{11019}{}{ich w≥aúciwej struktury dowodzenia.}
+{11020}{}{**END-PAR**}
+# -
+{11021}{}{Operatyw 3: Wyposaøenie, uznane za konieczne do}
+{11022}{}{zapewnienia przetrwania personelu wojskowego bazy, ma}
+{11023}{}{zostaÊ natychmiast pobrane z magazynÛw. W≥aúciwe}
+{11024}{}{zezwolenia bÍdπ wydane pÛüniej, o ile czas pozwoli.}
+{11025}{}{**END-PAR**}
+# -
+{11026}{}{Operatyw 4: Wszystkie przepisy kodeksÛw wojskowych bÍdπ}
+{11027}{}{surowo egzekwowane wobec personelu wojskowego oraz}
+{11028}{}{cywilnego, uczestniczπcego w operacjach wojskowych.}
+{11029}{}{**END-PAR**}
+# -
+{11030}{}{Operatyw 5: Do momentu ustanowienia stabilnego i}
+{11031}{}{autoryzowanego kana≥u ≥πcznoúci z Departamentem Wojny,}
+{11032}{}{powyøsze polecenia bÍdπ mia≥y pierwszeÒstwo przed}
+{11033}{}{wszelkimi wczeúniej wydanymi rozkazami.}
+{11034}{}{**END-PAR**}
+# -
+{11035}{}{Kpt. Maxson}
+{11036}{}{24 PAè 2077}
+{11037}{}{**END-DISK**}
+
+# *** Richard Grey audio diary ***
+{12000}{}{                                                    0000 - 0004}
+{12001}{}{Umieram. MuszÍ to wszystko nagraÊ, zanim przyt≥oczy}
+{12002}{}{mnie bÛl.}
+{12003}{}{**END-PAR**}
+# -
+{12004}{}{                                                    0005 - 0020}
+{12005}{}{Nie mogÍ uwierzyÊ, øe w koÒcu uda≥o mi siÍ wydostaÊ}
+{12006}{}{z tamtej kadzi. Szlam nie uczyni≥ mi krzywdy, ale}
+{12007}{}{prawie utonπ≥em. Nie wiem, co sta≥o siÍ z Haroldem -}
+{12008}{}{sta≥ zaraz obok mnie, kiedy ten øuraw strπci≥ mnie do}
+{12009}{}{kadzi. Na pewno zginπ≥, bo inaczej sprÛbowa≥by mi}
+{12010}{}{pomÛc. Francine nie øyje, zabita przez jednego z tych}
+{12011}{}{robotÛw.}
+{12012}{}{**END-PAR**}
+# -
+{12013}{}{                                                    0021 - 0027}
+{12014}{}{Nie mam pojÍcia, ile minÍ≥o czasu. Uda≥o mi siÍ w≥amaÊ}
+{12015}{}{do komputera, by wy≥πczyÊ roboty i nagraÊ to, ale mÛj}
+{12016}{}{umys≥ traci teraz úwiadomoúÊ.}
+{12017}{}{CzujÍ tak wielki bÛl...}
+{12018}{}{**END-PAR**}
+# -
+{12019}{}{                                                    0028 - 0043}
+{12020}{}{Ten zielony szlam, w ktÛrym zosta≥em zanurzony, jest}
+{12021}{}{ürÛd≥em wszystkich mutacji, ktÛre nas tu doprowadzi≥y.}
+{12022}{}{Moja skÛra ropieje i odpada. Gdzie indziej bulgocze i}
+{12023}{}{zaczyna wydzielaÊ dziwnπ, úluzopodobnπ substancjÍ. W}
+{12024}{}{niektÛre dni bÛl jest niemal do zniesienia.}
+{12025}{}{**END-PAR**}
+# -
+{12026}{}{                                                    0044 - 0057}
+{12027}{}{W istocie potrafiÍ znowu zrobiÊ parÍ krokÛw... Wydaje}
+{12028}{}{siÍ niemoøliwym, øe przewlok≥em siÍ samemu ca≥π tÍ}
+{12029}{}{drogÍ z pomieszczenia kadzi. O dziwo, faktycznie czujÍ}
+{12030}{}{siÍ silniejszy, choÊ nadal bardzo mnie boli. Wszystko}
+{12031}{}{zdaje siÍ robiÊ mniejsze.}
+{12032}{}{**END-PAR**}
+# -
+{12033}{}{                                                    0058 - 0096}
+{12034}{}{Chyba skonsumowa≥em dzisiaj jedno z tych zmutowanych}
+{12035}{}{stworzeÒ, ktÛre tu buszujπ. Nim zrozumia≥em, co siÍ}
+{12036}{}{dzieje, swego rodzaju macka wyskoczy≥a z mojego}
+{12037}{}{brzucha i pokry≥a tÍ biednπ istotÍ. Jak tylko wessa≥a}
+{12038}{}{gryzonia do moich trzewi, dotknπ≥em jego umys≥u. Tak}
+{12039}{}{myúlÍ. Istnieje wielce prawdopodobna moøliwoúÊ, øe}
+{12040}{}{powoli wariujÍ i juø nie jestem zdolny, by rozrÛøniaÊ}
+{12041}{}{miÍdzy tym, co prawdziwe, a halucynacjami. Moøe nadal}
+{12042}{}{z wolna umieram w kadzi, a to wszystko sobie jedynie}
+{12043}{}{wyobrazi≥em.}
+{12044}{}{**END-PAR**}
+# -
+{12045}{}{                                                    0097 - 0111}
+{12046}{}{Z kaødym dniem wszystko staje siÍ dla mnie jaúniejsze.}
+{12047}{}{Ta toksyna w rzeczywistoúci usprawni≥a mÛj umys≥.}
+{12048}{}{CzujÍ, øe jestem w stanie ≥atwo pojπÊ nawet najbardziej}
+{12049}{}{z≥oøone problemy filozoficzne. To jakbym przenika≥}
+{12050}{}{wszystkie warstwy pozorÛw. Zastanawiam siÍ, co by siÍ}
+{12051}{}{sta≥o, gdybym w kadzi na d≥uøszy czas zanurzy≥ zwierzÍ.}
+{12052}{}{Czy zyska≥oby ono úwiadomoúÊ?}
+{12053}{}{**END-PAR**}
+# -
+{12054}{}{                                                    0112 - 0134}
+{12055}{}{Najdziwniejsze jest to, co dzieje siÍ ze zwierzÍtami.}
+{12056}{}{Stajπ siÍ one bystrzejsze i bardziej úwiadome swego}
+{12057}{}{otoczenia. Zanurzy≥em dziú jednoczeúnie psa i szczura,}
+{12058}{}{w rezultacie uleg≥y po≥πczeniu. Nie sπ to juø dwa}
+{12059}{}{odrÍbne stworzenia, ale teø wiÍcej niø jedno. ByÊ moøe}
+{12060}{}{to w≥aúnie jest przysz≥oúÊ - zejúcie siÍ razem rÛønych}
+{12061}{}{istot w swego rodzaju harmonijnej jednoúci. Ja juø nie}
+{12062}{}{konsumujÍ tych rÛønych zwierzπt, ktÛre tworzÍ, po}
+{12063}{}{prostu dla wyøywienia - sta≥em siÍ instrumentem, za}
+{12064}{}{pomocπ ktÛrego osiπgniÍta zostanie jednoúÊ. Jestem}
+{12065}{}{teraz o tak wiele wiÍcej niø cz≥owiekiem.}
+{12066}{}{**END-PAR**}
+# -
+{12067}{}{                                                    0135 - 0139}
+{12068}{}{Czas juø wprowadziÊ innych do chwa≥y, ktÛrπ stanowi}
+{12069}{}{JednoúÊ.}
+{12070}{}{**END-PAR**}
+# -
+{12071}{}{                                                    0140 - 0153}
+{12072}{}{Zagubiona dusza w koÒcu zb≥πdzi≥a do mojego domu. By≥em}
+{12073}{}{tak zaskoczony, øe skonsumowa≥em go przed zanurzeniem;}
+{12074}{}{nie pope≥niÍ juø tej omy≥ki. Jego prymitywny umys≥ by≥}
+{12075}{}{odpychajπcy dla moich subtelnych zdolnoúci poznawczych.}
+{12076}{}{**END-PAR**}
+# -
+{12077}{}{                                                    0154 - 0172}
+{12078}{}{Zaczπ≥em modyfikowaÊ siÍ, by bardziej dopomÛc Jednoúci,}
+{12079}{}{poprzez wstrzykiwanie do mego cia≥a niewielkich dawek}
+{12080}{}{wirusa. Szlam w kadziach jest stworzonym przez ludzi}
+{12081}{}{Wirusem Wymuszonej Ewolucji. TÍ informacjÍ uzyska≥em}
+{12082}{}{ze úwieøo wyroúniÍtego neuro≥πcza do komputera bazy.}
+{12083}{}{**END-PAR**}
+# -
+{12084}{}{                                                    0173 - 0198}
+{12085}{}{Tych kilku wÍdrowcÛw, ktÛrzy tu dotarli, by≥o dla mnie}
+{12086}{}{rozczarowaniem. Zdajπ siÍ oni nie mÛc poprawnie}
+{12087}{}{mutowaÊ. Najlepsze, co by≥em w stanie stworzyÊ, to}
+{12088}{}{wielcy i g≥upi mutanci. WiÍkszoúÊ z nich nie pamiÍta}
+{12089}{}{nic sprzed chwili, gdy wprowadzi≥em ich do cudownej}
+{12090}{}{Jednoúci. KarmiÍ siÍ nimi obecnie tylko jako paliwem.}
+{12091}{}{Ich umys≥y sπ dla mnie niczym.}
+{12092}{}{**END-PAR**}
+# -
+{12093}{}{                                                    0199 - 0236}
+{12094}{}{O radoúci tworzenia!! Uda≥o mi siÍ upowszechniÊ zupe≥ne}
+{12095}{}{szczÍúcie zjednoczenia z innπ duszπ! Jego ≥πczny poziom}
+{12096}{}{napromieniowania by≥ niski, w przeciwieÒstwie do}
+{12097}{}{innych. SπdzÍ, øe jest to ten czynnik, ktÛry pomija≥em,}
+{12098}{}{bowiem wydaje siÍ, iø konwersja mniej uszkodzonych}
+{12099}{}{radiacjπ obiektÛw przebiega lepiej. Nigdy nie dozna≥em}
+{12100}{}{takiej chwa≥y, jak po przyjÍciu jego umys≥u do naszego.}
+{12101}{}{**END-PAR**}
+# -
+{12102}{}{                                                    0237 - 0281}
+{12103}{}{Rozpoczynamy tworzyÊ armiÍ oddanπ jednoczeniu cudownej}
+{12104}{}{rÛønorodnoúci øycia. Wyszkoliliúmy ich, by kontynuowali}
+{12105}{}{naszπ pracÍ tutaj, podczas gdy my poszukamy bardziej}
+{12106}{}{zaludnionych terenÛw do zaabsorbowania. Zaczynamy czuÊ}
+{12107}{}{ograniczenia cechujπce mobilne cia≥o. Musimy znaleüÊ}
+{12108}{}{sobie sta≥y dom, z wiÍkszym zasobem wiedzy i stabilnym}
+{12109}{}{zaopatrzeniem w biomasÍ.}
+{12110}{}{**END-PAR**}
+# -
+{12111}{}{                                                    0282 - 0303}
+{12112}{}{Przestajemy siÍ zwiÍkszaÊ, dopÛki nie znajdziemy tego}
+{12113}{}{nowego centrum jednoczenia. Kiedy tam przybÍdziemy,}
+{12114}{}{bÍdziemy nadal rosnπÊ i karmiÊ siÍ, aø zaprowadzimy}
+{12115}{}{PokÛj i JednoúÊ na ca≥ym úwiecie.}
+{12116}{}{**END-DISK**}
+
+# *** Captain Maxson's Diary ***
+{13000}{}{ï 10 PAè 2077}
+{13001}{}{Ja, Roger Maxson, kapitan, numer 072389, zaczynam}
+{13002}{}{prowadziÊ ten dziennik, poniewaø przysz≥oúÊ nie}
+{13003}{}{zapowiada siÍ dobrze dla nikogo z nas, a chcia≥bym, by}
+{13004}{}{inni dowiedzieli siÍ, co siÍ tutaj rzeczywiúcie sta≥o.}
+{13005}{}{Piek≥o rozpÍta≥o siÍ, gdy w koÒcu odkryliúmy, co knu≥y}
+{13006}{}{te bydlaki - naukowcy. Pu≥kownik zamknπ≥ siÍ w swoim}
+{13007}{}{biurze i wydaje siÍ przeøywaÊ swego rodzaju za≥amanie}
+{13008}{}{nerwowe. Øo≥nierze domagajπ siÍ krwi. Oczekujπ ode}
+{13009}{}{mnie przywÛdztwa, a ja nie jestem pewien, co robiÊ.}
+{13010}{}{Ktoú jednak musi coú zrobiÊ, zanim to miejsce zmieni}
+{13011}{}{siÍ w anarchistycznπ krwawπ ≥aüniÍ.}
+{13012}{}{**END-PAR**}
+# -
+{13013}{}{ï 12 PAè 2077}
+{13014}{}{Za kaødym razem, gdy otrzymujemy raport z gÛry, robi}
+{13015}{}{siÍ tu gorzej. Wojna idzie w bardzo z≥ym kierunku, a}
+{13016}{}{to miejsce zbliøa siÍ do stanu otwartego buntu, z ca≥ym}
+{13017}{}{wiπøπcym siÍ z tym chaosem. Dziú powstrzyma≥em jednego}
+{13018}{}{z øo≥nierzy przed zabiciem naukowca i zaøπda≥em, by}
+{13019}{}{ich przes≥uchaÊ w celu poznania ich rozkazÛw.}
+{13020}{}{**END-PAR**}
+# -
+{13021}{}{ï 13 PAè 2077}
+{13022}{}{Zabi≥em dziú cz≥owieka. Przes≥uchiwa≥em kierownika}
+{13023}{}{badaÒ von Feldena, wyjawi≥ mi pe≥ne szczegÛ≥y ich}
+{13024}{}{nieludzkich eksperymentÛw. Powiedzia≥, øe rozkazy}
+{13025}{}{otrzymywa≥ od rzπdu, ale tego nie kupi≥em. Zaczπ≥}
+{13026}{}{krzyczeÊ, øe wykonywa≥ rozkazy, øe jest øo≥nierzem, a}
+{13027}{}{ja go po prostu zastrzeli≥em. Wmawiam sobie, øe to po}
+{13028}{}{to, by powstrzymaÊ go przed wywo≥aniem otwartego buntu.}
+{13029}{}{**END-PAR**}
+# -
+{13030}{}{ï 15 PAè 2077}
+{13031}{}{Ponownie sprÛbowa≥em porozmawiaÊ z pu≥kownikiem przez}
+{13032}{}{grÛdü, ale on wydawa≥ siÍ ca≥kowicie utraciÊ kontakt}
+{13033}{}{z rzeczywistoúciπ. Z kilkoma ludümi rozbi≥em grÛdü,}
+{13034}{}{akurat by zobaczyÊ, jak rozwala sobie g≥owÍ. Zanim}
+{13035}{}{pociπgnπ≥ za spust, powiedzia≥, øe øa≥uje.}
+{13036}{}{**END-PAR**}
+# -
+{13037}{}{ï 18 PAè 2077}
+{13038}{}{Zdaje siÍ, øe zabijajπc jajog≥owego potwierdzi≥em mojπ}
+{13039}{}{pozycjÍ przywÛdcy. Ludzie wykonujπ teraz moje rozkazy}
+{13040}{}{bez dyskusji. Przes≥uchania nieodmiennie koÒczπ siÍ}
+{13041}{}{jako egzekucje. Shellman wytrzyma≥a najd≥uøej, lecz}
+{13042}{}{efekt koÒcowy by≥ taki sam. Jej argumenty o rozkazach}
+{13043}{}{by≥y trochÍ zbyt szczegÛ≥owe, by byÊ ca≥kowicie}
+{13044}{}{zmyúlone. Mam naprawdÍ z≥e przeczucia co do tego, jak}
+{13045}{}{siÍ to wszystko skoÒczy. Nawet siÍ juø nie ok≥amujÍ}
+{13046}{}{odnoúnie powodÛw likwidowania przeze mnie naukowcÛw.}
+{13047}{}{**END-PAR**}
+# -
+{13048}{}{ï 20 PAè 2077}
+{13049}{}{W koÒcu odpowiedzia≥em úwiatu zewnÍtrznemu przez nasze}
+{13050}{}{radio. Nie wiem, czemu nikogo tu nie przys≥ali, øeby}
+{13051}{}{sprawdziÊ, co siÍ dzieje, po tym, jak przestaliúmy}
+{13052}{}{odpowiadaÊ na ich transmisje. To nie ma sensu. CÛø,}
+{13053}{}{teraz przybÍdπ. Og≥osi≥em naszπ secesjÍ z unii.}
+{13054}{}{O Jeffersonie Davisie pamiÍtajπ. Co historia powie o}
+{13055}{}{mnie?}
+{13056}{}{**END-PAR**}
+# -
+{13057}{}{ï 22 PAè 2077}
+{13058}{}{Co siÍ do cholery dzieje? Og≥aszamy naszπ ca≥kowitπ}
+{13059}{}{dezercjÍ z armii oraz odrzucenie zwierzchnoúci rzπdu}
+{13060}{}{federalnego, i co siÍ dzieje? Nic.}
+{13061}{}{Szykuje siÍ coú z≥ego.}
+{13062}{}{**END-PAR**}
+# -
+{13063}{}{ï 23 PAè 2077}
+{13064}{}{Nie mogÍ uwierzyÊ, øe te bydlaki w koÒcu to zrobi≥y.}
+{13065}{}{Niech ich diabli wezmπ. ZaczÍli rzucaÊ A-bombami.}
+{13066}{}{Byliúmy akurat w úrodku wyciπgania prawdy z Andersona,}
+{13067}{}{gdy kompletnie utraciliúmy ≥πcznoúÊ. Mam przeczucie, øe}
+{13068}{}{centrum badawcze West Techu mocno oberwa≥o. Nie wiem}
+{13069}{}{czemu, to po prostu przeczucie. Wydaje siÍ zupe≥nie}
+{13070}{}{niewyobraøalne, øebyúmy nie byli celem. Jestem pewien,}
+{13071}{}{øe ChiÒczycy skorygujπ to przeoczenie naprawdÍ prÍdko.}
+{13072}{}{Na szczÍúcie, przedwczoraj przenieúliúmy nasze rodziny}
+{13073}{}{do wnÍtrza kompleksu. Nie wiemy jeszcze, czy opad}
+{13074}{}{promieniotwÛrczy dotar≥ do naszego rejonu.}
+{13075}{}{**END-PAR**}
+# -
+{13076}{}{ï 25 PAè 2077}
+{13077}{}{Sierø. Platner zg≥osi≥ siÍ na ochotnika do wyjúcia na}
+{13078}{}{zewnπtrz i dokonania pomiarÛw atmosfery. Wydaje siÍ, øe}
+{13079}{}{promieniowanie tu nie dotar≥o. Jako øe mia≥ na sobie}
+{13080}{}{swÛj pancerz wspomagany, radiacja mu nie zagraøa≥a, ale}
+{13081}{}{gdyby uleg≥ napromieniowaniu, musia≥by zostaÊ wygnany.}
+{13082}{}{Nie dysponujemy tu bowiem odpowiednimi urzπdzeniami}
+{13083}{}{odkaøajπcymi.}
+{13084}{}{**END-PAR**}
+# -
+{13085}{}{ï 26 PAè 2077}
+{13086}{}{Przekona≥em ludzi do pogrzebania naukowcÛw. Nie wiem}
+{13087}{}{dlaczego... Moøe aby uløyÊ mojemu sumieniu. W koÒcu}
+{13088}{}{zaczπ≥em wierzyÊ w ich opowieúci, kiedy ostatni z nich}
+{13089}{}{umiera≥. MÛj Boøe, czym ja siÍ sta≥em?}
+{13090}{}{**END-PAR**}
+# -
+{13091}{}{ï 27 PAè 2077}
+{13092}{}{Dzisiaj opuszczamy to porzucone przez Boga miejsce.}
+{13093}{}{PoprowadzÍ exodus do starego schronu rzπdowego}
+{13094}{}{w Lost Hill. Zostawiam ten dziennik, by uleg≥}
+{13095}{}{pogrzebaniu, gdy ten kompleks oberwie w nastÍpnej}
+{13096}{}{wymianie ognia. Moøe ktoú go kiedyú odnajdzie...}
+{13097}{}{**END-DISK**}
+
+
+# Computer Download of the FEV project
+# Uses the global var COMPUTER_FEV
+
+{14000}{}{KrÛtkie podsumowanie Projektu FEV}
+{14001}{}{**END-PAR**}
+{14002}{}{2073. Gdy Chiny zaczÍ≥y postÍpowaÊ coraz bardziej}
+{14003}{}{agresywnie odnoúnie swoich broni biologicznych, Rzπd}
+{14004}{}{StanÛw Zjednoczonych AP uzna≥, iø potrzebne sπ úrodki}
+{14005}{}{zaradcze. Projekt Wirionu Wszechodpornoúci (PVP) zosta≥}
+{14006}{}{oficjalnie zainicjowany w dniu 15 wrzeúnia 2073. }
+{14007}{}{**END-PAR**}
+#
+{14008}{}{2075. Sta≥o siÍ jasne, iø najlepszπ metodÍ walki z}
+{14009}{}{nowoopracowanymi broniami biologicznymi stanowi}
+{14010}{}{zmodyfikowanie niezainfekowanego DNA tak, aby nie by≥o}
+{14011}{}{juø podatne na standardowe infekcje wirusowe.}
+{14012}{}{**END-PAR**}
+#
+{14013}{}{2076. Nieprzewidziane efekty uboczne PVP zaczÍ≥y siÍ}
+{14014}{}{ujawniaÊ na poczπtku roku 2076. Testowe obiekty}
+{14015}{}{zwierzÍce wykazywa≥y niezwyk≥e tempo wzrostu cia≥a i}
+{14016}{}{zwiÍkszonπ aktywnoúÊ mÛzgu. Rzπd SZ zapozna≥ siÍ z tymi}
+{14017}{}{odkryciami i, w interesie bezpieczeÒstwa narodowego,}
+{14018}{}{wydelegowa≥ na miejsce badaÒ zespÛ≥, by zabezpieczaÊ}
+{14019}{}{oraz nadzorowaÊ projekt, przemianowany wÛwczas na}
+{14020}{}{Projekt FEV (Wirusa Wymuszonej Ewolucji).}
+{14021}{}{**END-PAR**}
+#
+{14022}{}{2077. FEV zbliøa siÍ do ukoÒczenia. Testy na obiektach}
+{14023}{}{zwierzÍcych niemal w 100% koÒczπ siÍ powodzeniem.}
+{14024}{}{Gabaryty i umiÍúnienie rosnπ o ok. 60%, a inteligencja}
+{14025}{}{potencjalnie o 200%. Efekty oddzia≥ywanie na obiekty}
+{14026}{}{ludzkie pozostajπ nieznane, choÊ teoretycznie sπ}
+{14027}{}{obiecujπce. Wojsko, chcπc prowadziÊ dalsze badania,}
+{14028}{}{zbudowa≥o duøy oúrodek na terenie Bazy Wojskowej}
+{14029}{}{Mariposa w úrodkowej Kalifornii. W tym nowym oúrodku}
+{14030}{}{kontynuowane sπ testy Wirusa Wymuszonej Ewolucji na}
+{14031}{}{ochotniczych obiektach z szeregÛw si≥ zbrojnych.}
+{14032}{}{**END-DISK**}
+
+
+# Computer Downlod of the Power Armor Specs
+# Uses the global var COMPUTER_POWER_ARMOR
+
+{15000}{}{Wspomagany pancerz bojowy piechoty T-51b zosta≥}
+{15001}{}{wyposaøony w najnowsze systemy obrony pasywnej przeciw}
+{15002}{}{zagroøeniom tak cywilnym, jak i militarnym. Plecakowy}
+{15003}{}{reaktor termojπdrowy TX-28 o mocy 60.000 watÛw zasila}
+{15004}{}{systemy hydrauliczne UltraP≥aw wbudowane w szkielet}
+{15005}{}{kombinezonu. Wykonana z najnowszych kompozytÛw skorupa}
+{15006}{}{T-51b jest lekka i zdolna do zaabsorbowania ponad 2.500}
+{15007}{}{døuli energii kinetycznej. Srebrna os≥ona ablacyjna, o}
+{15008}{}{gruboúci 10 mikronÛw, jest w stanie odbijaÊ emisje}
+{15009}{}{laserowe i radiacyjne bez naruszania powierzchni.}
+{15010}{}{**END-DISK**}
+
+
+# Computer Download of the Personel Records
+# Uses the global var COMPUTER_RECORDS
+
+{16000}{}{Robert Anderson}
+{16001}{}{Asystent badawczy}
+{16002}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16003}{}{Miejsce pracy: Baza Wojskowa Mariposa}
+{16004}{}{**END-PAR**}
+#
+{16005}{}{Nick Davis}
+{16006}{}{Dyrektor dzia≥u ABC korporacji West Tech}
+{16007}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16008}{}{Miejsce pracy: Oúrodek Badawczy West Tech}
+{16009}{}{**END-PAR**}
+#
+{16010}{}{John Isaac}
+{16011}{}{Asystent badawczy}
+{16012}{}{Certyfikat bezpieczeÒstwa: Czerwony}
+{16013}{}{Miejsce pracy: Oúrodek Badawczy West Tech}
+{16014}{}{**END-PAR**}
+#
+{16015}{}{Steve Remco}
+{16016}{}{Asystent badawczy}
+{16017}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16018}{}{Miejsce pracy: Baza Wojskowa Mariposa}
+{16019}{}{**END-PAR**}
+#
+{16020}{}{Charles Rignhold}
+{16021}{}{Kierownik badaÒ nad rozwojem laserÛw}
+{16022}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16023}{}{Miejsce pracy: Oúrodek Badawczy West Tech}
+{16024}{}{**END-PAR**}
+#
+{16025}{}{Michele Santose}
+{16026}{}{Technik laboratoryjny}
+{16027}{}{Certyfikat bezpieczeÒstwa: Czerwony}
+{16028}{}{Miejsce pracy: Oúrodek Badawczy West Tech}
+{16029}{}{**END-PAR**}
+#
+{16030}{}{Erin Shellman}
+{16031}{}{Technik laboratoryjny}
+{16032}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16033}{}{Miejsce pracy: Baza Wojskowa Mariposa}
+{16034}{}{**END-PAR**}
+#
+{16035}{}{Leon von Felden}
+{16036}{}{Kierownik badaÒ nad FEV}
+{16037}{}{Certyfikat bezpieczeÒstwa: Niebieski}
+{16038}{}{Miejsce pracy: Baza Wojskowa Mariposa}
+{16039}{}{**END-DISK**}
+
+# Holodisk from the Brotherhood Library
+# uses the global var BROTHERHOOD_LIBRARY_DISK
+
+{17000}{}{Przewodnik po Kryptach (ZachÛd) v34.129 Wydanie C}
+{17001}{}{**END-PAR**}
+#
+{17002}{}{Witamy w najnowszej edycji Przewodnika po Kryptach}
+{17003}{}{zachodnich StanÛw Zjednoczonych. Mamy nadziejÍ, iø Ci}
+{17004}{}{siÍ on spodoba, i prosimy, abyú pamiÍta≥/a, øe Krypty}
+{17005}{}{nie sπ tylko dla zamoønych, lecz dla kaødego.}
+{17006}{}{**END-PAR**}
+#
+{17007}{}{Krypta 12}
+{17008}{}{**END-PAR**}
+#
+{17009}{}{Pod nowπ, rozrastajπcπ siÍ metropoliπ Baker leøy}
+{17010}{}{technologiczna wspania≥oúÊ Krypty 12. Wybudowana z}
+{17011}{}{myúlπ o wszelkich wygodach potencjalnych MieszkaÒcÛw,}
+{17012}{}{Krypta 12 otrzyma≥a nagrodÍ "Hermetycznego Kombinezonu"}
+{17013}{}{za przyk≥adnπ gotowoúÊ. Ukryta g≥Íboko pod ziemiπ,}
+{17014}{}{zapewni swoim MieszkaÒcom niedoúcig≥π ochronÍ. Podobnie}
+{17015}{}{jak wszystkie inne, Krypta 12 zosta≥a wyposaøona w}
+{17016}{}{najnowszπ odmianÍ Schronowego Systemu Uzdatniania Wody.}
+{17017}{}{”w system, zdolny nawet do przetworzenia nieczystoúci}
+{17018}{}{znajdujπcych siÍ w kana≥ach úciekowych Baker, jest w}
+{17019}{}{stanie dostarczaÊ codziennie ponad 60.000 litrÛw}
+{17020}{}{krystalicznie czystej, odúwieøajπcej wody pitnej.}
+{17021}{}{**END-PAR**}
+#
+{17022}{}{Krypta 13}
+{17023}{}{**END-PAR**}
+#
+{17024}{}{Po≥oøona w malowniczej, gÛrskiej okolicy na pÛ≥nocny}
+{17025}{}{zachÛd od Krypty 12, Krypta 13 oferuje swoim Lokatorom}
+{17026}{}{nieograniczone dostawy czystej wody. Plotki, øe wody}
+{17027}{}{gruntowe na tym obszarze mogπ ≥atwo ulec skaøeniu w}
+{17028}{}{razie wybuchu wojny nuklearnej, zosta≥y ocenione przez}
+{17029}{}{Departament Wody i Energii jako zupe≥nie bezpodstawne.}
+{17030}{}{Na wypadek zanieczyszczenia tychøe wÛd, jakkolwiek}
+{17031}{}{nieskoÒczenie ma≥o prawdopodobny, Krypta 13 zosta≥a}
+{17032}{}{wyposaøona w zaaprobowany przez rzπdowych ekspertÛw}
+{17033}{}{Schronowy System Uzdatniania Wody. Wed≥ug szacunkÛw}
+{17034}{}{moøe on pracowaÊ bez znaczπcego spadku wydajnoúci przez}
+{17035}{}{ponad 250.000 godzin, zatem nie ma siÍ czego obawiaÊ.}
+{17036}{}{**END-PAR**}
+#
+{17037}{}{Krypta 15}
+{17038}{}{**END-PAR**}
+#
+{17039}{}{Budowa tejøe Krypty, leøπcej na wschÛd od Krypty 13,}
+{17040}{}{przebiega≥a niezwykle g≥adko. Wiele pracy poúwiÍcono}
+{17041}{}{umocnieniu úcian na jej trzecim poziomie, by zapewniÊ}
+{17042}{}{wszystkim potencjalnym MieszkaÒcom wiÍksze poczucie}
+{17043}{}{bezpieczeÒstwa, wynikajπce ze úwiadomoúci, øe nawet w}
+{17044}{}{przypadku powaønego trzÍsienia ziemi komputery}
+{17045}{}{sterujπce bÍdπ nadal funkcjonowaÊ. Wycieczki po tej}
+{17046}{}{nowej Krypcie pozostawi≥y wielu jej potencjalnych}
+{17047}{}{LokatorÛw pod wraøeniem usprawnieÒ poczynionych w tym}
+{17048}{}{juø i tak imponujπcym obiekcie.}
+{17049}{}{**END-DISK**}
+
+#Regulator Disk from Blades
+
+{18000}{}{Zapis transmisji radiowej RegulatorÛw:}
+{18001}{}{**END-PAR**}
+{18002}{}{NADAWCA: Patrol RegulatorÛw do bazy RegulatorÛw,}
+{18003}{}{zg≥oúcie siÍ. Odbieracie? OdbiÛr.}
+{18004}{}{**END-PAR**}
+{18005}{}{ODBIORCA: Tu baza RegulatorÛw, mÛwi Pierwszy Regulator}
+{18006}{}{Caleb. Raport? OdbiÛr.}
+{18007}{}{**END-PAR**}
+{18008}{}{NADAWCA: Tak jest! Regulator drugiej klasy Cravotta}
+{18009}{}{melduje. Przychwyciliúmy ch≥opca Zimmermana na ponownej}
+{18010}{}{prÛbie przedostania siÍ przez nasz obwÛd ochronny.}
+{18011}{}{Rozkazy? OdbiÛr.}
+{18012}{}{**END-PAR**}
+{18013}{}{ODBIORCA: Kurwa! Znowu! No, zdarzy≥o siÍ to juø po raz}
+{18014}{}{ostatni. WyeliminowaÊ go i zrobiÊ to tak, øeby}
+{18015}{}{wyglπda≥o na robotÍ Ostrzy.}
+{18016}{}{Zrozumiano? OdbiÛr.}
+{18017}{}{**END-PAR**}
+{18018}{}{NADAWCA: ProszÍ pana? Eee... Czy zrozumia≥em pana}
+{18019}{}{w≥aúciwie? ZabiÊ go? OdbiÛr.}
+{18020}{}{**END-PAR**}
+{18021}{}{ODBIORCA: Potwierdzam, Regulatorze.}
+{18022}{}{I chcÍ niez≥ego pieprzniku. ZrÛbcie z niego przed}
+{18023}{}{ogrodzeniem iguanÍ na patyku - a, i obciπÊ mu jÍzyk,}
+{18024}{}{øeby nie mÛg≥ gadaÊ, jak bÍdziemy prÛbowali "ratowaÊ"}
+{18025}{}{jego øa≥osne dupsko. OdbiÛr?}
+{18026}{}{**END-PAR**}
+{18027}{}{NADAWCA: Wedle rozkazu, proszÍ pana, bez odbioru.}
+{18028}{}{**END-PAR**}
+{18029}{}{Koniec transmisji.}
+{18030}{}{**END-DISK**}
