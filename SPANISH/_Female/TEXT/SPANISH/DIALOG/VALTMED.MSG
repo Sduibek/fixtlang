@@ -1,1 +1,0 @@
-{100}{}{Este es el Laboratorio Médico de Emergencias (LME) del Refugio. Está aquí para que puedan ser tratadas todas las heridas graves e indisposiciones. Debería haber un médico de guardia las 24 horas del día.}

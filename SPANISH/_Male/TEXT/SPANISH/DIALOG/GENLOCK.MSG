@@ -1,7 +1,0 @@
-{100}{}{El recipiente parece estar cerrado.}
-{101}{}{Consigues forzar la cerradura con éxito.}#todo_normal success	Sduibek
-{102}{}{Tu destreza no sirve para forzar la cerradura.}
-{103}{}{No consigues forzar la cerradura.}
-{104}{}{La taquilla ya está abierta}
-{105}{}{¡Rompes tus ganzúas con la cerradura!}#todo_ increase percentage
-{106}{}{Abres la cerradura con destreza.}#todo_crit success		Sduibek
