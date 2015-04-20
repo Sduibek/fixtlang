@@ -1,13 +1,32 @@
-# Auto detect text files and perform LF normalization
+#
+# The built-in macro attribute "binary" is equivalent to -diff -merge -text
+#
+# Auto-detect text files and perform LF normalization
 * text=auto
 
-# Custom for Fallout scripts
+# Custom for FALLOUT scripts
 *.ssl  diff=pascal
 *.Ssl  diff=pascal
 *.SSL  diff=pascal
+*.h  diff=pascal
+*.H  diff=pascal
 
 # Custom for Visual Studio
 *.cs  diff=csharp
+*.config  diff=csharp
+*.csproj  diff=csharp
+*.manifest  diff=csharp
+*.resx  diff=csharp
+*.settings  diff=csharp
+*.user  diff=csharp
+*.xml  diff=csharp
+*.cpp  diff=cpp
+*.filters  diff=cpp
+*.vcxproj  diff=cpp
+
+# Hypertext markup
+*.html  diff=html
+*.htm  diff=html
 
 # Standard to msysgit
 *.diz  diff=astextplain
@@ -36,8 +55,8 @@
 *.CAB  binary -delta
 *.dat  binary -delta
 *.DAT  binary -delta
-*.dll  binary -delta -diff
-*.DLL  binary -delta -diff
+*.dll  binary -delta
+*.DLL  binary -delta
 *.exe  binary -delta
 *.EXE  binary -delta
 *.gz  binary -delta
@@ -70,13 +89,13 @@
 ###############################
 
 # UI graphics
-*.001  binary -delta -diff
+*.001  binary -delta
 
 # Fonts
-*.aaf  binary -delta -diff
-*.AAF  binary -delta -diff
-*.fon  binary -delta -diff
-*.FON  binary -delta -diff
+*.aaf  binary -delta
+*.AAF  binary -delta
+*.fon  binary -delta
+*.FON  binary -delta
 
 # Music and sounds
 *.acm  binary -delta
@@ -87,20 +106,20 @@
 *.EDG  binary -delta
 
 # Graphics
-*.fr0  binary -delta -diff
-*.FR0  binary -delta -diff
-*.fr1  binary -delta -diff
-*.FR1  binary -delta -diff
-*.fr2  binary -delta -diff
-*.FR2  binary -delta -diff
-*.fr3  binary -delta -diff
-*.FR3  binary -delta -diff
-*.fr4  binary -delta -diff
-*.FR4  binary -delta -diff
-*.fr5  binary -delta -diff
-*.FR5  binary -delta -diff
-*.frm  binary -delta -diff
-*.FRM  binary -delta -diff
+*.fr0  binary -delta
+*.FR0  binary -delta
+*.fr1  binary -delta
+*.FR1  binary -delta
+*.fr2  binary -delta
+*.FR2  binary -delta
+*.fr3  binary -delta
+*.FR3  binary -delta
+*.fr4  binary -delta
+*.FR4  binary -delta
+*.fr5  binary -delta
+*.FR5  binary -delta
+*.frm  binary -delta
+*.FRM  binary -delta
 
 # Saved characters
 *.gcd  binary -delta
@@ -123,16 +142,16 @@
 *.MVE  binary -delta
 
 # Graphics palettes
-*.pal  binary -delta -diff
-*.PAL  binary -delta -diff
+*.pal  binary -delta
+*.PAL  binary -delta
 
 # Critter stats
 *.pro  binary -delta
 *.PRO  binary -delta
 
 # Splash screens
-*.rix  binary -delta -diff
-*.RIX  binary -delta -diff
+*.rix  binary -delta
+*.RIX  binary -delta
 
 # Save files
 *.sav  binary -delta
