@@ -1,6 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Custom for Fallout scripts
+*.ssl  diff=pascal
+*.Ssl  diff=pascal
+*.SSL  diff=pascal
+
 # Custom for Visual Studio
 *.cs  diff=csharp
 
@@ -31,8 +36,8 @@
 *.CAB  binary -delta
 *.dat  binary -delta
 *.DAT  binary -delta
-*.dll  binary -delta
-*.DLL  binary -delta
+*.dll  binary -delta -diff
+*.DLL  binary -delta -diff
 *.exe  binary -delta
 *.EXE  binary -delta
 *.gz  binary -delta
@@ -65,13 +70,13 @@
 ###############################
 
 # UI graphics
-*.001  binary -delta
+*.001  binary -delta -diff
 
 # Fonts
-*.aaf  binary -delta
-*.AAF  binary -delta
-*.fon  binary -delta
-*.FON  binary -delta
+*.aaf  binary -delta -diff
+*.AAF  binary -delta -diff
+*.fon  binary -delta -diff
+*.FON  binary -delta -diff
 
 # Music and sounds
 *.acm  binary -delta
@@ -82,20 +87,20 @@
 *.EDG  binary -delta
 
 # Graphics
-*.fr0  binary -delta
-*.FR0  binary -delta
-*.fr1  binary -delta
-*.FR1  binary -delta
-*.fr2  binary -delta
-*.FR2  binary -delta
-*.fr3  binary -delta
-*.FR3  binary -delta
-*.fr4  binary -delta
-*.FR4  binary -delta
-*.fr5  binary -delta
-*.FR5  binary -delta
-*.frm  binary -delta
-*.FRM  binary -delta
+*.fr0  binary -delta -diff
+*.FR0  binary -delta -diff
+*.fr1  binary -delta -diff
+*.FR1  binary -delta -diff
+*.fr2  binary -delta -diff
+*.FR2  binary -delta -diff
+*.fr3  binary -delta -diff
+*.FR3  binary -delta -diff
+*.fr4  binary -delta -diff
+*.FR4  binary -delta -diff
+*.fr5  binary -delta -diff
+*.FR5  binary -delta -diff
+*.frm  binary -delta -diff
+*.FRM  binary -delta -diff
 
 # Saved characters
 *.gcd  binary -delta
@@ -118,16 +123,16 @@
 *.MVE  binary -delta
 
 # Graphics palettes
-*.pal  binary -delta
-*.PAL  binary -delta
+*.pal  binary -delta -diff
+*.PAL  binary -delta -diff
 
 # Critter stats
 *.pro  binary -delta
 *.PRO  binary -delta
 
 # Splash screens
-*.rix  binary -delta
-*.RIX  binary -delta
+*.rix  binary -delta -diff
+*.RIX  binary -delta -diff
 
 # Save files
 *.sav  binary -delta
