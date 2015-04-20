@@ -1,0 +1,265 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a weary traveler.}
+#{101}{}{You see Lance, one of the guards from Shady Sands' long-range patrols.}
+#{102}{}{Just stay where you are. We've heard about you in Shady Sands and
+# we want no part of you.}
+#{103}{}{The only part of you that I want is what you're carrying. Strip down.}
+#{104}{}{I'm a man of peace, friend.}
+#{105}{}{Hey, didn't I save Tandi and kill off all your radscorpions?}
+#{106}{}{I have no quarrel with Shady Sands. I kinda like the place.}
+#{107}{}{Herung?}
+#{108}{}{I heard about you, and I ain't letting you kill me.}
+#{109}{}{I don't have anything to say to you.}
+#{110}{}{Yeah? What d'ya want this time?}
+#{111}{}{Would you know where I could find a water chip?}
+#{112}{}{Any sign of Tandi?}
+#{113}{}{Any problems with raiders lately?}
+#{114}{}{How are things in Shady Sands?}
+#{115}{}{Hnng!}
+{100}{}{你看到一位疲惫的旅行者。}
+{101}{}{你看到兰斯，一位刚从长途巡逻中返回的沙荫镇守卫。}
+{102}{}{站在那别动。我们听说了你在沙荫镇干的好事，这里没人想和你打交道。}
+{103}{}{我只想要你运的东西。交出来。}
+{104}{}{朋友，我是一个和平主义者。}
+{105}{}{嘿！难道不是我杀了那些辐射蝎并且救回了坦蒂？}
+{106}{}{我和沙荫镇没过节，我有点喜欢这儿。}
+{107}{}{唔唔?}
+{108}{}{我听说过你，我不会让你杀了我的。}
+{109}{}{我没什么要对你讲的。}
+{110}{}{是吗？你想现在要干什么？}
+{111}{}{你知道哪里可以找到净水芯片吗？}
+{112}{}{有坦蒂的消息吗？}
+{113}{}{最近有没有强盗的消息？}
+{114}{}{沙荫镇怎么样？}
+{115}{}{哼!}
+#{116}{}{Hello, stranger. What brings you out in the wastes? Where are you from?}
+#{117}{}{I could ask the same thing about you.}
+#{118}{}{Sorry friend, but I get the impression that's a rather dangerous
+# question to answer.}
+#{119}{}{Know any place good to get supplies?}
+#{120}{}{I'm from a Vault. Lucky Vault 13!}
+#{121}{}{Waaah?}
+#{122}{}{Hello, stranger. I'd recommend that you keep on moving, if you
+# know what's good for you.}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+#{123}{}{Hello, }
+#{124}{}{. I thought you were our friend when you rescued Tandi, but now I hear
+# some real nasty rumors about you. Are they true?}
+#{125}{}{People say all sorts of things. Who cares?}
+#{126}{}{I ain't your friend. And if you make a wrong move, I'll spill your
+# innards. You got that?}
+#{127}{}{What kind of rumors?}
+#{128}{}{Yeah. They're all true. Now strip down so I can take what you've got.}
+#{129}{}{Maybe I've done a few things I regret, but you should know better than
+# believing that crap.}
+{116}{}{你好，陌生人。什么让你来到废土？你又是从哪里来？}
+{117}{}{我会问你同样的问题。}
+{118}{}{抱歉朋友，我觉得这样贸然回答你的问题是相当危险的。}
+{119}{}{那里补给比较好呢？}
+{120}{}{我来自避难所，幸运的13号避难所！}
+{121}{}{呃？}
+{122}{}{您好，陌生人。如果你不想发生不愉快的事，我建议你走开。}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+{123}{}{你好，}
+{124}{}{。自从你救回坦蒂后我们就把你当成了朋友，但是最近我听到了一些关于你的肮脏谣言，那些是真的吗？}
+{125}{}{林子大了什么鸟都有，管他呢？}
+{126}{}{别跟我套近乎，如果你敢走错一步，我就会打到你肚肠都流出来。听到了吗？}
+{127}{}{什么谣言？}
+{128}{}{哈哈，你说对了。现在把你身上的东西都交出来。}
+{129}{}{也许我做错了一些会让我后悔的事情，但是你应该明白那些都是对我的诬蔑。}
+#{130}{}{. Am I glad it's you and not some raider! How's it going! I'm Lance, one
+# of the guards over in Shady Sands. Sorry we gave you such a hard time when
+# you first came to town!}
+#{131}{}{Hi Lance, what's up?}
+#{132}{}{Hi Lance. I used to be a nice person, but then life screwed me. Now strip
+# down and hand over your stuff.}
+#{133}{}{Don't sweat it, Lance. What are you doing out here alone?}
+#{134}{}{Fine. But I'll remember this.}
+#{135}{}{Up yours.}
+#{136}{}{Spare me the idle threats, boy. I kill children like you in my sleep.
+# Hand over your belongings, and I may let you live.}
+#{137}{}{If you really think I'm a threat, go ahead and kill me.}
+#{138}{}{Let's make a wrong move. I always wanted to see what my innards look like.}
+#{139}{}{That was then, this is now. What have you done for us lately? I
+# think you better leave before I get ornery.}
+#{140}{}{We like it too. Especially when you're not in it. Now get!}
+#{141}{}{Man, you musta spent too much time in the Glow!}
+#{142}{}{I don't know what a water chip is. Sorry.}
+#{143}{}{It's an electronic device used in water purification systems.}
+#{144}{}{How's the radscorpion problem?}
+{130}{}{。我很高兴你和那些强盗不是一路人！怎么说呢！我是兰斯，沙荫镇的治安官。我对我们在你刚来这里表现的不信任表示歉意。}
+{131}{}{嘿兰斯，怎么了？}
+{132}{}{嘿兰斯。我曾经也是个正派人，但是身不由己，现在交出你的东西。}
+{133}{}{别紧张，兰斯。你一个人在这做什么？}
+{134}{}{很好。我会记住的。}
+{135}{}{随你的。}
+{136}{}{小宝贝，留着你的话去吓唬别人吧。我闭着眼睛都能干掉你。把身上的东西交出来，我留你一条命。}
+{137}{}{如果你真的认为我是威胁，就过来杀了我吧。}
+{138}{}{那就让我们来试试。我一直都想看看自己的肚肠是什么样子。}
+{139}{}{此一时彼一时。最近你对我们做了什么？在我发作前滚远点。}
+{140}{}{我们也很喜欢。尤其是在你死菜的时候。受死吧！}
+{141}{}{老弟，你大概是去了闪光之地太久，待傻了。}
+{142}{}{很抱歉我不知道你说的净水芯片是什么。}
+{143}{}{那是一个安装在水纯化系统中的电子装置。}
+{144}{}{辐射蝎的问题解决了吗？}
+#{145}{}{The raiders got her. I'm part of one of the search parties. I think she's
+# at the raider camp south of Shady Sands, but the Khans have the place sealed up
+# like a fortress.}
+#{146}{}{Can you take me to Shady Sands?}
+#{147}{}{Can you take me to the Khans?}
+#{148}{}{We'll have to find a way to get her back.}
+#{149}{}{Thanks for the information. Good luck with the search.}
+#{150}{}{Uh, yeah, but we're handling it a little better since the Khans got their
+# bloody nose. I understand we have you to thank for that. We're grateful.}
+#{151}{}{I wouldn't mind seeing a little gratitude.}
+#{152}{}{Thanks. Anything else I can do?}
+#{153}{}{Let me know if they bother you again.}
+#{154}{}{We're doing okay.}
+#{155}{}{Are you sure about that?}
+#{156}{}{That's great.}
+#{157}{}{I haven't a clue. Idiot.}
+#{158}{}{Okay, I'll trust you. I'm from Shady Sands. We're a community not far from
+# here.}
+#{159}{}{Could you take me there?}
+#{160}{}{What's the town like?}
+#{161}{}{Any water chips there?}
+#{162}{}{Sounds like a nice place.}
+{145}{}{强盗把坦蒂绑走了。我也是搜救中的一员。我估计她现在被关在一个位于沙荫镇南边的强盗窝里。但那里戒备森严，可汗帮明显不想让任何人接近。}
+{146}{}{你能带我去沙荫镇吗？}
+{147}{}{您能带我去见可汗帮吗？}
+{148}{}{我们必须设法把她救回来。}
+{149}{}{谢谢你的消息，祝你好运。}
+{150}{}{自从教训了可汗帮后我们的情况好点了。真的很感谢你，我们欠你太多了。}
+{151}{}{我想要点报酬。}
+{152}{}{谢谢。还有其他我能做的吗？}
+{153}{}{他们再来的话，和我说一声，我来摆平。}
+{154}{}{我们还好。}
+{155}{}{确定吗？}
+{156}{}{太棒了！}
+{157}{}{我不明白你的意思，白痴。}
+{158}{}{好吧，我相信你。我是从沙荫镇来的。那是一个离此地不远的村落。}
+{159}{}{你能带我去哪里吗？}
+{160}{}{那个小镇怎么样？}
+{161}{}{我能在哪找到净水芯片吗？}
+{162}{}{听起来是个好地方。}
+#{163}{}{Well, you keep your secrets, I'll keep mine. Good bye.}
+#{164}{}{Maybe it is. A pity, though.}
+#{165}{}{I've been to Junktown. I think it's southwest of here, but I've been
+# traveling for so many days it's hard to tell.}
+#{166}{}{Yeah, right. All the Vaults were destroyed, as far as I know. Tell me
+# another one.}
+#{167}{}{That's not what I was asking . . . oh, never mind!}
+#{168}{}{That's not an answer. They call you assassin, thief, grave-robber. They
+# say you'll kill anyone who gets in your path. Is it true?}
+#{169}{}{Well, I haven't killed you yet, so obviously someone's lying.}
+#{170}{}{Pretty much. I've had my share of good times.}
+#{171}{}{I've made my share of enemies. I've left enough of them alive to slander
+# me.}
+{163}{}{好吧，你有你的秘密，我有我的，再见。}
+{164}{}{也许是吧。尽管有些遗憾。}
+{165}{}{我曾进去过迦克镇。它大概在这儿的西南方，但那时我走了很远的路所以不太确定。}
+{166}{}{是的。据我所知，所有的避难所都毁了。告诉我其他的事情。}
+{167}{}{那不是我想问的……噢，别介意！}
+{168}{}{那算不上什么回答。他们议论说你是一个杀手，小偷，盗墓贼。说你会杀掉任何你看不顺眼的人。这些都是真的吗？}
+{169}{}{好了，我不是到现在都没有杀你吗？很明显他们在说谎。}
+{170}{}{有不少是真的。我已经过了不少好日子了。}
+{171}{}{我曾树敌不少。对他们我已经手下留情了。}
+{172}{}{我很少杀人，也不是滥杀无辜。}
+#{172}{}{I've killed quite a few people, yeah. I always had a reason.}
+#{173}{}{They call you assassin, thief, grave-robber. They say you'll kill anyone
+# who gets in your path. Is it true?}
+#{174}{}{Okay, I'll do it. But if you keep acting like a raider, you'll die like
+# a raider.}
+#{175}{}{I'll give you the benefit of the doubt, for now. But a man's only as good
+# as his reputation, and yours could use some work. I hope you'll do something
+# about it before we meet again.}
+#{176}{}{Just heading back to town. You wanna come along? I could use the company.}
+#{177}{}{Sure.}
+#{178}{}{Not today.}
+#{179}{}{A little bit of scavenging. We've found a few abandoned raider bases that
+# haven't been picked clean; I suspect they've been attacking each other. We can
+# always use more ammo and drugs.}
+#{180}{}{I'm going to regret this.}
+#{181}{}{Get out of my sight before I come to my senses.}
+#{182}{}{We're still seeing a few; they must be migrating from the high desert or
+# the Glow. But it's a lot better now than it was last year, thanks to you.}
+#{183}{}{Sounds good. Bye.}
+#{184}{}{Sure. Let's go.}
+{173}{}{他们议论说你是一个杀手，小偷，盗墓贼。说你会杀掉任何你看不顺眼的人。这些都是真的吗？}
+{174}{}{当然，我们会的。如果你干的事像个强盗，我们也会宰了你。}
+{175}{}{我现在对你暂不下定论。不过一个人的荣誉是最重要的，而你显然仍须努力。希望我们下次见面时你已有所改观。}
+{176}{}{我们正要回镇上。一起走吗？我们有保镖护送。}
+{177}{}{当然。}
+{178}{}{今天不行。}
+{179}{}{还有些清理的活儿没干完。我们发现了几个荒废了的强盗窝点没被收拾干净；我猜他们互相火并，我们就能获得更多的弹药和药品。}
+{180}{}{我会为此遗憾终生。}
+{181}{}{在我发作之前你最好从我眼前消失。}
+{182}{}{我们仍看到零星的小群，它们一定是在从沙漠深处和闪光之地向这里迁徙。目前我们看到的还只是一小部分，但比起去年已经好很多了，我们很感谢你。}
+{183}{}{听起来不错。再见！}
+{184}{}{当然。我们走。}
+#{185}{}{Man, I must be out of my mind. But I'll take you. Let's go.}
+#{186}{}{Have a good suicide, friend. And for what it's worth, good luck.}
+#{187}{}{I'm heading out. You take care of yourself.}
+#{188}{}{Well, I don't have much, but what's mine is yours.}
+#{189}{}{Not that I can think of. I'm heading out. You take care of yourself.}
+#{190}{}{We will. I'm heading out. You take care of yourself.}
+#{191}{}{Well, okay. Let's go.}
+#{192}{}{I won't lead a possible enemy home. If you do make your way to Shady Sands,
+# keep your nose clean.}
+#{193}{}{Small. We make our living herding Brahmin. It's pretty rough country
+# around here, and pasture land is rather precious.}
+#{194}{}{In a Brahmin herding backwater? You've gotta be crazy! There's probably
+# not a working piece of electronics within two hundred miles.}
+#{195}{}{You got a point. I think we should play things cautious and go our
+# separate ways. If I were you, I'd do something about those stories. Unless you
+# like people hating and mistrusting you.}
+#{196}{}{I should kill you right now. You cross my path again, and I will. Now get.}
+#{197}{}{Let's go.}
+{185}{}{我想我一定是疯了。我会带你走。走吧。}
+{186}{}{好好去寻死吧，反正你觉得很值。祝你好运，朋友。}
+{187}{}{我要出发了，你多保重。}
+{188}{}{我没有很多，不过你尽管拿。}
+{189}{}{我已经顾不了那么多了。走了，你多保重。}
+{190}{}{我们会的。我要走了，你多保重。}
+{191}{}{好的。我们走。}
+{192}{}{我不会带一个炸弹回家。如果你想去沙荫镇，最好给我规规矩矩的。}
+{193}{}{村子太小。我们靠养双头牛维生。这儿周围都是贫瘠的荒地，牧场是很宝贵的。}
+{194}{}{在这放养双头牛的鬼乡下？你一定是疯了！可能这方圆两百里内没有一块能工作的电子元件。}
+{195}{}{你找到了问题的关键。我想我们应当沿着这条线索谨慎的找下去。如果我是你，我会去调查这件事。否则人们将来很难会再信任你。}
+{196}{}{你又坏了我的好事，这次我一定要杀了你。}
+{197}{}{我们走。}
+#{198}{}{Let me guess, someone told you about my snoring. Oh well. You take care
+# of yourself.}
+#{199}{}{It is. Well, I'm heading out. You take care of yourself.}
+#{200}{}{Just you stay where you are. I don't know if you're in league with those
+# mutants, but if you are, I'll kill you.}
+#{201}{}{What mutants?}
+#{202}{}{Who are you?}
+#{203}{}{What happened to you?}
+#{204}{}{Okay, that's cool.}
+#{205}{}{Ru-huh?}
+#{206}{}{The mutants overran Shady Sands. Must of use are dead. I guess it's only
+# a matter of time before they get the rest of us.}
+#{207}{}{I don't care what you say, what you ask. We're all dead! All of us! And
+# I thought the raiders and the rad scorpions were bad . . . they were nothing!
+# Ha! Ha ha ha!}
+#{208}{}{Shut up! I don't feel like talking! Talking accomplishes nothing!
+# Talking just bores the hell out of me . . .}
+{198}{}{让我猜猜，一定是有人告诉你我打鼾的秘密了。呵呵，你多保重。}
+{199}{}{是这样。好了，我该出发了。你多保重。}
+{200}{}{呆在那别动。我不知道你是否加入了变种人。如果是真的，我会毫不犹豫的杀了你。}
+{201}{}{变种人是什么？}
+{202}{}{你是谁？}
+{203}{}{你怎么了？}
+{204}{}{好的，非常棒！}
+{205}{}{呃哼？}
+{206}{}{变种人会席卷沙荫镇，我们大部分人都会死。他们找到我们只是时间问题了！}
+{207}{}{你和我说什么都没有用。我们都要死了！我们所有的人！那些该死的强盗和辐射蝎再也算不了什么了……哈！哈！哈！}
+{208}{}{闭嘴！我不喜欢像这样毫无意义的争吵！我最烦的就是他妈的吵架……}
+

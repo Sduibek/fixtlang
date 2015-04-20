@@ -1,0 +1,110 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Smitty.}
+{100}{}{你看见施密蒂。}
+
+#{101}{}{You see a large, muscular man.}
+{101}{}{你看见一个魁梧的肌肉男。}
+
+#{102}{}{Good day. What can I do for you?}
+{102}{}{日安。我能为你做什么？}
+
+#{103}{}{What do you want?}
+{103}{}{你要什么？}
+
+#{104}{}{May I ask your name?}
+{104}{}{我能请问你的名字吗？}
+
+#{105}{}{I need you to fix these parts for me, so that I can fix your hydroponic farms.}
+{105}{}{我需要你为我修这些零件，这样我才能修理你们的水栽培农场。}
+
+#{106}{}{I'd like to buy something.}
+{106}{}{我想要买些东西。}
+
+#{107}{}{Can I ask you a few questions?}
+{107}{}{我能问你些问题吗？}
+
+#{108}{}{Nothing, thanks. See you around.}
+{108}{}{没事，谢谢。回头见。}
+
+#{109}{}{Uhhh . . .}
+{109}{}{呃……}
+
+#{110}{}{I'd recommend that you check out Tine's store, just to one side of the gates. I
+#don't actually sell anything here; I trade it to Tine or the Hub merchants for goods.}
+{110}{}{我建议你去提恩的商店看看，就在大门旁边。我这里并不卖东西，我的东西都是与提恩或者哈勃城的商人交换物品的。}
+
+#{111}{}{Why, everyone just calls me 'Smitty'.
+# Probably because I'm the local blacksmith.}
+{111}{}{这里的人都叫我“施密蒂”。也许是因为我是这里的铁匠。}
+
+#{112}{}{Ask away.}
+{112}{}{问吧。}
+
+#{113}{}{Where did you get all of your shop equipment?}
+{113}{}{你从哪里买你需要的东西？}
+
+#{114}{}{What all do you make here?}
+{114}{}{你在这里制造什么？}
+
+#{115}{}{Can you make guns and bullets?}
+{115}{}{你能造枪和子弹吗？}
+
+#{116}{}{Nothing else, thanks.}
+{116}{}{没事，谢谢。}
+
+#{117}{}{I'm sorry, I don't think I can help you. Try Zimmerman.}
+{117}{}{对不起，我想我帮不了你。去和齐默曼谈谈看吧。}
+
+#{118}{}{Sure.}
+{118}{}{当然。}
+
+#{119}{}{Why, any competent blacksmith can make his own anvil!
+# 'course, I really just sort of learned the craft by practice,
+# but I made most of my own tools.}
+{119}{}{你不知道吗？任何一个合格的铁匠都能制造自己的铁砧！当然，实际上我也是通过多次的练习才掌握了这门手艺，但我还是可以自己制造大部分的工具。}
+
+#{120}{}{Mostly I make and repair tools and implements here.
+# I also fix things for the Hub merchants. With the help of Miles,
+# the chemist, I reload bullets from time to time.}
+{120}{}{我主要是制造和修理工具和器具什么的。我也为哈勃商人修理东西。有了化学家麦尔斯的帮助，我还可以为子弹填上火药。}
+
+#{121}{}{Well, building guns and making shells takes machining, and I just don't have
+# the tools for that. But with the help of Miles, the chemist, I can reload old brass,
+# since I can cast bullets.}
+{121}{}{制造枪和子弹壳需要机器加工，我没有那种工具。但有了化学家麦尔斯的帮助，我可以为旧的弹壳填上火药，这和我能制造子弹也没什么分别了。}
+
+#{122}{}{Yes, I can fix this. Give me some time.}
+{122}{}{没错，我能修这个。给我些时间。}
+
+#{123}{}{Here you are. 【Smitty hands you the fixed parts.】}
+{123}{}{给你。【施密蒂将修好的零件交给你。】}
+
+#{124}{}{I already fixed the parts. You need to give them to Miles now.}
+{124}{}{我已经修好了零件。现在你得把它们交给麦尔斯。}
+
+#{125}{}{Thanks for fixin' the farms. If you ever find yourself a plasma rifle, bring
+# it on back here. I know a few tricks that I can pull with the injectors.}
+{125}{}{谢谢你修好了农场。如果你找到一把电浆步枪，把它拿回这里来。我可以为你把它稍为改造一下。}
+
+#{126}{}{Well, I have one right here.}
+{126}{}{我这里恰巧有一把。}
+
+#{127}{}{So you found yourself a plasma rifle!}
+{127}{}{你找到了一把电浆步枪？不错嘛！}
+
+#{128}{}{Hand it over and I'll take a look at it. 【Smitty takes a plasma rifle
+# from you, pulls out his tools, and starts tinker with it.】}
+{128}{}{让我看看它。【拿起你的一把电浆步枪，抓起工具开始对它进行修理。】}
+
+#{129}{}{There, I think that does it. 【Smitty hands you back your plasma rifle.】
+# Try that out for size.}
+{129}{}{我想我已经完成了。【施密蒂把你的电浆步枪还给你。】找个地方试试它吧。}
+
+#{130}{}{Like I said before, if you get yourself a plasma rifle
+# and bring it back here, I can tweak it some for you.}
+{130}{}{我说过的，如果你把一把电浆步枪拿给我，我可以为你把它改造一下。}
+
+#{131}{}{Good seein' you again. Hope you're doing all right.}
+{131}{}{很高兴再次见到你。希望你过得不错。}

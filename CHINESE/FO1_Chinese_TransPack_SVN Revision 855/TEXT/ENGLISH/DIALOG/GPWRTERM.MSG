@@ -1,0 +1,266 @@
+#{100}{}{System:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Primary　Power:　　　　　　　　　　　　　　　　　　OFF-LINE
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　Secondary　Power:　　　　　　　　　　　　　　　ON-LINE}
+#{101}{}{Power　Management}
+#{102}{}{P＊w＊r＊M＊n＊g＊m＊nt}
+#{103}{}{Exit}
+#{104}{}{Power　Systems　Management}
+#{105}{}{Primary　Power}
+#{106}{}{Emergency　Power}
+#{107}{}{BACK}
+#{108}{}{Primary　Power　Management:　　　　　　　OFF-LINE}
+#{109}{}{Reinitialize　Primary　Power}
+#{110}{}{BACK}
+#{111}{}{Primary　Power　Management:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ERROR!　ERROR!　ERROR!
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Primary　System　Initialization　Failed}
+#{112}{}{Diagnose}
+#{113}{}{BACK}
+#{114}{}{Failure:　　　　　　　　Generator　Level　6
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　0　Feed　Return:　　Inoperable
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Service　Needed}
+#{115}{}{BACK}
+#{116}{}{Emergency　Power　Management:　　　　　ON-LINE}
+#{117}{}{Disable　Emergency　Power}
+#{118}{}{BACK}
+#{119}{}{System:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Primary　Power:　　　　　　　　　　　　　　　　　　ON-LINE
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　Emergency　Power:　　　　　　　　　　　　　　　　ON　STANDBY}
+#{120}{}{Power　Management}
+#{121}{}{Exit}
+#{122}{}{Primary　Power　Management:　　　　　　　ON-LINE}
+#{123}{}{Disable　Primary　Power}
+#{124}{}{BACK}
+#{125}{}{System:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Primary　Power:　　　　　　　　　　　　　　　　　　ON-LINE}
+#{126}{}{d＊s＊bl＊　pr＊m＊ry　p＊w＊r}
+#{127}{}{Disable　Primary　Power}
+#{128}{}{Exit}
+#{129}{}{P＊w＊r　S＊st＊ms　M＊n＊g＊m＊nt}
+#{130}{}{pr＊m＊ry　p＊w＊r}
+#{131}{}{＊m＊rg＊ncy　p＊＊er}
+#{132}{}{BACK}
+#{133}{}{pr＊m＊r　p＊w＊r　m＊n＊g＊m＊n＊}
+#{134}{}{r＊＊n＊t＊＊l＊z＊　pr＊m＊ry　p＊w＊r}
+#{135}{}{BACK}
+#{136}{}{pr＊m＊r＊　p＊w＊r　m＊n＊g＊m＊nt:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＊RR＊R!　＊RR＊R!　＊RR＊R＊!
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　g＊n＊r＊t＊r　n＊＊ds　r＊p＊＊r}
+#{137}{}{BACK}
+#{138}{}{＊m＊rg＊nc＊　p＊w＊r　m＊n＊g＊m＊nt:　　　　　＊N-L＊N＊}
+#{139}{}{System:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Primary　Power:　　　　　　　　　　　　　　　　　　OFF-LINE
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　Emergency　Power:　　　　　　　　　　　　　　　OFF-LINE}
+#{140}{}{Enable　Emergency　Power}
+#{141}{}{d＊＊gn＊s＊　pr＊m＊r＊　p＊w＊r}
+#{142}{}{pr＊m＊r＊　p＊w＊r　＊v＊l＊＊t＊＊n}
+#{143}{}{＊n＊bl＊　＊m＊rg＊nc＊　p＊w＊r}
+#{144}{}{p＊w＊r　m＊n＊g＊m＊nt　r＊s＊rc＊}
+#{145}{}{Exit}
+#{146}{}{S＊st＊m　＊rr＊r!
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＊nv＊l＊d　＊s＊r.　n＊t＊f＊　＊dm＊n＊str＊t＊＊n.
+#　　　　　　　　　　　　　　　　　　　　　　　　　　S＊st＊m　h＊lt＊d.}
+#{147}{}{Exit}
+#{148}{}{d＊s＊bl＊　＊m＊rg＊nc＊　p＊w＊r}
+{100}{}{系统：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　主电力：离线　　　　　　　　　　　　　　　　　　　　　　　　紧急电力：在线}
+{101}{}{电力管理}
+{102}{}{电＊＊理}
+{103}{}{退出}
+{104}{}{电力管理系统}
+{105}{}{主电力}
+{106}{}{紧急电力}
+{107}{}{返回}
+{108}{}{主电力管理：离线}
+{109}{}{主电力复位}
+{110}{}{返回}
+{111}{}{主电力管理：　　　　　　　　　　　　　　　　　错误！错误！错误！　　　　　　　　　　　　　　　　　主系统初始化失败}
+{112}{}{诊断}
+{113}{}{返回}
+{114}{}{故障：发电机-级别-６　　　　　　　　　　　　　　　０供给返回：无法修复　　　　　　　　　　　　　　　　服务需求}
+{115}{}{返回}
+{116}{}{紧急电力管理：在线}
+{117}{}{关闭紧急电力}
+{118}{}{返回}
+{119}{}{系统：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　主电力：离线　　　　　　　　　　　　　　　　　　　　　　　　紧急电力：准备}
+{120}{}{电力管理}
+{121}{}{退出}
+{122}{}{主电力管理：在线}
+{123}{}{关闭主电力}
+{124}{}{返回}
+{125}{}{系统：　　　　　　　　主电力：在线}
+{126}{}{＊闭主＊力}
+{127}{}{关闭主电力}
+{128}{}{退出}
+{129}{}{＊力＊理系＊}
+{130}{}{主＊力}
+{131}{}{＊用电＊}
+{132}{}{返回}
+{133}{}{主＊＊管＊}
+{134}{}{初＊化主＊＊}
+{135}{}{返回}
+{136}{}{主电力管理：　　　　　　　　　　　　　　　　　＊误！错＊！错＊！　　　　　　　　　　　　　　　　　主＊＊初＊化失＊}
+{137}{}{返回}
+{138}{}{＊急电＊管＊：在＊}
+{139}{}{系统：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　主电力：离线　　　　　　　　　　　　　　　　　　　　　　　　紧急电力：离线}
+{140}{}{启动紧急电力}
+{141}{}{主＊力诊＊}
+{142}{}{主电＊　＊v＊l＊＊t＊＊n}
+{143}{}{＊n＊bl＊　＊m＊rg＊nc＊　p＊w＊r}
+{144}{}{＊力管＊　r＊s＊rc＊}
+{145}{}{退出}
+{146}{}{＊统＊误！　　　　　　　　　　　　　　　　　　　　　　　　　　　＊nv＊l＊d　＊s＊r.　n＊t＊f＊　＊dm＊n＊str＊t＊＊n.　　　　　　　　　　　　　　　　　　　　　　S＊st＊m　h＊lt＊d.}
+{147}{}{退出}
+{148}{}{＊闭主＊＊}
+
+
+
+#{200}{}{Grant　me　access　to　the　Mainframe.}
+#{201}{}{Access　denied.　Terminating　input.}
+#{202}{}{Access　Granted.}
+#{203}{}{Main　Menu}
+#{204}{}{Exit　Mainframe}
+#{205}{}{Terminate　Program}
+#{206}{}{Select　Option}
+#{207}{}{Base　Information}
+#{208}{}{Security　Information}
+#{209}{}{Research　Information}
+#{210}{}{Power　Terminus}
+#{211}{}{West　Tech　Research　Facility:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Founded　in　2002　as　a　private　contractor　for　the
+#　United　States　government,　the　company　initially　consisted　of　two　divisions--
+#the　Advanced　Weapons　Research　and　the　Biomedical　Sciences　divisions.}
+#{241}{}{　In　2069,
+#　West　Tech　was　the　single　largest　contractor　for　the　United　States　government;
+#　its　largest　contract　being　Powered　Infantry　Armor　Model　T-51b.　}
+#{242}{}{In　light　of
+#　significant　advances　in　2076　by　the　NBC　on　the　Pan-Immunity　Virion　Project,
+#　the　United　States　Defense　Department,　in　fear　of　international　espionage,}
+#{243}{}{　moved　a　team　onto　the　site　to　secure　and　oversee　the　project,　now　dubbed　the
+#　FEV　(Forced　Evolutionary　Virus)　project.}
+#{212}{}{Security:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Robots:　Active}
+#{213}{}{Security:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Robots:　Inactive}
+#{214}{}{Deactivate　Security　Robots}
+#{215}{}{Activate　Security　Robots}
+#{216}{}{Research:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Records　most　current　at　West　Tech　Research　Facility}
+#{217}{}{Research　Division　Employees　Records}
+#{218}{}{Power　Armor.　Status:　Complete}
+#{219}{}{FEV　(Force　Evolutionary　Virus).　Status:　Pending　}
+#{220}{}{Research　Personnel　Records}
+#{221}{}{Robert　Anderson
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Research　Assistant
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　Mariposa　Military　Base}
+#{222}{}{Nick　Davis
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Director　of　NBC　Division　of　West　Tech　Research
+#　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　West　Tech　Research　Facility}
+#{223}{}{John　Isaac
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Research　Assistant
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Red
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　West　Tech　Research　Facility}
+#{224}{}{Steve　Remco
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Research　Assistant
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　Mariposa　Military　Base}
+#{225}{}{Charles　Rignhold
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Research　Head　of　Laser　Development
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　West　Tech　Research　Facility}
+#{226}{}{Michele　Santose
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Lab　Technician
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Red
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　West　Tech　Research　Facility}
+#{227}{}{Erin　Shellman
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Lab　Technician
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　Mariposa　Military　Base}
+#{228}{}{Leon　VonFelden
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Research　Head　of　FEV
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Security　Clearance:　Blue
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Stationed:　Mariposa　Military　Base}
+#{229}{}{Download　Records　to　PIPBoy}
+#{230}{}{BACK}
+#{231}{}{Power　Armor　Specs:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　The　T-51b　Powered　Infantry
+#　Armor　is　designed　with　the　latest　passive　defense　features　for　both　civilian　and
+#　military　disturbances.　}
+#{250}{}{The　back-mounted　TX-28　MircoFusion　Pack　generates　60,000　Watts　to　power
+#　the　HiFlo　hydraulic　systems　built　into　the　frame　of　the　suit.　}
+#{251}{}{Made　of　the　latest　poly-laminate　composite,　the　T-51b　shell　is　lightweight
+#　and　capable　of　absorbing　over　2500　Joules　of　kinetic　impact.　}
+#{252}{}{The　10　micron　silver　ablative　coating　can　reflect　laser　and　radiation
+#　emissions　without　damage　to　the　composite　subsurface.}
+#{232}{}{FEV　Summary　Digest:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2073.　As　China　became　increasingly　aggressive　with　their　use　of
+#　biological　weapons,　the　United　States　government　felt　that　a　countermeasure　was　needed.　The
+#　Pan-Immunity　Virion　Project　(PVP)　was　officially　formed　September　15,　2073.　}
+#{233}{}{2075.　It　became　clear　that　the　best　way　to　combat　the　newly　created
+#　biological　weapons　was　to　alter　uninfected　DNA　so　that　it　was　no　longer　susceptible　to　standard
+#　viral　infection.}
+#{234}{}{2076.　Unforseen　side　effects　began　surfacing　in　early　2076　with　the
+#　PVP.　Animal　test　subjects　began　showing　an　abnormal　growth　rate　accompanied　by　increased　brain
+#　activity.　}
+#{235}{}{The　U.S.　government　took　notice　of　these　discoveries,　and　in　the　interests　of　national
+#　security,　moved　a　team　on-site　to　secure　and　oversee　the　project,　which　was　now　dubbed　the　FEV
+#　(Forced　Evolutionary　Virus)　project.}
+#{236}{}{2077.　FEV　nears　completion.　Test　on　lab　animals　are　at　a　near　100%
+#　success　rate.　Size　and　muscle　density　increase　approximately　60%,　and　the　protential　intelligence
+#　increase　by　200%.　}
+#{237}{}{Effects　upon　human　subjects　remain　unknown;　although　they　are　theoretically
+#　promising.　}
+#{238}{}{The　military,　wishing　to　continue　further　testing,　builds　a　large　facility　at　the
+#　Mariposa　military　installation　in　central　California.　At　this　new　facility,　testing　of　the　FEV
+#　virus　continues　on　volunteer　subjects　from　the　military.}
+#{239}{}{Command　Received:
+#　　　　　　　　　　　　　　　　　　　　　　　　　　　Command　Executed}
+#{240}{}{Access　Denied}
+{200}{}{让我连接到主机。}
+{201}{}{拒绝访问。终止输入。}
+{202}{}{允许访问。}
+{203}{}{主菜单}
+{204}{}{退出主机}
+{205}{}{结束程序}
+{206}{}{设置选项}
+{207}{}{基地信息}
+{208}{}{保安信息}
+{209}{}{研究信息}
+{210}{}{电力供应}
+{211}{}{西部科技研究所：　　　　　　　　　　　　　　　　　　　　　　　　　２００２年美国政府成立了一个秘密实验室，最初分为先进武器研究和生物化学研究两部分。}
+{241}{}{２０６９年，西部科技作为美国政府最大的科研中心；最重要的研究项目是动力步兵盔甲模型Ｔ－５１ｂ。}
+{242}{}{核生化技术“伤害－免疫抗体”计划在２０７６年大规模普及，因此美国国防部担心国际间谍组织的渗透，}
+{243}{}{向研究所派去一支军队保护并监督计划的实施，而且改名为ＦＥＶ（强迫进化病毒）计划。}
+{212}{}{保安状态：　　　　　　　　　　　　　安全机器人:　激活}
+{213}{}{保安状态：　　　　　　　　　　　　　安全机器人:　解除}
+{214}{}{解除保安机器人}
+{215}{}{激活保安机器人}
+{216}{}{研究：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　大多数记录目前在西部科技研究所}
+{217}{}{研究所人员记录}
+{218}{}{动力装甲　　　　　　　　　状态:　完成}
+{219}{}{ＦＥＶ（强迫进化病毒）　　状态:　未知}
+{220}{}{研究所人员记录}
+{221}{}{罗勃特·安德逊　　　　　身份：助理研究员　　　　　　　　　　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：迈瑞普斯军事基地}
+{222}{}{尼克·戴维斯　　　　　　身份：西部科技研究所核生化技术主管　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：西部科技研究所}
+{223}{}{约翰·艾萨克　　　　　　身份：助理研究员　　　　　　　　　　　　　　　　　　　　　　　安全通行级别：红色　　　　　　　　　　　　　　　　　　　　　　位置：西部科技研究所}
+{224}{}{史蒂夫·瑞格　　　　　　身份：助理研究员　　　　　　　　　　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：迈瑞普斯军事基地}
+{225}{}{查尔斯·瑞高　　　　　　身份：激光发展技术主管　　　　　　　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：西部科技研究所}
+{226}{}{米歇尔·桑徳斯　　　　　身份：实验室技术员　　　　　　　　　　　　　　　　　　　　　　安全通行级别：红色　　　　　　　　　　　　　　　　　　　　　　位置：西部科技研究所}
+{227}{}{爱尔兰·沙尔曼　　　　　身份：实验室技术员　　　　　　　　　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：迈瑞普斯军事基地}
+{228}{}{利昂·万费顿　　　　　　身份：ＦＥＶ技术主管　　　　　　　　　　　　　　　　　　　　　安全通行级别：蓝色　　　　　　　　　　　　　　　　　　　　　　位置：迈瑞普斯军事基地}
+{229}{}{下载记录到哔哔小子}
+{230}{}{返回}
+{231}{}{动力装甲详细说明书：　　　　　　　　　　　　　　　　　　　　　　　Ｔ－５１ｂ动力步兵装甲的设计是为军队平息平民骚乱而产生的被动防御理念。背后}
+{250}{}{安装ＴX－２８微型核融电池，产生６００００瓦特电力以提供给装甲结构内部的ＨｉＦｌｏ水压}
+{251}{}{系统足够的动力，最后用聚酯纤维制造外壳。Ｔ－５１ｂ的分量很轻，但抗击，并能吸收２５００}
+{252}{}{焦耳的热能攻击。１０微米银隔离涂层能从外部有效的反射激光和放射线造成的伤害。}
+{232}{}{ＦＥＶ概述：　　　　　　　　　　　　　　　　　　　　　　　　　　　２０７３年，中国的侵略性越来越强，同时他们开始使用生化武器了。美国政府认为必须找到一个对策。于是Ｐａｎ－病毒免疫计划（ＰＶＰ）于２０７３年９月５日正式启动。}
+{233}{}{２０７５年，它变成对抗生化武器最好的方法。这崭新的生化病毒将ＤＮＡ修正为不可感染的结构，这样就能对普通病毒免疫了。}
+{234}{}{　　２０７６年，发现早期的ＰＶＰ会产生一些副作用。用生物测试后发现症状主要体现为脑部不正常的成长速度，并伴随着脑部活动增加。美国政府注意到这个发现，}
+{235}{}{出于对国家安全方面的考虑，派遣了一支武装部队保护并监督这个项目，现在这项目被称作ＦＥＶ（强制进化病毒）工程。}
+{236}{}{　　２０７７年，ＦＥＶ接近完成。用动物试验的成功率几乎是１００%。体形和肌肉密度增加了６０%，智力增加了２００%。}
+{237}{}{对人类的影响还不知道，但在理论上可行。军方想要继续进一步的试验，在加州的迈瑞普斯军事基地内部建立了一个大型试验室，}
+{238}{}{使用新的设备继续在军队的志愿者身上进行试验。}
+{239}{}{指令收到：　　　　　　　　指令运行}
+{240}{}{拒绝访问}

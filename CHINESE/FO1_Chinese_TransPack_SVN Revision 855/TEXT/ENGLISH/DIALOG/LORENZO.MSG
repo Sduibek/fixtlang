@@ -1,0 +1,503 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Lorenzo.}
+{100}{}{你看见罗仑佐。}
+
+#{101}{}{Mister, this is a respectable establishment. We don't do business with your kind. Go away.}
+{101}{}{先生，这是正规机构。我们不与你这样的人作生意。走开。}
+
+#{102}{}{Madame, this is a respectable establishment. We don't do business with your kind. Go away.}
+{102}{}{夫人，这是正规机构。我们不与你这样的人作生意。走开。}
+
+#{103}{}{You're overdue on your loan. Please pay it now or I will become very upset.  I dislike being upset.}
+{103}{}{你的贷款到期了。请现在还钱，否则我会非常生气。我很不喜欢这样。}
+
+#{104}{}{Don't threaten me, pal. You're not the only one with friends.}
+{104}{}{不要威胁我，朋友。不是只有你有朋友的。}
+
+#{105}{}{I need more time. Please!}
+{105}{}{请再给我一些时间！}
+
+#{106}{}{I want to pay off my loan of }
+{106}{}{我想要还清我}
+
+#{107}{}{ bucks.}
+{107}{}{块的贷款。}
+
+#{108}{}{I don't have it with me.}
+{108}{}{我身上没有钱。}
+
+#{109}{}{Hi. So you've come to pay off your loan?}
+{109}{}{嗨。你是来偿还贷款的吗？}
+
+#{110}{}{Actually I was hoping you could share some information厎
+{110}{}{实际上我希望你能分享一些信息。}
+
+#{111}{}{I came for another loan.}
+{111}{}{我来是想再贷点款。}
+
+#{112}{}{Maybe later.}
+{112}{}{迟些再说。}
+
+#{113}{}{Runk?}
+{113}{}{朋克？}
+
+#{114}{}{I warned you never to come back here. Okay boys, you know what to do!}
+{114}{}{我警告过你别回来的。好吧，男孩，你知道该做什么！}
+
+#{115}{}{Well, if it isn't a potential customer! I'm Lorenzo the Munificent, at your service. I give out loans.
+# Only ten percent daily interest, a maximum of ten days to repay. You won't find a more generous lending
+# institution anywhere in the Hub!}
+{115}{}{很好，也许你不能发展成客户！我是慷慨的罗仑佐，听候您的吩附。我提供贷款。每天的利息只有百分之十，只要十天后偿还。你不可能在哈勃城的任何地方再找到一个这么好的借贷机构了！}
+
+#{116}{}{I came for a loan.}
+{116}{}{我到这是要贷款。}
+
+#{117}{}{You sound like a rip-off artist to me!}
+{117}{}{你对我来说就像个神偷！}
+
+#{118}{}{Well, I suppose. What do you need to know about?}
+{118}{}{很好，我想。你需要知道什么？}
+
+#{119}{}{What about those missing caravans?}
+{119}{}{那些失踪的商队怎么样？}
+
+#{120}{}{Tell me about Decker.}
+{120}{}{告诉我关于德克。}
+
+#{121}{}{What about the local police?}
+{121}{}{地方警察怎么样？}
+
+#{122}{}{What about the Children of the Cathedral?}
+{122}{}{大教堂的教徒怎么样？}
+
+#{123}{}{Tell me about yourself.}
+{123}{}{告诉我关于你自己。}
+
+#{124}{}{Where does a person find work around here?}
+{124}{}{这地方的人去哪找工作？}
+
+#{125}{}{Sorry. I don't do rumors. Don't ask me again.}
+{125}{}{对不起。我不传播谣言。不要再问我。}
+
+#{126}{}{I warned you I don't do rumors. If you think I was just blowing smoke,
+# you're wrong. Get out of here and don't come back, punk.}
+{126}{}{我警告过你我不传播谣言。如果你认为我只是说说的话，你就错了。离开这别再回来了，混蛋。}
+
+#{127}{}{Sorry pal, but I don't do more than one loan at a time. You want more, you gotta start paying. This
+# is a business, not a charity.}
+{127}{}{对不起朋友，我每次都不会多笔贷款。你想要借更多，必须先把上次的还清。这是生意而不是慈善堂。}
+
+#{128}{}{Fine. A pleasure doing business. Anything else?}
+{128}{}{很好。生意兴隆。还有别的吗？}
+
+#{129}{}{Idiot! You don't have enough to pay it off! Maybe you were thinking of something else厎
+{129}{}{蠢货！你没有足够的钱支付它！也许你应该想想还有别的吗？}
+
+#{130}{}{Actually I was hoping you could share some information厎
+{130}{}{实际上我希望你能分享一些信息。}
+
+#{131}{}{I came for another loan.}
+{131}{}{我来是想再借点贷款。}
+
+#{132}{}{Maybe later.}
+{132}{}{迟些再说。}
+
+#{133}{}{Sure! Feel free to drop on by. We're always willing to help.}
+{133}{}{当然！欢迎随时来访。我们总是愿意提供帮助。}
+
+#{134}{}{Why don't you go run along and runk somewhere else. Get out of here! And don't come back.}
+{134}{}{为什么你不去别的地方逛逛。然后离开这里! 最好不要回来了。}
+
+#{135}{}{Hey, no threats! We're all civilized around here. Guido, Leone, why don't you show this gentleman
+# how civilized we can be.}
+{135}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位绅士看看我们是如何的文明。}
+
+#{136}{}{Hey, no threats! We're all civilized around here. Guido, Leone, why don't you show this lady how
+# civilized we can be.}
+{136}{}{嗨，别威胁我！我们周围都是文明人。古维多，利昂，为什么你不让这位女士看看我们是如何的文明。}
+
+#{137}{}{Time's up, pal. Guido, Leone, why don't you boys entertain me for a minute厎
+{137}{}{时间到，朋友。古维多，利昂，你们为什么不去招待招待我的男孩。}
+
+#{138}{}{You're lucky, friend.}
+{138}{}{你很幸运，朋友。}
+
+#{139}{}{Actually I was hoping you could share some information厎
+{139}{}{实际上我希望你能分享一些信息。}
+
+#{140}{}{I'd like another loan.}
+{140}{}{我想另外借点款。}
+
+#{141}{}{Maybe later.}
+{141}{}{迟些再说。}
+
+#{142}{}{You don't have enough! How dare you try to cheat me! Guido, Leone, let's bury this loser.}
+{142}{}{你没有足够钱！你居然敢欺骗我！古维多，利昂，让我们埋掉这个输家。}
+
+#{143}{}{Fine.  You have no loans outstanding with us. We lend in units of two hundred
+# Hub Bucks, with a maximum of one thousand Hub Bucks.  Remember, though, I'm not gonna lend you the big bucks
+# until you've proven you can repay the smaller loans.}
+{143}{}{很好。你没有在我们这借款过。我们一次至少借出二百块哈勃币，最多为一千块哈勃币。要知道，在你建立良好的信誉前，你不可能得到大额的借款。}
+
+#{144}{}{I'd like }
+{144}{}{我想要}
+
+#{145}{}{1000}
+{145}{}{1000}
+
+#{146}{}{800}
+{146}{}{800}
+
+#{147}{}{600}
+{147}{}{600}
+
+#{148}{}{400}
+{148}{}{400}
+
+#{149}{}{200}
+{149}{}{200}
+
+#{150}{}{ Hub Bucks.}
+{150}{}{哈勃币。}
+
+#{151}{}{I'd better pass on the loan.}
+{151}{}{我最好还是别借了。}
+
+#{152}{}{Guido, Leone, why don't you show him what ripping off really means. Start with his arms.}
+{152}{}{古维多，利昂，你们为什么不让他看看“撕掉”真正的意思。从他的双臂开始。}
+
+#{153}{}{Sorry pal, but idiots are too big of a credit risk. Get out of here.}
+{153}{}{对不起朋友，但是借钱给白痴的危险性太大了。离开这里。}
+
+#{154}{}{Deathclaw. It's got to be the Deathclaw. No one's safe anymore!}
+{154}{}{死亡爪。一定是死亡爪，这里也不再安全了！}
+
+#{155}{}{What about the Deathclaw?}
+{155}{}{死亡爪是什么东西？}
+
+#{156}{}{Tell me about Decker.}
+{156}{}{告诉我关于德克。}
+
+#{157}{}{What about the local police?}
+{157}{}{地方警察怎么样？}
+
+#{158}{}{What about the Children of the Cathedral?}
+{158}{}{大教堂的教徒怎么样？}
+
+#{159}{}{Tell me about yourself.}
+{159}{}{告诉我关于你自己。}
+
+#{160}{}{Where does a person find work around here?}
+{160}{}{这地方的人去哪找工作？}
+
+#{161}{}{He's a great guy. A good source of jobs to pay off my loans. Tell him I sent you, you might get a bonus!}
+{161}{}{那家伙不错。能介绍不少好工作，很快还清我的贷款。告诉他我派你来的，你会有好处的！}
+
+#{162}{}{What about those missing caravans?}
+{162}{}{那些失踪的商队怎么样？}
+
+#{163}{}{Bonus? What do you mean?}
+{163}{}{好处？什么意思？}
+
+#{164}{}{What about the local police?}
+{164}{}{地方警察怎么样？}
+
+#{165}{}{What about the Children of the Cathedral?}
+{165}{}{大教堂的教徒怎么样？}
+
+#{166}{}{Tell me about yourself.}
+{166}{}{告诉我关于你自己。}
+
+#{167}{}{Where does a person find work around here?}
+{167}{}{这地方的人去哪找工作？}
+
+#{168}{}{They're great guys! It's true we have the occasional misunderstanding, but I think they're a credit to
+# their species?【sotto voce】 厀hichever one that is}
+{168}{}{他们是了不起的家伙！我们确实偶尔会有点误会，但是我认为他们值得信任的那种人。【低声】无论哪个都是。}
+
+#{169}{}{What about those missing caravans?}
+{169}{}{那些失踪的商队怎么样？}
+
+#{170}{}{Tell me about Decker.}
+{170}{}{告诉我关于德克。}
+
+#{171}{}{Misunderstandings? Like what?}
+{171}{}{误会？象什么？}
+
+#{172}{}{What about the Children of the Cathedral?}
+{172}{}{大教堂的教徒怎么样？}
+
+#{173}{}{Tell me about yourself.}
+{173}{}{告诉我关于你自己。}
+
+#{174}{}{Where does a person find work around here?}
+{174}{}{这地方的人去哪找工作？}
+
+#{175}{}{I can't say I'm too impressed. I run an honest, respectable business, and they accuse me of being a
+# thief! The nerve of those people. They think a vow of poverty gives them the right to judge me!}
+{175}{}{我不能说我受到打击。我经营诚实又值得尊重的生意，可他们指责我是窃贼，那些神经病。难道贫穷的宣言就可以赋予他们评判我的权力！？}
+
+#{176}{}{What about those missing caravans?}
+{176}{}{那些失踪的商队怎么样？}
+
+#{177}{}{Tell me about Decker.}
+{177}{}{告诉我关于德克。}
+
+#{178}{}{What about the local police?}
+{178}{}{地方警察怎么样？}
+
+#{179}{}{Vow of poverty?}
+{179}{}{贫穷的宣言？}
+
+#{180}{}{Tell me about yourself.}
+{180}{}{告诉我关于你自己。}
+
+#{181}{}{Where does a person find work around here?}
+{181}{}{这地方的人去哪找工作？}
+
+#{182}{}{I'm just a respectable businessman, that's all. We Giovannis have been respectable businessmen since
+# the days before the holocaust ?now that's tradition!}
+{182}{}{我只是个受人尊敬的商人而已。我们家族从大毁灭以前已经是受人尊敬的商人了，这已经是一个事实了！}
+
+#{183}{}{What about those missing caravans?}
+{183}{}{那些失踪的商队怎么样？}
+
+#{184}{}{Tell me about Decker.}
+{184}{}{告诉我关于德克。}
+
+#{185}{}{What about the local police?}
+{185}{}{地方警察怎么样？}
+
+#{186}{}{What about the Children of the Cathedral?}
+{186}{}{大教堂的教徒怎么样？}
+
+#{187}{}{What's your idea of respectable?}
+{187}{}{你的可敬想法是什么？}
+
+#{188}{}{Where does a person find work around here?}
+{188}{}{这地方的人去哪找工作？}
+
+#{189}{}{You should try Mr. Decker. Exciting work at great prices! The best in town! And he's just across the
+# street! You can't get better convenience than that!}
+{189}{}{你应该去德克先生那里试试。令人兴奋的工作，很棒的报酬！在城镇中是最好的! 他在街道对面！你不可能得到比这更好的了！}
+
+#{190}{}{What about those missing caravans?}
+{190}{}{那些失踪的商队怎么样？}
+
+#{191}{}{Tell me about Decker.}
+{191}{}{告诉我关于德克。}
+
+#{192}{}{What about the local police?}
+{192}{}{地方警察怎么样？}
+
+#{193}{}{What about the Children of the Cathedral?}
+{193}{}{大教堂的教徒怎么样？}
+
+#{194}{}{Tell me about yourself.}
+{194}{}{告诉我关于你自己。}
+
+#{195}{}{What kind of excitement?}
+{195}{}{什么样的刺激？}
+
+#{196}{}{Forget it, you're too big of a credit risk. Get outta my sight and don't come back.}
+{196}{}{忘了它，你的信用度太低。从我眼前消失，别再回来了。}
+
+#{197}{}{Fine. One thousand bucks.  You've got 10 days to repay it.}
+{197}{}{好。一千块。你有10天时间偿还它。}
+
+#{198}{}{Fine. Eight hundred bucks.  You've got 10 days to repay it.}
+{198}{}{好。八百块。你有10天时间偿还它。}
+
+#{199}{}{Fine. Six hundred bucks.  You've got 10 days to repay it.}
+{199}{}{好。六百块。你有10天时间偿还它。}
+
+#{200}{}{Fine. Four hundred bucks.  You've got 10 days to repay it.}
+{200}{}{好。四百块。你有10天时间偿还它。}
+
+#{201}{}{Fine. Two hundred bucks.  You've got 10 days to repay it.}
+{201}{}{好。二百块。你有10天时间偿还它。}
+
+#{202}{}{Too bad. Feel free to employ our services at a later time.}
+{202}{}{太糟糕了。这么晚才来接受我们的服务。}
+
+#{203}{}{Man, some of the stories they say about that thing are just?well, they're something!}
+{203}{}{恩，他们讲的关于这件事的故事真的存在吗？他们看起来挺像那么回事！}
+
+#{204}{}{Tell me about Decker.}
+{204}{}{告诉我关于德克。}
+
+#{205}{}{What about the local police?}
+{205}{}{地方警察怎么样？}
+
+#{206}{}{What about the Children of the Cathedral?}
+{206}{}{大教堂的教徒怎么样？}
+
+#{207}{}{Tell me about yourself.}
+{207}{}{告诉我关于你自己。}
+
+#{208}{}{Where does a person find work around here?}
+{208}{}{这地方的人去哪找工作？} 
+
+#{209}{}{Well, bye!}
+{209}{}{很好，再见！}
+
+#{210}{}{Well maybe not a bonus. But he's a great guy, trust me on that one!}
+{210}{}{或许没有好处，不过相信我，他确实不错。}
+
+#{211}{}{What about those missing caravans?}
+{211}{}{那些失踪的商队怎么样？}
+
+#{212}{}{What about the local police?}
+{212}{}{地方警察怎么样？}
+
+#{213}{}{What about the Children of the Cathedral?}
+{213}{}{大教堂的教徒怎么样？}
+
+#{214}{}{Tell me about yourself.}
+{214}{}{告诉我关于你自己。}
+
+#{215}{}{Where does a person find work around here?}
+{215}{}{这地方的人去哪找工作？} 
+
+#{216}{}{Well, bye!}
+{216}{}{很好，再见！}
+
+#{217}{}{Can you believe someone accused me of extortion? Fortunately, my good friend Decker set them straight!}
+{217}{}{你能相信有人控告我勒索吗？幸运的是，我的好朋友德克摆平了这件事。}
+
+#{218}{}{What about those missing caravans?}
+{218}{}{那些失踪的商队怎么样？}
+
+#{219}{}{Tell me about Decker.}
+{219}{}{告诉我关于德克。}
+
+#{220}{}{What about the Children of the Cathedral?}
+{220}{}{大教堂的教徒怎么样？}
+
+#{221}{}{Tell me about yourself.}
+{221}{}{告诉我关于你自己。}
+
+#{222}{}{Where does a person find work around here?}
+{222}{}{这地方的人去哪找工作？} 
+
+#{223}{}{Well, bye!}
+{223}{}{很好，再见！}
+
+#{224}{}{I'll bet their leader, this Morpheus character, he's not broke! No sir! I'll bet that over in the
+# Boneyard, he's just living it up!}
+{224}{}{我打赌他们的领袖，那个墨菲斯一钱不值，不，先生！我打赌在晒骨场，他们也能过的很快乐！}
+
+#{225}{}{What about those missing caravans?}
+{225}{}{那些失踪的商队怎么样？}
+
+#{226}{}{Tell me about Decker.}
+{226}{}{告诉我关于德克的事。}
+
+#{227}{}{What about the local police?}
+{227}{}{地方警察怎么样？}
+
+#{228}{}{Tell me about yourself.}
+{228}{}{告诉我关于你自己。}
+
+#{229}{}{Where does a person find work around here?}
+{229}{}{这地方的人去哪找工作？} 
+
+#{230}{}{Well, bye!}
+{230}{}{很好，再见！}
+
+#{231}{}{You don't show us respect, you get hurt. How much more respectability can a man ask for?}
+{231}{}{你没有表现出敬意，你觉得自己受到伤害了。那一个人又应该得到多少尊敬呢？}
+
+#{232}{}{What about those missing caravans?}
+{232}{}{那些失踪的商队怎么样？}
+
+#{233}{}{Tell me about Decker.}
+{233}{}{告诉我关于德克。}
+
+#{234}{}{What about the local police?}
+{234}{}{地方警察怎么样？}
+
+#{235}{}{What about the Children of the Cathedral?}
+{235}{}{大教堂的教徒怎么样？}
+
+#{236}{}{Where does a person find work around here?}
+{236}{}{这地方的人去哪找工作？} 
+
+#{237}{}{Well, bye!}
+{237}{}{很好，再见！}
+
+#{238}{}{Adventure, danger. You can really make a killing!}
+{238}{}{冒险，危险。你绝对是在自杀！}
+
+#{239}{}{What about those missing caravans?}
+{239}{}{那些失踪的商队怎么样？}
+
+#{240}{}{Tell me about Decker.}
+{240}{}{告诉我关于德克。}
+
+#{241}{}{What about the local police?}
+{241}{}{地方警察怎么样？}
+
+#{242}{}{What about the Children of the Cathedral?}
+{242}{}{大教堂的教徒怎么样？}
+
+#{243}{}{Tell me about yourself.}
+{243}{}{告诉我关于你自己。}
+
+#{244}{}{Well, bye!}
+{244}{}{很好，再见！}
+
+#{245}{}{See you around, pal!}
+{245}{}{再见，朋友！}
+
+#{246}{}{Hey, hey, hey... take your hands off that door, freak!}
+{246}{}{嘿，嘿，嘿……把你的脏手从门上拿开，变态！}
+
+#{247}{}{That's it, freak! You will pay for that!}
+{247}{}{是的，变态！你会为此付出代价！}
+
+#{248}{}{I'm sorry, but I don't have the time for this.  If you can't pay the full amount, give me what money
+# you do have and our business relationship will be terminated permanently.}
+{248}{}{抱歉，我没时间废话。如果你不能支付总额，那么给我你身上所有钱，并且我们的生意关系将永久地结束。}
+
+#{249}{}{Well, OK.  You can have all of my caps.}
+{249}{}{很好，好。你可以拿走我所有的瓶盖。}
+
+#{250}{}{Oh!  I just remembered!  I have just enough to cover the whole loan!}
+{250}{}{噢！我想起来了！我刚好可以还清所有欠款！}
+
+#{251}{}{【Attempt to fool Lorenzo by giving him only }
+{251}{}{【企图愚弄罗仑佐，只给他}
+
+#{252}{}{ caps】}
+{252}{}{个瓶盖】}
+
+#{253}{}{Forget it!  You're not getting one single cap out of me.}
+{253}{}{别想了！你一个瓶盖也别想从我这里拿走。}
+
+#{254}{}{【You give Lorenzo all of your caps】}
+{254}{}{【你给罗仑佐你的全部的瓶盖】}
+
+#{255}{}{【You give Lorenzo }
+{255}{}{【你给罗仑佐}
+
+#{256}{}{ caps】}
+{256}{}{个瓶盖】}
+
+#{257}{}{You're full of crap!  You've been holding out on me!  I'm gonna to beat that money out of you!}
+{257}{}{你是在胡扯！你敢耍我！我要从你身上打出钱来！}
+
+#{258}{}{What a pity.  I guess we'll just have to put some caps into you instead.  Guido!  Leone!}
+{258}{}{真可惜。我想我们应该塞点瓶盖到你里面去。古维多！利昂！}
+
+#{259}{}{All right.  I suppose this will have to do.  You do realize I can never deal with you again?  If I see
+# you in here again I will be forced to exact a much more severe penalty upon you.}
+{259}{}{很好。我觉得必须这么做。你真的以为我无法修理你？如果让我再见到你，我只能更狠的修理你。}
+
+#{260}{}{You make me sick.  Give me the money and get out!  Don't ever let me see you in here again!}
+{260}{}{你真让我恶心，还我钱然后从这里滚蛋，不要让我再看到你！}
+
+#{261}{}{You don't have enough!}
+{261}{}{你没有足够的钱！}

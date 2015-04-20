@@ -1,0 +1,140 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Sammael, one of the Scavs from Adytum.}
+{100}{}{你看见山谬，内城区中拾荒者的一员。}
+
+#{101}{}{You see a grungy man in dark blue clothes.}
+{101}{}{你看见一个穿着暗蓝色衣服的邋遢男人。}
+
+#{102}{}{Hey, I don't believe we've met. You are?}
+{102}{}{嘿，我不认为我见过你。你是？}
+
+#{103}{}{I'm }
+{103}{}{我是}
+
+#{104}{}{.}
+{104}{}{。}
+
+#{105}{}{Who's asking?}
+{105}{}{你是谁？}
+
+#{106}{}{Eruh?}
+{106}{}{呃？}
+
+#{107}{}{The pleasure's mine. I'm called Sammael.}
+{107}{}{很高兴见到你。我叫做山谬。}
+
+#{108}{}{What do you do here?}
+{108}{}{你在这里做什么？}
+
+#{109}{}{Nice talking to you.}
+{109}{}{很高兴见到你。}
+
+#{110}{}{Nobody special. Never mind.}
+{110}{}{我不是什么重要的人。不要在意。}
+
+#{111}{}{I'm a Scav -- a scavenger. My job is to search out all of
+# the Boneyard for useful items and information. Dangerous work.}
+{111}{}{我是一个拾荒者——一个捡垃圾的。我的工作是找出晒骨场中那些还利用价值的东西。这是很危险的工作。}
+
+#{112}{}{Why is it dangerous?}
+{112}{}{为什么危险？}
+
+#{113}{}{How do you avoid the Deathclaws?}
+{113}{}{你怎么躲开死亡爪？}
+
+#{114}{}{Have you scouted out any of the other areas?}
+{114}{}{你侦查过其他的区域吗？}
+
+#{115}{}{Thanks, bye.}
+{115}{}{谢谢你，再见。}
+
+#{116}{}{See you around. If you see me. Heh.}
+{116}{}{再见，如果你能见到我的话。呵呵。}
+
+#{117}{}{Well, you got the DeathClaws out there, and then you got the Regulators
+# back here in Adytum.  Both ain't the most forgiving types.}
+{117}{}{外面有死亡爪，内城区这里还有管理者。两者都不是好对付的。}
+
+#{118}{}{How do you avoid the Deathclaws?}
+{118}{}{你怎么躲开死亡爪？}
+
+#{119}{}{Have you scouted out any of the other areas?}
+{119}{}{你侦查过其他的区域吗？}
+
+#{120}{}{Thanks, bye.}
+{120}{}{谢谢你，再见。}
+
+#{121}{}{We only work at night, and we're good at what
+# we do.  But I'll admit not everyone always comes back.  I sent a guy out
+# last week to look for some parts for Miles, and we haven't heard from him since.
+# The last transmission I got from him was that he'd found the parts,
+# and was on his way back.}
+{121}{}{我们只在夜晚工作，而且我们的专业技术很过硬。但我承认并不是每个人都总能安全地回来。上个星期我派出一个家伙去为麦尔斯找一些零件，从那之后我们就再没见到过他。我听到的最后一个消息是他找到了那些零件，正在回来的路上。}
+
+#{122}{}{I've done a little scouting. Who do you want to know about?}
+{122}{}{我做了一些侦查。你想知道关于谁的消息？}
+
+#{123}{}{The Blades.}
+{123}{}{利刃帮的。}
+
+#{124}{}{The Deathclaws.}
+{124}{}{死亡爪的。}
+
+#{125}{}{The Gun Runners.}
+{125}{}{军火商的。}
+
+#{126}{}{The Followers of the Apocalypse.}
+{126}{}{末世论者信徒的。}
+
+#{127}{}{The Children of the Cathedral.}
+{127}{}{大教堂教徒的。}
+
+#{128}{}{Nobody, thanks.}
+{128}{}{不必了，谢谢。}
+
+#{129}{}{The Blades are a pretty sorry sight for a group of people.
+# They get by though, and some of them end up here in Adytum if they agree
+# to what the Regulators offer them to do.}
+{129}{}{利刃帮是一群相当不开眼的人。他们中那些不愿听从管理者命令的人都死在这了。}
+
+#{130}{}{Well if you haven't seen them before. They're mean as all hell,
+# and like nothing more than to rip a poor Scav's heart out.}
+{130}{}{你最好别想见它们。这些家伙简直像地狱里的恶魔一样邪恶，它们除了杀死我们这些可怜的拾荒者以外就没有什么喜欢做的事情了。}
+
+#{131}{}{I've heard there's a nest of them somewhere to the east of the Blades,
+# but I haven't seen it myself.}
+{131}{}{我听说在利刃帮东边的某处有他们的一个巢穴，但我本人没有见过。}
+
+#{132}{}{The Gun Runners moved into a big factory up to north-east not
+# long ago. Can't tell you much because they have a moat
+# filled with radioactive sludge, and you gotta get through the Deathclaws
+# to get there.}
+{132}{}{不久之前军火商搬到东北方向的一个大工厂去了。我不能告诉你太多，因为他们有一条流淌着放射性泥浆的护城河，而且你必须越过死亡爪的地盘才能到那里。}
+
+#{133}{}{The Followers preach peace and tolerance. Nice idea, but
+# impractical. They live in a big library to the north-west of us.}
+{133}{}{那些末世论者鼓吹和平与宽容。虽然主意不错，不过不可能实行。他们住在西北方向的一个大图书馆里。}
+
+#{134}{}{The Children of the Cathedral are based out of a big church
+# a ways to the south of here. There are some strange things
+# going on there. I've seen creatures that can't be human
+# coming in and out of there.}
+{134}{}{大教堂教徒的基地在从这里向南一段路的一个大教堂里。那里在进行一些奇怪的事。我看到一些非人类的生物在那里出出进进的。}
+
+#{135}{}{And if the stories are right, the church is built over
+# an old Vault, which Adytum's predecessors lived in.}
+{135}{}{而且如果传说准确的话，那个教堂是在一座古老的避难所基础上改建的，内城区居民早先就住在那个避难所里。}
+
+#{136}{}{Heya. We see each other once more. What's up?}
+{136}{}{你好，我们又见面了。发生什么了？}
+
+#{137}{}{What was your job, again?}
+{137}{}{能再告诉我一次你的工作吗？}
+
+#{138}{}{Nothing, thanks.}
+{138}{}{没事，谢谢。}
+
+#{139}{}{Oh, I see. Right. Bye!}
+{139}{}{哦，我知道了。对。再见！}

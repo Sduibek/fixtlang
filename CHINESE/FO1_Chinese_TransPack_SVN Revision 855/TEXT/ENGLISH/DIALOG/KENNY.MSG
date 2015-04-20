@@ -1,0 +1,20 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see Deputy Kenny.}
+# {101}{}{If you have business with the Hub police, please talk to Sheriff Greene.  I only take care of his duties when the
+ # Sheriff is unavailable.}
+# {102}{}{I can't believe the Sheriff is really dead.}
+# {103}{}{There you are.  I've been waiting for you to return.  We heard the Sheriff was killed during the battle.
+  # It's hard to believe he's really gone.  He was like a father to me.}
+# {104}{}{The Sheriff gave me instructions to carry out in the event that he did not return from the mission.  He
+ # asked me to give you the remainder of your reward.  I believe it was 1000 caps.  【The Deputy hands you 1000 caps】}
+# {105}{}{This city owes you a debt of thanks.  I only wish the Sheriff could be here to thank you himself.  Goodbye.}
+# {106}{}{Oh my God!  They killed Kenny!  Those bastards!}
+{100}{}{你看到代理警长肯尼。}
+{101}{}{如果你有事要找哈勃城的警官，请你去和治安官格林说，我只是在警长不在的时候替他处理一些杂事。}
+{102}{}{我不敢相信警长他真的死了。}
+{103}{}{你来了啊，我等你很久了。听说警长殉职了，没想到他真的死了。我一直把他当作我的父亲一样。}
+{104}{}{警长和我们一起执行任务的时候告诉我，如果他没能活着回来，那么就由我把剩余的酬金给你，我想那应该是1000个瓶盖。【代理警长把1000个瓶盖交给你】}
+{105}{}{这座城市欠你太多了。我真希望警长本人能亲自来感谢你！再见了朋友。}
+{106}{}{哦我的天啊！他们杀了肯尼！那些狗养的。}

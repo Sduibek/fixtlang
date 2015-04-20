@@ -1,0 +1,144 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Miles, the chemist of Adytum.}
+{100}{}{你看到麦尔斯，内城区的化学师。}
+#{101}{}{You see a thin man in a white smock.}
+{101}{}{你看到一个装着白色工作服的瘦小男人。}
+#{102}{}{I don't believe we've met. I'm Miles. What can I do for you?}
+{102}{}{我不认为我们以前见过面。我是麦尔斯。能帮你什么忙？}
+#{103}{}{I'm just looking around, thanks.}
+{103}{}{我随便转转，多谢。}
+#{104}{}{That smock makes you look like a scientist. What are you studying?}
+{104}{}{这工作服让你看起来像个科学家。你在研究什么？}
+#{105}{}{Huh?}
+{105}{}{哈?}
+#{106}{}{Well, enjoy your stay in our little town.}
+{106}{}{好吧，希望你在我们小镇过得愉快。}
+#{107}{}{I'm a chemist. Mostly, I make primer and powder so that we can re-use
+# the brass casings from bullets. But I also dabble with some other chemicals.}
+{107}{}{我是化学师。多数时候，我做雷管和火药。这样我们就能重新利用子弹壳。不过我也涉及一些别的化学药品。}
+#{108}{}{So you make bullets for Adytum.}
+{108}{}{这么说来，你替内城区制造子弹。}
+#{109}{}{Where do you get the sulfur, potassium nitrate, and other chemicals?}
+{109}{}{你从哪弄硫磺，硝酸钾和其他的化学制品？}
+#{110}{}{What other chemicals do you work with?}
+{110}{}{你还做些什么化学药品？}
+#{111}{}{Thanks for the information.}
+{111}{}{多谢你提供的信息。}
+#{112}{}{Yes, although Smitty is the one who actually casts the bullets.
+# I just refill the brass casings.}
+{112}{}{是，虽然实际上是施密蒂在造弹头。我只是给弹壳内充填火药。}
+#{113}{}{But the Hub merchants make a profit off of you and the town.}
+{113}{}{不过哈勃城商人们利用你和这个镇子来赚钱。}
+#{114}{}{It's unusual to find someone who can appreciate chemistry!
+# But to answer your question, some of the materials we get from Hub merchants;
+# others I manufacture or just find in the area. For instance, the dung heaps
+# from the Brahmin are a good source, as well as some of the strains of fungus
+# that I cultivate.}
+{114}{}{士为知己者死，女为悦己者容！找到个真正懂化学的可真不容易！好，回答你的问题，有些材料来自哈勃城商人；其他的，我自己做或者就地取材。例如，双头牛的粪堆是个不错的来源，和我自己培养的一些真菌一样好用。}
+#{115}{}{Well, I've been trying to get some strong acids so that Smitty can use
+# them for etching. I also have been trying to make some permanent dyes and inks.
+# But without access to natural inks, it's difficult.}
+{115}{}{嗯，我在试做一些强酸给施密蒂做蚀刻。我还试着制作一些持久的染料和墨水。不过没有自然的墨水，这很难做。}
+#{116}{}{Any time.}
+{116}{}{随时。}
+#{117}{}{Oh dear. I'm afraid I can't help you.}
+{117}{}{哦，天啊。恐怕我帮不了你。}
+#{118}{}{Hello again. Can I help you?}
+{118}{}{再次欢迎。能帮上什么忙吗？}
+#{119}{}{Yes, well, we have to make a living. Since the hydroponic farms aren't
+# functioning, we have to buy food from the merchants, and bullets are the only
+# thing we have to sell.}
+{119}{}{是的，你看，我们必须生存下去。自从水栽培农场无法开工，我们不得不从商人那买食物，子弹是我们唯一能卖的。}
+#{120}{}{I could try to get the parts to fix the hydroponic farms.}
+{120}{}{我可以试着找找修复水栽培农场的部件。}
+#{121}{}{Oh. Well, that's too bad.}
+{121}{}{哦。你看，那太糟糕了。}
+#{122}{}{Really? That would be wonderful! We're just missing a few parts, but
+# I'm sure that  if you could scrounge up the right pieces, we could be
+# self-sufficient! Sammael might be able to give you some help.}
+{122}{}{真的吗？那太好了！我们就是差了那些部件，不过我肯定如果你找到合适的部件，我们就能够自给自足。山谬会告诉你更多。}
+#{123}{}{Have you found the parts yet?}
+{123}{}{你找到部件了吗？}
+#{124}{}{Yes, here they are.}
+{124}{}{是的，这些就是。}
+#{125}{}{Not yet, who did you say I should ask about them?}
+{125}{}{还没，你刚才说我要找谁问关于这些部件的事情？}
+#{126}{}{You'll need to talk to Sammael. You'll usually find him in
+# a tent down by the farms during the day.}
+{126}{}{你应该和山谬谈谈。一般白天的时候到农场附近的帐篷里可以找到他。}
+#{127}{}{【Miles looks over the parts】 Those are them, but it looks like
+# Smitty is going to have to do a little work on them.
+# Can you take them over to him?}
+{127}{}{【麦尔斯看着部件】是它们，不过看来施密蒂要对它们做些加工。你能把它们给他送过去吗？}
+#{128}{}{I've got other things to deal with.  Can you do it yourself?}
+{128}{}{我有别的事要处理。你能自己做这事吗？}
+#{129}{}{Sure, I'll be back after he's fixed them.}
+{129}{}{好，他修好后我会再来。}
+#{130}{}{Sure, I appreciate you finding them for us.}
+{130}{}{好，非常感谢你替我们找到它们。}
+#{131}{}{And . . .}
+{131}{}{还有……}
+#{132}{}{Not a problem.}
+{132}{}{没问题。}
+#{133}{}{Oh. I almost forgot. Here is some stuff, for your trouble.
+# 【Miles hands you some caps and some stimpacks.】}
+{133}{}{哦。我差点忘了。东西在这，麻烦你了。【麦尔斯递给你一些钱和治疗针。】} 
+#{134}{}{Were you able to take the parts over to Smitty?}
+{134}{}{你能把这些部件带给施密蒂吗？}
+#{135}{}{【Miles takes the fixed parts from you】 Looks like Smitty did a great job on
+# these. Thanks for the help, and here's some stuff for your trouble.}
+{135}{}{【麦尔斯从你这拿走修好的部件】看起来施密蒂干得不错。多谢你的帮忙，这里有些东西聊表谢意。}
+#{136}{}{【Miles hands you some caps and some stimpacks.】}
+{136}{}{【麦尔斯递给你一些钱和治疗针。】}
+#{137}{}{If you ever get back this way, you might want to look me and Smitty up.
+# We might be able to help you out with some adjustments to some of your equipment.
+# Smitty can work wonders with certain weapons, and I can help out with
+# certain sorts of armor.}
+{137}{}{无论什么时候你再到这来，来找我和施密蒂。我们可以帮你校调装备。施密蒂对某些武器很在行，我可以处理某些装甲。}
+#{138}{}{Looks like you found some Power Armor. I've heard of a chemical process
+# that I could use to harden the surface of the armor. However, I'm missing some
+# information which could give me the last few clues to the formula and
+# reagents necessary.  I've heard the Librarian in the Hub, Mrs. Stapleton,
+# has some journals and books that might be of use.
+# If you could get those from there, I could probably test the process
+# on your armor.}
+{138}{}{看来你找到动力装甲了。我知道一种化学处理可以强化装甲表面。不过，我丢了些资料，这些资料是一些有关化学公式和试剂的提示。我听说哈勃城的图书管理员，斯塔布雷顿夫人，有些学术期刊和专业书籍可能有用。如果你能拿，我会在你的装甲上试试这种化学强化处理。}
+#{139}{}{Sounds good. I'll go talk to Mrs. Stapleton.}
+{139}{}{听起来不错。我去和斯塔布雷顿夫人谈谈。}
+#{140}{}{I got better things to do then fetch something else for you.}
+{140}{}{我有更好的事情要做然后再替你弄些别的东西。}
+#{141}{}{Well, if you ever change your mind, just go see Mrs. Stapleton
+# and then head on back here.}
+{141}{}{好吧，如果你改变想法了，就去看看斯塔布雷顿夫人，再回到这里。}
+#{142}{}{Had a chance to get to the Hub yet and visit Mrs. Stapleton?}
+{142}{}{找到时间去哈勃城拜访一下斯塔布雷顿夫人了吗？}
+#{143}{}{Yeah, here are the books.}
+{143}{}{嗯，就是这些书。}
+#{144}{}{Not yet.}
+{144}{}{还没。}
+#{145}{}{【Miles takes the books from you, and starts flipping through them.】 Hmmmm.
+# Yes, hmmmm. 【He mumbles to himself for a few more minutes.】
+# Well, I think I can figure it out, but it will take a full day
+# for the bonding to occur. Is that acceptable?}
+{145}{}{【麦尔斯拿走了书，开始翻看。】嗯。对，嗯。【他自言自语的嘀咕了一阵】好，我想我搞明白了，不过要花一整天才能处理完。可以接受吧？}
+#{146}{}{Not a problem.}
+{146}{}{没问题。}
+#{147}{}{Sorry, don't have the time.}
+{147}{}{抱歉，没时间等了。}
+#{148}{}{Well, when you have the time, come back and I'll do the process
+# on your armor.}
+{148}{}{好，等你有时间了，再回来我会替你处理装甲。}
+#{149}{}{【Miles takes your armor from you.】}
+{149}{}{【麦尔斯拿走了装甲。】}
+#{150}{}{【Miles hands your armor back to you, it seems to glint a
+# little more than it did before.】 Well, I think it worked! Hope it helps you out.}
+{150}{}{【麦尔斯把装甲还给了你，它看起来比以前更加闪亮。】好，我想这种化学强化方法成功了！希望它能给你些帮助。}
+#{151}{}{What happened to your power armor? I can only help you out
+# if you have power armor.}
+{151}{}{你的能量装甲怎么了？你有了能量装甲我才能帮得了你。}
+#{152}{}{Nice to see you, but I'm right in the middle of some research.}
+{152}{}{很高兴看到你，不过我还在研究。}
+#{153}{}{Nothing I can do with that type of armor. Sorry.}
+{153}{}{对这种装甲我无能为力。抱歉。}

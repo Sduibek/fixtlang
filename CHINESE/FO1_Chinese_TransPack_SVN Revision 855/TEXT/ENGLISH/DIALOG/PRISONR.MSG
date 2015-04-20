@@ -1,0 +1,62 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a ghoul prisoner.}
+{100}{}{你看见一个僵尸囚犯。}
+#{101}{}{Wha-what do you want.}
+{101}{}{你-你要什么。}
+#{102}{}{Uh, nothing.}
+{102}{}{呃，没什么。}
+#{103}{}{Hng.}
+{103}{}{哼。}
+#{104}{}{I'm here to let you out.}
+{104}{}{我来放你出去。}
+#{105}{}{What'd you expect.}
+{105}{}{你想干什么？}
+#{106}{}{Hey, I don't care about that, just get me outta here!}
+{106}{}{嘿！我可不管那些，快把我弄出去！}
+#{107}{}{Great! Do it!}
+{107}{}{太棒了！去干吧！}
+#{108}{}{I stole some water. Hey, I was thirsty! It wasn't like I hurt somebody.}
+{108}{}{我偷了一些水。嘿！，那是因为我很渴！我并没有伤害什么人！}
+#{109}{}{You took more than your rightful share.}
+{109}{}{你拿的份超出了你的权限。}
+#{110}{}{Ah, that's nothing. I'll get you out.}
+{110}{}{啊，那不算什么。我会放你出去的。}
+# {111}{}{I would've died without the water. It was only a cupful.
+# Just enough to keep me alive. You gotta get me out of here!
+# I'm going insane.}
+{111}{}{没有那些水我可能就死了。那只是一杯那么多，刚好让我活下去。你快放我出去！我要疯了。}
+#{112}{}{Ok, hold on a moment.}
+{112}{}{好，再坚持一会。}
+#{113}{}{I think I'll let the authorities deal with you.}
+{113}{}{我觉得我应该让掌权的人来处理你。}
+#{114}{}{Please let me go.}
+{114}{}{请让我走吧。}
+#{115}{}{Thanks for letting me out.}
+{115}{}{你放我出来我真是太感激了。}
+#{116}{}{No prob.}
+{116}{}{没问题。}
+#{117}{}{Where does the water come from?}
+{117}{}{水是从哪来的？}
+#{118}{}{Ya.}
+{118}{}{是。}
+#{119}{}{They pump it up from the wells below. There is a manhole
+ # in the cell next door that leads to the old vault. This is
+ # the source of the water. If it wasn't for those
+ # ones below, we would be a lot better off.}
+{119}{}{他们从下面的井里把水抽出来。在隔壁的牢房里有一个人能通过的小洞，通向旧避难所。这就是水的来源。如果不是下面的那些家伙，我们的境况会好多了。}
+#{120}{}{What do you mean?}
+{120}{}{你是什么意思？}
+#{121}{}{Thanks.}
+{121}{}{谢谢。}
+#{122}{}{It's difficult to make the old tech work properly, sometimes. The glowing ones lash out whenever we go down there. Us ghouls just leave them alone. And the big mutants don't seem to care one bit.}
+{122}{}{有些时候让这些旧科技设施正常运作有点困难。当我们下去到那的时候发光的家伙痛打我们。我们僵尸离他们远远的。大块头的变种人看起来对这事一点也不关心。}
+#{123}{}{Good luck. Bye.}
+{123}{}{祝好运。再见。}
+#{124}{}{You gained }
+{124}{}{因为释放这个僵尸囚犯，你得到}
+#{125}{}{ experience points for freeing the ghoul prisoner.}
+{125}{}{点经验值。}
+#{126}{}{Thanks again.}
+{126}{}{再次感谢。}

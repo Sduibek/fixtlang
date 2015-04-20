@@ -1,0 +1,103 @@
+** Progetto TIFONE **
+** Traduzione Italiana Fallout **
+
+A cura di: Ragfox
+
+---------------------
+
+Versione "Plus"
+
+---------------------
+
+La versione "Plus" e' basata sulla patch "NPC 1.2.5" realizzata da Pal che aggiunge personaggi (e quest) tagliati nella versione finale del gioco. Viene qui riproposta in una versione riveduta e corretta dal sottoscritto (Ragfox) che ha provveduto ad eliminare alcuni personaggi implementati male e a mettere a posto alcuni problemi degli script originali.
+
+---------------------
+
+Sommario
+  A. Installazione
+  B. Disinstallazione
+  C. Avvertenze
+  D. Aggiunte (attenzione spoiler!)
+  E. Per informazioni
+
+------
+--------------- 
+
+
+A. INSTALLAZIONE
+
+1. La versione "plus" dev'essere installata SOLAMENTE in combinazione con la traduzione italiana.
+
+2. Assicuratevi di aver installato correttamente Fallout, la patch 1.1 e la traduzione italiana (qualsiasi versione).
+
+3. Eseguite il file FOitaplus.exe.
+
+4. Installate la versione "plus" nella stessa directory in cui avete installato la traduzione 
+(default: C:\Program Files\Interplay\Fallout)
+
+AVVERTENZA: i salvataggi effettuati con la sola traduzione installata potrebbero non essere piu' utilizzabili una volta installata la versione "plus". Se si desidera provare questo add-on, si consiglia di installarlo prima di iniziare una nuova partita.
+
+
+B. DISINSTALLAZIONE
+
+1. La disinstallazione della versione "plus" comporta anche la disinstallazione della patch 1.1 e della traduzione italiana. Sara' quindi necessario installarle nuovamente in un secondo momento.
+
+2. Cancellare la cartella /data contenuta nella directory principale di Fallout
+
+3. Se si desidera conservare i salvataggi (che potrebbero non essere compatibili con la sola traduzione), copiare la cartella /data/SAVEGAME in una directory a scelta e poi incollarla nuovamente nella cartella /data della directory principale di Fallout. Anche per la cartella data/sound effettuare la stessa operazione, a meno che non si decida di procedere con una nuova installazione del gioco.
+
+
+C. AVVERTENZE
+
+Partite di prova sono state eseguite per controllare la stabilita' generale di Fallout "plus" e i risultati sono stati piu' che soddisfacenti. Tuttavia, data la natura amatoriale della patch su cui si basa la versione "plus", non e' possibile garantire il perfetto funzionamento del gioco.
+
+L'autore di questa patch non e' in alcun modo responsabile di eventuali problemi a livello software e hardware verificatisi nel periodo di tempo successivo all'installazione della presente patch. La patch e' solo una raccolta di file che non va a modificare nulla ne' a livello di sistema operativo ne' a livello di hardware.
+
+
+D. AGGIUNTE
+
+La lettura delle righe che seguono potrebbero in parte rovinare l'esperienza di gioco, dato che contengono riferimenti a personaggi ed ambienti che si possono incontrare nelle fasi piu' avanzate.
+
+
+  Personaggi aggiunti
+
+  Shady Sands
+   Anziano (dialogo e script riscritti da Ragfox)
+   Agatha (dialogo e script originali - possibilita' di ampliamento)
+   Mercante 
+   Guardia del corpo del Mercante
+    
+  Junktown
+   Bob
+   Hernandez il giocatore (dialogo e script corretti e integrati da Ragfox)
+
+  Adytum
+   Julianna, l'amante di Romero
+
+  Blade
+   Fire (dialogo modificato da Ragfox, script chiaramente lacunoso, ma funzionante)
+   Beca/Jade (dialogo originale, script chiaramente lacunoso, ma funzionante)
+   Dolgan (dialogo modificato da Ragfox, script chiaramente lacunoso, ma funzionante)
+   Michelle (dialogo originale, script chiaramente lacunoso, ma funzionante)
+   Romero, l'amante di Julianna
+   Dragon
+
+  Discepoli
+   Amber
+   Nail (dialogo originale, script leggermente modificato da Ragfox)
+   Marney
+   Jake
+   Peter (dialogo originale, script leggermente modificato da Ragfox)
+   Heather
+   Uthern (dialogo ok, script incerto)
+   Super Mutante (dialogo ok, script incerto)
+    
+  Confraternita
+   Farli
+   Brenden  
+
+
+E. Per informazioni e suggerimenti
+
+Ragfox: drakenar@virgilio.it
+Progetto TIFONE: http://www.multiplayer.it/git/tifone

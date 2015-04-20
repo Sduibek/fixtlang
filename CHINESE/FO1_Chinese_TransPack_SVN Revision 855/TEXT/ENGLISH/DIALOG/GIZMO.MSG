@@ -1,0 +1,445 @@
+#{100}{}{You see Gizmo, the casino owner.}
+{100}{}{你见到了赌场老板吉斯莫。}
+
+#{101}{gizmo_1}{Get your butt in here and sit down. We got some business to discuss.}
+{101}{gizmo_1}{把你的屁股放这儿坐下。我们有正事要谈。}
+
+#{102}{}{Looks like there's enough butt in here already . . .}
+{102}{}{看来有一个很大的屁股已经在这里……}
+
+#{103}{}{I gathered as much.  What do you want?}
+{103}{}{我也这么想。你要干什么？}
+
+#{104}{}{What business?}
+{104}{}{什么正事？}
+
+#{105}{}{Blehh.}
+{105}{}{啊啥。}
+
+#{106}{gizmo_1b}{Get outta here, ya' idiot!}
+{106}{gizmo_1b}{滚出这里，你个白痴！}
+
+#{107}{gizmo_2}{You kiss your mother with that mouth? Show some respect.}
+{107}{gizmo_2}{你就用那张嘴亲你老妈的吗？放干净点。}
+
+#{108}{}{You do anything but eat?}
+{108}{}{除了吃之外你还做其他事情吗？}
+
+#{109}{}{You're right, I'm sorry.  So let's talk business.}
+{109}{}{你是对的，我很抱歉。那么让我们谈正事吧。}
+
+#{110}{gizmo_4}{All right, 【Gizmo snorts】 here's the deal. Junktown, it ain't what it used to be. The only reason
+# it's still here is because of my gambling establishment.  Even so, Killian's been breathing down my neck, and I'm starting to take it
+# personal. 【Gizmo snorts】 And that's where you come in, slick.}
+{110}{gizmo_4}{好吧，【吉斯莫喷了下鼻子】有笔生意。迦克镇，已经不是以前的迦克镇了。要不是我的赌博产业，它早该完蛋了。即便这样，基利安还是在我背后捅刀子，要和我结梁子。【吉斯莫喷了下鼻子】而这就是你大显身手的机会，聪明人。}
+
+#{111}{}{What do you want me to do?}
+{111}{}{你要我做什么？}
+
+#{112}{}{If you think I'd help you, you're fat and stupid.}
+{112}{}{如果你认为我会帮你的话，就真是蠢到家了。}
+
+#{113}{gizmo_4a}{Funny.}
+{113}{gizmo_4a}{有趣。}
+
+#{114}{gizmo_5}{What I think is you're going to take him out for me, you know? No witnesses, just in, over, out.}
+{114}{gizmo_5}{我想着的就是你帮我把他给做了，明白？别留下目击者，进去，做掉，离开。}
+
+#{115}{}{Why don't you send one of your own goons in?}
+{115}{}{为什么你不派个自己手下人去？}
+
+#{116}{}{I wouldn't work for you if you offered me all the money in this crummy place.}
+{116}{}{除非你把这破地方的所有钱都给我，否则我才不会为你工作呢。}
+
+#{117}{}{Sure. I can use the money.}
+{117}{}{当然，我用得着钱。}
+
+#{118}{}{I don't think so. Thanks anyway.}
+{118}{}{我不想干。无论如何还是谢谢了。}
+
+#{119}{}{How much you willing to pay?}
+{119}{}{你愿意付多少钱？}
+
+#{120}{gizmo_6}{I would, but there must be no connection between me and Killian's unfortunate demise.}
+{120}{gizmo_6}{我当然可以派自己的手下去，但是我和基利安的“不幸”不能有任何瓜葛。}
+
+#{121}{}{Makes sense. Sure, I'll do it.}
+{121}{}{合情合理。好的，我干了。}
+
+#{122}{}{All right, I'll do it.}
+{122}{}{行，我干！}
+
+#{123}{}{What a coward. Afraid people won't like you? Too late.}
+{123}{}{真是胆小鬼。怕身败名裂？太晚了。}
+
+#{124}{}{How much you willing to pay?}
+{124}{}{你愿意付多少钱？}
+
+#{125}{}{No way in Hell.}
+{125}{}{他妈的没门。}
+
+#{126}{}{I don't think so. Thanks anyway.}
+{126}{}{我不想干。总而言之还是谢谢了。}
+
+#{127}{gizmo_7}{【Gizmo wheezes.】 I knew you'd see it my way. As proof, I want the dog tags Killian
+# wears around his neck. Ya' get them, ya' get your money. Now, just get. And don't cross me. I still got the kneecaps from the last one who tried.}
+{127}{gizmo_7}{【吉斯莫深喘了口气】我就知道你会很知趣的。作为证物，我要基利安带在脖子上的狗牌。拿到狗牌，就给你钱。现在去吧。别想在背后阴我。最近一次想这么做的人，他的膝盖骨还在我这里呢。}
+
+#{128}{gizmo_8}{Thousand caps. No more, no less.}
+{128}{gizmo_8}{1000个瓶盖。不多不少。}
+
+#{129}{}{Sounds good. I'll do it.}
+{129}{}{听着不错，这事我干了。}
+
+#{130}{}{You call that a reward? If I'm to whack the guy, I'm going to need more than that.}
+{130}{}{这也叫酬金？要我杀人，这点钱是不够的。}
+
+#{131}{}{Not even close. I don't want any part of this deal.}
+{131}{}{话不投机。我对这笔生意没一丁点兴趣。}
+
+#{132}{}{I wouldn't trust you as far as two people could throw you. Forget it, slim.}
+{132}{}{除非你这身赘肉两个人就能搬的动，否则我不会相信你的。没门，老滑头。}
+
+#{133}{gizmo_9}{【Gizmo laughs and coughs】 Maybe you're right. I think you're worth more. 1500.}
+{133}{gizmo_9}{【吉斯莫大笑得咳了起来】或许你是对的。我想你值更多的钱。1500。}
+
+#{134}{}{Now we're talking.}
+{134}{}{这样的话还值得谈一谈。}
+
+#{135}{}{That's about what, a dollar a pound for you? Forget it.}
+{135}{}{这点算个什么，你太小气了，钞票是你身上的肉啊！？想都别想。}
+
+#{136}{}{Thank you, but I'd rather not.}
+{136}{}{谢谢你，但我还是算了吧。}
+
+#{137}{}{No way in Hell.}
+{137}{}{他妈的没门。}
+
+#{138}{gizmo_10}{Sorry you feel that way. Not as sorry as you're gonna be, though. Can't let word of this get out. Izo, show our new friend what we do with people who say no to me.}
+{138}{gizmo_10}{你这么想，我很遗憾。不过，待会儿你会感到更遗憾的。不能让我们的计划传出去。艾佐，让我们的新朋友看看我们是怎么对待那些向我说不的人的。}
+
+#{139}{gizmo_11}{One is okay. Two is too much. And that was two. Izo, get me a set of kneecaps.}
+{139}{gizmo_11}{第一次可以原谅。第二次就不行了。这是第二次！艾佐，帮我敲下一对膝盖骨来吧。}
+
+#{140}{gizmo_13}{Did ya' finish the job yet?}
+{140}{gizmo_13}{你的活儿干完了没？}
+
+#{141}{}{Yep, sure did.}
+{141}{}{是的。当然。}
+
+#{142}{}{Nope, not yet.}
+{142}{}{不，还没有。}
+
+#{143}{gizmo_14}{Let's see the tags.}
+{143}{gizmo_14}{让我们看看狗牌吧。}
+
+#{144}{gizmo_15}{Oh, yeah. Oh, yeah! Izo's got your money. Oh, this is good! Hey, hey, uh . . . you should leave town for a while. You know, just in case.}
+{144}{gizmo_15}{哦，耶！哦，耶！去艾佐那里拿你应得的钱。哦，这太好了！嘿，嘿，呃……你应该离开镇子一段时间。你知道的，以防万一。}
+
+#{145}{}{Okay, I'm going.}
+{145}{}{好的，我走了。}
+
+#{146}{}{You don't order me around, fat boy. You got that?}
+{146}{}{别命令我做这做那的，肥猪。听到没有！？}
+
+#{147}{}{And if I don't?}
+{147}{}{那如果我不呢？}
+
+#{148}{}{Sure, I'll go. Just remember you owe me one.}
+{148}{}{当然，我会走的。只要记得你欠我的人情就好。}
+
+#{149}{gizmo_16}{You don't leave town, you end up under it. You got me?}
+{149}{gizmo_16}{你不离开镇子的话，就得死在这儿。明白了没有？}
+
+#{150}{}{Okay, okay. I'm going.}
+{150}{}{好吧，好吧。我走了。}
+
+#{151}{}{Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me.}
+{151}{}{谁能这么做呢？你？你甚至都不能抬起你的胖屁股去拿三明治，更别说杀了我了。}
+
+#{152}{}{All right, fine. Just remember you owe me.}
+{152}{}{好吧，行。只要记得你欠我的人情就好。}
+
+#{153}{gizmo_17}{Then give me the dog tags?}
+{153}{gizmo_17}{那么把狗牌给我吧？}
+
+#{154}{}{Um . . . well . . . I . . . uh, lost them.}
+{154}{}{呣……这个……我……呃……不小心把它们弄丢了。}
+
+#{155}{}{What if I don't want to give them you?}
+{155}{}{如果我不想把它们给你呢？}
+
+#{156}{}{I lied. I don't have them.}
+{156}{}{我撒谎的。我没拿到它们。}
+
+#{157}{}{I had them, but then I lost them.}
+{157}{}{我拿到它们了，但是又弄丢了。}
+
+#{158}{gizmo_18}{【Gizmo laughs.】 You know, you're a crummy liar.  Now go get the tags. I don't want to see your face until you've offed Killian.}
+{158}{gizmo_18}{【吉斯莫笑了。】你知道么，你的骗术很低劣。现在去搞那狗牌吧。杀掉基利安之前别让我看见你的脸。}
+
+#{159}{gizmo_19}{No problem, I take them off your dead body.}
+{159}{gizmo_19}{没问题，我会从你的尸体上拿到的。}
+
+#{160}{}{Uh . . . well, I kinda lied. I don't have them.}
+{160}{}{呃……好吧，可以这么说，我撒谎了。我没有它们。}
+
+#{161}{}{Yeah? You going to hire somebody to do your bending for you?}
+{161}{}{好啊，你准备雇人来帮你鞠躬行礼吗？}
+
+#{162}{}{I lost them.}
+{162}{}{我把它们弄丢了。}
+
+#{163}{}{Well, I had them, but they were stolen.}
+{163}{}{好吧，我拿到它们了，但是被偷走了。}
+
+#{164}{gizmo_20}{No tags, no money. You come back without the tags again and Izo gets creative with your anatomy. Now get out!}
+{164}{gizmo_20}{没狗牌就没钱。你下次再空手来的话，艾佐会把你大卸二十八块，现在快滚出去！}
+
+#{165}{gizmo_21}{What do you want? I'm a busy man.}
+{165}{gizmo_21}{你要干什么？我很忙。}
+
+#{166}{}{I'm here to tell you your assassin failed.}
+{166}{}{我是来告诉你，你的暗杀失败了。}
+
+#{167}{}{Nothing, actually. I'll just be going now.}
+{167}{}{没什么，事实上，我马上就走。}
+
+#{168}{}{I want to know how someone as stupid as you is still alive.}
+{168}{}{我想知道像你这么蠢的人怎么还能活着的。}
+
+#{169}{}{I'm here to talk about the attempt on Killian's life.}
+{169}{}{我是来谈关于取基利安性命之事的。}
+
+#{170}{gizmo_22}{I don't know what you're talking about.}
+{170}{gizmo_22}{我不知道你在说什么。}
+
+#{171}{}{Of course you do. You hired someone to kill Killian, and he screwed up.}
+{171}{}{当然是你做的。你雇了个人去杀基利安，结果他搞砸了。}
+
+#{172}{}{You don't remember hiring someone to kill Killian, you stupid slug?}
+{172}{}{你不记得你雇了个家伙去杀基利安吗，你傻了吗？}
+
+#{173}{}{Well, let's take a hypothetical situation . . .}
+{173}{}{好吧，让我们假设……}
+
+#{174}{}{You're a liar!}
+{174}{}{你撒谎！}
+
+#{175}{}{You're right. Goodbye.}
+{175}{}{你是对的。再见。}
+
+#{176}{gizmo_23}{I don't know who you are, but I don't take kindly to strangers walking into my office and accusing me of things they know nothing about.}
+{176}{gizmo_23}{我不知道你是谁，但我对于那些走进我办公室，就他们一无所知的事情控告我的陌生人从不客气。}
+
+#{177}{}{Ah, but there's where you miss the point, Gizmo. I'm not accusing. I'm here to help you.}
+{177}{}{哦，但你遗漏了一点，吉斯莫。我不是来控告的。我是来帮助你的。}
+
+#{178}{}{I know it all. So confess!}
+{178}{}{我全都知道了。所以承认了吧！}
+
+#{179}{}{You're right. I'm leaving.}
+{179}{}{你是对的。我马上就离开。}
+
+#{180}{gizmo_24}{Really? 【Gizmo chuckles.】 He's gonna help me? What kinda help are we talking about?}
+{180}{gizmo_24}{是嘛？【吉斯莫咯咯地笑着对艾佐说】他准备帮助我？【转过头看着你】你能帮什么样的忙呢？}
+
+#{181}{}{Easy. You sent someone to kill Killian. He failed. You need someone who can do the job . . . better.}
+{181}{}{很简单。你派了人去杀基利安。他失败了。你需要更厉害的家伙来做这件事。}
+
+#{182}{}{Nothing. Forget I brought it up.}
+{182}{}{没什么。忘了我提起过这事吧。}
+
+#{183}{gizmo_25}{And let me guess. You're that someone?}
+{183}{gizmo_25}{还有，让我猜。你就是那家伙？}
+
+#{184}{}{Very good . . . For a price, of course.}
+{184}{}{没错……当然，勤劳致富，有偿劳动。}
+
+#{185}{}{I can kill him quicker than you can spit.}
+{185}{}{你吐口口水的时间我就能杀掉他。}
+
+#{186}{gizmo_26}{Well, how can I trust you?}
+{186}{gizmo_26}{好吧，我怎么才能相信你？}
+
+#{187}{}{I'm here. And you need someone from out of town to do your dirty work. Right?}
+{187}{}{你需要这个镇以外的人来帮你干点见不得人的事儿。而我恰好在这儿。对吧？}
+
+#{188}{}{You can't . . . I mean you can . . . I mean . . .}
+{188}{}{你不能……我的意思是你能……我的意思是……}
+
+#{189}{}{Because I've been around. I've killed before.}
+{189}{}{因为我在外面混过，干过湿活。}
+
+#{190}{gizmo_27}{Hmm . . . all right. We can do this. But you work for me, you better know
+# that nobody ever double-crosses Gizmo and lives to talk about it. You got me?}
+{190}{gizmo_27}{呣……好吧。我们就这么干吧。但既然你为我工作，就最好记得，没人能耍了吉斯莫之后还能活着的。明白了吗？}
+
+#{191}{}{Oh, I could put one over on you . . . just no way anyone could put one 'round you.}
+{191}{}{哦，我把你耍了……谁都没有这么耍过你。}
+
+#{192}{}{Of course. But first I need to know why you want him dead.}
+{192}{}{当然。但是首先我要知道为什么你要他死。}
+
+#{193}{gizmo_28}{Huh. That's easy. I want him dead because he cramps my business. So, will you do him for me?}
+{193}{gizmo_28}{啊哈。很简单。他挡住了我的财路，我就要他死。那么，你愿意帮我做掉他吗？}
+
+#{194}{}{That's why I'm here. He'll be dead before sundown.}
+{194}{}{那就是我在这儿的原因。日落之前他就会死。}
+
+#{195}{}{Sure. It's a job.}
+{195}{}{那是当然。那么这活儿就说定了。}
+
+#{196}{}{Could you say that again please . . . this time in my coat pocket?}
+{196}{}{请再说一遍可以吗……我这里的录音机还没录好哇。}
+
+#{197}{}{Well, um . . . No, I can't.}
+{197}{}{好吧，呃……不，我不能。}
+
+#{198}{gizmo_29}{Good. Return with the dog tags he wears around his neck as proof.
+# And we never had this conversation, you don't mention this to anyone. No one double crosses me. No one.}
+{198}{gizmo_29}{很好，带着他脖子上的狗牌回来作为证明。记住，我们从没谈过话，你绝不能把这消息和任何人说。没人能把我牵扯出来，没有人。}
+
+#{199}{gizmo_30}{You're either real stupid . . . or a real stupid spy. Doesn't matter, because now Izo's gonna make you real dead.}
+{199}{gizmo_30}{你要么是真傻……要么就是个笨得可以的奸细。没关系，因为现在艾佐马上会让你死透的。}
+
+#{200}{gizmo_32}{I don't like people who waste my time. Don't come back again soon!}
+{200}{gizmo_32}{我可不喜欢别人浪费我的时间。做完事情前，别再那么快回来！}
+
+#{201}{gizmo_33}{Such as?}
+{201}{gizmo_33}{比如说？}
+
+#{202}{}{Well, let's say you did try and kill Killian, and your assassin failed. That means you need a new one to do the job right.}
+{202}{}{好吧，让我们这么说，你确实试过去杀基利安，而你的刺客失败了。那意味着你需要另外的人来把这事儿做好。}
+
+#{203}{}{Huh? Oh, never mind.}
+{203}{}{哦呃？哦，没事儿。}
+
+#{204}{gizmo_34}{You know, 【Gizmo sighs】 I don't like it when people insult me in my own place. Izo, escort our guest out . . . through the window.}
+{204}{gizmo_34}{你知道，【吉斯莫叹了口气】我不太喜欢人们在我的地盘上侮辱我。艾佐，把我们的客人请出去吧……横着，从窗户那里扔出去！}
+
+#{205}{gizmo_35}{You're back. You know, I had to hire someone else to do your work.
+# That didn't make me happy. In fact, Izo will show you just how unhappy I am. I hope you had a nice day. It was your last.}
+{205}{gizmo_35}{你回来了。告诉你，我又雇了其他人去干你的活儿。我很生气，后果很严重。事实上，艾佐会让你知道我究竟有多么生气。祝你愉快。这是你的最后一天了。}
+
+#{206}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, we'll just see how much he knows, won't we?}
+{206}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就很快就会知道他到底全知全能到什么程度了，不是吗？}
+
+#{207}{gizmo_37}{【Gizmo coughs.】 That's me, stupid. I run the . . . gambling establishment here.}
+{207}{gizmo_37}{【吉斯莫咳喘着。】就是我，傻瓜。我在这儿经营着……一些赌博产业。}
+
+#{208}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}
+{208}{gizmo_38}{基利安住在镇子北边的尽头，卖些垃圾货。}
+
+#{209}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
+{209}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
+
+#{210}{gizmo_42}{Wouldn't you like to know?}
+{210}{gizmo_42}{你非要弄个明白？}
+
+#{211}{gizmo_43}{You don't need to concern yourself with that.}
+{211}{gizmo_43}{你不用关心这个。}
+
+#{212}{gizmo_44}{【Gizmo sniffs.】 I uh . . . I don't feel like talking about that right now.}
+{212}{gizmo_44}{【吉斯莫呼哧呼哧着说。】我，呃……现在不太想讨论这个。}
+
+#{213}{gizmo45m}{Hey, what the hell do you think you're doing? Izo, tear his arms off!}
+{213}{gizmo45m}{嘿，你他妈的以为自己在干什么？艾佐，把他的腿给卸了！}
+
+#{214}{gizmo45f}{Hey, what the hell do you think you're doing? Izo, tear off her arms!}
+{214}{gizmo45f}{嘿，你他妈的以为自己在干什么？艾佐，把她的胳膊给卸了！}
+
+#{215}{gizmo_47}{What, are you deaf? I said . . .}
+{215}{gizmo_47}{什么？你是聋子吗？我说……}
+
+#{216}{gizmo_48}{Hey, I won't repeat myself again!}
+{216}{gizmo_48}{嘿，我只说一次！}
+
+#{217}{}{You gain 600 experience points for your work in the defeat of Gizmo. May the bastard rest in pieces.}
+{217}{}{由于在打倒吉斯莫的战斗中做出的贡献，你获得了600点经验值。愿这混蛋的碎片能够安息。}
+
+#{218}{}{This is easily the most corpulent individual you have ever seen.}
+{218}{}{这无疑是你看到过的最肥胖的人。}
+
+#{219}{}{You know, I found something very interesting after you was last here. If there's one thing I can't stand more than a lousy pepperoni pizza, it's a snitch. Boys!}
+{219}{}{你上次走了之后我找到了一些很有趣的东西。如果说有什么事情是比不干净的辣味香肠更让我不能容忍的话，那就是告密！孩儿们，抄家活！}
+
+#{220}{}{So it comes down to this, Killian. Well, I never could put up with your stink, and now I'm gonna put an end to it!}
+{220}{}{终于兵戎相见了，基利安。好吧，我从来就不能和你沆瀣一气，现在是时候做个了结了！}
+
+#{221}{}{I took care of Killian. Word is you might appreciate that.}
+{221}{}{我搞定了基利安。你最好为此感谢我。}
+
+#{222}{}{Oh, really?}
+{222}{}{哦，真的？}
+
+#{223}{}{Hey, okay, if you don't want him dead, fine. Just tryin' to be helpful.}
+{223}{}{嘿，好吧，如果你不想他死，那么好。多少试着帮点忙。}
+
+#{224}{}{I was thinking maybe knife in the back or bullet in the head.}
+{224}{}{我在考虑，是背后来一刀呢还是在脑袋里放个子弹。}
+
+#{225}{}{Got it. What'cha want 'im dead for?}
+{225}{}{明白了。你为什么要他死？}
+
+#{226}{gizmo_24}{Really? 【Gizmo chuckles.】 She's gonna help me? What kinda help are we talking about?}
+{226}{gizmo_24}{是嘛？【吉斯莫咯咯地笑着对艾佐说】她准备帮助我？【转过头看着你】你能帮什么忙呢？}
+
+
+# Gizmo's Tell-Me-Abouts generic responses
+#{980}{gizmo_42}{Wouldn't you like to know?}
+{980}{gizmo_42}{你非要知道啊？}
+
+#{981}{gizmo_43}{You don't need to concern yourself with that.}
+{981}{gizmo_43}{你不必关心这个。}
+
+#
+# Gizmo's Tell-Me-Abouts
+#
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Killian-基利安、Gizmo-吉斯莫、Darkwaters-黑水、Gizmo's-吉斯莫的、Darkwater-黑水、Gizmos-吉斯莫、Casino-赌场、Junktown-迦克镇。}
+
+{1000}{}{Killian}
+{1001}{}{Gizmo}
+{1002}{}{Darkwaters}
+
+{1003}{}{Gizmo's}
+#{1003}{}{吉斯莫的}
+
+{1004}{}{Darkwater}
+#{1004}{}{黑水}
+
+{1005}{}{Gizmos}
+#{1005}{}{吉斯莫}
+
+{1006}{}{Casino}
+#{1006}{}{赌场}
+
+{1007}{}{Junktown}
+# {1007}{}{迦克镇}
+
+#{1100}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, 【Gizmo laughs】 we'll just see how much he knows, won't we?}
+{1100}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就很快就会知道他到底全知全能到什么程度了，不是吗？}
+
+#{1101}{gizmo_37}{【Gizmo coughs.】 That's me, stupid. I run the . . . gambling establishment here.}
+{1101}{gizmo_37}{【吉斯莫咳喘着。】就是我，傻瓜。我在这儿经营着……一些赌博产业。}
+
+#{1102}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}
+{1102}{gizmo_38}{基利安住在镇子北边的尽头，卖些垃圾货。}
+
+#{1103}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
+{1103}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
+
+#{1104}{gizmo36a}{【Gizmo grunts.】 Killian's the mayor of this town. Thinks he knows everything . . . well, 【Gizmo laughs】 we'll just see how much he knows, won't we?}
+{1104}{gizmo36a}{【吉斯莫咕哝着。】基利安是这里的镇长。自以为无所不知……好吧，【吉斯莫笑着说】我们就很快就会知道他到底全知全能到什么程度了，不是吗？}
+
+#{1105}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
+{1105}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
+
+#{1106}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
+{1106}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
+
+#{1107}{gizmo_39}{Well, most people gamble here. You ask stupid questions.}
+{1107}{gizmo_39}{大多数人在这儿都是赌博。你问了个傻问题。}
+

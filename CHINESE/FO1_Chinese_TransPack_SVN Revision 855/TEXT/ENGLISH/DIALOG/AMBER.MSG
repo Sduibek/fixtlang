@@ -1,0 +1,97 @@
+{100}{}{你看见安柏尔，末世论者的一个教师。}
+{101}{}{现在是我休息的时候。请在晚上再来。}
+{102}{}{欢迎，高贵的旅行者。你是来这里钻研的吗？}
+{103}{}{不。我实际上只是来这里杀人。}
+{104}{}{这要看你想教我什么。}
+{105}{}{是的，我愿意学。}
+{106}{}{我很遗憾听你这么说。末世论相信和平是无价的。因为这点，我已经自愿放弃使用暴力。晚安。}
+{107}{}{我精通多种语言和艺术。或许你想学其中的一项？}
+{108}{}{抱歉，不过我需要知道能帮助我生存的事情。}
+{109}{}{我没有时间花在这种东西上。走了。}
+{110}{}{或许我能听一两首歌。}
+{111}{}{你能教我点别的么？}
+{112}{}{啊, 我们这里有个生命的研习者。如此，我能教你些草药知识，只不过势必需时多而所获少。}
+{113}{}{可以啊，教我吧。}
+{114}{}{拜托，教我你所会的。}
+{115}{}{抱歉，我实在没有时间花在植物上。再见。}
+{116}{}{你不该这么粗鲁。现在道歉，不然我不会再教你。}
+{117}{}{对不起。你愿意教我吗？}
+{118}{}{算了。}
+{119}{}{现在好点了。你将开始你的学习。}
+{120}{}{你学得很快。愿对你的考验能启发你。和平与你同在。}
+{121}{}{你学得还可以。愿未来能软化你的心灵和扩大你的思想。}
+{122}{}{好吧，我会教你关于生存的一些方法。}
+{123}{}{你学得很快。愿你的考验能启发你。和平与你同在。}
+{124}{}{你并没有说服我。我认为你寻求把我的能力用在不良之处。晚安。}
+{125}{}{啊，一个想学习艺术的学生现在在世界上已经很罕见了，不过或许你还有希望。每首歌都比较长，你愿意听吗？}
+{126}{}{《自黑暗中觉醒》}
+{127}{}{《亚尔河之歌》}
+{128}{}{《阿耳忒弥斯的回忆》}
+{129}{}{《黎明战车破晓之际》}
+{130}{}{一件惊人的作品。我愿意见你。}
+{131}{}{我必须休息了。这次传授让我精疲力尽。祝你好运。}
+{132}{}{一件惊人的作品。我愿意见你。}
+{133}{}{我必须休息了。这次传授让我精疲力尽。祝你好运。}
+{134}{}{一件惊人的作品。我愿意见你。}
+{135}{}{我必须休息了。这次传授让我精疲力尽。祝你好运。}
+{136}{}{一件惊人的作品。我愿意见你。}
+{137}{}{我必须休息了。这次传授让我精疲力尽了。祝你好运。}
+{138}{}{恐怕我已经花了太多的时间和精力了。我很抱歉。}
+{139}{}{和平与美就是所有我能教的。我很遗憾这些对于你似乎没什么吸引力。再见。}
+{140}{}{我能教你老诗人和吟游诗人之道。}
+{141}{}{我会很荣幸听能你唱一首。}
+{142}{}{或许别的什么时候吧。谢谢。}
+{143}{}{我希望能学一些能帮我更多的东西。}
+{144}{}{你不需要我的才能。你已经教授原本和平之人以战争之道。我为他们哀悼。}
+
+
+
+
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see 安柏尔, a teacher for the 末世论者.}
+#{101}{}{Now is when I rest. Please, come back during the evening.}
+#{102}{}{Welcome noble traveler. Have you come here to study?}
+#{103}{}{No. I really came here just to kill things.}
+#{104}{}{Depends on what you want to teach me.}
+#{105}{}{Yes, I am willing to learn.}
+#{106}{}{I am truly sorry to hear that. The 末世论者 believe in peace at all costs. For that reason, I have renounced violence. Good evening.}
+#{107}{}{I am skilled in many of the languages and arts. Perhaps you would like to learn one of those?}
+#{108}{}{I'm sorry, but I need to know things which will help me survive.}
+#{109}{}{I have no time for that type of stuff. I'm gone.}
+#{110}{}{Perhaps I can listen to a song or two.}
+#{111}{}{Can you teach me anything else?}
+#{112}{}{Ah, we have here a student of life. In a case like this, I can teach you some herbalism, but training takes a while for little result.}
+#{113}{}{Fine, just teach me.}
+#{114}{}{Please, teach me what you can.}
+#{115}{}{Sorry, I really don't have time for plants. Goodbye.}
+#{116}{}{You need not be rude. Apologize now, or I won't teach you.}
+#{117}{}{I am sorry. Will you please teach me?}
+#{118}{}{Forget it.}
+#{119}{}{That is better now. We will begin your studies.}
+#{120}{}{You are an apt learner. May your trials be light. Go in peace.}
+#{121}{}{As you see fit. May the future soften your heart and broaden your mind.}
+#{122}{}{Very well, I will teach you the ways to survive.}
+#{123}{}{You are an apt learner. May your trials be light. Go in peace.}
+#{124}{}{You do not convince me. I think you seek to use my gifts for ill. Good evening.}
+#{125}{}{Ah, a student of the arts is a rare thing in this world. Perhaps there is hope for you yet. Each song is long in time. Which would you like to hear?}
+#{126}{}{In the Wake of the Shadow.}
+#{127}{}{The Ballad of Aires.}
+#{128}{}{In Remembrance of Artemis.}
+#{129}{}{The Rising of Dawn's Chariot.}
+#{130}{}{An astonishing piece of work. I shall grant you an audience.}
+#{131}{}{I must rest. This teaching drains much from me. Good luck to you.}
+#{132}{}{An astonishing piece of work. I shall grant you an audience.}
+#{133}{}{I must rest. This teaching drains much from me. Good luck to you.}
+#{134}{}{An astonishing piece of work. I shall grant you an audience.}
+#{135}{}{I must rest. This teaching drains much from me. Good luck to you.}
+#{136}{}{An astonishing piece of work. I shall grant you an audience.}
+#{137}{}{I must rest. This teaching drains much from me. Good luck to you.}
+#{138}{}{I fear I have spent myself far too much. I am sorry.}
+#{139}{}{Peace and Beauty are all I can teach. I am sorry that those are not appealing to you. Good day.}
+#{140}{}{I can teach you the ways of the old bards and minstrels.}
+#{141}{}{I would be honored to hear a song.}
+#{142}{}{Perhaps another time. Thank you.}
+#{143}{}{I was hoping to learn something that may help me more.}
+#{144}{}{You have no need of my talents. You have taught peaceful people the ways of war. I mourn for them now.}

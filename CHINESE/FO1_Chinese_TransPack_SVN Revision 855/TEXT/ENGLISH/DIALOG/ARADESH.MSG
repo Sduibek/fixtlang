@@ -1,0 +1,713 @@
+{1099}{}{?}
+
+{1199}{}{我可以告诉你：Aradesh-亚拉德什、Dharma-先知达玛、Tandi-坦蒂、Razlo-拉斯洛、Raiders-歹徒、Vipers-蝮蛇帮、Khans-可汗帮、Scorpions-辐射蝎、Claw-死亡爪、Junktown-迦克镇、Spear-矛、Station-小镇的哨所、Lair-巢穴、Scorpion-辐射蝎、Tower-小镇的了望塔、Seth-赛思。}
+
+#{100}{}{You see Aradesh.}
+{100}{}{你看见亚拉德什。}
+
+#{101}{Ara_1g}{Greetings, wanderer. Please do not be offended if the
+#gentlefolk about seem rude. As Dharma said, 'Tough
+#times tan the human hide.' Your business in Shady
+#Sands might be?}
+{101}{Ara_1g}{你好，旅行者。这里的居民们或许有点粗鲁，但不要生气。达玛说：“乱世能让人坚强。”你来沙荫镇有何贵干？}
+
+#{102}{Ara_1n}{Greetings. Your business in Shady Sands might be?}
+{102}{Ara_1n}{你好。你来沙荫镇有何贵干？}
+
+#{103}{Ara_1b}{We don't take to strangers much. Your business in
+#Shady Sands?}
+{103}{Ara_1b}{我们这里很少有外来者。你来沙荫镇有何贵干？}
+
+#{104}{}{I'm from a small village west of here. I'm just
+#exploring and mean you no harm.}
+{104}{}{我从西面的一个小村子来。我只是在探险，没有恶意。}
+
+#{105}{}{What's it to you?}
+{105}{}{关你什么事？}
+
+#{106}{}{My reasons are mine to keep.}
+{106}{}{我保留我的理由。}
+
+#{107}{}{I'm from a Vault to the west. My people are dying
+#of thirst and I need to find a water purifier chip
+#for them to survive.}
+{107}{}{我从西面的一个避难所来。我的人正受到颗缺水渴死的危险，我要找一个净水芯片让他们能活下去。}
+
+#{108}{}{I'm saving an entire people from destruction!}
+{108}{}{我正在救民于水火！}
+
+#{109}{}{Shady Sands? Whoops, I'm lost! I'll just be going now.}
+{109}{}{沙荫镇？哎呀，我迷路了！我得走了。}
+
+#{110}{}{Hunh?}
+{110}{}{哈？}
+
+#{111}{Ara_2}{I know of no village to the west.}
+{111}{Ara_2}{据我所知西面没有村子。}
+
+#{112}{}{Have you been through the mountains west of here?}
+{112}{}{你翻过这里西面的山吗？}
+
+#{113}{}{So?}
+{113}{}{那么？}
+
+#{114}{}{Are you saying you know every location from here
+#to the ocean?}
+{114}{}{你的意思是，你了解从这里到海洋的每个地方？}
+
+#{115}{}{I'm sure you've been many places, but you must have
+#missed my tiny village.}
+{115}{}{我相信你到过很多地方，不过你一定遗漏了我在的小村庄。}
+
+#{116}{Ara_3}{Ah well, to my regret, I have not. Which begs the question,
+#how did you make that passage?}
+{116}{Ara_3}{哦，那么，很遗憾，我没有。那么让我重复一次我的问题，你是怎么到这里的？}
+
+#{117}{}{It was pretty tough, but I made it.}
+{117}{}{很辛苦，不过我还是走过来了。}
+
+#{118}{}{What's it to you?}
+{118}{}{与你何干？}
+
+#{119}{}{Look, all I wanted was a few supplies and things,
+#but I will gladly go elsewhere.}
+{119}{}{听着，我想要的只是一些补给和其它东西，不过我也不是非要在你们这里搞到这些。}
+
+#{120}{}{I don't need to answer you.}
+{120}{}{我不需要回答你。}
+
+#{121}{Ara_4}{Yes, hmmm, yes, yes. yes. I shall believe you...for now.
+#But we do not trust easily, especially those who might be dangerous.
+#Know that Seth and I will be watching you.}
+{121}{Ara_4}{好的，嗯，对，对，对。我应该相信你……目下而言。不过我们不会轻易信任别人，特别是对于那些可能是危险分子的人。你要明白，塞思和我会盯着你的一举一动。}
+
+#{122}{Ara_5}{It is my town, wanderer. You must answer my questions
+#or leave. This is not a matter of choice.}
+{122}{Ara_5}{这是我的城镇，旅行者，你要么回答我的问题要么离开这里。这里没你选择的余地。}
+
+#{123}{}{I don't have to tell you anything.}
+{123}{}{我不必告诉你任何事情。}
+
+#{124}{}{I mean you no harm, really.}
+{124}{}{我对你没有恶意，真的。}
+
+#{125}{}{Don't worry, I'm leaving.}
+{125}{}{别担心，我就走。}
+
+#{126}{Ara_6}{You are quite insolent. I believe you should leave. Do
+#not return. You will not be welcome.}
+{126}{Ara_6}{你相当无礼。我想你应该离开。别回来。你不会受欢迎的。}
+
+#{127}{Ara_7}{So be it, wanderer. Seth will show you out.}
+{127}{Ara_7}{随你，旅行者。塞思会请你出去的。}
+
+#{128}{Ara_8}{You must think me quite gullible, wanderer. You
+#conquered the mountains by yourself?}
+{128}{Ara_8}{你以为我很好骗吗，旅行者。你一个人翻过了那些山脉？}
+
+#{129}{}{Doesn't matter how I think. It's true I came
+#from the mountains.}
+{129}{}{我怎么想不重要。我从那些山脉翻过来是事实。}
+
+#{130}{}{No, just stupid.}
+{130}{}{不，仅仅是愚蠢而已。}
+
+#{131}{Ara_9}{As Dharma said, 'Caution is life in troubled times.'
+#Your origin is not the issue. Your intent is.}
+{131}{Ara_9}{如达玛所说，“小心驶得万年船”，你从哪里来并不是问题。重要的是你来此地的用意。}
+
+#{132}{}{Okay.}
+{132}{}{好吧。}
+
+#{133}{Ara_9A}{I will let you pass, but know this: Seth and I will
+#watch you very, very closely. Do not even consider
+#bringing trouble here.}
+{133}{Ara_9A}{我就不再盘问你了，不过你要记住：塞思和我会很小心、很小心地盯着你的。如果想在这里惹麻烦，你还是省省吧。}
+
+#{134}{Ara_10}{And keep them you may. But this is not a city of
+#open hospitality. If you desire that, go to Junktown.
+#You may enter, but know we have our eyes on you.}
+{134}{Ara_10}{你可以不说。不过这里不是一个公开好客的地方。如果你想的话，去迦克镇。你可以进得我们的镇子，不过你要知道，我们会盯着你的。}
+
+#{135}{Ara_11}{A Vault. How shall I trust you, wanderer, when you
+#are not honest with me?}
+{135}{Ara_11}{一个避难所？我怎么能相信你呢，旅行者，你说的不是实话吧？}
+
+#{136}{}{No, honestly, I come from a Vault!}
+{136}{}{实际上，我从一个避难所来的！}
+
+#{137}{}{The Vault is . . . the name of my village.}
+{137}{}{这“避难所”是……是我村子的名称。}
+
+#{138}{}{You're right, I was lying.}
+{138}{}{你说对了，我是在撒谎。}
+
+#{139}{Ara_12}{Hmmm, yes, yes, yes. Then tell me of this Vault.}
+{139}{Ara_12}{嗯，对对对。那么就给说说这个避难所。}
+
+#{140}{}{Well . . . the Vault is actually the name of my town.
+#We name it that because it's in between two big cliffs.}
+{140}{}{呃……避难所其实就是我在城镇的名称。我们取这个名字是因为它在两个大峭壁的中间。}
+
+#{141}{}{It's a big place built into a mountain far to the west.
+#My people have been there for the last 80 years.}
+{141}{}{那是一个建在遥远西面的一座山中的一个很大的地方。我的人民已经在那里居住了80年了。}
+
+#{142}{}{Why do you want to know?}
+{142}{}{你为什么想知道？}
+
+#{143}{Ara_13}{Wanderer, I shall believe you . . . for now. You may
+#enter Shady Sands, but be warned your every move will be watched.}
+{143}{Ara_13}{旅行者，我可以相信你……只是现在。你可以进入沙荫镇，不过我告诫你，你的所有举动都会被注意。}
+
+#{144}{Ara_14}{I will not be lied to, wanderer.}
+{144}{Ara_14}{不要对我撒慌，旅行者。}
+
+#{145}{}{I don't have to tell you anything.}
+{145}{}{我不需要告诉你任何事。}
+
+#{146}{}{I mean you no harm, really.}
+{146}{}{我没有恶意，真的。}
+
+#{147}{}{Don't worry, I'm leaving.}
+{147}{}{别担心，我就走。}
+
+#{148}{Ara_15}{Hmmm. You may enter. But stay out of trouble.}
+{148}{Ara_15}{嗯。你可以进我们的镇子。不过别惹麻烦。}
+
+#{149}{}{What can you tell me about the other towns around here?}
+{149}{}{你能给我说说这附近城镇的情况吗？}
+
+#{150}{}{What's going on around here?}
+{150}{}{镇子里最近有什么事吗？}
+
+#{151}{}{Thanks. Bye.}
+{151}{}{谢谢。再见。}
+
+#{152}{Ara_17}{Greetings again, young wanderer. I hope your stay here has been pleasant.}
+{152}{Ara_17}{你好，又再见了，年轻的旅行者。我希望你在镇子里过的愉快。}
+
+#{153}{}{It's been great. Can I ask you some questions?}
+{153}{}{这里很不错。我可以问些问题吗？}
+
+#{154}{}{It has. I gotta run though.}
+{154}{}{是的。不过我该走了。}
+
+#{155}{}{If you like sewers.}
+{155}{}{和下水道一样的破镇子。}
+
+#{156}{}{Nuh-huh.}
+{156}{}{嗯嗯。}
+
+#{157}{Ara_18n}{Greetings. What may I help you with this fine day?}
+{157}{Ara_18n}{你好。天气不错，我有什么能帮你吗？}
+
+#{158}{Ara_18b}{Is there something you want?}
+{158}{Ara_18b}{你有什么事？}
+
+#{159}{}{Can you tell me about Shady Sands?}
+{159}{}{你能告诉我一些关于沙荫镇的事情吗？}
+
+#{160}{}{I was wondering if I could ask you a few questions?}
+{160}{}{我想我可以问你一些问题吗？}
+
+#{161}{}{Nothing, really, I was just leaving.}
+{161}{}{没事，真的没事，我要走了。}
+
+#{162}{}{Nuh-uh.}
+{162}{}{嗯嗯。}
+
+#{163}{Ara_19}{Certainly. What do you wish to know?}
+{163}{Ara_19}{当然可以。你希望知道什么？}
+
+#{164}{Ara_19b}{You may ask, but please hurry. There are more important uses for my time.}
+{164}{Ara_19b}{你可以问，不过请快点。我还有更重要的事情要费神。}
+
+#{165}{}{What can you tell me about the other towns around here?}
+{165}{}{你能给我说说这附近城镇的情况吗？}
+
+#{166}{}{What's going on around here?}
+{166}{}{镇子里最近有什么事吗？}
+
+#{167}{}{Thanks. Bye.}
+{167}{}{谢谢。再见。}
+
+#{168}{Ara_20g}{Ah. Happy journeys, wanderer.}
+{168}{Ara_20g}{啊。祝你旅途愉快，旅行者。}
+
+#{169}{Ara_20n}{Goodbye.}
+{169}{Ara_20n}{再见。}
+
+#{170}{Ara_20b}{I certainly hope so.}
+{170}{Ara_20b}{求之不得。}
+
+#{171}{Ara_21}{Dharma said, 'A man and his wayward tongue are soon parted.' Come back
+#when you have learned some manners.}
+{171}{Ara_21}{达玛说过，“无礼的舌头总有被割掉的一天。”等你什么时候懂得礼貌了再回来吧。}
+
+#{172}{Ara_22}{That is quite enough, wanderer. Seth will show
+#you out of the city. Do not return. Your welcome will not be pleasant.}
+{172}{Ara_22}{这就实在是够了，旅行者。赛思会带你出城去。不要回来。和你交往很不愉快。}
+
+#{173}{Ara_23g}{Shady Sands is much like a family, one that keeps
+#to itself.}
+{173}{Ara_23g}{沙荫镇很有家庭的感觉，自给自足。}
+
+#{174}{Ara_23b}{We are a very protective community. As Dharma said,
+#'Many sticks can be broken. A bundle cannot.'}
+{174}{Ara_23b}{我们是一个很有自我保护意识的社区。如达玛所说，“一根筷子轻轻被折断，十根筷子牢牢抱成团。”}
+
+#{175}{}{What kind of things do you have around here?}
+{175}{}{镇子里有什么事情吗？}
+
+#{176}{}{Interesting. Are there any other cities around here?}
+{176}{}{有意思。这附近有任何其它城市吗？}
+
+#{177}{}{How cute. Well, I better be going.}
+{177}{}{真精辟啊。那么，我最好还是走吧。}
+
+#{178}{Ara_24}{The Gardens are on the south side. The Brahma Pens
+#are north, although the smell is, I fear, quite intense this time of year.}
+{178}{Ara_24}{花园在南边。双头牛场在北边，虽然那里的气味实在是，我恐怕，在每年的这个时候相当强烈。}
+
+#{179}{}{Anything else?}
+{179}{}{还有什么吗？}
+
+#{180}{Ara_24a}{We are small and self sufficient so there is little else
+#to tell.}
+{180}{Ara_24a}{我们是自给自足的小地方，所以没有多少说的。}
+
+#{181}{}{Thanks. Can I ask you a few more questions?}
+{181}{}{谢谢。我可以多问一些问题吗？}
+
+#{182}{}{Thanks. Bye.}
+{182}{}{谢谢。再见。}
+
+#{183}{Ara_24b}{It is a small place. You have feet.}
+{183}{Ara_24b}{这是一个小地方。你抬脚走一圈就明白了。}
+
+#{184}{}{Thanks. Can I ask you a few more questions?}
+{184}{}{谢谢。我可以多问一些问题吗？}
+
+#{185}{Ara_25b}{Dharma said, 'Heed not the call of the wolf when the fox is raiding
+#the hen house.'}
+{185}{Ara_25b}{达玛说，“杀鸡何用宰牛刀。”}
+
+#{186}{Ara_25g}{Junktown lies south of here, though there is little in
+#the way of visitation. From stories, I'm certain there
+#are cities south of that.}
+{186}{Ara_25g}{迦克镇在这里的南方，到那里的路上几乎没有其他镇子了。从各种传言来看，我很肯定迦克镇的南面还有不少城市。}
+
+#{187}{}{Thanks. I . . . Can I ask you a few more questions?}
+{187}{}{谢谢。我……我可以再问一些问题吗？}
+
+#{188}{Ara_26}{It is a quiet time, thankfully.}
+{188}{Ara_26}{幸运的，现在还没有什么事。}
+
+#{189}{}{Sounds . . . boring}
+{189}{}{听起来……挺闷。}
+
+#{190}{}{Well, then, can I ask you a few more questions?}
+{190}{}{嗯，那么，我可以再多问几个问题吗？}
+
+#{191}{}{Good. Hopefully it will stay that way for a while.}
+{191}{}{好。希望这样能维持一段时间。}
+
+#{192}{Ara_27}{Yes. We like it that way.}
+{192}{Ara_27}{是的。我希望能如此。}
+
+#{193}{}{What can you tell me about the other towns around here?}
+{193}{}{你能告诉我关于这里附近城镇的一些事吗？}
+
+#{194}{}{What's going on around here?}
+{194}{}{这里最近怎么样了？}
+
+#{195}{}{Thanks. Bye.}
+{195}{}{谢谢。再见。}
+
+#{196}{Ara_28}{Oh my yes. Great packs of Rad Scorpions are killing
+#our herds. We don't know where they're from, and no
+#matter how many we kill, there's always more!}
+{196}{Ara_28}{哦，确实有。一大群辐射蝎正在杀我们的牛群。我们不知道他们从哪里来的，而且不管我们杀了多少辐射蝎，那里总会有更多的出现。}
+
+#{197}{}{Go on.}
+{197}{}{继续。}
+
+#{198}{Ara_28a}{And now the monsters are attacking my people! Razlo
+#is trying to find a cure for their poison, but I'm not
+#sure how it goes.}
+{198}{Ara_28a}{而且现在这些怪物正在攻击我的人民！拉斯洛正在寻找一种治疗蝎毒的方法，不过我不知道进展如何了。}
+
+#{199}{}{Well, I'll help you get rid of these things!}
+{199}{}{好，我会帮你消灭那些东西！}
+
+#{200}{}{I can help you for a price.}
+{200}{}{我可以帮助你，不过需要一定的代价。}
+
+#{201}{}{That's terrible. Can I ask you a few more questions?}
+{201}{}{那真糟糕。我能再问你一些问题吗？}
+
+#{202}{Ara_29}{Ummm, yes, yes, yes, yes, yes! Please talk to Razlo. He
+#possesses far more information on these creatures than I.}
+{202}{Ara_29}{嗯，好，好，好，好，好！请跟拉斯洛谈谈。他比我更清楚那种生物的事情。}
+
+#{203}{Ara_30}{As Dharma said, 'Those who tend their own flock,
+#know the shepherd.'}
+{203}{Ara_30}{如达玛所说，“不在其位，不谋其政。”}
+
+#{204}{}{I know it's hard for you to trust, but I would like
+#to help.}
+{204}{}{我知道你还不太信任我，不过我真的想帮帮忙。}
+
+#{205}{}{Your choice. Can I ask you some more questions?}
+{205}{}{随你。我能再问你点问题吗？}
+
+#{206}{Ara_30a}{Please hurry and rid us of those Rad Scorpions!}
+{206}{Ara_30a}{请尽快帮我们消灭掉那些辐射蝎！}
+
+#{207}{Ara_31}{Things are much more settled now. Razlo has been working
+#on a cure for Rad Scorpion poison, and with that, we should be
+#able to fight what's left of them.}
+{207}{Ara_31}{现在事情稳定多了。拉斯洛正在弄蝎毒的治疗方法，有了这个，我们应该就可以把还剩下来的辐射蝎消灭了。}
+
+#{208}{}{It was nothing. Can I ask you some more questions?}
+{208}{}{没什么。我可以再问你些问题吗？}
+
+#{209}{}{You don't need to worry anymore. I destroyed the Nest.}
+{209}{}{你不需要再担心什么了。我消灭了他们的巢穴。}
+
+#{210}{Ara_32}{You are truly a hero! Know that the people of Shady
+#Sands are most grateful.}
+{210}{Ara_32}{你是一个真英雄！我们沙荫镇的人民非常感激你。}
+
+#{211}{}{Thanks. Can I ask you a few more questions, though?}
+{211}{}{谢谢。那么我能再问你一些问题吗？}
+
+#{212}{}{Thanks. Bye!}
+{212}{}{谢谢。再见！}
+
+#{213}{Ara_33}{If you can understand me, please try to find my
+#daughter.}
+{213}{Ara_33}{如果你知道我的意思，请你找到我的女儿。}
+
+#{214}{Ara_35}{Since you brought my Tandi back to me, things are
+#quite fine. My eternal gratitude to you, wanderer.}
+{214}{Ara_35}{在你把我的坦蒂救回来后，一切很好。请接受我我永恒的感激，旅行者。}
+
+#{215}{}{What can you tell me about the other towns around
+#here?}
+{215}{}{你能告诉我这里附近城镇的事情吗？}
+
+#{216}{}{What's going on around here?}
+{216}{}{镇子里有什么事吗？}
+
+#{217}{}{Thanks. Bye.}
+{217}{}{谢谢。再见。}
+
+#{218}{Ara_36}{Yes, yes. Umm. Have a good stay.}
+{218}{Ara_36}{是，是。嗯。祝你在这愉快。}
+
+#{219}{Ara_37}{Ahh, wanderer. How goes the search for my daughter?}
+{219}{Ara_37}{啊，旅行者。寻找我女儿有什么进展吗？}
+
+#{220}{}{Sorry, but I haven't found her. I will, though.}
+{220}{}{抱歉，不过我还没有找到她。不过我会的。}
+
+#{221}{}{I'm sorry, but she is dead.}
+{221}{}{我非常遗憾，她已经死了。}
+
+#{222}{}{Duh-nada.}
+{222}{}{啊——啊啊。}
+
+#{223}{}{Sorry, but I haven't found her. I will, though.}
+{223}{}{抱歉，不过我还没有找到她。不过我会的。}
+
+#{224}{}{Slow, but I am making some progress. Can I ask you
+# a few more questions?}
+{224}{}{不太乐观，不过正有进展。我能再问你一些问题吗？}
+
+#{225}{}{Guunngggg!}
+{225}{}{咕嗯!}
+
+#{226}{Ara_37a}{Thank you for trying. Please leave me to my grief.}
+{226}{Ara_37a}{你尽力了，谢谢。请让我一个人静静的哀悼。}
+
+#{227}{Ara_38}{May my thoughts be wings to your feet. Please hurry.}
+{227}{Ara_38}{愿你的思想成为你脚步的翅膀。请尽快。}
+
+#{228}{Ara_39}{Thank goodness you came! I am in desperate
+# need of assistance. My daughter, Tandi, is missing.
+# I do not know what to do!}
+{228}{Ara_39}{谢天谢地你来了！我急需你的帮助。我的女儿，坦蒂，失踪了。我不知道应该做什么！}
+
+#{229}{}{Have you tried to save her?}
+{229}{}{你营救过她吗？}
+
+#{230}{}{Uhh?}
+{230}{}{啊？}
+
+#{231}{Ara_39a}{My people are not skilled in this. Already three patrols
+# have gone out to look, but none returned. Will you help me?}
+{231}{Ara_39a}{我的人民不擅长这些。已经有三支巡逻队去寻找了，不过还没有任何一队回来。你会帮我吗？}
+
+#{232}{}{Okay. Who could have taken her?}
+{232}{}{好吧。谁可能把她带走？}
+
+#{233}{}{I'll do it . . . for a fee.}
+{233}{}{我能帮你的忙……不过你要出点血。}
+
+#{234}{}{I am sorry, but I have other things I have to do.}
+{234}{}{我很抱歉，不过我还有别的该去做的事。}
+
+#{235}{Ara_40}{Seth and I believe one of the raider clans is
+# responsible - retribution for our resistance to
+# them. Take this spear. It was found where my daughter
+# was last seen.}
+{235}{Ara_40}{赛思和我相信是其中一伙强盗干的——为了报复我们的抵抗。拿上这把矛。这是我在女儿失踪的地方找到的。}
+
+#{236}{}{Okay, I'll check it out.}
+{236}{}{好的，我会去查查。}
+
+#{237}{Ara_40A}{Please, talk to Seth. He knows much about these
+# raiders. And God speed, wanderer.}
+{237}{Ara_40A}{请和赛思谈谈。他知道很多关于歹徒的事。十万火急啊，旅行者。}
+
+#{238}{Ara_41}{Of course, I will reward you. Bring her and you
+# will receive 500 in Hub Script. Will you help me?}
+{238}{Ara_41}{当然，我会给你报酬的。把她带回来，你会获得500哈勃币。你会帮我吗？}
+
+#{239}{}{Okay. Who could have taken her?}
+{239}{}{好吧。谁可能带走她？}
+
+#{240}{}{Ah . . . no thanks. I got other stuff I gotta
+# take care of.}
+{240}{}{啊……不，谢了。我还有别的事要做。}
+
+#{241}{Ara_42}{As Dharma said, 'While you are out hunting the
+# wolves, do not bring the lion to your den.' If you will
+# not help, you must leave here.}
+{241}{Ara_42}{达玛说过，“前门御狼，后门防虎。”如果你不帮忙，你就必须离开这里。}
+
+#{242}{Ara_43}{I will be forever in your debt for your courage and
+# bravery, wanderer. Here is your reward.}
+{242}{Ara_43}{为你的勇气和胆量，我将永生感恩不尽，旅行者。这里是你的报酬。}
+
+#{243}{}{Thanks. Can I ask you a few more questions, first?}
+{243}{}{谢谢。我可以先再问你一些问题吗？}
+
+#{244}{}{Thanks.}
+{244}{}{谢谢。}
+
+#{245}{Ara_44}{Until we meet again, my friend. May the water you find
+# in the desert not shine at you in the dark.}
+{245}{Ara_44}{来日再见，我的朋友。愿你总能在沙漠里发现不会在夜里闪闪发光的水。}
+
+#{246}{Ara_45}{What are you doing? Put that back at once!}
+{246}{Ara_45}{你在干什么？马上把它放回去！}
+
+#{247}{Ara_46}{That is not yours. Please do not take it.}
+{247}{Ara_46}{这个不是你的。请你不要拿走它。}
+
+#{248}{Ara_47}{Stop that at once!}
+{248}{Ara_47}{马上停止那么做！}
+
+#{249}{Ara_48}{What are you doing here? I am resting, come back in the morning!}
+{249}{Ara_48}{你在这里干什么？我正在休息，早上再来吧！}
+
+#{250}{Ara_49}{I am he. I lead this humble town of Shady Sands.}
+{250}{Ara_49}{我就是那个领导着沙荫镇的人。}
+
+#{251}{Ara_49A}{Dharma was a great, religious man. You would do well to
+# listen closely to his sayings.}
+{251}{Ara_49A}{达玛是个伟大而虔诚的人。遵从他的指引，你就会成功。}
+
+#{252}{Ara_50}{She is my daughter. It is she that makes this hard
+# life worth living.}
+{252}{Ara_50}{她是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
+
+#{253}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
+# he can heal it. I would wager he is just a little
+# north of here at this moment.}
+{253}{Ara_51}{嗯，是的，是的，拉斯洛是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
+
+#{254}{Ara_52}{A fine young man, Seth. Captain of our guards. He
+# is likely to be at the Guard House. }
+{254}{Ara_52}{赛思是个棒小伙。我们卫兵的队长。他可能在镇口的门房边。}
+
+#{255}{Ara_53}{A wonderful woman. She just celebrated her sixtieth
+# birthday! She spends much time with Razlo, talking his
+# ear off with her veritable treasure trove of stories.}
+{255}{Ara_53}{她可是个好姑娘。刚庆祝了她的16岁生日! 她常和拉斯洛待在一起, 总和他聊那些亲身经历，她都把那些故事当宝了。}
+
+#{256}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
+# that we know of. They call themselves the Vipers and
+# the Khans.}
+{256}{Ara_54}{哼，嗯，嗯。非常坏的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
+
+#{257}{Ara_55}{Be very careful with such as these. Raiders who are
+# fanatically  religious can be quite dangerous. No one
+# here knows of their base.}
+{257}{Ara_55}{对这些人要尤其小心。那些狂信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
+
+#{258}{Ara_56}{Umm, yes, yes. The Khans are nastier then the Vipers,
+# let me tell you. These barbarians attack from the
+# southeast.}
+{258}{Ara_56}{嗯啊，是的。要我说，那些可汗帮比毒蛇帮得更卑鄙。这些野蛮人都是从东南方向进攻的。}
+
+#{259}{Ara_57}{Mean creatures, they are. Be careful of their tail.
+# Their poison can be lethal if not looked after.}
+{259}{Ara_57}{它们都是恶心的动物。当心它们的尾巴。那些毒素不好好治疗可是会要你命的。}
+
+#{260}{Ara_58}{Yes, yes. yes. It is a rumor of a monster created
+# during the War.}
+{260}{Ara_58}{是的，是的，是的。据说这是种在大战中产生的动物。}
+
+#{262}{Ara_60}{Junktown is south or here. Their merchants occasionally
+# come to trade, but not often.}
+{262}{Ara_60}{迦克镇在这里的南方。那里的商人有时会来做买卖，不过不经常来。}
+
+#{263}{Ara_61}{The Vipers and Khans both use spears. We know this from
+# their attacks.}
+{263}{Ara_61}{毒蛇帮和可汗帮都用矛。我和他们交过手，所以知道。}
+
+#{264}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
+{264}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
+
+#{265}{Ara_63}{No one knows for certain, but the packs seem to be
+# coming from the northeast.}
+{265}{Ara_63}{没人知道得很清楚, 但是他们成群结队，好像是都从东北方向来的。}
+
+#{266}{Ara_64}{I don't know.}
+{266}{Ara_64}{我不知道。}
+
+#{267}{Ara_65}{I can't really say I have heard of that.}
+{267}{Ara_65}{我不敢说我听说过那东西。}
+
+#{268}{Ara_66}{Hm, no. No, I have not heard of that.}
+{268}{Ara_66}{呵，我没听说过那东西。}
+
+#{269}{Ara_67}{As I said . . .}
+{269}{Ara_67}{好像我说过了……}
+
+#{270}{Ara_68}{Like I mentioned earlier . . .}
+{270}{Ara_68}{好像我前面提到过了……}
+
+#{271}{Ara_69}{Like I said . . .}
+{271}{Ara_69}{就像我说过的……}
+
+#{272}{Ara_70}{As I had told you before . . .}
+{272}{Ara_70}{我以前对你说过这些吧……}
+
+#{273}{Ara_71}{I shall not repeat myself so often as to make myself
+# sound stupid. Please listen next time.}
+{273}{Ara_71}{我不会像个傻瓜那样把说过的话重复那么多遍。你要仔细听我的说话。}
+
+#{274}{Ara_72}{I will not stand here like a sputtering candle simply
+# because you cannot listen.}
+{274}{Ara_72}{我再不想对牛弹琴了。}
+
+#{275}{Ara_73}{Go talk to Seth about that. He'll know more than I.}
+{275}{Ara_73}{去问问赛思吧。他比我更懂这些。}
+
+#{276}{}{}
+{276}{}{}
+
+#{277}{}{I will not waste my time on treacherous outsiders.}
+{277}{}{我不会和那些坏心肠的外来人浪费时间。}
+
+
+# tell me about generic responses
+#{980}{Ara_64}{I don't know.}
+{980}{Ara_64}{我不知道}
+
+#{981}{Ara_65}{I can't really say I have heard of that.}
+{981}{Ara_65}{我不敢说我听说过那些。}
+
+#{982}{Ara_66}{Hm, no. No, I have not heard of that.}
+{982}{Ara_66}{嗯，不，不。我从没听说过那些。}
+
+
+{1000}{}{Aradesh}
+{1001}{}{Dharma}
+{1002}{}{Tandi}
+{1003}{}{Razlo}
+{1004}{}{Raiders}
+{1005}{}{Vipers}
+{1006}{}{Khans}
+{1007}{}{Scorpions}
+{1008}{}{Claw}
+{1009}{}{Junktown}
+{1010}{}{Spear}
+{1011}{}{Station}
+{1012}{}{Lair}
+{1013}{}{Scorpion}
+{1014}{}{Tower}
+{1015}{}{Seth}
+
+
+
+# {1100}{Ara_49}{I am he. I lead this humble town of Shady Sands.}
+{1100}{Ara_49}{我就是那个领导着沙荫镇的人。}
+
+#{1101}{Ara_49A}{Dharma was a great, religious man. You would do well to
+# listen closely to his sayings.}
+{1101}{Ara_49A}{达玛是个伟大而虔诚的人。遵从他的指引，你就会成功。}
+
+#{1102}{Ara_50}{She is my daughter. It is she that makes this hard
+# life worth living.}
+{1102}{Ara_50}{她是我的女儿，就是因为她，这里一切艰苦的生活都是值得的。}
+
+#{1103}{Ara_51}{Hmm, yes, yes. Razlo is our doctor. If it ails you,
+# he can heal it. I would wager he is just a little
+# north of here at this moment.}
+{1103}{Ara_51}{嗯，是的，是的，拉斯洛是我们的医生。他能治疗沙漠蝎的蛰伤。这会儿他肯定在这稍北处的房子里。}
+
+#{1104}{Ara_54}{Ummm, um, um. Very bad. There are two bands of raiders
+# that we know of. They call themselves the Vipers and
+# the Khans.}
+{1104}{Ara_54}{哼，嗯，嗯。非常坏的家伙。据我们所知附近就有两伙歹徒。他们自称毒蛇和可汗。}
+
+#{1105}{Ara_55}{Be very careful with such as these. Raiders who are
+# fanatically  religious can be quite dangerous. No one
+# here knows of their base.}
+{1105}{Ara_55}{对这些人要尤其小心。那些狂热迷信的歹徒非常危险。这里也没人知道他们的老巢在哪。}
+
+#{1106}{Ara_56}{Umm, yes, yes. The Khans are nastier then the Vipers,
+# let me tell you. These barbarians attack from the
+# southeast.}
+{1106}{Ara_56}{嗯啊，是的。要我说，那些可汗帮比毒蛇帮得更卑鄙。这些野蛮人都是从东南方向袭击的。}
+
+#{1107}{Ara_57}{Mean creatures, they are. Be careful of their tail.
+# Their poison can be lethal if not looked after.}
+{1107}{Ara_57}{它们都是恶心的动物。当心它们的尾巴。那些毒素不好好治疗可是会要你命的。}
+
+#{1108}{Ara_58}{Yes, yes. yes. It is a rumor of a monster created
+# during the War.}
+{1108}{Ara_58}{是的，是的，是的。据说这是种在大战中产生的动物。}
+
+#{1109}{Ara_60}{Junktown is south of here. Their merchants occasionally
+# come to trade, but not often.}
+{1109}{Ara_60}{迦克镇在这里的南方。那里的商人有时会来做买卖，不过不经常来。}
+
+#{1110}{Ara_61}{The Vipers and Khans both use spears. We know this from
+# their attacks.}
+{1110}{Ara_61}{毒蛇帮和可汗帮都用矛。我和他们交过手，所以知道。}
+
+#{1111}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
+{1111}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
+
+#{1112}{Ara_63}{No one knows for certain, but the packs seem to be
+# coming from the northeast.}
+{1112}{Ara_63}{没人知道得很清楚, 但是他们成群结队，好像都是从东北方向来的。}
+
+#{1113}{Ara_57}{Mean creatures, they are. Be careful of their tail.
+# Their poison can be lethal if not looked after.}
+{1113}{Ara_57}{它们都是恶心的动物。当心它们的尾巴。那些毒素不好好治疗可是会要你命的。}
+
+#{1114}{Ara_62}{You will find it at the front of town. Seth will likely be there.}
+{1114}{Ara_62}{你会在镇前面找到它，赛思八成就在那里。}
+
+#{1115}{Ara_52}{A fine young man, Seth. Captain of our guards. He
+# is likely to be at the Guard House. }
+{1115}{Ara_52}{赛思是个棒小伙。我们卫兵的队长。他可能在镇口的门房边。}
+

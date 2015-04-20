@@ -1,0 +1,295 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Demetre.}
+{100}{}{你看见戴米德。}
+#{101}{}{Hey there! How are you doin'? The name's Demetre, Demetre Romara, head of the best damn caravan in the wastes. Are you lookin' for a job?}
+{101}{}{嗨！你好啊！我是戴米德，戴米德·罗玛拉，废土上最他妈好商队的首领。你想找活干吗？}
+#{102}{}{Hmmm, you don't look very strong at all, but... you MUST be great with guns then to have survived the outside! Hell, you're probably one mean fighter when the time comes!}
+{102}{}{唔，你毕竟看起来不是很强壮，但……为了在野外生存下去你一定对用枪很在行！是啊，到时候你也许会是个优秀的战士！}
+#{103}{}{You look pretty fit.}
+{103}{}{你看起来很健康。}
+#{104}{}{You look pretty strong.}
+{104}{}{你看起来很强壮。}
+#{105}{}{Damn, you look strong!}
+{105}{}{天，你看起来真壮！}
+#{106}{}{Damn! You look like you could lift a mountain!}
+{106}{}{天哪！看起来你可以举起一座山峰！}
+#{107}{}{Yeah, so?}
+{107}{}{是吗，那么？}
+#{108}{}{What's it to you?}
+{108}{}{对你来说意味着什么？}
+#{109}{}{Huh?}
+{109}{}{哈?}
+#{110}{}{That's just what we're lookin' for! You like the thrill and excitement of battle don't you?!  Bullets flying everywhere, whippin' by your head, blowin' your enemy in two, seein' the fear in their eyes! Ahhhh, that's the life! You look like the kind of person that could serve us well, and we pay well!  Oh yes, we do! We've just had a few new openin's, if you are interested; but of course you are, right?!}
+{110}{}{这正是我们要的！你沉迷于战斗带来的刺激与兴奋中，不是吗？子弹横飞，掠过你的面颊，把你的对手打个稀烂！而你可以在他们的眼中看到无尽的恐惧！哈哈！这就是你存在的意义！你就是我们需要的那种人，我们会给你很好的报酬的，我们会谈得更坦诚一些，前提是你对此感兴趣；但我想你会的，对吗？}
+#{111}{}{What's the pay?}
+{111}{}{报酬是什么？}
+#{112}{}{I'll kill anything that gets in our way!}
+{112}{}{谁敢挡我的道，我就干掉谁！}
+#{113}{}{No thanks.}
+{113}{}{不，谢了。}
+#{114}{}{I need a water chip.}
+{114}{}{我需要一块净水芯片。}
+#{115}{}{What do you know about the missing caravans?}
+{115}{}{对于失踪的商队你知道些什么吗？}
+#{116}{}{I've got to go.}
+{116}{}{我得走了。}
+#{117}{}{Ugggg uggg!}
+{117}{}{哇！啊！}
+#{118}{}{We pay 600 hub bucks a job! That's each way! Hell, people say we take all the dangerous routes but I say they're the most excitin'! You need a little excitement in your life, am I right? Of course I am!}
+{118}{}{每个任务我们付600块！每次都一样！咳，人们总说我们跑着所有危险的路线，但我认为他们有点激动过头了！在你的生活总是需要点小刺激，不是吗？当然我是有的。}
+#{119}{}{Hell, I think that's just what I'm lookin' for!}
+{119}{}{是啊，我想这正是我所追求的！}
+#{120}{}{Do you always talk so loud?}
+{120}{}{你总是这么大声说话吗？}
+#{121}{}{Dangerous?}
+{121}{}{危险}
+#{122}{}{No thanks, bub.}
+{122}{}{不，谢谢了，小家伙。}
+#{123}{}{Damn straight it is! Just go talk to Keri in the next room, she'll let you know when the next caravan is leavin'.}
+{123}{}{说的太直白了！只管去找下个房间里的凯利，她会告诉你下一趟商队何时离开。}
+#{124}{}{Bub? What the hell are you talkin' about? Well, no skin off my back.}
+{124}{}{小家伙？你到底在说什么？嘿，别来干涉我。}
+#{125}{}{What, are you afraid of loud noises or somethin'?}
+{125}{}{什么，你害怕响声或是什么东西？}
+#{126}{}{Yes.}
+{126}{}{是的。}
+#{127}{}{Only at night.}
+{127}{}{仅仅在夜里。}
+#{128}{}{No, I was just wondering you were deaf or dumb.}
+{128}{}{不，我只是奇怪你是聋子还是哑巴。}
+#{129}{}{No, but my ears were getting a little sore.}
+{129}{}{不，但我的耳朵有些疼。}
+#{130}{}{Ha! Maybe both! Well, go talk to Keri in the next room if you do want a job.}
+{130}{}{哈！也许两者都是！好吧，如果你想要个工作的话去和另一个房间里的凯利谈谈。}
+#{131}{}{You're a smart little ass, are you? Well, it doesn't matter to me! Just as long as you defend the caravans I'll be satisfied. Go talk to Keri in the next room if you want a job.}
+{131}{}{你真是蠢的可以，不是吗？不过，这没什么关系！只要你能保护商队我就满意了。如果你想要个工作的话去和另一个房间的凯利谈谈。}
+#{132}{}{Ha! That's a funny one! Well, if you think you can brave the darkness, come see me.}
+{132}{}{哈！真是个有趣的人！好吧，如果你认为你能勇敢面对黑暗的话，来看看我吧。}
+#{133}{}{Of course it's dangerous -- why else would I fork out 600 bucks?}
+{133}{}{当然这很危险---否则我干嘛要付600块呢。}
+#{134}{}{Oh, okay. Bye.}
+{134}{}{噢，好吧。再见。}
+#{135}{}{I'll still take the job.}
+{135}{}{我还是要这个工作。}
+#{136}{}{Get out of here before I rip your head off!}
+{136}{}{在我拧下你的脑袋前滚出去！}
+#{137}{}{I'll shove your head up your ass!}
+{137}{}{我要把你的头塞到你的屁股里！}
+#{138}{}{That's it!}
+{138}{}{就是这样！}
+#{139}{}{Of course you will! Go talk to Keri in the next room, she works the schedules.}
+{139}{}{你当然会！去和另一个房间的凯利谈谈，她负责安排工作。}
+#{140}{}{Hell, that's disappointin', but oh well.}
+{140}{}{唉，有些令人失望，不过还好。}
+#{141}{}{Yeah! I like you! You're hired! Go talk to Keri in the next room, she'll assign you to a caravan.}
+{141}{}{是啊！我喜欢你！你被雇佣了！去和另一个房间的凯利谈谈，她会把你分到一个商队去。}
+#{142}{}{A water chip? Hmmm, haven't heard of one of those before. You might want to check with one of the shops outside -- they have lots of stuff. So, did you want a job?}
+{142}{}{净水芯片？嗯，从没听说过这种东西。你也许可以去逛逛外面那些店铺--他们有很多东西。那么，你还要工作吗？}
+#{143}{}{Well, what's it pay?}
+{143}{}{那么，报酬怎么样？}
+#{144}{}{No, not really.}
+{144}{}{不，不是这样。}
+#{145}{}{Not much, I've only lost two. I really have no idea why they're hittin' the Far Go Traders more then anyone else.}
+{145}{}{不是很多，我到现在仅仅失去两队。我真搞不明白他们袭击远行商队的次数比其它商队多多了。}
+#{146}{}{Any suspicions?}
+{146}{}{有疑问吗？}
+#{147}{}{What about your routes and cargo?}
+{147}{}{你的线路和货物是什么？}
+#{148}{}{Okay, thanks.}
+{148}{}{好的，谢了。}
+#{149}{}{Who ever is doin' this has got to have one hell of a raidin' party. Our caravans are well armed and you would think that someone would have gotten away by now. They don't leave a trace.}
+{149}{}{谁要这么做就得大动干戈，我们的商队装备精良，你也许想到了他们会趁现在逃离，没留下任何踪迹。}
+#{150}{}{So, how much does that job pay?}
+{150}{}{那么，这工作有多少报酬？}
+#{151}{}{What about your routes and cargo?}
+{151}{}{你的路线和货物是什么？}
+#{152}{}{Okay, thanks.}
+{152}{}{好的，谢了。}
+#{153}{}{Hell, we go to more dangerous places than they do and our cargo is better!}
+{153}{}{该死，我们去的地方比他们更危险，并且我们的货物更好！}
+#{154}{}{How is your cargo better?}
+{154}{}{你的货物为什么更好？}
+#{155}{}{Just checking, thanks.}
+{155}{}{尽管检查，谢谢。}
+#{156}{}{You're full of crap!}
+{156}{}{你真是个废物！}
+#{157}{}{Well, okay -- maybe it's not better but we do carry a larger variety than them.}
+{157}{}{那么--也许那并不是更好的，但是我们比他们运的种类更多。}
+#{158}{}{Okay, thanks.}
+{158}{}{好的，谢了。}
+#{159}{}{You know, Beth's been yapping about some Death Claw. I would check that out if I where you! I've heard a few rumors from other sources about somethin' creepin' around at night to the northwest.}
+{159}{}{你知道贝斯总是在嚷嚷什么死亡爪，我要是你的话就会去核实一下！我曾听到一些传言说什么东西总在夜里在西北边爬来爬去。}
+#{160}{}{Sorry, but we're paid good money to be sure the job gets done! We'll only hire the best! We've got to have reliable men and women on those caravans!}
+ {160}{}{抱歉，但我们付一大笔钱是为了确保工作能完成！我们只雇佣最好的！我们要找可靠的男人或女人来保护商队。}
+#{161}{}{Like I really wanted a job, ya' loud-mouthed moron!}
+{161}{}{我真的想要个工作，你这个大嚷大叫的白痴！}
+#{162}{}{Sorry to have bothered you.}
+{162}{}{抱歉打扰你了。}
+#{163}{}{Please, can I have another job?}
+{163}{}{我能要另一个工作吗？}
+#{164}{}{Huta?}
+{164}{}{嗯？}
+#{165}{}{I said we won't hire you!}
+{165}{}{我说过了我们不会雇佣你的！}
+#{166}{}{Sorry, I'm done takin' risks with you!}
+{166}{}{抱歉，我和你一起冒风险！}
+#{167}{}{You're wastin' your time here!}
+{167}{}{你就是在这儿浪费时间！}
+#{168}{}{Please stop botherin' me!}
+{168}{}{请不要再烦我！}
+#{169}{}{Beat it.}
+{169}{}{快走。}
+#{170}{}{Demetre ignores you.}
+{170}{}{戴米德不理你。}
+#{171}{}{Hell, I don't hire drug addicts! If you want a job you better sober up!}
+{171}{}{去，我不会雇佣瘾君子！如果你想要个工作的话最好清醒过来！}
+#{172}{}{I'm no drug add . . . I mean . . . Arg!}
+{172}{}{我不是瘾君……我的意思是……啊欠！}
+#{173}{}{Blah!}
+{173}{}{放屁！}
+#{174}{}{Doing drugs are we? Hell, it's a good thing we aren't hiring your ass again!}
+{174}{}{在用毒品是吗？哈，真庆幸我们不用再雇佣你了！}
+#{175}{}{Hell, no! I don't think you realize just how much is at stake! We can't afford to take the risk! Hell, I don't no how the Far Go Traders are still in business with all those missin' caravans!}
+{175}{}{嘿，不！我认为你并没意识到这有多冒险！我们不能冒险！该死，我不知道没有这些失踪的商队的话远行商队怎么维持运转！}
+#{176}{}{Sorry, you'll have to see if one of the others' houses will take a risk with you. I can't afford to take another one.}
+ {176}{}{对不起，你要知道另一间房子是否也要一块冒风险。我可没法再弄一间了。}
+#{177}{}{Get out of here, you make me sick!}
+{177}{}{离开这儿，你真使我抓狂！}
+#{178}{}{Hey! What do you think your doin'?}
+{178}{}{嘿！你到底在做什么？}
+#{179}{}{That leads to our warehouse.}
+{179}{}{那儿通向我们的货仓。}
+#{180}{}{It can only be opened from the other side.}
+{180}{}{这只能另外一边打开。}
+#{181}{}{You're a strange one.}
+{181}{}{你真是个奇怪的人。}
+#{182}{}{You're wastin' your time.}
+{182}{}{你在浪费时间。}
+#{183}{}{He ignores you.}
+{183}{}{他不理你。}
+#{184}{}{So? Do you want a job or what? I'm offerin' you a great chance at some excitement and lots of cash! You can never have too much of either!}
+{184}{}{那么，你想要个工作还是？我很乐意给你个机会和大把的钱！你再也不会得到比这个更多的了！}
+#{185}{}{Oh, yeah. How much was that?}
+{185}{}{噢，是的，那有多少？}
+#{186}{}{I'll kill anything that gets in our way!}
+{186}{}{谁敢挡我的路我就干掉谁！}
+#{187}{}{No, thanks.}
+{187}{}{不，谢谢。}
+#{188}{}{I need a water chip.}
+{188}{}{我需要一块净水芯片。}
+#{189}{}{What do you know about the missing caravans?}
+{189}{}{关于失踪的商队你知道些什么？}
+#{190}{}{I've got to go.}
+{190}{}{我得走了。}
+#{191}{}{Ruk luk?}
+{191}{}{啊哈？}
+#{192}{}{Hey, you did a fine job on that last caravan -- good goin'! Did you need somethin'?}
+ {192}{}{嘿，关于上一趟商队你做得很好--漂亮！你还想要些工作吗？}
+#{193}{}{Yeah, I wanted another job.}
+{193}{}{是的，我想要另一个工作。}
+#{194}{}{I need a water chip.}
+{194}{}{我需要一块净水芯片。}
+#{195}{}{What do you know about the missing caravans?}
+{195}{}{关于失踪的商队你知道些什么？}
+#{196}{}{No.  Just stopped by to say hi.}
+{196}{}{不，只是说嗨就停止。}
+#{197}{}{Nothing, bye.}
+{197}{}{没什么，再见。}
+#{198}{}{We lost all of our cargo! I'm afraid we can't hire you anymore, sorry.}
+{198}{}{我们失去了所有的货物！我恐怕不能再雇佣你了，对不起。}
+#{199}{}{You're lucky, we almost lost that caravan you bugged out on! I'm afraid we can't hire you for any more jobs, sorry.}
+{199}{}{你真幸运，我们几乎失去了你捣乱的那个商队，我恐怕不能再给你更多的工作了，抱歉！}
+#{200}{}{We're not hiring, so what do you want?}
+{200}{}{我们不雇佣人，那么你想要什么？}
+#{201}{}{Get lost! We're not hiring.}
+{201}{}{滚开！我们不雇佣人。}
+#{202}{}{I need a water chip.}
+{202}{}{我需要一块净水芯片。}
+#{203}{}{Tell me what you know about the missing caravans.}
+{203}{}{告诉我你所知道的关于失踪商队的事情。}
+#{204}{}{I want your ugly face out of my way!}
+{204}{}{你这张丑脸快从我面前消失！}
+#{205}{}{I want your head on a stick!}
+{205}{}{我要把你的头插在一根棍子上！}
+#{206}{}{Never mind.}
+{206}{}{别在意。}
+#{207}{}{Ruk luk?}
+{207}{}{啊哈？}
+#{208}{}{You think you're tough? Don't make me laugh!}
+{208}{}{你认为自己很强壮？别逗我笑了！}
+#{209}{}{Well, you should be talking to my daughter, Keri; she takes care of all that!  She's in the next room.}
+{209}{}{好吧，你可以和我的女儿凯利谈谈，她安排这些事！她就在另外一个屋子里。}
+#{210}{}{I already told you. Just talk to Keri in the next room.}
+{210}{}{我已经跟你说过了，去找另一个屋里的凯利。}
+#{211}{}{Your daughter?}
+{211}{}{你女儿？}
+#{212}{}{That ugly thing is your daughter?  That explains a lot!}
+{212}{}{那个丑东西是你女儿？这就可以解释很多事情了！}
+#{213}{}{Okay.}
+{213}{}{好的。}
+#{214}{}{Yes, she's my pride and joy! Isn't she beautiful? Just talk to her when you want another job. Some day . . . hopefully soon, I'll be able to retire and she'll take over for me.}
+{214}{}{是的，她是我的骄傲和快乐！难道她不漂亮吗？当你想要工作时尽管去找她。过些日子……但愿没多久，我能退休让她来接替我。}
+#{215}{}{You can't if you're both dead!}
+{215}{}{除非你们都死了，否则这是不可能的！}
+#{216}{}{Okay, thanks.}
+{216}{}{好的，谢谢。}
+#{217}{}{You dare insult someone's family? I should rip your heart out!}
+{217}{}{你竟敢侮辱别人的家庭！我该把你的心掏出来！}
+#{218}{}{I'm sorry, I was just kidding!}
+{218}{}{很抱歉，我只是在开玩笑！}
+#{219}{}{I'll do more than insult you!}
+{219}{}{我不光是要侮辱你们！}
+#{220}{}{Too late for apologies! 【His face gets very red . . . then in a calm, controlled voice.】 Get, before I make good on my threat!}
+ {220}{}{说抱歉太迟了！【他的脸变得通红……然后平静下来，控制着语气。】走吧，在我发火以前！}
+#{221}{}{Is that your poor attempt at a threat?}
+{221}{}{这就是你那点可怜的怒火？}
+#{222}{}{It's not a threat! You're about to die!}
+{222}{}{这不是警告！你就要挂了!}
+#{223}{}{Yeah, well, I gave it the old college try!}
+{223}{}{是的，好吧，我还是得试试！}
+#{224}{}{No, I'm sorry. I've got to go. Bye!}
+{224}{}{不，对不起。我得走了，再见！}
+#{225}{}{Well I've got to admit, I've heard better.}
+{225}{}{我不得不承认，我听说过更好的。}
+#{226}{}{Yeah, I know. See ya.}
+{226}{}{是的，我知道。再见。}
+#{227}{}{Well, you're still going to die!}
+{227}{}{好啊，你还是得死！}
+#{228}{}{Uh, okay.}
+{228}{}{啊，好吧。}
+#{229}{}{Well, what are you waiting for? There are caravans to run!}
+{229}{}{那么，你在等什么？这有些商队在运作！}
+#{230}{}{They're not ready to leave yet.}
+{230}{}{他们还没准备好出发。}
+#{231}{}{I've still got some things to do first.}
+{231}{}{在此之前我还有些事要做。}
+#{232}{}{I need a water chip.}
+{232}{}{我需要一块净水芯片。}
+#{233}{}{Tell me what you know about the missing caravans.}
+{233}{}{告诉我你所知道的关于失踪商队的事情。}
+#{234}{}{Okay, bye.}
+{234}{}{好的，再见。}
+#{235}{}{Rik rok?}
+{235}{}{哩罗？}
+#{236}{}{Roerow?}
+{236}{}{喔罗罗？}
+#{237}{}{Damn! You're missing out on some good action! I'm sure there are lots of people, creatures, and things waiting to attack the caravans! Nothing beats a good fire fight! Here - take this, it'll give you something to play with until the next caravan is ready to go. 【He hands you a frag grenade.】}
+{237}{}{该死！你错过了行动的最佳时机！我肯定那儿有很多人、动物或什么东西等着突袭我们的商队！没什么能击败强力的炮火，给你，用这个，在下一队商队出发之前它能给你些消遣！【他给你一个碎片手榴弹】}
+#{238}{}{Damn! Do our caravans ever leave?}
+{238}{}{该死！我们的商队还没离开？}
+#{239}{}{What about your boat?}
+{239}{}{你的船怎么了？}
+#{240}{}{Don't take too long.}
+{240}{}{不要花太长时间。}
+#{241}{}{Keri, are we book yet?}
+{241}{}{凯利，我们还要登记吗?}
+#{242}{}{You've got to kill the enemy before it gets you!}
+{242}{}{你要干掉敌人在他杀死你之前！}
+#{243}{}{Nothin' like squeezin' the life out of your enemies!}
+{243}{}{没什么能和结果你的敌人的性命相比！}
+#{244}{}{The hell you are!}
+{244}{}{你在这儿！}
+#{245}{}{Damn it, where's my gun!}
+{245}{}{妈的，我的枪在哪儿！}

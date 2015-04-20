@@ -1,0 +1,1119 @@
+{500}{}{Po likvidaci Vùdce a jeho laboratoøí na tvorbu supermutantù jsi se vrátil domù. Ale nebylo to k nièemu, vyhnali tì kvùli tvému pøíliš destruktivnímu ivotnímu stylu. Díky za hraní Fallouta. }
+
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿTELL ME ABOUT STUFFÿÿ#
+#ÿÿÿÿÿÿ"my name"ÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿ(970-979)ÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+{970}{}{To je moje jméno.}
+{971}{}{Mluvíš pøímo se mnou.}
+{972}{}{Proè se tak hloupì ptáš. To jsem já.}
+
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿTELL ME ABOUT STUFFÿÿ#
+#ÿÿÿÿÿ"don't know"ÿÿÿÿÿ#
+#ÿÿÿÿÿÿ(970-979)ÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+#ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
+{980}{}{O tom já nic nevím.}
+{981}{}{Je mi líto. Nemám ponìtí.}
+{982}{}{O tom nic nevím.}
+
+#ÿDESERT1.MAP (1000)
+#ÿDESERT2.MAP (1600)
+#ÿDESERT3.MAP (2200)
+
+#
+#ÿHALLDED.MAP
+#ÿThe Necropolis Hall of the Dead Tell-Me-Abouts
+#
+{2800}{}{vudce}
+{2801}{}{cip}
+{2802}{}{Nekropolis}
+{2803}{}{Set}
+{2804}{}{vodarna}
+{2805}{}{hala}
+{2900}{}{Není to nìjakı velkı zvíøe?}
+{2901}{}{Nevím, ale ve Vodárnì by nìjakı mohl bıt.}
+{2902}{}{Jsi na místì. To je všechno, co zbylo. Tohle místo umírá, pomalu ale jistì.}
+{2903}{}{Och, mám ho rád, to jo. Najdeš ho v hlavní hale.}
+{2904}{}{To je na sever. Pozor na hlídaèe. Berou svojí práci dost vánì.}
+{2905}{}{Síò mrtvıch. Tam vládne Set. Hala je srdcem Nekropole.}
+
+
+#
+#ÿHOTEL.MAP
+#ÿThe Necropolis Hotel Tell-Me-Abouts
+#
+{3400}{}{vudce}
+{3401}{}{cip}
+{3402}{}{Nekropolis}
+{3403}{}{Set}
+{3404}{}{vodarna}
+{3405}{}{hala}
+{3500}{}{Není to nìjakı velkı zvíøe?}
+{3501}{}{Nevím, ale ve Vodármì by nìjakı mohl bıt.}
+{3502}{}{Jsi na místì. To je všechno, co zbylo. Tohle místo umírá, pomalu ale jistì.}
+{3503}{}{Och, mám ho rád, to jo. Najdeš ho v hlavní hale.}
+{3504}{}{To je na sever. Pozor na hlídaèe. Berou svojí práci dost vánì.}
+{3505}{}{Síò mrtvıch. Tam vládne Set. Hala je srdcem Nekropole.}
+
+
+#
+#ÿWATRSHD.MAP
+#ÿThe Necropolis Watershed Tell-Me-Abouts
+#
+{4000}{}{vudce}
+{4001}{}{cip}
+{4002}{}{Nekropolis}
+{4003}{}{Set}
+{4004}{}{vodarna}
+{4005}{}{Hala}
+{4100}{}{Není to nìjakı velkı zvíøe?}
+{4101}{}{Nevím, ale ve Vodármì by nìjakı mohl bıt.}
+{4102}{}{Jsi na místì. To je všechno, co zbylo. Tohle místo umírá, pomalu ale jistì.}
+{4103}{}{Och, mám ho rád, to jo. Najdeš ho v hlavní hale.}
+{4104}{}{To je na sever. Pozor na hlídaèe. Berou svojí práci dost vánì.}
+{4105}{}{Síò mrtvıch. Tam vládne Set. Hala je srdcem Nekropole.}
+
+
+#
+#ÿVAULT13.MAP
+#ÿVault 13 Tell-Me-Abouts
+#
+{4600}{}{Vault}
+{4601}{}{vodni}
+{4602}{}{spravce}
+{4603}{}{Cip}
+{4604}{}{vodnicip}
+{4605}{}{Vault-13}
+{4606}{}{Vault13}
+{4607}{}{doktor}
+{4608}{}{leceni}
+{4609}{}{knihovna}
+{4700}{}{V nìm ijeme. To bys mìl vìdìt.}
+{4701}{}{Èip kontroluje stupeò zneèištìní zásob pozemní vody. Je to dùleitá souèástka celého zaøízení, kterou bohuel nelze opravit.}
+{4702}{}{Dobrı èlovìk s tìkou prací.}
+{4703}{}{Èip kontroluje stupeò zneèištìní zásob pozemní vody. Je to dùleitá souèástka celého zaøízení, kterou bohuel nelze opravit.}
+{4704}{}{Èip kontroluje stupeò zneèištìní zásob pozemní vody. Je to dùleitá souèástka celého zaøízení, kterou bohuel nelze opravit.}
+{4705}{}{V nìm ijeme. To bys mìl vìdìt.}
+{4706}{}{V nìm ijeme. To bys mìl vìdìt.}
+{4607}{}{Doktor je v prvním patøe, v zdravotní laboratoøi. Pokud jsi zranìn, navštiv ho.}
+{4608}{}{Doktor je v prvním patøe, v zdravotní laboratoøi. Pokud jsi zranìn, navštiv ho.}
+{4609}{}{Knihovna je v západním køídle tøetího patra. Tam najdeš vızkumné poèítaèe.}
+
+#ÿVAULTENT.MAP (5200)
+#ÿVAULTBUR.MAP (5800)
+#ÿVAULTNEC.MAP (6400)
+
+#
+#ÿJUNKENT.MAP
+#ÿJunktown Entrance Tell-Me-Abouts
+#
+{7000}{}{Killian}
+{7001}{}{Gizmo}
+{7002}{}{Junktown}
+{7003}{}{Shady Sands}
+{7004}{}{Hub}
+{7005}{}{Cip}
+{7006}{}{kasino}
+{7007}{}{obchod}
+{7008}{}{parac}
+{7100}{}{Killian je starosta a patøí mu tady obchod.}
+{7101}{}{Gizmovi patøí kasino. Zdá se bıt v pohodì.}
+{7102}{}{Tohle je Junktown.}
+{7103}{}{Umm, taková malá vesnièka. Neznám to tam.}
+{7104}{}{Docela velké mìsto nìkde na jihu.}
+{7105}{}{Coe? Omlouvám se.}
+{7106}{}{To je pomìrnì velká budova v severozápadní èásti mìsta.}
+{7107}{}{Killianùv obchod? Je pøímo v centru mìsta.}
+{7108}{}{To nevím, ale ten název mi nahání husí kùi.}
+
+
+#
+#ÿJUNKCSNO.MAP
+#ÿJunktown Casino Tell-Me-Abouts
+#
+{7600}{}{Killian}
+{7601}{}{Gizmo}
+{7602}{}{Junktown}
+{7603}{}{Shady Sands}
+{7604}{}{Hub}
+{7605}{}{Cip}
+{7606}{}{kasino}
+{7607}{}{obchod}
+{7608}{}{parac}
+{7700}{}{Killian je starosta. Pøevzal to po otcovì smrti.}
+{7701}{}{Gizmo je dùleitá postava Junktownu. Patøí mu kasino a boxerskı ring.
+ Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
+{7702}{}{Tohle je Junktown.}
+{7703}{}{No, to je malinká osada na severu. Vìtšina lidí jsou farmáøi. Obèas s nimi obchodujeme, ale oni chtìjí bıt spíš izolovaní.}
+{7704}{}{Hub je centrem veškerého obchodu. Prakticky všichni obchodníci pøicházejí z Hubu. Mají tam nìjaké spoleènosti, které dosud vyrábìjí vìci. Pokud se chceš podívat do Hubu, mùeš se pøipojit k nìkteré z karavan na jejich zpáteèní cestì.}
+{7705}{}{O tom nic nevím.}
+{7706}{}{Gizmo ho vlastní. Dej si pozor na vıherní automaty, nebo v nich necháš všechny svoje peníze.}
+{7707}{}{Darkwaterùv? Ten je v centru. Mùeš s ním hadlovat nebo zaplatit hotovì.}
+{7708}{}{Lidi o nìèem takovém mluvili, ale já nic takového nevidìl. Prı se to potuluje pouští a loví hlavnì v noci.}
+
+
+#
+#ÿJUNKKILL.MAP
+#ÿJunktown Killian's Tell-Me-Abouts
+#
+{8200}{}{Killian}
+{8201}{}{Gizmo}
+{8202}{}{Junktown}
+{8203}{}{Shady Sands}
+{8204}{}{Hub}
+{8205}{}{Cip}
+{8206}{}{kasino}
+{8207}{}{obchod}
+{8208}{}{parac}
+{8300}{}{Killian je starosta. Pøevzal to po otcovì smrti.}
+{8301}{}{Gizmo je dùleitá postava Junktownu. Patøí mu kasino a boxerskı ring.
+ Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
+{8302}{}{Tohle je Junktown.}
+{8303}{}{No, to je malinká osada na severu. Vìtšina lidí jsou farmáøi. Obèas s nimi obchodujeme, ale oni chtìjí bıt spíš izolovaní.}
+{8304}{}{Hub je centrem veškerého obchodu. Prakticky všichni obchodníci pøicházejí z Hubu. Mají tam nìjaké spoleènosti, které dosud vyrábìjí vìci. Pokud se chceš podívat do Hubu, mùeš se pøipojit k nìkteré z karavan na jejich zpáteèní cestì.}
+{8305}{}{O tom nic nevím.}
+{8306}{}{Gizmo ho vlastní. Dej si pozor na vıherní automaty, nebo v nich necháš všechny svoje peníze.}
+{8307}{}{Darkwaterùv? Ten je v centru. Mùeš s ním hadlovat nebo zaplatit hotovì.}
+{8308}{}{Lidi o nìèem takovém mluvili, ale já nic takového nevidìl. Prı se to potuluje pouští a loví hlavnì v noci.}
+
+
+# BROHDENT.MAP  (8800)
+{8800}{}{vudce}
+{8801}{}{valka}
+{8802}{}{Exodus}
+{8803}{}{podivna armada}
+{8804}{}{bratrstvo}
+{8805}{}{obchodnici}
+{8806}{}{ztracene karavany}
+{8807}{}{Hub}
+{8808}{}{deti katedraly}
+{8809}{}{zasveceni}
+{8810}{}{pisari}
+{8811}{}{rytiri}
+{8812}{}{Paladini}
+{8813}{}{vodni cip}
+{8900}{}{Nemám potuchy, o èem to mluvíš.}
+{8901}{}{Nejhorší okamik lidské historie, kterı vytvoøil souèasnı vzhled svìta. Ukrıváme tu technologie z váleèné éry, abychom zabránili další katastrofì.}
+{8902}{}{Tìké a smutné rozhodnutí. Ztratili jsme velké mnoství lidí, kteøí se rozhodli jít svou vlastní cestou a odpojili se od hlavní skupiny hledaèù bezpeèného pøístavu k ití.}
+{8903}{}{O tom moc nevím. V nìkterıch hlášeních se objevuje, e se nìkde na severu hromadí velké síly.}
+{8904}{}{To je pøímo tady.}
+{8905}{}{Ti Kupci s vodou jsou hrozní zlodìji. Ale pøi nabídce ostatních mi nic jiného nezbıvá.}
+{8906}{}{O tom nic nevím.}
+{8907}{}{To je špinavá díra tìch proklatıch obchodníkù. Pøesto, obèas dovolujeme jedné z obchodních spoleèností s námi obchodovat.}
+{8908}{}{To je kult.}
+{8909}{}{Oni jsou budoucností našeho Bratrstva.}
+{8910}{}{To jsou stráci vìdomostí.}
+{8911}{}{Ti vyrábìjí pro Bratrstvo zbranì.}
+{8912}{}{Oni jsou ochránci Bratrstva.}
+{8913}{}{Nemám potuchy, o èem to mluvíš.}
+
+# BROHD12.MAP   (9400)
+
+{9400}{}{vudce}
+{9401}{}{valka}
+{9402}{}{Exodus}
+{9403}{}{podivna armada}
+{9404}{}{bratrstvo}
+{9405}{}{obchodnici}
+{9406}{}{ztracene karavany}
+{9407}{}{Hub}
+{9408}{}{deti katedraly}
+{9409}{}{zasveceni}
+{9410}{}{pisari}
+{9411}{}{rytiri}
+{9412}{}{Paladini}
+{9413}{}{vodni cip}
+{9500}{}{Nemám potuchy, o èem to mluvíš.}
+{9501}{}{Nejhorší okamik lidské historie, kterı vytvoøil souèasnı vzhled svìta. Ukrıváme tu technologie z váleèné éry, abychom zabránili další katastrofì.}
+{9502}{}{Tìké a smutné rozhodnutí. Ztratili jsme velké mnoství lidí, kteøí se rozhodli jít svou vlastní cestou a od pojili se od hlavní skupiny hledaèù bezpeèného pøístavu k ití.}
+{9503}{}{O tom moc nevím. V nìkterıch hlášeních se objevuje, e se nìkde na severu hromadí velké síly.}
+{9504}{}{Jsme pøímo v nìm.}
+{9505}{}{Ti Kupci s vodou jsou hrozní zlodìji. Ale pøi nabídce ostatních mi nic jiného nezbıvá.}
+{9506}{}{O tomhle nic nevím.}
+{9507}{}{To je špinavá díra tìch proklatıch obchodníkù. Pøesto, obèas dovolujeme jedné z obchodních spoleèností s námi obchodovat.}
+{9508}{}{To je kult.}
+{9509}{}{Oni jsou budoucností našeho Bratrstva.}
+{9510}{}{To jsou stráci vìdomostí.}
+{9511}{}{Ti vyrábìjí pro Bratrstvo zbranì.}
+{9512}{}{Oni jsou ochránci Bratrstva.}
+{9513}{}{Nemám potuchy, o èem to mluvíš.}
+
+# BROHD34.MAP  (10000)
+
+{10000}{}{vudce}
+{10001}{}{valka}
+{10002}{}{Exodus}
+{10003}{}{podivna armada}
+{10004}{}{bratrstvo}
+{10005}{}{obchodnici}
+{10006}{}{ztracene karavany}
+{10007}{}{Hub}
+{10008}{}{deti katedraly}
+{10009}{}{zasveceni}
+{10010}{}{pisari}
+{10011}{}{rytiri}
+{10012}{}{Paladini}
+{10013}{}{vodni cip}
+{10000}{}{Nemám potuchy, o èem to mluvíš.}
+{10101}{}{Nejhorší okamik lidské historie, kterı vytvoøil souèasnı vzhled svìta. Ukrıváme tu technologie z váleèné éry, abychom zabránili další katastrofì.}
+{10102}{}{Tìké a smutné rozhodnutí. Ztratili jsme velké mnoství lidí, kteøí se rozhodli jít svou vlastní cestou a od pojili se od hlavní skupiny hledaèù bezpeèného pøístavu k ití.}
+{10103}{}{O tom moc nevím. V nìkterıch hlášeních se objevuje, e se nìkde na severu hromadí velké síly.}
+{10104}{}{Jsme pøímo v nìm.}
+{10105}{}{Ti Kupci s vodou jsou hrozní zlodìji. Ale pøi nabídce ostatních mi nic jiného nezbıvá.}
+{10106}{}{Nemám potuchy, o èem to mluvíš.}
+{10107}{}{To je špinavá díra tìch proklatıch obchodníkù. Pøesto, obèas dovolujeme jedné z obchodních spoleèností obchodovat s námi.}
+{10108}{}{To je kult.}
+{10109}{}{Oni jsou budoucností našeho Bratrstva.}
+{10110}{}{To jsou stráci vìdomostí.}
+{10111}{}{Ti vyrábìjí pro Bratrstvo zbranì.}
+{10112}{}{Oni jsou ochránci Bratrstva.}
+{10113}{}{Nemám potuchy, o èem to mluvíš.}
+
+
+# CAVES.MAP    (10600)
+# CHILDRN1.MAP (11200)
+
+{11200}{}{svaty plamen}
+{11201}{}{jednota}
+{11202}{}{deti katedraly}
+{11203}{}{Morpheus}
+{11204}{}{Mutanti}
+{11205}{}{vudce}
+{11206}{}{naslednici apokalypsy}
+{11207}{}{vojenska zakladna}
+{11208}{}{nadrze}
+{11209}{}{vodni cip}
+
+{11300}{}{Svatı plamen nás dovede k vysnìnému ivotu v novém svìtì, kde nebude válek èi nenávisti.}
+{11301}{}{My všichni jsme souèástí Jednoty. Je to láska a mír, co pøedáváme ostatním tvorùm - lidem i mutantùm.}
+{11302}{}{To jsme my.}
+{11303}{}{Morpheus je Nejvyšší knìz Dìtí. Vìtšinou je ve svıch komnatách, pokud nám nekáe.}
+{11304}{}{To jsou lidé, které pøetvoøila radiace nukleárního spadu po válce. Ale poøád jsou to dobøí lidé.}
+{11305}{}{Všichni máme své vùdce, nebo ne?}
+{11306}{}{To jsou lidé, kteøí se snaí znièit mír, o kterı my usilujeme v èele s naším Vùdcem.}
+{11307}{}{Promiò, netuším o èem mluvíš.}
+{11308}{}{Promiò, netuším o èem mluvíš.}
+{11309}{}{S tím ti nepomùu, to neznám.}
+
+# CHILDRN2.MAP (11800)
+
+{11800}{}{svaty plamen}
+{11801}{}{jednota}
+{11802}{}{deti katedraly}
+{11803}{}{Morpheus}
+{11804}{}{Mutanti}
+{11805}{}{vudce}
+{11806}{}{naslednici apokalypsy}
+{11807}{}{vojenska zakladna}
+{11808}{}{nadrze}
+{11809}{}{vodni cip}
+
+{11900}{}{Svatı plamen nás dovede k vysnìnému ivotu v novém svìtì, kde nebude válek èi nenávisti.}
+{11901}{}{My všichni jsme souèástí Jednoty. Je to láska a mír, co pøedáváme ostatním tvorùm - lidem i mutantùm.}
+{11902}{}{To jsme my.}
+{11903}{}{Morpheus je Nejvyšší knìz Dìtí. Vìtšinou je ve svıch komnatách, pokud nám nekáe.}
+{11904}{}{To jsou lidé, které pøetvoøila radiace nukleárního spadu po válce. Ale poøád jsou to dobøí lidé.}
+{11905}{}{Všichni máme své vùdce, nebo ne?}
+{11906}{}{To jsou lidé, kteøí se snaí znièit mír, o kterı my usilujeme v èele s naším Vùdcem.}
+{11907}{}{Promiò, netuším o èem mluvíš.}
+{11908}{}{Promiò, netuším o èem mluvíš.}
+{11909}{}{S tím ti nepomùu, to neznám.}
+
+# CITY1.MAP    (12400)
+# COAST1.MAP   (13000)
+# COAST2.MAP   (13600)
+# COLATRUK.MAP (14200)
+# FSAUSER.MAP  (14800)
+
+#
+# RAIDERS.MAP
+# Raiders Tell-Me-Abouts
+#
+{15400}{}{Khanove}
+{15401}{}{Garl}
+{15402}{}{Junktown}
+{15403}{}{Shady Sands}
+{15404}{}{Hub}
+{15405}{}{vodni cip}
+{15406}{}{Tandi}
+{15407}{}{Alya}
+{15408}{}{Diana}
+{15409}{}{Gwen}
+{15410}{}{Petrox}
+{15411}{}{Tolya}
+{15412}{}{chlast}
+{15413}{}{drogy}
+{15500}{}{To jsme my, slouho.}
+{15501}{}{Je velitelem Khanù.  Nejobávanìjší mu Pustin.}
+{15502}{}{To je na jihozápad. Obèas se tam zastavíme odpoèinout si po nároèném dni plném rabování.}
+{15503}{}{Je mi záhadou, proè je kompletnì nezlikvidujeme.}
+{15504}{}{Jsou na jihu. Kupujeme od nich vìtšinou vodu a munici, ale nìkdy i lepší zbranì.}
+{15505}{}{Proè bych se mìl starat?}
+{15506}{}{Tohle jméno vùbec neznám.}
+{15507}{}{Ona je poradce. Plánuje naše nájezdy.}
+{15508}{}{Ona je zbrojíøka. Opravuje naše vybavení.}
+{15509}{}{Je zástupkynì velitele.}
+{15510}{}{Shromaïuje zásoby.}
+{15511}{}{To je kuchaø.}
+{15512}{}{Máš nìjaké?}
+{15513}{}{Máš nìjaké?}
+
+
+#
+# SHADYE.MAP
+# Shady Sands East Tell-Me-Abouts
+#
+{16000}{}{Khanove}
+{16001}{}{Garl}
+{16002}{}{Junktown}
+{16003}{}{Shady Sands}
+{16004}{}{Hub}
+{16005}{}{vodni cip}
+{16006}{}{Tandi}
+{16007}{}{Aradesh}
+{16008}{}{Seth}
+{16009}{}{Razlo}
+{16100}{}{To je zloèinná skupina, která si hraje na nìjaké postavy z dávné minulosti.}
+{16101}{}{Vede Khany. Jeden z nejnebezpeènìjších lidí, jejich oko kdy pohlédlo na Shady Sands. Vládne nájezdnickım klanùm eleznou pìstí.}
+{16102}{}{Leí tak 4-6 dní cesty na jihozápad. Obèas dobrı obchod, skoro vdycky se nás ale snaí ošidit.}
+{16103}{}{Jsi pøímo v nìm.}
+{16104}{}{Mnohem dál na jih ne Junktown.  Hub je nejvìtší mìsto, co znám. Musí v nìm ít snad tisíc lidí.}
+{16105}{}{Promiò, s tím ti nepomùu.}
+{16106}{}{To je Aradeshova dcera. Jednoho dne by nás mohla vést, ale musí se nauèit krotit svoje zpùsoby.}
+{16107}{}{Vede naši komunitu, je to opravdovı hrdina. Najdeš ho v kteroukoli dobu v mìstské hale.}
+{16108}{}{Pracuje spolu s Aradeshem na tom, abychom byli v bezpeèí.}
+{16109}{}{Náš doktor. Navštiv ho, pokud máš nìjaké zranìní.}
+
+#
+# SHADYW.MAP
+# Shady Sands West Tell-Me-Abouts
+#
+{16600}{}{Khanove}
+{16601}{}{Garl}
+{16602}{}{Junktown}
+{16603}{}{Shady Sands}
+{16604}{}{Hub}
+{16605}{}{vodni cip}
+{16606}{}{Tandi}
+{16607}{}{Aradesh}
+{16608}{}{Seth}
+{16609}{}{Razlo}
+{16700}{}{To je zloèinná skupina, která si hraje na nìjaké postavy z dávné minulosti.}
+{16701}{}{Vede Khany. Jeden z nejnebezpeènìjších lidí, jejich oko kdy pohlédlo na Shady Sands. Vládne nájezdnickım klanùm eleznou pìstí.}
+{16702}{}{Leí tak 4-6 dní cesty na jihozápad. Obèas dobrı obchod, skoro vdycky se nás ale snaí ošidit.}
+{16703}{}{Jsi pøímo v nìm.}
+{16704}{}{Mnohem dál na jih ne Junktown.  Hub je nejvìtší mìsto, co znám. Musí v nìm ít snad tisíc lidí.}
+{16705}{}{Promiò, s tím ti nepomùu.}
+{16706}{}{To je Aradeshova dcera.  Jednoho dne by nás mohla vést, ale musí se nauèit krotit svoje zpùsoby.}
+{16707}{}{Vede naši komunitu, je to opravdovı hrdina. Najdeš ho v kteroukoli dobu v mìstské hale.}
+{16708}{}{Pracuje spolu s Aradeshem na tom, abychom byli v bezpeèí.}
+{16709}{}{Náš doktor. Navštiv ho, pokud máš nìjaké zranìní.}
+
+# GLOWENT.MAP  (17200)
+
+
+#
+# LAADYTUM.MAP
+#
+#
+
+#  ======================================================================
+#  finADYTUM
+# Info Level 1 [People who know nothing]
+{17800}{}{Adytum}
+{17801}{}{naslednici}
+{17802}{}{katedrala}
+{17803}{}{Rippers}
+{17804}{}{blades}
+{17805}{}{gunruneri}
+{17806}{}{Hub}
+{17807}{}{Junktown}
+{17808}{}{vodni cip}
+{17809}{}{obchod}
+{17810}{}{Zimmerman}
+{17811}{}{Nekropolis}
+{17812}{}{krater}
+{17813}{}{regulatori}
+{17814}{}{sberaci}
+{17815}{}{pohrebiste}
+{17900}{}{To je tady.}
+{17901}{}{ijí na sever od nás.}
+{17902}{}{To je nìkde na jihu.}
+{17903}{}{Jsou v západní èásti.}
+{17904}{}{Jsou ve vıchodní èásti.}
+{17905}{}{Jsou ještì dál na sever za Následníky.}
+{17906}{}{Obchodujeme s nimi.}
+{17907}{}{Není to to mìsto na severu?}
+{17908}{}{Co to?}
+{17909}{}{Tineho obchod je v podzemí blízko brány.}
+{17910}{}{Je to starosta.}
+{17911}{}{Snad nìkde na jihu.}
+{17912}{}{To je jen báje.}
+{17913}{}{Chrání nás.}
+{17914}{}{Hledají venku vìci.}
+{17915}{}{Tohle je Pohøebištì.}
+
+# Info level 2 [People who know something]
+{18000}{}{Adytum}
+{18001}{}{naslednici}
+{18002}{}{katedrala}
+{18003}{}{Rippers}
+{18004}{}{blades}
+{18005}{}{gunruneri}
+{18006}{}{Hub}
+{18007}{}{Junktown}
+{18008}{}{vodni cip}
+{18009}{}{obchod}
+{18010}{}{Zimmerman}
+{18011}{}{Nekropolis}
+{18012}{}{krater}
+{18013}{}{regulatori}
+{18014}{}{sberaci}
+{18015}{}{pohrebiste}
+{18100}{}{Jsi v Adytu, cizinèe.}
+{18101}{}{Následníci ijí ve staré knihovnì, kousek na sever. Káou porozumìní a mír.}
+{18102}{}{Katedrála leí daleko na jihu, podél zálivu. Dìti Katedrály je mírumilovné náboenství.}
+{18103}{}{Ti ijí v západní èásti. Jsou krutí a nastraují mnoho pastí.}
+{18104}{}{Ti ijí ve vıchodní èásti. Pouívají nìjaké supermoderní noe.}
+{18105}{}{Jsou ještì dál na sever za Následníky. Prodávají gangùm zbranì.}
+{18106}{}{S lidmi odtamtud obchodujeme. Je to asi nejvìtší mìsto, co znám.}
+{18107}{}{Malé mìsto na severovıchod od nás.}
+{18108}{}{O tom jsem nic neslyšel.}
+{18109}{}{Tineho obchod je v podzemí, nedaleko vstupní brány. Mùeš tam koupit spoustu zboí.}
+{18110}{}{To je starosta. Odvádí dobrou práci.}
+{18111}{}{Je to mìsto mrtvıch, pár dní cesty na vıchod.}
+{18112}{}{Prı je to hroznì daleko na jihu.}
+{18113}{}{Chrání nás pøed gangy a udrují tu poøádek.}
+{18114}{}{Chodí ven hledat rùzné vìci.}
+{18115}{}{Teï jsi v Pohøebišti.}
+
+
+# Info level 3 [People who know more than something but less than everything]
+{18200}{}{Adytum}
+{18201}{}{naslednici}
+{18202}{}{katedrala}
+{18203}{}{Rippers}
+{18204}{}{blades}
+{18205}{}{gunruneri}
+{18206}{}{Hub}
+{18207}{}{Junktown}
+{18208}{}{vodni cip}
+{18209}{}{obchod}
+{18210}{}{Zimmerman}
+{18211}{}{Nekropolis}
+{18212}{}{krater}
+{18213}{}{regulatori}
+{18214}{}{sberaci}
+{18215}{}{pohrebiste}
+{18300}{}{Jsme potomci lidí z Vaultu, kterı bıval pod jiní èástí mìsta.}
+{18301}{}{Následníci jsou moudøí a mírumilovní lidé. ijí ve staré knihovnì na severu.}
+{18302}{}{Dìti uctívají tajemného Temného Boha. Vypadají neškodnì, ale na jejich náboenství je nìco podivného. Katedrála je na jih odsud.}
+{18303}{}{Rippers jsou dìdiènì zatíení. Mají opevnìnou budovu s mnoha pastmi okolo, dovnitø zatahují vìznì, které muèí a zabíjejí.}
+{18304}{}{Blades jsou známí svımi vibro-noi. Jsou to odvìcí nepøátelé Rippers. Jejich vùdce je ena jménem Razor.}
+{18305}{}{Bıval to gang, ale usídlili ve skladišti na severu a zaèali obchodovat se zbranìmi.}
+{18306}{}{Hub je centrem øemesla a obchodu. Mají dokonce spoleènosti, které vyrábìjí vìci. je to na vıchod od nás.}
+#{18306 alternate If hydroponic farms aren't fixed:}{Prodáváme do Hubu náboje.}
+{18307}{}{Junktown je støednì velké mìsto na vıchod odsud a pøímo na sever z Hubu.}
+{18308}{}{Je mi líto, s tím ti nepomùu.}
+{18309}{}{Tine má smíšenı obchod poblí hlavní brány. Prodává zbranì a cestovní pomùcky.}
+{18310}{}{Jon je náš starosta. Podepisuje obchodní dohody, je politickım pøedstavitelem mìsta a povìøuje Regulátory a Sbìraèe rùznımi úkoly.}
+{18311}{}{Mìsto mrtvıch? To je asi to mìsto plné podivnıch kanibalù daleko na vıchodì. Nejezdil bych tam, bıt na tvém místì.}
+{18312}{}{To je ohromné radioaktivní místo, daleko na jihu, aspoò co jsem slyšel.}
+{18313}{}{Jsou policejní silou v Adytu. Chrání nás pøed gangy. Caleb je jejich velitel.}
+{18314}{}{Sbìraèi prohledávají Pohøebištì kvùli uiteènım vìcem. Vede je Sammael.}
+{18315}{}{Pohøebištì andìlù je vlastnì ruinou bıvalého velkomìsta Los Angeles.
+  Jsme pøímo v centru Pohøebištì.}
+#  ======================================================================
+
+
+#
+# LAFOLLWR.MAP  (18400)
+#
+#
+
+# ======================================================================
+#    FOLLOWERS OF THE APOCALYPSE
+# Info Level 1 [People who know nothing]
+{18400}{}{Adytum}
+{18401}{}{naslednici}
+{18402}{}{katedrala}
+{18403}{}{Rippers}
+{18404}{}{blades}
+{18405}{}{gunruneri}
+{18406}{}{Hub}
+{18407}{}{Junktown}
+{18408}{}{vodni cip}
+{18409}{}{Nicole}
+{18410}{}{pohrebiste}
+{18500}{}{To je ves na jihu.}
+{18501}{}{My jsme Následníci Apokalypsy.}
+{18502}{}{Kult na jihu, za Adytem.}
+{18503}{}{Gang na západì.}
+{18504}{}{Gang na vıchodì.}
+{18505}{}{Gang na severu.}
+{18506}{}{Velké obchodní mìsto na severovıchodì.}
+{18507}{}{Støednì velké mìsto na sever od Hubu.}
+{18508}{}{Nemùu pomoct, promiò.}
+{18509}{}{Ona je naše vùdkynì.}
+{18510}{}{Tohle je Pohøebištì.}
+
+# Info level 2 [People who know something]
+{18600}{}{Adytum}
+{18601}{}{naslednici}
+{18602}{}{katedrala}
+{18603}{}{Rippers}
+{18604}{}{blades}
+{18605}{}{gunruneri}
+{18606}{}{Hub}
+{18607}{}{Junktown}
+{18608}{}{vodni cip}
+{18609}{}{Nicole}
+{18610}{}{pohrebiste}
+{18700}{}{Malé mìsto na jihu. Obèas se tu z nìj nìkdo objeví.}
+{18701}{}{My jsme  Následníci Apokalypsy. Máme to jméno, protoe pøicházíme po váleèné bouøi, abychom všem pøinesli úlevu v míru.}
+{18702}{}{Podivnı kult jinì od Adyta a zbytku Pohøebištì. Nicole
+ øíká, e nìco chystají.}
+{18703}{}{Hroznì násilnickı gang na západì.}
+{18704}{}{Gang na vıchodì. Pouívají vibro-noe.}
+{18705}{}{Gang, kterı pøišel z Hubu a prodává zbranì. Sídlí na severu.}
+{18706}{}{Hub je obøí obchodní mìsto na vıchod od nás.}
+{18707}{}{Junktown je malé mìsto pøímo na sever od Hubu.}
+{18708}{}{Nemùu pomoct, promiò.}
+{18709}{}{Ona nás vede. Má sen, e obnoví mír v tomto rozdìleném svìtì.}
+{18710}{}{Tohle mìsto je Pohøebištì andìlù, pozùstatky starého Los Angeles.}
+
+# Info level 3 [People who know more than something but less than everything]
+{18800}{}{Adytum}
+{18801}{}{naslednici}
+{18802}{}{katedrala}
+{18803}{}{Rippers}
+{18804}{}{blades}
+{18805}{}{gunruneri}
+{18806}{}{Hub}
+{18807}{}{Junktown}
+{18808}{}{vodni cip}
+{18809}{}{Nicole}
+{18810}{}{pohrebiste}
+{18900}{}{Malé mìsto na jihu. Dobøí lidé, i kdy trochu paranoidní. Nìkteøí z nich s námi obèas spolupracují.}
+{18901}{}{My jsme Následníci Apokalypsy. Naším posláním je znovu pøinést mír a vzdìlanost svìtu a zajistit, aby u války nikdy více nezamoøily povrch planety.}
+{18902}{}{Katedrála je obrovská budova na jih od Pohøebištì. Dìti jsou kult uctívající temného a zlého boha. Musí bıt zastaveni, ne své náboenství rozšíøí násilím.}
+{18903}{}{Šílenci a šakalové. Útoèí na všechny, co k nim nepatøí. ijí na západì v opevnìné pevnosti obsypané rùznımi pastmi.}
+{18904}{}{Mimoøádnì nebezpeèná skupina z vıchodu, která pouívá vibro-noe. Jejich vùdkynì Razor pøišla z Hubu a vytvoøila z nich nebezpeènou partu.}
+{18905}{}{Gang ijící ve skladišti na severu. Jsou obklopeni pøíkopem plnım radioaktivního odpadu. Prodávají zbranì jinım gangùm.}
+{18906}{}{Hub je rozlehlé obchodní centrum daleko na vıchod od nás. Posílají karavany do mnoha míst, vèetnì Adyta.}
+{18907}{}{Malé mìsto severnì od Hubu. Øíká se, e to není špatné odpoèinkové místo pro znaveného poutníka.}
+{18908}{}{I kdy jsem o technologiích Vaultù èetl, tohle je na mì trochu sloité.}
+{18909}{}{Nicole nás vede. Je pøesvìdèená, e pøinese mír a klid svìtu znièenému válkou.}
+{18910}{}{Tohle je centrum Pohøebištì andìlù, název vznikl podle pùvodního Los Angeles a mnoství koster, které tu zbyly po dopadu bomby.}
+# ======================================================================
+
+
+# MBENT.MAP     (19000)
+
+{19000}{}{vudce}
+{19001}{}{porucik}
+{19002}{}{Deti Katedraly}
+{19003}{}{Naslednici Apokalypsy}
+{19004}{}{Nightkin}
+{19005}{}{Supermutanti}
+{19006}{}{drogy}
+{19007}{}{Experimenty}
+{19008}{}{vodni cip}
+
+{19100}{}{Nemusím ti nic øíkat.}
+{19101}{}{Tato vìdomost nenáleí niším bytostem.}
+{19102}{}{S nimi si starosti nedìlej.}
+{19103}{}{Jsi pøíliš níko postavenı, ne aby ses mì na nìco ptal.}
+{19104}{}{Nestarej se o to.}
+{19105}{}{Nestarej se o to.}
+{19106}{}{Jsi pøíliš mimo, abys o tom mohl vìdìt.}
+{19107}{}{Pøístup k tìmto informacím ti není povolen.}
+{19108}{}{Neobtìuj mì s tvımi problémy.}
+
+# MBSTRG12.MAP  (19600)
+
+{19600}{}{vudce}
+{19601}{}{porucik}
+{19602}{}{Deti Katedraly}
+{19603}{}{Naslednici Apokalypsy}
+{19604}{}{Nightkin}
+{19605}{}{Supermutanti}
+{19606}{}{drogy}
+{19607}{}{Experimenty}
+{19608}{}{vodni cip}
+{19700}{}{Nemusím ti nic øíkat.}
+{19701}{}{Tato vìdomost nenáleí niším bytostem.}
+{19702}{}{S nimi si starosti nedìlej.}
+{19703}{}{Jsi pøíliš nízko postavenı, ne aby ses mì na nìco ptal.}
+{19704}{}{Nestarej se o to.}
+{19705}{}{Nestarej se o to.}
+{19706}{}{Jsi pøíliš mimo, abys o tom mohl vìdìt.}
+{19707}{}{Pøístup k tìmto informacím ti není povolen.}
+{19708}{}{Neobtìuj mì s tvımi problémy.}
+
+# MBVATS12.MAP  (20200)
+
+{20200}{}{vudce}
+{20201}{}{porucik}
+{20202}{}{Deti Katedraly}
+{20203}{}{Naslednici Apokalypsy}
+{20204}{}{Nightkin}
+{20205}{}{Supermutanti}
+{20206}{}{drogy}
+{20207}{}{Experimenty}
+{20208}{}{vodni cip}
+{20300}{}{Nemusím ti nic øíkat.}
+{20301}{}{Tato vìdomost nenáleí niším bytostem.}
+{20302}{}{S nimi si starosti nedìlej.}
+{20303}{}{Jsi pøíliš nízko postavenı, ne aby ses mì na nìco ptal.}
+{20304}{}{Nestarej se o to.}
+{20305}{}{Nestarej se o to.}
+{20306}{}{Jsi pøíliš mimo, abys o tom mohl vìdìt.}
+{20307}{}{Pøístup k tìmto informacím ti není povolen.}
+{20308}{}{Neobtìuj mì s tvımi problémy.}
+
+
+# MSTRLR12.MAP  (20800)
+
+{20800}{}{vudce}
+{20801}{}{porucik}
+{20802}{}{Deti Katedraly}
+{20803}{}{Naslednici Apokalypsy}
+{20804}{}{Nightkin}
+{20805}{}{Supermutanti}
+{20806}{}{drogy}
+{20807}{}{Experimenty}
+{20808}{}{vodni cip}
+{20900}{}{Nemusím ti nic øíkat.}
+{20901}{}{Takové znalosti nepøísluší niším tvorùm.}
+{20902}{}{O tohle se nemusíš starat.}
+{20903}{}{Jseš pøíliš nízko postavenı, abys ses mì ptal.}
+{20904}{}{Hovno ti po tom.}
+{20905}{}{To není tvoje starost.}
+{20906}{}{Jsi pøíliš mimo, abys o tom mohl vìdìt.}
+{20907}{}{Nemáš právo to vìdìt.}
+{20908}{}{Neobtìuj mì s pitomostmi.}
+
+# MSTRLR34.MAP  (21400)
+
+{21400}{}{vudce}
+{21401}{}{porucik}
+{21402}{}{Deti Katedraly}
+{21403}{}{Naslednici Apokalypsy}
+{21404}{}{Nightkin}
+{21405}{}{Supermutanti}
+{21406}{}{drogy}
+{21407}{}{Experimenty}
+{21408}{}{vodni cip}
+{21500}{}{Nemusím ti nic øíkat.}
+{21501}{}{Takové znalosti nepøísluší niším tvorùm.}
+{21502}{}{O tohle se nemusíš starat.}
+{21503}{}{Jseš pøíliš nízko postavenı, abys ses mì ptal.}
+{21504}{}{Hovno ti po tom.}
+{21505}{}{To není tvoje starost.}
+{21506}{}{Jsi pøíliš mimo, abys o tom mohl vìdìt.}
+{21507}{}{Nemáš právo to vìdìt.}
+{21508}{}{Neobtìuj mì s pitomostmi.}
+
+
+# V13ENT.MAP    (22000)
+
+# HUBENT.MAP    (22600)
+
+{22600}{}{Policie}
+{22601}{}{kupci s vodou}
+{22602}{}{Crimson Caravan}
+{22603}{}{Far Go Traders}
+{22604}{}{Deti Katedraly}
+{22605}{}{Nekropolis}
+{22606}{}{krater}
+{22607}{}{Junktown}
+{22608}{}{bratrstvo oceli}
+{22609}{}{Shady Sands}
+{22610}{}{LA Pohrebiste}
+{22611}{}{vodni veze}
+{22612}{}{stare mesto}
+{22613}{}{centrum}
+{22614}{}{pahorky}
+{22615}{}{parac}
+{22616}{}{vodni cip}
+{22700}{}{Policii øídí šerif Greene, udrují zákon a poøádek v Hubu. Nìkdo tvrdí, e jsou spíše pøekákou ne pomocí.}
+{22701}{}{Mají pod palcem všechnu vodu v Hubu. Obsadili vodní vìe, a teï jim lidé musí za vodu platit.}
+{22702}{}{Bláznivá skupina obchodníkù, která se pouští do nejriskantnìjších podnikù, aby se dostali do èela.}
+{22703}{}{Prùmìrná obchodní spoleènost, nabízejí dobré ceny, ani by se vystavovali zbyteènım nebezpeèím na cestách.}
+{22704}{}{Náboenskı kult, kterı se klaní nìkomu jménem Vùdce. Mají tu nemocnici na jihovıchodním konci mìsta poblí Kupcù s vodou.}
+{22705}{}{Strašidelné místo. Podle nìkoho tam ijí zmutovaní lidé, kteøí se iví mozky normálních lidí. Leí nìkde na vıchod od Hubu.}
+{22706}{}{Existují povìsti, e kdesi na jihovıchodì leí místo, které dostalo pøímı zásah nukleární hlavicí.}
+{22707}{}{To je na sever od nás. Docela hodnì spolu obchodujeme. Podle klepù si Killian a Gizmo leí navzájem v aludcích.}
+{22708}{}{To místo leí na severozápadì. Je to parta technickıch šílencù, kteøí vyznávají svou technologii jako boha. Jsou to podivíni.}
+{22709}{}{Primitivní ves kdesi na dalekém severu. Moc o nich nevíme, jen to, e nemají dost penìz na to, aby s námi obchodovali.}
+{22710}{}{Tohle krysami prolezlé místo je ovládáno gangy. Nebıt vıhodnıch obchodù s Adytem a Gunrunery, tìko by tam se nìkdo snail od nás obchodovat.}
+{22711}{}{V nich se skrıvají vodní zásoby Hubu. Kupci s vodou je mají pod kontrolou.}
+{22712}{}{Staré mìsto je v severovıchodní èásti mìsta. Tam se vyskytují jen zmutovaní a jiná spodina. Prı je tam nìkde skryto doupì zlodìjù.}
+{22713}{}{To je obchodní místo. Je tu obchod se zbranìmi, s vızbrojí, banka FLC i zábavní centrum Maltese Falcon.}
+{22714}{}{To je ètvr boháèù. I šéf Kupcù s vodou, Daren Hightower, tam má velkı dùm.}
+{22715}{}{Báje pro malé dìti, aby pøestaly zlobit.}
+{22716}{}{O tom nic nevím.}
+
+# DETHCLAW.MAP  (23200)
+
+# HUBDWNTN.MAP  (23800)
+
+{23800}{}{Policie}
+{23801}{}{kupci s vodou}
+{23802}{}{Crimson Caravan}
+{23803}{}{Far Go Traders}
+{23804}{}{Deti Katedraly}
+{23805}{}{Nekropolis}
+{23806}{}{krater}
+{23807}{}{Junktown}
+{23808}{}{bratrstvo oceli}
+{23809}{}{Shady Sands}
+{23810}{}{LA Pohrebiste}
+{23811}{}{vodni veze}
+{23812}{}{stare mesto}
+{23813}{}{centrum}
+{23814}{}{pahorky}
+{23815}{}{parac}
+{23816}{}{vodni cip}
+{23900}{}{Policii øídí šerif Greene, udrují zákon a poøádek v Hubu. Nìkdo tvrdí, e jsou spíše pøekákou ne pomocí.}
+{23901}{}{Mají pod palcem všechnu vodu v Hubu. Obsadili vodní vìe a teï jim lidé musí za vodu platit.}
+{23902}{}{Bláznivá skupina obchodníkù, která se pouští do nejriskantnìjších podnikù, aby se dostali do èela.}
+{23903}{}{Prùmìrná obchodní spoleènost, nabízejí dobré ceny, ani by se vystavovali zbyteènım nebezpeèím na cestách.}
+{23904}{}{Náboenskı kult, kterı se klaní nìkomu jménem Vùdce. Mají tu nemocnici na jihovıchodním konci mìsta poblí Kupcù s vodou.}
+{23905}{}{Strašidelné místo. Podle nìkoho tam ijí zmutovaní lidé, kteøí se iví mozky normálních lidí. Leí nìkde na vıchod od Hubu.}
+{23906}{}{Existují povìsti, e kdesi na jihovıchodì leí místo, které dostalo pøímı zásah nukleární hlavicí.}
+{23907}{}{To je na sever od nás. Docela hodnì spolu obchodujeme. Podle klepù si Killian a Gizmo leí navzájem v aludcích.}
+{23908}{}{To místo leí na severozápadì. Je to parta technickıch šílencù, kteøí vyznávají svou technologii jako boha. Jsou to podivíni.}
+{23909}{}{Primitivní ves kdesi na dalekém severu. Moc o nich nevíme, jen to, e nemají dost penìz na to, aby s námi obchodovali.}
+{23910}{}{Tohle krysami prolezlé místo je ovládáno gangy. Nebıt vıhodnıch obchodù s Adytem a Gunrunery, tìko by tam se nìkdo snail od nás obchodovat.}
+{23911}{}{V nich se skrıvají vodní zásoby Hubu. Kupci s vodou je mají pod kontrolou.}
+{23912}{}{Staré mìsto je v severovıchodní èásti mìsta. Tam se vyskytují jen zmutovaní a jiná spodina. Prı je tam nìkde skryto doupì zlodìjù.}
+{23913}{}{To je obchodní místo. Je tu obchod se zbranìmi, s vızbrojí, banka FLC i zábavní centrum Maltese Falcon.}
+{23914}{}{To je ètvr boháèù. I šéf Kupcù s vodou, Daren Hightower, tam má velkı dùm.}
+{23915}{}{Báje pro malé dìti, aby pøestaly zlobit.}
+{23916}{}{O tom nic nevím.}
+
+# HUBHEIGT.MAP  (24400)
+
+{24400}{}{Policie}
+{24401}{}{kupci s vodou}
+{24402}{}{Crimson Caravan}
+{24403}{}{Far Go Traders}
+{24404}{}{Deti Katedraly}
+{24405}{}{Nekropolis}
+{24406}{}{krater}
+{24407}{}{Junktown}
+{24408}{}{bratrstvo oceli}
+{24409}{}{Shady Sands}
+{24410}{}{LA Pohrebiste}
+{24411}{}{vodni veze}
+{24412}{}{stare mesto}
+{24413}{}{centrum}
+{24414}{}{pahorky}
+{24415}{}{parac}
+{24416}{}{vodni cip}
+{24500}{}{Policii øídí šerif Greene, udrují zákon a poøádek v Hubu. Nìkdo tvrdí, e jsou spíše pøekákou ne pomocí.}
+{24501}{}{Mají pod palcem všechnu vodu v Hubu. Obsadili vodní vìe a teï jim lidé musí za vodu platit.}
+{24502}{}{Bláznivá skupina obchodníkù, která se pouští do nejriskantnìjších podnikù, aby se dostali do èela.}
+{24503}{}{Prùmìrná obchodní spoleènost, nabízejí dobré ceny, ani by se vystavovali zbyteènım nebezpeèím na cestách.}
+{24504}{}{Náboenskı kult, kterı se klaní nìkomu jménem Vùdce. Mají tu nemocnici na jihovıchodním konci mìsta poblí Kupcù s vodou.}
+{24505}{}{Strašidelné místo. Podle nìkoho tam ijí zmutovaní lidé, kteøí se iví mozky normálních lidí. Leí nìkde na vıchod od Hubu.}
+{24506}{}{Existují povìsti, e kdesi na jihovıchodì leí místo, které dostalo pøímı zásah nukleární hlavicí.}
+{24507}{}{To je na sever od nás. Docela hodnì spolu obchodujeme. Podle klepù si Killian a Gizmo leí navzájem v aludcích.}
+{24508}{}{To místo leí na severozápadì. Je to parta technickıch šílencù, kteøí vyznávají svou technologii jako boha. Jsou to podivíni.}
+{24509}{}{Primitivní ves kdesi na dalekém severu. Moc o nich nevíme, jen to, e nemají dost penìz na to, aby s námi obchodovali.}
+{24510}{}{Tohle krysami prolezlé místo je ovládáno gangy. Nebıt vıhodnıch obchodù s Adytem a Gunrunery, tìko by tam se nìkdo snail od nás obchodovat.}
+{24511}{}{V nich se skrıvají vodní zásoby Hubu. Kupci s vodou je mají pod kontrolou.}
+{24512}{}{Staré mìsto je v severovıchodní èásti mìsta. Tam se vyskytují jen zmutovaní a jiná spodina. Prı je tam nìkde skryto doupì zlodìjù.}
+{24513}{}{To je obchodní místo. Je tu obchod se zbranìmi, s vızbrojí, banka FLC i zábavní centrum Maltese Falcon.}
+{24514}{}{To je ètvr boháèù. I šéf Kupcù s vodou, Daren Hightower, tam má velkı dùm.}
+{24515}{}{Báje pro malé dìti, aby pøestaly zlobit.}
+{24516}{}{O tom nic nevím.}
+
+# HUBOLDTN.MAP  (25000)
+
+{25000}{}{Policie}
+{25001}{}{kupci s vodou}
+{25002}{}{Crimson Caravan}
+{25003}{}{Far Go Traders}
+{25004}{}{Deti Katedraly}
+{25005}{}{Nekropolis}
+{25006}{}{krater}
+{25007}{}{Junktown}
+{25008}{}{bratrstvo oceli}
+{25009}{}{Shady Sands}
+{25010}{}{LA Pohrebiste}
+{25011}{}{vodni veze}
+{25012}{}{stare mesto}
+{25013}{}{centrum}
+{25014}{}{pahorky}
+{25015}{}{parac}
+{25016}{}{vodni cip}
+{25100}{}{Policii øídí šerif Greene, udrují zákon a poøádek v Hubu. Nìkdo tvrdí, e jsou spíše pøekákou ne pomocí.}
+{25101}{}{Mají pod palcem všechnu vodu v Hubu. Obsadili vodní vìe a teï jim lidé musí za vodu platit.}
+{25102}{}{Bláznivá skupina obchodníkù, která se pouští do nejriskantnìjších podnikù, aby se dostali do èela.}
+{25103}{}{Prùmìrná obchodní spoleènost, nabízejí dobré ceny, ani by se vystavovali zbyteènım nebezpeèím na cestách.}
+{25104}{}{Náboenskı kult, kterı se klaní nìkomu jménem Vùdce. Mají tu nemocnici na jihovıchodním konci mìsta poblí Kupcù s vodou.}
+{25105}{}{Strašidelné místo. Podle nìkoho tam ijí zmutovaní lidé, kteøí se iví mozky normálních lidí. Leí nìkde na vıchod od Hubu.}
+{25106}{}{Existují povìsti, e kdesi na jihovıchodì leí místo, které dostalo pøímı zásah nukleární hlavicí.}
+{25107}{}{To je na sever od nás. Docela hodnì spolu obchodujeme. Podle klepù si Killian a Gizmo leí navzájem v aludcích.}
+{25108}{}{To místo leí na severozápadì. Je to parta technickıch šílencù, kteøí vyznávají svou technologii jako boha. Jsou to podivíni.}
+{25109}{}{Primitivní ves kdesi na dalekém severu. Moc o nich nevíme, jen to, e nemají dost penìz na to, aby s námi obchodovali.}
+{25110}{}{Tohle krysami prolezlé místo je ovládáno gangy. Nebıt vıhodnıch obchodù s Adytem a Gunrunery, tìko by tam se nìkdo snail od nás obchodovat.}
+{25111}{}{V nich se skrıvají vodní zásoby Hubu. Kupci s vodou je mají pod kontrolou.}
+{25112}{}{Staré mìsto je v severovıchodní èásti mìsta. Tam se vyskytují jen zmutovaní a jiná spodina. Prı je tam nìkde skryto doupì zlodìjù.}
+{25113}{}{To je obchodní místo. Je tu obchod se zbranìmi, s vızbrojí, banka FLC i zábavní centrum Maltese Falcon.}
+{25114}{}{To je ètvr boháèù. I šéf Kupcù s vodou, Daren Hightower, tam má velkı dùm.}
+{25115}{}{Báje pro malé dìti, aby pøestaly zlobit.}
+{25116}{}{O tom nic nevím.}
+
+# HUBWATER.MAP  (25600)
+
+{25600}{}{Policie}
+{25601}{}{kupci s vodou}
+{25602}{}{Crimson Caravan}
+{25603}{}{Far Go Traders}
+{25604}{}{Deti Katedraly}
+{25605}{}{Nekropolis}
+{25606}{}{krater}
+{25607}{}{Junktown}
+{25608}{}{bratrstvo oceli}
+{25609}{}{Shady Sands}
+{25610}{}{LA Pohrebiste}
+{25611}{}{vodni veze}
+{25612}{}{stare mesto}
+{25613}{}{centrum}
+{25614}{}{pahorky}
+{25615}{}{parac}
+{25616}{}{vodni cip}
+{25700}{}{Policii øídí šerif Greene, udrují zákon a poøádek v Hubu. Nìkdo tvrdí, e jsou spíše pøekákou ne pomocí.}
+{25701}{}{Mají pod palcem všechnu vodu v Hubu. Obsadili vodní vìe a teï jim lidé musí za vodu platit.}
+{25702}{}{Bláznivá skupina obchodníkù, která se pouští do nejriskantnìjších podnikù, aby se dostali do èela.}
+{25703}{}{Prùmìrná obchodní spoleènost, nabízejí dobré ceny, ani by se vystavovali zbyteènım nebezpeèím na cestách.}
+{25704}{}{Náboenskı kult, kterı se klaní nìkomu jménem Vùdce. Mají tu nemocnici na jihovıchodním konci mìsta poblí Kupcù s vodou.}
+{25705}{}{Strašidelné místo. Podle nìkoho tam ijí zmutovaní lidé, kteøí se iví mozky normálních lidí. Leí nìkde na vıchod od Hubu.}
+{25706}{}{Existují povìsti, e kdesi na jihovıchodì leí místo, které dostalo pøímı zásah nukleární hlavicí.}
+{25707}{}{To je na sever od nás. Docela hodnì spolu obchodujeme. Podle klepù si Killian a Gizmo leí navzájem v aludcích.}
+{25708}{}{To místo leí na severozápadì. Je to parta technickıch šílencù, kteøí vyznávají svou technologii jako boha. Jsou to podivíni.}
+{25709}{}{Primitivní ves kdesi na dalekém severu. Moc o nich nevíme, jen to, e nemají dost penìz na to, aby s námi obchodovali.}
+{25710}{}{Tohle krysami prolezlé místo je ovládáno gangy. Nebıt vıhodnıch obchodù s Adytem a Gunrunery, tìko by tam se nìkdo snail od nás obchodovat.}
+{25711}{}{V nich se skrıvají vodní zásoby Hubu. Kupci s vodou je mají pod kontrolou.}
+{25712}{}{Staré mìsto je v severovıchodní èásti mìsta. Tam se vyskytují jen zmutovaní a jiná spodina. Prı je tam nìkde skryto doupì zlodìjù.}
+{25713}{}{To je obchodní místo. Je tu obchod se zbranìmi, s vızbrojí, banka FLC i zábavní centrum Maltese Falcon.}
+{25714}{}{To je ètvr boháèù. I šéf Kupcù s vodou, Daren Hightower, tam má velkı dùm.}
+{25715}{}{Báje pro malé dìti, aby pøestaly zlobit.}
+{25716}{}{O tom nic nevím.}
+
+# GLOW1.MAP     (26200)
+# GLOW2.MAP     (26800)
+
+
+#
+# LABLADES.MAP
+#
+#
+
+#  ======================================================================
+#    BLADES
+# Info Level 1 [People who know nothing]
+{27400}{}{Adytum}
+{27401}{}{naslednici}
+{27402}{}{katedrala}
+{27403}{}{Rippers}
+{27404}{}{blades}
+{27405}{}{gunruneri}
+{27406}{}{Hub}
+{27407}{}{Junktown}
+{27408}{}{vodni cip}
+{27409}{}{Razor}
+{27410}{}{Nekropolis}
+{27411}{}{krater}
+{27412}{}{pohrebiste}
+{27500}{}{Mìsto na západì.}
+{27501}{}{Parta magorù.}
+{27502}{}{Náboenští šílenci.}
+{27503}{}{Naši úhlavní nepøátelé!}
+{27504}{}{To jsme my!}
+{27505}{}{Nìkdy nám prodávají zbranì.}
+{27506}{}{Podle mì je to nìjaké obchodní mìsto.}
+{27507}{}{O tom nic nevím.}
+{27508}{}{Co to?}
+{27509}{}{Tahle nejzkurvenìjší dìvka ve mìstì na vede.}
+{27510}{}{Nekro- co? To je divnı.}
+{27511}{}{ertuješ, co?}
+{27512}{}{Tohleto je Pohøebištì.}
+
+
+# Info Level 2 [People who know something]
+{27600}{}{Adytum}
+{27601}{}{naslednici}
+{27602}{}{katedrala}
+{27603}{}{Rippers}
+{27604}{}{blades}
+{27605}{}{gunruneri}
+{27606}{}{Hub}
+{27607}{}{Junktown}
+{27608}{}{vodni cip}
+{27609}{}{Razor}
+{27610}{}{Nekropolis}
+{27611}{}{krater}
+{27612}{}{pohrebiste}
+{27700}{}{Vesnice slabochù na jihozápadì.}
+{27701}{}{Patetiètí kazatelé míru ze západu. Znièili bychom je, kdyby tu nebylo tolik práce s tìmi Rippers.}
+{27702}{}{Náboní magoøi. Neškodní a k nièemu.}
+{27703}{}{Naši úhlavní nepøátelé, brzy je znièíme!}
+{27704}{}{My jsme Blades! Nikdy to nezapomeò!}
+{27705}{}{Bıval to gang, ale vymìkli. Nicménì prodávají slušné zbranì.}
+{27706}{}{Obchodníci a kupci.}
+{27707}{}{U jsem o tom místì slyšel, ale nic dùleitého.}
+{27708}{}{Coe to?}
+{27709}{}{Razor je nejlepším bojovníkem z nás všech. To ona nás dovede k vítìzství.}
+{27710}{}{Øíkají se nìjaké zkazky o mìstì kanibalù, vìtšinou na postrašení dìtí.}
+{27711}{}{To musí bıt to místo pøímého jaderného zásahu.}
+{27712}{}{Tohle je Pohøebištì.}
+
+
+# Info level 3 [People who know more than something but less than everything]
+{27800}{}{Adytum}
+{27801}{}{naslednici}
+{27802}{}{katedrala}
+{27803}{}{Rippers}
+{27804}{}{blades}
+{27805}{}{gunruneri}
+{27806}{}{Hub}
+{27807}{}{Junktown}
+{27808}{}{vodni cip}
+{27809}{}{Razor}
+{27810}{}{Nekropolis}
+{27811}{}{krater}
+{27812}{}{pohrebiste}
+{27900}{}{Nenech se napálit. Adytum vypadá jako ves, ale ti Regulátoøi jsou pìknì tvrdí.}
+{27901}{}{Hmph. Nechtìj mì naštvat. Nemají aludek ani kurá pustit se do boje.}
+{27902}{}{Jsou to sektáøi z velkého kostela na jihu. Vypadají neškodnì, ale je kolem nich nìco podivného.}
+{27903}{}{Rippers jsou jako prašiví psi - krutí, znetvoøení a hloupí.}
+{27904}{}{Vidíš mou èepel? Dìláme si je sami. Kadı si vyrobí svou vlastní. Odtud naše jméno.}
+{27905}{}{Pøišli z Hubu jako gang, ale rozhodli se dát se na obchod místo bojování.}
+{27906}{}{To je obchodní centrum na vıchodì. Z Hubu pøijídìjí kupci uzavírat obchody s Adytem a Gunrunery.}
+{27907}{}{Myslím, e je to severovıchodnì od nás. Je to malé mìsto.}
+{27908}{}{Co to?}
+{27909}{}{Razor je naše kápo a šampiónka. Nepochybuji, e její zkušenost nás koneènì dovede k vítìzství nad tìmi proklatımi Rippers.}
+{27910}{}{Daleko na vıchod. Pravdìpodobnì tam ijí ghúlové, ivící se lidskım masem.
+ Nerad bych s nima bojoval.}
+{27911}{}{Myslím, e jsou to ruiny nìjakého zaøízení zasaeného jadernou pumou. Je to nìkde daleko na jihu.}
+{27912}{}{Tohle je Pohøebištì.}
+#  ======================================================================
+
+
+#
+# LARIPPER.MAP  (28000)
+#
+#
+
+#======================================================================
+#
+#RIPPERS
+#
+#The Rippers will not engage in dialog, and thus have no
+#tell-me-abouts.
+#
+#======================================================================
+
+
+#
+# LAGUNRUN.MAP  (28600)
+#
+#
+
+#  ======================================================================
+#   GUN RUNNERS
+#Info Level 1 [People who know nothing]
+{28600}{}{Adytum}
+{28601}{}{naslednici}
+{28602}{}{katedrala}
+{28603}{}{Rippers}
+{28604}{}{blades}
+{28605}{}{gunruneri}
+{28606}{}{Hub}
+{28607}{}{Junktown}
+{28608}{}{vodni cip}
+{28609}{}{pohrebiste}
+{28700}{}{Malá ves na jihu.}
+{28701}{}{Parta hipíkù z jihu.}
+{28702}{}{Myslíš ty podivíny v hnìdıch róbách?}
+{28703}{}{Pankovı gang na západì.}
+{28704}{}{Potmìšilı gang na vıchodì.}
+{28705}{}{Jo? Tak co?}
+{28706}{}{Kupujeme od nich zbranì a prodáme ti je pøímo!}
+{28707}{}{Jo, mìsteèko na sever od Hubu.}
+{28708}{}{Co?}
+{28709}{}{Tohle je Pohøebištì.}
+
+# Info Level 2 [People who know something]
+{28800}{}{Adytum}
+{28801}{}{naslednici}
+{28802}{}{katedrala}
+{28803}{}{Rippers}
+{28804}{}{blades}
+{28805}{}{gunruneri}
+{28806}{}{Hub}
+{28807}{}{Junktown}
+{28808}{}{vodni cip}
+{28809}{}{pohrebiste}
+{28900}{}{Malá ves na jihu. Docela dobøe opevnìná.}
+{28901}{}{Skupina hlásaèù míru skrıvající se na jihu. Mìli bychom je zlikvidovat.}
+{28902}{}{Och ano, ti máklí mniši. Jsou to blázni. Jejich velkı kostel je dál na jih od Pohøebištì.}
+{28903}{}{Hej, moná jsou hloupí, ale urèitì nakupují hromadu zbraní!}
+{28904}{}{Poøád pouívají ty stupidní noe, co si dìlají. Rád bych nìjakı dostal do ruky. Ale aspoò si u nás obèas kupují zbranì.}
+{28905}{}{Mluvíš s námi.}
+{28906}{}{Velké obchodní mìsto na vıchodì. Obchodujeme s jejich kupci, hlavnì se zbranìmi a vıstrojí.}
+{28907}{}{Malé mìsto severnì od Hubu, nic zvláštního.}
+{28908}{}{Nemám tušení.}
+{28909}{}{Jsme v severní èásti Pohøebištì.}
+
+# Info Level 3 [People who know more than something but less than everything]
+{29000}{}{Adytum}
+{29001}{}{naslednici}
+{29002}{}{katedrala}
+{29003}{}{Rippers}
+{29004}{}{blades}
+{29005}{}{gunruneri}
+{29006}{}{Hub}
+{29007}{}{Junktown}
+{29008}{}{vodni cip}
+{29009}{}{pohrebiste}
+{29100}{}{Malé mìsto na jih od nás. Neobchodují s námi, take se o nì víc nestarám.}
+{29101}{}{Snaí se kadého obrátit na jejich cestu míru a porozumìní. Skrıvají se ve své knihovnì na jihu. Vùbec neprospívají obchodu!}
+{29102}{}{Katedrála je velkı kostel na jih od Pohøebištì, kde nìjakı podivnı kult uctívá Temného boha. Myslím, e jsou to cvoci.}
+{29103}{}{Rippers jsou jedna velká rodina, doslova. Je s nimi nemoné obchodovat, pokud tì neznají, tak to ani nezkoušej. Mají pevnost, kolem které je spousta pastí, na jihozápadì. Dej pozor na nášlapné miny, pokud jsi takovı magor a chceš je navštívit.}
+{29104}{}{Promìnili pár budov na jihu vıchodì ve svùj domov. Jsou organizovanìjší a chytøejší ne Rippers.
+ Obèas pøijmou i nìkoho cizího. Jejich šéfka Razor je vánì drsná enská.}
+{29105}{}{To jsme my. Máme dost penìz z prodeje zbraní obìma místním znepøátelenım gangùm.}
+{29106}{}{To je obchodní mìsto na vıchodì, odkud získáváme další zbranì. Posílají sem karavany, ke kterım by jsi se mohl v Adytu pøipojit.}
+{29107}{}{Malé pohranièní mìsto na sever od Hubu. Mají velké kasino, ale místní šerif je trochu panovaènı.}
+{29108}{}{Nemám tušení, co to je.}
+{29109}{}{Toto je severní èást Pohøebištì. Je to sranda, lidé zvenku ho pouívají jako kletbu, pokud je nìco špatného, øíkají "Horší ne Pohøebištì". Ale kdy u si jednou zvykneš, není to tak zlé.}
+#  ======================================================================
+
+
+# CHILDEAD.MAP  (29200)
+
+# MBDEAD.MAP    (29800)
+
+# MOUNTN1.MAP   (30400)
+# MOUNTN2.MAP   (31000)
+# FOOT.MAP      (31600)
+# TARDIS.MAP    (32200)
+# TALKCOW.MAP   (32800)
+# USEDCAR.MAP   (33400)
+# BRODEAD.MAP   (34000)
+# DESCRVN1.MAP  (34600)
+# DESCRVN2.MAP  (35200)
+# MNTCRVN1.MAP  (35800)
+# MNTCRVN2.MAP  (36400)

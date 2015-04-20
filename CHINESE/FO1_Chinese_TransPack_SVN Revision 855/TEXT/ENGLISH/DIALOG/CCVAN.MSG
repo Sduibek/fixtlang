@@ -1,0 +1,43 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a clerk from the Crimson Caravans.}
+#{101}{}{You see a clerk from the Water Merchants.}
+#{102}{}{You see a clerk from the Far Go Traders.}
+#{103}{}{Hello. Are you looking for a job?}
+#{104}{}{Yes.}
+#{105}{}{No.}
+#{106}{}{Great. We have space for another guard. Are you interested?}
+#{107}{}{OK. If you need work, just stop by and well will set you up.}
+#{108}{}{Sorry to hear that. Bye.}
+#{109}{}{Excellent. We have caravans leaving for: the Boneyard, Junktown, Necropolis and the Brotherhood of Steel. Which would you
+# like to work on?}
+#{110}{}{Excellent. We have caravans leaving for: the Boneyard, Junktown and the Brotherhood of Steel. Which would you
+# like to work on?}
+#{111}{}{Excellent. We have caravans leaving for: the Boneyard and Junktown. Which would you
+# like to work on?}
+#{112}{}{Boneyard.}
+#{113}{}{Junktown.}
+#{114}{}{Brotherhood of Steel.}
+#{115}{}{Necropolis.}
+#{116}{}{None.}
+#{117}{}{Great. We leave now.}
+
+{100}{}{你看见深红商队的一名店员。}
+{101}{}{你看见纯水商队的一名店员。}
+{102}{}{你看见远行商队的一名店员。}
+{103}{}{你好，是找工作来的？}
+{104}{}{是。}
+{105}{}{不。}
+{106}{}{很好，我们缺少一名护卫人员，有兴趣吗？}
+{107}{}{好吧，如果你以后需要工作，来这里我们给你安排。}
+{108}{}{真可惜，再见。}
+{109}{}{太好了。我们有去往晒骨场、迦克镇、大墓地和钢铁兄弟会的商队，你喜欢走哪一路？}
+{110}{}{太好了。我们有去往晒骨场、迦克镇和钢铁兄弟会的商队，你喜欢走哪一路？}
+{111}{}{太好了。我们有去往晒骨场和迦克镇的商队，你喜欢走哪一路？}
+{112}{}{晒骨场。}
+{113}{}{迦克镇。}
+{114}{}{钢铁兄弟会。}
+{115}{}{大墓地。}
+{116}{}{算了。}
+{117}{}{太好了，我们现在就走。}

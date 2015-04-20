@@ -1,0 +1,238 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Sherry.}
+{100}{}{你看到雪莉。}
+
+#{101}{}{You see a gang member.}
+{101}{}{你看到一个帮派成员。}
+
+#{102}{}{}
+{102}{}{}
+
+#{103}{}{Who are you and what are you doing here?}
+{103}{}{你是谁？你要干什么？}
+
+#{104}{}{I'm }
+{104}{}{我是}
+
+#{105}{}{. I'm new to this town.}
+{105}{}{。我是刚刚来到这个城镇的。}
+
+#{106}{}{None of your business, wench!}
+{106}{}{不关你的事，你这村姑！}
+
+#{107}{}{Puwah?}
+{107}{}{噗哇？}
+
+#{108}{}{Apparently so, since everyone knows that this is the territory
+# of the Skulz. You'd better beat it before someone decides to hurt you.}
+{108}{}{显然是这样，因为每个人都知道这里是属于骷髅党的地盘。你得先了解这一点，否则会有人来揍你的。}
+
+#{109}{}{Bring it on!}
+{109}{}{让他们来吧！}
+
+#{110}{}{Sorry, I thought this was the bathroom. Bye.}
+{110}{}{对不起，我以为这里是洗手间呢。再见。}
+
+#{111}{}{The Skulz? Who're they?}
+{111}{}{骷髅党？他们是干吗的？}
+
+#{112}{}{Yeah, I knew that. I'm just hangin' out.}
+{112}{}{是啊，我知道，我是特意来这里看看的。}
+
+#{113}{}{Take off, you hoser, before one of us decides to tear you up.}
+{113}{}{在我们的人把你撕碎之前快滚，你这废物。}
+
+#{114}{}{Sheesh, sorry.}
+{114}{}{嘘，对不起。}
+
+#{115}{}{Yeah? Bring it on!}
+{115}{}{是吗？放马过来吧！}
+
+#{116}{}{You sorry thing. You should run along. It's not safe here,
+# especially for someone like you who wouldn't understand.}
+{116}{}{你这可怜的东西。你早该跑掉的。这里很不安全，尤其是对于你这种什么都不懂的人来说。}
+
+#{117}{}{That's us! We're the meanest gang in town. Actually, we're the only gang.
+# But nobody messes with us.}
+{117}{}{那就是我们！我们是这个城镇中最强大的帮派。事实上我们是唯一的帮派。不过没有人敢找我们的麻烦。}
+
+#{118}{}{So you pretty much have the run of the town, eh?}
+{118}{}{因此你们在很大程度上拥有城镇的控制权，对吗？}
+
+#{119}{}{How nice. See ya.}
+{119}{}{听起来不错。再见。}
+
+#{120}{}{Oh. Well, you'd better not. I mean, you're not one of the Skulz,
+# and this is our place. So, you should get lost, before Victor gets itchy.}
+{120}{}{哦，好吧，你最好不。我是说，你并不是骷髅党的一员，而这里是我们的地盘。所以，你最好在维克托发怒之前赶快离开。}
+
+#{121}{}{Actually, I think I'll stay.}
+{121}{}{事实上，我想要待在这里。}
+
+#{122}{}{Who's Victor?}
+{122}{}{维克托是谁？}
+
+#{123}{}{Fine, I'm out of here.}
+{123}{}{很好，我会走的。}
+
+#{124}{}{Fine. It's your funeral.}
+{124}{}{很好，准备你的葬礼吧。}
+
+#{125}{}{Victor's right over there. He's the meanest of us all. He likes torturing
+# iguanas that he catches. I don't really like him, to tell the truth, but he's one
+# of us.}
+{125}{}{维克托就在那边。他是我们中最强的一个。他喜欢折磨他抓住的蜥蜴。说实话，我并不真正喜欢他，但他是我们中的一员。}
+
+#{126}{}{Well, there's Victor, and Shark, who hangs out at the Skum Pitt. Vinnie, too,
+# and a couple other guys who stop by from time to time.}
+{126}{}{嗯，维克托和沙克呆在斯卡姆·匹特那，还有维尼。另外两个人也会经常过来。}
+
+#{127}{}{Where's the Skum Pitt?}
+{127}{}{斯卡姆·匹特在哪？}
+
+#{128}{}{Oh, the Skum Pitt is a sleazy bar north of here, near Gizmo's casino.}
+{128}{}{哦，斯卡姆·匹特是北边的一个小酒吧，在吉斯莫的赌场旁边。}
+
+#{129}{}{You bet! Nobody messes with us! Well, except for Killian, but he's cool
+# and all. He's like the sheriff man. We do whatever we want.}
+{129}{}{你说对了！没有人找我们的麻烦！不过，基利安倒是常常和我们作对，不过他除了酷一点以外就没什么能耐了。他那个人就像治安官一样。但我们可以做任何想做的事。}
+
+#{130}{}{We just hang out, and sometimes we play games at Gizmo's or have some
+# fun over at the Skum Pitt. Sometimes we do odd jobs for Gizmo or for some
+# traveler. Victor likes stalking people, too. Come to think of it, you might
+# want to stay away from him.}
+{130}{}{我们只是呆在这里，有时候会到吉斯莫那里玩玩，或者在斯卡姆·匹特那里找找乐子。有的时候我们也为吉斯莫或某些旅行者做些奇怪的任务。维克托也喜欢抓人。如果你好好想想的话，你还是应该离他远一点。}
+
+#{131}{}{You work for Gizmo? What can you tell me about him?}
+{131}{}{你为吉斯莫工作？关于他你能告诉我什么？}
+
+#{132}{}{So what is it that you guys do?}
+{132}{}{那你们到底是做什么的呢？}
+
+#{133}{}{Who all is in the gang?}
+{133}{}{这个帮派的成员究竟有哪些？}
+
+#{134}{}{Why do you hang out with these guys?}
+{134}{}{为什么你和那些人在一起呢？}
+
+#{135}{}{We're like a family! We take care of each other. Well, except for Shark,
+# who's always breaking things. And Victor, who looks at people funny. But
+# Vinnie is cool. And we do stuff together. You know, we're like friends and stuff.}
+{135}{}{我们就像一个家庭一样！我们相互照顾。嗯，也许除了沙克，他总是打碎东西。还有维克托，他看人的样子太好笑了。但维尼很酷。我们一起做事。你知道，我们就像朋友和同事一样。}
+
+#{136}{}{Oh, it's you again! You know, it's probably not healthy to hang out here
+# if you're not one of the Skulz. And you're not.}
+{136}{}{哦，又是你！你知道，如果你不是骷髅党的一员，呆在这里很可能不利于你的健康。你的确不是骷髅党的人啊。}
+
+#{137}{}{Yeah, well, your Skulz probably couldn't knock over a sleeping Brahmin,
+# much less take on me.}
+{137}{}{是啊，你们骷髅党能做的事情只有骚扰睡着了的双头牛而已，我才不怕你们呢。}
+
+#{138}{}{What have you been up to lately?}
+{138}{}{你们最近在做什么呢？}
+
+#{139}{}{Really? We'll see about that! Victor!}
+{139}{}{真的吗？让我们试试看！维克托！}
+
+#{140}{}{Not too much, actually. There's not much to do. I mean, Shark has been
+# causing some fights at the Skum Pitt, as usual, but what else is there to
+# do around here?}
+{140}{}{事实上没有什么事情。一直都没有什么事可做。我的意思是，沙克仍然和平时一样在萨姆·匹特打几场架，但除此之外在这附近有什么事情可做呢？}
+
+#{141}{}{Uh, not much, I guess.}
+{141}{}{呃，我想的确没什么事情可做。}
+
+#{142}{}{You could always try doing something else. You must have some talents
+# or hobbies.}
+{142}{}{你应该可以尝试做些其它的事情。你一定有某方面的天分或是爱好。}
+
+#{143}{}{Well, I do sort of like to draw. And Vinnie says I'm a pretty good cook.
+# But I mean, hey, we have fun and stuff, you know?}
+{143}{}{嗯，我的确比较喜欢画画。还有维尼说我是个很好的厨师。拥有事业还有很多业余爱好真是件好事，你知道吗？}
+
+#{144}{}{I guess that's understandable.}
+{144}{}{我想那是可以理解的。}
+
+#{145}{}{But what will you do when you get older? Where will your life go?
+# How will you make money?}
+{145}{}{但你老了之后该怎么办呢？你的生活将去向何方？你将如何赚钱？}
+
+#{146}{}{Um, well, I never gave it much thought. I mean, Vinnie and Victor make
+# some money and Shark occasionally does some bodyguarding for visitors here.
+# I don't know.}
+{146}{}{唉，说起来我的确没有想过这些。维尼和维克托能赚到一些钱，沙克也经常为来这里的游客当保镖。我不知道。}
+
+#{147}{}{You should probably get out while you still can.}
+{147}{}{你应该趁着还年轻还有希望的时候跳出这种无聊的生活。}
+
+#{148}{}{Hey, lay off! You sound like Vinnie's parents used to. We all support
+# each other, okay? So back off.}
+{148}{}{嘿，你得了吧！你的话听起来就像维尼的父母以前经常说的那些。我们相互支持，你知道吗？所以请离开。}
+
+#{149}{}{I guess. I never thought about it much.}
+{149}{}{我想也是。我真的没有想过那么多。}
+
+#{150}{}{Hi! How are you doing? It's been a while.}
+{150}{}{嗨！你怎么样？好久没见了。}
+
+#{151}{}{I'm all right, thanks.}
+{151}{}{我很好，谢谢。}
+
+#{152}{}{I've been better.}
+{152}{}{我一直很好。}
+
+#{153}{}{Okay. How about you?}
+{153}{}{还行。你呢？}
+
+#{154}{}{I'm sorry to hear that! Perhaps you should get a room and sleep it off.
+# Talk to Marcelles. Oh, and here, I can fix you something to eat, if you like.}
+{154}{}{听到这个消息我很抱歉！也许你需要一个房间好好睡一觉。去和玛塞尔谈，哦，如果你想要的话，我可以给你做点东西吃。}
+
+#{155}{}{That would be swell, thanks.}
+{155}{}{那太好了，谢谢。}
+
+#{156}{}{No thanks, but I'll see you around.}
+{156}{}{不用了，谢谢，一会再见。}
+
+#{157}{}{Oh, I'm doing much better, thanks! I do some cooking now at the Skum Pitt
+# and the Crash House. It gets kind of tiresome on some nights, but I do like to
+# cook, and I get to meet all sorts of interesting people. And I get paid, too.
+# Thanks for your help.}
+{157}{}{哦！我可比以前强多了，谢谢你！我在斯卡姆·匹特和躺躺旅馆当了厨师。有些时候晚上的确很累，但我真的很喜欢烹饪，而且我还见到了各种各样有趣的人。我还赚到了钱。谢谢你的帮助。}
+
+#{158}{}{There you go. Enjoy. And I'll see you around!}
+{158}{}{那你走吧。祝你愉快，我会等着你再来的！}
+
+#{159}{}{He's this huge fat guy who runs the Casino. He wants to run Junktown,
+# but Killian keeps him in line. He pays pretty well, though. Occasionally he
+# hires Vinnie or Victor to deal with people for him, if they've been a
+# problem, like one stranger who showed up here a few weeks ago.}
+{159}{}{他是赌场的老板，一个又高又胖的家伙。他想要统治迦克镇，但基利安把他控制住了。不过他付的报酬不少。他经常雇用维尼和维克托来收拾那些找麻烦的人，就好像几周前来这里的那家伙。}
+
+#{160}{}{You want me to turn in my friends?!?}
+{160}{}{你想让我告发我的朋友？！？}
+
+#{161}{}{Yes, I need your information.}
+{161}{}{是的，我需要你提供信息。}
+
+#{162}{}{Sorry. Forget I asked.}
+{162}{}{对不起。忘了我说的话吧。}
+
+#{163}{}{They have been hurting people, and they will go on hurting people unless
+# they're stopped. You changed your life for the better. Now you have a chance
+# to help improve the lives of others, too.}
+{163}{}{他们一直在伤害别人，而且除非他们被阻止，他们仍将继续伤害更多的人。你已经改变了你自己，过上了更好的生活。现在你有一个机会，让他们也可以过上更好的生活。}
+
+#{164}{}{Hmm. Well, I mean, they are my friends. But I guess that they shouldn't
+# be allowed to hurt people the way they do. And I guess I trust you since you
+# helped me. All right.}
+{164}{}{嗯。他们是我的朋友。但我想他们不应该像现在这样伤害别人。因为你帮助了我，我想应该信任你。好吧。}
+
+#{165}{}{No, I can't do that! Those are my friends! I may not be a Skul anymore,
+# but I'm not going to turn my back on my old friends.}
+{165}{}{不，我不能那样做！他们是我的朋友！我可能不再是一名骷髅党的成员，但我是不会忘记老朋友的。}
+
+#{166}{}{I need your help. I need your testimony to put away the Skulz for good.}
+{166}{}{我需要你的帮助。为了大家的好处，我需要你的证言把骷髅党抓起来。}

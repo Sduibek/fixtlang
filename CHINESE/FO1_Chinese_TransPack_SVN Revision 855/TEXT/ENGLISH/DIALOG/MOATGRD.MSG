@@ -1,0 +1,44 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see a guard.}
+# {101}{}{What is your business here?}
+# {102}{}{Urr?}
+# {103}{}{I'm just looking around.}
+# {104}{}{I want to buy some weapons.}
+# {105}{}{}
+# {106}{}{}
+# {107}{}{I have no patience for jokes. If you do not leave this area now I will shoot you!}
+# {108}{}{We don't like nosy people. Go away now and I won't shoot you.}
+# {109}{}{}
+# {110}{}{}
+# {111}{}{You smell like a brahma but I bet you're not as intelligent.}
+# {112}{}{}
+# {113}{}{Ahh, very good. Customers are always welcome. Come in but please keep your weapons holstered. Go find Zack, he can set you up with anything you need.}
+# {114}{}{}
+# {115}{}{I need to speak to your boss.  It is very important.}
+# {116}{}{Oh, ok. Gabriel will talk to you. Go on in.}
+# {117}{}{Yeah, I remember you.  Go on in.}
+# {118}{}{I need to speak to Gabriel.  It is very important.}
+# {119}{}{I want to buy weapons from Zack.}
+{100}{}{你看到一个警卫。}
+{101}{}{你到这里有什么事？}
+{102}{}{呜？}
+{103}{}{我只是随便看看。}
+{104}{}{我想买几件武器。}
+{105}{}{}
+{106}{}{}
+{107}{}{我没兴趣听笑话，如果你不离开这个区我就用枪招呼你。}
+{108}{}{我不喜欢像你这种喜欢四处打探的人，现在走开就不用挨枪子儿了。}
+{109}{}{}
+{110}{}{}
+{111}{}{你闻上去像双头牛，不过我认为你没它那么聪明。}
+{112}{}{}
+{113}{}{呵，非常好。顾客总是受欢迎的。进来吧，但是你得把枪收起来。去找赞克，他能满足你的任何需要。}
+{114}{}{}
+{115}{}{我需要和你老板说话，这非常重要。}
+{116}{}{哦，好的。加布里尔有话对你说，进去吧。}
+{117}{}{是的，我记得你，进去吧。}
+{118}{}{我需要和加布里尔说话，这非常重要。}
+{119}{}{我想从赞克那买点武器。}
+

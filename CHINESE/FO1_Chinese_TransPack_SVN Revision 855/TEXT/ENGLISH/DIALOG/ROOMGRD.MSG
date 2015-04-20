@@ -1,0 +1,17 @@
+
+# {100}{}{You see a Brotherhood Guard.}
+# {101}{}{You shouldn't be in here Initiate.}
+# {102}{}{What are you doing in here?}
+# {103}{}{The guard room is for guards. You are not a guard. You are in the guardroom. Therefore YOU should leave.}
+# {104}{}{Please leave, you shouldn't be here.}
+# {105}{}{Hey, no Initiates.}
+# {106}{}{This is not the library my boy. If you want to browse go to the library.}
+# {107}{}{This is not the library my girl. If you want to browse go to the library.}
+{100}{}{你看到一个钢铁兄弟会的警卫。}
+{101}{}{新兵，你不该来这里。}
+{102}{}{你在这里干什么？}
+{103}{}{守卫房间是专门为守卫准备的，你不是守卫，而你正在守卫房间里，所以你出去吧。}
+{104}{}{请离开，你不该在这里。}
+{105}{}{嘿，这里不是新兵该来的地方。}
+{106}{}{这里不是图书馆，我的小伙子，如果你要浏览就去图书馆吧。}
+{107}{}{这里不是图书馆，我的小丫头，如果你要浏览就去图书馆吧。}

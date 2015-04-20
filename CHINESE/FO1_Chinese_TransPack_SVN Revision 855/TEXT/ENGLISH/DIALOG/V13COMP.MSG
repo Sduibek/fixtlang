@@ -1,0 +1,9 @@
+
+# {100}{}{You use the door computer. The computer does not recognize your access code.}
+# {101}{}{You use the door computer. A speaker crackles to life.}
+# {102}{}{Sorry, but we can't let you back in right now. Uh, technical problems. Try again later.}
+# {103}{}{You see the Vault-13 door entry computer.}
+{100}{}{你使用这台控制门的计算机。计算机无法识别你的密码。}
+{101}{}{你使用这台控制门的计算机。喇叭里劈劈啪啪地传来一个声音。}
+{102}{}{对不起，我们不能让你现在回到里面。嘿，技术问题。请晚些时候再试。}
+{103}{}{你看到13号避难所入口控制计算机。}

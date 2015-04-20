@@ -1,0 +1,79 @@
+
+#{100}{}{You see Cindy crying.}
+#{101}{}{You see Lisa crying.}
+#{102}{}{You see Sandy crying.}
+#{103}{}{You see Mary crying.}
+#{104}{}{You see Stacy crying.}
+#{105}{}{You see Susan crying.}
+#{106}{}{You see Cindy.}
+#{107}{}{You see Lisa.}
+#{108}{}{You see Sandy.}
+#{109}{}{You see Mary.}
+#{110}{}{You see Stacy.}
+#{111}{}{You see Susan.}
+#{112}{}{Hello, }
+#{113}{}{.
+# Have you found the water chip yet?}
+#{114}{}{No, not yet.}
+#{115}{}{I will. How are you doing?}
+#{116}{}{Urug!}
+#{117}{}{Oh . . . you don't understand me. I guess we really don't have
+# much hope after all. Excuse me while I cry.}
+#{118}{}{Ugg!}
+#{119}{}{Please find it before my baby dies of thirst.}
+#{120}{}{【Done】}
+#{121}{}{You've got to find it! Don't let us die like this!}
+#{122}{}{【Done】}
+#{123}{}{Keep trying. I believe in you. I know you will do everything
+# you can to save us.}
+#{124}{}{【Done】}
+#{125}{}{I am afraid of what is happening. Someone has been stealing
+# water and now everyone is on edge.}
+#{126}{}{Who would do such a thing?}
+#{127}{}{What happened?}
+#{128}{}{Some people have been accused and fights have broken out
+# over it but nobody really knows.}
+#{129}{}{Ok. Thanks.}
+#{130}{}{Some people reported that their water had been stolen.
+# They weren't given more water but some friends shared
+# with them. After this everybody got very paranoid and
+# started guarding their water. A few days later
+# someone knocked the guard out in the ration supply area
+# and stole water.}
+#{131}{}{That is terrible! What can I do?}
+#{132}{}{Maybe you can stop whoever is doing this.}
+#{133}{}{I'll take a look around.}
+{100}{}{你看到辛迪在哭泣。}
+{101}{}{你看到莉莎在哭泣。}
+{102}{}{你看到桑迪在哭泣。}
+{103}{}{你看到玛丽在哭泣。}
+{104}{}{你看到丝黛西在哭泣。}
+{105}{}{你看到苏珊在哭泣。}
+{106}{}{你看到辛迪。}
+{107}{}{你看到丽莎。}
+{108}{}{你看到桑迪。}
+{109}{}{你看到玛丽。}
+{110}{}{你看到丝黛西。}
+{111}{}{你看到苏珊。}
+{112}{}{你好，}
+{113}{}{。你找到净水芯片了吗？}
+{114}{}{没，还没找到。}
+{115}{}{我的天哪。你在做什么？}
+{116}{}{哦！}
+{117}{}{噢……你不明白。很抱歉我失态了，但是我现在真的很绝望。}
+{118}{}{呃！}
+{119}{}{求求你在我孩子渴死前找到它。}
+{120}{}{【确定】}
+{121}{}{你会找到它的！别让我们就这样渴死！}
+{122}{}{【确定】}
+{123}{}{加油。我相信你，不论发生什么你都会赶回来救我们的。}
+{124}{}{【确定】}
+{125}{}{现在的情况很不好。已经有人开始偷水了，避难所的秩序也在崩溃的边缘。}
+{126}{}{谁会去做这样的事情？}
+{127}{}{发生了什么？}
+{128}{}{人们相互指责并爆发了群殴，但是没人了解真相。}
+{129}{}{好的。非常感谢。}
+{130}{}{已经有许多人因储存水被盗而报警。幸亏一些朋友分给他们水他们才没有陷入窘困境。这也使得很多人变得过分敏感，开始日夜守着他们的水。几天后更发生了袭击配给供应区警卫人员的偷水事件。}
+{131}{}{那太可怕了！我又能怎么办呢？}
+{132}{}{也许你能找出是谁干了这件事。}
+{133}{}{我去看看能做啥。}

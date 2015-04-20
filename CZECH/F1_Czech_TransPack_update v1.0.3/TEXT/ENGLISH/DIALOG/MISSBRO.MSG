@@ -1,0 +1,47 @@
+{100}{}{Vidíš odøeného mue.}
+{101}{}{Díky, cizinèe! Nevím, jak dlouho mì tu ti bastardi dreli. Jsem ti za tvou pomoc velmi vdìènı a vìøím, e Bratrstvo bude té.}
+{102}{}{Bratrstvo oceli?}
+{103}{}{Rád jsem pomohl.}
+{104}{}{Budeš v poøádku?}
+{105}{}{Já jsem z Bratrstva. Hledám tì.}
+{106}{}{Rádo se stalo. Sbohem.}
+{107}{}{Uf.}
+{108}{}{Ještì jsi o nás neslyšel? To mì pøekvapuje. Asi se z Hubu moc ven nepodíváš, co. Mìl bys víc cestovat. Sídlíme na severozápadì, na západním úboèí hor.}
+{109}{}{Dìkuji ti za pomoc, ale proè se mi snaíš lhát. Nemyslíš, e asi znám všechny èleny našeho øádu?}
+{110}{}{Poslal mì Talus.}
+{111}{}{Nemùeš mì znát, protoe jsem se právì pøipojil.}
+{112}{}{Asi nevíš, o èem mluvíš.}
+{113}{}{Ještì jednou díky! Pokud bys mìl cestu kolem Bratrstva, dej jim vìdìt, e jsem v pohodì. Talus u má jistì strach. Dávej na sebe pozor.}
+{114}{}{Jo u budu dobrej, díky. Mám poblí pár pøátel, take tu mohu nabrat síly, ne vyrazím na cestu zpìt. Pokusím se poslat do Bratrstva zprávu, e jsem díky tobì v poøádku. Sbohem.}
+{115}{}{Jak..., promiò. Musel jsi projít "zkouškou" Staøešinù. Úplnì jsem na to zapomnìl. Moje díky jsou ještì hlubší. Jsem rád, e ses nikdy nevzdal. Muselo ti dát práci najít mì v tomhle ohromném mìstì. Ty pøekáky, co jsi musel pøekonat. Nasadil jsi pro mì ivot.}
+{116}{}{No, víš jsem prostì tak dobrej, no.}
+{117}{}{Vlastnì to bylo celkem snadné. Talus vìdìl, kam jsi šel.}
+{118}{}{Prostì štìstí, nic víc.}
+{119}{}{Rádo se stalo. Jsem rád, e jsem tì našel.}
+{120}{}{Och... Stejnì jsem ti zavázán.}
+{121}{}{Pøedpokládám. Odvedl jsi kus poctivé práce.}
+{122}{}{No, rád jsem pomohl.}
+{123}{}{Budeš v pohodì?}
+{124}{}{Jo, jasnì, díky. Zùstanu tady u svého pøítele, dokud se nedám dohromady. Jo, trochu jsem se tady porozhlédnul. Mí hostitelé mluvili èasto o Cechu zlodìjù. Myslím, e to bude tady nìkde poblí. Proto se mí vìznitelé asi chtìli pøesunout jinam. Mìj se.}
+{125}{}{Jsem rád, e ti štìstí pøálo. Slyšel jsem nìjaké divoké zkazky ze Starého mìsta. Skagové jsou divní, ale v tomhle jde o nìco víc.}
+{126}{}{Cokoli øekneš. Jsem prostì šastnı, e jsem zase na svobodì. Muèení nesnáším dobøe.}
+{127}{}{Ne, vánì, Talus mì poslal.}
+{128}{}{No, rád jsem pomohl.}
+{129}{}{Budeš v pohodì?}
+{130}{}{Moná ne. Mám problémy s pamatováním si vìcí. Asi mi nìco dávali do jídla.}
+{131}{}{Ne, vánì, Talus mì poslal.}
+{132}{}{No, rád jsem pomohl.}
+{133}{}{Budeš v pohodì?}
+{134}{}{Rád tì zase vidím.}
+{135}{}{Brzo vyrazím. Jen sbírám síly.}
+{136}{}{Ještì jednou díky.}
+
+# // Tell me abouts
+{1000}{}{bratrstvo}
+{1001}{}{oceli}
+{1002}{}{Talus}
+
+# // Answers
+{1100}{}{Jediné vykoupení pro tuto planetu a její lidi. Bez Bratrstva lidi èeká jen utrpení.}
+{1101}{}{Jediné vykoupení pro tuto planetu a její lidi. Bez Bratrstva lidi èeká jen utrpení.}
+{1102}{}{Je to mùj uèitel a ochránce. Tìším se, a ho zase uvidím.}

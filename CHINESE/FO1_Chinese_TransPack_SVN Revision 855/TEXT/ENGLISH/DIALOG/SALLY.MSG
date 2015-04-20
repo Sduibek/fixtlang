@@ -1,0 +1,34 @@
+# {100}{}{You see Sally.}
+# {101}{}{Why does everyone talk to me funny??}
+# {102}{}{The mutant ignores you.}
+{100}{}{你看到赛莉。}
+{101}{}{为什么大家都笑话我？？}
+{102}{}{这个变种人不理你。}
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Chip-芯片、Necropolis-大墓地城、Set-赛特、Watershed-水处理房、Hall-大厅、Lou-老副、Ghouls-僵尸、Normals-正常人。}
+
+{1000}{}{Chip}
+{1001}{}{Necropolis}
+{1002}{}{Set}
+{1003}{}{Watershed}
+{1004}{}{Hall}
+{1005}{}{Lou}
+{1006}{}{Ghouls}
+{1007}{}{Normals}
+# {1100}{}{I dunno.}
+# {1101}{}{Yer standin in it.}
+# {1102}{}{He's a wus. We should just wipe out him and his ghouls.}
+# {1103}{}{That's here.}
+# {1104}{}{I dunno.}
+# {1105}{}{He Harry's boss.}
+# {1106}{}{Wimpy things.}
+# {1107}{}{Wimpier than ghouls.}
+{1100}{}{我不知道。}
+{1101}{}{是，你就在这里。}
+{1102}{}{他是大便，我们应该把他和他的僵尸们都杀死。}
+{1103}{}{这里就是。}
+{1104}{}{我不知道。}
+{1105}{}{他是哈里的老板。}
+{1106}{}{孬种。}
+{1107}{}{比僵尸还没用。}

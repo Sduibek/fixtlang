@@ -1,0 +1,288 @@
+{100}{}{Vidíš malého, podsaditého mue.}
+{101}{}{Tobì podobné tady nevidíme rádi.}
+{102}{}{Buï zdráv, cizinèe. Zdá se, e jsi tu novı. Jak 
+ se jmenuješ?}
+{103}{}{To není dùleité.}
+{104}{}{Jmenuju se }
+{105}{}{.}
+{106}{}{He?}
+{107}{}{Dobøe, pak ani ty ne.}
+{108}{}{Rád tì poznávám. Já jsem Ian.}
+{109}{}{Co tady dìláš?}
+{110}{}{Chtìl bys se dovìdìt víc o tomhle místì. Pomùeš mi?}
+{111}{}{Promiò, ale nemám èas na rozmluvy s pitomci.}
+{112}{}{Dìlal jsem ozbrojenı doprovod obchodníkùm z Hubu. A jednou jsem
+ to koupil pøi nájezdu banditù. Zùstávám tady, lidi mi tu pomohli dát se
+ dohromady. Se svımi znalostmi vnìjšího svìta jsem zdejším lidem dost uiteènı.
+ Shady Sands se stalo mım domovem. Obèas dokonce vyrazím do Junktownu
+ nebo do Hubu za nìjakımi obchody. Jsem tu vlastnì jedinı, 
+ kdo kdy opustil tohle mìsto.}
+{113}{}{Vidíš Iana.}
+{114}{}{Mrzí mì, e tì zranili.}
+{115}{}{Kde je Hub a Junktown?}
+{116}{}{Mùeš mi øíct víc o banditech?}
+{117}{}{Shady Sands je malá sobìstaèná, spoleènost. Jedinı problém tu 
+ jsou nájezdníci a radškorpióni.}
+{118}{}{Co za problém jsou radškorpióni?}
+{119}{}{Je v okolí hodnì nájezdníkù?}
+{120}{}{Je jich nìkolik. A jsou to rùzné tlupy. Kradou
+ naše jídlo a obèas i nìkoho zabijí. Seth organizuje hlídky,
+ abychom se jim ubránili.}
+{121}{}{Mùeš mi prozradit nìco o Sethovi?}
+{122}{}{Rùzné tlupy? Co jsou zaè?}
+{123}{}{Radškorpióni jsou velmi nebezpeèní. Mají jedovaté ihadlo na
+ špièce ocasu a jsou hroznì rychlí. Aradesh se pokouší vymyslet
+ zpùsob, jak se jich jednou pro vdy zbavit. Pokud se na to cítíš,
+ mùeš si o nich s Aradeshem promluvit.}
+{124}{}{Díky. Léèení probìhlo v pohodì, hlavnì díky Razlovi.}
+{125}{}{Seth je velmi udatnı bojovník. Obèas se vydává do jeskyní
+ škorpiónù, aby jich pár zabil, ale oni se vdy objeví znovu. Je jich
+ prostì moc, ne aby je vyøídil sám.}
+{126}{}{Jsou radškorpióni opravdu tak nebezpeèní?}
+{127}{}{S èím ti mùu pomoct?}
+{128}{}{Známe tøi skupiny: Khanové, Zmije a Šakalové.
+ Nenávidí se navzájem, ale všichni plení Shady Sands.}
+{129}{}{Øekni mi víc o Shady Sands.}
+{130}{}{Má jistı a uvolnìnı postoj zkušeného bojovníka.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 131 and 132.
+{131}{}{Á, }
+{132}{}{, co pro tebe mùu udìlat?}
+{133}{}{Øekni mi o nájezdnících.}
+{134}{}{Øekni mi o radškorpionech.}
+{135}{}{Øekni mi o Shady Sands.}
+{136}{}{Øekni mi o Sethovi.}
+{137}{}{Prozradíš mi kudy se dostanu do Hubu a do Junktownu?}
+{138}{}{Nic, díky.}
+{139}{}{Hub je velké obchodní centrum daleko na jih od Shady Sands. Ovládá ho
+ pár skupin karavanních obchodníkù: Kupci s vodou,
+ Crimson Caravan a Far Go Traders. Junktown je mírnì na jihozápad.
+ Je menší, ale stejnì se v nìm dá zastavit na pár panákù. Celému mìstu 
+ šéfuje chlapík jménem Killian Darkwater, místní majitel obchodu, šerif a starosta v jedné osobì.}
+{140}{}{Díky.}
+{141}{}{Moná u nejsem tak skvìlı bojovník,
+ ale na tobì podobné ještì poøád staèím!}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 142 and 143.
+{142}{}{Co pro tebe mùu udìlat, }
+{143}{}{?}
+{144}{}{Hmm. Nic.}
+{145}{}{Víš, chtìl bych bıt chvíli sám...}
+{146}{}{Prozradíš mi, kudy se dostanu do Hubu a do Junktownu?}
+{147}{}{Dobøe, tak zatím. Ještì se uvidíme.}
+{148}{}{Ne, díky. Mì potøebují tady.}
+{149}{}{Nepøidal by ses ke mì, na èas? Tvé zkušenosti by se mohly hodit.}
+{150}{}{Jasnì. Nebude špatné vyrazit zase na cesty!}
+{151}{}{To je Killianùv hlavní obchod. Killian je dobrı chlapík a v obchodì
+ má docela širokı vıbìr.}
+{152}{}{Gizmovo kasino. Centrum hazardu a nekalıch rejdù. Pozor; øíká se,
+ e hry jsou zmanipulované.}
+{153}{}{Tohle místo je hroznı.}
+{154}{}{Co se tu kurva stalo?}
+{155}{}{Tohle bude tìkej oøíšek k rozlousknutí.}
+{156}{}{Hmm. Zajímavá nabídka, tady u se zaèínám nudit. Nìco ti øeknu. Bìná 
+ taxa. 100 babek na ruku a jsem tvùj èlovìk.}
+{157}{}{Platí.}
+{158}{}{Ne, díky.}
+{159}{}{A co takhle místo toho trochu akce?}
+{160}{}{Dobrá, pomùu ti vımìnou za podíl na budoucí koøisti.}
+{161}{}{Ne, to si nemyslím. Vra se, a budeš mít peníze.}
+{162}{}{To je obchod se zbranìmi. Vede ho Beth. Na zbranì je dobrá, ale
+ na drby ještì lepší.}
+{163}{}{Jakeovy zbranì. Vysoké ceny, ale vıborná kvalita.}
+{164}{}{Kanceláø Kupcù s vodou. To jsou nejvìtší bossové v Hubu, protoe
+ mají pod palcem vodní zásoby, tak to všechno øídí.}
+{165}{}{To je Crimson Caravan. Pracoval jsem pro nì. Pouštìjí se
+ do tìch nejriskantnìjších podnikù.}
+{166}{}{Far Go Traders, vlastníkem je Butch Harris. Je trochu jako uøvanej lampasák, jestli mi rozumíš.}
+{167}{}{Á, to je Maltese Falcon. Dobrá hudba, dobrı pití,
+ vybraná spoleènost.}
+{168}{}{To je ale hnusnej zkurvysyn!}
+{169}{}{Získal jsi 100 bodù zkušenosti za pøemluvení Iana, aby se k tobì pøipojil.}
+{170}{}{U jsem o podobnejch místech slyšel, ale nikdy jsem v ádnım nebyl. Vypadá pìknì a èistì . . . trochu moc èistì, na mùj vkus.}
+{171}{}{Ne e ses mì ptal, ale èlovìk ti potøebuje dát prostor k nadechnutí.}
+{172}{}{Víš, ta enská nedokáe vést v tangu, nato revoluci.}
+{173}{}{Jaké zbranì dobøe ovládáš?}
+{174}{}{Dobøe støílím s jakoukoli pistolí, umím to i se samopalem.
+ A samozøejmì to umím dost dobøe s noem.}
+
+#
+# Translation note
+# The following line is directed at Katja, a female scavenger, not at the player.
+# Ian is noting that he thinks that the Boneyard was a worse place than the
+# mutants' military base.
+#
+
+{175}{}{Myslím, e Pohøebištì je horší.}
+
+
+{200}{}{Vytas v pøíští bitvì nejlepší zbraò, co máš.}
+{201}{}{Provedu.}
+{202}{}{Mùu pro tebe nìco udìlat, ne pùjdu?}
+{203}{}{Uhm, jo. Nakonec si myslím, e bychom mìli zùstat spolu.}
+{204}{}{Uh, ne. Díky.}
+
+#
+# Ian tell-me-abouts
+#
+
+{1000}{}{vodna}
+{1001}{}{valka}
+{1002}{}{Shady}
+{1003}{}{Junktown}
+{1004}{}{Hub}
+{1005}{}{najezdnici}
+{1006}{}{karavany}
+{1007}{}{Cip}
+{1008}{}{Sands}
+{1009}{}{naslednici}
+{1010}{}{katedrala}
+{1011}{}{Garl}
+{1012}{}{vudce}
+{1013}{}{jednota}
+{1014}{}{Set}
+{1015}{}{vodarna}
+{1016}{}{Nekropolis}
+{1017}{}{hala}
+{1018}{}{knihovna}
+{1019}{}{spravce}
+{1020}{}{doktor}
+{1021}{}{leceni}
+{1022}{}{Vault}
+{1023}{}{Vault-13}
+{1024}{}{Vault13}
+{1025}{}{Killian}
+{1026}{}{Gizmo}
+{1027}{}{Pohrebiste}
+{1028}{}{kasino}
+{1029}{}{obchod}
+{1030}{}{parac}
+{1031}{}{Exodus}
+{1032}{}{zasveceni}
+{1033}{}{Paladini}
+{1034}{}{pisari}
+{1035}{}{deti}
+{1036}{}{Bratrstvo}
+{1037}{}{nadrze}
+{1038}{}{vojenska}
+{1039}{}{zakladna}
+{1041}{}{apokalypsa}
+{1042}{}{Mutanti}
+{1043}{}{Morpheus}
+{1044}{}{Khanove}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{chlast}
+{1052}{}{prasky}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Regulatori}
+{1058}{}{Scavove}
+{1059}{}{Blades}
+{1060}{}{Nicole}
+{1061}{}{porucik}
+{1062}{}{drogy}
+{1063}{}{Experimenty}
+{1064}{}{Policie}
+{1065}{}{obchodnici}
+
+{1100}{}{Nemám tušení, co je to vodní èip. Promiò, kámo.}
+{1101}{}{Stalo se to pøed pár desítkama let. V zásadì se pár státù poøádnì
+ nasralo a následovalo poøádnı BUM!}
+{1102}{}{Malá mírumilovná vesnice. Pravdìpodobnì nejslibnìjší spoleènost v
+ Pustinách.}
+{1103}{}{Støednì velké mìsto postavené ze šrotu, vede to tam šerif Killian. Je to jen pár dní na jihozápad od Shady Sands.}
+{1104}{}{Hub je nejvìtší obchodní centrum Nového západu. Hlavní slovo v nìm mají
+ Kupci s vodou, ale najdou se tam i jiné skupiny obchodníkù. Je to mìsto na vzestupu, ale je tam spousta politikaøení mezi jednotlivımi obchodnickımi seskupeními.}
+{1105}{}{Je tu nìkolik rùznıch skupin nájezdníkù. Nejuspoøádanìjší je tlupa,
+ která si øíká Khanové; ti si snad myslí, e by mohli dobıt celı
+ svìt.}
+{1106}{}{Vìtšina karavan vyjídí z Hubu. Cestují do všech koutù. Pracoval jsem pro skupinu zvanou Crimson Caravan, pøed tím zranìním.}
+{1107}{}{Nemám tušení, co je to vodní èip. Promiò, kámo.}
+{1108}{}{Malá mírumilovná vesnice. Pravdìpodobnì nejslibnìjší spoleènost v
+ Pustinách.}
+{1109}{}{Promiò, kámo. Moc toho nevím.}
+{1110}{}{Promiò, kámo. Moc toho nevím.}
+{1111}{}{Garl je nìjakej pošahanej zmrd, kterej si myslí, e by mohl vládnout svìtu se svejma posranejma poskokama. Jo, to urèitì.}
+{1112}{}{Promiò, kámo. Moc toho nevím.}
+{1113}{}{Promiò, kámo. Moc toho nevím.}
+{1114}{}{Promiò, kámo. Moc toho nevím.}
+{1115}{}{Promiò, kámo. Moc toho nevím.}
+{1116}{}{Není to bájné Mìsto mrtvıch?}
+{1117}{}{Promiò, kámo. Moc toho nevím.}
+{1118}{}{Promiò, kámo. Moc toho nevím.}
+{1119}{}{Promiò, kámo. Moc toho nevím.}
+{1120}{}{Razlo je vıbornı doktor. Mìl bys ho navštívit, pokud jsi zranìn.}
+{1121}{}{Razlo umí uzdravovat fakt dobøe, a jeho kapky jsou proslavenı!}
+{1122}{}{Promiò, kámo. Moc toho nevím.}
+{1123}{}{Promiò, kámo. Moc toho nevím.}
+{1124}{}{Promiò, kámo. Moc toho nevím.}
+{1125}{}{Killian je starosta Junktownu. Má tam i obchod. Je to 
+ férovej chlap. Nikdy jsem pro nìj nemakal, ale vypadá v pohodì.}
+{1126}{}{Gizmo má v Junktownu kasino. Slyšel jsem, e podvodnı.}
+{1127}{}{Promiò, kámo. Moc toho nevím.}
+{1128}{}{Kasino je Gizmùv obøí projekt v Junktownu. Pøináší to mìstu
+ davy turistù a penìz, ale samozøejmì i problémy.}
+{1129}{}{Killian má obchod v Junktownu.}
+{1130}{}{Promiò, kámo. Moc toho nevím.}
+{1131}{}{Promiò, kámo. Moc toho nevím.}
+{1132}{}{Promiò, kámo. Moc toho nevím.}
+{1133}{}{Promiò, kámo. Moc toho nevím.}
+{1134}{}{Promiò, kámo. Moc toho nevím.}
+{1135}{}{Jo, nìjakı dìti jsou v Shady Sands. Co? Nic mojeho.}
+{1136}{}{Promiò, kámo. Moc toho nevím.}
+{1137}{}{Promiò, kámo. Moc toho nevím.}
+{1138}{}{Promiò, kámo. Moc toho nevím.}
+{1139}{}{Promiò, kámo. Moc toho nevím.}
+{1141}{}{Víš, my vdycky povedeme války. Jenom ta pøíští bude vedena 
+ pomocí klackù.}
+{1142}{}{Vidìl jsem hodnì podivnıch vìcí, kdy jsem hlídal karavany.
+ Mutovaní kojoti, kudlanky, škorpióni a tak.}
+{1143}{}{Promiò, kámo. Moc toho nevím.}
+{1144}{}{Je to ubohá skupinka nájezdníkù, kteøí pøepadají Shady Sands a myslí si, e by mohli ovládnout svìt nebo podobnou kravinu.}
+{1145}{}{Je to Aradeshova dcera. Je dost pìkná, ale na 
+ mì u jedna doma èeká.}
+{1146}{}{Promiò, kámo. Moc toho nevím.}
+{1147}{}{Promiò, kámo. Moc toho nevím.}
+{1148}{}{Promiò, kámo. Moc toho nevím.}
+{1149}{}{Promiò, kámo. Moc toho nevím.}
+{1150}{}{Promiò, kámo. Moc toho nevím.}
+{1151}{}{Nìjakı pivko?}
+{1152}{}{Pouil jsem jednou drogu Psycho. Byl jsem jen nervózní. Divnì.}
+{1153}{}{Seth je kapitán strácù. Mezi námi, neohlídal by ani jablko
+ pøibitı k vlastní noze.}
+{1154}{}{Aradesh je vùdcem v Shady Sands. Trpìlivı èlovìk, moná 
+ trochu bláznivı.}
+{1155}{}{Hej, pokud potøebuješ pomoc, Razlo je ten pravı. Razlo je fajn doktor.}
+{1156}{}{Promiò, kámo. Moc toho nevím.}
+{1157}{}{Promiò, kámo. Moc toho nevím.}
+{1158}{}{Promiò, kámo. Moc toho nevím.}
+{1159}{}{Promiò, kámo. Moc toho nevím.}
+{1160}{}{Promiò, kámo. Moc toho nevím.}
+{1161}{}{Promiò, kámo. Moc toho nevím.}
+{1162}{}{Nevím. Moná e nìco, ale ádnı dùkazy.}
+{1163}{}{Promiò, kámo. Moc toho nevím.}
+{1164}{}{Promiò, kámo. Moc toho nevím.}
+{1165}{}{Nìkteøí kupci pøicházejí z Hubu do Junktownu za obchodem. To je vše,
+ co vím.}
+
+{1999}{}{Cítím se teï silnìjší!}
+
+{2000}{}{Promluvme si o taktice v boji.}
+
+{2001}{}{Poslouchám tì.}
+
+{2010}{}{Pouij nejlepší zbraò co máš.}
+{2011}{}{Pouij nejlepší zbroj co máš.}
+{2012}{}{Bude lepší, kdy zùstaneš vzadu.}
+{2013}{}{Jdi nepøíteli po krku.}
+{2014}{}{Hejbej zadkem jak se ti zlíbí.}
+{2015}{}{Nechci se teï bavit o boji.}
+
+{2100}{}{Oukej. Souhlasím.}

@@ -1,0 +1,11 @@
+
+# {100}{}{The door is locked.}
+# {101}{}{You pick the lock.}
+# {102}{}{You attempt to pick the lock, but fail.}
+# {103}{}{While picking the lock, you manage to tweak the tumblers and jam it.}
+# {104}{}{The door isn't locked.}
+{100}{}{这扇门是锁着的。}
+{101}{}{你解开这把锁。}
+{102}{}{你试着开锁，但失败了。}
+{103}{}{你想尽办法打开这把锁，但是你把锁眼给堵了。}
+{104}{}{这扇门没上锁。}

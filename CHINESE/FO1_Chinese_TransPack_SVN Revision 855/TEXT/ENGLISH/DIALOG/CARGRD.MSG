@@ -1,0 +1,102 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+#{100}{}{You see a Caravan Guard.}
+{100}{}{你看见商队护卫。}
+#{101}{}{I can't believe we lost the boss. Do you want to come back with us?
+# We can still pay you the 400 scripts.}
+{101}{}{老板居然挂了。你愿意跟我们回去吗？我们仍会付你400块。}
+#{102}{}{It's a shame we lost the Driver; Rutger won't like that one bit.
+# If you want, we can still pay you the same to come back with us to
+# the Hub.}
+{102}{}{车夫死了，真惨。罗格尔会不高兴的。如果你愿意跟我们回哈勃城，我们会付你相同的薪水。}
+#{103}{}{You coming back with us? I'll drive this thing. The pay'll be the
+# same.}
+{103}{}{你愿意跟我们一起回去吗？我会赶车。报酬价格一样。}
+#{104}{}{Well, I don't know about you, but I think I'll wait around for another
+# caravan. I don't want to go back alone. If you want to go back I'll go
+# with you, but if I don't make it you won't get paid the 400 scripts.}
+{104}{}{我不知道你怎么打算的。我可以再这里等下一趟商队，我可不想自己一个人回去。如果你也想回去，我就跟你走，但如果我路上挂了，你就拿不到那400块了。}
+#{105}{}{That was pretty nasty. If you really want, I can get you another
+# 400 scripts if you come back to the Hub with me. It's dangerous for one
+# person.}
+{105}{}{太糟了。如果你同意，我会再给你400块作为你陪我回哈勃的报酬。一个人走太危险了。}
+#{106}{}{You'll get another 400 scripts if you can get me and the caravan
+# back safely to the Hub, but only if I make it. You've got to cover
+# me if we get in a fight.}
+{106}{}{如果你能帮我和车队安全返回哈勃城，我会再给你400块，但是如果我路上挂了，你就没钱拿了。打仗时，你要掩护我。}
+#{107}{}{Okay, I'll go with you.}
+{107}{}{好，我跟你走。}
+#{108}{}{No thanks. I've had enough guard duty.}
+{108}{}{不，谢了，我做够护卫了。}
+#{109}{}{Tuk.}
+{109}{}{呼。}
+#{110}{}{Great! Let's get out of here!}
+{110}{}{好极了！我们走！}
+#{111}{}{Okay, I understand.}
+{111}{}{好吧，我能理解。}
+#{112}{}{I'll make due.}
+{112}{}{我会尽力的。}
+#{113}{}{All right.}
+{113}{}{好的。}
+#{114}{}{Are you all right?}
+{114}{}{你还好么？}
+#{115}{}{I think you need some rest.}
+{115}{}{我觉得你应该休息休息。}
+#{116}{}{Uh, I think you should see the Brotherhood's Doctor.}
+{116}{}{我觉得你应该去兄弟会的医生那里治疗一下。}
+#{117}{}{We lost the boss. Can you come back with us? We can still pay you
+# the 400 scripts.}
+{117}{}{老板死了，你能跟我们回去么？价钱还是一样，我们会付给你400块。}
+#{118}{}{Our Driver was a good person . . . a terrible loss. I can still pay
+# you the 400 scripts if you want to come back with us to the Hub.}
+{118}{}{车夫是个好人……没想到，唉，真可怜。你能跟我们回哈勃去吗？价钱还是一样，我们会付给你400块。}
+#{119}{}{I'll get us back if you want to come with us. The pay'll be the
+# same.}
+{119}{}{如果你跟我们走，我会把队伍带回去。给你的工钱照旧。}
+#{120}{}{Wow, I can't believe we're the only two left. I'll go with you,
+# but if I don't make it you won't get paid the 400 scripts.}
+{120}{}{天，没想到只剩下我们两个人了。我会跟你回去，但如果我路上挂了，你就拿不到那400块了。}
+#{121}{}{That was pretty nasty. If you really want, I can get you
+# another 400 scripts if you come back to the Hub with me. It's too
+# dangerous for one person.}
+{121}{}{真惨啊。你能跟我回哈勃城去吗？价钱还是一样，我会付给你400块。一个人走太危险了。}
+#{122}{}{You'll get another 400 scripts if you can get me and the caravan
+# back safely to the Hub, but only if I make it. You've got to cover
+# me if we get in a fight.}
+{122}{}{如果你能帮我和商队安全回到哈勃，我会再给你400块，但是如果我路上挂了，你就没钱拿了。记得打仗时要掩护我。}
+#{123}{}{So, did you change your mind?}
+{123}{}{那么，你改主意了？}
+#{124}{}{Yes, I'll take the job.}
+{124}{}{好，我干#{125}{}{No.}
+#{126}{}{Hra?}
+#{127}{}{Sorry, we're not going back to the Hub today.}
+#{128}{}{Um, sorry. I don't think we need you for the return trip.}
+#{129}{}{Talk to our Caravan Driver if you want to hire on.}
+#{130}{}{Hi there. If you're looking for some work, see our Caravan
+# Driver.}
+#{131}{}{Why, hello.}
+#{132}{}{Sorry, can't talk.}
+#{133}{}{Coming back to the Hub with us?}
+#{134}{}{I love Caravan duty, lots of action and caps.}
+#{135}{}{The Far Go Traders are great to work for.}
+#{136}{}{I like working for the Far Go Traders; they don't take stupid risks.}
+#{137}{}{The Crimson Caravan's caravans are the best.}
+#{138}{}{The Crimson Caravan pays so well, I'll retire in a year.}
+#{139}{}{Talk to the other guard if you want to come back with us.}  
+#{140}{}{Here're your caps. We could use a hand getting back if you can.}。}
+{125}{}{不干。}
+{126}{}{哈？}
+{127}{}{抱歉，我们今天不回哈勃城。}
+{128}{}{嗯，对不起，我想我们回程不需要你了。}
+{129}{}{如果你想继续干，和车夫说吧。}
+{130}{}{嗨，如果你想找活儿干，和我们车夫说去。}
+{131}{}{嘿，你好。}
+{132}{}{抱歉，我现在不能聊天。}
+{133}{}{想和我们回哈勃城吗？}
+{134}{}{我喜欢护卫的活儿，又刺激又有钱拿。}
+{135}{}{远行商队是个好主顾。}
+{136}{}{我喜欢为远行商队保镖，他们不会乱冒险。}
+{137}{}{深红商队是最棒的。}
+{138}{}{深红商队钱给得多，我一年后就可以退休了，哈。}
+{139}{}{如果你想跟我们回程，和另外一个保镖谈。}  
+{140}{}{这是你的钱，如果你方便的话，可以帮我们回程。}

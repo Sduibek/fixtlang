@@ -1,0 +1,455 @@
+{1099}{}{?}
+{1199}{}{我可以告诉你：Vree-芙蕾、Rhombus-隆伯斯、Elder-最高元老、Elders-元老、Scribes-研究员、Knights-骑士、Hub-哈勃城、Disks-磁碟、Merchants-商人、Brotherhood-兄弟会、Ancient-古代、Exodus-远征、Cabbot-卡波特、Order-命令、paladins-游侠、Master-主教、War-大战、Army-军队、Caravans-商队、Cathedral-大教堂、Chip-芯片。}
+
+
+# {100}{}{You see Cabbot, an Initiate of the Brotherhood of Steel.}
+# {100}{}{You see Cabbot, an Initiate of the Brotherhood of Steel.}
+# {101}{Cab_1}{Hello and welcome to the Brotherhood of Steel.
+#  May I ask your business here?}
+# {102}{}{Who're you?}
+# {103}{}{Can I ask you a few questions?}
+# {104}{}{Uhhh?}
+# {105}{}{I'd like to join.}
+# {106}{}{What do you do?}
+# {107}{}{Never mind, thanks.}
+# {108}{Cab_2}{Uh, I'm Cabbot, but uh, you didn't answer me. What can
+#  I do for you? }
+# {109}{}{Can I ask you a few questions?}
+# {110}{}{Oh yeah, as if you'd like to know.}
+# {111}{}{I'd like to join.}
+# {112}{}{What do you do?}
+# {113}{}{Never mind, thanks.}
+# {114}{Cab_4}{That's great! Uh, W-Wait here a second and let me see what you need to do!}
+# {115}{Cab_5}{Uh, well, I talked to the High Elder, and he said that not just anyone can
+#  join. He, um, he said you have to complete a quest first. }
+# {116}{}{Like what?}
+# {117}{}{Never mind, see you later.}
+# {118}{}{Did you do a quest before you joined?}
+# {119}{Cab_5a}{Uh, not exactly. But things are a bit different right now. }
+# {120}{}{So what's the quest?}
+# {121}{}{So tell me what's different.}
+# {122}{}{Never mind then, I'll come back another time.}
+# {123}{Cab_6}{You have to go to the ruins of the Ancient Order. That's south
+#  of here. Uh, you've gotta go inside and bring back something that
+#  proves that you were there.}
+# {124}{}{How will you know if it is from inside this place?}
+# {125}{}{Okay.}
+# {126}{}{No way in hell.}
+# {127}{Cab_7}{This place is high tech. There's things inside like you've never
+#  seen before. Oh, uh, it's also radioactive. Aheh.}
+# {128}{}{Okay, I'll do it.}
+# {129}{}{Sounds scary. Count me out.}
+# {130}{Cab_9}{You'll do it? You will? Great! Just bring it back here! Good Luck.}
+# {131}{Cab_10}{Oh . . . okay, then.  Goodbye. }
+# {132}{Cab_12}{Well uh, I'm an Initiate. Right now, my job is to greet people at the door.}
+# {133}{}{Doesn't sound terribly exciting, but I still want to
+#  join the Brotherhood.}
+# {134}{}{Okay, thanks. See you around.}
+# {135}{}{Can I ask you a few questions?}
+# {136}{Cab_16}{Well uh, I have to ask. It's my job.}
+# {137}{}{Can I ask you a few questions?}
+# {138}{}{Can I join the Brotherhood?}
+# {139}{}{I don't have to tell you anything. Go get your commander.}
+# {140}{}{Well then, I'll just be going now.}
+# {141}{Cab_17}{I'm sorry, I really can't. Th-They said not to. Goodbye!}
+# {142}{Cab_18}{No! Go away! }
+# {143}{Cab_19g}{Well, hello again. You decide what you wanted?}
+# {144}{Cab_19n}{Hello. What do you need now?}
+# {145}{}{I've changed my mind. I want to join the Brotherhood.}
+# {146}{}{Can I ask you a few questions?}
+# {147}{}{Never mind. Goodbye.}
+# {148}{Cab_20}{You're making fun of me, aren't you? Good-bye! }
+# {149}{Cab_21}{Go away!}
+# {150}{}{Please, I'm sorry I made you angry. Can we try again?}
+# {151}{}{Okay.}
+# {152}{Cab_22}{No! I think you're just lying to me. Goodbye!}
+# {153}{Cab_23}{Hmmm. All right, I'll believe you for now. So what do you want?}
+# {154}{}{I've changed my mind. I want to join the Brotherhood.}
+# {155}{}{Can I ask you a few questions?}
+# {156}{}{Never mind. Goodbye.}
+# {157}{Cab_24}{Hey! You're back! Did you get something?}
+# {158}{}{Yep, sure did.}
+# {159}{}{No, I didn't yet.}
+# {160}{Cab_25}{Great! But . . . um . . . the High Elder said you have
+#  to give it to me first before you can be let in. Sorry.}
+# {161}{}{Okay.}
+# {162}{}{No, I don't want to.}
+# {163}{Cab_27}{This is great! Hang on while I open the door.}
+# {164}{}{OK.}
+# {165}{Cab_28}{Hmmm . . . Sorry, but, uh, this could have come from anywhere.}
+# {166}{}{But . . .}
+# {167}{Cab_30}{Alright, so I'm gonna let you in. But I'm gonna tell ya' what's going on
+#  after I do that. Alright? I'll be in the guard room. You can let yourself out, but I have
+#  to let you back in. Oh, and the High Elder wants to speak with
+#  you in the war room. It's on the third floor.}
+# {168}{Cab_31}{You don't need to lie. Just come back when you have something.}
+# {169}{Cab_32}{Well, let me know when you do.}
+# {170}{Cab_33g}{Hello! You want back in?}
+# {171}{Cab_33b}{Are you coming back in?}
+# {172}{Cab_33n}{You want back in?}
+# {173}{}{Yes, please.}
+# {174}{}{If you'd open the gate.}
+# {175}{Cab_34g}{Great! See you around, huh?}
+# {176}{Cab_34b}{Fine.}
+# {177}{Cab_34n}{Okay.}
+# {178}{}{What exactly do you do?}
+# {179}{}{Heard any good rumors lately?}
+# {180}{}{Goodbye, Cabbot.}
+# {181}{Cab_35a}{Go ahead.}
+# {182}{Cab_36g}{Well hello! What can I help you with?}
+# {183}{Cab_36b}{What do you need?}
+# {184}{Cab_36n}{Can I help you with something?}
+# {185}{}{Can I ask you a few questions?}
+# {186}{}{Never mind. Goodbye.}
+# {187}{Cab_37}{Goodbye.}
+# {188}{Cab_38}{I greet people at the gates and decide whether to let them in. You
+#  and the merchants are about the only ones that get in now, because the
+#  Elders seem like they're preparing for something.}
+# {189}{}{Do you know what it could be all about?}
+# {190}{}{Why do you let the merchants in?}
+# {191}{Cab_39}{Uh . . . I don't know, but uh, I've heard the High Elder arguing with the other
+#  Elders. }
+# {192}{}{Can I ask you a few more questions?}
+# {193}{}{Thanks. I'll see you around.}
+# {194}{Cab_40}{Why do I let 'em in? Well . . . we have to get our food and other things.  We trade our weapons for
+#  all that.}
+# {195}{}{Why don't you just grow food yourselves?}
+# {196}{}{Can I ask you a few more questions?}
+# {197}{}{Thanks. I'll see you around.}
+# {198}{Cab_41}{Uh, well, the purpose of this place is to make Scribes and Knights. Anyone
+#  who wants to be something else just leaves.}
+# {199}{}{Oh. Can I ask you a few more questions?}
+# {200}{}{Thanks. I'll see you around.}
+# {201}{Cab_42}{Well, some of the Initiates think we're preparing for war. That's why
+#  hardly anyone gets in now. I was surprised when the High Elder
+#  told me to let you in.}
+# {202}{}{Why?}
+# {203}{}{Thanks. Can I ask you a few more questions?}
+# {204}{}{Thanks for the info. I'll see you around.}
+# {205}{Cab_43}{I don't think that belongs to you.}
+# {206}{Cab_44}{I'm sorry, but I'm going to have to go tell the guards.}
+# {207}{Cab_45}{I don't think you should be doing that.}
+# {208}{Cab_46a}{Oh, okay. Whatever.}
+# {209}{Cab_47}{As I said . . .}
+# {210}{Cab_48}{Well, as I said . . .}
+# {211}{Cab_49}{As I've said before . . .}
+# {212}{Cab_50}{Well, it's like I said . . .}
+# {213}{Cab_51}{Now, um, I ha- I hate to be rude, but I don't like to repeat myself.
+#  Okay?}
+# {214}{}{Um, ya know, I really don't have time to sit here and repeat
+#  myself over and over again. You can understand, can't you?}
+# {215}{Cab_53}{Well, that's me.}
+# {216}{Cab_54}{She's the head of the Scribes. She's usually in the library.
+#  Go down into the basement and uh, it's on your right hand side.}
+# {217}{Cab_55}{The knights say he can be a tough taskmaster, but I don't
+#  personally, because uh, I'm studying under Vree to become a Scribe.}
+# {218}{Cab_56}{General Maxson used to be Master Knight. I don't think he
+#   likes being High Elder much.}
+# {219}{Cab_57}{They make all the decisions around here, from what we eat to what
+#  our duties are. And uh, they argue a lot, too. The High Elder seems to have
+#  to step in a lot.}
+# {220}{Cab_58}{OK, well, scribes are the keepers of all the histories and the blueprints
+#  for the weapons we make. I just love books; that's why I want to
+#  be one . . . a Scribe, that is.}
+# {221}{Cab_59}{Well, you see, they're the ones who want to become protectors
+#  of the Brotherhood. There's not many of them, but they train their
+#  whole lives to become Paladins.}
+# {222}{Cab_60}{That's the town to the south, right? We get the merchants here all
+#  the time, but I've never been there myself. Gee, I wouldn't know
+#  what to do in a big city like that.}
+# {223}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
+# {224}{Cab_62}{They trade with us for food and stuff. We give them weapons.
+#  They don't come around too often anymore, but uh, I don't know why.}
+# {225}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree.
+#  She'll be able to show you where the history CDs are.}
+# {226}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups.  The
+#  group that broke away robbed the others of some of the weapons
+#  an-and they went south.  Then about ten years ago we sent out knights to look
+#  for them and all they found was ruins.  No one knows what happened.}
+# {227}{Cab_65}{The ancient Brotherhood came from some place far up north a long,
+#  long time ago. We call this the great Exodus. You can read about
+#  it more if you ask Vree in the library. }
+# {228}{Cab_66}{Uhh . . . I don't know anything about that.}
+# {229}{Cab_67}{Hmm . . . I don't know. You might want to ask someone more important
+#  than me.}
+# {230}{Cab_68}{I don't know what that is. You might want to ask around.}
+# {231}{}{Go talk to Mathia. She'll tell you more about that.}
+# {232}{}{You get 2000 experience points for becoming an initiate.}
+# {233}{}{We don't want your kind here. Go away!}
+# 
+# 
+# Cabbot Tell-Me-Abouts generic responses
+# {980}{Cab_66}{Uhh . . . I don't know anything about that.}
+# {981}{Cab_67}{Hmm . . . I don't know. You might want to ask someone more important
+#  than me.}
+# {982}{Cab_68}{I don't know what that is. You might want to ask around.}
+# 
+# 
+# Cabbot Tell-Me-Abouts
+# 
+# 
+# 
+# {1000}{}{Initiate}
+# {1001}{}{Vree}
+# {1002}{}{Rhombus}
+# {1003}{}{Elder}
+# {1004}{}{Elders}
+# {1005}{}{Scribes}
+# {1006}{}{Knights}
+# {1007}{}{Hub}
+# {1008}{}{Disks}
+# {1009}{}{Merchants}
+# {1010}{}{Brotherhood}
+# {1011}{}{Ancient}
+# {1012}{}{Exodus}
+# {1013}{}{Cabbot}
+# {1014}{}{Order}
+# {1015}{}{Paladins}
+# {1016}{}{Master}
+# {1017}{}{War}
+# {1018}{}{Army}
+# {1019}{}{Caravans}
+# {1020}{}{Cathedral}
+# {1021}{}{Chip}
+# 
+# {1100}{Cab_53}{Well, that's me.}
+# {1101}{Cab_54}{She's the head of the Scribes. She's usually in the library.
+#  Go down into the basement and uh, it's on your right hand side.}
+# {1102}{Cab_55}{The knights say he can be a tough taskmaster, but I don't
+#  personally, because uh, I'm studying under Vree to become a Scribe.}
+# {1103}{Cab_56}{General Maxson used to be Master Knight. I don't think he
+#   likes being High Elder much.}
+# {1104}{Cab_57}{They make all the decisions around here, from what we eat to what
+#  our duties are. And uh, they argue a lot, too.  The High Elder seems to have
+#  to step in a lot.}
+# {1105}{Cab_58}{OK, well, scribes are the keepers of all the histories and the blueprints
+#  for the weapons we make. I just love books; that's why I want to
+#  be one . . . a Scribe, that is.}
+# {1106}{Cab_59}{Well, you see, they're the ones who want to become protectors of the Brotherhood.
+#  There's not many of them, but they train their whole lives to become
+#  Paladins.}
+# {1107}{Cab_60}{That's the town to the south, right? We get the merchants here all
+#  the time, but I've never been there myself. Gee, I wouldn't know
+#  what to do in a big city like that.}
+# {1108}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
+# {1109}{Cab_62}{They trade with us for food and stuff. We give them weapons.
+#  They don't come around too often anymore, but uh, I don't know why.}
+# {1110}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree.
+#  She'll be able to show you where the history CDs are.}
+# {1111}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups. The
+#  group that broke away robbed the others of some of the weapons
+#  an-and went southwest. About ten years ago, we sent out knights to
+#  look for them, but all they found was ruins. No one knows what
+#  happened.}
+# {1112}{Cab_65}{The ancient Brotherhood came from some place far up north a long,
+#  long time ago. We call this the great Exodus. You can read about
+#  it more if you ask Vree in the library. }
+# {1113}{Cab_53}{Well, that's me.}
+# {1114}{Cab_64}{Oh, well, in the Exodus, the Brotherhood split into two groups. The
+#  group that broke away robbed the others of some of the weapons
+#  an-and went southwest. About ten years ago, we sent out knights to
+#  look for them, but all they found was ruins. No one knows what
+#  happened.}
+# {1115}{Cab_20}{You're making fun of me, aren't you? Good-bye! }
+# {1116}{Cab_67}{Hmm . . . I don't know. You might want to ask someone more important
+#  than me.}
+# {1117}{Cab_63}{Whoa, that's a long story. Go to the library and talk to Vree.
+#  She'll be able to show you where the history CDs are.}
+# {1118}{Cab_67}{Hmm . . . I don't know. You might want to ask someone more important
+#  than me.}
+# {1119}{Cab_62}{They trade with us for food and stuff. We give them weapons.
+#  They don't come around too often anymore, but uh, I don't know why.}
+# {1120}{Cab_66}{Uhh . . . I don't know anything about that.}
+# {1121}{Cab_61}{You should talk to Vree, I think. She'll tell ya' about 'em.}
+
+{100}{}{你看见卡波特，兄弟会的一名新兵。}
+{101}{Cab_1}{你好，欢迎来到钢铁兄弟会。请问你有何贵干？}
+{102}{}{你是？}
+{103}{}{我能问你几个问题吗？}
+{104}{}{唔?}
+{105}{}{我要加入你们！}
+{106}{}{你在这里做什么？}
+{107}{}{没事，回见。}
+{108}{Cab_2}{呃，我是卡波特。你没回答我的问题，你来这里做什么？}
+{109}{}{我想问你几个问题。}
+{110}{}{啊哈，你还真想知道啊。}
+{111}{}{我要加入你们！}
+{112}{}{你在这里做什么？}
+{113}{}{没事，回见。}
+{114}{Cab_4}{太好了！呃，你……你等一下，我来想想你能帮我做些啥。}
+{115}{Cab_5}{唔，这个，我和高级元老反映了情况，他说不是什么人都能入会的。他呢，嗯，他说你必须要先证明自己。}
+{116}{}{比如说?}
+{117}{}{算了，再见。}
+{118}{}{你当年也是先做事情再加入的?}
+{119}{Cab_5a}{这个，我倒没有。不过现在情况不同了。}
+{120}{}{说，想让我干啥?}
+{121}{}{有何不同？}
+{122}{}{算了，下次准备好了我再来。}
+{123}{Cab_6}{你要到南方的一个古代机构的遗迹去。进去后拿回一件能证明你去过那里的东西。}
+{124}{}{你怎么分辨我拿回的东西是不是属于那里的？}
+{125}{}{成交。}
+{126}{}{没门。}
+{127}{Cab_7}{那个地方有高科技。里面的东西你这辈子都没见过。呃，对了，辐射很大的。}
+{128}{}{好，我同意。}
+{129}{}{好怕怕，我不干。}
+{130}{Cab_9}{你愿意？真的？太棒了！把东西拿回这里！祝你好运。}
+{131}{Cab_10}{哦……那么好吧。再见了。}
+{132}{Cab_12}{这个嘛，呃，我是新兵，现在的任务是看门。}
+{133}{}{好像很无聊嘛，不过我还是要加入你们！}
+{134}{}{哦，多谢，我走了。}
+{135}{}{能问你几个问题吗？}
+{136}{Cab_16}{呃，当然，我必须要问清楚，这是我的工作！}
+{137}{}{能问你几个问题吗？}
+{138}{}{我可以加入兄弟会吗？}
+{139}{}{我不想告诉你任何事情，把你们的长官叫来！}
+{140}{}{算啦，我马上闪人。}
+{141}{Cab_17}{抱歉，我不能多说什么，他们不准我乱说，送客！}
+{142}{Cab_18}{不！你赶紧滚！}
+{143}{Cab_19g}{啊，又见面了，你打定主意了？}
+{144}{Cab_19n}{你好，你又想做什么？}
+{145}{}{我想好了，我要加入兄弟会。}
+{146}{}{能问你几个问题吗？}
+{147}{}{算了，回见。}
+{148}{Cab_20}{你想耍我啊，是不是！滚！}
+{149}{Cab_21}{滚蛋!}
+{150}{}{不好意思，我失礼了，我们再谈点什么吧。}
+{151}{}{就这样吧。}
+{152}{Cab_22}{不行，你刚才想晃点我，你走！}
+{153}{Cab_23}{唔，好吧，再信你一次，你究竟想怎么样？}
+{154}{}{我想好了，我要加入你们！}
+{155}{}{能问你几个问题吗？}
+{156}{}{算了，回见。}
+{157}{Cab_24}{嘿！你回来啦！找到什么东西了？}
+{158}{}{那是，当然了。}
+{159}{}{没呢，还在找。}
+{160}{Cab_25}{你真强！对了，呃，元老说你必须先上缴这个我才能让你进去，冒犯了。}
+{161}{}{好的。}
+{162}{}{这可不行。}
+{163}{Cab_27}{太好了！你稍等，我去开门。}
+{164}{}{没问题。}
+{165}{Cab_28}{嗯……抱歉，这个东西是哪里都能捡到的。}
+{166}{}{不是吧……}
+{167}{Cab_30}{好了，你可以进去了。但是我要和你说说以后的进出问题。明白？我在守卫室，你可以自己开门出来，但必须由我开门让你进。还有，高级元老们想见见你，他们在第三层的作战室。}
+{168}{Cab_31}{别想忽悠我，等你找到东西再来吧。}
+{169}{Cab_32}{好吧，什么时候你好了就跟我说。}
+{170}{Cab_33g}{哈罗，你想下去？}
+{171}{Cab_33b}{你想下基地去？}
+{172}{Cab_33n}{你想下去？}
+{173}{}{是的，请开门。}
+{174}{}{劳驾开门。}
+{175}{Cab_34g}{好！回见啦。}
+{176}{Cab_34b}{好。}
+{177}{Cab_34n}{好的。}
+{178}{}{你到底是做什么的？}
+{179}{}{最近有什么好玩的小道消息？}
+{180}{}{再见，卡波特。}
+{181}{Cab_35a}{说。}
+{182}{Cab_36g}{哈罗！我能帮你吗。}
+{183}{Cab_36b}{你想要什么？}
+{184}{Cab_36n}{我能帮你做些什么吗？}
+{185}{}{我想问你几个问题。}
+{186}{}{没事，回见。}
+{187}{Cab_37}{再见。}
+{188}{Cab_38}{我欢迎来客，为他们放行。除了你和那些商人，最近都没什么人来这里。元老们似乎在准备什么行动。}
+{189}{}{你知道他们在准备什么吗？}
+{190}{}{商人为什么可以进到这里？}
+{191}{Cab_39}{这个……我也不知道，但是，我听说最高元老和其他元老最近好像在争论什么。}
+{192}{}{我能再问几个问题么？}
+{193}{}{多谢。再见。}
+{194}{Cab_40}{他们为什么可以进去？呃……我们需要食品和其他货物，我们用武器和他们交换。}
+{195}{}{你们为啥就不能自己种庄稼？}
+{196}{}{我能再问几个问题吗？}
+{197}{}{多谢。再见。}
+{198}{Cab_41}{嗯，这个地方的目的是训练研究员和骑士。其他人不会对这里有兴趣的。}
+{199}{}{我能再问几个问题吗？}
+{200}{}{多谢。再见。}
+{201}{Cab_42}{有些新兵说我们正在备战。可能就是因为这个所以没人来上门吧。我也很奇怪，最高元老会居然让你进去。}
+{202}{}{为什么？}
+{203}{}{多谢。我能再问几个问题吗？}
+{204}{}{多谢你的信息。再见。}
+{205}{Cab_43}{我觉得这不是你的。}
+{206}{Cab_44}{抱歉，我要向守卫汇报。}
+{207}{Cab_45}{你真不该这样做。}
+{208}{Cab_46a}{哦，对，随你怎么说。}
+{209}{Cab_47}{我说过……}
+{210}{Cab_48}{呃，我说过的……}
+{211}{Cab_49}{我以前和你说过……}
+{212}{Cab_50}{正如我所说……}
+{213}{Cab_51}{听着，我不想失礼，但是我真的不想再重复我的话了，明白？}
+{214}{}{唔，要知道，我没时间站在这里和你重复重复再重复。你听明白了？}
+{215}{Cab_53}{我就是啊。}
+{216}{Cab_54}{她是首席研究员，通常在图书馆里。下到地下室，在你的右手边。}
+{217}{Cab_55}{骑士们说他是一个坚强的领导，我个人没觉得，因为，我跟着弗蕾学习，要当一名研究员。}
+{218}{Cab_56}{马克松将军以前是骑士。我想他不太喜欢担当最高元老的职务。}
+{219}{Cab_57}{他们统管这里的一切，从我们的吃住到任务分派。对了，他们经常争吵。最高元老似乎也不太愿意搀和进来。}
+{220}{Cab_58}{嗯，研究员是历史文档和武器设计图纸的保管人。我喜欢看书，所以我想当一名……研究员，呃，没错。}
+{221}{Cab_59}{他们想成为兄弟会的守护者。人虽不多，但都全身心训练，想成为一名游侠。}
+{222}{Cab_60}{南边的城市，是吧？我们这里经常有来自那儿的商人，但我从来没去过。唉，我也不知道在那个大城市里该做什么。}
+{223}{Cab_61}{你问弗蕾吧，我想她会告诉你的。}
+{224}{Cab_62}{他们卖给我们粮食和其他物资，我们卖给他们武器。他们最近来的不勤，我也不知道为什么。}
+{225}{Cab_63}{嚯，那就说来话长了。去图书馆问弗蕾。她会给你看我们的历史资料碟片的。}
+{226}{Cab_64}{大迁徙后，兄弟会分成两派，离开的那派抢走了些武器，往南走。十年前，我们派了些骑士去找他们，只看到一些遗迹。没人知道出了什么事。}
+{227}{Cab_65}{兄弟会最早的时候是从很北边的地方过来的。我们管这叫做大迁徙，你可以从图书馆弗蕾那里了解更多。}
+{228}{Cab_66}{唔……这个我不知道。}
+{229}{Cab_67}{嗯……不清楚，你问问上头的人吧。}
+{230}{Cab_68}{不知道。你自己多问问其他人。}
+{231}{}{去找马蒂雅，她会告诉你更多。}
+{232}{}{你成为新兵，获得2000点经验值。}
+{233}{}{这里不需要你这种货色，滚！}
+
+
+# Cabbot Tell-Me-Abouts generic responses
+{980}{Cab_66}{唔……这个我不知道。}
+{981}{Cab_67}{嗯……不清楚，你问问上头的人吧。}
+{982}{Cab_68}{不知道。你自己多问问其他人。}
+
+#
+# Cabbot Tell-Me-Abouts
+#
+
+
+{1000}{}{Initiate}
+{1001}{}{Vree}
+{1002}{}{Rhombus}
+{1003}{}{Elder}
+{1004}{}{Elders}
+{1005}{}{Scribes}
+{1006}{}{Knights}
+{1007}{}{Hub}
+{1008}{}{Disks}
+{1009}{}{Merchants}
+{1010}{}{Brotherhood}
+{1011}{}{Ancient}
+{1012}{}{Exodus}
+{1013}{}{Cabbot}
+{1014}{}{Order}
+{1015}{}{Paladins}
+{1016}{}{Master}
+{1017}{}{War}
+{1018}{}{Army}
+{1019}{}{Caravans}
+{1020}{}{Cathedral}
+{1021}{}{Chip}
+
+{1100}{Cab_53}{我就是啊。}
+{1101}{Cab_54}{她是首席研究员，通常在图书馆里。下到地下室，在你的右手边。}
+{1102}{Cab_55}{骑士们说他是一个坚强的领导，我个人没觉得，因为，我跟着弗蕾学习，要当一名研究员。}
+{1103}{Cab_56}{马克松将军以前是骑士。我想他不太喜欢担当最高元老的职务。}
+{1104}{Cab_57}{他们统管这里的一切，从我们的吃住到任务分派。对了，他们经常争吵。最高元老似乎也不太愿意搀和进来。}
+{1105}{Cab_58}{嗯，研究员是历史文档和武器设计图纸的保管人。我喜欢看书，所以我想当一名……研究员，呃，没错。}
+{1106}{Cab_59}{他们想成为兄弟会的守护者。人虽不多，但都全身心训练，想成为一名游侠。}
+{1107}{Cab_60}{南边的城市，是吧？我们这里经常有来自那儿的商人，但我从来没去过。唉，我也不知道在那个大城市里该做什么。}
+{1108}{Cab_61}{你问弗蕾吧，我想她会告诉你的。}
+{1109}{Cab_62}{他们卖给我们粮食和其他物资，我们卖给他们武器。他们最近来的不勤，我也不知道为什么。}
+{1110}{Cab_63}{嚯，那就说来话长了。去图书馆问弗蕾。她会给你看我们的历史磁盘的。}
+{1111}{Cab_64}{大迁徙后，兄弟会分成两派，离开的那派抢走了些武器，往南走。十年前，我们派了些骑士去找他们，只看到一些遗迹。没人知道出了什么事。}
+{1112}{Cab_65}{兄弟会最早的时候是从很北边的地方过来的。我们管这叫做大迁徙，你可以从图书馆弗蕾那里了解更多。}
+{1113}{Cab_53}{我就是啊。}
+{1114}{Cab_64}{大迁徙后，兄弟会分成两派，离开的那派抢走了些武器，往南走。十年前，我们派了些骑士去找他们，只看到一些遗迹。没人知道出了什么事。}
+{1115}{Cab_20}{你想耍我啊，是不是！滚！}
+{1116}{Cab_67}{嗯……不清楚，你问问上头的人吧。}
+{1117}{Cab_63}{嚯，那就说来话长了。去图书馆问弗蕾。她会给你看我们的历史磁盘的。}
+{1118}{Cab_67}{嗯……不清楚，你问问上头的人吧。}
+{1119}{Cab_62}{他们卖给我们粮食和其他物资，我们卖给他们武器。他们最近来的不勤，我也不知道为什么。}
+{1120}{Cab_66}{唔……这个我不知道。}
+{1121}{Cab_61}{你问弗蕾吧，我想她会告诉你的。}

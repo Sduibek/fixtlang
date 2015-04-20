@@ -1,0 +1,28 @@
+
+#{100}{}{You note a security camera which seems to be active.}
+{100}{}{你注意到一个看上去活动着的安全摄像机。}
+#{101}{}{You note concealed guns tracking your movement.}
+{101}{}{你注意到隐蔽的枪械跟踪着你的移动。}
+#{102}{}{Hidden gun ports open fire! Twisting and weaving,
+# you manage to avoid injury!}
+{102}{}{隐藏的枪械射击孔开火了！凭着飘忽不定的身形走位，你试图避免受伤！}
+#{103}{}{Hidden gun ports open fire! Twisting and evading,
+# you are grazed by gunfire.}
+{103}{}{隐藏的枪械射击孔开火了！左躲右闪，你被炮火盯上了。}
+#{104}{}{You suffer }
+{104}{}{你受到}
+#{105}{}{ damage.}
+{105}{}{点伤害。}
+#{106}{}{Hidden gun ports open fire! Startled, you trip and
+# fall, suffering only minor injuries.}
+{106}{}{隐藏的枪械射击孔开火了！受到惊吓，你被绊倒跌倒在地，只受了点轻伤。}
+#{107}{}{You suffer }
+{107}{}{你受到}
+#{108}{}{ damage.}
+{108}{}{点伤害。}
+#{109}{}{Hidden gun ports open fire! You are hit!}
+{109}{}{隐藏的枪械射击孔开火了！你被击中了！}
+#{110}{}{You suffer }
+{110}{}{你受到}
+#{111}{}{ damage.}
+{111}{}{点伤害。}

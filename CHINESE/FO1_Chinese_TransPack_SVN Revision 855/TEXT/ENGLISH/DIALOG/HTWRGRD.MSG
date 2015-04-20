@@ -1,0 +1,58 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see one of Hightower's guards.}
+#{101}{}{You better leave. Daren Hightower doesn't take visitors.}
+#{102}{}{Your company is not desired.}
+#{103}{}{Leave!}
+#{104}{}{You're not allowed here.}
+#{105}{}{Go away, or you'll regret it.}
+#{106}{}{This house is off limits to the likes of you.}
+# "You are not permitted to enter the house."
+{100}{}{你看见一个海托的守卫。}
+{101}{}{你最好离开。达伦·海托不喜欢来访者。}
+{102}{}{我们不需要你。}
+{103}{}{离开！}
+{104}{}{你不允许留在这里。}
+{105}{}{走开，不然你会后悔。}
+{106}{}{像你这样的人是不能来这房子对的。}
+
+#{107}{}{What the? Get em!}
+#{108}{}{You made a big mistake coming in here!}
+#{109}{}{What are you doing here?  You're dead meat.}
+# "You're dead meat" == "i'm going to kill you"
+{107}{}{你干什么？捉住他！}
+{108}{}{到这来你犯了大错了！}
+{109}{}{你在这干什么？你死定了。}
+
+#{110}{}{Mmmm, looks good.}
+# refering to food
+{110}{}{吼吼，好看。}
+
+#{111}{}{Is that Brahmin I smell?}
+# Brahmin is an animal akin to a 2 headed cow. consider Male
+{111}{}{我有双头牛的味道？}
+
+#{112}{}{Hook it to my veins!}
+# referring to getting more alcohol
+{112}{}{我需要静脉注射！}
+
+#{113}{}{Anything in the fridge?}
+# fridge == refridgerator
+{113}{}{冰箱里有什么？}
+
+#{114}{}{How much longer?}
+# referring to dinner
+{114}{}{怎么这么久？}
+
+#{115}{}{I'm hungry.}
+#{116}{}{Is it almost ready?}
+# referring to dinner.
+{115}{}{我好饿。}
+{116}{}{快好了吗？}
+
+#{117}{}{I'm going to pass out!}
+{117}{}{我快要晕倒了！}

@@ -1,0 +1,29 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You unlock the door.}
+{100}{}{你打开了门。}
+#{101}{}{You broke your lockpicks!}
+{101}{}{你弄坏了开锁器！}
+#{102}{}{You cannot open this lock.}
+{102}{}{你没法解开这把锁。}
+#{103}{}{You were not able to pick the lock.}
+{103}{}{你不能打开这把锁。}
+#{104}{}{The door is locked.}
+{104}{}{门锁住了。}
+#{105}{}{The door is open.}
+{105}{}{门开了。}
+#{106}{}{The door is closed but unlocked.}
+{106}{}{门关着但是没锁。}
+#{107}{}{The door is locked.}
+{107}{}{门锁住了。}
+#{108}{}{The door creaks loudly.}
+{108}{}{门发出很响的嘎吱的声音。}
+#{109}{}{The door is already unlocked.}
+{109}{}{门锁已经解开了。}
+#{110}{}{The lock is beyond your ability to pick.}
+{110}{}{这把锁不是你能打开的。}
+#{200}{}{There is no lock on this door to pick.}
+{200}{}{门上没有锁。}
+#{201}{}{You notice some irregularities in the wall.}
+{201}{}{你注意到墙上有些特别的东西。}

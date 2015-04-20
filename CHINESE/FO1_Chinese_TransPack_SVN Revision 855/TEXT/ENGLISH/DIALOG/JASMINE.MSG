@@ -1,0 +1,110 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Jasmine.}
+{100}{}{你看到茉莉。}
+
+#{101}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
+{101}{}{对不起，先生，这个人是某个商业公会的成员。}
+
+#{102}{}{Let me get this straight; you're shooting my boss and my friends, and you want to talk? Get bent!}
+{102}{}{让我直说吧，你向我的老板和朋友们开枪，还想和我谈谈？见鬼去吧！}
+
+#{103}{}{The door's over there. Don't let it hit you on the way out.}
+{103}{}{门在那边，出去的时候可别让门砸到你。}
+
+#{104}{}{Hi. Welcome to the Circle of Thieves. Play your cards right and you're in.}
+{104}{}{嗨，欢迎来到盗贼工会，进去了最好小心点，别出错了牌。}
+
+#{105}{}{Welcome to the Circle of Thieves. I'm Jasmine. I'm here to help make your infiltration of the 
+#Daren Hightower estate as painless as possible. Hightower's estate is located in the Heights. It has a 
+#minimum of two guards on duty at all times. The necklace is probably in a strongbox, which often have 
+#some minor traps, so be careful. Here are some lockpicks and a couple of flares to make your job a little 
+#easier.. And a bottle of Nuka-Cola.  Try not to kill Mr. Hightower.  He's one of our "favorite" people. You 
+#got all that?}
+{105}{}{欢迎来到盗贼工会，我是茉莉。我来是帮你更容易的潜入达伦·海托的房子。他的房子就在山上，至少有两个守卫24小时值勤。项链很可能在保险箱里，上面可能还有几个陷阱。这是个开锁器和一对闪光弹,能让你的任务简单些……还有瓶核子可乐。记住，别把达伦先生干掉了，他可是我们“最喜爱”的人之一。你都明白了？}
+
+#{106}{}{What do you mean by "favorite."}
+{106}{}{“最喜爱”？你什么意思？}
+
+#{107}{}{Lockpicks and Flares? That's all.}
+{107}{}{开锁器和闪光弹，就这些。}
+
+#{108}{}{Nuka Cola?}
+{108}{}{核子可乐？}
+
+#{109}{}{Don't kill him? No promises, woman.}
+{109}{}{别做掉他？我可不保证，美女。}
+
+#{110}{}{This job sucks. Find someone else.}
+{110}{}{这工作真逊，你还是另请高明吧。}
+
+#{111}{}{No problem. I'm outta here.}
+{111}{}{没问题，我会去的。}
+
+#{112}{}{Runk!}
+{112}{}{垃圾！}
+
+#{113}{}{Excuse me, sir, but shouldn't you be working on your assignment?}
+{113}{}{对不起，先生，但你不是应该开工了吗？}
+
+#{114}{}{Excuse me, miss, but shouldn't you be working on your assignment?}
+{114}{}{对不起，小姐，但你不是应该开工了吗？}
+
+#{117}{}{Hi again. If you've got the necklace, you'll have to give it to Mr. Loxley before you get your reward.}
+{117}{}{很高兴再见到你，如果项链已经到手，你得先将它交给洛克西里先生才能拿到报酬。}
+
+#{118}{}{Well done, lad.  Here's your reward.  [Jasmine gives you 3000 bucks]}
+{118}{}{干的不错，小伙子，这是你的报酬。【茉莉给你3000元】}
+
+#{119}{}{Well done, miss.  Here's your reward.  [Jasmine gives you 3000 bucks]}
+{119}{}{干的不错，小妞，这是你的报酬。【茉莉给你3000元】}
+
+#{121}{}{By the way, here's a little something extra to help you out in your future felonious forays.}
+{121}{}{顺便，送你点额外的小礼物，希望能在你日后杀人放火的时候用的着。}
+
+#{122}{}{Hello again.}
+{122}{}{再看到你真是高兴。}
+
+#{123}{}{Well, he's been our benefactor on many occasions. If you kill him, someone smarter may take his place. 
+#We wouldn't like that.}
+{123}{}{是这样，很多场合下他是我们的“捐赠人”，如果你干掉他，会来个更聪明的家伙取而代之，那可不是我们想要的。}
+
+#{124}{}{Pfah! A real thief lives on her wits. We're being generous with you. Now scat!}
+{124}{}{哼！真正的盗贼是靠头脑混饭吃的，我们对你太客气了，现在快滚！}
+
+#{125}{}{They're our corporate sponsor. Loxley got thirsty, and they "donated" several dozen bottles to us. Real
+# nice of them to help us out.}
+{125}{}{他们是我们的合伙人，洛克西里渴了，他们就“贡献”了几打核子可乐，真是乐善好施啊。}
+
+#{126}{}{Hmm, don't think I like the attitude. Oh well, nobody's perfect.}
+{126}{}{唔，别以为我会喜欢这种态度。好吧好吧，人无完人吗。}
+
+#{127}{}{Fine. I think I can speak for Mr. Loxley when I say that I hope we never cross paths again. Get out of
+# here.}
+{127}{}{好吧，我想我可以替洛克西里先生讲几句，我希望永远不要再看见你，滚。}
+
+#{128}{}{Good luck. Diamonds are my second favorite thing in the world!}
+{128}{}{愿你好运，钻石是我在这个世界上第二喜欢的东西！}
+
+#{129}{}{Right. Runk. Sure.}
+{129}{}{好吧。垃圾，当然。}
+
+#{130}{}{We warned you, but you didn't listen. Too bad about that hearing problem.}
+{130}{}{我们警告过你，但你置若罔闻，听到发生这种事真是糟透了。 }
+
+#{131}{}{I think you just failed the test! Don't come back.}
+{131}{}{我想你没通过这个测试，别再来了。}
+
+#{132}{}{Excuse me, sir, this person is a member of one of the merchant guilds.}
+{132}{}{对不起，先生，这个人是某个商业公会的成员。}
+
+#{133}{}{We warned you, but you didn't listen. Too bad about that hearing problem.}
+{133}{}{我们警告过你，但你置若罔闻，听到发生这种事真是糟透了。}
+
+#{134}{}{Pfah! A real thief lives on her wits. We're being generous with you miss. Now scat!}
+{134}{}{哼！真正的盗贼是靠头脑混饭吃的，我们对你太客气了。小妞，现在快滚！}
+
+#{135}{}{[Jasmine hands you a set of Electronic Lockpicks]}
+{135}{}{【茉莉给你一个电子开锁器】 }
+

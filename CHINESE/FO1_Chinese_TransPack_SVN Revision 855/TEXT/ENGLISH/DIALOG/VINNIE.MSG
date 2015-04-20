@@ -1,0 +1,237 @@
+# TRANSLATION NOTES
+# Vinnie is a gang leader, who is young and ruthless. He tries to sound tough
+# and is quite mean. He only respects people who are as ruthless and violent as
+# himself.
+
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Vinnie from the Skulz gang.}
+{100}{}{你看到骷髅党的维尼。}
+
+#{101}{}{You see a young man with a tattoo and a bad attitude.}
+{101}{}{你看到一个有文身而且态度恶劣的年轻人。}
+
+#{102}{}{I'd like to join you guys.}
+{102}{}{伙计们，我想加入你们。}
+
+#{103}{}{You're on Skulz turf, stranger. You'd better talk quick.}
+{103}{}{你在骷髅党的地盘上，外地人。你最好有话快说。}
+
+#{104}{}{Sorry, wrong room.}
+{104}{}{抱歉，走错房间了。}
+
+#{105}{}{Skulz? Who are you guys?}
+{105}{}{骷髅党？哥们，你们是谁啊。}
+
+#{106}{}{Urgh?}
+{106}{}{啊哈？}
+
+#{107}{}{Yeah, you bet this is the wrong room!}
+{107}{}{耶，没错！错误的人的房间！}
+
+#{108}{}{We are the one and only Junktown gang. We have the run of the streets,
+#and we rule the city at night.}
+{108}{}{我们是迦克镇唯一的帮派。我们控制着街道，夜里，迦克镇我们说了算。}
+
+#{109}{}{Oh. Sorry. Bye.}
+{109}{}{噢。对不起。再见。}
+
+#{110}{}{You couldn't run the schoolyard, Chromo.}
+{110}{}{你这纹身仔恐怕连个学校都罩不住吧！} 
+
+#{111}{}{I thought this city was run by Gizmo after hours.}
+{111}{}{我还以为这个镇子的夜生活是吉斯莫掌管的呢。}
+
+#{112}{}{Get out of here, you moron!}
+{112}{}{滚出去，你个白痴！}
+
+#{113}{}{That slob can't even stand up by himself. We're the muscle in this town.
+#We take what we want.}
+{113}{}{那团烂泥甚至不能自己站起来。我们才是这个城镇的老大，想干啥就干啥。}
+
+#{114}{}{I see.}
+{114}{}{我知道了。}
+
+#{115}{}{You have some sort of deal with Killian?}
+{115}{}{你和基利安做了某种交易吗？}
+
+#{116}{}{What?! You'll pay for that remark!}
+{116}{}{什么？！你要为你说的话付出代价！}
+
+#{117}{}{We don't bother Killian and he doesn't bother us as long as we keep it
+#low-key. You get me?}
+{117}{}{我们不去烦基利安，他也不来烦我们，只要我们保持低调。你懂我的意思？}
+
+#{118}{}{Yeah. Bye.}
+{118}{}{耶。再见。}
+
+#{119}{}{I get it, all right. You have to hide out from him.}
+{119}{}{我明白了。你是在躲着他。}
+
+#{120}{}{We don't take that from anybody, least of all Killian! Just because
+#he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!}
+{120}{}{我们不需要躲着任何人，尤其是基利安！他以为自己是牛皮哄哄镇长，但这不意味着他能控制骷髅党！}
+
+#{121}{}{Sorry, didn't mean to get you all riled up.}
+{121}{}{对不起，我不是故意惹恼你的。}
+
+#{122}{}{So, he cramps your style, eh? Mine, too. In fact, I'm thinking of
+#whacking him. You want in?}
+{122}{}{看来他让你很不爽，哦？我也是。事实上，我正考虑做掉他。你想加入吗？}
+
+#{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know . . .
+#all right, I'm in.}
+{123}{}{你想做了基利安？老大，你疯了。嗯，我不知道……好吧，我加入！}
+
+#{124}{}{You loser, you said we were going to whack Killian. Get out of here.}
+{124}{}{你个废物，你说过我们要去做掉基利安的。滚出去。}
+
+#{125}{}{C'mon, let's dust Killian.}
+{125}{}{来吧，让我们废了基利安。}
+
+#{126}{}{What do you want now?}
+{126}{}{你现在想干什么？}
+
+#{127}{}{Nothing. Sorry.}
+{127}{}{没什么。抱歉。}
+
+#{128}{}{I'm looking for someone to help me take out Killian. The Skulz seemed like
+#a good prospect.}
+{128}{}{我正在找些人帮我除掉基利安。骷髅党看起来挺有前途。}
+
+#{129}{}{Damn, I didn't think you'd do it! The Skulz rule this town now! Woo!}
+{129}{}{该死，我没想到你会真这么做。骷髅党现在控制整个镇了！哇噢！}
+
+#{130}{}{We've been down this road before. You didn't have the balls then, so get
+#the hell out of here!}
+{130}{}{我们曾经准备这么做的。结果你没种去干，那就他妈的滚吧！}
+ 
+#{131}{}{You want to join us, huh? How do we know you're tough enough to be a
+#Skul?}
+{131}{}{你想加入我们，啊哈？我们怎么知道你够强悍够合格呢？}
+
+#{132}{}{I'll show you tough enough, you son of a bitch!}
+{132}{}{我会让你知道我有多狠，你这狗娘养的！}
+
+#{133}{}{Let me prove myself to you.}
+{133}{}{让我证明给你看。}
+
+#{134}{}{Trust me, I'm tough enough.}
+{134}{}{相信我，我够狠。}
+
+#{135}{}{[Vinnie looks at you and laughs.] I don't think so.}
+{135}{}{【维尼笑着看你】我不这么认为。}
+
+#{136}{}{I'll prove it to you.}
+{136}{}{我会向你证明的。}
+
+#{137}{}{That's it. Time for you to die.}
+{137}{}{那么，你死期到了。}
+
+#{138}{}{You're right, I'll be leaving now.}
+{138}{}{你是对的，我现在要走了。}
+
+#{139}{}{What makes the Skulz so tough?}
+{139}{}{是什么让骷髅党这么强悍？}
+
+#{140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz,
+#I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles]
+#Let's make Neal suffer for his last couple of hours . . .}
+{140}{}{【维尼想了几秒种】如果你想证明你属于骷髅党，我要你去偷那个老杂种妻子的骨灰罐。呵呵。【维尼嘀咕着】我们让尼尔在临终前痛苦几个小时吧……}
+
+#{141}{}{All right, I'll do it.}
+{141}{}{好的，我去做。}
+
+#{142}{}{No way.}
+{142}{}{没门。}
+
+#{143}{}{Uh, I don't think I could do that.}
+{143}{}{啊，我不认为我会做那个。}
+
+#{144}{}{I already stole it.}
+{144}{}{我已经偷来了。}
+
+#{145}{}{That won't be as tough as you might think. I already killed the bastard.}
+{145}{}{没你想象的那么麻烦。我已经杀掉那个杂种了。}
+
+#{146}{}{If you're hard enough to do that, mebbe you'd make a Skul after all.
+#Bring it here once you've got it.}
+{146}{}{要是你能做到，或许你会成为一名骷髅党成员。拿到它以后马上带回来。}
+
+#{147}{}{I knew you weren't Skulz material. Get the hell out of here.}
+{147}{}{我就知道你不是进骷髅党的料。他妈的滚出去吧。}
+
+#{148}{}{You got it?}
+{148}{}{你拿到了？}
+
+#{149}{}{Yep.}
+{149}{}{是啊。}
+
+#{150}{}{No.}
+{150}{}{没有。}
+
+#{151}{}{I had to kill Neal to get it. He cried like a little girl.}
+{151}{}{我只好杀了尼尔才拿到了这个。他哭喊起来像个小女孩。}
+
+#{152}{}{Ha ha! Let that old cock suffer until we off him tonight - are you in?}
+{152}{}{哈哈！先让他好好郁闷一会，晚上我们再让那个老鸡巴上西天，你也去吗？}
+
+#{153}{}{I decided I'd rather not have anything to do with scabs like you.}
+{153}{}{我决定不再跟你们这群恶棍鬼混了。}
+
+#{154}{}{Let's crush him.}
+{154}{}{我们去搞死他。}
+
+#{155}{}{I've got some other shit to do before then - I'll meet you there.}
+{155}{}{在这之前我还有些事要准备－我们在那边碰头。}
+
+#{156}{}{What are you wasting my time for?}
+{156}{}{你干吗浪费我的时间？}
+
+#{157}{}{That'll show that old fuck. Thanks for taking care of him for us.
+#[Vinnie gets a tear in his eye.] You're a Skul, now.}
+{157}{}{老混蛋死有余辜。谢谢你帮我们收拾他。【维尼眼睛有点湿润】现在，你是骷髅党的人了。}
+
+#{158}{}{Uh, all right . . . meet us later, but don't take too long.}
+{158}{}{啊，很好……我们到时候见，不要让我们等太久。}
+
+#{159}{}{Soon, Neal gets his, huh?}
+{159}{}{很快，尼尔就要完了，啊哈？}
+
+#{160}{}{We said we'd be back, you old fuck!}
+{160}{}{我们说过我们会回来的，你个老混蛋！}
+
+#{161}{}{There's a large collection of people arriving at the bar . . .}
+{161}{}{有大堆的人正涌到那个酒吧。}
+
+#{162}{}{Fuck you, cop!}
+{162}{}{肏，条子！}
+
+#{163}{}{You gain 400 experience points for stealing Neal's urn. The dead shall
+#never rest in peace.}
+{163}{}{你偷到了尼尔的骨灰罐，得到400经验值。死者将永不安息。}
+
+#{164}{}{You gain 300 experience points for puttin' a cap in Neal's ass, you Skul.}
+{164}{}{你日翻了尼尔，成为骷髅党徒。得到400经验值。}
+
+#{165}{}{You ready to take out Neal?}
+{165}{}{你准备好收拾尼尔了？}
+
+#{166}{}{Yeah, let's ice the bastard.}
+{166}{}{耶，我们去把那个杂种干掉。}
+
+#{167}{}{Nah, I got some more stuff to do.}
+{167}{}{啊，我还有点其它的事要做。}
+
+#{168}{}{No way. I want out.}
+{168}{}{不行。我要退出。}
+
+#{169}{}{It's too late for that, slick. When you're out, you're way out.}
+{169}{}{太迟了，滑头。你要想退出，只有死路一条。}
+
+#{170}{}{We rule this town.}
+{170}{}{我们控制这个镇子。}
+
+#{171}{}{Hey, bro, we rule this town!}
+{171}{}{嘿，兄弟，我们控制这个镇子！}

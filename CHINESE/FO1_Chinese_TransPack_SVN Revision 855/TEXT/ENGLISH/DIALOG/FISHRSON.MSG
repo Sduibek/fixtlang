@@ -1,0 +1,103 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a lean and unkempt boy.}
+#{101}{}{I don't think I should talk to you. Go away.}
+#{102}{}{Why do you have a weapon drawn? We don't got nothing, not even fish!}
+#{103}{}{Hi. Wha'cha want?}
+#{104}{}{How's the fishing?}
+#{105}{}{I'm running a little low on supplies . . .}
+#{106}{}{Seen anything unusual lately?}
+#{107}{}{Want to hear about my adventures in the Rad Scorpion caves?}
+#{108}{}{Runk!}
+#{109}{}{Hi. Aren't you that person who goes around helping people? You must got lots of interesting stories to tell!}
+#{110}{}{Where do you come from?}
+#{111}{}{Hi there. I see you're not stupid enough to be fishing here. What's up?}
+#{112}{}{Not sure. Dad and I have been wandering the wastes for so long. We had a friend, a scorpion hunter with us, but he went nuts and we had to kill him, and then we . . .}
+#{113}{}{Hmmm, maybe I shouldn't talk about that.}
+#{114}{}{Tell me about your dad.}
+#{115}{}{What about scorpions?}
+#{116}{}{It sucks. Sorry, I shouldn't use the word 'suck.' Dad thinks that people who say suck all the time are either brain-dead simpletons or inarticulate losers. Dad's always trying to sound smart.}
+#{117}{}{I agree with your father.}
+#{118}{}{Sorry. I'm not the one to talk to about supplies.}
+#{119}{}{I saw a big thing like a giant spider with two heads, and one head looked human. Dad thinks I sucked up too much radiation. I dunno. Contaminated water does weird stuff to the brain.}
+#{120}{}{Yeah, like what?}
+{100}{}{你看到一个蓬头垢面的男孩。}
+{101}{}{我没话和你说，走开。}
+{102}{}{你为什么要拿武器指着我？我什么都没有，甚至连鱼也没有！}
+{103}{}{你好，想要点什么？}
+{104}{}{钓到鱼了没？}
+{105}{}{正在钓，吃的已经不多了……}
+{106}{}{最近有什么不寻常的事情发生吗？}
+{107}{}{想听我在辐射蝎洞穴的历险记吗？}
+{108}{}{垃圾！}
+{109}{}{嗨，你不是那个到处助人为乐的那个人吗？你一定有好多有意思的故事！}
+{110}{}{你从那里来的？}
+{111}{}{你好呀，怎么了？我看你不会弱智到在这种地方钓鱼把？}
+{112}{}{我不确定，我和爸爸在废土里游荡太久了。我们有过朋友，一个蝎子猎人和我们做伴，但后来他疯了，我们不得不杀了他，然后我们就……}
+{113}{}{嗯~嗯，也许我不该和你说这个。}
+{114}{}{让我们聊聊你爸爸。}
+{115}{}{辐射蝎是什么东西？}
+{116}{}{我靠！哦，对不起，我不该说“拷”，我爸爸认为说“拷”的人不是傻子就是大舌头。他教我发音要正确，听起来就像个聪明人！}
+{117}{}{我很同意你爸爸的观点。}
+{118}{}{抱歉，我不想提补给的事。
+{119}{}{我见过一个大家伙，活像长着两个脑袋的大蜘蛛，而且一个头看起来像是人的，爸爸认为我是辐射中多了，我不清楚，也没准是污染过的水使大脑产生了幻觉。}
+{120}{}{啊？那会是什么？}
+#{121}{}{What's a runk?}
+#{122}{}{Sure!}
+#{123}{}{The worst thing about hunting Rad Scorpions is waiting for them to get into a good ambush spot.}
+#{124}{}{The worst thing about hunting Rad Scorpions is chasing them down after they run away!}
+#{125}{}{The worst thing about hunting Rad Scorpions is getting stung in the face by their stinger.}
+#{126}{}{Yeah. Did you ever hear about the raiders who fell into the Rad Scorpion nest and they all got stung and stung and eaten alive, except for the one who ran away with half his face chewed off!}
+#{127}{}{Man, that was a good one!}
+#{128}{}{Well he's kind of loud and boring, and I ain't sure he's my real dad. I think he musta stole me when I was a baby. But he feeds me most of the time, so I like him, I guess.}
+#{129}{}{They're big and they're nasty, and they're getting outta control. Dad said there used to be heroes who'd wander around the wastes and kill them off, but most of them are dead now, I guess.}
+#{130}{}{What kind of heroes?}
+#{131}{}{Yeah, adults always agree with each other. It's just stupid.}
+#{132}{}{Big Henry used to go with us, and he was better'n dad and me, until he went insane and tried to strangle me. Dad had to shoot him!}
+#{133}{}{Is your dad a good shot?}
+#{134}{}{Who's Big Henry?}
+#{135}{}{Well that sounds great! I'd better get back to fishing though, or we're gonna get so hungry, we're gonna have to eat you!}
+#{136}{}{A lot of heroes. The guy who founded the Brotherhood of Steel, Roger Maxim, he was a real good scorpion killer. When I get older, I'm gonna find out where they are and join them!}
+#{137}{}{Sounds good.}
+{121}{}{什么叫“垃圾”？}
+{122}{}{当然！}
+{123}{}{如果你走路正好遇到正埋伏着觅食的辐射蝎，那你可要倒霉了。}
+{124}{}{杀辐射蝎最惨的事情莫过于马上就要得手了，却被它们逃跑了。}
+{125}{}{抓辐射蝎最不幸的事莫过于被它们的毒勾刺中脸。}
+{126}{}{不知道你听没听说过那些强盗不小心掉到了蝎子窝，然后全被刺烂吃掉了，只有一个被吃掉一半脸的家伙逃了出来！}
+{127}{}{嘿，老兄！真是个刺激的故事！}
+{128}{}{他说话大嗓门，有点傻大粗笨，而且我怀疑我是不是他亲生的。我认为他一定在我还吃奶的时候就把我偷走了。不过毕竟他养了我这么多年，我应该还是喜欢他的。}
+{129}{}{他们自大又无耻，并且总想支配外界。我爸爸说以前常有些英雄在废土上游荡，最后消灭他们。但是我猜他们现在大部分都挂了。}
+{130}{}{什么样的英雄？}
+{131}{}{哎，成年人就是喜欢互相吹捧。真无聊。}
+{132}{}{大亨利以前一直和我们在一起，我们是好朋友。可是有一天他突然犯经神病想勒死我，爸爸不得不拿枪射他。}
+{133}{}{你爸枪法如何？}
+{134}{}{大亨利是谁？}
+{135}{}{听起来不错，我要回去钓鱼了，我好饿，如果钓不到鱼我们就吃了你！}
+{136}{}{许多英雄，其中有个叫罗杰·马克松的家伙建立了钢铁兄弟会，他还是一个很牛的辐射蝎杀手，等我长大以后，我就加入他们。}
+{137}{}{听起来不错。}
+#{138}{}{It's really hard to join the Brotherhood. And it's a long dangerous trip.}
+#{139}{}{He's okay, I guess. Actually, I saw him hit a Rad Scorpion between the eyes at seventy yards, but it was a fluke shot.}
+#{140}{}{He was a guy from down south. Some sort of raider who tried to live off the land, not the people. He was a real great guy, but sometimes he'd go nuts, and one time he . . . uh . . . it don't matter.}
+#{141}{}{Yeah. I'm gonna be a he-ro, just like him. You bet on it!}
+#{142}{}{You think living like this is easy? I ain't scared of hardship and there ain't nothing safe out here, so I ain't quitting. I just gotta get old enough to strike out on my own.}
+#{143}{}{What about the battle between a Rad Scorpion and a man?}
+#{144}{}{Only about twelve times . . .}
+#{145}{}{Uh, yes sir.}
+#{146}{}{I think this time I'll catch a cold . . .}
+#{147}{}{Hurry up! I'm starving!}
+#{148}{}{It's been so long since you caught anything, I've forgotten what it tastes like.}
+#{149}{}{Dad, did you hear something . . .}
+{138}{}{加入钢铁兄弟会可不是件容易的事情，要走很远很危险的一段路。}
+{139}{}{我猜他还行把。我见过他在70码外击中辐射蝎两眼之间的位置，不过那是蒙着了。}
+{140}{}{他是一个南方人，这家伙确实的很牛，和一小群强盗试图开辟新大陆。虽然他有时候会突然发病，而且有次他还……哎……不提那个了。}
+{141}{}{耶！我将来一定是个大英雄！就向他一样！你看着吧！}
+{142}{}{你认为生活有这么容易吗？我不怕吃苦，外面也没什么安全的地方，所以我决不会打退堂鼓。我只是在等长大到能自己闯出一条路的时候。}
+{143}{}{一人和一个辐射蝎单对单会怎么样？}
+{144}{}{也就有20多次吧……}
+{145}{}{啊，是的，先生。}
+{146}{}{我想我快感冒了……}
+{147}{}{快点！我饿死了！}
+{148}{}{太久的事情的，我已经都忘记那是什么味道了。}
+{149}{}{爸爸，你听说过吗……}

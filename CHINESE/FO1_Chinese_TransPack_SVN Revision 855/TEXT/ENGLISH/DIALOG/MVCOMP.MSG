@@ -1,0 +1,28 @@
+
+# {100}{}{This computer is labeled Atomic Access Computer.}
+# {101}{}{There are cables running from the access computer to the warhead behind it.}
+# {102}{}{You have armed the warhead. A timer with four minutes has started a countdown.}
+# {103}{}{You have disarmed the nuclear warhead.}
+# {104}{}{BOOOOOOOOOM! 【You have set off the nuke!】}
+# {105}{}{That doesn't seem to be working.}
+# {106}{}{The countdown is still going . . . maybe you should cut that red wire.}
+# {107}{}{Maybe you need to use the key also.}
+# {108}{}{This computer is equipped with a hardware locking device that prevents the arming of the bomb without the proper key.}
+# {109}{}{It is impossible the lockpick this heavily secure lock.}
+# {110}{}{This computer cannot be repaired.}
+# {111}{}{You cannot use the traps skill on this computer.}
+# {112}{}{You are not skilled enough to defeat the security mechanism.}
+{100}{}{这台计算机标签上写着原子控制计算机。}
+{101}{}{有电缆从计算机连接到核弹的后面。}
+{102}{}{你检查这个核弹，发现上面有一个4分钟的计时器已经开始倒计时了。}
+{103}{}{你拆除这个核弹。}
+{104}{}{轰……隆【你引爆了核弹！】}
+{105}{}{那是不能操作的。}
+{106}{}{倒计时仍然在继续……也许你应该剪断红色电线。}
+{107}{}{也许你应该使用别的钥匙。}
+{108}{}{这计算机装备了一个硬件锁装置，防止从外部解除这炸弹。}
+{109}{}{那锁很结实，开锁工具不可能打开它。}
+{110}{}{修理技术对这计算机没用。}
+{111}{}{陷阱技术对这计算机没用。}
+{112}{}{你没有足够的技能解开安全系统。}
+

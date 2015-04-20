@@ -1,0 +1,7 @@
+
+#{100}{}{You notice a sign on the door saying that the elevator is out of order.}
+#{101}{}{You see a sign on the door stating that it is out of order.}
+#{102}{}{A sign says: Warning: Elevator Shaft under construction. Please use other elevator.}
+{100}{}{你注意到门上有牌子，上面说这部电梯有故障。}
+{101}{}{你看见门上有个牌子，上面说这部电梯出了故障。}
+{102}{}{一个牌子上写：警告：电梯正在建设中，请使用其它电梯。}

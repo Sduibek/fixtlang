@@ -1,0 +1,101 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Deputy Fry.}
+#{101}{}{I have been hoping to run into you, child killer. I hope your stay isn't long. I抣l be playing close attention to you while you are here. Keep your nose clean in my city, I am just dying for an excuse to get rid of scum like you.}
+#{102}{}{Hello friend, Deputy Tony Fry at your service.}
+#{103}{}{What is this place?}
+#{104}{}{Nice to meet you. Bye.}
+#{105}{}{Wug.}
+#{106}{}{Ack!}
+#{107}{}{Oh, a newcomer! Welcome to the Hub! You've reached the biggest city on the coast. Heck, maybe the biggest city in the world for all we know. I thought you were part of the caravan, did you come in with them?}
+#{108}{}{Yes.}
+#{109}{}{No.}
+#{110}{}{I am not surprised. Most of the new members of our city come in with the caravans, even with the missing caravans we have had. It is a fine city but be careful who you associate with. People like Decker and his thugs can get you into a lot of trouble.}
+#{111}{}{That is surprising. It is been pretty rough out there, especially with the missing caravans. But you are safe now, just stay away from the Maltese Falcon. They're a bunch of trouble makers, Decker and his crew.}
+#{112}{}{Who's Decker?}
+#{113}{}{Yeah, well . . . I'm pretty rough.}
+#{114}{}{What was that about missing caravans?}
+#{115}{}{Where can I make some money?}
+{100}{}{你看到代理警长佛莱。}
+{101}{}{我一直希望能见见你，你杀过孩子吧？我不希望你在这待很长时间，在这儿我会加倍留意你，而且我很想找借口除掉你这样的人渣。}
+{102}{}{你好，朋友。代理警长托尼·佛莱愿为您效劳。}
+{103}{}{这是什么地方？}
+{104}{}{很高兴见到你。再见。}
+{105}{}{我靠。}
+{106}{}{啊卡！}
+{107}{}{噢，新来的！欢迎来到哈勃城! 你已经来到沿海最大的城市，不幸的是，据我所知，这里也许就是唯一幸存的大城市了。你是商队的吧？你的同伴呢？}
+{108}{}{是的。}
+{109}{}{不。}
+{110}{}{我一点都不奇怪。我们的城市大部分新人都是和商队一起过来的，有些还是和现在已经失踪的商队一起来的。这是一个不错的城市，但是你要小心为谁工作，德克和他的那伙人会给你带来很多的麻烦。}
+{111}{}{真让人吃惊，外面野蛮又危险，对那些失踪的商队更是这样。但你现在是安全的，别接近马耳他猎鹰。德克和他的手下是一帮制造麻烦的家伙。}
+{112}{}{谁是德克？}
+{113}{}{是的……我也很野蛮。}
+{114}{}{商队为什么会失踪？}
+{115}{}{我能在哪里赚些钱？}
+#{116}{}{That's it, thanks.}
+#{117}{}{If you say so. So, did you have any other questions?}
+#{118}{}{It is a tragedy really. Some caravans have turned up missing. Butch over at the Far Go Traders is offering a reward for information or something. You should check at the merchant market if you are interested.}
+#{119}{}{He owns the Maltese Falcon in the merchant market, but I wouldn associate with him if you want to stay out of trouble. He nothing but a murdering animal, but the Sheriff won't let me arrest him without proof.}
+#{120}{}{No problem. Believe it or not, our city is quite safe and our police are all very highly trained peace keepers. You shouldn't have any problems, just avoid the Maltese Falcon.}
+#{121}{}{I am sorry, I don't understand. Maybe you need healing? The Children of the Cathedral are south. Head straight down past the Merchant Market down to the Water Merchants. They are right next to the Water Merchants.}
+#{122}{}{I'm still watching you, child killer.}
+#{123}{}{Murdering animal!}
+#{124}{}{I can't believe the Sheriff's dead . . .}
+#{125}{}{There you are, you thieving little snake! I almost didn't recognize you. Guards!}
+#{126}{}{Sure.}
+#{127}{}{Catch me if you can.}
+#{128}{}{No.}
+#{129}{}{ARG!}
+{116}{}{好吧，谢谢。}
+{117}{}{就是象你说的那样，你还有其他的问题吗？}
+{118}{}{很惨，一些商队失踪了，远行商队正为这个悬赏，知情者重酬。如果你感兴趣可以去商业区那边看看。}
+{119}{}{他的那个“马耳他猎鹰”就在商队市场，但是我提醒你，别淌这趟混水，最好离他远点。他就是杀人猛兽，但是警长说证据不足，暂时还不能逮捕他。}
+{120}{}{放心吧，信不信由你，我们的城市非常安全，而且我们的警察都是经过严格训练的和平卫士。如果你不招惹马耳他猎鹰，就不会出事。}
+{121}{}{不好意思，我不是很明白。也许你需要去看看病，大教堂教徒的医院在南方。沿商业区直下是纯水商队做生意的地方，他们正好挨着纯水商队。}
+{122}{}{我一直都在盯着你，你这杀过小孩的人渣。}
+{123}{}{杀人猛兽！？}
+{124}{}{我不相信警长死了……}
+{125}{}{你在这呀！你个毛贼！我差点就没认出你来，警卫！}
+{126}{}{当然。}
+{127}{}{如果你有能力就来抓我呀！}
+{128}{}{不。}
+{129}{}{我靠！}
+#{130}{}{Hello again. I hope you like our town. A nice young man such as yourself, is always welcome. If you should decide to stay, I am sure you would make a valuable addition to the Hub.}
+#{131}{}{Hello again. I hope you like our town. A lovely lady such as yourself, is always welcome. If you should decide to stay, I am sure you would make a valuable addition to the Hub.}
+#{132}{}{Hello again. What can I do for you?}
+#{133}{}{Yes? I don't have all day. I'm trying to watch the front gate.}
+#{134}{}{I have a crime to report!}
+#{135}{}{Do you have a hospital, I'm injured.}
+#{136}{}{Where are the shops?}
+#{137}{}{Where's there work around here?}
+#{138}{}{Bye.}
+#{139}{}{Garro?}
+#{140}{}{Ooga.}
+#{141}{}{Really? I, uh, you should talk to the Sheriff. I can't leave my post right now. I have got to . . . uh, fend off any raiders that might come. Plus, I am not very good with reports.}
+#{142}{}{Oh, sorry. I hadn't noticed. The Children run the Hospital next to the Water Merchants. Go south past the Merchant market and you抣l see it just northwest of the Water Merchants. I hope everything goes okay.}
+#{143}{}{That is hard to miss. It is by far the busiest part of town. The Merchant Market is a few miles south of here. You抣l be most interested in the northern section, that is where most of our locals buy and sell to the public.}
+#{144}{}{Why that would be in the Merchant Market, a few miles south of here. Two of the caravan houses are located there, the third is further south. I抎 recommend the Far Go Traders. They pay well and they're not too crazy.}
+#{145}{}{Dead?they are all dead . . .}
+#{146}{}{Pfffftttt . . . Chrrrr . . .}
+#{147}{}{Do you know where I could find a Water Chip? My vault's chip malfunctioned, and we need another immediately.}
+#{148}{}{Water Chip? Well, I've never heard of one. If it has to do with water, though, you should talk to the Water Merchants. Their headquarters are located further south, past the Downtown area.}
+{130}{}{又见面了，非常希望你能喜欢我们这，像你这样的帅哥总是受欢迎的，如果你打算留下，我保证对于整个哈勃城都是件好事。}
+{131}{}{又见面了，非常希望你能喜欢我们这，像你这样的美女总是受欢迎的，如果你打算留下，我保证对于整个哈勃城都是件好事。}
+{132}{}{又见面了，有什么需要帮忙的吗？}
+{133}{}{啥？我没时间，我讨厌整天看大门。}
+{134}{}{我要报案！}
+{135}{}{我受伤了，我需要去医院。}
+{136}{}{附近有商店吗？}
+{137}{}{附近哪有工作？}
+{138}{}{拜拜。}
+{139}{}{格卢母？}
+{140}{}{哦…嘎！}
+{141}{}{真的？我，恩，你应该去找警长说话，我不能擅自离岗，我要是……去的话，那些歹徒该趁机溜进来了，况且，我口才也不好，怕说不清楚耽误了事情。}
+{142}{}{哦，抱歉，我没注意。大教堂教徒的医院就在纯水商队隔壁。在市场南边你正好可以看到西北方的纯水商队，祝你一路顺风。}
+{143}{}{你不太会找不到那，那里可是这城最热闹的地方。商业区就在南边不远，北区的大部分东西会让你感兴趣的，我们大部分本地人做买卖的地方。}
+{144}{}{这里向南不远就是市场，有两套房子都是商队的，还有一套有点远在南边，我推荐远行商队。他们待遇好，而且也比较本分。}
+{145}{}{死了？他们都死了……}
+{146}{}{扑扑扑……喳喳喳……}
+{147}{}{你知道我在找净水芯片吗？我避难所的芯片发生了故障，我必须马上再找到一个才行。}
+{148}{}{净水芯片？我从来没听说过那玩意。如果它是处理水的，也许纯水商队那能有，穿过市中心往南走就能看到他们的营地。}

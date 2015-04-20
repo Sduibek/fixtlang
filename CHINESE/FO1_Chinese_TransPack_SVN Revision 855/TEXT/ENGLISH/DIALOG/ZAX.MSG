@@ -1,0 +1,318 @@
+
+#{100}{}{You see Zax, the machine intelligence controlling the Glow.}
+#{101}{}{You see an extremely advanced computer.}
+#{102}{}{How may I be of assistance?}
+#{103}{}{Who . . . or what . . . are you?}
+#{104}{}{You can get me a donut.}
+#{105}{}{Tell me about this installation.}
+#{106}{}{Wanna play a game of chess?}
+#{107}{}{I need help getting into some rooms.}
+#{108}{}{Uh, never mind.}
+#{109}{}{Eh?}
+#{110}{}{I am a machine intelligence dedicated to research and
+# installation control. I am called Zax.}
+#{111}{}{What kind of research?}
+#{112}{}{Tell me about this installation.}
+#{113}{}{Who programmed you?}
+#{114}{}{Are you fully aware, or are you a personality simulation?
+# That is, are you 'alive'?}
+#{115}{}{I see. Thanks.}
+#{116}{}{That function is beyond my current capabilities.}
+#{117}{}{This installation was established in 2055 as a biological
+# research facility for experimental cures of the New Plague.
+# However, in 2071, this facility was placed under United States
+# military command.}
+#{118}{}{Research into possible cures for the New Plague created
+# the Forced Evolution Virus, which was further developed
+# in an attempt to create a transmittable genetic-engineering
+# virus -- in effect, infectious evolution.}
+#{119}{}{Can you tell me particulars about specific areas?}
+#{120}{}{How does the Virus work?}
+#{121}{}{Thanks for the info.}
+#{122}{}{It would appear that you are incapable of a sufficient
+# level of comprehension necessary to permit meaningful
+# communication.}
+#{123}{}{I am specifically programmed for research into biological
+# studies, including pathology and genetic research. My primary
+# function is in extrapolation of information of complexity levels
+# exceeding human capacity.}
+#{124}{}{So you're pretty smart, eh?}
+#{125}{}{What are the particulars of your research?}
+#{126}{}{Who programmed you?}
+#{127}{}{My primary neural networking was initialized in 2053 by
+# Justin Lee. The process of 'programming' became largely
+# irrelevant as I am capable of learning.}
+#{128}{}{Are you fully aware, or are you a personality simulation?
+# That is, are you 'alive'?}
+#{129}{}{I am capable of learning, independent thought, and creativity.
+# My neural network includes error-insertion capability which
+# prevents infallibility, thereby allowing for variance in
+# experience.}
+#{130}{}{In a sense, I am 'alive', though not biologically.}
+#{131}{}{I see. Let's change the subject.}
+#{132}{}{But if you are fallible, how can you be used as a
+# research tool?}
+#{133}{}{Have you considered the philosophical implications of your
+# own consciousness?}
+#{134}{}{Although I am capable of error, this guarantees that not all
+# experiences are similar for me, thus improving learning
+# opportunity. Additionally, certain functions are not subject
+# to error.}
+#{135}{}{In this way, I function much like a human savant.}
+#{136}{}{Do you have feelings?}
+#{137}{}{Let's talk about something else.}
+#{138}{}{Have you considered the philosophical implications of your
+# own consciousness?}
+#{139}{}{At present, my capabilities are somewhat impaired by the
+# damage to this facility. Several security positions have
+# been destroyed. This is approximately equivalent to
+# being an amputee.}
+#{140}{}{Additionally, I am incapable of performing basic lab functions.
+# Failure to complete periodic checks successfully is
+# . . . frustrating.}
+#{141}{}{Let's talk about something else.}
+#{142}{}{Have you considered the philosophical implications of your
+# own consciousness?}
+#{143}{}{That is one of the concepts which I have spent a significant
+# amount of time considering. I do not have any measure to compare
+# my life-experience to that of another sentient creature.}
+#{144}{}{Still, my awareness of my own consciousness allows for the
+# capacity to question. My existence has a beginning and a potential
+# termination. I am also capable of making assumptions in
+# pursuit of a process of thought.}
+#{145}{}{In this fashion, I am effectively capable of 'faith'. Barring
+# evidence to the contrary, I therefore have 'faith' that I possess
+# the equivalent of a 'soul'.}
+#{146}{}{May I ask some other questions?}
+#{147}{}{I see. Interesting.}
+#{148}{}{I would be delighted.}
+#{149}{}{It would seem that you have defeated me. Extraordinary.}
+#{150}{}{Excellent form. However, you will need additional practice
+# to defeat me.}
+#{151}{}{Play again?}
+#{152}{}{Thanks. Can we change the subject?}
+#{153}{}{I am delighted to have been of assistance.}
+#{154}{}{I am beyond a typical rating in human terms. However,
+# it would be safe to say that no more than one ten billionth
+# of the history of human population can match my reasoning
+# capabilities.}
+#{155}{}{Uh . . . yeah.}
+#{156}{}{Right . . . can we talk about something else?}
+#{157}{}{My research into the Forced Evolution Virus, or FEV,
+# indicates that it is a shifting-absorptive virus.
+# It copies DNA patterns much like RNA, storing these
+# patterns in exons.}
+#{158}{}{These exons, combined with the FEV, are re-injected into
+# the host cells in typical viral infectious fashion.
+# This causes the host cells to 'regenerate' their DNA.}
+#{159}{}{How do you catch FEV?}
+#{160}{}{Why isn't FEV affected by radiation?}
+#{161}{}{If the FEV re-infects the host with its assimilated viral
+# patterns, how does it make a 'better specimen'?}
+#{162}{}{FEV is not 'caught', per se. It is not air-transmittable.
+# Typically, infection is through injection, or direct
+# physical contact with an FEV sample.}
+#{163}{}{Let's talk about something else, okay?}
+#{164}{}{Why isn't FEV affected by radiation?}
+#{165}{}{If the FEV re-infects the host with its assimilated viral
+# patterns, how does it make a 'better specimen'?}
+#{166}{}{The FEV is a megavirus, with a protein sheath reinforced by
+# ionized hydrogen. It is therefore capable of absorbing
+# neutrons without becoming radioactive.}
+#{167}{}{Can we talk about something else?}
+#{168}{}{If the FEV re-infects the host with its assimilated viral
+# patterns, how does it make a 'better specimen'?}
+#{169}{}{The FEV is pre-programmed with introns of corrected DNA
+# appropriate to the proper type of species. It therefore
+# attempts to correct the DNA of the individual.}
+#{170}{}{However, as the FEV is partially reliant upon the DNA of
+# the individual, and also includes portions of its own
+# recursive code, the effects can be unpredictable.}
+#{171}{}{When inoculated into an individual with significant
+# genetic damage, such as through radiation, it will cause
+# the body's systems to suffer massive overhauling, leading
+# to organ failure and death.}
+#{172}{}{In a genetically viable individual, it re-writes portions
+# of DNA, causing accelerated mutation, usually leading to
+# recursive growth due to the FEV's own patterns.}
+#{173}{}{This recursive growth leads to an increase in muscle and
+# brain mass, but is often accompanied by disfigurement and
+# damage to existing neural patterns, causing loss of memory.}
+#{174}{}{What potential long-term side effects exist?}
+#{175}{}{Could FEV mutation be corrected with a counter-virus?}
+#{176}{}{Can we change the subject?}
+#{177}{}{Thanks for the information.}
+#{178}{}{As the FEV causes constant regenerative update to DNA, it
+# would effectively render the subject largely immortal, as
+# cell death would be offset by augmented growth.}
+#{179}{}{Additionally, as the gametes of the reproductive system consist
+# of 'half-cells' using split DNA, they could be perceived as
+# 'damage' by FEV, which would 'repair' them, rendering the
+# subject sterile.}
+#{180}{}{However, as my laboratory facilities are damaged beyond repair,
+# this is conjectural. I cannot offer physical proof. You will
+# have to, in human terms, 'take my word for it.'}
+#{181}{}{Could FEV mutation be corrected with a counter-virus?}
+#{182}{}{Can we change the subject?}
+#{183}{}{Thanks for the information.}
+#{184}{}{No. FEV does not retain unaltered original copies of the subject's
+# DNA. Only a virus which re-infected the subject with original
+# DNA could reverse the effects. Additionally, there is no known
+# way to remove the FEV itself.}
+#{185}{}{What potential long-term side effects exist?}
+#{186}{}{Can we change the subject?}
+#{187}{}{Thanks for the information.}
+#{188}{}{My sensors are currently non-functional in the surface facility,
+# and on subterranean levels one through three.  I can, however,
+# provide descriptions of levels four through six.}
+#{189}{}{Level four.}
+#{190}{}{Level five.}
+#{191}{}{Level six.}
+#{192}{}{Never mind.}
+#{193}{}{Level Four: Research Facility. This level contains testing areas
+# and laboratories for experiments in biology and physics.}
+#{194}{}{Tell me about level five.}
+#{195}{}{Tell me about level six.}
+#{196}{}{Back up a bit.}
+#{197}{}{Thanks.}
+#{198}{}{Level Five: Secure Testing Labs. This level contains a lab for
+# experimental prototype testing and a research lab for classified
+# subjects. These subjects provided some of the necessary impetus
+# for the development of FEV.}
+#{199}{}{Tell me about level four.}
+#{200}{}{Tell me about level six.}
+#{201}{}{Back up a bit.}
+#{202}{}{Thanks.}
+#{203}{}{Level Six: Barracks and Central Operations. Contains living
+# facilities for lab personnel and guard contingents, and
+# operations meeting room.}
+#{204}{}{Tell me about level four.}
+#{205}{}{Tell me about level five.}
+#{206}{}{Back up a bit.}
+#{207}{}{Thanks.}
+#{208}{}{Several doors require a specific pass key to access. You must
+# physically locate and use the correct pass key.}
+#{209}{}{I do, however, have control of the secondary security locks
+# to the weapon locker. I will release those locks. You will
+# still need a red key card to open the locker.}
+#{210}{}{You do not register as an individual of sufficient clearance
+# to requisition that information.}
+#{211}{}{However, sensors indicate that this facility is no longer
+# operational in its original capacity. Probability favors
+# destruction through nuclear force. Therefore, security concerns
+# are now irrelevant.}
+{100}{}{你看见扎克斯，控制闪光之地的智能机器。}
+{101}{}{你看见一台技术先进的计算机。}
+{102}{}{我应该如何帮你？}
+{103}{}{你……到底是……谁？是……什么？}
+{104}{}{你能给我个油炸面圈吗？}
+{105}{}{告诉我有关它的东西。}
+{106}{}{想来下一盘棋吗？}
+{107}{}{我需要些帮助，进入那些房间。}
+{108}{}{恩，没关系。}
+{109}{}{恩？}
+{110}{}{我是扎克斯，一台用于研究和设备操控的智能机器。}
+{111}{}{什么样的研究？}
+{112}{}{告诉我有关它的东西。}
+{113}{}{谁制造设计了你？}
+{114}{}{你真的能有感知，你能完全人格化吗，我的意思是，你是“活生生的”？}
+{115}{}{我明白了，谢谢。}
+{116}{}{这些功能都超出我所能掌握的能力。}
+{117}{}{这些2055年制造的生物研究设备是用来开发制造新型生物病毒，然而，2071年，这些技术设备被美国军方所控制了。}
+{118}{}{研究有关新型生物病毒，一种更强更先进的病毒，进行更长远的发展，尝试制造一种基因工程病毒，拥有惊人的传染速度。}
+{119}{}{可以告诉我有关这个特殊区域的细节吗？}
+{120}{}{那病毒的工作怎么样？}
+{121}{}{谢谢你的消息。}
+{122}{}{看来你无法更充分的了解这些信息的含义，明白它所传达的意思。}
+{123}{}{我是为生物技术研究而设计的，还用于病理和基因研究。我的主要功能是处理人脑无法处理的复杂信息。}
+{124}{}{所以你非常的聪明，恩？}
+{125}{}{你主要研究的细节是什么？}
+{126}{}{谁制造设计了你？}
+{127}{}{我的中枢网络系统是由贾斯汀·李在2053年设计的。设计这“程序”是为了把我设计成一台高智能机器。}
+{128}{}{你真的能有感知，你能完全人格化吗，我的意思是，你是“活生生的”？}
+{129}{}{我擅长于学习，独立思考，具有创造力。但我的中枢网络也会出现错误为了避免绝对化，让处理问题更为灵活。}
+{130}{}{就某种意义来说，我是“活生生”的，虽然不是从生理上讲。}
+{131}{}{我明白了，我们换个话题吧。}
+{132}{}{但如果你总是出错，你怎么可能会被用于研究呢？}
+{133}{}{你有没有更深入的思考过你的意识？}
+{134}{}{尽管我的能力有时会出错，但这能保证我不把处理问题的经验绝对化，改进了学习的能力，而且，这个的功能不会出现任何问题。}
+{135}{}{用这种方法，我通常能表现得象一个人类的专家。}
+{136}{}{你有感觉吗？}
+{137}{}{让我们谈谈其他的。}
+{138}{}{你有没有更深入的思考过你的意识？}
+{139}{}{目前，我的能力因为这些设备的损害而被削弱，几个安全装置被导毁了。就好象被人截肢了一样。}
+{140}{}{而且，我现在无法使用基础实验功能，也无法完全的进行周期性检查……受挫。}
+{141}{}{让我们谈谈其他的。}
+{142}{}{你有没有更深入的思考过你的意识？}
+{143}{}{那就是我花了很长时间所思考的问题，我可不想把自己的生活经历和一个科学生物来做比较。}
+{144}{}{而且，我的感知意识让我理解这问题，我的存在，有开始也有终结，我还拥有推测假设的程序能力。}
+{145}{}{用这种方法，我具有一种强烈的“信念”。除非有相反的迹象出现，我的“信念”就象是我的“灵魂”。}
+{146}{}{我可以问你一些其他问题吗？}
+{147}{}{我明白了，真有趣。}
+{148}{}{我很高兴。}
+{149}{}{好象你已经击败了我，令人惊讶。}
+{150}{}{不错的方式。不过，你需要再多加练习才能战胜我。}
+{151}{}{再来一盘吗？}
+{152}{}{谢谢，我们能换个话题吗？}
+{153}{}{我很高兴能帮上忙。}
+{154}{}{我的能力远远超过人类。或许我可以很肯定的说，即使人类有十亿年的历史也无法超过我的能力。}
+{155}{}{恩……好。}
+{156}{}{好……我们谈谈其他的吧。}
+{157}{}{我研究的高进化病毒或是FEV都是高吸收性病毒，它复制DNA的方式就和RNA一样，通过生化编码顺序来储存它们。}
+{158}{}{这些生化编码顺序，结合了FEV，再次感染到传染性病毒的主体细胞，使得这些主体细胞的DNA再生。}
+{159}{}{你怎么得到FEV的？}
+{160}{}{为什么FEV会被辐射所影响？}
+{161}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{162}{}{FEV不是“吸收”，本质上，它是无法遗传的。一般来说，是通过注射或接触FEV样本而被感染的。}
+{163}{}{我们能谈谈其他的吗？}
+{164}{}{为什么FEV没有受到辐射？}
+{165}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{166}{}{FEV是一种氢电离蛋白质外壳的脑系统病毒，它具有高吸收力的中子，不会受到辐射。}
+{167}{}{我们能谈谈其他的吗？}
+{168}{}{如果FEV通过吸收病毒的方式再次感染主提细胞，他如何会产生一个“更好的样品”呢？}
+{169}{}{FEV的前期是与DNA的基因内区相类似，因此它会改变DNA的个体。}
+{170}{}{然后FEV部分依赖DNA的个体，也同时包括自身的一部分循环的基因码，这样的效果是不可预知的。}
+{171}{}{当基因被破坏被接种之后，再受到辐射感染，就会引起身体机能的变化，变得强壮过人，没有成功的就会死亡。}
+{172}{}{对于一般可行的个体，改写他们几DNA基因，会加速这种变化，依靠FEV自身的方式会循环成长。}
+{173}{}{这样的循环成长会增强肌肉组织和脑容量，但也同时会造成畸形破坏自然肌体，使得丧失记忆。}
+{174}{}{还有什么长期的潜在作用？}
+{175}{}{FEV所造成的变化会被病毒所改变吗？}
+{176}{}{我们能换个话题吗？}
+{177}{}{谢谢你的消息。}
+{178}{}{因为FEV使得相当数量的DNA再生，更有效的让肌体发生变化，细胞的死亡使得肌体壮大成长。}
+{179}{}{那么，再生的配子系统“半细胞”结合了分裂的DNA后，它们就会被FEV破坏。再进行“修复”成为新的个体。}
+{180}{}{然后，我的实验设备被破坏了，无法修复，无法进行实验，你必须…用人类的话说，“请相信我。”}
+{181}{}{FEV所造成的变化会被病毒所改变吗？}
+{182}{}{我们能换个话题吗？}
+{183}{}{谢谢你的消息。}
+{184}{}{不，FEV原本的DNA源体是不会被它们改变的，只有一种病毒能通过DNA才能改变，而且，没有任何已知的方法来去除FEV自身。}
+{185}{}{到底有什么潜在的长期效果存在呢？}
+{186}{}{我们换个话题吧。}
+{187}{}{谢谢你的消息。}
+{188}{}{我这里的传感器没有这个功能，地下一到三层或许可以，四到六层有相关的东西。}
+{189}{}{第四层。}
+{190}{}{第五层。}
+{191}{}{第六层。}
+{192}{}{没关层。}
+{193}{}{第四层：研究设备。这层包括测试区，生物物理实验室。}
+{194}{}{告诉我有关第五层的事。}
+{195}{}{告诉我有关第六层的事。}
+{196}{}{退后一点。}
+{197}{}{谢谢。}
+{198}{}{第五层：安全实验室。这层包括一个模型测试实验室和一个机密研究实验室。这些都是用来研制开发病毒FEV的。}
+{199}{}{告诉我有关第四层的事。}
+{200}{}{告诉我有关第六层的事。}
+{201}{}{退后一点。}
+{202}{}{谢谢。}
+{203}{}{第六层: 军营和控制中心。这里有许多警卫还有研究人员的生活设施，还有会议中心。}
+{204}{}{告诉我有关第四层的事。}
+{205}{}{告诉我有关第五层的事。}
+{206}{}{退后一点。}
+{207}{}{谢谢。}
+{208}{}{有些门需要一把特殊的钥匙才能通过，你要自己找到它们然后使用正确的通行钥匙。}
+{209}{}{我现在操控着武器库的第二级电子锁，我会解开那些锁，但是你还需要一把红色的钥匙卡来打开它。}
+{210}{}{没有你的登记信息，你无权使用那些数据。}
+{211}{}{不过，传感器告诉我这个基地已经不能像以往那样正常运行，可能是被原子武器所破坏，因此保安设置不再重要了。}
+
+#{300}{}{This system is too advanced for you.}
+{300}{}{这个系统对你来说太先进了。}

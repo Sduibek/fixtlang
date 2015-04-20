@@ -1,0 +1,137 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Intuition}
+{102}{}{Bessere Nahkampfangriffe}
+{103}{}{Mehr Nahkampfverletzungen}
+{104}{}{Mehr Bewegungen}
+{105}{}{Mehr Distanzverletzungen}
+{106}{}{Höhere Feuerrate}
+{107}{}{Schnellere Reaktion}
+{108}{}{Schnellere Heilung}
+{109}{}{Mehr kritische Treffer}
+{110}{}{Nachtsicht}
+{111}{}{Ausstrahlung}
+{112}{}{Strahlungsresistenz}
+{113}{}{Härte}
+{114}{}{Starker Rücken}
+{115}{}{Scharfschütze}
+{116}{}{Lautloses Laufen}
+{117}{}{Überlebenskünstler}
+{118}{}{Meisterhändler}
+{119}{}{Gebildet}
+{120}{}{Heiler}
+{121}{}{Schatzsucher}
+{122}{}{Bessere kritische Treffer}
+{123}{}{Einfühlungsvermögen}
+{124}{}{Schlächter}
+{125}{}{Heckenschütze}
+{126}{}{Leiser Tod}
+{127}{}{Action Boy}
+{128}{}{Mentaler Block}
+{129}{}{Lebensspender}
+{130}{}{Ausweichkünstler}
+{131}{}{Schlangenesser}
+{132}{}{Technische Begabung}
+{133}{}{Sanitäter}
+{134}{}{Meisterdieb}
+{135}{}{Redner}
+{136}{}{Wurfkraft}
+{137}{}{Freund oder Feind}
+{138}{}{Taschendieb}
+{139}{}{Geist}
+{140}{}{Persönlichkeitskult}
+{141}{}{Schnorrer}
+{142}{}{Entdecker}
+{143}{}{Blumenkind}
+{144}{}{Pfadfinder}
+{145}{}{Tierfreund}
+{146}{}{Späher}
+{147}{}{Mysteriöser Fremder}
+{148}{}{Ranger}
+{149}{}{Taschenkünstler}
+{150}{}{Redegewandt}
+{151}{}{Heller Kopf}
+{152}{}{Spezialkenntnis}
+{153}{}{Mutiere!}
+{154}{}{Nuka Cola-abhängig}
+{155}{}{Buffout-abhängig}
+{156}{}{Mentats-abhängig}
+{157}{}{Psycho-abhängig}
+{158}{}{RadAway-abhängig}
+{159}{}{Waffen - Reichweite}
+{160}{}{Waffen - Genauigkeit}
+{161}{}{Waffen - Durchschlagskraft}
+{162}{}{Waffen - Erschütterung}
+{163}{}{Powerrüstung}
+{164}{}{Kampfrüstung}
+#
+#   PERK DESCRIPTIONS
+#
+{201}{}{Mit diesem Bonus ist es wahrscheinlicher, daß du Details an Personen erkennst. Du erhälst damit bei der Untersuchung von Personen genauere Informationen.}
+{202}{}{Du beherrschst die geheimen Kampfkünste des Ostens, oder dein Schlag ist einfach schneller. Nahkampfangriffe kosten dich in jedem Fall einen Aktionspunkt weniger.}
+{203}{}{Deine Erfahrung im unbewaffneten Kampf zahlt sich aus, wenn du deinem Gegner Verletzungen zufügen willst. Pro Level verursachst du im unbewaffneten Kampf und im Nahkampf zwei Verletzungspunkte.}
+{204}{}{Pro Level erhältst du zwei Aktionspunkte gratis, wenn du an der Reihe bist, die nur für Bewegungen benutzt werden können. Anders ausgedrückt: Bei jedem Level kannst du zwei zusätzliche Bewegungen ausführen.}
+{205}{}{Durch deine Ausbildung an Feuerwaffen und anderen Distanzwaffen bist du im Distanzkampf noch treffsicherer. Bei jedem Level verursachst du mit Distanzwaffen zwei Verletzungspunkte.}
+{206}{}{Mit diesem Bonus kannst du etwas schneller abdrücken, bist aber genauso treffsicher wie zuvor. Angriffe mit Distanzwaffen kosten dich einen Aktionspunkt weniger.}
+{207}{}{Mit diesem Bonus ist es wahrscheinlicher, daß du deinen Gegnern im Kampf zuvorkommst, da deine Reaktionsfähigkeit pro Level um zwei Punkte zunimmt.}
+{208}{}{Pro Level erhältst du einen Extrapunkt für deine Heilung. So können deine Wunden schneller heilen.}
+{209}{}{Mit diesem Bonus ist es wahrscheinlicher, daß du mehr kritische Treffer im Kampf erzielst. Pro Level steigt die Wahrscheinlichkeit, einen kritischen Treffer zu landen, um 5 %. Sehr nützlich!}
+{210}{}{Der Bonus 'Nachtsicht' steigert dein Sehvermögen bei Dunkelheit. Pro Level wird die allgemeine Dunkelheit um 10 % verringert.}
+{211}{}{Schon durch das Betreten eines Raumes erregst du Aufmerksamkeit. Pro Level wird die erste Reaktion einer anderen Person um 10 % erhöht.}
+{212}{}{Du kannst radioaktive Strahlung und die damit verbundenen Folgeschäden besser verkraften. Pro Level verbessert sich deine Resistenz gegen Strahlung um 10 %.}
+{213}{}{Wenn du hart bist, bist du weniger verwundbar. Pro Level nimmt deine allgemeine Resistenz gegen Verletzungen um 10 % zu.}
+{214}{}{Du kannst Lasten wie ein Maultier schleppen, und zwar pro Level 50 Pfund mehr an Ausrüstung.}
+{215}{}{Die Fähigkeit, Ziele auf größere Entfernungen zu treffen. Pro Level erhältst du zwei Extrapunkte für deine Wahrnehmung, um Distanzänderungen ermitteln zu können. Das Töten auf große Entfernungen war noch nie so einfach!}
+{216}{}{Mit diesem Bonus kannst du dich schnell, aber trotzdem leise bewegen. Du kannst also gleichzeitig laufen und schleichen, was ohne diesen Bonus nicht möglich ist.}
+{217}{}{Du bist ein Kenner der Natur. Mit diesem Bonus erhältst du die Fähigkeit, in feindlichen Umgebungen zu überleben. Pro Level erhältst du einen Bonus von 20 % für deine Überlebenskunst.}
+{218}{}{Du weißt, wie man einen sehr viel niedrigeren Einkaufspreis für Waren erzielt. Mit diesem Bonus erhältst du 25 % Rabatt auf Waren, die du in einem Laden oder von einem Händler kaufst.}
+{219}{}{Du erhältst jedesmal, wenn du ein neues Level erreichst, zwei Fähigkeitspunkte. Dieser Bonus ist am wirksamsten, wenn du ihn am Anfang deines Abenteuers erwirbst.}
+{220}{}{Mit diesem Bonus erhältst du bessere Heilfähigkeiten. Pro Level werden zwei bis fünf zusätzliche Trefferpunkte beim Einsatz der Fähigkeiten 'Erste Hilfe' und 'Arzt' geheilt.}
+{221}{}{Du hast das Talent, Geld zu finden. Bei verschiedenen Begegnungen in der Wüste findest du zusätzliches Geld.}
+{222}{}{Für kritische Treffer erhältst du zusätzlich 20 %, so daß du fast automatisch größeren Schaden anrichtest. Mit diesem Bonus wird es jedoch nicht wahrscheinlicher, daß du einen kritischen Treffer landest.}
+{223}{}{Du hast den Charakter der Menschen studiert. Daher weißt du genau, wie Personen gefühlsmäßig auf dich reagieren werden. Du siehst die Reaktion der Person, mit der du gerade sprichst.}
+{224}{}{Der Schlächter geht um! Im Nahkampf werden alle deine Treffer zu kritischen Treffern hochgestuft. Damit richtest du Zerstörung und Chaos an.}
+{225}{}{Dieser Bonus macht einen erfolgreichen Treffer mit einer Distanzwaffe zu einem kritischen Treffer, wenn du gleichzeitig auch noch Glück hast.}
+{226}{}{Wenn du beim Schleichen eine Kreatur in den Rücken triffst, richtest du bei einem Nahkampfangriff doppelten Schaden an. Der leise Tod ist diese Art von Bonus.}
+{227}{}{Pro Level erhältst du einen zusätzlichen Aktionspunkt für jede Kampfaktion. Diese allgemeinen Aktionspunkte lassen sich für beliebige Aufgaben benutzen.}
+{228}{}{Mit diesem Bonus kannst du das Bewußtsein von äußeren Einflüssen abschirmen. Du mußt diese Gabe von einem Guru auf der Durchreise oder bei einem ausgiebigen Baraufenthalt gelernt haben.}
+{229}{}{Pro Level erhältst du vier zusätzliche Trefferpunkte. Das ist nicht viel, aber es hilft.}
+{230}{}{Mit diesem Bonus wird es unwahrscheinlicher, daß du im Kampf getroffen wirst. Bei jedem Level erhälst du zusätzlich zu dem Bonus für die gerade getragene Rüstung 5 %.}
+{231}{}{Mmmm! Schmeckt wie Huhn! Du erhältst Immunität gegen Gift, wodurch sich deine Giftresistenz um 25 % erhöht.}
+{232}{}{Mit diesem Bonus werden deine Fähigkeiten 'Reparieren' und 'Wissenschaft' einmalig um 20 % erhöht. Nächtliches Pauken hat noch nie jemandem geschadet, besonders nicht dir!}
+{233}{}{Mit diesem Bonus werden deine Fähigkeiten 'Erste Hilfe' und 'Arzt' einmalig um 20 % erhöht. Heilfähigkeiten sind immer sehr nützlich!}
+{234}{}{Mit diesem Bonus werden deine Fähigkeiten 'Schleichen', 'Öffnen', 'Stehlen' und 'Falle' einmalig um 10 % erhöht. Nimm es von den Reichen und beschenke ... dich.}
+{235}{}{Mit diesem Bonus werden deine Fähigkeiten 'Reden' und 'Handeln' einmalig um 20 % erhöht. Ist Schweigen denn wirklich immer Gold?}
+{236}{}{Bei diesem Bonus erhälst du zwei Stärkepunkte für Wurfwaffen. Dieser Bonus kann aber nur zur Bestimmung von Entfernungen benutzt werden.}
+{237}{}{Mit diesem Bonus werden Figuren, die zu deinem Team gehören, im Kampf grün statt rot hervorgehoben. Rot hervorgehobene Figuren müssen dir aber nicht unbedingt feindlich gesinnt sein.}
+{238}{}{Du bist im Stehlen viel versierter als der gewöhnliche Kriminelle. Mit diesem Bonus spielen für dich beim Stehlen Faktoren wie Objektgröße und Blickrichtung einer Person keine Rolle.}
+{239}{}{Mit diesem Bonus bewegst du dich nach Sonnenuntergang oder in schlecht beleuchteten Gegenden wie ein Geist. Bei Dunkelheit ist deine Fähigkeit zu schleichen 20 % besser.}
+{240}{}{Dein Ansehen bei den Leuten ist durchweg positiv. Ohne diesen Bonus würde sich ein schlechtes Ansehen negativ auf gute Menschen auswirken. Funktioniert auch umgekehrt, bei gutem Ansehen und bösen Menschen.}
+{241}{}{Mit diesem Bonus kommst du bei zufälligen Begegnungen an doppelt soviel Munition heran wie der durchschnittliche Überlebende der atomaren Katastrophe.}
+{242}{}{Das Wesen des Entdeckers liegt darin, nach Neuem und Interessantem zu suchen. Mit diesem Bonus steigt die Wahrscheinlichkeit, daß du besondere Orte und Menschen findest.}
+{243}{}{Mit diesem Bonus verringert sich die Wahrscheinlichkeit, daß du von den Präparaten, die du einnimmst, abhängig wirst, und zwar um 50 %. Außerdem spürst du ihre Nebenwirkungen nur halb so stark wie eine normale Person.}
+{244}{}{Mit diesem Bonus kannst du die kürzeste Wegstrecke ermitteln und somit die Reisezeit auf der Weltkarte um 25 % pro Level verringern.}
+{245}{}{Tiere greifen ihre Freunde nicht an, es sei denn, sie werden bedroht oder zuerst angegriffen. Was in dieser Welt genau ein Tier ist, darüber läßt sich streiten.}
+{246}{}{Deine Fähigkeit, entfernte Orte zu sehen, ist gesteigert. Deine Entdeckungen auf der Weltkarte nehmen daher um ein Quadrat in jede Richtung zu.}
+{247}{}{Mit diesem Bonus hast du die Aufmerksamkeit eines mysteriösen Fremden erregt, der dir von Zeit zu Zeit helfen wird. Falls dein Verbündeter im Kampf fällt, kannst du auf keinen Ersatz hoffen.}
+{248}{}{Bei der Reise durch das Ödland ziehst du nicht so leicht unerwünschte Aufmerksamkeit auf dich. Mit jedem Level nimmt die Wahrscheinlichkeit einer zufälligen feindlichen Begegnung ab.}
+{249}{}{Du hast gelernt, deine Ausrüstung besser zu verstauen. Mit jedem Level brauchst du einen Aktionspunkt weniger, um im Kampf auf das Inventar zugreifen zu können.}
+{250}{}{Eine redegewandte Person weiß, wie sie ihre Dialogoptionen verbessern kann, ohne genau zu wissen, worum es geht. Bei jedem Level erhälst du einen zusätzlichen Intelligenzpunkt für Dialogzwecke.}
+{251}{}{Mit diesem Bonus erhälst du pro Level zusätzlich 5 % zu deinen gesammelten Erfahrungspunkten. Besonders nützlich, wenn dieser Bonus zu Beginn des Abenteuers erworben wird.}
+{252}{}{Deine Fähigkeiten haben sich derart verbessert, daß du eine zusätzliche Spezialkenntnis wählen kannst. Diese wird sofort um 20 % und anschließend um 2 % pro verbrauchtem Fähigkeitspunkt erhöht.}
+{253}{}{Die Strahlung im Ödland hat dich verändert! Eines deiner Zusatzmerkmale ist mutiert ...}
+{254}{}{Du hast Verlangen nach einer Nuka Cola.}
+{255}{}{Du zitterst.}
+{256}{}{Du fühlst dich total erschöpft.}
+{257}{}{Dir ist schwindelig.}
+{258}{}{Dir ist schlecht.}
+{259}{}{Waffen - Reichweite}
+{260}{}{Waffen - Genauigkeit}
+{261}{}{Waffen - Durchschlagskraft}
+{262}{}{Waffen - Erschütterung}
+{263}{}{Powerrüstung}
+{264}{}{Kampfrüstung}

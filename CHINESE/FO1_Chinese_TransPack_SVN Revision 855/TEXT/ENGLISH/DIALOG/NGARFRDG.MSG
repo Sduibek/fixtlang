@@ -1,0 +1,11 @@
+
+# {100}{}{The fridge is locked.}
+# {101}{}{The fridge is already unlocked.}
+# {102}{}{You unlock the fridge.}
+# {103}{}{You haven't quite gotten this lock yet.}
+# {104}{}{Someone left the fridge open!}
+{100}{}{这冰箱是锁着的。}
+{101}{}{这冰箱早就打开了。}
+{102}{}{你解开了冰箱的锁。}
+{103}{}{你没能打开这冰箱的锁。}
+{104}{}{这冰箱门没有关！}

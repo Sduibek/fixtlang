@@ -1,0 +1,31 @@
+
+#
+# Coastal encounter messages
+#
+
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see several odd floating creatures...}
+# {101}{}{You see a small swarm of rats rapidly approaching.}
+# {102}{}{You see a group of peasants being attacked by raiders!}
+# {103}{}{You see a couple of people out fishing.}
+# {104}{}{There is a grisly dead corpse near by that's been partially eaten.}
+# {105}{}{You stumble upon some water pools..}
+# {106}{}{Out of dire thirst, you drink some water.. It doesn't taste so good.}
+# {107}{}{The water looks highly radioactive and foul.}
+# {108}{}{Ahhh..}
+# {109}{}{Arrgg..}
+# {110}{}{Yuck!}
+{100}{}{你看到一些奇怪的漂浮着的生物……}
+{101}{}{你看到一小群地鼠正在迅速的接近。}
+{102}{}{你看到一些农民被歹徒攻击。}
+{103}{}{你看到几个在钓鱼的人。}
+{104}{}{这具恐怖的尸体有些部分已经被某种生物吃掉了。}
+{105}{}{你无意中看到一个水洼……}
+{106}{}{由于非常的渴，你喝了一点水……你发现这味道不是很爽。}
+{107}{}{这水好像已经被高度放射污染并且还很脏。}
+{108}{}{啊……}
+{109}{}{呃……}
+{110}{}{恶心！}
+

@@ -1,0 +1,15 @@
+# this is a door. Neutral/male. no tone of voice.
+
+# {100}{}{There seems to be a lock on this door.}
+# {101}{}{The door is already unlocked.}
+# {102}{}{Those are inadequate for the job.}
+# {103}{}{You bypass the electronic lock.}
+# {104}{}{You failed to bypass the electronic lock.}
+# {105}{}{The door is locked.}
+
+{100}{}{看起来这门上了锁。}
+{101}{}{这门上的锁早就被打开了。}
+{102}{}{那个不能用来干这事。}
+{103}{}{你巧妙的解开了电子锁。}
+{104}{}{你解锁失败了。}
+{105}{}{这门是锁着的。}

@@ -1,0 +1,192 @@
+{100}{}{Du siehst einen Hund. Er scheint dir zu folgen.}
+{101}{}{Du siehst einen Hund.}
+{102}{}{Wuff!}
+{103}{}{Grrr!}
+{104}{}{Du erhältst 100 Erfahrungspunkte, weil du geholfen hast, Phils Hundeproblem zu lösen.}
+{105}{}{Offensichtlich hast du dir mit diesem Hund einen Freund erworben.}
+{106}{}{Der Hund scheint zu glauben, daß du sein Besitzer bist.}
+
+{110}{}{Wuff-Wuff!}
+{111}{}{Komm her, Kumpel.}
+{112}{}{Bleib hier und warte, OK?}
+{113}{}{Braver Hund.}
+
+{970}{}{Wuuf?}        # added by Alchemist
+{971}{}{Wuuf!}        
+{972}{}{Wuuf-Wuuf!}
+
+{980}{}{Wuuf?}        # added by Alchemist
+{981}{}{Knurr?}
+{982}{}{Wuuf?}
+
+#Automatically generated with MSGtools by ALCHEMIST
+{1000}{}{Steuerchip}
+{1001}{}{Junktown}
+{1002}{}{Der Hub}
+{1003}{}{Children of the Cathedral}
+{1004}{}{Necropolis}
+{1005}{}{Adytum}
+{1006}{}{Die Followers}
+{1007}{}{Die Children}
+{1008}{}{Die Rippers}
+{1009}{}{Die Blades}
+{1010}{}{Die Gunrunners}
+{1011}{}{Der Boneyard}
+{1012}{}{Shady Sands}
+{1013}{}{Deathclaw}
+{1014}{}{Master}
+{1015}{}{Followers of the Apocalypse}
+{1016}{}{Der Meister}
+{1017}{}{Krämerladen}
+{1018}{}{Der Glow}
+{1019}{}{Leutnant}
+{1020}{}{Nightkin}
+{1021}{}{Supermutanten}
+{1022}{}{Hellseher}
+{1023}{}{Experimente}
+{1024}{}{Polizei}
+{1025}{}{Water Merchants}
+{1026}{}{Crimson Caravans}
+{1027}{}{Far Go Traders}
+{1028}{}{Hot Spot}
+{1029}{}{Brotherhood of Steel}
+{1030}{}{LA Boneyard}
+{1031}{}{Water Towers}
+{1032}{}{Old Town}
+{1033}{}{Downtown}
+{1034}{}{Die Heights}
+{1035}{}{Set}
+{1036}{}{Wasserstelle}
+{1037}{}{Halle}
+{1038}{}{Killian}
+{1039}{}{Gizmo}
+{1040}{}{Kasino}
+{1041}{}{Der Krieg}
+{1042}{}{Der Exodus}
+{1043}{}{Die Seltsame Armee}
+{1044}{}{Die Brotherhood}
+{1045}{}{Die Merchants}
+{1046}{}{Die fehlenden Caravans}
+{1047}{}{Neuling}
+{1048}{}{Scribes}
+{1049}{}{Knights}
+{1050}{}{Paladins}
+{1051}{}{Khans}
+{1052}{}{Garl}
+{1053}{}{Tandi}
+{1054}{}{Zimmerman}
+{1055}{}{Die Regulatoren}
+{1056}{}{Die Scavengers}
+{1057}{}{Nicole}
+{1058}{}{Razor}
+{1059}{}{Heilige Granate}
+{1060}{}{Einheit}
+{1061}{}{Morpheus}
+{1062}{}{Mutanten}
+{1063}{}{Militärstützpunkt}
+{1064}{}{Die Container}
+{1065}{}{Aradesh}
+{1066}{}{Seth}
+{1067}{}{Razlo}
+{1068}{}{Vault}
+{1069}{}{Wasser}
+{1070}{}{Aufseher}
+{1071}{}{Chip}
+{1072}{}{Wasserchip}
+{1073}{}{Vault 13}
+{1074}{}{Vault13}
+{1075}{}{Arzt}
+{1076}{}{Heilung}
+{1077}{}{Bibliothek}
+{1078}{}{Alya}
+{1079}{}{Diana}
+{1080}{}{Gwen}
+{1081}{}{Petrox}
+{1082}{}{Tolya}
+{1083}{}{Alkohol}
+{1084}{}{Päparat}
+{1100}{}{Wuuf?}
+{1101}{}{Wuuf?}
+{1102}{}{Wuuf?}
+{1103}{}{Wuuf?}
+{1104}{}{Wuuf?}
+{1105}{}{Wuuf?}
+{1106}{}{Wuuf?}
+{1107}{}{Wuuf?}
+{1108}{}{Wuuf?}
+{1109}{}{Wuuf?}
+{1110}{}{Wuuf?}
+{1111}{}{Wuuf?}
+{1112}{}{Wuuf?}
+{1113}{}{Wuuf?}
+{1114}{}{Wuuf?}
+{1115}{}{Wuuf?}
+{1116}{}{Wuuf?}
+{1117}{}{Wuuf?}
+{1118}{}{Wuuf?}
+{1119}{}{Wuuf?}
+{1120}{}{Wuuf?}
+{1121}{}{Wuuf?}
+{1122}{}{Wuuf?}
+{1123}{}{Wuuf?}
+{1124}{}{Wuuf?}
+{1125}{}{Wuuf?}
+{1126}{}{Wuuf?}
+{1127}{}{Wuuf?}
+{1128}{}{Wuuf?}
+{1129}{}{Wuuf?}
+{1130}{}{Wuuf?}
+{1131}{}{Wuuf?}
+{1132}{}{Wuuf?}
+{1133}{}{Wuuf?}
+{1134}{}{Wuuf?}
+{1135}{}{Wuuf?}
+{1136}{}{Wuuf?}
+{1137}{}{Wuuf?}
+{1138}{}{Wuuf?}
+{1139}{}{Wuuf?}
+{1140}{}{Wuuf?}
+{1141}{}{Wuuf?}
+{1142}{}{Wuuf?}
+{1143}{}{Wuuf?}
+{1144}{}{Wuuf?}
+{1145}{}{Wuuf?}
+{1146}{}{Wuuf?}
+{1147}{}{Wuuf?}
+{1148}{}{Wuuf?}
+{1149}{}{Wuuf?}
+{1150}{}{Wuuf?}
+{1151}{}{Wuuf?}
+{1152}{}{Wuuf?}
+{1153}{}{Wuuf?}
+{1154}{}{Wuuf?}
+{1155}{}{Wuuf?}
+{1156}{}{Wuuf?}
+{1157}{}{Wuuf?}
+{1158}{}{Wuuf?}
+{1159}{}{Wuuf?}
+{1160}{}{Wuuf?}
+{1161}{}{Wuuf?}
+{1162}{}{Wuuf?}
+{1163}{}{Wuuf?}
+{1164}{}{Wuuf?}
+{1165}{}{Wuuf?}
+{1166}{}{Wuuf?}
+{1167}{}{Wuuf?}
+{1168}{}{Wuuf?}
+{1169}{}{Wuuf?}
+{1170}{}{Wuuf?}
+{1171}{}{Wuuf?}
+{1172}{}{Wuuf?}
+{1173}{}{Wuuf?}
+{1174}{}{Wuuf?}
+{1175}{}{Wuuf?}
+{1176}{}{Wuuf?}
+{1177}{}{Wuuf?}
+{1178}{}{Wuuf?}
+{1179}{}{Wuuf?}
+{1180}{}{Wuuf?}
+{1181}{}{Wuuf?}
+{1182}{}{Wuuf?}
+{1183}{}{Wuuf?}
+{1184}{}{Wuuf?}

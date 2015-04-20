@@ -1,0 +1,132 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a Master Merchant}
+#{101}{}{Arrest this thief!}
+#{102}{}{...I don't care what they say.  We need new parts... Oh, yes.  Sorry. What #can I do for you?}
+#{103}{}{I want a job.}
+#{104}{}{Do you have a water chip?}
+#{105}{}{Nothing, bye.}
+#{106}{}{Shek.}
+#{107}{}{Sure, great.  You're hired.  Wait.  What position?  Oh, caravan guard #right?  Yeah, sure. You can work for us.  You look okay.  Anything else?}
+#{108}{}{Nope.}
+#{109}{}{Yes, do you have a water chip?}
+#{110}{}{Veh?}
+#{111}{}{Sorry, no time for nonsense!}
+#{112}{}{Water chip... hmm.  Oh, those old Vault purifying control chips.  Well, I'm #sure I speak for the entire town when I say
+# you won't find one here.  Without the proper equipment they're worthless.  Only #a Vault, or maybe Necropolis would have any
+# use for one.  Why do you ask?}
+#{113}{}{Necropolis?  Why would they need one?}
+#{114}{}{My vault's chip broke and I'm looking for a replacement.}
+#{115}{}{Just curious.}
+#{116}{}{I can't say.}
+#{117}{}{Really? Well as you probably have heard, we supply a great deal of water #throughout the area.  I am sure we could
+# arrange to send a caravan up to your Vault for a fee.}
+#{118}{}{How much are we talking about?}
+#{119}{}{I don't know if I can trust you.}
+#{120}{}{No thanks.}
+#{121}{}{Yeah, if you say so.}
+#{122}{}{Then I'm sorry, I don't think I can help.}
+#{123}{}{Can't trust me?!?  I'm routinely trusted to deliver water to people far more #paranoid than yourself!  What do you
+# think we are?  Terrorists?}
+#{124}{}{Okay fine.  How much money do you want to start the Caravans.}
+#{125}{}{I'm sorry.  I didn't mean to imply anything, but I can't take the risk.}
+#{126}{}{Well, if you change your mind let me know. I'm very curious now.}
+#{127}{}{Hello again.}
+#{128}{}{I need a water chip.}
+#{129}{}{I'm still looking for a water chip.}
+#{130}{}{I want a job.}
+#{131}{}{Bye.}
+#{132}{}{Sure, great.  You're hired.  Wait.  What position?  Oh, caravan guard #right?  Yeah, sure.  You can work for us.  You look okay.}
+#{133}{}{We already went through this.  Are you willing to pay the price to have the #water caravans start?}
+#{134}{}{Earlier you mentioned that Necropolis might have a water chip.  Why would #they need one?}
+#{135}{}{How much are we talking about?}
+#{136}{}{No, not yet.}
+#{137}{}{Well, it's just a guess really.  We tried to start a caravan route to #Necropolis once, but they refused to trade with us.
+#  Nobody in their right mind refuses water these days unless they have a reliable #supply.  I figure they must have their own
+# purifier or they would have died out a long time ago.  So are you looking to have #us go up to your Vault?}
+#{138}{}{Yes, how much is it going to cost me?}
+#{139}{}{No thanks.}
+#{140}{}{Well, it is quite a distance away.  2000 caps should cover the initial #caravan, and I'm sure your Vault will
+# have stuff to trade to keep us going for a while.  However with our current reserves, #I'm guessing that we will only be
+# able to keep your Vault going for an extra 100 days or so.}
+#{141}{}{Alright, here is the money.}
+#{142}{}{The Vault should be able to take care of most of your initial payment.  Why #don't I give you 1000 instead to start.}
+#{143}{}{It is quite a ways, but the Vault has plenty of goods to reimburse you for #your upfront money.  So, how about 500 instead?}
+#{144}{}{I don't have the cash, I'll come back when I do.}
+#{145}{}{It looks like you don't have enough money, come back when you do.  Remember #you need }
+#{146}{}{ caps.}
+#{147}{}{Ok, I can start sending the caravans up to your Vault today.  Now you ought #to know, the caravans are pretty visible going
+# across the desert.   So, sending the caravans out that way is going to paint a pretty #good picture for anyone that might be
+# looking for your Vault.   Are you still sure you want them sent out that way?}
+#{148}{}{I guess not.}
+#{149}{}{Yes, the Vault needs water.}
+#{150}{}{That sounds fair enough.  The technology from the Vaults can fetch a pretty #good price down here in the Hub.}
+#{151}{}{Sorry but I can only accept full payment.}
+#{152}{}{That sounds fair enough.  The technology from the Vaults can fetch a pretty #good price down here in the Hub.}
+#{153}{}{Sorry but I can only accept full payment.}
+#{154}{}{Are you going to pay the amount I asked for to get the water caravans #rolling?}
+#{155}{}{Ok, they'll start off in a few hours.}
+#{156}{}{I'm sorry, but the Water Merchants will not associate with you any longer.}
+#{157}{}{Do you have the }
+#{158}{}{ caps for us to start the water caravan to your vault?}
+
+{100}{}{你看到一名商队头目}
+{101}{}{把这个小偷抓起来！}
+{102}{}{……我才不在意他们说什么。我需要新的部件……哦，抱歉，有什么可帮忙的吗？}
+{103}{}{我需要份工作。}
+{104}{}{你这里有净水芯片吗？}
+{105}{}{没事，再见。}
+{106}{}{嘘嘘。}
+{107}{}{当然，很好。你被雇佣了。等等。你能做些什么？哦，护卫吗？太棒了，我们正需要你这种人。还有别的事吗？}
+{108}{}{没了。}
+{109}{}{是的，你这里有净水芯片吗？}
+{110}{}{喔？}
+{111}{}{抱歉，我没时间闲扯！}
+{112}{}{净水芯片……嗯。哦，你是说那些过去避难所里的净化控制芯片。不过我很确定在这里找不到你想要的东西。没有适用的设备那芯片就毫无价值。只有在避难所和大墓地能找到。你为什么对这个感兴趣？}
+{113}{}{大墓地？他们干嘛需要这东西？}
+{114}{}{因为我们避难所里的芯片坏掉了，急需一个替换。}
+{115}{}{只是有点好奇。}
+{116}{}{我说不好。}
+{117}{}{真的吗？也许你听说过，这片土地的净水供给都是我们在负责。只要你出得起价钱，我们也会照看避难所的。}
+{118}{}{多少钱？}
+{119}{}{我不确定是否该相信你。}
+{120}{}{别客气。}
+{121}{}{好吧，既然你这么说。}
+{122}{}{那么对不起了，我也没什么可帮你的。}
+{123}{}{信不过我？！？我在这行里的声誉远远超乎你的想象。你认为我们是什么？恐怖分子吗？} 
+{124}{}{好的好的。咱们还是说说价钱吧。}
+{125}{}{很抱歉，我并不是那个意思。但我还是不能冒这个险。}
+{126}{}{好吧，如果你改变了想法就来找我。我可是很有兴趣的。}
+{127}{}{再一次问候你。}
+{128}{}{我需要一块净水芯片。}
+{129}{}{我仍在找净水芯片。}
+{130}{}{我需要一份工作。}
+{131}{}{再见。}
+{132}{}{当然，很好。你被雇佣了。等等。你能做些什么？哦，护卫吗？太棒了，我们正需要你这种人。}
+{133}{}{我们以前去过那里。价格上没问题的话我们就可以出发了。}
+{134}{}{刚才你提到大墓地可能有一块净水芯片，他们为什么需要那个？}
+{135}{}{要多少钱？}
+{136}{}{不，还没有。}
+{137}{}{哦，那是我猜的。我们曾找他们谈过生意，但他们不需要。这年头除非有自己的净水系统，否则没人会拒绝纯净的水。所以我想他们一定有，不然早成人干了。那么说回来你需要我们的服务吗？}
+{138}{}{好的，多少钱？}
+{139}{}{不客气。}
+{140}{}{你也知道这段路很长而且也不太平。2000个瓶盖并不太贵，并且我相信你们的避难所里也会有我需要的东西。不管怎么说，凭我这里目前的储量让你们的避难所多维持100多天还是没问题的。}
+{141}{}{成交。}
+{142}{}{避难所会支付给你大部分费用的。我先给你1000个瓶盖好吗？}
+{143}{}{这段路确实不大好走，不过避难所有着丰富的储备可以满足你的需求。那么500个瓶盖怎么样？}
+{144}{}{我现在钱不够，一旦够数我马上回来。}
+{145}{}{看起来你的钱不够，等有钱再来吧。记住，你需要}
+{146}{}{个瓶盖。}
+{147}{}{好的，我们今天就动身。不过你得明白，穿越荒漠的商队是非常显眼的。因此，将会有很多出于各种目的的人尾随而至。你最好考虑清楚。}
+{148}{}{我想那还是别去了。}
+{149}{}{当然，避难所需要净水。}
+{150}{}{这听起来相当公平。在这儿避难所的科技应该能买个好价钱。}
+{151}{}{很抱歉我这里不讲价。}
+{152}{}{这听起来相当公平。在这儿避难所的科技应该能买个好价钱。}
+{153}{}{很抱歉我这里不讲价。}
+{154}{}{你到底有没有打算付钱？}
+{155}{}{好的，几小时后我们就出发。}
+{156}{}{抱歉，我们纯水商队不会再和你合作了。}
+{157}{}{你准备付}
+{158}{}{个瓶盖做避难所的净水生意？}

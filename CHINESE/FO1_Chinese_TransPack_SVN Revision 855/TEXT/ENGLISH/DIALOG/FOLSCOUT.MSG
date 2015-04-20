@@ -1,0 +1,163 @@
+
+#{100}{}{You see Jerry of the Follower's Scouts.}
+#{101}{}{You see Basbear of the Follower's Scouts.}
+#{102}{}{You see Richard of the Follower's Scouts.}
+#{103}{}{You see Jason of the Follower's Scouts.}
+#{104}{}{You see Shadow of the Follower's Scouts.}
+#{105}{}{You see Lynne of the Follower's Scouts.}
+#{106}{}{You see Gwendolyne of the Follower's Scouts.}
+#{107}{}{You see Rosa of the Follower's Scouts.}
+#{108}{}{You see Elizabeth of the Follower's Scouts.}
+#{109}{}{You see Rebeca of the Follower's Scouts.}
+#{110}{}{Who travels the halls of the Followers?}
+#{111}{}{Huh?}
+#{112}{}{I am }
+#{113}{}{. I come in peace.}
+#{114}{}{I am }
+#{115}{}{. Your destroyer.}
+#{116}{}{Who are the Followers?}
+#{117}{}{OK. I can see that you are a little slow. Who you?}
+#{118}{}{Me }
+#{119}{}{. You dead.}
+#{120}{}{Me }
+#{121}{}{. Me hep.}
+#{122}{}{Me kill!}
+#{123}{}{Me }
+#{124}{}{. Me go.}
+#{125}{}{You want to help? I think you will need to talk to Nicole or Jake if you want to help us. They have more time for dealing with slower people.}
+#{126}{}{OK. Just stay out of trouble around here.}
+#{127}{}{Do you see to end the evil of the Children?}
+#{128}{}{Yes. I want to wipe out those scum.}
+#{129}{}{No. I'd rather kill you wimps.}
+#{130}{}{Who are these Children?}
+#{131}{}{Why would I want to kill children?}
+#{132}{}{Excellent! Go talk to Nicole and she will be able to tell you how you can help us.}
+#{133}{}{The Children are an occult group who worship some dark god. Personally, I think there is something about them that reeks of evil.}
+#{134}{}{I will kill them.}
+#{135}{}{I don't know. They sound too strong for me.}
+#{136}{}{What can I do to help?}
+#{137}{}{Forget it! There is no way I will help you.}
+#{138}{}{They are a strong lot, but I think with someone of your skills, you will be able to get in and help us destroy them.}
+#{139}{}{I'll do it, then.}
+#{140}{}{No. I don't think I will help.}
+#{141}{}{Suit yourself. If they take over the wastelands, don't say we didn't warn you.}
+#{142}{}{If you talk to Nicole, she will be able to tell you more of what can be done to stop them. }
+#{143}{}{Thank you. Goodbye.}
+#{144}{}{Not children. We wouldn't think of harming them. No. These are the Children of the Cathedral. A nasty group of people.}
+#{145}{}{In that case, sure - I'll waste them.}
+#{146}{}{Oh. I thought you were talking about kids. Nevermind. I don't think I'll help.}
+#{147}{}{What can you tell me about these Children?}
+#{148}{}{We are the Followers of the Apocalypse. We are trying to bring peace to the wastelands.}
+#{149}{}{Sounds like a good idea. Good luck with it.}
+#{150}{}{How do you plan on doing that?}
+#{151}{}{That seems highly unlikely.}
+#{152}{}{We are working to bring about tolerance to those in the wastelands for those few unfortunates who have been mutated by man's destructive nature.}
+#{153}{}{Good luck with that, then.}
+#{154}{}{In all of history, we have never been able to get tolerance. Why do you think the War happened?}
+#{155}{}{That's just a bunch of bull.}
+#{156}{}{You are right in saying that we, as humans, have been close-minded. However, there is always hope.}
+#{157}{}{Good luck to you, then.}
+#{158}{}{I think you are right. Here, let me make you more open-minded with this.}
+#{159}{}{Be that as it may, your opinion was not requested. Goodbye.}
+#{160}{}{A cynic in our midst. I am sure you have your reasons. Regardless, I am certain we can bring about some type of understanding.}
+#{161}{}{Good luck to you then. Goodbye.}
+#{162}{}{I've heard that the Children have been able to get some of our secrets. I wonder how that is happening?}
+#{163}{}{I believe that there is a spy somewhere around here.}
+#{164}{}{I know. I am selling your secrets to them.}
+#{165}{}{I am sure you are just imagining things. How can they know anything?}
+#{166}{}{Truly? I thought as much myself, but feared that I would never have been able to get much support on the theory.}
+#{167}{}{Do you have any clues as to who it could be?}
+#{168}{}{I'm glad to know that. Thanks for your time.}
+#{169}{}{You are the double agent!!!}
+#{170}{}{Not really. The only thing I can think of is that the person would have to have access to some information and have access to the outside. You might want to look to the initiates or scouts.}
+#{171}{}{Thanks. Goodbye.}
+#{172}{}{Nicole will be pleased, then, to know that I killed the agent.}
+#{173}{}{You must be right. Thank you for setting me straight.}
+#{174}{}{I think you are the double agent. Trying to trick me, I see. Well now you DIE!}
+#{175}{}{Great job on wasting that agent. Now we might have a chance against those Children.}
+#{176}{}{Good luck to you.}
+#{177}{}{I can help train you to become more efficient in your fighting.}
+#{178}{}{Would you? That would be wonderful.}
+#{179}{}{There you go. Maybe that will help you on your fighting.}
+
+
+{100}{}{你看到末世论者的谍报员杰瑞。}
+{101}{}{你看到末世论者的谍报员小熊。}
+{102}{}{你看到末世论者的谍报员理查德。}
+{103}{}{你看到末世论者的谍报员詹森。}
+{104}{}{你看到末世论者的谍报员幻影。}
+{105}{}{你看到末世论者的谍报员列农。}
+{106}{}{你看到末世论者的谍报员格温多林。}
+{107}{}{你看到末世论者的谍报员罗莎。}
+{108}{}{你看到末世论者的谍报员伊丽莎白。}
+{109}{}{你看到末世论者的谍报员丽贝卡。}
+{110}{}{谁在大厅转悠呢？}
+{111}{}{啊？}
+{112}{}{我是}
+{113}{}{。我为和平而来。}
+{114}{}{我是}
+{115}{}{。我是你的丧门星。}
+{116}{}{谁是末世论者的信徒？}
+{117}{}{很好，我感觉你有些迟钝，你谁？}
+{118}{}{我}
+{119}{}{。你死。}
+{120}{}{我}
+{121}{}{。我啊。}
+{122}{}{我杀！}
+{123}{}{我}
+{124}{}{。我去。}
+{125}{}{你需要帮助吗？你可以去和妮可尔或者杰克谈谈。如果你想帮助我们，他们有的是时间和你聊。}
+{126}{}{好把，别在附近惹麻烦。}
+{127}{}{你见过那帮邪恶的大教堂教徒？}
+{128}{}{是的，我要除掉这些人渣。}
+{129}{}{不，我觉得我更应该杀了你这懦夫。}
+{130}{}{大教堂教徒是什么？}
+{131}{}{为什么要杀大教堂教徒？}
+{132}{}{非常好，去和妮可尔谈谈，她将告诉你如何帮助我们。}
+{133}{}{大教堂教徒是一个信奉黑暗之神的秘密组织，我个人认为他们私下里正在做一些见不得人的事情。}
+{134}{}{我会杀了他们的。}
+{135}{}{我得考虑考虑，他们对我来说太强大了。}
+{136}{}{有什么需要我帮忙的？}
+{137}{}{忘了这事吧，让我帮你是不可能的。}
+{138}{}{他们确实是挺厉害的，但我认为以你目前的实力，你完全有能力帮我们把他们消灭。}
+{139}{}{我做。}
+{140}{}{我不认为我能帮上忙。}
+{141}{}{你随意吧，如果以后他们称霸了废土，可别怪我没警告过你。}
+{142}{}{如果你去找妮可尔谈话，她将告诉你更多的计划。}
+{143}{}{谢谢你，拜拜。}
+{144}{}{我并不想伤害谁，可他们是大教堂的人，是人中之渣！}
+{145}{}{原来如此，我着就去收拾了他们。}
+{146}{}{哦，我还以为你们所说的大教堂教徒是教堂里的小孩呢，没什么，我看我帮不了你们了。}
+{147}{}{你能给我说明下什么是大教堂教徒吗？}
+{148}{}{我们是末世论者。我们在正努力给废土带来和平。}
+{149}{}{听起来真不错，祝你们好运。}
+{150}{}{说说你们的计划？}
+{151}{}{那看上去非常不着调.}
+{152}{}{我们的工作就是让废土能够包容那些不幸被射线伤害了的变异的人们。}
+{153}{}{你们会成功的！}
+{154}{}{你认为战争为什么会发生？那是因为自古以来我们就没有获得过同情。}
+{155}{}{真能扯。}
+{156}{}{你是对的，就拿我这样的人类来说，我们思想封闭，又固执，但总是憧憬着未来。}
+{157}{}{祝你好运。}
+{158}{}{我认为你说的没错，我希望你在这事上能看开点。}
+{159}{}{就算真的是这样，我也不能接受你的观点，再见。}
+{160}{}{在我们之间有一个愤青。我确信你有你的理由，我们应该相互理解。}
+{161}{}{祝你好运。再见。}
+{162}{}{我听说大教堂教徒的人掌握着我们的一些机密，我真不理解他们是如何得到的。}
+{163}{}{我怀疑这附近可能隐藏着一个间谍。}
+{164}{}{你说的真对，是我把你们的机密卖给他们的。}
+{165}{}{我看你是喝多了，他们怎么可能什么都知道？}
+{166}{}{真的？我自己也想过很多，我就是害怕现实和我的推测不符。}
+{167}{}{你有关于那个间谍的线索吗？}
+{168}{}{很高兴您让我知道了那么多事情，耽误您时间了，谢谢。}
+{169}{}{你着两面派！墙头草！双重间谍！}
+{170}{}{那不是真的！我只是认为只有新会员才有机会到外面接触些情报，因为他们看上去脸生，你应该把希望寄托才新人和谍报员身上。}
+{171}{}{谢谢，拜拜。}
+{172}{}{妮可尔知道我杀了那间谍一定会很开心的。}
+{173}{}{你是对的。谢谢你对我那么真诚。}
+{174}{}{我认为你是一个双重间谍！还他妈敢戏弄我，你的死期到了！！}
+{175}{}{间谍消灭的好！！也许现在是一个回击大教堂教徒的好机会！}
+{176}{}{祝你好运。}
+{177}{}{我可以传授你些格斗经验。}
+{178}{}{你？啊，那真好！}
+{179}{}{怎么样？也许会对你以后打架有帮助呢。}

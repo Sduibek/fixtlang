@@ -1,0 +1,33 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see a Brotherhood Guard.}
+# {101}{}{Stay sharp Initiate!}
+# {102}{}{Looking good. Keep up the good work.}
+# {103}{}{Hello initiate, everything is secure.}
+# {104}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
+# {105}{}{You should talk to Talus or Maxson if you have any questions.}
+# {106}{}{Vree's in the library during the day if you ever have technical questions.}
+# {107}{}{Rhombus is my idol.}
+# {108}{}{I wish I was training right now, this guard duty is a waste of time.}
+# {109}{}{Vree's my idol.}
+# {110}{}{Hi Brother }
+# {111}{}{.}
+# {200}{}{Only Scribes and Paladins are allowed in this room.}
+# {201}{}{You were warned. Now you will be dealt with.}
+# {202}{}{Sorry, only members of the Brotherhood can enter here.}
+{100}{}{你看到一个钢铁兄弟会的警卫。}
+{101}{}{立正！新兵。}
+{102}{}{看起来很不错，继续做这份很有前途的工作吧。}
+{103}{}{你好新兵，这里情况一切正常。}
+{104}{}{对不起，我不应该和任何人说话，你知道这个的。}
+{105}{}{如果你想知道一些情况可以去找塔鲁斯或者马克松。}
+{106}{}{如果你有技术上的问题，弗蕾白天都会在这图书馆里。}
+{107}{}{隆伯斯是我的偶像。}
+{108}{}{我真希望我现在已经受训完毕了，在这里干这个警卫工作实在是浪费时间。}
+{109}{}{弗蕾是我的偶像。}
+{110}{}{嗨！兄弟}
+{111}{}{。}
+{200}{}{只有研究员和骑士才能进入这房间。}
+{201}{}{你已经被警告过了，现在你要接受处分。}
+{202}{}{对不起，兄弟会的成员是可以进去的。}

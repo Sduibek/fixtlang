@@ -1,0 +1,25 @@
+
+#{100}{}{This seems strange. You think it may be what the Brotherhood
+# sent you to retrieve.}
+{100}{}{很奇怪。你想这可能就是钢铁兄弟会派你来获取的东西。}
+
+#{101}{}{Pip Boy displays: File Found on System. Aborting download.}
+{101}{}{哔哔小子显示：系统已有该文件，放弃下载。}
+
+#{102}{}{Pip Boy displays: Downloading data from Disk.}
+{102}{}{哔哔小子显示：正在从磁盘下载资料。}
+
+#{103}{}{You see a disk Sophia gave you.}
+{103}{}{你看见索菲娅给你的一个磁盘。}
+
+#{104}{}{You see a disk Maxson gave you.}
+{104}{}{你看见马克松给你的一个磁盘。}
+
+#{105}{}{You see a strange disk from the Military Base.}
+{105}{}{你看见来自军事基地的一个奇怪磁盘。}
+
+#{106}{}{You see a strange holodisk.}
+{106}{}{你看见一个奇怪的全息磁盘。}
+
+#{107}{}{You see a Vault Location Disk.}
+{107}{}{你看见一个避难所定位磁盘。}

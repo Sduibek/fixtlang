@@ -1,0 +1,13 @@
+
+# {100}{}{You unlock the door.}
+# {101}{}{You accidentally jam the lock on the door.}
+# {102}{}{You cannot open this lock.}
+# {103}{}{You were not able to pick the lock.}
+# {104}{}{The door is locked.}
+# {105}{}{The door is unlocked.}
+{100}{}{你解开了这扇门上的锁。}
+{101}{}{你不小心把锁卡住了。}
+{102}{}{你不能打开这把锁。}
+{103}{}{你没能力打开这把锁。}
+{104}{}{这扇门是锁着的。}
+{105}{}{这扇门没有锁。}

@@ -1,0 +1,22 @@
+
+#{100}{}{That skill won't help here.}
+{100}{}{那技能对这里不会有什么帮助。}
+#{101}{}{You find a crude explosive device connected to the footlocker.}
+{101}{}{你发现一个连接到军用小型提箱上的粗糙的爆炸装置。}
+#{102}{}{You set off an explosive trap!}
+{102}{}{你引爆了一个爆炸陷阱！}
+#{103}{}{You disarm the trap.}
+{103}{}{你解除了陷阱。}
+#{104}{}{You did not disarm the trap.}
+{104}{}{你没能解除陷阱。}
+#{105}{}{You accidentally set off the explosive!}
+{105}{}{你意外地引爆了炸药！}
+#{106}{}{You accidentally set off the explosive, because you were smart enough
+# to find it, but not smart enough to leave it alone.}
+{106}{}{你意外地引爆了炸药，因为你足够聪明来找到它，但是要把它丢在一边脑筋还是不够用。}
+#{107}{}{Ooof!}
+{107}{}{哦呋！}
+#{108}{}{Aaargh!}
+{108}{}{呃啊啊！}
+#{109}{}{You see Set's lockbox.}
+{109}{}{你看见了赛特的带锁箱子。}

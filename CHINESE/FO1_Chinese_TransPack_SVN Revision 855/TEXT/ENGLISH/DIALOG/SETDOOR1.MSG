@@ -1,0 +1,17 @@
+
+#{100}{}{You pick the lock.}
+{100}{}{你撬锁。}
+#{101}{}{You cannot open this lock.}
+{101}{}{你无法打开这个锁。}
+#{102}{}{You broke your lockpicks.}
+{102}{}{你弄坏了你的撬锁工具。}
+#{103}{}{You don't know how to pick the lock.}
+{103}{}{你不知道如何撬锁。}
+#{104}{}{The door is locked.}
+{104}{}{门锁着。}
+#{105}{}{The door is open.}
+{105}{}{门开着。}
+#{106}{}{The door is closed and unlocked.}
+{106}{}{门关着但没锁。}
+#{107}{}{creeeeeek}
+{107}{}{吱呀。}

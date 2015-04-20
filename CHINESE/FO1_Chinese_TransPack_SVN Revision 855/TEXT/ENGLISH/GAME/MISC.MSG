@@ -1,0 +1,98 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{你确定要退出吗？}
+{1}{}{演示版}
+{2}{}{使用默认角色属性。}
+{3}{}{屏幕已经保存。}
+{4}{}{快速读取成功。}
+{5}{}{快速存档成功。}
+{6}{}{超过演示版规定时限。}
+{7}{}{哔哔小子没法在战斗中使用。}
+{8}{}{屏幕保存错误。}
+#{9}{}{INTRO}
+{9}{}{开场动画}
+#{10}{}{NEW GAME}
+{10}{}{新的游戏}
+#{11}{}{LOAD GAME}
+{11}{}{读取进度}
+#{12}{}{CREDITS}
+{12}{}{制作小组}
+#{13}{}{EXIT}
+{13}{}{离开游戏}
+{14}{}{Interplay公司1997年出品。版权所有。}
+#{15}{}{Action Points}
+#{16}{}{Hit Points}
+#{17}{}{The motion sensor option is not installed.}
+#{18}{}{The motion sensor has no charges remaining.}
+{15}{}{动作点数}
+{16}{}{生命值}
+{17}{}{动态感应器没有安装。}
+{18}{}{动态感应器没有电了。}
+
+#
+# Game config text. Defined in gconfig.c
+#
+#{100}{}{Error saving game config file!}
+#{101}{}{Game settings not saved.}
+{100}{}{储存游戏设定档案发生错误！}
+{101}{}{游戏设定档案没有储存。}
+#
+# Some radiation messages used in critter.c
+#
+#{1000}{}{You feel very nauseous.}
+#{1001}{}{You feel very nauseous, and after some mild vomiting, slightly fatigued.}
+#{1002}{}{You are very fatigued, the vomiting does not stop, and your recovery time is impaired.}
+#{1003}{}{You are hemorrhaging violently. You are very sick, and your hair is falling out.}
+#{1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off of your bones.}
+#{1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}
+#{1006}{}{You have died from radiation sickness.}
+#{1007}{}{You have received a large dose of radiation.}
+#{1008}{}{The geiger counter is clicking.}
+#{1009}{}{The geiger counter is clicking wildly.}
+{1000}{}{你感到有些恶心。}
+{1001}{}{你感到有些恶心，在呕吐了之后，你觉得有一些累。}
+{1002}{}{你感到相当的累，而且呕吐不止。}
+{1003}{}{你正在大量的出血，你感到相当的难过，而且你的头发不停的掉。}
+{1004}{}{你正不断的大量出血，你呕吐出来的大部份都是血，你的皮肤一片一片的掉下来。}
+{1005}{}{你的肠子内出血，而且你腹泻不止。你痛苦不堪。}
+{1006}{}{你因放射线感染而死亡了。}
+{1007}{}{你被大量的放射线所感染。}
+{1008}{}{盖氏计算器的指针正在移动。}
+{1009}{}{盖氏计算器的指针正在高速的移动。}
+
+#
+# Message used in actions.c
+#
+#{2000}{}{You cannot get there.}
+#{2001}{}{The lock is jammed.}
+{2000}{}{你不能够到那边。}
+{2001}{}{锁卡住了。}
+#
+# poison messages from critter.c
+#
+#{3000}{}{You have been poisoned!}
+#{3001}{}{You take damage from poison.}
+{3000}{}{你中毒了！}
+{3001}{}{你因中毒而受伤了。}
+#
+# from queue.c
+#
+#{4000}{}{Due to your inept handling, the explosive detonates prematurely.}
+{4000}{}{由于你笨拙的操作，炸药提早爆炸了。}
+#
+# from combatai.c
+#
+#{5000}{}{uses}
+#{5001}{}{is out of ammo for the}
+#{5002}{}{reloads the}
+{5000}{}{使用}
+{5001}{}{没有弹药可用}
+{5002}{}{重新上膛}
+#
+# from gdialog.c - new tell me about stuff
+#
+#{6000}{}{Ask about what?}
+{6000}{}{输入“?”可得到更多提示。}

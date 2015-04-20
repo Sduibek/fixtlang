@@ -1,0 +1,286 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Doc Morbid.}
+#{101}{}{I'm Doc Morbid, can I help you?}
+#{102}{}{Yeah, I need some help.}
+#{103}{}{I need some medical assistance.}
+#{104}{}{No, not today.}
+#{105}{}{Nng.}
+#{106}{}{Ya.}
+#{107}{}{Well, ok, then. Do come back.}
+#{108}{}{Well, if not today, then perhaps sometime in the near future.}
+#{109}{}{Hopefully not. Bye.}
+#{110}{}{We'll just have to see, now won't we. But I doubt it.}
+#{111}{}{Hmm, lets have a look.}
+#{112}{}{You seem to be in nearly perfect health. That will be $10 for the examination.}
+#{113}{}{Ten caps for you to tell me that? You gotta be kidding.}
+#{114}{}{Here you go. Take your money.}
+#{115}{}{I never joke. Especially when it comes to physical trauma. You will pay or I'll have to resort to other forms of compensation, many of which are much more painful then just paying my fee.}
+#{116}{}{Ok, here's your money.}
+#{117}{}{Bite me. I'm leaving.}
+#{118}{}{Have it your way. Cougar, Flash. Show our 'patient' to the lab.}
+#{119}{}{Thank you for your business. Come again.}
+#{120}{}{You do not have enough money. I have a very special way of dealing with debtors - I don't. Flash and Cougar, take our new found source of income to the lab for processing.}
+#{121}{}{Ok, I have your test results:}
+#{122}{}{You are }
+#{123}{}{The total cost will be $}
+#{124}{}{. Payment is due before treatment. No exceptions. Will you pay?}
+#{125}{}{Yes, I will pay.}
+#{126}{}{No, I don't have the money. Will you float me?}
+#{127}{}{No.}
+#{128}{}{Ya.}
+#{129}{}{Nuh.}
+#{130}{}{No. I don't loan anyone, and I mean anyone, any amount of money. Go away, you pauper.}
+#{131}{}{It's your life. Good-Bye.}
+#{132}{}{Excellent. Let's begin. This might hurt a little . . .}
+#{133}{}{There you go. Come back again!}
+#{134}{}{Oh, back so soon. What can I help you with?}
+#{135}{}{I need healing.}
+#{136}{}{Nothing, just making small talk.}
+#{137}{}{Wock!}
+#{138}{}{Please make it somewhere else, I'm busy.}
+#{139}{}{Hmmm. I don't like your looks, stranger. But what can I do for you? I never, ever turn away a paying customer.}
+#{140}{}{I need some help.}
+#{141}{}{I need some medical assistance.}
+#{142}{}{Nothing today, thanks.}
+#{143}{}{Hep.}
+#{144}{}{Oh, It's you again. I like your style, even if I don't like you. What can I help you with, now?}
+#{145}{}{I need healing.}
+#{146}{}{Nothing, just making small talk.}
+#{147}{}{Wock!}
+#{148}{}{Oh, It's a customer! What can I help you with?}
+#{149}{}{I need healing.}
+#{150}{}{Nothing, just making small talk.}
+#{151}{}{You seem exited to see me. Why?}
+#{152}{}{Wock!}
+#{153}{}{My business has dropped off recently. I'm happy to see any customers, these days. Not that I mind your company, of course.}
+#{154}{}{Excellent, I need some healing.}
+#{155}{}{Why has your business dropped off?}
+#{156}{}{Of course, I understand. Have a good day.}
+#{157}{}{Well, if you do need anything, please stop by. No one can beat my service!}
+#{158}{}{In case you haven't noticed, I got some competition.}
+#{159}{}{ Complaining to Killian won't do anything. He doesn't see anything wrong with the newcomers.}
+#{160}{}{ Those damn Children have moved in next door, and all, um, much of my business has gone to them. I don't like it, but I can't lower my prices to match theirs. I can only provide better service.}
+#{161}{}{Ahh, I do need some healing.}
+#{162}{}{Hmm, better prices, interesting. Thank you.}
+#{163}{}{Ahh, a repeat customer. Excellent these days! How can I help you?}
+#{164}{}{I need healing.}
+#{165}{}{Nothing, just making small talk.}
+#{166}{}{Wock!}
+#{167}{}{I hope you have a good reason for disturbing me. My time is extremely valuable.}
+#{168}{}{I'm dying here! Please help!}
+#{169}{}{I'm sorry for disturbing you, but I need assistance.}
+#{170}{}{Aggh!}
+#{171}{}{I don't find your humor funny. Please leave so I can return to my work.}
+#{172}{}{Hmm. Well, you seem fine to me. Perhaps you need some rest. Try the Crash House, around the corner. Good night.}
+#{173}{}{I'm sorry, I don't treat idiots at this time of night. Something about full moons and lunacy, I suppose. Have a good night.}
+#{174}{}{You again. I hope you have another good reason for disturbing me . . .}
+#{175}{}{I'm dying here! Please help!}
+#{176}{}{I'm sorry for disturbing you, but I need assistance.}
+#{177}{}{Aggh!}
+# TRANSLATION NOTES
+# When the player gets help from the Doctor, it will build a diagnosis report
+# from the lines below. First, it uses one of lines 178-182 to report
+# the character's status. Second, it adds on one of lines 183-186.
+# If the player is poisoned, it appends one of lines 187-190; if
+# the player is irradiated, it adds a line from 191-194 depending on
+# the severity of the radiation, and then adds line 195 as well.
+#{178}{}{perfectly healthy,}
+#{179}{}{slightly wounded,}
+#{180}{}{moderately wounded,}
+#{181}{}{seriously wounded,}
+#{182}{}{near death,}
+#{183}{}{ in my medical opinion.}
+#{184}{}{ according to my tests.}
+#{185}{}{ without a doubt.}
+#{186}{}{ in my humble opinion.}
+#{187}{}{ You are definitely suffering from poison.}
+#{188}{}{ You have been poisoned.}
+#{189}{}{ Did you know you are poisoned?}
+#{190}{}{ You have a deadly toxin in your bloodstream.}
+#{191}{}{ You have minor radiation poisoning.}
+#{192}{}{ You have some serious radiation poisoning.}
+#{193}{}{ Your body has absorbed an incredible amount of radiation.}
+#{194}{}{ I have never seen such readings on my radscanner. I think you are about to die. I give you two to three weeks.}
+#{195}{}{ There is not much I can do about it.}
+#{196}{}{I hope you have a good reason for disturbing me. My time is extremely valuable.}
+#{197}{}{I'm dying here! Please help!}
+#{198}{}{I'm sorry for disturbing you, but I need some assistance.}
+#{199}{}{Aggh!}
+#{200}{}{I don't find your humor funny. Please leave so I can return to my work.}
+#{201}{}{Hmm. Well, you seem fine to me. Perhaps you need some rest. Try the Crash House, around the corner. Good night.}
+#{202}{}{I'm sorry, I don't treat idiots at night. Something about full moons and lunacy, I suppose. Have a good night.}
+#{203}{}{You again. I hope you have another good reason for disturbing me . . .}
+#{204}{}{Trespasser! This is a private room!}
+#{205}{}{}
+#{206}{}{}
+#{207}{}{Throw down, butcher!}
+#{208}{}{Wait!}
+#{209}{}{Ack!}
+#{210}{}{Don't try to talk your way out of this one!}
+#{211}{}{Why should I?}
+#{212}{}{I'm no danger to you!}
+#{213}{}{I'm putting a stop to your operation, right here, right now!}
+#{214}{}{No! I won't let you shut down my operation! Gretch, get }
+#{215}{}{Why?!}
+#{216}{}{I know what you are doing here, and I won't stop you.}
+#{217}{}{You are obviously far more powerful than I am.}
+#{218}{}{That is true. Unfortunately, you have seen too much. Hmm.}
+#{219}{}{ You will have to be dealt with. Sorry.}
+#{220}{}{ You must prove your sincerity. And I might be able to make a little profit out of this deal.}
+#{221}{}{What do you mean?}
+#{222}{}{No deals, no way.}
+#{223}{}{Fine. Have it your way!}
+#{224}{}{I will take something from you. And then we will be even.}
+#{225}{}{Okay.}
+#{226}{}{No way.}
+#{227}{}{Excellent!}
+#{228}{}{Doc Morbid reaches up with a surgical tool, and, before you can react, removes one of your eyes. It is extremely painful.}
+#{229}{}{Now, half of what you have just seen is mine again.}
+#{230}{}{YOU RIPPED OUT MY EYE! YOU MOTHER . . . }
+#{231}{}{Now, now. Watch your language.}
+#{232}{}{The doctor is out.}
+#{233}{}{I know about you and Iguana Bob, you filthy butcher.}
+#{234}{}{Wh . . . what could you possibly mean?}
+#{235}{}{I had a little conversation with your troll . . .}
+#{236}{}{【He looks shiftily from side to side】 That proves nothing. Gretch is a little . . . slow in the head. No one listens to him around here. You had best leave.}
+
+
+{100}{}{你看到莫彼得医生。}
+{101}{}{我是医生莫彼得，需要我帮忙吗？}
+{102}{}{是的，我需要一些帮助。}
+{103}{}{我想检查身体。}
+{104}{}{不，今天不要。}
+{105}{}{恩。}
+{106}{}{呀。}
+{107}{}{好了，很不错。有问题再回来。}
+{108}{}{很好，如果今天不要，也许以后会的。}
+{109}{}{希望不会，再见。}
+{110}{}{检查身体是必须的，不见得现在就要查，但是谁也说不好什么时候就出问题。}
+{111}{}{恩，看看吧。}
+{112}{}{您看上去太健康啦，太完美啦！请付检查费10元。}
+{113}{}{这叫什么检查？要我十个瓶盖？你也太黑了。}
+{114}{}{就这样吧，拿走你的钱。}
+{115}{}{我一点都不黑啊。尤其是当你受到外伤的时候，如果还不付钱，我就不得不用其他的形式来弥补我内心失衡，那样你会更痛苦的。}
+{116}{}{好吧，我给你钱。}
+{117}{}{就不给！我这就走，你来咬我啊！}
+{118}{}{真是好言难劝该死的鬼！库戈尔，弗莱施。带我们的“患者”去诊室。}
+{119}{}{非常感谢你的支持！欢迎再来。}
+{120}{}{你这该死穷鬼。不过我有一个非常特别的方法处理我的债务人。弗莱施，库戈尔，把我们新找到的收入来源带到诊室处理。}
+{121}{}{好，你的检查结果：}
+{122}{}{你是}
+{123}{}{费用一共是}
+{124}{}{个瓶盖，在治疗以前必须先付款。没有例外。你会支付吗？}
+{125}{}{是的，我会付钱的。}
+{126}{}{不好意思，我忘带钱了，能先赊帐吗？}
+{127}{}{不行。}
+{128}{}{呀。}
+{129}{}{恩。}
+{130}{}{没门，我从不借钱给任何人，滚，你个穷鬼。}
+{131}{}{享受生活把，拜拜。}
+{132}{}{太棒啦，让我们开始吧，这可能有点痛……}
+{133}{}{就这样吧，欢迎再来！}
+{134}{}{哟，这么快又回来了，我能帮你做点什么？}
+{135}{}{我要治疗。}
+{136}{}{没事，只是想聊聊天。}
+{137}{}{我晕！}
+{138}{}{请去别处聊天吧，我现在很忙。}
+{139}{}{哎，我不喜欢你的样子，陌生人，但是我仍会为你做点什么。我从不拒绝每一个付钱的客户。}
+{140}{}{我需要一些帮助。}
+{141}{}{我需要些医疗援助。}
+{142}{}{今天没事，谢谢。}
+{143}{}{帮助。}
+{144}{}{哦？又是你。我虽然不喜欢你，但我欣赏你的个性，现在需要我的帮助吗？}
+{145}{}{我要治疗。}
+{146}{}{没事，只是想聊聊天。}
+{147}{}{我晕！}
+{148}{}{噢，消费者就是上帝，需要帮助吗？}
+{149}{}{我要治疗。}
+{150}{}{没事，只是想聊聊天。}
+{151}{}{为什么你看到我那么激动？}
+{152}{}{我晕！}
+{153}{}{我的生意最近不大好。现在我见到有消费者来当然很高兴，我并不是想拍你马屁。}
+{154}{}{非常好，我需要治疗。}
+{155}{}{为什么你的生意会不好？}
+{156}{}{当然，我理解。祝你今天愉快！}
+{157}{}{很好，如果你有需要，我们随时效劳。我们的服务是众所周知的！}
+{158}{}{你也许没有注意到，到处都是竞争者。}
+{159}{}{基利安镇长的抱怨根本不管事，他没看见新来的人犯任何错误。}
+{160}{}{那些该死大教堂教徒已经搬进隔壁，哎，我的许多生意被他们抢去了。我不喜欢他们，可我不能降低我的价格和他们竞争。我只能提供更好的服务。}
+{161}{}{啊哈，我需要些治疗。}
+{162}{}{恩，价格公道，不错，谢谢。}
+{163}{}{哈，一个回头客。太好了！我能帮助做点你什么？}
+{164}{}{我需要治疗。}
+{165}{}{没事，只是想聊聊天。}
+{166}{}{我晕！}
+{167}{}{我希望你找个好点的理由来烦我。我的时间非常宝贵。一秒钟好几十万呢。}
+{168}{}{我要死了！快救命啊！}
+{169}{}{我非常抱歉打扰了你，但是我需要你的协助。}
+{170}{}{啊！}
+{171}{}{我没觉得你的幽默有多好笑。请离开，我要回去工作。}
+{172}{}{恩，好吧，你看上对我去不错。也许你需要休息。去拐角那的房子看看把。晚安。}
+{173}{}{对不起，我夜间从不接待白痴，尤其是深夜来访的神经病。我认为你应该回家睡觉。晚安。}
+{174}{}{又是你。我希望你能换个更好的理由来烦我……}
+{175}{}{我要死了！快救命啊！}
+{176}{}{我非常抱歉打扰了你，但是我需要你的协助。}
+{177}{}{啊！}
+{178}{}{　非常健康，}
+{179}{}{　受轻伤，}
+{180}{}{　中度创伤，}
+{181}{}{　严重受伤，}
+{182}{}{　接近死亡，}
+{183}{}{　我的体查评价。}
+{184}{}{　根据我的测试。}
+{185}{}{　没有疑问。}
+{186}{}{　以我粗略的判断。}
+{187}{}{　你确认中毒了。}
+{188}{}{　你已经中毒了。}
+{189}{}{　你知道你中毒了吗?}
+{190}{}{　你的血液中含致命的毒素。}
+{191}{}{　你受到少量辐射。}
+{192}{}{　你受到大量辐射。}
+{193}{}{　你的身体已经吸收了超量辐射。}
+{194}{}{  我从未在我的辐射检测器上见到如此可怕的数据。我认为你活不过二到三个星期了。}
+{195}{}{  我已经尽力了。}
+{196}{}{我希望你找个好点的理由来烦我。我的时间非常宝贵。一秒钟好几十万呢。}
+{197}{}{我要死了！快救命啊！}
+{198}{}{我非常抱歉打扰了你，但是我需要你的协助。}
+{199}{}{啊！}
+{200}{}{我没觉得你的幽默有多好笑。请离开，我要回去工作。}
+{201}{}{恩，好吧，你看上对我去不错。也许你需要休息。去拐角那的房子看看把。晚安。}
+{202}{}{对不起，我夜间从不接待白痴，尤其是深夜来访的神经病。我认为你应该回家睡觉。晚安。}
+{203}{}{你怎么又来了？我希望你能换个更好的理由来烦我……}
+{204}{}{入侵者！这是一个私人房间！}
+{205}{}{}
+{206}{}{}
+{207}{}{去死把，你这屠夫。}
+{208}{}{等等！}
+{209}{}{嘿！}
+{210}{}{你逃不掉的，别费劲了。}
+{211}{}{我为什么要逃？}
+{212}{}{我对你没有恶意！}
+{213}{}{我要你给我马上停下来！}
+{214}{}{没门！你不可能阻止我！}
+{215}{}{为什么？！}
+{216}{}{你在这里做的什么好事我都知道，不过别担心我不会阻止你。}
+{217}{}{你明显比我强。}
+{218}{}{事实上。很不幸，你看到的太多了，恩。}
+{219}{}{ 别怪我，你已经上了贼船。}
+{220}{}{ 你必须要证明你的真诚。也许我可以给你些好处。}
+{221}{}{你什么意思？}
+{222}{}{没门，你做梦。}
+{223}{}{很好，随你的便，着可是你自找的！}
+{224}{}{我要从你这拿点东西，然后我们就当做一切都没发生过。}
+{225}{}{好呀。}
+{226}{}{没门！}
+{227}{}{太棒了！}
+{228}{}{莫彼得医生抽出一个外科手术工具，在你还没反应过来之前，他把工具插入你的一只眼睛里。你感到极端的痛苦。}
+{229}{}{现在，你又能看见东西啦，不过只能看到我的一半。}
+{230}{}{你弄瞎了我的眼睛！你大爷的……肏……}
+{231}{}{别激动，打住，注意你的素质，素质。}
+{232}{}{医生外出了。}
+{233}{}{我知道关于你和蜥蜴鲍伯的事，你这恶心的屠夫。}
+{234}{}{哇哈……你这是什么意思？}
+{235}{}{我想和你谈谈……}
+{236}{}{【他的眼睛四处游离】那证明不了什么，葛瑞的脑子有一点点……迟钝。附近没人知道他的。你最好离开。}

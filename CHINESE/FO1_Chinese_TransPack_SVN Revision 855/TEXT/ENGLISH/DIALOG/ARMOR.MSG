@@ -1,0 +1,26 @@
+#{100}{}{You see damaged Power Armor.}
+{100}{}{你看见一具损坏了的能量装甲。}
+
+#{101}{}{You cannot use this until it is repaired.}
+{101}{}{你不能使用这套装甲，除非你能修好它。}
+
+#{102}{}{It seems to be missing a part that you can't find.}
+{102}{}{它似乎缺少一个部件，而你还没找到这个部件。}
+
+#{103}{}{It is obvious that you do not yet have the skill to repair this.}
+{103}{}{很显然，你现在还没有这种技能能修好这套装甲。}
+
+#{104}{}{You repair the armor.}
+{104}{}{你修好了这套装甲。}
+
+#{105}{}{That does nothing.}
+{105}{}{什么用都没有。}
+
+#{106}{}{You fail to repair the armor.}
+{106}{}{你尝试修理这套装甲失败。}
+
+#{107}{}{You gain }
+{107}{}{你获得了}
+
+#{108}{}{ experience points for repairing the power armor.}
+{108}{}{点经验值，因为你修好了这套能量装甲。}

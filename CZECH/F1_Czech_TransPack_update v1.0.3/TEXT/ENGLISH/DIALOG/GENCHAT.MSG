@@ -1,0 +1,96 @@
+{100}{}{Dìkuji.}
+{101}{}{Sbohem.}
+{102}{}{Ahoj.}
+{103}{}{Dostáváš }
+{104}{}{ zkušenostních bodù.}
+{105}{}{Uch och!}
+{106}{}{Klik!}
+{107}{}{Opps!}
+{108}{}{Ouvej!}
+{109}{}{Uvidíme se.}
+{110}{}{Buï v pohodì.}
+{111}{}{Byla to sranda.}
+{112}{}{Tumáš.}
+{113}{}{Ještì nìco?}
+{114}{}{Ano.}
+{115}{}{Ne.}
+{116}{}{Dostáváš }
+{117}{}{ bodù k Lehkým zbraním.}
+{118}{}{ bodù k Tìžkým zbraním.}
+{119}{}{ bodù k Energetickým zbraním.}
+{120}{}{ bodù k Boji beze zbranì.}
+{121}{}{ bodù k Boji na blízko.}
+{122}{}{ bodù k Vrhu.}
+{123}{}{ bodù k První pomoci.}
+{124}{}{ bodù k Doktoru.}
+{125}{}{ bodù k Plížení.}
+{126}{}{ bodù k Ukrást.}
+{127}{}{ bodù k Paklíèi.}
+{128}{}{ bodù k Pasti.}
+{129}{}{ bodù k Vìdì.}
+{130}{}{ bodù k Opraváøi.}
+{131}{}{ bodù k Øeèi.}
+{132}{}{ bodù k Obchodu.}
+{133}{}{ bodù k Hazardním hrám.}
+{134}{}{ bodù k Zálesáku.}
+{135}{}{Dostáváš bod k Lehkým zbraním.}
+{136}{}{Dostáváš bod k Tìžkým zbraním.}
+{137}{}{Dostáváš bod k Energetickým zbraním.}
+{138}{}{Dostáváš bod k Boji beze zbranì.}
+{139}{}{Dostáváš bod k Boji na blízko.}
+{140}{}{Dostáváš bod k Vrhu.}
+{141}{}{Dostáváš bod k První pomoci.}
+{142}{}{Dostáváš bod k Doktoru.}
+{143}{}{Dostáváš bod k Plížení.}
+{144}{}{Dostáváš bod k Ukrást.}
+{145}{}{Dostáváš bod k Paklíèi.}
+{146}{}{Dostáváš bod k Pastem.}
+{147}{}{Dostáváš bod k Vìdì.}
+{148}{}{Dostáváš bod k Opraváøi.}
+{149}{}{Dostáváš bod k Øeèi.}
+{150}{}{Dostáváš bod k Obchodu.}
+{151}{}{Dostáváš bod k Hazardním hrám.}
+{152}{}{Dostáváš bod k Zálesáku.}
+{153}{}{Tvá SÍLA se zvìtšila o }
+{154}{}{Tvá VNÍMAVOST se zvìtšila o }
+{155}{}{Tvá ODOLNOST se zvìtšila o }
+{156}{}{Tvá CHARISMA se zvìtšila o }
+{157}{}{Tvá INTELIGENCE se zvìtšila o }
+{158}{}{Tvá HBIBOST se zvìtšila o }
+{159}{}{Tvé ŠTÌSTÍ se zvìtšilo o }
+{160}{}{ body.}
+{161}{}{Tvá SÍLA se zvìtšila o bod.}
+{162}{}{Tvá VNÍMAVOST se zvìtšila o bod.}
+{163}{}{Tvá ODOLNOST se zvìtšila o bod.}
+{164}{}{Tvá CHARISMA se zvìtšila o bod.}
+{165}{}{Tvá INTELIGENCE se zvìtšila o bod.}
+{166}{}{Tvá HBITOST se zvìtšila o bod.}
+{167}{}{Tvé ŠTÌSTÍ se zvìtšilo o bod.}
+{168}{}{Dík za pomoc.}
+{169}{}{Dík za nic.}
+{170}{}{Aradesh je naštvaný a nehodlá se s tebou už bavit.}
+{171}{}{Myslím, že s tebou chce mluvit Vùdce.}
+{172}{}{Budeš platit za své ROUHAÈSTVÍ!}
+{173}{}{Tento robot vypadá nefunkènì. Je to patrnì kvùli chybìjícímu zdroji energie.}
+{174}{}{Nic zvláštního na tom robotu nevidíš.}
+{175}{}{Tento èlen Blades s tebou nehodlá mluvit.}
+{176}{}{Kufr je zmaèkaný a zaseknutý.}
+{177}{}{Prosím, musíme spìchat. Nemáme èas mluvit.}
+{178}{}{Jen Morpheus má klíè k tìmto dveøím. Musím dát vìdìt Nicole, o co tu jde.}
+{179}{}{Prosím, musím odsud vypadnout, než pøijdou na to, kdo jsem.}
+{180}{}{Nepodaøilo se ti nic ukrást, bojíš se, že bys mohl být chycen.}
+{181}{}{Èlenové Bratrstva tì pøistihli, jak kradeš.}
+# Zprávy Tajemného Cizince
+{182}{}{Rozjedem to!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 0
+{183}{}{Vypadá to, že potøebuješ nìjakou pomoc.}ÿ# 1
+{184}{}{Pomohu ti.}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 0
+{185}{}{Moc nekecám.}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 1
+{186}{}{Slyšíš reproduktor: Pozor! Vetøelec.}
+{187}{}{Sliz zpomalil pøenos úhozù na klávesnici.}
+{188}{}{Radškorpióni jsou teï zataraseni ve své jeskyni.}
+{189}{}{Ústí jeskynì tì vede hloubìji do hnízda radškorpiónù.}
+
+{200}{}{Vidíš hodnì znièený zdroj pole.}
+{201}{}{Zdroj je pøíliš znièený, než aby se dal použít.}
+{202}{}{Zdroj je pøíliš znièený, než aby se dal opravit.}
+{203}{}{Pole je dostateènì oslabeno, aby se skrz nìj dalo projít.}

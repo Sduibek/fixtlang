@@ -1,0 +1,161 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a guard for the Children.}
+#{101}{}{Phillips! Let's take this guy out!}
+#{102}{}{Get outta my face!}
+#{103}{}{What do you want?}
+#{104}{}{Tell me about your work.}
+#{105}{}{What's this place about?}
+#{106}{}{You wouldn't know where I can find a water chip?}
+#{107}{}{What can you tell me about a man named Decker?}
+#{108}{}{Nice weapon you got there}
+#{109}{}{Uh?milk.}
+#{110}{}{I'm a hired hand. If anyone bothers these space cadets, I kill em. You got a problem with that?}
+#{111}{}{So you're a bodyguard}
+#{112}{}{Who hired you?}
+#{113}{}{Anything interesting happening in the Hub?}
+#{114}{}{What are you making?}
+{100}{}{你看到大教堂的一个警卫。}
+{101}{}{菲利普斯！把这些家伙赶出去！}
+{102}{}{在我面前消失！}
+{103}{}{你想干什么?}
+{104}{}{告诉我你的工作。}
+{105}{}{这是什么地方？}
+{106}{}{你知道到哪里找到一个净水芯片吗？}
+{107}{}{我想知道一个叫德克的家伙的事情。}
+{108}{}{你从哪搞来这么好的武器}
+{109}{}{哦？牛奶。}
+{110}{}{我是个佣兵，我负责杀死敢向那些皮条客挑衅的人，你有什么问题吗？}
+{111}{}{那么你是个保镖？}
+{112}{}{你的老大是谁？}
+{113}{}{哈勃城有什么有趣的事吗？}
+{114}{}{你在做什么？}
+#{115}{}{Yeah. A big problem.}
+#{116}{}{No problem, friend.}
+#{117}{}{Something called a Holy Flame. Don't listen to this bullshit, it'll rot your brain!}
+#{118}{}{What's your take on this Holy Flame?}
+#{119}{}{Man, are these people ever stupid!}
+#{120}{}{Anything interesting happening in the Hub?}
+#{121}{}{Where did these guys come from?}
+#{122}{}{Water chip? Do you mean like ice chips? Up in the mountains, maybe.}
+#{123}{}{No, I mean the computer chip to control a water purification system.}
+#{124}{}{Not that kind of chip, you moron!}
+#{125}{}{Uh thanks. I think.}
+#{126}{}{You ever been to the mountains?}
+#{127}{}{Yeah, I heard about him. He's a real bastard, but he pays his bills. Phillips worked for him a few times.}
+#{128}{}{So you think he's a creep?}
+#{129}{}{Phillips?}
+#{130}{}{Would you take a job from him.}
+#{131}{}{Thanks!}
+{115}{}{是的，一个大麻烦。}
+{116}{}{没问题，朋友。}
+{117}{}{有人说是圣火，别听这些胡说八道，除非你想变痴呆。}
+{118}{}{你想在这些圣火上得到点什么？}
+{119}{}{喂，这些人一直这么蠢么？}
+{120}{}{哈勃城有什么令人高兴的事吗？}
+{121}{}{这些家伙从哪来的？}
+{122}{}{净水芯片？你是说冰片吗? 去冰山上，那里可能有。}
+{123}{}{不是，我说的是一个控制水净化的计算机芯片。}
+{124}{}{不是那种芯片，白痴！}
+{125}{}{哦多谢，我考虑下。}
+{126}{}{你去过山上吗？}
+{127}{}{哈，我知道他，他完完全全是个混蛋，但是他用钱开路，菲利普斯为他工作一段时间了。}
+{128}{}{所以你认为他是个流氓？}
+{129}{}{菲利普斯？}
+{130}{}{你想为他工作吗？}
+{131}{}{谢谢！}
+{132}{}{哈，这是我唯一想在火拼中拿到的东西，我能帮你些什么？}
+#{132}{}{Yeah, this is the only one I'd want in a fire fight. What can I do for you?}
+#{133}{}{Where can a guy go here to get some quality weapons?}
+#{134}{}{What's up with these Cathedral guys?}
+#{135}{}{Where can a guy go to find action around here?}
+#{136}{}{You wouldn't know where I can find a water chip?}
+#{137}{}{What can you tell me about a man named Decker?}
+#{138}{}{Sorry pal, but I'm on duty. No small talk.}
+#{139}{}{Get the Hell out of my face before I kill you.}
+#{140}{}{Way to go, Rocket Scientist! Who else could I be, Doc Morbid? Jeez!}
+#{141}{}{The priest bitch. Who else did you think? Jeez!}
+#{142}{}{I hate to admit it pal, but I've been out of the loop for weeks. You better ask someone else.}
+#{143}{}{Room and board and not much else. These religious types are cheap!}
+#{144}{}{Then let's solve it!}
+#{145}{}{Fine. Because nobody likes a problem around here.}
+#{146}{}{It's gotta be a scam. Nobody's really dumb enough to believe all this religious shit. Could they?}
+#{147}{}{Yeah. It's a good thing that they aren't paying me to agree with them. Holy flame, my ass!}
+#{148}{}{I dunno. I can tell you one thing, whatever you can say about the religion, they're not amateurs. They came in and organized this place like clockwork. This isn't just another band of mindless zombies.}
+#{149}{}{Jeez, I thought only Vaults used that sort of crap!}
+#{150}{}{Watch your mouth, asshole. These people may believe in peace and love, but I don't!}
+#{151}{}{No problem.}
+{133}{}{能在哪里找到一些好的武器？}
+{134}{}{这些大教堂的家伙怎么了？}
+{135}{}{到哪里找刺激？}
+{136}{}{你不知道我能在那里找到净水芯片吗？}
+{137}{}{关于那个叫德克的你能告诉我什么？}
+{138}{}{朋友，我在工作。不能闲扯。}
+{139}{}{在我他妈的杀了你这个混蛋之前在我面前消失。}
+{140}{}{走开，火箭专家，你以为我是谁，莫彼得医生？靠！}
+{141}{}{变态牧师？你还想到谁？操！}
+{142}{}{我不想把它当朋友，而且我已经从那个圈子里出来好几个星期了，你最好问别人。}
+{143}{}{除了吃住就没好处了，这些宗教一股穷酸气！}
+{144}{}{那么让我们把事情解决了吧！}
+{145}{}{好，没人喜欢总纠缠一个问题。}
+{146}{}{这是个诡计。没有人真的相信那些狗屎宗教，对吧？}
+{147}{}{哈，没让我和他们掺合也是间好事。圣火，还不如我的屁股！}
+{148}{}{我不知道。我只能说，无论你怎么说这些信徒，他们都不是简单的票友，他们来到这里并组织的像口钟这么严密。这不是傻乎乎的拜蛇神。}
+{149}{}{见鬼去吧！我以为只有避难所的人会说这种蠢话！}
+{150}{}{看你的臭嘴。这些人可能会信和平和爱情！哈，我才不会！}
+{151}{}{没问题。}
+#{152}{}{Nah. The higher you climb, the worse the radiation gets.}
+#{153}{}{Uh, if you like psychotic, stone cold ruthless bastards, then he's the man.}
+#{154}{}{My partner. The guy who's guarding Jain.}
+#{155}{}{It depends on how much risk you like. My life's been kinda busy lately, so I came here to lie low. But if you like action, sure. Just don't screw up or you're dead, that's all.}
+#{156}{}{I hear the Water Merchants are always packing the best shit. But people will say anything about the Water Merchants. It ain't here among this crowd, that's for damn sure.}
+#{157}{}{I been trying to get a good read on these guys for weeks. At first I thought they were fools, but now? I ain't sure. They're organized, and they've got a plan. I can smell it!}
+#{158}{}{I hear Decker's got some action, but man, it's shitty work and if you screw up, you're as good as dead.}
+#{159}{}{Water purification chip? You don't use well water? Good lord! I heard tell of a Vault near Shady Sands where you might find one, but that place is completely caved in. I don't think I can help you.}
+#{160}{}{Can't talk. The boss don't like it. Sorry.}
+#{161}{}{Hey, you!}
+#{162}{}{Hey! What do you think you're doing!}
+#{163}{}{Why the lock?}
+#{164}{}{Hey, I'm backing off!}
+#{165}{}{Can you give me a hand with this door? It's stuck!}
+#{166}{}{You saw me! Too bad for you厎
+#{167}{}{None of your business! Get outta here!}
+{152}{}{哈。你爬得越高，受的辐射就越厉害。}
+{153}{}{呃，如果你喜欢精神病，或者像石头一样无情的杂种，你就应该去找他。}
+{154}{}{我的朋友。他负责保护简恩。}
+{155}{}{就看你愿意担多少风险了。我最近烦心的事情多，所以我来这里后比较低调。如果你这个人爱闹腾，随你。只要你别乱来，否则死路一条，我就说这么多了。}
+{156}{}{我听说纯水商队是最屎的。但人们一般什么都不说。如果不是在这里，他们肯定被人干掉。}
+{157}{}{我这几个星期试着对这些家伙有一些好印象。起初我认为他们是一群傻瓜。但是，现在我不敢确定，我感到他们有组织有计划。我都能嗅出来！}
+{158}{}{我听说德克有些活动，但是对你来说，那是狗屎工作生不如死。}
+{159}{}{水净化芯片？你不是用井水？天！我听说沙荫镇附近的避难所有一个但是那个地方已经完全被封住了，我无法帮你。}
+{160}{}{不说。老板可不喜欢这样，抱歉。}
+{161}{}{嘿，你！}
+{162}{}{嘿！你在干什么？}
+{163}{}{怎么锁着？}
+{164}{}{嘿，我正在退让！}
+{165}{}{你能帮我开门吗？它被钉死了！}
+{166}{}{你见过我？对你太不幸了。}
+{167}{}{没你的事，滚！}
+#{168}{}{Good! Now get outta here!}
+#{169}{}{Get lost! If you pull this sort of shit again, I'll kill you personally!}
+#{170}{}{We ain't supposed to talk to you. On your way, pal.}
+#{171}{}{Hey! What do you think you're doing!}
+#{172}{}{Why the lock?}
+#{173}{}{Hey, I'm backing off!}
+#{174}{}{Can you give me a hand with this door? It's stuck!}
+#{175}{}{You saw me! Too bad for you厎
+#{176}{}{None of your business! Get outta here!}
+#{177}{}{Good! Now get outta here!}
+#{178}{}{Get lost! If you pull this sort of shit again, I'll kill you personally!}
+{168}{}{好！滚出去！}
+{169}{}{丢了！你要是再这样胡说八道，我亲自送你升天！}
+{170}{}{我们不能和你说话，离开这里，朋友。}
+{171}{}{嘿！你知道你在干什么吗！}
+{172}{}{怎么锁着！}
+{173}{}{嘿，我正在退让！}
+{174}{}{你能帮我开门吗？它被钉死了！}
+{175}{}{你见过我？对你太不幸了。}
+{176}{}{没你的事，滚！}
+{177}{}{好！滚出去！}
+{178}{}{丢了！你要是再这样胡说八道，我亲自送你升天！}

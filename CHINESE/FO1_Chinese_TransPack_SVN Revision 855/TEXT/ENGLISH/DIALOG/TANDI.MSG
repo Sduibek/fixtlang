@@ -1,0 +1,356 @@
+#{100}{}{You see Tandi.}
+{100}{}{你看到坦蒂。}
+#{101}{}{What else is around these parts?}
+{101}{}{这附近还有别的什么吗？}
+#{102}{}{What's going on around here?}
+{102}{}{这附近发生了什么事？}
+#{103}{}{Have you heard any stories from down south?}
+{103}{}{你听说过南方的一些事吗？}
+#{104}{}{How do you like it here?}
+{104}{}{你觉得这里怎么样？}
+#{105}{}{Well, that's about it. Thanks for your time.}
+{105}{}{很好，就这些，谢谢你。}
+#{106}{TAND_1}{Hi!  I heard there was a traveller in town, but I was
+ #kinda skeptical until I saw you.  My name's Tandi, what's yours?}
+{106}{}{你好！我听说小镇里来了个旅行者，不过直到在我见到你之前我还有点不太相信。我的名字叫坦蒂，你呢？}
+#{107}{}{My name is }
+{107}{}{我的名字叫}
+#{108}{}{.}
+{108}{}{。}
+#{109}{}{The name is }
+{109}{}{名字是}
+#{110}{}{.#Remember it.}
+{110}{}{。记住了。}
+#{111}{}{Uhhh?}
+{111}{}{嗯？}
+#{112}{tand_2}{Well..how do you like our little town?  Bored yet?}
+{112}{tand_2}{喂……你觉得我们的小镇怎么样？觉得无聊了吧？}
+#{113}{}{It's okay. Can I ask you a few questions, though?}
+{113}{}{还好吧。我还可以问你一些问题吗？}
+#{114}{}{Hell, yes. There's nothing to do here but watch the Brahma mate.}
+{114}{}{嗯，可不。这儿除了看双头牛交配以外就没什么好做的了。}
+#{115}{}{I guess it's okay.}
+{115}{}{我觉得还凑合。}
+#{116}{}{Well, yes. It is a bit boring.}
+{116}{}{嗯，是的。是有一点无聊。}
+#{117}{TAND_3}{ Sure, I guess.  I've never been out of here, so I don't know
+ #what help I can be.  So, what'cha need?}
+{117}{TAND_3}{当然可以了。我从没有离开过这里，所以我不知道有什么可以帮忙的。那么，你想知道什么？}
+#{118}{TAND_4}{Yeah.  Well you don't
+ #live here.  There's nothing interesting to do, and believe you me, Brahma
+ #Tipping gets old real fast.}
+{118}{TAND_4}{是啊。幸好，你不用在这儿生活。这里真没什么好玩的，知道吗，很快你就会对双头牛的游戏感到厌倦的。}
+#{119}{}{If you're so bored, why don't you leave?}
+{119}{}{如果你觉得很无聊，为什么不离开呢？}
+#{120}{}{Well, I'm sure you're exaggerating.}
+{120}{}{你的话有点夸张啊。}
+#{121}{}{It seems nice and safe here.}
+{121}{}{这里似乎很不错，很安全。}
+# {122}{TAND_5}{Me, leave?  I wish.  I don't know
+# enough to leave alone and no one else wants to go, and worst of all, my father
+# says he would have a heart attack if something happened to me! }
+{122}{TAND_5}{我，离开这里？那可真造化了。我不知道怎样一个人离开，而且连个伴都没有。最糟糕的是，我爸爸说如果我出了什么事他会得心脏病的！}
+#{123}{}{Tough situation. Can I ask you a few questions, though?}
+{123}{}{真是可怜可叹啊，我还可以问你一些问题吗？}
+#{124}{}{Shoot, I have to go. Good luck.}
+{124}{}{行了吧。我走了。祝你好运。}
+#{125}{TAND_6}{Uh...I have to stand over here now. }
+{125}{TAND_6}{嗯……我现在不得不呆在这里。}
+#{126}{TAND_12}{You live here all your life and see how you like it!  Anything
+# else you want to know?}
+{126}{TAND_12}{你在这里生活了一辈子，那时候再看你会不会喜欢这里！还有什么你想要知道的？}
+#{127}{TAND_13}{Yeah, real safe...and so boring I think my brain's going to
+# leak out of my ear at any moment.}
+{127}{TAND_12}{是啊，很安全……就是无聊到了极点，我都觉得脑袋要炸了。}
+#{128}{}{Why don't you leave?}
+{128}{}{为什么你不离开？}
+#{129}{}{Sorry to hear that, but I don't have much time.
+ # Can I ask you a few questions?}
+{129}{}{很同情，但我的时间有限。我可以问你一些问题吗？}
+# {130}{TAND_14}{Finally!  Someone else who
+ # sees! Of course, you've probably been everywhere, so this must be hell for
+ # you.}
+{130}{TAND_14}{终于！总算有其他人也这么想了！你是到处转悠的人，肯定觉得这里真是闷出鸟来的鬼地方。}
+# {131}{}{If you're so bored, why don't you leave?}
+{131}{}{如果你感到很无聊，为什么不离开呢？}
+#{132}{}{Well, I'm sure you're exaggerating.}
+{132}{}{你的话有点夸张啊。}
+#{133}{}{It seems nice and safe here.}
+{133}{}{这里似乎很好，也很安全。}
+# {134}{TAND_15}{Junktown's to the southwest, but I don't know how far.
+ # Then there's some weird place below that called the City of Death.  Oh, oh
+ # yeah there's this other place...Oh, shoot, what was that?  Oh, yeah, the
+ # Hub.}
+{134}{TAND_15}{迦克镇在南方，但我不知道有多远。然后再往南有个叫做大墓地的奇怪地方。哦，对了，还有另一个地方……哦，等等，那是什么？哦，对了，是哈勃城。}
+# {135}{tand_15a}{There's a bunch of cities down south.  But since you're such a
+ # great traveler, I'm sure you know that already.}
+{135}{tand_15a}{南方有好几个城市。既然你是这么一个出色的旅行者，我相信你早就知道了。}
+# {136}{}{Thanks.}
+{136}{}{谢谢。}
+# {137}{TAND_16}{No problem. Anything else?}
+{137}{TAND_16}{没问题。还有别的吗？}
+# {300}{tand_16a}{Yeah, whatever.}
+{300}{tand_16a}{呵。}
+# {138}{TAND_20}{We got Rad
+ # Scorpions!  I mean, I know it's not a good thing, but no one's died from the
+ # stings.  And it's the closest thing to excitement we've got here!}
+{138}{TAND_20}{我们这里有大蝎子！我知道它不是什么好东西，但是还没人被它们叮死。这是我们这里最刺激的事情了！}
+# {139}{TAND_21}{Nothing much, since you whomped those Rad Scorpions. Gee, I
+ # wish I could have seen that.}
+{139}{TAND_21}{自从你搞定那些大蝎子后，就没什么好玩的了。当时我要是能在现场看你杀蝎子就好了，唉。}
+# {140}{TAND_22}{Same as always.  Bo-ring.}
+{140}{TAND_22}{跟往常一样。无～～聊～～。}
+# {142}{tand_23b}{Just stuff.}
+{142}{tand_23b}{都是些婆婆妈妈的烂事。}
+# {141}{tand_23g}{The weirdest story I've heard is about the Death Claw.}
+{141}{tand_23g}{我听到的最精彩的故事是关于死亡爪的。}
+# {143}{}{Thanks.}
+{143}{}{谢谢。}
+# {144}{}{Deathclaw?}
+{144}{}{死亡爪？}
+# {145}{TAND_24}{It's okay, I guess.  I mean, it is home and all, but it's so
+ # boring!  You know, I want to see the world.}
+{145}{TAND_24}{这里还算好吧。我的意思是，家啊什么的都在这里，但太无聊啦！我想到外面的世界闯荡。}
+# {146}{}{If you're so bored, why don't you leave?}
+{146}{}{如果你很无聊，为什么不离开呢？}
+# {147}{}{Well, I'm sure it's not that bad.}
+{147}{}{这里真的不是你想象中的那么差的。}
+# {148}{}{It seems nice and safe here.}
+{148}{}{这里看起来很安全很不错。}
+# {150}{tand_27f}{Listen...uh...but I...uh...I-I like guys, okay?  Whew!  Uh,
+ # excuse me, I got stuff to do.}
+{150}{tand_27f}{这个……唔……但我……唔……我……我喜欢男孩，呵。呼，失陪了，我还有事呢。}
+# {149}{tand_27m}{I'm not that kind of girl,
+ # mister. Go find a Brahma or something.}
+{149}{tand_27m}{先生！我可不是那种女孩。你去找个双头牛或者其他什么东西亲热吧。}
+# {151}{TAND_28}{Well, thanks for talking.
+ # We don't get many strangers here, so it's always good to talk to new people.
+ # Well, see ya! }
+{151}{TAND_28}{呃，很高兴与你谈话。我们这里不经常来陌生人，所以能和新来的聊会天真是不错呢。那么，再见啦！}
+# {152}{}{'Bye.}
+{152}{}{再见。}
+# {153}{TAND_29}{Uh, listen.  I have to go take care of the
+ # Brahmas.  It was, uh, nice talking to ya. }
+{153}{TAND_29}{嗯。我要去照顾那些双头牛。很高兴，唔，很高兴和你谈话。}
+# {154}{tand_30a}{Hello again!  What
+ # can I help you with now?}
+{154}{tand_30a}{又见面咯！有什么能帮你的吗？}
+# {155}{}{Can I ask you a few more questions?}
+{155}{}{我能问你些问题吗？}
+# {156}{}{Nothing. Goodbye.}
+{156}{}{没什么。再见。}
+# {157}{TAND_35}{Uh...hey, thanks. Later.}
+{157}{TAND_35}{唔……嗨，谢谢。待会见。}
+# {158}{TAND_36}{Hi!  I was afraid that you
+ # were gone and I wasn't going to get a chance to thank you for rescuing me.
+ # Aw!  That was great!  Action, adventure...Anyway, if there's anything that I
+ # can do for you, you just ask.}
+{158}{TAND_36}{嗨！我生怕你一去不返了呢，那样的话我就没机会来感谢你的救命之恩了。啊！那时候真是壮观啊！打斗！冒险！英雄！……只要我能帮你的，你尽管开口。}
+# {159}{}{How about a few more questions?}
+{159}{}{能问些问题吗？}
+# {160}{}{How about you and I...well, you know...get together.}
+{160}{}{你和我……好上吧，你知道的……去那个，怎么样？}
+# {161}{}{Nope, that's it, thanks.}
+{161}{}{没啥问题了，谢谢。}
+# {162}{}{Dungh!!}
+{162}{}{吼吼！！！}
+# {163}{TAND_37}{Who are you?  What do you want?}
+{163}{TAND_37}{你是谁？想干什么？}
+# {164}{}{My name is }
+{164}{}{我的名字是}
+# {165}{}{, and your father sent me.}
+{165}{}{，你父亲叫我来的。}
+# {166}{}{I'm your fairy god-mother. What's it look like?}
+{166}{}{我是来救你的小仙女！呃，对了，你知道仙女这玩意长得像什么吗？}
+# {167}{}{Duh.}
+{167}{}{咄。}
+# {168}{TAND_38}{Father sent you!?  Are you here to get me out?}
+{168}{TAND_38}{爸爸叫你来的？！你要把我救走？}
+# {169}{}{Yes, so just sit tight. I'll get you out.}
+{169}{}{是的，你不要紧张。我是来救你的。}
+# {170}{}{No, he just sent me to look at you.}
+{170}{}{不，他只是让我来看看你。}
+#{171}{TAND_39}{Well, what's your plan?}
+{171}{TAND_39}{好吧，你打算怎么做？}
+# {172}{}{Just wait for the doors to open. Then run for it!}
+{172}{}{在这等着，门开了以后跑出去！}
+# {173}{}{I'm going to fight the Khan leader in exchange
+ # for your freedom.}
+{173}{}{我去和可汗帮的匪首单挑，用胜利换取你的自由。}
+# {174}{TAND_40}{That's it?  That's your plan.
+ # Ugh!  All right.  But hurry.  I heard them talking and I didn't like their
+ # plans. }
+{174}{TAND_40}{什么！那就是你的计划。呃！好吧。不过要快。我听到他们的谈话，我可不喜欢他们要对我做的事。}
+# {175}{TAND_41}{You?  Fight him?  You
+ # got to be kidding me!  【Sigh】 Listen, if you come up with another plan, let me
+ # know, okay? }
+{175}{TAND_41}{你？和他单挑？你在和我开玩笑吗！【叹气】听着，如果你还有其它备选计划，一定要通知我，好吗？}
+# {176}{TAND_42}{Oh, aren't we the sarcastic one?  Are you going to
+ # get me out, or what!?}
+{176}{TAND_42}{哦，这是讽刺吗？你到底想不想救我出去！？}
+# {177}{}{Yeah. Just hold on, and when you see the door open, run for it.}
+{177}{}{是的，在这等着，门开了以后，跑出去。}
+# {178}{}{I'm going to fight the Khan leader in exchange for your freedom.}
+{178}{}{我去和可汗帮的匪首单挑，用胜利换取你的自由。}
+# {179}{TAND_43}{Oh, it's you again! Are you going to get
+ # me out?}
+{179}{TAND_43}{你又来了！救我出去？}
+# {180}{}{Yes, so just sit tight. I'll get you out.}
+{180}{}{是的，别紧张。我是来救你的。}
+# {181}{}{No, I'm just stopping by to say hi.}
+{181}{}{不，我只是来打个招呼。}
+# {182}{}{Duh.}
+{182}{}{咄。}
+# {183}{tand_43a}{Hello, anybody home?  Could you get me out of here?
+ # Could you GET ME OUT OF HERE!}
+{183}{tand_43a}{哈啰，有人吗？把我放出去！把～我～放～出～去～！}
+# {184}{tand_43b}{This is no time to talk, we have to get out of here.}
+{184}{tand_43b}{没有说话的时间了，让我们离开这里。}
+# {185}{TAND_44}{Aradesh is my father.  He's okay, as far as dad's go.}
+{185}{TAND_44}{亚拉德什是我爸爸。目前身体还算好。}
+# {186}{TAND_45}{That's me.  Who else did you think it was?}
+{186}{TAND_45}{那就是我。你以为是谁？}
+# {187}{TAND_46}{Razlo's the old guy on the east side of town.  He's a pretty
+ # good doctor, though, even if he is a fossil. }
+{187}{TAND_46}{拉斯洛是镇东边的一个老家伙。他是个好医生，虽然有点顽固。}
+# {188}{TAND_47}{Seth's the captain of the guards.  My father tried to set
+ # us up once, but he is not my type.}
+{188}{TAND_47}{赛思是警卫队长。我爸爸曾经撮合过我们，但他不是我喜欢的类型。}
+# {189}{TAND_48}{Agatha's the oldest one here.  We all love her, especially
+ # her stories.  Go by and see her if you want a good yarn.}
+{189}{TAND_48}{阿加莎是这里年纪最大的。我们都喜欢她，尤其是她的故事。如果你想听有趣的故事就去找她。}
+# {190}{TAND_49}{Pretty
+ # bad bunch or so I've heard.  My father knows more about them.  He never tells
+ # me much about the outside world.}
+{190}{TAND_49}{我听说是很坏很坏的一帮子家伙。我爸爸知道更多他们事。但他从不告诉我外面的事情。}
+# {191}{TAND_50}{That's where we get all our water. It's been here since before I was born.}
+{191}{TAND_50}{那是我们取水的地方。在我出生之前就有了。}
+# {192}{TAND_51}{I've actually seen one, even if it was from far away. They're
+ # nasty creatures, with claws and a big stinger.  And their poison can be
+ # deadly if it isn't treated.  You should talk to my dad, Aradesh, he knows
+ # more about them. }
+{192}{TAND_51}{我真的远远地见到过一只呢。它们是肮脏的动物，有巨大的爪子和锋利的毒刺，它们的毒即使处理过仍然会致命。你该去问我爸爸，亚拉德什，他知道它们的一些情况。}
+# {193}{TAND_52}{I heard a tale from a traveller up from the south.  He said the
+ # Death Claw was a creature that killed people at night.  He said no one can
+ # catch it, because it can disappear like smoke.  Not that I believe it, of course.}
+{193}{TAND_52}{我听过南边来的旅行者的故事。他说死亡爪是种在晚上杀人的动物。他说没有人能抓到它，因为它会像烟一样消失。当然，我不相信。}
+# {194}{TAND_53}{Junktown's a small city to the southwest. It's supposed to
+ # have pretty good trading, but my father won't even look into it.  He says we
+ # need to stay 'protected'.  Yeah, right.  Caged is more like it. }
+{194}{TAND_53}{迦克镇是西南方的一个小城。和他们其实还是很有生意做的，但是我爸爸不同意。他说我们需要“保护”。是的，好嘛，就像在牢笼里一样。}
+# {195}{TAND_54}{The Hub is supposed to be a great city to the south.  I've
+ # always wanted to see it, but I've never got the chance. }
+{195}{TAND_54}{哈勃城是南方最大的城市。我很想去见识见识，但我从没有机会。}
+# {196}{TAND_55}{I don't
+ # know, but the guy who told me about it was really scared of it.  He said that
+ # the undead walked the streets! }
+{196}{TAND_55}{我不知道，但有人告诉我说那里很恐怖。他说那里死人满街走！}
+# {197}{TAND_62}{I don't know.  You might want to ask Seth or my father about it, though.}
+{197}{TAND_62}{我不知道，但是，你可以问赛思或者我爸爸。}
+# {198}{TAND_63}{Hmm...Doesn't ring a bell. }
+{198}{TAND_63}{呃……没印象。}
+# {199}{TAND_64}{Hm...nope.  I never heard of it. }
+{199}{TAND_64}{嗯……不。我从没听说过。}
+# {200}{TAND_65}{Hey!  What do you think you're doing?  Put that back! }
+{200}{TAND_65}{嗨！你在做什么？把那个收起来！}
+# {201}{TAND_66}{That's it!  I'm going to tell my father! }
+{201}{TAND_66}{好！我要告诉我爸爸！}
+# {202}{TAND_67}{What the hell do you think you're doing?  Stop that! }
+{202}{TAND_67}{你他妈的干什么？住手！}
+# {203}{TAND_68}{What are you doing here? You better leave
+ # before my father wakes up.}
+{203}{TAND_68}{你在这做什么？你最好在我爸爸醒来之前离开。}
+# {204}{TAND_69}{Like I said...}
+{204}{TAND_69}{就像我说的那样……}
+# {205}{TAND_70}{Listen, I already told you... }
+{205}{TAND_70}{听着，我已经告诉你了……}
+# {206}{TAND_71}{Again?  Hello?  How many times have I
+ # have to tell you this?  You have too much wax in your ears or something?}
+{206}{TAND_71}{还问？喂？我跟你说了多少遍了啊？你的耳朵里塞了蜡还是怎么了？}
+# {207}{TAND_72}{Oh yeah, I heard of that, but you should go talk to Agatha.
+ # She'd know more than I would.}
+{207}{TAND_72}{哦，我听说过，但你应该去问阿加莎。她知道的比我多。}
+# {208}{}{Let's get outta here.}
+{208}{}{让我们离开这里。}
+
+# {300}{}{Wow! This is nothing like Shady Sands.}
+# {301}{}{Hey, what's that over there?}
+# {302}{}{I can't wait to tell people in Shady Sands about the outside world.}
+# {303}{}{You seen any more radscorpions?}
+# {304}{}{Where are we going now?}
+# {305}{}{When are we going to get there?}
+{300}{}{哇！这里和沙荫镇真是差别好大哦。}
+{301}{}{嗨，那是什么？}
+{302}{}{我等不及要对沙荫镇的人说我们在外面的故事啦。}
+{303}{}{你再看看，还有蝎子没？}
+{304}{}{我们现在要去哪里？}
+{305}{}{我们什么时候到那里？}
+
+
+# {980}{TAND_62}{I don't know.  You might want to ask Seth or my father about it, though.}
+# {981}{TAND_63}{Hmm...Doesn't ring a bell. }
+# {982}{TAND_64}{Hm...nope.  I never heard of it. }
+{980}{TAND_62}{我不知道，但是，你可以问赛思或者我爸爸。}
+{981}{TAND_63}{呃……没印象。}
+{982}{TAND_64}{嗯……不是。我从没听说过。}
+
+{1000}{}{Aradesh}
+{1001}{}{Tandi}
+{1002}{}{Seth}
+{1003}{}{Raiders}
+{1004}{}{Well}
+{1005}{}{Scorpions}
+{1006}{}{Claw}
+{1007}{}{Junktown}
+{1008}{}{Hub}
+{1009}{}{City}
+{1010}{}{Scorpion}
+{1011}{}{Khans}
+
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Aradesh-亚拉德什、Tandi-坦蒂、Razlo-拉斯洛、Seth-赛思、Raiders-歹徒、Well-井、Scorpions-蝎子、Claw-死亡爪、Junktown-迦克镇、Hub-哈勃、City-死人城市、Scorpion-蝎子、Khans-可汗帮。}
+
+
+# {1100}{TAND_44}{Aradesh is my father.  He's okay, as far as dad's go.}
+{1100}{TAND_44}{亚拉德什是我爸爸。他目前身体还好。}
+# {1101}{TAND_45}{That's me.  Who else did you think it was?}
+{1101}{TAND_45}{就是我啊。你以为是谁？}
+#{1102}{TAND_46}{Razlo's the old guy on the east side of town.  He's a pretty（注释）
+# good doctor, though, even if he is a fossil. }（注释）
+# {1102}{TAND_47}{Seth's the captain of the guards.  My father tried to set
+ # us up once, but he is not my type.}
+{1102}{TAND_47}{赛思是警卫队长。我爸爸曾经撮合过我们，但他不是我喜欢的类型。}
+# {1103}{TAND_49}{Pretty bad bunch or so I've heard.  My father knows more
+ # about them.  He never tells me much about the outside world.}
+{1103}{TAND_49}{我听说是很坏很坏的一帮子家伙。我爸爸知道更多他们事。但他从不告诉我外面的事情。}
+# {1104}{TAND_50}{That's where we get all our water. It's been here since before I was born.}
+{1104}{TAND_50}{那是我们取水的地方。在我出生之前就有了。}
+# {1105}{TAND_51}{I've actually seen one, even if it was from far away. They're
+ # nasty creatures, with claws and a big stinger.  And their poison can be
+ # deadly if it isn't treated.  You should talk to my dad, Aradesh, he knows
+ # more about them. }
+{1105}{TAND_51}{我真的远远地见到过一只呢。它们是肮脏的动物，有巨大的爪子和锋利的毒刺，它们的毒即使处理过仍然会致命。你该去问我爸爸，亚拉德什，他知道它们的一些情况。}
+# {1106}{TAND_52}{I heard a tale from a traveller up from the south.  He said the
+ # Death Claw was a creature that killed people at night.  He said no one can
+ # catch it, because it can disappear like smoke.  Not that I believe it, of course.}
+{1106}{TAND_52}{我听过南边来的旅行者的故事。他说死亡爪是种在晚上杀人的动物。他说没有人能抓到它，因为它会像烟一样消失。当然，我不相信。}
+# {1107}{TAND_53}{Junktown's a small city to the southwest. It's supposed to
+ # have pretty good trading, but my father won't even look into it.  He says we
+ # need to stay 'protected'.  Yeah, right.  Caged is more like it. }
+{1107}{TAND_53}{迦克镇是西南方的一个小城。和他们其实还是很有生意做的，但是我爸爸对他们一点都不感冒。他说我们需要“保护”。是的，好嘛，就像在牢笼里一样。}
+# {1108}{TAND_54}{The Hub is supposed to be a great city to the south.  I've
+ # always wanted to see it, but I've never got the chance. }
+{1108}{TAND_54}{哈勃城是南方最大的城市。我很想去见识见识，但我从没有机会。}
+# {1109}{TAND_55}{I don't know, but the guy who told me about it was really
+ # scared of it.  He said that the undead walked the streets! }
+{1109}{TAND_55}{我不知道，但那家伙告诉我那里很恐怖。他说那里死人满街爬！}
+# {1110}{TAND_51}{I've actually seen one, even if it was from far away. They're
+ # nasty creatures, with claws and a big stinger.  And their poison can be
+ # deadly if it isn't treated.  You should talk to my dad, Aradesh, he knows
+ # more about them. }
+{1110}{TAND_51}{我真的远远地见到过一只呢。它们是肮脏的动物，有巨大的爪子和锋利的毒刺，它们的毒即使处理过仍然会致命。你该去问我爸爸，亚拉德什，他知道它们的一些情况。}
+# {1111}{TAND_49}{Pretty bad bunch or so I've heard.  My father knows more
+ # about them.  He never tells me much about the outside world.}
+{1111}{TAND_49}{我听说是很坏很坏的一帮子家伙。我爸爸知道更多他们事。但他从不告诉我外面的事情。}
+

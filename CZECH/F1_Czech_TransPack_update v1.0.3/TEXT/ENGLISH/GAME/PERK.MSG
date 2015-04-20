@@ -1,0 +1,137 @@
+#
+#ÿÿÿMessages from perk.c
+#
+#
+#ÿÿÿPERK NAMES
+#
+{101}{}{Všímavı}
+{102}{}{Bonus v boji zblízka}
+{103}{}{Bonus úèinku}
+{104}{}{Bonus pohybu}
+{105}{}{Bonus v boji na dálku}
+{106}{}{Bonus kadence}
+{107}{}{Lepší postøeh}
+{108}{}{Rychlejší uzdravování}
+{109}{}{Zabiják}
+{110}{}{Noèní zrak}
+{111}{}{Lev salónù}
+{112}{}{Odolnı proti radiaci}
+{113}{}{Houevnatı}
+{114}{}{Silná záda}
+{115}{}{Ostrostøelec}
+{116}{}{Tichošlápek}
+{117}{}{Mistr v pøeití}
+{118}{}{Byznysmen}
+{119}{}{Vzdìlanı}
+{120}{}{Léèitel}
+{121}{}{Zlatokop}
+{122}{}{Lepší kritickı zásah}
+{123}{}{Empatie}
+{124}{}{Nièitel}
+{125}{}{Snajpr}
+{126}{}{Tichá smrt}
+{127}{}{Akèní hoch}
+{128}{}{Mentální blok}
+{129}{}{ivotadárce}
+{130}{}{Hbitı}
+{131}{}{Polykaè hadù}
+{132}{}{Všeumìl}
+{133}{}{Medik}
+{134}{}{Kapsáø}
+{135}{}{Spíkr}
+{136}{}{Vrhaè}
+{137}{}{Pøítel -- Nepøítel}
+{138}{}{Mistr Zlodìj}
+{139}{}{Duch}
+{140}{}{Kult osobnosti}
+{141}{}{Hledaè pokladù}
+{142}{}{Prùzkumník}
+{143}{}{Dítì Kvìtin}
+{144}{}{Prùvodce}
+{145}{}{Pøítel zvíøat}
+{146}{}{Pozorovatel}
+{147}{}{Záhadnı cizinec}
+{148}{}{Ranger}
+{149}{}{Poøádkumilovnı}
+{150}{}{Baviè}
+{151}{}{Bystrı uèedník}
+{152}{}{Talent!}
+{153}{}{Mutace!}
+{154}{}{Závislost na Nuka-Cole}
+{155}{}{Závislost na Buffoutu}
+{156}{}{Závislost na Mentats}
+{157}{}{Závislost na Psycho}
+{158}{}{Závislost na Radaway}
+{159}{}{Zbraò dlouhého dosahu}
+{160}{}{Pøesnost zbranì}
+{161}{}{Penetrace zbranì}
+{162}{}{Zpìtnı ráz zbranì}
+{163}{}{Energo zbroj}
+{164}{}{Kevlarové brnìní}
+#
+#ÿÿÿPERK DESCRIPTIONS
+#
+{201}{}{Dokáeš postøehnout víc detailù o lidech okolo. Kdy nìkoho prozkoumáš, VŠÍMAVOST ti o nìm poskytne víc podrobnìjších informací.}
+{202}{}{Buïto jsi studoval tajná bojová umìní Vıchodu nebo prostì jen umíš udeøit rychleji. V kadém pøípadì tì tvoje údery pøi boji beze zbranì stojí o 1 akèní bod ménì.}
+{203}{}{Tvoje zkušenosti v boji zblízka z tebe udìlaly pìknì ostrého protivníka. Za kadı stupeò tohoto Perku zpùsobíš soupeøi pøi boji beze zbranì a boji chladnımi zbranìmi o 2 body poškození víc.}
+{204}{}{Za kadı stupeò tohoto Perku dostaneš ve svém tahu o 2 akèní body víc. Tyto body ale mohou bıt vyuity pouze pro pohyb.  Jinımi slovy za kadı level tohoto Perku se ve svém tahu budeš moci pohnout o 2 hexy navíc.}
+{205}{}{Tvùj trénink v boji na dlouhou vzdálenost (støelné zbranì apod.) z tebe dìlá smrtelnì nebezpeèného protivníka. Za kadou úroveò tohoto Perku zpùsobíš o 2 body poškození víc.}
+{206}{}{Tento Perk ti umoní zmáèknout spouš o nìco rychleji a pøesto støílet stejnì pøesnì jako pøedtím. Pouívání zbraní pro boj na dlouhou vzdálenost (støelné zbranì, energetické zbranì apod.) tì stojí o jeden akèní bod ménì.}
+{207}{}{V boji jsi schopen reagovat rychleji ne tvoji nepøátelé, protoe tvùj Postøeh je +2 za kadı stupeò tohoto Perku.}
+{208}{}{S kadım stupnìm tohoto Perku, obdríš +1 bonus ke své schopnosti Uzdravování. Èili -- uzdravuješ se rychleji.}
+{209}{}{Pokud máš tento Perk, máš vìtší šanci zpùsobit v boji soupeøi kritickı zásah. Kadı stupeò to pøidá +5% šanci na kritickı zásah.  To docela ujde, ne?}
+{210}{}{S tímto Perkem vidíš ve tmì lépe. Kadı level zredukuje okolní tmu o 10%.}
+{211}{}{Vzbuzuješ pozornost u jen tím, e vejdeš do místnosti. Úvodní reakce okolních NPC se navyšují o 10% za kadou úroveò tohoto Perku.}
+{212}{}{Lépe odoláváš radioaktivitì a jejím zhoubnım následkùm. Kadı level tohoto Perku ti pøidá  10% na Odolnosti proti radiaci.}
+{213}{}{Jsi-li houevnatı, utrpìná zranìní tì ménì poškozují. Kadı level tohoto Perk ti dodá +10% ke tvé celkové Odolnosti proti poškození.}
+{214}{}{Máš sílu jako mezek. Za kadı stupeò tohoto Perku uneseš o 50 liber vybavení víc.}
+{215}{}{Máš talent zasáhnout cíl na dlouhou vzdálenost. Za kadı stupeò tohoto Perku dostaneš +2 bonus ke své schopnosti VNÍMÁNÍ vdy, kdy budeš bojovat na delší vzdálenost.  Zabíjet z patøièného odstupu je jednodušší!}
+{216}{}{S tímto Perkem se mùeš pohybovat rychle a pøesto tiše.  Mùeš bìhat a pouívat PLÍENÍ najednou.  Bez tohoto Perku se pøi bìhu PLÍENÍ automaticky zruší.}
+{217}{}{Jsi opravdovı táborník. Tento Perk ti propùjèuje schopnost snadnìji pøeít v nehostinném prostøedí.  Za kadı level tohoto Perku dostaneš +20% bonus ke své schopnosti Zálesák.}
+{218}{}{Speciálnì jsi se vypracoval v jedné disciplínì obchodování - ve schopnosti koupit nìco levnìji ne ostatní.  S tímto Perkem dostaneš v kadém obchodì 25%-ní slevu.}
+{219}{}{Kadá úroveò "Vzdìlaného" ti pøidává 2 schopností body navíc k poètu, kterı obdríš pøi dosaení nové zkušenostní úrovnì.  Èím døív si ve høe tento Perk vezmeš, tím víc se ti pochopitelnì zúroèí.}
+{220}{}{Tento Perk zvyšuje tvoje léèitelské schopnosti.  Kadá jeho úroveò ti pøidá 2-5 hit bodù o které se pøi pouití schopnosti První pomoc nebo Doktor, uzdravíš více.}
+{221}{}{Máš nos na to, jak lehce pøijít k penìzùm.  Nacházíš je toti v náhodnıch lokacích v poušti.}
+{222}{}{Kritické zásahy, které v boji zpùsobuješ soupeøùm jsou ještì nièivìjší ne dosud.  Obdríš 20%-ní bonus k úèinku kadého kritického zásahu.  Co ovšem nemá ádnı vliv na samotnou šanci kritickı zásah docílit.}
+{223}{}{Studoval jsi lidské povahy, co ti dává schopnost intuitivnì vycítit jejich pøípadné emocionální reakce.  Pøi rozhovoru s NPC mùeš podle barevného oznaèení rozpoznat, jak budou bìhem konverzace reagovat.}
+{224}{}{Conan Nièitel pøišel mezi nás!  V boji beze zbranì jsou všechny tvoje zásahy povıšeny na kritické -- jsi ztìlesnìním smrti a destrukce.}
+{225}{}{Blahopøejeme! Vycvièil ses opravdu dokonale. S tímto Perkem je kadı tvùj úspìšnı zásah v boji na dlouhou vzdálenost, povıšen na kritickı. Svou roli ovšem hraje i tvoje ŠTÌSTÍ. Tento Perk doporuèují 4 z 5 odstøelovaèù.}
+{226}{}{Kdy pøi Plíení zasáhneš v boji zblízka svého protivníka zezadu, bude mít tvoje rána dvojnásobnı úèinek, ne obvykle.  Tomu se øíká Tichá (a rychlá) smrt.}
+{227}{}{Kadı level Akèního hocha (nebo dívky, chceš-li) ti pøi boji pøidává 1 Akèní bod ve tvém tahu. Tento bod mùeš pouít na libovolnou èinnost.}
+{228}{}{Mentální Blok je schopnost ignorovat všechna vnìjší mentální rušení. Tohle ses musel nauèit od potulného jogína nebo nad ránem nìkde v baru.}
+{229}{}{Kadı level tohoto Perku ti pøidává navíc 4 Hit body. Moná to na první pohled vypadá, e to nic moc není, ale nemusí pršet, jen kdy kape.}
+{230}{}{V boji je mnohem tìší tì zasáhnout, máš-li tento Perk. Kadı jeho stupeò pøidává +5% ke tvé Tøídì zbroje, v závislosti na typu obleèeného brnìní.}
+{231}{}{Mòam! Chutnají jako peèená kuøata. Jsi imunní proti jedùm, jinımi slovy dostaneš +25% ke své Odolnosti proti jedùm.}
+{232}{}{Tento Perk ti dává jednorázovı bonus +20% ke tvım schopnostem Opraváø a Vìda. Trochu biflování do pozdních noèních hodin ještì nikdy nikoho nezabilo. A tebe u vùbec ne.}
+{233}{}{Tento Perk ti dává jednorázovı bonus +20% ke tvım schopnostem První pomoc a Doktor.  Umìt nìkoho vyléèit, to se vdycky hodí.}
+{234}{}{Perk Kapsáø ti dává jednorázovı bonus +10% ke tvım schopnostem Plíení, Paklíè, Ukrást a Past.  Bohatım brát a sobì dávat!}
+{235}{}{Bıt Spíkrem znamená, e dostaneš jednorázovı bonus +20% ke svım schopnostem Øeè a Obchod. A teï jim mùeš vykecat díru do hlavy.}
+{236}{}{Kadı level tohoto Perku ti pøidá +2 SÍLY, kdy pouiješ nìkterou z vrhacích zbraní.}
+{237}{}{Postavy, které jsou èástí tvého tımu se pøi boji zobrazují zelenì. To ale neznamená, e všechny èervenì zobrazené NPC jsou tví nepøátelé!}
+{238}{}{Jsi mistr zlodìjského øemesla.  Mùeš se smìle zaøadit po bok tìch nejlepších kapsáøù, protoe s tímto Perkem ignoruješ velikost a vzhled okrádaného subjektu.}
+{239}{}{Máš-li tento Perk, pak po západu slunce nebo ve špatnì osvìtlenıch prostorách pøichází tvoje chvíle. Mùeš se pohybovat neslyšnì jako duch.  Tvoje schopnost Plíení se ve tmì zvyšuje o +20%.}
+{240}{}{Povìst, která tì provází pùsobí na ostatní vdycky pozitivnì. Máš-li vysoce zápornou reputaci, pak to bez tohoto Perku vyvolává u "klaïasù" nepøátelské reakce.  To samé samozøejmì platí o vlivu kladné reputace na "záporáky".}
+{241}{}{Máš talent nacházet mnohem víc nábojù ne ostatní. Tento Perk zdvojnásobuje mnoství munice, kterou najdeš v náhodnıch lokacích.}
+{242}{}{Posláním Prùzkumníka je pátrat po novıch a zajímavıch místech. S tímto Perkem máš daleko vìtší šanci najít speciální postavy a lokace.}
+{243}{}{S tímto Perkem máš menší pravdìpodobnost, e se staneš závislım na chemikáliích. Pøesnì øeèeno menší o 50%. Rovnì abstinenèní pøíznaky trvají jen polovinu doby ne u ostatních.}
+{244}{}{Máš-li pøi svém dobrodruství Prùvodce, najdeš vdy tu nejkratší cestu. S tímto Perkem se tvùj cestovní èas po mapì svìta Falloutu redukuje o 25% za kadı jeho level.}
+{245}{}{Zvíøata neútoèí na jednoho ze svıch pøátel, leda v pøípadì jsou-li napadena nebo ohroena jako první. Co ale je a co není zvíøe v tomhle apokalyptickém svìtì, to je otázka na delší diskusi.}
+{246}{}{Získal jsi schopnost dohlédnout i na vzdálenìjší lokace. Pøi svıch cestách po mapì Falloutu odkrıváš v kadém smìru o jeden ètverec víc.}
+{247}{}{S tímto Perkem jsi upoutal pozornost Tajemného cizince, kterı ti èas od èasu pomùe. Jestlie ale bude tvùj spojenec zabit v bitvì, neèekej, e ho (nebo ji) nìkdo nahradí.}
+{248}{}{Pøi svıch cestách pustinou jsi získal schopnost vyhnout se nevítané pozornosti. Tvá šance náhodnì vstoupit do nepøátelské lokace je menší kadou úrovní tohoto Perku.}
+{249}{}{Nauèil ses lépe uspoøádat svoje vybavení.  S kadou úrovní tohoto Perku tì v bojovém módu stojí vstup do inventáøe o 1 akèní bod ménì.}
+{250}{}{Baviè ti dává schopnost zvìtšit poèet voleb v dialozích.  Kadı level tohoto Perku zvyšuje tvou INTELIGENCI o +1. Ovšem pouze po dobu konverzace s NPC.}
+{251}{}{S tímto Perkem jsi opravdu Bystrı uèedník, protoe kadı jeho level ti dává +5% bonus, kdykoliv ve høe obdríš zkušenostní body.  Èím døív si Perk vezmeš, tím víc se ti pochopitelnì zúroèí.}
+{252}{}{Tvoje zkušenosti dospìly k bodu, kdy si mùeš vzít další Talent. U této vybrané schopnosti dostaneš ihned +20% a pak 2% za kadı schopnostní bod, kterı do ní investuješ.}
+{253}{}{Zbytková radioaktivita v Pustinì zpùsobila tvojí mutaci! Jeden z tvıch talentù se zmìnil na jinı a ty si mùeš vybrat, kterı to bude...}
+{254}{}{Potøebuješ další Nuka-Colu.}
+{255}{}{Celı se tøeseš.}
+{256}{}{Jsi grogy.}
+{257}{}{Máš lehkou hlavu.}
+{258}{}{Motá se ti hlava.}
+{259}{}{Zbraò dlouhého dosahu}
+{260}{}{Pøesnost zbranì}
+{261}{}{Penetrace zbranì}
+{262}{}{Zpìtnı ráz zbranì}
+{263}{}{Energo zbroj}
+{264}{}{Kevlarové brnìní}

@@ -1,0 +1,26 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see two super mutants. One looks hurt, and the other is tending him.}
+# {101}{}{Well, how do you feel now?}
+# {102}{}{【moves his shoulder】 Ah, it's still a little sore. At least the bleeding stopped.}
+# {103}{}{Good, good. Keep using your medication and you should be good as new.}
+# {104}{}{Excellent. When I get my hands on that little human, I'm going to crush him.}
+# {105}{}{Excellent. When I get my hands on that little human, I'm going to crush her.}
+# {106}{}{He sure did enough damage that last time. I hope they get him soon.}
+# {107}{}{She did enough damage that last time. I hope they get her soon.}
+# {108}{}{Imagine if all of our plans were ruined because of one little human.}
+# {109}{}{【laughs】 Yeah, that would be a shame.}
+# {110}{}{【chuckles】}
+{100}{}{你看到两个超级变种人，一个受了伤，另外一个搀扶着他。}
+{101}{}{嗯，你现在感觉怎么样？}
+{102}{}{【晃动肩膀】啊，还有些疼，不过至少止血了。}
+{103}{}{好，好，继续治疗就让你完全恢复了。}
+{104}{}{非常好。嗯，下次再让我碰见那渺小的人类我要撕碎他。}
+{105}{}{非常好。嗯，下次再让我碰见那渺小的人类我要撕碎她。}
+{106}{}{他把我伤的很重，我希望那些人早点找到他。}
+{107}{}{她把我伤的很重，我希望那些人早点找到她。}
+{108}{}{你想象一下，如果因为一个渺小的人类就把我们全盘计划都破坏了。}
+{109}{}{【大笑】是啊，那可真是丢人啊。}
+{110}{}{【偷笑】}
+

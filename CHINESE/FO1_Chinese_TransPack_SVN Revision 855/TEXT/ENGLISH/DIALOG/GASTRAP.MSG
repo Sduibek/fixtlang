@@ -1,0 +1,9 @@
+
+# {100}{}{Uh oh.}
+# {101}{}{You set off a gas trap and take a point of damage.}
+# {102}{}{You set off a gas trap and take }
+# {103}{}{ points of damage.}
+{100}{}{啊噢。}
+{101}{}{你触发一个毒气陷阱并受到1点伤害。}
+{102}{}{你触发一个毒气陷阱并受到}
+{103}{}{点伤害。}

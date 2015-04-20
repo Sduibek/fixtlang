@@ -1,0 +1,293 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang3081\deflangfe3081{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;\red227\green108\blue10;\red255\green0\blue0;}
+{\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\nowidctlpar\f0\fs20\par
+\ul\b\fs24 FALLOUT1 HIGH RESOLUTION PATCH README Ver 2.2a\par
+\ulnone\b0\fs20 *************************************************************************************\par
+Created by "Mash" Matt Wells \tab\tab\tab\tab 5 September 2009\par
+\i mashw@bigpond.net.au\par
+\i0\par
+\par
+\ul\b\i\fs24 About\par
+\par
+\ulnone\b0\i0\fs20 This program modifies "falloutw.exe" in memory for the purposes of increasing the visual resolution. \par
+It was compiled with "Visual C++ 6.0 -sp6" and should work on most versions of Windows.\par
+\par
+Currently Supported versions of the "Falloutw.exe" are:\par
+   US 1.1.\par
+   The EXE used in TeamX's English 1.2 (this executable is the same used in their fallout 1.3.4 patch) .\par
+   The EXE used in the Fallout Restoration Mod by Wasteland Ghost/TeamX.\par
+   Polish 1.2/TeamX.\par
+   Fallout Collection (PC DVD) WHITE LABEL 1.2.\par
+   Some other versions will also work but will be \cf1 recognised \cf0 as one of the versions listed above. \par
+\par
+\par
+\ul\b\i\fs24 Table Of Contents\par
+\ulnone\b0\i0\fs20\par
+\fs24 1\fs20 . \fs24 Fallout1 High Resolution Patch Contents\par
+2. Un-installation of previous versions of this patch\par
+3\fs20 . \fs24 Installation\par
+4. Troubleshooting\ul\b\i\par
+\ulnone\b0\i0 5\fs20 . \fs24 Main Config file "f1_res.ini"\fs20\par
+\fs24 6\fs20 . \fs24 Map Edges\par
+7. Custom Art\par
+8. Thanks\par
+9. Contributors\fs20\par
+\par
+\par
+\par
+\ul\b\i\fs24 1.Fallout1 High Resolution Patch Contents\par
+\ulnone\b0\i0\fs20\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar\cf1 f1_res_patcher.exe\cell Patches "falloutw.exe" to load "f1_res.dll".\cf0\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar\cf1 f1_res.dll\cell\pard\intbl\nowidctlpar\tx431\tx1584 Modifies "falloutw.exe" for higher resolutions.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar f1_res.ini\cell Configuration file for "f1_res.dll"\cell\row\pard\nowidctlpar\par
+f1_res(folder)\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar f1_res_README.rtf\cell This Read Me\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar f1_res_change.log\cell Details changes made to the patch from previous versions\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar panels.ini\cell Holds the screen positions for the various windows.\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar intrface(folder)\cell\cf0 Contains custom art for the Main-Menu, Iface-Bar and the Screen Setup Window.\cf1\cell\row\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar Map_Edges(folder)\cell Contains map edge data files sorted into folders by Mod name.\cell\row\pard\nowidctlpar\cf0\par
+\cf1 data(folder)\cf0\par
+\trowd\trgaph108\trleft-108\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx9468\pard\intbl\nowidctlpar\cf1 grid000.FRM\cell A black tile that replaces missing map tiles found beyond the borders of original maps (hides mouse trails).\cell\row\pard\nowidctlpar\par
+\cf0\par
+\par
+\ul\b\i\fs24 2.Un-installation of previous versions of this patch\par
+\ulnone\b0\i0\fs20\par
+Although not absolutely necessary, the following files should be deleted from your Fallout installation folder, US11.res ,\cf1 TEAMX12.res and the "f1_res" folder.\cf0\par
+"\cf1 f1_res_README.rtf" and "f1_res_change.log" can also be deleted from your fallout installation folder if present. A\cf0 s of version 1.2 they \cf1 are stored in the "f1_res" folder.\cf0\par
+\par
+\par
+\ul\b\i\fs24 3. Installation\par
+\par
+\pard\nowidctlpar\fi-360\li360\ulnone\i0\fs20 Step 1.\tab\i Extract to Fallout Directory\i0\par
+\pard\nowidctlpar\li360\b0 Double-click the "Fallout1_High_Resolution_Patch_v2.2a.exe". Click the [Browse] button and find your Fallout installation folder (usually "C:\\Program Files\\Interplay\\Fallout\\"). Click [Extract], the extraction window will disappear once complete.\ul\i\fs18\par
+Note\ulnone : If you have installed a previous version of this patch, you may be asked to overwrite some of the files listed above. Answer YES to overwrite files.\ul\par
+\ulnone\par
+\pard\nowidctlpar\fi-360\li360\b\i0\fs20 Step 2.\tab\i Patch "falloutw.exe" to load "f1_res.dll"\par
+      \ul\b0\fs18 Note:\ulnone  If you have installed a previous version of this patch, you can skip this step and proceed to Step3\b\fs20\par
+\pard\nowidctlpar\li360\b0\i0 Once extraction is finished, open your Fallout installation folder and Double-Click the "f1_res_patcher.exe".  A Message-box will appear asking if you want to patch the "falloutw.exe". Click the [OK] button to continue. You should then see the message "falloutw.exe was patched successfully".\par
+If you ever want to remove this patch, you can do so by running "f1_res_patcher.exe" again and following the prompts.\par
+\pard\nowidctlpar\par
+\pard\nowidctlpar\fi-360\li360\b Step 3.\tab\i Set the screen resolution in-game\i0\par
+\pard\nowidctlpar\li360\b0 Start the game and from the Main-menu select the 'Options' Button. Once the Options Window opens, click the 'SCRN' Button which you should find to the right of the "Game Preferences" text. Select your resolution from the list provided and click the 'Done' button. The game needs to be restarted for the new settings to take effect.\par
+\pard\nowidctlpar\fi-360\li360\b Other \i Options\i0\par
+\pard\nowidctlpar\li360\b0 To restart the game automatically select the 'Restart Game' toggle button before clicking 'Done'.\par
+You can manually set an unlisted resolution by clicking the small windows labelled 'Width' and 'Height'.\par
+You can cycle through the Iface-bar Side Art options by clicking the example image provided.\par
+\par
+\pard\nowidctlpar\par
+\ul\b\i\fs24 4. Troubleshooting\par
+\par
+\i0\fs20 Fallout is not starting after setting the resolution via the in-game menu.\ulnone\b0\par
+Open the "f1_res.ini" found in your Fallout Install folder and return SCR_WIDTH, SCR_HEIGHT and COLOUR_BITS to their default values:\par
+SCR_WIDTH=640\par
+SCR_HEIGHT=480\par
+COLOUR_BITS=8\par
+Re-start the game and try a different resolution.\par
+\par
+\par
+\ul\b There is no 'SCRN' button on the Game Preferences Window.\par
+\b0\i\fs18 Note:\ulnone  The 'SCRN' button will only be present when accessed via the Main-menu\cf2 .\par
+\i0\fs20\par
+\cf0 Re-run the "f1_res_patcher.exe" as in Step 2 of the Installation section above. If the Hi-res patch is installed correctly you should receive this message "Patch is Already INSTALLED! Do you wish to UNINSTALL this Patch?". Click the 'Cancel' button if the patch is already installed otherwise follow the instructions in Step 2 of the Installation section.\par
+\par
+If you are using an older version of Windows (pre XP), you may need to find the run-time components for Visual C++ 6.0. These can be downloaded from Microsoft, just search for "Vcredist.exe" in your favourite search-engine.\par
+\ul\i\fs18 Note\ulnone : This problem should only affect older versions of Windows. WindowsXP and Vista should already have the necessary \i0\fs20 components \i\fs18 installed.\i0\fs20\par
+\par
+The above problem can also occur using Fallout US Version 1.1 in Windows XP. Setting Compatibility Mode to Windows 95 seems to fix this.\par
+\tab Instructions:\par
+\tab 1. Right-Click your "falloutw.exe" and select \ul Properties\ulnone . \par
+\tab 2. Click the \ul Compatibility\ulnone  Tab.\par
+\tab 3. Check the box next to "Run this program in compatibility mode for:"\par
+\tab 4. Select \ul Windows 95\ulnone  from the drop down list below.\par
+\tab 5. Click Apply.\par
+\par
+\ul\b Crashing when using the Screen Settings Window.\ulnone\b0\par
+In rare cases some systems will crash when using the Screen Settings Window. This I think is due to the method I use to populate the Display List. Open the "f1_res.ini" found in your Fallout Install folder and under [HI_RES_PANEL] set SAFER_DISPLAY_LIST=1. Hopefully this will fix the problem with the trade off of there being fewer resolution choices in the Display List.\par
+\par
+\par
+\ul\b\i\fs24 5.Main Config file "f1_res.ini"\par
+\par
+\ulnone\b0\i0\fs20 This is where your current screen resolution and other settings are stored.\par
+The "f1_res.ini" file is divided into six sections MAIN, HI_RES_PANEL, MOVIES, MAPS, IFACE and OTHER_SETTINGS.\par
+\par
+\par
+\ul\b\i MAIN\ulnone\b0\i0\par
+\par
+\b Screen Dimensions (SCR_WIDTH = & SCR_HEIGHT =)\par
+\b0 Set your custom resolution here.\b\par
+\b0\par
+\b Number of colours (COLOUR_BITS = 8)\b0\par
+Can be set to 8 for 8bit colour (default) or 16 for 16bit colour.\par
+\b\par
+Text for Options Button (OPTIONS_TEXT = options)\par
+\b0 Text to display beside the options button on the Main-menu.\b\par
+\par
+\par
+\ul\i HI_RES_PANEL\ulnone\b0\i0\par
+\par
+\b Display List Descending/Ascending (DISPLAY_LIST_DESCENDING = 1)\b0\par
+Here you can set the order of the resolution list in the Screen Settings Window. Descending order by default.\par
+\par
+\b Safer Display List (SAFER_DISPLAY_LIST=0)\b0\par
+Set this to 1 if you experience crashing when using the Screen Settings Window.\par
+\par
+\par
+\ul\b\i MOVIES\ulnone\b0\i0\par
+\par
+\b Movie Size (MOVIE_SIZE = 1)\b0\par
+Here you can set how the movies stretch to the screen.\par
+\par
+\b Subtitle Area Height (SUBTITLE_AREA_HEIGHT = 66)\par
+\b0 The Height of the area at the bottom of the screen for displaying subtitles\par
+\par
+\b Subtitle Position (SUBTITLE_POS = 10)\b0\par
+The distance from the bottom of the screen to the bottom of the subtitles.\par
+\par
+\par
+\ul\b\i MAPS\par
+\ulnone\b0\i0\par
+\b Ignore Map Edges (IGNORE_MAP_EDGES = 0)\par
+\b0 Set to 0 (Off by default). If set to 1(On) this setting ignores the map edges preventing you scrolling outside the playable area of a map. \par
+\par
+\b Map Edges Folder Name (MAP_EDGES_NAME = F1_Original)\par
+\b0 Sets the name of the folder containing ini config files for setting map edges. "F1_Original" is the default and contains variables for all maps used in Fallout.\b\par
+\b0\par
+\b Ignore Player Scroll Limits (IGNORE_PLAYER_SCROLL_LIMITS= 0)\par
+\b0 Set to 0 (Off by default). If set to 1(On) this setting ignores the scroll limits from the player set below by the variables SCROLL_DIST_X and SCROLL_DIST_Y.\par
+\cf3\par
+\cf0\b Player Scroll Distance (SCROLL_DIST_X & SCROLL_DIST_Y)\b0\par
+By default the scroll distance from the player is set to the\i  \ul screen edge + 1 tile\ulnone  \i0 in both directions. Setting a distance less than the screen edge can cause problems.\par
+\par
+\par
+\ul\b\i IFACE\par
+\ulnone\b0\i0\par
+\b Height of the Viewable Map Area (IFACE_BAR_MODE = 0)\b0\par
+By default the Viewable Map Area will sit above the Interface-Bar. Setting to 1 will lower the bottom of the Viewable Area to the bottom of the screen. Side bar graphics will be disabled in this mode.\par
+\par
+\b Iface Side-Bar Graphics Art (IFACE_BAR_SIDE_ART = 2)\par
+\b0 Sets which optional art is used to fill the spaces either side of the Iface-bar.\par
+Options are:\par
+Set to 2 (default) for the Leather Pipboy Belt art created by me.\par
+Set to 1 for the Corroded Metal art created by Simon Rawlins(Pixote).\b\par
+\b0 Set to 0 for no side-bar art (Black).\b\par
+\b0\par
+\b Iface Side-Bar Graphics Orientation(IFACE_BAR_SIDE_ORI = 2)\b0\par
+If set to 2 the Iface-bar side graphics extend from the Iface-Bar and are cut off where they meet the Screen edges.\par
+If set to 1 the Iface-bar side graphics extend from the Screen edges and are cut off where they meet the Iface-Bar.\par
+\par
+\par
+\par
+\ul\b\i OTHER_SETTINGS\ulnone\b0\i0\par
+\par
+\b Error checking (MEM_CHECK_FLAG = 0)\par
+\b0 Checks memory contents before writing. By default a message box will pop up (if there is a problem) giving you the name of a log file "f1_res_error.log" where the offsets of the errors will be stored. By default writing to memory will then be skipped and the program will resume. Further details on how errors are handled can be found in the "f1_res.ini".\par
+\b\par
+Notify Centre X (NOTIFY_CENTRE_X = 0)\par
+\b0 Changes which way the notify panel scrolls horizontally. The Notify panel being where Sneak, Level up, Radiated etc are displayed. Choices are extend left, right or centre. Set to 0 by default (extends right from left).\par
+\par
+\b Dialog Screen Background (DIALOG_SCRN_BACKGROUND = 0)\par
+\b0 When set to 1 this setting hides the Map and Iface-bar while viewing the Dialog Screen.\par
+\par
+\par
+\ul\b\i\fs24 6. Map edges\par
+\ulnone\b0\i0\fs20\par
+The "f1_res\\Map_Edges" folder is where the scroll borders are set for each map in Fallout. The original scroll blockers were never designed to work at higher resolutions. So my solution in the end was to disable the original blockers and replace them with my own which I refer to here as map edges. Map edge data for all the regular maps are contained in the folder "f1_res\\Map_Edges\\F1_Original". The name of the map edges folder used can be changed in the "f1_res.ini" file. Other folders can also be created for other mods. The INI settings files within these folders can be created with the BIS Mapper using the Mapper2 Hi-Res Patch (Version 2.0+).\par
+\par
+\par
+\b The map_edges INI file details\par
+\b0 Each map edge folder contains INI config files referenced by name to the various maps in a mod.\par
+Each INI file should contain at least one section labelled "default", which contains scroll boarder data for the used levels in a map. There may also be other sections for extra tweaks for particular resolutions. These other sections are named based on the resolution they are made for. For example a section made for a resolution of 1024 x 768 will be called "1024x768". If a complete match is not found settings will be grabbed from other sections with matching width's or height's falling back to the "default" section if custom settings are not found.\par
+\par
+This is an excerpt taken from the "ABBEY.ini" file made for the Abbey map of the Restoration Project 1.2.\par
+\par
+[default]\par
+1N=7484\par
+1S=28928\par
+1E=28457\par
+1W=19748\par
+2N=12080\par
+2S=19734\par
+2E=20685\par
+2W=14330\par
+3N=10933\par
+3S=20157\par
+3E=17735\par
+3W=15165\par
+[1680x1050]\par
+2N=9684\par
+2S=21921\par
+2E=20483\par
+2W=13932\par
+[1920x1080]\par
+2N=9686\par
+2W=13936\par
+[1920x1200]\par
+2N=9686\par
+2W=13936\par
+\par
+The first part of each key name defines the map level. "1" for level one, "2" for level two and "3" for level three. The rest of the key name defines which edge your setting; "N" for north, "S" for south, "E" for east and "W" for west.\par
+The key values themselves are hex tile numbers. They can refer to any hex tile running along the inside of the edge your setting up.\par
+You only need to include keys for the map levels used.  For example if the Abbey map only used level 3, the whole section would look like this.\par
+\par
+[default]\par
+3N=10933\par
+3S=20157\par
+3E=17735\par
+3W=15165\par
+\par
+\b How it Works In Game\b0\par
+When a map is loaded, the map edge variables are compared with the screen resolution. If the screen width is greater than the distance between the east and west edges and/or the screen height is greater than the north and south edges, then the distance between the two edges will be widened to compensate. It does this by adjusting the edge closest to the centre hexagonal tile as this edge has more room to move.\par
+Also when a map loads it first centres in the middle of the edges. If this is out of bounds it will instead centre on the centre hexagonal tile 20100. This should not generally happen unless you\rquote re running the game at an extremely high resolution.\par
+\par
+Scrolling adjusts the position on the map of the hex tile located at the centre of the screen. Because the screen width and height won't necessarily be multiples of a hex tile width or height there will always be some variation on the location of a map edge between different resolutions. So when setting up a new map always test it at multiple resolutions.\par
+\par
+\par
+\ul\b\i\fs24 7. Custom Art\ulnone\b0\i0\fs20\par
+\par
+\b Main-menu\b0\par
+I've divided the original "MAINMENU.FRM" into two parts. The first is the general background (MAINMENU.FRM) which is scaled to fit the screen and the second is the background for the menu itself (MENU_BG.FRM). Both reside in the "f1_res/intrface" folder and can be replaced with your own custom art if desired. The "MAINMENU.FRM" can be replaced with a different size frm, for example "800x600" and will be automatically scaled to fit the screen. The "MENU_BG.FRM" uses a masking colour (position 0 in the pallet) so it can have see-through areas if you wish and for best results it should be left at its original size for now.  I may make this more \cf1 customisable \cf0 in the future.\par
+\i\par
+\i0\par
+\b Iface-bar Side Art\par
+\b0 If you want to customize the Side-bar art, the frms to modify are:\par
+ifacelft1.frm and ifacerht1.frm for art option 1\par
+ifacelft2.frm and ifacerht2.frm for art option 2\par
+All frm's can be found in the "f1_res/intrface" folder.\par
+\par
+\par
+\par
+\ul\b\i\fs24 8.Thanks\par
+\par
+\ulnone\b0\i0\fs20 First I'd like to thank all the good people at "No Mutants Allowed" \ul\i http://www.nma-fallout.com/\ulnone\i0  for hosting this patch, and for keeping the mutants at bay for all these years.\par
+\par
+And of course to everyone in the forums who provided support and constructive criticism - Thanks :) \par
+\par
+\par
+\ul\b\i\fs24 9.Contributors\par
+\ulnone\b0\i0\fs20\par
+\b Simon Rawlins\b0 (Pixote).\par
+>Created the Metal looking side-bar art.\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+}
+ 

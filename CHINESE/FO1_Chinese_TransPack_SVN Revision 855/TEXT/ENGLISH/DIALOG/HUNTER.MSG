@@ -1,0 +1,54 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{你看见一个强壮的赏金猎人，佩戴着一个写着“我为刀俎，你为鱼肉”的圆形徽章。}
+# Bounty Hunter is considered Male term
+
+{101}{}{你想干嘛？}
+{102}{}{甜甜圈。}
+{103}{}{你在这儿干嘛？}
+{104}{}{随便看看。}
+{105}{}{没什么。}
+{106}{}{我们不欢迎放肆的家伙。滚蛋。}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+#{107}{}{That joke wasn't even funny the first time. You're about to discover why I'm one of the most fearsome bounty hunters in the wasteland. And I won't even get paid for it.}
+{107}{}{这笑话从来都不好笑。你很快就会知道为什么人们叫我废土上最可怕的赏金猎手。算是便宜你，这是免费消息，你不用多付钱！}
+{108}{}{少管闲事。}
+{109}{}{嗯，别在这儿闲逛。}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{你知道吗，你因为杀害儿童被悬赏花红1500？我吃定了！}
+# 1500 caps is equivalant to 1500 dollars. Children is considered male plural
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Adytum-内城区、Followers-末世论者、Cathedral-大教堂、Rippers-电锯党、Blades-利刃帮、Gun-枪、Hub-哈勃城、Junktown-迦克镇、Water-水、Nicole-妮可尔、Boneyard-晒骨场、Runners-走私者、Chip-芯片。}
+
+
+{1000}{}{Adytum}
+{1001}{}{Followers}
+{1002}{}{Cathedral}
+{1003}{}{Rippers}
+{1004}{}{Blades}
+{1005}{}{Gun}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Water}
+{1009}{}{Nicole}
+{1010}{}{Boneyard}
+{1011}{}{Runners}
+{1012}{}{Chip}
+
+{1100}{}{南边的一个小镇。偶尔会从那儿来些人。}
+{1101}{}{那是住在我们附近的爱好和平的怪异家伙。}
+{1102}{}{内城区的南边以及晒骨场的其他地方信奉奇怪的宗教。妮可尔说他们在从事一些事情。}
+{1103}{}{我们西边一个极度暴力的团伙。}
+{1104}{}{东边的一个帮派。他们使用振动刀。}
+{1105}{}{一个来自哈勃的帮派，出售枪支。他们在北边。}
+{1106}{}{哈勃城是东边的一个大型的商贸中心。}
+{1107}{}{迦克镇是个小镇，就在哈勃的北边。}
+{1108}{}{那个我帮不上忙。}
+{1109}{}{她是末世论者的头儿。}
+{1110}{}{这儿是天使的晒骨场，以前的洛杉矶残垣。}
+{1111}{}{一个来自哈勃的帮派，出售枪支。他们在北边。}
+{1112}{}{那个我帮不上忙。}

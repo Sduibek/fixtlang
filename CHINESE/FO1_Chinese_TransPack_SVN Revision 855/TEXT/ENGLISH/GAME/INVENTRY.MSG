@@ -1,0 +1,63 @@
+#
+# Inventory messages from inventry.c
+#
+# {0}{}{ST}
+# {1}{}{PE}
+# {2}{}{EN}
+# {3}{}{CH}
+# {4}{}{IN}
+# {5}{}{AG}
+# {6}{}{LK}
+# {7}{}{Hit Points}
+# {8}{}{Armor Class}
+# {9}{}{  Normal}
+# {10}{}{  Laser}
+# {11}{}{  Fire}
+# {12}{}{  Plasma}
+# {13}{}{  Explode}
+# {14}{}{No item}
+# {15}{}{Dmg:}
+# {16}{}{Rng:}
+# {17}{}{Ammo:}
+# {18}{}{(Not worn)}
+# {19}{}{You don't have enough action points to use inventory.}
+# {20}{}{Total Wt:}
+# {21}{}{MOVE ITEMS}
+# {22}{}{ALL}
+# {23}{}{SET TIMER}
+# {24}{}{Unarmed dmg:}
+# {25}{}{You cannot pick that up. You are at your maximum weight capacity.}
+# {26}{}{There is no space left for that item.}
+# {27}{}{OK, that's a good trade.}
+# {28}{}{No, your offer is not good enough.}
+# {29}{}{You gain %d experience points for successfully using your Steal skill.}
+{0}{}{力量}
+{1}{}{感知}
+{2}{}{体力}
+{3}{}{魅力}
+{4}{}{智力}
+{5}{}{灵敏}
+{6}{}{运气}
+{7}{}{       生命}
+{8}{}{       防御}
+{9}{}{       物理}
+{10}{}{       激光}
+{11}{}{       火焰}
+{12}{}{       电浆}
+{13}{}{       爆炸}
+{14}{}{没有物品}
+{15}{}{伤害:}
+{16}{}{射程:}
+{17}{}{弹药:}
+{18}{}{(没有物品)}
+{19}{}{你没有足够的行动点数使用物品。}
+{20}{}{当前负重:}
+{21}{}{拿取物品}
+{22}{}{最大}
+{23}{}{设置时间}
+{24}{}{攻击:}
+{25}{}{你不能把这个物品放入包里，因为超过你的最大负重。}
+{26}{}{你的背包已经没有空间存放这个物品了。}
+{27}{}{好，那是一笔不错的交易。}
+{28}{}{不，你提出的条件不够好。}
+{29}{}{因为你成功使用了特殊技能，所以你得到%d点经验值。}

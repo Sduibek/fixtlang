@@ -1,0 +1,125 @@
+#{100}{}{You see the caravan leader.}
+#{101}{}{Well, here we are. Here's your payment of }
+#{102}{}{ caps. 【He pulls out an old dog-eared money bag and gives you the money.】 You'll get another }
+#{103}{}{ caps if you return with us to the Hub. We'll rest here for a while, but don't go too far or the caravan will leave without you.}
+#{104}{}{Aaa... OK.}
+#{105}{}{How long before the caravan leaves?}
+#{106}{}{What can you tell me about Junktown?}
+#{107}{}{What can you tell me about the Boneyard?}
+#{108}{}{What can you tell me about the Brotherhood of Steel?}
+#{109}{}{I don't know if you'll understand this, but we leave in two hours or whenever you're ready.}
+#{110}{}{Um...}
+#{111}{}{Hunh?}
+#{112}{}{go. Gud.}
+#{113}{}{Man, we're hiring dumb ones these days.}
+#{114}{}{We usually leave two hours after arrival.  There's nothing here we haven't seen before, though,
+# so if you want to leave earlier we're ready whenever you are.}
+#{115}{}{I think I'll take a look around before we go.  See you later.}
+#{116}{}{OK.  Let's head back to the Hub.  Nothing I want to see here either.}
+#{117}{}{What can you tell me about Junktown?}
+#{118}{}{What can you tell me about the Boneyard?}
+#{119}{}{What can you tell me about the Brotherhood of Steel?}
+#{120}{}{Well, it's quite a bit like the Hub, really.  It has its share of problems: gangs,
+# thugs, thieves, you know... the usual stuff.  All in all, it's my kind of town. 【Laughs】}
+#{121}{}{How long before the caravan leaves?}
+#{122}{}{I think I'll take a look around before we go.  See you later.}
+#{123}{}{This part of the Boneyard is called Adytum.  The Boneyard is basically run by gangs. Kind of a rough area, so watch your step here. Adytum is run by the Regulators.  They're trying to hold this place together in light of all the gang wars. They're understandably suspicious of strangers, so if you haven't spoken to them yet I suggest you do before you start wandering around.}
+#{124}{}{Empty}
+#{125}{}{How long before the caravan leaves?}
+#{126}{}{I think I'll take a look around before we go.  See you later.}
+#{127}{}{Not much I can tell you about them.  The Brotherhood keeps to themselves for the most part. A lot of people give them a bad rap, but from what I can tell they're good people.  A little fanatical, maybe, but good guys.}
+#{128}{}{How long before the caravan leaves?}
+#{129}{}{I think I'll take a look around before we go.  See you later.}
+#{130}{}{Are you ready to go?}
+#{131}{}{go!}
+#{132}{}{No.  I'm still looking around.}
+#{133}{}{Yeah.  We can go.}
+#{134}{}{This part of the Boneyard is call Adytum.  The Boneyard is basically run by gangs. Kind of a rough area, so watch your step here.}
+#{135}{}{How long before the caravan leaves?}
+#{136}{}{I think I'll take a look around before we go.  See you later.}
+#{137}{}{OK.  You made it. Here's your }
+#{138}{}{ caps.  If you want more work, just go talk to the boss again.  I'd be more than happy to work with you again. I'll put in a good word for you with the boss. Take it easy.}
+#{139}{}{bY bY.}
+#{140}{}{See ya.}
+#{141}{}{Hey, how's it goin'?}
+#{142}{}{If you want more work, go check with the boss.}
+#{143}{}{You got somethin's wrong with you?}
+#{144}{}{You're a freakin' psycho!}
+#{145}{}{I'm not working with you!}
+#{146}{}{200}
+#{147}{}{400}
+#{148}{}{600}
+#{149}{}{What can you tell me about the Necropolis?}
+#{150}{}{Nasty freakin' place, man!}
+#{151}{}{The caravan has left.}
+#
+#
+#{200}{}{Hmmmpf...}
+#{201}{}{Hmm... I wish I could read.}
+#
+#
+#{300}{}{Mind your own business, would you?}
+#
+#{400}{}{I'm not paid to talk.}
+
+{100}{}{你看到一名商队领队。}
+{101}{}{给你，这是你的}
+{102}{}{个瓶盖【他从一个旧袋子里拿了瓶盖递给你】你还会得到}
+{103}{}{个瓶盖，只要你帮我们回哈勃城。我们在这里歇一会，别走太远，我们随时动身，可不等你。}
+{104}{}{啊……好。}
+{105}{}{商队要等多久才启程？}
+{106}{}{你能告诉我迦克镇的事情吗？}
+{107}{}{你能告诉我晒骨场的事情吗？}
+{108}{}{你能告诉我钢铁兄弟会的事情吗？}
+{109}{}{不知道你记住没有，我们两小时后出发，或者你在此之前和我们说一声我们就走。}
+{110}{}{哦……}
+{111}{}{呼？}
+{112}{}{走。好的，走。}
+{113}{}{要命啊，我们现在都要雇傻子了。}
+{114}{}{我们通常在到达这里两小时后回程，我们来这里也不是一次了，没什么想看的，你如果想早点走，和我们说一声就马上动身。}
+{115}{}{我想走之前再转转。待会见。}
+{116}{}{好，我们回哈勃城吧，这里也没什么看的了。}
+{117}{}{你能告诉我迦克城的事情吗？}
+{118}{}{你能告诉我晒骨场的事情吗？}
+{119}{}{你能告诉我钢铁兄弟会的事情吗？}
+{120}{}{基本和哈勃城很像，真的很像。问题也不小：黑帮，流氓，小偷，哪里都缺不了这些人，不过呢，我喜欢这种城市。【大笑】}
+{121}{}{商队要等多久才启程？}
+{122}{}{我想走之前再转转。待会见。}
+{123}{}{这里是晒骨场的内城区。晒骨场基本由黑帮控制，很不友好。你要小心点。内城区由管理者们控制，他们希望通过黑帮战争一统全城，所以对外来人特别怀疑，如果你还没见过他们，你最好去打个招呼再去逛街。}
+{124}{}{Empty}
+{125}{}{商队要等多久才启程？}
+{126}{}{我想走之前再转转。待会见。}
+{127}{}{我所知道的也不多。兄弟会对他们的事情讳莫如深。很多人说他们坏话，但从我的观察来看，他们是好人。虽然狂热，但还算善良。}
+{128}{}{商队要等多久才启程？}
+{129}{}{我想走之前再转转。待会见。}
+{130}{}{准备好出发了？}
+{131}{}{出发！}
+{132}{}{不。我还要再转转。}
+{133}{}{好，出发。}
+{134}{}{这里是晒骨场的内城区。晒骨场基本由黑帮控制，很不友好。你要小心点。}
+{135}{}{商队要等多久才启程？}
+{136}{}{我想走之前再转转。待会见。}
+{137}{}{好，你的活儿结了，这是你的}
+{138}{}{块。如果你还想干，和我们老板说。很高兴以后能和你再次合作。我在老板面前会为你美言几句的，别担心。}
+{139}{}{再见。}
+{140}{}{回见。}
+{141}{}{嘿，情况如何？}
+{142}{}{如果你想接着干，和老板说。}
+{143}{}{你是不是有毛病啊。}
+{144}{}{你他妈的是个疯子！}
+{145}{}{我才不想和你共事！}
+{146}{}{２００}
+{147}{}{４００}
+{148}{}{６００}
+{149}{}{你对大墓地有何看法？}
+{150}{}{那是个恶心的地方，知道不。}
+{151}{}{商队已经走了。}
+
+
+{200}{}{唔唔唔唔……}
+{201}{}{唔唔唔唔……我希望我能理解。}
+
+
+{300}{}{少管闲事，明白？}
+
+{400}{}{我不是靠和你聊天挣钱的。}

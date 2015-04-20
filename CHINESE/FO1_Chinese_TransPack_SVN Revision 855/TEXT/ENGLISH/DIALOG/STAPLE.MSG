@@ -1,0 +1,116 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Mrs. Stapleton, the librarian.}
+{100}{}{你看到斯塔布雷顿夫人，图书馆管理员。}
+
+#{101}{}{You see a middle-aged woman.}
+{101}{}{你看到一位中年妇女。}
+
+#{102}{}{Hi, Welcome to the Library.  I don't think I have seen you around these parts
+# before.   What might you be looking for in the way of knowledge?}
+{102}{}{嗨，欢迎来到图书馆。我不认为我在这里见过你。你要寻找哪方面的知识呢？}
+
+#{103}{}{Good to see you again.  What might you be looking for today?}
+{103}{}{很高兴再次见到你，今天你要找什么呢？}
+
+#{104}{}{What do you have in the way of books?}
+{104}{}{你这里都有哪方面的知识？}
+
+#{105}{}{I am looking for a Water Chip.}
+{105}{}{我在找一个净水芯片。}
+
+#{106}{}{Nothing, but thanks.}
+{106}{}{没事，谢谢。}
+
+#{107}{}{Well, let me show you my selection.}
+{107}{}{来看看我的精选书籍吧。}
+
+#{108}{}{Well, in my studies I have come across some references to such things.  Actually
+# I have in my posession a Holodisk that contains a certain amount of information that you
+# might find useful.}
+{108}{}{我在研究中读到过一些提及这种东西的文章。我有一个磁盘，其中有大量你会觉得有用的信息。}
+
+#{109}{}{A Holodisk, what is that?}
+{109}{}{磁盘？那是什么？}
+
+#{110}{}{Can I have the Holodisk?}
+{110}{}{我能看看那个磁盘吗？}
+
+#{111}{}{A Holodisk contains information on it, but it can only be read by a certain number
+# of electronic devices.  I see that you have a PIP Boy. You can use that to decode, review,
+# and store the information that a Holodisk contains.}
+{111}{}{磁盘可以存储信息，但必须要有相应的电子设备才能阅读。我看到你有一个哔哔小子，你可以用它来阅读并且存储磁盘上的信息。}
+
+#{112}{}{Sounds great! Can I have the Holodisk?}
+{112}{}{听起来很不错！我能看看那个磁盘吗？}
+
+#{113}{}{Information is hard to come by in this day and age.  I will need to charge you 750
+# Hub Bucks for the disk.}
+{113}{}{如今信息可是非常难得的哦。我需要你用750块哈勃币交换磁盘。}
+
+#{114}{}{Sounds good. Here's the money.}
+{114}{}{听起来还可以。给你钱。}
+
+#{115}{}{Now that looks like a worn Holodisk if I've ever seen one.  I'll give you 500 for
+# it.}
+{115}{}{就是那个磁盘吗？我靠，我从来没见过这么破的磁盘。我只能给你500块。}
+
+#{116}{}{How about I take a blowtorch to this whole place instead! Huh lady?!}
+{116}{}{那我把整个地方用火焰喷射器给你装修一番如何啊？女士？！}
+
+#{117}{}{Sorry, don't have the cash.}
+{117}{}{对不起，我钱不够。}
+
+#{118}{}{I am sorry but I can only accept the full amount for the Holodisk.  Please return
+# when you have that amount.}
+{118}{}{很抱歉，我没拿到足够的钱是不会把磁盘交给你的。等你有了钱再来找我吧。}
+
+#{119}{}{I am sorry, but you wil need to keep your pyromaniacal tendencies to yourself.
+# Please leave.}
+{119}{}{很抱歉，不过我想你必须收起你那副纵火狂的嘴脸。请你离开。}
+
+#{120}{}{【Mrs Stapleton takes your money.】}
+{120}{}{【斯塔布雷顿夫人拿走了你的钱。】}
+
+#{121}{}{You are right, the Disk has seen better days.  Since that is the case, I will
+# accept 500 instead of my original price. 【Mrs Stapleton takes your money.】}
+{121}{}{你说得对，这个磁盘的确应该有更好些的样子。因此我决定接受500块的价格。【斯塔布雷顿夫人拿走了你的钱。】}
+
+#{122}{}{Normally, I do not give in to such methods, but to protect my collection from such
+# a threat I will give you the Disk.  In exchange, I would ask that you never return here.}
+{122}{}{通常我不会害怕这种威胁，但为了保护我的收藏，我会给你磁盘。作为交换，我要求你今后不许回到这里。}
+
+#{123}{}{As I may have explained, you will need to use this and then access the information
+# through your PIP Boy.  【Mrs. Stapleton hands you the Holodisk】}
+{123}{}{我也许说过，你必须要通过你的哔哔小子来阅读这个。【斯塔布雷顿夫人将磁盘交给你】}
+
+#{124}{}{You will have to excuse me, but I have research to do.}
+{124}{}{请原谅，我还要做研究。}
+
+#{125}{}{Ruk?}
+{125}{}{啦呵？}
+
+#{126}{}{I'm sorry, I don't understand you.  Somewhere I have a Holodisk on learning the English language, if you're intersted.}
+{126}{}{对不起，我不明白你说的话。不过我有一个英语学习的磁盘。如果你是外国人，也许会对你有用的。}
+
+#{127}{}{Goodbye.}
+{127}{}{再见。}
+
+#{128}{}{Thanks.}
+{128}{}{谢谢。}
+
+#{129}{}{Ug.}
+{129}{}{呃。}
+
+#{130}{}{Do you have a set of Chemistry journals?  Miles in Adytum said you might.}
+{130}{}{你有整套的化学杂志吗？内城区的麦尔斯说你可能有。}
+
+#{131}{}{Yes, I've heard from Miles and I have the ones he's looking for.  They will cost you 750 bucks.}
+{131}{}{我听说过麦尔斯，我正好有他要找的东西。不过你需要付750个瓶盖才能拿走。}
+
+#{132}{}{Here you are, sir.  Say hello to Miles for me.}
+{132}{}{这里你的东西，先生。替我向麦尔斯问好。}
+
+#{133}{}{I'm sorry, but you don't have enough money.  Please return when you have the money.}
+{133}{}{我很抱歉，但你的钱不够。等有钱再回来吧。}

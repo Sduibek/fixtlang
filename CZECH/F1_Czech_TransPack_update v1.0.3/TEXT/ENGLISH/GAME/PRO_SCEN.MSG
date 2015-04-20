@@ -1,0 +1,1716 @@
+{100}{}{Hoøící sud}
+{101}{}{Sud, ve kterém hoøí papír a jiné odpadky.}
+{200}{}{Døevìné dveøe}
+{201}{}{Dveøe vyrobené ze døeva.}
+{300}{}{Døevìnı stùl}
+{301}{}{Stùl, vyrobenı ze døeva.}
+{400}{}{Døevìnı stùl}
+{401}{}{Stùl, vyrobenı ze døeva.}
+{500}{}{Barel}
+{501}{}{Starı ocelovı sud.}
+{600}{}{Sud}
+{601}{}{Starı ocelovı sud.}
+{700}{}{Hromada pneumatik}
+{701}{}{Hromada starıch pneumatik. Jsou vulkanizované a speèené - pravdìpodobnì díky áru.}
+{800}{}{Bezpeènostní dveøe}
+{801}{}{Tyhle dveøe vypadají velmi bytelnì. Poskytují ochranu pøed venkovním svìtem i pøed nebezpeènımi stvoøeními.}
+{900}{}{Poèítaè}
+{901}{}{Poèítaèovı terminál k hlavnímu poèítaèi Vaultu.}
+{1000}{}{Sloup}
+{1001}{}{Podpùrnı sloup, rozvádìjící váhu celého komplexu.}
+{1100}{}{Poèítaè}
+{1101}{}{Poèítaèovı terminál k hlavnímu poèítaèi Vaultu.}
+{1200}{}{Poèítaè}
+{1201}{}{Poèítaèovı terminál k hlavnímu poèítaèi Vaultu.}
+{1300}{}{Monitor}
+{1301}{}{Zelená obrazovka ukazující informace. Na obrazovce obèas nìco naskoèí.}
+{1400}{}{Monitor}
+{1401}{}{Zelená obrazovka ukazující informace.}
+{1500}{}{Holo Generátor}
+{1501}{}{Velkoplošnı pøehrávaè THT pásek. Bìhem posledních 80 let ale nebyly ádné nové filmy natoèeny.}
+{1600}{}{Obrazovky}
+{1601}{}{Série tøí monitorù ukazujících rùzné informace.}
+{1700}{}{Obrazovky}
+{1701}{}{Série tøí monitorù ukazujících rùzné informace o Vaultu.}
+{1800}{}{Dveøe}
+{1801}{}{I po bliším prùzkumu to jsou stále jen dveøe.}
+{1900}{}{Dveøe}
+{1901}{}{I po bliším prùzkumu to jsou stále jen dveøe.}
+{2000}{}{Ventilátor}
+{2001}{}{Ventilátor zásobuje celı komplex krytu èerstvım vzduchem.}
+{2100}{}{Ventilace}
+{2101}{}{Ventilátor zásobuje celı komplex krytu èerstvım vzduchem.}
+{2200}{}{Dveøe}
+{2201}{}{Velké dveøe zkonstruované tak, aby pøeèkaly všechny formy poškození.}
+{2300}{}{Dveøe}
+{2301}{}{Velké dveøe zkonstruované tak, aby pøeèkaly všechny formy poškození.}
+{2400}{}{Podstavec}
+{2401}{}{Podstavec vytvoøenı k tomu, aby poskytoval podporu, energii a komunikaèní linky Správcovì plošinì.}
+{2500}{}{Monitor}
+{2501}{}{Pokud jsi vidìl jeden monitor, vidìl jsi je všechny.}
+{2600}{}{Monitor}
+{2601}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{2700}{}{Møíka}
+{2701}{}{Bìné møíovı, poskytující základnu pro Správcùv podstavec.}
+{2800}{}{Trubky}
+{2801}{}{Úplnì obyèejné trubky.}
+{2900}{}{Ventilace}
+{2901}{}{Bìnı ventilaèní systém.}
+{3000}{}{Sloup}
+{3001}{}{Bìnı podpùrnı sloup.}
+{3100}{}{Sloup}
+{3101}{}{Bìnı podpùrnı sloup.}
+{3200}{}{Ventilace}
+{3201}{}{Bìnı ventilaèní systém.}
+{3300}{}{Ventilace}
+{3301}{}{Bìnı ventilaèní systém.}
+{3400}{}{Postel}
+{3401}{}{Postel. Po tom, na èem všem jsi spal, vypadá opravdu pohodlnì.}
+{3500}{}{Postel}
+{3501}{}{Normální postel. Vypadá pohodlnì.}
+{3600}{}{Postel}
+{3601}{}{Normální postel. Vypadá pohodlnì.}
+{3700}{}{Postel}
+{3701}{}{Normální postel. Vypadá pohodlnì.}
+{3800}{}{Vıtah}
+{3801}{}{Tohle je vıtah. Jezdí nahoru a dolù komplexem krytu.}
+{3900}{}{idle}
+{3901}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{4000}{}{idle}
+{4001}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{4100}{}{idle}
+{4101}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{4200}{}{idle}
+{4201}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{4300}{}{Monitor}
+{4301}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4400}{}{Monitor}
+{4401}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4500}{}{Monitor}
+{4501}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4600}{}{Monitor}
+{4601}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4700}{}{Monitor}
+{4701}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4800}{}{Monitor}
+{4801}{}{Poèítaèovı monitor zobrazující rùzná data.}
+{4900}{}{Vıchod z mapy}
+{4901}{}{Vıchod z mapy}
+{5000}{}{Agregát zpracování vzduchu}
+{5001}{}{AZV èistí starı vzduch komplexu. Tenhle je poškozenı.}
+{5100}{}{idle}
+{5101}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{5200}{}{idle}
+{5201}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{5300}{}{idle}
+{5301}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{5400}{}{idle}
+{5401}{}{idle. Bohuel nemáš èas si sednout a relaxovat.}
+{5500}{}{JVV}
+{5501}{}{Jednotka video vıstupu sdruuje nìkolik poèítaèovıch a jinıch monitorù. Na všech se nìco dìje.}
+{5600}{}{JVV}
+{5601}{}{Jednotka video vıstupu sdruuje nìkolik poèítaèovıch a jinıch monitorù. Na všech se nìco dìje.}
+{5700}{}{idle}
+{5701}{}{Pohodlnì vypadající idle.}
+{5800}{}{idle}
+{5801}{}{Pohodlnì vypadající idle.}
+{5900}{}{idle}
+{5901}{}{Pohodlnì vypadající idle.}
+{6000}{}{idle}
+{6001}{}{Pohodlnì vypadající idle.}
+{6100}{}{Stùl}
+{6101}{}{Stùl. Pøed jeho vynálezem museli lidé pokládat vìci na podlahu.}
+{6200}{}{Stùl}
+{6201}{}{Tohle je naprosto urèitì stùl.}
+{6300}{}{Laskavec}
+{6301}{}{Tohle je Laskavec. Samozøejmì, e jsi nikdy na vlastní oèi ještì ádnı nevidìl. Radši si ho prohlédni poøádnì.}
+{6400}{}{Kaktus}
+{6401}{}{Jeden podobnı mìl Petr Bulíø v redakci.}
+{6500}{}{Kaktus}
+{6501}{}{Na tomhle kaktusu nevidíš nic zajímavého.}
+{6600}{}{Strom}
+{6601}{}{Uschlı strom. Tady neroste dobøe nic.}
+{6700}{}{Tajnı blokující hex}
+{6701}{}{Pokud tohle vidíš, napiš stínost technickému návrháøi.}
+{6800}{}{Schody}
+{6801}{}{Spousta schodù.}
+{6900}{}{Stalagmit}
+{6901}{}{Krápník vyrùstající z kamenné podlahy.}
+{7000}{}{Stalagmit}
+{7001}{}{Krápník vyrùstající z kamenné podlahy.}
+{7100}{}{Krvavá skvrna}
+{7101}{}{Na téhle skvrnì není naprosto nic neobvyklého. Tedy kromì toho, e tu samozøejmì nìkdo musel zemøít.}
+{7200}{}{Kamennı sloup}
+{7201}{}{Tenkı kamennı sloup vedoucí od podlahy ke stropu.}
+{7300}{}{Kamennı sloup}
+{7301}{}{Tenkı kamennı sloup vedoucí od podlahy ke stropu.}
+{7400}{}{Kameny}
+{7401}{}{Chvíli jsi tyto kameny studoval, ale nepohnuly se.}
+{7500}{}{Kameny}
+{7501}{}{Pro jistotu jsi tyto kameny chvilku opatrnì pozoroval, ale vypadá to, e na tebe nechtìjí zaútoèit.}
+{7600}{}{Podlaha}
+{7601}{}{REMOVED}
+{7700}{}{Støecha}
+{7701}{}{REMOVED}
+{7800}{}{Kameny}
+{7801}{}{Velká hromada kamení. V tomhle prostøedí vypadá velmi domorodì.}
+{7900}{}{Kameny}
+{7901}{}{Malá hromádka kamení.}
+{8000}{}{Kameny}
+{8001}{}{Malá hromádka kamení.}
+{8100}{}{Kameny}
+{8101}{}{Velká hromada kamení.}
+{8200}{}{Kostra}
+{8201}{}{Hromádka vybìlenıch zvíøecích kostí. Nebo v to alespoò doufáš...}
+{8300}{}{Kostra}
+{8301}{}{Hromádka vybìlenıch zvíøecích kostí. Nebo v to alespoò doufáš...}
+{8400}{}{Kosti}
+{8401}{}{Velká hromada vybìlenıch kostí. Nejsi schopnı urèit druh mrtvıch stvoøení.}
+{8500}{}{Kostra}
+{8501}{}{Vypadá to jako pozùstatky Yetiho, ale nejseš si jistı. Na pøesnì urèení jsou bohuel pøíliš zvìtralé.}
+{8600}{}{Kostra}
+{8601}{}{Vidíš kostru velké, dvouhlavé krávy.}
+{8700}{}{Brána}
+{8701}{}{Døevìná brána. Dá se otevøít, a zavøít, a otevøít, a zavøít, a...}
+{8800}{}{Chladicí bednièka}
+{8801}{}{REMOVED}
+{8900}{}{Chladicí bednièka}
+{8901}{}{REMOVED}
+{9000}{}{Balvany}
+{9001}{}{Velká hromada balvanù. U od pohledu vypadají nebezpeènì.}
+{9100}{}{Balvany}
+{9101}{}{Velká hromada balvanù. Pokud se podíváš z blízka, vidíš po stranách vytesané tváøe malıch zelenıch muíkù.}
+{9200}{}{Kameny}
+{9201}{}{Kamení, kamení, kamení! Všude kam se podíváš, kamení!}
+{9300}{}{Kameny}
+{9301}{}{Malá hromádka kamenù.}
+{9400}{}{Bar}
+{9401}{}{Tato moderní verze destilaèního pøístroje by se mohla klidnì nazıvat minipivovar.}
+{9500}{}{idle}
+{9501}{}{Zetlelá idle vyrobená z prastaré sedaèky auta.}
+{9600}{}{idle}
+{9601}{}{Zapáchající stará sedaèka z auta. Pruiny ji dávno ztratily svou prunost.}
+{9700}{}{idle}
+{9701}{}{Stará zpráchnivìlá zapáchající idle. Vypadá opravdu nepohodlnì.}
+{9800}{}{Pohovka}
+{9801}{}{Stará zpráchnivìlá zapáchající idle. Vypadá opravdu nepohodlnì.}
+{9900}{}{Gauè}
+{9901}{}{Velmi nepohodlnì vypadající zaøízení na sedání, nìkdy také nazıvané gauè.}
+{10000}{}{Gauè}
+{10001}{}{Velmi nepohodlnì vypadající zaøízení na sedání, nìkdy také nazıvané gauè.}
+{10100}{}{Pneumatika}
+{10101}{}{Stará gumová pneumatika pochozená v plevelu.}
+{10200}{}{Køoví}
+{10201}{}{Nìjakı druh pouštního plevelu.}
+{10300}{}{Køoví}
+{10301}{}{Nìjakı druh pouštního plevelu.}
+{10400}{}{Køoví}
+{10401}{}{Nìjakı druh pouštního plevelu.}
+{10500}{}{Køoví}
+{10501}{}{Nìjakı druh pouštního plevelu.}
+{10600}{}{Haraburdí}
+{10601}{}{Rezatı dveøe od auta, opøenı o rezatı sud. elezo stárne, elezo stárne, ono taky elezo stárne . . . Ehm. Slabı, co?}
+{10700}{}{Haraburdí}
+{10701}{}{Rozbitı záchod napolo pohøbenı v písku. Pøipomíná ti tvùj ivot. Je toti posranej.}
+{10800}{}{Plevel}
+{10801}{}{Nìjakı druh køoví. Pokud se mu tu nìkdy daøilo, teï to rozhodnì není. }
+{10900}{}{Haraburdí}
+{10901}{}{Pneumatika zapadlá v písku. Kolem ní se povaluje døevìné tøísky}
+{11000}{}{Kameny}
+{11001}{}{Po podrobnìjším prozkoumání si myslíš, e to asi je zkamenìlé døíví}
+{11100}{}{Špína}
+{11101}{}{Hromádka špíny ze které trèí uschlá rostlina}
+{11200}{}{Špína}
+{11201}{}{Hromádka špíny.}
+{11300}{}{Špína}
+{11301}{}{Hromádka špíny.}
+{11400}{}{Špína}
+{11401}{}{Hromádka špíny.}
+{11500}{}{Plevel}
+{11501}{}{Hromádka špíny, ze které vyrùstá nìjaká rostlina.}
+{11600}{}{Haraburdí}
+{11601}{}{Pokroucenı kus kovu.}
+{11700}{}{Haraburdí}
+{11701}{}{Rozlámané døevo.}
+{11800}{}{Haraburdí}
+{11801}{}{Malá hromádka harampádí}
+{11900}{}{Špína}
+{11901}{}{Hromádka špíny.}
+{12000}{}{Špína}
+{12001}{}{Hromádka špíny.}
+{12100}{}{Špína}
+{12101}{}{Hromádka špíny.}
+{12200}{}{Špína}
+{12201}{}{Hromádka špíny.}
+{12300}{}{Špína}
+{12301}{}{Hromádka špíny.}
+{12400}{}{Špína}
+{12401}{}{Hromádka špíny.}
+{12500}{}{Plevel}
+{12501}{}{Pouštní rostliny.}
+{12600}{}{Plevel}
+{12601}{}{Pouštní rostliny.}
+{12700}{}{Plevel}
+{12701}{}{Pouštní rostliny.}
+{12800}{}{}
+{12900}{}{Stìna}
+{13000}{}{Stìna}
+{13100}{}{Stìna}
+{13200}{}{Stìna}
+{13300}{}{Stìna}
+{13400}{}{Stìna}
+{13500}{}{Kanál}
+{13501}{}{Z této odpadní stoky vychází velice nepøíjemnı smrdutı zápach. Po chvilce jsi si ale zvyknul.}
+{13600}{}{Kanál}
+{13601}{}{Pøed møíí zakrıvající tento kanál stìí mùeš udìlat nìjakı pohyb. Pohled ti vrací malé èervené oèi. Krysí oèi.}
+{13700}{}{Kanál}
+{13701}{}{Z kanálu se line zvuk bublající vody. Stejnì tak i pøíšernı zápach.}
+{13800}{}{Kanál}
+{13801}{}{Z kanálu se line zvuk bublající vody. Stejnì tak i pøíšernı zápach.}
+{13900}{}{ebøík}
+{13901}{}{Starı, vratkı ebøík. Vypadá to, e je rád, kdy udrí sám sebe.}
+{14000}{}{Vstup do stok}
+{14001}{}{Vypadá to jako vstup do systému stok.}
+{14100}{}{Zdroj svìtla}
+{14200}{}{Dveøe}
+{14201}{}{Vypadají jako normální dveøe ve Vaultu, které byly znièeny, moná zapáleny. Pøesto jsou stále funkèní.}
+{14300}{}{Dveøe}
+{14301}{}{Vypadají jako normální dveøe ve Vaultu, které byly znièeny, moná zapáleny. Pøesto jsou stále funkèní.}
+{14400}{}{Poklop}
+{14401}{}{Tìkı kryt prùlezu. Vypadá to, e s ním nìkdo nedávno pohyboval.}
+{14500}{}{Díra}
+{14501}{}{Velká díra vypálená skrz dveøe.}
+{14600}{}{Díra}
+{14601}{}{Velká díra vypálená skrz dveøe.}
+{14700}{}{Neprùstøelné sklo}
+{14701}{}{Absolutnì neznièitelné sklo. Ani to nezkoušej.}
+{14800}{}{Neprùstøelné sklo}
+{14801}{}{Absolutnì neznièitelné sklo. Ani to nezkoušej.}
+{14900}{}{Neprùstøelné sklo}
+{14901}{}{Absolutnì neznièitelné sklo. Ani to nezkoušej.}
+{15000}{}{Neprùstøelné sklo}
+{15001}{}{Absolutnì neznièitelné sklo. Ani to nezkoušej.}
+{15100}{}{Dveøe}
+{15101}{}{Hydraulicky otevírané troj segmentové dveøe. Opravdu pìknı kousek technologie.}
+{15200}{}{Dveøe}
+{15201}{}{Hydraulicky otevírané troj segmentové dveøe. Opravdu pìknı kousek technologie.}
+{15300}{}{Dveøe}
+{15301}{}{Na dveøích je znak Bratrstva Oceli.}
+{15400}{}{Dveøe}
+{15401}{}{Na dveøích je znak Bratrstva Oceli.}
+{15500}{}{Vıtah}
+{15501}{}{Vnitøek vıtahu Bratrstva. Je naprosto èistı!}
+{15600}{}{Vıtah}
+{15601}{}{Vnitøek vıtahu Bratrstva. Je naprosto èistı!}
+{15700}{}{Znaèka}
+{15701}{}{Tohle je symbol Bratrstva Oceli. Tato znaèka øíká všem z Pustin, e toho je jeho území a e nejsou vítáni.}
+{15800}{}{Monitor}
+{15801}{}{Vidíš poèítaèovı monitor. Je vyroben pomocí technologie Bratrstva.}
+{15900}{}{Monitor}
+{15901}{}{Vidíš poèítaèovı monitor. Je vyroben pomocí technologie Bratrstva.}
+{16000}{}{Poèítaè}
+{16001}{}{Pamìová databanka vyrobená pomocí technologie Bratrstva.}
+{16100}{}{Poèítaè}
+{16101}{}{Pamìová databanka vyrobená pomocí technologie Bratrstva.}
+{16200}{}{Poèítaè}
+{16201}{}{Špièkovı poèítaè vyuívající namísto zastaralıch dìrnıch štítkù moderní cívkové pamìti.}
+{16300}{}{Poèítaè}
+{16301}{}{Špièkovı poèítaè vyuívající namísto zastaralıch dìrnıch štítkù moderní cívkové pamìti.}
+{16400}{}{Monitor}
+{16401}{}{Vidíš poèítaèovı monitor. Je vyroben pomocí technologie Bratrstva.}
+{16500}{}{Monitor}
+{16501}{}{Vidíš poèítaèovı monitor. Je vyroben pomocí technologie Bratrstva.}
+{16600}{}{Kabely}
+{16601}{}{Nìkolik poèítaèovıch kabelù.}
+{16700}{}{Kabely}
+{16701}{}{Nìkolik poèítaèovıch kabelù.}
+{16800}{}{Kabely}
+{16801}{}{Nìkolik poèítaèovıch kabelù.}
+{16900}{}{Sloup}
+{16901}{}{Podpùrnı sloup.}
+{17000}{}{Sloup}
+{17001}{}{Podpùrnı sloup.}
+{17100}{}{Vstupní poèítaè}
+{17101}{}{Tento poèítaè ovládá vstupní dveøe do Vaultu. Pøed vstupem musíš zadat urèitı pøístupovı kód.}
+{17200}{}{Poutaè kasina}
+{17201}{}{Tohle vypadá jako reklama na Gizmovo kasino.}
+{17300}{}{Vnìjší dveøe Vaultu 13}
+{17301}{}{Tyto velké dveøe spojují Vault a okolní svìt.}
+{17400}{}{Vnìjší dveøe Vaultu 13}
+{17401}{}{Tyto velké dveøe spojují Vault a okolní svìt.}
+{17500}{}{Poutaè kasina}
+{17501}{}{Tato èást poutaèe obsahuje elektrickı motor, kterı pomalu otáèí pøipojenım neonem.} 
+{17600}{}{Šipka nahoru}
+{17700}{}{Šipka dolù}
+{17800}{}{Bedna}
+{17900}{}{Bedna}
+{18000}{}{Bedna}
+{18100}{}{Vršek vıtahu}
+{18101}{}{Díváš se na èást vıtahu.}
+{18200}{}{Poèítaèová konzole}
+{18201}{}{Poèítaèovı terminál pøipojenı kabelem k velkému poèítaèi. Je to technologie Bratrstva.}
+{18300}{}{Poèítaèová konzole}
+{18301}{}{Poèítaèovı terminál pøipojenı kabelem k velkému poèítaèi. Je to technologie Bratrstva.}
+{18400}{}{Symbol}
+{18401}{}{Symbol Bratrstva. Kola znázoròují technické vìdomosti, meè odhodlání k vlastní obranì a køídla povznášející nadìji.}
+{18500}{}{Symbol}
+{18501}{}{Symbol Bratrstva. Kola znázoròují technické vìdomosti, meè odhodlání k vlastní obranì a køídla povznášející nadìji.}
+{18600}{}{Znaèka 'Jedna'}
+{18601}{}{Myslíš, e by to mohlo znamenat, e jsi v prvním patøe.}
+{18700}{}{Znaèka 'Dva'}
+{18701}{}{Jdi v druhém patøe.}
+{18800}{}{Znaèka 'Tøi'}
+{18801}{}{Tohle urèitì musí znamenat, e jsi v tøetím patøe!.}
+{18900}{}{Znaèka 'Ètyøi'}
+{18901}{}{Musíš bıt ve ètvrtém patøe.}
+{19000}{}{Palanda}
+{19001}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{19100}{}{Palanda}
+{19101}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{19200}{}{Palanda}
+{19201}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{19300}{}{Bedna}
+{19400}{}{Automat na Nuka-Colu}
+{19401}{}{Reklama na stranì automatu vychvaluje tento populární nápoj.}
+{19500}{}{Stìna}
+{19600}{}{Padací dveøe}
+{19601}{}{Ukázkové padací dveøe.}
+{19700}{}{Prùlez}
+{19701}{}{ebøík v prùlezu vede nìkam dolù do temnoty. Ohhh, jak strašidelné.}
+{19800}{}{Oltáø}
+{19801}{}{Tohle je oltáø.}
+{19900}{}{Kazatelna}
+{19901}{}{Odtud lidé káou. Všimnul jsi si malého místa, kam si øeèník mùe odloit pøipravenou øeè.}
+{20000}{}{Lavice}
+{20001}{}{Lavice vypadá pøesnì tak, jak jsi oèekával. Nic neobvyklého.}
+{20100}{}{Ukazatel}
+{20101}{}{Znaèky na tomto sloupu vypadají ponìkud zrezivìle.}
+{20200}{}{Ukazatel}
+{20201}{}{Znaèky na tomto sloupu vypadají ponìkud zrezivìle.}
+{20300}{}{Ukazatel}
+{20301}{}{Znaèky na tomto sloupu vypadají ponìkud zrezivìle.}
+{20400}{}{Ukazatel}
+{20401}{}{Znaèky na tomto sloupu vypadají ponìkud zrezivìle.}
+{20500}{}{Ukazatel}
+{20501}{}{Znaèky na tomto sloupu vypadají ponìkud zrezivìle.}
+{20600}{}{Stará matrace}
+{20601}{}{Stará vyslouilá matrace. Zdá se ti, e vidíš nìkolik malıch hmyzích stvoøenıch, které ji zjevnì obıvají.}
+{20700}{}{Stará matrace}
+{20701}{}{I kdyby jsi se nìkdy zkusil na této vìci vyspat, rozhodnì by si na ní nespal sám.}
+{20800}{}{Postel}
+{20801}{}{Provizorní postel vyrobená z náhradního materiálu.}
+{20900}{}{Postel}
+{20901}{}{Provizorní postel vyrobená z náhradního materiálu.}
+{21000}{}{Postel}
+{21001}{}{Tahle postel u vidìla lepší dny (a pravdìpodobnì i noci)}
+{21100}{}{Postel}
+{21101}{}{Po bliším prùzkumu ti je jasné, e prostìradlo nebylo vymìnìno hodnì, hodnì dlouho.}
+{21200}{}{Postel}
+{21201}{}{Na tomhle spacím zaøízení jsi objevil nìkolik skvrn nejasného pùvodu..}
+{21300}{}{Postel}
+{21301}{}{Tato postel u toho vidìla opravdu hodnì. A mezi matracemi taky muselo nìco chvípnout.}
+{21400}{}{Knihovna}
+{21500}{}{Knihovna}
+{21600}{}{Knihovna}
+{21700}{}{Knihovna}
+{21800}{}{Knihovna}
+{21900}{}{Knihovna}
+{22000}{}{Schránky}
+{22001}{}{Tyhle døevìné schránky se u vlivem poèasí rozpadají.}
+{22100}{}{Schránky}
+{22101}{}{Na tìchto døevìnıch bednách jsi nenašel nic, co by stálo za øeè.}
+{22200}{}{Boxes}
+{22201}{}{Mátová chu v ústech stále trvá a trvá, a tak máš spoustu èasu si tuhle hromadu zrezivìlého šrotu poøádnì prohlédnout.}
+{22300}{}{Schránky}
+{22301}{}{Tyhle døevìné schránky se u vlivem poèasí rozpadají.}
+{22400}{}{Auto}
+{22401}{}{Tenhle automobil je v naprosto pøíšerném stavu. To, e by snad šel opravit, tì ani na chvilku nenapadlo.}
+{22500}{}{Auto}
+{22501}{}{Tak tenhle zrezivìlı kus šrotu zrenovovat nepùjde.}
+{22600}{}{Auto}
+{22601}{}{Tenhle vùz ji nikdy nepojede. Vánì.}
+{22700}{}{Auto}
+{22701}{}{Uèebnicovı pøíklad vraku.}
+{22800}{}{Auto}
+{22801}{}{I kdyby se vedle tebe náhle objevil Mechanik roku, ani spoleènì byste nebyli schopni tuhle zrezivìlou hromadu opravit.}
+{22900}{}{idle}
+{22901}{}{Pohodlná idle.}
+{23000}{}{idle}
+{23001}{}{Tahle idle u vidìla lepší dny.}
+{23100}{}{idle}
+{23101}{}{Tahle idle jen tak tak drí pohromadì. A navíc i páchne!}
+{23200}{}{idle}
+{23201}{}{Tahle idle se rozpadá. Hodnì rychle.}
+{23300}{}{idle}
+{23301}{}{Na tohle by sis moná sednul za pìt set zátek v hotovosti.}
+{23400}{}{idle}
+{23401}{}{Po tìch všech letech tahle idle poøád ještì vypadá pouitelnì.}
+{23500}{}{idle}
+{23501}{}{Stará kanceláøská idle. Moná ještì i udrí váhu èlovìka.}
+{23600}{}{idle}
+{23601}{}{Tahle idle zaila lepší èasy. Teïka to ale je jen kus šmejdu.}
+{23700}{}{idle}
+{23701}{}{Tahle vypadá jako idle, kterou bys mohl vidìt v márnici - mrtvá.}
+{23800}{}{Psací stùl}
+{23900}{}{Psací stùl}
+{24000}{}{Stolek}
+{24100}{}{Stolek}
+{24200}{}{Stolek}
+{24300}{}{Poární hydrant}
+{24301}{}{Tohle je poární hydrant. Bez stropního hasicího systému Vaultu ho moná budeš potøebovat, kdybys chtìl uhasit nìjakı poár.}
+{24400}{}{Lampa}
+{24401}{}{Tahle lampa stále ještì funguje. A vidìt tady nìco, co funguje, je takøka malı zázrak.}
+{24500}{}{Lampa}
+{24501}{}{Tuhle lampu u nikdo nerozsvítí.}
+{24600}{}{Lampa}
+{24601}{}{Tato lampa v noci vyzaøuje jemné tlumené svìtlo, které ti vùbec nic nepøipomíná.}
+{24700}{}{Lampa}
+{24701}{}{Tuhle u nikdo neopraví.}
+{24800}{}{Lampa}
+{24801}{}{Tahle lampa je provozuschopná.}
+{24900}{}{Lampa}
+{24901}{}{Lampa je naprosto rozbitá.}
+{25000}{}{Lampa}
+{25001}{}{Jo, tímhle by se urèitì dalo svítit.}
+{25100}{}{Brána}
+{25101}{}{Zámek na této bránì je zaseklı a závora vypadá velmi robustnì.}
+{25200}{}{Haraburdí}
+{25201}{}{Veteš naprosto k nièemu.}
+{25300}{}{Haraburdí}
+{25301}{}{Veteš naprosto k nièemu.}
+{25400}{}{Haraburdí}
+{25401}{}{Veteš naprosto k nièemu.}
+{25500}{}{Haraburdí}
+{25501}{}{Veteš naprosto k nièemu.}
+{25600}{}{Haraburdí}
+{25601}{}{Veteš naprosto k nièemu.}
+{25700}{}{Poštovní schránka}
+{25701}{}{Schránka je prázdná. Máš takovı pocit, e je taková u nìjakou dobu.}
+{25800}{}{Dveøe}
+{25801}{}{Dovednì vyrobené døevìné dveøe.}
+{25900}{}{Dveøe}
+{25901}{}{Dovednì vyrobené døevìné dveøe.}
+{26000}{}{Dveøe}
+{26001}{}{Dovednì vyrobené døevìné dveøe.}
+{26100}{}{Dveøe}
+{26101}{}{Dovednì vyrobené døevìné dveøe.}
+{26200}{}{Lavice}
+{26201}{}{Tato lavice se pomalu rozpadá.}
+{26300}{}{Lavice}
+{26301}{}{Tato lavice vypadá zanedbanì.}
+{26400}{}{Lavice}
+{26401}{}{Døevìná lavice pomalu podléhá vlivu staøí a špatného zacházení.}
+{26500}{}{Automat na noviny}
+{26501}{}{Automat je prázdnı.}
+{26600}{}{Automat na noviny}
+{26601}{}{Automat je prázdnı.}
+{26700}{}{Automat na noviny}
+{26701}{}{Automat je prázdnı.}
+{26800}{}{Automat na noviny}
+{26801}{}{Automat je prázdnı.}
+{26900}{}{Automat na noviny}
+{26901}{}{Automat je prázdnı.}
+{27000}{}{Automat na noviny}
+{27001}{}{Automat je prázdnı. Vypadá to, e døív v nìm byly èasopisy pro pány..}
+{27100}{}{Haraburdí}
+{27101}{}{Na tomhle, nebo spíše v tomhle, by nespaly ani krysy.}
+{27200}{}{Haraburdí}
+{27201}{}{Tady si by si nic nevybral ani ten nejposlednìjší houmlesák.}
+{27300}{}{Haraburdí}
+{27301}{}{Hromada shnilého døeva. Nestojí ani za svou váhu, no, nestojí za nic.}
+{27400}{}{Haraburdí}
+{27401}{}{Hromada døeva, ze které obèas vykukují ohnuté zrezivìlé høebíky.}
+{27500}{}{Krabice}
+{27501}{}{Kupa starıch kartónovıch krabic. Nemùeš uvìøit, e nìco takového pøeilo tak dlouho.}
+{27600}{}{Krabice}
+{27601}{}{Kupa starıch kartónovıch krabic.}
+{27700}{}{Haraburdí}
+{27701}{}{Nìjaké krámy, které vypadají, e byly v dezolátním stavu u pøed útokem okolního prostøedí.}
+{27800}{}{Kameny}
+{27900}{}{Kameny}
+{28000}{}{Kameny}
+{28100}{}{Su}
+{28101}{}{Spousta zvìtralıch kamenù a balvanù. Dávej si pozor, kam šlapeš!}
+{28200}{}{Umyvadlo}
+{28201}{}{Ji dlouho nefunkèní porcelánové umyvadlo.}
+{28300}{}{Umyvadlo}
+{28301}{}{Rozbité porcelánové umyvadlo. Na dnì se drí trocha nahnìdlé vody, ve které se koupe krysa. U dlouho.}
+{28400}{}{Umyvadlo}
+{28401}{}{Podle velké díry ve spodní èásti jsi velice bystøe odhadl, e tohle umyvadlo je rozbité.}
+{28500}{}{Umyvadlo}
+{28501}{}{Rozbité porcelánové umyvadlo. Na dnì se drí trocha nahnìdlé vody, ve které plave mrtvá krysa.}
+{28600}{}{Znaèka}
+{28601}{}{Èervená znaèka s velkımi písmeny STOP.}
+{28700}{}{Znaèka}
+{28701}{}{Èervená znaèka s velkımi písmeny STOP.}
+{28800}{}{Semafor}
+{28801}{}{Starobylé zaøízení na kontrolu dopravy.}
+{28900}{}{Semafor}
+{28901}{}{Starobylé zaøízení na kontrolu dopravy.}
+{29000}{}{Semafor}
+{29001}{}{Starobylé zaøízení na kontrolu dopravy.}
+{29100}{}{Veøejné osvìtlení}
+{29101}{}{Tyto lampy poskytovaly v noci osvìtlení.}
+{29200}{}{Veøejné osvìtlení}
+{29201}{}{Tyto lampy poskytovaly v noci osvìtlení.}
+{29300}{}{Veøejné osvìtlení}
+{29301}{}{Tyto lampy poskytovaly v noci osvìtlení.}
+{29400}{}{Veøejné osvìtlení}
+{29401}{}{Tyto lampy poskytovaly v noci osvìtlení.}
+{29500}{}{Veøejné osvìtlení}
+{29501}{}{Kdyby nebyli kompletnì znièené, mohly by tyto lampy osvìtlovat temnìjší oblasti.}
+{29600}{}{Veøejné osvìtlení}
+{29601}{}{Kdyby nebyli kompletnì znièené, mohly by tyto lampy osvìtlovat temnìjší oblasti.}
+{29700}{}{Veøejné osvìtlení}
+{29701}{}{Kdyby nebyli kompletnì znièené, mohly by tyto lampy osvìtlovat temnìjší oblasti.}
+{29800}{}{Ukazatel}
+{29801}{}{Tento ukazatel by mohl oznaèovat jméno silnice, ale písmena ji dávno vybledla do neèitelna.}
+{29900}{}{Ukazatel}
+{29901}{}{Tento ukazatel by mohl oznaèovat jméno silnice, ale písmena ji dávno vybledla do neèitelna.}
+{30000}{}{Stùl}
+{30001}{}{Døevenı stùl ve stavu na hranici pouitelnosti.}
+{30100}{}{Stùl}
+{30101}{}{Døevenı stùl ve stavu na hranici pouitelnosti.}
+{30200}{}{Stùl}
+{30201}{}{Stùl v polorozpadlém stavu.}
+{30300}{}{Stùl}
+{30301}{}{Tento stùl je ji nìjakou dobu rozbitı.}
+{30400}{}{Stùl}
+{30401}{}{Døevenı stùl natøenı vyblitì zelenou barvou.}
+{30500}{}{Stùl}
+{30501}{}{Starı nízkı stolek z kavárny.}
+{30600}{}{Stùl}
+{30601}{}{Starı nízkı stolek z kavárny.}
+{30700}{}{Toaleta}
+{30701}{}{Ostré okraje sedátka by ti urèitì dokázaly celou proceduru poøádnì znepøíjemnit.}
+{30800}{}{Toaleta}
+{30801}{}{Záchod je nefunkèní.}
+{30900}{}{Toaleta}
+{30901}{}{Koukni na to! Ten kdo tady byl poslední, nespláchl!}
+{31000}{}{Toaleta}
+{31001}{}{Tahle mísa je naprosto nepouitelná, tedy alespoò pro eny.}
+{31100}{}{Odpadky}
+{31101}{}{Trubky skoro celé zapadlé v blátì. Tady nic zajímavého neuvidíš. Jdi dál}
+{31200}{}{Odpadky}
+{31201}{}{Spousta støepù a jiného humusu.}
+{31300}{}{Odpadky}
+{31301}{}{Spousta støepù a jiného humusu.}
+{31400}{}{Odpadky}
+{31401}{}{Trubka je ulomená v polovinì. Vypadá to, e zrezivìla a zlomila se vlastní vahou.}
+{31500}{}{Koš na odpadky}
+{31501}{}{Odpadkovı koš. Ještì mùeš pøeèíst nápis "Udrujte èistotu"}
+{31600}{}{Strom}
+{31601}{}{Uschlı strom}
+{31700}{}{Strom}
+{31701}{}{Pahıl. Nic zajímavého. Ve skuteènosti je to ta nejménì zajímavá vìc, na jaké kdy spoèinulo tvé oko.}
+{31800}{}{Strom}
+{31801}{}{Uschlı strom.}
+{31900}{}{Strom}
+{32000}{}{Strom}
+{32100}{}{Strom}
+{32200}{}{Náklaïák}
+{32300}{}{Náklaïák}
+{32301}{}{Trosky dieselového náklaïáku. Tato hora eleza se u tìko kdy pohne.}
+{32400}{}{Náklaïák}
+{32401}{}{Èemu není pomoci, tomu není pomoci.}
+{32500}{}{Vana}
+{32501}{}{Takhle vana je rozbitá.}
+{32600}{}{Vana}
+{32601}{}{Po bliším prùzkumu konstatuješ, e tady se asi nevykoupeš.}
+{32700}{}{Záchodek}
+{32701}{}{Jak øíkám, záchodek.}
+{32800}{}{Záchodek}
+{32801}{}{Jak øíkám, záchodek.}
+{32900}{}{Záchodek}
+{32901}{}{Jak øíkám, záchodek. Z toho se vánì neposereš.}
+{33000}{}{Záchodek}
+{33001}{}{Jak øíkám, záchodek. Z toho se vánì neposereš.}
+{33100}{}{Vodní nádr}
+{33101}{}{Velká nádr na tekutiny. V tomhle pøípadì si myslíš, e byla postavena pro vodu.}
+{33200}{}{Dveøe}
+{33201}{}{Úplnì obyèejné dveøe.}
+{33300}{}{Dveøe}
+{33301}{}{Tyto døevìné dveøe pøekvapivì fungují jako vstup a vıstup z budovy.}
+{33400}{}{Lampa}
+{33401}{}{Lampa.}
+{33500}{}{Lampa}
+{33501}{}{Znièená lampa. Není ádnım pøekvapením, e nefunguje.}
+{33600}{}{Lampa}
+{33601}{}{Vypadá to, e tahle lampa je funkèní.}
+{33700}{}{Lampa}
+{33701}{}{Vypadá to, e tahle lampa je funkèní.}
+{33800}{}{Lampa}
+{33801}{}{Vypadá to, e tahle lampa je funkèní.}
+{33900}{}{Lampa}
+{33901}{}{Znièená lampa. Není ádnım pøekvapením, e nefunguje.}
+{34000}{}{Lampa}
+{34001}{}{Vypadá to, e tahle lampa je funkèní.}
+{34100}{}{Lampa}
+{34101}{}{Znièená lampa. Není ádnım pøekvapením, e nefunguje.}
+{34200}{}{Dopravní znaèka}
+{34201}{}{Tohle je znaèka, která se pouívala k regulaci dopravy.}
+{34300}{}{Dopravní znaèka}
+{34301}{}{Tohle je znaèka, která se pouívala k regulaci dopravy.}
+{34400}{}{Block Hex Auto Inviso}
+{34401}{}{Pokud tohle vidíš, pošli stínost technickému návrháøi..}
+{34500}{}{Podlaha}
+{34600}{}{Dveøe}
+{34601}{}{Zdobené døevìné dveøe. Tyhle musel vyrobit opravdu šikovnı øemeslník.}
+{34700}{}{Lavice}
+{34701}{}{Tahle lavice je podepøena velkımi betonovımi cihlami. To sice není vùbec dùleité, ale ty jsi ten, kdo se dívá.}
+{34800}{}{Schodištì}
+{34801}{}{Schodištì vedoucí nahoru.}
+{34900}{}{Schodištì}
+{34901}{}{Schodištì vedoucí nahoru.}
+{35000}{}{Schodištì}
+{35001}{}{Schodištì vedoucí nahoru.}
+{35100}{}{Schodištì}
+{35101}{}{Schodištì vedoucí nahoru.}
+{35200}{}{Schodištì}
+{35201}{}{Schodištì vedoucí nahoru.}
+{35300}{}{Schodištì}
+{35301}{}{Schodištì vedoucí nahoru.}
+{35400}{}{Schodištì}
+{35401}{}{Schodištì vedoucí nahoru.}
+{35500}{}{Schodištì}
+{35501}{}{Schodištì vedoucí nahoru.}
+{35600}{}{Schodištì}
+{35601}{}{Schodištì vedoucí dolù.}
+{35700}{}{Zeï}
+{35701}{}{Díváš se na vnìjšek Katedrály.}
+{35800}{}{Zeï}
+{35801}{}{Díváš se na vnìjšek Katedrály.}
+{35900}{}{Zeï}
+{35901}{}{Díváš se na vnìjšek Katedrály.}
+{36000}{}{Zeï}
+{36001}{}{Díváš se na vnìjšek Katedrály.}
+{36100}{}{Záclony}
+{36101}{}{Sice jsou vyrobené velice primitivním zpùsobem, ale svùj úèel splòují.}
+{36200}{}{Záclony}
+{36201}{}{Sice jsou vyrobené velice primitivním zpùsobem, ale svùj úèel splòují.}
+{36300}{}{Miska}
+{36301}{}{V téhle misce se drtí zrní.}
+{36400}{}{Miska}
+{36401}{}{Obyèejná miska.}
+{36500}{}{Hrnec}
+{36501}{}{Obyèejnı hrnec.}
+{36600}{}{Rostlina}
+{36601}{}{Zdá se ti, e jde o zmutovanou kapustu. Zøejmì jí prospívá teplé poèasí.}
+{36700}{}{Rostlina}
+{36701}{}{Zdá se ti, e jde o zmutovanou kapustu. Zøejmì jí prospívá teplé poèasí.}
+{36800}{}{Vozík}
+{36801}{}{Nepostradatelná pomùcka do kadé zemìdìlské rodiny.}
+{36900}{}{Rostlina}
+{36901}{}{Zmutovanı obilnı klas. Vypadá to, e mu v tìchto podmínkách daøí.}
+{37000}{}{Rostlina}
+{37001}{}{Zmutovanı obilnı klas. Vypadá to, e mu v tìchto podmínkách daøí.}
+{37100}{}{Rostlina}
+{37101}{}{Zmutovanı obilnı klas. Vypadá to, e mu v tìchto podmínkách daøí.}
+{37200}{}{Hrnec}
+{37201}{}{Hlinìnı hrnec.}
+{37300}{}{Hrábì}
+{37301}{}{Tyhle hrábì jsou majetkem svıch vlastníkù. Ani tì pro nì nenapadá vyuití.}
+{37400}{}{Hrábì}
+{37401}{}{Tyhle hrábì jsou majetkem svıch vlastníkù. Ani tì pro nì nenapadá vyuití.}
+{37500}{}{Hrábì}
+{37501}{}{Tyhle hrábì jsou majetkem svıch vlastníkù. Ani tì pro nì nenapadá vyuití.}
+{37600}{}{Pokrıvka}
+{37601}{}{Jednoduchá pokrıvka. Tkadlec byl zøejmì velmi talentovanı.}
+{37700}{}{Pokrıvka}
+{37701}{}{Jednoduchá pokrıvka. Tkadlec byl zøejmì velmi talentovanı.}
+{37800}{}{Pokrıvka}
+{37801}{}{Jednoduchá pokrıvka. Tkadlec byl zøejmì velmi talentovanı.}
+{37900}{}{Rıè}
+{37901}{}{Tento rıè je majetkem svıch vlastníkù. Ani tì pro nìj nenapadá vyuití.}
+{38000}{}{Rıè}
+{38001}{}{Tento rıè je majetkem svıch vlastníkù. Ani tì pro nìj nenapadá vyuití.}
+{38100}{}{Rıè}
+{38101}{}{Tento rıè je majetkem svıch vlastníkù. Ani tì pro nìj nenapadá vyuití.}
+{38200}{}{Váza}
+{38201}{}{Hlinìná váza.}
+{38300}{}{Studna}
+{38301}{}{A se snaíš jak se snaíš, nenapadá tì ádnı zpùsob, jak tuhle studnu pøesunout do Vaultu.}
+{38400}{}{Tyè}
+{38401}{}{Tahle tyè je souèástí konstrukce stanu.}
+{38500}{}{Tyè}
+{38501}{}{Tahle tyè je souèástí konstrukce stanu.}
+{38600}{}{Tyè}
+{38601}{}{Tahle tyè je souèástí konstrukce stanu.}
+{38700}{}{Tyè}
+{38701}{}{Tahle tyè je souèástí konstrukce stanu.}
+{38800}{}{Tyè}
+{38801}{}{Tahle tyè je souèástí konstrukce stanu.}
+{38900}{}{Tyè}
+{38901}{}{Tahle tyè je souèástí konstrukce stanu.}
+{39000}{}{Dveøe do Vaultu}
+{39001}{}{Tyto dveøe jsou dnes u jen velkı kus šrotu.}
+{39100}{}{Zeï}
+{39101}{}{Mechanismus na otevírání tìkıch dveøí je nenávratnì znièen.}
+{39200}{}{Vıztuha}
+{39201}{}{Tahle vıztuha pomáhá vyztuovat obrannou zeï.}
+{39300}{}{Vıztuha}
+{39301}{}{Tahle vıztuha pomáhá vyztuovat obrannou zeï.}
+{39400}{}{Vıztuha}
+{39401}{}{Tahle vıztuha pomáhá vyztuovat obrannou zeï.}
+{39500}{}{Vıztuha}
+{39501}{}{Tahle vıztuha pomáhá vyztuovat obrannou zeï.}
+{39600}{}{Sud}
+{39601}{}{Prázdnı kovovı sud.}
+{39700}{}{Sud}
+{39701}{}{Podle dutého zvuku je tento sud asi prázdnı.}
+{39800}{}{Sudy}
+{39801}{}{Podle dutého zvuku je tyto sudy asi prázdné.}
+{39900}{}{Sudy}
+{39901}{}{Podle dutého zvuku je tyto sudy asi prázdné}
+{40000}{}{Kopule}
+{40001}{}{Našel jsi malı štítek s nápisem: "Majetek Area-51. Prosím vrate."}
+{40100}{}{Bedna}
+{40101}{}{Døevìná bedna.}
+{40200}{}{Bedna}
+{40201}{}{Døevìná bedna.}
+{40300}{}{Bedna}
+{40301}{}{Tahle bedna se zhroutila vlastní vahou.}
+{40400}{}{Stùl}
+{40401}{}{Stùl s poèítaèem.}
+{40500}{}{Stùl}
+{40501}{}{Stùl s poèítaèem.}
+{40600}{}{Dveøe}
+{40601}{}{Døevìné dveøe. Nic víc neèekej, tohle bude prostì jen další struènı popisek.}
+{40700}{}{Zával}
+{40701}{}{Spousta kamení. Mnohem víc, ne by kdy odsud mohlo bıt pøesunuto.}
+{40800}{}{Auto}
+{40801}{}{Tohle zatopené auto u asi nikdo neopraví.}
+{40900}{}{Auto}
+{40901}{}{Auto je sice jen lehce navlhlé, ale to mu na pouitelnosti nijak nepøidá.}
+{41000}{}{Auto}
+{41001}{}{Tohle auto bylo kdysi opravdu špatnì zaparkováno.}
+{41100}{}{Haraburdí}
+{41101}{}{Vidíš zøetelnı rukopis kontaminované moøské vody.}
+{41200}{}{Haraburdí}
+{41201}{}{Tohle smetí u skoro uplavalo pryè.}
+{41300}{}{Haraburdí}
+{41301}{}{Pestrı vıbìr bezcenného haraburdí.}
+{41400}{}{Trubky}
+{41401}{}{Tìmito trubkami se kdysi pumpovalo palivo z podzemních nádrí do garáe.}
+{41500}{}{Trubky}
+{41501}{}{Tìmito trubkami se kdysi pumpovalo palivo z podzemních nádrí do garáe.}
+{41600}{}{Trubky}
+{41601}{}{Tìmito trubkami se kdysi pumpovalo palivo z podzemních nádrí do garáe.}
+{41700}{}{Vıtahová šachta.}
+{41701}{}{Èást vıtahového systému.}
+{41800}{}{Vıtahová šachta.}
+{41801}{}{Šachta konèí nìkde hluboko v zemi. Zdá se ti, e je poškozená.}
+{41900}{}{Vıtah}
+{41901}{}{Vıtah. Pouívá se k tomu, aby se lenoši dostali ho jinıch pater.}
+{42000}{}{Vıtahová šachta.}
+{42001}{}{Šachta konèí nìkde hluboko v zemi. Zdá se ti, e je poškozená.}
+{42100}{}{Dveøe vıtahu}
+{42101}{}{Pokud chceš pouít vıtah, musíš nejdøív otevøít tyto dveøe.}
+{42200}{}{Trubka}
+{42201}{}{Trubka. Další detaily nejsou dùleité.}
+{42300}{}{Špína}
+{42400}{}{Bednièka}
+{42500}{}{Bednièka}
+{42600}{}{Bednièka}
+{42700}{}{Bednièka}
+{42800}{}{Kameny}
+{42801}{}{Nezajímavé kameny.}
+{42900}{}{Kameny}
+{42901}{}{Nezajímavé kameny.}
+{43000}{}{Kameny}
+{43001}{}{Malá hromádka kamení. Ani trošku tì nezajímá.}
+{43100}{}{Kameny}
+{43101}{}{Malá hromádka kamení.}
+{43200}{}{Kameny}
+{43201}{}{Malá hromádka kamení.}
+{43300}{}{Kameny}
+{43301}{}{Malá hromádka kamení.}
+{43400}{}{Kameny}
+{43401}{}{Malá hromádka kamení.}
+{43500}{}{Kameny}
+{43501}{}{Malá hromádka kamení.}
+{43600}{}{Dveøe do Vaultu}
+{43601}{}{Tyto dveøe jsou podobné tìm ve Vaultu 13. Mechanismus dveøí je vypnut.}
+{43700}{}{Dveøe}
+{43701}{}{Døevìné dveøe vyztuené témìø hypnoticky vypadajícími ornamentálními kovovımi svorkami.}
+{43800}{}{Dveøe}
+{43801}{}{Døevìné dveøe vyztuené témìø hypnoticky vypadajícími ornamentálními kovovımi svorkami.}
+{43900}{}{Nádre}
+{43901}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44000}{}{Nádre}
+{44001}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44100}{}{Nádre}
+{44101}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44200}{}{Nádre}
+{44201}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44300}{}{Nádre}
+{44301}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44400}{}{Nádre}
+{44401}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44500}{}{Nádre}
+{44501}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44600}{}{Nádre}
+{44601}{}{Nemùeš to øíci s jistotou, ale na první pohled tyto nádre plné zeleného slizu vypadají dùleitì.}
+{44700}{}{Stìna}
+{44800}{}{Dveøe}
+{44801}{}{Bezpeènostní pancéøované dveøe.}
+{44900}{}{Nukleární hlavice}
+{45000}{}{Studna}
+{45001}{}{A se snaíš jak se snaíš, nenapadá tì ádnı zpùsob, jak tuhle studnu pøesunout do Vaultu.}
+{45100}{}{Herní stùl}
+{45101}{}{Na tomto stole se hrají kostky.}
+{45200}{}{Herní stùl}
+{45201}{}{Na tomto stole se hrají kostky.}
+{45300}{}{Herní stùl}
+{45301}{}{Na tomto stole se hrají kostky.}
+{45400}{}{Herní stùl}
+{45401}{}{Na tomto stole se hrají kostky.}
+{45500}{}{Herní stùl}
+{45501}{}{Na tomto stole se hrají kostky.}
+{45600}{}{Herní stùl}
+{45601}{}{Na tomto stole se hrají kostky.}
+{45700}{}{Herní stùl}
+{45701}{}{Na tomto stole se hrají kostky.}
+{45800}{}{Herní stùl}
+{45801}{}{Na tomto stole se hrají kostky.}
+{45900}{}{Herní stùl}
+{45901}{}{Na tomto stole se hrají kostky.}
+{46000}{}{Herní stùl}
+{46001}{}{Na tomto stole se hrají kostky.}
+{46100}{}{Kámen}
+{46101}{}{Malı kámen, kterı je, v kontextu s velikostí vesmíru a prací na tomto pøekladu, naprosto nezajímavı.}
+{46200}{}{Kámen}
+{46300}{}{Kámen}
+{46400}{}{Kámen}
+{46500}{}{Vıherní automat}
+{46501}{}{Tohle je vıherní automat.}
+{46600}{}{Vıherní automat}
+{46601}{}{Tohle je vıherní automat.}
+{46700}{}{Vchod}
+{46800}{}{Vıtah}
+{46900}{}{Vıtah}
+{47000}{}{Dveøe vıtahu}
+{47100}{}{Okno}
+{47101}{}{V tomto oknì je místo skla jen navoskovanı papír.}
+{47200}{}{Okno}
+{47201}{}{V tomto oknì je místo skla jen navoskovanı papír.}
+{47300}{}{Okno}
+{47301}{}{V tomto oknì je místo skla jen navoskovanı papír.}
+{47400}{}{Okno}
+{47401}{}{V tomto oknì je místo skla jen navoskovanı papír.}
+{47500}{}{Dveøe}
+{47501}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{47600}{}{Dveøe}
+{47601}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{47700}{}{Dveøe}
+{47701}{}{Velké vısuvné dveøe jsou zablokované zevnitø. Èteš POUZE NÁKLAD.}
+{47800}{}{Dveøe}
+{47801}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{47900}{}{Dveøe}
+{47901}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{48000}{}{Dveøe}
+{48001}{}{Velké vısuvné dveøe jsou zablokované zevnitø. Èteš POUZE NÁKLAD.}
+{48100}{}{Dveøe}
+{48101}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{48200}{}{Dveøe}
+{48201}{}{Velké vısuvné dveøe jsou zablokované zevnitø.}
+{48300}{}{Korouhvièka}
+{48301}{}{Tato jednoduchá korouhvièka umoòuje obyvatelùm Shady Sands omezenì pøedvídat poèasí.}
+{48400}{}{Oltáø}
+{48401}{}{Jednoduchı oltáø ze døeva.}
+{48500}{}{Pódium}
+{48501}{}{Všimnul jsi si vyrytého symbolu Dìtí Katedrály.}
+{48600}{}{Oltáø}
+{48700}{}{Monitor}
+{48701}{}{Velkı èernobílı monitor. Pøíjem je hodnì dobrı na to, e je uvnitø a bez antény.}
+{48800}{}{Monitor}
+{48801}{}{Velkı èernobílı monitor. Èlovìk v rouchu vzrušenım tempem recituje náboenská dogmata.}
+{48900}{}{Silové pole}
+{48901}{}{Tohle je energetické silové pole.}
+{49000}{}{Silové pole}
+{49001}{}{Tohle je energetické silové pole.}
+{49100}{}{Silové pole}
+{49101}{}{Tohle je energetické silové pole.}
+{49200}{}{Silové pole}
+{49201}{}{Tohle je energetické silové pole.}
+{49300}{}{Stùl}
+{49301}{}{Døevìnı stùl.}
+{49400}{}{Stùl}
+{49401}{}{Døevìnı stùl.}
+{49500}{}{Stùl}
+{49501}{}{Døevìnı stùl.}
+{49600}{}{Stùl}
+{49601}{}{Døevìnı stùl.}
+{49700}{}{Stùl}
+{49701}{}{Døevìnı stùl.}
+{49800}{}{Stùl}
+{49801}{}{Døevìnı stùl.}
+{49900}{}{Police}
+{50000}{}{Police}
+{50100}{}{Police}
+{50200}{}{Police}
+{50300}{}{Police}
+{50400}{}{Police}
+{50500}{}{Oltáø}
+{50501}{}{Jednoduchı oltáø ze døeva.}
+{50600}{}{Oltáø}
+{50601}{}{Jednoduchı oltáø ze døeva.}
+{50700}{}{Oltáø}
+{50701}{}{Jednoduchı oltáø ze døeva.}
+{50800}{}{Oltáø}
+{50801}{}{Jednoduchı oltáø ze døeva.}
+{50900}{}{Su}
+{50901}{}{Tuhle su má na svìdomí zborcená èást støechy. Tvùj provaz vede zpátky k povrchu.}
+{51000}{}{Knihovna}
+{51100}{}{Knihovna}
+{51200}{}{Knihovna}
+{51300}{}{Knihovna}
+{51400}{}{Knihovna}
+{51500}{}{Knihovna}
+{51600}{}{Stùl}
+{51601}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{51700}{}{Stùl}
+{51701}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{51800}{}{Stùl}
+{51801}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{51900}{}{Stùl}
+{51901}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{52000}{}{Stùl}
+{52001}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{52100}{}{Stùl}
+{52101}{}{Tento velkı stùl vypadá dùleitì. Moná tady poøádají meetingy?}
+{52200}{}{Oltáø}
+{52201}{}{Tento oltáø vyrobilo Bratrstvo Oceli. Poznal jsi to podle jejich nápadného symbolu.}
+{52300}{}{Oltáø}
+{52301}{}{Tento oltáø vyrobilo Bratrstvo Oceli. Poznal jsi to podle jejich nápadného symbolu.}
+{52400}{}{Oltáø}
+{52401}{}{Tento oltáø vyrobilo Bratrstvo Oceli. Poznal jsi to podle jejich nápadného symbolu.}
+{52500}{}{Lavice}
+{52501}{}{Sedìt na této lavici asi nebude moc pohodlné.}
+{52600}{}{Pódium}
+{52601}{}{Døevìné pódium. Pøed mikrofonem je televizní obrazovka.}
+{52700}{}{Povoz}
+{52701}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{52800}{}{Povoz}
+{52801}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{52900}{}{Povoz}
+{52901}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{53000}{}{Povoz}
+{53001}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{53100}{}{Povoz}
+{53101}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{53200}{}{Povoz}
+{53201}{}{Karavanní povoz vyrobenı z vrakù prastarıch automobilù.}
+{53300}{}{ínìnka}
+{53301}{}{Tréninková ínìnka.}
+{53400}{}{ínìnka}
+{53401}{}{Tréninková ínìnka.}
+{53500}{}{ínìnka}
+{53501}{}{Tréninková ínìnka.}
+{53600}{}{ínìnka}
+{53601}{}{Tréninková ínìnka.}
+{53700}{}{Boxovací pytel}
+{53701}{}{Tohle je boxovací pytel znaèky JoudaBulda(tm).}
+{53800}{}{Schodošlap}
+{53801}{}{Tréninkovı pøístroj, oblíbenı kousek z teleshoppingu.}
+{53900}{}{Schodošlap}
+{54000}{}{Úmorsval}
+{54001}{}{Tréninkovı pøístroj.}
+{54100}{}{Úmorsval}
+{54101}{}{Úmorsval.}
+{54200}{}{Lavice na benchpress}
+{54201}{}{Oblíbená posilovací pomùcka.}
+{54300}{}{Lavice na benchpress}
+{54301}{}{Oblíbená posilovací pomùcka.}
+{54400}{}{Mùstek}
+{54401}{}{Spìšnì vybudovanı døevìnı mùstek pøes pøíkop plnı záøícího zeleného slizu.}
+{54500}{}{Mùstek}
+{54501}{}{Spìšnì vybudovanı døevìnı mùstek pøes pøíkop plnı záøícího zeleného slizu.}
+{54600}{}{Stùl s ruletou}
+{54601}{}{Tohle je stùl pro hráèe.}
+{54700}{}{Stùl s ruletou}
+{54701}{}{Tohle je stùl pro hráèe.}
+{54800}{}{Stùl s ruletou}
+{54801}{}{Tohle je stùl pro hráèe.}
+{54900}{}{Stùl s ruletou}
+{54901}{}{Tohle je stùl pro hráèe.}
+{55000}{}{Stùl s ruletou}
+{55001}{}{Tohle je stùl pro hráèe.}
+{55100}{}{Sud}
+{55101}{}{Tento sud má na stranì lutì nakreslenou znaèku radioaktivního materiálu.}
+{55200}{}{Sud}
+{55201}{}{Sud obsahuje podivnou zelenì záøící hmotu. A symbol radioaktivního materiálu ti dává nápovìdu, co by to tak mohlo bıt.}
+{55300}{}{Poèítaè}
+{55301}{}{Moderní poèítaè.}
+{55400}{}{Poèítaè}
+{55401}{}{Moderní poèítaè.}
+{55500}{}{Odkládací nádr}
+{55501}{}{Nìjakı druh lékaøského nebo vızkumného vybavení. Zdá se, e se sem vejde lidské nebo vìtší tìlo.}
+{55600}{}{Rozbitá odkládací nádr}
+{55601}{}{Kus rozbitého vybavení.}
+{55700}{}{Hlavní poèítaè}
+{55701}{}{Velkı superpoèítaè. Pravdìpodobnì nejrychleji vypadající poèítaè, jakı jsi kdy vidìl.}
+{55800}{}{Podpùrná platforma}
+{55801}{}{Tato platforma poskytuje superpoèítaèi chlazení.}
+{55900}{}{Dont use}
+{56000}{}{Dont use}
+{56100}{}{Palanda}
+{56101}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{56200}{}{Palanda}
+{56201}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{56300}{}{Palanda}
+{56301}{}{Tato vojenská palanda vypadá hodnì nepohodlnì. Zdá se ti, e tìmito prostìradly by se dalo odrazit vojsko.}
+{56400}{}{Kabel}
+{56401}{}{Vypadá to jako sériovı kabel.}
+{56500}{}{Kabel}
+{56501}{}{Vypadá to jako sériovı kabel.}
+{56600}{}{Nápis}
+{56601}{}{Nápis BAR je asi víc ne vımluvnı, e?}
+{56700}{}{Trám}
+{56701}{}{Pøes kráter vede silnı trám.}
+{56800}{}{Trám}
+{56801}{}{Našel jsi provaz pevnì upevnìnı k trámu. Po nìm bys urèitì svedl sešplhat na dno kráteru.}
+{56900}{}{Polièky}
+{56901}{}{Vidíš úplnì prázdné kovové regály.}
+{57000}{}{Polièky}
+{57001}{}{Vidíš úplnì prázdné kovové regály.}
+{57100}{}{Polièky}
+{57101}{}{Vidíš úplnì prázdné kovové regály.}
+{57200}{}{Polièky}
+{57201}{}{Vidíš úplnì prázdné kovové regály.}
+{57300}{}{Køoví}
+{57301}{}{Pouštní pLEVEL.}
+{57400}{}{Køoví}
+{57401}{}{Pouštní plevel.}
+{57500}{}{Køoví}
+{57501}{}{Pouštní plevel.}
+{57600}{}{Zemì}
+{57601}{}{Z téhle vıšky je na Pohøebištì pøekrásnı vıhled. Máš opravdu dobrı pocit z toho, jak vysoko máš hlavu v oblacích.}
+{57700}{}{Zemì}
+{57701}{}{Z téhle vıšky je na Pohøebištì pøekrásnı vıhled.}
+{57800}{}{Stìna}
+{57801}{}{Skvìlı pohled na vnìjší stìnu Katedrály.}
+{57900}{}{Stìna}
+{57901}{}{Skvìlı pohled na vnìjší stìnu Katedrály.}
+{58000}{}{Stìna}
+{58001}{}{Skvìlı pohled na vnìjší stìnu Katedrály.}
+{58100}{}{Dveøe}
+{58101}{}{Dveøe sem perfektnì pasují.}
+{58200}{}{Cedule}
+{58201}{}{Na ceduli se píše, e tento obchod patøí Darkwaterovi.}
+{58300}{}{ebøík}
+{58301}{}{ebøík vede nìkam dolù do temnoty.}
+{58400}{}{ebøík}
+{58401}{}{ebøík vede nìkam dolù do temnoty.}
+{58500}{}{Stroje}
+{58501}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{58600}{}{Stroje}
+{58601}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{58700}{}{Stroje}
+{58701}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{58800}{}{Stroje}
+{58801}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{58900}{}{Stroje}
+{58901}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{59000}{}{Stroje}
+{59001}{}{Vypadají jako staré tiskaøské nebo jiné manufakturní mašiny.}
+{59100}{}{Stùl}
+{59101}{}{Kovovı stùl s drákou uprostøed.}
+{59200}{}{Stùl}
+{59201}{}{Kovovı stùl s drákou uprostøed.}
+{59300}{}{Stùl}
+{59301}{}{Kovovı stùl je pokrytı jakousi biohmotou.}
+{59400}{}{Stùl}
+{59401}{}{Kovovı stùl je pokrytı jakousi biohmotou }
+{59500}{}{Stùl}
+{59501}{}{Kovovı stùl je pokrytı jakousi biohmotou }
+{59600}{}{Nástìnka}
+{59601}{}{Na nástìnce je pøipíchnuto mnoství zpráv pro zamìstnance. Vypadá pouívanì.}
+{59700}{}{Strání budka}
+{59701}{}{Tahle strání budka je sice stará pøes sto let, ale stále v perfektním stavu.}
+{59800}{}{Cedule}
+{59801}{}{Na ceduli je napsáno: Skladištì.}
+{59900}{}{Cedule}
+{59901}{}{Na ceduli je napsáno: Skladištì.}
+{60000}{}{Cedule}
+{60001}{}{Na ceduli je napsáno: Trištì.}
+{60100}{}{Sliz}
+{60101}{}{U od pohledu ivotu nebezpeèné. Potopení bys risknul snad jen s obrnìnım skafandrem.}
+{60200}{}{Sliz}
+{60201}{}{U od pohledu ivotu nebezpeèné. Potopení bys risknul snad jen s obrnìnım skafandrem.}
+{60300}{}{Sliz}
+{60301}{}{U od pohledu ivotu nebezpeèné. Potopení bys risknul snad jen s obrnìnım skafandrem.}
+{60400}{}{Stùl}
+{60401}{}{Kovovı stùl.}
+{60500}{}{Stùl}
+{60501}{}{Kovovı stùl.}
+{60600}{}{Stùl}
+{60601}{}{Kovovı stùl.}
+{60700}{}{Stùl}
+{60701}{}{Kovovı stùl.}
+{60800}{}{Stùl}
+{60801}{}{S tímhle stolem bylo velice špatnì zacházeno. Je samá rez.}
+{60900}{}{Stùl}
+{60901}{}{Zrezavìlı kovovı stùl.}
+{61000}{}{Stùl}
+{61001}{}{Zrezavìlı kovovı stùl.}
+{61100}{}{Stùl}
+{61101}{}{Zrezavìlı kovovı stùl.}
+{61200}{}{Ohništì}
+{61201}{}{Oheò hoøí.}
+{61300}{}{Zrcadlo}
+{61301}{}{Chvíli jsi se v zrcadle prohlíel.}
+{61400}{}{Zrcadlo}
+{61401}{}{Chvílí jsi na sebe upøenì zíral.}
+{61500}{}{Umyvadlo}
+{61501}{}{Èisté umyvadlo.}
+{61600}{}{Toaleta}
+{61601}{}{Èistá toaleta. Mimo to je i funkèní.}
+{61700}{}{Záchodek}
+{61701}{}{Tento záchodek je funkèní.}
+{61800}{}{Toaleta}
+{61801}{}{Oblíbenı záchod Ala Bundy.}
+{61900}{}{Umyvadlo}
+{61901}{}{Umyvadlo je v perfektním stavu.}
+{62000}{}{Záchodek}
+{62001}{}{Záchodek je v perfektním stavu.}
+{62100}{}{Sprcha}
+{62101}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62200}{}{Sprcha}
+{62201}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62300}{}{Sprcha}
+{62301}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62400}{}{Sprcha}
+{62401}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62500}{}{Sprcha}
+{62501}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62600}{}{Sprcha}
+{62601}{}{Sprcha vojenského stylu. Nic pro ty, co mají rádi soukromí.}
+{62700}{}{Postel}
+{62701}{}{Vypadá velmi pohodlnì.}
+{62800}{}{Postel}
+{62801}{}{Vypadá velmi pohodlnì.}
+{62900}{}{Postel}
+{62901}{}{Palanda se zesílenou konstrukcí.}
+{63000}{}{Postel}
+{63001}{}{Palanda se zesílenou konstrukcí.}
+{63100}{}{Postel}
+{63101}{}{Palanda se zesílenou konstrukcí.}
+{63200}{}{Terminál}
+{63300}{}{Terminál}
+{63400}{}{Vlajka}
+{63401}{}{Tohle je symbol Dìtí Katedrály.}
+{63500}{}{Vlajka}
+{63501}{}{Tohle je symbol Dìtí Katedrály.}
+{63600}{}{Vlajka}
+{63601}{}{Tohle je symbol Dìtí Katedrály.}
+{63700}{}{Poèítaè}
+{63701}{}{Velkı poèítaè.}
+{63800}{}{Poèítaè}
+{63801}{}{Velkı poèítaè.}
+{63900}{}{Poèítaè}
+{63901}{}{Velkı poèítaè.}
+{64000}{}{Terminál}
+{64001}{}{Terminál k velkému poèítaèi.}
+{64100}{}{Mrtvé tìlo}
+{64101}{}{Tahle osoba rozhodnì nemìla lehkou smrt.}
+{64200}{}{Mrtvé tìlo}
+{64201}{}{Tahle osoba rozhodnì nemìla lehkou smrt.}
+{64300}{}{Mrtvé tìlo}
+{64301}{}{Tahle osoba rozhodnì nemìla lehkou smrt.}
+{64400}{}{Mrtvé tìlo}
+{64401}{}{Tahle osoba rozhodnì nemìla lehkou smrt.}
+{64500}{}{Dveøe}
+{64501}{}{Dveøe do cely.}
+{64600}{}{Terminál}
+{64700}{}{Terminál}
+{64800}{}{Zdvinı vozík}
+{64801}{}{Zjevnì nefunguje.}
+{64900}{}{Zdvinı vozík}
+{64901}{}{Zjevnì nefunguje.}
+{65000}{}{Vybavení}
+{65100}{}{Lékaøskı stùl}
+{65101}{}{Tento stùl je hodnì zrezivìlı. I dráka v prostøedku stolu je zanesená.}
+{65200}{}{Lékaøskı stùl}
+{65201}{}{Tento stùl je hodnì zrezivìlı.}
+{65300}{}{Brána}
+{65301}{}{V bránì je závora, kterou se dá pohybovat.}
+{65400}{}{Trubka}
+{65500}{}{Trubka}
+{65600}{}{Agregát}
+{65601}{}{Wattz ElectroBox agregát. Standardní záloní zdroj energie z doby pøed válkou.}
+{65700}{}{Nádr}
+{65701}{}{Velká nádr na vodu. Vypadá udrovanì.}
+{65800}{}{Stroj èasu} #police box
+{65801}{}{Policejní budka ze Spojeného království, asi rok 1960}
+{65900}{}{Stùl}
+{65901}{}{Ruènì vyrobenı stùl. Líbí se ti víc ne stoly, které jsi vidìl pøedtím.}
+{66000}{}{Stùl}
+{66001}{}{Ruènì vyrobenı stùl. Líbí se ti víc ne stoly, které jsi vidìl pøedtím.}
+{66100}{}{Stùl}
+{66101}{}{Ruènì vyrobenı stùl. Líbí se ti víc ne stoly, které jsi vidìl pøedtím.}
+{66200}{}{idle}
+{66201}{}{Obyèejná idle.}
+{66300}{}{idle}
+{66301}{}{Obyèejná idle.}
+{66400}{}{idle}
+{66401}{}{Obyèejná idle.}
+{66500}{}{idle}
+{66501}{}{Obyèejná idle.}
+{66600}{}{idle}
+{66601}{}{Obyèejná idle.}
+{66700}{}{idle}
+{66701}{}{Obyèejná idle.}
+{66800}{}{idle}
+{66801}{}{Obyèejná idle.}
+{66900}{}{idle}
+{66901}{}{Obyèejná idle.}
+{67000}{}{idle}
+{67001}{}{Obyèejná idle.}
+{67100}{}{idle}
+{67101}{}{Obyèejná idle.}
+{67200}{}{idle}
+{67201}{}{Obyèejná idle.}
+{67300}{}{idle}
+{67301}{}{Obyèejná idle.}
+{67400}{}{idle}
+{67401}{}{Obyèejná idle.}
+{67500}{}{idle}
+{67501}{}{Obyèejná idle.}
+{67600}{}{idle}
+{67601}{}{Obyèejná idle.}
+{67700}{}{idle}
+{67701}{}{Obyèejná idle.}
+{67800}{}{Postel}
+{67801}{}{Nièím vıjimeèná postel.}
+{67900}{}{Postel}
+{67901}{}{Nièím vıjimeèná postel.}
+{68000}{}{Postel}
+{68001}{}{Nièím vıjimeèná postel.}
+{68100}{}{Postel}
+{68101}{}{Nièím vıjimeèná postel.}
+{68200}{}{Kamna}
+{68201}{}{Kamínka na døevo.}
+{68300}{}{Kamna}
+{68301}{}{Kamínka na døevo.}
+{68400}{}{Kamna}
+{68401}{}{Kamínka na døevo.}
+{68500}{}{Kamna}
+{68501}{}{Kamínka na døevo.}
+{68600}{}{Znièená základna}
+{68700}{}{Zasypanı vchod}
+{68800}{}{Balvany}
+{68801}{}{Velkı útvar z kamenù. Tohle nevzniklo pøirozenou cestou.}
+{68900}{}{Balvany}
+{68901}{}{Velkı útvar z kamenù. Tohle nevzniklo pøirozenou cestou.}
+{69000}{}{Toaleta}
+{69001}{}{Primitivní, ale provozuschopná toaleta. V míse je nìkolik listù.}
+{69100}{}{Pohoøí}
+{69101}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69200}{}{Pohoøí}
+{69201}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69300}{}{Pohoøí}
+{69301}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69400}{}{Pohoøí}
+{69401}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69500}{}{Pohoøí}
+{69501}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69600}{}{Pohoøí}
+{69601}{}{Tyto horské svahy vypadají nepøístupnì.}
+{69700}{}{Sliz}
+{69701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{69800}{}{Sliz}
+{69801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{69900}{}{Sliz}
+{69901}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70000}{}{Sliz}
+{70001}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70100}{}{Sliz}
+{70101}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70200}{}{Sliz}
+{70201}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70300}{}{Sliz}
+{70301}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70400}{}{Sliz}
+{70401}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70500}{}{Sliz}
+{70501}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70600}{}{Sliz}
+{70601}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70700}{}{Sliz}
+{70701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70800}{}{Sliz}
+{70801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{70900}{}{Sliz}
+{70901}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71000}{}{Sliz}
+{71001}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71100}{}{Sliz}
+{71101}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71200}{}{Sliz}
+{71201}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71300}{}{Sliz}
+{71301}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71400}{}{Sliz}
+{71401}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71500}{}{Sliz}
+{71501}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71600}{}{Sliz}
+{71601}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71700}{}{Sliz}
+{71701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71800}{}{Sliz}
+{71801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{71900}{}{Sliz}
+{71901}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72000}{}{Sliz}
+{72001}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72100}{}{Sliz}
+{72101}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72200}{}{Sliz}
+{72201}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72300}{}{Sliz}
+{72301}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72400}{}{Sliz}
+{72401}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72500}{}{Sliz}
+{72501}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72600}{}{Sliz}
+{72601}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72700}{}{Sliz}
+{72701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72800}{}{Sliz}
+{72801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{72900}{}{Sliz}
+{72901}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73000}{}{Sliz}
+{73001}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73100}{}{Sliz}
+{73101}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73200}{}{Sliz}
+{73201}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73300}{}{Sliz}
+{73301}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73400}{}{Sliz}
+{73401}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73500}{}{Sliz}
+{73501}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73600}{}{Sliz}
+{73601}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73700}{}{Sliz}
+{73701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73800}{}{Sliz}
+{73801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{73900}{}{Sliz}
+{73901}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74000}{}{Sliz}
+{74001}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74100}{}{Sliz}
+{74101}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74200}{}{Sliz}
+{74201}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74300}{}{Sliz}
+{74301}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74400}{}{Sliz}
+{74401}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74500}{}{Sliz}
+{74501}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74600}{}{Sliz}
+{74601}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74700}{}{Sliz}
+{74701}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74800}{}{Sliz}
+{74801}{}{Vidíš nìjakou podivnou zhoubnou biologickou hmotu.}
+{74900}{}{Poèítaè}
+{74901}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75000}{}{Poèítaè}
+{75001}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75100}{}{Poèítaè}
+{75101}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75200}{}{Poèítaè}
+{75201}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75300}{}{Poèítaè}
+{75301}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75400}{}{Poèítaè}
+{75401}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75500}{}{Poèítaè}
+{75501}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75600}{}{Poèítaè}
+{75601}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75700}{}{Poèítaè}
+{75701}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75800}{}{Poèítaè}
+{75801}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{75900}{}{Poèítaè}
+{75901}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{76000}{}{Poèítaè}
+{76001}{}{Pøístup k tomuto poèítaèi velmi stìuje mnoství podivného slizu.}
+{76100}{}{Monitory}
+{76101}{}{Kvùli podivnému slizu rozteklému pøes obrazovky nemùeš z monitoru nic pøeèíst.}
+{76200}{}{Monitory}
+{76201}{}{Kvùli podivnému slizu rozteklému pøes obrazovky nemùeš z monitoru nic pøeèíst.}
+{76300}{}{Monitory}
+{76301}{}{Kvùli podivnému slizu rozteklému pøes obrazovky nemùeš z monitoru nic pøeèíst.}
+{76400}{}{Monitory}
+{76401}{}{Kvùli podivnému slizu rozteklému pøes obrazovky nemùeš z monitoru nic pøeèíst.}
+{76500}{}{Podlaha}
+{76501}{}{Pøísahal bys, e se tu na podlaze nìco pohybuje.}
+{76600}{}{Podstavec}
+{76601}{}{Zdá se ti, e podstavec pomalu dıchá.}
+{76700}{}{Podlaha}
+{76800}{}{Bomba}
+{76801}{}{Atomová bomba. Vypadá nebezpeènì u jenom tím, e tedy je.}
+{76900}{}{Stojan}
+{76901}{}{Stojan podpírající atomovou bombu.}
+{77000}{}{Poèítaèová konzole}
+{77001}{}{Øídící poèítaè atomové bomby. Vypadá hodnì zabezpeèenì. Je tu také dráka pro podivnì vytvarovanı klíè.}
+{77100}{}{Dráty}
+{77101}{}{Tyhle dráty propojují bombu s poèítaèem.}
+{77200}{}{idle}
+{77201}{}{Na této idli není nic neobvyklého.}
+{77300}{}{idle}
+{77301}{}{Na této idli není nic neobvyklého.}
+{77400}{}{idle}
+{77401}{}{Na této idli není nic neobvyklého.}
+{77500}{}{idle}
+{77501}{}{Na této idli není nic neobvyklého.}
+{77600}{}{idle}
+{77601}{}{Na této idli není nic neobvyklého.}
+{77700}{}{idle}
+{77701}{}{Na této idli není nic neobvyklého.}
+{77800}{}{idle}
+{77801}{}{Na této idli není nic neobvyklého.}
+{77900}{}{idle}
+{77901}{}{Na této idli není nic neobvyklého.}
+{78000}{}{Sloup}
+{78001}{}{Podpùrnı sloup.}
+{78100}{}{Sloup}
+{78101}{}{Podpùrnı sloup.}
+{78200}{}{Sloup}
+{78201}{}{Podpùrnı sloup.}
+{78300}{}{Sloup}
+{78301}{}{Podpùrnı sloup.}
+{78400}{}{Postel}
+{78401}{}{Postel je znaènì rozviklaná.}
+{78500}{}{Postel}
+{78501}{}{Tento kus nábytku je úplnì proranı èervotoèi.}
+{78600}{}{Postel}
+{78601}{}{Postel je v hodnì špatném stavu.}
+{78700}{}{Postel}
+{78701}{}{Postel je pøed rozpadnutím.}
+{78800}{}{Monitory}
+{78801}{}{Tyhle monitory jsou rozbité a nefungují.}
+{78900}{}{Monitory}
+{78901}{}{Tyhle monitory jsou rozbité a nefungují.}
+{79000}{}{Monitory}
+{79001}{}{Tyhle monitory jsou rozbité a nefungují.}
+{79100}{}{Monitory}
+{79101}{}{Tyhle monitory jsou rozbité a nefungují.}
+{79200}{}{Ventilace}
+{79201}{}{Z toho ventilátoru vychází slabı závan èerstvého vzduchu.}
+{79300}{}{Ventilace}
+{79301}{}{Nevychází skoro ádnı èerstvı vzduch.}
+{79400}{}{Ventilace}
+{79401}{}{Z tohoto ventilátoru nevychází ádnı èerstvı vzduch.}
+{79500}{}{Ventilace}
+{79501}{}{Z toho ventilátoru vychází slabı závan èerstvého vzduchu}
+{79600}{}{Stùl}
+{79601}{}{Na tomto stolu není nic neobvyklého, tedy kromì toho, e je témìø znièenı.}
+{79700}{}{Stùl}
+{79701}{}{Tento stùl je znaènì poškozen.}
+{79800}{}{Stùl}
+{79801}{}{Stùl je ve velmi špatném stavu.}
+{79900}{}{Stùl}
+{79901}{}{Nemáš dùvod chtít tento stùl prohledat.}
+{80000}{}{Monitory}
+{80001}{}{Obrazovky jsou dávno znièené.}
+{80100}{}{Monitory}
+{80101}{}{Rozbité obrazovky u asi nikdo neopraví.}
+{80200}{}{Monitor}
+{80201}{}{Obrazovka je puklá a znièená.}
+{80300}{}{Monitor}
+{80301}{}{S rozbitou obrazovkou je tento monitor bezcennı.}
+{80400}{}{Poèítaè}
+{80401}{}{Tento poèítaè je rozbitı.}
+{80500}{}{Poèítaè}
+{80501}{}{Tento poèítaè je rozbitı.}
+{80600}{}{Poèítaè}
+{80601}{}{Tento poèítaè je rozbitı.}
+{80700}{}{idle}
+{80701}{}{Tahle idle je znièená.}
+{80800}{}{idle}
+{80801}{}{Tahle idle je znièená.}
+{80900}{}{idle}
+{80901}{}{Tahle idle je znièená.}
+{81000}{}{idle}
+{81001}{}{Tahle idle je znièená.}
+{81100}{}{Ventilace}
+{81101}{}{Tento ventilátor je poškozen tak, e se u nedá opravit.}
+{81200}{}{Ventilace}
+{81201}{}{Tento ventilátor je hodnì poškozen a u se nedá opravit.}
+{81300}{}{Ventilace}
+{81301}{}{Tento ventilátor nefunguje.}
+{81400}{}{Poèítaè}
+{81401}{}{Poèítaè vypadá, e funguje jen tak tak.}
+{81500}{}{Poèítaè}
+{81501}{}{Poèítaè vypadá, e funguje jen tak tak.}
+{81600}{}{Monitor}
+{81601}{}{Monitor jen tak tak funguje.}
+{81700}{}{Monitor}
+{81701}{}{Monitor jen tak tak funguje.}
+{81800}{}{Poèítaè}
+{81801}{}{Tento poèítaè nefunguje.}
+{81900}{}{Poèítaè}
+{81901}{}{Tento poèítaè nefunguje.}
+{82000}{}{Monitor}
+{82001}{}{Tento monitor nefunguje.}
+{82100}{}{Monitor}
+{82101}{}{Tento monitor nefunguje.}
+{82200}{}{Zádveøí}
+{82201}{}{Velmi vydaøené zádveøí. Tudy se pohybují dveøe sem a tam, a je to hezkı pohle, no øekni.}
+{82300}{}{Monitory}
+{82301}{}{Monitory jsou v dobrém stavu.}
+{82400}{}{Monitory}
+{82401}{}{Monitory jsou v dobrém stavu.}
+{82500}{}{Stìna}
+{82600}{}{Dveøe banky} #bank door
+{82601}{}{Velmi robustní dveøe bankovního trezoru. Vypadají hodnì bezpeènì.}
+{82700}{}{Svìtlo}
+{82701}{}{Poplašné svìtlo.}
+{82800}{}{Svìtlo}
+{82801}{}{Poplašné svìtlo.}
+{82900}{}{Sloup}
+{82901}{}{Tento sloup je ukázkovı kousek námìstíèka Shady Sands. Je jakousi kronikou celé vesnice.}
+{83000}{}{Akumulátorovna}
+{83001}{}{Tohle je napájecí základna robotù. Tady se dobíjí, kdy nemají práci.}
+{83100}{}{Akumulátorovna}
+{83101}{}{Tohle je napájecí základna robotù. Tady se dobíjí, kdy nemají práci.}
+{83200}{}{Akumulátorovna}
+{83201}{}{Tohle je napájecí základna robotù. Tady se dobíjí, kdy nemají práci.}
+{83300}{}{Akumulátorovna}
+{83301}{}{Tohle je napájecí základna robotù. Tady se dobíjí, kdy nemají práci.}
+{83400}{}{Akumulátorovna} #Robot Receptacle
+{83401}{}{Tohle je napájecí základna robotù. Tady se dobíjí, kdy nemají práci.}
+{83500}{}{Stroj}
+{83501}{}{Tento stroj má nìco spoleèného s robotí servisní základnou. Nevypadá moc zajímavì.}
+{83600}{}{Stroj}
+{83601}{}{Tento stroj má nìco spoleèného s robotí servisní základnou. Nevypadá moc zajímavì.}
+{83700}{}{Barevnı prouek}
+{83800}{}{Barevnı prouek}
+{83900}{}{Barevnı prouek}
+{84000}{}{Barevnı prouek}
+{84100}{}{Barevnı prouek}
+{84200}{}{Barevnı prouek}
+{84300}{}{Barevnı prouek}
+{84400}{}{Barevnı prouek}
+{84500}{}{Barevnı prouek}
+{84600}{}{Barevnı prouek}
+{84700}{}{Barevnı prouek}
+{84800}{}{Dveøe}
+{84801}{}{Normální døevìné dveøe.}
+{84900}{}{Dveøe}
+{84901}{}{Normální døevìné dveøe.}
+{85000}{}{Dveøe}
+{85001}{}{Normální døevìné dveøe.}
+{85100}{}{Cedule}
+{85101}{}{Poutaè banky Friendly Lending Company.}
+{85200}{}{Symbol}
+{85201}{}{Tento symbol pouívají Následníci Apokalypsy.}
+{85300}{}{Lékaøskı stùl}
+{85301}{}{Tohle vypadá jako pitevní stùl.}
+{85400}{}{Cedule}
+{85401}{}{Maltese Falcon}
+{85401}{}{Neonovı poutaè hotelu Maltese Falcon.}
+{85500}{}{Grafitti}
+{85600}{}{Grafitti}
+{85700}{}{Grafitti}
+{85800}{}{Grafitti}
+{85900}{}{Grafitti}
+{86000}{}{Grafitti}
+{86100}{}{Grafitti}
+{86200}{}{Grafitti}
+{86300}{}{Grafitti}
+{86400}{}{Grafitti}
+{86500}{}{Grafiti}
+{86600}{}{Grafitti}
+{86700}{}{Grafitti}
+{86800}{}{Grafitti}
+{86900}{}{Cedule}
+{86901}{}{Na ceduli je napsáno: ZBRANÌ. Asi tu budou prodávat zbranì.}
+{87000}{}{Cedule}
+{87001}{}{Na ceduli je napsáno: Policie.}
+{87100}{}{Cedule}
+{87101}{}{Tohle je znaèka spolku Far Go Traders.}
+{87200}{}{Cedule}
+{87201}{}{Cedule je nazvaná: Gunrunneøi.}
+{87300}{}{Cedule}
+{87301}{}{Tohle je znaèka obchodní spoleènosti Crimson Caravan.}
+{87400}{}{Cedule}
+{87401}{}{Na znaèce èteš: Nemocnice. To se mùe hodit.}
+{87500}{}{Cedule}
+{87501}{}{Tohle je znaèka hotelu Crash House.}
+{87600}{}{Cedule}
+{87601}{}{Na této velmi neobvyklé znaèce je napsáno: Bobùv Obchod s ojetinama.}
+{87700}{}{Cedule}
+{87701}{}{Poutaè Kupcù s vodou, obchodní spoleènosti z Hubu.}
+{87800}{}{Skoøápka}
+{87801}{}{Kousky rozbité skoøápky.}
+{87900}{}{Skoøápka}
+{87901}{}{Kousky rozbité skoøápky.}
+{88000}{}{Skoøápka}
+{88001}{}{Kousky rozbité skoøápky.}
+{88100}{}{Skoøápka}
+{88101}{}{Kousky rozbité skoøápky.}
+{88200}{}{Skoøápka}
+{88201}{}{Kousky rozbité skoøápky.}
+{88300}{}{Skoøápka}
+{88301}{}{Kousky rozbité skoøápky.}
+{88400}{}{Skoøápka}
+{88401}{}{Kousky rozbité skoøápky.}
+{88500}{}{Skoøápka}
+{88501}{}{Kousky rozbité skoøápky.}
+{88600}{}{Lampa}
+{88601}{}{Lampa. Zdá se, e ještì funguje.}
+{88700}{}{Cedule}
+{88701}{}{Na ceduli je napsáno: Motel.}
+{88800}{}{Houby}
+{88801}{}{Tento stolovı záhon je naplnìn hnojem, na kterém ampióny velmi dobøe rostou.}
+{88900}{}{Houby}
+{88901}{}{Tento stolovı záhon je naplnìn hnojem, na kterém ampióny velmi dobøe rostou.}
+{89000}{}{Kostra}
+{89100}{}{Cedule}
+{89101}{}{Na ceduli je napsáno: Vìzení.}
+{89200}{}{Cedule}
+{89201}{}{Tohle je znaèka Skum Pitt baru.}
+{89300}{}{Poutaè}
+{89301}{}{Reklama na Blades-cech ostrıch zbraní.}
+{89400}{}{Sprcha}
+{89401}{}{Normální sprchovı kout.}
+{89500}{}{Sprcha}
+{89501}{}{Normální sprchovı kout.}
+{89600}{}{Cedule}
+{89601}{}{Poutaè banky Friendly Lending Company.}
+{89700}{}{Cedule}
+{89701}{}{Poutaè banky Friendly Lending Company.}
+{89800}{}{Plakát}
+{89801}{}{Plakát jednoho hororového filmu z doby pøed Válkou.}
+{89900}{}{Plakát}
+{89901}{}{Plakát jednoho hororového filmu z doby pøed Válkou.}
+{90000}{}{Bar}
+{90001}{}{Na baru stojí urna. Sice vypadá trochu otluèenì, ale mùe mít cenu.}
+{90100}{}{Vıtahová šachta}
+{90101}{}{Ze shora šachty visí dlouhı provaz.}
+{90200}{}{Vıtahová šachta}
+{90201}{}{Ze shora šachty visí dlouhı provaz.}
+{90300}{}{Lékaøské lùko}
+{90301}{}{Lùko má zabudované displaye pro monitorování stavu pacientù.}
+{90400}{}{Vodní pumpa}
+{90401}{}{Èást stroje pumpujícího vodu nahoru.}
+{90500}{}{Lékaøské lùko}
+{90501}{}{Lùko má zabudované displaye pro monitorování stavu pacientù.}
+{90600}{}{Èásti Energozbroje}
+{90601}{}{Tohle jsou souèásti Energozbroje.}
+{90700}{}{Svìtlo}
+{90701}{}{Poplašné svìtlo poplachu rudì pulzuje.}
+{90800}{}{Svìtlo}
+{90801}{}{Poplašné svìtlo rudì pulzuje.}

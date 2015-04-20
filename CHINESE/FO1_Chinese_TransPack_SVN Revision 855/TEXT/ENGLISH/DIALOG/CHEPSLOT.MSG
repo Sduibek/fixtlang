@@ -1,0 +1,20 @@
+
+#{100}{}{This is a poorly repaired slot machine. It costs $10 to play.}
+#{101}{}{You drop $10 in the slot machine and pull the handle.}
+#{102}{}{DING! DING! DING!}
+#{103}{}{You get three grenades. Excellent! $}
+#{104}{}{ drops into the tray and you snatch it up.}
+#{105}{}{Ding! Ding! Ding!}
+#{106}{}{You get three bullets. Winner! $15 drops into the tray and you snatch it up.}
+#{107}{}{Ahh shucks! You lose.}
+#{108}{}{You don't have enough money to play.}
+
+{100}{}{这是一台年久失修的老虎机。最低赌注10元。}
+{101}{}{你投入了10元，并拉下手柄。}
+{102}{}{叮！叮！叮！}
+{103}{}{出了三个榴弹，太棒了！}
+{104}{}{元掉了出来，你收了起来。}
+{105}{}{叮！叮！叮！}
+{106}{}{出了三个子弹。你赢了！15元掉了出来，你赶紧全揣了起来。}
+{107}{}{我靠！输了。}
+{108}{}{你的钱不够玩一次。}

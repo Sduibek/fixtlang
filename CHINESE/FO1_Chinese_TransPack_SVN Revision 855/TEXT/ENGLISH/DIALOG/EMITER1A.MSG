@@ -1,0 +1,17 @@
+
+#{100}{}{You do not see a control panel on this emitter. Perhaps there is another
+# way to lower this force field.}
+#{101}{}{You temporarily disable the force field with the damage to the emitter.}
+#{102}{}{You completely destroy the force field emitter and the force field dissapates.}
+#{103}{}{You temporarily disable the force field emitter.}
+#{104}{}{You fail to do anything with the force field emitter.}
+#{105}{}{You enable the force field emitter.}
+
+{100}{}{你没在这个发射器上看到控制板。或许有另一个消除力场的方法。}
+{101}{}{你损坏了发射器使力场临时关闭。}
+{102}{}{你彻底摧毁了力场发射器使力场完全消失。}
+{103}{}{你临时关闭了力场发射器。}
+{104}{}{你没能对力场发射器做任何事。}
+{105}{}{你使力场发射器正常工作。}
+
+

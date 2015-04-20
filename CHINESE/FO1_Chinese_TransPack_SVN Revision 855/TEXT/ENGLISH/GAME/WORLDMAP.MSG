@@ -1,0 +1,175 @@
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+#
+# Text labels and messages used by town and world map
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+#
+
+#
+# Town map selection names
+#
+# Format:
+#	city type.
+#	Up to 10 selection names
+#
+# Vault 13
+# {200}{}{Cavern Entrance}
+# {201}{}{Entrance}
+# {202}{}{Living Quarters}
+# {203}{}{Command Center}
+
+#Vault 15
+# {210}{}{Desert Entrance}
+# {211}{}{Caverns/Entrance}
+# {212}{}{Living Quarters}
+# {213}{}{Command Center}
+
+#Shady Sands
+# {220}{}{Entrance}
+# {221}{}{Garden}
+# {222}{}{Brahmin Pen}
+
+#Junktown
+# {230}{}{Entrance}
+# {231}{}{Crash House}
+# {232}{}{Casino}
+
+#Raiders
+# {240}{}{Base}
+
+#Necropolis
+# {250}{}{Hotel}
+# {251}{}{Hall}
+# {252}{}{Watershed}
+
+#Hub
+# {260}{}{Entrance}
+# {261}{}{Downtown}
+# {262}{}{Heights}
+# {263}{}{Old Town}
+# {264}{}{Merchants}
+# {265}{}{Cave}
+
+#Brotherhood
+# {270}{}{Entrance}
+# {271}{}{Level 1}
+# {272}{}{Level 2}
+# {273}{}{Level 3}
+# {274}{}{Level 4}
+
+#Military Base
+# {280}{}{Entrance}
+# {281}{}{Stronghold Level 1}
+# {282}{}{Stronghold Level 2}
+# {283}{}{Vats Level 1}
+# {284}{}{Vats Level 2}
+
+#Glow
+# {290}{}{Crater}
+# {291}{}{Level 1}
+
+#Boneyard
+# {300}{}{Adytum}
+# {301}{}{Downtown}
+# {302}{}{Library}
+# {303}{}{Fortress}
+# {304}{}{Warehouse}
+
+#Cathedral
+# {310}{}{Entrance}
+# {311}{}{Interior}
+
+#Misc messages
+# {500}{}{You gained 10,000 experience points!}
+# {501}{}{Ruins}
+
+
+#Terrain type names for world map hover button
+
+# {1000}{}{Desert}
+# {1001}{}{Mountains}
+# {1002}{}{City}
+# {1003}{}{Coast}
+# {1004}{}{Unknown}  # Unknown/visited city
+
+#
+# Vault 13
+{200}{}{山洞通道}
+{201}{}{掩体入口}
+{202}{}{生活区}
+{203}{}{指挥中心}
+#
+# Vault 15
+{210}{}{地面入口}
+{211}{}{掩体入口}
+{212}{}{生活区}
+{213}{}{指挥中心}
+#
+# Shady Sands
+{220}{}{居民区}
+{221}{}{种植园}
+{222}{}{养殖场}
+#
+# Junktown
+{230}{}{入口}
+{231}{}{破屋区}
+{232}{}{吉斯莫赌场}
+#
+# Raiders
+{240}{}{营地}
+#
+# Necropolis
+{250}{}{旅馆区}
+{251}{}{监狱区}
+{252}{}{供水区}
+#
+# Hub
+{260}{}{城门}
+{261}{}{中心区}
+{262}{}{高地区}
+{263}{}{旧城区}
+{264}{}{商业区}
+{265}{}{贼窝}
+#
+# Brotherhood
+{270}{}{入口}
+{271}{}{第一层}
+{272}{}{第二层}
+{273}{}{第三层}
+{274}{}{第四层}
+#
+# Military Base
+{280}{}{入口}
+{281}{}{第一区}
+{282}{}{第二区}
+{283}{}{第三区}
+{284}{}{第四区}
+#
+# Glow
+{290}{}{坑口}
+{291}{}{第一层}
+#
+# Boneyard
+{300}{}{内城区}
+{301}{}{商业区}
+{302}{}{图书馆}
+{303}{}{军火商}
+{304}{}{仓库区}
+#
+# Cathedral
+{310}{}{入口}
+{311}{}{大教堂第一层}
+
+# Misc messages
+{500}{}{你得到10000点经验值！}
+{501}{}{遗迹}
+
+#
+# Terrain type names for world map hover button（世界地图上随机出现的地方）
+#
+{1000}{}{荒凉的沙漠}
+{1001}{}{悬崖}
+{1002}{}{城镇}
+{1003}{}{海边}
+{1004}{}{未知的地区}  # Unknown/visited city

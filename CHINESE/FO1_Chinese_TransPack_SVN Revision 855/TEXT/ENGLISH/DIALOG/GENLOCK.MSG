@@ -1,0 +1,13 @@
+
+# {100}{}{The container appears locked.}
+# {101}{}{You deftly pick the lock.}
+# {102}{}{This lock is beyond your ability to pick.}
+# {103}{}{You fail to pick the lock.}
+# {104}{}{The locker is already unlocked.}
+# {105}{}{You break your picks in the lock.}
+{100}{}{这个容器是锁着的。}
+{101}{}{你顺利的解开了锁。}
+{102}{}{你还没有能力解除这把锁。}
+{103}{}{你解锁失败了。}
+{104}{}{这个锁柜已经打开了。}
+{105}{}{你把开锁工具弄断了。}

@@ -1,0 +1,21 @@
+
+#{100}{}{You see a highly advanced Brotherhood computer.}
+{100}{}{你看见一台非常先进的兄弟会电脑。}
+#{101}{}{You are denied access to this terminal.}
+{101}{}{你被禁止登入这台终端机。}
+#{102}{}{The lesson finishes in six hours. You feel exhausted.}
+{102}{}{这个课程花了六个小时。你感觉自己累得要命。}
+#{103}{}{You've already absorbed as much as you can.}
+{103}{}{你已经学了你所能够学的所有东西。}
+#{200}{}{You see a computer. You see some pieces that might be human flesh.}
+{200}{}{你看见一台电脑。上面有一些碎片，可能是人肉。}
+#{201}{}{You fiddle with the computer for a moment, but cannot get past the security system.}
+{201}{}{你徒劳地操作了一会儿电脑，没能通过安全系统。}
+#{202}{}{This computer is functioning perfectly.}
+{202}{}{这台电脑良好地运行着。}
+#{203}{}{You find an interesting data file on a secret base to the north-west.}
+{203}{}{你找到关于一个西北方秘密基地的重要资料。}
+#{204}{}{You gain }
+{204}{}{你侵入了这台电脑，你得到}
+#{205}{}{ experience points for hacking into this computer.}
+{205}{}{点经验值。}

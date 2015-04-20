@@ -1,0 +1,17 @@
+
+#{100}{}{You see a dog. He seems to be following you.}
+{100}{}{你看见一条狗，它看起来在跟着你。}
+#{101}{}{You see a dog.}
+{101}{}{你看见一条狗。}
+#{102}{}{Woof!}
+{102}{}{汪汪！}
+#{103}{}{Grrr!}
+{103}{}{唬！}
+#{104}{}{It seems that you have made a friend of this dog.}
+{104}{}{似乎这条狗成了你的朋友。}
+#{105}{}{You earn 550 experience points for befriending the dog.}
+{105}{}{你因为与这条狗交上朋友得到了550点经验值。}
+#{106}{}{You earn 335 experience points for defeating the dog and letting Phil back into his house.}
+{106}{}{你因为击败了这条狗并让费尔回到屋里得到了335点经验值。}
+#{107}{}{You earn 35 experience points for killing the dog.}
+{107}{}{你因为杀死了这条狗得到35点经验值。}

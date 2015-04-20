@@ -1,0 +1,11 @@
+
+# {100}{}{This computer purifies the water for the Vault.}
+# {101}{}{The water computer is useless without the water purification control chip which is unrepairable. You will need a replacement.}
+# {102}{}{You fiddle with the computer, but don't really find out anything else about it.}
+# {103}{}{There are lots of blinking lights on this thing.}
+# {104}{}{With the replacement chip, the computer seems to be functioning well.}
+{100}{}{这台计算机控制着避难所的净水系统。}
+{101}{}{没有净水芯片这台计算机也没有什么用处，而且坏的净水芯片是修不好的，你需要找到一个新的净水芯片来替换。}
+{102}{}{你胡乱鼓捣这台计算机，但是什么有用的信息也没找到。}
+{103}{}{这东西上有很多闪烁的灯。}
+{104}{}{替换了净水芯片后，计算机看起来运行的很好。}

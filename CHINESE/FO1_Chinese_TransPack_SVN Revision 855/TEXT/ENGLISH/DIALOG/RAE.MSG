@@ -1,0 +1,175 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Rae.}
+#{101}{}{You see a super mutant.}
+#{102}{}{You don't belong here.}
+#{103}{}{(seems confused and sad) I believe I do, but.. why are you here?}
+#{104}{}{Neither do you.}
+#{105}{}{Uh.. yes I do. The master is having me scout around in disguise
+# to check our security.}
+#{106}{}{Yes I do, I'm here to kill you.}
+#{107}{}{Okay, I'm leaving.}
+#{108}{}{huh.}
+#{109}{}{(sigh) What do you want now?}
+#{110}{}{I'm lost.. can you show me how to get to the master? I need to kill
+# him.}
+#{111}{}{Nothing. Goodbye.}
+#{112}{}{To see what you look like with all your skin ripped off your body,
+# you mutant scum.}
+#{113}{}{What's wrong with you?}
+#{114}{}{great oogly moogly.}
+#{115}{}{I'm here to... contemplate the oneness of the master.}
+#{116}{}{Of course. The unity brings peace. May I ask where you are from?}
+#{117}{}{I am as well. I made the pilgrimage from far away to see the master
+# with my own eyes.}
+#{118}{}{I have much to learn. How does one gain an audience with the master?}
+#{119}{}{I did that yesterday. Today I'm contemplating what the master would
+# look like if I lit him on fire and roasted marshmallows over his putrid
+# carcass.}
+#{120}{}{I think the master is insane.}
+#{121}{}{I'm from... somewhere ..else.}
+#{122}{}{What a coincidence! So am I.}
+#{123}{}{Where?}
+#{124}{}{I'm from a vault... I'm a pure strain human.}
+#{125}{}{What, are you an imbecile?}
+#{126}{}{Where are you from?}
+#{127}{}{(whispers) I'm from a vault... I'm a pure strain human.}
+#{128}{}{I'd rather not say. Goodbye.}
+#{129}{}{A small village to the north of here.}
+#{130}{}{Why should I tell you? You're just a lackey for the 'Man'.}
+#{131}{}{Why would you tell me that? I should take you before the master...}
+#{132}{}{But you won't}
+#{133}{}{You're welcome to try.}
+#{134}{}{Well, I should shove my gun down your throat and pull the trigger!}
+#{135}{}{Please don't.}
+#{136}{}{I know why you're in so much pain.}
+#{137}{}{I'll be going now.}
+#{138}{}{You're right... if only I could clear my head. There's something...}
+#{139}{}{I know why you can't clear your head.}
+#{140}{}{The master keeps you from thinking clearly. Thinking disturbs the
+# unity.}
+#{141}{}{The master is the reason you are in such pain.}
+#{142}{}{Hey, I've got an idea - let's cut open the master and see what's
+# inside!!!}
+#{143}{}{Tell me! Please!!}
+#{144}{}{You used to be human, too. The master dipped you in the FEV virus and
+# mutated you.}
+#{145}{}{Sorry, I can't.}
+#{146}{}{Only the master can tell you everything.}
+#{147}{}{Only the master can tell you everything. But you'd better talk to him
+# quick, 'cause I'm on my way to kill him.}
+#{148}{}{Sorry, got to go.}
+#{149}{}{I should kill you for taunting me!}
+#{150}{}{I have a better idea - help me destroy the master for doing this to
+# you.}
+#{151}{}{No, you should kill the master for doing this to you. I'm on my way
+# to do just that... would you like to join me?}
+#{152}{}{Why? I'm not the one who turned you into a mutant!}
+#{153}{}{You're welcome to try.}
+#{154}{}{No thanks. Bye!}
+#{155}{}{Let's twist his head until his eyes pop out.}
+#{156}{}{You will never kill the master. He cannot die.}
+#{157}{}{You're right. I'd better get out of here.}
+#{158}{}{We'll see about that.}
+#{159}{}{Hmmm. I wonder how he'll continue to live when his unity is destroyed...}
+#{160}{}{That can't be.. the master.. protects... unifies...}
+#{161}{}{Well, you're a living example of 'unification', my friend. I know,
+# I've seen the process. I'm here to stop the master from 'unifying' anyone
+# else.}
+#{162}{}{How does it feel to be protected and unified?}
+#{163}{}{Yeah, he protects himself by controlling everyone else.}
+#{164}{}{I've had enough of this. Goodbye.}
+#{165}{}{Leave now or I will be forced to deal with you.}
+#{166}{}{AAAUGH!!! (Grabs his head in pain and confusion) I.. can't...}
+#{167}{}{That's right, your friend the master stripped you of everything
+# you had in this world, including your humanity.}
+#{168}{}{You know that it's true... that's why you're so confused. You're
+# fighting the mutation. Help me avenge you by destroying the master!}
+#{169}{}{Sure you can. C'mon, let's kill the master, it will be fun.}  
+#{170}{}{I'd better leave.}
+#{171}{}{I'm sorry you're in such pain, but it's the master's fault.}
+#{172}{}{I will pull his eye out!! I'll tear his slimy little head from
+# its cables!!!! You, ...get out of here... I'll take care of the master.}
+#{173}{}{Great!!}
+#{174}{}{Thanks for the offer, but I'd like to do the job myself. Would
+# you like to help?}
+#{175}{}{I'm going to stay here. I have some unfinished business.}
+
+
+{100}{}{你看到雷。}
+{101}{}{你看到一个超级变种人。}
+{102}{}{你不属于这地方。}
+{103}{}{【看上去迷茫而悲伤】我不这样想，可……你为什么在这？}
+{104}{}{你也一样。}
+{105}{}{啊……我是这儿的。主教让我装扮成这样的，为了检视我们的保安状况。}
+{106}{}{我是这儿的，来这儿杀你的。}
+{107}{}{好的，我这就走。}
+{108}{}{哈。}
+{109}{}{【叹气】又怎么了？}
+{110}{}{我迷路了……能告诉我怎样接近主教吗？我得去杀他。}
+{111}{}{没事，再见。}
+{112}{}{来看看你的皮被扒掉了是个什么模样，你这个变种杂碎。}
+{113}{}{你哪不对劲吗？}
+{114}{}{很好，呜呜唔唔。}
+{115}{}{我是来……我是来主教商量点事情的。}
+{116}{}{当然。“同一”才有和平。能告诉我你从哪来吗？}
+{117}{}{哦，我啊。我走了相当长的一段路程就是想来亲眼见一见主教。}
+{118}{}{要学的太多了。怎么才能从主教那里赢得人心啊？}
+{119}{}{我昨天这么干过。今天我是要来在主教身上点把火，还要在他恶心的尸体上烤点蘑菇，双头牛睾丸之类的，那会是怎样一副盛景啊！}
+{120}{}{我觉得主教是疯了。}
+{121}{}{我是从那个地方来的……就那个。}
+{122}{}{太巧了，我也是！}
+{123}{}{哪？}
+{124}{}{我从避难所来……是血统纯正的人类。}
+{125}{}{什么？你是傻子吗？}
+{126}{}{你从哪来？}
+{127}{}{【小声地说】我从避难所来……是血统纯正的人类。}
+{128}{}{我不想说。再见。}
+{129}{}{北面的一个小村子。}
+{130}{}{干嘛告诉你。你只是那个“人”的跟班而已。}
+{131}{}{跟我说那个干嘛？我应该在主教之前就……}
+{132}{}{但你不会。}
+{133}{}{那就试试啊。}
+{134}{}{啊，我该把枪插进你喉咙然后扣动扳机！}
+{135}{}{请别那么做。}
+{136}{}{我知道你为什么这么痛苦。}
+{137}{}{现在我要走了。}
+{138}{}{你说的对……只要我能理清思绪。有什么事情……}
+{139}{}{你知道为什么你不能正常思考。}
+{140}{}{是主教阻止你思考的。思想会妨碍团结统一。}
+{141}{}{主教是你痛苦的根源。}
+{142}{}{嘿，我有主意了－不如把主教切开看看里面到底是什么玩意儿。}
+{143}{}{告诉我！拜托！！}
+{144}{}{以前你也是人类。是主教把你扔进FEV病毒池里使你突变的。}
+{145}{}{抱歉，我不能。}
+{146}{}{只有主教能告诉你一切。}
+{147}{}{只有主教能告诉你一切。但你最好快点找他谈，我可要去杀他了。}
+{148}{}{抱歉，我得走了。}
+{149}{}{你瞧不起我，我该杀了你。}
+{150}{}{我有个主意－杀了主教，看他对你做了什么啊。}
+{151}{}{不，你该杀主教，看他对你做了什么啊。我正要这么干呢，想跟我一起吗？}
+{152}{}{为什么？又不是我把你变成这样的。}
+{153}{}{你可以试试啊。}
+{154}{}{不了。回见。}
+{155}{}{咱们去把他的头拧烂，让他的眼珠子爆出来。}
+{156}{}{你杀不了主教。他不会死的。}
+{157}{}{说的对。我得离开这。}
+{158}{}{咱们走着瞧吧。}
+{159}{}{恩。当他的教派被毁了之后，看他还能不能活下去……}
+{160}{}{那不可能……主教保卫我们……团结我们……}
+{161}{}{哈，朋友，你就是那“同一”活生生的例子。我知道是怎么回事。我就是来阻止主教“同一”其他人的。}
+{162}{}{被神保卫，团结一致，是什么感觉？}
+{163}{}{啊，对啊，他通过控制所有人来保护他自己。}
+{164}{}{够了！再见！}
+{165}{}{马上离开，不然我就必须解决你了。}
+{166}{}{啊啊啊啊！【他抱着头，痛苦迷茫的】我……不能……}
+{167}{}{这就对了，主教剥夺了你在这世界上所有的一切，包括你做人类的权利。}
+{168}{}{你知道这是真的……这就是你迷惑的原因。你在跟变异抗争。帮我摧毁主教吧，这也是替你自己报仇。}
+{169}{}{你当然能。来吧，咱们去杀了主教，肯定很有趣的。}  
+{170}{}{我最好走了。}
+{171}{}{看到你这么痛苦我很抱歉，但这是主教干的好事。}
+{172}{}{我要把他的眼挖出来。我要把他粘乎乎的头从那些电线里扯出来！！！你……最好离开这里……我会料理主教的。}　
+{173}{}{很好！！}
+{174}{}{谢谢你这么说，但我想自己做这事。想帮忙吗？}
+{175}{}{我要留下。我还有点事没干完。}

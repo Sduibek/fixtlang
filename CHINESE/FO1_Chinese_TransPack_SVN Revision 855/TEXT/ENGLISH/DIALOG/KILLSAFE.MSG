@@ -1,0 +1,15 @@
+
+# {100}{}{You see: Safe.}
+# {101}{}{The safe is not locked.}
+# {103}{}{Got it!}
+# {104}{}{Drat! Almost had it.}
+# {105}{}{The safe is locked.}
+# {106}{}{You gain 500 experience points for cracking Killian's personal safe.}
+# {107}{}{You tweak the tumblers and manage to jam the lock with a pick. Just great.}
+{100}{}{你看到：保险柜。}
+{101}{}{这个保险柜没有上锁。}
+{103}{}{搞定！}
+{104}{}{该死！差点就成功了。}
+{105}{}{这个保险柜是锁着的。}
+{106}{}{你打开了基利安的保险柜，得到500点经验值。}
+{107}{}{你用工具转动锁芯，但是把锁眼给堵住了，好嘛，你干的好事。}

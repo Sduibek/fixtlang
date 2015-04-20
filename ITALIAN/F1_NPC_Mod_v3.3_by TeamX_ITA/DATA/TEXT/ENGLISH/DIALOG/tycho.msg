@@ -1,0 +1,235 @@
+{100}{}{Vedi un uomo che indossa un'armatura di cuoio molto polverosa e un impermeabile. Al collo porta una maschera a gas.}
+{101}{}{Vedi Tycho.}
+{102}{}{Un'altra faccia nuova. Di viaggiatori qua ne passano a frotte. Ma tu hai l'aria di essere diverso dagli altri. Che ne dici di unirti a me per una bevuta?}
+{103}{}{Mi dispiace, ma sono un po' di fretta.}
+{104}{}{Certo.}
+{105}{}{Duh-wah?}
+{106}{}{Splendido. Spero che non ti dispiaccia bere un drink annacquato - qui trattano la birra come fosse un vaso di fiori.}
+{107}{}{Dimmi, qual e' la tua storia?}
+{108}{}{Ah, evidentemente ti sei gia' servito da solo. Lasciamo perdere, allora.}
+{109}{}{Potrei chiederti la stessa cosa. Ma per non sembrare scortese, comincero' prima io. Mi chiamano Tycho. Vengo dal lontano est, da quello che una volta si chiamava Nevada.}
+{110}{}{E' un viaggio piuttosto lungo.}
+{111}{}{Come hai fatto a sopravvivere alle insidie delle lande?}
+{112}{}{Puoi scommetterci. Adesso ho deciso di concedermi un po' di riposo. Questo posto sembra promettente, basta che qualcuno si decida a liberarlo da un po' della feccia che lo infesta.}
+{113}{}{Perche' non lo fai tu?}
+{114}{}{Gia', ho notato. Cosa sai di quei tipi?}
+{115}{}{Conosco qualche trucchetto niente male e ho delle buone armi. Mio nonno era un ranger, ai tempi, e ha insegnato a mio padre tutto cio' che sapeva. Poi papa' l'ha insegnato a me. Per farla breve, ne so abbastanza da non bere l'acqua fosforescente.}
+{116}{}{Interessante. Grazie per la bevuta.}
+{117}{}{Davvero? Non e' facile sopravvivere, di questi tempi. Devi saperla lunga.}
+{118}{}{Non e' compito mio. Poi preferisco non interferire con Killian. Dara' una ripulita a questa citta' non appena ne avra' l'occasione. E' un brav'uomo, credimi. Piuttosto, sta' attento a quel tizio, Gizmo. Mi ricorda quel ciccione bastardo di cui mi parlava mio padre quando ero ancora a Las Vegas.}
+{119}{}{Grazie per la dritta e per la bevuta.}
+{120}{}{Qui ci sono due tipi di feccia. Ci sono gli Skulz, una banda che bazzica vicino alla Crash House di Marcelles. Sono soltanto un gruppo di teppisti di serie B. Poi ci sono gli altri, quelli che eseguono gli ordini di un ciccione bastardo. Il suo nome? Si fa presto ad indovinarlo: e' il padrone del casino'. Quei tipi sono organizzati e pericolosi.}
+{121}{}{Capisco. Grazie per le informazioni.}
+{122}{}{Si', beh, la mia famiglia mi ha insegnato tutto quello che c'e' da sapere sulla sopravvivenza. Non bere acqua totalmente priva di insetti o muschio, per esempio. In una zona selvatica, solo l'acqua avvelenata o radioattiva puo' essere cosi' pulita. E poi un sacco di altre cosette cui stare attenti.}
+{123}{}{Tipo?}
+{124}{}{Beh, se hai un po' di tempo, posso scendere nei dettagli.}
+{125}{}{Certo, sarebbe magnifico.}
+{126}{}{Mi dispiace, ma sono un po' di fretta.}
+{127}{}{Whoa, non cosi' in fretta. Non abbiamo ancora finito le presentazioni, ricordi? Come ti chiami, straniero?}
+{128}{}{}
+{129}{}{.}
+{130}{}{Non sono affari tuoi, testa bacata.}
+{131}{}{E' un piacere. Fa' attenzione, amico.} //Step carefully, friend
+{132}{}{Beh, beh, non c'e' bisogno di essere sgarbati. Ma con quel carattere che ti ritrovi, faresti meglio ad andare da qualche altra parte.}
+{133}{}{Al diavolo.}
+{134}{}{Vabbe'. Ci si vede.}
+{135}{}{Che cosa vuoi?}
+{136}{}{Mi dispiace disturbarti... va' a cazzeggiare da qualche altra parte.} //Sorry to disturb your private time. Go wank somewhere else
+{137}{}{Ho bisogno di informazioni sui delinquenti che vivono qui.}
+{138}{}{Ho bisogno di informazioni sulla citta'.}
+{139}{}{Ci si rivede, eh? Come posso aiutarti?}
+{140}{}{Killian mi ha chiesto di ripulire questa citta' e mi piacerebbe averti al mio fianco.}
+{141}{}{Beh, questo e' lo Skum Pitt, un covo di feccia, malvagita', eccetera, eccetera. Subito ad ovest c'e' il Gizmo's, un grosso casino'. Si dice che i giochi siano truccati. Poco a sud di qui c'e' la Crash House di Marcelles, dove puoi passare una notte a caro prezzo. Poco piu' in la' c'e' l'emporio di Killian. Killian e' il proprietario del negozio e si impegna a far rispettare la legge in questa citta' - un brav'uomo. Ancora piu' a sud c'e' lo "studio" di Doc Morbid; i suoi interventi sono "bizzarri", se capisci cosa intendo.}
+{142}{}{Spero che il mio piccolo corso d'addestramento ti possa servire.}
+{143}{}{}
+{144}{}{Si dice in giro che hai avuto a che fare con Gizmo. Se fossi in te, io starei alla larga da quel barile di lardo.}
+{145}{}{I miei affari non ti riguardano.}
+{146}{}{Gia', adesso lavoro per Gizmo. C'e' qualche problema?}
+{147}{}{Nessun problema. Ma guardati le spalle. Gizmo non e' certo famoso per essere un capo affidabile nei confronti dei suoi dipendenti.}
+{148}{}{Ti basti sapere che il tuo capo ha portato gia' abbastanza miseria e violenza, in questa citta'. Non aspettarti che qualcuno ti dia una mano, men che meno Gizmo. E' un vero peccato. Speravo che avresti potuto cambiarla in meglio, questa citta'.}
+{149}{}{Cosa posso fare per te?}
+{150}{}{Qualche consiglio?}
+{151}{}{Grazie dell'aiuto. Penso sia giunto il momento di salutarci.}
+{152}{}{Si', io me ne starei bene alla larga da qualunque cosa abbia fatto una cosa del genere. Davvero, credo di non aver mai visto qualcosa di simile. Credo che la decisione migliore sia quella di andarcene... e in fretta.}
+{153}{}{Molto bene. Devo pero' dire che e' stato un onore e un piacere.}
+{154}{}{Facciamo attenzione ai punti di maggiore radioattivita'. Questo posto ha evidentemente subito un attacco nucleare diretto e i livelli di radiazioni secondarie saranno probabilmente elevati. Io consiglierei di evitare del tutto questo posto, se possibile.}
+{155}{}{Nota la mancanza di fauna nella zona. E i mucchi di ossa. Qualunque cosa viva qui, dev'essere una vera bestia. Tieni pronta la tua arma.}
+{156}{}{Un'installazione militare come questa deve avere una stanza di controllo, da qualche parte.}
+{157}{}{Credo che, lavorandoci un po' sopra, potremmo superare quei generatori di campo di forza. Oppure potremmo cercare il computer che li controlla tutti.}
+{158}{}{Ci sono un sacco di strane storie su Necropolis, la citta' dei morti. Sta' in guardia, perche' le cose potrebbero mettersi male da un momento all'altro.}
+{159}{}{Vorrei cambiare formazione.}
+{160}{}{A quale distanza vuoi che mi metta?}
+{161}{}{Stammi vicino.}
+{162}{}{Tieniti a media distanza.}
+{163}{}{Mantieni una distanza elevata.}
+{164}{}{Quali sono le armi che maneggi meglio?}
+{165}{}{Beh, l'addestramento da ranger si dimostra molto utile: all'occorrenza posso usare persino una lancia. Me la cavo bene anche con le pistole e i fucili.}
+{166}{}{Uh, lasciamo perdere.}
+
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
+
+{167}{}{Beh, se vuoi che l'iguana venga ben cotta...} //Yeah, if you like your lizard well-done
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{168}{}{Beh, direi che e' ora. Ti seguo, amico mio: andiamo a ripulire le strade. E, se posso, consiglierei di dare una bella lezione a Gizmo.}
+{169}{}{Beh, direi che e' ora. Ti seguo, amica mia: andiamo a ripulire le strade. E, se posso, consiglierei di dare una bella lezione a Gizmo.}
+
+{170}{}{Si'?}
+{171}{}{Credo che dovremmo rimanere uniti.}
+{172}{}{Niente. Come non detto.}
+{173}{}{Guadagni 300 punti esperienza per aver reclutato Tycho, il ranger del deserto.}
+
+#
+# Tycho tell-me-abouts
+#
+
+{1000}{}{Junktown}
+{1001}{}{Ranger}
+{1002}{}{Chip}
+{1003}{}{Guerra}
+{1004}{}{Lande}
+{1005}{}{Discepoli}
+{1006}{}{Cattedrale}
+{1007}{}{Garl}
+{1008}{}{Master}
+{1009}{}{Unita'}
+{1010}{}{Set}
+{1011}{}{Acquedotto}
+{1012}{}{Necropolis}
+{1013}{}{Sala}
+{1014}{}{Biblioteca}
+{1015}{}{Supervisore}
+{1016}{}{Medico}
+{1017}{}{Cura}
+{1018}{}{Vault}
+{1019}{}{Vault-13}
+{1020}{}{Vault13}
+{1021}{}{Killian}
+{1022}{}{Gizmo}
+{1023}{}{Boneyard}
+{1024}{}{Shady}
+{1025}{}{Sands}
+{1026}{}{Hub}
+{1027}{}{Casino'}
+{1028}{}{Negozio}
+{1029}{}{Deathclaw}
+{1030}{}{Esodo}
+{1031}{}{Iniziati}
+{1032}{}{Paladini}
+{1033}{}{Scribes}
+{1034}{}{Figli}
+{1036}{}{Confraternita}
+{1037}{}{Vasche}
+{1038}{}{Militare}
+{1039}{}{Base}
+{1041}{}{Apocalisse}
+{1042}{}{Mutanti}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Liquore}
+{1052}{}{Droghe}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Regolatori}
+{1058}{}{Scav}
+{1059}{}{Blade}
+{1060}{}{Nicole}
+{1061}{}{Tenente}
+{1062}{}{Psichici}
+{1063}{}{Esperimenti}
+{1064}{}{Polizia}
+{1065}{}{Mercanti}
+
+{1100}{}{Beh, Junktown non e' molto ospitale, ma e' un posto interessante. Ha del potenziale, anche se non sono sicuro che basarsi sul rifiuto del passato sia il modo migliore di costruire il futuro.}
+{1101}{}{Noi ranger proveniamo da est, da quello che un tempo si chiamava Nevada. Le nostre origini risalgono all'epoca dei Texas Ranger. Impariamo l'arte della sopravvivenza e del combattimento per poter poi andare in giro per il mondo con la possibilita' di sopravvivere e di migliorare le cose.}
+{1102}{}{E' da secoli che non vedo una reliquia della passata tecnologia. Se vuoi la mia opinione, la cosa migliore e' cercare di essere dipendenti solo da se stessi, piuttosto che fare affidamento su un qualche aggeggio tecnologico che non si puo' riparare.}
+{1103}{}{La Guerra fu il trionfo dell'avidita' e della pazzia del genere umano. Speriamo che quello che abbiamo imparato sia sufficiente perche' una simile follia non si ripeta.}
+{1104}{}{Le lande sono ostili e pericolose, anche per i viaggiatori piu' cauti. Le radiazioni e le strane creature che le abitano possono punire con la morte anche il minimo errore. Viaggia con la massima cautela e ricorda di porgere la massima attenzione su tutto cio' che senti e vedi: anche il dettaglio piu' insignificante potrebbe salvarti la vita.}
+{1105}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1106}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1107}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1108}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1109}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1110}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1111}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1112}{}{La Citta' dei Morti e' un nome piu' che azzeccato. Si trova dove un tempo c'era la cittadina di Bakersfield. Ora, pero', ospita i ghoul... e creature ben peggiori.}
+{1113}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1114}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1115}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1116}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1117}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1118}{}{Ho sentito parlare dei grandi Vault sotterranei. Purtroppo non ne so molto.}
+{1119}{}{Ho sentito parlare dei grandi Vault sotterranei. Purtroppo non ne so molto.}
+{1120}{}{Ho sentito parlare dei grandi Vault sotterranei. Purtroppo non ne so molto.}
+{1121}{}{Killian e' un brav'uomo che fa un lavoro difficile.}
+{1122}{}{Gizmo e'... beh, il modo piu' gentile per definirlo e' "biscazziere da quattro soldi". Avra' cio' che si merita, prima o poi.}
+{1123}{}{Il Boneyard? Mi hanno detto che e' un posto dominato dalle bande, dove la vita e' dura. E' vicino alla costa.}
+{1124}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1125}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1126}{}{L'Hub e' un'enorme comunita' di mercanti che sorge poco a sud di Junktown.}
+{1127}{}{Il casino' di Gizmo e' probabilmente uno degli ultimi posti dove vorrei andare, a meno che non si tratti di andare a tirare il collo a Gizmo. Anche se non credo che le mie mani riuscirebbero a passare in mezzo a tutti quei doppi menti.}
+{1128}{}{Killian ha un emporio a Junktown.}
+{1129}{}{Ho sentito delle storie riguardo ad una creatura piu' forte, piu' grande e piu' crudele di quanto piu' forte, piu' grande e piu' crudele ci sia al mondo. Ma queste storie sono in pochi a raccontarle... cio' significa che non lascia molti superstiti. Artigli enormi, carattere feroce.}
+{1130}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1131}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1132}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1133}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1134}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1136}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1137}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1138}{}{So che l'esercito aveva diverse basi segrete situate un po' ovunque. Ma non saprei dire dove.}
+{1139}{}{So che l'esercito aveva diverse basi segrete situate un po' ovunque. Ma non saprei dire dove.}
+{1141}{}{L'apocalisse nucleare fu la diretta conseguenza della superbia e della follia del genere umano. E ora ne stiamo pagando il prezzo.}
+{1142}{}{Di sicuro ci sono molte cose strane, qua fuori. Ho visto scorpioni e mucche mutanti e ho sentito che Necropolis e' la citta' dei ghoul, i quali sembrano umani, ma in realta' sono molto diversi.}
+{1143}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1144}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1145}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1146}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1147}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1148}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1149}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1150}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1151}{}{Preferisco una bella birra, o magari una Nuka-Cola.}
+{1152}{}{Se fossi in te, io starei lontano da quella roba. Certo, ti danno una bella scarica di energia, ma alla fine c'e' sempre un conto salato da pagare.}
+{1153}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1154}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1155}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1156}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1157}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1158}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1159}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1160}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1161}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1162}{}{Parli dei telepatici? Heh... francamente, non me la danno a bere.}
+{1163}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1164}{}{Mi dispiace, ma non saprei proprio aiutarti.}
+{1165}{}{Alcuni dei mercanti dell'Hub visitano regolarmente Junktown e altre citta'.}
+
+{1999}{}{Mi sento piu' potente adesso!}
+{2000}{}{Discutiamo delle nostre tattiche di combattimento.}
+{2001}{}{Si?}
+{2010}{}{Impugna la tua arma migliore.}
+{2011}{}{Cambia la tua armatura.}                       # changed by WG
+{2012}{}{Preferisco il combattimento a distanza.}
+{2013}{}{Preferisco il combattimento ravvicinato.}
+{2014}{}{Scegli la distanza che preferisci.}
+{2015}{}{E' tutto per adesso.}
+{2100}{}{Va bene.}

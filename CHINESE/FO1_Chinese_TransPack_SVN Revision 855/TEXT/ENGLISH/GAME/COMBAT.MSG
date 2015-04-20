@@ -1,0 +1,1330 @@
+#
+# This is all of the combat messages used by combat.c
+# Note: all %d values will be filled with a number greater than 1
+#
+# Truly Generic strings (no need for gender/number issues)
+#
+#{100}{}{You need %d action points.}
+#{101}{}{Out of ammo.}
+#{102}{}{Target out of range.}
+#{103}{}{Combat cannot end with nearby hostile creatures.}
+#{104}{}{Your aim is blocked.}
+#{105}{}{You cannot use weapons with both arms crippled.}
+#{106}{}{You cannot use two-handed weapons with a crippled arm.}
+#{107}{}{You are not strong enough to use this weapon properly.}
+#{108}{}{ and }
+{100}{}{你需要%d个行动点数。}
+{101}{}{没有弹药了。}
+{102}{}{目标不在范围内。}
+{103}{}{战斗无法中断，因为仍有敌人存在。}
+{104}{}{你被遮住了，无法瞄准。}
+{105}{}{你的双手都受伤了，无法使用武器。}
+{106}{}{你的一只手受伤了，无法使用需要双手操作的武器。}
+{107}{}{你不够强壮，不能够熟练使用这一样武器。}
+{108}{}{并且}
+#
+# Combat Flag Strings (all of these happen to you, the player)
+#
+#{200}{}{knocked out}
+{200}{}{你被打晕了}
+#{201}{}{knocked down}
+{201}{}{你被打倒了}
+#{202}{}{crippled left leg}
+{202}{}{伤了你的左腿}
+#{203}{}{crippled right leg}
+{203}{}{伤了你的右腿}
+#{204}{}{crippled left arm}
+{204}{}{伤了你的左臂}
+#{205}{}{crippled right arm}
+{205}{}{伤了你的右臂}
+#{206}{}{blinded}
+{206}{}{你被打瞎了}
+#{207}{}{killed}
+{207}{}{你一命呜呼了}
+#{208}{}{hit}
+{208}{}{被打中了}
+#{209}{}{critical}
+{209}{}{你处境危险了}
+#{210}{}{on fire}
+{210}{}{你着火了}
+#{211}{}{had its armor bypassed}
+{211}{}{穿透了你的装甲}
+#{212}{}{weapon exploded}
+{212}{}{你的武器爆炸了}
+#{213}{}{weapon destroyed}
+{213}{}{你的武器毁坏了}
+#{214}{}{weapon dropped}
+{214}{}{你的武器掉了}
+#{215}{}{lost next turn}
+{215}{}{你失去了下一回合的攻击机会}
+#{216}{}{hit self}
+{216}{}{你打到了自己}
+#{217}{}{lost rest of ammo}
+{217}{}{你掉了所有的弹药}
+#{218}{}{fired a dud shot}
+{218}{}{你射了一发哑弹}
+#{219}{}{hurt self}
+{219}{}{你打伤了自已}
+#{220}{}{hit randomly}
+{220}{}{你随便乱打一顿}
+#{221}{}{crippled a random limb}
+{221}{}{你伤了自己的一个肢体}
+#{222}{}{peppered with fragments}
+{222}{}{你被打的五马分尸}
+#
+# Combat Flag Strings (all of these happen to a male)
+#
+#{300}{}{knocked out}
+#{301}{}{knocked down}
+#{302}{}{crippled his left leg}
+#{303}{}{crippled his right leg}
+#{304}{}{crippled his left arm}
+#{305}{}{crippled his right arm}
+#{306}{}{blinded}
+#{307}{}{was killed}
+#{308}{}{hit}
+#{309}{}{critical}
+#{310}{}{on fire}
+#{311}{}{had his armor bypassed}
+#{312}{}{his weapon exploded}
+#{313}{}{his weapon destroyed}
+#{314}{}{his weapon dropped}
+#{315}{}{lost his next turn}
+#{316}{}{hit himself}
+#{317}{}{lost the rest of his ammo}
+#{318}{}{fired a dud shot}
+#{319}{}{hurt himself}
+#{320}{}{hit randomly}
+#{321}{}{crippled a random limb}
+#{322}{}{peppered with fragments}
+{300}{}{他被打晕了}
+{301}{}{他被打倒了}
+{302}{}{伤了他的左腿}
+{303}{}{伤了他的右腿}
+{304}{}{伤了他的左臂}
+{305}{}{伤了他的右臂}
+{306}{}{他被打瞎了}
+{307}{}{他一命呜呼了}
+{308}{}{被打中了}
+{309}{}{他处境危险了}
+{310}{}{他著火了}
+{311}{}{穿破了他的装甲}
+{312}{}{他的武器爆炸了}
+{313}{}{他的武器毁坏了}
+{314}{}{他的武器掉了}
+{315}{}{他失去了下一回合的攻击机会}
+{316}{}{他打到了自己}
+{317}{}{他掉了所有的弹药}
+{318}{}{他射了一发哑弹}
+{319}{}{他打伤了自已}
+{320}{}{他随便乱打一顿}
+{321}{}{他伤了自己的一个肢体}
+{322}{}{他被打的五马分尸}
+#
+# Combat Flag Strings (all of these happen to a female)
+#
+#{400}{}{knocked out}
+#{401}{}{knocked down}
+#{402}{}{crippled her left leg}
+#{403}{}{crippled her right leg}
+#{404}{}{crippled her left arm}
+#{405}{}{crippled her right arm}
+#{406}{}{blinded}
+#{407}{}{was killed}
+#{408}{}{hit}
+#{409}{}{critical}
+#{410}{}{on fire}
+#{411}{}{had her armor bypassed}
+#{412}{}{her weapon exploded}
+#{413}{}{her weapon destroyed}
+#{414}{}{her weapon dropped}
+#{415}{}{lost her next turn}
+#{416}{}{hit herself}
+#{417}{}{lost the rest of her ammo}
+#{418}{}{fired a dud shot}
+#{419}{}{hurt herself}
+#{420}{}{hit randomly}
+#{421}{}{crippled a random limb}
+#{422}{}{peppered with fragments}
+{400}{}{她被打晕了}
+{401}{}{她被打倒了}
+{402}{}{伤了她的左腿}
+{403}{}{伤了她的右腿}
+{404}{}{伤了她的左臂}
+{405}{}{伤了她的右臂}
+{406}{}{她被打瞎了}
+{407}{}{她一命呜呼了}
+{408}{}{被打中了}
+{409}{}{她处境危险了}
+{410}{}{她著火了}
+{411}{}{穿破了她的装甲}
+{412}{}{她的武器爆炸了}
+{413}{}{她的武器毁坏了}
+{414}{}{她的武器掉了}
+{415}{}{她失去了下一回合的攻击机会}
+{416}{}{她打到了自己}
+{417}{}{她掉了所有的弹药}
+{418}{}{她射了一发哑弹}
+{419}{}{她打伤了自已}
+{420}{}{她随便乱打一顿}
+{421}{}{她伤了自己的一个肢体}
+{422}{}{她被打的五马分尸}
+#
+# Miscellaneous combat messages (all of these happen to you, the player)
+# Note: the first %s will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person singular,
+#          which is "You" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second %s is the name of another creature
+#{506}{}{You}
+#{509}{}{Oops! %s were hit instead of %s!}
+#{511}{}{%s were critically hit in %s for %d hit points}
+#{512}{}{%s were hit in %s for %d hit points}
+#{513}{}{%s were hit for %d hit points}
+#{514}{}{%s critically missed}
+#{515}{}{%s missed}
+#{520}{}{%s were critically hit for %d hit points}
+#{521}{}{%s were critically hit in %s for 1 hit point}
+#{522}{}{%s were hit in %s for 1 hit point}
+#{523}{}{%s were hit for 1 hit point}
+#{524}{}{%s were critically hit for 1 hit point}
+#{525}{}{%s were critically hit in %s for no damage}
+#{526}{}{%s were hit in %s for no damage}
+#{527}{}{%s were hit for no damage}
+#{528}{}{%s were critically hit for no damage}
+#{533}{}{%s critically missed and took 1 hit point}
+#{534}{}{%s critically missed and took %d hit points}
+{506}{}{你}
+{509}{}{啊！%s被打到了，虽然你原本是要打%s！}
+{511}{}{%s的%s被打中了，失去了%d点生命值}
+{512}{}{%s的%s被打中了，失去了%d点生命值}
+{513}{}{%s被打中了，失去了%d点生命值}
+{514}{}{%s没有打中}
+{515}{}{%s没打中}
+{520}{}{%s被打中了，失去了%d点生命值}
+{521}{}{%s的%s被打中了，失去了1点生命值}
+{522}{}{%s的%s被打中了，失去了1点生命值}
+{523}{}{%s被打中了，失去了1点生命值}
+{524}{}{%s被打中了，失去了1点生命值}
+{525}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{526}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{527}{}{%s被打中了，但是没有失去任何的生命值}
+{528}{}{%s被打中了，但是没有失去任何的生命值}
+{533}{}{%s没有打中，但是失去了1点生命值}
+{534}{}{%s没有打中，但是失去了%d点生命值}
+#
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first %s is the name of the male creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second %s is the name of another creature
+#
+#{608}{}{Oops! %s was hit instead of you!}
+#{609}{}{Oops! %s was hit instead of %s!}
+#{611}{}{%s was critically hit in %s for %d hit points}
+#{612}{}{%s was hit in %s for %d hit points}
+#{613}{}{%s was hit for %d hit points}
+#{614}{}{%s critically missed}
+#{615}{}{%s missed}
+#{620}{}{%s was critically hit for %d hit points}
+#{621}{}{%s was critically hit in %s for 1 hit point}
+#{622}{}{%s was hit in %s for 1 hit point}
+#{623}{}{%s was hit for 1 hit point}
+#{624}{}{%s was critically hit for 1 hit point}
+#{625}{}{%s was critically hit in %s for no damage}
+#{626}{}{%s was hit in %s for no damage}
+#{627}{}{%s was hit for no damage}
+#{628}{}{%s was critically hit for no damage}
+#{633}{}{%s critically missed and took 1 hit point}
+#{634}{}{%s critically missed and took %d hit points}
+{608}{}{啊！%s被打到了，虽然他原本是要打你！}
+{609}{}{啊！%s被打到了，虽然他原本是要打%s！}
+{611}{}{%s的%s被打中了，失去了%d点生命值}
+{612}{}{%s的%s被打中了，失去了%d点生命值}
+{613}{}{%s被打中了，失去了%d点生命值}
+{614}{}{%s没有打中}
+{615}{}{%s没打中}
+{620}{}{%s被打中了，失去了%d点生命值}
+{621}{}{%s的%s被打中了，失去了1点生命值}
+{622}{}{%s的%s被打中了，失去了1点生命值}
+{623}{}{%s被打中了，失去了1点生命值}
+{624}{}{%s被打中了，失去了1点生命值}
+{625}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{626}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{627}{}{%s被打中了，但是没有失去任何的生命值}
+{628}{}{%s被打中了，但是没有失去任何的生命值}
+{633}{}{%s没有打中，但是失去了1点生命值}
+{634}{}{%s没有打中，但是失去了%d点生命值}
+#
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first %s is the name of the female creature
+#       the second %s (if there is one) is the hit location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second %s is the name of another creature
+#
+#{708}{}{Oops! %s was hit instead of you!}
+#{709}{}{Oops! %s was hit instead of %s!}
+#{711}{}{%s was critically hit in %s for %d hit points}
+#{712}{}{%s was hit in %s for %d hit points}
+#{713}{}{%s was hit for %d hit points}
+#{714}{}{%s critically missed}
+#{715}{}{%s missed}
+#{720}{}{%s was critically hit for %d hit points}
+#{721}{}{%s was critically hit in %s for 1 hit point}
+#{722}{}{%s was hit in %s for 1 hit point}
+#{723}{}{%s was hit for 1 hit point}
+#{724}{}{%s was critically hit for 1 hit point}
+#{725}{}{%s was critically hit in %s for no damage}
+#{726}{}{%s was hit in %s for no damage}
+#{727}{}{%s was hit for no damage}
+#{728}{}{%s was critically hit for no damage}
+#{733}{}{%s critically missed and took 1 hit point}
+#{734}{}{%s critically missed and took %d hit points}
+{708}{}{啊！%s被打到了，虽然他原本是要打你！}
+{709}{}{啊！%s被打到了，虽然他原本是要打%s！}
+{711}{}{%s的%s被打中了，失去了%d点生命值}
+{712}{}{%s的%s被打中了，失去了%d点生命值}
+{713}{}{%s被打中了，失去了%d点生命值}
+{714}{}{%s没有打中}
+{715}{}{%s没打中}
+{720}{}{%s被打中了，失去了%d点生命值}
+{721}{}{%s的%s被打中了，失去了1点生命值}
+{722}{}{%s的%s被打中了，失去了1点生命值}
+{723}{}{%s被打中了，失去了1点生命值}
+{724}{}{%s被打中了，失去了1点生命值}
+{725}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{726}{}{%s的%s被打中了，但是没有失去任何的生命值}
+{727}{}{%s被打中了，但是没有失去任何的生命值}
+{728}{}{%s被打中了，但是没有失去任何的生命值}
+{733}{}{%s没有打中，但是失去了1点生命值}
+{734}{}{%s没有打中，但是失去了%d点生命值}
+#
+# Hit Locations (by art_num alias)
+#
+# regular humans
+#
+#{1110}{}{the head}
+#{1111}{}{the left arm}
+#{1112}{}{the right arm}
+#{1113}{}{the torso}
+#{1114}{}{the right leg}
+#{1115}{}{the left leg}
+#{1116}{}{the eyes}
+#{1117}{}{the groin}
+#{1118}{}{uncalled}
+{1110}{}{头}
+{1111}{}{左臂}
+{1112}{}{右臂}
+{1113}{}{身体}
+{1114}{}{右腿}
+{1115}{}{左腿}
+{1116}{}{眼睛}
+{1117}{}{跨下}
+{1118}{}{某处}
+#
+# Brahmin (Mutant 2-Headed Cows)
+#
+#{1150}{}{the head}
+#{1151}{}{the left hindleg}
+#{1152}{}{the right hindleg}
+#{1153}{}{the torso}
+#{1154}{}{the right foreleg}
+#{1155}{}{the left foreleg}
+#{1156}{}{the eyes}
+#{1157}{}{the udder}
+#{1158}{}{uncalled}
+{1150}{}{头}
+{1151}{}{左后腿}
+{1152}{}{右后腿}
+{1153}{}{身体}
+{1154}{}{右前腿}
+{1155}{}{左前腿}
+{1156}{}{眼睛}
+{1157}{}{下部}
+{1158}{}{某处}
+#
+# dogs
+#
+#{1160}{}{the head}
+#{1161}{}{the hindleg}
+#{1162}{}{the hindleg}
+#{1163}{}{the body}
+#{1164}{}{the foreleg}
+#{1165}{}{the foreleg}
+#{1166}{}{the eyes}
+#{1167}{}{the groin}
+#{1168}{}{uncalled}
+{1160}{}{头}
+{1161}{}{左后腿}
+{1162}{}{右后腿}
+{1163}{}{身体}
+{1164}{}{右前腿}
+{1165}{}{左前腿}
+{1166}{}{眼睛}
+{1167}{}{下部}
+{1168}{}{某处}
+#
+# Mr. Handy
+#
+#{1170}{}{the CPU}
+#{1171}{}{the manipulator}
+#{1172}{}{the manipulator}
+#{1173}{}{the frame}
+#{1174}{}{the motivator}
+#{1175}{}{the motivator}
+#{1176}{}{the sensors}
+#{1177}{}{the regulator}
+#{1178}{}{uncalled}
+{1170}{}{中央处理器}
+{1171}{}{触手}
+{1172}{}{触手}
+{1173}{}{主体}
+{1174}{}{移动器}
+{1175}{}{移动器}
+{1176}{}{感应器}
+{1177}{}{稳流器}
+{1178}{}{某处}
+#
+# Super Mutants
+#
+#{1180}{}{the head}
+#{1181}{}{the left arm}
+#{1182}{}{the right arm}
+#{1183}{}{the torso}
+#{1184}{}{the right leg}
+#{1185}{}{the left leg}
+#{1186}{}{the eyes}
+#{1187}{}{the groin}
+#{1188}{}{uncalled}
+{1180}{}{头}
+{1181}{}{左臂}
+{1182}{}{右臂}
+{1183}{}{身体}
+{1184}{}{右腿}
+{1185}{}{左腿}
+{1186}{}{眼睛}
+{1187}{}{跨下}
+{1188}{}{某处}
+#
+# Mole-Rat
+#
+#{1190}{}{head}
+#{1191}{}{left paw}
+#{1192}{}{right paw}
+#{1193}{}{body}
+#{1194}{}{right leg}
+#{1195}{}{left leg}
+#{1196}{}{eyes}
+#{1197}{}{groin}
+#{1198}{}{uncalled}
+{1190}{}{头}
+{1191}{}{左前爪}
+{1192}{}{右前爪}
+{1193}{}{身体}
+{1194}{}{右腿}
+{1195}{}{左腿}
+{1196}{}{眼睛}
+{1197}{}{跨下}
+{1198}{}{某处}
+#
+# big humans and mutants
+#
+#{1210}{}{head}
+#{1211}{}{left arm}
+#{1212}{}{right arm}
+#{1213}{}{torso}
+#{1214}{}{right leg}
+#{1215}{}{left leg}
+#{1216}{}{eyes}
+#{1217}{}{groin}
+#{1218}{}{uncalled}
+{1210}{}{头}
+{1211}{}{左臂}
+{1212}{}{右臂}
+{1213}{}{身体}
+{1214}{}{右腿}
+{1215}{}{左腿}
+{1216}{}{眼睛}
+{1217}{}{跨下}
+{1218}{}{某处}
+#
+# Radscorpion
+#
+#{1220}{}{head}
+#{1221}{}{tail}
+#{1222}{}{claw}
+#{1223}{}{carapace}
+#{1224}{}{forelegs}
+#{1225}{}{hindlegs}
+#{1226}{}{eyes}
+#{1227}{}{brain}
+#{1228}{}{uncalled}
+{1220}{}{头}
+{1221}{}{尾巴}
+{1222}{}{爪}
+{1223}{}{甲壳}
+{1224}{}{前脚}
+{1225}{}{后脚}
+{1226}{}{眼睛}
+{1227}{}{头脑}
+{1228}{}{某处}
+#
+# Floater
+#
+#{1230}{}{head}
+#{1231}{}{mouth}
+#{1232}{}{fore mouth}
+#{1233}{}{body}
+#{1234}{}{float sac}
+#{1235}{}{tail}
+#{1236}{}{ganglion}
+#{1237}{}{ovipositor}
+#{1238}{}{uncalled}
+{1230}{}{头}
+{1231}{}{嘴}
+{1232}{}{前嘴}
+{1233}{}{身以}
+{1234}{}{浮袋}
+{1235}{}{尾巴}
+{1236}{}{神经线}
+{1237}{}{产卵管}
+{1238}{}{某处}
+#
+# masrat? a rat perhaps?
+#
+#{1240}{}{head}
+#{1241}{}{left paw}
+#{1242}{}{right paw}
+#{1243}{}{body}
+#{1244}{}{right leg}
+#{1245}{}{left leg}
+#{1246}{}{eyes}
+#{1247}{}{groin}
+#{1248}{}{uncalled}
+{1240}{}{头}
+{1241}{}{左前爪}
+{1242}{}{右前爪}
+{1243}{}{身体}
+{1244}{}{右腿}
+{1245}{}{左腿}
+{1246}{}{眼睛}
+{1247}{}{跨下}
+{1248}{}{某处}
+#
+# Centaur
+#
+#{1250}{}{head}
+#{1251}{}{left arm}
+#{1252}{}{right arm}
+#{1253}{}{body}
+#{1254}{}{right leg}
+#{1255}{}{left leg}
+#{1256}{}{eyes}
+#{1257}{}{groin}
+#{1258}{}{uncalled}
+{1250}{}{头}
+{1251}{}{左臂}
+{1252}{}{右臂}
+{1253}{}{身体}
+{1254}{}{右腿}
+{1255}{}{左腿}
+{1256}{}{眼睛}
+{1257}{}{跨下}
+{1258}{}{某处}
+#
+#
+# human midgets and children
+#
+#{1270}{}{head}
+#{1271}{}{left arm}
+#{1272}{}{right arm}
+#{1273}{}{torso}
+#{1274}{}{right leg}
+#{1275}{}{left leg}
+#{1276}{}{eyes}
+#{1277}{}{groin}
+#{1278}{}{uncalled}
+{1270}{}{头}
+{1271}{}{左臂}
+{1272}{}{右臂}
+{1273}{}{身体}
+{1274}{}{右腿}
+{1275}{}{左腿}
+{1276}{}{眼睛}
+{1277}{}{跨下}
+{1278}{}{某处}
+#
+# Overseer
+#
+#{1460}{}{head}
+#{1461}{}{left arm}
+#{1462}{}{right arm}
+#{1463}{}{torso}
+#{1464}{}{right leg}
+#{1465}{}{left leg}
+#{1466}{}{eyes}
+#{1467}{}{groin}
+#{1468}{}{uncalled}
+{1460}{}{头}
+{1461}{}{左臂}
+{1462}{}{右臂}
+{1463}{}{身体}
+{1464}{}{右腿}
+{1465}{}{左腿}
+{1466}{}{眼睛}
+{1467}{}{跨下}
+{1468}{}{某处}
+#
+# Gizmo
+#
+#{1490}{}{head}
+#{1491}{}{left arm}
+#{1492}{}{right arm}
+#{1493}{}{torso}
+#{1494}{}{right leg}
+#{1495}{}{left leg}
+#{1496}{}{eyes}
+#{1497}{}{groin}
+#{1498}{}{uncalled}
+{1490}{}{头}
+{1491}{}{左臂}
+{1492}{}{右臂}
+{1493}{}{身体}
+{1494}{}{右腿}
+{1495}{}{左腿}
+{1496}{}{眼睛}
+{1497}{}{跨下}
+{1498}{}{某处}
+#
+# The Master!
+#
+#{1500}{}{head}
+#{1501}{}{???}
+#{1502}{}{???}
+#{1503}{}{frame}
+#{1504}{}{???}
+#{1505}{}{???}
+#{1506}{}{eyes}
+#{1507}{}{CPU}
+#{1508}{}{uncalled}
+{1500}{}{头}
+{1501}{}{???}
+{1502}{}{???}
+{1503}{}{身体}
+{1504}{}{???}
+{1505}{}{???}
+{1506}{}{眼睛}
+{1507}{}{中央处理器}
+{1508}{}{某处}
+#
+# Death Claw
+#
+#{1510}{}{head}
+#{1511}{}{left arm}
+#{1512}{}{right arm}
+#{1513}{}{torso}
+#{1514}{}{right leg}
+#{1515}{}{left leg}
+#{1516}{}{eyes}
+#{1517}{}{groin}
+#{1518}{}{uncalled}
+{1510}{}{头}
+{1511}{}{左臂}
+{1512}{}{右臂}
+{1513}{}{身体}
+{1514}{}{右腿}
+{1515}{}{左腿}
+{1516}{}{眼睛}
+{1517}{}{跨下}
+{1518}{}{某处}
+#
+#
+# Mantis
+#
+#{1520}{}{head}
+#{1521}{}{raptorial leg}
+#{1522}{}{raptorial leg}
+#{1523}{}{abdomen}
+#{1524}{}{legs}
+#{1525}{}{wings}
+#{1526}{}{eyes}
+#{1527}{}{metathorax}
+#{1528}{}{uncalled}
+{1520}{}{头}
+{1521}{}{触脚}
+{1522}{}{触脚}
+{1523}{}{下腹}
+{1524}{}{足}
+{1525}{}{翅膀}
+{1526}{}{眼睛}
+{1527}{}{后胸}
+{1528}{}{某处}
+#
+# Robobrain
+#
+#{1530}{}{CPU}
+#{1531}{}{manipulator}
+#{1532}{}{manipulator}
+#{1533}{}{frame}
+#{1534}{}{motivator}
+#{1535}{}{motivator}
+#{1536}{}{sensors}
+#{1537}{}{regulator}
+#{1538}{}{uncalled}
+{1530}{}{中央处理器}
+{1531}{}{触手}
+{1532}{}{触手}
+{1533}{}{主体}
+{1534}{}{移动器}
+{1535}{}{移动器}
+{1536}{}{感应器}
+{1537}{}{稳流器}
+{1538}{}{某处}
+#
+# Eyeball (Robot)
+#
+#{1540}{}{CPU}
+#{1541}{}{manipulator}
+#{1542}{}{manipulator}
+#{1543}{}{frame}
+#{1544}{}{motivator}
+#{1545}{}{motivator}
+#{1546}{}{sensors}
+#{1547}{}{regulator}
+#{1548}{}{uncalled}
+{1540}{}{中央处理器}
+{1541}{}{触手}
+{1542}{}{触手}
+{1543}{}{主体}
+{1544}{}{移动器}
+{1545}{}{移动器}
+{1546}{}{感应器}
+{1547}{}{稳流器}
+{1548}{}{某处}
+#
+# Mutant Pig Rat (small Mole-Rat)
+#
+#{1550}{}{head}
+#{1551}{}{left paw}
+#{1552}{}{right paw}
+#{1553}{}{body}
+#{1554}{}{right leg}
+#{1555}{}{left leg}
+#{1556}{}{eyes}
+#{1557}{}{groin}
+#{1558}{}{uncalled}
+{1550}{}{头}
+{1551}{}{左前爪}
+{1552}{}{右前爪}
+{1553}{}{身体}
+{1554}{}{右腿}
+{1555}{}{左腿}
+{1556}{}{眼睛}
+{1557}{}{跨下}
+{1558}{}{某处}
+
+#
+# Critical Hit Messages
+#
+# 5000 series - men (including generics)
+#
+#
+#
+# Critical Hit Messages 
+#
+# 5000 series - men (including generics)
+#
+#{5000}{}{ and really hurts}
+#{5001}{}{. A serious wound is inflicted}
+#{5002}{}{ with no armor defenses}
+#{5003}{}{. The damaging attack knocks him unconscious}
+#{5004}{}{. The blow knocks him to the ground}
+#{5005}{}{. The strong blow to the head knocks him out}
+#{5006}{}{. The attack crushes the temple. Good night, Gracie}
+#{5007}{}{, death is instantaneous}
+#{5008}{}{, causing severe tennis elbow}
+#{5009}{}{, pushing the arm out of the way}
+#{5010}{}{, leaving a big bruise}
+#{5011}{}{, crippling the left arm}
+#{5012}{}{, leaving the left arm dangling by the skin}
+#{5013}{}{. That arm now looks like a bloody stump}
+#{5014}{}{, leaving a crippled right arm}
+#{5015}{}{. His right arm is pulverized by this powerful blow}
+#{5016}{}{ in a forceful blow}
+#{5017}{}{ blowing through the armor}
+#{5018}{}{, inflicting an extra helping of damage}
+#{5019}{}{ with no armor, knocking the combatant to the ground}
+#{5020}{}{ knocking the air out, he slumps to the ground out of the fight}
+#{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
+#{5022}{}{ putting a major hurt on his leg}
+#{5023}{}{, knocking him to the ground like a bowling pin in a league game}
+#{5024}{}{, bowling him over and crippling that leg}
+#{5025}{}{, smashing the knee into the next town. He falls}
+#{5026}{}{. The intense pain of having a leg removed causes him to quit}
+#{5027}{}{ inflicting some extra pain}
+#{5028}{}{ causing blindness, unluckily for him}
+#{5029}{}{, and with no protection there, causing serious pain}
+#{5030}{}{, and blinding him with a stunning blow}
+#{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
+#{5032}{}{, sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
+#{5033}{}{. Ouch! That had to hurt}
+#{5034}{}{, and he's not wearing a cup, either}
+#{5035}{}{ and without protection, he falls over, groaning in agony}
+#{5036}{}{. The pain is too much for him and he collapses like a rag}
+#{5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
+{5000}{}{而且很痛}
+{5001}{}{。造成了相当大的伤害}
+{5002}{}{而且没有装甲保护}
+{5003}{}{。这一击太重了，打得他不省人事}
+{5004}{}{。这一击将他打得站不起来}
+{5005}{}{。头顶的重击将他打晕了}
+{5006}{}{。那一击将他的太阳穴打碎了}
+{5007}{}{，马上就死了}
+{5008}{}{，将手肘打碎了}
+{5009}{}{，将手臂打脱臼了}
+{5010}{}{，留下了一个伤痕}
+{5011}{}{，将左臂打残了}
+{5012}{}{，将左臂打得只剩下皮肤挂着}
+{5013}{}{。那条手臂看起来血肉模糊}
+{5014}{}{，将右臂打残了}
+{5015}{}{。他的右臂被那强力的一击打烂了}
+{5016}{}{，在一记重击中}
+{5017}{}{穿过了装甲}
+{5018}{}{，造成了更多的伤害}
+{5019}{}{对方没有穿装甲，因此被摔到地面上}
+{5020}{}{打得不成人型，他倒在地上无法继续战斗}
+{5021}{}{。很不幸的，你现在可以看到他的脊椎骨露在外面}
+{5022}{}{把他的脚打得重伤}
+{5023}{}{，把他打得像保龄球瓶一样倒在地上}
+{5024}{}{，将他那腿打成残废}
+{5025}{}{，把膝盖打得粉碎。他应声倒下}
+{5026}{}{。断腿的痛苦使他无法继续战斗}
+{5027}{}{又让他倍加痛苦。}
+{5028}{}{将他打瞎了，算他倒霉}
+{5029}{}{，而且那边没有保护，使得痛苦加倍。}
+{5030}{}{，而且用力的一击也使他瞎了眼睛}
+{5031}{}{。失去眼睛对他来说打击太大了，他因此倒在地上}
+{5032}{}{，可怜的他就这样的死了}
+{5033}{}{。啊！那一定很痛}
+{5034}{}{，而且他并没有穿戴任何的护具}
+{5035}{}{而且在没有护具的情况之下，他倒下来，并且疼痛哀号}
+{5036}{}{。疼痛的程度已经超过了他能忍受的极限，他因此应声倒下}
+{5037}{}{。在叫了一声“妈”之后，他便翻白眼了}
+#
+# series 5100 - women
+#
+#{5100}{}{ and really hurts}
+#{5101}{}{. A serious wound is inflicted}
+#{5102}{}{ with no armor}
+#{5103}{}{. The damaging attack knocks her unconscious}
+#{5104}{}{. The blow knocks her to the ground}
+#{5105}{}{. The strong blow to the head knocks her out}
+#{5106}{}{. The attack crushes her temple. Good night, Gracie}
+#{5107}{}{, death is instantaneous}
+#{5108}{}{, causing severe tennis elbow}
+#{5109}{}{, pushing the arm out of the way}
+#{5110}{}{, leaving a big bruise}
+#{5111}{}{, crippling the left arm}
+#{5112}{}{. The left arm is barely attached to her shoulder}
+#{5113}{}{. That arm now looks like a bloody stump}
+#{5114}{}{, leaving a crippled right arm}
+#{5115}{}{. Her right arm is turned into hamburger by the blow}
+#{5116}{}{ in a forceful blow}
+#{5117}{}{ piercing through her defenses}
+#{5118}{}{, inflicting an extra helping of damage}
+#{5119}{}{ with no armor, knocking the female fighter to the ground}
+#{5120}{}{ knocking the air out, she slumps to the ground}
+#{5121}{}{. Unfortunately, her major organs have been exposed to the light}
+#{5122}{}{ putting a major hurt on her leg}
+#{5123}{}{, knocking her over like a bad blind date}
+#{5124}{}{, knocking her down and crippling that leg}
+#{5125}{}{, smashing the knee into the next town. She takes the fast track to the ground}
+#{5126}{}{. She screams in pain from the broken leg}
+#{5127}{}{ inflicting some extra pain}
+#{5128}{}{ causing blindness. She grimaces}
+#{5129}{}{, and with no protection there, causing serious pain}
+#{5130}{}{. The wound causes severe blindness, as if there is any other kind}
+#{5131}{}{. She faints from the blinding attack}
+#{5132}{}{, sadly, she doesn't get to pray to her gods before she meets them}
+#{5133}{}{. She takes it like a man. That is to say, it hurts}
+#{5134}{}{, knocking her to the ground}
+#{5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
+{5100}{}{而且很痛}
+{5101}{}{。造成了相当大的伤害}
+{5102}{}{而且没有装甲保护}
+{5103}{}{。这一击太重了，打得他不省人事}
+{5104}{}{。这一击将他打得站不起来}
+{5105}{}{。头顶的重击将他打晕了}
+{5106}{}{。那一击将他的太阳穴打碎了}
+{5107}{}{，马上就死了}
+{5108}{}{，将手肘打碎了}
+{5109}{}{，将手臂打脱臼了}
+{5110}{}{，留下了一个伤痕}
+{5111}{}{，将左臂打残了}
+{5112}{}{，将左臂打得只剩下皮肤挂着}
+{5113}{}{。那条手臂看起来血肉模糊}
+{5114}{}{，将右臂打残了}
+{5115}{}{。他的右臂被那强力的一击打烂了}
+{5116}{}{，在一记重击中}
+{5117}{}{穿过了装甲}
+{5118}{}{，造成了更多的伤害}
+{5119}{}{但没有穿装甲，战斗者摔到地面上}
+{5120}{}{打得不成人型，他倒在地上无法继续战斗}
+{5121}{}{。很不幸的，你现在可以看到他的脊椎骨露在外面}
+{5122}{}{把他的脚打得重伤}
+{5123}{}{，把他打得像保龄球瓶一样倒在地上}
+{5124}{}{，将他那腿打成残废}
+{5125}{}{，把膝盖打得粉碎。他应声倒下}
+{5126}{}{。断腿的痛苦使他无法继续战斗}
+{5127}{}{又让他倍加痛苦。}
+{5128}{}{将他打瞎了，算他倒霉}
+{5129}{}{，而且那边没有保护，使得痛苦加倍。}
+{5130}{}{，而且用力的一击也使他瞎了眼睛}
+{5131}{}{。失去眼睛对他来说打击太大了，他因此倒在地上}
+{5132}{}{，可怜的他就这样的死了}
+{5133}{}{。啊！那一定很痛}
+{5134}{}{，将他打倒在地上}
+{5135}{}{而且在没有护具的情况之下，他倒下来，并且疼痛哀号}
+#
+# series 5200 - children
+#
+#{5200}{}{. The little kid starts to cry}
+#{5201}{}{. Unconscious, the small child falls over}
+#{5202}{}{. Ouchie!}
+#{5203}{}{. The blow is true, and the child is knocked unconscious}
+#{5204}{}{, smashing the small child around like a limp rag}
+#{5205}{}{. The left arm of this kid now has an owie}
+#{5206}{}{, throwing the small child off balance}
+#{5207}{}{, breaking that arm with a loud snap. Some serious tears start to flow}
+#{5208}{}{, easily snapping that arm like a small piece of candy}
+#{5209}{}{. The right arm starts to swell, like a balloon}
+#{5210}{}{, and starts to cry}
+#{5211}{}{ in a sensitive spot}
+#{5212}{}{. The attack to a vital organ knocks the kid over}
+#{5213}{}{, knocking the little kid over like a toy}
+#{5214}{}{. Now this young child will never really experience life}
+#{5215}{}{, inflicting a deep cut}
+#{5216}{}{. The attack bowls the child over, and breaks the leg}
+#{5217}{}{, inflicting great harm to the small child}
+#{5218}{}{. The young child looks up and starts to cry}
+#{5219}{}{, which blinds the youth}
+#{5220}{}{, bashing in the youthful looking nose}
+#{5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
+#{5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
+#{5223}{}{ causing blindness. The young child drops to the ground}
+#{5224}{}{, the blow continues into the small brain}
+#{5225}{}{. The child looks confused and shaken}
+#{5226}{}{, knocking this young target to the ground}
+{5200}{}{。那小孩开始放声大哭}
+{5201}{}{。小孩倒在地上不省人事}
+{5202}{}{。痛！}
+{5203}{}{。那一击并不轻，让小孩不省人事}
+{5204}{}{，把小孩打的像一块破地毯一样}
+{5205}{}{。那小孩的左臂现在有了个伤痕}
+{5206}{}{，小孩在失去平衡后倒在地上}
+{5207}{}{，那手臂啪的一声就断了。小孩开始放声大哭}
+{5208}{}{，好像棒棒糖一样那条手臂就被折断了。}
+{5209}{}{。右臂开始发踵，像个气球一样}
+{5210}{}{，并且开始哭}
+{5211}{}{一个敏感的地方}
+{5212}{}{。在击中了一个主要的器官后，小孩倒了下去}
+{5213}{}{，像娃娃一样将这小孩打倒}
+{5214}{}{。现在，这一个小孩永远都不用体验到人生的痛苦了}
+{5215}{}{，伤口切得很深}
+{5216}{}{。那一击把小孩打到地上，并且将腿打断}
+{5217}{}{，将那小孩打成重伤}
+{5218}{}{。小孩看着你，并且开始大哭}
+{5219}{}{，将他弄瞎了}
+{5220}{}{，重重的给他那小小的鼻子一击}
+{5221}{}{。一个切口出现在眼睛上方，血随即泉涌而出}
+{5222}{}{，将眼睛打爆了。小孩因此而发了愣}
+{5223}{}{让眼睛瞎了。那小孩因此倒在地上}
+{5224}{}{，那一击打穿了小孩的脑袋}
+{5225}{}{。小孩子全身发抖}
+{5226}{}{，将那年幼的身体打到地上}
+#
+# series 5300 - Super Mutants
+#
+#{5300}{}{, hurting the mighty mutant}
+#{5301}{}{, striking a vital spot}
+#{5302}{}{, striking a vital spot and knocking the giant to the ground}
+#{5303}{}{. The giant mutant looks around for a moment, and then slumps to the ground}
+#{5304}{}{. The head explodes like a giant, bloody watermelon}
+#{5305}{}{, severely hurting the mighty mutant}
+#{5306}{}{, causing the giant to spend a moment cursing the universe}
+#{5307}{}{, striking a nerve and forcing the giant to grab his arm in pain}
+#{5308}{}{. The blow breaks the elbow and probably didn't feel too good}
+#{5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
+#{5310}{}{, causing the giant to stumble for a moment and then collapse like a felled tree}
+#{5311}{}{, and gallons of viscera splurt to the ground}
+#{5312}{}{, sending the giant flying to the floor}
+#{5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
+#{5314}{}{, striking a vital location. The mutant crumples under a broken leg}
+#{5315}{}{. The pain of a broken leg overwhelms the mighty giant}
+#{5316}{}{, nearly blinding the mutant}
+#{5317}{}{, blinding the now-furious mutant}
+#{5318}{}{, nearly blinding the mutant but throwing him off balance}
+#{5319}{}{. The blinded mutant stumbles back, unprepared for the next attack}
+#{5320}{}{, blinding the now-unconscious mutant}
+#{5321}{}{. The eyes of the mutant glow for a moment, and then the light fades - permanently}
+{5300}{}{，伤了那强壮的变种人}
+{5301}{}{，打中了一个要害}
+{5302}{}{，打中了一个要害，并且将那巨大的怪物打到地上}
+{5303}{}{。那巨大的变种人四处看看，然后随即倒在地上}
+{5304}{}{。它的头就像巨大的西瓜一样爆炸了}
+{5305}{}{，让巨大的变种人受了重伤}
+{5306}{}{，让那巨大的变种人气得乱骂三字经}
+{5307}{}{，打中了主要的神经，让它抓着自己的手臂直喊着疼}
+{5308}{}{。那一击将它的手腕打碎了}
+{5309}{}{，将他那粗大的手臂打断，并且血溅五步}
+{5310}{}{，让那巨人失去平衡，并且像被砍伐的大树一样倒在地上}
+{5311}{}{，然后它的内脏全部都流到地上}
+{5312}{}{，将它打得飞到地上}
+{5313}{}{。变种人摇摇晃晃的，最后倒在地上，因为它的腿已经无法支称它的重量了。}
+{5314}{}{，打中了了要害。变种人的腿应声而断。}
+{5315}{}{，既使是这样大的怪物也受不了那样的疼痛。}
+{5316}{}{，差一点就将变种人给打瞎了}
+{5317}{}{，将生气的变种人给打瞎了}
+{5318}{}{，差一点就将变种人打瞎了，不过，它却失去了平衡}
+{5319}{}{。变种人既使是瞎了也没有减低他的斗志}
+{5320}{}{，将不省人事的变种人打瞎了}
+{5321}{}{。变种人的眼睛慢慢地失去的光明－永远的。}
+#
+# series 5400 - Ghouls
+#
+#{5400}{}{. The ghoul is surprised, and fails to defend against this attack}
+#{5401}{}{. This blow buries this ghoul}
+#{5402}{}{. The stunned ghoul's hand flies open}
+#{5403}{}{, sneaking through his armor and striking a critical joint}
+#{5404}{}{, sneaking through his armor and lopping the arm off}
+#{5405}{}{. The ghoul moves the wrong way at the wrong moment, and loses an eye}
+#{5406}{}{. The ghoul is wearing no armor there}
+#{5407}{}{, and without armor, the ghoul is blinded}
+#{5408}{}{, causing the ghoul to look bewildered in his final moments}
+{5400}{}{。对于你这突如其来攻击，僵尸来不及接招而被打个正着}
+{5401}{}{。这一击将该僵尸送进了坟墓}
+{5402}{}{。被突然的击中，僵尸的手应声而断}
+{5403}{}{，这一击穿过了装甲，直接的打断了僵尸的关节}
+{5404}{}{，这一击穿过了装甲，直接的切断了僵尸的双手}
+{5405}{}{。僵尸的眼睛被打个正着，因此它失去了一只眼}
+{5406}{}{。它那里并没有穿任何的装甲}
+{5407}{}{，因为没有保护，因此僵尸被打瞎了}
+{5408}{}{，让僵尸不知道自己是怎么死的}
+#
+#
+# series 5500 - Brahmin
+#
+#{5500}{}{, knocking the big beast to the ground}
+#{5501}{}{, stunning both brains and felling the giant animal}
+#{5502}{}{. The mutant cow gives a loud, startled cry}
+#{5503}{}{, breaking one of the Brahmin's legs}
+#{5504}{}{, seriously hurting the mutant cow}
+#{5505}{}{, easily penetrating the thick hide of the giant beast}
+#{5506}{}{, penetrating straight through both hearts of the mutant cow}
+#{5507}{}{, blinding both sets of eyes with a single blow}
+#{5508}{}{, blinding both heads and stunning the mutant cow}
+#{5509}{}{, completely blinding the Brahmin and knocking it out}
+#{5510}{}{, the large mutant bovine stumbles for a moment}
+#{5511}{}{. The Brahmin shakes with rage}
+#{5512}{}{. The Brahmin snorts with pain}
+#{5513}{}{. The Brahmin is most upset with this udderly devastating attack}
+{5500}{}{，将这大野兽倒在地上}
+{5501}{}{，击中了这野兽的两个头，以致它随即倒在地上}
+{5502}{}{。这双头牛大声的哀号}
+{5503}{}{，打断了双头牛的一条腿}
+{5504}{}{，将这双头牛打成重伤}
+{5505}{}{，很容易的就打穿这猛兽的皮}
+{5506}{}{，穿过双头牛的身体，直接的打中了它的心脏}
+{5507}{}{，一击就将它两双眼给打瞎了}
+{5508}{}{，将全部的眼都打瞎了，让这只双头牛不知所措}
+{5509}{}{，将双头牛打瞎，并且打晕}
+{5510}{}{，这巨兽失去了平衡一阵子}
+{5511}{}{。双头牛很生气}
+{5512}{}{。双头牛愤怒的哀号}
+{5513}{}{。对于你密集的攻击双头牛感到很生气}
+#
+# series 5600 - Radscorpions 
+#
+#{5600}{}{, sending the Radscorpion flying on it's back}
+#{5601}{}{, separating the head from the carapace}
+#{5602}{}{, seriously damaging the tail}
+#{5603}{}{, putting a major hurt on it's claws}
+#{5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace}
+#{5605}{}{, striking through the tough carapace without pausing}
+#{5606}{}{, passing through the natural armor and knocking the Radscorpion over}
+#{5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs}
+#{5608}{}{, sending the 'scorpion flying and crippling some of it's legs}
+#{5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
+#{5610}{}{, seriously wounding and blinding the mutant creature}
+#{5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
+#{5612}{}{, almost penetrating to the brain, but blinding the creature instead}
+#{5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
+#{5614}{}{. If it was human, you would swear it's pretty pissed off}
+#{5615}{}{, knocking the poor creature senseless}
+#{5616}{}{, spiking the brain to the floor}
+{5600}{}{，将毒蝎子打得飞上了天}
+{5601}{}{，将它的头与身体分开了}
+{5602}{}{，将尾巴打得伤重不已}
+{5603}{}{，在爪子上造成了严重的伤害}
+{5604}{}{。那一击打重了甲壳之间的接缝}
+{5605}{}{，穿过了毒蝎坚硬的外壳}
+{5606}{}{，穿过了毒蝎与生俱来的装甲，并且将其打倒在地上}
+{5607}{}{。对于这前所未有，失去内脏的感觉，毒蝎感到无法承受}
+{5608}{}{，毒蝎飞上了天，同时失去了它的一些脚}
+{5609}{}{。那一击打中了它腿上没有保护的地方，因此腿应声而断}
+{5610}{}{，让毒蝎受了相当严重的伤害}
+{5611}{}{，差一些就可以将毒蝎的脑给打烂。这就是将一只虫碾死的感觉吧}
+{5612}{}{，差一些就可以将毒蝎的脑给打烂，不过却将它打瞎了}
+{5613}{}{。这是简单的一击，但是对毒蝎来说却是致命的一击}
+{5614}{}{。如果那是一个人的话，他一定会相当的生气}
+{5615}{}{，将那可怜的昆虫打得乱七八糟}
+{5616}{}{，将它打得脑浆四溢}
+#
+# series 5700 - Rats
+#
+#{5700}{}{. The rodent's skull makes several unhealthy sounds}
+#{5701}{}{, squashing the rodent's skull like a wet paper bag}
+#{5702}{}{, and the left paw now looks a little flat}
+#{5703}{}{. The left paw of the rat is blown off}
+#{5704}{}{. The right paw is heavily damaged}
+#{5705}{}{, blowing the right paw off}
+#{5706}{}{. The rat is seriously wounded by this attack}
+#{5707}{}{, seriously wounding the rat and knocking it around}
+#{5708}{}{, splattering the rat across the floor}
+#{5709}{}{, crippling the right leg}
+#{5710}{}{, putting a big hole in the left leg}
+#{5711}{}{, doing some extra damage due to the sensitive location}
+#{5712}{}{, summoning this creature to the great ratcatcher in the sky}
+{5700}{}{。老鼠头骨碎裂的声音听起来也令人感到恶心}
+{5701}{}{，将老鼠的头像一颗蛋一样打烂}
+{5702}{}{，而且左边的爪子好像不见了}
+{5703}{}{。老鼠的左爪被炸烂了}
+{5704}{}{。左边的爪子受到了相当严重的伤}
+{5705}{}{，将右爪给炸掉了}
+{5706}{}{。老鼠被这一击给打成重伤}
+{5707}{}{，重伤的老鼠开始慌张的跑}
+{5708}{}{，将老鼠打得肝脑涂地}
+{5709}{}{，将右脚打残了}
+{5710}{}{，在左腿上开了一个大洞}
+{5711}{}{，那一击的伤害特别重，因为你打中了老鼠特别敏感的地方}
+{5712}{}{，将它送上了西天}
+#
+# series 5800 - Floaters
+#
+#{5800}{}{, the floater drops to the ground}
+#{5801}{}{, the floater falls to the ground, seemingly lifeless}
+#{5802}{}{, with serious consequences to the creatures continued existance}
+#{5803}{}{, stunning the foul creature}
+#{5804}{}{, hitting a sensitive spot there and stunning the floater}
+#{5805}{}{. The blow causes the floater to shudder violently in a spray of crimson}
+#{5806}{}{, the blow causing some sort of violent reaction in the creature}
+#{5807}{}{. The floater suddenly bursts into flames}
+#{5808}{}{ then it jerks wildly and quivers like a pudding surprise}
+#{5809}{}{, with the blow hitting a sensitive spot}
+#{5810}{}{. The creature is obviously agitated}
+{5800}{}{，浮游特随即倒在地上}
+{5801}{}{，浮游特随即倒在地上，看上去毫无生命的迹象}
+{5802}{}{，让这生物无法继续的活着}
+{5803}{}{，让这下等的生物吓了一跳}
+{5804}{}{，打中了特别虚弱的地方，让这下等的生物吓了一跳}
+{5805}{}{。这一击让浮游特严重的哀号}
+{5806}{}{，这一击让浮游特相当的生气}
+{5807}{}{。浮游特突然的着火了}
+{5808}{}{然后它开始抽动，一副相当痛苦的样子}
+{5809}{}{，那一击打中了它的弱点}
+{5810}{}{。那生物现在相当的焦虑}
+#
+#
+# series 5900 - Centaurs
+#
+#{5900}{}{, pushed like a bad habit, the centaur falls over and is stunned}
+#{5901}{}{ as the blow strikes a critical spot}
+#{5902}{}{, causing a massive neurological failure}
+#{5903}{}{, stunning it with your violent attack}
+#{5904}{}{, crippling the arm}
+#{5905}{}{ striking a critical spot, and crippling the arm}
+#{5906}{}{, knocking the creature over and crippling the leg}
+#{5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
+#{5908}{}{, blinding a head}
+#{5909}{}{, surprising the centaur. It blindly stumbles for a moment}
+#{5910}{}{, surprising the centaur. It collapses in a heap}
+#{5911}{}{, surprising the centaur. It collapses in a pile of goo}
+#{5912}{}{. The attack was not as effective as it could have been}
+{5900}{}{，这一击使得多脚兽倒在地上}
+{5901}{}{当那一击打中了要害时}
+{5902}{}{，造成了多处神经失能}
+{5903}{}{，这暴力的攻击让它相当的惊讶}
+{5904}{}{，废了它的臂膀}
+{5905}{}{打到了一个弱点，废了它的臂膀}
+{5906}{}{，将多脚怪打在地上，并且废了它的腿}
+{5907}{}{，让它还不知道发生了什么事时就断了一条腿的倒在地上}
+{5908}{}{，让它瞎了眼}
+{5909}{}{，攻其不备的，让它失去了平衡}
+{5910}{}{，攻其不备的，让它倒在地上}
+{5911}{}{，攻其不备的，让它血肉模活倒在地上}
+{5912}{}{。那一击并没有你想像中那样大的效果}
+#
+# series 6000 - Robots
+#
+#{6000}{}{, inflicting some structural damage}
+#{6001}{}{, sparks fly and the robot goes momentarily out of control}
+#{6002}{}{, hitting a critical component and forcing the robot out of control}
+#{6003}{}{, hitting a critical component and causing a massive malfunction}
+#{6004}{}{. The robot attempts to compensate}
+#{6005}{}{. The robot strains to compensate}
+#{6006}{}{, hitting some key part and causing heavy damage}
+#{6007}{}{, inflicting heavy structural damage}
+#{6008}{}{, hitting a critical component and causing severe damage}
+#{6009}{}{. The robot shudders under this intense attack}
+#{6010}{}{, dismantling the robot}
+#{6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
+#{6012}{}{. The robot strains under the pressure, falling to the ground}
+#{6013}{}{, breaking the sensor lenses}
+{6000}{}{，让它的外部受到了一些伤害}
+{6001}{}{，让机器人暂时的失去了作用}
+{6002}{}{，打中了一个主要的零件，让机器人开始失去控制}
+{6003}{}{，打中了一个主要的零件，让机器人的系统失去作用}
+{6004}{}{。机器人开始尝试着自我修复}
+{6005}{}{。机器人尽力的跳过被损坏的系统}
+{6006}{}{，打中了一些主要的零件，造成了相当大的损伤}
+{6007}{}{，造成了相当严重的外部损伤}
+{6008}{}{，打中了一个主要的系统，造成了相当大的伤害}
+{6009}{}{。在重击之后机器人无法正常的运作}
+{6010}{}{，并将机器人给分解了}
+{6011}{}{。机器人开始尝试着自我修复，但却失败了，它即刻应声倒在地上}
+{6012}{}{。机器人承受了太大的力量，因此倒在地上}
+{6013}{}{，打碎了感应器的镜片}
+#
+#
+# series 6100 - Dogs
+#
+#{6100}{}{, knocking the pooch to the ground}
+#{6101}{}{, right across the snout}
+#{6102}{}{. The dog falls over, but it is still breathing}
+#{6103}{}{, the animal coughs up a splurt of blood}
+#{6104}{}{, crippling the leg}
+#{6105}{}{, crippling the leg. The animal tries to remain standing, but fails}
+#{6106}{}{. The blinded animal howls in pain}
+#{6107}{}{, neutering the poor animal}
+{6100}{}{，将狗打得躺在地上}
+{6101}{}{，正中鼻子}
+{6102}{}{。狗四脚朝天，但却仍在呼吸}
+{6103}{}{，那只狗吐出了一泡鲜血}
+{6104}{}{，废了它的腿}
+{6105}{}{，废了它的腿。它试着要爬起来，但是却失败了}
+{6106}{}{。瞎了眼的狗开始凄惨的叫着}
+{6107}{}{，将那只可怜的狗阉了}
+#
+# series 6200 - Manti
+#
+#{6200}{}{, knocking down this mutated insect}
+#{6201}{}{, which collapses}
+#{6202}{}{. The manti ponders whether to continue living}
+#{6203}{}{, crippling the limb}
+#{6204}{}{, causing the Manti to lick it's wounds. It holds the limb oddly}
+#{6205}{}{, bypassing the chitinous armor}
+#{6206}{}{. The manti shrieks and shivers must unhuman like}
+#{6207}{}{, which causes the manti to fall over. A limb is bent at an odd shape}
+#{6208}{}{, shredding the wings}
+#{6209}{}{, bypassing the chitinous armor and throwing the manti around}
+#{6210}{}{, blinding the insect with an accurate blow}
+{6200}{}{，将那变种的昆虫打倒了}
+{6201}{}{，然后便四脚朝天了}
+{6202}{}{。螳螂应该是活不久了}
+{6203}{}{，废了它的脚}
+{6204}{}{，因此螳螂开始舔它的伤口。它伤得很重}
+{6205}{}{，打穿了它的壳}
+{6206}{}{。螳螂开始发抖抽动}
+{6207}{}{，让螳螂倒在地上。它的脚被折断变成奇怪的形状}
+{6208}{}{，翅膀开始发抖}
+{6209}{}{，打穿了它的壳，并且将它打得飞出去}
+{6210}{}{，准确的一击将那昆虫给打瞎了}
+#
+# series 6300 - Deathclaw
+#
+#{6300}{}{. Even this beast seems fazed by that stunning attack}
+#{6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls}
+#{6302}{}{. The result is massive damage to the Deathclaw's eyes}
+{6300}{}{。既使是像那样强的怪物也被这突然而来的一击给吓到了}
+{6301}{}{，穿过了怪物巨大的爪子直接打中了它的身体。死亡爪开始因疼痛而发抖}
+{6302}{}{。结果是造成了死亡爪眼部的伤害}
+#
+# series 6400 - The Master
+#
+#{6400}{}{, breaking past the bio-organic defenses}
+#{6401}{}{, causing the Master some serious grief}
+#{6402}{}{, breaking past the bio-organic defenses and putting the pressure on the Master}
+#{6403}{}{, stunning the Master with a solid offensive plan}
+#{6404}{}{, causing an overload of cataclysmic proportions in the Master's systems}
+#{6405}{}{. The attack against the Master seems to do less damage than it should have}
+#{6406}{}{. The blow gets by the bio-organic defenses, actually blinding the Master}
+{6400}{}{，穿过了植物的防卫}
+{6401}{}{，将它一些的叶子给扯了下来}
+{6402}{}{，将它的一些枝叶给打断了}
+{6403}{}{，将它的叶绿素给打得流了出来}
+{6404}{}{，将它打的花粉都喷了出来}
+{6405}{}{。差点将它给打翻了}
+{6406}{}{，将它的一些树枝给折断了}
+#
+#
+# series 6500 - The Player
+#
+#{6500}{}{. You'll have a headache tomorrow, if you live that long}
+#{6501}{}{. Your armor provides no protection from this well-aimed blow}
+#{6502}{}{. You feel the pain for just a moment, and then darkness takes you..}
+#{6503}{}{, bypassing your armor. The blow knocks you off your feet}
+#{6504}{}{, the shock makes your vision go dark. After a moment, you notice that your vision has not returned}
+#{6505}{}{. You get a nice view of your body as your head sails through the air}
+#{6506}{}{. Surprisingly, the damage feels no worse than normal}
+#{6507}{}{, stunning you for a moment}
+#{6508}{}{. Feel the pain}
+#{6509}{}{. The attack leaves your arm useless}
+#{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood}
+#{6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
+#{6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
+#{6513}{}{, crushing your internal organs. All you can do is gurgle blood}
+#{6514}{}{, sending head over heels}
+#{6515}{}{, sending you flying and breaking your leg}
+#{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
+#{6517}{}{. The pain from your broken leg sends you into unconsciousness}
+#{6518}{}{. The painful blow makes you flinch, but does little else}
+#{6519}{}{. Unlucky for you, it also causes immediate vision loss}
+#{6520}{}{. It takes you a moment to wipe the blood from your eyes}
+#{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
+#{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
+#{6523}{}{, making you cringe}
+#{6524}{}{. You cup your groin and fall to the floor in pain}
+#{6525}{}{. The pain is sufficient to knock you out. Ouch}
+#{6526}{}{. There are not enough words in the universe to describe the pain your are feeling at this moment}
+{6500}{}{。你就算明天还活着的话，头也会相当的痛}
+{6501}{}{。对于这相当准确的一击，你的装甲也发挥不了什么保护作用}
+{6502}{}{。你感觉到了短暂的痛楚，接着而来的就是昏天黑地的感觉．．}
+{6503}{}{，穿过了你的装甲。那一击将你打得倒在地上}
+{6504}{}{，力量大到让你看不清楚。过一会儿后，你发现你的视觉又回复正常了}
+{6505}{}{。当你头飞掉的一瞬间，你第一次从不同的角度看到了你的身体}
+{6506}{}{。令你惊讶的是，这伤口并没有那么痛}
+{6507}{}{，让你吃了一惊}
+{6508}{}{。感觉到了相当的痛苦}
+{6509}{}{。那一击让你的手臂失去了作用}
+{6510}{}{，穿过了你的装甲。那一击打碎了你手臂里的骨头}
+{6511}{}{，穿过了你的装甲。现在你的手臂只剩下皮连着挂在身上}
+{6512}{}{。伤口会让你看起来更有英雄气概，疤痕更将是开派对时的好话题}
+{6513}{}{，打伤了你的内脏。你现在只能够一直吐血}
+{6514}{}{，将你的头打飞了}
+{6515}{}{，将你打得飞出去，并且将你的腿折断了}
+{6516}{}{，将你的装甲打碎。那一击很严重的伤了你的膝盖}
+{6517}{}{。断腿之痛让你昏了过去}
+{6518}{}{。那疼痛的一击让你叫了一声，如此而已}
+{6519}{}{。不幸的，那也让你失去了视觉}
+{6520}{}{。你将眼中的血擦掉}
+{6521}{}{，穿过了你的装甲。你站在那边，惊讶的发现你看不见了}
+{6522}{}{。你觉得头里很奇怪，你发现你的脑已受了重伤}
+{6523}{}{，使得你变得畏缩}
+{6524}{}{。你双手抓着你的下体并且痛得在地上打滚}
+{6525}{}{。疼痛的程度还不足以让你昏过去。}
+{6526}{}{。你现在感到的疼痛是言语所不能形容的}

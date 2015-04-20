@@ -1,0 +1,297 @@
+{1099}{}{?}
+{1199}{}{哈里也许可以告诉你：Master－主教、Lou－“老副”、Set－赛特、Shed－水处理房、Ghouls－僵尸、Norms－正常人、Necropolis－大墓地城、Unity－“同一”、Cathedral－大教堂、Chip－芯片、Hall－大厅、Water－水、Human－人类、Normies－正常人儿、Normals－正常人、Children－教徒、Children of the Cathedral－大教堂教徒、Water Shed－水处理房、Lieutenant－副官、Lutenant－副官、Loo－“老副”、Lou Tenant“副官”、Larry“拉里”、Barry“巴里”、Gary“加里”、Terry“特里”、Sally“赛莉”}
+
+#{100}{}{You see Harry, the Super Mutant.}
+{100}{}{你看见哈里，超级变种人。}
+#{101}{Harry_0}{Hey! You not look like ghoul. How come?}
+{101}{Harry_0}{嗨！你看上去不像僵尸。为什么？}
+#{102}{}{That's because I dressed up really snazzy today.}
+{102}{}{那是因为我今天打扮的比较时髦。}
+#{103}{}{But I am a ghoul!}
+{103}{}{我就是僵尸！}
+#{104}{}{Let me guess . . . because I'm not a ghoul?}
+{104}{}{让我猜猜……因为我不是僵尸？}
+#{105}{}{Uh?}
+{105}{}{呃？}
+#{106}{Harry_0a}{Huh?}
+{106}{Harry_0a}{哼？}
+#{107}{Harry_0a}{Huh?}
+{107}{Harry_0a}{哼？}
+#{108}{Harry_0b}{Whuh?}
+{108}{Harry_0b}{啊哼？}
+#{109}{}{Mom?}
+{109}{}{妈妈？}
+#{110}{Harry_01}{Oooo……That was snazzy like, huh?}
+{110}{Harry_01}{哦哦哦哦……真时髦啊，哈？}
+#{111}{}{Nah, I was just fooling you, I'm not a ghoul}
+{111}{}{嘻，我是和你开玩笑，我不是僵尸。}
+#{112}{}{What do you do here?}
+{112}{}{你在这做什么？}
+#{113}{Harry_02}{You not ghoul! I knew, I knew! Not fool Harry!}
+{113}{Harry_02}{你不是僵尸！我知道，我知道！休想愚弄哈里！}
+#{114}{}{Yeahhh, that's pretty obvious.}
+{114}{}{我是僵尸啊，很显然嘛。}
+#{115}{}{You're right. And now that you know, I'll have to kill you.}
+{115}{}{你说得对。既然你知道了，我就要宰了你。}
+#{116}{Harry_03}{You not ghoul. Orders say not-ghoul, not be here.}
+{116}{Harry_03}{你不是僵尸。命令说，不是僵尸，不能在这里。}
+#{117}{}{Who's giving you orders?}
+{117}{}{谁给你的命令？}
+#{118}{}{Ok, thanks. I'll be leaving now.}
+{118}{}{好，谢谢。我现在就走。}
+#{119}{Harry_04}{Lou tell me watch place. Not let no one in. Not
+#normals most. Take normals to the Lou. Hey...}
+{119}{Harry_04}{“老副”叫我看着这个地方。不让人进去。尤其是正常人类。要把正常人类带给“老副”。嗨嗨……}
+#{120}{}{But I'm not a normal!}
+{120}{}{但是我不是正常人！}
+#{121}{}{OK, let's go see Lou.}
+{121}{}{好，让我们去见“老副”。}
+#{122}{}{Frag it. How about, 'Not let you live.'}
+{122}{}{操，“不让你活下去”怎么样。}
+#{123}{Harry_05}{Oh ho-ho, you find out soooon.}
+{123}{Harry_05}{哦哈哈，你等着瞧吧。}
+#{124}{Harry_06}{Oh, uh, OK.  Have nice...day.}
+{124}{Harry_06}{哦，呃，好吧。祝你……玩的高兴。}
+#{125}{Harry_07}{Harry think he beat your head now.}
+{125}{Harry_07}{哈里觉得哈里现在想打你的头。}
+#{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? 【Mumbling】}
+{126}{Harry_08}{哦哦哦……哈里困惑。你不是僵尸。你不是正常人。嗯嗯，你是什么？【喃喃自语】}
+#{127}{}{I'm a new race of super mutant.}
+{127}{}{我是新品种的超级变种人。}
+#{128}{}{I'm a highly advanced robot.}
+{128}{}{我是非常先进的机器人。}
+#{129}{}{Alright, I am a normal.}
+{129}{}{好吧，我是正常人类。}
+#{130}{Harry_09}{No! Harry know you not. Not like you!}
+{130}{Harry_09}{不！哈里不认识你。不喜欢你！}
+#{131}{Harry_10}{Oh, ok. Harry think what to do.}
+{131}{Harry_10}{哦，好的。哈里想想怎么做。}
+#{132}{Harry_11}{Not like you. Hurt you now. Bad.}
+{132}{Harry_11}{不喜欢你。现在打你。混蛋。}
+#{133}{Harry_12}{Uh, hello, pretty lady. You look real nice.}
+{133}{Harry_12}{呃，喂，漂亮的女士。你看起来真美。}
+#{134}{}{Are you busy? I could use a big, strong man.}
+{134}{}{你很忙吗？我需要一个强壮的大男人。}
+#{135}{}{Move a little closer. I've got something for you.}
+{135}{}{靠近点。我有东西告诉你。}
+#{136}{Harry_13}{Harry gotta guard this place. Gotta stay right here.}
+{136}{Harry_13}{哈里必须守卫这里。必须留在这里。}
+#{137}{}{Ahh, I understand. You have a good day, then.}
+{137}{}{呵呵，我明白。那么再见吧。}
+#{138}{}{That makes me sad.}
+{138}{}{那真让我伤心。}
+#{139}{Harry_14}{Hey, you a normal! Gotta take you to Lou. Now!}
+{139}{Harry_14}{嗨，你是正常人类！现在必须把你带给“老副”！}
+#{140}{}{Please, don't do it. Let me go.}
+{140}{}{请不要这么做。让我走。}
+#{141}{}{Ah, heck with it! Watch these feminine wiles, mutie! . . .}
+{141}{}{啊，见鬼！瞧瞧女性的厉害，变种仔！……}
+#{142}{Harry_15}{Ohhh...Go away quick or Harry be in trouble.}
+{142}{Harry_15}{哦……快滚开，不然哈里就有麻烦了。} 
+#{143}{Harry_16}{OK. Go now. Gotta keep eyes out for humans. Not have
+#time for you.}
+{143}{Harry_16}{好吧，立刻走。我必须盯着外面的人。没时间和你纠缠。}
+#{144}{Harry_17}{What do you have for me?}
+{144}{Harry_17}{你要给我什么？}
+#{145}{}{A whittle smack just for you...}
+{145}{}{给你一个刀削肉尝尝……}
+#{146}{}{A whittle kiss just for you.}
+{146}{}{给你一个吻。}
+#{147}{Harry_18}{You hurt Harry's friends! I...hurt...you!}
+{147}{Harry_18}{你伤害了哈里的朋友！我……杀了……你！}
+#{148}{Harry_19}{Ohhh...You again?  What want now?}
+{148}{Harry_19}{哦……你再说一遍？现在想要什么？}
+#{149}{}{I want you to take me to your superiors.}
+{149}{}{我想要你带我去见你的上司。}
+#{150}{}{Nothing, just passing through.}
+{150}{}{没事，正好路过。}
+#{151}{}{I came back to kick your ass.}
+{151}{}{我回来修理你。}
+#{152}{Harry_20}{Um..OK. Move along then.}
+{152}{Harry_20}{噢……好。你过去吧。}
+#{153}{Harry_21}{Hey, you a normal! You come with Harry!}
+{153}{Harry_21}{嗨，你是正常人！你跟哈里来！}
+#{154}{Harry_22}{Hmm...OK. Take ya to Lou.}
+{154}{Harry_22}{呵呵……好。带你去见“老副”。}
+#{155}{Harry_23}{Ummm...yes. You prime normal.  The Lou will be happy.  Take away, take away.}下面的翻译是故意弄成“原屎”的。增加效果。
+{155}{Harry_23}{嗯……是。你是原屎的正常人。“老副”会高兴的。带走，带走。}
+#{156}{}{Wait, wait! You don't understand.}
+{156}{}{等等，等等！你不明白。}
+#{157}{}{I'll kill you with my bare hands.}
+{157}{}{我用拳头就能杀了你。}
+#{158}{Harry_24}{Not have to. Harry follow orders. Take to the Lou.}
+{158}{Harry_24}{不要这样，哈里执行命令，带你去见“老副”。}
+#{159}{Harry_25}{Harry not think so, but you can try. Let go, guys.}
+{159}{Harry_25}{哈里不这么认为，但是你可以试试。兄弟们，上。}
+#{160}{Harry_26}{Hey, Harry hear about you. You break the Vats!}
+{160}{Harry_26}{嗨，哈里听说过你。你打破了病毒槽！}
+#{161}{}{Yep, I did. And now I'm going to take you out.}
+{161}{}{对，是我干的，现在我要灭了你。}
+#{162}{}{Yes, I'm the one. What are you going to do about it?}
+{162}{}{没错，就是我干的，你想怎的？}
+#{163}{}{Uh-huh.}
+{163}{}{嗯哼。}
+#{164}{Harry_27}{Uhh, me let you go. OK? You not show face here again? Please?}
+{164}{Harry_27}{呃，那我就不难为你了。好吗？你不会再来吧？拜托？}
+#{165}{}{Not good enough.}
+{165}{}{开的条件不够好。}
+#{166}{}{Goodbye. I don't expect to see you again.}
+{166}{}{再见，我还不想看到你嘞。}
+#{167}{}{Uhh.}
+{167}{}{呃。}
+#{168}{Harry200}{Not have to tell you anything!}
+{168}{Harry200}{什么都不能告诉你！}
+#{169}{Harry201}{You kill Larry!}
+{169}{Harry201}{你杀了拉里！}
+#{170}{Harry202}{You kill Gary!}
+{170}{Harry202}{你杀了加里！}
+#{171}{Harry203}{You kill my brother, Barry!}
+{171}{Harry203}{你杀了我的兄弟，巴里！}
+#{172}{Harry204}{You kill Terry!}
+{172}{Harry204}{你杀了泰里！}
+#{173}{Harry205}{You kill Sally! He did have lousy name. But not reason to kill him!}
+{173}{Harry205}{你杀了赛莉！他的名字是恶心了点，但不能因为这就杀了他吧！}
+#{174}{Harry26}{Not bother me. Leave alone!}
+{174}{Harry26}{不要打扰我。走开！}
+#{175}{Harry207}{Uhhh...Not know.}
+{175}{Harry207}{呃……不知道。}
+#{176}{Harry300}{I dunno, but think he like a boss people.}
+{176}{Harry300}{我不知道，但是他好像是个大人物。}
+#{177}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{177}{Harry301}{他是“副官”，我的头儿。别告诉他，要不哈里不好玩的。}
+#{178}{Harry302}{Set a wuss. He think he run place, but we run.}
+{178}{Harry302}{塞特这个蠢货。他觉得是他在管理这个地方，其实是我们在管。}
+#{179}{Harry303}{The what?}
+{179}{Harry303}{什么？}
+#{180}{Harry304}{Hmph! Punies.}
+{180}{Harry304}{哼！下贱货。}
+#{181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{181}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
+#{182}{Harry306}{Here, dummy. 【Sigh】 You stupid?}
+{182}{Harry306}{那就是这里，蠢货。【叹息】你白痴啊？}
+#{183}{Harry307}{The U' U' U' Un, I don't know.}
+{183}{Harry307}{这这这，我不知道。}
+#{184}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+#Make perfect again!}
+{184}{Harry308}{可爱的小家伙。哈里有次受伤了，他们把我弄好了，还把我弄得更好了！}
+#{185}{}{HARRY FIGHT NOW}
+{185}{}{哈里正在战斗}
+#{186}{}{HARRY FIGHT NOW}
+{186}{}{哈里正在战斗}
+#{187}{}{HARRY FIGHT NOW}
+{187}{}{哈里正在战斗}
+#{188}{}{HARRY FIGHT NOW}
+{188}{}{哈里正在战斗}
+#{189}{}{HARRY WAIT 30 SECONDS}
+{189}{}{哈里等候30秒}
+#{190}{}{HARRY LEAVE NOW}
+{190}{}{哈里正在离开}
+#{191}{}{You're not taking me anywhere!}
+{191}{}{你不能带我到任何地方！}
+#{192}{}{Ok, take me to your boss.}
+{192}{}{好，带我去见你的头儿。}
+#{193}{}{The mutant ignores you.}
+{193}{}{变种人不理睬你。}
+
+#
+# Harry Tell-Me-Abouts
+#
+#{970}{Harry_0b}{Whuh?}
+{970}{Harry_0b}{哦？}
+
+#{980}{Harry_0a}{Huh?}
+{980}{Harry_0a}{哦？}
+#{981}{Harry_0b}{Whuh?}
+{981}{Harry_0b}{哦？}
+#{982}{Harry207}{Uhhh...Not know.}
+{982}{Harry207}{呃……不知道。}
+#{983}{Harry303}{The what?}
+{983}{Harry303}{什么？}
+#{984}{Harry200}{Not have to tell you anything!}
+{984}{Harry200}{什么都不能告诉你！}
+
+{1000}{}{Master}
+{1001}{}{Lou}
+{1002}{}{Set}
+{1003}{}{Shed}
+{1004}{}{Ghouls}
+{1005}{}{Norms}
+{1006}{}{Necropolis}
+{1007}{}{Unity}
+{1008}{}{Cathedral}
+{1009}{}{Chip}
+{1010}{}{Hall}
+{1011}{}{Water}
+{1012}{}{Human}
+{1013}{}{Normies}
+{1014}{}{Normals}
+{1015}{}{Children}
+{1016}{}{Children of the Cathedral}
+{1017}{}{Water Shed}
+{1018}{}{Lieutenant}
+{1019}{}{Lutenant}
+{1020}{}{Loo}
+{1021}{}{Lou Tenant}
+{1022}{}{Larry}
+{1023}{}{Barry}
+{1024}{}{Gary}
+{1025}{}{Terry}
+{1026}{}{Sally}
+
+#{1100}{Harry300}{I don't know, but think he like a boss people.}
+{1100}{Harry300}{我不知道，但是他好像是个大人物。}
+#{1101}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1101}{Harry301}{他是“副官”，我的头儿。别告诉他，要不哈里会很不好玩的。}
+#{1102}{Harry302}{Set a wuss. He think he run place, but we run.}
+{1102}{Harry302}{塞特这个蠢货。他觉得是他在管理这个地方，其实是我们在管。}
+#{1103}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1103}{Harry306}{就是这里啊，蠢货。哼。你白痴啊？}
+#{1104}{Harry304}{Hmpf! Punies.}
+{1104}{Harry304}{哼！下贱货。}
+#{1105}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1105}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
+#{1106}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1106}{Harry306}{就是这里，蠢货。哼。你白痴啊？}
+#{1107}{Harry307}{The U-U-U-Un, I don't know.}
+{1107}{Harry307}{这这这，我不知道。}
+#{1108}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+#Make perfect again!}
+{1108}{Harry308}{可爱的小家伙。哈里有次受伤了，他们把我弄好了，还把我弄得更好了！}
+#{1109}{Harry303}{The what?}
+{1109}{Harry303}{什么？}
+#{1110}{Harry207}{Uhhh...Not know.}
+{1110}{Harry207}{呃……不知道。}
+#{1111}{Harry207}{Uhhh...Not know.}
+{1111}{Harry207}{呃……不知道。}
+#{1112}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1112}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
+#{1113}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1113}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
+#{1114}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1114}{Harry305}{很逊。不知道为什么“老副”想要正常人。他们都是废物！}
+#{1115}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+#Make perfect again!}
+{1115}{Harry308}{可爱的小家伙。哈里有次受伤了，他们把我弄好了，还把我弄得更好了！}
+#{1116}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+#Make perfect again!}
+{1116}{Harry308}{可爱的小家伙。哈里有次受伤了，他们把我弄好了，还把我弄得更好了！}
+#{1117}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1117}{Harry306}{就是这里啊，蠢货。哼。你白痴啊？}
+#{1118}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1118}{}{他是“副官”，我的头儿。别告诉他，要不哈里会很不好玩的。}
+#{1119}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1119}{}{他是“副官”，我的头儿。别告诉他，要不哈里会很不好玩的。}
+#{1120}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1120}{}{他是“副官”，我的头儿。别告诉他，要不哈里会很不好玩的。}
+#{1121}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1121}{}{他是“副官”，我的头儿。别告诉他，要不哈里会很不好玩的。}
+#{1122}{Harry200}{Not have to tell you anything!}
+{1122}{Harry200}{什么都不能告诉你！}
+#{1123}{Harry200}{Not have to tell you anything!}
+{1123}{Harry200}{什么都不能告诉你！}
+#{1124}{Harry200}{Not have to tell you anything!}
+{1124}{Harry200}{什么都不能告诉你！}
+#{1125}{Harry200}{Not have to tell you anything!}
+{1125}{Harry200}{什么都不能告诉你！}
+#{1126}{Harry200}{Not have to tell you anything!}
+{1126}{Harry200}{什么都不能告诉你！}

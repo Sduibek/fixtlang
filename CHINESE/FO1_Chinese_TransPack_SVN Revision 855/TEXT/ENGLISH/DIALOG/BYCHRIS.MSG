@@ -1,0 +1,47 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a very beautiful young woman.}
+{100}{}{你看见一个非常漂亮的年轻女子。}
+#{101}{}{You see Christine, Michael's wife.}
+{101}{}{你看见克里斯廷，迈克尔的妻子。}
+#{102}{}{Hello?  Can I help you?}
+{102}{}{你好？我能帮你吗？}
+#{103}{}{Who are you?}
+{103}{}{你是谁？}
+#{104}{}{Who's in charge around here?}
+{104}{}{这里谁主管？}
+#{105}{}{Can you tell me a little bit about the area?}
+{105}{}{你能告诉我一些有关这个地区的情况吗？}
+#{106}{}{No Thanks.}
+{106}{}{不，谢谢。}
+#{107}{}{You my Mommie?}
+{107}{}{你是我的妈咪？}
+#{108}{}{My name is Christine, I live here with my husband Michael.}
+{108}{}{我的名字是克里斯廷，我和我丈夫迈克尔住在这里。}
+#{109}{}{Razor keeps track of most things with the Blades, and helps us organize ourselves.}
+{109}{}{剃刀主管利刃帮的大部分事情，并且把我们团结了起来。}
+#{110}{}{Michael and I just moved here, so I haven't seem much of the area.  I've heard about a large church to the South, but it sounds mostly like rumors.}
+{110}{}{迈克尔和我才来这里，所以我还没搞清这个地区。我听说南边有个大教堂，但这听起来像是谣传。}
+#{111}{}{Is there somthing else I should know?}
+{111}{}{有什么别的事情我应该知道吗？}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any
+#					sense in any other language.
+#
+#{112}{}{C D E D B D Ducks}
+#{113}{}{M R Not Ducks}
+#{114}{}{O S M R                                                                   C D E D B D Wings}
+#{115}{}{Y I B M R Ducks}
+
+{112}{}{克暗置呃西椰鸭子}
+{113}{}{五呃集约德不四鸭子}
+{114}{}{俄偶四得特啊么嗯四得                                                                    客安特阿么嗯德戏要翅膀}
+{115}{}{和敖博啊斯维呢亦 特啊么恩四鸭子}
+
+
+#{116}{}{What else can I help you with?}
+{116}{}{我还能帮你些什么？}
+#{117}{}{No I'm not your Mommie.  Now run along and play.}
+{117}{}{不，我不是你的妈咪。现在走开，自己玩吧。}

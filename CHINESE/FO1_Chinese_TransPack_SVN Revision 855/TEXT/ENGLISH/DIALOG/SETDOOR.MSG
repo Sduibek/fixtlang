@@ -1,0 +1,39 @@
+
+#{100}{}{You see a solid wall.}
+{100}{}{你看见一堵结实的墙。}
+#{101}{}{Something seems odd about this bit of wall.}
+{101}{}{墙上的这一块看上去很奇怪。}
+#{102}{}{You see a sliding door.}
+{102}{}{你看见一扇拉门。}
+#{103}{}{The door is locked.}
+{103}{}{门锁着。}
+#{104}{}{You set off the trap on the door.}
+{104}{}{你引爆了门上的陷阱。}
+#{105}{}{ detects a trap on this door.}
+{105}{}{ 探测出这门上的一个陷阱。}
+#{106}{}{You detect a trap on this door.}
+{106}{}{你探测出这门上的一个陷阱。}
+#{107}{}{That does nothing.}
+{107}{}{什么也没发生。}
+#{108}{}{The door is already unlocked.}
+{108}{}{门锁已经开了。}
+#{109}{}{You break your picks on this difficult lock.}
+{109}{}{碰上这个困难的锁，你弄坏了你的撬锁工具。}
+#{110}{}{You fail to pick this lock.}
+{110}{}{你没能撬开这锁。}
+#{111}{}{You pick the lock on the door.}
+{111}{}{你撬开了门上的锁。}
+#{112}{}{This lock is too difficult for you to pick at this time.}
+{112}{}{这锁太难了，当下你撬不开。}
+#{113}{}{You notice a highly explosive trap on this locked door.}
+{113}{}{你注意到这扇锁着的门上的一个高度易爆陷阱。}
+#{114}{}{You notice a highly explosive trap on this door.}
+{114}{}{你注意到这扇门上的一个高度易爆陷阱。}
+#{115}{}{You notice a trap on this locked door.}
+{115}{}{你注意到这扇锁着的门上的一个陷阱。}
+#{116}{}{You notice a trap on this door.}
+{116}{}{你注意到这扇门上的一个陷阱。}
+#{117}{}{You see nothing special about this locked door.}
+{117}{}{你没看见这扇锁着的门上有什么特殊的。}
+#{118}{}{You see nothing special about this door.}
+{118}{}{你没看见这扇门上有什么特殊的。}

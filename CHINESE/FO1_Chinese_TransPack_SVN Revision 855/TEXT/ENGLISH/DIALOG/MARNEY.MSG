@@ -1,0 +1,58 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Dr. Solone, M.D.}
+#{101}{}{You see Nurse Marney.}
+#{102}{}{You see a doctor.}
+#{103}{}{You see a nurse.}
+#{104}{}{Welcome. How might I help you today?}
+#{105}{}{Hurrgh.}
+#{106}{}{I'm hurt. Can you fix me up?}
+#{107}{}{Can you teach me about medicine?}
+#{108}{}{Yes, I see that you are suffering from some damage. This may take some time. Would you like me to try to mend your wounds?}
+#{109}{}{Uh huh.}
+#{110}{}{Nuh uh.}
+#{111}{}{Yes, please.}
+#{112}{}{No, thank you.}
+#{113}{}{There you go. That should have you all set. Please be more careful out there.}
+#{114}{}{You're good at that. Can you teach me about trauma care?}
+#{115}{}{Okay. Thank you.}
+#{116}{}{I can teach you a little. But it will take several hours. Are you willing to stay?}
+#{117}{}{Yes.}
+#{118}{}{Sorry, too busy.}
+#{119}{}{You are a very good student. I hope you remain on our side. Good bye.}
+#{120}{}{As you wish. Good luck out there.}
+#{121}{}{I can teach you a little, but not much. It will take some time. Are you willing to stay?}
+#{122}{}{Yes.}
+#{123}{}{I'm sorry, but I lack extra time.}
+#{124}{}{You are an excellent student. Good luck to you.}
+#{125}{}{Nothing right now. Thanks though.}
+
+{100}{}{你看见医学博士索罗。}
+{101}{}{你看见护士玛妮。}
+{102}{}{你看见一个医生。}
+{103}{}{你看见一个护士。}
+{104}{}{欢迎光临。今天我能为你做些什么？}
+{105}{}{哈。}
+{106}{}{我受伤了。你能帮我看看吗？}
+{107}{}{你能教我医术吗？}
+{108}{}{是的，我看你是受伤了。这可能要花些时间。要不我试试帮你治疗一下？}
+{109}{}{呃哼。}
+{110}{}{呃嗯。}
+{111}{}{好的，请。}
+{112}{}{不，谢谢你。}
+{113}{}{好了，你的身体没问题，你可以走了，多保重。}
+{114}{}{你对那很在行。你能教我创伤急救吗？}
+{115}{}{好。谢谢你。}
+{116}{}{我可以大略给你指点些，但也要好几个小时。你有时间吗？}
+{117}{}{好的。}
+{118}{}{抱歉，我实在太忙了。}
+{119}{}{你是个非常优秀的学生。核战后的世纪最重要的是什么？人才！如果我们能有你这样的人才多好啊！再见。}
+{120}{}{如你所愿。祝你好运。}
+{121}{}{我的确能教你点，但是不会很多。要花一些时间。你愿意吗？}
+{122}{}{好的。}
+{123}{}{对不起，我没时间空闲。}
+{124}{}{你是个优秀的学生。祝你好运。}
+{125}{}{现在没什么事儿了。多谢。}
+
+

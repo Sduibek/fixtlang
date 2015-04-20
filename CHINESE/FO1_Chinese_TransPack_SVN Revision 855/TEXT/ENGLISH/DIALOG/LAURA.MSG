@@ -1,0 +1,697 @@
+#{100}{}{You see Laura.}
+{100}{}{你看到劳拉。}
+
+#{102}{laura0m}{Hello, my brother. May I be of service this glorious day?}
+{102}{laura0m}{嗨，兄弟。在这美好的一天需要我的服务吗？}
+
+#{104}{laura0f}{Hello, my sister. May I be of service this glorious day?}
+{104}{laura0f}{嗨，姐妹。在这美好的一天需要我的服务吗？}
+
+#{105}{}{Are you Laura?}
+{105}{}{你是劳拉吗？}
+
+#{106}{}{Can I ask you a few questions about the Children?}
+{106}{}{我能问你一点关于大教堂教徒的问题吗？}
+
+#{107}{}{What kind of "services" do you offer?}
+{107}{}{你能提供什么样的“服务”？}
+
+#{108}{}{Mom?}
+{108}{}{妈妈？}
+
+#{110}{laura01a}{That's very sweet of you, but no, I'm not.
+# I'm sure you can find her somewhere else.}
+{110}{laura01a}{你真的很可爱，但我不是你的妈妈哦。我相信你一定能在别的地方找到她。}
+
+#{112}{laura2}{I most certainly am.  Did you want something?}
+{112}{laura2}{我就是劳拉。你需要什么吗？}
+
+#{113}{}{Nicole sent me to talk to you.}
+{113}{}{妮可尔让我来找你。}
+
+#{114}{}{Uh . . . no. Never mind.}
+{114}{}{啊……不。没关系。}
+
+#{116}{laura3}{Nicole? I'm so sorry. I don't believe I know anyone by that name.}
+{116}{laura3}{妮可尔？很抱歉。我想我不认识叫这个名字的人。}
+
+#{117}{}{Well, she told me to tell you 'Red Rider'.}
+{117}{}{哦，她让我对你说“红骑士”。}
+
+#{118}{}{Sure you do! She sent me!}
+{118}{}{你当然认识！她派我过来的！}
+
+#{120}{laura4}{I'm sorry. I . . . I just don't know.
+# Follow me to a place where we can talk.}
+{120}{laura4}{对不起。我……我真的不知道。跟我到个咱们能说话的地方去。}
+
+#{122}{laura9}{I'm terribly sorry for your inconvenience. I hope it doesn't upset you.}
+{122}{laura9}{恕我怠慢。希望你不要介意。}
+
+#{124}{laura10}{Are you . . . certain? Uh . . . excuse my curiosity,
+# but you seemed to be looking specifically for me.}
+{124}{laura10}{你……确定吗？啊……请别介意我的好奇，但是你好像就是在找我。}
+
+#{125}{}{Well, Nicole sent me.}
+{125}{}{喔，妮可尔派我来的。}
+
+#{126}{}{Just heard about you and wanted to see what you looked like.}
+{126}{}{只是听说过你，想来看看你长得什么模样。}
+
+#{128}{laura11}{I . . . I'm sorry, but that sort of attention
+# makes me a little nervous. Don't know why,
+# it's silly of me, I know. Well, enjoy your walk.}
+{128}{laura11}{我……对不起，这种关心有点让我紧张。不知道为什么，我真傻，我知道。哎，你走好。}
+
+#{130}{laura14}{Oh, I'm hardly an authority. You should see Morpheus,
+# the High Priest. I'm sure he can help you much more than I.}
+{130}{laura14}{啊，我还算不上是权威。你应该去找神父墨菲斯。我确定他能比我更能帮你。}
+
+#{132}{laura15}{But I only meant . . . oh . . . I have to go now.}
+{132}{laura15}{可我的意思是……呃……我要走了。}
+
+#{134}{laura16g}{Well, hello again! Are you just walking or may I help?}
+{134}{laura16g}{啊，又见面了！你是顺路来看看我呢，还是需要我的帮忙呢？}
+
+#{136}{laura16b}{Is there . . . something I can help you with?}
+{136}{laura16b}{有什么我可以帮你的吗？}
+
+#{137}{}{Are you Laura?}
+{137}{}{你是劳拉吗？}
+
+#{138}{}{Can I ask you a few questions about the Children?}
+{138}{}{我能问你一点关于大教堂教徒的问题吗？}
+
+#{139}{}{Nothing, thanks.}
+{139}{}{没事，谢谢。}
+
+#{140}{}{Uh, Mom?}
+{140}{}{啊，妈妈？}
+
+#{142}{laura16a}{No. We already talked about this. You'll have to go
+# somewhere else my friend.}
+{142}{laura16a}{不。我们已经谈论过这个了。你应该到别的地方去问，我的朋友。}
+
+#{144}{laura21}{Oh . . . I'm glad you found me. Nicole sent a list with the
+# information I was supposed to find.}
+{144}{laura21}{噢……很高兴你找到了我。妮可尔给了我一个列表，要我按照这个表获取情报。}
+
+#{145}{}{So what did you get?}
+{145}{}{那你找到什么了？}
+
+#{147}{laura22}{Um.  There's so much I'm just . . . I'm not sure what
+# you need or where to start. Is there
+# something in particular you want to know about?}
+{147}{laura22}{嗯。内容很多……我不知道你需要什么方面的，也不知道你的行动计划。你具体想知道什么呢？}
+
+#{148}{}{Is there a secret entrance into the Inner Sanctum of the Church?}
+{148}{}{有没有暗道通向教堂的内殿？}
+
+#{149}{}{What have you learned about The Master?}
+{149}{}{你调查到主教的什么了？}
+
+#{150}{}{What are the Children's plans?}
+{150}{}{大教堂的图谋是什么？}
+
+#{151}{}{What's a nice girl like you doing in a place like this?}
+{151}{}{象你这么漂亮的女孩在这种地方做什么呢？}
+
+#{152}{}{Nothing more, thanks.}
+{152}{}{没别的事了。谢谢。}
+
+#{154}{laura24}{It's not the Inner Sanctum you want to enter.}
+{154}{laura24}{你要去的不是内殿。}
+
+#{155}{}{Then what?}
+{155}{}{那是什么？}
+
+#{157}{laura25}{I followed Morpheus down a back secret staircase.
+# The guy activates a secret door at the bottom.}
+{157}{laura25}{我跟踪了墨菲斯走下一个秘密的楼梯，那家伙启动了地下室尽头的一扇密门。}
+
+#{158}{}{Then what?}
+{158}{}{然后呢？}
+
+#{159}{}{Can you show me this door?}
+{159}{}{你能带我去看看那扇门吗？}
+
+#{161}{laura26}{He uses this strange key to open it and
+# disappears. I've never tried to follow him.}
+{161}{laura26}{他用了一把奇怪的钥匙开了门然后就消失了。我没敢继续跟踪。}
+
+#{162}{}{Do you know where this key is?}
+{162}{}{你知道那钥匙在哪里吗？}
+
+#{163}{}{Why not?}
+{163}{}{为什么不敢？}
+
+#{165}{laura27}{Well, I'd say he keeps it on him.}
+{165}{laura27}{啊，我想他应该随身带着。}
+
+#{166}{}{Will you show me the door now?}
+{166}{}{你现在能带我去那扇门吗？}
+
+#{168}{laura28a}{Well, of course.}
+{168}{laura28a}{哦，当然。}
+
+#{169}{}{Great. Let's go.}
+{169}{}{好极了。我们走。}
+
+#{170}{}{Can I ask you a few more questions first?}
+{170}{}{我能先问你点别的问题吗？}
+
+#{172}{laura29}{Follow me.}
+{172}{laura29}{跟我来。}
+
+#{174}{laura30a}{Okay, but we have to hurry.}
+{174}{laura30a}{好的，但我们要抓紧时间了。}
+
+#{176}{laura30b}{Oh, make it quick.}
+{176}{laura30b}{噢，快点。}
+
+#{178}{laura31}{Believe me, if you've seen the Nightkin,
+# you'd know why. Unless you're stupid.}
+{178}{laura31}{相信我，如果你看到“夜行团”，你就知道为什么我不敢跟了。除非你是笨蛋。}
+
+#{179}{}{Maybe I am, but I'm not scared.}
+{179}{}{也许我笨，但我不会害怕。}
+
+#{180}{}{I can understand that. Can we get back to the questions?}
+{180}{}{我可以理解。我再问个问题好吗？}
+
+#{182}{laura32}{Oh, I see that's real funny. Lookit, I'm in the
+# middle of this day in and day out.
+# You have a problem with how I do this,
+# you just keep it to yourself. Ya got it?}
+{182}{laura32}{啊，这个真可笑。听着，我一天到晚在这里进进出出。你如果想问我怎么做到的，那是你自己的事情，懂了吗？}
+
+#{183}{}{What are you going to do, whine some more?}
+{183}{}{你想怎么样，哭鼻子？撒撒娇？}
+
+#{184}{}{If that's how you want it.}
+{184}{}{随你。}
+
+#{185}{}{You're right, I'm sorry. How about we get back to business?}
+{185}{}{你是对的，我失礼了。我们回到正事上来好吗？}
+
+#{187}{laura33}{Uh, not much. The Children worship him, and sometimes
+# a huge vision of him appears in the main nave of the church.}
+{187}{laura33}{嗯，我知道的不多。那些教徒非常崇拜他，有时教堂大殿里会出现他的巨型幻像。}
+
+#{188}{}{So he's real?}
+{188}{}{那么他是真的存在了？}
+
+#{189}{}{Sounds scary.}
+{189}{}{听起来很可怕。}
+
+#{191}{laura34}{Yes and no. I snuck up to the front one day
+# and found a strange mechanical device with a lens under the altar.}
+{191}{laura34}{说不准。有天我偷偷发现在大殿圣坛下面藏着一套带有镜片的机械设备。}
+
+#{192}{}{Probably a holo-projector of some kind.}
+{192}{}{可能是某种全息投影机。}
+
+#{193}{}{So?}
+{193}{}{所以？}
+
+#{195}{laura35}{Huh . . . believe me, it was at first, but then I
+# snuck up and looked at the alter when nobody was
+# looking. And there's a device underneath with
+# wires and a big lens.}
+{195}{laura35}{呃……我也一开始吓了一跳呢，后来你猜怎么着，在没人注意的时候，我偷偷溜到圣坛。那下面藏着一个带着电线和镜片的装置。}
+
+#{196}{}{Probably a holo-projector of some kind.}
+{196}{}{可能是某种全息投影机。}
+
+#{197}{}{So?}
+{197}{}{所以？}
+
+#{199}{laura36}{So I'm pretty sure this Master is flesh and blood.
+# And I also think I know where he is.}
+{199}{laura36}{所以我敢肯定，主教也是有血有肉的凡胎。并且我也知道他在哪里。}
+
+#{200}{}{Where?}
+{200}{}{在哪？}
+
+#{202}{laura37}{Every once in a while, Morpheus will go through a
+# secret staircase leading below the Church. And he
+# enters a secret door with some kind of key. I think
+# the Master is down there.}
+{202}{laura37}{每隔一段时间，墨菲斯都会走下大殿后面的秘密楼梯进到地下室，用钥匙打开一扇密门。我想主教就在那里面。}
+
+#{203}{}{Can you show me this staircase right now?}
+{203}{}{你现在可以带我去这个楼梯吗？}
+
+#{204}{}{Do you know where this key is?}
+{204}{}{你知道钥匙在哪？}
+
+#{206}{laura38}{Now that's scary. Morpheus is preaching that the
+# earth should be 'purged of the infidels,' and
+# other crap like that. I think they're planning
+# to take over everything!}
+{206}{laura38}{这才可怕呢。墨菲斯鼓吹说要在全世界“清除异端”，一个劲宣扬他的歪理邪说。我想他们是想统治万物！}
+
+#{207}{}{Can they do it?}
+{207}{}{他们有这个能力吗？}
+
+#{208}{}{What's their first target?}
+{208}{}{他们的第一个目标是什么？}
+
+#{210}{laura39}{Now you know, it could be. I mean, they have
+# enough members, and the different hospitals
+# in the towns are stocked full of weapons and explosives.}
+{210}{laura39}{你现在可能也看到了，他们的确有这个能力。我指的是，他们有足够的教徒，各个城市的医院都囤积着大量的武器和炸药。}
+
+#{211}{}{We must tell the Followers.}
+{211}{}{我们应该通知末世论者。}
+
+#{212}{}{What are you going to do?}
+{212}{}{你有什么计划？}
+
+#{214}{laura40}{I was planning on it. In fact, after we're done,
+# I'm heading over there.}
+{214}{laura40}{我也是这么想的。这次我帮你办完事，我就回去汇报。}
+
+#{215}{}{One quick question?}
+{215}{}{我还有一个小问题。}
+
+#{216}{}{I'll let you go then.}
+{216}{}{那你快去吧。}
+
+#{218}{laura41}{Okay. Good luck!}
+{218}{laura41}{好的。好运！}
+
+#{220}{laura42}{Well, I'm going to go warn Nicole.
+# And hopefully, the Followers can send help to the other towns.}
+{220}{laura42}{啊，我要去通知妮可尔。末世论者可以再团结其它城市。}
+
+#{221}{}{I'd like to ask a few more questions first.}
+{221}{}{我想先问些别的问题。}
+
+#{222}{}{Okay, I'll let you go then.}
+{222}{}{好的。你去吧。}
+
+#{224}{laura43}{Adytum, that town doesn't have a chance in hell.}
+{224}{laura43}{内城区，那个地方真是万劫不复了。}
+
+#{225}{}{What about the Followers?}
+{225}{}{末世论者怎么样？}
+
+#{226}{}{Can I help Adytum?}
+{226}{}{我能帮助内城区吗？}
+
+#{228}{laura44}{The Children don't think we're enough of a threat.
+# We'll show 'em.}
+{228}{laura44}{教徒们以为我们不会有足够的力量威胁到他们。我们会让他们知道的。}
+
+#{229}{}{Good. What do you plan to do?}
+{229}{}{好。你计划做什么？}
+
+#{230}{}{Can I help Adytum in any way?}
+{230}{}{我能帮内城区任何忙吗？}
+
+#{232}{laura45}{Yeah, you can help 'em by getting to the Master. 'Bite the
+# head off the snake and it won't coil around you,' as my grandmother used
+# to say. She was kind of a handful.}
+{232}{laura45}{可以，拯救内城区最好的办法就是找到主教。我祖母常说：“打蛇打七寸”，她很有见地哦。}
+
+#{233}{}{How do I get to him?}
+{233}{}{我该怎么接近主教？}
+
+#{234}{}{Sound it. I need some more answers before you go.}
+{234}{}{听起来是。在你走前我有些别的问题。}
+
+#{235}{}{I'm on my way.}
+{235}{}{我走了。}
+
+#{237}{laura46}{They plan to take over all the towns!}
+{237}{laura46}{他们计划控制所有城市！}
+
+#{238}{}{Which ones?}
+{238}{}{哪个？}
+
+#{240}{laura47}{Adytum's already fallen. The Hub is next.}
+{240}{laura47}{内城区已经沦陷了。哈勃城是下一个。}
+
+#{241}{}{What're the Followers doing during this?}
+{241}{}{这期间末世论者在做什么？}
+
+#{242}{}{Damn. What can I do?}
+{242}{}{可恶。我能做什么？}
+
+#{244}{laura48}{We sent a group to help Adytum,
+# and they were all wiped out. Nicole sent another
+# one to the Hub. I just hope they get there in time.}
+{244}{laura48}{我们派了一队人去支援内城区，他们都牺牲了。妮可尔派出了另一队去哈勃城了，我只希望他们能及时到达。}
+
+#{245}{}{Damn. What can I do?}
+{245}{}{该死。我能做什么？}
+
+#{247}{laura49}{They've already taken out the Hub and Adytum!
+# I think the Followers are next, so we're preparing our defense.}
+{247}{laura49}{他们已经拿下了哈勃城和内城区！我想末世论就是下一个，所以我们在准备防御。}
+
+#{248}{}{Why are you here then?}
+{248}{}{你为什么还在这？}
+
+#{249}{}{What can I do?}
+{249}{}{我能做什么？}
+
+#{251}{laura50}{I'm here to keep an eye on the Children.}
+{251}{laura50}{我在这里监视着教徒们。}
+
+#{252}{}{What can I do?}
+{252}{}{我能做什么？}
+
+#{254}{laura51}{The Children are setting up hospitals all over the place.
+# Hmpf. I think they're trying to get people to trust them.}
+{254}{laura51}{教徒们在所有的地方建起了医院。哼。我想他们想获得人们的信任。}
+
+#{255}{}{Is it working?}
+{255}{}{这招管用吗？}
+
+#{256}{}{Is there anyway to stop them?}
+{256}{}{有什么办法阻止他们？}
+
+#{257}{}{That's the stupidest thing I ever heard!}
+{257}{}{这是我听说过的最蠢的事！}
+
+#{259}{laura52}{Ah, it sure looks that way. I mean, people are flocking to their
+# Church. Can't they see it's a fake?}
+{259}{laura52}{啊，看上去确实管用。我的意思是，人们对大教堂趋之若鹜。真可怜，他们难道看不出这是骗局吗？}
+
+#{260}{}{You sure it is?}
+{260}{}{你确定这是骗局？}
+
+#{261}{}{How can I stop them?}
+{261}{}{我该怎么阻止他们？}
+
+#{263}{laura53}{For one thing, people seem to disappear a lot
+# around here, while the number of Nightkin are slowly growing.}
+{263}{laura53}{想通这一点就会明白的：附近的人失踪了很多。同时“夜行团”的数量在大大增加。}
+
+#{264}{}{Why?}
+{264}{}{为什么？}
+
+#{265}{}{Doesn't look good. But I need more answers before I act.}
+{265}{}{看起来不妙。但在行动之前我需要更多的答案。}
+
+#{267}{laura54}{I don't know. That's what you're here to find out, right?}
+{267}{laura54}{我不知道。这就是你在这里要调查的，是吗？}
+
+#{269}{laura55}{Find the Master and stop him!}
+{269}{laura55}{找到主教，阻止他！}
+
+#{270}{}{What have you found out about this Master?}
+{270}{}{关于主教，你知道些什么？}
+
+#{271}{}{I will.}
+{271}{}{我会的。}
+
+#{273}{laura56}{Huh, I sure as hell hope so. Now, any more questions? }
+{273}{laura56}{啊，但愿如此。现在还有问题吗？}
+
+#{275}{laura57}{Actually, it's a good way to manipulate people,
+# and this Master is damn good at it.}
+{275}{laura57}{实际上，这是个操控人心的好办法，主教非常擅长这招。}
+
+#{276}{}{No, I meant that's the stupidest thing I've heard from you.
+# You're paranoid, aren't you?}
+{276}{}{不，我的意思是这是我从你嘴里听到的最愚蠢的话。你是个妄想狂,不是吗？}
+
+#{277}{}{Well, I'll stop him.}
+{277}{}{好，我去阻止他。}
+
+#{278}{}{How can I stop this?}
+{278}{}{我该怎么阻止这个？}
+
+#{280}{laura58}{Excuse me?}
+{280}{laura58}{你说什么？}
+
+#{281}{}{You heard me.}
+{281}{}{你听到了啊。}
+
+#{282}{}{Never mind.}
+{282}{}{没事。}
+
+#{284}{laura59}{Okay then. Good luck!}
+{284}{laura59}{那好吧。你好运！}
+
+#{286}{laura60}{Uh heh . . . Waiting desperately for someone to
+# use that pathetic line on me.}
+{286}{laura60}{哦呵呵……绝望的等着某人向我说出那个可悲的暗号。}
+
+#{288}{laura61a}{So, what can I do for you now?}
+{288}{laura61a}{那么，现在我能为你做什么？}
+
+#{290}{laura61b}{Oh, what now?}
+{290}{laura61b}{噢，什么事？}
+
+#{291}{}{I need to ask you a few more questions.}
+{291}{}{我需要问你些别的问题。}
+
+#{292}{}{Nothing, thanks.}
+{292}{}{没事。谢谢了。}
+
+#{294}{laura62}{What are you doing? Put that down!}
+{294}{laura62}{你在做什么？把武器放下来！}
+
+#{296}{laura63}{Hey! Get out of here!}
+{296}{laura63}{嘿！滚出这里！}
+
+#{297}{}{Or else what?}
+{297}{}{否则呢？}
+
+#{298}{}{Sorry, I'll go now.}
+{298}{}{对不起，我要走了。}
+
+#{300}{laura64}{Stop that!}
+{300}{laura64}{停下！}
+
+#{302}{laura65}{What . . . what are you doing in here? You need to leave!}
+{302}{laura65}{你……你在这里做什么？你快出去！}
+
+#{303}{}{No, you get out!}
+{303}{}{不，你滚出去！}
+
+#{304}{}{Okay, I'll go.}
+{304}{}{好的，我这就走。}
+
+#{306}{laura67}{Uh . . . I'm not sure about that. Go talk to Nicole.}
+{306}{laura67}{啊……我对这不太确定。去和妮可尔谈谈。}
+
+#{308}{laura67a}{I'm not sure about that. Go talk to a High Priest.}
+{308}{laura67a}{我对这不太确定。去和高级牧师谈谈。}
+
+#{309}{}{Well, as I said . . .}
+{309}{}{哦，就像我说的……}
+
+#{310}{}{I said . . .}
+{310}{}{我说……}
+
+#{311}{}{Well, as I said before . . .}
+{311}{}{哦，就像我以前说的……}
+
+#{312}{}{As I said before . . .}
+{312}{}{就像我以前说的……}
+
+#{313}{}{Well, I'm quite certain I told you this already, but . . .}
+{313}{}{哦，我很确定我已经告诉过你了，但是……}
+
+#{314}{}{Okay! I already told you this . . .}
+{314}{}{好的！我已经告诉过你了……}
+
+#{315}{}{Ah, once more? Well, I said . . .}
+{315}{}{啊，再一次？哦，我说……}
+
+#{316}{}{Again? I already said this . . .}
+{316}{}{重复？我已经说过这个了……}
+
+#{317}{}{Oh dear, this is most disturbing. I simply will not say it again.}
+{317}{}{噢，老天，这真烦人。我再也不想说了。}
+
+#{318}{}{Are you . . . Okay! Okay! Are you deaf?
+# Read my lips, I'm not gonna to say this again.}
+{318}{}{你……好！好！你聋了是吧？看看我的口型，读读唇语，我再也不想重复这个了。}
+
+#{319}{}{I believe that's quite enough. I'll not say it again.}
+{319}{}{我想这已经够了。我再也不想重复了。}
+
+#{320}{}{Not listening, huh?  Too bad, I'm not gonna say it again.}
+{320}{}{没有听，是吧？太糟了，我再也不想重复。}
+
+#{321}{}{Oh, those are dreadful people. I'm not going to talk about them at all!}
+{321}{}{噢，他们是讨厌的人。我再也不想说他们的事了！}
+
+#{322}{}{Nicole probably told you about us.
+# We're trying to knock some sense into those
+# thick-skulled, gun-toting, violence-mongering nitwits
+# . . . Oh, present company excepted, of course.}
+{322}{}{妮可尔可能已经告诉你关于我们的事了。我们试着把一些理性塞到那些迟钝的、持枪的、暴力的傻子脑袋里面。当然，我们自己除外。}
+
+#{323}{}{Well, I don't know who you're talking about.}
+{323}{}{哦，我不知道你在说什么。}
+
+#{324}{}{She leads the Followers. Pretty strong-willed. I trust her.}
+{324}{}{她领导着末世论者，很坚强。我相信她。}
+
+#{325}{}{The others are all so nice! It's wonderful here.
+# We belong, we do good work . . .}
+{325}{}{他们人都很好！在这里很奇妙。我们很有归属感，行侠仗义……}
+
+#{326}{}{Oh, they're like a . . . blight on the world. Most
+# are a waste and a few are just plain evil.}
+{326}{}{噢，他们像这个世界的枯萎病。大多数是些废物，少数是单纯的邪恶。}
+
+#{327}{}{Adytum, isn't that a town west of here?}
+{327}{}{内城区，不是西边的那个城镇吗？}
+
+#{328}{}{Adytum's a bit west from here. And the people there
+# . . . well, they're a little paranoid, so don't
+# expect a hospitable welcome.}
+{328}{}{内城区，在这的西边。而且那里的人……哎，他们有点偏执狂，所以不要指望有热情的欢迎。}
+
+#{329}{}{Oh, he's wonderful. He leads us. You should talk to him!}
+{329}{}{哦，他太棒了。他领导着我们。你应该和他谈谈！}
+
+#{330}{}{He preaches peace and enlightenment and all that crap,
+# but he's scum. No two ways about it.}
+{330}{}{他总鼓吹和平、启蒙等等的废话。他是个渣滓，无可救药。}
+
+#{331}{}{Oh, I can't begin to describe him. Morpheus leads us.
+# He can do justice to your question.}
+{331}{}{哦，我不能形容他。墨菲斯领导我们。能帮你答疑解惑。}
+
+#{332}{}{Ah yes, the Master, he's the god these nuts worship. Personally, I
+# don't think he's a god, just somebody into manipulating everyone.}
+{332}{}{啊是的，主教，他是这些傻瓜崇拜的神。就我个人来说，我不认为他是个神，只是操控人群的某个人。}
+
+#{333}{}{Nightkin? I don't know what you're talking about.}
+{333}{}{夜行团？我不知道你在说什么。}
+
+#{334}{}{They're the big, ugly enforcers of the Master
+# and Morpheus.}
+{334}{}{他们是主教和墨菲斯手下又大、又丑的执行者。}
+
+#{335}{}{The what?}
+{335}{}{什么？}
+
+#{336}{}{What, you couldn't figure out that's the Master?}
+{336}{}{什么，你弄不明白？这就是主教。}
+
+#{337}{}{It's the big place at the north end of the church,
+# where Morpheus does all his ceremonies. I've been there,
+# it's wonderful!}
+{337}{}{是教堂北端的一个大地方，墨菲斯在那举行所有的仪式。我去过那，太奇妙了！}
+
+#{338}{}{It's at the north end of the church.
+# I've watched Morpheus perform his little circus act there.}
+{338}{}{是教堂北端的一个大地方，我看见过墨菲斯在那做他的小把戏。}
+
+#{339}{}{Oh, you cannot go there. That's where Morpheus contemplates.}
+{339}{}{噢，你不能过去。那是墨菲斯冥想的地方。}
+
+#{340}{}{That's where Morpheus and his cronies hang out.
+# No one's allowed up there, though.}
+{340}{}{那是墨菲斯和他的亲信在的地方。而其他人不允许出现。}
+
+#{341}{}{They have proven themselves to the Church. The rest of us aspire to that.}
+{341}{}{他们向教堂证明自己的忠心。我们其他人也在努力去做。}
+
+#{342}{}{Oh yeah, these are the guys who've survived torture and who
+# knows what else. Totally brainwashed and will do
+# anything they're told.}
+{342}{}{噢耶，那些是折磨之后幸存下来、只知道他们应该知道的东西的可怜虫们。完全被洗脑了，给他们命令，就愿意做任何事。}
+
+#{343}{}{They are the high priests.}
+{343}{}{他们是高级祭司。}
+
+#{344}{}{Ah, those are the high priests. So far I think there's only 13, but I'm not really sure.}
+{344}{}{啊，那些是高级祭司。目前为止，我想他们只有13人，但是我不确定。}
+
+#{345}{}{That's not important.}
+{345}{}{这不重要。}
+
+#{346}{}{That's not important.}
+{346}{}{这不重要。}
+
+#{347}{}{I'm sorry. I simply don't have time for this.}
+{347}{}{对不起，我没有时间说这些了。}
+
+#{348}{}{We don't have time to talk about that! Just keep to business.}
+{348}{}{我们没时间说这些了！赶快做正事！}
+
+#{349}{}{I'm not sure why you want to talk about that.}
+{349}{}{我不确定为什么你想谈这个。}
+
+#{350}{}{Keep to the subject at hand, friend.}
+{350}{}{先把手头的事情做好，朋友。}
+
+
+
+
+
+#
+# Laura Tell-Me-Abouts
+#
+
+
+{1000}{}{Followers}
+{1001}{}{Nicole}
+{1002}{}{Cathedral}
+{1003}{}{Morpheus}
+{1004}{}{Master}
+{1005}{}{Nightkin}
+{1006}{}{Dark}
+{1007}{}{Auditorium}
+{1008}{}{Sanctum}
+{1009}{}{Servitors}
+{1010}{}{Order}
+{1011}{}{Apocalypse}
+{1012}{}{God}
+{1013}{}{Mutants}
+
+#{1100}{laura74}{Oh, those are dreadful people. I'm not going to talk about them at all!}
+{1100}{laura74}{噢，他们是讨厌的人。我再也不想说他们的事了！}
+
+#{1101}{laura75}{Well, I don't know who you're talking about.}
+{1101}{laura75}{哦，我不知道你在说什么。}
+
+#{1102}{laura76a}{The others are all so nice! It's wonderful here.  We belong, we do good work . . .}
+{1102}{laura76a}{他们人都很好！在这里很奇妙。我们很有归属感，行侠仗义……}
+
+#{1103}{laura78}{Oh, he's wonderful. He leads us. You should talk to him!}
+{1103}{laura78}{哦，他太棒了。他领导着我们。你应该和他谈谈！}
+
+#{1104}{laura79}{Oh, I can't begin to describe him. Morpheus leads us.
+# He can do justice to your question.}
+{1104}{laura79}{哦，我不能形容他。墨菲斯领导我们。能帮你答疑解惑。}
+
+#{1105}{laura80}{Nightkin? I don't know what you're talking about.}
+{1105}{laura80}{夜行团？我不知道你在说什么。}
+
+#{1106}{laura81}{The what?}
+{1106}{laura81}{什么？}
+
+#{1107}{laura82}{It's the big place at the north end of the church,
+# where Morpheus does all his ceremonies. I've been there, it's wonderful!}
+{1107}{laura82}{是教堂北端的一个大地方，墨菲斯在那举行所有的仪式。我去过那，太奇妙了！}
+
+#{1108}{laura83}{Oh, you cannot go there. That's where Morpheus contemplates.}
+{1108}{laura83}{噢，你不能过去。那是墨菲斯冥想的地方。}
+
+#{1109}{laura84}{They have proven themselves to the Church. The rest of us aspire to that.}
+{1109}{laura84}{他们向教堂证明自己的忠心。我们其他人也在努力去做。}
+
+#{1110}{laura85}{They are the high priests.}
+{1110}{laura85}{他们是高级祭司。}
+
+#{1111}{laura74}{Oh, those are dreadful people. I'm not going to talk about them at all!}
+{1111}{laura74}{噢，他们是讨厌的人。我再也不想说他们的事了}
+
+#{1112}{laura81}{The what?}
+{1112}{laura81}{什么？}
+
+#{1113}{laura80}{Nightkin? I don't know what you're talking about.}
+{1113}{laura80}{夜行团？我不知道你在说什么。}
+

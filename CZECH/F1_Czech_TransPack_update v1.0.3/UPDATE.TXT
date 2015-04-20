@@ -1,0 +1,33 @@
+FALLOUT CZ update v.1.0.3
+
+Instalace
+Rozbalte do adresáøe, kde je Fallout nainstalován, a pøepište všechny soubory.
+
+Co update opravuje?
+v1.03
+Odpovìdi strážnému Pahorkù v noci
+Úpravy v dialogu Loxleye
+Popis cesty k Beth od Far Go Traders
+Nelogické "Nevadí" ve spoustì dialogù
+"Jsi vítán" u Taluse
+Další drobné úpravy
+
+v1.02
+Odstraòuje "poznámky pøekl." z pipboye
+
+v1.01
+Název lokace na mapì (Klášter místo Kráter).
+"Mužský rod" u Beth v Hubu.
+Stylizaci nìkterých jiných dialogù.
+
+Pøejeme skvìlou zábavu
+Váš Level
+
+FAQ:
+Q: Kde bych našel na tuto skvìlou hru návod?
+A: Velice obsáhlý návod v èeštinì najdete na adrese http://www.geocities.com/Area51/Vault/4193/fallout1.txt nebo na Level CD 7-99
+
+Q: Fallout mi strašnì padá. Co s tím?
+A: Bohužel Fallout opravdu na nìkterých poèítaèích z neznámých dùvodù abnormálnì padá. Pokud je to váš pøípad, zkuste maximální instalaci, instalaci dosové verze (z CD souborem INSTALL.EXE), odstranìní adresáøe DATA\ART, ve kterém jsou poèeštìné bitmapy herního interfacu, èi zvýšit hodnotu ART_CACHE_SIZE pod položkou [system] v souboru FALLOUT.CFG. Na disku byste mìli mít minimálnì 150 MB volného místa. Padání není zpùsobeno chybou pøi pøekladu. Ten, kdo pøijde na nìjaké univerzální øešení, má u nás flašku!
+
+

@@ -1,0 +1,466 @@
+#{100}{}{You see Vree.}
+{100}{}{你看到弗蕾。}
+
+#{101}{Vree00}{I'm sorry, you're disrupting my meditation.  Please leave.}
+{101}{Vree00}{很抱歉，你打断了我的思考。请离开。}
+
+#{102}{}{I'm sorry.  I'll come back another time.}
+{102}{}{对不起。那我等一会再过来。}
+
+#{103}{}{I'll be back.}
+{103}{}{我会回来的。}
+
+#{104}{}{How could I know your schedule?}
+{104}{}{我怎么知道你什么时间有空？}
+
+#{105}{}{Uhhh?.}
+{105}{}{啊？}
+
+#{106}{Vree01}{Don't raise your voice to me.  Do I have to have one of
+#the Brothers teach you some manners.}
+{106}{Vree01}{不要对我大喊大叫。要我找位兄弟来教你点礼貌吗。}
+
+#{107}{}{Sorry.}
+{107}{}{对不起。}
+
+#{108}{}{Yeah, ok.  Whatever.}
+{108}{}{耶，好啊。随便你。}
+
+#{109}{}{Oh, I'm scared.}
+{109}{}{喔, 我好害怕。}
+
+#{110}{Vree02}{Greetings. It's a fine day for learning. Can I help you?}
+{110}{Vree02}{你好。今天是学习的好时候。我可以帮你吗？}
+
+#{111}{}{I know you're the Master Scribe, but what does that mean?}
+{111}{}{我知道你是首席研究员，可这称呼是什么意思？}
+
+#{112}{}{I need some technical information.}
+{112}{}{我需要一些技术知识。}
+
+#{113}{}{Uhh . . .}
+{113}{}{啊……}
+
+#{114}{Vree03}{I record the knowledge of our ancestors for future generations.}
+{114}{Vree03}{我为了未来的后人，记录从我们祖先流传下来的知识。}
+
+#{115}{}{Interesting.  That means you know stuff.}
+{115}{}{有意思，就是说你知道点儿东西。}
+
+#{116}{Vree03a}{Yes. I guess you could say I know, 'stuff.'}
+{116}{Vree03a}{是啊。我想你可以说我知道点，“东西。”}
+
+#{117}{Vree17}{What can I help you with?}
+{117}{Vree17}{我可以帮你些什么？}
+
+#{118}{Vree17a}{Go ahead.}
+{118}{Vree17a}{继续。}
+
+#{119}{}{I need a water-chip repaired. Can you help me?}
+{119}{}{我需要一个修好的净水芯片。你能帮我吗？}
+
+#{120}{}{I'd like to know more about the weapons we make here.}
+{120}{}{关于我们制造的武器，我想知道更多。}
+
+#{121}{}{I heard something about holo-discs, how can I read them?}
+{121}{}{我听说过什么全息磁盘，我该怎么读取它们？}
+
+#{122}{}{How can I prevent radiation poisoning?}
+{122}{}{我要怎样防护辐射中毒？}
+
+#{123}{}{What's causing all the mutations?}
+{123}{}{是什么引发了各种突变？}
+
+#{124}{Vree18}{Speak to the knights.  Ask them to show you one of
+#the latest laser pistols I designed.}
+{124}{Vree18}{去找骑士们。让他们给你看看我最新设计的激光手枪。}
+
+#{125}{}{Thanks!}
+{125}{}{谢谢！}
+
+#{126}{}{I've got another question . . .}
+{126}{}{我还有其它的问题……}
+
+#{127}{Vree19}{You are not yet capable of properly using the sacred knowledge.}
+{127}{Vree19}{你现在还没有能力去完全运用这高深的知识。}
+
+#{128}{Vree21}{Use your Pip-Boy 2000 to read the discs. Insert the disc into the
+#reader. If you have the proper computer skills, you should be able
+#to scan the data.}
+{128}{Vree21}{用你的哔哔小子2000来读这些磁盘。把盘放到读取器里。如果你有足够的电脑技术，就可以扫描出数据。}
+
+#{129}{}{Where can I learn the computer skills?}
+{129}{}{我在哪可以学到电脑技术？}
+
+#{130}{}{Thanks.}
+{130}{}{谢谢。}
+
+#{131}{}{Can I ask another question?}
+{131}{}{我能问别的问题吗？}
+
+#{132}{Vree22}{The Brotherhood has some automated courses that you can take.
+#Here, I'll show you.}
+{132}{Vree22}{兄弟会有一些自动化教程你可以去学习。来这边，我给你演示一下。}
+
+#{133}{Vree23}{Use this terminal to learn the basics of computer operations.}
+{133}{Vree23}{用这个终端来学习基本的电脑操作。}
+
+#{134}{Vree24}{You're not very bright, are you?  You're wearing a holo disc
+#reader on your arm.}
+{134}{Vree24}{你不太聪明是吗？你把全息磁盘读取器绑到胳膊上去了。}
+ 
+#{135}{Vree25}{You would need some anti-radiation drugs. I have some. Take
+#these immediately if you think you are near radiation.}
+{135}{Vree25}{你需要些抗辐射药。我这有一点。在你认为自己临近辐射的时候马上服用。}
+
+#{136}{}{Thanks!}
+{136}{}{谢谢你！}
+
+#{137}{}{Can I ask you something else?}
+{137}{}{我能问你些别的事情吗？}
+
+#{138}{Vree26}{Don't drink the glowing water.}
+{138}{Vree26}{不要喝发光的水。}
+
+#{139}{Vree27}{Between the nuclear and biogenetic weapons used in the War, it's
+#surprising we don't have more mutations. However, if we can hold
+#out, everything will be ok.}
+{139}{Vree27}{很奇怪的，在以前滥用核武器与生物武器的战争中，我们并没有这么多的变异。不管怎样，如果我们能够坚持下去，一切都会好的。}
+
+#{140}{}{Why do you say that?}
+{140}{}{你为什么这么说？}
+
+#{141}{}{You're right. We'll be fine.}
+{141}{}{你是对的，我们会好起来的。}
+
+#{142}{}{I've got another question . . .}
+{142}{}{我还有其它的问题……}
+
+#{143}{Vree28}{All the mutants I've studied have been sterile - they can't breed with
+#another creature.  If we could clean up the mutation sources, we
+#should be able to simply outlive the mutants.}
+{143}{Vree28}{我研究过的所有变种人都是不育的——他们不能像其他动物一样繁殖。如果我们能够清除变异的源头，我们就是从人种延续方面也能战胜他们。}
+
+#{144}{}{Sounds like a plan.}
+{144}{}{听起来是个好主意。}
+
+#{145}{}{Interesting theory. Any proof?}
+{145}{}{有趣的理论，有什么证据？}
+
+#{146}{}{I've got another question . . .}
+{146}{}{我还有其它的问题……}
+
+#{147}{Vree29}{Here, take this holo-disc, it's got copies of my autopsies on mutant
+#corpses.  It clearly shows that no mutant could possibly reproduce successfully.}
+{147}{Vree29}{给，拿着这张全息磁盘，上面有我解剖变种人尸体的资料副本。它清楚的说明了没有任何变种人可以成功的繁殖。}
+
+#{148}{}{Thanks.}
+{148}{}{谢谢。}
+
+#{149}{}{Can I ask something else?}
+{149}{}{我能问你些别的事情吗？}
+
+#{150}{Vree30}{I don't think I should tell you anything.  Perhaps later, if you
+#prove yourself to the Brotherhood's cause. }
+{150}{Vree30}{我想我不会告诉你任何事。或许以后，在你为兄弟会的事业做出了贡献后再说。}
+ 
+#{151}{Vree31}{I'm quite certain you're in the wrong place. Please leave, I'm rather
+#busy.}
+{151}{Vree31}{我很确定你来错地方了。请离开，我非常忙。}
+
+#{152}{Vree32}{You will destroy the knowledge that can save the world!}
+{152}{Vree32}{你将毁灭掉能够拯救世界的知识！}
+
+#{153}{}{Yeah, starting with you.}
+{153}{}{耶，从你开始。}
+
+#{154}{}{No. I'm stopping those who could bring about another nuclear war.}
+{154}{}{不。我在阻止那些会引发另一场核战争的人。}
+
+#{155}{Vree33}{Never! The Brotherhood will see that it never happens again!}
+{155}{Vree33}{决不！兄弟会绝不会眼看这个再次发生！}
+
+#{156}{}{That's what they all say . . . except you. You'll be dead.}
+{156}{}{他们都是这样说……不单单是你。你将会死。}
+
+#{157}{Vree34}{What can I help you with?}
+{157}{Vree34}{我可以帮你些什么。}
+
+#{158}{}{I've got some important news to tell you about Kedrick. He's a traitor.}
+{158}{}{我有一些重要的消息来告诉你。凯德里克，他是个叛徒。}
+
+#{159}{}{What you would do if there was corruption within the Brotherhood.}
+{159}{}{如果兄弟会内出现腐败你将会怎么做。}
+
+#{160}{}{Nuhh. Nuh-uh-nuh!}
+{160}{}{啊。啊－啊－啊！}
+
+#{161}{Vree35}{Very good. I really can tell the lessons have helped.}
+{161}{Vree35}{很好。我可以说这些课程会很有帮助。}
+
+#{162}{Vree36}{Kedrick? He's been a loyal member of the Brotherhood forever. I
+#doubt you would even know what that means.}
+{162}{Vree36}{凯德里克？他永远是兄弟会忠诚的一员。我怀疑你甚至不明白这意味着什么。}
+
+#{163}{}{Yeah, I do. Kedrick is a traitor and planning to overthrow your
+#leaders.}
+{163}{}{耶，是的。凯德里克是个叛徒，而且计划推翻你们的领导者。}
+
+#{164}{}{Maybe so.}
+{164}{}{可能是这样。}
+
+#{165}{Vree37}{You're certain of this? Perhaps we should go talk to the High Elder.}
+{165}{Vree37}{你很确定？或许我们应该去向高级元老汇报。}
+
+#{166}{Vree38}{Do not bother me with innuendo. Bring proof to the High Elder, or
+#say nothing of this.}
+{166}{Vree38}{不要传播谣言。要么向高级元老出示证据，要么什么都别说。}
+
+#{167}{Vree39}{Do what must be done. Stamp out the heresy and remove those
+#responsible for the stain.}
+{167}{Vree39}{此事由你便宜办理。消灭异心之人，根除污点之源。}
+
+#{168}{}{Even if it was a trusted member of the Brotherhood.}
+{168}{}{即便他曾是兄弟会可以信赖的成员。}
+
+#{169}{}{And who would do the removal?}
+{169}{}{那么谁来做清除工作？}
+
+#{170}{Vree40}{Even so.  But proof would have to be offered.}
+{170}{Vree40}{虽然如此。但还是需要证据。}
+
+#{171}{}{Kedrick is a traitor. He is planning on killing the Elders.}
+{171}{}{凯德里克是个叛徒。他正在计划杀掉元老们。}
+
+#{172}{}{I'll get the proof.}
+{172}{}{我去找证据。}
+
+#{173}{Vree41}{Then we must go to the High Elder. Bring your proof and we'll go
+#talk to him.}
+{173}{Vree41}{然后我们必须去找高级元老。带着你的证据向他汇报。}
+
+#{174}{Vree42}{The High Elder and Rhombus, of course.}
+{174}{Vree42}{当然是高级元老和隆伯斯。}
+
+#{175}{Vree43}{Did you hear about the missing Initiate? This is terrible!}
+{175}{Vree43}{你听说过关于失踪的新兵的事吗？太可怕了！}
+
+#{176}{}{I agree.}
+{176}{}{我同意。}
+
+#{177}{}{Nuh-huh.}
+{177}{}{啊-啊。}
+
+#{178}{Vree44}{If you can help him, I would be most grateful.}
+{178}{Vree44}{如果你能帮助他，我将十分感激。}
+
+#{179}{Vree45}{Good deeds should be rewarded. For helping the Initiate, please take
+#these.}
+{179}{Vree45}{好的行为应当受到奖励。你帮助了新兵，请收下这个。}
+
+#{180}{Vree46}{Oh, it's you. What do you want?}
+{180}{Vree46}{喔，是你。你需要什么？}
+
+#{181}{}{I came to apologize.}
+{181}{}{我是来道歉的。}
+
+#{182}{}{Sorry, wrong room.}
+{182}{}{对不起，走错房间了。}
+
+#{183}{Vree47}{Thank you for your apology. }
+{183}{Vree47}{谢谢你的道歉。}
+
+#{184}{Vree47a}{Good day.}
+{184}{Vree47a}{日安。}
+
+#{185}{Vree48}{That sounds like a manufacturing problem. We handle theory and design
+#only. Have one of the knights help you out.}
+{185}{Vree48}{这好象是制造上的问题。我们只负责理论和设计。去找位骑士来帮你解决。}
+
+#{186}{}{Thanks anyway.}
+{186}{}{还是谢谢你。}
+
+#{187}{}{Can I ask something else?}
+{187}{}{我能问你些别的事情吗？}
+
+#{188}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{188}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{189}{Vree201}{I don't know anything about that. But it sounds like something I
+#should research.}
+{189}{Vree201}{我不知道任何关于这个的事。但我好象应该研究一下。}
+
+#{190}{Vree202}{Sorry, not one of my specialties. Maybe one of the other Brothers
+#would know.}
+{190}{Vree202}{抱歉，这不是我的专业。可能有其他的兄弟知道这个。}
+
+#{191}{Vree203}{Guards! Guards!}
+{191}{Vree203}{卫兵！卫兵！}
+
+#{192}{Vree204}{You've destroyed my room!}
+{192}{Vree204}{你破坏了我的房间！}
+
+#{193}{Vree205}{What do you think you're doing with my things?}
+{193}{Vree205}{你拿我东西想干什么？}
+
+#{194}{Vree300)}{Who? Wait, that name sounds a familiar. Perhaps he is a leader
+#of some of the mutants.}
+{194}{Vree300)}{谁？等等，这个名字很熟悉。他可能是某些变种人的领袖。}
+
+#{195}{Vree301}{I assume you're referring to the last nuclear war. The Brotherhood is doing
+#everything it can to restore that which was lost.}
+{195}{Vree301}{我想你指的是最后的核战。兄弟会正在做一切努力来使我们曾失去的得以恢复。}
+
+#{196}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
+#Each one holds over 4,000 gigabytes of information.}
+{196}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
+
+#{197}{Vree303}{The only salvation this tortured planet and its people have.
+#Without us, humanity is sure to perish.}
+{197}{Vree303}{拯救这个受折磨的行星和它上面的人类唯一办法。没有我们，人类必定灭亡。}
+
+#{198}{Vree304}{I don't know. Ask Manufacturing about it.}
+{198}{Vree304}{我不知道。去制造处问问这个。}
+
+#{199}{Vree305}{He makes sure the Brotherhood stays on the path of righteousness.}
+{199}{Vree305}{他保证兄弟会前进在正义的道路之上。}
+
+#{200}{Vree306}{He enforces the High Elder's wishes. With force, if necessary.}
+{200}{Vree306}{他行使高级元老的意愿。如果必要时，使用武力。}
+
+#{300}{}{Interesting.}
+{300}{}{有趣。}
+
+#{301}{}{Okay, that should do it.}
+{301}{}{好的，这就应该行了。}
+
+#{302}{}{This should correct that.}
+{302}{}{这样应该改正了。}
+
+#{303}{}{Good.}
+{303}{}{好。}
+
+#{304}{}{I knew that was going to work.}
+{304}{}{我知道这样就能行的。}
+
+#{305}{}{What was the formula again.}
+{305}{}{这个公式我又忘了。}
+
+#{306}{}{The algorithm is wrong, that can't be. Something must be wrong with
+#the computer.}
+{306}{}{算法错误？不可能的！这台电脑一定有问题。}
+
+#{307}{}{Here we are.}
+{307}{}{好了。}
+
+#{308}{}{Okay, so if we do this... yes, I think it will work.}
+{308}{}{好的，那么如果我们这样做……对，我想它会运行。}
+
+#{400}{}{You can use this terminal to increase your Computer Skills.}
+{400}{}{你可以用这台终端来增加你的电脑技术。}
+
+#{401}{}{The lesson finishes six hours later. You feel exhausted.}
+{401}{}{学习这套教程花费了六个小时，你感到很疲惫。}
+
+
+#{980}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{980}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#
+# Vree Tell-Me-Abouts
+#
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Master-主教、War-大战、Discs-磁碟、brotherhood-兄弟会、Chip-芯片、Elder-最高元老、Rhombus-隆伯斯、Exodus-大迁徙（大远征）、Strange Army-奇怪的部队、Merchants-商人、Missing Caravans-消失的商队、Hub-哈勃、Children of the Cathedral-大教堂教徒、Initiates-新兵、Scribes-研究员、Knights-骑士、Paladins-游侠、Holo-全息磁碟。}
+
+{1000}{}{Master}
+{1001}{}{War}
+{1002}{}{Discs}
+{1003}{}{Brotherhood}
+{1004}{}{Chip}
+{1005}{}{Elder}
+{1006}{}{Rhombus}
+{1007}{}{Exodus}
+{1008}{}{Strange Army}
+{1009}{}{Merchants}
+{1010}{}{Missing Caravans}
+{1011}{}{Hub}
+{1012}{}{Children of the Cathedral}
+{1013}{}{Initiates}
+{1014}{}{Scribes}
+{1015}{}{Knights}
+{1016}{}{Paladins}
+{1017}{}{Holo}
+
+#{1100}{Vree300}{Who? Wait, that name sounds a familiar. Perhaps he is a leader
+#of some of the mutants.}
+{1100}{Vree300}{谁？等等，这个名字很熟悉。他可能是某些变种人的领袖。}
+
+#{1101}{Vree301}{I assume you're refering to the last nuclear war. The Brotherhood is doing
+#everything it can to restore that which was lost.}
+{1101}{Vree301}{我想你指的是最后的核战。兄弟会正在做一切努力来使我们曾失去的得以恢复。}
+
+#{1102}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
+#Each one holds over 4,000 gigabytes of information.}
+{1102}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
+
+#{1103}{Vree303}{The only salvation this tortured planet and its people have.
+#Without us, humanity is sure to perish.}
+{1103}{Vree303}{拯救这个受折磨的行星和它上面的人类唯一办法。没有我们，人类必定灭亡。}
+
+#{1104}{Vree304}{I don't know. Ask Manufacturing about it.}
+{1104}{Vree304}{我不知道。去制造处问问这个。}
+
+#{1105}{Vree305}{He makes sure the Brotherhood stays on the path of righteousness.}
+{1105}{Vree305}{他保证兄弟会前进在正义的道路之上。}
+
+#{1106}{Vree306}{He enforces the High Elder's wishes. With force, if necessary.}
+{1106}{Vree306}{他行使高级元老的意愿。如果必要时，使用武力。}
+
+#{1107}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1107}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1108}{Vree201}{I don't know anything about that. But it sounds like something I
+#should research.}
+{1108}{Vree201}{我不知道任何关于这个的事。但我好象应该研究一下。}
+
+#{1109}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1109}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1110}{Vree201}{I don't know anything about that. But it sounds like something I
+#should research.}
+{1110}{Vree201}{我不知道任何关于这个的事。但我好象应该研究一下。}
+ 
+#{1111}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1111}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1112}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1112}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1113}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1113}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1114}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1114}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1115}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1115}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1116}{Vree200}{Please talk to one of the other scribes. I'm trying to finish up
+#reports for the other Elders.}
+{1116}{Vree200}{请去和别的研究员谈话。我正忙着完成给其他元老们的报告。}
+
+#{1117}{Vree302}{They are high-density, laser-readable, manufactured-crystal storage devices.
+#Each one holds over 4,000 gigabytes of information.}
+{1117}{Vree302}{它们是高密度，激光读取，人造水晶的存储装置。每个可以保存超过4000GB的信息。}
+
+

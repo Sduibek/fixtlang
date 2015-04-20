@@ -1,0 +1,318 @@
+#{100}{}{You see Razlo.}
+#{101}{}{I'm sorry but I can't help you.}
+#{102}{}{Can't or won't?}
+#{103}{}{Razlo looks at you for a moment, and then turns away.}
+#{104}{}{You look distraught. Are you in need of assistance?}
+#{105}{}{Tandi has been kidnapped.}
+#{106}{}{Hng, Tanny boo.}
+#{107}{}{Tandi is gone? That is a terrible thing. I hope they find her.}
+#{108}{}{Hmm, Tandi is gone? I find this hard to believe, but maybe
+# she ran away with Seth. I know that they have been eyeing
+# each other lately. Aradesh was always a little bit of a
+# prude, perhaps it was too much for her finally.}
+#{109}{}{Hmm, I didn't think of that.}
+#{110}{}{I don't think so, I think that she was kidnapped.}
+#{111}{}{Perhaps, I'll go talk to some other people.}
+#{112}{}{How awful! If that is the case, I hope she is not hurt.
+# Who is looking for her?}
+#{113}{}{Almost everyone.}
+#{114}{}{Many people, including myself.}
+#{115}{}{I hope she is found before it is too late.}
+#{116}{}{If she is hurt, it could be bad. Here, take these . . .
+# I hope that you won't need them.}
+#{117}{}{I hope Tandi gets back soon. Aradesh must be feeling
+# terrible right now.}
+#{118}{}{I heard that you helped save Tandi. Congratulations
+# and thank you. Anytime you need healing, come here.}
+#{119}{}{My grief knows no end. Tandi, the only child of my
+# good friend, is gone. I cannot work right now.}
+#{120}{}{I'm Razlo. Can I help you?}
+#{121}{}{Not right now, but it was nice meeting you.}
+#{122}{}{I need healing.}
+#{123}{}{Hnngh!}
+#{124}{}{Hmmm. I think I've seen Brahmin with more brain cells
+# then you. Well, let's see if you're wounded.}
+#{125}{}{Well, you seem fine to me. Perhaps later, then?}
+#{126}{}{Let's see here.}
+#{127}{}{I have already given you as much as I can. Good luck.}
+#{128}{}{Hmmm, I don't like your looks. I hope that you have come
+# for business, and will be moving on shortly . . .}
+#{129}{}{No need to get defensive, I'm just looking around}
+#{130}{}{Help, I need some healing.}
+#{131}{}{Hello, again. How can I be of service?}
+#{132}{}{Hello again. Just stopping by.}
+#{133}{}{I need healing.}
+#{134}{}{Ug!}
+#{135}{}{It was nice seeing you again. Have a good day.}
+#{136}{}{Of course. It's you again. Now what?}
+#{137}{}{Nothing.}
+#{138}{}{I need healing.}
+#{139}{}{Luki!}
+#{140}{}{Of course you do.}
+#{141}{}{Can I help you?}
+#{142}{}{No.}
+#{143}{}{I need healing.}
+#{144}{}{I've been poisoned!}
+#{145}{}{What do you know about Radscorpions?}
+#{146}{}{I have a sample of the Radscorpion poison, can you do
+# something with it?}
+#{147}{}{Luki!}
+#{148}{}{Sorry, I can't cure any poisons. I don't have the
+# proper ingredients to make a decent anti-venom.}
+#{149}{}{Here, let's see.}
+#{150}{}{Yep, just as I thought. Let me get the cure.}
+#{151}{}{You seem fine, now. Be careful in the future.}
+#{152}{}{Stop by again, but stay healthy next time.}
+#{153}{}{Not too much. They seem to be extremely large versions
+# of the north American Emperor scorpion. Contrary to my
+# medical knowledge, their poison has grown more potent,
+# not diluted, as I would expect. Seth has been hunting them, which helps
+# some of my tests.}
+#{154}{}{And how such a large
+# creature can even be possible by natural evolution,
+# or even radiation induced mutation is beyond me.}
+#{155}{}{Thanks.}
+#{156}{}{You seem well educated. What are you doing here?}
+#{157}{}{Anything else?}
+#{158}{}{They seem to be sensitive to light. Nocturnal. If I
+# could get a sample of their poison, especially the
+# venom production sac located in their tail, I could
+# create an anti-venom.}
+#{159}{}{Thanks.}
+#{160}{}{Doc Morbid in Junktown taught me some. And just
+# because we live in stone huts, does not mean we are
+# less intelligent or educated. Have a nice day.}
+#{161}{}{Let me see the sac! Yes, I can do something with
+# this.}
+#{162}{}{Here, take this as a free sample. It seems to work
+# well against radscorpion stings, of course, but it
+# shows much potential as a general anti-venom and
+# poison cure.}
+#{163}{}{It's late. Come back in the morning.}
+#{164}{}{But I need your help.}
+#{165}{}{I'm trying to kill some radscorpions. Do you have anything
+# to help?}
+#{166}{}{I'm looking for Tandi. Can you help?}
+#{167}{}{Hnn.}
+#{168}{}{Hnn?! What is that? Great, I get awakened by the great
+# mumbling beast of the north. Come back in the morning.}
+#{169}{}{Are you hurt?}
+#{170}{}{Yes.}
+#{171}{}{No.}
+#{172}{}{You will be, if you keep me from my sleep. Now come
+# back in the morning.}
+#{173}{}{Great Brahmin! Why didn't you say so?}
+#{174}{}{Uhhh. I did . . .}
+#{175}{}{You're barely hurt. I suggest a good nights sleep and
+# some rest; you will heal naturally over time.}
+#{176}{}{You're barely hurt, you wimp. Come back in the morning.}
+#{177}{}{Ouch, that does look a little painful. That will be $25.}
+#{178}{}{OK, here you go.}
+#{179}{}{I don't have enough money.}
+#{180}{}{Oh Great Brahmin! That is very, very serious. It will
+# cost $50.}
+#{181}{}{OK, here you go.}
+#{182}{}{I don't have enough money.}
+#{183}{}{How can you still be walking?! This looks extremely
+# serious. We'll need some special prayers for this one
+# and a lot of luck. Not to mention $100.}
+#{184}{}{OK, here you go.}
+#{185}{}{I don't have enough money.}
+#{186}{}{You don't have enough money! I'm sorry, but my work ethic
+# doesn't permit me to heal for free, you know. Come back
+# when you have enough money.}
+#{187}{}{Can you take something in trade?}
+#{188}{}{Thanks for nothing.}
+#{189}{}{Sorry, not today.}
+#{190}{}{Why would I be able to help you kill radscorpions?
+# I'm a doctor, not a warrior. For that you should see
+# Aradesh, or even Tandi, or her boyfriend, Seth. Leave
+# me.}
+#{191}{}{I need something for their poison.}
+#{192}{}{If I had a sample of their poison, I could create
+# a cure.}
+#{194}{}{I don't think so, I think that she was kidnapped.}
+#{195}{}{Perhaps, I'll go talk to some other people.}
+#{196}{}{This will take a little bit of time. Come, relax in
+# the back. You might have a slight headache from the
+# junja juice, as well. Come, come . . .}
+#{197}{}{I have already given you as much as I can. Good luck.}
+#{300}{}{You gain 250 experience points for helping make the antidote.}
+#{301}{}{K, me giv?}
+#{302}{}{Nunga.}
+#{303}{}{Scorpin, Scorpin?}
+#{304}{}{My giv dis?}
+#{305}{}{How about a Radscorpion tail instead?}
+#{306}{}{Let me see the sac! Yes, I can do something with
+# this, as well as heal you for this great gift.}
+#{307}{}{This will take a little bit of time. Come, relax in
+# the back, while I work with the sac. You might have a slight headache from the
+# junja juice, as well. Come, come . . .}
+#{308}{}{Please do not take my things.}
+
+
+#{1000}{}{Khans}
+#{1001}{}{Garl}
+#{1002}{}{Junktown}
+#{1003}{}{Shady}
+#{1004}{}{Hub}
+#{1005}{}{Water}
+#{1006}{}{Tandi}
+#{1007}{}{Aradesh}
+#{1008}{}{Seth}
+#{1009}{}{Razlo}
+#{1010}{}{Sands}
+
+#{1100}{}{They are a lawless group who pretend to be some people from the
+# far past.}
+#{1101}{}{He leads the Khans.  He is one of the most dangerous men that
+# has ever set eyes on Shady Sands.  He leads the raider clans with a
+# heavy fist.}
+#{1102}{}{It's 4-6 days to the southwest.  Good trading occasionally, but
+# more often than not, they try to stiff us.}
+#{1103}{}{You're standing in it.}
+#{1104}{}{Much farther to the south than Junktown.  The Hub is the largest
+# city I've heard about.  Must be a thousand people there, at least.}
+#{1105}{}{Sorry, I can't help you.}
+#{1106}{}{She is the daughter of Aradesh.  Some day she could lead us, but
+# she must learn to temper her ways.}
+#{1107}{}{He is the leader of our community, and a true hero.  You can always
+# find him at work in the communal hall.}
+#{1108}{}{He works with Aradesh to make sure we are safe.}
+#{1109}{}{That is me. I am the doctor for Shady Sands.}
+#{1110}{}{You're standing in it.}
+
+{100}{}{你看到拉斯洛。}
+{101}{}{对不起，我帮不了你。}
+{102}{}{不想还是不能？}
+{103}{}{拉斯洛打量了你一会儿，就转过身去了。}
+{104}{}{你看起来有心事，要帮忙吗？}
+{105}{}{坦蒂被绑架了。}
+{106}{}{啊，大波坦蒂。}
+{107}{}{坦蒂不见了？太糟糕了。希望他们能找到她。}
+{108}{}{哦，坦蒂不见了。真难以置信。没准她跟赛思私奔了。我知道他们最近一直眉来眼去的。亚拉德什一直有点太古板了，也许坦蒂终于受够了。}
+{109}{}{恩，我没想到这个……}
+{110}{}{我不这么认为，我想她是被绑架了。}
+{111}{}{也许吧，我会跟其他人谈谈的。}
+{112}{}{太糟糕了。如果真是那样，希望她没受伤害，有谁在找她？}
+{113}{}{几乎所有人。}
+{114}{}{很多人，包括我。}
+{115}{}{希望能及时找到她。}
+{116}{}{如果她受伤了，可能会很严重。给，拿着这些……希望你用不到这些东西。}
+{117}{}{希望坦蒂能尽快回来。亚德拉什现在一定很难过。}
+{118}{}{听说你帮忙救了坦蒂。谢谢你。需要治疗就过来吧。}
+{119}{}{我无法停止悲伤。坦蒂，我朋友唯一的孩子没了。现在我没法工作。}
+{120}{}{我是拉斯洛，能帮你吗？}
+{121}{}{目前不需要，不过很高兴见到你。}
+{122}{}{我需要医疗。}
+{123}{}{哈啊！}
+{124}{}{唉，我觉得双头牛的脑细胞都比你多。好吧，我来看看你有没有受伤。}
+{125}{}{你看来没问题。有需要再来吧，好吗？}
+{126}{}{我来看看。}
+{127}{}{我尽力帮你了。好运。}
+{128}{}{啊，我不喜欢你的样子。希望你是的确有事才来的，而且很快会离开。}
+{129}{}{别这么提防我，我只是到处逛逛。}
+{130}{}{帮帮我，我需要治疗。}
+{131}{}{你好，又是你，我能帮你点什么？}
+{132}{}{你还好吗，只是顺道过来一下。}
+{133}{}{我需要医疗。}
+{134}{}{哇！}
+{135}{}{很高兴再次见到你。祝你有美好的一天。}
+{136}{}{哦，又是你。又怎么了。}
+{137}{}{没事。}
+{138}{}{我需要医护。}
+{139}{}{运气！}
+{140}{}{哦，当然。}
+{141}{}{能帮你吗？}
+{142}{}{不。}
+{143}{}{我需要治疗。}
+{144}{}{我中毒了。}
+{145}{}{你对辐射蝎了解多少？}
+{146}{}{我有一份辐射蝎毒的样本，能做点什么吗？}
+{147}{}{运气！}
+{148}{}{对不起，我没法解毒。我没有合适的材料来做出有效的解毒剂。}
+{149}{}{那咱们就瞧瞧。}
+{150}{}{没错，跟我想的一样。我去拿药。}
+{151}{}{你现在看起来没什么。不过以后要小心。}
+{152}{}{有空再过来吧，不过下次可别带着伤来了。}
+{153}{}{不太多。它们似乎是超大版的北美帝王蝎。跟我所学相悖的是，它们的毒性没有象我预想的那样减弱，反而在增强。赛思一直在猎杀它们来帮助我的研究。}
+{154}{}{还有这么大的生物怎么会被自然进化出来呢，如果因辐射而突变的，又是怎样的变异过程呢，我正试图找到答案。}
+{155}{}{谢谢。}
+{156}{}{你似乎受过良好教育，为什么会呆在这里？}
+{157}{}{还有别的吗？}
+{158}{}{它们似乎对光很敏感。是夜行生物。如果我能得到它们毒素的样本，尤其是位于尾部制造毒液的部分。我应该能做出解毒剂。}
+{159}{}{谢谢。}
+{160}{}{迦克镇的莫彼得德医生教过我一些东西。我们的确是住在小石头屋子里的人，可这并不表示我们没有天赋和知识。走好！}
+{161}{}{让我看看！没错！我可以借此做些努力。}
+{162}{}{给，当这是免费样品拿走吧。似乎这对辐射蝎的蜇伤很有效，当然，这将来也能作为抗毒，解毒剂广泛应用。}
+{163}{}{太晚了。明天请早。}
+{164}{}{可我需要你帮忙。}
+{165}{}{我要试着去杀些辐射蝎，你有什么能帮的上的东西吗？}
+{166}{}{我在找坦蒂，能帮我吗？}
+{167}{}{呜}
+{168}{}{啊？什么东西？太“好”了，我被一个只会呜呜叫的牲口吵起来，你晚上不睡觉吗？明早再来。}
+{169}{}{你受伤了？}
+{170}{}{对。}
+{171}{}{不。}
+{172}{}{你很快就会受伤了，如果你老是让我不得安寝的话。快离开。}
+{173}{}{哦，天！你刚才不早说。}
+{174}{}{啊……刚刚……}
+{175}{}{你几乎就没事。我建议休息一下，睡个好觉，很快就会自然恢复的。}
+{176}{}{你几乎就没伤到，白痴！早上再来！}
+{177}{}{啊，那会有点疼。费用25瓶盖。}
+{178}{}{好，拿去。}
+{179}{}{我的钱不够。}
+{180}{}{哦天呐。伤的很重。50瓶盖。}
+{181}{}{好，给你。}
+{182}{}{我的钱不够。}
+{183}{}{你居然还能走！？这伤极其严重。医治好你可需要好好对天祈祷，还得要够运气。当然，还有100瓶盖。}
+{184}{}{好，给你。}
+{185}{}{我钱不够。}
+{186}{}{你钱不够！抱歉，但是你要知道，我的工作原则不允许我提供免费医疗，等钱够了再回来吧。}
+{187}{}{你能拿一些东西作交换吗？}
+{188}{}{不谢了。}
+{189}{}{抱歉，今天不行。}
+{190}{}{我怎么会能帮你杀辐射蝎呢？我是医生，不会战斗！你想要人帮助的话，去找亚拉德什，甚至坦蒂都好，或者她的男朋友赛思。反正别找我就行了。}
+{191}{}{我需要东西应付它们的毒素。}
+{192}{}{如果我有毒素的样本，应该就能做出解药。}
+{194}{}{我不这么想，我觉得她是被绑架了。}
+{195}{}{也许吧，我去跟其他人谈谈看。}
+{196}{}{这需要花点时间。来，躺下，放松。你可能会有轻微的头痛，来，来……}
+{197}{}{我已经尽量帮你了，自求多福吧。}
+{300}{}{因为帮忙制作出了解药，你得到250点经验。}
+{301}{}{可以吗？}
+{302}{}{}
+{303}{}{蝎子？蝎子？}
+{304}{}{给我的？}
+{305}{}{换做辐射蝎尾巴怎么样？}
+{306}{}{让我看看！没错，有了这我就能干点有用的事情了。当然也会给你治疗作为报答。}
+{307}{}{这要花点时间。我做事的时候你平躺放松。你可能会有轻微的头痛，来来……}
+{308}{}{请别拿我的东西。}
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Khans-可汗帮、Garl-伽尔、Junktown-迦克镇、Shady-沙荫镇、Hub-哈勃、Water-水、Tandi-坦蒂、Aradesh-亚拉德什、Seth-赛思、Razlo-拉斯洛、Sands-沙荫镇。}
+
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Water}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Sands}
+
+{1100}{}{他们是无法无天的组织，爱把自己装成古代的什么人。}
+{1101}{}{他以武力服众，纠集可汗帮。瞄上沙阴镇的人中，他算是最有威胁的一个。}
+{1102}{}{往西南走4～6天的路程就到了。偶尔做点交易还不错，不过通常他们都会坑人。}
+{1103}{}{你正站在这地方上。}
+{1104}{}{在比迦克镇远很多的南边。哈勃城是我听说过的最大的城市。那里至少有几千人。}
+{1105}{}{抱歉，这我不清楚。}
+{1106}{}{她是亚拉德什的女儿。将来她会领导我们的，但她得学会如何锻炼自己。}
+{1107}{}{他是这社区的领袖，真正的英雄。你会发现他总是在城镇大厅工作。}
+{1108}{}{他跟亚拉德什一起做事，保证我们的安全。}
+{1109}{}{那就是我。我是沙荫镇的医生。}
+{1110}{}{你就站在这地方上。}
+

@@ -1,0 +1,19 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{This looks to be the door leading to a weapons locker.}
+# {101}{}{You pick the lock on the door.}
+# {102}{}{You failed to pick the lock on the door.}
+# {103}{}{This item is useless on the door.}
+# {104}{}{The door is locked.}
+# {105}{}{You pick the lock on the door.}
+# {106}{}{You failed to pick the lock on the door.}
+# {107}{}{This skill is useless on the door.}
+{100}{}{这看上去很像一个武器柜的门。}
+{101}{}{你打开了门上的锁。}
+{102}{}{你没能打开门锁。}
+{103}{}{这个物品在门上没有用。}
+{104}{}{这个门是锁着的。}
+{105}{}{你打开了门上的锁。}
+{106}{}{你打开门锁失败了。}
+{107}{}{这个技能在门上没有用。}

@@ -1,0 +1,518 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Michael。}
+{100}{}{你看见迈克尔。}
+
+#{101}{}{Well，I guess that's what the problem was。You should see the Doctor，she's on level two。}
+{101}{}{嗯，我猜到你的麻烦是什么了。你应该去看医生，她在第二层。}
+
+#{102}{}{You're fine as far as I can tell。}
+{102}{}{我觉得你的状态不错。}
+
+#{103}{}{The supply room is off limits my son。Only myself and two others have access to that room。If you need something，you need to talk to me about it。}
+{103}{}{补给室禁止入内，我的孩子。只有我自己和其他两个人允许进入那个房间。如果你需要什么，你必须跟我讲一声。}
+
+#{104}{}{The supply room is off limits ma'am。Only myself and two others have access to that room。If you need something，you need to talk to me about it。}
+{104}{}{小姐，补给室禁止入内。只有我自己和其他两个人允许进入那个房间。如果你需要什么，你必须跟我讲一声。}
+
+#{105}{}{Didn't you hear me？I said that the rooms are off limits。}
+{105}{}{你没听见我说话吗？我说那个房间禁止入内。}
+
+#{106}{}{Hello，Brother。How can I help you？}
+{106}{}{嗨，兄弟。我能帮你吗？}
+
+#{107}{}{Please excuse me for asking，but what do you do for our Brotherhood。}
+{107}{}{请原谅我多嘴，不过，你替我们兄弟会做什么工作？}
+
+#{108}{}{What do you do around here？}
+{108}{}{你在这里做什么？}
+
+#{109}{}{I've been injured。Can you heal me？}
+{109}{}{我受伤了。你能替我医疗吗？}
+
+#{110}{}{Urak Chufar！}
+{110}{}{呜～哇！}
+
+#{111}{}{I'm sorry，but I don't understand what you want。If you need supplies，you need to have authorization。}
+{111}{}{我很抱歉，但我不知道你需要什么。如果你需要补给，你必须有授权。}
+
+#{112}{}{Taga ma。}
+{112}{}{塔嘛～}
+
+#{113}{}{Caroo！}
+{113}{}{卡拉～}
+
+#{114}{}{I still don't understand you。Maybe you need to see the Doctor   She's on level two。}
+{114}{}{我还是不明白。你也许需要去看医生，她在第二层。}
+
+#{115}{}{You should see the Doctor。She's on level two。}
+{115}{}{你应该去看医生。她在第二层。}
+
+#{116}{}{Oh，nothing quite as glorious as our Paladins。I just run the supply room，checking equipment and other supplies out to people。}
+{116}{}{哦，没有什么工作比得上游侠光荣。我只不过管补给室，为大家分派装备和其他的补给品而已。}
+
+#{117}{}{I was sent here by ……Bob。He wanted me to get him ……that new high tech weapon-thingy。He said to bring it right away。}
+{117}{}{派我到这里来的人是……鲍勃。他让我帮他取……那个新的高科技武器单元。让我马上拿过去。}
+
+#{118}{}{I'd like to check out something。How do I do that？}
+{118}{}{我想领些东西。该怎么做？}
+
+#{119}{}{Oh，that's nice。Bye。}
+{119}{}{哦，那好吧。再见。}
+
+#{120}{}{【Failed Lie】 Bob？Bob who？What are you talking about？What new high tech weapon-thingy？I need more specifics than that，and you must have the who ever it is get me the proper authorization。I cannot give anything without authorization。}
+{120}{}{【说谎失败】鲍勃？鲍勃是谁？你说什么啊？什么新的高科技武器单元？我需要比这更详细的解释，任何时候你必须让想要的人给我正确的授权。没有授权我不能给你任何东西。}
+
+#{121}{}{【Successful Lie】 Oh，you mean the laser pistol？Okay，hold on a second please。I don't have any authorization from a Bob to give anyone a laser。Oh，wait a second。I get it。Those girls downstairs think they are really funny don't they。I wish they would stop bothering me。}
+{121}{}{【说谎成功】哦，你是说镭射手枪吗？好的，等等……我没有从鲍勃那里得到给任何人一支镭射手枪的授权。哦，等一下。我明白了。楼下那些女孩以为她们真的很会搞笑，不是吗？我希望她们别要再骚扰我。}
+
+#{122}{}{Well，you know。They told me not to tell you，but it's just because they like you so much。I think one of them has a crush on you。}
+{122}{}{呃，被你猜到了。她们不让我告诉你，但那不过是因为她们很喜欢你。我想她们有人看上你了。}
+
+#{123}{}{Sorry，I had no idea what they were up to。They told me to come up here and tell you this，and that you would get a big kick out of it。}
+{123}{}{抱歉，我不知道她们在搞什么名堂。她们让我上这层来跟你讲这些，你会觉得心情愉快的。}
+
+#{124}{}{I'm sorry。It was a bad joke。I was just kidding around with you。}
+{124}{}{我很抱歉。那是个糟糕的玩笑。我不过是在捉弄你。}
+
+#{125}{}{【Failed Lie】 You're doing it again！Stop tormenting me！They are so cruel！I can't believe you would stoop to their level。Us guys are supposed to stick together。}
+{125}{}{【失败的谎言】你又来了！少来折磨我！她们这么可恶！我不敢相信你会跟她们一样俗不可耐。我们小伙子应该一致对外。}
+
+#{126}{}{You're lying！You're in cahoots with them。How could you be so cruel？}
+{126}{}{你说谎！你和她们一起搞鬼。你怎么能如此可恶？}
+
+#{127}{}{【Successful Lie】  Really？You wouldn't be pulling my leg again would you？No，you seem like a good lad。They probably forced you to do this。You know，I've caught Lara looking at me during Training。I bet it was her，right？}
+{127}{}{【成功的谎言】真的吗？你不会再捉弄我了，对吧？我想你不会的，你看起来象个好小伙。她们大概强迫你做这件事。你知道的，劳拉在我训练的时候偷看我，被我逮住了。我打赌就是她的鬼主意，没错吧？}
+
+#{128}{}{Yep，you got it。She's the one。Don't tell her I told you。She would kill me。}
+{128}{}{是的，你知道了。就是她。不要告诉她是我对你说的。她会杀了我的。}
+
+#{129}{}{No，I'm sorry。I was just messing with you。No one sent me here。}
+{129}{}{不，我很抱歉。我只是捉弄你。没有人派我来这里。}
+
+#{130}{}{You're doing it again！Stop tormenting me！You women are so cruel！}
+{130}{}{你又来了！不要再折磨我了！你们这些女人怎么这么可恶！}
+
+#{131}{}{【Successful Lie】  Really？You wouldn't be pulling my leg again would you？No，you seem like a good lass。They probably forced you to do this。You know，I've caught Lara looking at me during Training。I bet it was her，right？}
+{131}{}{【成功的谎言】真的吗？你不会再捉弄我了，对吧？我想你不会的，你看起来象一个好姑娘。她们大概强迫你做这件事。你知道的，劳拉在我训练的时候偷看我，被我逮住。我打赌就是她的鬼主意，没错吧？}
+#{132}{}{Yep，you got it。She's the one。Don't tell her I told you。She would kill me。}
+{132}{}{是的，你知道了。就是她。不要告诉她是我对你说的。她会杀了我。}
+
+#{133}{}{No，I'm sorry。I was just messing with you。No one sent me here。}
+{133}{}{不，我很抱歉。我只是给你添乱。没有人派我来这里。}
+
+#{134}{}{Well，I don't know what to say。I've always sorta had a crush on here，but I didn't want to act，because I didn't know if she felt the same way or not。Next time I see her，I think I'll ask her out。Maybe I'll try and get on the same patrol as here and surprise her with a nice romantic dinner。Thanks a lot。You have really made my day。Here，take these。You should be able to find some use for them。They're pulse grenades。Very useful against robots。Hopefully，you'll never have to use them。Bye。}
+{134}{}{嗯，我不知道说什么好。对这件事儿我一直有点动心，但我不想表现出来，因为我不知道她是否有同样的感觉。下次我见到她，我想我会请她约会。或许我可以试试找个机会和她一起执行巡逻任务，然后用一顿美好而浪漫的晚餐给她一个惊奇。多谢你。你让我感觉真的很棒。给，把这些拿去。你会用到它们的。它们是脉冲手榴弹。对付机器人十分有效。你很有希望永远不需要用到它们。再见。}
+
+#{135}{}{That's not very nice of you。Why would you say something like that if it wasn't true？Some people！}
+{135}{}{你这样做可不好。如果不是真的，你为什么要说谎呢？来人啊！}
+
+#{136}{}{Oh。You've got a strange sense of humor。Well，don't bother me unless you have something to checkout。}
+{136}{}{哦。你的幽默感太不合时宜了。好了，不要打扰我，除非你要领什么东西。}
+
+#{137}{}{Oh，those girls are always giving me a hard time。I don't know why they keep doing it。That Lara sure is cute though。I've liked her for quite some time。I knew her when she was younger。She was such a darling。Now she's older，and she treats me so terribly。I've never done anything to deserve this。}
+{137}{}{哦，那些女孩总是让我难堪。我不知道她们为什么总是这样。那个劳拉确实是够聪明。我有相当一段时间喜欢她。我很早以前就认识她了。那时候的她特别可爱。现在她变了，对我的态度越来越差了。我没做什么能让她如此对我的事情。}
+
+#{138}{}{Well，maybe she likes you。Did you ever think about that？She just might not know how to approach you。You should ask her。If you really do like her，what do you have to lose？}
+{138}{}{嗯，也许她喜欢你呢。你以前想过吗？她可能只是不知道怎样跟你套近乎。你应该问一下她。如果你真的喜欢她，那你还怕失去什么呢？}
+
+#{139}{}{Maybe she likes you。}
+{139}{}{也许她喜欢你。}
+
+#{140}{}{Uh，yeah。Okay。Bye。}
+{140}{}{哦，是的。好吧。再见。}
+
+#{141}{}{You know，you're right。What have I got to lose？The next time I see her，I think I will ask her out。
+# Maybe I'll try and get on the same patrol as here and surprise her with a nice romantice dinner。Thanks 
+# a lot。You have really made my day。Here，take these。You should be able to find a use for them。
+# They are dexterity boosters。Be careful with them They can be highly addictive。Bye。}
+{141}{}{嗯，你说的没错。我还怕失去什么呢？下次我见到她，我想我会请她约会。或许我可以试试找个机会和她一起执行巡逻任务，然后用一顿美好而浪漫的晚餐给她一个惊奇。多谢你。你让我感觉真的很棒。给，把这些拿去。你会用到它们的。它们是增强敏捷的药品。使用它们小心点，它们会高度上瘾。再见。}
+
+#{142}{}{No，that's not likely。Women sure do confuse me sometimes。I can read and understand any new schematic they put in front of me; but when it comes to women，I'm at a total loss。Thanks anyways。}
+{142}{}{不，那不太可能。女人有时候真让我糊涂。对于男人在我面前作出暗示我都能看出和理解; 但对于女人的暗示，我毫无感觉。无论如何谢谢你。}
+
+#{143}{}{No，that's not likely。You women sure do confuse me sometimes。I can read and understand any new schematic they put in front of me; but when it comes to women，I'm at a total loss。Thanks anyways。}
+{143}{}{不，那不太可能。你们女人有时候真让我糊涂。对于男人在我面前作出暗示我都能看出和理解; 但对于女人的暗示，我毫无感觉。无论如何谢谢你。}
+
+#{144}{}{You need to have the proper authorization。only specific people can give authorization to check out items from the supply room。}
+{144}{}{你需要有正确的授权。只有特定的人有权签发从补给室领用物品的授权。}
+
+#{145}{}{Oh。Okay，thanks。Who do I need to talk to then？}
+{145}{}{哦。好的，谢谢。那我需要找谁谈谈呢？}
+
+#{146}{}{I have been given authorization to check something out。Could you check the terminal to see if it went through yet？}
+{146}{}{我获得了授权来领些东西。你能检查一下终端，看它是否通过审查了吗？}
+
+#{147}{}{Who can give me authorization？}
+{147}{}{谁能给我授权呢？}
+
+#{148}{}{Well，there are quite a few people actually; but Talus is the person you should probably talk to。You might also want to check with Mathia，she might be able to help you，too。}
+{148}{}{嗯，事实上有相当多的人；但塔鲁斯大概是你应该去谈谈的人。或者你找马蒂雅协商一下，她也可能会帮助你。}
+
+#{149}{}{Where can I find Mathia？}
+{149}{}{我在哪里能找到马蒂雅？}
+
+#{150}{}{Where's Talus？}
+{150}{}{塔鲁斯在哪里？}
+
+#{151}{}{Okay，thanks。}
+{151}{}{好的，谢谢。}
+
+#{152}{}{Mathia is Maxon's assistant。She is technically the High Elder's assistant，but she works with all the other Elders。She is normally in the Elders' Rooms。That's located on the fourth floor。}
+{152}{}{马蒂雅是马克松的助手。她是元老们的技术助手，但她和其他所有的长老一起工作。她通常在长老们的房间里。那是在第四层。}
+
+#{153}{}{Okay。Where's Talus？}
+{153}{}{好的。塔鲁斯在哪里？}
+
+#{154}{}{Okay。Thanks。Bye。}
+{154}{}{好的。谢谢。再见。}
+
+#{155}{}{Why，he's in the training room to my left。}
+{155}{}{怎么了，他不就在我左边的训练室吗？}
+
+#{156}{}{Great。Now，could you also direct me to where I can find Mathia？}
+{156}{}{太好了。现在，你还能告诉我在哪里能找到马蒂雅吗？}
+
+#{157}{}{How about Mathia。}
+{157}{}{马蒂雅怎么样？}
+
+#{158}{}{Thanks。Talk to you later。}
+{158}{}{谢谢。稍后找你聊。}
+
+#{159}{}{Yes，during the day she is normally in the Elders' Rooms。That's located on the fourth floor。}
+{159}{}{是的，白天她通常在长老们的房间里。那是在第四层。}
+
+#{160}{}{Thank you。You have been very helpful。}
+{160}{}{谢谢你。你真是帮了我的大忙。}
+
+#{161}{}{Well，here's the drug you had authorization for。Be careful with that。They can become addictive if you use 
+# them too often。Detoxing and withdrawals are not much fun，but I guess they're pretty much the same thing。
+# Use at your own risk。Is there anything else I can do for you？}
+{161}{}{嗯，这是你的授权可以获得的药品。小心使用那些东西。如果你太频繁使用它们就会上瘾。停止服药和戒除药瘾都不是好玩的，不过，我想它们差不多也就是一回事。使用它还是有风险的。我还能为你做点别的什么吗？}
+
+#{162}{}{No，that's it。Thanks。}
+{162}{}{不，就这样吧。谢谢。}
+
+#{163}{}{Yes，I have something else to pick up。}
+{163}{}{是的，我还要领些别的东西。}
+
+#{164}{}{Well，here's the drug you wanted。That's some handy stuff。I'm sure it will be useful。Did you need something else？}
+{164}{}{嗯，这是你要的药品。那是些常见的材料。我相信它会有用的。你还需要别的东西吗？}
+
+#{165}{}{No，that's it。Thanks。}
+{165}{}{不，就这样吧。谢谢。}
+
+#{166}{}{Yes，I have something else to pick up。}
+{166}{}{是的，我还要领些别的东西。}
+
+#{167}{}{Okay，I've got some of that。You never can have enough ammo right？Well，there you are。Anything else？}
+{167}{}{好的，我有一些。你总是缺少弹药吧？嗯，这些给你。还要别的东西吗？}
+
+#{168}{}{No，that's it。Thanks。}
+{168}{}{不，就这样吧。谢谢。}
+
+#{169}{}{Yes，I have something else to pick up。}
+{169}{}{是的，我还要领些别的东西。}
+
+#{170}{}{Oh，these can really be dangerous。Just be sure you are far enough away when they go off。There you are。Anything else？}
+{170}{}{哈，这些真是危险的。不过，它们爆炸的时候你确保离得够远就行。给你。要点别的什么吗？}
+
+#{171}{}{"No，that's it。Thanks。}
+{171}{}{不，就这样吧。谢谢。}
+
+#{172}{}{Yes，I have something else to pick up。}
+{172}{}{是的，我还要领些别的东西。}
+
+#{173}{}{Ah，nothing like a good weapon by your side。Anything else？}
+{173}{}{哈，没有什么比得上身边有件好武器。要别的什么吗？}
+
+#{174}{}{No，that's it。Thanks。}
+{174}{}{不，就这样吧。谢谢。}
+
+#{175}{}{Yes，I have something else to pick up。}
+{175}{}{是的，我还要领些别的东西。}
+
+#{176}{}{A good defense is the best offense。Or was it the other way around？Well，it doesn't matter。Here's your armor。Be sure to take care of it。I can't give out more than one set。Was there another item you needed？"}
+{176}{}{稳固的防守就是最好的进攻。反过来说或许也是一样吧？嗯，无所谓啦。这是你的装甲。务必保养好它，我只能给你这一套了。你还需要别的物品吗？}
+
+#{177}{}{No，that's it。Thanks。}
+{177}{}{不，就这样吧。谢谢。}
+
+#{178}{}{Yes，I have something else to pick up。}
+{178}{}{是的，我还要领些别的东西。}
+
+#{179}{}{Well，this can be useful in the right hands。Here you go。Anything else？}
+{179}{}{嗯，正确使用的话，这个东西可是很有用的。给你。还要别的东西吗？}
+
+#{180}{}{No，that's it。Thanks。}
+{180}{}{不，就这样吧。谢谢。}
+
+#{181}{}{Yes，I have something else to pick up。}
+{181}{}{是的，我还要领些别的东西。}
+
+#{182}{}{Oh，something else？Sorry，I must have missed it。Let me see。}
+{182}{}{哦，还有别的东西吗？抱歉，我一定漏掉了它，让我看看。}
+
+#{183}{}{Hello，again。How are you doing today？How can I help you？}
+{183}{}{嗨，又见面了。今天的事情忙得怎样？我能帮你什么吗？}
+
+#{184}{}{Is there anything I can help you with？You seem to be awfully busy。}
+{184}{}{有什么我能帮你吗？你看来忙得很。}
+
+#{185}{}{I have something to pick up。}
+{185}{}{我要领些东西。}
+
+#{186}{}{Nothing，bye。}
+{186}{}{没什么，再见。}
+
+#{187}{}{Could you ever possibly help me？I don't think so。Get out of my way。}
+{187}{}{你以曾经帮过我吗？没有，你根本没帮过我什么。滚！}
+
+#{188}{}{Okay，let me see here。}
+{188}{}{好的，让我看看。}
+
+#{189}{}{Ah，yes。You do have authorization to check something out。}
+{189}{}{哦，是的。你有领用一些物品的授权。}
+
+#{190}{}{Well actually。Sophia has been in need of some Pulse grenades but I haven't had a chance to run them down to her yet。 Do you think you could run them down for me？}
+{190}{}{嗯，说实话，索菲娅需要一些脉冲手榴弹，但我还没有机会把它们交给她。你替我送过去，如何？}
+
+#{191}{}{Sure。Hand them over。}
+{191}{}{当然。不就是送过去嘛。}
+
+#{192}{}{Sorry，I don't have time。Hope you can find someone else。}
+{192}{}{抱歉，我没空。希望你能找到别人帮你。}
+
+#{193}{}{What do I look like，your lackey？}
+{193}{}{我看起来像什么，你的马仔吗？}
+
+#{194}{}{Okay，there you go。Sophia is one of the two Assistant Master Scribes for Vree。 She is normally in the library on the third floor。}
+{194}{}{好的，你去吧。索菲娅是弗蕾的两个高级助理研究员之一。她通常在第三层的图书馆。}
+
+#{195}{}{Why haven't you delivered the items I gave you？Sophia is expecting them。}
+{195}{}{你为什么没把我给你的东西送过去？索菲娅正在等它们。}
+
+#{196}{}{I'm sorry。Could you tell me where she is again。}
+{196}{}{我很抱歉。你能再告诉我她在哪里吗？}
+
+#{197}{}{I lost them。Can I have some more？}
+{197}{}{我弄丢它们了。能再给我一些吗？}
+
+#{198}{}{I'm sorry，I lost track of time。}
+{198}{}{我很抱歉，我误了时间了。}
+
+#{199}{}{Ha！You thought I would actually deliver it？You're dumber than you look！}
+{199}{}{哈！你以为我真的会把东西送过去吗？你比外表看上去更蠢！}
+
+#{200}{}{She is normally in the library on the third floor。}
+{200}{}{她通常在第三层的图书馆。}
+
+#{201}{}{Guards！We have a thief！Show him what we do to those that betray the Brotherhood。}
+{201}{}{卫兵！我们有小偷！让他看看我们怎么修理那些背叛兄弟会的人。}
+
+#{202}{}{Guards！We have a thief！Show her what we do to those that betray the Brotherhood。}
+{202}{}{卫兵！我们有小偷！让她看看我们怎么修理那些背叛兄弟会的人。}
+
+#{203}{}{Sorry，I'm not talking to the likes of you。}
+{203}{}{抱歉，我不跟你这种人说话。}
+
+#{204}{}{Likely story。I knew I shouldn't have trusted someone like you。}
+{204}{}{故事编得真好啊。我就知道不应该信任你这种人。}
+
+#{205}{}{I can't believe you'd show your face around here again。
+# I hope the grenades were useful，you're never getting anything from me again。
+# I don't care who supposedly gives you authorization。}
+{205}{}{我真不敢相信你还有脸回来。留着那些手榴弹，你自己玩吧。从我这里你再也领不到任何东西了。我不管谁给你签发授权书。}
+
+#{206}{}{Why hello again。Sophia says you delivered the grenades。
+# That was very kind of you。She is working on a better version and needed to
+# see if the circuitry was compatible。}
+{206}{}{嗨，又见面了。索菲娅说你把那些手榴弹送过去了，真是太好了。她在设计一个更好的型号，需要看那些电路是否兼容。}
+
+#{207}{}{What do you want。}
+{207}{}{你想要什么？}
+
+#{208}{}{Just give me what I have to pick up and I'll be out or your way。}
+{208}{}{只管给我要的东西，否则不是我就是你完蛋。}
+
+#{209}{}{Nothing。}
+{209}{}{没什么。}
+
+#{210}{}{Well fine。Let me just check and see if I have an order。}
+{210}{}{很好。让我检查一下，看我是否接到命令。}
+
+#{211}{}{Okay，you need some ammunition do you。Well what kind did you need。}
+{211}{}{好的，你需要一些弹药吗？嗯，你需要什么型号的？}
+
+#{212}{}{I don't know。}
+{212}{}{我不清楚。}
+
+#{213}{}#{10mm Jacketed Hollow Point。}
+{213}{}{10mm JHP。}
+
+#{214}{}#{10mm Armor Piercing。}
+{214}{}{10mm AP。}
+
+#{215}{}{44 magnum Jacketed Hollow Point。}
+{215}{}{.44 MJHP。}
+
+#{216}{}{44 magnum Full Metal Jacket。}
+{216}{}{.44 FMJ。}
+
+#{217}{}#{14mm Armor Piercing}
+{217}{}{14mm AP。}
+
+#{218}{}{。223 Full Metal Jacket。}
+{218}{}{.223 FMJ。}
+
+#{219}{}{5mm Jacketed Hollow Point。}
+{219}{}{5mm JHP。}
+
+#{220}{}{5mm Armor Piercing。}
+{220}{}{5mm AP。}
+
+#{221}{}{Shotgun shells。}
+{221}{}{散弹枪子弹。}
+
+#{222}{}{Well you need to find out what type of ammunition you need before
+# I can give it to you。Just examine the weapon that you requested ammunition for。
+# When you figure it out，just give me a holler。}
+{222}{}{嗯，你得知道需要什么型号的弹药，我才能给你。看看你需要弹药的武器。等你知道了，喊我一声就行。}
+
+#{223}{}{Ah a rocket launcher···nothing like a good weapon by your side。So，will that be it？}
+{223}{}{啊，火箭筒……没有什么比得上身边有件好武器。那么，就是它吗？}
+
+#{224}{}{No，that's it。Thanks。}
+{224}{}{不，就这样吧。谢谢。}
+
+#{225}{}{Yes，I have something else to pick up。}
+{225}{}{是的，我还要领些别的东西。}
+
+#{226}{}{Ah yes，here is the fine pistol you're looking for。So，will that be it？}
+{226}{}{啊是的，这是你要找的那把好手枪。那么，就是它吗？}
+
+#{227}{}{No，that's it。Thanks。}
+{227}{}{不，就这样吧。谢谢。}
+
+#{228}{}{Yes，I have something else to pick up。}
+{228}{}{是的，我还要领些别的东西。}
+
+#{229}{}{A good defense is the best offense。Or was it the other way around？Well，it doesn't matter。Here's your armor。Be sure to take care of it。I can't give out more than one set。Was there another item you needed？}
+{229}{}{稳固的防守就是最好的进攻。反过来说或者也是一样吧？嗯，无所谓啦。给你盔甲。小心保养它。我就只能给你这一套。你还需要别的物品吗？}
+
+#{230}{}{No，that's it。Thanks。}
+{230}{}{不，就这样吧。谢谢。}
+
+#{231}{}{Yes，I have something else to pick up。}
+{231}{}{是的，我还要领些别的东西。}
+
+#{232}{}{Hmmm···Powered Armor。Be sure to take care of it。I can't give out more than one set。Was there another item you needed？}
+{232}{}{嗯……动力装甲。务必小心保养它。我就只能给你这一套。你还需要另外的物品吗？}
+
+#{233}{}{No，that's it。Thanks。}
+{233}{}{不，就这样吧。谢谢。}
+
+#{234}{}{Yes，I have something else to pick up。}
+{234}{}{是的，我还要领些别的东西。}
+
+#{235}{}{Well，this can be useful in the right hands。Here you go。Anything else？}
+{235}{}{嗯，正确使用的话，这个东西可是很有用的。给你。还有别的东西吗？}
+
+#{236}{}{No，that's it。Thanks。}
+{236}{}{不，就这样吧。谢谢。}
+
+#{237}{}{Yes，I have something else to pick up。}
+{237}{}{是的，我还要领些别的东西。}
+
+#{240}{}{I'm looking for a Systolic Motivator。}
+{240}{}{我在找一个动力装甲驱动器。}
+
+#{241}{}{Do you have the proper authorization？}
+{241}{}{你有正确的授权吗？}
+
+#{242}{}{Yes。I was sent up here to get a Systolic Motivator。}
+{242}{}{是的。有人派我来这里取一个动力装甲驱动器。}
+
+#{243}{}{No I don't，but it is imperative that I get that part。}
+{243}{}{不，我没有，但我领取那个部件是急用。}
+
+#{244}{}{Kyle sent me up to get the part。}
+{244}{}{凯尔派我上来取这个部件。}
+
+#{245}{}{No。How do I get authorization？}
+{245}{}{不。我怎么获得授权？}
+
+#{246}{}{Let me look here。(he checks his terminal) Well I don't see a Request for a Systolic Motivator？You'll need to get the proper authorization。}
+{246}{}{让我看一下这里。(他检查他的终端) 嗯，我没看到要一个动力装甲驱动器的申请呢？你需要拿到正确的授权书。}
+
+#{247}{}{Now look！I don't want any trouble。Just give me the damn part。}
+{247}{}{现在你给我看好了！我不想找什么麻烦。只管给我那个该死的部件。}
+
+#{248}{}{Come on？Please。I really need this part。}
+{248}{}{快点吧？拜托。我真的需要这个部件。}
+
+#{249}{}{OK。Sorry to bother you。}
+{249}{}{好的。抱歉打扰你。}
+
+#{250}{}{You don't？Ordinance was suppose to send one down yesterday。 Look，can you help me out？If I don't get this part it's gonna be my ass。I'm sure the form will be here later today。}
+{250}{}{你不能？指令昨天应该就下达了。你看能帮我想个办法吗？如果我取不到这个部件，我的屁股就要挨板子。我向你保证那个表格今天晚些时候就会到这里。}
+
+#{251}{}{OK。Here you go。Just don't tell anyone that I gave this to you。 Rhombus would have my head if he knew I had given the parts out without proper authorization。}
+{251}{}{好的，你拿去吧。你不要告诉任何人我给了你这个。隆伯斯要是知道我没有正确的授权就给你这个部件，他会要我的脑袋。}
+
+#{252}{}{Thank you。Bye。}
+{252}{}{谢谢你。再见。}
+
+#{253}{}{I would give it to you if I could。But I can't。Not without proper authorization。}
+{253}{}{如果能的话我就给你了。但我不能这么做，没有正确的授权，我就不能给。}
+
+#{254}{}{You know Michael，you're probably one of the brightest guys
+# I've talked to here。But I don't understand why you're giving me
+# such a hard time。I really need that part。}
+{254}{}{你知道，迈克尔，你大概是我在这里交谈过的最聪明的家伙。我就不理解你为什么让我这么为难。我真的需要那个部件。}
+
+#{255}{}{Oh。。Well。I guess I understand。I don't know what I'm going to do，though。}
+{255}{}{哦。。好吧。我想我明白了，虽然我不知道下一步该怎么做了。}
+
+#{256}{}{Just give it to me。}
+{256}{}{只管把它给我。}
+
+#{257}{}{If you don't have authorization you can not get replacement parts。} 
+{257}{}{如果你没有授权，你不能领走零部件。} 
+
+#{258}{}{Come on？Please。I really need this part。}
+{258}{}{快点吧？拜托。我真的需要这个部件。}
+
+#{259}{}{OK。Sorry to bother you。Bye。}
+{259}{}{好吧。抱歉打扰你。再见。}
+
+#{260}{}{Kyle？Is this about that old junked Power Armor？}
+{260}{}{凯尔？这跟那件破旧的动力装甲有关吗？}
+
+#{261}{}{Yes。}
+{261}{}{是的。}
+
+#{262}{}{No。}
+{262}{}{没有。}
+
+#{263}{}{You can tell him that when he gets that unit back to its original glory，then and only then will he get the authorization he needs。Good Bye。}
+{263}{}{你可以告诉他，只有当他把那件动力装甲修好恢复它原先的光彩后，他才会获得需要的授权。再见。}
+
+#{264}{}{You don't。First Kyle needs to see the Unit in need of repair。
+ # If he feels the repair is warranted he then puts in a parts request。
+ # Rhombus reviews the requests and determines which ones are viable。
+ # Go talk to Kyle。Bye。}
+{264}{}{你不能。首先凯尔需要察看需要修理的物品。如果他觉得维修是正当的，那他就会提交部件的申请。隆伯斯则审批哪些申请是可行的。你去找凯尔谈谈吧。再见。}
+
+#{265}{}{Goodbye。}
+{265}{}{再见。}
+
+#{266}{}{Oh···yeah，well Kyle sent me。Could you check your terminal one more time。}
+{266}{}{哦……是的，嗯，凯尔派我来。你能再检查一次你的终端吗。}
+
+#{267}{}{But Rhombus sent me。}
+{267}{}{但我是隆伯斯派来的。}
+
+#{268}{}{Your not getting the part and that's final。I told you what you need to do and I'm not going to repeat myself。}
+{268}{}{最后说一次，你不能领这个部件。我告诉过你需要做什么，我不想再重复了。}

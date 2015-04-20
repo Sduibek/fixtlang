@@ -1,0 +1,542 @@
+#{100}{}{You see Morpheus.}
+{100}{}{你看见墨菲斯。}
+
+#{101}{MORP02}{I don't remember inviting anyone to my room?  And yet I have a visitor. Why?}
+{101}{MORP02}{我不记得请过谁到我的房间来？但有人来拜访我，怎么回事？}
+
+#{102}{}{Oh, I'm sorry. I seem to be lost.}
+{102}{}{哦，抱歉。看来我是走错地方了。}
+
+#{103}{}{Because I have such a deal for you...}
+{103}{}{因为我有某一桩买卖跟你谈……}
+
+#{104}{}{I'm }
+{104}{}{我是}
+
+#{105}{}{. What's yours?}
+{105}{}{。你的什么？}
+
+#{106}{}{One of the Brothers sent me up here.}
+{106}{}{一个教友派我上这里来的。}
+
+#{107}{}{Mom?}
+{107}{}{妈？}
+
+#{108}{MORP02A}{No.  I'm Father Death...}
+{108}{MORP02A}{不。我是死神老爸……}
+
+#{109}{MORP03}{Well, my child, it's quite dangerous to explore places where you do not belong.  Where were you heading that you ended up in my private chambers?}
+{109}{MORP03}{嗯，我的孩子，窥探不属于你的地方是十分危险的。你去哪里？怎么会跑到我这里来？}
+
+#{110}{}{I'm new, and I was looking for the bathroom. One of the other High Priests sent me up here.}
+{110}{}{我是新来的，我在找茅厕。另外一个高级牧师派我上这里来的。}
+
+#{111}{}{I was looking for the confessional, and one of the High Priests sent me up here. I'm really sorry I ended up here!}
+{111}{}{我在找忏悔室，一个高级牧师派来上这里来的。我误入你的房间，真是抱歉！}
+
+#{112}{}{Well, I'm not really lost.}
+{112}{}{嗯，我不是真迷路了。}
+
+#{113}{}{I was heading up here to kill you.}
+{113}{}{我到这里来取你的狗命。}
+
+#{114}{}{I forget. I'll just go.}
+{114}{}{我忘了。我这就走。}
+
+#{115}{MORP04}{ Ahh...Heh, heh heh. That would be Lasher.  He so loves getting the worshipers in trouble.  This is your lucky day, my ignorant little friend.  You may leave now without incident. }
+{115}{MORP04}{啊……嗨，嗨嗨。那是拉舍尔吧。他这么喜欢让信徒们陷入麻烦。今天是你的幸运日，我无知的小朋友。现在没事了，你走吧。}
+
+#{116}{MORP04A}{ You were warned.  Guards! }
+{116}{MORP04A}{我警告过你的。卫兵！}
+
+#{117}{MORP05A}{ You are a pathetic liar.  Tell me the real reason you are here now...before I have you skinned alive. }
+{117}{MORP05A}{你是个可怜的骗子。现在，在我活剥了你的皮之前……告诉我到这里的真正原因。}
+
+#{118}{}{No really! I'm lost!}
+{118}{}{真的不！我迷路了！}
+
+#{119}{}{All right, you got me. I'm here to offer you a deal.}
+{119}{}{好的，你看出来了。我到这里是来找你谈一桩买卖。}
+
+#{120}{}{I'm just looking around.}
+{120}{}{我不过是四处看看。}
+
+#{121}{MORP06}{ I suspect you are a spy, sent by the Followers.  I may be wrong, but I do not take chances. You must be eliminated. }
+{121}{MORP06}{我怀疑你是间谍，是末世论者派来的。我也可能搞错了，但我不能冒这个险。你必须去死。}
+
+#{122}{MORP07}{ What could you possibly offer me? }
+{122}{MORP07}{你能给我提供点什么？}
+
+#{123}{}{I'm from a Vault. You know what that is, right?}
+{123}{}{我是从一个避难所来的。你知道那是什么，对吗？}
+
+#{124}{}{I'd like to offer you some information about your enemies.}
+{124}{}{我想向你提供一些你敌人的情报。}
+
+#{125}{}{I was sent here by the Master. He wants me to spy on you.}
+{125}{}{我是主教派来这里的。他要我监视你。}
+
+#{126}{morp08}{Go on.}
+{126}{morp08}{继续说。}
+
+#{127}{}{I'd like to give your master a bit of information about my Vault.}
+{127}{}{我想给你的主教一些关于我们避难所的情报。}
+
+#{128}{}{I have some information for the Master about my Vault.}
+{128}{}{我有一些关于我们避难所的情报给主教。}
+
+#{129}{}{Not so fast. I want to know what I can get for my information.}
+{129}{}{不要那么急。我想知道我的情报能换到什么。}
+
+#{130}{MORP09}{ I do not have a master, you imbecile! }
+{130}{MORP09}{我没有主教，你这个白痴！}
+
+#{131}{}{Then what do you call the Master? Doesn't he control you?}
+{131}{}{那你称呼那个主教叫什么呢？他不是控制你吗？}
+
+#{132}{}{It sure looks like the Master controls you.}
+{132}{}{看来那个主教确实控制了你。}
+
+#{133}{}{Hey. Watch it with the insults!!}
+{133}{}{嗨。有人恼羞成怒了！！}
+
+#{134}{}{I seem to have hit a nerve.}
+{134}{}{看来我触到了某人的痛处。}
+
+#{135}{MORP10}{ No one controls me.  He and I are...partners. }
+{135}{MORP10}{没有人控制我。我和他是……合伙人。}
+
+#{136}{}{Yeah, right.  You're a puppy on a short leash.}
+{136}{}{是的，没错。你就是一条被短狗链拴着的小狗崽。}
+
+#{137}{}{It doesn't matter. I have information about a Vault he
+ would want.}
+{137}{}{那无妨。我有他想要的关于一个避难所的情报。}
+
+#{138}{}{He gives commands, right? And you follow them, no questions asked.}
+{138}{}{他发布命令，对吗？你服从它们，屁都不敢放一个。}
+
+#{139}{MORP11}{ I do not tolerate insults. Guards! }
+{139}{MORP11}{我不能容忍你的侮辱。卫兵！}
+
+#{140}{MORP12}{ Fine. I will take you to the Master. But if you are lying, he will know. }
+{140}{MORP12}{很好。我会带你到主教那里去。不过，你要是撒谎的话，他会知道的。}
+
+#{141}{}{Okay, fine.}
+{141}{}{好的，很好。}
+
+#{142}{}{You're not taking me anywhere!}
+{142}{}{你不能带我到任何地方去！}
+
+#{143}{MORP13}{ That is none of your concern.  But if you are truly from a Vault, the Master will find out.  Guards!  Come along.}
+{143}{MORP13}{这你就不必费心了。但你要是真从一个避难所来，主教会查明的。卫兵！来啊。}
+
+#{144}{MORP14}{You may keep your life.  Now, tell me what you know. }
+{144}{MORP14}{你或许能保住小命。现在，把你知道的事告诉我。}
+
+#{145}{}{I'm from a Vault, and I'm willing to give the Master the location.}
+{145}{}{我从一个避难所来，我愿意把这个地点提供给主教。}
+
+#{146}{}{Or what?}
+{146}{}{否则怎样？}
+
+#{147}{}{I won't tell you anything.}
+{147}{}{我不会告诉你任何事情。}
+
+#{148}{MORP15}{ No? Then I will take the information from you.  Guards! }
+{148}{MORP15}{不吗？那我会从你身上挖出情报。卫兵！}
+
+#{149}{MORP16}{ And who might my enemies be? }
+{149}{MORP16}{谁可能是我的敌人呢？}
+
+#{150}{}{Well, the Followers, for one.}
+{150}{}{唔，举例来说，末世论者。}
+
+#{151}{}{From where I stand, it looks like everyone.}
+{151}{}{在我看来，每个人看起来都象。}
+
+#{152}{MORP17}{ Tell me what you know. }
+{152}{MORP17}{把你知道的事告诉我。}
+
+#{153}{}{I don't think so. Take me to the Master. Him, I'll tell.}
+{153}{}{我不这样认为。带我去见主教。他，我会说出来。}
+
+#{154}{}{Let's just say I know something to help you out against them.}
+{154}{}{也就是说我知道些事情有助于你对付他们。}
+
+#{155}{MORP18}{ Give me the information or die a slow...lingering...death. }
+{155}{MORP18}{给我那个情报，否则就会慢慢地……一点点地……死亡。}
+
+#{156}{}{Think the Master would be happy if you killed a Vault dweller?}
+{156}{}{如果你杀死一个避难所原住民，你认为主教会高兴吗？}
+
+#{157}{}{I'm only talking to the Master.}
+{157}{}{我只告诉主教。}
+
+#{158}{MORP19}{ Ahh...So you are the Vault dweller I've been hearing about. Surprised?  I have my sources. Now, I will take you as a gift to the Master. He'll be very pleased. }
+{158}{MORP19}{啊哈……这么说你就是我听说过的那个避难所原住民。吃惊吧？我有我的消息来源。现在，我要把你当作礼物献给主教。他会很高兴的。}
+
+#{159}{}{How about we take you out in a bag, instead?}
+{159}{}{不妥，我看还是把你塞进裹尸袋里吧，怎么样？}
+
+#{160}{}{And so will I.}
+{160}{}{我也会很高兴的。}
+
+#{161}{MORP20}{ A spy? Very foolish of you.  It will be difficult to report to him when you are dead, won't it? }
+{161}{MORP20}{间谍？你蠢死了。当你变成尸体的时候，就不容易向他揭发，不是吗？}
+
+#{162}{MORP21}{ You are a bad liar. Now, tell me what you want. }
+{162}{MORP21}{你是一个拙劣的骗子。现在告诉我，你想干什么？}
+
+#{163}{}{I'm from a Vault. You do know what that is, right?}
+{163}{}{我从一个避难所来。你知道那是什么，对吗？}
+
+#{164}{}{I'd like to offer you some information about your enemies.}
+{164}{}{我愿意向你提供一些你敌人的情报。}
+
+#{165}{MORP23}{ How surprising.  Now tell me why you are here. }
+{165}{MORP23}{真令人吃惊。现在告诉我为什么到这里来。}
+
+#{166}{}{I'm from a Vault, and I'm willing to give the Master the location.}
+{166}{}{我从一个避难所来，我愿意向主教提供这个地点。}
+
+#{167}{}{I'd like to offer you some information about your enemies.}
+{167}{}{我愿意向你提供一些你敌人的情报。}
+
+#{168}{}{You're not very intimidating.}
+{168}{}{你吓唬不了我。}
+
+#{169}{}{I won't tell you anything.}
+{169}{}{我不会告诉你任何东西。}
+
+#{170}{MORP24}{ Oh, really?  And how do you plan to do that? With your stunning wit and sharp tongue? }
+{170}{MORP24}{哦，真的？你计划怎样搞定那件事？凭你的天才智商和花言巧语吗？}
+
+#{171}{}{No, with this . . .}
+{171}{}{不，凭这个……}
+
+#{172}{}{That would be too easy against you. I'll go the more challenging route.}
+{172}{}{对付你那是轻而易举。我要走一条更有挑战性的路线。}
+
+#{173}{}{I think a bullet to the head will do.}
+{173}{}{我认为在脑袋上喂颗子弹就搞定了。}
+
+#{174}{MORP26}{ Here's your deal. Tell me what you know, and you'll be able to walk out of here on both legs.}
+{174}{MORP26}{这是我开给你的条件。你把知道的东西告诉我，就能用两条腿从这里走出去。}
+
+#{175}{}{I'm from a Vault, and I'm willing to give the Master the location.}
+{175}{}{我从一个避难所来，我愿意向主教提供这个地点。}
+
+#{176}{}{I'd like to offer you some information about your enemies.}
+{176}{}{我愿意向你提供一些你敌人的情报。}
+
+#{177}{}{You're not very intimidating.}
+{177}{}{你吓唬不了我。}
+
+#{178}{}{I won't tell you anything.}
+{178}{}{我啥也不会告诉你。}
+
+#{179}{MORP27}{ I ask the questions, not you.  Now, tell me what you are doing here. }
+{179}{MORP27}{是我问你，轮不到你来问我。现在告诉我，你在这里做什么？}
+
+#{180}{}{I'm just lost.}
+{180}{}{我不过是迷路了。}
+
+#{181}{}{I'm here to make you a deal.}
+{181}{}{我到这里来跟你谈笔买卖。}
+
+#{182}{morp28}{Yes?}
+{182}{morp28}{嗯？}
+
+#{183}{}{Hi. I'm new to the Children and was wondering if I could ask you a few questions.}
+{183}{}{嗨。我是新加入大教堂的，想知道能否问你几个问题。}
+
+#{184}{}{Never mind.}
+{184}{}{没关系。}
+
+#{185}{}{Nuhhh?}
+{185}{}{唔唔？}
+
+#{186}{morp29}{Of course, my child.}
+{186}{morp29}{当然，我的孩子。}
+
+#{187}{}{Thanks . . .}
+{187}{}{谢谢……}
+
+#{188}{}{Never mind.}
+{188}{}{没关系。}
+
+#{189}{}{What are the Children's plans?}
+{189}{}{大教堂的计划是什么？}
+
+#{190}{}{Changed my mind. No more questions.}
+{190}{}{我改变主意了。没有什么问题了。}
+
+#{191}{}{What you say if I told you I'm from a Vault?}
+{191}{}{如果我告诉你，我从一个避难所来，你会说什么呢？}
+
+#{192}{MORP31}{ Our plans?  We are the messengers of evolution, my child. We follow the Master in his endless quest to heal the land and the people.}
+{192}{MORP31}{我们的计划？我们是进化的使者，我的孩子。我们追随主教的无尽的使命，恢复这片土地和人们。}
+
+#{193}{}{Really? Just what kind of evolution are you teaching?}
+{193}{}{真的？那你宣讲的进化是怎么回事？}
+
+#{194}{}{What kind of healing?}
+{194}{}{什么样的恢复？}
+
+#{195}{MORP32}{ We know there is a higher level, a glorious place humanity should strive to reach.  Ours is the goal to find the life better, more fulfilling, than the present one, marred by hardship and strife. }
+{195}{MORP32}{我知道人类应该努力发展到一个更高的境界和更荣耀的地位。我们的目标是寻求更好的生活，相比现在被苦难和冲突损害的生活更值得为之奋斗。}
+
+#{196}{}{You're kidding, right?}
+{196}{}{你在说笑，对吗？}
+
+#{197}{}{And have you found this higher level ?}
+{197}{}{你找到了这个更高的境界吗？}
+
+#{198}{MORP33}{【Angry】Why you!...【Calmly】You are forgiven. Not everyone is capable of seeing the light. But, tell me my child, why did you join us? }
+{198}{MORP33}{【生气】你竟然……！【冷静下来】我可以宽恕你，不是每个人都有能力见到光明。但是，我的孩子，你告诉我，你为什么加入我们？}
+
+#{199}{}{I had to see if this was as much of a joke as I'd heard. Now I know.}
+{199}{}{我要看这是否跟我听过的笑话差不多。现在我知道了。}
+
+#{200}{}{Sorry. I guess I was out of line.}
+{200}{}{抱歉。我想是我的觉悟还不够。}
+
+#{201}{morp34}{You know nothing.}
+{201}{morp34}{你完全不了解。}
+
+#{202}{MORP35}{ Yes, you were, but you are forgiven.  Now, if there are no more questions, I have work to do. }
+{202}{MORP35}{是的，你是的，但你被宽恕了。现在，如果没有别的问题，我有事要忙。}
+
+#{203}{}{Actually, there are some more.}
+{203}{}{事实上，我还有些问题。}
+
+#{204}{}{Nope, thanks.}
+{204}{}{不，谢谢。}
+
+#{205}{MORP36}{ Of course. Please.  Continue.}
+{205}{MORP36}{当然。请。继续吧。}
+
+#{206}{MORP37}{ Yes, but you are...forgiven.  Go in peace, my child. }
+{206}{MORP37}{是的，不过你……已经被宽恕了。你安心去吧，我的孩子。}
+
+#{207}{MORP38}{ No, but with faith and hope, we're certain to find it. But all this should be known to you, my child.}
+{207}{MORP38}{不，但是由于信仰和希望，我们必定会找到它。这一切你应该了解的，我的孩子。}
+
+#{208}{}{I know, but just a few more questions, please.}
+{208}{}{我了解，只不过还要请问几个问题。}
+
+#{209}{}{I know. Goodbye.}
+{209}{}{我了解。再见。}
+
+#{210}{MORP39}{ We cure the physical body to start.  You've certainly seen our hospitals.  Then we offer hope and healing for the spirit. }
+{210}{MORP39}{我们从医治人们物质上的身体开始。你当然见过我们的医院。然后，我们提供精神上的希望和医治。}
+
+#{211}{}{Wow. I almost believed that. You're good!}
+{211}{}{哇。我几乎相信那些了。你们是好心的！}
+
+#{212}{}{Where are these hospitals?}
+{212}{}{这些医院在哪里呢？}
+
+#{213}{MORP40}{ Our glorious effort has just reached Adytum and, of course, the Hub shines with our efforts there.  But, I have a feeling there's more you wish to ask. }
+{213}{MORP40}{我们光荣的努力刚到达内城区，当然，哈勃城那里也因我们的努力生气勃勃。但是，我有种感觉，你有更多的事情想问。}
+
+#{214}{MORP41}{ These are wondrous days.  Junktown now joins in Adytum and the Hub in our quest to save body and soul.  Is there more you wish to know, my child? }
+{214}{MORP41}{这些都是不平凡的日子。迦克镇现在加入内城区和哈勃城的行列，都在我们履行拯救肉体和灵魂的使命中，你还想知道更多吗，我的孩子？}
+
+#{215}{}{As a matter of fact . . .}
+{215}{}{事实上……}
+
+#{216}{}{Nothing. I gotta go.}
+{216}{}{没什么。我要走了。}
+
+#{217}{MORP42}{ The Children's vision now stretches from Adytum, to the Hub, Junktown, and now gently caresses Shady Sands.  Why do you ask? }
+{217}{MORP42}{大教堂的目光现在从内城区延伸，投向哈勃城，迦克镇，现在正轻抚着沙荫镇。你为什么要问这个？}
+
+#{218}{}{Just wondering. Can I ask you a few more questions?}
+{218}{}{只是觉得奇怪。我能多问你几个问题吗？}
+
+#{219}{}{Nothing. I gotta go.}
+{219}{}{没什么。我要走了。}
+
+#{220}{MORP42A}{ You are what? }
+{220}{MORP42A}{你怎么了？}
+
+#{221}{}{You heard me. Take me to see the Master, now!}
+{221}{}{你听见我的话吗。带我去见主教，马上！}
+
+#{222}{MORP42B}{ Uh, yes. Well.  Please follow me. }
+{222}{MORP42B}{哦，好的。嗯。请跟我来。}
+
+#{223}{MORP42C}{ Oh, my child, you make no sense whatsoever.  please, find one of our physicians and get help. }
+{223}{MORP42C}{哦，我的孩子，你真是词不达意呢。去吧，找我们的治疗师寻求帮助。}
+
+#{224}{MORP45}{ My child, talk to Lasher.  He'll help you with that. }
+{224}{MORP45}{我的孩子，你去跟拉舍尔谈谈吧。他会帮助你。}
+
+#{225}{MORP46}{ I said... }
+{225}{MORP46}{我说……}
+
+#{226}{MORP47}{ Are you deaf?  I said...}
+{226}{MORP47}{你聋了吗？我说……}
+
+#{227}{MORP48}{ I will not repeat myself again! }
+{227}{MORP48}{我不会再重复了！}
+
+#{228}{MORP49}{ I will not say it again! }
+{228}{MORP49}{我不会再说一次！}
+
+#{229}{MORP50}{The Nightkin came to us a while ago.  They might be hideous mutants but they are extremely loyal to the Children.  As we all are.}
+{229}{MORP50}{夜之团刚到我们这里来服役。他们或许是丑恶的变种人，但他们对大教堂是非常忠诚的。象我们大家一样。}
+
+#{230}{MORP51}{It is he who brought me the vision of the Unity and it is he who will bring peace to this troubled land.}
+{230}{MORP51}{是他让我看到统一的前景，是他将把和平带给这片不平静的土地。}
+
+#{231}{MORP52}{My child, you should know the Auditorium.  I give my sermons
+ there. }
+{231}{MORP52}{我的孩子，你应该知道那个礼堂。我在那里宣讲教义。}
+
+#{232}{MORP53}{Don't concern yourself with that.  Only the High Priests may enter. }
+{232}{MORP53}{这不关你的事。只有高级牧师可以进入。}
+
+#{233}{MORP54}{I am but a humble servant of the Unity. }
+{233}{MORP54}{我只是为“同一”服务的一个低下仆人。}
+
+#{234}{MORP55}{We are the high priests of the great Dark God. Thirteen of us are so blessed to pass his mighty words to the rest of the Children. }
+{234}{MORP55}{我们是伟大黑暗之神的高级牧师。我们十三人受到这样的祝福，传达他的强大命令给大教堂的其他人。}
+
+#{235}{MORP56}{I've no idea what you're talking about. }
+{235}{MORP56}{我不懂你在说些什么。}
+
+#{236}{MORP57}{The Children of the Cathedral hospitals provide the best care in all of this blasted, torn land. This care is vital to the Unity.}
+{236}{MORP57}{大教堂的医院给所有这些被诅咒的、破碎的土地提供最好的照顾。这种照顾对于“同一”是至关重要的。}
+
+#{237}{MORP58}{The Unity is our search for a higher level of life, and unity with our fellow man. }
+{237}{MORP58}{“同一”是我们寻求更高级别的生活，团结我们同道的人。}
+
+#{238}{MORP59}{He is another High Priest.  He spends much of his time in the studies. }
+{238}{MORP59}{他是另一个高级牧师。他在研究上花费大量的时间。}
+
+#{239}{MORP60}{My heart bleeds for them.  Led down a false path.  They don't know their efforts will bring only pain and suffering to their fellow beings.}
+{239}{MORP60}{我替他们感到痛心。他们走在一条错误的道路上，不知道自己的努力只会给人民带来痛苦和苦难。}
+
+#{240}{MORP61}{Nicole is the unfortunate, confused leader of the Followers of the Apocalypse. }
+{240}{MORP61}{尼科尔是末世论者的不幸的、被迷惑的领导者。}
+
+#{241}{MORP62}{Adytum is the city to the northeast of us. }
+{241}{MORP62}{内城区是我们东北面的城区。}
+
+#{242}{MORP63}{That's not important. }
+{242}{MORP63}{那不重要。}
+
+#{243}{MORP64}{That's nothing.  You may ask something else. }
+{243}{MORP64}{不知道。你可以问别的事情。}
+
+#{244}{morp65}{Nothing to be concerned with.}
+{244}{morp65}{没关心过这个。}
+
+#{245}{}{Master, I believe you will enjoy this . . .}
+{245}{}{主教，我相信你会喜欢这个……}
+
+#{500}{}{You gain 1000 experience points for destroying the leader of the Children of the Cathedral.}
+{500}{}{你消灭了大教堂的领袖之一，得到了1000点经验值。}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+#{980}{MORP63}{That's not important. }
+{980}{MORP63}{那不重要。}
+
+#{981}{MORP64}{That's nothing.  You may ask something else. }
+{981}{MORP64}{不知道。你可以问别的事情。}
+
+#{982}{morp65}{Nothing to be concerned with.}
+{982}{morp65}{没关心过这个。}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Nightkin-夜之团、Master-主教、Auditorium-布道大厅、Sanctum-内殿、Morpheus-墨菲斯、Order-官职、Caravans-商队、Hospitals-医院、Unity-“同一”事业、Lasher-拉舍尔、Followers-末世论者、Nicole-妮可尔、Adytum-内城区、Apocalypse-末世论、Mutants-变种人、Holy Flame-圣火、Children-教徒、Base-基地、Chip-芯片。}
+
+{1000}{}{Nightkin}
+{1001}{}{Master}
+{1002}{}{Auditorium}
+{1003}{}{Sanctum}
+{1004}{}{Morpheus}
+{1005}{}{Order}
+{1006}{}{Caravans}
+{1007}{}{Hospitals}
+{1008}{}{Unity}
+{1009}{}{Lasher}
+{1010}{}{Followers}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apocalypse}
+{1014}{}{Mutants}
+{1015}{}{Holy Flame}
+{1016}{}{Children}
+{1017}{}{Base}
+{1018}{}{Chip}
+
+
+#{1100}{MORP50}{The Nightkin came to us a while ago.  They might be hideous mutants but they are extremely loyal to the Children.  As we all are.}
+{1100}{MORP50}{夜之团刚到我们这里来服役。他们或许是丑恶的变种人，但他们对大教堂是非常忠诚的。象我们大家一样。}
+
+#{1101}{MORP51}{It is he who brought me the vision of the Unity and it is he who will bring peace to this troubled land.}
+{1101}{MORP51}{是他让我看到统一的前景，是他将会把和平带给这片不平静的土地。}
+
+#{1102}{MORP52}{My child, you should know the Auditorium.  I give my sermons
+ there. }
+{1102}{MORP52}{我的孩子，你应该知道那个礼堂。我在那里宣讲教义。}
+
+#{1103}{MORP53}{Don't concern yourself with that.  Only the High Priests may enter. }
+{1103}{MORP53}{与你无关。只有高级牧师们能进去。}
+
+#{1104}{MORP54}{I am but a humble servant of the Unity. }
+{1104}{MORP54}{我只不过为“同一”服务的一个低下仆人。}
+
+#{1105}{MORP55}{We are the high priests of the great Dark God. Thirteen of us are so blessed to pass his mighty words to the rest of the Children. }
+{1105}{MORP55}{我们是伟大黑暗之神的高级牧师。我们十三人受到这样的祝福，将他的强大命令传达给大教堂的其他人。}
+
+#{1106}{MORP56}{I've no idea what you're talking about. }
+{1106}{MORP56}{我不懂你在说些什么。}
+
+#{1107}{MORP57}{The Children of the Cathedral hospitals provide the best care in all of this blasted, torn land. This care is vital to the Unity.}
+{1107}{MORP57}{大教堂的医院给所有这些被诅咒的、破碎的土地提供最好的照顾。这种照顾对于“同一”是至关重要的。}
+
+#{1108}{MORP58}{The Unity is our search for a higher level of life, and unity with our fellow man. }
+{1108}{MORP58}{“同一”是我们寻求更高级别的生活，团结我们同道的人。}
+
+#{1109}{MORP59}{He is another High Priest.  He spends much of his time in the studies. }
+{1109}{MORP59}{他是另一个高级牧师。他在研究上花费大量的时间。}
+
+#{1110}{MORP60}{My heart bleeds for them.  Led down a false path.  They don't know their efforts will bring only pain and suffering to their fellow beings.}
+{1110}{MORP60}{我替他们感到痛心。他们走在一条错误的道路上，不知道自己的努力只会给他们的教众带来痛苦和苦难。}
+
+#{1111}{MORP61}{Nicole is the unfortunate, confused leader of the Followers of the Apocalypse. }
+{1111}{MORP61}{尼科尔是末世论者的不幸的、迷惑的领导者。}
+
+#{1112}{MORP62}{Adytum is the city to the northeast of us. }
+{1112}{MORP62}{内城区是我们东北面的城区。}
+
+#{1113}{MORP60}{My heart bleeds for them.  Led down a false path.  They don't know their efforts will bring only pain and suffering to their fellow beings.}
+{1113}{MORP60}{我替他们感到痛心。他们走在一条错误的道路上，不知道自己的努力只会给人民带来痛苦和苦难。}
+
+#{1114}{MORP50}{The Nightkin came to us a while ago.  They might be hideous mutants but they are extremely loyal to the Children.  As we all are.}
+{1114}{MORP50}{夜之团刚来我们这里。他们或许是丑恶的变种人，但他们对大教堂是非常忠诚的。正如我们大家一样。}
+
+#{1015}{morp65}{Nothing to be concerned with.}
+{1015}{morp65}{没关心过这个。}
+
+#{1016}{morp65}{Nothing to be concerned with.}
+{1016}{morp65}{没关心过这个。}
+
+#{1017}{morp65}{Nothing to be concerned with.}
+{1017}{morp65}{没关心过这个。}
+
+#{1018}{morp65}{Nothing to be concerned with.}
+{1018}{morp65}{没关心过这个。}
+
+

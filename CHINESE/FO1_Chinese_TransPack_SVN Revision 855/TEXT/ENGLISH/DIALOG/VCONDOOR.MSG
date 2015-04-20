@@ -1,0 +1,15 @@
+
+# {100}{}{This looks like the door to the Vats Control Room.}
+# {101}{}{The door is electronically locked.}
+# {102}{}{You unlock the door.}
+# {103}{}{You short out the electronic lock, fusing it shut. So much for that.}
+# {104}{}{The door is already unlocked.}
+# {105}{}{No luck. You'll need to use electronic lockpicks here.}
+# {106}{}{You fiddle with the lock but can't yet bypass the code. Gotta keep trying!}
+{100}{}{从这门看上去这里好像是病毒槽控制室。}
+{101}{}{这门用电子锁锁着。}
+{102}{}{你解开了门锁。}
+{103}{}{你使电子锁短路，保险丝融化并卡住了锁，没办法了。}
+{104}{}{这门锁早已打开了。}
+{105}{}{不能靠运气，你需要用一个电子开锁器才能打开这锁。}
+{106}{}{你乱弄了一会，但是仍然找不出这锁的密码，再来！}

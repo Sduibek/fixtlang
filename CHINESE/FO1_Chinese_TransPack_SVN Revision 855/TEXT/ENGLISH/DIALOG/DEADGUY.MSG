@@ -1,0 +1,51 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see a Hubbian.}
+# {101}{}{I can't believe I'm alive and I CAN'T believe you took them all out! Wait, what am I saying?  I'm alive, aren't I? I'll believe anything you tell me right now.}# {102}{}{I'm going to kill you now.}
+# {103}{}{Give me all your money!}
+# {104}{}{Clean up your life and get out of here or I'll finish you off, too!}
+# {105}{}{Uk?}
+# {106}{}{Uh, but?  You? (sigh) Okay, do it quickly please. I hate pain.}
+# {107}{}{Don't hurt me!}
+# {108}{}{Okay.  (He gives you 20 hub bucks.)  Can I go now?}
+# {109}{}{Yes.}
+# {110}{}{No.}
+# {111}{}{Uh, why?}
+# {112}{}{Because I said so!  Do you have a problem with that?}
+# {113}{}{Okay, you can leave.}
+# {114}{}{No, sorry, sir!  Please don't hurt me -- I don't like pain!}
+# {115}{}{No, sorry, ma'am!  Please don't hurt me -- I don't like pain!}
+# {118}{}{Are you stupid? I mean, thanks an awful lot for saving my life, kind sir.  I've got to be going now. Bye.}
+# {119}{}{Are you stupid? I mean, thanks an awful lot for saving my life, kind ma'am.  I've got to be going now. Bye.}
+# {122}{}{Yes . . . yes . . . yes sir.  I'll never do anything bad, ever again!  I . . . I won't cheat. I won't lie, blackmail, rob, murder or kidnap.}
+# {123}{}{Yes . . . ye . . . yes ma'am.  I'll never do anything bad, ever again!  I . . . I won't cheat. I won't lie, blackmail, rob, murder or kidnap.}
+# {126}{}{Just get out of here!}
+# {127}{}{You're a liar!}
+# {128}{}{Yes, sir!}
+# {129}{}{Yes, ma'am!}
+
+{100}{}{你看到一个哈勃城居民。} 
+{101}{}{我不敢相信我居然还活着！！你居然把他们都解决掉了！等等，我刚才说什么来着？我居然还活着。真是难以置信，从现在开始，我不再怀疑您说的任何一句话了。}
+{102}{}{我现在要杀了你！！！}
+{103}{}{把你所有的钱都给我！！}
+{104}{}{马上给我滚蛋，不然我也杀了你。你这个小人……}
+{105}{}{嗯？}
+{106}{}{呃，什么？杀了我？【叹气】好吧，下手迅速点，让我死的痛快点。}
+{107}{}{不要杀我！！！！}
+{108}{}{好吧，【他给了你20块】我可以走了吗？}
+{109}{}{好的。}
+{110}{}{不。}
+{111}{}{呃，为什么？}
+{112}{}{因为我他妈说了算，你对我有意见吗？}
+{113}{}{好吧，你可以走了。}
+{114}{}{不要，尊敬的先生，求求你不要伤害我——我怕疼！}
+{115}{}{不要，尊敬的女士，求求你不要伤害我——我怕疼！}
+{118}{}{你是傻子？不过我还是要非常的感谢你救了我的命，尊敬的先生，我走了，再见。}
+{119}{}{你是傻子？不过我还是要非常的感谢你救了我的命，尊敬的先生，我走了，再见。}
+{122}{}{是的……是的……遵命……我尊敬的先生我再也不敢做一点坏事了！！我再也不诈骗……撒谎……写匿名恐吓信。抢劫。谋杀。还有绑架小孩。}
+{123}{}{是的……是的……遵命……我尊敬的先生我再也不敢做一点坏事了！！我再也不诈骗……撒谎……写匿名恐吓信。抢劫。谋杀。还有绑架小孩。}
+{126}{}{马上从我眼前消失！}
+{127}{}{你这个骗子！}
+{128}{}{是的，先生！}
+{129}{}{是的，女士！}

@@ -1,0 +1,461 @@
+{1099}{}{?}
+{1199}{}{德克可以告诉你：Decker－德克、Underground－地下团体、Maltese－马耳他、Thieves－小偷、Justin－贾斯汀、Harold－哈罗德、Merchants－商人、Daren－达伦、Crimson－深红、Demetre－戴米德、Far－远行、Butch－布奇、Beth－贝丝、Missing－失踪、Market－市场、Claw－爪、Town－城镇、Heights－高地、Cathedral－大教堂、Morpheus－墨菲斯、Jain－简恩、Master－主教、Store－商店、All-In-One－百货店、Falcon－猎鹰、Nightclub－夜总会、Greene－格林、Hightower－海托、Caravans－商队、Romara－罗玛拉、Go－远行、Trader－远行商会、Harris－哈里斯、Death－死亡、Deathclaw－死亡爪、Old－老的、Oldtown－老城区、Children－教徒、All－百货。}
+
+#{100}{}{Decker has no wish to talk to you any more.}
+{100}{}{德克不想再和你说话。}
+#{101}{}{You see Decker.}
+{101}{}{你看见德克。}
+#{102}{}{Decker is too busy to speak to you. Do your job
+# and come back later.}
+ {102}{}{德克没空和你说话。干你的活呆会儿再来。}
+#{103}{DECK_1}{
+#So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
+{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}
+#{104}{}{I am }
+{104}{}{我是}
+
+{105}{}{。}
+#{106}{}{What business is it of yours?}
+{106}{}{我的名字关你什么事？}
+#{107}{DECK_2}{
+#Well, the pleasantries are now concluded.  Do you wish to hear about the job?}
+{107}{DECK_2}{呃，客套话咱就不说了。你想听听工作的事吗？}
+#{108}{}{That's why I'm here.}
+{108}{}{那就是我在这的原因。}
+#{109}{}{Not particularly.}
+{109}{}{没啥兴趣。}
+#{110}{DECK_3}{
+#Background:  There's a certain merchant who's . . . how to phrase this . . . not cooperating fully with the Underground.}
+{110}{DECK_3}{
+背景：有个商人……怎么形容呢……他和我们的地下组织合作得不好。}
+#{111}{}{And the job?}
+{111}{}{工作呢？}
+#{112}{DECK_4}{
+#Quite simple.  Hunt down the merchant and his wife and exterminate them. }
+{112}{DECK_4}{很简单，找到那个商人和他的妻子并了结他们。}
+#{113}{}{You mean kill them?}
+{113}{}{你是说杀了他们？}
+#{114}{}{How much for the job?}
+{114}{}{干这活儿多少钱？}
+#{115}{}{I can't do that!}
+{115}{}{我不能这么做！}
+#{116}{DECK_5}{
+#All a matter of semantics, but yes.  Kill them.  Will you take the job?}
+{116}{DECK_5}{只是语义上的差别罢了，不过没错，杀了他们，你肯干吗？}
+#{117}{}{Umm, sure -- why not?}
+{117}{}{唔……当然——为什么不做呢？}
+#{118}{}{No! That would be wrong!}
+{118}{}{不！这是不对的！}
+#{119}{}{How much?}
+{119}{}{多少钱？}
+#{120}{DECK_6}{
+#Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付500块，事后……再付2500块。}
+#{121}{}{Where can I find this merchant?}
+{121}{}{在哪儿能找到这个商人？}
+#{122}{DECK_7}{
+#They live in the Heights, on Barter Street and Thunder Avenue.  Complete the job and return.}
+{122}{DECK_7}{他们的宅子在高地区，就在商业街和桑德大道的交叉路口，完事后回来。}
+#{123}{}{Okay, I will.}
+{123}{}{好吧，我会做的。}
+
+#{124}{}{How will you know I killed them?}
+{124}{}{你到时候怎么知道我到底有没有杀了他们？}
+#{125}{}{I don't think so.}
+{125}{}{我不干了。}
+#{126}{DECK_8}{
+#Quite excellent.  My assistant will renumerate you on the way out.  Please, close the door behind you.}
+{126}{DECK_8}{非常好。等你出去后，我的助手会给你首付。出去时关好门，谢谢。}
+#{127}{deck_9}{Trust me.  I'll know.}
+{127}{deck_9}{相信我。我会知道的。}
+#{128}{}{Okay, I'll do it.}
+{128}{}{好吧，我会去做的。}
+#{129}{}{Pass.}
+{129}{}{算了。}
+#{130}{DECK_10}{
+#I must confess feeling a bit . . . disappointed in you.  But these things happen.  You will remember this is confidential.  Good day.}
+{130}{DECK_10}{我必须得承认……对你有点失望。但这种事情我也不是第一次遇见了，你要记住这是秘密，再见。}
+#{131}{DECK_11}{
+#It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
+{131}{DECK_11}{这是标准的行情，事前500块，事成后再付2500，你肯做吗？}
+#{132}{}{No, thanks.}
+{132}{}{不，谢谢。}
+#{133}{}{Yeah, I'll do it.}
+{133}{}{是的，我做。}
+#{134}{DECK_12}{
+#Very nice.  The merchant lives in the Heights, on Barter Street and Thunder Avenue.  Your initial pay will be handed to you on your way out.}
+{134}{DECK_12}{很好，这商人住在高地，在商业街和桑德大道上。在你出去时会先付一部分报酬给你。}
+#{135}{DECK_13}{Everything is my business in the Hub.  Either tell me, or you may leave.}
+{135}{DECK_13}{哈勃镇的每件事都和我有关，报上姓名，要么就离开。}
+#{136}{}{My name is }
+{136}{}{我叫}
+{137}{}{。}
+#{138}{}{I'm not telling you anything.}
+{138}{}{我不会告诉你任何事。}
+#{139}{DECK_14}{I see . . . My assistant will show you to the door.}
+{139}{DECK_14}{我知道了……我的助手会告诉你门在哪儿。}
+#{140}{DECK_15}{I'm very proud of you.  You're ruthless, an attribute I admire.  Kane will give you your payment.  I hope you're available in the future.}
+{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，我很欣赏你的职业素质。凯恩会把你的报酬给你，希望有空能再次合作。}
+#{141}{}{Can I ask you a few questions?}
+{141}{}{我能问你几个小问题吗？}
+#{142}{}{Thanks.}
+{142}{}{谢谢。}
+#{143}{DECK_16}{Under the circumstances, yes.}
+{143}{DECK_16}{在目前这个情况下，可以。}
+#{144}{}{What's in the Hub?}
+{144}{}{哈勃城都有什么？}
+#{145}{}{Heard any rumors?}
+{145}{}{听到什么传言吗？}
+#{146}{}{Nevermind.}
+{146}{}{没什么。}
+#{147}{Deck_16b}{Keep it brief, please.}
+{147}{Deck_16b}{那就拜托你长话短说。}
+#{148}{DECK_17}{The Merchant Market is in the center of town, surrounded by a number of establishments.  You have the Heights to the west, and Old Town to the east.}
+{148}{DECK_17}{商人集市在城市的中央，周围是一圈设施，高地区在西边，老城区在东边。}
+#{149}{}{What kind of establishments?}
+{149}{}{什么样的设施？}
+#{150}{}{Thanks for the information. Can I ask you a few more questions?}
+{150}{}{谢谢你提供的信息，我能再问你几个问题吗？}
+#{151}{DECK_18}{You're in the Maltese Falcon.  There's also the All in One Store, the Armory, the Friendly Lending Company, the police and, unfortunately, the Children of the Cathedral hospital.}
+{151}{DECK_18}{你正位于马耳他猎鹰。附近还有百货商店，武器店，友好借贷公司，警察局，和该死的大教堂医院。}
+#{152}{}{Doesn't sound like you're a fan of the Children. What's up?}
+{152}{}{看起来你和这些教徒相处的不好，怎么了？}
+#{153}{}{Thanks. Can I ask you some more questions?}
+{153}{}{谢谢，我能再问你几个问题吗？}
+#{154}{DECK_19}{They . . . encroach.  Let's leave it at that, shall we?}
+{154}{DECK_19}{他们……抢地盘。别谈这个了，好吗？}
+#{155}{}{Okay. Can I ask you a few more questions?}
+{155}{}{谢谢，我能再问你几个问题吗？}
+#{156}{DECK_20}{I'm not a tour guide.  Go see for yourself.}
+{156}{DECK_20}{我不是导游，你自己看去。}
+#{157}{}{Can I ask some more questions?}
+{157}{}{我能再问你几个问题吗？}
+#{158}{}{True. Tour guides would be much nicer.}
+{158}{}{没错，导游的水平会比你更高一些。}
+#{159}{DECK_21}{No.  Please get your payment and leave.}
+{159}{DECK_21}{不，拿着你的报酬走吧。}
+#{160}{DECK_22}{Pardon me? }
+{160}{DECK_22}{再说一次？}
+#{161}{}{You heard me.}
+{161}{}{你聋子阿。}
+#{162}{}{Nothing. Can I ask you some more questions?}
+{162}{}{没什么，我能再问你几个问题吗？}
+#{163}{DECK_23}{You are arrogant.  My assistant will show you through . . . I mean . . . to the door.}
+{163}{DECK_23}{你太傲慢了，我的助手会把你……我的意思是……带到门那去。}
+#{164}{deck_24}{No.}
+{164}{deck_24}{不。}
+#{165}{}{Well, can I ask you something else?}
+{165}{}{好吧，我能再问你些事吗？}
+#{166}{}{You're a cranky guy.}
+{166}{}{你可真是块爆炭。}
+#{167}{DECK_25}{Someone appears to be stealing whole caravans from the Far Go Traders.  And the Thieves' Circle is causing their normal minor difficulties.}
+{167}{DECK_25}{不知什么人把远行商队的整个商队刮走了。还有，那些贼帮们还在一如既往地制造麻烦。}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+#{169}{}{Sure.}
+{169}{}{当然。}
+#{170}{}{No way in Hell!}
+{170}{}{门儿都没有！}
+#{171}{DECK_27}{Excellent.  You see, the last job I gave you was a test and you did exceedingly well.  Now comes a job of importance.}
+{171}{DECK_27}{很好，你看，上个任务只是个小测试而你做的很好。现在给你个重要的任务。}
+#{172}{}{Which is?}
+{172}{}{请说？}
+#{173}{}{Sounds scary. I don't think I'm interested.}
+{173}{}{听起来很可怕，我没什么兴趣。}
+#{174}{DECK_28}{As you may know, the Children of the Cathedral have been gaining influence in this town, and frankly, I won't stand for it.}
+{174}{DECK_28}{你也许知道，大教堂的教徒们正在哈勃扩张势力。坦白说，我忍无可忍了！}
+#{175}{}{So what do you want me to do?}
+{175}{}{那么你要我做什么？}
+#{176}{DECK_29}{A small matter.  Kill the High Priestess, Jain.  Once she's gone, this little nuisance will be ended.  Interested?}
+{176}{DECK_29}{一件小事，杀了高级女祭司简恩。没了她，这些小麻烦事就终止了，有兴趣吗？}
+#{177}{}{Absolutely.}
+{177}{}{当然。}
+#{178}{}{But that would be immoral!}
+{178}{}{但是这样很不道德！}
+#{179}{DECK_30}{I believe I'm beginning to like you.  The pay is 1000 up front and 4000 upon completion.  And trust me, I'll know when it's done.}
+{179}{DECK_30}{我觉得我开始喜欢你了。报酬提高到事前1000，完事后4000。相信我，任务完成时，我会知道的！}
+#{180}{}{Okay.}
+{180}{}{好的。}
+#{181}{DECK_31}{Talk to Kane on your way out.  He'll provide you with details.}
+{181}{DECK_31}{当你走时和凯恩谈谈，他会告诉你细节。}
+#{182}{DECK_32}{And killing the merchant wasn't?}
+{182}{DECK_32}{不是去杀商人吗？？}
+#{183}{}{Well, all right, I'll do it.}
+{183}{}{好吧，我会去做。}
+#{184}{}{I don't care. I won't do it.}
+{184}{}{我不管，我不会做的。}
+#{185}{DECK_33}{The pay is 1000 in advance and 4000 upon . . . execution.  And trust me, I'll know when it's over.}
+{185}{DECK_33}{报酬是事前1000，完事后4000。相信我，事情完成时，我会知道的！}
+#{186}{}{Okay.}
+{186}{}{好吧。}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+#{188}{DECK_35}{What a pity.  Are you certain you won't even hear what the job is?}
+{188}{DECK_35}{真遗憾！这是个什么工作，你连听都不想听了？}
+#{189}{}{Yep, I'm not gonna do it.}
+{189}{}{没错，我不想干。}
+#{190}{}{Okay, what is it?}
+{190}{}{好吧，那是什么？}
+#{191}{DECK_36}{Then we have nothing more to discuss.}
+{191}{DECK_36}{那么我们没什么好说的了。}
+#{192}{DECK_37}{Exceptional job.  I believe the religious faction shall not interfere anymore.  Speak with Kane for your reward.  My thanks -- and I will certainly keep you in mind in the future.}
+{192}{DECK_37}{干的不错，我相信这个教团不会再打扰我了。去和凯恩拿你的报酬。谢谢你--我不会忘了你的。}
+#{193}{DECK_38}{Put that down.}
+{193}{DECK_38}{把它放下。}
+#{194}{DECK_39}{I am quite a patient man, but even I have limits.  Kane, teach this simpleton a lesson.}
+{194}{DECK_39}{我的忍耐是有限度的！凯恩，教训一下这个白痴。}
+#{195}{DECK_40}{Stop that.}
+{195}{DECK_40}{住手！}
+#{196}{DECK_42}{Talk to Kane about that.  He can tell you more.}
+{196}{DECK_42}{去找凯恩，他会告诉你更多东西。}
+#{197}{DECK_43}{As I said . . .}
+{197}{DECK_43}{正如我所说……}
+#{198}{DECK_44}{Like I said . . .}
+{198}{DECK_44}{就像我所说……}
+#{199}{DECK_45}{I already told you . . .}
+{199}{DECK_45}{我已经告诉你了……}
+#{200}{DECK_46}{Weren't you listening to me?  I said . . .}
+{200}{DECK_46}{你没听我的吗？我说……}
+#{201}{DECK_47}{Be advised: I am unaccustomed to repeating myself.}
+{201}{DECK_47}{警告你：我不喜欢重复说话。}
+#{202}{DECK_48}{I will not say that again.}
+{202}{DECK_48}{我不会再说一遍。}
+#{203}{DECK_49}{You have no need to know anything else about me.}
+{203}{DECK_49}{你没必要知道我的事。}
+#{204}{DECK_50}{Most people do not bandy the name of my organization around lightly.  We control the Hub.}
+{204}{DECK_50}{大多数人可不敢随便说起我们组织的名号。我们控制着哈勃城。}
+#{205}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{205}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+#{206}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
+{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+#{207}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
+{207}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+#{208}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
+{208}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些消息他是个不错的消息源。}
+#{209}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
+{209}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
+#{210}{DECK_56}{He's the head of the Water Merchants.}
+{210}{DECK_56}{他是纯水商会的头头。}
+#{211}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
+{211}{DECK_57}{在教徒占据医院之前他们一直控制着那儿，现在他们盘踞在仓库那片地方--这很奇怪。你可以在商人集市的西北角找到他们。}
+#{212}{DECK_58}{He's the head of the Crimson Caravan.}
+{212}{DECK_58}{他是深红商队的头头}
+#{213}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{213}{DECK_59}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+#{214}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{214}{DECK_60}{有趣，他认为自己是远行商会的头。实际上有名无实。他该知道最好别来打扰我。}
+#{215}{DECK_61}{She's in charge of the Weapons Store.}
+{215}{DECK_61}{她掌管着武器店。}
+#{216}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{216}{DECK_62}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+#{217}{Deck_63}{It's in the center of town.}
+{217}{Deck_63}{在城市中央。}
+#{218}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{218}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+#{219}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{219}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+#{220}{DECK_66}{chants live there.  Simply go west from here.}
+{220}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
+#{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{221}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+#{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
+{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
+#{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
+{223}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
+#{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
+{224}{DECK_70}{他是大教堂教徒编造的谎言，大概是个小神或什么的。}
+#{225}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
+{225}{DECK_71}{一个出售……好武器的小地方，由远行商队控制。}
+#{226}{DECK_72}{Just out the door and to the north.  You can't miss it.}
+{226}{DECK_72}{出门朝北走，你不会错过它的。}
+#{227}{DECK_73}{That's not important.}
+{227}{DECK_73}{那不重要。}
+#{228}{DECK_74}{What?  That isn't important now.}
+{228}{DECK_74}{什么？那个关我屁事。}
+#{229}{DECK_75}{Really.  Now why would I want to do that?}
+{229}{DECK_75}{真吗，为什么我要这么做呢？}
+#{230}{}{I see you have disposed of my Second.  I will have to take care of you myself.}
+{230}{}{我看见你结果了我的副手，我会亲自料理你。}
+#{231}{}{How good to see you Sheriff Greene!  I see you've come to say your goodbyes.}
+{231}{}{贾斯丁·格林，见到你很高兴！我猜你是来道别的。}
+
+#
+# TRANSLATION NOTE: The following groups of  lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+#{232}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
+{232}{DECK_26}{又见面了，我的朋友。我还有另外一个工作给你，有兴趣吗？}
+#{233}{DECK_26}{Good day again, my friend. I have another job for you. Are you interested?}
+{233}{DECK_26}{又见面了，我的朋友。我还有另外一个工作给你，有兴趣吗？}
+#{234}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
+{234}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会他如何保持沉默。}
+#{235}{DECK_34}{And I had such hopes for you! But I can't have you warning the Children. Kane, remove our friend here and pass along some instructions on silence.}
+{235}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会她如何保持沉默。}
+
+# Decker Tell-Me-Abouts generic responses{980}{DECK_73}{That's not important.}
+{980}{DECK_73}{那不重要。}
+#{981}{DECK_74}{What?  That isn't important now.}
+{981}{DECK_74}{什么？那个关我屁事。}
+#
+# Decker Tell-Me-Abouts
+#
+{1000}{}{Decker}
+# {1000}{}{德克}
+{1001}{}{Underground}
+# {1001}{}{地下团体}
+{1002}{}{Maltese}
+# {1002}{}{马耳他人}
+{1003}{}{Thieves}
+# {1003}{}{小偷}
+{1004}{}{Justin}
+# {1004}{}{贾斯汀}
+{1005}{}{Harold}
+# {1005}{}{哈罗德}
+{1006}{}{Merchants}
+# {1006}{}{商人}
+{1007}{}{Daren}
+# {1007}{}{达伦}
+{1008}{}{Crimson}
+# {1008}{}{深红}
+{1009}{}{Demetre}
+# {1009}{}{戴米德}
+{1010}{}{Far}
+# {1010}{}{远}
+{1011}{}{Butch}
+# {1011}{}{布奇}
+{1012}{}{Beth}
+# {1012}{}{贝丝}
+{1013}{}{Missing}
+# {1013}{}{想念}
+{1014}{}{Market}
+# {1014}{}{市场}
+{1015}{}{Claw}
+# {1015}{}{爪}
+{1016}{}{Town}
+# {1016}{}{城镇}
+{1017}{}{Heights}
+# {1017}{}{高地}
+{1018}{}{Cathedral}
+# {1018}{}{大教堂}
+{1019}{}{Morpheus}
+# {1019}{}{墨菲斯}
+{1020}{}{Jain}
+# {1020}{}{简恩}
+{1021}{}{Master}
+# {1021}{}{主教}
+{1022}{}{Store}
+# {1022}{}{商店}
+{1023}{}{All-In-One}
+# {1023}{}{全在一起}
+{1024}{}{Falcon}
+# {1024}{}{猎鹰}
+{1025}{}{Nightclub}
+# {1025}{}{夜总会}
+{1026}{}{Greene}
+# {1026}{}{格林}
+{1027}{}{Hightower}
+# {1027}{}{高塔}
+{1028}{}{Caravans}
+# {1028}{}{商队}
+{1029}{}{Romara}
+# {1029}{}{罗玛拉}
+{1030}{}{Go}
+# {1030}{}{去}
+{1031}{}{Trader}
+# {1031}{}{商人}
+{1032}{}{Harris}
+# {1032}{}{哈里斯}
+{1033}{}{Death}
+# {1033}{}{死亡}
+{1034}{}{Deathclaw}
+# {1034}{}{死亡爪}
+{1035}{}{Old}
+# {1035}{}{老的}
+{1036}{}{Oldtown}
+# {1036}{}{老城区}
+{1037}{}{Children}
+# {1037}{}{小孩们}
+{1038}{}{All}
+# {1038}{}{所有}
+
+#{1000}{DECK_49}{You have no need to know anything else about me.}
+{1000}{DECK_49}{你没必要知道我的事。}
+#{1001}{DECK_50}{Most people do not bandy the name of my organization around lightly.  We control the Hub.}
+{1001}{DECK_50}{大多数人可不敢随便说起我们组织的名号。我们控制着哈勃城。}
+#{1002}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1002}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+#{1003}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
+{1003}{DECK_52}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+#{1004}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
+{1004}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+#{1005}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
+{1005}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些特定的信息他是个不错的消息源。}
+#{1006}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
+{1006}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
+#{1007}{DECK_56}{He's the head of the Water Merchants.}
+{1007}{DECK_56}{他是纯水商队的头头。}
+#{1008}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
+{1008}{DECK_57}{在教徒占据医院之前他们一直控制着那儿，现在他们盘踞在仓库那片地方--这很奇怪。你可以在商人集市的西北角找到他们。}
+#{1009}{DECK_58}{He's the head of the Crimson Caravan.}
+{1009}{DECK_58}{他是深红商队的头头。}
+#{1010}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1010}{DECK_59}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+#{1011}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{1011}{DECK_60}{有趣，他认为自己是远行商会的头。实际上有名无实。他该知道最好别来打扰我。}
+#{1012}{DECK_61}{She's in charge of the Weapons Store.}
+{1012}{DECK_61}{她掌管着武器店。}
+#{1013}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{1013}{DECK_62}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+#{1014}{Deck_63}{It's in the center of town.}
+{1014}{Deck_63}{在城市中央。}
+#{1015}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1015}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+#{1016}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+#{1017}{DECK_66}{Most merchants live there.  Simply go west from here.}
+{1017}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
+#{1018}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{1018}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+#{1019}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
+{1019}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
+#{1020}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
+{1020}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
+#{1021}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
+{1021}{DECK_70}{他是大教堂教徒编造的谎言，大概是个小神或什么的。}
+#{1022}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
+{1022}{DECK_71}{这是一个出售……好武器的小地方，由远行商队控制。}
+#{1023}{DECK_72}{Just out the door and to the north.  You can't miss it.}
+{1023}{DECK_72}{出门朝北走，你不会错过它的。}
+#{1124}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1024}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+#{1125}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1025}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+#{1126}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father, now there was a loyal man.}
+{1026}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+#{1127}{DECK_56}{He's the head of the Water Merchants.}
+{1027}{DECK_56}{他是纯水商人们的头头。}
+#{1128}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{1028}{DECK_62}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+#{1129}{DECK_58}{He's the head of the Crimson Caravan.}
+{1129}{DECK_58}{他是深红商队的头头。}
+#{1130}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1030}{DECK_59}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+#{1131}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1031}{DECK_59}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+#{1132}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{1032}{DECK_60}{有趣，他认为自己是远行商队的头。实际上有名无实。他该知道最好别来打扰我。}
+#{1133}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1033}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+#{1134}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1034}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+#{1135}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+#{1136}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1016}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+#{1137}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{1137}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+#{1138}{DECK_72}{Just out the door and to the north.  You can't miss it.}
+{1038}{DECK_72}{出门朝北走，你不会错过它的。}

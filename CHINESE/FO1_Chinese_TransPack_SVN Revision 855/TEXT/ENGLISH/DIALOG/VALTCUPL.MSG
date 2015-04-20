@@ -1,0 +1,62 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a citizen of Vault 13.}
+{100}{}{你看到一个13号避难所的公民。}
+
+#{101}{}{We didn't think that you were coming back. You have
+# such a nice room, and we were a little crowded with
+# her parents. I hope you don't mind.}
+{101}{}{我们没想到你回来了。你的房间挺漂亮，而我俩和她父母住在一起有点挤……我希望你不会介意。}
+
+#{102}{}{Yes, I do mind. Get out of my room!}
+{102}{}{不，我介意。滚出我的房间！}
+
+#{103}{}{Nah, I don't care. Enjoy the room.}
+{103}{}{啊，我不介意。祝你们住的愉快。}
+
+#{104}{}{It would be reassuring to have my own quarters back.
+# Please find somewhere else to live.}
+{104}{}{把我的宿舍拿回来能让我感到安心。你们还是请另寻它处吧。}
+
+#{105}{}{Hng.}
+{105}{}{哼。}
+
+#{106}{}{Look, I don't want to argue with you, but you
+# obviously don't deserve this room anymore. Please leave.}
+{106}{}{你看，我不想跟你吵，但是显然这个房间已经不再属于你了。请离开。}
+
+#{107}{}{Look, we could really use the space. I hope you will reconsider.}
+{107}{}{你看，我们真的很需要这个房间。我希望你能重新考虑一下。}
+
+#{108}{}{Well, let me think about it for a moment.
+# Hmmm. No. Get out!}
+{108}{}{让我想想。嗯。不行。滚出去！}
+
+#{109}{}{Well, ok. You need it more than I do.}
+{109}{}{哦，好吧。你们比我更需要它。}
+
+#{110}{}{Thanks! We really appreciate it. We put your stuff in the trunk.}
+{110}{}{谢谢！我们真的很感激。我们把你的东西放在这个箱子里。}
+
+#{111}{}{Well, I don't know. You don't seem to be using it very
+# often, and we sure could use the space.}
+{111}{}{呃，我不知道。你看起来不怎么常住，而我们确实要住这里。}
+
+#{112}{}{Fine. Take it.}
+{112}{}{好。待这吧。}
+
+#{113}{}{I need this place to remember my roots. And besides,
+# it's a good place to rest.}
+{113}{}{我需要在这里怀念我的祖先。另外，这里是个休息的好地方。}
+
+#{114}{}{Gee, I didn't think you would still care about this place from what
+# I've heard. You have a good day. We'll go back to her mothers' place.}
+{114}{}{天，我一直听说你不会再在乎这个地方了。那就告辞了，我们搬回到她母亲那里去。}
+
+#{115}{}{We really like it here.}
+{115}{}{我们真的很喜欢这里。}
+
+#{116}{}{You should leave. This isn't your place here anymore.}
+{116}{}{你应该离开。这里已经不再是你的地方了。}
+

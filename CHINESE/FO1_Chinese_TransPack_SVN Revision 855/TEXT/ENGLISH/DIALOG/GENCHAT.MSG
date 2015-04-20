@@ -1,0 +1,285 @@
+
+#{100}{}{Thank you.}
+{100}{}{谢谢。}
+
+#{101}{}{Goodbye.}
+{101}{}{再见。}
+
+#{102}{}{Hello.}
+{102}{}{你好。}
+
+#{103}{}{You gain }
+{103}{}{你获得了}
+
+#{104}{}{ experience points.}
+{104}{}{点经验值。}
+
+#{105}{}{Uh oh!}
+{105}{}{呃……哦！}
+
+#{106}{}{Click!}
+{106}{}{点击！}
+
+#{107}{}{Opps!}
+{107}{}{哦啊！}
+
+#{108}{}{Ouch!}
+{108}{}{哇啊！}
+
+#{109}{}{See ya' around.}
+{109}{}{其他地方再见了。}
+
+#{110}{}{Take it sleazy.}
+{110}{}{正经点。}
+
+#{111}{}{It's been fun.}
+{111}{}{以前还挺有趣的。}
+
+#{112}{}{Here you go.}
+{112}{}{这里走。}
+
+#{113}{}{Anything else?}
+{113}{}{还有什么？}
+
+#{114}{}{Yes.}
+{114}{}{是的。}
+
+#{115}{}{No.}
+{115}{}{不。}
+
+#{116}{}{You gain }
+{116}{}{你获得了}
+
+#{117}{}{ skill points in Small Guns.}
+{117}{}{点轻型枪械技能点数。}
+
+#{118}{}{ skill points in Big Guns.}
+{118}{}{点大型枪械技能点数。}
+
+#{119}{}{ skill points in Energy Weapons.}
+{119}{}{点能量武器技能点数。}
+
+#{120}{}{ skill points in Unarmed Combat.}
+{120}{}{点徒手格斗技能点数。}
+
+#{121}{}{ skill points in Melee Weapons.}
+{121}{}{点近战武器技能点数。}
+
+#{122}{}{ skill points in Throwing.}
+{122}{}{点投掷技能点数。}
+
+#{123}{}{ skill points in First Aid.}
+{123}{}{点急救技能点数。}
+
+#{124}{}{ skill points in Doctor.}
+{124}{}{点医疗技能点数。}
+
+#{125}{}{ skill points in Sneak.}
+{125}{}{点潜行技能点数。}
+
+#{126}{}{ skill points in Steal.}
+{126}{}{点偷窃技能点数。}
+
+#{127}{}{ skill points in Lockpick.}
+{127}{}{点开锁技能点数。}
+
+#{128}{}{ skill points in Traps.}
+{128}{}{点陷阱技能点数。}
+
+#{129}{}{ skill points in Science.}
+{129}{}{点科技技能点数。}
+
+#{130}{}{ skill points in Repair.}
+{130}{}{点修理技能点数。}
+
+#{131}{}{ skill points in Speech.}
+{131}{}{点口才技能点数。}
+
+#{132}{}{ skill points in Barter.}
+{132}{}{点交易技能点数。}
+
+#{133}{}{ skill points in Gambling.}
+{133}{}{点赌博技能点数。}
+
+#{134}{}{ skill points in Outdoorsman.}
+{134}{}{点野外生存技能点数。}
+
+#{135}{}{You gain a skill point in Small Guns.}
+{135}{}{你获得了1点轻型枪械技能点数。}
+
+#{136}{}{You gain a skill point in Big Guns.}
+{136}{}{你获得了1点重型枪械技能点数。}
+
+#{137}{}{You gain a skill point in Energy Weapons.}
+{137}{}{你获得了1点能量武器技能点数。}
+
+#{138}{}{You gain a skill point in Unarmed Combat.}
+{138}{}{你获得了1点徒手格斗技能点数。}
+
+#{139}{}{You gain a skill point in Melee Weapons.}
+{139}{}{你获得了1点近战武器技能点数。}
+
+#{140}{}{You gain a skill point in Throwing.}
+{140}{}{你获得了1点投掷技能点数。}
+
+#{141}{}{You gain a skill point in First Aid.}
+{141}{}{你获得了1点急救技能点数。}
+
+#{142}{}{You gain a skill point in Doctor.}
+{142}{}{你获得了1点医疗技能点数。}
+
+#{143}{}{You gain a skill point in Sneak.}
+{143}{}{你获得了1点潜行技能点数。}
+
+#{144}{}{You gain a skill point in Steal.}
+{144}{}{你获得了1点偷窃技能点数。}
+
+#{145}{}{You gain a skill point in Lockpick.}
+{145}{}{你获得了1点开锁技能点数。}
+
+#{146}{}{You gain a skill point in Traps.}
+{146}{}{你获得了1点陷阱技能点数。}
+
+#{147}{}{You gain a skill point in Science.}
+{147}{}{你获得了1点科技技能点数。}
+
+#{148}{}{You gain a skill point in Repair.}
+{148}{}{你获得了1点修理技能点数。}
+
+#{149}{}{You gain a skill point in Speech.}
+{149}{}{你获得了1点口才技能点数。}
+
+#{150}{}{You gain a skill point in Barter.}
+{150}{}{你获得了1点交易技能点数。}
+
+#{151}{}{You gain a skill point in Gambling.}
+{151}{}{你获得了1点赌博技能点数。}
+
+#{152}{}{You gain a skill point in Outdoorsman.}
+{152}{}{你获得了1点野外生存技能点数。}
+
+#{153}{}{Your Strength is increased by }
+{153}{}{你的力量增加了}
+
+#{154}{}{Your Perception is increased by }
+{154}{}{你的感知增加了}
+
+#{155}{}{Your Endurance is increased by }
+{155}{}{你的体质增加了}
+
+#{156}{}{Your Charisma is increased by }
+{156}{}{你的魅力增加了}
+
+#{157}{}{Your Intelligence is increased by }
+{157}{}{你的智力增加了}
+
+#{158}{}{Your Agility is increased by }
+{158}{}{你的敏捷增加了}
+
+#{159}{}{Your Luck is increased by }
+{159}{}{你的运气增加了}
+
+#{160}{}{points.}
+{160}{}{点。}
+
+#{161}{}{Your Strength is increased by a point.}
+{161}{}{你的力量增加了1点。}
+
+#{162}{}{Your Perception is increased by a point.}
+{162}{}{你的感知增加了1点。}
+
+#{163}{}{Your Endurance is increased by a point.}
+{163}{}{你的体质增加了1点。}
+
+#{164}{}{Your Charisma is increased by a point.}
+{164}{}{你的魅力增加了1点。}
+
+#{165}{}{Your Intelligence is increased by a point.}
+{165}{}{你的智力增加了1点。}
+
+#{166}{}{Your Agility is increased by a point.}
+{166}{}{你的敏捷增加了1点。}
+
+#{167}{}{Your Luck is increased by a point.}
+{167}{}{你的运气增加了1点。}
+
+#{168}{}{Thanks for your help.}
+{168}{}{谢谢你的帮助。}
+
+#{169}{}{Thanks for nothing.}
+{169}{}{还是辛苦你了。}
+
+#{170}{}{Aradesh is furious and refuses to talk to you any more.}
+{170}{}{亚拉德什狂怒无比，再也不愿意和你说话。}
+
+#{171}{}{I believe the Master wishes to speak with you.}
+{171}{}{我相信主教想和你谈谈。}
+
+#{172}{}{You shall pay for your BLASPHEMY!}
+{172}{}{你会为你的亵渎付出代价！}
+
+#{173}{}{This robot seems to be inoperable. This is possibly due to the lack of power.}
+{173}{}{这机器人看上去不能运转了。或许是因为缺少动力的关系。}
+
+#{174}{}{You see nothing special about this robot.}
+{174}{}{你没看出这个机器人有什么特别的。}
+
+#{175}{}{This Blade refuses to talk to you.}
+{175}{}{这个利刃帮成员不想和你说话。}
+
+#{176}{}{The suitcase is sealed and unopenable.}
+{176}{}{这个手提箱是密封的，无法打开。}
+
+#{177}{}{Please, we must hurry. We don't have time to speak.}
+{177}{}{我们得快点，没时间聊天了。}
+
+#{178}{}{Only Morpheus has the key to this door. I must leave now to let Nicole know what is going on here.}
+{178}{}{只有墨菲斯有这扇门的钥匙。我现在必须离开，去告诉妮可尔这里发生了什么。}
+
+#{179}{}{Please, I have to get away from here before they find out who I am.}
+{179}{}{求求你，我必须在他们发现我是谁之前逃出这里。}
+
+#{180}{}{You fail to steal anything and wonder if you got caught.}
+{180}{}{你偷窃失败，不知有没有被发现。}
+
+#{181}{}{The Brotherhood members have caught you stealing.}
+{181}{}{兄弟会成员发现你在偷窃。}
+
+# Mysterious Stranger messages
+# 神秘陌生人的信息
+
+#{182}{}{Lets rock!}                                # 0
+{182}{}{让我们动起来吧！}                            # 0
+
+#{183}{}{Looks like you could use some assistance.} # 1
+{183}{}{看起来你可以得到一些帮助。}                # 1
+
+#{184}{}{I will help thee.}                         # 0
+{184}{}{我会帮助你的。}                            # 0
+
+#{185}{}{I don't talk much.}                        # 1
+{185}{}{我不大说话的。}                            # 1
+
+#{186}{}{You hear over the loud speaker: Warning! Intruder Alert.}
+{186}{}{你通过扬声器听到：警报！侵入者警报。}
+
+#{187}{}{The goo has slowed down the transmission of your keystrokes.}
+{187}{}{粘性物拖慢了你的按键速度。}
+
+#{188}{}{The radscorpions are now sealed in their cave.}
+{188}{}{现在辐射蝎被封在他们的巢穴里了。}
+
+#{189}{}{The cave mouth beckons you deeper into the lair of the radscorpions.}
+{189}{}{巢穴入口将你引进更深处辐射蝎的窝里。}
+
+#{200}{}{You see a horribly damaged emitter field.}
+{200}{}{你看见了一个严重损坏的发射力场。}
+
+#{201}{}{The emitter is too damaged to use.}
+{201}{}{发射器损坏严重，无法使用。}
+
+#{202}{}{The emitter to too damaged to repair.}
+{202}{}{发射器损坏严重，无法修复。}
+
+#{203}{}{You notice that the field is damaged enough to walk through.}
+{203}{}{你注意到那力场被损坏得已经可以走过了。}

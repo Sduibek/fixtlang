@@ -1,0 +1,12 @@
+
+# {100}{}{You see a steel door. A sign on it reads: "Reactor Core Control Room. Authorized Personnel Only."}
+# {101}{}{The door is locked electronically.}
+# {102}{}{The door is not locked.}
+# {103}{}{You manage to bypass the electronic lock.}
+# {104}{}{Your attempt to circumvent the electronic lock fails.}
+{100}{}{你看到一扇金属门，上面的标着：“核心反应器控制室。只有经过授权的人员可以进入。”}
+{101}{}{这门被电子锁锁着。}
+{102}{}{这门没有上锁。}
+{103}{}{你设法解开电子锁。}
+{104}{}{你没能把电子锁解开。}
+

@@ -1,0 +1,13 @@
+
+# {100}{}{The computer says: RADIO CONTROL.}
+# {101}{}{ It looks like the radio channels have been shut down.}
+# {102}{}{ Radio channel control seems to be on.}
+# {103}{}{You switch the radio channels on.}
+# {104}{}{You switch the radio channels off.}
+# {105}{}{You flip some switches but can't get the radio channel selectors to change.}
+{100}{}{这台计算机显示：语音控制。}
+{101}{}{看上起这是无线电通讯设备，并且是关闭的。}
+{102}{}{无线电通讯设备控制器是开机状态。}
+{103}{}{你打开无线电通讯设备。}
+{104}{}{你关闭无线电通讯设备。}
+{105}{}{你试着转动一些电位器，但是无法改变无线电通讯频道。}

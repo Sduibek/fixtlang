@@ -1,0 +1,58 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a wandering merchant of Asian descent.}
+{100}{}{你看见一个游荡的亚裔商人。}
+#{101}{}{You see Duc, the wandering merchant.}
+{101}{}{你看见杜克，游荡的商人。}
+#{102}{}{Well hello, wanderer. My name's Duc, and I'm headed into Shady Sands to do some trading. Perhaps I can interest you in some goods?}
+{102}{}{你好，流浪汉，我叫杜克，我要去沙荫镇做些买卖，也许你对我的货物有些兴趣？}
+#{103}{}{What do you have for sale?}
+{103}{}{你有些什么东西卖？}
+#{104}{}{Do you go to Shady Sands often?}
+{104}{}{你经常去沙荫镇吗？}
+#{105}{}{Erf!}
+{105}{}{呃！}
+#{106}{}{Let me show you.}
+{106}{}{给你看看。}
+#{107}{}{Yes, Shady Sands is part of my normal trade route. You can travel there with us for safety if you like.}
+{107}{}{是的，沙荫镇是我日常贸易地点中的一个。为了安全起见，你可以和我们一块去。}
+#{108}{}{Sure, sounds good.}
+{108}{}{好吧，听起来不错。}
+#{109}{}{No, thanks.}
+{109}{}{不，谢谢。}
+#{110}{}{Oh, sorry -- didn't realize you were that stupid.}
+{110}{}{噢，对不起---没想到你那么蠢。}
+#{111}{}{It should only take a day or so. Let's go!}
+{111}{}{只需要花一天左右的时间。走吧！}
+{112}{}{ShadyW.map}
+#{113}{}{Not many people brave the wastes alone. Who are you?}
+{113}{}{没几个人敢独自在废土上游逛，你是谁？}
+#{114}{}{None of your business.}
+{114}{}{不关你的事。}
+#{115}{}{I'm }
+{115}{}{我是}
+
+{116}{}{。}
+#{117}{}{Erf!}
+{117}{}{呃！}
+#{118}{}{Hello again! What can I do for you?}
+{118}{}{再次欢迎你！我能为你做些什么？}
+#{119}{}{May I join your group to Shady Sands?}
+{119}{}{我能和你一块去沙荫镇吗？}
+#{120}{}{What do you have for sale?}
+{120}{}{你有些什么东西出售？}
+#{121}{}{Nothing, thanks.}
+{121}{}{没什么，谢谢。}
+#{122}{}{What do you want?}
+{122}{}{你要什么？}
+#{123}{}{Nothing, sorry.}
+{123}{}{没什么，抱歉。}
+#{124}{}{What do you have for sale?}
+{124}{}{你有些什么东西出售？}
+#{125}{}{Erf!}
+{125}{}{呃！}
+#{126}{}{You should be careful if you're traveling alone. Some people went missing from Shady Sands recently.}
+{126}{}{如果你独自旅行的话要小心点。最近沙荫镇有些人失踪了。}
+#{127}{}{Hey, I heard about how you saved that woman from Shady Sands. Good work.}
+{127}{}{嗨，我听说了你如何拯救沙荫镇的那个女孩，干的不错。}

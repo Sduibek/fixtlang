@@ -1,0 +1,13 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
+#
+# Messages from scripts
+#
+# strings
+#
+{20}{}{Loophole}
+{21}{}{Testing, one, two, me!}
+{22}{}{yeah. Right!}
+

@@ -1,0 +1,11 @@
+
+# {100}{}{You see an airlock door.}
+# {101}{}{The door is locked electronically.}
+# {102}{}{The door is not locked.}
+# {103}{}{You manage to bypass the electronic lock.}
+# {104}{}{Your attempt to circumvent the electronic lock fails.}
+{100}{}{你看到一扇密封门。}
+{101}{}{这门被电子锁锁着。}
+{102}{}{这门没有锁着。}
+{103}{}{你设法解开电子锁。}
+{104}{}{你没能把电子锁解开。}

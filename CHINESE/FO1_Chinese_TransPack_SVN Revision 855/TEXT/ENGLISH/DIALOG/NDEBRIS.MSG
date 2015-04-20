@@ -1,0 +1,12 @@
+
+# {100}{}{The way to the north is blocked by rubble and debris. You will have to find another way.}
+# {101}{}{The way to the south is blocked by rubble and debris. You will have to find another way.}
+# {102}{}{The way to the east is blocked by rubble and debris. You will have to find another way.}
+# {103}{}{The way to the west is blocked by rubble and debris. You will have to find another way.}
+# {104}{}{The way ahead is blocked by rubble and debris. Perhaps you can find a way underground.}
+{100}{}{向北的路被一堆碎石和垃圾堵住了，你必须另外找一条路了。}
+{101}{}{向南的路被一堆碎石和垃圾堵住了，你必须另外找一条路了。}
+{102}{}{向东的路被一堆碎石和垃圾堵住了，你必须另外找一条路了。}
+{103}{}{向西的路被一堆碎石和垃圾堵住了，你必须另外找一条路了。}
+{104}{}{前方的路被一堆碎石和垃圾堵住了，也许你能找到一条隐秘的通道。}
+

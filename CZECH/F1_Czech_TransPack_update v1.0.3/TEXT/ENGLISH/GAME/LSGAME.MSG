@@ -1,0 +1,56 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in LOADSAVE.C
+#
+# (These MUST match "text message" enumeration on the top of LOADSAVE.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+# System
+{100}{}{NAÈÍST HRU}              # Titles
+{101}{}{VYBER SLOT PRO RYCHLÉ NAHRÁNÍ}
+{102}{}{ULOŽIT HRU}
+{103}{}{VYBER SLOT PRO RYCHLÉ ULOŽENÍ}
+{104}{}{OK}
+{105}{}{ZRUŠIT}
+{106}{}{Chyba pøi nahrávání uložených her!} # Line 1
+{107}{}{Adresáø pro uloženou pozici:}    # Line 2
+{108}{}{Neexistuje nebo je poškozen.} # Line 3
+{109}{}{ULOŽIT HRU}
+{110}{}{NAÈÍST HRU}
+{111}{}{- PRÁZDNÝ -}
+{112}{}{- POŠKOZENÁ POZICE -}
+{113}{}{- STARÁ VERZE -}
+{114}{}{Prázdný.}
+{115}{}{Chyba!}
+{116}{}{Stará verze.}
+{117}{}{LED}                                 # Months
+{118}{}{ÚNO}
+{119}{}{BØE}
+{120}{}{DUB}
+{121}{}{KVÌ}
+{122}{}{ÈVN}
+{123}{}{ÈVC}
+{124}{}{SRP}
+{125}{}{ZÁØ}
+{126}{}{ØÍJ}
+{127}{}{LIS}
+{128}{}{PRO}
+{129}{}{Úroveò}
+{130}{}{POPIS}
+{131}{}{Pozice už existuje, pøepsat?}
+{132}{}{Chyba pøi ukládáni hry!}             # Line 1
+{133}{}{Není možné uložit hru.}              # Line 2
+{134}{}{Chyba pøi nahrávání hry!}            # Line 1
+{135}{}{Není možné nahrát hru.}              # Line 2
+{136}{}{Pozice je ze starší verze.}
+{137}{}{Mapa}
+
+{140}{}{Hra uložena.}
+{141}{}{Hra nahrána.}
+#
+# Demo versions only
+#
+{200}{}{Sorry není možne ukládat, nebo naèítat} # 1
+{201}{}{v demo vezi.}         # 2

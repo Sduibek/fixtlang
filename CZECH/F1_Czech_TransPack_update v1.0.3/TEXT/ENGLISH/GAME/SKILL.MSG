@@ -1,0 +1,124 @@
+#
+#   Messages from skill.c
+#
+#
+#   SKILL NAMES
+#
+{100}{}{Lehké zbranì}
+{101}{}{Tìké zbranì}
+{102}{}{Energetické zbranì}
+{103}{}{Boj beze zbranì}
+{104}{}{Boj na blízko}
+{105}{}{Vrh}
+{106}{}{První pomoc}
+{107}{}{Doktor}
+{108}{}{Plíení}
+{109}{}{Paklíè}
+{110}{}{Ukrást}
+{111}{}{Past}
+{112}{}{Vìda}
+{113}{}{Opraváø}
+{114}{}{Øeè}
+{115}{}{Obchod}
+{116}{}{Hazardní hry}
+{117}{}{Zálesák}
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{Obecné znalosti o lehkıch støelnıch zbraních (pistole, samopaly a pušky) a schopnost efektivnì je pouívat.}
+{201}{}{Obecné znalosti o tìkıch støelnıch zbraních jako jsou kulomety, raketomety, plamenomety apod. a schopnost uívat je ke škodì svıch protivníkù}
+{202}{}{Schopnost pouívat energetické zbranì. Jak je postava zpùsobilá k uívání zbraní zaloenıch na laserové nebo plazmové technologii.}
+{203}{}{Kombinace bojovıch umìní, boxu a jinıch zpùsobù boje na krátkou vzdálenost. Boj jen s pomocí rukou a nohou.}
+{204}{}{Pouívání chladnıch zbraní jako napø. noe, kladiva, kopí a klacky.}
+{205}{}{Umìní zacházet s házecími zbranìmi jako napø. vrhací noe, oštìpy a granáty.}
+{206}{}{Obecné léèitelské znalosti, pouívané k vyléèení drobnìjších zranìní a lehèích nemocí. Jednoduše øeèeno pouívání schopnosti PRVNÍ POMOC ti pøidává víc Hit bodù, ne kdybys jen odpoèíval.}
+{207}{}{Léèení tìších zranìní a zmrzaèení. Bez pouití této schopnosti to bude trvat mnohem déle, ne se tvoje zranìné údy vyléèí natolik, abys je mohl pouívat.}
+{208}{}{Schopnost tiše a nepozorovanì se pohybovat. Pokud je dostateèná, je pro ostatní mnohem tìší tì lokalizovat. Plíení a bìh ale není moné pouívat najednou.}
+{209}{}{Schopnost otevírat zámky bez originálního klíèe. Pouití šperháku nebo elektronického dekodéru slušnì zvyšuje tvoje šance.}
+{210}{}{Schopnost udìlat z cizích vìcí svoje vlastní. Pouívá se pro okrádání lidí nebo vylupování skøíní, stolù apod.}
+{211}{}{Schopnost nalézat a odstraòovat pasti.  Rovnì zpùsobilost pro zacházení s vıbušninami pøi rùznıch demolicích.}
+{212}{}{Zahrnuje soubor vysoce technologickıch znalostí, jako napø. znalost poèítaèù, biologie, fyziky a geologie.}
+{213}{}{Praktické aplikování schopnosti pro opravy znièenıch zaøízení, strojù a elektroniky.}
+{214}{}{Schopnost efektivnì komunikovat. Umìní pøesvìdèit ostatní, e tvùj názor je ten správnı. Schopnost lhát a nebıt odhalen.}
+{215}{}{Obchodování a pøíbuzné aktivity. Schopnost získat vyšší ceny za vìci, které prodáváš a niší za ty, které kupuješ.}
+{216}{}{Znalosti a praktické uití sázení a jinıch hazardních her. Zruènost v hraní karet, kostek a ostatních hrách.}
+{217}{}{Schopnost pøeít ve volné pøírodì. Znalost rostlin a zvíøat.}
+#
+#   SKILL ATTRIBUTES
+#
+#   Updated: 6/5/97 KSW
+#   Updated to New Skill System: 9/16/98 rwh2
+#
+{300}{}{+ (4 x HB)}
+{301}{}{+ (2 x HB)}
+{302}{}{+ (2 x HB)}
+{303}{}{+ (2 x (HB+SI))}
+{304}{}{+ (2 x (HB + SI))}
+{305}{}{+ (4 x HB)}
+{306}{}{+ (2 x (VN + IN))}
+{307}{}{+ (VN + IN)}
+{308}{}{+ (3 x HB)}
+{309}{}{+ (VN + HB)}
+{310}{}{+ (3 x HB)}
+{311}{}{+ (VN + HB)}
+{312}{}{+ (4 x IN)}
+{313}{}{+ (3 x IN)}
+{314}{}{+ (5 x CH)}
+{315}{}{+ (4 x CH)}
+{316}{}{+ (5 x ŠT)}
+{317}{}{+ (2 x (OD + IN))}
+#
+#   Skill Use Text
+#
+{500}{}{Vyléèil jsi %d hit body.}
+{501}{}{U vypadáš dost zdravì.}
+{502}{}{%s vypadá dostateènì zdravì.}
+{503}{}{Léèba se nezdaøila.}
+{505}{}{Za procvièení svıch schopností jsi obdrel %d zkušenosti.}
+{510}{}{\nskill_use: pouita nevhodná schopnost.}
+{512}{}{Nemùeš oivit mrtvého.}
+{513}{}{Nech mrtvé odpoèívat v pokoji.}
+{514}{}{Je konec, nech to bıt.}
+{520}{}{Vyléèil jsi %s.}
+{521}{}{Vyléèil jsi %s.}
+{525}{}{%s se nepodaøilo vyléèit.}
+{526}{}{%s se nepodaøilo vyléèit.}
+{530}{}{Zranìné oko}    # Lines 530-534 are the endings to lines 525 & 526.
+{531}{}{Ochromenou levou ruku}
+{532}{}{Ochromenou pravou ruku}
+{533}{}{Ochromenou pravou nohu}
+{534}{}{Ochromenou levou nohu}
+{550}{}{Zámek se ti nezdaøilo otevøít.}
+{551}{}{ádnou past jsi neobjevil.}
+{552}{}{Nic nového jsi se u nenauèil.}
+{553}{}{Oprava se nezdaøila.}
+{570}{}{Byl jsi pøistien pøi krádei objektu: %s.}
+{571}{}{Ukradl jsi objekt: %s.}
+{572}{}{Byl jsi pøistien pøi umisování objektu: %s.}
+{573}{}{Umístil jsi objekt: %s.}
+{590}{}{Vyèerpal jsi se natolik, e tuhle schopnost nemùeš pouit. Musíš chvíli poèkat.}
+{591}{}{Jsi pøíliš unavenı.}
+{592}{}{Další námaha by tì zabila.}
+
+# Fallout 2!
+{600}{}{Nemáš dost zkušeností na léèbu tak závaného poranìní.}
+{601}{}{Robot je neopravitelnì poškozen.}
+
+#
+# Fallout 2: Party Member skill use generic responses
+#
+
+#   I'll try
+{1000}{}{Dovol, a ti s tím pomùu.}
+{1001}{}{Tohle zvládnu.}
+{1002}{}{Mám to.}
+{1003}{}{Rád pomùu.}
+{1004}{}{Oukej.}
+{1005}{}{Já to zkusím.}
+
+#   Player wants to do it
+{1100}{}{Kdybys mìl nìjaké problémy, dej mi vìdìt.}
+{1101}{}{Máš to?}
+{1102}{}{Kdy se ti chce . . .}
+{1103}{}{Bì a zkus to.}
+{1104}{}{Tak bì.}

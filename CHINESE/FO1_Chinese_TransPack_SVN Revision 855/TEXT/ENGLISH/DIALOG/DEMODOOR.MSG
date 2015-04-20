@@ -1,0 +1,13 @@
+
+#{100}{}{You successfully unlock the refrigerator.}
+#{101}{}{You are having trouble with this lock.}
+#{102}{}{You see a refrigerator. It is closed and locked.}
+#{103}{}{You see a refrigerator. It is open.}
+#{104}{}{You see a refrigerator. It is closed.}
+#{105}{}{The door is locked.}
+{100}{}{你顺利的打开冰箱上的锁。}
+{101}{}{你在开锁时候遇到了困难。}
+{102}{}{你看到上了锁的冰箱。}
+{103}{}{你看到打开的冰箱。}
+{104}{}{你看到关闭的冰箱。}
+{105}{}{上了锁的门。}

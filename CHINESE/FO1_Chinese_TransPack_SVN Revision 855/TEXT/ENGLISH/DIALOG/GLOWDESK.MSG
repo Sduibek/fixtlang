@@ -1,0 +1,9 @@
+
+# {100}{}{The drawer to the desk is stuck.}
+# {101}{}{You pry the drawer open.}
+# {102}{}{The drawer is still jammed tight.}
+# {103}{}{The desk is unaffected by the skill.}
+{100}{}{这个书桌的抽屉被钉住了。}
+{101}{}{你撬开了抽屉。}
+{102}{}{抽屉还被紧紧的钉着。}
+{103}{}{这技术对书桌没用。}

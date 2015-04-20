@@ -1,0 +1,34 @@
+#{100}{}{This is a badly worn-out desk with a dusty, cracked computer seated precariously atop it.}
+{100}{}{这是一张非常陈旧的桌子，上面有台布满灰尘的、破旧的电脑。}
+#{101}{}{You plug a loose chip back in and surprisingly the monitor lights up.}
+{101}{}{你把一片松开的芯片插了回去并惊奇的发现显示屏亮了。}
+#{102}{}{Many circuits are fried from an EMP burst.}
+{102}{}{一些电路由于电磁爆炸而烧毁了。}
+#{103}{}{It doesn't work.}
+{103}{}{它不工作。}
+#{104}{}{You slice your hands on the case.}
+{104}{}{箱子割破了你的手。}
+{105}{}{Wyndoze 99 booting up.
+                                          U:\ > }
+{106}{}{列目录}
+{107}{}{退出}
+{108}{}{FALLOUT    <DIR>          10-20-99   1:04p
+                            0 bytes in 1 file     0 bytes allocated
+                            4,379,255 bytes free}
+{109}{}{cd fallout}
+{110}{}{exit}
+{111}{}{U:\ > }
+{112}{}{dir}
+{113}{}{fallout.exe}
+{114}{}{exit}
+{115}{}{.          <DIR>               10-20-99   1:04p
+                            ..         <DIR>               10-20-99   1:04p
+                            fallout.exe     1384432   10-20-99   1:04p
+                            1,384,432 bytes in 3 files 1,384,482 bytes allocated}
+#{116}{}{【more】}
+{116}{}{【更多】}
+{117}{}{ }
+# {118}{}{Hmm. This is a great game!}
+{118}{}{嗯，这是个伟大的游戏！}
+#{119}{}{You gain 100 experience points for playing Fallout.}
+{119}{}{你因为玩《辐射》得到了100点经验值。}

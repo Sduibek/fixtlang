@@ -1,0 +1,272 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+#
+{100}{}{OK}
+{101}{}{VOLBY}
+{102}{}{ZRUŠIT}
+{103}{}{EXPORT}
+{104}{}{VÌK}
+{105}{}{POHLAVÍ}
+{106}{}{JMÉNO}
+{107}{}{MU}
+{108}{}{ENA}
+{109}{}{PERKS}
+{110}{}{KARMA}
+{111}{}{ZÁØEZY}
+{112}{}{DOVED. BODY}
+{113}{}{Úroveò:}
+{114}{}{Zkuš.:}
+{115}{}{Další úroveò:}
+{116}{}{CHAR. BODY}
+{117}{}{DOVEDNOSTI}
+{118}{}{Postava musí pøed zaèátkem hry vyuít} # 1
+{119}{}{všechny charakterové body!}ÿÿÿÿÿÿÿÿÿÿ 2
+#
+{120}{}{Charakterové body}
+{121}{}{Mnoství bodù, které se dají pøidat k nìkteré ze základních vlastností.}
+{122}{}{Další úroveò}
+{123}{}{Zkušenost, kterou potøebuješ pøestupu na další úroveò.}
+{124}{}{Perks}
+{125}{}{Karma}
+{126}{}{Záøezy}
+{127}{}{Vıjimeèné schopnosti. Jeden novı perk se mùeš nauèit kadou tøetí úroveò.}
+{128}{}{Vliv rozhodnutí uèinìnıch bìhem hry.}
+{129}{}{Poèítadlo zaznamenávající typ a poèet stvoøení, které jste zabili, nebo vidìli zabít ve své blízkosti.}
+{130}{}{Dovedností body}
+{131}{}{Dovedností body se pouívají ke zlepšení znalosti dovednosti.}
+#
+{132}{}{Na maximální úrovni.}ÿÿÿÿÿÿÿÿÿ 1
+{133}{}{Nemohu zvıšit.}ÿÿÿ 2
+{134}{}{Na minimální úrovni.}ÿÿÿÿÿÿÿÿÿ 1
+{135}{}{Nemohu sníit.}ÿÿÿ 2
+{136}{}{ádné dovedností body nejsou dostupné.}
+{137}{}{} #základ
+{138}{}{TALENTY}
+{139}{}{CHARAKTEROVÉ RYSY}
+{140}{}{Maximálnì mùeš mít talent} # 1
+{141}{}{na tøi dovednosti!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 2
+{142}{}{Pøed zaèátkem hry musíš vybrat}ÿÿÿ 1
+{143}{}{všechny talenty.}ÿÿÿÿÿÿÿÿ 2
+{144}{}{Talent}
+{145}{}{Na nìkteré dovednosti má tvoje postava talent. Kadá tato vlastnosti má bonus +20% a zvyšuje se dvojnásobnì rychle. Musíš vybrat tøi.}
+{146}{}{Charakterové rysy}
+{147}{}{Charakterové rysy popisují tvoji postavu do vìtších podrobností. Kadı má pozitivní i negativní efekt. Bìhem tvorby postavy si musíš zvolit dva.}
+{148}{}{Maximálnì mùeš vybrat} # 1
+{149}{}{dva rysy!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 2
+{150}{}{Dovednosti}
+{151}{}{Dovednosti jsou získané znalosti. Dovednosti se zlepšují zkušenosti nebo speciálními událostmi bìhem hry. Èím je na vyšší úrovni, tím lepší jsi v této dovednosti.}
+#
+{152}{}{VYBER SI PERK}
+{153}{}{VYBER SI RYS}
+{154}{}{ZBAV SE RYSU}
+{155}{}{VYBER SI TALENT}
+{156}{}{RYSY}
+#
+{157}{}{Pøed zaèátkem hry musí bıt všechny} # 1
+{158}{}{vlastnosti mezi 1 a 10!}ÿÿÿÿÿÿÿÿÿÿÿ 2
+
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Chud.}ÿÿÿ Terrible
+{201}{}{Ubohé}ÿÿÿÿÿ Bad
+{202}{}{Mizer.}ÿÿÿ# Poor
+{203}{}{Obst.}ÿÿÿ# Fair
+{204}{}{Prùmìr}ÿÿÿ# Average
+{205}{}{Dobré}ÿÿÿ# Good
+{206}{}{Vıb.}ÿ# Very Good
+{207}{}{Skvìlé}ÿÿÿ Great
+{208}{}{Uasn.}ÿ# Excellent
+{209}{}{Super} # Heroic
+
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{Hit body}
+{301}{}{Akèní body}
+{302}{}{Tøída zbroje}
+{303}{}{Boj beze zbranì}
+{304}{}{Boj na blízko}
+{305}{}{Odol. v. zranìní}
+{306}{}{Odol. v. jedu}
+{307}{}{Odol. v. radiaci}
+{308}{}{Postøeh}
+{309}{}{Uzdravování}
+{310}{}{Kritickı zásah}
+{311}{}{Nosnost}
+{312}{}{Otrava}
+{313}{}{Ozáøení}
+{314}{}{Poškozenı zrak}
+{315}{}{Zranìná pravá ruka}
+{316}{}{Zranìná levá ruka}
+{317}{}{Zranìná pravá noha}
+{318}{}{Zranìná levá noha}
+
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{Byl jsi otráven. Dokud se tvoje postava nevyléèí nebo nezemøe, jed ji bude postupnì zraòovat.}
+# Radiation
+{401}{}{Tvoji postavu zraòuje nemoc z ozáøení. Èím vìtší dávku radiace jsi dostal, tím smrtelnìjší je efekt.}
+# Eye Damage
+{402}{}{Postava byla vánì zasaena do oèí, a to bohuel ponìkud sníí tvé VNÍMÁNÍ.}
+# Crippled right arm
+{403}{}{Tvoje pravá ruka je znaènì zranìna - nemùeš s ní normálnì pohybovat. Pokud je zranìna jen jedna ruka, nemùeš pouívat obouruèní zbranì, pokud obì, nemùeš vùbec útoèit se zbranìmi.}
+# Crippled left arm
+{404}{}{Tvoje levá ruka je znaènì zranìna - nemùeš s ní normálnì pohybovat. Pokud je zranìna jen jedna ruka, nemùeš pouívat obouruèní zbranì, pokud obì, nemùeš vùbec útoèit se zbranìmi.}
+# Crippled right leg
+{405}{}{Tvoje postava má zmrzaèenou pravou nohu.}
+# Crippled left leg
+{406}{}{Tvoje postava má zmrzaèenou levou nohu.}
+
+# Month strings
+{500}{}{Leden}
+{501}{}{Únor}
+{502}{}{Bøezen}
+{503}{}{Duben}
+{504}{}{Kvìten}
+{505}{}{Èerven}
+{506}{}{Èervenec}
+{507}{}{Srpen}
+{508}{}{Záøí}
+{509}{}{Øíjen}
+{510}{}{Listopad}
+{511}{}{Prosinec}
+
+#
+# Option menu text
+#
+{600}{}{ULOIT}
+{601}{}{NAHRÁT}
+{602}{}{EXPORT}
+{603}{}{VYMAZAT}
+{604}{}{OK}
+{605}{}{Opravdu chcete tuto}ÿÿÿÿÿÿ# line 1
+{606}{}{postavu vymazat?}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# line 2
+{607}{}{ byla úspìšnì uloena.}
+{608}{}{ byla úspìšnì nahrána.}
+{609}{}{ji existuje.}
+{610}{}{Chcete ji pøepsat?}
+{611}{}{Chyba pøi ukládání }
+{612}{}{Chyba pøi nahrávání }
+{613}{}{Soubor s postavou je vadnı.}
+{614}{}{Soubor s postavou je vadnı.}
+{615}{}{Chyba pøi ètení seznamu souborù!}
+{616}{}{POSTAVA}
+{617}{}{HRAC}
+{618}{}{BLANK.GCD}
+
+#
+# ASCII text file printing text
+#
+{620}{}{FALLOUT}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Title line 1
+{621}{}{OSOBNÍ ZÁZNAMY VAULTU-13} # Title line 2
+{622}{}{hodiny} # Title line 3
+# -
+# -
+#{000}{}{ÿÿÿÿÿÿÿÿÿÿSíla: 00ÿÿÿÿÿZásahové body: 000/000ÿÿÿÿÿÿÿÿÿ ÿPostøeh: 00}
+#{000}{}{ÿÿÿ   ÿVnímání: 00ÿÿÿÿÿÿTøída zbroje: 000ÿÿÿÿÿÿÿ ÿÿÿUzdravování: 00}
+#{000}{}{ÿÿ    Odolnost: 00ÿÿÿÿ   ÿAkèní body: 000ÿÿÿÿÿÿ ÿKritickı zásah: 000%}
+#{000}{}{ÿÿ    Charisma: 00ÿÿÿÿÿBoj na blízko: 000ÿÿÿÿÿÿÿ     ÿÿÿNosnost: 000ÿlbs.}
+#{000}{}{ÿÿ Inteligence: 00ÿ    Odol. zranìní: 000%}
+#{000}{}{ÿÿÿÿÿÿÿHbitost: 00ÿÿÿ ÿOdol. radiace: 000%}
+#{000}{}{ÿÿÿÿÿÿÿÿŠtìstí: 00ÿÿÿ     ÿOdol. jed: 000%}
+#
+{623}{}{ :::ÿStatistika :::}
+{624}{}{ÿÿÿÿÿÿÿSíla:}
+{625}{}{ÿÿÿÿÿÿÿÿHit body:}
+{626}{}{ÿÿÿÿÿÿÿÿPostøeh:}
+# -
+{627}{}{ ÿÿÿÿVnímání:}
+{628}{}{ ÿÿÿÿÿÿTøída zbroje:}
+{629}{}{ÿÿÿÿÿÿÿÿUzdravování:}
+# -
+{630}{}{ÿÿÿÿÿÿOdolnost:}
+{631}{}{ÿÿÿÿÿAkèní body:}
+{632}{}{ÿÿÿÿÿÿKritickı zásah:}
+# -
+{633}{}{ ÿÿ    Charisma:}
+{634}{}{ÿÿÿÿÿÿBoje na blízko:}
+{635}{}{ÿÿÿÿÿÿÿÿÿNosnost:}
+# -
+{636}{}{ÿÿÿInteligence:}
+{637}{}{ ÿÿÿÿÿÿOdol. zranìní:}
+# -
+{638}{}{ ÿÿÿÿÿÿÿHbitost:}
+{639}{}{ÿÿÿÿOdol. radiace:}
+# -
+{640}{}{ÿÿÿÿÿÿÿÿÿÿÿŠtìstí:}
+{641}{}{ÿÿÿÿÿÿÿOdol. jed:}
+# -
+# -
+#{000}{}{ÿJméno: 01234567890ÿÿÿÿÿÿÿÿAge: 00ÿÿÿÿÿÿÿÿÿGender: Female}
+{642}{}{ÿÿJméno:}
+{643}{}{Vìk:}
+{644}{}{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿPohlaví:}
+{645}{}{Mu}
+{646}{}{ena}
+#-
+#{000}{}{ Level: 00ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿZkuš.: 000,000ÿÿÿÿDalší úroveò: 000,000}
+{647}{}{ Úroveò:}
+{648}{}{ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿZkuš.:}
+{649}{}{Další úroveò:}
+#-
+{650}{}{ÿ:::ÿRysy :::ÿÿÿÿÿÿÿÿÿÿÿ:::ÿPerks :::ÿÿÿÿÿÿÿÿÿÿÿ::: Karma :::}
+#-
+{651}{}{ÿ:::ÿDovednosti :::ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ::: Záøezy :::}
+#-
+{652}{}{ÿ:::ÿInventáø :::}
+#-
+{653}{}{ ÿÿ                      ÿÿÿÿÿÿÿÿÿÿÿÿÿCelková váha:}
+
+#
+# Karma name strings
+#
+{1000}{}{Reputace (Obecnì) }
+{1001}{}{Bersek}
+{1002}{}{Šampión}
+{1003}{}{Vrah dìtí}
+{1004}{}{Závislost na Nuka Cole}
+{1005}{}{Závislost na Buffoutu }
+{1006}{}{Závislost na Mentat }
+{1007}{}{Závislost na Psychu }
+{1008}{}{Závislost na RadAway}
+{1009}{}{Závislost na alkoholu}
+#
+# Karma description strings
+#
+{1100}{}{Tato reprezentuje tvoji obecnou reputaci. Èím je èíslo vyšší, tím jsi známìjší a uznávanìjší. Pokud je reputace negativní, jsi nenávidìn pro tvé špatné èiny.}
+{1101}{}{Zabil jsi opravdu hodnì lidí. A to není obecnì nic dobrého, za co se stát slavnım. Lidé z druhé strany trati tì ale mají radši.}
+{1102}{}{Tvé èiny z tebe udìlali šampióna. Tvé taení proti zlu a hanebnosti je všeobecnì známé. Èestní lidé si tì více váí. }
+{1103}{}{Zabíjíš nevinné dìti, mladou krev Pustin. To je opravdu, ale opravdu špatné. Jsi zlı, ale opravdu zlı.}
+{1104}{}{Dùkladnì si vychutnáváš Nuka-Colu, colu post-nukleárního svìta.}
+{1105}{}{Jsi závislım na Buffoutu. Musíš tuto chemikálii neustále brát, nebo pocítíš nepøíjemné následky abstinenèních pøíznakù. }
+{1106}{}{Stal jsi se závislım na pilulkách Mentat.  Musíš je brát nebo máš šílenej absák.}
+{1107}{}{Jsi feák. Pokud nebereš pravidelnì svoje Psycho, budeš trpìt. Pokud ano, trpí ostatní.}
+{1108}{}{Tvoje tìlo vyaduje pilulky Radaway. Nijak tì to sice neohrouje na ivotì, nicménì je musíš brát pravidelnì.}
+{1109}{}{Máš problém s alkoholem. No, ve skuteènosti máš tìch problémù opravdu hodnì.}
+{1110}{}{TEMPORARY - What is this?}
+
+
+#
+# Special Demo version only text
+#
+{5000}{}{Sorry, you can only print your}ÿÿÿ# 1
+{5001}{}{character in the full version.}ÿÿÿ# 2
+{5002}{}{Sorry, you can only save your}ÿÿÿÿ# 1
+{5003}{}{character in the full version.}ÿÿÿ# 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}ÿÿÿ# 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}
+
+
+

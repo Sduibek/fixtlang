@@ -1,0 +1,180 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Knight Paul.}
+{100}{}{你看到骑士保罗。}
+
+#{101}{}{Ahhh, so you抮e the new initiate.  Welcome aboard.  What can I do for you?}
+{101}{}{啊哈，你就是那个新兵吧。欢迎加入。我能帮你点什么？}
+
+#{102}{}{Who are you and what do you do here?}
+{102}{}{你是谁，到这里来做什么？}
+
+#{103}{}{Where can I get some weapons?}
+{103}{}{我可以在哪里搞到武器？}
+
+#{104}{}{Vree told me I could see a new weapon.}
+{104}{}{弗蕾告诉我这里能见到一个新型武器。}
+
+#{105}{}{Do you have a water chip?}
+{105}{}{你有净水芯片吗？}
+
+#{106}{}{Do you have any Power Armor parts?}
+{106}{}{你有能量装甲的部件吗？}
+
+#{107}{}{Whaadda?}
+{107}{}{什么？}
+
+#{108}{}{Nothing, thanks.}
+{108}{}{没什么，谢了。}
+
+#{109}{}{I抦 Paul, head of Energy Weapons Development.}
+{109}{}{我是保罗，能量武器开发部门负责人。}
+
+#{110}{}{What kind of Energy Weapons?}
+{110}{}{什么类型的能量武器？}
+
+#{111}{}{Do you have the Laser Pistol that Vree designed?}
+{111}{}{你有弗蕾设计的激光手枪吗？}
+
+#{112}{}{Laser, Plasma... you name it, I抳e built it.. or at least re-built it.}
+{112}{}{激光，脉冲……，随便啥的，我都能做……呃，至少我能复制。}
+
+#{113}{}{Any chance I can get one?}
+{113}{}{怎样我才能搞到一个？}
+
+#{114}{}{That抯 great.  Keep up the good work. Bye.}
+{114}{}{太好了，继续这样干。再见。}
+
+#{115}{}{You would have to see Michael to be issued a weapon. He can抰 authorize you for one though, for that
+# you would have to see Talus.}
+{115}{}{你要武器该找迈克尔，他可以给你武器，不过要先得到塔鲁斯的批准。}
+
+#{116}{}{Alright, where can I find them?}
+{116}{}{好的，在哪可以找到他们？}
+
+#{117}{}{Ok. Thanks for the info, bye.}
+{117}{}{OK。谢谢你的帮助，再见。}
+
+#{118}{}{They are both on the first floor of the base.  Talus is usually in the training
+# room and Michael does his duty just outside of the storage room.}
+{118}{}{他们都在基地的一层。塔鲁斯通常在训练室，迈克尔在储藏室外面值班。}
+
+#{119}{}{Thanks. Can I ask you some more questions?}
+{119}{}{谢谢，能再问你些别的问题吗？}
+
+#{120}{}{Thanks.  I抣l be going now.}
+{120}{}{谢谢。我要走了。}
+
+#{121}{}{Sure.  What can I help you with?}
+{121}{}{当然，我能帮你什么？}
+
+#{122}{}{Where can I get some new weapons?}
+{122}{}{什么地方能搞到新武器？}
+
+#{123}{}{Do you have a water chip?}
+{123}{}{你有净水芯片吗？}
+
+#{124}{}{Do you have any parts for Power Armor?}
+{124}{}{你有能量装甲的配件吗？}
+
+#{125}{}{Can I see the new laser pistol?}
+{125}{}{我可以看看激光手枪吗？}
+
+#{126}{}{Actually, I need to get going. Bye.}
+{126}{}{事实上，我要走了。再见。}
+
+#{127}{}{Yes. The latest in hand held laser technology. 【He
+# takes a small pistol from a work table and hands it to you】}
+{127}{}{是的，激光武器最近已经研究成功了。【他从工作台上拿起一把小手枪交给你。】}
+
+#{128}{}{This is nice, can I keep this? }
+{128}{}{真不错，能给我吗？}
+
+#{129}{}{What kind of damage will this do to a person?}
+{129}{}{这玩意能对人产生什么样的伤害？}
+
+#{130}{}{That one won抰 do you much good.  It抯 still lacking the lenses and amplifier.
+# 【He takes the pistol back from you and puts it on the work table】
+# If you really want one, go talk to Talus or Michael.}
+{130}{}{这个不会对你有多大用处。镜头和放大器都不完善。【他从你这里拿走激光枪放在工作台上】如果你真的想要，去找塔鲁斯或者迈克尔吧。}
+
+#{131}{}{Thanks, where can I find them?}
+{131}{}{谢谢，他们在哪？}
+
+#{132}{}{Thanks, I should be going now.}
+{132}{}{谢谢，我要走了。}
+
+#{133}{}{Can I ask you some more questions?}
+{133}{}{我可以问些别的问题吗？}
+
+#{134}{}{A Water Chip?  The ones from the old Vault-Tec shelters?}
+{134}{}{净水芯片？老避难所的东西？}
+
+#{135}{}{Yes!.. Do you have one?}
+{135}{}{是的！……你有吗？}
+
+#{136}{}{No. Those things were junk, they were prone to failure.  We don抰 deal with
+# purifying our own water here.  We have water delivered by caravans from the Hub.}
+{136}{}{没有，那些东西基本上都变成垃圾了。我们不自己处理水，这里用的水都是商队从哈勃城运来的。}
+
+#{137}{}{Ok.  Thanks.  Well I抳e got to keep looking for one. Bye.}
+{137}{}{那好吧，谢谢。我还是要自己去找了。再见。}
+
+#{138}{}{Could I ask you some more questions?}
+{138}{}{我能问你些别的问题吗？}
+
+#{139}{}{In the hands of a skilled warrior, it could cut a person in half.
+# The beam will shear flesh faster then you can run your finger through sand.}
+{139}{}{在一个训练有素的战士手里，它可以把一个人切成两半。激光束能在你还没反应过来的时候，就飞快的切开你的肉。}
+
+#{140}{}{Can I keep this one?}
+{140}{}{能把这个给我吗？}
+
+#{141}{}{No.  I only work on Energy weapons.  You should go see Kyle if you have questions about Power Armor.}
+{141}{}{不。我只管能量武器。你该去找凯尔问能量装甲的事情。}
+
+#{142}{}{Actually Kyle doesn抰 have the parts, that why I抦 looking for them.}
+{142}{}{事实上凯尔并没有那些部件，我去他那也没用。}
+
+#{143}{}{Thanks. Bye.}
+{143}{}{谢谢。再见。}
+
+#{144}{}{Well, I can抰 help you with that.  Sorry.}
+{144}{}{那么，我帮不了你。对不起了。}
+
+#{145}{}{Thanks.  I need to get going. Bye.}
+{145}{}{谢谢。我要走了。再见。}
+
+#{146}{}{Can I ask you some more questions?}
+{146}{}{我可以问些别的问题吗？}
+
+#{147}{}{Hello again, Initiate }
+{147}{}{你好，新兵。}
+
+#{148}{}{.  What can I help you with?}
+{148}{}{。我能帮你做点什么？}
+
+#{149}{}{Who are you and what do you do here?}
+{149}{}{你是谁？你在这里做什么？}
+
+#{150}{}{Where can I get some weapons?}
+{150}{}{那里可以搞到武器？}
+
+#{151}{}{Vree told me I could see a new weapon.}
+{151}{}{弗蕾告诉我有新的武器。}
+
+#{152}{}{Do you have a water chip?}
+{152}{}{你有净水芯片吗？}
+
+#{153}{}{Do you have any Power Armor parts?}
+{153}{}{你有能量装甲的部件吗？}
+
+#{154}{}{Whaadda?}
+{154}{}{什么？}
+
+#{155}{}{Nothing, thanks.}
+{155}{}{没什么，谢谢。}
+
+#{156}{}{Um.. please leave before you drool on something important.}
+{156}{}{嘿……在你对某些重要的东西流口水之前，快离开。}

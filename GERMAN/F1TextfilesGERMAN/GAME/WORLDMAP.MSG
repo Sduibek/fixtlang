@@ -1,0 +1,95 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by town and world map
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+
+#
+# Town map selection names
+#
+# Format:
+#	city type.
+#	Up to 10 selection names
+#
+# Vault 13
+{200}{}{Höhleneingang}
+{201}{}{Eingang}
+{202}{}{Unterkünfte}
+{203}{}{Kommandozentrale}
+#
+# Vault 15
+{210}{}{Wüsteneingang}
+{211}{}{Höhleneingang}
+{212}{}{Unterkünfte}
+{213}{}{Kommandozentrale}
+#
+# Shady Sands
+{220}{}{Eingang}
+{221}{}{Garten}
+{222}{}{Brahmin-Stall}
+#
+# Junktown
+{230}{}{Eingang}
+{231}{}{Crash House}
+{232}{}{Kasino}
+#
+# Raiders
+{240}{}{Basis}
+#
+# Necropolis
+{250}{}{Hotel}
+{251}{}{Halle}
+{252}{}{Wasserstelle}
+#
+# Hub
+{260}{}{Eingang}
+{261}{}{Downtown}
+{262}{}{Heights}
+{263}{}{Old Town}
+{264}{}{Händler}
+{265}{}{Höhle}
+#
+# Brotherhood
+{270}{}{Eingang}
+{271}{}{Ebene 1}
+{272}{}{Ebene 2}
+{273}{}{Ebene 3}
+{274}{}{Ebene 4}
+#
+# Military Base
+{280}{}{Eingang}
+{281}{}{Festung, Ebene 1}
+{282}{}{Festung, Ebene 2}
+{283}{}{Container, Ebene 1}
+{284}{}{Container, Ebene 2}
+#
+# Glow
+{290}{}{Krater}
+{291}{}{Ebene 1}
+#
+# Boneyard
+{300}{}{Adytum}
+{301}{}{Downtown}
+{302}{}{Bibliothek}
+{303}{}{Festung}
+{304}{}{Lager}
+#
+# Cathedral
+{310}{}{Eingang}
+{311}{}{Inneres}
+
+# Misc messages
+{500}{}{Du erhältst 10.000 Erfahrungspunkte!}
+{501}{}{Ruinen}
+
+#
+# Terrain type names for world map hover button
+#
+{1000}{}{Wüste}
+{1001}{}{Berge}
+{1002}{}{Stadt}
+{1003}{}{Küste}
+{1004}{}{Unbekannt}  # Unknown/visited city
+

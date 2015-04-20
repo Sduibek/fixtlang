@@ -1,0 +1,27 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see before you the low stakes Craps table. It costs $20 to play.}
+# {101}{}{You rolled a 7. You win!!}
+# {102}{}{You roll snake eyes. You lose.}
+# {103}{}{You rolled }
+# {104}{}{! You win!!}
+# {105}{}{You rolled }
+# {106}{}{. You lose.}
+# {107}{}{You rolled }
+# {108}{}{ before rolling your point. You lose.}
+# {109}{}{You rolled your point. You win.}
+# {110}{}{You rolled }
+# {111}{}{. This is your point. Rolling again.}
+{100}{}{你看到一张低赌注的双骰子赌桌。这里每盘最低下注20元。}
+{101}{}{你掷出7，你赢啦！}
+{102}{}{你掷出两点，你输了。}
+{103}{}{你掷出}
+{104}{}{！你赢啦！}
+{105}{}{你掷出}
+{106}{}{。你输了。}
+{107}{}{你掷出骰子}
+{108}{}{，不是你压的点数。你输了。}
+{109}{}{，正好是你压的点数！你赢了！}
+{110}{}{你掷出骰子}
+{111}{}{，闲家再掷骰子！【再掷一次骰子】}

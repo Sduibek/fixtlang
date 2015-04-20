@@ -1,0 +1,111 @@
+TYPHOON ** PROJECT **
+Fallout Italian translation ** **
+
+by: Ragfox
+
+--------------------------
+
+Version 1.0c (18/04/2012)
+
+--------------------------
+
+Index:
+
+  A. Introduction
+  B. Changes
+  C. Version
+  D. Installation
+  E. Known Problems
+  F. License?
+  G. Responsibility?
+  H. Thanks
+  I. For more information
+
+--------------------------
+
+
+A. Introduction
+
+The project TYPHOON (Translation Italian FallOut: None Excluded) was born in summer 2002, in the wake of the success of the adaptation amateur Planescape: Torment made by the now famous ITP Team. "I - I thought - I want to pay tribute to a game that due to lack of translation did not have, here in Italy, the success it deserves." Having loved the second chapter of the post-apocalyptic saga created by Black Isle Studios chose to translate their Fallout2. Despite the adaptation of this title require the translation of thousands of lines of text (4.5 MB) and editing "by hand" of several images of the graphical interface, I decided to tackle the job alone. And after long months (approximately 18) days between dialogues read and reread, after extensive research on the internet, after hours spent in attempting to modify some scripts and after a nice formattone harddisk, finally in December 2003, the Italian translation of Fallout2 was ready .
+
+In October 2004, è the time of the patch to translate Fallout Tactics. I do not have particularly loved this game, but the process of translation è turned out pretty interesting. FT has not subtitled movies and I had to do some somersaults to add the overlay translated written (listening to every word over and over again to avoid losing even one iota of what is said). The result of the movies are a bit 'less defined than the original (the software decompression / compression can not do miracles), but with Italian subtitles.
+A salute goes to ThingFish, which convinced me to translate even Fallout Tactics and Fallout, and that has translated 50% of the texts of the strategic game weblog Interplay. He had to express with me even Fallout, but found that I'm a bad business partner and has rightly decided to devote himself to other (scherzo. ..). Again, thank you.
+
+And today, four years to the day after his birth, the Project TYPHOON reach the last act. I had to deal with various commitments and with profound "crisis of rejection" (during which I could not even see Fallout pictured) from month to month that caused delays on delays. Maybe, subconsciously, I did not want all this to end. Because finally, in July 2006, the Italian translation of Fallout è ready: the curtain falls on the Project TYPHOON ... and starts the game.
+
+"The War. War never changes ..."
+
+
+B. Changes
+
+Despite the release of the official 1.2 patch, Fallout is a game with several problems at the script level. Some dialogues are concatenated bad, with questions that do not follow the right answers, the reactions of some NPCs are not correct or do not take into account the change of certain variables. Some quests resolved not give experience points. These problems are quite rare that they should not ruin the gaming experience.
+
+The Italian translation includes an intervention rather important from this point of view, since it adds about 20 scripts are revised and corrected by the undersigned (Ragfox), which cover some holes left by programmers. I am limited to the correction of errors more macroscopic, but you are free to me know of any anomalies you encounter during your "travels".
+
+NOTE: In this version I preferred not to include an additional patch (called "plus") that I had made to reactivate some elements "cut" before the game. You can find it in any case in the version on my site (see below).
+
+
+C. Version 1.0c
+
+- Applied some changes to the texts. Nothing earth shattering, but sometimes it takes a refresher.
+
+
+D. Installation
+
+1. Install Fallout.
+
+2. F1_ITA_1.0.exe run the file and follow the on-screen instructions (by changing the installation directory, if you installed Fallout in a different folder from the one shown.)
+
+3. Run the file to launch the game Falloutw.exe
+
+NB. Translation è also compatible with non-English versions of the game. After installation, it will be enough to open with a text editor the file fallout.cfg (in the root folder of the game), locate the string that begins with language = and replace it entirely with language = Inglese.
+
+
+E. Known Issues
+
+- Using a PG female, in 70% of cases the dialogue presenterà of the adjectives in the masculine. Unfortunately, English has no obvious differences between masculine and feminine adjectives and programmers have helped some of my work: only in a few cases, è been provided a chance to view two separate sentences for the two genres. The problem would be solved one by one going to change the script of the game, but to do so it would take months. Some scripts have changed, è true, but consider it to be the exception and not the rule.
+
+- When the PG dies, a screen, and the narrator says a sentence. The subtitles have been translated, but there seems no way to implement them in the game. Fortunately, these are a few phrases of little importance. Unfortunately solutions "to the Arcanum" (integrated subtitles directly in the image) are not possible.
+
+- On some systems, the sentences of the narrator is not played back properly. To restore them you have to turn off hardware acceleration audio from the control panel of directx (Run> dxdiag.exe).
+
+- In the area of ??Boneyard programmers were forced to cut some quests and the most important of those remaining has a rather annoying bug: [SPOILER!] Saving and reloading the game or out of the map of Adytum * after * it had warned of your Razor going to talk again with Zimmerman, but * before * actually be compared with the mayor of the city, there is a risk that the attack of the Blade never occur, preventing the success of the quest. There is an unofficial patch that should fix the problem, but the actual efficacy and compatibility with the translation è been proven. Just still a little 'forethought (ie not leave Adytum before speaking with Zimmerman, save the game just before Razor informed of its intentions and only after the map of Adytum appear Blade) and everything should go smoothly. [END SPOILER]
+Do not hesitate to contact me for any doubts.
+
+- The subtitles of the movie are present but are not enabled by default. È must do so through the options menu inside the game.
+
+- It can happen that suddenly the screen becomes completely black and that you "clean up" by moving the slider or by opening a window (eg menu). To solve this problem there should be some workable methods to find which suggest relying on a search engine.
+
+- Sometimes, launching the executable Fallout appears an error message: "Not enough free hard disk space. Fallout stay connected at least 20.0 megabytes of free hard disk space." To be able to play quietly, open the file fallout.cfg (in the root folder of the game) and look for the string free_space = 20480, or change the value 20480 with 0 (<- è zero: at the end'll have to be written free_space = 0).
+
+- The compatibility with unofficial patches è not guaranteed.
+
+- The translation è been made on version 1.1. Many European editions are already updated to the latest official patch (1.2). There should be no incompatibility problems.
+
+
+F. License?
+
+The file F1_ITA_1.0.exe (and later versions), distributed along with this document, è a product made amateur non-profit organization. The file F1_ITA_1.0.exe (and later) è therefore to be understood as a freeware product freely distributed, provided that: a. its distribution is free of charge;
+b. F1_ITA_1.0.exe the file (and later) is not modified by third parties;
+c. will always indicate the author of the file F1_ITA_1.0.exe (and later), or Ragfox.
+
+-
+Fallout è © 1997 Interplay Productions (and BlackIsle Studios).
+Fallout and Interplay are (tm) InterPlay Productions. All other trademarks are property of their respective owners.
+Rights for Italy are property of Digital Bros. division Halifax.
+
+
+G. Responsibility?
+
+The author of this patch è does not in any way responsible for any hardware and software problems that have occurred in the time period following the installation of this patch. The patch è just a collection of files that it does not change anything nor at the operating system level nor at the hardware level.
+
+
+H. Thanks
+
+No Mutants Allowed, RPGPlayer, TeamX, people who have been waiting patiently, but those who are è complained about the delay, those who supported me and who does not. In short ... Thank you all!
+
+
+I. For information and suggestions
+
+Ragfox: ragfox@gmail.com
+http://www.oldgamesitalia.net/

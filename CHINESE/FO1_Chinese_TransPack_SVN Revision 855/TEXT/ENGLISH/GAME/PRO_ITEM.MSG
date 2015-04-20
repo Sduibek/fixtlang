@@ -1,0 +1,949 @@
+# {100}{}{Leather Armor}
+# {101}{}{Your basic all leather apparel.  Finely crafted from tanned brahmin hide.}
+# {200}{}{Metal Armor}
+# {201}{}{Polished metal plates， crudely forming a suit of armor.}
+# {300}{}{Powered Armor}
+# {301}{}{A self-contained suit of advanced technology armor.  Powered by a micro-fusion reactor， with enough fuel to last a hundred years.}
+# {400}{}{Knife}
+# {401}{}{A sharp-bladed cutting and stabbing weapon.  Min ST: 2.}
+# {500}{}{Club}
+# {501}{}{A military or police baton.  Heavy wood.  Min ST: 3.}
+# {600}{}{Sledgehammer}
+# {601}{}{A large hammer with big handle.  Very popular with the muscular crowd.  Min ST: 6.}
+# {700}{}{Spear}
+# {701}{}{A razor tipped polearm.  The shaft is wooden， and the tip is worked steel.  Min ST: 4.}
+# {800}{}{10mm Pistol}
+# {801}{}{A Colt 6520 10mm autoloading pistol.  Each pull of the trigger will automatically reload the firearm until the magazine is empty.  Single shot only， using the powerful 10mm round.  Min ST: 3.}
+# {900}{}{10mm SMG}
+# {901}{}{H&K MP9 Submachinegun (10mm variant).  A medium-sized SMG， capable of single shot and burst mode.  Min ST: 4.}
+# {1000}{}{Hunting Rifle}
+# {1001}{}{A Colt Rangemaster semi-automatic rifle， in .223 caliber.  Single-shot only.  Min ST: 5.}
+# {1100}{}{Flamer}
+# {1101}{}{A Flambe 450 model flamethrower， varmiter variation.  Fires a short spray of extremely hot， flamable liquid.  Requires specialized fuel to work properly.  Min ST: 6.}
+# {1200}{}{Minigun}
+# {1201}{}{A Rockwell CZ53 Personal Minigun.  A multi-barrelled chaingun firing 5mm ammunition at over 60，000 RPM.  Min ST: 7.}
+# {1300}{}{Rocket Launcher}
+# {1301}{}{A Rockwell BigBazooka rocket launcher.  With the deluxe 3 lb. trigger.  Fires AP or Explosive Rockets.  Min ST: 6.}
+# {1400}{}{Explosive Rocket}
+# {1401}{}{A rocket with a large explosive warhead.}
+# {1500}{}{Plasma Rifle}
+# {1501}{}{A Winchester Model P94 Plasma Rifle.  An industrial-grade energy weapon， firing superheated bolts of plasma down a superconducting barrel.  Powered by Micro Fusion Cells.  Min ST: 6.}
+# {1600}{}{Laser Pistol}
+# {1601}{}{A Wattz 1000 Laser Pistol.  Civilian model， so the wattage is lower than military or police versions.  Uses small energy cells.  Min ST: 3.}
+# {1700}{}{Combat Armor}
+# {1701}{}{High tech armor， made out of advanced defensive polymers.}
+# {1800}{}{Desert Eagle .44}
+# {1801}{}{An ancient Desert Eagle pistol， in .44 magnum.  Interest in late 20th century films made this one of the most popular handguns of all times.  Min ST: 4.}
+# {1900}{}{Rock}
+# {1901}{}{It's a rock.  The Granite-Inc. model is an upgraded version.  Min ST: 1.}
+# {2000}{}{Crowbar}
+# {2001}{}{A very solid and heavy piece of metal， specially designed to exert leverage.  Or pound heads.  Min ST: 5.}
+# {2100}{}{Brass Knuckles}
+# {2101}{}{Hardened knuckle grip that is actually made out of steel.  They protect your hand， and do more damage， in unarmed combat.  Min ST: 1.}
+# {2200}{}{14mm Pistol}
+# {2201}{}{A Sig-Sauer 14mm Auto Pistol.  Large， single shot handgun.  Excellent craftmanship.  Min ST: 4.}
+# {2300}{}{Assault Rifle}
+# {2301}{}{An AK-112 5mm Assault Rifle.  An old military model， out of use around the time of the war.  Can fire single-shot or burst， using the high velocity 5mm rounds.  Min ST: 5.}
+# {2400}{}{Plasma Pistol}
+# {2401}{}{Glock 86 Plasma Pistol.  Designed by the Gaston Glock AI.  Shoots a small bolt of superheated plasma.  Powered by a small energy cell.  Min ST: 4.}
+# {2500}{}{Grenade (Frag)}
+# {2501}{}{A generic fragmentation grenade.  Contains a small amount of high explosives， the container itself forming most of the damaging fragments.  Explodes on contact.  Min ST: 3.}
+# {2600}{}{Grenade (Plasma)}
+# {2601}{}{A magnetically sealed plasma delivery unit， with detonating explosives.  Creates a blast of superheated plasma on contact.  Min ST: 4.}
+# {2700}{}{Grenade (Pulse)}
+# {2701}{}{An electromagnetic pulse grenade， generating an intense magnetic field on detonation.  Doesn't affect biological creatures.  Contact fuze.  Min ST: 4.}
+# {2800}{}{Gatling Laser}
+# {2801}{}{An H&K L30 Gatling Laser.  Designed specifically for military use， these were in the prototype stage at the beginning of the War.  Multiple barrels allow longer firing before overheating.  Powered by Micro Fusion Cells.  Min ST: 6.}
+# {2900}{}{10mm JHP}
+# {2901}{}{Ammunition. Caliber: 10mm， jacketed hollow-points}
+# {3000}{}{10mm AP}
+# {3001}{}{Ammunition.  Caliber: 10mm， armor piercing.}
+# {3100}{}{.44 Magnum JHP}
+# {3101}{}{A brick of ammunition， .44 magnum caliber， hollow-points.}
+# {3200}{}{Flamethrower Fuel}
+# {3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
+# {3300}{}{14mm AP}
+# {3301}{}{Large caliber ammunition.  14mm armor piercing.}
+# {3400}{}{.223 FMJ}
+# {3401}{}{A case of ammunition， .223 caliber， Full Metal Jacket.}
+# {3500}{}{5mm JHP}
+# {3501}{}{A brick of small， lightweight ammunition.  Caliber: 5mm， jacketed hollow-point.}
+# {3600}{}{5mm AP}
+# {3601}{}{A brick of small caliber ammunition.  5mm armor piercing.}
+# {3700}{}{Rocket AP}
+# {3701}{}{A rocket shell， with a smaller explosive， but designed to pierce armor plating.}
+# {3800}{}{Small Energy Cell}
+# {3801}{}{A small， self-contained energy storage unit.}
+# {3900}{}{Micro Fusion Cell}
+# {3901}{}{A medium sized energy production unit.  Self-contained fusion plant.}
+# {4000}{}{Stimpak}
+# {4001}{}{A healing chem.  When injected， the chem provides immediate healing of minor wounds.}
+# {4100}{}{Bottle Caps}
+# {4101}{}{This bag holds your bottle-caps.}
+# {4200}{}{Fridge}
+# {4201}{}{A refrigerator.  Out of coolant.}
+# {4300}{}{Ice Chest}
+# {4301}{}{On old-style ice chest.  The hinges are in good working condition.}
+# {4400}{}{Ice Chest}
+# {4401}{}{On old-style ice chest.  The hinges are in good working condition.}
+# {4500}{}{Throwing Knife}
+# {4501}{}{A knife， balanced specifically for throwing.  Made of titanium， and laser sharpened.  Min ST: 3.}
+# {4600}{}{Bag}
+# {4601}{}{An average sized bag.  Made from weaved brahmin hairs.}
+# {4700}{}{First Aid Kit}
+# {4701}{}{A small kit container basic medical equipment.  Bandages， wraps， antiseptic spray， and more.}
+# {4800}{}{RadAway}
+# {4801}{}{A chemical solution that bonds with radiation particles and passes them through your system.  Takes time to work.}
+# {4900}{}{Antidote}
+# {4901}{}{A bottle containing a home-brewed antidote for poison.  A milky liquid with floating pieces of radscorpion flesh.}
+# {5000}{}{Reserved Item}
+# {5001}{}{This is a reserved item.  DO NOT USE.}
+# {5100}{}{Dynamite}
+# {5101}{}{A high explosive， consisting of nitroglycerin mixed with the absorbent substance kiselguhr.  Includes a timer.}
+# {5200}{}{Geiger Counter}
+# {5201}{}{A Wattz Electronics C-Radz model Geiger Counter.  Detects the presence and strength of radiation fields.}
+# {5300}{}{Mentats}
+# {5301}{}{A pillbox of mind-altering chems.  Increases memory related functions， and speeds other mental processes.  Highly addictive.}
+# {5400}{}{Stealth Boy}
+# {5401}{}{A RobCo Stealth Boy 3001 personal stealth device.  Generates a modulating field that transmits the reflected light from one side of an object to the other.}
+# {5500}{}{Water Chip}
+# {5501}{}{A water purification control computer system chip.  Looks suprisingly like the chip that your Vault needs.}
+# {5600}{}{Dog Tags}
+# {5601}{}{A set of military dog tags.  The name Darkwater is readable， but not much else is.}
+# {5700}{}{Bug}
+# {5701}{}{A miniature microphone and transmitting device.}
+# {5800}{}{Tape}
+# {5801}{}{A Wattz Electronics Holodisc tape.  This particular tape looks to be into very poor condition.}
+# {5900}{}{Motion Sensor}
+# {5901}{}{A Wattz Electronics C-U model motion sensor.  Detects the movement of biological material over a distance of meters using a tuned radar device.}
+# {6000}{}{Bookcase}
+# {6001}{}{A wooden bookcase.}
+# {6100}{}{Bookcase}
+# {6101}{}{A wooden bookcase.}
+# {6200}{}{Bookcase}
+# {6201}{}{A wooden bookcase.}
+# {6300}{}{Bookcase}
+# {6301}{}{A wooden bookcase.}
+# {6400}{}{Bookcase}
+# {6401}{}{A wooden bookcase.}
+# {6500}{}{Bookcase}
+# {6501}{}{A wooden bookcase.}
+# {6600}{}{Desk}
+# {6601}{}{A wooden desk.}
+# {6700}{}{Desk}
+# {6701}{}{A wooden desk.}
+# {6800}{}{Dresser}
+# {6801}{}{A wooden dresser.}
+# {6900}{}{Dresser}
+# {6901}{}{A wooden dresser.}
+# {7000}{}{Dresser}
+# {7001}{}{A wooden dresser.}
+# {7100}{}{Fruit}
+# {7101}{}{A strange piece of fruit.  No preservatives and no additional food coloring added.}
+# {7200}{}{Briefcase}
+# {7201}{}{A briefcase， with a Made-in-the-USA label.  Leather.  Good condition， but the combination lock is broken.}
+# {7300}{}{Big Book of Science}
+# {7301}{}{A set of books， containing information about different scientific fields.}
+# {7400}{}{Leather Jacket}
+# {7401}{}{A black， heavy leather jacket.}
+# {7500}{}{Tool}
+# {7501}{}{A super tool set， containing various useful tools.}
+# {7600}{}{Deans Electronics}
+# {7601}{}{A study book on the field of electronics.  A note on the cover says that it is for the "budding young electrician in everyone!"}
+# {7700}{}{Electronic Lock Pick}
+# {7701}{}{A Wattz Electronics Micromanipulator FingerStuff electronic lockpick.  For defeating electronic locks and security devices.}
+# {7800}{}{Fuzzy Painting}
+# {7801}{}{An image of a singer.  Obviously， very old. The image has a felt coating that is still in good condition.}
+# {7900}{}{Flare}
+# {7901}{}{A flare.  Creates light for a short period of time.  The paper is a little worn， but otherwise it is in good condition.  Twist the top to activate it.}
+# {8000}{}{First Aid Book}
+# {8001}{}{A study book on the concepts and practical use of first aid skills.}
+# {8100}{}{Iguana-on-a-stick}
+# {8101}{}{A cooked iguana， roasted in it's own skin.}
+# {8200}{}{Key}
+# {8201}{}{A key.  A key will open a particular lock.}
+# {8300}{}{Key Ring}
+# {8301}{}{Multiple keys.}
+# {8400}{}{Lock Picks}
+# {8401}{}{A set of locksmith tools.  Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
+# {8500}{}{Plastic Explosives}
+# {8501}{}{A chunk of Cordex， a military brand of plastic explosives.  Highly stable， very destructive.  Includes a timer.}
+# {8600}{}{Scout Handbook}
+# {8601}{}{A book on the methods and ideals of Scouting.  Very practical information regarding outdoor life.}
+# {8700}{}{Buffout}
+# {8701}{}{Highly advanced steroids.  While in effect， they increase strength and reflexes.  Very addictive.}
+# {8800}{}{Watch}
+# {8801}{}{An expensive watch.  Not really working， but it still looks nice.}
+# {8900}{}{Motor}
+# {8901}{}{A 40-hp electric motor.}
+# {9000}{}{Back Pack}
+# {9001}{}{A basic backpack， with optional carrying straps.}
+# {9100}{}{Doctor's Bag}
+# {9101}{}{This black bag contains instruments and chems used by doctors in the application of their trade.}
+# {9200}{}{Scorpion Tail}
+# {9201}{}{The severed tail of a radscorpion.}
+# {9300}{}{Bag}
+# {9301}{}{An average sized bag.  Made from weaved Brahmin hairs.}
+# {9400}{}{Shotgun}
+# {9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun.  Short barrel， with mahogany grip.  Min ST: 4.}
+# {9500}{}{12 ga. Shotgun Shells}
+# {9501}{}{Shotgun ammunition.  This particular ammo is marked: "12-gauge shells， not for use by children under the age of 3."}
+# {9600}{}{Red Pass Key}
+# {9601}{}{A electronic security key， color coded red.}
+# {9700}{}{Blue Pass Key}
+# {9701}{}{A electronic security key， color coded blue.}
+# {9800}{}{Junk}
+# {9801}{}{A pile of junk parts.  A little bit of everything.}
+# {9900}{}{Gold Locket}
+# {9901}{}{A valuable gold locket.}
+# {10000}{}{Radio}
+# {10001}{}{A model 2043B Radio Communicator， from the fine people at Wattz Electronics.  Dependable， rugged， and camouflaged.  With the optional RS-121 interface.}
+# {10100}{}{Lighter}
+# {10101}{}{A silver butane lighter， in good condition.}
+# {10200}{}{Guns and Bullets}
+# {10201}{}{A gun rag.  A magazine devoted to the practical use of firearms， and the occasional biased review.}
+# {10300}{}{Iguana-on-a-stick}
+# {10301}{}{Some charred meat and vegetables on a cooking stick.}
+# {10400}{}{Tape Recorder}
+# {10401}{}{A Wattz Electronics Play-It-For-Me tape recorder.  Plays and records the standard 30 minute high density Record-It-Once tapes.}
+# {10500}{}{Key}
+# {10501}{}{A special key of some sort.}
+# {10600}{}{Nuka-Cola}
+# {10601}{}{A bottle of Nuka-Cola， the flavored softdrink of the post-nuclear world.  Warm and flat.}
+# {10700}{}{Bones}
+# {10701}{}{A collection of strange bones.}
+# {10800}{}{Bones}
+# {10801}{}{A collection of strange bones.}
+# {10900}{}{Rad-X}
+# {10901}{}{Anti-radiation chems to be taken before exposure.  No known side effects.}
+# {11000}{}{Psycho}
+# {11001}{}{An unique delivery system filled with strange and unknown chemicals of probably military origin.  It is supposed to increase the combat potential of a soldier.}
+# {11100}{}{.44 magnum FMJ}
+# {11101}{}{A brick of ammunition， .44 magnum caliber， full metal jacket.}
+# {11200}{}{Urn}
+# {11201}{}{A beautiful golden urn， with the name "Harriet" inscribed on the front and ashes inside.}
+# {11300}{}{Robes}
+# {11301}{}{Robes from the Children of the Cathedral.}
+# {11400}{}{Tangler's Hand}
+# {11401}{}{A cybernetic manipulator， in the shape and form of a hand.  Damaged due to the sloppy nature of the removal process.}
+# {11500}{}{Super Sledge}
+# {11501}{}{A Super Sledgehammer， manufactured by the Brotherhood of Steel， using the finest weapons technology available.  Includes a kinetic energy storage device， to increase knockback.  Min ST: 5.}
+# {11600}{}{Ripper}
+# {11601}{}{A Ripper(tm) vibroblade.  Powered by a small energy cell， the chainblade rips and tears into it's target.  Min ST: 4.}
+# {11700}{}{Flower}
+# {11701}{}{A beautiful flower.}
+# {11800}{}{Laser Rifle}
+# {11801}{}{A Wattz 2000 Laser Rifle.  Uses micro fusion cells for more powerful lasers， and an extended barrel for additional range.  Min ST: 6.}
+# {11900}{}{Necklace}
+# {11901}{}{An expensive looking necklace， made from silver， gold and pressed diamonds.}
+# {12000}{}{Alien Blaster}
+# {12001}{}{A strange gun of obviously alien origin.  Looks like it can support small energy cells， however.  Min ST: 2.}
+# {12100}{}{9mm ball}
+# {12101}{}{A collection of ancient 9x19mm rounds.  Heavy grease to preserve them from the environment.  Standard bullets.}
+# {12200}{}{9mm Mauser}
+# {12201}{}{A Mauser M/96， in 9x19mm Parabellum.  In excellent condition.  Extremely accurate.  Min ST: 3.}
+# {12300}{}{Psychic Nullifier}
+# {12301}{}{A strange device， constructed from an odd technology.}
+# {12400}{}{Beer}
+# {12401}{}{Some type of home brewed beer.}
+# {12500}{}{Booze}
+# {12501}{}{An ancient liquor， from the pre-War era.}
+# {12600}{}{Water Flask}
+# {12601}{}{A container for the holding and preservation of water or other liquids.}
+# {12700}{}{Rope}
+# {12701}{}{A strong， thick line.  About 45 feet in length.}
+# {12800}{}{Footlocker}
+# {12801}{}{Your basic footlocker.  Holds stuff， sits at foot of bed， can be locked.}
+# {12900}{}{Footlocker}
+# {12901}{}{Your basic footlocker.  Holds stuff， sits at foot of bed， can be locked.}
+# {13000}{}{Footlocker}
+# {13001}{}{Your basic footlocker.  Holds stuff， sits at foot of bed， can be locked.}
+# {13100}{}{Footlocker}
+# {13101}{}{Your basic footlocker.  Holds stuff， sits at foot of bed， can be locked.}
+# {13200}{}{Locker}
+# {13201}{}{A storage container.}
+# {13300}{}{Locker}
+# {13301}{}{A storage container.}
+# {13400}{}{Locker}
+# {13401}{}{A storage container.}
+# {13500}{}{Locker}
+# {13501}{}{A storage container.}
+# {13600}{}{Locker}
+# {13601}{}{A storage container.}
+# {13700}{}{Locker}
+# {13701}{}{A storage container.}
+# {13800}{}{Locker}
+# {13801}{}{A storage container.}
+# {13900}{}{Locker}
+# {13901}{}{A storage container.}
+# {14000}{}{Access Card}
+# {14001}{}{A security access card.  Still in working condition.}
+# {14100}{}{COC Badge}
+# {14101}{}{A badge in the shape of the Children of the Cathedral symbol.  On one side you notice bumps and indentations， almost reminding you of a key.}
+# {14200}{}{COC Badge}
+# {14201}{}{A badge in the shape of the Children of the Cathedral symbol.  On one side you notice bumps and indentations， almost reminding you of a key.}
+# {14300}{}{Sniper Rifle}
+# {14301}{}{A DKS-501 Sniper Rifle.  Excellent long range projectile weapon.  Originally .308， this one is chambered in the more common .223 caliber.  Min ST: 5.}
+# {14400}{}{Super Stimpak}
+# {14401}{}{An advanced healing chem.  Very powerful.  Superstims will cause a small amount of damage after a period of time due to powerful nature of the chemicals used.}
+# {14500}{}{Bookshelf}
+# {14501}{}{A wooden bookshelf.}
+# {14600}{}{Bookshelf}
+# {14601}{}{A wooden bookshelf.}
+# {14700}{}{Bookshelf}
+# {14701}{}{A wooden bookshelf.}
+# {14800}{}{Bookshelf}
+# {14801}{}{A wooden bookshelf.}
+# {14900}{}{Bookshelf}
+# {14901}{}{A wooden bookshelf.}
+# {15000}{}{Bookshelf}
+# {15001}{}{A wooden bookshelf.}
+# {15100}{}{Shelves}
+# {15101}{}{A set of wooden shelves.}
+# {15200}{}{Shelves}
+# {15201}{}{A set of wooden shelves.}
+# {15300}{}{Shelves}
+# {15301}{}{A set of wooden shelves.}
+# {15400}{}{Shelves}
+# {15401}{}{A set of wooden shelves.}
+# {15500}{}{Shelves}
+# {15501}{}{A set of wooden shelves.}
+# {15600}{}{Shelves}
+# {15601}{}{A set of wooden shelves.}
+# {15700}{}{Workbench}
+# {15701}{}{A workbench.  Yep， your standard old， run of the mill， workbench.  Looks nice sitting there， too.}
+# {15800}{}{Tool Board}
+# {15801}{}{This board holds a variety of tools above the popular workbench.}
+# {15900}{}{Molotov Cocktail}
+# {15901}{}{A home-made flammable grenade.  Min ST: 3.}
+# {16000}{}{Cattle Prod}
+# {16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics.  Uses small energy cells for power.  Min ST: 4.}
+# {16100}{}{Red Ryder BB Gun}
+# {16101}{}{A Red Ryder BB gun.  The classic.  Min ST: 3.}
+# {16200}{}{Red Ryder LE BB Gun}
+# {16201}{}{A limited edition version of the Red Ryder BB gun.  A true classic.  Min ST: 3.}
+# {16300}{}{BB's}
+# {16301}{}{A package of BB's from before the war.  In excellent condition.  Stainless steel.}
+# {16400}{}{Brotherhood Tape}
+# {16401}{}{A holodisc from regarding the Brotherhood of Steel.}
+# {16500}{}{Iguana Stand}
+# {16501}{}{The home of Bob's Iguana Bits.  What's not to love about fresh-roasted iguana?}
+# {16600}{}{Table}
+# {16601}{}{A generic table.  Holds stuff off the ground.}
+# {16700}{}{Table}
+# {16701}{}{A generic table.  Holds stuff off the ground.}
+# {16800}{}{Stuff}
+# {16801}{}{These are miscellaneous items， also known as "stuff".}
+# {16900}{}{Stuff}
+# {16901}{}{These are miscellaneous items， also known as "stuff".}
+# {17000}{}{Stuff}
+# {17001}{}{These are miscellaneous items， also known as "stuff".}
+# {17100}{}{Stuff}
+# {17101}{}{These are miscellaneous items， also known as "stuff".}
+# {17200}{}{Stuff}
+# {17201}{}{These are miscellaneous items， also known as "stuff".}
+# {17300}{}{Stuff}
+# {17301}{}{These are miscellaneous items， also known as "stuff".}
+# {17400}{}{Stuff}
+# {17401}{}{These are miscellaneous items， also known as "stuff".}
+# {17500}{}{Stuff}
+# {17501}{}{These are miscellaneous items， also known as "stuff".}
+# {17600}{}{Stuff}
+# {17601}{}{These are miscellaneous items， also known as "stuff".}
+# {17700}{}{Stuff}
+# {17701}{}{These are miscellaneous items， also known as "stuff".}
+# {17800}{}{Stuff}
+# {17801}{}{These are miscellaneous items， also known as "stuff".}
+# {17900}{}{Stuff}
+# {17901}{}{These are miscellaneous items， also known as "stuff".}
+# {18000}{}{Crate}
+# {18001}{}{A wooden crate filled with generic stuff.}
+# {18100}{}{Desk}
+# {18101}{}{A generic desk.  Seen one desk， you've seen them all.}
+# {18200}{}{Desk}
+# {18201}{}{A generic desk.}
+# {18300}{}{Desk}
+# {18301}{}{A generic desk.}
+# {18400}{}{Desk}
+# {18401}{}{A generic desk.}
+# {18500}{}{Desk}
+# {18501}{}{A generic desk.}
+# {18600}{}{Desk}
+# {18601}{}{A generic desk.}
+# {18700}{}{Desk}
+# {18701}{}{A generic desk.}
+# {18800}{}{Locker}
+# {18801}{}{A locker.}
+# {18900}{}{Locker}
+# {18901}{}{A locker.}
+# {19000}{}{FEV Disk}
+# {19001}{}{A holotape containing medical information.  Can be used to enter information into your PIPBoy.}
+# {19100}{}{Security Disk}
+# {19101}{}{A holotape with the writing "Security Log" on the label.  You can use it to transfer the data it contains to your PIPBoy.}
+# {19200}{}{Alpha Experiment Disk}
+# {19201}{}{The label on this holotape reads: "Alpha Experiment Log"}
+# {19300}{}{Delta Experiment Disk}
+# {19301}{}{The label on this holotape reads: "Delta Experiment Log"}
+# {19400}{}{Vree's Experiment Disk}
+# {19401}{}{This holotape has been updated with medical evidence from Vree of the BoS.  It can be used to transfer the data to your PIPBoy.}
+# {19500}{}{Brotherhood Honor Code}
+# {19501}{}{A holotape， with a rough symbol of the Brotherhood of Steel inscribed on it.  Use the tape to transfer the data to your PIPBoy.}
+# {19600}{}{Mutant Transmissions}
+# {19601}{}{This holotape looks like it was set to record audio data from a radio.  Use the tape to transfer the information to your PIPBoy.}
+# {19700}{}{Box}
+# {19800}{}{Box}
+# {19900}{}{Box}
+# {20000}{}{Box}
+# {20100}{}{Box}
+# {20200}{}{Box}
+# {20300}{}{Box}
+# {20400}{}{Box}
+# {20500}{}{Flare}
+# {20501}{}{A flare.  Creates light for a short period of time.  The paper is a little worn， but otherwise it is in good condition.  It is lit.}
+# {20600}{}{Dynamite}
+# {20601}{}{A high explosive， consisting of nitroglycerin mixed with the absorbent substance kiselguhr.  Includes a timer， which is ticking.}
+# {20700}{}{Geiger Counter}
+# {20701}{}{A Wattz Electronics C-Radz model Geiger Counter.  Detects the presence and strength of radiation fields.  It is on.}
+# {20800}{}{Motion Sensor}
+# {20801}{}{A Wattz Electronics C-U model motion sensor.  Detects the movement of biological material over a distance of meters using a tuned radar device.  It is on.}
+# {20900}{}{Plastic Explosives}
+# {20901}{}{A chunk of Cordex， a military brand of plastic explosives.  Highly stable， very destructive.  Includes a timer， which is ticking.}
+# {21000}{}{Stealth Boy}
+# {21001}{}{A RobCo Stealth Boy 3001 personal stealth device.  Generates a modulating field that transmits the reflected light from one side of an object to the other.}
+# {21100}{}{Bones}
+# {21101}{}{You see Ed.  Ed's dead.}
+# {21200}{}{Tandi}
+# {21201}{}{You are bartering for Tandi's release.}
+# {21300}{}{Remains of Gizmo}
+# {21301}{}{Gizmo， former crime boss of Junktown， is dead.  And pretty stinky， too.}
+# {21400}{}{Desk}
+# {21401}{}{A desk.  After further observation， you decide that it is still a desk.}
+# {21500}{}{Brotherhood History}
+# {21501}{}{A holotape containing information relating to the Brotherhood of Steel.  Can be used to enter information into your PIPBoy 2000.}
+# {21600}{}{Maxson's History}
+# {21700}{}{Maxson's Journal}
+# {21800}{}{Light Healing}
+# {21801}{}{Barter for this option if you want light healing.}
+# {21900}{}{Medium Healing}
+# {21901}{}{Barter for this option if you want medium healing.}
+# {22000}{}{Heavy Healing}
+# {22001}{}{Barter for this option if you want lots of care and heavy healing.}
+# {22100}{}{Security Card}
+# {22101}{}{A keycard with a security level encoded within it's very simple electronics.}
+# {22200}{}{Field Switch}
+# {22201}{}{An electronic transmission device， with a very simple， and large， toggle button.  It looks like it was recently made and designed for very large hands.}
+# {22300}{}{Yellow Pass Key}
+# {22301}{}{An electronic security key， color coded yellow.}
+# {22400}{}{Small Statuette}
+# {22401}{}{You think this might be a carving of the "Pip Boy" but you can't be sure.}
+# {22500}{}{You Have No Idea}
+# {22501}{}{Upon further inspection， you still have no idea what this is.}
+# {22600}{}{Box Of Noodles}
+# {22601}{}{You have no idea what "Instant Spaghetti" means.}
+# {22700}{}{Small Dusty Box Of Some Sort}
+# {22701}{}{A television dinner.  You're not sure， but it's definitely not edible.  You're not quite sure if it ever was.}
+# {22800}{}{Technical Manual}
+# {22801}{}{A technical repair manual on the T-51b Power Armor.}
+# {22900}{}{Small Piece Of Machinery}
+# {22901}{}{You see a Systolic Motivator.  This unusual piece of machinery is very small.}
+# {23000}{}{Vault Records}
+# {23001}{}{A compendium of events and important recordings from a Vault computer system.  Possibly damaged.}
+# {23100}{}{Military Base Security Code}
+# {23101}{}{ }
+# {23200}{}{Hardened Power Armor}
+# {23201}{}{A suit of T-51b Power Armor.  The hardening process has improved the defensive capability of this high-tech armor system.}
+# {23300}{}{Turbo Plasma Rifle}
+# {23301}{}{A modified Winchester P94 plasma rifle.  The plasma bolt chamber has been hotwired to accelerate the bolt formation process.  Min ST: 6.}
+# {23400}{}{Spiked Knuckles}
+# {23401}{}{An improved version of the classic Brass Knuckles.  The Spiked Knuckles do more damage， tearing into the flesh of your opponent in unarmed combat.  Min ST: 1.}
+# {23500}{}{Power Fist}
+# {23501}{}{A "Big Frigger" Power Fist from BeatCo.  Considered by many to be the ultimate weapon to use in unarmed combat.  Others are just scared.  Powered by small energy cells.  Min ST: 1.}
+# {23600}{}{Combat Knife}
+# {23601}{}{A high-quality combat knife， the Stallona is from SharpWit， Inc.  The edge of this blade is guaranteed sharp for over a decade of use!  Min ST: 2.}
+# {23700}{}{Chemistry Journals}
+# {23701}{}{A random pile of literature regarding the field of Chemistry.  The papers on Molecular Chemistry are particularly interesting.}
+# {23800}{}{Regulator Transmission}
+# {23801}{}{A holotape recording of an audio transmission.}
+# {23900}{}{Brotherhood Armor}
+# {23901}{}{A superior version of Combat Armor.  The Brotherhood of Steel have made many improvements over the standard version.}
+# {24000}{}{Tesla Armor}
+# {24001}{}{This shining armor provides superior protection against energy attacks.  The three Tesla Attraction Coil Rods disperse a large percentage of directed energy attacks.}
+# {24100}{}{.223 Pistol}
+# {24101}{}{A .223 rifle modified and cut down to a pistol.  This is a one-of-a-kind firearm， obviously made with love and skill.  Min ST: 5.}
+# {24200}{}{Combat Shotgun}
+# {24201}{}{A Winchester City-Killer 12-gauge combat shotgun， bullpup variant.  In excellent condition， it has the optional DesertWarfare environmental sealant modification for extra reliability.  Min ST: 5.}
+
+{100}{}{皮装甲}
+{101}{}{这是你基本防护装。用双头牛皮精工细作的全皮装甲。}
+{200}{}{金属装甲}
+{201}{}{金属打制成身体形状的装甲。}
+{300}{}{动力装甲}
+{301}{}{先进的高科技装甲。能量来自于非常微小的反应槽，省电！连续穿一百年也不用充电。}
+{400}{}{刀}
+{401}{}{一种有锋利刀刃和刀尖的武器，你可以用它切东西或捅人。最小力量：2。}
+{500}{}{警棍}
+{501}{}{一根由军队或警察使用的棍子，木头的质地很好。最小力量：3。}
+{600}{}{铁锤}
+{601}{}{一把带长柄的大锤，强壮者的最爱。最小力量：6。}
+{700}{}{矛}
+{701}{}{拥有相当尖利的矛头，矛柄是木质的。最小力量：7。}
+{800}{}{10mm手枪}
+{801}{}{一把6520型10mm自动手枪。每次开火都能自动上膛，直到子弹打完为止。每次只能单发，使用10mm子弹。 最小力量：3。}
+{900}{}{10mm冲锋枪}
+{901}{}{H&K MP9小型冲锋枪，使用10mm子弹。可以单发或者连发。最小力量：4。}
+{1000}{}{.223来复枪}
+{1001}{}{一把半自动的来复枪，使用.223弹药，只能单发使用。最小力量：5。}
+{1100}{}{火焰喷射器}
+{1101}{}{450型火焰发射器。使用可燃性液体，可喷射出温度相当高的火焰。最小力量：6。}
+{1200}{}{多管机枪}
+{1201}{}{CZ53型多管机枪。多管设计可在每分钟发射60000发子弹，装弹量大，可一次添装120发5mm子 弹。最小力量：7。}
+{1300}{}{火箭发射器}
+{1301}{}{火箭发射器，古时人们称之为火箭筒。3磅的扳机，可使用穿甲型或爆裂型火箭。最小力量：6。}
+{1400}{}{爆裂型火箭}
+{1401}{}{这个火箭弹装有一个大的爆裂型弹头。}
+{1500}{}{电浆来复枪}
+{1501}{}{温彻斯特出品的P94型电浆来复枪。一个工业级的武器，可射出超高温能源光束，使用微型核融电池。最小力量：3，}
+{1600}{}{镭射手枪}
+{1601}{}{瓦仑兹电子1000型激光手枪。非军用设计，释放的能量较小，威力不如军用版的强大。使用小能源电池。最小力量：3。}
+{1700}{}{战斗装甲}
+{1701}{}{高科技装甲，使用先进的聚合物制成。}
+{1800}{}{沙漠之鹰手枪}
+{1801}{}{老旧的沙漠之鹰手枪，使用.44弹药。20世纪末期的电影让这种手枪非常风靡。最小力量：4。}
+{1900}{}{石头}
+{1901}{}{它就是普通的一块石头，如果投向敌人会造成很少的伤害，最小力量：1。}
+{2000}{}{撬棍}
+{2001}{}{一根非常结石的铁棍，被用来打开井盖或者敲别人脑袋。最小力量：5。}
+{2100}{}{铜指虎}
+{2101}{}{硬铜所制的指套，带在手上可以提高你的伤害力度，最小力量：1。}
+{2200}{}{14mm手枪}
+{2201}{}{Sig-Sauer自动手枪，使用14mm弹药。大型的单发手枪，威力上表现还是很不错的。最小力量：4。}
+{2300}{}{攻击来复枪}
+{2301}{}{AK-112攻击来复枪。旧式的军用设计，战后就被淘汰了。使用5mm子弹，可单发或连发。最小力量：5。}
+{2400}{}{电浆手枪}
+{2401}{}{86型电浆手枪。由Gaston Glock AI所设计。使用微型核融电池，可射出超高级能量光束。最小力量：4。}
+{2500}{}{碎片手榴弹}
+{2501}{}{利用碎片来伤人的手榴弹，里面装着一些炸药。爆炸时飞出的碎片将会造成伤害。最小力量：3。}
+{2600}{}{电浆手榴弹}
+{2601}{}{用磁力能源把电浆封住，爆炸后会放出高热电浆把人烧死。最小力量：4。}
+{2700}{}{振荡波手榴弹}
+{2701}{}{电磁振荡波手榴弹，引爆后会发出强大的电磁震动波来干扰机器，对生物不会造成影响。最小力量：4。}
+{2800}{}{加特林镭射机枪}
+{2801}{}{加特林H&K L30型镭射机枪。专门为军方设计，战争开始的时候该枪还在试验阶段，使用微型核融电池，被这种枪打死的人会死的很惨。最小力量：6。}
+{2900}{}{10mm JHP}
+{2901}{}{10mm JHP子弹，可以用它来猎杀变种地鼠！}
+{3000}{}{10mm AP}
+{3001}{}{10mm AP，可穿透装甲。}
+{3100}{}{.44 JHP}
+{3101}{}{一些 .44JHP子弹，弹头是全铁制的。}
+{3200}{}{火焰发射器燃料}
+{3201}{}{装有火焰发射器的燃料小桶。}
+{3300}{}{14mm AP}
+{3301}{}{大口径子弹，可穿透装甲。}
+{3400}{}{.223 FMJ}
+{3401}{}{一盒.223子弹，完全钢制的外壳。}
+{3500}{}{5mm JHP}
+{3501}{}{一箱轻巧的子弹，5mm口径。}
+{3600}{}{5mm AP}
+{3601}{}{一箱轻巧的弹药，5mm口径，可穿透装甲。}
+{3700}{}{穿透型火箭}
+{3701}{}{火箭外壳上有少量炸药，是用来穿透坚固装甲的。}
+{3800}{}{小能源电池}
+{3801}{}{一个小型能源存储设备。}
+{3900}{}{微型核融电池}
+{3901}{}{一个微型能源存储设备。小型的核融发电厂。}
+{4000}{}{治疗针}
+{4001}{}{治疗针剂，可以治愈轻伤，并且随时都可以注射。}
+{4100}{}{瓶盖}
+{4101}{}{这个袋子装着你的瓶盖。}
+{4200}{}{冰箱}
+{4201}{}{一个冰箱，正在运行中。}
+{4300}{}{保鲜盒}
+{4301}{}{在这个恶劣的环境里，这个盒子可以延长食物的保存期。}
+{4400}{}{保鲜盒}
+{4401}{}{在这个恶劣的环境里，这个盒子可以延长食物的保存期。}
+{4500}{}{飞刀}
+{4501}{}{一把专门用来投掷的刀，钛金属制造，用激光磨利的刀刃。最小力量：3。}
+{4600}{}{袋子}
+{4601}{}{一个普通大小的袋子，用双头牛的毛编织而成。}
+{4700}{}{医疗用品箱}
+{4701}{}{这个小盒子里装着仪器和药品。}
+{4800}{}{放射药}
+{4801}{}{一种化学药品，可以同放射粒子结合，并且从体内排出。需要一段时间才会见效。}
+{4900}{}{解毒药}
+{4901}{}{一瓶祖传的解毒药，粘稠的液体，里面还有几片毒蝎子的壳。}
+{5000}{}{预留的物品}
+{5001}{}{这是一个预留的物品，请勿使用！}
+{5100}{}{炸药}
+{5101}{}{强大力量的炸药，是用硝化甘油所制，通常用来炸开门或者暗杀。上面有一个计时器。}
+{5200}{}{盖氏计数器}
+{5201}{}{用来计算放射线强度的仪器。}
+{5300}{}{曼他特}
+{5301}{}{一种用来改变脑部的化学药品。可以暂时提高记忆力，让思考反映更快，但是却会使人上瘾。}
+{5400}{}{隐身小子}
+{5401}{}{这是RobCo公司所设计的隐身小子3001型个人隐型装置，它可以让别人的视线直接穿过你而看到你身后的景物。}
+{5500}{}{净水芯片}
+{5501}{}{一个净水计算机系统的芯片。外表和一般的芯片没什么区别，但你的避难所非常需要它！}
+{5600}{}{名牌}
+{5601}{}{这是一个军用的名牌。“黑水”这个名字倒是很易读，也没有其他更多信息了。}
+{5700}{}{窃听器}
+{5701}{}{一个微型话筒和一个信号发射器。}
+{5800}{}{记录磁盘}
+{5801}{}{一片瓦仑兹电子全息磁盘。这个磁盘看上去很破旧。}
+{5900}{}{动感探测仪}
+{5901}{}{瓦仑兹C-U型电子动感探知器。可以探知数公尺内任何生物的动作。有这装置可以增加你野外求生的技能。}
+{6000}{}{书架}
+{6001}{}{一个木制的书架。}
+{6100}{}{书架}
+{6101}{}{一个木制的书架。}
+{6200}{}{书架}
+{6201}{}{一个木制的书架。}
+{6300}{}{书架}
+{6301}{}{一个木制的书架。}
+{6400}{}{书架}
+{6401}{}{一个木制的书架。}
+{6500}{}{书架}
+{6501}{}{一个木制的书架。}
+{6600}{}{书桌}
+{6601}{}{一个木制的书桌。}
+{6700}{}{书桌}
+{6701}{}{一个木制的书桌。}
+{6800}{}{旧桌子}
+{6801}{}{一个木制的桌子。}
+{6900}{}{旧桌子}
+{6901}{}{一个木制的桌子。}
+{7000}{}{旧桌子}
+{7001}{}{一个木制的桌子。}
+{7100}{}{水果}
+{7101}{}{一个奇怪的水果，里面没有添加任何的防腐剂或色素。}
+{7200}{}{公事包}
+{7201}{}{一个皮革公事包，上面写着美国制造。外表完好，就是上面的密码锁被破坏了。}
+{7300}{}{科学手册}
+{7301}{}{一套讲述关于各种科技知识的书。}
+{7400}{}{皮夹克}
+{7401}{}{一件黑色的皮夹克}
+{7500}{}{钳子}
+{7501}{}{一把钳子，可以用它修理许多东西。}
+{7600}{}{电子手册}
+{7601}{}{一本教电子科学的书，上面写着“给所有的小小电子工程师”。}
+{7700}{}{电子开锁器}
+{7701}{}{一个用于打开电子锁或安全系统的工具。}
+{7800}{}{模糊的油画}
+{7801}{}{画的是一个歌手，显然这副画相当的古老。上面喷的保护漆让这副画一直保存到现在。}
+{7900}{}{闪光弹}
+{7901}{}{可以在短时间内发出相当明亮的光。纸卷本身已经相当的老，但是信号弹本身却还能够使用。}
+{8000}{}{急救手册}
+{8001}{}{上面记载着有关急救知识的书，使用后可提高“急救”技能。}
+{8100}{}{棒棒蜥蜴}
+{8101}{}{一种小吃，把一只蜥蜴用小木棍串起来的烧烤。}
+{8200}{}{钥匙}
+{8201}{}{这把钥匙可以打开一把特殊的锁。}
+{8300}{}{钥匙环}
+{8301}{}{上面串着许多钥匙。}
+{8400}{}{开锁工具}
+{8401}{}{一套开锁工具，可以打开一般的锁，可以提高一定“开锁”技能。}
+{8500}{}{塑胶炸药}
+{8501}{}{军用的塑胶炸弹，相当稳定，但破坏力很的强，可以用来炸门或者暗杀。上面有一个记时器。}
+{8600}{}{童军手册}
+{8601}{}{上面介绍了许多野外生存的知识。使用后可提升“野外求生”技能。}
+{8700}{}{壮大灵}
+{8701}{}{可以迅速提升力量的化学药品。非常容易上瘾，请遵医嘱定量服用。}
+{8800}{}{手表}
+{8801}{}{一块昂贵的手表。虽然表针已经不动了，但这表看上去还是不错。}
+{8900}{}{摩托}
+{8901}{}{一辆40-hp电单车。}
+{9000}{}{背包}
+{9001}{}{这个背包带有有可随意收放的背带。}
+{9100}{}{大医疗包}
+{9101}{}{这个包里包含这一些仪器可用于治疗更严重的伤势。}
+{9200}{}{蝎子尾巴}
+{9201}{}{这是被切下来的蝎子尾巴。}
+{9300}{}{袋子}
+{9301}{}{一个普通大小的袋子。用双头牛毛编织而成。}
+{9400}{}{双管猎枪}
+{9401}{}{温彻斯特出品的双管猎枪，使用霰弹枪子弹。最小力量：4。}
+{9500}{}{霰弹枪子弹}
+{9501}{}{霰弹枪子弹，这上面清楚的标着【3岁以下的孩子禁止使用！】}
+{9600}{}{红色通行卡}
+{9601}{}{一个红颜色的电子锁钥匙卡。}
+{9700}{}{蓝色通行卡}
+{9701}{}{一个蓝颜色的电子锁钥匙卡。}
+{9800}{}{名贵垃圾}
+{9801}{}{一堆垃圾，里面有保险丝、水泵零件等贵重物品，请妥善保管。}
+{9900}{}{黄金纪念品}
+{9901}{}{一个昂贵的黄金纪念品。}
+{10000}{}{对讲机}
+{10001}{}{2043B型无线通讯器，耐用！实用！好用！上边还可以装配另购的RS-121界面。}
+{10100}{}{打火机}
+{10101}{}{银色的气体打火机，成色不错。}
+{10200}{}{枪和子弹}
+{10201}{}{这本书记录了许多小型枪械的使用技巧，使用它可提升“小型枪械”技能。}
+{10300}{}{棒棒蜥蜴}
+{10301}{}{一种小吃，把一只蜥蜴用小木棍串起来的烧烤。}
+{10400}{}{记录磁盘}
+{10401}{}{一片瓦仑兹电子全息磁盘，上面标着【为了我请阅读这个】。这个磁盘一次可记录30分钟的全息内容。}
+{10500}{}{钥匙}
+{10501}{}{一把专用的钥匙。}
+{10600}{}{核子可乐}
+{10601}{}{一瓶核子可乐。温温的，并且已经没气了。这种饮料在战后非常风靡。}
+{10700}{}{骨头}
+{10701}{}{一堆奇形怪状的骨头。}
+{10800}{}{骨头}
+{10801}{}{一堆奇形怪状的骨头。}
+{10900}{}{抗辐射X}
+{10901}{}{在你进入辐射区前请服下它，你会得到一定的辐射抵抗力，并且它没有任何副作用。}
+{11000}{}{疯狂药}
+{11001}{}{一种少见的注射器，里面放着化学药品。是由军方研发出来用于提高士兵战斗力的药物。}
+{11100}{}{.44 FMJ}
+{11101}{}{一箱.44 FMJ子弹}
+{11200}{}{骨灰盒}
+{11201}{}{一个金色精致骨灰盒，上面写着“哈丽特”还有骨灰在这里长眠。}
+{11300}{}{长袍}
+{11301}{}{大教堂教徒的长袍。}
+{11400}{}{堂勒的手}
+{11401}{}{一只生锈的机械手。经常使用让它有些损坏了。}
+{11500}{}{超级铁鎚}
+{11501}{}{一把超级大鎚。由钢铁兄弟会制造，是武器科技的结晶。上面有个动能储蓄器，可以增加敲击的力量。最小力量：5。}
+{11600}{}{开膛手}
+{11601}{}{一支开膛手牌电刀，用电池所驱动。刀口可轻易的切入目标体内。最小力量：5。}
+{11700}{}{花}
+{11701}{}{一朵美丽的花。}
+{11800}{}{镭射来复枪}
+{11801}{}{瓦仑兹2000型镭射来复枪。使用微型核融电池，更长的射程，更大的打击！最小力量：6。}
+{11900}{}{项链}
+{11901}{}{一串看起来很贵的项链。由金银以及钻石所制。}
+{12000}{}{外星人手枪}
+{12001}{}{看起来很奇怪的枪，显然是外星人所制。最小力量：2。}
+{12100}{}{9mm球}
+{12101}{}{古代的9×19mm子弹。上面上了许多油使其免遭气候的破坏，标准的子弹。}
+{12200}{}{9mm毛瑟枪}
+{12201}{}{M/96毛瑟枪，使用9mm球。枪的状态还相当的好，相当的有准头。最小力量：3。}
+{12300}{}{意识保护器}
+{12301}{}{一个奇怪的装置，是用怪异的科技制造的。}
+{12400}{}{啤酒}
+{12401}{}{一种自酿的啤酒。}
+{12500}{}{酒}
+{12501}{}{一种古代的酒精饮料，相当浓烈，是战前的产物。}
+{12600}{}{水瓶}
+{12601}{}{一个可以装纳水或者其它液体的容器。}
+{12700}{}{绳子}
+{12701}{}{一条很粗的绳子，足有45尺那么长。}
+{12800}{}{床底锁箱}
+{12801}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{12900}{}{床底锁箱}
+{12901}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13000}{}{床底锁箱}
+{13001}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13100}{}{床底锁箱}
+{13101}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13200}{}{锁柜}
+{13201}{}{一个储物柜。}
+{13300}{}{锁柜}
+{13301}{}{一个储物柜。}
+{13400}{}{锁柜}
+{13401}{}{一个储物柜。}
+{13500}{}{锁柜}
+{13501}{}{一个储物柜。}
+{13600}{}{锁柜}
+{13601}{}{一个储物柜。}
+{13700}{}{锁柜}
+{13701}{}{一个储物柜。}
+{13800}{}{锁柜}
+{13801}{}{一个储物柜。}
+{13900}{}{锁柜}
+{13901}{}{一个储物柜。}
+{14000}{}{通行卡}
+{14001}{}{一张安全通行卡，还能使用。}
+{14100}{}{主教徽章}
+{14101}{}{一个有大教堂教徒形象的徽章。上面有凹凸的锯齿形状，这几乎让你把它当成一把钥匙。}
+{14200}{}{主教徽章}
+{14201}{}{一个有大教堂教徒形象的徽章。上面有凹凸的锯齿形状，这几乎让你把它当成一把钥匙。}
+{14300}{}{狙击来复枪}
+{14301}{}{DKS-501狙击来复枪。优秀的远程攻击武器。原来用.308弹药，这一把口径小了，但是可以装更多的.233弹药。最小力量：5。}
+{14400}{}{超级治疗针}
+{14401}{}{一种先进的治伤药，不过，在治疗后由于这种药品的效力太强，使用者会受到一点损伤。}
+{14500}{}{书架}
+{14501}{}{一个木制的书架。}
+{14600}{}{书架}
+{14601}{}{一个木制的书架。}
+{14700}{}{书架}
+{14701}{}{一个木制的书架。}
+{14800}{}{书架}
+{14801}{}{一个木制的书架。}
+{14900}{}{书架}
+{14901}{}{一个木制的书架。}
+{15000}{}{书架}
+{15001}{}{一个木制的书架。}
+{15100}{}{架子}
+{15101}{}{一个破烂的木头架子。}
+{15200}{}{架子}
+{15201}{}{一个破烂的木头架子。}
+{15300}{}{架子}
+{15301}{}{一个破烂的木头架子。}
+{15400}{}{架子}
+{15401}{}{一个破烂的木头架子。}
+{15500}{}{架子}
+{15501}{}{一个破烂的木头架子。}
+{15600}{}{架子}
+{15601}{}{一个破烂的木头架子。}
+{15700}{}{工作台}
+{15701}{}{一个外表很不错的工作台。}
+{15800}{}{工具吊板}
+{15801}{}{这个吊板上有着各种各样的工具，人们喜欢在这里工作。}
+{15900}{}{莫洛托夫酒}
+{15901}{}{一种自制的燃烧瓶，可投向敌人。最小力量：3。}
+{16000}{}{赶畜棒}
+{16001}{}{这是农夫们最喜爱用的工具，面装有小型的电池，会发出电力来电牲口，或是敌人。最小力量：3。}
+{16100}{}{瑞德·瑞格BB枪}
+{16101}{}{一把瑞德·瑞格BB枪，非常经典。当然它使用的是BB枪子弹。最小力量：3。}
+{16200}{}{限量版瑞德·瑞格BB枪}
+{16201}{}{一把限量版瑞德·瑞格BB枪。真正的经典！最小力量：3。}
+{16300}{}{BB弹}
+{16301}{}{一包钢制的BB弹。}
+{16400}{}{钢铁兄弟会磁盘}
+{16401}{}{一片关于钢铁兄弟会的全息磁盘。}
+{16500}{}{卖烤蜥蜴的小摊}
+{16501}{}{鲍伯的蜥蜴美食。难道你真的不想尝尝新鲜的烤蜥蜴吗？}
+{16600}{}{桌子}
+{16601}{}{一张普通的桌子，这东西可以让你不用把东西扔在地上。}
+{16700}{}{桌子}
+{16701}{}{一张普通的桌子，这东西可以让你不用把东西扔在地上。}
+{16800}{}{货物}
+{16801}{}{这些是杂物，又被称作“货物”。}
+{16900}{}{货物}
+{16901}{}{这些是杂物，又被称作“货物”。}
+{17000}{}{货物}
+{17001}{}{这些是杂物，又被称作“货物”。}
+{17100}{}{货物}
+{17101}{}{这些是杂物，又被称作“货物”。}
+{17200}{}{货物}
+{17201}{}{这些是杂物，又被称作“货物”。}
+{17300}{}{货物}
+{17301}{}{这些是杂物，又被称作“货物”。}
+{17400}{}{货物}
+{17401}{}{这些是杂物，又被称作“货物”。}
+{17500}{}{货物}
+{17501}{}{这些是杂物，又被称作“货物”。}
+{17600}{}{货物}
+{17601}{}{这些是杂物，又被称作“货物”。}
+{17700}{}{货物}
+{17701}{}{这些是杂物，又被称作“货物”。}
+{17800}{}{货物}
+{17801}{}{这些是杂物，又被称作“货物”。}
+{17900}{}{货物}
+{17901}{}{这些是杂物，又被称作“货物”。}
+{18000}{}{板条箱}
+{18001}{}{一个木制的板条箱装满了杂物。}
+{18100}{}{书桌}
+{18101}{}{一张普通的书桌。}
+{18200}{}{书桌}
+{18201}{}{一张普通的书桌。}
+{18300}{}{书桌}
+{18301}{}{一张普通的书桌。}
+{18400}{}{书桌}
+{18401}{}{一张普通的书桌。}
+{18500}{}{书桌}
+{18501}{}{一张普通的书桌。}
+{18600}{}{书桌}
+{18601}{}{一张普通的书桌。}
+{18700}{}{书桌}
+{18701}{}{一张普通的书桌。}
+{18800}{}{锁柜}
+{18801}{}{一个锁柜。}
+{18900}{}{锁柜}
+{18901}{}{一个锁柜。}
+{19000}{}{FEV病毒研究磁盘}
+{19001}{}{一片载有医学数据的全息磁盘。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19100}{}{保安磁盘}
+{19101}{}{一片全息磁盘，标签上写着“保安记录”。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19200}{}{阿尔法试验磁盘}
+{19201}{}{这个全息磁盘上面标着“阿尔法试验记录”。}
+{19300}{}{德尔塔试验磁盘}
+{19301}{}{这个全息磁盘上面标着“德尔塔试验记录”。}
+{19400}{}{弗蕾的试验磁盘}
+{19401}{}{这是钢铁兄弟会的弗蕾给你的新版医学记录磁盘。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19500}{}{钢铁兄弟会磁盘}
+{19501}{}{一片标着钢铁兄弟会符号的全息磁盘。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19600}{}{变种人通话记录磁盘}
+{19601}{}{这个全息磁盘上好像记录了来自一个无线电的语音信息。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19700}{}{箱子}
+{19800}{}{箱子}
+{19900}{}{箱子}
+{20000}{}{箱子}
+{20100}{}{箱子}
+{20200}{}{箱子}
+{20300}{}{箱子}
+{20400}{}{箱子}
+{20500}{}{信号弹}
+{20501}{}{可以在短时间内发出相当明亮的光，纸卷本身已经相当的老，但是信号弹本身却还能够使用。它已经点亮。}
+{20600}{}{炸药}
+{20601}{}{强大力量的炸药，是用硝化甘油所制，通常用来炸开门或者暗杀。上面有一个计时器。计时器正在倒计时。}
+{20700}{}{盖氏计算器}
+{20701}{}{一个瓦仑兹电子C-Radz型盖氏计算器。用来计算放射线强度的仪器。它已经打开了。}
+{20800}{}{动感探知器}
+{20801}{}{瓦仑兹电子C-U型动感探知器。可以探知数公尺内任何生物的动作。它已经打开了。}
+{20900}{}{塑胶炸药}
+{20901}{}{军用的塑胶炸弹，相当稳定，但破坏力很的强，可以用来炸门或者暗杀。上面有一个记时器。计时器正在倒计时。}
+{21000}{}{隐身小子}
+{21001}{}{这是RobCo公司所设计的隐身小子3001型个人隐型装置，它可以让别人的视线直接穿过你而看到你身后的景物。它已经开始工作了。}
+{21100}{}{尸骨}
+{21101}{}{你看到艾德，他已经死了。}
+{21200}{}{坦蒂}
+{21201}{}{你为为了释放坦蒂而拼命。}
+{21300}{}{吉斯莫的尸体}
+{21301}{}{吉斯莫，曾经是迦克镇的大黑帮头目。现在他死了，并且非常的臭。}
+{21400}{}{书桌}
+{21401}{}{一个书桌，在进一步观察它之后，你发现……它还是一个书桌。}
+{21500}{}{钢铁兄弟会历史磁盘}
+{21501}{}{这个全息磁盘上记载着关于钢铁兄弟会的许多信息。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{21600}{}{马克松的历史}
+{21700}{}{马克松的记录。}
+{21800}{}{轻度伤害治疗}
+{21801}{}{如果你的手被刀割伤了，请购买这个。}
+{21900}{}{中度伤害治疗}
+{21901}{}{如果你在战斗中中弹了，请购买这个。}
+{22000}{}{严重伤害治疗}
+{22001}{}{如果你快死掉了但你还不想死的话，就买这个。}
+{22100}{}{通行卡}
+{22101}{}{一张上面有通行资料的卡，里面有相当简单的电子装置。}
+{22200}{}{开关}
+{22201}{}{一种电子控制设备，上面有相当大的按钮，看起来是最近才制造的，而且是专门为手大的人所设计的。}
+{22300}{}{黄色通行卡}
+{22301}{}{黄色的电子安全门的钥匙。}
+{22400}{}{小雕像}
+{22401}{}{你认为这很有可能是哔哔小子的雕像，但你又不能肯定。}
+{22500}{}{猫爪杂志}
+{22501}{}{一种流行的情色杂志。}
+{22600}{}{一盒面条}
+{22601}{}{你不知道什么是“意大利面条”。}
+{22700}{}{一盒都是灰尘的东西}
+{22701}{}{一盒电视晚餐，你不确定，但是那一定不能吃了}
+{22800}{}{技术手册}
+{22801}{}{一本如何修理T-51b动力装甲的手册。}
+{22900}{}{一小台机器}
+{22901}{}{一个心脏收缩器，这一部机器相当小。}
+{23000}{}{避难所记录}
+{23001}{}{这是来自避难所计算机上的重要影像，也许已经坏了。}
+{23100}{}{军事基地的安全口令}
+{23101}{}{有了这个口令就可以通过了，再看也不会有什么秘密了。}
+{23200}{}{T-51b动力装甲}
+{23201}{}{一套T-51b动力装甲。加强的工艺可以增加这件装甲的防御能力。}
+{23300}{}{高速电浆来复枪}
+{23301}{}{一支改造过的温彻斯特P94型电浆来福枪。电浆发射器已被改造了，因此电浆的速度会加快。最小力量：6。}
+{23400}{}{带刺的手指虎}
+{23401}{}{一个改良后的拳套，上面的刺可以造成更多的伤害，在空手战斗中相当有用。最小力量：1。}
+{23500}{}{动力拳击手套}
+{23501}{}{这个手套可以增加你挥拳的力量，很多人都认为这是空手战斗最佳的装备，使用小型电池。最小力量：1。}
+{23600}{}{战斗刀}
+{23601}{}{高级战斗刀，刀身的钢材来自锋锐公司。刀身保证十年内都是尖锐的。最小力量：2。}
+{23700}{}{化学记录}
+{23701}{}{一叠化学的研究记录，其中原子化学的部分尤其有趣。}
+{23800}{}{管理者语音记录}
+{23801}{}{这是一片记录着语音信息的全息磁盘。}
+{23900}{}{钢铁兄弟会装甲}
+{23901}{}{一种更先进的战斗装甲，钢铁兄弟会在普通的装甲上面作了很多的改进。}
+{24000}{}{德斯拉装甲}
+{24001}{}{这一个装甲是专门设计用来抵挡能量攻击的装甲，上面装有3个德斯拉线圈，可以吸收大部分的能量伤害。}
+{24100}{}{.223手枪}
+{24101}{}{.223来福枪改造而成的手枪。这是一只独一无二的武器，显然是由一个武器高手改造出来的。最小力量：5。}
+{24200}{}{战斗霰弹枪}
+{24201}{}{温彻斯特－城市杀手战斗霰弹枪，更适合在空旷的地方使用。最小力量：5。}

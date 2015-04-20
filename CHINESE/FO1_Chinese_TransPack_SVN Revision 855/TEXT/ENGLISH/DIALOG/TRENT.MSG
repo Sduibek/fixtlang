@@ -1,0 +1,131 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{Stay away from me! Leave me alone!}
+#{101}{}{Hello stranger. You shouldn't be out here. There's only death out here!}
+#{102}{}{You wouldn't happen to know anything about missing caravans?}
+#{103}{}{Who are you?}
+#{104}{}{What kind of death?}
+#{105}{}{I need some supplies. Hand them over!}
+#{106}{}{I'm looking for a water chip. Can you help me?}
+#{107}{}{I was wondering what you know about the Death Claw.}
+#{108}{}{Rurr? Sniff?}
+#{109}{}{What do you want! Leave me alone!}
+#{110}{}{Rrr. Snrg.}
+#{111}{}{Big! Big! The size of three men! Claws as long as my forearm! Ripped
+# apart! Ripped apart!}
+#{112}{}{Yes. What else?}
+#{113}{}{Calm down, man. You're safe now.}
+#{114}{}{Man, that sounds like one ugly son of a bitch!}
+#{115}{}{Did you kill it?}
+#{116}{}{I'm Trent. I'm a guard for the Water Merchants. Our caravan was attacked
+# . . . by a monster! So huge, so fast. It ate Joe, and took rifle shots and
+# didn't flinch! So huge!}
+#{117}{}{What attacked you?}
+#{118}{}{Sounds like a kind of mutant.}
+#{119}{}{That sounds like the Death Claw!}
+#{120}{}{Well, that'll teach you to keep jacking up your prices!}
+#{121}{}{Fine. It's not like I need 'em any more.}
+#{122}{}{Water chip! I'm a guard, not an engineer! Check with the water merchants
+# at the Hub, they'd probably know!}
+#{123}{}{Death Claw!}
+#{124}{}{What are you doing? Leave me alone!}
+#{125}{}{I . . . I don't know. I haven't slept in so long. Hungry. Thirsty. Tired.
+# I need to get home.}
+#{126}{}{}
+#{127}{}{Huge horns, sick red skin, like something out of a story about demons,
+# and it at Joe in three gulps . . .}
+#{128}{}{Nobody's safe! Nobody's safe, nobody's safe any more, and what am I going
+# to do . . .}
+#{129}{}{Are you crazy! I put three rounds from my Desert Eagle into it, and it
+# didn't even flinch!}
+#{130}{}{I don't care if it's a mutant, an alien, or a demon from Hell, I never
+# want to see another one of those things as long as I live!}
+#{131}{}{I'm just a guard, dammit! Don't blame me! And they pay me well! I don't
+# have any problems with them!}
+#{132}{}{How can I help you?}
+#{133}{}{Death Claws got 'em. I just thought they were stories, but . . . you
+# wouldn't believe how big they are, or how fast. First we smelled them, then
+# they came over the ridge and tore into us. We all ran, and somehow I got away.}
+#{134}{}{Trent, Trent Barrister. I live in the Hub. Lately work's been getting
+# scarce, and I'm a pretty good shot, so I hired myself as a guard to the Water
+# Merchants. Pay's good, the risk's low - or so I thought.}
+#{135}{}{I haven't a clue. That's old tech, ain't it? I suppose scavengers might
+# find one, now and a gain, but I wouldn't begin to know where to look. No
+# one uses them any more - do they?}
+#{136}{}{They're huge. Like big lizards, but leathery. Huge claws, and teeth, huge
+# horns and they love the taste of humans. And fast, God they're fast. I'm just
+# glad they decided not to chase me, or I'd be dead.}
+#{137}{}{Thanks. Maybe what happened was just a misunderstanding. I don't have
+# much money, but it's yours now.}
+#{138}{}{Thanks. Oh God, that's good . . . I don't have much money, but it's yours
+# now.}
+#{139}{}{Thanks. Maybe what happened was just a misunderstanding. I don't have much
+# money, but . . . damn! I must have dropped it. It's yours now.}
+#{140}{}{Thanks. Oh God, that's good . . . I don't have much money, but . . . damn!
+# I must have dropped it. It's yours now.}
+#{141}{}{Help me!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+# {142}{}{The smell of death, my friend. The smell of death . . .}
+# {143}{}{The smell of death, my friend. The smell of death . . .}
+
+{100}{}{走开！离我远点！}
+{101}{}{你好，陌生人。你可别出去。外面只有死亡。}
+{102}{}{你知道关于失踪商队的事情吗？}
+{103}{}{你是谁？}
+{104}{}{什么样的死亡？}
+{105}{}{我需要些补给。把它们拿出来！}
+{106}{}{我在找净水芯片。你能帮我吗？}
+{107}{}{你是否知道一些关于死亡爪的事情？}
+{108}{}{呜哇！哼哼！}
+{109}{}{你到底要干什么？走开！}
+{110}{}{呜哇！哼哼！}
+{111}{}{很大！很大！有三个人那么大！爪子有我前臂那么长！撕裂！撕裂！}
+{112}{}{恩。还有吗？}
+{113}{}{伙计，冷静点。你现在很安全。}
+{114}{}{伙计，听起来真是个丑畜生。}
+{115}{}{你把它杀了吗？}
+{116}{}{我是特仑特。纯水商队的护卫。我们的商队被……被一个怪物袭击了。非常大，非常敏捷。它吃了乔，被来福枪打中也好象没事一样！非常大！}
+{117}{}{袭击你的是什么？}
+{118}{}{好象是什么的变种。}
+{119}{}{那好象是死亡爪！}
+{120}{}{恩，现在你们知道该要求加薪水了吧。}
+{121}{}{好，看来我不再需要他们了。}
+{122}{}{净水芯片！我是护卫，不是技师！去哈勃城的纯水商队那里看看，他们也许知道。}
+{123}{}{死亡爪！}
+{124}{}{你干什么？走开！}
+{125}{}{我……我不知道。我很久没休息过了。现在又饿又渴又累。我要回家。}
+{126}{}{}
+{127}{}{大犄角，恶心的红皮肤，就象故事书里的恶魔，它三口就把乔吃了……}
+{128}{}{危险了！都有危险了！大家都有危险了！怎么办？怎么办……}
+{129}{}{你疯了吗？我的沙漠之鹰向它打了三弹夹的子弹。它晃都不晃一下。}
+{130}{}{我才不管是变种，异形，还是地狱的恶魔，我这辈子可都不想再见到那种东西了。}
+{131}{}{他妈的我只是个护卫。不能怪我！他们给很好的报酬。我跟他们没问题，也不会跟钱过不去。}
+{132}{}{我能帮你什么？}
+{133}{}{是死亡爪。我曾以为那只是故事，但现在……你绝对想象不到他们有多快多壮！我们刚发觉他们，转眼他们就从山脊冲下来了。我们都开始逃跑，好歹我逃出来了。}
+{134}{}{特仑特，特仑特·巴瑞斯特。我住在哈勃城。最近工作变的不太好找，但我的枪法很好，所以我自己去做了纯水商队的护卫。报酬不错，风险也小……当时我大概就是这么想的。}
+{135}{}{我也没头绪。是很古老的科技了吧？我想流浪汉也许拣到一个，赚了一票。但我也不知道去哪找。现在人们都不用这东西了，不是吗？}
+{136}{}{它们很大，象大蜥蜴，但有很硬的皮肤。大爪子，大牙齿，还有大犄角，他们喜欢人肉。而且他们很敏捷，天呐，它们真的太快了。我很高兴他们没选追我，不然我也挂了。}
+{137}{}{谢谢。也许那只是个误会，我没有多少钱，不过这些是你的了。}
+{138}{}{谢谢。哦天呐，那真是……我没有多少钱，不过这些是你的了。}
+{139}{}{谢谢。也许那只是个误会，我没有多少钱，不过……干！我肯定是弄丢了。这些是你的了。}
+{140}{}{谢谢。哦天呐，那真是……我没有多少钱，不过……干！我肯定是弄丢了。这些是你的了。}
+{141}{}{救命！}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{142}{}{死亡的气息，朋友。死亡的气息……}
+{143}{}{死亡的气息，朋友。死亡的气息……}
+

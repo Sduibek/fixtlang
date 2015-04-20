@@ -1,0 +1,363 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a thug.}
+#{101}{}{Hey, aren't you the bastard who's been screwing us over? Man, did you come to the wrong place!}
+#{102}{}{Hey aren't you the bitch who's been screwing us over? You're in the wrong place, lady, and it's gonna cost you!}
+#{103}{}{I'm on your side now. So get outta my way!}
+#{104}{}{You're mistaken. Everyone looks the same out in the Wastes.}
+#{105}{}{Wrong place? Looks right to me!}
+#{106}{}{You wanna start something, I'll make sure you go down before I try something. C'mon punk, start it up! Let's see some balls!}
+#{107}{}{Wrong place? I not lost!}
+#{108}{}{Yeah. What do you want?}
+#{109}{}{Man, I just want to speak with a real human being. These zombies are giving me the creeps.}
+#{110}{}{Brother, will you not praise the Master with me?}
+#{111}{}{Hey, just looking for a friendly face.}
+#{112}{}{I want to see the Master.}
+#{113}{}{To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears.}
+#{114}{}{Food! Me want food!}
+#{115}{}{Hey, haven't I heard about you? You've killed all sorts of shit, haven't you? What brings you here?}
+#{116}{}{I heard about some strange stuff happening here. What's going on?}
+#{117}{}{Peace, unity, that sort of stuff.}
+#{118}{}{Where's the Master?}
+#{119}{}{Just looking for a friend. Someone to talk with.}
+#{120}{}{I heard the booze is pretty good around here.}
+#{121}{}{My feet.}
+#{122}{}{You wanna talk, you better get that weapon outta my face! Lower it now!}
+#{123}{}{It's a force of habit. You drop the attitude and I'll lower the weapon.}
+#{124}{}{I'm no dead yet, so I'm not lowering it.}
+#{125}{}{What's the problem? I just want to talk.}
+#{126}{}{I'm on guard duty.}
+#{127}{}{What you say?}
+#{128}{}{You got something to say, say it fast.}
+#{129}{}{What's going on around here?}
+#{130}{}{I want to speak with the Master.}
+#{131}{}{I want to speak with whoever's in charge here.}
+#{132}{}{It! It-it-it-it-it-it-it!}
+#{133}{}{A ton of shit. Peace. Unity. Love. Lots of idiots running
+# around like zombies. Morpheus counting his bottlecaps
+# upstairs. Lasher living up to his name. You want a piece
+# of this, you're welcome to it?}
+#{134}{}{I've heard that you're doing a lot of stuff that isn't exactly peace and love.}
+#{135}{}{What's going on with Morpheus?}
+#{136}{}{Who's this Lasher character?}
+#{137}{}{Fine. What do you want?}
+#{138}{}{Have you noticed any unusual happenings around here?}
+#{139}{}{What's going on around here?}
+#{140}{}{Where's the Master?}
+#{141}{}{Just looking for a friend.}
+#{142}{}{To finish what the nuke started.}
+#{143}{}{Man, stay away from him! He's completely.. I dunno if I can really describe him. Imagine the one person on Earth you don't wanna know. Lasher's worse.}
+#{144}{}{Does he and Morpheus get along?}
+#{145}{}{So what's he done? What makes him so bad?}
+#{146}{}{You ain't met me yet pal.}
+#{147}{}{Talk to Morpheus, and hope he doesn't kill you for asking.}
+#{148}{}{I don't think he'll want to do that. I have important information.}
+#{149}{}{Why would he want to do that?}
+#{150}{}{What's this about Morpheus?}
+#{151}{}{Well, this world is 'kill or be killed', and I'm still here!}
+#{152}{}{Yeah, what sort of information?}
+#{153}{}{There's a spy here. I need to see the person in charge at once.}
+#{154}{}{I could tell you, but I'd have to kill you.}
+#{155}{}{Uh.. well.. I can't talk about it.}
+#{156}{}{Somebody in the Cathedral's gonna die soon. Maybe lots of people.}
+#{157}{}{Fine. I don't really care who you are. Now get out of my face!}
+#{158}{}{Everybody! Take this asshole out now!}
+#{159}{}{Mister, you're nuts! Why don't you get outta here?}
+#{160}{}{Lady, you're nuts! Why don't you get outta here?}
+#{161}{}{Because I'm having such a good time. What's you're problem? I haven't disemboweled you - yet - where's your guts?}
+#{162}{}{Because I haven't killed you yet!}
+#{163}{}{Yeah, I really want your company. Like I enjoyed it last time! Get lost!}
+#{164}{}{Hi there. Nice weapon you got. Now try lowering it.}
+#{165}{}{It's a force of habit. You drop the attitude and I'll lower the weapon.}
+#{166}{}{I ain't dead yet, so I ain't lowering it.}
+#{167}{}{What's the problem? I just want to talk.}
+#{168}{}{I'm on guard duty.}
+#{169}{}{Thanks for the complement. Dork.}
+#{170}{}{What you say?}
+#{171}{}{Fine. What do you want?}
+#{172}{}{Have you noticed any unusual happenings around here?}
+#{173}{}{What's going on around here?}
+#{174}{}{Where's the Master?}
+#{175}{}{Just looking for a friend.}
+#{176}{}{To see your head drop off your shoulders, so I can kick it around this room like a soccer ball until your skull has been completely smashed to pieces!}
+#{177}{}{If you weren't wearing those robes, I'd kill you. As it stands, I want to kill you. Get away from me. Now.}
+#{178}{}{You aren't Nightkin. Guards! We have a spy..}
+#{179}{}{Where the Hell did they dig you up? And why don't you just go back to where you came from? Get out of here!}
+#{180}{}{We're getting ready for war! We're going to save the world! So we can fill it with all of this Peace and Unity bullshit.}
+#{181}{}{War? Where's the first move?}
+#{182}{}{Bullshit? Tell me you're joking! It must be true! 【wink】}
+#{183}{}{Bullshit? Tell me you're joking! It must be true! 【straight faced】}
+#{184}{}{If it's bullshit, why are you here?}
+#{185}{}{Just as long as I get a chance to kill something.}
+#{186}{}{I don't know! The only person who's seen him is Morpheus, and he's up in his tower. Man, you're creeping me!}
+#{187}{}{I have that effect sometimes. You keep cooperating, and you'll have no reason to be afraid.}
+#{188}{}{Tell me more about Morpheus!}
+#{189}{}{Who else is important in this joint?}
+#{190}{}{You've been helpful. Thank you friend.}
+#{191}{}{You need to be more social. You know where they stash the booze?}
+#{192}{}{Too bad. I was hoping that you stiffs would have some balls.}
+#{193}{}{And I thought I was nuts! You'd better get outta here before someone kills you!}
+#{194}{}{Please don't kill me! I'll tell you what you want to know.}
+#{195}{}{What's going on around here?}
+#{196}{}{Where's the Master?}
+#{197}{}{Who's in charge here?}
+#{198}{}{Who the Hell wants to know anything? I just like to smell a person's fear before I kill them. Man, what a high!}
+#{199}{}{I hear we're moving North, or planning to move North soon. They don 't tell us much except all the usual bullshit. But what are we doing talking about this out in the open? You must be nuts!}
+#{200}{}{【Laughs】 Me, I'd rather screw someone rather than get screwed. But we shouldn't talk like this out in the open. The zombies don't like it.}
+#{201}{}{Ya know, there are a lot of other people around here who think like that. Go bother them.}
+#{202}{}{I ain't saying nothing to you, pal. Go to Hell.}
+#{203}{}{The guy dresses in black, he does his preacher act, then he goes upstairs and counts his scrip. Man, I wish I had it that easy! But I better stop talking about him behind his back, or the Nightkin might hear.}
+#{204}{}{What are you afraid of?}
+#{205}{}{I want to know more.}
+#{206}{}{Where's all the caps around here?}
+#{207}{}{What's he preaching about?}
+#{208}{}{Bring 'em on! I could use a little action!}
+#{209}{}{There's Lasher. Man, stay away from him! He's completely.. I dunno if I can really describe him. Imagine the one person on Earth you don't wanna know. Lasher's worse.}
+#{210}{}{Does he and Morpheus get along?}
+#{211}{}{What's his role in the scheme of things?}
+#{212}{}{So what's he done? What makes him so bad?}
+#{213}{}{Hey, you ain't met me yet, pal!}
+#{214}{}{In future, find somebody else to bug.}
+#{215}{}{Man, I wish we had some of that stuff! After hours of listening to 'Hail this' and 'Peace', 'Unity', and the Bullshitting Way, I wanna get drunk too!}
+#{216}{}{You got to be kidding. This place is a Church! There's gotta be booze!}
+#{217}{}{No booze? Shit!}
+#{218}{}{If I don't get enough booze, I start drinking blood.}
+#{219}{}{That's Morpheus. Our leader. He's up in the tower, I think.}
+#{220}{}{Leader? What's he leading you to?}
+#{221}{}{C'mon, man. That tells me nothing. Share some of the dirt!}
+#{222}{}{Who else is important in this joint?}
+#{223}{}{You've been helpful. Thank you friend.}
+#{224}{}{He got any booze on him? Is there any smooch in the joint?}
+#{225}{}{Hmm, a nice private place, nobody to bother me when I kill him.}
+#{226}{}{You gotta be joking. The Nightkin are killers. You look at them the wrong way, and they'll cut off your body parts, cook 'em, and feed them to you a piece at a time. They can't be killed. They're the Master's enforcers and they're gonna tear apart the world for him. And I ain't saying nothing else!}
+#{227}{}{There ain't nothing else to tell, and if you're smart, you don't wanna know!}
+#{228}{}{I dunno. I looked for them myself! I hear Morpheus got a stash, but the Nightkin guards the main one. I've known guys who went looking around for secret passages who were never seen again. I stopped looking after awhile, and if you're smart, you won't start! Ain't worth it!}
+#{229}{}{You gotta be joking. Talk to the zombies, man!}
+#{230}{}{Maybe you belong together after all!}
+#{231}{}{There ain't any booze man! Life's a bigger bitch than Lasher! Now why don't you go find someone else to talk to you, you little puke? Get outta here!}
+#{232}{}{Don't give me bullshit, pal. What do you really want?}
+#{233}{}{Have you noticed any unusual happenings around here?}
+#{234}{}{What's going on around here?}
+#{235}{}{Where's the Master?}
+#{236}{}{Just looking for a friend.}
+#{237}{}{All I want is some booze. Maybe some rad scorpion juice?}
+#{238}{}{I want some boy with a punk attitude to piss me off enough
+# that I'll remove his tongue, preserve it, and wear it on
+# a necklace as a reminder of just how stupid people can
+# be.}
+#{239}{}{The Master can kiss my ass. Just as long as I end up on the winning side, I don't give a shit. You got that, zombie!}
+#{240}{}{Finally! I've found a real human being in this place!}
+#{241}{}{My friend? Why is your life so filled with pain and suffering? Open your heart to the Master!}
+#{242}{}{How can you survive around here with that attitude?}
+#{243}{}{Yeah, you made it pretty clear.}
+#{244}{}{I give a shit. If someone called himself 'Master' and tried to kiss my ass, I'd kill him.}
+#{245}{}{Because I do my job good. I've killed three Apocalypse scum in the last month. Nobody gives me shit. You want to?}
+#{246}{}{I'm impressed. A guy like you must know the real story about what's going on around here..}
+#{247}{}{Apocalypse, eh? They're supposed to be tough?}
+#{248}{}{Three? That's all? You should see my bodycount!}
+#{249}{}{Nope.}
+#{250}{}{I'll bet yours didn't scream as loudly as mine did. I like it when they scream.}
+#{251}{}{Hey! A guy with a weapon's still a guy with a weapon! You think you can do better?}
+#{252}{}{No, my friend. I am devoted to peace, love, and unity.}
+#{253}{}{A guy with a weapon is dangerous. A guy or a woman with a weapon AND a brain is lethal.}
+#{254}{}{A guy with a weapon is dangerous. A guy with a weapon AND a brain is lethal.}
+#{255}{}{Yeah, I can do better.}
+#{256}{}{No way to tell. You wanna get it on and find out?}
+#{257}{}{Think? Who needs to think? I'll just show you what I can do. Die, asshole!}
+#{258}{}{I ain't heard anything about you, pal, so cut the bullshit and get out of my face.}
+#{259}{}{Thought so. Why don't you just go back to your zombie chants and leave the real work to guys like me.}
+#{260}{}{Yeah. I heard that about you. You may've killed your share of rad scorpions, but I'm badder! What's your angle? Why are you here?}
+#{261}{}{Have you noticed any unusual happenings around here?}
+#{262}{}{What's going on around here?}
+#{263}{}{Where's the Master?}
+#{264}{}{Just looking for a friend.}
+#{265}{}{I heard the booze is pretty good around here.}
+#{266}{}{Wait a minute, aren't you that guy who.. oh shit, I'm outta here!}
+#{267}{}{Wait a minute, aren't you that woman who.. oh shit, I'm outta here!}
+#{268}{}{I ain't anybody's friend. I ain't that type. 【long pause】 I'd suggest you get out of my way, now.}
+#{269}{}{We try something here, and the Nightkin will tear us to pieces. Maybe we can meet outside later.}
+#{270}{}{Maybe. Or maybe we can both can the attitude and just talk about stuff. Like what's going on around here.}
+#{271}{}{Coward!}
+#{272}{}{Sure. Could be fun.}
+#{273}{}{Let's do it now.}
+#{274}{}{You asshole!}
+#{275}{}{Because people who get on his bad side don't stay alive very long!}
+#{276}{}{【done】}
+{100}{}{你看见一个暴徒。}
+{101}{}{嘿，你就是那个困扰我们的杂种吧。朋友，你来错地方了！}
+{102}{}{嘿，你就是那个困扰我们的婊子吧。你来错地方了！婊子，是该找你算帐的时候了。}
+{103}{}{我现在站在你这边。滚出我的视线！}
+{104}{}{你弄错了，在废土上每个人看上去都一个样。}
+{105}{}{走错地方了？我觉得没错。}
+{106}{}{你想要干什么？我敢肯定在我采取行动前你就已经先倒下了，来吧，垃圾。开始吧！让我们尽情的玩吧！}
+{107}{}{走错地方了？我没有迷路！}
+{108}{}{是的，你想要什么？}
+{109}{}{朋友，我只想和正常人说话。这些僵尸真让我汗毛直竖。}
+{110}{}{兄弟，别拿我和主教作比较？}
+{111}{}{嘿，只想见一个好朋友。}
+{112}{}{我想见主教。}
+{113}{}{看到一个山谷，那到处都有携带长矛的敌人。那儿非常宁静，甚至你只能听见风声在你耳边吹过。}
+{114}{}{食物，我想要食物。}
+{115}{}{嘿，我听说过你吧，你就是那个杀了所有混蛋的家伙吧，你怎么会来这里？}
+{116}{}{我听说这里发生了一些奇怪的事情，这里发生了什么？}
+{117}{}{就如和平，团结那类东西。}
+{118}{}{主教在哪里？}
+{119}{}{只是在寻找朋友，找一些能交谈的人。}
+{120}{}{我听说这里的酒宴非常的棒！}
+{121}{}{我的脚。}
+{122}{}{你想交谈，你最好把你的武器从我眼前移开，放下它！}
+{123}{}{那是暴力的方式，你放下你的臭架子我就放下我的武器。}
+{124}{}{我还没死，所以我不会放下它。}
+{125}{}{什么问题，我想谈谈。}
+{126}{}{我在执行看守任务。}
+{127}{}{你说什么？}
+{128}{}{你有什么要说的？快说吧！}
+{129}{}{这里发生了什么事？}
+{130}{}{我想和主教说话。}
+{131}{}{我想和管理这个地方的人说话。}
+{132}{}{它！它……它……它……它……}
+{133}{}{一堆胡扯。和平，团结和爱，类似这种愚蠢的东西会发生在僵尸身上吗？墨菲斯在楼上数他的瓶盖，拉舍尔靠着他的名字生存。你想要一个吗？如果你愿意的话。}
+{134}{}{我听说你做了许多类似和平友爱之类的事情。}
+{135}{}{墨菲斯怎么了？}
+{136}{}{拉舍尔是个什么角色？}
+{137}{}{好吧，你需要什么？}
+{138}{}{你有没有注意到这里发生的一些不寻常的事情？}
+{139}{}{这里发生了什么事？}
+{140}{}{主教在哪里？}
+{141}{}{只是在寻找一个朋友！}
+{142}{}{把因公爵而起的事情了解了。}
+{143}{}{嘿，离他远一点，他完全的……我不知道该如何描述他，我猜想你根本不想去了解他，拉舍尔非常坏。}
+{144}{}{他和墨菲斯相处融洽吗？}
+{145}{}{那么他做了什么？什么让他变的那么糟糕？}
+{146}{}{还还没见过我，朋友。}
+{147}{}{去和墨菲斯谈，希望你别因为恼怒了他而被他杀了。}
+{148}{}{我不认为他想要那些。我有一些更重要的消息。}
+{149}{}{他为什么想那样做？}
+{150}{}{关于墨菲斯的什么？}
+{151}{}{好吧，在这个世界上只有“杀人和被杀”，而我现在还活着。}
+{152}{}{好的，什么样的消息？}
+{153}{}{这里有个间谍，我要立刻见管理这个地方的人}
+{154}{}{我能告诉你，但我先要把你杀了。}
+{155}{}{恩……恩……我不能谈这个。}
+{156}{}{在大教堂里的一些人不久都会死去，甚至更多人。}
+{157}{}{好吧，我不在乎你到底是谁，现在滚出我的视线。}
+{158}{}{来人！把这个混蛋赶出去！}
+{159}{}{老兄，你是白痴吗，你为什么不从这滚出去？}
+{160}{}{婊子，你是白痴吗，你为什么不从这滚出去？}
+{161}{}{因为我正乐着呢，你到底有什么问题？我还没拿你开刀呢，让我们看看你的肠子到底长什么样？}
+{162}{}{因为我还没把你杀了！}
+{163}{}{是的，我很想要你的公司。就象我最后一次去享受它！迷失自己！}
+{164}{}{嘿，看，你手上那武器多漂亮，现在放下它。}
+{165}{}{那是暴力的方式，你放下你的臭架子我就放下我的武器。}
+{166}{}{我还没死，所以我不会放下它。}
+{167}{}{什么问题，我想谈谈。}
+{168}{}{我在执行看守任务。}
+{169}{}{谢谢你的东西，多克}
+{170}{}{你说什么？}
+{171}{}{好吧，你想要什么？}
+{172}{}{你有没有注意到这里发生的一些不寻常的事情？}
+{173}{}{这里发生了什么事？}
+{174}{}{主教在哪里？}
+{175}{}{只是在寻找一个朋友。}
+{176}{}{为了来看你的头离开你的身体。然后我就可以把你的头当成足球在这个房间里踢来踢去，直到你的头骨变成碎片。}
+{177}{}{如果没有穿那些制服，我会杀了你，就象现在，我很想杀你。快从我这滚出去，现在！}
+{178}{}{你不是夜行团的成员。警卫，有间谍……}
+{179}{}{他们是从哪个坟墓里把你挖出来的？你为什么不滚回你来的地方？从这滚出去！}
+{180}{}{我们准备好战斗了，我们要拯救世界！让这些所谓的和平与团结都见鬼去吧！}
+{181}{}{战争？第一步做了什么？}
+{182}{}{胡扯，告诉我你在撒谎，那一定是真的！【眨眼】}
+{183}{}{胡扯，告诉我你在撒谎，那一定是真的！【坦率的面容】}
+{184}{}{如果真是胡扯，那你为什么在这？}
+{185}{}{为了能有机会杀一些东西！}
+{186}{}{我不知道！那家伙或许就是墨菲斯，他就在那塔上。嘿，你真让我汗毛直竖！}
+{187}{}{我们有什么有那样的感觉。你继续与我们合作，你没有理由感到害怕。}
+{188}{}{告诉我更多关于墨菲斯的。}
+{189}{}{还有哪个更重要的人与此有牵连的？}
+{190}{}{你帮了我的忙，谢谢，朋友。}
+{191}{}{你缺乏了些社会经验。你应该知道那些酒藏在哪里？}
+{192}{}{太糟糕了。我希望你这家伙会有点用处。}
+{193}{}{我想我疯了，你最好在有人想杀你之前离开这里。}
+{194}{}{请别杀了我，我会告诉你想要知道的事情。}
+{195}{}{这发生了什么事？}
+{196}{}{主教在哪里？}
+{197}{}{谁管这地方的？}
+{198}{}{谁他妈的还想知道更多？我只喜欢在杀人前感受他们对死亡的恐惧。来吧，享受吧！}
+{199}{}{我听说我们将要向北迁移，计划不久就去那里。他们除了那些废话之外什么都没对我说，我们为什么要那么直白的谈论这些？你定是疯了！}
+{200}{}{【笑】我，我情愿去威胁别人也不想被威胁，但我们可不能把话说的那么明，僵尸们不会喜欢的。}
+{201}{}{是，明白，这里有很多象你想象中那样的人。去问问他们吧。}
+{202}{}{我没什么和你好多说的了，朋友。去死吧。}
+{203}{}{这家伙穿着件黑色的衣服，他做传教的工作，然后总在楼上数他那些纸片，朋友，我希望那会容易一些，我们还是不要背地里说话，或许会被夜行团听见的。}
+{204}{}{你在害怕什么？}
+{205}{}{我想知道更多。}
+{206}{}{那些钱都在哪里？}
+{207}{}{这话是什么意思？}
+{208}{}{把他们带来！我只要下点小工夫！}
+{209}{}{他是拉舍尔。嘿，离他远一点，他完全的……我不知道该如何描述他，我猜想你根本不想去了解他，拉舍尔非常坏。}
+{210}{}{他和墨菲斯相处融洽吗？}
+{211}{}{他在这些事情中扮演了什么角色？}
+{212}{}{他到底做了什么？什么让他变的那么糟糕？}
+{213}{}{嘿，你还没见过我吧，朋友。}
+{214}{}{今后，仍然要麻烦别人。}
+{215}{}{嘿，我喜欢我们能干些事情，在这胡扯了一大堆“拯救这里”“和平”“团结”之类的话，我现在也要去喝点酒！}
+{216}{}{你在开玩笑吧，这里是教堂，这里会有酒吗？}
+{217}{}{没有酒？他妈的！}
+{218}{}{如果你没有酒的话，那我干脆喝血了。}
+{219}{}{那是墨菲斯，我们的头领，我想他应该在塔楼上。}
+{220}{}{头领？他领导你们做什么？}
+{221}{}{嘿，朋友。那些话都没意义，告诉我一些有关系的！}
+{222}{}{还有哪个更重要的人与此有牵连的？}
+{223}{}{你帮了我的忙，谢谢，朋友。}
+{224}{}{他给他罐酒了？和这些事情都有牵连吗？}
+{225}{}{恩，这地方真不错，我想杀他的时候没人会来烦我。}
+{226}{}{你肯定在开玩笑。夜行团个个都是杀手。你把他们看错了，他们会把我分尸，然后煮了，最后拿去喂食。他们是不会被杀的。他们是主教的力量，为主教而征服这个世界。我不会再多说什么了！}
+{227}{}{已经没有什么好多说的了，如果你够聪明，你最好别知道太多！}
+{228}{}{我不知道。我自己看到他们的！我听说墨菲斯藏起来了，并且由夜行团把守。那些想知道更多秘密的家伙几乎没没命了。我在那里看了一会，如果你明智的话还是别继续了，那不值得！}
+{229}{}{你在开玩笑吧，去和僵尸们谈话？}
+{230}{}{或许你应该和我一直在一起}
+{231}{}{这没有人喝醉！你似乎活得比拉舍尔还舒服！你现在怎么不去找其他人谈谈，混蛋？从这滚出去！}
+{232}{}{别和我开玩笑，朋友。你到底想要什么？}
+{233}{}{你有没有注意到这里发生的一些不寻常的事情？}
+{234}{}{这发生了什么事？}
+{235}{}{主教在哪里？}
+{236}{}{只是在寻找一个朋友。}
+{237}{}{我只想要一些酒，或许蝎子果汁也可以？}
+{238}{}{我需要一些嘴里散发着恶臭的混小子，让他把我若怒了，然后我会把他舌头割下藏起来，然后当挂件带脖子上提醒人们他们自是多么愚蠢！}
+{239}{}{主教可以吻我的屁股。当我把他干掉的时候，我可没胡扯。你明白吧，僵尸！}
+{240}{}{最后！我在那地方找到了个真正的人类！}
+{241}{}{我的朋友？为什么你的生活充满了痛苦和遭遇？膜拜于我们的主教吧。}
+{242}{}{你那样的态度怎么还能活到现在？}
+{243}{}{是的，你干的非常好。}
+{244}{}{我在胡扯，如果有人称他为“主教”或者想去亲他的屁股，那我会杀了他。}
+{245}{}{因为我干了件很爽的事，上个月我杀了三个宗教渣滓。没有人敢跟我这样的态度。你敢吗？}
+{246}{}{我印象很深。象你这样的人肯定知道这里到底发生了一些什么事情……}
+{247}{}{那些信徒，呃？我想他们是一群暴徒？}
+{248}{}{三个？那是全部了吗？你应该看到我的屁股了吧！}
+{249}{}{不是。}
+{250}{}{我打赌你肯定没有我尖叫的那样响亮，听见他们尖叫会让我很兴奋的。}
+{251}{}{嘿！就算一个家伙拿了武器那又能怎么样？你认为自己很厉害吗？}
+{252}{}{不，我的朋友，我更喜欢和平，爱和团结。}
+{253}{}{一个带着武器的家伙是危险的。一个带着武器又拥有聪明头脑的女人更是致命的。}
+{254}{}{一个带着武器的家伙是危险的。一个带着武器又拥有聪明头脑的家伙更是致命的。}
+{255}{}{是的，我能做的更好。}
+{256}{}{这不能说，你自己去找吧……}
+{257}{}{想？还让我想什么？我会让你看看到到底能做些什么。死吧，混蛋！}
+{258}{}{我从来没听说过你，朋友，别在废话了，现在滚出去。}
+{259}{}{嘿，想想，你为什么不回去与那些僵尸们谈谈，能不能离开我，让我安静点。}
+{260}{}{是的。我听说过你，你就是那个除去大蝎子的家伙吧，我可比你更坏！你为什么在这？}
+{261}{}{你有没有注意到这里发生的一些不寻常的事情？}
+{262}{}{这发生了什么事？}
+{263}{}{主教在哪里？}
+{264}{}{只是在寻找一个朋友。}
+{265}{}{我听说这里的酒相当的不错。}
+{266}{}{等一下，你不就是那个家伙，那个……哦，不，我要走了！}
+{267}{}{等一下，你不就是那个女人，那个……哦，不，我要走了！}
+{268}{}{我可不是任何人的朋友，我不是那类人，【长时间的沉默】，我建议你最好从我面前滚出去！}
+{269}{}{如果我们在这做了什么，夜行团肯定要把我们撕成碎片的。或许我们应该待会在外面见。}
+{270}{}{或许，我们大家都好好的来谈谈那些事情。比如这儿到底都发生了些什么。}
+{271}{}{胆小的家伙！}
+{272}{}{当然，很有趣。}
+{273}{}{让我们开始吧。}
+{274}{}{你这混蛋！}
+{275}{}{因为那些扮演坏角色的家伙都是短命鬼。}
+{276}{}{【完成】}

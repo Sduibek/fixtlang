@@ -1,0 +1,11 @@
+
+# {100}{}{Laser fire strikes from the south end of the corridor!}
+# {101}{}{You notice a small trip plate at your feet.}
+# {102}{}{ Your knowledge of traps leads you to believe that this is a trigger of some kind.}
+# {103}{}{You carefully sever the pressure springs on the trip plate.}
+# {104}{}{You're not quite sure how to prevent the plate from triggering.}
+{100}{}{高热激光从通道的南端射过来。}
+{101}{}{你发现在你的脚下有一个陷阱的触发器。}
+{102}{}{你知道这个陷阱是通过触发器引爆的。}
+{103}{}{你小心的切断了陷阱触发器的压簧。}
+{104}{}{你不能确定如何把这个陷阱拆除。}

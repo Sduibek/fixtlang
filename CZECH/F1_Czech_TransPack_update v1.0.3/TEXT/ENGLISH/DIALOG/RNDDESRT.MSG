@@ -1,0 +1,101 @@
+{100}{}{Musí mít hnízdo nìkde blízko. Nemùžou cestovat daleko.}
+{101}{}{Zda se, že se sem dostali odnìkud zblízka.}
+{102}{}{Zdá se, že se sem dostali odnìkud ze severu.}
+{103}{}{Oèividnì se pouze toulali pustinou.}
+{104}{}{Pøipletl jsi se do krvavé bitvy mezi radškorpióny a krtko-potkany.}
+{105}{}{PØEPADENÍ!}
+{106}{}{Narazil jsi na velkou skupinu radškorpiónù!}
+{107}{}{Narazil jsi na skupinu radškorpiónù.}
+{108}{}{Narazil jsi na rodinku krtko-potkanù.}
+{109}{}{Podaøilo se ti vyhnout naprosté dehydrataci naleznutím vody. Hledání ti zabralo hodinu.}
+{110}{}{Podaøilo se ti vyhnout naprosté dehydrataci naleznutím vody. Hledání ti zabralo dalších }
+{111}{}{ hodin.}
+{112}{}{Zásoby vody docházejí a tvé hodinové hledání vody ti nevyšlo.
+ Vážná dehydratace ti zpùsobila zranìní }
+{113}{}{ hit bodù.}
+{114}{}{Zásoby vody docházejí a tvé hledání vody po dobu }
+{115}{}{ hodin ti nevyšlo. Vážná dehydratace ti zpùsobila zranìní }
+{116}{}{ hit bodù.}
+{117}{}{Zkusil jsi hodinu v poušti pátrat po vodì, ale nepodaøilo se ti jí najít tolik, abys plnì uspokojil svou žízeò. Byl jsi zranìn za jeden hit bod.}
+{118}{}{ Zkusil jsi hodinu v poušti pátrat po vodì, ale nepodaøilo se ti jí najít tolik, abys plnì uspokojil svou žízeò. Byl jsi zranìn za }
+{119}{}{ hit bodù.}
+{120}{}{Zkusil jsi v poušti po dobu }
+{121}{}{ hodin pátrat po vodì, ale nepodaøilo se ti jí najít tolik, abys plnì uspokojil svou žízeò. Byl jsi zranìn za jeden hit bod.}
+{122}{}{ Zkusil jsi v poušti po dobu }
+{123}{}{ hodin pátrat po vodì, ale nepodaøilo se ti jí najít tolik, abys plnì uspokojil svou žízeò. Byl jsi zranìn za }
+{124}{}{ hit bodù.}
+{125}{}{Díky tvým zásobám vody se ti podaøilo vyhnout dehydrataci.}
+#{12600}{}{Radškorpióni prohánìjí krtko-potkany podél znièených zdí mìsta.}
+{126}{}{Pøipletl jsi se k lovu radškorpiónù na krtko-potkany.}
+{127}{}{Vyzáblý nepøátelský humanoid se zelenou kùží se pøibližuje.}
+{128}{}{Všude se povaluje harampádí a kameny.}
+{129}{}{Zaútoèil na tebe osamocený radškorpión!}
+{130}{}{Všimnul jsi èásteènì zkonzumovaného tìla.}
+{131}{}{ÚPRK!}
+{132}{}{Pøiøítil jsi se k velké skupinì radškorpiónù!}
+{133}{}{Pøepadli tì nájezdníci!}
+{134}{}{Z pouštì zaútoèila skupina nechutných radškorpiónù!}
+{135}{}{Narazil jsi na skupinu strážných na patrole.}
+{136}{}{Procházíš kolem obchodníka s nìkolika strážemi.}
+{137}{}{Vidíš sedláka pasoucího stádo brahminù.}
+{143}{}{Nájezdníci!}
+{144}{}{Narazil jsi na velké shromáždìní krtko-potkanù.}
+{145}{}{Narazil jsi na bandu divokých radškorpiónù.}
+{146}{}{Narazil jsi na sedláky, na které nìkdo útoèí.}
+{169}{}{Pøichomítnul jsi se k rodince radškorpiónù.}
+{170}{}{Procházíš kolem obchodníka a jeho stráží.}
+{171}{}{Našel jsi mrtvého cestovatele.}
+#{17100}{}{Narazil jsi na cestovatele. }
+#{17200}{}{Narazil jsi malou skupinku zboøených budov.}
+{172}{}{Narazil jsi na nìjaké pøedmìty povalující se na zemi.}
+{173}{}{Zahlednul jsi zbytky vyloupené karavany.}
+{196}{}{Radškorpióni útoèí!}
+{197}{}{Uh oh . . . loupežná výprava!}
+{198}{}{V dálce vidíš osamìlého nájezdníka.}
+{199}{}{Pøišel jsi ke zbytkùm bojištì s rozházenými tìly všude kolem.}
+{200}{}{Radškorpióni útoèí!}
+{223}{}{Zahlédnul jsi párek koèovných kojotù.}
+{224}{}{Zahlédl jsi prùzkumnou skupinu.}
+{225}{}{Procházíš kolem malé skupinky obchodníkù a strážných.}
+{226}{}{Vidíš probíhat malou válku - muži proti mutantùm!}
+{227}{}{Blíží se k tobì ohromná horda radškorpiónù!}
+{250}{}{Pøibližuje se nìkolik mužù v energozbrojích.}
+{251}{}{Vidíš skupinu obchodníkù s doprovodem.}
+{252}{}{Vidíš krutou bitvu mezi pouštními nájezdníky a skupinou mužù v energozbrojích.}
+{253}{}{Vidíš pár mutantù zkoumajících nehostinnou zem.}
+{254}{}{Pøed sebou vidíš nìjaká podivná stvoøení . . .}
+{25500}{}{Všimnul sis ruin malé vesnice.}
+{255}{}{Našel jsi nìjaké pøedmìty.}
+{256}{}{Tìsnì kolem tebe prochází patrola supermutantù!}
+{279}{}{Pøed sebou vidíš haraburdí zapadlé v písku.}
+{280}{}{Narazil jsi na váleènou výpravu supermutantù.}
+{281}{}{Narazil jsi na skupinu bizardních stvoøeních.}
+{282}{}{Narazil jsi na skupiny vyhládlých radškorpiónù.}
+{283}{}{Cítíš se unaven. Vzduch v dáli se horkem mihotá.}
+{284}{}{Narazil jsi na bizardní létající stvoøení.}
+{285}{}{Narazil jsi na nìco jako ze starých sci-fi filmù.}
+{286}{}{Páraè!}
+{287}{}{Narazil jsi na migrující skupinu radškorpiónù.}
+{288}{}{Narazil jsi na zmutovanou pouštní pøíšeru.}
+{299}{}{V dálce vidíš nìkolik radškorpiónù.}
+{300}{}{Bìžíš kolem rozedraného rolníka.}
+{301}{}{Narazil jsi na krtko-potkana.}
+{302}{}{Páraè!}
+{303}{}{ Narazil jsi na migrující skupinu radškorpiónù.}
+{304}{}{Typ krajiny == }
+{305}{}{Procházíš pøes to, co zbylo z nepøátelských stráží obchodníka Duca.}
+{306}{}{Blízko prochází jednotka supermutantù spolu s nìkolika podivnými tvory!}
+{307}{}{ Narazil jsi na váleènou výpravu supermutantù..}
+{308}{}{Zdá se, že ji pøipletl k válce gangù!}
+{309}{}{Skupina nepøátelských nájezdníkù prchá pryè!}
+{310}{}{Malá skupinka nájezdníkù útoèí!}
+{311}{}{Malá skupinka èlenù gangù útoèí!}
+{312}{}{Neoèekávanì na tebe zaútoèili krysy!}
+{313}{}{Neoèekávanì na tebe zaútoèilo hejno kudlanek!}
+# Some special encounter text
+{314}{}{Hej! Vážnì tam jsou.}
+{315}{}{V dálce vidíš pøevrácený náklaïák.}
+{316}{}{Uprostøed Pustiny jsi 'zakopnul' o nìkolik vrakù aut.}
+{317}{}{Na severovýchodì jsi spatøil policejní budku.}
+{318}{}{Dorazil jsi k stádu divokých Brahminù. Cítíš, že je nìco špatnì...}
+

@@ -1,0 +1,9 @@
+
+# {100}{}{ senses that there is a trap near.}
+# {101}{}{You sense that there is a trap near.}
+# {102}{}{ sets off a trap, alerting the base to your presence.}
+# {103}{}{You set off a trap, alerting the base to your presence.}
+{100}{}{感觉那里是一个陷阱。}
+{101}{}{你感觉那里是一个陷阱。}
+{102}{}{触发了一个陷阱，让基地里的人发现了你。}
+{103}{}{你触发了一个陷阱，让基地里的人发现了你。}

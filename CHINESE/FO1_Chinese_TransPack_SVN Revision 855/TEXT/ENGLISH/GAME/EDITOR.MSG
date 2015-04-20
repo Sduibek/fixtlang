@@ -1,0 +1,444 @@
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+#
+#
+#{100}{}{DONE}
+#{101}{}{OPTIONS}
+#{102}{}{CANCEL}
+#{103}{}{PRINT}
+#{104}{}{AGE}
+#{105}{}{SEX}
+#{106}{}{NAME}
+#{107}{}{MALE}
+#{108}{}{FEMALE}
+#{109}{}{PERKS}
+#{110}{}{KARMA}
+#{111}{}{KILLS}
+#{112}{}{SKILL POINTS}
+#{113}{}{Level:}
+#{114}{}{Exp:}
+#{115}{}{Next Level:}
+#{116}{}{CHAR POINTS}
+#{117}{}{SKILLS}
+#{118}{}{You must use all character points} # 1
+#{119}{}{before starting the game!}         # 2
+{100}{}{完成}
+{101}{}{选项}
+{102}{}{取消}
+{103}{}{打印}
+{104}{}{年龄}
+{105}{}{性别}
+{106}{}{名字}
+{107}{}{男性}
+{108}{}{女性}
+{109}{}{额外能力}
+{110}{}{道德}
+{111}{}{战绩}
+{112}{}{技能点数}
+{113}{}{等级:}
+{114}{}{经验:}
+{115}{}{下次升级:}
+{116}{}{人物点数}
+{117}{}{技能}
+{118}{}{你一定要使用所有的人物点数之后才} # 1
+{119}{}{可以进行游戏！}         # 2
+#
+#{120}{}{Character Points}
+#{121}{}{Amount of free character points that can be added to one of the basic stats.}
+#{122}{}{Next Level}
+#{123}{}{The amount of experience points needed to move up to the next level.}
+#{124}{}{Perks}
+#{125}{}{Karma}
+#{126}{}{Kills}
+#{127}{}{Perks add additional abilities. Every third experience level, you can choose one perk.}
+#{128}{}{These are the effects of the choices you make during the game.}
+#{129}{}{A counter that keeps track of the type and numbers of creatures you have slaughtered, or have seen killed in your presence.}
+#{130}{}{Skill Points}
+#{131}{}{Use free skill points to increase the level of a skill.}
+{120}{}{人物点数}
+{121}{}{这些点数可以用来分配到人物的基本状态数值中。}
+{122}{}{到下次升级}
+{123}{}{到下一次升级所需要的经验点数。}
+{124}{}{特别技能}
+{125}{}{道德}
+{126}{}{战绩}
+{127}{}{额外能力给予人物更多的技术。人物每升三个等级时，就可选择一种新的额外能力。}
+{128}{}{人物在游戏中的种种行迳都会影响到这一个数值的变化。}
+{129}{}{这一项所显示的是人物在整个游戏中所杀死的人物或是生物。}
+{130}{}{技能点数}
+{131}{}{使用这一些点数来增加某一技能的等级，让人物对该技能更加的熟练。当等级越高，所需要升级的技术点术就会增加，因此，要能够将一项技术练好是相当困难的事。}
+#
+#{132}{}{At maximum level.}        # 1
+#{133}{}{Unable to increment it.}  # 2
+#{134}{}{At minimum level.}        # 1
+#{135}{}{Unable to decrement it.}  # 2
+#{136}{}{No free skill points available.}
+#{137}{}{Base:}
+#{138}{}{TAG SKILLS}
+#{139}{}{OPTIONAL TRAITS}
+#{140}{}{You already have the maximum of} # 1
+#{141}{}{three tag skills!}               # 2
+#{142}{}{You must select all tag skills}  # 1
+#{143}{}{before starting the game!}       # 2
+#{144}{}{Tag Skills}
+#{145}{}{Tag skills are skills your character specializes in.  Each tag skill gains +20%, and increases twice as fast.  You must pick three tag skills.}
+#{146}{}{Optional Traits}
+#{147}{}{Optional traits describe your character in more detail.  All traits will have positive and negative effects.  You may choose up to two traits during creation.}
+#{148}{}{You already have the maximum of} # 1
+#{149}{}{two traits!}                     # 2
+#{150}{}{Skills}
+#{151}{}{Skills are learned knowledge.  Skills increase by experience, or during the course of the game by special events.  The higher the skill level, the better you are at that skill.}
+{132}{}{已在最大值。}   # 1
+{133}{}{无法再增加。}   # 2
+{134}{}{已在最小值。}   # 1
+{135}{}{无法再减少。}   # 2
+{136}{}{技术点数不够。}
+{137}{}{基本:}
+{138}{}{特长技能}
+{139}{}{可选择人物特徵}
+{140}{}{你已经选择了}   # 1
+{141}{}{三个特长技能}   # 2
+{142}{}{在你进入游戏前必需选足} # 1
+{143}{}{人物特长技能}   # 2
+{144}{}{特长技能}
+{145}{}{特长技能是人物所专长的技能。每一个选择的技能在升级的速度上比其他技能要快两倍。你一定要选择三种。}
+{146}{}{人物特徵}
+{147}{}{人物特徵是一个人物的特性与能力。每一种能力都有优劣处，你一定要选择两种。}
+{148}{}{你已经选择了}   # 1
+{149}{}{两种人物能力了} # 2
+{150}{}{技能}
+{151}{}{技能是随著经验而熟练的。技能等级越高，技能使用的成功率就越好。}
+#
+#{152}{}{PICK A PERK}
+#{153}{}{PICK A NEW TRAIT}
+#{154}{}{LOSE A TRAIT}
+#{155}{}{PICK A NEW TAG SKILL}
+#{156}{}{TRAITS}
+{152}{}{选一个额外能力}
+{153}{}{选一个新的特徵}
+{154}{}{去掉一个特徵}
+{155}{}{选择一个新的选择技能}
+{156}{}{特徵}
+#
+#{157}{}{All stats must be between 1 and 10} # 1
+#{158}{}{before starting the game!}          # 2
+{157}{}{在游戏开始之前，所有的点数} # 1
+{158}{}{都得要在1到10之间！}          # 2
+
+#
+# Abbreviated basic stat levels
+#
+#{200}{}{V.Bad}  # Terrible
+#{201}{}{Bad}    # Bad
+#{202}{}{Poor}   # Poor
+#{203}{}{Fair}   # Fair
+#{204}{}{Avrg}   # Average
+#{205}{}{Good}   # Good
+#{206}{}{V.Good} # Very Good
+#{207}{}{Great}  # Great
+#{208}{}{Exclnt} # Excellent
+#{209}{}{Heroic} # Heroic
+{200}{}{非常糟} # Terrible
+{201}{}{糟糕}   # Bad
+{202}{}{贫弱}   # Poor
+{203}{}{尚可}   # Fair
+{204}{}{平均}   # Average
+{205}{}{好}     # Good
+{206}{}{非常好} # Very Good
+{207}{}{棒极了} # Great
+{208}{}{完美}   # Excellent
+{209}{}{超强}   # Heroic
+#
+# Abbreviated Derived/Non Derived stat names
+#
+#{300}{}{Hit Points}
+#{301}{}{Action Points }
+#{302}{}{Armor Class}
+#{303}{}{Unarmed Damage}
+#{304}{}{Melee Damage}
+#{305}{}{Damage Res.  }
+#{306}{}{Poison Res.   }
+#{307}{}{Radiation Res.}
+#{308}{}{Sequence}
+#{309}{}{Healing Rate}
+#{310}{}{Critical Chance}
+#{311}{}{Carry Weight}
+#{312}{}{Poisoned}
+#{313}{}{Radiated}
+#{314}{}{Eye Damage}
+#{315}{}{Crippled Right Arm}
+#{316}{}{Crippled Left Arm}
+#{317}{}{Crippled Right Leg}
+#{318}{}{Crippled Left Leg}
+{300}{}{生命点数}
+{301}{}{行动点数}
+{302}{}{防护等级}
+{303}{}{空手伤害力}
+{304}{}{肉搏战伤害}
+{305}{}{抗击能力}
+{306}{}{抗毒性}
+{307}{}{抗辐射性}
+{308}{}{行动顺序}
+{309}{}{康复速度}
+{310}{}{致命一击机率}
+{311}{}{可携带重量}
+{312}{}{中毒}
+{313}{}{辐射伤害}
+{314}{}{眼部受伤}
+{315}{}{右臂受伤}
+{316}{}{左臂受伤}
+{317}{}{右腿受伤}
+{318}{}{左腿受伤}
+#
+# Damage info texts
+#
+# Poisoned
+#{400}{}{Your character has been poisoned.  Poison will do damage over a period of time, until cured or it passes from your system.}
+{400}{}{你的人物中毒了。毒性将会在一段时间中造成伤害，直到它被治好，或者是失去作用为止。}
+# Radiation
+#{401}{}{Your character is suffering from a significant amount of Radiation poisoning.  The more radiation damage, the more deadly the effect.}
+{401}{}{你的人物受到了大量放射线的影响。越多的放射线将会造成越多的伤害。}
+# Eye Damage
+#{402}{}{This means your character has been seriously hit in one or both of your eyes.  This affects your Perception.}
+{402}{}{这代表著你的人物的一只眼、或者是双眼受了很重的伤。这将会影响你的观察力。}
+# Crippled right arm
+#{403}{}{The right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{403}{}{这代表你的右臂受了伤，失去功能了。一只臂受了伤便不能使用双臂的武器。如果两臂都受了伤，便无法使用任何武器。}
+# Crippled left arm
+#{404}{}{Your character's left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{404}{}{这代表你的左臂受了伤，失去功能了。一只臂受了伤便不能使用双臂的武器。如果两臂都受了伤，便无法使用任何武器。}
+# Crippled right leg
+#{405}{}{Your character has a crippled right leg.}
+{405}{}{你的人物伤了右腿。}
+# Crippled left leg
+#{406}{}{Your character has a crippled left leg.}
+{406}{}{你的人物伤了左腿。}
+
+# Month strings
+#{500}{}{January}
+#{501}{}{February}
+#{502}{}{March}
+#{503}{}{April}
+#{504}{}{May}
+#{505}{}{June}
+#{506}{}{July}
+#{507}{}{August}
+#{508}{}{September}
+#{509}{}{October}
+#{510}{}{November}
+#{511}{}{December}
+{500}{}{一月}
+{501}{}{二月}
+{502}{}{三月}
+{503}{}{四月}
+{504}{}{五月}
+{505}{}{六月}
+{506}{}{七月}
+{507}{}{八月}
+{508}{}{九月}
+{509}{}{十月}
+{510}{}{十一月}
+{511}{}{十二月}
+
+#
+# Option menu text
+#
+#{600}{}{SAVE}
+#{601}{}{LOAD}
+#{602}{}{PRINT TO FILE}
+#{603}{}{ERASE}
+#{604}{}{DONE}
+#{605}{}{Are you sure you want to erase}      # line 1
+#{606}{}{the current character?}                 # line 2
+#{607}{}{ was successfully saved.}
+#{608}{}{ was successfully loaded.}
+#{609}{}{already exists.}
+#{610}{}{Do you wish to overwrite?}
+#{611}{}{Error saving }
+#{612}{}{Error loading }
+#{613}{}{Character file invalid.}
+#{614}{}{Character data invalid.}
+#{615}{}{Error reading file list!}
+{600}{}{储存}
+{601}{}{读取}
+{602}{}{列印到档案}
+{603}{}{删除}
+{604}{}{完成}
+{605}{}{你确定要将目前的人物设定}      # line 1
+{606}{}{完全删除吗？}                 # line 2
+{607}{}{成功的被储存了。}
+{608}{}{成功的被读取了。}
+{609}{}{已经存在了。}
+{610}{}{你想要重覆写入吗？}
+{611}{}{储存错误}
+{612}{}{读取错误}
+{613}{}{非法的人物档案。}
+{614}{}{非法的人物资料。}
+{615}{}{无法读取档案名单！}
+{616}{}{PRINT}
+{617}{}{PLAYER}
+{618}{}{BLANK.GCD}
+
+#
+# ASCII text file printing text
+#
+#{620}{}{FALLOUT}                   # Title line 1
+#{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
+#{622}{}{hours} # Title line 3
+{620}{}{辐射}                   # Title line 1
+{621}{}{第13号避难所人员记录} # Title line 2
+{622}{}{小时} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+#{623}{}{ ::: Statistics :::}
+#{624}{}{       Strength:}
+#{625}{}{        Hit Points:}
+#{626}{}{        Sequence:}
+{623}{}{ ::: 资      料 :::}
+{624}{}{           力量:}
+{625}{}{            生命力:}
+{626}{}{        攻击次序:}
+# -
+#{627}{}{     Perception:}
+#{628}{}{       Armor Class:}
+#{629}{}{        Healing Rate:}
+{627}{}{         感知:}
+{628}{}{            防御力:}
+{629}{}{              治愈力:}
+
+# -
+#{630}{}{      Endurance:}
+#{631}{}{     Action Points:}
+#{632}{}{      Critical Chance:}
+{630}{}{           体力:}
+{631}{}{          动作点数:}
+{632}{}{         致命一击机率:}
+# -
+#{633}{}{       Charisma:}
+#{634}{}{      Melee Damage:}
+#{635}{}{         Carry Weight:}
+{633}{}{           魅力:}
+{634}{}{          空手伤害:}
+{635}{}{         可携带重量:}
+# -
+#{636}{}{   Intelligence:}
+#{637}{}{       Damage Res.:}
+{636}{}{           智力:}
+{637}{}{        伤害免役力:}
+# -
+#{638}{}{        Agility:}
+#{639}{}{    Radiation Res.:}
+{638}{}{           敏捷:}
+{639}{}{      放射线免役力:}
+# -
+#{640}{}{           Luck:}
+#{641}{}{       Poison Res.:}
+{640}{}{           运气:}
+{641}{}{          毒免役力:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+#{642}{}{  Name:}
+#{643}{}{Age:}
+#{644}{}{               Gender:}
+#{645}{}{Male}
+#{646}{}{Female}
+{642}{}{  名字:}
+{643}{}{年龄:}
+{644}{}{                性别:}
+{645}{}{男性}
+{646}{}{女性}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+#{647}{}{ Level:}
+#{648}{}{                Exp:}
+#{649}{}{Next Level:}
+{647}{}{  等级:}
+{648}{}{             经验值:}
+{649}{}{到下次升级:}
+#-
+#{650}{}{ ::: Traits :::           ::: Perks :::           ::: Karma :::}
+{650}{}{ :::人物特徵:::           :::额外能力:::           :::道德良知:::}
+#-
+#{651}{}{ ::: Skills :::                ::: Kills :::}
+{651}{}{ :::  技能  :::                ::: 杀敌数 :::}
+#-
+#{652}{}{ ::: Inventory :::}
+{652}{}{ ::: 物     品 :::}
+#-
+#{653}{}{                                      Total Weight:}
+{653}{}{                                           总重量:}
+#
+# Karma name strings
+#
+#{1000}{}{Reputation (General) }
+#{1001}{}{Berserker}
+#{1002}{}{Champion}
+#{1003}{}{Childkiller}
+#{1004}{}{Nuka Cola addiction}
+#{1005}{}{Buffout addiction}
+#{1006}{}{Mentats addiction}
+#{1007}{}{Psycho addiction}
+#{1008}{}{RadAway addiction}
+#{1009}{}{Alcohol addiction}
+{1000}{}{道德分数：}
+{1001}{}{疯子}
+{1002}{}{赢家}
+{1003}{}{儿童杀手}
+{1004}{}{核子可乐瘾君子}
+{1005}{}{壮大灵瘾君子}
+{1006}{}{曼他特瘾君子}
+{1007}{}{疯狂药瘾君子}
+{1008}{}{抗辐射药瘾君子}
+{1009}{}{酒鬼}
+#
+# Karma description strings
+#
+#{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
+#{1101}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
+#{1102}{}{Your actions have revealed you to be a champion of the people. You war against evil and villainy is widely known. Honorable people will respect you better.}
+#{1103}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
+#{1104}{}{You thoroughly enjoy Nuka-Cola, the pop of the post-nuclear world.}
+#{1105}{}{You are addicted to the chem Buffout. You must take this chem on an ongoing basis or suffer the effects of withdrawal.}
+#{1106}{}{You are suffering from Mentat addiction. You must take this particular chem or suffer withdrawal.}
+#{1107}{}{You have a chem addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
+#{1108}{}{Your body has become addicted to Radaway. While not life threatening, you must take it regularly.}
+#{1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
+# {1110}{}{TEMPORARY - What is this?}
+{1100}{}{这代表著一般人对你的看法，数字越高，别人对你越尊敬。如果这个数字是负值，表示你做了太多邪恶的事了。}
+{1101}{}{你杀了太多的人。这并不是一件好事，不过，邪恶的人都会比较喜欢你。}
+{1102}{}{你的种种所作所为让他人都对你刮目相看，你与邪恶战斗的故事在人们之间传著。好人都会对你较为尊敬。}
+{1103}{}{你曾杀过小孩，这是一件相当可怕的事。别人都认为你是相当邪恶的人。}
+{1104}{}{你很喜欢核子可乐，核战后世界所爱的饮料。}
+{1105}{}{你上了壮大灵的瘾，你若不按时服用，就会觉得很痛苦。}
+{1106}{}{你上了曼他特的瘾，你若不按时服用，就会觉得很痛苦。}
+{1107}{}{你上了疯狂药的瘾，你若不按时服用，就会觉得很痛苦。但是，如果你服用的话，其他人就倒霉了。}
+{1108}{}{你的身体上了辐射药的瘾。虽然它并不会威胁你的生命，但是你还是得按时服用。}
+{1109}{}{你不能够控制自己饮用酒精的量。}
+{1110}{}{TEMPORARY - What is this?}
+
+#
+# Special Demo version only text
+#
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}   # 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}

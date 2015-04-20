@@ -1,0 +1,96 @@
+
+##############################################################################################################
+V2.2a 05/09/09
+Added support for the Fallout Restoration Mod
+Added some extra text to memory error messages and the "f1_res_error.log" so that it's clear that they come from the Hi-Res patch.
+Added an option "SAFER_DISPLAY_LIST" to the "f1_res.ini". To help with crashes on some systems when using the Screen Settings Window.
+
+##############################################################################################################
+V2.2 10/08/09
+Iface-sides Metal art has been updated with a browner look to match the f1 interface better(created by Simon Rawlins(Pixote).
+Improved the code for restarting fallout via the button in the Screen Settings window.
+Re-worked the code and ini files relating to hi-res map scroll boarders.
+
+##############################################################################################################
+V2.1 19/06/09
+Added the 'Options' button to the Main-menu.
+Screen resolution can be set in-game via a button on the 'Option/Game-Pref Screen' when accessed via the Main-menu.
+When subtitles are enabled, a space will automaticly be created for them at the bottom of the movie screen.
+Added some side art to fill the blank areas either side of the IFace-Bar.
+Changed the format of the map edges ini files (edges are now set by hex tile numbers).
+Map-eges files can now be tweaked for best results for particular resolutions.
+
+f2_res.ini changes:
+MAP_EDGE_NAME setting now equals the name of the folder where map-edge files are stored.
+Added a setting to change the name of the 'Options' button on the Main-menu.
+Added a new section for the IFace-Bar for adjusting the way the new side art is drawn.
+Removed AUTO_SCRN_SIZE setting as the resolution can now be set in-game.
+Removed the [VARIABLES] section.
+
+Added a new file "panels.ini" to the "f1_res" folder where the various window positions are set. 
+Removed all the "RES_*.ini" files from the "f1_res" folder and coded everything contained into the "f1_res.dll".
+
+
+##############################################################################################################
+V1.3 21/11/08
+Full Screen Splash, Help, Death and Ending Slides.
+Main-Menu Background is also scaled to screen and uses a custom frm found in the "f1_res/intrface" folder.
+Blackened the background when using the World-Map.
+Fixed World-Map Town window position to centre of screen when exiting a map.
+Fixed the stuck scrolling problem when entering some maps.(eg. rad scorpion caves)
+Re-enabled Auto-scroll and Home-Key return to character.
+Fixed Quick Save  pic.
+Fixed Pipboy HoloDisk Back and Done buttons.
+Hacked an error message which displays when an unsupported res is used. It now lists the chosen res rather than 640x480.
+
+New setting in the f1_res.ini file - IFACE_BAR_MODE
+This setting can be used to raise the viewable map area to the top of the Interface-Bar if desired.
+
+Added support for the "falloutw.exe" 1.2 version found in the "Fallout Collection (PC DVD) WHITE LABEL".
+
+##############################################################################################################
+V1.2 23/09/08
+Full Screen Movies.
+Added a couple of settings for movie subtitles in the f1_res.ini
+Changed the layout of the f1_res.ini to make it easier to use.
+Corrected the spelling of SCR_HIGHT to SCR_HEIGHT for no particular reason.
+Fixed a bug where the map edges data wasn't loading because the internal names of some maps were in lower case.
+Set background colour to black for the Help Screen.
+
+
+##############################################################################################################
+V1.1 23/08/08
+
+Disabled auto scrolling which was causing view to become stuck in some maps
+Fixed - NPC should now appear in the dialog view window unless they are off the screen.
+Original Map blockers have been disabled and replaced my own functions.
+Support has been added for the Polish 1.2/Teamx version of falloutw.exe
+*.res files have been renamed and are now RES*.ini files as the extention was causing confusion.
+Map now hidden when displaying Ending Slideshow
+Maps now hidden when displaying Help Screen
+
+F2_res.ini changes
+*******************
+SETTINGS
+3 new settings added: IGNORE_PLAYER_SCROLL_LIMITS, IGNORE_MAP_EDGES and
+MAP_EDGES_NAME.
+2 settings removed: MAP_LOAD_DIST and IGNORE_MAP_BLOCKERS as they are no longer needed.
+
+VARIABLES
+Scroll distance from player variables SCROLL_DIST_X and SCROLL_DIST_Y now adapt to
+the choosen resolution.
+4 variables removed: MAP_LIMITS_YA, MAP_LIMITS_XA, MAP_LIMITS_YB & MAP_LIMITS_XB.
+
+##############################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+

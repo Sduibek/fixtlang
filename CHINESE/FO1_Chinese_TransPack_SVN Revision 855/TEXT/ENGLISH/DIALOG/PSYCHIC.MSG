@@ -1,0 +1,198 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Gideon, a normal looking human. He is wearing a crown.}
+#{101}{}{Jason is a living god! Only the nullified may pass!}
+#{102}{}{Nullified? Are they somehow restricting your psychic powers by those
+# devices you are wearing?}
+#{103}{}{Who's Jason?}
+#{104}{}{What do you mean by nullified?}
+#{105}{}{I just killed him, so he must be a dead god, now. Would you like to
+# join him?}
+#{106}{}{Huh?}
+#{107}{}{The walls also have minds... I saw you... tomorrow?}
+#{108}{}{Others like you are in the wall?}
+#{109}{}{Never mind.}
+#{110}{}{I'd like to kill you now. Could you open this force field?}
+#{111}{}{Open the forcefield and I'll let you out.}
+#{112}{}{Uh, yeah. Are you the 'experiments' I'm looking for?}
+#{113}{}{Jason? Who's Jason?}
+#{114}{}{You just said... Nevermind.}
+#{115}{}{Stup.}
+#{116}{}{Yes, the walls are alive with those that have gone before.}
+#{117}{}{What happened to them?}
+#{118}{}{Uh, I've got to go.}
+#{119}{}{Meeting of the soul... melded with, to protect, the Master of all.}
+#{120}{}{I see. How do I protect myself from the protectors of the Master?}
+#{121}{}{What about the dogs of war?}
+#{122}{}{I need to protect the Master. How do I get to him?}
+#{123}{}{I can kill anyone or anything. Open this forcefield and I'll
+# demonstrate.}
+#{124}{}{Goodbye.}
+#{125}{}{There is only peace and joining.. the price.. the pain.. one must be
+# blind.. nulled.}
+#{126}{}{Well, I need to join. Where can I pick up one of those snazzy nullifiers?}
+#{127}{}{Great! How do I join?}
+#{128}{}{I'd like to join my gun with your head!}
+#{129}{}{I don't have time for this. Goodbye.}
+#{130}{}{I will anoint you... I must give what I must not.}
+#{131}{}{Thanks.}
+#{132}{}{No one's anointing me, you insane bastard!}
+#{133}{}{Anoint? Anoint me with what?}
+#{134}{}{No, thanks.}
+#{135}{}{You cannot kill the genius of... the all.. You... hehf!}
+#{136}{}{Yeah, but I can cause it one hell of a lot of pain.}
+#{137}{}{I don't want to kill. I want to worship.}
+#{138}{}{Obviously. Goodbye.}
+#{139}{}{Phlegm! Insubstantial development... communication, null... end of death.}
+#{140}{}{The walls also have minds... I saw you... tomorrow was it?}
+#{141}{}{I'll take that as a yes.}
+#{142}{}{Great! How do I join?}
+#{143}{}{The blasphemous.. decompose.. death will be.. salvation.. strong!}
+#{144}{}{The minds... the walls... before the great one.}
+#{145}{}{Those who have gone before... must stop your journey.}
+#{146}{}{I need to change that.}
+#{147}{}{I must complete my journey, the master wills it.}
+#{148}{}{Who? Did what?}
+#{149}{}{Yeah, but I can cause them a whole lot of pain.}
+#{150}{}{Sorry to disturb you again. Goodbye.}
+#{151}{}{I'd like to help you escape.}
+#{200}{}{You see Moore, a scruffy looking fellow. He is wearing a crown.}
+#{201}{}{You see a scruffy looking fellow.}
+#{202}{}{The asphalt shall run red!! I will crush!}
+#{203}{}{Exactly.}
+#{204}{}{What are you talking about?}
+#{205}{}{Yeah, it'll be red with your blood.}
+#{206}{}{Uh, yeah. Goodbye.}
+#{207}{}{Urgh!}
+#{208}{}{I will stop the motor! The master gave me the power...}
+#{209}{}{Okay, Hank. I'd like to meet the Master, how do I get there?}
+#{210}{}{What motor?}
+#{211}{}{Of course! I understand completely...}
+#{212}{}{I'd like to split your head open, you blithering idiot.}
+#{213}{}{Oh, not you again. Goodbye.}
+#{214}{}{Only the powerful can pass, but they will be kept from passing.}
+#{215}{}{Open this force field, I want to show you my power.}
+#{216}{}{But I have to see the Master!}
+#{217}{}{Can you show me how?}
+#{218}{}{Gideon... Gideon speaks the way.}
+#{219}{}{Exactly.}
+#{300}{}{You see Lucy, a normal looking human female. She is wearing a crown.}
+#{301}{}{You see a human female. She is staring at your shoes.}
+#{302}{}{There is no place like home, no place like home, no place like home...
+# 【pacing back and forth】}
+#{303}{}{Hng!}
+#{304}{}{Stop that!}
+#{305}{}{What about this place? Isn't this your home?}
+#{306}{}{I agree. Completely and utterly. You're right... 【she pauses for a
+# moment】 What did you say? Oh, never you mind.}
+#{307}{}{【looking at you intensely】 I will slay you for that! I will make your
+# blood run red. Wait a minute. Blood is red, how can I make it run red? I
+# can't very well do that. Hmmm. I need to think about this. Go away!}
+#{308}{}{My home is, uh, yeah. Here. Yeah, it's here. This is my home! 【she
+# jumps up and down】 I am so happy! You can't believe how happy this makes me.
+# I think I'm going to go punch the wall for a while.}
+#{309}{}{I'm busy. I almost have the solution to the environmental problems
+# fucking this world over, but I can't stop thinking about purple dinosaurs.
+# Is this a problem?}
+#{310}{}{Stop bugging me, I'm thinking...}
+#{400}{}{You see Wiggum, a complete loser. He is wearing a crown.}
+#{401}{}{You see what looks to be a complete loser.}
+#{402}{}{I'm tired.}
+#{403}{}{My life is hell.}
+#{404}{}{I'm tired of living.}
+#{405}{}{Darkness comes.}
+#{406}{}{Whatever.}
+#{500}{}{A sign on the wall reads: 'Warning! Do not Disturb!'}
+
+{100}{}{你看到基登，相貌普通的人类。他戴着头箍。}
+{101}{}{贾森是活的神！圆满的才可通过。}
+{102}{}{圆满？他们用你戴着的那装置扰乱了你的精神吗？}
+{103}{}{贾森是谁？}
+{104}{}{圆满是什么意思？}
+{105}{}{我刚杀了他，现在想来，他是个死的神了。想跟他一样吗？}
+{106}{}{哈？}
+{107}{}{墙壁也有思想……我……明天见过你？}
+{108}{}{其他跟你一样的人在墙里？}
+{109}{}{算了。}
+{110}{}{真想现在就杀了你。不过你能打开这力场吗？}
+{111}{}{打开力场，不然你死定了。}
+{112}{}{啊，对拉。你就是我要找的“实验”吧？}
+{113}{}{贾森？贾森是谁？}
+{114}{}{你刚才说……算了。}
+{115}{}{停！}
+{116}{}{对，墙是活的和那些从前就走掉的。}
+{117}{}{他们怎么了？}
+{118}{}{啊，我得走了。}
+{119}{}{灵魂的会面……合并，去保护，主教一切。}
+{120}{}{明白了。我怎么保护自己不受主教的“保护”？}
+{121}{}{狗的战争呢？}
+{122}{}{我得保护主教。怎么能找到他。}
+{123}{}{挡我者死！我会证明给你看的，如果你不打开这力场的话。}
+{124}{}{再见。}
+{125}{}{这是唯一的和平，统一……代价……痛苦……必须让个人盲目……麻痹}
+{126}{}{好吧，我要加入。上哪能拿到那个傻兮兮的头箍？}
+{127}{}{太好了！怎么加入？}
+{128}{}{我想崩了你的头！}
+{129}{}{我没空玩这个，再见。}
+{130}{}{我会净化你，必须给予我所不能。}
+{131}{}{谢谢。}
+{132}{}{去你的净化，你这个白痴杂种！}
+{133}{}{净化？用什么净化？}
+{134}{}{不了，谢谢。}
+{135}{}{你不能杀掉万中无一的天才，你这个……嚯啊！}
+{136}{}{对啊，可我会带来巨大的痛苦！}
+{137}{}{我不想杀戮。我要敬拜。}
+{138}{}{很明显，再见！}
+{139}{}{镇定！脆弱的发展……交流，无效……死亡尽头。}
+{140}{}{墙也有思想……我明天……见过你，是吗？}
+{141}{}{我当你同意了。}
+{142}{}{太好了！怎么加入？}
+{143}{}{亵渎……瓦解……死亡将……拯救……力量！}
+{144}{}{思想……墙……在伟大之前……}
+{145}{}{之前走的人……会阻止你的。}
+{146}{}{我得把那改变。}
+{147}{}{我必须完成这行程，是主教的意思。}
+{148}{}{谁？怎么？}
+{149}{}{对，不过他们也不会好过。}
+{150}{}{很抱歉打扰了你。再见。}
+{151}{}{我想帮你逃走。}
+{200}{}{你看到穆尔，穿着破烂的家伙。他戴着头箍。}
+{201}{}{你看见一个穿着破烂的家伙。}
+{202}{}{道路要被染红！我将破坏！}
+{203}{}{对啊！}
+{204}{}{你说什么呢？}
+{205}{}{是啊，被你的血染红！}
+{206}{}{啊对，再见。}
+{207}{}{啊！}
+{208}{}{我将阻止恒动！主教给了我力量……}
+{209}{}{好吧，汉克。我想见主教，怎么走？}
+{210}{}{什么恒动？}
+{211}{}{当然了。我很了解……}
+{212}{}{我想把你的头劈开！你这个扯淡的白痴。}
+{213}{}{哦，怎么又来了。再见。}
+{214}{}{只有充满力量的可以通过，但他们会阻止的……}
+{215}{}{打开这个力场，不然就让你看看我的力量。}
+{216}{}{但我需要见主教。}
+{217}{}{能教我怎么做吗？}
+{218}{}{基登……基登告诉路。}
+{219}{}{对哦。}
+{300}{}{你看到露西，看起来正常的人类女性。她戴着头箍。}
+{301}{}{你见到一个女性人类，她在盯着你的鞋。}
+{302}{}{这里不是家园，这里不是家园，这里不是家园……【前后晃着】}
+{303}{}{哈！}
+{304}{}{够了！}
+{305}{}{这地方怎么了？不是你的家？}
+{306}{}{我同意。完全彻底同意。你是对的……【她顿了一下】你刚才说什么？哦，你不会注意的。}
+{307}{}{【紧张的看着你】我会为此杀掉你！我会让你的血红掉。等等，血本来就是红的，我怎么能让它再红？这我做不来。恩，我得想想，走开！}
+{308}{}{我的家，啊，对。这里。是的，是这里。这是我家。【她上蹿下跳的】我太高兴了。你不知道这让我多高兴。我想我得去捶会儿墙。}
+{309}{}{忙着呢。我几乎搞定让这世界如此操蛋的环境问题了，但我一直想着紫色的恐龙，停不下来，这有问题吗？}
+{310}{}{别烦我了，我在思考……}
+{400}{}{你看到维刚，彻底的失败者。他戴着头箍。}
+{401}{}{你看到一个彻底的失败者的样子。}
+{402}{}{我累了。}
+{403}{}{生活是地狱。}
+{404}{}{我活够了。}
+{405}{}{黑暗降临，}
+{406}{}{随便吧。}
+{500}{}{墙上写着“警告！请勿打扰！”}

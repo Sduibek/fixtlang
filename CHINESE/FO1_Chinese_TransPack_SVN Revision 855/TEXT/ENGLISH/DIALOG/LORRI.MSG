@@ -1,0 +1,206 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+
+
+#{100}{}{You see a young woman with dark hair.}
+#{101}{}{You see Lorraine, a Scav from Adytum.}
+#{102}{}{Hi. Are you new here?}
+#{103}{}{Yeah. Can you fill me in a little?}
+#{104}{}{Yes, I am. I'm called }
+#{105}{}{. }
+#{106}{}{Whuuu?}
+#{107}{}{I suppose. What do you need to know about?}
+#{108}{}{Who are you?}
+#{109}{}{Can you give me some information about the Boneyard?}
+#{110}{}{Tell me a bit about the other residents of Adytum.}
+#{111}{}{What do you do for a living?}
+#{112}{}{Never mind, thanks.}
+#{113}{}{I'm Lorraine.}
+#{114}{}{Can I ask you a few questions?}
+#{115}{}{I'm a Scav. I work with Sammael to collect stuff from the
+# ruins, so that we can use it to build or trade.}
+#{116}{}{Why doesn't everybody here do that?}
+#{117}{}{How many Scavs are there?}
+{100}{}{你看到一名黑发的年轻女子。}
+{101}{}{你看到罗伊，一个来自内城区的拾荒者。}
+{102}{}{您好，你是新来的吗？}
+{103}{}{是的。能介绍一下这里吗？}
+{104}{}{是的。我叫}
+{105}{}{。}
+{106}{}{喔？}
+{107}{}{让我猜猜。你想知道什么？}
+{108}{}{你是谁？}
+{109}{}{你能跟我讲讲有关晒骨场的事情吗？}
+{110}{}{告诉我些内城区居民的事好吗？}
+{111}{}{你靠什么过活？}
+{112}{}{谢谢，别担心。}
+{113}{}{我是罗伊。}
+{114}{}{我能问你几个问题吗？}
+{115}{}{我是一个拾荒者。我和山谬一起在废墟里搜罗材料和资源，用来盖房子和做买卖。}
+{116}{}{为什么这儿的人不都去做呢？}
+#{118}{}{Can I ask you about something different?}
+#{119}{}{Nice talking to you.}
+#{120}{}{Well you got the Deathclaws out there, plus the Regulators take a percentage
+# off the top, plus some for protection here in Adytum. Guess people don't have the #upfront
+# cash, or the guts to stare a Deathclaw in the eye.}
+#{121}{}{What's the deal with the Regulators?}
+#{122}{}{How do you avoid the Deathclaws?}
+#{123}{}{Can I ask you about some other stuff?}
+#{124}{}{Thanks. Bye.}
+#{125}{}{Oh, there's half a dozen of us. Sammael was the first one, and
+# he's still the best.}
+#{126}{}{Can I ask you about some other stuff?}
+#{127}{}{Interesting. Thanks.}
+#{128}{}{They keep the peace around here, and control all the money coming in and #going out.
+# The rest of the people here pretty much work for the Regulators, and
+# that ain't the most forgiving job. Many of them don't ever see
+# beyond the fence that surrounds this place.}
+#{129}{}{All that makes you wonder what Julianna was thinking.}
+{117}{}{你们在这里有多少人手？}
+{118}{}{咱们换个话题好吗？}
+{119}{}{和你聊天很开心。}
+{120}{}{你赶走了本地的死亡爪，另外自称为内城区保护神的管理者们就失分了。我猜那些人没现金付你，而且他们连看一眼死亡爪的胆量都没有。}
+{121}{}{管理者们负责什么？}
+{122}{}{你们怎么躲开死亡爪。}
+{123}{}{我能问些其他的问题吗？}
+{124}{}{谢谢。再见。}
+{125}{}{哦，我们在这儿有半打的人。山谬就是一个，也是最好的一个。}
+{126}{}{我能问些其它问题吗？}
+{127}{}{很有意思，谢谢。}
+{128}{}{他们维持本地的秩序，控制着这儿所有的的往来钞票。其他人要为他们卖苦力，而且要求很苛刻。他们中许多人根本不关心附近的情况。}
+{129}{}{所有的一切都会你怀疑茱莉亚娜在想什么。}
+#{130}{}{What do you mean about Julianna?}
+#{131}{}{Very nasty. Can I ask some other things?}
+#{132}{}{Thanks for the warning.}
+#{133}{}{Oh, she wound up falling for some Blade a while ago. Poor
+# dear can't leave the town, of course, and Caleb would kill
+# the young lad on sight. Very tragic.}
+#{134}{}{Uh . . . if you say so.}
+#{135}{}{Can I ask some other questions?}
+#{136}{}{Hmm. Thanks for filling me in. Bye.}
+#{137}{}{We only scavenge after dark. And we're very good at what we
+# do. Sammael's got a little test that he likes to throw out
+# at people, before he lets them become Scavs.}
+#{138}{}{What's the test?}
+#{139}{}{Still sounds dangerous.}
+#{140}{}{I see. Mind if we back up a bit?}
+#{141}{}{Interesting. Bye.}
+#{142}{}{Sammael has the person hide somewhere within Adytum during the
+# day. If he can't find the student in an hour, then he lets
+# the person join the next scavenger party.}
+#{143}{}{What a stupid system!}
+#{144}{}{Seems to work. You're still alive.}
+#{145}{}{Huh. Can I ask you about some other things?}
+#{146}{}{Interesting. Bye.}
+{130}{}{能和我说说茱莉亚娜吗？}
+{131}{}{太恶心了。咱们谈些别的好吗？}
+{132}{}{多谢提醒。}
+{133}{}{哦，前阵子她被几个利刃帮的混账缠住了。可怜的她再也不能离开这个镇子了，当然，卡勒布会杀光他看到的所有小伙。太惨了。}
+{134}{}{哦……既然你这么说。}
+{135}{}{我能问些其它问题吗？}
+{136}{}{嗯，谢谢你告诉我这么多事情。再见}
+{137}{}{我们只有天黑后才能干活。我们干这活也很拿手。对于想要加入我们的人，山谬有个小测试来考验这些人。}
+{138}{}{什么样的测试？}
+{139}{}{听起来还是很危险。}
+{140}{}{我明白。我们会注意的。}
+{141}{}{很有意思。再见。}
+{142}{}{山谬让那个人白天藏在内城区的什么地方，如果1小时内山缪找不到他，他就能加入拾荒队了。}
+{143}{}{真是个傻办法！}
+{144}{}{别小看这工作。它至少可以让你生存。}
+{145}{}{嗯。我能问你些其他的问题吗？}
+{146}{}{很有意思。再见。}
+#{147}{}{Come now, isn't there the faintest trace of a romantic in
+# you? Really, it's too bad. Unrequited love and all of that.
+# Tragic.}
+#{148}{}{Hmpf. Shows what you know. Tell that to Sammael. If you
+# can find him.}
+#{149}{}{Yes, although it can be rough. It's very dangerous, especially
+# if you're caught.}
+#{150}{}{No doubt. Can I ask about something else?}
+#{151}{}{Thanks for the info.}
+#{152}{}{Wow, I think you're a little beyond my help.}
+#{153}{}{This used to be a big city, called Los Angeles. But the
+# bombs hit really hard. Now, there's just the Angel's
+# Boneyard. We Adytowners are just trying to survive in the
+# wreckage.}
+#{154}{}{Can you tell me more about Los Angeles?}
+#{155}{}{I see. Thanks.}
+#{156}{}{Lots of people lived here. From what I hear, the survivors hid in
+# a big place called a Vault, and came out years later. Some of
+# them started the Regulators and then founded Adytum, while the }
+#{157}{}{others formed the Blades. The Gun Runners aren't from here originally.}
+#{158}{}{Where is this Vault?}
+#{159}{}{What's the deal with the Regulators?}
+{147}{}{此刻，你一点罗曼蒂克的感觉都没有？真的吗？这真是太糟了。那是无偿的爱和那所有的一切。你真无可救药了。}
+{148}{}{嗯。如果你能找到山谬的话，把你所知道的告诉他。}
+{149}{}{是的，而且它很凶猛。它非常危险，尤其你被抓住的时候。}
+{150}{}{毫无疑问。我能问你些其他的问题吗？}
+{151}{}{谢谢你告诉我这些。}
+{152}{}{噢，很抱歉我帮不了你了。}
+{153}{}{这里以前是个大城市，叫洛杉矶。但是一颗原子弹毁了一切。现在，这里叫晒骨场。我们内城区的居民都是在劫难中侥幸活下来的。}
+{154}{}{你能多和我聊聊洛杉矶吗？}
+{155}{}{我明白。谢谢。}
+{156}{}{当年很多人都住在这。据我所知，这儿的大多数人当年都躲在一个叫避难所的大地方，并在几年后回到地面。其中一些人创立了管理者组织，建立了内城区。同时}
+{157}{}{另一些人组成了利刃帮。而军火商则是后来出现的。}
+{158}{}{避难所在哪？}
+#{160}{}{Where are the Gun Runners from?}
+#{161}{}{}
+#{162}{}{Thanks for your help.}
+#{163}{}{Well, supposedly it was somewhere south of here, but I don't
+# know really. I think everyone left because it was broken.}
+#{164}{}{Can I ask you some more questions?}
+#{165}{}{Hmm. Thanks.}
+#{166}{}{I'm not really sure. I think they came from somewhere up
+# north of here.}
+#{167}{}{What do you know abou the Regulators?}
+#{168}{}{Can I ask about some other things?}
+#{169}{}{Thanks for the information.}
+#{170}{}{Who do you want to know about?}
+#{171}{}{Jon Zimmerman.}
+#{172}{}{Caleb.}
+#{173}{}{Miles.}
+#{174}{}{Tine.}
+#{175}{}{Smitty.}
+#{176}{}{Nobody.}
+{159}{}{管理者们负责什么？}
+{160}{}{那么军火商又是从哪里来的？}
+{161}{}{}
+{162}{}{谢谢你的帮助。}
+{163}{}{据我想他们应该是来自这里南面点的地方，不过我并不确定。我只是觉得任何人都会想方设法离开那该死的破地方。}
+{164}{}{我能再问些问题吗？}
+{165}{}{嗯。谢谢。}
+{166}{}{我不太确定。我想他们来自北面。}
+{167}{}{能和我说说管理者吗？}
+{168}{}{我能问些其它问题吗？}
+{169}{}{谢谢你告诉我这么多。}
+{170}{}{你想听谁的故事？}
+{171}{}{齐默曼市长。}
+{172}{}{卡勒布。}
+{173}{}{麦尔斯。}
+{174}{}{提恩。}
+{175}{}{施密蒂。}
+{176}{}{没事。}
+#{177}{}{Zimmerman watches over our town. He makes sure that everyone
+# gets fed, and that everybody has a job to do.}
+#{178}{}{Caleb is the leader of the Regulators. It's his job to
+# protect Adytum. He seems to enjoy it a litte more than he should.}
+#{179}{}{Ah, our resident chemist. Miles makes bullets, and he also
+# built the water distiller that makes sure we get clean
+# water from the well. He's working on an underground
+# farm right now, but he's missing some parts.}
+#{180}{}{Tine runs the shop. It's in the bunker near the gate.
+# He trades with the Hub merchants for us.}
+#{181}{}{Hmm. Smitty is a tinker of sorts. He's good at repair work.
+# He casts bullets and fixes broken stuff around town.}
+#{182}{}{Can I ask about someone else?}
+#{183}{}{Can we talk about a different subject?}
+#{184}{}{}
+{177}{}{齐默曼关心着我们的城市。他确保我们每个人都能自食其力。}
+{178}{}{卡勒布是管理者的头儿。他负责内城区的安全。我看他对这份工作起劲过头，超过他的本分了。}
+{179}{}{啊哈，我们的长驻化学师。麦尔斯制造子弹，还做出了一个水蒸馏器保证我们的井水得到净化。他现在应该在地下农场，不过他丢了些工具。}
+{180}{}{提恩开着一家商店。就在大门附近的掩体里。他替我们在哈勃城市场进行贸易。}
+{181}{}{嗯，施密蒂是我们的修理工。他精通这些。他经常在城镇周围捡些子弹或者修理一些坏掉的材料。}
+{182}{}{咱们聊聊其他人好吗？}
+{183}{}{咱们换个话题好吗？}
+{184}{}{}

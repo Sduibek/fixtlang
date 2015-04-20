@@ -1,0 +1,693 @@
+#{100}{}{You see Butch.}
+{100}{}{你看见布奇。}
+#{101}{}{Tell me about yourself.}
+{101}{}{跟我说说你自己。}
+#{102}{}{Heard any good rumors?}
+{102}{}{听到什么好消息？}
+#{103}{}{What else is around here, besides the Hub?}
+{103}{}{除了哈勃城，这附近还有什么地方？}
+#{104}{}{What's in the Hub?}
+{104}{}{在哈勃城有些什么？}
+#{105}{}{Thanks, that's it.}
+{105}{}{谢谢，就这些。}
+#{106}{BUTCH01}{What do you want?}
+{106}{BUTCH01}{你想要什么？}
+#{107}{}{I need to ask you a few questions.}
+{107}{}{我想问你几个问题。}
+#{108}{}{Nothing, thanks.}
+{108}{}{没什么。谢谢。}
+#{109}{BUTCH02}{Time is money. Chit-chat is not money. You here about the job or what?}
+{109}{BUTCH02}{时间就是金钱。聊天换不来钱。你是来找工作的还是干嘛的？}
+#{110}{}{Yes.}
+{110}{}{是的。}
+#{111}{}{What job?}
+{111}{}{什么工作？}
+#{112}{}{Here for the what or the money?}
+{112}{}{来这里干嘛？为了钱？}
+#{113}{BUTCH03}{Hot damn, someone with guts! Done and done. Go talk with my second, Rutger, and get the details.}
+{113}{BUTCH03}{你小子够种！好了。去找我的副手，罗格尔，和他谈具体细节。}
+#{114}{}{Wait! I have some questions about this job first!}
+{114}{}{等一等！我对这工作有点疑问！}
+#{115}{}{Okay, thanks.}
+{115}{}{好的，多谢。}
+#{116}{BUTCH04}{Ahh, don't spoil it! Make 'em quick.}
+{116}{BUTCH04}{噢，别太罗嗦了，赶紧说。}
+#{117}{}{How much does it pay?}
+{117}{}{能付多少钱？}
+#{118}{}{Uh……what is the job?}
+{118}{}{嗯……是什么工作？}
+#{119}{}{Well, if you feel that way, I'll just go talk to Rutger.}
+{119}{}{好吧，如果你这么想，我就去和罗格尔谈。}
+#{120}{BUTCH05}{Uh……Rutger'll handle that. He does all the trivial stuff for the Far Go Traders. Now get on out, cause I got work to do!}
+{120}{BUTCH05}{嗯……罗格尔会处理的。远行商队的所有琐事都由他做。现在出去吧，我还有事！}
+#{121}{}{One more question, okay?}
+{121}{}{再问一个问题，可以吗？}
+#{122}{}{Okay, thanks.}
+{122}{}{好的，多谢。}
+#{123}{butch06}{Just one. }
+{123}{butch06}{就一个。}
+#{124}{}{ 【You notice that he seems tense.】}
+{124}{}{ 【你注意到他似乎很紧张。】}
+#{125}{}{Uh……what's the job?}
+{125}{}{嗯……是什么工作？}
+#{126}{}{Is there a time limit on the job?}
+{126}{}{这工作有时间限制吗？}
+#{127}{}{Uh, how much does it pay again?}
+{127}{}{嗯，再问一下能付多少钱？}
+#{128}{}{Just how stupid are you?}
+{128}{}{你脑子有多蠢？}
+#{129}{}{You seem tense. Want to talk about it?}
+{129}{}{你看上去很紧张。想谈谈吗？}
+#{130}{BUTCH07}{What's the……you agreed to a job without knowing what it is? Hot damn, you must be desperate. I like that!}
+{130}{BUTCH07}{你到底……你还不知道工作是什么就接受了？你小子肯定是个干活不要命的牲口。我喜欢！}
+#{131}{}{Just tell me what it is, okay?}
+{131}{}{告诉我是什么，好吗？}
+#{132}{}{Well, you seem pretty desperate, too, so we're even.}
+{132}{}{好吧，你看起来也很不要命，那么我们差不多。}
+#{133}{BUTCH08}{Well, some caravans have been disappearing on us lately. Damn if anyone can figure out what happened to 'em.}
+{133}{BUTCH08}{好吧。最近我们有一些商队失踪了。要有人能查出他们出了什么事就好了。}
+#{134}{}{So what do you want me to do?}
+{134}{}{那么你想要我干什么？}
+#{135}{}{I bet you didn't even look for them.}
+{135}{}{我敢打赌你都没找过他们。}
+#{136}{BUTCH09}{Simple. Find out who's doing it, and tell me. Or take 'em out. It makes no damn difference to me. Just get that job done!}
+{136}{BUTCH09}{很简单。找出是谁干的，然后告诉我。或者做掉他们。对我来说没什么不同。去把那活干了！}
+#{137}{}{Any clues on who's doing this?}
+{137}{}{有什么线索是谁干的吗？}
+#{138}{}{I'll take them out.}
+{138}{}{我会把他们干掉。}
+#{139}{}{Sounds scary……I better pass.}
+{139}{}{听起来很可怕……我还是不干了。}
+#{140}{BUTCH10}{Nah. Just the normal stuff.}
+{140}{BUTCH10}{不。只是普通的。}
+#{141}{}{Oh come on. There has to be something I can use.}
+{141}{}{喔，快点。肯定有些什么对我有用的。}
+#{142}{butch11}{Listen, I don't have time to swap stories with you.}
+{142}{butch11}{听着，我没时间和你唠嗑。}
+#{143}{butch12}{Well there's uh……something, but I never listen to those rumors.}
+{143}{butch12}{好吧，是有一些……传闻，不过我从来不会相信那些谣言的。}
+#{144}{}{Well, I do. What is it?}
+{144}{}{好吧，我干。是什么？}
+#{145}{}{Okay, thanks.}
+{145}{}{好的，多谢。}
+#{146}{BUTCH13}{You uh……you really want to hear it, huh? Well, some say it's the Death Claw, but……but I don't know nothin' about that.}
+{146}{BUTCH13}{你……你真的想听，嗯？有人说是死亡爪……但我什么都不知道。}
+#{147}{}{You sound scared.}
+{147}{}{你好像很害怕。}
+#{148}{}{Thanks. Can I ask you a few questions?}
+{148}{}{谢谢。我能问你一点问题吗？}
+#{149}{}{How do I find out about the Death Claw?}
+{149}{}{我怎么知道关于死亡爪的事？}
+#{150}{butch13a}{How do ya……Go talk to Beth, she knows more about that crap.}
+{150}{butch13a}{你怎么……去和贝斯谈谈，她对那东西很了解。}
+#{151}{}{Yep, you're as scared as a whipped dog.}
+{151}{}{哈，你小子就像条被打怕了的癞狗。}
+#{152}{}{I'll go check it out.}
+{152}{}{我去查清楚。}
+#{153}{}{I need some more information.}
+{153}{}{我需要更多的消息。}
+#{154}{BUTCH14}{Listen you, I ain't scared. I'm……cautious. You'd be stupid not to be, with the Death Claw. Go talk to Beth, she'll tell ya more.}
+{154}{BUTCH14}{听着，我不是害怕。我是……小心。对于死亡爪，你不小心点，你就是个蠢粪蛋子。去和贝斯谈谈，她会告诉你更多的情况。}
+#{155}{}{You sound as scared as a whipped dog.}
+{155}{}{你小子就像条被打怕了的癞狗。}
+#{156}{}{Sorrrry. I'll go check it out.}
+{156}{}{对不起。我会去查清楚。}
+#{157}{}{I need some more information.}
+{157}{}{我需要更多的信息。}
+#{158}{BUTCH15}{I'm tired of your insults you……you pinhead! Don't come back! Rutger, take this annoying bug away!}
+{158}{BUTCH15}{我受够了你的屁话，你……你这个瘪三！不准再回来了！罗格尔，把这讨厌鬼弄走！}
+#{159}{BUTCH16}{Done and done. Now get on outta here, but come back and talk to me when you've found something.}
+{159}{BUTCH16}{好了。现在出去吧，等你查到了什么东西，再回来告诉我。}
+#{160}{BUTCH17}{Make it quick.}
+{160}{BUTCH17}{快点干。}
+#{161}{BUTCH18}{Then what the hell am I doing still looking at you? Get out!}
+{161}{BUTCH18}{那我他妈为啥还看到你站在这儿？出去！}
+#{162}{butch19}{Uh……what did you say?}
+{162}{butch19}{嗯……你说什么？}
+#{163}{}{I was implying that you were too frightened to go look for them.}
+{163}{}{我意思是你给吓得够呛，都不敢出去找他们了。}
+#{164}{}{Nothing. So what do you want me to do?}
+{164}{}{没什么。那么你想要我做什么？}
+#{165}{BUTCH20}{You know, I don't like you. But that doesn't matter. You want the job or not?}
+{165}{BUTCH20}{你知道，我不喜欢你。不过那无所谓。你要不要这工作？}
+#{166}{}{Sure.}
+{166}{}{当然。}
+#{167}{}{No thanks.}
+{167}{}{不，谢了。}
+#{168}{butch19}{Uh……what did you say?}
+{168}{butch19}{嗯……你说什么？}
+#{169}{}{You heard me.}
+{169}{}{你听到了。}
+#{170}{}{Nothing. So, what do you want me to do?}
+{170}{}{没什么。那么你想要我做什么？}
+#{171}{BUTCH22}{Yeah, yesterday! Get going!}
+{171}{BUTCH22}{是，昨天！快干吧！}
+#{172}{BUTCH23}{Hmmm. Whatta ya want'a know?}
+{172}{BUTCH23}{嘿。你想知道什么？}
+#{173}{}{Just curious.}
+{173}{}{就是好奇而已。}
+#{174}{}{No reason.}
+{174}{}{没什么原因。}
+#{175}{}{Nevermind.   I have some more questions.}
+{175}{}{没什么。我有几个问题。}
+#{176}{BUTCH24}{Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.}
+{176}{BUTCH24}{嗯，我经营远行商队大概有五年了。之前我在内城区。再之前，我在闪光之地附近。}
+#{177}{}{Anything else?}
+{177}{}{还有别的吗？}
+#{178}{}{Well, thanks.}
+{178}{}{好了，谢谢。}
+#{179}{BUTCH25}{Not really.}
+{179}{BUTCH25}{没了。}
+#{180}{BUTCH26}{Yeah, well I don't like going around talking about my personal life and such.}
+{180}{BUTCH26}{是，我不喜欢谈论我的私人生活。}
+#{181}{}{Oh come on, please?}
+{181}{}{哦，拜托！说点嘛！}
+#{182}{}{Oh, all right.}
+{182}{}{喔，好吧。}
+#{183}{BUTCH27}{What do I look like, a……a……one of those tourist things? Jeez.}
+{183}{BUTCH27}{我看上去像什么，像一个……一个……观光旅游点？切。}
+#{184}{}{No, you seem to be a brilliant man.}
+{184}{}{不，你看起来像一个很有才气的人物。}
+#{185}{}{I just want to know some general places.}
+{185}{}{我只是打听点地方。}
+#{186}{BUTCH28}{Thanks. Now, is there anything else?}
+{186}{BUTCH28}{谢了。现在，还有别的事吗？}
+#{187}{BUTCH29}{Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.}
+{187}{BUTCH29}{好吧，这里有旧城区和高地区，高地只是说法而已，那里也只有房子。商业街有各种商店和物品。}
+#{188}{}{What stores?}
+{188}{}{什么商店？}
+#{189}{}{Thanks.}
+{189}{}{谢谢。}
+#{190}{BUTCH30}{Just stuff. you wanta' see the town, go look around yourself!}
+{190}{BUTCH30}{就是物品。你想看城镇，你就自己去看吧！}
+#{191}{}{Uh, thanks for nothing.}
+{191}{}{哦，您还真是个乐于助人的主啊，哼。}
+#{192}{}{Thanks.}
+{192}{}{多谢。}
+#{193}{butch19}{Uh……what did you say?}
+{193}{butch19}{嗯……你说什么？}
+#{194}{}{Are you deaf?}
+{194}{}{你聋了吗？}
+#{195}{}{Nothing. I need to ask you a few more questions, though.}
+{195}{}{没什么。不过我想再问你几个问题。}
+#{196}{BUTCH32}{Well, you got the Maltese Falcon, a nice place to eat, believe you me. And then……let's see, the All in One Store, the Weapons Shop……and, of course, Bob's Iguana Bits.}
+{196}{BUTCH32}{好吧，有马耳他猎鹰，信不信由你，是个吃饭的好地方。还有……我想一想，百货商店，武器店……当然了，还有鲍勃的蜥蜴料理。}
+#{197}{}{Thanks.}
+{197}{}{多谢。}
+#{198}{}{Anything else?}
+{198}{}{还有别的吗？}
+#{199}{BUTCH33}{Got the Children of the Cathedral's hospital over on the west side of Downtown. And then, of course, you got the Water Merchants south, and the Crimson Caravan west.}
+{199}{BUTCH33}{ 在市中心的西边有大教堂教徒的医院。当然了，南边有纯水商队，西边还有深红商队。}
+#{200}{}{Thanks.}
+{200}{}{多谢。}
+#{201}{BUTCH34}{Well, you got the Junktown to the north, and the Brotherhood of Steel to the northwest. And, of course, the Boneyard to the south.}
+{201}{BUTCH34}{好吧，北方有迦克镇，西北方有钢铁兄弟会。当然了，南方还有晒骨场。}
+#{202}{}{Anything else?}
+{202}{}{还有别的吗？}
+#{203}{}{Thanks.}
+{203}{}{多谢。}
+#{204}{butch35}{Well, Necropolis is east. But uh……I wouldn't spit there if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face faster than an old lady shopping at bargain day.}
+{204}{butch35}{好吧，大墓地在东面。但是，嗯……听我说，就算那里可以点石成金，我也不会去那里点的。那些僵尸吃人头肉比老太太在打折商店抢购的速度还快。}
+#{205}{}{Sounds like fun.}
+{205}{}{听起来很有趣。}
+#{206}{butch35a}{Puhh. Maybe for you! If you like that, then the Glow's down south. It's a radioactive pit.}
+{206}{butch35a}{呼。那是对你！如果你喜欢，然后就是南方的闪光之地。那是个充满辐射的深坑。}
+#{207}{}{Maybe I'll work on my tan.}
+{207}{}{也许那里可以好好晒晒偶的皮肤呢。}
+#{208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
+{208}{BUTCH36}{就是几个不同的地方。自己去找！}
+#{209}{}{Well, thanks for nothing.}
+{209}{}{哦，您还真是个乐于助人的主啊，哼。}
+#{210}{}{Thanks.}
+{210}{}{多谢。}
+#{211}{BUTCH37}{Well, what do you have?}
+{211}{BUTCH37}{好吧，你发现什么了？}
+#{212}{}{Well, I found out who's taking the caravans.}
+{212}{}{嗯，我查出了是谁劫走了商队。}
+#{213}{}{Well, I know it wasn't the Death Claw who took the caravans.}
+{213}{}{嗯，我知道劫走商队的不是死亡爪。}
+#{214}{}{Nothing right now. Goodbye.}
+{214}{}{现在还没有。再见。}
+#{215}{BUTCH38}{Really?  Who?}
+{215}{BUTCH38}{真的？谁？}
+#{216}{}{It's these big mutant guys.}
+{216}{}{是这些巨大的变种人。}
+#{217}{}{Rats! BIG rats with BIG teeth……}
+{217}{}{老鼠！长着大牙的大老鼠……}
+#{218}{BUTCH39}{Wha……what would mutants want with our caravans?}
+{218}{BUTCH39}{变……变种人想要我们的商队干什么？}
+#{219}{}{I don't know, but they seem to be taking the humans prisoner.}
+{219}{}{我不知道，不过看来他们把人都抓起来了。}
+#{220}{}{I don't know for sure. But it's mutants, not the Death Claw.}
+{220}{}{我不能确定。但肯定是变种人，不是死亡爪。}
+#{221}{BUTCH40}{What, do I look a crate shy of a load? Did you even see the Death Claw?}
+{221}{BUTCH40}{什么，我看起来是那种拉不了货的老爷车嘛！? 你看到死亡爪了？}
+#{222}{}{Been there, saw that, killed it.}
+{222}{}{我到了那儿，看到它，宰了它。}
+#{223}{}{I'm telling you that it wasn't the Death Claw.}
+{223}{}{我跟你说，那不是死亡爪。}
+#{224}{BUTCH41}{You……you killed it? Well……I uh……um……uh, where did these mutants come from?}
+{224}{BUTCH41}{你……你杀了它？好吧……我，嗯……呣……嗯, 这些变种人是从那里来的？}
+#{225}{}{I don't know yet. But they have an outpost in the mountains.}
+{225}{}{我还不清楚。不过他们在山里有个前哨。}
+#{226}{}{They work for The 主教. They aren't your regular mutants, either.}
+{226}{}{他们为主教工作。他们也不是你想的普通的变种人。}
+#{227}{BUTCH42}{An outpost? Well……um……well uh. I'll have to talk to the Committee. Yeah……yeah, they'll know what to do. Done and done. Get out, 'cause I got stuff to do……okay?}
+{227}{BUTCH42}{有个前哨？好吧……嗯……好吧。我得和委员会谈一谈。是的……是的，他们会知道该怎么办。好了。出去吧，我有事要做……行吗？}
+#{228}{BUTCH43}{The 主教?  H-He's more of a myth than the Death Claw. You……you don't think he's real, do you?}
+{228}{BUTCH43}{大主教？他，他比死亡爪更神秘。你……你不会认为他是真存在吧，是吧？}
+#{229}{}{I'm not sure. But I intend to find out.}
+{229}{}{我不能肯定。不过我打算查清楚。}
+#{230}{}{Yep, I've seen him! And he's coming to get you!}
+{230}{}{是的，我看到了他！他正要来找你！}
+#{231}{BUTCH44}{Yeah, done and ……yeah, you do that! Uh, I need to talk to the Committee. They'll know what to do. N-N-Now get out! I've got a lot to do……okay?}
+{231}{BUTCH44}{是的，好了……是的，你办得不错了！嗯，我得和委员会谈一谈。他们会知道该怎么办。现，现在出去吧！我有很多事要做……行吗？}
+#{232}{BUTCH45}{What! Well……well……I'm not afraid! Rutger! I got guns! Rutger!}
+{232}{BUTCH45}{什么！好吧……好吧……我不会给吓着的！罗格尔！拿我的枪来！罗格尔！}
+#{233}{BUTCH46}{Alright, so it wasn't the Death Claw. But what would the mutants in Old Town want with our caravans? Unless it's some kind of conspiracy.}
+{233}{BUTCH46}{好吧，那么不是死亡爪干的。但是旧城区的变种人要我们的商队干什么？除非这里面有什么阴谋。}
+#{234}{}{No, no, no, you pinhead. These mutants are big and green and they have an army in the mountains to the north.}
+{234}{}{不，不，不，你这蠢货。这些变种人是大个绿色的，而且他们在北边的山里有一支军队。}
+#{235}{}{You really are stupid, aren't you? You're not listening!}
+{235}{}{你真是蠢，不是吗？你没在听我说！}
+#{236}{BUTCH47}{What? Get out! I need to tell the Committee about this. Go on, get out!}
+{236}{BUTCH47}{什么？出去！我得把这个告诉委员会。快点，出去！}
+#{237}{BUTCH48}{Come on. You can do better than that.}
+{237}{BUTCH48}{来吧。你能干得更好。}
+#{238}{}{No, really. They're these big, green mutant guys.}
+{238}{}{不，真的。他们是些大个的，绿色的变种家伙。}
+#{239}{}{You're right.}
+{239}{}{你是对的。}
+#{240}{}{Oh come on. You think a woman like me would lie?}
+{240}{}{喔，算了吧。你觉得一个像我这样的女人会撒谎？}
+#{241}{BUTCH49}{I don't have time for this. Get out, and don't come back until you find something useful!}
+{241}{BUTCH49}{我没时间来这些。出去，在没找到有用的东西前别回来！}
+#{242}{BUTCH50}{Well then, what is it?}
+{242}{BUTCH50}{那么好吧，是什么？}
+#{243}{}{Actually, it IS these big mutant guys……}
+{243}{}{事实上，是这些巨大的变种人……}
+#{244}{}{Rats, I tell you! Big, hairy……}
+{244}{}{老鼠，我跟你说！大的，有毛的……}
+#{245}{BUTCH51}{Rats? You've got to be kidding me.}
+{245}{BUTCH51}{老鼠？你在和我开玩笑。}
+#{246}{}{No, really. BIG rats!}
+{246}{}{不，真的。大老鼠！}
+#{247}{}{You're right. I was just kidding.}
+{247}{}{不错。我只是开个玩笑。}
+#{248}{BUTCH52}{Well……okay. I'll tell the Committee, but I don't think they'll believe it. Although I have seen mighty big rats around……}
+{248}{BUTCH52}{好了……好了。我会告诉委员会，不过我想他们不会相信。虽然我也在附近看见过很大的老鼠……}
+#{249}{BUTCH53}{How do you know? Did you see the Death Claw?}
+{249}{BUTCH53}{你怎么知道？你看到死亡爪了？}
+#{250}{}{Been there, saw that, killed it.}
+{250}{}{我到了那儿，看到它，宰了它。}
+#{251}{}{Just trust me. I know.}
+{251}{}{你就相信我吧。我知道。}
+#{252}{butch54}{You……you killed it?}
+{252}{butch54}{你……你杀了它？}
+#{253}{}{Yep, sure did.}
+{253}{}{不错，正是。}
+#{254}{butch54a}{Well then, then who's stealing my caravans?}
+{254}{butch54a}{那么好吧，是谁偷了我的商队？}
+#{255}{}{I don't know yet, but I'll find out.}
+{255}{}{我还不清楚，不过我会查出来。}
+#{256}{}{Ralph did it.}
+{256}{}{是拉尔夫干的。}
+#{257}{BUTCH55}{Uhh, do that.  And come back and tell me ……okay?}
+{257}{BUTCH55}{嗯，去做吧。然后回来告诉我……好吗？}
+#{500}{butch55a}{Uhh, do that.  And come back and tell me……okay?}
+{500}{butch55a}{嗯，去做吧。然后回来告诉我……好吗？}
+#{258}{BUTCH56}{Who the hell's Ralph?}
+{258}{BUTCH56}{这个拉尔夫是他妈的谁？}
+#{259}{}{Nevermind. I'll get more info on the caravan problem.}
+{259}{}{别介意。我会查到更多有关商队的消息的。}
+#{260}{}{He's coming for your soul!}
+{260}{}{他正要来找你！}
+#{261}{BUTCH57}{Hey! You're making fun of me, aren't you? Rutger, show this jerk the street! And don't come back without some real information!}
+{261}{BUTCH57}{嘿！你在耍我，是不是？罗格尔，把这小子丢街上去！没有真正的消息别再回来！}
+#{262}{BUTCH58}{Yeah, right. Like I'd believe that. Get out until you can find me something useful.}
+{262}{BUTCH58}{是的，不错。看来我得相信了。出去吧，给我找些有用的东西。}
+#{263}{BUTCH59}{Well, whatta'ya got for me?}
+{263}{BUTCH59}{好吧，你给我找到了什么？}
+#{264}{}{It was Mutants.}
+{264}{}{是变种人干的。}
+#{265}{}{Well, I know it wasn't the Death Claw who took the caravans.}
+{265}{}{嗯，我知道夺走商队的不是死亡爪。}
+#{266}{BUTCH60}{Leave me alone! You got your reward, now get out!}
+{266}{BUTCH60}{走吧！你拿到你的酬金了，现在出去！}
+#{267}{BUTCH61}{Hey, put that down!}
+{267}{BUTCH61}{嘿，把它放下！}
+#{268}{BUTCH62}{That's it. Rutger's gonna take it out of your hide!}
+{268}{BUTCH62}{就这样。罗格尔会来收拾你！}
+#{269}{BUTCH63}{Stop that right now!}
+{269}{BUTCH63}{马上给我住手！}
+#{501}{butch63a}{Hey! Knock that off!}
+{501}{butch63a}{嘿！停手！}
+#{270}{BUTCH64}{Well, what are you doing in here? Get out!}
+{270}{BUTCH64}{好了，你在这里干什么？出去！}
+#{272}{butch65}{Oh……well, it's not so get out!}
+{272}{butch65}{喔……好，想出去都晚了！}
+#{273}{BUTCH66}{Rutger's going to turn you into a human pretzel. Have fun. RUTGER!}
+{273}{BUTCH66}{罗格尔会把你做成肉饼。好好乐一乐吧。罗格尔！}
+#{274}{BUTCH67}{Well, you're a bright one, ain't you? Here's the job: Find out who's stealing my caravans. Money, big. You fail, hurt, big. Understand? Now get outta here!}
+{274}{BUTCH67}{好了，你是个聪明人，是不是？这是工作：查出是谁偷了我的商队。成功了，钱大大的。否则，苦头大大的。懂了？现在从这里出去！}
+#{275}{butch67a}{Wow, you're dumb. I don't have time for this. Go talk to Rutger.}
+{275}{butch67a}{哇，你真蠢。我没时间，去和罗格尔谈。}
+#{276}{BUTCH68}{Go talk to Rutger. He can tell you more about that crap.}
+{276}{BUTCH68}{去和罗格尔谈。他能告诉你更多消息。}
+#{277}{butch69}{Like I told you……}
+{277}{butch69}{我跟你说过……}
+#{502}{butch69a}{Like I told you……}
+{502}{butch69a}{我跟你说过……}
+#{278}{butch70a}{As I said……}
+{278}{butch70a}{我说过……}
+#{503}{butch70b}{As I said……}
+{503}{butch70b}{我说过……}
+#{279}{BUTCH71}{I ain't gonna repeat myself again!}
+{279}{BUTCH71}{我不会重复我说过的话！}
+#{280}{BUTCH72}{Listen, I ain't gonna say it again!}
+{280}{BUTCH72}{听着，我不会再说了！}
+#{281}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
+{281}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，就像我。}
+#{282}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
+{282}{BUTCH74}{哦，不。哦，不，我们不谈这个。}
+#{283}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
+{283}{BUTCH75}{马耳他猎鹰是西边的一个夜总会。霍普在那里唱歌。真是个美人儿。}
+#{284}{BUTCH76}{What a pain they are. We think their hideout's in Old Town, but we can't prove it.}
+{284}{BUTCH76}{他们真是个麻烦。我们认为他们的老窝在旧城区，但我们没办法证实。}
+#{285}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
+{285}{BUTCH77}{喔，他是治安官。不过你要是看见有人违法，向我报告。贾斯廷不管这里的住宅区。}
+#{286}{BUTCH78}{Old Harold? What do you want with that old mutant? He's in Old Town. Just ask there.}
+{286}{BUTCH78}{老哈罗德？你找那个老变种人干嘛？他在旧城区。到那里去问吧。}
+#{287}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
+{287}{BUTCH79}{那些杂种。就因为这水塔，达伦·海托认为他妈的哈勃城是他的。}
+#{288}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{288}{BUTCH80}{他掌管纯水商队。他就是一个肮脏、贪婪的杂种。}
+#{289}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
+{289}{BUTCH81}{你可以在市中心的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
+#{290}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{290}{BUTCH82}{他是深红商队的老板。如果你问我的话，他是个疯子。}
+#{291}{BUTCH83}{Don't you know where your own feet are?}
+{291}{BUTCH83}{你知道你现在站在哪里吗？}
+#{292}{BUTCH84}{That's me. You blind or something?}
+{292}{BUTCH84}{那就是我。你是瞎了还是怎么了？}
+#{293}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
+{293}{BUTCH85}{喔。贝斯是武器店的老板。如果你喜欢听各种留言，她知道很多。}
+#{294}{BUTCH86}{Rutger's my assistant.}
+{294}{BUTCH86}{罗格尔是我的副手。}
+#{295}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{295}{BUTCH87}{它在商队市场的南面。是这里和周围很多地方的唯一的水源。纯水商队拥有他妈的一切。}
+#{296}{BUTCH88}{Three of my caravans have disappeared in the past month. At first I thought it was either the Water Merchants or the Crimson Caravan, but they've had disappearances too.}
+{296}{BUTCH88}{上个月我有三个商队失踪了。开始我以为不是纯水商队就是深红商队干的，但他们也有商队失踪。}
+#{297}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{297}{BUTCH89}{那是人们交易的地方。正好在城市中心。}
+#{298}{BUTCH90}{Uh, no I-I don't ……Go talk to Beth, she knows more about that crap.}
+{298}{BUTCH90}{哦，不，我，我不……你去和贝斯谈谈，她对那东西知道很多。}
+#{299}{BUTCH91}{The Glow is a radioactive pit way, way down south. Too much radiation for anyone to live there.}
+{299}{BUTCH91}{闪光之地是在南边很远的地方的一个辐射深坑。辐射太厉害了，没人能住在那里。}
+#{300}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{300}{BUTCH92}{旧城区在东面。那帮瘾君子都在那鬼混。}
+#{301}{butch93}{It's over on the west side.}
+{301}{butch93}{它在西面。}
+#{302}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times. Got some great booze.}
+{302}{BUTCH94}{迦克镇？是的，我往北去过那地方几次。那里的酒不错。}
+#{303}{BUTCH95}{Junktown? It's up north. Heard they're having some trouble, what with their mayor Killian getting killed and all.}
+{303}{BUTCH95}{迦克镇？它在北边。听说他们有点麻烦，好像他们市长基利安被杀了。}
+#{304}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+{304}{BUTCH96}{他是迦克镇的市长，我就知道这些。}
+#{305}{BUTCH97}{I heard he's dead. What more do you need to know?}
+{305}{BUTCH97}{我听说他死了。你还想知道什么？}
+#{306}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird. They do make a damn fine weapon, though.}
+{306}{BUTCH98}{喔，他们是在西北边的一群怪人。真的很怪。不过他们做的武器真他妈的不赖。}
+#{307}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{307}{BUTCH99}{他领导着兄弟会。我就知道这些。}
+#{308}{butch100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{308}{butch100}{嗯，它是南边的一座废城。大教堂教徒，末世论者和内城区在那里，还有很多帮派和物资。}
+#{309}{butch101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
+{309}{butch101}{为什么？你听说了什么？我听说它被洗劫了，但没人知道是谁干的。不过，嗯，我并不担心。没人能攻下哈勃城。}
+#{310}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
+{310}{butch102}{嗯，那是人们都去晒骨场交易的地方。那是唯一一个能够文明交易的地方。}
+#{311}{butch103}{Last I heard, he's the mayor of Adytum.}
+{311}{butch103}{我最近听说，他是内城区的总管。}
+#{312}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
+{312}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
+#{313}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
+{313}{butch105}{他领导晒骨场的大教堂教徒。}
+#{314}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
+{314}{buth105a}{简恩是大教堂教徒的高级牧师，在哈勃城建了医院。}
+#{504}{buth105b}{I've no idea what you're talking about.}
+{504}{buth105b}{我不懂你在说什么。}
+3{315}{butch106}{I uh……heard stories, that's all. No truth to them.}
+{315}{butch106}{我，嗯……听说了一些传说，就这些。没什么真的。}
+#{316}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
+{316}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出门右转。你不会错过的。}
+#{317}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
+{317}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
+#{318}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
+{318}{butch109}{好了，你……嗯……你不会想去那里的。那价钱高质量次。}
+#{319}{butch110}{What do you want with them wackos? Jeez, all that peace preaching and tree hugging. Makes me sick.}
+{319}{butch110}{对这些疯子你能怎样？切，那些什么和平的布道和拥抱。让我恶心。}
+#{320}{butch111}{Don't know anything 'bout that.}
+{320}{butch111}{我一点都不知道。}
+#{321}{butch112}{I……uh……don't think I want to tell you. Yeah, that's it.}
+{321}{butch112}{我……嗯……我想我不会告诉你。是的，就是这样。}
+#{322}{butch113}{Never heard of it. You must have made it up or something.}
+{322}{butch113}{从没听说过这个。你肯定是编造的。}
+#{323}{butch114}{Well, last I heard it was trashed by someone. Don't know who, though.}
+{323}{butch114}{嗯，我最后听说有人把它毁了。不过不知道是谁。}
+#{324}{}{I'm busy right now.  Talk to Rutger.  He'll let me know if you're worth seeing.}
+{324}{}{我现在很忙。和罗格尔说。他会告诉我你够不够格。}
+#{325}{}{I've got nothing to say to you.}
+{325}{}{我没什么跟你说的。}
+#{326}{}{Where do I get my reward?}
+{326}{}{我从哪里拿我的酬金？}
+#{327}{}{What was I supposed to do again?}
+{327}{}{我该干什么？}
+#{328}{}{Get the hell out of here!}
+{328}{}{从这里滚出去！}
+#{329}{}{Nothing yet.}
+{329}{}{还没有。}
+#{330}{}{Snargle!!!}
+{330}{}{【口水】咕噜!!!}
+#{331}{}{Get out of here, you moron.}
+{331}{}{滚出去，你这个白痴。}
+
+# Tell-Me-Abouts generic responses
+#{980}{butch111}{Don't know anything 'bout that.}
+{980}{butch111}{我一点都不知道。}
+#{981}{butch112}{I……uh……don't think I want to tell you. Yeah, that's it.}
+{981}{butch112}{我……嗯……我想我不会告诉你。是的，就是这样。}
+#{982}{butch113}{Never heard of it. You must have made it up or something.}
+{982}{butch113}{从没听说过这个。你肯定是编造的。}
+
+#
+# Tell-Me-Abouts
+#
+{1099}{}{?}
+
+{1199}{}{我可以告诉你：Decker-德克、Underground-地下组织、Maltese-马耳他猎鹰、Thieves-贼窝、Justin-贾斯廷、Harold-哈罗德、Merchants-纯水商队、Daren-达伦、Crimson-深红商队、Demetre-戴米德、Trader-远行商队、Butch-布奇、Beth-贝斯、Rutger-罗格尔、Water-水源、Missing-失踪、Market-商人市场、Claw-死亡爪、Glow-闪光之地、Town-旧城区、Heights-高地区、Junktown-迦克镇、Killian-基利安、Brotherhood-兄弟会、Elder-最高元老、Angel's-洛杉矶、Adytum-内城区、Jon-琼、Cathedral-大教堂、Morpheus-墨菲斯、Jain-简恩、Master-主教、Weapon-武器、Bob's-鲍勃、All-In-One-百货店、Followers-末世论者、Harris-哈里斯、Falcon-猎鹰、Nightclub-夜总会、Merchant-纯水商队、Hightower-海托、Greene-格林、Caravan-深红商队、Romara-罗玛拉、Traders-远行商队、Tower-海托、Caravans-深红商队、Darkwater-黑水、Steel-钢铁兄弟会、Angels-洛杉矶、Boneyard-晒骨场、Zimmerman-齐默曼、Weapons-武器、Store-商店、guns-枪支、Bobs-鲍勃、Iguana-蜥蜴串、Apocalypse-Apocalypse、Death-死亡爪、Deathclaw-死亡爪、Hot-闪光之地、Oldtown-旧城区、Old-旧城区、Maxson-马克松、All-百货、Junk-迦克镇。}
+
+{1000}{}{Decker}
+{1001}{}{Underground}
+{1002}{}{Maltese}
+{1003}{}{Thieves}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Merchants}
+{1007}{}{Daren}
+{1008}{}{Crimson}
+{1009}{}{Demetre}
+{1010}{}{Trader}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Rutger}
+{1014}{}{Water}
+{1015}{}{Missing}
+{1016}{}{Market}
+{1017}{}{Claw}
+{1018}{}{Glow}
+{1019}{}{Town}
+{1020}{}{Heights}
+{1021}{}{Junktown}
+{1022}{}{Killian}
+{1023}{}{Brotherhood}
+{1024}{}{Elder}
+{1025}{}{Angel's}
+{1026}{}{Adytum}
+{1027}{}{Jon}
+{1028}{}{Cathedral}
+{1029}{}{Morpheus}
+{1030}{}{Jain}
+{1031}{}{Master}
+{1032}{}{Weapon}
+{1033}{}{Bob's}
+{1034}{}{All-In-One}
+{1035}{}{Followers}
+{1036}{}{Harris}
+{1037}{}{Falcon}
+{1038}{}{Nightclub}
+{1039}{}{Merchant}
+{1040}{}{Hightower}
+{1041}{}{Greene}
+{1042}{}{Caravan}
+{1043}{}{Romara}
+{1044}{}{Traders}
+{1045}{}{Tower}
+{1046}{}{Caravans}
+{1047}{}{Darkwater}
+{1048}{}{Steel}
+{1049}{}{Angels}
+{1050}{}{Boneyard}
+{1051}{}{Zimmerman}
+{1052}{}{Weapons}
+{1053}{}{Store}
+{1054}{}{guns}
+{1055}{}{Bobs}
+{1056}{}{Iguana}
+{1057}{}{Apocalypse}
+{1058}{}{Death}
+{1059}{}{Deathclaw}
+{1060}{}{Hot}
+{1061}{}{Oldtown}
+{1062}{}{Old}
+{1063}{}{Maxson}
+{1064}{}{All}
+{1065}{}{Junk}
+
+#{1100}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side. I'd stay clear of him; he's not honest, like me.}
+{1100}{BUTCH73}{他是西边马耳他猎鹰的老板。我不会和他打交道；他不实在，和我一样。}
+#{1101}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
+{1101}{BUTCH74}{哦，不。哦，不，我们不谈这个。}
+#{1102}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
+{1102}{BUTCH75}{马耳他猎鹰是西边的一个夜总会。霍普在那里唱歌。真是个美人儿。}
+#{1103}{BUTCH76}{What a pain they are. We think their hideout's in Old Town, but we can't prove it.}
+{1103}{BUTCH76}{他们真是个麻烦。我们认为他们的老窝在旧城区，但我们没办法证实。}
+#{1104}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
+{1104}{BUTCH77}{喔，他是治安官。不过你要是看见有人违法，向我报告。贾斯廷不管这里的住宅区。}
+#{1105}{BUTCH78}{Old Harold? What do you want with that old mutant? He's in Old Town. Just ask there.}
+{1105}{BUTCH78}{老哈罗德？你找那个老变种人干嘛？他在旧城区。到那里去问。}
+#{1106}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
+{1106}{BUTCH79}{那些杂种。就因为这水塔，达伦·海托认为他妈的哈勃城是他的。}
+#{1107}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1107}{BUTCH80}{他掌管纯水商队。他就是一个肮脏、贪婪的杂种。}
+#{1108}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
+{1108}{BUTCH81}{你可以在市中心的西北边找到他们。在大教堂教徒来之前他们控制着医院。一群怪人换了另一群怪人。}
+#{1109}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{1109}{BUTCH82}{他是深红商队的老板。如果你问我的话，他是个疯子。}
+#{1110}{BUTCH83}{Don't you know where your own feet are?}
+{1110}{BUTCH83}{你知道你现在站在哪里吗？}
+#{1111}{BUTCH84}{That's me. You blind or something?}
+{1111}{BUTCH84}{那就是我。你是瞎了还是怎么了？}
+#{1112}{BUTCH85}{Uh, Beth's the manager of the Weapon Store. She hears lots of rumors, if you're into that kind of stuff.}
+{1112}{BUTCH85}{喔。贝斯是武器店的老板。她知道许多流言，如果你要这类东西，就去找她。}
+#{1113}{BUTCH86}{Rutger's my assistant.}
+{1113}{BUTCH86}{罗格尔是我的副手。}
+#{1114}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{1114}{BUTCH87}{它在商人市场的南面。是这里和周围很多地方的唯一的水源。纯水商队拥有他妈的一切。}
+#{1115}{BUTCH88}{Three of my caravans have disappeared in the past month. At first I thought it was either the Water Merchants or the Crimson Caravan, but they've had disappearances too.}
+{1115}{BUTCH88}{上个月我有三个商队失踪了。开始我以为不是纯水商队就是深红商队干的，但他们也有商队失踪。}
+#{1116}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{1116}{BUTCH89}{那是人们交易的地方。正好在城市中心。}
+#{1117}{BUTCH90}{Uh, no I-I don't……Go talk to Beth, she knows more about that crap.}
+{1117}{BUTCH90}{哦，不，我，我不……去和贝斯谈谈，她对那东西知道很多。}
+#{1118}{BUTCH91}{The Glow is a radioactive pit way, way down south. Too much radiation for anyone to live there.}
+{1118}{BUTCH91}{闪光之地是在南边很远的地方的一个辐射深坑。辐射太厉害了，没人能住在那里。}
+#{1119}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1119}{BUTCH92}{旧城区在东面。瘾君子都在那鬼混。}
+#{1120}{butch93}{It's over on the west side.}
+{1120}{butch93}{它在西面。}
+#{1121}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times. Got some great booze.}
+{1121}{BUTCH94}{迦克镇？是的，我往北去过那地方几次。那里的酒不错。}
+#{1122}{BUTCH95}{Junktown? It's up north. Heard they're having some trouble, what with their mayor Killian getting killed and all.}
+{1122}{BUTCH95}{迦克镇在北边。听说他们有点麻烦，好像他们市长基利安被杀了。}
+#{1122}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+{1122}{BUTCH96}{他是迦克镇的市长，我就知道这些。}
+#{1123}{BUTCH97}{I heard he's dead. What more do you need to know?}
+{1123}{BUTCH97}{我听说他死了。你还想知道什么？}
+#{1123}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird.  They do make a damn fine weapon, though.}
+{1123}{BUTCH98}{喔，他们是在西北边的一群怪人。真的很怪。不过他们做的武器真他妈的不赖。}
+#{1124}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{1124}{BUTCH99}{他领导着兄弟会。我就知道这些。}
+#{1125}{butch100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{1125}{butch100}{嗯，它是南边的一座废城。大教堂教徒，末世论者和内城区在那里，到处都是物资和各种各样的帮派分子。}
+#{1126}{butch101}{Why? What've you heard? I heard it'd been ransacked, but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
+{1126}{butch101}{为什么？你听说了什么？我听说它被洗劫了，但没人知道是谁干的。不过，嗯，我并不担心。没人能攻下哈勃城。}
+#{1126}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard. It's the only place civilized enough to do it.}
+{1126}{butch102}{嗯，那是人们都去晒骨场交易的地方。那是唯一一个能够文明交易的地方。}
+#{1127}{butch103}{Last I heard, he's the mayor of Adytum.}
+{1127}{butch103}{我最近听说，他是内城区的总管。}
+#{1128}{butch104}{Well, they run a big, ol' hospital on the southwest side of Downtown. Bunch of religious nuts, if you ask me.}
+{1128}{butch104}{嗯，他们在市中心的西南边开了一家大医院。你要问我的话，他们是一群宗教狂人。}
+#{1129}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
+{1129}{butch105}{他领导着晒骨场的大教堂教徒。}
+#{1130}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and sets up the hospital here in the Hub.}
+{1130}{buth105a}{简恩是大教堂教徒的高级牧师，在哈勃城建起了医院。}
+#{1131}{butch106}{I uh……heard stories, that's all. No truth to them.}
+{1131}{butch106}{我，嗯……听说了一些传说，就这些。没什么真的。}
+#{1132}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
+{1132}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出门右转。你不会错过的。}
+#{1133}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
+{1133}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
+#{1134}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
+{1134}{butch109}{好了，你……嗯……你不会想去那里的。价钱高，质量次。}
+#{1135}{butch110}{What do you want with them wackos? Jeez, all that peace preaching and tree hugging. Makes me sick.}
+{1135}{butch110}{对这些疯子你能怎样？切，那些什么和平的布道和拥抱。让我恶心。}
+#{1136}{BUTCH84}{That's me. You blind or something?}
+{1136}{BUTCH84}{那就是我。你是瞎了还是怎么了？}
+#{1137}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
+{1137}{BUTCH75}{马耳它猎鹰是西边的一个夜总会。霍普在那里唱歌。真是个美人儿。}
+#{1138}{BUTCH75}{The Maltese Falcon is a nightclub on the west side. Hope sings there. What a doll.}
+{1138}{BUTCH75}{马耳它猎鹰是西边的一个夜总会。霍普在那里唱歌。真是个美人儿。}
+#{1139}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub, just because of the Water Tower.}
+{1139}{BUTCH79}{那些杂种。就因为这水塔，达伦·海托认为他妈的哈勃城是他的。}
+#{1140}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1140}{BUTCH80}{他掌管纯水商队。他就是一个肮脏、贪婪的杂种。}
+#{1141}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me. Justin doesn't rule the roost around here.}
+{1141}{BUTCH77}{喔，他是治安官。不过你要是看见有人违法，向我报告。贾斯廷不管这里的住宅。}
+#{1142}{BUTCH81}{You can find them over on the northwest edge of Downtown. They controlled the hospital before the Children moved in. Talk about trading the strange for the weird.}
+{1142}{BUTCH81}{你可以在下城的西北边找到他们。在大教堂教徒进来前他们控制着医院。一群怪人换了另一群怪人。}
+#{1143}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{1143}{BUTCH82}{他是深红商队的老板。如果你问我的话，他是个疯子。}
+#{1144}{BUTCH83}{Don't you know where your own feet are?}
+{1144}{BUTCH83}{你知道你现在站在哪里吗？}
+#{1145}{BUTCH87}{It's south of the Merchant Market. The only source of water here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{1145}{BUTCH87}{它在商人市场的南面。是这里和周围很多地方的唯一的水源。纯水商队拥有他妈的一切。}
+#{1146}{BUTCH88}{Three of my caravans have disappeared in the past month. At first I thought it was either the Water Merchants or the Crimson Caravan, but they've had disappearances too.}
+{1146}{BUTCH88}{上个月我有三个商队失踪了。开始我以为不是纯水商队就是深红商队干的，但他们也有商队失踪。}
+#{1147}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+{1147}{BUTCH96}{他是迦克镇的市长，我就知道这些。}
+#{1148}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird.  They do make a damn fine weapon, though.}
+{1148}{BUTCH98}{喔，他们是在西北边的一群怪人。真的很怪。不过他们做的武器真他妈的不赖。}
+#{1149}{butch100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{1149}{butch100}{嗯，它是南边的一座废城。大教堂教徒、末世论者和内城区在那里，还有很多帮派和物资。}
+#{1150}{butch100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{1150}{butch100}{嗯，它是南边的一座废城。大教堂教徒、末世论者和内城区在那里，还有很多帮派和物资。}
+#{1151}{butch103}{Last I heard, he's the mayor of Adytum.}
+{1151}{butch103}{我最近听说，他是内城区的总管。}
+#{1152}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
+{1152}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出去看看。你不会错过的。}
+#{1153}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
+{1153}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出去看看。你不会错过的。}
+#{1154}{butch107}{Best prices on the best guns in town. Everyone says so, it's not just that I own it! Just trot out this door and make a right. You can't miss it.}
+{1154}{butch107}{城里最好的武器，最便宜的价钱。每个人都这么说，并不是因为我是老板！出去看看。你不会错过的。}
+#{1155}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
+{1155}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
+#{1156}{butch108}{Now there's some good eating. Bob's has got the best charred iguana this side of the desert.}
+{1156}{butch108}{还有一些好吃的。鲍勃的烤蜥蜴是沙漠这边最好的。}
+#{1157}{butch110}{What do you want with them wackos? Jeez, all that peace preaching and tree hugging. Makes me sick.}
+{1157}{butch110}{对这些疯子你能怎样？切，那些什么和平的布道和拥抱。让我恶心。}
+#{1158}{BUTCH90}{Uh, no I-I don't……Go talk to Beth, she knows more about that crap.}
+{1158}{BUTCH90}{哦，不，我，我不……去和贝斯谈谈，她对那东西知道很多。}
+#{1159}{BUTCH90}{Uh, no I-I don't……Go talk to Beth, she knows more about that crap.}
+{1159}{BUTCH90}{哦，不，我，我不……去和贝斯谈谈，她对那东西知道很多。}
+#{1160}{BUTCH91}{The Glow is a radioactive pit way, way down south.Too much radiation for anyone to live there.}
+{1160}{BUTCH91}{闪光之地是在南边很远的地方的一个辐射深坑。辐射太厉害了，没人能住在那里。}
+#{1161}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1161}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
+#{1162}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1162}{BUTCH92}{旧城区在东面。瘾君子都在那里出没。}
+#{1163}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{1163}{BUTCH99}{他领导着兄弟会。我就知道这些。}
+#{1164}{butch109}{Well, you……uh……you don't want to go there. The prices are really high and the quality's bad.}
+{1164}{butch109}{好了，你……嗯……你不会想去那里的。价钱高，质量次。}
+#{1165}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times. Got some great booze.}
+{1165}{BUTCH94}{迦克镇？是的，我往北去过那地方几次。那里的酒不错。}

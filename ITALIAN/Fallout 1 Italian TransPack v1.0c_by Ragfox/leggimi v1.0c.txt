@@ -1,0 +1,111 @@
+** PROGETTO TIFONE **
+** Traduzione Italiana Fallout **
+
+a cura di: Ragfox
+
+--------------------------
+
+Versione 1.0c (18/04/2012)
+
+--------------------------
+
+Indice:
+
+  A. Introduzione
+  B. Modifiche
+  C. Versione
+  D. Installazione
+  E. Problemi Noti
+  F. Licenza?
+  G. Responsabilità?
+  H. Ringraziamenti
+  I. Per informazioni
+
+--------------------------
+
+
+A. Introduzione
+
+Il progetto TIFONE (Traduzione Italiana FallOut: Nessuno Escluso) nasce nell'estate 2002, sull'onda del successo riscosso dall'adattamento amatoriale di Planescape: Torment realizzato dall'ormai celeberrimo ITP Team. "Anch'io - mi dissi - voglio rendere omaggio ad un gioco che a causa della mancata traduzione non ha avuto, qui in Italia, il successo che si merita". Avendo molto amato il secondo capitolo della saga post-apocalittica creata dai Black Isle Studios scelsi di tradurre proprio Fallout2. Nonostante l'adattamento di questo titolo richiedesse la traduzione di migliaia di righe di testo (4,5MB) e la modifica "a mano" di diverse immagini dell'interfaccia grafica, decisi di affrontare il lavoro da solo. E dopo lunghi mesi (circa 18) passati tra dialoghi letti e riletti, dopo estenuanti ricerche su internet, dopo ore passate nel tentativo di modificare alcuni script e dopo un bel formattone dell'harddisk, finalmente nel dicembre 2003 la Traduzione Italiana di Fallout2 era pronta.
+
+Nell'ottobre 2004 è la volta della patch per tradurre Fallout Tactics. Non ho amato particolarmente questo gioco, ma il processo di traduzione si è rivelato piuttosto interessante. FT presenta filmati non sottotitolati e ho dovuto fare qualche salto mortale per aggiungere le scritte in sovraimpressione tradotte (ascoltando ogni singola parola più e più volte per evitare di perdere anche solo una virgola di quanto viene detto). Il risultato sono dei filmati un po' meno definiti di quelli originali (il software di decompressione/compressione non può fare miracoli), ma dotati di sottotitoli in italiano.
+Un saluto va a ThingFish, che mi ha convinto a tradurre anche Fallout Tactics e Fallout e che ha tradotto il 50% dei testi del gioco strategico targato Interplay. Doveva tradurre insieme a me anche Fallout, ma ha scoperto che sono un pessimo compagno di lavoro e ha giustamente deciso di dedicarsi ad altro (scherzo... ?). Ancora grazie.
+
+E oggi, a quattro anni esatti dalla sua nascita, il Progetto TIFONE giunge all'ultimo atto. Ho dovuto fare i conti con impegni vari e con profonde "crisi di rigetto" (durante le quali non potevo vedere Fallout nemmeno dipinto) che di mese in mese provocavano ritardi su ritardi. Forse, inconsciamente, non volevo che tutto questo finisse. Perché finalmente, nel luglio 2006, la Traduzione Italiana di Fallout è pronta: sul Progetto TIFONE cala il sipario... e inizia il gioco.
+
+"La Guerra. La Guerra non cambia mai..."
+
+
+B. Modifiche
+
+Nonostante l'uscita della patch ufficiale 1.2, Fallout rimane un gioco con diversi problemi a livello di script. Alcuni dialoghi sono concatenati male, con domande a cui non fanno seguito le giuste risposte; le reazioni di alcuni PNG non sono corrette o non tengono conto della modifica di determinate variabili. Alcune quest risolte non danno punti esperienza. Si tratta di problemi piuttosto rari che non dovrebbero rovinare l'esperienza di gioco.
+
+La traduzione italiana include un intervento piuttosto importante da questo punto di vista, dal momento che aggiunge circa 20 script riveduti e corretti dal sottoscritto (Ragfox) che vanno a coprire alcuni buchi lasciati dai programmatori. Mi sono limitato alla correzione degli errori più macroscopici, ma siete liberi di segnalarmi qualsiasi anomalia incontriate durante i vostri "viaggi".
+
+NOTA: in questa versione ho preferito non includere una patch aggiuntiva (chiamata "plus") che avevo realizzato per riattivare alcuni elementi "tagliati" prima dell'uscita del gioco. La trovate comunque nella versione presente nel mio sito (vedi sotto).
+
+
+C. Versione 1.0c
+
+- Applicate alcune modifiche ai testi. Niente di sconvolgente, ma ogni tanto una rinfrescata ci vuole.
+
+
+D. Installazione
+
+1. Installate Fallout.
+
+2. Eseguite il file F1_ITA_1.0.exe e seguite le istruzioni a schermo (modificando la directory d'installazione, se avete installato Fallout in una cartella diversa da quella indicata.)
+
+3. Eseguite il file Falloutw.exe per lanciare il gioco
+
+NB. La traduzione è compatibile anche con le versioni non inglesi del gioco. Al termine dell'installazione, sarà sufficiente aprire con un normale editor di testo il file fallout.cfg (contenuto nella cartella principale del gioco), individuare la stringa che inizia con language= e sostituirla interamente con language=english.
+
+
+E. Problemi noti
+
+- Usando un PG femminile, nel 70% dei casi il dialogo presenterà degli aggettivi al maschile. Purtroppo l'inglese non ha evidenti differenze tra aggettivi femminili e maschili e i programmatori non hanno aiutato di certo il mio lavoro: solo in pochi casi, infatti, è stata prevista la possibilità di visualizzare due frasi distinte per i due generi. Il problema sarebbe risolvibile andando a modificare uno per uno gli script del gioco, ma per farlo ci vorrebbero mesi. Qualche script l'ho cambiato, è vero, ma consideratelo l'eccezione e non la regola.
+
+- Quando il PG muore compare una schermata e il narratore pronuncia una frase. I sottotitoli sono stati tradotti, ma non sembra esserci modo di implementarli nel gioco. Fortunatamente si tratta di poche frasi di scarsa importanza. Purtroppo soluzioni "alla Arcanum" (sottotitoli integrati direttamente nell'immagine) non sono possibili.
+
+- Su alcuni sistemi le frasi del narratore non vengono riprodotte correttamente. Per ristabilirle bisogna disattivare l'accelerazione hardware dell'audio dal pannello di controllo delle directx (Esegui>dxdiag.exe).
+
+- Nella zona del Boneyard i programmatori sono stati costretti a tagliare alcune quest e la più importante di quelle rimaste ha un bug piuttosto fastidioso: [SPOILER!] Salvando e ricaricando il gioco o uscendo dalla mappa di Adytum *dopo* aver avvertito Razor della vostra intenzione di parlare nuovamente con Zimmerman, ma *prima* di esservi effettivamente confrontati con il sindaco della città, c'è il rischio che l'attacco dei Blade non si verifichi mai, impedendo la riuscita della quest. Esiste una patch non ufficiale che dovrebbe risolvere il problema, ma l'effettiva efficacia e la compatibilità con la traduzione non è stata provata. Basta comunque un po' d'accortezza (ovvero non lasciare Adytum prima di aver parlato con Zimmerman, salvare il gioco solo prima di aver informato Razor delle proprie intenzioni e solo dopo che nella mappa di Adytum compaiono i Blade) e tutto dovrebbe filare liscio.[FINE SPOILER]
+Non esitate a contattarmi per eventuali dubbi.
+
+- I sottotitoli dei filmati sono presenti ma non sono attivati di default. È necessario farlo attraverso il menu delle opzioni presente all'interno del gioco.
+
+- Può capitare che improvvisamente la schermata diventi completamente nera e che si "ripulisca" spostando il cursore o aprendo una finestra (es. il menu). Per risolvere il problema dovrebbero esserci alcuni metodi attuabili, per trovare i quali suggerisco di affidarsi a un motore di ricerca.
+
+- Talvolta, lanciando l'eseguibile di Fallout compare un messaggio di errore: "Not enough free hard disk space. Fallout requires at least 20.0 megabytes of free hard disk space". Per poter giocare tranquillamente, aprite il file fallout.cfg (nella cartella principale del gioco) e cercate la stringa free_space=20480; modificate il valore 20480 con 0 (< - è uno zero: alla fine dovrà esserci scritto free_space=0 ). 
+
+- La compatibilità con patch non ufficiali non è garantita.
+
+- La traduzione è stata realizzata sulla versione 1.1. Molte edizioni europee sono già aggiornate all'ultima patch ufficiale (1.2). Non dovrebbero esserci problemi di incompatibilità.
+
+
+F. Licenza ?
+
+Il file F1_ITA_1.0.exe (e versioni successive), distribuito insieme a questo documento, è un prodotto amatoriale realizzato non a scopo di lucro. Il file F1_ITA_1.0.exe (e versioni successive) è quindi da intendersi come un prodotto freeware liberamente distribuibile, a patto che: a. la sua distribuzione sia gratuita; 
+b. il file F1_ITA_1.0.exe (e versioni successive) non venga modificato da terzi; 
+c. si indichi sempre l'autore del file F1_ITA_1.0.exe (e versioni successive), ovvero Ragfox.
+
+-
+Fallout è © 1997 Interplay Productions (e BlackIsle Studios). 
+Fallout e Interplay sono (tm) di InterPlay Productions. Tutti i restanti trademarks sono di proprietà dei rispettivi proprietari. 
+I diritti per l'Italia sono di proprietà Digital Bros. divisione Halifax. 
+
+
+G. Responsabilità ?
+
+L'autore di questa patch non è in alcun modo responsabile di eventuali problemi a livello software e hardware verificatisi nel periodo di tempo successivo all'installazione della presente patch. La patch è solo una raccolta di file che non va a modificare nulla né a livello di sistema operativo né a livello di hardware.
+
+
+H. Ringraziamenti
+
+No Mutants Allowed, RPGPlayer, TeamX, la gente che ha aspettato pazientemente, chi invece si è lamentato per il ritardo, chi mi ha sostenuto e chi invece no. Insomma... Grazie a tutti!
+
+
+I. Per informazioni e suggerimenti
+
+Ragfox: ragfox@gmail.com
+http://www.oldgamesitalia.net/

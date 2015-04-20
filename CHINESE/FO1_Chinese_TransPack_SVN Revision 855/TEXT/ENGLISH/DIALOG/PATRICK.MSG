@@ -1,0 +1,175 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a man in studded leather armor with an odd assortment of
+# knick-knacks.}
+{100}{}{你看到一个穿着皮革装甲的男人，盔甲上布满了奇怪的装饰品。}
+
+#{101}{}{You see Patrick, the Celt.}
+{101}{}{你看到帕特里克，一个凯尔特人。}
+
+#{102}{}{Greetings, traveler. What brings you out this far?}
+{102}{}{你好，旅行者。你大老远来有什么事？}
+
+#{103}{}{Just wandering.}
+{103}{}{闲逛而已。}
+
+#{104}{}{Um, why are you carrying all that junk?}
+{104}{}{嘿，你为什么总带一堆垃圾？}
+
+#{105}{}{I need to find a water purification control chip.}
+{105}{}{我需要找一个净水芯片。}
+
+#{106}{}{I'm killing everybody I can get within shooting distance of. Prepare to die.}
+{106}{}{我现在见人就杀。受死吧。}
+
+#{107}{}{Lub!}
+{107}{}{哈！}
+
+#{108}{}{I see. Much like myself, then.}
+{108}{}{明白了，和我差不多嘛。}
+
+#{109}{}{Oh? You're not from one of the communities out here?}
+{109}{}{哦？你不是附近的人？}
+
+#{110}{}{Can you direct me to a nearby settlement?}
+{110}{}{你能指引我去附近的殖民地吗？}
+
+#{111}{}{So what's your story?}
+{111}{}{那么，讲讲你的故事。}
+
+#{112}{}{Well, see ya.}
+{112}{}{好吧，再见。}
+
+#{113}{}{It's not junk! It's trade goods!}
+{113}{}{这不是垃圾，这是交易的货物。}
+
+#{114}{}{Uh, right. Bye.}
+{114}{}{啊，好吧。再见。}
+
+#{115}{}{Uh huh. So what's your story?}
+{115}{}{啊哈。那么讲讲你的故事？}
+
+#{116}{}{Hmm. Haven't seen one of those before. What seems to be the trouble?}
+{116}{}{哈。我从来没见过。有问题？}
+
+#{117}{}{This chip controls water purification for my Vault. It's blown out, though.}
+{117}{}{这是控制我们避难所水处理系统的芯片。但是它坏了。}
+
+#{118}{}{It's broken.}
+{118}{}{它坏掉了。}
+
+#{119}{}{I wander from place to place, making a living with music and a little bit
+# of tinkering work.}
+{119}{}{我从一处游荡到另一处，靠街头唱歌卖艺和打打零工维生。}
+
+#{120}{}{What kind of work do you do?}
+{120}{}{你做什么样的工作？}
+
+#{121}{}{What kind of music do you sing?}
+{121}{}{你的歌是什么音乐风格？}
+
+#{122}{}{Well, it's good to meet you. Bye.}
+{122}{}{好的，见到你很高兴。再见。}
+
+#{123}{}{Using the coastline as a referent, you've got Shady Sands about a week
+# inland, and Junktown a few days south of there. Hub's just another couple days
+# south of Junktown. Avoid Necropolis to the east of those, though. Not worth
+# the trouble.}
+{123}{}{以海岸线作为参考，你向内陆走大概1个星期到达沙荫镇，向南几天的功夫可以到迦克镇。再向南2天吧，你会到哈勃城。不要向东走，那里叫大墓地，没必要去找麻烦。}
+
+#{124}{}{What do you know about Shady Sands?}
+{124}{}{你对沙荫镇知道点什么？}
+
+#{125}{}{What do you know about Junktown?}
+{125}{}{你对迦克镇知道点什么？}
+
+#{126}{}{What do you know about the Hub?}
+{126}{}{你知道哈勃城些什么？}
+
+#{127}{}{What do you know about Necropolis?}
+{127}{}{你知道大墓地些什么？}
+
+#{128}{}{I don't think I could help you with that. I never had much of a chance to
+# study pre-war Vault technology.}
+{128}{}{我帮不了你。我从没有什么机会去学习战前避难所的技术。}
+
+#{129}{}{Mostly a little electrical and mechanical tinkering. I helped Junktown with
+# their lights and showed the people in Shady Sands a better design for their
+# stoves.}
+{129}{}{通常是电、机械方面的修理。例如迦克镇的照明啊，我让沙荫镇的人用上更好的炉子。}
+
+#{130}{}{Really? Think you could fix a water chip?}
+{130}{}{真的？你能修好水处理芯片吗？}
+
+#{131}{}{Oh, mostly old folk songs and some Celtic music. It's a change of pace.}
+{131}{}{哦，都是些老民谣，还有一些凯尔特音乐。我对别的风格没什么兴趣。}
+
+#{132}{}{Would you happen to know "Na Gheala Mbeadh", as I think it's called?}
+{132}{}{你知道“Na Gheala Mbeadh”吗，应该是这么叫的吧。}
+
+#{133}{}{I see. What else do you do?}
+{133}{}{明白了，你还做些什么？}
+
+#{134}{}{Shady Sands is a small, self-sufficient community led by Aradesh, a kind
+# man and strong leader. They are peaceful and hard-working. They are probably the
+# best chance for a new civilization here.}
+{134}{}{沙荫镇是个自给自足的小镇。亚拉德什是一个和蔼、强壮的领袖。他们平静、努力工作。这里可能真的机会产生新的文明吧。}
+
+#{135}{}{Shady Sands is a small farming community. They were led by a good man
+# named Aradesh, but I've heard he's gone. It's a pity. Without him I don't know
+# if they'll survive.}
+{135}{}{沙荫镇是个农业结构的社区。他们被一个叫亚拉德什的人领导着，不过我听说他已经不在了，太遗憾了。没有他，不知道这里能不能继续生存下去。}
+
+#{136}{}{Junktown? A small trading city. Strange place until you get used to it.
+# They are run by mayor Killian Darkwater, a hard but fair man.}
+{136}{}{迦克镇？一个小商业城市，你要刚去可能会不习惯，那是个奇怪的地方。他们的市长叫基利安，脾气不好但人不错。}
+
+#{137}{}{Junktown? A small trading city. Strange place until you get used to it.
+# They are run by Gizmo, a gambling mogul and crime-lord.}
+{137}{}{迦克镇？一个小商业城市，你要刚去可能会不习惯，那是个奇怪的地方。那里被吉斯莫控制着，一个无恶不作的赌徒。}
+
+#{138}{}{Junktown? A small trading city. Not too remarkable.}
+{138}{}{迦克镇？一个小商业城市，很一般，没什么可以说的。}
+
+#{139}{}{The Hub is a major trading center. It's said that you can find anything
+# there, and I'd say that's not too far wrong.}
+{139}{}{哈勃城是主要的商业中心。你能找到所需要的一切东西，这里应该是个不错的选择。}
+
+#{140}{}{Necropolis is the city of the dead. It's inhabited by ghouls, the
+# descendants of humans who sought shelter in a Vault there. Story goes that the
+# Vault failed somehow, so now the only inhabitants are carrion-eating monsters.}
+{140}{}{大墓地是个死亡之城。那里住着僵尸，它们以前是一个避难所的人类的后代。后来听说那避难所出了点事，导致现在那里唯一的居民都是吃腐肉的怪物。}
+
+#{141}{}{It was overrun by an army of mutants last I heard. I'd stay away from
+# there, if I were you.}
+{141}{}{我最近听说到那里被一群变种人军队控制着。如果我是你，我就躲的远远的。}
+
+#{142}{}{Do you suppose that Vault might have parts that I could salvage?}
+{142}{}{那个避难所里有可能还残存能用的零件吗？}
+
+#{143}{}{Possibly, but I for one wouldn't risk the ghouls. Latest word is they've
+# some sort of powerful new leader.}
+{143}{}{可能吧，不过我才不会去冒险打扰那些僵尸呢。听说他们近来有了个强大的新领袖。}
+
+#{144}{}{Why, certainly. Would you like to hear it?}
+{144}{}{为什么不？你真想听吗？}
+
+#{145}{}{Sure.}
+{145}{}{当然。}
+
+#{146}{}{Nah.}
+{146}{}{不用，我就是客气下。}
+
+#{147}{}{【Patrick sings songs and the two of you reminisce for several hours. You
+# feel invigorated.】}
+{147}{}{【帕特里克唱起了歌，你们两个都陷入了回忆中好久。你感觉受到了鼓舞。】}
+
+#{148}{}{Hello again. Can I help you?}
+{148}{}{又见面了，我能帮你点什么？}
+
+#{149}{}{Yeah, can you give me some directions?}
+{149}{}{是啊，能给我指点一些路么？}
+
+#{150}{}{No, never mind, thanks.}
+{150}{}{不，没关系，谢谢了。}

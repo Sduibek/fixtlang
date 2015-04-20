@@ -1,0 +1,698 @@
+{1099}{}{?}
+{1199}{}{马克松可以告诉你：Brotherhood－兄弟会、Mathia－玛蒂雅、Cabbot－卡波特、Vree－弗蕾、Library－图书馆、Rhombus－隆勃斯、Elder－最高元老、Elders－元老、Initiates－新兵、Scribes－研究员、Knights－骑士、Paladins－游侠、Hub－哈勃、Butch－布奇、Traders－远足商会、Merchants－水商队、Disks－磁碟、Player－读碟机、Roger－罗杰、Exodus－大迁徙、Army－军队、Cathedral－大教堂、Angel's－洛杉矶、Gangs－帮派、Adytum－内城区、Claw－死亡爪、Harris－哈里斯、Maxson－马克松、Angels－洛杉矶、Boneyard－晒骨场、Master－主教、War－大战、Caravans－远足商队、Chip－芯片。}
+
+
+# {100}{}{You see General Maxson.}
+# {101}{}{What's the Brotherhood really about?}
+# {102}{}{I'll bet you know a lot of the history behind the Brotherhood.}
+# {103}{}{Heard any good rumors?}
+# {104}{}{I have some information to report.}
+# {105}{}{That's all. Thanks.}
+# {106}{Gen_1}{Hello, youngster. Cabbot said you wanted to talk. Look I'm uh . . .
+ # I'm pretty stacked up right now, so I'll uh . . . I'll help you out as long
+ # as you don't start flappin' your gums too much. You know, outsiders are like that,
+ # always jawin' . . . Hehehe. Kinda like me, huh?}
+# {107}{}{Outsiders? What do you mean by that?}
+# {108}{}{How 'bout a few questions then?}
+# {109}{Gen_2}{I can't. I just moderate these endless damn meetings. There's four Elders,
+ # and me, you see? I break up fights and tie votes. Now, if all four vote to pick our
+ # noses while an army rolls in here and kicks our collective butt, there's not a helluva
+ # lot I can do about it.}
+# {110}{}{Oh, well.}
+# {111}{}{That stinks. Why don't you do something?}
+# {112}{Gen_2a}{Tradition. It's hard to change our ways. Now, maybe if the Elders had some real info, they'd get off their brains and do something.}
+# {113}{Gen_3}{An Initiate not born here. You're the first Outsider we've let join in
+ # a long, long time. Well, near on twenty years now. }
+# {114}{}{Why me?}
+# {115}{}{I'm flattered. How about some of those questions now?}
+# {116}{Gen_4}{Because we need to do something. An army's gatherin', Hub-caravans are
+ # disappearin', and our scouts sure as hell ain't gettin' the job done.
+ # So the Elders actually did something once and figured the right
+ # Outsider might have something to offer. That Outsider is you... We hope.}
+# {117}{}{What army?}
+# {118}{}{What about these missing caravans?}
+# {119}{}{Hmm. I guess there are some more things I need to ask then.}
+# {120}{}{What's the problem with the scouts?}
+# {121}{}{I have some info you might want.}
+# {122}{Gen_5}{When we heard about the missing caravans, we sent out a few
+ # scouts east and the north. The ones who went north never returned. One came
+ # back from the east. He talked about a score of strange beings, all muscle
+ # with burnin' eyes. The Elder's aren't doin' squat, but I'm getting ready
+ # just the same.}
+# {123}{}{Twenty isn't an army. Why are you worried?}
+# {124}{}{Sounds like your guy baked in the sun too long.}
+# {125}{}{I'll do what I can.}
+# {126}{}{Did he say where to the east?}
+# {127}{}{I have some info you might want.}
+# {128}{Gen_6}{They may or may not be good scouts, but don't question
+ # the truthfulness of my men. We can revoke your Initiate status at any time.}
+# {129}{}{Sounds like you need me more than I need you.}
+# {130}{}{Sorry.}
+# {131}{Gen_7}{That's it. I warned the Elders that bringin' in an Outsider could be trouble. (shouting aside) Guards! There's an Initiate here who needs some quiet time to discover some manners. }
+# {132}{Gen_8}{You're an Outsider, but I expect you to learn our ways. I'll be watching. Now, ask your questions. }
+# {133}{Gen_9}{Good. Anything else you need to ask? }
+# {134}{Gen_10}{Deep in the mountains. He couldn't be more specific.}
+# {135}{}{Too bad. Can I ask you a few more questions?}
+# {136}{}{What about to the north?}
+# {137}{}{Go ahead. }
+# {138}{Gen_11a}{Yeah, Fire away.}
+# {139}{Gen_11b}{Sure.}
+# {140}{Gen_11c}{Shoot.}
+# {141}{Gen_12}{I got a gut feeling there's a small force in the east and
+ # a much bigger one in the north. The Elders are collecting dust because
+ # none of the scouts returned from the north. I can't do anything but watch.}
+# {142}{}{Well, I'll do what I can.}
+# {143}{}{Why don't you do something?}
+# {144}{}{I think I'm in a bit over my head. Count me out.}
+# {145}{}{I have some info on that.}
+# {146}{Gen_13}{Well the Merchants from the Hub told us a bunch of caravans
+ # disappeared on their way up north. I think there's an army in the mountains,
+ # but the Elders, well, they don't want to act until they're sure. }
+# {147}{}{Where did they disappear?}
+# {148}{}{Aren't you the High Elder? Why don't you do something?}
+# {149}{}{Didn't you do anything?}
+# {150}{}{I have some info on that.}
+# {151}{Gen_14}{The word I got was that the caravans disappeared around the
+ # southern tip of the mountains to the east. I imagine the Hub merchants can probably
+ # tell you more.}
+# {152}{}{Thanks. I've got some more questions, if that's okay.}
+# {153}{}{Thanks. I'll talk to you later.}
+# {154}{}{I have some info on that.}
+# {155}{Gen_15g}{See you around, Initiate. You're not so bad...for an Outsider.}
+# {156}{Gen_15n}{Goodbye, Initiate.}
+# {157}{Gen_15b}{Goodbye!}
+# {158}{Gen_16}{I grew up too isolated here. Can you imagine spending your whole life inside one small place, then having to go out into the world? }
+# {159}{}{Well, as a matter a fact . . .}
+# {160}{}{I guess I'm destined to be your scout, then.}
+# {161}{}{So because they didn't get out, I get to do your dirty work. Forget it.}
+# {162}{Gen_17}{Then you understand the problem. To survive, we need someone who knows the outside. Like you. }
+# {163}{}{Ok, I'll do it.}
+# {164}{}{I've got my own problems. I pass.}
+# {165}{Gen_18}{Well . . . with what I guess is coming, we don't have time for anyone
+ # who's gonna . . . not contribute. Now, you either work with us, or you take a hike.}
+# {166}{}{Well, if you put it that way, I'm in.}
+# {167}{}{Looks like a nice day for a stroll.}
+# {168}{Gen_19}{Your choice. Hope you can live with it. }
+# {169}{Gen_20}{What? It's who we are and what we live for. It's ideals. As you spend
+ # more time with us, hopefully, you'll understand.}
+# {170}{}{Yeah, but what do you actually do?}
+# {171}{}{I'm not too sure about this.}
+# {172}{Gen_21}{Our main goal is to survive. The Scribes copy old plans for weapons or design new ones, and the Knights make the guns from 'em. Most guns come from us.}
+# {173}{}{You trade the weapons to the Hub?}
+# {174}{}{That's all you do?}
+# {175}{}{Makes sense. There's a couple of other things I need to ask.}
+# {176}{Gen_22}{That's the way we get our supplies.}
+# {177}{}{Okay, I get it. There's a couple of other things I need to ask.}
+# {178}{}{Okay. I need to get going now, though.}
+# {179}{}{Guess I'm not too sure about this.}
+# {180}{Gen_23}{All? It's damn important. It's critical to our survival.}
+# {181}{}{Whatever. I need to ask a few more questions.}
+# {182}{}{Yeah, well, it's stupid.}
+# {183}{}{Ok, thanks. I really should be going now, though.}
+# {184}{Gen_26}{Then you need to get sure. Because being unsure is bound to get you killed.}
+# {185}{}{The more I know, the more sure I'll be.}
+# {186}{Gen_28}{Look I don't have time for a story that long right now. Here. All of us grew up on this. }
+# {187}{Gen_29n}{There's rumors concerning the missing caravans in the Hub, as well as the strange army brewing in the eastern mountains. }
+# {188}{}{Ok.}
+# {189}{}{What army?}
+# {190}{}{What about these missing caravans?}
+# {191}{}{I have some info on that.}
+# {192}{Gen_29b}{I don't take stock in rumors. }
+# {193}{Gen_30}{Ahh . . . Hello again, Initiate. Are things going well? }
+# {194}{}{Pretty good. Can I ask you a few more questions?}
+# {195}{}{Well, actually, it sucks.}
+# {196}{}{Yes, thanks, but I gotta go.}
+# {197}{Gen_32}{I'm sorry we're not what you're used to but you could show a little self-discipline. }
+# {198}{}{Sorry. Can I ask you a few more questions?}
+# {199}{}{Why? This place is a joke?}
+# {200}{}{I have to get going. Bye.}
+# {201}{Gen_34}{What the hell do you want now? }
+# {202}{}{I want to know why an idiot is in charge here.}
+# {203}{}{I need to ask a few more questions.}
+# {204}{}{Never mind, thanks.}
+# {205}{Gen_35}{Whaddya got? }
+# {206}{}{Sorry, I didn't really have anything.}
+# {207}{}{The Hub caravans are being taken by huge, green mutants. They're gathering an army.}
+# {208}{}{There's a large army to the north controlled by someone called the Master.}
+# {209}{Gen_36}{You've seen 'em? This might actually get the Elders to do something.
+ # I'm gonna get on this, thanks!}
+# {210}{Gen_38}{Uh . . . What's he plan to do with this . . . army of his? }
+# {211}{}{He plans to take over the Brotherhood, the Hub, Junktown . . . everyone.}
+# {212}{}{How much you paying for this information?}
+# {213}{Gen_39}{Finally! Well this'll get the Elders  off their butts. We'll fortify the Fortress and surprise those damn mutants.}
+# {214}{}{No! You don't understand. They are turning people into mutants and adding them to their army.}
+# {215}{}{Okay.}
+# {216}{Gen_40}{So?}
+# {217}{}{So, by the time they get here, they'll be unstoppable. And they have advanced weapons, like yours. You don't stand a chance.}
+# {218}{}{Well, okay. Maybe digging in is the right thing.}
+# {219}{Gen_41}{So what's your alternative?}
+# {220}{}{Help me attack the Master's base. I know where it is.}
+# {221}{Gen_42}{Hmmm. Not a bad plan. Tell you what, let me go try and beat it into the Elders. No guarantees, but I'll try.}
+# {222}{Gen_43}{Then get out. I have work to do.}
+# {223}{Gen_44}{Pretty interesting set of priorities and loyalties you got there.}
+# {224}{}{Loyal to me. 500 in Hub script. Take it or leave it.}
+# {225}{}{Oh . . . yeah. Okay, I'll tell you. He plans to take over everyone and everything.}
+# {226}{Gen_44a}{I'll take it. We need the information to save lives.}
+# {227}{}{Pretty simple. He's changing humans into mutants and he's got advanced weapons. He plans to take over everything.}
+# {228}{Gen_44b}{Well, if he does, hope you find a place to use your scripts.}
+# {229}{Gen_45}{Well, how about nothing! Guards, kick this fool out. By God!
+ # We'll defend the Brotherhood without your damn help.}
+# {230}{Gen_46}{What do you think you're doing? Put that down. Put it down now!}
+# {231}{Gen_47}{That's it. Guards! Take this idiot away!}
+# {232}{Gen_48}{Hey, hey, hey, hey! Hold on now. Stop that. Stop it right now!}
+# {233}{Gen_49}{Like I said...}
+# {234}{Gen_50}{I said...}
+# {235}{Gen_51}{I am not in the habit of repeating myself. So open your ears.}
+# {236}{Gen_52}{Look I told ya' already. It's not my fault if you didn't get it.}
+# {237}{Gen_52a}{That's where you are. You want the long version, go talk to Vree.}
+# {238}{Gen_52b}{Mathia's my assistant.}
+# {239}{Gen_53}{Oh, he's a good kid, even if he does want to be a Scribe.}
+# {240}{Gen_54}{Vree's the head Scribe.  She's usually in the Library, she always likes to talk. }
+# {241}{Gen_55}{We keep weapon specs and history there.}
+# {242}{Gen_56}{Rhombo's been here a long time. A bit stiff, but a helluva soldier.}
+# {243}{Gen_58}{Hehehe. A fine, handsome, upstanding man. The High Elder position is to mediate the meetings between the Elders. You see, two years ago I got talked into it. If I'd of known then...}
+# {244}{Gen_59}{Well you see there's four of them and that's about all they can ever agree on. They can't even agree if they want to piss, much less pick a pot to piss in.}
+# {245}{Gen_60}{Well that's what you are. Initiates train and learn to become knights or scribes.}
+# {246}{Gen_61}{Well, Scribes copy down the weapon specs. We've got information all the way back to
+ # my granddad. Sometimes a scribe comes up with a new idea for a weapon. Hehehe. Doesn't happen too often.
+ # They all answer to Vree.}
+# {247}{Gen_62}{The Knights make the weapons. And when he's good enough, a Knight can advance to become a Paladin and then an Elder and so forth. Right now Rhombus is the head of the Knights.}
+# {248}{Gen_63}{Paladins are in charge of all security and outside activities. I remember tradin' with the Hub, goin' on scouting missions for the Elders. Ah man, those ware a good times.}
+# {249}{Gen_64}{The Hub's down to the southeast. They trade us food and things for the weapons we make here. Now if you're ever down there, you talk to Butch Harris.}
+# {250}{Gen_65}{Butch is the head of the Far Go Traders. He's a little slimy, but he's not a total waste. Unlike those Water Merchants. Bunch of damn vultures, all of 'em.}
+# {251}{Gen_66}{They're the main ones we trade with. Not totally trustworthy, but not as bad as the others. }
+# {252}{Gen_67}{You can't trust them. A few years ago, they offered us Water for a huge stockpile of weapons. We told them no, and you know what they did? Sent in thieves to steal the weapons! We caught 'em, but the Elders voted down going to the Hub to teach the merchants a lesson.}
+# {253}{Gen_68}{Holo discs? Hmm? I haven't seen those in a while.}
+# {254}{Gen_69}{Vree has it someplace in the Library.}
+# {255}{Gen_70}{Roger Maxson huh? Well he led our people here in the great Exodus, started the Brotherhood from scratch. Quite a leader.}
+# {256}{Gen_71}{Well that was when my granddad, Roger Maxson, led his soldiers here and started the Brotherhood. He never mentioned where they came from, but it  doesn't really matter, 'cause...well, this is our home now.}
+# {257}{Gen_72}{Well I believe there's an army massing to the north and in the mountains to the east, but I don't have any way to prove it. The Elders, they won't even listen. }
+# {258}{Gen_73}{A bunch of religious whackos, if you ask me. I think their main church is in the Boneyard.}
+# {259}{Gen_75}{Well I don't know a lot. There's a bunch of gangs around there, as well as Adytum and the Children of the Cathedral. Not much else. It's pretty damn desolate.}
+# {260}{Gen_76}{Well, there's not much to tell. I never ran into any of them. I've heard they're a problem for the people of Adytum, though.}
+# {261}{Gen_77}{That's a settlement down in the Boneyard. I went there...oh...a long time ago. I was on a scouting mission for the Elders.}
+# {262}{Gen_78}{Oh. Just another stupid rumor. Some people say it's a huge fanged monster and others say it's a vampire.}
+# {263}{Gen_79}{Oh, I don't know anything about that.}
+# {264}{Gen_80}{What was that? No. I don't believe I've ever heard of it.}
+# {265}{Gen_81a}{Hell if I know.}
+# {266}{}{Surprised to see me? And let you have all the fun?}
+# {267}{}{How did you convince the Elders?}
+# {268}{Gen_82a}{Oh wasn't hard at all.  I just calmly explained the situation. And bingo here we are. Lead on, my friend.}
+# {269}{Gen_83}{What are you doing in here? This is for Elders.}
+# {270}{}{Sorry, I'll just leave.}
+# {271}{}{I don't care, I'm staying.}
+# {272}{Gen_84}{Good, now shut the door on the way out.}
+# {273}{Gen_84a}{I'm telling you, Do not interfere.}
+# {274}{Gen_85}{Ha! You forget. I used to teach this stuff.}
+# {275}{Gen_86}{Contrary to opinion, we don't want soldiers will no brains whatsoever.}
+# {276}{Gen_87}{Well, I suggest you talk to my assistant, Mathia, about that.}
+# {300}{}{Maybe you can tell me? Everyone here seems to be on edge. It's like
+ # you are getting ready to go to war, but no one knows with who.}
+# {301}{}{Do you have any clues as to what's behind the disappearance of the caravans?}
+# {302}{}{I'll go scout out the area to the north and then report what I find.}
+# {303}{}{For 500 caps, I'll check out what's going on up there.}
+# {304}{}{For 1000 caps, I'll check out what's going on up north.}
+# {305}{}{I'm not sure if I want to get involved right now.}
+# {306}{}{Would it be possible for me to get a hold of some better weapons?}
+# {307}{}{Just a few questions first.}
+# {308}{}{No, I'll see you after I find out what's going on up there.}
+# {309}{}{Ok, bye}
+# {310}{}{How do you know that your scouts didn't desert?}
+# {311}{}{I believe I have ran into these creatures you are describing. They are not to be
+ # taken lightly.}
+# {312}{}{Please forgive me. What do you think is the cause of the disappearance?}
+# {313}{}{Go ahead. Revoke it. See if I care.}
+# {314}{}{Sorry, but it would be too risky for me to go up there right now.}
+# {315}{}{Alright, I'll go, but can I get some better weapons first?}
+# {316}{}{Ok, I'll do it for 1000 caps.}
+# {317}{}{Take it or leave it.}
+# {318}{}{Nevermind.}
+# {319}{}{Ok, Ok, I'll do it for free.}
+# {320}{}{Very well, I'll see you when I get back.}
+# {321}{}{I have found proof that it is this army which is causing that disappearance
+ # of the caravans. It is an army of mutants. You have good reason to be worried. They look very
+ # formidable.}
+# {322}{}{It's apparent that someone needs to go up there and check it out.}
+# {323}{}{It's going to take more than a "gut feeling" to get me to risk my life
+ # by going up there.}
+# {324}{}{I consider my life to be a fairly important priority.}
+# {325}{}{I just don't think I am ready for the task.}
+# {326}{}{I'm loyal to only one person.}
+# {327}{}{I can.}
+# {328}{}{Duh?}
+# {329}{}{Why does it seem that everyone here is on edge?  Everyone here seems to be on edge. It's like
+ # you are getting ready to go to war, but no one knows with who.}
+# {330}{}{I need to talk to you about the disappearance of the caravans. Do you have
+ # any insight on the matter.}
+# {331}{}{Nevermind.}
+# {332}{}{I need to ask you some questions.}
+# {333}{}{Duh?}
+# {334}{}{I have some information on the area north of here.}
+# {335}{}{Can I ask you some questions?}
+# {336}{}{Nevermind.}
+# {337}{}{Sorry, I didn't really have anything.}
+# {338}{}{I saw their base. It's crawling with mutants.}
+# {339}{}{I saw the mutant base to the north. They follow a leader they call the Master.}
+# {340}{}{You can't play defense on this one Maxson.}
+# {341}{}{Well, it's obvious something needs to be done. It would be best if we attack the
+ # mutants before they attack us. We're going to need the Elders on our side for this one.}
+# {342}{}{I'm not quite sure what we should do about it right now. Let
+ # me gather some more information, and I'll get back to you.}
+# {343}{}{He plans to take over any human settlements he can.}
+# {344}{}{What can you tell me about the Brotherhood's history?}
+# {345}{}{What is the Brotherhood's main purpose?}
+# {346}{}{Who are the Elders?}
+# {347}{}{Do you know anything about the Deathclaw?}
+# {348}{}{Nevermind.}
+# {349}{}{Can I ask you another question?}
+# {350}{}{Thank you.}
+# {351}{}{You gain }
+# {352}{}{ experience points for scouting the Northern area.}
+
+
+# TRANSLATION NOTE: The following groups of  lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+
+
+# {353}{Gen_3}{An Initiate not born here. You're the first Outsider we've let join in
+ # a long, long time. Well, near on twenty years now. }
+# {354}{Gen_3}{An Initiate not born here. You're the first Outsider we've let join in
+ # a long, long time. Well, near on twenty years now. }
+# {355}{Gen_6}{They may or may not be good scouts, but don't question
+ # the truthfulness of my men. We can revoke your Initiate status at any time.}
+# {356}{Gen_6}{They may or may not be good scouts, but don't question
+# the truthfulness of my men. We can revoke your Initiate status at any time.}
+# {357}{Gen_15n}{Goodbye, Initiate.}
+# {358}{Gen_15n}{Goodbye, Initiate.}
+# {359}{Gen_30}{Ahh . . . Hello again, Initiate. Are things going well? }
+# {360}{Gen_30}{Ahh . . . Hello again, Initiate. Are things going well? }
+
+# {400}{}{I've been to the Mutant base in the north. Let's just say they are no longer a
+# threat.}
+
+
+# General Maxson Tell-Me-Abouts generic responses
+# {980}{Gen_79}{Oh, I don't know anything about that.}
+# {981}{Gen_80}{What was that? No. I don't believe I've ever heard of it.}
+# {982}{Gen_81a}{Hell if I know.}
+
+#
+# General Maxson Tell-Me-Abouts
+#
+
+
+# {1000}{}{Brotherhood}
+# {1001}{}{Mathia}
+# {1002}{}{Cabbot}
+# {1003}{}{Vree}
+# {1004}{}{Library}
+# {1005}{}{Rhombus}
+# {1006}{}{Elder}
+# {1007}{}{Elders}
+# {1008}{}{Initiates}
+# {1009}{}{Scribes}
+# {1010}{}{Knights}
+# {1011}{}{Paladins}
+# {1012}{}{Hub}
+# {1013}{}{Butch}
+# {1014}{}{Traders}
+# {1015}{}{Merchants}
+# {1016}{}{Disks}
+# {1017}{}{Player}
+# {1018}{}{Roger}
+# {1019}{}{Exodus}
+# {1020}{}{Army}
+# {1021}{}{Cathedral}
+# {1022}{}{Angel's}
+# {1023}{}{Gangs}
+# {1024}{}{Adytum}
+# {1025}{}{Claw}
+# {1026}{}{Harris}
+# {1027}{}{Maxson}
+# {1028}{}{Angels}
+# {1029}{}{Boneyard}
+# {1030}{}{Master}
+# {1031}{}{War}
+# {1032}{}{Caravans}
+# {1033}{}{Chip}
+
+# {1100}{Gen_52a}{That's where you are. You want the long version, go talk to Vree.}
+# {1101}{Gen_52b}{Mathia's my assistant.}
+# {1102}{Gen_53}{Oh, he's a good kid, even if he does want to be a Scribe.}
+# {1103}{Gen_54}{Vree's the head Scribe.  She's usually in the Library, she always likes to talk. }
+# {1104}{Gen_55}{We keep weapon specs and history there.}
+# {1105}{Gen_56}{Rhombo's been here a long time. A bit stiff, but a helluva soldier.}
+# {1106}{Gen_58}{Hehehe. A fine, handsome, upstanding man. The High Elder position is to mediate the meetings between the Elders. You see, two years ago I got talked into it. If I'd of known then...}
+# {1107}{Gen_59}{Well you see there's four of them and that's about all they can ever agree on. They can't even agree if they want to piss, much less pick a pot to piss in.}
+# {1108}{Gen_60}{Well that's what you are. Initiates train and learn to become knights or scribes.}
+# {1109}{Gen_61}{Well, Scribes copy down the weapon specs. We've got information all the way back to
+# my granddad. Sometimes a scribe comes up with a new idea for a weapon. Hehehe. Doesn't happen too often.
+# They all answer to Vree.}
+# {1110}{Gen_62}{The Knights make the weapons. And when he's good enough, a Knight can advance to become a Paladin and then an Elder and so forth. Right now Rhombus is the head of the Knights.}
+# {1111}{Gen_63}{Paladins are in charge of all security and outside activities. I remember tradin' with the Hub, goin' on scouting missions for the Elders. Ah man, those ware a good times.}
+# {1112}{Gen_64}{The Hub's down to the southeast. They trade us food and things for the weapons we make here. Now if you're ever down there, you talk to Butch Harris.}
+# {1113}{Gen_65}{Butch is the head of the Far Go Traders. He's a little slimy, but he's not a total waste. Unlike those Water Merchants. Bunch of damn vultures, all of 'em.}
+# {1114}{Gen_66}{They're the main ones we trade with. Not totally trustworthy, but not as bad as the others. }
+# {1115}{Gen_67}{You want to hear about the Water Merchants. Hehehe, well you can't trust them. A few years ago, they offered us Water for a huge stockpile of weapons. We told them no, and you know what they did? Sent in thieves to steal the weapons! We caught 'em, but the Elders voted down going to the Hub to teach the merchants a lesson.}
+# {1116}{Gen_68}{Holo discs? Hmm? I haven't seen those in a while.}
+# {1117}{Gen_69}{Vree has it someplace in the Library.}
+# {1118}{Gen_70}{Roger Maxson huh? Well he led our people here in the great Exodus, started the Brotherhood from scratch. Quite a leader.}
+# {1119}{Gen_71}{Well that was when my granddad, Roger Maxson, led his soldiers here and started the Brotherhood. He never mentioned where they came from, but it  doesn't really matter, 'cause...well, this is our home now.}
+# {1120}{Gen_72}{Well I believe there's an army massing to the north and in the mountains to the east, but I don't have any way to prove it. The Elders, they won't even listen. }
+# {1121}{Gen_73}{A bunch of religious whackos, if you ask me. I think their main church is in the Boneyard.}
+# {1122}{Gen_75}{Well I don't know a lot. There's a bunch of gangs around there, as well as Adytum and the Children of the Cathedral. Not much else. It's pretty damn desolate.}
+# {1123}{Gen_76}{Well, there's not much to tell. I never ran into any of them. I've heard they're a problem for the people of Adytum, though.}
+# {1124}{Gen_77}{That's a settlement down in the Boneyard. I went there...oh...a long time ago. I was on a scouting mission for the Elders.}
+# {1125}{Gen_78}{Oh. Just another stupid rumor. Some people say it's a huge fanged monster and others say it's a vampire.}
+# {1126}{Gen_65}{Butch is the head of the Far Go Traders. He's a little slimy, but he's not a total waste. Unlike those Water Merchants. Bunch of damn vultures, all of 'em.}
+# {1127}{Gen_70}{Roger Maxson huh? Well he led our people here in the great Exodus, started the Brotherhood from scratch. Quite a leader.}
+# {1128}{Gen_75}{Well I don't know a lot. There's a bunch of gangs around there, as well as Adytum and the Children of the Cathedral. Not much else. It's pretty damn desolate.}
+# {1129}{Gen_75}{Well I don't know a lot. There's a bunch of gangs around there, as well as Adytum and the Children of the Cathedral. Not much else. It's pretty damn desolate.}
+# {1130}{Gen_80}{What was that? No. I don't believe I've ever heard of it.}
+# {1131}{Gen_71}{Well that was when my granddad, Roger Maxson, led his soldiers here and started the Brotherhood. He never mentioned where they came from, but it  doesn't really matter, 'cause...well, this is our home now.}
+# {1132}{Gen_65}{Butch is the head of the Far Go Traders. He's a little slimy, but he's not a total waste. Unlike those Water Merchants. Bunch of damn vultures, all of 'em.}
+# {1133}{Gen_81a}{Hell if I know.}
+
+{100}{}{你看到马克松将军。}
+{101}{}{钢铁兄弟会到底是什么组织？}
+{102}{}{我打赌你知道钢铁兄弟会的许多过去的事。}
+{103}{}{最近有什么重要消息？}
+{104}{}{我有一些事情要报告。}
+{105}{}{就这些。谢谢。}
+{106}{Gen_1}{嘿，小伙子。卡波特说你想谈谈。你看，我现在，嗯……我现在太忙了，而且，至少要等你把嘴里的口香糖嚼完，我才能和你好好聊啊。你也知道，外面的人都喜欢这样，嚼口香糖……呵呵，有点象我，嗯？}
+{107}{}{外面的人？这是什么意思？}
+{108}{}{那么，问几个问题怎么样？}
+{109}{Gen_2}{我不能。我正在主持这些该死的无休止的会议。这里有我和四个元老，你明白吗？我负责劝架和查点选票。如果这会子正好有一帮敌人开过来干架，而四大长老又刚投票决定我们一起挖鼻屎，那么我们就只能挖鼻屎了，其他什么都不能干。}
+{110}{}{哦，好吧。}
+{111}{}{这可真是的，你为什么不找点事情做？}
+{112}{Gen_2a}{传统。我们的行为模式很难改变的。现在，如果元老们能获取一些有用的信息，他们也许会停止争论，并采取一些措施。}
+{113}{Gen_3}{你不是出身在这里的。很长，很长时间以来，你是第一个加入我们的外人。嗯，大约差不多有20年了。}
+{114}{}{为什么是我？}
+{115}{}{我受宠若惊。现在问一些问题怎么样？}
+{116}{Gen_4}{因为我们需要人去做一些事情。附近出现了不明军队，几个哈勃城的商队消失了，我们的侦察兵也很难胜任调查任务。所以，元老们实际上也不是成天在这里耍嘴皮子的，他们还是做了一个正确的决定，让外面的人帮忙我们做事。而你就是那个外面的人。}
+{117}{}{什么军队？}
+{118}{}{失踪的商队是怎么回事？}
+{119}{}{嗯。我想我还需要问一些事情。}
+{120}{}{侦察兵出了什么事情？}
+{121}{}{我有一些信息你可能需要。}
+{122}{Gen_5}{当我们听说了失踪商队的事情后，我们向东面和北面派出了一些侦察兵。北面的一去不复返。一个士兵从东面回来了。他谈到了二十个奇怪的生物，浑身肌肉，眼里放火。元老们无动于衷，我却立即开始准备起来。}
+{123}{}{二十个不是一支军队，你担心什么？}
+{124}{}{听起来，你的人在地洞里呆惯了，去外面太长时间晒晕了。}
+{125}{}{我将尽力而为。}
+{126}{}{他说过是东面哪里了吗？}
+{127}{}{我有一些信息你可能需要。}
+{128}{Gen_6}{他们也许不是好的侦察兵，但是不要质疑我士兵的忠诚。我们可以随时吊销你的会籍。}
+{129}{}{听起来，你们需要我比我需要你多的多。}
+{130}{}{对不起。}
+{131}{Gen_7}{不出所料，我提醒过元老们引进外来者将会带来麻烦。【一旁呼喊声】警卫！这里有个新加入者需要一些时间来学会礼貌。}
+{132}{Gen_8}{你是个外来者，但是我希望你能学会我们的行为方式。我将注意你。现在，可以提问了。}
+{133}{Gen_9}{很好，还需要问些什么？}
+{134}{Gen_10}{在山脉的深处，他说的不是很具体。}
+{135}{}{真糟糕，我能再问你一些问题吗？}
+{136}{}{那北面呢？}
+{137}{}{继续。}
+{138}{Gen_11a}{好，提问吧。}
+{139}{Gen_11b}{当然。}
+{140}{Gen_11c}{说话。}
+{141}{Gen_12}{我的直觉告诉我东面有一小股的军事力量而北面才是大规模的。因为没有侦察兵从北面回来，元老们什么信息都没有收集到。我只能眼巴巴的看着确做不了任何事。}
+{142}{}{好吧，我将尽力而为。}
+{143}{}{为什么你不做些事情？}
+{144}{}{我有点糊涂了，我做不了。}
+{145}{}{关于那个我有点信息。}
+{146}{Gen_13}{哈勃城的商人们告诉我，商队在去北面的路上消失了。我认为在山里有股军队。但是，元老们认为除非我们有肯定的证据否则不会采取行动的。}
+{147}{}{他们在哪里消失的？}
+{148}{}{你不就是最高元老吗？你为什么不做一些事情？}
+{149}{}{你什么行动都没采取？}
+{150}{}{关于那个我有点信息。}
+{151}{Gen_14}{我得到的信息是，商队消失于东面山区的南部。我猜想哈勃城的商人们可能会提供更多的信息给你。}
+{152}{}{谢谢。如果可以的话，我有一些问题要问。}
+{153}{}{谢谢。稍后我和你谈谈。}
+{154}{}{关于那个我有点信息。}
+{155}{Gen_15g}{回头见。新加入者，对于一个外来者而言你还不赖。}
+{156}{Gen_15n}{再见，新加入者。}
+{157}{Gen_15b}{再见！}
+{158}{Gen_16}{我在这个封闭的空间里长大。你能想象你的一生都在这个小地方里渡过, 然后不得不走到外面的世界去吗？}
+{159}{}{其实我也……}
+{160}{}{我想我逃脱不了成为你的侦察兵的命运了。}
+{161}{}{正是因为他们出不去，所以我要去干这个脏活，不行！}
+{162}{Gen_17}{现在你知道这些情况了。为了生存，我们需要像你这样了解外面的外来者。}
+{163}{}{好吧，我干了。}
+{164}{}{我自己有点小麻烦，我闪人。}
+{165}{Gen_18}{嗯……正如我所料，我们不会在一个不愿意奉献的人身上浪费时间。现在，你要么为我们工作，要么滚蛋！}
+{166}{}{好吧，如果你这样说的话，我就干了。}
+{167}{}{今天是个散步的好天气。}
+{168}{Gen_19}{这是你的选择。别后悔。}
+{169}{Gen_20}{什么？那是我们之所以存在、我们之所以生活的原因，那是理想。只要你继续和我们在一起，也许你就能理解。}
+{170}{}{哦，你们究竟在做什么？}
+{171}{}{关于这个我不太肯定。}
+{172}{Gen_21}{我们主要的目的是为了生存。研究员抄写武器的旧式图纸并设计出新的武器，骑士根据图纸制造枪。外面世界的大多数的枪都来自我们。}
+{173}{}{你和哈勃城贸易枪支？}
+{174}{}{就这些？}
+{175}{}{有道理。我需要问的一些其他的事。}
+{176}{Gen_22}{这是我们获得补给的方式。}
+{177}{}{好吧，我知道了。另外有些问题我想问一下。}
+{178}{}{好吧。我现在要离开了。}
+{179}{}{我猜我还是不太清楚。}
+{180}{Gen_23}{就这些？这是非常的重要的。这对我们的生存是非常重要。}
+{181}{}{不管怎样，我需要问一些问题。}
+{182}{}{嗯，这是愚蠢的。}
+{183}{}{好吧。谢谢。我现在要离开了。}
+{184}{Gen_26}{那么你需要学会肯定。如果你不肯定，将会使你被干掉。}
+{185}{}{我知道的越多，我越肯定。}
+{186}{Gen_28}{我没有时间长篇大论的讲故事。这里，我们从小就是看这个长大的。}
+{187}{Gen_29n}{在哈勃城有个关于失踪商队的谣言，而且在东面的山里有股军队在壮大。}
+{188}{}{好。}
+{189}{}{什么军队？}
+{190}{}{失踪的商队是怎么回事？}
+{191}{}{关于那个我有点信息。}
+{192}{Gen_29b}{我又不是收藏消息的人。}
+{193}{Gen_30}{呃……很高兴又见到你，新加入者。事情进展的顺利？}
+{194}{}{相当的好。我能问你几个问题吗？}
+{195}{}{呃，实际上，真令人厌烦。}
+{196}{}{是的，谢谢，但是我必须走了。}
+{197}{Gen_32}{抱歉，我们不是你习惯的那样，但是你也应该表现出一些自律。}
+{198}{}{抱歉，我可以问你一些问题吗？}
+{199}{}{为什么？这个地方是个笑话？}
+{200}{}{我必须走了，再见。}
+{201}{Gen_34}{你他妈的现在想干什么？}
+{202}{}{我想要知道一个白痴为什么能掌管这里。}
+{203}{}{我需要问一些问题。}
+{204}{}{别介意，谢谢。}
+{205}{Gen_35}{你发现了什么？}
+{206}{}{抱歉，没有任何进展。}
+{207}{}{哈勃城的商队是被巨大的、绿色的变种人俘虏的。他们正在集结一支军队。}
+{208}{}{在北面有一支被叫做主教的人控制的大规模的军队。}
+{209}{Gen_36}{你见到他们了？这可能会说服元老们采取一些措施。我要忙这件事情去了。谢谢。}
+{210}{Gen_38}{嗯……他集结军队有什么计划？}
+{211}{}{他打算征服兄弟会，哈勃城，迦克镇……每一个人。}
+{212}{}{这个信息你要多少报酬？}
+{213}{Gen_39}{终于有了让这将元老们行动的证据了。我们将加固我们的城堡，出其不意地击溃那些该死的变种人。}
+{214}{}{不是的！你不明白。他们把人变成变种人来扩充他们的军队。}
+{215}{}{好吧。}
+{216}{Gen_40}{所以？}
+{217}{}{所以，当他们到达这里的时候，他们将不可阻挡。而且他们象你们一样拥有先进的武器。你根本没有机会。}
+{218}{}{好吧。也许稳守是个好的选择。}
+{219}{Gen_41}{你的替代方案是什么？}
+{220}{}{帮助我进攻主教的基地。我知道他在哪里。}
+{221}{Gen_42}{嗯，这个计划还可以，让我去说服那些元老。我不敢保证成功，但我尽力。}
+{222}{Gen_43}{现在，出去。我还有事情要做。}
+{223}{Gen_44}{你的原则和立场很有问题啊。}
+{224}{}{想要我有立场，给我500个瓶盖，不干就拉倒。}
+{225}{}{哦，耶，好吧，我会告诉你的。他打算征服所有的人和事。}
+{226}{Gen_44a}{我接受你的条件，我们需要信息来拯救性命。}
+{227}{}{很简单。他把人类变成变种人，他拥有先进的武器。他打算征服一切。}
+{228}{Gen_44b}{如果他成功了，希望你能找到个地方花你那些钱。}
+{229}{Gen_45}{好吧，一毛不给你怎么样！警卫！让这个傻瓜滚蛋。上帝保佑！没有你的帮忙我们照样保卫兄弟会。}
+{230}{Gen_46}{你在做什么？把那个放下来，现在把他放下来！}
+{231}{Gen_47}{就这样！警卫，把这个傻瓜带走！}
+{232}{Gen_48}{嘿、嘿、嘿、嘿！别动！住手！马上住手！}
+{233}{Gen_49}{正如我说过的……}
+{234}{Gen_50}{我说过……}
+{235}{Gen_51}{我没有重复的习惯。竖起耳朵给我听好。}
+{236}{Gen_52}{好像我已经告诉过你了。你不知道不是我的错。}
+{237}{Gen_52a}{你现在就在这里啊。如果想听长故事，去找弗蕾。}
+{238}{Gen_52b}{马蒂雅是我的助手。}
+{239}{Gen_53}{哦，虽然他想当一名研究员，但他还只是一个乖乖宝。}
+{240}{Gen_54}{弗蕾是研究员的主管。她经常在图书馆里，她爱聊天。}
+{241}{Gen_55}{我们把武器的说明书和历史保存在那里。}
+{242}{Gen_56}{隆伯斯来这里很长一段时间了，他有点死板，但绝对是一个好战士。}
+{243}{Gen_58}{嘿嘿。一个善良、英俊和正直的男人。高级元老的职责是在元老会议上斡旋。你看，两年前我被说服干这岗位。如果我当时知道是这样……}
+{244}{Gen_59}{你看，他们有四个，总是难以达成共识。就是是否用尿壶撒尿这样的事情也不能敲定。}
+{245}{Gen_60}{这就是你现在的头衔啊，新兵要训练，以后学习成为骑士或者研究员。}
+{246}{Gen_61}{嗯，研究员们记录下武器的设计副本。从我爷爷那时候起的所有信息资料我们都有记录。有时研究员会灵光一现，为一个武器提出一个新的主意。呵呵，并不经常出现。他们都归弗蕾管。}
+{247}{Gen_62}{骑士制造武器。如果他够棒的话，一个骑士可以晋级为游侠、元老等等。现在隆伯斯是骑士的头。}
+{248}{Gen_63}{游侠们掌管所有的保卫和外事活动。我还记得当年我与哈勃城贸易，为元老们做侦察活动。那些日子爽啊。}
+{249}{Gen_64}{哈勃城在这里的东南方。他们用食物和东西交换我们在这制造的枪。如果你到那里，你可以和布奇·哈里斯谈谈。}
+{250}{Gen_65}{布奇是远行商队的头。他有一点点面，但不是一个废物。和那些供水商不同，那些家伙都是贪心汉。}
+{251}{Gen_66}{他们是我们主要贸易的对象。他们并不完全的可信赖, 但是不像其他那些一样糟。}
+{252}{Gen_67}{你不要信任他们。几年前，他们用水来交换一大批武器储备。我们对他说不，你猜他们都干了些什么？竟然派小偷偷我们的武器。我们逮到了他们，但是元老们竟然投票否决到哈勃城给他们一些教训。}
+{253}{Gen_68}{全息磁盘？呃？我有一阵子没看到了。}
+{254}{Gen_69}{弗蕾在图书馆的某处有这个。}
+{255}{Gen_70}{罗杰·马克松，嗯，他在远征的时候领导我们，白手起家创建兄弟会。不错的领袖。}
+{256}{Gen_71}{指的就是当年我爷爷罗杰·马克松领导士兵来到这里并创建了兄弟会的这段故事。他从未提起他们来自哪里，但是这无关紧要，现在这里是我们的家。}
+{257}{Gen_72}{我相信有股军队在北方和山的东面集结。但是我没法证明。元老们甚至不听我的。}
+{258}{Gen_73}{一群宗教份子，如果你问我的话，我想他们的主教堂在晒骨场。}
+{259}{Gen_75}{我知道得不多。除了内城区和大教堂教徒之外，那附近还有很多帮派在活动。其他就不知道了，相当的荒凉。}
+{260}{Gen_76}{嗯，没有什么要说得，虽然他们是内城区人们的麻烦，但我从未遇见过他们。}
+{261}{Gen_77}{在晒骨场有一个定居点。很久很久以前，当我为元老们做侦察兵的时候我去过那里。}
+{262}{Gen_78}{哦，另一个愚蠢的谣言，一些人说它是一个巨齿怪兽，另一些人说它是一个吸血鬼。}
+{263}{Gen_79}{哦，关于那个我什么都不知道。}
+{264}{Gen_80}{那是什么？我不曾听说过。}
+{265}{Gen_81a}{我知道才怪呢。}
+{266}{}{见到我很吃惊吧？我怎么能让你一个人独享欢乐？}
+{267}{}{你怎样说服元老的？}
+{268}{Gen_82a}{哦，一点都不难。我只是从容解释情况。结果就搞定了。要会用手段，我的朋友。}
+{269}{Gen_83}{你在这干什么？这是元老们的地方。}
+{270}{}{抱歉，我正想离开。}
+{271}{}{我不管，我留在这儿。}
+{272}{Gen_84}{很好，关上门出去。}
+{273}{Gen_84a}{我告诉过你，不要介入。}
+{274}{Gen_85}{哈！你忘了。我就是教人做这个的。}
+{275}{Gen_86}{相反的意见，我们不希望士兵们不长脑子。}
+{276}{Gen_87}{好吧，我建议你和我的助手马蒂雅谈谈那事。}
+
+
+{300}{}{也许你可以告诉我？每个人在这里似乎十分紧张。看上去你好像已经准备好了战斗，但是没人知道是跟谁。}
+{301}{}{你有没有关于商队失踪的线索？}
+{302}{}{我将对北面区域进行侦察，并回来汇报我发现了什么。}
+{303}{}{500个瓶盖，我将检查一下那里发生了什么。}
+{304}{}{1000个瓶盖，我将检查北面发生了什么。}
+{305}{}{我不肯定我现在想介入。}
+{306}{}{我能得到一些好的武器么？}
+{307}{}{首先问一些问题。}
+{308}{}{不，在我检查那里发生了什么之后我再见你。}
+{309}{}{好的，再见。}
+{310}{}{你怎么知道你的侦察兵没有开小差？}
+{311}{}{我相信我已经遇到过你描述的那些怪物了。他们是不可轻视的。}
+{312}{}{请原谅我的冒昧，你认为什么原因导致他们消失的呢？}
+{313}{}{去啊。去吊销我的会籍，看我介意不。}
+{314}{}{抱歉，我现在去那里太危险。}
+{315}{}{好吧，我去，但是我能先拿一些好的武器吗？}
+{316}{}{好吧，1000个瓶盖我就干。}
+{317}{}{要么成，要么拉倒。}
+{318}{}{算了。}
+{319}{}{好吧，好吧，我免费干。}
+{320}{}{很好，回头见。}
+{321}{}{我发现了是一支军队导致商队失踪的证据。是变种人的军队。你有理由担心。他们看起来很强大。}
+{322}{}{看来需要某人去那里侦察一下。}
+{323}{}{冒着生命危险去那里绝非仅需要勇气能实现的。}
+{324}{}{我认为我保命要紧。}
+{325}{}{我认为我不合适那个任务。}
+{326}{}{我只对我自己忠诚。}
+{327}{}{我能。}
+{328}{}{呃？}
+{329}{}{为什么每个人这里似乎都很紧张？每个人看起来都很紧张。看上去你好像已经准备好了战斗，但是没人知道是跟谁。}
+{330}{}{我需要和你谈谈失踪商人的事情。你对此事有何见解？}
+{331}{}{算了。}
+{332}{}{我需要问你一些问题。}
+{333}{}{呃？}
+{334}{}{关于北面我有一些消息、}
+{335}{}{我可以问你一些问题吗？}
+{336}{}{算了。}
+{337}{}{抱歉。我真的什么都没有。}
+{338}{}{我看到他们的基地。到处都是变种人。}
+{339}{}{我看到北面有他们的基地。他们追随的领导叫主教。}
+{340}{}{你守不住的，马克松。}
+{341}{}{好吧，很明显的要做点事。最好我们在变种人攻击我们之前先攻击他们。这次我们需要元老们站在我们这边。}
+{342}{}{我不确定现在我们要做些什么。让我收集一些信息，然后回头见。}
+{343}{}{他的计划是尽力征服任何人类的殖民地。}
+{344}{}{关于兄弟会的历史你能告诉我什么？}
+{345}{}{兄弟会的主要目的是什么？}
+{346}{}{元老们是谁？}
+{347}{}{你知道关于死爪的事情吗？}
+{348}{}{算了。}
+{349}{}{我能问你一些问题吗？}
+{350}{}{谢谢。}
+{351}{}{你侦察北面区域。得到}
+{352}{}{点经验值。}
+{353}{Gen_3}{你不是出身在这里的。很长，很长时间以来，你是第一个加入我们的外人。嗯，大约差不多有20年了。}
+{354}{Gen_3}{你不是出身在这里的。很长，很长时间以来，你是第一个加入我们的外人。嗯，大约差不多有20年了。}
+{355}{Gen_6}{他们也许不是好的侦察兵，但是不要质疑我士兵的忠诚。我们可以随时吊销你的会籍。}
+{356}{Gen_6}{他们也许不是好的侦察兵，但是不要质疑我士兵的忠诚。我们可以随时吊销你的会籍。}
+{357}{Gen_15n}{再见，新兵。}
+{358}{Gen_15n}{再见，新兵。}
+{359}{Gen_30}{啊……你好，新兵，近来可好？}
+{360}{Gen_30}{啊……你好，新兵，近来可好？}
+
+{400}{}{我已经去过北面变种人的基地了。他们不再是个威胁了。}
+
+# General Maxson Tell-Me-Abouts generic responses
+{980}{Gen_79}{哦，我不知道那个的任何事情。}
+{981}{Gen_80}{那是什么？我不曾听说过。}
+{982}{Gen_81a}{我知道才怪呢。}
+
+#
+# General Maxson Tell-Me-Abouts
+#
+
+{1000}{}{Brotherhood}
+{1001}{}{Mathia}
+{1002}{}{Cabbot}
+{1003}{}{Vree}
+{1004}{}{Library}
+{1005}{}{Rhombus}
+{1006}{}{Elder}
+{1007}{}{Elders}
+{1008}{}{Initiates}
+{1009}{}{Scribes}
+{1010}{}{Knights}
+{1011}{}{Paladins}
+{1012}{}{Hub}
+{1013}{}{Butch}
+{1014}{}{Traders}
+{1015}{}{Merchants}
+{1016}{}{Disks}
+{1017}{}{Player}
+{1018}{}{Roger}
+{1019}{}{Exodus}
+{1020}{}{Army}
+{1021}{}{Cathedral}
+{1022}{}{Angel's}
+{1023}{}{Gangs}
+{1024}{}{Adytum}
+{1025}{}{Claw}
+{1026}{}{Harris}
+{1027}{}{Maxson}
+{1028}{}{Angels}
+{1029}{}{Boneyard}
+{1030}{}{Master}
+{1031}{}{War}
+{1032}{}{Caravans}
+{1033}{}{Chip}
+
+{1100}{Gen_52a}{你现在就在这里啊。如果想听长故事，去找弗蕾。}
+{1101}{Gen_52b}{马蒂雅是我的助手。}
+{1102}{Gen_53}{哦，虽然他想当一名研究员，但他还只是一个乖乖宝。}
+{1103}{Gen_54}{弗蕾是研究员的主管。她经常在图书馆里，她爱聊天。}
+{1104}{Gen_55}{我们把武器的说明书和历史保存在那里。}
+{1105}{Gen_56}{隆伯斯来这里很长一段时间了，他有点死板，但绝对是一个好战士。}
+{1106}{Gen_58}{嘿嘿。一个善良、英俊和正直的男人。高级元老的职责是在元老会议上斡旋。你看，两年前我被说服干这岗位。如果我当时知道是这样……}
+{1107}{Gen_59}{他们有四个，总是难以达成共识。就是是否用尿壶撒尿这样的事情也不能敲定。}
+{1108}{Gen_60}{这就是你现在的头衔啊，新兵要训练，以后学习成为骑士或者研究员。}
+{1109}{Gen_61}{嗯，研究员们记录下武器的设计副本。从我爷爷那时候起的所有信息资料我们都有记录。有时研究员会灵光一现，为一个武器提出一个新的主意。呵呵，并不经常出现。他们都归弗蕾管。}
+{1110}{Gen_62}{骑士制造武器。如果他够棒的话，一个骑士可以晋级为游侠、元老等等。现在隆伯斯是骑士的头。}
+{1111}{Gen_63}{游侠们掌管所有的保卫和外事活动。我还记得当年我与哈勃城贸易，为元老们做侦察活动。那些日子爽啊。}
+{1112}{Gen_64}{哈勃城在下面的东南处。他们用食物和东西交换我们在这制造的枪。如果你从未到过那里，你可以和布奇.哈里斯谈谈。}
+{1113}{Gen_65}{布奇是远足商队的头。他有一点点面，但不是一个废物。和那些供水商不同，那些家伙都是贪心汉。}
+{1114}{Gen_66}{他们是我们主要贸易的对象。他们并不完全的可信赖, 但是不像其他那些一样糟。}
+{1115}{Gen_67}{你不要信任他们。几年前，他们用水来交换一大批武器储备。我们对他说不，你猜他们都干了些什么？竟然派小偷偷我们的武器。我们逮到了他们，但是元老们竟然投票否决到哈勃城给他们一些教训。}
+{1116}{Gen_68}{全息磁盘？呃？我有一阵子没看到了。}
+{1117}{Gen_69}{弗蕾在图书馆的某处有这个。}
+{1118}{Gen_70}{罗杰·马克松，嗯，他在远征的时候领导我们，白手起家创建兄弟会。不错的领袖。}
+{1119}{Gen_71}{指的就是当年我爷爷罗杰·马克松领导士兵来到这里并创建了兄弟会的这段故事。他从未提起他们来自哪里，但是这无关紧要，现在这里是我们的家。}
+{1120}{Gen_72}{我相信有股军队在北方和山的东面集结。但是我没法证明。元老们甚至不听我的。}
+{1121}{Gen_73}{一群宗教份子，如果你问我的话，我想他们的主教堂在晒骨场。}
+{1122}{Gen_75}{我知道得不多。除了内城区和大教堂教徒之外，那附近还有很多帮派在活动。其他就不知道了，相当的荒凉。}
+{1123}{Gen_76}{嗯，没有什么要说得，虽然他们是内城区人们的麻烦，但我从未遇见过他们。}
+{1124}{Gen_77}{在晒骨场有一个殖民地。很久很久以前，当我为元老们做侦察兵的时候我去过那里。}
+{1125}{Gen_78}{哦，另一个愚蠢的谣言，一些人说它是一个巨齿怪兽，另一些人说它是一个吸血鬼。}
+{1126}{Gen_65}{布奇是商队的的头。他有一点令人讨谈，但他不是一个废物。布奇跟所有的供水商不同，他一点也不贪。}
+{1127}{Gen_70}{罗杰·马克松，嗯，他在远征的时候领导我们，白手起家创建兄弟会。不错的领袖。}
+{1128}{Gen_75}{我知道得不多。除了内城区和大教堂教徒之外，那附近还有很多帮派在活动。其他就不知道了，相当的荒凉。}
+{1129}{Gen_75}{我知道得不多。除了内城区和大教堂教徒之外，那附近还有很多帮派在活动。其他就不知道了，相当的荒凉。}
+{1130}{Gen_80}{那是什么？我不认为我曾经听说它。}
+{1131}{Gen_71}{指的就是当年我爷爷罗杰·马克松领导士兵来到这里并创建了兄弟会的这段故事。他从未提起他们来自哪里，但是这无关紧要，现在这里是我们的家。}
+{1132}{Gen_65}{布奇是远行商队的头。他有一点点面，但不是一个废物。和那些供水商不同，那些家伙都是贪心汉。}
+{1133}{Gen_81a}{我知道这个才怪。}

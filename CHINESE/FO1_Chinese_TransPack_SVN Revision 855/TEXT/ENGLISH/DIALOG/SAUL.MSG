@@ -1,0 +1,199 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Saul, the boxer.}
+{100}{}{你看见拳手索尔。}
+#{101}{}{You see a tough-looking, muscular man.}
+{101}{}{你看见一个外表强壮，浑身肌肉的男人。}
+#{102}{}{He has muscles toughened by years of fighting, and a light-footed stance
+# characteristic of a skilled boxer.}
+ {102}{}{他有着多年搏斗而得以强健的肌肉和作为一个熟练拳手所特有的矫健身姿。}
+#{103}{}{Oh. Well, good luck.}
+{103}{}{哦，好的，祝你好运。}
+#{104}{}{This isn't the time or place for weapons, friend. But if you care
+# to try me sometime in the ring, feel free.}
+{104}{}{这不是耍武器的时间或地点，朋友。但如果你什么时候想在拳台上和我比划，随时奉陪。}
+#{105}{}{What do you want?}
+{105}{}{你想要什么？}
+#{106}{}{Yes?}
+{106}{}{嗯？}
+#{107}{}{What do you do here?}
+{107}{}{你在这干嘛？}
+#{108}{}{A tough guy, eh? I bet I could take you.}
+{108}{}{一个猛男，嗯？我赌我能击败你。}
+#{109}{}{My name's }
+{109}{}{我的名字是}
+#{110}{}{. Just taking a look around.}
+{110}{}{。只是随便观光的。}
+#{111}{}{【Saul laughs heartily.】 Why, I am a boxer!}
+{111}{}{【索尔满怀激情地笑着。】我是一个拳手！}
+#{112}{}{Ah, I could kick your ass.}
+{112}{}{哈，我能踢你的屁股。}
+#{113}{}{Hmm. What's the deal?}
+{113}{}{哼呒。有什么交易？}
+#{114}{}{Uh, no thanks.}
+{114}{}{啊，算了，谢谢。}
+#{115}{}{Saul is unconscious.}
+{115}{}{索尔失去知觉了。}
+{116}{}{}
+{117}{}{}
+{118}{}{}
+{119}{}{}
+{120}{}{}
+{121}{}{}
+{122}{}{}
+{123}{}{}
+#{124}{}{ 【Saul laughs heartily.】}
+{124}{}{【索尔满怀激情地笑着。】}
+#{125}{}{ 【Saul laughs threateningly.】}
+{125}{}{【索尔险恶地笑着。】}
+#{126}{}{All right. This should be quick.}
+{126}{}{好的。这应该很快。}
+#{127}{}{Put up or shut up.}
+{127}{}{要么来，要么闭嘴。}
+#{128}{}{Well, you're in the right place if you're looking for someone to pound
+# that ugly mug of yours into a better shape.}
+ {128}{}{好，如果你在找某人来把你那丑脸痛揍成一个较好的造型，你算是来对地方了。}
+#{129}{}{I'm Saul.}
+{129}{}{我是索尔。}
+#{130}{}{Uh, no thanks. Can I ask you some questions?}
+{130}{}{嗯，算了。我能问你些问题吗？}
+#{131}{}{So, you been living in Junktown long?}
+{131}{}{所以，你长时间来住在迦克镇？}
+#{132}{}{Well, nice to meet ya. Later.}
+{132}{}{嗯，很高兴见到你。过会见。}
+#{133}{}{Yes.}
+{133}{}{是的。}
+#{134}{}{I've been here all my life. Grew up here.}
+{134}{}{我这辈子都住在这儿。在这儿长大。}
+#{135}{}{What can you tell me about Junktown?}
+{135}{}{你能告诉我关于迦克镇的什么吗？}
+#{136}{}{How did you become a boxer?}
+{136}{}{你怎么成为一个拳手的？}
+#{137}{}{Hmm. Well, stranger, I work for Gizmo. He's the owner of that great
+# casino there. Pays good money to fighters here, too! What else do you want to
+# know?}
+ {137}{}{嗯，好的，陌生人，我为吉斯莫工作。他是那个大赌场的拥有者。他也付给这儿的拳手好报酬！你还想知道什么？}
+#{138}{}{What is there to do here?}
+{138}{}{那人在这儿都干什么呢？}
+#{139}{}{Can you tell me a bit about Gizmo and that casino?}
+{139}{}{你能告诉我一点关于吉斯莫和那赌场的事吗？}
+#{140}{}{Been boxing for a few years.}
+{140}{}{干拳击这行一些年了。}
+#{141}{}{I was always getting into scuffles with my brothers when I grew up.
+# One time a small band of raiders attacked Junktown, and I beat one into
+# submission before he could get his gun on me. Just luck, really, but Gizmo
+# was sponsoring organized fights, and I needed some money. Been boxing
+# ever since.}
+{141}{}{在我成长之时，我总是和我的兄弟们扭打在一起。一次一小伙歹徒袭击了吉斯莫，我在一个歹徒能拔枪对准我之前把他打得讨饶。只是运气，真的，不过吉斯莫那时赞助有组织的拳击，而我需要一些钱。从那时起就打拳了。}
+#{142}{}{What happened to your brothers?}
+{142}{}{你的弟兄们怎么了？}
+#{143}{}{So what is there to do in this town?}
+{143}{}{那么那个人在这个镇上做什么的？}
+#{144}{}{Can you tell me about your boss?}
+{144}{}{你能告诉我关于你老板的事吗？}
+#{145}{}{If you are just looking for supplies, you should try Killian Darkwater's
+# store, off southeast of here. You can also get a night's sleep at the Crash
+# House near here. If you are planning to stay a while, you might want to get
+# a drink over at the Skum Pitt, but watch out for the Skulz.}
+{145}{}{如果你只是在找补给，你应该去基利安·黑水的店，这儿东南边的远处。你也能在这儿附近的破屋区睡上一晚。如果你准备待一阵子的话，你该想去对面的斯卡姆·匹特的酒吧喝上一杯，但是留神骷髅党。}
+#{146}{}{Who're the Skulz?}
+{146}{}{骷髅党是哪路神仙？}
+#{147}{}{So, tell me more about the casino.}
+{147}{}{那么，再告诉我一些关于赌场的事。}
+#{148}{}{Gizmo's casino is where everybody goes to gamble. There are many games
+# and you can have a great time! It's the best place this side of the Hub!}
+ {148}{}{吉斯莫的赌场是每个人都跑去赌博的地方。那儿有许多游戏，你能玩得很爽！那是除了哈勃城这边的最好的地方了。}
+#{149}{}{What else is there to do around here?}
+{149}{}{那个人还在这附近做什么呢？}
+#{150}{}{My brother James was killed in a raider attack a few years ago. Shortly
+# after that, my other brother, Darrell, gathered together some things and set
+# off south towards a mythical place called the Glow, in search of the treasure of
+# the ancients, or something like that. He never came back.}
+ {150}{}{我的兄弟詹姆斯很多年以前在一次歹徒袭击中被杀害了。那之后不久，我另一个兄弟，达雷尔，攒了一些东西便向南出发朝向一个叫闪光之地的神秘地方，寻找古代的财宝，或者一些类似的东西。他从没有回来。}
+#{151}{}{Why do you stay in Junktown?}
+{151}{}{为什么你待在迦克镇？}
+#{152}{}{Uh, can we change the subject?}
+{152}{}{嗯，我们能换个话题吗？}
+#{153}{}{I'm sorry to hear of your loss.}
+{153}{}{我很抱歉得知了你的痛苦。}
+#{154}{}{What do you know about this legendary place, the Glow?}
+{154}{}{你知道什么有关这个传说中的地方吗，闪光之地？}
+#{155}{}{Thank you. It's been a few years, but I still don't like to talk about
+# it much.}
+ {155}{}{谢谢。这已经一些年了，但是我仍然不想谈论太多这事。}
+#{156}{}{So, can I ask you some questions?}
+{156}{}{那么，我能问你些问题吗？}
+#{157}{}{I live here. I like boxing, I have a good life with Trish, and I have
+# no desire to go elsewhere.}
+ {157}{}{我住在这儿。我喜欢拳击，我与特里诗过得很愉快，而且我没有去其它地方的冲动。}
+#{158}{}{Oh. Well, that's good. Mind if we change the subject?}
+{158}{}{哦。这样啊，那不错。介意我换个话题吗？}
+#{159}{}{Yes, I've met Trish.}
+{159}{}{是的，我已经遇到过特里诗。}
+#{160}{}{Well, what?}
+{160}{}{嗯，什么？}
+#{161}{}{What can I help you with?}
+{161}{}{我能帮你什么忙吗？}
+#{162}{}{What is there to do here?}
+{162}{}{那个人在这儿干些什么？}
+#{163}{}{Can you tell me a little about your boss?}
+{163}{}{你能再告诉我一些关于你老板的事吗？}
+#{164}{}{【You pat your weapon】 I'd like you to meet my little friend.}
+{164}{}{【你轻拍你的武器】我想你见见我的小朋友。}
+#{165}{}{Thanks for chatting. See you around.}
+{165}{}{闲谈受益匪浅。别处见。}
+#{166}{}{The Skulz are a bad bunch who hang out in the back of the Crash House and
+# at the Skum Pitt. Watch out for them; they like playing with knives.}
+{166}{}{骷髅党是一帮在迦克镇破屋区后边和斯卡姆·匹特酒吧游荡的坏蛋。留神他们；他们喜欢玩弄刀子。}
+#{167}{}{Thanks for the tip. I'll watch my step.}
+{167}{}{感谢你的提示。我会当心的。}
+#{168}{}{I see. Anything else you can tell me about?}
+{168}{}{我明白了。还有什么你能告诉我的吗？}
+#{169}{}{Well, be sure to keep your hands off, eh?}
+{169}{}{好，切记不要乱摸，嗯？}
+#{170}{}{She's very important to me.}
+{170}{}{她对我很重要。}
+#{171}{}{ 【Saul frowns.】 But she doesn't like my boxing. She doesn't seem to
+# understand that it's what I want to do.}
+{171}{}{【索尔皱了皱眉。】但是她不喜欢我搞拳击。她不见得明白这是我想做的。}
+#{172}{}{She's concerned for your welfare. She probably can't stand to see you
+# getting beaten up and risking your life for Gizmo. If you don't find a
+# compromise, you could lose her.}
+{172}{}{她关心你的幸福。她可能不能忍受看见你被打倒在地，为吉斯莫冒生命危险。如果你不找一个折衷的办法，你会失去她。}
+#{173}{}{I think she's worried about you.}
+{173}{}{我想她是担心你。}
+#{174}{}{So, shall we talk about something else?}
+{174}{}{那么，我们是不是谈些其它的？}
+#{175}{}{Well, see you later.}
+{175}{}{好，待会见。}
+#{176}{}{I never thought of it that way. I figured that she just didn't like
+# boxing. I suppose I will have to talk to her more about this. Thanks.}
+{176}{}{我从没这样想过这事。我认为她只是不喜欢拳击。我猜想我不得不再与她多谈谈这事。谢了。}
+#{177}{}{Ah, she just doesn't like boxing, is all.}
+{177}{}{呃，她只是不喜欢拳击，这就是全部。}
+#{178}{}{Well, can we talk about something else?}
+{178}{}{好，我们能谈论些别的事吗？}
+#{179}{}{See you around.}
+{179}{}{别处见。}
+#{180}{}{You again. What now?}
+{180}{}{又是你。这回什么事？}
+#{181}{}{Hello again.}
+{181}{}{又见面了。}
+#{182}{}{I'm here to teach you some manners.}
+{182}{}{我到这儿来教你些礼节。}
+#{183}{}{I need to talk to you about Trish.}
+{183}{}{我需要和你谈谈关于特里诗的事。}
+#{184}{}{Can you tell me about Junktown?}
+{184}{}{你能告诉我关于迦克镇的事吗？}
+#{185}{}{From what I've heard, the Glow is a great crater that glows at night. It's
+# supposed to be far, far to the south, but I don't know where. Stories say that
+# it's inhabited by all sorts of mutant freaks who guard the technology from before
+# the War.}
+{185}{}{从我所打听到的来说，闪光之地是一个晚上发光的大凹陷。它被认为在南边很远很远的地方，但是我不知道哪里。有消息说它被拥有战前科技的变种畸形人所占据。}
+#{186}{}{I see. Thanks for the info.}
+{186}{}{我明白了。感谢你的信息。}
+#{187}{}{Interesting. Can you give me any more info?}
+{187}{}{有意思。你能再给我多一些信息吗？}
+#{188}{}{That'll be tough with no head, palooka.}
+{188}{}{没有头的话会很糟的，蹩脚拳师。}

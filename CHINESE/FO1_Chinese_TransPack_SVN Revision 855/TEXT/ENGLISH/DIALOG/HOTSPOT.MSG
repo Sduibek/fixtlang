@@ -1,0 +1,21 @@
+# Hot spots are intense concentrations of radiation. Consider Neutral or Male.
+# Tone of Voice should be automated and flat.
+
+# Lines are "You sustain 【2 or more】 points of radiation damage"
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You sustain }
+# {101}{}{ points of radiation damage.}
+# {102}{}{You sustain }
+# {103}{}{ points of radiation damage.}
+# {104}{}{There is a high concentration of radiation nearby.}
+# {105}{}{You sustain }
+# {106}{}{ points of radiation damage.}
+{100}{}{你受到}
+{101}{}{点辐射伤害。}
+{102}{}{你受到}
+{103}{}{点辐射伤害。}
+{104}{}{在这附近有高辐射区域。}
+{105}{}{你受到}
+{106}{}{点辐射伤害。}

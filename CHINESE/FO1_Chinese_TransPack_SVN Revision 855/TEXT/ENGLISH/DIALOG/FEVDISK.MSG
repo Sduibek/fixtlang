@@ -1,0 +1,7 @@
+
+#{100}{}{This seems strange. It looks like it can be used in your Pip Boy.}
+#{101}{}{Pip Boy displays: File Found on System. Aborting download.}
+#{102}{}{Pip Boy displays: Downloading data from Disk.}
+{100}{}{这东西有点怪怪的。他看上去似乎可以在你的哔哔小子上面使用。}
+{101}{}{哔哔小子显示：在系统中发现文件。下载异常退出。}
+{102}{}{哔哔小子显示：数据从磁盘下载中。}

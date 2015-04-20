@@ -1,0 +1,81 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+
+
+
+#{100}{}{You see a Knight.}
+#{101}{}{Hello Initiate. I'm Larry, how may I help you?}
+#{102}{}{Vree said you could show me a laser pistol?}
+#{103}{}{Vree said you could give me a laser pistol.}
+#{104}{}{Ug.}
+#{105}{}{Uh, okay...}
+#{106}{}{Uh, yea. These things are great. It's range is... well, as far
+# as you can see. (Larry continues to talk for what seems like hours, but
+# you seem to pick a few things up about the use of energy weapons.)}
+#{107}{}{Huh? But she knows these aren't ready yet... Oh, she must have
+# meant show. Yea, I can show you. You see it runs off of energy cells
+# that are constructed out of... (Larry goes on for what seems hours but
+# you seem to pick a few things up about energy weapons.)}
+#{108}{}{Sure she did. I think you should leave outsider.}
+#{109}{}{I don't like liars, please leave.}
+{100}{}{你看到一名骑士。}
+{101}{}{嗨，菜鸟。我叫拉里，需要我帮忙吗？}
+{102}{}{弗蕾说你有把激光手枪，能让我看看吗？}
+{103}{}{弗蕾说你能帮我弄把激光手枪。}
+{104}{}{呃。}
+{105}{}{哦，好的……}
+{106}{}{噢，是的。这些都是很棒的家伙。它的射程是……喏，能象你视野范围这么远。【拉里喋喋不休的说了近一个小时后，你在能量武器技能上似乎有了些提高。】}
+{107}{}{什么？她应该知道这些武器还有问题……噢，她一定是想让我给你演示一下。没问题。你看到流汤的能量电池外部结构……【在拉里不断的演练了近一个小时后，你在能量武器技能上似乎有了些提高。】}
+{108}{}{没错。但我认为你这个外来的家伙最好走开。}
+{109}{}{我讨厌说谎的人，请你离开。}
+#{200}{}{This isn't right at all.}
+#{201}{}{There we go.}
+#{202}{}{The firing mechanism keeps jamming.}
+#{203}{}{That's much better.}
+#{204}{}{Almost got it.}
+#{205}{}{This is going to take a while.}
+#{206}{}{That's the problem!}
+#{207}{}{John, I think I isolated the problem.}
+#{208}{}{Damn!}
+#{209}{}{Darn!}
+#{210}{}{My fault!}
+#{211}{}{I'm okay.}
+#{212}{}{Okay, that hurt.}
+#{213}{}{I meant to do that.}
+#{214}{}{Why does that keep happening?}
+#{215}{}{My eyes!}
+#{216}{}{You're not a knight.}
+#{217}{}{I need to talk to a knight.}
+#{218}{}{I don't understand, the power cells keep shorting out.}
+#{219}{}{You should stand back these can be dangerous.}
+#{220}{}{Please don't distract me.}
+#{221}{}{Watch where you're standing.}
+#{222}{}{You lost?}
+#{223}{}{Sorry, I can't talk right now.}
+#{300}{}{Energy Weapons increases 5%.}
+{200}{}{完全不对。}
+{201}{}{好了。}
+{202}{}{点火装置老是堵塞。}
+{203}{}{好多了。}
+{204}{}{差点被打中。}
+{205}{}{快成了。}
+{206}{}{就是这个问题！}
+{207}{}{约翰，我想我找到了问题所在！}
+{208}{}{该死的！}
+{209}{}{可恶啊！}
+{210}{}{是我的错！}
+{211}{}{我很好。}
+{212}{}{好疼啊。}
+{213}{}{我就是想这样。}
+{214}{}{为什么总是这样？}
+{215}{}{噢，我的眼睛！}
+{216}{}{你不是一名骑士。}
+{217}{}{我需要和一名骑士谈谈。}
+{218}{}{我真搞不懂，为什么这块能量电池老是短路。}
+{219}{}{这太危险了你最好站远点。}
+{220}{}{请别打扰我。}
+{221}{}{小心你站的地方。}
+{222}{}{你迷路的？}
+{223}{}{抱歉，我现在不方便说话。}
+{300}{}{能量武器技能提升5%。}

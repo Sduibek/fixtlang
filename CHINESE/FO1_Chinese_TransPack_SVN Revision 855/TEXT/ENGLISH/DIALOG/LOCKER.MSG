@@ -1,0 +1,9 @@
+
+#{100}{}{The locker is locked.}
+#{101}{}{You broke your lockpicks.}
+#{102}{}{You unlock the locker.}
+#{103}{}{You fail to unlock the locker.}
+{100}{}{这个柜子是锁着的。}
+{101}{}{你弄断了你的撬锁工具。}
+{102}{}{你打开了柜子上的锁。}
+{103}{}{你没能打开柜子上的锁。}

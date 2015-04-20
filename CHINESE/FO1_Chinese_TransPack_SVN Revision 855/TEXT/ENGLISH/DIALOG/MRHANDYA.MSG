@@ -1,0 +1,11 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see a broken robot.}
+# {101}{}{You see a functional robot.}
+# {102}{}{You fix the broken robot. It immediately powers up and comes to life.}
+# {103}{}{The repairs are beyond your skills.}
+{100}{}{你看到一个坏掉的机器人。}
+{101}{}{你看到一个完好的机器人。}
+{102}{}{你维修了这个机器人，它的电力马上恢复了，并且动起来了。}
+{103}{}{你的修理技能不够。}

@@ -1,0 +1,41 @@
+
+#{100}{}{The power generator has been sabotaged. It no longer functions.}
+{100}{}{发电机被破坏了，不能再工作。}
+#{101}{}{You see a power generator. It is the only source of power in Scrapheap.}
+{101}{}{你看见一台发电机。它是废渣堆唯一的能量来源。}
+#{102}{}{You clip some wires on the transformer. The power generator no longer functions.}
+{102}{}{你把变压器上的电线剪断。发电机不再工作了。}
+#{103}{}{The cutters are of no further use.}
+{103}{}{切割器没用了。}
+#{104}{}{That item is useless on the generator.}
+{104}{}{这个物品对发电机不起作用。}
+#{105}{}{You notice nothing in particular about the generator.}
+{105}{}{你在发电机上没发现什么特别的。}
+#{106}{}{The generator itself looks fairly tamper-proof; however you notice a set of wires between the transformer and the generator.}
+{106}{}{发电机本身具有极强的防破坏能力；然而你注意到在变压器和发电机之间有一束电线。}
+#{107}{}{You cannot see anything special about this large generator.}
+{107}{}{你看不出这个巨大的发电机上有什么特别的东西。}
+#{108}{}{You can determine nothing further about the generator.}
+{108}{}{对于这个发电机你不能再做什么了。}
+#{109}{}{The wires could be repaired, but it may take a while, and there is no guarantee of success.}
+{109}{}{电线能被修复，但要花些时间，而且不能保证一定成功。}
+#{110}{}{You cannot see anything special about the damaged generator.}
+{110}{}{你看不出这个坏掉的发电机上有什么特别的东西。}
+#{111}{}{You are unable to any further repair.}
+{111}{}{你不能再进一步的修理了。}
+#{112}{}{There is no need to repair the power generator. It is functioning perfectly.}
+{112}{}{没必要修理发电机。它运作得很好。}
+#{113}{}{You are unable to repair the functioning generator.}
+{113}{}{你不能修理运作中的发电机。}
+#{114}{}{It takes several hours, but you fix the power generator. With the power restored, and the gangs gone, the townspeople are grateful. They give you some valuable information. Your task in Scrapheap is done. The mission to find the water chip still awaits.}
+{114}{}{花了几个小时，你还是修好了发电机，当电力恢复时，匪徒们都逃走了，镇上的人都很感激你，他们给了你很多有用的信息。你在废渣堆的任务已经完成了，而寻找净水芯片的任务还在等着你。}
+#{115}{}{You cannot fix the generator. The people of Scrapheap will lead a poorer life without their power; but with the gangs gone, at least they will have a life. Your task in Scrapheap is done. The mission to find the water chip still awaits.}
+{115}{}{你不能修好发电机，没有了电力废渣堆的人们将过着更贫困的生活；但是没有了匪帮，至少他们还能活下去。你在废渣堆的任务已经完成了，而寻找净水芯片的任务还在等着你。}
+#{116}{}{Further tampering with the generator yields nothing.}
+{116}{}{对发电机的进一步破坏不起作用。}
+#{117}{}{That skill has no effect on the generator.}
+{117}{}{这项技能对发电机不起作用。}
+#{118}{}{The generator is already running.}
+{118}{}{发电机已经在运行中。}
+#{119}{}{You are unable to start the generator, because it is broken.}
+{119}{}{你不能开动发电机，它已经坏了。}

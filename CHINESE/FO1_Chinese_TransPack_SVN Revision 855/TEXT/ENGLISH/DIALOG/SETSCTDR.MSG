@@ -1,0 +1,22 @@
+# {100}{}{You find a crude explosive device in the doorframe.}
+# {101}{}{You set off an explosive trap!}
+# {102}{}{You disarm the trap.}
+# {103}{}{You did not disarm the trap.}
+# {104}{}{You accidentally set off the explosive!}
+# {105}{}{You accidentally set off the explosive, because you were smart enough to find it, but not smart enough to leave it alone.}
+# {106}{}{Ooof!}
+# {107}{}{Aargh!}
+# {200}{}{You gain }
+# {201}{}{ experience points for finding the secret door.}
+
+{100}{}{你在门框里找到一个简单的爆破装置。}
+{101}{}{你关闭了这个爆破陷阱。}
+{102}{}{你解除了陷阱。}
+{103}{}{你没有解除陷阱。}
+{104}{}{你偶然的关闭了陷阱。}
+{105}{}{你不小心触发了陷阱，你够聪明发现陷阱，却不够聪明躲开陷阱。}
+{106}{}{呜哇！}
+{107}{}{【开门声】}
+{200}{}{你得到}
+{201}{}{点经验值，因为你找到这扇暗门。}
+

@@ -1,0 +1,25 @@
+
+#{100}{}{The locker is locked.}
+{100}{}{这个柜子锁住了。}
+#{101}{}{You spot a trap on the locker, and disarm it.}
+{101}{}{你发现了柜子上的陷阱，并解除了它。}
+#{102}{}{You spot a trap on the locker, but fail to disarm it.}
+{102}{}{你发现了柜子上的陷阱，但没法解除它。}
+#{103}{}{You spot a trap on the locker, and accidentally set it off!}
+{103}{}{你发现了柜子上的陷阱，并很走运的解除了它！}
+#{104}{}{You disarm the trap.}
+{104}{}{你解除了陷阱。}
+#{105}{}{You fail to disarm the trap.}
+{105}{}{你解除陷阱失败了。}
+#{106}{}{You accidentally set off the trap!}
+{106}{}{你很走运解除了陷阱！}
+#{107}{}{You unlock the locker.}
+{107}{}{你打开了柜子。}
+#{108}{}{You fail to bypass the lock on the locker.}
+{108}{}{你尝试打开柜子上的锁但失败了。}
+#{109}{}{The locker's already unlocked.}
+{109}{}{柜子已经开了。}
+#{110}{}{While tampering with the lock, you trip up the tumblers. There's no bypassing this lock now.}
+{110}{}{由于你胡乱摆弄这个锁，你把锁芯弄坏了。现在这把锁再也打不开了。}
+#{111}{}{You notice that there is a crude explosive device on the locker.}
+{111}{}{你注意到柜子上有强力爆炸装置。}

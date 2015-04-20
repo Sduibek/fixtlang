@@ -1,0 +1,5 @@
+
+#{100}{}{This lock on this door is booby-trapped.}
+#{101}{}{The booby trap has been disarmed.}
+{100}{}{这扇门上的锁被设了陷阱。}
+{101}{}{陷阱已经被拆除。}

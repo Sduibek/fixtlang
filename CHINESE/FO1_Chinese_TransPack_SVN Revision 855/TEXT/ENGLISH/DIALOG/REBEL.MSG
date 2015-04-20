@@ -1,0 +1,116 @@
+# {100}{}{You see: Vault Dweller.}
+# {101}{}{You see: Upset Vault Dweller.}
+# {102}{}{}
+# {103}{}{}
+# {104}{}{}
+# {105}{}{Thank you for saving us.}
+# {106}{}{I was a little unsure that you could do it,
+# but I trust you now.}
+# {107}{}{Thank you! Thank you!}
+# {108}{}{You are a hero.  My little Bobby wants to be
+# just like you when he grows up. I don't know if I like that.}
+# {109}{}{You are a heroine.  My little Bobby wants to be
+# just like you when he grows up. I don't know if I like that.}
+# {110}{}{You are a swell guy!}
+# {111}{}{You are a swell gal!}
+# {112}{}{Are you sure you need that in here?}
+# {113}{}{That's a weapon!}
+# {114}{}{Have you actually used that against someone?}
+# {115}{}{Why do you think it is necessary to carry a
+# weapon in here?}
+# {116}{}{Hello! How goes the search?}
+# {117}{}{Pretty well.}
+# {118}{}{Not so good.}
+# {119}{}{Ugh.}
+# {120}{}{Well, that's good to hear. Keep up the good work, I guess.}
+# {121}{}{No problem.}
+# {122}{}{We knew that there was no hope. I don't think we'll get a
+# new chip in time. I think that some of us should move
+# outside before it's too late.}
+# {123}{}{I don't think that's a good idea.}
+# {124}{}{Hmm. That might be best.}
+# {125}{}{Please hurry.}
+# {126}{}{Don't worry, I'll find the chip.}
+# {127}{}{Maybe you should come to one of our meetings. Theresa has some
+# good ideas. We meet in her room on the second level, at five
+# o'clock each evening.}
+# {128}{}{I'll think about it.}
+# {129}{}{No thanks. I have work to do.}
+# {130}{}{That's what Theresa thinks. She's got it all worked out.
+# We're thinking of leaving the Vault soon.}
+# {131}{}{Good luck.}
+# {132}{}{I don't think you should leave just yet.}
+# {133}{}{Why did the Overseer pick you? It's obvious you couldn't find your
+# shoelaces, much less a new water chip. Oh well.}
+# {134}{}{Urgh.}
+# {135}{}{Don't you have a job to do? Hurry and find the chip!}
+# {136}{}{Don't tell me what to do, loser boy!}
+# {137}{}{Fine! Some people.}
+# {138}{}{Gdorf!}
+# {139}{}{You've sealed the fate of everyone in this Vault, traitor. I hope you are
+# satisfied with yourself.}
+
+{1000}{}{Overseer}
+{1001}{}{Vault13}
+{1002}{}{Vault-13}
+{1003}{}{Vault}
+
+
+# {1100}{}{The Overseer just wants to keep everyone under his control in here. We
+# need to go out into the world for ourselves.}
+# {1101}{}{The Vault has been our home, but it just won't last any longer. It's time
+# to make a new home.}
+# {1102}{}{The Vault has been our home, but it just won't last any longer. It's time
+# to make a new home.}
+# {1103}{}{The Vault has been our home, but it just won't last any longer. It's time
+# to make a new home.}
+
+{100}{}{你看到：避难所居民。}
+{101}{}{你看到：沮丧的避难所居民。}
+{102}{}{}
+{103}{}{}
+{104}{}{}
+{105}{}{谢谢你救了我们。}
+{106}{}{开始我还不太确定你能做到，可我现在信任你了。}
+{107}{}{谢谢你！谢谢你！}
+{108}{}{你是个英雄！我的小鲍比说长大了要象你一样。我不知道该不该高兴。}
+{109}{}{你是个大英雄！我的小鲍比说长大了要象你一样。我不知道该不该高兴。}
+{110}{}{你是个壮家伙！}
+{111}{}{你是个好女孩！}
+{112}{}{你确定你在这里需要那个吗？}
+{113}{}{那是件武器！}
+{114}{}{你真的用它打过人吗？}
+{115}{}{你怎么会认为在这里需要带武器呢？}
+{116}{}{你好，搜寻进行的如何？}
+{117}{}{很顺利。}
+{118}{}{不是很好。}
+{119}{}{啊。}
+{120}{}{是吗，那太好了。坚持下去。}
+{121}{}{没问题。}
+{122}{}{我们知道已经没希望了。我不认为咱们能及时拿到新的芯片。我们当中的一部分应该及早迁移到外面去，现在还不晚。}
+{123}{}{我不认为那是个好主意。}
+{124}{}{恩……那可能是最好的了。}
+{125}{}{请尽快吧。}
+{126}{}{别担心，我会找到芯片的。}
+{127}{}{或许你该来参加一下我们会议。特蕾莎有些不错的提议。每天晚上五点我们会在她二层的房间里碰面。}
+{128}{}{我会考虑的。}
+{129}{}{不了，谢谢。我还有事要做。}
+{130}{}{这就是特蕾莎的想法。她都考虑妥当了。我们开始计划离开避难所了。}
+{131}{}{好运了。}
+{132}{}{我觉得你们不该现在就离开避难所。}
+{133}{}{为什么所长选了你？恐怕你连自己的鞋带都找不到，更别说什么净水芯片了。}
+{134}{}{啊。}
+{135}{}{你不是有任务要做吗？快去找净水芯片。}
+{136}{}{别对我指手画脚，你一无是处。}
+{137}{}{好！某些人。}
+{138}{}{哦啊！}
+{139}{}{你毁了这避难所里所有人的未来，叛徒！现在你满意了吧！}
+
+
+{1099}{}{?}
+{1199}{}{我可以告诉你：Overseer-所长、Vault13-13号避难所、Vault-13-13号避难所、Vault-避难所。}
+
+{1100}{}{所长只是要这的所有人都处在自己的控制下。为了我们自己，我们要走出去，走到外面的世界。}
+{1101}{}{一直以来避难所都是我们的家，但今后不再是了，是时候建立一个新的家园了。}
+{1102}{}{一直以来避难所都是我们的家，但今后不再是了，是时候建立一个新的家园了。}
+{1103}{}{一直以来避难所都是我们的家，但今后不再是了，是时候建立一个新的家园了。}

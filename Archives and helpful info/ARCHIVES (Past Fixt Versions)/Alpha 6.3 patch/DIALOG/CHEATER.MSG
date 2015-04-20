@@ -1,0 +1,95 @@
+# TRANSLATION NOTE:
+# PLAYERS WILL ONLY SEE THESE MESSAGES IF THEY ARE TESTERS
+#
+# Numbers in front of entries are to let the player know 
+# which number they can hit on keyboard 
+# to navigate dialog using keyboard
+#
+{100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
+{101}{}{5  Roll back the clock.}
+{102}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
+{103}{}{1    One second  [10 ticks]}
+{104}{}{2    One minute}
+{105}{}{3    One hour}
+{106}{}{4    One day}
+{107}{}{5    One week}
+{108}{}{6    One month [30 days]}
+{109}{}{7    Six months}
+{309}{}{8    13 years}
+{110}{}{9    Nevermind.}
+{111}{}{6  Turn forward the clock.}
+{112}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
+{113}{}{1    One second  [10 ticks]}
+{114}{}{2    One minute}
+{115}{}{3    One hour}
+{116}{}{4    One day}
+{117}{}{5    One week}
+{118}{}{6    One month [30 days]}
+{119}{}{7    Six months}
+{319}{}{8    13 years}
+{120}{}{9    Nevermind.}
+{121}{}{7  Give me all the keys in the game.}
+{122}{}{In a backpack or directly in your inventory?}
+{123}{}{1    In a backpack.}
+{124}{}{2    In my inventory.}
+{125}{}{3    Nevermind.}
+{200}{}{How may I Cheat you today?}
+{201}{}{1  Experience Points.}
+{202}{}{2  Damage, Poison, Radiation.}
+{203}{}{6    Poison}
+{204}{}{7    Radiation}
+{205}{}{3  Delete ALL items from my inventory - Includes equipped!}
+{206}{}{4  Toggle "BUG FIXES ONLY" global variable [gvar 0]}
+{207}{}{8  Nothing. [close dialog]}
+{208}{}{"Fixes Only" mode currently ENABLED. Disable?}
+{209}{}{1    Yes, Disable it.}
+{210}{}{2    No. [back]}
+{211}{}{"Fixes Only" mode currently DISABLED. Enable?}
+{212}{}{1    Yes, Enable.}
+{213}{}{before: }
+{214}{}{after: }
+{215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
+{216}{}{Now you glow like a 50-rad light bulb.}
+{217}{}{Done.}
+{221}{}{[Grinning Visciously] I was happy to 'help' you.}
+{222}{}{How might I abuse you today?}
+{223}{}{1    Cripple Left Leg}
+{224}{}{2    Cripple Right Leg}
+{225}{}{3    Cripple Left Arm}
+{226}{}{4    Cripple Right Arm}
+{227}{}{5    Blind Me }
+{228}{}{8    Don't hurt me. [wimper]}
+{229}{}{TEST ROLLS mmm, rolls}
+{230}{}{Done.}
+{231}{}{message here}
+{232}{}{1    500}
+{233}{}{2    1 thousand}
+{234}{}{3    5 thousand}
+{235}{}{4    10 thousand}
+{236}{}{5    50 thousand}
+{237}{}{6    210 thousand}
+{238}{}{7    negative 5 thousand}
+{239}{}{8    Nevermind}
+{240}{}{Ok, you have them.}
+{241}{}{How many Exp points do you want? [Numbers at beginning are number you can hit to choose that selection]}
+{242}{}{9    Hit points.}
+{243}{}{Okay, how many HP do you want to lose?}
+{244}{}{1    One HP.}
+{245}{}{2    Five HP.}
+{246}{}{3    Ten HP.}
+{247}{}{4    Twenty HP.}
+{248}{}{5    Thirty HP.}
+{249}{}{6    Forty HP.}
+{250}{}{7    Fifty HP.}
+{251}{}{9    999 HP. (kill me...)}
+{252}{}{Teleport to another map...}
+{253}{}{1    Necropolis - Hotel}
+{254}{}{2    Vault 13 - Inside}
+{255}{}{3    Junktown - Casino}
+{256}{}{4    Brotherhood - 1/2}
+{257}{}{5    Military Base - Vats}
+{258}{}{6    Shady Sands - West}
+{259}{}{7    The Hub - Downtown}
+{260}{}{8    Nevermind.}
+{261}{}{9    Master's Lair - 3/4}
+{262}{}{Okay, which map?}

@@ -1,0 +1,125 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Brother Thomas.}
+{100}{}{你看见了托马斯兄弟。}
+
+#{101}{}{Why, hello there. You must be the new Initiate Talus told me about. It's awfully late for a social call, what can I do for you?}
+{101}{}{哎呀，你好啊。你一定就是塔鲁斯和我说过的那位新兵。没有必要再寒暄了，我能为你做些什么？}
+ 
+#{102}{}{I need some supplies.}
+{102}{}{我需要一些给养。}
+
+#{103}{}{I need training.}
+{103}{}{我想接受训练。}
+
+#{104}{}{I wanted some medical help.}
+{104}{}{我需要医疗支持。}
+
+#{105}{}{Nothing, sorry to bother you.}
+{105}{}{没什么，很抱歉打扰你。}
+
+#{106}{}{Yuk Yuk?}
+{106}{}{啊哈？}
+
+#{107}{}{Ruh.}
+{107}{}{哇啊.}
+
+#{108}{}{What could you possibly want at this hour?}
+{108}{}{这时候你需要什么？}
+
+#{109}{}{I don't have time for this.}
+{109}{}{我没时间做这个。}
+
+#{110}{}{What? Do I look like requisition man? If you don't even know who I am, why are you bothering me? Please leave!}
+{110}{}{什么？我看起来像是被征用的人吗？如果你连我是谁都不知道，那你还来打搅我干什么？快走开！}
+
+#{111}{}{Damn it }
+{111}{}{见鬼}
+
+#{112}{}{, I'm a trainer not a doctor. She's on level two.}
+{112}{}{，我是个训练员，不是医生。她在第二层。}
+
+#{113}{}{Well, why are you bothering me about it? Michael's probably asleep right now, unless Talus has him on sentry duty. Check at the supply room in the morning.}
+{113}{}{好吧，为什么你要因为这事打扰我？迈克尔现在大概在睡觉，除非塔鲁斯让他在岗哨值班。早上去物资库房看看吧。}
+
+#{114}{}{Well, the Elders said no new initiate training but...sure. You seem like a nice young lad. I'd hate for something to happen to you out there, when I might have been able to help. What are you looking to training in?}
+{114}{}{好吧，元老们说过不会再有新兵训练了但是……当然。你看起来是个不错的小伙。我可不希望你在外面发生什么意外，而我却有能力阻止这发生。你在寻找什么类型的训练？}
+
+#{115}{}{Well, the Elders said no new initiate training but...sure. You seem like a nice young lady. I'd hate for something to happen to you out there, when I might have been able to help. What are you looking to training in?}
+{115}{}{好吧，元老们说过不会再有新兵训练了但是……当然。你看起来是个不错的姑娘。我可不希望你在外面发生什么意外，而我却有能力阻止这发生。你在寻找什么类型的训练？}
+
+#{118}{}{Small guns.}
+{118}{}{轻型枪械。}
+
+#{119}{}{Big guns.}
+{119}{}{重型枪械。}
+
+#{120}{}{Energy weapons.}
+{120}{}{能量武器。}
+
+#{121}{}{Unarmed combat.}
+{121}{}{徒手格斗。}
+
+#{122}{}{Melee weapons.}
+{122}{}{近战武器。}
+
+#{123}{}{Throwing.}
+{123}{}{投掷。}
+
+#{124}{}{Nothing, sorry.}
+{124}{}{没事儿，抱歉。}
+
+#{125}{}{Why I ought to throw you right out of my room, but I'm a nice old man. The Elders said no new initiate training but...I might be able to help. They probably didn't have you in mid when they said that. What are you looking to train in?}
+{125}{}{我在寻思着我为什么不把你从我房间里扔出去，但我是个和蔼可亲的老人。元老们说过现在不再有新兵训练了，但是……我或许有法子帮助你。他们这么说的时候或许没考虑到你。你在寻找什么样的训练？}
+
+#{126}{}{Why hello again. Nice to see you. Don't be shy, I don't sleep very much anymore. Are you looking for some more training? What shall it be today...I mean tonight.}
+{126}{}{哎呀又见面了，很高兴遇到你。别畏畏缩缩的，我再不怎么睡觉了。你在寻找更多的训练内容吗？今天会是什么呢……我的意思是今晚。}
+
+#{127}{}{I knew you would be back! What're you in the mood for tonight?}
+{127}{}{我就知道你会回来的！今晚意下如何？}
+
+#{128}{}{Are you going to ask me dumb questions again? I really don't have the time.}
+{128}{}{你准备继续问我无聊的问题吗？我真的没时间。}
+
+#{129}{}{Well, you see, different caliber weapons have...}
+{129}{}{这样，你看，不同口径的武器有……}
+
+#{130}{}{After a day of intense training you feel more skilled with small guns.}
+{130}{}{一整天高强度的训练之后你觉得使用轻型枪械时更加熟练了。}
+
+#{131}{}{The...}
+{131}{}{这样的……}
+
+#{132}{}{After two days of intense training you feel more skilled with big guns.}
+{132}{}{整整两天高强度的训练之后你觉得使用重型枪械时更加熟练了。}
+
+#{134}{}{After a few days of intense training you feel more skilled with energy weapons.}
+{134}{}{几天高强度的训练之后你觉得使用能量武器时更加熟练了。}
+
+#{135}{}{After a day of intense training you feel more skilled in unarmed combat.}
+{135}{}{一整天高强度的训练之后你觉得徒手格斗时更加熟练了。}
+
+#{136}{}{After two days of intense training you feel more skilled with melee weapons.}
+{136}{}{整整两天高强度的训练之后你觉得使用近战武器时更加熟练了。}
+ 
+#{137}{}{After a day of intense training you feel more skilled at throwing objects.}
+{137}{}{一整天高强度的训练之后你觉得投掷物体时更加熟练了。}
+
+#{138}{}{No problem. Let me know if you change your mind.}
+{138}{}{没问题。当你改变心意时告诉我一声。}
+
+#{139}{}{I don't know why I'm wasting my time with you.}
+{139}{}{我不知道为什么我会在这里和你浪费时间。}
+
+#{140}{}{Yes? Oh, I suppose you're looking for more training. Well, I don't sleep much anymore anyhow, why not. What shall it be?}
+{140}{}{恩？哦，我料想你会寻求更多训练。反正我再也不怎么睡觉了，为什么不呢。你想怎么样？}
+ 
+#{141}{}{Now what? More stupid questions?}
+{141}{}{现在又怎么了？更多的蠢问题吗？}
+
+#{142}{}{Oh, that's all right. As I said, I hardly ever sleep. Come back anytime.}
+{142}{}{哦，这都没关系。就像我说的那样，我几乎不睡觉了。随便什么时候再来都可以。}
+
+#{143}{}{Well, stop pestering me then. I'm an old man and I need my beauty sleep.}
+{143}{}{好吧，别再纠缠我了。我是个老人，需要这甜美的睡眠。}

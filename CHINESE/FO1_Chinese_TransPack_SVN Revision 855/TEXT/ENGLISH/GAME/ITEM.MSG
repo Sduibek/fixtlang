@@ -1,0 +1,23 @@
+#
+# Item.c messages
+#
+# {1}{}{You gained %d %s.}
+# {2}{}{You lost %d %s.}
+# {3}{}{You feel better.}
+# {4}{}{You suffer a fatal heart attack from chem overdose.}
+# {5}{}{%s has no charges left.}
+# {6}{}{%s is on.}
+# {7}{}{%s is off.}
+# {8}{}{You pass the Geiger counter over your body. The rem counter reads: %d}
+# {9}{}{This item can only be used from the interface bar.}
+# {10}{}{Nothing happens.}
+{1}{}{你得到%d %s。}
+{2}{}{你失去%d %s。}
+{3}{}{你感觉好多了。}
+{4}{}{过量使用药物使你心脏病发作了。}
+{5}{}{%s 已经没有能量了。}
+{6}{}{%s 打开。}
+{7}{}{%s 关闭。}
+{8}{}{你对自己使用了盖氏计算器，指数显示：%d}
+{9}{}{这个物品只能从装备项目界面中使用。}
+{10}{}{什么都没有发生。}

@@ -1,0 +1,66 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Willst du das Spiel wirklich beenden?}
+{1}{}{Demoversion}
+{2}{}{Standardfigur wird benutzt.}
+{3}{}{Screenshot gespeichert.}
+{4}{}{Schnelladen erfolgreich ausgeführt.}
+{5}{}{Schnellspeichern erfolgreich ausgeführt.}
+{6}{}{Zeitlimit für Demo überschritten.}
+{7}{}{PIPBoy im Kampf nicht verfügbar!}
+{8}{}{Fehler beim Speichern des Screenshots.}
+{9}{}{INTRO}
+{10}{}{NEUES SPIEL}
+{11}{}{SPIEL LADEN}
+{12}{}{MITARBEITER}
+{13}{}{BEENDEN}
+{14}{}{Copyright(c) 1997 Interplay Productions. Alle Rechte vorbehalten.}
+{15}{}{Aktionspunkte}
+{16}{}{Trefferpunkte}
+{17}{}{Kein Scanner installiert.}
+{18}{}{Scanner ist nicht mehr geladen.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Fehler beim Speichern der Konfigurationsdatei!}
+{101}{}{Spieleinstellungen nicht gespeichert.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Dir ist sehr übel.}
+{1001}{}{Dir ist sehr übel, und du fühlst dich nach leichtem Erbrechen etwas erschöpft.}
+{1002}{}{Du bist sehr erschöpft, du erbrichst dich ständig, und deine Genesung ist beeinträchtigt.}
+{1003}{}{Du hast starke Blutungen. Du bist sehr krank und hast Haarausfall.}
+{1004}{}{Du blutest ständig stark. Das Erbrochene ist mit Blut vermischt. Deine Haut löst sich von deinen Knochen.}
+{1005}{}{Du hast Darmblutungen und starken Durchfall. Du hast Blähungen und leidest unter furchtbaren Schmerzen.}
+{1006}{}{Du bist an der Strahlenkrankheit gestorben.}
+{1007}{}{Du hast eine starke Strahlendosis abbekommen.}
+{1008}{}{Der Geigerzähler tickt.}
+{1009}{}{Der Geigerzähler tickt wie verrückt.}
+#
+# Message used in actions.c
+#
+{2000}{}{Da kannst du nicht hin.}
+{2001}{}{Das Schloß klemmt.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Du wurdest vergiftet!}
+{3001}{}{Das Gift schädigt deinen Körper.}
+#
+# from queue.c
+#
+{4000}{}{Wegen unsachgemäßer Bedienung explodiert der Sprengstoff zu früh.}
+#
+# from combatai.c
+#
+{5000}{}{benutzt:}
+{5001}{}{hat keine Munition mehr für:}
+{5002}{}{lädt:}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Was willst du wissen?}

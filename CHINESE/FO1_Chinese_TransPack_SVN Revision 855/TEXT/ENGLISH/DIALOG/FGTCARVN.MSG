@@ -1,0 +1,247 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see the Fargo Traders Caravan Driver.}
+#{101}{}{Hi, if you're wantin' a job on a caravan, you should talk to Rutger.  He's just over there.}
+#{102}{}{You're gonna need to talk to Rutger.}
+#{103}{}{So you signed up.  Good to hear it.  So ya know, we leave just about every ten days. That's the 8th, 18th, and 28th of each month.  Right now we're making runs to The Brotherhood, Junktown and the LA Boneyard.}
+#{104}{}{So what's the pay?}
+#{105}{}{Um.}
+#{106}{}{You'll get 400 hubbucks. You might be sayin' that it ain't that much, but we go out often and you ain't gonna lose your life that easy.  But you get that pay going each way, not that you have to go each way, but you'll get a total of 800 if you do. }
+#{107}{}{ We're headin' out today.  You interested?}
+#{108}{}{ We take off on }
+#{109}{}{Empty}
+#{110}{}{}
+#{111}{}{. You interested?}
+#{112}{}{I'll still give you a job, even though... never mind.  Are you interested?}
+#{113}{}{Sure. }
+#{114}{}{No.}
+#{115}{}{Maybe.}
+#{116}{}{Yaya.}
+#{117}{}{Tae?}
+{100}{}{你看到一个远行商会的车夫。}
+{101}{}{嗨，如果你想找工作就去找罗格尔。他正好就在那边。}
+{102}{}{你有什么需要就去找罗格尔。}
+{103}{}{你被录用了。听好了，你要知道，我们每隔10天离开一次。也就是每个月的8日、18日和28日。现在我们要动身去钢铁兄弟会，迦克镇，还有洛杉矶的晒骨场。}
+{104}{}{那么报酬是什么？}
+{105}{}{嗯。}
+{106}{}{你能得到400个瓶盖。你也许会说那不是很多，但是我们经常出发，你也不会那么容易挂掉。还有，你可以自己选择走哪条路线，不是你必须每条路都走一趟。交差后你一共会得800个瓶盖。}
+{107}{}{ 我们今天就要上路。你有兴趣吗？}
+{108}{}{我们出发}
+{109}{}{空的}
+{110}{}{}
+{111}{}{。你感兴趣吗？}
+{112}{}{我这一直都有活做，甚至……没关系。你感兴趣吗？}
+{113}{}{当然。}
+{114}{}{不。}
+{115}{}{也许吧。}
+{116}{}{耶耶。}
+{117}{}{恩？}
+{118}{}{好吧。没问题。如果你改变主意了就再来找我吧。}
+#{118}{}{Alrighty.  Not a problem.  Just let me know if you change your mind.}
+#{119}{}{Would you just make up your mind?}
+#{120}{}{Come back by if you end up looking for something to do.  That's the 8st, 18th, and 28th. Bye.}
+#{121}{}{Uh, it ain't gonna work if you can't tell your right foot from your left.  Sorry big guy.}
+#{122}{}{Head on back when your feeling better.}
+#{123}{}{Man, you don't seem to be doing well.   You should get something in your stomach, just stay clar of Bob's.}
+#{124}{}{Get on out of here!}
+#{125}{}{Couldn't just leave my stuff alone, could you?  Why did you do it?}
+#{126}{}{Cuz I'm a mean green moth'a from outer space, and I'm... 'bad'!}
+#{127}{}{I didn't want to, but I'm starving and I have kids to feed.}
+#{128}{}{I'll carve your heart out with a spoon! }
+#{129}{}{(Surrender)}
+#{130}{}{(Attack)}
+#{131}{}{So you just spit in my face huh?  I guess the only way to get this through your thick skull, is to remove it from that neck of yours.}
+#{132}{}{Fine, but that don't make it right.  You still are gonna have to get out of here.}
+#{133}{}{You think I'd believe that crap?  Guards!}
+#{134}{}{Maybe putting you in the tank will give you a better set of manners.  Are you gonna come quietly, or are we going to have to do this the hard way?}
+#{135}{}{I'll see you in hell!}
+#{136}{}{Yes.  I'm sorry.}
+#{137}{}{So you're a tough guy, huh?  Just lookin' for another fight?}
+#{138}{}{If you don't get out of here, I'm gonna call the cops!}
+#{139}{}{Guards! Police!}
+#{140}{}{I think you should leave..}
+{119}{}{你有什么意见要补充吗？}
+{120}{}{如果你想找活干的话就回来。记住8日、18日和28日。再见。}
+{121}{}{啊，对不起大家伙。如果你左脚右脚都分不清，就不能给你工作。}
+{122}{}{如果你觉得不错就回来。}
+{123}{}{伙计，你看起来气色不太好。你该吃点东西。不过不要去鲍勃那家。}
+{124}{}{离远点！}
+{125}{}{离我的货远点！行不行啊？你他妈的干嘛呢？}
+{126}{}{呵呵，我是来自外太空的绿色飞蛾，而且我很……‘坏’！}
+{127}{}{不要啊，我好饿，我还有个孩子要养咧。}
+{128}{}{我要用勺把你心脏挖出来！}
+{129}{}{【求饶】}
+{130}{}{【攻击】}
+{131}{}{你把口水喷我一脸？我想只能让你的厚脑壳完蛋了，让你脑袋搬家！}
+{132}{}{很好，但是别那么做。你应该安静的离开这里。}
+{133}{}{你认为我会相信你那些废话？卫兵！}
+{134}{}{也许把你塞到水箱里是对你的一种礼貌。你能安静些吗？或者去避难所找点事情做？}
+{135}{}{我要看着你下地狱！}
+{136}{}{是的，很抱歉。}
+{137}{}{你牛屄啊？找茬打架啊？}
+{138}{}{如果你再不离开这，我可就要喊警察了！}
+{139}{}{卫兵！警察！来人呐！}
+{140}{}{我认为你应该离开……}
+#{141}{}{Sorry, but I ain't gonna offer you a job.}
+#{142}{}{I'd love to give you a job, but it's just not gonna happen.}
+#{143}{}{Leave.}
+#{144}{}{Pretty cute, but I'm not really into your kind.}
+#{145}{}{Well OK then! It'll pay 400 hubbucks. Which route would you prefer?}
+#{146}{}{Great to hear.  Come back by on }
+#{147}{}{8th}
+#{148}{}{18th}
+#{149}{}{28th}
+#{150}{}{}
+#{151}{}{}
+#{152}{}{Brotherhood of Steel }
+#{153}{}{.  You'll be headin' out then.  Like always it'll pay 400 hubbucks.}
+#{154}{}{Okay.}
+#{155}{}{Sorry, can't wait.}
+#{156}{}{Not sure what happened, but the whole caravan was lost.  Funny thing for something like that to happen, and for you to be the only one left standing?  Things don't generally fall that way.  I just don't think I can hire you anymore because of it.  I'm sure you understand why.}
+#{157}{}{Junktown}
+#{158}{}{LA Boneyard }
+#{159}{}{Um, not right now. Maybe another time.}
+#{160}{}{Good to hear, I'll round up the rest of the crew.}
+#{161}{}{Great.}
+#{162}{}{Get on out of here.  Good luck!}
+{141}{}{抱歉，我不会给你工作。}
+{142}{}{我很想给你工作，可是不太凑巧。}
+{143}{}{走开。}
+{144}{}{很精明，不过我和你这型不合拍。}
+{145}{}{非常好！这是给你的400个瓶盖。你还打算走哪一条路线？}
+{146}{}{好消息。回来了。}
+{147}{}{八日}
+{148}{}{十八日}
+{149}{}{二十八日}
+{150}{}{}
+{151}{}{}
+{152}{}{钢铁兄弟会}
+{153}{}{。找你带队，和往常一样付400个瓶盖。}
+{154}{}{好的。}
+{155}{}{抱歉，不能等。}
+{156}{}{鬼知道发生了什么，整个商队都完蛋了。滑稽的是这种事发生后，就你一个活下来了？商队一般可不会这么不顺，我不会在发生那样的事后还雇佣你，我想你知道为什么。}
+{157}{}{迦克镇}
+{158}{}{洛杉矶-晒骨场}
+{159}{}{恩，现在不行。下回把。}
+{160}{}{听好了，我们所有成员要凑齐一起休息。}
+{161}{}{好主意。}
+{162}{}{走吧。好运！}
+#{163}{}{Try to avoid trouble, don't go lookin' for it.}
+#{164}{}{You be careful out there, the Boneyard ain't the safest of places..}
+#{165}{}{That's good. Those black walkways are really strange, but they're great to travel on.}
+#{166}{}{They definitely got a bad element out that way.  I'd watch who you deal with while down that way.}
+#{167}{}{Great.  Junktown ain't a bad place.}
+#{168}{}{Oh, and stop on by Killain, and tell him 'Hi" for me.  Man, the times we used to have on the caravans.}
+#{169}{}{Hear some odd doctor is out that way.  Deals in the dead, so they say.}
+#{170}{}{What in the hell were you thinkin leaving that caravan.  It came back safe, but that was pure damn luck.}
+#{171}{}{Can I have another chance?}
+#{172}{}{Nothing.}
+#{173}{}{I don't give a crap!}
+#{174}{}{Ig wa neeka rooola?}
+#{175}{}{Lig.}
+#{176}{}{You screwed it up again.  You just can't seem to handle this line of work.}
+#{177}{}{Why should I?}
+#{178}{}{You shouldn't.}
+#{179}{}{Because I'm going to put a hole through your head if you don't.}
+#{180}{}{I had better things to do than hang around some dumb caravan.}
+#{181}{}{I didn't know I wasn't allowed to leave. Everything seemed okay.}
+#{182}{}{I see... you where on drugs.  Well, live that life if you wish it.}
+#{183}{}{I'm sorry you feel that way.}
+#{184}{}{Surprisin' that you ain't done this before.  Since that's the case, it ain't gonna harm anyone if I give you another chance.}
+#{185}{}{You did a good piece of work.  You want to sign up for another?}
+#{186}{}{Sure.}
+{163}{}{别找麻烦，不要过去看它。}
+{164}{}{多留点心眼，晒骨场可不是个安全的地方……}
+{165}{}{不错。那些黑色路线虽然冷僻，却非常值得一走。}
+{166}{}{他们在上路的时候，肯定有什么地方搞错了。我倒想看看你一路上和什么人做买卖。}
+{167}{}{不错。迦克镇是个好地方。}
+{168}{}{在镇长基利安那停一下，帮我向他问个好。伙计，我和他在商队一起干过。}
+{169}{}{听说一些奇怪的医生在那里。他们自己说那叫做死人生意。}
+{170}{}{你他妈怎么会想到离开那个商队。它安全回来了，但那纯粹靠运气好而已。}
+{171}{}{能再给我一次机会吗？}
+{172}{}{没了。}
+{173}{}{我不多废话了！}
+{174}{}{啊呜……嗯哦……？}
+{175}{}{打嗝……}
+{176}{}{你又喝多了，你似乎干不了这行。}
+{177}{}{为什么是我？}
+{178}{}{你不该这样。}
+{179}{}{如果你不，我就在你脑袋上打个洞。}
+{180}{}{我可有比在商队里闲荡更好的差事。}
+{181}{}{我想不起来我那时不许离开。当时什么事都可以。}
+{182}{}{我看看……你吸毒了？很好，过你想过的日子去吧。}
+{183}{}{很抱歉你会这么想。}
+{184}{}{天啊，你以前居然没干过这事。既然是这个情况，如果我再给你一次机会看起来也没什么坏处。}
+{185}{}{这次你干的不错。你还想再签另一份吗？}
+{186}{}{当然。}
+
+
+
+
+#{187}{}{No.}
+#{188}{}{Maybe.}
+#{189}{}{Eeek!}
+#{190}{}{Lub.}
+#{191}{}{Got all you're gear?  We're going out today.}
+#{192}{}{Yes.}
+#{193}{}{No!}
+#{194}{}{Ack!}
+#{195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated... until you leave with the caravan, right?}
+#{196}{}{Next caravan ain't runnin' until }
+#{197}{}{8th}
+#{198}{}{18th}
+#{199}{}{28th}
+#{200}{}{}
+#{201}{}{}
+#{202}{}{}
+#{203}{}{. Head on back here if you still want the job. }
+#{204}{}{January }
+#{205}{}{February }
+#{206}{}{March }
+#{207}{}{April }
+#{208}{}{May }
+#{209}{}{June }
+#{210}{}{July }
+#{211}{}{August }
+#{212}{}{September }
+#{213}{}{October }
+#{214}{}{November }
+#{215}{}{December }
+#{216}{}{Brotherhood of Steel, here we come! Well?I'm not going with you, but you know what I mean.}
+#{217}{}{Okay, get out of my face already.  Those Brotherhood fanatics are waiting for you.}
+#{218}{}{I hope you like mountains!  You're going right into them.  You should see lots of action there.}
+#{219}{}{Ready to go, and you'll be heading straight though the mountains!  It should be a blast!}
+{187}{}{不了。}
+{188}{}{也许吧。}
+{189}{}{耶～耶～}
+{190}{}{乜。}
+{191}{}{不拿着你所有的装备吗？今天我们就出发！}
+{192}{}{是的！}
+{193}{}{不！}
+{194}{}{中！}
+{195}{}{否则我将给其他人了, 别担心。直到你离开商队为止，你都不用负什么责……如何？}
+{196}{}{直到下次商队不在运营为止}
+{197}{}{八日}
+{198}{}{十八日}
+{199}{}{二十八日}
+{200}{}{}
+{201}{}{}
+{202}{}{}
+{203}{}{。如果你还想找工作就别背对着我。}
+{204}{}{一月}
+{205}{}{二月}
+{206}{}{三月}
+{207}{}{四月}
+{208}{}{五月}
+{209}{}{六月}
+{210}{}{七月}
+{211}{}{八月}
+{212}{}{九月}
+{213}{}{十月}
+{214}{}{十一月}
+{215}{}{十二月}
+{216}{}{钢铁兄弟会，我们来了！嗯？我不和你去！但你知道我什么意思。}
+{217}{}{很好，你可以在我面前消失了。那些兄弟会的疯子们正等你呢。}
+{218}{}{我希望你喜欢这些山！如果你一直向山里走，就能在那见到过许多世面。}
+{219}{}{准备出发，我们要像闪电，劈开那些山脉！}

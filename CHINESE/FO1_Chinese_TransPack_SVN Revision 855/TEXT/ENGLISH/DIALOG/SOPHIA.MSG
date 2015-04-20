@@ -1,0 +1,361 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Sophia, an instructor for the Brotherhood Initiates.}
+{100}{}{你看到索菲娅，一个兄弟会新兵的指导员。}
+
+#{101}{}{Ok, does anyone have any questions?}
+{101}{}{好了，有人有问题吗？}
+
+#{102}{}{Remember to ask questions if you don't understand something. Don't be shy.}
+{102}{}{记得当你不懂的时候一定要提问题，不要害羞。}
+
+#{103}{}{Review your notes.}
+{103}{}{复习你们的笔记。}
+
+#{104}{}{We'll be having another test tomorrow for those of you that are on section 14.}
+{104}{}{学到第14部分的同学，我们明天要进行一次测试。}
+
+#{105}{}{I'm sorry, but I can't talk right now. I have a class to run.}
+{105}{}{对不起，我现在不能说话，还要上课呢。}
+
+#{106}{}{I understand you have something for me.}
+{106}{}{我认为你有什么东西要给我。}
+
+#{107}{}{Yes. Here you are.}
+{107}{}{是的。给你。}
+
+#{108}{}{Yes, but I don't have it with me right now.}
+{108}{}{没错，但是我现在没有带在身上。}
+
+#{109}{}{You.}
+{109}{}{你。}
+
+#{110}{}{I'm sorry, but I have a class to run. Please don't disturb me.}
+{110}{}{对不起，我还要上课，请不要打扰。}
+
+#{111}{}{You shouldn't be here. Vree doesn't like to be bothered at night. This is the time we meditate.}
+{111}{}{你不该来这里。弗蕾不喜欢晚上有人来打扰，这是我们冥想的时间。}
+
+#{112}{}{We are meditating. Please leave. Come back in the morning.}
+{112}{}{我们在冥想。请离开，早上再来。}
+
+#{113}{}{Leave us.}
+{113}{}{离开这里。}
+
+#{114}{}{Have some respect. Don't bother someone while they're meditating.}
+{114}{}{请放尊重些，别人冥想时不要打扰。}
+
+#{115}{}{You Initiates have a lot to learn. Please leave.}
+{115}{}{你们新兵有很多需要学习的东西，赶快离开吧。}
+
+#{116}{}{Don't bother me.}
+{116}{}{不要打扰我。}
+
+#{117}{}{We are not available during the night. Please see us in the morning.}
+{117}{}{我们在晚上不能做任何事。请在白天来见我们。}
+
+#{118}{}{It's night. You should be in bed, unless you have guard duty, in which case you should be at your post.}
+{118}{}{现在是晚上。你应该在床上睡觉，除非你有守卫任务，但即使是那样你也应该在岗位上。}
+
+#{200}{}{Hello Initiate. How may I help you?}
+{200}{}{你好，新兵。我能帮你吗？}
+
+#{201}{}{I understand you have something for me?}
+{201}{}{我认为你有什么东西要给我。}
+
+#{202}{}{Yes, here you are.}
+{202}{}{是的。给你。}
+
+#{203}{}{Yes, but I don't have it with me right now.}
+{203}{}{没错，但是我现在没有带在身上。}
+
+#{204}{}{Me? Nope, sorry. You must have me mistaken for someone else.}
+{204}{}{我？对不起，我想你认错人了。}
+
+#{205}{}{Uk.}
+{205}{}{呃咳。}
+
+#{206}{}{Thank you very much. It was nice of you to drop these off.}
+{206}{}{非常感谢你带来这些东西。}
+
+#{207}{}{Um, thank you. Are you okay? Well anyway, it was nice of you to drop these off.}
+{207}{}{呃，谢谢你。你还好吗？不管怎么说还是谢谢你带来这些东西。}
+
+#{208}{}{My research would have been delayed without them. It's good to see we have such a trustworthy Initiate.
+# I knew getting an outsider wouldn't be a bad decision. If you go see Michael he will have something for you.}
+{208}{}{没有这些东西我的研究就不得不停止了。我很高兴我们有一个像你这样值得信任的新兵，我早就知道让一个外来者加入不可能有错的。如果你去见迈克尔他会给你些东西的。}
+
+#{301}{}{Greetings.  I have not seen you here before, are you lost?
+# May I be of service?}
+{301}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
+
+#{302}{}{Uh......}
+{302}{}{这……}
+
+#{303}{}{Could you direct me to the library?}
+{303}{}{你能告诉我图书馆怎么走吗？}
+
+#{304}{}{I am looking for Vree.}
+{304}{}{我在找弗蕾。}
+
+#{305}{}{What is this place?}
+{305}{}{这里是哪里？}
+
+#{306}{}{If I was lost I wouldn't be asking an idiot like you for help!}
+{306}{}{就算我迷路了，我也不会找你这样的白痴问路！}
+
+#{307}{}{I can't believe the kind of people we accept as initiates these
+# days.  God help us.}
+{307}{}{我简直不敢相信，现在我们会接受这样的人来做新兵。上天保佑。}
+
+#{308}{}{This is the library.  Here we keep records of all technical data on
+# weaponry and technology, and, of course, the history of the Brotherhood.}
+{308}{}{这里是图书馆。我们在这里存储所有关于武器和科技的资料，当然，我们也有关于兄弟会的历史。}
+
+#{309}{}{I need a water-chip repaired.  Can you help me?}
+{309}{}{我必须要修理好一个净水芯片。你能帮我吗？}
+
+#{310}{}{I'd like to know more about the weapons you make here.}
+{310}{}{关于你们在制造的武器我想知道更多。}
+
+#{311}{}{Is this the place where I would find holo-disks?}
+{311}{}{这里是我能找到磁盘的地方吗？}
+
+#{312}{}{Nevermind, thank you for your time.}
+{312}{}{不用了，谢谢你的帮忙。}
+
+#{313}{}{I'm looking for a big gun to improve my people-killing skills.}
+{313}{}{我在找一支可以提高我杀人技术的大枪。}
+
+#{314}{}{I am Vree's assistant.  Vree is over there.}
+{314}{}{我是弗蕾的助手。弗蕾在那边。}
+
+#{315}{}{Thank you.}
+{315}{}{谢谢你。}
+
+#{316}{}{What is it you do as Vree's assistant?}
+{316}{}{你作为弗蕾的助手都做些什么呢？}
+
+#{317}{}{My area of expertise is the history of the Brotherhood.  It sounds
+# like a manufacturing problem, perhaps you should ask Vree?}
+{317}{}{我的专业涉及的是兄弟会历史方面。你的问题似乎是一个制造方面的问题，也许你该去问弗蕾。}
+
+#{318}{}{I thought the scribes knew this kind of stuff.}
+{318}{}{我以为你们研究员都知道这方面的事情。}
+
+#{319}{}{I'd like to know about the Brotherhood's history.}
+{319}{}{我想了解兄弟会的历史。}
+
+#{320}{}{Lotta help you are!}
+{320}{}{你的帮助实在太大啦！}
+
+#{321}{}{OK, thanks for your help.}
+{321}{}{好的，谢谢你。}
+
+#{322}{}{You must speak with Vree, the head scribe, about that.  I have more
+# important things to do.}
+{322}{}{关于那件事你必须和研究员负责人弗蕾谈。我有更重要的事情要做。}
+
+#{323}{}{I will go ask Vree.}
+{323}{}{我会去问弗蕾的。}
+
+#{324}{}{More important things to do?  Like what?}
+{324}{}{更重要的事情？比如说呢？}
+
+#{325}{}{You don't consider the Brotherhood's weaponry to be important?}
+{325}{}{你认为兄弟会的武器制造不重要吗？}
+
+#{326}{}{We have many holo-disks here in the library.  They are divided
+# between history, technology and weapon design.}
+{326}{}{图书馆里有许多磁盘。它们分为历史，科技和武器设计三类。}
+
+#{327}{}{I would like to see a holo-disk on your technology.}
+{327}{}{我想看看科技方面的磁盘。}
+
+#{328}{}{I would like to see a holo-disk on weapon design.}
+{328}{}{我想看看武器设计方面的磁盘。}
+
+#{329}{}{I would like to see a holo-disk on the Brotherhood's history.}
+{329}{}{我想看看兄弟会历史方面的磁盘。}
+
+#{330}{}{I was sent here to ask Vree about the history of the Brotherhood.}
+{330}{}{我被派到这里问弗蕾关于兄弟会历史的问题。}
+
+#{331}{}{My area of specialty is the Brotherhood's history.  It seems that
+# some people around here have forgotten the importance of our history.}
+{331}{}{我的专业领域是兄弟会历史方面。好像有些人已经开始忘记我们历史的重要性了。}
+
+#{332}{}{What can you tell me about the Brotherhood's history?}
+{332}{}{关于兄弟会的历史你能告诉我什么？}
+
+#{333}{}{What could be more important than history?}
+{333}{}{有什么会比历史更重要呢？}
+
+#{334}{}{Must be near your time of the month, huh?}
+{334}{}{你每个月的那几天快来了吧？}
+
+#{335}{}{I'd like to ask somebody about weapons.}
+{335}{}{我想问问别人关于武器的事。}
+
+#{336}{}{Like keeping the history of the Brotherhood.  It seems some people
+# around here have forgotten just how important our history is.}
+{336}{}{像是保管兄弟会历史等等。看上去有些人已经开始忘记我们历史的重要性了。}
+
+#{337}{}{Vree seems to think that the research of new weaponry and the
+# information gathered from Mutant autopsies is more important than our
+# history.  She has forgotten that our history is a vital part of our lives.
+# It has gotten so bad that many of the new initiates don't even know who
+# Roger Maxson is or what exactly he did for us.}
+{337}{}{弗蕾似乎认为，研究开发新的武器以及解剖变种人尸体比历史更为重要。她忘记了，我们的历史是我们生命的重要组成部分，现在的情况已经很坏了，有很多新兵甚至不知道罗杰·马克松是谁，以及他究竟为我们做过什么。}
+
+#{338}{}{I'd like to learn more about the Brotherhood's history.  Do you have
+# any information you can give me?}
+{338}{}{我想要学习关于兄弟会历史的更多知识。你有什么资料可以给我吗？}
+
+#{339}{}{Hmmm, it looks like Vree is the person I want to talk to. Good Bye.}
+{339}{}{嗯，也许弗蕾才是我真正想见的人。再见。}
+
+#{341}{}{It sounds like Vree's got the right idea!  Who needs to know this
+# garbage anyway!?!}
+{341}{}{听起来弗蕾是对的！谁想要了解这些垃圾呢？！}
+
+#{342}{}{I agree that history is important, but new technology and better
+# weapons is what I'm looking for.}
+{342}{}{我也认为历史是十分重要的，但我现在要找的是新的科技和更好的武器。}
+
+#{343}{}{You need to speak with Vree about things of that nature.}
+{343}{}{这种事情你得去和弗蕾谈。}
+
+#{344}{}{These are things that only Scribes and Paladins have access to.
+# Vree may be able to help you.}
+{344}{}{这些事只有导师和游侠才有资格决定。弗蕾也许可以帮你。}
+
+#{345}{}{Thank you, I'll go ask Vree.}
+{345}{}{谢谢你，我会去问弗蕾的。}
+
+#{346}{}{Is there any holo-disks that I can have access to?}
+{346}{}{这边有我能拿到的磁盘吗？}
+
+#{347}{}{You're obviously not the right person to be talking to. Good Bye.}
+{347}{}{很显然，你并不是正确的谈话对象。再见。}
+
+#{348}{}{Well, it's good to see someone interested in our great history.
+# Unlike others around here.  Here you go. This is a disk of some of our earliest writings.}
+{348}{}{啊，能见到对我们的伟大历史感兴趣的人真是太好了。你不像这边的其他人。给你这个。这是一张记载着我们最初历史的磁盘。}
+
+#{349}{}{Thank you.}
+{349}{}{谢谢你。}
+
+#{350}{}{I don't care about this crap.  Thanks for nothing.}
+{350}{}{我不想要这个。不过还是谢谢。}
+
+#{351}{}{Our history is available to everyone.  So that they may learn of our
+# great history...Not that any one ever looks at them.}
+{351}{}{我们的历史每个人都可以看。这样他们才有可能学到我们的历史……而不是泛泛地看看。}
+
+#{352}{}{I would like to see anything you have on the Brother's history.}
+{352}{}{我想看看你还有什么关于兄弟会历史的东西。}
+
+#{353}{}{Really? I don't care either, just show me the guns.}
+{353}{}{是吗？我也不在意那个，只要你把枪拿出来给我看。}
+
+#{354}{}{Greetings.  I have not seen you here before, are you lost?  May I be
+# of service?}
+{354}{}{你好。我从前没有在这边见过你，你迷路了吗？我能帮忙吗？}
+
+#{355}{}{Uh......}
+{355}{}{这……}
+
+#{356}{}{Could you direct me to the library?}
+{356}{}{你能告诉我图书馆怎么走吗？}
+
+#{357}{}{I was sent here to speak with Vree about the Brotherhood's history.}
+{357}{}{我在找弗蕾。}
+
+#{358}{}{If I was lost I wouldn't be asking an idiot like you for help!}
+{358}{}{就算我迷路了，我也不会找你这样的白痴问路！}
+
+#{359}{}{You didn't get far with that did you?  Vree's is to busy with her
+# "experiments" to care about history any more.}
+{359}{}{你没听明白我的话吧？弗蕾正在忙于做那些“实验”，根本没空回答关于历史的问题。}
+
+#{360}{}{Well, then who can I talk to about the history of the Brotherhood?}
+{360}{}{那么谁能告诉我关于兄弟会的历史呢？}
+
+#{361}{}{Yeah, the Brotherhood seems to be filled with idiots.}
+{361}{}{没错，看起来兄弟会的确是充满了白痴。}
+
+#{362}{}{Neither do I.  Good Bye.}
+{362}{}{我也没空。再见。}
+
+#{363}{}{I will not talk with you.}
+{363}{}{我不会和你谈的。}
+
+#{364}{}{How can I help you?}
+{364}{}{我能帮你吗？}
+
+#{365}{}{What do you do here?}
+{365}{}{你在这里做什么？}
+
+#{366}{}{Could you tell me about the Brotherhood's history.}
+{366}{}{你能告诉我关于兄弟会历史的事情吗？}
+
+#{367}{}{Sorry, I thought you were someone else.  Good bye.}
+{367}{}{对不起，我认错人了。再见。}
+
+#{368}{}{I am Vree's assistant.}
+{368}{}{我是弗蕾的助手。}
+
+#{369}{}{Thank you.}
+{369}{}{谢谢你。}
+
+#{370}{}{What is it you do as Vree's assistant?}
+{370}{}{你作为弗蕾的助手都做些什么呢？}
+
+#{371}{}{Well, it's good to see someone interested in our great history.
+# Unlike others around here.  Here you go. This is a disk of some of our earliest writings.}
+{371}{}{啊，能见到对我们的伟大历史感兴趣的人真是太好了。你不像这边的其他人。给你这个。这是一张记载着我们最初历史的磁盘。}
+
+#{372}{}{Thank you.}
+{372}{}{谢谢你。}
+
+#{373}{}{I don't care about this crap.  Thanks for nothing.}
+{373}{}{我不想要这个。不过还是谢谢。}
+
+#{374}{}{I gave you the disk with some of our early writings on it.  Just
+# load it up into your PIPBoy 2000 and you will be able to read it.}
+{374}{}{我已经给了你载有我们最初历史的磁盘。只要把它下载到你的哔哔小子2000上就可以阅读了。}
+
+#{375}{}{Thank you.}
+{375}{}{谢谢你。}
+
+#{376}{}{I don't care about this crap.  Thanks for nothing.}
+{376}{}{我不想要这个。不过还是谢谢。}
+
+#{377}{}{I don't like your attitude, and I choose not to talk to you.}
+{377}{}{我不喜欢你的态度，我决定不和你聊天了。}
+
+#{378}{}{So be it. Good bye!}
+{378}{}{那就这样吧。再见！}
+
+#{379}{}{I'm sorry, I was very rude and I apologize.}
+{379}{}{对不起，我太鲁莽了。我道歉。}
+
+#{380}{}{I accept your apology.  Now how can I help you? }
+{380}{}{我接受你的道歉。现在我能帮你什么呢？}
+
+#{381}{}{What do you do here?}
+{381}{}{你在这里做什么？}
+
+#{382}{}{Could you tell me about the Brotherhood's history.}
+{382}{}{你能告诉我关于兄弟会历史的事情吗？}
+
+#{383}{}{Sorry, I thought you were someone else.  Good bye.}
+{383}{}{对不起，我认错人了。再见。}
+
+#{384}{}{I am Vree's assistant.  Vree is in the Learning Center.}
+{384}{}{我是弗蕾的助手。弗蕾在研究中心里。}
+
+#{400}{}{You see an instructor for the Brotherhood Initiates.}
+{400}{}{你看到一个兄弟会新兵的指导员。}

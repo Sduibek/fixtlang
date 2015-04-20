@@ -1,0 +1,9 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see a worn chair.}
+# {101}{}{You see a worn chair.}
+# {102}{}{The chair seems inviting; however, you must continue on your mission.}
+{100}{}{你见到一把损坏的椅子。}
+{101}{}{你见到一把损坏的椅子。}
+{102}{}{这椅子让你流连忘返，但是你还是要先去完成任务。}

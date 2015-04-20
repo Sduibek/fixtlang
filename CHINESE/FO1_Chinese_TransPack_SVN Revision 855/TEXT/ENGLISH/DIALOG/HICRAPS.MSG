@@ -1,0 +1,29 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+# {100}{}{You see before you the low stakes Craps table. It costs $40 to play.}
+# {101}{}{You rolled a 7. You will!!}
+# {102}{}{You roll snake eyes. You lose.}
+# {103}{}{You rolled }
+# {104}{}{! You win!!}
+# {105}{}{You rolled }
+# {106}{}{. You lose.}
+# {107}{}{You rolled }
+# {108}{}{ before rolling your point. You lose.}
+# {109}{}{You rolled your point. You win.}
+# {110}{}{You rolled }
+# {111}{}{. This is your point. Rolling again.}
+# {112}{}{You gain 70 experience points for killing the dealer.}
+{100}{}{你看到在双骰子赌桌上的说明，最小赌注40元。}
+{101}{}{你掷出个7！你赢了！}
+{102}{}{你掷出两个1点，你输了。}
+{103}{}{你掷出}
+{104}{}{！你赢了！}
+{105}{}{你掷出}
+{106}{}{。你输了。}
+{107}{}{你掷出}
+{108}{}{你没有掷出你的点数，你输了。}
+{109}{}{你掷出了你的点数，你赢了。}
+{110}{}{你掷出}
+{111}{}{。这是你的点数，继续掷骰子。}
+{112}{}{你杀了这个赌桌庄家，你得到70点经验值。}

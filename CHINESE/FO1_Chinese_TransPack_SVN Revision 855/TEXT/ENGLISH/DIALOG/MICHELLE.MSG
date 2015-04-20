@@ -1,0 +1,123 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Michelle.}
+{100}{}{你看到米歇尔。}
+{101}{}{}
+{102}{}{}
+#{103}{}{You see a member of the Blades.}
+{103}{}{你看一个利刃帮成员。}
+#{104}{}{You see a member of the Blades.}
+{104}{}{你看一个利刃帮成员。}
+#{105}{}{You think that might be Books.}
+{105}{}{你觉得那是“书”。}
+#{106}{}{You think that might be Scars.}
+{106}{}{你觉得那是“伤疤”。}
+#{107}{}{You think that might be Gunner.}
+{107}{}{你觉得那是“枪手”。}
+#{108}{}{You think that might be Twitch.}
+{108}{}{你觉得那是“抽搐”。}
+#{109}{}{You think that might be Hammer.}
+{109}{}{你觉得那是“锤子”。}
+#{110}{}{You think that might be Razor.}
+{110}{}{你觉得那是“剃刀”。}
+#{111}{}{What are you doing here?}
+{111}{}{你在这做什么呢？}
+#{112}{}{Hhrrrnnn.}
+{112}{}{呵呵呵。}
+#{113}{}{Nothing. Honest.}
+{113}{}{没什么。老兄。}
+#{114}{}{I'm just looking around.}
+{114}{}{我随便逛逛。}
+#{115}{}{This! *smack*}
+{115}{}{这个！【猛击】}
+#{116}{}{A moron. I think that you'd best get out of here. Otherwise,
+# you may become target practice.}
+{116}{}{白痴。我想你最好快离开这儿。不然，你会变成练习的靶子。}
+#{117}{}{Arroo!}
+{117}{}{啊哦！}
+#{118}{}{Arook.}
+{118}{}{啊喔！}
+#{119}{}{Nothing, eh? I think you're hiding something. Out with it
+# before you see your guts.}
+{119}{}{没什么，嗯？我看你想瞒我。在你看到你的内脏之前，说出来！}
+#{120}{}{I'm really a Martian.}
+{120}{}{我真是火星人。}
+#{121}{}{I'm here to stop the gang wars.}
+{121}{}{我来这阻止帮派争斗。}
+#{122}{}{I'm not up to anything.}
+{122}{}{我什么也不在乎。}
+#{123}{}{I'm up to THIS! *smack*}
+{123}{}{我在乎这个！【啧啧啧】}
+#{124}{}{Everyone knows there are no such things as Martians.
+# All real aliens are from Venus. Now, you die!}
+{124}{}{谁都知道没有火星人这玩意。所有真正的外星人是从金星来的。现在，你去死吧！}
+#{125}{}{Sure, and I'm the Queen of Mexico.}
+{125}{}{没错，我就是墨西哥女王。}
+#{126}{}{Honest. I want to stop the wars so I can help Adytum.}
+{126}{}{实话说。我要阻止争斗，帮助内城区。}
+#{127}{}{Your Majesty, I truly seek to end the wars.}
+{127}{}{阁下，我真的期待结束争斗。}
+#{128}{}{If your intelligence were greater, I would try to
+# explain the benefits of peace.}
+{128}{}{如果你的智商够高，我会试试解释和平的好处。}
+#{129}{}{If you're here to do that, then you'll need to try and find
+# Razor. She'll let you know what we think of that.}
+{129}{}{如果你在这做那个，你应该去找找剃刀。她会让你知道我们怎么想那个的。}
+#{130}{}{Uh, thanks. I think.}
+{130}{}{啊，多谢。}
+#{131}{}{Okay. Good bye.}
+{131}{}{好。再见。}
+#{132}{}{Mock me, will you? I guess I should expect as much from a
+# child. Oh, by the way. Here!}
+{132}{}{骗我，是不是？我是小孩子？？！！哦，对了，看招！} 
+#{133}{}{Fancy talk will only get you so far. Here, it will get
+# you about six feet under.}
+{133}{}{愉快的谈天就到这了。现在，埋了你的时间到了。}
+#{134}{}{If you are up to nothing, then we will put you up to
+# something. I think 'target' makes a good something.}
+{134}{}{如果你什么也不在乎，我们会让你在乎的。我想“靶子”会是个不错的东西。}
+#{135}{}{You looked. Now, what do you want? Think quick. It may mean
+# the difference between walking out of here and becoming
+# a permanent resident.}
+{135}{}{你看过了。现在，你想要什么？快点。活着离开这里和死了留在这里是不一样的。}
+#{136}{}{I'd like to live here.}
+{136}{}{我喜欢活着留在这里。}
+#{137}{}{I'm really a Ripper in disguise.}
+{137}{}{我真是个伪装的电锯党人。}
+#{138}{}{I want to bring peace to the gangs.}
+{138}{}{我想给帮派们带来和平。}
+#{139}{}{Leaving.}
+{139}{}{我走。}
+#{140}{}{Nothing special. Just looking at the garbage to be
+# recycled.}
+{140}{}{没什么特别的。就想清理垃圾。}
+#{141}{}{We never said anything about living. You would just
+# reside here. Indefinitely. Enjoy your stay.}
+{141}{}{活着？你就躺这吧。无期的。好好享受吧。}
+#{142}{}{I'm glad you said that. I've been meaning to sharpen this. }
+{142}{}{我很高兴你这么说。我想把这个弄得更锋利。}
+#{143}{}{Soon I will have a hide to sharpen it on.}
+{143}{}{很快我就会有块皮把它弄得更锋利。}
+#{144}{}{Not so fast. The only way someone leaves here is if they
+# are a Blade, or in a bag.}
+{144}{}{没这么快。人们离开这里的唯一办法是成为利刃帮的人，或者装在袋子里。}
+#{145}{}{Then I want to be a Blade.}
+{145}{}{那么我想加入利刃帮。}
+#{146}{}{How big is this bag?}
+{146}{}{这袋子有多大？}
+#{147}{}{You forget the third option. Me!}
+{147}{}{你忘了第三种选择。那就是～～～我的选择！}
+#{148}{}{Fat chance. But, he's a test. If you can find Razor, then
+# you can talk to her about that.}
+{148}{}{你没有机会的。不过，聊可一试。如果你找到剃刀，可以和她谈谈测验的事。}
+#{149}{}{Big enough to stuff your body parts in when we finish.}
+{149}{}{可以大的足够装下你。}
+#{150}{}{I am not Sleeping Beauty. I do not need to be awakened.
+# Get out or die.}
+{150}{}{我不是睡美人。我不要被叫醒。滚出去，不然去死。}
+#{151}{}{Hear you're out for the bastard's head. Give him an extra
+# knife twist for me.}
+{151}{}{听说你去取那混蛋的首级。替我多给他来一刀。}
+#{152}{}{Welcome back. The Hole is open and ready to house you once more.}
+{152}{}{欢迎回来。“洞洞旅馆”再次为你服务。}

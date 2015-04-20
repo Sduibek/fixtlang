@@ -1,0 +1,17 @@
+
+# {100}{}{Paladin}
+# {101}{}{You shouldn't be in here, Initiate.}
+# {102}{}{What are you doing in here?}
+# {103}{}{The guard room is for guards. You are not a guard. You are in the guardroom. Therefore, YOU should leave.}
+# {104}{}{Please leave. You shouldn't be here.}
+# {105}{}{Hey, no Initiates.}
+# {106}{}{This is not the library, my boy. If you want to browse, go to the library.}
+# {107}{}{This is not the library, my girl. If you want to browse, please go to the library.}
+{100}{}{游侠}
+{101}{}{新兵，你不该在这里。}
+{102}{}{你在这里干什么？}
+{103}{}{这房间是专门给警卫准备的，你不是警卫来这里干嘛，你应该离开了。}
+{104}{}{请离开，你不该在这里。}
+{105}{}{嘿，新兵不能在这里。}
+{106}{}{我的小伙子，这里不是图书馆，你要是想找点资料就去图书馆吧。}
+{107}{}{我的姑娘，这里不是图书馆，你要是想找点资料就去图书馆吧。}

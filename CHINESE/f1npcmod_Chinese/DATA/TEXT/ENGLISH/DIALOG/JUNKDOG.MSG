@@ -1,0 +1,22 @@
+# {100}{}{You see a dog. He seems to be following you.}
+# {101}{}{You see a dog.}
+# {102}{}{Woof!}
+# {103}{}{Grrr!}
+# {104}{}{You gain 100 experience points for helping Phil solve his canine conundrum.}
+# {105}{}{It seems that you have made a friend of this dog.}
+# {106}{}{The dog seems to think you are his owner.}
+# {110}{}{Woof-woof!}
+# {111}{}{Come on, buddy.}
+# {112}{}{Stay here and wait, OK?}
+# {113}{}{Good dog.}
+{100}{}{你看到一条狗，它好像一直在跟着你。}
+{101}{}{你看到一条狗。}
+{102}{}{喔呜！}
+{103}{}{呜呜！}
+{104}{}{你得到１００点经验值，因为你帮菲尔找到他丢失的狗。}
+{105}{}{看起来你和这条狗已经成为很好的朋友了。}
+{106}{}{这狗把你当成它的主人。}
+{110}{}{汪-汪！}
+{111}{}{跟着，伙计。}
+{112}{}{呆在这里等我, 好吗？}
+{113}{}{乖狗狗。}

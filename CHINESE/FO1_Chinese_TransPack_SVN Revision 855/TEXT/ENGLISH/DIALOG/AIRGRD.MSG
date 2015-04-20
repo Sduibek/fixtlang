@@ -1,0 +1,101 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a super mutant. He is guarding the airlock door.}
+#{101}{}{You see a super mutant guard.}
+#{102}{}{耶利米, you may pass.}
+#{103}{}{Move along.}
+#{104}{}{Move faster, messenger.}
+#{105}{}{Normals cannot carry weapons here! Halt and identify yourself!}
+#{106}{}{Grrr!}
+#{107}{}{Uh, sorry. I'll put it away.}
+#{108}{}{I'm just passing through. No need for identities here.}
+#{109}{}{Die! Die! Die! I always wanted to say that.}
+#{110}{}{I will not be spoken to that way. You will be punished.}
+#{111}{}{Halt! What is your business here, 'child'.}
+#{112}{}{Hng!}
+#{113}{}{I'm, uh, doing stuff.}
+#{114}{}{I'm on important business. You have no right to stop and question me.}
+#{115}{}{Don't talk to me, big boy.}
+# {116}{}{Your answer does not settle my nerves. Speak quickly and clearly, or
+ # I will assume you are here for foul purposes. I assure you that you will
+ # not like that...}
+#{117}{}{Uh, no, really, honestly. I'm doing stuff.}
+#{118}{}{I'm bringing a message to our leader.}
+#{119}{}{I sense the untruth behind your words. You will not be allowed in. This I promise you...}
+#{120}{}{You may pass, but next time, follow the proper procedure...}
+#{121}{}{Ok, thanks. See you around.}
+#{122}{}{And what's that?}
+#{123}{}{Blessing to you, brother.}
+#{124}{}{A true follower of the Master would have that knowledge. You are an intruder!}
+#{125}{}{Move along. I don't have time for your questions.}
+#{126}{}{You are annoying me.}
+#{127}{}{I have work to do. Do you?}
+#{128}{}{You are making a mistake by coming here. Explain yourself or perish...}
+#{129}{}{Nuggie!}
+#{130}{}{I have nothing to say.}
+#{131}{}{I'm here to protect humanity from the likes of you.}
+#{132}{}{Oh, shut up!}
+#{133}{}{You should not try to fool me by playing dumb. I tire of this...}
+#{134}{}{What kind of foolish bigotry is that, we are 'humanity.' We're just as human as you are.}
+#{135}{}{What kind of crap is that?}
+#{136}{}{There is no possible way that you are human.}
+#{137}{}{My name is 凯尔. I was born to a mother and a father, like yourself.
+# The Master just oversaw my rebirth. These muscles, this skin, this strength
+# does not make me any less human than you. I do not like all that the Unity
+# stands for, but it is the best chance for peace that we have.}
+#{138}{}{Not on my watch, it isn't. I'm here to put an end to you and your kind.}
+#{139}{}{You may be human, but that still doesn't make your Unity right. I guess we will be enemies.}
+#{140}{}{It is a pity that you act this way, but you will not proceed further...}
+#{141}{}{It will be a true shame to see your head on a pike.}
+#{142}{}{Intruders!}
+#{143}{}{I no speak to you.}
+#{200}{}{You gain }
+#{201}{}{ experience points for bluffing your way past the guards.}
+
+{100}{}{你看见一个超级变种人。他看守着气闸室的门。}
+{101}{}{你看见一个超级变种人卫兵。}
+{102}{}{耶利米，你可以通过。}
+{103}{}{往前走。}
+{104}{}{快点走，传信的。}
+{105}{}{普通人类不能在这里携带武器！不许动，报上你的身份！}
+{106}{}{呃！}
+{107}{}{嗯，对不起。我会把它放好的。}
+{108}{}{我只是通过这儿，没必要通报身份。}
+{109}{}{我老想说这句，“死！死！死！”}
+{110}{}{你敬酒不吃吃罚酒。}
+{111}{}{停下！小鬼，你来这儿干啥？}
+{112}{}{嗯！}
+{113}{}{我啊，嗯, 做事。}
+{114}{}{我很重要任务。你没权拦下问我。}
+{115}{}{别和我说话，大家伙。}
+{116}{}{你那些话骗不过我。快点老实说，否则我就认定你不怀好意。我保证你不会喜欢那样……}
+{117}{}{嗯，不，真的，没撒谎，我就是来做事的。}
+{118}{}{我给我们的领袖传信来得。}
+{119}{}{我觉得你话里有鬼。我肯定你不准进去。}
+{120}{}{你可以通过，不过下次，要遵守正式规定……}
+{121}{}{好，谢谢。待会儿见。}
+{122}{}{又有什么事？}
+{123}{}{祝福你，兄弟。}
+{124}{}{真正跟随大主教的人都应该清楚这些。你是个奸细！}
+{125}{}{往前走。我没空回答你的问题。}
+{126}{}{你很烦人啊。}
+{127}{}{我有工作要做。你呢？}
+{128}{}{你到这儿可来错了。不说清楚就是死……}
+{129}{}{噗嗤！}
+{130}{}{我没有什么好说的。}
+{131}{}{我来这就是为了从你们这些家伙手里拯救人类。}
+{132}{}{哦，闭嘴！}
+{133}{}{你别装疯卖傻来骗我。我可烦了……}
+{134}{}{看，这样多傻多固执，我们都是“人类”。我们和你们都是一样的人。}
+{135}{}{这是什么垃圾？}
+{136}{}{你不可能是人类。}
+{137}{}{我的名字是凯尔。我也和你们一样，是父母生的。主教监督了我重生的过程。这肌肉、这皮肤、还有这力量可不让我比你们这种人差。虽然我不喜欢融合表现出的所有那些东西，但这是我们和平共处的最好办法。}
+{138}{}{就我的观察，这可是错误的. 我来这就是为了消灭你和你这类人的。}
+{139}{}{也许你算人类，但是这并不代表着你们融合就是对的。我想我们会是敌人。}
+{140}{}{很遗憾你走上这条路，不过你不会再走下去了……}
+{141}{}{看到你的脑袋插在矛上真是遗憾。}
+{142}{}{有人闯进来了！}
+{143}{}{我不和你说。}
+{200}{}{通过蒙骗守卫获得通行，你获得}
+{201}{}{点经验值。}

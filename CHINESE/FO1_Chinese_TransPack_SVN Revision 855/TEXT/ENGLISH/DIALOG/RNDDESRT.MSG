@@ -1,0 +1,211 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{From the look of things, they can't have traveled very far. They must have #a lair nearby.}
+#{101}{}{They appear to have traveled here from somewhere nearby.}
+#{102}{}{It looks like they traveled from somewhere far north of here.}
+#{103}{}{Apparently, they were just wandering the wastes.}
+#{104}{}{You have stumbled on to a fierce battle between Rad Scorpions and Mole Rats.}
+#{105}{}{AMBUSH!!!}
+#{106}{}{You have stumbled upon a large pack of radscorpions!}
+#{107}{}{You have stumbled upon a pack of Rad Scorpions.}
+#{108}{}{You have stumbled upon a family of Mole Rats.}
+#{109}{}{You manage to avoid a serious case of dehydration by searching for water. #The search takes an additional hour.}
+#{110}{}{You manage to avoid a serious case of dehydration by searching for water. #The search takes an additional }
+#{111}{}{ hours.}
+#{112}{}{Your water supply runs low, and your search of an hour fails to locate more #water.
+# Severe dehydration sets in, causing you }
+#{113}{}{ points of health damage.}
+#{114}{}{Your water supply runs low, and your search of }
+#{115}{}{ hours fails to locate more water. Severe dehydration sets in causing you }
+#{116}{}{ points of health damage.}
+#{117}{}{You search for water in the high desert landscape for an hour, but you do #not find enough to fully
+# satisfy your thirst. You have sustained a point of
+# health damage.}
+#{118}{}{You search for water in the high desert landscape for an hour, but you do #not find enough to fully
+# satisfy your thirst. You have sustained }
+#{119}{}{ points of health damage.}
+#{120}{}{You search for water in the high desert landscape for }
+#{121}{}{ hours, but you do not find
+# enough to fully satisfy your thirst. You have sustained a point of health damage.}
+#{122}{}{You search for water in the high desert landscape for }
+#{123}{}{ hours, but you do not find enough to fully satisfy your thirst. You have
+# sustained }
+#{124}{}{ points of health damage.}
+#{125}{}{You manage to avoid dehydration due to your supplies of water.}
+#{12600}{}{Radscorpions hunt Mole rats among the ruined city walls.}
+#{126}{}{You've run into some Radscorpions hunting Mole rats.}
+#{127}{}{Skinny hostile humanoids with greenish skin approach.}
+#{128}{}{Junk and rocks are scattered about.}
+#{129}{}{A lone radscorpion ambushed you!}
+#{130}{}{You note a partially-eaten corpse here.}
+#{131}{}{STAMPEDE!!!}
+#{132}{}{You stumble onto a large pack of Rad Scorpions!}
+#{133}{}{Raiders ambush you!}
+#{134}{}{A pack of nasty radscorpions strikes from the desert!}
+#{135}{}{You encounter a group of guardsmen on patrol.}
+#{136}{}{You come across a merchant with several guards.}
+#{137}{}{You see a peasant herding several brahmin.}
+#{143}{}{Raiders!!!}
+#{144}{}{You have stumbled on a large gathering of Mole Rats.}
+#{145}{}{You encounter a band of wild radscorpions.}
+#{146}{}{You encounter some peasants under attack.}
+#{169}{}{You stumble into a family of Rad Scorpions.}
+#{170}{}{You come across a traveling merchant and guards.}
+#{171}{}{You encounter a dead traveler.}
+#{17100}{}{You encounter a traveler.}
+#{17200}{}{You have stumbled across a small patch of ruined and deserted buildings.}
+#{172}{}{You have stumbled across some items laying on the ground.}
+#{173}{}{You spot the remains of a caravan, being looted by raiders.}
+#{196}{}{Radscorpions, incoming!}
+#{197}{}{Uh oh . . . a raiding party!}
+#{198}{}{You see a lone raider in the distance.}
+#{199}{}{You come upon the remains of a battlefield, with bodies strewn about.}
+#{200}{}{Radscorpions, incoming!}
+#{223}{}{You spot a wandering pack of wild coyotes.}
+#{224}{}{You notice several individuals scouting about.}
+#{225}{}{You come across a small party of merchants and guards.}
+#{226}{}{You see a small war going on -- men versus mutants!}
+#{227}{}{A tremendous horde of radscorpions is coming this way!}
+#{250}{}{Several men in power armor are approaching you.}
+#{251}{}{You see a group of merchants and guards.}
+#{252}{}{You see a vicious battle underway between several desert raiders and a group #of men in power armor.}
+#{253}{}{You see several mutants exploring a patch of hostile ground.}
+#{254}{}{You see some strange creatures ahead . . .}
+#{25500}{}{You spot the ruins of a tiny village.}
+#{255}{}{You find some items.}
+#{256}{}{A patrol unit of super mutants is passing close by!}
+#{279}{}{Ahead you can see junk strewn about the sands.}
+#{280}{}{You stumble upon a Super Mutant war party.}
+#{281}{}{You stumble upon a pack of bizarre creatures.}
+#{282}{}{You stumble across a pack of hungry Radscorpions.}
+#{283}{}{You feel nauseous, and the air seems to waver with heat.}
+#{284}{}{You have stumbled across a bizarre floating creature.}
+#{285}{}{You encounter something out of an old SciFi movie.}
+#{286}{}{The Deathclaw!!}
+#{287}{}{You stumble into a migrating pack of Rad Scorpions.}
+#{288}{}{You encounter a mutated creature of the desert.}
+#{299}{}{You see several radscorpions some distance away.}
+#{300}{}{You run across a ragged peasant.}
+#{301}{}{You encounter a Mole rat.}
+#{302}{}{The Deathclaw!!}
+#{303}{}{You stumble into a migrating pack of Rad Scorpions.}
+#{304}{}{Scene_Type == }
+#{305}{}{You come across what's left of merchant Duc's hostile guards.}
+#{306}{}{A patrol unit of mutants is passing close by, along with them are some strange #creatures!}
+#{307}{}{You are ambushed by a small Super Mutant war party.}
+#{308}{}{Looks like you've stumbled into a vicious gang war!}
+#{309}{}{A group of hostile gangers bursts forth!}
+#{310}{}{A small group of raiders attack!}
+#{311}{}{A small group of gangers attack!}
+#{312}{}{You are suddenly attacked by rats!}
+#{313}{}{You are suddenly attacked by a swarm of Mantis!}
+# Some special encounter text
+#{314}{}{Hey! They're really out there.}
+#{315}{}{You see an overturned truck in the distance.}
+#{316}{}{You stumble across some wrecked cars in the middle of the wasteland.}
+#{317}{}{To the Northeast you spot a police box.}
+#{318}{}{You come across a heard of wild Brahmin. You feel there is something #wrong...}
+
+
+{100}{}{从这些迹象表明，他们没走多远。在附近一定有个藏身的窝点。}
+{101}{}{看起来他们是从附近的什么地方来到这里的。}
+{102}{}{似乎他们从很远的北边来。}
+{103}{}{看样子，他们只是在这废土上游荡。}
+{104}{}{你碰上一场大蝎子和变种地鼠之间的激战。}
+{105}{}{埋伏！！}
+{106}{}{你碰上一大群大蝎子！}
+{107}{}{你碰上一群大蝎子。}
+{108}{}{你碰上一群变种地鼠。}
+{109}{}{通过搜寻你找到一些水，避免了严重脱水的危险。搜寻花费了1个小时。}
+{110}{}{通过搜寻你找到一些水，避免了严重脱水的危险。搜寻花费了}
+{111}{}{个小时。}
+{112}{}{水的补给吃紧，一小时的搜寻并未找到水。你脱水了，这让你失去了}
+{113}{}{点生命值。}
+{114}{}{水的补给吃紧，你搜寻了}
+{115}{}{个小时也没找到水。脱水导致你失去了}
+{116}{}{点生命值。}
+{117}{}{你花了一个小时在沙漠高地找寻水，但是没有找到足够的水来补充。你失去了一点生命值。}
+{118}{}{你花了一个小时在沙漠高地找寻水，但是没有找到足够的水来补充。你失去了}
+{119}{}{生命值。}
+{120}{}{你在沙漠高地找寻水，用了}
+{121}{}{个小时，但是没有找到足够的水来补充。你失去了一点生命值。}
+{122}{}{你在沙漠高地找寻水，用了}
+{123}{}{个小时，但是没有找到足够的水来补充。你失去了}
+{124}{}{点生命值。}
+{125}{}{依靠水的补给，你避免了脱水。}
+{12600}{}{在废墟的墙壁周围，大蝎子在捕杀地鼠。}
+{126}{}{你碰上大蝎子在捕杀地鼠。}
+{127}{}{一些象人的绿色生物，皮包骨头，充满敌意。}
+{128}{}{垃圾和石块散落在地上。}
+{129}{}{一只大蝎子伏击了你。}
+{130}{}{你注意到这有具部分已被吃掉的残骸。}
+{131}{}{跑！！}
+{132}{}{你遭遇到一大群大蝎子！！！！}
+{133}{}{遭遇歹徒伏击。}
+{134}{}{狡猾的大蝎子从沙漠中冲出攻击。}
+{135}{}{你遇到一些巡逻中的守卫。}
+{136}{}{你碰上一个商人，和几个护卫。}
+{137}{}{你看到一个平民赶着几头双头牛。}
+{143}{}{歹徒！！}
+{144}{}{你遭遇到一大群变种地鼠。}
+{145}{}{你遭遇一群野生大蝎子。}
+{146}{}{你遇到一些被攻击的平民。}
+{169}{}{你碰上一个大蝎子家族。}
+{170}{}{你碰上一个旅行商人和他的护卫。}
+{171}{}{你碰到一个死掉的旅行者。}
+{17100}{}{你碰到一个旅行者。}
+{17200}{}{你发现一条废墟的小路，还有一些被沙掩埋的建筑。}
+{172}{}{你发现地上有一些物品。}
+{173}{}{你发现一个商队的幸存者被歹徒包围着。}
+{196}{}{大蝎子逼近！}
+{197}{}{哦……歹徒聚会！}
+{198}{}{你看到远处有个落单的歹徒。}
+{199}{}{你来到一处曾发生战斗的地方，死尸横陈。}
+{200}{}{大蝎子逼近！}
+{223}{}{你发现一群游荡的野狼。}
+{224}{}{你看到几个人在四处侦察。}
+{225}{}{你看见一个商人和少数的护卫。}
+{226}{}{你看见一场小规模冲突正在进行——人类对变种人。}
+{227}{}{一大群辐射蝎从那边过来了！}
+{250}{}{几个穿动力装甲的人在向你靠近。}
+{251}{}{你看到商人和一群护卫。}
+{252}{}{你看到一些沙漠歹徒正在与一群穿动力装甲的人激战。}
+{253}{}{你看到几个变种人在艰险的环境里寻找出路。}
+{254}{}{你看到前面有些奇怪的生物……}
+{25500}{}{你发现一个小村落的废墟。}
+{255}{}{你找到一些物品。}
+{256}{}{一个变种人巡逻队在靠近！}
+{279}{}{你看到前面有些垃圾散落在沙漠里。}
+{280}{}{你与一个超级变种人战队遭遇了。}
+{281}{}{你遇到一群奇怪的生物。}
+{282}{}{你遇到一群饥饿的大蝎子。}
+{283}{}{你觉得恶心，空气中似乎热浪滚滚。}
+{284}{}{你遇到一群奇异的浮游生物。}
+{285}{}{你遇到一群好象老恐怖片里的东西。}
+{286}{}{死亡爪！！}
+{287}{}{你遇到一群迁徙中的大蝎子。}
+{288}{}{你遇到一个沙漠中的变种生物。}
+{299}{}{你看到远处有些大蝎子。}
+{300}{}{你遇到一个穿着破烂的平民。}
+{301}{}{你遇到一只变种地鼠。}
+{302}{}{死亡爪！！}
+{303}{}{你遇到一群迁徙中的大蝎子。}
+{304}{}{Scene_Type == }
+{305}{}{你遇到杜克商人的护卫余部。}
+{306}{}{一个超级变种人巡逻队从附近经过，还有些奇怪的生物！}
+{307}{}{你与一支超级变种人小队遭遇了。}
+{308}{}{似乎你遇到一场帮派混战。}
+{309}{}{前方发现一群凶狠的帮派成员。}
+{310}{}{遭到一小群歹徒攻击。}
+{311}{}{遭到一小帮派成员徒攻击。}
+{312}{}{你遭到老鼠的突然袭击。}
+{313}{}{你遭到一大群螳螂的突然袭击。}
+# Some special encounter text
+{314}{}{晕！他们真的在那！}
+{315}{}{你看到远处有一辆翻掉的卡车。}
+{316}{}{你发现废土中有一些报废的车。}
+{317}{}{你发现东北方有个警亭。}
+{318}{}{你碰到一群野生双头牛。这有点不太对劲儿……}
+
+

@@ -1,0 +1,169 @@
+#tento soubor pøeloil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Vidíš enu.}
+{107}{}{Vidíš mue.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{Vidíš oralu.}
+{110}{}{Nech mì, mám depresi.}
+{111}{}{Ty si mùj nejlepší kámoš.}
+# best friend (slurred)
+
+{112}{}{Proè jsi,... (škyt) kde to jsem?}
+{113}{}{Kdo jsi?}
+{114}{}{Znám Tì?}
+{115}{}{Je mi nìjak blbì.}
+{116}{}{Pití jde na mì. (škyt) Myslím teda na Tebe.}
+{117}{}{Proè jste tu dva?}
+{118}{}{Buï hodnej chlapeèek!}
+# laddy is male
+
+{119}{}{Buï hodná holèièka!}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{Vidíš zákazníka.}
+{104}{}{Vidíš hráèe.}
+{120}{}{Vypadni, posero!}
+# == "Get out of here loser"
+
+{121}{}{Zacláníš tady.}
+# == "you are dropping the class of this place"
+
+{122}{}{Vypadni, pøinášíš mi smùlu!}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Neruš mì, soustøedím se.}
+{124}{}{Zatracená hra! Ale já ji zmáknu!}
+{125}{}{Jseš v tom dobrej?}
+{126}{}{Vidìl jsi to? To není monı!}
+# referring to dice roll
+
+{127}{}{Urèitì švindlujou.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{Teï je dobrá šance.}
+{129}{}{To je jasná vìc.}
+# referring to a bet.
+
+{130}{}{Co? Jak jsem mohl prohrát?}
+{131}{}{Tenhle stùl je prokletej!}
+# == "this table is cursed/unlucky"
+
+{132}{}{Nemám èas.}
+{133}{}{Nevidíš, e hraju?}
+{134}{}{Vsaï si nebo vypadni.}
+
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+
+{102}{}{Vidíš hezkou enu.}
+{105}{}{Vidíš enu, zdá se ale, e na tebe nemá èas.}
+{135}{}{Nech nás na pokoji, nebo zavolám hlídku.}
+{136}{}{Hele, já se kamarádím s policajty.}
+{137}{}{Vadí ti to?}
+{138}{}{Tady není ádnı peep show!}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Já grupáè nedìlám.}
+# == "I don't have sex with more than one person."
+
+{140}{}{U toho mám dneska dost.}
+# referring to having another round of sex.
+
+{141}{}{Moc sníš kámo, vypadni!}
+{142}{}{Jdi do prdele!}
+{143}{}{Co si sakra myslíš, e dìláš?}
+{144}{}{Kro se!}
+{145}{}{Zavolám policajty!}
+{146}{}{A tì to ani nenapadne!}
+{147}{}{Vystøel!}
+{148}{}{Vypadni!}
+{149}{}{Na co èumíš?}
+{150}{}{Vadí ti to?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{Vidíš oldáka.}
+{151}{}{Vypadni kruci z tıhle místnosti!}
+{152}{}{Ven!}
+{153}{}{Ty to dìláš ve tøech?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Vypadni, ty perverzáku!}
+# == "get out of here, perverse person"
+
+{155}{}{Máš problém?}
+{156}{}{Vystøel ne se naseru!}
+# "Beat it" == "get out of here"
+
+{157}{}{Najdi si svojí šlapku.}
+# ==  "get your own hooker"
+
+{158}{}{Tahle je moje.}
+# "She" is referring to the hooker.
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{Vidíš hráèe v hodnì špatné náladì.}
+{159}{}{Sakra!}
+{160}{}{Švindluješ?}
+# referring to the player
+
+{161}{}{To by mìlo bıt moje.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Skoro!}
+# nearly got his number on the roulette wheel
+
+{163}{}{Tìsnì vedle.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{Jaká jsou pravidla?}
+# in referrence to a gambling game
+
+{165}{}{Bıvala to moje oblíbená hra.}
+# in referrence to a gambling game
+
+{166}{}{Dík za nic.}
+{167}{}{Tomu nevìøím!}
+{168}{}{Chtìl jsem to udìlat.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{Vidíš podivnì vypadajícího mue.}
+{169}{}{Sázejte.}
+{170}{}{Ruce pryè, pane.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Vítìz!}
+{172}{}{Kdepak, moná pøíštì.}
+# maybe next time someone can win
+
+{173}{}{Další vítìz!}
+{174}{}{Ruce pryè!}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{Vaše kolo, pane.}
+# your turn to bet
+{176}{}{Pardon, to je neplatná sázka.}
+{177}{}{To je ono.}
+{178}{}{Ještì nìkdo?}

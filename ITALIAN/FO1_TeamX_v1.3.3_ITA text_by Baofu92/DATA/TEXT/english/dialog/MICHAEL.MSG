@@ -1,0 +1,171 @@
+{100}{}{Vedi Michael.}
+{101}{}{Beh, credo di aver individuato il problema. Dovresti vedere il Dottore: si trova al secondo livello.}
+{102}{}{A me sembra che tu stia bene.}
+{103}{}{Il magazzino e' off limits, amico. Solo io e altri due Fratelli possiamo accedere a questa stanza. Se ti serve qualcosa, dovrai chiedere a me.}
+{104}{}{Il magazzino e' off limits, miss. Solo io e altri due Fratelli possiamo accedere a questa stanza. Se ti serve qualcosa, dovrai chiedere a me.}
+{105}{}{Non mi hai sentito? Ho detto che il magazzino e' off limits.}
+{106}{}{Salve, Fratello. Come posso aiutarti?}
+{107}{}{La domanda potra' sembrarti strana, ma qual e' il tuo compito nella Confraternita?}
+{108}{}{Cosa ci fai qui?}
+{109}{}{Sono stato ferito. Potresti curarmi?}
+{110}{}{Urak Chufar!}
+{111}{}{Mi dispiace, ma non capisco cosa vuoi. Se ti servono provviste, avrai bisogno di un'autorizzazione.}
+{112}{}{Taga ma.}
+{113}{}{Caroo!}
+{114}{}{Continuo a non capirti. Forse dovresti vedere il Dottore. Si trova al secondo livello.}
+{115}{}{Dovresti farti vedere dal Dottore. La trovi al secondo livello.}
+{116}{}{Oh, il mio compito non porta gloria come quello dei Paladini. Mi occupo soltanto del magazzino; consegno armi e provviste.}
+{117}{}{Mi manda... Bob. Vorrebbe che gli portassi... quella nuova arma ipertecnologica. Mi ha detto di portargliela subito.}
+{118}{}{Vorrei ritirare qualcosa. Cosa devo fare?}
+{119}{}{Oh, magnifico. Ci vediamo.}
+{120}{}{[Bugia non riuscita] Bob? Bob chi? Di cosa stai parlando? Quale arma? Ho bisogno di una descrizione piu' precisa e dovrai dire a chiunque ti abbia mandato di darti l'autorizzazione firmata da un superiore. Non posso consegnare nulla senza autorizzazione.}
+{121}{}{[Bugia riuscita] Oh, stai parlando della pistola laser? Okay, aspetta un secondo, per favore. [Controlla una lista] Non mi risulta che ci siano autorizzazioni rilasciate ad un Bob per un laser. Oh, aspetta. Ho capito. Quelle ragazze giu' di sotto credono di essere divertenti, eh? Come vorrei che la smettessero di darmi noia.}
+{122}{}{Beh, sai com'e'... Mi hanno chiesto di non dirtelo, ma e' solo perche' sono timide. Credo che una di loro abbia preso una cotta per te.}
+{123}{}{Mi dispiace... non avevo idea di cosa avessero in mente. Mi hanno chiesto di venire qui e di dirti quelle cose, assicurandomi che ti saresti fatto una bella risata.}
+{124}{}{Mi dispiace. Era un pessimo scherzo. Stavo soltanto prendendoti in giro.}
+{125}{}{[Bugia non riuscita] Di nuovo?! Smettila di tormentarmi! Sono cosi' crudeli! Non credevo che ti saresti abbassato al loro livello. Noi Fratelli dovremmo andare tutti d'accordo.}
+{126}{}{Stai mentendo! Sei in combutta con loro. Come potete essere cosi' crudeli?}
+{127}{}{[Bugia riuscita] Davvero? Non mi stai prendendo in giro un'altra volta, vero? No, mi sembri un tipo a posto. Probabilmente ti hanno costretto a farlo. Sai, durante l'addestramento ho notato che Lara mi stava fissando. Scommetto che e' stata lei, vero?}
+{128}{}{Yep, centrata in pieno. E' proprio lei. Non dirle niente, pero'. Mi ammazzerebbe.}
+{129}{}{No, mi dispiace. Ti stavo soltanto prendendo in giro. Nessuno mi ha mandato qui.}
+{130}{}{Ancora?! Smettila di tormentarmi! Voi donne siete cosi' crudeli!}
+{131}{}{[Bugia riuscita] Davvero? Non mi stai prendendo in giro un'altra volta, vero? No, mi sembri una ragazza a posto. Probabilmente ti hanno costretta a farlo. Sai, durante l'addestramento ho notato che Lara mi stava fissando. Scommetto che e' stata lei, vero?}
+{132}{}{Yep, centrata in pieno. E' proprio lei. Non dirle niente, pero'. Mi ammazzerebbe.}
+{133}{}{No, mi dispiace. Ti stavo soltanto prendendo in giro. Nessuno mi ha mandata qui.}
+{134}{}{Beh, non so cosa dire. Ho sempre avuto una cotta per lei, ma non osavo fare il primo passo, perche' non sapevo se anche lei provasse dei sentimenti per me. La prossima volta che la vedo, penso che le chiedero' di uscire. Magari potrei provare a partecipare ad un giro di pattuglia insieme a lei e sorprenderla con una bella cenetta romantica. Grazie mille. Mi hai illuminato la giornata. Ecco, prendi. Credo che potrebbero tornarti utili. Sono delle granate ad impulso. Molto efficaci contro i robot. Ma ti auguro di non trovarti mai nella situazione di doverle usare. Ci vediamo.}
+{135}{}{Non e' molto carino da parte tua. Perche' mi hai detto una cosa del genere se non e' vera? Che gente!}
+{136}{}{Oh. Hai uno strano senso dell'umorismo. Beh, non disturbarmi piu' a meno che tu non abbia qualcosa da ritirare.}
+{137}{}{Oh, quelle ragazze non la smettono mai di tormentarmi. Non capisco perche' continuino a farlo. Quella Lara, pero', e' davvero carina. Mi piace da diverso tempo. La conosco da diversi anni. Quando era una ragazzina era molto dolce. Adesso che e' cresciuta mi tratta in maniera orribile. Non ho fatto nulla per meritarmelo.}
+{138}{}{Beh, magari le piaci. Non ci hai mai pensato? Forse non sa come dichiararsi. Potresti provare a chiederglielo. Se davvero ti piace, cos'hai da perdere?}
+{139}{}{Forse le piaci.}
+{140}{}{Ah, beh... Okay. Ciao.}
+{141}{}{La sai una cosa? Hai ragione. Cos'ho da perdere? La prossima volta che la vedo, penso che le chiedero' di uscire. Magari potrei provare a partecipare ad un giro di pattuglia insieme a lei e sorprenderla con una bella cenetta romantica. Grazie mille. Mi hai illuminato la giornata. Ecco, prendi. Credo che potrebbero tornarti utili. Sono dei farmaci che aumentano l'agilita'. Vacci piano, pero': possono creare dipendenza. Ci vediamo.}
+{142}{}{No, non credo. Le donne sanno davvero come confondermi, a volte. Sono in grado di leggere e capire ogni singolo progetto che mi trovo davanti agli occhi, ma quando si tratta di donne, mi sento perso. Grazie lo stesso.}
+{143}{}{No, non credo. Voi donne sapete davvero come confondermi, a volte. Sono in grado di leggere e capire ogni singolo progetto che mi trovo davanti agli occhi, ma quando si tratta di donne, mi sento perso. Grazie lo stesso.}
+{144}{}{Dovrai avere un'autorizzazione. Solo determinate persone possono firmare autorizzazioni per ritirare qualcosa dal magazzino.}
+{145}{}{Oh. Okay, grazie. A chi devo rivolgermi, allora?}
+{146}{}{Ho ricevuto l'autorizzazione a ritirare qualcosa. Potresti controllare il terminale per vedere se e' gia' stata inserita?}
+{147}{}{Chi puo' darmi l'autorizzazione?}
+{148}{}{Beh, ci sono diverse persone, in realta', ma probabilmente faresti meglio a rivolgerti a Talus. Puoi anche provare a parlare con Mathia; anche lei dovrebbe essere in grado di aiutarti.}
+{149}{}{Dove posso trovare Mathia?}
+{150}{}{Dov'e' Talus?}
+{151}{}{Okay, grazie.}
+{152}{}{Mathia e' l'assistente di Maxson. Tecnicamente sarebbe l'assistente personale del Sommo Anziano, ma lavora anche con gli altri Anziani. Di solito si trova nella Sala degli Anziani. La trovi al quarto piano.}
+{153}{}{Okay. Dov'e Talus?}
+{154}{}{Okay. Grazie. Ci si vede.}
+{155}{}{Beh, e' nella sala d'addestramento alla mia sinistra.}
+{156}{}{Ottimo. Potresti dirmi anche dove si trova Mathia?}
+{157}{}{E Mathia?}
+{158}{}{Grazie. Ci vediamo.}
+{159}{}{Certo. Durante il giorno la puoi trovare nella Sala degli Anziani. E' al quarto livello.}
+{160}{}{Grazie. Sei stato molto gentile.}
+{161}{}{Beh, ecco i farmaci per cui avevi l'autorizzazione. Occhio a non esagerare. Possono dare dipendenza, se ne abusi. Le crisi d'astinenza e il periodo di disintossicazione non sono il massimo della vita. Usali a tuo rischio e pericolo. C'e' altro che posso fare per te?} //but I guess they're pretty much the same thing
+{162}{}{No, basta cosi'. Grazie.}
+{163}{}{Si', dovrei ritirare qualcos'altro.}
+{164}{}{Beh, ecco i farmaci che volevi. E' roba piuttosto potente. Sono certo che ti sara' utile. Ti serve altro?}
+{165}{}{No, basta cosi'. Grazie.}
+{166}{}{Si', dovrei ritirare qualcos'altro.}
+{167}{}{Okay, ho proprio quel che ti serve. Le munizioni non bastano mai, eh? Beh, ecco qua. Altro?}
+{168}{}{No, basta cosi'. Grazie.}
+{169}{}{Si', dovrei ritirare qualcos'altro.}
+{170}{}{Oh, questi gingilli possono essere davvero pericolosi. Assicurati di essere a distanza di sicurezza, quando scoppiano. Ecco qua. Altro?}
+{171}{}{No, basta cosi'. Grazie.}
+{172}{}{Si', dovrei ritirare qualcos'altro.}
+{173}{}{Ah, niente di meglio che una bella arma al fianco. Altro?}
+{174}{}{No, basta cosi'. Grazie.}
+{175}{}{Si', dovrei ritirare qualcos'altro.}
+{176}{}{Il miglior attacco e' la difesa. O era il contrario? Beh, non ha importanza. Ecco la tua armatura. Posso fornirtene una sola. Ti serviva altro?}
+{177}{}{No, basta cosi'. Grazie.}
+{178}{}{Si', dovrei ritirare qualcos'altro.}
+{179}{}{Beh, questo gioiellino puo' essere molto utile nelle mani giuste. Ecco a te. Altro?}
+{180}{}{No, basta cosi'. Grazie.}
+{181}{}{Si', dovrei ritirare qualcos'altro.}
+{182}{}{Oh, c'e' dell'altro? Scusa, dev'essermi sfuggito. Vediamo...}
+{183}{}{Bentornato. Come ti va, oggi? Come posso aiutarti?}
+{184}{}{Posso aiutarti in qualche modo? Sembri essere molto impegnato.}
+{185}{}{Devo ritirare qualcosa.}
+{186}{}{No, grazie.}
+{187}{}{Pensi davvero di potermi aiutare? Non credo proprio. Fuori dai piedi.}
+{188}{}{Okay, vediamo...}
+{189}{}{Ah, si'. Hai un'autorizzazione per ritirare qualcosa.}
+{190}{}{Beh, si'. Sophia aveva bisogno di alcune granate ad impulso, ma non ho ancora avuto il tempo di consegnargliele. Credi di poterlo fare tu per me?}
+{191}{}{Certo. Dammi qua.}
+{192}{}{Mi dispiace, ma non ho tempo. Spero che tu riesca a trovare qualcun altro.}
+{193}{}{Chi credi che io sia? Il tuo facchino?}
+{194}{}{Okay, ecco qua. Sophia e' una delle assistenti del Capo Scriba Vree. Di solito si trova nella biblioteca al terzo livello.}
+{195}{}{Perche' non hai ancora consegnato le granate che ti ho dato? Sophia le sta aspettando.}
+{196}{}{Mi dispiace. Potresti ripetermi dove la posso trovare?}
+{197}{}{Le ho perse. Potrei averne delle altre?}
+{198}{}{Mi dispiace. Avevo perso la cognizione del tempo.}
+{199}{}{Ah! Credevi davvero che le avrei consegnate? Sei piu' stupido di quanto sembri!}
+{200}{}{Di solito si trova nella biblioteca al terzo livello.}
+{201}{}{Guardie! Un ladro! Mostrategli cosa facciamo a chi tradisce la Confraternita.}
+{202}{}{Guardie! Una ladra! Mostratele cosa facciamo a chi tradisce la Confraternita.}
+{203}{}{Mi dispiace, ma non parlo con i tipi come te.}
+{204}{}{Che storia commovente. Sapevo che avrei fatto meglio a non fidarmi di un tipo come te.} //Likely story
+{205}{}{Hai un bel coraggio a farti vedere ancora da queste parti. Spero che le granate ti siano state utili: da me non avrai piu' niente, neanche se l'autorizzazione te la firmasse Maxson in persona.}
+{206}{}{Ehi, bentornato. Sophia mi ha detto che le hai consegnato le granate. E' stato molto gentile da parte tua. Sta lavorando ad una versione potenziata e le serviva sapere se i circuiti sono compatibili.}
+{207}{}{Cosa vuoi?}
+{208}{}{Dammi quel che devo ritirare e poi me ne andro'.}
+{209}{}{Niente.}
+{210}{}{Bene, d'accordo. Fammi vedere se l'autorizzazione e' stata inserita.}
+{211}{}{Okay. Ti servono delle munizioni, vero? Beh, dimmi di che tipo le vuoi.}
+{212}{}{Non saprei...}
+{213}{}{10mm camiciati punta cava.}
+{214}{}{10mm perfora armature.}
+{215}{}{44 magnum camiciati punta cava.}
+{216}{}{44 magnum Full Metal Jacket.}
+{217}{}{14mm perfora armature.}
+{218}{}{.223 Full Metal Jacket.}
+{219}{}{5mm camiciati punta cava.}
+{220}{}{5mm perfora armature.}
+{221}{}{Cartucce per fucili.}
+{222}{}{Beh, dovrai scoprire che tipo di munizioni ti servono prima che io possa consegnartele. Basta che esamini l'arma per la quale le hai richieste. Quando l'avrai scoperto, fammi un fischio.}
+{223}{}{Ah, un lanciarazzi... niente di meglio che una bella arma al proprio fianco. C'e' altro?}
+{224}{}{No, basta cosi'. Grazie.}
+{225}{}{Si', dovrei ritirare qualcos'altro.}
+{226}{}{Ah si'. Ecco la pistola che stavi cercando. Poi... c'e' altro?}
+{227}{}{No, basta cosi'. Grazie.}
+{228}{}{Si', dovrei ritirare qualcos'altro.}
+{229}{}{Il miglior attacco e' la difesa. O era il contrario? Beh, non ha importanza. Ecco la tua armatura. Non posso dartene che una. Ti serviva altro?}
+{230}{}{No, basta cosi'. Grazie.}
+{231}{}{Si', dovrei ritirare qualcos'altro.}
+{232}{}{Hmmm... Power-Armor. Cerca di trattarla bene. Non posso dartene che una. C'era altro che ti serviva?}
+{233}{}{No, basta cosi'. Grazie.}
+{234}{}{Si', dovrei ritirare qualcos'altro.}
+{235}{}{Beh, questo gioiellino puo' essere molto utile nelle mani giuste. Ecco a te. Altro?}
+{236}{}{No, basta cosi'. Grazie.}
+{237}{}{Si', dovrei ritirare qualcos'altro.}
+{240}{}{Sto cercando un Motivatore Sistolico.}
+{241}{}{Ce l'hai l'autorizzazione?}
+{242}{}{Si'. Sono stato mandato qui per ritirare un Motivatore Sistolico.}
+{243}{}{No, non ce l'ho. Ma e' fondamentale che io metta le mani su quel dispositivo.}
+{244}{}{E' Kyle che mi manda.}
+{245}{}{No. Come posso ottenere un'autorizzazione?}
+{246}{}{Fammi dare un'occhiata. (controlla il suo terminale) Beh, non vedo nessuna richiesta per un motivatore sistolico... Dovrai ottenere un'autorizzazione.}
+{247}{}{Senti! Non voglio problemi. Dammi quel dannato pezzo.}
+{248}{}{Eddai? Ti prego. Ho davvero bisogno di quel componente.}
+{249}{}{OK. Scusa se ti ho disturbato.}
+{250}{}{Ah, non e' arrivata? Quelli del Reparto Armamenti avrebbero dovuto spedirla ieri... Senti, non e' che potresti darmi una mano? Se non ritiro subito quel pezzo mi faranno il culo in quattro. Sono certo che la richiesta arrivera' entro oggi.}
+{251}{}{OK. Ecco qua. Ma non dire a nessuno che te l'ho dato. Rhombus mi farebbe la festa se scoprisse che ho consegnato qualcosa senza autorizzazione.}
+{252}{}{Grazie. Ci vediamo.}
+{253}{}{Te lo darei volentieri, se potessi. Ma non posso. Non senza una regolare autorizzazione.}
+{254}{}{Sai, Michael, tu sei probabilmente una delle persone piu' simpatiche con cui abbia parlato qui dentro. Ed e' per questo che non capisco per quale motivo tu faccia tante storie. Ho davvero bisogno di quel pezzo.}
+{255}{}{Oh... Beh. Capisco. Pero' non so cosa potrei fare.}
+{256}{}{Dammelo e basta.}
+{257}{}{Se non hai l'autorizzazione non puoi ritirare nulla.} 
+{258}{}{Eddai? Ti prego. Ho davvero bisogno di quel componente.}
+{259}{}{OK. Scusa se ti ho disturbato.}
+{260}{}{Kyle? Si tratta di quella vecchia Power Armor scassata?}
+{261}{}{Si'.}
+{262}{}{No.}
+{263}{}{Puoi dirgli che prima deve riportare quell'armatura alla sua antica gloria. Allora, e solo allora, avra' l'autorizzazione che gli serve. Arrivederci.}
+{264}{}{Non e' vero. Prima Kyle deve esaminare l'equipaggiamento danneggiato. Se crede che una riparazione sia possibile, a quel punto invia una richiesta di pezzi di ricambio. Rhombus esamina le richieste e decide quali accettare. Rivolgiti a Kyle. Ci vediamo.}
+{265}{}{Addio.}
+{266}{}{Oh... beh, e' Kyle che mi manda. Potresti controllare il tuo terminale un'altra volta?}
+{267}{}{Ma e' Rhombus che mi manda!}
+{268}{}{Quel pezzo di ricambio non te lo do, fine della questione. Ti ho gia' detto quel che ti serve e non ho intenzione di ripetermi.}
+
+# added by WG 31.08.2007
+{500}{}{[altro]}
+{501}{}{[indietro]}

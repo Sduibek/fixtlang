@@ -1,0 +1,139 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see a Vault dweller.}
+{100}{}{你看见一个避难所居民。}
+#{101}{}{I can't believe that you betrayed us!}
+{101}{}{我不敢相信居然是你背叛了我们！}
+#{102}{}{Traitor!}
+{102}{}{叛徒！}
+#{103}{}{I hate you. Why did you ever come back?!}
+{103}{}{我恨你。你还回来干什么？！}
+#{104}{}{I hope you choke on your vileness!}
+{104}{}{老天为什么不惩罚你这个恶人！}
+#{105}{}{}
+{105}{}{}
+#{106}{}{}
+{106}{}{}
+#{107}{}{}
+{107}{}{}
+#{108}{}{}
+{108}{}{}
+#{109}{}{Thank you for saving us.}
+{109}{}{感谢你救了我们。}
+#{110}{}{I was a little unsure that you could do it, but I trust you now.}
+{110}{}{过去我有点不相信你有能力做到，但现在我相信你了。}
+#{111}{}{Thank you! Thank you!}
+{111}{}{谢谢你！谢谢你！}
+#{112}{}{You are a hero. My little boy wants to be just like you when he grows up. I don't know if I like that.}
+{112}{}{你是一个英雄。我的儿子想要长大后和你一样，但我不确定我是否喜欢他这样。}
+#{113}{}{You are a heroine. My little girl wants to be just like you when she grows up. I don't know if I like that.}
+{113}{}{你是一个英雄。我的女儿想要长大后和你一样，但我不确定我是否喜欢她这样。}
+#{114}{}{You are a swell guy!}
+{114}{}{你真是个棒小伙！}
+#{115}{}{You are a swell gal!}
+{115}{}{你真是个好姑娘！}
+#{116}{}{Are you sure you need that in here?}
+{116}{}{你确定在这需要它吗？}
+#{117}{}{That's a weapon!}
+{117}{}{那是个武器！}
+#{118}{}{Have you actually used that against someone?}
+{118}{}{你确实曾用那个对着人吗？}
+#{119}{}{Why do you think it is necessary to carry a weapon in here?}
+{119}{}{你为什么认为在带着武器是必要的？}
+#{120}{}{It's good to see you again.}
+{120}{}{很高兴再次见到你。}
+#{121}{}{I'm glad you are doing well.}
+{121}{}{你一切顺利我感到很高兴。}
+# {122}{}{You look OK to me. All those rumors must be untrue.}
+{122}{}{你看起来挺好。那些传言一定是假的。}
+#{123}{}{Hi }
+{123}{}{嗨，}
+#{124}{}{. Keep up the good work.}
+{124}{}{ 。再接再厉。}
+#{125}{}{I hope everything is going well out there. We sure could use the water.}
+{125}{}{我希望外面一切正常。我们确定水是可以使用的。}
+#{126}{}{We are starting to run out of water. This is terrible!}
+{126}{}{我们的水要用完了。这太可怕了！}
+#{127}{}{Please hurry and find that chip. We need you.}
+{127}{}{请快点找到那个芯片。我们需要你。}
+#{128}{}{I'm glad you are doing well. Keep up the good work.}
+{128}{}{你一切顺利我很高兴。继续努力。}
+#{129}{}{I hate to say this, but if you don't find the water chip soon, we're all going to die.}
+{129}{}{我不想提这个，但是如果你不快点找到净水芯片的话我们会死的！}
+#{130}{}{My little one is always crying in the middle of the night for a drink of water and I can't give her anything.}
+{130}{}{我的孩子总是在半夜因为口渴又哭又闹，但我什么也给不了她。}
+#{131}{}{We're not going to make it, are we?}
+{131}{}{我们办不到，是不是？}
+#{132}{}{The water rations are coming to an end.}
+{132}{}{水配给要完蛋了。}
+#{133}{}{The hydroponics section has closed down now. It means our food supply is running out.}
+{133}{}{水耕区已经关闭了。说明食物供给也要用完了。}
+#{134}{}{Hmm. You still look human to me. It can't be all that bad outside.}
+{134}{}{嗯。看起来你仍然是个人。外面的情况没有那么糟糕。}
+#{135}{}{Hi }
+{135}{}{嗨，}
+#{136}{}{.}
+{136}{}{。}
+#{137}{}{I hope you are doing well on your quest.}
+{137}{}{我希望你的任务一帆风顺}
+#{138}{}{See you around.}
+{138}{}{回头见。}
+#{139}{}{Have you talked to the Overseer recently?}
+{139}{}{你最近和所长谈话了吗？}
+#{140}{}{The Overseer is very concerned about the status of your mission.}
+{140}{}{所长非常关心你任务的状况。}
+#{141}{}{You need to hurry. We can't afford any failure on your part.}
+{141}{}{你要快点。你失败我们就完了。}
+#{142}{}{I hope you are doing the best you can.}
+{142}{}{我希望你在尽全力。}
+#{143}{}{This is no time to rest, get back out there.}
+{143}{}{没时间休息了，快离开这儿。}
+#{144}{}{This isn't what you are supposed to be doing, is it?}
+{144}{}{这不是你现在应该在做的事，对吧？}
+#{145}{}{We're going to die, and it's your fault.}
+{145}{}{我们要死了，这全是你的错。}
+#{146}{}{Don't just stand here, get back out there! Now!}
+{146}{}{别光站着，离开这！现在！}
+#{147}{}{If we die, it will be your fault.}
+{147}{}{如果我们死了，全是你的错。}
+#{148}{}{The outside has corrupted you, hasn't it?}
+{148}{}{外面把你毁了，对不对？}
+#{149}{}{Just leave me alone.}
+{149}{}{离我远点。}
+#{150}{}{I think you should leave me and my family alone, }
+{150}{}{我认为你应该离开我和我的家人，}
+#{151}{}{. It would be for the best.}
+{151}{}{。这也是好意。}
+#{152}{}{You should be ashamed of yourself.}
+{152}{}{你应该为你的行为感到羞耻。}
+#{153}{}{And to think that I used to like you.}
+{153}{}{而且认为我过去喜欢你。}
+#{154}{}{The Vault dweller refuses to talk to you.}
+{154}{}{这个避难所居民拒绝和你谈话。}
+#{155}{}{An empty stare meets your request to talk.}
+{155}{}{一个空洞的眼神让你无法开口。}
+#{156}{}{I regret that we picked you to go outside.}
+{156}{}{我后悔选你去外面。}
+#{157}{}{The water is foul, but your company is worse.}
+{157}{}{水脏，你的同伙更脏。}
+#{158}{}{Go away. Just leave. You can redeem yourself by finding that water chip.}
+{158}{}{走啊。离开。找到净水芯片才能弥补你的过失。}
+#{159}{}{I hope you are satisfied.}
+{159}{}{我希望你满意。}
+#{160}{}{The Vault dweller refuses to talk to you.}
+{160}{}{这个避难所居民拒绝和你谈话。}
+#{161}{}{You caused this! You probably broke the water chip in the first place, too!}
+{161}{}{都是你引起的！当初也是你把净水芯片破坏的！}
+#{162}{}{I hate you. I really, really hate you.}
+{162}{}{我恨你。我真的恨死你了。}
+#{163}{}{The Vault dweller just sobs great big tears.}
+{163}{}{这个避难所居民默默地流泪。}
+#{164}{}{Your request to talk is met by a cold stare.}
+{164}{}{一个冷漠的眼神让你无法开口。}
+#{165}{}{Thank you.}
+{165}{}{谢谢你。}
+#{166}{}{It's late. Come back some other time.}
+{166}{}{太晚了。换个时候再来。}
+#{167}{}{The Vault dweller is resting.}
+{167}{}{这个避难所居民在休息。}

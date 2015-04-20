@@ -1,0 +1,101 @@
+{100}{}{So wie die Dinge liegen, können sie nicht weit gereist sein. Sie müssen hier irgendwo einen
+ Unterschlupf haben.}
+{101}{}{Sie scheinen aus einem nahegelegenen Ort zu kommen.}
+{102}{}{Sieht so aus, als wären sie aus dem fernen Norden hier her gereist.}
+{103}{}{Anscheinend sind sie einfach durch das Ödland gewandert.}
+{104}{}{Du bist in einen wilden Kampf zwischen Radscorpions und Maulwurfratten geraten.}
+{105}{}{HINTERHALT!!!}
+{106}{}{Du bist in eine große Schar Radscorpions geraten!}
+{107}{}{Du bist in eine Schar Radscorpions geraten.}
+{108}{}{Du bist in eine Familie Maulwurfratten geraten.}
+{109}{}{Du mußt nach Wasser suchen, um eine schlimme Austrocknung zu vermeiden. Die Suche nimmt eine zusätzliche Stunde in Anspruch.}
+{110}{}{ Du mußt nach Wasser suchen, um eine schlimme Austrocknung zu vermeiden. Die Suche nimmt zusätzliche}
+{111}{}{ Stunden in Anspruch.}
+{112}{}{Dein Wasservorrat geht zur Neige, und deine Suche nach einer Wasserquelle bleibt erfolglos.
+ Du beginnst unter schwerer Austrocknung zu leiden, die dich }
+{113}{}{ Trefferpunkte kostet.}
+{114}{}{ Dein Wasservorrat geht zur Neige und deine }
+{115}{}{ Stunden dauernde Suche nach einer Wasserquelle bleibt erfolglos Du beginnst, unter schwerer Austrocknung zu leiden, die dich }
+{116}{}{ Trefferpunkte kostet.}
+{117}{}{Du suchst eine Stunde lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du büßt einen Gesundheitspunkt ein.}
+{118}{}{Du suchst eine Stunde lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst }
+{119}{}{ Trefferpunkte ein.}
+{120}{}{Du suchst }
+{121}{}{ Stunden lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst einen Trefferpunkt.}
+{122}{}{ Du suchst }
+{123}{}{ Stunden lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du erhältst }
+{124}{}{ Trefferpunkte.}
+{125}{}{Du entgehst mit Hilfe deines Wasservorrats einer Austrocknung.}
+#{12600}{}{Radscorpions jagen Maulwurfratten über die zerstörten Stadtmauern.}
+{126}{}{Du bist in eine Gruppe Radscorpions geraten, die gerade Maulwurfratten jagt.}
+{127}{}{Feindliche, magere, menschliche Wesen mit grünlicher Hautfarbe kommen näher.}
+{128}{}{Überall ist Müll und Geröll verstreut.}
+{129}{}{Ein einsamer Radscorpion greift dich aus dem Hinterhalt an!}
+{130}{}{Du bemerkst eine bereits angeknabberte Leiche.}
+{131}{}{PANIK!!!}
+{132}{}{Du gerätst in eine große Schar of Radscorpions!}
+{133}{}{Gangster überfallen dich aus dem Hinterhalt!}
+{134}{}{Eine Schar bösartiger Radscorpions schlagen aus der Wüste zu!}
+{135}{}{Du begegnest einer Gruppe Wachmänner auf Patrouille.}
+{136}{}{Du triffst einen Händler mit mehreren Wachen.}
+{137}{}{Du siehst einen Bauern, der ein paar Brahmin hütet.}
+{143}{}{Gangster!!!}
+{144}{}{Du gerätst in eine große Ansammlung von Maulwurfratten.}
+{145}{}{Du begegnest einer Schar Radscorpions.}
+{146}{}{Du begegnest einigen Bauern, die gerade angegriffen werden.}
+{169}{}{Du gerätst in eine Familie Radscorpions.}
+{170}{}{Du triffst einen reisenden Händler mit Wachen.}
+{171}{}{Du siehst einen toten Reisenden.}
+#{17100}{}{Du begegnest einem Reisenden.}
+#{17200}{}{Du bist an einem kleinen Ort gelandet, der voller Ruinen und verlassener Gebäude ist.}
+{172}{}{Du bist über einige Sachen gestolpert, die am Boden lagen.}
+{173}{}{Du entdeckst die Überreste eines von Gangstern geplünderten Caravans.}
+{196}{}{Radscorpions kommen!}
+{197}{}{Oh aha . . . eine Gangsterbande!}
+{198}{}{In der Ferne siehst du einen einsamen Gangster.}
+{199}{}{Du kommst an ein altes Schlachtfeld, auf dem noch einige Leichen herumliegen.}
+{200}{}{Radscorpions kommen!}
+{223}{}{Du sichtest eine wandernde Gruppe wilder Kojoten.}
+{224}{}{Du bemerkst einige einzelne Personen, die sich hier umsehen.}
+{225}{}{Du triffst eine kleine Gruppe von Händlern und Wachen.}
+{226}{}{Du siehst ein Gefecht zwischen Männern und Mutanten!}
+{227}{}{Eine riesige Horde Radscorpions kommt näher!}
+{250}{}{Einige Männer in Powerrüstungen nähern sich dir.}
+{251}{}{Du siehst eine Gruppe Händler und Wachen.}
+{252}{}{Du siehst eine wilde Schlacht zwischen mehreren Wüstengangstern und einer Gruppe Männer in Powerrüstungen.}
+{253}{}{Du siehst mehrere Mutanten, die feindliches Gebiet erkunden.}
+{254}{}{Du siehst einige merkwürdige Kreaturen vor dir . . .}
+{25500}{}{Du machst die Ruinen eines kleinen Dorfes aus.}
+{255}{}{Du findest einige Sachen.}
+{256}{}{Eine Patrouille von Supermutanten zieht ganz dicht vorbei!}
+{279}{}{Vor dir siehst du im Sand verstreuten Müll.}
+{280}{}{Du gerätst in eine kriegerische Gruppe von Supermutanten.}
+{281}{}{Du gerätst in eine Gruppe bizarrer Kreaturen.}
+{282}{}{Du gerätst in eine Schar hungriger Radscorpions.}
+{283}{}{Du fühlst dich ekelhaft, und die Luft scheint vor Hitze zu flimmern.}
+{284}{}{Du bist über eine bizarre, schwimmende Kreatur gestolpert.}
+{285}{}{Du begegnest etwas aus einem alten Science Fiction-Film.}
+{286}{}{Die Deathclaw!!}
+{287}{}{Du gerätst in eine herumziehende Schar Radscorpions.}
+{288}{}{Du begegnest einer mutierten Kreatur aus der Wüste.}
+{299}{}{In einiger Entfernung siehst du mehrere Radscorpions.}
+{300}{}{Du triffst einen zerlumpten Bauern.}
+{301}{}{Du begegnest einer Maulwurfratte.}
+{302}{}{Die Deathclaw!!}
+{303}{}{Du gerätst in eine Schar wandernder Radscorpions.}
+{304}{}{Scene_Type == }
+{305}{}{Du kommst zu den Überresten der feindlichen Wachen des Händlers Duc.}
+{306}{}{Eine Patrouille von Mutanten zieht zusammen mit einigen merkwürdigen Kreaturen ganz dicht vorbei!}
+{307}{}{Du gerätst in den Hinterhalt einer kleinen, kriegerischen Gruppe Supermutanten.}
+{308}{}{Sieht so als, als wärst du in einen teuflischen Bandenkrieg hineingeraten!}
+{309}{}{Eine Gruppe feindlicher Gangmitglieder brechen hervor!}
+{310}{}{Eine kleine Gangstergruppe greift an!}
+{311}{}{Eine kleine Gruppe von Gangmitgliedern greift an!}
+{312}{}{Du wirst völlig unvermittelt von Ratten angegriffen!}
+{313}{}{ Du wirst völlig unvermittelt von einem Heuschreckenschwarm angegriffen!}
+# Some special encounter text
+{314}{}{Hey! Sie sind wirklich da draußen.}
+{315}{}{In der Ferne siehst du einen umgestürzten Lastwagen.}
+{316}{}{Du findest einige Autowracks, die mitten im Ödland liegen.}
+{317}{}{Im Nordosten sichtest du ein Polizeihäuschen.}
+{318}{}{Du kommst an einer Herde wilder Brahmin vorbei. Du spürst, daß irgendetwas nicht stimmt...}

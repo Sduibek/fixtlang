@@ -1,0 +1,34 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Sammy.}
+{100}{}{你看萨米。}
+{101}{}{caves.map}
+#{102}{}{Speak to the Elder.  He has something important to tell you first.}
+{102}{}{与老头谈话。他有些重要的事要先告诉你。}
+#{103}{}{Follow me.  I know the way to the lair.}
+{103}{}{跟着我。我知道去兽穴的路。}
+#{104}{}{Boy, I wish you had the guts to help us out.}
+{104}{}{小伙子，我希望你有帮我们解决难题的勇气。}
+#{105}{}{All ready to go? Once we get to the lair, there is no
+# coming back until the job is done.}
+{105}{}{都准备好走了吗？一旦我们去了兽穴，直到工作完成之前就没有退路了。}
+#{106}{}{Yes}
+{106}{}{是的}
+#{107}{}{No}
+{107}{}{还没}
+{108}{}{caves.map}
+#{109}{}{Boy, I wish you had the guts to help us out.}
+{109}{}{小伙子，我希望你有帮我们解决难题的勇气。}
+#{110}{}{Follow me. I know the way to the lair.}
+{110}{}{跟着我。我知道去兽穴的路。}
+#{111}{}{All ready to go? Once we get to the lair, there is no
+# coming back until the job is done.}
+ {111}{}{都准备好走了吗？一旦我们去了兽穴，直到工作完成之前就没有退路了。}
+#{112}{}{Yes}
+{112}{}{是的}
+#{113}{}{No}
+{113}{}{还没}
+#{114}{}{OK, I'll wait for here. Let me know when you're
+# ready to go.}
+ {114}{}{好了，我会等在这儿。当你准备走了让我知道。}

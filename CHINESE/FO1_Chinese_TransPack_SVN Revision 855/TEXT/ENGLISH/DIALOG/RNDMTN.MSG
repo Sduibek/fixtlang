@@ -1,0 +1,95 @@
+
+#
+#	Mountain area random encounter text
+#
+
+
+#{100}{}{You are nearly crushed by a large boulder in an avalanche.}
+#{101}{}{You escape with no damage.}
+#{102}{}{The displaced rock brings with it the remains of a long-dead traveler.}
+#{103}{}{Your leg is critically damaged by falling rocks.}
+#{104}{}{Some rock shards slice your face and hands, but you escape with minimal #damage.}
+#{105}{}{Radscorpions!}
+#{106}{}{A particularly sneaky radscorpion seems to be trying to ambush you.}
+#{107}{}{Out of nowhere, a radscorpion suddenly strikes!}
+#{108}{}{You have stumbled upon a family of Mole Rats.}
+#{109}{}{You are nearly crushed by a large boulder in an avalanche.}
+#{110}{}{You escape with no damage.}
+#{111}{}{You escape with no damage. The displaced rock reveals a gold
+# deposit.}
+#{112}{}{Your leg is critically damaged by falling rocks.}
+#{113}{}{Some rock shards slice your face and hands, but you
+# escape with minimal damage.}
+#
+#{114}{}{You are traveling through sheer cliffs and rugged terrain.}
+#{115}{}{Fortunately, your climbing skills are up to the task.}
+#{116}{}{You find a cave with a small spring and manage to get your first good night's #sleep in a long time.}
+#
+#{117}{}{You fall from a ledge, landing on several sharp stones.}
+#{118}{}{You fall from a cliffside to the rocky ground below.}
+#{119}{}{You stumble onto a large pack of radscorpions.}
+#{120}{}{You find several rats scavenging about here.}
+#{121}{}{You see a lone traveler in the distance.}
+#{122}{}{The ground ahead is littered with debris and bodies. It looks like an old #battle zone.}
+#{123}{}{You are nearly crushed by a large boulder in an avalanche.}
+#{124}{}{You escape with no damage.}
+#{125}{}{You escape with no damage. The displaced rock reveals a gold deposit.}
+#{126}{}{Your leg is critically damaged by falling rocks.}
+#{127}{}{Some rock shards slice your face and hands, but you escape with minimal #damage.}
+#{128}{}{You see a lone radscorpion, skittering about.}
+#{129}{}{Tremendous molerats are nosing about here.}
+#{130}{}{You find several rats scavenging about here.}
+#{131}{}{You nearly fall over some rough terrain. They could use some environment #management out here.}
+#{132}{}{You fall over some rough terrain and twist an ankle, painfully.}
+#{133}{}{You fall over some rough terrain and scrape some flesh.}
+#{134}{}{You see several rats running towards you.}
+#{135}{}{You come across the bones of some long dead traveler.}
+#{136}{}{You stumble onto a pack of hostile radscorpions.}
+
+
+
+
+#
+#	Mountain area random encounter text
+#
+
+{100}{}{你差点被一块山崩中落下的巨石砸中。}
+{101}{}{你安然逃脱了。}
+{102}{}{移位的岩石上贴着一具旅行者的残骸……已经成肉干了吧。不知道好吃不？}
+{103}{}{你的腿被落石砸伤了，很严重。}
+{104}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+{105}{}{辐射蝎！}
+{106}{}{一只狡猾的辐射蝎似乎要偷袭你。}
+{107}{}{一只突然冒出来的辐射蝎攻击了你。}
+{108}{}{你遇到一个变种地鼠家族。}
+{109}{}{你差点被一块山崩中落下的巨石砸中。}
+{110}{}{你安然逃脱了。}
+{111}{}{你安然逃脱了。移位的岩石下有金子沉积。}
+{112}{}{你的腿被一块落石重创。}
+{113}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+#
+{114}{}{你正通过一个全是悬崖峭壁的区域。}
+{115}{}{还好，你的攀爬技巧能够应付。}
+{116}{}{你找到一个有小股泉水涌出的山洞，终于能好好睡一觉了。叫它水濂洞如何？}
+#
+{117}{}{你从一处岩壁上摔下来，落在锋利的石碓上。}
+{118}{}{你从峭壁跌落到下面的石面上。}
+{119}{}{你遇到一大群辐射蝎。}
+{120}{}{你发现几只老鼠在四处寻觅食物。}
+{121}{}{你发现不远处有个旅行者。}
+{122}{}{前方地面上全是废弃物和尸体残骸。看来这曾是战场。}
+{123}{}{你差点被一块山崩中落下的巨石砸中。}
+{124}{}{你安然逃脱了。}
+{125}{}{你安然逃脱了。移位的岩石下有金子沉积。}
+{126}{}{你的腿被落石重创。}
+{127}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+{128}{}{你看到一只辐射蝎，飞掠而过。}
+{129}{}{有些巨大的变种地鼠在这里四处嗅闻。}
+{130}{}{你发现几只老鼠在寻觅食物。}
+{131}{}{崎岖的地面让你几乎摔倒。这地方怎么没人来整治一下。}
+{132}{}{崎岖的地面让你摔倒了，脚踝扭伤了，疼啊。}
+{133}{}{你摔倒在崎岖的地面上，擦掉了一些肉……}
+{134}{}{你看到一些老鼠在跑。}
+{135}{}{你发现一堆某个旅行者的白骨。}
+{136}{}{你与一群凶猛的辐射蝎遭遇了。}
+

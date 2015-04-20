@@ -1,0 +1,77 @@
+#{100}{}{You see a door which looks very secure.}
+{100}{}{你见到了一扇看起来十分坚固的安全门。}
+
+#{101}{}{The door is uneffected by the skill.}
+{101}{}{门不受该技能影响。}
+
+#{102}{}{You get shocked by the security system for }
+{102}{}{安保系统的电击震荡对你造成}
+
+#{103}{}{ points of damage.}
+{103}{}{点伤害。}
+
+#{104}{}{You unlock the door with the Red Pass Key.}
+{104}{}{你用红色通行钥匙打开了门。}
+
+#{105}{}{That item has no effect on the door. Perhaps another item will be more useful.}
+{105}{}{这件道具对门无能为力。或许有什么其他更有用的东西。}
+
+#{106}{}{You get shocked by the security system for }
+{106}{}{安保系统的电击震荡对你造成}
+
+#{107}{}{ points of damage.}
+{107}{}{点伤害。}
+
+#{108}{}{The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.}
+{108}{}{这扇门门看起来被一个能量场保护着。或许你能用什么方法把它解除。}
+
+#{109}{}{The door seems to have a secondary lock on it.}
+{109}{}{这扇门看来有备用锁。}
+
+#{110}{}{You notice that there are some red markings on the door.}
+{110}{}{你注意到在门上有几个红色标志。}
+
+#{111}{}{You notice that there are some red markings on the door.}
+{111}{}{你注意到在门上有几个红色标志。}
+
+#{112}{}{You wonder what could unlock the door.}
+{112}{}{你想知道什么能够打开这扇门。}
+
+#{113}{}{You successfully bypassed the security system.}
+{113}{}{你成功的绕过了安保系统。}
+
+#{114}{}{You activate the security system and get shocked for }
+{114}{}{安保系统被触发，它的电击震荡对你造成}
+
+#{115}{}{ points of damage.}
+{115}{}{点伤害。}
+
+#{116}{}{You do not detect any traps on the door.}
+{116}{}{你没有在门上发现任何陷阱。}
+
+#{117}{}{You successfully bypassed the security system.}
+{117}{}{你成功的绕过了安保系统。}
+
+#{118}{}{You activate the security system and get shocked for }
+{118}{}{安保系统被触发，它的电击震荡对你造成}
+
+#{119}{}{ points of damage.}
+{119}{}{点伤害。}
+
+#{120}{}{You do not detect any traps on the door.}
+{120}{}{你没有在门上发现任何陷阱。}
+
+#{121}{}{You get shocked by the security system for }
+{121}{}{安保系统的电击震荡对你造成}
+
+#{122}{}{ points of damage.}
+{122}{}{点伤害。}
+
+#{123}{}{The door seems to be protected by an energy field. Perhaps you can de-activate it somehow.}
+{123}{}{这扇门看起来被一个能量场保护着。或许你能用什么方法把它解除。}
+
+#{124}{}{You successfully unlock the door.}
+{124}{}{你成功打开安全门的锁。}
+
+#{125}{}{You failed to pick the lock on the door.}
+{125}{}{你没能撬开门上的锁。}

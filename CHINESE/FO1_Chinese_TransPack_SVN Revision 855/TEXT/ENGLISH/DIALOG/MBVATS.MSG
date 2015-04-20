@@ -1,0 +1,28 @@
+
+# {100}{}{off}
+# {101}{}{Time left:  }
+# {102}{}{ seconds.}
+# {103}{}{This is where you would be considered dead.}
+# {104}{}{off}
+# {105}{}{on}
+# {106}{}{off}
+# {107}{}{Time left:  }
+# {108}{}{ seconds.}
+# {109}{}{This is where you would be considered dead.}
+# {110}{}{Time left:  }
+# {111}{}{ seconds.}
+# {112}{}{This is where you would be considered dead.}
+{100}{}{关闭}
+{101}{}{时间剩余：}
+{102}{}{秒}
+{103}{}{你会死在这里。}
+{104}{}{关闭}
+{105}{}{打开}
+{106}{}{关闭}
+{107}{}{时间剩余：}
+{108}{}{秒}
+{109}{}{你会死在这里。}
+{110}{}{时间剩余：}
+{111}{}{秒}
+{112}{}{你会死在这里。}
+

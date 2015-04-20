@@ -1,0 +1,68 @@
+{100}{}{Vedi un capo carovaniere.}
+{101}{}{Beh, eccoci qua. Questa e' la tua paga: }
+{102}{}{ testoni. [Tira fuori un vecchio borsello e ti consegna i soldi.] Se tornerai con noi all'Hub, ti daro' altri }
+{103}{}{ testoni. Ci riposeremo qui per un po', ma non allontanarti troppo, o la carovana partira' senza di te.}
+{104}{}{Aaa... OK.}
+{105}{}{Quando partira' la carovana?}
+{106}{}{Cosa puoi dirmi di Junktown?}
+{107}{}{Mi potresti parlare del Boneyard?}
+{108}{}{Cosa mi sai dire della Confraternita d'Acciaio?}
+{109}{}{Non so se riesci a capirmi, ma noi ce ne andiamo tra due ore. Che tu sia pronto o no.}
+{110}{}{Um...}
+{111}{}{Hunh?}
+{112}{}{Va. benne.}
+{113}{}{Cavoli, ci siamo ridotti ad assoldare gli idioti.}
+{114}{}{Di solito ripartiamo due ore dopo l'arrivo. Per noi, qui non c'e' molto da fare, quindi se vuoi partire prima, noi siamo pronti.}
+{115}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{116}{}{OK. Torniamo all'Hub. Nemmeno io ho nulla da vedere, qui.}
+{117}{}{Cosa puoi dirmi di Junktown?}
+{118}{}{Mi potresti parlare del Boneyard?}
+{119}{}{Cosa mi sai dire della Confraternita d'Acciaio?}
+{120}{}{Beh, e' molto simile all'Hub. Ha la sua bella dose di problemi: bande, criminali, ladri; sai... le solite cose. Proprio il tipo di citta' che piace a me. [Ride]}
+{121}{}{Quando partira' la carovana?}
+{122}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{123}{}{Questa parte del Boneyard si chiama Adytum. Il Boneyard e' governato dalle bande. E' una brutta zona, quindi stai in guardia. Adytum e' in mano ai Regolatori. Cercano di tenere questo posto fuori dalle varie guerre tra bande. Non c'e' da stupirsi che siano sospettosi nei riguardi degli stranieri. Se non hai ancora parlato con loro, ti suggerisco di farlo prima di farti un giro qui attorno.}
+{124}{}{Vuoto}
+{125}{}{Quando partira' la carovana?}
+{126}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{127}{}{Non c'e' molto da dire. La Confraternita e' una comunita' molto chiusa. Molte persone ne parlano male, ma, per quello che ho visto io, sono delle brave persone. Un po' fanatici, forse, ma dei bravi ragazzi.}
+{128}{}{Quando partira' la carovana?}
+{129}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{130}{}{Sei pronto a partire?}
+{131}{}{Partire!}
+{132}{}{No. Mi sto ancora guardando in giro.}
+{133}{}{Si'. Possiamo andare.}
+{134}{}{Questa parte del Boneyard si chiama Adytum. Il Boneyard e' governato dalle bande. E' una brutta zona, quindi stai in guardia.}
+{135}{}{Quando partira' la carovana?}
+{136}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{137}{}{OK. Ce l'hai fatta. Ecco i tuoi }
+{138}{}{ testoni. Se vuoi lavorare ancora per noi, parlane con il capo. Sarei molto felice di lavorare ancora con te. Mettero' una buona parola per te con il boss. Tranquillo.}
+{139}{}{bY bY.}
+{140}{}{Ci vediamo.}
+{141}{}{Ehi, come butta?}
+{142}{}{Se vuoi lavorare, passa dal capo.}
+{143}{}{C'e' qualcosa che non va?}
+{144}{}{Sei un fottuto pazzo!}
+{145}{}{Io con te non ci lavoro!}
+{146}{}{200}
+{147}{}{400}
+{148}{}{600}
+{149}{}{Cosa mi puoi dire di Necropolis?}
+{150}{}{E' un posto spaventoso, amico!}
+{151}{}{La carovana e' partita.}
+
+
+{200}{}{Hmmmpf...}
+{201}{}{Hmm... mi piacerebbe saper leggere.}
+
+
+{300}{}{Fatti gli affari tuoi, ti dispiace?}
+
+{400}{}{Non sono pagato per parlare.}
+
+# 501-502, 504-505 added with patch 1.3 from TeamX
+{501}{}{Dimmi, perche' hai abbandonato le maledette carovane? Non posso crederci! Sei fortunato, hanno finito senza il tuo culo! Vai fuori! Non dovrei pagarti nulla!}
+{502}{}{Non posso crederci! Abbiamo perso tutte le fottute carovane! Fuori di qui! Non dovrei darti neanche un tappo bucato!}
+
+{504}{}{Vai dal capo e comincia a pensare ad una storia credibile sul perche' hai abbandonato le carovane. Forse avrai la tua paga.}
+{505}{}{Non posso crederci! Abbiamo perso tutte le dannate carovane! Non penso dovrei pagarti. Vai a parlare con il capo.}
