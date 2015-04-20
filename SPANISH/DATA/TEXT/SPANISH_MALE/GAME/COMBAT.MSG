@@ -279,7 +279,7 @@
 {1015}{}{pierna I}
 {1016}{}{ojos}
 {1017}{}{ingle}
-{1018}{}{lugar indefinido}
+{1018}{}{}
 #
 # Most other humanoids
 #
@@ -291,7 +291,7 @@
 {1115}{}{pierna I}
 {1116}{}{ojos}
 {1117}{}{ingle}
-{1118}{}{lugar indefinido}
+{1118}{}{}
 #
 # Brahmin (Mutant 2-Headed Cows)
 #
@@ -303,7 +303,7 @@
 {1155}{}{pata I}
 {1156}{}{ojos}
 {1157}{}{ubres}
-{1158}{}{lugar indefinido}
+{1158}{}{}
 #
 # dogs
 #
@@ -315,33 +315,33 @@
 {1165}{}{pata I}
 {1166}{}{ojos}
 {1167}{}{ingle}
-{1168}{}{lugar indefinido}
+{1168}{}{}
 #
 # Mr. Handy 
 #
 {1170}{}{CPU}
-{1171}{}{manipulador}
-{1172}{}{manipulador}
+{1171}{}{brazos I}
+{1172}{}{brazos D}
 {1173}{}{carcasa}
-{1174}{}{motivador}
+{1174}{}{motor}
 {1175}{}{motivador}
 {1176}{}{sensores}
 {1177}{}{regulador}
-{1178}{}{lugar indefinido}
+{1178}{}{}
 #
-# Super Mutants
+# The Lieutenant
 #
-{1180}{}{cabeza}
+{1180}{}{cerebro}
 {1181}{}{brazo I}
 {1182}{}{brazo D}
 {1183}{}{torso}
 {1184}{}{pierna D}
 {1185}{}{pierna I}
-{1186}{}{ojos}
+{1186}{}{monóculo}
 {1187}{}{ingle}
-{1188}{}{lugar indefinido}
+{1188}{}{}
 #
-# Mole-Rat
+# Mole Rat (molerat)
 #
 {1190}{}{cabeza}
 {1191}{}{garra I}
@@ -351,9 +351,9 @@
 {1195}{}{pata I}
 {1196}{}{ojos}
 {1197}{}{ingle}
-{1198}{}{lugar indefinido}
+{1198}{}{}
 #
-# big humans and mutants
+# Super Mutants
 #
 {1210}{}{cabeza}
 {1211}{}{brazo I}
@@ -363,19 +363,19 @@
 {1215}{}{pierna I}
 {1216}{}{ojos}
 {1217}{}{ingle}
-{1218}{}{lugar indefinido}
+{1218}{}{}
 #
 # Radscorpion
 #
 {1220}{}{cabeza}
 {1221}{}{cola}
-{1222}{}{garra}
+{1222}{}{pinzas}
 {1223}{}{caparazón}
 {1224}{}{patas}
 {1225}{}{patas}
 {1226}{}{ojos}
 {1227}{}{cerebro}
-{1228}{}{lugar indefinido}
+{1228}{}{}
 #
 # Floater
 #
@@ -387,9 +387,9 @@
 {1235}{}{cola}
 {1236}{}{ganglio}
 {1237}{}{oviscapto}
-{1238}{}{lugar indefinido}
+{1238}{}{}
 #
-# masrat? a rat perhaps?
+# Rats
 #
 {1240}{}{cabeza}
 {1241}{}{garra I}
@@ -399,19 +399,19 @@
 {1245}{}{pata I}
 {1246}{}{ojos}
 {1247}{}{ingle}
-{1248}{}{lugar indefinido}
+{1248}{}{}
 #
 # Centaur
 #
-{1250}{}{cabeza}
-{1251}{}{brazo I}
-{1252}{}{brazo D}
+{1250}{}{cabezas}
+{1251}{}{colas}
+{1252}{}{brazos}
 {1253}{}{cuerpo}
-{1254}{}{pata D}
-{1255}{}{pata I}
+{1254}{}{patas D}
+{1255}{}{patas I}
 {1256}{}{ojos}
 {1257}{}{ingle}
-{1258}{}{lugar indefinido}
+{1258}{}{}
 #
 # human midgets and children
 #
@@ -423,7 +423,7 @@
 {1275}{}{pierna I}
 {1276}{}{ojos}
 {1277}{}{ingle}
-{1278}{}{lugar indefinido}
+{1278}{}{}
 #
 # Overseer
 #
@@ -435,7 +435,7 @@
 {1465}{}{pierna I}
 {1466}{}{ojos}
 {1467}{}{ingle}
-{1468}{}{lugar indefinido}
+{1468}{}{}
 #
 # Gizmo
 #
@@ -447,19 +447,19 @@
 {1495}{}{pierna I}
 {1496}{}{ojos}
 {1497}{}{ingle}
-{1498}{}{lugar indefinido}
+{1498}{}{}
 #
 # The Master!
 #
 {1500}{}{cabeza}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{carcasa}
-{1504}{}{???}
-{1505}{}{???}
+{1503}{}{CPU}
+{1504}{}{toma principal}
+{1505}{}{columna vertebral}
 {1506}{}{ojos}
-{1507}{}{CPU}
-{1508}{}{lugar indefinido}
+{1507}{}{pantalla}
+{1508}{}{}
 #
 # Death Claw
 #
@@ -471,45 +471,45 @@
 {1515}{}{pierna I}
 {1516}{}{ojos}
 {1517}{}{ingle}
-{1518}{}{lugar indefinido}
+{1518}{}{}
 #
 # Mantis
 #
 {1520}{}{cabeza}
-{1521}{}{garra}
-{1522}{}{garra}
+{1521}{}{brazo I}
+{1522}{}{brazo D}
 {1523}{}{abdomen}
 {1524}{}{patas}
 {1525}{}{alas}
 {1526}{}{ojos}
 {1527}{}{metatórax}
-{1528}{}{lugar indefinido}
+{1528}{}{}
 #
 # Robobrain
 #
 {1530}{}{CPU}
-{1531}{}{manipulador}
-{1532}{}{manipulador}
+{1531}{}{brazo I}
+{1532}{}{brazo D}
 {1533}{}{carcasa}
-{1534}{}{motivador}
+{1534}{}{oruga}
 {1535}{}{motivador}
 {1536}{}{sensores}
 {1537}{}{regulador}
-{1538}{}{lugar indefinido}
+{1538}{}{}
 #
-# Eyeball (Robot)
+# Eyebot
 #
 {1540}{}{CPU}
 {1541}{}{manipulador}
-{1542}{}{manipulador}
+{1542}{}{arma}
 {1543}{}{carcasa}
 {1544}{}{motivador}
 {1545}{}{motivador}
 {1546}{}{sensores}
 {1547}{}{regulador}
-{1548}{}{lugar indefinido}
+{1548}{}{}
 #
-# Mutant Pig Rat (small Mole-Rat)
+# Pig Rat (pigrat)
 #
 {1550}{}{cabeza}
 {1551}{}{garra I}
@@ -519,7 +519,7 @@
 {1555}{}{pata I}
 {1556}{}{ojos}
 {1557}{}{ingle}
-{1558}{}{lugar indefinido}
+{1558}{}{}
 #
 # Deathclaw Egg
 #
@@ -531,7 +531,7 @@
 {1585}{}{caparazón}
 {1586}{}{caparazón}
 {1587}{}{caparazón}
-{1588}{}{lugar indefinido}
+{1588}{}{}
 #
 #
 # Critical Hit Messages

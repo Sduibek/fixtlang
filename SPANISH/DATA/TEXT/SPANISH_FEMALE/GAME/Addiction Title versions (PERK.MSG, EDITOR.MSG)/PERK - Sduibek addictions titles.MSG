@@ -64,15 +64,15 @@
 {153}{}{¡Muta!}
 #
 #
-# ADDICTIONS
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
 #
 #
-{154}{}{Nukainómana}
-{155}{}{Exprimidora}
-{156}{}{Mentalista}
-{157}{}{Psicópata}
-{158}{}{Radiante}
-{164}{}{Alcohólica}# was Combat Armor
+{154}{}{Nukainómana}  # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
+{155}{}{Exprimidora}  # TRANSLATORS: Slang word for a person who uses/abuses steroids.
+{156}{}{Mentalista}   # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
+{157}{}{Psicópata}    # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
+{158}{}{Radiante}     # Could use suggestions for other ideas on this.
+{164}{}{Alcohólica}   # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
 #
 #
 # WEAPON PERKS
@@ -153,7 +153,7 @@
 #
 ##
 ## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
 ##
 {254}{}{Te mueres por otra Nuka-Cola, la deliciosa y refrescante gaseosa.}
 {255}{}{Tienes espasmos y te sientes débil. La vida es dura sin esteroides.}

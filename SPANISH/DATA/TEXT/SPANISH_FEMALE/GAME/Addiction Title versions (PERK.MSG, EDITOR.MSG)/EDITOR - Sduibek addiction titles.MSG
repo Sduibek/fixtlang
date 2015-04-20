@@ -17,15 +17,15 @@
 {108}{}{MUJER}
 {109}{}{Ventajas}
 {110}{}{Karma}
-{111}{}{Muertes}
+{111}{}{Matado} # Killed makes more sense than Kills in the descriptions
 {112}{}{PTS. DE HABILIDAD}
 {113}{}{Nivel:}
 {114}{}{Experiencia:}
 {115}{}{Próx. Nivel:}
 {116}{}{PTS. DE PERSONAJE}
 {117}{}{HABILIDADES}
-{118}{}{¡Debes usar todos los puntos de} # 1
-{119}{}{personaje antes de empezar a jugar!}         # 2
+{118}{}{¡Debes usar todos los puntos de}            # 1
+{119}{}{personaje antes de empezar a jugar!}        # 2
 #
 ##
 ## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
@@ -33,7 +33,7 @@
 ##
 #
 {120}{}{Puntos de personaje}
-{121}{}{Cantidad de puntos libres que se pueden añadir a una de tus estadísticas básicas "SPECIAL".}
+{121}{}{Cantidad de puntos libres que se pueden añadir a una de tus atributos principales.}
 {122}{}{Próximo nivel}
 {123}{}{Puntos de experiencia requeridos para obtener el siguiente nivel.}
 {124}{}{Ventajas}
@@ -45,24 +45,24 @@
 {130}{}{Puntos de habilidad}
 {131}{}{Usa los puntos de habilidad disponibles para aumentar el nivel de una habilidad.}
 #
-{132}{}{Nivel máximo.}        # 1
-{133}{}{Imposible aumentarlo.}  # 2
-{134}{}{Nivel mínimo.}        # 1
+{132}{}{Nivel máximo.}           # 1
+{133}{}{Imposible aumentarlo.}   # 2
+{134}{}{Nivel mínimo.}           # 1
 {135}{}{Imposible disminuirlo.}  # 2
 {136}{}{No hay pts. de habilidad disponibles}
 {137}{}{Base:}
 {138}{}{H. DESTACADAS}
 {139}{}{RASGOS OPCIONALES}
-{140}{}{¡Ya tienes el máximo de} # 1
-{141}{}{tres habilidades!}               # 2
-{142}{}{¡Debes seleccionar todas las habilidades}  # 1
+{140}{}{¡Ya tienes el máximo de}    # 1
+{141}{}{tres habilidades!}          # 2
+{142}{}{¡Debes seleccionar todas las habilidades}   # 1
 {143}{}{destacadas antes de empezar a jugar!}       # 2
 {144}{}{Habilidades destacadas}
 {145}{}{Estas son habilidades en las que te has especializado. Cada habilidad aumenta un 20%, y crece el doble de deprisa (un punto incrementará la habilidad un 2%). Debes escoger tres habilidades destacadas.}
 {146}{}{Rasgos opcionales}
 {147}{}{Los Rasgos opcionales definen con más detalle tu personaje. Todos los rasgos tendrán efectos positivos y negativos. Puedes elegir hasta dos durante la creación del personaje.}
-{148}{}{¡Ya tienes el máximo de} # 1
-{149}{}{dos rasgos!}                     # 2
+{148}{}{¡Ya tienes el máximo de}    # 1
+{149}{}{dos rasgos!}                # 2
 {150}{}{Habilidades}
 {151}{}{Las habilidades son conocimiento adquirido. Éstas aumentan con la experiencia, o durante los sucesos especiales del juego. Cuanto mayor sea tu nivel en una habilidad, mejor serás en ella.}
 #
@@ -72,23 +72,23 @@
 {155}{}{ESCOGE UNA NUEVA HABILIDAD DESTACADA}
 {156}{}{RASGOS}
 #
-{157}{}{¡Todos los estados deben estar entre} # 1
-{158}{}{1 y 10 antes de empezar a jugar!}          # 2
+{157}{}{¡Todos los estados deben estar entre}   # 1
+{158}{}{1 y 10 antes de empezar a jugar!}       # 2
 #
 #
 #
 # Abbreviated basic stat levels
 #
-{200}{}{M.Malo}  # Terrible
+{200}{}{M.Malo}  # Very Bad
 {201}{}{Malo}    # Bad
 {202}{}{Pobre}   # Poor
 {203}{}{Justo}   # Fair
 {204}{}{Medio}   # Average
-{205}{}{Bien}   # Good
-{206}{}{M.Bien} # Very Good
+{205}{}{Bien}    # Good
+{206}{}{M.Bien}  # Very Good
 {207}{}{Genial}  # Great
 {208}{}{Exclnt}  # Excellent
-{209}{}{Héroe} # Heroic
+{209}{}{Héroe}   # Heroic
 #
 #
 # Abbreviated Derived/Non Derived stat names
@@ -96,7 +96,7 @@
 {300}{}{PS          }
 {301}{}{Pts. de Acción}
 {302}{}{C. Armadura}
-{303}{}{Daño Desarmado}
+{303}{}{} # 303 is blank on purpose, leave blank
 {304}{}{Daño Melé}
 {305}{}{Res. Daño}
 {306}{}{Res. Veneno}
@@ -153,8 +153,8 @@
 {602}{}{IMPRIMIR ARCHIVO}
 {603}{}{ELIMINAR}
 {604}{}{VALE}
-{605}{}{¿Seguro que quieres eliminar}      # line 1
-{606}{}{el personaje actual?}                 # line 2
+{605}{}{¿Seguro que quieres eliminar}   # line 1
+{606}{}{el personaje actual?}           # line 2
 {607}{}{ fue guardado con éxito.}
 {608}{}{ fue cargado con éxito.}
 {609}{}{ya existe.}
@@ -164,16 +164,16 @@
 {613}{}{Archivo de personaje inválido.}
 {614}{}{Datos de personaje inválidos.}
 {615}{}{¡Error al leer lista de archivos!}
-{616}{}{IMPRIMIR}
-{617}{}{JUGADOR}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
 {618}{}{BLANK.GCD}
 #
 #
 # ASCII text file printing text
 #
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{REFUGIO 13 INFORMES DEL PERSONAL} # Title line 2
-{622}{}{horas} # Title line 3
+{620}{}{FALLOUT}                            # Title line 1
+{621}{}{REFUGIO 13 INFORMES DEL PERSONAL}   # Title line 2
+{622}{}{horas}                              # Title line 3
 # -
 # -
 #{000}{}{        Fuerza: 00  Puntos de Salud: 000/000        Secuencia: 00}
@@ -234,19 +234,26 @@
 #
 # Karma name strings
 #
+#
 {1000}{}{Reputación (General) }
 {1001}{}{¡Pirada!}
 {1002}{}{Campeón}
 {1003}{}{Asesina de niños}
 #
-{1004}{}{Nukainómana}
-{1005}{}{Exprimidora}
-{1006}{}{Mentalista}
-{1007}{}{Psicópata}
-{1008}{}{Radiante}
-{1009}{}{Alcohólica}
+#
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
+#
+#
+{1004}{}{Nukainómana}   # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
+{1005}{}{Exprimidora}   # TRANSLATORS: Slang word for a person who uses/abuses steroids.
+{1006}{}{Mentalista}    # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
+{1007}{}{Psicópata}     # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
+{1008}{}{Radiante}      # Could use suggestions for other ideas on this.
+{1009}{}{Alcohólica}    # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
+#
 #
 # Karma description strings
+#
 #
 {1100}{}{Este número representa tu reputación. Valores positivos indican que te has ganado el respeto de la gente común. Valores negativos indican que algunos te odian por tus actos malvados.}
 {1101}{}{Has matado a mucha gente inocente. Por lo general no es algo muy bueno por lo que ser conocido. Sin embargo, agradarás más a los que van por el mal camino.}
@@ -265,12 +272,12 @@
 # TEXT USED FOR falldemo.exe DEMO VERSION ONLY
 #
 #
-{5000}{}{Lo siento, solo puedes imprimir la}   # 1
-{5001}{}{versión completa de tu personaje.}   # 2
-{5002}{}{Lo siento, solo puedes guardar la}    # 1
-{5003}{}{versión completa de tu personaje.}   # 2
+{5000}{}{Lo siento, solo puedes imprimir la}       # 1
+{5001}{}{versión completa de tu personaje.}        # 2
+{5002}{}{Lo siento, solo puedes guardar la}        # 1
+{5003}{}{versión completa de tu personaje.}        # 2
 {5004}{}{Lo siento, solo puedes cargar la versión} # 1
-{5005}{}{completa de un personaje guardado.}   # 2
+{5005}{}{completa de un personaje guardado.}       # 2
 {5006}{}{MODO TRAMPOSO}
 {5007}{}{No disponible en la demo.}
 #

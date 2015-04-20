@@ -9,7 +9,7 @@ T - Cambios en toda la traducción.
 
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
-Traducción de Fallout Fixt   /////   Changelog de la versión 1.2   /////   15.06.14
+Traducción de Fallout Fixt   /////   Changelog de la versión 1.2.1   /////   20.04.15
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
 
@@ -18,8 +18,8 @@ La traducción será incluida en próximas versiones de Fixt, de todas formas la pu
 esto vendrá bien por si se hacen cambios en la traducción y no hay una nueva versión de Fixt en la que incluirla. Esto no significa que Fixt
 no sea necesario. Sin los archivos de éste, el juego no funcionará.
 
-* El tema oficial de Fixt en NMA: http://goo.gl/HJysIh
-* Para la lista de cambios completa en inglés: http://goo.gl/Z0DT79
+* El tema oficial de Fixt en NMA:               http://www.nma-fallout.com/showthread.php?194562
+* Para la lista de cambios completa en inglés:  https://www.dropbox.com/s/w5cvx36g3kb1b6z/Fallout_Fixt_changelog.txt?dl=0
 
 
 
@@ -28,8 +28,8 @@ Este trabajo tomó base en la última versión (1.1) de la traducción mejorada de L
  - Extensiva revisión de textos.
  - Traducción en femenino.
 
-* Más información en el tema oficial: http://goo.gl/XHju1L
-* Y más traducciones en DLAN: http://www.clandlan.net/
+* Más información en el tema oficial:  http://www.clandlan.net/foros/topic/54779-fallout-1traduccion-mejorada-v11-en-castellano/
+* Y más traducciones en DLAN:          http://www.clandlan.net/
 
 
 
@@ -146,6 +146,8 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
 
  + Versión 1.1 (15.06.13) - Fixt 6.4 Alpha (Versión no publicada)
 
+  - Traducción actualizada para Fixt 6.4 Alpha
+  
   - Añadida versión en femenino.
 
   - "merodeador" por "viajero" (wanderer).                                  P
@@ -155,14 +157,16 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
 
 
   
- + Versión 1.2 (15.06.14) - Fixt 6.7.3 Alpha
+ + Versión 1.2 (15.06.14) - Fixt 6.7.3 Alpha (Versión publicada paralelamente)
 
+  - Traducción actualizada para Fixt 6.7.3 Alpha
+  
   - Corregidos algunos fallos en la versión en femenino
     (salvo por lo obvio ahora son completamente iguales).
 
   - Mejorada las mayúsculas acentuadas en títulos grandes.        ** (3)
 
-  - Mejorados gráficos de la interfaz originales.                 ** (4)
+  - Mejorados gráficos de la interfaz original.                   ** (4)
   - Traducidos gráficos pertenecientes al "High Resolution Patch"
   - Traducidas dos "splash screen" originales no utilizadas.      ** (5)
   - Traducidas todas las "splash screen" añadidas en Fixt.
@@ -204,12 +208,21 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
   - Corregida puntuación después de signos de interrogación en varios casos.  P ** Ejemplo: "¿Lorem ipsum?." a "¿Lorem ipsum?"
   - Corregidas decenas de signos de exclamación e interrogación sin cerrar.   P
   - Corregidas singlas en plural en varios casos.                             P ** Ejemplo: "los CDs" a "los CD"
-  
-  
-  
- + Versión 1.x (xx.xx.xx) - Fixt x
+
+
+
+ + Versión 1.2.1 (20.04.15) - Fixt 7.1
  
- 
+  - Traducción actualizada para Fixt 7.1 Alpha
+  
+  - Acentos quitados en los menús de opciones ** (3)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
     ** (1) Traducción literal (como se hizo en las traducciones rusa, alemana y francesa), su nombre viene por el hecho de que la cabeza de estas criaturas flotan
            por la corriente de gases que expulsa (de ahí que exploten al utilizar armas de fuego o el porqué de su raro caminar). 
            Posiblemente se las nombró Nómadas porque los traductores originales pensaron que se refería a un grupo de personas.
@@ -218,9 +231,11 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
     ** (2) Parte del contenido no utilizado (o "content cut" como se dice en inglés).
 
 
-    ** (3) La tipografía utilizada para títulos grandes (FONT4.AAF) como la del menú principal (que siempre aparece en mayúscula; no debe confundirse con la más pequeña 
-           que se utiliza, por ejemplo, en el menú de opciones) se ha modificado para que las vocales acentuadas se asemejen más al resto de letras.
-           La tipografía de títulos menores (FONT3.AAF) no se pudo cambiar debido al tamaño. Opcional.
+    ** (3) La tipografía utilizada para títulos grandes (FONT4.AAF) como la del menú principal (que siempre aparece en mayúscula; no debe confundirse
+           con la más pequeña que se utiliza, por ejemplo, en el menú de opciones) se ha modificado para que las vocales acentuadas se asemejen más
+           al resto de letras. La tipografía de títulos menores (FONT3.AAF) no se pudo cambiar debido al tamaño.
+           REVISIÓN: Esta nueva fuente creado por mi era opcional y no era una gran mejora, pero desde la versión 1.2.1 será innecesaria ya que se
+           omitirán los acentos en los menús para evitar posibles problemas con la codificación de los archivos de texto.
 
 
     ** (4) En todos los casos se han mejorado el aspecto de las fuentes para parecerse más a las originales. Algunos cambios notables:
@@ -251,8 +266,8 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
 
-
 Gracias a L@Zar0 por su traducción mejorada y al equipo de la nueva traducción del Fallout 2 por dejarme utilizar gráficos de su trabajo.
 
-
 Si tienes sugerencias, peticiones o quejas puedes ponerte en contacto conmigo en los foros de DLAN, en el hilo oficial o por PM, mi nombre de usuario es Luffier.
+
+Tema oficial: http://www.clandlan.net/foros/topic/72446-fallout-fixt-y-nueva-traduccion-mejorada/

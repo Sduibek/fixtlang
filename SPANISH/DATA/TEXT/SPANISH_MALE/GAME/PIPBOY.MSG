@@ -23,7 +23,7 @@
 #
 {100}{}{¡Feliz Año Nuevo!}                    # New years
 {101}{}{¡Feliz Día de San Valentín!}          #
-{102}{}{Alt+F4 y luego Y activa el Modo Dios} # April fools !
+{102}{}{Alt+F4 y luego Y activa el Modo Dios} # April fools!
 {103}{}{¡Feliz Día de Estreno!}               # Shipping day!
 {104}{}{¡Feliz Día de la Independencia!}      # Independence day
 {105}{}{¡Feliz Halloween!}                    # Halloween
@@ -34,21 +34,18 @@
 #
 {200}{}{MÁS}
 {201}{}{ATRÁS}
-# 202 was previously "STATUS"  -Sduibek
-{202}{}{MISIONES}
+{202}{}{ESTATUS}
 {203}{}{No hay tareas actuales.}
 # TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
 {204}{}{}	# Clues gone
 {205}{}{AUTOMAPAS}
 {206}{}{ARCHIVOS VÍDEO}
-# 207 was previously "DATA"  -Sduibek
-{207}{}{DISCOS Y REGISTROS}
+{207}{}{DATOS}
 # 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
-{210}{}{misiones}
-# 211 was previously "DATA"  -Sduibek
-{211}{}{DISCOS Y REGISTROS}
+{210}{}{ESTATUS}
+{211}{}{DATOS}
 {212}{}{de}
 {213}{}{Página}
 {214}{}{VALE}
@@ -127,7 +124,7 @@
 {414}{}{}                            # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
 {415}{}{Registros de West Tek}       # from ZAX, no disk
 {416}{}{}
-{417}{}{}                            # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
+{417}{}{Transmisión reguladora}      # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
 #
 # Movie archive titles
 # Order must match the list (see gmovie.h)

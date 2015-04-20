@@ -1,29 +1,29 @@
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
 #
 # Text labels and messages used in LOADSAVE.C
 #
 # (These MUST match "text message" enumeration on the top of LOADSAVE.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
 
 # System
 {100}{}{CARGAR PARTIDA}              # Titles
-{101}{}{ESCOGE LA RANURA DE CARGA RÁPIDA}
+{101}{}{ESCOGE UNA RANURA DE CARGA RAPIDA}
 {102}{}{GUARDAR PARTIDA}
-{103}{}{ESCOGE LA RANURA GUARDADO RÁPIDO}
+{103}{}{ESCOGE UNA RANURA DE GUARDADO RAPIDA}
 {104}{}{ VALE}
 {105}{}{CANCELAR}
-{106}{}{¡Error al cargar lista guardar partida!} # Line 1
-{107}{}{Directorio de partidas guardadas:}    # Line 2
-{108}{}{No existe o está corrupto.} # Line 3
+{106}{}{Error al cargar lista de partidas guardadas!} # Line 1
+{107}{}{Directorio de partidas guardadas:}            # Line 2
+{108}{}{No existe o esta corrupto.}                   # Line 3
 {109}{}{RANURA DE GUARDADO}
 {110}{}{RANURA DE GUARDADO}
-{111}{}{- VACÍO -}
-{112}{}{- ARCHIVO GUARDADO CORRUPTO -}
-{113}{}{- VERSIÓN ANTIGUA -}
-{114}{}{Vacío.}
-{115}{}{¡Error!}
-{116}{}{Versión antigua.}
+{111}{}{- VACIO -}
+{112}{}{- ARCHIVO CORRUPTO -}
+{113}{}{- VERSION ANTIGUA -}
+{114}{}{Vacio.}
+{115}{}{Error!}
+{116}{}{Version antigua.}
 {117}{}{ENE}                            # Months
 {118}{}{FEB}
 {119}{}{MAR}
@@ -37,20 +37,18 @@
 {127}{}{NOV}
 {128}{}{DIC}
 {129}{}{Nivel}
-{130}{}{DESCRIPCIÓN}
-{131}{}{¡La partida ya existe! ¿Reemplazar?}
-{132}{}{¡Error al guardar partida!}             # Line 1
+{130}{}{DESCRIPCION}
+{131}{}{La partida ya existe! Sobreescribir?}
+{132}{}{Error al guardar partida!}           # Line 1
 {133}{}{Imposible guardar partida.}           # Line 2
-{134}{}{¡Error al cargar partida!}            # Line 1
-{135}{}{Imposible cargar partida.}           # Line 2
-{136}{}{El archivo de la partida guardada es una versión antigua.}
+{134}{}{Error al cargar partida!}            # Line 1
+{135}{}{Imposible cargar partida.}            # Line 2
+{136}{}{El archivo de la partida guardada es una versi¨®n antigua.}
 {137}{}{Mapa}
 
-{140}{}{Partida Guardada.}
-{141}{}{Partida Cargada.}
-#
-# Demo versions only
-#
-{200}{}{Lo siento, no puedes guardar ni cargar} # 1
-{201}{}{en la versión demo.}         # 2
+{140}{}{Partida guardada.}
+{141}{}{Partida cargada.}
 
+# Demo versions only
+{200}{}{SIN USAR}
+{201}{}{SIN USAR}

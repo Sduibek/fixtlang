@@ -3,20 +3,21 @@
 ; List of folks - LARGE YELLOW
 #= Fallout Fixt =
 
-@A customizable patch, mod, restoration, and compilation
+@A comprehensive customizable patch, mod, restoration
 
-@Version: alpha 6.7.3
+@Version:  alpha 7.0.1
 Sduibek
 
 
-#Philanthropists:
+# Philanthropists:
 
+Thomas Daley
 phillon
 Salk
 Vasiliy Kashiskiy
 
 
-#SDUIBEK WOULD LIKE TO THANK:
+# SDUIBEK WOULD LIKE TO THANK:
 @(Listed Alphabetically)
 
 .Pixote.
@@ -25,7 +26,7 @@ Vasiliy Kashiskiy
 Continuum
 @For code, information, and graphics
 
-Cubik2k (Cubik)
+Cubik2k
 @For assistance, code, and many great tools and utilites
 @without which Fallout Fixt would be much less interesting
 
@@ -42,8 +43,11 @@ Dude101
 Endocore
 @For feedback, essential mapper guidance, and code
 
+GazDone
+@For some clever sleuthing and fixes
+
 gustarballs1983
-@For feedback and brainstorming
+@For feedback, brainstorming, and bug reports.
 
 holder80
 @For the Play-As-A-Mutant idea, design doc and info
@@ -60,11 +64,11 @@ JimTheDinosaur
 Jordan
 @For making the engine conversion, and scripting help
 
-killap (Bear Dude)
+killap
 @For assistance, feedback, guidance, and being an
 @inspiration to the entire Fallout modding community
 
-Lexx (Tophat Cat)
+Lexx
 @For the uncut patch, graphics, code, feedback, info
 
 Mash
@@ -106,7 +110,7 @@ TeamX
 Timeslip
 @For feedback, brainstorming and creating the mighty Sfall
 
-Timothy (Tim) Cain
+Tim Cain
 @For creating Fallout 1, being a cool guy, and personally
 @answering my questions about Fallout, this many years later
 
@@ -124,7 +128,7 @@ Sduibek
 
 @With contributions by
 Continuum
-Cubik2k (Cubik)
+Cubik2k
 Darek
 Endocore
 JimTheDinosaur
@@ -164,7 +168,7 @@ Yanok
 x'il
 
 @Lieutenant Fixed Offsets
-Lexx (Tophat Cat)
+Lexx
 
 @Smoking NPC Idle Animations
 Josan12
@@ -319,7 +323,7 @@ Darek
 Endocore
 
 @Made possible using map converter utility by
-Cubik2k (Cubik)
+Cubik2k
 
 @Also made possible with documentation by
 Sorrow
@@ -347,7 +351,7 @@ TeamX
 Celestial
 
 @Uncut patch (for German versions)
-Lexx (Tophat Cat)
+Lexx
 
 @Gore Patch (for German versions)
 NeuRomancer
@@ -374,7 +378,7 @@ Wasteland Ghost
 Wasteland Hellbringer
 
 @EndGame Mod and Cheatboy
-Cpt Corpse (Corpse)
+Cpt. Corpse
 
 
 #SFALL PLUGIN
@@ -410,7 +414,7 @@ Alchemist
 
 #DEBUG MODE 
 
-Cubik2k (Cubik)
+Cubik2k
 Noid
 Platon
 
