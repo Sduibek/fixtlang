@@ -4,10 +4,10 @@ The following changes have been made in the Fallout Fixt text and dialog files,
 
 
 1)  "Smart" quotation marks and apostrophes changed to their "dumb" equivalents.
- For the codes required to text-search for smart quotes, see the first link below.
- For the dumb quote codes you will be replacing them with, see the second link below.
 
-	Smart quotes:  https://www.dropbox.com/s/ydc9j9jwl234qti/Smart%20quotes%20and%20apostrophes.png
+See the picture in the same folder as this file for how to type the smart quotes.
+Type those into a search field to do the Find-&-Replace (see #3 below)
+
 	Dumb quotes:  http://en.wikipedia.org/wiki/Quotation_mark#Typing_quotation_marks_on_a_computer_keyboard
 
 
