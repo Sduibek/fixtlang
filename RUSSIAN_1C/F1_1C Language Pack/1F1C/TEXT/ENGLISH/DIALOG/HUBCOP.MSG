@@ -1,0 +1,65 @@
+# These are the police of the Hub (a large metropolis). They are either gender, but using
+# Male is the best approach. They are simpltons who have a badge only because no one else
+# would take the badge. Speech has an absent-mindedness about it.
+
+{100}{}{Вы видите полисмена.}
+# Police Officer is male
+
+{101}{}{Здравствуйте! Мы хотели бы посмотреть... ээ, то есть взглянуть... (Полисмен кидает странный взгляд в сторону другого полисмена и кивает головой в вашу сторону.)}
+{102}{}{Здравствуй-здравствуй... Постой!  Я тебя знаю!  Ты разыскиваешься за грабеж!  Ни с места!}
+# Stranger is the player. Consider Male.
+
+{103}{}{Ладно, сдаюсь.}
+{104}{}{Сожри свинца!}
+# "Eat lead" is equivalant to "I'm going to kill you."
+
+{105}{}{Кор рок!}
+# "Kor Rok" is just garbled sounds a moronic player is saying.
+
+{106}{}{(Вы сдаетесь.)}
+{107}{}{Поосторожнее, здесь небезопасно.}
+
+# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
+{108}{}{Следи за собой, }
+# scripts are money
+
+{109}{}{парень.}
+{110}{}{леди.}
+{111}{}{Лучше уходи отсюда, здесь небезопасно.}
+{112}{}{Старый город летит в тартарары.}
+# Old Town is another section of town. This is were the poor and down-trodden live.
+
+{113}{}{Ну и вонь!}
+{114}{}{Здесь бы все снести, а потом выстроить дома заново.}
+{115}{}{Я знаю, что этот проклятый Воровской Круг где-то здесь, неподалеку.}
+# the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
+
+{116}{}{Бедняга Гарольд, у него была трудная жизнь.}
+# Harold is Male
+
+{117}{}{Будь тише воды, ниже травы.}
+# == Don't do anything illegal.
+
+{118}{}{Эй. Я тебя знаю. Никаких больше драк, ладно?}
+{119}{}{Даже не думай затевать здесь драку!}
+{120}{}{Еще раз поймаем тебя на драке, и тебе не поздоровится!}
+# "You're going in" equals "You are going to jail"
+
+{121}{}{Вы слышали? Дальнобойщики уничтожены.}
+# Far Go Traders is a merchant's guild
+
+{122}{}{Торговцы водой - уже история, счастье какое.}
+# Water Merchants is a merchant's guild
+
+{123}{}{Красный караван уничтожен.}
+# Crimson Caravans is a merchant's guild
+
+{124}{}{Вы слышали? Подполье наконец-то уничтожено!}
+# Underground is a rough organization for assassins. Akin to the Mafia
+
+{125}{}{Декер мертв!}
+# Decker is Male
+
+{126}{}{В городе будет гораздо спокойнее без Декера.}
+# == "This town would be safer with Decker dead."
+

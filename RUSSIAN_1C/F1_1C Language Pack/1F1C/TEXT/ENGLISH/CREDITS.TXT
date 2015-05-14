@@ -1,0 +1,465 @@
+#ФИРМА "1С"
+
+@Продюсер
+Юрий Мирошников
+
+@Исполнительный продюсер
+Александр Гурин
+
+@Маркетинг
+Николай Барышников
+
+@PR
+Алексей Артеменко
+Анатолий Субботин
+
+@Упаковка и руководство пользователя
+Сергей Коновалов
+
+@Руководитель отдела локализаций
+Ольга Петрова
+
+@Менеджеры локализации
+Михаил Волошин
+Анна Киселева
+Михаил Волков
+
+@Редактор руководства пользователя
+Ирина Изотова
+
+@Художник
+Татьяна Кузьмина
+
+@Роли озвучивали
+Дмитрий Полонский
+Олег Щербинин
+Дмитрий Филимонов
+Кирилл Радциг
+Никита Семенов-Прозоровский
+Андрей Ярославцев
+Елена Соловьева
+Елена Ивасишина
+Владимир Антоник
+Юрий Деркач
+Александр Клюквин
+Вадим Максимов
+Александр Бобровский
+Елена Кищик
+Ольга Кузнецова
+Александр Белый
+Борис Репетур
+Константин Сапроненков
+и другие...
+
+@Звукооператоры
+Владимир Кочетков
+Владимир Грезнев
+
+@Режиссер озвучания
+Михаил Волошин
+
+@Руководитель отдела тестирования
+Александр Шишов
+
+@Тестеры
+Сергей Кияткин
+Михаил Королев
+Николай Николаев
+Александр Шелапутов
+Андрей Мошков
+Дмитрий Савин
+
+@Дополнительное тестирование
+Павел Нестеров
+Игорь Зенков
+Виктор Козлов
+Филипп Тетюркин
+Василий Гаврилин
+Евгений Дрозд
+Максим Букашкин
+
+
+
+@Все права на издание и распространение 
+@программного продукта "Fallout" 
+@на территории стран СНГ и Балтии 
+@принадлежат ЗАО "1С".
+
+
+
+
+#КОМАНДА РАЗРАБОТЧИКОВ
+
+
+#ПРОГРАММИРОВАНИЕ
+
+@Ведущие программисты
+Tim Cain
+Chris Jones
+
+@Программисты
+Jesse L. Reynolds
+Kevin Weatherman
+Nick Kesting
+Robert Hertenstein 2
+Jess Heinig
+Jason Taylor
+
+@Программист на платформе Mac
+Tim Hume
+
+@Дополнительное программирование
+Mark Harrison (Lizard Byte)
+John Price
+Chris DeSalvo
+Mark Murakami
+Dan Spitzley
+Guido Henkel
+Michael Bernstein
+Thomas French
+
+@Ролики
+Paul Edelstein
+
+@Инсталлятор/Автозапуск
+Darren Monahan
+
+
+#АРТ
+
+@Арт-директор
+Leonard Boyarsky
+
+@Ведущие художники
+Jason Anderson
+Leonard Boyarsky
+Gary Platner
+
+@Художники
+Robert Collier
+Michael Dean
+Tramell Ray Isaac
+Eddie Rainwater
+Scott Rodenhizer
+Sharon Shellman
+
+@Дополнительный арт
+Peter Kroko
+Justin Sweet
+Joseph Cesario
+Cheryl Austin
+Jay Esparza (Tachyon)
+Geoff Gregor
+Arlene Sommers
+George Almond
+Erik Jamison
+Helena Wickberg
+James Doyle (Apples Animation)
+
+@Эскизы
+Scott Rodenhizer
+
+@Концептуальный арт
+Tony Postma
+
+
+
+#ДИЗАЙН
+
+@Ведущий дизайнер
+Chris Taylor
+
+@Дизайнеры
+David Hendee
+Scott Bennie
+Brian Freyermuth
+Scott Campbell
+
+@Технический дизайнер
+Scott Everts
+
+@Дополнительный дизайн
+Robert Hertenstein 2
+Jess Heinig
+Nick Kesting
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Fred Hatch
+Evan Chantland
+Erick Lujan
+Dennis Presnell
+Feargus Urquhart
+
+@Дизайн/Диалоги
+Mark O'Green
+
+@Оригинальный дизайн игры
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+
+
+#ПРОИЗВОДСТВО
+
+@Продюсер
+Tim Cain
+
+@Помощник продюсера
+Fred Hatch
+
+@Директор подразделения
+Feargus Urquhart
+
+@Помощник директора подразделения
+Jeremy Barnes
+
+@Оригинальный продюсер
+Tom Decker
+
+@Ассистент видеорежиссера
+Jason G. Suinn
+
+@Ассистент
+Mike "Paco" Greene
+
+@Ассистент по платформе Mac
+Chris Benson
+
+
+
+#КОНТРОЛЬ КАЧЕСТВА
+
+@Руководитель службы управления качеством
+Chad Allison
+
+@Помощник руководителя службы управления качеством
+Colin Totman
+
+@Главные тестеры PC-версии
+Ron Hodge
+Greg "Moose" Baumeister
+
+@Тестеры PC-версии
+Shanna SanPaolo
+Evan Chantland
+Ed Hyland
+Steve Reed
+James Chung
+Kaycee Vardaman
+Bill Field
+Richard Barker
+Rene Hakiki
+Erick Lujan
+Matt Kaupa
+Steve Victory
+Scot Humphreys
+Tim Anderson
+Darrell Jones
+
+@Главные тестеры Mac-версии
+Jim Dodds
+Matt Murakami
+Steve McLafferty
+
+@Тестеры Mac-версии
+Adam Chaney
+Dennis Presnell
+Savina Greene
+Kaycee Vardaman
+Scot Humphreys
+Mike Krueger
+Matt Golembiewski
+
+@Специалисты по ИС
+Bill Delk
+Steve Cabiness
+
+@Руководитель отдела совместимости
+Phuong Nguyen
+
+@Техники отдела совместимости
+Marc Duran
+Dan Forsyth
+Derek Gibbs
+Aaron Olalz
+John Parker
+
+
+
+#ЗВУК
+
+@Руководитель отдела
+Charles Deenen
+
+@Аудио-мастеринг
+Craig Duman
+
+@Фоновая музыка
+Ronald Valdez
+
+@Монтаж звука в роликах
+Dave West
+
+@Звуковые эффекты для роликов
+West Productions
+
+@Подбор звуковых эффектов
+Doug Turner
+Gary Murello
+Larry Peacock
+
+@Обработка звуковых эффектов
+Caron Weidner
+
+@Монтаж звуковых эффектов
+Debby Ruby
+
+@Монтаж/подбор звуковых эффектов
+Cecilia Perna
+
+@Звуковые эффекты записаны на студии
+West Productions
+
+@Контроль звуковых эффектов
+Charles Deenen
+Larry Peacock
+
+@Редактор звуковых эффектов
+Michael Dickeson
+
+@Музыка
+Mark Morgan
+Four Bars Entertainment
+
+@Монтаж звука вступительного ролика
+Charles Deenen
+
+@Контроль
+Brian Luzietti
+
+@Работа с библиотеками звуковых эффектов
+Doug Rappaport
+Sergio Bustamante II
+Ron Valdez
+
+@Дизайн звуковых эффектов
+Charles Deenen
+Gregory Allen
+Larry Peacock
+EFX
+Weddington
+Caron Weidner
+
+@Редакторы озвучания
+Doug Rappaport
+Sergio Bustamante II
+
+@Продюсер звукозаписи
+Fred Hatch
+
+@Звукооператор
+Paul Hurtubise
+
+@Контроль звукозаписи
+Chris Borders
+
+@Координатор озвучания
+Julie Morgavi
+
+@Оригинальные диалоги записаны на студии
+Hollywood Recording Services
+Hollywood, CA
+
+@Режиссер озвучания
+Jamie Thomason
+
+"MAYBE"
+@Исполнитель: Ink Spots
+@Предоставлено MCA Records
+@По соглашению с Universial Music Special Markets, Inc.
+@Слова и музыка: Allan Flynn и Frank Madden
+@Используется с разрешения EMI Robbins Catalog Inc. (ASCAP)
+
+@ВНИМАНИЕ: копирование данной Программы или ее частей 
+@без письменного разрешения владельца авторских прав
+@является нарушением Федерального Закона об Авторских Правах.
+
+
+#МАРКЕТИНГ
+
+@Менеджер по связям с общественностью
+Genevieve Ostergard
+
+@Директор по маркетингу
+Paul Sackman
+
+@Менеджеры по маркетингу
+Mike Markin
+Craig Owens
+Michael Courtney
+
+@Помощник менеджера по маркетингу
+Tod Mack
+
+@Начальник отдела перевозок
+Thom Dohner
+
+
+
+
+@Спасибо: Scott Everts за посильную и непосильную поддержку,
+@Quotes File, Bomberman, Quake, Diablo,
+@Warcraft II, саундтрекам из разных фильмов, Brian Eno, 
+@холодильнику с газировкой (спасибо Gus & Rusty!), 
+@Призраку Рождества (Давай, Санта!), Demo the cat, Nicol, 
+@Tracy, Mary & Adam, Lisa (за моральную поддержку), 
+@Jamal, Мамочке Ти-Рэя, the two Donalds,
+@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, 
+@The Lunch Court, Weez, Weaz, Irvine Spectrum, Wiz War, 
+@Dragon Dice, B5, X-Files, Xena, Buffy, The Simpsons, ER, Jeepin' и
+@the Last Minute Talking Dog за нахождение этого проклятого бага!
+
+@Отдельное спасибо участникам форума сайта Fallout
+@за комментарии, предложения и сообщения о багах в демо-версии.
+@Ваша помощь была оценена по достоинству!
+
+
+
+
+
+
+
+
+@Это все!
+
+
+
+@Больше титров не будет
+
+
+
+@Нечего пялиться
+
+
+
+
+
+
+
+
+
+
+
+@Fallout появился на свет благодаря: компании Interplay,
+@команде разработчиков Fallout и букве Q :)
+
+
+
+
+
+
+Хорошего дня!
