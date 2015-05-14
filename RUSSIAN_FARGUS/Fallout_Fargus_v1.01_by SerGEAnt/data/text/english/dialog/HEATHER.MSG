@@ -1,0 +1,137 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+{100}{}{Вы видите Ёейзер из Скаутов Последователей.}
+{101}{}{Что ты здесь делаешь?}
+{102}{}{Дис!}
+# moronic line for This
+{103}{}{Иди, пока.}
+# moronic line for Good Bye.
+{104}{}{Я просто смотрю.}
+{105}{}{Я здесь чтобы убить тебя!}
+{106}{}{Просто любопытствую по поводу того, что здесь происходит.}
+{107}{}{Правда? И что вы такого можете искать?}
+{108}{}{Я думаю я ее уже нашел.}
+{109}{}{Я ищу шпиона.}
+{110}{}{Ничего особенного. Просто осматриваюсь.}
+{111}{}{Только информация.}
+{112}{}{Спасибо, но у меня уже назначена встреча. Я думаю пришло время вам уйти.}
+# "I am already spoken for" == "i am already dating someone else"
+{113}{}{Да, шпион. Я слышал об этом надоедливом вредителе. Мне бы очень хотелось его поймать.}
+# Spy is considered male
+{114}{}{А я слышал, что этот шпион девушка.}
+# Spy is considered female
+{115}{}{Ты что нибудь знаешь об этом шпионе?}
+# spy is considered male
+{116}{}{Ты - шпион!}
+# spy is considered female
+{117}{}{Удачи тебе. Извини, что беспокою тебя.}
+{118}{}{Могу поспорить это был этот болтун Нейл, он столько трепется. Придется с ним поговорить попозже.}
+# Neil is male
+{119}{}{Ты думаешь Нейл - шпион?}
+# spy is male. Neil is male.
+{120}{}{Кто ты тогда думаешь этот шпион?}
+# spy is male
+{121}{}{Ты говоришь, как будто защищаешься. Есть тому причины?}
+{122}{}{Я почти в этом уверен. Мне только нужны доказательства.}
+{123}{}{Я достану тебе доказательства.}
+{124}{}{Он кажется неплохим малым. Я не знаю.}
+{125}{}{Почему ты думаешь, что это он?}
+{126}{}{Спасибо вам. Вы и не знаете сколько это для меня значит. Когда достанете доказательства, 
+убейте его.}
+{127}{}{А чего здесь не знать? У него есть доступ к "Детям". Он работает ночью,
+ когда почти все спят. Это должен быть он.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{128}{}{О кей, мы проверим это.}
+{129}{}{Забудь об этом. Я думаю ты хочешь отклонить меня от сути!}
+{130}{}{Мне очень жаль что вы так думаете. Я не могу чтобы кто-то считал меня шпионкой
+ Мне прийдется от тебя избавиться.}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+{131}{}{У него есть доступ к "Детям" ночью. Никто никогда не видит его на дежурстве.
+ Это должно быть он.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{132}{}{О кей, я проверю это.}
+{133}{}{Забудь про это. Ты наверное пытаешься запудрить мне мозги!}
+{134}{}{Я нет уверенности насчет того кто это. Я думаю это либо охранник, либо 
+послушница. Они все время проскальзывают в "Собор Детей" по ночам.}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{135}{}{Какие-нибудь еще ниточки?}
+# == is there any other information that you can think of?
+{136}{}{Но я слышал, что только скауты проводят рейды в " Детях".}
+# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{137}{}{О кей. Спасибо за помощь.}
+{138}{}{Не совсем так. Только то, что я считаю, что это мужчина и
+ возможно либо охранник либо послушник.}
+# is is refering to a male spy. Scholar and guard are male.
+{139}{}{О кей. Спасибо за помощь.}
+{140}{}{Правда. Мы скауты проводим множественные рейды в " Детях" и последнее время с большими потерями.
+ Шпионы нам дорого стоят.}
+# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{141}{}{Похоже, что ты очень всем этим огорчен. Я поищу шпиона и убью его.}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+{142}{}{А может скаут быть шпионом?}
+# spy and scout == male
+{143}{}{Спасибо за твою помощь.}
+{144}{}{Зачем одному из нас это делать?}
+#us referres to the scouts
+{145}{}{Если ты истребишь скаутов, тогда ты остановишь рейды.}
+{146}{}{Я не знаю. Зачем тебе это делать?}
+{147}{}{Я не знаю. Просто полюбопытствовал.}
+{148}{}{Звучит неплохо. Я заметил, что Питера никогда особенно не атакуют во время рейдов.
+ Я думаю он может быть тем самым.}
+# Peter is male. She thinks that Peter may be the male spy.
+{149}{}{О кей, я это проверю.}
+{150}{}{Забудь про это! Ты по-моему хочешь меня отвлечь от сути!}
+{151}{}{Ты думаешь это я?}
+# it referring to the female spy.
+{152}{}{Извини. У меня был трудный день.}
+# under a bit of stress.
+{153}{}{Да! Теперь ты умрешь!}
+{154}{}{Тогда думай об этом в другом месте. Мне нужно возвращаться к работе.}
+# then think about it somewhere else
+{155}{}{Я думаю он считает меня шпионом. Но это не я.}
+# spy is female
+{156}{}{Может он прав.}
+{157}{}{Почему бы ему так думать?}
+{158}{}{Потому что я новый скаут. Я здесь только около года и проблемы начались 
+где-то пять месяцев назад.}
+# scout is female
+{159}{}{Я думаю Нейл может быть прав.}
+# Neil is male. right == correct.
+{160}{}{Я думаю Нейл может быть шпионом. Я это проверю.}
+# spy is male.
+{161}{}{Тогда смотри в оба. Это не место для тебя.}
+{162}{}{Если тебе нужна информация, поищи Николь. Она считает, что все знает.}
+# Nicole is female. said in a snotty manner.
+{163}{}{Меня можно убедить тебе рассказать кое-что о происходящем. За определенную цену.}
+{164}{}{Сколько?}
+{165}{}{Ты станешь продавать секреты?}
+{166}{}{Забудь об этом. У меня нет денег.}
+{167}{}{Триста условных единиц и информация твоя.}
+# caps are a form of money. equivalant to a dollar each
+{168}{}{Конечно.}
+{169}{}{Ни за что.}
+{170}{}{Намечается рейд в южном конце владений "Детей". Теперь уходи.}
+{171}{}{Пытаешься меня надуть? Я тебе покажу!}
+{172}{}{Жаль, что ты так считаешь. Но, хорошего вам дня.}
+{173}{}{Мне нужно как-то крутиться. Так, тебе это нужно или нет?}
+# do you want me to give you the information?
+{174}{}{Конечно.}
+{175}{}{Ни за что.}
+{176}{}{Ничего. Теперь уходи.}
+{177}{}{Оставь меня. Я пытаюсь отдохнуть.}

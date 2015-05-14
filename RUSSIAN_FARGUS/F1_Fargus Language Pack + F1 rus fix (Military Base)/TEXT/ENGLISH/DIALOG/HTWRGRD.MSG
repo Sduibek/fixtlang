@@ -1,0 +1,28 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+{100}{}{Вы видите охранников Ёайтауера.}
+{101}{}{Вам лучше уйти. Дарен Ёайтауер не любит посетителей.}
+{102}{}{Ваше присутствие здесь нежелательно.}
+{103}{}{Уходите!}
+{104}{}{Вам сюда нельзя.}
+{105}{}{Уходи, или пожалеешь.}
+{106}{}{Вы здесь нежеланный гость.}
+# "You are not permitted to enter the house."
+{107}{}{Что такое? Схватить их!}
+{108}{}{Вы совершили большую ошибку, придя сюда.}
+{109}{}{Что ты здесь делаешь? Ты покойник!}
+# "You're dead meat" == "i'm going to kill you"
+{110}{}{М-м-м, выглядит аппетитно.}
+# refering to food
+{111}{}{Это брамином пахнет?}
+# Brahmin is an animal akin to a 2 headed cow. consider Male
+{112}{}{Налейте мне еще!}
+# referring to getting more alcohol
+{113}{}{Есть что-нибудь в холодильнике?}
+# fridge == refridgerator
+{114}{}{Сколько еще ждать?}
+# referring to dinner
+{115}{}{Я голоден.}
+{116}{}{Уже почти готово?}
+# referring to dinner.
+{117}{}{Я сейчас отключусь!}

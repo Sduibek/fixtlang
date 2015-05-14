@@ -1,0 +1,14 @@
+{101}{}{Мне не нужны твои услуги сейчас. Потом как-нибудь.}
+{102}{}{Помогите! Спасите!}
+{103}{}{Ты умрешь, за свой поступок!}
+{104}{}{Пощадите меня! Пожалуйста!}
+{105}{}{Они уже мертвы? Может быть, там есть еще?}
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{106}{}{Ты появился вовремя, мой друг. Позволь мне преподнести тебе небольшой знак моей
+ признательности.}
+{107}{}{Ты появилась вовремя. Позволь преподнести небольшой знак моей признательности.}

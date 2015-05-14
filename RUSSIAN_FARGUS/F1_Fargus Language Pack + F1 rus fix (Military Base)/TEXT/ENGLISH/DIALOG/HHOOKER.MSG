@@ -1,0 +1,130 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Вы видите женщину.}
+{107}{}{Вы видите мужчину.}
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+{100}{}{Вы видите пьяного.}
+{110}{}{Оставь меня наедине с моей печалью.}
+{111}{}{Ты мой лучший товарищ.}
+# best friend (slurred)
+{112}{}{Почему ты...(Икает) где я?}
+{113}{}{Кто ты?}
+{114}{}{Я тебя знаю?}
+{115}{}{Меня слегка мутит.}
+{116}{}{Я плачу за все, то есть ты.}
+{117}{}{Почему тебя двое?}
+{118}{}{Стой смирно, дружок!}
+# laddy is male
+{119}{}{Стой смирно, подружка!}
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+{101}{}{Вы видите покупателя.}
+{104}{}{Вы видите игрока.}
+{120}{}{Вали отсюда, неудачник!}
+# == "Get out of here loser"
+{121}{}{Ты портишь престиж этого заведения.}
+# == "you are dropping the class of this place"
+{122}{}{Выметайся, ты на меня наводишь порчу!}
+# == "get away. you will bring me bad luck"
+{123}{}{Не отвлекай меня.}
+{124}{}{Я еще побью эту проклятую игру!}
+{125}{}{Ты хорошо в это играешь?}
+{126}{}{Ты это видел? Этого не может быть!}
+# referring to dice roll
+{127}{}{Я думаю они мухлюют.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+{128}{}{А вот тут неплохие шансы.}
+{129}{}{Это надежная штука.}
+# referring to a bet.
+{130}{}{Что? Как я мог проиграть?}
+{131}{}{Этот стол невезучий!}
+# == "this table is cursed/unlucky"
+{132}{}{Я занят.}
+{133}{}{Что не видишь, что я здесь играю?}
+{134}{}{Либо ставь, либо бей.}
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+{102}{}{Вы видите очень привлекательную девушку.}
+{105}{}{Вы видите женщину, она выглядит очень занятой.}
+{135}{}{Оставь нас в покое или мы позовем охрану.}
+{136}{}{Поосторожнее, я близкий друг Управляющего Фрая.}
+{137}{}{Ты не возражаешь?}
+{138}{}{Никаких подглядываний когда я занимаюсь сексом!}
+# == "I don't allow people to watch me having sex with someone else."
+{139}{}{Я не занимаюсь групповухой.}
+# == "I don't have sex with more than one person."
+{140}{}{Я слишком устал, чтобы сделать это еще раз!}
+# referring to having another round of sex.
+{141}{}{Ты замечтался дружок, кончай это!}
+{142}{}{Выметайся к черту!}
+{143}{}{Какого черта ты тут делаешь?}
+{144}{}{Не забывай про манеры!}
+{145}{}{Я позову ментов!}
+{146}{}{Даже и не думай об этом!}
+{147}{}{Убирайся!}
+{148}{}{Прекрати!}
+{149}{}{На что ты пялишься?}
+{150}{}{Не возражаешь?}
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+{109}{}{Вы видите наемника.}
+{151}{}{Убирайся к черту из нашей комнаты!}
+{152}{}{Убирайся!}
+{153}{}{Ты часть групповухи? }
+# == "are you part of the group of three/threesome/orgy"
+{154}{}{Греби отсюда, извращенец!}
+# == "get out of here, perverse person"
+{155}{}{Что у тебя за проблема?}
+{156}{}{Свали пока я не рассердился.}
+# "Beat it" == "get out of here"
+{157}{}{Найди себе другую.}
+# ==  "get your own hooker"
+{158}{}{Она моя.}
+# "She" is referring to the hooker.
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+{108}{}{Видите очень расстроенного игрока.}
+{159}{}{Черт!}
+{160}{}{Ты мухлюешь?}
+# referring to the player
+{161}{}{Должен был выиграть я.}
+# someone else won a bet, this person thinks they should have won instead
+{162}{}{Почти!}
+# nearly got his number on the roulette wheel
+{163}{}{Чуть не хватило.}
+# pulled up a 19 to the dealers 20 in blackjack
+{164}{}{Еще раз, какие правила?}
+# in referrence to a gambling game
+{165}{}{У меня когда-то это неплохо получалось.}
+# in referrence to a gambling game
+{166}{}{Спасибо ни за что.}
+{167}{}{Я не верю!}
+{168}{}{Я так и хотел сделать.}
+# he meant to lose.
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+{103}{}{Вы видите мужчину со странной внешностью.}
+{169}{}{Делайте ваши ставки.}
+{170}{}{Уберите свои руки, сэр.}
+# in referrence to taking money from the table while the bet is going on
+{171}{}{Победитель!}
+{172}{}{Извините ребята, может в другой раз.}
+# maybe next time someone can win
+{173}{}{Еще один победитель!}
+{174}{}{Руки прочь!}
+# don't take the dice off the table while someone is rolling them
+{175}{}{Ваша очередь, сэр.}
+# your turn to bet
+{176}{}{Извините, эта ставка недействительна.}
+{177}{}{Ёватит.}
+{178}{}{Кто-нибудь еще?}
