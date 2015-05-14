@@ -1,0 +1,128 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+{100}{}{Ez itt Heather, a Tanítványok felderítõinek egyike.}
+{101}{}{Mit csinálsz itt?}
+{102}{}{Eztet!}
+# moronic line for This
+{103}{}{Viszla!}
+# moronic line for Good Bye.
+{104}{}{Csak körbenézek.}
+{105}{}{Azért jöttem, hogy megöljelek!}
+{106}{}{Csak érdekelne, hogy mi itt a nagy helyzet.}
+{107}{}{Valóban? És mégis mit keresel?}
+{108}{}{Azt hiszem már megtaláltam a nõt, akit akartam.}
+{109}{}{Egy kémet keresek.}
+{110}{}{Semmi különöset. Csak körbenéztem itt.}
+{111}{}{Csak információt akarok szerezni.}
+{112}{}{Köszönöm, de már másé vagyok. Azt hiszem, most jött el az idõ, hogy távozz.}
+
+# "I am already spoken for" == "i am already dating someone else"
+
+{113}{}{Ja, igen, a kém. Hallottam arról a mocsadékról. Szívbõl kívánom, hogy elkapjuk.}
+# Spy is considered male
+{114}{}{Sorra hallom, hogy a kém nõ lehet.}
+# Spy is considered female
+{115}{}{Hallottál valamit errõl a kémrõl?}
+# spy is considered male
+{116}{}{Te vagy a kém!}
+# spy is considered female
+{117}{}{Sok szerencsét. Bocs, hogy zavartalak.}
+{118}{}{Fogadjunk, hogy az a hetvenkedõ Neil fecsegett már megint túl sokat. Majd beszélek a fejével.}
+# Neil is male
+{119}{}{Gondolod, hogy Neil a kém?}
+# spy is male. Neil is male.
+
+{120}{}{Akkor szerinted ki a kém?}
+{121}{}{Egy kicsit úgy tûnsz, mint aki visszahúzódott a csigaházába. Van valami oka?}
+{122}{}{Majdnem biztos vagyok benne, de kell valami bizonyíték.}
+{123}{}{Szerzek neked bizonyítékot.}
+{124}{}{Jóravaló embernek tûnik... nem is tudom...}
+{125}{}{Mibõl gondolod, hogy õ az?}
+{126}{}{Köszönöm. Nem is tudod, milyen nagy segítség ez számomra. Ha megvan a bizonyíték, öldd meg a fickót!}
+{127}{}{Mi ebben a furcsa? Bejárása van a Gyermekekhez. Éjszaka dolgozik, amikor mindenki alszik. Minden valószínûség szerint õ az.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{128}{}{Oké, majd utánanézek.}
+{129}{}{Felejtsd el! Szerintem félre akarsz vezetni!}
+{130}{}{Igazán sajnálom, hogy így vélekedsz. Nem tûrhetem, hogy valaki kémnek higgyen engem. Most ki kell, hogy iktassalak.}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+{131}{}{Éjszakánként bejárása van a Gyermekekhez. Soha senki nem látja õt szolgálat közben. Minden bizonnyal õ az.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{132}{}{Oké, majd utánanézek.}
+{133}{}{Felejtsd el! Szerintem félre akarsz vezetni!}
+{134}{}{Nem vagyok benne biztos, ki lehet. Vagy egy õr, vagy egy tudós. Valaki rendre besettenkedik a Katedrálisba éjszakánként.}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{135}{}{Esetleg van még valami nyomravezetõ ötleted?}
+# == is there any other information that you can think of?
+{136}{}{Hallottam viszont, hogy csak felderítõk hajtanak végre rajtaütéseket a Gyermekeken.}# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{137}{}{Oké. Köszönöm a segítséged.}
+{138}{}{Nem igazán. Csak annyit sejtek, hogy valószínûleg férfi az illetõ és vagy õr vagy tudós.}
+# is is refering to a male spy. Scholar and guard are male.
+{139}{}{Oké. Köszönöm a segítséged.}
+{140}{}{Így van. Mi felderítõk sokszor rajtaütünk a Gyermekeken, és bizony mostanában sok a veszteségünk. Ez a kém nagy károkat okoz.}# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+{141}{}{Úgy tûnik, alaposan kikészített téged ez a dolog. Megkeresem azt a kémet, és kinyírom.}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+{142}{}{Lehetséges, hogy a kém egy felderítõ?}
+# spy and scout == male
+{143}{}{Köszönöm a segítséged.}
+{144}{}{Miért csinálna bármelyikünk ilyesmit?}
+#us referres to the scouts
+{145}{}{Ha megölöd az összes felderítõt, abbamaradnak a rajtaütések.}
+{146}{}{Nem tudom. Miért tennél ilyesmit?}
+{147}{}{Nem tudom, csak hangosan gondolkodom.}
+{148}{}{Jó ötletnek tûnik. Észrevettem, hogy Petert nem nagyon támadják meg a rajtaütések alkalmával. Elképzelhetõ, hogy õ a mi emberünk.}
+# Peter is male. She thinks that Peter may be the male spy.
+{149}{}{Oké, majd utánanézek.}
+{150}{}{Felejtsd el! Szerintem félre akarsz vezetni!}
+{151}{}{Úgy véled, hogy én vagyok az?}
+# it referring to the female spy.
+{152}{}{Elnézést. Egy kicsit idegesebb vagyok a kelleténél.}
+# under a bit of stress.
+{153}{}{Igen! És most meghalsz!}
+{154}{}{Akkor légyszíves máshol ténferegj! Vissza kell mennem dolgozni.}
+# then think about it somewhere else
+{155}{}{Szerintem õ azt hiszi, hogy én vagyok a kém. De ez nem igaz.}
+# spy is female
+{156}{}{Talán igaza van.}
+{157}{}{Miért jutna ilyesmi az eszébe?}
+{158}{}{Mivel új felderítõ vagyok. Körülbelül egy éve vagyok itt, és a bajok nagyjából öt hónapja kezdõdtek.}
+# scout is female
+{159}{}{Azt hiszem, Neilnek igaza lehet.}
+# Neil is male. right == correct.
+{160}{}{Azt hiszem, Neil lehet a kém. Megyek, utánanézek.}
+# spy is male.
+{161}{}{Akkor légy szíves máshol kutakodj! Ez itt nem a magadfajtáknak fenntartott hely.}
+{162}{}{Ha információra van szükséged, keresd Nicole-t! Õszerinte õ mindent olyan nagyon tud... [kicsit gunyoros a hangja.}
+# Nicole is female. said in a snotty manner.
+{163}{}{Meg lehetne engem gyõzni arról, hogy elmondjak ezt-azt. Persze nem ingyen.}
+{164}{}{Mennyit akarsz?}
+{165}{}{Eladnád a titkaitokat?}
+{166}{}{Hagyjuk, nincs pénzem!}
+{167}{}{Háromszáz kupak és az információ máris a tiéd.}
+# caps are a form of money. equivalant to a dollar each
+{168}{}{Legyen.}
+{169}{}{Még mit nem...}
+{170}{}{Lesz egy rajtaütés a Gyermekek erõdítményének déli részén. Most pedig menj!}
+{171}{}{Megpróbálsz átverni? Most majd megmutatom én neked!}
+{172}{}{Sajnálom, hogy így vélekedsz, de azért... minden jót neked!}
+{173}{}{Valahogy meg kell élnem. Na, akarod az infót vagy sem?}
+# do you want me to give you the information?
+{174}{}{Akarom.}
+{175}{}{Tartsd meg!}
+{176}{}{Semmit. Most pedig távozz!}
+{177}{}{Hagyj békén! Szeretnék pihenni egy kicsit.}

@@ -1,0 +1,95 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by town and world map
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+
+#
+# Town map selection names
+#
+# Format:
+#	city type.
+#	Up to 10 selection names
+#
+# Vault 13
+{200}{}{Barlangbejárat}
+{201}{}{Bejárat}
+{202}{}{Körletek}
+{203}{}{Parancsnoki szoba}
+#
+# Vault 15
+{210}{}{Bejárat a sivatag felõl}
+{211}{}{Barlang/Bejárat}
+{212}{}{Körletek}
+{213}{}{Parancsnoki szoba}
+#
+# Shady Sands
+{220}{}{Bejárat}
+{221}{}{Kert}
+{222}{}{Brahmin karám}
+#
+# Junktown
+{230}{}{Bejárat}
+{231}{}{A "Hétalvó"}
+{232}{}{Kaszinó}
+#
+# Raiders
+{240}{}{Bázis}
+#
+# Necropolis
+{250}{}{Hotel}
+{251}{}{Holtak csarnoka}
+{252}{}{Víznyerõ}
+#
+# Hub
+{260}{}{Bejárat}
+{261}{}{Belváros}
+{262}{}{Magaslat}
+{263}{}{Óvaros}
+{264}{}{Kereskedõk}
+{265}{}{Barlang}
+#
+# Brotherhood
+{270}{}{Bejárat}
+{271}{}{1-es szint}
+{272}{}{2-es szint}
+{273}{}{3-as szint}
+{274}{}{4-es szint}
+#
+# Military Base
+{280}{}{Bejárat}
+{281}{}{Erõdítmeny, 1-es szint}
+{282}{}{Erõdítmeny, 2-es szint}
+{283}{}{Tartályok, 1-es szint}
+{284}{}{Tartályok, 2-es szint}
+#
+# Glow
+{290}{}{Kráter}
+{291}{}{1-es szint}
+#
+# Boneyard
+{300}{}{Adytum}
+{301}{}{Belváros}
+{302}{}{Könyvtár}
+{303}{}{Erõd}
+{304}{}{Raktár}
+#
+# Cathedral
+{310}{}{Bejárat}
+{311}{}{Belsõ tér}
+
+# Misc messages
+{500}{}{10000 tapasztalati pontot szereztél!}
+{501}{}{Romok}
+
+#
+# Terrain type names for world map hover button
+#
+{1000}{}{Sivatag}
+{1001}{}{Hegyek}
+{1002}{}{Város}
+{1003}{}{Tengerpart}
+{1004}{}{Ismeretlen}  # Unknown/visited city
+

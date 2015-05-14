@@ -1,0 +1,42 @@
+
+#
+#	Mountain area random encounter text
+#{100}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
+{101}{}{Sérülés nélkül átvészelted a dolgot.}
+{102}{}{Az omladék magával hozta egy régóta halott utazó holttestét.}
+{103}{}{A lábad vészesen megsérült az omlás következtében.}
+{104}{}{Néhány kõszilánk összevagdosta az arcod és a kezed, de összességében olcsón megúsztad a bajt.}
+{105}{}{Radskorpiók!}
+{106}{}{Egy elképesztõen rejtõzködõ radskorpió megpróbál meglepni.}
+{107}{}{A semmibõl hirtelen rádtámad egy radskorpió.}
+{108}{}{Véletlenül belebotlottál egy Vakondpatkány családba.}
+{109}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
+{110}{}{Sérülés nélkül átvészelted a dolgot.}
+{111}{}{Sérülés nélkül átvészelted a dolgot, sõt az omlás nyomán fény derül egy aranylelõhelyre.}
+{112}{}{A lábad vészesen megsérült az omlás következtében.}
+{113}{}{Néhány kõszilánk összevagdosta az arcod és a kezed, de csekély sérüléssel átvészelted a bajt.}
+#
+{114}{}{Meredek sziklák közt, hepe-hupás talajon jársz.}
+{115}{}{Szerencse, hogy a mászási képességed megoldja a problémát.}
+{116}{}{Találsz egy barlangot, benne apró forrással. Hosszú idõ óta elõször sikerül egy jóízût aludnod.}
+#
+{117}{}{Lezuhansz egy sziklaszegélyrõl, és éles köveken érsz földet.}
+{118}{}{A sziklákról köves talajra esel.}
+{119}{}{Egy jókora csapat radskorpióba ütközöl.}
+{120}{}{Szép nagy csapat turkáló patkánnyal futsz össze.}
+{121}{}{Egy magányos utazót látsz a távolban.}
+{122}{}{Az elõtted elterülõ talaj törmelék és holttestek borítják. Úgy tûnik, ez valamiféle régi csatamezõ lehet.}
+{123}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
+{124}{}{Sérülés nélkül átvészelted a dolgot.}
+{125}{}{Sérülés nélkül átvészelted a dolgot, sõt az omlás nyomán fény derül egy aranylelõhelyre.}
+{126}{}{A lábad vészesen megsérült az omlás következtében.}
+{127}{}{Some rock shards slice your face and hands, but you escape with minimal damage.}
+{128}{}{Egy magányos radskorpiót látsz, amint épp erre bóklászik..}
+{129}{}{Jól megtermett vakondpatkányok zajonganak elõtted.}
+{130}{}{Szép nagy csapat turkáló patkánnyal futsz össze.}
+{131}{}{Majdnem lezuhantál az alattad lévõ göröngyös talajra. Igazán elkelne egy kis túlélési képzettség.}
+{132}{}{Lezuhantál az alant lévõ göröngyös talajra, és kificamítottad a bokád. Igen fájdalmas dolog ez.}
+{133}{}{Lezuhantál az alant lévõ göröngyös talajra, és szép kis zúzódásaid lettek.}
+{134}{}{Egy nagy csapat patkány épp feléd rohan.}
+{135}{}{Egy régóta halott utazó csontjaira leltél.}
+{136}{}{Ellenséges radskorpió-falkába botlottál.}

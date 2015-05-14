@@ -1,0 +1,1033 @@
+{500}{}{Miután megsemmisítetted a Mestert, és a laboratóriumát, ahol Szupermutánsok seregeit gyártotta, hazatérsz. Otthon azonban kellemetlen meglepetés vár, mert túlzott destruktivitásért számûznek a Menedékedbõl. Köszönjük, hogy játszottál a Fallout-tal. }# 
+#
+#                      #
+# TELL ME ABOUT STUFF  #
+#      "my name"       #
+#      (970-979)       #
+#                      #
+#                      #
+{970}{}{Ez az én nevem.}
+{971}{}{Épp hozzám beszélsz.}
+{972}{}{Miért kérdezel butaságokat? Én vagyok az.}#                      #
+#                      #
+# TELL ME ABOUT STUFF  #
+#     "don't know"     #
+#      (970-979)       #
+#                      #
+#                      #
+{980}{}{Nem tudok errõl semmit.}
+{981}{}{Sajnálom, nincs ötletem.}
+{982}{}{Sosem hallottam róla.}# DESERT1.MAP (1000)
+# DESERT2.MAP (1600)
+# DESERT3.MAP (2200)#
+# HALLDED.MAP
+# The Necropolis Hall of the Dead Tell-Me-Abouts
+#
+{2800}{}{Mester}
+{2801}{}{Vizcsip}
+{2802}{}{Nekropolisz}
+{2803}{}{Set}
+{2804}{}{Viznyero}
+{2805}{}{Csarnok}
+{2900}{}{Õ nem valami nagy darab, fontos ember?}
+{2901}{}{Nem tudom, de a víznyerõben lehet, hogy van olyasmi.}
+{2902}{}{Itt állsz éppen. Legalábbis, ami maradt belõle. Ez a hely haldoklik. Lassan, de biztosan.}
+{2903}{}{Jaj, nagyon kedvelem õt. A Csarnokban megtalálod.}
+{2904}{}{Észak felé megtalálod. Vigyázz az õrséggel, elég komolyan veszik a munkájukat!}
+{2905}{}{A Holtak Csarnoka. Set ott intézi az ügyeit. Nekropolisz közepén található.}
+#
+# HOTEL.MAP
+# The Necropolis Hotel Tell-Me-Abouts
+#
+{3400}{}{Mester}
+{3401}{}{Vizcsip}
+{3402}{}{Nekropolisz}
+{3403}{}{Set}
+{3404}{}{Viznyero}
+{3405}{}{Csarnok}
+{3500}{}{Õ nem valami nagy darab, fontos ember?}
+{3501}{}{Nem tudom, de a víznyerõben lehet, hogy van olyasmi.}
+{3502}{}{Itt állsz éppen. Legalábbis, ami maradt belõle. Ez a hely haldoklik. Lassan, de biztosan.}
+{3503}{}{Jaj, nagyon kedvelem õt. A Csarnokban megtalálod.}
+{3504}{}{Észak felé megtalálod. Vigyázz az õrséggel, elég komolyan veszik a munkájukat!}
+{3505}{}{A Holtak Csarnoka. Set ott intézi az ügyeit. Nekropolisz közepén található.}
+#
+# WATRSHD.MAP
+# The Necropolis Watershed Tell-Me-Abouts
+#
+{4000}{}{Mester}
+{4001}{}{Vizcsip}
+{4002}{}{Nekropolisz}
+{4003}{}{Set}
+{4004}{}{Viznyero}
+{4005}{}{Csarnok}
+{4100}{}{Õ nem valami nagy darab, fontos ember?}
+{4101}{}{Nem tudom, de a víznyerõben lehet, hogy van olyasmi.}
+{4102}{}{Itt állsz éppen. Legalábbis, ami maradt belõle. Ez a hely haldoklik. Lassan, de biztosan.}
+{4103}{}{Jaj, nagyon kedvelem õt. A Csarnokban megtalálod.}
+{4104}{}{Vigyázz az õrséggel, elég komolyan veszik a munkájukat!}
+{4105}{}{A Holtak Csarnoka. Set ott intézi az ügyeit. Nekropolisz közepén található.}
+#
+# VAULT13.MAP
+# Vault 13 Tell-Me-Abouts
+#
+{4600}{}{Menedek}
+{4601}{}{Viz}
+{4602}{}{Felvigyazo}
+{4603}{}{Csip}
+{4604}{}{Vizcsip}
+{4605}{}{13-as Menedek}
+{4606}{}{13as Menedek}
+{4607}{}{Orvos}
+{4608}{}{Gyogykezeles}
+{4609}{}{Konyvtar}
+{4700}{}{Itt élünk, azt hiszem, ez elég érthetõ.}
+{4701}{}{Az a csip vezérli a földalatti vízkészlet tisztítását. Elengedhetetlen alkatrész, és nem lehet megjavítani.}
+{4702}{}{Jó ember, akinek igere igen nehéz munka hárul.}
+{4703}{}{Az a csip vezérli a földalatti vízkészlet tisztítását. Elengedhetetlen alkatrész, és nem lehet megjavítani.}
+{4704}{}{Az a csip vezérli a földalatti vízkészlet tisztítását. Elengedhetetlen alkatrész, és nem lehet megjavítani.}
+{4705}{}{Itt élünk, azt hiszem, ez elég érthetõ.}
+{4706}{}{Itt élünk, azt hiszem, ez elég érthetõ.}
+{4607}{}{Az orvos az elsõ szinten található, a gyógyászati laborban. Keresd fel, ha megsérültél!}
+{4608}{}{Az orvos az elsõ szinten található, a gyógyászati laborban. Keresd fel, ha megsérültél!}
+{4609}{}{A könyvtár a harmadik emelet nyugati szárnyában van. A kutatási számítógépeket ott helyezték el.}
+
+
+# VAULTENT.MAP (5200)
+# VAULTBUR.MAP (5800)
+# VAULTNEC.MAP (6400)#
+# JUNKENT.MAP
+# Junktown Entrance Tell-Me-Abouts
+#
+{7000}{}{Killian}
+{7001}{}{Gizmo}
+{7002}{}{Roncsvaros}
+{7003}{}{Shady Sands}
+{7004}{}{Hub}
+{7005}{}{Vizcsip}
+{7006}{}{Kaszino}
+{7007}{}{Bolt}
+{7008}{}{Halalkarom}
+{7100}{}{Killian a polgármester, van neki egy boltja is.}
+{7101}{}{Gizmóé a kaszinó. Nekem jó fazonnak tûnik.}
+{7102}{}{Ez itt Roncsváros.}
+{7103}{}{Ömm, elég apró település, még sosem voltam ott.}
+{7104}{}{Az egy nagyobb város észak felé.}
+{7105}{}{Hogy? Bocs, de ez nem mond semmit.}
+{7106}{}{Az egy nagy épület a város észak-nyugati felében.}
+{7107}{}{Killian boltja? A város közepén megtalálod.}
+{7108}{}{Hát, nem tudom, de elég félelmetes szó.}
+#
+# JUNKCSNO.MAP
+# Junktown Casino Tell-Me-Abouts
+#
+{7600}{}{Killian}
+{7601}{}{Gizmo}
+{7602}{}{Roncsvaros}
+{7603}{}{Shady Sands}
+{7604}{}{Hub}
+{7605}{}{Vizcsip}
+{7606}{}{Kaszino}
+{7607}{}{Bolt}
+{7608}{}{Halalkarom}
+{7700}{}{Killian a polgármester, akkor vette át a munkát, amikor meghalt az apja.}
+{7701}{}{Gizmo Roncsváros nagyembere. Övé a kaszinó és a bokszaréna. Sok pénze van, és rengeteg dolgot vásárol a Hubból.}
+{7702}{}{Ez itt Roncsváros.}
+{7703}{}{Az aztán egy igazán kicsi település északon. Az ottani emberek többnyire gazdálkodók. Van rá eset, hogy kereskedünk velük, de leginkább azt szeretik, ha békén hagyják õket.}
+{7704}{}{A Hub a kereskedelem központja. Csaknem az összes kereskedõ onnan származik. Társaságokba tömörültek, és így próbálnak megélni. Ha akarsz, bármelyikkel visszamehetsz a Hubba.}
+{7705}{}{Errõl nem tudok semmit.}
+{7706}{}{Gizmóé a hely. Vigyázz a játékautomatákkal, sok pénzt veszthetsz, ha azokkal játszol!}
+{7707}{}{Darkwater boltja? A város közepén megtalálod. Csereberélhetsz is, és fizethetsz készpénzzel nála.}
+{7708}{}{Hallottam, hogy az emberek beszélnek róluk, de sosem láttam olyat. Azt mondják, hogy a sivatagot járják, és többnyire éjszaka támadnak.}#
+# JUNKKILL.MAP
+# Junktown Killian's Tell-Me-Abouts
+#
+{8200}{}{Killian}
+{8201}{}{Gizmo}
+{8202}{}{Roncsvaros}
+{8203}{}{Shady Sands}
+{8204}{}{Hub}
+{8205}{}{Vizcsip}
+{8206}{}{Kaszino}
+{8207}{}{Bolt}
+{8208}{}{Halalkarom}
+{8300}{}{Killian a polgármester, akkor vette át a munkát, amikor meghalt az apja.}
+{8301}{}{Gizmo Roncsváros nagyembere. Övé a kaszinó és a bokszaréna. Sok pénze van, és rengeteg dolgot vásárol a Hubból.}
+{8302}{}{Ez itt Roncsváros.}
+{8303}{}{Az aztán egy igazán kicsi település északon. Az ottani emberek többnyire gazdálkodók. Van rá eset, hogy kereskedünk velük, de leginkább azt szeretik, ha békén hagyják õket.}
+{8304}{}{A Hub a kereskedelem központja. Csaknem az összes kereskedõ onnan származik. Társaságokba tömörültek, és így próbálnak megélni. Ha akarsz, bármelyikkel visszamehetsz a Hubba.}
+{8305}{}{Errõl nem tudok semmit.}
+{8306}{}{Gizmóé a hely. Vigyázz a játékautomatákkal, sok pénzt veszthetsz, ha azokkal játszol!}
+{8307}{}{Darkwater boltja? A város közepén megtalálod. Csereberélhetsz is, és fizethetsz készpénzzel nála.}
+{8308}{}{Hallottam, hogy az emberek beszélnek róluk, de sosem láttam olyat. Azt mondják, hogy a sivatagot járják, és többnyire éjszaka támadnak.}
+# BROHDENT.MAP  (8800)
+{8800}{}{Mester}
+{8801}{}{Haboru}
+{8802}{}{Exodus}
+{8803}{}{Furcsa hadsereg}
+{8804}{}{Testveriseg}
+{8805}{}{Kereskedo}
+{8806}{}{Eltunt karavan}
+{8807}{}{Hub}
+{8808}{}{A Katedralis Gyermekei}
+{8809}{}{Ujonc}
+{8810}{}{Kronikas}
+{8811}{}{Lovag}
+{8812}{}{Paladin}
+{8813}{}{Vizcsip}
+{8900}{}{Fogalmam sincs, mirõl beszélsz.}
+{8901}{}{Az emberi történelem egyik legalávalóbb pontja. Neki köszönhetjük jelenlegi világunkat. Mi átmentjük a tudást a Háborúból, hogy megakadályozzunk egy újabb holokausztot.}
+{8902}{}{Súlyos, fájdalmas döntés volt. Sok nagyszerû ember veszítettünk el, akik inkább a saját fejük után mentek, mintsemhogy a fõerõkkel tartsanak egy biztonságot jelentõ élõhely reményében.}
+{8903}{}{Nem tudok túl sokat róla. A jelentések szerint valahol észak felé gyülekeznek.}
+{8904}{}{Itt állunk épp.}
+{8905}{}{A Vízkereskedõk egy tipikus tolvaj banda. A többiekrõl nem tudok nyilatkozni.}
+{8906}{}{Errõl nem tudok semmit.}
+{8907}{}{Aljas kereskedõk mocskos gyûjtõhelye. Ennek ellenére, egy-két civil kereskedõ céget ideengedünk, hogy csereberéjünk velük.}
+{8908}{}{Az egy szekta, nem egyéb.}
+{8909}{}{Õk a Testvériség jövõje.}
+{8910}{}{Õk a tudás õrizõi.}
+{8911}{}{Õk készítik a Testvériség fegyvereit.}
+{8912}{}{Õk védelmezik a Testvériséget.}
+{8913}{}{Fogalmam sincs, mirõl beszélsz.}
+
+# BROHD12.MAP   (9400)
+
+{9400}{}{Mester}
+{9401}{}{Haboru}
+{9402}{}{Exodus}
+{9403}{}{Furcsa hadsereg}
+{9404}{}{Testveriseg}
+{9405}{}{Kereskedo}
+{9406}{}{Eltunt karavan}
+{9407}{}{Hub}
+{9408}{}{A Katedralis Gyermekei}
+{9409}{}{Ujonc}
+{9410}{}{Kronikas}
+{9411}{}{Lovag}
+{9412}{}{Paladin}
+{9413}{}{Vizcsip}
+{9500}{}{Fogalmam sincs, mirõl beszélsz.}
+{9501}{}{Az emberi történelem egyik legalávalóbb pontja. Neki köszönhetjük jelenlegi világunkat. Mi átmentjük a tudást a Háborúból, hogy megakadályozzunk egy újabb holokausztot.}
+{9502}{}{Súlyos, fájdalmas döntés volt. Sok nagyszerû ember veszítettünk el, akik inkább a saját fejük után mentek, mintsemhogy a fõerõkkel tartsanak egy biztonságot jelentõ élõhely reményében.}
+{9503}{}{Nem tudok túl sokat róla. A jelentések szerint valahol észak felé gyülekeznek.}
+{9504}{}{Itt állunk épp.}
+{9505}{}{A Vízkereskedõk egy tipikus tolvaj banda. A többiekrõl nem tudok nyilatkozni.}
+{9506}{}{Errõl nem tudok semmit.}
+{9507}{}{Aljas kereskedõk mocskos gyûjtõhelye. Ennek ellenére, egy-két civil kereskedõ céget ideengedünk, hogy csereberéjünk velük.}
+{9508}{}{Az egy szekta, nem egyéb.}
+{9509}{}{Õk a Testvériség jövõje.}
+{9510}{}{Õk a tudás õrizõi.}
+{9511}{}{Õk készítik a Testvériség fegyvereit.}
+{9512}{}{Õk védelmezik a Testvériséget.}
+{9513}{}{Fogalmam sincs, mirõl beszélsz.}
+
+# BROHD34.MAP  (10000)
+
+{10000}{}{Mester}
+{10001}{}{Haboru}
+{10002}{}{Exodus}
+{10003}{}{Furcsa hadsereg}
+{10004}{}{Testveriseg}
+{10005}{}{Kereskedo}
+{10006}{}{Eltunt karavan}
+{10007}{}{Hub}
+{10008}{}{A Katedralis Gyermekei}
+{10009}{}{Ujonc}
+{10010}{}{Kronikas}
+{10011}{}{Lovag}
+{10012}{}{Paladin}
+{10013}{}{Vizcsip}
+{10000}{}{Fogalmam sincs, mirõl beszélsz.}
+{10101}{}{Az emberi történelem egyik legalávalóbb pontja. Neki köszönhetjük jelenlegi világunkat. Mi átmentjük a tudást a Háborúból, hogy megakadályozzunk egy újabb holokausztot.}
+{10102}{}{Súlyos, fájdalmas döntés volt. Sok nagyszerû ember veszítettünk el, akik inkább a saját fejük után mentek, mintsemhogy a fõerõkkel tartsanak egy biztonságot jelentõ élõhely reményében.}
+{10103}{}{Nem tudok túl sokat róla. A jelentések szerint valahol észak felé gyülekeznek.}
+{10104}{}{Itt állunk épp.}
+{10105}{}{A Vízkereskedõk egy tipikus tolvaj banda. A többiekrõl nem tudok nyilatkozni.}
+{10106}{}{Errõl nem tudok semmit.}
+{10107}{}{Aljas kereskedõk mocskos gyûjtõhelye. Ennek ellenére, egy-két civil kereskedõ céget ideengedünk, hogy csereberéjünk velük.}
+{10108}{}{Az egy szekta, nem egyéb.}
+{10109}{}{Õk a Testvériség jövõje.}
+{10110}{}{Õk a tudás õrizõi.}
+{10111}{}{Õk készítik a Testvériség fegyvereit.}
+{10112}{}{Õk védelmezik a Testvériséget.}
+{10113}{}{Fogalmam sincs, mirõl beszélsz.}
+
+# CAVES.MAP    (10600)
+# CHILDRN1.MAP (11200)
+
+{11200}{}{Szentseges lang}
+{11201}{}{Egyseg}
+{11202}{}{A Katedralis Gyermekei}
+{11203}{}{Morpheus}
+{11204}{}{Mutans}
+{11205}{}{Mester}
+{11206}{}{Az Apokalipszis Tanitvanyai}
+{11207}{}{Katonai Bazis}
+{11208}{}{Tartaly}
+{11209}{}{Vizcsip}
+
+{11300}{}{A Szentséges Láng az, aki egy szép új világba vezet bennünket, melyben ismeretlen fogalom a gyûlölet és a háború.}
+{11301}{}{Mindannyian az Egység részesei vagyunk. Szeretetet és békét hirdetünk a követõinknek... legyen az ember vagy mutáns.}
+{11302}{}{Azok mi vagyunk.}
+{11303}{}{Morpheus a Gyermekek Fõpapja. Általában, amikor épp nem nekünk prédikál, a szobájában tartózkodik.}
+{11304}{}{Õk azok, akik mutációt szenvedtek a sugárszennyezett esõtõl. Viszont ettõl még ugyanolyan jó emberek.}
+{11305}{}{Mindannyiunknak megvannak a maguk mesterei, nem igaz?}
+{11306}{}{Õk azok, akik le akarják rombolni a Mester által megálmodott békét.}
+{11307}{}{Sajnálom, errõl sosem hallottam.}
+{11308}{}{Elnézést, de nem tudom, mirõl beszélsz.}
+{11309}{}{Fogalmam sincs, mirõl beszélsz.}
+
+# CHILDRN2.MAP (11800)
+
+{11800}{}{Szentseges lang}
+{11801}{}{Egyseg}
+{11802}{}{A Katedralis Gyermekei}
+{11803}{}{Morpheus}
+{11804}{}{Mutans}
+{11805}{}{Mester}
+{11806}{}{Az Apokalipszis Tanitvanyai}
+{11807}{}{Katonai Bazis}
+{11808}{}{Tartaly}
+{11809}{}{Vizcsip}
+
+{11900}{}{A Szentséges Láng az, aki egy szép új világba vezet bennünket, melyben ismeretlen fogalom a gyûlölet és a háború.}
+{11901}{}{Mindannyian az Egység részesei vagyunk. Szeretetet és békét hirdetünk a követõinknek... legyen az ember vagy mutáns.}
+{11902}{}{Azok mi vagyunk.}
+{11903}{}{Morpheus a Gyermekek Fõpapja. Általában, amikor épp nem nekünk prédikál, a szobájában tartózkodik.}
+{11904}{}{Õk azok, akik mutációt szenvedtek a sugárszennyezett esõtõl. Viszont ettõl még ugyanolyan jó emberek.}
+{11905}{}{Mindannyiunknak megvannak a maguk mesterei, nem igaz?}
+{11906}{}{Õk azok, akik le akarják rombolni a Mester által megálmodott békét.}
+{11907}{}{Sajnálom, errõl sosem hallottam.}
+{11908}{}{Elnézést, de nem tudom, mirõl beszélsz.}
+{11909}{}{Fogalmam sincs, mirõl beszélsz.}
+
+# CITY1.MAP    (12400)
+# COAST1.MAP   (13000)
+# COAST2.MAP   (13600)
+# COLATRUK.MAP (14200)
+# FSAUSER.MAP  (14800)#
+# RAIDERS.MAP
+# Raiders Tell-Me-Abouts
+#
+{15400}{}{Khan}
+{15401}{}{Garl}
+{15402}{}{Roncsvaros}
+{15403}{}{Shady Sands}
+{15404}{}{Hub}
+{15405}{}{Vizcsip}
+{15406}{}{Tandi}
+{15407}{}{Alya}
+{15408}{}{Diana}
+{15409}{}{Gwen}
+{15410}{}{Petrox}
+{15411}{}{Tolya}
+{15412}{}{Pia}
+{15413}{}{Drog}
+{15500}{}{Azok mi vagyunk, te nagyokos.}
+#Nem szo szerint, de ez igy jobb - bass
+
+{15501}{}{Õ a Khan-ok vezetõje. A pusztaság legfélelmetesebb embere.}
+{15502}{}{Dél-nyugat felé megtalálod õket. Néha elmegyünk hozzájuk egy kis pihizésre, ha jól lefárasztott minket a napi szabadrablás.}
+{15503}{}{Fel nem foghatom, hogy miért nem zúzzuk szét õket egyszer s mindenkorra.}
+{15504}{}{Dél felé vannak, velük kereskedünk. Leginkább vizet és lõszert, de néha jobb fegyvereik is vannak.}
+{15505}{}{Miért kéne ez érdekeljen engem?}
+{15506}{}{Nem ismerek senkit ezen a néven.}
+{15507}{}{Õ egyfajta tanácsadó, a rajtaütések terveit szövögeti.}
+{15508}{}{Õ a helyi ezermester, megjavítja a cuccainkat.}
+{15509}{}{Õ a parancsnok helyettese.}
+{15510}{}{Õ felel az utánpótlásért.}
+{15511}{}{Õ a szakács}
+{15512}{}{Van nálad egy kevés?}
+{15513}{}{Van nálad egy kevés?}
+#
+# SHADYE.MAP
+# Shady Sands East Tell-Me-Abouts
+#
+{16000}{}{Khan}
+{16001}{}{Garl}
+{16002}{}{Roncsvaros}
+{16003}{}{Shady Sands}
+{16004}{}{Hub}
+{16005}{}{Vizcsip}
+{16006}{}{Tandi}
+{16007}{}{Aradesh}
+{16008}{}{Seth}
+{16009}{}{Razlo}
+{16100}{}{Törvénytelen egy népség, akik valami régikeletû csoportnak vallják magukat.}
+{16101}{}{Õ a Khan-ok góréja. A legveszélyesebb emberek egyike, aki valaha is szemet vetett Shady Sands-re. Kemény kézzel vezeti a fosztogató klánokat.}
+{16102}{}{Kábé 4-6 napi járóföldre van dél-nyugatra. Jól lehet velük kereskedni, ha úgy adódik, de elég gyakran megpróbálnak átverni minket.}
+{16103}{}{Épp itt állsz.}
+{16104}{}{Sokkal délebbre van, mint Roncsváros. A Hub a legnagyobb város, amit ismerek. Legalább ezer ember él ott.}
+{16105}{}{Bocs, de nem tudok segíteni ebben.}
+{16106}{}{Õ Aradesh lánya. Egy szép napon õ vezet majd minket, de elõbb meg kell tanulnia, hogyan kell féken tartania magát.}
+{16107}{}{Aradesh a közösségünk vezetõje, és igazi hõs. A közösségi házban mindig megtalálod õt.}
+{16108}{}{Aradesh-sel együtt azon dolgoznak, hogy biztonságban éljünk.}
+{16109}{}{Razlo az orvosunk. Ha megsérültél nyugodt szívvel keresd csak fel!}
+#
+# SHADYW.MAP
+# Shady Sands West Tell-Me-Abouts
+#
+{16600}{}{Khan}
+{16601}{}{Garl}
+{16602}{}{Roncsvaros}
+{16603}{}{Shady Sands}
+{16604}{}{Hub}
+{16605}{}{Vizcsip}
+{16606}{}{Tandi}
+{16607}{}{Aradesh}
+{16608}{}{Seth}
+{16609}{}{Razlo}
+{16700}{}{Törvénytelen egy népség, akik valami régikeletû csoportnak vallják magukat.}
+{16701}{}{Õ a Khan-ok góréja. A legveszélyesebb emberek egyike, aki valaha is szemet vetett Shady Sands-re. Kemény kézzel vezeti a fosztogató klánokat.}
+{16702}{}{Kábé 4-6 napi járóföldre van dél-nyugatra. Jól lehet velük kereskedni, ha úgy adódik, de elég gyakran megpróbálnak átverni minket.}
+{16703}{}{Épp itt állsz.}
+{16704}{}{Sokkal délebbre van, mint Roncsváros. A Hub a legnagyobb város, amit ismerek. Legalább ezer ember él ott.}
+{16705}{}{Bocs, de nem tudok segíteni ebben.}
+{16706}{}{Õ Aradesh lánya. Egy szép napon õ vezet majd minket, de elõbb meg kell tanulnia, hogyan kell féken tartania magát.}
+{16707}{}{Aradesh a közösségünk vezetõje, és egy igazi hõs. Mindig megtalálod õt a közösségi házban.}
+{16708}{}{Aradesh-sel együtt azon dolgoznak, hogy biztonságban éljünk.}
+{16709}{}{Razlo az orvosunk. Ha megsérültél nyugodt szívvel keresd csak fel!}
+
+# GLOWENT.MAP  (17200)
+#
+# LAADYTUM.MAP
+#
+##  ======================================================================
+#     ADYTUM
+# Info Level 1 [People who know nothing]
+{17800}{}{Adytum}
+{17801}{}{Tanitvany}
+{17802}{}{Katedralis}
+{17803}{}{Hasfelmetszo}
+{17804}{}{Penges}
+{17805}{}{Fegyverkeszito}
+{17806}{}{Hub}
+{17807}{}{Roncsvaros}
+{17808}{}{Vizcsip}
+{17809}{}{Bolt}
+{17810}{}{Zimmerman}
+{17811}{}{Nekropolisz}
+{17812}{}{Izzas}
+{17813}{}{Rendfenntarto}
+{17814}{}{Gubizo}
+{17815}{}{Csonttelep}
+{17900}{}{Helyben.}
+{17901}{}{Innen északra élnek.}
+{17902}{}{Dél felé megtalálod.}
+{17903}{}{A nyugati negyedben van.}
+{17904}{}{A keleti részben tanyáznak.}
+{17905}{}{A Tanítványokon túl megtalálod õket, észak felé.}
+{17906}{}{Velük kereskedünk.}
+{17907}{}{Az nem egy észak felé fekvõ város?}
+{17908}{}{Egy micsoda?}
+{17909}{}{Tine boltja egy földalatti bunker a kapunál.}
+{17910}{}{Õ a polgármester.}
+{17911}{}{Úgy hallottam, jócskán kelet felé van.}
+{17912}{}{Az csak mítosz.}
+{17913}{}{Õk a mi védelmezõink.}
+{17914}{}{Ki szoktak innen járni, hogy szerezzenek maguknak ezt-azt.}
+{17915}{}{Ez itt a Csonttelep.}
+# Info level 2 [People who know something]
+{18000}{}{Adytum}
+{18001}{}{Tanitvany}
+{18002}{}{Katedralis}
+{18003}{}{Hasfelmetszo}
+{18004}{}{Penges}
+{18005}{}{Fegyverkeszito}
+{18006}{}{Hub}
+{18007}{}{Roncsvaros}
+{18008}{}{Vizcsip}
+{18009}{}{Bolt}
+{18010}{}{Zimmerman}
+{18011}{}{Nekropolisz}
+{18012}{}{Izzas}
+{18013}{}{Rendfenntarto}
+{18014}{}{Gubizo}
+{18015}{}{Csonttelep}
+{18100}{}{Adytumban vagy, kívülálló. Ha még nem tûnt volna fel.}
+{18101}{}{A Tanítványok egy északra lévõ nagy könyvtárban élnek. Toleranciát és békét hirdetnek.}
+{18102}{}{A Katedrálist dél felé találod, az öbölnél. A Gyermekek békés vallást követnek.}
+{18103}{}{A nyugati negyedben vannak. Nagyon gonoszak, és rengeteg csapdát állítottak.}
+{18104}{}{A keleti negyedben élnek. Valami nagyon tápos kést szoktak használni.}
+{18105}{}{A Tanítványokon túl élnek északon. Fegyvereket árulnak a bandáknak.}
+{18106}{}{Velük kereskedünk. A legnagyobb város, amirõl tudok.}
+{18107}{}{Az egy apró városka észak-keleti irányban.}
+{18108}{}{Sosem hallottam róla.}
+{18109}{}{Tine egy földalatti bunker a kapunál. Nagyon sokféle áruja van.}
+{18110}{}{Õ a polgármester, és nagyon jó munkát végez.}
+{18111}{}{A Holtak Városa, jó sok napi járóföldre kelet felé.}
+{18112}{}{Úgy hallottam, nagyon de nagyon messze van déli irányban.}
+{18113}{}{Õk védelmeznek minket a bandáktól, és tartják fenn a békét.}
+{18114}{}{Ki szoktak innen járni, hogy szerezzenek maguknak különféle dolgokat.}
+{18115}{}{A Csonttelepen vagyunk épp.}
+# Info level 3 [People who know more than something but less than everything]
+{18200}{}{Adytum}
+{18201}{}{Tanitvany}
+{18202}{}{Katedralis}
+{18203}{}{Hasfelmetszo}
+{18204}{}{Penges}
+{18205}{}{Fegyverkeszito}
+{18206}{}{Hub}
+{18207}{}{Roncsvaros}
+{18208}{}{Vizcsip}
+{18209}{}{Bolt}
+{18210}{}{Zimmerman}
+{18211}{}{Nekropolisz}
+{18212}{}{Izzas}
+{18213}{}{Rendfenntarto}
+{18214}{}{Gubizo}
+{18215}{}{Csonttelep}
+{18300}{}{Egy régi Menedék lakóinak leszármazottai vagyunk. A Menedék a város déli végében volt.}
+{18301}{}{A Tanítványok tanult és békés emberek. Egy északra lévõ régi könyvtárban laknak.}
+{18302}{}{A Gyermekek egy rejtélyes Sötét Istent imádnak. Ártalmatlannak tûnnek, de van valami fura a vallásukkal. A Katedrálisuk délre van innen.}
+{18303}{}{A Hasfelmetszõk egy igazi belterjes társaság. Van egy erõdítménynek is beillõ épületük, körülötte csapdákkal. A foglyaikat oda viszik megkínozni vagy megölni.}
+{18304}{}{A Pengések hírhedtek a vibro-késeik miatt. A Hasfelmetszõk esküdt ellenségei. A vezetõjük egy Razor nevû nõ.}
+{18305}{}{Régen õk is egy közönséges bandát alkottak, de berendezkedtek az északi városrész egyik raktárában, és fegyverkereskedelembõl élnek.}
+{18306}{}{A Hub a kereskedelem központja. Olyan társaságokba tömörültek, akik még gyártással is foglalkoznak. Keletre megtalálod õket.}
+#{18306 alternate If hydroponic farms aren't fixed:}{We sell bullets to the Hub.}
+{18307}{}{Roncsváros egy közepes méertû város keleti irányban, a Hubtól pedig északra.}
+{18308}{}{Bocs, errõl nem tudok mit mondani.}
+{18309}{}{Tine-nak van egy vegyesboltja a kapu közelében. Fegyvert és utazáshoz szükséges felszereléseket árul.}
+{18310}{}{Jon a mi polgármesterünk. Õ írja alá a kereskedelmi egyezményeket, õ határozza meg a követendõ politikát, és õ vállal felelõsséget a Rendfenntartók meg a Gubizók irányában.}
+{18311}{}{A Holtak városát kérded? Messzi keletre található, nagy valószínûséggel furcsa kannibálok gyûjtõhelye. A helyedben messzire elkerülném.}
+{18312}{}{Az egy hatalmas radioaktív terület messze délen. Legalábbis ezt hallottam.}
+{18313}{}{Õk Adytum rendõrsége. Megvédenek minket a bandáktól. Caleb a parancsnokuk.}
+{18314}{}{A Gubizóknak az a feladata, hogy átkutassák a Csonttelepet még használható dolgokért. A vezetõjük Sammael.}
+{18315}{}{Az Angyalok Csonttelepe Los Angeles õsi városának maradványa. Épp a Csonttelep közepén vagyunk.}
+#  ======================================================================
+#
+# LAFOLLWR.MAP  (18400)
+#
+#======================================================================
+#    FOLLOWERS OF THE APOCALYPSE
+# Info Level 1 [People who know nothing]
+{18400}{}{Adytum}
+{18401}{}{Tanitvany}
+{18402}{}{Katedralis}
+{18403}{}{Hasfelmetszo}
+{18404}{}{Penges}
+{18405}{}{Fegyverkeszito}
+{18406}{}{Hub}
+{18407}{}{Roncsvaros}
+{18408}{}{Vizcsip}
+{18409}{}{Nicole}
+{18410}{}{Csonttelep}
+{18500}{}{Az egy falu dél felé.}
+{18501}{}{Az Apokalipszis Tanítványai vagyunk.}
+{18502}{}{Az egy szekta déli irányban, túl Adytumon.}
+{18503}{}{Egy banda nyugati irányban.}
+{18504}{}{Egy banda keleti irányban.}
+{18505}{}{Egy banda északi irányban.}
+{18506}{}{A Hub egy nagy kereskedõváros észak-keleten.}
+{18507}{}{Roncsváros egy közepes méretû hely a Hubtól északra.}
+{18508}{}{Sajnálom, de nem tudok segíteni.}
+{18509}{}{Õ a vezetõnk.}
+{18510}{}{Ez itt a Csonttelep.}
+
+# Info level 2 [People who know something]
+{18600}{}{Adytum}
+{18601}{}{Tanitvany}
+{18602}{}{Katedralis}
+{18603}{}{Hasfelmetszo}
+{18604}{}{Penges}
+{18605}{}{Fegyverkeszito}
+{18606}{}{Hub}
+{18607}{}{Roncsvaros}
+{18608}{}{Vizcsip}
+{18609}{}{Nicole}
+{18610}{}{Csonttelep}
+{18700}{}{Az egy falu dél felé. Néha jönnek onnan látogatók.}
+{18701}{}{Az Apokalipszis Tanítványai vagyunk. Nevünket onnan kaptuk, hogy a háború vihara után jelentünk meg, és el akarjuk hozni a béke vigaszát a világba.}
+{18702}{}{Fura szekta Adytumtól délre, a Csonttelep határában. Nicole szerint készülnek valamire.}
+{18703}{}{Az egy ultraerõszakos banda nyugatra.}
+{18704}{}{Kelet felé élõ banda. Vibro-késeket használnak.}
+{18705}{}{Az a banda a Hubból érkezett, és fegyvereket árulnak. Északra találhatók.}
+{18706}{}{A Hub a kereskedelem és üzleti élet fellegvára. Kelet felé megtalálod.}
+{18707}{}{Roncsváros a Hubtól északra lévõ apró városka.}
+{18708}{}{Nem tudok ebben segíteni neked.}
+{18709}{}{Õ a vezetõnk. Van egy látomása, miszerint helyre akarja állítani a békét e szétforgácsolódott világban.}
+{18710}{}{Ez a hely az Angyalok Csonttelepe. Los Angeles õsi városának maradványai.}# Info level 3 [People who know more than something but less than everything]
+{18800}{}{Adytum}
+{18801}{}{Tanitvany}
+{18802}{}{Katedralis}
+{18803}{}{Hasfelmetszo}
+{18804}{}{Penges}
+{18805}{}{Fegyverkeszito}
+{18806}{}{Hub}
+{18807}{}{Roncsvaros}
+{18808}{}{Vizcsip}
+{18809}{}{Nicole}
+{18810}{}{Csonttelep}
+{18900}{}{Apró település déli irányban. Jó emberek azok, de egy kicsit paranoiások. Némelyikük szokott velünk dolgozni nagyritkán.}
+{18901}{}{Az Apokalipszis Tanítványai vagyunk. Az a küldetésünk, hogy békét, megértést hozzunk a világnak. Gondoskodni akarunk róla, hogy a fegyverek soha többé ne sérthessék fel a Földünket.}
+{18902}{}{A Katedrális egy hatalmas épület a Csontteleptõl délre. A Gyermekek egy sötét, gonosz istent imádnak. Meg kell õket állítani, mielõtt az erõszak útján szétterjesztik a vallásukat.}
+{18903}{}{Belterjes, sakálbanda. Bármit megtámadnak, ami az útjukba kerül, és semmi közük hozzá. Nyugatra tanyáznak, egy csapdákkal körülvett erõdítményben.}
+{18904}{}{Egy különlegesen veszélyes csapatról van szó, akik keletre élnek, és vibro-késekkel harcolnak. A vezetõjük, Razor, a Hubból érkezett, és õ kovácsolta õket egy ádáz családdá.}
+{18905}{}{Egy észak felé található raktárban éldegélnek, egy radioaktív trutyival telerakott árok védelmében. Fegyvereket árulnak a többi banda részére.}
+{18906}{}{A Hub egy hatalmas kereskedõváros jócskán keletre innen. Sokfelé küldenek karavánokat, beleértve Adytumot is.}
+{18907}{}{Az egy kisváros a Hubtól északra. Azt hallottam, jó kis hely az, ha a megfáradt utazó betévedne oda.}
+{18908}{}{Habár olvastam már a Menedékek technológiájáról, ez eléggé meghaladja a tudásomat.}
+{18909}{}{Nicole a mi vezetõnk. Éleslátása és magasröptû szellemisége békét hoz a háború sújtotta világba.}
+{18910}{}{Ez itt az Angyalok Csonttelepének szíve. Los Angeles régi városáról nevezték el, na meg a hullahegyek csontjairól, amik belepték a helyet a bombákat követõ idõkben.}
+======================================================================
+# MBENT.MAP     (19000)
+
+{19000}{}{Mester}
+{19001}{}{Hadnagy}
+{19002}{}{A Katedralis Gyermekei}
+{19003}{}{Az Apokalipszis Tanitvanyai}
+{19004}{}{Ejfajzat}
+{19005}{}{Szupermutans}
+{19006}{}{Medium}
+{19007}{}{Kiserlet}
+{19008}{}{Vizcsip}{19100}{}{Nem kötök ilyesmit az orrodra.}
+{19101}{}{Ez a tudás nem való az alantasabbak számára.}
+{19102}{}{Nem kell ilyesmivel törõdnöd!}
+{19103}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
+{19104}{}{Nem a te dolgod.}
+{19105}{}{Ne érdekeljen ez téged!}
+{19106}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
+{19107}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
+{19108}{}{Ne zargass játékokkal!}# MBSTRG12.MAP  (19600){19600}{}{Mester}
+{19601}{}{Hadnagy}
+{19602}{}{A Katedralis Gyermekei}
+{19603}{}{Az Apokalipszis Tanitvanyai}
+{19604}{}{Ejfajzat}
+{19605}{}{Szupermutans}
+{19606}{}{Medium}
+{19607}{}{Kiserlet}
+{19608}{}{Vizcsip}
+{19700}{}{Nem kötök ilyesmit az orrodra.}
+{19701}{}{Ez a tudás nem való az alantasabbak számára.}
+{19702}{}{Nem kell ilyesmivel törõdnöd!}
+{19703}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
+{19704}{}{Nem a te dolgod.}
+{19705}{}{Ne érdekeljen ez téged!}
+{19706}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
+{19707}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
+{19708}{}{Ne zargass játékokkal!}# MBVATS12.MAP  (20200){20200}{}{Mester}
+{20201}{}{Hadnagy}
+{20202}{}{A Katedralis Gyermekei}
+{20203}{}{Az Apokalipszis Tanitvanyai}
+{20204}{}{Ejfajzat}
+{20205}{}{Szupermutans}
+{20206}{}{Medium}
+{20207}{}{Kiserlet}
+{20208}{}{Vizcsip}
+{20300}{}{Nem kötök ilyesmit az orrodra.}
+{20301}{}{Ez a tudás nem való az alantasabbak számára.}
+{20302}{}{Nem kell ilyesmivel törõdnöd!}
+{20303}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
+{20304}{}{Nem a te dolgod.}
+{20305}{}{Ne érdekeljen ez téged!}
+{20306}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
+{20307}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
+{20308}{}{Ne zargass játékokkal!}
+# MSTRLR12.MAP  (20800)
+
+{20800}{}{Mester}
+{20801}{}{Hadnagy}
+{20802}{}{A Katedralis Gyermekei}
+{20803}{}{Az Apokalipszis Tanitvanyai}
+{20804}{}{Ejfajzat}
+{20805}{}{Szupermutans}
+{20806}{}{Medium}
+{20807}{}{Kiserlet}
+{20808}{}{Vizcsip}
+{20900}{}{Nem kötök ilyesmit az orrodra.}
+{20901}{}{Ez a tudás nem való az alantasabbak számára.}
+{20902}{}{Nem kell ilyesmivel törõdnöd!}
+{20903}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
+{20904}{}{Nem a te dolgod.}
+{20905}{}{Ne érdekeljen ez téged!}
+{20906}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
+{20907}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
+{20908}{}{Ne zargass játékokkal!}# MSTRLR34.MAP  (21400){21400}{}{Mester}
+{21401}{}{Hadnagy}
+{21402}{}{A Katedralis Gyermekei}
+{21403}{}{Az Apokalipszis Tanitvanyai}
+{21404}{}{Ejfajzat}
+{21405}{}{Szupermutans}
+{21406}{}{Medium}
+{21407}{}{Kiserlet}
+{21408}{}{Vizcsip}
+{21500}{}{Nem kötök ilyesmit az orrodra.}
+{21501}{}{Ez a tudás nem való az alantasabbak számára.}
+{21502}{}{Nem kell ilyesmivel törõdnöd!}
+{21503}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
+{21504}{}{Nem a te dolgod.}
+{21505}{}{Ne érdekeljen ez téged!}
+{21506}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
+{21507}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
+{21508}{}{Ne zargass játékokkal!}
+# V13ENT.MAP    (22000)# HUBENT.MAP    (22600)
+
+{22600}{}{Rendorseg}
+{22601}{}{Vizkereskedo}
+{22602}{}{Karmazsin Karavan}
+{22603}{}{Hosszutavu Kereskedo}
+{22604}{}{A Katedralis Gyermekei}
+{22605}{}{Nekropolisz}
+{22606}{}{Sugarzona}
+{22607}{}{Roncsvaros}
+{22608}{}{Az Acel Testverisege}
+{22609}{}{Shady Sands}
+{22610}{}{Csonttelep}
+{22611}{}{Viztorony}
+{22612}{}{Ovaros}
+{22613}{}{Belvaros}
+{22614}{}{Magaslat}
+{22615}{}{Halalkarom}
+{22616}{}{Vizcsip}
+{22700}{}{A rendõrséget Greene seriff vezeti, Õk tartják fenn a békét és a rendet a Hubban. Sokak szerint egyébként jelenlétük inkább hátráltató tényezõ, mint igazi segítség.}
+{22701}{}{Az õ kezükben van az összes víz joga a Hubban. Magukhoz kaparintották a víztornyokat, az embereknek pedig fizetniük kell nekik, ha vízhez akarnak jutni.}
+{22702}{}{Tébolyult kereskedõcsapat, akik rendszerint igen nagy kockázatokat vállalnak, hogy érvényesüljenek.}
+{22703}{}{Amolyan "megjárja" társaság, akik tûrhetõ árakat tudnak nyújtani anélkül, hogy különösebb veszélybe sodornák magukat.}
+{22704}{}{Valami Mestert követõ vallásos társaság az. Van egy kórházuk a város dél-keleti részén, a Vízkereskedõk közvetlen közelében.}
+{22705}{}{Hátborzongató hely az. Sokan azt állítják, hogy mutáns emberek lakják, akik normális emberek agyával táplálkoznak. Valahol a Hubtól keletre található.}
+{22706}{}{Azt tartja a szóbeszéd, hogy dél-keleti irányban van egy nukleáris bomba sújtotta hely.}
+{22707}{}{Az északra van tõlünk. Egész jelentõs kereskedelem folyik a városaink közt. A pletykák szerint Killian és Gizmo ki nem állhatják egymást.}
+{22708}{}{Az a hely észak-nyugatra van tõlünk. A lakói egyfajta techno-õrültek, akik a technológia elõtt borulnak térdre. Nagyon gázos népség.}
+{22709}{}{Az egy primitív város messze északon. Nem sokat tudni róluk, mivel nincs elég pénzük, hogy kereskedhessenek velünk.}
+{22710}{}{Az a patkány-lyuk forrong a bandaháborútól. Ha nem lenne az Adytum és a Fegyverkészítõk közti remek árucsere, kétlem, hogy bármelyik kereskedõ betenné oda a lábát.}
+{22711}{}{Ott tárolják a Hub vízkészletét. A Vízkereskedõk kisajátították maguknak.}
+{22712}{}{Az Óváros az észak-keleti negyedben található. Csak a sóherek meg a mutánsok járnak oda. Azt is hallottam, hogy valami tolvajbanda is ott tanyázik.}
+{22713}{}{Ott folyik a kereskedelem zöme. Ott van a Fegyverbolt, a Páncélkészítõ, a Baráti Kölcsön Társaság és persze a Máltai Sólyom szintén.}
+{22714}{}{A Magaslaton élnek a gazdag kereskedõk. A Vízkereskedõk vezetõjének, Daren Hightowernek hatalmas villája van ott.}
+{22715}{}{AAz csak egy mítosz, amivel rémisztgetni lehet a gyerekeket.}
+{22716}{}{Errõl nem tudok semmit.}
+
+# DETHCLAW.MAP  (23200)
+# HUBDWNTN.MAP  (23800)
+
+{23800}{}{Rendorseg}
+{23801}{}{Vizkereskedo}
+{23802}{}{Karmazsin Karavan}
+{23803}{}{Hosszutavu Kereskedo}
+{23804}{}{A Katedralis Gyermekei}
+{23805}{}{Nekropolisz}
+{23806}{}{Sugarzona}
+{23807}{}{Roncsvaros}
+{23808}{}{Az Acel Testverisege}
+{23809}{}{Shady Sands}
+{23810}{}{Csonttelep}
+{23811}{}{Viztorony}
+{23812}{}{Ovaros}
+{23813}{}{Belvaros}
+{23814}{}{Magaslat}
+{23815}{}{Halalkarom}
+{23816}{}{Vizcsip}
+{23900}{}{A rendõrséget Greene seriff vezeti, Õk tartják fenn a békét és a rendet a Hubban. Sokak szerint egyébként jelenlétük inkább hátráltató tényezõ, mint igazi segítség.}
+{23901}{}{Az õ kezükben van az összes víz joga a Hubban. Magukhoz kaparintották a víztornyokat, az embereknek pedig fizetniük kell nekik, ha vízhez akarnak jutni.}
+{23902}{}{Tébolyult kereskedõcsapat, akik rendszerint igen nagy kockázatokat vállalnak, hogy érvényesüljenek.}
+{23903}{}{Amolyan "megjárja" társaság, akik tûrhetõ árakat tudnak nyújtani anélkül, hogy különösebb veszélybe sodornák magukat.}
+{23904}{}{Valami Mestert követõ vallásos társaság az. Van egy kórházuk a város dél-keleti részén, a Vízkereskedõk közvetlen közelében.}
+{23905}{}{Hátborzongató hely az. Sokan azt állítják, hogy mutáns emberek lakják, akik normális emberek agyával táplálkoznak. Valahol a Hubtól keletre található.}
+{23906}{}{Azt tartja a szóbeszéd, hogy dél-keleti irányban van egy nukleáris bomba sújtotta hely.}
+{23907}{}{Az északra van tõlünk. Egész jelentõs kereskedelem folyik a városaink közt. A pletykák szerint Killian és Gizmo ki nem állhatják egymást.}
+{23908}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{23909}{}{Az egy primitív város messze északon. Nem sokat tudni róluk, mivel nincs elég pénzük, hogy kereskedhessenek velünk.}
+{23910}{}{Az a patkány-lyuk forrong a bandaháborútól. Ha nem lenne az Adytum és a Fegyverkészítõk közti remek árucsere, kétlem, hogy bármelyik kereskedõ betenné oda a lábát.}
+{23911}{}{Ott tárolják a Hub vízkészletét. A Vízkereskedõk kisajátították maguknak.}
+{23912}{}{Az Óváros az észak-keleti negyedben található. Csak a sóherek meg a mutánsok járnak oda. Azt is hallottam, hogy valami tolvajbanda is ott tanyázik.}
+{23913}{}{Ott folyik a kereskedelem zöme. Ott van a Fegyverbolt, a Páncélkészítõ, a Baráti Kölcsön Társaság és persze a Máltai Sólyom szintén.}
+{23914}{}{A Magaslaton élnek a gazdag kereskedõk. A Vízkereskedõk vezetõjének, Daren Hightowernek hatalmas villája van ott.}
+{23915}{}{AAz csak egy mítosz, amivel rémisztgetni lehet a gyerekeket.}
+{23916}{}{Errõl nem tudok semmit.}
+
+# HUBHEIGT.MAP  (24400)
+
+{24400}{}{Rendorseg}
+{24401}{}{Vizkereskedo}
+{24402}{}{Karmazsin Karavan}
+{24403}{}{Hosszutavu Kereskedo}
+{24404}{}{A Katedralis Gyermekei}
+{24405}{}{Nekropolisz}
+{24406}{}{Sugarzona}
+{24407}{}{Roncsvaros}
+{24408}{}{Az Acel Testverisege}
+{24409}{}{Shady Sands}
+{24410}{}{Csonttelep}
+{24411}{}{Viztorony}
+{24412}{}{Ovaros}
+{24413}{}{Belvaros}
+{24414}{}{Magaslat}
+{24415}{}{Halalkarom}
+{24416}{}{Vizcsip}
+{24500}{}{A rendõrséget Greene seriff vezeti, Õk tartják fenn a békét és a rendet a Hubban. Sokak szerint egyébként jelenlétük inkább hátráltató tényezõ, mint igazi segítség.}
+{24501}{}{Az õ kezükben van az összes víz joga a Hubban. Magukhoz kaparintották a víztornyokat, az embereknek pedig fizetniük kell nekik, ha vízhez akarnak jutni.}
+{24502}{}{Tébolyult kereskedõcsapat, akik rendszerint igen nagy kockázatokat vállalnak, hogy érvényesüljenek.}
+{24503}{}{Amolyan "megjárja" társaság, akik tûrhetõ árakat tudnak nyújtani anélkül, hogy különösebb veszélybe sodornák magukat.}
+{24504}{}{Valami Mestert követõ vallásos társaság az. Van egy kórházuk a város dél-keleti részén, a Vízkereskedõk közvetlen közelében.}
+{24505}{}{Hátborzongató hely az. Sokan azt állítják, hogy mutáns emberek lakják, akik normális emberek agyával táplálkoznak. Valahol a Hubtól keletre található.}
+{24506}{}{Azt tartja a szóbeszéd, hogy dél-keleti irányban van egy nukleáris bomba sújtotta hely.}
+{24507}{}{Az északra van tõlünk. Egész jelentõs kereskedelem folyik a városaink közt. A pletykák szerint Killian és Gizmo ki nem állhatják egymást.}
+{24508}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{24509}{}{Az egy primitív város messze északon. Nem sokat tudni róluk, mivel nincs elég pénzük, hogy kereskedhessenek velünk.}
+{24510}{}{Az a patkány-lyuk forrong a bandaháborútól. Ha nem lenne az Adytum és a Fegyverkészítõk közti remek árucsere, kétlem, hogy bármelyik kereskedõ betenné oda a lábát.}
+{24511}{}{Ott tárolják a Hub vízkészletét. A Vízkereskedõk kisajátították maguknak.}
+{24512}{}{Az Óváros az észak-keleti negyedben található. Csak a sóherek meg a mutánsok járnak oda. Azt is hallottam, hogy valami tolvajbanda is ott tanyázik.}
+{24513}{}{Ott folyik a kereskedelem zöme. Ott van a Fegyverbolt, a Páncélkészítõ, a Baráti Kölcsön Társaság és persze a Máltai Sólyom szintén.}
+{24514}{}{A Magaslaton élnek a gazdag kereskedõk. A Vízkereskedõk vezetõjének, Daren Hightowernek hatalmas villája van ott.}
+{24515}{}{AAz csak egy mítosz, amivel rémisztgetni lehet a gyerekeket.}
+{24516}{}{Errõl nem tudok semmit.}
+
+# HUBOLDTN.MAP  (25000)
+
+{25000}{}{Rendorseg}
+{25001}{}{Vizkereskedo}
+{25002}{}{Karmazsin Karavan}
+{25003}{}{Hosszutavu Kereskedo}
+{25004}{}{A Katedralis Gyermekei}
+{25005}{}{Nekropolisz}
+{25006}{}{Sugarzona}
+{25007}{}{Roncsvaros}
+{25008}{}{Az Acel Testverisege}
+{25009}{}{Shady Sands}
+{25010}{}{Csonttelep}
+{25011}{}{Viztorony}
+{25012}{}{Ovaros}
+{25013}{}{Belvaros}
+{25014}{}{Magaslat}
+{25015}{}{Halalkarom}
+{25016}{}{Vizcsip}
+{25100}{}{A rendõrséget Greene seriff vezeti, Õk tartják fenn a békét és a rendet a Hubban. Sokak szerint egyébként jelenlétük inkább hátráltató tényezõ, mint igazi segítség.}
+{25101}{}{Az õ kezükben van az összes víz joga a Hubban. Magukhoz kaparintották a víztornyokat, az embereknek pedig fizetniük kell nekik, ha vízhez akarnak jutni.}
+{25102}{}{Tébolyult kereskedõcsapat, akik rendszerint igen nagy kockázatokat vállalnak, hogy érvényesüljenek.}
+{25103}{}{Amolyan "megjárja" társaság, akik tûrhetõ árakat tudnak nyújtani anélkül, hogy különösebb veszélybe sodornák magukat.}
+{25104}{}{Valami Mestert követõ vallásos társaság az. Van egy kórházuk a város dél-keleti részén, a Vízkereskedõk közvetlen közelében.}
+{25105}{}{Hátborzongató hely az. Sokan azt állítják, hogy mutáns emberek lakják, akik normális emberek agyával táplálkoznak. Valahol a Hubtól keletre található.}
+{25106}{}{Azt tartja a szóbeszéd, hogy dél-keleti irányban van egy nukleáris bomba sújtotta hely.}
+{25107}{}{Az északra van tõlünk. Egész jelentõs kereskedelem folyik a városaink közt. A pletykák szerint Killian és Gizmo ki nem állhatják egymást.}
+{25108}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{25109}{}{Az egy primitív város messze északon. Nem sokat tudni róluk, mivel nincs elég pénzük, hogy kereskedhessenek velünk.}
+{25110}{}{Az a patkány-lyuk forrong a bandaháborútól. Ha nem lenne az Adytum és a Fegyverkészítõk közti remek árucsere, kétlem, hogy bármelyik kereskedõ betenné oda a lábát.}
+{25111}{}{Ott tárolják a Hub vízkészletét. A Vízkereskedõk kisajátították maguknak.}
+{25112}{}{Az Óváros az észak-keleti negyedben található. Csak a sóherek meg a mutánsok járnak oda. Azt is hallottam, hogy valami tolvajbanda is ott tanyázik.}
+{25113}{}{Ott folyik a kereskedelem zöme. Ott van a Fegyverbolt, a Páncélkészítõ, a Baráti Kölcsön Társaság és persze a Máltai Sólyom szintén.}
+{25114}{}{A Magaslaton élnek a gazdag kereskedõk. A Vízkereskedõk vezetõjének, Daren Hightowernek hatalmas villája van ott.}
+{25115}{}{AAz csak egy mítosz, amivel rémisztgetni lehet a gyerekeket.}
+{25116}{}{Errõl nem tudok semmit.}
+
+
+# HUBWATER.MAP  (25600)
+
+{25600}{}{Rendorseg}
+{25601}{}{Vizkereskedo}
+{25602}{}{Karmazsin Karavan}
+{25603}{}{Hosszutavu Kereskedo}
+{25604}{}{A Katedralis Gyermekei}
+{25605}{}{Nekropolisz}
+{25606}{}{Sugarzona}
+{25607}{}{Roncsvaros}
+{25608}{}{Az Acel Testverisege}
+{25609}{}{Shady Sands}
+{25610}{}{Csonttelep}
+{25611}{}{Viztorony}
+{25612}{}{Ovaros}
+{25613}{}{Belvaros}
+{25614}{}{Magaslat}
+{25615}{}{Halalkarom}
+{25616}{}{Vizcsip}
+{25700}{}{A rendõrséget Greene seriff vezeti, Õk tartják fenn a békét és a rendet a Hubban. Sokak szerint egyébként jelenlétük inkább hátráltató tényezõ, mint igazi segítség.}
+{25701}{}{Az õ kezükben van az összes víz joga a Hubban. Magukhoz kaparintották a víztornyokat, az embereknek pedig fizetniük kell nekik, ha vízhez akarnak jutni.}
+{25702}{}{Tébolyult kereskedõcsapat, akik rendszerint igen nagy kockázatokat vállalnak, hogy érvényesüljenek.}
+{25703}{}{Amolyan "megjárja" társaság, akik tûrhetõ árakat tudnak nyújtani anélkül, hogy különösebb veszélybe sodornák magukat.}
+{25704}{}{Valami Mestert követõ vallásos társaság az. Van egy kórházuk a város dél-keleti részén, a Vízkereskedõk közvetlen közelében.}
+{25705}{}{Hátborzongató hely az. Sokan azt állítják, hogy mutáns emberek lakják, akik normális emberek agyával táplálkoznak. Valahol a Hubtól keletre található.}
+{25706}{}{Azt tartja a szóbeszéd, hogy dél-keleti irányban van egy nukleáris bomba sújtotta hely.}
+{25707}{}{Az északra van tõlünk. Egész jelentõs kereskedelem folyik a városaink közt. A pletykák szerint Killian és Gizmo ki nem állhatják egymást.}
+{25708}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{25709}{}{Az egy primitív város messze északon. Nem sokat tudni róluk, mivel nincs elég pénzük, hogy kereskedhessenek velünk.}
+{25710}{}{Az a patkány-lyuk forrong a bandaháborútól. Ha nem lenne az Adytum és a Fegyverkészítõk közti remek árucsere, kétlem, hogy bármelyik kereskedõ betenné oda a lábát.}
+{25711}{}{Ott tárolják a Hub vízkészletét. A Vízkereskedõk kisajátították maguknak.}
+{25712}{}{Az Óváros az észak-keleti negyedben található. Csak a sóherek meg a mutánsok járnak oda. Azt is hallottam, hogy valami tolvajbanda is ott tanyázik.}
+{25713}{}{Ott folyik a kereskedelem zöme. Ott van a Fegyverbolt, a Páncélkészítõ, a Baráti Kölcsön Társaság és persze a Máltai Sólyom szintén.}
+{25714}{}{A Magaslaton élnek a gazdag kereskedõk. A Vízkereskedõk vezetõjének, Daren Hightowernek hatalmas villája van ott.}
+{25715}{}{AAz csak egy mítosz, amivel rémisztgetni lehet a gyerekeket.}
+{25716}{}{Errõl nem tudok semmit.}
+
+# GLOW1.MAP     (26200)
+# GLOW2.MAP     (26800)
+#
+# LABLADES.MAP
+#
+##  ======================================================================
+#    BLADES
+# Info Level 1 [People who know nothing]
+{27400}{}{Adytum}
+{27401}{}{Tanitvany}
+{27402}{}{Katedralis}
+{27403}{}{Hasfelmetszo}
+{27404}{}{Penges}
+{27405}{}{Fegyverkeszito}
+{27406}{}{Hub}
+{27407}{}{Roncsvaros}
+{27408}{}{Vizcsip}
+{27409}{}{Razor}
+{27410}{}{Nekropolisz}
+{27411}{}{Izzas}
+{27412}{}{Csonttelep}
+{27500}{}{Az egy nyugatra lévõ város.}
+{27501}{}{Egy rakás sumák.}
+{27502}{}{Vallásos marharépák.}
+{27503}{}{Õk a mi esküdt ellenségeink!}
+{27504}{}{Azok mi vagyunk!}
+{27505}{}{Fegyvert szoktak nekünk eladni néhanapján.}
+{27506}{}{Úgy tudom, az egy kereskedõváros.}
+{27507}{}{Sosem hallottam róla.}
+{27508}{}{Egy micsoda?}
+{27509}{}{Õ a vezetõnk, a legtökösebb csajszi a városban!}
+{27510}{}{Nekro- mi? Ez beteges.}
+{27511}{}{Ugye csak viccelsz?}
+{27512}{}{Ez itt a Csonttelep.}
+# Info Level 2 [People who know something]
+{27600}{}{Adytum}
+{27601}{}{Tanitvany}
+{27602}{}{Katedralis}
+{27603}{}{Hasfelmetszo}
+{27604}{}{Penges}
+{27605}{}{Fegyverkeszito}
+{27606}{}{Hub}
+{27607}{}{Roncsvaros}
+{27608}{}{Vizcsip}
+{27609}{}{Razor}
+{27610}{}{Nekropolisz}
+{27611}{}{Izzas}
+{27612}{}{Csonttelep}
+{27700}{}{Az egy dél-nyugati irányban lévõ város teli nyápic alakokkal.}
+{27701}{}{Szánalmas békérõl papoló majom nyugati irányba. Szétkapnánk õket, ha most épp nem kötne le minket a Hasfelmetszõkkel vívott harc.}
+{27702}{}{Vallásos szörnyszülöttek. Ártalmatlanok, hasznavehetetlenek.}
+{27703}{}{A nyugaton tanyázó ellenségeinket hamarosan tönkrezúzzuk!}
+{27704}{}{Mi vagyunk a Pengések! Ezt el ne feledd!}
+{27705}{}{Régen õk is bandába tömörültek, de felhagytak ezzel. Jó kis fegyvereket árulnak, ez vitathatatlan.}
+{27706}{}{Csupa kereskedõkbõl álló város.}
+{27707}{}{Hallottam már arról a helyrõl, de semmi közelebbit nem tudok.}
+{27708}{}{Egy micsoda?}
+{27709}{}{Razor a legképzettebb harcos mindannyiunk közül. Õ fog gyõzelemre vezetni minket.}
+{27710}{}{Hallottam valami történetrõl, ami a kannibálok városáról szólt, gyerekeket riogattak vele.}
+{27711}{}{Valami nukleáris bombatölcsér lehet.}
+{27712}{}{Ez itt a Csonttelep.}
+# Info level 3 [People who know more than something but less than everything]
+{27800}{}{Adytum}
+{27801}{}{Tanitvany}
+{27802}{}{Katedralis}
+{27803}{}{Hasfelmetszo}
+{27804}{}{Penges}
+{27805}{}{Fegyverkeszito}
+{27806}{}{Hub}
+{27807}{}{Roncsvaros}
+{27808}{}{Vizcsip}
+{27809}{}{Razor}
+{27810}{}{Nekropolisz}
+{27811}{}{Izzas}
+{27812}{}{Csonttelep}
+{27900}{}{Ne hagyd magad átverni. Adytum kis falunak tûnhet, de a Rendfenntartói kemények, mint a vídia.}
+{27901}{}{Hm. Ne akassz már hasba! Nincs vér a pucájukban, hogy harcoljanak.}
+{27902}{}{Egy délre lévõ nagy templom szektásai. Ártalmatlannak tûnhetnek, de valami nem stimmel velük.}
+{27903}{}{A Hasfelmetszõk olyanok, mint a koszlott kutyák - acsarkodóak, belterjesek, és hülyék, mint a segg.}
+{27904}{}{Látod a késemet? Ezeket magunk készítjük. Mindenki a sajátját használja. Innen a név is.}
+{27905}{}{A Hubból jöttek, hogy új vadászterületeket kaparintsanak maguknak, de úgy döntöttek, hogy inkább árusítással mint hadakozással foglalkoznak.}
+{27906}{}{Az egy keletre lévõ kereskedõváros. Szoktak onnan jönni kereskedõk, akik Adytummal és a Fegyverkészítõkkel üzletelnek.}
+{27907}{}{Úgy tudom, az egy észak-keletre lévõ kisváros.}
+{27908}{}{Egy micsoda?}
+{27909}{}{Razor a vezetõnk és a bajnokunk. Nincs kétségem afelõl, hogy a tapasztalata gyõzelemre vezet végre a Hasfelmetszõk ellen.}
+{27910}{}{Jócskán kelet felé van innen. Feltételezhetõ, hogy emberi húson tengõdõ ghoulok lakják. Azok ellen nem sok kedvem lenne harcolni.}
+{27911}{}{Az valami olyasféle hely lehet, amit telibetrafált az atombomba. Szerintem jócskán dél felé van innen.}
+{27912}{}{Ez itt a Csonttelep.}
+#  ======================================================================
+#
+# LARIPPER.MAP  (28000)
+#
+##======================================================================
+#
+#RIPPERS
+#
+#The Rippers will not engage in dialog, and thus have no
+#tell-me-abouts.
+#
+#======================================================================
+#
+# LAGUNRUN.MAP  (28600)
+#
+##  ======================================================================
+#   GUN RUNNERS
+#Info Level 1 [People who know nothing]
+{28600}{}{Adytum}
+{28601}{}{Tanitvany}
+{28602}{}{Katedralis}
+{28603}{}{Hasfelmetszo}
+{28604}{}{Penges}
+{28605}{}{Fegyverkeszito}
+{28606}{}{Hub}
+{28607}{}{Roncsvaros}
+{28608}{}{Vizcsip}
+{28609}{}{Csonttelep}
+{28700}{}{Apró falu déli irányban.}
+{28701}{}{Egy csapat hippi délen.}
+{28702}{}{Azokra a barnaköpenyes fickókra gondolsz?}
+{28703}{}{Az egy harapós társaság nyugati irányban.}
+{28704}{}{Trükkös gárda kelet felé.}
+{28705}{}{Igen? Micsoda?}
+{28706}{}{Tõlük vásároljuk a fegyvereket, és egyenesen nektek adjuk el!}
+{28707}{}{Igen, egy apró városka a Hubtól északra.}
+{28708}{}{Egy micsoda?}
+{28709}{}{Ez itt a Csonttelep.}
+
+# Info Level 2 [People who know something]
+{28800}{}{Adytum}
+{28801}{}{Tanitvany}
+{28802}{}{Katedralis}
+{28803}{}{Hasfelmetszo}
+{28804}{}{Penges}
+{28805}{}{Fegyverkeszito}
+{28806}{}{Hub}
+{28807}{}{Roncsvaros}
+{28808}{}{Vizcsip}
+{28809}{}{Csonttelep}
+{28900}{}{Apró falu déli irányban. Eléggé meg vannak erõdítve.}
+{28901}{}{Egy békét hirdetõ csapat délen. Meg kéne szabadulni tõlük.}
+{28902}{}{Ja, igen, azok a bolondos öreg szerzetesek. Csupa õrült. Van egy hatalmas templomuk a Csonttelep déli részén.}
+{28903}{}{Hát, lehet, hogy hülyék, de rengeteg fegyverük van!}
+{28904}{}{Mindig a saját maguk által készített vibro-késeiket használják. Egyet szívesen megkaparintanék. Mondjuk legalább szoktak egyéb fegyvereket is venni.}
+{28905}{}{Épp egy képviselõjükkel tárgyalsz.}
+{28906}{}{Az egy nagy kereskedõközpont keleti irányban. A Hubbeli kereskedõkkel rendszeresen üzletelünk, fõleg fegyverek és védõfelszerelések vannak terítéken.}
+{28907}{}{Apró városka a Hubtól északra. Eléggé szigorú hely.}
+{28908}{}{Sosem hallottam róla.}
+{28909}{}{A Csonttelep északi felén vagyunk.}# Info Level 3 [People who know more than something but less than everything]
+{29000}{}{Adytum}
+{29001}{}{Tanitvany}
+{29002}{}{Katedralis}
+{29003}{}{Hasfelmetszo}
+{29004}{}{Penges}
+{29005}{}{Fegyverkeszito}
+{29006}{}{Hub}
+{29007}{}{Roncsvaros}
+{29008}{}{Vizcsip}
+{29009}{}{Csonttelep}
+{29100}{}{Apró városka déli irányban. Nem kereskednek velünk. Mondjuk engem hidegen is hagynak.}
+{29101}{}{Megpróbálnak mindenkit megtéríteni az õ békés világnézetükre, közben a délen lévõ könyvtárban rejtõzködnek. Az üzletben nem sok vizet zavarnak!}
+{29102}{}{A Katedrális egy nagy templom a Csonttelep déli részén, ahol valami fura szekta egy Sötét Istent ajnároz. Szerintem elment a maradék eszük.}
+{29103}{}{A Hasfelmetszõk olyanok, mint egy nagy család. Szó szerint. Ha nem ismernek téged, lehetetlen szót érteni velük, próbálkozni sem érdemes. Egy hatalmas, csapdákkal körülvett erõdben tanyáznak dél felé. Vigyázz a taposó aknáikkal, ha elég hülyének érzed magad, hogy ellátogatsz hozzájuk!}
+{29104}{}{Néhány dél-keletre lévõ apró épületet átalakítottak maguknak. Eléggé jól szervezettek és agyafúrtabbak, mint a Hasfelmetszõk. Néha szokták kívülállókkal is frissíteni a soraikat. A vezetõjük, Razor, nagyon vagány csaj.}
+{29105}{}{Azok mi vagyunk. Jó pénz van abban, hogy fegyvert adunk el a Pengéseknek meg a Hasfelmetszõknek.}
+{29106}{}{A Hub egy keletre lévõ kereskedõváros, ahonnan beszerezzük a fegyvereket és mindenféle dologgal üzletelünk. A világ minden tájára küldenek karavánokat. Ha Adytumban feltûnik egy karaván, nyugodtan csatlakozhatsz hozzá.}
+{29107}{}{Roncsváros a Hubtól északra található határváros. Van egy remek kaszinója, de a város seriffje egy kicsit sokat képzel magáról.}
+{29108}{}{Fogalmam sincs, mi az.}
+{29109}{}{Ez itt a Csonttelep északi része. Mulatságos, hogy a kintrõl jövõk beszólásnak is használják, mintha valami rossz dolog lenne. Azt mondják "Az agyad merõ egy csont!". Nem olyan rossz ez, ha már hozzászoktál.}
+
+#Valamit kellett a csonttal csinalni, ami a nemiszervre utalt az erdetiben, de a magyarban ilyen nem nagyon van, viszont a csontot
+#meg kellett tartani - bass (ha tudsz jobbat, szolj)#  ======================================================================
+
+
+# CHILDEAD.MAP  (29200)# MBDEAD.MAP    (29800)# MOUNTN1.MAP   (30400)
+# MOUNTN2.MAP   (31000)
+# FOOT.MAP      (31600)
+# TARDIS.MAP    (32200)
+# TALKCOW.MAP   (32800)
+# USEDCAR.MAP   (33400)
+# BRODEAD.MAP   (34000)
+# DESCRVN1.MAP  (34600)
+# DESCRVN2.MAP  (35200)
+# MNTCRVN1.MAP  (35800)
+# MNTCRVN2.MAP  (36400)

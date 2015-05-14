@@ -1,0 +1,64 @@
+{100}{}{Nem hiszem el, miket mûveltél.}
+{101}{}{Nem érdekel, megésrültem. Gyógyíts meg!}
+{102}{}{Hngh!}
+{103}{}{Nem. Fogadalmat tettem ugyan, hogy nem teszek az élet ellen, de nem segítek.}
+{104}{}{Az intelligencia hiánya nem mentség arra, amit tettél. Menj el innen! Többet nem beszélek veled!}
+{105}{}{Atyaég, te aztán jócskán megsebesültél. Hadd segítsek gyorsan...}
+{106}{}{Üdv újra nálunk, }
+{107}{}{. Hogy halad a kutatás?}
+{108}{}{Mint a karikacsapás.}
+{109}{}{Segítségre van szükségem.}
+{110}{}{Lol?}
+{111}{}{Ah. Igen. Tessék, találtam valamit neked. Ha fel akarod paprikázni magad egy kicsit, használd csak nyugodtan!}
+{112}{}{Remek, csak így tovább. És szólj nyugodtan, ha bármire szükséged van!}
+{113}{}{Miben segíthetek?}
+{114}{}{Gyógykezelsére van szükségem.}
+{115}{}{Egy kis drogra van szükségem.}
+{116}{}{Kéne még stimpakk.}
+{117}{}{Doh!}
+{118}{}{Duh!}
+{119}{}{Nem vagyok felhatalmazva, hogy adjak. Sajnálom.}
+{120}{}{Azért kösz...}
+{121}{}{Sürgõsen kell. Drog nélkül a Menedék biztonsága kockán forog.}
+{122}{}{Sajnálom, de nem adhatok.}
+{123}{}{Nos, mivel így áll a helyzet... de nehogy elmondd valakinek, hogy tõlem kaptad. Nagyon addiktívak, és veszélyes a használatuk.}
+{124}{}{Köszönöm.}
+{125}{}{A stimpakk-készlet be van osztva. A patikaszekrényben található mennyiség a tied lehet. Vegyél annyit, amennyi jól esik, de takarékoskodj vele. Eltarthat egy darabig, amíg újat szerzek neked.}
+{126}{}{Hmm. Lássuk csak, ért-e valamilyen sérülés.}
+{127}{}{Egészségesnek tûnsz. Majd akkor gyere vissza, ha gyógykezelésre szorulsz.}
+{128}{}{Úgy látom, megsérültél. Hadd segítsek gyorsan...}
+{129}{}{Ha gyógykezelésre van szükséged, gyere vissza bátran, vagy használd a stimpakkjainkat! A faliszekrénybõl vehetsz kedvedre.}
+{130}{}{Feküdj ide szépen, és gyorsan megkezdjük a gyógyító kúrát.}
+{131}{}{Teljesen felgyógyultál. Vigyázz magadra a jövõben, de ha mégis bajod esne, keress fel nyugodtan. }
+{132}{}{A szkenner halálos sugárdózist érzékelt benned. Megpróbáljuk meggyógyítani? Eltarthat egy darabig.}
+{133}{}{A szkenner nagyon komoly sugárdózist érzékelt benned. Megpróbáljuk meggyógyítani? Eltarthat egy darabig.}
+{134}{}{A szkenner halálos jelentõs érzékelt benned. Megpróbáljuk meggyógyítani? Eltarthat egy darabig.}
+{135}{}{A szkenner enyhe sugárdózist érzékelt benned. Megpróbáljuk meggyógyítani? Eltarthat egy darabig.}
+{136}{}{A 13-as Menedék orvosát látod.}
+{137}{}{}
+{138}{}{Ne!}
+{139}{}{Oké, csináld!}
+{140}{}{Mennyi ideig?}
+{141}{}{Mennyi ideig tart, és mennyi sugárzást tudsz eltávolítani?}
+{142}{}{Na.}
+{143}{}{Ja.}
+{144}{}{Te tudod...}
+{145}{}{}
+{146}{}{ percig tart a mûvelet. Akarod a procedúrát?}
+{147}{}{Nem.}
+{148}{}{Igen.}
+{149}{}{}
+{150}{}{ percig tart a mûvelet, és körülbelül }
+{151}{}{ százalékot tudunk eltávolítani. Akarod a procedúrát?}
+{152}{}{Nem.}
+{153}{}{Igen.}
+{154}{}{Ez nagyon, de nagyon fájdalmas lesz.}
+{155}{}{Oké, elméletileg nem fog fájni.}
+{156}{}{Oké, most már biztosan jobban érzed magad. Vigyázz odakinn magadra!}
+{157}{}{Hallottam, hogy megmentetted a Menedéket. Köszönettel tartozom.}
+{158}{}{[Tovább]}
+{159}{}{Az orvos nem hajlandó beszélni veled.}
+{160}{}{Kérlek, hagyd ezt abba!}# Medic tell-me-abouts{1000}{}{Orvos}
+{1001}{}{Gyogykezeles}
+{1100}{}{Állandóan itt vagyok. Mindig számíthat rám az ember, ha gyógykezelésre szorul.}
+{1101}{}{Ha megsérültél, meggyógyítalak.}

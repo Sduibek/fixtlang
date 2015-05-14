@@ -1,0 +1,1716 @@
+{100}{}{Égõ fémhordó}
+{101}{}{A hordóban papír és más éghetõ anyagok enyésznek.}
+{200}{}{Faajtó}
+{201}{}{Ez az ajtó fából készült.}
+{300}{}{Faasztal}
+{301}{}{Ez az asztal fából készült.}
+{400}{}{Faasztal}
+{401}{}{Ez az asztal fából készült.}
+{500}{}{Fémhordó}
+{501}{}{Ez egy acélból készült régi hordó.}
+{600}{}{Fémhordó}
+{601}{}{Ez egy acélból készült régi hordó.}
+{700}{}{Autóabroncs-halom}
+{701}{}{Egy rakás õsrégi autóabroncs. Valószínûleg a hõség folytán vulkanizálódtak és megkeményedtek.}
+{800}{}{Biztonsági ajtó}
+{801}{}{Ez az ajtó igencsak meg van erõsítve. Védelmet nyújt a külvilág elemei és a veszélyes teremtmények ellen.}
+{900}{}{Számítógép}
+{901}{}{A Menedék központi számítógépére kapcsolt terminál.}
+{1000}{}{Oszlop}
+{1001}{}{Ez a tartóoszlop azt a célt szolgálja, hogy csökkentse az egész komplexumra nehezedõ nyomást.}
+{1100}{}{Számítógép}
+{1101}{}{A Menedék központi számítógépére kapcsolt terminál.}
+{1200}{}{Számítógép}
+{1201}{}{A Menedék központi számítógépére kapcsolt terminál.}
+{1300}{}{Monitor}
+{1301}{}{Ez egy zöld képernyõs monitor, rajta különféle adatok futnak. Néha-néha feltûnik néhány byte.}
+{1400}{}{Monitor}
+{1401}{}{Ez egy zöld képernyõs monitor, rajta különféle adatok futnak.}
+{1500}{}{Holo Generátor}
+{1501}{}{Ez egy nagyformátumú THT házimozi rendszer. Igaz, ami igaz, 80 éve nem készült egyetlen film sem.}
+{1600}{}{Képernyõk}
+{1601}{}{Ez a három monitor mindenféle adatokat mutat.}
+{1700}{}{Képernyõk}
+{1701}{}{Ez a három monitor mindenféle adatokat mutat a Menedék mûködéséhez szükséges berendezésekrõl.}
+{1800}{}{Ajtó}
+{1801}{}{Közelebbrõl megnézve még mindig ajtónak látszik.}
+{1900}{}{Ajtó}
+{1901}{}{Közelebbrõl megnézve még mindig ajtónak látszik.}
+{2000}{}{Ventillátor}
+{2001}{}{A ventillátor állandó tiszta, szûrt levegõt biztosít a menedékrendszernek.}
+{2100}{}{Ventillátor}
+{2101}{}{A ventillátor állandó tiszta, szûrt levegõt biztosít a menedékrendszernek.}
+{2200}{}{A 13-as Menedék ajtaja}
+{2201}{}{Ezt a masszív ajtót arra tervezték, hogy mindenféle sérülést, behatást megakadályozzon.}
+{2300}{}{A 13-as Menedék ajtaja}
+{2301}{}{Ezt a masszív ajtót arra tervezték, hogy mindenféle sérülést, behatást megakadályozzon.}
+{2400}{}{Emelvény}
+{2401}{}{Egy hidraulikus berendezés. Arra tervezték, hogy megtartsa a Felvigyázó ülõhelyét, valamint árammal és kommunikációs vonalakkal lássa el.}
+{2500}{}{Monitor}
+{2501}{}{Ha egy monitort láttál, mindet láttad.}
+{2600}{}{Monitor}
+{2601}{}{A monitoron különféle adatok futnak.}
+{2700}{}{Rácsozat}
+{2701}{}{Szabványos Menedék-Tek rácsozat, ez az alapja a Felvigyázó emelvényének.}
+{2800}{}{Csövek}
+{2801}{}{Közönséges csövek. Közelebbrõl megszemlélvén is azok.}
+{2900}{}{Ventillátor}
+{2901}{}{Szabványos Menedék-Tek szellõztetõ rendszer.}
+{3000}{}{Oszlop}
+{3001}{}{Szabványos Menedék-Tek tartóoszlop rendszer.}
+{3100}{}{Oszlop}
+{3101}{}{Szabványos Menedék-Tek tartóoszlop rendszer.}
+{3200}{}{Ventillátor}
+{3201}{}{Szabványos Menedék-Tek szellõztetõ rendszer.}
+{3300}{}{Ventillátor}
+{3301}{}{Szabványos Menedék-Tek szellõztetõ rendszer.}
+{3400}{}{Ágy}
+{3401}{}{Ez az ágy elég kényelmes, mivelhogy aludtál is benne.}
+{3500}{}{Ágy}
+{3501}{}{Közönséges szék. Elég komfortos.}
+{3600}{}{Ágy}
+{3601}{}{Közönséges szék. Elég komfortos.}
+{3700}{}{Ágy}
+{3701}{}{Közönséges szék. Elég komfortos.}
+{3800}{}{Menedék felvonó}
+{3801}{}{Ez egy hétköznapi felvonó, fel és le közlekedik a menedék komplexumban.}
+{3900}{}{Szék}
+{3901}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{4000}{}{Szék}
+{4001}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{4100}{}{Szék}
+{4101}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{4200}{}{Szék}
+{4201}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{4300}{}{Monitor}
+{4301}{}{Ez a monitor különféle adatokat mutat.}
+{4400}{}{Monitor}
+{4401}{}{Ez a monitor különféle adatokat mutat.}
+{4500}{}{Monitor}
+{4501}{}{Ez a monitor különféle adatokat mutat.}
+{4600}{}{Monitor}
+{4601}{}{Ez a monitor különféle adatokat mutat.}
+{4700}{}{Monitor}
+{4701}{}{Ez a monitor különféle adatokat mutat.}
+{4800}{}{Monitor}
+{4801}{}{Ez a monitor különféle adatokat mutat.}
+{4900}{}{Exit Grid Map Marker}
+{4901}{}{Exit Grid Map Marker}
+{5000}{}{Légkondicionáló}
+{5001}{}{Ez a légkondi megtisztítja az elhasználódott levegõt, és újjal cseréli ki. A berendezés nem mûködik.}
+{5100}{}{Szék}
+{5101}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{5200}{}{Szék}
+{5201}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{5300}{}{Szék}
+{5301}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{5400}{}{Szék}
+{5401}{}{Íme egy szék. Milyen kár, hogy nincs idõd leülni és szusszanni egyet.}
+{5500}{}{Videófal}
+{5501}{}{Ez a videófal mindenféle monitorokból és egyébb képernyõkbõl áll. A lejátszott anyag szédítõ...}
+{5600}{}{Videófal}
+{5601}{}{Ez a videófal mindenféle monitorokból és egyébb képernyõkbõl áll. A lejátszott anyag szédítõ...}
+{5700}{}{Szék}
+{5701}{}{Ez bizony nem más, mint egy szék. Hihetetlenül kényelmesnek tûnik.}
+{5800}{}{Szék}
+{5801}{}{Ez bizony nem más, mint egy szék. Hihetetlenül kényelmesnek tûnik.}
+{5900}{}{Szék}
+{5901}{}{Ez bizony nem más, mint egy szék. Hihetetlenül kényelmesnek tûnik.}
+{6000}{}{Szék}
+{6001}{}{Ez bizony nem más, mint egy szék. Hihetetlenül kényelmesnek tûnik.}
+{6100}{}{Asztal}
+{6101}{}{Ez bizony ez asztal. Az ilyen berendezések feltalálása elõtt az emberek a földön tartották a dolgaikat.}
+{6200}{}{Asztal}
+{6201}{}{Ez minden kétséget kizáróan egy asztal.}
+{6300}{}{Ördögszekér}
+{6301}{}{Ez egy igazi ördögszekér. Természetesen sosem láttál még ördögszekeret korábban, ezért jó lesz, ha megnézed magadnak.}
+{6400}{}{Kaktusz}
+{6401}{}{Semmi különöset nem látsz ezen a kaktuszon.}
+{6500}{}{Kaktusz}
+{6501}{}{Semmi fontosat nem látsz ezen a kaktuszon.}
+{6600}{}{Fa}
+{6601}{}{Egy halott fa... valahogy semmi sem akar rendesen megélni errefelé.}
+{6700}{}{Secret Blocking Hex}
+{6701}{}{Ha ezt látod, az a technical designer sara.}
+{6800}{}{A Menedék lépcsõje}
+{6801}{}{Lépcsõ... semmi különös.}
+{6900}{}{Stalagmit}
+{6901}{}{A sziklás talajból kiálló természetes képzõdmény.}
+{7000}{}{Stalagmit}
+{7001}{}{A sziklás talajból kiálló természetes képzõdmény.}
+{7100}{}{Vérfolt}
+{7101}{}{Semmi különös nincs ezzel a vérfolttal azt leszámítva, hogy valaki, vagy valami éppen itt halálozott el.}
+{7200}{}{Sziklaoszlop}
+{7201}{}{Ez a masszív sziklaoszlop a talajtól a mennyezetig húzódik.}
+{7300}{}{Sziklaoszlop}
+{7301}{}{Ez a masszív sziklaoszlop a talajtól a mennyezetig húzódik.}
+{7400}{}{Sziklák}
+{7401}{}{Nézegeted a sziklákat egy darabig, de az istennek sem akarnak megmozdulni.}
+{7500}{}{Sziklák}
+{7501}{}{Szemezgetsz a sziklával egy darabig, hátha meg akar támadni.}
+{7600}{}{Car Wall Floor}
+{7601}{}{REMOVED}
+{7700}{}{Car Wall Roof}
+{7701}{}{REMOVED}
+{7800}{}{Sziklák}
+{7801}{}{Ez egy jókora rakás szikla. Elég megszokott ebben a régióban.}
+{7900}{}{Sziklák}
+{7901}{}{Egy kis rakás kõ.}
+{8000}{}{Sziklák}
+{8001}{}{Egy kis rakás kõ.}
+{8100}{}{Sziklák}
+{8101}{}{Egy nagy rakás kõ.}
+{8200}{}{Csontok}
+{8201}{}{Ez itt egy nagy rakás kifehéredett állati csont. Legalábbis szerinted mind állatoké...}
+{8300}{}{Csontok}
+{8301}{}{Ez itt egy nagy rakás kifehéredett állati csont. Legalábbis szerinted mind állatoké...}
+{8400}{}{Csontok}
+{8401}{}{Ez itt egy nagyon nagy rakás kifehéredett csont. Nem tudod megállapítani, miféle állatoké lehettek valaha.}
+{8500}{}{Csontok}
+{8501}{}{Meglehet, hogy ez itt egy szarvas kenguru csontváza, de nem vagy benne biztos. Túlságosan szétmállott, hogy biztosan megállapíthasd.}
+{8600}{}{Csontok}
+{8601}{}{Egy megtermett kétfejû tehén csontjai.}
+{8700}{}{Kapu}
+{8701}{}{Fából készült kapu. Kinyitod, becsukod, kinyitod, becsukod...}
+{8800}{}{Fém mélyhûtõ láda}
+{8801}{}{REMOVED}
+{8900}{}{Fém mélyhûtõ láda}
+{8901}{}{REMOVED}
+{9000}{}{Sziklák}
+{9001}{}{Ez egy igen nagy rakás szikla. Elég veszélyes, meg kell hagyni.}
+{9100}{}{Sziklák}
+{9101}{}{Ez egy nagy rakás szikla. Ahogy közelebbrõl szemügyre veszed, apró vénemberek arcát látod a köveken.}
+{9200}{}{Sziklák}
+{9201}{}{Sziklák, sziklák, sziklák! Bármerre nézel, mindenütt sziklák vannak!}
+{9300}{}{Sziklák}
+{9301}{}{Egy kis rakás szikla.}
+{9400}{}{Bár}
+{9401}{}{A szeszlepárlók modern verziója, egy valóságos kis szeszkifõzõ-mûhely.}
+{9500}{}{Szék}
+{9501}{}{Ez egy rothadó, régi szék, egy autó ülésébõl alakították át.}
+{9600}{}{Szék}
+{9601}{}{Egy rossz szagû, vacak szék, amely valaha autóülésként szolgált. A rugók már elvesztették ruganyosságukat.}
+{9700}{}{Szék}
+{9701}{}{Egy téglákra helyezett, rothatdó, büdös ülõalkalmatosság. Ráadásul elég kényelmetlen is.}
+{9800}{}{Fotel}
+{9801}{}{Egy téglákra helyezett, rothatdó, büdös ülõalkalmatosság. Ráadásul elég kényelmetlen is.}
+{9900}{}{Dívány}
+{9901}{}{Ez egy igen-igen kényelmetlen ülõalkalmatosság, jobb helyeken díványként is szokták emlegetni.}
+{10000}{}{Dívány}
+{10001}{}{Ez egy nagyon kényelmetlen ülõalkalmatosság, esetenként díványként is szokták emlegetni.}
+{10100}{}{Gumiabroncs}
+{10101}{}{Valami növénycsomó közepén egy ósdi autóabroncs virít.}
+{10200}{}{Bozót}
+{10201}{}{Ez valamiféle sivatagi bozót.}
+{10300}{}{Bozót}
+{10301}{}{Ez valamiféle sivatagi bozót.}
+{10400}{}{Bozót}
+{10401}{}{Ez valamiféle sivatagi bozót.}
+{10500}{}{Bozót}
+{10501}{}{Ez valamiféle sivatagi bozót.}
+{10600}{}{Hulladék}
+{10601}{}{Valaki nekitámasztott egy rozsdás autóajtót egy még rozsdásabb fémhordónak. Rozsda rozsda hátán!}
+{10700}{}{Hulladék}
+{10701}{}{A homokból egy félig eltemetett, eltört WC csésze áll ki. Így mûlik el a világ dicsõsége.}
+{10800}{}{Giz-gaz}
+{10801}{}{Ez valamiféle sivatagi cserje. Ha a közelmúltban nõtt, tovább nem fog az is biztos.}
+{10900}{}{Hulladék}
+{10901}{}{A talajba félig beásott autóabroncs. Körülötte néhány apró fadarabot raktak egy rakásra.}
+{11000}{}{Sziklák}
+{11001}{}{Ahogy közelebbrõl megszemléled, úgy néz ki, mintha megkövesedett fa lenne.}
+{11100}{}{Föld}
+{11101}{}{Egy kisebb rakás föld, belõle elhalt gazok meredeznek az ég felé.}
+{11200}{}{Föld}
+{11201}{}{Egy kis rakás föld.}
+{11300}{}{Föld}
+{11301}{}{Egy kis rakás föld.}
+{11400}{}{Föld}
+{11401}{}{Egy kis rakás föld.}
+{11500}{}{Gaz}
+{11501}{}{Egy kis földhalom, melyben egy nagyon elszáradt növény kókadozik.}
+{11600}{}{Hulladék}
+{11601}{}{Egy összevissza gyûrõdött rozsdás vasdarab.}
+{11700}{}{Hulladék}
+{11701}{}{Néminemû fatörmelék.}
+{11800}{}{Hulladék}
+{11801}{}{Ez egy kisebb rakás mindenféle ez meg az.}
+{11900}{}{Föld}
+{11901}{}{Egy kis rakás föld.}
+{12000}{}{Föld}
+{12001}{}{Egy kis rakás föld.}
+{12100}{}{Föld}
+{12101}{}{Egy kis rakás föld.}
+{12200}{}{Föld}
+{12201}{}{Egy kis rakás föld.}
+{12300}{}{Föld}
+{12301}{}{Egy kis rakás föld.}
+{12400}{}{Föld}
+{12401}{}{Egy kis rakás föld.}
+{12500}{}{Gaz}
+{12501}{}{Közönséges pusztai gaz.}
+{12600}{}{Gaz}
+{12601}{}{Közönséges pusztai gaz.}
+{12700}{}{Gaz}
+{12701}{}{Közönséges pusztai gaz.}
+{12800}{}{}
+{12900}{}{Fal}
+{13000}{}{Fal}
+{13100}{}{Fal}
+{13200}{}{Fal}
+{13300}{}{Fal}
+{13400}{}{Fal}
+{13500}{}{Lefolyó}
+{13501}{}{A lefolyóból valami émelyítõ, gusztustalan szag áramlik. Néhány másodperc múltán már nem is tûnik olyan vészesnek.}
+{13600}{}{Lefolyó}
+{13601}{}{A lefolyó rácsozata mögött mintha mozogna valami. Apró vörös szemek néznek vissza rád. Patkányszemek...}
+{13700}{}{Lefolyó}
+{13701}{}{A lefolyóból bugyborékoló hang hallatszik. A szagáról már szólni sem érdemes.}
+{13800}{}{Lefolyó}
+{13801}{}{A lefolyóból bugyborékoló hang hallatszik. A szagáról már szólni sem érdemes, annyira émelyítõ.}
+{13900}{}{Létra}
+{13901}{}{Ez egy régi, eléggé ütött-kopott létra. Nagyon úgy tûnik, hogy alig bírná el a testsúlyodat.}
+{14000}{}{Csatornalejáró}
+{14001}{}{Úgy tûnik, itt lehet lemenni a csatornarendszerbe.}
+{14100}{}{Fényforrás}
+{14200}{}{Ajtó}
+{14201}{}{Ez a hétköznapi Menedékajtó eléggé megrongálódott, talán megégett. Ennek ellenére mûködõképes.}
+{14300}{}{Ajtó}
+{14301}{}{Ez a hétköznapi Menedékajtó eléggé megrongálódott, talán megégett. Ennek ellenére mûködõképes.}
+{14400}{}{Csatornafedél}
+{14401}{}{Egy súlyos csatornafedél. Elég jó állapotban van annak ellenére, hogy nemrég mozgatták.}
+{14500}{}{Lyuk}
+{14501}{}{Az ajtón hatalmas lyuk tátong.}
+{14600}{}{Lyuk}
+{14601}{}{Az ajtón hatalmas lyuk tátong.}
+{14700}{}{Golyóálló üveg}
+{14701}{}{Ez az üveg abszolút törhetetlen. Ne is próbálkozz!}
+{14800}{}{Golyóálló üveg}
+{14801}{}{Ez az üveg abszolút törhetetlen. Ne is próbálkozz!}
+{14900}{}{Golyóálló üveg}
+{14901}{}{Ez az üveg abszolút törhetetlen. Ne is próbálkozz!}
+{15000}{}{Golyóálló üveg}
+{15001}{}{Ez az üveg abszolút törhetetlen. Ne is próbálkozz!}
+{15100}{}{Ajtó}
+{15101}{}{Ez aztán a high-tech cucc. Az ajtót alkotó három nagy lamella egymáshoz képest elfordulva nyílik.} 
+{15200}{}{Ajtó}
+{15201}{}{Ez aztán a high-tech cucc. Az ajtót alkotó három nagy lamella egymáshoz képest elfordulva nyílik.}
+{15300}{}{Ajtó}
+{15301}{}{Ezt az ajtót az Acél Testvériségének emblémájával díszítették.}
+{15400}{}{Ajtó}
+{15401}{}{Ezt az ajtót az Acél Testvériségének emblémájával díszítették.}
+{15500}{}{Felvonó}
+{15501}{}{Ez itt a Testvériség felvonó belseje. Csak úgy ragyog-csacsog!}
+{15600}{}{Felvonó}
+{15601}{}{Ez itt a Testvériség felvonó belseje. Csak úgy ragyog-csacsog!}
+{15700}{}{Szimbólum}
+{15701}{}{Ez itt az Acél Testvériségének szimbóluma. Közli a tudatlan sivatagi utazóval, hogy ez a hely az övék, és tanácsosabb mihamarabb távozni.}
+{15800}{}{Monitor}
+{15801}{}{Ez a számítógép Testvériségi technológia alapján készült.}
+{15900}{}{Monitor}
+{15901}{}{Ez a számítógép Testvériségi technológia alapján készült.}
+{16000}{}{Számítógép}
+{16001}{}{Ez a számítógép valami adatbázis. Egészen nyilvánvalóan Testvériségi technológia.}
+{16100}{}{Számítógép}
+{16101}{}{Ez a számítógép valami adatbázis. Egészen nyilvánvalóan Testvériségi technológia.}
+{16200}{}{Számítógép} 
+{16201}{}{Ez a high-tech számítógép már a modern szalagos technológiát használja az õsi lyukkártya helyett.}
+{16300}{}{Számítógép}
+{16301}{}{Ez a high-tech számítógép már a modern szalagos technológiát használja az õsi lyukkártya helyett.}
+{16400}{}{Monitor}
+{16401}{}{Egy hatalmas monitort látsz. Testvériségi technológia.}
+{16500}{}{Monitor}
+{16501}{}{Egy hatalmas monitort látsz. Testvériségi technológia.}
+{16600}{}{Huzal}
+{16601}{}{Ez valami számítógép huzalozása.}
+{16700}{}{Huzal}
+{16701}{}{Ez valami számítógép huzalozása.}
+{16800}{}{Huzal}
+{16801}{}{Ez valami számítógép huzalozása.}
+{16900}{}{Oszlop}
+{16901}{}{Támasztó oszlop.}
+{17000}{}{Oszlop}
+{17001}{}{Támasztó oszlop.}
+{17100}{}{Beléptetõ számítógép}
+{17101}{}{Ez a számítógép irányítja a hatalmas menedékajtót. Ahhoz, hogy mûködjön, egy speciális hozzáférési kódot kell használnod.}
+{17200}{}{Kaszinó cégér}
+{17201}{}{Ez a cégér Gizmo Kaszinóját hirdeti.}
+{17300}{}{A 13-as Menedék külsõ ajtaja}
+{17301}{}{Ez a masszív ajtó a menedéket és a külvilágot kapcsolja össze.}
+{17400}{}{A 13-as Menedék külsõ ajtaja}
+{17401}{}{Ez a masszív ajtó a menedéket és a külvilágot kapcsolja össze.}
+{17500}{}{Kaszinó cégér}
+{17501}{}{A cégért egy elektromos motor forgatja szép lassan körbe-körbe.}
+{17600}{}{Lefelé nyíl}
+{17700}{}{Felfelé nyíl}
+{17800}{}{Láda}
+{17900}{}{Láda}
+{18000}{}{Láda}
+{18100}{}{Felvonó teteje}
+{18101}{}{Egy felvonó tetejét bámulod éppen.}
+{18200}{}{Számítógépes konzol}
+{18201}{}{Ez egy fapados terminál. Egy kábel fut belõle valami nagyobb számítógépbe. A berendezés a Testvériség technológiája.}
+{18300}{}{Számítógépes konzol}
+{18301}{}{Ez egy fapados terminál. Egy kábel fut belõle valami nagyobb számítógépbe. A berendezés a Testvériség technológiája.}
+{18400}{}{Embléma}
+{18401}{}{Ez itt a Testvériség emblémája. A fogaskerekek a gépészeti tudást, a kard a harci képességeiket, a szárnyak pedig az örök reményt jelképezik.}
+{18500}{}{Embléma}
+{18501}{}{Ez itt a Testvériség emblémája. A fogaskerekek a gépészeti tudást, a kard a harci képességeiket, a szárnyak pedig az örök reményt jelképezik.}
+{18600}{}{Elsõ szint tábla}
+{18601}{}{You think this could mean that you are on level one of the Brotherhood.}
+{18700}{}{Második szint tábla}
+{18701}{}{A Testvériség bázisának második szintjén tartózkodsz.}
+{18800}{}{Harmadik szint tábla}
+{18801}{}{Ez nyilván azt jelenti, hogy a Testvériség bázisának harmadik szintjén tartózkodsz.}
+{18900}{}{Negyedik szint tábla}
+{18901}{}{Nyilván a Testvériség bázisának negyedik szintjén állsz.}
+{19000}{}{Emeletes ágy}
+{19001}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{19100}{}{Emeletes ágy}
+{19101}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{19200}{}{Emeletes ágy}
+{19201}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{19300}{}{Láda}
+{19400}{}{Nuka-Cola automata}
+{19401}{}{A gép oldalán látható reklám a népszû üdítõitalt reklámozza.}
+{19500}{}{Fal}
+{19600}{}{Csapóajtó}
+{19601}{}{Ez itt egy igen jó kis csapóajtó.}
+{19700}{}{Csatornalejárat}
+{19701}{}{A csatornalejárat létrája egyenesen az alant húzódó sötétségbe vezet. Jaj, de ijesztõ...}
+{19800}{}{Oltár}
+{19801}{}{Ez nem egyéb, mint egy oltár.}
+{19900}{}{Pulpitus}
+{19901}{}{Egyes emberek az ilyen pulpitusok mögül tartanak beszédeket. Nem úgy néz ki egyébként, mint ahol bárki igazán kibontakoztathatná a beszélõképességét.}
+{20000}{}{Pad}
+{20001}{}{Ez éppen az, aminek látszik. Semmi különöset nem tudsz felfedezni a padot illetõen.}
+{20100}{}{Útjelzõ tábla}
+{20101}{}{A tábla meglehetõsen rozsdás.}
+{20200}{}{Útjelzõ tábla}
+{20201}{}{A tábla meglehetõsen rozsdás.}
+{20300}{}{Útjelzõ tábla}
+{20301}{}{A tábla meglehetõsen rozsdás.}
+{20400}{}{Útjelzõ tábla}
+{20401}{}{A tábla meglehetõsen rozsdás.}
+{20500}{}{Útjelzõ tábla}
+{20501}{}{A tábla meglehetõsen rozsdás.}
+{20600}{}{Ósdi matrac}
+{20601}{}{Egy régi, lelakott matrac. Mintha egy-két bogárszerû élõlény is kibérelte volna magának...}
+{20700}{}{Ósdi matrac}
+{20701}{}{Még ha ezen is kényszerülnél aludni, biztosíthatlak, hogy nem lennél egyedül...}
+{20800}{}{Ágy} 
+{20801}{}{Ez egy hevenyészett ágy. Az anyagokat innen-onnan guberálták.}
+{20900}{}{Ágy}
+{20901}{}{Ez egy hevenyészett ágy. Az anyagokat innen-onnan guberálták.}
+{21000}{}{Ágy}
+{21001}{}{Ez az ágy már látott jobb napokat (és valószínûleg éjszakákat is)}
+{21100}{}{Ágy}
+{21101}{}{Közelebbrõl megnézed az ágyat, és azonnal észreveszed, hogy az ágynemût már nagyon, de nagyon régóta nem cserélték.}
+{21200}{}{Ágy}
+{21201}{}{Ezen a szétaludt ágyon ki tudja, milyen eredetû folt garmadája látható.}
+{21300}{}{Ágy}
+{21301}{}{Ezt az ágyat alaposan lestrapálták már. A matrac közé bemászhatott valami, és a szaga alapján valószínûleg el is pusztult.}
+{21400}{}{Könyvszekrény}
+{21500}{}{Könyvszekrény}
+{21600}{}{Könyvszekrény}
+{21700}{}{Könyvszekrény}
+{21800}{}{Könyvszekrény}
+{21900}{}{Könyvszekrény}
+{22000}{}{Dobozok}
+{22001}{}{Ezek a fadobozok szép lassan szétmállanak az idõjárás viszontagságai miatt.}
+{22100}{}{Dobozok}
+{22101}{}{Semmi említésre méltót nem találsz ezekkel a fadobozokkal kapcsolatban.}
+{22200}{}{Dobozok}
+{22201}{}{Nagyon sok szabadidõd lehet, ha ilyen tüzetesen megvizsgálod ezt a rothadó szeméthalmot.}
+{22300}{}{Ládák}
+{22301}{}{Ezek a faládák szép lassan szétmállanak az idõjárás viszontagságai következtében.}
+{22400}{}{Autó}
+{22401}{}{Ez a kocsi szörnyû állapotban van. Ember nincs, aki össze tudná kalapálni.}
+{22500}{}{Autó}
+{22501}{}{Ez a rozsdásodó roncshalmaz már semmire sem jó.}
+{22600}{}{Autó}
+{22601}{}{Hamar megállapítod magadban, hogy ez a jármû az életben nem fog mûködni többet. Ez biztos.}
+{22700}{}{Autó}
+{22701}{}{Nincs rá eset, hogy ez a roncstelep-jelölt valaha is újra fusson.}
+{22800}{}{Autó}
+{22801}{}{Még ha az Év Szerelõje hirtelen feltûnne is melletted, együtt sem tudnátok összerakni ezt a rozsdahalmot.}
+{22900}{}{Szék}
+{22901}{}{Ez egy kényelmes szék.}
+{23000}{}{Szék}
+{23001}{}{Ez a szék látott már jobb napokat is.}
+{23100}{}{Szék}
+{23101}{}{A szék penészes és rothad, ráadásul még bûzlik is.}
+{23200}{}{Szék}
+{23201}{}{Ez a szék szétesõben van. Már nem sok ideje van hátra.}
+{23300}{}{Szék}
+{23301}{}{Ha valaki fizetne egy rakás pénzt, ezenkívül acélnadrágod lenne, talán elgondolkozhatnál azon, hogy ráülj erre a székre.}
+{23400}{}{Szék}
+{23401}{}{Ez itt nem más, mint egy régi irodai szék. Még ennyi év után is remek állapotban van.}
+{23500}{}{Szék}
+{23501}{}{Ez egy régikeletû irodai szék. Elképzelhetõ, hogy akár még egy embert is elbírna, ha ráülne.}
+{23600}{}{Szék}
+{23601}{}{Ez az irodai szék látott már szebb napokat is. Mostanra egy rakás hulladék lett belõle.}
+{23700}{}{Szék}
+{23701}{}{Ez egy olyasféle szék, ami egy temetkezési vállalkozó irodájába való. Halott.}
+{23800}{}{Íróasztal}
+{23900}{}{Íróasztal}
+{24000}{}{Ruhásszekrény}
+{24100}{}{Ruhásszekrény}
+{24200}{}{Ruhásszekrény}
+{24300}{}{Tûzcsap}
+{24301}{}{Ez nem más, mint egy tûzcsap. A mennyezetbe szerelt automata tûzoltó berendezések nélkül erre van szükség a tûzoltáshoz.}
+{24400}{}{Lámpaoszlop}
+{24401}{}{Ez az utcai lámpa szemlátomást még mindig mûködik. Látod, még mindig van egy s más, ami nem mondta fel a szolgálatot.}
+{24500}{}{Lámpaoszlop}
+{24501}{}{Ez az utcai lámpa soha többet nem fog mûködni.}
+{24600}{}{Lámpaoszlop}
+{24601}{}{Ez egy mûködõ utcai lámpa. Éjszakánként halvány, kellemes fényt bocsát ki magából, mely mire is emlékeztet... abszolúte semmire.}
+{24700}{}{Lámpaoszlop}
+{24701}{}{Ez a lámpaoszlop teljesen tönkrement. Megjavíthatatlan.}
+{24800}{}{Lámpaoszlop}
+{24801}{}{Ez a világítóberendezés -mit tesz isten- mûködik.}
+{24900}{}{Lámpaoszlop}
+{24901}{}{A lámpaoszlop búrája úgy tönkrement, hogy sosem lehetne megjavítani.}
+{25000}{}{Lámpaoszlop}
+{25001}{}{Ez egy mûködõ utcai lámpa.}
+{25100}{}{Kapu}
+{25101}{}{A kapu zárja beragadt, és a rács nagyon erõsnek tûnik.}
+{25200}{}{Kacat}
+{25201}{}{Határozottan semmit nem ér, ehhez kétség sem férhet.}
+{25300}{}{Kacat}
+{25301}{}{Határozottan semmit nem ér, ehhez kétség sem férhet.}
+{25400}{}{Kacat}
+{25401}{}{Határozottan semmit nem ér, ehhez kétség sem férhet.}
+{25500}{}{Kacat}
+{25501}{}{Határozottan semmit nem ér, ehhez kétség sem férhet.}
+{25600}{}{Kacat}
+{25601}{}{Határozottan semmit nem ér, ehhez kétség sem férhet.}
+{25700}{}{Levélláda}
+{25701}{}{A levélláda üres. Van egy olyan érzésed, hogy már jó ideje így állhat.}
+{25800}{}{Ajtó}
+{25801}{}{Egy szép kivitelû faajtó. Igen jó állapotban van.}
+{25900}{}{Ajtó}
+{25901}{}{Egy szép kivitelû faajtó. Igen jó állapotban van.}
+{26000}{}{Ajtó}
+{26001}{}{Egy szép kivitelû faajtó. Igen jó állapotban van.}
+{26100}{}{Ajtó}
+{26101}{}{Egy szép kivitelû faajtó. Igen jó állapotban van.}
+{26200}{}{Pad}
+{26201}{}{Ez a fából készült pad lassan széthullik.}
+{26300}{}{Pad}
+{26301}{}{Ezt a padot eléggé lehasználták az idõk folyamán.}
+{26400}{}{Pad}
+{26401}{}{Ez a fából készült pad egészen kiállta az idõ és használat próbáját.}
+{26500}{}{Újságautomata}
+{26501}{}{Az újságautomata üres.}
+{26600}{}{Újságautomata}
+{26601}{}{Az újságautomata üres.}
+{26700}{}{Újságautomata}
+{26701}{}{Az újságautomata üres.}
+{26800}{}{Újságautomata}
+{26801}{}{Az újságautomata üres.}
+{26900}{}{Újságautomata}
+{26901}{}{Az újságautomata üres.}
+{27000}{}{Újságautomata}
+{27001}{}{Az újságautomata üres. Úgy tûnik, szexújságokat adagolt annak idején.}
+{27100}{}{Lim-lom}
+{27101}{}{Ez az ágy szörnyû állapotban van. Még a patkányok is nagy ívben elkerülnék.}
+{27200}{}{Lim-lom}
+{27201}{}{Ez a dupla ágyba való matrac látott már jobb napokat is.}
+{27300}{}{Lim-lom}
+{27301}{}{Ez egy halom rothadt, málladozó fa. Egy rakás... szóval semmit nem ér.}
+{27400}{}{Lim-lom}
+{27401}{}{Ez egy rakás fa. Valaki néhány rozsdás szöget vert beléjük, jó mélyen, hogy még használni se lehessen.}
+{27500}{}{Dobozok}
+{27501}{}{Egy halom régikeletû kartondoboz. Alig tudod elhinni, hogy ilyen sokáig épen maradtak.}
+{27600}{}{Dobozok}
+{27601}{}{Ez egy rakás régi kartondoboz.}
+{27700}{}{Lim-lom}
+{27701}{}{Ez a valami régen egy matrac lehetett, de a környezet már teljesen szétrohasztotta.}
+{27800}{}{Sziklák}
+{27900}{}{Sziklák}
+{28000}{}{Sziklák}
+{28100}{}{Törmelék}
+{28101}{}{Egy kisebb halom kõ- és sziklatörmelék. Vigyázz, hova lépsz!}
+{28200}{}{Mosdókagyló}
+{28201}{}{Ez a mosdókagyló már régóta használhatatlan állapotban leledzik.}
+{28300}{}{Mosdókagyló}
+{28301}{}{Egy széttört porcelán mosdókagylót látsz. A lefolyónál megállt a mocskos víz, benne egy döglött patkány lebeg.}
+{28400}{}{Mosdókagyló}
+{28401}{}{Ez a mosdókagyló nemigen használható. Jókora repedés van a közepén.}
+{28500}{}{Mosdókagyló}
+{28501}{}{Egy széttört porcelán mosdókagylót látsz. A lefolyónál megállt a mocskos víz, benne egy döglött patkány lebeg.}
+{28600}{}{Stoptábla}
+{28601}{}{Ez egy vörös tábla, a közepén a STOP felirattal.}
+{28700}{}{Stoptábla}
+{28701}{}{A vörös táblán a STOP felirat olvasható. A rajta lévõ nagy golyóütötte lyuk nem a gyártás során került rá...}
+{28800}{}{Közlekedési lámpa}
+{28801}{}{Ez itt egy õsrégi közlekedési lámpa.}
+{28900}{}{Közlekedési lámpa}
+{28901}{}{Ez itt egy õsrégi közlekedési lámpa.}
+{29000}{}{Közlekedési lámpa}
+{29001}{}{Ez itt egy õsrégi közlekedési lámpa.}
+{29100}{}{Utcai lámpa} 
+{29101}{}{Ez az utcai lámpa sötétedés után nyújt igen jó szolgálatot.}
+{29200}{}{Utcai lámpa}
+{29201}{}{Ez az utcai lámpa sötétedés után nyújt igen jó szolgálatot.}
+{29300}{}{Utcai lámpa}
+{29301}{}{Ez az utcai lámpa sötétedés után nyújt igen jó szolgálatot.}
+{29400}{}{Utcai lámpa}
+{29401}{}{Ez az utcai lámpa sötétedés után nyújt igen jó szolgálatot.}
+{29500}{}{Utcai lámpa}
+{29501}{}{Ez az utcai lámpa sötétedés után nyújtana igen jó szolgálatot, ha épp nem ment volna tönkre.}
+{29600}{}{Utcai lámpa}
+{29601}{}{Ez az utcai lámpa sötétedés után nyújtana igen jó szolgálatot, ha épp nem ment volna tönkre.}
+{29700}{}{Utcai lámpa}
+{29701}{}{Ez az utcai lámpa sötétedés után nyújtana igen jó szolgálatot, ha épp nem ment volna tönkre.}
+{29800}{}{Útjelzõ tábla}
+{29801}{}{Ennek a táblának kéne jelezni, hogy milyen utcán jársz éppen, de a betûk már rég olvashatatlanná koptak rajta.}
+{29900}{}{Útjelzõ tábla}
+{29901}{}{Ennek a táblának kéne jelezni, hogy milyen utcán jársz éppen, de a betûk már rég olvashatatlanná koptak rajta.}
+{30000}{}{Asztal}
+{30001}{}{Ez a faasztal úgy ahogy még használható.}
+{30100}{}{Asztal}
+{30101}{}{Ez a faasztal úgy ahogy még használható.}
+{30200}{}{Asztal}
+{30201}{}{Ez a faasztal már nem éppen a legjobb állapotban van.}
+{30300}{}{Asztal} 
+{30301}{}{Ez a mûanyag tetejû asztal már régóta eltörhetett.}
+{30400}{}{Asztal}
+{30401}{}{Ez a hányászöldre festett faasztal már megjavíthatatlan.}
+{30500}{}{Asztal} 
+{30501}{}{Ez egy régi kávézóasztal. Az igazán alacsony mutánsok kedvéért a lapja közel van a padlóhoz.}
+{30600}{}{Asztal}
+{30601}{}{Ez egy régi kávézóasztal. Az igazán alacsony mutánsok kedvéért a lapja közel van a padlóhoz.}
+{30700}{}{WC}
+{30701}{}{A szék éles peremei miatt ez a szék elég kényelmetlen.}
+{30800}{}{WC}
+{30801}{}{Ez a vécékagyló eltört.}
+{30900}{}{WC}
+{30901}{}{Fûj! Akárki használta ezt utoljára, nem húzta le kuláját!}
+{31000}{}{WC}
+{31001}{}{Ez a vécékagyló eltört. Ha nõ vagy, nemigen használhatod.}
+{31100}{}{Szemét}
+{31101}{}{Egy-két homokba félig eltemetett csõ. Semmi fontos nincs itt. Indulás tovább!}
+{31200}{}{Szemét} 
+{31201}{}{Egy csomó üvegcserép és egyéb törmelék.}
+{31300}{}{Szemét}
+{31301}{}{Egy csomó üvegcserép és egyéb törmelék.}
+{31400}{}{Szemét}
+{31401}{}{Egy kettérepedt csõ. Úgy tûnik, addig rozsdásodott magában, amíg a saját súlyánál fogva meg nem roppant.}
+{31500}{}{Szemetes}
+{31501}{}{Szemetesedény. A felirat alig kivehetõ rajta: Tartsuk tisztán városunk utcáit!}
+{31600}{}{Fa}
+{31601}{}{Ez nem más, mint egy halott fa.}
+{31700}{}{Fa}
+{31701}{}{Ez egy rönk. Semmi izgalmas nincs benne. Az igazat megvallva ez a legeslegérdektelenebb dolgok egyike, amit valaha láttál.}
+{31800}{}{Fa}
+{31801}{}{Ez nem más, mint egy halott fa.}
+{31900}{}{Fa}
+{32000}{}{Fa}
+{32100}{}{Fa}
+{32200}{}{Teherautó}
+{32300}{}{Teherautó}
+{32301}{}{Egy dízel teherautó roncsai. Ez a rakás ócskavas soha többé nem fog elmozdulni innen.}
+{32400}{}{Teherautó}
+{32401}{}{Ezt a dízel teherautót már nem lehet megjavítani. Nagyon nem.}
+{32500}{}{Fürdõkád}
+{32501}{}{Ez a fürdõkád elrepedt és szétesett.}
+{32600}{}{Fürdõkád}
+{32601}{}{Közelebbrõl megvizsgálván a kádat rájössz, hogy ebben a vacakban te már sosem fogsz fürdeni, az biztos.}
+{32700}{}{Piszoár}
+{32701}{}{Közönséges piszoár.}
+{32800}{}{Piszoár}
+{32801}{}{Közönséges piszoár.}
+{32900}{}{Piszoár}
+{32901}{}{Közönséges piszoár. Semmi extra.}
+{33000}{}{Piszoár}
+{33001}{}{Közönséges piszoár. Semmi extra.}
+{33100}{}{Víztartály}
+{33101}{}{Ez egy folyadékok tárolására szolgáló hatalmas tartály. Esetünkben hajlamos vagy azt hinni, hogy víz tárolására találták ki.}
+{33200}{}{Ajtó}
+{33201}{}{Ez egy közönséges faajtó. Semmi extra nincs benne.}
+{33300}{}{Ajtó}
+{33301}{}{Közönséges faajtó. Ki-be járást biztosít az épület látogatói számára.}
+{33400}{}{Falilámpa}
+{33401}{}{Ez a lámpa egész jó állapotban van.}
+{33500}{}{Falilámpa}
+{33501}{}{Ez a lámpa eltörött. Nem meglepõ, hogy használhatatlan.}
+{33600}{}{Falilámpa} 
+{33601}{}{Ez a lámpa egész jó állapotban van.}
+{33700}{}{Falilámpa}
+{33701}{}{Ez a lámpa eltörött. Nem meglepõ, hogy használhatatlan.}
+{33800}{}{Falilámpa}
+{33801}{}{Ez a lámpa egész jó állapotban van.}
+{33900}{}{Falilámpa}
+{33901}{}{Ez a lámpa eltörött. Nem meglepõ, hogy használhatatlan.}
+{34000}{}{Falilámpa}
+{34001}{}{Ez a lámpa egész jó állapotban van.}
+{34100}{}{Falilámpa}
+{34101}{}{Ez a lámpa eltörött. Nem meglepõ, hogy használhatatlan.}
+{34200}{}{Elsõbbségadás tábla}
+{34201}{}{Egykor ez a tábla azt a célt szolgálta, hogy a forgalmat irányítsa.}
+{34300}{}{Elsõbbségadás tábla}
+{34301}{}{A tábla majdnem elkopott, de még látszik valamennyire a keret színe.}
+{34400}{}{Block Hex Auto Inviso}
+{34401}{}{Ha ezt látod, az a technical designer sara.}
+{34500}{}{Padló}
+{34600}{}{Ajtó} 
+{34601}{}{Ez egy díszes faajtó. Nagy szakértelemmel készült.}
+{34700}{}{Pad}
+{34701}{}{Ezt az ülõalkalmatosságot jókora betonkockák támasztják meg alulról. Nem igazán fontos, de hát te nézted ilyen áthatóan.}
+{34800}{}{Lépcsõ}
+{34801}{}{Ez a lépcsõ felfelé vezet.}
+{34900}{}{Lépcsõ}
+{34901}{}{Ez a lépcsõ felfelé vezet.}
+{35000}{}{Lépcsõ}
+{35001}{}{Ez a lépcsõ felfelé vezet.}
+{35100}{}{Lépcsõ}
+{35101}{}{Ez a lépcsõ felfelé vezet.}
+{35200}{}{Lépcsõ}
+{35201}{}{Ez a lépcsõ felfelé vezet.}
+{35300}{}{Lépcsõ}
+{35301}{}{Ez a lépcsõ felfelé vezet.}
+{35400}{}{Lépcsõ}
+{35401}{}{Ez a lépcsõ felfelé vezet.}
+{35500}{}{Lépcsõ}
+{35501}{}{Ez a lépcsõ felfelé vezet.}
+{35600}{}{Lépcsõ}
+{35601}{}{Ez a lépcsõ lefelé vezet.}
+{35700}{}{Fal}
+{35701}{}{A Katedrális külsejét bámulod.}
+{35800}{}{Fal}
+{35801}{}{A Katedrális külsejét bámulod.}
+{35900}{}{Fal}
+{35901}{}{A Katedrális külsejét bámulod.}
+{36000}{}{Fal}
+{36001}{}{A Katedrális külsejét bámulod.}
+{36100}{}{Függöny}
+{36101}{}{Ez a függöny igen elmaradott technikával készült, de a funkcióját remekül ellátja.}
+{36200}{}{Függöny}
+{36201}{}{Ez a függöny igen elmaradott technikával készült, de a funkcióját remekül ellátja.}
+{36300}{}{Tál}
+{36301}{}{Ez itt egy szépen megmunkált fatál. Arra tervezték, hogy magot õröljenek benne, aztán szétválogassák.}
+{36400}{}{Tál}
+{36401}{}{Ez itt egy szépen megmunkált fatál.}
+{36500}{}{Edény}
+{36501}{}{Egy igen nagy szakértelemmel megmunkált edényt látsz.}
+{36600}{}{Növény} 
+{36601}{}{Úgy tûnik, ez mutáns káposzta. A meleg idõt egész jól kedveli.}
+{36700}{}{Növény}
+{36701}{}{Úgy tûnik, ez mutáns káposzta. A meleg idõt egész jól kedveli.}
+{36800}{}{Talicska}
+{36801}{}{Egy otromba, de ennek ellenére hatékony mezõgazdasági talicska.}
+{36900}{}{Növény}
+{36901}{}{Mutáns kukorica. Úgy tûnik, minden további nélkül eléledgél a mostoha körülmények ellenére is.}
+{37000}{}{Növény}
+{37001}{}{Mutáns kukorica. Úgy tûnik, minden további nélkül eléledgél a mostoha körülmények ellenére is.}
+{37100}{}{Növény}
+{37101}{}{Mutáns kukorica. Úgy tûnik, minden további nélkül eléledgél a mostoha körülmények ellenére is.}
+{37200}{}{Edény}
+{37201}{}{Ez egy nagyon szépen elkészített agyagedény.}
+{37300}{}{Gereblye} 
+{37301}{}{Ez a gereblye nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{37400}{}{Gereblye}
+{37401}{}{Ez a gereblye nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{37500}{}{Gereblye}
+{37501}{}{Ez a gereblye nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{37600}{}{Lábtörlõ}
+{37601}{}{Egyszerû lábtörlõ. A készítõje igazán tehetséges volt.}
+{37700}{}{Lábtörlõ}
+{37701}{}{Egyszerû lábtörlõ. A készítõje igazán tehetséges volt.}
+{37800}{}{Lábtörlõ}
+{37801}{}{Egyszerû lábtörlõ. A készítõje igazán tehetséges volt.}
+{37900}{}{Lapát}
+{37901}{}{Ez a lapát nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{38000}{}{Lapát}
+{38001}{}{Ez a lapát nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{38100}{}{Lapát}
+{38101}{}{Ez a lapát nem a tied. Aligha tudnád meggyõzni a tulajdonosát, hogy odaadja.}
+{38200}{}{Váza}
+{38201}{}{Ez egy nagyon szép agyagváza.}
+{38300}{}{Kút}
+{38301}{}{Próbálkozhatsz, ahogy csak akarsz, ezt a kutat nem tudod elcipelni a Menedékedbe.}
+{38400}{}{Pózna}
+{38401}{}{Ez a pózna támasztja alá a jurtát.}
+{38500}{}{Pózna}
+{38501}{}{Ez a pózna támasztja alá a jurtát.}
+{38600}{}{Pózna}
+{38601}{}{Ez a pózna támasztja alá a jurtát.}
+{38700}{}{Pózna}
+{38701}{}{Ez a pózna támasztja alá a jurtát.}
+{38800}{}{Pózna}
+{38801}{}{Ez a pózna támasztja alá a jurtát.}
+{38900}{}{Pózna}
+{38901}{}{Ez a pózna támasztja alá a jurtát.}
+{39000}{}{Menedékajtó}
+{39001}{}{Ez a menedékajtó mostanság már csak egy rakás fémhulladék.}
+{39100}{}{Fal}
+{39101}{}{E nehéz ajtó csukó-nyitó szerkezete a javíthatatlanságig rongálódott.}
+{39200}{}{Dúc}
+{39201}{}{Ez a dúc segít a fal alátámasztásában.}
+{39300}{}{Dúc}
+{39301}{}{Ez a dúc segít a fal alátámasztásában.}
+{39400}{}{Dúc}
+{39401}{}{Ez a dúc segít a fal alátámasztásában.}
+{39500}{}{Dúc}
+{39501}{}{Ez a dúc segít a fal alátámasztásában.}
+{39600}{}{Fémhordó}
+{39601}{}{Rozsdás fémhordó. Üres.}
+{39700}{}{Fémhordó}
+{39701}{}{A kongó hang alapján a hordó valószínûleg üres.}
+{39800}{}{Fém hordók}
+{39801}{}{A kongó hangjuk alapján ezek a hordók minden bizonnyal üresek.}
+{39900}{}{Fém hordók}
+{39901}{}{A kongó hangjuk alapján ezek a hordók minden bizonnyal üresek.}
+{40000}{}{Kupola}
+{40001}{}{Találsz egy apró cimkét: "Az 51-es Terület tulajdona. Ha megtalálná, juttassa vissza!"}
+{40100}{}{Láda}
+{40101}{}{Ez egy hétköznapi faláda. Egész jó állapotban van.}
+{40200}{}{Láda}
+{40201}{}{Ez egy hétköznapi faláda. Egész tûrhetõ állapotban van.}
+{40300}{}{Láda}
+{40301}{}{Ez a mezei faláda a saját súlya alatt rogyott meg.}
+{40400}{}{Íróasztal}
+{40401}{}{Ez egy íróasztal, rajta számítógép.}
+{40500}{}{Íróasztal}
+{40501}{}{Ez egy íróasztal, rajta számítógép.}
+{40600}{}{Ajtó}
+{40601}{}{A faajtó egész jó állapotban van.}
+{40700}{}{Omladék}
+{40701}{}{Jókora rakás kõ. Sokkal több, mint amit csak úgy el lehetne hordani.}
+{40800}{}{Autó}
+{40801}{}{Ez az elmerült autó nemigen javítható.}
+{40900}{}{Autó}
+{40901}{}{Ez az autó egy kicsit benedvesedett, aligha lehetne vele mit kezdeni.}
+{41000}{}{Autó}
+{41001}{}{Ez az autó elég bénán parkolt le. Sajnos javíthatatlan.}
+{41100}{}{Hulladék}
+{41101}{}{Ezt a hulladékot a szennyezett tenger tette tönkre.}
+{41200}{}{Hulladék}
+{41201}{}{Ezt a hulladékot már csaknem szétmállasztotta a víz.}
+{41300}{}{Hulladék}
+{41301}{}{Ez egy szép nagy rakás mindenféle lim-lom.}
+{41400}{}{Csövek} 
+{41401}{}{Ezeket a csöveket arra használták valamikor, hogy föld alól üzemanyagot továbbítsanak a garázsba. Jó ideje senki nem használta õket.}
+{41500}{}{Csõ}
+{41501}{}{Ezeket a csöveket arra használták valamikor, hogy föld alól üzemanyagot továbbítsanak a garázsba. Jó ideje senki nem használta õket.}
+{41600}{}{Csövek}
+{41601}{}{Ezeket a csöveket arra használták valamikor, hogy föld alól üzemanyagot továbbítsanak a garázsba. Jó ideje senki nem használta õket.}
+{41700}{}{Felvonóakna}
+{41701}{}{Ez egy liftrendszer része.}
+{41800}{}{Felvonóakna}
+{41801}{}{A felvonóakna felvezet a felszínre. Eléggé megsérült.}
+{41900}{}{Felvonó}
+{41901}{}{Ez egy felvonó. Arra való, hogy a szintek között közlekedj.}
+{42000}{}{Felvonóakna}
+{42001}{}{A felvonóakna felvezet a felszínre. Eléggé megsérült.}
+{42100}{}{Felvonóajtó}
+{42101}{}{Ez az ajtó a liftbe vezset. Ha szeretnéd használni a liftet, nem árt elõbb kinyitni ezt az ajtót.}
+{42200}{}{Csõ}
+{42201}{}{Ez egy fémcsõ. A további részletek nem fontosak.}
+{42300}{}{Föld}
+{42400}{}{Doboz}
+{42500}{}{Doboz}
+{42600}{}{Doboz}
+{42700}{}{Doboz}
+{42800}{}{Sziklák} 
+{42801}{}{Sziklarakás. Nem túl érdekfeszítõ.}
+{42900}{}{Sziklák}
+{42901}{}{Sziklarakás. Nem túl érdekfeszítõ.}
+{43000}{}{Sziklák}
+{43001}{}{Egy kis rakás szikla. Abszolúte érdektelen.}
+{43100}{}{Sziklák}
+{43101}{}{Egy apró rakás szikla.}
+{43200}{}{Sziklák}
+{43201}{}{Egy apró rakás szikla.}
+{43300}{}{Sziklák}
+{43301}{}{Egy apró rakás szikla.}
+{43400}{}{Sziklák}
+{43401}{}{Egy apró rakás szikla.}
+{43500}{}{Sziklák}
+{43501}{}{Egy apró rakás szikla.}
+{43600}{}{Menedékajtó}
+{43601}{}{Ez az ajtó igencsak hasonlít a 13-as menedék ajtajához. A zárszerkezetet kiiktatták.}
+{43700}{}{Ajtó}  
+{43701}{}{Ezt a faajtót igen jó izléssel készítették. Míves megerõsítõ pántjai már-már rabul ejtõek.}
+{43800}{}{Ajtó}
+{43801}{}{Ezt a faajtót igen jó izléssel készítették. Míves megerõsítõ pántjai már-már rabul ejtõek.}
+{43900}{}{Tartály}
+{43901}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44000}{}{Tartály}
+{44001}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44100}{}{Tartály}
+{44101}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44200}{}{Tartály}
+{44201}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44300}{}{Tartály}
+{44301}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44400}{}{Tartály}
+{44401}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44500}{}{Tartály}
+{44501}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44600}{}{Tartály}
+{44601}{}{Ez valamiféle hatalmas berendezés. Nem vagy egészen biztos benne, de látsz valami zöld trutyit is benne. Jelentõs dolognak tûnik.}
+{44700}{}{Fal}
+{44800}{}{Ajtó}
+{44801}{}{Ez a biztonsági ajtó tisztességesen el van látva páncéllal.}
+{44900}{}{Nukleáris robbanófej}
+{45000}{}{Kút}
+{45001}{}{Próbálkozhatsz, ahogy csak akarsz, ezt a kutat nem tudod elcipelni a Menedékedbe.}
+{45100}{}{"Craps" asztal}
+{45101}{}{A szerencsejátékosok asztala.}
+{45200}{}{"Craps" asztal}
+{45201}{}{A szerencsejátékosok asztala.}
+{45300}{}{"Craps" asztal}
+{45301}{}{A szerencsejátékosok asztala.}
+{45400}{}{"Craps" asztal}
+{45401}{}{A szerencsejátékosok asztala.}
+{45500}{}{"Craps" asztal}
+{45501}{}{A szerencsejátékosok asztala.}
+{45600}{}{"Craps" asztal}
+{45601}{}{A szerencsejátékosok asztala.}
+{45700}{}{"Craps" asztal}
+{45701}{}{A szerencsejátékosok asztala.}
+{45800}{}{"Craps" asztal}
+{45801}{}{A szerencsejátékosok asztala.}
+{45900}{}{"Craps" asztal}
+{45901}{}{A szerencsejátékosok asztala.}
+{46000}{}{"Craps" asztal}
+{46001}{}{A szerencsejátékosok asztala.}
+{46100}{}{Szikla}
+{46101}{}{Egy apró szikla. A történetet illetõen abszolúte semmi jelentõsége.}
+{46200}{}{Szikla}
+{46300}{}{Szikla}
+{46400}{}{Szikla}
+{46500}{}{Játékautomata}
+{46501}{}{Ez nem más, mint egy pénzbedobós automata, melyet játéra használnak.}
+{46600}{}{Játékautomata}
+{46601}{}{Ez nem más, mint egy pénzbedobós automata, melyet játéra használnak.}
+{46700}{}{Ajtónyílás}
+{46800}{}{Felvonó}
+{46900}{}{Felvonó}
+{47000}{}{Felvonóajtó}
+{47100}{}{Ablak}
+{47101}{}{Üveg helyett zsírpapír borítja az ablakot.}
+{47200}{}{Ablak}
+{47201}{}{Üveg helyett zsírpapír borítja az ablakot.}
+{47300}{}{Ablak}
+{47301}{}{Üveg helyett zsírpapír borítja az ablakot.}
+{47400}{}{Ablak}
+{47401}{}{Üveg helyett zsírpapír borítja az ablakot.}
+{47500}{}{Ajtó}
+{47501}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta.}
+{47600}{}{Ajtó}
+{47601}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta.}
+{47700}{}{Ajtó}
+{47701}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta. CSAK FELTÖLTÉSRE, állítja a felirat.}
+{47800}{}{Ajtó}
+{47801}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta.}
+{47900}{}{Ajtó}
+{47901}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta.}
+{48000}{}{Ajtó}
+{48001}{}{Ezt a hatalmas görgõs ajtót valaki belülrõl leblokkolta. CSAK FELTÖLTÉSRE, állítja a felirat.}
+{48100}{}{Ajtó}
+{48101}{}{Ez az ajtó gyanúsan úgy néz ki, mint amilyen ajtókat találhatsz a raktárakban.}
+{48200}{}{Ajtó}
+{48201}{}{Ez az ajtó gyanúsan úgy néz ki, mint amilyen ajtókat találhatsz a raktárakban.}
+{48300}{}{Szélkakas}
+{48301}{}{Ez az egyszerû szélkakas segít Shady Sands polgárainak az idõjárás jobb feltérképezésében.}
+{48400}{}{Oltár}
+{48401}{}{Egy festett fából készült oltár.}
+{48500}{}{Pódium}
+{48501}{}{Ez a pódium teljesen hétköznapi azt leszámítva, hogy a Katedrális Gyermekeinek szimbólumát vésték rá.}
+{48600}{}{Oltár}
+{48700}{}{Monitor}
+{48701}{}{Ez egy hatalmas fekete-fehér monitor. A vétel egész jó ahhoz képest, hogy épületen belül van és nincs hozzá antenna.}
+{48800}{}{Monitor}
+{48801}{}{Ez egy hatalmas fekete-fehér monitor. A köpenyes figura felhevülten prédikál mindenféle vallásos dogmákat.}
+{48900}{}{Erõtér}
+{48901}{}{Ez egy igen erõs energiamezõ.}
+{49000}{}{Erõtér}
+{49001}{}{Ez egy igen erõs energiamezõ.}
+{49100}{}{Erõtér}
+{49101}{}{Ez egy igen erõs energiamezõ.}
+{49200}{}{Erõtér}
+{49201}{}{Ez egy igen erõs energiamezõ.}
+{49300}{}{Asztal}
+{49301}{}{Egy eléggé hétköznapi faasztal.}
+{49400}{}{Asztal}
+{49401}{}{Egy eléggé hétköznapi faasztal.}
+{49500}{}{Asztal}
+{49501}{}{Egy eléggé hétköznapi faasztal.}
+{49600}{}{Asztal}
+{49601}{}{Egy eléggé hétköznapi faasztal.}
+{49700}{}{Asztal}
+{49701}{}{Egy eléggé hétköznapi faasztal.}
+{49800}{}{Asztal}
+{49801}{}{Egy eléggé hétköznapi faasztal.}
+{49900}{}{Polc}
+{50000}{}{Polc}
+{50100}{}{Polc}
+{50200}{}{Polc}
+{50300}{}{Polc}
+{50400}{}{Polc}
+{50500}{}{Oltár}
+{50501}{}{Egy festett fából készült oltár.}
+{50600}{}{Oltár}
+{50601}{}{Egy festett fából készült oltár.}
+{50700}{}{Oltár}
+{50701}{}{Egy festett fából készült oltár.}
+{50800}{}{Oltár}
+{50801}{}{Egy festett fából készült oltár.}
+{50900}{}{Romhalmaz}
+{50901}{}{Ez a romhalmaz a leomlott mennyezetbõl jött létre. A köteled visszavezet a felszínre.}
+{51000}{}{Könyvespolc}
+{51100}{}{Könyvespolc}
+{51200}{}{Könyvespolc}
+{51300}{}{Könyvespolc}
+{51400}{}{Könyvespolc}
+{51500}{}{Könyvespolc}
+{51600}{}{Asztal}
+{51601}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{51700}{}{Asztal}
+{51701}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{51800}{}{Asztal}
+{51801}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{51900}{}{Asztal}
+{51901}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{52000}{}{Asztal}
+{52001}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{52100}{}{Asztal}
+{52101}{}{Ez a jókora asztal fontosnak tûnik. Lehet, hogy itt tartják a megbeszéléseket?}
+{52200}{}{Oltár}
+{52201}{}{Az oltárt az Acél Testvérisége tervezte és használja. A szimbólumuk hivalkodóan virít rajta.}
+{52300}{}{Oltár}
+{52301}{}{Az oltárt az Acél Testvérisége tervezte és használja. A szimbólumuk hivalkodóan virít rajta.}
+{52400}{}{Oltár}
+{52401}{}{Az oltárt az Acél Testvérisége tervezte és használja. A szimbólumuk hivalkodóan virít rajta.}
+{52500}{}{Padozat}
+{52501}{}{Egy szépen megmunkált, de istentelenül kényelmetlen padozat.}
+{52600}{}{Pódium}
+{52601}{}{Ez egy szépen elkészített pódium. A beszélõvel szemben egy súgómonitor áll.}
+{52700}{}{Utánfutó}
+{52701}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{52800}{}{Utánfutó}
+{52801}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{52900}{}{Utánfutó}
+{52901}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{53000}{}{Utánfutó}
+{53001}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{53100}{}{Utánfutó}
+{53101}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{53200}{}{Utánfutó}
+{53201}{}{A karaván utánfutóját egy régi automobil roncsainak maradványaiból tákolták össze.}
+{53300}{}{Szõnyeg}
+{53301}{}{Edzõszõnyeg.}
+{53400}{}{Szõnyeg}
+{53401}{}{Edzõszõnyeg.}
+{53500}{}{Szõnyeg}
+{53501}{}{Edzõszõnyeg.}
+{53600}{}{Szõnyeg}
+{53601}{}{Edzõszõnyeg.}
+{53700}{}{Boksz-zsák}
+{53701}{}{Ez egy StrongMan(tm) boksz-zsák.}
+{53800}{}{Lépcsõmászó-gép}
+{53801}{}{Edzõgép.}
+{53900}{}{Lépcsõmászó-gép}
+{54000}{}{Futógép}
+{54001}{}{Edzõgép.}
+{54100}{}{Futógép}
+{54101}{}{Edzõgép.}
+{54200}{}{Fekvenyomó pad}
+{54201}{}{Edzõgép.}
+{54300}{}{Fekvenyomó pad}
+{54301}{}{Edzõgép.}
+{54400}{}{Híd}
+{54401}{}{Ez a sebtiben összetákolt híd átjárást biztosít az árok felett, melyet zöld, izzó trutyival árasztottak el.}
+{54500}{}{Híd}
+{54501}{}{Ez a sebtiben összetákolt híd átjárást biztosít az árok felett, melyet zöld, izzó trutyival árasztottak el.}
+{54600}{}{Rulettasztal}
+{54601}{}{A szerencsejátékosok asztala.}
+{54700}{}{Rulettasztal}
+{54701}{}{A szerencsejátékosok asztala.}
+{54800}{}{Rulettasztal}
+{54801}{}{A szerencsejátékosok asztala.}
+{54900}{}{Rulettasztal}
+{54901}{}{A szerencsejátékosok asztala.}
+{55000}{}{Rulettasztal}
+{55001}{}{A szerencsejátékosok asztala.}
+{55100}{}{Hordó}
+{55101}{}{Ez az üres fémhordó a nukleáris anyag nemzetközi sárga jelét hordozza magán.}
+{55200}{}{Hordó}
+{55201}{}{A hordóban valami zöld, izzó trutymó van. A nukleáris anyagok nemzetközileg elfogadott piktogrammja elárulja, hogy mi lehet benne.}
+{55300}{}{Számítógép}
+{55301}{}{Ez egy nagyon modern kinézetû számítógép.}
+{55400}{}{Számítógép}
+{55401}{}{Ez egy nagyon modern kinézetû számítógép.}
+{55500}{}{Létfenntartó tartály}
+{55501}{}{Ez valamiféle orvosi vagy egyéb kísérleti berendezés. Egy emberi, sõt még egy nagyobb testet is be tudna fogadni.}
+{55600}{}{Törött létfenntartó tartály}
+{55601}{}{Ez a berendezés széttört. Javíthatatlan.}
+{55700}{}{Központi számítógép}
+{55701}{}{Ez egy hatalmas szuper-számítógép. Valószínûleg a leggyorsabb számítógép, amivel valaha találkoztál.}
+{55800}{}{Tartószerkezet}
+{55801}{}{Ez a szerkezet ad biztos alapot a hûtõtartályok fölött lévõ óriási szuper-számítógépnek.}
+{55900}{}{Dont use}
+{56000}{}{Dont use}
+{56100}{}{Ágy} 
+{56101}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{56200}{}{Ágy}
+{56201}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{56300}{}{Ágy}
+{56301}{}{Ez egy katonai emeletes ágy. Nagyon, de nagyon kényelmetlennek tûnik, de meg kell hagyni, az ágynemû igazán sarkosra van kialakítva.}
+{56400}{}{Kábel}
+{56401}{}{Ez valamiféle soros kábel...}
+{56500}{}{Kábel}
+{56501}{}{Ez valamiféle soros kábel...}
+{56600}{}{Cégér}
+{56601}{}{A cégér szerint ez itt egy BÁR. Eléggé önmagáért beszél...}
+{56700}{}{Gerenda}
+{56701}{}{Ez az erõs gerenda a kráter fölé nyúlik...}
+{56800}{}{Gerenda}
+{56801}{}{Itt látható a gerendához erõsített köteled. Úgy tûnik, most már lemászhatsz a kráterbe.}
+{56900}{}{Polcok}
+{56901}{}{Közönséges fémpolcokat látsz magad elõtt.}
+{57000}{}{Polcok}
+{57001}{}{Közönséges fémpolcokat látsz magad elõtt.}
+{57100}{}{Polcok}
+{57101}{}{Közönséges fémpolcokat látsz magad elõtt.}
+{57200}{}{Polcok}
+{57201}{}{Közönséges fémpolcokat látsz magad elõtt.}
+{57300}{}{Bozót}
+{57301}{}{Valamiféle sivatagi növényzet. A történet szempontjából érdektelen.}
+{57400}{}{Bozót}
+{57401}{}{Valamiféle sivatagi növényzet.}
+{57500}{}{Bozót}
+{57501}{}{Valamiféle sivatagi növényzet.}
+{57600}{}{Felszín}
+{57601}{}{Szép kilátás nyílik innen a Csonttelepre. Igazi fogalmat tudsz alkotni róla, milyen magasan is vagy valójában.}
+{57700}{}{Felszín}
+{57701}{}{Szép kilátás nyílik innen a Csonttelepre.}
+{57800}{}{Fal}
+{57801}{}{Jó kilátás nyílik innen a Katedrálist körülvevõ területre.}
+{57900}{}{Fal}
+{57901}{}{Jó kilátás nyílik innen a Katedrálist körülvevõ területre.}
+{58000}{}{Fal}
+{58001}{}{Jó kilátás nyílik innen a Katedrálist körülvevõ területre.}
+{58100}{}{Ajtó}
+{58101}{}{Ez az ajtó tökéletesen megfelel cellaajtónak.}
+{58200}{}{Cégér}
+{58201}{}{A cégér tanúsága szerint ez itt Darkwater boltja.}
+{58300}{}{Létra}
+{58301}{}{Ez a létra az alant látható sötétbe vezet...}
+{58400}{}{Létra}
+{58401}{}{Ez a létra az alant látható sötétbe vezet...}
+{58500}{}{Gépezet}
+{58501}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{58600}{}{Gépezet}
+{58601}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{58700}{}{Gépezet}
+{58701}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{58800}{}{Gépezet}
+{58801}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{58900}{}{Gépezet}
+{58901}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{59000}{}{Gépezet}
+{59001}{}{Ez valami ósdi nyomdagép vagy hasonló ketyere.}
+{59100}{}{Asztal}
+{59101}{}{Ez egy igen jó állapotban lévõ asztal, a közepén lefolyóval.}
+{59200}{}{Asztal}
+{59201}{}{Ez egy igen jó állapotban lévõ asztal, a közepén lefolyóval.}
+{59300}{}{Asztal}
+{59301}{}{Az asztalt valamiféle biomassza borítja.}
+{59400}{}{Asztal}
+{59401}{}{Az asztalt valamiféle biomassza borítja.}
+{59500}{}{Asztal}
+{59501}{}{Az asztalt valamiféle biomassza borítja.}
+{59600}{}{Hirdetõtábla}
+{59601}{}{A táblára számos álláshirdetést biggyesztettek. Elég sokan használhatják.}
+{59700}{}{Õrbódé}
+{59701}{}{Ez az õrbódé legalább száz éves, de még mindig jó állapotban van.}
+{59800}{}{Cégér}
+{59801}{}{A cégér tanúsága szerint ez egy vegyesbolt.}
+{59900}{}{Cégér}
+{59901}{}{A cégér tanúsága szerint ez egy vegyesbolt.}
+{60000}{}{Cégér}
+{60001}{}{A felirat szerint ez itt a Piac.}
+{60100}{}{Trutyi}
+{60101}{}{Ez az izé nagyon egészségtelennek néz ki. Mielõtt bele akarnál menni, nem ártana valami védõfelszerelés.}
+{60200}{}{Trutyi}
+{60201}{}{Ez az izé nagyon egészségtelennek néz ki. Mielõtt bele akarnál menni, nem ártana valami védõfelszerelés.}
+{60300}{}{Trutyi}
+{60301}{}{Ez az izé nagyon egészségtelennek néz ki. Mielõtt bele akarnál menni, nem ártana valami védõfelszerelés.}
+{60400}{}{Asztal}
+{60401}{}{Ez egy egész jópofa fémasztal.}
+{60500}{}{Asztal}
+{60501}{}{Ez egy egész jópofa fémasztal.}
+{60600}{}{Asztal}
+{60601}{}{Ez egy egész jópofa fémasztal.}
+{60700}{}{Asztal}
+{60701}{}{Ez egy egész jópofa fémasztal.}
+{60800}{}{Asztal}
+{60801}{}{Ezt a fémasztalt nagyon elhanyagolták, rendesen kikezdte a rozsda.}
+{60900}{}{Asztal}
+{60901}{}{Ez egy pofás asztal a rozsdát leszámítva.}
+{61000}{}{Asztal}
+{61001}{}{Ez egy pofás asztal a rozsdát leszámítva.}
+{61100}{}{Asztal}
+{61101}{}{Ez egy pofás asztal a rozsdát leszámítva.}
+{61200}{}{Tûzrakás}
+{61201}{}{Szépen ég benne a tûz.}
+{61300}{}{Tükör}
+{61301}{}{Nézegeted magad egy darabig.}
+{61400}{}{Tükör}
+{61401}{}{Megbámulod a tükörképedet...}
+{61500}{}{Mosdó}
+{61501}{}{Egy tökéletesen mûködõ mosdó. Szép tiszta is egyúttal, ami elég meglepõ.}
+{61600}{}{WC}
+{61601}{}{Ez a WC nagyon tiszta, és még mûködik is.}
+{61700}{}{Piszoár}
+{61701}{}{Ez egy mûködõ piszoár.}
+{61800}{}{WC}
+{61801}{}{Ha elvakult WC-rajongó lennél, talán még szépnek is nevezhetnéd.}
+{61900}{}{Mosdókagyló}
+{61901}{}{Ez a mosdókagyló tökéletes állapotban van.}
+{62000}{}{Piszoár}
+{62001}{}{Ez a piszoár igen jó állapotban van.}
+{62100}{}{Zuhanyzó}
+{62101}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62200}{}{Zuhanyzó}
+{62201}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62300}{}{Zuhanyzó}
+{62301}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62400}{}{Zuhanyzó}
+{62401}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62500}{}{Zuhanyzó}
+{62501}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62600}{}{Zuhanyzó}
+{62601}{}{Katonáknak rendszeresített zuhanyzó. Hétköznapi ember viszolyogna tõle.}
+{62700}{}{Ágy}
+{62701}{}{Ez az ágy igazán kényelmesnek tûnik.}
+{62800}{}{Ágy}
+{62801}{}{Ez az ágy igazán kényelmesnek tûnik.}
+{62900}{}{Ágy} 
+{62901}{}{Ez itt egy jól megerõsített emeletes ágy.}
+{63000}{}{Ágy}
+{63001}{}{Ez itt egy jól megerõsített emeletes ágy.}
+{63100}{}{Ágy}
+{63101}{}{Ez itt egy jól megerõsített emeletes ágy.}
+{63200}{}{Terminál}
+{63300}{}{Terminál}
+{63400}{}{Zászló}
+{63401}{}{Ez a zászló a Katedrális Gyermekeinek szimbóluma.}
+{63500}{}{Zászló}
+{63501}{}{Ez a zászló a Katedrális Gyermekeinek szimbóluma.}
+{63600}{}{Zászló}
+{63601}{}{Ez a zászló a Katedrális Gyermekeinek szimbóluma.}
+{63700}{}{Számítógép}
+{63701}{}{Egy termetes számítógép.}
+{63800}{}{Számítógép}
+{63801}{}{Egy termetes számítógép.}
+{63900}{}{Számítógép}
+{63901}{}{Egy termetes számítógép.}
+{64000}{}{Terminál}
+{64001}{}{Ez egy nagy számítógép terminálja.}
+{64100}{}{Holttest}
+{64101}{}{Úgy tûnik, ez az illetõ igen fájdalmas halált halt.}
+{64200}{}{Holttest}
+{64201}{}{Úgy tûnik, ez az illetõ igen fájdalmas halált halt.}
+{64300}{}{Holttest}
+{64301}{}{Úgy tûnik, ez az illetõ igen fájdalmas halált halt.}
+{64400}{}{Holttest}
+{64401}{}{Úgy tûnik, ez az illetõ igen fájdalmas halált halt.}
+{64500}{}{Ajtó}
+{64501}{}{Ez az eltorlaszolt ajtó jó szolgálatot tesz cellaajtóként.}
+{64600}{}{Terminál}
+{64700}{}{Terminál}
+{64800}{}{Targonca}
+{64801}{}{Ez a targonca nem mûködik.}
+{64900}{}{Targonca}
+{64901}{}{Ez a targonca nem mûködik.}
+{65000}{}{Berendezés}
+{65100}{}{Orvosi asztal}
+{65101}{}{Ez egy igen-igen rozsdás asztal. A közepén lévõ lefolyó eldugult.}
+{65200}{}{Orvosi asztal}
+{65201}{}{Ez egy igen-igen rozsdás asztal.}
+{65300}{}{Kapu}
+{65301}{}{A kapun egy fel-le mozgatható rúd látható.}
+{65400}{}{Csõ}
+{65500}{}{Csõ}
+{65600}{}{Áramgenerátor}
+{65601}{}{Egy Wattz ElectroBox áramgenerátor. A békebeli idõkben elég elterjedt volt.}
+{65700}{}{Tartály}
+{65701}{}{Ez egy jó nagy víztartály. Szépen karban van tartva, és ez jó dolog.}
+{65800}{}{Rendõrségi láda}
+{65801}{}{Az Egyesült Királyságból származó rendõrségi láda úgy 1960 tájékáról.}
+{65900}{}{Asztal}
+{65901}{}{Ez egy igen szépen elkészített asztal. Kézimunka, és bizony sokkal szebb bármi ilyesminél, amit valaha is láttál.}
+{66000}{}{Asztal}
+{66001}{}{Ez egy igen szépen elkészített asztal. Kézimunka, és bizony sokkal szebb bármi ilyesminél, amit valaha is láttál.}
+{66100}{}{Asztal}
+{66101}{}{Ez egy igen szépen elkészített asztal. Kézimunka, és bizony sokkal szebb bármi ilyesminél, amit valaha is láttál.}
+{66200}{}{Szék}
+{66201}{}{Ez a szék nagyon mutatós.}
+{66300}{}{Szék}
+{66301}{}{Ez a szék nagyon mutatós.}
+{66400}{}{Szék}
+{66401}{}{Ez a szék nagyon mutatós.}
+{66500}{}{Szék}
+{66501}{}{Ez a szék nagyon mutatós.}
+{66600}{}{Szék}
+{66601}{}{Ez a szék nagyon mutatós.}
+{66700}{}{Szék}
+{66701}{}{Ez a szék nagyon mutatós.}
+{66800}{}{Szék}
+{66801}{}{Ez a szék nagyon mutatós.}
+{66900}{}{Szék}
+{66901}{}{Ez a szék nagyon mutatós.}
+{67000}{}{Szék}
+{67001}{}{Ez a szék nagyon mutatós.}
+{67100}{}{Szék}
+{67101}{}{Ez a szék nagyon mutatós.}
+{67200}{}{Szék}
+{67201}{}{Ez a szék nagyon mutatós.}
+{67300}{}{Szék}
+{67301}{}{Ez a szék nagyon mutatós.}
+{67400}{}{Szék}
+{67401}{}{Ez a szék nagyon mutatós.}
+{67500}{}{Szék}
+{67501}{}{Ez a szék nagyon mutatós.}
+{67600}{}{Szék}
+{67601}{}{Ez a szék nagyon mutatós.}
+{67700}{}{Szék}
+{67701}{}{Ez a szék nagyon mutatós.}
+{67800}{}{Ágy}
+{67801}{}{Ez egy igen takaros ágy.}
+{67900}{}{Ágy}
+{67901}{}{Ez egy igen takaros ágy.}
+{68000}{}{Ágy}
+{68001}{}{Ez egy igen takaros ágy.}
+{68100}{}{Ágy}
+{68101}{}{Ez egy igen takaros ágy.}
+{68200}{}{Kályha}
+{68201}{}{Ez egy mûködõ fatüzeléses kályha.}
+{68300}{}{Kályha}
+{68301}{}{Ez egy mûködõ fatüzeléses kályha.}
+{68400}{}{Kályha}
+{68401}{}{Ez egy mûködõ fatüzeléses kályha.}
+{68500}{}{Kályha}
+{68501}{}{Ez egy mûködõ fatüzeléses kályha.}
+{68600}{}{Eltört oszlop}
+{68700}{}{Megsemmisült bejárat}
+{68800}{}{Sziklák}
+{68801}{}{Ez egy nagy sziklaalakzat. Nem a természet mûve.}
+{68900}{}{Sziklák}
+{68901}{}{Ez egy nagy sziklaalakzat. Nem a természet mûve.}
+{69000}{}{WC}
+{69001}{}{Egy hevenyészett, de azért használható vécé. A lyukba néhány levelet szórtak, hogy enyhítse a terjengõ szagokat.}
+{69100}{}{Hegy}
+{69101}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69200}{}{Hegy}
+{69201}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69300}{}{Hegy}
+{69301}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69400}{}{Hegy}
+{69401}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69500}{}{Hegy}
+{69501}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69600}{}{Hegy}
+{69601}{}{Ezek a hegyek eléggé megmászhatatlannak tûnnek.}
+{69700}{}{Trutyi}
+{69701}{}{Valami fura, émelyítõ biotrutyi.}
+{69800}{}{Trutyi}
+{69801}{}{Valami fura, émelyítõ biotrutyi.}
+{69900}{}{Trutyi}
+{69901}{}{Valami fura, émelyítõ biotrutyi.}
+{70000}{}{Trutyi}
+{70001}{}{Valami fura, émelyítõ biotrutyi.}
+{70100}{}{Trutyi}
+{70101}{}{Valami fura, émelyítõ biotrutyi.}
+{70200}{}{Trutyi}
+{70201}{}{Valami fura, émelyítõ biotrutyi.}
+{70300}{}{Trutyi}
+{70301}{}{Valami fura, émelyítõ biotrutyi.}
+{70400}{}{Trutyi}
+{70401}{}{Valami fura, émelyítõ biotrutyi.}
+{70500}{}{Trutyi}
+{70501}{}{Valami fura, émelyítõ biotrutyi.}
+{70600}{}{Trutyi}
+{70601}{}{Valami fura, émelyítõ biotrutyi.}
+{70700}{}{Trutyi}
+{70701}{}{Valami fura, émelyítõ biotrutyi.}
+{70800}{}{Trutyi}
+{70801}{}{Valami fura, émelyítõ biotrutyi.}
+{70900}{}{Trutyi}
+{70901}{}{Valami fura, émelyítõ biotrutyi.}
+{71000}{}{Trutyi}
+{71001}{}{Valami fura, émelyítõ biotrutyi.}
+{71100}{}{Trutyi}
+{71101}{}{Valami fura, émelyítõ biotrutyi.}
+{71200}{}{Trutyi}
+{71201}{}{Valami fura, émelyítõ biotrutyi.}
+{71300}{}{Trutyi}
+{71301}{}{Valami fura, émelyítõ biotrutyi.}
+{71400}{}{Trutyi}
+{71401}{}{Valami fura, émelyítõ biotrutyi.}
+{71500}{}{Trutyi}
+{71501}{}{Valami fura, émelyítõ biotrutyi.}
+{71600}{}{Trutyi}
+{71601}{}{Valami fura, émelyítõ biotrutyi.}
+{71700}{}{Trutyi}
+{71701}{}{Valami fura, émelyítõ biotrutyi.}
+{71800}{}{Trutyi}
+{71801}{}{Valami fura, émelyítõ biotrutyi.}
+{71900}{}{Trutyi}
+{71901}{}{Valami fura, émelyítõ biotrutyi.}
+{72000}{}{Trutyi}
+{72001}{}{Valami fura, émelyítõ biotrutyi.}
+{72100}{}{Trutyi}
+{72101}{}{Valami fura, émelyítõ biotrutyi.}
+{72200}{}{Trutyi}
+{72201}{}{Valami fura, émelyítõ biotrutyi.}
+{72300}{}{Trutyi}
+{72301}{}{Valami fura, émelyítõ biotrutyi.}
+{72400}{}{Trutyi}
+{72401}{}{Valami fura, émelyítõ biotrutyi.}
+{72500}{}{Trutyi}
+{72501}{}{Valami fura, émelyítõ biotrutyi.}
+{72600}{}{Trutyi}
+{72601}{}{Valami fura, émelyítõ biotrutyi.}
+{72700}{}{Trutyi}
+{72701}{}{Valami fura, émelyítõ biotrutyi.}
+{72800}{}{Trutyi}
+{72801}{}{Valami fura, émelyítõ biotrutyi.}
+{72900}{}{Trutyi}
+{72901}{}{Valami fura, émelyítõ biotrutyi.}
+{73000}{}{Trutyi}
+{73001}{}{Valami fura, émelyítõ biotrutyi.}
+{73100}{}{Trutyi}
+{73101}{}{Valami fura, émelyítõ biotrutyi.}
+{73200}{}{Trutyi}
+{73201}{}{Valami fura, émelyítõ biotrutyi.}
+{73300}{}{Trutyi}
+{73301}{}{Valami fura, émelyítõ biotrutyi.}
+{73400}{}{Trutyi}
+{73401}{}{Valami fura, émelyítõ biotrutyi.}
+{73500}{}{Trutyi}
+{73501}{}{Valami fura, émelyítõ biotrutyi.}
+{73600}{}{Trutyi}
+{73601}{}{Valami fura, émelyítõ biotrutyi.}
+{73700}{}{Trutyi}
+{73701}{}{Valami fura, émelyítõ biotrutyi.}
+{73800}{}{Trutyi}
+{73801}{}{Valami fura, émelyítõ biotrutyi.}
+{73900}{}{Trutyi}
+{73901}{}{Valami fura, émelyítõ biotrutyi.}
+{74000}{}{Trutyi}
+{74001}{}{Valami fura, émelyítõ biotrutyi.}
+{74100}{}{Trutyi}
+{74101}{}{Valami fura, émelyítõ biotrutyi.}
+{74200}{}{Trutyi}
+{74201}{}{Valami fura, émelyítõ biotrutyi.}
+{74300}{}{Trutyi}
+{74301}{}{Valami fura, émelyítõ biotrutyi.}
+{74400}{}{Trutyi}
+{74401}{}{Valami fura, émelyítõ biotrutyi.}
+{74500}{}{Trutyi}
+{74501}{}{Valami fura, émelyítõ biotrutyi.}
+{74600}{}{Trutyi}
+{74601}{}{Valami fura, émelyítõ biotrutyi.}
+{74700}{}{Trutyi}
+{74701}{}{Valami fura, émelyítõ biotrutyi.}
+{74800}{}{Trutyi}
+{74801}{}{Valami fura, émelyítõ biotrutyi.}
+{74900}{}{Számítógép}
+{74901}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75000}{}{Számítógép}
+{75001}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75100}{}{Számítógép}
+{75101}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75200}{}{Számítógép}
+{75201}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75300}{}{Számítógép}
+{75301}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75400}{}{Számítógép}
+{75401}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75500}{}{Számítógép}
+{75501}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75600}{}{Számítógép}
+{75601}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75700}{}{Számítógép}
+{75701}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75800}{}{Számítógép}
+{75801}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{75900}{}{Számítógép}
+{75901}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{76000}{}{Számítógép}
+{76001}{}{A számítógépre került trutymó miatt elég nehéz hozzáférni a szerkezethez.}
+{76100}{}{Monitorok}
+{76101}{}{Mivel a monitort tetemes mennyiségû trutymó borítja, semmit nem tudsz leolvasni a képernyõkrõl.}
+{76200}{}{Monitorok}
+{76201}{}{Mivel a monitort tetemes mennyiségû trutymó borítja, semmit nem tudsz leolvasni a képernyõkrõl.}
+{76300}{}{Monitorok}
+{76301}{}{Mivel a monitort tetemes mennyiségû trutymó borítja, semmit nem tudsz leolvasni a képernyõkrõl.}
+{76400}{}{Monitorok}
+{76401}{}{Mivel a monitort tetemes mennyiségû trutymó borítja, semmit nem tudsz leolvasni a képernyõkrõl.}
+{76500}{}{Padló}
+{76501}{}{Meg mernél esküdni, hogy valami mozog a padlón.}
+{76600}{}{Emelvény}
+{76601}{}{Ez az emelvény azt a benyomást kelti, mintha lassan lélegezne.}
+{76700}{}{Padló}
+{76800}{}{Bomba}
+{76801}{}{Ez egy nukleáris bomba. Elég veszélyesnek tûnik.}
+{76900}{}{Tartókeret}
+{76901}{}{Ez a keret támasztja alá a rajta nyugvó atombombát.}
+{77000}{}{Számítógép konzol}
+{77001}{}{Ez itt a nukleáris bomba számítógépe. Eléggé agyonbiztosítottnak tûnik, és ahogy jobban megnézed, a paneljén egy furcsa alakú kulcs befogadására alkalmas nyílást látsz.}
+{77100}{}{Kábelek}
+{77101}{}{Ezek a kábelek kötik össze a bombát a számítógépével.}
+{77200}{}{Szék}
+{77201}{}{Semmi különöset nem látsz ezen a széken.}
+{77300}{}{Szék}
+{77301}{}{Semmi különöset nem látsz ezen a széken.}
+{77400}{}{Szék}
+{77401}{}{Semmi különöset nem látsz ezen a széken.}
+{77500}{}{Szék}
+{77501}{}{Semmi különöset nem látsz ezen a széken.}
+{77600}{}{Szék}
+{77601}{}{Semmi különöset nem látsz ezen a széken.}
+{77700}{}{Szék}
+{77701}{}{Semmi különöset nem látsz ezen a széken.}
+{77800}{}{Szék}
+{77801}{}{Semmi különöset nem látsz ezen a széken.}
+{77900}{}{Szék}
+{77901}{}{Semmi különöset nem látsz ezen a széken.}
+{78000}{}{Oszlop}
+{78001}{}{Ez egy támtartó oszlop.}
+{78100}{}{Oszlop}
+{78101}{}{Ez egy támtartó oszlop.}
+{78200}{}{Oszlop}
+{78201}{}{Ez egy támtartó oszlop.}
+{78300}{}{Oszlop}
+{78301}{}{Ez egy támtartó oszlop.}
+{78400}{}{Ágy}
+{78401}{}{Ez az ágy igen ramaty állapotban van.}
+{78500}{}{Ágy}
+{78501}{}{Ez az ágy elég rossz állapotban van.}
+{78600}{}{Ágy}
+{78601}{}{Ez az ágy igen rossz állapotban van.}
+{78700}{}{Ágy}
+{78701}{}{Ez az ágy látott már jobb napokat is.}
+{78800}{}{Monitorok}
+{78801}{}{Ezek a monitorok kitörtek, ezért mûködésképtelenek.}
+{78900}{}{Monitorok}
+{78901}{}{Ezek a monitorok kitörtek, ezért mûködésképtelenek.}
+{79000}{}{Monitorok}
+{79001}{}{Ezek a monitorok kitörtek, ezért mûködésképtelenek.}
+{79100}{}{Monitorok}
+{79101}{}{Ezek a monitorok kitörtek, ezért mûködésképtelenek.}
+{79200}{}{Ventillátor}
+{79201}{}{Ebbõl a ventillátorból alig-alig jön friss levegõ.}
+{79300}{}{Ventillátor}
+{79301}{}{Szinte egy deka friss levegõ sem jön ebbõl a ventillátorból.}
+{79400}{}{Ventillátor}
+{79401}{}{Ebbõl a ventillátorból nem jön friss levegõ.}
+{79500}{}{Ventillátor}
+{79501}{}{Ebbõl a ventillátorból elenyészõ mennyiségû friss levegõ érkezik.}
+{79600}{}{Asztal}
+{79601}{}{Semmi különöset nem látsz a asztallal kapcsolatban, kivéve, hogy megsemmisült.}
+{79700}{}{Asztal}
+{79701}{}{Ez az asztal csúnyán tönkrement.}
+{79800}{}{Asztal}
+{79801}{}{Ez az asztal igencsak rossz állapotban van.}
+{79900}{}{Asztal}
+{79901}{}{Semmi indok nincs arra, hogy ilyen tüzetesen nézegesd ezt az asztalt.}
+{80000}{}{Monitorok}
+{80001}{}{Az itt látható monitorok képernyõi mind kipurcantak.}
+{80100}{}{Monitorok}
+{80101}{}{Az itt látható monitorok képernyõi a javíthatatlanságig tönkrementek.}
+{80200}{}{Monitor}
+{80201}{}{A monitor képernyõje betört és szétment.}
+{80300}{}{Monitor}
+{80301}{}{Betört képernyõvel ez a monitor semmit sem ér.}
+{80400}{}{Számítógép}
+{80401}{}{Ez a számítógép tönkrement.}
+{80500}{}{Számítógép}
+{80501}{}{Ez a számítógép tönkrement.}
+{80600}{}{Számítógép}
+{80601}{}{Ez a számítógép tönkrement.}
+{80700}{}{Szék}
+{80701}{}{Ez a szék széttört.}
+{80800}{}{Szék}
+{80801}{}{Ez a szék széttört.}
+{80900}{}{Szék}
+{80901}{}{Ez a szék széttört.}
+{81000}{}{Szék}
+{81001}{}{Ez a szék széttört.}
+{81100}{}{Ventillátor}
+{81101}{}{Ez a ventillátor a javíthatatlanságig tönkrement.}
+{81200}{}{Ventillátor}
+{81201}{}{Ez a ventillátor annyira tönkrement, hogy nem lehet megjavítani.}
+{81300}{}{Ventillátor}
+{81301}{}{Ez a ventillátor egyáltalán nem mûködik.}
+{81400}{}{Számítógép} 
+{81401}{}{Ebben a számítógépben épp csak pislákol az élet.}
+{81500}{}{Számítógép}
+{81501}{}{Ebben a számítógépben épp csak pislákol az élet.}
+{81600}{}{Monitor}
+{81601}{}{Ez a monitor épp hogy csak mûködik.}
+{81700}{}{Monitor}
+{81701}{}{Ez a monitor épp hogy csak mûködik.}
+{81800}{}{Számítógép}
+{81801}{}{Ez a számítógép nem funkcionál.}
+{81900}{}{Számítógép}
+{81901}{}{Ez a számítógép nem funkcionál.}
+{82000}{}{Monitor}
+{82001}{}{Ez a monitor nem mûködik.}
+{82100}{}{Monitor}
+{82101}{}{Ez a monitor nem mûködik.}
+{82200}{}{Ajtónyílás}
+{82201}{}{Nagyon szép darab. Egész jól betölti a funkcióját.}
+{82300}{}{Monitorok}
+{82301}{}{Ezek a monitorok jó állapotban vannak.}
+{82400}{}{Monitorok}
+{82401}{}{Ezek a monitorok jó állapotban vannak.}
+{82500}{}{Fal}
+{82600}{}{Bankszéf ajtó}
+{82601}{}{Ez itt egy igencsak masszív trezorajtó. Nem az a fajta, amit csak úgy meg lehet piszkálni.}
+{82700}{}{Fény}
+{82701}{}{Ez egy biztonsági lámpa.}
+{82800}{}{Fény}
+{82801}{}{Ez egy biztonsági lámpa.}
+{82900}{}{Oszlop}
+{82901}{}{Ez az oszlop Shady Sands fõterének látványossága. Olyan történeteket mesél el, amelyek fenntartják a reményt és a békét az emberekben.}
+{83000}{}{Robot beállóhely}
+{83001}{}{Ez egy robot újrafeltöltõ állomás. Ha nincsenek szolgálatban, a robotok ideállnak, lekapcsolják magukat, és feltöltõdnek.}
+{83100}{}{Robot beállóhely}
+{83101}{}{Ez egy robot újrafeltöltõ állomás. Ha nincsenek szolgálatban, a robotok ideállnak, lekapcsolják magukat, és feltöltõdnek.}
+{83200}{}{Robot beállóhely}
+{83201}{}{Ez egy robot újrafeltöltõ állomás. Ha nincsenek szolgálatban, a robotok ideállnak, lekapcsolják magukat, és feltöltõdnek.}
+{83300}{}{Robot beállóhely}
+{83301}{}{Ez egy robot újrafeltöltõ állomás. Ha nincsenek szolgálatban, a robotok ideállnak, lekapcsolják magukat, és feltöltõdnek.}
+{83400}{}{Robot beállóhely}
+{83401}{}{Ez egy robot újrafeltöltõ állomás. Ha nincsenek szolgálatban, a robotok ideállnak, lekapcsolják magukat, és feltöltõdnek.}
+{83500}{}{Gépezet}
+{83501}{}{Ennek a masinának van valami köze a robot szervizfülkékhez. Nem igazán érdekes látvány.}
+{83600}{}{Gépezet}
+{83601}{}{Ennek a masinának van valami köze a robot szervizfülkékhez. Nem mondhatnám, hogy megdobogtatja az ember szívét.}
+{83700}{}{Csík}
+{83800}{}{Csík}
+{83900}{}{Csík}
+{84000}{}{Csík}
+{84100}{}{Csík}
+{84200}{}{Csík}
+{84300}{}{Csík}
+{84400}{}{Csík}
+{84500}{}{Csík}
+{84600}{}{Csík}
+{84700}{}{Csík}
+{84800}{}{Ajtó}
+{84801}{}{Egy hétköznapi faajtó.}
+{84900}{}{Ajtó}
+{84901}{}{Egy hétköznapi faajtó.}
+{85000}{}{Ajtó}
+{85001}{}{Egy hétköznapi faajtó.}
+{85100}{}{Cégér}
+{85101}{}{A cégér állítása szerint ez a Baráti Kölcsön Társaság.}
+{85200}{}{Embléma}
+{85201}{}{Ezt az emlémát az Apokalipszis Tanítványai használják.}
+{85300}{}{Orvosi asztal}
+{85301}{}{Ez egy orvosi felülvizsgáló asztal.}
+{85400}{}{Cégér}
+{85401}{}{A Máltai Sólyom}
+{85401}{}{Ez a Máltai Sólyom nevû szórakozó helyiség neoncégére.}
+{85500}{}{Falfirka}
+{85600}{}{Falfirka}
+{85700}{}{Falfirka}
+{85800}{}{Falfirka}
+{85900}{}{Falfirka}
+{86000}{}{Falfirka}
+{86100}{}{Falfirka}
+{86200}{}{Falfirka}
+{86300}{}{Falfirka}
+{86400}{}{Falfirka}
+{86500}{}{Falfirka}
+{86600}{}{Falfirka}
+{86700}{}{Falfirka}
+{86800}{}{Falfirka}
+{86900}{}{Cégér}
+{86901}{}{Aszongya: FEGYVERBOLT. Itt nagy valószínûséggel fegyvereket árulnak.}
+{87000}{}{Cégér}
+{87001}{}{A cégéren ez áll: Rendõrség.}
+{87100}{}{Cégér}
+{87101}{}{Ez itt a Hosszútávú Kereskedõk cégére.}
+{87200}{}{Cégér}
+{87201}{}{A cégéren ez áll: Fegyverkereskedés.}
+{87300}{}{Cégér}
+{87301}{}{Ez a cégér a Karmazsin Karaván kereskedõ társaságé.}
+{87400}{}{Cégér}
+{87401}{}{A felirat szerint ez egy kórház. Ez még akár jól is jöhet.}
+{87500}{}{Cégér}
+{87501}{}{Ez a "Hétalvó" cégére.}
+{87600}{}{Cégér}
+{87601}{}{Ez a valószínûtlen cégér azt hirdeti, hogy ez itt Bob Használtautó-Kereskedése.}
+{87700}{}{Cégér}
+{87701}{}{Ez a cégér a Hubbeli Vízkereskedõké.}
+{87800}{}{Tojáshéj}
+{87801}{}{Egy törött tojás héjának darabjai.}
+{87900}{}{Tojáshéj}
+{87901}{}{Egy törött tojás héjának darabjai.}
+{88000}{}{Tojáshéj}
+{88001}{}{Egy törött tojás héjának darabjai.}
+{88100}{}{Tojáshéj}
+{88101}{}{Egy törött tojás héjának darabjai.}
+{88200}{}{Tojáshéj}
+{88201}{}{Egy törött tojás héjának darabjai.}
+{88300}{}{Tojáshéj}
+{88301}{}{Egy törött tojás héjának darabjai.}
+{88400}{}{Tojáshéj}
+{88401}{}{Egy törött tojás héjának darabjai.}
+{88500}{}{Tojáshéj}
+{88501}{}{Egy törött tojás héjának darabjai.}
+{88600}{}{Lámpaoszlop}
+{88601}{}{Ez a lámpaoszlop teljesen jó állapotban van.}
+{88700}{}{Cégér}
+{88701}{}{A cégér tanúsága szerint ez egy Motel.}
+{88800}{}{Gombák}
+{88801}{}{Ezt a gombaágyat trágyával tömték tele, a gombák pedig boldogan élik világukat benne.}
+{88900}{}{Gombák}
+{88901}{}{Ezt a gombaágyat trágyával tömték tele, a gombák pedig boldogan élik világukat benne.}
+{89000}{}{Csontváz}
+{89100}{}{Felirat}
+{89101}{}{A felirat szerint ez a börtön.}
+{89200}{}{Cégér}
+{89201}{}{Ez itt a Vesztõhely nevû bár és õrültekháza.}
+{89300}{}{Óriásplakát}
+{89301}{}{Ez az óriásplakát a Blades-brand borotvapengét reklámozza.}
+{89400}{}{Zuhanyzó}
+{89401}{}{Egy egész jó állapotban lévõ zuhanyzófülke.}
+{89500}{}{Zuhanyzó}
+{89501}{}{Egy egész jó állapotban lévõ zuhanyzófülke.}
+{89600}{}{Cégér}
+{89601}{}{Ez a cégér a Baráti Kölcsön Társaságot népszerûsíti.}
+{89700}{}{Cégér}
+{89701}{}{Ez a cégér a Baráti Kölcsön Társaságot népszerûsíti.}
+{89800}{}{Poszter}
+{89801}{}{Ez egy békebeli horrorfilm posztere.}
+{89900}{}{Poszter}
+{89901}{}{Ez egy békebeli horrorfilm posztere.}
+{90000}{}{Bár}
+{90001}{}{A bárpulton egy urna áll. Eléggé megviselt, de még így is értékes lehet.}
+{90100}{}{Felvonóakna}
+{90101}{}{Az aknából egy kötél csüng lefelé.}
+{90200}{}{Felvonóakna}
+{90201}{}{Az akna szélérõl egy kötél lóg lefelé.}
+{90300}{}{Betegágy}
+{90301}{}{This bed has a built-in display for monitoring the patients progress.}
+{90400}{}{Víz-szivattyú}
+{90401}{}{Ez a gépezet pumpálja fel a vizet a mélybõl.}
+{90500}{}{Betegágy}
+{90501}{}{Az ágynak van egy beépített berendezése, amely folyamatosan figyeli a beteg állapotát.}
+{90600}{}{Erõpáncél alkatrészek}
+{90601}{}{Ezek egy erõpáncél alkatrészei.}
+{90700}{}{Fény}
+{90701}{}{Ez a biztonsági lámpa jelenleg vörösen villog.}
+{90800}{}{Fény}
+{90801}{}{Ez a biztonsági lámpa jelenleg vörösen villog.}

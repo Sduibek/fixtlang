@@ -1,0 +1,336 @@
+{100}{}{Maxson tábornok személyesen.}
+{101}{}{Mi a Testvériség lényege?}
+{102}{}{Le merném fogadni, hogy nagyon sokat tud a Testvériség történelmérõl.}
+{103}{}{Hallott jó pletykákat?}
+{104}{}{Meg szeretnék jelenteni valamit.}
+{105}{}{Ez minden. Köszönöm.}
+{106}{Gen_1}{Helló, ifjonc. Cabbot mondta, hogy beszélni akarsz velem. Nézd, én ööö... eléggé el vagyok havazva most, szóval öö... abban az esetben meghallgatlak, ha nem fogsz itt órákon át nyaggatni. A kívülállóknak be nem áll a szája... Hehehe. Mintha csak magamat látnám...}
+{107}{}{Mit ért kívülállók alatt?}
+{108}{}{Feltehetek akkor néhány kérdést?}
+{109}{Gen_2}{Nem tehetem. Azokon a francos, soha véget nem érõ megbeszéléseken nekem csak a kedélyek nyugtatása a feladatom. Képzelj el négy Perjelt meg engem. Többnyire beszüntetem a kakaskodást és én vagyok a mérleg nyelve a szavazásoknál. Persze amikor mind a négyen a láblógatásra szavaznak, miközben éppen egy egész sereg masíroz be ide, hogy egy emberként billentsenek valagba minket, nem sokmindent tudok tenni.}
+{110}{}{Ja, hogy úgy.}
+{111}{}{Ez bûzlik. Miért nem tesz valamit?}
+{112}{Gen_2a}{Tradíció ez nálunk. Nehéz változtatni a bevett dolgokon. Ha teszem azt a Perjeleknek birtokában lenne néminemû érdemleges információ, valószínûleg összekapnák magukat és csinálnának valamit.}
+{113}{Gen_3}{Az olyan Újoncokat hívjuk így, akik nem itt születtek. Nagyon régóta te vagy az egyetlen Kívülálló, akit befogdtunk a sorainkba. Most már legalább húsz éve.}
+{114}{}{És miért épp engem?}
+{115}{}{Hízelgõ, nem mondom. Visszatérhetek a kérdéseimre?}
+{116}{Gen_4}{Mivel tennünk kell valamit. Hadsereg van alakulóban, Hubbeli karavánok tûnnek el nyomtalanul, a felderítõink pedig marhára nem képesek rendes munkát végezni. Így hát a Perjelek megemberelték magukat és azt ötölték ki, hogy a megfelelõ Kívülálló szóba jöhet. Ez a Kívülálló te vagy... remélhetõleg.}
+{117}{}{Milyen hadseregrõl van szó?}
+{118}{}{Mi a helyzet az eltûnt karavánokkal?}
+{119}{}{Hmm. Azt hiszem, volna mit kérdeznem.}
+{120}{}{Mi a baj a felderítõkkel?}
+{121}{}{Birtokomban van némi infó, amirõl esetleg tudhatna is akár...}
+{122}{Gen_5}{Amikor tudomásunkra jutott az eltûnt karavánok esete, kiküldtük a felderítõinket keleti és északi irányba. Az északra indult felderítõk sosem tértek vissza, keletrõl is csak egy élte túl. Tucatnyi fura teremtményrõl számolt be, csupaizom, égõ szemû lényekrõl. A Perjelek a fülük botját nem mozdították, de lassan már én is ezt fogom csinálni.}
+{123}{}{Húszat nem igazán neveznék hadseregnek. Miért aggódik ennyire?}
+{124}{}{Nagyon úgy tûnik, hogy a srác túl sokat volt a napon.}
+{125}{}{Megteszek minden tõlem telhetõt.}
+{126}{}{Elmondta, hogy kelet felé merre jártak?}
+{127}{}{Van némi információ a birtokomban, amirõl érdemes lenne tudnia.}
+{128}{Gen_6}{Lehet, hogy jó, lehet hogy rossz felderítõk, de az embereim szavahihetõségét nem kérdõjelezem meg. Újonc státuszodat egyébként bármikor visszavonhatjuk.}
+{129}{}{Úgy tûnik, maguknak nagyobb szüksége van rám, mint nekem magukra.}
+{130}{}{Elnézést kérek.}
+{131}{Gen_7}{Na, pont errõl van szó. Én figyelmeztettem a Perjeleket, hogy egy Kívülálló behozása bajt eredményezhet. (oldalra kiált) Õrség! Van itt egy Újonc, akinek hirtelen nagy szüksége lett egy kis magányra, hogy felfedezze magában a jó magaviselet foszlányait. }
+{132}{Gen_8}{Te ugyan Kívülálló vagy, de elvárom, hogy alkalmazkodj hozzánk. Nyitva tartom majd a szemem. Most pedig halljam a kérdéseidet! }
+{133}{Gen_9}{Jó. Bármi egyéb, amit meg szerettél volna kérdezni? }
+{134}{Gen_10}{Mélyen a hegyek között jártak. Közelebbit nem tudtunk kiszedni belõle.}
+{135}{}{Ez elég baj. Kérdezhetek még?}
+{136}{}{Mi a tényállás az északi résszel?}
+{137}{}{Csak tessék. }
+{138}{Gen_11a}{Persze, add elõ!}
+{139}{Gen_11b}{Hogyne.}
+{140}{Gen_11c}{Mondd!}
+{141}{Gen_12}{A zsigereimben érzem, hogy kelet felé egy kisebb, észak felé egy nagyobb erõ várakozik. A Perjelek sötétben tapogatóznak, mivel egyetlen északra küldött felderítõnk sem tért még vissza. Nem tehetek egyebet, mint kivárok.}
+{142}{}{Nos, én megteszem, amit tudok.}
+{143}{}{Miért nem csinál valamit?}
+{144}{}{Azt hiszem, ez egy kicsit gázos nekem. Ne számítson rám!}
+{145}{}{Van errõl némi információm.}
+{146}{Gen_13}{A Hubbeli Kereskedõk elmondták, hogy számos karavánjuk eltûnt, miközben északra indultak. Az én véleményem szerint a hegyek között egy hadsereg rejtõzik, de a Perjelek... nos, õk nem nagyon akarnak cselekedni, amíg nem száz százalék biztosak benne. }
+{147}{}{Hol tûntek el a karavánok?}
+{148}{}{Nem maga a Nagyperjel? Miért nem csinál valamit?}
+{149}{}{Nem csinált semmit?}
+{150}{}{Van errõl némi információm.}
+{151}{Gen_14}{A tudomásomra jutott hírek szerint a karavánok a keleti hegyvidék lábánál tûntek el. Szerintem a Hubbeli kereskedõk többet is el tudnának mondani errõl.}
+{152}{}{Köszönöm. Volna még azonban néhány kérdésem, ha nem probléma.}
+{153}{}{Köszönöm. Késõbb még visszajövök beszélgetni.}
+{154}{}{Van errõl némi információm.}
+{155}{Gen_15g}{Minden jót, Újonc. Nem is vagy olyan problémás... egy Kívülállóhoz képest.}
+{156}{Gen_15n}{Viszlát, Újonc!}
+{157}{Gen_15b}{Viszlát!}
+{158}{Gen_16}{Túlságosan izoláltan nõttem fel itt. El tudod képzelni, milyen lehet egy apró helyre bezárva tölteni az életed nagy részét, aztán hirtelen kimenni a világba? }
+{159}{}{Hát, ami azt illeti...}
+{160}{}{Akkor azt hiszem, arra születtem, hogy a felderítõjük legyek.}
+{161}{}{Szóval azért, mert nem mentek ki, nekem jut a piszkos munka. Felejtse el!}
+{162}{Gen_17}{Látom, érted a probléma mibenlétét. A túléléshez olyan emberre van szükségünk, aki ismeri a külvilágot. Mint például te. }
+{163}{}{Oké, elvállalom.}
+{164}{}{Megvannak a magam problémái. Passzolok.}
+{165}{Gen_18}{Hát... ha az lesz, amire gondolok, nincs olyanokra idõ, akik... nem tesznek a köz érdekében. Ennek fényében, vagy együttmûködsz velünk, vagy veszed a sátorfádat.}
+{166}{}{Na, ha így áll a helyzet, beállok.}
+{167}{}{Hm, jó napnak tûnik a mai egy kis kószáláshoz...}
+{168}{Gen_19}{Te döntesz. Reméljük, bejön majd. }
+{169}{Gen_20}{Micsoda? Ez vagyunk mi, ezért élünk. Csupa ideál. Minél több idõt töltesz el nálunk, remélhetõleg annál jobban megérted a lényegét.}
+{170}{}{Értem, de tulajdonképpen mit csinálnak úgy általában?}
+{171}{}{Nem nagyon vagyok meggyõzõdve errõl.}
+{172}{Gen_21}{A fõ célkitûzésünk a túlélés. A Krónikások fegyverek régi terveit másolgatják, vagy újakat terveznek, a lovagok pedig legyártják a találmányokat. A fegyverek többsége saját gyártmány.}
+{173}{}{Fegyvereket adnak el a Hubba?}
+{174}{}{Ez minden?}
+{175}{}{Van benne ráció. Volna viszont még néhány dolog, ami érdekelne.}
+{176}{Gen_22}{Így szerezzük be a tartalékokat.}
+{177}{}{Oké, vágom. Volna viszont még néhány dolog, ami érdekelne.}
+{178}{}{Oké. Most azonban mennem kell.}
+{179}{}{Azt hiszem, nem vagyok errõl meggyõzõdve.}
+{180}{Gen_23}{Hogy minden e? Nagyon fontos dolog ez. A túléléshez elengedhetetlen.}
+{181}{}{Ahogy gondolja.. viszont kérdeznék még egy s mást.}
+{182}{}{Hát mit ne mondjak, ez hülyeség.}
+{183}{}{Oké, köszönöm. Most viszont sajnos mennem kell.}
+{184}{Gen_26}{Akkor bizonyságot kell találnod, mivel ha bizonytalan vagy, könnyen megölhetnek alkalmasint.}
+{185}{}{Minél többet tudok, annál több bizonyságot szerzek.}
+{186}{Gen_28}{Nézd, nincs idõm ilyen hosszú történetre. Mindannyian ezen nõttünk fel. }
+{187}{Gen_29n}{A Hubban keringenek bizonyos pletykák az eltûnt karavánokról, valamint a keleti hegyvidék rejtekében bimbódzó furcsa hadseregrõl úgyszintén.}
+{188}{}{Oké.}
+{189}{}{Milyen hadseregrõl van szó?}
+{190}{}{Mi a helyzet az eltûnt karavánokkal?}
+{191}{}{Van errõl némi információm.}
+{192}{Gen_29b}{Nem nagyon ülök fel a pletykáknak.}
+{193}{Gen_30}{Ahh... Jó, hogy újra látunk, Újonc. Jól mennek a dolgok? }
+{194}{}{Egész tûrhetõen. Kérdezhetnék néhány dolgot?}
+{195}{}{Az a helyzet, hogy rohadtul nem.}
+{196}{}{Igen, köszönöm, de sajnos mennem kell.}
+{197}{Gen_32}{Sajnálom, mi nem azok vagyunk, amihez hozzászoktál, de azért mutathatnál némi önmérsékletet. }
+{198}{}{Elnézést. Kérdezhetek még?}
+{199}{}{Ugyan miért? Ez a hely egy vicc.}
+{200}{}{Most a távozás mezejére kell lépnem. Viszlát!}
+{201}{Gen_34}{Most meg mi a fenét akarsz? }
+{202}{}{Azt akarom megtudni, hogy miért egy hülyét tettek meg ide fõnöknek.}
+{203}{}{Szeretnék még feltenni néhány kérdést.}
+{204}{}{Ne is vesztegessük a szót, kösz.}
+{205}{Gen_35}{Mit sikerült megtudni? }
+{206}{}{Sajnálom, de egyelõre semmit.}
+{207}{}{A Hub karavánjait hatalmas, zöld mutánsok ragadják el. Hadsereget is toboroztak maguknak, ami egyre csak nõ.}
+{208}{}{Északon van egy hatalmas sereg, amit egy Mester nevû alak irányít.}
+{209}{Gen_36}{Láttad õket? Ez esetleg cselekvésre késztethetné a Perjeleket. Majd intézkedem, kösz!}
+{210}{Gen_38}{Öh... mit akar az az alak tenni a... hadseregével? }
+{211}{}{Azt tervezi, hogy magához ragadj a Testvériséget, a Hubot, Roncsvárost... mindenkit.}
+{212}{}{Mennyit fizetne ezért az infóért?}
+{213}{Gen_39}{Na, végre! Ez majd megmozgatja a Perjelek tohonya fenekét. Megerõsítjük az Erõdítményt és meglepjük azokat a francos mutánsokat.}
+{214}{}{Nem! Nem érti a lényeget! Azok a szörnyek mutánsokká változtatják az embereket, és hozzácsapják a seregükhöz õket.}
+{215}{}{Oké.}
+{216}{Gen_40}{És?}
+{217}{}{Mire ideérnek, megállíthatatlanok lesznek. A fegyvereik nagyon jók, hasonló a magukéhoz. Fikarcnyi esélyük sem lesz...}
+{218}{}{Hát lehet, hogy elég lesz, ha csak beássák magukat.}
+{219}{Gen_41}{Mi volna az alternatíva?}
+{220}{}{Adjon segítséget, hogy megtámadhassuk a Mester bázisát. Tudom, merre található.}
+{221}{Gen_42}{Hmmm. Nem rossz terv. Van egy ötletem. Megpróbálom keresztülvinni a Perjelek tanácsán. Nincs garancia, hogy sikerül, de legalább megpróbáltuk.}
+{222}{Gen_43}{Akkor ki innen! Van elég dolgom.}
+{223}{Gen_44}{Elég érdekes dolgoknak adsz elsõbbséget és kötelezed el magad.}
+{224}{}{Én magamnak köteleztem el magam. 500 Hubdolcsi, vagy máris abbahagyhatjuk az egészet.}
+{225}{}{Óh... igen. Rendben, elmondom. Az a terve, hogy mindent és mindenkit a saját uralma alá hajt.}
+{226}{Gen_44a}{Elfogadom. Kell az információ, hogy életeket menthessünk meg.}
+{227}{}{Rém egyszerû. A Mester embereket változtat mutánsokká és nagyon fejlett fegyverei vannak. Mindent magának akar elfoglalni.}
+{228}{Gen_44b}{Nos, ha valóban így van, remélem, jó helye lesz a szkriptednek.}
+{229}{Gen_45}{Mit szólnál egy nagy semmihez? Õrség, rúgjátok ki ezt a sült bolondot! Istenemre mondom, megvédjük a Testvériséget a te átkozott segítséged nélkül is.}
+{230}{Gen_46}{Mégis mit gondolsz, mit csinálsz te itt? Rakd el azonnal! Rakd el!}
+{231}{Gen_47}{Elég! Õrség! Vigyétek el ezt az idiótát!}
+{232}{Gen_48}{Hé, hé, hé, hé! Megállni! Hagyd abba! Hagyd abba azonnal!}
+{233}{Gen_49}{Ahogy már mondtam...}
+{234}{Gen_50}{Már mondtam...}
+{235}{Gen_51}{Nem szokásom ismételni magam. Nyisd ki a füled.}
+{236}{Gen_52}{Nézd, már egyszer elmondtam. Nem az én hibám, hogy nem szerezted meg..}
+{237}{Gen_52a}{Helyben vagy. Ha a hosszabb verzió érdekel, beszélj Vree-vel!}
+{238}{Gen_52b}{Mathia az asszisztensem.}
+
+{239}{Gen_53}{Jó gyerek az, még akkor is, ha Krónikás akar lenni.}
+{240}{Gen_54}{Vree a Krónikások vezetõje. Általában a Könyvtárban tartózkodik, nagyon szeret beszélgetni emberekkel.}
+{241}{Gen_55}{Ott tartjuk a fegyverek leírását és a történelem krónikáját.}
+{242}{Gen_56}{Rhombo régóta itt van velünk. Egy kicsit merev alak, de kõkemény katona.}
+{243}{Gen_58}{Hehehe. Jóravaló, jóképû, derék ember. A Nagyperjel feladata az, hogy közbenjárjon a Perjelek között folyó megbeszéléseken. Két évvel ezelõtt belerángattak a dologba. Ha akkor tudom, mivel jár ez...}
+{244}{Gen_59}{Négyen vannak, és kábé ennyi az, amiben meg tudnak egyezni. Még abban sem tudnak dûlõre jutni, vajon akarnak-e pisálni, de az még nagyobb gondot okoz nekik, hogy melyik edénybe pisáljanak.}
+{245}{Gen_60}{Ez a te besorolásod. Az Újoncok gyakorolnak és tanulnak, hogy lovagok, krónikások lehessenek.}
+{246}{Gen_61}{A Krónikások másolgatják a fegyverleírásokat. A nagyapámig visszamenõleg rengeteg információ áll rendelkezésünkre. Van olyan, hogy a Krónikásnak eszébe jut valami jó ötlet egy új fegyverre. Hehehe. Ez mondjuk nem gyakran esik meg. Egyébként Vree-nek tartoznak jelenteni.}
+{247}{Gen_62}{A Lovagok készítik el a fgyvereket. Ha egy Lovag már elég tanult, Paladinná sõt Perjellé is avanzsálhat. Jelen pillanatban Rhombus a Lovagok feje.}
+{248}{Gen_63}{A Paladinok feladata a biztonság, valamint a külvilági tevékenykedés. Régebben kereskedtünk a Hubbal meg a Perjelek által kiosztott felderítõmunkákat végeztük. Azok voltak ám a szép idõk.}
+{249}{Gen_64}{A Hub dél-kelet felé van tõlünk. Élelmiszert és használati tárgyakat adnak az itt készült fegyverekért cserébe. Ha valaha is elmerészkedsz oda, beszélj egy Butch Harris nevû úriemberrel!}
+{250}{Gen_65}{Butch a Hosszútávú Kereskedõk fõnöke. Egy kicsit gyarló a fickó, de lehet vele kezdeni valamit. A Vízkereskedõkkel ellentétben. Az a banda egy rakás dögkeselyû, semmi egyéb.}
+{251}{Gen_66}{Õk a fõ kereskedelmi partnereink. Nem a megbízhatóság példaképei, de nem olyan rosszak, mint a többiek.}
+{252}{Gen_67}{Nem lehet bízni bennük. Néhány évvel ezelõtt egy nagy rakomány fegyverért vizet ajánlottak nekünk. Mi nemet mondtunk, és tudod, mit csináltak? Tolvajokat küldtek hozzánk, hogy ellopják a fegyvereket! Elkaptuk õket, de a Perjelek leszavazták, hogy elmenjünk a Hubba, és megtanítsuk õket kesztyûbe dudálni.}
+{253}{Gen_68}{Hololemez? Hmm, ilyesmit már régóta nem láttam.}
+{254}{Gen_69}{Vree-nek van olyasmilye a Könyvtárban.}
+{255}{Gen_70}{Roger Maxson? Õ vezette ide népünket az Exodust követõen. A semmibõl építette a Testvériséget. Igazi vezetõ egyéniség.}
+{256}{Gen_71}{Az Exodus annak a története, amikor a nagyapám, Roger Maxson idevezérelte a katonáit és megalapította a Testvériséget. Sosem említette, honnan jöttek, de nem is igazán számít, mivel... most már ez az otthonunk.}
+{257}{Gen_72}{Nos, meg vagyok róla gyõzõdve, hogy egy sereg gyülekezik északon, és a keleti hegyekben, de nincs rá mód, hogy bebizonyítsam az igazam. A Perjelek rám sem hederítenek.}
+{258}{Gen_73}{Egy rakás vallásos õrült, ha engem kérdezel. Úgy tudom, a fõ templomuk a Csonttelepen van.}
+{259}{Gen_75}{Nem sok mindent tudok. Van jópár banda a környéken, és persze ott van Adytum meg a Katedrális Gyermekei. Más nem nagyon. Eléggé lepusztult egy környék.}
+{260}{Gen_76}{Nem nagyon tudok mit mondani errõl. Soha nem futottam össze egy darabbal sem. Azt mondjuk hallottam, hogy problémát jelentenek Adytum népének.}
+{261}{Gen_77}{Adytum a Csonttelep egyik kisvárosa. Voltam már ott... bizony jó rég volt. Felderítõ küdetést végeztünk a Perjelek parancsára.}
+{262}{Gen_78}{Jaj, ez egy másik ostoba pletyka. Egyes emberek szerint az egy nagy, agyaras szörnyeteg, mások szerint vámpír.}
+{263}{Gen_79}{Nem tudok semmit errõl.}
+{264}{Gen_80}{Hogy mondod? Nem. Nem hinném, hogy valaha is hallottam róla.}
+{265}{Gen_81a}{Kutya legyek, ha tudok róla.}
+{266}{}{Meglepõdött, hogy lát? Csak nem gondolta, hogy ki akarok maradni a mókából?}
+
+
+{267}{}{Hogy gyõzte meg a Perjeleket?}
+{268}{Gen_82a}{Nem volt olyan nehéz. Szépen sorban elmagyaráztam a helyzetet, és mit tesz isten, bejött. Lépjünk tovább, barátom!}
+{269}{Gen_83}{Mit csinálsz te itt? Ez itt a Perjeleknek van fenntartva.}
+{270}{}{Elnézést, máris távozom.}
+{271}{}{Érdekel is engem... maradok és kész..}
+{272}{Gen_84}{Jó. Majd csukd be magad mögött az ajtót!}
+{273}{Gen_84a}{Mondok én valamit, ne avatkozz közbe!}
+{274}{Gen_85}{Ha! Elfelejtetted. Régen tanítottam ilyesmit.}
+{275}{Gen_86}{A közhiedelemmel ellentétben nekünk nincs szükségünk agyatlan katonákra.}
+{276}{Gen_87}{Javaslom, hogy errõl beszélj Mathiával, az asszisztensemmel!}
+
+{300}{}{Maga talán el tudja mondani? Itt mindenki tiszta ideg. Egyedül maga akar háborúba menni, de ember nem tudja, hogy kivel.}
+{301}{}{Van valami elképzelése arról, mi állhat a karavánok eltûnése mögött?}
+{302}{}{Jó, megyek és átfésülöm az északi területet, aztán megjelentem, mit találtam.}
+{303}{}{500 kupakért leellenõrzöm, mi folyik odafenn északon.}
+{304}{}{1000 kupakért leellenõrzöm, mi folyik odafenn északon.}
+{305}{}{Nem vagyok biztos benne, hogy bele akarom ártani magam ebbe.}
+{306}{}{Van rá némi esély, hogy valami hatékonyabb fegyverhez jussak?}
+{307}{}{Elõbb volna néhány kérdésem.}
+{308}{}{Nem, majd akkor visszajövök, ha rájöttem, mi a helyzet északon.}
+{309}{}{Oké, viszlát!}
+{310}{}{Honnan tudja, hogy a felderítõi nem dezertáltak?}
+{311}{}{Azt hiszem, már összefutottam a maga által leírt lényekkel. Nem érdemes õket félvállról venni.}
+{312}{}{Kérem, bocsásson meg nekem! Maga szerint mi az oka az eltûnéseknek?}
+{313}{}{Csak nyugodtan. Vonja vissza! Érdekel is engem!}
+{314}{}{Már bocsánat, de jelen pillanatban túl kockázatos lenne északra mennem.}
+{315}{}{Rendben, elmegyek, de kaphatnék elõtte valami jobb fegyvert?}
+{316}{}{Oké, megcsinálom 1000 kupakért.}
+{317}{}{Vagy így, vagy sehogy.}
+{318}{}{Felejtsük el!}
+{319}{}{Oké, oké, ingyen megcsinálom.}
+{320}{}{Nagyon jó. Találkozunk, ha visszajöttem.}
+{321}{}{Bizonyítékot találtam arra, hogy a feltételezett hadsereg áll a karavánok eltûnése mögött. Csupa mutánsról van szó. Az aggodalom nagyon is helyénvaló, ugyanis elég félelmetesek.}
+{322}{}{Teljesen nyilvánvaló, hogy valakinek el kell oda menni, és utánanézni.}
+{323}{}{Egy sima zsigeri érzésnél azért többet jelent az, hogy elmegyek-e északra és vásárra viszem a bõrömet.}
+{324}{}{Az életemet viszonylag fontosnak találom.}
+{325}{}{Úgy érzem, nemigen vagyok alkalmas még erre a feladatra.}
+{326}{}{Én csa egyetlen embernek köteleztem el magam.}
+{327}{}{Igen.}
+{328}{}{Döh?}
+{329}{}{Miért látom azt, hogy itt mindenki tiszta ideg? Mindenki, az utolsó szálig. Úgy látom, maga készen áll a háborúra, de ember az nem nagyon van rá.}
+{330}{}{Szeretnék beszélni magával a karavánok eltûnésérõl. Van valami feltételezése a dologról?}
+{331}{}{Hagyjuk...}
+{332}{}{Szeretnék feltenni néhány kérdést.}
+{333}{}{Döh?}
+{334}{}{Tudok egy s mást az északi területekrõl.}
+{335}{}{Feltehetek néhány kérdést?}
+{336}{}{Hagyjuk.}
+{337}{}{Sajnálom, nem igazán volt nálam semmi.}
+{338}{}{Láttam a bázisukat. Hemzseg a mutánsoktól.}
+{339}{}{Láttam az északon lévõ mutáns bázist. Egy Mesternek nevezett vezetõjük parancsnoklata alatt állnak.}
+{340}{}{Jelen pillanatban nem lehet védekezõ álláspontot felvenni, Maxson.}
+{341}{}{Nos, nyilvánvaló, hogy valamit tenni kell. Az volna a legjobb, ha még azelõtt megtámadnánk a mutánsokat, hogy õk tennék ezt mivelünk. A döntéshez a magunk oldalára kell állítanunk a Perjeleket.}
+{342}{}{Jelen pillanatban nem nagyon tudom, mi a teendõ. Hadd gyûjtsek némi információt, és ha megvan, visszajövök.}
+{343}{}{Azt tervezi, hogy a lehetõ legtöbb emberi települést az uralma alá hajtja.}
+{344}{}{Mit tudna mondani a Testvériség történelmérõl?}
+{345}{}{Mi a Testvériség fõ célkitûzése?}
+{346}{}{Kik a Perjelek?}
+{347}{}{Tud valamit a halálkarmokról?}
+{348}{}{Nem számít...}
+{349}{}{Feltehetek egy másik kérdést?}
+{350}{}{Köszönöm.}
+{351}{}{}
+{352}{}{ tapasztalati pontot kaptál, amiért felderítetted az északi fertályt.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{353}{Gen_3}{Az olyan Újoncokat hívjuk így, akik nem itt születtek. Nagyon régóta te vagy az egyetlen Kívülálló, akit befogdtunk a sorainkba. Most már legalább húsz éve.}
+{354}{Gen_3}{Az olyan Újoncokat hívjuk így, akik nem itt születtek. Nagyon régóta te vagy az egyetlen Kívülálló, akit befogdtunk a sorainkba. Most már legalább húsz éve.}
+{355}{Gen_6}{Lehet, hogy jó, lehet hogy rossz felderítõk, de az embereim szavahihetõségét nem kérdõjelezem meg. Újonc státuszodat egyébként bármikor visszavonhatjuk.}
+{356}{Gen_6}{Lehet, hogy jó, lehet hogy rossz felderítõk, de az embereim szavahihetõségét nem kérdõjelezem meg. Újonc státuszodat egyébként bármikor visszavonhatjuk.}
+{357}{Gen_15n}{Minden jót, Újonc!}
+{358}{Gen_15n}{Minden jót, Újonc!}
+{359}{Gen_30}{Ahh... Látom, újra erre fújt a szél, Újonc. Jól mennek a dolgok? }
+{360}{Gen_30}{Ahh... Látom, újra erre fújt a szél, Újonc. Jól mennek a dolgok? }
+
+{400}{}{Voltam az északi mutánsbázisnál. Fogalmazzunk úgy, hogy több veszélyt nemigen jelentenek.}
+
+
+# General Maxson Tell-Me-Abouts generic responses
+{980}{Gen_79}{Nem tudok semmit errõl.}
+{981}{Gen_80}{Hogy mondod? Nem. Nem hinném, hogy valaha is hallottam róla.}
+{982}{Gen_81a}{Kutya legyek, ha tudok róla.}
+
+#
+# General Maxson Tell-Me-Abouts
+#
+
+
+{1000}{}{Testveriseg}
+{1001}{}{Mathia}
+{1002}{}{Cabbot}
+{1003}{}{Vree}
+{1004}{}{Konyvtar}
+{1005}{}{Rhombus}
+{1006}{}{Perjel}
+{1007}{}{Perjelek}
+{1008}{}{Ujonc}
+{1009}{}{Kronikas}
+{1010}{}{Lovag}
+{1011}{}{Paladin}
+{1012}{}{Hub}
+{1013}{}{Butch}
+{1014}{}{Szallito}
+#problem - traders
+{1015}{}{Kereskedo}
+#problem - merchants
+
+{1016}{}{Lemez}
+{1017}{}{Lejatszo}
+{1018}{}{Roger}
+{1019}{}{Exodus}
+{1020}{}{Hadsereg}
+{1021}{}{Katedralis}
+{1022}{}{Angyal}
+{1023}{}{Banda}
+{1024}{}{Adytum}
+{1025}{}{Halalkarom}
+{1026}{}{Harris}
+{1027}{}{Maxson}
+{1028}{}{Angyalok}
+{1029}{}{Csonttelep}
+{1030}{}{Mester}
+{1031}{}{Haboru}
+{1032}{}{Karavan}
+{1033}{}{Csip}
+
+{1100}{Gen_52a}{Helyben vagy. Ha a hosszabb verzió érdekel, beszélj Vree-vel!}
+{1101}{Gen_52b}{Mathia az asszisztensem.}
+{1102}{Gen_53}{Jó gyerek az, még akkor is, ha Krónikás akar lenni.}
+{1103}{Gen_54}{Vree a Krónikások vezetõje. Általában a Könyvtárban tartózkodik, nagyon szeret beszélgetni emberekkel.}
+{1104}{Gen_55}{Ott tartjuk a fegyverek leírását és a történelem krónikáját.}
+{1105}{Gen_56}{Rhombo régóta itt van velünk. Egy kicsit merev alak, de kõkemény katona.}
+{1106}{Gen_58}{Hehehe. Jóravaló, jóképû, derék ember. A Nagyperjel feladata az, hogy közbenjárjon a Perjelek között folyó megbeszéléseken. Két évvel ezelõtt belerángattak a dologba. Ha akkor tudom, mivel jár ez...}
+{1107}{Gen_59}{Négyen vannak, és kábé ennyi az, amiben meg tudnak egyezni. Még abban sem tudnak dûlõre jutni, vajon akarnak-e pisálni, de az még nagyobb gondot okoz nekik, hogy melyik edénybe pisáljanak.}
+{1108}{Gen_60}{Ez a te besorolásod. Az Újoncok gyakorolnak és tanulnak, hogy lovagok, krónikások lehessenek.}
+{1109}{Gen_61}{A Krónikások másolgatják a fegyverleírásokat. A nagyapámig visszamenõleg rengeteg információ áll rendelkezésünkre. Van olyan, hogy a Krónikásnak eszébe jut valami jó ötlet egy új fegyverre. Hehehe. Ez mondjuk nem gyakran esik meg. Egyébként Vree-nek tartoznak jelenteni.}
+{1110}{Gen_62}{A Lovagok készítik el a fgyvereket. Ha egy Lovag már elég tanult, Paladinná sõt Perjellé is avanzsálhat. Jelen pillanatban Rhombus a Lovagok feje.}
+{1111}{Gen_63}{A Paladinok feladata a biztonság, valamint a külvilági tevékenykedés. Régebben kereskedtünk a Hubbal meg a Perjelek által kiosztott felderítõmunkákat végeztük. Azok voltak ám a szép idõk.}
+{1112}{Gen_64}{A Hub dél-kelet felé van tõlünk. Élelmiszert és használati tárgyakat adnak az itt készült fegyverekért cserébe. Ha valaha is elmerészkedsz oda, beszélj egy Butch Harris nevû úriemberrel!}
+{1113}{Gen_65}{Butch a Hosszútávú Kereskedõk fõnöke. Egy kicsit gyarló a fickó, de lehet vele kezdeni valamit. A Vízkereskedõkkel ellentétben. Az a banda egy rakás dögkeselyû, semmi egyéb.}
+{1114}{Gen_66}{Õk a fõ kereskedelmi partnereink. Nem a megbízhatóság példaképei, de nem olyan rosszak, mint a többiek.}
+{1115}{Gen_67}{Szeretnél hallani a Vízkereskedõkrõl? Hehehe, hát annyit mondhatok, nem lehet bízni bennük. Néhány évvel ezelõtt egy nagy rakomány fegyverért vizet ajánlottak nekünk. Mi nemet mondtunk, és tudod, mit csináltak? Tolvajokat küldtek hozzánk, hogy ellopják a fegyvereket! Elkaptuk õket, de a Perjelek leszavazták, hogy elmenjünk a Hubba, és megtanítsuk õket kesztyûbe dudálni.}
+{1116}{Gen_68}{Hololemez? Hmm, ilyesmit már régóta nem láttam.}
+{1117}{Gen_69}{Vree-nek van olyasmilye a Könyvtárban.}
+{1118}{Gen_70}{Roger Maxson? Õ vezette ide népünket az Exodust követõen. A semmibõl építette a Testvériséget. Igazi vezetõ egyéniség.}
+{1119}{Gen_71}{Az Exodus annak a története, amikor a nagyapám, Roger Maxson idevezérelte a katonáit és megalapította a Testvériséget. Sosem említette, honnan jöttek, de nem is igazán számít, mivel... most már ez az otthonunk.}
+{1120}{Gen_72}{Nos, meg vagyok róla gyõzõdve, hogy egy sereg gyülekezik északon, és a keleti hegyekben, de nincs rá mód, hogy bebizonyítsam az igazam. A Perjelek rám sem hederítenek.}
+{1121}{Gen_73}{Egy rakás vallásos õrült, ha engem kérdezel. Úgy tudom, a fõ templomuk a Csonttelepen van.}
+{1122}{Gen_75}{Nem sok mindent tudok. Van jópár banda a környéken, és persze ott van Adytum meg a Katedrális Gyermekei. Más nem nagyon. Eléggé lepusztult egy környék.}
+{1123}{Gen_76}{Nem nagyon tudok mit mondani errõl. Soha nem futottam össze egy darabbal sem. Azt mondjuk hallottam, hogy problémát jelentenek Adytum népének.}
+{1124}{Gen_77}{Adytum a Csonttelep egyik kisvárosa. Voltam már ott... bizony jó rég volt. Felderítõ küdetést végeztünk a Perjelek parancsára.}
+{1125}{Gen_78}{Jaj, ez egy másik ostoba pletyka. Egyes emberek szerint az egy nagy, agyaras szörnyeteg, mások szerint vámpír.}
+{1126}{Gen_65}{Butch a Hosszútávú Kereskedõk fõnöke. Egy kicsit gyarló a fickó, de lehet vele kezdeni valamit. A Vízkereskedõkkel ellentétben. Az a banda egy rakás dögkeselyû, semmi egyéb.}
+{1127}{Gen_70}{Roger Maxson? Õ vezette ide népünket az Exodust követõen. A semmibõl építette a Testvériséget. Igazi vezetõ egyéniség.}
+{1128}{Gen_75}{Nem sok mindent tudok. Van jópár banda a környéken, és persze ott van Adytum meg a Katedrális Gyermekei. Más nem nagyon. Eléggé lepusztult egy környék.}
+{1129}{Gen_75}{Nem sok mindent tudok. Van jópár banda a környéken, és persze ott van Adytum meg a Katedrális Gyermekei. Más nem nagyon. Eléggé lepusztult egy környék.}
+{1130}{Gen_80}{Hogy mondod? Nem. Nem hinném, hogy valaha is hallottam róla.}
+{1131}{Gen_71}{Az Exodus annak a története, amikor a nagyapám, Roger Maxson idevezérelte a katonáit és megalapította a Testvériséget. Sosem említette, honnan jöttek, de nem is igazán számít, mivel... most már ez az otthonunk.}
+{1132}{Gen_65}{Butch a Hosszútávú Kereskedõk fõnöke. Egy kicsit gyarló a fickó, de lehet vele kezdeni valamit. A Vízkereskedõkkel ellentétben. Az a banda egy rakás dögkeselyû, semmi egyéb.}
+{1133}{Gen_81a}{Kutya legyek, ha tudok róla.}

@@ -1,0 +1,431 @@
+{100}{}{Menedéklakó}
+{101}{}{}
+{200}{}{Városlakó}
+{201}{}{Bõröltözéket viselõ férfi}
+{300}{}{Városlakó}
+{301}{}{Acélpáncélt viselõ férfi}
+{400}{}{Egy pórul járt alak}
+{401}{}{Szánalmas balek}
+{500}{}{Paraszt}
+{501}{}{}
+{600}{}{Menedéklakó}
+{601}{}{}
+{700}{}{Erõpáncél}
+{800}{}{Menedék Felvigyázó}
+{900}{}{Szupermutáns}
+{901}{}{}
+{1000}{}{Méretes vakondpatkány}
+{1001}{}{}
+{1100}{}{Radskorpió}
+{1101}{}{Radskorpió}
+{1200}{}{Köpenyes alak}
+{1300}{}{Kereskedõ}
+{1301}{}{}
+{1400}{}{Zombi õr}
+{1401}{}{}
+{1500}{}{Nõi Harci Páncél}
+{1600}{}{"Fénylõ"}
+{1601}{}{}
+{1700}{}{Bõrdzsekis férfi}
+{1800}{}{Paraszt}
+{1900}{}{Bõrdzsekis nõ}
+{2000}{}{Paraszt}
+{2100}{}{Férfi Harci Páncél}
+{2200}{}{Városlakó nõ}
+{2201}{}{Acélpáncélt viselõ nõ.}
+{2300}{}{Szupermutáns hadnagy}
+{2301}{}{}
+{2400}{}{Városlakó nõ}
+{2401}{}{Bõröltözéket viselõ nõ.}
+{2500}{}{Éjfajzat}
+{2501}{}{}
+{2600}{}{Menedéklakó}
+{2601}{}{}
+{2700}{}{Férfi õr}
+{2800}{}{Brahma}
+{2801}{}{Kétfejû, mutáns tehén.}
+{2900}{}{Paraszt}
+{3000}{}{Paraszt}
+{3100}{}{Bõrpáncélos férfi}
+{3200}{}{Paraszt}
+{3201}{}{}
+{3300}{}{Polgár}
+{3301}{}{}
+{3400}{}{Menedéklakó}
+{3500}{}{Menedéklakó}
+{3501}{}{}
+{3600}{}{Kutya}
+{3601}{}{Egy valószínûleg keverék kutya.}
+{3700}{}{Nõ}
+{3800}{}{Férfi}
+{3900}{}{Paraszt}
+{3901}{}{}
+{4000}{}{Paraszt}
+{4001}{}{}
+{4100}{}{Erõpáncélos alak}
+{4200}{}{Fiú}
+{4201}{}{}
+{4300}{}{Kisméretû Kentaur}
+{4301}{}{}
+{4400}{}{Mr. Handy}
+{4500}{}{Lebegõ}
+{4501}{}{}
+{4600}{}{Írnok}
+{4700}{}{Felvigyázó}
+{4800}{}{Barlangi patkány}
+{4801}{}{}
+{4900}{}{Gizmo}
+{5000}{}{Mester}
+{5100}{}{Halálkarom}
+{5101}{}{}
+{5200}{}{Technikus}
+{5201}{}{}
+{5300}{}{Technikus}
+{5301}{}{}
+{5400}{}{Technikus}
+{5401}{}{}
+{5500}{}{Õr}
+{5501}{}{}
+{5600}{}{Õr}
+{5601}{}{}
+{5700}{}{Õr}
+{5800}{}{Technikus}
+{5801}{}{}
+{5900}{}{Polgár}
+{5901}{}{}
+{6000}{}{Csavargó}
+{6001}{}{}
+{6100}{}{Munkás}
+{6101}{}{}
+{6200}{}{A katedrális tanonca}
+{6201}{}{}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Kereskedõ}
+{6601}{}{}
+{6700}{}{Õr}
+{6701}{}{}
+{6800}{}{Sáska}
+{6801}{}{}
+{6900}{}{Roboagy}
+{7000}{}{Fosztogatók õre}
+{7100}{}{Polgár}
+{7101}{}{}
+{7200}{}{Polgár}
+{7201}{}{}
+{7300}{}{Garl tanácsadója}
+{7400}{}{Polgár}
+{7401}{}{}
+{7500}{}{Fosztogató}
+{7600}{}{Ian}
+{7700}{}{Lebegõ szem}
+{7800}{}{Disznópatkány}
+{7801}{}{}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Utazó}
+{8201}{}{}
+{8300}{}{Polgár}
+{8301}{}{}
+{8400}{}{Polgár}
+{8401}{}{}
+{8500}{}{Utazó}
+{8501}{}{}
+{8600}{}{Paraszt}
+{8601}{}{}
+{8700}{}{Polgár}
+{8701}{}{}
+{8800}{}{Kereskedõ}
+{8801}{}{}
+{8900}{}{Nem idevalósi}
+{8901}{}{}
+{9000}{}{Õr}
+{9001}{}{}
+{9100}{}{Földmûves}
+{9101}{}{}
+{9200}{}{Kereskedõ}
+{9201}{}{}
+{9300}{}{Paraszt}
+{9301}{}{}
+{9400}{}{Neal}
+{9500}{}{Paraszt}
+{9501}{}{}
+{9600}{}{Munkás}
+{9601}{}{}
+{9700}{}{Kereskedõ}
+{9800}{}{Paraszt}
+{9801}{}{}
+{9900}{}{Nehézfiú}
+{9901}{}{}
+{10000}{}{Nem idevalósi}
+{10001}{}{}
+{10100}{}{A Katedrális Gyermeke}
+{10200}{}{Vinnie}
+{10201}{}{}
+{10300}{}{Utazó}
+{10301}{}{}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Ghoul}
+{10601}{}{}
+{10700}{}{Éjfajzat õr}
+{10701}{}{}
+{10800}{}{Szívós szupermutáns}
+{10801}{}{}
+{10900}{}{Ghoul õr}
+{10901}{}{}
+{11000}{}{Mélylakó}
+{11001}{}{}
+{11100}{}{Dan}
+{11200}{}{Greene seriff}
+{11300}{}{Fry megbízott}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Hightower}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Dogmeat}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Razor}
+{13000}{}{Tangler}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Surf}
+{13600}{}{Lasher}
+{13700}{}{Barracus}
+{13800}{}{Jeremiah}
+{13900}{}{Szupermutáns felcser}
+{14000}{}{Gideon}
+{14001}{}{A keze furcsa energiától sugárzik.}
+{14100}{}{Dominic}
+{14101}{}{A szemébõl különös energia árad.}
+{14200}{}{Lucy}
+{14201}{}{A feje furán izzik.}
+{14300}{}{Wiggup}
+{14301}{}{A testén energiaszikrák futkároznak.}
+{14400}{}{Viscious}
+{14500}{}{Szupermutáns hadnagy}
+{14600}{}{Laura}
+{14700}{}{Morpheus}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Decker}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Szívós patkány}
+{15901}{}{}
+{16000}{}{Sugárzó patkány}
+{16001}{}{}
+{16100}{}{Szívós sugárzó patkány}
+{16101}{}{}
+{16200}{}{Kisméretû vakondpatkány}
+{16201}{}{}
+{16300}{}{Coyote}
+{16301}{}{}
+{16400}{}{Nagy Brahma}
+{16401}{}{}
+{16500}{}{Halálkarom poronty}
+{16501}{}{}
+{16600}{}{Visszataszító radskorpió}
+{16601}{}{}
+{16700}{}{Véres lebegõ}
+{16701}{}{}
+{16800}{}{Nagyméretû kentaur}
+{16801}{}{}
+{16900}{}{Igénytelen paraszt}
+{16901}{}{}
+{17000}{}{Paraszt}
+{17001}{}{}
+{17100}{}{Földmûves}
+{17101}{}{}
+{17200}{}{Munkás}
+{17201}{}{}
+{17300}{}{Földmûves}
+{17301}{}{}
+{17400}{}{Kereskedõ}
+{17401}{}{}
+{17500}{}{Õr}
+{17501}{}{}
+{17600}{}{Óriás sáska}
+{17601}{}{}
+{17700}{}{Ádáz disznópatkány}
+{17701}{}{}
+{17800}{}{Földmûves}
+{17801}{}{}
+{17900}{}{Munkás}
+{17901}{}{}
+{18000}{}{Kereskedõ}
+{18001}{}{}
+{18100}{}{Õr}
+{18101}{}{}
+{18200}{}{Fénylõ}
+{18201}{}{}
+{18300}{}{Õrült Fénylõ}
+{18301}{}{}
+{18400}{}{Zombi}
+{18401}{}{}
+{18500}{}{Õr}
+{18501}{}{}
+{18600}{}{Szupermutáns õr}
+{18601}{}{}
+{18700}{}{Ádáz szupermutáns}
+{18701}{}{}
+{18800}{}{Veszett szupermutáns}
+{18900}{}{Halálos szupermutáns}
+{19000}{}{Szívós éjfajzat}
+{19001}{}{}
+{19100}{}{Halálos éjfajzat}
+{19101}{}{}
+{19200}{}{Szuper éjfajzat}
+{19300}{}{Éjfajzat-mester}
+{19301}{}{}
+{19400}{}{Õr}
+{19401}{}{}
+{19500}{}{Kereskedõ}
+{19501}{}{}
+{19600}{}{Õr}
+{19601}{}{}
+{19700}{}{Õr}
+{19701}{}{}
+{19800}{}{Õr}
+{19801}{}{}
+{19900}{}{Lány}
+{19901}{}{}
+{20000}{}{Írnok}
+{20100}{}{Õr}
+{20101}{}{}
+{20200}{}{Nem idevalósi}
+{20201}{}{}
+{20300}{}{Nehézfiú}
+{20301}{}{}
+{20400}{}{Zsoldos}
+{20401}{}{}
+{20500}{}{Õr}
+{20501}{}{}
+{20600}{}{Menedéklakó}
+{20700}{}{Garl}
+{20800}{}{Morbid doki}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Utazó}
+{21700}{}{Nem idevalósi}
+{21800}{}{Nehézfiú}
+{21900}{}{Zsoldos}
+{22000}{}{Õr}
+{22100}{}{Polgár}
+{22200}{}{Nem idevalósi}
+{22300}{}{Nehézfiú}
+{22400}{}{Zsoldos}
+{22500}{}{Õr}
+{22600}{}{Polgár}
+{22700}{}{Utazó}
+{22800}{}{Nem idevalósi}
+{22900}{}{Nehézfiú}
+{23000}{}{Zsoldos}
+{23100}{}{Õr}
+{23200}{}{Polgár}
+{23300}{}{Utazó}
+{23400}{}{Zsoldos}
+{23500}{}{Õr}
+{23600}{}{Utazó}
+{23700}{}{Nem idevalósi}
+{23800}{}{Nehézfiú}
+{23900}{}{Zsoldos}
+{24000}{}{Õr}
+{24100}{}{Nehézfiú}
+{24200}{}{Zsoldos}
+{24300}{}{Õr}
+{24400}{}{Utazó}
+{24500}{}{Nem idevalósi}
+{24600}{}{Nehézfiú}
+{24700}{}{Zsoldos}
+{24800}{}{Õr}
+{24900}{}{Utazó}
+{25000}{}{Nem idevalósi}
+{25100}{}{Nehézfiú}
+{25200}{}{Zsoldos}
+{25300}{}{Õr}
+{25400}{}{Utazó}
+{25500}{}{Nem idevalósi}
+{25600}{}{Nehézfiú}
+{25700}{}{Zsoldos}
+{25800}{}{Õr}
+{25900}{}{Utazó}
+{26000}{}{Nem idevalósi}
+{26100}{}{Nehézfiú}
+{26200}{}{Zsoldos}
+{26300}{}{Õr}
+{26400}{}{Újonc Lovag}
+{26500}{}{Frissen Kiképzett Lovag}
+{26600}{}{Lovag Tanonc}
+{26700}{}{Képzett Lovag}
+{26800}{}{Tapasztalt Lovag}
+{26900}{}{Újonc Lovag}
+{27000}{}{Frissen Kiképzett Lovag}
+{27100}{}{Lovag Tanonc}
+{27200}{}{Képzett Lovag}
+{27300}{}{Tapasztalt Lovag}
+{27400}{}{Paladin altiszt}
+{27500}{}{Paladin}
+{27600}{}{Tapasztalt Paladin}
+{27700}{}{Paladin altiszt}
+{27800}{}{Paladin}
+{27900}{}{Tapasztalt Paladin}
+{28000}{}{Újonc Krónikás}
+{28100}{}{Frissen Kiképzett Krónikás}
+{28200}{}{Krónikás Tanonc}
+{28300}{}{Képzett Krónikás}
+{28400}{}{Tapasztalt Krónikás}
+{28500}{}{Újonc Krónikás}
+{28600}{}{Frissen Kiképzett Krónikás}
+{28700}{}{Krónikás Tanonc}
+{28800}{}{Képzett Krónikás}
+{28900}{}{Tapasztalt Krónikás}
+{29000}{}{Köpenyes férfi}
+{29100}{}{A Mester Gyermeke}
+{29200}{}{A katedrális tanonca}
+{29300}{}{Köpenyes nõ}
+{29400}{}{A Mester Gyermeke}
+{29500}{}{A Mester Állatkája}
+{29600}{}{A Mester Nehézfiúja}
+{29700}{}{A Mester Õre}
+{29800}{}{A Mester Állatkája}
+{29900}{}{A Mester Nehézfiúja}
+{30000}{}{A Mester Õre}
+{30100}{}{Orvos}
+{30200}{}{Katja}
+{30300}{}{Sasha}
+{30301}{}{Gazdájára váró szibériai husky.}
+{30400}{}{Rejtélyes idegen}
+{30500}{}{Õrült Ghoul}
+{30600}{}{Szemgolyó II}
+{30700}{}{Tojás}
+{30701}{}{Halálkarom tojás}
+{30800}{}{Dugan}
+{30900}{}{Halálkarom anya}
+{31000}{}{Hammer}
+{31100}{}{Halott utazó}
+{31200}{}{Kenji}

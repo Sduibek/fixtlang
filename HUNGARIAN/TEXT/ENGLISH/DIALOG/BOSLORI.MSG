@@ -1,0 +1,74 @@
+{100}{}{A Testvériség orvosa.}
+{102}{}{Üdvözlöm, segíthetek valamiben?}
+{103}{}{Megsebesültem.}
+{104}{}{Sugárbeteg vagyok.}
+{105}{}{Szokott operálni?}
+{106}{}{Felvilágosítana még egyszer az operációkkal kapcsolatban?}
+{107}{}{Ög!}
+{108}{}{Csak nem? Lássuk csak...}
+{109}{}{Ez volt a baj. Meg is vagyunk... Legközelebb vigyázzon magára!}
+{110}{}{Sajnálom, de addig nem tudok segíteni, amíg nem mondja el, mi baja.}
+{111}{}{ Egészségesnek tûnik.}
+{112}{}{Tessék... remélem, jobban érzi magát.}
+{113}{}{Kész vagyunk, de legközelebb kerülje a harcot.}
+{114}{}{Ez rendbe kell, hogy hozza.}
+{115}{}{Olyan, mintha új lenne.}
+{116}{}{Begyógyult.}
+{117}{}{A sugárzás nagyon veszélyes dolog, sokkal jobban kéne vigyázni magára.}
+{118}{}{Játékra nincs idõm.}
+{119}{}{Természetesen nagyon sokba pénzbe és idõbe kerül.}
+{120}{}{Errõl mondana még részleteket?}
+{121}{}{Oké, jegeljük a dolgot.}
+{122}{}{Erõsebbé, jobb látásúvá, kitartóbbá, tanulékonyabbá és ügyesebbé tudom tenni. Melyikrõl szeretne részletesebb információt? Az operációt csak egyszer van alkalmam elvégezni.}
+{126}{}{Rendben, melyik operációról szeretne hallani?}
+{127}{}{Erõ.}
+{128}{}{Érzékelés.}
+{129}{}{Kitartás.}
+{130}{}{Intelligencia.}
+{131}{}{Ügyesség.}
+{132}{}{Hagyjuk inkább.}
+{133}{}{Nem nagy ügy megcsinálni, de sokáig tart felépülni belõle. Csak 2000 szkriptbe kerül, viszont három hét a gyógyulás.}
+{135}{}{Belevágnék!}
+{136}{}{Ezt inkább passzoljuk...}
+{137}{}{Ez bizony bonyolult operáció. 4000 szkriptbe kerül, de a felépülési idõ csak egy hét.}
+{139}{}{Ez a mûtét nem olyan vészes. Kábé egy hét a gyógyulás és 3000 szkriptbe kerül.}
+{141}{}{Ez a legbonyolultabb és legveszélyesebb beavatkozás! A felépülés három hetet vesz igénybe és 6000 szkriptbe kerül.}
+{143}{}{Ez a fajta operáció nem olyan rázós., de nagyon drága és a páciens sokáig lábadozik. Három hete és 5000 szkriptje bánja.}
+{146}{}{Oké, készen vagyunk. Remélem, a hab nem irritálja a bõrét.}
+{147}{}{Sajnálom, de ha nincs pénze, nem tudok segíteni.}
+{148}{}{Megbocsásson, de maga kívülálló. Ha úgy tíz éve a Testvériség tagja lenne, ingyen is megcsinálnám az operációt, de sajnos költségeink vannak, és maga egyelõre nem tartozik a Testvériség munkaállományába.}
+{149}{}{Majd szóljon, ha van elég pénze!}
+{153}{}{Egy másikról akart talán kérdezni?}
+{154}{}{Oké, semmiség az egész... Csak viccelek. Most azonnal kezdhetünk. (Beadja az altatót, mire szép lassan elszenderülsz.)}
+{156}{}{Na, hogy érzi magát? (Máris érzed a különbséget.) Maga aztán jó beszédes alvás közben! Most már nyugodtan nyakába veheti a világot. Minden jót!)}
+{159}{}{Dobjuk ki a régit, és tegyük be az újat... (Hirtelen úgy kidõlsz, mint egy szép szál fa.)}
+{161}{}{Pontosan úgyanúgy néz ki, mint korábban, de vajon mit érez? (Az érzékeid sokkal élesebbek.) Ne foglalja itt nekem az értékes kórházi fekhelyet. [mosolyog] Szabad a pálya!}
+{164}{}{Remélem, van vér a pucájában... (Rádkacsint, miközben elsötétül a világ.)}
+{166}{}{Hát, egy kicsit keménykötésûbbnek néz ki... (Remekül érzed magad!) Mondja csak meg, ha felmerülne valami probléma!}
+{168}{}{Mi ebben a ráció? Mire való ez az izé? (Próbálsz küzdeni az altatóval, de nem sok sikerrel.)}
+{170}{}{Úgy tûnik, minden helyreállt és remekül mûködik. (Olyan érzésed van, mintha a gondolataid szálai az agyad minden egyes pontjába eljutnának, ezáltal minden olyan tisztán felfogható...) Csak nyugalom...}
+{174}{}{Rendben, hadd szóljon! (Az altató az ember... jó... barátja... Csakhamar elalszol...)}
+{176}{}{Oké, mostantól akcióra kész! (Elkezded hajlítgatni az izmaidat, és érzed, hogy gyorsabb, agilisebb vagy.) Egy dologra kérem csak magát: ne hagyja, hogy megsérüljön a mestermûvem!}
+{200}{}{Õ az orvos asszisztense.}
+{279}{}{Az orvossal kéne beszélnie.}
+{280}{}{A hölgy az orvos, nem én.}
+{281}{}{Én csak gyakornok vagyok.}
+{282}{}{Hivatalosan én nem segíthetek magán.}
+{283}{}{Lori itt az orvos.}
+{284}{}{Kérdezze inkább az orvost!}
+{285}{}{Ne aggódjon, a hölgy szeret humorizálni!}
+{286}{}{Szeret incselkedni, de rá se rántson!}
+{300}{}{Sajnálom, de ez az operáció nem fog segíteni magán.}{400}{}{Hmmm. Ha van valaki, akinek elkelne az intelligencia növelés, akkor az maga. Tudja mit? A szokásos 6000 helyett 3000-ért is megcsinálom magának. Nem garantálom, hogy segít, de szerintem megéri a próbát. A felépülési idõ három hét. Mondjuk nem vagyok meggyõzõdve, hogy felfogja, mirõl beszélek... vagy igen?}
+{401}{}{Én akarni okos.}
+{402}{}{Nem akar!}
+{403}{}{Sugárzás érte vagy megsérült? Ha tudok, segítek.}
+{404}{}{éN sÉrüLt.}
+{405}{}{hAj kiHulLotT.}
+{406}{}{Nem.}
+{407}{}{Oké. Felébredt végre. Nézzük... okosabbnak érzi magát?}
+{408}{}{Hönh?}
+{409}{}{Igen!}
+{410}{}{Francba! Nem sikerült. Nem volt túl jó az alapanyag. Sajnálom, de maga egy idióta, és az is marad. Az operációt sajna csak egyszer tudjuk végrehajtani.}
+{411}{}{Sikerült! Sikerült megfelelõ szintre emelnem az IQ-ját. Milyen érzés fél aggyal?}
+{412}{}{Nagyszerû! Köszönet érte, doki. Viszlátásra!}
+{413}{}{Tessék. Mindjárt jobb...}

@@ -1,0 +1,476 @@
+{100}{}{Bõrpáncél}
+{101}{}{A leghétköznapibb, teljesen bõr öltözék. Finoman szabott, cserzett brahminbõrbõl készült.}
+{200}{}{Fémpáncél}
+{201}{}{Fényezett fémlapok rendetlen halmaza, mely durva páncélt alkot.}
+{300}{}{Erõpáncél}
+{301}{}{Összkomfortos öltözék, mely a legújabb technológiával készült. Energiáját egy mikro-fúziós reaktor biztosítja még legalább száz évig.}
+{400}{}{Kés}
+{401}{}{Egy pengeéles szúró- és vágófegyver. Min. ER: 2.}
+{500}{}{Tonfa} 
+{501}{}{A hadsereg és a rendõrség által használt népnevelõ eszköz. Anyaga tömör fa. Min. ER: 3.}
+{600}{}{Harci pöröly}
+{601}{}{Jókora kalapács hosszú nyéllel. Nagyon kedvelt az õt felemelni képes emberek körében. Min. ER: 6.}
+{700}{}{Lándzsa}
+{701}{}{Borotvaéles szálfegyver. Nyele fából készült, a hegye pedig edzett acél. Min. ER: 4.}
+{800}{}{10 mm-es pisztoly}
+{801}{}{10 mm-es Colt 6520 öntöltõ pisztoly. Az elsütõ billentyû minden egyes meghúzásakor automatikusan csõre tölti a lõszert, amíg a tár ki nem ürül. A 10 mm-es lövedékeket kibocsátó lõfegyver csak egyes lövések leadására képes. Min. ER: 3.}
+{900}{}{10 mm-es GPI}
+{901}{}{Heckler & Koch MP9-es géppisztoly (10 mm-es változat). Közepes méretû GPI, mely képes egyes lövések és sorozatok leadására is. Min. ER: 4.}
+{1000}{}{Vadászpuska}
+{1001}{}{,223-as kaliberû Colt Rangemaster félautomata vadászpuska. Csak egyes lövés adható le vele. Min. ER: 5.}
+{1100}{}{Lángszóró}
+{1101}{}{A Flambe 450 típusú lángszóró erõsebb verziója. Nagyon forró, gyúlékony folyadékot permetez kis távolságra. A használatához különleges üzemanyagra van szükség. Min. ER: 6.}
+{1200}{}{Gépágyú}
+{1201}{}{Rockwell CZ53-as kézi gépágyú. Ez egy többcsövû forgófejes gépfegyver, mely 5 mm-es lövedékekkel tüzel megközelítõleg 60000-es fordulatszámon. Min. ER: 7.}
+{1300}{}{Rakétavetõ}
+{1301}{}{Egy Rockwell BigBazooka rakétavetõ, mely a "Deluxe" változatú 1,5 kg-os elsütõbillentyûvel van felszerelve. Páncéltörõ és robbanófejes rakétákat is képes kilõni. Min. ER: 6.}
+{1400}{}{Robbanó rakéta}
+{1401}{}{Egy mezei rakéta, bazi nagy robbanófejjel.}
+{1500}{}{Plazmapuska}
+{1501}{}{Winchester Model P94 típusú plazmapuska. Ipari osztályú energiafegyver, mely szuperforró plazmanyalábokat lõ ki szupravezetõ csövén keresztül. Energiáját mikro-fúziós elemekbõl meríti. Min. ER: 6.}
+{1600}{}{Lézerpisztoly}
+{1601}{}{Wattz 1000 gyártmányú lézerpisztoly. Ez egy utcai változat, ezért a teljesítménye kisebb, mint a rendõrségi vagy a katonai modelleké. Mûködtetéséhez kis elemekre van szükség. Min. ER: 3.}
+{1700}{}{Harci páncél}
+{1701}{}{Egy a legújabb polimerkompozitokból csúcstechnológiával gyártott páncélzatok közül.}
+{1800}{}{,44-es Desert Eagle}
+{1801}{}{Egy õsi .44-es Desert Eagle magnum. A késõ XX. századi filmek tették minden idõk egyik legnépszerûbb maroklõfegyverévé. Min ER: 4.}
+{1900}{}{Kõdarab}
+{1901}{}{Egy egyszerû kõdarab. A Granite-Inc. legkorszerûbb modellje. Min. ER: 1.}
+{2000}{}{Feszítõvas}
+{2001}{}{Egy nagyon kemény és súlyos fémdarab, amelyet arra terveztek, hogy emelõerõt tudjunk rajta keresztül kifejteni. Vagy éppen az ütõerõnket... Min. ER: 5.}
+{2100}{}{Boxer}
+{2101}{}{Acélból készített, ökölre húzható fegyver. Védi a kezet, és nagyobb sebzést biztosít pusztakezes harcban. Min. ER: 1.}
+{2200}{}{14 mm-es pisztoly}
+{2201}{}{Sig-Sauer típusú 14 mm-es automata pisztoly. Óriási méretû, egyes lövéseket leadó, precíz fegyver. Min. ER: 4.}
+{2300}{}{Rohampuska}
+{2301}{}{Egy AK-112-es rohampuska. Régi modell, a háború óta nem használja a kutya se. Képes egyenként vagy akár sorozatokban is szórni a nagy sebességû 5 mm-es lövedékeket. Min. ER: 5.}
+{2400}{}{Plazmapisztoly}
+{2401}{}{Glock 86-os plazmapisztoly, melyet a Gaston Glock mesterséges agy tervezett. Kis nyalábokban nagy hõmérsékletû plazmát lõ ki magából. Kis energiacellákkal mûködik. Min. ER: 4.}
+{2500}{}{Repeszgránát}
+{2501}{}{Mezei repeszgránát. A gyilkos repeszekbõl álló burkolat kevés, ám nagy erejû robbanószert tartalmaz. Becsapódáskor robban. Min. ER: 3.}
+{2600}{}{Plazmagránát}
+{2601}{}{Mágnesesen lezárt plazmatároló egység detonátorral ellátva. Becsapódáskor túlhevített plazma lövell ki a gránátból. Min. ER: 4.}
+{2700}{}{Elektrogránát}
+{2701}{}{Elektromágneses gránát, amely a detonáció során kiterjedt mágneses mezõt hoz létre. Szerves élõlényekre nincs hatással. Min. ER: 4.}
+{2800}{}{Lézer gépágyú}
+{2801}{}{H&K L30-as gyorstüzelõ lézerágyú. Kifejezetten katonai használatra hozták létre, a háború kirobbanásakor még csak prototípusként létezett. Az hat csõ lehetõvé teszi, hogy hosszabb ideig lehessen vele tüzelni a túlmelegedés elõtt. Mikro-fúziós elemekkel üzemel. Min. ER: 6.}
+{2900}{}{10 mm ÜH}
+{2901}{}{10 mm kaliberû köpenyes üregeshegyû lõszer.}
+{3000}{}{10 mm PT}
+{3001}{}{10 mm-es páncéltörõ lövedék.}
+{3100}{}{,44 ÜH Magnum}
+{3101}{}{Egy tár ,44-es magnum típusú, üreges hegyû lõszer.}
+{3200}{}{Lángszóró üzemanyag}
+{3201}{}{Ez a tartály lángszórókba való fokozottan gyúlékony folyadékot tartalmaz.}
+{3300}{}{14 mm PT}
+{3301}{}{Nagy kaliberû, páncéltörõ lõszer.}
+{3400}{}{,223 FK}
+{3401}{}{0,223 hüvelyk átmérõjû, fémköpenyes töltény.}
+{3500}{}{5 mm ÜH}
+{3501}{}{Egy tár, mely kis kaliberû lõszert tartalmaz. 5 mm-es átmerõ és köpenyelt üreges hegy jellemzi.}
+{3600}{}{5 mm PT}
+{3601}{}{Ebben a tárban kis kaliberû, 5 mm-es páncéltörõ muníció van.}
+{3700}{}{PT rakéta}
+{3701}{}{Rakéta, melyben kisebb robbanótöltet van, de páncéltörõ tulajdonságokkal bír.}
+{3800}{}{Kis energiacella}
+{3801}{}{Kis méretû, független energiatároló eszköz.}
+{3900}{}{Mikro-fúziós cella}
+{3901}{}{Közepes méretû, fúziós energiatermelõ egység.}
+{4000}{}{Stimpakk}
+{4001}{}{Gyógyító vegyület. Beadásakor azonnali gyógyulást eredményez kisebb sérülések esetén.}
+{4100}{}{Kupakok}
+{4101}{}{Ebben a szütyõben tartod a kupakjaidat.}
+{4200}{}{Hûtõ}
+{4201}{}{Egy hûtõszekrény, hûtõfolyadék nélkül.}
+{4300}{}{Mélyhûtõ láda}
+{4301}{}{Régi stílusú fagyasztó láda. A zsanérok még mindig jó állapotban vannak.}
+{4400}{}{Mélyhûtõ láda}
+{4401}{}{Egy jéggel töltött láda, még a letûnt korok idejébõl. A csuklópántok még mindig jól mûködnek.}
+{4500}{}{Dobókés}
+{4501}{}{Ezt a kést kifejezetten dobásra egyensúlyoztak ki. Titánból készült, melyet lézerrel fentek félelemtesen élesre. Min. ER: 3.}
+{4600}{}{Zsák}
+{4601}{}{Egy teljesen hétköznapi méretû zsák, melyet brahminszõrbõl szõttek.}
+{4700}{}{Elsõsegély csomag}
+{4701}{}{Egy kis készlet, mely a lagalapvetõbb orvosi eszközöket tartalmazza: kötszer, fásli, fertõtlenítõ folyadék, stb.}
+{4800}{}{RadAway}
+{4801}{}{Vegyi oldat, mely megköti a radioaktív részecskéket, amik így ki tudnak ürülni a szervezetbõl. A megfelelõ hatás eléréséhez kell némi idõ.}
+{4900}{}{Ellenméreg}
+{4901}{}{Ebben az üvegben házilag kotyvasztott méreg-ellenszer található. Valami tejszerû folyadék, amiben radskorpiók különbözõ darabjai úszkálnak.}
+{5000}{}{Reserved Item}
+{5001}{}{This is a reserved item.  DO NOT USE.}
+{5100}{}{Dinamit}
+{5101}{}{Stabil nitroglicerint tartalmazó nagyerejû robbanószer idõzítõvel ellátva.}
+{5200}{}{Geiger-számláló}
+{5201}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erõsségét.}
+{5300}{}{Mentát}
+{5301}{}{Egy doboznyi elmemódosító pirula. Javítja a memóriát, és felgyorsítja az agymûködést. Könnyen függõséget okozhat.}
+{5400}{}{Stealth Boy}
+{5401}{}{"RobCo Stealth Boy 3001" személyi álcázó készülék. Olyan mezõt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
+{5500}{}{Víztisztító csip}
+{5501}{}{Egy víztisztítást vezérlõ számítógép processzora. Egész meglepõ módon épp úgy néz ki, mint amilyet a Menedékben hiányolnak.}
+{5600}{}{Dögcédula}
+{5601}{}{Katonai dögcédula. Egyedül a Darkwater név olvasható rajta.}
+{5700}{}{Poloska}
+{5701}{}{Miniatûr hangfelveõ és továbbító készülék.}
+{5800}{}{Hololemez}
+{5801}{}{Wattz Electronics gyártmányú hololemez. Ez a példány nagyon rossz állapotban van.}
+{5900}{}{Mozgásérzékelõ}
+{5901}{}{Ez egy Wattz Electronics C-U (ugye veszed a poént...) típusú mozgásérzékelõ. Radarjával jónéhány méter távolságból is képes detektálni a biológiai eredetû anyagokat.}
+{6000}{}{Könyvespolc}
+{6001}{}{Fából készült könyvespolc.}
+{6100}{}{Könyvespolc}
+{6101}{}{Fából készült könyvespolc.}
+{6200}{}{Könyvespolc}
+{6201}{}{Fából készült könyvespolc.}
+{6300}{}{Könyvespolc}
+{6301}{}{Fából készült könyvespolc.}
+{6400}{}{Könyvespolc}
+{6401}{}{Fából készült könyvespolc.}
+{6500}{}{Könyvespolc}
+{6501}{}{Fából készült könyvespolc.}
+{6600}{}{Asztal}
+{6601}{}{Fából készült asztal.}
+{6700}{}{Asztal}
+{6701}{}{Fából készült asztal.}
+{6800}{}{Komód}
+{6801}{}{Fából készült komód.}
+{6900}{}{Komód}
+{6901}{}{Fából készült komód.}
+{7000}{}{Komód}
+{7001}{}{Fából készült komód.}
+{7100}{}{Gyümölcs}
+{7101}{}{Furcsa gyümölcs. Tartósítószer és mesterséges színezék nélkül.}
+{7200}{}{Aktatáska}
+{7201}{}{Bõr aktatáska, "Made in the USA" címkével. Jó állapotban van, de a számzár nem mûködik.}
+{7300}{}{A Tudományok nagy könyve}
+{7301}{}{Könyvkészlet, mely különbözõ tudományágak ismereteit gyûjti össze.}
+{7400}{}{Bõrdzseki}
+{7401}{}{Egy fekete, nehéz bõrdzseki.}
+{7500}{}{Szerszámkészlet}
+{7501}{}{Szerszámkészlet, mely sok hasznos szerszámot tartalmaz, beleértve a fogót is.}
+{7600}{}{Elektronikai szakkönyv}
+{7601}{}{Elektronikával foglalkozó tankönyv. A borítója szerint "a mindenkiben megbúvó villamosmérnök számára" készült.}
+{7700}{}{Elektromos zárnyitó}
+{7701}{}{Wattz Electronics gyártmányú "Micromanipulator FingerStuff" típusú zárnyitó, elektromos zárak, és biztonsági berendezések feltörésére.}
+{7800}{}{Festmény}
+{7801}{}{Kép egy énekesrõl. Már nagyon régi, de a kép borításának köszönhetõen még mindig jó állapotban van.}
+{7900}{}{Jelzõfény}
+{7901}{}{Jelzõfény, mely egy rövid ideig fényt bocsát ki. A papír kicsit elnyûtt, de amúgy jó állapotban van. Ha aktiválni akarod, csavard el a tetejét!}
+{8000}{}{Elsõsegély könyv}
+{8001}{}{Ez a tankönyv az elsõsegélynyújtás elméleti és gyakorlati lépéseit mutatja be.}
+{8100}{}{Nyárson sült iguana}
+{8101}{}{Iguana, a saját bõrében sütve.}
+{8200}{}{Kulcs}
+{8201}{}{Ez a kulcs egy zárhoz tartozik.}
+{8300}{}{Kulcscsomó}
+{8301}{}{Több kulcs egybefûzve.}
+{8400}{}{Tolvajkulcs készlet}
+{8401}{}{Egy készlet, mely minden fontos eszközt tartalmaz egyszerûbb zárak kinyításához, beleértve különbözõ fogókat és feszítõket.}
+{8500}{}{Plasztikbomba}
+{8501}{}{Egy nagy darab, Cordex márkájú, katonai, plasztik robbanószer. Nagyon stabil és óriási pusztítóerõvel bír. Idõzítõ is van rajta.}
+{8600}{}{Felderítõk kézikönyve}
+{8601}{}{Egy könyv, mely a felderítés elvi és gyakorlati módszereit ismerteti. Hasznos tudnivalókat nyújt a szabadban való túléléshez.}
+{8700}{}{Buffout}
+{8701}{}{Fejlett szteroidkészítmény. Amikor hat, megnöveli az erõt és gyorsítja a reflexeket. Könnyen függõséget okoz.}
+{8800}{}{Karóra}
+{8801}{}{Egy értékes karóra. Nem mûködik, de még mindig jól néz ki.}
+{8900}{}{Motor}
+{8901}{}{Ez egy 40 lóerõs, elektromos motor.}
+{9000}{}{Hátizsák}
+{9001}{}{Hátizsák a fakultatív szíjakkal.}
+{9100}{}{Orvosi táska}
+{9101}{}{Egy táska, mely mindazon mûszereket és gyógyszereket tartalmazza, melyeket az orvosok használnak munkájuk során.}
+{9200}{}{Skorpiófarok}
+{9201}{}{Egy radskorpió levágott farka.}
+{9300}{}{Szütyõ}
+{9301}{}{Egy átlagos méretû szütyõ. Szõtt brahminszõrbõl készült.}
+{9400}{}{Sörétes puska}
+{9401}{}{Egy "Özvegyítõ" becenevû Winchester márkajelzésû duplacsövû sörétes puska. Rövid csõ, mahagóni markolat. Min ER: 4.}
+{9500}{}{Sörétes lõszer}
+{9501}{}{Lõszer sörétes puskához. A lõszeren ez áll: "12-es kaliberû töltény, 3 éven aluli gyermekek elõl gondosan elzárandó!"}
+{9600}{}{Piros kódkártya}
+{9601}{}{Elektronikus biztonsági kártya, piros színkóddal.}
+{9700}{}{Kék kódkártya}
+{9701}{}{Elektromos biztonsági kártya, kék színkóddal.}
+{9800}{}{Kacatok}
+{9801}{}{Egy kis limlom. Mindenbõl egy kevés.}
+{9900}{}{Aranymedál}
+{9901}{}{Ez egy igen értékes aranymedál.}
+{10000}{}{Rádió}
+{10001}{}{Egy 2043B típusú rádió adó-vevõ a Wattz Electronicstól. Megbízható, terepszínû modell, RS-121-es interfésszel felszerelve.}
+{10100}{}{Öngyújtó}
+{10101}{}{Egy jó állapotban lévõ ezüst butánöngyújtó.}
+{10200}{}{Fegyvermánia}
+{10201}{}{Fegyvermagazin, mely ismertetõket tartalmaz különbözõ tûzfegyverekrõl és azok hatékony használatáról.}
+{10300}{}{Nyárson sült iguana}
+{10301}{}{Egy adag nyárson sült iguanapecsenye némi zöldséggel.}
+{10400}{}{Lejátszó}
+{10401}{}{Wattz Electronics Játszd-Le-Nekem típusú kazettás magnó. Lejátszásra és felvételre egyaránt alkalmas. 30 perces egyszeri felvételre alkalmas kazettákat használ.}
+{10500}{}{Kulcs}
+{10501}{}{Speciális kulcs.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Egy üveg Nuka-Cola, a posztnukleáris világ egyik legnépszerûbb itala. Langyos és buborékmentes.}
+{10700}{}{Csontok}
+{10701}{}{Egy pár fura csont.}
+{10800}{}{Csontok}
+{10801}{}{Néhány érdekes csont.}
+{10900}{}{Rad-X}
+{10901}{}{Sugárzás elleni kapszulák. Ajánlott a fertõzött területre való belépés elõtt bevenni. Nincs ismert mellékhatása.}
+{11000}{}{Pszicho}
+{11001}{}{Valószínûleg katonai eredetû, ismeretlen vegyületeket tartalmazó szer. A katonák harci potenciálját hivatott növelni.}
+{11100}{}{,44-es FK magnum}
+{11101}{}{Egy tár fémköpenyes, .44-es magnum lõszer.}
+{11200}{}{Urna}
+{11201}{}{Gyönyörû, aranyból készült urna, melyre a "Harriet" nevet gravírozták. Hamvakat tartalmaz.}
+{11300}{}{Köpeny}
+{11301}{}{A Katedrális Gyermekeinek köpenye.}
+{11400}{}{Tangler keze}
+{11401}{}{Egy emberi kezet formázó kibernetikus manipulátor. Sajnos megsérült, ami a hanyag eltávolítás egyik jellegzetes velejárója.}
+{11500}{}{Szuper harci pöröly}
+{11501}{}{Az Acél Testvérisége által a legfejlettebb technológia szerint gyártott kalapács. A lehetõ legnagyobb ütõerõ elérésének érdekében kinetikus energia tároló egységet tartalmaz. Min ER: 5.}
+{11600}{}{Hasfelmetszõ}
+{11601}{}{Hasfelmetszõ (TM) márkájú rezgõpenge. A kis energiacellákkal mûködõ lánclap gyorsan megtalálja az utat a célpont belsejébe. Min ER: 4.}
+{11700}{}{Virág}
+{11701}{}{Egy gyönyörû szép virág.}
+{11800}{}{Lézerpuska}
+{11801}{}{Wattz 2000 márkájú lézerpuska. Mikro-fúziós cellákkal mûködik, így nagyobb a tûzereje, a meghosszabított csõ pedig nagyobb hatótávolságot eredményez. Min ER: 6.}
+{11900}{}{Nyaklánc}
+{11901}{}{Egy nagyon drága nyaklánc. Ezüst, arany és gyémánt felhasználásával készült.}
+{12000}{}{Idegen fegyver}
+{12001}{}{Érdekes formájú, idegen lényektõl származó fegyver. Furcsa módon mégis mûködtethetõ kis energiacellákkal. Min ER: 2.}
+{12100}{}{9 mm-es}
+{12101}{}{Szabványos 9x19 mm-es lõszer. Jól be vannak zsírozva, így védve vannak a környezet viszontagságaitól.}
+{12200}{}{9 mm-es Mauser}
+{12201}{}{Mauser M/96 márkájú, 9x19 mm-es lõszert használó Parabellum. Remek állapotban van. Nagyon pontos. Min ER: 3.}
+{12300}{}{Pszichikai megsemmmisítõ}
+{12301}{}{Egy különös, ismeretlen technológiával gyártott készülék.}
+{12400}{}{Sör}
+{12401}{}{Valamiféle házi készítésû sör.}
+{12500}{}{Pia}
+{12501}{}{Õsi szeszes ital, még a háború elõtti idõkbõl.}
+{12600}{}{Kulacs}
+{12601}{}{Víz, és egyéb folyadékok tárolására szolgál.}
+{12700}{}{Kötél}
+{12701}{}{Egy körülbelül 20 méter hosszú, erõs és vastag kötél.}
+{12800}{}{Láda}
+{12801}{}{Zárható tárolóeszköz az ágy lábánál.}
+{12900}{}{Láda}
+{12901}{}{Zárható tárolóeszköz az ágy lábánál.}
+{13000}{}{Láda}
+{13001}{}{Zárható tárolóeszköz az ágy lábánál.}
+{13100}{}{Láda}
+{13101}{}{Zárható tárolóeszköz az ágy lábánál.}
+{13200}{}{Öltözõszekrény}
+{13201}{}{Szekrény, tárolóegység.}
+{13300}{}{Öltözõszekrény}
+{13301}{}{Szekrény, tárolóegység.}
+{13400}{}{Öltözõszekrény}
+{13401}{}{Szekrény, tárolóegység.}
+{13500}{}{Öltözõszekrény}
+{13501}{}{Szekrény, tárolóegység.}
+{13600}{}{Öltözõszekrény}
+{13601}{}{Szekrény, tárolóegység.}
+{13700}{}{Öltözõszekrény}
+{13701}{}{Szekrény, tárolóegység.}
+{13800}{}{Öltözõszekrény}
+{13801}{}{Szekrény, tárolóegység.}
+{13900}{}{Öltözõszekrény}
+{13901}{}{Szekrény, tárolóegység.}
+{14000}{}{Beléptetõ kártya}
+{14001}{}{Biztonsági beléptetõ kártya. Még mindig mûködöképes állapotban van.}
+{14100}{}{KGY jelvény}
+{14101}{}{Egy jelvény, mely a Katedrális Gyermekeinek szimbólumát ábrázolja. Kinézete egy kulcsra emlékeztet téged.}
+{14200}{}{KGY jelvény}
+{14201}{}{Jelvény, mely a Katedrális Gyermekeinek szimbólumát ábrázolja. Kinézete egy kulcsra emlékeztet téged.}
+{14300}{}{Mesterlövész puska}
+{14301}{}{DKS-501 mesterlövész puska. Kiváló, nagy hatótávolságú fegyver. Eredetileg .308-as kaliberû, de ezt a darabot a jóval egyszerûbb .223-as lövedékek kilövésére módosították. Min ER: 5.}
+{14400}{}{Szuper Stimpakk}
+{14401}{}{Bonyolult, nagyon hatékony gyógyszer. A bennük lévõ anyagok erõteljes természete miatt a szuperstimek egy idõ után kisebb sérülést okoznak.}
+{14500}{}{Könyvespolc}
+{14501}{}{Fából készült könyvespolc.}
+{14600}{}{Könyvespolc}
+{14601}{}{Fából készült könyvespolc.}
+{14700}{}{Könyvespolc}
+{14701}{}{Fából készült könyvespolc.}
+{14800}{}{Könyvespolc}
+{14801}{}{Fából készült könyvespolc.}
+{14900}{}{Könyvespolc}
+{14901}{}{Fából készült könyvespolc.}
+{15000}{}{Könyvespolc}
+{15001}{}{Fából készült könyvespolc.}
+{15100}{}{Polc}
+{15101}{}{Fából készült polcrendszer.}
+{15200}{}{Polc}
+{15201}{}{Fából készült polcrendszer.}
+{15300}{}{Polc}
+{15301}{}{Fából készült polcrendszer.}
+{15400}{}{Polc}
+{15401}{}{Fából készült polcrendszer.}
+{15500}{}{Polc}
+{15501}{}{Fából készült polcrendszer.}
+{15600}{}{Polc}
+{15601}{}{Fából készült polcrendszer.}
+{15700}{}{Munkasztal}
+{15701}{}{Munkaasztal. Bizony-bizony, a jó öreg szabványos munkaasztal. Jól mutat a helyén.}
+{15800}{}{Szerszámos tábla}
+{15801}{}{Ezen a munkaasztal feletti táblán különbözõ szerszámok találhatóak.}
+{15900}{}{Molotov-koktél}
+{15901}{}{Házi készítésû gyújtógránát. Min ER: 3.}
+{16000}{}{Elektromos ösztöke}
+{16001}{}{"A farmer legjobb barátja." Wattz Electronics gyártmány. Kis energiacellák mûködtetik. Min ER: 4.}
+{16100}{}{Red Ryder BB puska}
+{16101}{}{A Red Ryder BB légpuska. Klasszikus. Min ER: 3.}
+{16200}{}{Red Ryder LE BB puska}
+{16201}{}{A Red Ryder BB korlátozott számban gyártott, módosított változata. Klasszikus darab. Min ER: 3.}
+{16300}{}{BB csapágygolyók} 
+{16301}{}{Egy csomag csapágygolyó BB puskákba még a háború elõttrõl. Remek állapotban vannak. Rozsdamentes acélból készültek.}
+{16400}{}{A Testvériség hololemeze}
+{16401}{}{Hololemez az Acél Testvériségétõl.}
+{16500}{}{Iguana árusító hely}
+{16501}{}{Bob Iguana Falatkáinak otthona. Hogyan lehet nem szeretni a frissen sült, ropogós iguanát?}
+{16600}{}{Asztal}
+{16601}{}{Egy szabványos asztal. Dolgok tárolására alkalmas.}
+{16700}{}{Asztal}
+{16701}{}{Egy szabványos asztal. Dolgok tárolására alkalmas.}
+{16800}{}{Cucc}
+{16801}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{16900}{}{Cucc}
+{16901}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17000}{}{Cucc}
+{17001}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17100}{}{Cucc}
+{17101}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17200}{}{Cucc}
+{17201}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17300}{}{Cucc}
+{17301}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17400}{}{Cucc}
+{17401}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17500}{}{Cucc}
+{17501}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17600}{}{Cucc}
+{17601}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17700}{}{Cucc}
+{17701}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17800}{}{Cucc}
+{17801}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17900}{}{Cucc}
+{17901}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{18000}{}{Doboz}
+{18001}{}{Különbözõ dolgokkal telerámolt fadoboz.}
+{18100}{}{Asztal}
+{18101}{}{Egy közönséges asztal. Ha láttál egyet, láttad mindet.}
+{18200}{}{Asztal}
+{18201}{}{Egy közönséges asztal.}
+{18300}{}{Asztal}
+{18301}{}{Egy közönséges asztal.}
+{18400}{}{Asztal}
+{18401}{}{Egy közönséges asztal.}
+{18500}{}{Asztal}
+{18501}{}{Egy közönséges asztal.}
+{18600}{}{Asztal}
+{18601}{}{Egy közönséges asztal.}
+{18700}{}{Asztal}
+{18701}{}{Egy közönséges asztal.}
+{18800}{}{Szekrény}
+{18801}{}{Öltözõszekrény.}
+{18900}{}{Szekrény}
+{18901}{}{Öltözõszekrény.}
+{19000}{}{FEV Hololemez}
+{19001}{}{Hololemez, mely orvosi információkat tartalmaz. Használd, hogy a tartalma bekerüljön a PipBoyba!}
+{19100}{}{Biztonsági lemez}
+{19101}{}{Hololemez, a címkéjén a "Biztonsági napló" szöveg olvasható. Használd, hogy a tartalma bekerüljön a PipBoyba!}
+{19200}{}{Alfa kísérleti lemez}
+{19201}{}{Egy hololemez. Ez áll a címkéjén: "Alfa kísérleti napló"}
+{19300}{}{Delta kísérleti lemez}
+{19301}{}{Egy hololemez. Ez áll a címkéjén: "Delta kísérleti napló"}
+{19400}{}{Vree kísérleteinek lemeze}
+{19401}{}{Ez a hololemez orvosi bizonyítékokat tartalmaz Vree-rõl, a Testvériség egyik tagjáról. Használatával bemásolhatod az adatokat a PipBoyodba.}
+{19500}{}{Testvériségi szabályzat}
+{19501}{}{Erre a hololemezre az Acél Testvériség emblémáját festették. Használatával bemásolhatod a tartalmát a PipBoyodba.}
+{19600}{}{Mutáns rádiókommunikációk}
+{19601}{}{Erre a lemezre egy rádióadás hangfelvételét rögzítették. Használatával bemásolhatod a tartalmát a PipBoyodba.}
+{19700}{}{Doboz}
+{19800}{}{Doboz}
+{19900}{}{Doboz}
+{20000}{}{Doboz}
+{20100}{}{Doboz}
+{20200}{}{Doboz}
+{20300}{}{Doboz}
+{20400}{}{Doboz}
+{20500}{}{Jelzõfény}
+{20501}{}{Jelzõfény, mely egy rövid ideig fényt bocsát ki. A papír kicsit elnyûtt, de amúgy jó állapotban van. Éppen ég.}
+{20600}{}{Dinamit}
+{20601}{}{Stabil nitroglicerint tartalmazó nagyerejû robbanószer. Idõzítõvel vanellátva, ami most éppen ketyeg.}
+{20700}{}{Geiger-számláló}
+{20701}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erõsségét. Be van kapcsolva.}
+{20800}{}{Mozgásérzékelõ}
+{20801}{}{Wattz Electronics gyártmányú C-U típusú mozgásérzékelõ. Radarjával érzékeli a szerves létformák mozgását egy bizonyos hatótávolságig. Be van kapcsolva.}
+{20900}{}{Plasztikbomba}
+{20901}{}{Egy nagy darab, Cordex márkájú, katonai, plasztik robbanószer. Nagyon stabil és óriási pusztítóerõvel bír. Idõzítõ is van rajta, ami most épp ketyeg.}
+{21000}{}{Stealth Boy}
+{21001}{}{RobCo Stealth Boy 3001 személyi álcázó készülék. Egy mezõt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
+{21100}{}{Csontok}
+{21101}{}{Valaha Ednek hívták. Már halott.}
+{21200}{}{Tandi}
+{21201}{}{Épp Tandi kiszabadításáért próbálsz valamit ajánlani.}
+{21300}{}{Gizmo maradványai}
+{21301}{}{Ez itt a halott Gizmo, Szemétváros bûnbandájának fõnöke. Eléggé büdös.}
+{21400}{}{Asztal}
+{21401}{}{Némi vizsgálódás után arra a következtetésre jutsz, hogy "ez bizony tényleg egy asztal".}
+{21500}{}{A Testvériség Története}
+{21501}{}{Az Acél Testvériségének története. Használata után a PipBoyban olvashatod a tartalmát.}
+{21600}{}{Maxson története}
+{21700}{}{Maxson folyóirata}
+{21800}{}{Könnyû sérülés gyógykezelése}
+{21801}{}{Akkor vásárold meg ezt az opciót, ha nem túl komolyak a sérüléseid.}
+{21900}{}{Közepes sérülés gyógykezelése}
+{21901}{}{Akkor vásárold meg ezt az opciót, ha nem csak karcolásaid vannak.}
+{22000}{}{Súlyos sérülés gyógykezelése}
+{22001}{}{Akkor vásárold meg ezt az opciót, ha komoly sérülések értek.}
+{22100}{}{Beléptetõ kártya}
+{22101}{}{Kulcskártya, melynek egyszerû elektronikája tartalmazza a beléptetõ kódot.}
+{22200}{}{Kapcsoló}
+{22201}{}{Elektromos váltóberendezés, hatalmas karral. Úgy tûnik, hogy nem rég készült és nagyon nagy kezekre tervezték.}
+{22300}{}{Sárga kódkártya}
+{22301}{}{Elektronikus biztonsági kártya sárga színkóddal.}
+{22400}{}{Szobrocska}
+{22401}{}{A PipBoy figurájára hasonlít, de ebben nem vagy biztos.}
+{22500}{}{Nem tudod, mi ez}
+{22501}{}{Közelebbrõl megnézvén ezt az izét, még mindig nem tudod, mi ez.}
+{22600}{}{Egy doboz tészta}
+{22601}{}{Fogalmad sincs, mit jelent az, hogy "Instant Spagetti".}
+{22700}{}{Valami kisméretû poros doboz}
+{22701}{}{Tipikus TV nasi. Nem vagy benne biztos, mi ez, de aligha ehetõ. Arról sem vagy meggyõzõdve, hogy valaha is az volt.}
+{22800}{}{Használati utasítás}
+{22801}{}{A T-51b erõpáncél javítási útmutatója.}
+{22900}{}{Kicsiny szerkezet}
+{22901}{}{Ez egy szisztolikus motivátor. Ez a szokatlan szerkentyû nagyon kis méretû.}
+{23000}{}{Menedék napló}
+{23001}{}{A számítógépes rendszer naplója a menedék fontosabb eseményeirõl. Lehet, hogy sérült.}
+{23100}{}{A katonai bázis biztonsági kódja}
+{23101}{}{ }
+{23200}{}{Megerõsített erõpáncél}
+{23201}{}{T-51b erõpáncél. A keményítõ edzés megnövelte e csúcstechnológiájú páncélzat védelmi képességeit.}
+{23300}{}{Turbó plazmapuska}
+{23301}{}{Módosított Winchester P94 plazmapuska. A gerjesztõkamrát átdrótozták, így gyorsabban tud a plazma kialakulni benne. Min ER: 6.}
+{23400}{}{Szöges bokszer}
+{23401}{}{A bokszer továbbfejlesztett változata. A szöges bokszer nagyobb sérülést okoz, mivel verekedés közben beletép az ellenfél húsába. Min ER: 1.}
+{23500}{}{Erõkesztyû}
+{23501}{}{Egy "Nagy Zúzó" becenevû erõkesztyû a BeatCo. mûvektõl. Az egyik legjobb fegyvernek tartják az ökölharcban. Senki nem szeret szembetalálkozni vele. Kis energiacellák mûködtetik. Min ER: 1.}
+{23600}{}{Harci kés}
+{23601}{}{Kiváló minõségû kés a SharpWit, Inc. jóvoltából. A penge éle garantáltan nem kopik, még egy évtizednyi használat után sem. Min ER: 2.}
+{23700}{}{Vegyészeti folyóiratok}
+{23701}{}{Némi szakirodalom a vegyészet területérõl. A molekuláis kémiával foglalkozó írások elég érdekesek.}
+{23800}{}{Rendfenntartók rádióüzenete}
+{23801}{}{Hololemez, mely egy felvett rádióbeszélgetést tartalmaz.}
+{23900}{}{Testvériségi páncél}
+{23901}{}{A harci páncél továbbfejlesztett változata. Az Acél Testvérisége rengeteg újítást eszközölt az alapváltozaton.}
+{24000}{}{Tesla-páncél}
+{24001}{}{Ez a csillogó páncél az energia alapú támadások ellen nyújt védelmet. A három beépített Tesla-tekercs elnyeli az energia jelentõs részét.}
+{24100}{}{223 Pisztoly}
+{24101}{}{Egy ,223-as puska levágott csövû, pisztollyá módosított változata. Egyedülálló darab, melyet nagy precizitással és hozzáértéssel készítettek. Min ER: 5.}
+{24200}{}{Harci Sörétes}
+{24201}{}{Egy Winchester City-Killer harci sörétes hátsótáras változata. Remek állapotban van, és a "Sivatagi hadviselés" védõfelszereléssel van ellátva, mely különösen megbízhatóvá teszi. Min ER: 5.}
+
+

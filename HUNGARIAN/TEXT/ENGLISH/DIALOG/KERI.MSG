@@ -1,0 +1,130 @@
+{100}{}{Keri.}
+{101}{}{Ki a fene vagy? Ha munkát akarsz, beszélj Demetrével!}
+{102}{}{Azt mondtam, hogy apámmal beszélj munka ügyben, ne velem!}
+{103}{}{Szóval a vén lókötõ rábólintott, hogy velünk dolgozz, mi? Elég kemény ribi lehetsz. Egyelõre le vagyok nyûgözve, de minden kiderül majd a vallatásnál. Havonta kétszer indul karaván, harmadikán és tizenhetedikén. Megfelel ez neked? Az összes létezõ helyre elmegyünk, ami számít valamit. Az Acél Testvérisége, Roncsváros, Nekropolisz és a Csonttelep.}
+{104}{}{Szóval a vén lókötõ rábólintott, hogy velünk dolgozz, mi? Eléggé acéltökû figura lehetsz. Egyelõre le vagyok nyûgözve, de minden kiderül majd a vallatásnál. Havonta kétszer indul karaván, harmadikán és tizenhetedikén. Megfelel ez neked? Az összes létezõ helyre elmegyünk, ami számít valamit. Az Acél Testvérisége, Roncsváros, Nekropolisz és a Csonttelep.}
+{105}{}{Mi a fizetség?}
+{106}{}{Öh.}
+{107}{}{A legjobb, ami létezik. 600 szkript és igen, ez minden egyes útér jár... persze nem kell retúrjegyet váltani. Ez elég húzós karavánmenet, és majdnem biztos, hogy összefututnk valami fosztogató bandával... vagy még rosszabbal. Anyámasszonykatonákat nem akarunk a karaván mellett, és jó lesz, ha zsákszámra hozol lõszert.}
+{108}{}{ Ma indulunk. Érdekel tehát?}
+{109}{}{ Az indulási idõpont }
+{110}{}{Üres}
+{111}{}{Üres}
+{112}{}{. Érdekel?}
+{113}{}{Ma indulunk.}
+{114}{}{Az indulási idõpont }
+{115}{}{}
+{116}{}{}
+{117}{}{. Érdekel?}
+{118}{}{Azért én még adok annak a szerencsétlen fajtádnak munkát. Amennyiben érdekel?}
+{119}{}{Hogyne.}
+{120}{}{Nem.}
+{121}{}{Azt hiszem, szívesen dolgoznék veled.}
+{122}{}{Esetleg.}
+{123}{}{Ög.}
+{124}{}{Ha, azt hittem, gyáva kukac vagy! Szóval... ha bátor vagy és benne vagy, ugorj be hozzám, és kaphatsz tõlem munkát. Harmadikán és tizenhetedikén szoktunk indulni, elég ha aznap elõkerülsz. Minél több fegyveresünk van, annál jobb.}
+{125}{}{Ugye imádod herdálni az idõmet, mi?}
+{126}{}{Egyremegy. Ha sürgõs késztetést érzel egy kis balhéra, gyere vissza hozzám, és beutallak a következõnek induló karaván mellé.}
+{127}{}{Hé! Tudom, hogy jó kis drogokat lehet itt kapni, de addig nem bérelhetlek fel, amíg nem józanodsz ki.}
+{128}{}{Ember, már mondtam, hogy ürítsd ki magadból a drogokat!}
+{129}{}{Bébi, már mondtam, hogy ürítsd ki magadból a drogokat!}
+{130}{}{Az a nagy büdös helyzet, hogy... hát nem szívesen mondok ilyet... de hallottam már rólad. Magánügyekben is olyan kemény vagy, mint a külvilág felé? Lássuk... (Elvezet az egyik sarok mögé)}
+{131}{}{(Visszafelé menet odacsúsztat egy-két dolgot.)}
+{132}{}{Hát, nem mondom, ELÉGGÉ bírod a strapát.}
+{133}{}{Te aztán "igazán" érdekes vagy, és "nagyon" különbözöl az emberek többségétõl... mutasd csak, mit tudsz, keményfiú! (Elvezet egy sarok mögé.)}
+{134}{}{(Visszafelé menet odacsúsztat egy-két dolgot.)}
+{135}{}{Hát, nem mondom, ELÉGGÉ bírod a strapát.}
+{136}{}{Hé, Tökik, úgy tûnik, fogtam egy tolvajt! Mit tudsz mondani a mentségedre, te szemétláda?}
+{137}{}{Sajnálom, soha többet nem csinálom.}
+{138}{}{Kapj el, ha tudsz...}
+{139}{}{Nem szeretem a túl nagy nyugit! Gyere és fogj meg!}
+{140}{}{(Bólintasz, hogy rendben)}
+{141}{}{ÚÚÚGABÚÚÚGA!!!}
+{142}{}{Hé, Tökik, ez a szararcú nem tanult az elsõ alkalomból! Újra megpróbált lopni tõlem. Tángáljuk el, mint a répát!}
+{143}{}{Hé, Tökik, ez a szararcú nem tanult az elsõ alkalomból! Újra megpróbált lopni tõlem. Tángáljuk el, mint a répát!}
+{144}{}{Hát... tudom én, milyen könnyû elcsábulni és lopni, de... a francba, adok egy esélyt. Ha nem tolod ide a képed újra, nem hívom a zsernyákokat. Na, lódulj kifelé!}
+{145}{}{Errõl mindjárt bizonyságot szerzünk, ugye Tökik?}
+{146}{}{Menj a francba!}
+{147}{}{Gondolom.}
+{148}{}{Most mindjárt kinyúvadsz!}
+{149}{}{Azt mondtam, lódulj kifelé!}
+{150}{}{Rendõrség!}
+{151}{}{Sajnálom, többet nem közösködünk veled.}
+{152}{}{Nincs munkafelvétel, menet kifelé!}
+{153}{}{Ne akard, hogy bepipuljak!}
+{154}{}{Marharépa!}
+{155}{}{Meggondolandó, de nem vagy az esetem.}
+{156}{}{Jó. Ahogy korábban is mondtam már, 600 szkriptet fizetünk. Melyik útvonal érdekelne?}
+{157}{}{Király! A következõ karaván indulási idõpontja }
+{158}{}{. Akkor gyere vissza, és hozzácsaplak a bandához. Ahogy mindig, 600 szkriptet fizetünk!}
+{159}{}{Oké. }
+{160}{}{Elnézést, de ennyit nem tudok várni.}
+{161}{}{Ki kéne kaparnom a szemedet! Egy egész rohadt karavánt elvesztettünk miattad! Tûnj a szemem elõl! Megpróbálok valami komoly segítséget szerezni helyetted!}
+{162}{}{A töködnél kéne fellógatnom téged! Egy egész rohadt karavánt elvesztettünk miattad! Tûnj a szemem elõl! Megpróbálok valami komoly segítséget szerezni helyetted!}
+{163}{}{Az Acel Testverisege}
+{164}{}{Roncsvaros}
+{165}{}{Nekropolisz}
+{166}{}{Csonttelep}
+{167}{}{Sebaj. Van valami, amit úgyis meg kell csinálnom. }
+{168}{}{Harcra készen! Indulunk ebbõl a koszfészekbõl!}
+{169}{}{Majd szólj, ha bármi érdekes történik. Apám elvárja, hogy folyton itt dekkoljak.}
+{170}{}{Nagyszerû! Az összes pszichopata készen áll. Most azonnal indulunk.}
+{171}{}{Király, még néhány percet kérek, amíg összecsõdítem az összes pszichopatát.}
+{172}{}{Az Acél Testvérisége, ahogy óhajtod! Én mondjuk... nem megyek veletek, nyilván sejted, miért...}
+{173}{}{Oké, húzz a szemem elõl, de sebtiben! Azok a Testvériségi fanatikusok már várnak rád!}
+{174}{}{Remélem, szereted a hegyvidéket! Merthogy oda fogtok menni. Jó sok balhé várható.}
+{175}{}{Menetre kész, egyenesen a hegyek közé mentek majd! Nagy durranás lesz!}
+{176}{}{Roncsváros elég nyugis hely. Inkább a veszélyes utakat preferálom.}
+{177}{}{Fülembe jutott, hogy egy õrült orvos ténykedik ott. Be kéne nézned hozzá, a neve Morbid doki.}
+{178}{}{Roncsváros nincs messze, hamar visszaérsz.}
+{179}{}{Vigyázz ott magadra, Nekropolisz nem valami barátságos hely.}
+{180}{}{Õ a város vezetõje. Legalábbis az volt még, amikor utoljára ott jártam.}
+{181}{}{Az a város tele van sóherekkel! Na, jobb, ha utadra engedlek.}
+{182}{}{L.A. egész pofás hely. Tetszeni fog neked, de figyelj oda, hogy addig ne hagyd ott a karavánt, amíg meg nem érkezik. A karavánoknak nem túl biztonságos hely.}
+{183}{}{Remélem, lesz lehetõséged, hogy lásd. Van ott egy szuper templom is, néhány mérföldre tõle. Mondjuk az ottlakók tiszta gyagyások.}
+{184}{}{Azt mondták, a Csonttelep régen egy L.A. nevû hely volt. Nem tudom, mit jelentenek ezek a kezdõbetûk, de klassz hely.}
+{185}{}{Mi a fenét akarsz?}
+{186}{}{Pofa be, és tûnés innen, semmi kedvem semmihez!}
+{187}{}{Szeretnék egy újabb munkát.}
+{188}{}{Semmit.}
+{189}{}{Zug.}
+{190}{}{Ög.}
+{191}{}{Hát, persze! Hogy egy másik karavánt is cserben hagyj! Szerencséd vagy, hogy egyben megúszták.} 
+{192}{}{Az én szerencsém? A te szerencséd, hogy nem zúzom be a pofádat!}
+{193}{}{Izé... egy-két helyre mindenképpen el kellett mennem... meg ilyesmi!}
+{194}{}{Hé, nem mondtad, hogy nem mehetek el! Jobb, ha tudod, hogy nem egy nagy csata közepében voltak éppen.}
+{195}{}{Tûnés kifelé! Rosszul vagyok tõled! Ezért hagytad ott a karavánt? Fogadjunk, hogy drog van a dologban!}
+{196}{}{Igen? Akkor most miért nem mész oda, mi? Végleg levettelek a listánkról.}
+{197}{}{Micsoda? Még sosem dolgoztál karavánok mellett korábban? Nem tudom elhinni, hogy apám olyan simán felvett téged. Menj a fenébe! Mi csak tapasztalt embereket veszünk fel! Ezért fizetjük a nagy pénzeket!}
+{198}{}{Jó munkát végeztél a legutóbbi alkalommal. Nem egy másik után jársz éppen?}
+{199}{}{De.}
+{200}{}{Nem éppen.}
+{201}{}{Esetleg.}
+{202}{}{Ög.}
+{203}{}{Lug.}
+{204}{}{Készen állsz? Ma indulunk.}
+{205}{}{Igen!}
+{206}{}{Nem nagyon.}
+{207}{}{Hrurra?}
+{208}{}{Egy nappal korábban jöttél. Ha még akarod a munkát, gyere vissza holnap! Ha nem, ne gyere, mert szarom le!}
+{209}{}{Hé, korán jöttél! }
+{210}{}{Harmadika elõtt nem küldök senkit sehova}
+{211}{}{Tizenhetedike elõtt nem küldök senkit sehova}
+{212}{}{. Gyere vissza akkor, ha még mindig akarod ezt a francos melót! Tényleg nem nagyon érdekel, hogy jössz vagy sem, de ha még így is akarod a munkát, gyere akkor!}
+{213}{}{Még nem.}
+{214}{}{Apa, fogd már be, basszus!}
+{215}{}{Hé, öreg, éhes vagyok! Beiktatok egy kis szünetet!}
+{216}{}{Utálom könyvelést.}
+{217}{}{január }
+{218}{}{február }
+{219}{}{március }
+{220}{}{április }
+{221}{}{május }
+{222}{}{június }
+{223}{}{július }
+{224}{}{augusztus }
+{225}{}{szeptember }
+{226}{}{október }
+{227}{}{november }
+{228}{}{december }
+{229}{}{3 gyógyszeres csomagot kapsz.}

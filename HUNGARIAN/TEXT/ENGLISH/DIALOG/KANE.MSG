@@ -1,0 +1,364 @@
+{100}{}{Ez az ember Kane.}
+{101}{}{Mi a munka és mi a fizetség?}
+{102}{}{Húgyé'-szaré'? Te viccelsz!}
+{103}{}{A francba! Asszem, jól picsán kell rúgjalak, csak úgy a poén kedvéért.}
+{104}{}{Bocs, talán késõbb.}
+{105}{}{Nem, kösz.}
+{106}{}{Tuk?}
+{107}{}{Úgy tûnik, a jelentések hamisnak bizonyultak, szóval kopj le! Sóhereket nem bérlünk fel.}
+{108}{}{Ez nem sóhereknek való munka. Gyorsan és tisztán kell dolgozni. A fõnök elmondja a részleteket. Több pénzt kereshetsz vele, mint a karavánok mellett egy álló hónap alatt, de csak akkor, ha elég jó vagy. A bénázást nem kultiváljuk, ha érted, mire gondolok.}
+{109}{}{Ez bizony jól hangzik.}
+{110}{}{Jelen pillanatban nem állhatok be, de késõbb szívesen visszajönnék.}
+{111}{}{Kit kell megölnöm?}
+{112}{}{Nem, köszi. Nincs szükségem pénzre.}
+{113}{}{Biztos vagyok benne, hogy otthonosan mozogsz a mi üzleti területünkön, ezért a saját érdekedben elmondom, jó lesz a hallottakat megtartani magadnak. Értve?}
+{114}{}{A saját érdekedben remélem, hogy ez csak valami humorféle volt. Ne tégy nekünk keresztbe, különben keservesen megbánod!}
+{115}{}{Persze-persze. Szóval mit is takar ez a "munka"?}
+{116}{}{Ja, mondd csak a magadét, kemény csávó!}
+{117}{}{Nem hiszem, hogy tökéletesen értesz engem. Hadd tisztázzam a dolgot. Ha nem szeded össze magad, el fogsz halálozni, menõkém!}
+{118}{}{Nem hiszem, hogy tökéletesen értesz engem. Hadd tisztázzam a dolgot. Ha nem szeded össze magad, el fogsz halálozni, menõkém!}
+{119}{}{Nem, hadd tisztázzam én a dolgot... ha te nem szeded össze magad, lábtörlõt csinálok az irhádból!}
+{120}{}{Oké. Veszem az adást. Szóval mit is szeretnétek csináltatni velem?}
+{121}{}{Késõbb még beszélünk, most le kell lépnem.}
+{123}{}{Jaj, kérlek, ne fogd vissza magad! Lélegzetvisszafojtva várjuk...}
+{124}{}{Persze-persze, minden jót!}
+{125}{}{Nincs szükséged pénzre? Nyilván csak viccelsz. Mondjuk az alapján, amit hallottam rólad, bizonyára kedvelnéd a felkínált munkát.}
+{126}{}{Valóban? Esetleg érdekel a dolog, folytasd!}
+{127}{}{Nem, kösz.}
+{128}{}{Késõbb visszajövök.}
+{129}{}{Szóval... gyere le velem az alagsorba! Itt a falnak is füle van.}
+{130}{}{Persze, menjünk csak.}
+{131}{}{Nem érdekel a téma.}
+{132}{}{Most nem, de késõbb még visszajövök.}
+{133}{}{Távozz innen, fogytán a türelmem!}
+{134}{}{Amúgy kedves az életed?}
+{135}{}{Megkaptad az esélyt, most jobb, ha elhúzol!}
+{136}{}{Keresed a bajt?}
+{137}{}{Te sosem tanulsz a hibáidból, mi? Na, majd most megtanítom, mi az a tisztelet.}
+{138}{}{Már hallottam rólad. Kemény ember hírében állsz. Ha netán munkát keresel, esetleg el tudlak irányítani valakihez. Érdekel a dolog?}
+{139}{}{Már hallottam rólad. Igazi vadállat hírében állsz. Ha netán munkát keresel, esetleg el tudlak irányítani valakihez. Érdekel a dolog?}
+{140}{}{Már hallottam rólad. Te vagy az a vadállat, aki lenyomta Killiant Roncsvárosban. Nem mondom, szép elõmenetel. Gizmo bizonyára jól megfizetett érte. Mi szél fújt a Hubba, csak nem munkát keresel?}
+{141}{}{Már hallottam rólad. Te vagy az a vadállat, aki lenyomta Gizmót Roncsvárosban. Killian biztos szép summát adott érte. Esetleg valami munkát keresel?}
+{142}{}{Már hallottam rólad. Te vagy az a vadállat, aki Gizmót és Killiant is lenyomta, mint a bélyeget. Na, ezt nevezném én igazi problémamegoldásnak... Amúgy mi szél fújt a Máltai Sólyomba? Csak nem munkát keresel itt?}
+{143}{}{Már hallottam rólad. Te vagy az a brutál állat, aki Gizmót és Killiant is lenyomta, mint a bélyeget. Na, ezt nevezném én igazi problémamegoldásnak... Amúgy mi szél fújt a Máltai Sólyomba? Csak nem munkát keresel itt?}
+{144}{}{Már hallottam rólad. A híred elõtted jár. Mi szél hozott a Hubba?}
+{145}{}{Egy víztisztító csipet hajkurászok égre-földre.}
+{146}{}{Beszélnem kell Deckerrel.}
+{147}{}{Te vezeted ezt a kócerájt? }
+{148}{}{Azért jöttem, hogy kipicsázzalak innen.}
+{149}{}{Azt hiszem, most bántani foglak.}
+{150}{}{Ha végzek veled, nem kell aggódnod az egészséged miatt!}
+{151}{}{Megtisztítom a világot az összes gonoszságtól!}
+{152}{}{Mennem kell, viszlát!}
+{153}{}{Jól van, viszlát!}
+{154}{}{Tuk?}
+{155}{}{Baruka!}
+{156}{}{Víztisztító csipet keresel? Sosem hallottam ilyesmirõl, csak italt árulunk. Ha éhes vagy, menj Bob Gyíksütõ Bodegájába!}
+{157}{}{Az egy elektronikus eszköz, amely a víztisztító rendszer szûrõberendezését szabályozza, és felügyeli a végtermék szennyezettségét. A mienk tönkrement és szeretném kicserélni.}
+{158}{}{Tudod, ez egy kisméretû gépezet, ami vezérli a víztisztító berendezést...}
+{159}{}{Volna még egy kérdésem...}
+{160}{}{Oké, kösz. Viszlát!}
+{161}{}{Úgy nézek én ki, mint egy kereskedõ? Ne herdáld már az idõmet!}
+{162}{}{Esetleg nézz be a Vízkereskedõkhöz! A Kereskedõk Piacától délre megtalálod õket, nem lehet eltéveszteni. Egy nagy víztorony mellett vannak.}
+{163}{}{Márminthogy te? Ez a legviccesebb dolog, amit egész életemben hallottam.}
+{164}{}{A dolgok még sokkal viccesebbek lesznek, amint cafatokra kapom a pofádat!}
+{165}{}{Majd megnézzük, ki nevet a végén, amikor vér fog folyni.}
+{166}{}{Gondolod, hogy le tudsz nyomni? Lehet, hogy bazi erõs vagy, de a lövedékeim elõl aligha tudsz majd elugrálni.}
+{167}{}{Igazad van, elnézést. Légy szíves, ne lõj le!}
+{168}{}{Értem. Az kell a kis lelkednek, hogy a fegyvered mögé bújhass, mi?}
+{169}{}{Pitiáner alak vagy. Lehet, hogy itt helyben golyót kéne röpítenem a fejedbe, és véget vetnem a sivár életednek. Na, mit szólsz? Szeretnél még egy lukat abba az agyatlan koponyádba?}
+{170}{}{Bocsánat. Igazán nem úgy gondoltam... Kérlek, ne lõj le!}
+{171}{}{Csak fegyverrel vagy kemény legény, mi? Félsz, hogy nélküle elporolom a nadrágodat?}
+{172}{}{Mi van? Berezeltél egy magamfajta kislánytól, hogy fegyvert akarsz használni? }
+{173}{}{Hogyne.}
+{174}{}{Na, elég! Ha eddig volt valamilyen elképzelésed a fájdalom és szenvedés mibenlétérõl, várj csak, amíg át nem gázolok rajtad! }
+{175}{}{Hallgattasd el a korcsodat, különben kinyírom! }
+{176}{}{Hagyd ki ebbõl a barátodat! }
+{177}{}{Hagyd ki ebbõl a barátaidat, hacsak nem akarod halva látni õket! }
+{178}{}{Hátrébb az agarakkal, fiúk, a fickó az enyém!}
+{179}{}{Hátrébb az agarakkal, fiúk, a csajszi az enyém!}
+{180}{}{Csalódást okoztál, azt hittem, ennél azért tökösebb vagy.}
+{181}{}{Mit jártatod a szádat? Nem kell nekem elbújnom semmi mögé, és fegyver sem kell ahhoz, hogy taccsra tegyelek. }
+{182}{}{Hallgattasd el a korcsodat, különben kinyírom! }
+{183}{}{Hagyd ki ebbõl a barátodat! }
+{184}{}{Hagyd ki ebbõl a barátaidat, hacsak nem akarod halva látni õket! }
+{185}{}{(A háta mögé kiált) Hátrébb az agarakkal, fiúk, a fickó az enyém!}
+{186}{}{(A háta mögé kiált) Hátrébb az agarakkal, fiúk, a csajszi az enyém!}
+{187}{}{Kemény szavak ezek, kis ember. Mondok én valamit... Félreteszem a játékszereimet, és meglátjuk, ki marad állva, oké?}
+{188}{}{Kemény szavak ezek, kiscsibém. Mondok én valamit... Félreteszem a játékszereimet, és meglátjuk, ki marad állva, oké?}
+{189}{}{Elnézést. Igazán nem úgy gondoltam... Kérlek, ne bánts!}
+{190}{}{Gyere csak, gyere!}
+{191}{}{Oké, de rosszul esne, ha sírni látnálak.}
+{192}{}{Nem, kösz. Erre nincs most idõm. Viszlát!}
+{193}{}{Bölcsen tennéd, ha a beszólásod után nem fordítanál hátat nekem. Köszönetet kéne mondanod, hogy ilyen megbocsátó ember vagyok... egyelõre. Csak ne találkozzunk újra.}
+{194}{}{Ezt bizony élvezni fogom. }
+{195}{}{Hallgattasd el a korcsodat, különben kinyírom! }
+{196}{}{Azt javaslom, hagyd ki ebbõl a barátodat! }
+{197}{}{Azt javaslom hát, hagyd ki ebbõl a barátaidat, hacsak nem akarod halva látni õket! }
+{198}{}{(A háta mögé kiált) Hátrébb az agarakkal, fiúk, a fickó az enyém!}
+{199}{}{(A háta mögé kiált) Hátrébb az agarakkal, fiúk, a csajszi az enyém!}
+{200}{}{Szóval tisztogatásba fogtál... Ez igazán szép tõled, de a gonoszság nagyon szubjektív fogalom. Amit vagy akit te gonosznak ítélsz, az másnak esetleg épp az ellenkezõje.}
+{201}{}{Igen, egyetértek, de ez azt jelentené, hogy nekiállunk üldögélni és semmit sem csinálunk csak azért, mert nem vagyunk biztosak?}
+{202}{}{Ne haragudj, de ez nevetséges. Ami gonosz, az gonosz. Aki mást mond, hülye, mint a segg.}
+{203}{}{Ne vedd komolyan, csak vicceltem!}
+{204}{}{Szívbõl reméltem. Elég problémánk van a világban, nemhogy még szükségünk lenne egy elvakult fanatikusra, aki minden útjába kerülõt kicsinál.}
+{205}{}{Nagy kár. Egy elvakult fanatikus tényleg nagyon veszélyes. Remélem, hogy a Hubban való tartózkodásodat rövidre fogod. Nem szeretjük azokat a gyilkosságokat, amik nem jogo.... semmilyen gyilkosságot nem szeretünk. Viszlát!}
+{206}{}{Nem.}
+{207}{}{Pazar válasz, barom! Ki itt a góré?}
+{208}{}{Ki szereti?}
+{209}{}{Barom? Van valami halvány lila fingod arról, kivel beszélsz te egyáltalán? A saját érdekedben remélem, hogy nincs. Nem én vezetem a Máltai Sólymot, de ÉN vagyok a góré. Na, nyögd ki gyorsan, mit akarsz, mielõtt felmegy az agyvizem!}
+{210}{}{Tudom én, hogy ki vagy te, és továbbra is azt mondom, hogy te egy CÍMERES BAROM vagy.}
+{211}{}{Óh, elnézésed kérem. Ki vezeti ezt a helyet?}
+{212}{}{Majd meglátjuk. "Szép" napot kívánok!}
+{213}{}{Ha nem tudod, akkor ne is akard tudni! Megárthat az egészségednek.}
+{214}{}{Milyen ügybõl kifolyólag?}
+{215}{}{Munka.}
+{216}{}{Titok.}
+{217}{}{Ez nem a te dolgod. Most pedig vezess hozzá!}
+{218}{}{Ne kísértsd a bajt, ecsém, különben zsákban viszlek Deckernek! Ott a bejárat, és viselkedj! Figyellek.}
+{219}{}{Ne kísértsd a bajt, bébi, különben zsákban viszlek Deckernek! Ott a bejárat, és viselkedj! Figyellek.}
+{220}{}{Asszem, igenis az "én dolgom", és nem hinném, hogy bárhova is elvezetnélek... legalábbis, amíg szerencsésnek mondhatod magad. Most pedig lehet lelépni!}
+{221}{}{Bocs, de bármit is akarsz Deckernek mondani, engem is érint. Én vagyok a jobb keze, és semmi sem történik itt anélkül, hogy mindketten ne tudnánk róla.}
+{222}{}{Munkáról van szó.}
+{223}{}{Sajnálom, titoktartást esküdtem. Csak Deckernek mondhatom el.}
+{224}{}{Jó. Majd akkor látod õt, amikor a hátad közepét.}
+{225}{}{Ki küldött?}
+{226}{}{Beth.}
+{227}{}{Lorenzo.}
+{228}{}{Loxley.}
+{229}{}{A Seriff.}
+{230}{}{Senki.}
+{231}{}{Miféle Beth?}
+{232}{}{Tudod te azt.}
+{233}{}{Nem mondta. Övé a fegyverbolt.}
+{234}{}{Tûnj a szemem elõl, amíg jól van dolgod! Nincs idõm a játszadozásra.}
+{235}{}{Akkor most letehetsz a látogatásról.}
+{236}{}{Mondd meg Greene seriff barátunknak, hogy Decker túlságosan elfoglalt mostanában és néhány hónappal késõbb kéne próbálkoznia. Sajnálom, de azt hiszem, menned kéne... végleg.}
+{237}{}{Nem hiszem, hogy õ küldött téged. Légy oly jó és menj el!}
+{238}{}{Nafene... Még a végén beadják a derekukat, és elfogadják a védelmünket? Közéjük való vagy?}
+{239}{}{Nem tudom, mirõl beszélsz. Annyit mondott, hogy Decker esetleg tudna adni valami melót.}
+{240}{}{Méghogy én? Azoknak a tolvajoknak dolgozzak? Soha! Inkább a hátamra ügyelek, mint a pénztárcámra.}
+{241}{}{Ti akartok védelmezni minket? SOHA!}
+{242}{}{Nézd, barátom, én nem keresek mást, mint egy jó, tiszta, becsületes munkát.}
+{243}{}{Csakugyan? Hát akkor rossz helyre jöttél. A Hub sokmindenrõl szól, csak a becsületességrõl nem. Akármilyen lyukból is szalajtottak, menj vissza gyorsan, és húzd meg magad! Ott boldogabb élet vár rád.}
+{244}{}{Egyetértek. Legyen hát. Gyere utánam, és megnézzük, mennyire használható ember vagy. Azt azért a lelkedre kötném, hogy minden, ami elhangzik, maradjon a te titkod.}
+{245}{}{Elképzelhetõ... Te is a Tolvajok Körébe tartozol?}
+{246}{}{Bezony.}
+{247}{}{Dehogyis.}
+{248}{}{El kell szomorítsalak, de mi nem dolgozunk a kis barátaiddal. A könyökünkön jönnek már ki, és a büdös életben nem dolgoznánk velük.}
+{249}{}{Nos... akár még használhatónak is bizonyulhatsz. Azt azért a lelkedre kötném, hogy minden, ami elhangzik, maradjon a te titkod.}
+{250}{}{Lehet, hogy a fõnök akár még benne is van. Miféle munkát keresel?}
+{251}{}{Nem akartok egy másik õrt?}
+{252}{}{Hmm, semmi különöset... csak úgy megfordult a fejemben.}
+{253}{}{Bármit. Ha jól megfizet, én megcsinálom.}
+{254}{}{Bármit, amitõl nem kerülök összetûzésbe a törvénnyel.}
+{255}{}{Miért nem próbálkozol a kereskedõknél? Úgy tudom, egész tûrhetõen fizetnek.}
+{256}{}{Nem. Jól megvagyunk így is. Minden jót!}
+{257}{}{Ezt szeretem én hallani. Akár még barátok is lehetnénk. Hadd vezesselek le az alagsorba. Azt azért a lelkedre kötném, hogy minden, ami elhangzik, maradjon a te titkod.}
+{258}{}{Jó. Kövess, de azt azért a lelkedre kötném, hogy minden, ami elhangzik, maradjon a te titkod.}
+{259}{}{Bizony-bizony, viszlát.... jaj, most jut eszembe. Soha többet ne hazudj a szemembe! Nem szeretem, amikor emberek a szemembe hazudnak. Nem sokan élik túl, hogy hallják ezt a tanácsot.}
+{260}{}{A tettek embere. Tetszel nekem, annak ellenére, hogy nem stimmel valami a fejedben.}
+{261}{}{A tettek asszonya. Tetszel nekem, annak ellenére, hogy nem stimmel valami a fejedben.}
+{262}{}{Egen, mit akarsz? Remélem, nem bosszantasz fel vele.}
+{263}{}{Ha beszélgetni szeretnél velem, jobban teszed, ha elrakod a fegyvereidet!}
+{264}{}{Baj van a felfogóképességeddel? Rakd el a fegyveredet, ha beszélni akarsz velem!}
+{265}{}{A fegyveredet?}
+{266}{}{Nem rossz, egyáltalán nem rossz. Egész megleptél. Nem gondoltam volna, hogy ilyen nehezen lehet csak legyõzni téged. Általában elég jól meg tudom ítélni az embereket. Még az is lehet, hogy te vagy a mi emberünk. Nem érdekel egy meló?}
+{267}{}{Azúristenit! Ez aztán bunyó volt! Hosszú ideje nem akadtam emberemre, arra pedig végképp nem emlékszem, ki gyõzött le engem valaha is. Ügyes vagy! Mit szólnál egy kis melóhoz?}
+{268}{}{Miért ne? Mi lenne a meló lényege?}
+{269}{}{Nem, köszi.}
+{270}{}{Most nem tudok bevállalni semmit, de szavadon foglak és visszajövök.}
+{271}{}{Nem sóhereknek való munka. Gyorsan és tisztán kell dolgozni. A fõnök elmondja a részleteket. Több pénzt kereshetsz vele, mint a karavánok mellett egy álló hónap alatt. Szerintem neked menni fog.}
+{272}{}{Jól hangzik. Mutasd az utat!}
+{273}{}{Hm, gondolkozhatok rajta? Egy rahedli más dolgom van.}
+{274}{}{Nem, aligha hinném.}
+{275}{}{Persze, de szólj, amint ráérsz! Minél elõbb le van tudva a dolog, annál jobb.}
+{276}{}{Azért szólj majd, ha meggondoltad volna magad! Nem örülnék, ha egy ilyen tehetséget felõrölne a karavánosdi.}
+{277}{}{Remek! Szerintem, jó dolgok fognak kisülni ebbõl. Arra ügyelj csak, hogy az odalent hallottak ne kerüljenek nyilvánosságra. Oké, induljunk!}
+{278}{}{Tudomásomra jutott, hogy te vagy a felelõs egy kereskedõ és a felesége haláláért. Nem tudom, mi bajotok volt egymással, de nem is igazán érdekel.}
+{279}{}{Ki mondta ezt neked?}
+{280}{}{Nem tudom, mirõl beszélsz.}
+{281}{}{Wak?}
+{282}{}{Ez nem tartozik a hatáskörödbe. Errefelé senkit nem lehet lenyomni a beleegyezésünk nélkül. Úgy vélem, az lenne a legjobb számodra, ha addig elhagynád a várost, amíg jól van dolgod.}
+{283}{}{Szerintem pedig igen, és ha tisztában vagy vele, mi a legjobb neked, addig itthagyod a várost, amíg lehet.}
+{284}{}{Azt hittem, nem kell a munka. Remélem, csak csak apró félreértés van köztünk. A fele pénzt kapod csak, és még örülhetsz ennek is. [Kane átnyújt 1500 hubdolcsit]}
+{285}{}{Kösz.}
+{286}{}{Ó, elnézést, azt hittem, enyém a munka. Van rá esély, hogy nektek dolgozzam?}
+{287}{}{Add ide a maradék pénzt, különben nagyon megbánod!}
+{288}{}{Gu?}
+{289}{}{Majd meglátjuk. Menj le az alagsorba, Decker beszélni akar veled!}
+{290}{}{Nem kapsz semmit.}
+{291}{}{Nem tudom, miféle játékot ûzöl itt, de ha tisztában vagy vele, mi a legjobb neked, addig hagyd el a várost, amíg lehet!}
+{292}{}{Azt mondtad, nem kell a meló. Meglep, hogy újra itt látlak. Nagy hibát követtél el az öntevékenykedéssel. Azt ajánlom, addig hagyd el a várost, amíg még megteheted!}
+{293}{}{Tudomásomra jutott, hogy te vagy a felelõs Jain, a Fõpapnõ haláláért. Nem tudom, miféle problémátok volt, és nem is nagyon érdekel, de ennek ellenére igen hálásak vagyunk. [Kane átnyújt 1000 hubdolcsit]}
+{294}{}{Ki mondta ezt neked?}
+{295}{}{Nem tudom, mirõl beszélsz.}
+{296}{}{Wah?}
+{297}{}{Ez nem a te asztalod, és attól tartok, mi nem fogunk üzletet kötni egymással. Megsértetted ugyan a törvényeinket, de mivel a gyilkossággal elsimítottál egy-két problémát számunkra, nem ölünk meg. Ehelyett annyit mondok csak, távozz a városból!}
+{298}{}{Szerintem pedig igen. A hazudozás igen egészségtelen szokás. Megsértetted ugyan a törvényeinket, de mivel a gyilkossággal elsimítottál egy-két problémát számunkra, nem ölünk meg. Ehelyett annyit mondok csak, távozz a városból!}
+{299}{}{Nem tudom, miféle játékot játszol itt, de nem vagyok feldobva tõle. Megsértetted ugyan a törvényeinket, de mivel a gyilkossággal elsimítottál egy-két problémát számunkra, nem ölünk meg. Ehelyett annyit mondok csak, távozz a városból!}
+{300}{}{Ne nyúlj ahhoz az ajtóhoz, ha kedves az életed! Itt egyedül én nyithatom ki azt az ajtót.}
+{301}{}{A Kereskedõ és a felesége innen nyugatra lakik. A Barter utca és a Thunder sugárút keresztezõdésében, a Magaslaton. Az illetõnek minden bizonnyal vannak õrei. Próbálj ne túl nagy zajt csapni, és gondoskodj róla, hogy senki ne lásson! Ha valaki mégis meglátna, õt is tedd el láb alól! Ha megvan a kis feladat, gyere vissza ide! Még egy dolog. Az meg se forduljon a fejedben, hogy elmész a rendõrségre! Ez lenne a létezõ legnagyobb hiba, amit elkövethetsz. Miközben csinálod a feladatot, próbáld ne magadra vonni a figyelmüket. Néha egész nagy galibát tudnak okozni. [Kane átnyújt 500 kupakot]}
+{302}{}{Jó munka volt. Itt van a kiérdemelt szkripted az elsõ munkáért. [Kane átnyújt 2500 hubdolcsit].}
+{303}{}{Szépen elintézted a kereskedõt. Ugyanezt várom el a következõ munkáért is. Itt az utolsó részed az elõzõ munkáért, és az elõleg a következõért. [Kane átnyújt 3500 hubdolcsit]. Biztos vagyok benne, hogy már tudomásod van a dologról, de a Katedrális Gyermekei dél felé találhatók a Vízkereskedõktõl északra. Újra csak annyit tudok mondani: Ne legyen élõ szemtanú!}
+{304}{}{Sietsz, hogy mihamarabb kijuss tõlünk? Még nem kaptad meg a szkriptedet. Nesze a pénzed, a kezdõ fizetség és az elsõ munkáért járó bónusz. (Kane átnyújt 3000 hubdolcsit)}
+{305}{}{Hé, ez már aztán jó munka volt! Elfelejtetted felvenni a kezdõ fizetséged a melóért, ezért most odaadom a teljesítésért járó jutalommal együtt. Igazán használható embernek bizonyultál. }
+{306}{}{ (Kane átnyújt 5000 hubdolcsit)}
+{307}{}{Itt viszont vége a gyereknapnak. Ennél többet nem kapsz. A legjobb lesz, ha most szépen kirepülsz innen, mielõtt megbánnád, hogy maradsz!}
+{308}{}{Itt van a kezdõ fizetséged. (Kane átnyújt 1000 hubdolcsit) Biztos vagyok benne, hogy már tudomásod van a dologról, de a Katedrális Gyermekei dél felé találhatók a Vízkereskedõktõl északra. Újra csak annyit tudok mondani: Ne legyen élõ szemtanú!}
+{309}{}{A francba, ez egy rakás pénz! Decker aztán tényleg holtan akarta tudni azt a ringyót! Nesze a szkripted. (Kane átnyújt 4000 hubdolcsit) Igazán használható embernek bizonyultál.}
+{310}{}{Mi a francot akarsz? Azt hittem, nem akarsz találkozni Deckerrel.}
+{311}{}{Valóban nem akarok, de átadhatnál neki egy üzenetet tõlem...}
+{312}{}{De bizony találkozni akarok vele, mégpedig azért, hogy lyukat csináljak a homlokába!}
+{313}{}{Elnézést, félreértettelek.}
+{314}{}{A franc ott egye meg, miért akarnék én valaha is találkozni egy olyan idiótával?}
+{315}{}{Grug.}
+{316}{}{Ta?}
+{317}{}{Sóhereket nem alkalmazunk. Most pedig menj innen, mielõtt felbosszantom magam rajtad.}
+{318}{}{Attól függ, mi az üzenet.}
+{319}{}{Mondd meg neki, hogy egy gyáva féreg, mert a kis kuckójában bújkál. Ha be akarja bizonyítani, hogy férfi a talpán, akkor próbáljon egyszer kimerészkedni az igazi világba!}
+{320}{}{Mondd el neki, hogy kezdjen imádkozni, és hinni a csodákban, mivel szüksége lesz rá, amikor átgázolok rajta.}
+{321}{}{Elfelejtettem.}
+{322}{}{Mondd el neki, hogy õ a bálványom, és csodálattal tölt el minden cselekedete.}
+{323}{}{Mondd el neki, hogy azt fogom vele csinálni, amit õ csinált a Máltai Sólyom elõzõ tulajdonosával!}
+{324}{}{Tényleg? Ez aztán nem semmi szórakozás lesz.}
+{325}{}{Te komplett hülye vagy.}
+{326}{}{Mi vagy te, valami torzszülött? Takarodj a francba innen!}
+{327}{}{Óh, ezt biztosan elmondom neki. Meggyõzõdésem, hogy nagy érdeklõdéssel fogja hallgatni... imádkozást mondtál? Egyre mérget vehetsz, az üzenetet meg fogja kapni.}
+{328}{}{Azt hittem, már elküldtelek melegebb éghajlatra! Fogytán a türelmem! Elmondod tehát, miért akarsz találkozni Deckerrel vagy sem?}
+{330}{}{Nem kell elmondanom semmit neked.}
+{331}{}{Bocsánat, csak melót szerettem volna kapni.}
+{332}{}{Már mondtam egyszer: titok!}
+{333}{}{Nem-nem!}
+{334}{}{Ru?}
+{335}{}{Majd akkor gyere vissza, ha kiment belõled a drog! Addig ne!}
+{336}{}{Beengedlek hozzá, de vigyázz a szádra... csak utánad...}
+{337}{}{Ez így van. Viszlát!}
+{338}{}{Hát akkor ezt a titkot magaddal viszed a sírba. Decker soha szóba nem állna egy magadfajta sóherrel.}
+{339}{}{Akkor azt javaslom, távozz!}
+{340}{}{Igen?}
+{341}{}{Lorenzo küldött egy munkáért.}
+{342}{}{Üdv!}
+{343}{}{Munkát akarok.}
+{344}{}{Semmit, viszlát!}
+{345}{}{Kru.}
+{346}{}{Üdv!}
+{347}{}{Hogy s mint?}
+{348}{}{Viszlát!}
+{349}{}{Remekül.}
+{350}{}{Gyerekek megvannak?}
+{351}{}{Szép napunk van, nem?}
+{352}{}{Nagyon jól nézel ki ma.}
+{353}{}{Viszlát... (Kane úgy méreget, mintha megpróbálná kitalálni, miben sántikálsz.)}
+{354}{}{Jaja... (Kane arckifejezése elég baljóslatúra vált.)}
+{355}{}{Van egy kis idõd?}
+{356}{}{A Brahmin Patkó Nagyon Ízletes.}
+{357}{}{Nem... Akarsz valamit? (Úgy tûnik, Kane kezd kijönni a sodrából miattad.)}
+{358}{}{Igen.}
+{359}{}{Nem.}
+{360}{}{Azt hiszem, elkelne neked egy újabb ital, haver.}
+{361}{}{Azt hiszem, elkelne neked egy újabb ital, bébi.}
+{362}{}{(Kane vár néhány másodpercig) Igen?... Mi az? (Kane szerfelett bosszús)}
+{363}{}{Mi micsoda?}
+{364}{}{Elfelejtettem.}
+{365}{}{Óh, semmi-semmi...}
+{366}{}{(Szinte látszik, ahogy Kane fülébõl dõl a gõz és a nyaki ütõerei majd szétpattannak.) TAKARODJ! (Néhány másodperccel késõbb még hallod az üvöltését) ...INNEN! TE IDIÓTA!}
+{367}{}{(Kane fogát csikorgatja, de nem szól.)}
+{368}{}{Szóval elfelejtetted? (felsóhajt) Ezen már meglepõdni sem tudok... (Hitetlenkedve csóválja a fejét.) Na... indulás KIFELÉ!}
+{369}{}{(Kane ránéz az egyik õrére, és a mutatóujját ide-oda forgatja a halántékánál.)}
+{370}{}{Mi a fészkes fenérõl beszélsz te?}
+{371}{}{Ez NEM a megfelelõ válasz!}
+{372}{}{Értem... te nem tartozol közéjük.}
+{373}{}{Válasz... MIRE? (Kane zavarodottnak, és kissé bosszúsnak tûnik.)}
+{374}{}{A titkos jelszóra!}
+{375}{}{Elnézést, de nem kaptam engedélyt, hogy beszélhessek errõl. Viszlát!}
+{376}{}{(Kane dühösnek tûnik, és azt sem tudod, miért.) Takarodj innen, te agyatlan vadbarom!}
+{377}{}{(Kane dühösnek tûnik, és azt sem tudod, miért.) Takarodj innen, te agyatlan kurva!}
+{378}{}{Már mondtam egyszer, hogy takarodj innen, te agyatlan vadbarom!}
+{379}{}{Már mondtam egyszer, hogy takarodj innen, te agyatlan kurva!}
+{380}{}{Nem, szerintem nem. Most pedig TÁVOZZ! (A mondókádat nem találta valami szórakoztatónak.)}
+{381}{}{Nincsenek gyerekeim!}
+{382}{}{Úgy érzem, ez bánt téged. Akarsz róla beszélgetni?}
+{383}{}{Pedig nem rosszak ám, jó szolgák válnak belõlük.}
+{384}{}{Mary nem ezt mondta.}
+{385}{}{ Valóban? Ez különös... nagyon különös...}
+{386}{}{MI VAN? TE... ÉN... DEHOGY! Eszemben nincs beszélni róla. Ki a fasznak képzeled te magad? Tûnés a szemem elõl!}
+{387}{}{AZT TALÁLTAM MONDANI, hogy NEM akarok beszélni róla.}
+{388}{}{Öh, igen. Hát persze, haver. Ahogy mondod.}
+{389}{}{Öh, igen. Hát persze, bébi. Ahogy mondod.}
+{390}{}{Legalább van eladó?}
+{391}{}{Akkor jól van... viszlát!}
+{392}{}{(Kane ránéz az egyik nehézfiújára, és megvonja a vállát.)}
+{393}{}{NINCS! Menj innen!}
+{394}{}{Mary? Nem ismerek semmiféle Maryt... Na, figyelj ide, nincs nekem idõm erre! Gõzöm sincs, kirõl beszélsz. Ha a nõ pénzt akar, mondd meg neki, hogy jöjjön ide személyesen!}
+{395}{}{(100 tapasztalati pontot kaptál, amiért a bolondját járattad Kane-nel.)}
+{396}{}{(Egy röpke pillanatig úgy érzed, mintha Kane elpirult volna) Ez... (ide-oda néz) szuper. Mit is akartál?}
+{397}{}{Nincs kedved randizni? }
+{398}{}{Óh, semmit. Viszlát!}
+{399}{}{De, illetve nincs. Illetve nem... vagyis nem lehet... szóval... (Kane hirtelen szájba vágja az egyik õrét.) Mit vigyorogsz? (Visszafordul hozzád.) Te még mindig itt vagy?}
+{400}{}{(Kane átnéz rajtad) Mit akarsz?}
+{401}{}{Gyerekek hogy vannak?}
+{402}{}{Szép napunk van, nem igaz?}
+{403}{}{Erre.}
+{404}{}{Te tudod az utat, induljunk!}
+{405}{}{Nyissátok ki, fiúk!}
+{406}{}{Rendben.}
+{407}{}{Oké.}
+{408}{}{Minden azért nem lehet a tiéd. Na, menj szépen el!}
+{409}{}{Van még munkátok?}
+{410}{}{Szia!}
+{411}{}{Semmit, szia.}
+{412}{}{Akru!}
+{413}{}{Újra itt vagy? Helló.}
+{414}{}{Na mi van? Nem volt hozzá merszed, mi? (Suttogóra fogja) Ne aggódj, majd hozzászoksz a témához! Ha vannak õrei, próbáld kivárni, amíg elmennek. Néha enniük is kell, meg igaz? Próbáld elvonni a figyelmüket! A feladatot meg kell csinálni, hibázni nem lehet. Amint megvan a dolog, fogod a pénzed, és mintha puskából lõttek volna ki, elhúzol innen. Egyébként... akarsz még valamit?}
+{415}{}{Miért nincs még megcsinálva a feladat? Jobb lesz, ha rárepülsz a témára! Addig nem akarlak itt látni, amig nem hozod a jó híreket, különben kihúzod a gyufát! Nehogy csalódást okozz nekünk!}
+{416}{}{Na, jól van. Ez volt az utolsó hibád. A legjobb lesz, ha szélsebesen itthagyod a várost, hacsak nem akarsz itt maradni... hat láb mélyen.}
+{417}{}{Most akkor... meg akarod csinálni a feladatot, vagy sem? Itt vannak ni... (Kane újra megmutatja a PipBoyodon a célpontot) Jobb lesz, ha kapkodod a lábad, a fõnök már nagyon várja az eredményt.}
+{418}{}{MI A FRANC... (Kane körbepillant és suttogni kezd.) Mi a francot csinálsz te itt? Az a feladatod, hogy kinyírd a célpontot, és ne legyen szemtanú közben!}
+{419}{}{Na, elég! A tököm kivan veled. Most megfizetsz a bénázásodért! Remélem, már az éjszakát sem akarod a városban tölteni.}
+{420}{}{Még nem fejezted be a kis feladatodat. (suttog) Tudod, mi forog kockán. Ha megcsinálod, gazdaggá teszünk, és mindenki hepi. Ha csõdöt mondasz, senki nem lesz hepi.}
+{421}{}{Ha problémás a meló, próbáld megvárni, míg a nõ egyedül nem lesz.}
+{422}{}{Kezdesz kifutni az idõbõl, nekem meg kurvára fogytán a türelmem.}
+{423}{}{Nem akarom megcsinálni.}
+{424}{}{Hamarosan halott lesz.}
+{425}{}{Höh.}
+{426}{}{Szóval nem akarod megcsinálni... szégyen... Nem tudunk olyanokkal együttmûködni, akik a szavukat adják, aztán megszegik. Sajnálom, hogy mostantól félbeszakad az együttmûködésünk. "Szép" napot kívánok!}
+{427}{}{Oké! Megcsinálom a francos melótokat, de jobb lesz, ha már most készítitek a pénzt!}
+{428}{}{Kösz.}
+{429}{}{Meglesz, ne aggódj te attól!}
+{430}{}{Látom, még mindig életben vagy! Gondolom, nem sok új barátot gyûjtöttél mostanában. Remélem, szemmel tartod õket.}
+{431}{}{(Kane elégedettnek tûnik. Gonosz vigyorral néz rád.)}
+{432}{}{Nafene! Igazán meglep, hogy még élsz. Túlélted a dolgot, és ez igen figyelemreméltó. Azt hiszem, életben hagylak. Megérsz ennyit. Most pedig vár az utca!}
+{433}{}{Meg se forduljon a fejedben!}
+{434}{}{Sose hagyom ki.}
+{435}{}{Életben hagylak, légy hálás érte!}
+{436}{}{Nem hiszem, hogy tesztelni akarsz engem.}
+{437}{}{A saját érdekedben remélem, hogy nem akarod használni azt a vackot.}
+{438}{}{Távoznod kéne!}
+{439}{}{Ne legyél hülye!}
+{440}{}{Megbánod ezt még!}
+{441}{}{Vagy bátor, vagy nagyon de nagyon hülye vagy, hogy idetoltad a képed, de ne aggódj, néha be fogunk köszönni.}
+{442}{}{(Kane csak bámul rád.)}
+{443}{}{Te túlélted a tisztogató csapatomat... nem tudom, hogy csináltad, talán kissé alábecsültem a képességeidet. Távozz, úgy talán életben hagyunk!}
+{444}{}{(Kane átnéz rajtad, de a fegyverét azért készenlétben tartja.)}
+{445}{}{Rendben van! Indulás kifelé!}
+{446}{}{Nem mondom még egyszer. Kifelé!}
+{447}{}{Figyelmeztettelek. Oké, fiúk, agyaljuk meg!}
+{448}{}{Figyelmeztettelek. Oké, fiúk, agyaljuk meg!}
+{449}{}{Ne zargass! Eridj a dolgodra! Van egy megcsinálandó feladatod, jobb lenne, ha azzal foglalkoznál!}
+{450}{}{Szíveskednél megcsinálni a bevállalt melót? Már elmondtam a teendõket, tehát munkára!}
+{451}{}{Tudom, hogy végeztél a francos munkáddal. Inkább meg se szólalj! Deckerrel kell beszélned.}
+{452}{}{Azt mondtam, beszélj Deckerrel!}
+{453}{}{(Kane meg tudna ölni a szemével.) Na, jó... megpróbállak bejuttatni hozzá a közeljövõben. Gondoskodom róla, hogy "darabról darabra" megismertetlek vele.}
+{454}{}{Sajnálom, hogy így vélekedsz. Remélem, "élvezni" fogod majd a csodálatos városunk nyújtotta vendégszeretetet. }
+{455}{}{(Kane átnéz rajtad.)}
+{456}{}{(Kane néhány másodpercig bámul rád.) Rendben van. Kapsz egy utolsó esélyt, hogy találkozz vele. Gyere utánam!}
+{457}{}{(Kane néhány másodpercig bámul rád.) Elszalasztottad az esélyedet. Kopj le!}
+{458}{}{Mi a francot csinálsz te itt?!?! Te még nagyobb idióta vagy, mint gondoltam. Tudtam, hogy Deckernek nem lett volna szabad egy ismeretlent felbérelni.}
+{459}{}{Te mirõl beszélsz?}
+{460}{}{Hogy?}
+{461}{}{[Kane lehalkítja a hangját] Elcseszted a megbízásodat, te elmebeteg! Az isten szerelmére, mindkét Hightowert meg kellett volna ölnöd, nem csak megsebesíteni õket! Ráadásul amikor eljöttél a Magaslatról, megléptek az õreikkel együtt. Nekem elhiheted, hogy nem sokat idõztek a csomagolással. Isten tudja csak, hol lehetnek most!}
+{462}{}{Most mit mondjak... Bocsesz.}
+{463}{}{Ögh. BoCSeSZ.}
+{464}{}{Hajunkra kenhetjük a bocseszedet! Túlságosan nagy kockázatnak tetted ki Deckert. Mostantól tekintsd magad a Földalatti Mozgalom ellenségének. Többé nem szeretném itt látni a képed!}
+{465}{}{Amíg Kane itt van, nem tudsz átmenni az ajtón.}

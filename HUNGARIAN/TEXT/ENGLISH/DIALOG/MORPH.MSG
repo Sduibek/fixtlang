@@ -1,0 +1,199 @@
+{100}{}{Morpheust látod.}
+{101}{MORP02}{Nem emlékszem, hogy bárkit is meghívtam volna magamhoz, és mégis egy látogatót tisztelhetek szerény lakomban. Minek köszönhetem mindezt?}
+{102}{}{Ó, elnézést, úgy tûnik, tisztességesen eltévedtem.}
+{103}{}{Azért vagyok itt, mert volna egy ajánlatom...}
+{104}{}{A nevem }
+{105}{}{. És a magáé?}
+{106}{}{A Testvérek egyike küldött ide.}
+{107}{}{Mami?}
+{108}{MORP02A}{Nem. Én Halálapa vagyok...}
+{109}{MORP03}{Nos, gyermekem, nagyon veszélyes dolog olyan helyekre tévedni, ahol hívatlan vendégek vagyunk. Merre indultál, hogy éppen az én szobámban kötöttél ki?}
+{110}{}{Új vagyok, és a mosdót kerestem. Az egyik Fõpap küldött ide fel.}
+{111}{}{Gyónni jöttem, és a Fõpapok egyike mondta, hogy ide kell feljönnöm Elnézést, hogy pont ide tévedtem!}
+{112}{}{Nos, nem igazán tévedtem el. Nem vagyok az a fajta.}
+{113}{}{Azért kóricáltam ide fel, hogy megöljem magát.}
+{114}{}{Elfelejtettem, inkább megyek is.}
+{115}{MORP04}{ Ahh...He he he. Biztos Ostoros atya volt az. Szereti, ha a hívõk bajba kerülnek. Ezúttal baj nélkül távozhatsz. }
+{116}{MORP04A}{ Én figyelmeztettelek. Õrség! }
+{117}{MORP05A}{ Szánalmas hazudozó vagy. Mondd el jöveteled valódi okát... mielõtt elevenen megnyúzatlak! }
+{118}{}{Én... tényleg eltévedtem!}
+{119}{}{Jól van, most megfogott. Azért jöttem, hogy ajánlatot tegyek.}
+{120}{}{Csak körbenéztem.}
+{121}{MORP06}{ Gyanítom, hogy a Tanítványok kémje vagy. Lehet, hogy tévedek, de nem kockáztathatok. Meg kell, hogy semmisítsünk. }
+{122}{MORP07}{ Ugyan mit tudnál ajánlani nekem? }
+{123}{}{Egy Menedékbõl érkeztem. Tudja, mi az ugyebár?}
+{124}{}{Van némi információm az ellenségeikrõl.}
+{125}{}{A Mester küldött magához. Azt akarta, hogy kémkedjek maguk után.}
+{126}{morp08}{Folytasd!}
+{127}{}{Szeretnék a Mesterének egyes információkat átadni a Menedékemmel kapcsolatban.}
+{128}{}{Van némi információm a Mesternek a Menedékünkrõl.}
+{129}{}{Ne olyan gyorsan.... Elõbb szeretném tudni, mit kapok az információért.}
+{130}{MORP09}{ Nekem nincs semmiféle mesterem, együgyû lélek! }
+{131}{}{Akkor mit nevez Mesternek? Nem õ irányítja magát?}
+{132}{}{Eléggé az a benyomásom támadt, hogy maga a Mester irányítása alatt áll.}
+{133}{}{Hé. A sértegetést tartogassa máskorra!!}
+{134}{}{Úgy tûnik, az elevenébe vágtam.}
+{135}{MORP10}{ Senki fia irányítása alatt nem állok. Õ és én... partnerek vagyunk. }
+{136}{}{Jaja. Kiskutya rövid pórázon.}
+{137}{}{Nemigen számít. Információm van egy olyan Menedékrõl, ami érdekelheti õt.}
+{138}{}{Õ adja a parancsokat, nemde? Maga pedig kérdezés nélkül végrehajtja õket.}
+{139}{MORP11}{ Nem tûröm a sértegetést! Õrség! }
+{140}{MORP12}{ Jól van. Elviszlek a Mesterhez. De figyelmeztetlek, ha hazudsz, hamar rá fog jönni! }
+{141}{}{Rendben, semmi gond ezzel.}
+{142}{}{Nem visz maga engem sehova!}
+{143}{MORP13}{ Ez nem a te asztalod. Viszont ha tényleg egy Menedékbõl származol, a Mester úgyis rájön magától. Õrség! Ide mindenki!}
+{144}{MORP14}{Megtarthatod az életed. Most pedig mondd el, mit tudsz! }
+{145}{}{Egy valódi Menedékbõl jöttem, és szeretném elmondani a helyét a Mesternek.}
+{146}{}{Mert különben?}
+{147}{}{Nem mondok el magának semmit.}
+{148}{MORP15}{ Csakugyan? Akkor majd én kiszedem belõled a lényeget. Õrség! }
+{149}{MORP16}{ Na, és ugyan kik lennének az ellenségeim? }
+{150}{}{Hát... egynek máris ott vannak a Tanítványok..}
+{151}{}{Ahogy így elnézem, akár mindenki.}
+{152}{MORP17}{ Mondd el, mit tudsz! }
+{153}{}{Nem hinném. Vigyen a Mesterhez! Neki egyedül elmondom.}
+{154}{}{Mondjuk úgy, hogy tudok valamit, ami felhasználható ellenük.}
+{155}{MORP18}{ Mondd el, mit tudsz, vagy lassú... kínkeserves... halált halsz... }
+{156}{}{Gondolja, hogy a Mester elégedett lenne egy Menedéklakó sima kinyírásával?}
+{157}{}{Csakis a Mesternek nyitom ki a számat.}
+{158}{MORP19}{ Ahh... Szóval te vagy az a Menedéklakó, akirõl egyfolytában hallok. Meglepõdtél? Megvannak a forrásaim. Most pedig szépen elviszlek ajándékba a Mesternek. Nagyon elégedett lesz. }
+{159}{}{Mi lenne, ha magát vinnénk ki innen. Zsákban. Hm?}
+{160}{}{Én szintúgy.}
+{161}{MORP20}{ Kém lennél? Nagyon oktalan dolog ez részedrõl. Irtó nehéz lesz holtan jelentéseket vinni neki, nemdebár? }
+{162}{MORP21}{ A hazudozás nem erõs oldalad. Na, mondd el szépen, mit akarsz! }
+{163}{}{Egy Menedékbõl érkeztem. Tudja, mi az ugyebár?}
+{164}{}{Szeretnék kiszolgáltatni némi információt az ellenségeikrõl.}
+{165}{MORP23}{ Mily meglepõ... Na, mondd el, miért jöttél ide! }
+{166}{}{Egy Menedékbõl jöttem, és kész vagyok megadni a Menedék helyét a Mesternek.}
+{167}{}{Szeretnék kiszolgáltatni némi információt az ellenségeikrõl.}
+{168}{}{Maga aztán nem az a fajta, akitõl könnyen be lehetne rezelni.}
+{169}{}{Nem mondok én magának semmit.}
+{170}{MORP24}{ Óh, valóban? És hogy tervezed ezt kivitelezni? Az éles nyelveddel, meg eszeddel? }
+{171}{}{Nem, inkább ezzel it...}
+{172}{}{Ez túl könnyû lenne maga ellen. Inkább a több kihívással kecsegtetõ megoldást választom.}
+{173}{}{Szerintem egy bumm a fejbe megteszi...}
+{174}{MORP26}{ Tessék, az ajánlatom... Mondd el, amit tudsz, és a saját lábadon távozhatsz innen.}
+{175}{}{Egy Menedékbõl jöttem, és kész vagyok megadni a Menedék helyét a Mesternek.}
+{176}{}{Szeretnék kiszolgáltatni némi információt az ellenségeikrõl.}
+{177}{}{Maga aztán nem az a fajta, akitõl könnyen be lehetne rezelni.}
+{178}{}{Nem mondok én magának semmit.}
+{179}{MORP27}{ Itt én kérdezek, nem te. Mondd el tehát, miért jötél ide! }
+{180}{}{Eltévedtem. Ilyen egyszerû.}
+{181}{}{Ajánlatom van a maga számára.}
+{182}{morp28}{Igen?}
+{183}{}{Üdvözlöm. Új vagyok a Gyermekek kebelében és azon gondolkodtam, vajon feltehetnék-e néhány kérdést magának.}
+{184}{}{Vegye úgy, hogy itt sem voltam!}
+{185}{}{Nöhhh?}
+{186}{morp29}{Természetesen, gyermekem.}
+{187}{}{Köszönöm...}
+{188}{}{Áh, hagyjuk.}
+{189}{}{Mik a Gyermekek tervei?}
+{190}{}{Meggondoltam magam, nincs több kérdésem.}
+{191}{}{Mit szólna, ha azt mondanám, hogy egy Menedékbõl származom?}
+{192}{MORP31}{ Hogy mik a terveink? Az evolúció hírvivõi vagyunk, gyermekem. Követjük a Mestert, és véget nem érõ küldetését, mellyel a világot és az embereket akarja meggyógyítani.}
+{193}{}{Tényleg? Milyen evolúckós elméletet tanítanak?}
+{194}{}{Mit takar ez a gyógyítás?}
+{195}{MORP32}{ Tudjuk, hogy létezik az emberiség számára egy magasabb szint, egy dicsõségesebb állapot. A mi célunk, hogy a jelenlegi nehézségektõl és viszálykodástól szenvedõ életet jobbá, teljesebbé tegyük. }
+{196}{}{Maga most viccel, ugye?}
+{197}{}{És megtalálták már azt a magasabb szintet?}
+{198}{MORP33}{[Dühösen] Na, de... [Lenyugodva] Megbocsátok neked. Nem mindenki képes meglátni a fényt. Azért mondd csak el nekem, gyermekem, miért csatlakoztál hozzánk? }
+{199}{}{Meg akartam tudni, hogy tényleg olyan vicces-e ez az egész, mint amilyennek hallottam. Most már tudom, hogy az.}
+{200}{}{Elnézést, azt hiszem eltévelyedtem.}
+{201}{morp34}{Semmit nem tudsz te...}
+{202}{MORP35}{ Igen, ez így van, de megbocsátok. Nos, ha nincs több kérdésed, visszatérnék a munkámhoz. }
+{203}{}{Igazság szerint volna még kérdésem.}
+{204}{}{Nincs, köszönöm.}
+{205}{MORP36}{ Természetesen. Kérlek, folytasd...}
+{206}{MORP37}{ Igen, de... megbocsátok. Menj békével, gyermekem! }
+{207}{MORP38}{ Nem, de hittel és reménnyel biztos, hogy rálelünk. Persze ezt már tudnod kell, gyermekem.}
+{208}{}{Tudom, de hadd kérdezzek még valamit, kérem.}
+{209}{}{Tudom. Viszlát!}
+{210}{MORP39}{ Elõször az emberi testet gyógyítjuk. Nyilván láttad már a kórházainkat. Késõbb reményt adunk, és megkezdjük a lélek orvoslását. }
+{211}{}{Nem semmi! Már majdnem elhittem. Maguk aztán jól csinálják!}
+{212}{}{Hol vannak az említett kórházak?}
+{213}{MORP40}{ Dicsõséges törekvéseink nemrég jutottak el Adytumba, és természetesen a Hub is tündöklik a nyomunkban. Persze gondolom, szeretnél még tudni egy s mást. }
+{214}{MORP41}{ Csodálatos idõket élünk. Roncsváros csatlakozott Adytumhoz és a Hubhoz a testek és lelkek megmentésének dicsõséges küldetéséhez. Szeretnél még valamit tudni, gyermekem? }
+{215}{}{Hát, ami azt illeti...}
+{216}{}{Semmit, mennem kell.}
+{217}{MORP42}{ A Gyermekek látomása most már Adytumtól a Hubon keresztül Roncsvárosig terjed, és finoman megérintette Shady Sands-t is. Miért kérded? }
+{218}{}{Csak elmélkedém... Kérdezhetek még?}
+{219}{}{Semmit, mennem kell.}
+{220}{MORP42A}{ Hogy mi vagy te? }
+{221}{}{Amit mondtam, megmondtam. Vigyen a Mesterhez, most azonnal!}
+{222}{MORP42B}{ Öh, igen. Nos... jer utánam! }
+{223}{MORP42C}{ Óh, gyermekem, nem sok értelmet fedezek fel benned, légy oly kedves, keresd fel a gyógyítónkat! Õ majd segítséget nyújt neked. }
+{224}{MORP45}{ Gyermekem, beszélj Ostoros atyával! Õ tud ebben segíteni. }
+{225}{MORP46}{ Már elmondtam... }
+{226}{MORP47}{ Süket vagy? Már elmondtam...}
+{227}{MORP48}{ Nem fogom ismételni magam! }
+{228}{MORP49}{ Nem mondom el még egyszer! }
+{229}{MORP50}{Az Éjfajzatok jó ideje velünk vannak. Visszataszító mutánsok, de hihetetlenül lojálisak a Gyermekekhez. Mint mi mindannyian.}
+{230}{MORP51}{Tõle kaptam az Egység látomását, és õ lesz az, aki békét hoz ebbe a problémáktól küzdõ világba.}
+{231}{MORP52}{Gyermekem, ismerned kéne az Auditóriumot. Ott tartom a prédikációimat.}
+{232}{MORP53}{Ne foglalkozz ezzel! Csak a Fõpapok léphetnek be oda.}
+{233}{MORP54}{Nem vagyok egyéb, mint az Egység jámbor szolgája.}
+{234}{MORP55}{Mi vagyunk a hatalmas Sötét Isten fõpapjai. Tizenhárman fõt számlálunk, akik megáldattak, hogy átadhassák az õ nagyszerû tanítását a Gyermekek számára.}
+{235}{MORP56}{Fogalmam sincs, mirõl beszélsz.}
+{236}{MORP57}{E lepusztult, megtépázott világban a Katedrális Gyermekeinek kórházai nyújtják a legátfogóbb gondoskodást. Ez elengedhetetlen az Egység számára.}
+{237}{MORP58}{Az Egység a magasabbrendû élet célkitûzéseit foglalja magában. Egyesítjük erõinket embertársainkkal.}
+{238}{MORP59}{Õ is a Fõpapok egyike. Nagyon sok idõt tölt a tanulmányaival.}
+{239}{MORP60}{A szívem szakad meg értük. Tévúton járnak. Még nincsenek tudatában, hogy törekvéseik csak fájdalmat és szenvedést okoznak a társaiknak.}
+{240}{MORP61}{Nicole nem más, mint az Apokalipszis Tanítványainak szerencsétlen, összezavart vezetõje.}
+{241}{MORP62}{Adytum egy észak-keletre lévõ kisváros.}
+{242}{MORP63}{Ez nem fontos.}
+{243}{MORP64}{Ez lényegtelen. Kérdezz valami mást!}
+{244}{morp65}{Ebbe nem kéne beleártanod magad.}
+{245}{}{Mesterem, azt hiszem, ezt élvezni fogod...}
+{500}{}{1000 tapasztalati pontot kaptál, amiért elpusztítottad a Katedrális Gyermekeinek vezérét.}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+{980}{MORP63}{Ez nem fontos.}
+{981}{MORP64}{Ez lényegtelen. Kérdezz valami mást!}
+{982}{morp65}{Ebbe nem kéne beleártanod magad.}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+
+{1000}{}{Ejfajzat}
+{1001}{}{Mester}
+{1002}{}{Auditorium}
+{1003}{}{Szentely}
+{1004}{}{Morpheus}
+{1005}{}{Rend}
+{1006}{}{Karavan}
+{1007}{}{Korház}
+{1008}{}{Egyseg}
+{1009}{}{Ostoros}
+{1010}{}{Tanitvany}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apokalipszis}
+{1014}{}{Mutans}
+{1015}{}{Szentseges lang}
+{1016}{}{Gyermek}
+{1017}{}{Bazis}
+{1018}{}{Csip}
+
+{1100}{MORP50}{Az Éjfajzatok jó ideje velünk vannak. Visszataszító mutánsok, de hihetetlenül lojálisak a Gyermekekhez. Mint mi mindannyian.}
+{1101}{MORP51}{Tõle kaptam az Egység látomását, és õ lesz az, aki békét hoz ebbe a problémáktól küzdõ világba.}
+{1102}{MORP52}{Gyermekem, ismerned kéne az Auditóriumot. Ott tartom a prédikációimat.}
+{1103}{MORP53}{Ne foglalkozz ezzel! Csak a Fõpapok léphetnek be oda.}
+{1104}{MORP54}{Nem vagyok egyéb, mint az Egység jámbor szolgája.}
+{1105}{MORP55}{Mi vagyunk a hatalmas Sötét Isten fõpapjai. Tizenhárman fõt számlálunk, akik megáldattak, hogy átadhassák az õ nagyszerû tanítását a Gyermekek számára.}
+{1106}{MORP56}{Fogalmam sincs, mirõl beszélsz.}
+{1107}{MORP57}{E lepusztult, megtépázott világban a Katedrális Gyermekeinek kórházai nyújtják a legátfogóbb gondoskodást. Ez elengedhetetlen az Egység számára.}
+{1108}{MORP58}{Az Egység a magasabbrendû élet célkitûzéseit foglalja magában. Egyesítjük erõinket embertársainkkal.}
+{1109}{MORP59}{Õ is a Fõpapok egyike. Nagyon sok idõt tölt a tanulmányaival.}
+{1110}{MORP60}{A szívem szakad meg értük. Tévúton járnak. Még nincsenek tudatában, hogy törekvéseik csak fájdalmat és szenvedést okoznak a társaiknak.}
+{1111}{MORP61}{Nicole nem más, mint az Apokalipszis Tanítványainak szerencsétlen, összezavart vezetõje.}
+{1112}{MORP62}{Adytum egy észak-keletre lévõ kisváros.}
+{1113}{MORP60}{A szívem szakad meg értük. Tévúton járnak. Még nincsenek tudatában, hogy törekvéseik csak fájdalmat és szenvedést okoznak a társaiknak.}
+{1114}{MORP50}{Az Éjfajzatok jó ideje velünk vannak. Visszataszító mutánsok, de hihetetlenül lojálisak a Gyermekekhez. Mint mi mindannyian.}
+{1015}{morp65}{Ebbe nem kéne beleártanod magad.}
+{1016}{morp65}{Ebbe nem kéne beleártanod magad.}
+{1017}{morp65}{Ebbe nem kéne beleártanod magad.}
+{1018}{morp65}{Ebbe nem kéne beleártanod magad.}

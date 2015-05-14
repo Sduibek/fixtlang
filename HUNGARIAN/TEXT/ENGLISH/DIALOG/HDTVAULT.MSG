@@ -1,0 +1,6 @@
+# this is a door. Neutral/male. no tone of voice.{100}{}{Úgy tûnik, zár van ezen az ajtón.}
+{101}{}{Az ajtó zárja már megadta magát.}
+{102}{}{Ez nem jó erre a feladatra.}
+{103}{}{Kiiktatod az elektronikus zárat.}
+{104}{}{Nem sikerült kiiktatnod az elektronikus zárat.}
+{105}{}{Az ajtó zárva van.}

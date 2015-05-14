@@ -1,0 +1,20 @@
+{100}{}{Õ Gyermekek kántora.}
+{101}{}{A Mester megbocsátja majd bûneidet! Állj be közénk, és légy szabad! Dícsértessék a Mester és az õ kegyelme!}
+{102}{}{Üdv, barátom! A Mester víziója végre igazi értelmet adott az életemnek. Megoszthatok egy csodálatos történetet veled?}
+{103}{}{Hol találkozhatnék ezzel a bizonyos Mesterrel?}
+{104}{}{Mondd csak...}
+{105}{}{Ki itt a felelõs személy?}
+{106}{}{Mi ez a Mester Víziója dolog? Jobb, mint a Radskorpió-lé?}
+{107}{}{Halállal végzõdik? Mert ha nem, én megváltoztathatom!}
+{108}{}{Én szeresse történet!}
+{109}{}{A Mester mindenütt jelen van! Figyeld, ahogy a Béke és Egység kiteljesedik!}
+{110}{}{Élt egyszer egy ember, kit majd szétvetett a gyûlölet és közel állt a halálhoz. De most... Dícsértessék a Mester! Dícsértessék a Szentséges Láng! Dícsértessék az Élet Szõlõskertje! Juhéjjj!}
+{111}{}{Te vagy a felelõs személy, barátom, de a mester a Vezetõd. Dícsértessék a Mester! Dícsértessék a Szentséges Láng, mely bevilágítja életünket!}
+{112}{}{A Mester Víziója sokkal jobb bármilyen italnál, sõt még a szexnél is! Óhhh! Felülmúl minden bûnt és erkölcstelenséget. A Mester mindannyiunk atyja és kedvese!}
+{113}{}{Amíg a Mester itt van és megvéd bennünket, nincs olyan történet, mely halállal végzõdne!}#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#{114}{}{Most magasztalnom kell a Mestert! Minden jót, barátom, késõbb elmondom a történetet!}
+{115}{}{Most magasztalnom kell a Mestert! Minden jót, hölgyem, késõbb elmondom a történetet!}

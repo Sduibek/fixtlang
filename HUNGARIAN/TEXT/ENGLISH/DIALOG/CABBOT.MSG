@@ -1,0 +1,185 @@
+{100}{}{Õ Cabbot, az Acél Testvériségének egyik újonca.}
+{101}{Cab_1}{Üdvözlünk az Acél Testvériségében. Megkérdezhetem, mi járatban vagy?}
+{102}{}{Benned kit tisztelhetek?}
+{103}{}{Feltehetek kérdéseket?}
+{104}{}{Öhhh?}
+{105}{}{Szeretnék csatlakozni hozzátok.}
+{106}{}{Mivel foglalkozol?}
+{107}{}{Mindegy... köszi...}
+{108}{Cab_2}{Cabbotnak hívnak, de még nem válaszoltál. Mit tehetek érted? }
+{109}{}{Feltehetek néhány kérdést?}
+{110}{}{Ó igen, biztos nagyon érdekel...}
+{111}{}{Szeretnék csatlakozni hozzátok.}
+{112}{}{Mivel foglalkozol?}
+{113}{}{Mindegy... köszi...}
+{114}{Cab_4}{Ez nagyszerû! Na, várjunk egy picit, mindjárt megnézem, mit kell csinálnod ehhez.}
+{115}{Cab_5}{Öö, az az igazság, hogy beszéltem a Nagyperjellel, és õ azt mondta, hogy akárki fia-borját ne vegyük fel. Azt is mondta, hogy elõbb végre kell hajtanod egy küldetést. }
+{116}{}{Úgymint?}
+{117}{}{Na, akkor hagyjuk. Máskor találkozunk.}
+{118}{}{Te csináltál küldetést, mielõtt csatlakoztál?}
+{119}{Cab_5a}{Öö, nem igazán. De a dolgok kicsit megváltoztak azóta. }
+{120}{}{Szóval mi a helyzet ezzel a küldetéssel?}
+{121}{}{Mondd már el, mi a különbség!}
+{122}{}{Akkor felejtsük el, késõbb majd visszajövök.}
+{123}{Cab_6}{Az innen dél felé található Õsi Rend romjaihoz kell menned. Valamit majd ki kell hoznod onnan, hogy bebizonyítsd, tényleg jártál odabent.}
+{124}{}{Honnan fogjátok tudni, hogy az a tárgy valóban bentrõl származik?}
+{125}{}{Oké.}
+{126}{}{Nem ettem én meszet!}
+{127}{Cab_7}{A hely tömény High Tech. Olyan dolgok vannak odabent, amit még életedben nem láttál. Ezenkívül meglehetõsen radioaktív. Aheh.}
+{128}{}{Oké, elvállalom.}
+{129}{}{Félelmetesen hangzik, inkább kihagynám.}
+{130}{Cab_9}{Elmész? Tényleg? Nagyszerû! Akkor nincs más teendõd, mint visszahozni ide! Szerencsés utat.}
+{131}{Cab_10}{Oh... akkor rendben... viszlát! }
+{132}{Cab_12}{Hát, öö... én csak egy Újonc vagyok. Jelen pillanatban annyi a feladatom, hogy üdvözöljem a belépõket az ajtónál.}
+{133}{}{Nem hangzik valami egetrengetõen izgalmasnak, de ettõl még szeretnék csatlakozni a Testvériséghez.}
+{134}{}{Oké, köszönöm. Még találkozunk!}
+{135}{}{Feltehetek néhány kérdést?}
+{136}{Cab_16}{Hát, izé... meg kell, hogy kérdezzem. Ez a munkám.}
+{137}{}{Feltehetek néhány kérdést?}
+{138}{}{Csatlakozhatok a Testvériséghez?}
+{139}{}{Nem kell nekem mondanom semmit. Keresd fel a parancsnokodat!}
+{140}{}{Jól van. Akkor megyek is...}
+{141}{Cab_17}{Sajnálom. Nem tehetem. M-megtiltották. Viszlát!}
+{142}{Cab_18}{Nem! Menj el innen! }
+{143}{Cab_19g}{Üdv! Megint itt vagy? Eldöntötted, mit akarsz?}
+{144}{Cab_19n}{Helló, most éppen mit akarsz?}
+{145}{}{Meggondoltam magam, szeretnék csatlakozni a Testvériséghez.}
+{146}{}{Feltehetek néhány kérdést?}
+{147}{}{Áh, hagyjuk az egészet. Viszlát!}
+{148}{Cab_20}{Ugye te most a bolondját járatod velem? Na, viszlát!}
+{149}{Cab_21}{Menj innen!}
+{150}{}{Légyszi... elnézést kérek, hogy felbosszantottalak. Újra próbálhatnánk a dolgot?}
+{151}{}{Legyen.}
+{152}{Cab_22}{Nem! Tudom, hogy egyszerûen a szemembe hazudsz. Minden jót!}
+{153}{Cab_23}{Hmmm. Rendben. Most az egyszer hiszek neked. Szóval mit is akarsz?}
+{154}{}{Meggondoltam magam, szeretnék csatlakozni a Testvériséghez.}
+{155}{}{Feltehetek néhány kérdést?}
+{156}{}{Áh, hagyjuk az egészet. Viszlát!}
+{157}{Cab_24}{Hé! Visszajöttél?! Sikerült szerezni valamit?}
+{158}{}{Ja, sikerült bizony.}
+{159}{}{Nem, egyelõre nem.}
+{160}{Cab_25}{Nagyszerû! Azonban... öm... a Nagyperjelünk azt mondta, hogy a szerzeményt elõbb nekem kell odaadnod, mielõtt bemehetnél hozzá. Sajnálom, szabály az szabály.}
+{161}{}{Ezen ne múljon.}
+{162}{}{Még mit nem!}
+{163}{Cab_27}{Ez nem semmi! Várj, mindjárt kinyitom az ajtót}
+{164}{}{OKÉ.}
+{165}{Cab_28}{Hmmm... Bocs, de ezt akárhol is szerezhetted.}
+{166}{}{De hát...}
+{167}{Cab_30}{Rendben, beengedlek, de elõre elmondom, mi várható. Rendben? Az õrszobában leszek. Magadtól kijöhetsz, de csak én engedhetlek be. Ja, és a Nagyperjel beszélni óhajt veled a parancsnoki szobában. A harmadik szinten megtalálod.}
+{168}{Cab_31}{Nem kell itt hazudoznod. Csak gyere vissza hozzám, ha szereztél valamit.}
+{169}{Cab_32}{Értem, majd szólj, ha változik a helyzet.}
+{170}{Cab_33g}{Helló! Vissza akarsz menni?}
+{171}{Cab_33b}{Csak nem vissza akarsz menni?}
+{172}{Cab_33n}{Vissza akarsz menni?}
+{173}{}{Igen, ha lehetne.}
+{174}{}{Ha esetleg kinyitnád a kaput...}
+{175}{Cab_34g}{Remek! Minden jót neked...}
+{176}{Cab_34b}{Jól van.}
+{177}{Cab_34n}{Oké.}
+{178}{}{Egész pontosan mivel foglalkozol?}
+{179}{}{Hallottál mostanában valami jó kis pletykákat?}
+{180}{}{Minden jót, Cabbot.}
+{181}{Cab_35a}{Mondd csak, mondd csak!}
+{182}{Cab_36g}{Üdv! Miben segíthetek?}
+{183}{Cab_36b}{Mit szeretnél?}
+{184}{Cab_36n}{Segíthetek valamiben?}
+{185}{}{Feltehetek néhány kérdést?}
+{186}{}{Áh, hagyjuk az egészet. Viszlát!}
+{187}{Cab_37}{Viszlát!}
+{188}{Cab_38}{Én fogadom az embereket a kapunál, és én döntöm el, hogy bemehetnek-e vagy sem. Jelen pillanatban csak te és a kereskedõk kapnak bebocsátást, mert a Vezetõk, ahogy azt észrevettem, készülõdnek valamire.}
+{189}{}{Van ötleted, mire készülhetnek?}
+{190}{}{A kereskedõket miért engeded be?}
+{191}{Cab_39}{Öö... nem tudok semmit, de öö... hallottam, hogy a Nagyperjel a társaival vitatkozik.}
+{192}{}{Feltehetek még további kérdéseket?}
+{193}{}{Kösz, még találkozunk.}
+{194}{Cab_40}{Hogy miért engedem be õket? Hát... ételre meg egy csomó más dologra van szükségünk. A fegyvereinkkel fizetünk értük.}
+{195}{}{Miért nem ti magatok termelitek a kajánakvalót?}
+{196}{}{Feltehetek még további kérdéseket?}
+{197}{}{Kösz, még találkozunk.}
+{198}{Cab_41}{Öö, nos, a szervezetünk célja, hogy Krónikásokat és Lovagokat neveljen. Bárki, akinek más célja van itt, hamar lelép innen.}
+{199}{}{Hm.... Feltehetek még további kérdéseket?}
+{200}{}{Kösz, még találkozunk.}
+{201}{Cab_42}{Hát, az újoncok némelyike azt gondolja, hogy háborúra készülõdünk. Ezért nehéz ide bejutni mostanában. Csodálkoztam is, amikor a Nagyperjelünk utasított, hogy engedjelek be.}
+{202}{}{Miért?}
+{203}{}{Kösz. Feltehetek még további kérdéseket?}
+{204}{}{Kösz az információt. Még találkozunk.}
+{205}{Cab_43}{Szerintem az nem a tied.}
+{206}{Cab_44}{Elnézést, de emiatt szólnom kell az õrségnek.}
+{207}{Cab_45}{Azt hiszem, ezt nem kéne csinálnod.}
+{208}{Cab_46a}{Jah, oké. Ahogy gondolod.}
+{209}{Cab_47}{Ahogy azt már mondtam...}
+{210}{Cab_48}{Hát, ahogy azt már mondtam...}
+{211}{Cab_49}{Ahogy azt már korábban említettem...}
+{212}{Cab_50}{Nos, errõl már beszéltem...}
+{213}{Cab_51}{Naszóval... én gyûl... gyûlölök nyers lenni, de nem szeretem ismételni magam. Oké?}
+{214}{}{Öömm, tudod, én igazán nem akarom itt újra és újra ismételni magam. Ugye érthetõ?}
+{215}{Cab_53}{Hát ez én lennék.}
+{216}{Cab_54}{Õ az Krónikások feje. Általában a könyvtárban tartózkodik. Menj le az alagsorba, és öö... jobb kéz felé megtalálod.}
+{217}{Cab_55}{A lovagok szerint néha nagyon keménykezû parancsnok tud lenni, de én errõl nem igazán tudok nyilatkozni, mert öö... én Vree-tõl tanulok, hogy krónikás lehessek.}
+{218}{Cab_56}{Maxson tábornok volt régen a Fõ Lovag. Szerintem nincs ínyére a Nagyperjeli szerep.}
+{219}{Cab_57}{Õk itt a fõ döntéshozók, kezdve attól, hogy mit együnk, egészen addig, hogy mik a feladataink. És öö... rengeteget tudnak vitatkozni. A Nagyperjelnek nagyon sokszor közbe kell avatkoznia.}
+{220}{Cab_58}{Nos, a krónikások örökítik tovább a világban zajló eseményeket és az általunk készített fegyverek tervrajzait. Nagyon szeretem a könyveket. Ezért is akarok közéjük tartozni... Krónikás akarok lenni.}
+{221}{Cab_59}{Tudnod kell róluk, hogy õk a Testvériség védelmezõi akarnak lenni. Nincsenek sokan, de egész életüket annak szentelik, hogy Paladinok lehessenek.}
+{222}{Cab_60}{Az egy város dél felé, nem igaz? Állandóan jönnek onnan kereskedõk, de én magam még sosem voltam ott. Amindenit, nem is tudnám, mitévõ legyek egy olyan nagy városban.}
+{223}{Cab_61}{Szerintem beszélj Vree-vel ezügyben! Õ majd kiokosít róluk!}
+{224}{Cab_62}{Velünk üzletelnek, ételt és egyéb használati tárgyakat hoznak a fegyvereinkért cserébe. Nem jönnek túl gyakran... mondjuk azt nem tudom, miért.}
+{225}{Cab_63}{Nahiszen, ez bizony hosszú história. Keresd fel a könyvtárat, és beszélj Vree-vel! Õ majd megmutatja, merre vannak a történelmi CD-k.}
+{226}{Cab_64}{Az Exodus során a Testvériség két csoportra bomlott. A szakadárok kirabolták a társaikat, elvitték a fegyvereiket és dél felé költöztek. Késõbb, úgy tíz év elteltével, lovagokat küldtünk a felkutatásukra, de nem találtak mást, csak romokat. Senki nem tudja, mi történt velük.}
+{227}{Cab_65}{Az õsi Testvériség északról származik, valami ismeretlen helyrõl. Nagyon-nagyon rég történt mindez, és az úgynevezett Exodus-ként vonult be a történelmünkbe. Ha Vree-t megkérdezed róla a könyvtárban, további információkat olvashatsz a témáról.}
+{228}{Cab_66}{Ööö... Errõl nem tudok semmit.}
+{229}{Cab_67}{Hmm... nem tudom... Talán valami fontosabb személyt kéne megkérdezned errõl.}
+{230}{Cab_68}{Nem tudom, mire gondolsz. Talán körbe kéne kérdezõsködnöd.}
+{231}{}{Beszélj Mathiával! Õ majd többet mond errõl.}
+{232}{}{2000 tapasztalati pontot kaptál, amiért beálltál újoncnak.}
+{233}{}{Nem kérünk a magadfajtákból. Menj innen!}
+# Cabbot Tell-Me-Abouts generic responses
+{980}{Cab_66}{Ööö... nem tudok errõl semmit.}
+{981}{Cab_67}{Hmm... nem tudom. Talán valami fontosabb személyt kéne megkérdezned errõl.}
+{982}{Cab_68}{Nem tudom, mirõl beszélsz. Kérdezgess másokat!}#
+# Cabbot Tell-Me-Abouts
+#
+{1000}{}{Ujonc}
+{1001}{}{Vree}
+{1002}{}{Rhombus}
+{1003}{}{Perjel}
+{1004}{}{Perjelek}
+{1005}{}{Kronikas}
+{1006}{}{Lovag}
+{1007}{}{Hub}
+{1008}{}{Lemez}
+{1009}{}{Kereskedo}
+{1010}{}{Testveriseg}
+{1011}{}{Osi}
+{1012}{}{Exodus}
+{1013}{}{Cabbot}
+{1014}{}{Rend}
+{1015}{}{Paladin}
+{1016}{}{Mester}
+{1017}{}{Haboru}
+{1018}{}{Hadsereg}
+{1019}{}{Karavan}
+{1020}{}{Katedralis}
+{1021}{}{Csip}
+
+{1100}{Cab_53}{Én vagyok Cabbot.}
+{1101}{Cab_54}{Õ a Krónikások feje. Általában a könyvtárban tartózkodik. Menj le az alagsorba, és öö... jobb kéz felé megtalálod.}
+{1102}{Cab_55}{A lovagok szerint néha nagyon keménykezû parancsnok tud lenni, de én errõl nem igazán tudok nyilatkozni, mert öö... én Vree-tõl tanulok, hogy krónikás lehessek.}
+{1103}{Cab_56}{Maxson tábornok volt régen a Fõ Lovag. Szerintem nincs ínyére a Nagyperjeli szerep.}
+{1104}{Cab_57}{Õk itt a fõ döntéshozók, kezdve attól, hogy mit együnk, egészen addig, hogy mik a feladataink. És öö... rengeteget tudnak vitatkozni. A Nagyperjelnek nagyon sokszor közbe kell avatkoznia.}
+{1105}{Cab_58}{Nos, az krónikások örökítik tovább a világban zajló eseményeket és az általunk készített fegyverek tervrajzait. Nagyon szeretem a könyveket. Ezért is akarok közéjük tartozni... Krónikás akarok lenni.}
+{1106}{Cab_59}{Tudnod kell róluk, hogy õk a Testvériség védelmezõi akarnak lenni. Nincsenek sokan, de egész életüket annak szentelik, hogy Paladinok lehessenek.}
+{1107}{Cab_60}{Az egy város dél felé, nem igaz? Állandóan jönnek onnan kereskedõk, de én magam még sosem voltam ott. Amindenit, nem is tudnám, mitévõ legyek egy olyan nagy városban.}
+{1108}{Cab_61}{Szerintem beszélj Vree-vel ezügyben! Õ majd kiokosít róluk!}
+{1109}{Cab_62}{Velünk üzletelnek, ételt és egyéb használati tárgyakat hoznak a fegyvereinkért cserébe. Nem jönnek túl gyakran... mondjuk azt nem tudom, miért.}
+{1110}{Cab_63}{Nahiszen, ez bizony hosszú história. Keresd fela könyvtárat, és beszélj Vree-vel! Õ majd megmutatja, merre vannak a történelmi CD-k.}
+{1111}{Cab_64}{Az Exodus során a Testvériség két csoportra bomlott. A szakadárok kirabolták a társaikat, elvitték a fegyvereiket és dél felé költöztek. Késõbb, úgy tíz év elteltével, lovagokat küldtünk a felkutatásukra, de nem találtak mást, csak romokat. Senki nem tudja, mi történt velük.}
+{1112}{Cab_65}{Az õsi Testvériség északról származik, valami ismeretlen helyrõl. Nagyon-nagyon rég történt mindez, és az úgynevezett Exodus-ként vonult be a történelmünkbe. Ha Vree-t megkérdezed róla a könyvtárban, további információkat olvashatsz a témáról.}
+{1113}{Cab_53}{Hát ez én lennék.}
+{1114}{Cab_64}{Az Exodus során a Testvériség két csoportra bomlott. A szakadárok kirabolták a társaikat, elvitték a fegyvereiket és dél felé költöztek. Késõbb, úgy tíz év elteltével, lovagokat küldtünk a felkutatásukra, de nem találtak mást, csak romokat. Senki nem tudja, mi történt velük.}
+{1115}{Cab_20}{Ugye te most a bolondját járatod velem? Na, viszlát!}
+{1116}{Cab_67}{Hmm . . . nem tudom... Talán valami fontosabb személyt kéne megkérdezned errõl.}
+{1117}{Cab_63}{Nahiszen, ez bizony hosszú história. Keresd fel a könyvtárat, és beszélj Vree-vel! Õ majd megmutatja, merre vannak a történelmi CD-k.}
+{1118}{Cab_67}{Hmm... nem tudom... Talán valami fontosabb személyt kéne megkérdezned errõl.}
+{1119}{Cab_62}{Velünk üzletelnek, ételt és egyéb használati tárgyakat hoznak a fegyvereinkért cserébe. Nem jönnek túl gyakran... mondjuk azt nem tudom, miért.}
+{1120}{Cab_66}{Ööö... Errõl nem tudok semmit.}
+{1121}{Cab_61}{Szerintem beszélj Vree-vel ezügyben! Õ majd kiokosít róluk!}

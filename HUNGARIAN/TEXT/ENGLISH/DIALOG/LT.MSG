@@ -1,0 +1,205 @@
+{100}{}{Õ a Mester hadseregének Hadnagya.}
+{101}{LIEUT1}{Nicsak, egy új szerzemény. Azt csiripelik a verebek, hogy szerfelett fontos információkat akarsz velem megosztani. Õszintén remélem, hogy így van.}
+{102}{}{Öh, így van.}
+{103}{}{Ilyen ronda alaknak soha!}
+{104}{}{Egy feltétellel.}
+{105}{}{Dah!}
+{106}{LIEUT1A}{Sérteget... a kis bohó. Szívesen definiálnám ezt a szót számodra, de nyilván csak idõpocsékolás lenne. Körvonalaznám a két általad választható lehetõséget: Vagy elmondod magadtól, vagy... rámbízod, miképp szedem ki belõled.}
+{107}{}{Engedelmeddel egyik sem jön be.}
+{108}{}{Oké, de csak egy feltétellel.}
+{109}{}{Rendben, elmondom. A hegység másik oldalán van, messze északon. Egy furcsa, félgömb alakú szikla közelében megtalálható. Mit kapok cserébe?}
+{110}{LIEUT1B}{Nem emlékszem, hogy felajánlottam volna bármit is. Mindenesetre a köszönetem kijár neked, amiért elmondtad, merre található a Menedéked. Biztos vagyok benne, hogy a Mester... nagyon hálás lesz.}
+{111}{LIEUT2}{Milyen szép dolog ez mindkettõnknek. Most viszont, ha nem nagy megerõltetés, áruld el végre a Menedéked helyét!}
+{112}{}{Az ööö... az ööö...}
+{113}{}{Egy feltétellel, haver.}
+{114}{}{Beetettelek... sosem fogom elköpni!}
+{115}{}{Oké, oké! Csak ne ölj meg! Mindent elmondok, amit tudok!}
+{116}{LIEUT3}{Feltételeket szabsz? Milyen szórakoztató. Mondd csak, mulattass kérlek a... feltételeddel!}
+{117}{}{Szabad elbocsátást kérek.}
+{118}{}{Húzz egy zsákot a fejedre, hogy el tudjam viselni a jelenlétedet!}
+{119}{}{Elõször szeretnék feltenni néhány kérdést.}
+{120}{LIEUT4}{Micsoda kifinomult humorérzéke van valakinek... Kár, hogy nekem nincs. Tehát... ha kérhetem, áruld el szépen a Menedéked helyét!}
+{121}{}{Elárulom, ha kérdezhetek egy-két dolgot.}
+{122}{}{Nem mondok el semmit, és nem kényszeríthetsz rá.}
+{123}{}{Az ööö... az ööö...}
+{124}{LIEUT5}{Kérdezz csak, kedves ember barátom! Kiváncsivá tettél, ugyan mit fogsz kérdezni.}
+{125}{}{Mit csináltok ti itt?}
+{126}{}{Kinek dolgozol?}
+{127}{}{Mire kellek én?}
+{128}{}{Mit szólnál, ha most távoznék.}
+{129}{LIEUT7}{Kedves ember barátom, ez itt a nagy teremtõ hely! Itt készítjük az uralkodó faj egyedeit, és tápláljuk az Egységet. Dicsõséges feladat, nekem elhiheted.}
+{130}{}{Mondanál néhány szót nekem az Egységrõl?}
+{131}{}{Nekem is ez jött le belõle. Miért van szükség erre a... teremtésre?}
+{132}{}{Értem, és ki itt a fõnök?}
+{133}{LIEUT8}{Jelen pillanatban van egy kis... probléma a reprodukciós folyamattal. Már foglalkozunk vele. Ami a jelent illeti, a Tartályokat kell használnunk, hogy az embereket Szupermutánsokká alakítsuk. Rövidesen magad is megtapasztalhatod a dolog nagyszerûségét.}
+{134}{}{Ó, ez fincsi. Kérdezhetek még, mielõtt öö... felizzanék?}
+{135}{lieut8a}{Hogy tudnék egy ilyen páratlanul megfogalmazott kérést visszautasítani?}
+{136}{LIEUT9}{Természetesen. Annyi-de annyi idõnk van... bízz bennem.}
+{137}{LIEUT10}{Az Egység a mi célkitûzésünk. Nagyon egyszerû a dolog. Tényleg. Gondolom, te magad is észrevetted, milyen rohamosan hanyatlik a civilizációnk?}
+{138}{}{Nos, igen, de...}
+{139}{LIEUT11}{Az emberi evolúció következõ lépése a Szupermutáns. A világ megmentéséhez az összes arra érdemes alanyt átalakítjuk. Egyszerû, hatékony, dicsõséges.}
+{140}{}{Szóval ti mindenkit nagy, zöld, rusnya mutánssá alakítotok, hogy ezzel védjétek meg a világot?}
+{141}{}{Mitõl vagytok ti fejlettebbek?}
+{142}{}{Az a gond, hogy nem adtok választási lehetõséget.}
+{143}{LIEUT12}{Emberi agyatok túlságosan földhözragadt, hogy felfogja ezt, ezért egy sima igen megfelel egyelõre. Hamarosan a földkerekség összes lakóját átalakítjuk, és végre béke lesz úrrá a világon.}
+{144}{}{És mi lesz a szabad akarattal?}
+{145}{}{Azt állítod, hogy megszûnnek a háborúk?}
+{146}{LIEUT13}{Neked talán volt választásod, hogy akarsz-e élni ebben a hamuvá lett világban? Mi Szupermutánsok vagyunk az eljövendõ világ számára legalkalmasabb lények. A szabad akarat semmi az igazi élethez képest.}
+{147}{}{Eléggé vitatható álláspont. Érdekelne, mitõl vagytok alkalmasabbak ti, mint a hétköznapi emberek?}
+{148}{}{Gonosz dolog embereket a saját akaratunkra kényszeríteni!}
+{149}{LIEUT14}{Ez még a leghétköznapibb szemlélõnek is pofon egyszerû. Szerfelett intelligensek és betegségekre immunisak vagyunk. Az erõsebb marad életben! Az a célunk, hogy az emberiség továbbfejlõdjék.}
+{150}{}{Nagyratörõ tervek ezek... hogy gondoljátok a kivitelezést?}
+{151}{LIEUT15}{Ahh... itt lépnek képbe a technológia csodái. Az emberek tudósai feltaláltak egy FEV nevû drogot a háború kitörése elõtt. Azért készült, hogy létrehozhassák a tökéletes embert.}
+{152}{}{Ezek szerint ti lennétek a tökéletes ember?}
+{153}{LIEUT16}{Még annál is jobb. Többek vagyunk, mint emberek. Valamikor én magam is ember voltam, sárban tipródó csúszómászó, akárcsak te, de megkaptam a FEV-et, és megtörtént a dicsõséges átalakulásom.}
+{154}{}{Jól sejtem tehát, hogy mindenkit bele akartok mártogatni ebbe a FEV-be?}
+{155}{LIEUT17}{Pontosan. Mindjárt meglátod.}
+{156}{}{Gondoltam. Kérdezhetek még?}
+{157}{}{De ez nem helyes dolog!}
+{158}{LIEUT18}{Jaj, de elkeserítesz. Annyira reméltem, hogy meglátod a fényt, mielõtt... nos, mielõtt te is olyan leszel, mint mi. Biztos vagyok benne, hogy megértõ leszel. Téged is megérint majd az Egység!}
+{159}{}{Soha! Ez gonoszság! Gonoszság, én mondom!}
+{160}{}{Hát lehet... addig is kérdezhetek még?}
+{161}{LIEUT19}{Nincs háború, nincs betegség. Az összes Szupermutáns az Egység elkötelezett híve. Mi vagyunk a világ reménysége.}
+{162}{}{Elég nagy szemfényvesztésnek tûnik.}
+{163}{}{Hogy lehet, hogy ti vagytok a világ reménységei?}
+{164}{LIEUT20}{Mindannyian a Mesternek dolgozunk, hogy fenntartsuk az Egység dicsõségét. Õ volt az elsõ, ha tudni akarod.}
+{165}{}{Mi késztetett arra, hogy neki dolgozzatok?}
+{166}{}{Mi az az Egység?}
+{167}{LIEUT21}{A sors. Vakszerencse. Én voltam a legerõsebb a csapatból, akiket megmerítettek a vírusban. Ezenkívül én az elejétõl fogva támogattam az Egység és a Mester elképzeléseit, mivel igaza van. Az elkötelezettségem elnyerte végül a jutalmát.}
+{168}{}{Milyen vírusról van szó?}
+{169}{}{Milyen ez a Mester?}
+{170}{LIEUT22}{A háború elõtt az emberek készítettek egy FEV nevezetû vírust, melynek segítségével a tökéletes embert akarták megalkotni. Amint az tisztán látható, sikeresek voltak. A Mester volt az elsõ, aki teljes mértékben kihasználta a FEV adta lehetõségeket.}
+{171}{}{A Mester hol található most?}
+{172}{}{Hogy mûködik ez a vírus?}
+{173}{LIEUT23}{Nagyon elfoglalja a Katedrális Gyermekeivel való bíbelõdés. Õk gyakorlatilag isteneknek tartanak minket, de hát... nem lehet ezért szemrehányást tenni nekik.}
+{174}{}{Nem vagyunk egy kicsit önteltek?}
+{175}{}{Szóval szerintetek istenek vagytok?}
+{176}{LIEUT24}{Az õszinteség önteltség vajon? Mi vagyunk az evolúció következõ lépése. Az Egység révén a világ fennmarad. Hol van itt az önteltség?}
+{177}{}{Vajon mi lehet abban a groteszk fejedben...}
+{178}{}{Hát, te tudod... Kérdezhetek még?}
+{179}{LIEUT25}{Természetesen nem. Egyszerûen mi képviseljük a jövõt.}
+{180}{}{Nem hiszek neked.}
+{181}{}{Mielõtt a jövõ beköszöntene, van még néhány dolog, ami szerfelett érdekelne.}
+{182}{LIEUT26}{Ah, gyanítom, ennek megértése meghaladja a képességeidet. Ne aggódj csak! A szemed hamarosan egy új világra nyílik meg.}
+{183}{}{Mit értesz ez alatt!?}
+{184}{}{Mielõtt ez bekövetkezne, van még néhány dolog, ami szerfelett érdekelne.}
+{185}{LIEUT27}{[A Hadnagy felsóhajt.] Még nem jöttél rá magadtól? Az elsõrendû humánok képviselõje vagy. Hamarosan viszont közénk tartozol.}
+{186}{}{Hogy hangzik az, hogy "Ez nem fog összejönni nektek!"?}
+{187}{}{Mielõtt én is olyan mártott izé leszek, mint te is, volna még néhány dolog, ami szerfelett érdekelne.}
+{188}{}{Mitõl vagyok én az elsõrendû humánok képviselõje?}
+{189}{LIEUT28}{Csak nyugodtan! Kérdezgess bátran, nem kerget bennünket senki!}
+{190}{LIEUT29}{Õ volt a mi vezetõnk az életadó vírushoz, és õ mindannyiunk Atyja egyúttal. Annyira szeretne veled találkozni. Remélem, megtiszteltetésnek veszed.}
+{191}{}{Öh... oké. Hogy is volt ezzel a vírussal? Mi az valójában?}
+{192}{}{Mielõtt élek a megtiszteltetéssel, mit szólnál további kérdésekhez?}
+{193}{}{Hol van õ?}
+{194}{LIEUT30}{A FEV-en mutáció lépett fel a háborús sugárzás miatt. Azok, akik a lepusztult pusztaságban élnek, mind ki lettek téve az új vírus hatásának, és gyakorlatilag védettséget kaptak a teljes hatása ellen.}
+{195}{}{Vagyis?}
+{196}{}{Vagyis mutációmentes példányokra van szükségetek, hogy Szupermutánsokat hozhassatok létre.}
+{197}{LIEUT31}{Te egy Menedékbõl származol, és korlátozott mennyiségben tartalmazod a mutáns vírust. A tartályokban található eredeti FEV minden bizonnyal remekül fog rajtad mûködni.}
+{198}{}{És mindezt honnan tudod?}
+{199}{LIEUT32}{Átfogó kutatásokat végeztünk az embereken, mire elértük ezt a végkövetkeztetést. A gazdánk felnyitatlan Menedékeket keresett, hogy bizonyítsa elképzelését. Erre mi történik? Besétálsz hozzánk. Remek ötlet volt részedrõl.}
+{200}{}{Nem fogjátok megtalálni.}
+{201}{}{Hát... mielõtt ez bekövetkezne, volna még számos dolog, ami érdekelne.}
+{202}{LIEUT33}{Amindenit, te aztán gyorsabb felfogású vagy, mint gondoltam. Nos, ezért is kell nekünk annyira a Menedéked.}
+{203}{}{Nagy kár, hogy sosem lesz a tietek.}
+{204}{}{Az egy nagyon nagy Menedék. Mi lenne, ha még feltennék egy-két apró kérdést?}
+{205}{LIEUT34}{Távozi szeretnél? Azt hiszem... na, nézzük csak... Bizony, bizony, majdnem elnevettem magam! Micsoda briliáns humor. Egyetlen helyre távozhatsz, mégpedig a Tartályba. Persze elõbb elárulod szépen, hol találjuk a Menedéketeket.}
+{206}{}{Remélem, jól viseled a visszautasítást.}
+{207}{LIEUT35}{Meglátjuk, nemde?}
+{208}{lieut35a}{Nagyon különös, de valahogy az az érzésem, hogy nem akarod elmondani. Ezt a rossz hozzáállást most korrigálni fogjuk!}
+{209}{LIEUT36}{Most jobban érzed magad? Mivel a kínzás olyan durva dolog, mindamellett mégis kielégítõ, hasznos tevékenység, ezért én még egyszer megkérdezem szépen: Hol... van... a... Menedéked?}
+{210}{}{Nem. Mondom. Meg.}
+{211}{}{Nyertél! Nyugat felé megtalálod a hegyek közt. Rajzolok egy térképet.}
+{212}{LIEUT37}{Szívbõl reméltem, hogy elmondod.}
+{213}{LIEUT37b}{Na, milyen volt? Váltsunk tán... csevegõsebb hangnemre? Hol is tartottunk? Ja, igen... a Menedék.}
+{214}{}{A Menedék... a Menedék... csak az álmodban létezik.}
+{215}{}{Nyertél! Nyugat felé megtalálod a hegyek közt. Rajzolok egy térképet.}
+{216}{LIEUT38}{Ah, mennyivel jobban érzem magam. Hát te?... Legyél szépen jó emberke, és áruld el nekem, hol van az a Menedék! Kezd nagyon fárasztó lenni ez a beszélgetés.}
+{217}{}{Menj a francba!}
+{218}{}{Elmondom, elmondom! Csak ne bánts többet!}
+{219}{}{Csodálom a kitartásodat. Õrség! Vigyétek vissza a cellájába, és készítsétek fel a fürösztésre! Majd akkor elmondja, hol az a Menedék, ha közénk tartozik.}
+{220}{}{Ha annyira biztos vagy benne, hogy a fürösztés után úgyis elmondom, akkor mire ez a nagy felhajtás?}
+{221}{LIEUT39a}{Nos... csak, hogy tudd... van egy kis hátulütõje a dolognak. Néha elõfordul, nem mindig, csak néha, hogy az alany memóriája... hogy is mondjam csak... megszakad a fürösztés következtében. Vagyis van egy pici esély, hogy elfelejted a Menedék pontos helyét.}
+{222}{}{Ezek szerint nem tanácsos megfürösztönötök engem.}
+{223}{}{Úgy tûnik, mindkettõnk patthelyzetben van.}
+{224}{LIEUT39b}{Ebben a helyzetben sajnos meg kell lépnem, amit meg kell lépnem. Kell az információ és kész.}
+{225}{}{Elmondom.}
+{226}{}{Reméld, hogy elfelejtem, mivel ha bármire is emlékszem abból, ami itt lejátszódott, kicsinállak.}
+{227}{LIEUT40}{Kiváló. Remélem, megérted a helyzetünket. Ezek szerint tényleg el akarod mondani, hol található a Menedéked? A kínzás nagyon élvezetes tud ám lenni.}
+{228}{}{Igen, biztos vagyok benne.}
+{229}{}{Most, hogy így említed, nem.}
+{230}{}{Feltehetnék elõbb néhány kérdést?}
+{231}{LIEUT40a}{Reméltem, hogy az én szempontjaimat is figyelembe tudod venni. Semmi hátsó szándék?}
+{232}{}{Mindent elmondok.}
+{233}{}{Igen, meggondoltam magam. Soha az életben el nem mondom nektek.}
+{234}{}{Feltehetnék elõbb néhány kérdést?}
+{235}{LIEUT41}{Óh, ez kiváló. Tudod, igazság szerint kétkedtem a tisztjeimben, amikor azt állították, hogy egy elsõrendû humánt szereztek. Annyira örülök, hogy látlak.}
+{236}{}{Menj te a francba!}
+{237}{}{Mit akartok velem csinálni?}
+{238}{}{Döh!}
+{239}{LIEUT42}{Látom, a szavak embere vagy, nemdebár? Én csak néhány szóra vagyok kiváncsi, mielõtt...}
+{240}{}{Mi az, hogy "mielõtt"?}
+{241}{}{Semmit nem fogtok kiszedni belõlem!}
+{242}{LIEUT43}{Bizony-bizony, közénk fogsz tartozni! Nem engedhetem meg magamnak, hogy legyen egy elsõrendû humánunk, és ne alakítsuk át Kiválasztottá. Igazam van? Persze elõbb elmondod, hol találjuk a Menedéketeket.}
+{243}{}{Szóval el kéne mondanom? A kacagás kerülget...}
+{244}{}{Egyetlen feltétellel.}
+{245}{LIEUT44}{Ó, ez dícséretes dolog. Na, elég a bolondozásból! Hol van a Menedék?}
+{246}{}{Nem mondom meg.}
+{247}{}{Izé... egy feltétellel elmondom.}
+{248}{LIEUT45f}{Le vagyok nyûgözve. A kémeim szerint nagyon leleményes ember vagy, de úgy látszik, alábecsülték a képességeidet. Õrség, kapjátok el!}
+{249}{LIEUT46}{Ahh, jót szunyókáltál? Nagyon remélem. Most viszont eljött a cselekvés ideje.}
+{250}{}{Menj a francba!}
+{251}{}{Mit akartok velem csinálni?}
+{252}{LIEUT48}{Az eszem megáll az intellektusod láttán. Légióknak kellett volna fejet hajtani nagyságod elõtt. Sosem fogom ezt megérteni. Õrség, el ezzel az idiótával!}
+{253}{LIEUT50}{Ahogy azt már mondtam...}
+{254}{lieut51}{Ahogy azt már említettem...}
+{255}{LIEUT52}{Légy szíves, jobban figyelj legközelebb. Ezt már elmondtam...}
+{256}{lieut53}{Már elmondtam...}
+{257}{LIEUT54}{Jobb, ha tudod, hogy szerfelett emlékeztetsz az egyik saját csótányomra. Széttapostam, mert folyton hallottam a motoszkáló lábainak zaját. Vésd ezt az eszedbe!}
+{258}{LIEUT55}{Bosszantó egy emberke vagy, hallod-e? Nem fogom ismételni magam.}
+{259}{LIEUT56}{Az Egység valamennyi Szupermutáns életcélja. A FEV vírus segítségével az egész emberiséget békében fogjuk egyesíteni.}
+{260}{LIEUT57}{A FEV vírust a Mester fedezte fel sok-sok évvel ezelõtt. Ez tesz bennünket a Kiválasztottakká. Úgyis nemsokára személyesen megtapasztalod, errõl biztosíthatlak.}
+{261}{LIEUT58}{A Mester valamennyiünk atyja.}
+{262}{LIEUT59}{Ez nem egyéb, mint puszta eszköz, mellyel elõrébbvihetjük a terveinket. Nem számít, minden ember Kiválasztott lesz... vagy meghal.}
+{263}{LIEUT60}{A FEV-et a tartályokban tároljuk, bennük válnak a humánok olyanokká, mint mi vagyunk. Természetesen néhányuk szörnyû, kínszenvedést hozó halált hal, de hát... nyilván ezek a defektes példányok.}
+{264}{LIEUT61}{Õk azok az emberek, akik nem lettek kitéve a sugárzásnak. Nagyobb százalékban élik túl a Tartályt, mint a többiek. Te például tökéletes példája vagy ennek.}
+{265}{LIEUT62}{A Menedékek a háború elõtt épített bunkerek. Kiválóan alkalmasak, hogy Elsõrendû Humánokat nyerjünk belõlük.}
+{266}{LIEUT63}{Morpheus... Szórakoztató alak. Azt hiszi magáról, hogy sokkal több annál a csúszómászó féregnél, akit a Mester felfogadott az amúgy is teljesen nonszensz Katedrális Gyermekeinek élére. Mondanom sem kell, õt is megmártogatjuk majd a Tartályban, és valószínûleg csúnya halála lesz... Szívbõl remélem.}
+{267}{LIEUT64}{Ez most egyáltalán nem fontos.}
+{268}{LIEUT65}{Ez a kérdés nem érinti az Egységet.}
+{269}{LIEUT66}{Nem foglak kitüntetni a válaszommal.}
+{270}{LIEUT45m}{Le vagyok nyûgözve. A kémeim szerint nagyon leleményes ember vagy, de úgy látszik, alábecsülték a képességeidet. Õrség, kapjátok el!}
+{271}{LIEUT39f}{Csodálom a kitartásodat. Õrség! Vigyétek vissza a cellájába, és készítsétek fel a fürösztésre! Majd ha közénk tartozik, elmondja, hol az a Menedék.}
+{272}{LIEUT39m}{Csodálom a kitartásodat. Õrség! Vigyétek vissza a cellájába, és készítsétek fel a fürösztésre! Majd ha közénk tartozik, elmondja, hol az a Menedék.}
+# Lieutenant Tell-Me-Abouts generic responses
+{980}{LIEUT64}{Ez most nem fontos.}
+{981}{LIEUT65}{Ez a kérdés nem érinti az Egységet.}
+{982}{LIEUT66}{Nem foglak kitüntetni a válaszommal.}
+
+#
+# Lieutenant Tell-Me-Abouts
+#
+{1000}{}{Egyseg}
+{1001}{}{FEV}
+{1002}{}{Mester}
+{1003}{}{Katedralis}
+{1004}{}{Tartaly}
+{1005}{}{Human}
+{1006}{}{Menedek}
+{1007}{}{Morpheus}
+{1008}{}{Virus}
+
+{1100}{LIEUT56}{Az Egység valamennyi Szupermutáns életcélja. A FEV vírus segítségével az egész emberiséget békében fogjuk egyesíteni.}
+{1101}{LIEUT57}{A FEV vírust a Mester fedezte fel sok-sok évvel ezelõtt. Ez tesz bennünket a Kiválasztottakká. Úgyis nemsokára személyesen megtapasztalod, errõl biztosíthatlak.}
+{1102}{LIEUT58}{A Mester valamennyünk atyja.}
+{1103}{LIEUT59}{Ez nem egyéb, mint puszta eszköz, mellyel elõrébbvihetjük a terveinket. Nem számít, minden ember Kiválasztott lesz... vagy meghal.}
+{1104}{LIEUT60}{A FEV-et a tartályokban tároljuk, bennük válnak a humánok olyanokká, mint mi vagyunk. Természetesen néhányuk szörnyû, kínszenvedést hozó halált hal, de hát... nyilván ezek a defektes példányok.}
+{1105}{LIEUT61}{Õk azok az emberek, akik nem lettek kitéve a sugárzásnak. Nagyobb százalékban élik túl a Tartályt, mint a többiek. Te például tökéletes példája vagy ennek.}
+{1106}{LIEUT62}{A Menedékek a háború elõtt épített bunkerek. Kiválóan alkalmasak, hogy Elsõrendû Humánokat nyerjünk belõlük.}
+{1107}{LIEUT63}{Morpheus... Szórakoztató alak. Azt hiszi magáról, hogy sokkal több annál a csúszómászó féregnél, akit a Mester felfogadott az amúgy is teljesen nonszensz Katedrális Gyermekeinek élére. Mondanom sem kell, õt is megmártogatjuk majd a Tartályban, és valószínûleg csúnya halála lesz... Szívbõl remélem.}
+{1108}{LIEUT57}{A FEV vírust a Mester fedezte fel sok-sok évvel ezelõtt. Ez tesz bennünket a Kiválasztottakká. Úgyis nemsokára személyesen megtapasztalod, errõl biztosíthatlak.}
+{1109}{LIEUT65}{Ez a kérdés nem érinti az Egységet.}
+{1110}{LIEUT66}{Nem foglak kitüntetni a válaszommal.}
+{1111}{lieut45m}{Le vagyok nyûgözve. A kémeim szerint nagyon leleményes ember vagy, de úgy látszik, alábecsülték a képességeidet. Õrség, kapjátok el!}
+{1112}{lieut39f}{Csodálom a kitartásodat. Õrség! Vigyétek vissza a cellájába, és készítsétek fel a fürösztésre! Majd ha közénk tartozik, elmondja, hol az a Menedék.}
+{1113}{lieut39m}{Csodálom a kitartásodat. Õrség! Vigyétek vissza a cellájába, és készítsétek fel a fürösztésre! Majd ha közénk tartozik, elmondja, hol az a Menedék.}

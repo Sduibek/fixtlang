@@ -1,0 +1,85 @@
+{100}{}{Egy sötét hajú, fiatal nõt látsz.}
+{101}{}{Õ Lorraine, egy adytumi gubizó.}
+{102}{}{Szia. Új vagy nálunk?}
+{103}{}{Igen, útba igazítanál egy kicsit?}
+{104}{}{Igen, az vagyok. A nevem }
+{105}{}{. }
+{106}{}{Vuuu?}
+{107}{}{Gondoltam. Mirõl szeretnél tudni?}
+{108}{}{Ki vagy?}
+{109}{}{Tudnál némi felvilágosítással szolgálni a Csonttelepet illetõen?}
+{110}{}{Mesélj egy kicsit az adytumi lakosokról!}
+{111}{}{Mit csinálsz megélhetés gyanánt?}
+{112}{}{Majd legközelebb. Köszi.}
+{113}{}{Lorraine vagyok.}
+{114}{}{Feltehetek néhány kérdést?}
+{115}{}{Gubizó vagyok. Sammaellel dolgozom, együtt gyûjtögetjük a romok közt fellelhetõ beépíthetõ vagy eladható dolgokat.}
+{116}{}{Miért nem csinálja ezt itt mindenki?}
+{117}{}{Hány gubizó létezik?}
+{118}{}{Kérdezhetek valami mást?}
+{119}{}{Örülök, hogy beszélhettünk.}
+{120}{}{Hát, ugye, ott vannak a Halálkarmok, ezen kívül a Rendfenntartók leveszik a maguk sápját, és az adytumi védelmet sem adják ingyen.. Valszeg az emberek vagy nem kapnak elfogadható elõleget, vagy nem elég bátrak, hogy a Halálkarmok szemébe nézzenek.}
+{121}{}{Mondanál valamit a Rendfenntartókról?}
+{122}{}{Hogy kerülitek el a Halálkarmokat?}
+{123}{}{Kérdezhetek valami mást?}
+{124}{}{Kösz, szia.}
+{125}{}{Kábé féltucatnyian vagyunk. Sammael volt az elsõ, de még mindig õ a legjobb.}
+{126}{}{Kérdezhetek valami mást?}
+{127}{}{Érdekes. Kösz.}
+{128}{}{Õk tartják fenn a rendet, és ellenõrzik a pénzmozgást. Az emberek nagy része a Rendfenntartóknak dolgozik, és ez bizony nem a leghálásabb munka. Sokuk az életben nem látja, mi van a kerítésen túl.}
+{129}{}{Julianna döntése viszont elgondolkodtató.}
+{130}{}{Mi ez a dolog Juliannával?}
+{131}{}{Valóban nagyon durván hangzik. Kérdezhetek még?}
+{132}{}{Kösz a figyelmeztetést.}
+{133}{}{Nem is olyan régen, Julianna belezúgott az egyik Hasfelmetszõbe. Szegény lány nem hagyhatja el a várost, Caleb pedig helyben megölné a fickót, ha meglátná. Nagy tragédia ez.}
+{134}{}{Ööö... ha te mondod.}
+{135}{}{Kérdezhetek valami mást?}
+{136}{}{Hmm. Kösz, hogy útba igazítottál. Szia.}
+{137}{}{Csak sötétedés után állunk neki a guberáláshoz. Nagyon jók vagyunk abban, amit csinálunk. Sammael kitalált egy tesztet, amit mindenkin kipróbál, aki Gubizó szeretne lenni.}
+{138}{}{Mi a teszt lényege?}
+{139}{}{Ez továbbra is elég veszélyesnek tûnik.}
+{140}{}{Értem. Mit szólnál, ha másra terelnénk a témát?}
+{141}{}{Érdekes. Szia.}
+{142}{}{Sammael megkéri a delikvenst, hogy rejtõzzön el Adytumban fényes nappal. Ha egy órán belül nem tudja megtalálni a jelentkezõt, hozzájárul, hogy beállhasson a guberáló csapatba.}
+{143}{}{Ez jó nagy hülyeség!}
+{144}{}{Akár még mûködhet is. Végül is még élsz.}
+{145}{}{Hm, kérdezhetek valami mást?}
+{146}{}{Érdekes. Szia.}
+{147}{}{Maradj már, hát egy cseppnyi romantika sincs benned? Nagyon helytelen. Viszonzatlan szerelem, meg ilyesmi. Tragikus.}
+{148}{}{Hm. Megmutatja, mit tudsz. Majd mondd el ezt Sammalnek is, ha megtalálod!}
+{149}{}{Igen, habár elég durva tud lenni. Nagyon veszélyes, különösen, ha elkapnak.}
+{150}{}{Nem kétlem. Kérdezhetek valami mást?}
+{151}{}{Kösz az infót.}
+{152}{}{Még olyat, azt hiszem, nem vagytok alkalmasak, hogy segítsek.}
+{153}{}{Régen ez egy Los Angeles nevezetû nagyváros volt, de a bombák nagyon odatettek neki. Most csak az Angyalok Csonttelepe. Mi, Adytownbeliek a romokon próbálunk tengõdni.}
+{154}{}{Tudsz valamit még Los Angelesrõl?}
+{155}{}{Értem. Köszönöm.}
+{156}{}{Rengeteg ember élt itt. Ahogy hallottam, a túlélõk egy Menedék nevû helyen rejtõztek el, és csak évekkel késõbb merészkedtek elõ. Ezek némelyike alapította a Rendfenntartókat, késõbb Adytumot, míg a többiek }
+{157}{}{bandákba tömörültek. A Fegyverkészítõk eredetileg nem innen származnak.}
+{158}{}{Hol van az a Menedék?}
+{159}{}{Mondj még valamit a Rendfenntartókról!}
+{160}{}{Honnan származnak a Fegyverkészítõk?}
+{161}{}{}
+{162}{}{Kösz a segítséget.}
+{163}{}{Azt mondják, valahol délebbre van, de nem igazán vagyok biztos benne. Úgy tudom, mindenki elhagyta, mert tropára ment.}
+{164}{}{Kérdezhetek még?}
+{165}{}{Hmm. Köszönöm.}
+{166}{}{Nem vagyok benne igazán biztos. Azt hiszem, valahonnan észak felõl érkeztek.}
+{167}{}{Mondj még valamit a Rendfenntartókról!}
+{168}{}{Kérdezhetek még egy s mást?}
+{169}{}{Köszönöm a felvilágosítást.}
+{170}{}{Kirõl szeretnél hallani?}
+{171}{}{Jon Zimmermanról.}
+{172}{}{Calebrõl.}
+{173}{}{Milesról.}
+{174}{}{Tine-rõl.}
+{175}{}{Smittyrõl.}
+{176}{}{Senkirõl.}
+{177}{}{Zimmerman vigyáz a városunkra. Õ gondoskodik róla, hogy mindenkinek jusson étel és munkalehetõség.}
+{178}{}{Caleb a Rendfenntartók vezetõje. Az a feladata, hogy védelmezze Adytumot. Úgy tûnik, egy kicsit jobban élvezi ezt, mint kéne.}
+{179}{}{Ah, a helyi vegyészünk. Miles töltényeket készít, ezenkívül épített egy vízlepárlót, amely lehetõvé teszi, hogy a kútból nyert vizet megtisztíthassuk. Jelen pillanatban egy földalatti farmon munkálkodik, de alkatrészekre van szüksége a további munkához.}
+{180}{}{Tine vezeti a boltot. Egy bunkerrõl van szó a kapu közelében. A Hubbeli kereskedõkkel üzletel, hogy jobbá tegye az életünket.}
+{181}{}{Hm. Smitty tipikus ezermester. Nagyon jó a különféle eszközök, berendezések megjavításában. Töltényeket gyárt és elromlott cuccokat javít az egész városban.}
+{182}{}{Kérdezhetnék valaki másról?}
+{183}{}{Rátérhetnénk valami egyéb témára?}
+{184}{}{}

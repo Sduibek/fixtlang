@@ -1,0 +1,105 @@
+{100}{}{Õ itt a csapos.}
+{101}{}{Eggen, mit akarsz?}
+{102}{}{Vizet.}
+{103}{}{Sört.}
+{104}{}{Töményet!}
+{105}{}{Mindegy, csak a lehetõ leghamarabb a padlóra küldjön.}
+{106}{}{Semmit.}
+{107}{}{Tuh?}
+{108}{}{Ha nincs kupakod, húzd innen a beled!}
+{109}{}{Suit yerself.}
+{110}{}{Azt hiszem, eleget ittál, haver.}
+{111}{}{Azt hiszem, eleget ittál, kislány.}
+{112}{}{Ja... na kopj le!}
+{113}{}{Két kupak lesz.}
+{114}{}{Oké.}
+{115}{}{Nem, kösz.}
+{116}{}{Ez öt kupak lesz.}
+{117}{}{Hogyne.}
+{118}{}{Ez tíz kupak lesz.}
+{119}{}{Hmmm, egy ekkora embernek...}
+{120}{}{ }
+{121}{}{ tíz}
+{122}{}{ húsz}
+{123}{}{ harminc}
+{124}{}{ negyven}
+{125}{}{ ötven}
+{126}{}{ hatvan}
+{127}{}{ hetven}
+{128}{}{ nyolcvan}
+{129}{}{ kilencven}
+{130}{}{ száz}
+{131}{}{ kupak biztos elég lesz.}
+{132}{}{Remek! Ez }
+{133}{}{ kupak lesz.}
+{134}{}{Na, csak hadd jöjjenek!}
+{135}{}{Felejtsük el!}
+{136}{}{Tessék. (A csapos odacsúsztat egy mocskos bádogpoharat, amely tele van valami}
+{137}{}{ dzsuvás vízzel. Miután felhajtod a lét, egészen különös}
+{138}{}{ ízt érzel a szádban.}
+{139}{}{Nesze! (A csapos odacsúsztat még egy mocskos bádogpoharat, benne ugyanolyan}
+{140}{}{ dzsuvás vízzel, és miután megittad, eszedbe ötlik, hogy már az elsõnek}
+{141}{}{ is milyen fura íze volt...}
+{142}{}{Ez érdekes lesz... (A csapos egyre csak osztja a piát, te pedig}
+{143}{}{ belezavarodsz a számolásba. Rövidesen tompa puffanást hallasz, aztán}
+{144}{}{ ráeszmélsz, hogy a padlón fekszel, arccal lefelé...}
+{145}{}{Tessék, itt a következõ... (A csapos felsorakoztatja a piát, míg a bárbeliek}
+{146}{}{ bíztatásba kezdenek...}
+{147}{}{...}
+{148}{}{...}
+{149}{}{...}
+{150}{}{ (Csakhamar minden elsötétül...)}
+{151}{}{Nem úgy néztél ki, mint aki képes lenne ennyit nyakalni, anélkül, hogy}
+{152}{}{ behányna.}
+{153}{}{Ez nagyon gáz. Mi itt mindannyian azt reméltünk, hogy újra látunk}
+{154}{}{ "szerepelni".}
+{155}{}{Jaj... nem akarod újra elénk tárni a "mûvészeted"? Hát, ha már így esett...}
+{156}{}{ itt a söröd. Bármi egyebet adhatok?}
+{157}{}{Biztos vagy benne, hogy ellent tudsz állni a kísértésnek? Szép elõadást}
+{158}{}{ láthattunk tõled a legutóbb. Nos, tessék. (A csapos a kezedbe nyom}
+{159}{}{ egy palack piát.) Bármi egyebet?}
+{160}{}{Tessék. (A csapos átnyújt egy üveg sört.) Bármi}
+{161}{}{ egyebet?}
+{162}{}{Megint a padlóra akarok kerülni!}
+{163}{}{Tessék! (A csapos átnyújt egy üveg töményet.)}
+{164}{}{ Bármi egyebet?}
+{165}{}{Nagyon rossz ízt érzel a szádban.}
+{166}{}{Úgy érzed, hogy a fejed, menten szétrobban.}
+{167}{}{Ez itt egy "Craps" játékmester.}
+{168}{}{Egy krupiét látsz.}
+{169}{}{Ez egy játékautomata.}
+{170}{}{Azt veszed észre, hogy az esélyek nem valami jók.}
+{171}{}{Szerinted a kocka cinkelt.}
+{172}{}{Szerinted az asztal meg van buherálva.}
+{173}{}{Tedd meg a tétet! }
+{174}{}{5 kupak.}
+{175}{}{15 kupak.}
+{176}{}{25 kupak.}
+{177}{}{50 kupak.}
+{178}{}{Kösz, nem.}
+{179}{}{Rurh.}
+{180}{}{Sajnálom, de nem vagy abban az állapotban, hogy fogadhass. (Ránézel a}
+{181}{}{ játékra, és teljesen össze vagy zavarodva.}
+{182}{}{Sajnálom, legközelebb talán több szerencséd lesz.}
+{183}{}{Nyertél! (Visszakaptad a pénzed.)}
+{184}{}{Nyertél! (Megdupláztad a pénzed.)}
+{185}{}{Nyertél! (Megtripláztad a pénzed.)}
+{186}{}{Ha játszani akarsz, haver, pénzed is legyen ám!}
+{187}{}{Ha játszani akarsz, bébi, pénzed is legyen ám!}
+{188}{}{Azon morfondírozol, hogy az esélyeid egész jók.}
+{189}{}{(Mennyi pénzt teszel be?)}
+{190}{}{1 kupakot.}
+{191}{}{2 kupakot.}
+{192}{}{3 kupakot.}
+{193}{}{4 kupakot.}
+{194}{}{5 kupakot.}
+{195}{}{Egy darabot sem.}
+{196}{}{(Nem tudod, mit kéne vele csinálni, de nagyon látványos.)}
+{197}{}{(Vesztettél.)}
+{198}{}{(Visszakaptad a pénzed.)}
+{199}{}{(Megdupláztad a pénzed.)}
+{200}{}{(Megtripláztad a pénzed.)}
+{201}{}{(Nincs elég pénzed.)}
+{202}{}{Jelenleg }
+{203}{}{ kupakod van. Mennyit játszol meg?}
+{204}{}{ Akarsz újra játszani?}

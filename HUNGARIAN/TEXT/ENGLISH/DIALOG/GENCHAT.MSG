@@ -1,0 +1,95 @@
+{100}{}{Köszönöm.}
+{101}{}{Viszlát!}
+{102}{}{Helló.}
+{103}{}{}
+{104}{}{ tapasztalati pontot kaptál.}
+{105}{}{Ajjaj!}
+{106}{}{Katt!}
+{107}{}{Opps!}
+{108}{}{Ouch!}
+{109}{}{Még találkozunk!}
+{110}{}{Rá se ránts...}
+{111}{}{Egy élmény volt...}
+{112}{}{Tessék...}
+{113}{}{Bármi egyebet?}
+{114}{}{Igen.}
+{115}{}{Nem.}
+{116}{}{}
+{117}{}{ képzettségpontot szereztél a Kézi lõfegyverek tudásodhoz.}
+{118}{}{ képzettségpontot szereztél a Nehéz lõfegyverek tudásodhoz.}
+{119}{}{ képzettségpontot szereztél az Energiafegyver tudásodhoz.}
+{120}{}{ képzettségpontot szereztél a Pusztakezes harci tudásodhoz.}
+{121}{}{ képzettségpontot szereztél a Közelharci tudásodhoz.}
+{122}{}{ képzettségpontot szereztél a Hajítás képességedhez.}
+{123}{}{ képzettségpontot szereztél az Elsõsegély képesítésedhez.}
+{124}{}{ képzettségpontot szereztél az Orvos képesítésedhez.}
+{125}{}{ képzettségpontot szereztél a Lopózás képességedhez.}
+{126}{}{ képzettségpontot szereztél a Tolvajlás képességedhez.}
+{127}{}{ képzettségpontot szereztél a Zárnyitás képességedhez.}
+{128}{}{ képzettségpontot szereztél a Csapdák ismeretéhez.}
+{129}{}{ képzettségpontot szereztél a Tudományos ismereteidhez.}
+{130}{}{ képzettségpontot szereztél a Javítási tudományodhoz.}
+{131}{}{ képzettségpontot szereztél a Beszédkészségedhez.}
+{132}{}{ képzettségpontot szereztél az Üzletelési képességedhez.}
+{133}{}{ képzettségpontot szereztél a Szerencsejáték tudásodhoz.}
+{134}{}{ képzettségpontot szereztél a Túlélési képességedhez.}
+{135}{}{Szereztél egy pontot a Kézi lõfegyverek tudásodhoz.}
+{136}{}{Szereztél egy pontot a Nehéz lõfegyverek tudásodhoz.}
+{137}{}{Szereztél egy pontot az Energiafegyver tudásodhoz.}
+{138}{}{Szereztél egy pontot a Pusztakezes harci tudásodhoz.}
+{139}{}{Szereztél egy pontot a Közelharci tudásodhoz.}
+{140}{}{Szereztél egy pontot a Hajítás képességedhez.}
+{141}{}{Szereztél egy pontot az Elsõsegély képesítésedhez.}
+{142}{}{Szereztél egy pontot az Orvos képesítésedhez.}
+{143}{}{Szereztél egy pontot a Lopózás képességedhez.}
+{144}{}{Szereztél egy pontot a Tolvajlás képességedhez.}
+{145}{}{Szereztél egy pontot a Zárnyitás képességedhez.}
+{146}{}{Szereztél egy pontot a Csapdák ismeretéhez.}
+{147}{}{Szereztél egy pontot a Tudományos ismereteidhez.}
+{148}{}{Szereztél egy pontot a Javítási tudományodhoz.}
+{149}{}{Szereztél egy pontot a Beszédkészségedhez.}
+{150}{}{Szereztél egy pontot az Üzletelési képességedhez.}
+{151}{}{Szereztél egy pontot a Szerencsejáték tudásodhoz.}
+{152}{}{Szereztél egy pontot a Túlélési képességedhez.}
+{153}{}{Az Erõd }
+{154}{}{Az Érzékelésed }
+{155}{}{A Kitartásod }
+{156}{}{A Karizmád }
+{157}{}{Az Intelligenciád }
+{158}{}{Az Ügyességed }
+{159}{}{A Szerencséd }
+{160}{}{ ponttal nõtt.}
+{161}{}{Az Erõd egy ponttal nõtt.}
+{162}{}{Az Érzékelésed egy ponttal nõtt.}
+{163}{}{A Kitartásod egy ponttal nõtt.}
+{164}{}{A Karizmád egy ponttal nõtt.}
+{165}{}{Az Intelligenciád egy ponttal nõtt.}
+{166}{}{Az Ügyességed egy ponttal nõtt.}
+{167}{}{A Szerencséd egy ponttal nõtt.}
+{168}{}{Kösz a segítséget.}
+{169}{}{Nem jutottunk elõre sokat, de azért kösz.}
+{170}{}{Aradesh mérges és nem akar többet beszélni veled.}
+{171}{}{Azt hiszem, a Mester beszélni óhajt veled.}
+{172}{}{Most megfizetsz a SZENTSÉGTÖRÉSEDÉRT!}
+{173}{}{Úgy tûnik, ez a robot mûködésképtelen. Valószínûleg az áramhiány miatt.}
+{174}{}{Semmi különöset nem látsz ezen a roboton.}
+{175}{}{Ez a Pengés nem akar veled beszélni.}
+{176}{}{Az aktatáska le van pecsételve, és nem használható.}
+{177}{}{Kérlek, sietnünk kell! Nincs idõ a beszédre.}
+{178}{}{Ehhez az ajtóhoz csak Morpheusnak van kulcsa. Most megyek és elmondom Nicole-nak, mi a helyzet.}
+{179}{}{Kérlek, el kell tûnnöm innen, mielõtt rájönnek, ki vagyok!}
+{180}{}{Semmit nem sikerül lopni és azon morfondírozol, vajon észrevettek-e.}
+{181}{}{A Testvériség emberei lopáson kaptak.}
+# Mysterious Stranger messages
+{182}{}{Na, csapjunk szét a mocskok között!}       # 0
+{183}{}{Úgy látom, elkelne némi segítség.}         # 1
+{184}{}{Segítek néked.}                            # 0
+{185}{}{Nem beszélek sokat.}                       # 1
+{186}{}{A hangosbeszélõ zaján keresztül ezt hallod: Vigyázat! Behatolót észleltünk!}
+{187}{}{A trutyi nehézkesség teszi a billentyûzet használatát.}
+{188}{}{A radskorpiókat sikerült elszigetelni a barlangjukban.}
+{189}{}{A barlang bejárata szinte invitál, hogy hatolj a radskorpiók barlangjának mélyére.}
+{200}{}{Egy szörnyen szétbarmolt emittert látsz.}
+{201}{}{Ez az emitter túlságosan szét van gányolva ahhoz, hogy használható legyen.}
+{202}{}{Ez az emitter túlságosan szét van gányolva ahhoz, hogy megjavíthasd.}
+{203}{}{Észreveszed, hogy a mezõ annyira legyengült, hogy át lehet sétálni rajta.}

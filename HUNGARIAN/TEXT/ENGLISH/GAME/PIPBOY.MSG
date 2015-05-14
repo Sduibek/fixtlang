@@ -1,0 +1,1287 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+#
+# Special holiday dates
+#
+{100}{}{Boldog új évet!}            # New years
+{101}{}{Boldog Valentin napot!}     # April fools (Hehe, ezt elírták :)
+{102}{}{Kellemes bolondok napját!}  # April fools
+{103}{}{Boldog játékkiadási évfordulót!}            # Shipping day!
+{104}{}{Boldog függelenség napját!} # Independence day
+{105}{}{Boldog mindenszenteket!}    # Halloween
+{106}{}{Boldog hálaadást!}          # Thanksgiving
+{107}{}{Boldog karácsonyt!}         # X-mas
+
+#
+# System messages
+#
+{200}{}{TOVÁBB}
+{201}{}{VISSZA}
+{202}{}{STÁTUSZ}
+{203}{}{Nincs feladat.}
+{204}{}{NYOMOK}  # clues gone
+{205}{}{TÉRKÉPEK}
+{206}{}{VIDEO ARCHÍVUM}
+{207}{}{ADATOK}
+{208}{}{}
+{209}{}{}
+{210}{}{Státusz}
+{211}{}{ADATOK}
+{212}{}{/}
+{213}{}{oldal}
+{214}{}{RENDBEN}
+{215}{}{Ezen a helyen nem pihenhetsz!}
+
+#
+# Alarm clock
+#
+{300}{}{ÉBRESZTÕÓRA}
+{301}{}{Életerõ}
+{302}{}{10 percnyi pihenés}
+{303}{}{30 percnyi pihenés}
+{304}{}{1 órányi pihenés}
+{305}{}{2 órányi pihenés}
+{306}{}{3 órányi pihenés}
+{307}{}{4 órányi pihenés}
+{308}{}{5 órányi pihenés}
+{309}{}{6 órányi pihenés}
+{310}{}{Pihenés reggelig (06:00)}
+{311}{}{Pihenés délig (12:00)}
+{312}{}{Pihenés estig (18:00)}
+{313}{}{Pihenés éjfélig (00:00)}
+{314}{}{Pihenés gyógyulásig}
+{315}{}{Pihenés a csapat gyógyulásáig}
+
+
+#
+# Holodisk titles
+#
+{400}{}{FEV Kísérleti anyag}
+{401}{}{Biztonsági adatok}
+{402}{}{Õsi Testvériségi Lemez}
+{403}{}{Alfa Kísérleti anyag}
+{404}{}{Delta Kísérleti anyag}
+{405}{}{Vree Kísérleti anyaga}
+{406}{}{Testvériségi kódex}
+{407}{}{Mutánsok forgalmazása}
+{408}{}{Testvériségi lemez}
+{409}{}{Sophia lemeze}
+{410}{}{Maxson naplója}
+{411}{}{Richard Grey Audio naplója}
+{412}{}{Maxson százados naplója}
+{413}{}{FEV Kutatások}
+{414}{}{Erõpáncél specifikációk}
+{415}{}{West Tech adatbázis}
+{416}{}{Menedék lokációk v34.129}
+{417}{}{Rendfenntartók forgalmazása}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{InterPlay Logó}               # Not show in Pipboy
+{501}{}{MacPlay Logó}                 # MacPlay version ,Not show in Pipboy
+{502}{}{Intró}                        # Not show in Pipboy
+{503}{}{A Tartály megsemmisülése}
+{504}{}{A Katedrális megsemmisülése}
+{505}{}{A Felvigyázó utasításai}
+{506}{}{A 13-as Menedékben elfogy a víz}   # Death
+{507}{}{A 13-as Menedék inváziója}            # Death
+{508}{}{A Menedék elhagyása}                # Man end
+{509}{}{A Menedék elhagyása}                # Woman end
+{510}{}{Fürösztés a tartályban}           # Death
+{511}{}{A 13-as Menedék vízkészlete}
+{512}{}{Fogy a víz a 13-as Menedékben}
+{513}{}{Rae megöli a Mestert}
+
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{Status}
+{601}{}{Clues}  # Clues gone
+{602}{}{Automaps}
+{603}{}{Archives}
+{604}{}{Alarm Clock}
+{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{606}{}{Welcome to the Rob Co Pipboy 2000.}
+{607}{}{So long.}
+{608}{}{Wake up.}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1 ... 9 thread/quest name
+#
+{700}{}{13-as Menedék}
+{701}{}{Csitítsd le a lázadókat!}
+{702}{}{Semmisítsd meg a mutáns vezetõt!}
+{703}{}{Pusztítsd el a mutánsok forrását!}
+{704}{}{Találd meg a víztisztító csipet!}
+{705}{}{Találd meg a Víztolvajt!}
+#
+{710}{}{Betemetett Menedék}
+#
+{720}{}{Shady Sands}
+{721}{}{Gyógyítsd meg Jarvist a Radskorpióméregtõl!}
+{722}{}{Készíts Méreg-ellenanyagot!}
+{723}{}{Szabadítsd ki Tandit a fosztogatók karmai közül!}
+{724}{}{Irtsd ki a radskorpiókat!}
+#
+{730}{}{Roncsváros}
+{731}{}{Segíts Saulnak!}
+{732}{}{Gyilkold meg Killiant!}
+{733}{}{Mentsd meg Sinthiát!}
+{734}{}{Mentsd meg Trisht!}
+{735}{}{Fékezd meg Gizmót!}
+{736}{}{Intézd el a Skulz bandát!}
+#
+{740}{}{Raiders}
+#
+{750}{}{Nekropolisz}
+{751}{}{Pusztísd el a Szupermutánsokat a Víznyerõnél!}
+{752}{}{Javítsd meg Nekropolisz vízszivattyúját!}
+#
+{760}{}{Hub}
+{761}{}{Öldd meg a Halálkarmokat!}
+{762}{}{Szabadulj meg Jaintól!}
+{763}{}{Szabadulj meg a kereskedõtõl!}
+{764}{}{Találd meg az eltûnt karavánokat!}
+{765}{}{Lopd el a nyakláncot a Kereskedõktõl!}
+#
+{770}{}{Testvériség}
+{771}{}{Állj be újoncnak!}
+{772}{}{Szabadítsd ki az Újoncot a Hubból!}
+#
+{780}{}{Katonai bázis}
+#
+{790}{}{Izzás}
+{791}{}{Hatástalanítsd a Bázis csapdáit!}
+{792}{}{Indítsd újra az áramellátást az Izzásnál!}
+#
+{800}{}{Csonttelep}
+{801}{}{Állj be a Pengésekhez!}
+{802}{}{Vidd el Romerónak a medált!}
+{803}{}{Szállítsd le Fegyverkészítõk csomagját!}
+{804}{}{Találd meg a Tanítványok közé férkõzött kémet!}
+{805}{}{Hozd rendbe az adytumi hidropónikus ültetvényt!}
+{806}{}{Mentsd meg Jason Zimmermant!}
+{807}{}{Szüntesd meg a bandák Adytum ellen irányuló támadásait!}
+#
+{810}{}{Katedrális}
+
+
+#
+# Holodisk text
+#
+
+# *** FEV Kísérleti anyag ***
+{1000}{}{Napló kelte: 2075 Márc. 21:}
+{1001}{}{Barnett õrnagy parancsára megkezdõdött az átfogó }
+{1002}{}{immunprogram 10-011-es mintájának tesztelése, melyet}
+{1003}{}{FEV-re kereszteltek (Fejlesztett Evolúciós Vírus).}
+{1004}{}{Az õrnagy sokkal jobban tart a kvad-spirál mellék-}
+{1005}{}{hatásaitól mint a replikatív stabilitásra tett}
+{1006}{}{hatásától. Szentül hiszi, hogy az új struktúra}
+{1007}{}{a következõ logikus lépés az emlõsök fejlõdésében.}
+{1008}{}{Az egysejtû organizmusokkal végzett kísérletek}
+{1009}{}{remekül sikerültek. Mivel az anyagcseréjük változat-}
+{1010}{}{lannak tûnik, a megbetegedések és a sugárzás elleni}
+{1011}{}{immunitásuk minden korábbi elvárást felülmúl.}
+{1012}{}{Kiegészítés: A virion szemlátomást nincs hatással a}
+{1013}{}{zöldszín-testecskékre. A növényi sejteken végzett}
+{1014}{}{további kutatásokat az õrnagy parancsára töröltük.}
+{1015}{}{**END-PAR**}
+# -
+{1016}{}{Napló kelte: 2075 Május 9.}
+{1017}{}{Számos laposféreg fajtát fertõztünk meg a FEV-vel. }
+{1018}{}{Alig telt el néhány óra, a férgek 28%-al megnõttek, és}
+{1019}{}{39 különféle vírusfertõzésnek álltak ellent. Minden}
+{1020}{}{mintát több generáción át hagytunk szaporodni, és az}
+{1021}{}{új DNS struktúra sikeresen öröklõdött a férgek}
+{1022}{}{utódaiba annak ellenére, hogy az alanyokon csak}
+{1023}{}{aszexuális reprodukciót lehetett megfigyelni.}
+{1024}{}{A rovarokon végzett kísérletek gyengébb eredményeket}
+{1025}{}{hoztak, ezért további intézkedésig Barnett õrnagy}
+{1026}{}{felfüggesztette az ezirányú kutatásokat.}
+{1027}{}{**END-PAR**}
+# -
+{1028}{}{Napló kelte: 2075 Jún. 30.}
+{1029}{}{Jónéhány fehér egeret tettünk ki a FEV vírusnak. A}
+{1030}{}{méretnövekedés szintén néhány órán belül bekövetke- }
+{1031}{}{zett, és 9 nap múltán mindannyien 31%-al nagyobb }
+{1032}{}{méreten stabilizálódtak a kontroll csoport tagjaihoz }
+{1033}{}{képest. A boncolás megállapította, hogy a legnagyobb }
+{1034}{}{növekedés a harántcsíkolt izomzatban illetve bizonyos }
+{1035}{}{szervekben lépett fel, pl. a májban, a szívben és a }
+{1036}{}{vesében. Meglepve tapasztaltuk, hogy a fertõzött }
+{1037}{}{egerek fele annyi idõ alatt végigfutottak az útvesz- }
+{1038}{}{tõkön, mint a kontroll csoport egerei. E tény jelentõ- }
+{1039}{}{ségének tisztázására további kísérletekre lesz szükség.}
+{1040}{}{**END-PAR**}
+# -
+{1041}{}{Napló kelte: 2075 Nov. 9.}
+{1042}{}{Ma 218 nyulat fertõztünk meg a FEV-vel. Az állomány}
+{1043}{}{felébe elektródákat ültettünk, hogy a kezelés}
+{1044}{}{elõtti és utáni aktivitást ellenõrizhessük.}
+{1045}{}{Meglepõ, de már az injekciót követõ átlag 3.2}
+{1046}{}{másodperc elteltével elektromos aktivitást észleltünk}
+{1047}{}{az agyban. Természetesen a tipikus méretnövekedés}
+{1048}{}{is észlelhetõ volt, csakúgy, mint az agresszió és }
+{1049}{}{különösen a hímeknél a jellegzetes testtartás. A bon-}
+{1050}{}{colás során olyan agyi szövetekhez jutottunk, amelyek }
+{1051}{}{megnövekedett dendritikus kapcsolódásról árulkodnak, }
+{1052}{}{különösen a limbikus rendszerben és a homloklebenyben.}
+{1053}{}{**END-PAR**} 
+# -
+{1054}{}{Napló kelte: 2076 Jan. 12.}
+{1055}{}{A 11-011 sorszámú mintán keresztül 43%-al növeltük }
+{1056}{}{a mitotikus ciklus hatékonyságát. Az új anyaggal 53 }
+{1057}{}{mosómedvét fertõztünk meg. A már korábban meg-}
+{1058}{}{tapasztalt méretnövekedés mellett a viselkedés- }
+{1059}{}{tesztek az intelligencia és a kézügyesség terén is }
+{1060}{}{19 pontos növekedést mutatnak a Schuler-Kapp }
+{1061}{}{táblázat alapján. Sajnos számos egyed elszökött a}
+{1062}{}{fogságból, ezért likvidálni kellett õket. Barnett }
+{1063}{}{õrnagy megparancsolta, hogy a maradékot is mind egy }
+{1064}{}{szálig irtsuk ki. Két pár kimaradt a szórásból.}
+{1065}{}{**END-PAR**}
+# -
+{1066}{}{Napló kelte: 2076 Május 13.}
+{1067}{}{A Barnett õrnagy tanácsadó csapatától kapott számos }
+{1068}{}{új génszekvenciát beoltottuk FEV-vel. A 11-101a jelû }
+{1069}{}{mintával 23 korcs illetve fajtiszta kutyát fertõztünk }
+{1070}{}{meg és szinte mindegyik példány azonnali növekedésnek }
+{1071}{}{indult. A méretnövekedést fokozott agresszió is }
+{1072}{}{kísérte, viszont az intelligenciájuk csak elenyészõen. }
+{1073}{}{nõtt. Azt terveztük, hogy 92 allele párt és a 11-011- }
+{1074}{}{es mintát összekeverjük. 14 hét beható tanulmányozást }
+{1075}{}{követõen valamennyi alanyt elpusztítottuk.}
+{1076}{}{**END-PAR**}
+# -
+{1077}{}{Napló kelte: 2076 Okt. 4.}
+{1078}{}{A keresztezés megtörtént, és 15 csimpánzt beoltottunk }
+{1079}{}{a 11-111-es mintával. A növekedés és immunszint nem }
+{1080}{}{várt mértékû. Próbáltunk az alanyokban rákos sejteket }
+{1081}{}{létrehozni, mind radiológiai, mind vegyi úton, de nem }
+{1082}{}{jártunk  sikerrel. Ráadásul a megnövekedett agresz- }
+{1083}{}{szivitás miatt az egyedeket izolálni kellett egymástól. }
+{1084}{}{Két példánynak komoly epileptikus rohama lett, és }
+{1085}{}{elpusztultak. A többi alanyt elaltattuk.}
+{1086}{}{**END-PAR**}
+# -
+{1087}{}{Napló kelte: 2077 Jan. 7.}
+{1088}{}{Barnett õrnagy megparancsolta, hogy valamennyi }
+{1089}{}{FEV kutatást át kell helyezni a Mariposa Katonai }
+{1090}{}{Bázisra. Tervei szerint a további kísérleteket }
+{1091}{}{önkénteseken fogjuk végezni. Nem vagyok oda ezért, }
+{1092}{}{és szeretném leszögezni, hogy az embereken végzett}
+{1093}{}{kísérleteket sem én sem a munkatársaim nem támogatják.}
+{1094}{}{**END-DISK**}
+
+# *** Biztonsági adatok ***
+{2000}{}{Gamma Omikron Delta biztonsági felülbírálat.}
+{2001}{}{**END-DISK**}
+
+# *** Ancient Brotherhood Disk ***
+{3000}{}{Maxson századosnak igaza volt. Ez a hely maga a.}
+{3001}{}{halál. Azért írom le mindezt, hogy ha nem éljük}
+{3002}{}{túl, valaki a jövõben tudomást szerezhessen arról,}
+{3003}{}{mi történt velünk.}
+{3004}{}{**END-PAR**}
+# -
+{3005}{}{20 nap valóságos pokol után elértük a West Tek}
+{3006}{}{kutatási központot. Ez volt persze a könnyebbik rész. }
+{3007}{}{Ahogy megközelítettük az óriási krátert, a sugárzás }
+{3008}{}{szintje az egekbe szökött. Utánanéztünk a tartaléka-}
+{3009}{}{inknak és megállapodtunk, hogy páncélzataink valamint}
+{3010}{}{sugárzás elleni felszereléseink úgy egy napi kutakodást}
+{3011}{}{tesznek lehetõvé. Éreztük, hogy jelentõs a veszély, de }
+{3012}{}{a megszerezhetõ technológia megérte a kockázatot.}
+{3013}{}{**END-PAR**}
+# -
+{3014}{}{A kráteren keresztül leereszkedtünk az elsõ szintre és }
+{3015}{}{minden a terveknek megfelelõen haladt. Áram nem volt, }
+{3016}{}{szóval a biztonsági berendezésekre nem nagyon kellett }
+{3017}{}{ügyelni. Legalábbis azt hittük. Ezen a szinten nem sok }
+{3018}{}{használhatót találtunk, így továbbnyomultunk.}
+{3019}{}{**END-PAR**}
+# -
+{3020}{}{A második szint szinte ugyanolyan volt, mint az elõzõ.}
+{3021}{}{**END-PAR**}
+# -
+{3022}{}{Amikor Jensen földet ért a harmadik szinten, elsza- }
+{3023}{}{badult a pokol. Az elõzõ két szint biztonsági érzé-}
+{3024}{}{kelõi tönkrementek, de itt kiválóan mûködtek. Szegény }
+{3025}{}{Jensen még azelõtt cafatokra szakadt, hogy tudtuk }
+{3026}{}{volna, mi történik. Sosem láttunk még fegyvert, ami }
+{3027}{}{így áthatol az erõpáncélon. Embereink jobbra-balra }
+{3028}{}{hullottak, de az életben maradtaknak sem termett}
+{3029}{}{babér. Próbáltam összeszedni a gárdát, de csak Sotóval }
+{3030}{}{és Camarillóval sikerült visszajutnunk az elsõ szintre.}
+{3031}{}{**END-PAR**}
+# -
+{3032}{}{Most, hogy érzem Soto leszakított karja helyérõl }
+{3033}{}{áradó égett hús szagát, rádöbbentem, hogy az erõ- }
+{3034}{}{páncélom nem igazán zár rendesen. Így némileg több }
+{3035}{}{sugárzás ér, mint amennyit beterveztem. A kenõanyag }
+{3036}{}{aggasztó mértékben folyik belõlem. Minél messzebb kell}
+{3037}{}{jutnunk innen, mielõtt a páncél végleg bekrepál. }
+{3038}{}{**END-PAR**}
+# -
+{3039}{}{Camarillo fittnek tûnt, de egy órája elcsászkált vala- }
+{3040}{}{hova, közben pedig a Gyehenna szót mormolgatta. Kicsit }
+{3041}{}{gáz, hogy nála van az összes antirad gyógyszer.}
+{3042}{}{**END-PAR**}
+# -
+{3043}{}{Ittmaradtunk Sotóval. Nem hinném, hogy túl messzire }
+{3044}{}{jutnánk az antirad anyag nélkül, szóval megyek és }
+{3045}{}{megpróbálom elõkeríteni ezt a szerencsétlen }
+{3046}{}{Camarillót, mielõtt túl késõ lesz.}
+{3047}{}{**END-PAR**}
+# -
+{3048}{}{D. Allen õrm., Az Egyesült Államok Hadserege.}
+{3049}{}{**END-DISK**}
+
+
+#  *** Alpha Experiment Disk ***
+{4000}{}{Az Átfogó Immunológiai Virion Projekt prototípusa}
+{4001}{}{**END-PAR**}
+# -
+{4002}{}{Abban a reményben, hogy a kínai kormány által }
+{4003}{}{jelenleg használt bakterológiai és vírusos ágen-}
+{4004}{}{sekre válaszolni tudjunk, létrehoztunk egy vírus }
+{4005}{}{törzset, mely gyakorlatilag egyfajta protein-lipid }
+{4006}{}{tokba ágyazott ribonuklein-sav (RNS). Ez a virion }
+{4007}{}{nem más, mint egy speciálisan elrendezett sugárzó }
+{4008}{}{aminósav-szekvencia, amely képes magát a dezoxi-}
+{4009}{}{ribonuklein sav (DNS) nem specifikus kötési }
+{4010}{}{pontjaihoz láncolni, így kényszerítve, hogy repli-}
+{4011}{}{káció nélküli mitózis jöjjön létre. A kialakult }
+{4012}{}{hordozósejtben kvad-spirálú DNS jön létre.}
+{4013}{}{**END-PAR**}
+# -
+{4014}{}{A kezdeti tesztek ígéretesek. A virion könnyedén }
+{4015}{}{áthatol a sejtfalon és közvetlenül hozzákapcsolódik }
+{4016}{}{a sejtmagban lévõ befogadó DNS-hez. A struktúra }
+{4017}{}{mitózisa szinte azonnal elkezdõdik. A sejtosztódást }
+{4018}{}{úgy akadályozzuk meg, hogy az anafázis során szabá-}
+{4019}{}{lyozzuk a kinetokór testek eloszlását. A teljes }
+{4020}{}{mitotikus ciklus körülbelül 2 óráig tart, viszont a}
+{4021}{}{az új struktúra fenotipikus jellemzõi csak napokkal }
+{4022}{}{sõt hetekkel késõbb lesznek nyilvánvalóak.}
+{4023}{}{**END-PAR**}
+# -
+{4024}{}{A bakteriális és vírusos ágensekkel szemben mutatott}
+{4025}{}{hatékony immunitása mellett a kvad-spirál struktúra }
+{4026}{}{szinte teljesen ellenálló a replikáció során végre-}
+{4027}{}{hajtott párosítás okozta hibákra. Mindez az alap- }
+{4028}{}{szekvencia multiplicitásának köszönhetõ. A sugárzásnak}
+{4029}{}{kitett szövet nem mutálódott az alapszekvenciában és }
+{4030}{}{a riboszómák proteinszintézise is szokványos.}
+{4031}{}{**END-PAR**}
+# -
+{4032}{}{A mintaszövetek több, mint 80%-a tartalmazta a }
+{4033}{}{kvad-spirálú DNS-t. Leginkább az izom és csontszövet }
+{4034}{}{változott, de a kiválasztó sejtek szintúgy. Ezek szem-}
+{4035}{}{látomást a legfogékonyabbnak a virionra. Az érzékelõ }
+{4036}{}{sejtek a legkevésbé fogékonyak. Meglepõ, de még a}
+{4037}{}{máskor sosem szaporodó idegsejtekben és nonszomatikus }
+{4038}{}{sejtekben is beindult az osztódás. Az így nyert ered-}
+{4039}{}{mények értékeléséhez további kísérletekre lesz szükség.}
+{4040}{}{**END-DISK**}
+
+
+# *** Delta Experiment Disk ***
+{5000}{}{A Hadsereg arra kötelezett bennünket, hogy a hullám-}
+{5001}{}{technológia élõ szervezetre gyakorolt hatását behatób- }
+{5002}{}{ban tanulmányozzuk. A fényt és a hangot tettük kutatá- }
+{5003}{}{saink alapjává. Azzal, hogy manipuláltuk a fényhullámok }
+{5004}{}{amplitúdóját, és megnöveltük a frekvenciáját, sikerült }
+{5005}{}{olyan lézert alkotnunk, amely képes egy néhány láb }
+{5006}{}{vastagságú acéltömböt is átvágni. Sajnos az ehhez }
+{5007}{}{szükséges háttér nincs teljesen kifejlesztve, ezért }
+{5008}{}{újabb tudósokat állítunk a feladatra.}
+{5009}{}{**END-DISK**}
+
+
+# *** Vree's Experiment Disk ***
+{6000}{}{Kezdeti megfigyelések}
+{6001}{}{**END-PAR**}
+# -
+{6002}{}{Ez aztán meglepõ, nem mondom! A járõrözõ Lovagok fura }
+{6003}{}{teremtményre bukkantak útjuk során. A lény ember- }
+{6004}{}{szabású, minden bizonnyal ember volt hajdanán, viszont }
+{6005}{}{nagyon de nagyon sok eltérõ jegyet mutat a közönséges }
+{6006}{}{emberekkel szemben.}
+{6007}{}{**END-PAR**}
+# -
+{6008}{}{A teremtmény elsõ megvizsgálásakor rájöttem, hogy a }
+{6009}{}{sejtfelépítése teljességgel megegyezik az emberekével. }
+{6010}{}{Mielõtt teljesen szétbomlana, le akarom jegyezni az }
+{6011}{}{alany adatait.}
+{6012}{}{**END-PAR**}
+# -
+{6013}{}{Az "A" alany adatai:}
+{6014}{}{**END-PAR**}
+# -
+{6015}{}{Magasság: 3.2 méter}
+{6016}{}{Tömeg:    363.21 kg}
+{6017}{}{Nem: Meghatározhatatlan}
+{6018}{}{Bõrszín: Nagyrészt szürke, zöldes árnyalatokkal, }
+{6019}{}{legalábbis a jelenlegi fényviszonyok mellett. Nem}
+{6020}{}{vagyok abban biztos, hogy bomlástól vagy sugárzástól}
+{6021}{}{származik. A bõre igen nehezen vágható szikével.}
+{6022}{}{**END-PAR**}
+{6023}{}{Lebomlás mértéke:}
+{6024}{}{    Izom:    77.41% }
+{6025}{}{    Csont:   10.23%}
+{6026}{}{    Zsír:    3.02%}
+{6027}{}{    Szövetek:  9.34%}
+{6028}{}{**END-PAR**}
+{6029}{}{Sejtfelépítés:}
+{6030}{}{    A sejtek igen gyors ütemben osztódnak. A mitózis 15}
+{6031}{}{    százalékkal gyorsabb, mint a közönséges emberekben. }
+{6032}{}{    Ez szerfelett különös.}
+{6033}{}{    Mindazonáltal a sejtstruktúra nagyban megegyezik az }
+{6034}{}{    emberekével. }
+{6035}{}{    A genetikai felépítés erõs rokonságot mutat az alany }
+{6036}{}{    és a Homo Sapiens között. Lehetséges, hogy a háború }
+{6037}{}{    után fennmaradt nukleáris és biokémiai ágensek hatása }
+{6038}{}{    tette rá a bélyegét erre a teremtményre. }
+{6039}{}{    A DNS törzsek meglepõ módon teljesnek tûnnek. }
+{6040}{}{    Valamennyi recesszív, kóros állapotra utaló gén el- }
+{6041}{}{    tûnt a szervezetbõl. Az RNS törzsek szemlátomást }
+{6042}{}{    jelentõs módosításon mentek keresztül, hogy alkalma- }
+{6043}{}{    sabbak legyenek rádiójelek továbbítására.}
+{6044}{}{**END-PAR**}
+# -
+{6045}{}{Alapvetõ hipotézis}
+{6046}{}{**END-PAR**}
+# -
+{6047}{}{A neurális transzmitterek és szinaptikus ingerület- }
+{6048}{}{átvivõk tanulmányozása arra enged következtetni, hogy az}
+{6049}{}{alany igen fejlett reflexekkel és kifinomult érzékekkel }
+{6050}{}{rendelkezett. A Lovagok jelentése megemlítette, hogy a }
+{6051}{}{terület, ahol az alanyt találták, sivár, magas sugárzású,}
+{6052}{}{volt, a vegyi anyagok koncentrációja elképesztõ méreteket }
+{6053}{}{öltött. Kész csoda, hogy a lény egyáltalán életben tudott }
+{6054}{}{maradni. Következõ lépésként meghatározom a halála okát.}
+{6055}{}{**END-PAR**}
+# -
+{6056}{}{Az "A" alanyon végrehajtott tesztek eredménye:}
+{6057}{}{**END-PAR**}
+# -
+{6058}{}{Szemle eredmény:}
+
+@ ez az elso sor jo nagy baromsagnak tunt eredetiben, mert ha valakin bullet nyomai vannak,
+# az nem a loporrol latszik, hanem a lyukrol. Kicsit atfogalmaztam. (bass)
+
+{6059}{}{    Lõpor nyomait találtam a bõrén, vagyis lõhettek rá. }
+{6060}{}{    Golyó ütötte lyukat nem látok.}
+{6061}{}{    1.2 cm-es sebek húzódnak a jobb vádliján. Ezeket }
+{6062}{}{    minden bizonnyal fogak okozták. Végrehajtok egy }
+{6063}{}{    veszettségi tesztet rajta.}
+{6064}{}{    A bõre száraz és petyhüdt. Valószínûleg sugárzás.}
+{6065}{}{**END-PAR**}
+# -
+{6066}{}{Teszteredmények:}
+{6067}{}{    Sugárzás szintje:               12 rad}
+{6068}{}{    Veszettség:                     Negatív}
+{6069}{}{    Klórgáz:                          Negatív}
+{6070}{}{    Klórtartalom:                   .07%}
+{6071}{}{    Kéntartalom:                    .02%}
+{6072}{}{    Fázisos vírus:                  Negatív}
+{6073}{}{    Gamma Ciklotronikus Vírus:  Negatív}
+{6074}{}{    Fejlesztett Evolúciós Vírus II: Komoly túladagolás}
+{6075}{}{**END-PAR**}
+# -
+{6076}{}{Hipotézis}
+{6077}{}{**END-PAR**}
+# -
+{6078}{}{A megfigyeléseim arra engednek következtetni, hogy az }
+{6079}{}{alany olyan harcban vesztette életét, amelyben legalább }
+{6080}{}{két emberforma lény és három kutyaméretû állat vett }
+{6081}{}{részt. Az különösképp meglepõ, hogy az alanyban mekkora }
+{6082}{}{mértékû vírusfertõzés lappang. Olvastam valamikor, hogy }
+{6083}{}{békebeli tudósok végeztek kísérleteket egy ilyesfajta }
+{6084}{}{vírussal, de az összes kutatási feljegyzést megsemmisí- }
+{6085}{}{tették.}
+{6086}{}{**END-PAR**}
+# -
+{6087}{}{Valamelyest belemerültem a talált vírus tanulmányozásába}
+{6088}{}{és bizony érdekes felfedezéseket tettem. Az alany éppen }
+{6089}{}{e vírus túladagolásának köszönheti az õt ért mutációs  }
+{6090}{}{jegyeket. Vonatkozik ez az izom és csontstruktúrára is. }
+{6091}{}{Fontos megjegyezni, hogy a más emberekben oly gyakori }
+{6092}{}{recesszív géneket úgy manipulálták, hogy a lehetõ leg- }
+{6093}{}{jobb kombinációt érjék el. Arról fogalmam sincs, miképp }
+{6094}{}{vihetõ mindez végbe, de annyi szent, hogy van néhány }
+{6095}{}{szembeötlõ mellékhatása. Ezek közül a leglátványosabb }
+{6096}{}{a nemzõképtelenség. A tesztalany képtelen lett volna }
+{6097}{}{utódokat létrehozni, akár tiszta, akár mutáns lényekkel.}
+{6098}{}{A másik látványos mellékhatás a fedõhám pigmentjeinek }
+{6099}{}{elváltozása. Míg e lények élettartama nagyjából 10%-al }
+{6100}{}{nõ, az értelmi képességeik közel 30%-al csökkennek.}
+{6101}{}{**END-PAR**}
+# -
+{6102}{}{Konkluzió}
+{6103}{}{**END-PAR**}
+# -
+{6104}{}{A megszerzett információ alapján könnyû levonni a }
+{6105}{}{következtetést, miszerint játszva túl tudjuk élni ezeket }
+{6106}{}{a mutánsokat. Azt figyelembe véve azonban, hogy micsoda }
+{6107}{}{elképesztõ mértékben van meg bennük ez a vírus, azt kell }
+{6108}{}{feltételeznem, van egy titkos hely a világban, ahol }
+{6109}{}{elõállítják õket. Hogy pontosan hol, gõzöm sincs.}
+{6110}{}{**END-DISK**}
+
+
+# *** Brotherhood of Steel Honor Code ***
+# *** Maxson története ***
+{7000}{}{Az apám egy Dél-Kaliforniai sivatagban épített titkos }
+{7001}{}{katonai bázison volt biztonsági õr. Tipikus katonai }
+{7002}{}{rendész, leginkább az erejére emlékszem. Amikor eljött }
+{7003}{}{a forradalom ideje, bámultam az eltökéltségét. A hátor- }
+{7004}{}{szágban maradt és segített a nyomorékokon, a sebesül- }
+{7005}{}{teken, még a tudósfejeken is. Engem és anyámat a leg- }
+{7006}{}{jobb barátjára bízta, és ránkparancsolt, hogy a többi }
+{7007}{}{lázadóval üssünk tanyát a sivatagban.}
+{7008}{}{**END-PAR**}
+# -
+{7009}{}{Néhányan voltunk, de elindultunk a pusztaságba. Egyetlen }
+{7010}{}{gondolat járt az eszemben, hogy sosem látom többet az }
+{7011}{}{apámat. Õ tudta, hogy a hátország maga a halál, és }
+{7012}{}{mégis maradt. Elkötelezte magát a zászló, a szervezet }
+{7013}{}{és az általa viselt jelvény iránt.}
+{7014}{}{**END-PAR**}
+# -
+{7015}{}{Micsoda idióta!}
+{7016}{}{**END-PAR**}
+# -
+{7017}{}{Mások bûne miatt kellett meghalnia. Ez többet nem fog }
+{7018}{}{elõfordulni velünk. Önellátókká válunk, és mi leszünk a }
+{7019}{}{tudás, a technológia õrzõi. Túl fogjuk élni a civili- }
+{7020}{}{záció végét. Mostantól szépen a sarkunkra fogunk állni, }
+{7021}{}{és gondoskodunk róla, megfelelõ irányba tereljük az }
+{7022}{}{embereket.}
+{7023}{}{**END-PAR**}
+# -
+{7024}{}{Halld hát szavam, Maxson fiam. Az Acél Testvérisége }
+{7025}{}{bizony nemhiába kapta a nevét. Testvérek vagyunk. Apám- }
+{7026}{}{mmal ellentétben minden olyan emberért, aki osztja a }
+{7027}{}{hitünket és meggyõzõdésünket, kiállunk. Olyanok vagyunk, }
+{7028}{}{mint az acél. Kemények. Kellõképpen megedzõdtünk.}
+{7029}{}{**END-PAR**}
+# -
+{7030}{}{Mindig emlékezz arra a tûzre, amelyben edzõdtünk!}
+{7031}{}{Soha ne feledkezz el róla! }
+{7032}{}{Ez volt a mottó régen, és manapság sem változott!}
+{7033}{}{**END-DISK**}
+
+# *** Mutant disk ***
+{8000}{}{Elküldött üzenet: Bázis, itt a kettes Turkáló Csapat.}
+{8001}{}{Vétel.}
+{8002}{}{**END-PAR**}
+# -
+{8003}{}{Vett üzenet: Jól, tisztán vesszük az adást, folytatni }
+{8004}{}{a tevékenységet! Vétel.}
+{8005}{}{**END-PAR**}
+# -
+{8006}{}{Elküldött üzenet: Négy férfit és két nõt fogtunk, plusz }
+{8007}{}{a karaván felszerelése is a mienk. Az áru alig szennye- }
+{8008}{}{zett. Mondd meg a Hadnagynak, hogy elõreküldjük õket, }
+{8009}{}{talán még túl is élhetik. Mi néhány napig itt maradunk, }
+{8010}{}{és megpróbálunk újabb karavánokat elkapni. Vétel. }
+{8011}{}{**END-PAR**}
+# -
+{8012}{}{Vett üzenet: Nyugtáztam. Voltak veszteségek a rajta- }
+{8013}{}{ütés során? Vétel.}
+{8014}{}{**END-PAR**}
+# -
+{8015}{}{Elküldött üzenet: Egyáltalán nem. Teljesen tiszta }
+{8016}{}{munka volt. Bázis, azt is mondjátok meg a Turkáló }
+{8017}{}{Csapatnak, hogy mi is beleütköztünk az õ problémájuk-}
+{8018}{}{ba. Az egyik felderítõ járõr nem tért vissza. Néhány }
+{8019}{}{másik járõrünk jelentette, hogy valami nagy és gyors }
+{8020}{}{dolgot láttak a táborunk közelében a múlt éjjel. Holnap }
+{8021}{}{reggel 6 órakor személyesen fogom ellenõrizni. Vétel.}
+{8022}{}{**END-PAR**}
+# -
+{8023}{}{Vett üzenet: Rendben. Várjuk a jelentést. Ha lehet- }
+{8024}{}{séges, próbáljátok elfogni. A Mester igen elégedett }
+{8025}{}{lenne. Vétel.}
+{8026}{}{**END-DISK**}
+
+
+# *** Military Base Disk***
+{9000}{}{2077 Okt. 10.}
+{9001}{}{Én, Roger Maxson, Százados, azonosító szám: 072389, }
+{9002}{}{azért kezdtem ezt a feljegyzést, mert rosszul áll a }
+{9003}{}{szénánk és szeretném, ha az emberek megtudnák, mi  }
+{9004}{}{történt velünk ezen a helyen. }
+{9005}{}{**END-PAR**}
+# -
+{9006}{}{Amikor végre rájöttünk, hogy azok a mocsok tudósok }
+{9007}{}{miben törik a fejüket, elszabadult a pokol. Az Ezredes }
+{9008}{}{bevette magát az irodájába, és nagyon úgy tûnik, hogy }
+{9009}{}{teljesen kikészült. Az emberek vért akarnak. Válaszokat }
+{9010}{}{várnak tõlem, de most az egyszer igazán tanácstalan }
+{9011}{}{vagyok. Valakinek tennie kell valamit, mielõtt ez a}
+{9012}{}{hely fejvesztett emberek mészárszékévé válik.}
+{9013}{}{**END-PAR**}
+# -
+{9014}{}{2077 Okt. 12.}
+{9015}{}{Akárhányszor jelentést kapunk felülrõl, a dolgok rosz- }
+{9016}{}{szabbra fordulnak nálunk. A háború nagyon aggasztó irányt }
+{9017}{}{vett és az elõidézett káosz nyomán totális lázadás }
+{9018}{}{várható. Ma személyesen állítottam le az egyik emberün- }
+{9019}{}{ket. Ki akart végezni egy tudóst, de én ráripakodtam, }
+{9020}{}{hogy meg kell tudnunk tõle, milyen parancsot kaptak.}
+{9021}{}{**END-PAR**}
+# -
+{9022}{}{2077 Okt. 13. }
+{9023}{}{Ma megöltem egy embert. Kihallgatásom tárgya a kutatók }
+{9024}{}{fõnöke, Anderson doktor volt, aki teljes képet adott }
+{9025}{}{nekem embertelen kísérleteikrõl. Azt állította, hogy }
+{9026}{}{a kormánynak dolgoznak, de nem vettem be a mesét. }
+{9027}{}{Elkezdett nekem üvöltözni, hogy õk csak katonák és }
+{9028}{}{parancsokat teljesítenek, mire lelõttem. Azt mondogatom}
+{9029}{}{magamnak, hogy azért volt szükség erre, nehogy lázadás}
+{9030}{}{törjön ki, de azért nem biztos.}
+{9031}{}{**END-PAR**}
+# -
+{9032}{}{2077 Okt. 15.}
+{9033}{}{Ma megint megpróbáltam beszélni az Ezredessel az ajtón }
+{9034}{}{keresztül, de úgy tûnik, teljesen elvesztette az eszét. }
+{9035}{}{Embereimmel sietve rátörtük az ajtót, de hiába. Végig }
+{9036}{}{kellett néznünk, ahogy épp szétloccsan a feje. Mielõtt }
+{9037}{}{meghúzta volna a ravaszt, annyit mondott: "sajnálom".}
+{9038}{}{**END-PAR**}
+# -
+{9039}{}{2077 Okt. 18.}
+{9040}{}{A fõokos megölésével úgy tûnik, elértem, hogy az emberek }
+{9041}{}{elismerjenek vezetõjüknek. Gondolkodás nélkül követik az }
+{9042}{}{utasításaimat. A kihallgatások szinte kivétel nélkül }
+{9043}{}{kivégzésben végzõdnek. Shellman tartott ki a legtovább, }
+{9044}{}{de õ sem kerülhette el a végzetét. A parancsokról átadott }
+{9045}{}{információi mondjuk eléggé hitelesnek tûntek egy átlagos }
+{9046}{}{meséhez képest. Kezdem igen rosszul érezni magam afelõl, }
+{9047}{}{mi várható a közeljövõben. Többé már nem is hazudok }
+{9048}{}{magamnak a tudósok kivégzésének szükségességét illetõen.}
+{9049}{}{**END-PAR**}
+# -
+{9050}{}{2077 Okt. 20.}
+{9051}{}{Nagysokára válaszoltam a külvilágnak a rádión keresztül. }
+{9052}{}{Nem tudom, miért nem küldtek ide soha senkit, hogy meg- }
+{9053}{}{nézzék, élünk-e halunk-e a forgalmazás megszûnése után. }
+{9054}{}{Teljesen érhetetlen az egész. Most viszont jönnek. Tud- }
+{9055}{}{tukra adtam ugyanis, hogy nem vagyunk többé az államok }
+{9056}{}{része. Jefferson Davis, meg fog enni a sárga irígység!}
+{9057}{}{**END-PAR**}
+# -
+{9058}{}{2077 Okt. 22.}
+{9059}{}{Mi a franc folyik itt? Dezertáltunk a hadseregbõl, többé }
+{9060}{}{nem vagyunk a Kormány parancsainak kitéve, és nézzenek oda, }
+{9061}{}{mi történik? Semmi! }
+{9062}{}{Nagyon rossz elõérzetem van...}
+{9063}{}{**END-PAR**}
+# -
+{9064}{}{2077 Okt. 23.}
+{9065}{}{Alig tudom elhinni, hogy azok a barmok végül is megtet- }
+{9066}{}{ték. Hogy rohadna rájuk az ég! Elszabadították az atomot. }
+{9067}{}{Éppen azon voltunk, hogy az igazi hátteret kivasaljuk }
+{9068}{}{von Feldenbõl, amikor teljesen megszakadt az összeköttetés. }
+{9069}{}{Van egy olyan érzésem, hogy a kutatási központot jól telibe }
+{9070}{}{találták. Nem tudom, miért, csak úgy zsigerbõl. Elég való- }
+{9071}{}{színûtlen, hogy mi nem vagyunk bemérve. Majdnem biztos vagyok }
+{9072}{}{abban, hogy Kína hamarosan válaszolni fog erre a kis balhéra. }
+{9073}{}{Nagy szerencse, hogy a családjainkat beköltöztettük az épület }
+{9074}{}{belsejébe két nappal ezelõtt, viszont sajnos nem tudjuk, hogy }
+{9075}{}{a nukleáris csapadék vajon elérte-e már a vidékünket.}
+{9076}{}{**END-PAR**}
+# -
+{9077}{}{2077 Okt. 25.}
+{9078}{}{Platner õrmester ma önként jelentkezett, hogy kimegy a }
+{9079}{}{szabadba és méréseket végez a szennyezést illetõen. Úgy }
+{9080}{}{tûnik, a sugárzás nem jött el idáig. Mivel erõpáncélt }
+{9081}{}{visel, nincs igazán kitéve valódi sugárveszélynek, de ha }
+{9082}{}{mégis megtörténne a baj, kénytelenek lennénk számûzni õt. }
+{9083}{}{Sajnos nincsenek meg a megfelelõ vegyvédelmi eszközeink }
+{9084}{}{ezen a bázison.}
+{9085}{}{**END-PAR**}
+# -
+{9086}{}{2077 Okt. 26.}
+{9087}{}{Meggyõztem az embereket, hogy el kell temetnünk a tudó- }
+{9088}{}{sokat. Nem tudom, miért... talán, hogy könnyítsek fájó }
+{9089}{}{lelkemen. A végén, amikor láttam haldokolni az utolsót, }
+{9090}{}{kezdtem hinni a "meséikben".}
+{9091}{}{**END-PAR**}
+# -
+{9092}{}{Istenem, mi lett belõlem? }
+{9093}{}{**END-PAR**}
+# -
+{9094}{}{2077 Okt. 27.}
+{9095}{}{A mai nappal elhagyjuk ezt az istenverte helyet. Az exodus }
+{9096}{}{valamennyi tagját a Lost Hills-beli régi kormánybunkerbe }
+{9097}{}{terelem. Ezt a kis feljegyzést most hátrahagyom az utó- }
+{9098}{}{kornak, talán egy szép napon valaki megtalálja, és okul }
+{9099}{}{belõle...}
+{9100}{}{**END-DISK**}
+
+# *** Sophia Disk ***
+{10000}{}{Az elátkozott bázisról útnak indult Exodus jelentõs meg- }
+{10001}{}{próbáltatás elé állította az embereket és családjaikat. }
+{10002}{}{Radioaktív csapadékkal ugyan nem kellett számolni, de }
+{10003}{}{rendre szembesülniük kellett az emberiség szennyével. A }
+{10004}{}{nemes cél vezérelte csapatnak elvetemült fosztogató- }
+{10005}{}{bandák tucatjaival kellett megbirkóznia nap nap után.}
+{10006}{}{**END-PAR**}
+# -
+{10007}{}{Az osztag tagjai nem voltak közvetlen veszélyben, hiszen }
+{10008}{}{rajtuk volt az erõpáncéljuk. A családtagjaik azonban nem }
+{10009}{}{voltak ilyen szerencsések. Amikor a mocskok rájöttek, }
+{10010}{}{hogy nem érdemes ujjat húzni a katonákkal, a fegyver- }
+{10011}{}{telen civileket kezdték lõni nagyobb távolságból. }
+{10012}{}{**END-PAR**}
+# -
+{10013}{}{A pusztai támadók számottevõ veszteségeket könyvel- }
+{10014}{}{hettek el, hiszen minden egyes Exodusban részvevõ }
+{10015}{}{ártatlanért cserébe két élettel kellett fizetniük.}
+{10016}{}{**END-PAR**}
+# -
+{10017}{}{Az alapító atyák végre valahára megérkeztek a bunker }
+{10018}{}{biztonságába. Maxson százados, a Nagy Vezetõ, kinyil- }
+{10019}{}{vánította, hogy mától ez az új otthonunk, és lõn rend.}
+{10020}{}{**END-PAR**}
+# -
+{10021}{}{Az idõ elõrehaladtával ez a bunker lett az élõhelyünk, a }
+{10022}{}{templomunk, a külvilág szörnyûségeit ellenpontozó szenté- }
+{10023}{}{lyünk. Elkezdtünk felépíteni egy dicsõségesnek szánt }
+{10024}{}{erõdöt, olyasfajta bázist, melyhez fogható szépséget a }
+{10025}{}{technológiától megfosztott világ még sosem látott azelõtt.}
+{10026}{}{**END-PAR**}
+# -
+{10027}{}{Persze voltak olyanok, akik többre vágytak. Ezek a }
+{10028}{}{nyughatatlan lelkek követelõzni kezdtek, hogy kutassunk }
+{10029}{}{fejlett technológiák után dél-keleti irányban. Feltétele- }
+{10030}{}{zésük szerint számos ígéretes hely létezhet arrafelé.}
+{10031}{}{**END-PAR**}
+# -
+{10032}{}{Maxson százados figyelmeztette a minden lében kanál}
+{10033}{}{ifjoncokat, hogy a kutatóbázis nagy eséllyel megsem-}
+{10034}{}{misült, de nem hallgattak intõ szavára. Fogták felszen-}
+{10035}{}{telt páncéljaikat és elindultak a maguk Szent Kelyhé-}
+{10036}{}{nek felkutatására. Attól sem riadtak vissza, hogy a Nagy }
+{10037}{}{Vezetõt becsméreljék, és kétségbe vonják bátorságát!}
+{10038}{}{**END-PAR**}
+# -
+{10039}{}{Ezekrõl az emberekrõl sosem hallottunk többet.}
+{10040}{}{**END-DISK**}
+
+# *** Maxson Disk ***
+{11000}{}{Miután én lettem a rangidõs Robert Spindel ezredes }
+{11001}{}{idõ elõtti halála miatt, és a kialakult krízishelyzetet }
+{11002}{}{át kellett vészelni valahogy, a bázis teljes biztonsági }
+{11003}{}{csapatát átvezényeltem a Lost Hill-i bunkerbe.}
+{11004}{}{**END-PAR**}
+# -
+{11005}{}{Ez a direktíva magában foglalja a tisztek és újoncok }
+{11006}{}{családjait is.}
+{11007}{}{**END-PAR**}
+# -
+# Talan jo ez a forditas (hadugyi osztaly)
+
+{11008}{}{Hacsak másképp nem rendelkeznek a Hadügyi Osztály }
+{11009}{}{részérõl, ezt a parancsot mindenkinek maradéktalanul be }
+{11010}{}{kell tartania.}
+{11011}{}{**END-PAR**}
+# -
+{11012}{}{1-es operatíva: Minden katona a családjával együtt 2077. }
+{11013}{}{október 25-én pontban nyolc órakor elhagyja a bázist.}
+{11014}{}{A teljes személyzet, parancsnoki irányítás mellett elindul }
+{11015}{}{a Lost Hill-i bázis felé. Eltávozás felfüggesztve.}
+{11016}{}{**END-PAR**}
+# -
+{11017}{}{2-es operatíva: Valamennyi civil személy a bázison marad }
+{11018}{}{és türelmesen várja a további parancsokat. }
+{11019}{}{}
+{11020}{}{**END-PAR**}
+# -
+{11021}{}{3-as operatíva: A katonák túléléséhez szükséges felszere- }
+{11022}{}{lést magunkhoz vesszük a raktárakból. Az idõ függvényében }
+{11023}{}{megfelelõ engedélyeztetést dolgozunk majd ki.}
+{11024}{}{}
+{11025}{}{**END-PAR**}
+# -
+{11026}{}{4-es operatíva: A közös hadi akciók alkalmával minden }
+{11027}{}{katonai rendszabályt maradéktalanul és szigorúan }
+{11028}{}{betartunk katonákon és civileken egyaránt.}
+{11029}{}{**END-PAR**}
+# -
+{11030}{}{5-ös operatíva: Addig a pillanatig, amíg a Hadügyi }
+{11031}{}{Osztállyal képtelenek vagyunk állandó, biztonságos }
+{11032}{}{kommunikációt fenntartani, ezek a parancsok minden }
+{11033}{}{korábban kiadott parancs fölött állnak.}
+{11034}{}{**END-PAR**}
+# -
+{11035}{}{Maxson százados}
+{11036}{}{2077 okt. 24.}
+{11037}{}{**END-DISK**}
+
+# *** Richard Grey audio diary ***
+{12000}{}{                                                    0000 - 0004}
+{12001}{}{Haldoklom. Mielõtt végleg legyûr a fájdalom, le kell }
+{12002}{}{rögzítenem a mondandómat.}
+{12003}{}{**END-PAR**}
+# -
+{12004}{}{                                                    0005 - 0020}
+{12005}{}{Alig hiszem el, hogy végül is kikecmeregtem abból a }
+{12006}{}{francos tartályból. A trutyi nem igazán hatott rám, de }
+{12007}{}{kis híján megfulladtam. Nem tudom, mi történt Harolddal. }
+{12008}{}{Amikor a daru betaszított a tartályba, mellettem állt. }
+{12009}{}{Valószínûleg megölték, különben segíteni próbált volna }
+{12010}{}{rajtam. Francine meghalt, a robotok egyike intézte el. }
+{12011}{}{Szép kis történet, mondhatom...}
+{12012}{}{**END-PAR**}
+# -
+{12013}{}{                                                    0021 - 0027}
+{12014}{}{Lövésem sincs róla, mennyi idõ telt el. Sikerült meg- }
+{12015}{}{hekkelni a számítógépet, és kikapcsolnom a robotokat. }
+{12016}{}{Ezt a felvételt is így tudtam megcsinálni, viszont az.}
+{12017}{}{elmém kezd tompulni. Iszonyat fájdalmaim vannak...}
+{12018}{}{**END-PAR**}
+# -
+{12019}{}{                                                    0028 - 0043}
+{12020}{}{A zöld trutymó, amiben volt szerencsém megmerítkezni nem }
+{12021}{}{más, mint a bennünket idevezérlõ mutációk forrása. A }
+{12022}{}{bõröm gennyedzik és hámlik, különféle helyeken pedig fel- }
+{12023}{}{hólyagosodik és zöld nyálkaszerû anyagot bocsát ki magá- }
+{12024}{}{ból. Néhány nap elmúltával a fájdalom egész elviselhetõ.}
+{12025}{}{**END-PAR**}
+# -
+{12026}{}{                                                    0044 - 0057}
+{12027}{}{Újra tudok járni egy kicsit... Elég hihetetlenül }
+{12028}{}{hangzik, hogy magamtól ügyetlenkedtem fel ide a tartály- }
+{12029}{}{terembõl. Különös, valahogy erõsebbnek érzem magam, }
+{12030}{}{pedig még mindig nagy fájdalmaim vannak. Mintha a }
+{12031}{}{dolgok egyre kisebbek lennének körülöttem.}
+{12032}{}{**END-PAR**}
+# -
+{12033}{}{                                                    0058 - 0096}
+{12034}{}{Azt hiszem, elfogyasztottam egyet az errefelé szalad- }
+{12035}{}{gáló mutáns izék közül. Mielõtt észebekaphattam volna, }
+{12036}{}{a hasamból kipattant valami indaféleség és elkapta a }
+{12037}{}{szegény jószágot. Amint lenyeltem a rágcsálót, és }
+{12038}{}{eltûnt a gyomromban, egybõl éreztem a gondolatait. }
+{12039}{}{Legalábbis szerintem. Van rá esély, hogy szép lassan }
+{12040}{}{begolyózok, emiatt nem tudok különbséget tenni a }
+{12041}{}{valóság és a hallucináció között. Lehet, hogy épp }
+{12042}{}{lassan haldoklom a tartályban, és az egész csak }
+{12043}{}{a képzeletem szülötte.}
+{12044}{}{**END-PAR**}
+# -
+{12045}{}{                                                    0097 - 0111}
+{12046}{}{A dolgok napról napra egyre tisztulnak. Ez a toxin }
+{12047}{}{bizony feljavította az elmémet. Úgy érzem, hogy még a }
+{12048}{}{legbonyolultabb filozófiai kérdésekeet is kapásból }
+{12049}{}{meg tudnám válaszolni. Olyan érzésem van, mintha minden }
+{12050}{}{gátló tényezõ eltûnt volna. Kiváncsi vagyok, mi tör- }
+{12051}{}{ténne, ha egy picit hosszabb idõre belemerítenék egy }
+{12052}{}{állatot abba a tartályba? Tudnánk beszélgetni?}
+{12053}{}{**END-PAR**}
+# -
+{12054}{}{                                                    0112 - 0134}
+{12055}{}{Az állatok igen érdekes változáson mennek keresz-}
+{12056}{}{tül. Egyre okosabbakká válnak, és egyre többet fel-}
+{12057}{}{fognak a környezetükbõl. Ma egy kutyát és egy }
+{12058}{}{patkányt egyszerre merítettem meg és összeolvadtak. }
+{12059}{}{Esetükben nem beszélhetünk többé két külön lényrõl, }
+{12060}{}{de egyrõl sem. Valószínûleg ez a jövõ, valamiféle }
+{12061}{}{harmónikus egyesülés két különbözõ teremtmény között.}
+{12062}{}{Abbahagytam az általam tápláléknak kreált állatok }
+{12063}{}{elfogyasztását, ugyanis én lettem az az eszköz, }
+{12064}{}{melynek segítségével ez az egyesülés létrejön majd. }
+{12065}{}{mostantól több vagyok egy egyszerû emberi lénynél.}
+{12066}{}{**END-PAR**}
+# -
+{12067}{}{                                                    0135 - 0139}
+{12068}{}{Itt az idõ, hogy mindenkit bevonjunk a dicsõséges}
+{12069}{}{Egyesülésbe.}
+{12070}{}{**END-PAR**}
+# -
+{12071}{}{                                                    0140 - 0153}
+{12072}{}{Ma betévedt az otthonomba egy balga lélek. Annyira }
+{12073}{}{meglepõdtem, hogy fürösztés helyett bekebeleztem. Ezt }
+{12074}{}{a hibát nem fogom többé elkövetni. Az elméje elképesz- }
+{12075}{}{tõen primitív és visszataszító volt az enyémhez képest.}
+{12076}{}{**END-PAR**}
+# -
+{12077}{}{                                                    0154 - 0172}
+{12078}{}{Módosításokat hajtottam végre magamon, hogy az Egyesülést }
+{12079}{}{még jobban elõsegítsem. Ehhez kis dózisokat fecskendezek }
+{12080}{}{magamba a vírusból. A tartályokban egy emberkészítette ún. }
+{12081}{}{Fejlesztett Evolúciós vírus található. Az infót a számító- }
+{12082}{}{géppel nemrég létesített neurolinken keresztül nyertem.}
+{12083}{}{**END-PAR**}
+# -
+{12084}{}{                                                     0173 - 0198}
+{12085}{}{Az a néhány vándor, aki véletlenül erre tévedt, óriási }
+{12086}{}{csalódást okozott nekem. Úgy tûnik, képtelenek rendesen }
+{12087}{}{mutálódni. A legjobb esetben is csak nagy darab, buta }
+{12088}{}{mutánsokat voltam képes létrehozni belõlük. A legtöbbjük }
+{12089}{}{semmire sem emlékszik a csodálatos Egyesülés elõtti }
+{12090}{}{idõszakból. Jelenleg csak tápláléknak szolgálnak. Az }
+{12091}{}{elméjük fabatkát sem ér számomra.}
+{12092}{}{**END-PAR**}
+# -
+{12093}{}{                                                     0199 - 0236}
+{12094}{}{Ó, dicsõséges teremtõ! Végre sikerült a csodás egyesülés }
+{12095}{}{örömét megosztanom egy másik lénnyel. A többiekkel ellen- }
+{12096}{}{tétben a benne található sugárzás elenyészõ volt. Úgy vélem,}
+{12097}{}{ezt a tényezõt eddig teljesen figyelmen kívül hagytam. Az }
+{12098}{}{a meglátásom, hogy a sugárfertõzéstõl mentes embereket }
+{12099}{}{sokkal könnyebb átváltoztatni. Még sosem éreztem oly dicsõ- }
+{12100}{}{séget, mint amikor egyesítettem az elménket az övével.}
+{12101}{}{**END-PAR**}
+# -
+{12102}{}{                                                     0237 - 0281}
+{12103}{}{Elkezdtünk létrehozni egy hadsereget, melyet a csodálatosan }
+{12104}{}{változatos élet egységesítésének szentelünk  Kiképeztük õket, }
+{12105}{}{hogy képesek legyenek elvégezni a munkánkat, amíg hasznosít- }
+{12106}{}{ható lakott területek után kutatunk. Mostanában érkezett el }
+{12107}{}{az idõ, hogy mozgó testünk korlátai már akadályt jelentenek.}
+{12108}{}{Állandó otthont kell találnunk magunknak, fellegvárat a }
+{12109}{}{tudásnak, megbízható elõállító üzemet a bioanyagunknak.}
+{12110}{}{**END-PAR**}
+# -
+{12111}{}{                                                     0282 - 0303}
+{12112}{}{Abbahagytuk a terjeszkedést, amíg nem találunk magunknak }
+{12113}{}{megfelelõ egyesítõ központot. Amint megvan, újra növekedni }
+{12114}{}{kezdünk, mígnem elhozzuk a békét és egységet az egész }
+{12115}{}{világ számára.}
+{12116}{}{**END-DISK**}
+
+# *** Captain Maxson's Diary ***
+{13000}{}{Oct 10, 2077}
+{13001}{}{Én, Roger Maxson, Százados, azonosító szám: 072389,}
+{13002}{}{azért kezdtem ezt a feljegyzést, mert rosszul áll a }
+{13003}{}{szénánk és szeretném, ha az emberek megtudnák, mi }
+{13004}{}{történt velünk ezen a helyen. Amikor végre rájöttünk, }
+{13005}{}{hogy azok a mocsok tudósok miben törik a fejüket, el-}
+{13006}{}{szabadult a pokol. Az Ezredes bevette magát az iro- }
+{13007}{}{dájába, és nagyon úgy tûnik, hogy teljesen kikészült. }
+{13008}{}{Az emberek vért akarnak. Válaszokat várnak tõlem, de }
+{13009}{}{most az egyszer igazán tanácstalan vagyok. Valakinek }
+{13010}{}{tennie kell valamit, mielõtt ez a hely fejvesztett }
+{13011}{}{emberek mészárszékévé válik.}
+{13012}{}{**END-PAR**}
+# -
+{13013}{}{Oct. 12 2077}
+{13014}{}{Akárhányszor jelentést kapunk felülrõl, a dolgok rosz- }
+{13015}{}{szabbra fordulnak nálunk. A háború nagyon aggasztó irányt }
+{13016}{}{vett és az elõidézett káosz nyomán totális lázadás }
+{13017}{}{várható. Ma személyesen állítottam le az egyik emberün- }
+{13018}{}{ket. Ki akart végezni egy tudóst, de én ráripakodtam, }
+{13019}{}{hogy meg kell tudnunk tõle, milyen parancsot kaptak.}
+{13020}{}{**END-PAR**}
+# -
+{13021}{}{Oct.13 2077}
+{13022}{}{Ma megöltem egy embert. Kihallgatásom tárgya a kutatók}
+{13023}{}{fõnöke, Anderson doktor volt, aki teljes képet adott nekem}
+{13024}{}{embertelen kísérleteikrõl. Azt állította, hogy a kormánynak}
+{13025}{}{dolgoznak, de nem vettem be a mesét. Elkezdett nekem üvöl-}
+{13026}{}{tözni, hogy õk csak katonák és parancsokat teljesítenek, }
+{13027}{}{mire  lelõttem. Azt mondogatom, hogy azért volt szükség}
+{13028}{}{erre, nehogy lázadás törjön ki, de azért nem biztos.}
+{13029}{}{**END-PAR**}
+# -
+{13030}{}{Oct.15 2077}
+{13031}{}{Ma megint megpróbáltam beszélni az Ezredessel az ajtón }
+{13032}{}{keresztül, de úgy tûnik, teljesen elvesztette az eszét. }
+{13033}{}{Embereimmel sietve rátörtük az ajtót, de hiába. Végig }
+{13034}{}{kellett néznünk, ahogy épp szétloccsan a feje. Mielõtt }
+{13035}{}{meghúzta volna a ravaszt, annyit mondott: "sajnálom".}
+{13036}{}{**END-PAR**}
+# -
+{13037}{}{Oct. 18 2077}
+{13038}{}{A fõokos megölésével úgy tûnik, elértem, hogy az emberek }
+{13039}{}{elismerjenek vezetõjüknek. Gondolkodás nélkül követik az }
+{13040}{}{utasításaimat. A kihallgatások szinte kivétel nélkül }
+{13041}{}{kivégzésben végzõdnek. Shellman tartott ki a legtovább, }
+{13042}{}{de õ sem kerülhette el a végzetét. A parancsokról átadott }
+{13043}{}{információi mondjuk eléggé hitelesnek tûntek egy átlagos }
+{13044}{}{meséhez képest. Kezdem igen rosszul érezni magam afelõl, }
+{13045}{}{mi várható a közeljövõben. Többé már nem is hazudok }
+{13046}{}{magamnak a tudósok kivégzésének szükségességét illetõen.}
+{13047}{}{**END-PAR**}
+# -
+{13048}{}{Oct.20 2077}
+{13049}{}{Nagysokára válaszoltam a külvilágnak a rádión keresztül. }
+{13050}{}{Nem tudom, miért nem küldtek ide soha senkit, hogy meg- }
+{13051}{}{nézzék, élünk-e halunk-e a forgalmazás megszûnése után. }
+{13052}{}{Teljesen érhetetlen az egész. Most viszont jönnek. }
+{13053}{}{Tudtukra adtam ugyanis, hogy nem vagyunk többé az }
+{13054}{}{államok része. Az emberek emlékeznek Jefferson Davis-re. }
+{13055}{}{Vajon rólam mit fog mondani a történelem?}
+{13056}{}{**END-PAR**}
+# -
+{13057}{}{Oct.22 2077}
+{13058}{}{Mi a franc folyik itt? Dezertáltunk a hadseregbõl, többé }
+{13059}{}{nem vagyunk a Kormány parancsainak kitéve, és nézzenek oda, }
+{13060}{}{mi történik? Semmi! }
+{13061}{}{Nagyon rossz elõérzetem van...}
+{13062}{}{**END-PAR**}
+# -
+{13063}{}{Oct. 23 2077}
+{13064}{}{Alig tudom elhinni, hogy azok a barmok végül is megtet- }
+{13065}{}{ték. Hogy rohadna rájuk az ég! Elszabadították az atomot. }
+{13066}{}{Éppen azon voltunk, hogy az igazi hátteret kivasaljuk }
+{13067}{}{von Feldenbõl, amikor teljesen megszakadt az összeköttetés. }
+{13068}{}{Van egy olyan érzésem, hogy a kutatási központot jól telibe }
+{13069}{}{találták. Nem tudom, miért, csak úgy zsigerbõl. Elég való- }
+{13070}{}{színûtlen, hogy mi nem vagyunk bemérve. Majdnem biztos vagyok }
+{13071}{}{abban, hogy Kína hamarosan válaszolni fog erre a kis balhéra. }
+{13072}{}{Nagy szerencse, hogy a családjainkat beköltöztettük az épület }
+{13073}{}{belsejébe két nappal ezelõtt, viszont sajnos nem tudjuk, hogy }
+{13074}{}{a nukleáris csapadék vajon elérte-e már a vidékünket.}
+{13075}{}{**END-PAR**}
+# -
+{13076}{}{Oct. 25 2077}
+{13077}{}{Platner õrmester ma önként jelentkezett, hogy kimegy a }
+{13078}{}{szabadba és méréseket végez a szennyezést illetõen. Úgy }
+{13079}{}{tûnik, a sugárzás nem jött el idáig. Mivel erõpáncélt }
+{13080}{}{visel, nincs igazán kitéve valódi sugárveszélynek, de ha }
+{13081}{}{mégis megtörténne a baj, kénytelenek lennénk számûzni õt. }
+{13082}{}{Sajnos nincsenek meg a megfelelõ vegyvédelmi eszközeink }
+{13083}{}{ezen a bázison.}
+{13084}{}{**END-PAR**}
+# -
+{13085}{}{Oct. 26 2077}
+{13086}{}{Meggyõztem az embereket, hogy el kell temetnünk a tudó- }
+{13087}{}{sokat. Nem tudom, miért... talán, hogy könnyítsek fájó }
+{13088}{}{lelkemen. A végén, amikor láttam haldokolni az utolsót,}
+{13089}{}{kezdtem hinni a "meséikben". Istenem, mi lett belõlem?}
+{13090}{}{**END-PAR**}
+# -
+{13091}{}{Oct. 27 2077}
+{13092}{}{A mai nappal elhagyjuk ezt az istenverte helyet. Az }
+{13093}{}{exodus valamennyi tagját a Lost Hills-beli régi kormány- }
+{13094}{}{bunkerbe terelem. Ezt a kis feljegyzést most hátrahagyom }
+{13095}{}{az utókornak, talán egy szép napon valaki megtalálja, és }
+{13096}{}{okul belõle...}
+{13097}{}{**END-DISK**}
+
+
+# Computer Download of the FEV project
+# Uses the global var COMPUTER_FEV
+
+{14000}{}{A FEV tapasztalatok összegzésének kivonata:}
+{14001}{}{**END-PAR**}
+{14002}{}{2073. Ahogy Kína egyre agresszívabbá vált a biológiai }
+{14003}{}{fegyverek használatában, az Egyesült Államok úgy }
+{14004}{}{érezte, hogy ellenlépéseket kell eszközölnie. Az Átfogó }
+{14005}{}{Immunológiai Virion Projekt (ÁIVP) hivatalosan 2073. }
+{14006}{}{szeptember 15-én indult.}
+{14007}{}{**END-PAR**}
+#
+{14008}{}{2075. Ezidõtájt vált nyilvánvalóvá, hogy az újonan létre- }
+{14009}{}{hozott biológiai fegyverek elleni harc leghatásosabb }
+{14010}{}{módszere a még nem fertõzött DNS módosítása, mellyel }
+{14011}{}{a hagyományos vírusfertõzések ellen immunisá tehetõk.}
+{14012}{}{**END-PAR**}
+#
+{14013}{}{2076. Az ÁIVP elõrehaladtával nem várt mellékhatások }
+{14014}{}{kezdtek felszínre bukkanni. A kísérleti állatok abnormális }
+{14015}{}{növekedési rátát, és túlzott agyi tevékenységet mutat-}
+{14016}{}{tak. Az Egyesült Államok kormánya szemmel tartotta e }
+{14017}{}{kísérleteket, ezért a nemzetbiztonság érdekében egy }
+{14018}{}{megfigyelõ csoportot küldött a helyszínre. A cél az volt,}
+{14019}{}{hogy felügyeljék és biztosítsák a projektet, melyet egy }
+{14020}{}{ideje FEV (Fejlesztett Evolúciós Vírus) néven illettek.}
+{14021}{}{**END-PAR**}
+#
+{14022}{}{2077. A FEV hamarosan kész. A laboratóriumi állatokon }
+{14023}{}{végzett kísérletek közel száz százalékos sikerrel jártak. }
+{14024}{}{A méret és izomtömeg körülbelül 60 százalékkal növekszik, }
+{14025}{}{az intelligencia akár 200 százalékos növekedést is elér. }
+{14026}{}{Az emberekre kifejtett hatása továbbra is ismeretlen, }
+{14027}{}{habár elméletileg semmi probléma nem lehet vele. Mivel }
+{14028}{}{szerették volna folytatni a teszteket, a hadsereg óriási }
+{14029}{}{kutatólabort létesített a Közép-Kaliforniai Mariposa }
+{14030}{}{katonai bázis területén. Az új helyszínen tovább folyta-}
+{14031}{}{tódik a FEV tesztelése, immár a hadsereg önkéntesein.}
+{14032}{}{**END-DISK**}
+
+
+# Computer Downlod of the Power Armor Specs
+# Uses the global var COMPUTER_POWER_ARMOR
+
+{15000}{}{A T-51b Fúziós Gyalogsági Páncél a legmodernebb passzív }
+{15001}{}{védelmi technikák alkalmazásával készült mind civil, mind }
+{15002}{}{katonai zavargások leküzdésére. A hátra szerelhetõ TX- }
+{15003}{}{28-as Mikrofúziós egység 60 Kw áramot termel, így moz- }
+{15004}{}{gatja az öltözék vázát alkotó "HiFlo" hidraulikus rend- }
+{15005}{}{szert. A legújabb többrétegû kompozitokból álló T-51b }
+{15006}{}{borítása pehely könnyû, több, mint 2500 J kinetikus ener- }
+{15007}{}{giát képes elnyelni. A 10 mikron vastagságú ezüstözött }
+{15008}{}{ablatív borítás anélkül veri vissza a lézer és sugárnyalá- }
+{15009}{}{bokat, hogy sérülést hagyna a kompozit belsõ felületen.}
+{15010}{}{**END-DISK**}
+
+
+# Computer Download of the Personel Records
+# Uses the global var COMPUTER_RECORDS
+
+{16000}{}{Robert Anderson}
+{16001}{}{Kutató asszisztens}
+{16002}{}{Biztonsági besorolás: Kék}
+{16003}{}{Állomáshely: Mariposa Katonai Bázis}
+{16004}{}{**END-PAR**}
+#
+{16005}{}{Nick Davis}
+{16006}{}{A West Tech Kutatóállomás NBC részlegének vezetõje}
+{16007}{}{Biztonsági besorolás: Kék}
+{16008}{}{Állomáshely: West Tech Kutató Részleg}
+{16009}{}{**END-PAR**}
+#
+{16010}{}{John Isaac}
+{16011}{}{Kutató asszisztens}
+{16012}{}{Biztonsági besorolás: Vörös}
+{16013}{}{Állomáshely: West Tech Kutató Részleg}
+{16014}{}{**END-PAR**}
+#
+{16015}{}{Steve Remco}
+{16016}{}{Kutató asszisztens}
+{16017}{}{Biztonsági besorolás: Kék}
+{16018}{}{Állomáshely: Mariposa Katonai Bázis}
+{16019}{}{**END-PAR**}
+#
+{16020}{}{Charles Rignhold}
+{16021}{}{Lézerfejlesztés kutatási vezetõje}
+{16022}{}{Biztonsági besorolás: Kék}
+{16023}{}{Állomáshely: West Tech Kutató Részleg}
+{16024}{}{**END-PAR**}
+#
+{16025}{}{Michele Santose}
+{16026}{}{Labortechnikus}
+{16027}{}{Biztonsági besorolás: Vörös}
+{16028}{}{Állomáshely: West Tech Kutató Részleg}
+{16029}{}{**END-PAR**}
+#
+{16030}{}{Erin Shellman}
+{16031}{}{Labortechnikus}
+{16032}{}{Biztonsági besorolás: Kék}
+{16033}{}{Állomáshely: Mariposa Katonai Bázis}
+{16034}{}{**END-PAR**}
+#
+{16035}{}{Leon VonFelden}
+{16036}{}{FEV kutatási vezetõje}
+{16037}{}{Biztonsági besorolás: Kék}
+{16038}{}{Állomáshely: Mariposa Katonai Bázis}
+{16039}{}{**END-DISK**}
+
+# Holodisk from the Brotherhood Library
+# uses the global var BROTHERHOOD_LIBRARY_DISK
+
+{17000}{}{Menedék lokációk v34.129, C Revízió (Nyugat USA)}
+{17001}{}{**END-PAR**}
+#
+{17002}{}{Üdvözlöm, ön az Egyesült Államok nyugati területeinek}
+{17003}{}{menedéklokációs szóróanyagát olvassa. Reméljük, }
+{17004}{}{hasznára válik majd. A Menedékek nem a kiváltságosok- }
+{17005}{}{nak készültek, hanem mindenki számára.}
+{17006}{}{**END-PAR**}
+#
+{17007}{}{12-es Menedék}
+{17008}{}{**END-PAR**}
+#
+{17009}{}{Bakersfield kiterjedt metropolisza alatt pompázik a}
+{17010}{}{12-es Menedék, egy valóságos technológiai csoda. Mivel }
+{17011}{}{a Menedéklakók minden igényét kielégítõ körültekin- }
+{17012}{}{téssel épült, a 12-es Menedék elnyerte a magas }
+{17013}{}{készültségért járó "Vasalt Kezeslábas" díjat. A Menedék }
+{17014}{}{mélyen a föld alatt fekszik, ezért a Menedéklakók }
+{17015}{}{számára nyújtott védelme egyedülálló. A többi Menedékhez }
+{17016}{}{hasonlóan a 12-est is felszerelték a legmodernebb víz-}
+{17017}{}{tisztító berendezéssel. Még a Bakersfield alatt húzódó }
+{17018}{}{csatorna szennyvizével is megbirkózik. A rendszer nap }
+{17019}{}{nap után 15000 gallon friss, tiszta vízzel képes }
+{17020}{}{ellátni a menedék lakóit.}
+{17021}{}{**END-PAR**}
+#
+{17022}{}{13-as Menedék}
+{17023}{}{**END-PAR**}
+#
+{17024}{}{A 12-es Menedéktõl északnyugatra elhelyezkedõ festõi }
+{17025}{}{hegyvidéki környezetben épült 13-as Menedék soha ki }
+{17026}{}{nem fogyó víztartalékkal szolgál a lakóinak. Azok a }
+{17027}{}{híresztelések, melyek szerint a vízgyûjtõ terület  }
+{17028}{}{könnyen megfertõzhetõ egy atomháború esetén, teljesen }
+{17029}{}{alaptalannak bizonyultak a Vízügyi Hatóság felmérése }
+{17030}{}{alapján. Egy olyan esetre, amikor a környezõ területeken }
+{17031}{}{szennyezés éri a vizet, bármilyen nagy kiterjedésû  }
+{17032}{}{legyen is az, a 13-as Menedéket a kormány által elfo- }
+{17033}{}{gadott Menedék Víztisztító Rendszerrel szerelték fel. }
+{17034}{}{A szerkezetet arra tervezték, hogy a Menedéklakók akár }
+{17035}{}{250 órányi áramkiesés esetén se maradjanak víz nélkül.}
+{17036}{}{**END-PAR**}
+#
+{17037}{}{15-ös Menedék}
+{17038}{}{**END-PAR**}
+#
+{17039}{}{A 15-ös Menedék a 13-as Menedéktõl keleti irányban }
+{17040}{}{épült meg. Az építkezés a legnagyobb rendben folyt. Sok }
+{17041}{}{munkát fektettek a harmadik szint falainak megerõsíté- }
+{17042}{}{sébe, hiszen biztosra akarták venni, hogy egy pusztító }
+{17043}{}{erejû földrengés esetén se károsodjanak a Menedék }
+{17044}{}{területén mûködõ komoly számítógépek. Az újonnan épült }
+{17045}{}{Menedéket máris számos potenciális Menedéklakó láto- }
+{17046}{}{gatta meg és tette nyilvánvalóvá, hogy mennyire lenyû- }
+{17047}{}{gözik õket az amúgy is pazar Menedék továbbfejleszté- }
+{17048}{}{sének szemmel látható bizonyítékai.}
+{17049}{}{**END-DISK**}
+
+#Regulator Disk from Blades
+
+{18000}{}{A Rendfenntartók forgalmazási naplója:}
+{18001}{}{**END-PAR**}
+{18002}{}{Elküldött üzenet: Rendfenntartó járõr a bázisnak. }
+{18003}{}{Hall engem? Vétel.}
+{18004}{}{**END-PAR**}
+{18005}{}{Vett üzenet: Itt a rendfenntartó bázis, Vezér- }
+{18006}{}{Rendfenntartó Caleb jelentkezem. Jelentés? Vétel.}
+{18007}{}{**END-PAR**}
+{18008}{}{Elküldött üzenet: Igenis uram! Cravotta Rendfenntartó }
+{18009}{}{tizedes jelentkezem. Elfogtuk a Zimmerman gyereket, }
+{18010}{}{amint újra megpróbált áthatolni a védõgyûrûn, uram.}
+{18011}{}{Mi a parancsa? Vétel.}
+{18012}{}{**END-PAR**}
+{18013}{}{Vett üzenet: A francba! Már megint? Betelt a pohár, }
+{18014}{}{többet nem fog itt játszadozni velünk. Végezzék ki, }
+{18015}{}{és tegyenek úgy, mintha a Pengések csinálták volna! }
+{18016}{}{Megértette? Vétel.}
+{18017}{}{**END-PAR**}
+{18018}{}{Elküldött üzenet: Uram... Öö... jól értettem, uram?}
+{18019}{}{Öljük meg? Vétel.}
+{18020}{}{**END-PAR**}
+{18021}{}{Vett üzenet: Ahogy mondja, Rendfenntartó! És ha lehet, }
+{18022}{}{minél véresebb legyen. Nyársalják fel a kinti cölöpök-  }
+{18023}{}{re... ja, és a nyelvét is vágják ki, hogy ne tudjon }
+{18024}{}{beszélni, miközben "megpróbáljuk" szegénykémet megmen- }
+{18025}{}{teni. Vette?}
+{18026}{}{**END-PAR**}
+{18027}{}{Elküldött üzenet: Vettem a parancsot, uram. Vétel.}
+{18028}{}{**END-PAR**}
+{18029}{}{Átvitel vége.}
+{18030}{}{**END-DISK**}

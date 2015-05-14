@@ -1,0 +1,52 @@
+{100}{}{Tágulj tõlem! Hagyj békén!}
+{101}{}{Helló idegen! Nem szabadna itt lenned. Ez itt a halál vidéke!}
+{102}{}{Gondolom, nem tudsz semmit az eltûnt karavánokról...}
+{103}{}{Ki vagy?}
+{104}{}{Miféle halálról beszélsz?}
+{105}{}{Frissíteni akarom a készleteimet. Add át a tiedet, de gyorsan!}
+{106}{}{Egy vízcsipet keresek. Tudnál segíteni?}
+{107}{}{Azon gondolkodtam, vajon tudnál-e mondani valamit a Halálkarmokról.}
+{108}{}{Rurr? Szipp?}
+{109}{}{Mi a francot akarsz?! Hagyj békén!}
+{110}{}{Rrr. Snrg.}
+{111}{}{Nagy! Nagy! Három ember magas! Akkora karmai vannak, mint az alkarom! Széttépték! Széttépték!}
+{112}{}{Igen. Egyéb?}
+{113}{}{Nyugalom, jóember! Most már biztonságban vagy}
+{114}{}{Barátom, ez aztán jó nagy rohadék lehet!}
+{115}{}{Megölted?}
+{116}{}{Trentnek hívnak. A Vízkereskedõk õre vagyok. Megtámadták a karavánunkat... egy szörnyeteg... Nagyon nagy volt, nagyon gyors. Felfalta Joe-t, és hiába kapott be több puskalövést, fel sem vette! Bazi nagy, annyit mondhatok!}
+{117}{}{Mi támadott meg titeket?}
+{118}{}{Úgy hangzik, mint valami mutáns.}
+{119}{}{A leírás eléggé ráillik a Halálkarmokra!}
+{120}{}{Ez legalább elgondolkodtat benneteket, hogy nem szabad olyan magasan tartani az árakat!}
+{121}{}{Jól van. Amúgy sem nagyon van rá szükségem...}
+{122}{}{Vízcsip?! Én õr vagyok, nem mérnök. Nézz be a Hubbeli Vízkereskedõkhöz, õk minden bizonnyal tudni fognak róla!}
+{123}{}{Halálkarom!}
+{124}{}{Mit csinálsz? Hagyj békén!}
+{125}{}{Nem... nem tudom... Régóta nem aludtam. Éhes vagyok. Szomjas vagyok. Fáradt vagyok. Haza akarok jutni.}
+{126}{}{}
+{127}{}{Nagy szarvak, visszataszító vörös bõr, mintha valami démonos történetbõl ugrott volna elõ, és három falásra megette Joe-t...}
+{128}{}{Senki nem lehet biztonságban! Senki nem lehet biztonságban, senki... de majd mindjárt megmondom én, mit csinálok...}
+{129}{}{Elment az eszed! Három tárat belenyomtama a Desert Eagle-bõl, és rá se bagózott!}
+{130}{}{Szarom le, hogy mutáns vagy idegen, vagy pokolbeli démon, soha többé nem akarok olyan teremtményt látni!}
+{131}{}{A francba, én csak egy õr vagyok! Ne engem okolj! Egész jó fizetést adnak egyébként, semmi bajom velük!}
+{132}{}{Hogyan segíthetnék?}
+{133}{}{Halálkarmok ragadták el. Eddig azt hittem, hogy ez csak kitalált történet, de... nem hiszed el, milyen nagyok és gyorsak. Hamar megéreztük a szagukat, aztán túljöttek a hegygerincen és lerohantak minket. Futott mindenki, mint a nyúl, nekem pedig sikerült valahogy olajra lépnem...}
+{134}{}{Trent, Trent Barrister. A Hubban éldegélek. A munkalehetõségek elég satnyák voltak mostanában, és mivel elég jól tudok lõni, elszegõdtem a Vízkereskedõkhöz. A fizetség jó, a kockázat alacsony... gondoltam én.}
+{135}{}{Gõzöm sincs. Ez valami régi technológia, mi? A gubizók biztos szoktak találni ilyesmit a szemétben, de arról lövésem sincs, hol lehetne utánajárni. Szerintem ma már senki nem használ ilyet... vagy igen?}
+{136}{}{Marha nagyok. Hasonlítanak a gyíkokra, csak bõr borítja a testüket. Hatalmas karmaik, fogaik és szarvaik vannak, az emberhúst egyenesen imádják. És a gyorsaságuk... istenem, olyan gyorsak, hogy megáll az ész! Összetehetem a kezem, hogy nem futottak utánam, különben már rég alulról szagolnám az ibolyát.}
+{137}{}{Kösz. Lehet, hogy a történtek csak félreértésbõl adódnak. Nincs sok pénzem, de az mind a tied lehet.}
+{138}{}{Kösz, ó, istenem, ez jó... Nincs sok pénzem, de az mind a tied lehet.}
+{139}{}{Kösz, lehet, hogy a történtek csak félreértésbõl fakadnak. Nincs sok pénzem, de... a fenébe! Elejthettem! Ami van, a tied lehet.}
+{140}{}{Kösz, ó, istenem, ez jó... Nincs sok pénzem, de... a fenébe! Elejthettem! Ami van, a tied lehet.}
+{141}{}{Segíts!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{142}{}{A halál szaga, barátom, a halál szaga...}
+{143}{}{A halál szaga, barátom, a halál szaga...}

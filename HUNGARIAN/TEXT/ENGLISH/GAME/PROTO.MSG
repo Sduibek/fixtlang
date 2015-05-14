@@ -1,0 +1,245 @@
+#
+# Messages for Prototypes
+#
+# strings
+#
+{10}{}{<None>}
+
+#
+# Material Types
+#
+{100}{}{Üveg}
+{101}{}{Fém}
+{102}{}{Mûanyag}
+{103}{}{Fa}
+{104}{}{Por}
+{105}{}{Kõ}
+{106}{}{Beton}
+{107}{}{Bõr}
+
+#
+# Item Types
+#
+{150}{}{Páncél}
+{151}{}{Konténer}
+{152}{}{Drog}
+{153}{}{Fegyver}
+{154}{}{Lõszer}
+{155}{}{Egyéb tárgy}
+{156}{}{Kulcs}
+
+#
+# Scenery Types
+#
+{200}{}{Portál}
+{201}{}{Lépcsõ}
+{202}{}{Lift}
+{203}{}{Létra alja}
+{204}{}{Létra teteje}
+{205}{}{Tipikus táj}
+
+#
+# Damage Code Types
+#
+{250}{}{normál}
+{251}{}{lézer}
+{252}{}{tûz}
+{253}{}{plazma}
+{254}{}{elektromos}
+{255}{}{emp}
+{256}{}{robbanás}
+
+#
+# Caliber Types for weapons
+#
+{300}{}{Nincs}
+{301}{}{Rakéta}
+{302}{}{Lángszóró üzemanyag}
+{303}{}{C energiacella}
+{304}{}{D energiacella}
+{305}{}{.223}
+{306}{}{5mm}
+{307}{}{.40 kal}
+{308}{}{10mm}
+{309}{}{.44 kal}
+{310}{}{14mm}
+{311}{}{12 kal}
+{312}{}{9mm}
+{313}{}{BB}
+
+#
+# Race Types
+#
+{350}{}{Fehér}
+{351}{}{Fekete}
+
+#
+# Body Types
+#
+{400}{}{Kétlábú}
+{401}{}{Négylábú}
+{402}{}{Robot}
+#
+# Kill Types names
+#
+{450}{}{Férfi}
+{451}{}{Nõ}
+{452}{}{Gyerek}
+{453}{}{Szupermutáns}
+{454}{}{Ghoul}
+{455}{}{Brahmin}
+{456}{}{Radskorpió}
+{457}{}{Patkány}
+{458}{}{Lebegõ}
+{459}{}{Kentaur}
+{460}{}{Robot}
+{461}{}{Kutya}
+{462}{}{Sáska}
+{463}{}{Halálkarom}
+{464}{}{Mester}       # Not displayed!
+#
+# Kill type info descriptions
+#
+
+{465}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
+{466}{}{Ez a szám mutatja, hány nõt öltél meg a kalandozásaid során.}
+{467}{}{Ez a szám mutatja, hány gyereket öltél meg. Te gyerekgyilkos!}
+{468}{}{Azon szupermutánsok száma, melyeket kalandozásaid közben mészároltál le.}
+{469}{}{Ez a szám mutatja, hány férfi és nõ ghoult gyilkoltál meg eddig.}
+{470}{}{Ez a szám mutatja, hány brahmint (mutáns tehén) vágtál le utazásaid során.}
+{471}{}{Az általad elpusztított radskorpiók száma.}
+{472}{}{Az eddig elpusztított patkányok száma, beleértve a patkányok valamennyi fajtáját .}
+{473}{}{Ez a szám mutatja, hány mutáns lebegõt pusztítottál el.}
+{474}{}{Ennyi mutáns kentaurt tettél el láb alól.}
+{475}{}{Ez a szám mutatja, hány robotot semmisítettél meg vagy szereltél szét.}
+{476}{}{Azon kutyák száma, amiket te küldtél fel a hatalmas égi kutyaólba.}
+{477}{}{Ez a szám mutatja, hány sáskát, azaz hány sáska-szerû mutáns rovart tapostál el.}
+{478}{}{Ez a szám mutatja, hány halálkarmot és halálkarom kölyköt öltél meg.}
+{479}{}{Not Displayed.  Error!}
+
+#
+# Use text
+#
+{480}{}{%s.}
+
+#
+# Use Container text
+#
+{485}{}{%s átkutatása.}
+{486}{}{Az elõtted lévõ %s becsukása nem okozott gondot.}
+{487}{}{Zárva van.} # new
+
+#
+# Look text
+#
+{490}{}{%s.}
+{491}{}{%s maradványai.}
+{492}{}{%s maradványai.}
+{493}{}{Nem látsz semmi különöset.}
+
+#
+# Examine text
+#
+{500}{}{Halott}
+{501}{}{Majdnem halott}
+{502}{}{Súlyosan sebesült}
+{503}{}{Sebesült}
+{504}{}{Sértetlen}
+
+#
+# Examine text messages
+#
+{518}{}{Ez egy: %s }
+{519}{}{%s %s }
+{520}{}{%s vagy.}
+{521}{}{%s %s.}
+{522}{}{}
+{523}{}{}
+{524}{}{}
+# (note: hps are short for hit-points)
+{525}{}{%s életpontjainak száma: %d/%d.}
+# (note: this is for guns that have ammo)
+{526}{}{benne %d/%d %s.}
+{530}{}{és sérült végtagjai vannak.}  # These append to lines 500-504
+{531}{}{de sérült végtagjai vannak.}
+{532}{}{és sérült végtagjai vannak.}
+{533}{}{de sérült végtagjai vannak.}
+# (note: hps are short for hit-points)
+{535}{}{Az Életpontjai száma: %d/%d}
+{536}{}{Az Életpontjai száma: %d/%d}
+{537}{}{Az Életpontjai száma: %d/%d}
+{540}{}{%d fontot nyom.}
+{541}{}{%d fontot nyom.}
+{544}{}{, }
+{545}{}{.}
+{546}{}{. Fegyvere %s.}
+{547}{}{. Fegyvere %s, benne %d/%d %s.}
+
+#
+# Examine text error messages
+#
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
+
+#
+# Use text messages
+#
+{580}{}{Használod: %s.}
+{581}{}{Használod a %s-t a %s-n.}
+{582}{}{Ez nem csinál semmit.}
+{583}{}{Megdöbbensz, mikor észreveszed, hogy már meghalt.}
+{584}{}{Ahogy lenyúlsz, észreveszed, hogy már meghalt.}
+{585}{}{Hát, elkéstél.} # This is relating to a critter being dead.
+{586}{}{Ez nemigen segít a holtakon.}
+{587}{}{Meggyújtod a fáklyát.}
+{588}{}{A fáklya már ég.}
+{589}{}{Beállítod az idõzítõt.}
+{590}{}{Az óra már ketyeg!}
+
+#
+# Experience-Point messages
+#
+{620}{}{%d tapasztalati pontot kaptál, mert megölted: %s.}
+{621}{}{%s %d TP-t kaptál.}
+{622}{}{Az ellenség legyõzéséért }  # 622-626 prepend to line 621
+{623}{}{Az ellenség megöléséért }
+{624}{}{Te nyerted a küzdelmet, }
+{625}{}{Az ellenség elpusztításáért }
+{626}{}{Az ellenséget sérülés nélkül gyõzted le, ezért }
+
+#
+# Dialog messages
+#
+{650}{}{[Mehet]}
+{651}{}{[Tovább]}
+{652}{}{Tovább}
+{653}{}{[Vissza]}
+{654}{}{Vissza}     # changed number from 653
+{655}{}{Folytasd!}    # new
+{656}{}{Ööö...}   # new
+{660}{}{Nem látsz odáig.}
+{661}{}{Túl messze van.}
+
+#
+# Not Enough AP message
+#
+{700}{}{Nincs elég AP-d.}
+#
+# Book messages
+#
+{800}{}{Elolvastad a könyvet.}
+{801}{}{Semmi újat nem tanultál.}
+{802}{}{Új tudományos ismereteket szereztél.}
+{803}{}{Sok újat tanultál a lerobbant berendezések javításáról.}
+{804}{}{Új gyógyítási módokat tanultál.}
+{805}{}{Megtanultad, hogyan kezelheted jobban a fegyvereidet.}
+{806}{}{Sokat tanultál a vadonban való túlélésrõl.}
+#
+# Use on messages (and some extra stuff that Jesse needed)
+#
+{900}{}{Az orvosi táskából kifogyott a felszerelés.}
+{901}{}{Az elsõsegély láda kiürült.}
+{902}{}{Ezt harc közben nem csinálhatod.}
+{903}{}{Ez a személy nem fog veled üzletelni.}
+{904}{}{Ez a személy semmit nem akar neked mondani.}
+{905}{}{Ezt a tárgyat nem veheted fel. Elérted a teherbírásod felsõ határát.}

@@ -1,0 +1,260 @@
+{100}{}{Decker nem óhajt többet beszélni veled.}
+{101}{}{Õ Decker.}
+{102}{}{Decker túl elfoglalt ahhoz, hogy most veled beszéljen. Csináld a dolgod, és gyere vissza késõbb!}
+{103}{DECK_1}{
+Naszóval... épp munkát keresel. Milyen szerencsés helyzet. Épp van egy elintézendõ feladatom. Ahh, hova tettem a modoromat? Kit tisztelhetek benned?}
+{104}{}{A nevem }
+{105}{}{.}
+{106}{}{Milyen üzletben utazik?}
+{107}{DECK_2}{
+Nos, most, hogy túlestünk a formaságokon, akarsz hallani valamit a munka mibenlétérõl?}
+{108}{}{Ezért jöttem.}
+{109}{}{Nem igazán.}
+{110}{DECK_3}{
+A háttér: Van egy kereskedõ, aki... hogy is fogalmazzak... nem teljesen mûködik együtt a Földalatti Mozgalommal.}
+{111}{}{És mi lenne munka?}
+{112}{DECK_4}{
+Szerfelett egyszerû. Kutasd fel a kereskedõt meg a feleségét, és tedd el õket láb alól! }
+{113}{}{Úgy érti, hogy öljem meg õket?}
+{114}{}{Milyen összeg üti a markom?}
+{115}{}{Ezt nem tehetem meg!}
+{116}{DECK_5}{
+Minden csak szemantika kérdése, de... igen. Öldd meg õket! Elvállalod?}
+{117}{}{Umm, persze... miért is ne?}
+{118}{}{Nem! Ez hibás lépés lenn részemrõl!}
+{119}{}{Mennyi pénzt kapok?}
+{120}{DECK_6}{
+Kiváló! Az elõleg 500 szkript, a munka végeztével 2500-at adok.}
+{121}{}{Hol találom meg ezt a kereskedõt?}
+{122}{DECK_7}{
+A Magaslaton élnek, a Barter utca és a Thunder sugárút keresztezõdésénél. Csináld meg a melót, és gyere vissza hozzám!}
+{123}{}{Oké, úgy lesz.}
+{124}{}{Honnan fogja tudni, hogy megöltem õket?}
+{125}{}{Nem hinném.}
+{126}{DECK_8}{
+Nagyon remek! Az asszisztensem majd eligazít kifelé menet. Légy szíves csukd be magad mögött az ajtót!}
+{127}{deck_9}{Bízz bennem! Tudni fogom.}
+{128}{}{Oké, megcsinálom.}
+{129}{}{Dobom a témát.}
+{130}{DECK_10}{
+Be kell vallanom, hogy egy kicsit... csalódott vagyok. Persze a dolgok néha megesnek anélkül, hogy tenni tudnánk ellenük. Kezeld bizalmasan az ügyet! Minden jót!}
+{131}{DECK_11}{
+A szokásos. 500 pénz elõre, és 2500, ha kész a munka. Elvállalod?}
+{132}{}{Nem, köszönöm.}
+{133}{}{Hogyne, már indulok is.}
+{134}{DECK_12}{
+Nagyszerû. A kereskedõ a Magaslaton él, a Barter utca és a Thunder sugárút keresztezõdésében. Az elõleget kifelé menet megkapod.}
+{135}{DECK_13}{
+A Hubban minden üzlet rajtam keresztül folyik. Mondd meg a neved, vagy távozz innen!}
+{136}{}{A nevem }
+{137}{}{.}
+{138}{}{Nem mondok én magának semmit!}
+{139}{DECK_14}{
+Jól van... az asszisztensem megmutatja a kifelé vezetõ utat.}
+{140}{DECK_15}{
+Nagyon büszke vagyok rád. Könyörtelen vagy, és ez olyan tulajdonság, amiért rajongani tudok. Kane kifizeti a neked járó pénzt. Remélem, a jövõben is számíthaok rád.}
+{141}{}{Feltehetek néhány kérdést?}
+{142}{}{Kösz.}
+{143}{DECK_16}{
+Ha nem alszunk itt, akkor igen.}
+{144}{}{Milyen helyek vannak a Hubban?}
+{145}{}{Hallott mostanában pletykákat?}
+{146}{}{Ideje mennem...}
+{147}{Deck_16b}{Fogd rövidre, légy oly kedves!}
+{148}{DECK_17}{
+A Kereskedõpiac a város közepén van, számos egyéb üzlettel a környéken. Nyugat felé megtalálod a Magaslatot, kelet felé pedig az Óvárost.}
+{149}{}{Milyen egyéb üzletekrõl van szó?}
+{150}{}{Kösz az információért. Lehet még néhány kérdésem?}
+{151}{DECK_18}{
+A Máltai Sólyomban állsz, de ott van még a Mindent-Egy-Helyen üzlet, a Fegyverbolt, a Baráti Kölcsön Társaság, a rendõrség, és sajnos a Katedrális Gyermekeinek kórháza.}
+{152}{}{Nem úgy tûnik, mintha túlságosan csípné azokat a Gyermekeket. Mi a gáz velük?}
+{153}{}{Kösz. Kérdezhetek még?}
+{154}{DECK_19}{
+Lassan... bekebeleznek... Hagyjuk a témát, rendben?}
+{155}{}{Oké. Kérdezhetek még?}
+{156}{DECK_20}{
+Nem vagyok idegenvezetõ. Nézz körül magad!}
+{157}{}{Feltehetek még néhány kérdést?}
+{158}{}{Igaz. Az idegenvezetõk sokkal barátságosabbak.}
+{159}{DECK_21}{
+Nem. Kérlek, vedd fel a pénzed, és távozz!}
+{160}{DECK_22}{
+Hogy mondod? }
+{161}{}{Jól hallotta.}
+{162}{}{Semmi-semmi. Kérdezhetek még ezt-azt?}
+{163}{DECK_23}{
+Arrogáns vagy. Az asszisztensem majd megmutatja... úgy értem... megmutatja, merre van a kijárat.}
+{164}{deck_24}{Nem.}
+{165}{}{Kérdezhetek még ezt meg azt?}
+{166}{}{Fura egy fickó maga.}
+{167}{DECK_25}{
+Úgy tûnik, valaki rendre kirabolja a "Hosszútávú Kereskedõk" karavánjait. A Tolvajok Köre meg a szokásos kis problémákkal küzd.}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+{169}{}{Hogyne.}
+{170}{}{A francba, dehogy!}
+{171}{DECK_27}{
+Kiváló! Tudnod kell, hogy az elõzõ munkát tesztnek szántam, és bizony nagyon jól bizonyítottál. Most jöhet a fontos meló.}
+{172}{}{Úgymint?}
+{173}{}{Félelmetesen hangzik. Nem hinném, hogy érdekel.}
+{174}{DECK_28}{
+Amint azt már valószínûleg tudod, a Katedrális Gyermekei egyre nagyobb befolyást szereznek a városban, és õszintén megmondva, nem nagyon vagyok oda tõle.}
+{175}{}{Mit szeretne tehát?}
+{176}{DECK_29}{
+Aprócska ügy. Öldd meg Jaint, a Fõpapnõt! Miután elintézted, pontot tehetünk erre a kis semmiségre. Érdekel?}
+{177}{}{Mi az hogy.}
+{178}{}{Ez erkölcstelen dolog!}
+{179}{DECK_30}{
+Azt hiszem, kezdelek igencsak megkedvelni. Elõlegként 1000 dolcsit adok, a munka végeztével 4000 jár. Ja, és bízz bennem, tudni fogom, ha végeztél!}
+{180}{}{Oké.}
+{181}{DECK_31}{
+Beszélj Kane-nel kifelé menet. Õ elmondja a részletekt.}
+{182}{DECK_32}{
+És a kereskedõ megölése nem volt az?}
+{183}{}{Hát, igaz ami igaz. Akkor elvállalom.}
+{184}{}{Érdekel is engem! Nem csinálom meg és kész.}
+{185}{DECK_33}{
+A fizetség 1000 dolcsi elõre és 4000 a teljesítéskor... Ja, és bízz bennem, tudni fogom, ha végeztél!}
+{186}{}{Oké.}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+{188}{DECK_35}{
+Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
+{189}{}{Igen, elvállalom.}
+{190}{}{Oké, mirõl van szó?}
+{191}{DECK_36}{Akkor nincs mirõl tárgyalnunk.}
+{192}{DECK_37}{Különleges feladat. Hiszem, hogy a vallásos csoportosulás nem fog több vizet zavarni. Beszélj Kane-el a jutalmat illetõen! Amõgy köszönöm... biztos, hogy észben tartalak majd a jövõben.}
+{193}{DECK_38}{Azt rakd el!}
+{194}{DECK_39}{Én türelmes ember vagyok, de még engem is ki lehet hozni a béketûrésbõl. Kane, tanítsd móresre ezt az együgyû alakot!}
+{195}{DECK_40}{Hagyd ezt abba!}
+{196}{DECK_42}{Errõl beszélj Kane-nel! Õ többet tud róla mondani.}
+{197}{DECK_43}{Ahogy azt már mondtam...}
+{198}{DECK_44}{Amint azt már említettem...}
+{199}{DECK_45}{Már elmondtam...}
+{200}{DECK_46}{Nem figyelsz rám? Már elmondtam...}
+{201}{DECK_47}{Jobb, ha tudatosítod magadban: nem szeretem ismételni magam.}
+{202}{DECK_48}{Nem fogom még egyszer elmondani.}
+{203}{DECK_49}{Nem kell, hogy többet tudj rólam.}{204}{DECK_50}{Az emberek nagy része nem eléggé tudatosítja magában a szervezetem jelentõségét. A Hubot ugyanis mi felügyeljük.}
+{205}{DECK_51}{Az általam ismert legjobb asszony, az anyám adta az ötletét. Ez a legmenõbb szórakozóhely az egész Hubban.}
+{206}{DECK_52}{Lopnak a kereskedõktõl és odaadják a szegényeknek. Nagyjából ilyen baromságra telik nekik... Elég ellentmondásosak számomra. Harold, az öreg mutáns többet tud errõl.}
+{207}{DECK_53}{Õ a rendõrség vezetõje. Jó gyerek, ha keveled az egyenes, becsületes típust. Nem ütött az apjára, igazi lojális ember.}
+{208}{DECK_54}{Harold már jó ideje itt dekkol az Óvárosban. Érdekes dolgokat lehet tõle megtudni.}
+{209}{DECK_55}{Õk felügyelik a vizet. Menj a Kereskedõk Piacának déli végéhez, ott megtalálod õket!}
+{210}{DECK_56}{Õ a Vízkereskedõk vezetõje.}
+{211}{DECK_57}{Övék volt régen a kórház, amíg a Gyermekek át nem vették tõlük. Manapság a raktárházukban tanyáznak, s ez nagyon különös. A Kereskedõk Piacának északi részén találhatók.}
+{212}{DECK_58}{Õ a Karmazsin Karaván fõnöke.}
+{213}{DECK_59}{Õk a kereskedõk utolsó megmaradt képviselõi. Szó szerint. Többnyire jelentéktelen dolgokkal foglalkoznak. Utánuknézhetsz a Kereskedõk Piacának észak-keleti részén!}
+{214}{DECK_60}{Mulatságos alak. A Hosszútávú Kereskedõk vezetõjének tartja magát, de inkább csak egy báb. Tisztában van ezzel, ezért nem nagyon túr bele az üzletembe.}
+{215}{DECK_61}{Õ vezeti a Fegyverboltot.}
+{216}{DECK_62}{Valamitõl sorra eltünedeznek a Hosszútávú Kereskedõk karavánjai. Szívesen megtudnám az okát, mert rontja az üzletem egy részét.}
+{217}{Deck_63}{A város közepén van.}
+{218}{DECK_64}{Mítosz, legenda. A Halálkarom valami szellem vagy ilyesmi.}
+{219}{DECK_65}{Az óváros elfoglalja az egész keleti negyedet. Ott élnek a sóherek.}
+{220}{DECK_66}{A kereskedõk többsége ott él. Indulj nyugat felé és már ott is vagy.}
+{221}{DECK_67}{Bosszantó egy szervezet. Hamarosan rájukfér majd egy kis gatyába rázás a hatalom gyakorlásának mibenlétérõl.}
+{222}{DECK_68}{Morpheus a Katedrális Gyermekeinek vezetõje. Délen lakik, a Csonttelepen.}
+{223}{DECK_69}{Az a nõ a Hubbeli Katedrális Gyermekeinek a vezetõje. Okom van feltételezni, hogy ez hamarosan megváltozik.}
+{224}{DECK_70}{A Gyermekek egyik kreálmánya. Valami kisebb istenség vagy ilyesmi.}
+{225}{DECK_71}{Kis bolt, ahol bizony remek fegyvereket lehet kapni. A Hosszútávú Kereskedõkön túl megtalálod.}
+{226}{DECK_72}{Menj ki az ajtón és irány észak! Nem lehet eltéveszteni.}
+{227}{DECK_73}{Ez egyáltalán nem fontos.}
+{228}{DECK_74}{Micsoda? Ez most egyáltalán nem fontos.}
+{229}{DECK_75}{Valóban. Miért akarnék ilyesmit csinálni?}
+{230}{}{Látom, milyen hatékonyan bántál el a helyettesemmel. Emiatt magam kell kézbe vennem az ügyedet.}
+{231}{}{Milyen jó látni magát, Greene Seriff! Feltételezem, azért jött, hogy elbúcsúzzon.}#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#{232}{DECK_26}{Üdv, barátom. Van egy újabb munkám a számodra. Érdekel a dolog?}
+{233}{DECK_26}{Üdv, barátom. Van egy újabb munkám a számodra. Érdekel a dolog?}
+{234}{DECK_34}{Pedig hogy bíztam benned! Viszont nem engedhetem, hogy figyelmeztesd a Katedrális Gyermekeit. Kane, távolítsd el a barátunkat és homályosítsd fel, mi várhat rá!}
+{235}{DECK_34}{Pedig hogy bíztam benned! Viszont nem engedhetem, hogy figyelmeztesd a Katedrális Gyermekeit. Kane, távolítsd el a barátunkat és homályosítsd fel, mi várhat rá!}
+
+# Decker Tell-Me-Abouts generic responses
+{980}{DECK_73}{Ez nem fontos.}
+{981}{DECK_74}{Mi? Ez most nem lényeges.}
+
+
+#
+# Decker Tell-Me-Abouts
+#{1000}{}{Decker}
+{1001}{}{Foldalatti mozgalom}
+{1002}{}{Maltai}
+{1003}{}{Tolvaj}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Kereskedo}
+{1007}{}{Daren}
+{1008}{}{Karmazsin}
+{1009}{}{Demetre}
+{1010}{}{Hosszutavu}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Eltunt}
+{1014}{}{Piac}
+{1015}{}{Karom}
+{1016}{}{Város}
+{1017}{}{Magaslat}
+{1018}{}{Katedralis}
+{1019}{}{Morpheus}
+{1020}{}{Jain}
+{1021}{}{Mester}
+{1022}{}{Bolt}
+{1023}{}{Mindent-Egy-Helyen}
+{1024}{}{Solyom}
+{1025}{}{Klub}
+{1026}{}{Greene}
+{1027}{}{Hightower}
+{1028}{}{Karavan}
+{1029}{}{Romara}
+{1030}{}{Hosszutavu}
+{1031}{}{Kereskedo}
+{1032}{}{Harris}
+{1033}{}{Halal}
+{1034}{}{Halalkarom}
+{1035}{}{Ovaros}
+{1036}{}{Ovaros}
+{1037}{}{Gyermek}
+{1038}{}{Mindent}
+
+
+{1100}{DECK_49}{Nem kell, hogy többet tudj rólam.}
+{1101}{DECK_50}{Az emberek nagy része nem eléggé tudatosítja magában a szervezetem jelentõségét. A Hubot ugyanis mi felügyeljük.}
+{1102}{DECK_51}{Az általam ismert legjobb asszony, az anyám adta az ötletét. Ez a legmenõbb szórakozóhely az egész Hubban.}
+{1103}{DECK_52}{Lopnak a kereskedõktõl és odaadják a szegényeknek. Nagyjából ilyen baromságra telik nekik... Elég ellentmondásosak számomra. Harold, az öreg mutáns többet tud errõl.}
+{1104}{DECK_53}{Õ a rendõrség vezetõje. Jó gyerek, ha keveled az egyenes, becsületes típust. Nem ütött az apjára, igazi lojális ember.}
+{1105}{DECK_54}{Harold már jó ideje itt dekkol az Óvárosban. Érdekes dolgokat lehet tõle megtudni.}
+{1106}{DECK_55}{Õk felügyelik a vizet. Menj a Kereskedõk Piacának déli végéhez, ott megtalálod õket!}
+{1107}{DECK_56}{Õ a Vízkereskedõk vezetõje.}
+{1108}{DECK_57}{Övék volt régen a kórház, amíg a Gyermekek át nem vették tõlük. Manapság a raktárházukban tanyáznak, s ez nagyon különös. A Kereskedõk Piacának északi részén találhatók.}
+{1109}{DECK_58}{Õ a Karmazsin Karaván fõnöke.}
+{1110}{DECK_59}{Õk a kereskedõk utolsó megmaradt képviselõi. Szó szerint. Többnyire jelentéktelen dolgokkal foglalkoznak. Utánuknézhetsz a Kereskedõk Piacának észak-keleti részén!}
+{1111}{DECK_60}{Mulatságos alak. A Hosszútávú Kereskedõk vezetõjének tartja magát, de inkább csak egy báb. Tisztában van ezzel, ezért nem nagyon túr bele az üzletembe.}
+{1112}{DECK_61}{Õ vezeti a Fegyverboltot.}
+{1113}{DECK_62}{Valamitõl sorra eltünedeznek a Hosszútávú Kereskedõk karavánjai. Szívesen megtudnám az okát, mert rontja az üzletem egy részét.}
+{1114}{Deck_63}{A város közepén van.}
+{1115}{DECK_64}{Mítosz, legenda. A Halálkarom valami szellem vagy ilyesmi.}
+{1116}{DECK_65}{Az óváros elfoglalja az egész keleti negyedet. Ott élnek a sóherek.}
+{1117}{DECK_66}{A kereskedõk többsége ott él. Indulj nyugat felé és már ott is vagy.}
+{1118}{DECK_67}{Bosszantó egy szervezet. Hamarosan rájukfér majd egy kis gatyába rázás a hatalom gyakorlásának mibenlétérõl.}
+{1119}{DECK_68}{Morpheus a Katedrális Gyermekeinek vezetõje. Délen lakik, a Csonttelepen.}
+{1120}{DECK_69}{Az a nõ a Hubbeli Katedrális Gyermekeinek a vezetõje. Okom van feltételezni, hogy ez hamarosan megváltozik.}
+{1121}{DECK_70}{A Gyermekek egyik kreálmánya. Valami kisebb istenség vagy ilyesmi.}
+{1122}{DECK_71}{Kis bolt, ahol bizony remek fegyvereket lehet kapni. A Hosszútávú Kereskedõkön túl megtalálod.}
+{1123}{DECK_72}{Menj ki az ajtón és irány észak! Nem lehet eltéveszteni.}
+{1124}{DECK_51}{Az általam ismert legjobb asszony, az anyám adta az ötletét. Ez a legmenõbb szórakozóhely az egész Hubban.}
+{1125}{DECK_51}{Az általam ismert legjobb asszony, az anyám adta az ötletét. Ez a legmenõbb szórakozóhely az egész Hubban.}
+{1126}{DECK_53}{Õ a rendõrség vezetõje. Jó gyerek, ha keveled az egyenes, becsületes típust. Nem ütött az apjára, igazi lojális ember.}
+{1127}{DECK_56}{Õ a Vízkereskedõk vezetõje.}
+{1128}{DECK_62}{Valamitõl sorra eltünedeznek a Hosszútávú Kereskedõk karavánjai. Szívesen megtudnám az okát, mert rontja az üzletem egy részét.}
+{1129}{DECK_58}{Õ a Karmazsin Karaván fõnöke.}
+{1130}{DECK_59}{Õk a kereskedõk utolsó megmaradt képviselõi. Szó szerint. Többnyire jelentéktelen dolgokkal foglalkoznak. Utánuknézhetsz a Kereskedõk Piacának észak-keleti részén!}
+{1131}{DECK_59}{Õk a kereskedõk utolsó megmaradt képviselõi. Szó szerint. Többnyire jelentéktelen dolgokkal foglalkoznak. Utánuknézhetsz a Kereskedõk Piacának észak-keleti részén!}
+{1132}{DECK_60}{Mulatságos alak. A Hosszútávú Kereskedõk vezetõjének tartja magát, de inkább csak egy báb. Tisztában van ezzel, ezért nem nagyon túr bele az üzletembe.}
+{1133}{DECK_64}{Mítosz, legenda. A Halálkarom valami szellem vagy ilyesmi.}
+{1134}{DECK_64}{Mítosz, legenda. A Halálkarom valami szellem vagy ilyesmi.}
+{1135}{DECK_65}{Az óváros elfoglalja az egész keleti negyedet. Ott élnek a sóherek.}
+{1136}{DECK_65}{Az óváros elfoglalja az egész keleti negyedet. Ott élnek a sóherek.}
+{1137}{DECK_67}{Bosszantó egy szervezet. Hamarosan rájukfér majd egy kis gatyába rázás a hatalom gyakorlásának mibenlétérõl.}
+{1138}{DECK_72}{Menj ki az ajtón és irány észak! Nem lehet eltéveszteni.}

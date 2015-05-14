@@ -1,0 +1,18 @@
+{100}{}{Egy lezárt pénzkazettát látsz.}
+{101}{}{A pénzkazetta ki van nyitva.}
+{102}{}{A pénzkazetta zárva van.}
+{103}{}{Miközben kinyitottad a pénzkazettát, észrevettél és hatástalanítottál egy csapdát.}
+{104}{}{Miközben kinyitottad a pénzkazettát, észrevettél egy csapdát, de véletlenül mûködésbe hoztad.}
+{105}{}{Miközben kinyitottad a pénzkazettát, észrevettél egy csapdát, de nem sikerült hatástalanítanod.}
+{106}{}{A pénzkazetta zárja már ki lett nyitva.}
+{107}{}{Sikeresen kinyitottad a pénzkazetta zárját.}
+{108}{}{A pénzkazetta kinyitására tett folyamatos próbálkozásaid eredményeképp mûködésbe hoztál egy csapdát.}
+{109}{}{Képtelen vagy kinyítni a pénzkazetta zárját, ráadásul a zár beragadt.}
+{110}{}{Nem sikerült kinyitni a pénzkazetta zárját.}
+{111}{}{Találtál egy csapdát a pénzkazettán, és sikeresen hatástalanítottad.}
+{112}{}{Találtál egy csapdát a pénzkazettán.}
+{113}{}{Miközben csapdák után kutattál a pénzkazettán, véletlenül mûködésbe hoztál egyet.}
+{114}{}{Miközben csapdák után kutattál a pénzkazettán, egyet sem találtál}
+{115}{}{Sikeresen hatástalanítottad a csapdát.}
+{116}{}{Véletlenül mûködésbe hoztad a csapdát.}
+{117}{}{Nem sikerült hatástalanítanod a csapdát.}

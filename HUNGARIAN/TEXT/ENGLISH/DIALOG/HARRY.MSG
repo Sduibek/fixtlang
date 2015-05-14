@@ -1,0 +1,485 @@
+{100}{}{Harry, a szupermutáns.}
+
+
+{101}{Harry_0}{Hé! Te nem nézni ki, mint ghoul! Hogy lehet a'?}
+
+
+{102}{}{Ez azért van, mert ma nagyon kicsíptem magam.}
+
+
+{103}{}{De hát nézz rám, ghoul vagyok!}
+
+
+{104}{}{Hadd találjam ki... azért talán, mert nem vagyok ghoul?}
+
+
+{105}{}{Öö?}
+
+
+{106}{Harry_0a}{Hogy?}
+
+
+{107}{Harry_0a}{Hogy?}
+
+
+{108}{Harry_0b}{Mi?}
+
+
+{109}{}{Mama?}
+
+
+{110}{Harry_01}{Óóóóh, agyasfúrtas vagyol, he?}
+
+
+{111}{}{Nem, csak a bolondját járatom veled. Nem vagyok ghoul.}
+
+
+{112}{}{Mit csinálsz te itt?}
+
+
+{113}{Harry_02}{Te vagyol nem ghoul! Tuttam, tuttam! Nem bolondjárod Harryt!}
+
+
+{114}{}{Jah, ez elég nyilvánvaló.}
+
+
+{115}{}{Igazad van. Viszont most, hogy tudod, meg kell öljelek.}
+
+
+{116}{Harry_03}{Te nem ghoul. Parancs aszongya, nem ghoul nem lehesse itten.}
+
+
+{117}{}{Kitõl kapol... öö... kapsz parancsokat?}
+
+
+{118}{}{Oké, kösz. Most elmegyek.}
+
+
+{119}{Harry_04}{Hangya mongya, figyejjek itten. Nem engedek senkitse befele. Humánt fõleg. Humánt vinni kell Hangyához. Hé...}
+
+
+{120}{}{De én nem vagyok humán!}
+
+
+{121}{}{OKÉ, induljunk Hangyához!}
+
+
+{122}{}{Kabbe! Mit szólnál ahhoz, hogy "Én mostan nem hagyni életbe' tégedet"?}
+
+
+{123}{Harry_05}{Ó ho-hóóó... mingyá megt'oood.}
+
+
+{124}{Harry_06}{Öööh... oké. Jó nap legye neked...}
+
+
+{125}{Harry_07}{Harry mostan megütögeti fejed.}
+
+
+{126}{Harry_08}{Óóó... Harry zavarosan van. Te lenni nem ghoul. Te lenni nem humán. Mi vagyol te? [Motyog valamit]}
+
+
+{127}{}{A szupermutánsok egy új képviselõje vagyok.}
+
+
+{128}{}{Egy nagyon fejlett robot vagyok.}
+
+
+{129}{}{Na, jó, humán vagyok.}
+
+
+{130}{Harry_09}{Nem! Harry nem ismerje tégedet! Nem szeresse!}
+
+
+{131}{Harry_10}{Óh, oké. Harry gondolkozza, mit tenni.}
+
+
+{132}{Harry_11}{Nem teccel. Bántani én tégedet. Rossz vagyol!}
+
+
+{133}{Harry_12}{Öh, helló, csinos hõgy. Szépnek láccol ám.}
+
+
+{134}{}{Nincs egy kis idõd? El tudnék viselni egy nagy, erõs férfit.}
+
+
+{135}{}{Gyere egy kicsit közelebb, van valamim a számodra!}
+
+
+{136}{Harry_13}{Harry õrizi eztet helyet itten, mer kellje neki. Itten kellje marannia.}
+
+
+{137}{}{Ahh, értem... hát akkor jó szórakozást hozzá!}
+
+
+{138}{}{Elszomorító...}
+
+
+{139}{Harry_14}{Hé, te vagyol humán! El kell vinni tégedet Hangyához. Mostan!}
+
+
+{140}{}{Kérlek, ne! Eressz el!}
+
+
+{141}{}{Ah, a francba ezzel! Mit szólsz inkább a nõi praktikáimhoz, mutánska?}
+
+
+{142}{Harry_15}{Óhhh... Menny innen elfele, Harryt sodrod bajba bele!}
+
+
+{143}{Harry_16}{OKÉ. Menny el innét! Figyelni kell humánok. Nincsennekem idõ rájad.}
+
+
+{144}{Harry_17}{Mijed van nekem?}
+
+
+{145}{}{Egy ici-pici cuppanós, csak neked...}
+
+
+{146}{}{Egy ici-pici csókocska, csak neked...}
+
+
+{147}{Harry_18}{Te bántani Harry barátokat! Én... én is báncsa tégedet!}
+
+
+{148}{Harry_19}{Óhhh... Már megin? Mit akarol?}
+
+
+{149}{}{Azt akarom, hogy elvigyél a feljebbvalóidhoz!}
+
+
+{150}{}{Semmi különöset, csak épp erre jártam.}
+
+
+{151}{}{Visszajöttem, hogy picsán rúgjalak!}
+
+
+{152}{Harry_20}{Öhm.. OKÉ... mennyé-mennyé csak!}
+
+
+{153}{Harry_21}{Hé, te lenni humán! Te jövöl Harry után!}
+
+
+{154}{Harry_22}{Hmm... OKÉ... Viszni tégedet Hangyához!}
+
+
+{155}{Harry_23}{Ömmm... igen. Te vagyol elsõrendes humán. A Hangya örülje érted majd. Gyerünk, viszni tégedet oda!}
+
+
+{156}{}{Várjunk, várjunk! Te nem érted, mirõl van szó!}
+
+
+{157}{}{A csupasz kezemmel foglak kinyírni!}
+
+
+{158}{Harry_24}{Nem kellje. Harry kövesse parancs. Viszni tégedet Hangyának.}
+
+
+{159}{Harry_25}{Harry nem higgye eztet, de próbálhatol. Gyerünk, fijjugh!}
+
+
+{160}{Harry_26}{Hé, Harry már hallja rólad! Te törte széjjelfele tartájok!}
+
+
+{161}{}{Jaja, igen, és? Most pedig te jössz.}
+
+
+{162}{}{Igen, én vagyok az. Van valami semmi közöd hozzá?}
+
+
+{163}{}{Öh-höh.}
+
+
+{164}{Harry_27}{Öhh, én engeggye tégedet tova. OKÉ? Te nem mutatol arcod itten többet! Lécci...}
+
+
+{165}{}{Ez a megoldás nem elég jó...}
+
+
+{166}{}{Na jó, isten áldjon! Remélem, többet nem találkozunk.}
+
+
+{167}{}{Öhh.}
+
+
+{168}{Harry200}{Nem kell mondok neked semmise!}
+
+
+{169}{Harry201}{Megõted Larry!}
+
+
+{170}{Harry202}{Megõted Gary!}
+
+
+{171}{Harry203}{Megõted testvérem, Barry!}
+
+
+{172}{Harry204}{Megõted Terry!}
+
+
+{173}{Harry205}{Megõted Sally! Béna neve vót, igaz... de megõni nem kell azé!}
+
+
+{174}{Harry206}{Zavarjá te nem engemet! Haggy békin!}
+
+
+{175}{Harry207}{Öhhh... Nemtom.}
+
+
+{176}{Harry300}{Nemtom, de biztossssan szeresse a fõnökfajta emberet.}
+
+
+{177}{Harry301}{Õ Hangya. Õ fõnök. Ne mongyad neki, de Harry is lenni ojanjó...}
+
+
+{178}{Harry302}{Setnek pöcse lenni puha. Õ gondojja, hogy õ itten fõnök, de mink vagyunk.}
+
+
+{179}{Harry303}{Mi?}
+
+
+{180}{Harry304}{Maraggyá má... Nullák.}
+
+
+{181}{Harry305}{Gyenge! Nem to'm hangya mér akarja humánt. Szar mind!}
+
+
+{182}{Harry306}{Itten, tökfej. [felsóhajt] Te vagyol hülye?}
+
+
+{183}{Harry307}{Ösz' Ösz' Ösz' Össz', nem tom...}
+
+
+{184}{Harry308}{Jó kicsi emberkék. Harry volt bajban eccer és jobbnak csináták. Újra tökéletest!}
+
+
+{185}{}{HARRY MOSTAN HARCOLJA}
+
+
+{186}{}{HARRY MOSTAN HARCOLJA}
+
+
+{187}{}{HARRY MOSTAN HARCOLJA}
+
+
+{188}{}{HARRY MOSTAN HARCOLJA}
+
+
+{189}{}{HARRY VÁRJA 30 MÁSODPERC}
+
+
+{190}{}{HARRY MEGY MOSTAN}
+
+
+{191}{}{Nem viszel te engem sehova!}
+
+
+{192}{}{Oké, vigyél a fõnöködhöz!}
+
+
+{193}{}{A mutáns ügyet sem vet rád.}
+
+
+
+
+
+
+
+
+
+
+
+#
+
+
+# Harry Tell-Me-Abouts
+
+
+#
+
+
+{970}{Harry_0b}{Miva'?}
+
+
+
+
+
+{980}{Harry_0a}{He?}
+
+
+{981}{Harry_0b}{Miva'?}
+
+
+{982}{Harry207}{Öhhh... Nemtom.}
+
+
+{983}{Harry303}{Mi?}
+
+
+{984}{Harry200}{Nem kell mondok neked semmitse!}
+
+
+{1000}{}{Mester}
+
+
+{1001}{}{Hangya}
+
+
+{1002}{}{Set}
+
+
+{1003}{}{Raktar}
+
+
+{1004}{}{Ghoul}
+
+
+{1005}{}{Human}
+
+
+{1006}{}{Nekropolisz}
+
+
+{1007}{}{Egyseg}
+
+
+{1008}{}{Katedralis}
+
+
+{1009}{}{Csip}
+
+
+{1010}{}{Hall}
+
+
+{1011}{}{Viz}
+
+
+{1012}{}{Ember}
+
+
+{1013}{}{Human}
+
+
+{1014}{}{Human}
+
+
+{1015}{}{Gyermek}
+
+
+{1016}{}{A Katedralis Gyermekei}
+
+
+{1017}{}{Viznyero}
+
+
+{1018}{}{Hadnagy}
+
+
+{1019}{}{Hadnagy}
+
+
+{1020}{}{Hangyi}
+
+
+{1021}{}{Hangya}
+
+
+{1022}{}{Larry}
+
+
+{1023}{}{Barry}
+
+
+{1024}{}{Gary}
+
+
+{1025}{}{Terry}
+
+
+{1026}{}{Sally}
+
+
+
+
+
+{1100}{Harry300}{Nem tok, mit mongya. Fõnökfajta.}
+
+
+{1101}{Harry301}{Õ Hangya. Õ fõnök. Ne mongyad neki, de Harry is lenni ojanjó...}
+
+
+{1102}{Harry302}{Setnek pöcse lenni puha. Õ gondojja, hogy õ itten fõnök, de mink vagyunk.}
+
+
+{1103}{Harry306}{Itten, tökfej. Hm. Te vagyol hülye?}
+
+
+{1104}{Harry304}{Maraggyá má... Nullák.}
+
+
+{1105}{Harry305}{Gyenge! Nem to'm hangya mér akarja humánt. Szar mind!}
+
+
+{1106}{Harry306}{Itten, tökfej. Hm. Te vagyol hülye??}
+
+
+{1107}{Harry307}{A Ö-Ö-Ö-Öh, nem to'm.}
+
+
+{1108}{Harry308}{Jó kicsi emberkék. Harry volt bajban eccer és jobbnak csináták. Újra tökéletest!}
+
+
+{1109}{Harry303}{Mi?}
+
+
+{1110}{Harry207}{Öhhh... Nemtom.}
+
+
+{1111}{Harry207}{Öhhh... Nemtom.}
+
+
+{1112}{Harry305}{Gyenge! Nem to'm hangya mér akarja humánt. Szar mind!}
+
+
+{1113}{Harry305}{Gyenge! Nem to'm hangya mér akarja humánt. Szar mind!}
+
+
+{1114}{Harry305}{Gyenge! Nem to'm hangya mér akarja humánt. Szar mind!}
+
+
+{1115}{Harry308}{Jó kicsi emberkék. Harry volt bajban eccer és jobbnak csináták. Újra tökéletest!}
+
+
+{1116}{Harry308}{Jó kicsi emberkék. Harry volt bajban eccer és jobbnak csináták. Újra tökéletest!}
+
+
+{1117}{Harry306}{Itten, tökfej. Hm. Te vagyol hülye?}
+
+
+{1118}{Harry301}{Õ Hangya. Fõnök. Ne mongyad neki, de Harry tell him, but Harry could take on good day.}
+
+
+{1119}{Harry301}{Õ Hangya. Õ fõnök. Ne mongyad neki, de Harry is lenni ojanjó...}
+
+
+{1120}{Harry301}{Õ Hangya. Õ fõnök. Ne mongyad neki, de Harry is lenni ojanjó...}
+
+
+{1121}{Harry301}{Õ Hangya. Õ fõnök. Ne mongyad neki, de Harry is lenni ojanjó...}
+
+
+{1122}{Harry200}{Nem kell mondok neked semmitse!}
+
+
+{1123}{Harry200}{Nem kell mondok neked semmitse!}
+
+
+{1124}{Harry200}{Nem kell mondok neked semmitse!}
+
+
+{1125}{Harry200}{Nem kell mondok neked semmitse!}
+
+
+{1126}{Harry200}{Nem kell mondok neked semmitse!}
+

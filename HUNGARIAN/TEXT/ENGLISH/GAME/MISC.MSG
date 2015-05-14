@@ -1,0 +1,66 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Biztosan ki akarsz lépni?}
+{1}{}{Demó verzió}
+{2}{}{Alap Karakter használata.}
+{3}{}{Kép elmentve.}
+{4}{}{Gyorstöltés sikerült.}
+{5}{}{Gyorsmentés sikerült.}
+{6}{}{Demo time limit exceeded.}
+{7}{}{A PipBoyt nem használhatod harc közben!}
+{8}{}{Hiba a kép mentése során.}
+{9}{}{}
+{10}{}{}
+{11}{}{}
+{12}{}{}
+{13}{}{}
+{14}{}{Copyright(c) 1997 Interplay Productions. Minden jog fenntartva.}
+{15}{}{Akció Pontok}
+{16}{}{Élet Pontok}
+{17}{}{A mozgásérzékelõ nincs installálva.}
+{18}{}{A mozgásérzékelõ lemerült.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Hiba a beállítások mentésében!}
+{101}{}{A játék beállításait nem sikerült elmenteni!}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Rosszul érzed magad.}
+{1001}{}{Nagyon rosszul vagy, és erõteljes hányást követõen még fáradt is.}
+{1002}{}{Nagyon kimerültél, és nem bírod abbahagyni a hányást. Ez erõsen kihat a felépülési idõdre.}
+{1003}{}{Iszonyúan vérzel. Hányingered van, és hullik a hajad.}
+{1004}{}{Iszonyúan és egyfolytában vérzel. Vért hánysz, a bõröd pedig lemállik a csontjaidról.}
+{1005}{}{Belsõ vérzésed és hasmenésed van. Fel vagy fújódva és agonizálsz.}
+{1006}{}{Meghaltál a sugárfertõzéstõl.}
+{1007}{}{Nagy mennyiségû sugárzást kaptál.}
+{1008}{}{A geiger számláló kattog.}
+{1009}{}{A geiger számláló vadul kattog.}
+#
+# Message used in actions.c
+#
+{2000}{}{Nem tudsz oda menni.}
+{2001}{}{A zár beragadt.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Megmérgeztek!}
+{3001}{}{A méregtõl sebzést szenvedsz.}
+#
+# from queue.c
+#
+{4000}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.} 
+#
+# from combatai.c
+#
+{5000}{}{tárgyat használ:}
+{5001}{}{kifogyott a lõszerbõl. Így most használhatatlan az üres}
+{5002}{}{lõszert készít elõ, és máris harcra kész a megtöltött}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Mirõl kérdezel?}

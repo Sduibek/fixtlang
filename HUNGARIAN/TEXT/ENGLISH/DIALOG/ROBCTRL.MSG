@@ -1,0 +1,98 @@
+{100}{}{Ez itt egy robotvezérlõ terminál.}
+{101}{}{Semmi reakció.}
+{102}{}{Újraprogramozás kész. Hangkommunikációs alrendszerek üzembe helyezése... Személyiség alrendszer üzembe helyezése. [Klatty!] Miben lehetek a szolgálatára?}
+{103}{}{Hng.}
+{104}{}{Ki vagy te? Vagy beszélhetünk rólad személyként is?}
+{105}{}{Milyen funkciót látsz el?}
+{106}{}{Jelenítsd meg a programjaidat!}
+{107}{}{Bemenõ adat hiba. Ez a parancs nem létezik. Kérem, próbálja újra!}
+{108}{}{Hng.}
+{109}{}{La-la.}
+{110}{}{Brai!}
+{111}{}{Niggle!}
+{112}{}{Kommunikációs alrendszer lekapcsolása. Folyamat befejezése.}
+{113}{}{Ez a terminál egy Mesterséges Intelligencia, része a WLAN mátrix hálózatnak. Az a feladata, hogy optimalizálja a nem helyben alkalmazott berendezések mûködését.}
+{114}{}{Kösz. Ööö, nincs több bemenõ adat.}
+{115}{}{Mik ezek az úgynevezett nem helyben alkalmazott berendezések?}
+{116}{}{Milyen programok futnak?}
+{117}{}{Ez a terminál felelõs a bázison található General Atomics International ipari robotjainak mûködéséért.}
+{118}{}{Egy kicsit légy specifikusabb!}
+{119}{}{Milyen programok futnak?}
+{120}{}{Az ipari robotokra többnyire úgy szoktak hivatkozni, hogy "Robotagyak". [Klatty!] A General Atomics International rendelkezik a világ legjobb ipari robotjaival. Vásároljon két vagy több GAI robotot, így pénzt takaríthat meg! A Mr. Handy modellre külön akciót hirdettünk! [Klatty!] Reklámblokk leállítva.}
+{121}{}{Milyen programok futnak?}
+{122}{}{Az alábbi programok futnak: Báziskarbantartás v2.1, Mozgás v4.8b, Javítás v08a, Kártevõ-mentesítés v1.4, Fekete Macska v1.0 és Szenzorok '76.}
+{123}{}{Állítsd le a Mozgást!}
+{124}{}{Állítsd le az Érzékelést!}
+{125}{}{Állítsd le a Kártevõ-mentesítés!}
+{126}{}{Állítsd le a Fekete Macskát!}
+{127}{}{Köszi. Nincs több bemenõ adat.}
+{128}{}{Leállítás folyamatban. [Klatty!] Rendszerhiba! Az alkalmazás leállítása nem sikerült. Jogok törlése nem elérhetõ.}
+{129}{}{Hmm, állíts néhány paramétert a Mozgáson!}
+{130}{}{Állíts néhány paramétert a Szenzorokban!}
+{131}{}{Módosítsd a Kártevõ-mentesítést!}
+{132}{}{Játsszunk Fekete Macskát!}
+{133}{}{Köszi. Nincs több bemenõ adat.}
+{134}{}{Jelenleg futó alkalmazás: Mozgás v4.8b. Az aktuális beállítás: [maximum/felezett/minimum]. Változtatás az alábbiakra: maximum, felezett vagy minimum.}
+{135}{}{Maximum mozgás.}
+{136}{}{Felezett mozgás.}
+{137}{}{Minimum mozgás.}
+{138}{}{Jelenleg futó alkalmazás: Szenzorok '76. Az aktuális beállítás: [Összes/minumum]. Változtatás az alábbiakra: összes, vagy minimum.}
+{139}{}{Összes szenzor.}
+{140}{}{Minimális szenzor.}
+{141}{}{Jelenleg futó alkalmazás: Kártevõ-mentesítés v1.4. Az aktuális beállítás: [Klatty!] Jogosulatlan belépõ. Változtatás az alábbiakra: [Klatty!] mindent, semmit, apró élõ, nagyméretû élõ, vagy jogosulatlan belépõ.}
+{142}{}{Mindent.}
+{143}{}{Semmit.}
+{144}{}{Apró élõ kártevõk.}
+{145}{}{Nagyméretû élõ kártevõk.}
+{146}{}{Jogosulatlan belépõk.}
+{147}{}{Fekete Macska kártyajáték. Felhasználó nyert. [Klatty!] Köszönöm a játékot.}
+{148}{}{Fekete Macska kártyajáték. Terminál nyert. [Klatty!] Köszönöm a játékot.}
+{149}{}{Program parameter megváltoztatva. Jelenleg futó alkalmazások: Báziskarbantartás v2.1, Mozgás v4.8b, Javítás v0.8a, Kártevõ-mentesítés v1.4, Fekete Macska v1.0 és Szenzorok '76.}
+{150}{}{Állíts paramétereket a Mozgáson!}
+{151}{}{Állíts paramétereket a Szenzorokon!}
+{152}{}{Módosítsd a Kártevõ-mentesítõ programot!}
+{153}{}{Játsszunk Fekete Macskát!}
+{154}{}{Köszi. Nincs több bemenõ adat.}
+{155}{}{Jelenleg futó alkalmazások: Báziskarbantartás v2.1, Mozgás v4.8b, Javítás v0.8a, Kártevõ-mentesítés v1.4, Fekete Macska v1.0 és Szenzorok '76.}
+{156}{}{Állíts paramétereket a Mozgáson!}
+{157}{}{Állíts paramétereket a Szenzorokon!}
+{158}{}{Módosítsd a Kártevõ-mentesítõ programot!}
+{159}{}{Játsszunk Fekete Macskát!}
+{160}{}{Köszi. Nincs több bemenõ adat.}
+{161}{}{Hangkommunikációs alrendszerek üzembe helyezése... Személyiség alrendszer üzembe helyezése. [Klatty!] Miben lehetek a szolgálatára?}
+{162}{}{Hnng.}
+{163}{}{Mutasd meg a programjaidat!}
+{164}{}{Kapcsold le az összes erõteret!}
+{165}{}{Tudod, mi ez a hely?}
+{166}{}{Kezdeményezz vészhelyzeti lekapcsolást!}
+{167}{}{Nincs több bemenõ adat.}
+{168}{}{Ez a terminál nem tudja végrehajtani ezt a funkciót. Kérés megtagadva.}
+{169}{}{Mutasd meg a programjaidat!}
+{170}{}{Tudod, mi ez a hely?}
+{171}{}{Kezdeményezz vészhelyzeti lekapcsolást!}
+{172}{}{Adatbevitel vége.}
+{173}{}{Ez itt a... titkosított adat [katt!] [katt!]}
+{174}{}{Kérés törölve. Mutasd a programjaidat!}
+{175}{}{Felülbírálás, parancs folytatása.}
+{176}{}{[Klatty!] Ez a hely a FEV gyártóüzem. A terminál 2074 óta üzemel. Az utolsó pre-produkciós elõkészületek 2075-ben zajlottak. Jelenleg a végsõ átalakításokat végzik rajta, a nyitás 2078-ban várható. [Klatty!]}
+{177}{}{Tudod, mi az a FEV?}
+{178}{}{Tudod a pontos dátumot?}
+{179}{}{A FEV a Fejlesztett [katt!] Evolúciós Vírus, a Livermore/Broansoun Laboratórium terméke. Azért hozták létre, hogy rövidebb idõ alatt serkentse a DNS/RNS genetikai sorozatok komplexitását.}
+{180}{}{Mutasd meg a programjaidat!}
+{181}{}{Adatbevitel vége.}
+{182}{}{Megerõsítés. Terminál dátum: 2077 Február 2.}
+{183}{}{Mutasd meg a programjaidat!}
+{184}{}{Adatbevitel vége.}
+{185}{}{A dátum pontatlan. Kérem újraállítani.}
+{186}{}{Újraállítás [Klatty!] Hiba!. Öndiagnosztika indul. [Klatty! KLATTY!] HIBA! HELYREHOZHATATLAN RENDSZERHIBA! A RENDSZER SÉRÜLT, REKOMPILÁCIÓ MEGKÍSÉRLÉSE. [Hosszú szünet.]}
+{187}{}{Hahó?}
+{188}{}{[klatty!] Hiba a rekompiláció során... [katt]}
+{189}{}{Kérés nem végrehajtható. Párbeszéd beszüntetve.}
+{190}{}{Vészhelyzeti lekapcsolás megerõsítése.}
+{191}{}{Megerõsítve.}
+{192}{}{Lekapcsolási procedúra leállítása.}
+{193}{}{[Klatty!]}
+{194}{}{Kérés végrehajtása. Párbeszéd beszüntetve.}
+{195}{}{Ez a számítógép nem kompatibilis a rádióddal. Egy speciális, nagyfrekvenciás sávot használ, melyet távirányításra alkalmaznak.}
+{196}{}{Megnyomsz néhány gombot, de a számítógép sérültnek látszik. El kell rajta dolgozgatni, mielõtt újra mûködésbe lehetne hozni.}
+{197}{}{A számítógép nem fizikailag sérült, hanem a rajta lévõ adatok egy része ment kárba.}

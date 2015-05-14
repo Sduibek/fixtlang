@@ -1,0 +1,162 @@
+{100}{}{Ez az ember Lorenzo.}
+{101}{}{Miszter, ez egy patinás vállalkozás. A magadfajtákkal nem kötünk üzletet. Menjen innen!}
+{102}{}{Hölgyem, ez egy patinás vállalkozás. A magadfajtákkal nem kötünk üzletet. Menjen innen!}
+{103}{}{Késésben vagy a kölcsön visszafizetését illetõen. Fizesd vissza, különben nagyon kedvetlen leszek. Nem szeretek kedvetlen lenni.}
+{104}{}{Ne fenyegess, kispofa! Nem csak neked vannak barátaid.}
+{105}{}{Kell még egy kis idõ. Légyszi!}
+{106}{}{Szeretném visszafizetni az esedékes }
+{107}{}{ dolláros tartozásomat.}
+{108}{}{Nincs nálam az összeg.}
+{109}{}{Üdv. Szóval azért jöttél, hogy visszafizesd a kölcsönt?}
+{110}{}{Igazából abban reménykedtem, hogy meg tudnál velem osztani egy-két információt...}
+{111}{}{Újabb kölcsönért jöttem.}
+{112}{}{Talán késõbb.}
+{113}{}{Runk?}
+{114}{}{Figyelmeztettelek, hogy soha többet ne gyere ide! Gyerünk, fiúk, tudjátok a dolgotokat!}
+{115}{}{Ez aztán a kuncsaftok kuncsaftja! Bõkezû Lorenzo vagyok a szolgálatodra. Hiteleket folyósítok. Csak tíz százalék a napi kamat, és maximum 10 napon belül vissza kell fizetni. Az egész Hubban nem találsz nálam nagylelkûbb hitelezõt.}
+{116}{}{Hitelért jöttem.}
+{117}{}{Eléggé úgy tûnsz nekem, mint egy kopasztómûvész!}
+{118}{}{Meglehet. Mirõl szeretnél hallani?}
+{119}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{120}{}{Mondj valamit Deckerrõl!}
+{121}{}{Mi a helyzet a helyi rendõrséggel?}
+{122}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{123}{}{Mesélj magadról!}
+{124}{}{Hol lehet itt munkát találni?}
+{125}{}{Bocs, pletykákkal nem foglalkozom. Ne is kérdezd újra!}
+{126}{}{Figyelmeztettelek, hogy a pletykákkal ne zargass! Ha úgy gondolod, hogy csak a levegõbe beszéltem, tévedsz! Tûnés innen, és soha többet ne gyere vissza, punk!}
+{127}{}{Bocs, haver, de egyszerre csak egy hitelt folyósítok. Ha többet akarsz, elõbb fizess! Ez üzlet, nem jótékonykodás.}
+{128}{}{Jól van. Öröm veled üzletelni. Bármi egyébbel szolgálhatok?}
+{129}{}{Idióta! Nincs elég pénzed, hogy fizess! Talán valami mást forgatsz a fejedben...}
+{130}{}{Igazából abban reménykedtem, hogy meg tudnál velem osztani egy-két információt...}
+{131}{}{Újabb kölcsönért jöttem.}
+{132}{}{Talán máskor.}
+{133}{}{Semmi gond! Nyugodtan gyere csak hozzánk! Mi mindig készséggel segítünk.}
+{134}{}{Miért nem futsz két kört a ház körül és mondogatod, hogy runk valahol máshol? Húzzál innen kifelé! És ne is gyere vissza!}
+{135}{}{Hé, csak semmi fenyegetés! Mi mindannyian civilizált emberek vagyunk. Guido, Leone, miért nem mutatjátok meg az úriembernek, milyen civilizáltak is vagyunk?}
+{136}{}{Hé, csak semmi fenyegetés! Mi mindannyian civilizált emberek vagyunk. Guido, Leone, miért nem mutatjátok meg az úrhölgynek, milyen civilizáltak is vagyunk?}
+{137}{}{Lejárt az idõ, barátom. Guido, Leone, szórakoztassatok már el egy kicsit...}
+{138}{}{Szerencsés vagy, barátom.}
+{139}{}{Igazából abban reménykedtem, hogy meg tudnál velem osztani egy-két információt...}
+{140}{}{Szeretnék egy újabb kölcsönt.}
+{141}{}{Talán máskor.}
+{142}{}{Nincs nálad elég pénz! Hogy merészelsz becsapni, mi? Guido, Leone, ássátok el valahol ezt a szerencsétlent!}
+{143}{}{Jól van. Jelenleg nincs futó kölcsönöd. Kétszáz Hubdolcsis határértékekkel adunk kölcsönt, maximum 1000 Hubdollár értékben. Azt azért jó, ha észben tartod, hogy addig nem adok kölcsön nagyobb összeget, amíg a kisebbek visszafizetésével nem bizonyítottad be a megbízhatóságodat.}
+{144}{}{}
+{145}{}{1000}
+{146}{}{800}
+{147}{}{600}
+{148}{}{400}
+{149}{}{200}
+{150}{}{ Hubdolcsit szeretnék.}
+{151}{}{Jobb lesz, ha törlesztek.}
+{152}{}{Guido, Leone, mutassátok meg neki, mi is valójában a kopasztómûvészet. Kezdjétek a karjával!}
+{153}{}{Bocsesz, barátocskám, de a hülyék mindig is túl nagy kockázati tényezõk. Hordd el magad!}
+{154}{}{A Halálkarmok azok. Én mondom, hogy a Halálkarmok. Senki sem lehet biztonságban többé.}
+{155}{}{Mi ez a Halálkarom balhé?}
+{156}{}{Mondj valamit Deckerrõl!}
+{157}{}{Mi a helyzet a helyi rendõrséggel?}
+{158}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{159}{}{Mesélj magadról!}
+{160}{}{Hol lehet itt munkát találni?}
+{161}{}{Nagyszerû ember. Jó munkákat tud biztosítani ahhoz, hogy valaki visszafizethesse a kölcsöneimet. Mondd meg neki, hogy én küldtelek, talán még bónuszt is kapsz!}
+{162}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{163}{}{Milyen bónuszra gondolsz?}
+{164}{}{Mi a helyzet a helyi rendõrséggel?}
+{165}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{166}{}{Mesélj magadról!}
+{167}{}{Hol lehet itt munkát találni?}
+{168}{}{Nagyszerû srácok! Igaz, hogy esetenként vannak félreértések, de õk már csak ilyenek... [sotto voce] ...akármelyikrõl is legyen szó...}
+{169}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{170}{}{Mondj valamit Deckerrõl!}
+{171}{}{Miféle félreértésekrõl van szó?}
+{172}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{173}{}{Mesélj magadról!}
+{174}{}{Hol lehet itt munkát találni?}
+{175}{}{Nem mondhatnám, hogy túlságosan el vagyok ájulva. Én egy becsületes, megbecsülésnek örvendõ üzletet tudhatok magaménak, és tolvajkodással vádolnak! Hogy nem sül le a képükrõl a bõr. Azt hiszik, hogy a szegénységi fogadalmuktól máris ilyeneket állíthatnak rólam!}
+{176}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{177}{}{Mondj valamit Deckerrõl!}
+{178}{}{Mi a helyzet a helyi rendõrséggel?}
+{179}{}{Miféle szegénységi fogadalomról beszélsz?}
+{180}{}{Mesélj magadról!}
+{181}{}{Hol lehet itt munkát találni?}
+{182}{}{Megbecsült üzletember vagyok, ennyi. Mi Giovannik, a holokauszt elõtti idõktõl fogva megbecsült üzletembereknek számítunk. Mostanra már tradícióvá érett!}
+{183}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{184}{}{Mondj valamit Deckerrõl!}
+{185}{}{Mi a helyzet a helyi rendõrséggel?}
+{186}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{187}{}{Mi az elképzelésed a megbecsültségrõl?}
+{188}{}{Hol lehet itt munkát találni?}
+{189}{}{Próbálkozz Mr. Deckernél! Izgalmas munka, nagy jövedelem! A legjobb a városban! És csak át kell menned az utca másik oldalára. Szinte a szádba repül a sült galamb!}
+{190}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{191}{}{Mondj valamit Deckerrõl!}
+{192}{}{Mi a helyzet a helyi rendõrséggel?}
+{193}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{194}{}{Mesélj magadról!}
+{195}{}{Miféle izgalmak jöhetnek szóba?}
+{196}{}{Felejtsd el, túlságosan nagy kockázatot jelentesz. Tûnés a szemem elõl, és ne is gyere vissza!}
+{197}{}{Jól van. Egyezer dollár. 10 napod van, hogy visszafizesd!}
+{198}{}{Jól van. Nyolcszáz dollár. 10 napod van, hogy visszafizesd!}
+{199}{}{Jól van. Hatszáz dollár. 10 napod van, hogy visszafizesd!}
+{200}{}{Jól van. Négyszász. 10 napod van, hogy visszafizesd!}
+{201}{}{Jól van. Kétszáz. 10 napod van, hogy visszafizesd!}
+{202}{}{Ez gáz. Késõbb bármikor szabadon használhatod a szolgáltatásainkat.}
+{203}{}{Anyám, amit arról az izérõl mesélnek, hát... hát az nem semmi!}
+{204}{}{Mondj valamit Deckerrõl!}
+{205}{}{Mi a helyzet a helyi rendõrséggel?}
+{206}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{207}{}{Mesélj magadról!}
+{208}{}{Hol lehet itt munkát találni?}
+{209}{}{Na, minden jót!}
+{210}{}{Na, jó, talán nem ad bónuszt, de azért nagyszerû gyerek, nekem elhiheted!}
+{211}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{212}{}{Mi a helyzet a helyi rendõrséggel?}
+{213}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{214}{}{Mesélj magadról!}
+{215}{}{Hol lehet itt munkát találni?}
+{216}{}{Na, minden jót!}
+{217}{}{El tudod hinni, hogy valaki uzsoráskodással vádolt meg engem? Szerencsére az én Decker cimborám helyretette õket!}
+{218}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{219}{}{Mondj valamit Deckerrõl!}
+{220}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{221}{}{Mesélj magadról!}
+{222}{}{Hol lehet itt munkát találni?}
+{223}{}{Na, minden jót!}
+{224}{}{Le merném fogadni, hogy a vezetõjüknek, annak a Morpheus nevû egyénnek még a bõre alatt is pénz van! Bizony ám, barátocskám! Az hétszentség, hogy az egész Csonttelepen õneki van a legtöbb zséje!}
+{225}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{226}{}{Mondj valamit Deckerrõl!}
+{227}{}{Mi a helyzet a helyi rendõrséggel?}
+{228}{}{Mesélj magadról!}
+{229}{}{Hol lehet itt munkát találni?}
+{230}{}{Na, minden jót!}
+{231}{}{Ha nem tanúsítasz tiszteletet, bajod eshet. Térden állva könyörögjek egy kis tiszteletért?}
+{232}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{233}{}{Mondj valamit Deckerrõl!}
+{234}{}{Mi a helyzet a helyi rendõrséggel?}
+{235}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{236}{}{Hol lehet itt munkát találni?}
+{237}{}{Na, minden jót!}
+{238}{}{Kaland, veszély. Ott aztán lehet gyilkolászni!}
+{239}{}{Mi a helyzet azokkal az eltûnt karavánokkal?}
+{240}{}{Mondj valamit Deckerrõl!}
+{241}{}{Mi a helyzet a helyi rendõrséggel?}
+{242}{}{Mit lehet tudni a Katedrális Gyermekeirõl?}
+{243}{}{Mesélj magadról!}
+{244}{}{Na, minden jót!}
+{245}{}{Viszlát máskor, barátom!}
+{246}{}{Hé, hé, hé... vedd le a mocskos kezed arról az ajtóról, szörnyszülött!}
+{247}{}{Na, ebbõl elég, szörnypofa! Most megfizetsz!}
+{248}{}{Elnézést, de erre nincs idõm. Ha nem tudod kifizetni a teljes összeget, add át a nálad levõ pénzt, és helyben lezárunk minden üzleti kapcsolatot.}
+{249}{}{Nos, OKÉ. Tessék, itt az összes kupakom.}
+{250}{}{Óh! Milyen balga vagyok! Épp elég pénz van nálam, hogy az egész kölcsönt visszafizethessem!}
+{251}{}{[Megpróbálod átverni Lorenzót, és csak }
+{252}{}{ kupakot adsz neki]}
+{253}{}{Verd ki a fejedbõl! Tõlem ugyan egyetlen kupakot sem húzol ki!}
+{254}{}{[Átadod Lorenzónak az összes kupakodat]}
+{255}{}{[Átadsz Lorenzónak }
+{256}{}{ kupakot]}
+{257}{}{Az anyád hétszentségit! Megpróbálsz kicseszni velem?! Kiverem én mindjárt belõled a zsozsót!}
+{258}{}{Milyen kár. Sajnos emiatt nekünk kell móresre tanítanunk téged. Guido! Leone!}
+{259}{}{Rendben. Gondolom, ez megteszi. Azt remélem fogod, hogy többet nem fogunk üzletelni? Ha még egyszer meglátlak nálunk, kicsit súlyosabb büntetésben lesz részed.}
+{260}{}{Hányok tõled. Ide a pénzt, és kifelé! Soha többet ne told ide a képed!}
+{261}{}{Nincs elég pénzed!}

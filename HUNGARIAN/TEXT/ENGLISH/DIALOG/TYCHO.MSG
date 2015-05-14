@@ -1,0 +1,226 @@
+{100}{}{A férfi poros bõrpáncélt, hosszú kabátot és gázmaszkot visel.}
+{101}{}{Õ Tycho.}
+{102}{}{Na, már megint egy új arc... Az utazókkal itt dunát lehet rekeszteni, de te valahogy másfajtának tûnsz. Nem akarsz inni velem egy kört?}
+{103}{}{Elnézést, de eléggé szorít az idõm.}
+{104}{}{Miért is ne...}
+{105}{}{Duh-vah?}
+{106}{}{Pompás. Remélem, nem zavar, ha bõségesen fel van vizezve az italod. Itt úgy bánnak a sörrel, mint a cserepes virággal.}
+{107}{}{Na, mesélj...}
+{108}{}{De, lenyomunk egy pohár vizet. Hagyj lógva!}
+#talan
+
+{109}{}{Ezt én is kérhetném tõled. A jó viszony reményében én jövök elsõnek. A nevem Tycho. Keletrõl jöttem, egy Nevada nevû vidékrõl.}
+{110}{}{Szép kis távolság, nem mondom.}
+{111}{}{Hogy élted túl a veszélyeket?}
+{112}{}{Szent igaz. Gondoltam, lazítok kicsit. Ebben a helyben látok jövõt, csak elõbb ki kéne innen ebrudalni egy-két szemétládát.}
+{113}{}{Miért nem állsz neki magad?}
+{114}{}{Jaja, már volt szerencsém látni õket. Mit tudsz azokról a vadbarmokról?}
+{115}{}{Elég jó kiképzést kaptam, és van egy-két jó fegyverem is. A nagyapám Felderítõ volt a régi világban, és mindent, amit csak tudott, megtanított apámnak. Én már a fatertól szedtem fel a fortélyokat, és ha fogalmazhatok így: tudom, merre, hány méter.}
+{116}{}{Érdekes dolgok ezek. Kösz az italt.}
+{117}{}{Tényleg? A túlélés nem egyszerû mostanában. Nyilván sokminden ragadt rád a koszon kívül.}
+{118}{}{Nem nekem való hely. Nem szívesen keresztezném Killian útját. Ha úgy adódik, meg fogja tisztítani a várost. Jó ember az, nekem elhiheted, de azrra a Gizmó nevû pasira oda kéne figyelni. Nagyon emlékeztet engem egy másik dagadt ártányra, akirõl apám mesélt még a Las Vegas-i idõkbõl.}
+{119}{}{Kösz a tippet, és az italt.}
+{120}{}{A várost kétféle mocsok szennyezi. Az egyik a Skulz banda. Többnyire Marcelles Hétalvó nevû hoteljében lógnak. ZS-kategóriás gyökerek, A másik az a dagadt ártány, nyilván tudod, kire gondolok. Övé a kaszinó. Na, az a társaság igazán szervezett és veszélyes.}
+{121}{}{Értem, köszönet a fejtágításért.}
+{122}{}{Igen, a családomtól mindent megtanultam a túlélés rejtelmeirõl. Példának okáért, ne igyál olyan vizet, ami teljesen tiszta, és egyetlen bogár, egy kicsi kis moha sincs benne. A pusztaságban csak a mérgezõ vagy radioaktív víz ilyen tiszta. Természetesen még ezer dologra oda kell figyelni.}
+{123}{}{Úgymint?}
+{124}{}{Nos, ha volna egy kis idõd, szívesen meghallgatnék egy-két irányelvet.}
+{125}{}{Persze-persze, nagyszerû lenne.}
+{126}{}{Elnézést, de eléggé szorít az idõm.}
+{127}{}{Lassan a testtel! Még be sem mutatkoztunk egymásnak, nem igaz? Hgy hívnak, idegen?}
+{128}{}{}
+{129}{}{ vagyok.}
+{130}{}{Semmi közöd hozzá, tökfej!}
+{131}{}{Örülök, hogy találkoztunk. Vigyázz, hova teszed a lábad, barátom!}
+{132}{}{Ugyan, ugyan, nem kell ilyen udvariatlannak lenni! Azt hiszem, ezzel a hozzáállással jobb, ha békén hagylak.}
+{133}{}{Kapd be!}
+{134}{}{Mondj, amit akarsz! Viszlát!}
+{135}{}{Mit akarsz?}
+{136}{}{Jaj, bocs, hogy elcseszem az idõdet. Eridj, máshol recskázz!}
+{137}{}{Információkat szeretnék a helyi nehézfiúkról.}
+{138}{}{Fel tudnál homályosítani a várossal kapcsolatban?}
+{139}{}{Üdv, segíthetek valamiben?}
+{140}{}{Killian megkért, hogy tisztogassam meg a várost, és szeretném, ha segítenél.}
+{141}{}{Ez itt a Vesztõhely, a helyi rosszfiúk eléggé hitvány gyülekezõhelye. Gizmo kaszinóját nyugatra találod. Azt mondják, a játékaik meg vannak piszkálva. Egy kicsit délebbre ott van Marcelles Hétalvó nevû hotelje. Ha nem sajnálod a pénzt, ott kialhatod magad. A hotelen túl megtalálod Killian boltját. A fickó a bolt fenntartása mellett a törvény szolgája is egyben. Jó ember, annyit mondhatok. Ha még tovább mész délre, Morbid dokinál kötsz ki, aki igencsak vicces tevékenységet folytat, ha érted, mire gondolok...}
+{142}{}{Remélem, a kis gyorstalpalóm segített valamit.}
+{143}{}{}
+{144}{}{Csiripelik a verebek, hogy van némi közöd Gizmóhoz. A helyedben én igen óvatosan kezelném azt a zsírpacnit.}
+{145}{}{Az én dolgom nem a te dolgod.}
+{146}{}{Jaja, mostanság Gizmónak dolgozom. Van valami semmi közöd hozzá?}
+{147}{}{Te tudod... de azért vigyázz a hátadra! Gizmo nem arról híres, hogy sokat törõdik a bérenceivel.}
+{148}{}{Jó tudni, hogy a munkaadód több, mint elegendõ bajt és szenvedést okozott már a városnak. Ne nagyon számíts segítségre az emberektõl, legkevésbé Gizmótól. Gázos dolog ez. Jobbá tehetted volna ezt a helyet.}
+{149}{}{Mit tehetek érted?}
+{150}{}{Valami javaslat?}
+{151}{}{Kösz a segítséget. Azt hiszem, eljött az idõ, hogy elváljanak útjaink.}
+{152}{}{Én marhára távol tartanám magam attól, ami ezt okozta. Komolyan mondom, én még sosem láttam ilyet. Legjobb lenne, ha a lehetõ leggyorsabban továbbállnánk.}
+{153}{}{Jól van. Meg kell mondanom, megtisztelõ és kellemes volt együtt nyomulni.}
+{154}{}{Vigyázz a radioaktív sugárzónákkal! Ezt a helyet nyilvánvalóan közvetlen nukleáris csapás érte, a másodlagos radioaktív csapadék pedig nagyon csúnya tud lenni. Tudnám javasolni, hogy hanyagoljuk ezt a helyet, ha lehet.}
+{155}{}{Észrevetted, hogy se közel, se távol egy darab állat sincs? Meg aztán ott vannak a csontok. Akármi is éljen itt, nem lehet semmi egy vadállat. Tartsd készenlétben a fegyvered!}
+{156}{}{Az ilyen katonai létesítményeknek mindig van valahol egy parancsnoki szobája.}
+{157}{}{Le merném fogadni, hogy egy kis rövidzárlattal át tudnánk jutni azon az erõtéren. Esetleg megkereshetnénk az erõtér-generátor vezérlõszámítógépét is.}
+{158}{}{Nekropoliszról, a Holtak Városáról, nagyon sok fura történet járja, Légy résen, mert a semmibõl terem a veszély.}
+{159}{}{Meg kéne változtatnunk a követési távolságot.}
+{160}{}{Milyen távolságot tartanál elfogadhatónak?}
+{161}{}{Maradj közel!}
+{162}{}{Se közel, se távol...}
+{163}{}{Kövess messzirõl!}
+{164}{}{Milyen fegyveres képzettségeid vannak?}
+{165}{}{Elég korrekt felderítõ képzést kaptam. Ha arra kerül a sor, jól tudom használni a dárdát, de a kisebb pisztolyokkal és puskákkal sem állok hadilábon.}
+{166}{}{Öö, nem szóltam.}
+
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
+
+{167}{}{Ja, ha kedveled a jól átsült gyíkot.}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{168}{}{Idõ van! Indulás, barátom, csapjunk szét a mocskok között! Ha lehet, Gizmóhoz is kopogtassunk be.}
+{169}{}{Idõ van! Indulás, barátom, csapjunk szét a mocskok között! Ha lehet, Gizmóhoz is kopogtassunk be.}
+
+{170}{}{Igen?}
+{171}{}{Ha jobban belegondolok, jobb lenne, ha inkább együtt vándorolnánk.}
+{172}{}{Semmi-semmi. Hagyjuk.}
+{173}{}{300 tapasztalati pontot kaptál, amiért magad mellé állítottad Tychót, a sivatagi felderítõt.}
+
+#
+# Tycho tell-me-abouts
+#
+
+{1000}{}{Roncsvaros}
+{1001}{}{Felderito}
+{1002}{}{Csip}
+{1003}{}{Haboru}
+{1004}{}{Pusztasag}
+{1005}{}{Tanitvany}
+{1006}{}{Katedralis}
+{1007}{}{Garl}
+{1008}{}{Mester}
+{1009}{}{Egyseg}
+{1010}{}{Set}
+{1011}{}{Viznyero}
+{1012}{}{Nekropolisz}
+{1013}{}{Hall}
+{1014}{}{Konyvtar}
+{1015}{}{Felvigyazo}
+{1016}{}{Orvos}
+{1017}{}{Gyogykezeles}
+{1018}{}{Menedek}
+{1019}{}{13-as Menedek}
+{1020}{}{13as Menedek}
+{1021}{}{Killian}
+{1022}{}{Gizmo}
+{1023}{}{Csonttelep}
+{1024}{}{Shady}
+{1025}{}{Sands}
+{1026}{}{Hub}
+{1027}{}{Kaszino}
+{1028}{}{Bolt}
+{1029}{}{Halalkarom}
+{1030}{}{Exodus}
+{1031}{}{Ujonc}
+{1032}{}{Paladin}
+{1033}{}{Kronikas}
+{1034}{}{Gyermek}
+{1036}{}{Testveriseg}
+{1037}{}{Tartaly}
+{1038}{}{Katonai}
+{1039}{}{Bazis}
+{1041}{}{Apokalipszis}
+{1042}{}{Mutans}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Pia}
+{1052}{}{Drog}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Rendfenntarto}
+{1058}{}{Gubizo}
+{1059}{}{Penges}
+{1060}{}{Nicole}
+{1061}{}{Hadnagy}
+{1062}{}{Medium}
+{1063}{}{Kisérlet}
+{1064}{}{Rendorseg}
+{1065}{}{Kereskedo}
+
+{1100}{}{Nos, Roncsvárost nem nevezném igazi otthonnak, de mindenképpen érdekes hely. Van benne lehetõség, bár nem vagyok meggyõzõdve róla, hogy a múlt megtagadása a jövõ építésének legjobb módszere.}
+{1101}{}{Mi felderítõk keletrõl származunk, Nevadából. Gyökereink a texasi felderítõkig vezethetõk vissza. A vadonban való túlélést, valamint a harci képzettségeinket fejlesztjük, hogy helyt állhassunk a világban, és jobbá tegyük az életet.}
+{1102}{}{Már idõtlen-idõk óta nem láttam a víztisztító csipekhez fogható ósdi technológiai relikviát. Személy szerint jobb, ha magadra hagyatkozol, és nem egy megjavíthatatlan ketyerére.}
+{1103}{}{A Háború az emberi kapzsiság és beszámíthatatlanság testamentuma. Reméljük, eleget tanultunk belõle, hogy soha többé ne ismétlõdhessen meg egy hozzá hasonló ostobaság.}
+{1104}{}{A pusztaság még az óvatos utazónak is veszélyes terep. A sugárzás meg a seregnyi kreatúra rendesen szedi az áldozatait. Légy körültekintõ, és jusson eszedbe, hogy bármit látsz, bármit hallasz, jól jöhet még az életben.}
+{1105}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1106}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1107}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1108}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1109}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1110}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1111}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1112}{}{A Holtak Városa igen találó név. Az egykor Bakersfield-ként ismert kisváros helyén áll. Jelen pillanatban ghoulok, sõt még náluk is rosszabb lények lakóhelye.}
+{1113}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1114}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1115}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1116}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1117}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1118}{}{Hallottam a nagy, földalatti Menedékekrõl. Sajnos igen hiányosak az ismereteim velük kapcsolatban.}
+{1119}{}{Hallottam a nagy, földalatti Menedékekrõl. Sajnos igen hiányosak az ismereteim velük kapcsolatban.}
+{1120}{}{Hallottam a nagy, földalatti Menedékekrõl. Sajnos igen hiányosak az ismereteim velük kapcsolatban.}
+{1121}{}{Killian jó ember, és bizony nem egyszerû a munkája.}
+{1122}{}{Gizmo egy... szóval nevezzük csibésznek. Nagyon rá fog fázni...}
+{1123}{}{A Csonttelepet kérded? A tengerparton megtalálod. Mondják, hogy bandák garmadája háborúzik arrafelé, és igen kemény az élet.}
+{1124}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1125}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1126}{}{A Hub egy óriási kereskedõ közösség. Közel van Roncsvároshoz déli irányban.}
+{1127}{}{Gizmo kaszinója az utolsó hely, ahova örömmel tenném a lábam, hacsak nem akarnék a nyakára lépni a disznajának. Na, nem mintha szívesen zsíroznám magam össze vele.}
+{1128}{}{Killian-nek van egy pofás kis boltja Roncsvárosban.}
+{1129}{}{Hallottam sztorikat egy minden létezõ lénynél sebesebb, hatalmasabb és aljasabb teremtményrõl. Ilyeneknek nem szabadna szabadon mászkálni a világban. A sztorik száma elég csekély, ami azt jelenti, hogy ezek a szörnyek nem sok túlélõt hagynak maguk után. Nagy karmaik vannak és szerfelett vérengzõek.}
+{1130}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1131}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1132}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1133}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1134}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1136}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1137}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1138}{}{A hadseregnek számos titkos bázisa van országszerte, csak tudnám, merre.}
+{1139}{}{A hadseregnek számos titkos bázisa van országszerte, csak tudnám, merre.}
+{1141}{}{A nukleáris armageddon büszkeség és elvakultság eredménye volt. Az árát azóta is fizetjük.}
+{1142}{}{Annyi szent, hogy fura dolgok vannak ott. Mutáns skorpiókat és teheneket láttam mindenfelé, és azt is hallottam, hogy Nekropoliszt ghoulok lakják. Eléggé emberinek tûnõ lények, de azért zongorázni lehet a különbséget.}
+{1143}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1144}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1145}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1146}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1147}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1148}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1149}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1150}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1151}{}{Kedvelem a kerítésszaggató piákat, ezenkívül a Nuka-Cola is bejön.}
+{1152}{}{A helyedben én távoltartanám magam a drogoktól. Tény, hogy fel tudnak dobni, de a végén úgyis megiszod a levét.}
+{1153}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1154}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1155}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1156}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1157}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1158}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1159}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1160}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1161}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1162}{}{Telepátiára gondolsz? Heh... megmondom az õszintét. Ezt soha nem fogom bevenni.}
+{1163}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1164}{}{Sajnálom,ez ügyben nem tudok segíteni.}
+{1165}{}{Néhány Hubbeli kereskedõ rendszeresen látogatja Roncsvárost, és a többi települést.}

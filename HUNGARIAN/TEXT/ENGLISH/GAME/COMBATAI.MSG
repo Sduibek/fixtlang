@@ -1,0 +1,7639 @@
+#                                    T:\GURPS\CD\DATA\TEXT\GAME\COMBATAI.MSG
+# FALLOUT BATTLECRIES
+# When the Bomb Drops, the real fun begins
+#
+# Version 1.0  May 13, 1997  Scott Bennie
+#         1.1  May 14, 1997  Chris Taylor (edits and line number change)
+#         1.2  June 19, 1997 Leonard, Jason, Chris (edits)
+#
+# Combat AI messages (ranges defined in data\data\ai.txt)
+#
+
+# 1. Guard 1 (Professional)
+# Guard 1 should be used for caravan guards, soldiers, and other professional tough guys  who are paid to fight and don't particularly have much of an attitude. It's also very serious in tone.
+#
+#  running away
+#
+{1000}{}{}
+{1001}{}{}
+{1002}{}{Vissza, vissza!}
+{1003}{}{Vissza, vissza!}
+{1004}{}{Na, ezért nem fogok meghalni!}
+{1005}{}{Elég volt!}
+#
+# moving in to attack
+#
+{1006}{}{}
+{1007}{}{Ez oltári nagy hiba volt!}
+{1008}{}{Nem csípjük itt a fajtádat!}
+{1009}{}{Ki nem állhatlak!}
+{1010}{}{}
+{1011}{}{}
+#
+# attacking
+#
+{1012}{}{}
+{1013}{}{}
+{1014}{}{Most véged!}
+{1015}{}{}
+{1016}{}{}
+{1017}{}{Meg fogsz halni!}
+{1018}{}{Nézzük, milyen tökös vagy...}
+{1019}{}{Mocsok!}
+{1020}{}{Támadás!}
+{1021}{}{}
+#
+# target being missed
+#
+{1022}{}{}
+{1023}{}{Ezt már évek óta csinálom, kispofa!}
+{1024}{}{Nem vagy elég jó!}
+{1025}{}{Ez volt az utolsó tévedésed!}
+{1026}{}{Amatõr}
+{1027}{}{}
+#
+# target hit in head
+#
+{1028}{}{Aú! A rohad ku...}
+{1029}{}{Ezért kicsinállak!}
+{1030}{}{}
+#
+# target hit in left arm
+#
+{1031}{}{Aú, a karom!}
+{1032}{}{Francba, szétment a bal karom!}
+{1033}{}{A karom!}
+#
+# target hit in right arm
+#
+{1034}{}{Aú, a karom!}
+{1035}{}{Francba, szétment a jobb karom!}
+{1036}{}{A karom!}
+#
+# target hit in torso
+#
+{1037}{}{Úhh!}
+{1038}{}{Aú!}
+{1039}{}{Aúhhh!}
+{1040}{}{A bordám!}
+#
+# target hit in right leg
+#
+{1041}{}{Jaj, a lábam!}
+{1042}{}{Ezért megfizetsz!}
+{1043}{}{A térdem!}
+#
+# target hit in left leg
+#
+{1044}{}{Jaj, a lábam!}
+{1045}{}{Ezért megfizetsz!}
+{1046}{}{A térdem!}
+#
+# target hit in eyes
+#
+{1047}{}{Nem látok!}
+{1048}{}{A szemem!}
+{1049}{}{}
+#
+# target hit in groin
+#
+{1050}{}{Óóóóóóó, a tököm!}
+{1051}{}{}
+{1052}{}{}
+{1053}{}{Jajajaj!}
+{1054}{}{Úhhhfff!}
+{1055}{}{Ez fájt!}
+
+# 2. Guard 2 (Gung-ho)
+# Guard 2 should be used for really military types or military wannabes. It's a little over the top in places. He's a little bit conceited.
+#
+#  running away
+#
+{1100}{}{Erõsítést ide!}
+{1101}{}{}
+{1102}{}{Orvost!}
+{1103}{}{Vissza! Vissza!}
+{1104}{}{El innen! El innen!}
+{1105}{}{Lehet, hogy ezegyszer nyertél...}
+#
+# moving in to attack
+#
+{1106}{}{}
+{1107}{}{}
+{1108}{}{Majd megtanítalak én kesztyûbe dudálni!}
+{1109}{}{Neked annyi!}
+{1110}{}{Támadás!}
+{1111}{}{Ássuk el ezt a balekot!}
+#
+# attacking
+#
+{1112}{}{Ezt kapd ki!}
+{1113}{}{Most megyvagy!}
+{1114}{}{Most meghalsz!}
+{1115}{}{Na, hogy tetszik?}
+{1116}{}{}
+{1117}{}{Ne kezdj bele olyasmibe, amit nem tudsz befejezni!}
+{1118}{}{Jobb lesz, ha kezdesz imádkozni!}
+{1119}{}{}
+{1120}{}{}
+{1121}{}{Viszlát a pokolban!}
+#
+# target being missed
+#
+{1122}{}{}
+{1123}{}{Ennyit tudsz?}
+{1124}{}{Gyerünk, balek! Mutasd, mit tudsz!}
+{1125}{}{Próbálj célozni legközelebb!}
+{1126}{}{Civil...}
+{1127}{}{}
+#
+# target hit in head (3)
+#
+{1128}{}{}
+{1129}{}{Az arcom!}
+{1130}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{1131}{}{Eltörted a karomat!}
+{1132}{}{Elcseszted a bal karomat, de fel sem veszem!}
+{1133}{}{}
+#
+# target hit in right arm
+#
+{1134}{}{Eltörted a karomat!}
+{1135}{}{Elcseszted a jobb karomat, de fel sem veszem!}
+{1136}{}{}
+#
+# target hit in torso
+#
+{1137}{}{Eh! Ezt már majdnem éreztem!}
+{1138}{}{Uhh!}
+{1139}{}{Ezt nagyon megbánod!}
+{1140}{}{Uffh! Ezért keservesen megfizetsz!}
+#
+# target hit in right leg
+#
+{1141}{}{Aú, a lábam!}
+{1142}{}{Megfizetsz ezért!}
+{1143}{}{Az ilyen sebek hidegen hagynak!}
+#
+# target hit in left leg
+#
+{1144}{}{Aú, a lábam!}
+{1145}{}{Az ilyen sebek hidegen hagynak!}
+{1146}{}{Fizetni fogsz ezért!}
+#
+# target hit in eyes
+#
+{1147}{}{Megvakultam!}
+{1148}{}{Ég a szemem!}
+{1149}{}{Nem látok!}
+#
+# target hit in groin
+#
+{1150}{}{Óóóó, az ágyékom!}
+{1151}{}{Arrgghhh!}
+{1152}{}{Úúf!}
+{1153}{}{Nem... kapok... levegõt...}
+{1154}{}{Nem... kapok... levegõt...}
+{1155}{}{Te állat...}
+
+# 3. Guard 3 (Sadistic)
+# Guard 3 is the henchman of really nasty people. He likes to hurt people, and makes no bones about it and is a bit of a coward.
+#
+#  running away
+{1200}{}{Na, én leléptem!}
+{1201}{}{Még visszajövök...}
+{1202}{}{Hát nem ma fogsz megölni!}
+{1203}{}{Majd máskor, te szemétláda!}
+{1204}{}{Még semmit sem láttál belõlem!}
+{1205}{}{Ezért még megfizetsz... de majd máskor!}
+#
+# moving in to attack
+#
+{1206}{}{Neked véged!}
+{1207}{}{Friss hús...}
+{1208}{}{Táncolni fogok a sírodon!}
+{1209}{}{Hé, emberek! Céllövészet!}
+{1210}{}{}
+{1211}{}{Ez nagyon fog tetszeni...}
+#
+# attacking (10)
+#
+{1212}{}{}
+{1213}{}{Jobb ha nem könyörögsz az életedért...}
+{1214}{}{Ez a legjobb rész...}
+{1215}{}{}
+{1216}{}{Felzabáltatlak a kutyákkal!}
+{1217}{}{Ne fogj bele olyasmibe, amit nem tudsz befejezni!}
+{1218}{}{Remélem, lassú halálod lesz!}
+{1219}{}{Innen csak az egyikünk távozik élve!}
+{1220}{}{Halál rád!}
+{1221}{}{Ilyen mocskokat eszek reggelire!}
+{1222}{}{Megetetlek a házi leguánommal!}
+{1223}{}{A vigyorgó arcomat fogod látni utoljára!}
+{1224}{}{Ezt bizony szeretem csinálni!}
+#
+# target being missed (6)
+#
+{1225}{}{Nevetséges vagy!}
+{1226}{}{Ennyit tudsz?}
+{1227}{}{}
+{1228}{}{}
+{1229}{}{Lassú vagy, mint a csiga!}
+{1230}{}{Balek!}
+#
+# target hit in head (3)
+#
+{1231}{}{Ne má' az arcom!}
+{1232}{}{Aúúú!}
+{1233}{}{Eltörted az orrom!}
+#
+# target hit in left arm
+#
+{1234}{}{Jaj, a bal karom!}
+{1235}{}{Eltörted a karom!}
+{1236}{}{A szétcseszett karom sem állíthat meg engem!}
+#
+# target hit in right arm
+#
+{1237}{}{Jaj, a jobb karom!}
+{1238}{}{Eltörted a karom!}
+{1239}{}{A szétcseszett karom sem állíthat meg engem!}
+#
+# target hit in torso
+#
+{1240}{}{Aú a bordám!}
+{1241}{}{Ez volt az utolsó ingyen lövés!}
+{1242}{}{Ezt nagyon megkeserülöd!}
+#
+# target hit in right leg
+#
+{1243}{}{A lábam!}
+{1244}{}{Ezért még nagyon megfizetsz!}
+{1245}{}{Argh!}
+#
+# target hit in left leg
+#
+{1246}{}{A lábam!}
+{1247}{}{Ezért még nagyon megfizetsz!}
+{1248}{}{Argh!}
+#
+# target hit in eyes
+#
+{1249}{}{Argh! A szemem!}
+{1250}{}{A szemem! Meg lesz ennek még a böjtje!}
+{1251}{}{}
+#
+# target hit in groin
+#
+{1252}{}{Óóóó, az ágyékom!}
+{1253}{}{Óóó! Ezt a célzást nekem is meg kell tanulnom...}
+{1254}{}{Örh!}
+{1255}{}{Örhh!}
+{1256}{}{Örhhh!}
+{1257}{}{Úhhh! Ezért kicsinállak!}
+
+# 4. Guard 4 (Humorous)
+# Guard 4 is used when the designer wants to be silly with guards
+#
+#  running away (6)
+#
+{1300}{}{Mintha valaki hívott volna...}
+{1301}{}{}
+{1302}{}{Segítség!}
+{1303}{}{Aaaaahhhh!}
+{1304}{}{Futás!}
+{1305}{}{}
+#
+# moving in to attack (6)
+#
+{1306}{}{Úgy fogsz kinézni, mint egy kettétört ropi!}
+{1307}{}{Nézd már! Kikötõdött a cipõd!}
+{1308}{}{Mindjárt elkaplak...}
+{1309}{}{}
+{1310}{}{Úgy, de úgy eltángállak!}
+{1311}{}{}
+#
+# attacking (10)
+#
+{1312}{}{Na, erre varrjál gombot!}
+{1313}{}{Most megvagy!}
+{1314}{}{Most megvagy!}
+{1315}{}{Na, ez hogy tetszik?}
+{1316}{}{Ezt kajáld meg!}
+{1317}{}{Ez alapjában fogja megváltoztatni az életed!}
+{1318}{}{Szerinem nem fogom megbánni!}
+{1319}{}{}
+{1320}{}{}
+{1321}{}{}
+#
+# target being missed (6)
+#
+{1322}{}{Ha, nem talált!}
+{1323}{}{Cö, cö!}
+{1324}{}{Ha!}
+{1325}{}{Cö, cö!}
+{1326}{}{Ezt a marhát!}
+{1327}{}{Hozzám sem tudsz érni!}
+#
+# target hit in head (3)
+#
+{1328}{}{Jaj, a hajam!}
+{1329}{}{A fovam! Elveftettem a fovam!}
+{1330}{}{A fovam! A fovam!}
+#
+# target hit in left arm
+#
+{1331}{}{Jaj, a karom!}
+{1332}{}{Aú!}
+{1333}{}{Aú, hagyd abba!}
+#
+# target hit in right arm
+#
+{1334}{}{Jaj, a karom!}
+{1335}{}{Aú!}
+{1336}{}{Aú, hagyd abba!}
+{1337}{}{Nem akarok balkezes lenni!}
+#
+# target hit in torso
+#
+{1338}{}{Úhff!}
+{1339}{}{Ez nem volt valami szép tõled!}
+{1340}{}{Megbánod te ezt még! Én már megbántam...}
+{1341}{}{Asszem, mindjárt elájulok...}
+{1342}{}{Minek nézel te engem, boksz-zsáknak?}
+{1343}{}{Ez csúnya dolog volt!}
+#
+# target hit in right leg
+#
+{1344}{}{Jaj, a lábam!}
+{1345}{}{Jaj! Hagyd ezt abba!}
+{1346}{}{!}
+#
+# target hit in left leg
+#
+{1347}{}{Jaj, a lábam!}
+{1348}{}{Aú! De szenya vagy!}
+{1349}{}{}
+#
+# target hit in eyes
+#
+{1350}{}{Miért van ilyen sötét?}
+{1351}{}{Hova tûntek az emberek?}
+{1352}{}{Jajaj, a retinám!}
+#
+# target hit in groin
+#
+{1353}{}{Óóóóóó, az ágyékom!}
+{1354}{}{Jaj, de ég a lábam közt!}
+{1355}{}{Jaj, de ég a lábam közt!}
+{1356}{}{Nem... kapok... levegõt...}
+{1357}{}{}
+{1358}{}{Nagyon fáj... nagyon fáj...}
+
+# 5. Guard 5 (Perfunctory)
+# Guard 5 is a guard who doesn't say much, or when he does, it's pretty short.
+#
+#  running away (6)
+#
+{1400}{}{Na, én léptem!}
+{1401}{}{Na, csá!}
+{1402}{}{Aaaaahhhh!}
+{1403}{}{}
+{1404}{}{}
+{1405}{}{Minden jót!}
+#
+# moving in to attack
+#
+{1406}{}{}
+{1407}{}{Ennyit rólad!}
+{1408}{}{Vége a játszadozásnak!}
+{1409}{}{Valaki most meghal!}
+{1410}{}{Most beszállok a partiba!}
+{1411}{}{}
+#
+# attacking
+#
+{1412}{}{Ezt kapd ki!}
+{1413}{}{Meghalsz!}
+{1414}{}{Balek!}
+{1415}{}{Punk!}
+{1416}{}{}
+{1417}{}{Remélem, ez fáj!}
+{1418}{}{}
+{1419}{}{}
+{1420}{}{Hamarosan a temetõben kötsz ki!}
+{1421}{}{Mindjárt meghalsz!}
+#
+# target being missed
+#
+{1422}{}{Nem talált!}
+{1423}{}{Nem volt túl meggyõzõ!}
+{1424}{}{}
+{1425}{}{Lassú vagy, mint a csiga!}
+{1426}{}{Nem érsz semmit!}
+{1427}{}{}
+#
+# target hit in head
+#
+{1428}{}{Ez fájt!}
+{1429}{}{A szemem!}
+{1430}{}{Jaj! Az orrom...}
+#
+# target hit in left arm
+#
+{1431}{}{Aú!}
+{1432}{}{Aú! A karom!}
+{1433}{}{Aú! Eltörted a karom!}
+#
+# target hit in right arm
+#
+{1434}{}{Aú!}
+{1435}{}{Aú! A karom!}
+{1436}{}{Aú! Eltörted a karom!}
+#
+# target hit in torso
+#
+{1437}{}{Aú!}
+{1438}{}{Jaj!}
+{1439}{}{Úhf!}
+{1440}{}{Jajjaj!}
+{1441}{}{Úhfff!}
+{1442}{}{Ögh!}
+#
+# target hit in right leg
+#
+{1443}{}{Aú!}
+{1444}{}{Aú! A térdem!}
+{1445}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{1446}{}{Aú!}
+{1447}{}{Aú! A térdem!}
+{1448}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{1449}{}{Megvakultam!}
+{1450}{}{Nem látok!}
+{1451}{}{A szemem!}
+#
+# target hit in groin
+#
+{1452}{}{Az ágyékom!}
+{1453}{}{Jaaaiiijjj!}
+{1454}{}{Francba, ez fáj!}
+{1455}{}{Úúúf!}
+{1456}{}{Örhf!}
+{1457}{}{Nem... kapok... levegõt...}
+
+# 6. Guard 6 (Smart-ass)
+# Guard 6 is a guard who says a lot of wisecracks. Somewhat conceited.
+#
+#  running away (6)
+#
+{1500}{}{Na, császtok!}
+{1501}{}{Leléptem!}
+{1502}{}{}
+{1503}{}{Talán ez nem is volt olyan jó ötlet...}
+{1504}{}{Még a végén bajom esik...}
+{1505}{}{}
+#
+# moving in to attack (6)
+#
+{1506}{}{Itt az idõ a gyakásra!}
+{1507}{}{Az õrök sosem pihennek!}
+{1508}{}{}
+{1509}{}{Ne már! A lõszer túl drága!}
+{1510}{}{A temetõt inkább rádhagyom!}
+#ez jobban tetszik igy - bass
+
+{1511}{}{Mégis minek képzeled magad?}
+#
+# attacking
+#
+{1512}{}{Nézd, hogy dolgoznak a profik!}
+{1513}{}{Nem kellett volna ma felkelned!}
+{1514}{}{Most kinyiffansz!}
+{1515}{}{}
+{1516}{}{Most szépen elpihizel...}
+{1517}{}{}
+{1518}{}{Ez itt a jó kondiban lévõknek való, te meg már erõsen hízol...}
+{1519}{}{}
+{1520}{}{Elég volt belõled!}
+{1521}{}{Halálod elõtt engem látsz utoljára!}
+#
+# target being missed
+#
+{1522}{}{Nem adom könnyen magam!}
+{1523}{}{Héhé! Csak nem elvétetted?}
+{1524}{}{Próbálkozz csak, egy szép nap majd csak összejön!}
+{1525}{}{}
+{1526}{}{Álljak mozdulatlanul inkább, hogy eltalálhass?}
+{1527}{}{}
+#
+# target hit in head
+#
+{1528}{}{Aú!}
+{1529}{}{Csillagokat látok!}
+{1530}{}{Aú! A fülem!}
+#
+# target hit in left arm
+#
+{1531}{}{Aú, a karom!}
+{1532}{}{Eltörted a karomat!}
+{1533}{}{Mit mondjak... lefegyverzõ vagy...}
+#
+# target hit in right arm
+#
+{1534}{}{Aú, a karom!}
+{1535}{}{Eltörted a karomat!}
+{1536}{}{Mit mondjak... lefegyverzõ vagy...}
+#
+# target hit in torso
+#
+{1537}{}{Bizonyára nagyon jónak tartod magad.}
+{1538}{}{Ögh!}
+{1539}{}{Úúf!}
+{1540}{}{Közelebb jössz és kipróbálod újra?}
+{1541}{}{Ha felnõsz, biztos ugyanolyan jó akarsz majd lenni, mint én!}
+{1542}{}{Ez legalább nem volt olyan csúnya, mint a pofád!}
+{1543}{}{Aúúú! A francba!}
+#
+# target hit in right leg
+#
+{1544}{}{Aú!}
+{1545}{}{Ez csak karcolás... meg néhány törött csont...}
+{1546}{}{Erre a térdre már úgysem volt szükségem.}
+#
+# target hit in left leg
+#
+{1547}{}{Aúúú!}
+{1548}{}{Ez csak karcolás... meg néhány törött csont...}
+{1549}{}{Erre a térdre már úgysem volt szükségem.}
+#
+# target hit in eyes
+#
+{1550}{}{Megvakultam!}
+{1551}{}{Legalább nem kell látom azt a ronda pofádat!}
+{1552}{}{Legalább nem kell látom azt a ronda pofádat!}
+#
+# target hit in groin
+#
+{1553}{}{Az ágyékom! Az ágyékom!}
+{1554}{}{Nagyon kihúzod a gyufát nálam!}
+{1555}{}{}
+{1556}{}{Na, ennyit a szexelésrõl!}
+{1557}{}{Atyaég, de fáj!}
+{1558}{}{Aú! Na, ha létezik fájdalom, ez az!}
+
+# 7. Guard 7 (Rookie)
+# "I can hit a target real good when it ain't moving. I'm sure looking forward to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+#
+#  running away
+#
+{1600}{}{Hé, itt meg lehet halni!}
+{1601}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{1602}{}{Besokalltam!}
+{1603}{}{Segítség!}
+{1604}{}{Aaaaahhhh!}
+{1605}{}{Vigyetek innen!}
+#
+# moving in to attack
+#
+{1606}{}{Na, végre, valami jó kis akció!}
+{1607}{}{Nem kéne szarakodnod velem!}
+{1608}{}{Most majd megmutatom, mit érek a csatában!}
+{1609}{}{Ezt akartad... mi?}
+{1610}{}{}
+{1611}{}{Ez tetszeni fog!}
+#
+# attacking
+#
+{1612}{}{Ezt kapd ki!}
+{1613}{}{Most neked annyi!}
+{1614}{}{Ezt kapd ki!}
+{1615}{}{Na, hogy tetszik?}
+{1616}{}{Meghalsz, te torzszülött fosztogató!}
+{1617}{}{Te torzszülött mutáns!}
+{1618}{}{Támadás!}
+{1619}{}{}
+{1620}{}{}
+{1621}{}{}
+#
+# target being missed
+#
+{1622}{}{Ha, ez mellé ment!}
+{1623}{}{Ez mellé ment!}
+{1624}{}{Ennyire tellik, mi?}
+{1625}{}{Ennyit tudsz?}
+{1626}{}{Hé! Ez biztos fájt!}
+{1627}{}{}
+#
+# target hit in head
+#
+{1628}{}{Aú!}
+{1629}{}{Az arcom! Mit tettél?!}
+{1630}{}{Aggghhh! Az arcom! Ne! Ne!}
+#
+# target hit in left arm
+#
+{1631}{}{Aú, a karom!}
+{1632}{}{Mit csináltál a karommal?!}
+{1633}{}{Aggghhh!}
+#
+# target hit in right arm
+#
+{1634}{}{Aú, a karom!}
+{1635}{}{Mit csináltál a karommal?!}
+{1636}{}{Aggghhh!}
+#
+# target hit in torso
+#
+{1637}{}{Aú!}
+{1638}{}{}
+{1639}{}{Ójajj! Ójajj! Ójajj!}
+{1640}{}{Nem biztos, hogy ezt kéne erõltetni...}
+{1641}{}{Ne vidd túlzásba, én csak kezdõ vagyok!}
+{1642}{}{Úúf!}
+{1643}{}{Aúúú!}
+{1644}{}{Jaj! Ez fájt!}
+#
+# target hit in right leg
+#
+{1645}{}{Aú, a lábam!}
+{1646}{}{Mit csináltál a lábammal?!}
+{1647}{}{Aggghhh!}
+#
+# target hit in left leg
+#
+{1648}{}{Aú, a lábam!}
+{1649}{}{A lábam!}
+{1650}{}{Aggghhh!}
+#
+# target hit in eyes
+#
+{1651}{}{Nem látok!}
+{1652}{}{A szemem!}
+{1653}{}{Segítség!}
+#
+# target hit in groin
+#
+{1654}{}{Aú! Az ágyékom!}
+{1655}{}{Óóóóóó, te mocskos kis...}
+{1656}{}{Örh!}
+{1657}{}{Jó ég, ez a belem?}
+{1658}{}{Nem... kapok... levegõt...}
+{1659}{}{Francba, ez fájt!}
+
+# 8. Bouncer
+# Bouncer is a professional. Fighting scum is his business. The opponent is another loser who's caused too much trouble.
+#
+#  running away
+#
+{1700}{}{Ezért nem fogok meghalni!}
+{1701}{}{Nem éri meg fáradságot!}
+{1702}{}{Most le kell lépnem...}
+{1703}{}{Ennyit a hírnevemrõl...}
+{1704}{}{Nincs énnekem semmi bajom veled...}
+{1705}{}{Vigyétek tõlem ezt a vadbarmot!}
+#
+# moving in to attack
+#
+{1706}{}{Elég a huligánokból!}
+{1707}{}{Túllõttél a célon!}
+{1708}{}{Nem fogsz messzire jutni...}
+{1709}{}{Addig nem fogsz itt keménykedni, amíg itt vagyok!}
+
+{1710}{}{Kicsinállak!}
+{1711}{}{}
+#
+# attacking
+#
+{1712}{}{Ezt szoktuk a bajkeverõkkel csinálni!}
+{1713}{}{Gyorsan túlesünk rajta...}
+{1714}{}{Ez majd megtanítja, hogy leszokj a bajkeverésrõl!}
+{1715}{}{Most ellátom a bajod!}
+{1716}{}{}
+{1717}{}{Lássuk, milyen kemény vagy...}
+{1718}{}{Valami nagy embernek képzeled magad, mi?}
+{1719}{}{Amit nem tudsz befejezni, el se kezdd!}
+{1720}{}{Azt hitted, simán megúszhatod?}
+{1721}{}{Ilyen gyíkarcokat eszek reggelire!}
+#
+# target being missed
+#
+{1722}{}{Megkönnyíted a dolgom!}
+{1723}{}{Ügyetlen vagy!}
+{1724}{}{Apám, olyan vagy, mint a lekvár!}
+{1725}{}{Ennyit tudsz?}
+{1726}{}{Remélem, nem gondoltad komolyan, hogy megfoghatsz?}
+{1727}{}{Gyerünk, kispofa! Ez neked harc?}
+#
+# target hit in head
+#
+{1728}{}{Betörted az orromat!}
+{1729}{}{Aú! A franc esne beléd!}
+{1730}{}{Francba! Ez fájt!}
+#
+# target hit in left arm
+#
+{1731}{}{Aú, a karom!}
+{1732}{}{Ezért hidegre teszlek!}
+{1733}{}{Ez hiba volt részedrõl!}
+#
+# target hit in right arm
+#
+{1734}{}{Aú, a karom!}
+{1735}{}{Ezért a mozdulatért véged van, mint a botnak!}
+{1736}{}{Ez hiba volt részedrõl!}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{1737}{}{Már megint szétment a lábam!}
+{1738}{}{Aú!}
+{1739}{}{Ez hiba volt részedrõl!}
+#
+# target hit in left leg
+#
+{1740}{}{Aú! Le akarsz amortizálni, mi?}
+{1741}{}{Aú!}
+{1742}{}{Ez fájt...}
+#
+# target hit in eyes
+#
+{1743}{}{Nem látok!}
+{1744}{}{Jaj!}
+{1745}{}{Nem kell látnom téged, hogy lenyomjalak!}
+#
+# target hit in groin
+#
+{1746}{}{Óóóó! Pont a zacsim!}
+{1747}{}{Óóóó! Pont a zacsim!}
+{1748}{}{Óóóó! Pont a zacsim!}
+{1749}{}{Aúúú! A golyóm!}
+{1750}{}{Aúúú! A golyóm!}
+{1751}{}{Örh!}
+
+# 9. Loser
+# Loser don't want no trouble. How's he survived so long?
+#
+#  running away
+#
+{1800}{}{Kegyelem!}
+{1801}{}{Valaki segítsen!}
+{1802}{}{Kérlek, hagyd abba!}
+{1803}{}{Segítség!}
+{1804}{}{Aaaaahhhh!}
+{1805}{}{Kegyelem!}
+#
+# moving in to attack
+#
+{1806}{}{Hmm, öh, hagyd abba!}
+{1807}{}{Nem szeretem a fajtádat...}
+{1808}{}{Szívbõl reméltem, hogy nem fajul idáig...}
+{1809}{}{Asszem, magamat kell megvédenem...}
+{1810}{}{Asszem, magamat kell megvédenem...}
+{1811}{}{Szívbõl reméltem, hogy nem fajul idáig...}
+#
+# attacking
+#
+{1812}{}{Ezt kapd ki!}
+{1813}{}{Nem kellett volna belemenned ebbe!}
+{1814}{}{Te akartad!}
+{1815}{}{Na, hogy tetszik?}
+{1816}{}{}
+{1817}{}{Te állat!}
+{1818}{}{Én nem akartam ezt!}
+{1819}{}{}
+{1820}{}{Nem akartam harcolni, de...}
+{1821}{}{Te gazember!}
+#
+# target being missed
+#
+{1822}{}{}
+{1823}{}{Mellé!}
+{1824}{}{Azta, ez még fájhatott is volna, ha eltalál!}
+{1825}{}{Huhuh! Még élek!}
+{1826}{}{Hé, ez még fájhatott is volna, ha eltalál!}
+{1827}{}{Huhuh! Még élek!}
+#
+# target hit in head
+#
+{1828}{}{Az arcom! Az arcom!}
+{1829}{}{Aú! Ez fájt!}
+{1830}{}{}
+#
+# target hit in left arm
+#
+{1831}{}{Aú, a karom!}
+{1832}{}{Aú!}
+{1833}{}{Eltörted a karomat!}
+#
+# target hit in right arm
+#
+{1834}{}{Aú, a karom!}
+{1835}{}{Vahhhh!}
+{1836}{}{Istenem! A karom!}
+#
+# target hit in torso
+#
+{1837}{}{Aú! Ez fáj, mint állat!}
+{1838}{}{Asszem, mindjárt elájulok...}
+{1839}{}{Jaj!}
+{1840}{}{}
+{1841}{}{Ez fájt!}
+{1842}{}{Hagyj már békén...}
+{1843}{}{Óhhh, ez fáj!}
+#
+# target hit in right leg
+#
+{1844}{}{Aú, a lábam!}
+{1845}{}{A térdem!}
+{1846}{}{Aú!}
+#
+# target hit in left leg
+#
+{1847}{}{Aú, a lábam!}
+{1848}{}{A térdem!}
+{1849}{}{Aaaarrrrggghhh!}
+#
+# target hit in eyes
+#
+{1850}{}{Megvakultam! Ó, Istenem, megvakultam!}
+{1851}{}{Az arcom! A szemem! Arrrrgh!}
+{1852}{}{A szemem!}
+#
+# target hit in groin
+#
+{1853}{}{ÓóóÓóóóóó, az ágyékom! Óóóóóóó...}
+{1854}{}{Óuh... Nagyon éget!}
+{1855}{}{Örh!}
+{1856}{}{Óóórhhh! Óuh...}
+{1857}{}{Nem... kapok... levegõt...}
+{1858}{}{Nagyon fáj, nagyon fáj...}
+
+# 10. Berserker
+# Berserker just want trouble. How's he survived so long?
+#
+#  running away
+#
+{1900}{}{Itt az idõ, hogy lépjek...}
+{1901}{}{Lépek ezerrel!}
+{1902}{}{Késõbb még találkozunk, te mocsok!}
+{1903}{}{Mókás volt, de most már megyek!}
+{1904}{}{Ezért még megfizetsz... majd máskor...}
+{1905}{}{Hamarosan visszatérhetünk erre}
+#
+# moving in to attack
+#
+{1906}{}{Megcibálom a füled!}
+{1907}{}{Friss hús!}
+{1908}{}{Egész feldobtad a napomat!}
+{1909}{}{Hülyére foglak szívatni!}
+
+{1910}{}{Megcibálom a füled, basszus!}
+{1911}{}{Fasírtot csinálok belõled!}
+#
+# attacking
+#
+{1912}{}{}
+{1913}{}{}
+{1914}{}{Légyszi ne könyörögj az életedért! A halál méltóságos dolog!}
+{1915}{}{Remélem, lassú halálod lesz!}
+{1916}{}{Van valami utolsó mondanivalód?}
+{1917}{}{Ezt kapd ki!}
+{1918}{}{Meghalsz! Meghalsz! Meghalsz! Meghalsz! Meghalsz!}
+{1919}{}{Meghalsz!}
+{1920}{}{Most megnézem, mi van benned...}
+{1921}{}{Kutyakaja leszel, barátom!}
+#
+# target being missed
+#
+{1922}{}{El sem találtál!}
+{1923}{}{}
+{1924}{}{Gyerünk, punk! Mutasd, mire vagy képes!}
+{1925}{}{Ennyit tudsz?}
+{1926}{}{Ez könnyebb lesz, mint gondoltam!}
+{1927}{}{Ez könnyebb lesz, mint gondoltam!}
+#
+# target hit in head
+#
+{1928}{}{Ez szép seb lesz...}
+{1929}{}{Kezdesz bosszantani!}
+{1930}{}{Csináld csak, te disznó!}
+#
+# target hit in left arm
+#
+{1931}{}{Eltaláltál!}
+{1932}{}{}
+{1933}{}{Eltörted a karom, ezért eltöröm a nyakad!}
+#
+# target hit in right arm
+#
+{1934}{}{}
+{1935}{}{Ez csak egy karcolás...}
+{1936}{}{Eltörted a karom, ezért simán eltöröm a nyakad!}
+#
+# target hit in torso
+#
+{1937}{}{}
+{1938}{}{Úúf! Ezért lealázlak!}
+{1939}{}{Úúf!}
+{1940}{}{Úúf!}
+{1941}{}{Imádom a recsegõ bordák hangját!}
+{1942}{}{}
+{1943}{}{Arg!}
+#
+# target hit in right leg
+#
+{1944}{}{Mindenem a csontzene!}
+{1945}{}{}
+{1946}{}{You broke my leg, but I'll break your neck}
+#
+# target hit in left leg
+#
+{1947}{}{Mindenem a csontzene!}
+{1948}{}{}
+{1949}{}{Eltörted a karom, ezért eltöröm a nyakad!}
+#
+# target hit in eyes
+#
+{1950}{}{Hé, megvakultam!}
+{1951}{}{Nem látok! Így végre kiegyenlített a küzdelem!}
+{1952}{}{A szemem, te rohadék!}
+#
+# target hit in groin
+#
+{1953}{}{Úúf, az ágyékom!}
+{1954}{}{Ez aztán a férfias cselekedet...}
+{1955}{}{}
+{1956}{}{}
+{1957}{}{Szóval így akarsz játszani...}
+{1958}{}{Aúúú!}
+
+# 11. Peasant
+# I work the land. Is this is what I get for years of hard work? Some well-armed troublemaker who's making my life miserable?
+#
+#  running away
+#
+{2000}{}{Bánts valaki mást, kérlek!}
+{2001}{}{Kegyelmezz!}
+{2002}{}{Valaki segítsen!}
+{2003}{}{Kérlek, hagyd abba!}
+{2004}{}{}
+{2005}{}{Ezért nincs kedvem meghalni!}
+#
+# moving in to attack
+#
+{2006}{}{Várj csak, mindjárt elkaplak!}
+{2007}{}{}
+{2008}{}{Hé, te ott!}
+{2009}{}{Nem vagy szívesen látott vendég!}
+{2010}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{2011}{}{Kinek képzeled magad?}
+#
+# attacking
+#
+{2012}{}{}
+{2013}{}{}
+{2014}{}{Ezt csináljuk a patkányokkal!}
+{2015}{}{Te mutáns torzszülött!}
+{2016}{}{}
+{2017}{}{Megetetlek a kutyákkal!}
+{2018}{}{Ebbõl majd tanulsz!}
+{2019}{}{Jól van! Te akartad!}
+{2020}{}{Te vadállat!}
+{2021}{}{}
+#
+# target being missed
+#
+{2022}{}{}
+{2023}{}{Láttam már okosabb Brahmint nálad!}
+{2024}{}{Hííjjj!}
+{2025}{}{Engem nem olyan könnyû lenyomni!}
+{2026}{}{Istennek hála...}
+{2027}{}{Ez mellé ment!}
+#
+# target hit in head
+#
+{2028}{}{Fene az ügyes fajtáját!}
+
+{2029}{}{Aggghhh!}
+{2030}{}{Óóó!}
+#
+# target hit in left arm
+#
+{2031}{}{Aggghhh! A karom!}
+{2032}{}{A karom!}
+{2033}{}{Aú!}
+#
+# target hit in right arm
+#
+{2034}{}{Aggghhh! A karom!}
+{2035}{}{A karom!}
+{2036}{}{Aú!}
+#
+# target hit in torso
+#
+{2037}{}{Aú!}
+{2038}{}{Ez eléggé fájt...}
+{2039}{}{Argh!}
+{2040}{}{Jaj!}
+{2041}{}{}
+{2042}{}{Úúf!}
+{2043}{}{Aú!}
+#
+# target hit in right leg
+#
+{2044}{}{Aggghhh! A lábam!}
+{2045}{}{A lábam!}
+{2046}{}{A lábam!}
+#
+# target hit in left leg
+#
+{2047}{}{Aggghhh! A lábam!}
+{2048}{}{A lábam!}
+{2049}{}{Aú!}
+#
+# target hit in eyes
+#
+{2050}{}{Aggghhh! Megvakultam!}
+{2051}{}{Hogy a franc esne beléd!}
+{2052}{}{A szemem!}
+#
+# target hit in groin
+#
+{2053}{}{Jajjj!}
+{2054}{}{Óóóóóóóóóó!}
+{2055}{}{Nem... kapok... levegõt...}
+{2056}{}{}
+{2057}{}{Nagyon fáj, nagyon fáj...}
+{2058}{}{Francba!}
+
+# 12. Careful
+# I don't want to fight. Just let me walk away.
+#
+#  running away
+#
+{2100}{}{Na, jó, én most mentem...!}
+{2101}{}{Kegyelem! Kegyelem!}
+{2102}{}{Kérlek, hagyd abba!}
+{2103}{}{Segítség!}
+{2104}{}{}
+{2105}{}{Jobb lesz, ha felhagyok ezzel az egésszel...}
+#
+# moving in to attack
+#
+{2106}{}{}
+{2107}{}{}
+{2108}{}{Nem sok kedvem van ehhez!}
+{2109}{}{Széttrancsírozlak!}
+
+{2110}{}{Nem sok kedvem van ehhez!}
+{2111}{}{Remélem, simán megúszom...}
+#
+# attacking
+#
+{2112}{}{}
+{2113}{}{Te akartad!}
+{2114}{}{Nincs sok kedvem harcolni, de hát....}
+{2115}{}{}
+{2116}{}{Miért kellett ez az egész?}
+{2117}{}{Én nem akartam ezt!}
+{2118}{}{Ne vedd személyeskedésnek...}
+{2119}{}{Remélem, nem foglak túlságosan megsebesíteni...}
+{2120}{}{Gondolom, tudatában vagy, hogy ezt te kezdted!}
+{2121}{}{}
+#
+# target being missed
+#
+{2122}{}{Hííjjj!}
+{2123}{}{Tényleg nem kéne ezt mûvelned!}
+{2124}{}{Hé, ez még fájhatott is volna, ha eltalál!}
+{2125}{}{Nem kéne harcolnunk!}
+{2126}{}{Az erõszak nem oldja meg a problémákat!}
+{2127}{}{Látom, nem teljes szívvel csinálod!}
+#
+# target hit in head
+#
+{2128}{}{Ne már az arcomat!}
+{2129}{}{Ah, a fejem!}
+{2130}{}{Aú! A fülem!}
+#
+# target hit in left arm
+#
+{2131}{}{Aú, a karom!}
+{2132}{}{Jaj!}
+{2133}{}{Eltörted a karomat!}
+#
+# target hit in right arm
+#
+{2134}{}{Aú, a karom!}
+{2135}{}{Úhhhh!}
+{2136}{}{Eltörted a karomat!}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2137}{}{Aú, a lábam!}
+{2138}{}{A térdem!}
+{2139}{}{Aú! Szétment a lábam!}
+#
+# target hit in left leg
+#
+{2140}{}{Aú, a lábam!}
+{2141}{}{A térdem!}
+{2142}{}{Aú! Szétment a lábam!}
+#
+# target hit in eyes
+#
+{2143}{}{Megvakultam!}
+{2144}{}{Vért könnyezem!}
+{2145}{}{Ez fájt...}
+#
+# target hit in groin
+#
+{2146}{}{Óóóóóó, az ágyékom!}
+{2147}{}{}
+{2148}{}{}
+{2149}{}{Nem... kapok... levegõt...}
+{2150}{}{A golyóm!}
+{2151}{}{Óóóó! Most le kell feküdnöm egy kicsit...}
+
+# 13.  Super Mutant
+# We are Chosen! You are dead!
+#
+#  running away
+#
+{2200}{}{Futás!}
+{2201}{}{Nem fogsz megölni!}
+{2202}{}{Még visszatérek!!}
+{2203}{}{A barátaim megbosszulnak majd!}
+{2204}{}{Ezért még megfizetsz... de nem most!}
+{2205}{}{Mi vagyunk a Kiválasztottak! Jössz te még a mi utcánkba!}
+#
+# moving in to attack
+#
+{2206}{}{Közeleg a halálod!}
+{2207}{}{Ütött az órád!}
+{2208}{}{Emberek fegyverei nem árthatnak nekem!}
+{2209}{}{Nagyon, de nagyon szenvedni fogsz!}
+{2210}{}{Az ujjaimmal fogom szétmorzsolni a koponyádat!}
+{2211}{}{Mi vagyunk a jövõ és csak nevetünk a fajtádon!}
+#
+# attacking
+#
+{2212}{}{Ez itt a vég!}
+{2213}{}{Senki nem fog megmenteni!}
+{2214}{}{Most pedig meghalsz!}
+{2215}{}{Tüzes Halállal fogsz halni!}
+{2216}{}{Ma belépsz a Pokol kapuján!}
+{2217}{}{Nevetve gyilkolok!}
+{2218}{}{Iszok a véredbõl!}
+{2219}{}{Most pedig meghalsz!}
+{2220}{}{Ütött a halál órája!}
+{2221}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{2222}{}{Minek szenvedsz itt nekem??}
+{2223}{}{Az emberek ennyire képesek?}
+{2224}{}{Nulla vagy!}
+{2225}{}{Kiköpöm a belem a röhögéstõl...}
+{2226}{}{Ez támadás akart lenni??}
+{2227}{}{Egy nagy semmi vagy!}
+#
+# target hit in head
+#
+{2228}{}{Ahhhgh! Az arcom!}
+{2229}{}{Az arcom! Szenvedni fogsz!}
+{2230}{}{Ahhhgh! Apró cafatokre téplek!}
+#
+# target hit in left arm
+#
+{2231}{}{Ahhhgh!}
+{2232}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{2233}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{2234}{}{Ahhhgh!}
+{2235}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{2236}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{2237}{}{Argh!}
+{2238}{}{Grrrr!}
+{2239}{}{Ez hiba volt részedrõl! Nagyon nagy hiba!}
+{2240}{}{Argh!}
+{2241}{}{Grrrr!}
+{2242}{}{Hahahaha! Ezt nevezed te fájdalomnak?}
+{2243}{}{Arrr!}
+#
+# target hit in right leg
+#
+{2244}{}{Ahhhgh! A lábam!}
+{2245}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{2246}{}{Ahhhgh! Eltörlek, mint egy gallyat!}
+#
+# target hit in left leg
+#
+{2247}{}{Ahhhgh! A lábam!}
+{2248}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{2249}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{2250}{}{Ahhhgh! Szerencsétlen ember! Megvakultam!}
+{2251}{}{Ahhhgh! Fáj! Mit tettél?!}
+{2252}{}{Ahhhgh! Napokig foglak kínozni!}
+#
+# target hit in groin
+#
+{2253}{}{Ez emberi gyengeség!}
+{2254}{}{Ott nem okozhatsz sérülést!}
+{2255}{}{Hülye ember vagy, semmi egyéb!}
+{2256}{}{Mér' "ott" támadsz engem, mi?}
+{2257}{}{Fájdalmas halálod lesz, ember!}
+{2258}{}{Ezért halált érdemelsz...}
+
+# 14. Nightkin
+# We are the Chosen of the Mester, and all must bow before us. (Damn these bastards are really arrogant); my interpretation is that these boys are smarter and more cunning than garden variety super mutants.
+#
+# running away
+#
+{2300}{}{Hátrálni!! Hátrálni!!}
+{2301}{}{A Mester elpusztít ezért!}
+{2302}{}{Ennek még korántsincs vége!}
+{2303}{}{A Mester bosszúja utolér majd!}
+{2304}{}{Drágán megfizetsz még ezért... de majd máskor!}
+{2305}{}{Egy másik alkalommal tort ülök a hullád felett!}
+#
+# moving in to attack
+#
+{2306}{}{Rögvest meghalsz!}
+{2307}{}{Feldühítetted a feljebbvalóidat, most megfizetsz érte!}
+{2308}{}{Eljöttem az ellenségeimért, kezemben a Szentséges Láng!}
+{2309}{}{Azokat, akik szembeszegülnek az Egységgel, elsöpörjük!}
+{2310}{}{Halál a Mester ellenségeire!}
+{2311}{}{Mi vagyunk a jövõ, ti csak a múlt!}
+#
+# attacking
+#
+{2312}{}{Ez itt a vég!}
+{2313}{}{Se isten, se ember nem menthet meg téged!}
+{2314}{}{Üdvözlet a sírodban!}
+{2315}{}{Ezt a Mester küldi!}
+{2316}{}{Ma megjárod a poklot!}
+{2317}{}{Elégsz a kezem által!}
+{2318}{}{A Mester nevében, halál rád!}
+{2319}{}{Jöjjön a halálos csapás!}
+{2320}{}{A Szentséges Lánggal foglak szétégetni!}
+{2321}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{2322}{}{Szánalmas vagy! Minek küzdesz egyáltalán?!}
+{2323}{}{Az emberiség össz-vissz ennyit tud felmutatni?}
+{2324}{}{Olyan gyenge a támadásod, mint a lelked!}
+{2325}{}{Ez volt az utolsó tévedésed!}
+{2326}{}{A Mester megvédelmez az Ellenségeitõl!}
+{2327}{}{A Kiválasztottakat nem tudod megsebezni!}
+#
+# target hit in head
+#
+{2328}{}{Ezért szenvedni fogsz!}
+{2329}{}{Ezért szenvedni fogsz!}
+{2330}{}{Ahhhgh! Darabokra foglak cincálni!}
+#
+# target hit in left arm
+#
+{2331}{}{Ahhhgh! A karom!}
+{2332}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2333}{}{Ahhhgh! Ezért az összes csontodat összetöröm!}
+#
+# target hit in right arm
+#
+{2334}{}{Ahhhgh! A karom!}
+{2335}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2336}{}{Ahhhgh! Ezt keservesen megbánod!}
+#
+# target hit in torso
+#
+{2337}{}{Argh!}
+{2338}{}{Döh!}
+{2339}{}{Mester!}
+{2340}{}{Megszégyenítettél...}
+{2341}{}{Argh!}
+{2342}{}{Grrr!}
+#
+# target hit in right leg
+#
+{2343}{}{Ahhhgh! A lábam!}
+{2344}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2345}{}{Ahhhgh! Kettétörlek!}
+#
+# target hit in left leg
+#
+{2346}{}{Ahhhgh! A lábam!}
+{2347}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2348}{}{Ahhhgh! Ezért szétzúzlak!}
+#
+# target hit in eyes
+#
+{2349}{}{Ahhhgh! Szerencsétlen ember! Megvakítottál!}
+{2350}{}{Ahhhgh! Ez fáj! Mit tettél?!}
+{2351}{}{Ahhhgh! Ezért napokig fogsz kínlódni!}
+#
+# target hit in groin
+#
+{2352}{}{Nekem ez nem olyan gyengeség, mint neked, ember!}
+{2353}{}{Odalent sokkal erõsebb vagyok nálatok, emberfatty!}
+{2354}{}{Szánalmas egy taktika ez, emberke!}
+{2355}{}{A Mester megvéd engem, ember!}
+{2356}{}{A halálod még fájdalmasabb lesz, ember!}
+{2357}{}{Úúf! Azt hiszem, mindjárt rátérünk a te gyenge pontjaidra!}
+
+# 15. Children, Brainwashed (Cathedral)
+# The Master protects us, and none may bring us death or even suffering!
+#
+#  running away
+#
+{2400}{}{Mester! Miért pártoltál el tõlem?}
+{2401}{}{A mester bosszút fog állni értem!}
+{2402}{}{Mesterem, bocsáss meg, de menekülnöm kell!}
+{2403}{}{Nem félsz a megtorlástól?}
+{2404}{}{Szentséges Láng, védj meg!}
+{2405}{}{Segíts, Mester, segíts!}
+#
+# moving in to attack
+#
+{2406}{}{A Mester ellenségei a Szentséges Lángban fognak elégni!}
+{2407}{}{A Mester ellenségeinek mind meg kell halnia!}
+{2408}{}{Az Egység mindenek felett!}
+{2409}{}{A Gyermekek vérét meg kell torolni!}
+{2410}{}{A békét az ellenségek vérével kell táplálni!}
+{2411}{}{Adassék meg az Egység, vagy jöjjön a Halál!}
+#
+# attacking
+#
+{2412}{}{Ne fuss el, a barátaid vagyunk!}
+{2413}{}{A Mester nevében, meghalsz!}
+{2414}{}{Vesd szemed a Szentséges Lángra!}
+{2415}{}{Öleld meg a tüzet, érintsd meg a sírod!}
+{2416}{}{Éljen az Egység!}
+{2417}{}{Senki nem állíthatja meg a Béke szent ügyét!}
+{2418}{}{Nem vethetsz gátat az Egységnek!}
+{2419}{}{Az Egységért!}
+{2420}{}{Mester, áldj meg engem!}
+{2421}{}{El fogsz égni a Szentséges Lángban!}
+#
+# target being missed
+#
+{2422}{}{A Mester megvéd engem!}
+{2423}{}{Dícsértessék a Mester, te sosem fogsz belémsebezni!}
+{2424}{}{Köszönöm, Mester!}
+{2425}{}{Hatalmas a Mester kegyelme!}
+{2426}{}{Engem a Szentséges Láng védelmez!}
+{2427}{}{Nem árthatsz a Gyermekeknek!}
+#
+# target hit in head
+#
+{2428}{}{Agghhh! Valami eltalált!}
+{2429}{}{Mester! Védj meg engem!}
+{2430}{}{Úúf!}
+#
+# target hit in left arm
+#
+{2431}{}{A karom!}
+{2432}{}{A Mester meggyógyítja majd a sebeimet...}
+{2433}{}{Mester! Mit tettek velem?!}
+#
+# target hit in right arm
+#
+{2434}{}{Aú, a karom!}
+{2435}{}{A Mester meggyógyítja majd a sebeimet...}
+{2436}{}{Mester! Mit tettek velem?!}
+#
+# target hit in torso
+#
+{2437}{}{Úúf!}
+{2438}{}{Aúúú!}
+{2439}{}{Mester, védj meg!}
+{2440}{}{Mester, állj bosszút értem!}
+{2441}{}{(Nyel egy nagyot.)}
+#
+# target hit in right leg
+#
+{2442}{}{Aú, a lábam!}
+{2443}{}{Eltörted a lábam!}
+{2444}{}{Mester! Mit tettek velem?!}
+#
+# target hit in left leg
+#
+{2445}{}{A lábam!}
+{2446}{}{Eltörted a lábam!}
+{2447}{}{Mester! Mit tettek velem?!}
+#
+# target hit in eyes
+#
+{2448}{}{Mester, megvakultam!}
+{2449}{}{Mester, ég a szemem!}
+{2450}{}{Mester, nem látok semmit!}
+#
+# target hit in groin
+#
+{2451}{}{Óóóóóó, az ágyékom!}
+{2452}{}{Mester!}
+{2453}{}{Mester, védelmezz a fájdalomtól!}
+{2454}{}{Nem... kapok... levegõt...}
+{2455}{}{Mester, kíméletlen az ellenség!!}
+{2456}{}{Mester, kíméletlen az ellenség!!}
+
+# 16. Children, Brainwashed (Hub)
+# The Master protects us, and none may bring us death or even suffering!
+#
+#  running away
+#
+{2500}{}{Miért pártoltál el tõlem?}
+{2501}{}{Megbosszulnak majd!}
+{2502}{}{Bocsáss meg, de most menekülnöm kell!}
+{2503}{}{Nem félsz a megtorlástól?}
+{2504}{}{Szentséges Láng, védj meg!}
+{2505}{}{Szentséges Láng, vigyázz rám, menekülnöm kell!}
+#
+# moving in to attack
+#
+{2506}{}{Az ellenségeinket a Szentséges Lánban kell agyonégetni!}
+{2507}{}{Az összes ellenségnek meg kell halnia!}
+{2508}{}{Az Egység mindenek felett!}
+{2509}{}{A Gyermekek vére megbosszultatik!}
+{2510}{}{A Békét az ellenségeink vérével kell táplálnunk!}
+{2511}{}{}
+#
+# attacking
+#
+{2512}{}{Meghalsz!}
+{2513}{}{A Láng nevében most meghalsz!}
+{2514}{}{Vesd szemed a Szentséges Lángra!}
+{2515}{}{A Béke nevében, halál rád!}
+{2516}{}{Éljen az Egység!}
+{2517}{}{Senki nem állíthatja meg a Béke szent ügyét!}
+{2518}{}{Szentségtörõ!}
+{2519}{}{Ne fuss el, mi a barátaid vagyunk!}
+{2520}{}{Mester, áldj meg engem!}
+{2521}{}{A Szentséges Lángban fogsz elégni, te szentségtörõ!}
+#
+# target being missed
+#
+{2522}{}{A Mester megvéd engem!}
+{2523}{}{Dícsértessék a Szentséges Láng, te sosem fogsz belémsebezni!}
+{2524}{}{Hamis istent követsz!}
+{2525}{}{A gonoszság magát pusztítja el!}
+{2526}{}{Engem a Szentséges Láng védelmez!}
+{2527}{}{Nem árthatsz a Gyermekeknek!}
+#
+# target hit in head
+#
+{2528}{}{Agghhh! Valami eltalált!}
+{2529}{}{Mester! Védj meg engem!}
+{2530}{}{Aú!}
+#
+# target hit in left arm
+#
+{2531}{}{Aú, a karom!}
+{2532}{}{Eltörted a karomat!}
+{2533}{}{Mit tettél velem?!}
+#
+# target hit in right arm
+#
+{2534}{}{Aú, a karom!}
+{2535}{}{Eltörted a karomat!}
+{2536}{}{Te bûnös!}
+#
+# target hit in torso
+#
+{2537}{}{Jaj!  Ez fájt!}
+{2538}{}{!*&^@#!}
+{2539}{}{Óh, óh, Ez fájt!}
+{2540}{}{Jaj!}
+{2541}{}{Óóhhh!}
+{2542}{}{Úúf!}
+#
+# target hit in right leg
+#
+{2543}{}{Aú, a lábam!}
+{2544}{}{Eltörted a lábam!}
+{2545}{}{Mit tettél?!}
+#
+# target hit in left leg
+#
+{2546}{}{Aú, a lábam!}
+{2547}{}{Eltörted a lábam!}
+{2548}{}{^%@!!}
+#
+# target hit in eyes
+#
+{2549}{}{Nem látok semmit!}
+{2550}{}{A szemem!}
+{2551}{}{Megvakultam a bûneim miatt!}
+#
+# target hit in groin
+#
+{2552}{}{Óóóóóó, az ágyékom!}
+{2553}{}{Óóóóóó, igazi gonosz lakik benned!!!}
+{2554}{}{Szentséges Láng, védd meg a magomat!}
+{2555}{}{Nem... kapok... levegõt...}
+{2556}{}{Nem... kapok... levegõt...}
+{2557}{}{Az ellenség kérlelhetetlen!}
+
+# 17. Children, Non-Brainwashed
+# Get some zombies in here to take care of this pest!
+#
+#  running away
+#
+{2600}{}{Az Egyházunk el fog kapni!}
+{2601}{}{Az egyházunk tud törõdni magával...}
+{2602}{}{Segítség!}
+{2603}{}{}
+{2604}{}{Majd valami másik balfasz elkap téged!}
+{2605}{}{Ezért nem fogok meghalni!}
+#
+# moving in to attack
+#
+{2606}{}{}
+{2607}{}{Küldjük a föld alá ezt a gonosztevõt!}
+{2608}{}{Itt az idõ, hogy meghalj!}
+{2609}{}{Neked nem szabadna itt lenned!}
+{2610}{}{Itt az idõ, hogy kivigyük a szemetet...}
+{2611}{}{Megfizetsz a "bûneidért"!}
+#
+# attacking
+#
+{2612}{}{Ezt kapd ki!}
+{2613}{}{Te szarházi!}
+{2614}{}{Most véged!}
+{2615}{}{Gyerünk, apafej, adjunk a témának!}
+{2616}{}{Eltángállak, hogy attól koldulsz!}
+{2617}{}{Eltángállak, hogy attól koldulsz!}
+{2618}{}{}
+{2619}{}{}
+{2620}{}{Megcsókolhatod a szentséges lángomat, kispajtás!}
+{2621}{}{Megcsókolhatod a szentséges lángomat, kispajtás!}
+#
+# target being missed
+#
+{2622}{}{Ha, ez mellé ment!}
+{2623}{}{Ezt a balféket!}
+{2624}{}{Ha, mellé!}
+{2625}{}{Te még a zombiknál is nagyobb balek vagy!}
+{2626}{}{Tanított már valaki célozni az életben?}
+{2627}{}{Te még a zombiknál is nagyobb balek vagy!}
+#
+# target hit in head
+#
+{2628}{}{Úhhhh!}
+{2629}{}{Úúf!}
+{2630}{}{Francba! Ez fájt!}
+#
+# target hit in left arm
+#
+{2631}{}{Aú, a karom!}
+{2632}{}{Ezért nagy árat fogsz fizetni!}
+{2633}{}{Ezért a húzásért mindkét karodat eltöröm!}
+#
+# target hit in right arm
+#
+{2634}{}{Aú, a karom!}
+{2635}{}{Ezért nagy árat fogsz fizetni!}
+{2636}{}{Ezért a húzásért mindkét karodat eltöröm!}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2637}{}{Aú, a lábam!}
+{2638}{}{Ezért nagy árat fogsz fizetni!}
+{2639}{}{Te ^&!$%@! Most elkaplak!}
+#
+# target hit in left leg
+#
+{2640}{}{Aú, a lábam!}
+{2641}{}{Ezért nagy árat fogsz fizetni!}
+{2642}{}{Aú!}
+#
+# target hit in eyes
+#
+{2643}{}{Ezért a húzásért megkapod a magadét!}
+{2644}{}{A szemem! Ezt nagyon megbánod még!}
+{2645}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{2646}{}{Úhhh, nagyon beletrafáltál!}
+{2647}{}{Francba, ez fájt!}
+{2648}{}{!%@$ #^%!@# ^#$%@^#!!!}
+{2649}{}{Óhh, a büdös francba!}
+{2650}{}{}
+{2651}{}{}
+
+# 18. The Master
+# Unity is its own protection. My enemies will not withstand me. Withstand.
+#
+#  running away
+#
+{2700}{}{Ez a harc szükségtelen...}
+{2701}{}{Megbosszulnak majd!}
+{2702}{}{Rövid életû lesz a dicsõséged!}
+{2703}{}{Az Egységet akkor sem gyõzheted le!}
+{2704}{}{A szolgáim megvédenek engem!}
+{2705}{}{Csak a remény hal meg utoljára!}
+#
+# moving in to attack
+#
+{2706}{}{A bûneidért elnyered méltó büntetésed!}
+{2707}{}{Az ellenségnek meg kell halnia! Halál rájuk!}
+{2708}{}{Az Egység mindenek felett! Mindenek felett!}
+{2709}{}{Nem fogjuk engedni, hogy megsemmisítsd a világunkat!}
+{2710}{}{Meg kell õrizni a jövõt! Meg kell õrizni! Meg kell õrizni!}
+{2711}{}{Jöjjön az Egység, vagy jöjjön a Halál! Halál!}
+#
+# attacking
+#
+{2712}{}{Meghalsz!}
+{2713}{}{Halálnak halálával fogsz pusztulni!}
+{2714}{}{Megpecsételted a saját pusztulásod!}
+{2715}{}{Fizetni fogsz a tetteidért! A tetteidért!}
+{2716}{}{Éljen az Egység!}
+{2717}{}{Senki nem állíthatja meg a Béke szent ügyét! Senki!}
+{2718}{}{Semmi más nem vár már rád, csak a láng. A Láng!}
+{2719}{}{Legyen ez a sírfeliratod...}
+{2720}{}{Egy nagy semmi vagy! Egy nagy semmi!}
+{2721}{}{Itt most véget ér szánalmas létezésed!}
+#
+# target being missed
+#
+{2722}{}{Próbálkozásaid hiábavalóak! Hiábavalóak!}
+{2723}{}{Nem gyõzedelmeskedhetsz felettem!}
+{2724}{}{Megint hibáztál!}
+{2725}{}{A gonoszság magát pusztítja el!}
+{2726}{}{Nem te leszel a túlélõ!}
+{2727}{}{A teljesítményed nem kielégítõ!}
+#
+# target hit in head
+#
+{2728}{}{Fejsérülés...}
+{2729}{}{Nem mondhatnám, hogy élveztem ezt a fájdalmat...}
+{2730}{}{Ezzel nem fogsz kiiktatni, az biztos!}
+#
+#
+# target hit in frame
+#
+{2731}{}{Gondolod, hogy ott megsebezhetsz?}
+{2732}{}{Kis seb ez, ember, kis seb...}
+{2733}{}{Mondjuk úgy, hogy ez fájt egy kissé...}
+{2734}{}{Nincs áramköri/szervi sérülés, amit ne lehetne késõbb helyrepofozni!}
+{2735}{}{Meghalsz! Meghalsz!}
+#
+# target hit in CPU
+#
+{2736}{}{Rendszer sérült, kompenzáció...}
+{2737}{}{Rendszer sérült, apró sérülést észleltem...}
+{2738}{}{Rendszer sérült, rendszer sérült, rendszer sérült...}
+
+# 19. Ghoul, Nasty
+# Now you'll find out why it's called the Necropolis
+#
+#  running away
+{2800}{}{Húzás elfelé!}
+{2801}{}{Még visszatérek...}
+{2802}{}{Nem fogsz te megölni ma!}
+{2803}{}{Késõbb, humán!}
+{2804}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+{2805}{}{Drágán megfizetsz még ezért... de majd máskor!}
+#
+# moving in to attack
+#
+{2806}{}{Annyi neked!}
+{2807}{}{Friss hús...}
+{2808}{}{Ah, megérkezett a kaja!}
+{2809}{}{Agyat akarok enni!}
+{2810}{}{Megásom a sírodat!}
+{2811}{}{Remélem, érintetlen marad a fejed...}
+#
+# attacking (10)
+#
+{2812}{}{Meg vannak számlálva a perceid!}
+{2813}{}{Ne is kiabálj kegyelemért!}
+{2814}{}{Ezt élvezni fogom!}
+{2815}{}{Óóóóhh, ez nagyon fog fájni!}
+{2816}{}{}
+{2817}{}{Megeszem a májad!}
+{2818}{}{Remélem, lassan fogsz meghalni!}
+{2819}{}{Vacsiidõ!}
+{2820}{}{Meghalsz!}
+{2821}{}{Reggelire és ebédre is ilyen punkokat eszek!}
+#
+# target being missed (6)
+#
+{2822}{}{Nem tudsz megsebesíteni!}
+{2823}{}{}
+{2824}{}{Ez mellé ment, humán!}
+{2825}{}{Ez mellé ment, humán!}
+{2826}{}{Nem tudod megölni azt, amit el sem tudsz találni!}
+{2827}{}{Lassú vagy!}
+#
+# target hit in head (3)
+#
+{2828}{}{Jaj, az én csini arcom!}
+{2829}{}{Aú! A fejem!}
+{2830}{}{Úúf!}
+#
+# target hit in left arm
+#
+{2831}{}{A kezem!}
+{2832}{}{Aú!}
+{2833}{}{Ajjjaj!!}
+#
+# target hit in right arm
+#
+{2834}{}{Aú, a karom!}
+{2835}{}{Eltörted a karomat!}
+{2836}{}{Ezt még nagyon megbánod!}
+#
+# target hit in torso
+#
+{2837}{}{(Felhördül!)}
+{2839}{}{A picsába!}
+{2840}{}{Grrr!}
+{2841}{}{Ezt még nagyon megbánod!}
+{2842}{}{Addig kéne abbahagynod, amíg lehet!}
+{2843}{}{}
+{2844}{}{}
+#
+# target hit in right leg
+#
+{2845}{}{Aú, a lábam!}
+{2846}{}{Ezért még nagyon, de nagyon megfizetsz!}
+{2847}{}{Argh! Eltörted a lábam, ezért eltöröm a nyakad!}
+#
+# target hit in left leg
+#
+{2848}{}{A lábam!}
+{2849}{}{}
+{2850}{}{}
+#
+# target hit in eyes
+#
+{2851}{}{Francos vér ment a szemembe!}
+{2852}{}{A szemem! Ezt nagyon megbánod még!}
+{2853}{}{Mocsadék!}
+#
+# target hit in groin
+#
+{2854}{}{Óóóóóó, az ágyékom!}
+{2855}{}{Óóó! Ezt a fogást meg kell tanulnom...}
+{2856}{}{Embertelen disznó!}
+{2857}{}{AAAAAAAAAAAAJJJJJJJJJ!}
+{2858}{}{Örh!}
+{2859}{}{Úúf! Ezért meg foglak ölni!}
+
+# 20. Super Mutant, Necropolis
+# The lesser species need to know when to stand aside. (Damn, these bastards are arrogant)
+#
+#  running away
+#
+{2900}{}{Hátrálni!! Hátrálni!!}
+{2901}{}{Hát nem ma fosz megölni!}
+{2902}{}{Ennek még korántsincs vége!}
+{2903}{}{A barátaim megbosszulnak majd!}
+{2904}{}{Drágán megfizetsz még ezért... de majd máskor!}
+{2905}{}{Egy másik alkalommal tort ülök a hullád felett!}
+#
+# moving in to attack
+#
+{2906}{}{Megöllek, ember!}
+{2907}{}{Senki nem köthet belénk bántatlanul!}
+{2908}{}{Szánalmas fegyvereid semmit nem érnek ellenem!}
+{2909}{}{Na, még egy áldozat, aki játszadozni akar...}
+{2910}{}{Gyorsan véget vetek a szenvedésednek!}
+{2911}{}{}
+#
+# attacking
+#
+{2912}{}{}
+{2913}{}{}
+{2914}{}{Most pedig meghalsz!}
+{2915}{}{Így bánunk a bolondokkal!}
+{2916}{}{Ezt nagyon élvezni fogom!}
+{2917}{}{}
+{2918}{}{Az isteneid most cserben hagytak!}
+{2919}{}{Akarom hallani, ahogy üvöltesz!}
+{2920}{}{Most pedig ütött a halál órája!}
+{2921}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{2922}{}{Szánalmas vagy! Minek küzdesz egyáltalán?!}
+{2923}{}{Az emberiség össz-vissz ennyit tud felmutatni?}
+{2924}{}{Olyan gyenge a támadásod, mint a lelked!}
+{2925}{}{Ez volt az utolsó tévedésed!}
+{2926}{}{Ostoba alak! Még te akarsz engem legyõzni?!}
+{2927}{}{Szánalmas...!}
+#
+# target hit in head
+#
+{2928}{}{Ahhhgh! Az arcom!}
+{2929}{}{Az arcom! Ezért szenvedni fogsz!}
+{2930}{}{Ahhhgh! Darabokra foglak cincálni!}
+#
+# target hit in left arm
+#
+{2931}{}{Ahhhgh! A karom!}
+{2932}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2933}{}{Ahhhgh! Kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{2934}{}{Ahhhgh! A karom!}
+{2935}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2936}{}{Ahhhgh! Kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{2937}{}{Nekropolisz szenvedni fog miattad!}
+{2938}{}{Úúf!}
+{2939}{}{Arg!}
+{2940}{}{(Mosolyog)}
+{2941}{}{Ez nem fájt!}
+{2942}{}{Tudsz te ennél jobbat is!}
+{2943}{}{Még a ghoulok is keményebbek nálad!}
+{2944}{}{}
+{2945}{}{}
+{2946}{}{Haha! Ezt a béna próbálkozást... (felhördül)}
+#
+# target hit in right leg
+#
+{2947}{}{Ahhhgh! A lábam!}
+{2948}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2949}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in left leg
+#
+{2950}{}{Ahhhgh! A lábam!}
+{2951}{}{Ahhhgh! Engem nem lehet olyan könnyen legyõzni!}
+{2952}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{2953}{}{Ahhhgh! Szerencsétlen ember! Megvakítottál!}
+{2954}{}{Ahhhgh! Ez fáj! Mit tettél?!}
+{2955}{}{Ahhhgh! Ezért napokig fogsz kínlódni!}
+#
+# target hit in groin
+#
+{2956}{}{Én nem vagyon ugyanolyan gyenge, mint te, ember!}
+{2957}{}{Az ágyékom erõsebb, mint a tied, ember!}
+{2958}{}{Micsoda szánalmas taktika, ember!}
+{2959}{}{Ember, ott én nem vagyok sérülékeny, mint te!}
+{2960}{}{A halálod még fájdalmasabb lesz, ember!}
+{2961}{}{Talán le kéne tesztelnem a gyenge pontjaidat...}
+
+# 21. Guard, Raider
+# You're dead! I do hope you have cool stuff...
+#
+#  running away
+{3000}{}{Menekülés! Menekülés!}
+{3001}{}{Visszavonulás!}
+{3002}{}{Gyülekezõ!}
+{3003}{}{Hátrálni!!}
+{3004}{}{Visszavonulás!}
+{3005}{}{Aaaaghhh!}
+#
+# moving in to attack
+#
+{3006}{}{Megölni ezt a bolondot!}
+{3007}{}{Friss hús...}
+{3008}{}{Zsákmány!}
+{3009}{}{Ez itt az enyém!}
+{3010}{}{Elkapni!}
+{3011}{}{}
+#
+# attacking (10)
+#
+{3012}{}{Élvezd ki az életed utolsó pillanatát!}
+{3013}{}{Vért! Vért! Vért!}
+{3014}{}{A szíved az enyém!}
+{3015}{}{RAAAAAAARRRR!!}
+{3016}{}{A fegyvereidet trófeaként fogom hazavinni!}
+{3017}{}{Halál!}
+{3018}{}{Meg foglak ölni!}
+{3019}{}{A csontod a pusztaságban fog szétmállani!}
+{3020}{}{Vér és sötétség!}
+{3021}{}{}
+{3022}{}{Kicsinálni ezt a mocskos disznót!}
+#
+# target being missed (6)
+#
+{3023}{}{Hiábavaló a próbálkozás!}
+{3024}{}{Csõdöt mondtál!}
+{3025}{}{Az én vérem erõsebb, mint a tied!}
+{3026}{}{Még élek!!}
+{3027}{}{A tested gyenge és szánalmas!}
+#
+# target hit in head (3)
+#
+{3028}{}{Aaaagghh! Az arcom!}
+{3029}{}{#@$^!! %%$^&!!?!}
+{3030}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{3031}{}{Aú, a karom!}
+{3032}{}{Eltörted a karomat!}
+{3033}{}{Ezért meghalsz!}
+#
+# target hit in right arm
+#
+{3034}{}{Aú, a karom!}
+{3035}{}{Eltörted a karomat!}
+{3036}{}{Ezért meghalsz!}
+#
+# target hit in torso
+#
+{3037}{}{}
+{3038}{}{Ez neked fájdalom?}
+{3039}{}{Jaj!}
+{3040}{}{Úúf!}
+{3041}{}{Francba! Ez fájt!}
+{3042}{}{Gyere csak, ugyanezt fogom csinálni veled!}
+{3043}{}{Esküszöm, megbánod te ezt még!}
+{3044}{}{(Levegõért kapkod)}
+{3045}{}{}
+{3046}{}{Aúhh! Ez nagyon ott volt!}
+#
+# target hit in right leg
+#
+{3047}{}{Aú, a lábam!}
+{3048}{}{Ezért meghalsz!}
+{3049}{}{Argh! Eltörted a lábam, ezért eltöröm a nyakad!}
+#
+# target hit in left leg
+#
+{3050}{}{Aú, a lábam!}
+{3051}{}{Ezért meghalsz!}
+{3052}{}{Argh!!}
+#
+# target hit in eyes
+#
+{3053}{}{Argh! Darabokra foglak tépni!}
+{3054}{}{A szemem!}
+{3055}{}{A szemem! Lassú halálod lesz!}
+#
+# target hit in groin
+#
+{3056}{}{Óóóóóó, az ágyékom!}
+{3057}{}{Óóó! Sokat... fogsz... szenvedni...}
+{3058}{}{Óóó! Most... meg... foglak...}
+{3059}{}{Óóó! Szétkaszabollak!}
+{3060}{}{Örh!}
+{3061}{}{Ezért rögtön megöllek!}
+
+# 22. Leader, Raider
+# I feast on the hearts of my enemies!
+#
+#  running away
+{3100}{}{Khan banda! Fedezzetek!}
+{3101}{}{Visszavonulás!}
+{3102}{}{Gyülekezõ!}
+{3103}{}{Hátrálni!!}
+{3104}{}{Visszavonulás!}
+{3105}{}{Aaaaghhh!}
+#
+# moving in to attack
+#
+{3106}{}{Kezdõdjön a tánc!}
+{3107}{}{Friss hús...}
+{3108}{}{Zsákmány!}
+{3109}{}{Ez itt az enyém!}
+{3110}{}{Khan-ok, támadás!}
+{3111}{}{}
+#
+# attacking (10)
+#
+{3112}{}{A Khan-ok megölnek!}
+{3113}{}{Vért! Vért! Vért!}
+{3114}{}{Én vagyok a legjobb!}
+{3115}{}{RAAAAAAARRRR!!}
+{3116}{}{A Khan-ok legyõzhetetlenek!}
+{3117}{}{Nincs visszavonulás! Nincs megadás!}
+{3118}{}{Személyesen foglak kicsinálni!}
+{3119}{}{A csontod a sivatagban fog szétmállani!}
+{3120}{}{Vér és sötétség!}
+{3121}{}{A Khan-ok erõsek!}
+#
+# target being missed (6)
+#
+{3122}{}{}
+{3123}{}{Engem nem lehet megérinteni!}
+{3124}{}{Legyõzhetetlen vagyok!}
+{3125}{}{Az én vérem erõsebb, mint a tied!}
+{3126}{}{RAAAAAAAAARRRR!!}
+{3127}{}{Nem érsz annyit, hogy leálljak veled harcolni!}
+#
+# target hit in head (3)
+#
+{3128}{}{Ez szép találat volt!}
+{3129}{}{Ez volt az utolsó mozdulatod!}
+{3130}{}{Az orrom!}
+#
+# target hit in left arm
+#
+{3131}{}{Egy kézzel is le tudlak gyõzni!}
+{3132}{}{Eltörted a karom! Mondjuk így legalább kiegyenlített a küzdelem!}
+{3133}{}{Ez volt az utolsó megmozdulásod!}
+#
+# target hit in right arm
+#
+{3134}{}{Egy kézzel is le tudlak gyõzni!!}
+{3135}{}{Eltörted a karom! Mondjuk így legalább kiegyenlített a küzdelem!}
+{3136}{}{Ez volt az utolsó megmozdulásod!}
+#
+# target hit in torso
+#
+{3137}{}{Nagyszabású halálod lesz!}
+{3138}{}{Kikaparom a szemedet ezért!}
+{3139}{}{A picsába...}
+{3140}{}{Úúf!}
+{3141}{}{Jaj!}
+{3142}{}{}
+{3143}{}{(levegõért kapkod)}
+{3144}{}{Jól megfájdult a bordám! Mindjárt teszünk róla, hogy a tied is fájjon. Ez így fair!}
+{3145}{}{}
+{3146}{}{(Hörög)}
+
+#
+# target hit in right leg
+#
+{3147}{}{Ahhoz, hogy megöljelek, állnom sem kell!}
+{3148}{}{Ezért meghalsz!}
+{3149}{}{}
+#
+# target hit in left leg
+#
+{3150}{}{Ahhoz, hogy megöljelek, állnom sem kell!}
+{3151}{}{Ezért meghalsz!}
+{3152}{}{}
+#
+# target hit in eyes
+#
+{3153}{}{Argh! Darabokra foglak tépni!}
+{3154}{}{A szemem! A látásomat a halálodért!}
+{3155}{}{A szemem! Lassú halálod lesz, az biztos!}
+#
+# target hit in groin
+#
+
+{3156}{}{Óóóóóó, az ágyékom!}
+{3157}{}{Óóó! Sokat... fogsz... szenvedni...}
+{3158}{}{Óóó! Most... meg... foglak...}
+{3159}{}{Óóó! Szétkaszabollak!}
+{3160}{}{Örh!}
+{3161}{}{Nem fogsz megfosztani a férfiasságomtól!}
+
+# 23. Peasant, Shady Sands
+# Get out of Shady Sands, you troublemaking scum!
+#
+#  running away
+#
+{3200}{}{Ne gondold, hogy ezzel vége!}
+{3201}{}{Segítség kell!}
+{3202}{}{Valaki segítsen!}
+{3203}{}{Majd találkozunk a bíróságon!}
+{3204}{}{Egyszer még megkapod, amit megérdemelsz!}
+{3205}{}{Ezért nem fogom vásárra vinni a bõrömet!}
+#
+# moving in to attack
+#
+{3206}{}{}
+{3207}{}{}
+{3208}{}{}
+{3209}{}{Nem szeretjük itt a fajtádat!}
+{3210}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{3211}{}{Shady Sands-nek nincs szüksége az ilyenekre!}
+#
+# attacking
+#
+{3212}{}{}
+{3213}{}{Most mindenképpen fájdalmat kell okozzak?}
+{3214}{}{Ezt csináljuk a patkányokkal!}
+{3215}{}{}
+{3216}{}{Így kezeljük a Shady Sands-i problémákat!}
+{3217}{}{Ebbõl majd tanulsz!}
+{3218}{}{Trágyának fogom használni a hulládat!}
+{3219}{}{Jól van! Te akartad!}
+{3220}{}{Te vadállat!}
+{3221}{}{Megbánod még, hogy idemerészkedtél!}
+#
+# target being missed
+#
+{3222}{}{Nem vagy te olyan jó, mint amilyennek hiszed magad!}
+{3223}{}{}
+{3224}{}{Ostobább vagy, mint egy vakondpatkány!}
+{3225}{}{Shady Sands senki elõtt nem fog megalázkodni!}
+
+{3226}{}{}
+{3227}{}{Ez volt az utolsó tévedésed!}
+#
+# target hit in head
+#
+{3228}{}{Francba!}
+{3229}{}{Aggghhh!}
+{3230}{}{Az arcom! Az arcom!}
+#
+# target hit in left arm
+#
+{3231}{}{Aggghhh! A karom!}
+{3232}{}{A karom!}
+{3233}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in right arm
+#
+{3234}{}{Aggghhh! A karom!}
+{3235}{}{A karom!}
+{3236}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in torso
+#
+{3237}{}{Jaj!}
+{3238}{}{Doh!}
+{3239}{}{}
+{3240}{}{Remélem szomjan döglesz... magányosan, elhagyatva...}
+{3241}{}{(levegõért kapkod)}
+{3242}{}{}
+{3243}{}{Kérlek, ne...}
+{3244}{}{}
+{3245}{}{Rossz karma ez, hogy eltaláltál...}
+{3246}{}{Aúúúhh!}
+#
+# target hit in right leg
+#
+{3247}{}{Aggghhh! A lábam!}
+{3248}{}{A lábam!}
+{3249}{}{Francba, a lábamnak annyi...}
+#
+# target hit in left leg
+#
+{3250}{}{Aggghhh! A lábam!}
+{3251}{}{A lábam!}
+{3252}{}{Francba, a lábamnak annyi...}
+#
+# target hit in eyes
+#
+{3253}{}{Aggghhh! Megvakultam!}
+{3254}{}{A rohadt életbe! Tök sötét lett minden!}
+{3255}{}{A szemem! Ezt nagyon megbánod még!}
+#
+# target hit in groin
+#
+{3256}{}{Óóóóóó, az ágyékom!}
+{3257}{}{Óóóóóóóóóoffffff!}
+{3258}{}{Nem... kapok... levegõt...}
+{3259}{}{!}
+{3260}{}{Nagyon fáj, nagyon fáj...}
+{3261}{}{Francba, ez fájt!}
+
+# 24. Guard, Shady Sands
+# I'm staying alert. Never know what's gonna walk out of the wastes
+#
+#  running away (6)
+#
+{3300}{}{Na, jó, én most mentem...}
+{3301}{}{}
+{3302}{}{Aaaaahhhh!}
+{3303}{}{Talán máskor találkozunk...}
+{3304}{}{}
+{3305}{}{Minden jót!}
+#
+# moving in to attack
+#
+{3306}{}{}
+{3307}{}{Na, most akkor mi legyen, mi?}
+{3308}{}{Lerendezlek, ne félj!}
+{3309}{}{Már megint riadóztatnak!}
+{3310}{}{Ha nem a radskorpiók, akkor a fosztogatók...}
+{3311}{}{}
+#
+# attacking
+#
+{3312}{}{}
+{3313}{}{Meghalsz!}
+{3314}{}{Balek!}
+{3315}{}{Punk!}
+{3316}{}{}
+{3317}{}{A perceid meg vannak számlálva!}
+{3318}{}{Most aztán nagy pácban vagy!}
+{3319}{}{Fogadd jó szívvel Shady Sands ajándékát!}
+{3320}{}{Többet nem fogsz itt bajt keverni!}
+{3321}{}{Készülj, mert alulról fogod szagolni az ibolyát!}
+#
+# target being missed
+#
+{3322}{}{Nem volt túl meggyõzõ!}
+{3323}{}{Amatõr!}
+{3324}{}{Szánalmas...}
+{3325}{}{Lassú vagy!}
+{3326}{}{Nem érsz semmit!}
+{3327}{}{Azért ne add fel a reményt!}
+
+#
+# target hit in head
+#
+{3328}{}{Ez fájt!}
+{3329}{}{A szemem!}
+{3330}{}{Aú! Szétcseszted az orrom!}
+#
+# target hit in left arm
+#
+{3331}{}{Aú!}
+{3332}{}{Aú! A karom!}
+{3333}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{3334}{}{Aú!}
+{3335}{}{Aú! A karom!}
+{3336}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{3337}{}{A francba! Ez fájt!}
+{3338}{}{Jaj!}
+{3339}{}{Aú!}
+{3340}{}{}
+{3341}{}{(A bordáit tapogatva...) Jaj!}
+{3342}{}{Ugyan! A városban nincs harcolgatás!}
+{3343}{}{(levegõért kapkod)}
+{3344}{}{Aú! Csalódtam bennetek, kívülállókban...}
+{3345}{}{Úúf!}
+{3346}{}{Ez fájt!}
+#
+# target hit in right leg
+#
+{3347}{}{Aú!}
+{3348}{}{Aú! A térdem!}
+{3349}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{3350}{}{Aú!}
+{3351}{}{Aú! A térdem!}
+{3352}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{3353}{}{Megvakultam!}
+{3354}{}{Nem látok!}
+{3355}{}{De sötét lett...}
+#
+# target hit in groin
+#
+{3356}{}{Óóóóóó, az ágyékom!}
+{3357}{}{Jaaaiiijjj!}
+{3358}{}{Picsába, ez nagyon fáj!}
+{3359}{}{Úúúúhhf!}
+{3360}{}{Örh!}
+{3361}{}{Nem... kapok... levegõt...}
+
+# 25. Leader, Shady Sands
+# I don't want trouble, but it comes around often enough that I know how to deal with it.
+#
+#  running away (6)
+#
+{3400}{}{}
+{3401}{}{}
+{3402}{}{Orvost ide...}
+{3403}{}{Talán máskor találkozunk...}
+{3404}{}{Jobb lesz, ha most távozom...}
+{3405}{}{Minden jót!}
+#
+# moving in to attack
+#
+
+{3406}{}{Nagy hibát követtél el, barátom!}
+{3407}{}{Na, most akkor mi legyen, mi?}
+{3408}{}{Lerendezlek, ne félj!}
+{3409}{}{Már megint mozgósítás van...}
+{3410}{}{Ha nem a radskorpiók, akkor a bajkeverõk...}
+{3411}{}{}
+#
+# attacking
+#
+{3412}{}{}
+{3413}{}{}
+{3414}{}{Mocsok!}
+{3415}{}{Punk!}
+{3416}{}{Ezt csináljuk mi a bajkeverõkkel!}
+{3417}{}{Remélem, ez fáj!}
+{3418}{}{Neked aztán tényleg annyi most!}
+{3419}{}{Fogadd jó szívvel Shady Sands ajándékát!}
+{3420}{}{Többet nem fogsz itt bajt keverni!}
+{3421}{}{Nem engedjük, hogy csak úgy elsétálj!}
+
+
+#
+# target being missed
+#
+{3422}{}{Nem volt túl meggyõzõ!}
+{3423}{}{Nem kéne harcolnod, ha nem tudsz, mit kezdeni a dologgal!}
+{3424}{}{Szánalmas...}
+{3425}{}{Lassú vagy!}
+{3426}{}{}
+{3427}{}{}
+#
+# target hit in head
+#
+{3428}{}{}
+{3429}{}{A fejem!}
+{3430}{}{Aú! Szétcseszted az orrom...}
+#
+# target hit in left arm
+#
+{3431}{}{Aú!}
+{3432}{}{Aú! A karom!}
+{3433}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{3434}{}{Aú!}
+{3435}{}{Aú! A karom!}
+{3436}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{3437}{}{Aú!}
+{3438}{}{Dharmára! Ez fájt!}
+{3439}{}{Akik keresik a bajt, meg is találják...}
+{3440}{}{Úúf!}
+{3441}{}{Úúf! Ezért nagyon megkapod a magadét...}
+{3442}{}{Aú! Ez fájt!}
+{3443}{}{Jaj! Ez mocskos szarul esett...}
+{3444}{}{Aú! Ezt most miért csinálod?}
+{3445}{}{Arg! Vigyázni kell az érzelmekkel...}
+{3446}{}{Aúúú! Olyan, vagy, mint a radskorpió-ürülék!}
+#
+# target hit in right leg
+#
+{3447}{}{Aú!}
+{3448}{}{Aú! A térdem!}
+{3449}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{3450}{}{Aú!}
+{3451}{}{Aú! A térdem!}
+{3452}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{3453}{}{A szemem!}
+{3454}{}{Agghh! Szóval így szeretnél játszani...}
+{3455}{}{Agghh! Te mocskos kis...}
+#
+# target hit in groin
+#
+{3456}{}{Óóóóóó, az ágyékom!}
+{3457}{}{Jaaaiiijjj!}
+{3458}{}{}                                       
+{3459}{}{Úúúúhhf!}
+{3460}{}{Óóóóóó! Nem is érerztem... Ajjjaj!}
+{3461}{}{Óóóóóó! Ez fájt! Bizonyára öregszem.}
+
+# 26. Ripper
+# Rape him or kill him. I can never make up my mind.
+#
+#  running away
+#
+{3500}{}{Asszem, tartok egy kis szünetet.}
+{3501}{}{Még visszatérek!}
+{3502}{}{Késõbb még találkozunk, te mocsok!}
+{3503}{}{}
+{3504}{}{}
+{3505}{}{Hamarosan lejátszhatjuk. Addig is...}
+#
+# moving in to attack
+#
+{3506}{}{Harcoljunk, vagy szeressük egymást...}
+{3507}{}{Friss hús!}
+{3508}{}{!}
+{3509}{}{}
+{3510}{}{A hasfelmetszük darabokra fognak szaggatni!!}
+{3511}{}{Táncoljunk!}
+#
+# attacking
+#
+{3512}{}{Olyan leszel, mint egy nyársas gyík!}
+{3513}{}{}
+{3514}{}{Kérlek, ne halj még meg! Azt akarom, hogy szenvedj!}
+{3515}{}{}
+{3516}{}{Egy halálraítélt rendel!}
+{3517}{}{Szép leszel majd, ha meghalsz!}
+{3518}{}{Meghalsz! Meghalsz! Meghalsz! Meghalsz! Meghalsz!}
+{3519}{}{Ami neked fáj, az nekem öröm!}
+{3520}{}{Nézzük már meg, mi van benned...}
+{3521}{}{És én még azt hittem, megússzuk vérontás nélkül a mai napot...}
+#
+# target being missed
+#
+{3522}{}{}
+{3523}{}{Jaj, de nagyon megijedtem!}
+{3524}{}{Gyerünk picinyem, mutasd, hogy tudsz harcolni!}
+{3525}{}{Ennyit tudsz?}
+{3526}{}{Semmi vagy hozzám képest!}
+{3527}{}{Ez könnyebb lesz, mint gondoltam!}
+#
+# target hit in head
+#
+{3528}{}{Szép seb marad majd utána!}
+{3529}{}{Ez nem túl meggyõzõ!}
+{3530}{}{Csináld csak, drágám!}
+#
+# target hit in left arm
+#
+{3531}{}{Mindenem a csontzene!}
+{3532}{}{Óóó, látom, kezdesz bekeményíteni!}
+{3533}{}{Durván kedvelem, édes!}
+#
+# target hit in right arm
+#
+{3534}{}{Mindenem a csontzene!}
+{3535}{}{Óóó, látom, kezdesz bekeményíteni!}
+{3536}{}{Durván kedvelem, édes!}
+#
+# target hit in torso
+#
+{3537}{}{Imádom, amikor durvulsz...}
+{3538}{}{Na, még egy szerelmes megnyilvánulást, a kedvemért!}
+{3539}{}{Jaj! A szerelem úgy fáj, bébi...!}
+{3540}{}{Úúf!}
+{3541}{}{Doh!}
+{3542}{}{Argh! Ez azt jelenti, hogy köztünk mindennek vége?}
+{3543}{}{(levegõért kapkod)}
+{3544}{}{Üss! Üss! Üss még, kérlek!}
+{3545}{}{Legközelebb én nyomatlak meg egy kicsit!}
+{3546}{}{Óh, Nagyon fáj, nagyon fáj...}
+#
+# target hit in right leg
+#
+{3547}{}{Mindenem a csontzene!}
+{3548}{}{Óóó, látom, kezdesz bekeményíteni!}
+{3549}{}{}
+#
+# target hit in left leg
+#
+{3550}{}{Mindenem a csontzene!}
+{3551}{}{}
+{3552}{}{Ez az! Tetszik!}
+#
+# target hit in eyes
+#
+{3553}{}{Hé, megvakultam! Megáll az eszem!}
+{3554}{}{Nem látok... gondolom, most ki kell szagolnom a félelmedet!}
+{3555}{}{A szemem! Ember, imádom, ahogy küzdesz!}
+#
+# target hit in groin
+#
+{3556}{}{Óóóóóó, az ágyékom!}
+{3557}{}{Ez aztán a férfias cselekedet...}
+{3558}{}{Óóóó! Ez egy ajánlat volt, bébi?}
+{3559}{}{}
+{3560}{}{Szóval így akarsz játszani...}
+{3561}{}{Óóóóó, ez szép mozdulat volt!}
+
+# 27. Blade
+# I'm gonna tear you a new...
+#
+#  running away (6)
+#
+{3600}{}{}
+{3601}{}{}
+{3602}{}{}
+{3603}{}{Még nem nyertél!}
+{3604}{}{Hátrálni!!}
+{3605}{}{Erre semmi szükségem...}
+#
+# moving in to attack
+#
+{3606}{}{Támadás!}
+{3607}{}{Öröm lesz téged elásni a kukoricásban!}
+#csak a poen kedveert - Casino
+
+{3608}{}{}
+{3609}{}{Valaki most megnyúvad...}
+{3610}{}{Megölni a behatolót!}
+{3611}{}{}
+#
+# attacking
+#
+{3612}{}{}
+{3613}{}{Meghalsz!}
+{3614}{}{A ribanc anyádat!}
+{3615}{}{Na, ezért hívnak bennünket Pengéseknek!}
+{3616}{}{}
+{3617}{}{Remélem, ez fáj!}
+{3618}{}{Ezt igencsak élvezni fogom!}
+{3619}{}{A fejed megy a gyûjteményembe!}
+{3620}{}{Jó mélyre foglak ásni!}
+{3621}{}{A mai napod most egész rosszra fordult!}
+#
+# target being missed
+#
+{3622}{}{Én még Istennél is igazságosabb vagyok!}
+{3623}{}{Nem volt túl meggyõzõ!}
+{3624}{}{Mutasd, milyen tökös vagy!}
+{3625}{}{}
+{3626}{}{Anyádon végigment az egész Hasfelmetszõ banda!}
+{3627}{}{Mi van? Legyeket fogdosol, pubi?}
+#
+# target hit in head
+#
+{3628}{}{}
+{3629}{}{Aúúú!!}
+{3630}{}{Aú! Szétcseszted az orrom!}
+#
+# target hit in left arm
+#
+{3631}{}{Aú!}
+{3632}{}{Aú! A karom!}
+{3633}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{3634}{}{Aú!}
+{3635}{}{Aú! A karom!}
+{3636}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{3637}{}{Aú!}
+{3638}{}{Ah, shit!}
+{3639}{}{Jaj! Ez súlyos hiba volt!}
+{3640}{}{Aú! Most majd megmutatom...}
+{3641}{}{(levegõért kapkod)}
+{3642}{}{Nem kapok levegõt...}
+{3643}{}{}
+{3644}{}{Úúf!}
+{3645}{}{Te sóher! Ez fájt!}
+{3646}{}{}
+#
+# target hit in right leg
+#
+{3647}{}{Aú!}
+{3648}{}{Aú! A térdem!}
+{3649}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{3650}{}{Aú!}
+{3651}{}{Aú! A térdem!}
+{3652}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{3653}{}{Megvakultam!}
+{3654}{}{Nem látok!}
+{3655}{}{A szemem! Te mocskos Hasfelmetszõ fatty...}
+#
+# target hit in groin
+#
+{3656}{}{Óóóóóó, az ágyékom!}
+{3657}{}{Jaaaiiijjj!}
+{3658}{}{Picsába, ez nagyon fáj!}
+{3659}{}{Úúúúhhf!}
+{3660}{}{Ezért megöllek, punk!}
+{3661}{}{Nem... kapok... levegõt...}
+
+# 28.  Gunrunners
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#  running away
+#
+{3700}{}{Én még szeretném látni holnap a napfelkeltét...}
+{3701}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{3702}{}{}
+{3703}{}{}
+{3704}{}{Ezért nincs kedvem meghalni!}
+{3705}{}{Nem hiszem, hogy már csomagol itt mindenki...}
+#
+# moving in to attack
+#
+{3706}{}{Megpróbálsz beleköpni a levesünkbe, mi?}
+{3707}{}{Itt valaki most oltári nagy hibát követett el!}
+{3708}{}{}
+{3709}{}{Kinek képzeled magad?}
+{3710}{}{Itt az idõ, hogy megmutasd, mid van!}
+{3711}{}{Várj csak, mindjárt elkaplak!}
+#
+# attacking
+#
+{3712}{}{}
+{3713}{}{}
+{3714}{}{}
+{3715}{}{Na, hogy tetszik?}
+{3716}{}{Eldoblak, mint egy rossz szokást!}
+{3717}{}{Na, mit szólsz a tûzerõmhöz?}
+{3718}{}{Lássuk, milyen fából faragtak...}
+{3719}{}{A harc az életem!}
+{3720}{}{}
+{3721}{}{Talán most majd tiszteletet tanulsz!}
+#
+# target being missed
+#
+{3722}{}{El akartál találni? Vagy mi?}
+{3723}{}{Ezt én már évek óta csinálom, kispofa!}
+{3724}{}{Gondolom, nem erre számítottál, ugye?}
+{3725}{}{Ez volt az utolsó tévedésed!}
+{3726}{}{Kezdõ.}
+{3727}{}{Ez nem vakondpatkány-lövészet, kicsi huszár!}
+#
+# target hit in head
+#
+{3728}{}{Aú! Az a rohadt ku...}
+{3729}{}{Ezért most kicsinállak!}
+{3730}{}{Lecsavarom a fejed!!}
+#
+# target hit in left arm
+#
+{3731}{}{Aú, a karom!}
+{3732}{}{A franc egye meg! Szétment a karom!}
+{3733}{}{A karom!}
+#
+# target hit in right arm
+#
+{3734}{}{Aú, a karom!}
+{3735}{}{A franc egye meg! Szétment a karom!}
+{3736}{}{A karom!}
+#
+# target hit in torso
+#
+{3737}{}{Láttam én már nálad ügyesebb kezdõket is...}
+{3738}{}{Jaj!}
+{3739}{}{Egyszer még visszaadom ezt a fájdalmat neked!}
+{3740}{}{Úúf!}
+{3741}{}{}
+{3742}{}{Francba!}
+{3743}{}{Elcseszett barom!}
+{3744}{}{}
+{3745}{}{(levegõért kapkod)}
+{3746}{}{Jaj!}
+#
+# target hit in right leg
+#
+{3747}{}{Aú, a lábam!}
+{3748}{}{}
+{3749}{}{A térdem!}
+#
+# target hit in left leg
+#
+{3750}{}{Aú, a lábam!}
+{3751}{}{Visszakapod ezt te még! Többszörösen!}
+{3752}{}{A térdem!}
+#
+# target hit in eyes
+#
+{3753}{}{Nem látok!}
+{3754}{}{A szemem! Ezt nagyon megbánod még!}
+{3755}{}{Aaieeee! Megvakultam!}
+#
+# target hit in groin
+#
+{3756}{}{Óóóóóó, az ágyékom!}
+{3757}{}{Ezek szerint így akarsz játszani...}
+{3758}{}{}
+{3759}{}{Örh!}
+{3760}{}{}
+{3761}{}{Nagyon fáj, nagyon fáj...}
+
+# 29. Regulator
+# This one's better armed than usual. We need back-up, now!
+#
+#  running away
+#
+{3800}{}{Erõsítés kell!}
+{3801}{}{Valaki segítsen!}
+{3802}{}{Gyülekezõ!}
+{3803}{}{Visszavonulás! Visszavonulás!}
+{3804}{}{Hátrálni!! Hátrálni!!}
+{3805}{}{Jobb pozíciót kell találnunk!}
+#
+# moving in to attack
+#
+{3806}{}{Megvan a célpont!}
+{3807}{}{Megtámadtak!}
+{3808}{}{Riadó! Én majd visszatartom õket!}
+{3809}{}{Támadt egy kis problémánk, de mindjárt orvosoljuk.}
+{3810}{}{Megvan a célpont, megyek a nyomába!}
+{3811}{}{Rámegyek a célpontra!}
+#
+# attacking
+#
+{3812}{}{Ócska kis gengszter!}
+{3813}{}{Véget vetek a kínjaidnak!}
+{3814}{}{Nem vagy jobb, mint egy állat!!}
+{3815}{}{Jobb lesz, ha meghúzod magad!}
+{3816}{}{Többé senkit nem fogsz zargatni!}
+{3817}{}{Nincs kegyelem a kis rohadéknak!}
+{3818}{}{Kezdhetsz imádkozni az istenedhez!}
+{3819}{}{}
+{3820}{}{Most jól eltángállak!}
+{3821}{}{Viszlát a Pokolban!}
+#
+# target being missed
+#
+{3822}{}{Your attack stinks worse than your breath, maggot!}
+{3823}{}{Gyerünk, te balek! Jobb, ha megadod magad!}
+{3824}{}{}
+{3825}{}{Rossz játékba fogtál, szemétláda!}
+{3826}{}{Na, mi a pálya, eszem a lelked?}
+{3827}{}{Engem nem lehet csak úgy kinyírni!}
+#
+# target hit in head (3)
+#
+{3828}{}{Aggghh! Szerencsés találat!}
+{3829}{}{Az arcom!}
+{3830}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{3831}{}{Aggghh! Szerencsés találat!}
+{3832}{}{Egy szétbarmolt kéz még nem fog megállítani!}
+{3833}{}{}
+#
+# target hit in right arm
+#
+{3834}{}{Aggghh! Szerencsés találat!}
+{3835}{}{Egy szétbarmolt kéz még nem fog megállítani!}
+{3836}{}{Ennek bizony elég csúnya hangja volt...}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{3837}{}{Aggghh! Szerencsés találat!}
+{3838}{}{}
+{3839}{}{Nem fogsz lerokkantani, haver!}
+#
+# target hit in left leg
+#
+{3840}{}{Aggghh! Szerencsés találat!}
+{3841}{}{}
+{3842}{}{Nem fogsz lerokkantani, haver!}
+#
+# target hit in eyes
+#
+{3843}{}{Megvakultam!}
+{3844}{}{Ég a szemem!}
+{3845}{}{Nem látok!}
+#
+# target hit in groin
+#
+{3846}{}{Óóóóóó, az ágyékom!}
+{3847}{}{Ja, a gyökerek mindig alulra mennek!}
+{3848}{}{Picsába, ez nagyon fáj!!}
+{3849}{}{Nem... kapok... levegõt...}
+{3850}{}{Óóóóóó! Te szadista mocsok...}
+{3851}{}{Rohadj meg...}
+
+# 30. Adytowner
+# They've broken through our defenses! Hátrálni!!
+#
+#  running away
+#
+{3900}{}{Erõsítés kell!}
+{3901}{}{Valaki segítsen!}
+{3902}{}{}
+{3903}{}{Visszavonulás! Visszavonulás!}
+{3904}{}{Hátrálni!! Hátrálni!!}
+{3905}{}{Segítség!}
+#
+# moving in to attack
+#
+{3906}{}{Adytownért!}
+{3907}{}{Megtámadtak minket!}
+{3908}{}{Fedezzetek!}
+{3909}{}{Támadás!}
+{3910}{}{Nem szeretjük itt a fajtádat!}
+{3911}{}{Fegyverbe! Fegyverbe!}
+#
+# attacking
+#
+{3912}{}{Ezt Adytownért kapod!}
+{3913}{}{Ezt mûveljük az állatokkal!}
+{3914}{}{Üdvözlet a pokolban, punk!}
+{3915}{}{Jobb lesz, ha most nagyon meghúzod magad!}
+{3916}{}{Többet nem fogsz zargatni senkit!}
+{3917}{}{Punkoknak nincs kegyelem!}
+{3918}{}{Kezdj imádkozni az istenedhez!}
+{3919}{}{}
+{3920}{}{Sikerült kibérelni egy helyet hat láb mélyen!}
+{3921}{}{Remélem, élvezted az eddigi életedet, mert most le fog pörögni a szemed elõtt!}
+#
+# target being missed
+#
+{3922}{}{Nem pazarlom rád a lõszert!}
+{3923}{}{}
+{3924}{}{}
+{3925}{}{Most én jövök!}
+{3926}{}{Meglepõdtél, te kis féreg?}
+{3927}{}{Bennünket nem lehet csak úgy kinyírni!}
+#
+# target hit in head (3)
+#
+{3928}{}{Aggghh! Pont az arcomba...}
+{3929}{}{Az arcom!}
+{3930}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{3931}{}{Aggghh! A karom!}
+{3932}{}{Aú! Ez fájt!}
+{3933}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in right arm
+#
+{3934}{}{Aggghh! A karom!}
+{3935}{}{Aú! Ez fájt!}
+{3936}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in torso
+#
+{3937}{}{Jaj!}
+{3938}{}{Úúf! Ez fájt!}
+{3939}{}{Úúf! Alig... bírok... léle... gezni...}
+{3940}{}{Eltaláltak! Orvost!}
+{3941}{}{Ez csak egy karcolás!}
+{3942}{}{Argh!}
+{3943}{}{Jaj! A franc ott egye meg!}
+{3944}{}{Aú! Elkaplak!}
+{3945}{}{}
+{3946}{}{}
+#
+# target hit in right leg
+#
+{3947}{}{Aggghh! Szerencsés találat!}
+{3948}{}{Francba, pont a térdem...}
+{3949}{}{Azért se bukok orra, punk! Aúúú...}
+#
+# target hit in left leg
+#
+{3950}{}{Aggghh! Szerencsés találat!}
+{3951}{}{Francba, pont a térdem...}
+{3952}{}{Azért se bukok orra, punk! Aúúú...}
+#
+# target hit in eyes
+#
+{3953}{}{Megvakítottak! Valaki segítsen!}
+{3954}{}{Francba, pont a szemembe...}
+{3955}{}{Nem látok!}
+#
+# target hit in groin
+#
+{3956}{}{Óóóóóó, az ágyékom!}
+{3957}{}{Jaja, a mocskok mindig alulra mennek...}
+{3958}{}{Picsába, ez nagyon fáj!!}
+{3959}{}{Nem... kapok... levegõt...}
+{3960}{}{Óóóóóó! A szadista kur...}
+{3961}{}{Te, fíííreg!!!}
+
+# 31. Generic Follower
+# No retreat, no surrender, no slogans.
+#
+#  running away
+#
+{4000}{}{Fedezzen már valaki, bazzer!}
+{4001}{}{Valaki segítsen!}
+{4002}{}{Orvost!}
+{4003}{}{Visszavonulás! Visszavonulás!}
+{4004}{}{Hátrálni!! Hátrálni!!}
+{4005}{}{Segítség!}
+#
+# moving in to attack
+#
+{4006}{}{Na, most jön a haddelhadd!}
+{4007}{}{Megtámadtak!}
+{4008}{}{Felmerült egy kis probléma!}
+{4009}{}{Ellátom a bajodat!}
+#ez jobban tetszett
+
+{4010}{}{Elõbb halok meg, minthogy itt szarakodj velem!}
+{4011}{}{Rossz emberbe kötöttél bele!}
+#
+# attacking
+#
+{4012}{}{Addig kellett volna elfutnod, amíg lehet!}
+{4013}{}{Na, fejezzük be gyorsan!}
+{4014}{}{}
+{4015}{}{}
+{4016}{}{Na, még egy hulla "jót" fog tenni a lelkiismeretemnek...}
+{4017}{}{Most aztán végleg lerendezlek!}
+{4018}{}{Lehet imádkozni az istenedhez!}
+{4019}{}{}
+{4020}{}{}
+{4021}{}{Nem fogsz csak úgy elsétálni innen!}
+#
+# target being missed
+#
+{4022}{}{Ezt a harcot nem fogod megnyerni!}
+{4023}{}{}
+{4024}{}{Nem nyerhetsz...}
+{4025}{}{Most én jövök!}
+{4026}{}{Nem fogod fel? Te itt ma nem nyerhetsz!}
+{4027}{}{Bennünket nem lehet csak úgy megölni!}
+#
+# target hit in head (3)
+#
+{4028}{}{Aggghh! Pont az arcomba...}
+{4029}{}{Az arcom!}
+{4030}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{4031}{}{Aggghh! A karom!}
+{4032}{}{Aú! Ez fájt!}
+{4033}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in right arm
+#
+{4034}{}{Aggghh! A karom!}
+{4035}{}{Aú! Ez fájt!}
+{4036}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in torso
+#
+{4037}{}{Aú! Ez fájt, basszus!}
+{4038}{}{}
+{4039}{}{Úúf! Tudsz te ennél jobbat is!}
+{4040}{}{Jaj! Gondolod, hogy ilyen könnyen el tudsz téríteni a céljaimtól!?}
+{4041}{}{Jaj!}
+{4042}{}{Argh!}
+{4043}{}{Úúf!}
+{4044}{}{(levegõért kapkod)}
+{4045}{}{}
+#
+# target hit in right leg
+#
+{4047}{}{Aggghh! A lábam!}
+{4048}{}{Francba, pont a térdem...}
+{4049}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in left leg
+#
+{4050}{}{Aggghh! A lábam!}
+{4051}{}{Francba, pont a térdem...}
+{4052}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in eyes
+#
+{4053}{}{Megvakítottak! Valaki segítsen!}
+{4054}{}{}
+{4055}{}{Nem látok!}
+#
+# target hit in groin
+#
+{4056}{}{Óóóóóó, az ágyékom!}
+{4057}{}{}
+{4058}{}{Francba!}
+{4059}{}{Nem... kapok... levegõt...}
+{4060}{}{}
+{4061}{}{Fííííreg!}
+# ez igy tetszik - egy ismerosomre emlekeztet :)
+
+# 32. Follower, Scout
+# I don't see anything... wait! Look at the firepower on that mother!
+#
+#  running away
+#
+{4100}{}{}
+{4101}{}{Valaki segítsen!}
+{4102}{}{}
+{4103}{}{Visszavonulás! Visszavonulás!}
+{4104}{}{Hátrálni!! Hátrálni!!}
+{4105}{}{Segítség!}
+#
+# moving in to attack
+#
+{4106}{}{}
+{4107}{}{Asszem, van itt egy kis probléma!}
+{4108}{}{Nézzük, hamar el tudom-e intézni...}
+{4109}{}{Jobb, ha itt intézzük el õket!}
+{4110}{}{Ez komoly tûzerõnek tûnik...}
+{4111}{}{Rossz emberbe kötöttél bele!}
+#
+# attacking
+#
+{4112}{}{Addig kellett volna elfutnod, amíg lehet!}
+{4113}{}{Na, fejezzük be gyorsan!}
+{4114}{}{}
+{4115}{}{Ezután nem fogsz veszélyt jelenteni senkire!}
+{4116}{}{}
+{4117}{}{}
+{4118}{}{}
+{4119}{}{Eggyel kevesebb csúszómászó a Csonttelepen...}
+{4120}{}{}
+{4121}{}{Innen nem fogsz csak úgy elsétálni, hallod-e!}
+#
+# target being missed
+#
+{4122}{}{Itt ma nem fogsz nyerni!}
+{4123}{}{}
+{4124}{}{}
+{4125}{}{Most pedig én jövök!}
+{4126}{}{Egyszerûen nem nyerhetsz!}
+{4127}{}{}
+#
+# target hit in head (3)
+#
+{4128}{}{Aggghh!}
+{4129}{}{}
+{4130}{}{Az arcom!}
+#
+# target hit in left arm
+#
+{4131}{}{Aggghh! A karom!}
+{4132}{}{Fasza, ez a végtagom most használhatatlan...}
+{4133}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in right arm
+#
+{4134}{}{Aggghh! A karom!}
+{4135}{}{Fasza, ez a végtagom most használhatatlan...}
+{4136}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in torso
+#
+{4137}{}{Aaugh! Figyelmeztetni kell a többieket, vigyázniuk kell veled...}
+{4138}{}{Úúf! Életben kell maradnom, életben kell maradnom...}
+{4139}{}{}
+{4140}{}{Úúf!}
+{4141}{}{Bah!}
+{4142}{}{Aúúú!}
+{4143}{}{Aú!}
+{4144}{}{}
+{4145}{}{}
+{4146}{}{}
+#
+# target hit in right leg
+#
+{4147}{}{Aggghh! A lábam!}
+{4148}{}{Francba, pont a térdem...}
+{4149}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in left leg
+#
+{4150}{}{Aggghh! A lábam!}
+{4151}{}{Francba, pont a térdem...}
+{4152}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in eyes
+#
+{4153}{}{Megvakultam! Talán, ha letörölném a vért...}
+{4154}{}{Francba, pont a szemembe...}
+{4155}{}{Nem látok!}
+#
+# target hit in groin
+#
+{4156}{}{}
+{4157}{}{Eegah!}
+{4158}{}{}
+{4159}{}{Nem... kapok... levegõt...}
+{4160}{}{}
+{4161}{}{}
+
+# 33. Follower, Guard
+# I will hold my position. You get out of here. Go!
+#
+#  running away
+#
+{4200}{}{}
+{4201}{}{Senki nem fedez, és tökre lesérültem!}
+{4202}{}{}
+{4203}{}{}
+{4204}{}{Hátrálni!! Hátrálni!!}
+{4205}{}{Valaki fedezzen már!}
+#
+# moving in to attack
+#
+{4206}{}{}
+{4207}{}{}
+{4208}{}{Védjétek a települést!}
+{4209}{}{}
+{4210}{}{Behatolók!}
+{4211}{}{Ezzel aláírtad a halálos ítéletedet!}
+#
+# attacking
+#
+{4212}{}{}
+{4213}{}{}
+{4214}{}{}
+{4215}{}{Ezután senkire nem fogsz veszélyt jelenteni!}
+{4216}{}{Ez fájni fog!}
+{4217}{}{Mész a levesbe!}
+{4218}{}{}
+{4219}{}{Eggyel kevesebb csúszómászó a Csonttelepen...}
+{4220}{}{}
+{4221}{}{Innen nem fogsz csak úgy elsétálni, hallod-e!}
+
+#
+# target being missed
+#
+{4222}{}{Itt ma nem fogsz nyerni!}
+{4223}{}{}
+{4224}{}{}
+{4225}{}{Most pedig én jövök!}
+{4226}{}{Nagyon nagy hibát követtél el!}
+{4227}{}{}
+#
+# target hit in head (3)
+#
+{4228}{}{Francba!}
+{4229}{}{}
+{4230}{}{Asszem, szétment az orrom...}
+#
+# target hit in left arm
+#
+{4231}{}{A karom!}
+{4232}{}{}
+{4233}{}{Ez elég súlyos lesz......}
+#
+# target hit in right arm
+#
+{4234}{}{A karom!}
+{4235}{}{Fasza, ez a végtagom most használhatatlan...}
+{4236}{}{Francba! Ez elég súlyos lesz......}
+#
+# target hit in torso
+#
+{4237}{}{}
+{4238}{}{}
+{4239}{}{}
+{4240}{}{Úúf!}
+{4241}{}{Bah!}
+{4242}{}{Aúúú!}
+{4243}{}{Aú!}
+{4244}{}{Úúf! Ez most lehet, hogy komoly...}
+{4245}{}{Francba, ez fájt!}
+{4246}{}{}
+#
+# target hit in right leg
+#
+{4247}{}{A lábam!}
+{4248}{}{Francba, pont a térdem...}
+{4249}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in left leg
+#
+{4250}{}{A lábam!}
+{4251}{}{Francba, pont a térdem...}
+{4252}{}{Aggghh! Alig bírok állni...}
+#
+# target hit in eyes
+#
+{4253}{}{Megvakultam!}
+{4254}{}{Francba, pont a szemembe...}
+{4255}{}{Nem látok!}
+#
+# target hit in groin
+#
+{4256}{}{Urgh! A golyóm!}
+{4257}{}{}
+{4258}{}{Ez fáj, mint az állat!}
+{4259}{}{Nem... kapok... levegõt...}
+{4260}{}{}
+{4261}{}{}
+
+# 34. Follower, Leader (aka Nicole)
+# Time to do my duty.
+#
+#  running away
+#
+{4300}{}{Jobb pozíciót kell találnom...}
+{4301}{}{Senki nem fedez, és tökre lesérültem!}
+{4302}{}{Ennek még korántsincs vége!}
+{4303}{}{Jobb lesz, ha újra összeverõdünk....}
+{4304}{}{Hátrálni!!}
+{4305}{}{Brutális erõvel ezt ma nem lehet megnyerni...}
+#
+# moving in to attack
+#
+{4306}{}{Majd én kezelésbe veszem a dolgot!}
+{4307}{}{Ez nem lesz valami szép megoldás...}
+{4308}{}{Védjétek az állásokat!}
+{4309}{}{Nem hagyhatjuk, hogy ez a mocsok keresztbe tegyen a küldetésünknek!}
+{4310}{}{}
+{4311}{}{}
+#
+# attacking
+#
+{4312}{}{Nincs ebben semmi élvezet...}
+{4313}{}{Na, fejezzük be gyorsan!}
+{4314}{}{}
+{4315}{}{Nem kellett volna idejönnöd!}
+{4316}{}{Ez fájni fog!}
+{4317}{}{Nem hagyjuk, hogy lerombold, amit felépítettünk!}
+{4318}{}{}
+{4319}{}{Bocs, hogy ezt kell mûvelnem!}
+{4320}{}{A fene essen beléd, hogy erre kényszerítesz!}
+{4321}{}{Szánlak...}
+#
+# target being missed
+#
+{4322}{}{Nem hagyhatom, hogy gyõzz!}
+{4323}{}{Amilyen erõszakos vagy, ugyanolyan ügyetlen is!}
+{4324}{}{Mi tudjuk, hogy vegyük kezelésbe a problémáinkat!}
+{4325}{}{Most pedig én jövök!}
+{4326}{}{Ez volt az utolsó tévedésed!}
+{4327}{}{}
+#
+# target hit in head (3)
+#
+{4328}{}{A franc egye meg! Ez ügyes volt...}
+{4329}{}{Eltört az arc-csontom, de nem állíthat meg...}
+{4330}{}{Asszem, szétment az orrom...}
+#
+# target hit in left arm
+#
+{4331}{}{A karom!}
+{4332}{}{Annyi a végtagomnak... de folytatni kell...}
+{4333}{}{Francba! Ez elég súlyos lesz...}
+#
+# target hit in right arm
+#
+{4334}{}{A karom!}
+{4335}{}{Annyi a végtagomnak... de folytatni kell...}
+{4336}{}{Francba! Ez elég súlyos lesz...}
+#
+# target hit in torso
+#
+{4337}{}{}
+{4338}{}{Úúf!}
+{4339}{}{}
+{4340}{}{}
+{4341}{}{(levegõért kapkod)}
+{4342}{}{Aúúú!}
+{4343}{}{Aú!}
+{4344}{}{Úúf! Lehet, hogy legyõzöl, de az ügyünk tovább él!}
+{4345}{}{Argh!}
+{4346}{}{}
+#
+# target hit in right leg
+#
+{4347}{}{A lábam!}
+{4348}{}{Francba, pont a térdem...}
+{4349}{}{}
+#
+# target hit in left leg
+#
+{4350}{}{A lábam!}
+{4351}{}{Francba, pont a térdem...}
+{4352}{}{Tönkrement a lábam, de még mindig tudok harcolni!}
+#
+# target hit in eyes
+#
+{4353}{}{Megvakultam! De, sebaj...}
+{4354}{}{Megvakultam!}
+{4355}{}{Nem látok!}
+#
+# target hit in groin
+#
+{4356}{}{AAÛÛÛ!!}
+{4357}{}{}
+{4358}{}{Úúf!}
+{4359}{}{}
+{4360}{}{Eegah!}
+{4361}{}{}
+
+# 35. Ripper Leader
+# I am the most evil man alive!
+#
+#  running away
+#
+{4400}{}{Rövidesen meghalsz!}
+{4401}{}{Még visszatérek!}
+{4402}{}{Késõbb még találkozunk, te mocsok!}
+{4403}{}{}
+{4404}{}{Hagyom, hogy életben maradj!}
+{4405}{}{}
+#
+# moving in to attack
+#
+{4406}{}{Le fogom tépni a fejed!}
+{4407}{}{Friss hús!}
+{4408}{}{}
+{4409}{}{}
+{4410}{}{Apró darabokban foglak felzabálni!}
+{4411}{}{}
+#
+# attacking
+#
+{4412}{}{Olyan leszel, mint egy nyársas gyík!}
+{4413}{}{}
+{4414}{}{Kérlek, ne halj még meg! Azt akarom, hogy szenvedj!}
+{4415}{}{Megsértetted a Csonttelep Királyát!}
+{4416}{}{}
+{4417}{}{Olyan szép leszel, amikor meghalsz!}
+{4418}{}{Meghalsz! Meghalsz! Meghalsz! Meghalsz! Meghalsz!}
+{4419}{}{}
+{4420}{}{Ma éjjel jót fognak lakmározni belõled a férgek!}
+{4421}{}{Elevenen megnyúzlak!}
+#
+
+
+# target being missed
+#
+{4422}{}{}
+{4423}{}{Gyerünk! Húzz bele, te kis pöcs!}
+{4424}{}{Gyerünk, gyökér! Mutasd meg a fogad fehérjét!}
+{4425}{}{Ennyit tudsz?}
+{4426}{}{Egy nagy semmi vagy!}
+{4427}{}{Engem nem lehet megölni!}
+#
+# target hit in head
+#
+{4428}{}{}
+{4429}{}{}
+{4430}{}{Aúúú!}
+#
+# target hit in left arm
+#
+{4431}{}{Mindenem a csontzene!}
+{4432}{}{}
+{4433}{}{Én durván szeretem, kispajtás!}
+#
+# target hit in right arm
+#
+{4434}{}{A karom!}
+{4435}{}{}
+{4436}{}{Rohadék! A karom!}
+#
+# target hit in torso
+#
+{4437}{}{A mellkasom!}
+{4438}{}{Argh! Ez volt az utolsó tévedésed!}
+{4439}{}{}
+{4440}{}{(levegõért kapkod)}
+{4441}{}{Bah!}
+{4442}{}{Aúúú! Ez sebet fog hagyni...}
+{4443}{}{Aú!}
+{4444}{}{Idióta!}
+{4445}{}{Tõlem egész nap nyomathatjuk a témát!}
+{4446}{}{}
+#
+# target hit in right leg
+#
+{4447}{}{Mindenem a csontzene!}
+{4448}{}{}
+{4449}{}{}
+#
+# target hit in left leg
+#
+{4450}{}{A lábam!}
+{4451}{}{}
+{4452}{}{A franc esne beléd!}
+#
+# target hit in eyes
+#
+{4453}{}{}
+{4454}{}{Mostantól majd kiszagolom a félelmedet!}
+{4455}{}{A szemem! Ember, tetszik, ahogy küzdesz!}
+#
+# target hit in groin
+#
+{4456}{}{Aúúú! Az ágyékom!}
+{4457}{}{}
+{4458}{}{Óóóó! Ez egy ajánlat, bébi?}
+{4459}{}{}
+{4460}{}{Szóval így akarsz játszani...}
+{4461}{}{}
+
+# 36. Blade, Scout
+# Someone's approaching our turf!
+#
+#  running away (6)
+#
+{4500}{}{Itt az idõ, hogy lelépjek!}
+{4501}{}{}
+{4502}{}{}
+{4503}{}{Még nem nyertél!}
+{4504}{}{}
+{4505}{}{Minden jót!}
+#
+# moving in to attack
+#
+{4506}{}{Támadás!}
+{4507}{}{Annyi neked!}
+{4508}{}{Rossz bandába kötöttél bele!}
+{4509}{}{Senki nem fog keménykedni a vadászterületünkön!}
+{4510}{}{}
+{4511}{}{}
+#
+# attacking
+#
+{4512}{}{Én vagyok a Mestered!}
+{4513}{}{Meghalsz!}
+{4514}{}{Mocsok!}
+{4515}{}{Na, ezért hívnak minket Pengéseknek!}
+{4516}{}{Megírom majd a sírfeliratodat!}
+{4517}{}{Remélem, ez fáj!}
+{4518}{}{}
+{4519}{}{}
+{4520}{}{Saját kezûleg foglak elásni!}
+{4521}{}{Meghalsz, de nyomban!}
+#
+# target being missed
+#
+{4522}{}{Sokkal igzságosabb vagyok, mint maga az isten!}
+{4523}{}{}
+{4524}{}{Mutasd, milyen tökös vagy!}
+{4525}{}{Olyan gyenge vagy, mint egy Hasfelmetszõ!}
+{4526}{}{}
+{4527}{}{Te nem vagy Pengés!}
+#
+# target hit in head
+#
+{4528}{}{}
+{4529}{}{A szemem!}
+{4530}{}{Aú! Szétcseszted az orromat!}
+#
+# target hit in left arm
+#
+{4531}{}{Aú!}
+{4532}{}{Aú! A karom!}
+{4533}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{4534}{}{Aú!}
+{4535}{}{Aú! A karom!}
+{4536}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{4537}{}{Aú!}
+{4538}{}{Aú! A mellkasom!}
+{4539}{}{Úúf! A bordám!}
+{4540}{}{(Felhördül)}
+{4541}{}{Nevetek a fájdalomra!}
+{4542}{}{(levegõért kapkod)}
+{4543}{}{Ez minden, amit tudsz?}
+{4544}{}{}
+{4545}{}{Úúf!}
+{4546}{}{}
+#
+# target hit in right leg
+#
+{4547}{}{Aú!}
+{4548}{}{Aú! A térdem!}
+{4549}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{4550}{}{Aú!}
+{4551}{}{Aú! A térdem!}
+{4552}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{4553}{}{Megvakultam!}
+{4554}{}{Nem látok!}
+{4555}{}{A szemem! A mocskos Hasfelmetszõ anyádat...}
+#
+# target hit in groin
+#
+{4556}{}{Óóóóóó, az ágyékom!}
+{4557}{}{Jaaaiiijjj!}
+{4558}{}{Picsába, ez nagyon fáj!}
+{4559}{}{Úúúúhhf!}
+{4560}{}{Cafatokra szaggatlak!}
+{4561}{}{Nem... kapok... levegõt...}
+
+# 37. Blade, Leader
+# Rippers, Followers, Children, I don't care
+#
+#  running away (6)
+#
+{4600}{}{}
+{4601}{}{}
+{4602}{}{Ideiglenesen halasztjuk a témát, mocsok!}
+{4603}{}{Még nem nyertél!}
+{4604}{}{Ne nevess! Le fogom hugyozni a sírodat!}
+{4605}{}{Minden jót!}
+#
+# moving in to attack
+#
+{4606}{}{}
+{4607}{}{}
+{4608}{}{Rossz bandával kekeckedsz!}
+{4609}{}{}
+{4610}{}{}
+{4611}{}{Meghalsz!}
+#
+# attacking
+#
+{4612}{}{}
+{4613}{}{Meghalsz!}
+{4614}{}{}
+{4615}{}{Mekkora sebet szeretnél?}
+{4616}{}{}
+{4617}{}{Remélem, ez fáj!}
+{4618}{}{}
+{4619}{}{}
+{4620}{}{Saját kezûleg foglak elásni!}
+{4621}{}{Megdöglesz!}
+#
+# target being missed
+#
+{4622}{}{Én vagyok a Mestered!}
+{4623}{}{}
+{4624}{}{Mutasd, milyen tökös vagy!}
+{4625}{}{Az enyém vagy!}
+{4626}{}{}
+{4627}{}{}
+#
+# target hit in head
+#
+{4628}{}{Ez fájt!}
+{4629}{}{A szemem!}
+{4630}{}{Aú! Az orrom...}
+#
+# target hit in left arm
+#
+{4631}{}{Aú!}
+{4632}{}{Aú! A karom!}
+{4633}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{4634}{}{Aú!}
+{4635}{}{Aú! A karom!}
+{4636}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{4637}{}{Aú!}
+{4638}{}{Aú! A mellkasom!}
+{4639}{}{Úúf! A bordám!}
+{4640}{}{(Felhördül)}
+{4641}{}{Ha! Nevetek a fájdalomra!}
+{4642}{}{(levegõért kapkod)}
+{4643}{}{}
+{4644}{}{}
+{4645}{}{Úúf!}
+{4646}{}{Na, ettõl felébredtem!}
+#
+# target hit in right leg
+#
+{4647}{}{Aú!}
+{4648}{}{Aú! A térdem!}
+{4649}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{4650}{}{Aú!}
+{4651}{}{Aú! A térdem!}
+{4652}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{4653}{}{Megvakultam!}
+{4654}{}{Nem látok!}
+{4655}{}{A szemem! A mocskos Hasfelmetszõ anyádat...}
+#
+# target hit in groin
+#
+{4656}{}{Óóóóóó, az ágyékom!}
+{4657}{}{Jaaaiiijjj!}
+{4658}{}{Picsába, ez nagyon fáj!}
+{4659}{}{Úúúúhhf!}
+{4660}{}{Cafatokra szaggatlak!}
+{4661}{}{Nem... kapok... levegõt...}
+
+# 38. Gunrunners, Leader
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#  running away
+#
+{4700}{}{}
+{4701}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{4702}{}{}
+{4703}{}{}
+{4704}{}{Ezért nincs kedvem meghalni!}
+{4705}{}{Nem hiszem el, milyen kemények ezek...}
+#
+# moving in to attack
+#
+{4706}{}{}
+{4707}{}{Itt valaki nagyon nagy hibát követett el!}
+{4708}{}{}
+{4709}{}{Kinek képzeled magad?}
+{4710}{}{Itt az idõ, hogy megmutasd a lapjaidat!}
+{4711}{}{}
+#
+# attacking
+#
+{4712}{}{}
+{4713}{}{Gyakorló lövészet!}
+{4714}{}{}
+{4715}{}{Na, hogy tetszik?}
+{4716}{}{}
+{4717}{}{Na, mit szólsz ehhez a tûzerõhöz?}
+{4718}{}{Lássuk, hogy bírkózol meg ezzel...}
+{4719}{}{}
+{4720}{}{}
+{4721}{}{}
+#
+# target being missed
+#
+{4722}{}{}
+{4723}{}{}
+{4724}{}{Ugye, erre nem számítottál?}
+{4725}{}{Ez volt az utolsó tévedésed!}
+{4726}{}{Kezdõ.}
+{4727}{}{Nulla, amit csinálsz!}
+#
+# target hit in head
+#
+{4728}{}{Aú! Az a rohadt ku...}
+{4729}{}{Ezért most kicsinállak!}
+{4730}{}{Lecsavarom a fejed!!}
+#
+# target hit in left arm
+#
+{4731}{}{Aú, a karom!}
+{4732}{}{A franc egye meg! Szétment a karom!}
+{4733}{}{A karom!}
+#
+# target hit in right arm
+#
+{4734}{}{Aú, a karom!}
+{4735}{}{A franc egye meg! Szétment a karom!}
+{4736}{}{A karom!}
+#
+# target hit in torso
+#
+{4737}{}{Aú!}
+{4738}{}{Aú! A mellkasom!}
+{4739}{}{Úúf! A bordám!}
+{4740}{}{}
+{4741}{}{}
+{4742}{}{}
+{4743}{}{}
+{4744}{}{Erre majd jó lesz, ha ránéz egy orvos... }
+{4745}{}{}
+{4746}{}{Úúf!}
+#
+# target hit in right leg
+#
+{4747}{}{Aú, a lábam!}
+{4748}{}{Nagyon megfizetsz te még ezért!}
+{4749}{}{A térdem!}
+#
+# target hit in left leg
+#
+{4750}{}{Aú, a lábam!}
+{4751}{}{Nagyon megfizetsz te még ezért!}
+{4752}{}{A térdem!}
+#
+# target hit in eyes
+#
+{4753}{}{Nem látok!}
+{4754}{}{A szemem! Ezt nagyon megbánod még!}
+{4755}{}{}
+#
+# target hit in groin
+#
+{4756}{}{Óóóóóó, az ágyékom!}
+{4757}{}{Ezek szerint így akarsz játszani...}
+{4758}{}{}
+{4759}{}{Örh!}
+{4760}{}{}
+{4761}{}{Disznó!}
+
+# 39. Adytum, Leader,
+# We have a situation, and it's a bad one.
+#
+#  running away
+#
+{4800}{}{Erõsítés kell!}
+{4801}{}{Valaki segítsen!}
+{4802}{}{Orvost!}
+{4803}{}{Visszavonulás! Visszavonulás!}
+{4804}{}{Hátrálni!! Hátrálni!!}
+{4805}{}{Gyülekezõ!}
+#
+# moving in to attack
+#
+{4806}{}{Elintézem!}
+{4807}{}{Megtámadtak!}
+{4808}{}{}
+{4809}{}{Támadás!}
+{4810}{}{}
+{4811}{}{Fegyverbe! Fegyverbe!}
+#
+# attacking
+#
+{4812}{}{Ezt Adytownért!}
+{4813}{}{Ezt csináljuk az állatokkal!}
+{4814}{}{Üdvözlet a pokolban, kispofa!}
+{4815}{}{Élvezd ki az életed utolsó néhány pillanatát!}
+{4816}{}{Többet nem fogsz zargatni senkit!}
+{4817}{}{}
+{4818}{}{Nem kellett volna belefognod ebbe!}
+{4819}{}{}
+{4820}{}{}
+{4821}{}{Neked annyi, gyökér!}
+#
+# target being missed
+#
+{4822}{}{}
+{4823}{}{Hogy célzol már! Adjak szemüveget?}
+#mar untam a tobbit
+
+{4824}{}{}
+{4825}{}{}
+{4826}{}{Ezt ugye viccnek szántad, ugye?}
+{4827}{}{Engem nem olyan egyszerû eltenni láb alól...}
+#
+# target hit in head (3)
+#
+{4828}{}{Francba! Pont az arcomba...}
+{4829}{}{Az arcom!}
+{4830}{}{Az orrom!}
+#
+# target hit in left arm
+#
+{4831}{}{Francba! A karom!}
+{4832}{}{Aú! Ez fájt!}
+{4833}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in right arm
+#
+{4834}{}{Francba! A karom!}
+{4835}{}{Aú! Ez fájt!}
+{4836}{}{A franc egye meg! Ez elég súlyos lesz...}
+#
+# target hit in torso
+#
+{4837}{}{Aú!}
+{4838}{}{Aú! Bele a mellkasomba!}
+{4839}{}{Úúf! Pont a bordám közé!}
+{4840}{}{Úúf!}
+{4841}{}{}
+{4842}{}{Úúf! Ez jól belen kapott!}
+{4843}{}{Argh!}
+{4844}{}{Jaj!}
+{4845}{}{Úúf!}
+{4846}{}{Le... ve... gõt...}
+#
+# target hit in right leg
+#
+{4847}{}{Szerencsés találat!}
+{4848}{}{Francba, pont a térdem...}
+{4849}{}{Nem adom be a derekam, gyökérfajzat!}
+#
+# target hit in left leg
+#
+{4850}{}{Szerencsés találat!}
+{4851}{}{Francba, pont a térdem...}
+{4852}{}{Nem adom be a derekam, szemétláda!}
+#
+# target hit in eyes
+#
+{4853}{}{A francba, ennek nem lesz jó vége...}
+{4854}{}{Francba, pont a szemembe...}
+{4855}{}{Nem látok!}
+#
+# target hit in groin
+#
+{4856}{}{Óóóóóó, az ágyékom!}
+{4857}{}{}
+{4858}{}{Picsába, ez nagyon fáj!!}
+{4859}{}{Nem... kapok... levegõt...}
+{4860}{}{A szadista kur...}
+{4861}{}{Te, fíííreg!!!}
+
+# 40. Ghoul, Coward
+# Maybe someone else should handle this
+#
+#  running away
+{4900}{}{Húzás elfelé!}
+{4901}{}{}
+{4902}{}{Kegyelem! Kegyelem!}
+{4903}{}{}
+{4904}{}{}
+{4905}{}{}
+#
+# moving in to attack
+#
+{4906}{}{Miért pont velem esik meg az ilyesmi?!}
+{4907}{}{Hol a támogatás?}
+{4908}{}{Elkelne itt egy kis segítség!}
+{4909}{}{}
+{4910}{}{}
+{4911}{}{}
+#
+# attacking (10)
+#
+{4912}{}{Ez nem személyeskedés akar lenni...}
+{4913}{}{}
+{4914}{}{}
+{4915}{}{}
+{4916}{}{Asszem, most kénytelen leszek bántani téged...}
+{4917}{}{Kérlek, add meg magad!}
+{4918}{}{Kérlek, ne ölj meg engem ezért!}
+{4919}{}{}
+{4920}{}{Asszem, rosszul leszek...}
+{4921}{}{}
+#
+# target being missed (6)
+#
+{4922}{}{Élek! Élek!}
+{4923}{}{}
+{4924}{}{Egy kicsit jobbra kéne céloznod!}
+{4925}{}{}
+{4926}{}{Ma bal lábbal keltél fel, látom!}
+{4927}{}{}
+#
+# target hit in head (3)
+#
+{4928}{}{Ne már az arcomat!}
+{4929}{}{Aú! A fejem!}
+{4930}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{4931}{}{Aú, a karom!}
+{4932}{}{Eltörted a karomat!}
+{4933}{}{Ez tényleg kellett?}
+#
+# target hit in right arm
+#
+{4934}{}{Aú, a karom!}
+{4935}{}{Eltörted a karomat!}
+{4936}{}{Ez tényleg kellett?}
+#
+# target hit in torso
+#
+{4937}{}{Úúf!}
+{4938}{}{Aú! Ez marhára fájt! Nagyon is!}
+{4939}{}{}
+{4940}{}{(levegõért kapkod) Ne csináld már!}
+{4941}{}{Aúúú! Ez fájt!}
+{4942}{}{Argh! Kérlek, hagyd abba!}
+{4943}{}{Jaj!}
+{4944}{}{Úúf!}
+{4945}{}{Úúf!}
+{4946}{}{Úúf! (levegõért kapkod) Argh! Ajjjaj! Ójajj!}
+#
+# target hit in right leg
+#
+{4947}{}{Aú, a lábam!}
+{4948}{}{Hé, ez fájt!}
+{4949}{}{}
+#
+# target hit in left leg
+#
+{4950}{}{Aú, a lábam!}
+{4951}{}{Hé, ez fájt!}
+{4952}{}{Ez most tényleg kellett?}
+#
+# target hit in eyes
+#
+{4953}{}{Argh! A retinám!}
+{4954}{}{A szemem! Jaj, istenem, megvakultam!}
+{4955}{}{Miért ilyen gonosz velem az élet!}
+#
+# target hit in groin
+#
+{4956}{}{Óóóóóó, az ágyékom!}
+{4957}{}{Óóó! Ez fájt!}
+{4958}{}{Ez igen barátságtalan volt!}
+{4959}{}{}
+{4960}{}{Örh!}
+{4961}{}{}
+
+# 41. Ghoul, Normal
+#
+#  running away (6)
+#
+{5000}{}{Itt az idõ, hogy lelépjek!}
+{5001}{}{}
+{5002}{}{Aaaaahhhh!}
+{5003}{}{}
+{5004}{}{}
+{5005}{}{Minden jót!}
+#
+# moving in to attack
+#
+{5006}{}{}
+{5007}{}{}
+{5008}{}{Valakinek most már móresre kell tanítania!}
+{5009}{}{Valaki most meghal...}
+{5010}{}{}
+{5011}{}{}
+#
+# attacking
+#
+{5012}{}{}
+{5013}{}{Meghalsz!}
+{5014}{}{Halál, tûz!}
+{5015}{}{Punk!}
+{5016}{}{Atomtûz!}
+{5017}{}{}
+{5018}{}{Soha nem kellett volna belénk kötnöd!}
+{5019}{}{Az Izzásba veled!}
+{5020}{}{Én fogom lepecsételni a sírhelyedet!}
+{5021}{}{Halott vagy!}
+#
+# target being missed
+#
+{5022}{}{}
+{5023}{}{Nem volt túl meggyõzõ!}
+{5024}{}{}
+{5025}{}{Majd építek szép sírhelyet neked!}
+{5026}{}{Nem fogsz elásni a föld alá!}
+{5027}{}{Mire számítottál?}
+#
+# target hit in head
+#
+{5028}{}{}
+{5029}{}{A szemem!}
+{5030}{}{Aú!}
+#
+# target hit in left arm
+#
+{5031}{}{Aú!}
+{5032}{}{Aú! A karom!}
+{5033}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{5034}{}{Aú!}
+{5035}{}{Aú! A karom!}
+{5036}{}{}
+#
+# target hit in torso
+#
+{5037}{}{Aú!}
+{5038}{}{Úúf!}
+{5039}{}{Jaj!}
+{5040}{}{Aúúúhh!}
+{5041}{}{Argh!}
+{5042}{}{Grrr!}
+{5043}{}{}
+{5044}{}{Megeszem ezért a májad!}
+{5045}{}{}
+{5046}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5047}{}{Aú!}
+{5048}{}{Aú! A térdem!}
+{5049}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{5050}{}{Aú!}
+{5051}{}{Aú! A térdem!}
+{5052}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{5053}{}{Megvakultam!}
+{5054}{}{Nem látok!}
+{5055}{}{A szemem!}
+#
+# target hit in groin
+#
+{5056}{}{Óóóóóó, az ágyékom!}
+{5057}{}{Óóó! Ez fájt!}
+{5058}{}{Ez igencsak barátságtalan volt.}
+{5059}{}{}
+{5060}{}{Örh!}
+{5061}{}{}
+
+# 42.  Ghoul, Brave
+# We'll seal your tomb for this.
+#
+#  running away (6)
+#
+{5100}{}{Visszavonulás!}
+{5101}{}{Visszavonulás!}
+{5102}{}{Gyülekezõ!}
+{5103}{}{Ennek még korántsincs vége!}
+{5104}{}{Vissza fogok jönni!}
+{5105}{}{Vissza fogunk jönni!}
+#
+# moving in to attack
+#
+{5106}{}{}
+{5107}{}{}
+{5108}{}{Elfogni a behatolót!}
+{5109}{}{Halál az emberre!}
+{5110}{}{}
+{5111}{}{}
+#
+# attacking
+#
+{5112}{}{Az Izzásba veled!}
+{5113}{}{}
+{5114}{}{Mocskos emberfatty!}
+{5115}{}{}
+{5116}{}{}
+{5117}{}{Halál, tûz!}
+{5118}{}{Szét fogsz égni!}
+{5119}{}{}
+{5120}{}{Elbuksz és sohasem fogsz talpraállni!}
+{5121}{}{Szép sírhelyet kapsz majd tõlem!}
+#
+# target being missed
+#
+{5122}{}{Mellé...}
+{5123}{}{Senki nem fog sírhelyet ígérgetni nekem!}
+{5124}{}{Te nem vagy harcos!}
+{5125}{}{}
+{5126}{}{Sosem gyõzhetsz, ember!}
+{5127}{}{}
+#
+# target hit in head
+#
+{5128}{}{Ez fájt!}
+{5129}{}{A szemem!}
+{5130}{}{Aghh!}
+#
+# target hit in left arm
+#
+{5131}{}{Aghh!}
+{5132}{}{Aú! A karom!}
+{5133}{}{Aú! Eltörted!}
+#
+# target hit in right arm
+#
+{5134}{}{Aghh!}
+{5135}{}{Aú! A karom!}
+{5136}{}{Aú! Eltörted!}
+#
+# target hit in torso
+#
+{5137}{}{Aú!}
+{5138}{}{Úúf!}
+{5139}{}{Jaj!}
+{5140}{}{Aúúúhh!}
+{5141}{}{Argh!}
+{5142}{}{Grrr!}
+{5143}{}{Úúf! Ti mocskok, mind ugyanolyanok vagytok!}
+{5144}{}{Ezért felzabálom a májadat!}
+{5145}{}{}
+{5146}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5147}{}{Aghh!}
+{5148}{}{Aú! A térdem!}
+{5149}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{5150}{}{Aghh!}
+{5151}{}{Aú! A térdem!}
+{5152}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{5153}{}{Az istennyila csapjon beléd ezért!}
+{5154}{}{Nem látok!}
+{5155}{}{A szemem!}
+#
+# target hit in groin
+#
+{5156}{}{Óóóóóó, az ágyékom!}
+{5157}{}{Úúúúhhf!}
+{5158}{}{Meg fogom gyalázni a sírhelyed!}
+{5159}{}{}
+{5160}{}{Örh!}
+{5161}{}{}
+
+# 43. Super Mutant, Guard
+# Humans try to hurt superhumans? Stupid humans!
+#
+#  running away
+#
+{5200}{}{Futás!}
+{5201}{}{Nem fogsz megölni!}
+{5202}{}{Még visszatérek!!}
+{5203}{}{A barátaim elkapnak ezért!}
+{5204}{}{Ezért megfizetsz... de majd máskor!}
+{5205}{}{Mi vagyunk a Kiválasztottak! Jössz te még a mi utcánkba!}
+#
+# moving in to attack
+#
+{5206}{}{Közeleg a halálod!}
+{5207}{}{Azok, akik belekötnek a Kiválasztottakba, másba se fognak többet!}
+{5208}{}{Az emberek fegyverei nem árthatnak nekem!}
+{5209}{}{Nagyon, de nagyon szenvedni fogsz!}
+{5210}{}{}
+{5211}{}{Ki olyan hülye, hogy kekeckedik velünk?}
+#
+# attacking
+#
+{5212}{}{}
+{5213}{}{Senki nem fog megmenteni!}
+{5214}{}{}
+{5215}{}{Égõ halált fogsz halni!}
+{5216}{}{Meghalsz, idióta ember!}
+{5217}{}{Sikítva fogsz megpusztulni!}
+{5218}{}{}
+{5219}{}{Most pedig szétzúzlak!}
+{5220}{}{Nem harcolhatsz a Kiválsztottakkal!}
+{5221}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{5222}{}{Minek szenvedsz itt nekem??}
+{5223}{}{Az emberek ennyire képesek?}
+{5224}{}{Nulla vagy!}
+{5225}{}{Kiköpöm a belem a röhögéstõl...}
+{5226}{}{Ez támadás akart lenni??}
+{5227}{}{Mi vagyunk a Kiválasztottak!}
+#
+# target hit in head
+#
+{5228}{}{Ahhhgh! Az arcom!}
+{5229}{}{Az arcom! Szenvedni fogsz!}
+{5230}{}{Ahhhgh! Apró cafatokre téplek!}
+#
+# target hit in left arm
+#
+{5231}{}{Ahhhgh!}
+{5232}{}{}
+{5233}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{5234}{}{Ahhhgh!}
+{5235}{}{}
+{5236}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{5237}{}{Úúf!}
+{5238}{}{Grrr!}
+{5239}{}{Megöllek én ezért!}
+{5240}{}{Ha meghalsz, nem fogsz bántani!}
+{5241}{}{Milyen béna támadás ez már...}
+{5242}{}{Grrr!}
+{5243}{}{Óh!}
+{5244}{}{Meg foglak füröszteni!}
+{5245}{}{Grrr! Feldühítesz!}
+{5246}{}{Agh!}
+#
+# target hit in right leg
+#
+{5247}{}{Ahhhgh! A lábam!}
+{5248}{}{}
+{5249}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in left leg
+#
+{5250}{}{Ahhhgh! A lábam!}
+{5251}{}{}
+{5252}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{5253}{}{Ahhhgh! Szerencsétlen ember! Megvakultam!}
+{5254}{}{Ahhhgh! Fáj! Mit tettél?!}
+{5255}{}{Ahhhgh! Napokig foglak kínozni!}
+#
+# target hit in groin
+#
+{5256}{}{Ez emberi gyengeség!}
+{5257}{}{}
+{5258}{}{Hülye vagy, mint segg, ember!}
+{5259}{}{Mér' "ott" támadsz engem, mi?}
+{5260}{}{Órákig foglak bántalmazni!}
+{5261}{}{}
+
+# 44. Super Mutant, Normal
+# Even weakest runt of Chosen better than most powerful human!
+#
+#  running away
+#
+{5300}{}{Futás!}
+{5301}{}{Nem fogsz megölni!}
+{5302}{}{Menekülni kell...}
+{5303}{}{}
+{5304}{}{Megfizetsz te ezért... de nem most!}
+{5305}{}{A halálodra még visszatérünk!}
+#
+# moving in to attack
+#
+{5306}{}{Ki meri zavarni a Kiválasztottakat?}
+{5307}{}{Feldühítesz!}
+{5308}{}{Az emberek fegyverei nem árthatnak nekem!}
+{5309}{}{}
+{5310}{}{Nincs kegyelem az ellenségnek!}
+{5311}{}{Amikor harcolok, ölök!}
+#
+# attacking
+#
+{5312}{}{}
+{5313}{}{Senki nem fog megmenteni!}
+{5314}{}{Most pedig meghalsz!}
+{5315}{}{Hadd lássam a fájdalmad!}
+{5316}{}{Szétcincálom a tested!}
+{5317}{}{}
+{5318}{}{}
+{5319}{}{Most pedig meghalsz!}
+{5320}{}{Nagyon foglak bántani...!}
+{5321}{}{Szenvedj!}
+#
+# target being missed
+#
+{5322}{}{Gyenge vagy!}
+{5323}{}{Erõtlen vagy...}
+{5324}{}{Nulla vagy!}
+{5325}{}{}
+{5326}{}{Ez támadás akart lenni??}
+{5327}{}{Használhatatlan vagy!}
+#
+# target hit in head
+#
+{5328}{}{Ahhhgh! Az arcom!}
+{5329}{}{Az arcom! Szenvedni fogsz!}
+{5330}{}{Ahhhgh! Apró cafatokre téplek!}
+#
+# target hit in left arm
+#
+{5331}{}{Ahhhgh!}
+{5332}{}{Aú! Majdnem sikerült fájdalmat okozni a Kiválasztottnak!}
+{5333}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{5334}{}{Ahhhgh!}
+{5335}{}{}
+{5336}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{5337}{}{Visszaadom én ezt a fájdalmat!}
+{5338}{}{Úúf!}
+{5339}{}{Jaj!}
+{5340}{}{Hmm, kezdesz bosszantani!}
+{5341}{}{Grrr! Remélem, hamar meghalsz!}
+{5342}{}{Grrr!}
+{5343}{}{Lehet, hogy bántalmazhatsz, de gyõzni sosem fogsz!}
+{5344}{}{Grrr!}
+{5345}{}{Aú! Nem volt nagy ötlet részedrõl, hogy fájdalmat okoztál nekem!}
+{5346}{}{}
+#
+# target hit in right leg
+#
+{5347}{}{Ahhhgh! A lábam!}
+{5348}{}{}
+{5349}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in left leg
+#
+{5350}{}{Ahhhgh! A lábam!}
+{5351}{}{Ez már majdnem fájt a Kiválasztottnak!}
+{5352}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{5353}{}{Ahhhgh! Megvakultam!}
+{5354}{}{Ahhhgh! Fáj! Mit csinálsz velem?}
+{5355}{}{Ahhhgh! Úgy ég a szemem, mint az Izzás!}
+#
+# target hit in groin
+#
+{5356}{}{Ez emberi gyengeség!}
+{5357}{}{}
+{5358}{}{}
+{5359}{}{Mér' "ott" támadsz engem, mi?}
+{5360}{}{Fájdalmas halálod lesz, ember!}
+{5361}{}{}
+
+# 45.  Super Mutant, Hostile
+# Don't get in my way when I rip the human apart!
+#
+#  running away
+#
+{5400}{}{Futás!}
+{5401}{}{Nem fogsz megölni!}
+{5402}{}{Még visszatérek!!}
+{5403}{}{}
+{5404}{}{Ezért megfizetsz... de majd máskor!}
+{5405}{}{Legközelebb meghalsz!}
+#
+# moving in to attack
+#
+{5406}{}{Közeleg a halálod!}
+{5407}{}{}
+{5408}{}{Emberek fegyverei nem árthatnak nekem!}
+{5409}{}{Nagyon, de nagyon szenvedni fogsz!}
+{5410}{}{Elpusztítandó ellenséget látok!}
+{5411}{}{Ki az a nagyon hülye, aki ránk mer támadni?}
+#
+# attacking
+#
+{5412}{}{}
+{5413}{}{Senki nem fog megmenteni!}
+{5414}{}{Mi vagyunk a te Mestereid!}
+{5415}{}{Tüzes Halállal fogsz halni!}
+{5416}{}{Meghalsz hülye ember!}
+{5417}{}{Sikítva fogsz megdögleni!}  
+{5418}{}{}
+{5419}{}{Most pedig szétlapítalak!}
+{5420}{}{}
+{5421}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{5422}{}{Minek szenvedsz itt nekem??}
+{5423}{}{Az emberek ennyire képesek?}
+{5424}{}{Nulla vagy!}
+{5425}{}{}
+{5426}{}{}
+{5427}{}{Mi vagyunk a Kiválasztottak!}
+#
+# target hit in head
+#
+{5428}{}{Ahhhgh! Az arcom!}
+{5429}{}{Az arcom! Szenvedni fogsz!}
+{5430}{}{Ahhhgh! Apró cafatokre téplek!}
+#
+# target hit in left arm
+#
+{5431}{}{Ahhhgh!}
+{5432}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{5433}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{5434}{}{Ahhhgh!}
+{5435}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{5436}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{5437}{}{Nincs fájdalom, amit ne tudnék elviselni!}
+{5438}{}{Úúf! Megöllek!}
+{5439}{}{Gyûlölöm a fajtádat!}
+{5440}{}{}
+{5441}{}{Argh!}
+{5442}{}{Grrr!}
+{5443}{}{Aú! Magam foglak elintézni!}
+{5444}{}{}
+{5445}{}{Grrr!}
+{5446}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5447}{}{Ahhhgh! A lábam!}
+{5448}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{5449}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in left leg
+#
+{5450}{}{Ahhhgh! A lábam!}
+{5451}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{5452}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{5453}{}{Ahhhgh! Szerencsétlen ember! Megvakultam!}
+{5454}{}{Ahhhgh! Fáj! Mit tettél?!}
+{5455}{}{Ahhhgh! Napokig foglak kínozni!}
+#
+# target hit in groin
+#
+{5456}{}{}
+{5457}{}{}
+{5458}{}{Hülye ember vagy, semmi egyéb!}
+{5459}{}{Mér' "ott" támadsz engem, mi?}
+{5460}{}{Hosszú órákig foglak kínozni!}
+{5461}{}{}
+
+# 46. Super Mutant, Sergeant
+# I lead the apocalypse. Corpses to the left, corpses to the right, and death in front of me.
+#
+#  running away
+#
+{5500}{}{Futás!}
+{5501}{}{Nem fogsz megölni!}
+{5502}{}{Még visszatérek!!}
+{5503}{}{Ennek még nincsen wége!}
+{5504}{}{Nagyon rövid életû lesz a gyõzelmed!}
+{5505}{}{Mi vagyunk a Kiválasztottak! Hamarosan meghalsz!}
+#
+# moving in to attack
+#
+{5506}{}{Lépj elõ, közösen eljárjuk a Haláltáncot!}
+{5507}{}{}
+{5508}{}{Az emberek fegyverei nem árthatnak nekünk!}
+{5509}{}{Szenvedni fogsz!}
+{5510}{}{Seni nem állhat nekünk ellent!}
+{5511}{}{}
+#
+# attacking
+#
+{5512}{}{}
+{5513}{}{Senki nem menthet meg!}
+{5514}{}{Mi vagyunk a Gazdáid!}
+{5515}{}{Tüzes Halállal fogsz halni!}
+{5516}{}{Meghalsz hülye ember!}
+{5517}{}{Sikítva fogsz megdögleni!}
+{5518}{}{Iszok a véredbõl!}
+{5519}{}{Most pedig szétmorzsollak!}
+{5520}{}{Nem harcolhatsz a Kiválasztottakkal!}
+{5521}{}{Szenvedj, emberke!}
+#
+# target being missed
+#
+{5522}{}{Miért harcolsz ilyen szánalmasan?}
+{5523}{}{}
+{5524}{}{Harcnak mered nevezni ezt a töketlenkedést?}
+{5525}{}{A támadásodtól röhögõgörcsöt kapok!}
+{5526}{}{}
+{5527}{}{}
+#
+# target hit in head
+#
+{5528}{}{Ahhhgh! Az arcom!}
+{5529}{}{Az arcom! Szenvedni fogsz!}
+{5530}{}{Ahhhgh! Apró cafatokre téplek!}
+#
+# target hit in left arm
+#
+{5531}{}{Ahhhgh!}
+{5532}{}{Ez lenne a fájdalom? Ne röhögtess!}
+{5533}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in right arm
+#
+{5534}{}{Ahhhgh!}
+{5535}{}{}
+{5536}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in torso
+#
+{5537}{}{Nem gyõzhetsz le engem!}
+{5538}{}{Ezért rögtön megöllek!}
+{5539}{}{Nagyszabású halálod lesz!}
+{5540}{}{Most nagyon felingereltél!}
+{5541}{}{Úúf!}
+{5542}{}{Grrr!}
+{5543}{}{Úúf! Nem maradhatsz életben!}
+{5544}{}{}
+{5545}{}{Neked nincs fogalmad arról, mivel hozott össze a sors, ember!}
+{5546}{}{Az arcomat a véreddel fogom lemosni!}
+#
+# target hit in right leg
+#
+{5547}{}{Ahhhgh! A lábam!}
+{5548}{}{}
+{5549}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in left leg
+#
+{5550}{}{Ahhhgh! A lábam!}
+{5551}{}{}
+{5552}{}{Ahhhgh! Ezért kitekerem a nyakad!}
+#
+# target hit in eyes
+#
+{5553}{}{Ahhhgh! Szerencsétlen ember! Megvakultam!}
+{5554}{}{Ahhhgh! Mindegy... nem kell ahhoz szem, hogy kinyírjalak!}
+{5555}{}{Ahhhgh! Napokig foglak kínozni!}
+#
+# target hit in groin
+#
+{5556}{}{Ez emberi gyengeség!}
+{5557}{}{}
+{5558}{}{Hülye ember vagy, semmi egyéb!}
+{5559}{}{Mér' "ott" támadsz engem, mi?}
+{5560}{}{Hosszú órákig foglak kínozni!}
+{5561}{}{Ezzel végleg betelt a pohár!}
+
+# 47.  Merchants
+# Are you sure that we can't make other arrangements?
+#
+#  running away
+#
+{5600}{}{Itt az idõ, hogy lelépjek!}
+{5601}{}{Kegyelmezz!}
+{5602}{}{Kérlek, hagyd abba!}
+{5603}{}{Segítség!}
+{5604}{}{Aaaaahhhh!}
+{5605}{}{Fussunk!}
+#
+# moving in to attack
+#
+{5606}{}{}
+{5607}{}{Nem hagysz túl sok lehetõséget másoknak!}
+{5608}{}{Kinek képzeled magad?}
+{5609}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{5610}{}{Egyezkedhettünk volna...}
+{5611}{}{Ez rossz húzás volt, barátom!}
+#
+# attacking
+#
+{5612}{}{Amit nem tudsz befejezni, el se kezdd!}
+{5613}{}{Te akartad!}
+{5614}{}{}
+{5615}{}{Tudom, hogy kell bánni az ilyen disznókkal!}
+{5616}{}{Fizetni fogsz azért, amit tettél!}
+{5617}{}{Meg vannak számlálva a perceid!}
+{5618}{}{}
+{5619}{}{}
+{5620}{}{Kezdheted számba venni a veszteségeidet!}
+{5621}{}{}
+#
+# target being missed
+#
+{5622}{}{Hííjjj!}
+{5623}{}{Két fillért nem érsz, barátom!}
+{5624}{}{Látom, nem vagy valami jó az ilyesmiben!}
+{5625}{}{Ez nagyon gyengusra sikerült!}
+{5626}{}{Jobb lenna, ha szó nélkül lelépnél!}
+{5627}{}{}
+#
+# target hit in head
+#
+{5628}{}{Ne már az arcomat!}
+{5629}{}{}
+{5630}{}{Aú! A fülem!}
+#
+# target hit in left arm
+#
+{5631}{}{Aú, a karom!}
+{5632}{}{A franc esne beléd!}
+{5633}{}{Eltörted a karomat!}
+#
+# target hit in right arm
+#
+{5634}{}{Aú, a karom!}
+{5635}{}{A franc esne beléd!}
+{5636}{}{Eltörted a karomat!}
+#
+# target hit in torso
+#
+{5637}{}{Aú!}
+{5638}{}{Úúf!}
+{5639}{}{Jaj!}
+{5640}{}{Aúúúhh!}
+{5641}{}{Argh!}
+{5642}{}{}
+{5643}{}{Összehozhattunk volna valami üzletet!}
+{5644}{}{Úúf! Kiváncsi vagyok, mennyit kapok majd a hulládért...}
+{5645}{}{Aú!}
+{5646}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5647}{}{Aú, a lábam!}
+{5648}{}{A térdem!}
+{5649}{}{Aú! Szétment a lábam!}
+#
+# target hit in left leg
+#
+{5650}{}{Aú, a lábam!}
+{5651}{}{A térdem!}
+{5652}{}{Aú! Szétment a lábam!}
+#
+# target hit in eyes
+#
+{5653}{}{Megvakultam!}
+{5654}{}{Ugggh. Az arcom! A szemem!}
+{5655}{}{A szemem! A Pokolba veled...}
+#
+# target hit in groin
+#
+{5656}{}{Óóóóóó, az ágyékom!}
+{5657}{}{Óóóóóó, ez nagyon aljas volt, te állat...}
+{5658}{}{Örh!}
+{5659}{}{Nem... kapok... levegõt...}
+{5660}{}{}
+{5661}{}{Nagyon fáj, nagyon fáj...}
+
+# 48. Peasant, Hub
+# Hé, aren't the taxes bad enough? I don't need you messing up my life too!
+#
+#  running away
+#
+{5700}{}{Le kell lépnem innen!}
+{5701}{}{Futás! Futás!}
+{5702}{}{Valaki segítsen!}
+{5703}{}{Mindannyian meghalunk!}
+{5704}{}{Egy szép napon majd nagyon rád fog járni a rúd!}
+{5705}{}{Ezért nem fogom vásárra vinni a bõrömet!}
+#
+# moving in to attack
+#
+{5706}{}{Túl késõ a meneküléshez!}
+{5707}{}{Ki engedett téged ide, a Hubba?}
+{5708}{}{Hé, te ott!}
+{5709}{}{Nem szeretjük itt a fajtádat!}
+{5710}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{5711}{}{Kinek képzeled magad?}
+#
+# attacking
+#
+{5712}{}{Ezt kapd ki!}
+{5713}{}{Na, hogy tetszik?}
+{5714}{}{Ezt csináljuk a patkányokkal!}
+{5715}{}{Ezt neked szántuk!}
+{5716}{}{Minden jót!}
+{5717}{}{}
+{5718}{}{Bajkeverõ rohadék!}
+{5719}{}{}
+{5720}{}{Te vadállat!}
+{5721}{}{Megbánod még, hogy a Hubba tetted a lábad!}
+#
+# target being missed
+#
+{5722}{}{Nem vagy te olyan jó, mint amilyennek hiszed magad!}
+{5723}{}{}
+{5724}{}{Olyan vagy, mint egy közönséges bûnözõ!}
+{5725}{}{}
+{5726}{}{Nem leszek az áldozatod...}
+{5727}{}{Ez volt az utolsó tévedésed!}
+#
+# target hit in head
+#
+{5728}{}{}
+{5729}{}{Aggghhh!}
+{5730}{}{Az arcom! Az arcom!}
+#
+# target hit in left arm
+#
+{5731}{}{Aggghhh! A karom!}
+{5732}{}{A karom!}
+{5733}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in right arm
+#
+{5734}{}{Aggghhh! A karom!}
+{5735}{}{A karom!}
+{5736}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in torso
+#
+{5737}{}{Aú!}
+{5738}{}{Úúf!}
+{5739}{}{Jaj!}
+{5740}{}{Aúúúhh!}
+{5741}{}{Argh!}
+{5742}{}{Grrr!}
+{5743}{}{!}
+{5744}{}{}
+{5745}{}{Jaj!}
+{5746}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5747}{}{Aggghhh! A lábam!}
+{5748}{}{A lábam!}
+{5749}{}{Francba, a lábamnak annyi...}
+#
+# target hit in left leg
+#
+{5750}{}{Aggghhh! A lábam!}
+{5751}{}{A lábam!}
+{5752}{}{Francba, a lábamnak annyi...}
+#
+# target hit in eyes
+#
+{5753}{}{Aggghhh! Megvakultam!}
+{5754}{}{A rohadt életbe! Minden ég...}
+{5755}{}{A szemem! Ezt nagyon megbánod még!}
+#
+# target hit in groin
+#
+{5756}{}{Óóóóóó, az ágyékom!}
+{5757}{}{Óóóóóóóóóó!}
+{5758}{}{Nem... kapok... levegõt...}
+{5759}{}{}
+{5760}{}{Nagyon fáj, nagyon fáj...}
+{5761}{}{Francba, ez fájt!}
+
+# 49. Thief, Hub
+# You are taking this rather personally, sir.
+#
+#  running away
+#
+{5800}{}{}
+{5801}{}{Futás! Futás!}
+{5802}{}{Na, én leléptem...}
+{5803}{}{Túl fiatal vagyok, hogy meghaljak!}
+{5804}{}{Jöhet az árnyék!}
+{5805}{}{Ez a harc most nem nekem kedvez...}
+#
+# moving in to attack
+#
+{5806}{}{Nyomjuk le ezt a kis pondrót!}
+{5807}{}{Gyûlölet!!!}
+#ezt igy lattam jonak egy ismerosomre emlekezven
+
+
+{5808}{}{Hé, te ott!}
+{5809}{}{Nem tetszik a hozzáállásod...}
+{5810}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{5811}{}{Kinek képzeled magad?}
+#
+# attacking
+#
+{5812}{}{}
+{5813}{}{Na, hogy tetszik?}
+{5814}{}{Ezt csináljuk a patkányokkal!}
+{5815}{}{Úgy lenyomlak, hogy még magam is megbánom!}
+{5816}{}{Te, pofátlan disznó!}
+{5817}{}{Te aztán tudod, hogy kell felidegesíteni valakit!}
+{5818}{}{Hányok tõled!}
+{5819}{}{Halál vagy dicsõség!}
+{5820}{}{Szörnyen fogsz mutatni a földön...}
+{5821}{}{Megbánod te még, hogy a Hubba tetted a lábad!}
+#
+# target being missed
+#
+{5822}{}{Le kell ereszkednem hozzád, amikor veled küzdök!}
+{5823}{}{}
+{5824}{}{Nem vagy jobb, mint egy pitiáner bûnözõ.}
+{5825}{}{}
+{5826}{}{Ezt tényleg nem kéne erõltetned...}
+{5827}{}{Ez volt az utolsó tévedésed!}
+#
+# target hit in head
+#
+{5828}{}{A franc abba az ügyes fajtájába!}
+{5829}{}{Aggghhh!}
+{5830}{}{Az arcom! Az én szépséges arcocskám!}
+#
+# target hit in left arm
+#
+{5831}{}{Aggghhh! A karom!}
+{5832}{}{A karom!}
+{5833}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in right arm
+#
+{5834}{}{Aggghhh! A karom!}
+{5835}{}{A karom!}
+{5836}{}{A francos karom most tök használhatatlan...}
+#
+# target hit in torso
+#
+{5837}{}{}
+{5838}{}{Úúf!}
+{5839}{}{Jaj!}
+{5840}{}{Úúf! Fáj a bordám!}
+{5841}{}{Crap! Ez fájt!}
+{5842}{}{Jaj! A franc esne beléd!}
+{5843}{}{Argh!}
+{5844}{}{}
+{5845}{}{}
+{5846}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5847}{}{Aggghhh! A lábam!}
+{5848}{}{A lábam!}
+{5849}{}{Francba, a lábamnak annyi...}
+#
+# target hit in left leg
+#
+{5850}{}{Aggghhh! A lábam!}
+{5851}{}{A lábam!}
+{5852}{}{Francba, a lábamnak annyi...}
+#
+# target hit in eyes
+#
+{5853}{}{Aggghhh! Megvakultam!}
+{5854}{}{A rohadt életbe! Minden ég...}
+{5855}{}{Mit tettél velem?!}
+#
+# target hit in groin
+#
+{5856}{}{Óóóóóó, az ágyékom!}
+{5857}{}{Pitiáner kis bûzözõ vagy!}
+{5858}{}{}
+{5859}{}{}
+{5860}{}{}
+{5861}{}{Francba, ez fájt!}
+
+# 50.  Mutant, Hub
+# We've made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
+#
+#  running away (6)
+#
+{5900}{}{Itt az idõ, hogy lelépjek!}
+{5901}{}{Csá!}
+{5902}{}{Aaaaahhhh!}
+{5903}{}{Talán máskor találkozunk...}
+{5904}{}{}
+{5905}{}{Minden jót!}
+#
+# moving in to attack
+#
+{5906}{}{}
+{5907}{}{Megvédeni az otthonunkat!}
+{5908}{}{Valaki itt most leckét kap...}
+{5909}{}{Asszem, most egyikünk meghal!}
+{5910}{}{}
+{5911}{}{Senki nem kekeckedhet a Hubbeliekkel!}
+#
+# attacking
+#
+{5912}{}{Ezt kapd ki!}
+{5913}{}{Halj meg, de aztán nehogy hazajárj kísérteni!}
+{5914}{}{Hogy szakadna rád az ég!}
+{5915}{}{Punk!}
+{5916}{}{Te kis féreg!}
+{5917}{}{Remélem, ez fáj!}
+{5918}{}{Nem kellett volna kikezdened velünk!}
+{5919}{}{Az Izzásba veled!}
+{5920}{}{Remélem, a Pokolba jutsz!}
+{5921}{}{Megdöglesz!}
+#
+# target being missed
+#
+{5922}{}{Nem talált!}
+{5923}{}{Nem volt túl meggyõzõ!}
+{5924}{}{}
+{5925}{}{Engem nem lehet csak úgy eltalálni...}
+{5926}{}{Senki nem nyomhat le engem!}
+{5927}{}{Mégis mire számítottál?}
+#
+# target hit in head
+#
+{5928}{}{Ez fájt!}
+{5929}{}{Óóó, de fáj a fejem!}
+{5930}{}{Aú!}
+#
+# target hit in left arm
+#
+{5931}{}{Aú!}
+{5932}{}{Aú! A karom!}
+{5933}{}{Aú! A könyököm!}
+#
+# target hit in right arm
+#
+{5934}{}{Aú!}
+{5935}{}{Aú! A karom!}
+{5936}{}{Aú! A könyököm!}
+
+#
+# target hit in torso
+#
+{5937}{}{Aú! A mellkasom!}
+{5938}{}{Úúf!}
+{5939}{}{Jaj!}
+{5940}{}{}
+{5941}{}{}
+{5942}{}{Jaj! A franc esne beléd!}
+{5943}{}{Argh!}
+{5944}{}{Aú!}
+{5945}{}{}
+{5946}{}{Úúf!}
+#
+# target hit in right leg
+#
+{5947}{}{Aú!}
+{5948}{}{Aú! A térdem!}
+{5949}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{5950}{}{Aú!}
+{5951}{}{Aú! A térdem!}
+{5952}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{5953}{}{Megvakultam!}
+{5954}{}{Nem látok!}
+{5955}{}{A szemem!}
+#
+# target hit in groin
+#
+{5956}{}{Óóóóóó, az ágyékom!}
+{5957}{}{Óóó! Ez fájt!}
+{5958}{}{}
+{5959}{}{}
+{5960}{}{Örh!}
+{5961}{}{}
+
+# 51. Peasant, Junktown
+# Wait a minute. I already pay to three different protection rackets. Be reasonable!
+#
+#  running away
+#
+{6000}{}{Bánts valaki mást, kérlek!}
+{6001}{}{Kegyelmezz!}
+{6002}{}{Valaki segítsen!}
+{6003}{}{Kérlek, hagyd abba!}
+{6004}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{6005}{}{Ezért nincs kedvem meghalni!}
+#
+# moving in to attack
+#
+{6006}{}{Várj csak, mindjárt elkaplak!}
+{6007}{}{}
+{6008}{}{Hé, te ott!}
+{6009}{}{Nem szeretjük itt a fajtádat!}
+{6010}{}{}
+{6011}{}{Szétszedlek, foxi a lábtörlõt...}
+#
+# attacking
+#
+{6012}{}{Ezt kapd ki!}
+{6013}{}{Na, hogy tetszik?}
+{6014}{}{Meghalsz!}
+{6015}{}{Te mutáns torzszülött!}
+{6016}{}{Ilyen kis taknyokat eszek reggelire!}
+{6017}{}{Megetetlek a kutyákkal!}
+{6018}{}{}
+{6019}{}{Jól van! Te akartad!}
+{6020}{}{}
+{6021}{}{}
+#
+# target being missed
+#
+{6022}{}{Nem vagy te olyan jó, mint amilyennek hiszed magad!}
+{6023}{}{Ennyit tudsz?}
+{6024}{}{}
+{6025}{}{}
+{6026}{}{}
+{6027}{}{Szánalmas, komolyan mondom!}
+#
+# target hit in head
+#
+{6028}{}{Francba!}
+{6029}{}{Úh, de fáj a fejem!}
+{6030}{}{Az arcom! Az arcom!}
+#
+# target hit in left arm
+#
+{6031}{}{Aggghhh! A karom!}
+{6032}{}{A karom!}
+{6033}{}{Óh, ember, ez nagyon fáj!}
+#
+# target hit in right arm
+#
+{6034}{}{Aggghhh! A karom!}
+{6035}{}{A karom!}
+{6036}{}{}
+
+#
+# target hit in torso
+#
+{6037}{}{}
+{6038}{}{Úúf!}
+{6039}{}{Jaj!}
+{6040}{}{Úúf! Fáj a bordám!}
+{6041}{}{Úhhhh! Ez fájt!}
+{6042}{}{Francba! Köpök rád!}
+{6043}{}{Argh!}
+{6044}{}{Ó, a bordám!}
+{6045}{}{Ajjjaj!!!}
+{6046}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6047}{}{Aggghhh! A lábam!}
+{6048}{}{A lábam!}
+{6049}{}{Ennyit a térdemrõl...}
+#
+# target hit in left leg
+#
+{6050}{}{Aggghhh! A lábam!}
+{6051}{}{A lábam!}
+{6052}{}{Ennyit a térdemrõl...}
+#
+# target hit in eyes
+#
+{6053}{}{Aggghhh! Megvakultam!}
+{6054}{}{A szemem! A szemem!}
+{6055}{}{A szemem! Ezt nagyon megbánod még!}
+#
+# target hit in groin
+#
+{6056}{}{Óóóóóó, az ágyékom!}
+{6057}{}{Óóóóóóóóóó!}
+{6058}{}{Nem... kapok... levegõt...}
+{6059}{}{}
+{6060}{}{Nagyon fáj, nagyon fáj...}
+{6061}{}{Francba, ez fájt!}
+
+# 52. Guard, Junktown
+# We don't need people making things worse than they already are.
+#
+#  running away
+#
+{6100}{}{Itt az idõ, hogy lelépjek!}
+{6101}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{6102}{}{Támadj valaki mást, oké?!}
+{6103}{}{Yikes!}
+{6104}{}{Ezért nincs kedvem meghalni!}
+{6105}{}{Ez túl sok nekem...}
+#
+# moving in to attack
+#
+{6106}{}{Hé, te ott!}
+{6107}{}{Majd megtanítalak én kesztyûbe dudálni!}
+{6108}{}{Nem szeretjük itt a fajtádat!}
+{6109}{}{Jobb lenne egy kis tiszteletet tanulnod!}
+{6110}{}{Na, most learatjuk szépen a babérokat...}
+{6111}{}{Várj csak, mindjárt elkaplak!}
+#
+# attacking
+#
+{6112}{}{}
+{6113}{}{}
+{6114}{}{}
+{6115}{}{Na, hogy tetszik?}
+{6116}{}{}
+{6117}{}{}
+{6118}{}{Lássuk, milyen kemény vagy...}
+{6119}{}{Punk!}
+{6120}{}{}
+{6121}{}{Kaját csinálok belõled!}
+#
+# target being missed
+#
+{6122}{}{A mamádtól tanultad ezt a mozdulatot?}
+{6123}{}{}
+{6124}{}{Nem vagy elég jó!}
+{6125}{}{Ez volt az utolsó tévedésed!}
+{6126}{}{Kezdõ.}
+{6127}{}{Kocsmákban tanultál küzdeni?}
+#
+# target hit in head
+#
+{6128}{}{Aú! Az a rohadt ku...}
+{6129}{}{Betörted az orromat!}
+{6130}{}{Lecsavarom a fejed!!}
+#
+# target hit in left arm
+#
+{6131}{}{Aú, a karom!}
+{6132}{}{Életed legnagyobb tévedését követted el!}
+{6133}{}{A karom!}
+#
+# target hit in right arm
+#
+{6134}{}{Aú, a karom!}
+{6135}{}{Életed legnagyobb tévedését követted el!}
+{6136}{}{A karom!}
+#
+# target hit in torso
+#
+{6137}{}{Örh!}
+{6138}{}{Úúf!}
+{6139}{}{Jaj!}
+{6140}{}{}
+{6141}{}{Úhhhh! Ez fájt!}
+{6142}{}{Jaj!}
+{6143}{}{Argh!}
+{6144}{}{Óh, asszem, eltörted a bordám...}
+{6145}{}{Ajjjaj!!! A lépem!}
+{6146}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6147}{}{Aú, a lábam!}
+{6148}{}{Nem kell ahhoz állnom, hogy legyõzzelek!}
+{6149}{}{A térdem!}
+#
+# target hit in left leg
+#
+{6150}{}{Aú, a lábam!}
+{6151}{}{Nem kell ahhoz állnom, hogy legyõzzelek!}
+{6152}{}{A térdem!}
+#
+# target hit in eyes
+#
+{6153}{}{Nem látok!}
+{6154}{}{Ez a harc minden másodperccel rosszabbodik...}
+{6155}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{6156}{}{Óóóóóó, az ágyékom!}
+{6157}{}{Ezt érezni fogom reggelente...}
+{6158}{}{}
+{6159}{}{Örh!}
+{6160}{}{}
+{6161}{}{}
+
+# 53. Killian
+# I ain't happy about killing you, but if you're set on causing trouble, push has gotta come to shove
+#
+#  running away
+#
+{6200}{}{Még találkozunk. Erre mérget vehetsz!}
+{6201}{}{Tartozol egy visszavágóval! De ráér...}
+{6202}{}{Ezt a kört megnyerted, de a játéknak még nincs vége!}
+{6203}{}{Késõbb még összefutunk!}
+{6204}{}{Ha kedves az életed, elhúzol a városból!}
+{6205}{}{Ezt még nem játszottuk le, barátcskám!}
+#
+# moving in to attack
+#
+{6206}{}{}
+{6207}{}{Most majd móresre tanítalak!}
+{6208}{}{}
+{6209}{}{Tanulj tiszteletet!}
+{6210}{}{}
+{6211}{}{}
+#
+# attacking
+#
+{6212}{}{}
+{6213}{}{}
+{6214}{}{}
+{6215}{}{Na, hogy tetszik?}
+{6216}{}{}
+{6217}{}{}
+{6218}{}{Lássuk, milyen kemény vagy...}
+{6219}{}{Gyökér!}
+{6220}{}{}
+{6221}{}{Úgy picsán rúglak, hogy a lábad nem éri a földet!}
+#
+# target being missed
+#
+{6222}{}{Kilógsz a sorból!}
+{6223}{}{}
+{6224}{}{Béna vagy és kész!}
+{6225}{}{Addig kéne abbahagynod, amíg egy darabban vagy!}
+{6226}{}{Kezdõ.}
+{6227}{}{}
+#
+# target hit in head
+#
+{6228}{}{Aú! Az a rohadt ku...}
+{6229}{}{}
+{6230}{}{Lecsavarom a fejed!!}
+#
+# target hit in left arm
+#
+{6231}{}{Aú, a karom!}
+{6232}{}{Kezdesz nagyon bosszantani!}
+{6233}{}{A karom!}
+#
+# target hit in right arm
+#
+{6234}{}{Aú, a karom!}
+{6235}{}{Kezdesz nagyon bosszantani!}
+{6236}{}{A karom!}
+#
+# target hit in torso
+#
+{6237}{}{Ahh!}
+{6238}{}{Úúf!}
+{6239}{}{Jaj!}
+{6240}{}{Úúf! Szóval a vesémre utazol, mi?}
+{6241}{}{}
+{6242}{}{}
+{6243}{}{}
+{6244}{}{Ó, a bordám!}
+{6245}{}{}
+{6246}{}{}
+#
+# target hit in right leg
+#
+{6247}{}{Aú, a lábam!}
+{6248}{}{Szép találat! Várj csak, most én jövök!}
+{6249}{}{A térdem!}
+#
+# target hit in left leg
+#
+{6250}{}{Aú, a lábam!}
+{6251}{}{Szép találat! Várj csak, most én jövök!}
+{6252}{}{A térdem!}
+#
+# target hit in eyes
+#
+{6253}{}{Nem látok!}
+{6254}{}{Ez a harc minden pillanattal rosszabbodik...}
+{6255}{}{}
+#
+# target hit in groin
+#
+{6256}{}{Aaaaaugh!!!}
+{6257}{}{}
+{6258}{}{Próbálj már övön felül, ha kérhetem...}
+{6259}{}{Örh!}
+{6260}{}{}
+{6261}{}{}
+
+# 54. Thug, Junktown
+#
+#  running away
+{6300}{}{Húzás elfelé!}
+{6301}{}{Még visszatérek...}
+{6302}{}{Mindenért fizetni fogsz egyszer!}
+{6303}{}{Késõbb még találkozunk, te mocsok!}
+{6304}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+{6305}{}{Drágán megfizetsz még ezért... de majd máskor!}
+#
+# moving in to attack
+#
+{6306}{}{}
+{6307}{}{Friss hús...}
+{6308}{}{Táncolni fogok a sírodon!}
+{6309}{}{}
+{6310}{}{Eljött a gyilok ideje!}
+{6311}{}{}
+#
+# attacking (10)
+#
+{6312}{}{}
+{6313}{}{Sikíts csak, sikíts!}
+{6314}{}{Ezt igencsak élvezni fogom ám!}
+{6315}{}{}
+{6316}{}{Megetetlek a kutyákkal!}
+{6317}{}{Senki nem veheti el Roncsvárost tõlünk!}
+{6318}{}{}
+{6319}{}{Jutalmat fogok kapni ezért!}
+{6320}{}{Meghalsz!}
+{6321}{}{Ilyen kis vakarcsokat eszek reggelire!}
+#
+# target being missed (6)
+#
+{6322}{}{}
+{6323}{}{Ennyit tudsz?}
+{6324}{}{}
+{6325}{}{Legközelebb próbálj célozni!}
+{6326}{}{}
+{6327}{}{Balek!}
+#
+# target hit in head (3)
+#
+{6328}{}{Ne már az arcomat!}
+{6329}{}{Jaj, de fáj a fejem...}
+{6330}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{6331}{}{Aú, a karom!}
+{6332}{}{Eltörted a karomat!}
+{6333}{}{}
+#
+# target hit in right arm
+#
+{6334}{}{Aú, a karom!}
+{6335}{}{Eltörted a karomat!}
+{6336}{}{}
+#
+# target hit in torso
+#
+{6337}{}{Jaj! Ez fájt!}
+{6338}{}{Úúf!}
+{6339}{}{Jaj!}
+{6340}{}{}
+{6341}{}{Úhhhh! Ez fájt!}
+{6342}{}{}
+{6343}{}{Úúf!}
+{6344}{}{Ezért a húzásért szétrúgom a bordádat!}
+{6345}{}{Ah!}
+{6346}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6347}{}{Aú, a lábam!}
+{6348}{}{Ezért drágán megfizetsz még!}
+{6349}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{6350}{}{Aú, a lábam!}
+{6351}{}{}
+{6352}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{6353}{}{Argh!}
+{6354}{}{A szemem... Ne már a szememet...}
+{6355}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{6356}{}{Óóóóóó, az ágyékom!}
+{6357}{}{}
+{6358}{}{}
+{6359}{}{}
+{6360}{}{Örh!}
+{6361}{}{Aú! Ezért meg foglak ölni!}
+
+# 55. Skulz_Gang
+#
+#  running away
+{6400}{}{Húzás elfelé!}
+{6401}{}{Még visszatérek...}
+{6402}{}{Segítség!}
+{6403}{}{Fussunk!}
+{6404}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+{6405}{}{}
+#
+# moving in to attack
+#
+{6406}{}{}
+{6407}{}{Friss hús...}
+{6408}{}{Üdvözlünk Roncsvárosban! Szép sírhelyed lesz!}
+{6409}{}{Skulz banda! Támadás!}
+{6410}{}{Eljött a gyilkolás ideje!}
+{6411}{}{}
+#
+# attacking (10)
+#
+{6412}{}{Berakjuk a koponyádat a gyûjteményünkbe!}
+{6413}{}{Sikolts csak nyugodt szívvel!}
+{6414}{}{Ezt nagyon fogom élvezni!}
+{6415}{}{}
+{6416}{}{Megetetlek a kutyákkal!}
+{6417}{}{Senki nem veszi el Roncsvárost tõlünk!}
+{6418}{}{Remélem, lassan fogsz meghalni!}
+{6419}{}{}
+{6420}{}{Meghalsz!}
+{6421}{}{}
+#
+# target being missed (6)
+#
+{6422}{}{}
+{6423}{}{Túl jó vagyok, hogy meghaljak!}
+{6424}{}{}
+{6425}{}{Próbálj már célozni, te balfasz!}
+{6426}{}{}
+{6427}{}{Hah!}
+#
+# target hit in head (3)
+#
+{6428}{}{Ne már az arcomat!}
+{6429}{}{Apám, ez rosszabb, mint a másnaposság!}
+{6430}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{6431}{}{Aú, a karom!}
+{6432}{}{Eltörted a karomat!}
+{6433}{}{A karom! A karom!}
+#
+# target hit in right arm
+#
+{6434}{}{Aú, a karom!}
+{6435}{}{Eltörted a karomat!}
+{6436}{}{A karom! A karom!}
+#
+# target hit in torso
+#
+{6037}{}{Ember! Ez fáj, mint állat!}
+{6038}{}{Úúf! Ezt kurvára megbánod még!}
+{6039}{}{levegõért kapkod}
+{6040}{}{(levegõért kapkod) Levegõ... kell...}
+{6041}{}{Le fogom köpni a sírodat, te sóher!}
+{6042}{}{Francba!}
+{6043}{}{Úúf!}
+{6044}{}{Ez nagyon aljas találat volt!}
+{6045}{}{Úúf!}
+{6046}{}{Jaj!}
+#
+# target hit in right leg
+#
+{6447}{}{Aú, a lábam!}
+{6448}{}{Senki nem fog nyomorékot csinálni belõlem!}
+{6449}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{6450}{}{Aú, a lábam!}
+{6451}{}{Senki nem fog nyomorékot csinálni belõlem!}
+{6452}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{6453}{}{Argh! A szemem!}
+{6454}{}{A szemem... Ne már a szememet...}
+{6455}{}{}
+#
+# target hit in groin
+#
+{6456}{}{Óóóóóó, az ágyékom!}
+{6457}{}{}
+{6458}{}{}
+{6459}{}{}
+{6460}{}{Örh!}
+{6461}{}{Aú! Ezért meg foglak ölni!}
+
+# 56. Gizmo
+#
+#  running away
+#{6500}{}{Húzás elfelé!}
+#{6501}{}{Még visszatérek...}
+#{6502}{}{Segítség!}
+#{6503}{}{Fussunk!}
+#{6504}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+#{6505}{}{Megkapod még a fizetséged, ezt megígérem!}
+#
+# moving in to attack
+#
+{6506}{}{Véged van, kispofa! Lehúzhatod a rolót!}
+{6507}{}{Nem kellett volna keresztbe tenned nekem, te kis takony!}
+{6508}{}{Új hozzáállásra lesz szükséged, te takonypóc!}
+{6509}{}{Egynél többször senki nem tesz keresztbe Gizmónak!}
+{6510}{}{Szépen meghalsz, és mész a föld alá!}
+{6511}{}{Nagyon elszomorítasz!}
+#
+# attacking (10)
+#
+{6512}{}{A térdkalácsodat beteszem a gyûjteményembe!}
+{6513}{}{Ezt csinálom a taknyokkal, meg a balekokkal!}
+{6514}{}{Ezt élvezni fogom!}
+{6515}{}{Óóóóhh, ez nagyon fog fájni!}
+{6516}{}{Rossz emberrel húztál ujjat!}
+{6517}{}{Senki nem veszi el tõlem Roncsvárost!}
+{6518}{}{Remélem, lassan fogsz meghalni!}
+{6519}{}{Egyenként fogom leszaggatni a végtagjaidat!}
+{6520}{}{Menten meghalsz!}
+{6521}{}{Lássuk, kedvedre való lesz-e ez!}
+#
+# target being missed (6)
+#
+{6522}{}{Ennél szánalmasabbat már rég láttam...}
+{6523}{}{Jobb harci gyógyszarokra lesz szükséged!}
+{6524}{}{Te még Killian-nél is nagyobb balek vagy!}
+{6525}{}{}
+{6526}{}{Ez volt az utolsó próbálkozásod!}
+{6527}{}{}
+#
+# target hit in head (3)
+#
+{6528}{}{}
+{6529}{}{Hogy merészeled ezt tenni velem!}
+{6530}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{6531}{}{Te mocskos kis radskorpió-ürülék...}
+{6532}{}{Eltörted a karomat!}
+{6533}{}{A karom! A karom!}
+#
+# target hit in right arm
+#
+{6534}{}{Te mocskos kis radskorpió-ürülék...}
+{6535}{}{Eltörted a karomat!}
+{6536}{}{A karom! A karom!}
+#
+# target hit in torso
+#
+{6537}{}{}
+{6538}{}{}
+{6539}{}{Úúf!}
+{6540}{}{Úúf! A bordám...}
+{6541}{}{!}
+{6542}{}{Jajjj!}
+{6543}{}{Argh!}
+{6544}{}{Ezt senki nem teheti velem! Senki!}
+{6545}{}{Ajjjaj!!!}
+{6546}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6547}{}{Óh, a lábam!}
+{6548}{}{Alig... állok a... lábamon...}
+{6549}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{6550}{}{Óh, a lábam!}
+{6551}{}{Alig... állok a... lábamon...}
+{6552}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{6553}{}{Uggh! Neeee!}
+{6554}{}{Eltaláltad a szemem, te taknyos.... Ne csináld már, hé!}
+{6555}{}{}
+#
+# target hit in groin
+#
+{6556}{}{Óóóóóó, zacskóm!}
+{6557}{}{Óóó! Nem rossz, taknyos!}
+{6558}{}{Óóó! A saját sírodat ásod, te kis gennyláda.}
+{6559}{}{Óóó! Hullább vagy, mint egy albinó az Izzásban!}
+{6560}{}{Örh!}
+{6561}{}{Óhhh! Ezért meg foglak ölni!}
+
+# 57. Sellbabies
+# Attacking a defenseless woman? Eat my Uzi, you son of a bitch!
+#
+#  running away
+#
+{6600}{}{Itt az idõ, hogy lelépjek!}
+{6601}{}{Kegyelmezz!}
+{6602}{}{Kérlek, hagyd abba!}
+{6603}{}{Segítség!}
+{6604}{}{Aaaaahhhh!}
+{6605}{}{}
+#
+# moving in to attack
+#
+{6606}{}{Hey!}
+{6607}{}{}
+{6608}{}{Kinek képzeled magad?}
+{6609}{}{Senki nem veheti el tõlünk ezt a helyet!}
+{6610}{}{Arr akényszerítesz, hogy nagyon barátságtalan legyek...}
+{6611}{}{Az a rohadt ku...}
+#
+# attacking
+#
+{6612}{}{}
+{6613}{}{Te akartad!}
+{6614}{}{}
+{6615}{}{}
+{6616}{}{Miért kellett ez az egész?}
+{6617}{}{Halál rád, te kurafi...}
+{6618}{}{Ne vedd személyeskedésnek...}
+{6619}{}{Amit kapsz, mindet megérdemled!}
+{6620}{}{Gondolom, tudatában vagy, hogy ezt te kezdted!}
+{6621}{}{}
+#
+# target being missed
+#
+{6622}{}{Hííjjj!}
+{6623}{}{Tényleg nem kéne ezt csinálnod!}
+{6624}{}{A bénaság netovábbja vagy, nemhogy harcos!}
+{6625}{}{Emlékeztetsz egy régi udvarlómra!}
+{6626}{}{A torkodon fogok akadni!}
+{6627}{}{}
+#
+# target hit in head
+#
+{6628}{}{Az arcom!}
+{6629}{}{Jaj, de fáj a fejem...}
+{6630}{}{Szétbarmolod az arcom!}
+#
+# target hit in left arm
+#
+{6631}{}{Aú, a karom!}
+{6632}{}{Le akarsz nyomorítani?!}
+{6633}{}{A karom!}
+#
+# target hit in right arm
+#
+{6634}{}{Aú, a karom!}
+{6635}{}{Le akarsz nyomorítani?!}
+{6636}{}{Eltörted a karomat!}
+#
+# target hit in torso
+#
+{6637}{}{Aú!}
+{6638}{}{!}
+{6639}{}{Aú! Ez fájt!}
+{6640}{}{}
+{6641}{}{Nõt ott nem kéne eltalálnod!}
+{6642}{}{Ajjjaj!!}
+{6643}{}{Jaj!}
+{6644}{}{Aú! Te kis ...}
+{6645}{}{&*$#@!}
+{6646}{}{#$#@! Te kis féreg!}
+#
+# target hit in right leg
+#
+{6647}{}{A lábam!!!}
+{6648}{}{A térdem!}
+{6649}{}{Aú! Szétment a lábam!}
+#
+# target hit in left leg
+#
+{6650}{}{Aú, a lábam!}
+{6651}{}{A térdem!}
+{6652}{}{}
+#
+# target hit in eyes
+#
+{6653}{}{Az arcom! Az arcom!}
+{6654}{}{A... szemem... A szemem!}
+{6655}{}{Te mocsokláda! Megöllek!}
+#
+# target hit in groin
+#
+{6656}{}{Nyilván férfiakkal szoktál harcolni...}
+{6657}{}{}
+{6658}{}{Te sivatagi hulladék!}
+{6659}{}{Az az én különbejáratú részem!}
+{6660}{}{Te takony!}
+{6661}{}{Te vadállat!}
+
+# 58. Brotherhood_Initiate
+# This is a chance to prove myself!
+#
+#  running away
+#
+{6700}{}{Erõsítés kell!}
+{6701}{}{Valaki segítsen!}
+{6702}{}{}
+{6703}{}{Visszavonulás!}
+{6704}{}{Hátrálni!!}
+{6705}{}{Legközelebb találkozunk!}
+#
+# moving in to attack
+#
+{6706}{}{Jövök ám!}
+{6707}{}{}
+{6708}{}{}
+{6709}{}{Nem kellett volna belefognod ebbe!}
+{6710}{}{Remélem, a paladinok résen vannak!}
+{6711}{}{}
+#
+# attacking
+#
+{6712}{}{}
+{6713}{}{}
+{6714}{}{Most pedig meghalsz!}
+{6715}{}{Na, hogy tetszik?}
+{6716}{}{Kifogtad a legjobbat! Úgy is halsz majd, mint a többiek!}
+{6717}{}{Amit nem tudsz befejezni, el se kezdd!}
+{6718}{}{}
+{6719}{}{Lássuk, hogy tetszik ez!}
+{6720}{}{}
+{6721}{}{Viszlát a Pokolban!}
+#
+# target being missed
+#
+{6722}{}{Nézz szembe a tényekkel! Jobb vagyok nálad!}
+{6723}{}{Ennyit tudsz?}
+{6724}{}{Béna vagy! Mutasd hogy tudsz harcolni!}
+{6725}{}{}
+{6726}{}{Mi vagyunk a Harc Mesterei!}
+{6727}{}{Nem árthatsz a Testvériségnek!}
+#
+# target hit in head (3)
+#
+{6728}{}{Ezért elkaplak!}
+{6729}{}{Aú!}
+{6730}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{6731}{}{Eltörted a karomat!}
+{6732}{}{Egy elcseszett kar nem állíthat meg engem!}
+{6733}{}{}
+#
+# target hit in right arm
+#
+{6734}{}{Eltörted a karomat!}
+{6735}{}{Egy elcseszett kar nem állíthat meg engem!}
+{6736}{}{}
+#
+# target hit in torso
+#
+{6737}{}{Szétgyaktad a bordámat!}
+{6738}{}{Úúf!}
+{6739}{}{Jaj!}
+{6740}{}{Úúf! Szóval ez lenne a híres fájdalom...}
+{6741}{}{Aú! A kiképzésen errõl nem volt szó!}
+{6742}{}{Úúf! Ha meghalok, a Testvériség megbosszul engem!}
+{6743}{}{Jaj!}
+{6744}{}{}
+{6745}{}{Óh! Nagyon fáj az oldalam! Ezért levadászlak!}
+{6746}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6747}{}{Aú, a lábam!}
+{6748}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{6749}{}{Nem fogsz lesántítani! Ójajj...}
+#
+# target hit in left leg
+#
+{6750}{}{Aú, a lábam!}
+{6751}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{6752}{}{Nem fogsz lesántítani!}
+#
+# target hit in eyes
+#
+{6753}{}{Megvakultam!}
+{6754}{}{Ég a szemem!}
+{6755}{}{Nem látok semmit!}
+#
+# target hit in groin
+#
+{6756}{}{Óóóóóó, az ágyékom!}
+{6757}{}{}
+{6758}{}{Ez nagyon fáj...}
+{6759}{}{Nem... kapok... levegõt...}
+{6760}{}{Ezért elkaplak!}
+{6761}{}{Te, fíííreg!!!}
+
+# 59. Brotherhood_Scribe
+# I'm no Knight, but I can defend myself
+#
+#  running away
+#
+{6800}{}{Erõsítés kell!}
+{6801}{}{Elég volt ebbõl a harcból...}
+{6802}{}{Vissz!}
+{6803}{}{Visszavonulás!}
+{6804}{}{Hátrálni!!}
+{6805}{}{Ebbõl elég volt!}
+#
+# moving in to attack
+#
+{6806}{}{}
+{6807}{}{}
+{6808}{}{Na várj csak egy pillanatot...}
+{6809}{}{Nem kellett volna belefognod ebbe!}
+{6810}{}{}
+{6811}{}{Nézd csak, itt jövök!}
+#
+# attacking
+#
+{6812}{}{Ezt kapd ki!}
+{6813}{}{Most neked annyi!}
+{6814}{}{Most pedig meghalsz!}
+{6815}{}{Na, hogy tetszik?}
+{6816}{}{Tudom, hogy kell bánni a magadfajtákkal!}
+{6817}{}{Ez majd kihozza belõled a harcost!}
+{6818}{}{}
+{6819}{}{Lássuk, hogy fûlik majd ehhez a fogad!}
+{6820}{}{}
+{6821}{}{}
+#
+# target being missed
+#
+{6822}{}{Nézzünk szembe a tényekkel! Jobb vagyok nálad!}
+{6823}{}{Ennyit tudsz?}
+{6824}{}{Te hülye kis idióta!}
+{6825}{}{Ez szánalmas megmozdulás volt!}
+{6826}{}{Sértés a hozzá nem értésed!}
+{6827}{}{Nem árthatsz a Testvériségnek!}
+#
+# target hit in head (3)
+#
+{6828}{}{Ah!}
+{6829}{}{Aú!}
+{6830}{}{Óóóh, az orrom!}
+#
+# target hit in left arm
+#
+{6831}{}{A hangja alapján ez nyílt törés lesz...}
+{6832}{}{Óóó, a karom!}
+{6833}{}{Lebénult a karom, basszus!}
+#
+# target hit in right arm
+#
+{6834}{}{A hangja alapján ez nyílt törés lesz...}
+{6835}{}{Óóó, a karom!}
+{6836}{}{Lebénult a karom, basszus!}
+#
+# target hit in torso
+#
+{6837}{}{}
+{6838}{}{Úúf!}
+{6839}{}{}
+{6840}{}{Úúf! Gyere, Fájdalom, öreg cimbora!}
+{6841}{}{}
+{6842}{}{Úúf! A Testvériség megbosszulja majd a halálomat!}
+{6843}{}{Jaj!}
+{6844}{}{}
+{6845}{}{Óh! Nagyon fáj az oldalam! Ezért elkaplak!}
+{6846}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6847}{}{Aú, a lábam!}
+{6848}{}{Óóóh, a térdem!}
+{6849}{}{Aúhh!}
+#
+# target hit in left leg
+#
+{6850}{}{Aú, a lábam!}
+{6851}{}{Óóóh, a térdem!}
+{6852}{}{Ójajj...}
+#
+# target hit in eyes
+#
+{6853}{}{Megvakultam!}
+{6854}{}{Megvakítottak! Segítség kell!}
+{6855}{}{A szemem!}
+#
+# target hit in groin
+#
+{6856}{}{Óóóóóó, az ágyékom!}
+{6857}{}{Óóóóóó, belém állt a szusz...}
+{6858}{}{Óóóóóó, ez fájt...}
+{6859}{}{Nem... kapok... levegõt...}
+{6860}{}{Megsebesültem! Segítséget ide!}
+{6861}{}{Ez fájt...}
+
+# 60. Brotherhood_Knight
+# I don't need to be a paladin to take care of you
+#
+#  running away
+#
+{6900}{}{Erõsítés kell!}
+{6901}{}{Elég volt ebbõl a harcból...}
+{6902}{}{Vissza!}
+{6903}{}{Visszavonulás!}
+{6904}{}{Hátrálni!!}
+{6905}{}{Na, ebbõl elég!}
+#
+# moving in to attack
+#
+{6906}{}{Itt jövök, ni!}
+{6907}{}{Ez itt az enyém!}
+{6908}{}{}
+{6909}{}{Hadd szóljon!}
+{6910}{}{}
+{6911}{}{Jövök! Jövök}
+#
+# attacking
+#
+{6912}{}{Na, fejezzük be gyorsan!}
+{6913}{}{Most neked annyi!}
+{6914}{}{Most pedig meghalsz!}
+{6915}{}{Véged van!}
+{6916}{}{Ennyi volt!}
+{6917}{}{Ez majd kihozza belõled a harcost!}
+{6918}{}{}
+{6919}{}{Lássuk, mibõl vagy!}
+{6920}{}{Ez csak a bemelegítés!}
+{6921}{}{Itt jön a mennydörgés!}
+#
+# target being missed
+#
+{6922}{}{Képzetlen vagy!}
+{6923}{}{Ennyit tudsz?}
+{6924}{}{Te hülye kis idióta!}
+{6925}{}{Ez szánalmas megmozdulás volt!}
+{6926}{}{Sértés a hozzá nem értésed!}
+{6927}{}{Te minden vagy, csak nem harcos!}
+#
+# target hit in head (3)
+#
+{6928}{}{Ah!}
+{6929}{}{Aú!}
+{6930}{}{Óóóhh!}
+#
+# target hit in left arm
+#
+{6931}{}{A hangja alapján ez nyílt törés lesz...}
+{6932}{}{Aú!}
+{6933}{}{Lebénult a karom, basszus!}
+#
+# target hit in right arm
+#
+{6934}{}{A hangja alapján ez nyílt törés lesz...}
+{6935}{}{Aú!}
+{6936}{}{Lebénult a karom, basszus!}
+#
+# target hit in torso
+#
+{6937}{}{Aú! Felkészültem a fajtádból!}
+{6938}{}{Úúf!}
+{6939}{}{Jaj!}
+{6940}{}{Úúf! Volt ez már rosszabb is...}
+{6941}{}{Aú! Csináld csak, én készen állok!}
+{6942}{}{A Testvériség megbosszul engem, ha meghalok!}
+{6943}{}{Jaj!}
+{6944}{}{Argh!}
+{6945}{}{}
+{6946}{}{Úúf!}
+#
+# target hit in right leg
+#
+{6947}{}{Ááá, a lábam!}
+{6948}{}{}
+{6949}{}{Aúhh!}
+#
+# target hit in left leg
+#
+{6950}{}{Ááá, a lábam!}
+{6951}{}{}
+{6952}{}{Ójajj...}
+#
+# target hit in eyes
+#
+{6953}{}{Aggghh!}
+{6954}{}{Megvakítottak! Segítség kell!}
+{6955}{}{A szemem!}
+#
+# target hit in groin
+#
+{6956}{}{Óóóóóó, az ágyékom!}
+{6957}{}{Óóóóóó, belém állt a szusz...}
+{6958}{}{Óóóóóó, ez fájt...}
+{6959}{}{Nem... kapok... levegõt...}
+{6960}{}{Maradjunk tiszta játéknál...}
+{6961}{}{Ez fájt...}
+
+# 61. Brotherhood_Paladin
+# We are the Elite.
+#
+#  running away
+#
+{7000}{}{Dunkirk! Dunkirk! Visszavonulok!}
+{7001}{}{Elég volt ebbõl a harcból...}
+{7002}{}{Vissza!}
+{7003}{}{Inkább életben maradok, hogy máskor is harcolhassak!}
+{7004}{}{Most valahogy nem megy...}
+{7005}{}{}
+#
+# moving in to attack
+#
+{7006}{}{Itt jövök ám!}
+{7007}{}{Ez itt az enyém!}
+{7008}{}{Ezt gyorsan lerendezzük}
+{7009}{}{Induljon a banzáj!}
+{7010}{}{Semlegesítsük ezt a kis bajkeverõt!}
+{7011}{}{Jövök! Jövök!}
+#
+# attacking
+#
+{7012}{}{Élvezd ki a megmaradt kis idõdet!}
+{7013}{}{Simítsuk ki az EKG-ját!}
+{7014}{}{Na, így kell ezt csinálni!}
+{7015}{}{Véged van, mint a botnak!}
+{7016}{}{Jön a tûz!}
+{7017}{}{Jól jön egy kis gyakorlás, de most már hagyjuk abba!}
+{7018}{}{}
+{7019}{}{Lássuk, milyen fából faragtak!}
+{7020}{}{Elég volt a játszadozásból!}
+{7021}{}{Már majdnem szánalmat érzek irántad!}
+#
+# target being missed
+#
+{7022}{}{Egy erõtlen kis balfasz vagy!}
+{7023}{}{Ennyire tellik?}
+{7024}{}{Te most komolyan veszed ezt a harcot?}
+{7025}{}{Tartsd a szemed a célon, te elmebeteg!}
+{7026}{}{Ez lesz az utolsó tévedésed!}
+{7027}{}{Jobb lett volna, ha otthon maradsz!}
+#
+# target hit in head (3)
+#
+{7028}{}{Hmm, Ez fájt!}
+{7029}{}{Öh!}
+{7030}{}{Óóóhh!}
+#
+# target hit in left arm
+#
+{7031}{}{A hangja alapján ez nyílt törés lesz...}
+{7032}{}{Hmm, eltaláltad az alkaromat!}
+{7033}{}{Lebénult a karom, basszus!}
+#
+# target hit in right arm
+#
+{7034}{}{A hangja alapján ez nyílt törés lesz...}
+{7035}{}{Hmm, eltaláltad az alkaromat!}
+{7036}{}{Lebénult a karom, basszus!}
+#
+# target hit in torso
+#
+{7037}{}{Aú! A kutya úristenit!}
+{7038}{}{Úúf!}
+{7039}{}{Jaj!}
+{7040}{}{Úúf! Anyám rosszabbat is csinált már velem!}
+{7041}{}{Aú! Te gazember!}
+{7042}{}{Úúf! A Testvériség megbosszul engem, ha meghalok!}
+{7043}{}{Úgy fogok úrrá lenni a fájdalmon, ahogy rajtad is!}
+{7044}{}{Igen... Gyere, Fájdalom, öreg cimbora!}
+{7045}{}{}
+{7046}{}{It's only a flesh wound!}
+#
+# target hit in right leg
+#
+{7047}{}{Hmm, lábsérülés...}
+{7048}{}{Kezd megroggyanni a lábam...}
+{7049}{}{Aúhh!}
+#
+# target hit in left leg
+#
+{7050}{}{Hmm, lábsérülés...}
+{7051}{}{Kezd megroggyanni a lábam...}
+{7052}{}{Ójajj...}
+#
+# target hit in eyes
+#
+{7053}{}{Aggghh!}
+{7054}{}{Hová lett a szemem világa?!}
+{7055}{}{A szemem!}
+#
+# target hit in groin
+#
+{7056}{}{Óóóóóó, az ágyékom!}
+{7057}{}{Ez most már tényleg kezd az agyamra menni, te punk!}
+{7058}{}{Éreztem már jobban is magam!}
+{7059}{}{Szóval a mi kis barátunk szeret lefelé menni...}
+{7060}{}{Itt az idõ, hogy szétkapjuk ezt a kis senkiházit!}
+{7061}{}{Ne már! Egy újabb lesipuskás!}
+
+# 62. Brotherhood_Elders
+# Insolent pup. Why do you bother us with idle chatter when there are enemies to fight
+#
+#  running away
+#
+{7100}{}{Fedezzetek!}
+{7101}{}{Ez nem gyávaság, jobb ha tudod!}
+{7102}{}{Ez nem az én napom...}
+{7103}{}{Adok egy esélyt...}
+{7104}{}{Ne gondold, hogy ezzel végeztünk!}
+{7105}{}{}
+#
+# moving in to attack
+#
+{7106}{}{Jövök ám!}
+{7107}{}{Mindent egyedül kell csinálnom?}
+{7108}{}{Ezt gyorsan lerendezzük...}
+{7109}{}{Ez talán kihívás lesz...}
+{7110}{}{Valaki itt nagyon melléfogott!}
+{7111}{}{Valaki ujjat akar húzni velünk? Ki az a félkegyelmû?}
+#
+# attacking
+#
+{7112}{}{Ez semmiség...}
+{7113}{}{Vigyázz, kész, tûz...}
+{7114}{}{Így kell ezt csinálni!}
+{7115}{}{Véged van!}
+{7116}{}{Jövök! Jövök}
+{7117}{}{Örülök, hogy gyakorlunk, de most már ideje befejezni.}
+{7118}{}{Mostantól jobb lesz, ha nem táplálsz hiú reményeket.}
+{7119}{}{Ez kemény lecke egy ilyen fiatal embernek.}
+{7120}{}{Elég volt a játszadozásból.}
+{7121}{}{Itt jön a Perjelek ajándéka, gyermekem!}
+#
+# target being missed
+#
+{7122}{}{I could see that one coming}
+{7123}{}{Húsz évig tartott megtanulni, hogyan ugorjak el az ilyenek elõl.}
+{7124}{}{Tehetséges vagy, de a kiképzésed csapnivaló!}
+{7125}{}{A tapasztalatot semmi sem helyettesítheti!}
+
+{7126}{}{Na... most én jövök!}
+{7127}{}{Otthon kellett volna maradnod!}
+#
+# target hit in head (3)
+#
+{7128}{}{Hmm, Ez fájt!}
+{7129}{}{Uh!}
+{7130}{}{Óóó, ez nagyon ott volt!}
+#
+# target hit in left arm
+#
+{7131}{}{}
+{7132}{}{Hmm, alkaron kapott...}
+{7133}{}{Lemerevedett a karom. Már nem az elsõ alkalom...}
+#
+# target hit in right arm
+#
+{7134}{}{}
+{7135}{}{Hmm, alkaron kapott...}
+{7136}{}{Lemerevedett a karom. Már nem az elsõ alkalom...}
+#
+# target hit in torso
+#
+{7137}{}{Nem érzem a fájdalmat!!}
+{7138}{}{Élek!}
+{7139}{}{Élek! Fáj, fáj, de még mindig élek!}
+{7140}{}{Aú! Súlyos taktikai hibát vétettél!}
+{7141}{}{Úúf! A Testvériség mindenek felett!}
+{7142}{}{Úúf! Ha meghalok, a Testvériség megbosszul engem!}
+{7143}{}{Úúf!}
+{7144}{}{(levegõért kapkod)}
+{7145}{}{Ez fájt!}
+{7146}{}{Ezért magadon érzed majd a Testvériség haragját!}
+#
+# target hit in right leg
+#
+{7147}{}{Hmm, lábsérülés...}
+{7148}{}{A lábam cserbenhagy...}
+{7149}{}{Nem mondhatnám, hogy ez kellemes volt...}
+#
+# target hit in left leg
+#
+{7150}{}{Hmm, lábsérülés...}
+{7151}{}{A lábam cserbenhagy...}
+{7152}{}{Nem mondhatnám, hogy ez kellemes volt...}
+#
+# target hit in eyes
+#
+{7153}{}{Nyugodtnak kell maradnom... még így is tudom, hol a célpont.}
+{7154}{}{Ez szemen talált! Marhára örülök...}
+{7155}{}{A szemem!}
+#
+# target hit in groin
+#
+{7156}{}{Óóóóóó, az ágyékom!}
+{7157}{}{}
+{7158}{}{Ez a gyerek nagyon idegesít!}
+{7159}{}{}
+{7160}{}{Itt az idõ, hogy szétkapjam ezt a bolondot!}
+{7161}{}{Na, már megint egy aljas kis lesipuskás!}
+
+# 63. Brotherhood_Rhombus
+#
+#  running away
+#
+{7200}{}{Átmenetileg lelépek!}
+{7201}{}{Elég ebbõl a harcból!}
+{7202}{}{Visszavonulás!}
+{7203}{}{Majd máskor megvívunk...}
+{7204}{}{Most olyan béna vagyok, hogy az nem igaz...}
+{7205}{}{}
+#
+# moving in to attack
+#
+{7206}{}{Jövök, ne aggódj!}
+{7207}{}{Ez az alak az enyém!}
+{7208}{}{Ezt a tuskót magam fogom megfaragni!}
+{7209}{}{Hadd mutassalak be a fájdalomnak!}
+{7210}{}{Szemét kis pondró!}
+{7211}{}{Majd mindjárt megmutatom én neked!}
+#
+# attacking
+#
+{7212}{}{Élvezd az életed utolsó néhány percét!}
+{7213}{}{Fárasztasz, de nagyon!}
+{7214}{}{Így kell ezt csinálni...}
+{7215}{}{Véged van!}
+{7216}{}{A profik így csinálják ezt...}
+{7217}{}{Most már kezdesz nagyon az agyamra menni!}
+{7218}{}{}
+{7219}{}{Te akartad, kölyök, hogy leckét kapj!}
+{7220}{}{Elég ebbõl a játszadozásból!}
+{7221}{}{Már-már szánalmat érzek irántad!}
+#
+# target being missed
+#
+{7222}{}{A tudásod a nulla felé közelít!}
+{7223}{}{Ne fecséreld már az idõmet, kölyök!}
+{7224}{}{Te most komolyan veszed ezt a harcot, vagy sem?}
+{7225}{}{Nem régóta csinálod ezt, ugye?}
+{7226}{}{Nulla kis bénaság vagy!}
+{7227}{}{Otthon kellett volna maradnod anyuci szoknyájánál!}
+#
+# target hit in head (3)
+#
+{7228}{}{Hmm, Ez fájt!}
+{7229}{}{Uh!}
+{7230}{}{Óóóhh!}
+#
+# target hit in left arm
+#
+{7231}{}{}
+{7232}{}{Hmm, ez alkaron kapott!}
+{7233}{}{Lebénult a karom, basszus!}
+#
+# target hit in right arm
+#
+{7234}{}{}
+{7235}{}{Hmm, ez alkaron kapott!}
+{7236}{}{Lebénult a karom, basszus!}
+#
+# target hit in torso
+#
+{7237}{}{Azért sem érzem a fájdalmat!}
+{7238}{}{Úúf! Szemét disznó!}
+{7239}{}{Úúf! Szemét kis pondró! Most nagyon megharagudtam!}
+{7240}{}{Aú! Súlyos taktikai hibát követtél el!}
+{7241}{}{Jaj!}
+{7242}{}{Úúf! A Testvériség megbosszulja majd a halálomat!}
+{7243}{}{Úúf!}
+{7244}{}{A fájdalom tudatja velem, hogy még élek!}
+{7245}{}{Ez fájt!}
+{7246}{}{}
+#
+# target hit in right leg
+#
+{7247}{}{Egy sima lábsérülés nem fog megakadályozni, hogy kicsináljalak!}
+{7248}{}{Cserbenhagy a lábam...}
+{7249}{}{Aúhh!}
+#
+# target hit in left leg
+#
+{7250}{}{Egy sima lábsérülés nem fog megakadályozni, hogy kicsináljalak!}
+{7251}{}{Cserbenhagy a lábam...}
+{7252}{}{Ójajj...}
+#
+# target hit in eyes
+#
+{7253}{}{Aggghh!}
+{7254}{}{Te mocsokláda!}
+{7255}{}{A szemem!}
+#
+# target hit in groin
+#
+{7256}{}{Kölyök, azok az emberek, akik játszadoznak velem, többnyire meghalnak a végén!}
+{7257}{}{}
+{7258}{}{Éreztem már jobban is magam...}
+{7259}{}{}
+{7260}{}{Eljött az idõ, hogy szétkapjalak...}
+{7261}{}{Mi másra is számíthatnék egy ilyen alaktól...}
+
+# 64. Children, Morpheus
+# You actually expect to kill me?
+#
+#  running away (6)
+#
+{7300}{}{Jót mókáztunk, de most már mennem kell.}
+{7301}{}{Ennek a harcnak nincs semmi értelme. Minden jót, bolond!}
+{7302}{}{Nem fogok több idõt fecsérelni rád!}
+{7303}{}{Van énnekem jobb dolgom is, minthogy veled mocskoljam be a kezem!}
+{7304}{}{Majd az Éjfajzatok elintéznek, kezeskedem érte!}
+{7305}{}{Isten veled, te bolond! Nem fogsz életben maradni, hogy újra találkozzunk}
+#
+# moving in to attack
+#
+{7306}{}{Már régóta nem éreztem a forró vért az ujjaim hegyén!}
+{7307}{}{A tetteidért halállal lakolsz!}
+{7308}{}{Amint végeztem veled, a vakondpatkányok fognak felzabálni!}
+{7309}{}{Már megint megzavartak!}
+{7310}{}{Szemtelen viselkedésed nem tolerálható!}
+{7311}{}{Túlléptél azon a határon, amit meg lehetne bocsátani!}
+#
+# attacking
+#
+{7312}{}{Ezt kapd ki!}
+{7313}{}{Felkenlek a szentséges lánggal!}
+{7314}{}{Így bánunk az elvadult állatokkal!}
+{7315}{}{Te undorító vadember!}
+{7316}{}{Élvezni fogom, ahogy üvöltesz!}
+{7317}{}{Ez csak az agóniád kezdete!}
+{7318}{}{Morpheus vagyok, és fekete bot van nálam!}
+{7319}{}{Égni fogsz!}
+{7320}{}{Morpheus vagyok, a Halál nagymestere!}
+{7321}{}{Most bevégzem az életedet!}
+#
+# target being missed
+#
+{7322}{}{Hihetetlen, mennyire nem meggyõzõ, amit csinálsz...}
+{7323}{}{Nem véletlenül töltöttem tíz évet a Hasfelmetszõknél!}
+{7324}{}{Szánalmas...}
+{7325}{}{Már kurvákkal is jobb harcaim voltak...}
+{7326}{}{Mindig is béna voltál, vagy csak mostanában lettél ilyen?}
+{7327}{}{Szentségtörõ, ezt elhibáztad! Hamarosan hulla lesz belõled!}
+#
+# target hit in head
+#
+{7328}{}{Agggh!}
+{7329}{}{A szemem!}
+{7330}{}{Szerencsés találat!}
+#
+# target hit in left arm
+#
+{7331}{}{Aú!}
+{7332}{}{Aú! A karom!}
+{7333}{}{Aú! A fene azt a szerencsés fajtádat!}
+#
+# target hit in right arm
+#
+{7334}{}{Aú!}
+{7335}{}{Aú! A karom!}
+{7336}{}{Aú! A fene azt a szerencsés fajtádat!}
+#
+# target hit in torso
+#
+{7337}{}{Micsoda szerencsés alak!}
+{7338}{}{Aú! Azért sem adom meg magam!}
+{7339}{}{Te aztán tudod, hogy kell halálra idegesíteni valakit!}
+{7340}{}{A Mester szemében máris elástad magad!}
+{7341}{}{Aú!}
+{7342}{}{Jaj!}
+{7343}{}{Úúf!}
+{7344}{}{(levegõért kapkod)}
+{7345}{}{Óh, ez fájt!}
+{7346}{}{A követõim ezért nagyon megkínoznak majd!}
+#
+# target hit in right leg
+#
+{7347}{}{Aú!}
+{7348}{}{Aú! A térdem!}
+{7349}{}{Aú! A lábam!}
+#
+#
+# target hit in left leg
+#
+{7350}{}{Aú!}
+{7351}{}{Aú! A térdem!}
+{7352}{}{Aú! A lábam!}
+#
+# target hit in eyes
+#
+{7353}{}{A szemem! Te mocskos kis disznó!}
+{7354}{}{Egyenként fogom leszaggatni a végtagjaidat!}
+{7355}{}{Agghh! Te mocskos kis...}
+#
+# target hit in groin
+#
+{7356}{}{Óóóóóó, az ágyékom!}
+{7357}{}{Jaaaiiijjj!}
+{7358}{}{Öröm lesz nézni, ahogy szenvedsz!}
+{7359}{}{Úúúúhhf!}
+{7360}{}{A halálod különösen fájdalmas lesz, annyit ígérhetek!}
+{7361}{}{Hogy merészeled Morpheus ágyékát támadni, mi?}
+
+# 65. Children, Lasher
+# Child, you must be disciplined
+#
+#  running away (6)
+#
+{7400}{}{Gyermekem, már elég büntetést kaptál. El veled!}
+{7401}{}{Nem szabadna ellenállnod, gyermek! Ezen még dolgoznunk kell.}
+{7402}{}{Nem pazarlok több idõt rád.}
+{7403}{}{Van énnekem jobb dolgom is, hogy a kezemet mocskoljam a fajtáddal!}
+{7404}{}{Majd az Éjfajzatok elintéznek, annyit mondhatok!}
+{7405}{}{Késõbb majd megkapod méltó büntetésed!}
+#
+# moving in to attack
+#
+{7406}{}{Kiérdemelted a büntetést!}
+{7407}{}{Meg kell tanulnod a fegyelmet!}
+{7408}{}{Maradj nyugton! Ez fájni fog!}
+{7409}{}{Meg kell tanulnod viselkedni, gyermekem!}
+{7410}{}{Ezek a mai fiatalok... Semmi fegyelem, semmi viselkedés. Tõlem majd tanulhatsz...}
+{7411}{}{Nagy fájdalmat érdemelsz, gyermekem!}
+#
+# attacking
+#
+{7412}{}{Érezd az ostorom hatalmát, és tisztulj!}
+{7413}{}{Felkenlek a Szentséges Lánggal!}
+{7414}{}{Gonosz teremtmény vagy! Ismerd el!}
+{7415}{}{Büntetést érdemelsz! Ismerd el!}
+{7416}{}{Üvölts csak, gyermekem! A fájdalom megváltás!}
+{7417}{}{Nem élvezem a fájdalmadat, gyermek...}
+{7418}{}{Valld meg a bûneidet! Valld meg!}
+{7419}{}{Gyarló vagy és szentségtelen! Ismerd el!}
+{7420}{}{Az ellenállásod csak gyarapítja a bûneidet! Engedelmesked!}
+{7421}{}{Engedelmeskedj az isteni tekintélynek, és meggyógyítunk!}
+#
+# target being missed
+#
+{7422}{}{A tetteid beteg, elferdült elmére vallanak...}
+{7423}{}{Ellenállásodtól rosszul vagyok, de kibírom valahogy...}
+{7424}{}{Félek, hogy én kevés vagyok a megváltásodhoz.}
+{7425}{}{Már sosem lesz vége az álnokságaidnak, gyermekem?}
+{7426}{}{Igaz, hogy rámtámadtál, de azért én szeretlek...}
+{7427}{}{Szentségtörõ, csõdtömeg, bolond! Bándd meg a bûneidet!}
+#
+# target hit in head
+#
+{7428}{}{Türelemmel viselem a csapásaidat, gyermek!}
+{7429}{}{Mivel szent ügyért harcolok, engem nem érhet bántódás!}
+{7430}{}{Azért is kibírom...}
+#
+# target hit in left arm
+#
+{7431}{}{A Mester az én pajzsom. Nem érzem a fájdalmat.}
+{7432}{}{A Mennyek védelmét élvezem, gyermekem!}
+{7433}{}{Engem a Szentséges Láng oltalmaz. A támadásaid hiábavalók!}
+#
+# target hit in right arm
+#
+{7434}{}{A Mester az én pajzsom. Nem érzem a fájdalmat.}
+{7435}{}{A Mennyek védelmét élvezem, gyermekem!}
+{7436}{}{Engem a Szentséges Láng oltalmaz. A támadásaid hiábavalók!}
+#
+# target hit in torso
+#
+{7437}{}{A fájdalom után megbocsátás jön, gyermek!}
+{7438}{}{Én értem a fájdalom mibenlétét. Hát te?}
+{7439}{}{Lehet, hogy megérzem a csapásaidat, de a fájdalom nem számít.}
+{7440}{}{Csináld csak újra! Szeretem az érintésed!}
+{7441}{}{A Mester felruházott az akaraterõvel, hogy túléljek minden harcot.}
+{7442}{}{(levegõért kapkod) Te csak egy gyermek vagy...}
+{7443}{}{A testem valóságos páncél!}
+{7444}{}{Nem állíthatod meg az Egységet!}
+{7445}{}{Érzem a fájdalmad, gyermek!}
+{7446}{}{Ezt ne csináld még egyszer!}
+#
+# target hit in right leg
+#
+{7447}{}{A fájdalom után megbocsátás jön, gyermek!}
+{7448}{}{A Mester az én lábam és a karom, gyermek!}
+{7449}{}{A test minden gyengesége a lelket erõsíti, gyermekem!}
+#
+#
+# target hit in left leg
+#
+{7450}{}{A fájdalom után megbocsátás jön, gyermek!}
+{7451}{}{A Mester az én lábam és a karom, gyermek!}
+{7452}{}{A test minden gyengesége a lelket erõsíti, gyermekem!}
+#
+# target hit in eyes
+#
+{7453}{}{A fájdalom után megbocsátás jön, gyermek!}
+{7454}{}{A Mesterért semmilyen áldozat nem hiábavaló, gyermekem!}
+{7455}{}{A test minden gyengesége a lelket erõsíti, gyermekem!}
+#
+# target hit in groin
+#
+{7456}{}{Habár a testem gyenge, a lelkem erõs!}
+{7457}{}{A fájdalom a gyenge elme sajátja. Mindent kibírok...}
+{7458}{}{A szenvedésem megerõsíti a lelkem.}
+{7459}{}{Úúúúhhf!}
+{7460}{}{Te még a csatában is a természet ellen teszel!}
+{7461}{}{A bûneid tízszeresen szállnak majd a fejedre!}
+
+# 66. Hub, Jain
+# Blasphemers must Meghalsz!
+#
+#  running away (6)
+#
+{7500}{}{Gonoszságaid elnyerik méltó büntetésüket!}
+{7501}{}{Mostantól rajtad van a Gyermekek jele!}
+{7502}{}{Még találkozunk!}
+{7503}{}{Látni fogom én még a holttestedet!}
+{7504}{}{Máskor még találkozunk, ne félj!}
+{7505}{}{Ennek még korántsincs vége!}
+#
+# moving in to attack
+#
+{7506}{}{A szentségtörõk büntetést kapnak!}
+{7507}{}{A Szentséges Láng nevében halál rád!}
+{7508}{}{Hogy merészeled megzavarni nagyszerû munkánkat?!}
+{7509}{}{Jómodort kell tanulnod, gyermekem!}
+{7510}{}{Gyermekeim, semmisítsétek meg a behatolót!}
+{7511}{}{Egetverõ fájdalmat érdemelsz ezért!}
+#
+# attacking
+#
+{7512}{}{Ez a te büntetésed!}
+{7513}{}{Szentségtörõ!}
+{7514}{}{Most majd megtudod, milyen a Gyermekek haragja!}
+{7515}{}{A Szentséges Láng nevében most meghalsz!}
+{7516}{}{Jöjjön hát az éj!}
+{7517}{}{Ismerkedj a sírhant hangulatával, gyermekem!}
+{7518}{}{Jöjjön a halálos csapás!}
+{7519}{}{Meggyalázod a Szentséges Lángot!}
+{7520}{}{Szenvedj, eszement ember!}
+{7521}{}{Nem értesz a szép szóból?!}
+#ez igy jobban tetszett
+
+
+#
+# target being missed
+#
+{7522}{}{A tetteid beteg, elferdült elmére vallanak...}
+{7523}{}{Engem nem tudsz bántani, gyermekem!}
+{7524}{}{Félek, hogy én kevés vagyok a megváltásodhoz.}
+{7525}{}{Már sosem lesz vége az álnokságaidnak, gyermekem?}
+{7526}{}{Engem a Szentséges Láng védelmez!}
+{7527}{}{Az én erõmrõl te sosem leszel képes fogalmat alkotni!}
+#
+# target hit in head
+#
+{7528}{}{Te gonosz kis vadállat!}
+{7529}{}{Ezért meghalsz!}
+{7530}{}{Aú!}
+#
+# target hit in left arm
+#
+{7531}{}{A Mester az én pajzsom. Nem érzem a fájdalmat.}
+{7532}{}{A halál hamarosan rádtalál!}
+{7533}{}{Aú!}
+#
+# target hit in right arm
+#
+{7534}{}{A Mester az én pajzsom. Nem érzem a fájdalmat.}
+{7535}{}{A halál hamarosan rádtalál!}
+{7536}{}{Aú!}
+#
+# target hit in torso
+#
+{7537}{}{Bûnös!}
+{7538}{}{Aú!}
+{7539}{}{Egy szent asszony vérét ontod!}
+{7540}{}{Úúf! Soha nem járhatsz sikerrel!}
+{7541}{}{Aú! Megbüntetlek a bûneidért!}
+{7542}{}{Aú! Saját magadról állítasz ki szegénységi bizonyítványt!}
+{7543}{}{Óh!}
+{7544}{}{A Mesterem megvéd engem szánalmas próbálkozásaidtól!}
+{7545}{}{Aú!}
+{7546}{}{Úúf!}
+#
+# target hit in right leg
+#
+{7547}{}{A Mester az én pajzsom. Nem érzem a fájdalmat.}
+{7548}{}{Véremet áldozom az áhítatomért!}
+{7549}{}{Aú!}
+#
+#
+# target hit in left leg
+#
+{7550}{}{A fájdalom után megbocsátás jön, gyermek!}
+{7551}{}{Véremet áldozom az áhítatomért!}
+{7552}{}{Aú!}
+#
+# target hit in eyes
+#
+{7553}{}{A szemem!}
+{7554}{}{Aggh! Te ördögfattya!}
+{7555}{}{Ég a szemem!}
+#
+# target hit in groin
+#
+{7556}{}{Te szörnyeteg!}
+{7557}{}{Az olcsó megoldásokYou take pleasure in cheap victories!}
+{7558}{}{A szenvedés erõssé tesz!}
+{7559}{}{Úúúúhhf!}
+{7560}{}{Te még a csatában is a természet ellen teszel!}
+{7561}{}{A bûneid tízszeresen szállnak majd a fejedre!}
+
+# 67. Hub, Underground
+# You don't understand what you're messing with
+#
+#  running away
+{7600}{}{Ennyit nem ér az egész...}
+{7601}{}{Most nincs idõm meghalni!}
+{7602}{}{Fizetni fogsz a tetteidért!}
+{7603}{}{}
+{7604}{}{Még nem láttál mindent tõlem!}
+{7605}{}{Inkább életben maradok, hogy máskor összecsaphassunk!}
+#
+# moving in to attack
+#
+{7606}{}{Neked most annyi!}
+{7607}{}{Rossz embert fogtál ki magadnak!}
+{7608}{}{Táncolni fogok a sírodon!}
+{7609}{}{Épp most szereztél be magadnak egy hat láb mély otthont!}
+{7610}{}{Ha majd végzek veled, a patkányok eltakarítják a maradványaidat!}
+{7611}{}{Az életed fabatkát sem ér a szememben!}
+#
+# attacking (10)
+#
+{7612}{}{Itt az idõ, hogy megetessük a férgeket!}
+{7613}{}{Most nagyon csúnya leszel, hallod-e!}
+{7614}{}{}
+{7615}{}{Meg vannak számlálva a perceid!}
+{7616}{}{Még két másodperc, és találkozol a teremtõddel!}
+{7617}{}{Eldoblak, mint egy rossz szokást!}
+{7618}{}{}
+{7619}{}{Ezért jutalmat fogok kapni.}
+{7620}{}{Meghalsz!}
+{7621}{}{A sírodig foglak rugdosni!}
+#
+# target being missed (6)
+#
+{7622}{}{Ez figyelmeztetõ lövés volt, vagy ilyen béna vagy?}
+{7623}{}{Hadd találjam ki... te direkt mellé akartál lõni...}
+{7624}{}{}
+{7625}{}{Szóval így kell mellélõni... kösz, hogy megmutattad!}
+{7626}{}{Kaptam én már be komoly sérüléseket, csak nem egy ilyen béna alaktól!}
+
+{7627}{}{Balek!}
+#
+# target hit in head (3)
+#
+{7628}{}{}
+{7629}{}{Jaj, de fáj a fejem...}
+{7630}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{7631}{}{Aú, a karom!}
+{7632}{}{Eltörted a karomat!}
+{7633}{}{Hát erre nem volt szükségem...}
+#
+# target hit in right arm
+#
+{7634}{}{Aú, a karom!}
+{7635}{}{Eltörted a karomat!}
+{7636}{}{A jó karom!}
+#
+# target hit in torso
+#
+{7637}{}{Úúf!}
+{7638}{}{Ez fájt!}
+{7639}{}{Gyerünk, csináld csak újra!}
+{7640}{}{Úúf!}
+{7641}{}{(levegõért kapkod)}
+{7642}{}{Apppicsába!}
+{7643}{}{Ah, úúf!}
+{7644}{}{Jaj!}
+{7645}{}{Jaj! Ez fájt!}
+{7646}{}{Hé! Errõl nem volt szó!}
+#
+# target hit in right leg
+#
+{7647}{}{Aú, a lábam!}
+{7648}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{7649}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{7650}{}{Aú, a lábam!}
+{7651}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{7652}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{7653}{}{Argh! A retinám!}
+{7654}{}{A szemem... ne már a szemem...}
+{7655}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{7656}{}{Óóóóóó, az ágyékom!}
+{7657}{}{Óóó! Ezt a fogást meg kell tanulnom...}
+{7658}{}{Hát, ezt érezni fogom reggelente...}
+{7659}{}{Gyûlölöm a tökönlövést...}
+{7660}{}{Örh!}
+{7661}{}{Aú! Ezért meg foglak ölni!}
+
+# 68. Hub, Police
+# You're under arrest! I love saying that!
+#
+#  running away
+#
+{7700}{}{}
+{7701}{}{Lehet, hogy ez nem volt túl jó ötlet!}
+{7702}{}{Lehet, hogy ez nem az én napom?}
+{7703}{}{}
+{7704}{}{Ezért nincs kedvem meghalni!}
+{7705}{}{Ez túl sok nekem...}
+#
+# moving in to attack
+#
+{7706}{}{Hé, te ott!}
+{7707}{}{Valaki itt most nagy pácban van...}
+{7708}{}{Nem szeretjük itt a fajtádat!}
+{7709}{}{Kinek képzeled magad?}
+{7710}{}{}
+{7711}{}{Hub rendõrség!}
+#
+# attacking
+#
+{7712}{}{Ezt kapd ki!}
+{7713}{}{Most neked annyi!}
+{7714}{}{Földre, és ott is maradsz!}
+{7715}{}{Na, hogy tetszik?}
+{7716}{}{}
+{7717}{}{Na, jó...}
+{7718}{}{Na, szerinted most bajban vagy?}
+{7719}{}{Mocsok!}
+{7720}{}{Be foglak kasztlizni!}
+{7721}{}{Talán majd tanulsz egy kis jó modort...}
+#
+# target being missed
+#
+{7722}{}{Csak nem gondoltad, hogy eltalálhatsz?}
+{7723}{}{Én kiképzett hivatásos vagyok...}
+{7724}{}{Nem vagy elég jó!}
+{7725}{}{Ez volt az utolsó tévedésed!}
+{7726}{}{Kezdõ.}
+{7727}{}{Kocsmákban tanultál harcolni?}
+#
+# target hit in head
+#
+{7728}{}{Aú! Az a rohadt ku...}
+{7729}{}{Ezért most kicsinállak!}
+{7730}{}{Lecsavarom a fejed!!}
+#
+# target hit in left arm
+#
+{7731}{}{Aú, a karom!}
+{7732}{}{A franc egye meg! Szétment a karom!}
+{7733}{}{A karom!}
+#
+# target hit in right arm
+#
+{7734}{}{Aú, a karom!}
+{7735}{}{A franc egye meg! Szétment a karom!}
+{7736}{}{A karom!}
+#
+# target hit in torso
+#
+{7737}{}{Ezért tutira sittre váglak!}
+{7738}{}{Rendõrtisztek bántalmazása törvénybeütközõ cselekedet!}
+{7739}{}{Jaj!}
+{7740}{}{Úúf!}
+{7741}{}{Na, ebbõl elég volt!}
+{7742}{}{Ezért sokat fogsz ülni...}
+{7743}{}{Csak találj el még egyszer ott, és bíró nélküli tárgyalást rendezünk.}
+{7744}{}{Ha kedves az életed, ezt ne csináld újra!}
+{7745}{}{Úúf! Elég legyen ebbõl!}
+{7746}{}{}
+#
+# target hit in right leg
+#
+{7747}{}{Aú, a lábam!}
+{7748}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{7749}{}{A térdem!}
+#
+# target hit in left leg
+#
+{7750}{}{Aú, a lábam!}
+{7751}{}{Ezért fizetni fogsz, mint a katonatiszt!}
+{7752}{}{A térdem!}
+#
+# target hit in eyes
+#
+{7753}{}{Nem látok!}
+{7754}{}{A szemem! Ezt nagyon megbánod még!}
+{7755}{}{Megvakultam!! Valaki segítsen!}
+#
+# target hit in groin
+#
+{7756}{}{Óóóóóó, az ágyékom!}
+{7757}{}{Hát asszem ezt érezni fogom reggelente...}
+{7758}{}{Fííííreg!}
+{7759}{}{Örh!}
+{7760}{}{Kezdesz személyeskedni?}
+{7761}{}{A francba, ez nagyon fájt!}
+
+# 69. Decker
+#
+#  running away
+{7800}{}{Ennek még nincs vége! Korántsincs!}
+{7801}{}{Még visszatérek...}
+{7802}{}{Halott vagy! Érted? Halott!}
+{7803}{}{Úgy kinyírlak egyszer, hogy a lábad nem éri a földet!}
+{7804}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+{7805}{}{Megkapod, ami jár, errõl biztosíthatlak!}
+#
+# moving in to attack
+#
+{7806}{}{Most végzek veled, te kis punk! Annyi neked!}
+{7807}{}{Nem kellett volna keresztbe tenned nekem, kispofám!}
+{7808}{}{Szemléletváltásra lesz szükséged, annyit mondhatok!}
+{7809}{}{Egy nagy tévedés vagy, de mindjárt kijavítalak...}
+{7810}{}{Felültél a pokolba tartó expresszre, te pondró!}
+{7811}{}{Figyelj csak, valaki most megy a levesbe!}
+#
+# attacking (10)
+#
+{7812}{}{Ezt kapd ki!}
+{7813}{}{Ezt csinálom a punkokkal, meg a balekokkal!}
+{7814}{}{Ezt élvezni fogom!}
+{7815}{}{Ez fájni fog, annyi szent!}
+{7816}{}{Rossz emberbe kötöttél bele!}
+{7817}{}{A Hubot senki nem veheti el tõlem!}
+{7818}{}{Remélem, lassan fogsz meghalni!}
+{7819}{}{Deckerrel senki nem kukoricázhat!}
+{7820}{}{Meghalsz!}
+{7821}{}{Na, ez majd észre térít!}
+#
+# target being missed (6)
+#
+{7822}{}{Ennél szánalmasabbat már rég láttam...}
+{7823}{}{Valami nem stimmel a fejedben!}
+{7824}{}{Látod, nem kell engem félteni a harcban...}
+{7825}{}{Képtelen vagy megcsinálni a feladatodat!}
+{7826}{}{Ez volt az utolsó próbálkozásod!}
+{7827}{}{Balek!}
+#
+# target hit in head (3)
+#
+{7828}{}{Nagyon fáj a fejem!}
+{7829}{}{Hogy merészelsz ilyesmit tenni velem?!}
+{7830}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{7831}{}{Hogy a bõr hûljön rád, te...}
+{7832}{}{Eltörted a karomat!}
+{7833}{}{A karom! A karom!}
+#
+# target hit in right arm
+#
+{7834}{}{Hogy a bõr hûljön rád, te....}
+{7835}{}{Eltörted a karomat!}
+{7836}{}{A karom! A karom!}
+#
+# target hit in torso
+#
+{7837}{}{Mocskos kis gyökér vagy, tudtad?}
+{7838}{}{Úúf! A bordám napokig fájni fog!}
+{7839}{}{Aú! Minek nézel te engem, boksz-zsáknak?}
+{7840}{}{Úúf!}
+{7841}{}{Aú!}
+{7842}{}{Ne játszadozz velem, mert azt nagyon nem szeretem!}
+{7843}{}{Úúf! Volt esélyed, hogy kijöjjünk egymással, de elcseszted!}
+{7844}{}{Aú! Ez bizony fájt...}
+{7845}{}{Úúf! Ez emlékezetes marad...}
+{7846}{}{(levegõért kapkod) Nem... kapok... levegõt...}
+#
+# target hit in right leg
+#
+{7847}{}{Aú, a lábam!}
+{7848}{}{Óóó... Te, kis mocsok!}
+{7849}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{7850}{}{Aú, a lábam!}
+{7851}{}{Óóó... Te, kis mocsok!}
+{7852}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{7853}{}{Vér. Tiszta vér minden...}
+{7854}{}{A szemem.... Kíméld a szemem...}
+{7855}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{7856}{}{Óóóóóó, az ágyékom!}
+{7857}{}{Óóó! Nem rossz, punk!}
+{7858}{}{Óóó! Áshatod a sírodat, gyökér!}
+{7859}{}{Óóó! Élve foglak eltemetni az Izzásban!}
+{7860}{}{Örh!}
+{7861}{}{Aú! Ezért meg foglak ölni!}
+
+# 70. Cain
+# Mr. Decker says you're a problem.
+#
+#  running away
+{7900}{}{Ennek még korántsincs vége!}
+{7901}{}{Még visszatérek...}
+{7902}{}{Hulla vagy! Hallasz, hulla?!}
+{7903}{}{Megállj, még számolunk!}
+#ez tetszett
+{7904}{}{Nem ez volt az utolsó szó, amit tõlem hallottál!}
+{7905}{}{Ígérem, hogy megkapod még a jussodat!}
+#
+# moving in to attack
+#
+{7906}{}{Nagyon jó problémamegoldó vagyok!}
+{7907}{}{Nem szabad lett volna Mr. Deckerrel ujjat húznod!}
+{7908}{}{Majd mindjárt móresre tanítalak}
+{7909}{}{Mr. Decker nem szeret téged!}
+{7910}{}{A pokolba tartó expressz vonaton ülsz!}
+{7911}{}{Na, figyelj, mert valaki most kinyiffan!}
+#
+# attacking (10)
+#
+{7912}{}{Ezt kapd ki!}
+{7913}{}{Decker szerint tanulnod kéne egy kis jó modort!}
+{7914}{}{Ez itt Decker üzenete...}
+{7915}{}{Ez fájni fog, annyit mondhatok!}
+{7916}{}{Rossz emberbe kötöttél bele!}
+{7917}{}{Decker üdvözletét küldi4.}
+{7918}{}{Késõ bánat, ebgondolat!}
+{7919}{}{Senki nem kekeckedhet Mr. Deckerrel!}
+{7920}{}{Meghalsz!}
+{7921}{}{Megbánod ezt te még!}
+#
+# target being missed (6)
+#
+{7922}{}{Ennél szánalmasabbat már rég láttam...}
+{7923}{}{Látszik, hogy valami nem stimmel veled!}
+{7924}{}{Nem hinném, hogy valaha is el tudnál találni bármit!}
+{7925}{}{Képtelen vagy megcsinálni a feladataidat!}
+{7926}{}{Ez volt az utolsó tévedésed!}
+{7927}{}{Látom, bal lábbal keltél fel. Ne erõltesd, csak rosszabb lesz!}
+#
+# target hit in head (3)
+#
+{7928}{}{Nagyon fáj a fejem!}
+{7929}{}{Óóóó...}
+{7930}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{7931}{}{Óóóó...}
+{7932}{}{Eltörted a karomat!}
+{7933}{}{A karom!}
+#
+# target hit in right arm
+#
+{7934}{}{Óóóó...}
+{7935}{}{Eltörted a karomat!}
+{7936}{}{A karom!}
+#
+# target hit in torso
+#
+{7937}{}{Úúf! Az ilyen kis balfaszok nem fognak csak úgy lenyomni engem...}
+{7938}{}{Úúf! A bordám!}
+{7939}{}{Aú! Látom, nem aprózod el...}
+#ez jol hangzik
+
+
+{7940}{}{Ha! Volt hogy edzéstõl jobban lesérültem!}
+{7941}{}{Úúf! Ti punkok mind ugyanolyanok vagytok...}
+{7942}{}{(Nyel egy nagyot.) Leve... gõt...}
+{7943}{}{Jaj!}
+{7944}{}{Aú! Tûnj innen, te kis tetû!}
+{7945}{}{A francba...}
+{7946}{}{Argh! Eltörted a bordámat!}
+#
+# target hit in right leg
+#
+{7947}{}{Aú, a lábam!}
+{7948}{}{Óóóó....}
+{7949}{}{Óh, a térdem!}
+#
+# target hit in left leg
+#
+{7950}{}{Aú, a lábam!}
+{7951}{}{Óóóó....}
+{7952}{}{Óh, a térdem!}
+#
+# target hit in eyes
+#
+{7953}{}{Vér... tiszta vér...}
+{7954}{}{A szemem, te jó ég...}
+{7955}{}{Ez nagyon aljas lövés volt!}
+#
+# target hit in groin
+#
+{7956}{}{Óóóóóó, az ágyékom!}
+{7957}{}{Óóó! Viszonzom majd a szívességet!}
+{7958}{}{Óóó! Ezzel a sírodat ásod ám...}
+{7959}{}{Óóó! Fogadjunk, hogy mókásnak találod ezt, mert én nem...}
+{7960}{}{Örh!}
+{7961}{}{Aú! Nem loptad be magad a szívembe ezzel...}
+
+# 71. Little Kids
+# Mommy!
+#
+#  running away
+#
+{8000}{}{Apukám meg fog ölni! Csak várd ki, amíg ideér!}
+{8001}{}{Mamiii!!!}
+{8002}{}{Valaki segítsen!}
+{8003}{}{Segítség!}
+{8004}{}{Aaaaahhhh!}
+{8005}{}{Vaaaaahhhh!!}
+#
+# moving in to attack
+#
+{8006}{}{Hé, te ott!}
+{8007}{}{Gyûlöllek! Gyûlöllek!}
+{8008}{}{}
+{8009}{}{Torz mutáns vagy!}
+{8010}{}{Valakinek darabokra kéne téged szaggatnia!}
+{8011}{}{Most megöllek!}
+#
+# attacking
+#
+{8012}{}{Te radskorpió!}
+{8013}{}{Most megöllek!}
+{8014}{}{Mutáns állat!}
+{8015}{}{Neonfejû balek! Neonfejû balek!}
+{8016}{}{Meghalsz, rondaság!}
+{8017}{}{Anyád vakondpatkány volt!}
+{8018}{}{Tetves neonfejû!}
+{8019}{}{Teszek róla, hogy rondább legyél!}
+{8020}{}{Gyûlöllek!}
+{8021}{}{Te radskorpiók kedvence! Radskorpiókkal bújsz ágyba!}
+#
+# target being missed
+#
+{8022}{}{Anyád is neonfejû volt!}
+{8023}{}{Hozzám sem tudsz érni, te radskorpió agyú!}
+{8024}{}{Még egy gyereknek se tudsz ártani!}
+{8025}{}{Balek!}
+{8026}{}{Nem talált, te sugárzó agybaj!}
+{8027}{}{Na, mi van, Neonfej?}
+#
+# target hit in head
+#
+{8028}{}{Az arcom!}
+{8029}{}{Óóóó, ez fájt...}
+{8030}{}{Aú! A fülecském!}
+#
+# target hit in left arm
+#
+{8031}{}{Aú, a karom!}
+{8032}{}{Óóóó, ez fájt...}
+{8033}{}{Eltörted a karom! Apu!!!}
+#
+# target hit in right arm
+#
+{8034}{}{Aú, a karom!}
+{8035}{}{Óóóó, ez fáj!}
+{8036}{}{Eltörted a karom! Apu!!!}
+#
+# target hit in torso
+#
+{8037}{}{Aú!}
+{8038}{}{Aú! Mami, ez a rossz ember bánt engem!}
+{8039}{}{Jaj! Ez nagyon csúnya dolog volt!}
+{8040}{}{Aú! Ha nagyobb lennék, péppé vernélek!}
+{8041}{}{Ójajj! Ójajj! Ójajj! Mami!}
+{8042}{}{Aú! Az én apukám nagyobb, mint a te apukád!}
+{8043}{}{Óóóó, mindjárt... sírni... fogok! Brahhhhh!}
+{8044}{}{Jaj!}
+{8045}{}{Aú!}
+{8046}{}{Aú! Ajjjaj! Gonosz vagy!}
+#
+# target hit in right leg
+#
+{8047}{}{Aú, a lábam!}
+{8048}{}{A térdem!}
+{8049}{}{Eltörted a lábam! Apu!!!}
+#
+# target hit in left leg
+#
+{8050}{}{Aú, a lábam!}
+{8051}{}{A térdem!}
+{8052}{}{Eltörted a lábam! Apu!!!}
+#
+# target hit in eyes
+#
+{8053}{}{Aaaaaahhhh!!!}
+{8054}{}{Hova tûnt mindenki?}
+{8055}{}{Tök sötét lett...}
+#
+# target hit in groin
+#
+{8056}{}{Óóóóóó, a kis...!}
+{8057}{}{Aú! Te mocskos neonfejû!}
+{8058}{}{Örh!}
+{8059}{}{Nem... kapok... levegõt...}
+{8060}{}{Óóóóó...}
+{8061}{}{Nagyon fáj, nagyon fáj...}
+
+# 72. Robots
+# Target acquired
+#
+#  running away
+#
+{8100}{}{Visszavonulási opció}
+{8101}{}{Taktikai lépés: visszavonulás}
+{8102}{}{Harci hatékonyság minimális. Visszavonulás ajánlott.}
+{8103}{}{Taktikai analízis kész. Ajánlott lépés: visszavonulás.}
+{8104}{}{Menekülõ program letöltése folyamatban...}
+{8105}{}{Visszavonulási szekvencia aktiválva.}
+#
+# moving in to attack
+#
+{8106}{}{Célpont bemérve!}
+{8107}{}{Elimninálni! Eliminálni!}
+{8108}{}{A humanoid nem menekülhet!}
+{8109}{}{Megsemmisíteni a behatolót!}
+{8110}{}{Harci parancssor aktiválva}
+{8111}{}{Harci program feltöltése folyamatban...}
+#
+# attacking
+#
+{8112}{}{Harci parancssor aktiválva}
+{8113}{}{Célpont támadása...}
+{8114}{}{Támadási szekvencia aktiválása...}
+{8115}{}{A behatolót meg kell semmisíteni!}
+{8116}{}{Taktikai opciók kiválasztása kész...}
+{8117}{}{Támadás végrehajtása...}
+{8118}{}{A célpont megsemmisítés alatt...}
+{8119}{}{Az ellenség eliminálása folyamatban...}
+{8120}{}{A célpontot hatástalanítani kell...}
+{8121}{}{Támadó parancsok végrehajtása kész...}
+#
+# target being missed
+#
+{8122}{}{Analízis. Védekezõ program sikeresen lefutott.}
+{8123}{}{Analízis. A célpont támadása jelentéktelen.}
+{8124}{}{A célpont elvétette. Válaszlépés kalkuláció...}
+{8125}{}{Az egységet nem érte sérülés...}
+{8126}{}{Célpont támadási képességeinek újraszámítása...}
+{8127}{}{Analízis. A célpont hibát vétett a taktikájában. Egység sértetlen.}
+#
+# target hit in CPU
+#
+{8128}{}{Vigyázat, CPU meghibásodást észleltem!}
+{8129}{}{Vigyázat, CPU sérülés! A végrehajtás nem kielégítõ!}
+{8130}{}{Vigyázat, a CPU megsérült! Kisegítõ alrendszer indítása...}
+#
+# target hit in left manipulator
+#
+{8131}{}{A manipulátort sérülés érte...}
+{8132}{}{Az egység bal manipulátora megsérült. Sérülés felmérésre folyamatban.}
+{8133}{}{Manipulátor találat! Kompenzáció indul...}
+#
+# target hit in right manipulator
+#
+{8134}{}{A manipulátort sérülés érte...}
+{8135}{}{Az egység jobb manipulátora megsérült. Sérülés felmérésre folyamatban.}
+{8136}{}{Manipulátor találat! Kompenzáció indul...}
+#
+# target hit in frame
+#
+{8137}{}{Találat érte a burkolatot. Hibajavítás...}
+{8138}{}{Találat érte a burkolatot. Belsõ javítóprogram indul...}
+{8139}{}{A fõ váz támadás alatt...}
+{8140}{}{A páncél átszakadt...}
+{8141}{}{A fõ váz támadás alatt... Korrekció...}
+{8142}{}{Egység támadás alatt...}
+{8143}{}{Harci manõver végrehajtása...}
+{8144}{}{Brzzt!}
+{8145}{}{Jelentéktelen sérülés...}
+{8146}{}{Brzzt!}
+#
+# target hit in right motivator
+#
+{8147}{}{A motivátort sérülés érte.}
+{8148}{}{Az egység jobb motivátora megsérült. Sérülés felmérésre folyamatban.}
+{8149}{}{A motivátort sérülés érte. Kompenzáció folyamatban.}
+#
+# target hit in left motivator
+#
+{8150}{}{A motivátort sérülés érte.}
+{8151}{}{Az egység bal motivátora megsérült. Sérülés felmérésre folyamatban.}
+{8152}{}{A motivátort sérülés érte. Kompenzáció folyamatban.}
+#
+# target hit in sensors
+#
+{8153}{}{Szenzortalálat! Szenzortalálat!}
+{8154}{}{Meghibásodtak az érzékelõk! Meghibásodtak az érzékelõk!}
+{8155}{}{Az érzékelõk rendszere meghibásodott. Megkísérlem kiiktatni...}
+#
+# target hit in regulator
+#
+{8156}{}{A szabályzót sérülés érte!}
+{8157}{}{Szabályzó sérülés! A szabályzó meghibásodott!}
+{8158}{}{A szabályzó megsérült! Kisegítõ alrendszer indítása...}
+
+# 73. Marcelles
+# Nobody trashes my place and gets away with it!
+#
+#  running away
+#
+{8200}{}{Ezért nincs kedvem meghalni!}
+{8201}{}{Nem ér ennyit az egész...}
+{8202}{}{Valaki kapja már el ezt az illetõt! Nekem most más dolgom van...}
+{8203}{}{Ennyit a hírnevemrõl...}
+{8204}{}{Yikes!}
+{8205}{}{Semmiért nem fogok megdögleni...}
+#
+# moving in to attack
+#
+{8206}{}{Na, egy újabb tökfej!}
+{8207}{}{Betelt a pohár!}
+{8208}{}{Ezt nem úszod meg szárazon!}
+{8209}{}{Elkapom a grabancodat!}
+{8210}{}{Ezt senki nem csinálhatja itt!}
+{8211}{}{Hé, te ott!}
+#
+# attacking
+#
+{8212}{}{Ezt tesszük a bajkeverõkkel!}
+{8213}{}{Villany leó...}
+{8214}{}{Ez majd megtanít, hogy ne kekeckedj másokkal!}
+{8215}{}{Meg vannak számlálva a perceid!}
+{8216}{}{Mész a levesbe!}
+{8217}{}{Lássuk, milyen kemény vagy...}
+{8218}{}{Punk!}
+{8219}{}{Gondolom, már megbántad...}
+{8220}{}{Arra számítottál, hogy megúszhatod, mi?}
+{8221}{}{Hozzád hasonló kis punkokat eszek reggelire!}
+#
+# target being missed
+#
+{8222}{}{Ezek figyelmeztetõ lövések, vagy csak ilyen ügyetlen vagy?}
+{8223}{}{Te nem csak egy közönséges mocsok vagy, hanem egy tehetetlen kis mocsok!}
+{8224}{}{Ember, te rohadt béna vagy!}
+{8225}{}{Ennyit tudsz?}
+{8226}{}{Gondolom, nem igazán akartál eltalálni, ugye?}
+{8227}{}{Mindig is selejt voltál, vagy csak mostanában lettél az?}
+#
+# target hit in head
+#
+{8228}{}{Betörted az orromat!}
+{8229}{}{Ez a fül már úgysem kellett...}
+{8230}{}{Francba! Ez fájt!}
+#
+# target hit in left arm
+#
+{8231}{}{Aú, a karom!}
+{8232}{}{Lesántíthatsz, de attól még picsán tudlak rúgni!}
+{8233}{}{Ez nagy hiba volt részedrõl!}
+#
+# target hit in right arm
+#
+{8234}{}{Aú, a karom!}
+{8235}{}{Lesántíthatsz, de attól még picsán tudlak rúgni!}
+{8236}{}{Ez nagy hiba volt részedrõl!}
+#
+# target hit in torso
+#
+{8237}{}{Aú!}
+{8238}{}{Ez végzetes hiba volt részedrõl!}
+{8239}{}{Úúf!}
+{8240}{}{Aú! Oké, ebbõl elég volt!}
+{8241}{}{Aú! Mindjárt megõrülök!}
+{8242}{}{Úúf!}
+{8243}{}{Argh!}
+{8244}{}{Jaj!}
+{8245}{}{Úúf! Most fogom ezt a puskát, és feldugom a...}
+{8246}{}{(Nyel egy nagyot.)}
+#
+# target hit in right leg
+#
+{8247}{}{Már megint szétment a lábam! Marhára örülök...}
+{8248}{}{Lesántíthatsz, de attól még picsán tudlak rúgni!}
+{8249}{}{Ez hiba volt részedrõl!}
+#
+# target hit in left leg
+#
+{8250}{}{Már megint szétment a lábam! Marhára örülök...}
+{8251}{}{Lesántíthatsz, de attól még picsán tudlak rúgni!}
+{8252}{}{Ez hiba volt részedrõl!}
+#
+# target hit in eyes
+#
+{8253}{}{Nem látok! Kezdesz nagyon idegesíteni!}
+{8254}{}{Nem kell ahhoz látnom, hogy megöljelek!}
+{8255}{}{Aú! Szerencsés lövés...}
+#
+# target hit in groin
+#
+{8256}{}{Óóóóóó, ne már ott...}
+{8257}{}{Látom, kezdesz személyeskedni!}
+{8258}{}{Az ágyék az aljas gazfickók utolsó esélye.}
+{8259}{}{Én nõ vagyok, de szerencsétlen!}
+{8260}{}{Rossz nõbe kötöttél bele, hékás!}
+{8261}{}{Örh!}
+
+# 74. Rats
+# Squeak!
+#
+#  running away
+#
+{8300}{}{Viii}
+#
+# target being missed
+#
+{8301}{}{Viiiiiiii}
+#
+# target hit in torso
+#
+{8302}{}{Viiiiii}
+#
+# target hit in groin
+#
+{8303}{}{Viiii}
+
+# 75. Ian
+# former caravan guard
+#
+#  running away
+#
+{8400}{}{Itt az idõ lelépni!}
+{8401}{}{Arrgh!}
+{8402}{}{Visszavonulás!}
+#
+# moving in to attack
+#
+{8403}{}{Ez neked nagyon fog fájni, nekem pedig egyáltalán!}
+{8404}{}{Most nagyon seggbe foglak rúgni!}
+{8405}{}{Gyorsan lerendezlek...}
+#
+# attacking
+#
+{8406}{}{Lássuk, ínyedre van-e a dolog...}
+{8407}{}{Ezt kapd ki!}
+{8408}{}{Megvagy!}
+#
+# target being missed
+#
+{8409}{}{Balek vagy!}
+{8410}{}{Ne totojázz!}
+#
+# target hit in head
+#
+{8411}{}{A francba, ez fáj!}
+{8412}{}{Betörted az orromat!}
+#
+# target hit in left arm
+#
+{8413}{}{Agh! Eltörted a karom!}
+{8414}{}{Szétment a karom!}
+#
+# target hit in right arm
+#
+{8415}{}{Agh! Eltörted a karom!}
+{8416}{}{Szétment a karom!}
+#
+# target hit in torso
+#
+{8417}{}{Úúf!}
+{8418}{}{Argh!}
+{8419}{}{Ezért fizetni fogsz, de rendesen...}
+{8420}{}{Gyerünk, próbáld csak újra!}
+#
+# target hit in right leg
+#
+{8421}{}{Aú! Eltörted a lábam!}
+{8422}{}{Uh! A térdem!}
+#
+# target hit in left leg
+#
+{8423}{}{Aú! Eltörted a lábam!}
+{8424}{}{Uh! A térdem!}
+#
+# target hit in eyes
+#
+{8425}{}{Aah! Nem látok!}
+{8426}{}{Megvakítottál, te ártány!}
+#
+# target hit in groin
+#
+{8427}{}{Óóóóhhh . . .}
+
+# 76. Tycho
+# Desert ranger
+#
+#  running away
+#
+{8500}{}{Itt az idõ a taktikai visszavonulásra...}
+#
+# moving in to attack
+#
+{8501}{}{Ezt röviden lerendezzük szépen...}
+{8502}{}{Itt jövök...}
+#
+# attacking
+#
+{8503}{}{Na, ezt kapd ki!}
+{8504}{}{Minden jót neked...}
+{8505}{}{Van itt egy kis ajándék a számodra...}
+#
+# target being missed
+#
+{8506}{}{Nem nyert...}
+{8507}{}{Majdnem talált, de mégsem nyert...}
+#
+# target hit in head
+#
+{8508}{}{Óh, ez igen...}
+{8509}{}{Ögh.}
+{8510}{}{Na, még egy darab leszakadt a fülembõl...}
+{8511}{}{Francba, megint kiesett egy fogam...}
+#
+# target hit in left arm
+#
+{8512}{}{Ögh.}
+{8513}{}{Ez a kar már úgysem kellett...}
+#
+# target hit in right arm
+#
+{8514}{}{Óh...}
+{8515}{}{A jó büdös francba, ezzel a kezemmel lõttem...}
+#
+# target hit in torso
+#
+{8516}{}{Óh...}
+{8517}{}{A jó büdös francba, megint odalett egy bordám!}
+{8518}{}{Ha meg akarsz ölni, a fejemre menj inkább!}
+#
+# target hit in right leg
+#
+{8519}{}{Megnyomoríthatsz, de még úgy is elkaplak!}
+{8520}{}{Volt már elégszer törött lábam, hogy ügyet se vessek rá!}
+#
+# target hit in left leg
+#
+{8521}{}{Megnyomoríthatsz, de még úgy is elkaplak!}
+{8522}{}{Volt már elégszer törött lábam, hogy ügyet se vessek rá!}
+#
+# target hit in eyes
+#
+{8523}{}{Szóval az aljas megoldások híve vagy...}
+{8524}{}{Na, ha megvakítottál, elõbb megkínozlak, és csak utána öllek meg!}
+#
+# target hit in groin
+#
+{8525}{}{Úhhhh! Hagyd ezt abba!}
+{8526}{}{Óh, a golyóm!}
+{8527}{}{Az istenit, ez fájt!}
+
+# 77. Vault Dwellers
+# We just want to live in peace - and, oh, why did you come back?
+#
+#  running away
+#
+{8600}{}{Most le kell lépnem...}
+{8601}{}{Elég ebbõl a harcból...}
+{8602}{}{Mi történt veled?}
+{8603}{}{Valaki segítsen!}
+{8604}{}{Ez nekem nagyon nem jön be...}
+{8605}{}{Istenem, ne csináld!!}
+#
+# moving in to attack
+#
+{8606}{}{Áruló!}
+{8607}{}{Nem hiszem el, hogy elárultál minket!}
+{8608}{}{A felszín biztos mindenkit megõrjít!}
+{8609}{}{Neked elment az eszed!}
+{8610}{}{Védjétek a Menedéket!}
+{8611}{}{Azt hittem, barátok vagyunk!}
+#
+# attacking
+#
+{8612}{}{Nem lett volna szabad visszajönnöd!}
+{8613}{}{És én még azt hittem, barátok voltunk!}
+{8614}{}{Bárcsak soha nem mentél volna a felszínre...}
+{8615}{}{Üdv, öreg barátom!}
+{8616}{}{Véget vetek a kínjaidnak...}
+{8617}{}{Eltávolítalak az utamból!}
+{8618}{}{Eléggé nehezemre esik, de hátmeg kell tennem...}
+{8619}{}{Te elvadult baralngi patkány!}
+{8620}{}{Véget kell vetnem az ámokfutásodnak!}
+{8621}{}{Te nem vagy más, csak egy nagyszájû lesipuskás!}
+#
+# target being missed
+#
+{8622}{}{Elõre láttam...}
+{8623}{}{Gyerekkorodban jobban küzdöttél!}
+{8624}{}{A célzási képességed egy hangyányit sem javult!}
+{8625}{}{Akárhányszor megpróbálkozol ezzel, csak rontasz a technikádon!}
+{8626}{}{Te sosem tudnál legyõzni engem!}
+{8627}{}{Hogy választhattak téged a nagy feladatra?}
+#
+# target hit in head
+#
+{8628}{}{Jaj, de fáj a fejem!}
+{8629}{}{Uh}
+{8630}{}{Óóóhh!}
+#
+# target hit in left arm
+#
+{8631}{}{A karom!}
+{8632}{}{Aú! Valami megroppant a karomban...}
+{8633}{}{Lebénult a karom...}
+#
+# target hit in right arm
+#
+{8634}{}{A karom!}
+{8635}{}{Aú! Valami megroppant a karomban...}
+{8636}{}{Lebénult a karom...}
+#
+# target hit in torso
+#
+{8637}{}{Aú!}
+{8638}{}{Úúf! És mi még barátok voltunk valaha...}
+{8639}{}{Úúf!}
+{8640}{}{Aú! Oké, ebbõl elég!}
+{8641}{}{Aú! Mindjárt megõrülök!}
+{8642}{}{Úúf!}
+{8643}{}{Argh!}
+{8644}{}{Jaj!}
+{8645}{}{Még mindig úgy harcolsz, mint egy óvodás!}
+{8646}{}{(Nyel egy nagyot.)}
+#
+# target hit in right leg
+#
+{8647}{}{Aú!}
+{8648}{}{A lábam mindjárt összecsuklik...}
+{8649}{}{Jaj, a térdem!}
+#
+# target hit in left leg
+#
+{8650}{}{Hé, I still need that leg!}
+{8651}{}{A lábam mindjárt összecsuklik...}
+{8652}{}{Jaj, a térdem!}
+#
+# target hit in eyes
+#
+{8653}{}{Aggghhh!}
+{8654}{}{Te kis szemétláda!}
+{8655}{}{A szemem!}
+#
+# target hit in groin
+#
+{8656}{}{Mindig az övön alulikra mész...}
+{8657}{}{Te már sosem fogsz megváltozni, mi?}
+{8658}{}{Éreztem már jobban is magam...}
+{8659}{}{Óóó, az ágyékom!}
+{8660}{}{Mindig is te voltál a Menedék legaljasabb küzdõje...}
+{8661}{}{Te mocskos kis barlangi patkány!}
+
+# 78. Garl during Honor Fight
+# I'm fighting you over Tandi.  I shall triumph, unless you win!
+#
+#  running away
+#
+{8700}{}{Oké, tied lehet a lány!}
+{8701}{}{Tied lehet a kis szuka!}
+{8702}{}{Tandi a tied. Hagyj békén!}
+{8703}{}{Oké, tied lehet a lány!}
+{8704}{}{Tandi a tied. Hagyj békén!}
+{8705}{}{Tied lehet a szajha!}
+#
+# moving in to attack
+#
+{8706}{}{Kezdõdjék a dicsõséges küzdelem!}
+{8707}{}{}
+{8708}{}{}
+{8709}{}{Enyém a kis mocsok!}
+{8710}{}{A Khan banda nevében!}
+{8711}{}{}
+#
+# attacking (10)
+#
+{8712}{}{}
+{8713}{}{}
+{8714}{}{Mindenkinél jobb vagyok!}
+{8715}{}{RAAAAAAARRRR!!}
+{8716}{}{}
+{8717}{}{}
+{8718}{}{Személyesen foglak megölni!}
+{8719}{}{}
+{8720}{}{}
+{8721}{}{}
+#
+# target being missed (6)
+#
+{8722}{}{}
+{8723}{}{}
+{8724}{}{}
+{8725}{}{Engem jobban megbecsülnek, mint téged!}
+{8726}{}{}
+{8727}{}{Annyit nem érsz, hogy leálljak veled harcolni!!!}
+#
+# target hit in head (3)
+#
+{8728}{}{Ez szép találat volt!}
+{8729}{}{}
+{8730}{}{}
+#
+# target hit in left arm
+#
+{8731}{}{}
+{8732}{}{Eltörted a karom! Így legalább kiegyenlített a küzdelem!}
+{8733}{}{}
+#
+# target hit in right arm
+#
+{8734}{}{}
+{8735}{}{Eltörted a karom! Így legalább kiegyenlített a küzdelem!}
+{8736}{}{}
+#
+# target hit in torso
+#
+{8737}{}{}
+{8738}{}{}
+{8739}{}{}
+{8740}{}{Úúf!}
+{8741}{}{Jaj!}
+{8742}{}{}
+{8743}{}{}
+{8744}{}{}
+{8745}{}{}
+{8746}{}{Argh! Ez fájt!}
+
+#
+# target hit in right leg
+#
+{8747}{}{}
+{8748}{}{Ez nagyon aljas húzás volt!}
+{8749}{}{}
+#
+# target hit in left leg
+#
+{8750}{}{}
+{8751}{}{Ez nagyon aljas húzás volt!}
+{8752}{}{}
+#
+# target hit in eyes
+#
+{8753}{}{}
+{8754}{}{}
+{8755}{}{Ez nem volt tisztességes!}
+#
+# target hit in groin
+#
+{8756}{}{Óóóóóó, az ágyékom!}
+{8757}{}{}
+{8758}{}{}
+{8759}{}{}
+{8760}{}{Örh!}
+{8761}{}{Nem fogsz megfosztani a férfiasságomtól!}
+

@@ -1,0 +1,220 @@
+{100}{}{Õ Aradesh.}
+{101}{Ara_1g}{Üdvözlet, vándor! Kérem, ne vegye túlságosan zokon, ha a helybeliek esetleg modortalannak mutatkoznának. Ahogy Dharma mondta: "A kemény idõk megkérgesítik az embert." Mi szél hozta Shady Sands-be?}
+{102}{Ara_1n}{Üdvözletem! Mi járatban Shady Sands-ben?}
+{103}{Ara_1b}{Nem nagyon kedveljük az idegeneket. Mi dolga van Shady Sands-ben?}
+{104}{}{Egy nyugatra lévõ apró faluból jöttem. Felfedezõúton járok és a légynek sem ártok.}
+{105}{}{Miért foglalkoztatja ez magát?}
+{106}{}{Engedelmével ezt hadd tartsam meg magamnak.}
+{107}{}{Egy nyugatra lévõ Menedékbõl jöttem. A népem hamarosan szomjan hal, ezért sürgõsen találnom kell egy víztisztító csipet.}
+{108}{}{Egy város teljes lakosságát mentem meg éppen a pusztulástól!}
+{109}{}{Shady Sands? Fenébe, eltévedtem! Azt hiszem, most mennem kell.}
+{110}{}{Hunh?}
+{111}{Ara_2}{Nem tudok semmiféle faluról nyugati irányban.}
+{112}{}{A nyugatra húzódó hegyeken át jött?}
+{113}{}{Vagyis?}
+{114}{}{Azt akarja mondani, hogy minden egyes helyet ismer innen egész az óceánig?}
+{115}{}{Bizonyára sok helyen megfordult már, de az én apró falum elkerülhette a figyelmét.}
+{116}{Ara_3}{Bizony sajnálom ugyan, de nem, s ez magával vonja a kérdést. Hogyan jutott át a hegyeken?}
+{117}{}{Hát nem volt piskóta, de megcsináltam.}
+{118}{}{Miért foglalkoztatja ez magát?}
+{119}{}{Nézze, én semmi egyebet nem akartam, mint vásárolni ezt-azt, de akár el is mehetek máshova.}
+{120}{}{Asszem nem kötelességem válaszolni magának.}
+{121}{Ara_4}{Igen, hmmm, igen, igen, igen. Hiszek magának... egyelõre. Az a baj, hogy mi nem könnyen hiszünk bárkinek, különösen a veszélyes kinézetû embereknek. Legyen tudatában, hogy Seth és én figyelni fogjuk magát.}
+{122}{Ara_5}{Ez az én városom, utazó. Válaszoljon a kérdéseimre, vagy távozzék! Ez nem kívánságmûsor.}
+{123}{}{Magának nincs semmi mondanivalóm.}
+{124}{}{Szívbõl mondom, nem jelentek semmi veszélyt magukra.}
+{125}{}{Ne aggódjon, már itt sem vagyok!}
+{126}{Ara_6}{Maga szerfelett sértõen viselkedik. Azt hiszem, távoznia kéne. Ne is jöjjön vissza! Nem látjuk szívesen.}
+{127}{Ara_7}{Legyen hát, vándor. Seth megmutatja a kifelé vezetõ utat.}
+{128}{Ara_8}{Valószínûleg igen naív embernek tart engem, vándor. Vajon tényleg teljesen egymaga hódította meg a hegyeket?}
+{129}{}{Mindegy, mit gondol. A hegyekbõl jöttem és kész.}
+#itt szerintem volt egy kis hiba
+
+{130}{}{Nem naívnak tartom, csak egyszerûen hülyének.}
+{131}{Ara_9}{Dharma szavaival: "Az óvatosság túlélést jelent a nehéz idõkben." Nem a származás, a szándék a fontos.}
+{132}{}{Akár...}
+{133}{Ara_9A}{Engedem itt mozogni, de azért jobb, ha észben tartja: Seth és én igen-igen rá fogunk nézni a körmére. Legjobb, ha még a bajkeverés gondolatától is megszabadul!}
+{134}{Ara_10}{Legyen úgy, de ez a város nem fogad tárt karokkal bárkit. Ha ez az óhaja, menjen Roncsvárosba! Nem bánom, ha a városunkban tartózkodik, de magán tartjuk a szemünket.}
+{135}{Ara_11}{Menedékbõl jött? Hogyan bízhatnék magában, vándor, ha nem õszinte velem?}
+{136}{}{Becsületszavamra mondom, hogy egy Menedékbõl jöttem!}
+{137}{}{A Menedék... az a falum neve.}
+{138}{}{Igaza van, hazudtam.}
+{139}{Ara_12}{Hmmm, igen, igen, igen. Hát meséljen nekem errõl a bizonyos Menedékrõl!}
+{140}{}{Hol is kezdjem... a Menedék tulajdonképp a városom neve. Azért neveztük el így, mert két hatalmas szikla közé épült.}
+{141}{}{Az bizony egy hatalmas komplexum, melyet egy nyugatra fekvõ hegy gyomrába építettek. A népem már 80 éve él ott.}
+{142}{}{Miért akarja tudni?}
+{143}{Ara_13}{Vándor... egyelõre hiszek magának... Hagyom, hogy szabadon mozogjon Shady Sands-ben, de jobb, ha tudja, hogy minden lépését figyelemmel fogjuk kísérni.}
+{144}{Ara_14}{Nekem nem lehet hazudni, vándor.}
+{145}{}{Nem kötelességem magának elmondani semmit.}
+{146}{}{Szívbõl mondom, nem jelentek semmi veszélyt magukra.}
+{147}{}{Ne aggódjon, már itt sem vagyok!}
+{148}{Ara_15}{Hmmm. Ha akar, maradhat nálunk, de kerülje a bajt!}
+{149}{}{Mit tud nekem mondani a környezõ városokról?}
+{150}{}{Mik a hírek mostanában?}
+{151}{}{Köszönöm, viszlát!}
+{152}{Ara_17}{Üdvözlöm, fiatal vándor. Remélem, kellemesen érzi magát nálunk.}
+{153}{}{Nem panaszkodhatom. Kérdezhetek egy s mást?}
+{154}{}{Nem rossz, de most rohannom kell.}
+{155}{}{Ha az ember szereti a csatornákat...}
+{156}{}{Nuh-huh.}
+{157}{Ara_18n}{Üdvözletem. Miben segíthetek magának ezen a csodás napon?}
+{158}{Ara_18b}{Szeretne valamit tõlem?}
+{159}{}{Mesélne nekem Shady Sands-rõl?}
+{160}{}{Azon tûnõdtem, vajon kérdezhetnék-e magától ezt azt?}
+{161}{}{Igazából semmit, épp menni akartam.}
+{162}{}{Nuh-uh.}
+{163}{Ara_19}{Természetesen. Mit szeretne tudni?}
+{164}{Ara_19b}{Kérdezzen nyugodtan, de siessen, kérem. Az idõmet más, fontosabb dolgokra is fel tudnám használni.}
+{165}{}{Mit tud nekem mondani a környezõ városokról?}
+{166}{}{Mik a hírek mostanában?}
+{167}{}{Köszönöm, viszlát!}
+{168}{Ara_20g}{Ah. Kellemes utat, vándor!}
+{169}{Ara_20n}{Minden jót!}
+{170}{Ara_20b}{Szívbõl remélem.}
+{171}{Ara_21}{Dharma ezt mondta: "Az ember hamar megválik makacs nyelvétõl." Akkor jöjjön vissza hozzám, ha magára szedett némi jólneveltséget.}
+{172}{Ara_22}{Na, ennyi elég is lesz magából, vándor! Seth megmutatja a városból kivezetõ utat. Ne jöjjön vissza! Nem fogjuk tárt karokkal várni.}
+{173}{Ara_23g}{Shady Sands olyan, mint egy nagy, magánakvaló család.}
+{174}{Ara_23b}{Közösségünk nagy hangsúlyt fektet a saját védelmére. Dharm azt mondta errõl: "A pálca önmagában eltörik, de egy köteg soha."}
+{175}{}{Milyen jellegzetességei vannak a városnak?}
+{176}{}{Érdekes. Vannak még más városok is errefelé?}
+{177}{}{Ez remek... Nos, jobb, ha távozom...}
+{178}{Ara_24}{A déli oldalon ott vannak a Kertek, aztán északon ott vannak a Brahma Karámok, bár attól tartok, idén a szokásosnál is erõsebb a szag.}
+{179}{}{Bármi egyéb?}
+{180}{Ara_24a}{Kicsik és önellátóak vagyunk, nem sok minden tudok mondani..}
+{181}{}{Köszönöm. Feltehetek még néhány kérdést?}
+{182}{}{Köszönöm, viszlát!}
+{183}{Ara_24b}{Az egy apró kis település. Akinek van lába, semmiség.}
+{184}{}{Köszönöm. Feltehetek még néhány kérdést?}
+{185}{Ara_25b}{Dharma ezt mondta: "Ne hallgass a farkas hívására, amikor a róka a csirkeólat dézsmálja éppen."}
+{186}{Ara_25g}{Roncsváros dél felé található, nem sokan vetõdnek errefelé onnan. Mindenesetre az emberek elmondása alapján biztos, hogy vannak még városok onnan délre is.}
+# Shawn szerint ezt jelenti a visitation resz - bass
+
+{187}{}{Köszönöm. Nos... feltehetnék még néhány további kérdést?}
+{188}{Ara_26}{Csendes idõket élünk. Hála istennek.}
+{189}{}{Hát... unalmasan hangzik.}
+{190}{}{Mit szólna, ha még kérdeznék néhány dolgot?}
+{191}{}{Helyes. Remélem, ez így is marad még egy darabig.}
+{192}{Ara_27}{Igen. Mi így szeretjük.}
+{193}{}{Mit tud nekem mondani a környezõ városokról?}
+{194}{}{Mik a hírek mostanában?}
+{195}{}{Köszönöm, viszlát!}
+{196}{Ara_28}{Hogyne-hogyne... Hatalmas radskorpió falkák tizedelik a gulyáinkat. Nem tudjuk, honnan jönnek, és nem számít mennyit ölünk meg belõlük, mindig egyre több és több jön!}
+{197}{}{Folytassa csak...}
+{198}{Ara_28a}{Mostanság már az embereimet is veszélyeztetik! Razlo próbál valami gyógymódot kitalálni a mérgükre, de nem tudom, hol tart a munkában.}
+{199}{}{Mit szólna, ha segítenék megszabadítani magukat a skorpióktól!}
+{200}{}{Pénzért szívesen segítek.}
+{201}{}{Ez szörnyû! Nos... kérdezhetnék még egy s mást?}
+{202}{Ara_29}{Ööö, igen, igen, igen, igen, igen! Kérem, beszéljen Razlóval! Õ sokkal többet tud ezekrõl a lényekrõl, mint én.}
+{203}{Ara_30}{Ahogy Dharma mondotta volt: "Kik a saját nyájukat gondozzák, ismerik a juhászt."}
+{204}{}{Tudom, hogy nem éppen triviális, hogy bízzon bennem, de szeretnék segíteni.}
+{205}{}{Maga dönt. Hadd kérdezzek még egy-két dolgot...}
+{206}{Ara_30a}{Kérem, siessen és szabadítson meg bennünket azoktól a radskorpióktól!}
+{207}{Ara_31}{A dolgok sokkal nyugodtabbak mostanában. Razlo egy radskorpió-méreg elleni gyógyszeren kísérletezik, melynek segítségével talán sikerül a megmaradt állományukat kiirtani.}
+{208}{}{Semmiség volt. Feltehetnék még néhány kérdést?}
+{209}{}{Nem kell többet aggódniuk. Megsemmisítettem a Fészket.}
+{210}{Ara_32}{Maga aztán egy igazi hõs! Jobb, ha tudja, hogy Shady Sands népét örökre lekötelezte.}
+{211}{}{Köszönöm. Azért feltehetnék még néhány kérdést?}
+{212}{}{Köszönöm, viszlát!}
+{213}{Ara_33}{Ha megérti a szavam, kérem találja meg a lányomat!}
+{214}{Ara_35}{Mivel visszahozta nekem az én Tandimat, a dolgok jó kerkékvágásban folynak. Örökké hálás leszek magának, vándor.}
+{215}{}{Mit tud nekem mondani a környezõ városokról?}
+{216}{}{Mik a hírek mostanában?}
+{217}{}{Köszönöm, viszlát!}
+{218}{Ara_36}{Igen, igen. Ööö... Töltse el jól az idejét nálunk!}
+{219}{Ara_37}{Ahh, vándor! Hogy áll a lányom felkutatásával?}
+{220}{}{Sajnálom, de még nem találtam rá, de ami késik, nem múlik.}
+{221}{}{Sajnálattal kell közölnöm, hogy meghalt a lány.}
+{222}{}{Duh-nada.}
+{223}{}{Sajnálom, de még nem találtam rá, de ami késik, nem múlik.}
+{224}{}{Lassan, de haladok. Feltehetnék még néhány kérdést?}
+{225}{}{Guunngggg!}
+{226}{Ara_37a}{Köszönöm, hogy legalább megpróbálta... Kérem, hagyjon magamra a fájdalmammal!}
+{227}{Ara_38}{Remélem, a gondolataim szárnyakat adnak a lábainak. Kérem, siessen!}
+{228}{Ara_39}{Hála istennek, hogy jött! Sürgõsen szükségem van a segítségére. A lányom, Tandi, eltûnt. Fogalmam sincs, mitévõ legyek.}
+{229}{}{Próbált már utána járni a dolognak?}
+{230}{}{Uhh?}
+{231}{Ara_39a}{Az embereim nem nagyon értenek az ilyesmihez. Már három járõrt kiküldtem utána, de egyik sem tért vissza. Segítene nekünk?}
+{232}{}{Miért is ne. Ki lehet a ludas?}
+{233}{}{Segítek... ha megfizeti.}
+{234}{}{Sajnálom, de éppen ezernyi teendõm van.}
+{235}{Ara_40}{Seth és én meg vagyunk gyõzõdve róla, hogy valamelyik fosztogató klán tette, cserébe azért, hogy nem adtuk be a derekunkat nekik. Fogja ezt a dárdát. Ott találták, ahol a lányomat utoljára látták.}
+{236}{}{Rendben, utánanézek a dolognak.}
+{237}{Ara_40A}{Kérem, beszéljen Seth-el! Õ sokkal többet tud ezekrõl a fosztogatókról. Ne késlekedjen, vándor.}
+{238}{Ara_41}{Természetesen megfizetem a fáradságát. Ha visszahozza a lányomat, 500 Hubbeli szkriptet kap a munkáért. Segít nekem?}
+{239}{}{Miért is ne. Ki lehet a ludas?}
+{240}{}{Ah... inkább ne... Ezernyi elintézendõ dolgom van.}
+{241}{Ara_42}{Dharma szavaival élve: "Ha épp farkasra vadászol, ne hozz oroszlánt a lakhelyedre!" Ha nem segít nekünk, távoznia kell.}
+{242}{Ara_43}{Elszántságáért, bátorságáért örökké hálás leszek, vándor. Tessék, itt a jutalma...}
+{243}{}{Köszönöm. Elõször is feltehetnék még néhány kérdést?}
+{244}{}{Köszönöm.}
+{245}{Ara_44}{Minden jót, amíg újra nem találkozunk, barátom! Kívánom, hogy a víz, amelyet talál, ne világítson a sötétben.}
+{246}{Ara_45}{Mit csinál? Azonnal tegye vissza!}
+{247}{Ara_46}{Az nem a magáé! Kérem, hagyja ott!}
+{248}{Ara_47}{Hagyja ezt abba!}
+{249}{Ara_48}{Mit csinál itt ilyen késõi órában? Épp pihenni szeretnék, jöjjön vissza reggel!}
+{250}{Ara_49}{Én lennék. Shady Sands, e szerény kisváros vezetõje vagyok.}
+{251}{Ara_49A}{Dharma nagyszerû, vallásos ember volt. Csak a javára válik, ha odafigyel a szavára.}
+{252}{Ara_50}{Tandi a lányom. Õ az, aki miatt érdemes élni ebben a cudar világban.}
+{253}{Ara_51}{Hmm, igen, igen. Razlo az orvosunk. Ha fáj valamije, meggyógyítja. Fogadnék, hogy most egy kicsit északabbra található.}
+{254}{Ara_52}{Seth igen jóravaló fiatalember. Mivel õ az õrség kapitánya, minden bizonnyal az Õrházban tartózkodik. }
+{255}{Ara_53}{Csodálatos asszony õ. Most ünnepelte a hatvanadik születésnapját! Ideje nagy részét Razlóval tölti, egyfolytában csak mesél neki. Kifogyhatatlan a remek történetekbõl.}
+{256}{Ara_54}{Bizony rossz dolog ez. Két fosztogató bandáról tudunk, az egyik csapat a Viperák, a másik a Khanok bandája.}
+{257}{Ara_55}{Vigyázzon az ilyenekkel! A fanatikusan vallásos fosztogatók nagyon veszélyesek lehetnek. Közülünk senki nem ismeri a bázisuk helyét.}
+{258}{Ara_56}{Hmm, igen, igen. A Kahnok rosszabbak, mint a Viperák, mondhatom. Ezek a barbárok délkelet felõl szoktak támadni.}
+{259}{Ara_57}{Aljas egy teremtmények azok. Vigyázzon a farkukkal! A mérgük halálos lehet, ha nem törõdnek vele.}
+{260}{Ara_58}{Igen, igen, igen. Rebesgetik, hogy ezek a háború alatt teremtett szörnyetegek.}
+{262}{Ara_60}{Roncsváros dél felé található. Kereskedõik idõnként elõfordulnak itt, de nem túl gyakran.}
+{263}{Ara_61}{A Viperák és a Khanok is használnak dárdákat. A támadásaik miatt vált nyilvánvalóvá.}
+{264}{Ara_62}{Az elõvárosban megtalálhatja. Seth minden bizonnyal ott van.}
+{265}{Ara_63}{Senki sem tud biztosat, de a falkák nagyjából észak-kelet felõl érkeznek.}
+{266}{Ara_64}{Nem tudok mit mondani.}
+{267}{Ara_65}{Nem mondhatnám, hogy hallottam róla.}
+{268}{Ara_66}{Hm, nem, nem. Sosem hallottam róla.}
+{269}{Ara_67}{Ahogy már mondtam...}
+{270}{Ara_68}{Ahogy már korábban említettem...}
+{271}{Ara_69}{Ahogy azt már mondtam...}
+{272}{Ara_70}{Ahogy azt már korábban mondtam...}
+{273}{Ara_71}{Nem fogom ismételni magam, nem akarok hülyét csinálni magamból. Kérem, figyeljen rám legközelebb!}
+{274}{Ara_72}{Csak azért, mert képtelen odafigyelni a szavaimra, nem fogok itt folyton itt állni, mint egy pislákoló gyertya.}
+{275}{Ara_73}{Errõl beszéljen Seth-el! Õ sokkal többet tud róla, mint én.}
+{276}{}{}
+{277}{}{Nem pazarlom az idõmet álnok kívülállókra.}
+
+
+# tell me about generic responses
+{980}{Ara_64}{Nem tudok róla.}
+{981}{Ara_65}{Nem mondhatnám, hogy tudomásom van róla.}
+{982}{Ara_66}{Hm, nem. Nem, sosem hallottam róla.}{1000}{}{Aradesh}
+
+{1001}{}{Dharma}
+{1002}{}{Tandi}
+{1003}{}{Razlo}
+{1004}{}{Fosztogato}
+{1005}{}{Vipera}
+{1006}{}{Khan}
+{1007}{}{Skorpio}
+{1008}{}{Halalkarom}
+{1009}{}{Roncsvaros}
+{1010}{}{Darda}
+{1011}{}{Allomas}
+{1012}{}{Ureg}
+{1013}{}{Skorpio}
+{1014}{}{Torony}
+{1015}{}{Seth}
+
+{1100}{Ara_49}{Én lennék. Shady Sands, e szerény kisváros vezetõje vagyok.}
+{1101}{Ara_49A}{Dharma nagyszerû, vallásos ember volt. Csak a javára válik, ha odafigyel a szavára.}
+{1102}{Ara_50}{Tandi a lányom. Õ az, aki miatt érdemes élni ebben a cudar világban.}
+{1103}{Ara_51}{Hmm, igen, igen. Razlo az orvosunk. Ha fáj valamije, meggyógyítja. Fogadnék, hogy most egy kicsit északabbra található.}
+{1104}{Ara_54}{Bizony rossz dolog ez. Két fosztogató bandáról tudunk, az egyik csapat a Viperák, a másik a Khanok bandája.}
+{1105}{Ara_55}{Vigyázzon az ilyenekkel! A fanatikusan vallásos fosztogatók nagyon veszélyesek lehetnek. Közülünk senki nem ismeri a bázisuk helyét.}
+{1106}{Ara_56}{Hmm, igen, igen. A Kahnok rosszabbak, mint a Viperák, mondhatom. Ezek a barbárok délkelet felõl szoktak támadni.}
+{1107}{Ara_57}{Aljas egy teremtmények azok. Vigyázzon a farkukkal! A mérgük halálos lehet, ha nem törõdnek vele.}
+{1108}{Ara_58}{Igen, igen, igen. Rebesgetik, hogy ezek a háború alatt teremtett szörnyetegek.}
+{1109}{Ara_60}{Roncsváros dél felé található. Kereskedõik idõnként elõfordulnak itt, de nem túl gyakran.}
+{1110}{Ara_61}{A Viperák és a Khanok is használnak dárdákat. A támadásaik miatt vált nyilvánvalóvá.}
+{1111}{Ara_62}{Az elõvárosban megtalálhatja. Seth minden bizonnyal ott van.}
+{1112}{Ara_63}{Senki sem tud biztosat, de a falkák nagyjából észak-kelet felõl érkeznek.}
+{1113}{Ara_57}{Aljas egy teremtmények azok. Vigyázzon a farkukkal! A mérgük halálos lehet, ha nem törõdnek vele.}
+{1114}{Ara_62}{Az elõvárosban megtalálhatja. Seth minden bizonnyal ott van.}
+{1115}{Ara_52}{Seth igen jóravaló fiatalember. Mivel õ az õrség kapitánya, minden bizonnyal az Õrházban tartózkodik.}

@@ -1,0 +1,112 @@
+{100}{}{Õ Sophia, a Testvériségi Újoncok instruktora.}
+{101}{}{Oké, van valakinek kérdése?}
+{102}{}{Ne felejtsetek el kérdezni, ha nem értetek valamit. Nem kell szégyenlõsnek lenni!}
+{103}{}{Nézzétek át a jegyzeteiteket!}
+{104}{}{Akik a 14-es bekezdésnél tartanak, holnap újabb tesztet fognak csinálni.}
+{105}{}{Elnézést, de most nem érek rá. Foglalkozást tartok.}
+{106}{}{Úgy tudom, van valami számomra.}
+{107}{}{Igen, tessék.}
+{108}{}{Igen, de most nincs nálam.}
+{109}{}{Te magad.}
+{110}{}{Elnézést, de foglalkozást tartok. Légy szíves, ne zavarj!}
+{111}{}{Nem szabadna itt lenned. Vree nem szereti, ha éjszaka zavarják. Ez a meditáció ideje nálunk.}
+{112}{}{Épp meditálunk. Kérlek, távozz! Gyere vissza a reggeli órákban!}
+{113}{}{Hagyj most minket!}
+{114}{}{Tanúsíts tiszteletet! Ne zavard azokat, akik meditálni szeretnének!}
+{115}{}{Nektek, Újoncoknak, rengeteg tanulnivalótok van még. Kérlek, távozz!}
+{116}{}{Ne zavarj most!}
+{117}{}{Éjszaka nem érünk rá. Légy szíves a reggeli órákban gyere vissza!}
+{118}{}{Éjnek évadja van. Rég ágyban kéne lenned, hacsak nem vagy õrszolgálatban. Abban az esetben viszont a posztodon kéne lenned.}
+{200}{}{Üdv, Újonc. Segíthetek valamiben?}
+{201}{}{Jól sejtem, hogy van valamid a számomra?}
+{202}{}{Igen, tessék.}
+{203}{}{Igen, de most nincs nálam.}
+{204}{}{Hogy én? Aligha hinném. Összetévesztesz valakivel.}
+{205}{}{Uk.}
+{206}{}{Köszönöm szépen. Rendes volt tõled, hogy megváltál tõlük.}
+{207}{}{Öhm, köszi. Okés vagy amúgy? Így vagy úgy, nagyon rendes volt tõled, hogy megváltál tõlük.}
+{208}{}{Nélküle a kutatómunkám késedelmet szenvedett volna. Jó tudni, hogy ilyen megbízható Újoncaink vannak. Tudtam, hogy egy kívülálló befogadása nem lehet olyan rossz döntés. Ha meglátogatod Michaelt, kapsz majd tõle valamit.}
+{301}{}{Üdvözlet. Még nem láttalak itt korábban. Eltévedtél netán? Segíthetek valamiben?}
+{302}{}{Öh......}
+{303}{}{Meg tudnád mondani, hol találom a könyvtárat?}
+{304}{}{Vree-t keresem.}
+{305}{}{Mi ez a hely?}
+{306}{}{Ha eltévedtem volna, nem egy ilyen idiótától kértem volna segítséget!}
+{307}{}{Isten segíts! Nem hiszem el, hogy ilyen alakokat felveszünk ide újoncnak.}
+{308}{}{Ez itt a könyvtár. Itt tároljuk a fegyverek és technológiák adatait, és természetesen itt õrizzük a Testvériség történelmét.}
+{309}{}{Meg akarok javítani egy víztisztító csipet. Tudnál segíteni?}
+{310}{}{Szeretnék többet megtudni az itt gyártott fegyverekrõl.}
+{311}{}{Találok itt hololemezeket?}
+{312}{}{Inkább mennék. Kösz, hogy rabolhattam az idõd.}
+{313}{}{Egy bazi nagy fegyvert keresek, hogy felturbózzam a gyilkolási tudásomat.}
+{314}{}{Vree segédje vagyok. Õ ott áll éppen.}
+{315}{}{Köszönöm.}
+{316}{}{Mit csinálsz itt Vree segédjeként?}
+{317}{}{Az én szakterületem a Testvériség történelme. Ez a csip valamiféle gyártási problémának hangzik, talán kérdezz rá Vree-nél...}
+{318}{}{Azt hittem, a Krónikások tudnak az ilyesmirõl.}
+{319}{}{Szeretnék többet megtudni a Testvériség történelmérõl.}
+{320}{}{Sokat segítettél!}
+{321}{}{OKÉ, kösz a segítséget.}
+{322}{}{Errõl Vree-vel kéne beszélned, õ a Fõkrónikásunk. Nekem most nagyon fontos elintézendõim vannak.}
+{323}{}{Megyek akkor Vree-hez.}
+{324}{}{Fontos elintézendõid vannak? Úgymint?}
+{325}{}{Szerinted a Testvériség fegyverzete nem jelentõs?}
+{326}{}{A könyvtárunkban rengeteg hololemez található. Bemutatják a történelmünket, a technológiát és a fegyverterveket.}
+{327}{}{Szeretném megnézni a technológiát bemutató hololemezt.}
+{328}{}{Szeretném megnézni a fegyverterveket bemutató hololemezt.}
+{329}{}{Szeretném megnézni a Testvériség történelmét bemutató hololemezt.}
+{330}{}{Azért küldtek ide, hogy érdeklõdjem Vree-nél a Testvériség történelmérõl.}
+{331}{}{Az én szakterületem a Testvériség történelme. Úgy tûnik számomra, hogy néhányan megfeledkeztek nálunk a saját történelmünkrõl.}
+{332}{}{Mit tudnál elmondani a Testvériség történelmérõl?}
+{333}{}{Mi lehet fontosabb a történelemnél?}
+{334}{}{Gondolom, az életed minden másodperce be van táblázva, mi?}
+{335}{}{Szeretnék kérdezõsködni egy kicsit a fegyverekrõl.}
+{336}{}{Például a Testvériség történelmének ápolása. Úgy tûnik számomra, hogy néhányan megfeledkeztek nálunk a saját történelmünkrõl.}
+{337}{}{Vree eléggé meg van gyõzõdve arról, hogy az új fegyvereket célzó kutatások és a mutánsokon végzett boncolások sokkal fontosabbak a történelmünknél. Elfelejti, hogy a történelmünk életfontosságú része mindennapjainknak. Odáig fajult a dolog, hogy az újoncok többsége azt sem tudja, ki volt Roger Maxson, és mit tett értünk.}
+{338}{}{Szeretnék többet megtudni a Testvériség történelmérõl. Van valami információ, amit meg tudnál osztani velem?}
+{339}{}{Hmmm, úgy látom, Vree a megfelelõ ember, akivel beszélnem kell. Viszlát!}
+{341}{}{Látom, Vree itt a fény az éjszakában! Ki a fenét érdekelnék a sallangok?!}
+{342}{}{Egyetértek, hogy fontos a történelem, de engem az új technológiák és a jobb fegyverek érdekelnek.}
+{343}{}{Az ilyen jellegû kérdésekben Vree-vel kellene beszélned.}
+{344}{}{Az ilyesmihez csak a Krónikásoknak és a Paladinoknak van hozzáférésük. Vree talán tudna neked segíteni.}
+{345}{}{Köszönöm, megyek és beszélek vele.}
+{346}{}{Vannak itt hololemezek, amiket megtekinthetnék?}
+{347}{}{Most már tisztán látom, hogy nem te vagy az én emberem. Viszlát!}
+{348}{}{Jó érzés tudni, hogy vannak még, akiket érdekel a nagyszerû történelmünk. Ellentétben az itteniek többségével. Tessék. Ez a lemez néhány korábbi írásunkat tartalmazza.}
+{349}{}{Köszönöm.}
+{350}{}{Engem nem érdekel ez a marhaság. Meg kell mondjam, nem sokra mentem veled...}
+{351}{}{A történelmünk históriája bárki számára elérhetõ. Bárki tanulhat nagyszerû történelmünkbõl... na, nem mintha túl sokan kapkodnák magukat, hogy tanulmányozzák.}
+{352}{}{Szeretnék átnézni mindenféle anyagot, ami rendelkezésre áll a Testvériség történelmérõl.}
+{353}{}{Tényleg? Engem sem érdekel, csak muti meg a fegyvereket!}
+{354}{}{Üdvözlet. Még nem láttalak itt korábban. Eltévedtél netán? Segíthetek valamiben?}
+{355}{}{Öh......}
+{356}{}{Meg tudnád mondani, hol találom a könyvtárat?}
+{357}{}{Azért küldtek ide, hogy érdeklõdjem Vree-nél a Testvériség történelmérõl.}
+{358}{}{Ha eltévedtem volna, nem egy ilyen idiótától kértem volna segítséget!}
+{359}{}{Gondolom, nem sokra jutottál ezzel. Vree-t túlságosan lekötik a "kísérletei", hogy érdemben tudjon foglalkozni a történelmünkkel.}
+{360}{}{Akkor kivel beszélhetnék a Testvériség hátterérõl?}
+{361}{}{Jaja, a Testvériség szemlátomást csupa idiótával van tele.}
+{362}{}{Én sem. Viszlát!}
+{363}{}{Nem beszélek veled.}
+{364}{}{Miben segíthetek?}
+{365}{}{Mivel foglalkozol?}
+{366}{}{Tudnál mondani valamit a Testvériség történelmérõl?}
+{367}{}{Elnézést, összetévesztettelek valakivel. Viszlát!}
+{368}{}{Vree segédje vagyok.}
+{369}{}{Köszönöm.}
+{370}{}{Mit csinálsz itt Vree segédjeként?}
+{371}{}{Jó érzés tudni, hogy vannak még, akiket érdekel a nagyszerû történelmünk. Ellentétben az itteniek többségével. Tessék. Ez a lemez néhány korábbi írásunkat tartalmazza.}
+{372}{}{Köszönöm.}
+{373}{}{Engem nem érdekel ez a marhaság... Hát, nem sokra mentem veled...}
+{374}{}{Adtam egy lemezt neked, a régebbi írásainkkal. Töltsd fel a PipBoyodba, úgy el tudod majd olvasni!}
+{375}{}{Köszönöm.}
+{376}{}{Engem nem érdekel ez a marhaság. Meg kell mondjam, nem sokra mentem veled...}
+{377}{}{Nem tetszik a viselkedésed, ezért inkább nem szólok hozzád.}
+{378}{}{Legyen. Viszlát!}
+{379}{}{Bocsánatot kérek, faragatlan voltam.}
+{380}{}{Elfogadom a bocsánatkérést. Nos... miben segíthetek? }
+{381}{}{Mivel foglalkozol?}
+{382}{}{Tudnál mondani valamit a Testvériség történelmérõl?}
+{383}{}{Elnézést, összetévesztettelek valakivel. Viszlát!}
+{384}{}{Vree segédje vagyok. Õt megtalálod a Tanulóközpontban.}
+{400}{}{A Testvériségi Újoncok instruktorát látod.}
