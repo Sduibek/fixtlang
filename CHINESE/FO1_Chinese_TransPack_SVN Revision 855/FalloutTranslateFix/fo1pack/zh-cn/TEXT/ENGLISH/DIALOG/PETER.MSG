@@ -1,0 +1,55 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see , leader of the Follower Scouts.}
+#{101}{}{What are you doing around here? Can't you see we are busy?}
+#{102}{}{Huh?}
+#{103}{}{I am sorry. I will go now.}
+#{104}{}{Can I help you with anything?}
+#{105}{}{Who can I talk to about giving my assistance.}
+#{106}{}{Great. I'm busy, and I get a moron tailing me. Go look for Jake
+# if you need someone to talk to.}
+#{107}{}{Sure. You can start by getting out of my way.}
+#{108}{}{Certainly. Anything else?}
+#{109}{}{There must be something more I can do.}
+#{110}{}{Do not throw me to the side.}
+#{111}{}{Yes. You can get out of here.}
+#{112}{}{Fine. It doesn't look like I will get rid of you any other way.
+# It seems that we are having a security problem. You want to help, you
+# find the problem.}
+#{113}{}{Okay. Will do.}
+#{114}{}{Forget it!}
+#{115}{}{Fine. Get out then!}
+#{116}{}{Look, we have a breach in security. We need to find this breach and end it.}
+#{117}{}{Ok. Will do.}
+#{118}{}{Forget it!}
+#{119}{}{Do I look like a guide. Go talk to Jake if you are looking for a guide.}
+#{120}{}{Leave. i am trying to finish up a little work.}
+#{121}{}{We need that spy gone. Hurry up!}
+#{122}{}{Good job on taking out Heather. I should have known it was her.
+# She always seemed to disappear in the raids. Here, take this and go.}
+
+{100}{}{你看到彼得，末世论者侦查员的首领。}
+{101}{}{你在这干什么呢？没看见我们正忙着吗？}
+{102}{}{啊？}
+{103}{}{抱歉。我这就走。}
+{104}{}{我能帮你什么吗？}
+{105}{}{我想来帮忙，我该跟谁谈？}
+{106}{}{真是太“棒”了。我这么忙，却还有个低能佬跟着我。你要想找人说话就找杰克去。}
+{107}{}{当然了。你可以先滚开，其他的都好说。}
+{108}{}{当然。还有别的事吗？}
+{109}{}{肯定还有其他什么事是我可以做的。}
+{110}{}{别不搭理我。}
+{111}{}{是的。你可以离开了。}
+{112}{}{好吧好吧。看来我怎样也甩不掉你。那警卫们有活干了。你这么寻求帮助只会给自己惹麻烦。}
+{113}{}{好吧。就这样吧。}
+{114}{}{算了。}
+{115}{}{好。那就给我走！}
+{116}{}{瞧，是这样的，我们的保安系统里出现了点麻烦，得找出这个麻烦然后解决掉它。懂吗？}
+{117}{}{好。就这样。}
+{118}{}{算了。}
+{119}{}{我看起来象个导游吗？想要导游找杰克去。}
+{120}{}{走开。我正努力完成这工作。}
+{121}{}{我们要除掉那个叛徒。要快。}
+{122}{}{除掉希瑟那件事，你干的不错。我早该知道是她。她总是行踪不定，走到歹徒那边就不见。给，拿了这个走吧。}
+

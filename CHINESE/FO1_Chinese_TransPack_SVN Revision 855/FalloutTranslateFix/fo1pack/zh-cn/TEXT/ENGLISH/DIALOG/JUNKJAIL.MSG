@@ -1,0 +1,16 @@
+# {100}{}{You have broken out of the jail. You're now definitely a fugitive in Junktown!}
+# {101}{}{The door looks solid, and has a stout lock. Still, locks can be picked, and doors can be destroyed.}
+# {102}{}{The door is locked.}
+# {103}{}{You unlock the door.}
+# {104}{}{You lock the door.}
+# {105}{}{You fail to unlock the door.}
+# {106}{}{You fail to lock the door.}
+# {107}{}{You gain 250 experience points for busting out of jail!}
+{100}{}{你已经越狱了，你现在是一个迦克镇的逃犯！}
+{101}{}{这扇门很坚固，上面还挂着一把大锁。不过这锁还是可以想办法打开的。}
+{102}{}{这扇门是锁着的。}
+{103}{}{你解开了这把锁。}
+{104}{}{你把门锁上了。}
+{105}{}{你开锁失败了。}
+{106}{}{你没能把门锁上。}
+{107}{}{因为你成功的越狱，你得到250点经验值。}

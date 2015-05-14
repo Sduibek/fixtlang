@@ -1,0 +1,2330 @@
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+#
+# 北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北北?
+
+#
+# Special holiday dates
+#
+# {100}{}{Happy New Year's Day!}      # New years
+# {101}{}{Happy Valentine's Day!}     # April fools
+# {102}{}{Happy All Fool's Day!}      # April fools
+# {103}{}{Happy Ship Day!}　　    # Shipping day!
+# {104}{}{Happy Independence Day!}    # Independence day
+# {105}{}{Happy Halloween!}　　   # Halloween
+# {106}{}{Happy Thanksgiving Day!}    # Thanksgiving
+# {107}{}{Merry Christmas!}　　   # X-mas
+{100}{}{新年快乐！}      # New years
+{101}{}{情人节快乐！}     # April fools
+{102}{}{愚人节快乐！}      # April fools
+{103}{}{游戏发行日快乐！}　　    # Shipping day!
+{104}{}{独立日快乐！}    # Independence day
+{105}{}{万圣节快乐！}　　   # Halloween
+{106}{}{感恩节快乐！}    # Thanksgiving
+{107}{}{圣诞节快乐！}　　   # X-mas
+#
+# System messages
+#
+# {200}{}{MORE}
+# {201}{}{BACK}
+# {202}{}{STATUS}
+# {203}{}{No current tasks.}
+# {204}{}{CLUES}  # clues gone
+# {205}{}{AUTOMAPS}
+# {206}{}{VIDEO ARCHIVES}
+# {207}{}{DATA}
+# {208}{}{}
+# {209}{}{}
+# {210}{}{Status}
+# {211}{}{DATA}
+# {212}{}{of}
+# {213}{}{Page}
+# {214}{}{DONE}
+# {215}{}{You can not rest at this location!}
+{200}{}{更多}
+{201}{}{返回}
+{202}{}{－ 状态 －}
+{203}{}{目前没有任务。}
+{204}{}{提示}  # clues gone
+{205}{}{自动地图}
+{206}{}{影片资料}
+{207}{}{数据}
+{208}{}{}
+{209}{}{}
+{210}{}{状态}
+{211}{}{－ 数据 －}
+{212}{}{-}
+{213}{}{页}
+{214}{}{完成}
+{215}{}{你不能在这里休息！}
+
+#
+# Alarm clock
+#
+# {300}{}{ALARM CLOCK}
+# {301}{}{Hit Points}
+# {302}{}{Rest for ten minutes}
+# {303}{}{Rest for thirty minutes}
+# {304}{}{Rest for an hour}
+# {305}{}{Rest for two hours}
+# {306}{}{Rest for three hours}
+# {307}{}{Rest for four hours}
+# {308}{}{Rest for five hours}
+# {309}{}{Rest for six hours}
+# {310}{}{Rest until morning (0600)}
+# {311}{}{Rest until noon (1200)}
+# {312}{}{Rest until evening (1800)}
+# {313}{}{Rest until midnight (0000)}
+# {314}{}{Rest until healed}
+{300}{}{闹钟}
+{301}{}{生命值}
+{302}{}{休息十分钟}
+{303}{}{休息三十分钟}
+{304}{}{休息一小时}
+{305}{}{休息两小时}
+{306}{}{休息三小时}
+{307}{}{休息四小时}
+{308}{}{休息五小时}
+{309}{}{休息六小时}
+{310}{}{休息到早上（０６００）}
+{311}{}{休息到中午（１２００）}
+{312}{}{休息到晚上（１８００）}
+{313}{}{休息到午夜（００００）}
+{314}{}{休息到生命值全满}
+
+#
+# Holodisk titles
+#
+# {400}{}{FEV Experiment Tape}
+# {401}{}{Security Tape}
+# {402}{}{Ancient Brotherhood Tape}
+# {403}{}{Alpha Experiment Tape}
+# {404}{}{Delta Experiment Tape}
+# {405}{}{Vree's Experiment Tape}
+# {406}{}{Brotherhood Code}
+# {407}{}{Mutant Transmissions}
+# {408}{}{Brotherhood Tape}
+# {409}{}{Sophia Tape}
+# {410}{}{Maxson Log}
+# {411}{}{Richard Grey Audio Diary}
+# {412}{}{Captain Maxson's Diary}
+# {413}{}{FEV Research}
+# {414}{}{Power Armor Specs}
+# {415}{}{West Tech Records}
+# {416}{}{Vault Locations v34.129}
+# {417}{}{Regulator Transmission}
+{400}{}{ＦＥＶ实验磁盘}
+{401}{}{安全磁盘}
+{402}{}{古老的兄弟会磁盘}
+{403}{}{阿尔法实验磁盘}
+{404}{}{德尔塔实验磁盘}
+{405}{}{弗蕾的实验磁盘}
+{406}{}{兄弟会代码}
+{407}{}{变种人语音}
+{408}{}{兄弟会磁盘}
+{409}{}{索菲娅磁盘}
+{410}{}{马克松日记}
+{411}{}{理查德·格瑞录音}
+{412}{}{马克松将军的简介}
+{413}{}{ＦＥＶ研究}
+{414}{}{动力装甲说明}
+{415}{}{西部科技记录}
+{416}{}{避难所位置ｖ３４．１２９}
+{417}{}{常规通讯记录}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+# {500}{}{InterPlay Logo}　　       # Not show in Pipboy
+# {501}{}{MacPlay Logo}　　　　 # MacPlay version ,Not show in Pipboy
+# {502}{}{Intro}　　　　　　# Not show in Pipboy
+# {503}{}{Vat Destruction}
+# {504}{}{Cathedral Destruction}
+# {505}{}{Overseer Briefing}
+# {506}{}{Vault 13 Water Deprivation}   # Death
+# {507}{}{Vault 13 Invasion}　　    # Death
+# {508}{}{Leaving Vault}　　　　# Man end
+# {509}{}{Leaving Vault}　　　　# Woman end
+# {510}{}{Dipped in the Vats}　　   # Death
+# {511}{}{Vault 13 Water}
+# {512}{}{Vault 13 Water Running Low}
+# {513}{}{Rae Kills the Master}
+{500}{}{英特卫标志}　　       # Not show in Pipboy
+{501}{}{马克卫标志}　　　　 # MacPlay version ,Not show in Pipboy
+{502}{}{片头动画}　　　　　　# Not show in Pipboy
+{503}{}{病毒槽毁灭}
+{504}{}{大教堂毁灭}
+{505}{}{监督者任务简报}
+{506}{}{１３号避难所水源枯竭}   # Death
+{507}{}{１３号避难所受入侵}　　    # Death
+{508}{}{离开避难所}　　　　# Man end
+{509}{}{离开避难所}　　　　# Woman end
+{510}{}{渗透进病毒槽}　　   # Death
+{511}{}{１３号避难所水源}
+{512}{}{１３号避难所水源短缺}
+{513}{}{雷杀死了主教}
+
+#
+# Things for the Mac version to speak
+#
+#
+# {600}{}{Status}
+# {601}{}{Clues}  # Clues gone
+# {602}{}{Automaps}
+# {603}{}{Archives}
+# {604}{}{Alarm Clock}
+# {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+# {606}{}{Welcome to the Rob Co Pipboy 2000.}
+# {607}{}{So long.}
+# {608}{}{Wake up.}
+{600}{}{状态}
+{601}{}{提示}  # Clues gone
+{602}{}{自动地图}
+{603}{}{资料}
+{604}{}{闹钟}
+{605}{}{滴滴滴滴—嗒—嗒—滴嗒嗒滴—嗒嗒嗒滴滴滴—嗒滴滴嗒滴—嗒滴滴嗒滴—滴嗒嗒—滴嗒嗒—滴嗒嗒—滴嗒滴嗒滴嗒—嗒滴滴滴—嗒滴—滴嗒嗒嗒嗒—滴滴滴嗒嗒—滴嗒滴嗒滴嗒—嗒滴嗒滴—嗒嗒嗒—嗒嗒}
+{606}{}{欢迎使用哔哔小子２０００。}
+{607}{}{再见。}
+{608}{}{醒来。}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1 ... 9 thread/quest name
+#
+# {700}{}{Vault 13}
+# {701}{}{Calm rebel faction.}
+# {702}{}{Destroy the Mutant leader.}
+# {703}{}{Destroy the source of the Mutants.}
+# {704}{}{Find the Water Chip.}
+# {705}{}{Find the Water Thief.}
+{700}{}{１３号避难所}
+{701}{}{让不安的居民平静下来。}
+{702}{}{消灭变种人首领。}
+{703}{}{毁灭变种人的源头。}
+{704}{}{找到净水芯片。}
+{705}{}{查出偷水的人。}
+#
+# {710}{}{Buried Vault}
+{710}{}{被掩埋的避难所}
+#
+# {720}{}{Shady Sands}
+# {721}{}{Cure Jarvis of Radscorpion Poison.}
+# {722}{}{Make Poison Antidote.}
+# {723}{}{Rescue Tandi from the Raiders.}
+# {724}{}{Stop the Radscorpions.}
+{720}{}{沙荫镇}
+{721}{}{治愈中蝎子毒的贾维斯。}
+{722}{}{制作解毒剂。}
+{723}{}{从歹徒营地拯救坦蒂。}
+{724}{}{阻止大蝎子。}
+#
+# {730}{}{Junktown}
+# {731}{}{Help Saul.}
+# {732}{}{Kill Killian.}
+# {733}{}{Rescue Sinthia.}
+# {734}{}{Save Trish.}
+# {735}{}{Stop Gizmo.}
+# {736}{}{Bust the Skulz gang.}
+{730}{}{迦克镇}
+{731}{}{帮助索尔。}
+{732}{}{杀死基利安。}
+{733}{}{拯救辛西娅。}
+{734}{}{解救特里诗。}
+{735}{}{制止吉斯莫。}
+{736}{}{瓦解骷髅党。}
+#
+# {740}{}{Raiders}
+{740}{}{歹徒}
+#
+# {750}{}{Necropolis}
+# {751}{}{Destroy the Super Mutants at the Watershed.}
+# {752}{}{Fix the Necropolis water pump.}
+{750}{}{大墓地}
+{751}{}{消灭供水区的超级变种人。}
+{752}{}{修理大墓地的水泵。}
+#
+# {760}{}{Hub}
+# {761}{}{Destroy Deathclaw.}
+# {762}{}{Dispose of Jain.}
+# {763}{}{Dispose of merchant.}
+# {764}{}{Find the missing caravans.}
+# {765}{}{Steal necklace from the Merchants.}
+{760}{}{哈勃城}
+{761}{}{消灭死亡爪。}
+{762}{}{干掉简恩。}
+{763}{}{干掉商人。}
+{764}{}{寻找失踪的商队。}
+{765}{}{从商人那里偷走项链。}
+#
+# {770}{}{Brotherhood}
+# {771}{}{Become an Initiate.}
+# {772}{}{Rescue Initiate from the Hub.}
+{770}{}{钢铁兄弟会}
+{771}{}{加入兄弟会。}
+{772}{}{从哈勃城救出新成员。}
+#
+# {780}{}{Military Base}
+{780}{}{军事基地}
+#
+# {790}{}{Glow}
+# {791}{}{Disarm Traps for the Facility.}
+# {792}{}{Turn on power for the Glow.}
+{790}{}{闪光之地}
+{791}{}{排除设备上的陷阱。}
+{792}{}{打开避难所的电源。}
+#
+# {800}{}{Boneyard}
+# {801}{}{Become a Blade.}
+# {802}{}{Deliver Locket for Romero.}
+# {803}{}{Deliver package from the Gun Runners.}
+# {804}{}{Find Children spy in the Followers.}
+# {805}{}{Fix hydroponic farms in Adytum.}
+# {806}{}{Rescue Jason Zimmerman.}
+# {807}{}{Stop the Gangs from attacking Adytum.}
+{800}{}{晒骨场}
+{801}{}{成为一个利刃帮成员。}
+{802}{}{为罗梅罗送纪念品。}
+{803}{}{递送军火商的包裹。}
+{804}{}{从追随者中查出大教堂教徒的间谍。}
+{805}{}{挽救内城区的水栽农场。}
+{806}{}{拯救贾森·齐默曼。}
+{807}{}{阻止黑帮攻击内城区。}
+#
+# {810}{}{Cathedral}
+{810}{}{大教堂}
+
+
+#
+# Holodisk text
+#
+
+# *** FEV Experiment Disk ***
+# {1000}{}{?Log Date March 21, 2075:}
+# {1001}{}{Major Barnett has ordered experiments with batch}
+# {1002}{}{10-011 of  panimmunity virion, which has been }
+# {1003}{}{renamed FEV, for Forced Evolutionary Virus. His}
+# {1004}{}{main concern is with the side effects of the }
+# {1005}{}{quad-helix structure rather than its main effect}
+# {1006}{}{of replicative stability. He believes the new }
+# {1007}{}{structure is the next logical step for mammalian}
+# {1008}{}{nuclei. Experiments with single-celled organisms}
+# {1009}{}{is a great success. While their basal metabolism}
+# {1010}{}{appears unchanged, their immunity to infection }
+# {1011}{}{and radiation is exceeding all earlier expectations.}
+# {1012}{}{Addendum: choroplasts seem unaffected by the virion.}
+# {1013}{}{Further experiments on plant cells have been }
+# {1014}{}{canceled by order of Major Barnett.}
+# {1015}{}{**END-PAR**}
+{1000}{}{记录日期：２０７５年３月２１日}
+{1001}{}{　　巴耐特主管下令把试验中的１０－０１１病毒更名为ＦＥＶ。}
+{1002}{}{这个能够增强体能的病毒中，他更关心那些四芯螺旋结构的副作用，}
+{1003}{}{而不是那些主要功能的稳定性。他相信新的结构会使哺乳动物的本}
+{1004}{}{质改变。用单细胞生物做的实验非常成功。它们的基本代谢没有改}
+{1005}{}{变，并对辐射的免疫力超过了之前的所有预计。}
+{1006}{}{附加说明：}
+{1007}{}{　　原始脊柱动物似乎不会受到病毒的影响。进一步在植物细胞上}
+{1008}{}{的实验已经被巴耐特主管下令取消了。}
+{1009}{}{**END-PAR**}
+{1010}{}{}
+{1011}{}{}
+{1012}{}{}
+{1013}{}{}
+{1014}{}{}
+{1015}{}{}
+# -
+# {1016}{}{?Log Date May 9, 2075}
+# {1017}{}{We infected several species of flatworm with FEV. }
+# {1018}{}{Within hours the worms had increased in size by }
+# {1019}{}{28%, and 39 separate viral contagions were resisted}
+# {1020}{}{by the population. Each sample was allowed to }
+# {1021}{}{continue for several generations, and the new DNA }
+# {1022}{}{structure was successfully passed on to worm's }
+# {1023}{}{progeny, although only asexual reproduction was }
+# {1024}{}{noticed in the samples. Experiments with insects }
+# {1025}{}{have had less success. Major Barnett has postponed }
+# {1026}{}{these experiments until further notice.}
+# {1027}{}{**END-PAR**}
+{1016}{}{记录日期：２０７５年５月９日}
+{1017}{}{　　我们为几个品种的扁虫接种了ＦＥＶ病毒，几个小时后，这些}
+{1018}{}{扁虫的体形已经增大了２８％，并且对３９种病菌全部免疫。每个}
+{1019}{}{样本都有繁殖下一代的能力，而新的ＤＮＡ结构能也能成功的遗传}
+{1020}{}{给扁虫的后代。虽然只是单纯的无性繁殖，但在昆虫身上的试验还}
+{1021}{}{是比较成功的。巴耐特主管推迟了这些试验，直到有进一步的通知。}
+{1022}{}{**END-PAR**}
+{1023}{}{}
+{1024}{}{}
+{1025}{}{}
+{1026}{}{}
+{1027}{}{}
+# -
+# {1028}{}{?Log Date June 30, 2075}
+# {1029}{}{Several lab strains of white mice have been infected}
+# {1030}{}{successfully with FEV. Again, an increase in size }
+# {1031}{}{was noted within hours, and after 9 days all mice }
+# {1032}{}{had stabilized at 31% larger than the control group. }
+# {1033}{}{Dissection revealed the most increase in size in }
+# {1034}{}{striated muscle tissue and certain internal organs, }
+# {1035}{}{such as the liver, heart, and kidneys. In a }
+# {1036}{}{surprising finding, the infected mice were found to}
+# {1037}{}{run mazes in less than half of the time of the }
+# {1038}{}{control group. More testing will be needed to }
+# {1039}{}{confirm this finding as significant.}
+# {1040}{}{**END-PAR**}
+{1028}{}{记录日期：２０７５年６月３０日}
+{1029}{}{　　成功的为一批不同品种的白鼠接种了ＦＥＶ，又一次的，他们}
+{1030}{}{的体形在几个小时内增加不少，并且９天后全部白鼠的体形比最初}
+{1031}{}{增加了３１％。解剖后发现增生现象主要出现在肌肉组织和部分内}
+{1032}{}{脏器官上。例如：肝脏、心脏和肾脏。还有一个出乎预料的发现，}
+{1033}{}{那些被感染的白鼠通过迷宫的时间比普通白鼠用的要少！准备通过}
+{1034}{}{更多的试验来证明这些发现的可靠性。}
+{1035}{}{**END-PAR**}
+{1036}{}{}
+{1037}{}{}
+{1038}{}{}
+{1039}{}{}
+{1040}{}{}
+# -
+# {1041}{}{?Log Date November 9, 2075}
+# {1042}{}{We have infected 218 rabbits with FEV. Half of }
+# {1043}{}{the subjects were implanted with electrodes to }
+# {1044}{}{monitor EEG activity before and after the }
+# {1045}{}{infection. Increased electrical activity in the }
+# {1046}{}{brain was noted in 3.2 seconds (on average) after}
+# {1047}{}{injection. Again, the typical size increase was }
+# {1048}{}{noted. However, increased aggression and posturing}
+# {1049}{}{(especially among males) was noted as well. }
+# {1050}{}{Sacrifice and profusion yielded brain tissue that}
+# {1051}{}{showed increased dendritic connection, especially }
+# {1052}{}{in the limbic system and frontal cortex.}
+# {1053}{}{**END-PAR**}
+{1041}{}{记录日期：２０７５年１１月９日}
+{1042}{}{　　我们用ＦＥＶ感染了２１８只兔子，半数的试验体被植入了电}
+{1043}{}{极用来监控感染病毒前后的ＥＥＧ活跃状况。在植入３．２秒（平}
+{1044}{}{均）之后增加脑部电极活跃程度，它们的体形再次的增大了。然而}
+{1045}{}{这一次又发现了新的现象，它们变得更加具有攻击性（尤其是雄性}
+{1046}{}{兔子）。对脑组织解剖后发现，大脑中树状血管增生变长了，并以}
+{1047}{}{大脑皮层的前端和边缘部位最为明显。}
+{1048}{}{**END-PAR**}
+{1049}{}{}
+{1050}{}{}
+{1051}{}{}
+{1052}{}{}
+{1053}{}{}
+# -
+# {1054}{}{?Log Date January 12, 2076}
+# {1055}{}{With batch 11-011, we have improved the mitotic }
+# {1056}{}{cycle efficiency by 43%. We have infected 53 }
+# {1057}{}{raccoons with the new strain. In addition to the}
+# {1058}{}{now expected size increase, behavioral tests }
+# {1059}{}{confirmed an increase in intelligence and manual }
+# {1060}{}{dexterity by 19 points on the Schuler-Kapp index. }
+# {1061}{}{Unfortunately, several subjects escaped confinement}
+# {1062}{}{and had to be hunted down and dispatched. Major }
+# {1063}{}{Barneet ordered the remaining subjects terminated.}
+# {1064}{}{Two pairs were unaccounted for.}
+# {1065}{}{**END-PAR**}
+{1054}{}{记录日期：２０７６年１月１２日}
+{1055}{}{　　第１１－０１１批次，我们将有丝分裂的效率提高到４３％。}
+{1056}{}{我们用新病毒感染了５３只浣熊，就像期待中的那样，它们的体形}
+{1057}{}{增大了。运动测试证实了智力和动作灵敏度在史策勒－卡勃指标中}
+{1058}{}{增加了１９点。很不幸，几个试验体跑出了监禁区，不得不把它们}
+{1059}{}{射杀并解剖了。巴耐特主管下令终止剩下的课题。有两对浣熊未做}
+{1060}{}{记录。}
+{1061}{}{**END-PAR**}
+{1062}{}{}
+{1063}{}{}
+{1064}{}{}
+{1065}{}{}
+# -
+# {1066}{}{?Log Date May 13, 2076}
+# {1067}{}{We have spliced several new gene sequences, supplied}
+# {1068}{}{by Major Barnett's advisory team, into FEV. With }
+# {1069}{}{batch 11-101a, we infected 23 dogs of both pure and }
+# {1070}{}{mixed breed, and all experienced nearly immediate }
+# {1071}{}{growth. The larger size was accompanied with }
+# {1072}{}{increased aggressiveness, while no significant }
+# {1073}{}{intelligence increase was noted. We plan to attempt}
+# {1074}{}{crossover of 92 allele pairs with batch 11-011. All}
+# {1075}{}{subjects were terminated after 14 weeks of study.}
+# {1076}{}{**END-PAR**}
+{1066}{}{记录日期：２０７６年５月１３日}
+{1067}{}{　　我们增强了几个新的基因序列，由巴耐特的科研小组合成了第}
+{1068}{}{１１－１０１ａ批次ＦＥＶ，我们感染了２３只纯种和杂种狗，并}
+{1069}{}{且所有的试验体几乎立即发生变化。伴随着体形的增长侵略性也增}
+{1070}{}{加了许多，然而没有明显的智力增长。我们将与１１－０１１批次}
+{1071}{}{的９２对基因进行等位交换。在进行了１４周的研究后，全部的实}
+{1072}{}{验体被销毁。}
+{1073}{}{**END-PAR**}
+{1074}{}{}
+{1075}{}{}
+{1076}{}{}
+# -
+# {1077}{}{?Log Date October 4, 2076}
+# {1078}{}{The crossover has been completed and 15 chimpanzees}
+# {1079}{}{were infected with batch 11-111. Growth and immunity}
+# {1080}{}{levels are unprecedented. Attempts to induce cancers}
+# {1081}{}{in the subjects through radiological and chemical }
+# {1082}{}{agents were not successful. Increased aggressiveness}
+# {1083}{}{have led to isolating the subjects. Two subjects }
+# {1084}{}{suffered violent epileptic seizures and died. All }
+# {1085}{}{remaining subjects terminated.}
+# {1086}{}{**END-PAR**}
+{1077}{}{记录日期：２０７６年１０月４日}
+{1078}{}{　　等位基因交换实验完成，１５只黑猩猩被１１－１１１批次感}
+{1079}{}{染，生长和免疫水平是空前的。尝试利用放射线和化学制剂促使其}
+{1080}{}{产生癌症都不能成功。由于实验体侵略性的增加，我们必须单独监}
+{1081}{}{禁它们。两个实验体出现了剧烈的癫痫症状并且死去了。剩下的实}
+{1082}{}{验体全部被销毁。}
+{1083}{}{**END-PAR**}
+{1084}{}{}
+{1085}{}{}
+{1086}{}{}
+# -
+# {1087}{}{?Log Date January 7, 2077}
+# {1088}{}{Major Barnett has ordered transfer of all FEV }
+# {1089}{}{research  to the Mariposa Military Base. He }
+# {1090}{}{plans to continue the project experiments on }
+# {1091}{}{volunteer subjects. I am against this, and would }
+# {1092}{}{like it noted here that research on human subjects}
+# {1093}{}{is not recommended by myself or my staff.}
+# {1094}{}{**END-DISK**}
+{1087}{}{记录日期：２０７７年１月７日}
+{1088}{}{　　巴耐特主管下令将全部有关ＦＥＶ的实验转移到迈瑞普斯军事}
+{1089}{}{基地。他计划继续在人体上实验。我提出抗议，并声明我和我的组}
+{1090}{}{员绝对不推荐用人体进行试验。}
+{1091}{}{**END-DISK**}
+{1092}{}{}
+{1093}{}{}
+{1094}{}{}
+# *** Security Disk ***
+# {2000}{}{Security override Gamma Omicron Delta.}
+# {2001}{}{**END-DISK**}
+{2000}{}{保安撤销：伽马－欧米肯－得尔塔。}
+{2001}{}{**END-DISK**}
+# *** Ancient Brotherhood Disk ***
+# {3000}{}{Capt. Maxson was right. This place is death.}
+# {3001}{}{I'm writing this so that if we don't make it}
+# {3002}{}{back, someone, some day, might find out what}
+# {3003}{}{happened to us.}
+# {3004}{}{**END-PAR**}
+{3000}{}{　　马克松将军是对的，这是一块死亡之地。我在这里记录这些以}
+{3001}{}{防我们不能活着回去，将来的人们才能知道我们发生了什么事。}
+{3002}{}{**END-PAR**}
+{3003}{}{}
+{3004}{}{}
+# -
+# {3005}{}{We made it to West Tek Research Facility after}
+# {3006}{}{20 days of hell. But that was the easy part. The}
+# {3007}{}{radiation levels began to shoot up as soon as we}
+# {3008}{}{could see the giant crater. We checked our supplies}
+# {3009}{}{and figured with our armor and our anti-rad supplies}
+# {3010}{}{we'd be fine for a least a day of exploring. We }
+# {3011}{}{felt it was a calculated risk, but the technology }
+# {3012}{}{we had the potential of recovering was worth it.}
+# {3013}{}{**END-PAR**}
+{3005}{}{　　经过地狱般的２０天我们终于到达了西特克研究设施。但这只}
+{3006}{}{是最容易的一步。当我们刚刚看见巨型弹坑时辐射指标急剧增高。}
+{3007}{}{在检查了防辐射药品和装甲的承受度后，我们发现所有这些补给只}
+{3008}{}{够我们在这里最多停留一天时间。我们知道这困难是预料中的，但}
+{3009}{}{是如果我们拥有更多的医疗技术会非常有用。}
+{3010}{}{**END-PAR**}
+{3011}{}{}
+{3012}{}{}
+{3013}{}{}
+# -
+# {3014}{}{We climbed down the crater to the first level and }
+# {3015}{}{everything seemed to be according to plan. The power}
+# {3016}{}{was off, so we didn't need to circumvent the }
+# {3017}{}{security. Or so we thought. There wasn't much of }
+# {3018}{}{value on this level, so we pushed on.}
+# {3019}{}{**END-PAR**}
+{3014}{}{　　我们下到弹坑的第一层，所有事情似乎都按计划进行着。电源}
+{3015}{}{被关闭了，为了确保安全，我们没有四处搜索，或者说，这一层也}
+{3016}{}{没什么有价值的东西，因此我们继续向下层探索。}
+{3017}{}{**END-PAR**}
+{3018}{}{}
+{3019}{}{}
+# -
+# {3020}{}{The second level was more of the same.}
+# {3021}{}{**END-PAR**}
+{3020}{}{　　第二层和第一层差不多。}
+{3021}{}{**END-PAR**}
+# -
+# {3022}{}{When Jensen dropped to the third level, all hell }
+# {3023}{}{broke loose. The security sensors had been burned}
+# {3024}{}{out on the first two levels, but not on the third.}
+# {3025}{}{Jensen was cut to ribbons before he knew what had }
+# {3026}{}{happened. We'd never seen weapons cut through power}
+# {3027}{}{armor like that. Men started dropping right and }
+# {3028}{}{left, and the ones who were still alive lost it. I}
+# {3029}{}{tried to regroup, but only Soto and Camarillo made}
+# {3030}{}{it back up here to the first level with me.}
+# {3031}{}{**END-PAR**}
+{3022}{}{　　当杰森下到第三层时，所有可怕的事发生了。第一层和第二层}
+{3023}{}{的保安系统都已经被烧坏，但是第三层的没有。杰森还不清楚发生}
+{3024}{}{了什么事就被切成了碎块。我们从来没见过有什么武器能这么轻松}
+{3025}{}{的割开动力装甲。队员们在慌乱中掉队和逃跑，剩下来的人也都丧}
+{3026}{}{失了理智。我努力整顿队伍，但只有索图、卡马里罗和我一起成功}
+{3027}{}{的回到第一层。}
+{3028}{}{**END-PAR**}
+{3029}{}{}
+{3030}{}{}
+{3031}{}{}
+# -
+# {3032}{}{ The fact that I can smell Soto's burning flesh }
+# {3033}{}{where his arm was taken off means that my power }
+# {3034}{}{armor is no longer air tight, so I'm sucking up }
+# {3035}{}{a lot more rads than I had planned on. I'm leaking}
+# {3036}{}{hydraulics at an alarming rate. We need to get far}
+# {3037}{}{enough away from this place before my armor dies. }
+# {3038}{}{**END-PAR**}
+{3032}{}{　　在索图手臂部位的装甲破裂了，我能闻到皮肉烧焦的气味，我}
+{3033}{}{的动力装甲也不再密封了。我受到大量辐射，并且已经严重脱水。}
+{3034}{}{我们必须在失去动力装甲保护前离开这个鬼地方。}
+{3035}{}{**END-PAR**}
+{3036}{}{}
+{3037}{}{}
+{3038}{}{}
+# -
+# {3039}{}{Camarillo seemed fine physically, but he wandered}
+# {3040}{}{off about an hour ago, mumbling something about }
+# {3041}{}{Gehenna. That bastard has all the anti-rad. }
+# {3042}{}{**END-PAR**}
+{3039}{}{　　卡马里罗的外部看上去还算正常，但一小时前他掉队了，在失}
+{3040}{}{散前他一直喃喃自语的嘀咕一些关于地狱什么的，这家伙有很高的}
+{3041}{}{辐射抵抗力。}
+{3042}{}{**END-PAR**}
+# -
+# {3043}{}{That leaves Soto and myself.  We can't make }
+# {3044}{}{it far enough away from here without the }
+# {3045}{}{anti-rads, so I've got to try to find Camarillo}
+# {3046}{}{before it's too late.}
+# {3047}{}{**END-PAR**}
+{3043}{}{　　只剩下我和索图。我们抗辐射药严重缺乏，如果继续耽误下去}
+{3044}{}{我们就无法离开这里了。在事情变的更糟之前，我必须找到卡马里}
+{3045}{}{罗。}
+{3046}{}{**END-PAR**}
+{3047}{}{}
+# -
+# {3048}{}{Sgt. D. Allen , United States Armed Forces.}
+# {3049}{}{**END-DISK**}
+{3048}{}{　　艾伦中士，美国武装部队。}
+{3049}{}{**END-DISK**}
+#  *** Alpha Experiment Disk ***
+# {4000}{}{Prototype Panimmunity Virion Project}
+# {4001}{}{**END-PAR**}
+{4000}{}{番纳姆病毒原型工程}
+{4001}{}{**END-PAR**}
+# -
+# {4002}{}{In the hopes of countering the current }
+# {4003}{}{bacteriological and viral agents employed by the}
+# {4004}{}{Chinese government, we have manufactured a virus }
+# {4005}{}{fragment consisting of ribonucleic acid (RNA) }
+# {4006}{}{encased in a protein-lipid sheath. This virion }
+# {4007}{}{contains a specially arranged sequence of radiated}
+# {4008}{}{amino acids (RAA) that are capable of attaching to}
+# {4009}{}{non-specific binding sites on deoxyribonucleic }
+# {4010}{}{acid (DNA) and force a non-replicating mitosis to}
+# {4011}{}{occur. The resulting host cell is left with a }
+# {4012}{}{quadruple-helix DNA structure.}
+# {4013}{}{**END-PAR**}
+{4002}{}{　　为了对抗现在流行的由中国政府研发的生化病毒，我们把}
+{4003}{}{核糖核酸（ＲＮＡ）植入蛋白质合成出一种对抗型病毒。这病}
+{4004}{}{毒的序列经过特殊的放射性重组。利用氨基酸（ＲＡＡ）迫使}
+{4005}{}{（ＤＮＡ）序列产生非复制有丝分裂，这个过程可以让宿主细}
+{4006}{}{胞转化为四倍螺旋体ＤＮＡ结构。}
+{4007}{}{**END-PAR**}
+{4008}{}{}
+{4009}{}{}
+{4010}{}{}
+{4011}{}{}
+{4012}{}{}
+{4013}{}{}
+# -
+# {4014}{}{Early tests are promising. The virion easily }
+# {4015}{}{penetrates the cell membrane and attaches directly}
+# {4016}{}{to the host DNA in the nucleus. Mitosis of the }
+# {4017}{}{structure begins almost immediately. Cytokinesis }
+# {4018}{}{is prevented by controlling the disposition of the}
+# {4019}{}{kinetochore fibers during anaphase. The entire }
+# {4020}{}{mitotic cycle lasts approximately 2 hours, although}
+# {4021}{}{phenotypical expression of the new structure may }
+# {4022}{}{take days or weeks to become apparent.}
+# {4023}{}{**END-PAR**}
+{4014}{}{　　前期的试验是很成功。病毒轻易的穿透了细胞膜并且直接}
+{4015}{}{附在宿主细胞核的ＤＮＡ序列中，非复制有丝分裂几乎是马上}
+{4016}{}{开始的。在分裂后期通过控制着丝点纤维的放置位置来防止细}
+{4017}{}{胞囊的移动。整个有丝分裂周期持续大约两小时，这些显然说}
+{4018}{}{明一种新的遗传型病毒结构将在数天或几周内出现。}
+{4019}{}{**END-PAR**}
+{4020}{}{}
+{4021}{}{}
+{4022}{}{}
+{4023}{}{}
+# -
+# {4024}{}{In addition to an effective immunity to bacterial }
+# {4025}{}{and viral agents, the quad-helix structure is }
+# {4026}{}{almost entirely immune to errors introduced in }
+# {4027}{}{base pairing during replication due to multiplicity}
+# {4028}{}{of the base sequence. Radiation-exposed tissue }
+# {4029}{}{showed no mutation in the base sequence and protein}
+# {4030}{}{synthesis mechanisms in the ribosomes were unimpaired.}
+# {4031}{}{**END-PAR**}
+{4024}{}{　　除了宿主对生化病毒能够完全接受以外，这个四倍螺旋体}
+{4025}{}{结构在配对复制过程中，几乎对所有的错误配对免疫，放射测}
+{4026}{}{试表明：辐射不能改变它的序列，并且它的核糖蛋白与蛋白质}
+{4027}{}{基本结构也不会受到损伤。}
+{4028}{}{**END-PAR**}
+{4029}{}{}
+{4030}{}{}
+{4031}{}{}
+# -
+# {4032}{}{Over 80% of the samples tissue contained quad-helix}
+# {4033}{}{DNA. Most affected was muscle and bone tissue, as }
+# {4034}{}{well as secretory cells, as these cells seem most }
+# {4035}{}{receptive to virion. Sensory cells are the least }
+# {4036}{}{affected. Surprisingly, even normally non-replicating}
+# {4037}{}{nerve cells and nonsomatic cell were induced to }
+# {4038}{}{begin mitosis. Further experiments will be necessary}
+# {4039}{}{to determine the results on these cells.}
+# {4040}{}{**END-DISK**}
+{4032}{}{　　超过８０％的试验生物的ＤＮＡ组织中包含四倍螺旋体结}
+{4033}{}{构。受到影响最大的是肌肉组织和骨骼。另外，不仅仅是分泌}
+{4034}{}{腺细胞，似乎其它细胞组织看起来也很容易接受病毒。甚至平}
+{4035}{}{时那些抵抗力很强的神经元细胞和体表细胞也会进行有丝分裂。}
+{4036}{}{**END-DISK**}
+{4037}{}{}
+{4038}{}{}
+{4039}{}{}
+{4040}{}{}
+
+
+# *** Delta Experiment Disk ***
+# {5000}{}{The Military has deemed it necessary for us to research}
+# {5001}{}{further in depth the effects of wave technology upon}
+# {5002}{}{living organisms.  We have taken light and sound as the}
+# {5003}{}{basis of our studies.  By manipulating the amplitude of}
+# {5004}{}{the light waves and magnifying the frequency, we have}
+# {5005}{}{been able to get lasers which will cut through a few}
+# {5006}{}{feet a steel.  Unfortunately, the power to do such a}
+# {5007}{}{task has not been fully developed.  We have other}
+# {5008}{}{scientists looking into this.}
+# {5009}{}{**END-DISK**}
+{5000}{}{　　军方认为我们有必要进一步去研究生物之外的光学技术。}
+{5001}{}{我们利用光波和声波作为研究课题。藉由操纵光波幅度来放大}
+{5002}{}{功率，我们已经能够用激光穿透钢铁。不幸的是，这样的力量}
+{5003}{}{只是做这些工作还不能充分发挥它的威力，我们中有些科学家}
+{5004}{}{已经开始研究这个了。}
+{5005}{}{**END-DISK**}
+{5006}{}{}
+{5007}{}{}
+{5008}{}{}
+{5009}{}{}
+# *** Vree's Experiment Disk ***
+# {6000}{}{?Initial Observations}
+# {6001}{}{**END-PAR**}
+{6000}{}{第一次接触}
+{6001}{}{**END-PAR**}
+# -
+# {6002}{}{This is truly amazing. Some of the Knights on a patrolling}
+# {6003}{}{expedition came across an unusual creature. This creature}
+# {6004}{}{appears to be humanoid, and quite possibly was once of a}
+# {6005}{}{human state. However, there are many differences in the }
+# {6006}{}{structure of this creature than that of normal humans.}
+# {6007}{}{**END-PAR**}
+{6002}{}{　　这真是令人震惊！一些士兵在一次执行巡逻任务中遇到一}
+{6003}{}{种不寻常的生物。这种生物看起来像人类，也许他们曾经是人}
+{6004}{}{类。可是和正常人类相比，它们在结构上存在很多差异。}
+{6005}{}{**END-PAR**}
+{6006}{}{}
+{6007}{}{}
+# -
+# {6008}{}{In the initial investigation of this creature, it is }
+# {6009}{}{discovered to have a cellular structure akin to that of}
+# {6010}{}{humans. Before any possible decomposition can take }
+# {6011}{}{place, I am taking down the statistics of this subject.}
+# {6012}{}{**END-PAR**}
+{6008}{}{　　在最初对这种生物的样本检查中，发现它们有种细胞结构}
+{6009}{}{与人类相近。在样本已经开始有些腐烂的情况下我做了检测记}
+{6010}{}{录。}
+{6011}{}{**END-PAR**}
+{6012}{}{}
+# -
+# {6013}{}{?Statistics of Subject A:}
+# {6014}{}{**END-PAR**}
+{6013}{}{检测记录－Ａ：}
+{6014}{}{**END-PAR**}
+# -
+# {6015}{}{Height: 3.2 meters}
+# {6016}{}{Mass:    363.21 kg}
+# {6017}{}{Gender: Indeterminate}
+# {6018}{}{Skin Colour: Predominantly gray with tints of green }
+# {6019}{}{under the current lighting system. Uncertain if this is}
+# {6020}{}{due to decay or exposure in the wastelands. Note: The }
+# {6021}{}{skin is extremely tough with respect to scalpels.}
+# {6022}{}{**END-PAR**}
+# {6023}{}{Mass Breakdown:}
+# {6024}{}{    Muscle Mass: 77.41% }
+# {6025}{}{    Bone Mass:   10.23%}
+# {6026}{}{    Fat Mass:     3.02%}
+# {6027}{}{    Tissue Mass:  9.34%}
+# {6028}{}{**END-PAR**}
+# {6029}{}{Cellular Structure:}
+# {6030}{}{    Cells undergo cellular division at an increased rate.}
+# {6031}{}{    Mitosis occurs at a rate 15% quicker than that of }
+# {6032}{}{    normal humans.}
+# {6033}{}{    Cellular structure appears to be highly similar to}
+# {6034}{}{    humans.}
+# {6035}{}{    Genetic structure shows a strong correlation}
+# {6036}{}{    between the subject and Homo Sapiens. Possible a}
+# {6037}{}{    mutation from the nuclear and biochemical agents}
+# {6038}{}{    remnant from the war.}
+# {6039}{}{    DNA strands appear to be very complete. All recessive}
+# {6040}{}{    genes for ailments appear to have been eradicated}
+# {6041}{}{    from the system.}
+# {6042}{}{    The RNA strands also appear to have been manipulated}
+# {6043}{}{    to allow for a greater transmission of signals.}
+# {6044}{}{**END-PAR**}
+{6015}{}{身高：３．２米}
+{6016}{}{体重：３６３．２１公斤}
+{6017}{}{性别：不确定}
+{6018}{}{肤色：在当前的光照下主要为灰白拌有绿色。不确定这是否因}
+{6019}{}{　　　为腐烂还是长期暴露在辐射中导致的。注意：对于手术}
+{6020}{}{　　　刀来说样本的皮肤太坚韧了。}
+{6021}{}{**END-PAR**}
+{6022}{}{身体组织比重：}
+{6023}{}{　　肌肉：７７．４１％}
+{6024}{}{　　骨骼：１０．２３％}
+{6025}{}{　　脂肪：　３．０２％}
+{6026}{}{　　内脏：　９．３４％}
+{6027}{}{**END-PAR**}
+{6028}{}{细胞结构：}
+{6029}{}{　　细胞能够承受加快的分裂速度。有丝分裂的速率比正常人}
+{6030}{}{快１５％。细胞结构看起来与人类的高度相似。}
+{6031}{}{　　遗传结构表明在这种生物和现代人类有着很强的联系。很}
+{6032}{}{可能是核辐射或者生化制剂残留体内所造成的变异。}
+{6033}{}{　　ＤＮＡ链看起来十分完美。所有能够引起疾病的隐性基因}
+{6034}{}{都已经被排除了。}
+{6035}{}{　　ＲＮＡ链似乎也被人工修改过以产生较高质量的继承。}
+{6036}{}{**END-PAR**}
+{6037}{}{}
+{6038}{}{}
+{6039}{}{}
+{6040}{}{}
+{6041}{}{}
+{6042}{}{}
+{6043}{}{}
+{6044}{}{}
+# -
+# {6045}{}{?Initial Hypothesis}
+# {6046}{}{**END-PAR**}
+{6045}{}{初步推断}
+{6046}{}{**END-PAR**}
+# -
+# {6047}{}{Based on the increased size of the neural transmitters}
+# {6048}{}{and synaptic receivers, I would hypothesize the}
+# {6049}{}{subject had acute reflexes and heightened senses. Based}
+# {6050}{}{on the reports the Knights gave of the area in which the}
+# {6051}{}{subject was discovered, barren, high radiation, extremely}
+# {6052}{}{high concentrations of chemical agents, it is a wonder}
+# {6053}{}{the subject survived as long as it did. Performing tests}
+# {6054}{}{to determine possible cause of death.}
+# {6055}{}{**END-PAR**}
+{6047}{}{　　基于那些增大了的神经末梢和触觉神经系统，我推测这些}
+{6048}{}{生物的神经反射会更加敏锐，同时他们的感觉也会很灵敏。在}
+{6049}{}{骑士对那个区域的侦察报告中显示，那片荒凉的地区有很高的}
+{6050}{}{辐射，并含有高密度的化学成分。这真是个奇迹，这些生物竟}
+{6051}{}{然能够在那里生存下来。将要进行一系列的检查以找到他们死}
+{6052}{}{亡的原因。}
+{6053}{}{**END-PAR**}
+{6054}{}{}
+{6055}{}{}
+# -
+# {6056}{}{?Results from tests conducted upon Subject A:}
+# {6057}{}{**END-PAR**}
+{6056}{}{在样本上进行检测的结果－Ａ：}
+{6057}{}{**END-PAR**}
+# -
+# {6058}{}{Visual Inspection:}
+# {6059}{}{    Black powder burns near the area suggest possible }
+# {6060}{}{    bullet.}
+# {6061}{}{    1.2 cm lacerations upon the calf of the right leg }
+# {6062}{}{    appear to have been made by teeth. Will conduct}
+# {6063}{}{    test for possible Rabies.}
+# {6064}{}{    Skin dried out and flaking. Possible exposure.}
+# {6065}{}{**END-PAR**}
+{6058}{}{外部检测：}
+{6059}{}{　　火药灼伤的迹象表明那些创伤是子弹造成的。}
+{6060}{}{　　在右侧小腿上有被牙齿造成的１.２㎝的伤口，准备继}
+{6061}{}{续做狂犬病毒测试。}
+{6062}{}{　　由于干燥皮肤已经开裂，里面的组织暴露出来。}
+{6063}{}{**END-PAR**}
+{6064}{}{}
+{6065}{}{}
+# -
+# {6066}{}{Test Results:}
+# {6067}{}{    Radiation Count:  12 rads.}
+# {6068}{}{    Rabies test:      Clean.}
+# {6069}{}{    Hydrochloric Gas: Clean}
+# {6070}{}{    Chlorine Level:   .07%}
+# {6071}{}{    Sulfuric Content: .02%}
+# {6072}{}{    Phase Shifting Virus:    Clean}
+# {6073}{}{    Gamma Cyclotronic Virus: Clean}
+# {6074}{}{    Forced Evolutionary Virus II: Severe overdose}
+# {6075}{}{**END-PAR**}
+{6066}{}{检测结果：}
+{6067}{}{　　放射线指标：１２拉德斯}
+{6068}{}{　　狂犬病测试：无}
+{6069}{}{　　氯化氢气体：无}
+{6070}{}{　　　　氯水平：０．０７％}
+{6071}{}{　　硫磺的含量：０．０２％}
+{6072}{}{　　　变异病毒：无}
+{6073}{}{　　微生物病毒：无}
+{6074}{}{　　强制进化的病毒Ⅱ型：严重超标}
+{6075}{}{**END-PAR**}
+# -
+# {6076}{}{?Hypothesis}
+# {6077}{}{**END-PAR**}
+{6076}{}{假设}
+{6077}{}{**END-PAR**}
+# -
+# {6078}{}{Based on my observations, I would hypothesize that the }
+# {6079}{}{test subject has been killed in a severe fight of at }
+# {6080}{}{least two people and three animals the size of dogs.}
+# {6081}{}{What is truly astonishing is the extent of viral}
+# {6082}{}{infection in the subject. I had read once that some}
+# {6083}{}{pre-war scientists were conducting experiments with}
+# {6084}{}{such a virus, but all of the research notes were}
+# {6085}{}{destroyed.}
+# {6086}{}{**END-PAR**}
+{6078}{}{　　根据我的观察，样本是在与至少两个人类和三只犬科生物}
+{6079}{}{的激烈战斗中被杀。不过真正值得注意的是病毒在样本体内的}
+{6080}{}{感染范围和程度。我已经了解到一些战前的科学家们曾经进行}
+{6081}{}{过类似病毒的研究，但是所有的试验记录都已经被销毁了。}
+{6082}{}{**END-PAR**}
+{6083}{}{}
+{6084}{}{}
+{6085}{}{}
+{6086}{}{}
+# -
+# {6087}{}{Research into this virus has lead to many interesting }
+# {6088}{}{discoveries. The test subject has gained many of its }
+# {6089}{}{mutations from the overdose of the virus. This would }
+# {6090}{}{account for the enhanced muscle and bone structure. }
+# {6091}{}{Additionally, the recessive genes which are commonly }
+# {6092}{}{found in humans have been manipulated in such a way as }
+# {6093}{}{to bring about the best possible combination. While}
+# {6094}{}{the process by which this happens is uncertain, it does}
+# {6095}{}{have some severe side effects. Chief among them is}
+# {6096}{}{sterility.  The test subject would have been unable to}
+# {6097}{}{reproduce with any creature, whether clean or mutated.}
+# {6098}{}{Other side effects include an alteration of pigment of}
+# {6099}{}{the epidermis.  The life expectancy is increased by 10%.}
+# {6100}{}{Intellect is decreased by this strain by 30%.}
+# {6101}{}{**END-PAR**}
+{6087}{}{　　在对这种病毒进行了深入研究后发现了许多有趣的东西。}
+{6088}{}{样本体内因为过量的病毒而导致强制性进化，这进化主要表现}
+{6089}{}{为肌肉组织和骨骼结构的强化。另外人体内常见的隐形基因被}
+{6090}{}{优化重组。但是这个过程是无法预见的，这肯定会有严重的副}
+{6091}{}{作用，主要的表现是被感染者无法像其他生物那样生育下一代。}
+{6092}{}{无论是否完全感染或者出于副作用，都会使被感染者皮肤的颜}
+{6093}{}{色改变。这病毒使被感染者的平均寿命延长了１０％，但智力}
+{6094}{}{损失了，仅仅保留了原有的３０％。}
+{6095}{}{**END-PAR**}
+{6096}{}{}
+{6097}{}{}
+{6098}{}{}
+{6099}{}{}
+{6100}{}{}
+{6101}{}{}
+# -
+# {6102}{}{?Conclusions}
+# {6103}{}{**END-PAR**}
+{6102}{}{结论}
+{6103}{}{**END-PAR**}
+# -
+# {6104}{}{Based on this information, I would extrapolate that we }
+# {6105}{}{could simply outlive these mutants. However, based on}
+# {6106}{}{the fact that these mutants have a super high}
+# {6107}{}{concentration of the virus, it stands to reason that}
+# {6108}{}{there could be some place which is creating them.}
+# {6109}{}{As to where they could be, I cannot hazard a guess.}
+# {6110}{}{**END-DISK**}
+{6104}{}{　　根据这些数据我估计我们能够对抗这些变种人类，可是他}
+{6105}{}{们体内高密度的病毒表明，可能在某个地方有些人专门制造出}
+{6106}{}{这种病毒。关于他们具体的方位我不敢妄自猜测。}
+{6107}{}{**END-DISK**}
+{6108}{}{}
+{6109}{}{}
+{6110}{}{}
+
+
+# *** Brotherhood of Steel Honor Code ***
+# *** Maxson's History ***
+# {7000}{}{My father was a security guard at a secret military base}
+# {7001}{}{in the desert of southern California. A typical MP, I}
+# {7002}{}{remember mostly his strength.  When it came time for}
+# {7003}{}{the revolution, I respected his convictions. He stayed}
+# {7004}{}{behind, to help those who were disabled and wounded,}
+# {7005}{}{even the scis. He put the well being of myself and my}
+# {7006}{}{mother into the hands of his best friend, and ordered}
+# {7007}{}{us into the desert with the other rebels.}
+# {7008}{}{**END-PAR**}
+{7000}{}{　　我父亲在一座位于南加州沙漠中的秘密军事基地里当保安}
+{7001}{}{警卫，一位典型的宪兵。我对他的记忆十分深刻。对于革命，}
+{7002}{}{我支持他的信念。他留在后面照顾那些受伤的人们，甚至是依}
+{7003}{}{斯。他把我和妈妈托付给他一个最好的朋友照顾，并命令我们}
+{7004}{}{和其他革命者一起撤退到沙漠深处。}
+{7005}{}{**END-PAR**}
+{7006}{}{}
+{7007}{}{}
+{7008}{}{}
+# -
+# {7009}{}{We, very few, marched into the wastes. The only thought}
+# {7010}{}{on my mind was that I would never see my father again.}
+# {7011}{}{He knew that to stay behind was death. And still, he}
+# {7012}{}{stayed. He respected the flag, the CIC and the badge}
+# {7013}{}{that he wore.}
+# {7014}{}{**END-PAR**}
+{7009}{}{　　我们剩下很少的一部分人还继续在废土上行进着。在我脑}
+{7010}{}{海中只有一个念头，我永远都不能再见到我的父亲了。他明知}
+{7011}{}{道留在后面会死，但他还是留在那里。他敬重革命的旗帜、敬}
+{7012}{}{重他们的指挥官、敬重自己所佩戴的徽章。}
+{7013}{}{**END-PAR**}
+{7014}{}{}
+# -
+# {7015}{}{What an idiot.}
+# {7016}{}{**END-PAR**}
+{7015}{}{那太傻了}
+{7016}{}{**END-PAR**}
+# -
+# {7017}{}{He died for the sins of others. That will never happen}
+# {7018}{}{again to us. We will become self-sufficient. We will}
+# {7019}{}{become keepers of knowledge and lore. We will survive}
+# {7020}{}{the end of civilization. We will take responsibility}
+# {7021}{}{for our actions, and we will hold accountable the}
+# {7022}{}{actions of others.}
+# {7023}{}{**END-PAR**}
+{7017}{}{　　他为了别人的罪孽而死，这永远不会发生在我们身上，我}
+{7018}{}{们要自力更生。我们会发展和掌控科技，让我们在这个已经结}
+{7019}{}{束的文明中生存下去，我们将会担任起这个责任。同时我们会}
+{7020}{}{维护这个秩序，对他人的行为负责。}
+{7021}{}{**END-PAR**}
+{7022}{}{}
+{7023}{}{}
+# -
+# {7024}{}{This I pledge to you, Maxson, my son. The Brotherhood}
+# {7025}{}{of Steel is justly named. We are a Brotherhood. Unlike}
+# {7026}{}{my father, we will stand back to back with those that}
+# {7027}{}{share our convictions and beliefs. We are Steel. We are}
+# {7028}{}{hard. We have been sharpened to and edge.}
+# {7029}{}{**END-PAR**}
+{7024}{}{　　在这里，我马克松对你以及圣子宣誓，钢铁兄弟会正式成}
+{7025}{}{立，我们是一个兄弟会。不同于我的父亲，我们完全可以相互}
+{7026}{}{信任并共同维护我们的信念。我们是钢铁，我们是牢不可破的，}
+{7027}{}{我们是锋利的宝剑。}
+{7028}{}{**END-PAR**}
+{7029}{}{}
+# -
+# {7030}{}{Always remember the fires that we were forged in.}
+# {7031}{}{Never forget. }
+# {7032}{}{The motto from a previous time, and our motto now.}
+# {7033}{}{**END-DISK**}
+{7030}{}{永远记得是烈火锻造了我们。永远不要忘记。}
+{7031}{}{这前人的格言，是我们现在的座右铭。}
+{7032}{}{**END-DISK**}
+{7033}{}{}
+
+
+# *** Mutant disk ***
+# {8000}{}{Message sent: Base, this is Scavenger Team two come in.}
+# {8001}{}{Over.}
+# {8002}{}{**END-PAR**}
+{8000}{}{讯息发送：基地，这里是清道夫二队，呼叫请回答。完毕。}
+{8001}{}{**END-PAR**}
+{8002}{}{}
+# -
+# {8003}{}{Message received: We're reading you loud an clear, go}
+# {8004}{}{ahead. Over.}
+# {8005}{}{**END-PAR**}
+{8003}{}{讯息接收：我们收到你的信号，很清楚，继续报告。完毕。}
+{8004}{}{**END-PAR**}
+{8005}{}{}
+# -
+# {8006}{}{Message sent: We've collected four males, two females,}
+# {8007}{}{and their supplies from the caravan. They're not too }
+# {8008}{}{badly contaminated. Tell the Lieutenent that we're }
+# {8009}{}{sending them ahead, they might be able to survive the}
+# {8010}{}{process. We're going to wait here for a few more days}
+# {8011}{}{ to try and intercept another caravan. Over.}
+# {8011}{}{**END-PAR**}
+{8006}{}{讯息发送：我们拦截了一支商队，俘虏了四名男性、两名女性}
+{8007}{}{并缴获了他们的货物。告诉中尉已经派人运他们回基地了，他}
+{8008}{}{们受辐射污染较轻，运送中应该可以存活下来。我们会在这逗}
+{8009}{}{留几天，看能否拦截到另一支商队。完毕。}
+{8010}{}{**END-PAR**}
+{8011}{}{}
+# -
+# {8012}{}{Message received: Roger that.  Were any casulties }
+# {8013}{}{accrued during the acquisition? Over.}
+# {8014}{}{**END-PAR**}
+{8012}{}{讯息接收：收到。捕获行动中伤亡状况如何？完毕。}
+{8013}{}{**END-PAR**}
+{8014}{}{}
+# -
+# {8015}{}{Message sent: Negative. Another clean sweep. Base, also}
+# {8016}{}{tell Scavenger Team one that we've run across the same}
+# {8017}{}{problem they had. One of our scouts did not return from}
+# {8018}{}{his perimeter patrol. A few of our other scouts reported}
+# {8019}{}{that there was something big and fast seen near our}
+# {8020}{}{camp last night.  I'll be checking it out personally }
+# {8021}{}{at 0600 hours tomorrow morning. Over.}
+# {8022}{}{**END-PAR**}
+{8015}{}{讯息发送：伤亡为零。又一次干净的扫荡。基地，告诉清道夫}
+{8016}{}{一队，我们也遇到和他们一样的问题，我们一个侦察兵在巡逻}
+{8017}{}{任务中失踪，而其他的一些侦察兵报告说昨天晚上有某种巨大}
+{8018}{}{的物体迅速经过我们营地附近。我会在明天的０６００时亲自}
+{8019}{}{调查这件事。完毕。}
+{8020}{}{**END-PAR**}
+{8021}{}{}
+{8022}{}{}
+# -
+# {8023}{}{Message received: Copy. We'll be awaiting your report.}
+# {8024}{}{If possible, try to capture it.  The Master would be}
+# {8025}{}{very pleased. Over.}
+# {8026}{}{**END-DISK**}
+{8023}{}{讯息接收：明白。我们会继续等待你的报告，如果可能的话，}
+{8024}{}{试着捕获它，主教会很高兴的。完毕。}
+{8025}{}{**END-DISK**}
+{8026}{}{}
+
+
+# *** Military Base Disk***
+# {9000}{}{?Oct 10, 2077}
+# {9001}{}{I, Roger Maxson, Captain, serial number 072389 have}
+# {9002}{}{started this log because it doesn't look good for any of}
+# {9003}{}{us, and I'd like for people to know what really happened}
+# {9004}{}{here. }
+# {9005}{}{**END-PAR**}
+{9000}{}{２０７７年１０月１０日}
+{9001}{}{　　我，罗杰·马克松，将军。因为目前的情况对我们不利，}
+{9002}{}{我使用０７２３８９号日志做下这些记录，主要是希望让人}
+{9003}{}{们知道这里发生的事实。}
+{9004}{}{**END-PAR**}
+{9005}{}{}
+# -
+# {9006}{}{All hell broke loose when we finally discovered what}
+# {9007}{}{those scientist bastards were up to. The Colonel has}
+# {9008}{}{locked himself in his office and seems to be having}
+# {9009}{}{some sort of breakdown. The men are screaming for blood.}
+# {9010}{}{They're looking to me for answers, and I'm not sure}
+# {9011}{}{what to do. Someone has to do something, though, before}
+# {9012}{}{this place sinks into an anarchistic bloodbath.}
+# {9013}{}{**END-PAR**}
+{9006}{}{　　所有的人都疯狂了起来。我们最后终于知道了那些天杀的}
+{9007}{}{科学家们在研究些什么。上校把自己锁在办公室里，他似乎要}
+{9008}{}{崩溃了。人们对那些血感到震惊，他们期待我给出一个答案，}
+{9009}{}{而我不知道该怎么办。在这地方陷入一场混乱的大屠杀之前，}
+{9010}{}{必须有人站出来做些什么了。}
+{9011}{}{**END-PAR**}
+{9012}{}{}
+{9013}{}{}
+# -
+# {9014}{}{?Oct. 12 2077}
+# {9015}{}{Every time we get a report from higher up things get}
+# {9016}{}{worse here. The war is going in a very bad direction and}
+# {9017}{}{this place is about to go into full mutiny, with all the}
+# {9018}{}{chaos it brings. I stopped one of the men from executing}
+# {9019}{}{a scientist today, and demanded that we interrogate}
+# {9020}{}{them to find out what their orders were.}
+# {9021}{}{**END-PAR**}
+{9014}{}{２０７７年１０月１２日}
+{9015}{}{　　每一次我们得到的报告结果都会更糟糕，战斗形式正在继}
+{9016}{}{续恶化，并且伴随着所有的混乱这里就快完全造反了。今天我}
+{9017}{}{阻止了一个人去处决一名科学家，并要求审讯那些科学家，以}
+{9018}{}{搞清楚他们所接受的命令是什么。}
+{9019}{}{**END-PAR**}
+{9020}{}{}
+{9021}{}{}
+# -
+# {9022}{}{?Oct.13 2077 }
+# {9023}{}{I killed a man today. I was interrogating Chief}
+# {9024}{}{Scientist Anderson and he was giving me the full details}
+# {9025}{}{of their inhuman experiments. He said his orders came}
+# {9026}{}{from the government, but I didn't buy it. He started}
+# {9027}{}{screaming about how he was following orders, how he was}
+# {9028}{}{a military man, and I just shot him. I tell myself it}
+# {9029}{}{was to keep him from causing a full mutiny among the}
+# {9030}{}{men, but I'm not so sure.}
+# {9031}{}{**END-PAR**}
+{9022}{}{２０７７年１０月１３日}
+{9023}{}{　　我今天杀了一个人。我审问了主要的科学家安德逊，并且}
+{9024}{}{他交代了全部关于他们那些毫无人性的试验细节。他还说这些}
+{9025}{}{命令是来自政府的，但是我没有饶恕他。他开始尖叫着说什么}
+{9026}{}{他只是一名军人，只是按命令行事。我向他开了枪。我告诉自}
+{9027}{}{己，这样做可以阻止由他而起的大规模骚乱，不过我不能确定。}
+{9028}{}{**END-PAR**}
+{9029}{}{}
+{9030}{}{}
+{9031}{}{}
+# -
+# {9032}{}{?Oct.15 2077}
+# {9033}{}{I tried again to speak to the colonel through the door, }
+# {9034}{}{but he seems to have completely lost touch with reality.}
+# {9035}{}{I broke down the door with several of the men just in }
+# {9036}{}{time to watch him blow his head off. Right before he }
+# {9037}{}{pulled the trigger he said he was sorry.}
+# {9038}{}{**END-PAR**}
+{9032}{}{２０７７年１０月１５日}
+{9033}{}{　　我隔着门和上校对话，但他好像完全没有听到一样，我和}
+{9034}{}{一些人破门而入时，刚好看到他把自己的头打碎。在他扣动扳}
+{9035}{}{机之前，他嘴里不停的说他很抱歉。}
+{9036}{}{**END-PAR**}
+{9037}{}{}
+{9038}{}{}
+# -
+# {9039}{}{?Oct. 18 2077}
+# {9040}{}{By killing the egghead, I seem to have confirmed my }
+# {9041}{}{position as leader of the men. They follow me without }
+# {9042}{}{question now. The interrogations invariably end up being}
+# {9043}{}{executions. Shellman held out the longest, but the end }
+# {9044}{}{result was the same. Her arguments about orders were}
+# {9045}{}{a bit too specific to be completely made up. I'm getting}
+# {9046}{}{a real bad feeling in my gut about how this is all going}
+# {9047}{}{to end up. I don't even lie to myself anymore about my }
+# {9048}{}{reasons for executing the scientists.}
+# {9049}{}{**END-PAR**}
+{9039}{}{２０７７年１０月１８日}
+{9040}{}{　　因为杀了那个科学家，我似乎已经成为大家的领袖，他们}
+{9041}{}{现在自愿的跟随我。审讯结果没什么变化，最后都会被处决。}
+{9042}{}{只有希曼耗费的时间最长，不过最后还是死了。他交代的那些}
+{9043}{}{命令十分详细，不像是捏造的。想到这一切我就觉得恶心。我}
+{9044}{}{再也不用为处决那些败类找什么理由了。}
+{9045}{}{**END-PAR**}
+{9046}{}{}
+{9047}{}{}
+{9048}{}{}
+{9049}{}{}
+# -
+# {9050}{}{?Oct.20 2077}
+# {9051}{}{I finally replied to the outside world over our radio.}
+# {9052}{}{I don't know why they never sent anyone here to see}
+# {9053}{}{what was happening when we stopped responding to their}
+# {9054}{}{transmissions. It doesn't make any sense. Well, they'll}
+# {9055}{}{come now. I declared ourselves seceded from the union.}
+# {9056}{}{Jefferson Davis, eat your heart out.}
+# {9057}{}{**END-PAR**}
+{9050}{}{２０７７年１０月２０日}
+{9051}{}{　　我最后一次在无线电上回复了外面世界的通讯。我不明白}
+{9052}{}{当我们和他们的通讯中断时，他们为什么不派一队人来这里调}
+{9053}{}{查一下原因，这不合常规。那么，他们现在却又要来了，我已}
+{9054}{}{经宣布我们脱离了联邦，杰佛逊·戴维斯，你后悔去吧。}
+{9055}{}{**END-PAR**}
+{9056}{}{}
+{9057}{}{}
+# -
+# {9058}{}{?Oct.22 2077}
+# {9059}{}{What the hell is going on? We declare ourselves to be in}
+# {9060}{}{full desertion from the army and no longer under the}
+# {9061}{}{Government's command and what happens? Nothing.}
+# {9062}{}{Something bad is coming down.}
+# {9063}{}{**END-PAR**}
+{9058}{}{２０７７年１０月２２日}
+{9059}{}{　　这他妈的是怎么回事？我们宣布自己已经完全被军队放弃}
+{9060}{}{了。在不接受政府命令的情况下会发生什么呢？什么也没有发}
+{9061}{}{生。但我却有种不好的预感。}
+{9062}{}{**END-PAR**}
+{9063}{}{}
+# -
+# {9064}{}{?Oct. 23 2077}
+# {9065}{}{I can't believe those bastards finally did it. Damn them}
+# {9066}{}{all to hell. They finally let the A-bombs fly. We were }
+# {9067}{}{right in the middle of trying to pry the real story out }
+# {9068}{}{of von Felden when we completely lost contact.  I have a }
+# {9069}{}{feeling the research center was hit hard. I don't know }
+# {9070}{}{why, just call it a gut feeling. It seems inconceivable }
+# {9071}{}{that we were not targeted. I'm sure China will make up }
+# {9072}{}{for that oversight real soon. Luckily, we had moved our }
+# {9073}{}{families from outside into the facility the day before }
+# {9074}{}{yesterday. We do not yet know if the fallout has reached }
+# {9075}{}{this area.}
+# {9076}{}{**END-PAR**}
+{9064}{}{２０７７年１０月２３日}
+{9065}{}{　　我不敢相信那些混蛋最终还是那样做了，该死的他们都该}
+{9066}{}{下地狱。他们最后还是发射了核弹。在我们完全失去外界联络}
+{9067}{}{时，我有一个感觉，这研究中心一定会是一个攻击目标，我不}
+{9068}{}{知道为什么总有这感觉。不可思议的是我们竟然没有被攻击，}
+{9069}{}{我想中国很快会发现这个遗漏的。幸运的是我们前天把亲人从}
+{9070}{}{外面迁移到设施里。不知道现在辐射是否已经到达这个地区。}
+{9071}{}{**END-PAR**}
+{9072}{}{}
+{9073}{}{}
+{9074}{}{}
+{9075}{}{}
+{9076}{}{}
+# -
+# {9077}{}{?Oct. 25 2077}
+# {9078}{}{Sgt. Platner volunteered to go outside today to take }
+# {9079}{}{specific readings on the atmosphere. It seems the }
+# {9080}{}{radiation has not spread this far. Since he was wearing }
+# {9081}{}{his power armor, there was no threat to him from }
+# {9082}{}{radiation, but if he had been exposed he would have had }
+# {9083}{}{to be exiled. We don't have adequate decontamination }
+# {9084}{}{facilities here.}
+# {9085}{}{**END-PAR**}
+{9077}{}{２０７７年１０月２５日}
+{9078}{}{　　潘德尔中士自愿到外面去探测辐射程度。似乎辐射到目前}
+{9079}{}{为止还还没传到这么远。他出去时穿着动力装甲，辐射没有伤}
+{9080}{}{害到他。但是如果他被辐射了，我们必须放逐他，因为我们没}
+{9081}{}{有合适的净化设备。}
+{9082}{}{**END-PAR**}
+{9083}{}{}
+{9084}{}{}
+{9085}{}{}
+# -
+# {9086}{}{?Oct. 26 2077}
+# {9087}{}{I convinced the men that we should bury the scientists. }
+# {9088}{}{I don't know why... perhaps it was to ease my conscience.}
+# {9089}{}{I finally started to believe their stories when the last }
+# {9090}{}{one was dying.  }
+# {9091}{}{**END-PAR**}
+{9086}{}{２０７７年１０月２６日}
+{9087}{}{　　我说服人们，我们必须埋葬那些科学家，我也不知道为什}
+{9088}{}{么……也许这样能让我心安一点吧。在他们当中的最后一个人}
+{9089}{}{死去的时候，我开始相信他们说的事了。}
+{9090}{}{**END-PAR**}
+{9091}{}{}
+# -
+# {9092}{}{My God, what have I become? }
+# {9093}{}{**END-PAR**}
+{9092}{}{我的上帝啊！我变成了什么？}
+{9093}{}{**END-PAR**}
+# -
+# {9094}{}{?Oct. 27 2077}
+# {9095}{}{We're leaving this godforsaken place today. I'm leading }
+# {9096}{}{the exodus to the old government bunker at Lost Hills. }
+# {9097}{}{I'm leaving this log behind to be buried when this place}
+# {9098}{}{goes in the next exchange. Who knows, maybe someone}
+# {9099}{}{will find it someday.....}
+# {9100}{}{**END-DISK**}
+{9094}{}{２０７７年１０月２７日}
+{9095}{}{　　今天我们离开了这个被上帝遗弃的地方。我准备带领大家}
+{9096}{}{移居到被政府遗弃的旧希尔地下基地中。我留下了这本日志一}
+{9097}{}{起埋葬在这个地方，如果这里再次被人发现。谁知道呢，也许}
+{9098}{}{有一天谁会再次找到这里……}
+{9099}{}{**END-DISK**}
+{9100}{}{}
+
+# *** Sophia Disk ***
+# {10000}{}{The Exodus from the accursed base was a trying time for}
+# {10001}{}{the men and their families. While there was no }
+# {10002}{}{radioactive fallout to contend with, they were }
+# {10003}{}{frequently beset by the fallout of humanity. Roving }
+# {10004}{}{bands of psychotic marauders attempted several attacks }
+# {10005}{}{on that noble group. }
+# {10006}{}{**END-PAR**}
+{10000}{}{　　离开那被诅咒的基地对人们和家属们是个伤心的时刻。尽}
+{10001}{}{管不需要担心辐射尘的威胁，他们还是经常被人性所折磨。那}
+{10002}{}{些到处游荡的精神病强盗部落几次试图攻击正常人群体。}
+{10003}{}{**END-PAR**}
+{10004}{}{}
+{10005}{}{}
+{10006}{}{}
+# -
+# {10007}{}{The company itself was in no danger, for they wore the }
+# {10008}{}{Armor of Power. Members of their families were not so }
+# {10009}{}{lucky. Once the vermin found out they were easily }
+# {10010}{}{repelled, they began to fire on the unarmed civilians }
+# {10011}{}{from a distance. }
+# {10012}{}{**END-PAR**}
+{10007}{}{　　这些军人是安全的，因为他们穿着动力装甲，但是他们的}
+{10008}{}{家属就没那么幸运了。一旦那些歹徒发现了这些人是很好对付}
+{10009}{}{的，他们就会从很远的距离向这些手无寸铁的平民射击。}
+{10010}{}{**END-PAR**}
+{10011}{}{}
+{10012}{}{}
+# -
+# {10013}{}{They took a great many casualties, yet for every member}
+# {10014}{}{of the Exodus that was struck down in this way, our }
+# {10015}{}{noble brethren took two lives from the wasteland.}
+# {10016}{}{**END-PAR**}
+{10013}{}{　　他们遭遇到很多意外，大批的人在一次次的攻击中倒了下}
+{10014}{}{去。我们的贵族兄弟在荒野中挽救了两条生命。}
+{10015}{}{**END-PAR**}
+{10016}{}{}
+# -
+# {10017}{}{Finally, the forefathers came to the safety of the }
+# {10018}{}{bunker. Capt. Maxson, the great deliverer, decreed this}
+# {10019}{}{to be our new home, and all was well.}
+# {10020}{}{**END-PAR**}
+{10017}{}{　　最后，祖先终于安全到达了政府的旧基地。马克松上尉，}
+{10018}{}{伟大的领导者宣布，这里是我们的新家，并且一切良好。}
+{10019}{}{**END-PAR**}
+{10020}{}{}
+# -
+# {10021}{}{In the fullness of time the bunker became our home, our}
+# {10022}{}{temple and our salvation from the terrors of the outside}
+# {10023}{}{world. We began to build and shape our fortress into }
+# {10024}{}{something glorious, the beauty of which the }
+# {10025}{}{technologically bereft world had never seen before.}
+# {10026}{}{**END-PAR**}
+{10021}{}{　　在所有的时间里，我们把基地变成了我们的家。我们在这}
+{10022}{}{恐怖的时期援助外面的世界，我们建立自己的要塞，我们为之}
+{10023}{}{感到自豪，为之感到光荣。最伟大的是我们的那些科技，那是}
+{10024}{}{外面世界无法得知的。}
+{10025}{}{**END-PAR**}
+{10026}{}{}
+# -
+# {10027}{}{Yet there were those who sought still more. These }
+# {10028}{}{restless souls demanded we look to the southeast for }
+# {10029}{}{the advanced technology that was supposedly housed }
+# {10030}{}{there.}
+# {10031}{}{**END-PAR**}
+{10027}{}{　　然而有很多人仍在寻找着。这种永无休止的求知欲望，让}
+{10028}{}{人们更加期待着那些埋葬的东南方废墟里的先进科技。}
+{10029}{}{**END-PAR**}
+{10030}{}{}
+{10031}{}{}
+# -
+# {10032}{}{Capt. Maxson warned these impetuous youths that the}
+# {10033}{}{research facility was doubtlessly destroyed when we}
+# {10034}{}{were spared, but they would not hear his words. They}
+# {10035}{}{took their sanctified armor and headed off to find their}
+# {10036}{}{Holy Grail, but not before they spoke the Deliverer's}
+# {10037}{}{name in vain, questioning his very bravery!}
+# {10038}{}{**END-PAR**}
+{10032}{}{　　马克松上尉警告这些冲动的年轻人，那个研究设施在我们}
+{10033}{}{离开后已经被完全损毁了，但是人们不听他的劝告。马克松拿}
+{10034}{}{走了那些人的神圣盔甲以阻止他们继续寻找那些目标。人们大}
+{10035}{}{胆的提出了置疑，但那些都是徒劳的。}
+{10036}{}{}
+{10037}{}{**END-PAR**}
+{10038}{}{}
+# -
+# {10039}{}{These men were never heard from again.}
+# {10040}{}{**END-DISK**}
+{10039}{}{　　再也没有听到那些人的消息。}
+{10040}{}{**END-DISK**}
+
+# *** Maxson Disk ***
+# {11000}{}{By my orders, as active commanding officer following}
+# {11001}{}{the untimely death of Colonel Robert Spindel during}
+# {11002}{}{this time of crisis, the full base security team has}
+# {11003}{}{been deployed to the security bunker at Lost Hill.}
+# {11004}{}{**END-PAR**}
+{11000}{}{　　由于指挥官忠实的追随者罗伯特·斯匹徳在这次危机中非}
+{11001}{}{正常死亡。根据我的命令，基地保安队在这地下基地展开了全}
+{11002}{}{面的安全保安措施。}
+{11003}{}{**END-PAR**}
+{11004}{}{}
+# -
+# {11005}{}{This directive also includes the families of the}
+# {11006}{}{officers and enlisted men.}
+# {11007}{}{**END-PAR**}
+{11005}{}{　　这命令也包扩着官员的家属和新应征入伍人员。}
+{11006}{}{**END-PAR**}
+{11007}{}{}
+# -
+# {11008}{}{Unless otherwise directed, from a proper }
+# {11009}{}{representative of the War Department, this order }
+# {11010}{}{will stand as written.}
+# {11011}{}{**END-PAR**}
+{11008}{}{　　除非是一个陆军部重要官员亲自下令，否则这命令必须是}
+{11009}{}{书面的。}
+{11010}{}{**END-PAR**}
+{11011}{}{}
+# -
+# {11012}{}{Operative 1: All military personnel, and their }
+# {11013}{}{families, are to vacate the base by 0800, 25 Oct 2077.}
+# {11014}{}{All personnel, travelling under command, will make }
+# {11015}{}{their way to Lost Hill base. No leave has been granted.}
+# {11016}{}{**END-PAR**}
+{11012}{}{制度１：所有军事基地的成员以及他们的家属，于２０７７年}
+{11013}{}{１０月２５日０８００时全部离开基地。在命令下进行迁移，}
+{11014}{}{希望大家都能够到达遗弃的希尔基地，没有人可以留下。}
+{11015}{}{**END-PAR**}
+{11016}{}{}
+# -
+# {11017}{}{Operative 2: All civilian personnel are directed to }
+# {11018}{}{remain at base, pending orders from their legal command}
+# {11019}{}{structure.}
+# {11020}{}{**END-PAR**}
+{11017}{}{制度２：在这个合法命令下，全部平民必须放弃基地。}
+{11018}{}{**END-PAR**}
+{11019}{}{}
+{11020}{}{}
+# -
+# {11021}{}{Operative 3: Equipment deemed necessary to the survival}
+# {11022}{}{of base military personnel is to be immediately drawn }
+# {11023}{}{from stores. Proper authorization will follow, time }
+# {11024}{}{permitting.}
+# {11025}{}{**END-PAR**}
+{11021}{}{制度３：维生装备必须由基地军事人员直接从库房提取。并且}
+{11022}{}{需要适当的授权和一些时间上的限制。}
+{11023}{}{**END-PAR**}
+{11024}{}{}
+{11025}{}{}
+# -
+# {11026}{}{Operative 4: All codes of military justice will be }
+# {11027}{}{harsly enforced, on military personnel and civilian }
+# {11028}{}{personnel in joint military operations.}
+# {11029}{}{**END-PAR**}
+{11026}{}{制度４：所有的军事制度由军队执法官哈斯利执行，对于军事}
+{11027}{}{人员和非军事人员同样有效。}
+{11028}{}{**END-PAR**}
+{11029}{}{}
+# -
+# {11030}{}{Operative 5: Until such time as consistant and }
+# {11031}{}{authorized communication can be established with the }
+# {11032}{}{War Department, these orders will have precendence over}
+# {11033}{}{any previously established orders.}
+# {11034}{}{**END-PAR**}
+{11030}{}{制度５：只有确保在时间上的完全一致，才能被准许授权和国}
+{11031}{}{防部建立通信联系，本次命令和以往的命令相比，具有绝对的}
+{11032}{}{优先权。}
+{11033}{}{**END-PAR**}
+{11034}{}{}
+# -
+# {11035}{}{Captain Maxson}
+# {11036}{}{24 Oct 2077}
+# {11037}{}{**END-DISK**}
+{11035}{}{马克松上尉。}
+{11036}{}{２０７７年１０月２４日}
+{11037}{}{**END-DISK**}
+
+# *** Richard Grey audio diary ***
+# {12000}{}{　　　　　　　　　　　　    0000 - 0004}
+# {12001}{}{I'm dying. I need to get this down before the pain}
+# {12002}{}{overwhelms me.}
+# {12003}{}{**END-PAR**}
+{12000}{}{　　　　　　　　　　　　　　　　　　００００－０００４}
+{12001}{}{　　我快要死了。在被痛苦淹没之前我要做完这个。}
+{12002}{}{**END-PAR**}
+{12003}{}{}
+# -
+# {12004}{}{　　　　　　　　　　　　    0005 - 0020}
+# {12005}{}{I can't believe that I was finally able to drag myself}
+# {12006}{}{out of that vat. The slime did not affect me, but I}
+# {12007}{}{nearly drowned. I don't know what happened to Harold-}
+# {12008}{}{he was standing right next to me when the crane}
+# {12009}{}{knocked me into the vat. He must have been killed or}
+# {12010}{}{he would have tried to help me. Francine is dead, killed}
+# {12011}{}{by one of those robots.}
+# {12012}{}{**END-PAR**}
+{12004}{}{　　　　　　　　　　　　　　　　　　０００５－００２０}
+{12005}{}{　　我不相信最后我竟然能逃出病毒槽，粘液不能伤害到我，}
+{12006}{}{但是艾洛依淹死了。我不知道哈罗徳怎么了，在吊臂把我放入}
+{12007}{}{病毒槽时他就在我身边。我想他已经死了或曾经想过要救我。}
+{12008}{}{弗朗辛被那些机器人之一杀害了。}
+{12009}{}{**END-PAR**}
+{12010}{}{}
+{12011}{}{}
+{12012}{}{}
+# -
+# {12013}{}{　　　　　　　　　　　　    0021 - 0027}
+# {12014}{}{I have no idea how much time has passed. I was able to}
+# {12015}{}{hack the computer to turn off the robots and record}
+# {12016}{}{this, but now my mind is slipping away.}
+# {12017}{}{There is much pain...}
+# {12018}{}{**END-PAR**}
+{12013}{}{　　　　　　　　　　　　　　　　　　００２１－００２７}
+{12014}{}{　　我不知道用了多少时间才关闭了机器人控制电脑，并记录}
+{12015}{}{了这些，但现在我只想着怎么逃跑。那是非常痛苦的……}
+{12016}{}{**END-PAR**}
+{12017}{}{}
+{12018}{}{}
+# -
+# {12019}{}{　　　　　　　　　　　　    0028 - 0043}
+# {12020}{}{The green slime that I was immersed in is the source}
+# {12021}{}{of all the mutations we traced to here. My skin is}
+# {12022}{}{to fester and peel. In other areas it is bubbling and}
+# {12023}{}{starting expelling a green mucus-like substance. Some}
+# {12024}{}{days the pain is almost tolerable.}
+# {12025}{}{**END-PAR**}
+{12019}{}{　　　　　　　　　　　　　　　　　　００２８－００４３}
+{12020}{}{　　那些绿色的粘液让我的身体产生了变化。我的皮肤开始溃}
+{12021}{}{烂并且脱落，其他部位的皮肤开始起泡并渗透出像那些粘液一}
+{12022}{}{样的绿色分泌物。这样的痛苦还能够忍受几天吧。}
+{12023}{}{**END-PAR**}
+{12024}{}{}
+{12025}{}{}
+# -
+# {12026}{}{　　　　　　　　　　　　    0044 - 0057}
+# {12027}{}{I can actually walk a few steps again... It seems}
+# {12028}{}{inconceivable that I dragged myself all the way up here}
+# {12029}{}{from the vat room. Strangely, I'm actually feeling}
+# {12030}{}{stronger, though I'm still in a lot of pain. Everything}
+# {12031}{}{seems to be getting smaller.}
+# {12032}{}{**END-PAR**}
+{12026}{}{　　　　　　　　　　　　　　　　　　００４４－００５７}
+{12027}{}{　　实际上我能再前进几步……我没法想象我我是怎么把自己}
+{12028}{}{弄出病毒槽的。奇怪的是，我感觉到自己变的更有力量了，虽}
+{12029}{}{然我身上还有许多伤痛，但是那对我的影响已经轻多了。}
+{12030}{}{**END-PAR**}
+{12031}{}{}
+{12032}{}{}
+# -
+# {12033}{}{　　　　　　　　　　　　    0058 - 0096}
+# {12034}{}{I think I consumed one of the mutated things scurrying}
+# {12035}{}{around here today. Before I knew what was happening,}
+# {12036}{}{some sort of tendril had sprang from my stomach and}
+# {12037}{}{covered the poor creature. As soon as it had sucked}
+# {12038}{}{the rodent into my gut I could actually feel its mind.}
+# {12039}{}{I think. There is the very real possibility that I'm}
+# {12040}{}{going slowly insane and can no longer differentiate}
+# {12041}{}{between what is real and what is a hallucination.}
+# {12042}{}{Maybe I'm still slowly dying in the vat and I've}
+# {12043}{}{imagined all this.}
+# {12044}{}{**END-PAR**}
+{12033}{}{　　　　　　　　　　　　　　　　　　００５８－００６９}
+{12034}{}{　　我想我今天吞了一只在附近快速窜过的变种生物，在我明}
+{12035}{}{白是什么东西之前，我感觉到那可怜的生物在我的胃里跳。一}
+{12036}{}{旦把那些老鼠吃到我的胃里，我竟然能感觉到它们的思想。我}
+{12037}{}{想，我可能正在渐渐的失去理智，让我无法区别什么是现实什}
+{12038}{}{么是幻觉。又或者我根本就没逃出病毒槽，并正在那里面慢慢}
+{12039}{}{的死去，而这些都只是我幻想出来的而已。}
+{12040}{}{**END-PAR**}
+{12041}{}{}
+{12042}{}{}
+{12043}{}{}
+{12044}{}{}
+# -
+# {12045}{}{　　　　　　　　　　　　    0097 - 0111}
+# {12046}{}{Things are becoming more clear to me every day.}
+# {12047}{}{This toxin has actually improved my mind. I feel that}
+# {12048}{}{I can understand even the most complex philosophical}
+# {12049}{}{questions simply and directly. It's as if all the layers}
+# {12050}{}{of artifice have been stripped away. I wonder what}
+# {12051}{}{would happen if I submerged an animal in the vats for}
+# {12052}{}{a prolonged period of time? Would it gain awareness?}
+# {12053}{}{**END-PAR**}
+{12045}{}{　　　　　　　　　　　　　　　　　　００９７－０１１１}
+{12046}{}{　　每天我都会更清楚的了解这些事情。这种毒素事实上已经}
+{12047}{}{改进了我的思维能力。我能够简单并直接的去理解那些最难的}
+{12048}{}{哲学问题，就好像这知识的所有层面都已经被我掌握了。我很}
+{12049}{}{好奇，如果把一只低等动物放入病毒槽并延长浸泡时间会发生}
+{12050}{}{什么呢？它会产生意识吗？}
+{12051}{}{**END-PAR**}
+{12052}{}{}
+{12053}{}{}
+# -
+# {12054}{}{　　　　　　　　　　　　    0112 - 0134}
+# {12055}{}{The strangest thing is happening to the animals.}
+# {12056}{}{They actually become smarter and more aware of their}
+# {12057}{}{surroundings. I dipped a dog and a rat at the same}
+# {12058}{}{time today, and they were fused together. It's not}
+# {12059}{}{quite two creatures anymore, but it's more than one.}
+# {12060}{}{Perhaps this is the future - a coming together of}
+# {12061}{}{different creatures in some sort of harmonious unity. }
+# {12062}{}{I no longer consume the different animals I create}
+# {12063}{}{simply for sustenance - I have become the instrument}
+# {12064}{}{through which unity will be achieved. I am so much}
+# {12065}{}{more than a human being now.}
+# {12066}{}{**END-PAR**}
+{12054}{}{　　　　　　　　　　　　　　　　　　０１１２－０１３４}
+{12055}{}{　　在动物身上发生了奇怪的事，他们变的更聪明，更能够意}
+{12056}{}{识到自己的处境。今天我同时浸泡了一条狗和一只老鼠，并且}
+{12057}{}{它们融合在一起。它们不再像两个生物，但比一个生物要多些}
+{12058}{}{什么。也许这就是未来——各种不同的生物组成一个新品种的}
+{12059}{}{生物，并在一起和睦共处。除了维持生命必须的消耗以外，我}
+{12060}{}{不再浪费那些生物了。我通过那仪器实现了整合，我现在比一}
+{12061}{}{个人类要强许多。}
+{12062}{}{**END-PAR**}
+{12063}{}{}
+{12064}{}{}
+{12065}{}{}
+{12066}{}{}
+# -
+# {12067}{}{　　　　　　　　　　　　    0135 - 0139}
+# {12068}{}{It is time to bring others into the glory that is the}
+# {12069}{}{Unity.}
+# {12070}{}{**END-PAR**}
+{12067}{}{　　　　　　　　　　　　　　　　　　０１３５－０１３９}
+{12068}{}{　　现在是个的光荣时刻。那就是同一。}
+{12069}{}{**END-PAR**}
+{12070}{}{}
+# -
+# {12071}{}{　　　　　　　　　　　　    0140 - 0153}
+# {12072}{}{A lost soul has finally strayed into my home. I was so}
+# {12073}{}{surprised I consumed him before dipping, a mistake I}
+# {12074}{}{shall not make again. His mind was so primitive as to}
+# {12075}{}{be repulsive to my refined cognitive abilities.}
+# {12076}{}{**END-PAR**}
+{12071}{}{　　　　　　　　　　　　　　　　　　０１４０－０１５３}
+{12072}{}{　　一个迷路的人很不幸的来到我家里，在浸泡之前我吃掉了}
+{12073}{}{他。我很后悔，这样的错误不会再发生了。他的头脑是那么的}
+{12074}{}{原始，甚至让我超强的学习能力退化了。}
+{12075}{}{**END-PAR**}
+{12076}{}{}
+# -
+# {12077}{}{　　　　　　　　　　　　    0154 - 0172}
+# {12078}{}{I've begun to modify myself to be more pleasing to the}
+# {12079}{}{Unity by injecting small doses of the virus into my body.}
+# {12080}{}{The slime in the vats is a man-made virus called the}
+# {12081}{}{Forced Evolutionary Virus. This information was acquired}
+# {12082}{}{from my newly grown neurolink with the base computer.}
+# {12083}{}{**END-PAR**}
+{12077}{}{　　　　　　　　　　　　　　　　　　０１５４－０１７２}
+{12078}{}{　　我开始把小剂的量病毒注射到我的体内，通过这方法让我}
+{12079}{}{的整合更加完美。我学到了更多的技术，利用这些技术我在基}
+{12080}{}{地里的计算机上找到关于那些在桶内粘液的信息——人工制造}
+{12081}{}{的强制进化病毒。}
+{12082}{}{**END-PAR**}
+{12083}{}{}
+# -
+# {12084}{}{　　　　　　　　　　　　     0173 - 0198}
+# {12085}{}{The few wanderers that have found their way here have}
+# {12086}{}{been a disappointment to me. They can't seem to mutate}
+# {12087}{}{correctly. The best I've been able to create are some}
+# {12088}{}{big and dumb mutants. Most can recall nothing from}
+# {12089}{}{before I initiated them into the wondrous Unity. I only}
+# {12090}{}{feed on them for fuel, now. Their minds are nothing}
+# {12091}{}{to me.}
+# {12092}{}{**END-PAR**}
+{12084}{}{　　　　　　　　　　　　　　　　　　０１７３－０１９８}
+{12085}{}{　　少数的的流浪者能来到这里，但让我很失望，他们无法正}
+{12086}{}{确的整合而进化。我已经能制造出一些巨大但蠢笨的变种人，}
+{12087}{}{他们大部分的记忆顶多存留在我把他们整合进化的那段时间之}
+{12088}{}{后，他们的思想对我没什么用，我只是把他们当做我的食物而}
+{12089}{}{已。}
+{12090}{}{**END-PAR**}
+{12091}{}{}
+{12092}{}{}
+# -
+# {12093}{}{　　　　　　　　　　　　     0199 - 0236}
+# {12094}{}{Oh glorious creator!! I have succeeded in spreading the}
+# {12095}{}{complete joy of unification to another soul! Unlike the}
+# {12096}{}{others, his total radiation count was low. I believe this}
+# {12097}{}{is the factor we have been overlooking all this time,}
+# {12098}{}{as it seems the conversion is more successful in the}
+# {12099}{}{cases with less radiation damage. I have never known}
+# {12100}{}{such glory as I felt when taking his mind into our own.}
+# {12101}{}{**END-PAR**}
+{12093}{}{　　　　　　　　　　　　　　　　　　０１９９－０２３６}
+{12094}{}{　　哦……伟大的造物主！！我又成功整合了一个灵魂。不像}
+{12095}{}{其他的那样，他的放射线指标总是很低。我相信我们一直忽略}
+{12096}{}{了这个因素，似乎在较少的放射线下这次整合更加成功。在我}
+{12097}{}{们获得他的思想时，我从没有过这样美好的感觉。}
+{12098}{}{**END-PAR**}
+{12099}{}{}
+{12100}{}{}
+{12101}{}{}
+# -
+# {12102}{}{　　　　　　　　　　　　     0237 - 0281}
+# {12103}{}{We are beginning to create an army dedicated to}
+# {12104}{}{unifying the wonderful diversity of life. We have trained}
+# {12105}{}{them to continue our work here while we search out}
+# {12106}{}{more populated areas to take into ourselves. We are}
+# {12107}{}{beginning to feel the limitations of a body that is mobile.}
+# {12108}{}{We must find a permanent home, with a greater store of}
+# {12109}{}{knowledge, and a steady supply of bio-mass.}
+# {12110}{}{**END-PAR**}
+{12102}{}{　　　　　　　　　　　　　　　　　　０２３７－０２８１}
+{12103}{}{　　我已经开始创造一支军队来统一那些不同的生命。为了继}
+{12104}{}{续完成我们的工作，我训练他们，让他们在外面找出更多的居}
+{12105}{}{民带给我们。我已经意识到我的身体限制了我的活动能力，我}
+{12106}{}{必须找到一个科技比较先进，并能够提供稳定的生化补给的地}
+{12107}{}{方作为我们永久的家。}
+{12108}{}{**END-PAR**}
+{12109}{}{}
+{12110}{}{}
+# -
+# {12111}{}{　　　　　　　　　　　　     0282 - 0303}
+# {12112}{}{We have stopped increasing ourself until we can find this}
+# {12113}{}{new unification center. When we have arrived we will}
+# {12114}{}{continue to grow and feed until we have brought peace}
+# {12115}{}{and unity to the entire world.}
+# {12116}{}{**END-DISK**}
+{12111}{}{　　　　　　　　　　　　　　　　　　０２８２－０３０３}
+{12112}{}{　　我们停止了自身的增长。直到我们找到一个新整合中心。}
+{12113}{}{当我们找到新的地方后，我们会继续进食和生长，直到我们实}
+{12114}{}{现和平并统一整个世界。}
+{12115}{}{**END-DISK**}
+{12116}{}{}
+
+# *** Captain Maxson's Diary ***
+# {13000}{}{?Oct 10, 2077}
+# {13001}{}{I, Roger Maxson, Captain, serial number 072389 have}
+# {13002}{}{started this log because it doesn't look good for any}
+# {13003}{}{of us, and I'd like for people to know what really}
+# {13004}{}{happened here. All hell broke loose when we finally}
+# {13005}{}{discovered what those scientist bastards were up to.}
+# {13006}{}{The Colonel has locked himself in his office and seems}
+# {13007}{}{to be having some sort of breakdown. The men are}
+# {13008}{}{screaming for blood. They're looking to me for answers,}
+# {13009}{}{and I'm not sure what to do. Someone has to do}
+# {13010}{}{something, though, before this place sinks into an}
+# {13011}{}{anarchistic bloodbath.}
+# {13012}{}{**END-PAR**}
+{13000}{}{２０７７年１０月１０日}
+{13001}{}{　　我，罗杰·马可松，将军。因为目前的情况对我们不利，}
+{13002}{}{我使用０７２３８９号日志做下这些记录，主要是希望让人们}
+{13003}{}{知道这里发生的事实。所有的人都疯狂了起来。我们最后终于}
+{13004}{}{知道了那些天杀的研究员们在研究些什么东西。上校把自己锁}
+{13005}{}{在办公室里，他似乎要崩溃了。人们对那些血感到震惊，他们}
+{13006}{}{期待着我给出一个答案，而我不知道该怎么办。在这个地方陷}
+{13007}{}{入一场混乱的大屠杀之前，必须有人站出来做些什么了。}
+{13008}{}{**END-PAR**}
+{13009}{}{}
+{13010}{}{}
+{13011}{}{}
+{13012}{}{}
+# -
+# {13013}{}{?Oct. 12 2077}
+# {13014}{}{Every time we get a report from higher up things get}
+# {13015}{}{worse here. The war is going in a very bad direction}
+# {13016}{}{and this place is about to go into full mutiny, with all}
+# {13017}{}{the chaos that entails. I stopped one of the men from}
+# {13018}{}{executing a scientist today, and demanded that we}
+# {13019}{}{interrogate them to find out what their orders were.}
+# {13020}{}{**END-PAR**}
+{13013}{}{２０７７年１０月１２日}
+{13014}{}{　　每一次我们得到的报告结果都会更糟糕，战斗形式正在继}
+{13015}{}{续恶化，并且伴随着所有的混乱这里就快完全造反了。今天我}
+{13016}{}{阻止了一个人去处决一名科学家，并要求审讯那些科学家，以}
+{13017}{}{搞清楚他们所接受的命令是什么。}
+{13018}{}{**END-PAR**}
+{13019}{}{}
+{13020}{}{}
+# -
+# {13021}{}{?Oct.13 2077}
+# {13022}{}{I killed a man today. I was interrogating  chief scientist}
+# {13023}{}{Anderson  and he was giving me the full details of their}
+# {13024}{}{inhuman experiments. He said his orders came from the}
+# {13025}{}{Gov't., but I didn't buy it. He started screaming about}
+# {13026}{}{how he was following orders, how he was a military man,}
+# {13027}{}{and I just shot him. I tell myself it was to keep him from}
+# {13028}{}{causing a full mutiny among the men, but I'm not so sure.}
+# {13029}{}{**END-PAR**}
+{13021}{}{２０７７年１０月１３日}
+{13022}{}{　　我今天杀了一个人。我审问了主要的科学家安德逊，并且}
+{13023}{}{他交代了全部关于他们那些毫无人性的试验细节。他还说这些}
+{13024}{}{命令是来自政府的，但是我没有饶恕他。他开始尖叫着说什么}
+{13025}{}{他只是一名军人，只是按命令行事。我向他开了枪。我告诉自}
+{13026}{}{己，这样做可以阻止由他而起的大规模骚乱，不过我不能确定。}
+{13027}{}{**END-PAR**}
+{13028}{}{}
+{13029}{}{}
+# -
+# {13030}{}{?Oct.15 2077}
+# {13031}{}{I tried again to speak to the colonel through the door,}
+# {13032}{}{but he seems to have completely lost touch with reality.}
+# {13033}{}{I broke down the door with several of the men just in}
+# {13034}{}{time to watch him blow his head off. Right before he}
+# {13035}{}{pulled the trigger he said he was sorry.}
+# {13036}{}{**END-PAR**}
+{13030}{}{２０７７年１０月１５日}
+{13031}{}{　　我隔着门和上校对话，但他好像完全没有听到一样，我和}
+{13032}{}{一些人破门而入时，刚好看到他把自己的头打碎。在他扣动扳}
+{13033}{}{机之前，他嘴里不停的说他很抱歉。}
+{13034}{}{**END-PAR**}
+{13035}{}{}
+{13036}{}{}
+# -
+# {13037}{}{?Oct. 18 2077}
+# {13038}{}{By killing the egghead, I seem to have confirmed my}
+# {13039}{}{position as leader of the men. They follow me without}
+# {13040}{}{question now. The interrogations invariably end up being}
+# {13041}{}{executions. Shellman held out the longest, but the end}
+# {13042}{}{result was the same.  Her arguments about her orders}
+# {13043}{}{were a bit to specific to be completely made up. I'm}
+# {13044}{}{getting a real bad feeling in my gut about how this is}
+# {13045}{}{all going to end up. I don't even lie to myself anymore}
+# {13046}{}{about my reasons for executing the scientists.}
+# {13047}{}{**END-PAR**}
+{13037}{}{２０７７年１０月１８日}
+{13038}{}{　　因为杀了那个科学家，我似乎已经成为大家的领袖，他们}
+{13039}{}{现在自愿的跟随我。审讯结果没什么变化，最后都会被处决。}
+{13040}{}{只有希曼耗费的时间最长，不过最后还是死了。他交代的那些}
+{13041}{}{命令十分详细，不像是捏造的。想到这一切我就觉得恶心。我}
+{13042}{}{再也不用为处决那些败类找什么理由了。}
+{13043}{}{**END-PAR**}
+{13044}{}{}
+{13045}{}{}
+{13046}{}{}
+{13047}{}{}
+# -
+# {13048}{}{?Oct.20 2077}
+# {13049}{}{I finally replied to the outside world over our radio.}
+# {13050}{}{I don't know why they never sent anyone here to see}
+# {13051}{}{what was happening when we stopped responding to}
+# {13052}{}{their transmissions. It doesn't make any sense.}
+# {13053}{}{Well, they'll come now. I declared ourselves seceeded}
+# {13054}{}{from the union. They remember Jefferson Davis. What}
+# {13055}{}{will history say about me?}
+# {13056}{}{**END-PAR**}
+{13048}{}{２０７７年１０月２０日}
+{13049}{}{　　我最后一次在无线电上回复了外面世界的通讯。我不明白}
+{13050}{}{当我们和他们的通讯中断时，他们为什么不派一队人来这里调}
+{13051}{}{查一下原因，这不合常规。那么，他们现在却又要来了，我已}
+{13052}{}{经宣布我们脱离了联邦，他们记得杰佛逊·戴维斯。历史又会}
+{13053}{}{怎么评价我？}
+{13054}{}{**END-PAR**}
+{13055}{}{}
+{13056}{}{}
+# -
+# {13057}{}{?Oct.22 2077}
+# {13058}{}{What the hell is going on? We declare ourselves to be}
+# {13059}{}{in full desertion from the army and no longer under the}
+# {13060}{}{Government's command and what happens? Nothing.}
+# {13061}{}{Something bad is coming down.}
+# {13062}{}{**END-PAR**}
+{13057}{}{２０７７年１０月２２日}
+{13058}{}{　　这他妈的是怎么回事？我们宣布自己已经完全被军队放弃}
+{13059}{}{了。并且在不接受政府命令的情况下会发生什么呢？什么也没}
+{13060}{}{有发生。但我却有种不好的预感。}
+{13061}{}{**END-PAR**}
+{13062}{}{}
+# -
+# {13063}{}{?Oct. 23 2077}
+# {13064}{}{I can't believe those bastards finally did it. Damn them}
+# {13065}{}{all to hell. They finally let the A-Bombs fly. We were}
+# {13066}{}{right in the middle of trying to pry the real story out}
+# {13067}{}{of von Felden when we completely lost contact.  I have}
+# {13068}{}{a feeling the research center was hit hard. I don't know}
+# {13069}{}{why, just call it a gut feeling. It seems inconceivable}
+# {13070}{}{that we were not targeted. I'm sure China will make up}
+# {13071}{}{for that oversite real soon. Luckily, we had moved our}
+# {13072}{}{families from outside into the facility the day before}
+# {13073}{}{yesterday. We do not yet know if the fallout has}
+# {13074}{}{reached this area.}
+# {13075}{}{**END-PAR**}
+{13063}{}{２０７７年１０月２３日}
+{13064}{}{　　我不敢相信那些混蛋最终还是那样做了，该死的他们都该}
+{13065}{}{下地狱。他们最后还是发射了核弹。在我们完全失去外界联络}
+{13066}{}{时，我有一个感觉，这研究中心一定会是一个攻击目标，我不}
+{13067}{}{知道为什么总是有这感觉。不可思议的是我们竟然不是攻击目}
+{13068}{}{标，我想中国很快会发现这个遗漏的。幸运的是我们前天把亲}
+{13069}{}{人从外面迁移到设施里。不知道现在辐射是否已经蔓延到}
+{13070}{}{这个地区。}
+{13071}{}{**END-PAR**}
+{13072}{}{}
+{13073}{}{}
+{13074}{}{}
+{13075}{}{}
+# -
+# {13076}{}{?Oct. 25 2077}
+# {13077}{}{Sgt. Platner volunteered to go outside today to take}
+# {13078}{}{specific readings on the atmosphere. It seems the}
+# {13079}{}{radiation has not spread this far. Since he was wearing}
+# {13080}{}{his power armor, there was no threat to him from}
+# {13081}{}{radiation, but if he had been exposed he would have had}
+# {13082}{}{to be exiled. We don't have adequate decontamination}
+# {13083}{}{facilities here.}
+# {13084}{}{**END-PAR**}
+{13076}{}{２０７７年１０月２５日}
+{13077}{}{　　潘德尔中士自愿到外面去探测辐射程度。似乎辐射到目前}
+{13078}{}{为止还还没传到这么远。他出去时穿着动力装甲，辐射没有伤}
+{13079}{}{害到他。但是如果他被辐射了，我们必须放逐他，因为我们没}
+{13080}{}{有合适的净化设备。}
+{13081}{}{**END-PAR**}
+{13082}{}{}
+{13083}{}{}
+{13084}{}{}
+# -
+# {13085}{}{?Oct. 26 2077}
+# {13086}{}{I convinced the men that we should bury the scientists.}
+# {13087}{}{I don't know why... perhaps it was to ease my conscience.}
+# {13088}{}{I finally started to believe their stories when the last}
+# {13089}{}{one was dying. My God, what have I become?}
+# {13090}{}{**END-PAR**}
+{13085}{}{２０７７年１０月２６日}
+{13086}{}{　　我说服人们，我们必须埋葬那些科学家，我也不知道为什}
+{13087}{}{么……也许这样能让我心安一点吧。在他们当中的最后一个人}
+{13088}{}{死去的时候，我开始相信他们说的事了。我的上帝，我变成了}
+{13089}{}{什么？}
+{13090}{}{**END-PAR**}
+# -
+# {13091}{}{?Oct. 27 2077}
+# {13092}{}{We're leaving this godforsaken place today. I'm leading}
+# {13093}{}{the exodus to the old government bunker at Lost Hills.}
+# {13094}{}{I'm leaving this log behind to be buried when this place}
+# {13095}{}{goes in the next exchange. Who knows, maybe someone}
+# {13096}{}{will find it someday.....}
+# {13097}{}{**END-DISK**}
+{13091}{}{２０７７年１０月２７日}
+{13092}{}{　　今天我们离开了这个被上帝遗弃的地方。我准备带领大家}
+{13093}{}{移居到被政府遗弃的旧希尔地下基地中。我留下了这本日志一}
+{13094}{}{起埋葬在这个地方，如果这里再次被人发现。谁知道呢，也许}
+{13095}{}{有一天谁会再次找到这里……}
+{13096}{}{**END-DISK**}
+{13097}{}{}
+
+
+# Computer Download of the FEV project
+# Uses the global var COMPUTER_FEV
+
+# {14000}{}{FEV Summary Digest:}
+# {14001}{}{**END-PAR**}
+# {14002}{}{2073. As China became increasingly aggressive with}
+# {14003}{}{their use of biological weapons, the United States}
+# {14004}{}{government felt that a countermeasure was needed. }
+# {14005}{}{The Pan-Immunity Virion Project (PVP) was officially}
+# {14006}{}{formed September 15, 2073. }
+# {14007}{}{**END-PAR**}
+{14000}{}{ＦＥＶ摘要：}
+{14001}{}{**END-PAR**}
+{14002}{}{　　２０７３年。中国的侵略性更加明显，同时他们开始使用}
+{14003}{}{生化武器了。美国政府认为必须找到一个对策。于是Ｐａｎ－}
+{14004}{}{病毒免疫计划（ＰＶＰ）于２０７３年９月５日正式启动。}
+{14005}{}{**END-PAR**}
+{14006}{}{}
+{14007}{}{}
+#
+# {14008}{}{2075. It became clear that the best way to combat the}
+# {14009}{}{newly created biological weapons was to alter }
+# {14010}{}{uninfected DNA so that it was no longer susceptible }
+# {14011}{}{to standard viral infection.}
+# {14012}{}{**END-PAR**}
+{14008}{}{　　２０７５年，它变成对抗生化武器最好的方法。这崭新的}
+{14009}{}{生化病毒将ＤＮＡ修正为不可感染的结构，这样就能对普通病}
+{14010}{}{毒免疫了。}
+{14011}{}{**END-PAR**}
+{14012}{}{}
+#
+# {14013}{}{2076. Unforseen side effects began surfacing in early}
+# {14014}{}{2076 with the PVP. Animal test subjects began showing}
+# {14015}{}{an abnormal growth rate accompanied by increased }
+# {14016}{}{brain activity. The U.S. government took notice of }
+# {14017}{}{these discoveries, and in the interests of national }
+# {14018}{}{security, moved a team on-site to secure and oversee }
+# {14019}{}{the project, which was now dubbed the FEV (Forced }
+# {14020}{}{Evolutionary Virus) project.}
+# {14021}{}{**END-PAR**}
+{14013}{}{　　２０７６年，发现早期的ＰＶＰ会产生一些副作用。用生}
+{14014}{}{物测试后发现症状主要体现为脑部不正常的成长速度，并伴随}
+{14015}{}{着脑部活动增加。美国政府注意到这个发现，出于对国家安全}
+{14016}{}{方面的考虑，派遣了一支武装部队保护并监督这个项目，现在}
+{14017}{}{这项目被称作ＦＥＶ（强制进化病毒）工程。}
+{14018}{}{**END-PAR**}
+{14019}{}{}
+{14020}{}{}
+{14021}{}{}
+#
+# {14022}{}{2077. FEV nears completion. Test on lab animals are at }
+# {14023}{}{a near 100% success rate. Size and muscle density }
+# {14024}{}{increase approximately 60%, and the protential }
+# {14025}{}{intelligence increase by 200%. Effects upon human }
+# {14026}{}{subjects remain unknown; although they are theoretically}
+# {14027}{}{promising. The military, wishing to continue further }
+# {14028}{}{testing, builds a large facility at the Mariposa }
+# {14029}{}{military installation in central California. At this }
+# {14030}{}{new facility, testing of the FEV virus continues on }
+# {14031}{}{volunteer subjects from the military.}
+# {14032}{}{**END-DISK**}
+{14022}{}{　　２０７７年，ＦＥＶ接近完成。用动物试验的成功率几乎}
+{14023}{}{达到了１００％。体形和肌肉密度增加了６０％，智力增加了}
+{14024}{}{２００％。对人类的影响还不知道，但在理论上可行。军方想}
+{14025}{}{要继续进一步的试验，在加州的迈瑞普斯军事基地内部建立了}
+{14026}{}{一个大型试验室，使用新的设备继续在军队的志愿者身上进行}
+{14027}{}{试验。}
+{14028}{}{**END-DISK**}
+{14029}{}{}
+{14030}{}{}
+{14031}{}{}
+{14032}{}{}
+
+
+
+# Computer Downlod of the Power Armor Specs
+# Uses the global var COMPUTER_POWER_ARMOR
+
+# {15000}{}{The T-51b Powered Infantry Armor is designed with the}
+# {15001}{}{latest passive defense features for both civilian and}
+# {15002}{}{military disturbances. The back-mounted TX-28}
+# {15003}{}{MicroFusion Pack generates 60,000 Watts to power the}
+# {15004}{}{HiFlo hydraulic systems built into the frame of the suit.}
+# {15005}{}{Made of the latest poly-laminate composite, the T-51b}
+# {15006}{}{shell is lightweight and capable of absorbing over 2500}
+# {15007}{}{Joules of kinetic impact. The 10 micron silver ablative}
+# {15008}{}{coating can reflect laser and radiation emissions without}
+# {15009}{}{damage to the composite subsurface.}
+# {15010}{}{**END-DISK**}
+{15000}{}{　　Ｔ－５１ｂ动力步兵装甲的设计是为军队制止平民暴动而}
+{15001}{}{产生的被动防御理念。背后安装ＴＸ－２８微型核融电池，产}
+{15002}{}{生６００００瓦特电力以提供给装甲结构内部的ＨｉＦｌｏ水}
+{15003}{}{力系统足够的动力，最后用聚酯纤维制造外壳。Ｔ－５１ｂ的}
+{15004}{}{分量很轻，但抗击，并能吸收２５００焦耳的热能攻击。１０}
+{15005}{}{微米银隔离涂层能从外部有效反射激光和放射线造成的伤害。}
+{15006}{}{**END-DISK**}
+{15007}{}{}
+{15008}{}{}
+{15009}{}{}
+{15010}{}{}
+
+
+# Computer Download of the Personel Records
+# Uses the global var COMPUTER_RECORDS
+
+# {16000}{}{Robert Anderson}
+# {16001}{}{Research Assistant}
+# {16002}{}{Security Clearance: Blue}
+# {16003}{}{Stationed: Mariposa Military Base}
+# {16004}{}{**END-PAR**}
+{16000}{}{罗勃特·安德逊}
+{16001}{}{助理研究员}
+{16002}{}{安全通行级别：蓝色}
+{16003}{}{位置：迈瑞普斯军事基地}
+{16004}{}{**END-PAR**}
+#
+# {16005}{}{Nick Davis}
+# {16006}{}{Director of NBC Division of West Tech Research}
+# {16007}{}{Security Clearance: Blue}
+# {16008}{}{Stationed: West Tech Research Facility}
+# {16009}{}{**END-PAR**}
+{16005}{}{尼克·戴维斯}
+{16006}{}{西部科技研究所核生化技术主管}
+{16007}{}{安全通行级别：蓝色}
+{16008}{}{位置：西部科技研究所}
+{16009}{}{**END-PAR**}
+#
+# {16010}{}{John Isaac}
+# {16011}{}{Research Assistant}
+# {16012}{}{Security Clearance: Red}
+# {16013}{}{Stationed: West Tech Research Facility}
+# {16014}{}{**END-PAR**}
+{16010}{}{约翰．艾萨克}
+{16011}{}{助理研究员}
+{16012}{}{安全通行级别：红色}
+{16013}{}{位置：西部科技研究所}
+{16014}{}{**END-PAR**}
+#
+# {16015}{}{Steve Remco}
+# {16016}{}{Research Assistant}
+# {16017}{}{Security Clearance: Blue}
+# {16018}{}{Stationed: Mariposa Military Base}
+# {16019}{}{**END-PAR**}
+{16015}{}{史蒂夫·瑞格}
+{16016}{}{助理研究员}
+{16017}{}{安全通行级别：蓝色}
+{16018}{}{位置：迈瑞普斯军事基地}
+{16019}{}{**END-PAR**}
+#
+# {16020}{}{Charles Rignhold}
+# {16021}{}{Research Head of Laser Development}
+# {16022}{}{Security Clearance: Blue}
+# {16023}{}{Stationed: West Tech Research Facility}
+# {16024}{}{**END-PAR**}
+{16020}{}{查尔斯·瑞高}
+{16021}{}{激光发展研究主管}
+{16022}{}{安全通行级别：蓝色}
+{16023}{}{位置：西部科技研究所}
+{16024}{}{**END-PAR**}
+#
+# {16025}{}{Michele Santose}
+# {16026}{}{Lab Technician}
+# {16027}{}{Security Clearance: Red}
+# {16028}{}{Stationed: West Tech Research Facility}
+# {16029}{}{**END-PAR**}
+{16025}{}{米歇尔·桑徳斯}
+{16026}{}{实验室技术员}
+{16027}{}{安全通行级别：红色}
+{16028}{}{位置：西部科技研究所}
+{16029}{}{**END-PAR**}
+#
+# {16030}{}{Erin Shellman}
+# {16031}{}{Lab Technician}
+# {16032}{}{Security Clearance: Blue}
+# {16033}{}{Stationed: Mariposa Military Base}
+# {16034}{}{**END-PAR**}
+{16030}{}{爱尔兰·沙尔曼}
+{16031}{}{实验室技术员}
+{16032}{}{安全通行级别：蓝色}
+{16033}{}{位置：迈瑞普斯军事基地}
+{16034}{}{**END-PAR**}
+#
+# {16035}{}{Leon VonFelden}
+# {16036}{}{Research Head of FEV}
+# {16037}{}{Security Clearance: Blue}
+# {16038}{}{Stationed: Mariposa Military Base}
+# {16039}{}{**END-DISK**}
+{16035}{}{利昂．万费顿}
+{16036}{}{ＦＥＶ研究主管}
+{16037}{}{安全通行级别：蓝色}
+{16038}{}{位置：迈瑞普斯军事基地}
+{16039}{}{**END-DISK**}
+
+# Holodisk from the Brotherhood Library
+# uses the global var BROTHERHOOD_LIBRARY_DISK
+
+# {17000}{}{Vault Locations v34.129 Revision C (Western USA)}
+# {17001}{}{**END-PAR**}
+{17000}{}{避难所位置Ｖ３４．１２９校订（美国西部）}
+{17001}{}{**END-PAR**}
+#
+# {17002}{}{Hello, and welcome to the latest edition of the Western}
+# {17003}{}{United States Vault Location Pamphlet.  We hope you}
+# {17004}{}{enjoy the pamphlet, and remember Vaults are not just}
+# {17005}{}{for the upwardly mobile, but for everyone.}
+# {17006}{}{**END-PAR**}
+{17002}{}{　　您好，欢迎您使用最新版的美国西部避难所定位手册。希}
+{17003}{}{望您能喜欢本手册，并且请记住，避难所不仅仅是为上层人士}
+{17004}{}{使用的，而是为了每个人。}
+{17005}{}{**END-PAR**}
+{17006}{}{}
+#
+# {17007}{}{Vault 12}
+# {17008}{}{**END-PAR**}
+{17007}{}{１２号避难所}
+{17008}{}{**END-PAR**}
+#
+# {17009}{}{Under the sprawling metropolis of Bakers field, lies the}
+# {17010}{}{technological magnificence of Vault 12.  Built with every}
+# {17011}{}{amenity in mind for the prospective Vault Dweller,}
+# {17012}{}{Vault 12 was given the "Pressed Vault Suit"}
+# {17013}{}{award for attention to preparedness.  Buried far}
+# {17014}{}{underground, the protection that Vault Dwellers will}
+# {17015}{}{receive will be unprecedented.  Much like all other}
+# {17016}{}{Vaults, Vault 12 has been fitted with the newest in}
+# {17017}{}{Vault Water Purification Systems.  Able to take even}
+# {17018}{}{the waste located in the sewers of Bakersfield, this}
+# {17019}{}{system is able to deliver over 15,000 gallons of pure,}
+# {17020}{}{refreshing drinking water every day.}
+# {17021}{}{**END-PAR**}
+{17009}{}{　　在贝克斯斐欧（烤炉）这座巨大城市的地下埋藏着１２号}
+{17010}{}{避难所的辉煌科技。那是为了预期的增容而在很深的地下建造}
+{17011}{}{的避难所，它能为居民提供空前的保护。人们非常喜欢这座避}
+{17012}{}{难所的设计，因为这里使用了最新的净水系统，甚至可将贝克}
+{17013}{}{斯斐欧下水道里的污水净化，这系统每天能够提供１５０００}
+{17014}{}{加仑的纯净饮用水。}
+{17015}{}{**END-PAR**}
+{17016}{}{}
+{17017}{}{}
+{17018}{}{}
+{17019}{}{}
+{17020}{}{}
+{17021}{}{}
+#
+# {17022}{}{Vault 13}
+# {17023}{}{**END-PAR**}
+{17022}{}{１３号避难所}
+{17023}{}{**END-PAR**}
+#
+# {17024}{}{Located in a scenic mountainous region northwest of}
+# {17025}{}{Vault 12, this Vault offers an endless supply of pure}
+# {17026}{}{water to the inhabitants.  The rumors that the water}
+# {17027}{}{table in the area could easily be contaminated in the}
+# {17028}{}{event of a Nuclear War have been found by the}
+# {17029}{}{Department of Water and Power to be completely}
+# {17030}{}{unfounded.  In the event that the water in the area}
+# {17031}{}{were to become tainted, remote even though it may be,}
+# {17032}{}{Vault 13 has been fitted with the government approved}
+# {17033}{}{Vault Water Purification System.  Rated to work without}
+# {17034}{}{significant loss of output for over 250,000 hours,}
+# {17035}{}{prospective Vault Dwellers should  have nothing to fear.}
+# {17036}{}{**END-PAR**}
+{17024}{}{　　坐落在１２号避难所西北方的山区，这个避难所常年的提}
+{17025}{}{供纯净水给居民，关于这个区域的地下水位接近地面而容易遭}
+{17026}{}{受核辐射污染的谣言完全没有事实根据。如果水在这个区域被}
+{17027}{}{污染，尽管将来也许有这个可能，１３号避难所也已经配备了}
+{17028}{}{政府批准的标准避难所净水系统，连续工作２５００００小时}
+{17029}{}{还是没有问题的，避难所居民无需担心这个问题。}
+{17030}{}{**END-PAR**}
+{17031}{}{}
+{17032}{}{}
+{17033}{}{}
+{17034}{}{}
+{17035}{}{}
+{17036}{}{}
+#
+# {17037}{}{Vault 15}
+# {17038}{}{**END-PAR**}
+{17037}{}{１５号避难所}
+{17038}{}{**END-PAR**}
+#
+# {17039}{}{Due east from Vault 13, construction on this Vault has}
+# {17040}{}{gone extremely smoothly.  Much work was done to}
+# {17041}{}{reinforce the walls of the third level of this Vault, to}
+# {17042}{}{make all the future Vault Dwellers more secure in the}
+# {17043}{}{knowledge that in the event of even a major earthquake,}
+# {17044}{}{the regulatory computers of the Vault would continue}
+# {17045}{}{to function.  Recent tours of the newly constructed}
+# {17046}{}{Vault, have had many a potential Vault Dweller walking}
+# {17047}{}{away with a new found awe of the improvements done to}
+# {17048}{}{this already impressive Vault.}
+# {17049}{}{**END-DISK**}
+{17039}{}{　　在１３号避难所东方非常顺利的建设了这个避难所。在这}
+{17040}{}{个避难所第三层的墙上做了很多加固。主要是让将来的避难所}
+{17041}{}{居民知道这个后能更有安全感。甚至是一次很强的大地震，这}
+{17042}{}{避难所的管理计算机也能正常工作。在对这个全新结构的避难}
+{17043}{}{所最后的调查中发现，曾经有许多人对这个避难所的结构改进}
+{17044}{}{之处十分担心，一部分居民已经步行离开了这座令人难忘的避}
+{17045}{}{难所。}
+{17046}{}{**END-DISK**}
+{17047}{}{}
+{17048}{}{}
+{17049}{}{}
+
+#Regulator Disk from Blades
+
+# {18000}{}{Regulator's radio transmission log:}
+# {18001}{}{**END-PAR**}
+{18000}{}{管理者无线电传送信息记录：}
+{18001}{}{**END-PAR**}
+# {18002}{}{Message sent: Regulator patrol to Regulator base come}
+# {18003}{}{in. Do you copy? Over.}
+# {18004}{}{**END-PAR**}
+{18002}{}{　　信息发送：管理者巡逻队现在呼叫管理者基地，你能收到}
+{18003}{}{吗？完毕。}
+{18004}{}{**END-PAR**}
+# {18005}{}{Message received: This is Regulator base, Principle}
+# {18006}{}{Regulator Caleb responding. Report? Over.}
+# {18007}{}{**END-PAR**}
+{18005}{}{　　信息接收：这里是管理者基地，标准管理者凯莱布应答。}
+{18006}{}{汇报？完毕。}
+{18007}{}{**END-PAR**}
+# {18008}{}{Message sent: Sir, yes sir! Regulator Second Class}
+# {18009}{}{Cravotta reporting. We've apprehended the Zimmerman}
+# {18010}{}{boy trying to infiltrate our perimeter again, sir.}
+# {18011}{}{Orders? Over.}
+# {18012}{}{**END-PAR**}
+{18008}{}{　　信息发送：长官！是的长官！二级管理者卡米徳报告。我}
+{18009}{}{们发现齐默曼那家伙企图再次渗透我们的防线。长官，您的命}
+{18010}{}{令？完毕。}
+{18011}{}{**END-PAR**}
+{18012}{}{}
+# {18013}{}{Message received: Shit! Again! Well that's the last time}
+# {18014}{}{that's going to happen. Eliminate him and make it look}
+# {18015}{}{like the Blades did it.}
+# {18016}{}{Understand? Over.}
+# {18017}{}{**END-PAR**}
+{18013}{}{　　信息接收：该死！又一次！这是最后一次了，干掉他，并}
+{18014}{}{且看上去要像是利刃帮做的，了解吗？完毕。}
+{18015}{}{**END-PAR**}
+{18016}{}{}
+{18017}{}{}
+# {18018}{}{Message sent: Sir? Uh... did I copy correctly, sir?}
+# {18019}{}{Kill him? Over.}
+# {18020}{}{**END-PAR**}
+{18018}{}{　　信息发送：长官？呃……我没有听错吧？长官，杀掉他？}
+{18019}{}{完毕。}
+{18020}{}{**END-PAR**}
+# {18021}{}{Message received: : That's affirmative, Regulator.}
+# {18022}{}{And I want it messy. Impale him on the guard posts}
+# {18023}{}{out front- oh, and cut out his tongue so he }
+# {18024}{}{can't talk while we "attempt" to save his sorry ass.}
+# {18025}{}{Over?}
+# {18026}{}{**END-PAR**}
+{18021}{}{　　信息接收：那是肯定的，管理者。并且我想要他更惨。先}
+{18022}{}{把他穿在柱子上……噢！接着割下他的舌头，这样一直到我们}
+{18023}{}{帮他“解脱”之前他都不能说话了。完毕？}
+{18024}{}{**END-PAR**}
+{18025}{}{}
+{18026}{}{}
+# {18027}{}{Message sent: It shall be done, sir, Over.}
+# {18028}{}{**END-PAR**}
+{18027}{}{　　信息发送：明白了，长官。完毕。}
+{18028}{}{**END-PAR**}
+# {18029}{}{End transmission.}
+# {18030}{}{**END-DISK**}
+{18029}{}{　　传送结束。}
+{18030}{}{**END-DISK**}

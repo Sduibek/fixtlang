@@ -1,0 +1,19 @@
+# {100}{}{It's a slot machine with a picture of a nuclear explosion on the side. It costs $20 to play.}
+# {101}{}{You drop $20 in the slot machine and pull the greasy handle.}
+# {102}{}{DING! DING! DING!}
+# {103}{}{You get three nukes. Excellent! $}
+# {104}{}{ drops into the tray and you snatch it up.}
+# {105}{}{Ding! Ding! Ding!}
+# {106}{}{You get three bombs. Winner! $30 drops into the tray and you snatch it up.}
+# {107}{}{Aww shucks! You lose.}
+# {108}{}{You don't have enough money to play.}
+{100}{}{这是一个吃角子老虎机，在它边上有张核爆炸的图片。玩一次花20元。}
+{101}{}{你把20元放进吃角子老虎机里并拉下那肮脏油腻的手柄。}
+{102}{}{叮！叮！叮！}
+{103}{}{你摇出三个原子弹！太好了！}
+{104}{}{元掉进盘子里，你赶快收了起来。}
+{105}{}{叮！叮！叮！}
+{106}{}{你得到三个炸弹。赢了！30元掉进盘子里，你赶快收了起来。}
+{107}{}{啊，可恶！你输了。}
+{108}{}{你没有足够的钱来玩这个了。}
+

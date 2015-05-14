@@ -1,0 +1,164 @@
+#{100}{}{You see an aged woman.}
+{100}{}{你看见一个老妇人。}
+
+#{101}{}{You see Agatha.}
+{101}{}{你看见阿加莎。}
+
+#{102}{}{This woman is wrinkled and gray, yet has a spry step and a bright
+# personality.}
+{102}{}{这个女人头发灰白并且脸上布满皱纹，但步伐灵活，个性爽朗。}
+
+#{103}{}{You are a bad person. I will have nothing to do with you.}
+{103}{}{你是一个坏人。我不会和你有什么关系。}
+
+#{104}{}{It is a terrible thing when our youth are threatened. The loss
+# of Tandi would be a terrible thing.}
+{104}{}{我们的年轻人被威胁，实在糟透了。失去坦蒂也是件可怕的事。}
+
+#{105}{}{Hnng.}
+{105}{}{哼~~嗯。}
+
+#{106}{}{Okay.}
+{106}{}{好吧。}
+
+#{107}{}{Why?}
+{107}{}{为什么？}
+
+#{108}{}{What do you mean?}
+{108}{}{什么意思？}
+
+#{109}{}{I know you will do your best, dearie. Find Tandi, help her escape those
+# beasts and return her to Aradesh. You will do this community a favor and
+# build good karma as well.}
+{109}{}{我知道你会尽力的，亲爱的，找到坦蒂，帮她逃出那些野蛮人的魔掌，让她回到亚拉德什身边。你会帮这个小镇一个大忙，好人也会有好报。}
+
+#{110}{}{Aradesh loves his daughter very much. It is that love that makes him the
+# man that he is and a pillar of this community. Without that love he
+# would be lost, and Shady Sands would surely follow . . .}
+{110}{}{亚拉德什很爱他的女儿。也正是这股爱使这个男人成为这个镇的支柱。失去这种爱，他会迷茫，并且沙荫镇肯定也会随之如此……}
+
+#{111}{}{I will do my best. Goodbye.}
+{111}{}{我会尽力的。再见。}
+
+#{112}{}{I could use some help.}
+{112}{}{我很想帮忙。}
+
+#{113}{}{Hmmm. We'll see.}
+{113}{}{嗯……再见。}
+
+#{114}{}{I feel that she is imprisoned. She was the target of hatred. That hate is
+# very strong to the southeast. I'm sure you will find her there. Good luck.}
+{114}{}{我觉的她被关起来了。她是仇恨的目标。这种仇恨在东南方非常强烈。我肯定你能在那里找到她。祝你好运。}
+
+#{115}{}{Thank you.}
+{115}{}{谢谢。}
+
+#{116}{}{You have not heard? Tandi is missing. I feel she was kidnapped.
+# Aradesh is most distraught. This is a terrible thing . . .}
+{116}{}{你没听说吗？坦蒂失踪了。我觉得她被绑架了。亚拉德什忧心如焚。真是一件可怕的事……}
+
+#{117}{}{I hear that you have saved Tandi. That was the right thing to do.
+# Your karma is strong. I have high hopes for your future.}
+{117}{}{听说你救了坦蒂。你做得很好。你的命很硬。我感觉你的未来很有希望。}
+
+#{118}{}{I'm very sorry to hear about Tandi. She was such a bright young woman.
+# She would have done good with her life.}
+{118}{}{我对坦蒂的事很遗憾。她是一个那么有朝气的姑娘。她应该活得更好。}
+
+#{119}{}{Hello. You must be the stranger everyone is talking about.
+# [Agatha sighs.] How can I help you?}
+{119}{}{你好。你一定就是那个所有人都在谈论的外地人。【阿加莎叹息】 我有什么能帮你吗？}
+
+#{120}{}{Hngh.}
+{120}{}{嗯。}
+
+#{121}{}{Who are you?}
+{121}{}{你是谁？}
+
+#{122}{}{You look very tired. Is there anything wrong?}
+{122}{}{你看起来很疲倦。这里出了什么问题吗？}
+
+#{123}{}{Why do you look so tired?}
+{123}{}{为什么你看起来这么疲倦？}
+
+#{124}{}{Don't talk to me, old woman.}
+{124}{}{别跟我说，老女人。}
+
+#{125}{}{You need more help than I can give you, child. May Dharma be with you.}
+{125}{}{你需要的帮助超出了我的能力，我的孩子。愿达玛与你同在。}
+
+#{126}{}{My name is Agatha. I am the storyteller of Shady Sands. It is my job
+# to keep the history so that we may remember and never forget.}
+{126}{}{我的名字是阿加莎. 我是沙荫镇的说书人。我的工作就是记录历史，让大家记住并且永不遗忘。}
+
+#{127}{}{Tell me a story.}
+{127}{}{给我讲一个故事。}
+
+#{128}{}{Okay, whatever.}
+{128}{}{好吧，随便。}
+
+#{129}{}{It is good not to forget.}
+{129}{}{能不遗忘真好。}
+
+#{130}{}{I'm sorry, child, I am tired right now. I need my rest. Please come
+# back later.}
+{130}{}{我很抱歉，孩子。我现在很疲倦。我需要休息。请过会儿再来。}
+
+#{131}{}{How very true. [Agatha stares at you for a moment.] It is good for
+# the young to remember, but it is very hard to act within the flow of history.
+# Sometimes, the very course we take is determined by events long ago. May Dharma
+# be with you. I must rest for a little while. Come back again, when I am stronger,
+# and we will speak again.}
+{131}{}{千真万确。【阿加莎盯了你一会儿。】 对于年轻人记住历史是好事，但是要在历史的洪流里扮演一个角色却是非常困难的。有些时候，我们所走的路在很久以前就已经就被某些事情所决定了。愿达玛与你同在。我必须休息一小会儿了。过会儿再来，当我有气力时，我们再谈。}
+
+#{132}{}{Thank you for asking. I'm just old, that's all. I cannot sleep at night.
+# I close my eyes . . . [Agatha pauses.] But I get no rest. Please, it is
+# just my old tired bones . . .}
+{132}{}{谢谢你提到这点。我已经很老了，这就是为什么。我不能在晚上入睡。当我合上我的眼睛……【阿加莎停了一下。】但是我就是不能睡着。请你理解，我已经是一把老骨头的人了……}
+
+#{133}{}{I'm sorry, I'm very tired. Could you please come back later?}
+{133}{}{我很抱歉，我非常疲倦。请你过会儿再来好吗？}
+
+#{134}{}{Baba.}
+{134}{}{再见。}
+
+#{135}{}{Okay.}
+{135}{}{好吧。}
+
+#{136}{}{Why are you so tired?}
+{136}{}{为什么你这么疲倦？}
+
+#{137}{}{I don't sleep well at night, my child. It must be my age.}
+{137}{}{我在晚上没有睡好，我的孩子。一定是因为我太老了。}
+
+#{138}{}{Good day, my child. You look well. You remind me of my own baby.}
+{138}{}{你好，我的孩子。你看起来不错。你让我想起了我的小孩。}
+
+#{139}{}{Hng.}
+{139}{}{嗯。}
+
+#{140}{}{I want a story, then.}
+{140}{}{那么，我想听一个故事。}
+
+#{141}{}{I'm glad you are feeling better.}
+{141}{}{我很高兴你感觉好点了。}
+
+#{142}{}{Thank you. Goodbye.}
+{142}{}{谢谢。再见。}
+
+#{143}{}{You definitely remind me of my baby. When she was just a few months
+# old, as a matter of fact.}
+{143}{}{你确实让我想起了我自己的小孩。当她只有几个月大时，实在是像极了。}
+
+#{144}{}{Thank you. Dharma always said that the farmer who plants politeness will
+# walk easy when the season is over.}
+{144}{}{谢谢你。达玛总是说，旺季过后，种下礼貌的农夫会更好过。}
+
+#{145}{}{Please tell me a story.}
+{145}{}{请给我讲一个故事。}
+
+#{146}{}{This Dharma fellow sounds like an idiot.}
+{146}{}{这个达玛的家伙听起来像个傻瓜。}
+
+#{147}{}{You insult your elders. You should know better.}
+{147}{}{你侮辱了你的长辈。你应该更清楚这点。}

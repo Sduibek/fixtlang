@@ -1,0 +1,37 @@
+
+#{100}{}{You see a locked strongbox.}
+{100}{}{你看见一个上锁的保险柜。}
+#{101}{}{You see an unlocked stronbox.}
+{101}{}{你看见一个没上锁的保险柜。}
+#{102}{}{The strongbox is locked.}
+{102}{}{这个保险柜上锁了。}
+#{103}{}{While opening the strongbox, you detected and disarmed a trap.}
+{103}{}{开保险柜时，你发现并解除了一个陷阱。}
+#{104}{}{While opening the strongbox, you detected a trap, but accidentally set it off.}
+{104}{}{开保险柜时，你发现了一个陷阱，意外的触发了。}
+#{105}{}{While opening the strongbox, you detected a trap, but failed to disarm it.}
+{105}{}{开保险柜时，你发现了一个陷阱，但是没能解除它。}
+#{106}{}{The strongbox is already unlocked.}
+{106}{}{这个保险柜锁已经被打开了。}
+#{107}{}{You successfully unlocked the strongbox.}
+{107}{}{你成动地打开了保险柜的锁。}
+#{108}{}{Your multiple attempts to unlock the strongbox have set off a trap.}
+{108}{}{你多次尝试开锁，结果触发了一个陷阱。}
+#{109}{}{You were unable to unlock the strongbox, and the lock has become jammed.}
+{109}{}{你无法开这个保险柜的锁，并且锁塞住了。}
+#{110}{}{You were unable to unlock the strongbox.}
+{110}{}{你无法开这个保险柜的锁。}
+#{111}{}{You find a trap on the strongbox and successfully disarm it.}
+{111}{}{你在保险柜上发现一个陷阱并成功地解除了它。}
+#{112}{}{You find a trap on the strongbox.}
+{112}{}{你在保险柜上发现一个陷阱。}
+#{113}{}{While searching the strongbox for traps, you accidentally set one off.}
+{113}{}{你在保险柜上搜索陷阱时意外的触发了一个陷阱。}
+#{114}{}{You find nothing while searching the strongbox for traps.}
+{114}{}{你在保险柜上没找到任何陷阱。}
+#{115}{}{You successfully disarmed the trap.}
+{115}{}{你成功地解除了陷阱。}
+#{116}{}{You accidentally set off the trap.}
+{116}{}{你意外地触发了陷阱。}
+#{117}{}{You failed to disarm the trap.}
+{117}{}{你解除陷阱失败了。}

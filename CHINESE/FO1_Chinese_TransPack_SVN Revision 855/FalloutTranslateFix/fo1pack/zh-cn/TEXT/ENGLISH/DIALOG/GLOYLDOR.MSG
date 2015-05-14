@@ -1,0 +1,317 @@
+#{100}{}{The frame of this security door has remnants of blue paint.}
+{100}{}{安全门的架构上残留着蓝色喷漆。}
+
+#{101}{}{You get a mild shock from the electric field on the door and take a point of damage.}
+{101}{}{门上的电场发出轻微的电击，你受到1点伤害}
+
+#{102}{}{You get a strong shock from the electric field on the door. You sustain }
+{102}{}{门上的电场的强电震荡击中了你。你受到}
+
+#{103}{}{ points of damage.}
+{103}{}{点伤害。}
+
+#{104}{}{You force the door open.}
+{104}{}{你用蛮力把门打开。}
+
+#{105}{}{The door is locked.}
+{105}{}{这扇门被锁上了。}
+
+#{106}{}{Authorization granted. Now disarming electric field.}
+{106}{}{确认授权许可。即时解除装备电场。}
+
+#{107}{}{You are not authorized to enter this room.}
+{107}{}{你没有进入这房间的授权许可。}
+
+#{108}{}{This item does not effect the security systems.}
+{108}{}{这件道具对安保系统没有影响。}
+
+#{109}{}{You pick the lock on the security door.}
+{109}{}{你撬安全门上的锁。}
+
+#{110}{}{There seems to be some type of security measure on this door.}
+{110}{}{似乎这扇门上有某种安全度量器。}
+
+#{111}{}{You failed to pick the lock on the door.}
+{111}{}{你撬门锁失败了。}
+
+#{112}{}{This skill has no effect on the door.}
+{112}{}{这个技能对门没有效果。}
+
+#{113}{}{You disarm the electric field on the door.}
+{113}{}{你解除了门上的电场安保系统。}
+
+#{114}{}{You intesified the power of the electric field.}
+{114}{}{你加强了电场的能量。}
+
+#{115}{}{You fail to disarm the electric field.}
+{115}{}{你试图解除电场，但失败了。}
+
+#{116}{}{You pick the lock on the door without setting off the security system.}
+{116}{}{你在没有关上安保系统的情况下试图撬开门锁。}
+
+#{117}{}{You fail to pick the lock and take serious damage from the security system.}
+{117}{}{撬锁失败，安保系统对你造成了严重伤害。}
+
+#{118}{}{You fail to pick the lock and take damage from the security system.}
+{118}{}{撬锁失败，安保系统对你造成了伤害。}
+
+#{119}{}{You are shocked by the security system and lose concentration to pick the lock.}
+{119}{}{安保系统震开了你，使你撬锁的注意力被分散。}
+
+#{120}{}{You take and intense shock from the security system and lose concentration to pick the lock.}
+{120}{}{你受到安保系统的强烈震荡，使撬锁的注意力被分散。}
+
+#{121}{}{You utterly fail in trying to pick this lock and destroy your picks.}
+{121}{}{你开锁的尝试彻底失败，工具被损坏。}
+
+#{122}{}{You fail to pick this lock.}
+{122}{}{你开锁失败了。}
+
+#{123}{}{You see a sturdy, rusted door.}
+{123}{}{你见到一扇锈得死死的门。}
+
+#{124}{}{You see an unlocked door with green paint on it.}
+{124}{}{你见到一扇没锁上的门，上面有绿色喷涂。}
+
+#{125}{}{You see an unlocked door with green paint on it.}
+{125}{}{你见到一扇没锁上的门，上面有绿色喷涂。}
+
+#{126}{}{You see an unlocked door with a moving green field in front of it.}
+{126}{}{你见到一扇没锁的门，门前有绿色的移动场。}
+
+#{127}{}{You see an unlocked door with a high voltage security system armed upon it.}
+{127}{}{你见到了一扇没锁的门，上面配备有高电压安保系统。}
+
+#{128}{}{You see a door with green paint on it.}
+{128}{}{你见到一扇门，上面有绿色喷涂。}
+
+#{129}{}{You see a door with green paint on it.}
+{129}{}{你见到一扇门，上面有绿色喷涂。}
+
+#{130}{}{You see a door with a moving green field in front of it.}
+{130}{}{你见到一扇门，门前有绿色的移动场。}
+
+#{131}{}{You see a door with a high voltage security system armed upon it.}
+{131}{}{你见到了一扇门，上面配备有高电压安保系统。}
+
+#{132}{}{You see a locked door with green paint on it.}
+{132}{}{你见到一扇锁着的门，上面有绿色喷涂。}
+
+#{133}{}{You see a locked door with green paint on it.}
+{133}{}{你见到一扇锁着的门，上面有绿色喷涂。}
+
+#{134}{}{You see a locked door with a moving green field in front of it.}
+{134}{}{你见到一扇锁着的门，门前有绿色的移动场。}
+
+#{135}{}{You see a locked door with a high voltage security system armed upon it.}
+{135}{}{你见到了一扇锁着的门，上面配备有高电压安保系统。}
+
+#{136}{}{The lock on this green door seems to need a special passkey.}
+{136}{}{这扇绿色门上的锁看上去需要一把特殊的通行钥匙。}
+
+#{137}{}{The lock on this green door seems to need a special passkey.}
+{137}{}{这扇绿色门上的锁看上去需要一把特殊的通行钥匙。}
+
+#{138}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering green field before the door.}
+{138}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门前有闪着绿色微光的场。}
+
+#{139}{}{The lock on this door seems to need a special green passkey. Additionally, you notice a high voltage security system armed upon it.}
+{139}{}{这扇门上的锁看上去需要特殊的绿色通行钥匙。除此之外，你注意到门上还配备着高电压安保系统。}
+
+#{140}{}{You see an unlocked door.}
+{140}{}{你见到一扇没有锁上的门。}
+
+#{141}{}{You see an unlocked door.}
+{141}{}{你见到一扇没有锁上的门。}
+
+#{142}{}{You see an unlocked door with a moving field in front of it.}
+{142}{}{你见到一扇没有锁上的门，门前设有移动场。}
+
+#{143}{}{You see an unlocked door with a high voltage security system armed upon it.}
+{143}{}{你见到了一扇没锁的门，上面配备有高电压安保系统。}
+
+#{144}{}{You see a door.}
+{144}{}{你见到一扇门。}
+
+#{145}{}{You see a door.}
+{145}{}{你见到一扇门。}
+
+#{146}{}{You see a door with a moving field in front of it.}
+{146}{}{你见到一扇门，门前设有移动场。}
+
+#{147}{}{You see a door with a high voltage security system armed upon it.}
+{147}{}{你见到了一扇门，上面配备有高电压安保系统。}
+
+#{148}{}{You see a locked door.}
+{148}{}{你见到了一扇锁上的门。}
+
+#{149}{}{You see a locked door.}
+{149}{}{你见到了一扇锁上的门。}
+
+#{150}{}{You see a locked door with a moving field in front of it.}
+{150}{}{你见到一扇锁上的门，门前设有移动场。}
+
+#{151}{}{You see a locked door with a high voltage security system armed upon it.}
+{151}{}{你见到了一扇锁着的门，上面配备有高电压安保系统。}
+
+#{152}{}{The lock on this door seems to need a special passkey.}
+{152}{}{门上的锁看上去需要一把特殊的通行钥匙。}
+
+#{153}{}{The lock on this door seems to need a special passkey.}
+{153}{}{门上的锁看上去需要一把特殊的通行钥匙。}
+
+#{154}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering field before the door.}
+{154}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门前有闪着微光的场。}
+
+#{155}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
+{155}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门上还配备着高电压安保系统。}
+
+#{156}{}{You see an unlocked door with yellow paint on it.}
+{156}{}{你见到一扇没锁上的门，上面有黄色喷涂。}
+
+#{157}{}{You see an unlocked door with yellow paint on it.}
+{157}{}{你见到一扇没锁上的门，上面有黄色喷涂。}
+
+#{158}{}{You see an unlocked door with a moving yellow field in front of it.}
+{158}{}{你见到一扇没锁的门，门前有黄色的移动场。}
+
+#{159}{}{You see an unlocked door with a high voltage security system armed upon it.}
+{159}{}{你见到了一扇没锁的门，上面配备有高电压安保系统。}
+
+#{160}{}{You see a door with yellow paint on it.}
+{160}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{161}{}{You see a door with yellow paint on it.}
+{161}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{162}{}{You see a door with a moving yellow field in front of it.}
+{162}{}{你见到一扇门，门前有黄色的移动场。}
+
+#{163}{}{You see a door with a high voltage security system armed upon it.}
+{163}{}{你见到了一扇门，上面配备有高电压安保系统。}
+
+#{164}{}{You see a locked door with yellow paint on it.}
+{164}{}{你见到一扇锁着的门，上面有黄色喷涂。}
+
+#{165}{}{You see a locked door with yellow paint on it.}
+{165}{}{你见到一扇锁着的门，上面有黄色喷涂。}
+
+#{166}{}{You see a locked door with a moving yellow field in front of it.}
+{166}{}{你见到一扇锁着的门，门前有黄色的移动场。}
+
+#{167}{}{You see a locked door with a high voltage security system armed upon it.}
+{167}{}{你见到了一扇锁着的门，上面配备有高电压安保系统。}
+
+#{168}{}{The lock on this yellow door seems to need a special passkey.}
+{168}{}{这黄门的锁看上去需要一把特殊的通行钥匙。}
+
+#{169}{}{The lock on this yellow door seems to need a special passkey.}
+{169}{}{这黄门的锁看上去需要一把特殊的通行钥匙。}
+
+#{170}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering yellow field before the door.}
+{170}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门前有闪着黄色微光的场。}
+
+#{171}{}{The lock on this door seems to need a special passkey. Additionally, you notice a high voltage security system armed upon it.}
+{171}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门上还配备着高电压安保系统。}
+
+#{172}{}{You see an unlocked door with yellow paint on it.}
+{172}{}{你见到一扇没锁的门，上面有黄色喷涂。}
+
+#{173}{}{You see an unlocked door with yellow paint on it.}
+{173}{}{你见到一扇没锁的门，上面有黄色喷涂。}
+
+#{174}{}{You see an unlocked door with a moving yellow field in front of it.}
+{174}{}{你见到一扇没锁的门，门前有黄色的移动场。}
+
+#{175}{}{You see an unlocked door with a high voltage security system armed upon it.}
+{175}{}{你见到了一扇没锁的门，上面配备有高电压安保系统。}
+
+#{176}{}{You see a door with yellow paint on it.}
+{176}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{177}{}{You see a door with yellow paint on it.}
+{177}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{178}{}{You see a door with a moving yellow field in front of it.}
+{178}{}{你见到一扇门，门前有黄色的移动场。}
+
+#{179}{}{You see a door with a high voltage security system armed upon it.}
+{179}{}{你见到了一扇门，上面配备有高电压安保系统。}
+
+#{180}{}{You see a locked door with yellow paint on it.}
+{180}{}{你见到一扇锁着的门，上面有黄色喷涂。}
+
+#{181}{}{You see a locked door with yellow paint on it.}
+{181}{}{你见到一扇锁着的门，上面有黄色喷涂。}
+
+#{182}{}{You see a locked door with a moving yellow field in front of it.}
+{182}{}{你见到一扇锁着的门，门前有黄色的移动场。}
+
+#{183}{}{You see a locked door with a high voltage security system armed upon it.}
+{183}{}{你见到了一扇锁着的门，上面配备有高电压安保系统。}
+
+#{184}{}{The lock on this yellow door seems to need a special passkey.}
+{184}{}{这黄门的锁看上去需要一把特殊的通行钥匙。}
+
+#{185}{}{The lock on this yellow door seems to need a special passkey.}
+{185}{}{这黄门的锁看上去需要一把特殊的通行钥匙。}
+
+#{186}{}{The lock on this door seems to need a special passkey. Additionally, you notice a shimmering yellow field before the door.}
+{186}{}{这扇门上的锁看上去需要特殊的通行钥匙。除此之外，你注意到门前有闪着黄色微光的场。}
+
+#{187}{}{The lock on this door seems to need a special yellow passkey. Additionally, you notice a high voltage security system armed upon it.}
+{187}{}{这扇门上的锁看上去需要特殊的黄色通行钥匙。除此之外，你注意到门上还配备着高电压安保系统。}
+
+#{188}{}{You see a door with green paint on it.}
+{188}{}{你见到一扇门，上面有绿色喷涂。}
+
+#{189}{}{You see a door with a moving green field in front of it.}
+{189}{}{你见到一扇门，门前有绿色的移动场。}
+
+#{190}{}{You see a high voltage security system on this green door.}
+{190}{}{你见到这绿门上配备有高电压安保系统。}
+
+#{191}{}{You see a high voltage security system on this green door. You wonder if there is a passkey to bypass it.}
+{191}{}{你见到这绿门上配备有高电压安保系统。你想知道是否有通行钥匙能绕过它。}
+
+#{192}{}{You see a door.}
+{192}{}{你见到了一扇门。}
+
+#{193}{}{You see a door with a moving field in front of it.}
+{193}{}{你见到一扇门，门前有移动场。}
+
+#{194}{}{You see a high voltage security system on this door.}
+{194}{}{你见到门上配备有高电压安保系统。}
+
+#{195}{}{You see a high voltage security system on this door. You wonder if there is a passkey to bypass it.}
+{195}{}{你见到门上配备有高电压安保系统。你想知道是否有通行钥匙能绕过它。}
+
+#{196}{}{You see a door with yellow paint on it.}
+{196}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{197}{}{You see a door with a moving yellow field in front of it.}
+{197}{}{你见到一扇门，门前有黄色的移动场。}
+
+#{198}{}{You see a high voltage security system on this yellow door.}
+{198}{}{你见到这黄门上配备有高电压安保系统。}
+
+#{199}{}{You see a high voltage security system on this yellow door. You wonder if there is a passkey to bypass it.}
+{199}{}{你见到这黄门上配备有高电压安保系统。你想知道是否有通行钥匙能绕过它。}
+
+#{200}{}{You see a door with yellow paint on it.}
+{200}{}{你见到一扇门，上面有黄色喷涂。}
+
+#{201}{}{You see a door with a moving yellow field in front of it.}
+{201}{}{你见到一扇门，门前有黄色的移动场。}
+
+#{202}{}{You see a high voltage security system on this yellow door.}
+{202}{}{你见到这黄门上配备有高电压安保系统。}
+
+#{203}{}{You see a high voltage security system on this yellow door. You wonder if there is a passkey to bypass it.}
+{203}{}{你见到这黄门上配备有高电压安保系统。你想知道是否有通行钥匙能绕过它。}
+
+#{204}{}{You notice there is a trap on this door.}
+{204}{}{你注意到门上有个陷阱。}
+
+#{205}{}{The elevator is inoperable. It seems to need power.}
+{205}{}{升降机无法运作。看上去需要能量。}

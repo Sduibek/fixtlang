@@ -1,0 +1,117 @@
+{1099}{}{?}
+{1199}{}{此人不能告诉你什么。}
+
+#{100}{}{You see Fire.}
+#{101}{}{}
+#{102}{}{}
+#{103}{}{You see a member of the Blades.}
+#{104}{}{You see a member of the Blades.}
+#{105}{}{You think that might be Books.}
+#{106}{}{You think that might be Scars.}
+#{107}{}{You think that might be Gunner.}
+#{108}{}{You think that might be Twitch.}
+#{109}{}{You think that might be Hammer.}
+#{110}{}{You think that might be Razor.}
+#{111}{}{Whatcha want, loser?}
+#{112}{}{Err.}
+#{113}{}{I want to become a Blade.}
+#{114}{}{What would it take for me to get peace between you and Adytum?}
+#{115}{}{This! *smack*}
+#{116}{}{Nothing. Sorry I bothered you.}
+#{117}{}{I am just inspecting your place.}
+#{118}{}{Great. Another stupid one. You have the sound of a Ripper.}
+#{119}{}{Rrrrr.}
+#{120}{}{Arrrr.}
+#{121}{}{Arrooo?}
+#{122}{}{Don't like them much either? Maybe we can use you for a little 'work.'}
+#{123}{}{Urroo.}
+#{124}{}{Un nah.}
+{100}{}{你看见火爆。}
+{101}{}{}
+{102}{}{}
+{103}{}{你看到一个利刃帮的成员。}
+{104}{}{你看到一个利刃帮的成员。}
+{105}{}{你认为那或许是书。}
+{106}{}{你认为那或许是伤疤。}
+{107}{}{你认为那或许是枪手。}
+{108}{}{你认为那或许是抽动物。}
+{109}{}{你认为那或许是榔头。}
+{110}{}{你认为那或许是剃刀。}
+{111}{}{想要什么，蠢货？}
+{112}{}{恩啊。}
+{113}{}{我想加入利刃帮。}
+{114}{}{如果让你们和内城区和解，我有什么好处？}
+{115}{}{这个！【拍打】}
+{116}{}{没什么。抱歉打搅你。}
+{117}{}{我正在调查你们的地盘.}
+{118}{}{真服了，又一白痴！你的口气像电锯党的。}
+{119}{}{啊……。}
+{120}{}{呃……。}
+{121}{}{啊哦~？}
+{122}{}{别像他们那么单纯，也许我们可以用你做点小“工作”？}
+{123}{}{喔哦……。}
+{124}{}{唔…嗯…。}
+{125}{}{好把，和我们的大姐头说吧。剃刀会真诚的请你为她做事。}
+#{125}{}{Okay, talk to the head wench. Razor'll set you straight as to what ta do.}
+#{126}{}{Stupid and a chicken. I'll put you out of your misery now.}
+#{127}{}{So you are a Ripper! I'd be sorry to hear that, but then I already knew they were stupid. Goodnight!}
+#{128}{}{The Rippers. Those inbreds on the other side of town. Never mind. You're too stupid to know anything.}
+#{129}{}{You want to be a Blade? Good luck. But, if you can find Razor, talk to her about that. Maybe she'll let you get jumped in.}
+#{130}{}{Okay, thanks.}
+#{131}{}{Then I don't want in!}
+#{132}{}{What do you mean, 'jumped in?'}
+#{133}{}{Can't you just make me a Blade?}
+#{134}{}{Your momma never wanted you, and we don't either.}
+#{135}{}{Simple. You'll have to kill someone to get in here. She will tell you who you're gonna need to kill.}
+#{136}{}{Okay, thanks.}
+{126}{}{傻蛋胆小鬼！我现在就解脱你。}
+{127}{}{你怎么和电锯党似的！很抱歉我听说过他们，我早就知道他们都是白痴。晚安！}
+{128}{}{电锯党。他们在城镇的另一边。你那么傻知道什么都没关系。}
+{129}{}{你想加入利刃帮？祝你好运。除此之外，如果你能找到剃刀，告诉她这的情况。或许她能让你加入。}
+{130}{}{好的，谢谢。}
+{131}{}{我还不想加入！}
+{132}{}{你什么意思，“加入？”}
+{133}{}{你不能让我成为利刃帮的人？}
+{134}{}{你妈妈绝对不会要你，我们也是。}
+{135}{}{简单。你只要杀个人就能加入我们。至于要杀谁，她会告诉你。}
+{136}{}{好的，谢谢。}
+
+#{137}{}{Never mind. I don't want to be part of your stupid gang.}
+#{138}{}{No. I can't. I don't lead. I just keep Razor going straight.}
+#{139}{}{Simple. Slaughter our enemies, then we will give Adytum a break.}
+#{140}{}{Who are your enemies?}
+#{141}{}{Fair enough. Will you give me proof of this?}
+#{142}{}{Fighting is wrong! I won't do it!}
+#{143}{}{The Rippers. Those Gun Runners are just a pain, but nothing important. They are a  bunch of soft-sellers, anyway.}
+#{144}{}{Okay, I'll kill the Rippers.}
+#{145}{}{Never mind.}
+#{146}{}{If you plan on doing that, you may want to let Razor know. Otherwise, she will have your head before you get out of here.}
+#{147}{}{Suit yourself. Goodbye.}
+#{148}{}{I don't make the deals. I only make suggestions. Talk to Razor if you want to deal.}
+#{149}{}{Then killing you now would save you many years of suffering.}
+#{150}{}{Then inspect this!}
+#{151}{}{Get lost if you want to live.}
+#{152}{}{Quiet. We are trying to sneak up on the Rippers.}
+#{153}{}{If ya' got the head, take it to Razor. She still wants to play soccer. Otherwise, get out!}
+#{154}{}{Yo, homie!}
+{137}{}{算了！我可不要跟你们傻瓜帮在一起。}
+{138}{}{不，我不带头干。我只想让剃刀帮不走歪路。}
+
+
+
+{139}{}{简单。多杀点我们的敌人，到时候我们就能端了他们的老窝。}
+{140}{}{谁是你们的敌人？}
+{141}{}{非常公平。你有什么可以证明吗？}
+{142}{}{打架是不对的。我不要那么做！}
+{143}{}{电锯党。那些枪手有点麻烦，不过你别担心，他们不过就是一群傻屄卖枪的。}
+{144}{}{好的，我会去杀那些电锯党的。}
+{145}{}{算了。}
+{146}{}{如果你打算那么做，你最好让剃刀知道。否则，在你离开这之前他会把你的脑袋拧下来。}
+{147}{}{随你的便。再见。}
+{148}{}{我不做交易。我就是提个建议. 如果你想交易就和剃刀说去。}
+{149}{}{那么我现在就杀了你，让你从忍受多年的痛苦里解脱出来。}
+{150}{}{那么尝尝这个！}
+{151}{}{不想死就给我滚远点。}
+{152}{}{安静。我们要尝试潜行到电锯党内部。}
+{153}{}{如果你带头，去和剃刀说，她还是会和你玩一把，否则就给我滚远点。}
+{154}{}{呦，真自在！}
