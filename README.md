@@ -1,6 +1,9 @@
 # Fallout-Fixt-localization
 This repository will hold all the translations for my Fallout mod, Fallout Fixt. This will allow tracking on incremental changes and better collaboration for translation teams.
 
+Please note that the non-English files are not and were not created by me. I am simply providing the existing translated files as a resource basis for each translation.
+
+
 -------------------------------------------------
 INSTRUCTIONS FOR TRANSLATORS & TRANSLATIONS:
 -------------------------------------------------
