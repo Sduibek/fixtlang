@@ -137,6 +137,7 @@ This is not a big deal since those files are empty (zero size) but it's importan
  - SKIZZER
  - TEST
 
+ Helpful reference of other files that weren't used in the vanilla game: http://fallout.gamepedia.com/Category:Fallout_cut_dialogue_files
+ 
 
-8) Let me know what name or username you want to be called in the credits :)
-
+8) Don't forget to put yourself into the credits file at ENGLISH_FIXT -> CREDITS.TXT
