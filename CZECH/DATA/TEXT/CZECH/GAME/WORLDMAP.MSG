@@ -1,0 +1,94 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by town and world map
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+#
+# Town map selection names
+#
+# Format:
+#	city type.
+#	Up to 10 selection names
+#
+# Vault 13
+{200}{}{Vstup do jeskynì}
+{201}{}{Vstup}
+{202}{}{Obytné prostory}
+{203}{}{Velín}
+#
+# Vault 15
+{210}{}{Vılez do pouštì}
+{211}{}{Jeskynì/vstup}
+{212}{}{Obytné prostory}
+{213}{}{Velín}
+#
+# Shady Sands
+{220}{}{Vstup}
+{221}{}{Zahrada}
+{222}{}{Dobytèí ohrada}
+#
+# Junktown
+{230}{}{Vstup}
+{231}{}{Crash House}
+{232}{}{Kasino}
+#
+# Raiders
+{240}{}{Základna}
+#
+# Necropolis
+{250}{}{Hotel}
+{251}{}{Síò}
+{252}{}{Vodárna}
+#
+# Hub
+{260}{}{Vstup}
+{261}{}{Centrum}
+{262}{}{Pahorky}
+{263}{}{Staré mìsto}
+{264}{}{Kupci}
+{265}{}{Jeskynì}
+#
+# Brotherhood
+{270}{}{Vstup}
+{271}{}{1. patro}
+{272}{}{2. patro}
+{273}{}{3. patro}
+{274}{}{4. patro}
+#
+# Military Base
+{280}{}{Vstup}
+{281}{}{Pevnost 1. patro}
+{282}{}{Pevnost 2. patro}
+{283}{}{Nádre 1. patro}
+{284}{}{Nádre 2. patro}
+#
+# Glow
+{290}{}{Kráter}
+{291}{}{1. patro}
+#
+# Boneyard
+{300}{}{Adytum}
+{301}{}{Centrum}
+{302}{}{Knihovna}
+{303}{}{Tvrz}
+{304}{}{Skladištì}
+#
+# Cathedral
+{310}{}{Vstup}
+{311}{}{Vnitøek}
+
+# Misc messages
+{500}{}{Pøibylo ti 10,000 bodù zkušenosti!}
+{501}{}{Ruiny}
+
+#
+# Terrain type names for world map hover button
+#
+{1000}{}{Pouš}
+{1001}{}{Hory}
+{1002}{}{Mìsto}
+{1003}{}{Pobøeí}
+{1004}{}{Neznámé}ÿÿÿ Unknown/visited city
+

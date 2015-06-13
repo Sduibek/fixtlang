@@ -1,0 +1,244 @@
+#
+# Messages for Prototypes
+#
+# strings
+#
+{10}{}{<Nic>}
+
+#
+# Material Types
+#
+{100}{}{Sklo}
+{101}{}{Kov}
+{102}{}{Plastik}
+{103}{}{Døevo}
+{104}{}{Hlína}
+{105}{}{Kámen}
+{106}{}{Cement}
+{107}{}{Kùže}
+
+#
+# Item Types
+#
+{150}{}{Zbroj}
+{151}{}{Nádoba}
+{152}{}{Droga}
+{153}{}{Zbraò}
+{154}{}{Støelivo}
+{155}{}{Pøedmìt}
+{156}{}{Klíè}
+
+#
+# Scenery Types
+#
+{200}{}{Vchod}
+{201}{}{Schody}
+{202}{}{Výtah}
+{203}{}{Žebøík dole}
+{204}{}{Žebøík nahoøe}
+{205}{}{Normální místo}
+
+#
+# Damage Code Types
+#
+{250}{}{normální}
+{251}{}{laser}
+{252}{}{oheò}
+{253}{}{plasma}
+{254}{}{elektøina}
+{255}{}{pulzní}
+{256}{}{exploze}
+
+#
+# Caliber Types for weapons
+#
+{300}{}{Nic}
+{301}{}{Rakety}
+{302}{}{Náplò do plamenometu}
+{303}{}{Energetické èlánky C}
+{304}{}{Energetické èlánky D}
+{305}{}{.223}
+{306}{}{5mm}
+{307}{}{.40}
+{308}{}{10mm}
+{309}{}{.44l}
+{310}{}{14mm}
+{311}{}{12-ráže}
+{312}{}{9mm}
+{313}{}{BB}
+
+#
+# Race Types
+#
+{350}{}{Kavkazan}
+{351}{}{Afrièan}
+
+#
+# Body Types
+#
+{400}{}{Dvounožec}
+{401}{}{Ètyønožec}
+{402}{}{Robot}
+#
+# Kill Types names
+#
+{450}{}{Muži}
+{451}{}{Ženy}
+{452}{}{Dìti}
+{453}{}{Supermutanti}
+{454}{}{Ghúlové}
+{455}{}{Brahmini}
+{456}{}{Radškorpióni}
+{457}{}{Potkani}
+{458}{}{Slizouni}
+{459}{}{Kentauøi}
+{460}{}{Roboti}
+{461}{}{Psi}
+{462}{}{Kudlanky}
+{463}{}{Páraèi}
+{464}{}{Vùdce}       # Not displayed!
+#
+# Kill type info descriptions
+#
+{465}{}{Tato øádka ukazuje poèet mužù, které jsi bìhem tvého putování zabil.}
+{466}{}{Tato øádka ukazuje poèet žen, které jsi bìhem tvého putování zabil.}
+{467}{}{Tato øádka ukazuje poèet dìtí, které jsi bìhem tvého putování zabil. Hulváte.}
+{468}{}{Poèet supermutantù, které jsi bìhem svého dobrodružství odstranil ze svìta.}
+{469}{}{Tato øádka ukazuje poèet ghúlù, které jsi zabil bìhem tvého putování.}
+{470}{}{Tato øádka ukazuje poèet brahminù (zmutovaných krav), které jsi bìhem hry naporcoval.}
+{471}{}{Poèet zmutovaných radškorpionù, které jsi bìhem svého putování odeslal na onen svìt.}
+{472}{}{Poèet zabitých potkanù. Vèetnì všech poddruhù této krysí rodiny.}
+{473}{}{Množství totálnì umrtvených slizounù.}
+{474}{}{Poèet záøezù za mrtvé kentaury.}
+{475}{}{Tohle je poèet totálnì rozmontovaných robotù, které jsi poslal do køemíkového nebe.}
+{476}{}{Celkový poèet psù expresnì odeslaných do velkého psince v nebi.}
+{477}{}{Tato øádka ukazuje celkový poèet zabitých kudlanek, nebo jiného, zmutovaným kudlankám podobného hmyzu, který jsi bìhem hry rozmaèkal mezi prsty.}
+{478}{}{Celkový poèet zabitých Páraèù a jejich potìru.}
+{479}{}{Nezobrazeno. Chyba!}
+
+#
+# Use text
+#
+{480}{}{%s.}
+
+#
+# Use Container text
+#
+{485}{}{Prohledal jsi objekt: %s.}
+{486}{}{Zavøel jsi objekt: %s.}
+{487}{}{Je to zamèené.}
+
+#
+# Look text
+#
+{490}{}{%s.}
+{491}{}{Vidíš mrtvolu. Býval to: %s.}
+{492}{}{Vidíš zbytky. Býval to: %s.}
+{493}{}{Nevidíš nic zajímavého.}
+
+#
+# Examine text
+#
+{500}{}{mrtvý}
+{501}{}{skoro mrtvý}
+{502}{}{tìžce zranìn}
+{503}{}{zranìn}
+{504}{}{nezranìn}
+
+#
+# Examine text messages
+#
+{518}{}{%s }
+{519}{}{%s %s }
+{520}{}{%s.}
+{521}{}{%s %s.}
+{522}{}{Vypadá: %s.}
+{523}{}{Vypadá: %s.}
+{524}{}{Vypadá: %s.}
+# (note: hps are short for hit-points)
+{525}{}{%s má %d/%d hit bodù.}
+# (note: this is for guns that have ammo)
+{526}{}{Kapacita zásobníku je %d/%d výstøelù. Používá støelivo: %s. }
+{530}{}{a má zmrzaèené konèetiny.}  # These append to lines 500-504
+{531}{}{, ale má zmrzaèené konèetiny.} #but has crippled limbs.
+{532}{}{a má zmrzaèené konèetiny.}
+{533}{}{, ale má zmrzaèené konèetiny.} #but have crippled limbs.
+# (note: hps are short for hit-points)
+{535}{}{Má %d/%d hit bodù}
+{536}{}{Má %d/%d hit bodù}
+{537}{}{Má %d/%d hit bodù}
+{540}{}{Váha: %d liber.}
+{541}{}{Váha: %d liber.}
+{544}{}{, }
+{545}{}{.}
+{546}{}{ a má %s.}
+{547}{}{ a má %s s %d/%d náboji %s.}
+
+#
+# Examine text error messages
+#
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
+
+#
+# Use text messages
+#
+{580}{}{Použij si pøedmìt: %s.}
+{581}{}{Použil jsi pøedmìt: %s na objekt: %s.}
+{582}{}{Nic to neudìlalo.}
+{583}{}{Ke svému úleku jsi zjistil, že se díváš již na mrtvolu.}
+{584}{}{Když jsi se sehnul, poznal jsi, že se již skláníš na mrtvolou.}
+{585}{}{Bohužel, pøíliš pozdì...} # This is relating to a critter being dead.
+{586}{}{Tohle na mrtvolách nebude fungovat.}
+{587}{}{Zapálil jsi svìtlici.}
+{588}{}{Svìtlice je již zapálená.}
+{589}{}{Nastavil jsi èasovaè.}
+{590}{}{Odpoèítávání již probíhá!}
+
+#
+# Experience-Point messages
+#
+{620}{}{Získal jsi %d zkušenostních bodù za zabití nepøítele: %s.}
+{621}{}{%s jsi získal %d zkušenostních bodù.}
+{622}{}{Za poražení tvých nepøátel }  # 622-626 prepend to line 621
+{623}{}{Za zabití tvých protivníkù }
+{624}{}{Vyhrál jsi v souboji a tím }
+{625}{}{Za rozdrcení nepøátel }
+{626}{}{Za znièení nepøátel bez jediného utrpìného škrábnutí}
+
+#
+# Dialog messages
+#
+{650}{}{[OK]}
+{651}{}{[Více]}
+{652}{}{Více}
+{653}{}{[Zpátky]}
+{654}{}{Zpátky}ÿÿÿÿÿ# changed number from 653
+{655}{}{Pokraèovat}ÿÿÿÿÿ new
+{656}{}{Err...}ÿÿÿÿ new
+{660}{}{Nic nevidíš.}
+{661}{}{Pøíliš daleko.}
+
+#
+# Not Enough AP message
+#
+{700}{}{Nemáš dostatek akèních bodù.}
+#
+# Book messages
+#
+{800}{}{Pøeèetl sis knihu.}
+{801}{}{Nic nového jsi se nenauèil.}
+{802}{}{Prohloubil jsi své vìdecké vìdomosti.}
+{803}{}{Nauèil jsi hodnì o opravování ponièené elektroniky.}
+{804}{}{Nauèil jsi se, jak lépe léèit zranìní.}
+{805}{}{Nauèil jsi se, jak lépe zacházet se zbranìmi.}
+{806}{}{Nauèil jsi se, jak lépe pøežít v divoèinì.}
+#
+# Use on messages (and some extra stuff that Jesse needed)
+#
+{900}{}{Zásoby v doktorovì kuføíku došly.}
+{901}{}{Zásoby v balíèku první pomoci došly.}
+{902}{}{Tohle nemùžeš udìlat bìhem souboje.}
+{903}{}{Tato osoba s tebou nebude obchodovat.}
+{904}{}{Tato osoba ti nemá co øíct.}
+{905}{}{Tento pøedmìt nemùžeš sebrat, protože už nic víc neuneseš.}
