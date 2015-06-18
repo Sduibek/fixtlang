@@ -1,34 +1,34 @@
-#
+###############################################################
+#             https://github.com/Sduibek/myattrib             #
+###############################################################
+
 # The built-in macro attribute "binary" is equivalent to -diff -merge -text
-#
+
 # Auto-detect text files and perform LF normalization
 * text=auto
 
-# Custom for FALLOUT scripts
-*.ssl  diff=pascal
-*.Ssl  diff=pascal
-*.SSL  diff=pascal
-*.h  diff=pascal
-*.H  diff=pascal
+# C Plus Plus
+*.cpp  diff=cpp
+*.filters  diff=cpp
+*.vcxproj  diff=cpp
 
-# Custom for Visual Studio
-*.cs  diff=csharp
+# C Sharp
 *.config  diff=csharp
+*.cs  diff=csharp
 *.csproj  diff=csharp
 *.manifest  diff=csharp
 *.resx  diff=csharp
 *.settings  diff=csharp
 *.user  diff=csharp
 *.xml  diff=csharp
-*.cpp  diff=cpp
-*.filters  diff=cpp
-*.vcxproj  diff=cpp
 
 # Hypertext markup
 *.html  diff=html
 *.htm  diff=html
+*.odc  diff=html
+*.ODC  diff=html
 
-# Standard to msysgit
+# Documents
 *.diz  diff=astextplain
 *.DIZ  diff=astextplain
 *.doc  diff=astextplain
@@ -39,16 +39,52 @@
 *.DOT  diff=astextplain
 *.log  diff=astextplain
 *.LOG  diff=astextplain
+*.markdown  diff=astextplain
+*.md  diff=astextplain
+*.MD  diff=astextplain
 *.pdf  diff=astextplain
 *.PDF  diff=astextplain
+*.rdoc  diff=astextplain
+*.RDOC  diff=astextplain
 *.rtf  diff=astextplain
 *.RTF  diff=astextplain
 *.txt  diff=astextplain
 *.TXT  diff=astextplain
+*.wri  diff=astextplain
+*.WRI  diff=astextplain
+
+# Spreadsheets
+*.csv  diff=astextplain
+*.CSV  diff=astextplain
+*.tsv  diff=astextplain
+*.TSV  diff=astextplain
+*.xls  diff=astextplain
+*.XLS  diff=astextplain
+*.xlsx  diff=astextplain
+*.XLSX  diff=astextplain
+
+# Non-document text
+*.asm  diff=astextplain
+*.ASM  diff=astextplain
+*.bat  diff=astextplain
+*.BAT  diff=astextplain
+*.cfg  diff=astextplain
+*.CFG  diff=astextplain
+*.chm  diff=astextplain
+*.CHM  diff=astextplain
+*.coffee  diff=astextplain
+*.COFFEE  diff=astextplain
+*.inf  diff=astextplain
+*.INF  diff=astextplain
+*.ini  diff=astextplain
+*.INI  diff=astextplain
+*.reg  diff=astextplain
+*.REG  diff=astextplain
 
 # Binaries
 *.7z  binary -delta
 *.7Z  binary -delta
+*.application  binary -delta
 *.bz2  binary -delta
 *.bZ2  binary -delta
 *.cab  binary -delta
@@ -65,6 +101,8 @@
 *.JPEG  binary -delta
 *.jpg  binary -delta
 *.JPG  binary -delta
+*.mid  binary -delta
+*.MID  binary -delta
 *.mp3  binary -delta
 *.MP3  binary -delta
 *.msi  binary -delta
@@ -83,6 +121,40 @@
 *.TTF  binary -delta
 *.zip  binary -delta
 *.ZIP  binary -delta
+
+###############################
+# Fallout scripts/source
+###############################
+
+*.ssl  diff=pascal
+*.Ssl  diff=pascal
+*.SSL  diff=pascal
+*.h  diff=pascal
+*.H  diff=pascal
+
+###############################
+# Fallout text
+###############################
+
+# Premade character stories
+*.bio  diff=astextplain
+*.BIO  diff=astextplain
+
+# Global variable definitions
+*.gam  diff=astextplain
+*.GAM  diff=astextplain
+
+# Lists of files or scripts
+*.lst  diff=astextplain
+*.LST  diff=astextplain
+
+# Dialogs, UI texts, other messages
+*.msg  diff=astextplain
+*.MSG  diff=astextplain
+
+# Movie subtitles
+*.sve  diff=astextplain
+*.SVE  diff=astextplain
 
 ###############################
 # Fallout binaries
@@ -156,27 +228,3 @@
 # Save files
 *.sav  binary -delta
 *.SAV  binary -delta
-
-###############################
-# Fallout text
-###############################
-
-# Premade character stories
-*.bio  diff=astextplain
-*.BIO  diff=astextplain
-
-# Global variable definitions
-*.gam  diff=astextplain
-*.GAM  diff=astextplain
-
-# Lists of files or scripts
-*.lst  diff=astextplain
-*.LST  diff=astextplain
-
-# Dialogs, UI texts, other messages
-*.msg  diff=astextplain
-*.MSG  diff=astextplain
-
-# Movie subtitles
-*.sve  diff=astextplain
-*.SVE  diff=astextplain
