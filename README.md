@@ -1,51 +1,20 @@
-# Fallout-Fixt-localization
-This repository will hold all the translations for my Fallout mod, Fallout Fixt. This will allow tracking on incremental changes and better collaboration for translation teams.
+# Fallout Fixt language translations: fixtlang
+This repository will hold all the translations for my Fallout mod, Fallout Fixt, into various non-English languages. This will allow tracking on incremental changes and better collaboration for translation teams.
 
-Please note that the non-English files are not and were not created by me. I am simply providing the existing translated files as a resource basis for each translation.
+Please note that the base non-English files are not and were not created by me. I am simply providing the existing translated files as a resource basis for each translation.
 
+## INSTRUCTIONS FOR TRANSLATORS:
 
--------------------------------------------------
-INSTRUCTIONS FOR TRANSLATORS & TRANSLATIONS:
--------------------------------------------------
+<b>1)</b>  This repository contains some useful information and utilities that may help in your efforts:
 
-0)  GitHub will not let me commit or upload any files with a tilde (~) in the file name.
-
-This is not a big deal since those files are empty (zero size) but it's important to note if you see these files missing, to not worry about it:
-
-	ANIMFR~1.MSG
-	BARTER~1.MSG
-	CHILDR~1.MSG
-	GLOW4W~1.MSG
-	MARCEL~1.MSG
-	MICHAE~1.MSG
-
-
-1)  Check this repository periodically as I may add more tools over time. The link contains information and files on:
-
-- Quotation marks and elipsis being changed to their "dumb" counterparts.
+- Information about quotation marks and elipsis being changed to their "dumb" counterparts.
 - Two tools for converting graphics (such as interface) into editable file types. If you're working on translating Splash screens, you can convert to/from RIX (splash screen) file format using viewer.exe, Titanium browser can export FRM (Fallout graphics) to BMP/GIF/etc.
 - Registry entries to associate Fallout dialog files with text-editors.  Most files are in *.MSG format, and cutscene subtitles are in *.SVE format.
 - (NOT YET ADDED) templates for splash screens by Luffier, and text formatting scripts by Luffier
 - Archive of all Fixt text and dialog back to alpha 6.0
 
-	https://github.com/Sduibek/Fallout-Fixt-localization
+<b>2)</b> If you don't use them already, the programs Windows Grep, Beyond Compare, Notepad++ and FolderMatch are very useful. I've also heard good things about Ultra Edit although I don't personally use it.
 
-
-2)  Unless we discussed otherwise, you should have been provided access to this project as a Collaborator, but it's open to anyone to make changes.
-    Typically this repo will contain:
-    
-- ENGLISH default text files from v1.2 Fallout1 ("English Original")
-- Files in your language ("{language} Original")  -  I have provided all I could find, it's possible that more exist. These may be in multiple folders if there was different translations, or multiple translations for patches/mods.
-- Graphics files, if available, such as Splash screens and Interface files.
-- Downloaded archives and/or executables of translations in your language, if available.
-
-
-3) The newest text and dialog files for Fallout Fixt, as well as this readme file, can always be found at:
-
-	https://github.com/Sduibek/Fallout-Fixt-localization
-
-
-4) If you don't use them already, the programs Windows Grep, Beyond Compare, Notepad++ and FolderMatch are very useful. I've also heard good things about Ultra Edit although I don't personally use it.
 	BEYOND COMPARE:  http://www.scootersoftware.com/download.php
 	WINDOWS GREP:  http://www.wingrep.com/download.htm
 	FOLDERMATCH:  http://www.foldermatch.com/fmdownload.htm
@@ -54,71 +23,68 @@ This is not a big deal since those files are empty (zero size) but it's importan
 
    If you know of a better program or other useful ones, please let me know.
 
-
-5) Some files have been renamed, others merged, and others are brand new with Fixt. If you compare folders, that's why you will see these differences.
+<b>3)</b> Some files have been renamed, others merged, and others are brand new with Fixt. If you compare folders, that's why you will see these differences.
    Please use these filenames, so that filenames match with Fixt. If you don't, users will get errors and probably crashes too!
 
+New dialog files and filenames compared to a Vanilla installation:
 
- The full list of new dialig files compared to a Vanilla installation is at the bottom of this text file.
+ - ASSBLOW is now named KALNOR
 
+ - BLADE contents copied to INBLADE. They are duplicate of each other, and this is intentional.
 
-"ASSBLOW" is now named "KALNOR"
+ - BOSASIS is now named BOSASIST
+ - BOSDOCTR was wiped, it's not needed.
+ - BOSLORI is now named BOSLORRI
 
-"BLADE" contents copied to "INBLADE". They are duplicate of each other, and this is intentional.
+ - BVBROKEN
 
-"BOSASIS" is now named "BOSASIST"
-"BOSDOCTR" was wiped, it's not needed.
-"BOSLORI" is now named "BOSLORRI"
+ - BVLAD contents are now in BV2VAULT
 
-"BVBROKEN"
+ - COW contents are now in BRAHMIN
 
-"BVLAD" contents are now in "BV2VAULT"
+ - CRVNTEAM is new, it's from Restoration Mod by Wasteland Ghost. Caravan team members once arrived at destination.
 
-"COW" contents are now in "BRAHMIN"
+ - DARL contents are now in DARREL (it was just a duplicate anyway)
 
-"CRVNTEAM" is new, it's from Restoration Mod by Wasteland Ghost. Caravan team members once arrived at destination.
+ - DEMOCOMP contents are now in DEADCOMP
 
-"DARL" contents are now in "DARREL" (it was just a duplicate anyway)
+ - DEMODOG contents are now in ALLDOGS
+ - DOG2    contents are now in ALLDOGS
+ - DOGMEAT contents are now in ALLDOGS
 
-"DEMOCOMP" contents are now in "DEADCOMP"
+ - GENGHOUL contents are now in HOTGHOUL
 
-"DEMODOG" contents are now in "ALLDOGS"
-"DOG2"    contents are now in "ALLDOGS"
-"DOGMEAT" contents are now in "ALLDOGS"
+ - GENLOCK contents are now in LOCKER
 
-"GENGHOUL" contents are now in "HOTGHOUL"
+ - GHOUL contents are now in MANAGER
 
-"GENLOCK" contents are now in "LOCKER"
+ - HHOOKER contents are now in HHOOKERA
 
-"GHOUL" contents are now in "MANAGER"
+ - JER contents are now in JEREM (it was just a duplicate anyway)
 
-"HHOOKER" contents are now in "HHOOKERA"
+ - JUNKDOG contents are now in ALLDOGS
 
-"JER" contents are now in "JEREM" (it was just a duplicate anyway)
+ - LORRAINE is now used instead of the various files with misspellings of her name.
 
-"JUNKDOG" contents are now in "ALLDOGS"
+ - RAIDGRD was wiped, it was just a duplicate.
 
-"LORRAINE" is now used instead of the various files with misspellings of her name.
+ - SENTRY is new, it's from Restoration Mod by Wasteland Ghost, it's a BoS Paladin after invasion.
 
-"RAIDGRD" was wiped, it was just a duplicate.
+ - STRANGER is new, Mysterious Stranger's lines used to be in GENCHAT
 
-"SENTRY" is new, it's from Restoration Mod by Wasteland Ghost, it's a BoS Paladin after invasion.
+ - STUDENT is new, it's for Fixt so that trainees at Brotherhood actually respond to being clicked on.
 
-"STRANGER" is new, Mysterious Stranger's lines used to be in GENCHAT
-
-"STUDENT" is new, it's for Fixt so that trainees at Brotherhood actually respond to being clicked on.
-
-"MAXDISK" is new, it's for Fixt. Holodisk from General Maxson (Brotherhood of Steel). [Entries pulled from ARTIFACT.MSG]
-"SOPDISK" is new, it's for Fixt. Holodisk from Sophia (Brotherhood of Steel). [Entries pulled from ARTIFACT.MSG]
-"REGDISK" is new, it's for Fixt. Holodisk for the Regulators quest with Jon.
+ - MAXDISK is new, it's for Fixt. Holodisk from General Maxson (Brotherhood of Steel). [Entries pulled from ARTIFACT.MSG]
+ - SOPDISK is new, it's for Fixt. Holodisk from Sophia (Brotherhood of Steel). [Entries pulled from ARTIFACT.MSG]
+ - REGDISK is new, it's for Fixt. Holodisk for the Regulators quest with Jon.
 
 
-6) For the files TRAIT.MSG, PERK.MSG, PRO_MISC.MSG, EDITOR.MSG, you must use the versions from the *subfolders* within GAME folder! The naming of the files should be clear, but please ask me if you have questions. Usually they are not much different; you can compare which parts differ with BeyondCompare.
+<b>4)</b> For the files TRAIT.MSG, PERK.MSG, PRO_MISC.MSG, EDITOR.MSG, you must use the versions from the *subfolders* within GAME folder! The naming of the files should be clear, but please ask me if you have questions. Usually they are not much different; you can compare which parts differ with BeyondCompare.
 
  - Please translate both copies of the files. Either of them can be chosen by user during install so they both need to be translated. There should be 3 subdirectories; one each for Trait Names, Addiction Titles, and Exit Grid Descriptions.
 
 
-7) Files from DIALOG folder you can safely leave un-translated. This includes files from the demo:
+<b>5)</b> Files from DIALOG folder you can safely leave un-translated. This includes files from the demo:
 
  - BAKA
  - BARSTOW
@@ -137,7 +103,7 @@ This is not a big deal since those files are empty (zero size) but it's importan
  - SKIZZER
  - TEST
 
- Helpful reference of other files that weren't used in the vanilla game: http://fallout.gamepedia.com/Category:Fallout_cut_dialogue_files
+Helpful reference of other files that weren't used in the vanilla game: http://fallout.gamepedia.com/Category:Fallout_cut_dialogue_files
  
 
-8) Don't forget to put yourself into the credits file at ENGLISH_FIXT -> CREDITS.TXT
+<b>6)</b> Don't forget to put yourself into the credits file at fixtlang/ENGLISH_FIXT/DATA/TEXT/ENGLISH/CREDITS.TXT :)
