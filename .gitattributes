@@ -178,20 +178,20 @@
 *.EDG  binary -delta
 
 # Graphics
-*.fr0  binary -delta
-*.FR0  binary -delta
-*.fr1  binary -delta
-*.FR1  binary -delta
-*.fr2  binary -delta
-*.FR2  binary -delta
-*.fr3  binary -delta
-*.FR3  binary -delta
-*.fr4  binary -delta
-*.FR4  binary -delta
-*.fr5  binary -delta
-*.FR5  binary -delta
-*.frm  binary -delta
-*.FRM  binary -delta
+*.fr0  binary
+*.FR0  binary
+*.fr1  binary
+*.FR1  binary
+*.fr2  binary
+*.FR2  binary
+*.fr3  binary
+*.FR3  binary
+*.fr4  binary
+*.FR4  binary
+*.fr5  binary
+*.FR5  binary
+*.frm  binary
+*.FRM  binary
 
 # Saved characters
 *.gcd  binary -delta
@@ -222,8 +222,8 @@
 *.PRO  binary -delta
 
 # Splash screens
-*.rix  binary -delta
-*.RIX  binary -delta
+*.rix  binary
+*.RIX  binary
 
 # Save files
 *.sav  binary -delta
