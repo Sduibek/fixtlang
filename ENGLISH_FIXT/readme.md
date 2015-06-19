@@ -40,3 +40,9 @@ These files should be present and translated in your translation, with the exact
 
 	\DATA\TEXT\{LANGUAGE}\GAME\Trait Description versions (TRAIT.MSG)\TRAIT - original descriptions.MSG
 	\DATA\TEXT\{LANGUAGE}\GAME\Trait Description versions (TRAIT.MSG)\TRAIT - Sduibek detailed descriptions.MSG
+
+## NOTES:
+
+ - These files will very likely have content that is newer than the content of the current publicly-available release of Fixt.
+
+ - For files from the public releases of Fixt, check fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/
