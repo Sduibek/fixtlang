@@ -1,0 +1,93 @@
+#
+# PLAYERS WON'T SEE ANY OF THESE
+#    UNLESS THEY ARE TESTERS
+# So it's probably not necessary to translate them.
+#
+
+{100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
+
+{200}{}{How may I Cheat you today?}
+
+{101}{}{Roll back the clock.}
+{102}{}{Okay. How much?}
+{103}{}{One second  (10 ticks)}
+{104}{}{One minute}
+{105}{}{One hour}
+{106}{}{One day}
+{107}{}{One week}
+{108}{}{One month (30 days)}
+{109}{}{One year}
+{110}{}{Nevermind.}
+
+{111}{}{Turn forward the clock.}
+{112}{}{Okay. How much?}
+{113}{}{One second  (10 ticks)}
+{114}{}{One minute}
+{115}{}{One hour}
+{116}{}{One day}
+{117}{}{One week}
+{118}{}{One month (30 days)}
+{119}{}{One year}
+{120}{}{Nevermind.}
+
+{121}{}{Give me all the keys in the game.}
+{122}{}{In a backpack or directly in your inventory?}
+{123}{}{In a backpack.}
+{124}{}{In my inventory.}
+{125}{}{Nevermind.}
+
+{201}{}{Experience Points.}
+{202}{}{Damage, Poison, Radiation.}
+{203}{}{Poison}
+{204}{}{Radiation}
+{205}{}{Delete all items from my inventory - includes equipped items.}
+{206}{}{Toggle "BUG FIXES ONLY" global variable (gvar 0)}
+{207}{}{Nothing. [close dialog]}
+
+{208}{}{"Fixes Only" mode currently ENABLED. Disable?}
+{209}{}{Yes, Disable it.}
+{210}{}{No. [back]}
+{211}{}{"Fixes Only" mode currently DISABLED. Enable?}
+{212}{}{Yes, Enable.}
+
+{213}{}{before: }
+{214}{}{after: }
+
+{215}{}{[Hands you a Burrito Supreme] Enjoy your Grade D Beef.}
+{216}{}{Now you glow like a 50-rad light bulb.}
+
+{217}{}{Done.}
+
+{218}{}{EndGame Mod variables reset. Please try to enter Vault 13 again.}
+
+{219}{}{You have died. The Vault is doomed.}
+
+{221}{}{[Grinning Visciously] I was happy to 'help' you.}
+{222}{}{How might I abuse you today?}
+{223}{}{Cripple Left Leg}
+{224}{}{Cripple Right Leg}
+{225}{}{Cripple Left Arm}
+{226}{}{Cripple Right Arm}
+{227}{}{Blind Me }
+{228}{}{Don't hurt me. [wimper]}
+
+{229}{}{TEST ROLLS (mmm, rolls)}
+{230}{}{Done.}
+{231}{}{message here}
+
+{232}{}{500}
+{233}{}{1 thousand}
+{234}{}{5 thousand}
+{235}{}{10 thousand}
+{236}{}{50 thousand}
+{237}{}{210 thousand}
+{238}{}{negative 5 thousand}
+{239}{}{Nevermind}
+{240}{}{Ok, you have them.}
+{241}{}{How many Exp points do you want?}
+
+#
+# This one is for the option in CARVLEAD.SSL that shouldn't show up
+#
+{220}{}{CONTACT SDUIBEK IF YOU SEE THIS MESSAGE}
+

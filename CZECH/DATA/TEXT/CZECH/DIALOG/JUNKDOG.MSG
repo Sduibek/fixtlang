@@ -2,109 +2,111 @@
 {101}{}{Vidíš psa.}
 {102}{}{Haf!}
 {103}{}{Vrrr!}
-{104}{}{Získal jsi 100 bodù zkušenosti za vyøešení Philova psího hlavolamu.}
+{104}{}{Získáváš 100 bodù zkušenosti za vyøešení Philova psího hlavolamu.}
 {105}{}{Zdá se, že sis našel nového pøítele.}
 {106}{}{Pes tì má za svého pána.}
+{107}{}{Získáváš 35 bodù zkušenosti za vyøešení Philova psího hlavolamu.}
 
-{110}{}{Hauuu-hauuu!}
-{111}{}{Tak pojï, kamaráde.}
-{112}{}{Zùstaò tady a èekej.}
+{110}{}{Haf-haf!}
+{111}{}{K noze, kluku.}
+{112}{}{Zùstaò a èekej, rozumíš?}
 {113}{}{Hodnej pejsek.}
+{114}{}{Pejsek!!!}
 
-{970}{}{Haf?}        # added by Alchemist
-{971}{}{Haf!}        
+{970}{}{Haf?}
+{971}{}{Haf!}
 {972}{}{Haf-haf!}
 
-{980}{}{Haf?}        # added by Alchemist
-{981}{}{Haf?}
+{980}{}{Haf?}
+{981}{}{Raf?}
 {982}{}{Haf?}
 
-#Automatically generated with MSGtools by ALCHEMIST
-{1000}{}{Cip}
+{1000}{}{Water Chip}
 {1001}{}{Junktown}
-{1002}{}{Hub}
-{1003}{}{Deti}
-{1004}{}{Nekropolis}
+{1002}{}{The Hub}
+{1003}{}{Children of the Cathedral}
+{1004}{}{Necropolis}
 {1005}{}{Adytum}
-{1006}{}{Nasledovnici}
-{1007}{}{Katedrala}
-{1008}{}{Rippers}
-{1009}{}{Blades}
-{1010}{}{GunRunneri}
-{1011}{}{Pohrebiste}
+{1006}{}{The Followers}
+{1007}{}{The Cathedral}
+{1008}{}{The Rippers}
+{1009}{}{The Blades}
+{1010}{}{The Gun Runners}
+{1011}{}{The Boneyard}
 {1012}{}{Shady Sands}
-{1013}{}{Parac}
-{1014}{}{Vudce}
-{1015}{}{Nasledovnici}
-{1016}{}{Vudce}
-{1017}{}{Obchod}
-{1018}{}{Krater}
-{1019}{}{Porucik}
+{1013}{}{Deathclaw}
+{1014}{}{Master}
+{1015}{}{Followers of the Apocalypse}
+{1016}{}{The Master}
+{1017}{}{Store}
+{1018}{}{The Glow}
+{1019}{}{Lieutenant}
 {1020}{}{Nightkin}
-{1021}{}{Supermutanti}
-{1022}{}{Psychika}
-{1023}{}{Experimenty}
+{1021}{}{Super Mutants}
+{1022}{}{Psychics}
+{1023}{}{Experiments}
 {1024}{}{Police}
-{1025}{}{Obchodnici}
-{1026}{}{Crimson}
-{1027}{}{Obchodnici}
-{1028}{}{Bod}
-{1029}{}{Bratrstvo}
-{1030}{}{Pohrebiste}
-{1031}{}{Veze}
-{1032}{}{Mesto}
-{1033}{}{Centrum}
-{1034}{}{Vysiny}
+{1025}{}{Water Merchants}
+{1026}{}{Crimson Caravans}
+{1027}{}{Far Go Traders}
+{1028}{}{Hot Spot}
+{1029}{}{Brotherhood of Steel}
+{1030}{}{LA Boneyard}
+{1031}{}{Water Tower}
+{1032}{}{Old Town}
+{1033}{}{Downtown}
+{1034}{}{The Heights}
 {1035}{}{Set}
-{1036}{}{vodarna}
-{1037}{}{Hala}
+{1036}{}{Watershed}
+{1037}{}{Hall}
 {1038}{}{Killian}
 {1039}{}{Gizmo}
 {1040}{}{Casino}
-{1041}{}{Valka}
-{1042}{}{Exodus}
-{1043}{}{Armada}
-{1044}{}{Bratrstvo}
-{1045}{}{Obchodnici}
-{1046}{}{Karavany}
+{1041}{}{The War}
+{1042}{}{The Exodus}
+{1043}{}{The Strange Army}
+{1044}{}{The Brotherhood}
+{1045}{}{The Merchants}
+{1046}{}{The Missing Caravans}
 {1047}{}{Initiates}
-{1048}{}{vedci}
-{1049}{}{Rytiri}
-{1050}{}{Paladinove}
-{1051}{}{Khanove}
+{1048}{}{Scribes}
+{1049}{}{Knights}
+{1050}{}{Paladins}
+{1051}{}{Khans}
 {1052}{}{Garl}
 {1053}{}{Tandi}
 {1054}{}{Zimmerman}
-{1055}{}{Regulatori}
-{1056}{}{Sberaci}
+{1055}{}{The Regulators}
+{1056}{}{The Scavs}
 {1057}{}{Nicole}
 {1058}{}{Razor}
-{1059}{}{Ohen}
-{1060}{}{Jednota}
+{1059}{}{Holy Flame}
+{1060}{}{The Unity}
 {1061}{}{Morpheus}
-{1062}{}{Mutanti}
-{1063}{}{Zakladna}
-{1064}{}{Nadrze}
+{1062}{}{Mutants}
+{1063}{}{Military Base}
+{1064}{}{The Vats}
 {1065}{}{Aradesh}
 {1066}{}{Seth}
 {1067}{}{Razlo}
 {1068}{}{Vault}
-{1069}{}{Voda}
-{1070}{}{Dozorce}
-{1071}{}{Cip}
-{1072}{}{Vodni}
-{1073}{}{Vault-13}
-{1074}{}{Vault13}
-{1075}{}{Medik}
-{1076}{}{Leceni}
-{1077}{}{Knihovna}
+{1069}{}{Water}
+{1070}{}{Overseer}
+{1071}{}{Chip}
+{1072}{}{Waterchip}
+{1073}{}{Vault 13}
+{1074}{}{Vault 13}
+{1075}{}{Medic}
+{1076}{}{Healing}
+{1077}{}{Library}
 {1078}{}{Alya}
 {1079}{}{Diana}
 {1080}{}{Gwen}
 {1081}{}{Petrox}
 {1082}{}{Tolya}
-{1083}{}{Chlast}
-{1084}{}{Drogy}
+{1083}{}{Booze}
+{1084}{}{Drugs}
+
 {1100}{}{Haf?}
 {1101}{}{Haf?}
 {1102}{}{Haf?}

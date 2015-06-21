@@ -270,7 +270,9 @@ myslel.}
 {1164}{}{Nevím o tom nic víc než ty.}
 {1165}{}{Obchodníci obchodují s Adytem jenom nìkdy a prodávají Gun Runnerùm.}
 
-{1999}{}{Zaèínám být v tom dost dobrá!}
+# for TeamX's NPC Mod:
+
+{1999}{}{Zaèínám v tom být dost dobrá!}
 {2000}{}{Promluvme si o naší taktice v boji.}
 {2001}{}{Poslouchám.}
 {2010}{}{Vem si svoji nejlepší zbraò.}
@@ -280,3 +282,8 @@ myslel.}
 {2014}{}{Vyber si sama, jak chceš bojovat.}
 {2015}{}{To je pro teï vše.}
 {2100}{}{Cokoliv øekneš.}
+
+# by Sduibek, for more realistic display of her name upon look/examine,
+#  otherwise player magically knows she's named Katja even if she never told you her name.
+
+{2200}{}{Tak jo, vypadá to na poøádnou jízdu! Mimochodem se jmenuju Katja.}

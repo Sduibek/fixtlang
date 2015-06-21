@@ -609,6 +609,7 @@
 {32000}{}{Strom}
 {32100}{}{Strom}
 {32200}{}{Náklaïák}
+{32201}{}{Tenhle náklaïák už zažil lepší èasy. Sice ho nájezdníci asi poøád nevybrali, ale...}
 {32300}{}{Náklaïák}
 {32301}{}{Trosky dieselového náklaïáku. Tato hora železa se už tìžko kdy pohne.}
 {32400}{}{Náklaïák}
@@ -1241,7 +1242,7 @@
 {65601}{}{Wattz ElectroBox agregát. Standardní záložní zdroj energie z doby pøed válkou.}
 {65700}{}{Nádrž}
 {65701}{}{Velká nádrž na vodu. Vypadá udržovanì.}
-{65800}{}{Stroj èasu} #police box
+{65800}{}{Policejní budka} #police box
 {65801}{}{Policejní budka ze Spojeného království, asi rok 1960}
 {65900}{}{Stùl}
 {65901}{}{Ruènì vyrobený stùl. Líbí se ti víc než stoly, které jsi vidìl pøedtím.}

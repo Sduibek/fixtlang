@@ -13,6 +13,7 @@
 {112}{}{Taga ma.}
 {113}{}{Caroo!}
 {114}{}{Poøád ti nerozumím. Možná bys mìl zaskoèit k doktorovi...Najdeš ji ve druhém patøe.}
+{115}{}{Jdi se podívat za doktorkou. Je ve druhém podlaží.}
 {116}{}{Och, nic tak skvìlého a slavného jako naši Paladinové. Vedu zásobování, kontroluji vybavení a jinou výstroj pro ostatní.}
 {117}{}{Poslal mì sem ... Bob. Chtìl donést tu ... tu novou moderní zbraòovou vìcièku. Øíkal, abych mu to pøinesl hned.}
 {118}{}{Chtìl bych si nìco ovìøit, jak to mám udìlat?}
@@ -31,14 +32,14 @@
 {131}{}{[Úspìšná lež] Vážnì? Nepodrazila bys mì znova, že ne? Ne, vypadáš jako dobrá holka. Asi tì k tomu donutily. Víš, jednou jsem pøistihnul Laru, jak na mì civí bìhem výcviku. Vsadím se, že to byla ona, nemám pravdu?}
 {132}{}{Jo, kápnul jsi na to. Je to ona. Ale jestli prozradíš, že jsem ti to øekla, tak mì zabije.}
 {133}{}{Ne, je mi líto, jen jsem si s tebou pohrávala. Nikdo mì sem neposlal.}
-{134}{}{No, nevím co øíct. Vždycky jsem si na ní myslel, ale nechtìl jsem se do nièeho pouštìt, protože jsem nevìdìl, jestli cítí nìco podobného. Až jí pøíštì uvidím, asi se jí zeptám. Zkusím si nìjak prohodit služby a pøekvapím ji nìjakou romantickou veèeøí. Díky moc. Vážnì jsi mi spravil náladu. Na, vem si tohle. Možná se ti to bude hodit. Jsou to pulzní granáty. Velmi úèinné na roboty. Doufám ale, že je nebudeš nikdy potøebovat. Sbohem.}
+{134}{}{No, nevím co øíct. Vždycky jsem byl do ní tak nìjak zamilovaný, ale nechtìl jsem se do nièeho pouštìt, protože jsem nevìdìl, jestli cítí nìco podobného. Až jí pøíštì uvidím, asi se jí zeptám. Zkusím si nìjak prohodit služby a pøekvapím ji nìjakou romantickou veèeøí. Díky moc. Vážnì jsi mi spravil náladu. Na, vem si tohle. Možná se ti to bude hodit. Jsou to pulzní granáty. Velmi úèinné na roboty. Doufám ale, že je nebudeš nikdy potøebovat. Sbohem.}
 {135}{}{To od tebe není moc pìkné. Proè nìco takového øíkáš, když to není pravda? To nechápu!}
 {136}{}{Och. Podivný druh humoru. No, neotravuj už mì, pokud nebudeš mít nìco k vyzvednutí.}
 {137}{}{Och, tyhle dívky mi dávají poøád zabrat. Nevím, proè to poøád dìlají. Ta Lara je urèitì pìknì tvrdá. Míval jsem ji docela rád. Znal jsem jí, když byla mladší. Byla tak rozkošná. Teï je starší a zachází se mnou tak krutì. Nikdy jsem neudìlal nic, èím bych si to zasloužil.}
 {138}{}{No, možná se jí líbíš. Pomyslel jsi na to nìkdy? Tøeba jenom neví, jak ti to dát najevo. Mìl by ses jí zeptat. Pokud jí máš opravdu rád, co mùžeš ztratit?}
 {139}{}{Možná tì má ráda.}
 {140}{}{Uch, jo. Fajn. Sbohem.}
-{141}{}{Víš, máš vlastnì pravdu. Co mùžu ztratit? Pøíštì, až jí potkám, se j9 rovnou zeptám. Prohodím si služby a pøekvapím ji nìjakou romantickou veèeøí. Díky. Na, vezmi si to. Tøeba se ti to bude hodit. Zvyšují hbitost. Opatrnì s nimi, zpùsobují závislost. Sbohem.}
+{141}{}{Víš, máš vlastnì pravdu. Co mùžu ztratit? Pøíštì, až jí potkám, se jí rovnou zeptám. Prohodím si služby a pøekvapím ji nìjakou romantickou veèeøí. Díky. Na, vezmi si to. Tøeba se ti to bude hodit. Zvyšují hbitost. Opatrnì s nimi, zpùsobují závislost. Sbohem.}
 {142}{}{Ne, to asi ne. Ženy mì nìkdy vážnì matou. Dokážu èíst a chápu jakékoli nové náèrtky a schémata, která pøede mì položí; ale jakmile se jedná o ženy, jsem úplnì mimo. I tak díky.}
 {143}{}{Ne, to asi ne. Vy ženy mì nìkdy vážnì matete. Dokážu èíst a chápu jakékoli nové náèrtky a schémata, která pøede mì položí; ale jakmile se jedná o ženy, jsem úplnì mimo. I tak díky.}
 {144}{}{Potøebuješ odpovídající povolení. Jen pár lidí ti ho mùže vydat, abys mohl získat vìci ze zásobovací místnosti.}
@@ -166,6 +167,10 @@
 {267}{}{Ale mì poslal Rhombus.}
 {268}{}{Tu souèástku nedostaneš. To je poslední slovo. Øekl jsem ti, co musíš udìlat a nebudu to opakovat znova.}
 
+{300}{}{Vypadá to, že tì má Sophia vážnì ráda. Požádala mì, 
+abych ti dal tyhle skoro vybité baterie. Tak jako tak potøebujeme na její výzkum 
+vyklidit nìjaké místo ve skladišti. }
+ 
 # added by WG 31.08.2007
 {500}{}{[více]}
 {501}{}{[zpìt]}

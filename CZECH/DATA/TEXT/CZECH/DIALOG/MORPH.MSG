@@ -52,13 +52,13 @@
 {142}{}{Nikam mì brát nebudeš!}
 {143}{MORP13}{ To není tvoje starost, ale jestli jsi opravdu z Vaultu,
  tak na to Vùdce pøijde. Stráže! Chopte se ho.}
-{144}{MORP14}{Mùžeš ti zachránit život. Teï mi øekni co víš, nebo... }
+{144}{MORP14}{Mùžu ti zachránit život. Teï mi øekni co víš, nebo... }
 {145}{}{Jsem z Vaultu, a toužím Vùdci prozradit jeho polohu.}
 {146}{}{Nebo co?}
 {147}{}{Nic ti neøeknu.}
 {148}{MORP15}{ Ne? Tak si ty informace vezmu od tebe. Stráže!}
 {149}{MORP16}{ A kdo to má být, ti moji nepøátelé?}
-{150}{}{No, napøíklad Následníci.}
+{150}{}{No, napøíklad Následníci.}
 {151}{}{Z mého pohledu to vypadá, že všichni.}
 {152}{MORP17}{ Øekni mi, co víš. }
 {153}{}{To ne. Zaveï mì k Vùdci. Jemu to øeknu.}
@@ -118,7 +118,7 @@
 {197}{}{A nalezli jste ten vyšší stupeò ?}
 {198}{MORP33}{[Zlostnì] Proè ty!...[Potichu] Budiž ti odpuštìno. Ne každému je
  dovoleno vidìt svìtlo. Teï mi ale øekni mé dítì, proè jsi k nám vstoupil? }
-{199}{}{Chtìl jsem zjistit, jestli je to opravdu takové bláznovství, jak jsem slyšel. Teï už to vím.}
+{199}{}{Budu muset zjistit, jestli je to opravdu takové bláznovství, jak jsem slyšel. Teï už vím.}
 {200}{}{Promiò. Myslím, že jsem byl trochu mimo.}
 {201}{morp34}{Nic nevíš.}
 {202}{MORP35}{ Ano byl jsi,
@@ -164,7 +164,7 @@
  a je to on, který pøinese této zkoušené zemi koneèný mír.}
 {231}{MORP52}{Kde je kazatelna, už bys mìl vìdìt mé dítì.  Mívám tam svá
  kázání. }
-{232}{MORP53}{Nezatìžuj se tím. Tam mohou pouze nejvyšší knìží.}
+{232}{MORP53}{Nezatìžuj se tím.  Tam mohou pouze nejvyšší knìží. }
 {233}{MORP54}{Jsem pouze pokorný služebník jednoty. }
 {234}{MORP55}{Jsme nejvyšší knìží velectìného temného boha. Tøinácti z nás je natolik
  požehnáno, že mùžeme jeho vzácná slova sdìlovat ostatním Dìtem. }
@@ -180,7 +180,7 @@
 {243}{MORP64}{To nic není. Zeptej se na nìco jiného. }
 {244}{morp65}{Nic zajímavého.}
 {245}{}{Vùdèe, vìøím, že se ti tohle bude líbit . . .}
-{500}{}{Získal jsi 1000 bodù zkušenosti za zabití vrchního knìze Dìtí Katedrály.}
+{500}{}{Získáváš 1000 bodù zkušenosti za zabití vrchního knìze Dìtí Katedrály.}
 
 
 # Morpheus Tell-Me-Abouts generic responses
@@ -218,7 +218,7 @@
  mutanti, ale k Dìtem se chovají extrémnì loajálnì. Koneckoncù, jako my všichni.}
 {1101}{MORP51}{Je to on, kdo mi odhalil myšlenku Jednoty
  a je to on, který pøinese této zkoušené zemi koneèný mír.}
-{1102}{MORP52}{Kde je kazatelna, už bys mìl vìdìt, mé dítì. Mívám tam svá
+{1102}{MORP52}{Kde je kazatelna, už máš vìdìt, mé dítì. Mívám tam svá
  kázání. }
 {1103}{MORP53}{Nezatìžuj se tím.  Tam mohou pouze nejvyšší knìží.}
 {1104}{MORP54}{Jsem jen pokorný služebník Jednoty.}
@@ -236,7 +236,7 @@
  že jejich èiny pøinášejí nám a našim stoupencùm pouze bolest a zármutek.}
 {1114}{MORP50}{Tenhle Nightkin k nám pøibìhl pøed chvílí. Jsou to trochu podivní
  mutanti, ale k Dìtem se chovají extrémnì loajálnì. Koneckoncù, jako my všichni.}
-{1015}{morp65}{Nic co by tì mohlo zajímat.}
-{1016}{morp65}{Nic co by tì mohlo zajímat.}
-{1017}{morp65}{Nic co by tì mohlo zajímat.}
-{1018}{morp65}{Nic co by tì mohlo zajímat.}
+{1115}{morp65}{Nic co by tì mohlo zajímat.}
+{1116}{morp65}{Nic co by tì mohlo zajímat.}
+{1117}{morp65}{Nic co by tì mohlo zajímat.}
+{1118}{morp65}{Nic co by tì mohlo zajímat.}

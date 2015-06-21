@@ -141,3 +141,26 @@
 {239}{}{Hrozný byznys.  Ti ubozí lidé.  Ach, ti ubozí lidé.  Pøijít tak strašným zpùsobem o život!  Je tu ještì nìco, co pro tebe mùžu udìlat?  Nakrmit tì, tøeba?}
 {240}{}{Nic, sbohem.}
 {241}{}{Já teï jít.}
+{242}{}{Nemám navíc tenhle typ penìz. Sotva vyžiju s tím co mám.}
+##
+##Sduibek -- Fallout FIXT
+##
+{243}{}{30 zátek?! Dìláš si ze mì srandu?}
+{244}{}{Tak hele ty svinì, to díky tobì teï nemám žádnej profit a døu hubu. Takže jestli se ti moje ceny nelíbìj, odprejskni. Je tu spousta jinejch stánku s leguány. Jo poèkej, není!}
+{245}{}{Pøíšernì, díky tobì. Nikdo nemá rád èmuchaly. Takže jestli si nehodláš nic koupit, jdi mi z oèí.}
+{246}{}{Jo jasnì. Navidìnou.}
+{247}{}{Vlastnì, když tu o tom tak mluvíme, mám vcelku hlad.}
+#
+{250}{}{ zkušenostních bodù za vydírání Boba, abys mlèel.}
+{251}{}{Tak jak jdou kšefty, Bobe? [mrkneš na nìj]}
+#
+# 252 to 260 take place while Bob is in jail
+{252}{}{Co tu sakra dìláš? Utneš mi kšefty, dostaneš za to poøádnì tuènou odmìnu a pak se mi tu budeš vysmývat nebo co?}
+{253}{}{V podstatì jo. Jak to jde, Bobe? [mrkneš na nìj]}
+{254}{}{Né, jen koukám, jak se ti daøí.}
+{255}{}{Díky tobì pøíšernì. Práskaèe nemá nikdo rád. Mohl bych tu i zdechnout pro to, co všechno vím.}
+{256}{}{Patøí ti to.}
+{257}{}{Mùžu je zabít teï hned, jestli nerad èekáš.}
+{258}{}{Zeptám se, jestli tì mùžem po popravì rozsekat na leguání pochoutku!}
+{259}{}{Jak myslíš. Odprejskni.}
+{260}{}{Jdi pryè.}

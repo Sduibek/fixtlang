@@ -1,6 +1,129 @@
-#.  .  .  .  .  .  .  .  .
+Ôªø; #example - LARGE WHITE
+; @example - SMALL DARK
+; example - LARGE YELLOW
+;
+; #MAIN HEADING
+;
+; @Subheading
+; List of folks
+;
+; Sduibek note:
+;3 newlines between sections (e.g. Programming and Graphics)
+;
+; "@" size can go to about 69 characters
+; yellow and white size can go to about 37 characters
+;
+;
+#"Fallout FIXT"
 
-#CZECH SUBTITLES
+@A comprehensive patch and 'megamod' for Fallout 1
+
+@Version: alpha 6.1
+
+
+
+#PROGRAMMING / SCRIPTING
+
+Sduibek
+
+@With contributions by
+Ash
+Cubik2k
+Darek
+Endocore
+Wasteland Ghost
+
+
+
+#ART / GRAPHICS
+
+@High-res Main Menus
+.Pixote.
+
+@"Long Hair Dude" (Ian)
+Josan12
+x'il
+Brother Soifran
+Mash
+
+@"Mr. Bald Dude" (Tycho)
+.Pixote.
+Mr.Wolna
+x'il
+
+@"Ms. Punk Girl" (Katja)
+Geras
+
+@"Old Maxx" NPC
+x'il
+
+@Lieutenant Fixed Offsets
+Lexx
+
+@Smoking NPC Idle Animations
+Josan12
+
+@Human Male Metal Armor Hammer Thrust fix
+x'il
+
+@Black Guy Missing Running Animation
+Jotisz
+
+@Tanned Super Mutant
+x'il
+
+@"Nixie numbers"
+Inin / Mangler
+
+@Extended Flamer Attack Mod
+.Pixote.
+
+@Splash screens #5 and #6
+Kevin
+
+@Some new splash screens and rework of cutscene stills
+.Pixote.
+Ghouly89
+
+@All other splash screens
+Sduibek
+
+@Fallout FIXT logo/banner
+Sduibek
+(Original artwork by Interplay)
+
+@Other minor graphics stuff
+Sduibek
+
+@120%-Size Mutant Death Animations
+.Pixote.
+Sduibek
+
+
+
+#DESIGN / WRITING (ENGLISH)
+
+Sduibek
+
+@With contributions by
+Ash
+Endocore
+Luffier
+
+@Dialog changes, additions and many many fixes
+Sduibek
+
+@Dialog Fixes mod/patch
+Nimrod
+
+
+#DESIGN / WRITING (SPANISH)
+
+@entire translation (male and female)
+Luffier
+
+
+#DESIGN / WRITING (CZECH)
 
 @Unpacking & Decoding
 RAPTOR
@@ -9,37 +132,56 @@ RAPTOR
 IDLER
 
 @Project leader
-Ond¯ej Pr˘öa
+Ond≈ôej Pr≈Ø≈°a
 
-@Translation (in KB order:-))
+@Translation (in KB order)
 Radek Friedrich
-Karel "Somnambulus" »ervenka
-Petr BulÌ¯
-Vaöek VlËek
-Jakub TureËek
+Somnambulus
+Petr Bul√≠≈ô
+Va≈°ek Vlƒçek
+Jakub Tureƒçek
 Punik
 Jana X.
-Tom·ö Turek
-Pavel ZvÏ¯ina
+Tom√°≈° Turek
+Pavel Zvƒõ≈ôina
 Daniel Bahula
 
 @Special thanx 
-Jirka ävarc (weapon advisor)
-Pavel "Krys·k" ZvÏ¯ina
+Jan "Premie" Herodes
+Jirka "Weapons" ≈†varc
+Pavel "Krys√°k" Zvƒõ≈ôina
 
-@»eötina pro patch od TeamX a NPC mod
-JaW
-
-#Enjoy Fallout CZ :-)
-
-#.  .  .  .  .  .  .  .  .
+@FIXT addon
+Khalashnikovf
 
 
 
+#TESTING / TESTERS
+
+@(Listed Alphabetically)
+Alexisok
+bozyn
+dudejo001
+gustarballs1983
+Hal900x
+Izo
+Mortimus
+Nevill
+OtakuMage
+Peter
+Ryan Paul Fialcowitz
+warning077
+zebrajch
+ziemeck
 
 
+#FALLOUT
+
+@A Post-Nuclear Role-Playing Game
 
 
+@Copyright 1995 - 1997
+Interplay Productions, Interplay Entertainment
 
 
 
@@ -75,6 +217,7 @@ Paul Edelstein
 
 @Installer/Autoplay
 Darren Monahan
+
 
 
 #ART
@@ -408,6 +551,7 @@ Max the Dog
 @to copy, duplicate or reproduce this Program or any
 @portions of this Program without the express written
 @permission of the copyright owner.
+
 
 
 #MARKETING

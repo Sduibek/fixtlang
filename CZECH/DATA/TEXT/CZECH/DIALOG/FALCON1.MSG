@@ -43,20 +43,20 @@
 {142}{}{To by mìlo bıt zábavné. . . (Barmanka se s panáky zbyteènì necourá}
 {143}{}{ a ty ztrácíš pøehled. Po chvíli slyšíš tupı náraz, a pak}
 {144}{}{ zjišuješ, e leíš tlamou k zemi na podlaze . . .}
-{145}{}{Tady jsme. . . (Barmanka srovnává panáky, zatímco}
+{145}{}{A máme tu další kolo. . . (Barmanka srovnává panáky, zatímco}
 {146}{}{ všichni okolo baru skandují. . .}
 {147}{}{ . . .}
 {148}{}{ . . .}
 {149}{}{ . . .}
 {150}{}{ (Brzy se všechno zatmívá. . .)}
-{151}{}{Nevypadal jsi jako nìkdo, kdo se s tím }
+{151}{}{Nevypadáš jako nìkdo, kdo se s tím }
 {152}{}{ dokáe poprat.}
 {153}{}{Škoda,  všichni jsme se tìšili, e tì uvidíme}
 {154}{}{ znovu 'v akci'.}
 {155}{}{Ouu . . . u se nám znova nepøedvedeš? Dobrá,}
 {156}{}{ tady máš svı pivo. Ještì nìco?}
-{157}{}{Jsi si jistı, e odoláš pokušení? Minule jsi}
-{158}{}{ se docela pøedvedl. Dobrá, tady to je. (Barmanka ti podává}
+{157}{}{Opravdu odoláš pokušení? Minule to byla}
+{158}{}{ docela show. Dobrá, tady to je. (Barmanka ti podává}
 {159}{}{ láhev koøalky.) Ještì nìco?}
 {160}{}{Tady je to. (Barmanka ti podává láhev piva.) Ještì}
 {161}{}{ nìco?}
@@ -65,6 +65,9 @@
 {164}{}{ Ještì nìco?}
 {165}{}{Máš pocit, e ti nìco chcíplo v hubì.}
 {166}{}{Máš dojem, e ti brzo vybuchne hlava.}
+##
+##
+##
 {167}{}{Vidíš krupiéra u kostek.}
 {168}{}{Vidíš krupiéra u rulety.}
 {169}{}{Vidíš vıherní automat.}
@@ -78,12 +81,15 @@
 {177}{}{50.}
 {178}{}{Ne, díky.}
 {179}{}{Hrmm.}
-{180}{}{Sory, nejsi ve stavu, abys mohl dávat sázky. (Díváš se}
-{181}{}{ na hru a jsi totálnì zmatenı.}
+##
+## SLOT MACHINES
+##
+{180}{}{Promiò, ale vdy se ani netrefíš do vhazovaèe. ádné sázky. (Díváš se}
+{181}{}{ na hru a jsi z toho paf.}
 {182}{}{Je mi líto, snad to pøíštì vyjde.}
 {183}{}{Vıhra! (1:1.)}
-{184}{}{Vıhra! (Zdvojnásobil jsi vklad.)}
-{185}{}{Vıhra! (Ztrojnásobil jsi vklad.)}
+{184}{}{Vıhra! (Dvojnásobek vkladu.)}
+{185}{}{Vıhra! (Trojnásobek vkladu.)}
 {186}{}{Na hru potøebuješ peníze, kámo.}
 {187}{}{Na hru potøebuješ peníze, krásko.}
 {188}{}{Vypadá to, e sázky jsou v poøádku.}
@@ -96,12 +102,22 @@
 {195}{}{Nic.}
 {196}{}{(Nevíš, co s tím, ale vypadá to opravdu pìknì.)}
 {197}{}{(Prohra.)}
-{198}{}{(Push.)}
-{199}{}{(Zdvojnásobil jsi vklad.)}
-{200}{}{(Ztrojnásobil si vklad.)}
+{198}{}{(Zatáhnout.)}
+{199}{}{(Dvojnásobek vkladu.)}
+{200}{}{(Trojnásobek vkladu.)}
 {201}{}{(Nemáš dost penìz.)}
 {202}{}{Máš u sebe }
-{203}{}{ babek.  
-Kolik chceš vsadit?}
+{203}{}{ babek. Kolik chceš vsadit?}
 {204}{}{  Chceš si ještì zahrát?}
+##
+## Sduibek, Fallout FIXT
+##
+{205}{}{Prohráváš všechny peníze pøi prvním zatoèení, ale zpìt získáváš }
+{206}{}{ zátek v Radioaktivním kole!}
+{207}{}{Vítìz!  [Zatáhneš a získáváš }
+{208}{}{Cink Cink Cink!  [Dvojnásobek vkladu a také }
+{209}{}{JACKPOT!  [Trojnásobek vkladu a také }
+{210}{}{ zátek v Radioktivním kole!]}
+{211}{}{ zátku v Radioktivním kole.}
+{212}{}{ zátku v Radioktivním kole.]}
 

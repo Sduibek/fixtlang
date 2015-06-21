@@ -66,6 +66,11 @@
 {311}{}{12-ráe}
 {312}{}{9mm}
 {313}{}{BB}
+{314}{}{*UNUSED IN FALLOUT 1*}#	was .45 cal
+{315}{}{*UNUSED IN FALLOUT 1*}#	was 2mm
+{316}{}{*UNUSED IN FALLOUT 1*}#	was 4.7mm caseless
+{317}{}{*UNUSED IN FALLOUT 1*}#	was HN needler
+{318}{}{*UNUSED IN FALLOUT 1*}#	was 7.62mm
 
 #
 # Race Types
@@ -124,8 +129,8 @@
 #
 # Use Container text
 #
-{485}{}{Prohledal jsi objekt: %s.}
-{486}{}{Zavøel jsi objekt: %s.}
+{485}{}{Prohledáváš objekt: %s.}
+{486}{}{Zavíráš objekt: %s.}
 {487}{}{Je to zamèené.}
 
 #
@@ -147,6 +152,9 @@
 
 #
 # Examine text messages
+{510}{}{AC Mód: %d}
+{511}{}{DR Mód: %d}
+{512}{}{Dmg Mód: %d/%d}
 #
 {518}{}{%s }
 {519}{}{%s %s }
@@ -183,24 +191,24 @@
 #
 # Use text messages
 #
-{580}{}{Pouij si pøedmìt: %s.}
-{581}{}{Pouil jsi pøedmìt: %s na objekt: %s.}
+{580}{}{Pouit pøedmìt: %s.}
+{581}{}{Pouit  pøedmìt: %s na objekt: %s.}
 {582}{}{Nic to neudìlalo.}
-{583}{}{Ke svému úleku jsi zjistil, e se díváš ji na mrtvolu.}
-{584}{}{Kdy jsi se sehnul, poznal jsi, e se ji skláníš na mrtvolou.}
+{583}{}{Ke svému úleku zjišuješ, e se díváš ji na mrtvolu.}
+{584}{}{Po sehnutí poznáváš, e se ji skláníš na mrtvolou.}
 {585}{}{Bohuel, pøíliš pozdì...} # This is relating to a critter being dead.
 {586}{}{Tohle na mrtvolách nebude fungovat.}
-{587}{}{Zapálil jsi svìtlici.}
+{587}{}{Zapálena svìtlice.}
 {588}{}{Svìtlice je ji zapálená.}
-{589}{}{Nastavil jsi èasovaè.}
+{589}{}{Nastaven èasovaè.}
 {590}{}{Odpoèítávání ji probíhá!}
 
 #
 # Experience-Point messages
 #
-{620}{}{Získal jsi %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s jsi získal %d zkušenostních bodù.}
-{622}{}{Za poraení tvıch nepøátel }  # 622-626 prepend to line 621
+{620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
+{621}{}{%s získáváš %d zkuš. bodù.}
+{622}{}{Za poraení tvıch nepøátel}ÿÿÿ #622-626 prepend to line 621
 {623}{}{Za zabití tvıch protivníkù }
 {624}{}{Vyhrál jsi v souboji a tím }
 {625}{}{Za rozdrcení nepøátel }
@@ -213,12 +221,21 @@
 {651}{}{[Více]}
 {652}{}{Více}
 {653}{}{[Zpátky]}
-{654}{}{Zpátky}ÿÿÿÿÿ# changed number from 653
-{655}{}{Pokraèovat}ÿÿÿÿÿ new
+{654}{}{Zpátky} # changed number from 653
+{655}{}{Jdi na to} #new
 {656}{}{Err...}ÿÿÿÿ new
 {660}{}{Nic nevidíš.}
 {661}{}{Pøíliš daleko.}
 
+{670}{}{Oukej.}    # F2: Used in PM: CombatAI settings
+{671}{}{Jasnì.}    # F2: Used in PM: CombatAI settings
+{672}{}{Jak si pøeješ.}       # F2: Used in PM: CombatAI settings
+{673}{}{Cokoliv øekneš.}  # F2: Used in PM: CombatAI settings
+{674}{}{Pokusím se.}          # F2: Used in PM: CombatAI settings
+{675}{}{To nemùu udìlat.}   # F2: Used in PM: CombatAI settings
+{676}{}{To asi nezvládnu.}   # F2: Used in PM: CombatAI settings
+{677}{}{Raf!}   # F2: Used in PM: CombatAI settings -- RoboDog
+{678}{}{Haf!}  # F2: Used in PM: CombatAI settings -- RoboDog
 #
 # Not Enough AP message
 #
@@ -226,13 +243,13 @@
 #
 # Book messages
 #
-{800}{}{Pøeèetl sis knihu.}
-{801}{}{Nic nového jsi se nenauèil.}
-{802}{}{Prohloubil jsi své vìdecké vìdomosti.}
-{803}{}{Nauèil jsi hodnì o opravování ponièené elektroniky.}
-{804}{}{Nauèil jsi se, jak lépe léèit zranìní.}
-{805}{}{Nauèil jsi se, jak lépe zacházet se zbranìmi.}
-{806}{}{Nauèil jsi se, jak lépe pøeít v divoèinì.}
+{800}{}{Pøeètena kniha.}
+{801}{}{Nic ti ètení nedalo.}
+{802}{}{Prohloubeny vìdecké vìdomosti.}
+{803}{}{Nauèeny nové triky jak opravit ponièenou elektroniku.}
+{804}{}{Nauèeno, jak lépe léèit zranìní.}
+{805}{}{Nauèeno, jak lépe zacházet se zbranìmi.}
+{806}{}{Nauèeno, jak lépe pøeít v divoèinì.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
@@ -242,3 +259,4 @@
 {903}{}{Tato osoba s tebou nebude obchodovat.}
 {904}{}{Tato osoba ti nemá co øíct.}
 {905}{}{Tento pøedmìt nemùeš sebrat, protoe u nic víc neuneseš.}
+{913}{}{Tento tvor nemùe nic nést.}

@@ -1,5 +1,5 @@
 {100}{}{Vidíš muže v plášti a zaprášeném koženém brnìní s plynovou maskou.}
-{101}{}{Vidíš Tycha.}
+{101}{}{Vidíš Tycha, pouštního rangera}
 {102}{}{Další nová tváø. S poutníky to tu jde od desíti k pìti, ale ty vypadáš
  nìjak jinak. Nedáš si se mnou nìco k pití?}
 {103}{}{Promiò, ale mám hroznì málo èasu.}
@@ -102,7 +102,18 @@ víš, co tím myslím.}
 {170}{}{Ano?}
 {171}{}{Myslím, že bychom se po tom všem mìli dát dohromady.}
 {172}{}{Nic. No nevadí.}
-{173}{}{Získal jsi 300 bodù zkušeností za najmutí pouštního rangera Tycha.}
+{173}{}{Získáváš 300 bodù zkušeností za najmutí pouštního rangera Tycha.}
+
+# for Fallout FIXT:
+
+{174}{}{my kámoši?}
+{175}{}{Jdeš k zemi}
+{176}{}{Èas na odplatu.}
+{177}{}{Obèané Junktownu budou pomstìni!}
+{178}{}{Vážnì si myslíš, že stojíš mimo zákon?}
+{179}{}{S takovou špínou jako jsi ty se nebavím.}
+
+{180}{}{Všechny èiny mají své následky.}
 
 #
 # Tycho tell-me-abouts

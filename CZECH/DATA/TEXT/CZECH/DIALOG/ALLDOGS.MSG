@@ -1,0 +1,45 @@
+################################################################
+# These lines are combined from MSGs:
+# DEMODOG
+# DOG2
+# JUNKDOG
+# DOGMEAT
+################################################################
+{100}{}{Vidíš psa. Zdá se, že tì následuje.}
+{101}{}{Vidíš psa.}
+{102}{}{Haf!}
+{103}{}{Vrrr!}
+{104}{}{Zdá se, že máš nového pøítele, psa.}
+{105}{}{Získáváš 200 zkušenostních bodù za zpøátelení si psa.}
+{106}{}{Získáváš 335 zkušenostních bodù za poražení psa a otevøení cesty Philovi domù.}
+
+{107}{}{Pojï sem, chlupáèi.}
+{108}{}{Haf-haf!}
+{109}{}{Z nìjakého dùvodu tì má tento pes rád.}
+
+{110}{}{Vidíš Žeryka.}
+{111}{}{Haf! Raf Haf! Raf! Haf! Raf! Haf! Raf! Haf!}
+{112}{}{[Èmuch. Èmuch.] Vrrrr! Raf!}
+{113}{}{[Èmuch. Èmuch] Haf!}
+
+{114}{}{Získáváš 100 zkušenostních bodù za pomoc Philovi vyøešit tento psí hlavolam.}
+{115}{}{Pes si zøejmì myslí, že jsi jeho páníèek.}
+{116}{}{Získáváš 35 zkušenostních bodù za poražení psa.}
+{117}{}{Haf-haf!}
+{118}{}{K noze, kamaráde.}
+{119}{}{Zùstaò a èekej, jasný?}
+{120}{}{Hodný pes.}
+
+{121}{}{Drobku!!!}
+{122}{}{Haf?}
+{123}{}{Haf?}
+
+# Translation Note:
+# these are for stupid characters (INT <= 3)
+
+{300}{}{Pejsku!! Pejsku, kámo?}
+{301}{}{Pejsku zùstaò! Nehni!}
+{302}{}{Uhni, kámo. Hodnej.}
+{303}{}{ Blb èokl!}
+{304}{}{Hodnej!}
+

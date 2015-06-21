@@ -16,7 +16,12 @@
 {114}{}{Do toho ti nic není.}
 {115}{}{Jsem}
 {116}{}{.}
-{117}{}{Pff!}
+
+#TRANSLATION NOTE: 117 & 132 are for Stupid characters,
+# they are shouting their name as a greeting. For example "Me John!"
+{117}{}{Já }
+{132}{}{!}
+
 {118}{}{Buï zdráv! Co pro tebe mohu udìlat?}
 {119}{}{Mùžu se k vám pøidat do Shady Sands?}
 {120}{}{Co nabízíš?}
@@ -24,7 +29,10 @@
 {122}{}{Co chceš?}
 {123}{}{Nic, díky.}
 {124}{}{Co nabízíš?}
-{125}{}{Pff!}
-{126}{}{Mìl bys být opatrný, když cestuješ bez pøátel.
- V poslední dobì zmizelo z Shady Sands pár lidí.}
+{125}{}{Huh?}
+{126}{}{Mìl bys být opatrný, když cestuješ bez pøátel. V poslední dobì zmizelo z Shady Sands pár lidí.}
 {127}{}{Hej, slyšel jsem, jak jsi zachránil jednu ženu z Shady Sands. Bravo.}
+{128}{}{Aha, promiò - nedošlo mi, že jsi tak hloupý.}
+{129}{}{Díky, navidìnou.}
+{130}{}{Grr!}
+{131}{}{Heh?}

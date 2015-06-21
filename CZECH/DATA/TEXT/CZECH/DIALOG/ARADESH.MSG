@@ -163,6 +163,7 @@
 {258}{Ara_56}{Umm, ano, ano. Khanové jsou ještì bezohlednìjší než Zmije, jestli se to dá vùbec posoudit. Tihle barbaøi pøicházejí z jihovýchodu.}
 {259}{Ara_57}{Jsou to zákeøná a nebezpeèná zvíøata. Dávej si pozor na jejich bodec. Jejich jed mùže být i smrtelný, pokud není rána vèas ošetøena.}
 {260}{Ara_58}{Ano, ano, ano. Je taková povìst o monstru stvoøeném bìhem Války.}
+{261}{}{}
 {262}{Ara_60}{Junktown je jižnì odsud. Jejich obchodníci sem nìkdy pøijíždìjí za obchodem, i když to nebývá pøíliš èasto.}
 {263}{Ara_61}{Zmije i Khanové používají kopí. Známe to z jejich nájezdù.}
 {264}{Ara_62}{Najdeš to hned u vchodu do vesnice. Seth tam obvykle bývá.}
@@ -179,6 +180,7 @@
 {275}{Ara_73}{Jdi si o tom promluvit se Sethem. Bude vìdìt víc než já.}
 {276}{}{}
 {277}{}{Nebudu ztrácet èas s vìrolomnými cizinci.}
+{278}{}{Aradesh je naštvaný a nehodlá se s tebou už bavit.}	# Line 278 was previously in GENCHAT, Line 170
 
 # tell me about generic responses
 {980}{Ara_64}{Nevím.}
@@ -199,9 +201,14 @@
 {1011}{}{Station}
 {1012}{}{hnizdo}
 {1013}{}{Skorpioni}
-{1014}{}{Tower}
+{1014}{}{Vez}
 {1015}{}{Seth}
-
+{1016}{}{rad skorpioni}
+{1017}{}{Radskorpioni}
+{1018}{}{Radskorpion}
+{1019}{}{Shady}
+{1020}{}{Sands}
+{1021}{}{Hub}
 
 
 {1100}{Ara_49}{To jsem já. Jsem vùdcem tohoto tichého místa.}
@@ -220,3 +227,9 @@
 {1113}{Ara_57}{Jsou to zákeøná a nebezpeèná zvíøata. Dávej si pozor na jejich bodec. Jejich jed mùže být i smrtelný, pokud není rána vèas ošetøena.}
 {1114}{Ara_62}{Najdeš to hned u vchodu do vesnice. Seth tam obvykle bývá.}
 {1115}{Ara_52}{Skvìlý mladý muž, Seth. Kapitán naší stráže. Nejèastìji ho mùžeš najít ve strážnici hned u vchodu do vesnice.}
+{1116}{Ara_57}{Jsou to zákeøná a nebezpeèná zvíøata. Dávej si pozor na jejich bodec. Jejich jed mùže být i smrtelný, pokud není rána vèas ošetøena.}
+{1117}{Ara_57}{Jsou to zákeøná a nebezpeèná zvíøata. Dávej si pozor na jejich bodec. Jejich jed mùže být i smrtelný, pokud není rána vèas ošetøena.}
+{1118}{Ara_57}{Jsou to zákeøná a nebezpeèná zvíøata. Dávej si pozor na jejich bodec. Jejich jed mùže být i smrtelný, pokud není rána vèas ošetøena.}
+{1119}{Ara_23g}{Shady Sands je spíše jako rodina, která drží sama pohromadì.}
+{1120}{Ara_23g}{Shady Sands je spíše jako rodina, která drží sama pohromadì.}
+{1121}{Ara_73}{O tom si promluv se Sethem. Bude o tom vìdìt více.}

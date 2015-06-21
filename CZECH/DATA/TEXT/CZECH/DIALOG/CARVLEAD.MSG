@@ -44,11 +44,9 @@
 {140}{}{Nashle.}
 {141}{}{Hej, jak se vede?}
 {142}{}{Jestli chceš víc práce, zajdi se zeptat šéfa.}
-
 {143}{}{Co je to s tebou?}
 {144}{}{Ty jsi mizernej a nebezpeènej psychopat!}
 {145}{}{S tebou nedìlám!}
-
 {146}{}{200}
 {147}{}{400}
 {148}{}{600}
@@ -69,5 +67,23 @@
 {501}{}{Tak to mi teda øekni, proè jsi tu zatacenou karavanu opustil? Já tomu nemùžu uvìøit! Máš z prdele kliku, že to chlapi dotáhli do konce bez tebe! Vypadni! Nedostaneš ani hovno!}
 {502}{}{Já tomu nemùžu uvìøit! Jsem nasranej jak pes! Pøišli jsme o všechny karavany! Vypadni! Nedostaneš ode mì ani hovno!}
 
-{504}{}{Jdi za šéfem a snaž se vymyslet nìjakou opradu dobrou historku o tom, proè jsi musel opustit karavanu. Možná pak dostaneš svoje prachy.}
-{505}{}{Já tomu nemùžu uvìøit! Pøišli jsme o všechny karavany! Nemyslím si, že bych ti mìl zaplatit. Jdi a promluv si s šéfem.}
+{504}{}{Jdi za šéfem a snaž se vymyslet si nìjakou opravdu dobrou historku o tom, proè zùstala karavana nehlídaná. Možná pak dostaneš svoje prachy.}
+{505}{}{Já tomu nemùžu uvìøit! Pøišli jsme o celou karavanu! Nemyslím si, že bych ti mìl zaplatit. Jdi a promluv si s šéfem.}
+{600}{}{Oukej. Zvládli jste to. Nemùžu ti ale zaplatit plnou výši, když padlo tolik strážcù. Musíme nìjak pokrýt naše ztráty, víš. Tady máš svých }
+{601}{}{ zátek. [Vyndavá starý onošený pytel a dává ti peníze.] Dostaneš dalsích }
+{602}{}{Jestli chceš další práci, prostì jdi za šéfem. Nemám problém s tebou zase pracovat. Takže pohoda.}
+{603}{}{ zátek. [Vyndavá starý onošený pytel a dává ti peníze.] }
+{604}{}{Oukej. Zvládli jste. Ale nemùžu ti nic zaplatit, když padla celá stráž. Musíme nìjak pokrýt naše ztráty, víš. Byl bych radìji, kdybych ti mohl zaplatit, ale tkaová jsou pravidla.}
+# Unload caravan quest - WG@RestorationProject
+{506}{}{Byla by nìjaká práce pro mì?}
+{507}{}{Já chtít práce!}
+
+{508}{}{Potøebujem tu pár rukou navíc k vyložení karavany. Zaplatím ti }
+{509}{}{ zátek.}
+{510}{}{EE!}
+{511}{}{Nene.}
+{512}{}{Beru, jdu na to.}
+{513}{}{To se mi nelíbí.}
+{520}{}{Hodinu ti trvalo vyložit náklad z karavany.}
+{521}{}{Pomùžeš složit zbytek nákladu a dostaneš }
+{522}{}{ zátek na ruku.}

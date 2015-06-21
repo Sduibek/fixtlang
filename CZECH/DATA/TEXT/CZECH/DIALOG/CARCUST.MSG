@@ -1,14 +1,35 @@
-#tento soubor pøeložil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
-{100}{}{Vidíš jednoho ze zákazníkù karavany.}
-{101}{}{Nikdy nemají to, co chci.}
-{102}{}{Myslím, že výbìr zboží je poøád horší a horší.}
-{103}{}{Promiò, ale nesmím mluvit s cizinci.}
-{104}{}{Nikdy nemùžu najít, to co potøebuju.}
-{105}{}{Když uvidíš nìjaké pìkné látky, dej mi vìdìt.}
-{106}{}{Ty ceny jsou prostì neuvìøitelný. To je ale drzost!}
-{107}{}{Ale stejnì jsem rád, že sem ti Kupci s vodou nechodí.}
-{108}{}{Jestli máš nìjaké otázky, promluv si s Cabbotem nebo Darrellem.}
-{109}{}{Cabbot je náš hlavní uvadìè. Promluv si s ním nebo s Darrellem.}
-{110}{}{Mnì se víc líbí nabídka od Crimson Caravan.}
-{111}{}{Nejsou ti chlapíci od Far Go Traders prima?}
-{112}{}{Ti z Crimson Caravan jsou na mùj vkus moc vulgární.}
+# Junktown
+{100}{}{Nikdy nemají to, co chci.}
+{101}{}{Myslím, že výbìr zboží je poøád horší a horší.}
+{102}{}{Ty ceny jsou prostì neuvìøitelný. To je ale drzost!}
+{103}{}{Nikdy nemùžu najít, to co potøebuju.}
+{104}{}{Mnì se víc líbí nabídka od Crimson Caravan.}
+# BOS
+{105}{}{Nikdy nemají to, co chci.}
+{106}{}{Myslím, že výbìr zboží je poøád horší a horší.}
+{107}{}{Ty ceny jsou prostì neuvìøitelný. To je ale drzost!}
+{108}{}{Promiò, ale nesmím mluvit s cizinci.}
+{109}{}{Jestli máš nìjaké otázky, promluv si s Cabbotem nebo Darrellem.}
+# Necropolis
+{110}{}{Pokraèovat.}
+{111}{}{Nechtít mluvit ty.}
+{112}{}{Nerad normály.}
+{113}{}{Arrrr!}
+{114}{}{Grrrrr!}
+# LABone
+{115}{}{Nikdy nemají to, co chci.}
+{116}{}{Myslím, že výbìr zboží je poøád horší a horší.}
+{117}{}{Ty ceny jsou prostì neuvìøitelný. To je ale drzost!}
+{118}{}{Nikdy nemùžu najít, to co potøebuju.}
+{119}{}{Mnì se víc líbí nabídka od Crimson Caravan.}
+#
+# by Sduibek, for Fallout FIXT, from original entries:
+#
+{1100}{}{Vidíš jednoho ze zákazníkù karavany.}
+{1103}{}{Promiò, ale nesmím mluvit s cizinci.}
+{1105}{}{Pokud zahlídneš nìjaké Redaleky, dej vìdìt.}
+{1107}{}{Jsem rád, že ti Vodní kupci sem u nechodí.}
+{1109}{}{Cabbot je naším uvadìèem. Promluv si spíš s ním, nebo s Darrell.}
+{1110}{}{Mnì se víc líbí nabídka od Crimson Caravan.}
+{1111}{}{Ti z Far go Traders jsou banda fajn lidí?}
+{1112}{}{Ti z Crimson Caravan jsou na mùj vkus moc vulgární.}

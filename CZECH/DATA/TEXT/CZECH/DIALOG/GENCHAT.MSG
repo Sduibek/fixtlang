@@ -68,7 +68,7 @@
 {167}{}{Tvé ŠTÌSTÍ se zvìtšilo o bod.}
 {168}{}{Dík za pomoc.}
 {169}{}{Dík za nic.}
-{170}{}{Aradesh je naštvaný a nehodlá se s tebou už bavit.}
+
 {171}{}{Myslím, že s tebou chce mluvit Vùdce.}
 {172}{}{Budeš platit za své ROUHAÈSTVÍ!}
 {173}{}{Tento robot vypadá nefunkènì. Je to patrnì kvùli chybìjícímu zdroji energie.}
@@ -81,11 +81,11 @@
 {180}{}{Nepodaøilo se ti nic ukrást, bojíš se, že bys mohl být chycen.}
 {181}{}{Èlenové Bratrstva tì pøistihli, jak kradeš.}
 # Zprávy Tajemného Cizince
-{182}{}{Rozjedem to!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 0
-{183}{}{Vypadá to, že potøebuješ nìjakou pomoc.}ÿ# 1
-{184}{}{Pomohu ti.}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 0
-{185}{}{Moc nekecám.}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# 1
-{186}{}{Slyšíš reproduktor: Pozor! Vetøelec.}
+{182}{}{Rozjedem to!} # 0
+{183}{}{Vypadá to, že potøebuješ nìjakou pomoc.} # 1
+{184}{}{Pomohu ti.} # 0
+{185}{}{Moc nekecám.} # 1
+{186}{}{Slyšíš reproduktor: POZOR! Vetøelec!}
 {187}{}{Sliz zpomalil pøenos úhozù na klávesnici.}
 {188}{}{Radškorpióni jsou teï zataraseni ve své jeskyni.}
 {189}{}{Ústí jeskynì tì vede hloubìji do hnízda radškorpiónù.}
@@ -94,3 +94,135 @@
 {201}{}{Zdroj je pøíliš znièený, než aby se dal použít.}
 {202}{}{Zdroj je pøíliš znièený, než aby se dal opravit.}
 {203}{}{Pole je dostateènì oslabeno, aby se skrz nìj dalo projít.}
+
+##################################################
+## Additions by Sduibek for Fallout FIXT:
+##################################################
+
+#"Push"
+{190}{}{Jdi stranou, prosím.}
+{197}{}{Uhni se nìkam!}
+
+#What the NPC says after you've made them move
+{300}{}{Oukej.}
+{301}{}{Hups, omlouvám se.}
+{302}{}{Aha, pardón.}
+
+# System messages
+{191}{}{Tycho navýšil svoji úroveò na }
+{192}{}{Ian navýšil svoji úroveò na }
+{193}{}{Katja navýšila svoji úroveò na }
+
+{294}{}{Nyní jsi na úrovni }
+
+{214}{}{Jed byl vypuzen z tvého tìla.}
+
+{400}{}{Výbuch znaènì oslabil toto energetické pole. Mìlo by být bezpeèné projít skrz.}
+
+# Stupid character interacting with hirelings
+# TRANSLATION NOTE: Messages 194, 195, 196 have poor grammar,
+#  improper spelling and improper capitalization on purpose
+#  because they are for a character with Intelligence of 3 or less.
+# The same should be done with translated versions.
+{194}{}{Ty, hnout? Má CESTA! [mraèící se]}
+{195}{}{ty jít, já nechtít kámoš...}
+{196}{}{my kámoš?}
+
+# Hireling inspections
+{198}{}{Obleèen v }
+{199}{}{Obleèena v }
+{188}{}{Kovové zbroji.}
+{189}{}{Koženém brnìní.}
+{204}{}{Energo zbroji.}
+{205}{}{Kevlarové zbroji.}
+{206}{}{Koženné bundì.}
+{207}{}{Róbì.}
+{208}{}{Ultra Energo zbroji.}
+{209}{}{Zbroji Bratrstva.}
+{210}{}{Tesla zbroji.}
+
+# Message trying to steal from things like brahmin, rats, scorpions
+
+{211}{}{Nemùžeš okrást toto stvoøení.}
+
+
+# Message when player examines themselves
+#first examine
+{212}{}{Chvíli si sebe prohlížíš. Líbí se ti, co vidíš?}
+#subsequent examines
+{218}{}{Zjevnì máš hodnì èasu, když se mùžes takhle dokola prohlížet.}
+
+
+# BVBROKEN.SSL
+
+{213}{}{Výtah je rozbitý. Zkus využít žebøík.}
+
+
+# Giving item to hireling (Ian/Tycho/Katja)
+
+{215}{}{Díky, v boji to využiju!}
+
+
+# For what distance hirelings should be from player
+{216}{}{ Když jsi poblíž, choï.}
+{217}{}{ Vždy bìhej.}
+
+# For notifying user of Violence Level
+{219}{}{Úroveò násilí je teï nastavena jako }
+{220}{}{nulová.}
+{221}{}{minimální.}
+{222}{}{normální.}
+{223}{}{maximální krvák.}
+{224}{}{ Maximální krvák je doporuèen pro postavy s vlastností Krvák.}
+
+#
+# This one is for the option in CARVLEAD.SSL that shouldn't show up
+#
+{401}{}{CONTACT SDUIBEK IF YOU SEE THIS MESSAGE}
+
+#an old option for debugging purposes
+{402}{}{EndGame Mod variables reset. Please try to enter Vault 13 again.}
+
+#### NOT USED ####
+{403}{}{You have died. The Vault is doomed.}
+
+## For displaying player title on levelup, if user chose for that to be enabled
+{404}{}{Tvùj titul: }
+{405}{}{Obyvatel Vaultu.}
+{406}{}{Potomek Vaultu.}
+{407}{}{Veterán Vaultu.}
+{408}{}{Elita Vaultu.}
+{409}{}{Tulák.}
+{410}{}{Pouštní tulák.}
+{411}{}{Tulák z pouštì.}
+{412}{}{Elitní tulák.}
+{413}{}{Hranièáø.}
+{414}{}{Pouštní hranièáø.}
+{415}{}{Hranièáø z pustiny.}
+{416}{}{Elitní hranièáø.}
+{417}{}{Hrdina Vaultu.}
+{418}{}{Hrdina tulák.}
+{419}{}{Hrdina hranièáø.}
+{420}{}{Hrdina pouštì.}
+{421}{}{Hrdina pustiny.}
+{422}{}{Hrdina záøících planin.}
+{423}{}{Vzor.}
+{424}{}{Živoucí legenda.}
+{425}{}{Poslední a jediná nadìje Lidstva.}
+
+## Warning player if loading character from old version of FIXT
+{426}{}{You have loaded a game from a version of Fallout older than Fallout FIXT }
+#
+# 427 is inserted after 426
+#
+{427}{}{alpha 6.1 - }
+#
+# 428 is inserted after 427
+#
+{428}{}{hraním tohoto savu mùže zpùsobit chybi, nechtìné chování, èi pády hry.}
+{429}{}{[Pokraèovat] Rozumím risku a pøeji si pokraèovat.}
+{430}{}{[Zpìt do hlavního menu] Hmm. Tuto hru nechci naèíst.}
+{431}{}{Ugga-coo?}
+# 432 not used
+{432}{}{[Pokraèovat] Rozumím riziku a nebudu postovat bugy, na které narazím bìhem hraní této uložené pozice (pøeklepy klidnì ano)}
+

@@ -1,4 +1,5 @@
-{100}{}{Vidíš ghúlího správce.}
+{100}{}{Vidíš rozlobeného ghúla.}
+# the examine & look msgs are 200 & 201
 {101}{}{Co tady hledáš?}
 {102}{}{Hledám pozùstatky budoucí minulosti.}
 {103}{}{Jsem badatel.}
@@ -22,3 +23,8 @@
 {121}{}{Ne.}
 {122}{}{Ty muset s ta teploušský podzemák. Nechali život tobì, aby otravoval jsi mùj život. Teï pryè z mùj dùm.}
 {123}{}{Tak teï máš. A vypal z mého domu!}
+#
+# by Sduibek for Fallout FIXT:
+#
+{200}{}{Zdá se být majitele tohoto zøízení. Fráze "pod novým vedením" je tu zcela jasná.}
+{201}{}{Vidíš správce hotelu.}

@@ -1,4 +1,4 @@
-{100}{}{Vidíš pouštního lupièe Tolyu.}
+{100}{}{Vidíš pouštního lupièe s øeznickým nožem. Vùèi ostatním se jeví jako nìkdo s dùležitou pozicí.}
 {101}{}{Ahoj, já sem Tolya. Vypadá to, že jsi pøišel z pouštì. Kdo jsi?}
 {102}{}{Jmenuju se }
 {103}{}{. Co dìláš?}
@@ -34,3 +34,7 @@
  Jdi pár mílí rovnì, a u umírajícího kaktusu doprava. Nemùžeš to minout!}
 {126}{}{Také si øekl, že už si byl v Shady Sands.}
 {127}{}{Teï mì neotravuj. Pøipravuju se na další výlet.}
+#
+# Fallout FIXT:
+#
+{200}{}{Vidíš Tolyu, zástupce kapitána Nájezdníkù.}

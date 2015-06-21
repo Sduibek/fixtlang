@@ -67,7 +67,7 @@
 {157}{Vree34}{S èím ti mohu pomoci?}
 {158}{}{Mám pro tebe velmi dùležité informace o Kedricovi. Je to zrádce.}
 {159}{}{Co by se dìlo, kdyby se pøišlo na to, že je v Bratrstvu korupce.}
-{160}{}{Nuhh. Nuh-uh-nuh!}
+{160}{}{Neehh. Ne-e-nee!}
 {161}{Vree35}{Velmi dobøe. Vidím, že ti lekce skuteènì pomohla.}
 {162}{Vree36}{Kedrick? Ten je po dlouhou dobu velmi loajálním èlenem Bratrstva. Hádám, že ani nevíš co to znamená.}
 {163}{}{Jasnì, že vím. Kedric je zrádce a plánuje svrhnout tvé nadøízené.}
@@ -152,7 +152,13 @@
 {1014}{}{pisari}
 {1015}{}{Rytíøi}
 {1016}{}{Paladinové}
-{1017}{}{Holo}
+{1017}{}{Holodisk}
+{1018}{}{Holo-disk}
+{1019}{}{Holo-disc}
+{1020}{}{Holodisc}
+{1021}{}{Holo}
+
+
 
 {1100}{Vree300}{Kdo? To jméno mi zní povìdomì. Možná je to vùdce nìkterých mutantù.}
 {1101}{Vree301}{Pøedpokládám, že poukazuješ na nukleární válku. Bratrstvo dìlá vše pro to, aby obnovilo to, co bylo již jednou ztraceno.}
@@ -182,4 +188,12 @@
 {1116}{Vree200}{Prosím, promluv si s jinými písaøi. Pokouším se dokonèit zprávu
  pro radu starších.}
 {1117}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
+  Každý obsahuje nìco pøes 4 TB informací.}
+{1118}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
+  Každý obsahuje nìco pøes 4 TB informací.}
+{1119}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
+  Každý obsahuje nìco pøes 4 TB informací.}
+{1120}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
+  Každý obsahuje nìco pøes 4 TB informací.}
+{1121}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
   Každý obsahuje nìco pøes 4 TB informací.}

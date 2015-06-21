@@ -3,16 +3,16 @@
 #	Mountain area random encounter text 
 #
 
-{100}{}{Nechybìlo mnoho a byl jsi rozdrcen velkým kamenem z uvolnìné kamenné laviny.}
+{100}{}{Nechybìlo mnoho a tvoje mrtvola mohla ležet pod uvolnìnou lavinou kamení.}
 {101}{}{Podaøilo se ti vyklouznout bez zranìní.}
 {102}{}{Uvolnìný kámen má na sobì zbytky dlouho mrtvého poutníka.}
 {103}{}{Tvoje noha byla vážnì poranìna padajícím kamením.}
-{104}{}{Pár kamínkù ti lehce poranilo tváø a nohy, ale unikl jsi bez vážnìjšího poranìní.}
+{104}{}{Pár kamínkù ti lehce poranilo tváø a nohy, ale unikáš bez vážnìjšího poranìní.}
 {105}{}{Radškorpión!}
 {106}{}{Ponìkud chytøejší radškorpión se na tebe pokouší zaútoèit.}
 {107}{}{Jakoby odnikud, radškorpión náhle zaútoèil!}
-{108}{}{Náhle jsi se ocitl uprostøed rodiny krtkopotkanù.}
-{109}{}{Nechybìlo mnoho a byl jsi rozdrcen velkým kamenem z menší kamenné laviny.}
+{108}{}{Náhle se ocitáš uprostøed rodiny krtkopotkanù.}
+{109}{}{Nechybìlo mnoho a tvoje mrtvola mohla ležet pod velkým kamenem z menší kamenné laviny.}
 {110}{}{Podaøilo se ti vyklouznout bez zranìní.}
 {111}{}{Podaøilo se ti vyklouznout bez zranìní. Odvalený kámen odhalil kus zlata.}
 {112}{}{Tvoje noha byla vážnì poranìna padajícím kamením.}
@@ -20,15 +20,15 @@
 #
 {114}{}{Po hrbolatém terénu klopýtáš mezí pøíkrými útesy.}
 {115}{}{Tvé horolezecké umìní na to naštìstí staèí.}
-{116}{}{Našel jsi malou jeskyni s vodním pramenem a po dlouhé dobì jsi se poøádnì vyspal.}
+{116}{}{Nacházíš malou jeskyni s vodním pramenem a po dlouhé dobì se i poøádnì vyspíš.}
 #
-{117}{}{Spadl jsi ze skály, a pøistál na nìkolika ostøejších kamenech.}
-{118}{}{Spadl jsi z útesu na skalnatou zem pod ním.}
-{119}{}{Pøipletl jsi se mezi skupinu radškorpiónù.}
-{120}{}{Našel jsi nìkolik krys shánìjící potravu.}
+{117}{}{Padáš ze skály, a pøistáváš na nìkolika ostøejších kamenech.}
+{118}{}{Padáš z útesu na skalnatou zem pod ním.}
+{119}{}{Pøiplétáš se mezi skupinu radškorpiónù.}
+{120}{}{Nacházíš nìkolik krys shánìjící potravu.}
 {121}{}{V dáli vidíš osamoceného poutníka.}
 {122}{}{Zemì pøed tebou je pokryta zbytky tìl a ponièených vìcí. Vypadá to tu jako stará váleèná zóna.}
-{123}{}{Nechybìlo mnoho a byl jsi rozdrcen velkým kamenem z menší kamenné laviny.}
+{123}{}{Nechybìlo mnoho a tvoje mrtvola mohla ležet pod velkým kamenem z menší kamenné laviny.}
 {124}{}{Podaøilo se ti vyklouznout bez zranìní.}
 {125}{}{Podaøilo se ti vyklouznout bez zranìní. Odvalený kámen odhalil kus zlata.}
 {126}{}{Tvoje noha byla vážnì poranìna padajícím kamením.}
@@ -36,11 +36,20 @@
 #
 {128}{}{Vidíš osamoceného radškorpióna.}
 {129}{}{Potlouká se tu nìkolik velkých krtkopotkanù.}
-{130}{}{Našel jsi nìkolik krys shánìjících potravu.}
-{131}{}{Málem jsi díky nerovnému terénu spadl. Prostøedí tu zøejmì bylo umìle upraveno.}
-{132}{}{Na nerovném terénu jsi spadl a bolestivì jsi si vyvrknul kotník.}
-{133}{}{Na nerovném terénu jsi spadl a sedøel jsi se do masa.}
+{130}{}{Nacházíš nìkolik krys shánìjících potravu.}
+{131}{}{Terén je tu velmi nerovný. Prostøedí tu zøejmì bylo umìle upraveno.}
+{132}{}{Padáš na nerovném terénu a výsledkem je vyvrknutý kotník.}
+{133}{}{Padáš na nerovném terénu a výsledkem je sedøenina až do masa.}
 {134}{}{Vidíš jak k tobì bìží nìkolik krys.}
-{135}{}{Pøekroèil jsi nìkolik kostí dávno zemøelého poutníka.}
-{136}{}{Pøipletl jsi se do skupinky nepøíjemných radškorpiónù.}
+{135}{}{Pøekraèuješ nìkolik kostí dávno zemøelého poutníka.}
+{136}{}{Pøiplétáš se do skupinky nepøíjemných radškorpiónù.}
+##
+## Fallout FIXT (Sduibek)
+##
+{137}{}{Vidíš tábor koèovné skupiny nájezdníkù. Vypadá to, že jsi v nesprávný èas na na nesprávném místì.}
 
+# For taking damage from rockfalls
+{138}{}{Ztrácíš }
+{139}{}{ bodù života a máš zlomenou levou nohu.}
+{140}{}{ bodù života a máš zlomenou pravou nohu.}
+{141}{}{ bodù života.}

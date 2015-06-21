@@ -49,32 +49,36 @@
 #   Updated: 6/5/97 KSW
 #   Updated to New Skill System: 9/16/98 rwh2
 #
-{300}{}{+ (4 x HB)}
-{301}{}{+ (2 x HB)}
-{302}{}{+ (2 x HB)}
-{303}{}{+ (2 x (HB+SI))}
-{304}{}{+ (2 x (HB + SI))}
-{305}{}{+ (4 x HB)}
-{306}{}{+ (2 x (VN + IN))}
-{307}{}{+ (VN + IN)}
-{308}{}{+ (3 x HB)}
-{309}{}{+ (VN + HB)}
-{310}{}{+ (3 x HB)}
-{311}{}{+ (VN + HB)}
-{312}{}{+ (4 x IN)}
-{313}{}{+ (3 x IN)}
-{314}{}{+ (5 x CH)}
-{315}{}{+ (4 x CH)}
-{316}{}{+ (5 x ŠT)}
-{317}{}{+ (2 x (OD + IN))}
+{300}{}{+ HB}
+{301}{}{+ HB}
+{302}{}{+ HB}
+{303}{}{+ (HB+SI)/2}
+{304}{}{+ (HB + SI)/2}
+{305}{}{+ HB)}
+{306}{}{+ (VN + IN)}
+{307}{}{+ (VN + IN)/2}
+{308}{}{+ HB}
+{309}{}{+ (VN + HB)/2}
+{310}{}{+ HB)}
+{311}{}{+ (VN + HB)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CH)}
+{315}{}{+ (2 x CH)}
+{316}{}{+ (3 x ŠT)}
+{317}{}{+ (OD + IN)/2}
 #
 #   Skill Use Text
+#
+{510}{}{\nskill_use: invalid skill used.}
+#
+# First Aid and Doctor
 #
 {500}{}{Vyléèil jsi %d hit body.}
 {501}{}{U vypadáš dost zdravì.}
 {502}{}{%s vypadá dostateènì zdravì.}
 {503}{}{Léèba se nezdaøila.}
-{505}{}{Za procvièení svıch schopností jsi obdrel %d zkušenosti.}
+{505}{}{Za procvièení svıch schopností získáváš %d zkušeností.}
 {510}{}{\nskill_use: pouita nevhodná schopnost.}
 {512}{}{Nemùeš oivit mrtvého.}
 {513}{}{Nech mrtvé odpoèívat v pokoji.}
@@ -99,26 +103,3 @@
 {590}{}{Vyèerpal jsi se natolik, e tuhle schopnost nemùeš pouit. Musíš chvíli poèkat.}
 {591}{}{Jsi pøíliš unavenı.}
 {592}{}{Další námaha by tì zabila.}
-
-# Fallout 2!
-{600}{}{Nemáš dost zkušeností na léèbu tak závaného poranìní.}
-{601}{}{Robot je neopravitelnì poškozen.}
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
-{1000}{}{Dovol, a ti s tím pomùu.}
-{1001}{}{Tohle zvládnu.}
-{1002}{}{Mám to.}
-{1003}{}{Rád pomùu.}
-{1004}{}{Oukej.}
-{1005}{}{Já to zkusím.}
-
-#   Player wants to do it
-{1100}{}{Kdybys mìl nìjaké problémy, dej mi vìdìt.}
-{1101}{}{Máš to?}
-{1102}{}{Kdy se ti chce . . .}
-{1103}{}{Bì a zkus to.}
-{1104}{}{Tak bì.}

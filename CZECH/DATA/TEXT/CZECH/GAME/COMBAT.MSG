@@ -2,6 +2,13 @@
 # This is all of the combat messages used by combat.c
 # Note: all %d values will be filled with a number greater than 1
 #
+#
+##
+## NOTE: EACH LINE IN THE STATUS BOX ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
+#
+#
 # Truly Generic strings (no need for gender/number issues)
 #
 {100}{}{Potøebuješ %d akèních bodù.}
@@ -322,7 +329,7 @@
 {1225}{}{zadní nohy}
 {1226}{}{oèi}
 {1227}{}{mozek}
-{1228}{}{mozek}
+{1228}{}{genitálie}
 #
 # Floater
 #

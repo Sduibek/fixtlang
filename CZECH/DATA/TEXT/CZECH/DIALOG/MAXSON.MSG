@@ -4,7 +4,7 @@
 {103}{}{Slyšel jste nìjaký dobrý fámy?}
 {104}{}{Mám tady jednu dùležitou informaci.}
 {105}{}{To je všechno. Díky.}
-{106}{Gen_1}{Nazdar, mladíèku. Cabbot øíkal, že si chceš popovídat. Hele já jsem, uch . . .
+{106}{Gen_1}{Nazdar, mládí. Cabbot øíkal, že si chceš popovídat. Hele já jsem, uch . . .
  Jsem teï dost zaneprázdnìný, takže, uch . . . Budu se s tebou bavit tak dlouho, dokud nezaèneš pøíliš mlít pantem. Víš, cizinci jsou vìtšinou takoví, nikdy nezavøou pusu . . . Hehehe. Nìco jako já, co?}
 {107}{}{Cizinci? Co tím myslíte?}
 {108}{}{A co takhle pár otázek?}
@@ -178,6 +178,9 @@
 {276}{Gen_87}{Hmm, pøedpokládám, že jsi o tom mluvil s mou asistentkou.}
 
 
+# Alchemist: I'm not sure about exact naming of the Weapon Store. Check this place.
+{278}{}{Excellent! Due to the successfully completed mission I grant you access to the weapon stock on the first level. Any more questions?}
+
 {300}{}{Možná mi to øekneš ty? Všichni tu vypadají nabroušení. Vypadá to, jako byste se chystali do války, ale nikdo neví proti komu.}
 {301}{}{Nemáš tušení, co by se mohlo skrývat za mizením karavan?}
 {302}{}{Prozkoumám oblast na severu a po návratu podám hlášení.}
@@ -229,7 +232,7 @@
 {348}{}{No nic.}
 {349}{}{Mohu se ještì na nìco zeptat?}
 {350}{}{Díky.}
-{351}{}{Získal jsi }
+{351}{}{Získáváš }
 {352}{}{ bodù zkušenosti za prùzkum severní oblasti.}
 
 #
@@ -295,6 +298,11 @@
 {1031}{}{valka}
 {1032}{}{karavany}
 {1033}{}{cip}
+{1034}{}{Disky}
+{1035}{}{HoloDisk}
+{1036}{}{HoloDisc}
+{1037}{}{Holo-Disk}
+{1038}{}{Holo-Disc}
 
 {1100}{Gen_52a}{Jsi tady. Pokud chceš delší verzi, promluv si s Vree.}
 {1101}{Gen_52b}{Mathia je mùj asistent.}
@@ -330,3 +338,8 @@
 {1131}{Gen_71}{To bylo v dobách, kdy mùj pradìd Roger Maxson vedl své vojáky a založil Bratrstvo. Nikdy se nezmínil, odkud pøišli, ale na tom vážnì nezáleží...teï je náš domov tady.}
 {1132}{Gen_65}{Butch je šéfem Far Go Traders. Je trochu úlisný, ale není úplnì zpustlý. Ne jako ti Kupci s vodou. To je parta hnusných supù, všichni do jednoho.}
 {1133}{Gen_81a}{O tom nic nevím.}
+{1134}{Gen_68}{Holodisky? Hmm... Ty už jsem dlouho nevidìl.}
+{1135}{Gen_68}{Holodisky? Hmm... Ty už jsem dlouho nevidìl.}
+{1136}{Gen_68}{Holodisky? Hmm... Ty už jsem dlouho nevidìl.}
+{1137}{Gen_68}{Holodisky? Hmm... Ty už jsem dlouho nevidìl.}
+{1138}{Gen_68}{Holodisky? Hmm... Ty už jsem dlouho nevidìl.}

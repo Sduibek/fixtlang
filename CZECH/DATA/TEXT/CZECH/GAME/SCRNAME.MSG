@@ -4,7 +4,7 @@
 {104}{}{Bodyguard }ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#bguard
 {105}{}{Kráva}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#cow
 {106}{}{Hlídaè u pøíkopu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#MoatGrd
-{107}{}{Hlídaè z Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ #guard
+{107}{}{Hlídaè}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ #Shady Sands guard
 {108}{}{Chudák}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#loser
 {109}{}{Obyvatel Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#pleasant
 {110}{}{Gunrunner}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#GunRnr
@@ -75,7 +75,7 @@
 {175}{}{Ghúlí hlídaè}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  GhZero
 {176}{}{Uvìznìnı Záøící}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  GlowOne
 {177}{}{Podzemní ghúl}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  Groundr
-{178}{}{Stránı z Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  Guard
+{178}{}{Stránı}                                          # Shady Sands Guard
 {179}{}{Harry}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  Harry
 {180}{}{Larry}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  Larry
 {181}{}{Velitel gangu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  Leader
@@ -110,7 +110,7 @@
 {210}{}{Poèítaè}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  MachIV
 {211}{}{Zatarasená místnost}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  BlkRoom
 {212}{}{Pouš}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  RndDesrt
-{213}{}{Stránı Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  TGuard
+{213}{}{Stránı}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  TGuard Shady
 {214}{}{Kuchaø z Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  cook
 {215}{}{Obyvatel Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  citizen
 {216}{}{idle}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#  HousChar
@@ -705,7 +705,7 @@
 {805}{}{Automat}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HSlots.int
 {806}{}{Orala}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HRndBar.int
 {807}{}{Hráè}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HGenGamb.int
-{808}{}{Šlapka}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HHooker.int
+{808}{}{Šlapka}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HHookerA.int
 {809}{}{John}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HJohn.int
 {810}{}{Krupiér}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # HGenDeal.int
 {811}{}{Modlící se supermutant}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ # Smpray.int
@@ -962,3 +962,17 @@
 {1062}{}{Zákazník karavany}                              # carcust.int
 {1063}{}{Boxer}                                         # jboxer.int
 {1064}{}{}                                              # stapbox.int
+{1065}{}{}                                              # invaded.int
+{1066}{}{Kráva}                                        # carcow.int
+{1067}{}{}                                              # fke_dude.int
+{1068}{}{}                                              # alldogs.int
+{1069}{}{}                                              # bobstand.int
+{1070}{}{Šlapka}                                        # HHookerD.int
+{1071}{}{}                                              # massacre.int
+{1072}{}{Poškozené silové pole}                           # redfield.int
+{1073}{}{Nájezdník}                                        # FarmRad2.int
+{1074}{}{Nájezdník}                                        # FarmRad3.int
+{1075}{}{Nájezdník}                                        # FarmRad4.int
+{1076}{}{Nájezdník}                                        # FarmRad5.int
+{1077}{}{Nájezdník}                                        # FarmRad6.int
+{1078}{}{Nájezdník}                                        # FarmRad7.int

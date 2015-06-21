@@ -1,4 +1,4 @@
-{100}{}{Vidíš ghúlího vùdce.}
+{100}{}{Vidíš nervóznì vypadajícího ghúla s nádechem autority.}
 {101}{}{Dík, že si mì rovnou nesejmul. Mùžu ti òák pomoct?}
 {102}{}{Jasnì, hledám vodu.}
 {103}{}{Jasnì, a kdopak seš?}
@@ -101,6 +101,10 @@
 {204}{}{Možná, ale ty souèástky se poztrácely nìkde ve stokách pod Vodárnou. A díky tìm monstrùm, které tam jsou, je nemùžeme dostat nazpátek.}
 {205}{}{Promiò, rád bych, kdybych mohl pomoci.}
 {206}{}{Najdu ty souèástky.}
+#
+#  by Sduibek for Fallout FIXT:
+#
+{300}{}{Vidíš podzemního vùdce.}
 
 
 ############ Tell Me Abouts

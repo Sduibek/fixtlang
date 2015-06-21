@@ -37,7 +37,10 @@
 {134}{}{Z pouštì zaútoèila skupina nechutných radškorpiónù!}
 {135}{}{Narazil jsi na skupinu strážných na patrole.}
 {136}{}{Procházíš kolem obchodníka s nìkolika strážemi.}
+{13600}{}{Procházíš kolem zbytkù obchodníka a jeho strážcù.} # added by WG
 {137}{}{Vidíš sedláka pasoucího stádo brahminù.}
+##
+{139}{}{Radškorpióni loví krtèí potkany v ruinách mìsta.}//Sduibek, Fallout FIXT
 {143}{}{Nájezdníci!}
 {144}{}{Narazil jsi na velké shromáždìní krtko-potkanù.}
 {145}{}{Narazil jsi na bandu divokých radškorpiónù.}
@@ -45,26 +48,29 @@
 {169}{}{Pøichomítnul jsi se k rodince radškorpiónù.}
 {170}{}{Procházíš kolem obchodníka a jeho stráží.}
 {171}{}{Našel jsi mrtvého cestovatele.}
-#{17100}{}{Narazil jsi na cestovatele. }
+{17100}{}{Setkáváš se s cestovatelem. }
 #{17200}{}{Narazil jsi malou skupinku zboøených budov.}
 {172}{}{Narazil jsi na nìjaké pøedmìty povalující se na zemi.}
 {173}{}{Zahlednul jsi zbytky vyloupené karavany.}
+##
 {196}{}{Radškorpióni útoèí!}
 {197}{}{Uh oh . . . loupežná výprava!}
 {198}{}{V dálce vidíš osamìlého nájezdníka.}
 {199}{}{Pøišel jsi ke zbytkùm bojištì s rozházenými tìly všude kolem.}
 {200}{}{Radškorpióni útoèí!}
+##
 {223}{}{Zahlédnul jsi párek koèovných kojotù.}
 {224}{}{Zahlédl jsi prùzkumnou skupinu.}
 {225}{}{Procházíš kolem malé skupinky obchodníkù a strážných.}
 {226}{}{Vidíš probíhat malou válku - muži proti mutantùm!}
 {227}{}{Blíží se k tobì ohromná horda radškorpiónù!}
+##
 {250}{}{Pøibližuje se nìkolik mužù v energozbrojích.}
 {251}{}{Vidíš skupinu obchodníkù s doprovodem.}
 {252}{}{Vidíš krutou bitvu mezi pouštními nájezdníky a skupinou mužù v energozbrojích.}
 {253}{}{Vidíš pár mutantù zkoumajících nehostinnou zem.}
 {254}{}{Pøed sebou vidíš nìjaká podivná stvoøení . . .}
-{25500}{}{Všimnul sis ruin malé vesnice.}
+{25500}{}{Všimáš si ruin malé vesnice.}
 {255}{}{Našel jsi nìjaké pøedmìty.}
 {256}{}{Tìsnì kolem tebe prochází patrola supermutantù!}
 {279}{}{Pøed sebou vidíš haraburdí zapadlé v písku.}

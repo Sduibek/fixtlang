@@ -6,7 +6,7 @@
 {105}{}{Co tady dìláš?}
 {106}{}{Co mi øekneš o tomhle táboøe?}
 {107}{}{Eurrreh?}
-{108}{}{Jestli je to jedna z žen ze Shady Sands, mohl by ses tam podívat.
+{108}{}{Jestli je to jedna z žen ze Shady Sands, mùžeš se tam podívat.
  Já tu jenom pracuju.}
 {109}{}{Aha, dobøe, každopádnì díky.}
 {110}{}{Mùžeš mi opravit moje vybavení?}
@@ -22,3 +22,7 @@
 {119}{}{Mám teï práci, jdi prosím nìkam jinam.}
 {120}{}{Jsi nový pøítel Garla, že ano? Co chceš?}
 {121}{}{Hmm. Tvoje vybavení vypadá v poøádku. Mám dùležitìjší úkoly.}
+#
+# Fallout FIXT:
+#
+{200}{}{Vidíš Dianu, zbrojíøku Khánù.}

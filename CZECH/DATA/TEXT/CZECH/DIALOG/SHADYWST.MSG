@@ -1,22 +1,47 @@
-{100}{}{Získal jsi 400 bodù zkušenosti za záchranu Tandi.}
+##
+## Shady Sands:
+##
+{100}{}{Získáváš 400 bodù zkušenosti za záchranu Tandi.}
 {101}{}{Na jihu vidíš mírumilovnì vypadající vesnici obehnanou vepøovicovou zdí.}
-{102}{}{Jen malá bouda zùstala stát v tìchto místech. Naštìstí víš,
- e se tu nachází vedlejší vstup do Vaultu-15.}
-{103}{}{Vidíš malou stavbu obklopenou nìkolika stany. Obyvatelé
- jsou špinaví a nechutní.}
-{104}{}{Je to støednì velké mìsto. Val z rozbitıch automobilù
- obepíná celé mìsto. Nad tím vším se vznáší mastnı dım.}
-{105}{}{Na jihu se rozkládá velké mìsto. Kolem nìj se rozprostírají farmy.
- V tìchto pouštních oázách je docela ivo.}
-{106}{}{Dorazil jsi do temného, rozboøeného mìsta. Jen obèas lze zahlédnout kradmı pohyb.
- Nad vším se vznáší pachu smrti.}
-{107}{}{Na severu stojí malá stavba obehnaná ostnatım drátem. Hrozivé
- stráe v tìké zbroji hlídkují pøed budovou.}
+##
+## Vault 15:
+##
+{102}{}{Jen malá bouda zùstala stát v tìchto místech. Naštìstí víš, e se tu nachází vedlejší vstup do Vaultu-15.}
+##
+## Raiders:
+##
+{103}{}{Vidíš malou stavbu obklopenou nìkolika stany. Obyvatelé jsou špinaví a nechutní.}
+##
+## Junktown:
+##
+{104}{}{Je to støednì velké mìsto. Val z rozbitıch automobilù obepíná celé mìsto. Nad tím vším se vznáší mastnı dım.}
+##
+## The Hub:
+##
+{105}{}{Na jihu se rozkládá velké mìsto. Kolem nìj se rozprostírají farmy. V tìchto pouštních oázách je docela ivo.}
+##
+## Necropolis:
+##
+{106}{}{Dorazil jsi do temného, rozboøeného mìsta. Jen obèas lze zahlédnout kradmı pohyb. Nad vším se vznáší pachu smrti.}
+##
+## Brotherhood of Steel:
+##
+{107}{}{Na severu stojí malá stavba obehnaná ostnatım drátem. Hrozivé stráe v tìké zbroji hlídkují pøed budovou.}
+##
+## The Glow:
+##
 {108}{}{Velkı kráter se rozprostírá na severu.}
-{109}{}{Na severovıchodì hlídkují stráe mutantù pøed opevnìnou budovou, která je zèásti zapuštìna 
- do skalního masivu.}
-{110}{}{Obrovská zdobená stavba se vypíná k nebesùm. Pøed ní bloumají
- bezcílnì davy lidí.}
+##
+## Military Base:
+##
+{109}{}{Na severovıchodì hlídkují stráe mutantù pøed opevnìnou budovou, která je zèásti zapuštìna do skalního masivu.}
+##
+## Cathedral:
+##
+{110}{}{Obrovská zdobená stavba se vypíná k nebesùm. Pøed ní bloumají bezcílnì davy lidí.}
+##
+## Gun Runners/Adytum/Followers/Rippers:
+##
 {111}{}{Na severu vidíš skladištì obehnané pøíkopem, kterı je naplnìn nìjakou fosforeskující hmotou.}
 {112}{}{Obrovská opevnìná továrna s pomalovanımi zdmi a vıhrùnì vypadajícími
  støílnami se rozkládá pøímo pøed tebou.}
@@ -24,7 +49,28 @@
 {114}{}{Uprostøed mìsta stojí obnovená a opevnìná velká knihovna.
  Z celé stavby vyzaøuje klid a mír.}
 {115}{}{Na jihu se vyzıvavì tyèí opevnìná vesnice hlídaná stráemi.}
-{116}{}{Vidíš ohromnı otisk nohy obtisknutı v prachu cesty. Hledáš dál, ale
- ádné další stopy v okolí nenacházíš.}
+##
+## StealthBoy:
+##
+{116}{}{Vidíš ohromnı otisk nohy obtisknutı v prachu cesty. Hledáš dál, ale ádné další stopy v okolí nenacházíš.}
+##
+## ???
+##
 {117}{}{ár znaèí a popel pokrıvá celı tento prostor.}
 {118}{}{Celá oblast vypadá, jako by ji zasáhla termitová bomba.}
+{119}{}{Vidíš tábor koèovnıch nájezdníkù. Vypadá to, e jsi na nesprávném místì v nesprávnı èas.}
+##
+## WastelandGhost@RestorationMOD
+##
+{150}{}{Pøed tebou se rozprostírá tiché mìsteèko, naplnìné mrtvımi tìly.
+ Stalo se tu nìco strašného.}
+{155}{}{Na severu tu je tu malá budova obklopená drátìnım plotem.
+ Vypadá poškozenì od vıbuchu.}
+##
+## Sduibek, Fallout FIXT:
+##
+{151}{}{V tomto mìste se drí zlovìstné ticho s mrtvımi tìly všude po zemi. Nìco strašlivého se tu stalo...}
+{152}{}{Pach smrti je tu pøímo ohromující. Supermutanti zde hlídkují.}
+{153}{}{Pøicházíš ke své destinaci, ale všude okolo vidíš jen smrt a pouštní vítr.}
+{154}{}{Pøed sebou vidíš hotová jatka. Nezdá se, e by to kdokoliv pøeil, i kdy je stále slyšet mdlı zvuk pohybu.}
+##

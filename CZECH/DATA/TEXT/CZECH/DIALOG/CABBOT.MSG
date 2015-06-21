@@ -3,7 +3,7 @@
 {101}{Cab_1}{Buï pozdraven a vítej v sídle Bratrstva Oceli. Mùžu vìdìt, co tì sem pøivádí?}
 {102}{}{Kdo jsi?}
 {103}{}{Mùžu se tì zeptat na pár vìcí?}
-{104}{}{Uhhh?}
+{104}{}{Emmm?}
 {105}{}{Chci se k vám pøidat.}
 {106}{}{Co tu dìláš?}
 {107}{}{Vlastnì nic, díky.}
@@ -128,18 +128,18 @@
 {225}{Cab_63}{Ó, to je dlouhý pøíbìh. Zajdi si do knihovny za Vree. Ukáže ti, kde jsou holodisky s historickými daty.}
 {226}{Cab_64}{Oh, tak, v dobì Exodu se Bratrstvo rozdìlilo na dvì skupiny.  Èást, která se oddìlila, ukradla ostatním nìjaké ty zbranì, a potom zamíøila na jih.  Asi pøed deseti lety jsme poslali pár našich Rytíøù, aby se po nich podívali, ale ti našli jen ruiny. Nikdo neví, co se tam stalo.}
 {227}{Cab_65}{Starodávné Bratrstvo sem pøišlo z nìjakého místa daleko na severu už pøed dlouhou dobou. Tomu øíkáme velký Exodus. Mùžeš si o tom pøeèíst nìco v knihovnì, když požádáš Vree, aby ti ukázala disky.}
-{228}{Cab_66}{Uhh . . . o tom nic nevím.}
-{229}{Cab_67}{Hmm . . . nevím. Možná by ses mìl zeptat nìkoho dùležitìjšího, než jsem já.}
-{230}{Cab_68}{Nevím co je to. Možná by ses mìl pozeptat jinde.}
+{228}{Cab_66}{Emm . . . o tom nic nevím.}
+{229}{Cab_67}{Hmm . . . nevím. Možná se zeptej spíše nìkoho dùležitìjšího, než jsem já.}
+{230}{Cab_68}{Nevím co je to. Možná se zeptej spíše jinde.}
 {231}{}{Promluv si s Mathiou. Ona ti o tom øekne víc.}
-{232}{}{Obdržel jsi 2000 zkušenostních bodù za získání statutu Zasvìcenec.}
+{232}{}{Získáváš 2000 zkušenostních bodù za získání statutu Zasvìcenec.}
 {233}{}{O takové jako jsi ty, tu nestojíme. Jdi pryè!}
 
 
 # Cabbot Tell-Me-Abouts generic responses
 {980}{Cab_66}{Uhh . . . o tom nic nevím.}
-{981}{Cab_67}{Hmm . . . nevím. Možná by ses mìl zeptat nìkoho dùležitìjšího, než jsem já.}
-{982}{Cab_68}{Nevím co je to. Možná by ses mìl pozeptat jinde.}
+{981}{Cab_67}{Hmm . . . nevím. Možná se zeptej spíše nìkoho dùležitìjšího,  než jsem já.}
+{982}{Cab_68}{Nevím co je to. Možná se zeptej spíše jinde.}
 
 #
 # Cabbot Tell-Me-Abouts

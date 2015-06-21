@@ -1,3 +1,6 @@
+#
+# He's fairly short, stocky and self-assured, and looks to be well-traveled.
+#
 {100}{}{Vidíš malého, podsaditého muže.}
 {101}{}{Tobì podobné tady nevidíme rádi.}
 {102}{}{Buï zdráv, cizinèe. Zdá se, že jsi tu nový. Jak 
@@ -43,7 +46,7 @@
 {128}{}{Známe tøi skupiny: Khanové, Zmije a Šakalové.
  Nenávidí se navzájem, ale všichni napadají Shady Sands.}
 {129}{}{Øekni mi víc o Shady Sands.}
-{130}{}{Má jistý a uvolnìný postoj zkušeného bojovníka.}
+{130}{}{Má jistý a uvolnìný postoj zkušeného bojovníka a vypadá být zcestovalý.}
 # TRANSLATION NOTE
 # The player-character's name is inserted by the code in between lines 131 and 132.
 {131}{}{Á, }
@@ -98,7 +101,7 @@
 {167}{}{Á, to je Maltese Falcon. Dobrá hudba, dobrý pití,
  vybraná spoleènost.}
 {168}{}{To je ale hnusnej zkurvysyn!}
-{169}{}{Získal jsi 100 bodù zkušenosti za pøemluvení Iana, aby se k tobì pøipojil.}
+{169}{}{Získáváš 100 bodù zkušenosti za pøemluvení Iana, aby se k tobì pøipojil.}
 {170}{}{Už jsem o podobnejch místech slyšel, ale nikdy jsem v žádným nebyl. Vypadá pìknì a èistì . . . trochu moc èistì, na mùj vkus.}
 {171}{}{Ne že ses mì ptal, ale èlovìk ti potøebuje dát prostor k nadechnutí.}
 {172}{}{Víš, ta ženská nedokáže vést v tangu, natož revoluci.}
@@ -280,4 +283,4 @@
 {2013}{}{Dávej pøednost boji zblízka pøed bojem na dálku.}
 {2014}{}{Vyber si sám, jak chceš bojovat.}
 {2015}{}{To je pro teï vše.}
-{2100}{}{Jasnì.}
+{2100}{}{Jasná vìc, kámo.}

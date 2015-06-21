@@ -11,7 +11,7 @@
 {600}{}{Obyvatel Vaultu}
 {601}{}{}
 {700}{}{Energo zbroj}
-{800}{}{Strážnýce Vaultu}
+{800}{}{Správce Vaultu}
 {900}{}{Supermutant}
 {901}{}{}
 {1000}{}{Velký krtko-potkan}
@@ -119,6 +119,7 @@
 {7401}{}{}
 {7500}{}{Nájezdník}
 {7600}{}{Ian}
+{7601}{}{Vypadá sebejistì, držení tìla má jako zkušený bojovník a vypadá zcestovale.}
 {7700}{}{Levitující oko}
 {7800}{}{Kryso-pras}
 {7801}{}{}
@@ -429,3 +430,86 @@
 {31000}{}{Hammer}
 {31100}{}{Mrtvý cestující}
 {31200}{}{Kenji}
+{31300}{}{Ian}
+{31400}{}{Ian}
+{31500}{}{Ian}
+{31600}{}{Ian}
+{31700}{}{Ian}
+{31800}{}{Ian}
+{31900}{}{Ian}
+{32000}{}{Ian}
+{32100}{}{Ian}
+{32200}{}{Ian}
+{32300}{}{Ian}
+{32400}{}{Ian}
+{32500}{}{Ian}
+{32600}{}{Ian}
+{32700}{}{Ian}
+{32800}{}{Ian}
+{32900}{}{Ian}
+{33000}{}{Ian}
+{33100}{}{Ian}
+{33200}{}{Ian}
+{33300}{}{Ian}
+{33400}{}{Ian}
+{33500}{}{Ian}
+{33600}{}{Ian}
+{33700}{}{Ian}
+{33800}{}{Ian}
+{33900}{}{Ian}
+{34000}{}{Tycho}
+{34100}{}{Tycho}
+{34200}{}{Tycho}
+{34300}{}{Tycho}
+{34400}{}{Tycho}
+{34500}{}{Tycho}
+{34600}{}{Tycho}
+{34700}{}{Tycho}
+{34800}{}{Tycho}
+{34900}{}{Tycho}
+{35000}{}{Tycho}
+{35100}{}{Tycho}
+{35200}{}{Tycho}
+{35300}{}{Tycho}
+{35400}{}{Tycho}
+{35500}{}{Tycho}
+{35600}{}{Tycho}
+{35700}{}{Tycho}
+{35800}{}{Tycho}
+{35900}{}{Tycho}
+{36000}{}{Tycho}
+{36100}{}{Tycho}
+{36200}{}{Tycho}
+{36300}{}{Tycho}
+{36400}{}{Tycho}
+{36500}{}{Tycho}
+{36600}{}{Tycho}
+{36700}{}{Katja}
+{36800}{}{Katja}
+{36900}{}{Katja}
+{37000}{}{Katja}
+{37100}{}{Katja}
+{37200}{}{Katja}
+{37300}{}{Katja}
+{37400}{}{Katja}
+{37500}{}{Katja}
+{37600}{}{Katja}
+{37700}{}{Katja}
+{37800}{}{Katja}
+{37900}{}{Katja}
+{38000}{}{Katja}
+{38100}{}{Katja}
+{38200}{}{Katja}
+{38300}{}{Katja}
+{38400}{}{Katja}
+{38500}{}{Katja}
+{38600}{}{Katja}
+{38700}{}{Katja}
+{38800}{}{Katja}
+{38900}{}{Katja}
+{39000}{}{Katja}
+{39100}{}{Katja}
+{39200}{}{Katja}
+{39300}{}{Katja}
+{39400}{}{Malý Radškorpion}
+{39500}{}{Matka Radškorpion}

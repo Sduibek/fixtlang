@@ -1,5 +1,22 @@
 #tento soubor pøeložil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
-{100}{}{Domestikované zvíøe.}
-{101}{}{Na tìchhle krávách není nic pøirozeného. Jejich druhá hlava je výsledek nìjaké podivné mutace.}
-{102}{}{Pøipadá ti normální.}
-{103}{}{Bù.}
+{100}{}{Dvouhlavá zmutovaná kráva. Domestikované zvíøe.}
+{101}{}{Pøipadá ti normální.}
+{102}{}{Proè mluvíš s brahminou?}
+{103}{}{Kráva na tebe chvíli zírá, pak se odvrátí.}
+{104}{}{Zvíøe tì ignoruje.}
+{105}{}{Zvíøe zabuèí, ale jinak nereaguje.}
+
+# Talking Cows Special Encounter
+
+{106}{}{Dvouhlavá zmutovaná kráva. Tahle je divoká.}
+{107}{}{Pøipadá ti normální.}
+{108}{}{Na tìchhle krávách není nic pøirozeného. Jejich druhá hlava je výsledek nìjaké podivné mutace.}
+
+{109}{}{Bùù.}
+{110}{}{Bùù!}
+{111}{}{Øíkám bùù.}
+
+
+# Is this used anywhere?
+
+{113}{}{Ta kráva se rozzuøila, protože útoèíš na její kamarádky.}

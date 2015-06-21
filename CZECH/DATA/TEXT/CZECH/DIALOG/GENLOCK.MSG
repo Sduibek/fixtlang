@@ -1,6 +1,7 @@
 {100}{}{Zdá se, že skøíòka je zamèená.}
-{101}{}{Šikovnì vylamuješ zámek.}
+{101}{}{Úspìšnì vylamuješ zámek.}#todo_normal success	Sduibek
 {102}{}{Nejsi schopen zámek vylomit.}
 {103}{}{Nepovedlo se ti vylomit zámek.}
 {104}{}{Zámek už je odemèený.}
 {105}{}{Zlomil jsi si v zámku šperhák.}
+{106}{}{Šikovnì vylamuješ zámek.}#todo_crit success		Sduibek

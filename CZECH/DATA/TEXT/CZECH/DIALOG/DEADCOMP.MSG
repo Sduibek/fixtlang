@@ -1,1 +1,110 @@
-{100}{}{Toto zaøízení nefunguje.}
+{100}{}{To je velice ošoupanı recepèní stùl se zaprášenım a prasklım monitorem na vrchu.}
+{101}{}{Zastrèíš zpìt uvolnìnı èip a monitor se pøekvapivì rozsvítí!}
+{102}{}{Poškození se zdá bıti spíše fyzické, ne v elektronice. Stále by mohl s trochou práce najet.}
+{103}{}{Toto zaøízení se jeví jako nefunkèní.}
+{104}{}{Zápolíš s bednou a øízneš se do ruky. Auvajs!}
+{105}{}{Macro$oft (TM) Wyndoze 99 (c) startuji...   Hotovo.
+
+                                          U:\ > }
+{106}{}{DIR}
+{107}{}{OPUSTIT}
+{108}{}{FALLOUT    <DIR>          20.10.99   1:04p
+                            0 bytes in 1 file     0 bytù nalezeno
+                            4,379,255 bytù volnıch}
+{109}{}{cd fallout}
+{110}{}{Wow! Dobrá hra!}
+{111}{}{                                          U:\ > }
+{112}{}{Po pár minutách prohledávání nacházíš Debug Mode jumper a nastavuješ jej na 01.}
+{113}{}{falloutw.exe}
+{114}{}{U:\Fallout\ > }
+{115}{}{.          <DIR>               10-20-99   1:04p
+                        ..         <DIR>               10-20-99   1:04p
+                    falloutw.exe     1384432   10-20-99   1:04p
+                    falldemo.exe     995328    04-22-17   2:13p
+                    2,379,760 bytes in 4 files --// 2,436,874 bytes allocated}
+{116}{}{[Pokraèovat]}
+{117}{}{> NAÈÍTÁM...  }
+{118}{}{[Hotovo]}
+{119}{}{Získáváš 100 zkušenostních bodù za hraní Falloutu.}
+{120}{}{                                          U:\Fallout\ > }
+{121}{}{Nemùu se toho Falloutu nabait.  Ty dnešní hry u vùbec nejsou jako ty z pøedváleènıch èasù.}
+{122}{}{Hmmm... Zajímalo by mì, co tohle nastavení zmìní?}
+{123}{}{> Zahájit debugovací sekvenci}
+{124}{}{*klik* ............. Prosím vyèkejte ... ... ... ... ... ... 
+               %  Hotovo.}
+{125}{}{> Zaèít protokol èitìní pamìti}
+{126}{}{falldemo.exe}
+{127}{}{Získáváš 25 zkušenostních bodù.}
+{128}{}{[Hotovo]}
+{129}{}{ÈIŠTÌNÍ PAMÌTI ZAHÁJENO >>> NEVYPÍNEJTE, ANI NERESETUJTE TERMINÁL
+...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
+...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  }
+{130}{}{Já tu nièemu nerozumím. Copak jsem nìjakej Poèmág?}
+{131}{}{Vidíš: Poèítaèovou desku.}
+{132}{}{> VLOTE PROSÍM EXTRAHOVACÍ MÉDIUM <}
+{133}{}{Ehm... Nic takového nemám.}
+{134}{}{[Podívat se, jestli není v poèítaèi nìjakı externí disk]}
+{135}{}{
+
+Úspìch! Nacházíš 5" disketu pod klávesnicí. Je velmi zaprášená, ale zdá se bıti funkèní.}
+{136}{}{
+
+Nenacházíš nic podobné disku, èi kazetì...}
+{137}{}{[Pokraèovat v hledání]}
+{138}{}{
+
+Je tu jeden starı holodisk v kazetové mechanice, která vypadá, e by mohla fungovat s tvım Pip-Boyem!}
+{139}{}{[Instalovat disk]}
+{140}{}{vrrrgrrr... Do-kam?}
+{141}{}{
+
+Po zfouknutí prachu a kontrole správného pøilnutí pásky k cívkám, zasuneš holodisk kompletnì do mechaniky. Zfoukneš prach z 5" diskety a vloíš ji do disketové mechaniky a otoèíš zamykací páèkou.}
+{142}{}{> 12:50 [Stisknout Enter]}
+{143}{}{[Na chvíli na disketovce blikají svìtla a kazetovı motor hlasitì vrèí. To skonèí spolu s pravidelnım zvukem ètení v disketovce.]}
+{144}{}{>>> NEVYPÍNEJTE, ANI NERESETUJTE TERMINÁL >>> :: DATA BY MOHLA BİT POŠKOZENA ::
+
+OVÌØUJI DATA: 0% ### ### ### 32% ### ### ### 59% ### ### ### 82% ### ### ### 99% ### ### ### ... Done.
+ZAPISUJI 512KB DO PAMÌOVÉHO BUFFERU: 0% ### ### ### 28% ### ### ### 62% ### ### ### 77% ### ### ### 95% ### ### ### ... Done.
+OVÌØUJI PAMÌ: 0% ### ### ### 17% ### ### ### 50% ### ### ### 79% ### ### ### 97% ### ### ### ... Done.}
+{145}{}{:::PØENOS DAT ZAHÁJEN:::
+.
+...
+.....
+Pøenášení 6,759,015 bytù na kazetovou záloní jednotku................................
+.......
+.........
+...........}
+{146}{}{PØENOS DAT KOMPLETNÍ. PROSÍM ODEBERTE EXTERNÍ MÉDIUM. PØEJI PØÍJEMNİ DEN.
+[Systém se vypíná, krátké obvody po chvíli zcela ztichnou]}
+{147}{}{Díky!}
+{148}{}{Poèítaè vypadá tìce poškozen a neopravitelnı.}
+{149}{}{Mnoho obvodù je usmaeno od EMP vlny.}
+{150}{}{Nefunguje to.}
+{151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
+{152}{}{Získáváš 25 zkušenostních bodù za hraní Falloutu.}
+{153}{}{Zajímavé. Plná verze bude urèitì super hra!}
+{154}{}{Hmm. Plná verze Falloutu je lepší, ale demo má taky své kouzlo.}
+{155}{}{Získáváš 25 zkušenostních bodù za hraní Interaktivního dema Falloutu.}
+{156}{}{}
+{157}{}{}
+{158}{}{}
+{159}{}{}
+
+# 400 and 401 are picked randomly when playing falldemo.exe, and represent the different playtype paths
+
+{400}{}{Pro gangy nemá moc velkı vıznam bojovat o Hnojárnu bez funkèního generátoru. Lidé Hnojárny teï sice povedou chudší ivot bez jejich energie, zato ale budou moci ít klidnì bez gangù za zády.}
+{401}{}{Pøeíváš dlouhou bitvu plnou krveprolití. Hnojárna je opìt v bezpeèí, kdy jsou gangy poraeny. Lidé ti jsou zavázáni a dávají ti nìjaké cenné informace.}
+
+# 500 onward are picked randomly when playing falloutw.exe, and represent the different playtype paths
+
+{500}{}{Po znièení Vùdce a jeho laboratoøe, ve které tvoøil svoji armádu supermutantù, se navracíš domù a zjišuješ, e ji pro tebe ve Vaultu není místo a lidé se tì bojí. Dìkujeme za hraní Falloutu.}
+
+#dialog/'good'
+{501}{}{Po pøesvìdèení Vùdce, aby zanechal jeho chorıch plánù o nadvládì a znièení nádríse navracíš domù a zjišuješ, e ji pro tebe ve Vaultu není místo a velitel tì odhání ze strachu, e by tì lidé mohli následovat. Dìkujeme za hraní Falloutu.}
+
+#combat/'evil'
+{502}{}{Po znièení nádrí, Vùdce a jeho armády supermutantù se navracíš domù a velitel tì odmítá pustit dovnitø. Jeho mrtvola bude pøed vchodem do Vaultu hnít ještì dlouho. Dìkujeme za hraní Falloutu.}
+
+#traitor/dipped
+{503}{}{Ponoøili tì do FEV a pøipojuješ se k Vùdcovì Jednotì a odhalíš jim pozici Vaultu 13. Odmìní tì vedením útoku na tvùj vlastní Vault a zabiješ velitele holıma rukama. Dìkujeme za hraní Falloutu.}
+

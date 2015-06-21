@@ -398,6 +398,7 @@
 {20200}{}{Schránka}
 {20300}{}{Schránka}
 {20400}{}{Schránka}
+{20401}{}{}
 {20500}{}{Svìtlice}
 {20501}{}{Svìtlice.  Po krátkou dobu vytváøí svìtlo.  Papír je trochu omšelý, ale jinak je v dobrém stavu. Je zapálená.}
 {20600}{}{Dynamit}
@@ -421,7 +422,9 @@
 {21500}{}{Historie Bratrstva}
 {21501}{}{Holopáska obsahující informace vztahující se k Bratrstvu Oceli. Dá se použít k vložení informací do tvého PIPBoye 2000.}
 {21600}{}{Maxsonova historie}
+{21601}{}{}
 {21700}{}{Maxsonùv deník}
+{21701}{}{}
 {21800}{}{Malé vyléèení}
 {21801}{}{Zvol tuto možnost, pokud chceš vyléèit lehké poranìní.}
 {21900}{}{Støední vyléèení}
@@ -472,3 +475,7 @@
 {24101}{}{Upravená puška ráže .223, s upilovanou hlavní. Tohle je jedineèná støelná zbraò vyrobená s láskou a umìním.  Min SÍ: 5.}
 {24200}{}{Pumpovací brokovnice}
 {24201}{}{Winchester Hromadný vrah, 12-ranná bojová brokovnice. Ve výborném stavu. Lze ji vybavit pøídavným tìsnìním Pouštní špunt, které významnì prodlužuje životnost zbranì.  Min SÍ: 5.}
+{24300}{}{Podvodník}
+{24301}{}{Ty hajzle podvodnická.}
+{24400}{}{Zlatý nuget}
+{24401}{}{Nuget ze zlata.}

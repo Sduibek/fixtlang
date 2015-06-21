@@ -2,7 +2,7 @@
 {100}{}{Systém:ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿPrimární zdroj energie:ÿÿÿÿÿÿÿÿÿÿÿÿVYPNUTO ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿNouzový zdroj energie:ÿÿÿÿÿÿÿÿÿÿV PROVOZU}
 {101}{}{Ovládání energetických systémù}
 {102}{}{O*vl*dn*g*n*r*t*rù}
-{103}{}{Exit}
+{103}{}{Opustit}
 {104}{}{Ovládání energetických systémù}
 {105}{}{Øízení primárního zdroje}
 {106}{}{Øízení nouzového zdroje}
@@ -31,7 +31,7 @@
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿPrimární zdroj:ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿV PROVOZU}
 {126}{}{v*p*nt* pr*m*rní z*dr*j}
 {127}{}{Vypnout primární generátor}
-{128}{}{Exit}
+{128}{}{Opustit}
 {129}{}{O*vl*ní e*ne*rg s*s*t*é*mù}
 {130}{}{pr*m*rní z*d*rj}
 {131}{}{n*zo*vý z**drj}
@@ -50,11 +50,11 @@
 {142}{}{pr*m*r* p*w*r *v*l**t**n}
 {143}{}{*n*bl* *m*rg*nc* p*w*r}
 {144}{}{p*w*r m*n*g*m*nt r*s*rc*}
-{145}{}{Exit}
+{145}{}{Opustit}
 {146}{}{S*st*m *rr*r!
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ*nv*l*d *s*r. n*t*f* *dm*n*str*t**n.
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿS*st*m h*lt*d.}
-{147}{}{Exit}
+{147}{}{Opustit}
 {148}{}{d*s*bl* *m*rg*nc* p*w*r}
 
 {200}{}{Pøístup do Hlavního menu.}

@@ -1,1 +1,12 @@
-{100}{}{Za likvidaci radškorpiónù jsi získal 500 bodù zkušenosti.}
+# Now split to allow different exp reward amount:  (Sduibek)
+#
+{100}{}{Získáváš }
+{101}{}{ zkušenostních bodù za zabití všech radškorpionù a ochranu Shady Sands.}
+{102}{}{Má znaky pùvodního severo-amerického Škorpióna Královského.}
+#
+# From GENCHAT.MSG:  (Sduibek)
+#
+{188}{}{Radškorpióni jsou teï zataraseni ve své jeskyni nepøedstavujíc další hrozbu pro Shady Sands.}
+{189}{}{}
+#
+{200}{}{Ústí jeskynì tì láká hloubìji do doupìte radškorpionù...}

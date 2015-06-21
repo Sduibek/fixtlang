@@ -1,57 +1,121 @@
 #tento soubor pøeloil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
 {100}{}{Vidíš doktorku Bratrstva.}
 {102}{}{Vítej, jak ti mùu pomoci?}
-{103}{}{Jsem ranìnı.}
-{104}{}{Mám nemoc z ozáøení.}
+{103}{}{Mám bolesti ze zranìní.}
+{104}{}{Trpím na ozáøení.}
 {105}{}{Provádíš tu operace?}
 {106}{}{Povìz mi ještì jednou o tìch operacích.}
-{107}{}{Ug!}
-{108}{}{Jsi ranìnı? Tak se na to podíváme...}
+{107}{}{Opravuješ?}
+{108}{}{Poranìní? Tak se na to podíváme...}
 {109}{}{Tak u je to v poøádku. Teï mùeš jít. Pøíštì buï opatrnìjší.}
 {110}{}{Promiò, ale nemùu ti pomoci, kdy mi neøekneš, co ti je.}
 {111}{}{Vypadáš úplnì v poøádku.}
 {112}{}{Tak a je to. Doufám, e u se cítíš lépe.}
 {113}{}{Mùeš jít, ale vyhıbej se zatím rvaèkám.}
 {114}{}{Tak to bychom tì mìli spravit.}
-{115}{}{Jsi zase jako novı.}
+{115}{}{Jsi zase jako z vırobní linky.}
 {116}{}{Všechno je vyléèeno.}
 {117}{}{Radiace je velice nebezpeèná; musíš bıt opatrnìjší.}
 {118}{}{Na hraní nemám èas.}
 {119}{}{Ale samozøejmì e ano, ale je to velice drahá a zdlouhavá záleitost.}
 {120}{}{Øekneš mi nìjaké podrobnosti?}
-{121}{}{Oukej, zapomeò na to.}
-{122}{}{No, mùu tì udìlat silnìjší, vnímavìjší, zlepšit tvoji odolnost a pohyblivost a pomoci vylepšit tvé mozkové procesy. Kadá operace se dá provést jen jednou. O které bys toho chtìl vìdìt víc?}
+{121}{}{Oukej, nevadí.}
+{122}{}{No, mùeš bıt silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùu vylepšit tvé mozkové procesy.
+Také mám zkušenosti s plastickımi operacemi. Kadá operace se dá provést jen jednou.
+O které toho chceš vìdìt víc?}
+
+# With "Bug Fixes Only" enabled, or Charisma disabled
+{222}{}{No, mùeš bıt silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùu vylepšit tvé mozkové procesy.
+O které toho chceš vìdìt víc?}
+
+{124}{}{Kdo jsi?}#
+{125}{}{Jmenuji se Lori. Vedu lékaøské oddìlení a ošetøuji všechna velká zranìní
+ a lékaøské zákroky. Jsem tu jedinou fungující doktorkou, tak radìji preferuji oslovování
+ pøímo jmény. A ty jsi kdo?}#
 {126}{}{Oukej, o které operaci chceš mluvit?}
 {127}{}{Síla.}
 {128}{}{Vnímání.}
 {129}{}{Odolnost.}
+{123}{}{Charisma.}#
 {130}{}{Inteligence.}
 {131}{}{Obratnost.}
 {132}{}{Zapomeò na to.}
-{133}{}{Není to obtínı zákrok, ale rekonvalescence je dlouhá. Stojí pouze 2000 zátek, ale pooperaèní léèení zabere 3 tıdny.}
+{133}{}{Není to obtínı zákrok, ale rekonvalescence je dlouhá. Stojí pouze }
+{134}{}{Jmenuji se }#
 {135}{}{Chci to!}
 {136}{}{Ještì si to rozmyslím.}
-{137}{}{No to je obtíná operace. Stojí sice 4000, ale na druhou stranu rekonvalescence zabere jen jeden tıden.}
-{139}{}{Tahle není a tak sloitá. Zabere to asi tıden a stálo by to 3000 babek.}
-{141}{}{Tohle je velice rozsáhlı a nebezpeènı zákrok! Rekonvalescence zabere 3 tıdny a bude to stát 6000.}
-{143}{}{Tohle není a tak problematická operace, ale je velice drahá a zabere spoustu èasu. Léèení zabere asi 3 tıdny a stojí to 5000 zátek.}
+{137}{}{No to je obtíná operace. Stojí sice }
+
+#TRANSLATION NOTE: Player's name will be inserted after line 138.
+#Brotherhood of Steel calls everyone "Brother ____", even females.
+{138}{}{Je mi potìšením tì poznat, Zasvìcenèe }#
+{139}{}{Tahle není a tak sloitá. Zabere to asi tıden a stálo by to }
+{140}{}{Mám v sobì otravu!}#
+{141}{}{Tohle je velice rozsáhlı a nebezpeènı zákrok! Rekonvalescence zabere 3 tıdny a bude to stát }
+{142}{}{ A teï, co pro tebe mohu udìlat?}#
+{143}{}{Tohle není a tak problematická operace,
+ ale je velice drahá a zabere spoustu èasu.
+ Léèení zabere asi 3 tıdny a stojí to }
+{144}{}{[Pokraèovat]}#
+{145}{}{Jde o støednì obtínou operaci s dlouhou rekonvalescencí. Bude tì stát }
 {146}{}{OK, je to hotovo. Doufám, e z tı pìny nedostaneš ádnou vyráku.}
-{147}{}{Lituji, ale kdy nemáš ty peníze, nemùu ti pomoci.}
-{148}{}{Je mi líto, ale ty jsi cizinec. A budeš v Bratrstvu deset let, udìlám ti ty operace zadarmo. Všechny potøeby jsou ale velice drahé a ty dosud ještì nejsi øádnım èlenem Bratrstva.}
-{149}{}{A budeš mít ty peníze pohromadì, dej mi vìdìt.}
+{147}{}{Lituji, ale kdy nemáš peníze, nemùu ti pomoci.}
+{148}{}{Je mi líto, ale jsi stále cizinec. A budeš v Bratrstvu deset let,
+ udìlám ti ty operace zadarmo. Všechny potøeby jsou ale velice drahé a ty dosud ještì nejsi øádnım èlenem Bratrstva.}
+{149}{}{Dej mi vìdìt, a budeš mít potøebné peníze na operaci pohromadì.}
+{150}{}{Nemohu pøesnì urèit tvoji fyzickou sílu v té Energo zbroji.
+ Sundej si ji prosím a pøijï znovu.}#
+ 
+ #TRANSLATION NOTE: Player's name will be inserted between lines 151 and 152.
+{151}{}{Já bıt }
+{152}{}{.}
+
 {153}{}{Nechtìl jsi se zeptat na nìco jiného?}
+{155}{}{Bøíško bolet!}#
+{157}{}{Bebí?!}#
+{158}{}{Znovu tì zdravím, mohu ti nìjak pomoci?}#
+
+#STRENGTH
 {154}{}{Oukej, díky za peníze a sbohem . . . Jen ertuju. Mùeme se do toho pustit. (Poloila ti na oblièej masku, slyšíš zasyèení plynu a tvé vìdomí pomalu odplouvá pryè.)}
 {156}{}{Tak jak ti je? (U cítíš ten rozdíl.) Víš, e jsi docela upovídaná osoba, kdy spíš? No mùeš jít! Pøeju krásnı den.}
+
+#PERCEPTION
 {159}{}{Pryè s tím starım a dovnitø s novım . . . (Padáš do tmy jak kámen do propasti.)}
-{161}{}{Vypadáš úplnì stejnì, ale cítíš se . . . jak? (Všechny tvé smysly jsou náhle nìjak ostøejší.) Tak a teï u bys nám tu jen zabíral potøebné lùko. Mùeš jít!}
+{161}{}{Vypadáš úplnì stejnì, ale cítíš se . . . jak? (Všechny tvé smysly jsou náhle nìjak ostøejší.) Tak a teï u nám tu jen zabíráš potøebné lùko. Mùeš jít!}
+
+#ENDURANCE
 {164}{}{Doufám, e máš silné srdce . . . (Lišácky na tebe mrká, zatímco usínáš.)}
 {166}{}{Pøipadáš mi trochu mohutnìjší ne pøedtím. (Cítíš se skvìle!) No, kdybys mìl nìjaké problémy, dej mi vìdìt.}
+
+#CHARISMA
+{180}{}{Doufám, e nezkonèíš jako ten minule se strnulım okem... [Bojuješ s úèinkem uspávadla, ale je pøíliš silné]}
+{181}{}{Teda, tobì to ale sluší. Vánì jsem se pøekonala. [Prohlíí si tì párkrát odshora dolù a pak se vytrhne z pøedstav] Oh, promiò, mùeš jít.}
+
+#INTELLIGENCE
 {168}{}{Zatracenì, kde je zas ten mozek? A na co je tamhleta divná vìc? (Zkoušíš bojovat s úèinkem drog, ale je to pøedem prohraná bitva.)}
-{170}{}{No, vypadá to, e se mi všechno zas podaøilo dát zpátky na správné místo a kupodivu to i funguje. (Je to, jako by všechny tvé myšlenky mìly najednou pøímé spojení s jakoukoli oblastí tvého mozku a i tvá pamì mnohem ostøejší.) Ale hej, neber mì vánì.}
+{170}{}{No, vypadá to, e se mi všechno zas podaøilo dát zpátky na správné místo a kupodivu to i funguje. (Je to, jako by všechny tvé myšlenky mìly najednou pøímé spojení s jakoukoli oblastí tvého mozku a i tvá pamì je mnohem ostøejší.) Ale hej, neber mì vánì.}
+
+#AGILITY
 {174}{}{Vıbornì. Tak si tu lehni. (Ty drogy jsou tak . . . konejšivé. Upadáš do spánku jak do mìkké maminèiny náruèe.)}
-{176}{}{Oukej, jsi pøipraven pro další slubu. (Napínáš svaly a cítíš, e reagují mnohem pohotovìji a lépe je i kontroluješ.) Všechno, o co tì ádám, je, abys nikomu nedovolil zbyteènì nièit moje mistrovské dílo.}
+{176}{}{Oukej, mùeš zase do sluby. (Napínáš svaly a cítíš, e reagují mnohem pohotovìji a lépe je i kontroluješ.) Všechno, o co tì ádám, je, abys nikomu nedovolil zbyteènì nièit moje mistrovské dílo.}
+
+{182}{}{Díky!}#
+
+{185}{}{Poøád ale ne tak, jako tobì.}#
+
+#
+# NOT LORI
+#
 {200}{}{Vidíš doktorèina asistenta.}
-{279}{}{Mìl by sis promluvit s doktorkou.}
+{233}{}{ zátek, ale pooperaèní léèení zabere 3 tıdny.}
+{237}{}{ zátek, ale na druhou stranu rekonvalescence zabere jen jeden tıden.}
+{239}{}{ zátek.}
+{241}{}{ zátek.}
+{243}{}{ zátek.}
+{245}{}{ zátek a tøi tıdny léèení.}
+#
+#
+{279}{}{Spíš si promluv s doktorkou.}
 {280}{}{Ona je doktor, ne já.}
 {281}{}{Já se tu jen zacvièuju.}
 {282}{}{Lituju, ale oficiálnì ti nesmím pomáhat.}
@@ -59,19 +123,77 @@
 {284}{}{Musíš se zeptat doktorky.}
 {285}{}{Neboj se, ona si jen dìlá legraci.}
 {286}{}{Jen ráda škádlí lidi, neber ji vánì.}
-{300}{}{Je mi líto, ale tahle operace ti nepomùe.}
 
-{400}{}{Hmmm. Jestli tu nìkdo potøebuje rozšíøit inteligenci, tak jsi to urèitì ty. A pro tebe to udìlám za 3000$ namísto 6000$, které si beru normálnì. Nemùu sice zaruèit, e ti to pomùe, ale pøi tvém intelektu ti to zaruèenì neuškodí. A taky to zabere 3 tıdny rekonvalescence. Ale ty mi asi stejnì moc nerozumíš, co?}
+{500}{}{Je mi líto, ale tahle operace ti nepomùe.}
+
+{400}{}{Hmmm. Jestli tu nìkdo potøebuje rozšíøit inteligenci, tak jsi to urèitì ty.
+ A pro tebe to udìlám za 3000 zátek namísto 6000, které si beru normálnì.
+ Nemùu sice zaruèit, e ti to pomùe, ale pøi tvém intelektu ti to zaruèenì neuškodí.
+ A taky tu budeš 3 tıdny leet. Ale ty mi asi stejnì moc nerozumíš, co?}
 {401}{}{Já chtít bıt chytrı.}
-{402}{}{Nechtít.}
-{403}{}{Jsi zranìnı nebo snad ozáøenı? Pomùu ti, budu-li moct.}
-{404}{}{Já bıt zranìnı.}
+{402}{}{Nechtít. Doktor bát...}
+{403}{}{Dobrá tedy. Zranìní nebo ozáøení? Pomùu ti, budu-li moct.}
+{404}{}{Já bolí.}
 {405}{}{Vlasy mi padat.}
-{406}{}{Ne.}
+{406}{}{Ne-e.}
 {407}{}{Ok. Jsi vzhùru. Podívej se na mì. Cítíš se chytøejší?}
-{408}{}{Pravda a láska musí zvítìzit nad lí a nenávistí.}
+{408}{}{He?}
 {409}{}{Ano!}
-{410}{}{Sakra! Nepovedlo se to. No, ale v podstatì nebylo ani na èem pracovat. Je mi líto, jsi jen idiot a zùstaneš idiotem i nadále. Je mi líto, e to musím øíct, ale ta operace se dala udìlat jen jednou.}
+{410}{}{Sakra! Nepovedlo se to. No, ale v podstatì nebylo ani na èem pracovat.
+ Je mi líto, jsi jen idiot a zùstaneš idiotem i nadále. Je mi líto, e to musím øíct,
+ ale ta operace se dala udìlat jen jednou.}
 {411}{}{Úspìch! Podaøilo se mi zvednout tvoje IQ na pøijatelnou úroveò. Mimochodem, jaké to je, mít pùlku mozku?}
 {412}{}{Je to skvìlé. Díky doktorko. Sbohem.}
 {413}{}{Všechno v poøádku}
+#
+# Fallout FIXT, by Sduibek:
+#
+
+#Bionic Man
+{502}{}{Jaké další operace mùeš provést?}
+{503}{}{No, technicky vzato, nemìla bych o tom mluvit, ale dìláme tu ještì další procedury.
+ Ale varuji tì, nìkteré jsou velmi nebezpeèné a nesou sebou rizika vedlejších úèinkù,
+ na druhou stranu dìlám i vcelku bezpeèné, ale vyadující extrémnì dlouho rekonvalescenci.
+ Chceš o tom více informací?}
+
+#Poison examine
+{504}{}{Oh ano, kouknu se na to...}
+
+#Sex
+{300}{}{Roztomilé, ale nemám zájem. Pøijï, a budeš potøebovat lékaøskou pomoc.}
+{301}{}{Nic proti zlato, ale seš mírnì pod mımi oèekávaními. Ale dìkuji za lichotky.}
+{302}{}{Oh, dìkuji velice. [Zèervenala] Vìtšinou tu moc komplimentù nedostávám.
+ Bıt doktorkou v Bratrstvu znamená spousta stresu a nevdìèné práce. Proto tak ráda vtípkuji,
+ abych se udrela v dobré náladì a pozitivní.}
+
+{303}{}{Rozumím. Nepomohlo by ti èas od èasu trochu uvolnit páru?}
+{304}{}{Nemáš zaè. Navidìnou!}
+
+{305}{}{No... Obèas se cítím smutnì a nìco jako "volno" tu vùbec nená, kdy jsi jedinı doktor v Bratrstvu.
+ Ehm, co to tu øíkám? To je tak hloupé.}
+
+{306}{}{Mìla byses nad to povznést. Buï hrdá na svoji práci a zbytek pøijde u sám.}
+{307}{}{ivot je pøíliš krátkı. Nechceš si ho taky aspoò trochu uít?}
+{308}{}{To vùbec není hloupı. [Lehce ji pohladit po tváøi, pak se naklonit a políbit jí]}
+
+{309}{}{Ano, asi máš pravdu. [Otøepe se a vzdechne, srovná se a usmìje]
+ Tak, zpátky do práce! Díky za ten kompiment.}
+{310}{}{[Na chvíli se zamyslí] Máš pravdu. Chci si ho uít. Dej mi tak deset minut - Musím pøipravit
+ zkušební stùl. [Ïábelsky se usmìje a kousne se do dolního rtu]}
+{311}{}{[Chytá tì za ruku a odvádí do jejího pokoje...]}
+
+{312}{}{To bylo tak krásné. Já... asi jsem se do tebe zamilovala. [Hihòá se] Dìlám si srandu!
+ Tak jo, èas jít, mám ještì nìjakou práci.}
+{313}{}{Ah, wow. Takhle sem si to neuila u roky. Ta bude bolet ještì alespoò tıden,
+ ale stálo to za to. [Touebnì se na tebe podívala] Tohle si musíme brzy zopakovat!}
+{315}{}{Jasná vìc. Brzy navidìnou.}
+
+{314}{}{Jdeš si pro pøídavek?}
+
+{316}{}{Co to dìl- ... [Je nejprve polekaná, ale rychle se poddá a zaène ti polibky opìtovat
+ jemnì, nìnì vzdychajíc. A jak jsou polibky èím dál tím více vášnivé, pøestala a táhne tì pryè] Pojï se mnou.
+ [Postaví se a vede tì do její ubikace...]}
+
+{317}{}{Ano! Cítím se s tebou tak krásná a chtìná.}
+{318}{}{[Usmìje se a vezme tì za ruku...]}
+{319}{}{No, potøebovala bych si trošku oivit lekce anatomie... [Mrkne]}

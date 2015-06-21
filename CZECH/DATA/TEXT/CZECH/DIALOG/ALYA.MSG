@@ -1,5 +1,5 @@
 #tento soubor pøeložil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
-{100}{}{Vidíš pouštní banditku Alyu.}
+{100}{}{Vidíš pouštní banditku Alyu. Vypadá to, že tu má nìjakou dùležitou roli podle toho jak na ní ostatní koukají.}
 {101}{}{Jsem Alya z Khanù. V èem ti mùžu pomoct?}
 {102}{}{Hledám dívku jménem Tandi. Vidìla jsi jí?}
 {103}{}{Co takhle menší polibek?}
@@ -28,3 +28,7 @@
 {123}{}{Jestli si ze mnì míníš dìlat legraci, tak ti vøele doporuèuju, abys odsud radši rychle vypadl.}
 {124}{}{Podle mì je to fér. A teï mi radši zmiz z oèí.}
 {125}{}{Teï nemám èas. Musím se pøipravit na náš pøíští výpad.}
+#
+# Fallout FIXT:
+#
+{200}{}{Vidíš Alyu, jednu z rádkyò Garla.}

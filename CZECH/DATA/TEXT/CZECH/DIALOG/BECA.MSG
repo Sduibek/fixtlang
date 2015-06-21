@@ -1,4 +1,11 @@
 #tento soubor pøeložil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
+# Alchemist: Warning! Achtung! Uwaga!
+# Beca's script is bound to the ol' black male at the Blades map, but this is
+# temporary measure. Actually Quatermistress IS a women! So she must be
+# referenced as 'SHE/HER' NOT 'he/his/him'. 'Jade' stands for nickname and
+# 'Bec'a stands for the real one.
+
+
 {100}{}{Vidíš Jadea.}
 {101}{}{Vidíš Becu.} 
 {102}{}{}
@@ -17,3 +24,7 @@
 {115}{}{Mùžu si tu trochu oddechnout?}
 {116}{}{Ne. Tohle je jenom pro opravdové Blades, ne pro kdejakého pøivandrovalce.}
 {117}{}{Hej, kámo! Jak je? Lehni si tu, jestli hledáš kousek klidnýho místeèka.}
+{118}{}{Takže, ty jsi ten dobrovolník. Lepší, než nic, tipuju. Díky. Povím o tom všem.}
+{119}{}{Jasnì. Uvidím co se dá dìlat.}
+{120}{}{Èau podruhý. Zaslechla jsem, že je to zmáknuté. Rozhodnì si zasloužíš náš respekt. Jsme teï volní. [Jsi teï èlenem gangu Blades.]}
+{121}{}{S tím ti nepomùžu. Jdi si promluvit s Razor.}

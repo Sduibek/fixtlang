@@ -1,10 +1,10 @@
-{100}{}{Na dveøním rámu jsi našel výbušninu.}
-{101}{}{Spustil jsi explozi!}
-{102}{}{Zneškodnil jsi past.}
-{103}{}{Nezneškodnil jsi past.}
-{104}{}{Náhodnì jsi pøivedl past k výbuchu!}
-{105}{}{Náhodnì jsi pøivedl past k výbuchu, protože jsi byl sice dost chytrý na to, abys ji objevil, ale ne dost na to, abys ji nechal na pokoji.}
+{100}{}{Na dveøním rámu nacházíš výbušninu.}
+{101}{}{Spouštíš explozi!}
+{102}{}{Past byla zneškodnìna.}
+{103}{}{Past nebyla zneškodnìna.}
+{104}{}{Náhodnì pøivádíš past k výbuchu!}
+{105}{}{Náhodnì pøivádíš past k výbuchu, chytrost ti pomohla výbušninu najít, ale už ti nezabránila se v ní hrabat.}
 {106}{}{Uuff!}
 {107}{}{Aargh!}
-{200}{}{Získal jsi }
+{200}{}{Získáváš }
 {201}{}{ bodù zkušenosti za nalezení tajných dveøí.}

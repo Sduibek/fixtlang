@@ -3,8 +3,7 @@
 {102}{}{Co uctíváte?}
 {103}{}{O co tady jde?} 
 {104}{}{Mám pro tebe nìjakou informaci.}
-{105}{Nic_1}{Buï zdráv. Fajn! Jsme velmi rádi, že se k nám mùžeš pøidat.
-Doufáme, že tì náš skromný pøíbytek uspokojí.}
+{105}{Nic_1}{Buï zdráv. Fajn! Jsme velmi rádi, že se k nám mùžeš pøidat. Doufáme, že tì náš skromný pøíbytek uspokojí.}
 {106}{}{Díky. Mùžeš mi øíct víc o tom, co tu uctíváte?}
 {107}{}{'Skromný pøíbytek' není špatnì øeèeno. 'Smetištì' by ale bylo výstižnìjší.}
 {108}{}{Ano. Mohu se na nìco zeptat?}
@@ -150,7 +149,7 @@ Doufáme, že tì náš skromný pøíbytek uspokojí.}
 {248}{}{Ne, takhle ne. Nevíš, jestli tam nevede nìjaký tajný vchod?}
 {249}{}{Fajn, sejdeme se tam.}
 {250}{}{Ne! Nechci, aby se komukoli nìco stalo.}
-{251}{Nic_52a}{Ne, ale znám nìkoho, kdo to ví. Jdi do katedrály a najdi ženu jménem Laura. Øekni jí 'Red Rider'. Pokusíme se trochu odvrátit pozornost, pokud to pùjde.}
+{251}{Nic_52a}{Ne, ale znám nìkoho, kdo to ví. Jdi do katedrály a najdi ženu jménem Laura. Øekni 'Red Rider'. Pokusíme se trochu odvrátit pozornost, pokud to pùjde.}
 {252}{}{Díky. Doufám, že štìstí bude stát pøi nás.}
 {253}{Nic_53}{Štìstí s tím nemá nic spoleèného. Já ti absolutnì vìøím.}
 {254}{Nic_56}{Leží pøed námi náš Osud. Vìøme, že jsme ho hodni.}

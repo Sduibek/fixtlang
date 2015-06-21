@@ -151,7 +151,33 @@
 {305}{}{Kdy se tam dostanem?}
 
 
-{980}{TAND_62}{Nevím. Moná by ses na to mìl spíš zeptat Setha nebo mého otce.}
+#
+# Sex msgs, by Sduibek for Fallout FIXT:
+#
+{350}{TAND_16a}{Jasnı, kdy øíkáš.}
+
+{399}{}{[Jít za ní]}
+{407}{}{[Pokraèovat]}
+{412}{}{[Usmívá se a vede tì do svého pokoje]}
+
+{400}{TAND_3}{Jasòaèka, teda asi. Ještì nikdy jsem necestovala, take netuším jak mohu bıt nápomocná. Take co potøebuješ?}
+# no {401}{TAND_29}{[Pøes rameno, aby to slyšel Aradesh] Hele, musím jít teï podojit brahminy. Bylo fajn si s tebou pokecat. [Otoèí se k tobì a pokyne rukou, a ji následuješ...]}
+
+{402}{TAND_28}{Tak díky za... "pokec". [mrkne a usmìje se] Sem nezavítá moc cizincù, take je pro nás svátek, kdy si mùem s nìkım novım "pokecat". Tak zatím!}
+# probably not {403}{TAND_35}{Em... ahoj, díky. Zatím. [vypadá unavenì]}
+
+{404}{}{Nìco, co by se nemìlo øíkat tady nahlas, aby se to nerozneslo. Pojïme nìkam kde je více klid a povím ti to...}
+{405}{}{Vypadáš docela... nezkušenì. Chci ti pøedat své zkušenosti. A mìli bychom rovnou zaèít, máme toho hodnì na práci. [mrknout]}
+{406}{}{[povzdechnout si] Víc, ne mi mùeš nabídnout, ale to nìjak pøeiju.}
+
+{410}{TAND_14}{Koneènì! Nìkdo kdo mì chápe! Samozøejmì ty u to znáš urèitì všude, take tady to musí bıt pro tebe dìsná nuda. [Pokrèí rameny a vede tì do svého pokoje]}
+
+{415}{}{Tak co si takhle uít ještì trochu zábavy, jestli máš teda èas.}
+
+##############
+
+
+{980}{TAND_62}{Nevím. Moná se na to spíš zeptej Setha, nebo mého otce.}
 {981}{TAND_63}{Hmm...To mi nic neøíká. }
 {982}{TAND_64}{Hm...neee. Nikdy jsem o tom neslyšela. }
 

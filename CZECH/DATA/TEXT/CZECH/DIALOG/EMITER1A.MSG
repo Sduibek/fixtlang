@@ -1,6 +1,16 @@
-{100}{}{Nikde nevidíš ovladaè zdroje silového pole. Snad existuje jiný zpùsob, jak vypojit silové pole.}
+{100}{}{Nikde nevidíš ovladaè zdroje silového pole. Snad existuje jiný zpùsob, jak jej vypojit.}
 {101}{}{Poškozením zdroje se ti podaøilo doèasnì porušit silové pole.}
 {102}{}{Zdroj byl úplnì znièen a silové pole zmizelo.}
 {103}{}{Zdroj silového pole byl doèasnì vyøazen.}
 {104}{}{Nepodaøilo se ti poškodit zdroj silového pole.}
-{105}{}{Zprovoznil jsi zdroj silového pole.}
+{105}{}{Zdroj silového pole zprovoznìn.}
+#
+{150}{}{Tvùj pokus znovu nahodit silové pole selhal.}
+{151}{}{Vypínáš silové pole.}
+#
+{200}{}{Vidíš vážnì poškozený zdroj silového pole.}
+{201}{}{Zdroj je pøíliš poškozen, aby mohl být znovu zapojen.}
+{202}{}{Zdroj je pøíliš poškozen, aby šel opravit.}
+{203}{}{Všimneš si, že je pole dostateènì slabé, aby šlo projít skrz.}
+{204}{}{Zdroj by šlo nadobro vyøadit pøíhodnì umístìnou výbušninou.}
+{205}{}{Nenapadá tì žádný zpùsob jak nálož ke zdroji pøipevnit. Zkus ji dát nìkde poblíž.}

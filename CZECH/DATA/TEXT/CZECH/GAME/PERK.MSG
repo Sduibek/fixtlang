@@ -1,8 +1,12 @@
+##
+## NOTE: EACH LINE IN THE STATUS BOX ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
 #
-#ÿÿÿMessages from perk.c
+#  Messages from perk.c
 #
 #
-#ÿÿÿPERK NAMES
+#  PERK NAMES
 #
 {101}{}{Všímavý}
 {102}{}{Bonus v boji zblízka}
@@ -57,12 +61,17 @@
 {151}{}{Bystrý uèedník}
 {152}{}{Talent!}
 {153}{}{Mutace!}
+#
+# ADDICTIONS
+#
 {154}{}{Závislost na Nuka-Cole}
 {155}{}{Závislost na Buffoutu}
 {156}{}{Závislost na Mentats}
 {157}{}{Závislost na Psycho}
 {158}{}{Závislost na Radaway}
 {159}{}{Zbraò dlouhého dosahu}
+#
+#
 {160}{}{Pøesnost zbranì}
 {161}{}{Penetrace zbranì}
 {162}{}{Zpìtný ráz zbranì}
@@ -116,7 +125,7 @@
 {243}{}{S tímto Perkem máš menší pravdìpodobnost, že se staneš závislým na chemikáliích. Pøesnì øeèeno menší o 50%. Rovnìž abstinenèní pøíznaky trvají jen polovinu doby než u ostatních.}
 {244}{}{Máš-li pøi svém dobrodružství Prùvodce, najdeš vždy tu nejkratší cestu. S tímto Perkem se tvùj cestovní èas po mapì svìta Falloutu redukuje o 25% za každý jeho level.}
 {245}{}{Zvíøata neútoèí na jednoho ze svých pøátel, leda v pøípadì jsou-li napadena nebo ohrožena jako první. Co ale je a co není zvíøe v tomhle apokalyptickém svìtì, to je otázka na delší diskusi.}
-{246}{}{Získal jsi schopnost dohlédnout i na vzdálenìjší lokace. Pøi svých cestách po mapì Falloutu odkrýváš v každém smìru o jeden ètverec víc.}
+{246}{}{Získáváš schopnost dohlédnout i na vzdálenìjší lokace. Pøi svých cestách po mapì Falloutu odkrýváš v každém smìru o jeden ètverec víc.}
 {247}{}{S tímto Perkem jsi upoutal pozornost Tajemného cizince, který ti èas od èasu pomùže. Jestliže ale bude tvùj spojenec zabit v bitvì, neèekej, že ho (nebo ji) nìkdo nahradí.}
 {248}{}{Pøi svých cestách pustinou jsi získal schopnost vyhnout se nevítané pozornosti. Tvá šance náhodnì vstoupit do nepøátelské lokace je menší každou úrovní tohoto Perku.}
 {249}{}{Nauèil ses lépe uspoøádat svoje vybavení.  S každou úrovní tohoto Perku tì v bojovém módu stojí vstup do inventáøe o 1 akèní bod ménì.}
@@ -124,14 +133,41 @@
 {251}{}{S tímto Perkem jsi opravdu Bystrý uèedník, protože každý jeho level ti dává +5% bonus, kdykoliv ve høe obdržíš zkušenostní body.  Èím døív si Perk vezmeš, tím víc se ti pochopitelnì zúroèí.}
 {252}{}{Tvoje zkušenosti dospìly k bodu, kdy si mùžeš vzít další Talent. U této vybrané schopnosti dostaneš ihned +20% a pak 2% za každý schopnostní bod, který do ní investuješ.}
 {253}{}{Zbytková radioaktivita v Pustinì zpùsobila tvojí mutaci! Jeden z tvých talentù se zmìnil na jiný a ty si mùžeš vybrat, který to bude...}
-{254}{}{Potøebuješ další Nuka-Colu.}
-{255}{}{Celý se tøeseš.}
-{256}{}{Jsi grogy.}
-{257}{}{Máš lehkou hlavu.}
-{258}{}{Motá se ti hlava.}
 {259}{}{Zbraò dlouhého dosahu}
 {260}{}{Pøesnost zbranì}
 {261}{}{Penetrace zbranì}
 {262}{}{Zpìtný ráz zbranì}
 {263}{}{Energo zbroj}
-{264}{}{Kevlarové brnìní}
+
+# Nuka-Cola addiction (154)
+# "You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud."
+{254}{}{Toužíš po další Nuka-Cole, výteènou žízeò hasící sodovku.}
+# ORIGINAL: You crave another Nuka-Cola.
+
+# Buffout addiction (155)
+# "You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal."
+{255}{}{Tøeseš se a cítíš se slabì. Bez steroidù je život tvrdý.}
+# ORIGINAL: You've got the shakes.
+
+# Mentats addiction (156)
+# "You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal."
+{256}{}{Cítíš se zpomalený a grogy. Hlava se ti mùže roskoèit...}
+# ORIGINAL: You feel groggy.
+
+# Psycho addiction (157)
+# "You have a vicious drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer."
+{257}{}{Máš lehkou hlavu. Kde je ta náhradní jehla?}
+# ORIGINAL: You feel light-headed.
+
+# RadAway addiction (158)
+# "Your body has become addicted to RadAway. While not life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning."
+{258}{}{Motá se ti hlava. Ještì jednu pilulku!}
+# ORIGINAL: You feel nauseous.
+
+# Alcohol addiction (164)
+# "You have a problem with alcohol. Actually, you have many problems with your drinking habits."
+{264}{}{Prostì se chceš napít. To ostatní mají problém.}
+#
+# Sduibek, Fallout FIXT - for some reason any new line crashes if used for Alcohol Addiction, so using this line instead.
+# 	(was "Combat Armor")
+#

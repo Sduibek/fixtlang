@@ -1,78 +1,107 @@
-
+##
+## NOTE: EACH LINE IN THE STATUS BOX ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout FIXT
+##
+# Messages for Maps -- Map Names for lookups
+#  Note: This order must *NOT* change!
 #
-# Messages for Maps
+# Labels to the right of map file names
+# are the TALKING HEAD BACKGROUND IMAGE
+# to use for a new talking head (i.e. Tandi)
+# [see table below to reference]
+# --Sduibek, Fallout FIXT
 #
-
+#	reserved.frm	0 : DONT USE THIS (Obviously)
+#	back1.frm	1 : Unused???
+#	rstymetl.frm	2
+#	hub.frm		3
+#	necro.frm	4
+#	bhood.frm	5
+#	military.frm	6
+#	junktown.frm	7
+#	cath.frm	8
+#	shady.frm	9
+#	vault.frm	10
+#	master.frm	11
+#	follow.frm	12
+#	raider.frm	13
+#	desert.frm	14 new for Fallout FIXT, from Fo1 files
+#	cave0001.frm	15 = (now Fallout1 blue instead of FO2 grey) new for Fallout FIXT from Fo2 files
+#	enclave.frm	16 (Fo2 files)
+#	wastelnd.frm	17 (Fo2 files)
+#	boss.frm	18 (Fo2 files)
+#	pres.frm	19 (Fo2 files)
+#	tent.frm	20 (Fo2 files)
+#	adobe.frm	21 (Fo2 files)
+#	vault15.frm	22 = (same as Vault, just recolored for "rust" and darkened) new for Fallout FIXT
 #
-# Map Names for lookups
-#	Note: This order must *NOT* change!
-#
-{0}{}{DESERT1.MAP}
-{1}{}{DESERT2.MAP}
-{2}{}{DESERT3.MAP}
-{3}{}{HALLDED.MAP}
-{4}{}{HOTEL.MAP}
-{5}{}{WATRSHD.MAP}
-{6}{}{VAULT13.MAP}
-{7}{}{VAULTENT.MAP}
-{8}{}{VAULTBUR.MAP}
-{9}{}{VAULTNEC.MAP}
-{10}{}{JUNKENT.MAP}
-{11}{}{JUNKCSNO.MAP}
-{12}{}{JUNKKILL.MAP}
-{13}{}{BROHDENT.MAP}
-{14}{}{BROHD12.MAP}
-{15}{}{BROHD34.MAP}
-{16}{}{CAVES.MAP}
-{17}{}{CHILDRN1.MAP}
-{18}{}{CHILDRN2.MAP}
-{19}{}{CITY1.MAP}
-{20}{}{COAST1.MAP}
-{21}{}{COAST2.MAP}
-{22}{}{COLATRUK.MAP}
-{23}{}{FSAUSER.MAP}
-{24}{}{RAIDERS.MAP}
-{25}{}{SHADYE.MAP}
-{26}{}{SHADYW.MAP}
-{27}{}{GLOWENT.MAP}
-{28}{}{LAADYTUM.MAP}
-{29}{}{LAFOLLWR.MAP}
-{30}{}{MBENT.MAP}
-{31}{}{MBSTRG12.MAP}
-{32}{}{MBVATS12.MAP}
-{33}{}{MSTRLR12.MAP}
-{34}{}{MSTRLR34.MAP}
-{35}{}{V13ENT.MAP}
-{36}{}{HUBENT.MAP}
-{37}{}{DETHCLAW.MAP}
-{38}{}{HUBDWNTN.MAP}
-{39}{}{HUBHEIGT.MAP}
-{40}{}{HUBOLDTN.MAP}
-{41}{}{HUBWATER.MAP}
-{42}{}{GLOW1.MAP}
-{43}{}{GLOW2.MAP}
-{44}{}{LABLADES.MAP}
-{45}{}{LARIPPER.MAP}
-{46}{}{LAGUNRUN.MAP}
-{47}{}{CHILDEAD.MAP}
-{48}{}{MBDEAD.MAP}
-{49}{}{MOUNTN1.MAP}
-{50}{}{MOUNTN2.MAP}
-{51}{}{FOOT.MAP}
-{52}{}{TARDIS.MAP}
-{53}{}{TALKCOW.MAP}
-{54}{}{USEDCAR.MAP}
-{55}{}{BRODEAD.MAP}
-{56}{}{DESCRVN1.MAP}
-{57}{}{DESCRVN2.MAP}
-{58}{}{MNTCRVN1.MAP}
-{59}{}{MNTCRVN2.MAP}
-{60}{}{VIPERS.MAP}
-{61}{}{DESCRVN3.MAP}
-{62}{}{MNTCRVN3.MAP}
-{63}{}{DESCRVN4.MAP}
-{64}{}{MNTCRVN4.MAP}
-{65}{}{HUBMIS1.MAP}
+{0}{}{DESERT1.MAP}	#	14
+{1}{}{DESERT2.MAP}	#	14
+{2}{}{DESERT3.MAP}	#	14
+{3}{}{HALLDED.MAP}	#	4 (& 3 & 13)
+{4}{}{HOTEL.MAP}	#	4 (& 3 & 13)
+{5}{}{WATRSHD.MAP}	#	4 (& 3 & 13)
+{6}{}{VAULT13.MAP}	#	10 (& 6 - need to recolor)
+{7}{}{VAULTENT.MAP}	#	2 & 7
+{8}{}{VAULTBUR.MAP}	#	22 (except for > tile# 20700 @ elev0 == 15)
+{9}{}{VAULTNEC.MAP}	#	22 (except for > tile# 20700 @ elev0 == ??)
+{10}{}{JUNKENT.MAP}	#	7 (& 2)
+{11}{}{JUNKCSNO.MAP}	#	7 (& 2)
+{12}{}{JUNKKILL.MAP}	#	7 (& 2)
+{13}{}{BROHDENT.MAP}	#	
+{14}{}{BROHD12.MAP}	#	5
+{15}{}{BROHD34.MAP}	#	5
+{16}{}{CAVES.MAP}	#	15
+{17}{}{CHILDRN1.MAP}	#	
+{18}{}{CHILDRN2.MAP}	#	
+{19}{}{CITY1.MAP}	#	4
+{20}{}{COAST1.MAP}	#	
+{21}{}{COAST2.MAP}	#	
+{22}{}{COLATRUK.MAP}	#	14
+{23}{}{FSAUSER.MAP}	#	
+{24}{}{RAIDERS.MAP}	#	
+{25}{}{SHADYE.MAP}	#	9
+{26}{}{SHADYW.MAP}	#	9
+{27}{}{GLOWENT.MAP}	#	
+{28}{}{LAADYTUM.MAP}	#	
+{29}{}{LAFOLLWR.MAP}	#	
+{30}{}{MBENT.MAP}	#	
+{31}{}{MBSTRG12.MAP}	#	6
+{32}{}{MBVATS12.MAP}	#	6
+{33}{}{MSTRLR12.MAP}	#	
+{34}{}{MSTRLR34.MAP}	#	
+{35}{}{V13ENT.MAP}	#	15
+{36}{}{HUBENT.MAP}	#	
+{37}{}{DETHCLAW.MAP}	#	15
+{38}{}{HUBDWNTN.MAP}	#	
+{39}{}{HUBHEIGT.MAP}	#	
+{40}{}{HUBOLDTN.MAP}	#	
+{41}{}{HUBWATER.MAP}	#	
+{42}{}{GLOW1.MAP}	#	
+{43}{}{GLOW2.MAP}	#	
+{44}{}{LABLADES.MAP}	#	
+{45}{}{LARIPPER.MAP}	#	
+{46}{}{LAGUNRUN.MAP}	#	
+{47}{}{CHILDEAD.MAP}	#	
+{48}{}{MBDEAD.MAP}	#	
+{49}{}{MOUNTN1.MAP}	#	17
+{50}{}{MOUNTN2.MAP}	#	17
+{51}{}{FOOT.MAP}	#	
+{52}{}{TARDIS.MAP}	#	14
+{53}{}{TALKCOW.MAP}	#	14
+{54}{}{USEDCAR.MAP}	#	
+{55}{}{BRODEAD.MAP}	#	
+{56}{}{DESCRVN1.MAP}	#	14
+{57}{}{DESCRVN2.MAP}	#	14
+{58}{}{MNTCRVN1.MAP}	#	17
+{59}{}{MNTCRVN2.MAP}	#	17
+{60}{}{VIPERS.MAP}	#	
+{61}{}{DESCRVN3.MAP}	#	14
+{62}{}{MNTCRVN3.MAP}	#	17
+{63}{}{DESCRVN4.MAP}	#	14
+{64}{}{MNTCRVN4.MAP}	#	17
+{65}{}{HUBMIS0.MAP}	#
+{66}{}{HUBMIS1.MAP}	#
 
 #
 # Map Names for (Automap) Descriptions
@@ -146,7 +175,7 @@
 {156}{}{Pouöù}										 // DESCRVN1.MAP
 {157}{}{Pouöù}										 // DESCRVN2.MAP
 {158}{}{Hory}									 // MNTCRVN1.MAP
-{159}{}{Mountains}									 // MNTCRVN2.MAP
+{159}{}{Hory}									 // MNTCRVN2.MAP
 {160}{}{T·bor ZmijÌ}
 {161}{}{Pouöù}
 {162}{}{Hory}
@@ -419,10 +448,15 @@
 {392}{}{}
 {393}{}{}
 {394}{}{}
+# HUBMIS0.MAP
+{395}{}{- Irwinova farma}
+{396}{}{- Irwinova farma}
+{397}{}{- Irwinova farma}
 # HUBMIS1.MAP
-{395}{}{}
-{396}{}{}
-{397}{}{}
+{398}{}{- Irwinova farma}
+{399}{}{- Irwinova farma}
+{400}{}{- Irwinova farma}
+
 
 #
 #	Short City names

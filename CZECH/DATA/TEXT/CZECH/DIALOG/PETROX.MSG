@@ -1,4 +1,4 @@
-{100}{}{Vidíš Petroxe, pouštního lupièe.}
+{100}{}{Vidíš tvrdì vypadajícího pouštního banditu. V porovnání s ostatními vypadá, jako osoba s nìjakou funkcí.}
 {101}{}{Zdravím! Já jsem Petrox. Jsem jeden z Garlových kapitánù. Kdo jsi ty?}
 {102}{}{Já sem }
 {103}{}{. Co dìláš jako nájezdník?}
@@ -34,3 +34,7 @@
 {126}{}{Jistì, možná pozdìji.}
 {127}{}{Dobrá, Možná pozdìji.}
 {128}{}{Øekl jsem ti vše, co smím. Prosím bìž.}
+#
+# Fallout FIXT:
+#
+{200}{}{Vidíš Petroxe, kapitána Nájezdníkù.}
