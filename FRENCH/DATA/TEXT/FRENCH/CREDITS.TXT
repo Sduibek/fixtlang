@@ -1,0 +1,910 @@
+; #MAIN HEADING - LARGE WHITE
+; @Subheading - SMALL DARK
+; List of folks - LARGE YELLOW
+#= Fallout Fixt =
+
+
+@Un patch complet et personnalisable,
+@Comprenant Pacthes, Mods et Restaurations
+
+@Version :  alpha 7.0.1
+Sduibek
+
+
+# Philanthropes :
+
+Thomas Daley
+phillon
+Salk
+Vasiliy Kashiskiy
+
+
+# REMERCIEMENTS DE SDUIBEK :
+@(Par ordre alphabetique)
+
+.Pixote.
+@Pour ses retours, son soutien et son vaste travail graphique
+
+Continuum
+@Pour la programmation, ses informations et son travail graphique
+
+Cubik2k (Cubik)
+@Pour son aide, la programmation et plusieurs outils
+@Sans lesquels Fallout Fixt serait moins interessant
+
+Darek
+@Pour ses recherches, son aide a la conversion du moteur,
+@Beaucoup de programmation, la fourniture de
+@Ressources supplementaires et ses suggestions
+
+Drobovik
+@Pour les fichiers d'archives de Fallout
+
+Dude101
+@Pour ses retours, son travail avec le wiki et ses actualites
+@Au sujet du Fallout Fitt
+
+Endocore
+@Pour ses retours, ses importants conseils et la programmation
+
+GazDone
+@Pour ses recherches et corrections de bugs
+
+gustarballs1983
+@Pour ses retours et ses idees
+
+holder80
+@Pour l'idee et la creation de "jouez en tant que Mutant"
+
+Infinitron
+@Pour ses nombreux retours et pour ses actualites
+@Au sujet du Fallout Fixt
+
+Jackalgunner
+@Pour ses retours, la gestion de la liste des bugs et le wiki
+
+JimTheDinosaur
+@Pour son soutien, ses suggestions, son lot de programmation,
+@Son aide et ses retours
+
+Jordan
+@Pour avoir converti le moteur et pour son aide a l'ecriture
+
+killap (Bear Dude)
+@Pour son aide, ses retours, ses conseils et pour
+@Avoir inspire l'ensemble de la communaute des modeurs de Fallout
+
+Lexx (Tophat Cat)
+@Pour le patch contre la censure (version allemande), son travail
+@Graphique, la programmation, ses retours et indications
+
+Mash
+@Pour le patch haute resolution qu'on aime tant et
+@Pour avoir repondu a tous mes messages ennuyeux
+
+Nevill
+@Pour avoir fait le ninja chercheur de bugs et
+@Avoir ete un testeur extraordinaire.
+@Vraiment, ce gars est rigoureux et meticuleux
+
+Nirran
+@Pour ses retours, son aide, la programmation
+@Et plusieurs supers utilitaires
+
+Noid
+@Pour ses outils et pour le code original permettant
+@D'activer le Mode Debogage
+
+Le site et le forum de "No Mutants Allowed"
+@Pour etre une ressource indispensable d'informations sur Fallout
+@Et une super communaute
+
+Oppen
+@Pour ses retours, ses idees, la programmation,
+@Ses outils et son aide
+
+Per
+@Pour avoir ecrit le "Nearly Ultimate Fallout Guide", une grande
+@Source d'informations que j'utilise encore comme
+@Reference pour travailler sur le Fixt
+
+Les utilisateurs de RPGcodex
+@Pour leurs retours nombreux et fiables
+
+TarkinMX
+@Pour ses retours, son travail sur l'executable du jeu,
+@Son aide a la conversion du moteur et ses outils
+
+TeamX
+@Pour etre une ressource precieuse pour les modeurs
+@De Fallout, avec ses nombreux outils et utilitaires
+@Et ses nombreuses indications
+
+Timeslip
+@Pour ses retours, ses idees et pour avoir cree le puissant SFall
+
+Timothy (Tim) Cain
+@Pour avoir cree Fallout 1, etre un gars cool,
+@Et pour avoir personnellement repondu a mes questions
+@Sur Fallout, toutes ces annees apres
+
+Wasteland Ghost
+@Pour etre un modeur incroyable qui a laisse un heritage,
+@Et d'etre, indirectement, la raison principale de
+@L'existence de Fallout Fixt
+
+WorstUsernameEver
+@Pour avoir tenu la communaute au courant avec
+@Ses actualites au sujet du Fallout Fixt
+
+
+#PROGRAMMATION / CODAGE
+
+Sduibek
+
+@Avec les contributions de
+Continuum
+Cubik2k (Cubik)
+Darek
+Endocore
+JimTheDinosaur
+Nevill
+Wasteland Ghost
+
+@Restauration des quetes de Michael et Sophia
+Ash
+
+@Restauration de Lenore et Phil
+Continuum
+
+
+#CREATIONS / GRAPHISMES
+
+@Menu principal Hautes Resolutions
+.Pixote.
+
+@Ian (Long Hair Dude)
+Brother Soifran
+Josan12
+Mash
+x'il
+
+@Tycho (Mr. Bald Dude)
+.Pixote.
+Mr.Wolna
+x'il
+
+@Katja (Ms. Punk Girl)
+Geras
+Pjotr
+Sketch
+Yanok
+
+@ PNJ "Vieux Max"
+x'il
+
+@Correction des deplacements du Lieutenant
+Lexx (Tophat Cat)
+
+@Animations de PNJ au repos
+Josan12
+
+@Correction du bug de poussee avec armure en metal
+x'il
+
+@Animation manquante de course pour les hommes noirs
+Jotisz
+
+@Super Mutant fonce
+x'il
+
+@Mod "Nixie numbers"
+Inin / Mangler
+
+@Mod pour une meilleure animation du lance-flamme
+.Pixote.
+
+@Ecrans de transition #5 et #6
+Kevin
+
+@Plusieurs nouveaux ecrans de transition et mise a jour des anciens
+.Pixote.
+Ghouly89
+
+@Les autres ecrans de transition
+Sduibek
+
+@Logo/Banniere du Fallout Fixt
+Sduibek
+(Illustration originale de Interplay)
+
+@Autres modifications graphiques mineures
+Sduibek
+
+@Animations pour la mort des mutants taille 120%
+.Pixote.
+Sduibek
+
+
+#CONCEPTION / ECRITURE (ANGLAIS)
+
+Sduibek
+
+@Avec les contributions de
+Ash
+Endocore
+
+@Patch de corrections
+Nimrod
+
+@Nouvelles corrections et relecture du Fixt
+robbforce
+
+@Corrections additionnelles
+Luffier
+
+
+#CONCEPTION / ECRITURE (FRANCAIS)
+
+@Traduction - Corrections -  Tests - Debogage
+@(Par ordre alphabetique)
+
+Benf
+Dr Gast
+FuryMGS
+HawK-EyE
+Jello44
+Kascin
+naossano
+Salutbob
+ultramedecine
+
+@FALLOUT-GENERATION.COM
+@La communaute Francaise de Fallout et du Post-apo
+
+
+#CONCEPTION / ECRITURE (ESPAGNOLE)
+
+@Traduction Fixt et corrections (homme et femme)
+Luffier
+
+@Traduction originale (homme et femme)
+L@Zar0
+
+
+#CONCEPTION / ECRITURE (TCHEQUE)
+
+@Extraction et Decodage
+RAPTOR
+
+@Polices et Edition BMP
+IDLER
+
+@Chef de projet
+Ondøej Prùša
+
+@Traduction
+Radek Friedrich
+Somnambulus
+Petr Bulíø
+Vašek Vlèek
+Jakub Tureèek
+Punik
+Jana X.
+Tomáš Turek
+Pavel Zvìøina
+Daniel Bahula
+
+@Remerciements a
+Jan "Premie" Herodes
+Jirka "Weapons" Švarc
+Pavel "Krysák" Zvìøina
+
+@Traduction du Fixt
+Khalashnikovf
+
+
+#TESTEURS
+@(Par ordre alphabetique)
+
+Alexisok
+bozyn
+dudejo001
+gustarballs1983
+Hal900x
+Izo
+Jackalgunner
+Justin Hein
+Mortimus
+Nevill
+OtakuMage
+Peter
+Ryan Paul Fialcowitz
+warning077
+zebrajch
+ziemeck
+
+
+#SON
+
+Sduibek
+
+@Son de pistolet (patch)
+Mutated Mark
+
+@Musiques en qualite moyenne (mp3)
+Good Old Games (GOG.com)
+
+@Musiques en haute qualite (mp3)
+Aural Network
+Mark Morgan
+Redbase
+Vladislav Isaev
+
+
+#CONCEPTION DE NIVEAUX
+
+Sduibek
+
+@Avec les contributions de
+.Pixote.
+Darek
+Endocore
+
+@Rendu possible en utilisant "map converter utility" de
+Cubik2k (Cubik)
+
+@Aussi rendu possible grace a la documentation de
+Sorrow
+
+
+#PATCHES INCLUS
+
+@Patches non officiels v1.2X, 1.3X
+Alchemist
+AO
+Avega
+Dude101
+TeamX
+Wasteland Ghost
+
+@Patch de restauration des enfants
+Skynet
+
+@Correction du bug/crash a la Cathedrale
+Alchemist
+Coyote
+TeamX
+
+@Patch pour les munitions perforantes
+Celestial
+
+@Patch pour le contenu censure (version allemande)
+Lexx (Tophat Cat)
+
+@Patch Gore (version allemande)
+NeuRomancer
+
+
+#MODS INCLUS
+
+@Mod PNJ
+Alchemist
+Avega
+Dude101
+Nimrod
+TeamX
+Wasteland Ghost
+
+@Mise a jour et mod Restauration v1.2.5
+Alchemist
+Dude101
+Pal
+Setau
+Spy
+Vault13
+Wasteland Ghost
+Wasteland Hellbringer
+
+@Mods "EndGame" et "Cheatboy"
+Cpt Corpse (Corpse)
+
+
+#OUTIL SFALL
+
+@GPL 2008 - 2012
+Timeslip
+
+
+#PATCH/MOD HAUTE RESOLUTION
+
+Mash
+
+@Avec les contributions de
+.Pixote.
+Continuum
+
+
+#EXEXCUTABLE DU JEU
+
+TarkinMX
+
+@Avec la contribution de
+Sduibek
+
+
+#UTILITAIRE DE RAFRAICHISSEMENT D'ECRAN
+
+Lionel d'Hauenens (LABO)
+
+@Traduit en anglais par
+Alchemist
+
+
+#MODE DEBOGAGE
+
+Cubik2k (Cubik)
+Noid
+Platon
+
+
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
+
+
+#- FALLOUT -
+
+@Un jeu de role post-nucleaire
+
+@Copyright 1995 - 1997
+Interplay Entertainment, Interplay Productions
+
+@"Fallout" est une marque deposee de
+@Bethesda Softworks LLC, une entreprise de ZeniMax Media
+
+
+
+#PROGRAMMATION
+
+@Responsables programmeurs
+Tim Cain
+Chris Jones
+
+@Programmeurs
+Jesse L. Reynolds
+Kevin Weatherman
+Nick Kesting
+Robert Hertenstein 2
+Jess Heinig
+Jason Taylor
+
+@Programmeur Mac
+Tim Hume
+
+@Pogrammation additonnelle par
+Mark Harrison (Lizard Byte)
+John Price
+Chris DeSalvo
+Mark Murakami
+Dan Spitzley
+Guido Henkel
+Michael Bernstein
+Thomas French
+
+@Animation
+Paul Edelstein
+
+@Installateur/Execution automatique
+Darren Monahan
+
+
+
+#CREATION ARTISTIQUE
+
+@Direction artistique
+Leonard Boyarsky
+
+@Responsables createurs
+Jason Anderson
+Leonard Boyarsky
+Gary Platner
+
+@Createurs
+Robert Collier
+Michael Dean
+Tramell Ray Isaac
+Eddie Rainwater
+Scott Rodenhizer
+Sharon Shellman
+
+@Creations additionnelles par
+Peter Kroko
+Justin Sweet
+Joseph Cesario
+Cheryl Austin
+Jay Esparza (Tachyon)
+Geoff Gregor
+Arlene Sommers
+George Almond
+Erik Jamison
+Helena Wickberg
+James Doyle (Apples Animation)
+
+@Animation
+Scott Rodenhizer
+
+@Art conceptuel
+Tony Postma
+
+
+
+#CONCEPTION
+
+@Responsable conception
+Chris Taylor
+
+@Concepteurs
+David Hendee
+Scott Bennie
+Brian Freyermuth
+Scott Campbell
+
+@Concepteur technique
+Scott Everts
+
+@Concepts additionnels par
+Robert Hertenstein 2
+Jess Heinig
+Nick Kesting
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Fred Hatch
+Evan Chantland
+Erick Lujan
+Dennis Presnell
+Feargus Urquhart
+
+@Conception/Dialogues
+Mark O'Green
+
+@Concept de jeu original par
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+
+
+#PRODUCTION
+
+@Producteur
+Tim Cain
+
+@Assistant producteur
+Fred Hatch
+
+@Directeur administratif
+Feargus Urquhart
+
+@Directeur administratif adjoint
+Jeremy Barnes
+
+@Producteur original
+Tom Decker
+
+@Assistant de production
+Jason G. Suinn
+
+@"L'homme polyvalent" (Monkey Boy)
+Mike "Paco" Greene
+
+@Assistance Mac
+Chris Benson
+
+
+
+#ASSURANCE QUALITE
+
+@Directeur de l'assurance qualite
+Chad Allison
+
+@Directeur adj. de l'assurance qualite
+Colin Totman
+
+@ Responsables Tests de la version PC
+Ron Hodge
+Greg "Moose" Baumeister
+
+@Testeurs de la version PC
+Shanna SanPaolo
+Evan Chantland
+Ed Hyland
+Steve Reed
+James Chung
+Kaycee Vardaman
+Bill Field
+Richard Barker
+Rene Hakiki
+Erick Lujan
+Matt Kaupa
+Steve Victory
+Scot Humphreys
+Tim Anderson
+Darrell Jones
+
+@Responsables Tests de la version Mac
+Jim Dodds
+Matt Murakami
+Steve McLafferty
+
+@Testeurs de la version Mac
+Adam Chaney
+Dennis Presnell
+Savina Greene
+Kaycee Vardaman
+Scot Humphreys
+Mike Krueger
+Matt Golembiewski
+
+@Techniciens informatique
+Bill Delk
+Steve Cabiness
+
+@Directeur de la compatibilite
+Phuong Nguyen
+
+@Techniciens compatibilite
+Marc Duran
+Dan Forsyth
+Derek Gibbs
+Aaron Olalz
+John Parker
+
+
+
+#SON
+
+@Directeur du son
+Charles Deenen
+
+@Ingenieur du son
+Craig Duman
+
+@Fond musical TV
+Ronald Valdez
+
+@Mixage cinematiques
+Dave West
+
+@Effets sonores cinematiques
+West Productions
+
+@Effets sonores
+Doug Turner
+Gary Murello
+Larry Peacock
+
+@Monteur effets sonores
+Caron Weidner
+
+@Mixage effets sonores
+Debby Ruby
+
+@Effets sonores/artiste
+Cecilia Perna
+
+@Effets sonores enregistres a
+West Productions
+
+@Superviseurs des effets sonores
+Charles Deenen
+Larry Peacock
+
+@Monteur effets sonores
+Michael Dickeson
+
+@Musique de
+Mark Morgan
+@pour
+Four Bars Entertainment
+
+@Mixage et enregistrement de l'intro
+Charles Deenen
+
+@Superviseur des effets sonores
+Brian Luzietti
+
+@Documentalistes effets sonores
+Doug Rappaport
+Sergio Bustamante II
+Ron Valdez
+
+@Conception effets sonores
+Charles Deenen
+Gregory Allen
+Larry Peacock
+EFX
+Weddington
+Caron Weidner
+
+@Monteurs voix
+Doug Rappaport
+Sergio Bustamante II
+
+@Producteur voix
+Fred Hatch
+
+@Technicien enregistrement des voix
+Paul Hurtubise
+
+@Superviseur voix
+Chris Borders
+
+@Coordination des artistes voix
+Julie Morgavi
+
+@Dialogues enregistres au studio
+Hollywood Recording Services
+Hollywood, CA
+
+@Direction voix
+Jamie Thomason
+
+
+@AVEC LES VOIX DE
+
+Charlie Adler
+@Harold
+
+Richard Dean Anderson
+@Killian
+
+Jeff Bennett
+@Loxley
+
+Clancy Brown
+@Rhombus
+
+Jim Cummings
+@Seth, Gizmo, Le Maitre
+
+Keith David
+@Decker
+
+Brad Garrett
+@Harry
+
+Tony Jay
+@Le Lieutenant
+
+Tress MacNeille
+@Jain
+
+Ken Mars
+@le Dirigeant
+
+Richard Moll
+@Cabbot
+
+Ron Perlman
+@Butch Harris, Narrateur
+
+CCH Pounder
+@Vree
+
+Pam Segall
+@Nicole
+
+Tony Shalub
+@Aradesh
+
+Kath Soucie
+@Laura, Le Maitre
+
+Cree Summer
+@Tandi
+
+David Warner
+@Morpheus
+
+Frank Welker
+@Maxson
+
+@Autres voix par
+Max the Dog
+
+
+
+"Maybe"
+@Interpretee par Ink Spots
+@Avec l'autorisation de MCA Records et
+@Avec l'accord de Universial Music Special Markets, Inc.
+
+"MAYBE"
+@Composee par Allan Flynn et Frank Madden
+@Utilisee avec la permission de EMI Robbins Catalog Inc. (ASCAP)
+
+@ATTENTION : Le fait de copier, partager ou reproduire ce
+@programme ou toute(s) partie(s) de ce programme sans
+@la permission ecrite du proprietaire du droit d'auteur 
+@est une violation de la Loi Federale sur le droit d'auteur.
+
+
+
+#MARKETING
+
+@Responsable relations publiques
+Genevieve Ostergard
+
+@Directeur du marketing
+Paul Sackman
+
+@Responsables marketing
+Mike Markin
+Craig Owens
+Michael Courtney
+
+@Responsable marketing associe
+Tod Mack
+
+@Responsable d'exploitation
+Thom Dohner
+
+
+
+
+@Remerciements a : Scott Everts pour avoir contribue au-dela
+@Du devoir au a la liste de citations, Bomberman, Quake, Diablo,
+@Warcraft II, diverses bandes sonores de films, Brian Eno,
+@Au frigo de sodas (merci Gus & Rusty!), l'esprit de Noel
+@(Allez Pere Noel!), Demo le chat, Nicol, Tracy, Mary & Adam
+@Et Lisa (pour leur soutien moral), Jamal, la maman de T-Ray,
+@Les deux Donalds, Teresa Brooks, Zeb Cook, Chris Avellone,
+@L'argent des 4 heures, La cour des 4 heures, Weez, Weaz,
+@Irvine Spectrum, Wiz War, Dragon Dice, B5, X-Files, Xena,
+@Buffy, The Simpsons, ER, Jeepin' et au remue-menage de
+@derniere minute pour trouver ce fichu bug!
+
+
+@Remerciements tout particuliers aux membres du site officiel de
+@Fallout pour vos commentaires, suggestions et rapports
+@De bugs concernant la demo.
+@Vos retours ont ete apprecies!
+
+
+
+
+
+
+
+@Et voila !
+
+
+
+@Finis les remerciements.
+
+
+
+@Il n'y a plus rien a voir...
+
+
+
+
+
+
+
+
+@Fallout vous a ete presente par Interplay Productions,
+@L'equipe de Fallout, et Nuka-Cola.
+
+
+
+
+Passez un bonne journee !

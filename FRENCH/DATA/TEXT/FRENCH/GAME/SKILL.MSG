@@ -1,0 +1,135 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#   SKILL NAMES
+#
+{100}{}{Armes légères}
+{101}{}{Armes lourdes}
+{102}{}{Armes à énergie}
+{103}{}{Corps à corps}
+{104}{}{Armes blanches}
+{105}{}{Projectiles}
+{106}{}{Secourisme}
+{107}{}{Médecin}
+{108}{}{Esquive}
+{109}{}{Crochetage}
+{110}{}{Voleur}
+{111}{}{Pièges}
+{112}{}{Science}
+{113}{}{Réparation}
+{114}{}{Discours}
+{115}{}{Troc}
+{116}{}{Jeu}
+{117}{}{Vie en plein air}
+
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{Maniement, entretien et connaissance générale des petites armes à feu. Pistolets, mitraillettes et carabines.}
+{201}{}{Fonctionnement et entretien de l'armement lourd. Mini-canons, lance-roquettes, lance-flammes et autres.}
+{202}{}{Entretien et maîtrise des armes à énergie. Comment armer et manier des armes utilisant des techniques au laser ou au plasma.}
+{203}{}{Une combinaison de divers arts martiaux, de boxe et de tout ce qui touche au corps à corps. Capacité à combattre avec les pieds et les poings.}
+{204}{}{Capacité à combattre à l'arme blanche au cours de corps à corps ou de rixes. Couteaux, massues, lances, matraques, etc.}
+{205}{}{Capacité à lancer des armes à la main, telles que des couteaux, des lances et des grenades.}
+{206}{}{Capacité à pratiquer les premiers soins. Traitement des coupures légères, écorchures et autres maux bénins. La compétence Secourisme permet de guérir des points d'impact plus facilement que par un simple repos.}
+{207}{}{Capacité à traiter les lésions importantes et à soigner les membres estropiés. Sans cette compétence, la durée d'attente avant de pouvoir retrouver l'usage d'un membre estropié est beaucoup plus importante.}
+{208}{}{Mouvement furtif permettant de passer inaperçu. En cas de succès, il devient plus difficile de te localiser. Il est impossible de courir et de se déplacer furtivement en même temps.}
+{209}{}{Capacité à ouvrir les serrures sans la bonne clé. L'utilisation de passes-partout classiques ou électroniques peut grandement améliorer cette compétence.}
+{210}{}{Faculté de s'approprier ce qui appartient à autrui. S'applique aux personnes et aux lieux.}
+{211}{}{Capacité à repérer et retirer les pièges posés. Permet également de poser des explosifs.}
+{212}{}{Recouvre diverses compétences scientifiques, notamment en informatique, biologie, physique et géologie.}
+{213}{}{Mise en application de la compétence Science. Réparation des équipements, mécanismes et appareils électroniques endommagés.}
+{214}{}{Capacité à communiquer de manière pratique et efficace. Capacité à se montrer persuasif et à mentir sans vous faire prendre.}
+{215}{}{Sens du commerce. Capacité à tout marchander ; à la vente comme à l'achat.}
+{216}{}{L'art et la manière de parier. Talent aux jeux de cartes, de dés et autres jeux.}
+{217}{}{Connaissance pratique de la vie en plein air et capacité à survivre en milieu hostile. Connaissance de la faune et de la flore.}
+
+#
+#   SKILL CALCULATION DESCRIPTIONS
+#
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+ (AG + FO)/2}
+{304}{}{+ (AG + FO)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CR)}
+{315}{}{+ (2 x CR)}
+{316}{}{+ (3 x CH)}
+{317}{}{+ (EN + IN)/2}
+
+#
+#   SKILL USE MESSAGES
+#
+
+{510}{}{\nskill_use : compétence utilisée incorrecte.}
+
+#
+# First Aid and Doctor
+#
+{500}{}{Tu guéris %d points d'impact.}
+{501}{}{On dirait que ça va déjà mieux.}
+{502}{}{On dirait que %s va déjà mieux.}
+{503}{}{Tes soins restent sans effets.}
+{505}{}{Tu mérites %d PE pour avoir su affiner tes compétences.}
+
+{512}{}{On ne peut plus rien pour les morts.}
+{513}{}{Les morts ont droit au repos éternel.}
+{514}{}{Dieu ait son âme ! Il faut se faire une raison.}
+#
+# Lines 530-534 are the endings to lines 520, 521, 525, 526
+#
+{520}{}{Tu soignes : %s.}
+{521}{}{Tu soignes : %s.}
+{525}{}{Tu n'as pas réussi à soigner : %s.}
+{526}{}{Tu n'as pas réussi à soigner : %s.}
+{530}{}{oeil crevé}
+{531}{}{bras gauche estropié}
+{532}{}{bras droit estropié}
+{533}{}{jambe droite estropiée}
+{534}{}{jambe gauche estropiée}
+
+#
+# After 3 successful uses of a healing skill in one day
+#
+{590}{}{Tu as épuisé tes compétences en la matière. Attends un moment.}
+{591}{}{Tu es épuisé. Attends un moment pour te servir de cette compétence.}
+{592}{}{Le surmenage, c'est mauvais pour le coeur. Repose-toi d'abord.}
+
+#
+# Lockpick
+#
+{550}{}{Tu n'as pas réussi à forcer la serrure.}
+
+#
+# Traps
+#
+{551}{}{Tu n'as réussi à repérer aucun piège.}
+
+#
+# Science
+#
+{552}{}{Tu n'as rien appris.}
+
+#
+# Repair
+#
+{553}{}{Réparation impossible.}
+
+#
+# Steal
+#
+{570}{}{Tu as volé : %s. C'est ce qui s'appelle se faire prendre la main dans le sac !}
+{571}{}{Tu as volé : %s.}
+{572}{}{Tu as déposé : %s. C'est ce qui s'appelle se faire prendre en flagrant délit !}
+{573}{}{Tu as déposé : %s.}

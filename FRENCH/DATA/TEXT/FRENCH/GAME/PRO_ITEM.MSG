@@ -1,0 +1,510 @@
+{100}{}{Armure en cuir}
+{101}{}{Ton vêtement de base, tout en cuir. Superbement confectionné à partir de peau de brahmine tannée. C'est le même genre que portaient les motards d'avant-guerre. }
+{200}{}{Armure métallique}
+{201}{}{Plaques de métal polies formant une armure grossière. Elle procure une meilleure protection que les armures en cuir, mais entrave quelque peu la mobilité du porteur. Ce modèle est bardé de pics sur les épaules, à la mode cette année !}
+{300}{}{SuperArmure}
+{301}{}{Armure spéciale ultra-sophistiquée T-51b de West Tek. Alimentée par un réacteur à micro-fusion qui contient assez de combustible pour fonctionner une centaine d'années. Sa structure est renforcée par des nanoparticules d'argent. Le casque est renforcé contre les balles.}
+{400}{}{Couteau}
+{401}{}{Arme blanche à lame ultra-tranchante. FO min : 2.}
+{500}{}{Matraque}
+{501}{}{Bâton militaire ou policier. En bois. FO min : 3.}
+{600}{}{Massue}
+{601}{}{Grande massue avec poignée. Très populaire chez les individus musclés. FO min : 6.}
+{700}{}{Lance}
+{701}{}{Arme blanche à lame tranchante. Le manche est en bois et la lame en acier. FO min : 4.}
+{800}{}{Pistolet 10 mm}
+{801}{}{Pistolet Colt 6520 10 mm à rechargement automatique. A chaque détente, l'arme se recharge automatiquement jusqu'à ce que le chargeur soit vide. Arme à tir simple utilisant des balles 10 mm. FO min : 3.}
+{900}{}{Mitraillette 10 mm}
+{901}{}{Mitraillette H&K MP9 (à variante 10 mm). Mitraillette de taille moyenne utilisable en mode tir simple ou rafale. FO min : 4.}
+{1000}{}{Carabine}
+{1001}{}{Carabine semi-automatique Colt Rangemaster, calibre .223. Tir simple uniquement. FO min : 5.}
+{1100}{}{Lance-flammes}
+{1101}{}{Lance-flammes modèle Flambe-Tout 450, variante Varmiter. Lance un jet de liquide inflammable extrêmement brûlant. Requiert un combustible spécial pour fonctionner correctement. Cette arme a tendance à tuer vos ennemis de chair et d'os dans d'atroces souffrances en se tordant de douleur, ce qui est plutôt hilarant. FO min : 6.}
+{1200}{}{Mini-canon}
+{1201}{}{Mini-canon personnel Rockwell CZ53. Fusil à chaîne avec multiples canons tirant des cartouches 5 mm à plus de 60 000 tours/minute. FO min : 7.}
+{1300}{}{Lance-roquettes}
+{1301}{}{Lance-roquettes Rockwell BigBazooka, avec détente de luxe modèle 3 lb. Tire des roquettes perforantes ou explosives. FO min : 6.}
+{1400}{}{Roquette expl.}
+{1401}{}{Roquette dotée d'une grosse ogive explosive.}
+{1500}{}{Fusil à plasma}
+{1501}{}{Fusil à plasma Winchester modèle P94. Arme à énergie de qualité industrielle, tirant des salves de plasma surchauffé via un canon supraconducteur. Alimenté par des Cellules à Micro Fusion. FO min : 6.}
+{1600}{}{Pistolet à laser}
+{1601}{}{Pistolet à laser Wattz 1000. Modèle civil à la puissance en watts inférieure aux versions de l'armée et de la police. Utilise des petites cellules énergétiques. FO min : 3.}
+{1700}{}{Armure de combat}
+{1701}{}{Armure ultra-sophistiquée composée de polymères défensifs avancés. Créée en 2051, cette armure au poids léger dispose d'une thermorégulation avancée.}
+{1800}{}{Aigle du désert .44}
+{1801}{}{Ancien pistolet Aigle du désert, version magnum .44. Il est devenu l'un des pistolets les plus populaires de tous les temps grâce aux films de la fin du 20è siècle FO min : 4.}
+{1900}{}{Rocher}
+{1901}{}{Version améliorée du Rocher modèle Granite-Inc. FO min : 1.}
+{2000}{}{Pince à levier}
+{2001}{}{Pièce de métal solide et lourde utilisée comme levier ou pour assommer des adversaires. FO min : 5.}
+{2100}{}{Protections cuivrées}
+{2101}{}{Protections renforcées en acier. Elles protègent les mains et sont très efficaces lors des combats au corps à corps. FO min : 1.}
+{2200}{}{Pistolet 14 mm}
+{2201}{}{Pistolet automatique Sig-Sauer 14 mm. Arme de gros calibre à tir simple. De conception excellente. FO min : 4.}
+{2300}{}{Fusil d'assaut}
+{2301}{}{Fusil d'assaut AK-112 5 mm. Ancien modèle militaire hors service au moment de la guerre. S'utilise en mode tir simple ou rafale avec des balles 5 mm à grande vitesse. FO min : 5.}
+{2400}{}{Pistolet à plasma}
+{2401}{}{Pistolet à plasma Glock 86. Fut conçu par l'IA Gaston Glock. Lance des petites salves de plasma surchauffé. Alimenté par une petite cellule énergétique. FO min : 4.}
+{2500}{}{Grenade (à frag.)}
+{2501}{}{Grenade à fragmentation standard. Contient une petite quantité d'explosifs de grande puissance, le contenant lui-même générant la majorité des fragments destructeurs. Explose au contact de la cible. FO min : 3.}
+{2600}{}{Grenade (à plasma)}
+{2601}{}{Unité de plasma à capsules magnétiques avec explosifs. Surchauffé, le plasma explose au contact de la cible. FO min : 4.}
+{2700}{}{Grenade (à impulsions)}
+{2701}{}{Grenade à impulsions électromagnétiques générant un champ magnétique intense à la détonation. N'affecte pas les créatures biologiques. S'amorce au contact de la cible. FO min : 4.}
+{2800}{}{Laser Gatling}
+{2801}{}{Laser Gatling H&K L30. Spécialement conçues à des fins militaires, ces armes n'étaient encore que des prototypes au début de la Guerre. Les canons multiples permettent des tirs plus longs avant la surchauffe. Alimenté par des Cellules à Micro Fusion. FO min : 6.}
+{2900}{}{CCM 10 mm}
+{2901}{}{Munitions. Calibre : 10 mm, charges creuses à manchon}
+{3000}{}{OP 10 mm}
+{3001}{}{Munitions. Calibre : 10 mm Obus perforants.}
+{3100}{}{CCM Magnum .44}
+{3101}{}{Munitions, calibre magnum .44, charges creuses.}
+{3200}{}{Combus. lance-flammes}
+{3201}{}{Cylindre contenant un liquide combustible inflammable pour lance-flammes.}
+{3300}{}{OP 14 mm}
+{3301}{}{Munitions de gros calibre. Obus perforant 14 mm.}
+{3400}{}{MEM .223}
+{3401}{}{Munitions, calibre .223, Manchon Entièrement Métallique.}
+{3500}{}{CCM 5 mm}
+{3501}{}{Petites munitions légères. Calibre : 5 mm, charge creuse à manchon.}
+{3600}{}{OP 5 mm}
+{3601}{}{Munitions de petit calibre. Obus perforants 5 mm.}
+{3700}{}{OP de roquettes}
+{3701}{}{Obus de roquettes dotés d'un petit explosif mais conçus pour perforer le blindage.}
+{3800}{}{Cellule énergétique}
+{3801}{}{Petite unité de stockage d'énergie.}
+{3900}{}{Cellule MF}
+{3901}{}{Unité de production d'énergie de taille moyenne. Dispositif de fusion intégré.}
+{4000}{}{Stimpak}
+{4001}{}{Curatif. Lorsqu'il est injecté, il guérit immédiatement les blessures bénignes.}
+{4100}{}{Capsules}
+{4101}{}{Ce sac contient tes capsules. C'est la seule monnaie acceptée du monde post-apocalyptique, parfois aussi appelée "script" ou "buck" en référence aux appellations archaïques d'Avant-Guerre.}
+{4200}{}{Réfrigérateur}
+{4201}{}{Un réfrigérateur. Il n'y a plus de liquide de refroidissement.}
+{4300}{}{Coffre de glace}
+{4301}{}{Coffre de glace de style ancien. Les charnières sont en bon état.}
+{4400}{}{Coffre de glace}
+{4401}{}{Coffre de glace de style ancien. Les charnières sont en bon état.}
+{4500}{}{Couteau à lancer}
+{4501}{}{Arme blanche conçue pour le lancer de couteaux. En titane et aiguisé au laser. FO min : 3.}
+{4600}{}{Sac}
+{4601}{}{Sac de taille moyenne. Confectionné avec des poils de brahmines tissés.}
+{4700}{}{Trousse de secours}
+{4701}{}{Petite trousse contenant du matériel médical de base. Bandages, couvertures, désinfectant etc.}
+{4800}{}{Anti-Rad}
+{4801}{}{Solution chimique absorbant les particules radioactives pour les faire quitter ton organisme. Nécessite du temps avant de fonctionner.}
+{4900}{}{Antidote}
+{4901}{}{Flacon contenant un antidote de fabrication artisanale contre le poison. Liquide laiteux composé de morceaux flottants de chair de radscorpion.}
+{5000}{}{Elément réservé}
+{5001}{}{Elément réservé. NE PAS UTILISER.}
+{5100}{}{Dynamite}
+{5101}{}{Explosif à grande puissance composé de nitroglycérine mélangée à de la substance absorbante Kiselguhr. Contient une minuterie.}
+{5200}{}{Compteur Geiger}
+{5201}{}{Compteur Geiger modèle Wattz Electronics C-Radz. Détecte la présence et la force des champs radioactifs.}
+{5300}{}{Mentats}
+{5301}{}{Pilules agissant sur le cerveau. Accroît les fonctions relatives à la mémoire et accélère les autres procédés mentaux. Hautement addictif.}
+{5400}{}{Homme Invisible}
+{5401}{}{Système furtif personnel RobCo Homme Invisible 3001. Produit un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet.}
+{5500}{}{Puce d'eau}
+{5501}{}{Puce informatisée pour le contrôle de la purification de l'eau. Ressemble étonnamment à la puce dont ton Abri a besoin.}
+{5600}{}{Plaques militaires}
+{5601}{}{Série de pendentifs militaires. On peut seulement y lire le nom de Darkwater.}
+{5700}{}{Microphone}
+{5701}{}{Microphone et dispositif de transmission miniatures.}
+{5800}{}{Holodisque}
+{5801}{}{Voici un Holodisque Wattz Electronics, prévu pour les lecteurs THT. Aussi appelée "Holobande" ou "Cassette". Les holodisques sont des appareils de stockage de longue durée sur des bandes holographiques lisibles au laser. Elles permettent la conservation de texte, de sons ou de vidéos et possède typiquement 64 ou 256 kilo-octets de données.}
+{5900}{}{Détecteur de mouvements}
+{5901}{}{Détecteur de mouvements modèle Wattz Electronics C-U. Détecte les mouvements des matériaux biologiques à plusieurs mètres de distance grâce à un radar spécialement conçu.}
+{6000}{}{Bibliothèque}
+{6001}{}{Une bibliothèque en bon état. Elle est faite de bois et peut supporter le poids de livres.}
+{6100}{}{Bibliothèque}
+{6101}{}{Cette bibliothèque en bois est en très mauvais état et menace de s'effondrer à tout moment.}
+{6200}{}{Bibliothèque}
+{6201}{}{Vous n'aimez pas la manière dont cette bibliothèque penche...}
+{6300}{}{Bibliothèque}
+{6301}{}{Une bibliothèque en bon état. Elle est faite de bois et peut supporter le poids de livres.}
+{6400}{}{Bibliothèque}
+{6401}{}{Cette bibliothèque en bois est en très mauvais état et menace de s'effondrer à tout moment.}
+{6500}{}{Bibliothèque}
+{6501}{}{Vous n'aimez pas la manière dont cette bibliothèque penche...}
+{6600}{}{Bureau}
+{6601}{}{Un bureau en bois. Il y a des tiroirs et on peut y ranger des trucs.}
+{6700}{}{Bureau}
+{6701}{}{Ce bureau en bois a vu des jours meilleurs. Tu ne lui ferais pas confiance pour supporter une feuille de papier.}
+{6800}{}{Commode}
+{6801}{}{Une commode en bois. Il y a des tiroirs et on peut y ranger des trucs.}
+{6900}{}{Commode}
+{6901}{}{Cette commode en bois semble fatiguée.}
+{7000}{}{Commode}
+{7001}{}{Une commode en bois. Un seul tiroir fonctionne. Pas très excitant.}
+{7100}{}{Fruit irradié}
+{7101}{}{Un fruit étrange. Il n'a pas l'air particulièrement bon. Sans conservateur ni colorant ajouté. Pauvre en calories.}
+{7200}{}{Porte-documents}
+{7201}{}{Porte-documents portant la mention Made-in-the-USA. En cuir. En bon état mais la serrure à combinaison est cassée.}
+{7300}{}{Le Livre des Sciences}
+{7301}{}{Série de livres contenant des informations sur différents domaines scientifiques.}
+{7400}{}{Veste en cuir}
+{7401}{}{Lourde veste en cuir noir. Tu ne peux t'empêcher de penser à quel point tu aurais l'air cool en la portant, même dans la chaleur étouffante du désert.}
+{7500}{}{Multi-Outil}
+{7501}{}{Super trousse à outils contenant divers outils utiles. Un vrai bricoleur ne sort jamais sans.}
+{7600}{}{L'Electronique}
+{7601}{}{Rapport sur l'électronique. Sur la couverture, une note indique que le livre est destiné à tous "les électroniciens en herbe !"}
+{7700}{}{Kit de serrurier}
+{7701}{}{Kit électronique de serrurier Micromanipulateur FingerStuff Wattz Electronics. Destiné à forcer les verrous électroniques et autres systèmes de sécurité.}
+{7800}{}{Peinture floue}
+{7801}{}{Illustration d'un chanteur. Evidemment très ancienne. L'illustration est recouverte d'une pellicule en feutre encore en bon état.}
+{7900}{}{Fusée éclairante}
+{7901}{}{Fusée éclairante. Produit une brève lueur. L'emballage est écorné, mais elle est en bon état. Tordre l'extrémité pour l'activer.}
+{8000}{}{Guide de secourisme}
+{8001}{}{Brochure sur les notions et la pratique du secourisme. La plupart des informations datent d'Avant-Guerre, mais elles sont toujours applicables.}
+{8100}{}{Brochette d'iguane}
+{8101}{}{Iguane rôti et farci.}
+{8200}{}{Clé}
+{8201}{}{Une clé. Elle sert à ouvrir une serrure spécifique.}
+{8300}{}{Porte-clés}
+{8301}{}{Trousseau de clés.}
+{8400}{}{Trousse de serrurier}
+{8401}{}{Trousse de serrurier comprenant tous les outils requis pour ouvrir des serrures conventionnelles.}
+{8500}{}{Plastic}
+{8501}{}{Morceau de Cordex, marque de plastic militaire. Très stable, très destructeur. Comprend une minuterie.}
+{8600}{}{Guide de l'Eclaireur}
+{8601}{}{Ouvrage sur les méthodes et les idéaux des Eclaireurs. Informations très pratiques pour la survie dans la nature.}
+{8700}{}{Buffout}
+{8701}{}{Stéroïdes ultra-sophistiqués. Avant-Guerre, ils étaient surtout utilisés clandestinement par les athlètes. Augmentent la force et les réflexes. Hautement addictif.}
+{8800}{}{Montre}
+{8801}{}{Montre de valeur. Elle fonctionne mal mais elle est encore jolie.}
+{8900}{}{Moteur}
+{8901}{}{Moteur électrique 40 CV.}
+{9000}{}{Sac à dos}
+{9001}{}{Sac à dos ordinaire avec sangles supplémentaires.}
+{9100}{}{Trousse de médecin}
+{9101}{}{Cette trousse noire contient des instruments et des produits chimiques utilisés par les médecins dans l'exercice de leurs fonctions.}
+{9200}{}{Queue de scorpion}
+{9201}{}{Queue d'un radscorpion.}
+{9300}{}{Sac}
+{9301}{}{Sac de taille moyenne. Confectionné avec des poils de brahmines tissés.}
+{9400}{}{Fusil de chasse}
+{9401}{}{Fusil de chasse Winchester Widowmaker. Double canon calibre 12. Canon court avec support en acajou. FO min : 4.}
+{9500}{}{Cartouches calibre 12}
+{9501}{}{Munitions pour fusil de chasse. Ces munitions spéciales portent la mention : "Cartouches calibre 12. Ne pas laisser à la portée des enfants de moins de 3 ans."}
+{9600}{}{Passe rouge}
+{9601}{}{Clé de sécurité électronique portant le code de couleur rouge.}
+{9700}{}{Passe bleu}
+{9701}{}{Clé de sécurité électronique portant le code de couleur bleue.}
+{9800}{}{Ferraille}
+{9801}{}{Amas de vieilleries contenant un peu de tout.}
+{9900}{}{Médaillon en or}
+{9901}{}{Médaillon en or de valeur.}
+{10000}{}{Radio}
+{10001}{}{Système de communication radio modèle 2043B de Wattz Electronics. Fiable et robuste, avec camouflage. Interface optionnelle RS-121.}
+{10100}{}{Briquet}
+{10101}{}{Briquet au butane en argent, en bon état.}
+{10200}{}{Armes et Munitions}
+{10201}{}{Magazine spécialisé dans la pratique des armes à feu.}
+{10300}{}{Brochette d'iguane}
+{10301}{}{Viande d'iguane et légumes grillés sur une brochette.}
+{10400}{}{Magnétophone}
+{10401}{}{Magnétophone Lisez-Pour-Moi de chez Wattz Electronics. Lit et enregistre des bandes haute densité de 30 minutes. A enregistrement unique, ne pas confondre avec les holodisques modernes.}
+{10500}{}{Clé}
+{10501}{}{Clé spéciale.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Bouteille de Nuka-Cola, le soda du monde post-nucléaire : chaud et plat.}
+{10700}{}{Os}
+{10701}{}{Collection d'os étranges.}
+{10800}{}{Os}
+{10801}{}{Collection d'os étranges.}
+{10900}{}{Rad-X}
+{10901}{}{Produit anti-radiation à absorber avant toute exposition. Aucun effet secondaire connu. Sans accoutumance.}
+{11000}{}{Psycho}
+{11001}{}{Système unique rempli de produits chimiques étranges et inconnus, probablement d'origine militaire, et censé accroître le potentiel de combat des soldats.}
+{11100}{}{MEM magnum .44}
+{11101}{}{Munitions, calibre magnum .44, manchon entièrement métallique.}
+{11200}{}{Urne}
+{11201}{}{Belle urne dorée portant l'inscription "Harriet" et contenant des cendres.}
+{11300}{}{Robe}
+{11301}{}{Robe des Enfants de la Cathédrale.}
+{11400}{}{Main de Tangler}
+{11401}{}{Manipulateur cybernétique en forme de main. Endommagé à cause de la "méthode" d'extraction.}
+{11500}{}{SuperMassue}
+{11501}{}{SuperMassue fabriquée par la Confrérie de l'Acier et utilisant la technologie d'armement la plus avancée qui existe. Comprend un système de stockage d'énergie cinétique. FO min : 5.}
+{11600}{}{Ripper}
+{11601}{}{Vibro-lame Ripper(tm). Alimentée par une petite cellule énergétique, la lame en chaîne déchire sa cible. FO min : 4.}
+{11700}{}{Fleur}
+{11701}{}{Jolie fleur.}
+{11800}{}{Fusil à laser}
+{11801}{}{Fusil à laser Wattz 2000. Utilise des cellules à micro fusion pour des lasers plus puissants et un canon amélioré pour une portée maximale. FO min : 6.}
+{11900}{}{Collier}
+{11901}{}{Collier apparemment de valeur en argent, or et diamants.}
+{12000}{}{Arme Alien}
+{12001}{}{Etrange arme à feu apparemment d'origine extraterrestre. Il semble toutefois pouvoir contenir des petites cellules énergétiques. FO min : 2.}
+{12100}{}{Balle 9 mm}
+{12101}{}{Ensemble de cartouches anciennes 9x19 mm. Graissées pour les protéger de l'environnement. Balles standard.}
+{12200}{}{Mauser 9 mm}
+{12201}{}{Mauser M/96 avec Parabellum 9x19 mm. En excellent état. Extrêmement précis. FO min : 3.}
+{12300}{}{Anihilateur psychique}
+{12301}{}{Etrange système issu d'une technologie singulière.}
+{12400}{}{Bière}
+{12401}{}{Type de bière brassée artisanalement.}
+{12500}{}{Alcool}
+{12501}{}{Liqueur ancienne d'avant-guerre.}
+{12600}{}{Fiole d'eau}
+{12601}{}{Récipient permettant de conserver de l'eau ou d'autres liquides. Aussi appelé "contenant".}
+{12700}{}{Corde}
+{12701}{}{Grosse corde résistante. Environ 6 mètres de long.}
+{12800}{}{Coffre}
+{12801}{}{Ton coffre standard. Contient différents objets, se trouve au pied du lit, peut être cadenassé.}
+{12900}{}{Coffre}
+{12901}{}{Ton coffre standard. Contient différents objets, se trouve au pied du lit, peut être cadenassé.}
+{13000}{}{Coffre}
+{13001}{}{Ton coffre standard. Contient différents objets, se trouve au pied du lit, peut être cadenassé.}
+{13100}{}{Coffre}
+{13101}{}{Ton coffre standard. Contient différents objets, se trouve au pied du lit, peut être cadenassé.}
+{13200}{}{Placard}
+{13201}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13300}{}{Placard}
+{13301}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13400}{}{Placard}
+{13401}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13500}{}{Placard}
+{13501}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13600}{}{Placard}
+{13601}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13700}{}{Placard}
+{13701}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13800}{}{Placard}
+{13801}{}{Placard de rangement. En métal, contient différents objets, peut être cadenassé.}
+{13900}{}{Placard}
+{13901}{}{Placard de rangement.}
+{14000}{}{Carte d'accès}
+{14001}{}{Carte d'accès de sécurité. Encore en bon état.}
+{14100}{}{Badge EDLC}
+{14101}{}{Badge portant le symbole des Enfants de la Cathédrale. Un côté porte des dentelures rappelant celles d'une clé.}
+{14200}{}{Badge EDLC}
+{14201}{}{Badge portant le symbole des Enfants de la Cathédrale. Un côté porte des dentelures rappelant celles d'une clé.}
+{14300}{}{Fusil d'embuscade}
+{14301}{}{Fusil d'embuscade DKS-501. Excellente arme à longue portée. A l'origine de calibre .308, celui-ci est de calibre plus courant .223. FO min : 5.}
+{14400}{}{SuperStimpak}
+{14401}{}{Curatif avancé. Très fort. Aussi appelés Superstim, provoque quelques dommages au bout d'un certain temps en raison de la puissance des produits chimiques utilisés.}
+{14500}{}{Etagère}
+{14501}{}{Etagère en bois. Fidèle au poste.}
+{14600}{}{Etagère}
+{14601}{}{Etagère en bois. Fidèle au poste.}
+{14700}{}{Etagère}
+{14701}{}{Etagère en bois. Fidèle au poste.}
+{14800}{}{Etagère}
+{14801}{}{Etagère en bois. Fidèle au poste.}
+{14900}{}{Etagère}
+{14901}{}{Etagère en bois. Fidèle au poste.}
+{15000}{}{Etagère}
+{15001}{}{Etagère en bois. Fidèle au poste.}
+{15100}{}{Etagères}
+{15101}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15200}{}{Etagères}
+{15201}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15300}{}{Etagères}
+{15301}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15400}{}{Etagères}
+{15401}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15500}{}{Etagères}
+{15501}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15600}{}{Etagères}
+{15601}{}{Rangée d'étagères en bois. Tu ne pourras pas transporter ça avec toi.}
+{15700}{}{Etabli}
+{15701}{}{Vieil établi standard et ordinaire. Il semble agréable de s'y asseoir.}
+{15800}{}{Panneau à outils}
+{15801}{}{Ce panneau situé au-dessus de l'établi contient différents outils.}
+{15900}{}{Cocktail Molotov}
+{15901}{}{Grenade inflammable de fabrication artisanale. FO min : 3.}
+{16000}{}{Bâton d'élevage}
+{16001}{}{Bâton d'élevage, modèle Meilleur Ami du Fermier de Wattz Electronics. Alimenté par de petites cellules énergétiques. FO min : 4.}
+{16100}{}{Arme Red Ryder BB}
+{16101}{}{Arme Red Ryder BB. Une carabine à air comprimé. Un classique. FO min : 3.}
+{16200}{}{Arme Red Ryder LE BB}
+{16201}{}{Version limitée de l'arme Red Ryder BB. Chargeur de 100 coups et boussole intégrée, un vrai classique. Faites attention aux yeux. FO min : 3.}
+{16300}{}{Arme Red Ryder BB}
+{16301}{}{Une boîte contenant des carabines à air comprimé d'avant-guerre en excellent état. En acier inox.}
+{16400}{}{Disque de la Confrérie}
+{16401}{}{Holodisque concernant la Confrérie de l'Acier.}
+{16500}{}{Stand d'Iguanes}
+{16501}{}{A l'Iguane Rôti, chez Bob. Rien de tel qu'un bon steak d'iguane bien frais !}
+{16600}{}{Table}
+{16601}{}{Table standard. Evite de poser les choses par terre.}
+{16700}{}{Table}
+{16701}{}{Table standard. Evite de poser les choses par terre.}
+{16800}{}{Objets divers}
+{16801}{}{Diverses choses, aussi appelées "trucs".}
+{16900}{}{Objets divers}
+{16901}{}{Diverses choses, aussi appelées "trucs".}
+{17000}{}{Objets divers}
+{17001}{}{Diverses choses, aussi appelées "trucs".}
+{17100}{}{Objets divers}
+{17101}{}{Diverses choses, aussi appelées "trucs".}
+{17200}{}{Objets divers}
+{17201}{}{Diverses choses, aussi appelées "trucs".}
+{17300}{}{Objets divers}
+{17301}{}{Diverses choses, aussi appelées "trucs".}
+{17400}{}{Objets divers}
+{17401}{}{Diverses choses, aussi appelées "trucs".}
+{17500}{}{Objets divers}
+{17501}{}{Diverses choses, aussi appelées "trucs".}
+{17600}{}{Objets divers}
+{17601}{}{Diverses choses, aussi appelées "trucs".}
+{17700}{}{Objets divers}
+{17701}{}{Diverses choses, aussi appelées "trucs".}
+{17800}{}{Objets divers}
+{17801}{}{Diverses choses, aussi appelées "trucs".}
+{17900}{}{Objets divers}
+{17901}{}{Diverses choses, aussi appelées "trucs".}
+{18000}{}{Cageot}
+{18001}{}{Cageot en bois rempli d'objets ordinaires.}
+{18100}{}{Bureau}
+{18101}{}{Bureau standard. Tous les bureaux sont identiques.}
+{18200}{}{Bureau}
+{18201}{}{Bureau standard.}
+{18300}{}{Bureau}
+{18301}{}{Bureau standard.}
+{18400}{}{Bureau}
+{18401}{}{Bureau standard.}
+{18500}{}{Bureau}
+{18501}{}{Bureau standard.}
+{18600}{}{Bureau}
+{18601}{}{Bureau standard.}
+{18700}{}{Bureau}
+{18701}{}{Bureau standard.}
+{18800}{}{Placard}
+{18801}{}{Un placard}
+{18900}{}{Placard}
+{18901}{}{Un placard}
+{19000}{}{Disque sur le FEV}
+{19001}{}{Un holodisque contenant des informations médicales. Peut être utilisé pour entrer des informations dans ton Pip-Boy 2000.}
+{19100}{}{Disque de sécurité}
+{19101}{}{Un holodisque avec une étiquette portant la mention "Accès sécurisé". Peut être utilisé pour transférer les données qu'il contient vers ton Pip-Boy 2000.}
+{19200}{}{Disque sur les expériences Alpha}
+{19201}{}{L'étiquette de cet holodisque porte la mention : "Journal d'expériences Alpha".}
+{19300}{}{Disque sur les expériences Delta}
+{19301}{}{L'étiquette de cet holodisque porte la mention : "Journal d'expériences Delta".}
+{19400}{}{Les flingues du Maitre}
+{19401}{}{Ils sont attachés au Maître. On dirait des Gatling Laser H&K L30, mais tu n'en es est pas sûr.}
+{19500}{}{Code d'honneur de la Confrérie.}
+{19501}{}{Un holodisque portant le symbole de la Confrérie de l'Acier. Il peut être utilisé pour transférer les données vers ton Pip-Boy 2000.}
+{19600}{}{Transmissions des Mutants}
+{19601}{}{Cet holodisque semble être réglé pour enregistrer des données audio depuis une radio. Il peut être utilisé pour transférer les informations vers ton Pip-Boy 2000.}
+{19700}{}{Boîte}
+{19701}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{19800}{}{Boîte}
+{19801}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{19900}{}{Boîte}
+{19901}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20000}{}{Boîte}
+{20001}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20100}{}{Boîte}
+{20101}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20200}{}{Boîte}
+{20201}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20300}{}{Boîte}
+{20301}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20400}{}{Boîte}
+{20401}{}{Une boite de haute technologie faite en matériel composite ultra-léger et résistant. Elle est probablement utilisée pour le rangement d'armes ou d'équipement médical.}
+{20500}{}{Fusée éclairante}
+{20501}{}{Fusée éclairante. Produit une brève lumière. L'emballage est écorné, mais elle est en bon état. Elle est allumée.}
+{20600}{}{Dynamite}
+{20601}{}{Explosif à grande puissance composé de nitroglycérine mélangée à de la substance absorbante Kiselguhr. Comprend une minuterie, qui est activée.}
+{20700}{}{Compteur Geiger (activé)}
+{20701}{}{Compteur Geiger modèle Wattz Electronics C-Radz. Détecte la présence et la force des champs radioactifs. Il est activé.}
+{20800}{}{Détecteur de mouvements (activé)}
+{20801}{}{Détecteur de mouvements modèle Wattz Electronics C-U. Détecte les mouvements des matériaux biologiques à plusieurs mètres de distance grâce à un radar spécialement conçu. Il est activé.}
+{20900}{}{Plastic (Activé)}
+{20901}{}{Morceau de Cordex, marque de plastic militaire. Très stable, très destructeur. Comprend une minuterie qui est activée.}
+{21000}{}{Homme Invisible (activé)}
+{21001}{}{Système furtif personnel RobCo Homme Invisible 3001. Produit un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet, le rendant invisible.}
+{21100}{}{Os}
+{21101}{}{Voici Ed. Ed est mort.}
+{21200}{}{Tandi}
+{21201}{}{Tu marchandes la libération de Tandi.}
+{21300}{}{Restes de Gizmo}
+{21301}{}{Gizmo, ancien responsable du crime de Dépôtville, est mort. Et c'est d'une puanteur !}
+{21400}{}{Bureau}
+{21401}{}{Bureau. Après observation, tu décides que c'est encore un bureau.}
+{21500}{}{Hist. de la Confrérie}
+{21501}{}{Holodisque contenant des informations sur la Confrérie de l'Acier. Peut être utilisé pour entrer des informations dans ton Pip-Boy 2000.}
+{21600}{}{Histoire de Maxson}
+{21601}{}{RESERVE}
+{21700}{}{Journal de Maxson}
+{21701}{}{RESERVE}
+{21800}{}{Soins légers}
+{21801}{}{Marchande cette option si tu veux des soins légers.}
+{21900}{}{Soins moyens}
+{21901}{}{Marchande cette option si tu veux des soins moyens.}
+{22000}{}{Soins poussés}
+{22001}{}{Marchande cette option si tu veux beaucoup de soins et une vraie guérison.}
+{22100}{}{Carte de sécurité}
+{22101}{}{Carte contenant un code de sécurité électronique.}
+{22200}{}{Interrupteur de champ}
+{22201}{}{Système de transmission électronique composé d'un gros bouton. Semble être de conception récente et destiné à de très grandes mains.}
+{22300}{}{Passe jaune}
+{22301}{}{Clé de sécurité électronique portant le code de couleur jaune.}
+{22400}{}{Petite statuette}
+{22401}{}{Tu penses qu'il s'agit d'une sculpture de "l'Habitant de l'Abri", mais ce n'est qu'une supposition.}
+{22500}{}{Tu-n'en-sais-rien}
+{22501}{}{Après inspection, tu ne sais toujours pas de quoi il s'agit.}
+{22600}{}{Paquet de nouilles}
+{22601}{}{Tu ne sais pas ce que signifie "Spaghettis instantanés".}
+{22700}{}{Boîte poussiéreuse}
+{22701}{}{Dîner TV. Tu doutes que ce soit comestible. Tu penses que ça ne l'a peut-être jamais été.}
+{22800}{}{Manuel technique}
+{22801}{}{Manuel de réparation technique sur la SuperArmure T-51b. Il explique en long et en large, avec tous les détails ennuyeux, tout ce que vous avez besoin de savoir pour utiliser, maintenir, et réparer une SuperArmure.}
+{22900}{}{Petite pièce détachée}
+{22901}{}{Voici un motivateur systolique. Cette pièce détachée peu commune est très petite pour son poids. C'est une technologie très avancée, tu n'as aucune idée de ce à quoi elle pourrait servir.}
+{23000}{}{Enregistrements Abri}
+{23001}{}{Recueil d'événements et d'enregistrements importants issus d'un ordinateur de l'Abri. Probablement endommagé.}
+{23100}{}{Code sécurité Base Mil.}
+{23101}{}{La sécurité avant tout. Rappelez-vous, ne jamais écrire son mot de passe sur un morceau de papier.}
+{23200}{}{SuperArmure renforcée}
+{23201}{}{Une SuperArmure T-51b modifiée. Le procédé de renforcement a amélioré les possibilités de défense de ce système ultra-sophistiqué, sans limiter le mouvement et tout en gardant la même protection contre les radiations.}
+{23300}{}{Fusil à turbo-plasma}
+{23301}{}{Fusil à plasma Winchester P94 modifié. La chambre à plasma a été modifiée pour accélérer le processus de formation de la salve. FO min : 6.}
+{23400}{}{Protections aiguisées}
+{23401}{}{Version améliorée des Protections cuivrées classiques. Les Protections aiguisées sont plus redoutables et déchirent la chair de ton adversaire lors des combats au corps à corps. FO min : 1.}
+{23500}{}{SuperPoing}
+{23501}{}{SuperPoing 'Big Frigger' de BeatCo. Considéré par beaucoup comme l'arme ultime des combats au corps à corps. D'autres en ont juste peur. Alimenté par de petites cellules énergétiques. FO min : 1.}
+{23600}{}{Couteau de combat}
+{23601}{}{Couteau de combat de qualité optimale, le Stallona fut conçu par SharpWit, Inc. Le tranchant de cette lame est garanti plus de 10 ans ! FO min : 2.}
+{23700}{}{Journaux de Chimie}
+{23701}{}{Pile de documentation relative à la Chimie. Les articles sur la Chimie moléculaire sont particulièrement intéressants.}
+{23800}{}{F.E.V. (Ghoule)}
+{23801}{}{heu ghoule gnaaah.}
+{23900}{}{Armure de la Confrérie}
+{23901}{}{Version supérieure de l'Armure de Combat. La Confrérie de l'Acier a effectué de nombreuses améliorations sur la version standard.}
+{24000}{}{Armure Tesla}
+{24001}{}{Cette armure luisante protège des attaques énergétiques. Les trois Systèmes d'attraction Tesla dispersent un fort pourcentage de l'énergie provenant des attaques énergétiques.}
+{24100}{}{Pistolet .223}
+{24101}{}{Fusil calibre .223 modifié et transformé en pistolet. Une arme à feu classique, conçue avec amour et talent. FO min : 5.}
+{24200}{}{Fusil de combat}
+{24201}{}{Fusil de Combat Winchester City-Killer calibre 12, variante Bullpup. En excellent état, il est doté de la modification environnementale Guerre-du-Désert pour une meilleure fiabilité. FO min : 5.}
+{24300}{}{Formation MacRae}
+{24301}{}{Utiliser pour augmenter les dommages de mêlée de 1, et la résistance aux dégâts % (Normal) de 5, en permanence.}
+{24400}{}{Or en pépite}
+{24401}{}{Une pépite d'or.}
+{24500}{}{Pistolet Alien "TRICHE"}
+{24501}{}{Vous êtes un salaud de tricheur.}
+{24600}{}{Uzi 9mm SMG}
+{24601}{}{Il s'agit d'un pistolet-mitrailleur Uzi, calibre 9mm. Etonnamment, il est encore en état de marche. Le Uzi n'était pas cher, léger et rarement enrayé. Ce qui en faisait l'arme classique des dealers aux premiers stades du 21e siècle. Min STR: 3.}
+{24700}{}{Viande de rat}
+{24701}{}{Bouts de rat hachés. Dommage que vous n'ayez pas lu le document de l'Abri VTR-003 "Comment manger un Rat", sinon vous seriez en mesure de rendre cela plus agréable.}
+{24800}{}{Viande de Brahmine}
+{24801}{}{La viande de Brahmine est riche en vitamines, minéraux, lipides, protéines, et radiations. Dommage que vous n'ayez pas le temps de faire cuire quelques savoureux hamburgers de brahmines !}
+{24900}{}{Viande de chien}
+{24901}{}{Dur et caoutchouteux, mais à quoi s'attendre ? Il paraît qu'aux 20e et 21e siècles, avant la Grande Guerre, la viande de chien était une délicatesse en Chine.}
+{25000}{}{Viande de Ghoul}
+{25001}{}{Vous n'êtes même pas sûr que c'est comestible. Ça sent la mort et le goût n'est pas probablement mieux.}
+{25100}{}{Viande de Griffemort}
+{25101}{}{Très dur et sec, mais le taux de protéine est près de 100% ; la viande la plus consistante et "saine" que vous trouverez dans le désert.}
+{25200}{}{Morceaux de Mantis}
+{25201}{}{Si vous prétendez que c'est des bouts d'iguane, ce n'est pas si mal, sauf que ça croustille. En fait, c'est toujours aussi mauvais...}
+{25300}{}{Flacon d'eau (vide)}
+{25301}{}{Récipient permettant de conserver de l'eau ou d'autres liquides. Celui-ci est vide. Rappelez-vous les enfants, éviter la déshydratation est un élément important de tout plan d'urgence !}
+{25400}{}{F.E.V. (Super Mutant)}
+{25401}{}{Eh bien, vous êtes un Super Mutant maintenant. Mais bon, regardez le bon côté: au moins, ils vous permettent de garder vos affaires. Dans tous les cas, votre endurance, force, et votre résistance aux radiations sont augmentées, mais votre intelligence est abaissée et vous ne pouvez plus porter d'armure.}
+{25500}{}{Viande mutante}
+{25501}{}{Vous regardez la viande attentivement pour vous assurer qu'elle ne bouge pas.}
