@@ -1,0 +1,8 @@
+# this is a door. Neutral/male. no tone of voice.
+
+{100}{}{Questa porta e' dotata di una serratura.}
+{101}{}{La porta e' gia' aperta.}
+{102}{}{Non sono adatti per il compito.}
+{103}{}{Hai bypassato la serratura elettronica.}
+{104}{}{Non riesci a bypassare la serratura elettronica.}
+{105}{}{La porta e' chiusa a chiave.}

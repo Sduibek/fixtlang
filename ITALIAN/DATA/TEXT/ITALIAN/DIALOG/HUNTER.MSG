@@ -1,0 +1,49 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{Vedi un cacciatore di taglie grande e grosso, con un distintivo che recita: "Io sono Christopher e tu sei morto".}
+# Bounty Hunter is considered Male term
+
+{101}{}{Che cosa vuoi?}
+{102}{}{Una ciambella.}
+{103}{}{Cosa ci fai qui?}
+{104}{}{Sto solo dando un'occhiata in giro.}
+{105}{}{Niente.}
+{106}{}{Non apprezziamo i furbacchioni, da queste parti. Smamma.}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+{107}{}{Questa battuta non mi ha mai fatto ridere. Stai per scoprire perche' sono considerato uno dei piu' temibili cacciatori di taglie delle lande. E lo faro' gratuitamente.}
+{108}{}{Non sono affari tuoi.}
+{109}{}{Beh, fallo da qualche altra parte.}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{Lo sai che c'e' una taglia di 1500 testoni sulla tua testa per aver ucciso dei bambini? E' giunta l'ora di riscuoterla!}
+# 1500 caps is equivalant to 1500 testons. Children is considered male plural
+
+{1000}{}{Adytum}
+{1001}{}{Discepoli}
+{1002}{}{Cattedrale}
+{1003}{}{Ripper}
+{1004}{}{Blade}
+{1005}{}{Gun}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Water}
+{1009}{}{Nicole}
+{1010}{}{Boneyard}
+{1011}{}{Runner}
+{1012}{}{Chip}
+
+{1100}{}{Una piccola citta' a sud. Di tanto in tanto qualche abitante si fa vivo da queste parti.}
+{1101}{}{Quegli idioti di pacifisti vivono qui vicino.}
+{1102}{}{Uno strano culto che sorge a sud di Adytum e del Boneyard. Nicole e' convinta che stiano tramando qualcosa.}
+{1103}{}{Una banda ultraviolenta che vive a ovest.}
+{1104}{}{Una banda che risiede qua vicino. Usano dei coltelli a vibrazione.}
+{1105}{}{Una banda originaria dell'Hub, che vende armi. Si trovano a nord di qui.}
+{1106}{}{L'Hub e' una grossa citta' di mercanti e di scambi commerciali che sorge a est.}
+{1107}{}{Junktown e' una piccola citta' a nord dell'Hub.}
+{1108}{}{Non saprei.}
+{1109}{}{E' la leader dei Discepoli.}
+{1110}{}{Questo posto e' il Cimitero degli Angeli, cio' che resta della citta' di Los Angeles.}
+{1111}{}{Una banda originaria dell'Hub, che vende armi. Si trovano a nord di qui.}
+{1112}{}{Non saprei.}

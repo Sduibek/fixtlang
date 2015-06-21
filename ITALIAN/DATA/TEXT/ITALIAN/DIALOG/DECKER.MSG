@@ -1,0 +1,235 @@
+{100}{}{Decker non ha alcuna intenzione di parlare di nuovo con te.}
+{101}{}{Vedi Decker.}
+{102}{}{Decker e' troppo occupato per parlare con te. Fa' quel che devi e torna piu' tardi.}
+{103}{DECK_1}{Dunque. Tu stai cercando un lavoro. Che combinazione. Io ne ho proprio uno. Ahh, ma dove sono le mie buone maniere? Qual e' il tuo nome?}
+{104}{}{Sono }
+{105}{}{.}
+{106}{}{Che ti frega?}
+{107}{DECK_2}{Bene, abbiamo sbrigato le formalita'. Vuoi sapere del lavoro?}
+{108}{}{E' per questo che sono qui.}
+{109}{}{Non particolarmente.}
+{110}{DECK_3}{Situazione: C'e' un certo mercante che... come posso dire... non coopera in pieno con la Malavita.}
+{111}{}{E il lavoro?}
+{112}{DECK_4}{Molto semplice. Rintraccia il mercante e sua moglie ed eliminali. }
+{113}{}{Vuoi dire che devo ucciderli?}
+{114}{}{Quanto mi dai?}
+{115}{}{Non posso farlo!}
+{116}{DECK_5}{E' tutta una questione di semantica, ma si'. Uccidili. Accetti il lavoro?}
+{117}{}{Umm, certo -- perche' no?}
+{118}{}{No! Sarebbe sbagliato!}
+{119}{}{Quanto?}
+{120}{DECK_6}{Oh, eccellente. La paga standard e' di 500 testoni come anticipo, e altri 2500... come posticipo.}
+{121}{}{Dove posso trovare questo mercante?}
+{122}{DECK_7}{Vive sui Colli. Tra Barter Street e Thunder Avenue. Porta a termine il lavoro e torna qui.}
+{123}{}{Okay, lo faro'.}
+{124}{}{Come saprai che li ho uccisi?}
+{125}{}{Non credo che lo faro'.}
+{126}{DECK_8}{Decisamente magnifico. Il mio assistente ti ricompensera' mentre raggiungi l'uscita. Chiudi la porta, quando esci. Per favore.}
+{127}{deck_9}{Fidati. Lo sapro'.}
+{128}{}{Okay, lo faro'.}
+{129}{}{Io passo.}
+{130}{DECK_10}{Devo ammettere che mi hai un po'... deluso. Ma sono cose che succedono. Spero ricorderai di mantenere la cosa su un piano confidenziale. Buona giornata.} //I must confess feeling a bit . . . disappointed in you.  But these things happen.  You will remember this is confidential.  Good day
+{131}{DECK_11}{La paga e' quella standard. 500$ per cominciare e altri 2500 quando avrai finito. Lo farai?}
+{132}{}{No, grazie.}
+{133}{}{Si', lo faro'.}
+{134}{DECK_12}{Molto bene. Il mercante vive sui Colli, tra Barter Street e Thunder Avenue. La prima parte della tua paga ti sara' consegnata all'uscita.}
+{135}{DECK_13}{Tutto cio' che avviene nell'Hub sono fatti miei. Puoi dirmelo, oppure andartene.}
+{136}{}{Mi chiamo }
+{137}{}{.}
+{138}{}{Non ti diro' proprio nulla.}
+{139}{DECK_14}{Capisco... il mio assistente ti accompagnera' alla porta.}
+{140}{DECK_15}{Sono molto fiero di te. Sei spietato, un attributo che ammiro. Kane ti dara' la tua paga. Spero che tu sia disponibile ancora in futuro.}
+{141}{}{Posso farti qualche domanda?}
+{142}{}{Grazie.}
+{143}{DECK_16}{Date le circostanze, si'.}
+{144}{}{Cosa c'e' di bello, qui nell'Hub?}
+{145}{}{Hai sentito qualche voce interessante?}
+{146}{}{Lasciamo perdere.}
+{147}{Deck_16b}{Sii breve, per cortesia.}
+{148}{DECK_17}{La Piazza dei Mercanti si trova nel centro della citta', circondata da diversi edifici commerciali. Poi ci sono i Colli verso ovest e la Citta' Vecchia ad est.}
+{149}{}{Che tipo di edifici commerciali?}
+{150}{}{Grazie delle informazioni. Posso farti qualche altra domanda?}
+{151}{DECK_18}{Al momento ti trovi all'interno del Falcone Maltese. Ci sono poi il negozio Tutto-in-Uno, l'Armeria, la Compagnia Prestiti Amichevoli, la polizia e, sfortunatamente, l'ospedale dei Figli della Cattedrale.}
+{152}{}{Da come ne parli, non mi sembri un grande fan della Cattedrale. Come mai?}
+{153}{}{Grazie. Posso farti qualche altra domanda?}
+{154}{DECK_19}{Sono... invadenti. E preferisco fermarmi qui, d'accordo?} // Let's leave it at that, shall we
+{155}{}{Okay. Posso farti qualche altra domanda?}
+{156}{DECK_20}{Non sono una guida turistica. Arrangiati.}
+{157}{}{Posso farti qualche altra domanda?}
+{158}{}{Hai ragione. Le guide turistiche sono molto piu' carine.}
+{159}{DECK_21}{No. Sei pregato di prendere i tuoi soldi e di andartene.}
+{160}{DECK_22}{Come, scusa? }
+{161}{}{Mi hai sentito.}
+{162}{}{Nulla. Posso farti qualche altra domanda?}
+{163}{DECK_23}{Sei arrogante. Il mio assistente ti buttera'... cioe'... ti accompagnera' fuori.}
+{164}{deck_24}{No.}
+{165}{}{Beh, posso chiederti qualcos'altro?}
+{166}{}{Sei una persona molto irritabile...}
+{167}{DECK_25}{Pare che qualcuno stia facendo sparire le carovane dei Mercanti FarGo. E la Cerchia dei Ladri sta causando i soliti piccoli problemi.}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+{169}{}{Certo.}
+{170}{}{Nemmeno per tutto l'oro del mondo!}
+{171}{DECK_27}{Eccellente. Vedi, il lavoro che ti ho affidato era un test e tu l'hai superato brillantemente. Adesso e' il turno di un lavoro importante.}
+{172}{}{Ovvero?}
+{173}{}{Sembra pericoloso. Non credo che mi interessi.}
+{174}{DECK_28}{Come saprai, i Figli della Cattedrale hanno guadagnato una certa influenza in questa citta' e, francamente, non posso sopportarli oltre.}
+{175}{}{Cosa vuoi che faccia, quindi?}
+{176}{DECK_29}{Una bazzecola. Uccidi la Gran Sacerdotessa, Jain. Con la sua dipartita, questo piccolo fastidio svanira'. Ti interessa?}
+{177}{}{Assolutamente.}
+{178}{}{Ma sarebbe una cosa immorale!}
+{179}{DECK_30}{Credo che tu stia cominciando a piacermi. La paga e' di 1000$ sull'unghia e 4000 quando avrai terminato il lavoro. E, credimi, io lo sapro'.}
+{180}{}{Okay.}
+{181}{DECK_31}{Prima di uscire, parla con Kane. Ti dara' tutti i dettagli.}
+{182}{DECK_32}{E uccidere il mercante non lo era, forse?}
+{183}{}{Beh... d'accordo, lo faro'.}
+{184}{}{Non mi interessa. Non lo faro'.}
+{185}{DECK_33}{La paga e' di 1000$ d'anticipo e di 4000 dopo... l'esecuzione. E, credimi, saro' il primo a saperlo, quando sara' tutto finito.}
+{186}{}{Okay.}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+{188}{DECK_35}{Che peccato. Sei sicuro di non voler nemmeno sapere di che lavoro si tratti?}
+{189}{}{Yep, non voglio proprio saperlo.}
+{190}{}{Okay, di cosa si tratta?}
+{191}{DECK_36}{Allora non abbiamo altro di cui discutere.}
+{192}{DECK_37}{Un lavoro eccezionale. Credo che quella fazione religiosa non mi sara' piu' d'intralcio. Rivolgiti a Kane per la tua ricompensa. Ti ringrazio -- e ti terro' certamente a mente per il futuro.}
+{193}{DECK_38}{Mettila giu'.}
+{194}{DECK_39}{Sono un uomo piuttosto paziente, ma persino io ho dei limiti. Kane, dai una lezione a questo imbecille.}
+{195}{DECK_40}{Smettila.}
+{196}{DECK_42}{Rivolgiti a Kane. Lui sapra' dirti di piu'.}
+{197}{DECK_43}{Come dicevo...}
+{198}{DECK_44}{Come ti ho detto.}
+{199}{DECK_45}{Come ti ho gia' detto...}
+{200}{DECK_46}{Non mi stavi ascoltando? Ho detto...}
+{201}{DECK_47}{Sta' attento: non e' mia abitudine ripetermi.}
+{202}{DECK_48}{Non lo diro' un'altra volta.}
+{203}{DECK_49}{Non hai alcun bisogno di sapere altro su di me.}
+{204}{DECK_50}{Molte persone non pronunciano a cuor leggero il nome della mia organizzazione. Noi controlliamo l'Hub.}
+{205}{DECK_51}{Mia madre, la donna migliore che abbia mai conosciuto, mi ha dato l'idea per questo: il miglior locale pubblico dell'intero Hub.}
+{206}{DECK_52}{Rubano ai mercanti e danno ai poveri, o qualche sciocchezza simile. Li trovo assolutamente insignificanti. Harold, il vecchio mutante, forse sapra' dirti di piu'.}
+{207}{DECK_53}{E' il capo della polizia. Una persona a posto, se ti piacciono i tipi onesti e tutti d'un pezzo. Ma non assomiglia a suo padre; quello si' che era un uomo leale.}
+{208}{DECK_54}{Harold e' qui da un bel pezzo. Lo trovi nella Citta' Vecchia. Una buona fonte per certi tipi di informazioni.}
+{209}{DECK_55}{Hanno il totale controllo sull'acqua. Va' all'estremita' sud della Piazza dei Mercanti: li troverai la'.}
+{210}{DECK_56}{E' il capo dei Mercanti d'Acqua.}
+{211}{DECK_57}{Gestivano l'ospedale prima che i Figli della Cattedrale prendessero il loro posto. Adesso se ne stanno buoni buoni nel loro magazzino - molto strano. Li puoi trovare nell'estremita' nordovest della Piazza dei Mercanti.}
+{212}{DECK_58}{E' il capo delle Carovane Scarlatte.}
+{213}{DECK_59}{Sono l'ultimo gruppo di mercanti... letteralmente. Il loro giro d'affari e' limitato. Li trovi nell'angolo nordest della Piazza dei Mercanti.}
+{214}{DECK_60}{Divertente. Si considera il capo dei Mercanti FarGo. In realta', e' solo una figura di facciata. Sa bene che non deve interferire con i miei affari.}
+{215}{DECK_61}{Gestisce l'Armeria.}
+{216}{DECK_62}{Qualcosa sta facendo sparire le carovane dei Mercanti FarGo. Vorrei conoscere la causa, dato che danneggia una parte dei miei affari.}
+{217}{Deck_63}{Sta nel centro esatto della citta'.}
+{218}{DECK_64}{Miti e leggende. Il Deathclaw dovrebbe essere un fantasma o qualcosa del genere.}
+{219}{DECK_65}{La Citta' Vecchia occupa tutta la parte est. Gli sbandati vivono li'.}
+{220}{DECK_66}{La maggior parte dei mercanti vive la'. Basta che vai ad ovest di qui.}
+{221}{DECK_67}{Un'organizzazione fastidiosa. Presto avranno bisogno di una dimostrazione di cosa significhi il potere.}
+{222}{DECK_68}{Morpheus e' il capo dei Figli della Cattedrale. Risiede giu' nel Boneyard.}
+{223}{DECK_69}{E' l'attuale guida dei Figli della Cattedrale qui nell'Hub. Ho ragione di credere che il suo posto sara' presto vacante.}
+{224}{DECK_70}{Una delle invenzioni della Cattedrale. Dovrebbe essere una divinita' minore, o qualcosa del genere.}
+{225}{DECK_71}{Un piccolo negozio che vende... buone armi. Sta vicino ai Mercanti FarGo.}
+{226}{DECK_72}{Esci dalla porta e va' verso nord. Non puoi mancarlo.}
+{227}{DECK_73}{Non e' importante.}
+{228}{DECK_74}{Cosa? Non ha alcuna importanza, al momento.}
+{229}{DECK_75}{Ah. E perche' mai dovrei volerlo fare?}
+{230}{}{Vedo che ti sei liberato del mio secondo. Dovro' occuparmi di te personalmente.}
+{231}{}{Che piacere vederla, sceriffo Greene! Vedo che e' venuto a darmi il suo saluto... il suo ultimo saluto.}
+
+#
+# TRANSLATION NOTE: The following groups of  lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{232}{DECK_26}{Di nuovo buongiorno, amico mio. Ho un altro lavoro per te. Ti interessa?}
+{233}{DECK_26}{Di nuovo buongiorno, amica mia. Ho un altro lavoro per te. Ti interessa?}
+
+{234}{DECK_34}{E dire che mi aspettavo cosi' tanto da te! Ma non posso permettere che tu avverta i Figli della Cattedrale. Kane, occupati di questo nostro amico e insegnagli una bella lezione sul silenzio.}
+{235}{DECK_34}{E dire che mi aspettavo cosi' tanto da te! Ma non posso permettere che tu avverta i Figli della Cattedrale. Kane, occupati di questa nostra amica e insegnale una bella lezione sul silenzio.}
+
+# Decker Tell-Me-Abouts generic responses
+{980}{DECK_73}{Non e' importante.}
+{981}{DECK_74}{Cosa? Non ha alcuna importanza, al momento.}
+
+#
+# Decker Tell-Me-Abouts
+#
+
+{1000}{}{Decker}
+{1001}{}{Malavita}
+{1002}{}{Maltese}
+{1003}{}{Ladri}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Mercanti}
+{1007}{}{Daren}
+{1008}{}{Scarlatte}
+{1009}{}{Demetre}
+{1010}{}{FarGo}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Scomparse}
+{1014}{}{Piazza}
+{1015}{}{Claw}
+{1016}{}{Citta'}
+{1017}{}{Colli}
+{1018}{}{Cattedrale}
+{1019}{}{Morpheus}
+{1020}{}{Jain}
+{1021}{}{Master}
+{1022}{}{Armeria}
+{1023}{}{Tutto-in-Uno}
+{1024}{}{Falcone}
+{1025}{}{Nightclub}
+{1026}{}{Greene}
+{1027}{}{Hightower}
+{1028}{}{Carovane}
+{1029}{}{Romara}
+{1030}{}{FarGo}
+{1031}{}{Mercante}
+{1032}{}{Harris}
+{1033}{}{Death}
+{1034}{}{Deathclaw}
+{1035}{}{Vecchia}
+{1036}{}{Oldtown}
+{1037}{}{Figli}
+{1038}{}{Tutto}
+
+{1100}{DECK_49}{Non hai alcun bisogno di sapere altro su di me.}
+{1101}{DECK_50}{Molte persone non pronunciano a cuor leggero il nome della mia organizzazione. Noi controlliamo l'Hub.}
+{1102}{DECK_51}{Mia madre, la donna migliore che abbia mai conosciuto, mi ha dato l'idea per questo: il miglior locale pubblico dell'intero Hub.}
+{1103}{DECK_52}{Rubano ai mercanti e danno ai poveri, o qualche sciocchezza simile. Li trovo assolutamente insignificanti. Harold, il vecchio mutante, forse sapra' dirti di piu'.}
+{1104}{DECK_53}{E' il capo della polizia. Una persona a posto, se ti piacciono i tipi onesti e tutti d'un pezzo. Ma non assomiglia a suo padre; quello si' che era un uomo leale.}
+{1105}{DECK_54}{Harold vive qui da un bel pezzo. Lo trovi nella Citta' Vecchia. Una buona fonte per certi tipi di informazioni.}
+{1106}{DECK_55}{Hanno il totale controllo sull'acqua. Va' all'estremita' sud della Piazza dei Mercanti: li troverai la'.}
+{1107}{DECK_56}{E' il capo dei Mercanti d'Acqua.}
+{1108}{DECK_57}{Gestivano l'ospedale prima che i Figli della Cattedrale prendessero il loro posto. Adesso se ne stanno buoni buoni nel loro magazzino - molto strano. Li puoi trovare nell'estremita' nordovest della Piazza dei Mercanti.}
+{1109}{DECK_58}{E' il capo delle Carovane Scarlatte.}
+{1110}{DECK_59}{Sono l'ultimo gruppo di mercanti... letteralmente. Il loro giro d'affari e' limitato. Li trovi nell'angolo nordest della Piazza dei Mercanti.}
+{1111}{DECK_60}{Divertente. Si considera il capo dei Mercanti FarGo. In realta', e' solo una figura di facciata. Sa bene che non deve interferire con i miei affari.}
+{1112}{DECK_61}{Gestisce l'Armeria.}
+{1113}{DECK_62}{Qualcosa sta facendo sparire le carovane dei Mercanti FarGo. Vorrei conoscere la causa, dato che danneggia una parte dei miei affari.}
+{1114}{Deck_63}{Sta nel centro esatto della citta'.}
+{1115}{DECK_64}{Miti e leggende. Il Deathclaw dovrebbe essere un fantasma o qualcosa del genere.}
+{1116}{DECK_65}{La Citta' Vecchia occupa tutta la parte est. Gli sbandati vivono li'.}
+{1117}{DECK_66}{La maggior parte dei mercanti vive la'. Basta che vai ad ovest di qui.}
+{1118}{DECK_67}{Un'organizzazione fastidiosa. Presto avranno bisogno di una dimostrazione di cosa significhi il potere.}
+{1119}{DECK_68}{Morpheus e' il capo dei Figli della Cattedrale. Risiede giu' nel Boneyard.}
+{1120}{DECK_69}{E' l'attuale guida dei Figli della Cattedrale qui all'Hub. Ho ragione di credere che il suo posto sara' presto vacante.}
+{1121}{DECK_70}{Una delle invenzioni della Cattedrale. Dovrebbe essere una divinita' minore, o qualcosa del genere.}
+{1122}{DECK_71}{Un piccolo negozio che vende... buone armi. Sta vicino ai Mercanti FarGo.}
+{1123}{DECK_72}{Esci dalla porta e va' verso nord. Non puoi mancarlo.}
+{1124}{DECK_51}{Mia madre, la donna migliore che abbia mai conosciuto, mi ha dato l'idea per questo: il miglior locale pubblico dell'intero Hub.}
+{1125}{DECK_51}{Mia madre, la donna migliore che abbia mai conosciuto, mi ha dato l'idea per questo: il miglior locale pubblico dell'intero Hub.}
+{1126}{DECK_53}{E' il capo della polizia. Una persona a posto, se ti piacciono i tipi onesti e tutti d'un pezzo. Ma non assomiglia a suo padre; quello si' che era un uomo leale.}
+{1127}{DECK_56}{E' il capo dei Mercanti d'Acqua.}
+{1128}{DECK_62}{Qualcosa sta facendo sparire le carovane dei Mercanti FarGo. Vorrei conoscere la causa, dato che danneggia una parte dei miei affari.}
+{1129}{DECK_58}{E' il capo delle Carovane Scarlatte.}
+{1130}{DECK_59}{Sono l'ultimo gruppo di mercanti... letteralmente. Il loro giro d'affari e' limitato. Li trovi nell'angolo nordest della Piazza dei Mercanti.}
+{1131}{DECK_59}{Sono l'ultimo gruppo di mercanti... letteralmente. Il loro giro d'affari e' limitato. Li trovi nell'angolo nordest della Piazza dei Mercanti.}
+{1132}{DECK_60}{Divertente. Si considera il capo dei Mercanti FarGo. In realta', e' solo una figura di facciata. Sa bene che non deve interferire con i miei affari.}
+{1133}{DECK_64}{Miti e leggende. Il Deathclaw dovrebbe essere un fantasma o qualcosa del genere.}
+{1134}{DECK_64}{Miti e leggende. Il Deathclaw dovrebbe essere un fantasma o qualcosa del genere.}
+{1135}{DECK_65}{La Citta' Vecchia occupa tutta la parte est. Gli sbandati vivono li'.}
+{1136}{DECK_65}{La Citta' Vecchia occupa tutta la parte est. Gli sbandati vivono li'.}
+{1137}{DECK_67}{Un'organizzazione fastidiosa. Presto avranno bisogno di una dimostrazione di cosa significhi il potere.}
+{1138}{DECK_72}{Esci dalla porta e va' verso nord. Non puoi mancarlo.}

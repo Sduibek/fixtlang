@@ -1,0 +1,162 @@
+{100}{}{Vedi Lorenzo.}
+{101}{}{Signore, questo e' un negozio rispettabile. Non facciamo affari con i tipi come voi. Andatevene.}
+{102}{}{Signora, questo e' un negozio rispettabile. Non facciamo affari con i tipi come voi. Andatevene.}
+{103}{}{Siete in ritardo per il pagamento del vostro debito. Siete pregato di pagarlo subito, o mi infuriero'. E io odio infuriarmi.}
+{104}{}{Vedi di non minacciarmi, amico. Non sei il solo ad avere degli amici.}
+{105}{}{Ho bisogno di piu' tempo. Ti prego!}
+{106}{}{Vorrei saldare il mio debito di }
+{107}{}{ testoni.}
+{108}{}{Non ho soldi con me.}
+{109}{}{Salve. Siete qui per saldare il vostro debito?}
+{110}{}{Veramente speravo che tu potessi darmi qualche informazione...}
+{111}{}{Vorrei un altro prestito.}
+{112}{}{Magari piu' tardi.}
+{113}{}{Runk?}
+{114}{}{Ti avevo avvertito di non farti piu' rivedere. Okay boys, sapete cosa fare!}
+{115}{}{Ohibo', ecco un potenziale cliente. Io sono Lorenzo il Munifico, al vostro servizio. La mia umile professione e' quella di prestar soldi ai bisognosi. L'interesse giornaliero e' pari ad un misero dieci per cento, e avrete ben dieci giorni per saldare il debito. Qui nell'Hub non troverete un'agenzia di prestiti piu' generosa della nostra!}
+{116}{}{Vorrei un prestito.}
+{117}{}{Credo invece che tu sia un artista dello strozzinaggio!}
+{118}{}{Beh, credo di si'. Che cosa vi serve sapere?}
+{119}{}{Cosa mi sai dire delle carovane scomparse?}
+{120}{}{Parlami di Decker.}
+{121}{}{Cosa mi sai dire della polizia cittadina?}
+{122}{}{Sai qualcosa a proposito dei Figli della Cattedrale?}
+{123}{}{Parlami di te.}
+{124}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{125}{}{Mi dispiace, ma non do ascolto alle voci. Non chiedetemi altro.}
+{126}{}{Ti ho detto che non do ascolto alle voci. Se credi che stessi parlando a vanvera, ti sbagli di grosso. Adesso vattene e non farti piu' rivedere, stronzo.} //I warned you I don't do rumors. If you think I was just blowing smoke, you're wrong. Get out of here and don't come back, punk
+{127}{}{Mi dispiace, ma non concedo piu' di un prestito alla volta. Se volete altri soldi, dovrete estinguere il debito precedente. Siamo una societa' d'affari, non un istituto di carita'.}
+{128}{}{Bene. E' un piacere fare affari con voi. Serve altro?}
+{129}{}{Idiota! Non hai abbastanza soldi! Ma forse stavi pensando a qualcos'altro...}
+{130}{}{Veramente speravo che tu potessi darmi qualche informazione...}
+{131}{}{Vorrei un altro prestito.}
+{132}{}{Magari un'altra volta.}
+{133}{}{Certo! Tornate pure quando volete. Siamo sempre felici di fornire i nostri servizi a chi ne ha bisogno.}
+{134}{}{Perche' non smammi e vai a fare "runk" da qualche altra parte?. Fuori di qui! E non farti piu' rivedere.}
+{135}{}{Ehi, niente minacce! Siamo tra persone civili, qui. Guido, Leone... perche' non mostrate a questo signore quanto civili possiamo essere?}
+{136}{}{Ehi, niente minacce! Siamo tra persone civili, qui. Guido, Leone... perche' non mostrate a questa signora quanto civili possiamo essere?}
+{137}{}{Il tempo e' scaduto, amico. Guido, Leone... Che ne direste di farmi divertire un po'?}
+{138}{}{Sei fortunato, amico.}
+{139}{}{Veramente speravo che tu potessi darmi qualche informazione...}
+{140}{}{Vorrei un altro prestito.}
+{141}{}{Magari un'altra volta.}
+{142}{}{Non hai abbastanza soldi! Come hai potuto cercare di ingannarmi?! Guido, Leone andate a seppellire questo stronzo.}
+{143}{}{Bene. Al momento non avete debiti da saldare. I nostri prestiti partono da un minimo di 200 testoni, fino ad un massimo di 1000, scalando di 200 testoni. Ricordate, comunque, che non potro' prestarvi la cifra massima finche' non avrete dimostrato di poter pagare i prestiti minori.}
+{144}{}{Vorrei }
+{145}{}{1000}
+{146}{}{800}
+{147}{}{600}
+{148}{}{400}
+{149}{}{200}
+{150}{}{ testoni.}
+{151}{}{Ci ho ripensato. Niente prestiti per oggi.}
+{152}{}{Guido, Leone... perche' non date una lezione di buone maniere al nostro cliente?} //why don't you show him what ripping off really means. Start with his arms.
+{153}{}{Spiacente, amico, ma gli idioti rappresentano un rischio finanziario troppo grosso. Smamma.}
+{154}{}{Deathclaw. Dev'essere tutta colpa del Deathclaw. Nessuno e' al sicuro!}
+{155}{}{Cosa mi sai dire del Deathclaw?}
+{156}{}{Parlami di Decker.}
+{157}{}{Cosa mi sai dire della polizia cittadina?}
+{158}{}{Cosa mi dici dei Figli della Cattedrale?}
+{159}{}{Parlami di te.}
+{160}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{161}{}{E' una persona davvero a modo. E' un'ottima fonte di lavoro per chi deve saldare un debito con me. Ditegli che vi mando io: potreste persino ottenere un bonus!}
+{162}{}{Cosa mi puoi dire delle carovane scomparse?}
+{163}{}{Bonus? Cosa intendi dire?}
+{164}{}{Cosa mi sai dire della polizia cittadina?}
+{165}{}{Cosa mi dici dei Figli della Cattedrale?}
+{166}{}{Parlami di te.}
+{167}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{168}{}{Sono delle persone magnifiche! E' vero: talvolta ci sono delle piccole incomprensioni, ma immagino sia normale per persone di quella specie... [sottovoce] ...qualunque essa sia...}
+{169}{}{Cosa mi puoi dire delle carovane scomparse?}
+{170}{}{Parlami di Decker.}
+{171}{}{Incomprensioni? Ad esempio?}
+{172}{}{Cosa mi dici dei Figli della Cattedrale?}
+{173}{}{Parlami di te.}
+{174}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{175}{}{Devo confessare che non mi stanno molto a genio. Sono il titolare di un'agenzia onesta e rispettabile, e loro mi accusano di essere un ladro! Hanno una bella faccia tosta. Credono che un voto di poverta' dia loro il diritto di giudicarmi!}
+{176}{}{Cosa mi puoi dire delle carovane scomparse?}
+{177}{}{Parlami di Decker.}
+{178}{}{Cosa mi sai dire della polizia cittadina?}
+{179}{}{Voto di poverta'?}
+{180}{}{Parlami di te.}
+{181}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{182}{}{Sono soltanto un rispettabile uomo d'affari, ecco tutto. Noi della famiglia Giovanni siamo rispettabili uomini d'affari sin da prima dell'olocausto - questa si' che e' tradizione!}
+{183}{}{Cosa mi puoi dire delle carovane scomparse?}
+{184}{}{Parlami di Decker.}
+{185}{}{Cosa mi sai dire della polizia cittadina?}
+{186}{}{Cosa mi dici dei Figli della Cattedrale?}
+{187}{}{Qual e' la tua idea di "rispettabile"?}
+{188}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{189}{}{Potreste provare a rivolgervi a mr. Decker. Lavori entusiasmanti e ottime paghe! Il meglio che c'e' in citta'! E si trova proprio qui di fronte! Non troverete niente di piu' adatto alle vostre esigenze lavorative!}
+{190}{}{Cosa mi puoi dire delle carovane scomparse?}
+{191}{}{Parlami di Decker.}
+{192}{}{Cosa mi sai dire della polizia cittadina?}
+{193}{}{Cosa mi dici dei Figli della Cattedrale?}
+{194}{}{Parlami di te.}
+{195}{}{Entusiasmanti?}
+{196}{}{Scordatelo. Non ho alcuna intenzione di rischiare dei soldi con te. Sparisci dalla mia vista e non farti rivedere.}
+{197}{}{Bene. Mille testoni. Avete 10 giorni per saldare il debito.}
+{198}{}{Bene. Ottocento testoni. Avete 10 giorni per saldare il debito.}
+{199}{}{Bene. Seicento testoni. Avete 10 giorni per saldare il debito.}
+{200}{}{Bene. Quattrocento testoni. Avete 10 giorni per saldare il debito.}
+{201}{}{Bene. Duecento testoni. Avete 10 giorni per saldare il debito.}
+{202}{}{E' un vero peccato. Ricordate comunque che saremo sempre a vostra disposizione.}
+{203}{}{Per diana, alcune delle storie che raccontano su quel coso sono... beh... sono davvero "qualcosa"!}
+{204}{}{Parlami di Decker.}
+{205}{}{Cosa mi sai dire della polizia cittadina?}
+{206}{}{Cosa mi dici dei Figli della Cattedrale?}
+{207}{}{Parlami di te.}
+{208}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{209}{}{Beh, arrivederci!}
+{210}{}{Beh, forse un bonus no. Ma e' un'ottima persona... potete credermi!}
+{211}{}{Cosa mi puoi dire delle carovane scomparse?}
+{212}{}{Cosa mi sai dire della polizia cittadina?}
+{213}{}{Cosa mi dici dei Figli della Cattedrale?}
+{214}{}{Parlami di te.}
+{215}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{216}{}{Beh, arrivederci!}
+{217}{}{Ci credereste? Qualcuno mi ha accusato di estorsione! Per fortuna, il mio buon amico Decker ha risolto la faccenda!}
+{218}{}{Cosa mi puoi dire delle carovane scomparse?}
+{219}{}{Parlami di Decker.}
+{220}{}{Cosa mi dici dei Figli della Cattedrale?}
+{221}{}{Parlami di te.}
+{222}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{223}{}{Beh, arrivederci!}
+{224}{}{Scommetto che il loro capo, questo Morpheus, non e' al verde! Nossignore! Scommetto che se ne sta bel bello nel Boneyard e se la spassa alla grande!}
+{225}{}{Cosa mi puoi dire delle carovane scomparse?}
+{226}{}{Parlami di Decker.}
+{227}{}{Cosa mi sai dire della polizia cittadina?}
+{228}{}{Parlami di te.}
+{229}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{230}{}{Beh, arrivederci!}
+{231}{}{Chi non ci mostra rispetto, poi se ne pente. Un uomo non potrebbe essere piu' rispettabile di cosi'.}
+{232}{}{Cosa mi puoi dire delle carovane scomparse?}
+{233}{}{Parlami di Decker.}
+{234}{}{Cosa mi sai dire della polizia cittadina?}
+{235}{}{Cosa mi dici dei Figli della Cattedrale?}
+{236}{}{Dove si puo' trovare un lavoro, da queste parti?}
+{237}{}{Beh, arrivederci!}
+{238}{}{Avventura, pericolo. Potrebbe persino capitare di dover uccidere qualcuno!}
+{239}{}{Cosa mi puoi dire delle carovane scomparse?}
+{240}{}{Parlami di Decker.}
+{241}{}{Cosa mi sai dire della polizia cittadina?}
+{242}{}{Cosa mi dici dei Figli della Cattedrale?}
+{243}{}{Parlami di te.}
+{244}{}{Beh, arrivederci!}
+{245}{}{Ci si vede, amico!}
+{246}{}{Ehi, ehi, ehi... togli le mani da quella porta, stronzo!}
+{247}{}{Adesso basta, stronzo! Questa me la paghi!}
+{248}{}{Spiacente, ma non ho proprio tempo da perdere con queste coste. Se non puoi pagarmi la cifra intera, dammi tutti i soldi che hai e il nostro rapporto d'affari puo' considerarsi definitivamente concluso.}
+{249}{}{Beh, OK. Puoi prendere tutti i miei soldi.}
+{250}{}{Oh! Adesso ricordo! Ho proprio i soldi che mi servono per pagare l'intera cifra!}
+{251}{}{[Prova ad ingannare Lorenzo consegnandogli solo }
+{252}{}{ testoni]}
+{253}{}{Puoi scordartelo! Da me non avrai nemmeno un singolo tappo.}
+{254}{}{[Consegni a Lorenzo tutto il tuo denaro]}
+{255}{}{[Consegni a Lorenzo }
+{256}{}{ testoni]}
+{257}{}{Che sacco pieno di merda! Stavi cercando di ingannarmi! Adesso quei soldi te li faro' sputare a suon di calci!}
+{258}{}{Che peccato. Forse sbattendoti un po' riusciremo a far uscire qualche moneta... Guido! Leone!}
+{259}{}{D'accordo. Immagino che dovro' accontentarmi. Capisci bene che non potro' piu' fare affari con te. Ma bada: se ti rivedo da queste parti saro' costretto a farti pagare una penale ben piu' salata.}
+{260}{}{Mi fai venire il voltastomaco. Dammi i soldi e sparisci! E non azzardarti a farti rivedere qui dentro!}
+{261}{}{Non hai abbastanza soldi!}

@@ -1,0 +1,37 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{100}{}{Vedi una dele guardie di Hightower.}
+{101}{}{Faresti meglio ad andartene. Daren Hightower non riceve visite.}
+{102}{}{La tua presenza non e' gradita.}
+{103}{}{Vattene!}
+{104}{}{Non hai il permesso di stare qui.}
+{105}{}{Vattene, o te ne pentirai.}
+{106}{}{I tipi come te non sono ammessi qui dentro.}
+# "You are not permitted to enter the house."
+
+{107}{}{Che ca… Prendetelo!}
+{108}{}{Hai fatto un madornale errore, entrando qui dentro!}
+{109}{}{Che cosa ci fai qui? Prega il tuo dio, prima di morire.}
+# "You're dead meat" == "i'm going to kill you"
+
+{110}{}{Mmmm, che acquolina.}
+# refering to food
+
+{111}{}{E' odor di brahmin quello che sento?}
+# Brahmin is an animal akin to a 2 headed cow. consider Male
+
+{112}{}{Attaccatemelo alle vene!}
+# referring to getting more alcohol
+
+{113}{}{C'e' niente in frigo?}
+# fridge == refridgerator
+
+{114}{}{Quanto manca?}
+# referring to dinner
+
+{115}{}{Ho fame.}
+{116}{}{E' pronto, o no?}
+# referring to dinner.
+
+{117}{}{Se non mangio svengo!}

@@ -1,0 +1,163 @@
+{100}{}{Vedi Harry, il Super Mutante.}
+{101}{Harry_0}{Ehi! Tu no sembrare ghoul. Come essere?}
+{102}{}{E' solo perche' mi sono messo un vestito "tirato".} //snazzy
+{103}{}{Ma io sono un ghoul!}
+{104}{}{Fammi indovinare... forse perche' non sono un ghoul?}
+{105}{}{Uh?}
+{106}{Harry_0a}{Huh?}
+{107}{Harry_0a}{Huh?}
+{108}{Harry_0b}{Whuh?}
+{109}{}{Mammina?}
+{110}{Harry_01}{Oooo...Allora questo essere "tirato", eh?}
+{111}{}{Nah, ti stavo prendendo in giro. Io non sono un ghoul.}
+{112}{}{Che cosa ci fai qui?}
+{113}{Harry_02}{Tu no ghoul!? Me sapeva, me sapeva! Tu no imbrogliato Harry!}
+{114}{}{Giaaa', mi pare chiaro.}
+{115}{}{Hai ragione. E adesso che lo sai, sono costretto ad ucciderti.}
+{116}{Harry_03}{Tu no ghoul. Ordini dire che no-ghoul no potere stare qui.}
+{117}{}{Chi ti da' gli ordini?}
+{118}{}{Ok, grazie. Allora me ne vado.}
+{119}{Harry_04}{Teo detto me di fare guardia. No fare entrare nessuno. Soprattutto no umani. Portare umani a Teo. Ehi...}
+{120}{}{Ma io non sono un umano!}
+{121}{}{OK, andiamo da Teo.}
+{122}{}{"Vai al diavolo" ti basta come risposta?} //Frag it
+{123}{Harry_05}{Oh ho-ho, tu lo scoprire prestooo.}
+{124}{Harry_06}{Oh, uh, OK. Buona... giornata.}
+{125}{Harry_07}{Harry pensa che adesso me schiaccia tua testa.}
+{126}{Harry_08}{Ooo... Harry confuso. Tu no ghoul. Tu no umano. Hmm, cosa essere tu? [Borbotta]}
+{127}{}{Sono un nuovo tipo di super mutante.}
+{128}{}{Sono un robot avanzatissimo.}
+{129}{}{D'accordo... sono un umano.}
+{130}{Harry_09}{No! Harry sa che no essere. No piace te!}
+{131}{Harry_10}{Oh, ok. Harry pensa a cosa fare.}
+{132}{Harry_11}{No piace te. Fare male te. Molto.}
+{133}{Harry_12}{Uh, ciao, bella signora. Tu essere molto carina.}
+{134}{}{Sei occupato? Sto proprio cercando un uomo grande e forte.}
+{135}{}{Avvicinati un poco. Ho qualcosa per te.}
+{136}{Harry_13}{Harry deve fare guardia qui. Deve rimanere qui.}
+{137}{}{Ahh, capisco. Divertiti, allora.}
+{138}{}{E' un vero peccato.}
+{139}{Harry_14}{Ehi, tu essere una umana! Me deve portare te da Teo. Ora!}
+{140}{}{Non farlo, ti prego. Lasciami andare.}
+{141}{}{Ah, al diavolo! Guarda di quali astuzie e' capace una donna, mutante...!}
+{142}{Harry_15}{Ohhh... Tu andare via subito o Harry essere in guai.}
+{143}{Harry_16}{OK. Adesso andare via. Me deve tenere occhi aperti per umani. No avere tempo per te.}
+{144}{Harry_17}{Cosa avere tu per me?}
+{145}{}{Un colpetto, solo per te...}
+{146}{}{Un bacetto, solo per te.}
+{147}{Harry_18}{Tu fatto male a amici di Harry! Me fa...male... a te!}
+{148}{Harry_19}{Ohhh... Tu ancora? Cosa volere adesso?}
+{149}{}{Voglio che mi porti dai tuoi superiori.}
+{150}{}{Niente, sono solo di passaggio.}
+{151}{}{Sono tornato per spaccarti il culo.}
+{152}{Harry_20}{Um...OK. Andare via, allora.}
+{153}{Harry_21}{Ehi, tu essere uno umano! Tu venire con Harry!}
+{154}{Harry_22}{Hmm...OK. Me porta te da Teo.}
+{155}{Harry_23}{Ummm...si'. Tu umano puro. Teo sara' felice. Portare, portare.}
+{156}{}{Aspetta un attimo! Non hai capito.}
+{157}{}{Ti uccidero' con le mie mani.}
+{158}{Harry_24}{No servire. Harry segue ordini. Me porta te da Teo.}
+{159}{Harry_25}{Harry no crede possibile, ma tu potere provare. Forza, ragazzi.}
+{160}{Harry_26}{Ehi, Harry sentito parlare di te. Tu rotto Vasche!}
+{161}{}{Si', esatto. E ora rompero' il muso a te.}
+{162}{}{Gia', proprio cosi'. E adesso cosa intendi fare?}
+{163}{}{Uh-huh.}
+{164}{Harry_27}{Uhh, me lascia te andare. OK? Tu no fare vedere piu' qui? Per favore?}
+{165}{}{Non ci siamo.}
+{166}{}{Addio. Non credo che ci rivedremo.}
+{167}{}{Uhh.}
+{168}{Harry200}{Me no deve dire te nulla!}
+{169}{Harry201}{Tu ucciso Larry!}
+{170}{Harry202}{Tu ucciso Gary!}
+{171}{Harry203}{Tu ucciso mio fratello, Barry!}
+{172}{Harry204}{Tu ucciso Terry!}
+{173}{Harry205}{Tu ucciso Sally! Aveva brutto nome. Ma no motivo per uccidere lui!}
+{174}{Harry26}{No disturbare me. Lasciare me in pace!}
+{175}{Harry207}{Uhhh...me no sa.}
+{176}{Harry300}{Me no sa, ma crede che lui essere tipo un capo.}
+{177}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{178}{Harry302}{Set essere femminuccia. Lui credere essere capo, ma noi essere.}
+{179}{Harry303}{Cosa?}
+{180}{Harry304}{Hmph! Pappemolli.}
+{181}{Harry305}{Deboli. Me no sa perche' Teo volere umani. Umani fare schifo!}
+{182}{Harry306}{Qui, scemo. [Sigh] Tu stupido?}
+{183}{Harry307}{La U' U' U' Un... me no sa.}
+{184}{Harry308}{Buono per piccoli. Harry ferito, una volta, e loro fatto stare meglio. Rifatto perfetto!}
+{185}{}{HARRY COMBATTE ORA}
+{186}{}{HARRY COMBATTE ORA}
+{187}{}{HARRY COMBATTE ORA}
+{188}{}{HARRY COMBATTE ORA}
+{189}{}{HARRY ASPETTA 30 SECONDI}
+{190}{}{HARRY VA VIA ORA}
+{191}{}{Non mi porterai da nessuna parte!}
+{192}{}{Ok, portami dal tuo capo.}
+{193}{}{Il mutante ti ignora.}
+
+
+
+#
+# Harry Tell-Me-Abouts
+#
+{970}{Harry_0b}{Whuh?}
+
+{980}{Harry_0a}{Huh?}
+{981}{Harry_0b}{Whuh?}
+{982}{Harry207}{Uhhh...Me no sa.}
+{983}{Harry303}{Cosa?}
+{984}{Harry200}{Me no deve dire te niente!}
+
+{1000}{}{Master}
+{1001}{}{Teo}
+{1002}{}{Set}
+{1003}{}{Acquedotto}
+{1004}{}{Ghoul}
+{1005}{}{Normali}
+{1006}{}{Necropolis}
+{1007}{}{Unita'}
+{1008}{}{Cattedrale}
+{1009}{}{Chip}
+{1010}{}{Sala}
+{1011}{}{Water}
+{1012}{}{Umani}
+{1013}{}{Umano}
+{1014}{}{Normale}
+{1015}{}{Figlio}
+{1016}{}{Figli}
+{1017}{}{Acquedotto}
+{1018}{}{Tenente}
+{1019}{}{Tenette}
+{1020}{}{Ton}
+{1021}{}{Teo Nente}
+{1022}{}{Larry}
+{1023}{}{Barry}
+{1024}{}{Gary}
+{1025}{}{Terry}
+{1026}{}{Sally}
+
+{1100}{Harry300}{Me no sa, ma crede che lui essere tipo un capo.}
+{1101}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{1102}{Harry302}{Set essere femminuccia. Lui credere essere capo, ma noi essere.}
+{1103}{Harry306}{Qui, scemo. Hmpf. Tu stupido?}
+{1104}{Harry304}{Hmpf! Pappemolli.}
+{1105}{Harry305}{Deboli. Me no sa perche' Teo volere umani. Umani fare schifo!}
+{1106}{Harry306}{Qui, scemo. Hmpf. Tu stupido?}
+{1107}{Harry307}{La U-U-U-Un... me no sa.}
+{1108}{Harry308}{Buono per piccoli. Harry ferito, una volta, e loro fatto stare meglio. Rifatto perfetto!}
+{1109}{Harry303}{Cosa?}
+{1110}{Harry207}{Uhhh...Me no sa.}
+{1111}{Harry207}{Uhhh...Me no sa.}
+{1112}{Harry305}{Deboli. Me no sa perche' Teo volere umani. Umani fare schifo!}
+{1113}{Harry305}{Deboli. Me no sa perche' Teo volere umani. Umani fare schifo!}
+{1114}{Harry305}{Deboli. Me no sa perche' Teo volere umani. Umani fare schifo!}
+{1115}{Harry308}{Buono per piccoli. Harry ferito, una volta, e loro fatto stare meglio. Rifatto perfetto!}
+{1116}{Harry308}{Buono per piccoli. Harry ferito, una volta, e loro fatto stare meglio. Rifatto perfetto!}
+{1117}{Harry306}{Qui, scemo. Hmpf. Tu stupido?}
+{1118}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{1119}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{1120}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{1121}{Harry301}{Teo Nente. Lui mio capo. No dire lui, ma Harry puo' prendere suo posto, prima o poi.}
+{1122}{Harry200}{Me no dovere dire te niente!}
+{1123}{Harry200}{Me no dovere dire te niente!}
+{1124}{Harry200}{Me no dovere dire te niente!}
+{1125}{Harry200}{Me no dovere dire te niente!}
+{1126}{Harry200}{Me no dovere dire te niente!}

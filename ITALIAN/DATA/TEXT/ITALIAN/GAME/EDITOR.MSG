@@ -1,0 +1,273 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+#
+{100}{}{OK}
+{101}{}{OPZIONI}
+{102}{}{CANC.}
+{103}{}{STAMPA}
+{104}{}{ETA'}
+{105}{}{SESSO}
+{106}{}{NOME}
+{107}{}{MASCHIO}
+{108}{}{FEMMINA}
+{109}{}{STRENNE}
+{110}{}{KARMA}
+{111}{}{MORTI}
+{112}{}{PUNTI ABILITA'}
+{113}{}{Livello:}
+{114}{}{Esp:}
+{115}{}{Pros. Liv.:}
+{116}{}{ P. PERSON.}
+{117}{}{ABILITA'}
+{118}{}{Devi usare tutti i punti personaggio} # 1
+{119}{}{prima di inziare il gioco!}           # 2
+#
+{120}{}{Punti personaggio}
+{121}{}{L'ammontare di punti personaggio gratuiti che possono essere aggiunti a una delle caratteristiche di base.}
+{122}{}{Prossimo Livello}
+{123}{}{L'ammontare di punti esperienza necessari per arrivare al prossimo livello.}
+{124}{}{Strenne}
+{125}{}{Karma}
+{126}{}{Uccisioni}
+{127}{}{Le Strenne aggiungono abilita' addizionali. Ogni tre livelli di esperienza puoi scegliere una Strenna.}
+{128}{}{Questi sono gli effetti delle scelte da te effettuate durante il gioco.}
+{129}{}{Un contatore che tiene conto del tipo e del numero delle creature da te massacrate, o che sono state uccise in tua presenza.}
+{130}{}{Punti Abilita'}
+{131}{}{Usa i Punti Abilita' per aumentare il livello di una abilita'.}
+#
+{132}{}{Livello massimo.}        # 1
+{133}{}{Non puoi aumentarlo.}  # 2
+{134}{}{Livello minimo.}        # 1
+{135}{}{Non puoi diminuirlo.}  # 2
+{136}{}{Punti abilita' insufficienti.}
+{137}{}{Base:}
+{138}{}{"SCELTE"}
+{139}{}{TRATTI OPZIONALI}
+{140}{}{Hai gia' un massimo di} # 1
+{141}{}{tre "Scelte"!}               # 2
+{142}{}{Devi selezionare tutte le "Scelte"}  # 1
+{143}{}{prima di cominciare il gioco!}       # 2
+{144}{}{"Scelte"}
+{145}{}{Le "Scelte" sono abilita' nelle quali il tuo personaggio si specializza. Ogni abilita' "Scelta" prende un bonus +20% e aumenta al doppio della velocita'. Devi selezionare tre "Scelte".}
+{146}{}{Tratti Opzionali}
+{147}{}{I tratti opzionali descrivono piu' in dettaglio il tuo personaggio. Tutti i tratti hanno effetti positivi ed effetti negativi. Puoi scegliere al massimo due tratti durante la fase di creazione del personaggio.}
+{148}{}{Hai gia' un massimo di} # 1
+{149}{}{due tratti opzionali!}                     # 2
+{150}{}{Abilita'}
+{151}{}{L'insieme delle conoscenze acquisite. Le abilita' migliorano con l'esperienza o per effetti speciali durante il gioco. Maggiore la percenutale, migliore la tua padronanza di quella abilita'.}
+#
+{152}{}{SCEGLI UNA STRENNA}
+{153}{}{SCEGLI UN NUOVO TRATTO}
+{154}{}{PERDI UN TRATTO}
+{155}{}{SCEGLI UNA NUOVA "SCELTA"}
+{156}{}{TRATTI}
+#
+{157}{}{Tutte le caratteristiche devono essere}   # 1
+{158}{}{comprese tra 1 e 10 prima di cominciare!} # 2
+
+
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Pessim}  # Terrible
+{201}{}{Scarso}    # Bad
+{202}{}{Medcre}   # Poor
+{203}{}{Discrt}   # Fair
+{204}{}{Medio}   # Average
+{205}{}{Buono}   # Good
+{206}{}{M.Buon} # Very Good
+{207}{}{Ottimo}  # Great
+{208}{}{Ecclnt} # Excellent
+{209}{}{Eroico} # Heroic
+
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{Punti Vita}
+{301}{}{Punti Azione}
+{302}{}{Classe Armat.}
+{303}{}{Danno C-a-C}
+{304}{}{Danno Mischia}
+{305}{}{Res. al Danno }
+{306}{}{Res. al Veleno}
+{307}{}{Res. a Radiaz.}
+{308}{}{Sequenza}
+{309}{}{Tasso di guar.}
+{310}{}{% Col. Critici}
+{311}{}{Peso Trasport.}
+{312}{}{Avvelenato}
+{313}{}{Irradiato}
+{314}{}{Danno agli Occhi}
+{315}{}{Braccio dx ferito}
+{316}{}{Braccio sx ferito}
+{317}{}{Gamba dx ferita}
+{318}{}{Gamba sx ferita}
+
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{Il tuo personaggio e' stato avvelenato. Il veleno agira' per un certo periodo di tempo, finche' non viene curato o eliminato dal tuo metabolismo.}
+# Radiation
+{401}{}{Il tuo personaggio sta subendo gli effetti di un grave avvelenamento da radiazioni. Un'elevata radioattivita' all'interno dell'organismo puo' risultare fatale.}
+# Eye Damage
+{402}{}{Il tuo personaggio e' stato colpito duramente a uno o ad entrambi gli occhi. Questo influisce sulla Percezione.}
+# Crippled right arm
+{403}{}{Il braccio destro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+# Crippled left arm
+{404}{}{Il braccio sinistro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+# Crippled right leg
+{405}{}{Il tuo personaggio ha una brutta ferita alla gamba destra.}
+# Crippled left leg
+{406}{}{Il tuo personaggio ha una brutta ferita alla gamba sinistra.}
+
+# Month strings
+{500}{}{Gennaio}
+{501}{}{Febbraio}
+{502}{}{Marzo}
+{503}{}{Aprile}
+{504}{}{Maggio}
+{505}{}{Giugno}
+{506}{}{Luglio}
+{507}{}{Agosto}
+{508}{}{Settembre}
+{509}{}{Ottobre}
+{510}{}{Novembre}
+{511}{}{Dicembre}
+
+#
+# Option menu text
+#
+{600}{}{SALVA}
+{601}{}{CARICA}
+{602}{}{STAMPA SU FILE}
+{603}{}{CANC.}
+{604}{}{OK}
+{605}{}{Sei sicuro di voler cancellare}      # line 1
+{606}{}{questo personaggio?}              # line 2
+{607}{}{ e' stato salvato con successo.}
+{608}{}{ e' stato caricato con successo.}
+{609}{}{esiste gia'.}
+{610}{}{Vuoi sovrascrivere?}
+{611}{}{Errore di salvataggio: }
+{612}{}{Errore di caricamento: }
+{613}{}{File del personaggio non valido.}
+{614}{}{Dati del personaggio non validi.}
+{615}{}{Errore nella lettura della lista dei file!}
+{616}{}{STAMPA}
+{617}{}{GIOCATORE}
+{618}{}{BLANK.GCD}
+
+#
+# ASCII text file printing text
+#
+{620}{}{FALLOUT}                   # Title line 1
+{621}{}{VAULT-13: REGISTRO DEL PERSONALE} # Title line 2
+{622}{}{Ore} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: Statistics :::}
+{624}{}{       Strength:}
+{625}{}{        Hit Points:}
+{626}{}{        Sequence:}
+# -
+{627}{}{     Perception:}
+{628}{}{       Armor Class:}
+{629}{}{        Healing Rate:}
+# -
+{630}{}{      Endurance:}
+{631}{}{     Action Points:}
+{632}{}{      Critical Chance:}
+# -
+{633}{}{       Charisma:}
+{634}{}{      Melee Damage:}
+{635}{}{         Carry Weight:}
+# -
+{636}{}{   Intelligence:}
+{637}{}{       Damage Res.:}
+# -
+{638}{}{        Agility:}
+{639}{}{    Radiation Res.:}
+# -
+{640}{}{           Luck:}
+{641}{}{       Poison Res.:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Name:}
+{643}{}{Age:}
+{644}{}{               Gender:}
+{645}{}{Male}
+{646}{}{Female}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{ Level:}
+{648}{}{                Exp:}
+{649}{}{Next Level:}
+#-
+{650}{}{ ::: Traits :::           ::: Perks :::           ::: Karma :::}
+#-
+{651}{}{ ::: Skills :::                ::: Kills :::}
+#-
+{652}{}{ ::: Inventory :::}
+#-
+{653}{}{                                      Total Weight:}
+
+#
+# Karma name strings
+#
+{1000}{}{Reputazione (Generale) }
+{1001}{}{Berserker}
+{1002}{}{Eroe}
+{1003}{}{Ammazzabambini}
+{1004}{}{Dipendenza dalla Nuka Cola}
+{1005}{}{Dipendenza da Buffout}
+{1006}{}{Dipendenza da Mentat}
+{1007}{}{Dipendenza da Psycho}
+{1008}{}{Dipendenza da RadAway}
+{1009}{}{Dipendenza dall'Alcol}
+#
+# Karma description strings
+#
+{1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu' alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
+{1101}{}{Hai ucciso un gran numero di persone. Di solito non e' molto positivo diventare famosi per questo. Delinquenti e sbandati, tuttavia, ti rispetteranno di piu'.}
+{1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
+{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio.}
+{1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
+{1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
+{1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure affronterai delle crisi d'astinenza.}
+{1107}{}{Sei tossicodipendente. Se non assumi Psycho con regolarita', starai male. Se l'assumi, a star male saranno gli altri.}
+{1108}{}{Il tuo corpo e' diventato dipendente dal RadAway. Sebbene non sia pericoloso, sei costretto ad assumerlo regolarmente.}
+{1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati da questo brutto vizio.}
+{1110}{}{TEMPORARY - What is this?}
+
+
+#
+# Special Demo version only text
+#
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}   # 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}
+
+
+

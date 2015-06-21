@@ -1,0 +1,45 @@
+
+#
+#	Mountain area random encounter text
+#
+
+{100}{}{Sei stato quasi schiacciato da un masso caduto dal fianco della montagna.}
+{101}{}{Non hai subito danni.}
+{102}{}{Il masso, crollando, porta con se' i resti di un viaggiatore morto da tempo.}
+{103}{}{La tua gamba ha subito gravi danni.}
+{104}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+{105}{}{Radscorpioni!}
+{106}{}{Pare che un radscorpione particolarmente infido stia cercando di tenderti un agguato.}
+{107}{}{Dal nulla compare un radscorpione, che ti attacca!}
+{108}{}{Ti sei imbattuto in una famiglia di ratti-talpa.}
+{109}{}{Una valanga ha fatto cadere un grosso macigno che ti ha quasi schiacciato.}
+{110}{}{Non hai subito alcun danno.}
+{111}{}{Non hai subito alcun danno. La roccia, crollando, rivela un deposito aurifero.}
+{112}{}{La tua gamba ha subito gravi danni.}
+{113}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+#
+{114}{}{Stai viaggiando per erti crinali e terreni ostili.}
+{115}{}{Fortunatamente, le tue capacita' di scalatore sono all'altezza della situazione.}
+{116}{}{Trovi una grotta con una piccola sorgente e riesci, dopo tanto tempo, a passare una tranquilla notte di sonno.}
+#
+{117}{}{Cadi da una cornice di roccia e finisci su alcune pietre aguzze.}
+{118}{}{Cadi in un precipizio, finendo malamente sul suolo roccioso.}
+{119}{}{Ti imbatti in un grosso gruppo di radscorpioni.}
+{120}{}{Trovi diversi ratti che si aggirano nella zona.}
+{121}{}{In distanza vedi un viaggiatore solitario.}
+{122}{}{Il terreno davanti a te e' ricoperto di rottami e di cadaveri. Si direbbe lo scenario di un'antica battaglia.}
+{123}{}{Una valanga ha fatto cadere un grosso macigno che ti ha quasi schiacciato.}
+{124}{}{Non hai subito alcun danno.}
+{125}{}{Non hai subito alcun danno. La roccia, crollando, rivela un deposito aurifero.}
+{126}{}{La tua gamba ha subito gravi danni.}
+{127}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+{128}{}{Vedi un radscorpione che scorrazza nella zona.}
+{129}{}{Degli enormi ratti-talpa stanno scorrazzando qui attorno.}
+{130}{}{Trovi diversi ratti che si aggirano nella zona.}
+{131}{}{Sei quasi caduto a causa del terreno sconnesso. Potrebbero anche assumere qualche guardia forestale in piu'!}
+{132}{}{Sei caduto a causa del terreno sconnesso, slogandoti un'anca. Che dolore!}
+{133}{}{Sei caduto a causa del terreno sconnesso e ti sei sbucciato le ginocchia.}
+{134}{}{Vedi un gruppetto di ratti che si dirige verso di te.}
+{135}{}{Hai trovato le ossa di un viaggiatore morto da molto tempo.}
+{136}{}{Ti imbatti in un gruppo di radscorpioni.}
+

@@ -1,0 +1,234 @@
+{100}{}{Vedi una giovane donna, smunta, vestita di scuro e con la faccia sporca.}
+{101}{}{Vedi Katja, la ladra.}
+{102}{}{Tu non sei di queste parti. Chi sei?}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted between lines 103 and 104 by the code.
+
+{103}{}{Mi chiamo }
+{104}{}{.}
+{105}{}{Sono un semplice viandante.}
+{106}{}{Potrei chiederti la stessa cosa.}
+{107}{}{E cosa staresti facendo, di grazia, qui nel Boneyard?}
+{108}{}{Fai un sacco di domande.}
+{109}{}{Prima dimmi chi sei.}
+{110}{}{Sono soltanto un esploratore.}
+{111}{}{Sto cercando un water chip di ricambio per il mio Vault.}
+{112}{}{Stando qui fuori si impara ad esser cauti. Allora, cosa ci fai qui?}
+{113}{}{D'accordo, mi sta bene. Mi chiamo Katja. E adesso che lo sai?}
+{114}{}{Perche' sei cosi' ostile?}
+{115}{}{Ehi, se proprio devi essere cosi' sgarbata, sara' meglio che me ne vada.}
+{116}{}{Sto cercando informazioni. Puoi aiutarmi?}
+{117}{}{Potresti... ma sei tu ad essere nel mio territorio, non viceversa. Quindi sputa il rospo o sparisci.}
+{118}{}{Non ha molta importanza, sono un semplice viandante. Ho bisogno di qualche informazione.}
+{119}{}{Un chip per la purificazione dell'acqua? Mi dispiace, ma non saprei proprio aiutarti. Qui nel Boneyard non si vedono molte aggeggi tecnologici, se escludiamo la roba su cui lavora Miles.}
+{120}{}{Beh, grazie lo stesso.}
+{121}{}{Miles? Dove posso trovarlo? Pensi che possa aiutarmi?}
+{122}{}{Che ne diresti di parlarmi un po' del Boneyard, allora?}
+{123}{}{Solo un viandante... Questa l'ho gia' sentita. Nessuno viene nel Boneyard, a parte i mercanti dell'Hub o qualche disperato in cerca di una fine rapida per mano di una delle bande. Perche' sei qui? E vorrei sentire la verita'.}
+{124}{}{Hai ragione. Sto cercando un chip per la purificazione dell'acqua.}
+{125}{}{Non ho l'obbligo di dirti alcunche'.}
+{126}{}{Hai ragione. Ma la cosa vale anche per me.} //?Damn straight. But that's a two-way street
+{127}{}{Forse. Di certo non sei uno di quei macellai che infestano i dintorni. Che cosa vuoi?}
+{128}{}{Sto cercando un chip per la purificazione dell'acqua.}
+{129}{}{Ho bisogno di maggiori informazioni sul Boneyard.}
+{130}{}{Vorrei avere qualche informazione sulla zona qui attorno.}
+{131}{}{Che cosa puoi dirmi dei Blade?}
+{132}{}{Che cosa puoi dirmi dei Ripper?}
+{133}{}{Che cosa puoi dirmi dei Gun Runner?}
+{134}{}{Che cosa puoi dirmi dei Discepoli?}
+{135}{}{Che cosa sai dirmi di Adytum?}
+{136}{}{Beh, e' stata una bella chiacchierata. Devo andare.}
+{137}{}{Miles vive ad Adytum. E' uno scienziato... un chimico, per l'esattezza. Se c'e' qualcuno in possesso di un water chip, da queste parti, non puo' essere che lui.}
+{138}{}{Grazie mille.}
+{139}{}{Adytum e' il buco da cui vengo io. Un po' troppo pallosa per me. E' una citta' recintata e autosufficiente che occupa la zona sud del Boneyard, ma non cosi' a sud come la Cattedrale. A volte ci arrivano dei mercanti provenienti dall'Hub. Non c'e' molto altro da dire. }
+{140}{}{Ho gia' avuto a che fare con loro altre volte. Sono dei tipi abbastanza a posto, per essere una gang. Il loro nascondiglio si trova in un vecchio locale e hanno qualche avamposto. Se fai attenzione, potresti persino essere in grado di parlare con qualcuno di loro. }
+{141}{}{I Ripper non sono altro che delle bestie feroci. Troppe unioni tra consanguinei... Adorano la tortura e l'omicidio. Io me ne sto ben lontana da loro. E anche tu dovresti. Pensa che hanno persino messo delle mine intorno alla loro fottuta fortezza.}
+{142}{}{I Gun Runner erano una vera banda, una volta, ma adesso si sono "ammorbiditi". Qualche tempo fa cominciarono a vendere le armi che prendevano alle loro vittime. Poi, visti i buoni guadagni, hanno iniziato a rivendere le armi che comprano all'Hub. Dato che nessuno qui si puo' permettere di raggiungere l'Hub, fanno un sacco di soldi, nonostante i loro prezzi siano molto alti. }
+{143}{}{I Discepoli dell'Apocalisse sono un gruppo di predicatori di pace che vivono in una grande biblioteca vicino al centro del Boneyard. Mi chiedo come mai nessuno li abbia ancora fatti tutti secchi. Sono dei guerrieri pietosi e vivono in un mondo tutto loro. Si puo' dire pero' che siano gentili e piuttosto acculturati. }
+{144}{}{Il Boneyard e' un posto piuttosto ostile. Non ho mai avuto l'occasione di andarmene, ma se l'avessi la prenderei al volo. Vediamo... poco a sud di qui c'e' la Cattedrale. E' il centro spirituale di un qualche culto, ma io ci giro al largo. C'e' qualcosa di sinistro, laggiu'. Lontano da qui so che esiste un centro di commercio chiamato Hub, e qualche loro carovana arriva persino qui, ogni tanto. Io non ci sono mai stata, pero'. }
+{145}{}{Anch'io non penso di rimanerci a lungo, qui.}
+{146}{}{Grazie delle informazioni.}
+{147}{}{Puoi dirmi qualcosa di piu'?}
+{148}{}{Niente scherzi. Se ti serve un mano, sono con te. Sempre meglio che spendere il resto della mia esistenza in questo posto dimenticato da Dio, no?}
+{149}{}{Sei la benvenuta, ma non e' che il deserto sia un posto tanto migliore.}
+{150}{}{Non preoccuparti. Grazie lo stesso.}
+{151}{}{Posso farti qualche altra domanda?}
+{152}{}{Questa zona e' dominata da tre bande - i Blade, i Ripper e i Gun Runner - ed e' abitata dai Discepoli dell'Apocalisse e dagli abitanti della mia citta', Adytum.}
+{153}{}{Bene, pare proprio che ci tocchera' spaccare qualche culo!}
+{154}{}{Guarda, il 90% delle persone che vivono qui rientrano in una di queste tre categorie: stupratori, assassini o ladri. Io sono una ladra e tu mi sembri piuttosto educato... il che mi spiazza non poco, okay? Chiamalo istinto di sopravvivenza.}
+{155}{}{Scusa se ti ho disturbata, allora. Credo proprio che girero' al largo.}
+{156}{}{Beh, posso farti almeno qualche domanda?}
+{157}{}{Io non sono di queste parti, quindi non credo di rientrare in quella statistica.}
+{158}{}{Okay, ma fa' in fretta.}
+{159}{}{Mh. Il tuo ragionamento fila. E allora che vuoi?}
+{160}{}{Posso farti qualche domanda?}
+{161}{}{Sto cercando un chip per la purificazione dell'acqua. Puoi aiutarmi?}
+{162}{}{Grazie lo stesso, ma adesso devo andare.}
+{163}{}{Cosa c'e'?}
+{164}{}{Puoi farci qualcosa con questa serratura?}
+{165}{}{Puoi dare un'occhiata a questa trappola?}
+{166}{}{Qualche suggerimento?}
+{167}{}{Grazie dell'aiuto. Adesso puoi andare.}
+{168}{}{Ancora nulla. Ma rimani in contatto.}
+{169}{}{Ancora tu? Perche' diavolo sei tornato?}
+{170}{}{Ho fatto un salto solo per salutarti.}
+{171}{}{Avrei qualche altra domanda, se hai un po' di tempo.}
+{172}{}{E' aperta.}
+{173}{}{C'e' qualcosa di strano in quella libreria sul muro ad est. Forse nasconde qualcosa.}
+{174}{}{Metti via le tue armi.}
+{175}{}{Odio i cani.}
+{176}{}{Che buon profumino.}
+{177}{}{Come te la cavi nei combattimenti?}
+{178}{}{Stando nel Boneyard ho imparato a farmi rispettare. Sono brava con i coltelli e con le mitragliette. Ma i miei preferiti sono i coltelli da lancio, naturalmente.}
+{179}{}{D'accordo... anche se non mi sento tranquilla senza un bel coltello in mano.}
+{180}{}{Guadagni 200 punti esperienza per aver reclutato Katja, la Scav del Boneyard.}
+{181}{}{E adesso che vuoi?}
+{182}{}{Ho cambiato idea. Il tuo aiuto mi farebbe comodo.}
+{183}{}{Niente. Come non detto.}
+{184}{}{Sto cominciando davvero ad odiare questo posto.}
+{185}{}{Wow. Vorrei avere un hot dog e un bastone molto lungo.}
+{186}{}{Oh, ugh. Mi sta venendo da vomitare.}
+{187}{}{Ehi, il muro con la crepa nell'intonaco sembra che si possa spostare!}
+{188}{}{Occhio ai Deathclaw!}
+{189}{}{Hubba hubba!}
+{190}{}{Via!}
+{191}{}{Mi dispiace, ma non ti capisco. Addio.}
+
+#
+# Katja tell-me-abouts
+#
+
+{980}{}{Non ne so nulla.}
+{981}{}{Devo dire che non ne ho mai sentito parlare.}
+{982}{}{No, mai sentito.}
+
+{1000}{}{Water}
+{1001}{}{Boneyard}
+{1002}{}{Guerra}
+{1003}{}{Adytum}
+{1004}{}{Discepoli}
+{1005}{}{Cattedrale}
+{1006}{}{Chip}
+{1007}{}{Garl}
+{1008}{}{Master}
+{1009}{}{Unita'}
+{1010}{}{Set}
+{1011}{}{Acquedotto}
+{1012}{}{Necropolis}
+{1013}{}{Sala}
+{1014}{}{Bibloteca}
+{1015}{}{Supervisore}
+{1016}{}{Dottore}
+{1017}{}{Cure}
+{1018}{}{Vault}
+{1019}{}{Vault-13}
+{1020}{}{Vault13}
+{1021}{}{Killian}
+{1022}{}{Gizmo}
+{1023}{}{Junktown}
+{1024}{}{Shady}
+{1025}{}{Sands}
+{1026}{}{Hub}
+{1027}{}{Casino'}
+{1028}{}{Negozio}
+{1029}{}{Deathclaw}
+{1030}{}{Esodo}
+{1031}{}{Iniziati}
+{1032}{}{Paladini}
+{1033}{}{Scriba}
+{1034}{}{Figli}
+{1036}{}{Cattedrale}
+{1037}{}{Vasche}
+{1038}{}{Militare}
+{1039}{}{Base}
+{1041}{}{Apocalisse}
+{1042}{}{Mutanti}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Bere}
+{1052}{}{Droghe}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Regolatori}
+{1058}{}{Scav}
+{1059}{}{Blade}
+{1060}{}{Nicole}
+{1061}{}{Tenente}
+{1062}{}{Psichici}
+{1063}{}{Esperimenti}
+{1064}{}{Polizia}
+{1065}{}{Mercanti}
+
+{1100}{}{Non saprei proprio dove potresti trovarla, una simile reliquia dell'antica tecnologia.}
+{1101}{}{Il Boneyard, il "Cimitero degli Angeli", e' tutto cio' che rimane della vecchia citta' di Los Angeles. Il territorio e' attualmente conteso tra bande rivali.}
+{1102}{}{La Guerra ha portato distruzione e morte in tutto il mondo. Spero davvero che una cosa del genere non accada mai piu'. Ma, da quel che ho visto, non c'e' molta speranza per l'umanita'.}
+{1103}{}{Adytum era la mia casa, ma i suoi abitanti sono troppo paranoici e isolati dal mondo. Non sopravviveranno mai continuando a chiudersi dietro al loro recinto.}
+{1104}{}{I Discepoli dell'Apocalisse predicano la pace e la tolleranza. Peccato soltanto che in questo mondo non ci sia spazio per cose del genere.}
+{1105}{}{La Cattedrale e' un imponente edificio a sud di Adytum. Ospita uno strano culto che venera una qualche divinita' oscura.}
+{1106}{}{Non saprei proprio dove potresti trovarla, una simile reliquia dell'antica tecnologia.}
+{1107}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1108}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1109}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1110}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1111}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1112}{}{Cosa? La citta' dei morti? Non e' soltanto una leggenda?}
+{1113}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1114}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1115}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1116}{}{I Discepoli hanno un medico disponibile in ogni momento.}
+{1117}{}{Se hai bisogno di cure potresti andare a farti visitare dal medico dei Discepoli.}
+{1118}{}{'Sti vault non erano una specie di grandi rifugi sotterranei?}
+{1119}{}{'Sti vault non erano una specie di grandi rifugi sotterranei?}
+{1120}{}{'Sti vault non erano una specie di grandi rifugi sotterranei?}
+{1121}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1122}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1123}{}{Um, una piccola citta' a nord dell'Hub, credo.}
+{1124}{}{Shady che?}
+{1125}{}{Shady Sands? Mai sentita nominare.}
+{1126}{}{L'Hub e' un grosso centro di commerci, che ospita ogni genere di negozi e di mercanti.}
+{1127}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1128}{}{I Gun Runner vendono della roba e ad Adytum c'e' un piccolo negozio.}
+{1129}{}{Ugh! I Deathclaw sono dappertutto, nel Boneyard. Preferirei non pensarci nemmeno. Sono enormi e il loro nome dice tutto: Artigli della Morte... brrr.}
+{1130}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1131}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1132}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1133}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1134}{}{Non mi piacciono i bambini.}
+{1136}{}{Pare siano dei monaci amanti della tecnologia.}
+{1137}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1138}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1139}{}{Immagino che qualche rovina delle vecchie strutture militari esista ancora.}
+{1141}{}{Stai parlando della grande guerra? Wow, devi aver vissuto una vita molto appartata se davvero non ne sai nulla.}
+{1142}{}{Una volta ho visto un ratto con tre occhi. Questo e' tutto quel che so dei mutanti.}
+{1143}{}{Credo sia il Gran Sacerdote della Cattedrale, o qualcosa del genere.}
+{1144}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1145}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1146}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1147}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1148}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1149}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1150}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1151}{}{No, grazie.}
+{1152}{}{Ugh. No, preferirei di no. Una volta ho visto un mio amico morire per un'overdose di Psycho. Non e' stata un'esperienza gradevole.}
+{1153}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1154}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1155}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1156}{}{E' il sindaco di Adytum. Un uomo onesto, forse un po' troppo indeciso.}
+{1157}{}{Sono i guardiani di Adytum e la tengono sotto controllo.}
+{1158}{}{Una volta ero una scav... una specie di "spazzina". Ogni notte si usciva per cercare qualcosa di utile tra le rovine del Boneyard. Un lavoro molto pericoloso. Comunque mi sono stancata di Adytum.}
+{1159}{}{Sono un gruppo di sbandati che vivono poco fuori Adytum.}
+{1160}{}{E' la leader dei Discepoli. Una donna intelligente e di buon cuore.}
+{1161}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1162}{}{A volte ho qualche "intuizione femminile", se e' quello che vuoi dire.}
+{1163}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1164}{}{Non ne so molto piu' di quanto ne sappia tu.}
+{1165}{}{Di tanto in tanto qualche mercante commercia con Adytum, oppure fa affari con i Gun Runner.}

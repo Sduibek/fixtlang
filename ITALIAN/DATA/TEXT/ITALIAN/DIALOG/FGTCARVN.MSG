@@ -1,0 +1,120 @@
+{100}{}{Vedi il Capo Carovaniere dei Mercanti FarGo.}
+{101}{}{Ehi, se vuoi un lavoro con le carovane, dovresti parlare con Rutger. Sta proprio laggiu'.}
+{102}{}{Dovrai prima parlare con Rutger.}
+{103}{}{E cosi' sei stato assunto... Mi fa piacere. Dunque, noi si parte ogni dieci giorni circa. E cioe' l'8, il 18 e il 28 di ogni mese. In questo periodo le nostre carovane raggiungono la Confraternita, Junktown e il Boneyard.}
+{104}{}{E la paga com'e'?}
+{105}{}{Um.}
+{106}{}{Per te ci sono 400 testoni. Potra' non sembrarti molto, ma facciamo molti viaggi e cerchiamo di evitare le rotte piu' pericolose. In piu', la paga copre solo una parte del viaggio, ovvero l'andata. Non sei obbligato a tornare con noi, ma ti becchi un totale di 800 testoni se decidi di seguirci di nuovo fino all'Hub. }
+{107}{}{ Partiamo oggi.  Ti interessa?}
+{108}{}{ Partiamo }
+{109}{}{Empty}
+{110}{}{}
+{111}{}{. Ti interessa?}
+{112}{}{Voglio darti ancora una possibilita', nonostante... beh, lasciamo perdere. Ti interessa?}
+{113}{}{Certo. }
+{114}{}{No.}
+{115}{}{Forse.}
+{116}{}{Yaya.}
+{117}{}{Tae?}
+{118}{}{D'accordo. Nessun problema. Fammi sapere se cambi idea.}
+{119}{}{Perche' non ti decidi?}
+{120}{}{Se sei in cerca di qualcosa da fare, torna pure. Si parte l'8, il 18 e il 28. Alla prossima.}
+{121}{}{Uh, non credo che tu ci possa dare una mano se non sai nemmeno distinguere la destra dalla sinistra. Mi dispiace, ragazzone.}
+{122}{}{Torna quando starai meglio.}
+{123}{}{Amico, non credo che tu stia molto bene. Dovresti mettere qualcosa nello stomaco... ma cerca di evitare il chiosco di Bob.}
+{124}{}{Fuori di qui!}
+{125}{}{Non riesci proprio a lasciar stare la mia roba, eh? Perche' l'hai fatto?}
+{126}{}{Perche' sono una grossa falena verde proveniente dallo spazio esterno e perche' sono... "cattivo"!}
+{127}{}{Non volevo farlo, ma sto morendo di fame e ho una famiglia da sfamare.}
+{128}{}{Ti cavero' il cuore con un cucchiaio! }
+{129}{}{(Arrenditi)}
+{130}{}{(Attacca)}
+{131}{}{E cosi' mi sputi in faccia, eh? Credo che l'unico modo per fartelo entrare in quel tuo testone, sia di staccartelo dal collo.}
+{132}{}{D'accordo, ma non puoi comunque comportarti cosi'. Mi vedo costretto a chiederti di andartene.}
+{133}{}{Credi che possa credere a certe stronzate? Guardie!}
+{134}{}{Forse passare un po' di tempo in gabbia ti insegnera' a comportarti meglio. Verrai senza fare storie, o ci costringerai ad usare le maniere forti?}
+{135}{}{Ci vediamo all'inferno!}
+{136}{}{Si', sono pentito.}
+{137}{}{E cosi' sei un duro, eh? Cerchi ancora la rissa?}
+{138}{}{Se non te ne vai subito, chiamo la polizia!}
+{139}{}{Guardie! Polizia!}
+{140}{}{Credo proprio che dovresti andartene..}
+{141}{}{Mi dispiace, ma non posso darti nessun lavoro.}
+{142}{}{Mi piacerebbe darti da lavorare, ma non posso farlo.}
+{143}{}{Vattene.}
+{144}{}{Carina, ma non sono proprio il tuo tipo.} //Pretty cute, but I'm not really into your kind
+{145}{}{Ok, allora! Ti daro' 400 testoni. Quale destinazione preferisci?}
+{146}{}{Molto bene. Torna }
+{147}{}{l'8}
+{148}{}{il 18}
+{149}{}{il 28}
+{150}{}{}
+{151}{}{}
+{152}{}{Confraternita d'Acciaio }
+{153}{}{. Quello e' il giorno della partenza. Come sempre, la paga e' di 400 testoni.}
+{154}{}{Okay.}
+{155}{}{Mi dispiace, ma non posso aspettare.}
+{156}{}{Non so bene cosa sia successo, ma abbiamo perso l'intera carovana. Non e' buffo? Succede una cosa del genere e l'unico sopravvissuto sei tu... Le cose non vanno cosi', di solito. Per questo, non credo di potermi permettere di assumerti ancora. Sono certo che capirai il motivo.}
+{157}{}{Junktown }
+{158}{}{Boneyard }
+{159}{}{Um, non adesso. Magari un'altra volta.}
+{160}{}{Benissimo. Chiamo subito il resto del gruppo.}
+{161}{}{Ottimo.}
+{162}{}{Potete partire. Buon viaggio!}
+{163}{}{Cercate di evitare i guai e di non andarvela a cercare.}
+{164}{}{Fate attenzione, la' fuori, il Boneyard non e' un posto molto sicuro...}
+{165}{}{D'accordo. Quelle strade nere sono molto strane, ma sembrano fatte apposta per viaggiare con le carovane.}
+{166}{}{Ci sono dei brutti elementi, da quelle parti. Fate attenzione a non cacciarvi nei guai.}
+{167}{}{Ottimo. Junktown non e' un brutto posto.}
+{168}{}{Oh, passate da Killian e salutatelo da parte mia. Ragazzi, ricordo ancora quante ne abbiamo passate insieme, sulle carovane!}
+{169}{}{Ho sentito che da quelle parti vive uno strano dottore. Si dice che commerci in cadaveri.}
+{170}{}{Cosa diavolo pensavi di fare, lasciando la carovana? E' tornata senza problemi, ma e' una fortuna che non sia successo niente.}
+{171}{}{Posso avere un'altra possibilita'?}
+{172}{}{Niente.}
+{173}{}{Non me ne frega un cazzo!}
+{174}{}{Ig wa neeka rooola?}
+{175}{}{Lig.}
+{176}{}{Hai mandato tutto a puttane un'altra volta. Temo che tu non sia proprio tagliato per questo genere di lavoro.}
+{177}{}{Dovrei?}
+{178}{}{Non dovresti.}
+{179}{}{Si', perche' altrimenti ti apriro' un buco in mezzo alla testa.}
+{180}{}{Ho di meglio da fare che andare in giro con una cazzo di carovana.}
+{181}{}{Non sapevo che non fosse permesso lasciare la carovana. Sembrava tutto in regola.}
+{182}{}{Capisco... eri fatto di droga. Beh, continua pure a rovinarti la vita, se vuoi.}
+{183}{}{Mi dispiace che la pensi cosi'.}
+{184}{}{Mi sorprende che tu non l'abbia fatto prima. Non credo che faccia male darti un'altra possibilita'.}
+{185}{}{Hai fatto davvero un ottimo lavoro. Che ne diresti di un altro giro?}
+{186}{}{Certo.}
+{187}{}{No.}
+{188}{}{Forse.}
+{189}{}{Eeek!}
+{190}{}{Lub.}
+{191}{}{Hai preso tutto? Partiamo oggi.}
+{192}{}{Si'.}
+{193}{}{No!}
+{194}{}{Ack!}
+{195}{}{Posso sempre assumere qualcun altro, non temere. Non sei obbligato... finche' non parti con la carovana, chiaro.}
+{196}{}{La prossima carovana partira' soltanto }
+{197}{}{l'8}
+{198}{}{il 18}
+{199}{}{il 28}
+{200}{}{}
+{201}{}{}
+{202}{}{}
+{203}{}{. Torna qui per allora, se vuoi ancora il lavoro. }
+{204}{}{ }
+{205}{}{ }
+{206}{}{ }
+{207}{}{ }
+{208}{}{ }
+{209}{}{ }
+{210}{}{ }
+{211}{}{ }
+{212}{}{ }
+{213}{}{ }
+{214}{}{ }
+{215}{}{ }
+{216}{}{Confraternita d'Acciaio, arriviamo! Beh... io non verro' con voi, ma ci siamo capiti.}
+{217}{}{Okay, sparite dalla mia vista. Quei fanatici della Confraternita vi stanno aspettando.}
+{218}{}{Spero che vi piaccia la montagna! Ci state per passare proprio in mezzo. State attenti ai predoni.}
+{219}{}{Pronti a partire! Direzione: le montagne! Tenete gli occhi aperti!}

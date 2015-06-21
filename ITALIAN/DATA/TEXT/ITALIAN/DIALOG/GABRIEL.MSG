@@ -1,0 +1,100 @@
+{100}{}{Vedi un uomo ben piantato e ben armato.}
+{101}{}{Vedi Gabriel, il leader dei Gun Runner.}
+{102}{}{Non si vedono molti visitatori, da queste parti. Come posso aiutarti?}
+{103}{}{Come mai si vede cosi' poca gente, da queste parti?}
+{104}{}{Di che cosa vi occupate?}
+{105}{}{Dato che quei dannati Deathclaw hanno fatto il nido a due passi dalla nostra fabbrica, questo posto non e' certo tra i piu' accessibili.}
+{106}{}{Voi mi sembrate piuttosto ben armati... perche' non li sterminate?}
+{107}{}{Ci abbiamo provato. Ne abbiamo ammazzato qualcuno, ma sembra che non finiscano mai. E poi siamo mercanti, non guerrieri.}
+{108}{}{Cosa sareste disposti a darmi se vi liberassi dal vostro problema?}
+{109}{}{Fabbrichiamo armi e munizioni. Sono 30 anni che lo facciamo. Ma gli ultimi 10 sono stati un inferno.}
+{110}{}{Perche'?}
+{111}{}{Abbiamo ormai recuperato tutto il metallo rimasto intorno alla fabbrica dopo la guerra. Adesso dobbiamo rivolgerci ad Adytum per ottenere le materie prime che ci servono.}
+{112}{}{E cosa c'e' di male, in questo?}
+{113}{}{All'inizio andava tutto bene. Loro ci fornivano i materiali e noi fabbricavamo e vendevamo le armi. Poi, 3 anni fa, Zimmerman ha assunto dei mercenari per proteggere Adytum dai Deathclaw e dagli sporadici attacchi dei predoni. Quei Regolatori sono dei bastardi gelidi come il ghiaccio e ci stanno spremendo per benino. Noi facciamo le armi e loro ci fanno i soldi.}
+{114}{}{Perche' non abbandonate tutto e vi stabilite da qualche altra parte?}
+{115}{}{Che brutta storia. Se io vi liberassi dai Deathclaw, cosa sareste disposti a darmi?}
+{116}{}{Lo faremmo... se potessimo. Ma una smobilitazione sarebbe davvero un'impresa titanica, con tutti questi torni e frese. Non e' facile spostare simili macchinari. E poi i Deathclaw ci impediscono ogni movimento.}
+{117}{}{Mi sembrate piuttosto ben armati... perche' non li eliminate?}
+{118}{}{Se riuscirai a liberarci dai Deathclaw una volta per tutte, potrai chiedermi tutto cio' che vorrai.}
+{119}{}{Voglio armi e munizioni... in gran quantita'.}
+{120}{}{}
+{121}{}{Una volta che avrai eliminato i Deathclaw, noi saremo liberi di andarcene. A quel punto lasceremo qui cosi' tante armi e munizioni che non ti basterebbe una vita intera per usarle tutte.}
+{122}{}{OK. Allora siamo d'accordo.}
+{123}{}{Dovro' pensarci su.}
+{124}{}{Conosco persone in grado di risolvere tutti i vostri problemi con Adytum.}
+{125}{}{Fa' fuori i Deatclaw, *tutti*, e ne riparleremo.}
+{126}{}{OK. Lo faro'.}
+{127}{}{Dovro' pensarci su.}
+{128}{}{Bentornato.}
+{129}{}{Di che cosa vi occupate?}
+{130}{}{Arrivederci.}
+{131}{}{}
+{132}{}{Per ora tutto OK.}
+{133}{}{Credo di aver ucciso tutti i Deathclaw.}
+{134}{}{Dobbiamo esserne certi. Negli ultimi 2 anni ne avremo uccisi una ventina, ma ogni volta ne spuntano fuori di nuovi, come funghi. E non abbiamo mai scoperto la ragione di questo fenomeno. Aspettiamo un paio di giorni e vediamo se sono davvero morti tutti. Poi vedremo cosa fare per te.}
+{135}{}{OK, grazie.}
+{136}{}{Avvertici non appena ti sarai liberato dei Deathclaw.}
+{137}{}{Certo. Ci si vede... forse.}
+{138}{}{Lo so benissimo.}
+{139}{}{Ci si vede... forse.}
+{140}{}{Non si vedono spesso visitatori, da queste parti. Posso aiutarti?}
+{141}{}{Com'e' che non viene molta gente, qui da voi?}
+{142}{}{Di che cosa vi occupate?}
+{143}{}{Dato che quei dannati Deathclaw hanno fatto il nido a due passi dalla nostra fabbrica, questo posto non e' certo tra i piu' accessibili.}
+{144}{}{Ho ucciso tutti i Deathclaw. Incluse quelle dannate uova.}
+{145}{}{Lo faremmo... se potessimo. Ma una smobilitazione sarebbe davvero un'impresa titanica, con tutti questi torni e frese. Non e' facile spostare simili macchinari. E poi i Deathclaw ci impediscono ogni movimento.}
+{146}{}{Ho ucciso tutti i Deathclaw. Incluse quelle dannate uova.}
+{147}{}{}
+{148}{}{Voglio armi e munizioni... in gran quantita'.}
+{149}{}{}
+{150}{}{Non c'e' bisogno che mi paghiate. Il vostro "grazie" e' una ricompensa piu' che sufficiente.}
+{151}{}{Bene - prendi pure quello che vuoi. Noi ce ne andremo entro uno o due giorni, ma lasceremo qui una gran quantita' di armi... piu' di quante tu ne possa trasportare in una volta sola. Ma potrai tornare a rifornirti ogni volta che ne avrai bisogno.}
+{152}{}{}
+{153}{}{}
+{154}{}{Grazie.}
+{155}{}{}
+{156}{}{Non c'e' di che.}
+{157}{}{}
+{158}{}{}
+{159}{}{Ma non avevate deciso di andarvene?}
+{160}{}{Sono passato per prendere alcune cose. Cosa avete di bello?}
+{161}{}{Niente. Grazie lo stesso.}
+{162}{}{}
+{163}{}{Ottimo. Cos'avete di bello?}
+{164}{}{Beh, ci vediamo.}
+{165}{}{}
+{166}{}{Sono passato per prendere alcune cose. Cosa avete di bello?}
+{167}{}{Niente. Grazie lo stesso.}
+{168}{}{Mi dispiace, ma adesso non posso parlare. Sono occupato.}
+{169}{}{Armi! Io adoro le armi!}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{170}{}{Ho degli amici che avrebbero proprio bisogno delle vostre armi.}
+{171}{}{Ho degli amici che avrebbero proprio bisogno delle vostre armi.}
+{172}{}{Come va, amico?}
+{173}{}{Come va, amica mia?}
+{174}{}{Cosa?! Li hai uccisi tutti? Grazie al cielo! Adesso potremo trasferirci in un altro posto e procurarci da noi le materie prime, senza rivolgerci a quelle serpi di Adytum. Meriti una ricompensa, amico: di' quello che vuoi e sarai accontentato.}
+{175}{}{Cosa?! Li hai uccisi tutti? Grazie al cielo! Adesso potremo trasferirci in un altro posto e procurarci da noi le materie prime, senza rivolgerci a quelle serpi di Adytum. Meriti una ricompensa, amica mia: di' quello che vuoi e sarai accontentato.}
+{176}{}{Mi sta bene. E' stato un piacere fare affari con te, amico.}
+{177}{}{Mi sta bene. E' stato un piacere fare affari con te, amica mia.}
+{178}{}{D'accordo. Di' ai tuoi amici che avranno le loro armi.}
+{179}{}{D'accordo. Di' ai tuoi amici che avranno le loro armi.}
+{180}{}{Grazie, amico mio.}
+{181}{}{Grazie, amica mia.}
+{182}{}{Mi dispiace, amico, ma adesso non posso parlarti. Siamo molto impegnati a preparare tutto per il trasferimento. Se ti serve qualcosa, serviti pure.}
+{183}{}{Mi dispiace, amica, ma adesso non posso parlarti. Siamo molto impegnati a preparare tutto per il trasferimento. Se ti serve qualcosa, serviti pure.}
+{184}{}{Non abbiamo motivo di andarcene adesso che i tuoi amici si sono sbarazzati di quei dannati Regolatori.}
+{185}{}{Non abbiamo motivo di andarcene adesso che i tuoi amici si sono sbarazzati di quei dannati Regolatori.}
+{186}{}{Benvenuto, amico. Come posso aiutarti?}
+{187}{}{Benvenuta, amica mia. Come posso aiutarti?}
+
+#
+# Following Line is just to be translated normally.
+#
+{188}{}{Se vuoi comprare qualcosa, devi rivolgerti a Zack.}

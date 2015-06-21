@@ -1,0 +1,24 @@
+{100}{}{Vedi un Corista della Cattedrale.}
+{101}{}{Il Master perdonera' i tuoi peccati! Unisciti a noi e sarai libero! Lode al Master e alla Sua clemenza!}
+{102}{}{Salve, amico! La visione del Master mi ha reso davvero vivo per la prima volta. Posso condividere con te la mia magnifica storia?}
+{103}{}{Dove potrei incontrare questo Master?}
+{104}{}{Continua.}
+{105}{}{Chi e' che comanda qui?}
+{106}{}{La visione del Master? E' meglio del succo di radscorpione?}
+{107}{}{Finisce con un massacro? Se no, posso cambiarla io!}
+{108}{}{Me piace storia!}
+{109}{}{Il Master guarda in alto! Il Master risiede nel profondo! Guarda crescere la Pace e l'Unita'!}
+{110}{}{C'era una volta un uomo cosi' pieno d'odio che quasi ne mori'. Ma adesso... sia lode al Master! Sia lode alla Sacra Fiamma! Sia lode alla Vigna della Vita! Whee!}
+{111}{}{Ognuno comanda le proprie azioni, amico, ma il Master e' la guida! Lode alla Sacra Fiamma che illumina la nostra via!}
+{112}{}{La visione del Master e' migliore di qualsiasi bevanda... e' persino migliore del sesso! Ohhhh! Egli trascende il vizio e la virtu'! Ahhhh! Il Master e' allo stesso tempo un padre e un'amante per tutti noi!}
+{113}{}{Nessuna storia finira' con un massacro, finche' il Master sara' qui a proteggerci!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{114}{}{Devo lodare il Master! A presto, amico mio! Ti raccontero' la storia un'altra volta!}
+{115}{}{Devo lodare il Master! A presto, amica mia! Ti raccontero' la storia un'altra volta!}

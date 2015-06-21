@@ -1,0 +1,274 @@
+{100}{}{Vedi Set, il Leader di Necropolis.}
+{101}{Set00}{Sara' meglio che tu abbia una ragione dannatamente seria per metterti sulla mia ombra. La frase "prossima portata del menu" ti fa venire in mente qualcosa... umano?}
+{102}{}{Oh, seria lo e', senza dubbio. Chiaramente mi trovo davanti all'... er... "uomo" in comando.}
+{103}{}{Whoa, cos'e' successo alla tua faccia?}
+{104}{}{Wow, sei piuttosto sveglio per essere un ghoul.}
+{105}{}{Nuh-uh?}
+{106}{Set01}{Semplice semplice. Sono Set. Sono il capo. 'pito?} //?Simple time
+{107}{}{Secondo le mie informazioni non sei altro che un tirapiedi di seconda classe.}
+{108}{}{Capito. }
+{109}{}{C'e' altro che dovrei sapere?}
+{110}{Set01a}{Bene.}
+{111}{}{Cosa posso fare per te?}
+{112}{Set02}{Embe'? Ti piace leccare? Ascoltami bene, tipo: io non parlo con gli umani, quindi piantala di adularmi sperando di ottenere il posto a capotavola.}
+{113}{}{Forse un po' di piombo in corpo ti fara' una migliore impressione, allora.} //The smoke will be coming out a lotta holes when I'm through
+{114}{}{Ti porgo le mie scuse. Volevo soltanto fare bella figura.}
+{115}{}{Non era certo mia intenzione.}
+{116}{Set03}{[Groan] Ti mangero' cantando "Aggiungi un posto a tavola". E di posti a tavola ce ne saranno molti...}
+{117}{Set04}{Si passa ai fatti? Mi divertiro' a spremerti.} //Fact-time, bitch
+{118}{}{Qualunque cosa ci sia nel tuo fodero sara' meglio che sia piu' grossa della tua bocca... il che e' piuttosto improbabile.}
+{119}{}{Spremi un po' questo...}
+{120}{}{Nuh-uh?}
+{121}{Set05}{Beh. Vedo che hai del potenziale... heh... posso farti conoscere un sacco di nuovi amici, mio brillante umano. Attacca i mutanti dell'acquedotto. Yeah, yeah, lo puoi fare... si'?}
+{122}{}{Uh, OK.}
+{123}{}{Nuh-uh.}
+{124}{Set06}{Eccellente. Insegna a quei mutanti la lezione finale, poi torna qui... Hmmm... Se dicessi ai miei ghoul di tenerti d'occhio, i mutanti potrebbero scoprire tutto. Allora sai che ti dico? E' l'ora della buona azione quotidiana. Staro' muto. 'pito?} //Teach those mutants the last lesson, then amble back . . . Hmm. If I say to my ghouls to hold off you, the muties might hear and know
+{125}{}{Capito.}
+{126}{}{E i ghoul?}
+{127}{}{Duh, ok!}
+{128}{}{Huh?}
+{129}{Set07}{Sta' alla larga dai miei ghoul, se hai cara la pelle. Se uno dei miei non e' in grado di fermare un umano, si merita solo l'eterno riposo. Va' pure quando vuoi.} //Any of mine that can't stop a normie deserve last rest. Get by as you need
+{130}{Set08}{Divori il mio tempo! Smetti di esistere, in un modo o nell'altro!}
+{131}{Set09}{Ma tu sai di chi e' l'ombra che stai calpestando?}
+{132}{}{Di un tirapiedi di seconda categoria. Conosco il tuo capo. E non e' molto contento.}
+{133}{}{Evidentemente nemmeno tu.}
+{134}{}{Mi dispiace; ho uno strano senso dell'umorismo.}
+{135}{Set10}{Lavori per lui? Sei il suo sicario, giusto? Sei qui per farmi la pelle? Oh, ti giuro che finirai in tomba pure tu.}
+{136}{}{Whoa, non fraintendiamo. Non lavoro per lui. Sono qui per aiutarti.}
+{137}{}{Provaci, faccia da spaghetti.}
+{138}{Set10a}{Non mi era parso.} //it didn't sound it
+{139}{}{Capisco. E' anche un mio problema. Parla con me.}
+{140}{Set11}{Necropolis era mia. Posto che non e' un paradiso, e' un posto a posto per la mia gente. Poi e' comparso il Master. Avrebbe potuto farmi piu' secco di quel che gia' sono, ma ha ritenuto piu' facile sbattere qui qualche mutante per tenermi d'occhio.}
+{141}{}{Cosa posso fare per te? E cosa farai tu, per me?}
+{142}{}{Sembra un po' troppo fuori dalla mia portata. Io me ne lavo le mani.}
+{143}{Set12}{I mutanti all'acquedotto hanno bisogno di un bel funerale. La mia ombra si allunghera'. Falli a pezzi e una ricompensa sara' tua. Anche informazioni.}
+{144}{}{Fatta.}
+{145}{}{Troppo disturbo. Ci si vede.}
+{146}{Set13}{Vuoi un lavoro, viaggiatore? Fammi vedere che te la cavi con le risse. Fa' fuori i mutanti all'acquedotto. Fagli passare un brutto quarto d'ora e sei a posto.}
+{147}{}{Ci penso io.}
+{148}{}{Scordatelo, faccia da spaghetti.}
+{149}{Set14}{No. Altre domande? }
+{150}{}{Ahhh, credo di no. Cosa posso fare per te?}
+{151}{}{Si'. Come fai a fare gli sciacqui col colluttorio?} //Do find it difficult to floss
+{152}{Set15}{Rido talmente tanto che mi fa male la faccia. Provaci un'altra volta, e la mia squadra d'Elite ti spremera' fino all'osso. 'pito?}
+{153}{}{Capito.}
+{154}{}{Ho ancora qualche dubbio...}
+{155}{}{Non mi stupisce che la faccia ti faccia male.}
+{156}{Set16}{Il mio nome e' Set. Il tuo e' Mamma-che-male. Facciamo un accordo e il tuo destino cambia. Mi ascolti?} //Take a deal, I change your handle
+{157}{}{Certo. Sempre meglio che sporcarti di sangue il tuo bel pavimento.} //Beats bleeding all over your floor
+{158}{}{Nah. Fa' venire i tuoi sgherri.}
+{159}{}{Uh-huh.}
+{160}{}{Nuh-uh!}
+{161}{Set17}{Raggiungi l'acquedotto, fa' il funerale ai mutanti che sono li'. Fallo e continuerai il tuo viaggio. Non farlo e riposerai.}
+{162}{}{Mi sembri piuttosto spaventato da quei tipi. Ne vogliamo parlare?}
+{163}{}{Sono uno facile, io. Ci sto.}
+{164}{}{Hai una faccia ridicola e quel che dici lo e' altrettanto.}
+{165}{Set18}{Ben fatto. Ti sei guadagnato un mio sguardo, viaggiatore. Segui Garret per la tua ricompensa. Subito. Sono affaccendato.}
+{166}{}{OK. Grazie.}
+{167}{}{COME?! Invece di ringraziarmi mi cacci via?}
+{168}{}{Mammina?}
+{169}{Set19}{Guarda, prima di pigolare. Ti piacera'. E' un peccato farmi arrabbiare adesso... che sono felice.}
+{170}{}{Mi scuso per la mia uscita infelice, ma stare qui dentro mi preoccupa un po'.}
+{171}{}{Scusami. Nessun problema.}
+{172}{}{Ehi, io i vostri avanzi non li voglio.}
+{173}{Set20}{[Groan] Yeah, yeah. Segui Garret e mostra bene i tuoi bianchi perlati. E non crucciarti, la mia parola e' una sola. Il Master e' il maestro d'inganni.} //And don't fret, I keep a straight-word. The Master runs the twist
+{174}{}{Il Master?}
+{175}{}{Ok, grazie.}
+{176}{Set21}{Se non ti guardi le spalle, tu indosserai il suo coltello e lui la tua pelle. I suoi mutanti adombrano le lande, specialmente a sud di qui.}
+{177}{}{Se il Master e' cosi' forte, chi puo' fronteggiarlo?}
+{178}{}{Non mi fa paura.}
+{179}{Set21a}{Dovrebbe.}
+{180}{Set22}{I Figli della Cattedrale, quelli dell'Hub, oppure noi Ghoul. Adesso nessuno puo' intaccare la sua ombra. Ma la prossima volta la nostra luce sara' piu' luminosa. Oh-oh, si'.} //cids of the Hub
+{181}{}{Buona fortuna.}
+{182}{Set23}{Segui Garret e vattene.}
+{183}{}{Certo.}
+{184}{}{Fottiti.} //Frag off
+{185}{Set24}{Attento perche' potresti diventare tu i nostri prossimi avanzi. Vattene ora, senza la tua ricompensa, o stasera finirai sulla nostra tavola.}
+{186}{}{Se proprio insisti...}
+{187}{}{Fottiti.}
+{188}{Set25}{Al mio orecchio non giunge alcuna voce della cessazione dei respiri dei mutanti all'acquedotto. Primario per i miei progetti. Dimmi che ci hai messo una pietra sopra.}
+{189}{}{Oh, certo. Non e' stato difficile: e' tutto risolto. Fidati di me.}
+{190}{}{No, ci sto ancora lavorando.}
+{191}{}{Nuh-uh.}
+{192}{Set26}{Ahhh, rimpinzante. Segui Garret per la tua ricompensa. }
+{193}{Set27}{Con le tue bugie rubi il mio tempo. Lascia la mia ombra prima di... morire. Muori! Muori e basta! }
+{194}{Set28}{Cammina. Datti da fare con i mutanti e poi ritorna. Non prima.}
+{195}{Set29}{Preso dai miei, eh? Ti avevo dato una dritta su di loro. Adesso devi pagare. Non si fa credito.} //I gave you the straight on them
+{196}{Set30}{Sono Set. Perche' cammini sulla mia ombra?}
+{197}{}{Sono il tristo mietitore. Buttati in ginocchio e invoca pieta'.}
+{198}{}{Sono il tristo mietitore. Buttati in ginocchio e invoca pieta'... Oppure dammi un panino; sono piuttosto affamato.}
+{199}{}{Sono qui per vedere il boss. Sei tu?}
+{200}{}{Whoa! Un caso disperato di acne!}
+{201}{}{Uhh, me-no-sa.}
+{202}{Set31}{Umani... Se davvero voi mi faceste tremare, lascerei forse le mie porte cosi' spalancate?}
+{203}{}{Ho ucciso ghoul. Ho ucciso mutanti. Ho ucciso cose che non puoi neanche immaginare. Nessuno si mette sulla mia strada.}
+{204}{}{Che ne diresti di una bella tiratina alla faccia? Anzi, che ne diresti di tirare le cuoia?}
+{205}{Set32}{Hai seccato chi stava all'acquedotto. Lo trovo satollante. Per questo, ti diro' parole. Poi cammineremo ognuno nella sua direzione.}
+{206}{}{Perche' invece non camminiamo subito in direzioni opposte?}
+{207}{}{A me sta bene.}
+{208}{Set33}{Un avviso. Il Sud fa guaire il mastino e lo fa scappare con la coda tra le gambe. Se hai delle idee che ti balzano in testa, sappi che a me i mastini piace ammazzarli. D'altro canto, hai ripulito l'acquedotto. Garret ti condurra' alla mia gratitudine.}
+{209}{Set34}{Le risate sono rare, qui. Hai ripulito tu l'acquedotto?}
+{210}{}{Questi sono i fatti.}
+{211}{}{Oh, no. Non sono stato io.}
+{212}{Set35}{Errore mio, danno tuo. Il lavoro cresce; adesso dovresti andartene.}
+{213}{Set36}{Ah, si'. Nessuna traccia sulla sabbia. Bene. Soddisfacente. Va' con Garret verso la gratitudine.}
+{214}{Set38}{Io getto l'ombra. Se questo e' tutto, puoi sparire. } //If that's the lot, remove yourself
+{215}{}{Sono qui per incassare la taglia su alcuni mutanti.}
+{216}{}{Grazie. Credo proprio che adesso me ne andro'.}
+{217}{}{Sarebbe piu' veloce se io facessi sparire te.}
+{218}{Set39}{Accettabile. Segui Garret verso la gratitudine, poi imbocca un altro sentiero.}
+{219}{Set40}{Ragioni per un'aggressione? Cammina e la mia rimarra'. Parla e la mia si spostera'.}
+{220}{}{Mi dispiace. Era una pessima battuta.}
+{221}{}{Era ora. Mi ero stufato di aspettare che la tua faccia diventasse un po' piu' gradevole.}
+{222}{Set41}{Ahh, l'umano dal cervello fino. Hai ucciso quelli dell'acquedotto, si'? Sei qui per la ricompensa?}
+{223}{}{Ah-hah}
+{224}{}{Nuh-uh, me venuto a 'mazare brutti musi.}
+{225}{Set42a}{Ora e' male. Cammina. }
+{226}{}{Mi merito delle informazioni.}
+{227}{}{Che ne diresti se camminassi sulla tua faccia?}
+{228}{}{Capito.}
+{229}{}{Nuh-uh?}
+{230}{Set43}{Bene. Rapido. Cosa?}
+{231}{}{Non hai affrontato direttamente i mutanti. Io mi chiedo: perche'? Risposta: qualcuno ti spaventa. Perche'?}
+{232}{}{Perche' hai usato me per liberarti dei mutanti? Perche' non hai usato i tuoi ghoul?}
+{233}{}{Come diavolo fai a definire ricompensa questa merda?}
+{234}{Set44}{Io non tremo. Uso gli strumenti del tempo. Sei stato usato, sei stato ricompensato, sei in partenza.}
+{235}{}{Stai bluffando.}
+{236}{}{Se lo dici tu.}
+{237}{}{Questa sembra proprio una minaccia!}
+{238}{Set45}{Non leggi nemmeno le righe. A meno che Necropolis non sia la dimora che hai scelto per l'eternita', cammina. Non ho tempo per un folle sacco di sangue.}
+{239}{}{E del tuo sacco da cadavere non vogliamo parlarne?}
+{240}{}{Capito.}
+{241}{}{Vuoi assaggiare il mio pugno?}
+{242}{Set45a}{Con piacere...}
+{243}{Set46}{Nessun bluff, nessun inganno. Il Master non mi fa tremare. Vattene. Il tuo benvenuto l'ha gia' fatto.}
+{244}{}{Grazie.}
+{245}{}{Credi che farti fuori fara' ritornare il mio benvenuto? Secondo me si'.}
+{246}{Set47}{Perche' mandare un ghoul per un lavoro da bambini? Lasciami.}
+{247}{Set48}{Io sono stanco. Tu non sei piu'.} //You're gone
+{248}{Set49}{Piangi e strepita! Ti voglio morto! Morto!} //Sow and weep
+{249}{Set50}{Vedo il tuo inganno e cio' causa dolore ad uno di noi. La lista e' breve: elimina i mutanti o muori.} //I spy your twist and it causes one of us pain. Short-list choice: Remove the mutants or die
+{250}{}{Ci vado subito.}
+{251}{}{La lista e' piu' lunga. Il numero 3 e': E se invece ti staccassi la testa?}
+{252}{Set51}{Ancora nella mia ombra? Perche' le lingue degli umani ballano rubando i movimenti alle loro ossa? E' tempo di pulizie, va'.}
+{253}{Set52}{La tua presenza significa?}
+{254}{}{Non molto. Sto soltanto andando in giro ad annunciare che il Master e' morto.}
+{255}{}{Sono a corto di culi da spaccare e ho pensato alla tua faccia.}
+{256}{}{Huh. Master fatto bum.}
+{257}{Set52a}{Intendi morto?}
+{258}{}{Aha.}
+{259}{Set53}{Caldo. Saziante. I tuoi bisogni sono i miei desideri. Nominali.}
+{260}{}{Ho bisogno di informazioni sulle Vasche.}
+{261}{}{Avrei bisogno di armi e provviste.}
+{262}{}{No, grazie.}
+{263}{}{Bisogno di roba.}
+{264}{}{Naww.}
+{265}{Set54}{Alcuni dei miei hanno oltrepassato i limiti. E hanno visto l'opera dei mutanti.} //Worked that mutant task
+{266}{}{Cosa ti hanno detto?}
+{267}{}{Mutanti, eh? Probabilmente avro' bisogno di qualche pistola in piu'.}
+{268}{Set55}{Grande nordovest, lontano dalla vita. Brulicante di guardie e di insidiosi risvolti. Se questo e' il tuo sentiero, camminalo stretto ai miei pensieri.}
+{269}{Set56}{Garret ti passera' il disponibile.}
+{270}{Set57}{Tu. Hai svanito il nostro chip di purificazione dell'acqua. L'hai scambiato... per la tua vita!}
+{271}{}{Abbiamo entrambi bisogno di chip funzionanti. Sembra che ne esista solo uno. C'e' un'altra soluzione alla quale non abbiamo pensato?}
+{272}{}{Mi serviva per salvare il mio vault. Mi dispiace.}
+{273}{}{Ti basta uno "scusami"?}
+{274}{}{Lo rivuoi?}
+{275}{}{Uhh?}
+{276}{Set58}{Una strada, forse. Una pompa ausiliaria sussiste, non la sua attivita'. Nessuno dei miei respira quella vita.}
+{277}{}{Forse allora dovrei dare un'occhiata a quella pompa.}
+{278}{}{Che peccato... Immagino che siate condannati a morire tutti di sete.}
+{279}{Set59}{Garret parlera' con te. Ravviva la pompa, tieni il chip.}
+{280}{}{Grazie.}
+{281}{Set60}{Berro' da te finche' sei caldo, lo prendero' da te quando sarai freddo.}
+{282}{}{Non ce l'ho con me.}
+{283}{}{Che ne diresti di mangiare la polvere, invece?}
+{284}{Set61}{Allora muori di fronte a me!}
+{285}{Set62}{Le idee non ti daranno piu' crucci.}
+{286}{}{Devo prenderlo per un "no"?}
+{287}{Set63}{Il tuo prezzo e' appartenere a Necropolis per sempre.}
+{288}{}{Piuttosto caro. E se invece ti rimuovessi dal tuo incarico?}
+{289}{}{Nuh-uh!}
+{290}{Set64}{Per il chip potrai continuare il cammino.}
+{291}{}{Cavoli! Non ce l'ho piu'!}
+{292}{}{OK, eccolo qua.}
+{293}{}{Preferirei vederti morto.}
+{294}{Set65}{[Set consegna il water chip ad un ghoul, che poi esce.] Se la tua ombra tocchera' ancora Necropolis, si fondera' per sempre con essa.}
+{295}{Set200}{Come ho detto...}
+{296}{Set201}{Dissi prima...}
+{297}{Set202}{Non spreco tempo con gli umani.}
+{298}{Set203}{Ciancia con Garret. Il mio tempo vola.}
+{299}{Set204}{Hai la testa vuota?}
+{300}{Set205}{L'unico beneficio e' il tuo. Questo baratto latita.}
+{301}{Set206}{Pensieri non in mio possesso.}
+{302}{Set207}{Il tempo e' errato. La sera si addice all'ombra.}
+{303}{Set208}{Guardie! Catturate l'umano!}
+{304}{Set209}{Guardie, ponete fine a tale seccatura!}
+{305}{Set300}{Il suo significato non ha posto qui. Nessuno.}
+{306}{Set301}{Il futuro. Sopravvivere dappertutto. Sorpasseremo gli umani.}
+{307}{Set302}{Un errore del mondo. Una trave nel mio occhio. Ne odio ogni sfaccettatura.}
+{308}{Set303}{Dove giace la tua ombra. La mia dimora. Il mio dominio. Un luogo dove cresce il potere.}
+{309}{Set304}{L'inizio. Dal mondo alle ceneri, dalle ceneri alla nascita. La nostra vita.}
+{310}{Set305}{Ideali distorti. Nulla che sia degno d'uno sguardo, nulla di nulla.}
+{311}{Set306}{Molti dei vostri. Alcuni utili, ma troppi inganni.}
+{312}{Set307}{Vestigia. Noi superiamo, loro ignorano. La loro vista e' corta, solo cio' che credono.}
+{313}{Set308}{La fonte d'acqua principale di Necropolis. Avvelenata dalla presenza dei mutanti. Il sol pensarci mi svuota.}
+{314}{Set309}{Fornisce cio' che serve.}
+{315}{Set310}{Al di sotto dei miei pensieri.}
+{316}{Set311}{Fuori dai miei pensieri.}
+
+
+
+#
+# Set Tell-Me-Abouts
+#
+{970}{Set01}{Semplice semplice. Sono Set. Sono il capo. 'pito?}
+
+{980}{Set206}{Pensieri non in mio possesso.}
+{981}{Set310}{Al di sotto dei miei pensieri.}
+{982}{Set311}{Fuori dai miei pensieri.}
+
+{1000}{}{Master}
+{1001}{}{Ghoul}
+{1002}{}{Mutanti}
+{1003}{}{Necropolis}
+{1004}{}{Guerra}
+{1005}{}{Unita'}
+{1006}{}{Hub}
+{1007}{}{Confraternita}
+{1008}{}{Acquedotto}
+{1009}{}{Cattedrale}
+{1010}{}{Chip}
+{1011}{}{Sala}
+{1012}{}{Figli}
+{1013}{}{Garret}
+{1014}{}{Set}
+{1015}{}{Mutanti}
+{1016}{}{Confraternita}
+{1017}{}{Acquedotto}
+{1018}{}{Figli}
+{1019}{}{Figli}
+{1020}{}{Acquedotto}
+{1021}{}{Water}
+
+{1100}{Set300}{Il suo significato non ha posto qui. Nessuno.}
+{1101}{Set301}{Il futuro. Sopravvivenza ovunque. Sorpasseremo gli umani.}
+{1102}{Set302}{Un errore del mondo. Una trave nel mio occhio. Ne odio ogni sfaccettatura.}
+{1103}{Set303}{Dove giace la tua ombra. La mia dimora. Il mio dominio. Un luogo dove cresce il potere.}
+{1104}{Set304}{Dove giace la tua ombra. La mia dimora. Il mio dominio. Un luogo dove cresce il potere.}
+{1105}{Set305}{Ideali distorti. Nulla che sia degno d'uno sguardo, nulla di nulla.}
+{1106}{Set306}{Molti dei vostri. Alcuni utili, ma troppi inganni.}
+{1107}{Set307}{Vestigia. Noi superiamo, loro ignorano. La loro vista e' corta, solo cio' che credono.}
+{1108}{Set309}{Fornisce cio' che serve.}
+{1109}{Set310}{Al di sotto dei miei pensieri.}
+{1110}{Set311}{Fuori dai miei pensieri.}
+{1111}{Set204}{La tua testa e' vuota?}
+{1112}{Set310}{Al di sotto dei miei pensieri.}
+{1113}{Set204}{La tua testa e' vuota?}
+{1114}{Set01}{Semplice semplice. Sono Set. Sono il capo. 'pito?}
+{1115}{Set302}{Un errore del mondo. Una trave nel mio occhio. Ne odio ogni sfaccettatura.}
+{1116}{Set307}{Vestigia. Noi superiamo, loro ignorano. La loro vista e' corta, solo cio' che credono.}
+{1117}{Set309}{Fornisce cio' che serve.}
+{1118}{Set310}{Al di sotto dei miei pensieri.}
+{1119}{Set310}{Al di sotto dei miei pensieri.}
+{1120}{Set309}{Fornisce cio' che serve.}
+{1121}{Set309}{Fornisce cio' che serve.}

@@ -1,0 +1,210 @@
+{100}{}{Vedi il Tenente dell'esercito del Master.}
+{101}{LIEUT1}{Cosa abbiamo qui? Mi e' stato detto che vorresti riferire informazioni della massima importanza. Spero sia cosi'.}
+{102}{}{Hm, gia'.}
+{103}{}{Di certo non a qualcuno brutto come te.}
+{104}{}{Ad una condizione.}
+{105}{}{Doh!}
+{106}{LIEUT1A}{Un insulto. Che amenita'. Ti spiegherei il significato di questa parola, ma sarebbe uno spreco, non credi? Veniamo alle tue due possibilita': puoi dirmi quello che voglio sapere di tua sponte. Oppure ne verro' a conoscenza... a modo mio.}
+{107}{}{Scelgo "Nessuna delle precedenti".}
+{108}{}{Okay, ma ad una condizione.}
+{109}{}{D'accordo, te lo diro'. Si trova sull'altro versante delle montagne, lontano a nord. Lo troverai vicino ad una strana roccia di forma semisferica... Ora, cosa ne ricavo io?}
+{110}{LIEUT1B}{Non mi pare di aver fatto offerte. Ma ti ringrazio per avermi detto dove si trova il tuo Vault. Sono certo che il Master sara'... altrettanto riconoscente.}
+{111}{LIEUT2}{Che bellezza. Ora, se non ti dispiace, la posizione del tuo Vault.}
+{112}{}{E'... ehm... dunque... e'... ehm...}
+{113}{}{Ad una condizione, socio.}
+{114}{}{Ti ho fregato, eh? Non te lo diro' mai!}
+{115}{}{Okay, okay! Ma non uccidermi, ti prego! Ti diro' tutto quel che so!}
+{116}{LIEUT3}{Condizione? Delizioso. Continua pure, divertimi con le tue... "condizioni".}
+{117}{}{Voglio esser lasciato libero.}
+{118}{}{Mettiti un sacchetto in testa. Dubito che riuscirei a sopportare piu' a lungo la vista della tua faccia.}
+{119}{}{Prima vorrei che mi fosse concesso di fare qualche domanda.}
+{120}{LIEUT4}{Che magnifico senso dell'umorismo. E' un peccato che io non l'abbia. Quindi... la posizione del tuo Vault, se non ti dispiace.}
+{121}{}{D'accordo. Ma prima potrei fare qualche domanda?}
+{122}{}{Non ti diro' nulla e non puoi costringermi a farlo.}
+{123}{}{E'... ehm... dunque... e'... ehm...}
+{124}{LIEUT5}{Ma certamente, mio caro umano. Sono proprio curioso di sapere cosa chiederai.}
+{125}{}{Cosa succede qui dentro?}
+{126}{}{Per chi lavori?}
+{127}{}{Perche' mi trovo qui?}
+{128}{}{Che ne diresti se me ne andassi?}
+{129}{LIEUT7}{Mio caro umano, questo e' il grande procreatore! Qui creeremo altri rappresentanti della razza padrona e renderemo possibile l'Unita'. E' una cosa invero gloriosa, te lo assicuro.}
+{130}{}{Parlami dell'Unita'.}
+{131}{}{Pare proprio di si'. Perche' avete bisogno di tutto questo per, ehm, procreare?}
+{132}{}{Chi e' che comanda?}
+{133}{LIEUT8}{Al momento, c'e' un lieve... problema con il processo riproduttivo. Ce ne stiamo occupando. Per il momento dobbiamo usare le Vasche per trasformare gli umani in Super Mutanti. Tra breve sperimenterai tale onore personalmente.}
+{134}{}{Oh, cielo. Potrei fare qualche altra domanda prima di diventare un... illuminato?}
+{135}{lieut8a}{Come potrei mai rifiutare una richiesta posta in cotal guisa?}
+{136}{LIEUT9}{Certamente. Abbiamo tutto il tempo del mondo... Credimi.}
+{137}{LIEUT10}{L'Unita' e' il nostro obiettivo. E' invero piuttosto semplice. Di certo avrai notato il declino costante della civilta', no?}
+{138}{}{Beh, si', ma...}
+{139}{LIEUT11}{I Super Mutanti sono il passo successivo dell'evoluzione umana. Per salvare il mondo convertiremo tutti gli individui meritevoli. Semplice, efficace, glorioso.}
+{140}{}{Quindi per salvare il mondo trasformerete tutti in orribili mutanti verdi?}
+{141}{}{In che modo sareste superiori ai "normali" esseri umani?}
+{142}{}{Ma cosi' non ci sarebbe possibilita' di scelta!}
+{143}{LIEUT12}{La tua mente umana e' troppo limitata per comprenderlo, quindi un semplice "si'" dovrebbe bastare, per adesso. Tutti gli umani saranno presto convertiti e la pace regnera' sul mondo.}
+{144}{}{E che ne sara' del libero arbitrio?}
+{145}{}{Mi stai dicendo che non ci sara' alcuna guerra?}
+{146}{LIEUT13}{Hai per caso scelto tu di nascere in questo mondo coperto di ceneri? Noi, i Super Mutanti, siamo i meglio preparati per il futuro che verra'. Cos'e' mai il libero arbitrio, paragonato alla vita?}
+{147}{}{Punto discutibile. E in *cosa* sareste meglio preparati, rispetto agli umani normali?}
+{148}{}{Ma costringere la gente a vivere secondo le vostre regole e' crudele!}
+{149}{LIEUT14}{E' intuitivamente ovvio anche per l'osservatore piu' distratto. Siamo altamente intelligenti e immuni alle malattie. E' la legge del piu' forte! Il nostro obiettivo e' migliorare la razza umana.}
+{150}{}{Uno scopo molto nobile. Come avete fatto a diventare cosi'?}
+{151}{LIEUT15}{Ahh, le meraviglie della tecnologia. Prima della guerra, gli scienziati umani crearono un virus chiamato FEV. Era stato progettato per creare l'umano perfetto.}
+{152}{}{Quindi tu saresti un umano perfetto?}
+{153}{LIEUT16}{Meglio. Sono piu' che umano. Certo, anch'io un tempo ero umano. Al pari di te, ero un verme che si rotolava nel fango. Poi sono stato esposto al FEV e ho subito la mia gloriosa trasformazione.}
+{154}{}{Quindi voi avete intenzione di esporre tutta l'umanita' a questo FEV?}
+{155}{LIEUT17}{Esatto. Adesso hai compreso.}
+{156}{}{Ah, certo. Posso farti qualche altra domanda?}
+{157}{}{Ma e' sbagliato!}
+{158}{LIEUT18}{Oh, che delusione. Speravo davvero che tu riuscissi subito a vedere la luce... Beh, quando sarai uno di noi, sono certo che comprenderai. A quel punto coglierai il senso dell'Unita'.}
+{159}{}{Mai! E' male. Male, ti dico!}
+{160}{}{Forse. Prima posso farti qualche domanda?}
+{161}{LIEUT19}{Ne' guerra ne' malattia. Tutti i Super Mutanti sono legati dall'Unita'. Noi siamo la speranza di questo mondo.}
+{162}{}{Non mi sembra il massimo.}
+{163}{}{In che modo potete essere una speranza per il mondo?}
+{164}{LIEUT20}{Noi tutti siamo al servizio del Master per difendere la gloria dell'Unita'. Lui fu il primo, sai?}
+{165}{}{Com'e' che sei finito al suo servizio?}
+{166}{}{Cos'e' l'Unita'?}
+{167}{LIEUT21}{Fato. Un bacio della Fortuna. Ero il piu' forte tra quelli, del mio gruppo, che furono immersi nel virus e ho sempre condiviso gli ideali dell'Unita' e del Master, poiche' in essi risiede la verita'. E per la mia devozione, sono stato ricompensato.}
+{168}{}{Che virus?}
+{169}{}{Che aspetto ha questo Master?}
+{170}{LIEUT22}{Prima della guerra, gli umani crearono un virus per dar vita all'uomo perfetto. Ebbero successo, come puoi ben vedere. Il Master e' stato il primo ad utilizzare appieno il FEV al massimo del suo potenziale.}
+{171}{}{E dove si trova il Master?}
+{172}{}{Come funziona?}
+{173}{LIEUT23}{E' impegnato con i Figli della Cattedrale. Ci considerano degli dei. Ma, suvvia: chi puo' biasimarli?}
+{174}{}{Non siamo un po' presuntuosi?}
+{175}{}{E voi credete di essere dei?}
+{176}{LIEUT24}{Esser onesti significa esser presuntuosi? Noi siamo il passo successivo nell'evoluzione. Attraverso l'Unita', il mondo sopravvivera'. Dov'e' la presunzione, in questo?}
+{177}{}{Dentro quella testa grottesca che ti ritrovi, forse?}
+{178}{}{Beh, okay. Posso farti qualche altra domanda?}
+{179}{LIEUT25}{Certo che no. Noi siamo, semplicemente, il Futuro.}
+{180}{}{Non ti credo.}
+{181}{}{Prima che questo futuro arrivi, ci sono un paio di cose che mi piacerebbe sapere.}
+{182}{LIEUT26}{Oh, sospetto che questo sia troppo al di sopra delle tue capacita' intellettive. Ma non temere. Presto i tuoi occhi si apriranno su una nuova vita.}
+{183}{}{Che vuoi dire!?}
+{184}{}{Prima che cio' accada, ci sono un paio di cose che mi piacerebbe sapere.}
+{185}{LIEUT27}{[sospira] Non l'hai ancora capito? Sei uno splendido esemplare d'umano. Presto sarai uno di noi.}
+{186}{}{Ti va bene uno "scordatelo", come risposta?}
+{187}{}{Prima di diventare verde come te, ci sono un paio di cose che mi piacerebbe sapere.}
+{188}{}{Perche' sarei uno splendido esemplare?}
+{189}{LIEUT28}{Prego, fa' le tue domande. Non abbiamo fretta alcuna.}
+{190}{LIEUT29}{Ci ha guidati al virus vivificatore, ed e' un Padre per tutti noi. E vuole conoscere anche te. Spero che tu ne sia onorato.}
+{191}{}{Uh... okay. Che mi dici di questo virus? Cos'e'?}
+{192}{}{Prima di accordarmi un simile onore, che ne diresti di rispondere a qualche altra domanda?}
+{193}{}{Adesso dov'e'?}
+{194}{LIEUT30}{Il FEV subi' delle mutazioni a causa delle radiazioni portate dalla guerra. Chi ha vissuto in queste lande desolate e' stato esposto al FEV mutante, che ha agito come un vaccino. Su tali soggetti non e' possibile ottenere il massimo risultato.}
+{195}{}{E allora?}
+{196}{}{Quindi vi servono soggetti non contaminati per creare dei Super Mutanti?}
+{197}{LIEUT31}{Allora, tu provieni da un Vault e hai subito un'esposizione minima al virus mutato. Il FEV originale contenuto nelle Vasche dovrebbe agire molto bene su di te.}
+{198}{}{E questo come fai a saperlo?}
+{199}{LIEUT32}{Per giungere a tale conclusione abbiamo condotto numerosi esperimenti su cavie umane. Il Master e' in cerca di Vault ancora sigillati per dimostrare le sue teorie. Ma adesso sei arrivato tu. Come sei premuroso.}
+{200}{}{Non lo troverete mai.}
+{201}{}{Beh, prima che cio' accada ci sono un paio di cose che mi piacerebbe sapere.}
+{202}{LIEUT33}{Oh, cielo, sei piu' sveglio di quanto pensassi. Adesso sai perche' abbiamo bisogno del tuo Vault.}
+{203}{}{Peccato che non vi diro' mai dove si trova.}
+{204}{}{Il mio Vault e' grande. Che ne diresti, prima, di rispondere a qualche piccola domanda?}
+{205}{LIEUT34}{Libero? Hmm... lascia che veda... Beh, si', stavo quasi per ridere! Che magnifico umorismo. L'unica tua liberta' sara' scegliere la Vasca in cui sarai immerso. Ma prima mi dirai dove si trova il tuo Vault.}
+{206}{}{Spero che un rifiuto sia accettabile.}
+{207}{LIEUT35}{Lo vedremo, non credi?}
+{208}{lieut35a}{Per quanto strano possa sembrare, sono convinto che tu non abbia intenzione di dirmelo. Saremo costretti a correggere un simile atteggiamento!}
+{209}{LIEUT36}{Adesso ti senti meglio? Dal momento che la tortura e' una pratica cosi' grossolana, seppur stranamente soddisfacente ed efficace, te lo chiedero' gentilmente un'altra volta. Dove... si... trova... il... Vault!}
+{210}{}{Non. Te. Lo. Diro'.}
+{211}{}{Hai vinto. Si trova oltre le montagne ad est. Vi disegnero' una mappa.}
+{212}{LIEUT37}{Speravo proprio che l'avresti detto.}
+{213}{LIEUT37b}{Com'e' stato? Hai piu'... voglia di parlare, adesso? Dov'eravamo rimasti? Oh, certo... il Vault.}
+{214}{}{E'... e'... nei tuoi sogni.}
+{215}{}{Hai vinto. Si trova oltre le montagne ad est. Vi disegnero' una mappa.}
+{216}{LIEUT38}{Ah, mi sento molto meglio. E tu? Adesso fa' il bravo umano e dimmi dove si trova il tuo Vault. La cosa si sta facendo assai tediosa.}
+{217}{}{Va' all'inferno.}
+{218}{}{Te lo diro'! Ma non farmi piu' del male!}
+{219}{}{Ammiro sinceramente la tua forza di volonta'. Guardie, riportatelo nella sua cella e preparatelo per l'immersione. Ci dira' dove si trova il suo Vault quando sara' uno di noi.}
+{220}{}{Se sei cosi' sicuro che te lo diro' dopo l'immersione, perche' ti sei preso tutto questo disturbo?}
+{221}{LIEUT39a}{Beh, vedi, c'e' un minuscolo effetto collaterale. A volte, non sempre, la memoria del soggetto risulta, uhm... come posso dire? Risulta interrotta dall'immersione. C'e' quindi una possibilita' minima che tu dimentichi la posizione.}
+{222}{}{Quindi non potete permettervi di immergermi.}
+{223}{}{Mi sa che siamo entrambi fregati.}
+{224}{LIEUT39b}{Sfortunatamente, a questo punto sono costretto a correre il rischio. Quell'informazione mi serve.}
+{225}{}{Te lo diro'.}
+{226}{}{Farai meglio a sperare che mi dimentichi tutto. Perche' se mi ricordo qualcosa di quello che mi hai fatto, ti assicuro che ti apriro' il culo in quattro.}
+{227}{LIEUT40}{Eccellente. Credo che tu abbia capito. Quindi sei sicuro di volermi dire dove si trova il Vault? La tortura puo' essere cosi' divertente.}
+{228}{}{Si', sono sicuro.}
+{229}{}{Ora che me lo fai notare, no.}
+{230}{}{Posso farti qualche domanda, prima?}
+{231}{LIEUT40a}{Speravo che la pensassi come me. Nessun ripensamento?}
+{232}{}{Diro' tutto quanto.}
+{233}{}{Si', ho cambiato idea e non ve lo diro' mai.}
+{234}{}{Posso farti qualche domanda, prima?}
+{235}{LIEUT41}{Oh, ma e' magnifico. Vedi, ho seriamente dubitato dei miei sottoposti quando mi hanno riferito della cattura di un umano puro. E' un vero piacere vederti.}
+{236}{}{Va' all'inferno.}
+{237}{}{Che cosa vuoi da me?}
+{238}{}{Duh!}
+{239}{LIEUT42}{Non te la cavi male con le parole, eh? E le tue parole sono tutto cio' che vogliamo, prima di...}
+{240}{}{"Prima di" cosa?}
+{241}{}{Non riuscirete a cavarmi una virgola!}
+{242}{LIEUT43}{Prima di diventare uno di noi, naturalmente! Non posso certo avere tra le mani un umano puro in splendide condizioni e non mutarlo in uno dei Prescelti, non trovi? Questo dopo che mi avrai detto dove si trova il tuo Vault.}
+{243}{}{Dirtelo? Mi fai quasi ridere.}
+{244}{}{Ad una condizione.}
+{245}{LIEUT44}{Oh, molto lodevole. Basta sciocchezze. Dove si trova il tuo Vault?}
+{246}{}{Non te lo diro'.}
+{247}{}{Beh... ad una condizione.}
+{248}{LIEUT45f}{Beh, sono decisamente impressionato. Le mie spie mi avevano riferito quanto piena di risorse tu fossi, ma pare che abbiano sottovalutato le tue capacita'. Guardie, catturatela!}
+{249}{LIEUT46}{Ahh, hai dormito bene? Spero di si'. Ma e' giunto il momento di venire al dunque.}
+{250}{}{Va' all'inferno.}
+{251}{}{Cosa vuoi da me?}
+{252}{LIEUT48}{La mia mente vacilla di fronte al tuo intelletto superiore. Non capiro' mai per quale motivo le mie legioni non si siano prostrate immediatamente ai tuoi piedi. Guardie, portate via quest'idiota!}
+{253}{LIEUT50}{Come ho detto...}
+{254}{lieut51}{Come ho detto prima...}
+{255}{LIEUT52}{Sei pregato di prestare attenzione, questa volta. Ho detto...}
+{256}{lieut53}{Ti ho gia' detto...}
+{257}{LIEUT54}{Sai, mi ricordi uno scarafaggio che avevo un tempo. Lo schiacciai perche' ero stanco dei suoi continui rumori. Tienilo a mente.}
+{258}{LIEUT55}{Sei un umano davvero noioso, sai? Non mi ripetero' un'altra volta.}
+{259}{LIEUT56}{L'Unita' e' lo scopo di tutti i Super Mutanti. Grazie al virus FEV uniremo nella pace l'intera umanita'.}
+{260}{LIEUT57}{Il virus FEV fu scoperto dal Master molti anni fa. E' il FEV a creare noi, i Prescelti. Ma lo imparerai presto, te lo assicuro.}
+{261}{LIEUT58}{Il Master e' come un padre per tutti noi.}
+{262}{LIEUT59}{Nient'altro che uno strumento per favorire i nostri piani. Presto tutti gli umani saranno Prescelti... o morti.}
+{263}{LIEUT60}{Le Vasche sono il luogo dove il FEV e' conservato e dove voi umani diventate come noi. Certo, alcuni muoiono di una morte orribile e atrocemente dolorosa, ma, che diamine, questo e' il prezzo da pagare.}
+{264}{LIEUT61}{Sono umani che non sono stati esposti alle radiazioni. Solitamente si comportano meglio nelle Vasche, rispetto agli altri. Tu ne sei un perfetto esempio.}
+{265}{LIEUT62}{Furono costruiti prima della guerra. Sono anche la nostra principale fonte di umani puri.}
+{266}{LIEUT63}{Morpheus. E' invero divertente. Crede di essere qualcuno, mentre non e' altro che un verme reclutato dal Master per guidare quest'idiozia dei Figli della Cattedrale. Pazienza. Anche lui, presto, sara' immerso nelle Vasche e probabilmente morira' di una morte orribile... o almeno spero.}
+{267}{LIEUT64}{Non ha importanza, al momento.}
+{268}{LIEUT65}{La domanda e' irrilevante per l'Unita'.}
+{269}{LIEUT66}{Non ti degno neanche di una risposta.}
+{270}{LIEUT45m}{Beh, sono decisamente impressionato. Le mie spie mi avevano riferito quanto pieno di risorse tu fossi, ma pare che abbiano sottovalutato le tue capacita'. Guardie, catturatelo!}
+{271}{LIEUT39f}{Oh, ammiro sinceramente la tua volonta'. Guardie, portatela via e preparatela per l'immersione. Ci dira' dove si trova il suo Vault quando sara' una di noi.}
+{272}{LIEUT39m}{Oh, ammiro sinceramente la tua volonta'. Guardie, portatelo via e preparatelo per l'immersione. Ci dira' dove si trova il suo Vault quando sara' uno di noi.}
+
+
+# Lieutenant Tell-Me-Abouts generic responses
+{980}{LIEUT64}{Non ha importanza, al momento.}
+{981}{LIEUT65}{La domanda e' irrilevante per l'Unita'.}
+{982}{LIEUT66}{Non ti degno neanche di una risposta.}
+
+#
+# Lieutenant Tell-Me-Abouts
+#
+
+
+{1000}{}{Unita'}
+{1001}{}{FEV}
+{1002}{}{Master}
+{1003}{}{Cattedrale}
+{1004}{}{Vasche}
+{1005}{}{Umani}
+{1006}{}{Vault}
+{1007}{}{Morpheus}
+{1008}{}{Virus}
+
+{1100}{LIEUT56}{L'Unita' e' lo scopo di tutti i Super Mutanti. Grazie al virus FEV uniremo nella pace l'intera umanita'.}
+{1101}{LIEUT57}{Il virus FEV fu scoperto dal Master molti anni fa. E' il FEV a creare noi, i Prescelti. Ma lo imparerai presto, te lo assicuro.}
+{1102}{LIEUT58}{Il Master e' come un padre per tutti noi.}
+{1103}{LIEUT59}{Nient'altro che uno strumento per favorire i nostri piani. Presto tutti gli umani saranno Prescelti... o morti.}
+{1104}{LIEUT60}{Le Vasche sono il luogo dove il FEV e' conservato e dove voi umani diventate come noi. Certo, alcuni muoiono di una morte orribile e atrocemente dolorosa, ma, che diamine, questo e' il prezzo da pagare.}
+{1105}{LIEUT61}{Sono umani che non sono stati esposti alle radiazioni. Solitamente si comportano meglio nella Vasche, rispetto agli altri. Tu sei un perfetto esempio.}
+{1106}{LIEUT62}{Furono costruiti prima della guerra. Sono anche la nostra principale fonte di umani puri.}
+{1107}{LIEUT63}{Morpheus. E' invero divertente. Crede di essere qualcuno, mentre non e' altro che un verme reclutato dal Master per guidare quest'idiozia dei Figli della Cattedrale. Pazienza. Anche lui, presto, sara' immerso nelle Vasche e probabilmente morira' di una morte orribile... o almeno spero.}
+{1108}{LIEUT57}{Il virus FEV fu scoperto dal Master molti anni fa. E' il FEV a creare noi, i Prescelti. Ma lo imparerai presto, te lo assicuro.}
+
+{1109}{LIEUT65}{La domanda e' irrilevante per l'Unita'.}
+{1110}{LIEUT66}{Non ti degno neanche di una risposta.}
+{1111}{lieut45m}{Beh, sono decisamente impressionato. Le mie spie mi avevano riferito quanto pieno di risorse tu fossi, ma pare che abbiano sottovalutato le tue capacita'. Guardie, catturatelo!}
+{1112}{lieut39f}{Oh, ammiro sinceramente la tua volonta'. Guardie, portatela via e preparatela per l'immersione. Ci dira' dove si trova il suo Vault quando sara' una di noi.}
+{1113}{lieut39m}{Oh, ammiro sinceramente la tua volonta'. Guardie, portatelo via e preparatela per l'immersione. Ci dira' dove si trova il suo Vault quando sara' uno di noi.}

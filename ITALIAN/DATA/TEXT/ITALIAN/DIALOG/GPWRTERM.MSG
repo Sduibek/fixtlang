@@ -1,0 +1,97 @@
+{100}{}{Sistema = Energia Principale: OFF-LINE -- Energia Ausiliaria: ON-LINE}
+{101}{}{Gestione Energia}
+{102}{}{G*st**n* *n*rg**}
+{103}{}{Esci}
+{104}{}{Gestione Generatori}
+{105}{}{Energia Principale}
+{106}{}{Energia Ausiliaria}
+{107}{}{INDIETRO}
+{108}{}{Gestione Energia Principale: OFF-LINE}
+{109}{}{Riattivare Energia Principale}
+{110}{}{INDIETRO}
+{111}{}{Gestione Energia Principale: ERRORE! ERRORE! ERRORE! Attivazione Energia Principale Fallita}
+{112}{}{Diagnosi}
+{113}{}{INDIETRO}
+{114}{}{Malfunzionamento: Generatore Livello 6 - Ritorno di Feed = 0: Non funzionante. Necessarie Riparazioni}
+{115}{}{INDIETRO}
+{116}{}{Gestione Energia Ausiliaria: ON-LINE}
+{117}{}{Disattivare Energia Ausiliaria}
+{118}{}{INDIETRO}
+{119}{}{Sistema = Energia Principale: ON-LINE -- Energia Ausiliaria: STANDBY}
+{120}{}{Gestione Energia}
+{121}{}{Esci}
+{122}{}{Gestione Energia Principale: ON-LINE}
+{123}{}{Disattivare Energia Principale}
+{124}{}{INDIETRO}
+{125}{}{Sistema = Energia Principale: ON-LINE}
+{126}{}{D*s*tt*v*r* *n*rg** Pr*nc*p*l*}
+{127}{}{Disattivare Energia Principale}
+{128}{}{Esci}
+{129}{}{G*st**n* *n*rg**}
+{130}{}{*n*rg** Pr*nc*p*l*}
+{131}{}{*n*rg** **s*l**r**}
+{132}{}{INDIETRO}
+{133}{}{G*st**n* *n*rg** Pr*nc*p*l*}
+{134}{}{R**tt*v*r* *n*rg** Pr*nc*p*l*}
+{135}{}{INDIETRO}
+{136}{}{G*st**n* *n*rg** Pr*nc*p*l*: *RR*R*! *RR*R*! *RR*R*! G*n*r*t*r* d*nn*gg**t*}
+{137}{}{INDIETRO}
+{138}{}{G*st**n* *n*rg** **s*l**r**: *N-L*N*}
+{139}{}{Sistema = Energia Principale: OFF-LINE -- Energia Ausiliaria: OFF-LINE}
+{140}{}{Attivare Energia Ausiliaria}
+{141}{}{*n*rg** Pr*nc*p*l* - D**gn*s*}
+{142}{}{V*l*t*z**n* *n*erg** Pr*nc*p*l*}
+{143}{}{*tt*v*r* *n*rg** **s*l**r**}
+{144}{}{G*st**n* *n*rg**} //r*s*rc*
+{145}{}{Esci}
+{146}{}{*rr*r* d* S*st*m*! *t*nt* n*n **t*r*zz*t*. R*v*lg*rs* *ll'*mm*n*str*t*r*. S*st*m* bl*cc*t*.}
+{147}{}{Esci}
+{148}{}{D*s*tt*v*r* *n*rg** **s*l**r**}
+
+{200}{}{Accesso al Mainframe.}
+{201}{}{Accesso negato. Interruzione input in corso...}
+{202}{}{Accesso concesso.}
+{203}{}{Menu Principale}
+{204}{}{Esci dal Mainframe}
+{205}{}{Terminare Programma}
+{206}{}{Selezionare Opzione}
+{207}{}{Informazioni sulla Base}
+{208}{}{Informazioni sulla Sicurezza}
+{209}{}{Informazioni sulla Ricerca}
+{210}{}{Termine Energia}
+{211}{}{Laboratorio di Ricerca West Tech: Fondata nel 2002 come fornitore privato per il governo degli Stati Uniti, la compagnia comprende inizialmente due divisioni -- quella dedicata alla Ricerca di Armi Avanzate e quella per le Scienze Biomediche.}
+{241}{}{ Nel 2069, la West Tech diventa il piu' grande fornitore del governo degli Stati Uniti; il suo prodotto di punta e' l'Armatura Motorizzata Modello T-51b. }
+{242}{}{ Alla luce dei significativi progressi nella creazione di un Virione di Panimmunita' ottenuti nel 2076 dalla NBC, il Dipartimento della Difesa degli Stati Uniti, temendo lo spionaggio internazionale,}
+{243}{}{ assegna al complesso una divisione armata per garantire e supervisionare la buona riuscita del progetto, rinominato Progetto FEV (Virus per l'Evoluzione Forzata).}
+{212}{}{Sicurezza: Robot Sentinella = Attivi}
+{213}{}{Sicurezza: Robot Sentinella = Non Attivi}
+{214}{}{Disattivare Robot Sentinella}
+{215}{}{Attivare Robot Sentinella}
+{216}{}{Ricerca: Laboratorio di Ricerca West Tech - Progetti Recenti}
+{217}{}{Ricerca: Informazioni sul personale della Divisione Scientifica}
+{218}{}{Power Armor. Stato: completo}
+{219}{}{FEV (Virus per l'Evoluzione Forzata). Stato: in corso }
+{220}{}{Dati sul Personale}
+{221}{}{Robert Anderson -- Assistente Ricercatore -- Livello di Sicurezza: Blu -- Assegnato a: Base Militare di Mariposa}
+{222}{}{Nick Davis -- Direttore della Divisione NBC -- Livello di Sicurezza: Blu -- Assegnato a: Laboratorio di Ricerca West Tech}
+{223}{}{John Isaac -- Assistente Ricercatore -- Livello di Sicurezza: Rosso -- Assegnato a: Laboratorio di Ricerca West Tech}
+{224}{}{Steve Remco -- Assistente Ricercatore -- Livello di Sicurezza: Blu -- Assegnato a: Base Militare di Mariposa}
+{225}{}{Charles Rignhold -- Capo Ricerca Sviluppo Laser -- Livello di Sicurezza: Blu -- Assegnato a: Laboratorio di Ricerca West Tech}
+{226}{}{Michele Santose -- Tecnico di Laboratorio -- Livello di Sicurezza: Rosso -- Assegnato a: Laboratorio di Ricerca West Tech}
+{227}{}{Erin Shellman -- Tecnico di Laboratorio -- Livello di Sicurezza: Blu -- Assegnata a: Base Militare di Mariposa}
+{228}{}{Leon VonFelden -- Capo Ricerca FEV -- Livello di Sicurezza: Blu -- Assegnato a: Base Militare di Mariposa}
+{229}{}{Scaricare dati nel PIPBoy}
+{230}{}{INDIETRO}
+{231}{}{Power Armor - Caratteristiche: L'Armatura Motorizzata T-51b (Power Armor) nasce da un progetto basato sulle ultime ricerche riguardanti la difesa passiva in ambiti civili e militari.}
+{250}{}{ Il Generatore TX-28 a MicroFusione, montato sulla schiena, invia 60Kw al sistema idraulico HiFlo incluso nell'armatura.}
+{251}{}{ Costruita con i piu' moderni composti di polilaminato, la corazza della T-51b e' leggera e in grado di assorbire piu' di 2500 Joule di impatto cinetico.}
+{252}{}{ Il rivestimento esterno d'argento da 10 micron puo' riflettere laser e radiazioni senza danni per la corazza sottostante.}
+{232}{}{FEV - Cronologia: 2073. Visto l'aumento significativo dell'uso di armi chimiche da parte della Cina, il Governo degli Stati Uniti ritenne necessario prendere provvedimenti. Il Progetto "Virione di Panimmunita'" (PVP) fu varato ufficialmente il 15 settembre 2073.}
+{233}{}{ 2075. Fu presto chiaro come il modo migliore per combattere le piu' recenti armi biologiche fosse quello di modificare il DNA sano per renderlo immune contro le infezioni virali standard.}
+{234}{}{ 2076. Nei primi mesi del 2076 si registrarono i primi effetti imprevisti. Le cavie animali cominciarono a mostrare un tasso di crescita anomalo, accompagnato dall'aumento dell'attivita' cerebrale. }
+{235}{}{ Il governo USA prese nota di queste scoperte e, nell'interesse della sicurezza nazionale, pose una guarnigione a guardia del progetto, rinominato Progetto FEV (Virus per l'Evoluzione Forzata).}
+{236}{}{ 2077. Il FEV e' prossimo al completamento. I test sulle cavie hanno successo in quasi il 100% dei casi. I muscoli aumentano, per dimensioni e densita', di circa il 60%; l'aumento dell'intelligenza e' stimabile al 200%.}
+{237}{}{ Non si conoscono ancora gli effetti sugli esseri umani, sebbene siano teoricamente promettenti.}
+{238}{}{ L'esercito, per permettere altri test, costruisce una grande struttura nella base militare di Mariposa, nella California Centrale. In questo nuovo laboratorio, i test sul FEV continuano su volontari dell'esercito.}
+{239}{}{Comando Ricevuto. . . . . . . Comando Eseguito}
+{240}{}{Accesso negato}

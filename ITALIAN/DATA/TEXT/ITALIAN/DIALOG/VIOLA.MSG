@@ -1,0 +1,209 @@
+{100}{}{Vedi una donna.}
+{101}{}{Non desidero morire, signore. Non sono un soldato.} //-00
+{102}{}{Non desidero morire, signora. Non sono un soldato.} //-00
+{103}{}{Inizia a parlare e ti lascero' vivere.} //9 
+{104}{}{Nemmeno io. Uccido solo quando sono costretto.} //10
+{105}{}{Come mai adesso non lodi il tuo Master, eh?} //11
+{106}{}{Ti faro' salva la vita in cambio di un bel bicchiere di quello buono. Dove tenete le vostre scorte?} //12
+{107}{}{Buona notte, troia!} //combat
+{108}{}{Me Grande Soldato! Hah! Hah! Hah!} //combat
+{109}{}{Sono felice che tu sia venuto a parlare con me. Ho sentito quello che hai detto a Laura. Non devi farlo.} //-01
+{110}{}{Che cosa pensi che stia per fare?} //13
+{111}{}{Laura? Chi e' Laura?} //14
+{112}{}{Oh, oh. Ma cosa ne sai tu?} //23
+{113}{}{Oh, grosso errore! Ti costera' caro.} //combat
+{114}{}{Cha parl? Raar!} //end
+{115}{}{Credo che ci siamo detti tutto quello che c'era da dire. Addio.} //-02
+{116}{}{Non parlo con le persone che girano con un'arma in mano. Mettila via e poi potremo parlare.} //-03
+{117}{}{Bentornato. Spero che questo sacro luogo abbia acceso il tuo interesse.} //-04
+{118}{}{Ho visto forme migliori di divertimento.} //15
+{119}{}{Ma certo, sorella. Lode al Master! Lode alla Sacra Fiamma!} //16
+{120}{}{Sai, ogni volta che parlo con qualcuno, qui dentro, sento sempre le stesse cose ripetute piu' e piu' volte.} //17
+{121}{}{E il divertimento dove sta? Dove tenete le bottiglie di quello buono?} //18
+{122}{}{Questo posto e' noioso! Dov'e' il sangue? Dov'e' la morte?} //19
+{123}{}{Salve, iniziato. Come posso servirti?} //-05
+{124}{}{Sono un po' nervoso... sai, per i nostri piani a lungo termine.} //5a
+{125}{}{Cosa succede esattamente, qui dentro?} //46
+{126}{}{Dov'e' il Master?} //47
+{127}{}{Chi e' che comanda qui?} //48
+{128}{}{Non me la dai a bere, sorella. Nessuno serve un'altra persona se quest'ultima non gli punta una pistola alla tempia!} //49
+{129}{}{Salve, signore. La tua reputazione ti precede! C'e' qualcosa che posso fare per te?} //-06
+{130}{}{Salve, signora. La tua reputazione ti precede! C'e' qualcosa che posso fare per te?} //-06
+{131}{}{Mi stavo chiedendo quale fosse il fine dei Figli della Cattedrale.} //6a
+{132}{}{Come si fa a diventare iniziati?} //52
+{133}{}{Dov'e' il Master?} //47
+{134}{}{Chi e' che comanda qui?} //48
+{135}{}{Non me la dai a bere, sorella. Nessuno serve un'altra persona se quest'ultima non gli punta una pistola alla tempia!} //49
+{136}{}{Salve, signore. La tua reputazione ti precede! C'e' qualcosa che posso fare per te?} //-07
+{137}{}{Salve, signora. La tua reputazione ti precede! C'e' qualcosa che posso fare per te?} //-07
+{138}{}{Mi stavo chiedendo quale fosse il fine dei Figli della Cattedrale.} //7a
+{139}{}{Come si fa a diventare iniziati?}
+{140}{}{Dov'e' il Master?}
+{141}{}{Chi e' che comanda qui?}
+{142}{}{Non me la dai a bere, sorella. Nessuno serve un'altra persona se quest'ultima non gli punta una pistola alla tempia!}
+{143}{}{So chi sei. E, perdona la mia franchezza, io non parlo con i killer psicopatici. Addio.} //-08
+{144}{}{La mia reputazione e' stata gonfiata dal passaparola. Non mi dirai che la Cattedrale giudica le persone dalle voci e dalle dicerie?} //8a
+{145}{}{Killer psicopatico? Chi? Io?} //55
+{146}{}{Baby, non sono psicopatico, sono semplicemente pazzo... e se non rispondi alle mie domande, te lo dimostrero'!} //40
+{147}{}{Non stringo facilmente legami di fedelta'. E nemmeno li rompo, facilmente. Non ti diro' nulla.} //-09
+{148}{}{Bene. Allora ci lasceremo in pace a vicenda e saremo pari.} //-10
+{149}{}{Lodare il Master non mi salvera' la vita. Forza, fallo. Non posso fare nulla per fermarti.} //-11
+{150}{}{Dev'esserci una distilleria, da qualche parte, ma non nella Cattedrale. Qui dentro non sono permessi ne' droghe ne' alcolici.} //-12
+{151}{}{Cercherai di rubare a Morpheus la chiave per il passaggio segreto in modo tale da raggiungere e uccidere il Master.} //-13
+{152}{}{E perche' non dovrei farlo?} //20
+{153}{}{Non ho la piu' pallida idea di cosa tu stia parlando.} //21
+{154}{}{E perche' dovrei farlo?} //22
+{155}{}{E sai anche che fine fanno quelli che sanno troppo?} //23
+{156}{}{La spia dei Discepoli dell'Apocalisse che adesso si trova in una delle stanze dell'infermeria.} //-14
+{157}{}{C'e' una spia? Dobbiamo informare immediatamente il Gran Sacerdote!} //16
+{158}{}{Non ho idea di cosa tu stia parlando.} //21
+{159}{}{E perche' te la prendi con me?} //22
+{160}{}{E sai anche che fine fanno quelli che sanno troppo?} //23
+{161}{}{Questo sacro luogo non e' fatto per divertirsi, ma per raggiungere l'illuminazione. E, cosa piu' importante, qui si prendono le giuste decisioni per il bene del mondo. Non ho altro da aggiungere.} //-15
+{162}{}{Burlarti di Poteri enormemente piu' grandi di te non ti portera' lontano.} //-16
+{163}{}{Le nostre menti sono in costante contatto con il Master. E' normale che chi non condivide questo dono non riesca a comprendere la profondita' dei nostri discorsi. Ora, se vuoi scusarmi...} //-17
+{164}{}{Le persone che hanno dentro lo spirito della Sacra Fiamma non hanno bisogno di altro spirito. O almeno cosi' dicono...} //-18
+{165}{}{Di sopra. Chiedi ai Nightkin di versare il tuo sangue. Saranno felicissimi di accontentarti.} //-19
+{166}{}{Perche' il Master e' un male necessario. Perche' qualcuno *deve* riunire il mondo, ed Egli e' l'unico ad avere la possibilita' di farlo.} //-20
+{167}{}{Qualcuno ti ha mai detto che l'Unita' e' sopravvalutata?} //24
+{168}{}{Perche'?} //24
+{169}{}{Io non credo nei mali necessari.} //25
+{170}{}{A me il mondo piace cosi' com'e'.} //26
+{171}{}{Non credo che questa conversazione sia di mio gradimento.} //27
+{172}{}{Molto bene. Se non hai intenzione di riconoscere quello che hai detto, non ti aiutero'. Addio.} //-21
+{173}{}{Perche' pensi che sia sbagliato che i Figli della Cattedrale invadano i loro vicini. Perche' pensi che uccidere il Master fermera' tutto questo.} //-22
+{174}{}{Mettiamo caso che io la pensi cosi'... in cosa sbaglierei?} //41
+{175}{}{E' una bestemmia!} //21
+{176}{}{Se pensi che io creda questo, perche' non mi hai fermato?} //42
+{177}{}{Ti sembro forse una persona che si fa problemi ad uccidere qualcuno?} //43
+{178}{}{E tu sai che fine fanno quelli che si montano troppo la testa? Nessuno, per quanto ben armato e addestrato, puo' sconfiggere una mezza dozzina di Nightkin. Sono una donna di pace. Sto cercando di salvarti.} //-23
+{179}{}{Pensa alle persone che hanno causato l'Apocalisse! Essi non credevano nella pace e nell'Unita': guarda cosa ci hanno fatto! L'Unita' e' l'unica via che abbiamo per impedire che un simile disastro si verifichi di nuovo. E l'Unita' deve avvenire ORA, prima che gli altri Vault in giro per il mondo abbiano la possibilita' di raccogliere le loro forze.} //-24
+{180}{}{Mi sembri un po' troppo intelligente per stare insieme a questa manica di zombie.} //28
+{181}{}{Vuoi che tutti si comportino come le persone in questa stanza? Ma e' peggio che essere morti!} //29
+{182}{}{Sei pazza! Una cosa del genere ci porterebbe soltanto ad un'altra Apocalisse.} //30
+{183}{}{E perche' il Master sarebbe il piu' adatto a guidarci?} //31
+{184}{}{Non hai mai strappato la vita a qualcuno? Non ti porti forse dietro un arsenale che farebbe invidia alla Confraternita d'Acciaio? Piantala di essere cosi' ipocrita! Tu pensi che l'autodifesa sia giustificabile. Beh, il Master sta difendendo l'umanita' dai suoi stessi istinti autodistruttivi. E' la stessa identica cosa!} //-25
+{185}{}{Come fai a sapere che la' fuori non c'e' nessuno meglio del Master?} //31
+{186}{}{Forse dovrei prendere in considerazione questa possibilita'.} //32
+{187}{}{E cosi' lo sterminio di massa va bene, se il fine e' la salvezza del mondo?} //33
+{188}{}{Queste sono soltanto stronzate, madame!} //34
+{189}{}{Che diavolo di mondo credi che sia, questo? E' un incubo senza risveglio!} //-26
+{190}{}{Come fai a sapere che la' fuori non c'e' nessuno meglio del Master?} //35
+{191}{}{Forse dovrei prendere in considerazione questa possibilita'.} //32
+{192}{}{E' un mondo dove posso essere libero di vivere la MIA vita come voglio IO.} //36
+{193}{}{Vivere non e' facile, sorella. Non lo e' mai stato, ne' mai lo sara'.} //37
+{194}{}{Credi che io sia una fanatica? Che mi piaccia tutto quello che succede qui dentro? Falso. Non mi piacciono le radiazioni e il virus FEV, ma non avevo altra scelta. In questo mondo non sempre si puo' ottenere cio' che si vuole. A volte bisogna fare dei compromessi. E a volte bisogna aprire la propria mente ad idee spiacevoli.} //-27
+{195}{}{Buffo. Non mi pare che il Master permetta al suo gregge di farlo.} //29
+{196}{}{Ci sono i compromessi e c'e' il genocidio. Sono due cose ben diverse!} //38
+{197}{}{Sparisci dalla mia vista!} //39
+{198}{}{L'unica scelta che mi interessa adesso e' per quanto tempo ancora ti permettero' di vivere.} //40
+{199}{}{Forse sono cosi' intelligente che quando il Master otterra' il potere, io saro' in grado di fare qualcosa per aiutarlo. E forse potresti farlo anche tu! Unisciti a noi! Unisciti a noi e cambia il mondo! Pensaci: e' tutto quel che ti chiedo!} //-28
+{200}{}{Gli schiavi sono sempre esistiti, in ogni societa'. Dimenticati di loro! Gli schiavi ci servono, ma ci servono anche i soldati e le regine. E tu mi sembri un buon soldato, come minimo. Pensa a quello che potresti fare; potresti essere molto utile per la nostra causa. Aiutaci. Pensaci: e' tutto quel che ti chiedo!} //-29
+{201}{}{E' per questo che dovremo sconfiggere i nostri nemici prima che abbiano il tempo di organizzarsi. La cosa migliore sarebbe riuscire a conquistare tutti gli altri Vault e le citta' con un singolo, rapido colpo. Un mondo unificato non sara' perfetto, ma avremo maggiori possibilita' di evitare la sua rovina. Pensaci!} //-30
+{202}{}{Ho osservato gli abitanti di questa zona. La Confraternita d'Acciaio e i Discepoli dell'Apocalisse vogliono soltanto essere lasciati in pace. Quelli dell'Hub pensano di poter comprare il mondo - sono tutti dei pazzi! Solo il Master ha la forza per fare quel che dev'essere fatto. Pensaci!} //-31
+{203}{}{Sono felice di saperlo. Spero che tu giunga alla giusta decisione.} //-32
+{204}{}{Ammetto che a prima vista potrebbe sembrare un percorso sbagliato. Ma e' l'unica soluzione che potrebbe permetterci di salvarci sul lungo termine. Ed e' questo che mi ha spinto ad unirmi a queste persone. Non c'e' una via migliore! Pensaci!} //-33
+{205}{}{Si'? Pensaci. Pensaci molto attentamente. Se continui ad opporti a noi, morirai. Hai visto i nostri soldati e sai che ce ne sono altri. Moltissimi altri! Non puoi fermarci! Ma se ti unisci a noi, potrai salvare molte vite. Pensaci!} //-34
+{206}{}{Non lo so. Ma se trovassi un simile individuo, sarei in prima fila per aiutarlo. Nessuno degli abitanti di questa zona ha la minima possibilita' di fare cio' che il Master puo' fare. Presto saranno tutti morti... o convertiti, se saranno fortunati. Tu puoi essere uno di questi fortunati. Unisciti a noi. Pensaci!} //-35
+{207}{}{Il mondo non rimarra' sempre cosi'. Non accade mai. E se continuassimo a rimanere divisi in comunita' ristrette, una di queste diverrebbe presto abbastanza forte da dar vita ad una nuova Apocalisse. Unisciti a noi e unifica il mondo prima che questo accada! Pensaci!} //-36
+{208}{}{E questa e' solo una scusa da codardi che non risolve nulla. Se la vita fa schifo, noi dovremmo cercare di cambiarla. Lo dobbiamo a noi stessi e ai nostri figli. Pensi che il mondo rimarra' lo stesso, quando ci divideremo in centinaia di fazioni bellicose? Pensaci!} //-37
+{209}{}{O forse c'e' la salvezza mascherata da genocidio. Forse il mondo non sarebbe cosi' brutto se tutti lavorassero per realizzare la visione del Master. Forse riusciremmo persino a trovare un modo per farlo senza spargimenti di sangue. Pensaci!} //-38
+{210}{}{Benissimo. Ma se continui per questa strada, morirai. Volevo soltanto che tu lo sapessi.} //-39
+{211}{}{Puoi uccidermi. Cosi' confermeresti la mia opinione, naturalmente, anche se questo non mi salverebbe la vita. La scelta spetta a te.} //-40 
+{212}{}{Hai dimenticato l'Apocalisse? Guarda come ci ha ridotti! L'Unita' e' l'unica soluzione per evitare che cio' accada di nuovo. E l'Unita' deve esserci ORA, prima che gli altri Vault in giro per il mondo abbiano la possibilita' di riorganizzare le loro forze.} //-41
+{213}{}{Mi sembri un po' troppo intelligente per stare in mezzo a questo branco di zombie.} //28
+{214}{}{Vuoi che tutti si comportino come le persone in questa stanza? Ma e' peggio che essere morti!} //29
+{215}{}{Ci pensero'.} //32
+{216}{}{Sei pazza! Questo ci portera' soltanto ad un'altra Apocalisse.} //30
+{217}{}{E perche' il Master sarebbe il piu' adatto a guidarci?} //31
+{218}{}{Non mi intendo di filosofia, signora. Sono soltanto una persona qualsiasi che e' brava ad uccidere gli altri.} //43
+{219}{}{Perche' sei una persona intelligente e coraggiosa. Potresti esserci di grande aiuto. Si', alcune cose che noi facciamo sono orribili. Ma il nostro fine ultimo non e' solo buono, ma e' anche necessario per la sopravvivenza della razza umana. Non essere cosi' frettoloso nella tua volonta' di aiutare i Discepoli dell'Apocalisse. Loro non hanno tutte le risposte!} //-42
+{220}{}{Mi sembri un po' troppo intelligente per stare in mezzo a questo branco di zombie.}
+{221}{}{Vuoi che tutti si comportino come le persone in questa stanza? Ma e' peggio che essere morti!}
+{222}{}{Ci pensero'.}
+{223}{}{Sei pazza! Questo ci portera' soltanto ad un'altra Apocalisse.}
+{224}{}{E perche' il Master sarebbe il piu' adatto a guidarci?}
+{225}{}{Non m'intendo di filosofia, signora. Sono soltanto una persona qualsiasi che e' brava ad uccidere gli altri.}
+{226}{}{Abbiamo tutti il nostro ruolo. Alcuni di noi sono solo schiavi senza cervello che fanno il lavoro pensato per la gente stupida. Alcuni di noi sono pensatori. Altri assassini. Se lo vuoi, tra noi c'e' un posto anche per te. Ti prego, pensaci!} //-43
+{227}{}{Tutto e' gia' scritto. La Sacra Fiamma venne per prima e purifico' il mondo dal male. Poi venne il Master. Adesso viene il tempo dell'Unita', nel quale noi lottiamo per vincere le divisioni del mondo. Dopo l'Unita' verra' la Pace. L'Eta' della Pace e' il fine di tutti i nostri sforzi.} //-44
+{228}{}{Perche' devono morire cosi' tante persone per ottenere la pace?} //56
+{229}{}{Direi che e' meraviglioso. Lode al Master!} //16
+{230}{}{Ma il fuoco dell'Apocalisse non era malvagio?} //57
+{231}{}{A me sembrano soltanto un mucchio di stronzate.} //49
+{232}{}{E' giusto che tu lo sia. Essere nervosi e' una sensazione saggia: ci evita di ficcare il naso in posti spiacevoli e ci impedisce di fare cose stupide. Arrivederci.} //-45
+{233}{}{Gli iniziati cercano risposte alle loro domande. Ed e' quello che dovresti fare anche tu. Arrivederci.} //-46
+{234}{}{Non lo so. La gente crede che il suo spirito riposi tra queste mura. Io credo che sia cosi'.} //-47
+{235}{}{E del suo corpo, cosa dice la gente?} //58
+{236}{}{E' una punta di scetticismo, quella che ho sentito?} //59
+{237}{}{Ma questo Master esiste davvero, o e' tutto un imbroglio?} //60
+{238}{}{Questa e' una risposta fastidiosamente vaga.} //61
+{239}{}{Grazie, sorella.} //62
+{240}{}{Il Gran Sacerdote della Cattedrale e' Morpheus. Si trova nel Santuario Superiore, ma non concede udienze private. Puoi provare a convincere Padre Lasher perche' ti introduca presso di lui. Lo trovi qui giu', nella Canonica.} //-48
+{241}{}{Morpheus? E' un brav'uomo?} //63
+{242}{}{Lasher? Uno strano nome...} //64
+{243}{}{E il Master?} //65
+{244}{}{C'e' altro che dovrei sapere?} //66
+{245}{}{Grazie, sorella.} //67
+{246}{}{Puoi cambiare idea. Oppure perdere la vita. Tutto dipende dalle tue azioni e dal tuo punto di vista. Arrivederci.} //-49
+{247}{}{Abbiamo interessi molto simili. Tu hai reso il mondo piu' sicuro sterminando mostri e briganti. Noi pensiamo di fare lo stesso, su scala piu' ampia.} //-50
+{248}{}{Che tipo di scala?} //68
+{249}{}{Chi sono i mostri e i briganti che pensate di sterminare?} //69
+{250}{}{Questo ha forse qualcosa a che fare con la Sacra Fiamma di cui sento parlare in continuazione?} //70
+{251}{}{Mi dispiace, signora, ma non credo a una sola parola di quello che dici.} //49
+{252}{}{Ma e' meraviglioso. Lode al Master! Lode alla Sacra Fiamma!} //16
+{253}{}{Pace, amore e Unita', naturalmente. Cos'altro potrebbe esserci? Ma potrai scoprire queste cose da te. Arrivederci.} //-51
+{254}{}{Dovresti passare alcune settimane con noi, digiunando e meditando. Solo in seguito potresti farti ricevere da uno degli Anziani. Oppure puoi offrirti volontario per i lavori di fatica.} //-52
+{255}{}{Ho notato che alcuni di voi si sono stabiliti in alcune citta' della zona...} //71
+{256}{}{A chi devo rivolgermi per il lavoro di volontariato?} //72
+{257}{}{Settimane! E' un'attesa piuttosto lunga.} //73
+{258}{}{A quale Anziano farei meglio a rivolgermi?} //74
+{259}{}{Lavori di fatica? Tipo uccidere i vostri nemici?} //75
+{260}{}{Devo farti le mie scuse. Forse la tua ricerca di perdono per i tuoi crimini e' sincera. Come posso aiutarti?} //-53
+{261}{}{Mi stavo chiedendo quale fosse il fine dei Figli della Cattedrale.} //53a
+{262}{}{Come si fa a diventare iniziati?} //52
+{263}{}{Dov'e' il Master?} //47
+{264}{}{Chi e' che comanda qui?} //48
+{265}{}{Non me la dai a bere, sorella. Nessuno serve un'altra persona se quest'ultima non gli punta una pistola alla tempia!} //49
+{266}{}{E' pericoloso permettere ad un cane rabbioso di entrare in casa propria solo perche' non gli si vede la saliva. Addio.} //-54
+{267}{}{E allora sei stato calunniato, dato che l'intero Boneyard racconta storie terribili sul tuo conto. E non ho alcun desiderio di scoprire se esse siano vere o meno. Addio.} //-55
+{268}{}{Ogni lotta comporta un prezzo da pagare, e la lotta piu' grande richiede inevitabilmente il prezzo piu' elevato. Tale e' il paradosso della pace, temo. Sono parole su cui ragionare, sicuramente. Arrivederci.} //-56
+{269}{}{E' un paradosso. Certamente lo era, ma i mali piu' grandi possono portare al bene piu' grande. Tutto cio' che serve e' l'intelligenza e il coraggio di chi sopravvive. Sono parole su cui ragionare, sicuramente. Arrivederci.} -//57
+{270}{}{Non dovremmo giudicare le persone dal loro aspetto fisico. Il fine del Master e' nobile, e questo e' tutto quel che mi serve sapere. Se ti interessa sapere cosa pensa la gente, chiedi a loro, non a me.} //-58
+{271}{}{Forse. La visione del Master e' cosi' ambiziosa e geniale che immagino si possano ignorare quei pochi punti oscuri che essa comprende. Se ti ho scoraggiato, ti porgo le mie scuse. Se cerchi consiglio, ti suggerisco di rivolgerti ad animi piu' arditi del mio. Arrivederci.} //-59
+{272}{}{Ma certo che il Master esiste! Perche' non dovrebbe? Noi facciamo molte cose, e di alcune non vado molto fiera, ma l'inganno non e' una di queste. La visione di Pace e Unita' che il Master propone e' reale. Arrivederci.} //-60
+{273}{}{Non c'e' nulla di vago in "Non lo so". Addio.} //-61
+{274}{}{Non c'e' nulla di vago in "Non lo so". Addio.} //-61
+{275}{}{Non c'e' di che, signore. Possa il Master concederti il dono della saggezza.} //-62
+{276}{}{Non c'e' di che, signora. Possa il Master concederti il dono della saggezza.} //-62
+{277}{}{E' un uomo intelligente e il Master si fida di lui. Questo dovrebbe bastare. Possa il Master concederti il dono della saggezza. Arrivederci.} //-63
+{278}{}{Educa i fanciulli e lo fa con durezza. C'e' altro?} //-64
+{279}{}{E Morpheus? E' un brav'uomo?} //63
+{280}{}{Perche' permettete che Padre Lasher picchi i bambini?} //76
+{281}{}{E il Master?} //65
+{282}{}{C'e' altro che dovrei sapere?} //66
+{283}{}{Grazie, sorella.} //67
+{284}{}{Non posso dirti altro che tu gia' non sappia. Ti porgo le mie scuse.} //-65
+{285}{}{Molte cose, ne sono certa. Ma queste risposte e' piu' facile trovarle da soli che non attraverso voci e dicerie.} //-66
+{286}{}{Non c'e' di che.} //-67
+{287}{}{Non c'e' di che.} //-67
+{288}{}{La piu' grande possibile. Il mondo e' in preda al caos. Ha bisogno di ordine, o non sopravvivera'. Noi porteremo quest'ordine e impediremo ai mostri di farci ancora del male, come fecero con l'Apocalisse. Sono parole su cui riflettere, sicuramente. Arrivederci.} //-68
+{289}{}{Sono quelli che antepongono i loro egoistici desideri al bene dell'umanita'. L'Apocalisse fu causata dall'egoismo della razza umana. Se vogliamo che il mondo sopravviva, questa follia dev'essere sradicata dall'animo degli uomini. Sono parole su cui riflettere, sicuramente. Arrivederci.} //-69
+{290}{}{}
+{291}{}{}
+{292}{}{}
+{293}{}{}
+{294}{}{C'e' la Diacona Olivia... no, e' morta... e Padre Pinochet... no, lui non e' piu' disponibile. Ho qualche esitazione a nominare Lasher, ma e' l'unico rimasto, ormai. Beh, sono sicura che riuscirai a trovare il modo. Buona fortuna.} //-74
+{295}{}{La morte non e' mai un servizio, nemmeno quando e' necessaria. Addio.} //-75
+{296}{}{La morte non e' mai un servizio, nemmeno quando e' necessaria. Addio.} //-75
+{297}{}{Me lo sono sempre chiesta. Ma non e' nulla di cui interessarsi, ne sono certa. Forse dovresti parlare direttamente con i fanciulli.} //-76
+{298}{}{[fatto]}
+{299}{}{Me va.} //end
+
+{300}{}{Nuovi iniziati sono sempre ben accetti, ma in questo periodo la Chiesa e' impegnata in una grande Crociata. Credo quindi che i criteri di selezione dei nuovi adepti si siano fatti un po' piu' rigidi. Tuttavia, la vera fede non conosce ostacoli e la pazienza e' una virtu'. Buona fortuna, amico mio.} //-73
+{301}{}{Nuovi iniziati sono sempre ben accetti, ma in questo periodo la Chiesa e' impegnata in una grande Crociata. Credo quindi che i criteri di selezione dei nuovi adepti si siano fatti un po' piu' rigidi. Tuttavia, la vera fede non conosce ostacoli e la pazienza e' una virtu'. Buona fortuna, amica mia.} //-73
+{302}{}{Che io sappia, non abbiamo alcuna intenzione di invocare nuovamente il potere della Sacra Fiamma. Noi veneriamo il Fuoco Sacro perche' ci da' la possibilita' di mondare la terra dalle imperfezioni. Sono le nostre azioni che rendono Sacra la Fiamma. Dobbiamo prendere cio' che di male c'e' al mondo e renderlo uno strumento per il Bene. Proprio come le tue armi difendono la tua vita, le nostre azioni difendono il mondo. Arrivederci, amico.} //-70
+{303}{}{Che io sappia, non abbiamo alcuna intenzione di invocare nuovamente il potere della Sacra Fiamma. Noi veneriamo il Fuoco Sacro perche' ci da' la possibilita' di mondare la terra dalle imperfezioni. Sono le nostre azioni che rendono Sacra la Fiamma. Dobbiamo prendere cio' che di male c'e' al mondo e renderlo uno strumento per il Bene. Proprio come le tue armi difendono la tua vita, le nostre azioni difendono il mondo. Arrivederci, amica.} //-70
+{304}{}{Noi offriamo diversi servizi. Curiamo i malati, sfamiamo gli affamati, educhiamo i giovani. Sono molto fiera di questo. Se riesci a parlare con Padre Morpheus, egli dovrebbe poterti dire cosa fare per aiutarci. Arrivederci, amico.} //-71
+{305}{}{Noi offriamo diversi servizi. Curiamo i malati, sfamiamo gli affamati, educhiamo i giovani. Sono molto fiera di questo. Se riesci a parlare con Padre Morpheus, egli dovrebbe poterti dire cosa fare per aiutarci. Arrivederci, amica.} //-71
+{306}{}{Se riesci a parlare con Padre Morpheus, egli dovrebbe poterti dire cosa fare per aiutarci. Arrivederci, amico.} //-72
+{307}{}{Se riesci a parlare con Padre Morpheus, egli dovrebbe poterti dire cosa fare per aiutarci. Arrivederci, amica.} //-72

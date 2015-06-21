@@ -1,0 +1,62 @@
+{100}{}{Vedi Sorella Francis.}
+{101}{}{Salve! Oh, sei tu! Spero che tu non sia qui per uccidermi. Se non ti dispiace, non potresti almeno aspettare che io finisca di meditare?}
+{102}{}{Oh, ancora tu. Non vorrei sembrare scortese, ma sto meditando...}
+{103}{}{Ehi? Scusa? Potresti mettere via la tua arma? Non riesco a meditare sulla pace quando, beh... quando vedo la morte in faccia. Grazie mille.}
+{104}{}{Sai, ci sono diverse persone che parlano molto male di te. Dovresti fare qualcosa...}
+{105}{}{Salve. Sto meditando. Non l'avevi notato? Posso aiutarti?}
+{106}{}{Certo. Hai notato qualcosa di insolito?}
+{107}{}{Potresti condividere con me le tue meditazioni?}
+{108}{}{Chi comanda qui?}
+{109}{}{Dove posso trovare il Master?}
+{110}{}{Sto cercando grandi quantita' di alcolici. Ho una mezza idea di aprire un locale...}
+{111}{}{Hai delle munizioni?}
+{112}{}{Auta! Me auta?}
+{113}{}{Salve, fratello. Posso aiutarti?}
+{114}{}{Salve, sorella. Posso aiutarti?}
+{115}{}{Certo. Hai notato qualcosa di insolito?}
+{116}{}{Potresti condividere con me le tue meditazioni?}
+{117}{}{Chi comanda qui?}
+{118}{}{Dove posso trovare il Master?}
+{119}{}{Sto cercando grandi quantita' di alcolici. Ho una mezza idea di aprire un locale...}
+{120}{}{Hai delle munizioni?}
+{121}{}{Auta! Me auta?}
+{122}{}{Certo. Hai notato qualcosa di insolito?}
+{123}{}{Potresti condividere con me le tue meditazioni?}
+{124}{}{Chi comanda qui?}
+{125}{}{Dove posso trovare il Master?}
+{126}{}{Sto cercando grandi quantita' di alcolici. Ho una mezza idea di aprire un locale...}
+{127}{}{Hai delle munizioni?}
+{128}{}{Auta! Me auta?}
+{129}{}{Beh, e' da molto tempo che Padre Morpheus non ci onora con i suoi sermoni. E' un peccato, dato che io adoro i suoi discorsi. Ma in questo periodo sembrano essere tutti molto occupati con una certa Crociata. }
+{130}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{131}{}{Potrei, certo, ma quelli che si sottopongono al processo del Servitore sono molto piu' indicati di me... Le loro menti sono molto piu' vicine al Master rispetto alla mia. Quando saro' cambiata, forse riusciro' a migliorare a mia volta. }
+{132}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{133}{}{Beh, e' Padre Morpheus. E' davvero un ottimo parlatore e quando parla riesce a far vivere la Pace e l'Unita'. Durante i suoi discorsi riesco a vedere la Sacra Fiamma! }
+{134}{}{Quel Padre Morpheus... lui si' che sa parlare. Ed e' pure splendido! }
+{135}{}{Credo che questo sia uno dei Grandi Misteri di cui i sacerdoti discutono nei piani alti del Santuario. Non ho ancora avuto il privilegio di conoscere questa rivelazione, ma ci sto lavorando! }
+{136}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{137}{}{Santi numi! Alcol e droga qui dentro! Ti sbagli di certo. Il Master non potrebbe tollerare una cosa del genere. Egli vuole che i suoi seguaci mantengano le loro menti sane e pure. }
+{138}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{139}{}{Credo che le munizioni sacre si trovino soltanto nel negozio di souvenir della Cattedrale... }
+{140}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{141}{}{Beh, no. Non mi serve aiuto. Arrivederci.}
+{142}{}{Salve, fratello. Ho meditato come una brava iniziata, nell'attesa di essere battezzata dai Servitori. Sono certa che non ci sia nulla da temere. }
+{143}{}{Salve, sorella. Ho meditato come una brava iniziata, nell'attesa di essere battezzata dai Servitori. Sono certa che non ci sia nulla da temere. }
+{144}{}{Il Master e' mio amico. L'Unita' e' prosperita'. La Pace e' prosperita'. La Pace e l'Unita' giungono tramite l'Obbedienza. L'Obbedienza si dimostra con la Sottomissione all'Autorita'... }
+{145}{}{Chi si sottomette sara' battezzato dalla Sacra Fiamma, ma il fedele non verra' bruciato. Chi incontra la Fiamma senza rimanere bruciato vivra' in eterno... }
+{146}{}{Spero di non essermi dimenticata nulla... }
+{147}{}{E' una domanda trabocchetto? E' il Master, no? }
+{148}{}{Beh, ho sentito che il Master si trova nella Sacra Fiamma e che nella sua dimora sotterranea attende che arrivino la Pace e l'Unita'. Egli vive nei cuori e nelle menti delle persone virtuose... }
+{149}{}{Non sono certa di quali siano le metafore. Forse il Master e' dappertutto. }
+{150}{}{Beh, fratello, niente di cosi' impuro puo' profanare la Cattedrale. Se un tale peccato si verificasse, non esiterei a riferirlo ai sommi sacerdoti. }
+{151}{}{Beh, sorella, niente di cosi' impuro puo' profanare la Cattedrale. Se un tale peccato si verificasse, non esiterei a riferirlo ai sommi sacerdoti. }
+{152}{}{Sono armato, certo. Ma solo nel caso in cui la ragione non convincesse i nostri nemici. Tuttavia, non sono armato per fare del male. Ci sono delle munizioni nel negozio di souvenir?}
+{153}{}{Oh no, fratello, non ho bisogno di aiuto. Ti prego di scusarmi.}
+{154}{}{Oh no, sorella, non ho bisogno di aiuto. Ti prego di scusarmi.}
+{155}{}{Beh, mi e' stato detto che la Pace e l'Unita' che cerchiamo per tutte le creature sono piuttosto insolite, ma spero che questa situazione non duri a lungo. }
+{156}{}{Ora, se vuoi scusarmi, devo tornare alle mie meditazioni.}
+{157}{}{Non saprei. Probabilmente si rivelera' quando sara' il tempo. }
+{158}{}{[fatto]}
+{159}{}{[avanti]}
+{160}{}{Salve, signore. Posso aiutarti?}
+{161}{}{Salve, signora. Posso aiutarti?}

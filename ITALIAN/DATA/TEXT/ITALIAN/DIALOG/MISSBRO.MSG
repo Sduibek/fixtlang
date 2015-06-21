@@ -1,0 +1,47 @@
+{100}{}{Vedi un uomo malmesso.}
+{101}{}{Grazie, straniero! Non so per quante settimane, forse mesi, quei delinquenti mi abbiano tenuto chiuso qui. Ti ringrazio molto per l'aiuto e sicuramente lo fara' anche la Confraternita d'Acciaio.}
+{102}{}{Confraternita d'Acciaio?}
+{103}{}{Beh, sono felice di esserti stato d'aiuto.}
+{104}{}{Sei sicuro di stare bene?}
+{105}{}{Sono qui per conto della Confraternita. Ti stavo cercando.}
+{106}{}{Non c'e' di che. Addio.}
+{107}{}{Uh.}
+{108}{}{Non hai mai sentito parlare di noi? Sono davvero stupito. Probabilmente non hai mai lasciato l'Hub. Dovresti uscire piu' spesso. La nostra base si trova a nordovest di qui, sul versante occidentale della catena montuosa.}
+{109}{}{Guarda, ti ringrazio davvero per avermi salvato, ma perche' cerchi di ingannarmi? Credi forse che non conosca ogni membro del nostro ordine?}
+{110}{}{Mi manda Talus.}
+{111}{}{Beh, non mi conosci perche' sono entrato da poco nella Confraternita.}
+{112}{}{Evidentemente non hai la piu' pallida idea di cosa io stia dicendo.}
+{113}{}{Grazie! Se passi dalle parti della Confraternita, mi faresti un favore se avvertissi Talus che sto bene. Sicuramente sara' molto preoccupato. Addio, e buon viaggio.}
+{114}{}{Oh, mi riprendero' presto, grazie. Qui ho alcuni amici che mi ospiteranno finche' non avro' recuperato le forze. Provero' ad avvertire la Confraternita che adesso sono al sicuro, grazie a te. Addio.}
+{115}{}{Come... Oh, scusami. Devi aver superato quel "test" escogitato dagli Anziani. Me n'ero completamente scordato. Beh, i miei ringraziamenti sono ancora piu' sentiti, allora. Sono felice che tu non ti sia arreso. La mia vita era davvero appesa ad un filo. Rintracciarmi non dev'essere stato facile. Questa citta' e' enorme. Come gli ostacoli che devi aver superato.}
+{116}{}{Beh, sai... per un genio come me, e' stata una bazzecola.}
+{117}{}{Veramente non e' stato molto difficile. Talus sapeva dov'eri andato.}
+{118}{}{Solo fortuna, credo.}
+{119}{}{Beh, non c'e' di che. Sono felice d'averti ritrovato.}
+{120}{}{Oh... Beh, ti ringrazio ugualmente.}
+{121}{}{Lo credo. Hai fatto davvero un ottimo lavoro.}
+{122}{}{Beh, sono felice d'averti aiutato.}
+{123}{}{Sei sicuro di stare bene?}
+{124}{}{Beh, grazie ancora. Alcuni amici mi ospiteranno finche' non avro' ripreso le forze. A proposito: tieni gli occhi aperti. Ho sentito i miei aguzzini parlare di una certa "Cerchia dei Ladri". Credo che il loro territorio si trovi qui vicino. Probabilmente e' per questo che stavano pensando di trasferirmi in un altro posto. Addio.}
+{125}{}{Beh, sono felice che la fortuna ti abbia aiutato. Ho sentito storie terribili sulla Citta' Vecchia. I teppisti che la abitano fanno paura, ma credo ci sia qualcosa d'altro.}
+{126}{}{Come vuoi. Sono davvero felice di essere libero. Non amo molto esser torturato.}
+{127}{}{No, davvero, e' Talus che mi manda.}
+{128}{}{Beh, sono felice d'averti aiutato.}
+{129}{}{Sei sicuro di stare bene?}
+{130}{}{Forse no. Ultimamente faccio fatica a ricordarmi le cose. Credo sia stato qualcosa che mi hanno dato da mangiare.}
+{131}{}{No, davvero, E' Talus che mi manda.}
+{132}{}{Beh, sono felice d'averti aiutato.}
+{133}{}{Sei sicuro di stare bene?}
+{134}{}{Ben trovato.}
+{135}{}{Presto ripartiro'. Sto ancora recuperando le forze.}
+{136}{}{Grazie ancora.}
+
+// Tell me abouts
+{1000}{}{Confraternita}
+{1001}{}{Acciaio}
+{1002}{}{Talus}
+
+// Answers
+{1100}{}{L'unica salvezza per questo pianeta torturato e per la sua gente. Senza di loro, l'umanita' sarebbe condannata.}
+{1101}{}{L'unica salvezza per questo pianeta torturato e per la sua gente. Senza di loro, l'umanita' sarebbe condannata.}
+{1102}{}{E' il mio mentore, nonche' un grande uomo. Non vedo l'ora di rivederlo.}

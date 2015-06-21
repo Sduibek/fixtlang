@@ -1,0 +1,76 @@
+{100}{}{Vedi il Medico della Confraternita.}
+{102}{}{Benvenuto, posso aiutarla?}
+{103}{}{Sono ferito.}
+{104}{}{Sono irradiato.}
+{105}{}{Sei in grado di eseguire delle operazioni?}
+{106}{}{Parlami ancora delle operazioni.}
+{107}{}{Ug!}
+{108}{}{E' ferito? Vediamo...}
+{109}{}{Ecco qual era il problema... Puo' andare. Ma faccia piu' attenzione.}
+{110}{}{Mi dispiace, ma non posso aiutarla se non mi dice cos'ha che non va.}
+{111}{}{ A me sembra che lei stia bene.}
+{112}{}{Ecco fatto. Spero che adesso si senta meglio.}
+{113}{}{Ho finito, ma veda di smetterla con le risse.}
+{114}{}{Questo dovrebbe averla rimessa in sesto.}
+{115}{}{Come nuovo.}
+{116}{}{Ho fatto del mio meglio.}
+{117}{}{Le radiazioni sono molto pericolose; dovrebbe fare maggiore attenzione.}
+{118}{}{Non ho tempo per i giochetti.}
+{119}{}{Certamente, ma sono costose e richiedono molto tempo.}
+{120}{}{Dettagli?}
+{121}{}{Okay, come non detto.}
+{122}{}{Beh, posso renderla piu' forte, potenziare la sua percezione, incrementare la sua resistenza, migliorare le sue capacita' intellettive e aumentare la sua agilita'. Su quale desidera avere maggiori informazioni? Le faccio notare che posso eseguire una sola operazione alla volta.}
+{126}{}{Okay, di quale operazione vuole parlare?}
+{127}{}{Forza.}
+{128}{}{Percezione.}
+{129}{}{Resistenza.}
+{130}{}{Intelligenza.}
+{131}{}{Agilita'.}
+{132}{}{Lasciamo perdere.}
+{133}{}{Questa e' facile da eseguire, ma la convalescenza e' molto lunga. Costa solo 2000 monete, ma prima di rimettersi completamente le ci vorranno tre settimane.}
+{135}{}{Procediamo!}
+{136}{}{Meglio di no.}
+{137}{}{Questa si' che e' un'operazione difficile. Costa 4000 monete, ma i tempi di recupero sono limitati ad una sola settimana.}
+{139}{}{Questa non e' molto difficile. Richiede una settimana circa e costa 3000 monete.}
+{141}{}{Questa e' l'operazione piu' complessa e pericolosa! Richiede tre settimane di recupero e costa 6000 monete.}
+{143}{}{Non e' un'operazione molto difficile, ma e' molto costosa e richiede molto tempo. La convalescenza dura tre settimane e costa 5000 monete.}
+{146}{}{Okay, ecco fatto. Spero che la schiuma non le irriti la pelle.}
+{147}{}{Mi dispiace, ma se non ha i soldi non posso aiutarla.}
+{148}{}{Mi dispiace, ma lei e' un esterno. Quando sara' rimasto nella Confraternita per dieci anni circa, allora potra' sottoporsi gratuitamente all'operazione. Abbiamo delle spese e lei non e' ancora un membro regolare del nostro Ordine.}
+{149}{}{Mi faccia sapere quando ha i soldi.}
+{153}{}{Vuole che le parli di un'altra operazione?}
+{154}{}{Okay, tanto non ho nulla da perdere... Stavo scherzando. Possiamo cominciare. (Il medico ti somministra l'anestetico e lentamente ti addormenti.)}
+{156}{}{Allora, come si sente? (Ti senti gia' diverso.) Lo sa che lei e' un gran chiacchierone, mentre dorme? E' libero di andare! Buona giornata.}
+{159}{}{Chi lascia la via vecchia per la nuova... (Crolli come un sasso negli abissi.)}
+{161}{}{Ha lo stesso aspetto di prima, ma come si sente? (Tutti i tuoi sensi si sono affinati.) Beh, lo sa che sta occupando un prezioso posto letto? Vada via!}
+{164}{}{Spero che lei abbia un cuore... (Ti strizza l'occhio mentre ti addormenti.)}
+{166}{}{Beh, sembra gia' piu' robusto. (Ti senti benissimo!) Mi faccia sapere se ci sono dei problemi.}
+{168}{}{Hmmm... dov'e' che stava il cervello? E questo attrezzo a che serve? (Cerchi di resistere all'anestesia, ma e' una battaglia persa.)}
+{170}{}{Bene, pare proprio che io ce l'abbia fatta a rimettere tutto a posto. Mi sembra che funzioni. (E' come se i percorsi dei tuoi pensieri avessero accesso diretto ad ogni punto della tua testa e i tuoi ricordi sono molto piu' vividi.) Stia tranquillo.}
+{174}{}{D'accordo, facciamo questo tentativo. (L'anestesia e' cosi'... amichevole. Il sonno ti coglie in fretta.)}
+{176}{}{Okay, ho finito. (Fletti i muscoli e noti che la tua velocita' e la tua coordinazione sono aumentate.) Le chiedo soltanto di non rovinare il mio capolavoro.}
+{200}{}{Vedi l'assistente del Medico.}
+{279}{}{Dovrebbe rivolgersi al Medico.}
+{280}{}{Il Medico e' quella donna laggiu', non sono io.}
+{281}{}{Sono solo un tirocinante.}
+{282}{}{Non posso aiutarla, ufficialmente.}
+{283}{}{Il Medico e' Lori.}
+{284}{}{Dovra' chiederlo al Medico.}
+{285}{}{Non si preoccupi, al Medico piace scherzare.}
+{286}{}{Le piace fare degli scherzi, non abbia paura.}
+{300}{}{Mi dispiace, ma questa operazione non le servira'.}
+
+{400}{}{Hmmm. Se qualcuno qui ha bisogno di un intervento di potenziamento dell'intelligenza, quel qualcuno sei tu. Per cui, solo per te, eseguiro' l'operazione per 3000 monete invece delle 6000 che chiederei normalmente. Non posso garantire che migliorera' la tua situazione, ma credo che valga la pena provare. La convalescenza durera' tre settimane. Ma probabilmente non capisci nemmeno questo, vero?}
+{401}{}{Me vuole cervello.}
+{402}{}{No vuole.}
+{403}{}{Sei irradiato o ferito? Ti aiutero', se posso.}
+{404}{}{Me ha bua.}
+{405}{}{Capelli cadere.}
+{406}{}{No.}
+{407}{}{Ok. Sei sveglio. Vediamo un po'. Ti senti piu' intelligente?}
+{408}{}{Hunh?}
+{409}{}{Si'!}
+{410}{}{Diamine! Ho fallito. Beh, non avevo molto su cui lavorare. Mi dispiace, ma tu sei un idiota e probabilmente lo rimarrai per sempre. Mi duole dirlo, ma queste operazioni possono essere eseguite una volta sola.}
+{411}{}{Ci sono riuscita! Sono stata in grado di aumentare il tuo QI ad un livello accettabile. Come ci si sente ad avere un mezzo cervello?}
+{412}{}{E' magnifico. Grazie, Doc. Ci vediamo.}
+{413}{}{Ecco fatto. Tutto a posto.}

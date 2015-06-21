@@ -1,0 +1,6 @@
+{100}{}{La porta di sicurezza e' chiusa a chiave.}
+{101}{}{La porta di sicurezza non e' chiusa a chiave.}
+{102}{}{Riesci ad aprire la serratura della porta di sicurezza.}
+{103}{}{Non riesci ad aprire la serratura della porta di sicurezza.}
+{104}{}{Riesci a far scattare l'allarme passivo della porta, bloccando cosi' la serratura elettronica. Ben fatto, genio.}
+{105}{}{Guadagni 25 punti esperienza per aver scassinato la serratura.}

@@ -1,0 +1,66 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Sei sicuro di voler uscire?}
+{1}{}{Versione demo}
+{2}{}{Default character will be used.}
+{3}{}{Immagine salvata.}
+{4}{}{Caricamento rapido effettuato.}
+{5}{}{Salvataggio rapido effettuato.}
+{6}{}{Demo time limit exceeded.}
+{7}{}{Il Pipboy non e' accessibile in combattimento!}
+{8}{}{Errore nel salvare l'immagine.}
+{9}{}{INTRO}
+{10}{}{NUOVO}
+{11}{}{CARICA}
+{12}{}{CREDITI}
+{13}{}{ESCI}
+{14}{}{(C) 1997 Interplay Prod. All rights reserved. Traduzione Italiana: Ragfox}
+{15}{}{Punti Azione}
+{16}{}{Punti Vita}
+{17}{}{Il sensore di movimento non e' installato.}
+{18}{}{Il sensore di movimento ha esaurito la carica.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Errore nel salvataggio della configurazione!}
+{101}{}{Configurazione non salvata.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Hai un forte senso di nausea.}
+{1001}{}{Hai la nausea e, dopo una breve vomitata, sei leggermente affaticato.}
+{1002}{}{Sei molto affaticato, il vomito non si ferma e le tue capacita' di recupero sono compromesse.}
+{1003}{}{Stai avendo un'emorragia massiva. Stai molto male e stai perdendo i capelli.}
+{1004}{}{Hai una violenta e continua emorragia. Il vomito e' rosso a causa del sangue. La pelle ti si sta staccando dalle ossa.}
+{1005}{}{C'e' una emorragia nel tuo intestino e hai gravi attacchi di diarrea. Ti senti gonfio e sei in agonia.}
+{1006}{}{Sei morto a causa delle radiazioni.}
+{1007}{}{Hai ricevuto una pesante dose di radiazioni.}
+{1008}{}{Il contatore Geiger sta ticchettando.}
+{1009}{}{Il contatore Geiger sta ticchettando intensamente.}
+#
+# Message used in actions.c
+#
+{2000}{}{Non puoi andarci.}
+{2001}{}{La serratura si e' inceppata.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Sei stato avvelenato!}
+{3001}{}{Hai subito gli effetti del veleno.}
+#
+# from queue.c
+#
+{4000}{}{A causa della tua inettitudine, l'esplosivo e' detonato prima del previsto.}
+#
+# from combatai.c
+#
+{5000}{}{usa}
+{5001}{}{ha finito le munizioni per}
+{5002}{}{ricarica}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Chiedi a proposito di?}

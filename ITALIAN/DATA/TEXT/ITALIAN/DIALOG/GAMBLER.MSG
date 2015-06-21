@@ -1,0 +1,52 @@
+{100}{}{Vedi un Messicano dall'aspetto trasandato con i capelli untuosi.}
+{101}{}{Vedi Hernandez, il giocatore disonesto.}
+{102}{}{Oye, muchacho, permeteme de presentarme. Yo soy Hernandez, un hombre de mucho gusto! Tu es nuevo de aqui. Prego, permeteme de esser la tu guida del casino.}
+{103}{}{Mi puoi parlare del casino'?}
+{104}{}{No, grazie.}
+{105}{}{Bloo?}
+{106}{}{Ma cierto! Esto splendido edificio es proprietad del famoso Gizmo. Un hombre geniale e con mucho dinero.}
+{107}{}{Grazie.}
+{108}{}{Hai detto che Gizmo e' un uomo geniale. Quali sono le sue idee?}
+{109}{}{Si vince bene, qui?}
+{110}{}{Amigo mio, no quiero chiederlo a ti, ma forse tu potresti aiutarme. Ho ideato un sistema seguro, porque' ho scoperto como Gizmo gestisce i suoi tavoli, ma non tengo il dinero per jugar.}
+{111}{}{ [Hai l'impressione che stia cercando di imbrogliarti.]}
+{112}{}{No puede prestarme un poco de dinero? 500 pesos? Te assicuro la victoria.}
+{113}{}{Certo, mi hai convinto. [gli dai 500 tappi]}
+{114}{}{No, grazie.}
+{115}{}{Credo tu stia mentendo. Stai cercando di imbrogliarmi.}
+{116}{}{Escusame, mi amigo. Ehi, te vorrei mostrar un bel juego...}
+{117}{}{Muchas gracias, mi amigo! In pochi giorni te repaguero', con gli interessi. Mi sistema es lento, sai, richiede mucha pacientia, ma da' grandi profitti!}
+{118}{}{Mucho bien, ma yo garantisco el successo! Se vuoi prender el dinero que aspetta solo ti, torna presto, o trovero' un altro socio!}
+{119}{}{Amigo mio, tu es un hombre de mucho gusto, como mi. Que ne pensi de una partida a dadi? 10 pesos?}
+{120}{}{D'accordo!}
+{121}{}{No, grazie. Adesso non sono in vena.}
+{122}{}{Gizmo sognava de haber un posto dove el pueblo potesse encontrarse e divertirse. E teneva l'ambiccion por farlo. El resultado es el casino che tu vede.}
+{123}{}{Da' al pueblo una possibilidad de dimenticare los problemas de esto mondo desperado. E porta dinero a Junktown!}
+{124}{}{Si direbbe un'ottima idea.}
+{125}{}{La vita e' gia' abbastanza difficile. Non condivido le ragioni di chi spinge la gente a perdere i propri soldi.}
+{126}{}{Es claro que tu no habes la stessa genialita' de Gizmo. Esto posto es un refugio dalle avversitad della vida di ogni giorno.}
+{127}{}{Beh, Gizmo ha un local de mucho gusto, ma i suoi juegos son, como dir, un poquito a favore della casa. Ma non sono i suoi croupier a imbrogliare, pero'. Se no tienes un sistema como de mi, dovrai esser mucho sveglio.}
+{128}{}{Capisco...}
+{129}{}{}
+{130}{}{Il tuo sistema ha dato i suoi frutti?}
+{131}{}{Niente, grazie.}
+{132}{}{Mi sistema funziona lentamente. Ho delle spese, sai, ma funziona!}
+{133}{}{Meraviglioso!}
+{134}{}{Credo che tu sia un bugiardo e un imbroglione. Dove sono i miei soldi?}
+{135}{}{Amigo, le tue parole me offendono. Tu credes que te abbia imbrogliato? Beh, tu no vedras un singulo dinero!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{136}{}{Buenos dias, amigo! Cosa posso far por ti?}
+{137}{}{Buenos dias, senorita! Cosa posso far por ti?}
+
+{138}{}{(Giocate per qualche minuto, ma non riesci mai a vincere. Hai come l'impressione d'esser stato giocato.) Un'altra partida?}
+{140}{}{D'accordo.}
+{141}{}{Scordatelo!}
+
+{142}{}{Tu no tienes el dinero. Y yo no tiengo tiempo por gringos como ti. Sparisci.}

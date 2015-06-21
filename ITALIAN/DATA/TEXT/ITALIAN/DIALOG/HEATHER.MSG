@@ -1,0 +1,161 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+
+{100}{}{Vedi Heather, una degli Esploratori dei Discepoli.}
+{101}{}{Che cosa ci fai qui?}
+{102}{}{Quetto!}
+# moronic line for This
+
+{103}{}{Me va ciao.}
+# moronic line for Good Bye.
+
+{104}{}{Sto soltanto dando un'occhiata in giro.}
+{105}{}{Sono qui per ucciderti!}
+{106}{}{Volevo solo sapere cosa succede da queste parti.}
+{107}{}{Davvero? E cosa staresti cercando?}
+{108}{}{Beh, credo di aver appena fatto centro.}
+{109}{}{Sto cercando una spia.}
+{110}{}{Niente, davvero. Sto solo dando un'occhiata.}
+{111}{}{Solo delle informazioni.}
+{112}{}{Ti ringrazio, ma sono gia' impegnata. Credo che faresti meglio ad andartene.}
+# "I am already spoken for" == "i am already dating someone else"
+
+{113}{}{Ah, la spia. Ho sentito parlare di quell'insetto fastidioso. Spero davvero che tu riesca a prenderlo.}
+# Spy is considered male
+
+{114}{}{Mi era parso di capire che la spia fosse una donna.}
+# Spy is considered female
+
+{115}{}{Per caso sai qualcosa che potrebbe interessarmi?}
+# spy is considered male
+
+{116}{}{Sei tu la spia!}
+# spy is considered female
+
+{117}{}{Buona fortuna. Scusa se ti ho disturbata.}
+{118}{}{Scommetto che e' stato quello spaccone di Neil a dirtelo. Dovro' scambiarci due parole, prima o poi.}
+# Neil is male
+
+{119}{}{Credi che la spia sia Neil?}
+# spy is male. Neil is male.
+
+{120}{}{Allora chi credi che sia la spia?}
+# spy is male
+
+{121}{}{Sembri un po' sulla difensiva. C'e' un motivo particolare?}
+{122}{}{Ne ho quasi la certezza. Mi servono soltanto delle prove.}
+{123}{}{Te le forniro' io, le prove.}
+{124}{}{A me sembra una brava persona. Non saprei...}
+{125}{}{Perche' credi che si tratti proprio di lui?}
+{126}{}{Grazie. Non sai cosa questo voglia dire per me. Una volta che avrai le prove, uccidilo.}
+{127}{}{Cos'e' che non sai? Puo' raggiungere la Cattedrale. Lavora durante la notte quando quasi tutti stanno dormendo. Dev'essere lui.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{128}{}{Ok, faro' qualche controllo.}
+{129}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{130}{}{Mi dispiace davvero che tu la pensi cosi'. Ma non posso permettere che qualcuno pensi che io sia una spia. Dovro' sollevarti dal tuo incarico. Definitivamente.}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+
+{131}{}{Di notte puo' raggiungere la Cattedrale. Nessuno lo vede durante il suo turno. Non puo' che essere lui.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{132}{}{Ok, faro' qualche controllo.}
+{133}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{134}{}{Non so con certezza chi possa essere. Credo sia o una guardia o una delle studiose. Si intrufolano spesso nella Cattedrale, di notte.}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{135}{}{Hai qualche altra idea?}
+# == is there any other information that you can think of?
+
+{136}{}{Ma ho sentito che solo gli esploratori attaccano i Figli della Cattedrale.}
+# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{137}{}{Ok. Grazie dell'aiuto.}
+{138}{}{Direi di no. Secondo me si tratta di un uomo: probabilmente e' una guardia oppure uno degli studiosi della biblioteca.}
+# is is refering to a male spy. Scholar and guard are male.
+
+{139}{}{Ok. Grazie dell'aiuto.}
+{140}{}{E' vero. Noi esploratori attacchiamo spesso i Figli della Cattedrale. E ultimamente subiamo parecchie perdite. Questo traditore ci sta costando molto.}
+# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{141}{}{Sembra che la cosa ti sconvolga davvero. Trovero' questa dannata spia e la uccidero'.}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+
+{142}{}{La spia potrebbe essere uno degli esploratori, secondo te?}
+# spy and scout == male
+
+{143}{}{Grazie dell'aiuto.}
+{144}{}{E perche' mai uno dei nostri dovrebbe fare una cosa del genere?}
+#us referres to the scouts
+
+{145}{}{Se gli esploratori morissero, la Cattedrale non subirebbe piu' attacchi.}
+{146}{}{Non saprei. Tu cosa ne pensi?}
+{147}{}{Non saprei. Stavo solo facendo un'ipotesi.}
+{148}{}{Non e' un'idea malvagia. Ho notato che Peter rimane spesso nelle retrovie, durante gli scontri. Forse si tratta di lui.}
+# Peter is male. She thinks that Peter may be the male spy.
+
+{149}{}{Ok, faro' qualche controllo.}
+{150}{}{Scordatelo. Penso che tu stia cercando di ingannarmi!}
+{151}{}{Credi forse che sia io?}
+# it referring to the female spy.
+
+{152}{}{Scusami. E che sono un po' nervoso.}
+# under a bit of stress.
+
+{153}{}{Si'! E adesso sei morta!}
+{154}{}{E allora vai a fare le tue ipotesi da qualche altra parte. Io devo tornare al lavoro.}
+# then think about it somewhere else
+
+{155}{}{Credo che pensi che la spia sia io. Ma non e' cosi'.}
+# spy is female
+
+{156}{}{Forse ha ragione.}
+{157}{}{E perche' dovrebbe pensare una cosa del genere?}
+{158}{}{Perche' sono nuova. Sono qui da solo un anno e i problemi sono cominciati circa cinque mesi fa.}
+# scout is female
+
+{159}{}{Credo che Neil possa aver ragione.}
+# Neil is male. right == correct.
+
+{160}{}{Credo che Neil potrebbe essere la spia. Vado subito a verificarlo.}
+# spy is male.
+
+{161}{}{Allora cerca da qualche altra parte. Questo posto non e' per te.}
+{162}{}{Se ti servono informazioni, rivolgiti a Nicole. Lei e' convinta di sapere tutto.}
+# Nicole is female. said in a snotty manner.
+
+{163}{}{Se mi fai l'offerta giusta, potrei anche convincermi a rivelarti qualcosa.}
+{164}{}{Quanto "giusta"?}
+{165}{}{E venderesti cosi' dei segreti?}
+{166}{}{Lasciamo perdere. Non ho soldi con me.}
+{167}{}{Trecento tappi e le informazioni sono tutte tue.}
+# caps are a form of money. equivalant to a buck each
+
+{168}{}{Certo.}
+{169}{}{No.}
+{170}{}{Ci sara' un attacco contro i cancelli sud della roccaforte dei Figli della Cattedrale. Adesso vattene.}
+{171}{}{Cerchi forse di imbrogliarmi? Adesso te la faccio vedere!}
+{172}{}{Mi dispiace che tu la pensi cosi'. Buona giornata, allora.}
+{173}{}{Devo pur mangiare, no? Ora, le vuoi queste informazioni o no?}
+# do you want me to give you the information?
+
+{174}{}{Certo.}
+{175}{}{No.}
+{176}{}{Niente. Vattene.}
+{177}{}{Lasciami in pace. Sto cercando di riposare.}

@@ -1,0 +1,76 @@
+{100}{}{Vedi un membro devoto dei Figli della Cattedrale.}
+{101}{}{Noi curiamo le ferite del corpo per guarire la mente. Possiamo aiutarti?}
+{102}{}{Si'. Aiutami.}
+{103}{}{Chi siete, esattamente?}
+{104}{}{Uhn.}
+{105}{}{Sta bene. Ti visiteremo subito.}
+{106}{}{Beati sono i deboli di pensiero. Non c'e' nulla di sbagliato in te.  Corri felice e gioca.}
+{107}{}{Sei stato guarito. Presta maggior attenzione, in futuro.}
+{108}{}{Sei ferito.}
+{109}{}{Non sei ferito. Cio' e' bene.}
+{110}{}{Vedo che sei stato avvelenato.}
+{111}{}{Hmm, intossicazione da radiazioni. Sfortunatamente, qui non possiamo curarti.}
+{113}{}{Dovrai donare }
+{114}{}{$ prima che possiamo curarti. Sta bene?}
+{115}{}{Si'.}
+{116}{}{No.}
+{117}{}{Ma io non ho tutti quei soldi!}
+{118}{}{Vi andrebbero bene }
+{119}{}{$?}
+{120}{}{I Figli della Cattedrale non contrattano. Accetti il nostro prezzo, o no?}
+{121}{}{Paghero'.}
+{122}{}{No, grazie.}
+{123}{}{Grazie, figliolo. Preghiamo insieme per la tua guarigione.}
+{124}{}{Grazie, figlia mia. Preghiamo insieme per la tua guarigione.}
+{125}{}{Ecco fatto. Che la pace e la benedizione della Cattedrale ti sostengano nei tuoi viaggi.}
+{126}{}{Non hai abbastanza soldi. Tuttavia, se donerai tutto quel che hai, ti cureremo ugualmente. Sta bene?}
+{127}{}{Si'.}
+{128}{}{No.}
+{129}{}{Se donerai tutto quel che hai, ti cureremo ugualmente. Sta bene?}
+{130}{}{Si'.}
+{131}{}{No.}
+{132}{}{Hai piu' di quel che serve per fare la donazione. Dovresti ripassare un po' la matematica.}
+{133}{}{Noi siamo i Figli della Cattedrale. Noi viviamo e lavoriamo tra le anime perdute che abitano le Lande. Se mai i tuoi viaggi dovessero portarti al Boneyard, visita la Cattedrale.}
+{134}{}{Grazie.}
+{135}{}{Di che cosa vi occupate?}
+{136}{}{Noi siamo guaritori e predicatori di pace. Noi curiamo il corpo per guarire la mente. Tutto quel che chiediamo e' una piccola donazione per pagare i medicinali.}
+{137}{}{Mi sembra un'ottima idea.}
+{138}{}{Se proprio vuoi saperlo, a me sembrano un mucchio di stronzate.}
+{139}{}{Non ci interessa sapere come la pensi. Credo che tu sia stanco di sentire le nostre parole di fede. Se ti serve altro, noi siamo qui.}
+{140}{}{E' la piu' santa delle idee. Noi lavoriamo per portare la pace nelle Lande. Noi vogliamo che tutte le creature vivano come fossero una.}
+{141}{}{Grazie. Arrivederci.}
+{142}{}{Non abbiamo tempo per parlare. Ce ne stiamo andando. Questo posto e' diventato pericoloso per noi.}
+{143}{}{Perche' fai questo? Non ti faremo alcun male!}
+
+
+{1000}{}{Cattedrale}
+{1001}{}{Mutanti}
+{1002}{}{Master}
+{1003}{}{Boneyard}
+{1004}{}{Discepoli}
+{1005}{}{Chip}
+{1006}{}{Apocalisse}
+{1007}{}{Necropolis}
+{1008}{}{Set}
+{1009}{}{Acquedotto}
+{1010}{}{Sala}
+
+{1100}{}{Siamo noi.}
+{1101}{}{Sono persone che hanno subito mutazioni a causa delle radiazioni. Ma sono comunque brava gente.}
+{1102}{}{Tutti abbiamo un padrone, no?}
+{1103}{}{Il Boneyard e' un luogo dove l'odio domina incontrastato. Ci sono i Discepoli dell'Apocalisse, le bande, Ripper, Blade e Gun Runner, e un piccolo insediamento chiamato Adytum. }
+{1104}{}{Sono le persone che cercano di distruggere la pace che il Master sta cercando di instaurare.}
+{1105}{}{Non ho idea di cosa tu stia parlando.}
+{1106}{}{Sono le persone che cercano di distruggere la pace che il Master sta cercando di instaurare.}
+{1107}{}{Eccola qua. I tristi resti di un mondo antico.}
+{1108}{}{Credo sia uno dei ghoul.}
+{1109}{}{E' laggiu', a nordest.}
+{1110}{}{Non ne so nulla.}
+
+//female
+
+{9107}{}{Sei stata guarita. Presta maggior attenzione, in futuro.}
+{9108}{}{Sei ferita.}
+{9109}{}{Non sei ferita. Cio' e' bene.}
+{9110}{}{Vedo che sei stata avvelenata.}
+{9139}{}{Non ci interessa sapere come la pensi. Credo che tu sia stanca di sentire le nostre parole di fede. Se ti serve altro, noi siamo qui.}

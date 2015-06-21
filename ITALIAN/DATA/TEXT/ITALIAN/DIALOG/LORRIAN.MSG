@@ -1,0 +1,88 @@
+{100}{}{Vedi Lorraine, una Scav di Adytum.}
+{101}{}{Vedi una ragazza con i capelli neri.}
+{102}{}{Ciao. Sei nuovo di qui?}
+{103}{}{Gia'. Puoi darmi qualche informazione?}
+{104}{}{Esatto. Mi chiamo }
+{105}{}{. }
+{106}{}{Whuuu?}
+{107}{}{Credo di si'. Cosa vuoi sapere?}
+{108}{}{Chi sei?}
+{109}{}{Puoi darmi qualche informazione sul Boneyard?}
+{110}{}{Parlami un po' degli abitanti di Adytum.}
+{111}{}{Cosa fai per vivere?}
+{112}{}{Non importa, grazie.}
+{113}{}{Sono Lorraine.}
+{114}{}{Posso farti qualche domanda?}
+{115}{}{Piacere. Ci vediamo.}
+{116}{}{Sono una Scav. Lavoro con Sammael e raccolgo varie robe dalle rovine, che poi usiamo per costruire altre cose o come oggetti di scambio.}
+{117}{}{Sembra pericoloso, con tutte queste bande.}
+{118}{}{Quanti Scav ci sono?}
+{119}{}{Possiamo cambiare argomento?}
+{120}{}{E' stato bello parlare con te.}
+{121}{}{Puo' esserlo... se ti prendono. I Ripper sono spietati con chi entra nel loro territorio. E' per questo che ci impegniamo allo stremo per non farci prendre!}
+{122}{}{Cosa puoi dirmi delle bande?}
+{123}{}{Come fate ad evitare d'esser presi?}
+{124}{}{Posso farti qualche altra domanda?}
+{125}{}{Grazie. Ci vediamo.}
+{126}{}{Oh, una mezza dozzina. Sammael e' stato il primo. Ed e' ancora il migliore.}
+{127}{}{Posso chiederti qualcos'altro?}
+{128}{}{Interessante. Grazie.}
+{129}{}{I Blade li riconosci subito perche' hanno quei terribili coltelli a vibrazione. I Ripper, d'altra parte, sono meno tecnologici, ma molto piu' spietati.}
+{130}{}{I Ripper hanno persino piazzato un campo minato attorno al loro fortino! Ma cos'aveva in mente Julianna...?}
+{131}{}{Julianna?}
+{132}{}{Terribile. Posso farti qualche altra domanda?}
+{133}{}{Grazie dell'avvertimento.}
+{134}{}{Oh, ha avuto la sfortuna di innamorarsi di un Ripper. La poveretta non puo' lasciare la citta', naturalmente, e Caleb sparerebbe a vista al ragazzo. Una vera tragedia.}
+{135}{}{Ehm... se lo dici tu.}
+{136}{}{Posso farti qualche altra domanda?}
+{137}{}{Hmm. Grazie per avermelo detto. Ci vediamo.}
+{138}{}{Ci muoviamo solo dopo il tramonto. E siamo molto bravi nel nostro lavoro. Prima che qualcuno possa diventare uno Scav, deve passare un piccolo test proposto da Sammael.}
+{139}{}{Cosa prevede il test?}
+{140}{}{Sembra comunque pericoloso.}
+{141}{}{Capisco. Ti dispiace se cambiamo argomento?}
+{142}{}{Interessante. Ci vediamo.}
+{143}{}{Sammael chiede al candidato di nascondersi da qualche parte all'interno di Adytum. Se non e' in grado di trovarlo entro un'ora, il candidato puo' unirsi all'uscita serale degli Scav.}
+{144}{}{Che sistema stupido!}
+{145}{}{Sembra funzionare, dato che sei ancora viva.}
+{146}{}{Ah. Posso farti qualche altra domanda?}
+{147}{}{Interessante. Ci vediamo.}
+{148}{}{Eddai, non mi dirai che non possiedi nemmeno un pizzico di romanticismo? Dai, e' davvero triste. L'amore non corrisposto e cose del genere. Drammatico.}
+{149}{}{Hmpf. Dimostra quello che vali. Prova a dirlo a Sammael... se riesci a trovarlo.}
+{150}{}{Si', anche se a volte e' dura. E' molto pericoloso, soprattutto se ti beccano.}
+{151}{}{Non c'e' dubbio. Posso farti qualche altra domanda?}
+{152}{}{Grazie per le informazioni.}
+{153}{}{Wow, credo che tu abbia bisogno di vedere un esperto.}
+{154}{}{Questa era una grande citta', chiamata Los Angeles. Ma le bombe hanno colpito davvero duro. Ora e' soltanto l'Angel's Boneyard, il Cimitero degli Angeli. Noi di Adytum cerchiamo di sopravvivere tra queste rovine.}
+{155}{}{Puoi dirmi qualcosa di piu' su Los Angeles?}
+{156}{}{Capisco. Grazie.}
+{157}{}{Ci vivevano un sacco di persone, che si occupavano di cose importanti come la creazione di giochi per computer. Da quel che ho sentito, i sopravvissuti si nascosero in un grande edificio chiamato Vault e ne uscirono vari anni piu' tardi. Alcuni di loro fondarono Adytum, ma gli }
+{158}{}{altri formarono le bande: i Blade e i Ripper. I Gun Runner non sono originari di queste parti.}
+{159}{}{Dove si trova questo Vault?}
+{160}{}{Parlami delle bande.}
+{161}{}{Da dove provengono i Gun Runner?}
+{162}{}{Creare giochi per computer? Non mi sembra molto importante.}
+{163}{}{Grazie dell'aiuto.}
+{164}{}{Beh, credo si trovasse da qualche parte a sud di qui, ma non ne sono certa. Credo che sia crollato dopo che tutti se ne sono andati.}
+{165}{}{Posso farti qualche altra domanda?}
+{166}{}{Hmm. Grazie.}
+{167}{}{Non lo so con precisione. Credo provengano da qualche parte a nord di qui.}
+{168}{}{Parlami delle altre bande.}
+{169}{}{Posso chiederti qualcos'altro?}
+{170}{}{Grazie per le informazioni.}
+{171}{}{Di chi vuoi che ti parli: Zimmerman, Caleb, Miles,
+ Taylor, o Smitty?}
+{172}{}{Jon Zimmerman.}
+{173}{}{Caleb.}
+{174}{}{Miles.}
+{175}{}{Taylor.}
+{176}{}{Smitty.}
+{177}{}{Nessuno.}
+{178}{}{Zimmerman vigila sulla nostra citta'. Si assicura che tutti abbiano di che mangiare, e che tutti abbiano un lavoro.}
+{179}{}{Caleb e' il capo dei Regolatori. Il suo compito e' di proteggere Adytum. E' molto severo, ma lo fa per il nostro bene.}
+{180}{}{Ah, il nostro chimico. Miles fabbrica proiettili e ha anche costruito il distillatore che purifica l'acqua del pozzo. Adesso sta lavorando ad un fattoria sotterranea, ma gli mancano alcuni pezzi.}
+{181}{}{Taylor e' il proprietario dell'emporio. Lo trovi nel bunker vicino ai cancelli. E' lui che si occupa degli scambi commerciali con l'Hub.}
+{182}{}{Hmm. Smitty e' una specie di tuttofare. E' bravo nelle riparazioni. Fabbrica proiettili e mette a posto varie cose.}
+{183}{}{Puoi parlarmi di qualcun altro?}
+{184}{}{Possiamo parlare di un altro argomento?}
+{185}{}{Grazie.}
+{186}{}{Stai scherzando? Se non esistessero i videogiochi, non staresti giocando a questo, non trovi?}

@@ -1,0 +1,68 @@
+{100}{}{Quello che hai fatto e' terribile.}
+{101}{}{Chi se ne frega. Sono ferito. Curami.}
+{102}{}{Hngh!}
+{103}{}{No. Ho giurato di curare i malati e i feriti, ma non ti aiutero'.}
+{104}{}{La mancanza d'intelligenza non e' una scusante per le tue azioni. Vattene, non ho alcuna intenzione di parlare con te.}
+{105}{}{Oh cielo; sei gravemente ferito. Ecco, lascia che ti aiuti.}
+{106}{}{Bentornato, }
+{107}{}{. Come va la ricerca?}
+{108}{}{Tutto bene.}
+{109}{}{Ho bisogno d'aiuto.}
+{110}{}{Lol?}
+{111}{}{Ah. Si'. Ecco, ho trovato queste. Quando hai bisogno d'energia, provale.}
+{112}{}{Bene, continua cosi'. E se ti serve qualcosa, fammelo sapere.}
+{113}{}{Cosa posso fare per te?}
+{114}{}{Ho bisogno di cure.}
+{115}{}{Vorrei delle medicine.}
+{116}{}{Vorrei qualche altro stimpack.}
+{117}{}{Doh!}
+{118}{}{Duh!}
+{119}{}{Non sono autorizzato a darti altro. Mi dispiace.}
+{120}{}{Grazie lo stesso.}
+{121}{}{Ne ho davvero bisogno. Senza quelle pastiglie, la salvezza del Vault e' in grave pericolo.}
+{122}{}{Mi dispiace, ma non posso dartele.}
+{123}{}{Beh, se la metti su questo piano... Ma non dire a nessuno che te le ho date. Possono causare crisi d'astinenza e sono davvero pericolose.}
+{124}{}{Grazie.}
+{125}{}{Gli stimpack sono razionati. Puoi prendere quelli che si trovano nello stipetto medico che vedi sulla parete. Prendi quelli che ti servono, ma usali con giudizio. Ci vorra' un po' di tempo prima che possiamo dartene altri.}
+{126}{}{Hmm. Vediamo se sei ferito.}
+{127}{}{Mi sembri a posto. Torna pure, se hai bisogno di cure.}
+{128}{}{Sei ferito. Ecco, lascia che ti aiuti.}
+{129}{}{Se ti servono cure, torna pure da me o usa gli stimpack che abbiamo qui. Li puoi trovare in quello stipetto a muro.}
+{130}{}{Stenditi qui. Comincio subito le cure.}
+{131}{}{Adesso sei perfettamente guarito. Riguardati, ma se avrai bisogno di altre cure, torna pure da me. }
+{132}{}{Gli scanner medici rilevano livelli mortali di radiazioni. Vuoi che procediamo con la decontaminazione? Ci vorra' un po'.}
+{133}{}{Gli scanner medici rilevano alti livelli di radiazioni. Vuoi che procediamo con la decontaminazione? Ci vorra' un po'.}
+{134}{}{Gli scanner medici rilevano una discreta quantita' di radiazioni. Vuoi che procediamo con la decontaminazione? Ci vorra' un po'.}
+{135}{}{Gli scanner medici rilevano bassi livelli di radiazioni. Vuoi che procediamo con la decontaminazione? Ci vorra' un po'.}
+{136}{}{Vedi il medico del Vault 13.}
+{137}{}{}
+{138}{}{No.}
+{139}{}{Okay, procediamo.}
+{140}{}{Quanto?}
+{141}{}{Quanto ci vorra'? E quante radiazioni riuscirai ad eliminare?}
+{142}{}{Nah.}
+{143}{}{Si'.}
+{144}{}{Il corpo e' tuo.}
+{145}{}{Ci vorranno }
+{146}{}{ minuti. Vuoi cominciare la decontaminazione?}
+{147}{}{No.}
+{148}{}{Si'.}
+{149}{}{Ci vorranno }
+{150}{}{ minuti. E riusciro' ad eliminare un buon }
+{151}{}{ percento. Vuoi cominciare la decontaminazione?}
+{152}{}{No.}
+{153}{}{Si'.}
+{154}{}{Sara' molto, molto doloroso.}
+{155}{}{Ok, non dovrebbe farti male.}
+{156}{}{Ok, adesso dovresti sentirti meglio. Fa' attenzione, la' fuori.}
+{157}{}{Ho sentito che hai salvato il Vault. Grazie.}
+{158}{}{[Altro]}
+{159}{}{Il dottore si rifiuta di parlarti.}
+{160}{}{Non farlo.}
+
+# Medic tell-me-abouts
+
+{1000}{}{Medico}
+{1001}{}{Cure}
+{1100}{}{Sono sempre qui, per fornire assistenza medica a chi ne ha bisogno.}
+{1101}{}{Posso curarti, se hai bisogno.}

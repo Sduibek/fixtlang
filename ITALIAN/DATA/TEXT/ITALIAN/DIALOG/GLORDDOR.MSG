@@ -1,0 +1,116 @@
+{100}{}{Questa porta di sicurezza presenta dei resti di vernice rossa.}
+{101}{}{Ricevi una piccola scarica elettrica dalla porta e subisci un punto di danno.}
+{102}{}{Ricevi una forte scarica elettrica dalla porta e subisci }
+{103}{}{ punti di danno.}
+{104}{}{Forzi la porta e la apri.}
+{105}{}{La porta e' chiusa a chiave.}
+{106}{}{Autorizzazione concessa. Campo elettrico disattivato.}
+{107}{}{Non siete autorizzati a superare questa porta.}
+{108}{}{L'oggetto non ha effetto sul sistema di sicurezza.}
+{109}{}{Riesci a scassinare la serratura della porta di sicurezza.}
+{110}{}{La porta sembra protetta da un qualche tipo di sistema di sicurezza.}
+{111}{}{Non sei riuscito a scassinare la serratura.}
+{112}{}{Questa abilita' non ha effetto sulla porta.}
+
+{113}{}{Hai disattivato il campo elettrico della porta.}
+{114}{}{Hai intensificato il campo elettrico della porta.}
+{115}{}{Non sei riuscito a disattivare il campo elettrico.}
+{116}{}{Hai scassinato la serratura senza far scattare il sistema di sicurezza.}
+{117}{}{Non sei riuscito a scassinare la serratura, subendo anche gravi danni dal sistema di sicurezza.}
+{118}{}{Non sei riuscito a scassinare la serratura, subendo qualche danno dal sistema di sicurezza.}
+{119}{}{Ricevi una scossa dal sistema di sicurezza e perdi la concentrazione necessaria per scassinare la serratura.}
+{120}{}{Ricevi una forte scossa dal sistema di sicurezza e perdi la concentrazione necessaria per scassinare la serratura.}
+{121}{}{Fallisci miseramente il tuo tentativo di scassinare la serratura e distruggi i tuoi attrezzi.}
+{122}{}{Non sei riuscito a scassinare la serratura.}
+{123}{}{Vedi una porta solida, ma arrugginita.}
+
+{124}{}{Vedi una porta dipinta di giallo. Non e' chiusa a chiave.}
+{125}{}{Vedi una porta dipinta di giallo. Non e' chiusa a chiave.}
+{126}{}{Vedi una porta protetta da un campo di forza giallo. Non e' chiusa a chiave.}
+{127}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. Non e' chiusa a chiave.}
+{128}{}{Vedi una porta dipinta di giallo.}
+{129}{}{Vedi una porta dipinta di giallo.}
+{130}{}{Vedi una porta protetta da un campo di forza rosso.}
+{131}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio.}
+{132}{}{Vedi una porta dipinta di giallo. E' chiusa a chiave.}
+{133}{}{Vedi una porta dipinta di giallo. E' chiusa a chiave.}
+{134}{}{Vedi una porta protetta da un campo di forza giallo. E' chiusa a chiave.}
+{135}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. E' chiusa a chiave.}
+{136}{}{La serratura della porta gialla necessita di una tessera speciale.}
+{137}{}{La serratura della porta gialla necessita di una tessera speciale.}
+{138}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che la porta e' protetta da un campo di forza giallo.}
+{139}{}{La serratura di questa porta necessita di una speciale tessera gialla. In piu', noti che la porta e' protetta da un sistema di sicurezza ad alto voltaggio.}
+
+{140}{}{Vedi una porta. Non e' chiusa a chiave.}
+{141}{}{Vedi una porta. Non e' chiusa a chiave.}
+{142}{}{Vedi una porta protetta da un campo di forza. Non e' chiusa a chiave.}
+{143}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. Non e' chiusa a chiave.}
+{144}{}{Vedi una porta.}
+{145}{}{Vedi una porta.}
+{146}{}{Vedi una porta protetta da un campo di forza.}
+{147}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio.}
+{148}{}{Vedi una porta. E' chiusa a chiave.}
+{149}{}{Vedi una porta. E' chiusa a chiave.}
+{150}{}{Vedi una porta protetta da un campo di forza. E' chiusa a chiave.}
+{151}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. E' chiusa a chiave.}
+{152}{}{La serratura di questa porta necessita di una tessera speciale.}
+{153}{}{La serratura di questa porta necessita di una tessera speciale.}
+{154}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che la porta e' protetta da un campo di forza.}
+{155}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che la porta e' protetta da un sistema di sicurezza ad alto voltaggio.}
+
+{156}{}{Vedi una porta dipinta di rosso. Non e' chiusa a chiave.}
+{157}{}{Vedi una porta dipinta di rosso. Non e' chiusa a chiave.}
+{158}{}{Vedi una porta protetta da un campo di forza rosso. Non e' chiusa a chiave.}
+{159}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. Non e' chiusa a chiave.}
+{160}{}{Vedi una porta dipinta di rosso.}
+{161}{}{Vedi una porta dipinta di rosso.}
+{162}{}{Vedi una porta protetta da un campo di forza rosso.}
+{163}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio.}
+{164}{}{Vedi una porta dipinta di rosso. E' chiusa a chiave.}
+{165}{}{Vedi una porta dipinta di rosso. E' chiusa a chiave.}
+{166}{}{Vedi una porta protetta da un campo di forza rosso. E' chiusa a chiave.}
+{167}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. E' chiusa a chiave.}
+{168}{}{La serratura di questa porta rossa necessita di una tessera speciale.}
+{169}{}{La serratura di questa porta rossa necessita di una tessera speciale.}
+{170}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che e' protetta da un campo di forza rosso.}
+{171}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che la porta e' protetta da un sistema di sicurezza ad alto voltaggio.}
+
+{172}{}{Vedi una porta dipinta di rosso. Non e' chiusa a chiave.}
+{173}{}{Vedi una porta dipinta di rosso. Non e' chiusa a chiave.}
+{174}{}{Vedi una porta protetta da un campo di forza rosso. Non e' chiusa a chiave.}
+{175}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. Non e' chiusa a chiave.}
+{176}{}{Vedi una porta dipinta di rosso.}
+{177}{}{Vedi una porta dipinta di rosso.}
+{178}{}{Vedi una porta protetta da un campo di forza rosso.}
+{179}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio.}
+{180}{}{Vedi una porta dipinta di rosso. E' chiusa a chiave.}
+{181}{}{Vedi una porta dipinta di rosso. E' chiusa a chiave.}
+{182}{}{Vedi una porta protetta da un campo di forza rosso. E' chiusa a chiave.}
+{183}{}{Vedi una porta protetta da un sistema di sicurezza ad alto voltaggio. E' chiusa a chiave.}
+{184}{}{La serratura di questa porta rossa necessita di una tessera speciale.}
+{185}{}{La serratura di questa porta rossa necessita di una tessera speciale.}
+{186}{}{La serratura di questa porta necessita di una tessera speciale. In piu', noti che e' protetta da un campo di forza rosso.}
+{187}{}{La serratura di questa porta necessita di una speciale tessera rossa. In piu', noti che la porta e' protetta da un sistema di sicurezza ad alto voltaggio.}
+
+{188}{}{Vedi una porta dipinta di giallo.}
+{189}{}{Vedi una porta protetta da un campo di forza giallo.}
+{190}{}{Questa porta e' protetta da un campo di forza giallo.}
+{191}{}{Questa porta e' protetta da un campo di forza giallo. Chissa' se c'e' bisogno di una tessera per aprirla...}
+
+{192}{}{Vedi una porta.}
+{193}{}{Vedi una porta protetta da un campo di forza.}
+{194}{}{La porta e' protetta da un sistema di sicurezza ad alto voltaggio.}
+{195}{}{La porta e' protetta da un sistema di sicurezza ad alto voltaggio. Chissa' se c'e' bisogno di una tessera per aprirla...}
+
+{196}{}{Vedi una porta dipinta di rosso.}
+{197}{}{Vedi una porta protetta da un campo di forza rosso.}
+{198}{}{Questa porta rossa e' protetta da un sistema di sicurezza ad alto voltaggio.}
+{199}{}{Questa porta rossa e' protetta da un sistema di sicurezza ad alto voltaggio. Chissa' se c'e' bisogno di una tessera per aprirla...}
+
+{200}{}{Vedi una porta dipinta di rosso.}
+{201}{}{Vedi una porta protetta da un campo di forza rosso.}
+{202}{}{Questa porta rossa e' protetta da un sistema di sicurezza ad alto voltaggio.}
+{203}{}{Questa porta rossa e' protetta da un sistema di sicurezza ad alto voltaggio. Chissa' se c'e' bisogno di una tessera per aprirla...}
+
+{204}{}{Noti che c'e' una trappola collegata alla porta.}
+{205}{}{L'ascensore non funziona. Probabilmente manca la corrente.}

@@ -1,0 +1,431 @@
+{100}{}{Abitante del Vault}
+{101}{}{}
+{200}{}{Paesano}
+{201}{}{Un umano che indossa un'armatura di cuoio}
+{300}{}{Paesano}
+{301}{}{Un umano che indossa un'armatura d'acciaio.}
+{400}{}{Sfigato}
+{401}{}{Un patetico sfigato.}
+{500}{}{Contadino}
+{501}{}{}
+{600}{}{Abitante del Vault}
+{601}{}{}
+{700}{}{Power Armor}
+{800}{}{Supervisore}
+{900}{}{Super Mutante}
+{901}{}{}
+{1000}{}{Ratto Talpa Maggiore}
+{1001}{}{}
+{1100}{}{Radscorpione}
+{1101}{}{Radscorpione}
+{1200}{}{Persona Incappucciata}
+{1300}{}{Mercante}
+{1301}{}{}
+{1400}{}{Guardia Zombie}
+{1401}{}{}
+{1500}{}{Donna con Armatura}
+{1600}{}{Luminoso}
+{1601}{}{}
+{1700}{}{Uomo in Giacca di Pelle}
+{1800}{}{Contadino}
+{1900}{}{Donna in Giacca di Pelle}
+{2000}{}{Contadino}
+{2100}{}{Uomo con Armatura}
+{2200}{}{Paesana}
+{2201}{}{Umana che indossa una sexy-armatura d'acciaio.}
+{2300}{}{Tenente Super Mutante}
+{2301}{}{}
+{2400}{}{Paesana}
+{2401}{}{Umana che indossa un'armatura di cuoio.}
+{2500}{}{Nightkin}
+{2501}{}{}
+{2600}{}{Abitante del Vault}
+{2601}{}{}
+{2700}{}{Guardia}
+{2800}{}{Brahmin}
+{2801}{}{Una mucca bicefala mutante.}
+{2900}{}{Contadino}
+{3000}{}{Contadino}
+{3100}{}{Uomo in Armatura di Cuoio}
+{3200}{}{Contadino}
+{3201}{}{}
+{3300}{}{Cittadino}
+{3301}{}{}
+{3400}{}{Abitante del Vault}
+{3500}{}{Abitante del Vault}
+{3501}{}{}
+{3600}{}{Cane}
+{3601}{}{Un cane. Probabilmente un meticcio.}
+{3700}{}{Uomo}
+{3800}{}{Donna}
+{3900}{}{Contadino}
+{3901}{}{}
+{4000}{}{Contadino}
+{4001}{}{}
+{4100}{}{Persona con Power Armor}
+{4200}{}{Ragazzo}
+{4201}{}{}
+{4300}{}{Centauro Minore}
+{4301}{}{}
+{4400}{}{Mr. Handy}
+{4500}{}{Fluttuante}
+{4501}{}{}
+{4600}{}{Scriba}
+{4700}{}{Supervisore}
+{4800}{}{Ratto}
+{4801}{}{}
+{4900}{}{Gizmo}
+{5000}{}{Master}
+{5100}{}{Deathclaw}
+{5101}{}{}
+{5200}{}{Tecnico}
+{5201}{}{}
+{5300}{}{Tecnico}
+{5301}{}{}
+{5400}{}{Tecnico}
+{5401}{}{}
+{5500}{}{Guardia}
+{5501}{}{}
+{5600}{}{Guardia}
+{5601}{}{}
+{5700}{}{Guardia}
+{5800}{}{Tecnico}
+{5801}{}{}
+{5900}{}{Cittadino}
+{5901}{}{}
+{6000}{}{Pezzente}
+{6001}{}{}
+{6100}{}{Operaio}
+{6101}{}{}
+{6200}{}{Studente della Cattedrale}
+{6201}{}{}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Mercante}
+{6601}{}{}
+{6700}{}{Guardia}
+{6701}{}{}
+{6800}{}{Mantide}
+{6801}{}{}
+{6900}{}{Robobrain}
+{7000}{}{Guardia dei Predoni}
+{7100}{}{Cittadino}
+{7101}{}{}
+{7200}{}{Cittadino}
+{7201}{}{}
+{7300}{}{Consigliere di Garl}
+{7400}{}{Cittadino}
+{7401}{}{}
+{7500}{}{Predone}
+{7600}{}{Ian}
+{7700}{}{Occhio Fluttuante}
+{7800}{}{Ratto Porco}
+{7801}{}{}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Viandante}
+{8201}{}{}
+{8300}{}{Cittadino}
+{8301}{}{}
+{8400}{}{Cittadino}
+{8401}{}{}
+{8500}{}{Viandante}
+{8501}{}{}
+{8600}{}{Contadino}
+{8601}{}{}
+{8700}{}{Cittadino}
+{8701}{}{}
+{8800}{}{Mercante}
+{8801}{}{}
+{8900}{}{Straniero}
+{8901}{}{}
+{9000}{}{Guardia}
+{9001}{}{}
+{9100}{}{Fattore}
+{9101}{}{}
+{9200}{}{Mercante}
+{9201}{}{}
+{9300}{}{Contadino}
+{9301}{}{}
+{9400}{}{Neal}
+{9500}{}{Contadino}
+{9501}{}{}
+{9600}{}{Operaio}
+{9601}{}{}
+{9700}{}{Mercante}
+{9800}{}{Contadino}
+{9801}{}{}
+{9900}{}{Teppista}
+{9901}{}{}
+{10000}{}{Straniero}
+{10001}{}{}
+{10100}{}{Figlio della Cattedrale}
+{10200}{}{Vinnie}
+{10201}{}{}
+{10300}{}{Viandante}
+{10301}{}{}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Ghoul}
+{10601}{}{}
+{10700}{}{Guardia Nightkin}
+{10701}{}{}
+{10800}{}{Super Mutante Robusto}
+{10801}{}{}
+{10900}{}{Guardia Ghoul}
+{10901}{}{}
+{11000}{}{Sotterraneo}
+{11001}{}{}
+{11100}{}{Dan}
+{11200}{}{Sceriffo Greene}
+{11300}{}{Vicesceriffo Fry}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Hightower}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Dogmeat}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Razor}
+{13000}{}{Tangler}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Surf}
+{13600}{}{Lasher}
+{13700}{}{Barracus}
+{13800}{}{Jeremiah}
+{13900}{}{Medico Super Mutante}
+{14000}{}{Gideon}
+{14001}{}{Le sue mani rilucono di una strana energia.}
+{14100}{}{Dominic}
+{14101}{}{I suoi occhi fiammeggiano di una strana energia.}
+{14200}{}{Lucy}
+{14201}{}{La sua testa riluce di una strana energia.}
+{14300}{}{Wiggup}
+{14301}{}{Piccole scintille d'energia circondano il suo corpo.}
+{14400}{}{Viscious}
+{14500}{}{Tenente Super Mutante}
+{14600}{}{Laura}
+{14700}{}{Morpheus}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Decker}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Grosso Ratto}
+{15901}{}{}
+{16000}{}{Ratto Radioattivo}
+{16001}{}{}
+{16100}{}{Grosso Ratto Radioattivo}
+{16101}{}{}
+{16200}{}{Ratto Talpa Minore}
+{16201}{}{}
+{16300}{}{Coyote}
+{16301}{}{}
+{16400}{}{Grosso Brahmin}
+{16401}{}{}
+{16500}{}{Cucciolo di Deathclaw}
+{16501}{}{}
+{16600}{}{Radscorpione Aggressivo}
+{16601}{}{}
+{16700}{}{Fluttuante Aggressivo}
+{16701}{}{}
+{16800}{}{Centauro Maggiore}
+{16801}{}{}
+{16900}{}{Contadino Squattrinato}
+{16901}{}{}
+{17000}{}{Contadino}
+{17001}{}{}
+{17100}{}{Fattore}
+{17101}{}{}
+{17200}{}{Operaio}
+{17201}{}{}
+{17300}{}{Fattore}
+{17301}{}{}
+{17400}{}{Mercante}
+{17401}{}{}
+{17500}{}{Guardia}
+{17501}{}{}
+{17600}{}{Mantide Maggiore}
+{17601}{}{}
+{17700}{}{Ratto Porco Aggressivo}
+{17701}{}{}
+{17800}{}{Fattore}
+{17801}{}{}
+{17900}{}{Operaio}
+{17901}{}{}
+{18000}{}{Mercante}
+{18001}{}{}
+{18100}{}{Guardie}
+{18101}{}{}
+{18200}{}{Glower}
+{18201}{}{}
+{18300}{}{Luminoso Schizzato}
+{18301}{}{}
+{18400}{}{Zombie}
+{18401}{}{}
+{18500}{}{Guardia}
+{18501}{}{}
+{18600}{}{Guardia Super Mutante}
+{18601}{}{}
+{18700}{}{Super Mutante Aggressivo}
+{18701}{}{}
+{18800}{}{Super Mutante Pazzo}
+{18900}{}{Super Mutante Letale}
+{19000}{}{Grosso Nightkin}
+{19001}{}{}
+{19100}{}{Nightkin Letale}
+{19101}{}{}
+{19200}{}{Super Nightkin}
+{19300}{}{Mega Nightkin}
+{19301}{}{}
+{19400}{}{Guardia}
+{19401}{}{}
+{19500}{}{Mercante}
+{19501}{}{}
+{19600}{}{Guardia}
+{19601}{}{}
+{19700}{}{Guardia}
+{19701}{}{}
+{19800}{}{Guardia}
+{19801}{}{}
+{19900}{}{Ragazza}
+{19901}{}{}
+{20000}{}{Scriba}
+{20100}{}{Guardia}
+{20101}{}{}
+{20200}{}{Straniero}
+{20201}{}{}
+{20300}{}{Delinquente}
+{20301}{}{}
+{20400}{}{Mercenario}
+{20401}{}{}
+{20500}{}{Guardia}
+{20501}{}{}
+{20600}{}{Abitante del Vault}
+{20700}{}{Garl}
+{20800}{}{Doc Morbid}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Viandante}
+{21700}{}{Straniero}
+{21800}{}{Delinquente}
+{21900}{}{Mercenario}
+{22000}{}{Guardia}
+{22100}{}{Cittadino}
+{22200}{}{Straniero}
+{22300}{}{Delinquente}
+{22400}{}{Mercenario}
+{22500}{}{Guardia}
+{22600}{}{Cittadino}
+{22700}{}{Viandante}
+{22800}{}{Straniero}
+{22900}{}{Delinquente}
+{23000}{}{Mercenario}
+{23100}{}{Guardia}
+{23200}{}{Cittadino}
+{23300}{}{Viandante}
+{23400}{}{Mercenario}
+{23500}{}{Guardia}
+{23600}{}{Viandante}
+{23700}{}{Straniero}
+{23800}{}{Delinquente}
+{23900}{}{Mercenario}
+{24000}{}{Guardia}
+{24100}{}{Delinquente}
+{24200}{}{Mercenario}
+{24300}{}{Guardia}
+{24400}{}{Viandante}
+{24500}{}{Straniero}
+{24600}{}{Delinquente}
+{24700}{}{Mercenario}
+{24800}{}{Guardia}
+{24900}{}{Viandante}
+{25000}{}{Straniero}
+{25100}{}{Delinquente}
+{25200}{}{Mercenario}
+{25300}{}{Guardia}
+{25400}{}{Viandante}
+{25500}{}{Straniero}
+{25600}{}{Delinquente}
+{25700}{}{Mercenario}
+{25800}{}{Guardia}
+{25900}{}{Viandante}
+{26000}{}{Straniero}
+{26100}{}{Delinquente}
+{26200}{}{Mercenario}
+{26300}{}{Guardia}
+{26400}{}{Iniziato Cavaliere}
+{26500}{}{Iniziato Cavaliere Maggiore}
+{26600}{}{Apprendista Cavaliere}
+{26700}{}{Cavaliere}
+{26800}{}{Cavaliere Maggiore}
+{26900}{}{Iniziato Cavaliere}
+{27000}{}{Iniziato Cavaliere Maggiore}
+{27100}{}{Apprendista Cavaliere}
+{27200}{}{Cavaliere}
+{27300}{}{Cavaliere Maggiore}
+{27400}{}{Paladino Minore}
+{27500}{}{Paladino}
+{27600}{}{Paladino Maggiore}
+{27700}{}{Paladino Minore}
+{27800}{}{Paladino}
+{27900}{}{Paladino Maggiore}
+{28000}{}{Iniziato Scriba}
+{28100}{}{Iniziato Scriba Maggiore}
+{28200}{}{Apprendista Scriba}
+{28300}{}{Scriba}
+{28400}{}{Scriba Maggiore}
+{28500}{}{Iniziato Scriba}
+{28600}{}{Iniziato Scriba Maggiore}
+{28700}{}{Apprendista Scriba}
+{28800}{}{Scriba}
+{28900}{}{Scriba Maggiore}
+{29000}{}{Incappucciato}
+{29100}{}{Figlio del Master}
+{29200}{}{Studente della Cattedrale}
+{29300}{}{Incappucciata}
+{29400}{}{Figlia del Master}
+{29500}{}{Animaletto del Master}
+{29600}{}{Tirapiedi del Master}
+{29700}{}{Guardia del Master}
+{29800}{}{Animaletto del Master}
+{29900}{}{Tirapiedi del Master}
+{30000}{}{Guardia del Master}
+{30100}{}{Dottore}
+{30200}{}{Katja}
+{30300}{}{Sasha}
+{30301}{}{Vedi una Siberian Husky che aspetta pazientemente il suo padrone.}
+{30400}{}{Straniero Misterioso}
+{30500}{}{Ghoul Senza Cervello}
+{30600}{}{RoboEye, Ver. II}
+{30700}{}{Uovo}
+{30701}{}{Uovo di Deathclaw}
+{30800}{}{Dugan}
+{30900}{}{Madre Deathclaw}
+{31000}{}{Hammer}
+{31100}{}{Viaggiatore Morto}
+{31200}{}{Kenji}

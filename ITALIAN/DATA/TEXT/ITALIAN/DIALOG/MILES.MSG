@@ -1,0 +1,57 @@
+{100}{}{Vedi Miles, il chimico di Adytum.}
+{101}{}{Vedi un uomo magro che indossa un camice bianco.}
+{102}{}{Non credo che ci siamo presentati. Sono Miles. Cosa posso fare per te?}
+{103}{}{Sto solo dando un'occhiata in giro, grazie.}
+{104}{}{Quel camice mi fa pensare che tu sia uno scienziato. Cosa stai studiando?}
+{105}{}{Huh?}
+{106}{}{Beh, spero che la nostra piccola citta' ti piaccia.}
+{107}{}{Sono un chimico. Per lo piu' preparo l'innesco e la polvere per poter utilizzare nuovamente i bossoli usati. Ma non mi dispiace lavorare anche con altre sostanze.}
+{108}{}{Quindi tu produci proiettili per Adytum.}
+{109}{}{Dove prendi lo zolfo, il nitrato di potassio e le altre sostanze chimiche?}
+{110}{}{Quali sono le altre sostanze con cui lavori?}
+{111}{}{Grazie per le informazioni.}
+{112}{}{Si', anche se e' Smitty che inserisce i proiettili. Io riempio soltanto i bossoli vuoti.}
+{113}{}{Ma i mercanti dell'Hub fanno un sacco di soldi alle vostre spalle.}
+{114}{}{E' raro trovare qualcuno che apprezzi la chimica! Per rispondere alla tua domanda, alcune delle sostanze le recupero dai mercanti dell'Hub; le altre le creo nel mio laboratorio o le trovo qui in giro. Per esempio, i mucchi di letame di brahmin sono un'ottima fonte di minerali, cosi' come alcuni funghi che coltivo personalmente.}
+{115}{}{Beh, sto cercando di ottenere degli acidi forti cosi' che Smitty possa fare qualche incisione. Ho anche cercato di creare coloranti e inchiostri permanenti. Ma senza inchiostri naturali, e' difficile.}
+{116}{}{Quando vuoi.} //Any Time
+{117}{}{Oh, cielo. Temo di non poterti aiutare.}
+{118}{}{Bentornato. Posso aiutarti?}
+{119}{}{Si', beh, ma dobbiamo pur tirare avanti. Dato che le fattorie idroponiche non funzionano, dobbiamo comprare il cibo dai mercanti, e i proiettili sono l'unica cosa che abbiamo da vendere.}
+{120}{}{Potrei provare a recuperare i pezzi di ricambio per le fattorie idroponiche.}
+{121}{}{Oh. Beh, e' un vero peccato.}
+{122}{}{Davvero? Sarebbe meraviglioso! Ci mancano solo alcuni pezzi, ma sono certo che se tu riuscissi a trovare quelli giusti, potremmo essere finalmente autosufficienti! Sammael potrebbe aiutarti.}
+{123}{}{Hai trovato i pezzi di ricambio?}
+{124}{}{Si', eccoli qui.}
+{125}{}{Non ancora. A chi hai detto che dovrei rivolgermi?}
+{126}{}{Devi parlare con Sammael. Di solito lo puoi trovare in una tenda vicino alle fattorie.}
+{127}{}{[Miles guarda i pezzi] Sono loro, ma credo che Smitty debba lavorarci un po' su. Puoi portarglieli?}
+{128}{}{Ho altre cose da fare. Non puoi pensarci tu?}
+{129}{}{Certo. Te li riportero' quando li avra' riparati.}
+{130}{}{Certo. Ti ringrazio per averli trovati.}
+{131}{}{E...}
+{132}{}{Nessun problema.}
+{133}{}{Oh. Stavo per dimenticare. Ecco un po' di roba, per il disturbo. [Miles ti da' qualche testone e qualche stimpack.]}
+{134}{}{Sei riuscito a portare i pezzi a Smitty?}
+{135}{}{[Miles prende i pezzi di ricambio] Pare proprio che Smitty abbia fatto un ottimo lavoro. Grazie dell'aiuto; ecco un po' di roba per il disturbo.}
+{136}{}{[Miles ti da' qualche testone e qualche stimpack.]}
+{137}{}{Se ripassi da queste parti, fa' un salto da me e da Smitty. Potremmo essere in grado di migliorare il tuo equipaggiamento. Smitty puo' fare meraviglie con certe armi, e io me la cavo con alcuni tipi di armature.}
+{138}{}{Sembra proprio che tu abbia recuperato una Power Armor. Ho letto di un processo chimico che dovrebbe indurire la superficie dell'armatura. Tuttavia, mi mancano alcune informazioni riguardanti la formula e i reagenti necessari. Ho sentito che la bibliotecaria dell'Hub, la signora Stapleton, dovrebbe avere libri e riviste che potrebbero tornarmi utili. Se potessi portarmeli, dovrei essere in grado di provare il processo sulla tua armatura.}
+{139}{}{Va bene. Andro' a parlare con la signora Stapleton.}
+{140}{}{Ho di meglio da fare che andare a recuperare altre cose per te.}
+{141}{}{Beh, se dovessi cambiare idea, passa dalla signora Stapleton e poi torna qui.}
+{142}{}{Sei riuscito a passare dall'Hub e ad andare dalla signora Stapleton?}
+{143}{}{Si', ecco i libri.}
+{144}{}{Non ancora.}
+{145}{}{[Miles prende i libri e comincia a sfogliarli.] Hmmmm. Si', hmmmm. [borbotta tra se' e se' per qualche istante.] Beh, credo di aver capito, ma ci vorra' un'intera giornata perche' il processo sia completo. Ti va bene?}
+{146}{}{Nessun problema.}
+{147}{}{No, non ho tempo.}
+{148}{}{Beh, se riesci a trovare il tempo, ripassa pure.}
+{149}{}{[Miles prende la tua armatura.]}
+{150}{}{[Miles ti riconsegna l'armatura, che sembra piu' lucida di prima.] Beh, credo abbia funzionato! Spero che ti sia utile.}
+{151}{}{Cos'e' successo alla tua Power Armor? Posso aiutarti soltanto se ne hai una.}
+{152}{}{E' un piacere vederti, ma adesso sono nel bel mezzo di una ricerca.}
+{153}{}{Non posso fare nulla con quell'armatura. Mi dispiace.}
+{154}{}{Guadagni 500 punti esperienza per aver aiutato Miles a riparare le colture idroponiche.}
+{155}{}{Guadagni 200 punti esperienza per aver portato i pezzi di ricambio a Miles.}
+{156}{}{Guadagni 250 punti esperienza per aver portato i pezzi di ricambio a Miles.}

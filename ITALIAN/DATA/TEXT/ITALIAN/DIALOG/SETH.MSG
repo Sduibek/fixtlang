@@ -1,0 +1,99 @@
+{100}{}{Vedi Seth, il capo delle guardie di Shady Sands.}
+{101}{}{Tu! Hai appestato il nostro villaggio fin troppo a lungo. Ti uccidero' con le mie mani!}
+{102}{}{Quelli come te non portano altro che sciagure. Ti uccidero' con le mie mani e liberero' le lande da un mostro.}
+{103}{}{Non siamo molto svegli, eh? Beh, occhio ai radscorpioni e sta' lontano dai guai.}
+{104}{}{Scorpin!}
+{105}{}{Bye-bye.}
+{106}{}{Hai proprio l'aspetto di un predone. Qui a Shady Sands teniamo gli occhi ben aperti. Che cosa vuoi?}
+{107}{}{Voglio tutti i vostri soldi!}
+{108}{}{Vorrei delle informazioni.}
+{109}{}{Bloop?}
+{110}{}{Salve. Mi chiamo Seth. Come posso aiutarti?}
+{111}{}{Vorrei delle informazioni.}
+{112}{}{Wub-wub!}
+{113}{}{Informazioni? Che cosa vuoi sapere?}
+{114}{}{Cosa posso fare per te?}
+{115}{}{Cosa mi puoi dire dei Radscorpioni?}
+{116}{}{Vorrei che mi parlassi dei predoni.}
+{117}{}{Parlami di questo posto.}
+{118}{}{Portami alla grotta dei radscorpioni.}
+{119}{}{Grotta!}
+{120}{}{Nient'altro, grazie.}
+{121}{}{E adesso cosa vuoi?}
+{122}{}{Quei dannati radscorpioni hanno messo gli occhi sui nostri brahmin sin da quando ci siamo stabiliti qui. Praticamente ogni settimana qualcuno rimane avvelenato nel tentativo di tenere quelle bestiacce lontane dai nostri recinti. L'ultima vittima e' mio fratello Jarvis. Razlo, il medico del villaggio, sta lavorando giorno e notte per trovare un antidoto. Ehi, se credi di poterci aiutare, perche' non parli con il nostro capo, Aradesh?}
+{123}{}{Ci sono diversi gruppi di predoni. Il mio compito e' quello di addestrare guardie per cercare di respingerli. Una delle bande e' accampata a sudest di qui. Fa' attenzione.}
+{124}{}{Shady Sands e' una comunita' pacifica. Abbiamo il nostro sistema d'irrigazione, che ci consente di coltivare il nostro cibo. Se non fosse per i radscorpioni e i predoni, non avremmo preoccupazioni.}
+{125}{}{Sei sicuro di volere che ti indichi la posizione della grotta dei radscorpioni? Io non posso lasciare il villaggio, ma posso dirti dove si trova.}
+{126}{}{Si', dimmelo.}
+{127}{}{No, ci ho ripensato.}
+{128}{}{Ok, fammi sapere quando sei pronto.}
+{129}{}{[Fatto]}
+{130}{}{Uh-huh.}
+{131}{}{Uh-uh.}
+
+{200}{}{Tutto il villaggio ti ringrazia per aver sterminato i radscorpioni. Grazie.}
+{201}{}{Grazie a te, non dovremo piu' temere aggressioni da parte loro.}
+{202}{}{Sei sicuro di voler tornare laggiu'? Il viaggio e' lungo e ormai li hai uccisi tutti.}
+{203}{}{Ok. Spero che il nostro villaggio ti piaccia.}
+{204}{}{Benvenuto a Shady Sands, straniero. Durante il tuo soggiorno qui, sei pregato di tenere le armi nel fodero.}
+{205}{}{Salve, straniero. Benvenuto a Shady Sands.}
+{206}{}{Dovresti parlare con Aradesh, il nostro capo. Incontra sempre con piacere i nostri ospiti. Dovrebbe trovarsi nella nostra sala comune... e' quel grosso edificio a sud.}
+
+{300}{}{Grazie a Dharma sei qui, viandante. La mia ragazza... cioe', Tandi, la figlia di Aradesh, e' stata rapita. Crediamo che siano stati i predoni.}
+{301}{}{Dove si trovano questi predoni?}
+{302}{}{Wow. Che disdetta. Beh, ci vediamo.}
+{303}{}{Mi dispiace, ma non credo di essere in grado di aiutarvi...}
+{304}{}{E' terribile, ma devo prima occuparmi di quei radscorpioni. Sono un pericolo per l'intero villaggio.}
+{305}{}{Dov'e' Tandi? Perche' non sei andato a salvarla?}
+{306}{}{Mi serviranno un po' di provviste, se volete che affronti quei tizi.}
+{307}{}{Ho deciso che quella piccola vagabonda non valeva la candela.}
+{308}{}{Ci sto lavorando.}
+{309}{}{Pensavo di occuparmi dei radscorpioni, prima di tutto.}
+{310}{}{Credevo tu fossi una brava persona...}
+{311}{}{Si trovano a sudest. Ti prego, sbrigati. Non oso pensare a cosa potrebbero farle.}
+{312}{}{Okay, la salvero'.}
+{313}{}{Non ho detto che ti avrei aiutato. Ho gia' abbastanza problemi per conto mio.}
+{314}{}{Quanto sei disposto a pagarmi per questo lavoro?}
+{315}{}{Devo aiutare la mia gente. Mi dispiace.}
+{316}{}{Lo sapevo che eri un mercenario senza cuore. Ti pagheremo bene, stanne certo.}
+{317}{}{Se non hai intenzione di dirmi quanto mi darai, scordati che accetti l'incarico.}
+{318}{}{D'accordo, ci penso io.}
+{319}{}{Mi dispiace, devo andare.}
+{320}{}{Bastardo!}
+{321}{}{Sbrigati, ti prego. Solo gli dei sanno cosa le stanno facendo quei cani.}
+{322}{}{Preferirei che tu salvassi prima Tandi, straniero, ma se sei disposto ad aiutarci con i radscorpioni, ti mostrero' la via che conduce alla loro tana.}
+{323}{}{Okay, portami dai radscorpioni.}
+{324}{}{Ho cambiato idea. Ci si vede.}
+{325}{}{Ottimo. Torno tra un attimo.}
+
+{1000}{}{Khan}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Water}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Sands}
+{1011}{}{Scorpione}
+{1012}{}{Radscorpione}
+{1013}{}{Scorpioni}
+{1014}{}{Radscorpioni}
+
+{1100}{}{Sono un gruppo di fuorilegge che dicono di essere i diretti discendenti di qualche famosa banda del passato.}
+{1101}{}{E' il capo dei Khan. E' la persona piu' pericolosa che abbia mai messo gli occhi su Shady Sands. Guida i clan dei predoni con pugno di ferro.}
+{1102}{}{Si trova a circa una settimana di distanza verso sudovest. Talvolta riusciamo a concludere dei buoni scambi, ma di solito cercano soltanto di fregarci.}
+{1103}{}{Ci sei in mezzo.}
+{1104}{}{Sta molto piu' a sud di Junktown. L'Hub e' la piu' grande citta' della zona, che io sappia. Ci saranno almeno mille persone, laggiu'.}
+{1105}{}{Mi dispiace, non posso aiutarti.}
+{1106}{}{E' la figlia di Aradesh. Un giorno potrebbe guidare il villaggio, ma deve imparare ad essere un po' meno testarda.}
+{1107}{}{E' il capo della nostra comunita' e un vero eroe. Lo trovi sempre al lavoro, nella sala comune.}
+{1108}{}{Sono io. Lavoro con Aradesh per fare in modo che la vita nel villaggio scorra tranquilla.}
+{1109}{}{Il nostro medico. Se sei ferito, fai un salto da lui.}
+{1110}{}{Ci sei dentro.}
+{1111}{}{Terribili creature dal veleno micidiale.}
+{1112}{}{Terribili creature dal veleno micidiale.}
+{1113}{}{Terribili creature dal veleno micidiale.}
+{1114}{}{Terribili creature dal veleno micidiale.}

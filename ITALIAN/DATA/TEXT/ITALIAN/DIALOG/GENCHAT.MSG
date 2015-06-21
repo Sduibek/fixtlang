@@ -1,0 +1,96 @@
+{100}{}{Grazie.}
+{101}{}{Arrivederci.}
+{102}{}{Salve.}
+{103}{}{Guadagni }
+{104}{}{ punti esperienza.}
+{105}{}{Uh oh!}
+{106}{}{Click!}
+{107}{}{Opps!}
+{108}{}{Ouch!}
+{109}{}{Ci si vede.}
+{110}{}{Sta' calmo.}
+{111}{}{E' stato divertente.}
+{112}{}{Ecco a te.}
+{113}{}{Altro?}
+{114}{}{Si'.}
+{115}{}{No.}
+{116}{}{Guadagni }
+{117}{}{ punti abilita' in Armi Leggere.}
+{118}{}{ punti abilita' in Armi Pesanti.}
+{119}{}{ punti abilita' in Armi ad Energia.}
+{120}{}{ punti abilita' in Disarmato.}
+{121}{}{ punti abilita' in Armi da Mischia.}
+{122}{}{ punti abilita' in Lanciare.}
+{123}{}{ punti abilita' in Pronto Soccorso.}
+{124}{}{ punti abilita' in Dottore.}
+{125}{}{ punti abilita' in Movimento Silenzioso.}
+{126}{}{ punti abilita' in Rubare.}
+{127}{}{ punti abilita' in Scassinare.}
+{128}{}{ punti abilita' in Trappole.}
+{129}{}{ punti abilita' in Scienza.}
+{130}{}{ punti abilita' in Riparare.}
+{131}{}{ punti abilita' in Dialogare.}
+{132}{}{ punti abilita' in Barattare.}
+{133}{}{ punti abilita' in Giocare d'Azzardo.}
+{134}{}{ punti abilita' in Sopravvivenza.}
+{135}{}{Guadagni un punto abilita' in Armi Leggere.}
+{136}{}{Guadagni un punto abilita' in Armi Pesanti.}
+{137}{}{Guadagni un punto abilita' in Armi ad Energia.}
+{138}{}{Guadagni un punto abilita' in Disarmato.}
+{139}{}{Guadagni un punto abilita' in Armi da Mischia.}
+{140}{}{Guadagni un punto abilita' in Lanciare.}
+{141}{}{Guadagni un punto abilita' in Pronto Soccorso.}
+{142}{}{Guadagni un punto abilita' in Dottore.}
+{143}{}{Guadagni un punto abilita' in Movimento Silenzioso.}
+{144}{}{Guadagni un punto abilita' in Rubare.}
+{145}{}{Guadagni un punto abilita' in Scassinare.}
+{146}{}{Guadagni un punto abilita' in Trappole.}
+{147}{}{Guadagni un punto abilita' in Scienza.}
+{148}{}{Guadagni un punto abilita' in Riparare.}
+{149}{}{Guadagni un punto abilita' in Dialogare.}
+{150}{}{Guadagni un punto abilita' in Barattare.}
+{151}{}{Guadagni un punto abilita' in Giocare d'Azzardo.}
+{152}{}{Guadagni un punto abilita' in Sopravvivenza.}
+{153}{}{La tua Forza aumenta di }
+{154}{}{La tua Percezione aumenta di }
+{155}{}{La tua Resistenza aumenta di }
+{156}{}{Il tuo Carisma aumenta di }
+{157}{}{La tua Intelligenza aumenta di }
+{158}{}{La tua Agilita' aumenta di }
+{159}{}{La tua Fortuna aumenta di }
+{160}{}{ punti.}
+{161}{}{La tua Forza aumenta di un punto.}
+{162}{}{La tua Percezione aumenta di un punto.}
+{163}{}{La tua Resistenza aumenta di un punto.}
+{164}{}{Il tuo Carisma aumenta di un punto.}
+{165}{}{La tua Intelligenza aumenta di un punto.}
+{166}{}{La tua Agilita' aumenta di un punto.}
+{167}{}{La tua Fortuna aumenta di un punto.}
+{168}{}{Grazie dell'aiuto.}
+{169}{}{Bah.}
+{170}{}{Aradesh e' furioso e si rifiuta di parlarti.}
+{171}{}{Credo che il Master voglia parlare con te.}
+{172}{}{La pagherai per la tua BLASFEMIA!}
+{173}{}{Questo robot non sembra funzionare. Probabilmente perche' manca la corrente.}
+{174}{}{Non noti nulla di particolare a proposito di questo robot.}
+{175}{}{Il membro dei Blade si rifiuta di parlare con te.}
+{176}{}{La valigetta e' sigillata e non e' possibile aprirla.}
+{177}{}{Ti prego, dobbiamo sbrigarci. Non abbiamo tempo per parlare.}
+{178}{}{Solo Morpheus ha la chiave di questa porta. Devo andare ad avvertire Nicole di quanto sta accadendo.}
+{179}{}{Ti prego. Devo andarmene da qui prima che scoprano chi sono.}
+{180}{}{Non sei riuscito a rubare nulla e ti chiedi se sei stato beccato.}
+{181}{}{I membri della Confraternita ti hanno beccato a rubare.}
+# Mysterious Stranger messages
+{182}{}{Diamoci dentro!}                                # 0
+{183}{}{Sembra proprio che tu abbia bisogno di aiuto.} # 1
+{184}{}{Ti aiutero'.}                         # 0
+{185}{}{Io non parlo molto.}                        # 1
+{186}{}{Senti un annuncio provenire dall'altoparlante: Allarme! Intruso.}
+{187}{}{La sostanza gelatinosa rallenta la velocita' con cui riesci a premere i tasti.}
+{188}{}{I radscorpioni sono bloccati nella loro caverna.}
+{189}{}{L'ingresso della grotta ti invita ad addentrarti in profondita', nella tana dei radscorpioni.}
+
+{200}{}{Vedi un emettitore di campo. E' terribilmente danneggiato.}
+{201}{}{L'emettitore e' troppo danneggiato per funzionare.}
+{202}{}{L'emettitore e' danneggiato irreparabilmente.}
+{203}{}{Noti che il campo di forza e' danneggiato in maniera tale da poter essere attraversato.}

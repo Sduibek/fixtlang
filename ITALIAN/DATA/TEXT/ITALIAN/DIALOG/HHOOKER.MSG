@@ -1,0 +1,168 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Vedi una donna.}
+{107}{}{Vedi un uomo.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{Vedi un ubriaco.}
+{110}{}{Lashami sholo col mio dolore.}
+{111}{}{Shei il mio piu' mijjore amico.}
+# best friend (slurred)
+
+{112}{}{Perche' shei... (hic) dove shono io?}
+{113}{}{Chi shei?}
+{114}{}{Sci conoshamo?}
+{115}{}{Mi gira un po' la teshta.}
+{116}{}{Offro io... scioe' tu.}
+{117}{}{Shiete gemelli?}
+{118}{}{Shta fermo, amico!}
+# laddy is male
+
+{119}{}{Shta ferma, ragassha!}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{Vedi un cliente.}
+{104}{}{Vedi un giocatore.}
+{120}{}{Sparisci, sfigato!}
+# == "Get out of here loser"
+
+{121}{}{Rovini l'atmosfera del locale.}
+# == "you are dropping the class of this place"
+
+{122}{}{Vattene! Porti sfiga!}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Non rovinare la mia concentrazione.}
+{124}{}{Riusciro' a vincere, prima o poi!}
+{125}{}{Sai giocare?}
+{126}{}{Hai visto? Non e' possibile!}
+# referring to dice roll
+
+{127}{}{Secondo me barano.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{Questa mi pare una buona puntata.}
+{129}{}{Ho praticamente gia' vinto.}
+# referring to a bet.
+
+{130}{}{Cosa? Come ho fatto a perdere?}
+{131}{}{Questo tavolo e' sfigato!}
+# == "this table is cursed/unlucky"
+
+{132}{}{Sono occupato.}
+{133}{}{Non vedi che sto giocando?}
+{134}{}{Gioca o schioda.}
+
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+
+{102}{}{Vedi una ragazza molto carina.}
+{105}{}{Vedi una donna. Sembra impegnata.}
+{135}{}{Lasciaci in pace o chiamo le guardie.}
+{136}{}{Sta' attento, sono un'amica intima del vice sceriffo Fry.}
+{137}{}{Ti dispiace?}
+{138}{}{Niente guardoni!}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Non faccio sesso di gruppo.}
+# == "I don't have sex with more than one person."
+
+{140}{}{Sono troppo stanca per un altro cliente.}
+# referring to having another round of sex.
+
+{141}{}{Stai sognando, amico. Sparisci!}
+{142}{}{Via dalle palle!}
+{143}{}{Cosa cazzo credi di fare?}
+{144}{}{Vedi di controllarti!}
+{145}{}{Chiamo gli sbirri!}
+{146}{}{Non pensarci nemmeno!}
+{147}{}{Fuori!}
+{148}{}{Sparisci!}
+{149}{}{Cosa stai guardando?}
+{150}{}{Ti spiace?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{Vedi un mercenario.}
+{151}{}{Fuori dalla nostra stanza!}
+{152}{}{Sparisci!}
+{153}{}{Fai parte dell'offerta?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Sparisci, pervertito!}
+# == "get out of here, perverse person"
+
+{155}{}{Che problemi c'hai?}
+{156}{}{Sparisci, prima che mi incazzi sul serio.}
+# "Beat it" == "get out of here"
+
+{157}{}{Trovatene una per te.}
+# ==  "get your own hooker"
+
+{158}{}{Lei e' mia.}
+# "She" is referring to the hooker.
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{Vedi un giocatore arrabbiato.}
+{159}{}{Cazzo!}
+{160}{}{Stai barando?}
+# referring to the player
+
+{161}{}{Avrei dovuto vincere io.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Quasi!}
+# nearly got his number on the roulette wheel
+
+{163}{}{Per un pelo.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{Quali erano le regole?}
+# in referrence to a gambling game
+
+{165}{}{Una volta vincevo sempre.}
+# in referrence to a gambling game
+
+{166}{}{Al diavolo.}
+{167}{}{Non ci credo!}
+{168}{}{Ho perso apposta.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{Vedi un uomo dall'aspetto insolito.}
+{169}{}{Fate il vostro gioco.}
+{170}{}{Via le mani dal tavolo.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Abbiamo un vincitore!}
+{172}{}{Spiacente, ragazzi. Sara' per la prossima volta.}
+# maybe next time someone can win
+
+{173}{}{Un altro vincitore!}
+{174}{}{Via le mani!}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{E' il suo turno.}
+# your turn to bet
+{176}{}{Spiacente, ma la puntata non e' valida.}
+{177}{}{Basta cosi'.}
+{178}{}{Altri?}

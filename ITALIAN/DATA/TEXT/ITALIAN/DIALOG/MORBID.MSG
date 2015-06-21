@@ -1,0 +1,144 @@
+{100}{}{Vedi Doc Morbid.}
+{101}{}{Sono Doc Morbid, posso aiutarti?}
+{102}{}{Si', ho bisogno di aiuto.}
+{103}{}{Ho bisogno di cure mediche.}
+{104}{}{No, non adesso.}
+{105}{}{Nng.}
+{106}{}{Ya.}
+{107}{}{Bene. Ok, allora. Torna quando vuoi.}
+{108}{}{Beh, se non e' adesso, forse lo sara' nel prossimo futuro.}
+{109}{}{Spero proprio di no. Addio.}
+{110}{}{Oh, questo poi e' tutto da vedere. Ma io ne dubito.}
+{111}{}{Hmm, fammi dare un'occhiata. }
+{112}{}{Hai praticamente una salute di ferro. Per la visita sono 10$.}
+{113}{}{Dieci tappi per dirmi una cosa del genere? Stai scherzando, vero?}
+{114}{}{Ecco i tuoi soldi.}
+{115}{}{Io non scherzo mai. Specialmente quando si tratta di traumi fisici. Se non vuoi pagare saro' costretto a passare ad altre forme di compenso, molte delle quali sono molto piu' dolorose del semplice pagamento in denaro.}
+{116}{}{Ok, ecco i tuoi soldi.}
+{117}{}{Al diavolo. Io me ne vado.}
+{118}{}{Come preferisci. Cougar, Flash. Portate il "paziente" nel mio laboratorio.}
+{119}{}{Grazie mille. Torna quando vuoi.}
+{120}{}{Non hai abbastanza soldi. Ma io ho un metodo speciale per trattare con i debitori. Flash e Cougar, portate la nostra nuova fonte di guadagni al laboratorio per l'"operazione".}
+{121}{}{Ok, ho i risultati dei tuoi esami:}
+{122}{}{}
+{123}{}{Il costo totale e' di}
+{124}{}{$. Il denaro dev'essere versato prima dell'eventuale trattamento. Senza eccezioni. Sei pronto a pagare?}
+{125}{}{Si', paghero'.}
+{126}{}{No, non ho tutto quel denaro. Non e' che puoi farmi un prestito?}
+{127}{}{No.}
+{128}{}{Ya.}
+{129}{}{Nuh.}
+{130}{}{No. Non faccio prestiti a nessuno, e intendo proprio a nessuno, non importa quale sia la cifra. Sparisci, pezzente.}
+{131}{}{La vita e' tua. Arrivederci.}
+{132}{}{Eccellente. Cominciamo subito. Potrebbe farti un po' male...}
+{133}{}{Ecco fatto. Torna presto!}
+{134}{}{Oh, sei gia' di ritorno. Come posso aiutarti?}
+{135}{}{Ho bisogno di cure.}
+{136}{}{Niente, volevo solo fare due chiacchiere.}
+{137}{}{Wock!}
+{138}{}{Allora valle a fare da qualche altra parte. Sono occupato.}
+{139}{}{Hmmm. Non mi piace la tua faccia, straniero. Ma cosa posso fare per te? Non rifiuto mai di aiutare un cliente pagante.}
+{140}{}{Ho bisogno d'aiuto.}
+{141}{}{Ho bisogno di cure mediche.}
+{142}{}{Per oggi nulla, grazie.}
+{143}{}{Hep.}
+{144}{}{Oh, sei di nuovo tu. Mi piace il tuo stile... anche se non mi piaci tu. Come posso aiutarti, stavolta?}
+{145}{}{Ho bisogno di cure.}
+{146}{}{Niente, volevo solo fare due chiacchiere.}
+{147}{}{Wock!}
+{148}{}{Oh, un cliente! Come posso aiutarti?}
+{149}{}{Ho bisogno di cure.}
+{150}{}{Niente, volevo solo fare due chiacchiere.}
+{151}{}{Sembri molto felice di vedermi. Perche'?}
+{152}{}{Wock!}
+{153}{}{Gli affari vanno a rilento, ultimamente. E cosi', di questi tempi, sono sempre felice di vedere clienti - non importa di che tipo siano... Non che mi dispiaccia la tua compagnia, naturalmente.}
+{154}{}{Splendido. Ho bisogno di cure.}
+{155}{}{Come mai gli affari vanno a rilento?}
+{156}{}{Certo, capisco benissimo. Buona giornata.}
+{157}{}{Beh, se ti serve qualcosa, fai un salto qui. Nessuno e' piu' bravo di me!}
+{158}{}{Nel caso tu non l'avessi notato, ho della concorrenza.}
+{159}{}{ Lamentarsi con Killian non serve a niente. Non ha nulla da ridire con i nuovi arrivati.}
+{160}{}{ Quei dannati Figli della Cattedrale si sono trasferiti qui vicino e tutti... ehm... gran parte dei miei clienti sono andati da loro. La cosa non mi piace, ma non posso certo abbassare i miei prezzi per pareggiarli coi loro. Posso solo garantire un servizio migliore.}
+{161}{}{Ahh, meglio andare sul sicuro, allora. Ho bisogno di cure.}
+{162}{}{Hmm, prezzi migliori... interessante. Grazie mille.}
+{163}{}{Ahh, un cliente fedele. Che cosa meravigliosa, di questi tempi! Come posso aiutarti?}
+{164}{}{Ho bisogno di cure.}
+{165}{}{Niente, volevo solo fare due chiacchiere.}
+{166}{}{Wock!}
+{167}{}{Spero che tu abbia una buona ragione per disturbarmi. Il mio tempo e' estremamente prezioso.}
+{168}{}{Sto morendo! Aiutami, ti prego!}
+{169}{}{Mi dispiace disturbarti, ma ho bisogno di aiuto.}
+{170}{}{Aggh!}
+{171}{}{Il tuo umorismo e' davvero fuori luogo. Adesso devo tornare al mio lavoro; sei pregato di andartene.}
+{172}{}{Hmm. Beh, mi sembri a posto. Forse hai solo bisogno di un po' di riposo. Prova alla Crash House, qui dietro l'angolo. Buona notte.}
+{173}{}{Mi dispiace, ma a quest'ora della notte non curo gli idioti. Si tratta sicuramente di una cosa legata alla luna piena. Buona notte.}
+{174}{}{Ancora tu. Spero che tu abbia un'altra buona ragione per disturbarmi...}
+{175}{}{Sto morendo! Aiutami, ti prego!}
+{176}{}{Mi dispiace disturbarti, ma ho bisogno di aiuto.}
+{177}{}{Aggh!}
+# TRANSLATION NOTES
+# When the player gets help from the Doctor, it will build a diagnosis report
+# from the lines below. First, it uses one of lines 178-182 to report
+# the character's status. Second, it adds on one of lines 183-186.
+# If the player is poisoned, it appends one of lines 187-190; if
+# the player is irradiated, it adds a line from 191-194 depending on
+# the severity of the radiation, and then adds line 195 as well.
+{178}{}{Sei in piena forma,}
+{179}{}{Hai solo qualche graffio,}
+{180}{}{Hai qualche brutta ferita,}
+{181}{}{Sei ferito in modo serio,}
+{182}{}{Sei praticamente morto,}
+{183}{}{ secondo il mio giudizio di medico affermato.}
+{184}{}{ secondo gli esami.}
+{185}{}{ senza dubbio.}
+{186}{}{ secondo me.}
+{187}{}{ Stai evidentemente scontando gli effetti di un avvelenamento.}
+{188}{}{ Sei stato avvelenato.}
+{189}{}{ Sapevi di esser stato avvelenato?}
+{190}{}{ Nel tuo sangue e' presente una tossina letale.}
+{191}{}{ Stai subendo gli effetti di una lieve intossicazione da radiazioni.}
+{192}{}{ Hai un grave avvelenamento da radiazioni.}
+{193}{}{ Il tuo corpo ha assorbito un'incredibile quantita' di radiazioni.}
+{194}{}{ Non ho mai visto simili valori sul mio contatore Geiger. Credo che tu stia per morire. Ti do dalle due alle tre settimane di vita.}
+{195}{}{ Non c'e' molto che io possa fare.}
+{196}{}{Spero che tu abbia una buona ragione per disturbarmi. Il mio tempo e' estremamente prezioso.}
+{197}{}{Sto morendo! Aiutami, ti prego!}
+{198}{}{Mi dispiace disturbarti, ma ho bisogno di aiuto.}
+{199}{}{Aggh!}
+{200}{}{Il tuo umorismo e' davvero fuori luogo. Adesso devo tornare al mio lavoro; sei pregato di andartene.}
+{201}{}{Hmm. Beh, mi sembri a posto. Forse hai solo bisogno di un po' di riposo. Prova alla Crash House, qui dietro l'angolo. Buona notte.}
+{202}{}{Mi dispiace, ma a quest'ora della notte non curo gli idioti. Si tratta sicuramente di una cosa legata alla luna piena. Buona notte.}
+{203}{}{Ancora tu. Spero che tu abbia un'altra buona ragione per disturbarmi...}
+{204}{}{Questa e' una stanza privata!}
+{205}{}{}
+{206}{}{}
+{207}{}{Fatti sotto, macellaio!}
+{208}{}{Aspetta!}
+{209}{}{Ack!}
+{210}{}{Non sperare di cavartela a buon mercato!}
+{211}{}{Perche' dovrei?}
+{212}{}{Non sono un pericolo per te!}
+{213}{}{Mettero' fine alle tue sordide operazioni, qui e subito!}
+{214}{}{No! Non ti permettero' di metter fine alle mie operazioni! Gretch, prendi }
+{215}{}{Perche'?!}
+{216}{}{So cosa stai facendo, e non ti fermero'.}
+{217}{}{Non sono abbastanza potente per mettermi contro di te.}
+{218}{}{E' vero. Sfortunatamente, pero', hai visto troppo. Hmm.}
+{219}{}{ Sono costretto a liberarmi di te. Mi dispiace.}
+{220}{}{ Devi dimostrare la tua sincerita'. E forse potrei anche ricavare qualcosa da questo accordo.}
+{221}{}{Che cosa vuoi dire?}
+{222}{}{Niente accordi, puoi scordartelo.}
+{223}{}{Benissimo. Come preferisci!}
+{224}{}{Prendero' qualcosa di tuo. E cosi' saremo pari.}
+{225}{}{Okay.}
+{226}{}{Scordatelo.}
+{227}{}{Eccellente!}
+{228}{}{Doc Morbid prende uno strumento chirurgico e, prima che tu possa reagire, ti toglie un occhio. Il dolore e' quasi insopportabile.}
+{229}{}{Ora, meta' di quello che hai appena visto e' di nuovo mio.}
+{230}{}{MI HAI STRAPPATO UN OCCHIO! BRUTTO FIGLIO DI... }
+{231}{}{Su, su. Cerca di controllarti.}
+{232}{}{Il dottore non riceve.}
+{233}{}{So tutto di te e Iguana Bob, lurido macellaio.}
+{234}{}{Ch... che cosa intendi dire?}
+{235}{}{Ho fatto due chiacchiere con il tuo schiavo...}
+{236}{}{[Si guarda nervosamente in giro] Questo non dimostra nulla. Gretch e' un po'... tardo. Nessuno gli da' retta. Faresti meglio ad andartene.}

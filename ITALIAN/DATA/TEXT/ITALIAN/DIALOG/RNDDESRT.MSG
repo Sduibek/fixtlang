@@ -1,0 +1,100 @@
+{100}{}{Da quel che puoi vedere, non dovrebbero aver viaggiato a lungo. La loro tana non dev'essere distante.}
+{101}{}{Pare che siano giunti qui da un posto non troppo distante.}
+{102}{}{Sembra che provengano da un luogo a nord di qui.}
+{103}{}{A prima vista, si direbbe che vaghino senza meta per le lande.}
+{104}{}{Sei capitato in mezzo ad una feroce battaglia tra radscorpioni e ratti talpa.}
+{105}{}{IMBOSCATA!!!}
+{106}{}{Ti imbatti in un grosso branco di radscorpioni!}
+{107}{}{Ti imbatti in un gruppo di radscorpioni.}
+{108}{}{Ti imbatti in una famiglia di ratti talpa.}
+{109}{}{Sei riuscito ad evitare una grave disidratazione, trovando dell'acqua dopo una ricerca lunga un'ora.}
+{110}{}{Sei riuscito ad evitare una grave disidratazione, trovando dell'acqua dopo una ricerca durata }
+{111}{}{ ore.}
+{112}{}{La tua provvista d'acqua e' finita. Passi un'ora nel tentativo di trovare una fonte d'acqua potabile, ma senza successo. La disidratazione che ne consegue ti causa }
+{113}{}{ punti di danno.}
+{114}{}{La tua provvista d'acqua e' finita. Passi }
+{115}{}{ ore nel tentativo di trovare una fonte d'acqua potabile, ma senza successo. La grave disidratazione che ne consegue ti causa }
+{116}{}{ punti di danno.}
+{117}{}{Cerchi l'acqua in pieno deserto per un'ora, ma non ne trovi abbastanza da evitare la disidratazione. Subisci un punto di danno.}
+{118}{}{Cerchi l'acqua in pieno deserto per un'ora, ma non ne trovi abbastanza da evitare la disidratazione. Subisci }
+{119}{}{ punti di danno.}
+{120}{}{Cerchi l'acqua in pieno deserto per }
+{121}{}{ ore, ma non ne trovi abbastanza da evitare la disidratazione. Subisci un punto di danno.}
+{122}{}{Cerchi l'acqua in pieno deserto per }
+{123}{}{ ore, ma non ne trovi abbastanza da evitare la disidratazione. Subisci }
+{124}{}{ punti di danno.}
+{125}{}{Riesci a non disidratarti grazie alle tue provviste d'acqua.}
+#{12600}{}{Dei radscorpioni inseguono dei ratti talpa tra le rovine di un'antica citta'.}
+{126}{}{Ti imbatti in alcuni radscorpioni che inseguono dei ratti talpa.}
+{127}{}{Umanoidi ostili dalla pelle verde.}
+{128}{}{Rifiuti e rocce sparsi dappertutto.}
+{129}{}{Un radscorpione solitario ti attacca!}
+{130}{}{Noti un cadavere mezzo mangiato.}
+{131}{}{ASSALTO!!!}
+{132}{}{Ti imbatti in un grosso branco di radscorpioni!}
+{133}{}{I predoni ti assaltano!}
+{134}{}{Un gruppo di rascorpioni ti attacca da una duna!}
+{135}{}{Incontri un gruppo di guardie di pattuglia.}
+{136}{}{Ti imbatti in un mercante accompagnato da molte guardie.}
+{137}{}{Vedi un contadino che conduce al pascolo diversi brahmin.}
+{143}{}{Predoni!!!}
+{144}{}{Ti sei imbattuto in un grosso gruppo di ratti talpa.}
+{145}{}{Incontri un gruppo di radscorpioni selvatici.}
+{146}{}{Incontri alcuni contadini sotto attacco.}
+{169}{}{Ti imbatti in una famiglia di radscorpioni.}
+{170}{}{Incontri un mercante che sta viaggiando con alcune guardie.}
+{171}{}{Incontri un viaggiatore morto.}
+#{17100}{}{Incontri un viaggiatore.}
+#{17200}{}{Ti sei imbattuto in un gruppetto di edifici diroccati e deserti.}
+{172}{}{Ti sei imbattuto in alcuni oggetti sparsi per terra.}
+{173}{}{Trovi i resti di una carovana che vengono razziati dai predoni.}
+{196}{}{Radscorpioni in arrivo!}
+{197}{}{Uh oh... predoni!}
+{198}{}{In lontananza avvisti un predone solitario.}
+{199}{}{Giungi sul luogo di una battaglia, con cadaveri dappertutto.}
+{200}{}{Radscorpioni in arrivo!}
+{223}{}{Vedi un branco di coyote selvatici.}
+{224}{}{Vedi diverse persone che esplorano la zona.}
+{225}{}{Ti imbatti in un piccolo gruppo di mercanti e guardie.}
+{226}{}{Assisti ad una piccola guerra -- uomini contro mutanti!}
+{227}{}{Una tremenda orda di radscorpioni sta venendo proprio verso di te!}
+{250}{}{Un gruppo di uomini in Power Armor vengono nella tua direzione.}
+{251}{}{Vedi un gruppo di mercanti e di guardie.}
+{252}{}{Finisci in mezzo ad uno scontro tra alcuni predoni del deserto e un gruppo di uomini in Power Armor.}
+{253}{}{Vedi diversi mutanti che esplorano una zona ostile.}
+{254}{}{Vedi un gruppo di strane creature...}
+{25500}{}{Trovi le rovine di un piccolo villaggio.}
+{255}{}{Trovi alcuni oggetti.}
+{256}{}{Una pattuglia di super mutanti sta passando qui vicino!}
+{279}{}{Davanti a te ci sono dei rifiuti sparsi sulla sabbia.}
+{280}{}{Ti imbatti in un gruppo di super mutanti in assetto da battaglia.}
+{281}{}{Ti imbatti in un gruppo di bizzarre creature.}
+{282}{}{Ti imbatti in un gruppo di Radscorpioni affamati.}
+{283}{}{Ti senti nervoso, e l'aria sembra piu' calda del solito.}
+{284}{}{Ti sei imbattuto in una bizzarra creatura fluttuante.}
+{285}{}{Incontri qualcosa che sembra essere uscito da un vecchio film di fantascienza.}
+{286}{}{Il Deathclaw!!}
+{287}{}{Ti imbatti in un gruppo di radscorpioni.}
+{288}{}{Incontri una creatura mutante del deserto.}
+{299}{}{Ad una discreta distanza da te vedi un gruppo di radscorpioni.}
+{300}{}{Ti imbatti in un contadino.}
+{301}{}{Incontri un ratto talpa.}
+{302}{}{Il Deathclaw!!}
+{303}{}{Ti imbatti in un gruppo di radscorpioni.}
+{304}{}{Scene_Type == }
+{305}{}{Ti imbatti in cio' che resta delle guardie di Duc il mercante.}
+{306}{}{Una pattuglia di mutanti sta passando qui vicino... e con loro ci sono delle strane creature!}
+{307}{}{Sei stato attaccato da un manipolo di super mutanti.}
+{308}{}{Pare proprio che tu sia finito in mezzo ad una guerra tra bande!}
+{309}{}{Un gruppo di banditi compare dal nulla!}
+{310}{}{Un piccolo gruppo di predoni ti attacca!}
+{311}{}{Un piccolo gruppo di banditi ti attacca!}
+{312}{}{Sei stato attaccato da un branco di ratti!}
+{313}{}{Uno sciame di mantidi ti attacca!}
+# Some special encounter text
+{314}{}{Ehi! Ci sono davvero, la' fuori!}
+{315}{}{In lontananza vedi un camion rovesciato.}
+{316}{}{Ti imbatti in una serie di automobili distrutte.}
+{317}{}{A nordest vedi una cabina della polizia.}
+{318}{}{Incontri una mandria di brahmin selvatici. Ma c'e' qualcosa che non torna...}
+

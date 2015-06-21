@@ -1,0 +1,64 @@
+# These are the police of the Hub (a large metropolis). They are either gender, but using
+# Male is the best approach. They are simpltons who have a badge only because no one else
+# would take the badge. Speech has an absent-mindedness about it.
+
+{100}{}{Vedi un poliziotto.}
+# Police Officer is male
+
+{101}{}{Benvenuto! Dovro' guardare il tuo... ehm... cioe'... controllare... (l'agente guarda gli altri agenti e fa dei cenni con la testa verso di te.)}
+{102}{}{Ehila', straniero... Ehi! Ma io ti conosco! Sei ricercato per furto! Non muoverti!}
+# Stranger is the player. Consider Male.
+
+{103}{}{Okay, mi arrendo.}
+{104}{}{Assaggia un po' di piombo! Offre la casa!}
+# "Eat lead" is equivalant to "I'm going to kill you."
+
+{105}{}{Kor Rok!}
+# "Kor Rok" is just garbled sounds a moronic player is saying.
+
+{106}{}{(Ti arrendi.)}
+{107}{}{Guardati le spalle, questo non e' un posto tranquillo.}
+
+# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
+{108}{}{Tieni d'occhio i tuoi soldi, }
+# scripts are money
+
+{109}{}{ragazzo.}
+{110}{}{miss.}
+{111}{}{Non dovresti stare qui. E' pericoloso.}
+{112}{}{La Citta' Vecchia sta davvero cadendo a pezzi.}
+# Old Town is another section of town. This is were the poor and down-trodden live.
+
+{113}{}{Questo posto puzza.}
+{114}{}{Dovremmo proprio deciderci a demolire questa zona.}
+{115}{}{So che la Cerchia dei Ladri si trova da queste parti... ma dove?}
+# the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
+
+{116}{}{Povero Harold. Ha avuto una vita difficile.}
+# Harold is Male
+
+{117}{}{Vedi di non cacciarti nei guai.}
+# == Don't do anything illegal.
+
+{118}{}{Ehi. Ti conosco. Niente risse, okay?}
+{119}{}{Farai meglio a non scatenare altre risse!}
+{120}{}{Se ti becchiamo ancora in una rissa, finisci dentro!}
+# "You're going in" equals "You are going to jail"
+
+{121}{}{Hai sentito? I Mercanti FarGo sono stati spazzati via.}
+# Far Go Traders is a merchant's guild
+
+{122}{}{I Mercanti d'Acqua sono storia... che gioia.}
+# Water Merchants is a merchant's guild
+
+{123}{}{Qualcuno ha ucciso tutti i membri delle Carovane Scarlatte.}
+# Crimson Caravans is a merchant's guild
+
+{124}{}{Hai sentito? La Malavita e' stata finalmente debellata!}
+# Underground is a rough organization for assassins. Akin to the Mafia
+
+{125}{}{Decker e' morto!}
+# Decker is Male
+
+{126}{}{Questa citta' sarebbe molto piu' sicura se Decker tirasse le cuoia.}
+# == "This town would be safer with Decker dead."

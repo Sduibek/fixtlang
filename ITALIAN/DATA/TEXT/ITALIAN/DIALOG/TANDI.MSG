@@ -1,0 +1,150 @@
+{100}{}{Vedi Tandi.}
+{101}{}{Che altro c'e' da queste parti?}
+{102}{}{Come vanno le cose da queste parti?}
+{103}{}{Cosa mi sai dire della regione meridionale?}
+{104}{}{Ti piace stare qui?}
+{105}{}{Beh, e' tutto. Grazie.}
+{106}{TAND_1}{Ciao! Mi avevano detto che nel villaggio c'era un viaggiatore, ma finche' non ti ho visto ero piuttosto dubbiosa. Mi chiamo Tandi. E tu?}
+{107}{}{Mi chiamo }
+{108}{}{.}
+{109}{}{Il mio nome e' }
+{110}{}{. Ricordatelo.}
+{111}{}{Uhhh?}
+{112}{tand_2}{Beh... come ti sembra il nostro piccolo villaggio? Ti sei gia' stufato?}
+{113}{}{Non e' male. Posso farti qualche domanda?}
+{114}{}{Diavolo, si'. Qui non c'e' niente da fare se non guardare i brahmin che si accoppiano.}
+{115}{}{Non mi pare un posto malvagio.}
+{116}{}{Beh, si'. E' un po' noioso.}
+{117}{TAND_3}{Si'... credo. Non sono mai uscita dal villaggio, quindi non so che aiuto potrei darti. Allora, cosa ti serve?}
+{118}{TAND_4}{Gia'... Beh, tu non vivi qui. Non c'e' niente di interessante da fare e credimi: spiare i brahmin diventa subito noioso.}
+{119}{}{Se sei cosi' stufa, perche' non te ne vai?}
+{120}{}{Dai, forse stai esagerando.}
+{121}{}{A me sembra un posticino tranquillo e sicuro.}
+ {122}{TAND_5}{Andarmene? Io? Mi piacerebbe. Ma non sono abbastanza esperta per andarmene da sola... e nessuno vuole venire con me. La cosa peggiore, poi, e' che mio padre dice che se mi capitasse qualcosa gli verrebbe un colpo! }
+{123}{}{Brutta situazione. Posso farti qualche domanda?}
+{124}{}{Capperi, adesso devo proprio andare. Buona fortuna.}
+{125}{TAND_6}{Uh... adesso devo rimanermene qui. }
+{126}{TAND_12}{Prova a vivere qui per tutta la vita e poi vedresti quanto ti piacerebbe! C'e' altro che vuoi sapere?}
+{127}{TAND_13}{Gia', davvero sicuro... e talmente noioso che il mio cervello potrebbe colarmi dalle orecchie da un momento all'altro.}
+{128}{}{Perche' non te ne vai?}
+{129}{}{Ah, mi dispiace. Purtroppo non ho molto tempo. Posso farti qualche domanda?}
+{130}{TAND_14}{Finalmente! Qualcuno che mi capisce! Certo, tu devi aver visto chissa' quali posti: questo dovra' sembrarti un vero inferno.}
+{131}{}{Se sei cosi' stufa, perche' non te ne vai?}
+{132}{}{Beh, dai... forse stai esagerando.}
+{133}{}{A me sembra un posticino tranquillo e sicuro.}
+{134}{TAND_15}{Junktown sta a sudovest, ma non so quanto sia distante. Piu' sotto c'e' uno strano posto chiamato la Citta' dei Morti. Hm, ah si'... c'e' anche un altro posto... Oh, capperi, come si chiamava? Ah, si': l'Hub. }
+{135}{tand_15a}{Ci saranno una mezza dozzina di citta', a sud. Ma siccome sei un cosi' grande viaggiatore, sono certa che le conoscerai gia'.}
+{136}{}{Grazie.}
+{137}{TAND_16}{Non c'e' di che. Altro?}
+{300}{tand_16a}{Si', vabbe'.}
+{138}{TAND_20}{Ci sono i radscorpioni! Cioe', lo so che non e' una cosa positiva, ma da queste parti e' la cosa piu' vicina a poter esser chiamata "divertimento"!} //le punture non hanno ucciso nessuno. E
+{139}{TAND_21}{Non molto, da quando hai spazzato via quei radscorpioni. Cavoli, avrei proprio voluto vederti.}
+{140}{TAND_22}{Come sempre. Una barba.}
+{142}{tand_23b}{Niente di che.}
+{141}{tand_23g}{La storia piu' strana che ho sentito parlava del Deathclaw.}
+{143}{}{Grazie.}
+{144}{}{Deathclaw?}
+{145}{TAND_24}{E' okay, credo. Cioe', questa e' casa mia, ma e' cosi' barbosa! Sai, io vorrei vedere il mondo...}
+{146}{}{Se sei cosi' annoiata, perche' non te ne vai?}
+{147}{}{Beh, dai... forse stai solo esagerando.}
+{148}{}{A me sembra un posticino tranquillo e sicuro.}
+{150}{tand_27f}{Ascolta...ehm...a me...ehm...a me piacciono i ragazzi, okay? Fiuu! Ehm, scusami, ma ho delle cose da fare.}
+{149}{tand_27m}{Non sono quel genere di ragazza, signore. Vatti a trovare un brahmin o qualcosa del genere.}
+{151}{TAND_28}{Beh, grazie della chiacchierata. Da queste parti non si vedono molti stranieri, e cosi' mi fa sempre piacere parlare con gente nuova. Beh, ci vediamo! }
+{152}{}{Ciao.}
+{153}{TAND_29}{Ehm, ascolta. Devo andare ad occuparmi dei brahmin. E' stato, ehm, bello parlare con te. }
+{154}{tand_30a}{Bentornato! Come posso aiutarti?}
+{155}{}{Posso farti qualche altra domanda?}
+{156}{}{Volevo solo salutarti. Ci vediamo.}
+{157}{TAND_35}{Uh... ehi, grazie. A dopo.}
+{158}{TAND_36}{Ciao! Temevo che te ne fossi andato prima che potessi ringraziarti per avermi salvata. Ah! E' stato grandioso! Azione, avventura... Comunque, se c'e' qualcosa che posso fare per te, chiedi pure.}
+{159}{}{Che ne diresti di rispondere a qualche altra domanda?}
+{160}{}{Che ne diresti se io e te... beh, sai... ci appartassimo?}
+{161}{}{No, non serve, grazie.}
+{162}{}{Dungh!!}
+{163}{TAND_37}{Chi sei? Che cosa vuoi?}
+{164}{}{Mi chiamo }
+{165}{}{, e mi manda tuo padre.}
+{166}{}{Sono la tua fata madrina. Tu che dici?}
+{167}{}{Duh.}
+{168}{TAND_38}{Ti manda mio padre!? Sei qui per liberarmi?}
+{169}{}{Si', ma rimani qui ferma. Ti faro' uscire.}
+{170}{}{No, mi ha solo mandato a vedere come stavi.}
+{171}{TAND_39}{Beh, qual e' il tuo piano?}
+{172}{}{Aspetta che si apra la porta. E poi scappa!}
+{173}{}{Combattero' contro il leader dei Khan per vincere la tua liberta'.}
+{174}{TAND_40}{Tutto qua? Questo sarebbe il tuo piano. Ugh! D'accordo. Ma sbrigati. Li ho sentiti parlare e non mi piacciono i loro progetti. }
+{175}{TAND_41}{Tu? Combattere contro di lui? Ma non prendermi in giro! [Sigh] Ascolta, se ti viene in mente un altro piano, fammelo sapere, okay? }
+{176}{TAND_42}{Oh, ma come siamo spiritosi! Hai intenzione di farmi uscire da qui o che!?}
+{177}{}{Si'. Tieni duro... e quando vedi la porta aperta, scappa!}
+{178}{}{Combattero' contro il leader dei Khan per vincere la tua liberta'.}
+{179}{TAND_43}{Oh, sei tornato! Hai intenzione di liberarmi?}
+{180}{}{Si', ma rimani qui ferma. Ti faro' uscire.}
+{181}{}{No, ho fatto un salto giusto per salutarti.}
+{182}{}{Duh.}
+{183}{tand_43a}{Ehila', c'e' nessuno in casa? Potresti farmi uscire da qui? Potresti FARMI USCIRE DA QUI?!?}
+{184}{tand_43b}{Non c'e' tempo per parlare; dobbiamo andarcene da qui.}
+{185}{TAND_44}{Aradesh e' mio padre. E' un tipo a posto, per essere un genitore.}
+{186}{TAND_45}{Sono io. Chi altri credevi che fosse?}
+{187}{TAND_46}{Razlo e' il vecchio che abita nella zona sud del villaggio. E' un dottore piuttosto bravo, nonostante sia un fossile. }
+{188}{TAND_47}{Seth e' il capitano delle guardie. Tempo fa mio padre ha cercato di farci mettere assieme, ma non e' il mio tipo.}
+{189}{TAND_48}{Agatha e' l'abitante piu' vecchia del villaggio. Noi tutti l'amiamo, e adoriamo le sue storie. Va' da lei se vuoi ascoltare un bel racconto.}
+{190}{TAND_49}{Un gruppo molto violento, da quanto mi hanno detto. Mio padre potra' dirti qualcosa di piu'. A me non racconta mai molto di quello che succede nel mondo esterno.}
+{191}{TAND_50}{E' da dove prendiamo tutta la nostra acqua. C'e' sin da quando sono nata.}
+{192}{TAND_51}{Una volta ne ho visto uno, anche se da molto lontano. Sono creature terribili, con chele enormi e un grosso pungiglione. E il loro veleno puo' essere letale, se non lo si cura. Se vuoi saperne di piu', dovresti parlare con Aradesh, mio padre. }
+{193}{TAND_52}{Ho sentito una storia da un viaggiatore che veniva da sud. Pare che il Deathclaw sia una creatura che uccide le persone di notte. Pare anche che nessuno possa catturarlo, perche' scompare nel nulla. Non che io ci creda, naturalmente.}
+{194}{TAND_53}{Junktown e' una piccola citta' a sudovest. Dovrebbe esserci una buona attivita' commerciale, ma mio padre non se ne interessa minimamente. Dice che dobbiamo starcene "protetti". Si', certo. "Ingabbiati", dico io. }
+{195}{TAND_54}{L'Hub dovrebbe essere una grossa citta' a sud. Ho sempre desiderato vederla, ma non ne ho mai avuto la possibilita'. }
+{196}{TAND_55}{Non saprei, ma il tipo che me ne ha parlato era davvero spaventato. Diceva che le strade erano piene di non-morti! }
+{197}{TAND_62}{Non saprei. Puoi provare a chiedere a Seth o a mio padre, pero'.}
+{198}{TAND_63}{Hmm... non mi dice nulla. }
+{199}{TAND_64}{Hm... no. Mai sentito nominare. }
+{200}{TAND_65}{Ehi! Che cosa credi di fare? Metti giu'! }
+{201}{TAND_66}{Adesso basta! Lo diro' a mio padre! }
+{202}{TAND_67}{Che cosa diavolo credi di fare? Smettila! }
+{203}{TAND_68}{Che cosa ci fai qui? Faresti meglio ad andartene prima che mio padre si svegli.}
+{204}{TAND_69}{Come ti ho detto...}
+{205}{TAND_70}{Ascolta, te l'ho gia' detto... }
+{206}{TAND_71}{Ancora? Ehi? Quante volte dovro' dirtelo? Hai le orecchie sporche, o che?}
+{207}{TAND_72}{Ah si', ne ho sentito parlare, ma faresti meglio a parlarne con Agatha. Lei ne sapra' sicuramente piu' di me.}
+{208}{}{Andiamocene da qui.}
+
+{300}{}{Wow! Questo posto e' totalmente diverso da Shady Sands.}
+{301}{}{Ehi, cos'e' quello la'?}
+{302}{}{Non vedo l'ora di raccontare agli abitanti di Shady Sands com'e' fatto il mondo esterno.}
+{303}{}{Hai visto altri radscorpioni?}
+{304}{}{Dove siamo diretti?}
+{305}{}{Quand'e' che andremo laggiu'?}
+
+
+{980}{TAND_62}{Non saprei. Puoi provare a chiedere a Seth o a mio padre, pero'.}
+{981}{TAND_63}{Hmm... non mi dice nulla. }
+{982}{TAND_64}{Hm... no. Mai sentito nominare. }
+
+{1000}{}{Aradesh}
+{1001}{}{Tandi}
+#{1002}{}{Razlo}
+{1002}{}{Seth}
+{1003}{}{Predoni}
+{1004}{}{Pozzo}
+{1005}{}{scorpioni}
+{1006}{}{Deathclaw}
+{1007}{}{Junktown}
+{1008}{}{Hub}
+{1009}{}{Citta'}
+{1010}{}{Radscorpioni}
+{1011}{}{Khan}
+
+{1100}{TAND_44}{Aradesh e' mio padre. E' un tipo a posto, per essere un genitore.}
+{1101}{TAND_45}{Sono io. Chi altri credevi che fosse?}
+#{1102}{TAND_46}{Razlo e' il vecchio che abita nella zona sud del villaggio. E' un dottore piuttosto bravo, nonostante sia un fossile. }
+{1102}{TAND_47}{Seth e' il capitano delle guardie. Tempo fa mio padre ha cercato di farci mettere assieme, ma non e' il mio tipo.}
+{1103}{TAND_49}{Un gruppo molto violento, da quanto mi hanno detto. Mio padre potra' dirti qualcosa di piu'. A me non racconta mai molto di quello che succede nel mondo esterno.}
+{1104}{TAND_50}{E' da dove prendiamo tutta la nostra acqua. C'e' sin da quando sono nata.}
+{1105}{TAND_51}{Una volta ne ho visto uno, anche se da molto lontano. Sono creature terribili, con chele enormi e un grosso pungiglione. E il loro veleno puo' essere letale, se non lo si cura. Se vuoi saperne di piu', dovresti parlare con Aradesh, mio padre. }
+{1106}{TAND_52}{Ho sentito una storia da un viaggiatore che veniva da sud. Pare che il Deathclaw sia una creatura che uccide le persone di notte. Pare anche che nessuno possa catturarlo, perche' scompare nel nulla. Non che io ci creda, naturalmente.}
+{1107}{TAND_53}{Junktown e' una piccola citta' a sudovest. Dovrebbe esserci una buona attivita' commerciale, ma mio padre non se ne interessa minimamente. Dice che dobbiamo starcene "protetti". Si', certo. "Ingabbiati", dico io. }
+{1108}{TAND_54}{L'Hub dovrebbe essere una grossa citta' a sud. Ho sempre desiderato vederla, ma non ne ho mai avuto la possibilita'. }
+{1109}{TAND_55}{Non saprei, ma il tipo che me ne ha parlato era davvero spaventato. Diceva che le strade erano piene di non-morti! }
+{1110}{TAND_51}{Una volta ne ho visto uno, anche se da molto lontano. Sono creature terribili, con chele enormi e un grosso pungiglione. E il loro veleno puo' essere letale, se non lo si cura. Se vuoi saperne di piu', dovresti parlare con Aradesh, mio padre. }
+{1111}{TAND_49}{Un gruppo molto violento, da quanto mi hanno detto. Mio padre potra' dirti qualcosa di piu'. A me non racconta mai molto di quello che succede nel mondo esterno.}

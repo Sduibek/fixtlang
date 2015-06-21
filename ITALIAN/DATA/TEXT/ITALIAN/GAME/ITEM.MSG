@@ -1,0 +1,13 @@
+#
+# Item.c messages
+#
+{1}{}{Hai guadagnato %d %s.}
+{2}{}{Hai perso %d %s.}
+{3}{}{Ti senti meglio.}
+{4}{}{Il tuo cuore ha ceduto a causa di un'overdose.}
+{5}{}{%s non ha piu' colpi.}
+{6}{}{%s e' acceso.}
+{7}{}{%s e' spento.}
+{8}{}{Passi il contatore Geiger sul tuo corpo. Il contatore rem indica: %d}
+{9}{}{Questo oggetto puo' essere usato solo dall'interfaccia.}
+{10}{}{Non accade nulla.}
