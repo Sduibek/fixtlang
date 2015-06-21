@@ -1,0 +1,9 @@
+IMPORTANT: If you aren't using the GOG version or Steam version, and are running Windows Vista or Windows 7 or Windows 8, and you have Fallout installed directly in Program Files (e.g. C:\Program Files\Fallout), you may experience issues, due to Microsoft's terrible invention called "User Account Control". So don't install it there. Reinstall Fallout in a different location, then run this installer again. Or just disable UAC, because it sucks anyway.
+
+On the next screen, try these paths if you're unsure of your Fallout install location:
+  [GOG version]    C:\Program Files\GOG.com\Fallout
+ [Steam version]   C:\Program Files\Steam\steamapps\common
+                           C:\Program Files\Steam\steamapps\{your username}
+ [Standard paths]  C:\Fallout, C:\Games\Fallout, C:\Programs\Fallout, etc.
+
+For 64-bit Windows, also check "Program Files (x86)" instead of "Program Files".
