@@ -46,3 +46,7 @@ These files should be present and translated in your translation, with the exact
  - These files will very likely have content that is newer than the content of the current publicly-available release of Fixt.
 
  - For files from the public releases of Fixt, check fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/
+
+ - Files not used in-game, such as ddraw.ini, f1_res.ini are provided here. Please consider translating them, as it'll make things easier for your compatriats when changing game settings :)
+
+ - For similar reasons, copies of the Troubleshooting guide and Changelog are also provided.
