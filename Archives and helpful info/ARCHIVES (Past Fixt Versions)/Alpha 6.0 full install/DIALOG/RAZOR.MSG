@@ -1,7 +1,7 @@
 {100}{}{Hello, what can I do for you?}
 {101}{}{Who are you?}
 {102}{}{Are you the leader of this gang?}
-{103}{}{Nevermind.}
+{103}{}{Never mind.}
 {104}{}{A... Wha?}
 {105}{}{Razor's the name. I'm the closest thing we have to a leader.}
 {106}{}{So you are the leader of this gang?}
@@ -63,7 +63,7 @@
 {161}{}{Bye.}
 {162}{}{Can I help you?}
 {163}{}{Are you the leader of this gang?}
-{164}{}{Nevermind.}
+{164}{}{Never mind.}
 {165}{}{A... Wha?}
 {166}{}{Gang? We're hardly a gang. But I am the one they all come to for direction.}
 {167}{}{Zimmerman sent me.}

@@ -228,7 +228,7 @@
 #{196}{}{What?}
 {196}{}{什么？}
 #{197}{HROLD31}{
-#Nevermind, that was from my time.  I'm cranky, old and I've been that way ever since I changed.}
+#Never mind, that was from my time.  I'm cranky, old and I've been that way ever since I changed.}
 {197}{HROLD31}{哦，别介意，那是我对时间的算法。自从我变异后就一直是这么烦躁不安、顽固怪癖了。}
 #{198}{}{What did you do before this happened to you?}
 {198}{}{你出事之前你在做什么？}

@@ -17,7 +17,7 @@
 {107}{}{One week}
 {108}{}{One month (30 days)}
 {109}{}{One year}
-{110}{}{Nevermind.}
+{110}{}{Never mind.}
 
 {111}{}{Turn forward the clock.}
 {112}{}{Okay. How much?}
@@ -28,13 +28,13 @@
 {117}{}{One week}
 {118}{}{One month (30 days)}
 {119}{}{One year}
-{120}{}{Nevermind.}
+{120}{}{Never mind.}
 
 {121}{}{Give me all the keys in the game.}
 {122}{}{In a backpack or directly in your inventory?}
 {123}{}{In a backpack.}
 {124}{}{In my inventory.}
-{125}{}{Nevermind.}
+{125}{}{Never mind.}
 
 {201}{}{Experience Points.}
 {202}{}{Damage, Poison, Radiation.}
@@ -82,7 +82,7 @@
 {236}{}{50 thousand}
 {237}{}{210 thousand}
 {238}{}{negative 5 thousand}
-{239}{}{Nevermind}
+{239}{}{Never mind}
 {240}{}{Ok, you have them.}
 {241}{}{How many Exp points do you want?}
 

@@ -224,7 +224,7 @@
 {315}{}{Alright, I'll go, but can I get some better weapons first?}
 {316}{}{Ok, I'll do it for 1000 caps.}
 {317}{}{Take it or leave it.}
-{318}{}{Nevermind.}
+{318}{}{Never mind.}
 {319}{}{Ok, Ok, I'll do it for free.}
 {320}{}{Very well, I'll see you when I get back.}
 {321}{}{I have found proof that it is this army which is causing that disappearance
@@ -242,12 +242,12 @@
  you are getting ready to go to war, but no one knows with who.}
 {330}{}{I need to talk to you about the disappearance of the caravans. Do you have
  any insight on the matter.}
-{331}{}{Nevermind.}
+{331}{}{Never mind.}
 {332}{}{I need to ask you some questions.}
 {333}{}{Duh?}
 {334}{}{I have some information on the area north of here.}
 {335}{}{Can I ask you some questions?}
-{336}{}{Nevermind.}
+{336}{}{Never mind.}
 {337}{}{Sorry, I didn't really have anything.}
 {338}{}{I saw their base. It's crawling with mutants.}
 {339}{}{I saw the mutant base to the north. They follow a leader they call the Master.}
@@ -261,7 +261,7 @@
 {345}{}{What is the Brotherhood's main purpose?}
 {346}{}{Who are the Elders?}
 {347}{}{Do you know anything about the Deathclaw?}
-{348}{}{Nevermind.}
+{348}{}{Never mind.}
 {349}{}{Can I ask you another question?}
 {350}{}{Thank you.}
 {351}{}{You gain }

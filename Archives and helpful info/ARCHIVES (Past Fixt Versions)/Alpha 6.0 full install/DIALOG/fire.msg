@@ -26,7 +26,7 @@
 {125}{}{Okay, talk to the head wench. Razor'll set you straight as to what ta do.}
 {126}{}{Stupid and a chicken. I'll put you out of your misery now.}
 {127}{}{So you are a Ripper! I'd be sorry to hear that, but then I already knew they were stupid. Goodnight!}
-{128}{}{The Rippers. Those inbreeds on the other side of town. Nevermind. You're too stupid to know anything.}
+{128}{}{The Rippers. Those inbreeds on the other side of town. Never mind. You're too stupid to know anything.}
 {129}{}{You want to be a Blade? Good luck. But, if you can find Razor, talk to her about that. Maybe she'll let you jump in.}
 {130}{}{Okay, thanks.}
 {131}{}{Then I don't want in!}
@@ -35,7 +35,7 @@
 {134}{}{Your momma never wanted you, and we don't either.}
 {135}{}{Simple. You'll have to kill someone to get in here. She will tell you who you're gonna need to kill.}
 {136}{}{Okay, thanks.}
-{137}{}{Nevermind. I don't want to be part of your stupid gang.}
+{137}{}{Never mind. I don't want to be part of your stupid gang.}
 {138}{}{No. I can't. I don't lead. I just keep Razor straight.}
 {139}{}{Simple. Slaughter our enemies, and then we will give Adytum a break.}
 {140}{}{Who are your enemies?}
@@ -43,7 +43,7 @@
 {142}{}{Fighting is wrong! I won't do it!}
 {143}{}{The Regulators. They rule Adytum. They ain't stupid and are very dangerous.}
 {144}{}{Okay, I'll kill the Regulators.}
-{145}{}{Nevermind.}
+{145}{}{Never mind.}
 {146}{}{If you plan on doing that, you may want to let Razor know. Otherwise, she will have your head before you get out of here.}
 {147}{}{Suit yourself. Goodbye.}
 {148}{}{I don't make deals. I only make suggestions. Talk to Razor if you want to deal.}

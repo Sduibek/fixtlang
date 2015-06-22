@@ -91,7 +91,7 @@
 #{129}{}{Just shut up and take me there.}
 {129}{}{闭嘴，带我去那。}
 
-#{130}{}{Ah, nevermind.  You take care, now.}
+#{130}{}{Ah, never mind.  You take care, now.}
 {130}{}{啊，别在意。你现在要当心了。}
 
 #{131}{}{I do this, then I do that.  You see Harold?  Harold's fun, his hair falls out, falls in the wind.  There it goes... wind, wind.}

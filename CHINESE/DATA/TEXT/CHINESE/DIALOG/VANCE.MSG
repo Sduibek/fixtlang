@@ -19,7 +19,7 @@
 #{105}{}{I've heard you've got what I need.  Can I score some?}
 {105}{}{我听说你有我需要的东西。我能来点吗？}
 
-#{106}{}{Nevermind. Bye.}
+#{106}{}{Never mind. Bye.}
 {106}{}{没事。再见。}
 
 #{107}{}{The name's Vance, and that's all you need to know. Can I get you anything?}
@@ -34,7 +34,7 @@
 #{110}{}{Empty}
 {110}{}{空的}
 
-#{111}{}{Nevermind. Bye.}
+#{111}{}{Never mind. Bye.}
 {111}{}{没事。再见。}
 
 #{112}{}{If you don't already know, you shouldn't be here. Now leave.}
@@ -46,7 +46,7 @@
 #{114}{}{OK.  I'll leave.}
 {114}{}{好的。那我走。}
 
-#{115}{}{Nevermind is right!  Now get out of here!}
+#{115}{}{Never mind is right!  Now get out of here!}
 {115}{}{没事就对了！现在给我滚出去！}
 
 #{116}{}{Make me... if you can, freak!}
@@ -148,7 +148,7 @@
 #{148}{}{I don't care what you think.}
 {148}{}{我不在乎你想什么。}
 
-#{149}{}{Nevermind. Bye.}
+#{149}{}{Never mind. Bye.}
 {149}{}{没事。再见。}
 
 #{150}{}{Don't use it all in one place.}

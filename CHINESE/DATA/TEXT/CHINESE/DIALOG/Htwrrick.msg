@@ -16,7 +16,7 @@
 #{104}{}{Your head on a stick!}
 {104}{}{你脑袋想开花吗！}
 
-#{105}{}{Nevermind.}
+#{105}{}{Never mind.}
 {105}{}{算了。}
 
 #{106}{}{Get back over to the Eastside, you hop head!}

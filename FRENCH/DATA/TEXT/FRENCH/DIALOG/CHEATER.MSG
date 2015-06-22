@@ -20,7 +20,7 @@
 {108}{}{6    One month [30 days]}
 {109}{}{7    Six months}
 {309}{}{8    13 years}
-{110}{}{9    Nevermind.}
+{110}{}{9    Never mind.}
 {111}{}{2  Turn forward the clock.}
 {112}{}{Okay. How much ? [Numbers at beginning are number you can hit to choose that selection]}
 {113}{}{1    One second  [10 ticks]}
@@ -31,12 +31,12 @@
 {118}{}{6    One month [30 days]}
 {119}{}{7    Six months}
 {319}{}{8    13 years}
-{120}{}{9    Nevermind.}
+{120}{}{9    Never mind.}
 {121}{}{7  Give me all the keys in the game.}
 {122}{}{In a backpack or directly in your inventory ?}
 {123}{}{1    In a backpack.}
 {124}{}{2    In my inventory.}
-{125}{}{3    Nevermind.}
+{125}{}{3    Never mind.}
 {200}{}{How may I Cheat you today ?}
 {201}{}{1  Experience.}
 {202}{}{2  Damage, Poison, Radiation.}
@@ -73,7 +73,7 @@
 {236}{}{5    50 thousand}
 {237}{}{6    210 thousand}
 {238}{}{7    negative 5 thousand}
-{239}{}{8    Nevermind}
+{239}{}{8    Never mind}
 {240}{}{Ok, you have them.}
 {241}{}{How many Exp points do you want ? [Numbers at beginning are number you can hit to choose that selection]}
 {242}{}{9    Hit points.}
@@ -94,7 +94,7 @@
 {257}{}{5    Military Base - Vats}
 {258}{}{6    Shady Sands - West}
 {259}{}{7    The Hub - Downtown}
-{260}{}{8    Nevermind.}
+{260}{}{8    Never mind.}
 {261}{}{9    Master's Lair - 3/4}
 {262}{}{Okay, which map ?}
 {263}{}{5  Modify game time (roll back or forward)}
@@ -112,8 +112,8 @@
 {275}{}{The Glow,  Desert}
 {276}{}{Caravans}
 {277}{}{Specials}
-{278}{}{9    Nevermind.}
-{279}{}{7    Nevermind.}
+{278}{}{9    Never mind.}
+{279}{}{7    Never mind.}
 {280}{}{8    Endgame Slideshow.}
 
 {303}{}{Necropolis - HALLDED.MAP}

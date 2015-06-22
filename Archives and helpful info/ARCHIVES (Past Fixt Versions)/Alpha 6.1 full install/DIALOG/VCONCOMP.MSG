@@ -104,11 +104,11 @@
 {201}{}{Deactivate the base's alarms.}
 {202}{}{Command completed successfully.}
 {203}{}{[Continue]}
-{204}{}{[return to main menu]   Nevermind.}
+{204}{}{[return to main menu]   Never mind.}
 {205}{}{\> Executing 536475-69-62656B ... ... ... Command completed successfully.}
 {206}{}{\> Executing 10710-8971-2014510 ...}
 {207}{}{ERROR: Records already found on Pip-Boy 2000. Aborting.}
-{208}{}{[return to main menu]   Nevermind.}
+{208}{}{[return to main menu]   Never mind.}
 #
 {300}{}{10810-1103-9799121.}
 {301}{}{[10810-1103-9799121]     Self-destruct in 5 minutes.}
