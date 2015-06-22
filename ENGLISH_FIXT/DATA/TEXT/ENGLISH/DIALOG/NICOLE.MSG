@@ -121,7 +121,7 @@
 {220}{Nic_39}{Thank you, I appreciate that. Now, is there anything else you needed to ask me?}
 {221}{}{Yes, there is.}
 {222}{}{No, I need to run.}
-{223}{Nic_41}{Well, the rumor is that there was something so important there, that the area was saturated with bombs to insure everything was wiped out.}
+{223}{Nic_41}{Well, the rumor is that there was something so important there, that the area was saturated with bombs to ensure everything was wiped out.}
 {224}{}{Can I ask a few more questions?}
 {225}{}{Interesting. But I have to go now.}
 {226}{Nic_42}{Well, the Boneyard is pretty scarce as you can see. Adytum is to the west. The Children of the Cathedral are to the north. I wouldn't advise going too far south into the city, though, the Rippers and the Blades have made it into a battlefield.}
@@ -224,7 +224,7 @@
 {322}{}{Do you know who their leader is?}
 {323}{}{Do you have any suspicions about them?}
 {324}{}{Can you help me destroy them?}
-{325}{}{Thanks I can use all the help I can get!}
+{325}{}{Thanks, I can use all the help I can get!}
 {326}{}{Thanks for the information. I'll be going now.}
 
 
