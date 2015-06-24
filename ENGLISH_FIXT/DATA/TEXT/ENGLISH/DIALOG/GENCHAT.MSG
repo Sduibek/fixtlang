@@ -246,6 +246,7 @@
 {433}{}{WARNING: Save is from an old version of Fixt. Might get glitches or crashes.}
 #float msg over character, currently disabled
 {434}{}{I'm from an older version!}
+
 #
 # For door to Brotherhood armory (weapons/armor stash on Lvl1)
 #
@@ -256,6 +257,7 @@
 {503}{}{You earn }
 {504}{}{ experience for successful use of explosives.}
 {505}{}{The blast doesn't quite destroy the door. You'll need one more.}
+
 #
 # For guards within Brotherhood armory (weapons/armor stash on Lvl1)
 #
@@ -266,6 +268,7 @@
 {605}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
 {606}{}{This is not the library, my boy. If you want to browse, go to the library.}
 {607}{}{This is not the library, my girl. If you want to browse, please go to the library.}
+
 #
 # For endgame (when blowing up Vats, and Master's Vault. Both give the XP but didn't notify user previously.)
 #
@@ -274,3 +277,9 @@
 {702}{}{You earn 10000 experience for destroying The Master.}
 
 {800}{}{Why are you talking to rats?}
+
+# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine.
+# These messages will appear in the console window (bottom-left of game screen) at regular intervals.
+{900}{}{PIP-Boy 2000 displays "VAULT 13 WATER: }
+{901}{}{}
+{902}{}{ DAYS LEFT."}
