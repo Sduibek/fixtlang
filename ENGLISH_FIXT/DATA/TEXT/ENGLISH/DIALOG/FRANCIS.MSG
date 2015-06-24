@@ -28,17 +28,22 @@
 {127}{}{Got any ammo?}
 {128}{}{Hep! Me hep?}
 {129}{}{Well, Father Morpheus hasn't given any sermons in such a long time. It's a pity, because I so love his speeches and everybody seems to be very busy with some Crusade.}
-{130}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{130}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {131}{}{Well, I could, but the ones who go through the Servitor process are so much better than I am... Their minds are so much more focused on the Master than mine. Maybe after I get changed, I'll get better.}
-{132}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{132}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {133}{}{Why, that's Father Morpheus. He's such a good speaker, he really makes Peace and Unity come to life, and when he talks, I can just see those Holy Flames!}
 {134}{}{That Father Morpheus, he sure can talk; and he's handsome, too!}
 {135}{}{I think that's one of the Inner Mysteries that the priests discuss upstairs in the Inner Sanctum. I have not been privileged enough for that revelation yet, but I'm working at it!}
-{136}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{136}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {137}{}{My goodness! Alcohol and drugs here?! You must be mistaken. The Master would never tolerate it. He wants all of his followers to keep their minds healthy and pure.}
-{138}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{138}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {139}{}{I think holy ammunition is available in the Cathedral Gift Shoppe...}
-{140}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{140}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {141}{}{Why, no. No help at all. Goodbye.}
 {142}{}{Hello, brother. No, I've been meditating like a good Initiate, waiting to be christened by the Servitors. I'm sure there's nothing to worry about.}
 {143}{}{Hello, sister. No I've been meditating like a good Initiate, waiting to be christened by the Servitors. I'm sure there's nothing to worry about.}
@@ -54,7 +59,8 @@
 {153}{}{Oh no, brother, I do not require assistance. Please excuse me.}
 {154}{}{Oh no, sister, I do not require assistance. Please excuse me.}
 {155}{}{Well, I am told that the Peace and Unity we seek for all creatures is unusual, but I hope this will not be the case for much longer.}
-{156}{}{Now, if you'll excuse me, I must go back to meditating.}
+# Space of " Now" at beginning of line is intentional!
+{156}{}{ Now, if you'll excuse me, I must go back to meditating.}
 {157}{}{I don't know. Perhaps he will reveal himself in time.}
 {158}{}{[Done]}
 {159}{}{[More]}

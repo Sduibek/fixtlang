@@ -370,7 +370,7 @@
 #{222}{}{No, I need to run.}
 {222}{}{不，我得走了。}
 
-#{223}{Nic_41}{Well, the rumor is that there was something so important there, that the area was saturated with bombs to insure everything was wiped out.}
+#{223}{Nic_41}{Well, the rumor is that there was something so important there, that the area was saturated with bombs to ensure everything was wiped out.}
 {223}{Nic_41}{呃，听说那里有些很重要的设施，所以核弹的投放很密集以确保那里的所有东西都被摧毁。}
 
 #{224}{}{Can I ask a few more questions?}
@@ -676,7 +676,7 @@
 #{324}{}{Can you help me destroy them?}
 {324}{}{你能帮助我毁灭他们吗？}
 
-#{325}{}{Thanks I can use all the help I can get!}
+#{325}{}{Thanks, I can use all the help I can get!}
 {325}{}{谢谢，我现在急需帮助！}
 
 #{326}{}{Thanks for the information. I'll be going now.}
