@@ -3,10 +3,18 @@
 ; List of folks - LARGE YELLOW
 #= Fallout Fixt =
 
-@A comprehensive customizable patch, mod, restoration
-
+@A comprehensive customizable patch/mod/restoration
 @Version:  alpha 7.0.1
+
 Sduibek
+
+
+#Please back up online and release source code
+
+@The number of promising mods and projects killed by
+@crashed drives and lost source code is immeasurable
+
+Thank you
 
 
 # Philanthropists:
@@ -35,7 +43,7 @@ Darek
 @And providing additional resources and suggestions
 
 Drobovik
-@For the Fallout file archives
+@For the Fallout file archives, and related contributions
 
 Dude101
 @For feedback, admin access to the wiki, and News entry
@@ -70,7 +78,7 @@ killap
 
 Lexx
 @For the uncut patch, graphics, code, feedback, info
-@And Shattered Destiny
+@And content/code/text from Shattered Destiny
 
 Mash
 @For the high-res patch that we love so much, and for
@@ -295,6 +303,7 @@ ultramedecine
 @(Listed Alphabetically)
 Alexisok
 bozyn
+Breakin'Benny
 dudejo001
 gustarballs1983
 Hal900x
@@ -309,7 +318,7 @@ Ryan Paul Fialcowitz
 warning077
 zebrajch
 ziemeck
-
+...and anyone else I've forgotten to list here!
 
 #AUDIO
 
@@ -398,7 +407,7 @@ Cpt. Corpse
 
 #SFALL PLUGIN
 
-@GPL 2008 - 2012
+@GPL 2008 - 2015
 Timeslip
 
 
