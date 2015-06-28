@@ -1,4 +1,4 @@
-﻿; #MAIN HEADING - LARGE WHITE
+; #MAIN HEADING - LARGE WHITE
 ; @Subheading - SMALL DARK
 ; List of folks - LARGE YELLOW
 #= Fallout Fixt =
@@ -42,6 +42,99 @@ JimTheDinosaur
 @And votes/feedback for feature proposals from
 NMA-Fallout community
 RPGCodex community
+
+
+#SFALL PLUGIN
+
+@GPL 2008 - 2015
+Timeslip
+
+@With many improvements by the talented
+Crafty
+
+
+#HIGH-RESOLUTION PATCH
+
+Mash
+
+@With contributions by
+.Pixote.
+Continuum
+
+
+#DEBUG MODE 
+
+Cubik2k
+Noid
+Platon
+
+
+#FRONTEND LOADER / OPTIONS UTILITY
+
+TarkinMX
+
+@With contributions by
+Sduibek
+
+
+#SCREEN REFRESH UTILITY
+
+Lionel d'Hauenens (LABO)
+
+@Translated by
+Alchemist
+
+
+#INCLUDED PATCHES
+
+@Unofficial Patches v1.2X, 1.3X
+Alchemist
+AO
+Avega
+Dude101
+TeamX
+Wasteland Ghost
+
+@Missing Children patch
+Skynet
+
+@Cathedral crash fix
+Alchemist
+Coyote
+TeamX
+
+@Armor-Piercing Ammo patch
+Celestial
+
+@Uncut patch (for German versions)
+Lexx
+
+@Gore Patch (for German versions)
+NeuRomancer
+
+
+#INCLUDED MODS
+
+@NPC Mod
+Alchemist
+Avega
+Dude101
+Nimrod
+TeamX
+Wasteland Ghost
+
+@Update and Restoration Mod v1.2.5
+Alchemist
+Dude101
+Pal
+Setau
+Spy
+Vault13
+Wasteland Ghost
+Wasteland Hellbringer
+
+@EndGame Mod and Cheatboy
+Cpt. Corpse
 
 
 # Philanthropists:
@@ -386,97 +479,6 @@ Cubik2k
 Sorrow
 
 
-#INCLUDED PATCHES
-
-@Unofficial Patches v1.2X, 1.3X
-Alchemist
-AO
-Avega
-Dude101
-TeamX
-Wasteland Ghost
-
-@Missing Children patch
-Skynet
-
-@Cathedral crash fix
-Alchemist
-Coyote
-TeamX
-
-@Armor-Piercing Ammo patch
-Celestial
-
-@Uncut patch (for German versions)
-Lexx
-
-@Gore Patch (for German versions)
-NeuRomancer
-
-
-#INCLUDED MODS
-
-@NPC Mod
-Alchemist
-Avega
-Dude101
-Nimrod
-TeamX
-Wasteland Ghost
-
-@Update and Restoration Mod v1.2.5
-Alchemist
-Dude101
-Pal
-Setau
-Spy
-Vault13
-Wasteland Ghost
-Wasteland Hellbringer
-
-@EndGame Mod and Cheatboy
-Cpt. Corpse
-
-
-#SFALL PLUGIN
-
-@GPL 2008 - 2015
-Timeslip
-
-@With many improvements by the talented
-Crafty
-
-
-#HIGH-RESOLUTION PATCH/MOD
-
-Mash
-
-@With contributions by
-.Pixote.
-Continuum
-
-
-#FRONTEND LOADER / OPTIONS UTILITY
-
-TarkinMX
-
-@With contributions by
-Sduibek
-
-
-#SCREEN REFRESH UTILITY
-
-Lionel d'Hauenens (LABO)
-
-@Translated by
-Alchemist
-
-
-#DEBUG MODE 
-
-Cubik2k
-Noid
-Platon
 
 
 ; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
