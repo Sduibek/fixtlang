@@ -4,7 +4,7 @@
 #= Fallout Fixt =
 
 @A comprehensive customizable patch/mod/restoration
-@Version:  alpha 7.0.1
+@Version:  0.80alpha
 
 Sduibek
 
@@ -15,6 +15,14 @@ Sduibek
 @crashed drives and lost source code is immeasurable
 
 Thank you
+
+
+#Philanthropists
+
+Thomas Daley
+phillon
+Salk
+Vasiliy Kashiskiy
 
 
 #Fallout to Fallout 2 Engine Conversion
@@ -137,14 +145,6 @@ Wasteland Hellbringer
 Cpt. Corpse
 
 
-# Philanthropists:
-
-Thomas Daley
-phillon
-Salk
-Vasiliy Kashiskiy
-
-
 # SDUIBEK WOULD LIKE TO THANK:
 @(Listed Alphabetically)
 
@@ -255,6 +255,10 @@ Wasteland Ghost
 
 WorstUsernameEver
 @For News entry
+
+You!
+@Everyone who has played (and hopefully enjoyed!) Fallout Fixt
+@Your support and encouragement make me feel warm and fuzzy :)
 
 
 #PROGRAMMING / SCRIPTING
