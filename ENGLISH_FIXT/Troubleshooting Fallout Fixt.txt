@@ -7,6 +7,18 @@ You can confirm your version by viewing Credits (press "C") from the game's main
 
 
 ============================================================================
+Policy regarding bug reports / ideas / feature requests
+============================================================================
+ - All bugs, ideas, and feature requests are to be reported at the Fallout Fixt bug reports wiki at http://falloutmods.wikia.com/wiki/Fallout_Fixt_bug_reports
+ - Bug reports entered on forum threads (RPGCodex/NMAFallout/GOG/Steam/etc) will no longer be considered 'official bug reports' for the following reasons:
+  -- EASE: It doesn't require registration and shouldn't take much longer than it would to post it on the forum.
+  -- EXCLUSIVITY: You're robbing the ability to interact with your bug report from people who don't visit that forum.
+  -- DUPLICATE WORK: Someone (usually me) has to to personally go through all the threads to add them to the wiki.
+  -- HUMAN ERROR: It's easy for thread-post bug reports to be accidentally overlooked or forgotten.
+  -- EFFICIENCY: It results in duplicate reports and requires cross-referencing multiple sources.
+  -- TIME: It's in everyone's best interest for me to spend my time focusing on actually fixing the bugs.
+
+============================================================================
 Troubleshooting specific crashes:
 ============================================================================
 - Crashes after damaging someone with explosives?
@@ -65,12 +77,22 @@ The game is still crashing! :(
 6) Sduibek will cry and feel terrible for breaking the game :(
 
 
+============================================================================
+I can't save my game!
+============================================================================
+- Run FALLOUTW.exe with Administrator privileges. Either log in as one, or do it via Compatibility Settings (right-click on FALLOUTW.exe)
+- Make sure NO files in your Fallout Fixt installation folder are set to "Read-Only".
+- Try temporarily disabling any antivirus/antimalware programs, as well as any firewall software.
+- Try temporarily disabling any software that constantly scans files, such as online backup solutions (Dropbox) and/or content indexers (GitHub).
+- Try temporarily disabling UAC (User Account Control).
+
+
 ===============================================================================
 I can't get good slideshow endings for The Hub or The Followers Of The Apocalypse!
 ===============================================================================
 - Assuming you have Fallout Fixt alpha 7.0 or newer, here are the requirements:
 THE HUB: Harold is alive, Decker is dead.
-FOLLOWERS: Nicole is alive, Spy quest finished, at least 12 Followers members alive (not including Katja & Nicole).
+FOLLOWERS: Nicole is alive, Spy quest finished, at least 12 Followers Scholars are alive (not including Katja & Nicole).
 
 - These endings ARE possible to get with characters from previous versions of Fixt, but you have to do this first:
 The Hub: visit Oldtown.
@@ -88,10 +110,13 @@ Something bad happened and I lost a bunch of progress since my last save! >:(
 - Read the Fallout manual PDF where it says to save often.
 
 
-==========================================
-== There's no sound during the movies!  ==
-==========================================
-Make sure you have the volume turned on: in game, Music and Movie volume are on the same slider.
+======================================================================
+== There's no sound during the movies, or other sound/music issues  ==
+======================================================================
+ - Make sure you have the volume turned on: in game, Music and Movie volume are the same slider.
+ - Disable hardware acceleration for your sound hardware (Google how to do this)
+ - On Windows Vista or newer, disable sound enhancements such as Dolby, Surround, equalizer, etc.
+ - In fallout.cfg, change the "cache_size=" entry to be cache_size=448
 
 
 ====================================================================================
@@ -243,6 +268,21 @@ There is a black box, size 640x480, covering the screen!
 2) If you're still somehow experiencing this issue, download and install newest f1_res from:
 
 http://falloutmods.wikia.com/wiki/Fallout1_Resolution_Patch
+
+
+============================================================================
+"Not enough disk space"
+============================================================================
+ - Change "free_space=#####" in fallout.cfg to "free_space=0" (zero).
+ - Empty recycle bin (trash).
+ - Restart the computer.
+ - Close all other programs.
+
+
+============================================================================
+Other troubleshooting resources for Fallout
+============================================================================
+ - http://www.nma-fallout.com/showthread.php?155150
 
 
 ============================================================================
