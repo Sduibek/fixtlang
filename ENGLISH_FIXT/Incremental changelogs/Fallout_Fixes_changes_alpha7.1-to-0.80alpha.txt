@@ -25,10 +25,11 @@ ADDED / UPDATED
   -- Friendly Foe functionality is now default and the Perk is removed from the game.
 
 FIXED
- - Fixed crash upon ending dialog with the dying mutant.
-
  - "Fixes Only" installs can no longer start with 64000 Days Left for the Water Chip timer.
   -- Existing "Fixes Only" games with >150 Days Left will be reset to 150.
+
+ - Fixed crash upon ending dialog with the dying mutant.
+ - Fixed some installer options that weren't working as intended.
 
 POTENTIALLY FIXED
  - Made a change to attempt to fix an issue where Vats self-destruct timer would always set to 0 (instant), regardless of option chosen.
