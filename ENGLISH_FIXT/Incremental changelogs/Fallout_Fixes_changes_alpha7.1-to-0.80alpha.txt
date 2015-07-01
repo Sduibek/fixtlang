@@ -2,6 +2,13 @@ Changes since alpha 7.1:
 
 ADDED / UPDATED
  - Now has the most current files for Katja's graphics.
+
+ - Additional options available in the Fixes Only download's "MOSTLY PURIST" custom install:
+  -- Display player's level on levelup
+  -- Display player's title on levelup (Titles are from the Fallout manual)
+  -- Restore Vault 13 invasion of after 500 days (Default in Fallout v1.0)
+  -- Days Left for Water Chip can be 120 instead of 150. (Overseer says "4 to 5 months left" in the intro movie)
+
  - Includes ddraw (Sfall) version 1.19, by Timeslip & improved by Crafty. This plugin provides many graphical and game enhancements and features, which are customizable, including the following and many more:
   -- Hold down Shift to highlight items and containers on-screen.
   -- Various commands can be bound to keys or key combinations. (All are disabled by default)
@@ -19,6 +26,7 @@ ADDED / UPDATED
 
 FIXED
  - Fixed crash upon ending dialog with the dying mutant.
+
  - "Fixes Only" installs can no longer start with 64000 Days Left for the Water Chip timer.
   -- Existing "Fixes Only" games with >150 Days Left will be reset to 150.
 
@@ -34,7 +42,7 @@ REVERTED
 EDITED
  - All instances of "nevermind" changed back to "never mind". (Thanks Prisoner416)
  - Several minor fixes to spelling and grammar.
- - Additions to CREDITS.TXT (French translation team, Breakin'Benny, gvx, Prisoner416, SFALL team, Engine Conversion team)
+ - Additions to CREDITS.TXT (French translation team, SFALL team, Engine Conversion team, Breakin'Benny, gvx, Prisoner416)
 
 REMOVED
  - Removed debug message that displayed if player was accompanied by Brotherhood of Steel Assault Paladins.
