@@ -1,0 +1,59 @@
+Changes since alpha 7.1:
+
+ADDED / UPDATED
+ - Now has the most current files for Katja's graphics.
+ - Includes ddraw (Sfall) version 1.19, by Timeslip & improved by Crafty. This plugin provides many graphical and game enhancements and features, which are customizable, including the following and many more:
+  -- Hold down Shift to highlight items and containers on-screen.
+  -- Various commands can be bound to keys or key combinations. (All are disabled by default)
+  -- Can no longer press zero (0) to force-exit dialog.
+  -- Fixes for high CPU usage.
+  -- Display karma changes in the message box. (Disabled by default)
+  -- Buttons with "Take All" function similar to Fallout 2.
+  -- Remove inability of Vault Dweller to get critical successes or critical failures in the first few days of the game.
+  -- Doors can no longer dodge bullets.
+  -- Shows free weight as well as total weight in Barter and Inventory screens.
+  -- Can no longer use drugs to cheat with skill-gain books and getting Perks you shouldn't have access to.
+  -- Can no longer use the "A" key to run forever for free in combat.
+  -- Leveling past 21. (Disabled by default of course)
+  -- Friendly Foe functionality is now default and the Perk is removed from the game.
+
+FIXED
+ - Fixed crash upon ending dialog with the dying mutant.
+ - "Fixes Only" installs can no longer start with 64000 Days Left for the Water Chip timer.
+  -- Existing "Fixes Only" games with >150 Days Left will be reset to 150.
+
+POTENTIALLY FIXED
+ - Made a change to attempt to fix an issue where Vats self-destruct timer would always set to 0 (instant), regardless of option chosen.
+
+REVERTED
+ - Reverted an attempted fix of empty caravan encounters, that unintentionally caused *more* empty caravan encounters. :(
+ - Reverted 2 fixes/changes that caused unintentional issues gaining access to the Vats Control Computer.
+ - fo1_screen_refresh is once again included.
+ - Weapon Drop Mod no longer enabled by default on "Standard" and "Full" installations. My sincere apologies, I thought I already reverted this in the last release.
+
+EDITED
+ - All instances of "nevermind" changed back to "never mind". (Thanks Prisoner416)
+ - Several minor fixes to spelling and grammar.
+ - Additions to CREDITS.TXT (French translation team, Breakin'Benny, gvx, Prisoner416, SFALL team, Engine Conversion team)
+
+REMOVED
+ - Removed debug message that displayed if player was accompanied by Brotherhood of Steel Assault Paladins.
+
+DOCUMENTATION
+ - Added steps to Troubleshooting Guide regarding inability to save games, sound issues, and "Not enough disk space".
+
+MISC.
+ - Various behind-the-scenes changes in preparation for the full migration to Fallout 2 engine.
+ - Fallout Fixt source code (installers, scripts, batch files, reference materials, global variables, default settings) is now publicly available at https://github.com/Sduibek/fixtsrc
+ - Fallout Fixt dialog and text files are now publicly available at https://github.com/Sduibek/fixtlang - For translations into non-English languages and tracking fixes/changes/additions to the English versions.
+
+BUG REPORTS POLICY
+ - All bugs, ideas, and feature requests are to be reported at the Fallout Fixt bug reports wiki at http://falloutmods.wikia.com/wiki/Fallout_Fixt_bug_reports
+ - Bug reports entered on forum threads (RPGCodex/NMAFallout/GOG/Steam/etc) will no longer be considered 'official bug reports' for the following reasons:
+  -- EASE: It doesn't require registration and shouldn't take much longer than it would to post it on the forum.
+  -- EXCLUSIVITY: You're robbing the ability to interact with your bug report from people who don't visit that forum.
+  -- DUPLICATE WORK: Someone (usually me) has to to personally go through all the threads to add them to the wiki.
+  -- HUMAN ERROR: It's easy for thread-post bug reports to be accidentally overlooked or forgotten.
+  -- EFFICIENCY: It results in duplicate reports and requires cross-referencing multiple sources.
+  -- TIME: It's in everyone's best interest for me to spend my time focusing on actually fixing the bugs.
+
