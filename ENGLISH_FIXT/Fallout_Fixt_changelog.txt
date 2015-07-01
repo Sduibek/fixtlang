@@ -8,6 +8,15 @@ GLOSSARY:
 
 
 -----------------------
+      SOURCE CODE      
+-----------------------
+
+ - Fallout Fixt source code (installers, scripts, batch files, reference materials, global variables, default settings) is publicly available at https://github.com/Sduibek/fixtsrc
+
+ - Fallout Fixt dialog and text files are publicly available at https://github.com/Sduibek/fixtlang - For translations into non-English languages and tracking fixes/changes/additions to the English versions.
+
+
+-----------------------
   DURING INSTALLATION
 -----------------------
 
@@ -34,7 +43,37 @@ __________________________________________
 
 
 
+-----------------------
+  FEATURES FROM SFALL  
+-----------------------
 
+- Includes ddraw (Sfall) version 1.19, by Timeslip & improved by Crafty. This plugin provides many graphical and game enhancements and features, which are customizable, including the following and many more:
+
+ - Hold down Shift to highlight items and containers on-screen.
+
+ - Various commands can be bound to keys or key combinations. (All are disabled by default)
+
+ - Can no longer press zero (0) to force-exit dialog.
+
+ - Fixes for high CPU usage.
+
+ - Display karma changes in the message box. (Disabled by default)
+
+ - Buttons with "Take All" function similar to Fallout 2.
+
+ - Remove inability of Vault Dweller to get critical successes or critical failures in the first few days of the game.
+
+ - Doors can no longer dodge bullets.
+
+ - Shows free weight as well as total weight in Barter and Inventory screens.
+
+ - Can no longer use drugs to cheat with skill-gain books and getting Perks you shouldn't have access to.
+
+ - Can no longer use the "A" key to run forever for free in combat.
+
+ - Leveling past 21. (Disabled by default of course)
+
+ - Friendly Foe functionality is now default and the Perk is removed from the game.
 
 
 -----------------------
@@ -72,13 +111,11 @@ __________________________________________
 
 - Icon for Falloutw.exe at Thumbnail View or larger (Medium or larger in Windows Vista/7/8) is now the Vault Boy as with the smaller icons, instead of Tim Cain's face. [Sorry Tim, nothing personal. We still love you.]
 
-- Includes f1_res (Fallout1 High Resolution Patch) version 4.1.7
-
-- Includes ddraw (Sfall) version 1.18e
+- Includes f1_res (Fallout1 High Resolution Patch) version 4.1.8, by Mash.
 
 - f1_res settings defaults in Fixt differ moderately from out-of-the-box f1_res settings, in an effort to maximize intuitiveness, use and function for the highest number of users.
 
-- ddraw settings run the game at 108% speed by default. (This can be changed at any time by opening ddraw.ini)  [RATIONALE: The game feels incredibly slow to me at 100%, especially when running across maps. I don't know if this is an objective hardware/software side-effect of playing on modern machines, or a subjective issue because I expect more speed than 17 years ago, but between 108% and 115% feels like the right speed to me.]
+- ddraw settings run the game at 110% speed by default. (This can be changed at any time by opening ddraw.ini)  [RATIONALE: The game feels incredibly slow to me at 100%, especially when running across maps. I don't know if this is an objective hardware/software side-effect of playing on modern machines, or a subjective issue because I expect more speed than 17 years ago, but between 108% and 115% feels like the right speed to me.]
 
 - New items in inventory now go to the top, like Fallout 2, instead of the bottom. Also the keys Page Up, Page Down, Home, and End now work in inventory. NOTE: These are all features of f1_res and can be disabled at any time; just open f1_res.ini in your Fallout Fixt folder and locate the appropriate entries.
 
@@ -852,9 +889,9 @@ __________________________________________
 
 - In vanilla, the only way to access the Armory was to kill everyone on Level 1. Instead, you can now additionally break into the Armory one of two ways:
 
-1) Explosives. It takes three detonations to destroy the door. Doing this will always make The Brotherhood hostile toward you. (But they'd go hostile anyway because the explosion hits the door guards)
+   1) Explosives. It takes three detonations to destroy the door. Doing this will always make The Brotherhood hostile toward you. (But they'd go hostile anyway because the explosion hits the door guards)
 
-2) Sneak and Lockpick. This requires a very difficult Lockpick check and a difficult Sneak check, and you must also have Sneak currently "activated". (Electronic Lockpicks will give a +20 to the Lockpick roll, as with all other electronically-locked doors in the game)
+   2) Sneak and Lockpick. This requires a very difficult Lockpick check and a difficult Sneak check, and you must also have Sneak currently "activated". (Electronic Lockpicks will give a +20 to the Lockpick roll, as with all other electronically-locked doors in the game)
 
 - Students in combat training and Thomas (their trainer) now actually respond if you attempt dialog. They don't say much, naturally, but it's better than silence which makes you feel like the engine is broken or something.
 
