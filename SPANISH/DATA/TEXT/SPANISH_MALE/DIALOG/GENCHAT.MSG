@@ -247,6 +247,7 @@
 {433}{}{AVISO: La partida guardada pertenece a una versión antigua de Fixt. Puede causar glitches o crashes.}
 #float msg over character, currently disabled
 {434}{}{¡Soy de una versión antigua!}
+
 #
 # For door to Brotherhood armory (weapons/armor stash on Lvl1)
 #
@@ -268,6 +269,7 @@
 {605}{}{Lo siento, no puedo hablar con nadie. Ya sabes como es.}
 {606}{}{Esta no es la biblioteca, chico. Si quieres investigar, por favor, ve a la biblioteca.}
 {607}{}{Esta no es la biblioteca, chica. Si quieres investigar, por favor, ve a la biblioteca.}
+
 #
 # For endgame (when blowing up Vats, and Master's Vault. Both give the XP but didn't notify user previously.)
 #
@@ -276,3 +278,9 @@
 {702}{}{Ganas 10000 puntos de experiencia por destruir al Maestro.}
 
 {800}{}{¿Por qué les hablas a las ratas?}
+
+# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine.
+# These messages will appear in the console window (bottom-left of game screen) at regular intervals.
+{900}{}{En el PIP-Boy 2000 se lee "AGUA DEL REFUGIO 13: QUEDAN}
+{901}{}{}
+{902}{}{ DÍAS."}
