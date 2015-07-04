@@ -1,3 +1,11 @@
+#This is necessary so that only the "pick one" subfolder versions of these files exist in the repo.
+#To commit these files, commit the versions with the proper names in the proper structure.
+PERK.MSG
+EDITOR.MSG
+PRO_MISC.MSG
+TRAIT.MSG
+
+
 ###############################################################
 #             https://github.com/Sduibek/myignore             #
 ###############################################################
