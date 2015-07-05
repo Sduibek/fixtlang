@@ -1,5 +1,9 @@
 # This folder's structure is the same as it will be in your Fallout Fixt installation folder.
 
+ - There are 2 exceptions: <br>
+  1) The */Installer text/* folder and its contents are are provided for reference and translation, but this folder does not exist in a Fallout Fixt installation. <br>
+  2) The */Incremental changelogs/* folder and its contents will be provided in Fallout Fixt installations, but not in that folder; they'll be in the root of the Fallout Fixt installation folder.
+
 ## STRUCTURE:
 
 	--------------------------------------------------------------------
@@ -43,10 +47,10 @@ These files should be present and translated in your translation, with the exact
 
 ## NOTES:
 
- - These files will very likely have content that is newer than the content of the current publicly-available release of Fixt.
+ - *These files will very likely have content that is newer than the content of the current publicly-available release of Fixt.*
 
- - For files from the public releases of Fixt, check fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/
+ - For files from the public releases of Fixt, check *fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/*
 
- - Files not used in-game, such as ddraw.ini, f1_res.ini are provided here. Please consider translating them, as it'll make things easier for your compatriats when changing game settings :)
+ - Files not necessarily used in-game, such as *ddraw.ini* and *f1_res.ini* are provided here. Please consider translating them, as it'll make things easier for your compatriats when changing game settings :)
 
- - For similar reasons, copies of the Troubleshooting guide and Changelog are also provided.
+ - For similar reasons, copies of *Troubleshooting Fallout Fixt.txt* and *Fallout_Fixt_changelog.txt* are also provided.
