@@ -1,3 +1,15 @@
+## NOTES:
+
+ - *These files will very likely have content that is newer than the content of the newest publicly-available release of Fixt.*
+
+ - For files from the public releases of Fixt, check *fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/*
+
+ - Files not necessarily used in-game, such as *ddraw.ini* and *f1_res.ini* are provided here. Please consider translating them, as it'll make things easier for your compatriats when changing game settings :)
+
+ - For similar reasons, copies of *Troubleshooting Fallout Fixt.txt* and *Fallout_Fixt_changelog.txt* are also provided.
+
+ - If there are changes you disagree with, or if you have questions or comments regarding any changes, please direct them to the wiki at https://github.com/Sduibek/fixtlang/wiki/Discussion-goes-here.
+
 # This folder's structure is the same as it will be in your Fallout Fixt installation folder.
 
  - There are 2 exceptions: <br>
@@ -44,13 +56,3 @@ These files should be present and translated in your translation, with the exact
 
 	\DATA\TEXT\{LANGUAGE}\GAME\Trait Description versions (TRAIT.MSG)\TRAIT - original descriptions.MSG
 	\DATA\TEXT\{LANGUAGE}\GAME\Trait Description versions (TRAIT.MSG)\TRAIT - Sduibek detailed descriptions.MSG
-
-## NOTES:
-
- - *These files will very likely have content that is newer than the content of the current publicly-available release of Fixt.*
-
- - For files from the public releases of Fixt, check *fixtlang/Archives and helpful info/ARCHIVES (Past Fixt Versions)/*
-
- - Files not necessarily used in-game, such as *ddraw.ini* and *f1_res.ini* are provided here. Please consider translating them, as it'll make things easier for your compatriats when changing game settings :)
-
- - For similar reasons, copies of *Troubleshooting Fallout Fixt.txt* and *Fallout_Fixt_changelog.txt* are also provided.
