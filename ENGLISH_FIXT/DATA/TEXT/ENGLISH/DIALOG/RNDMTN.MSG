@@ -67,7 +67,7 @@ CHANGE THIS ONE		#patrick
 # Small Damage
 #
 {104}{}{Some rock shards slice your face and hands, but you escape with minimal damage.}
-{113}{}{Some rocks shards slice your face and hands, but you escape with minimal damage.}
+{113}{}{Some rock shards slice your face and hands, but you escape with minimal damage.}
 {127}{}{Some rock shards slice your face and hands, but you escape with minimal damage.}
 #
 # Big Damage
@@ -103,3 +103,7 @@ CHANGE THIS ONE		#patrick
 # MONSTERS - not used
 #
 {119}{}{You stumble onto a large pack of radscorpions.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

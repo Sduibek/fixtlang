@@ -9,7 +9,7 @@
 {108}{Harry_0b}{Whuh?}
 {109}{}{Mom?}
 {110}{Harry_01}{Oooo... That was snazzy like, huh?}
-{111}{}{Nah, I was just fooling you, I'm not a ghoul}
+{111}{}{Nah, I was just fooling you. I'm not a ghoul.}
 {112}{}{What do you do here?}
 {113}{Harry_02}{You not ghoul! I knew, I knew! Not fool Harry!}
 {114}{}{Yeahhh, that's pretty obvious.}
@@ -20,11 +20,11 @@
 {119}{Harry_04}{Lou tell me watch place. Not let no one in. Not normals most. Take normals to the Lou. Hey...}
 {120}{}{But I'm not a normal!}
 {121}{}{Okay, let's go see Lou.}
-{122}{}{Frag it. How about, 'Not let you live.'}
+{122}{}{Frag it. How about, 'Not let you live'?}
 {123}{Harry_05}{Oh ho-ho, you find out soooon.}
 {124}{Harry_06}{Oh, uh, okay. Have nice... day.}
 {125}{Harry_07}{Harry think he beat your head now.}
-{126}{Harry_08}{Ooo... Harry confused. You not ghoul. You not normal. Hmm, what you? [mumbling]}
+{126}{Harry_08}{Ooo... Harry confused. You not ghoul. You not normal. Hmm, what you? *mumble*}
 {127}{}{I'm a new race of Super Mutant.}
 {128}{}{I'm a highly advanced robot.}
 {129}{}{Alright, I am a normal.}
@@ -80,7 +80,7 @@
 {179}{Harry303}{The what?}
 {180}{Harry304}{Hmph! Punies.}
 {181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
-{182}{Harry306}{Here, dummy. [sigh] You stupid?}
+{182}{Harry306}{Here, dummy. *sigh* You stupid?}
 {183}{Harry307}{The U-U-U-Un, I don't know.}
 {184}{Harry308}{Nice for little guys. Harry hurt once and they make better. Make perfect again!}
 {185}{}{HARRY FIGHT NOW!}
@@ -92,7 +92,6 @@
 {191}{}{You're not taking me anywhere!}
 {192}{}{Okay, take me to your boss.}
 {193}{}{The mutant ignores you.}
-
 
 
 #
@@ -138,10 +137,10 @@
 {1100}{Harry300}{I don't know, but think he like a boss people.}
 {1101}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
 {1102}{Harry302}{Set a wuss. He think he run place, but we run.}
-{1103}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1103}{Harry306}{Here, dummy. *sigh* You stupid?}
 {1104}{Harry304}{Hmpf! Punies.}
 {1105}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
-{1106}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1106}{Harry306}{Here, dummy. *sigh* You stupid?}
 {1107}{Harry307}{The U-U-U-Un, I don't know.}
 {1108}{Harry308}{Nice for little guys. Harry hurt once and they make better. Make perfect again!}
 {1109}{Harry303}{The what?}
@@ -152,7 +151,7 @@
 {1114}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
 {1115}{Harry308}{Nice for little guys. Harry hurt once and they make better. Make perfect again!}
 {1116}{Harry308}{Nice for little guys. Harry hurt once and they make better. Make perfect again!}
-{1117}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1117}{Harry306}{Here, dummy. *sigh* You stupid?}
 {1118}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
 {1119}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
 {1120}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
@@ -162,4 +161,4 @@
 {1124}{Harry200}{Not have to tell you anything!}
 {1125}{Harry200}{Not have to tell you anything!}
 {1126}{Harry200}{Not have to tell you anything!}
-{1127}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1127}{Harry306}{Here, dummy. *sigh* You stupid?}

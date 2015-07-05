@@ -11,7 +11,7 @@
 {110}{}{Nuhh? Uh, nuh, nuh. Huh?}
 {111}{Nic_2}{We don't worship so much as follow a set of principles. We want to bring peace back to this wasteland. The world tends toward destruction, so we try to make a difference.}
 {112}{}{How?}
-{113}{Nic_4}{We try to remind people why the Great War happened in the first place. And help insure it won't ever happen again.}
+{113}{Nic_4}{We try to remind people why the Great War happened in the first place. And help ensure it won't ever happen again.}
 {114}{}{Have you been successful at all?}
 {115}{}{Sounds like wishful thinking - not very realistic.}
 {116}{Nic_5}{We never give up hope. We never will, even though most live by the gun these days. And we are concerned with the Children of the Cathedral...}
@@ -80,7 +80,7 @@
 {179}{Nic_26}{We try. We try our best. Most people don't want to listen, but a few do.}
 {180}{}{Well, I hope I can ask another question.}
 {181}{}{It's time for me to leave.}
-{182}{Nic_27}{I'm sure you'd be bored with the telling of the entire history of the Followers. There a number of books in here with that information.}
+{182}{Nic_27}{I'm sure you'd be bored with the telling of the entire history of the Followers. There are a number of books in here with that information.}
 {183}{}{Can I ask a few more questions?}
 {184}{}{Well, thanks. I need to go now.}
 {185}{Nic_28}{A number of our spies have seen Nightkin coming in and out of the back room of the Children's temple. Something important is back there.}
@@ -94,12 +94,12 @@
 {193}{Nic_30}{Far to the south, near the Great Glow. The times were hard, but we managed to survive. We realized then the Great War must never happen again.}
 {194}{}{So, you started the Followers of the Apocalypse?}
 {195}{}{What made you come up north?}
-{196}{Nic_31}{After my parents were killed by marauders, [sigh] it was time the killing stopped. It's our goal to make this land the way it used to be, before the war.}
+{196}{Nic_31}{After my parents were killed by marauders, *sigh* it was time the killing stopped. It's our goal to make this land the way it used to be, before the war.}
 {197}{}{I'm sorry about your parents.}
 {198}{}{So it could happen again? That's stupid!}
 {199}{}{Who were the marauders?}
 {200}{}{What made you bring the Followers up north?}
-{201}{Nic_32}{We've never found out, although we've heard a group live up north in an old ruined city. We've let it rest.}
+{201}{Nic_32}{We've never found out, although we've heard a group lives up north in an old ruined city. We've let it rest.}
 {202}{}{Why not? You could get revenge!}
 {203}{}{Why did you end up bringing the Followers north?}
 {204}{Nic_33}{We're here to make peace, not kill in hatred.}
@@ -111,11 +111,11 @@
 {210}{}{And you don't think violence is ever good?}
 {211}{}{Then answering more questions can't hurt, right?}
 {212}{}{Well, I gotta go.}
-{213}{Nic_35}{[Sigh] You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.}
+{213}{Nic_35}{*sigh* You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.}
 {214}{Nic_36}{There aren't many left down south. The radiation has polluted almost everything. Most of the remaining people followed us to start the organization.}
 {215}{}{How did your family survive?}
 {216}{}{It's still that radioactive? After 80 years?}
-{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. [sigh] That's when my parents were killed.}
+{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. *sigh* That's when my parents were killed.}
 {218}{}{I'm sorry.}
 {219}{}{Why is the area down there still that radioactive after all this time?}
 {220}{Nic_39}{Thank you, I appreciate that. Now, is there anything else you needed to ask me?}
@@ -156,7 +156,7 @@
 {255}{Nic_57}{What? This is our destiny. The Followers will fight this evil so that the healing of the land can finally begin.}
 {256}{}{No. I forbid it.}
 {257}{}{Okay. Meet me at the Cathedral.}
-{258}{Nic_58}{[Chuckle] You don't control us. We will attack, with or without your blessing!}
+{258}{Nic_58}{*chuckle* You don't control us. We will attack, with or without your blessing!}
 {259}{Nic_59}{Talk to him?! Are you crazy?}
 {260}{}{Aren't you the one that preaches peace?}
 {261}{}{No, and you can't stop me.}
@@ -173,7 +173,7 @@
 {272}{}{The Children are controlled by space aliens.}
 {273}{Nic_67}{Good luck. Now we've got to examine our options.}
 {274}{Nic_68}{How noble, how impressive. And we thought you were different. Now take your money and leave.}
-{275}{Nic_69}{Well hi. What can I help you with now?}
+{275}{Nic_69}{Well, hi. What can I help you with now?}
 {276}{}{I need to ask a few questions.}
 {277}{}{Sorry, I gotta go.}
 {278}{}{Nuh, nuh, uh?}
@@ -185,6 +185,7 @@
 {284}{}{Can I ask a few more questions?}
 {285}{}{That was all for now. I gotta go.}
 # 286 changed with patch 1.3 from TeamX
+# was "286 Nic_72 Please, we're busy. Don't you have things to do?"
 {286}{}{Please, we're busy. Don't you have things to do?}
 {287}{Nic_74}{What are you doing? Put that down!}
 {288}{Nic_75}{Stop!}
@@ -224,7 +225,7 @@
 {322}{}{Do you know who their leader is?}
 {323}{}{Do you have any suspicions about them?}
 {324}{}{Can you help me destroy them?}
-{325}{}{Thanks, I can use all the help I can get!}
+{325}{}{Thanks; I can use all the help I can get!}
 {326}{}{Thanks for the information. I'll be going now.}
 
 

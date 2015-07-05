@@ -53,12 +53,12 @@
 {152}{}{Sounds like a tough job.}
 {153}{}{Now it's time for you to have a little suffering.}
 {154}{}{As it should be. May you succeed in your crusade!}
-{155}{}{Uh, I got to go.}
+{155}{}{Uh, I've got to go.}
 {156}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
 {157}{}{Good. I hope you don't.}
 {158}{}{Yeah, right. Whatever.}
 {159}{}{Okay. Bye.}
-{160}{JAIN26}{Blasphemer! This is a Holy House! How could you think such a thing?}
+{160}{JAIN26}{Blasphemer! This is a holy house! How could you think such a thing?}
 {161}{}{Relax, I didn't mean it!}
 {162}{}{Easy. Let me show you.}
 {163}{JAIN27}{Blessings of the Holy Flame to you, my Child.}
@@ -67,7 +67,7 @@
 {166}{}{And to you, Priestess Jain. Goodbye.}
 {167}{}{Ug luk to ruk?}
 {168}{}{Ooook!}
-{169}{JAIN28}{Once you had potential. You are no longer welcome here.}
+{169}{JAIN28}{Once, you had potential. You are no longer welcome here.}
 {170}{JAIN29}{You are not welcome here. Please leave.}
 {171}{JAIN30}{What brings you here?}
 {172}{}{I have slain the Master, and I believe he was masquerading as the Holy Flame.}
@@ -105,7 +105,7 @@
 
 
 {1100}{JAIN300}{It was the cleansing of the planet. The inattention by those who came before caused the holy fires. It was justice.}
-{1101}{JAIN301}{There is no Master but the Holy Flame. He is our Master, He is the Master of all.}
+{1101}{JAIN301}{There is no Master but the Holy Flame. He is our Master. He is the Master of all.}
 {1102}{JAIN302}{The will of the Holy One brings a rebirth to the planet. We are His Children and carry out His plan.}
 {1103}{JAIN303}{They are holy for they bear marks of past sins for present witnesses.}
 {1104}{JAIN304}{Like many other cities, they will embrace the moral leadership of the Cathedral.}

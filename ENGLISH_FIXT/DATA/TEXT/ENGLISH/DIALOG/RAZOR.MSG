@@ -45,7 +45,7 @@
 {143}{}{Josh lived here with me... uh... I...I mean us. He knew the truth behind what was going on. The Regulators told him if he ever tried to contact his father or return to Adytum they would kill him.}
 {144}{}{They killed him? What did he do?}
 {145}{}{I'm going to Adytum to check this out.}
-{146}{}{Late one night he tried to sneak into town to tell his father what was really going on. I was monitoring the Regulators radio transmissions the night that... they... he got... caught. [She looks down and shakes her head slowly.] Here, it's all on this holodisk.}
+{146}{}{Late one night he tried to sneak into town to tell his father what was really going on. I was monitoring the Regulators radio transmissions the night that... they... he got... caught. (She looks down and shakes her head slowly.) Here, it's all on this holodisk.}
 {147}{}{Why haven't you given this to Josh's Father?}
 {148}{}{It's not like any of us can even get close to Adytum. We'd be shot dead before we even reached the gates.}
 {149}{}{Why don't I give him the disk?}
@@ -53,7 +53,7 @@
 {151}{}{You would risk your life to help us?}
 {152}{}{Sure. Anything to help.}
 {153}{}{I might. I need to go check things out before I do anything.}
-{154}{}{Thank you. This really could help us. Good luck. [She hands you the holodisk.]}
+{154}{}{Thank you. This really could help us. Good luck. (She hands you the holodisk.)}
 {155}{}{See you later.}
 {156}{}{Very well. I hope you make the right decision.}
 {157}{}{Goodbye.}
@@ -69,29 +69,29 @@
 {167}{}{Zimmerman sent me.}
 {168}{}{Well, you look like a gang to me.}
 {169}{}{Goodbye.}
-{170}{}{[Looking a little nervous] What? Did he...}
+{170}{}{(She begins to look nervous.) What? Did he...}
 {171}{}{To put a bullet in your head.}
 {172}{}{To pay you back for killing his son.}
-{173}{}{WHAT!?! THOSE FUCKING PIECE OF SHIT BASTARDS! I'LL KILL THEM, I'LL SEND THEM ALL TO HELL!!}
+{173}{}{WHAT?! THOSE FUCKING, PIECE OF SHIT, BASTARDS! I'LL KILL THEM, I'LL SEND THEM ALL TO HELL!!}
 {174}{}{No, you're the one that's going to hell.}
 {175}{}{Uh... who are you going to send to hell?}
 {176}{}{The Regulators. They were the ones that killed Josh! I never would do any thing to hurt Josh. It's the Regulators who are running Adytum, not Zimmerman.}
 {177}{}{This is a pathetic attempt to talk your way out of this.}
 {178}{}{Why would the Regulators kill Zimmerman's son?}
-{179}{}{Josh lived here with me... a... I... I mean us. He knew the truth behind what was going on. The Regulators told him if he ever tried to contact his father or return to Adytum that they would kill him. They laughed at him... they were so sure he couldn't get to his father...}
+{179}{}{Josh lived here with me... uh... I... I mean us. He knew the truth behind what was going on. The Regulators told him that if he ever tried to contact his father or return to Adytum they would kill him. They laughed at him... they were so sure he couldn't get to his father...}
 {180}{}{They killed him? What did he do?}
 {181}{}{How's our plan coming along?}
 {182}{}{I'm still trying to get everything worked out.}
-{183}{}{Uh...Wha?}
+{183}{}{Uh... Wha?}
 {184}{}{I'm not so sure it would help without the threat of violence to back it up. What we really need are some weapons from the Gun Runners.}
 {185}{}{Well, where are these Gun Runners? Why don't you get some weapons from them?}
 {186}{}{Oh, well, I offered. Goodbye.}
-{187}{}{They're a little to the east of here, but there's a Deathclaw nest between us and them. We have never even spoken with any of the Gun Runners. }
+{187}{}{They're a little to the east of here, but there's a Deathclaw nest between us and them. We have never even spoken with any of the Gun Runners.}
 {188}{}{Okay, give me the holodisk, and I'll go talk to the Gun Runners before I approach Zimmerman.}
 {189}{}{I hope that you can find a way to help us. Goodbye.}
 {190}{}{What's wrong?}
 {191}{}{They killed Zimmerman!}
-{192}{}{Uh...What?}
+{192}{}{Uh... What?}
 {193}{}{...Now we have no choice but to get those weapons from the Gun Runners. Will you help us?}
 {194}{}{Yes.}
 {195}{}{No.}
@@ -99,17 +99,18 @@
 {197}{}{Thank you for all your help. We're going to invade Adytum; we could really use someone like you on our side.}
 {198}{}{No thanks, I've seen enough action this week.}
 {199}{}{Sure, I'd be glad to take the Regulators down.}
-{200}{}{Uh...Wha?}
+{200}{}{Uh... Wha?}
 {201}{}{I'd like to talk to Zimmerman first.}
 {202}{}{Well, thanks again for you help. Goodbye.}
 {203}{}{Great. Let's go.}
 {204}{}{I don't think that's a good idea, but you're welcome to try.}
-{205}{}{With the Gun Runners gone we will never even have the chance to arm ourselves. Get outta here, you're not welcome anymore.}
+# 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
+{205}{}{With the Gun Runners gone we will never have the chance to arm ourselves. Get outta here! You're not welcome anymore.}
 {206}{}{I'm sorry.}
 {207}{}{Go stuff it.}
 {208}{}{I'm going to go talk to Zimmerman and give him this holodisk. Everything is going to be okay.}
 {209}{}{You know what? I'm going to kill you.}
-{210}{}{Uhh...Whuh?}
+{210}{}{Uhh... Whuh?}
 {211}{}{Go ahead. It's your funeral. Without those guns we have nothing to back us up.}
 {212}{}{Go away!}
 {213}{}{You're not welcome here.}
@@ -133,14 +134,14 @@
 {231}{}{I have heard that the Regulators still control Adytum. Are you not able to kill them all like you had hoped?}
 {232}{}{Don't worry, I'll take care of it.}
 {233}{}{I don't think I can, actually.}
-{234}{}{We would go with you, but without weapons the Regulators would kill us all. There might be another way. [Razor ponders a moment] If you could get the Gun Runners to supply us with weapons then a number of us could go with you.}
+{234}{}{We would go with you, but without weapons the Regulators would kill us all. There might be another way. (She ponders for a moment.) If you could get the Gun Runners to supply us with weapons then a number of us could go with you.}
 {235}{}{Sounds good. I'll go talk to them.}
 {236}{}{I'll try to take the Regulators out by myself again.}
 {237}{}{Hello again. I've heard that you have been playing with the Regulators. I wanted to thank you for getting rid of them. My people will be able to live with the people of Adytum in freedom now. Talk to Beca (Jade), she's got something to tell you.}
-{238}{}{I'll just take care of Regulators myself.}
-{239}{}{You will? Well if you need help or by chance succeed, come back and talk to me.}
+{238}{}{I'll just take care of the Regulators myself.}
+{239}{}{You will? Well if you need help or manage to succeed, come back and talk to me.}
 
-# to male player
-{240}{}{You bastard!}
-# to female player
-{241}{}{You bitch!}
+# to male player - space at end of line is intentional
+{240}{}{You bastard! }
+# to female player - space at end of line is intentional
+{241}{}{You bitch! }

@@ -1,6 +1,6 @@
 {100}{}{This is a live nuclear warhead.}
 {101}{}{There are cables running from the access computer to the warhead behind it.}
-{102}{}{You have armed the warhead. A timer displaying 4:00 has started a countdown.}
+{102}{}{You have armed the warhead. A timer displaying "4:00" has started a countdown.}
 {103}{}{You have disarmed the nuclear warhead.}
 {104}{}{BOOOOOOOOOM! [You have set off the nuke!]}
 {105}{}{That doesn't seem to be working.}

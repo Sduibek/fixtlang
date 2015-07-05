@@ -1,6 +1,7 @@
 {100}{}{You see: George, the door guard.}
 {101}{}{Can I help you?}
-{102}{}{wHant see miStr tOwer!}
+# 102 "I want to see Mr. Hightower
+{102}{}{Whant see mistur tower!}
 {103}{}{Yes. I'm here to see Mr. Hightower.}
 {104}{}{I have an appointment with Mr. Hightower and I'm running very late.}
 {105}{}{Let me in.}
@@ -16,6 +17,6 @@
 {115}{}{I don't want any trouble here, so you'd better leave now.}
 {116}{}{Get lost!}
 {117}{}{You're not getting in this door.}
-{118}{}{What the hell are you sneaking around for?!? Guards!!!}
+{118}{}{What the hell are you sneaking around for?! Guards!!!}
 {119}{}{Get away from that door! Nobody gets in there without going through me first!}
 {120}{}{You've got a lot of nerve coming around here! Guards!!}

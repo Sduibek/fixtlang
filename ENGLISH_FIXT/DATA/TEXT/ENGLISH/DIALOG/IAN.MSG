@@ -23,7 +23,7 @@
 {119}{}{Are there many bandits?}
 {120}{}{There are several. They come from various groups. They steal our food and occasionally shoot a few people. Seth organized the guards to help fight them off.}
 {121}{}{Can you tell me about Seth?}
-{122}{}{There are different groups? Who are they all?}
+{122}{}{There are different groups? Who are they?}
 {123}{}{Radscorpions are very dangerous. They have a poisonous stinger in the tail, and they are very quick. Aradesh has been trying to find a way to get rid of them. If you feel brave, you could talk to Aradesh about them.}
 {124}{}{Thanks. It's been healing up well, thanks to Razlo.}
 {125}{}{Seth is a very brave fighter. He occasionally goes to the radscorpion caves to kill a few radscorpions, but they always wind up coming back. There are just too many for him to fight.}
@@ -37,14 +37,13 @@
 # The player-character's name is inserted by the code in between lines 131 and 132.
 {131}{}{So, }
 {132}{}{, what can I do for you?}
-
 {133}{}{Tell me about the raiders.}
 {134}{}{Tell me about radscorpions.}
 {135}{}{Tell me about Shady Sands.}
 {136}{}{Tell me about Seth.}
 {137}{}{Can you give me directions to the Hub and Junktown?}
 {138}{}{Nothing, thanks.}
-{139}{}{The Hub is a big trading center far south of Shady Sands. It's run by several different caravan groups of merchants: the Water Merchants, the Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west. It's smaller, but still a good place to drop in for a drink. It's overseen by a fellow by the name of Killian Darkwater, the local shopkeeper, sheriff, and mayor.}
+{139}{}{The Hub is a big trading center far south of Shady Sands. It's run by several different caravan groups of merchants: the Water Merchants, the Crimson Caravan, and the Far Go Traders. Junktown is a little south and a ways west. It's smaller, but still a good place to drop in for a drink. It's overseen by a fellow by the name of Killian Darkwater; the local shopkeeper, sheriff, and mayor.}
 {140}{}{Thanks.}
 {141}{}{I may not be a very good fighter any more, but I'm good enough to best the likes of you!}
 
@@ -61,18 +60,18 @@
 {149}{}{Could you help me out a bit? Your experience would be useful.}
 {150}{}{Let's go. It'll be good to get back into action!}
 {151}{}{This is Killian's, a general store. Killian's a good man, and they have plenty of stock.}
-{152}{}{Gizmo's casino. A hive of gambling and underworld activity. Careful; they say the games are rigged.}
+{152}{}{Gizmo's casino. A hive of gambling and underworld activity. Careful - they say the games are rigged.}
 {153}{}{This place gives me the creeps.}
 {154}{}{What the hell happened here?}
 {155}{}{This is gonna be a tough nut to crack.}
-{156}{}{Hmm. Tempting offer, since this place gets boring. Tell ya what. Standard rates. 100 caps, and you've got a deal.}
+{156}{}{Hmm. Tempting offer, since this place gets boring. Tell ya what. Standard rates: 100 caps, and you've got a deal.}
 {157}{}{Deal.}
 {158}{}{No thanks.}
 {159}{}{How about a piece of the action, instead?}
 {160}{}{All right, I'll help you out in exchange for my share of loot.}
 {161}{}{No, I don't think so. Come back when you have some caps.}
 {162}{}{This is the Weapon Shop. It's run by Beth. She's good for guns, but better for gossip.}
-{163}{}{Jake's weapons. High prices, but really good guns.}
+{163}{}{Jake's Weapons. High prices, but really good guns.}
 {164}{}{Office of the Water Merchants. They're the big movers and shakers of the Hub, since they supply the water that keeps everything going.}
 {165}{}{This is the Crimson Caravan. I did some work for them. They do a lot of high-risk jobs.}
 {166}{}{Far Go Traders, run by Butch Harris. He's ot-nay oo-tay ight-bray, if you catch my meaning.}
@@ -212,7 +211,7 @@
 {1138}{}{Sorry, bud. Don't know much about that.}
 {1139}{}{Sorry, bud. Don't know much about that.}
 {1141}{}{You know, we'll always have war. Just the next one's gonna be fought with sticks.}
-{1142}{}{I saw some weird things when I was guarding caravans for the Hub. Mutated coyotes and manti and scorpions, that sort of thing.}
+{1142}{}{I saw some weird things when I was guarding caravans for the Hub. Mutated coyotes, mantises, scorpions; that sort of thing.}
 {1143}{}{Sorry, bud. Don't know much about that.}
 {1144}{}{They're a sorry group of raiders who attack Shady Sands and think that they're gonna take over the world or some such crap.}
 {1145}{}{She's Aradesh's daughter. She's pretty sweet, but I've got someone waiting for me back home.}

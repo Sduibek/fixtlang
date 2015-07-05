@@ -22,13 +22,13 @@
 {121}{}{What do you know about the Children of the Cathedral and the Followers of the Apocalypse?}
 {122}{}{Nothing, thanks.}
 {123}{}{I'm one of the Regulators. It's our job to keep the peace in Adytum, and to protect the town. Our boss, Caleb, could tell you more.}
-{124}{}{East of us are the Followers. They are a bunch of peace-nuts. East are the Blades, a bunch of skags if you ask me. A ways south of here is the Cathedral, 
-where the Children have their religious center.}
+{124}{}{East of us are the Followers. They are a bunch of peace-nuts. East are the Blades, a bunch of skags if you ask me. A ways south of here is the Cathedral, where the Children have their religious center.}
 {125}{}{Sorry, but we have to be careful of strangers here. Too dangerous. Maybe you can do some work for Zimmerman.}
 {126}{}{Finish your job.}
 {127}{}{You're welcome here any time, of course!}
 {128}{}{They're both groups of nuts. The Followers want everyone to be peaceful and happy. They don't realize that the world is too harsh for that.}
-{129}{}{The Children have some sort of god they worship in their Cathedral to the south. They have a hospital,  but they're a little too weird to be on the level.}
+# "on the level" means legit, following all the rules, being legal/ethical/transparent
+{129}{}{The Children have some sort of god they worship in their Cathedral to the south. They have a hospital, but they're a little too weird to be on the level.}
 {130}{}{You were warned to keep your weapons under control!}
 {131}{}{You'd better put your weapons away while you're here.}
 {132}{}{A thief, eh? Let me show you what we do to your kind here!}

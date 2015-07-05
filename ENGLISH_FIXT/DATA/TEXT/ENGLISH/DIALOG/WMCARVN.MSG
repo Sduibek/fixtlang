@@ -1,7 +1,7 @@
 {100}{}{You see a caravan driver.}
 {101}{}{Hi, if you're looking for a job on one of our caravans, you should talk to the Master Merchant. She's in that building to the east.}
 {102}{}{I'm sorry, but you need to talk to the Master Merchant.}
-{103}{}{Good, you got the okay. I knew it wouldn't be a problem. She's so swamped lately, ever since Daren Hightower started hiding in his office. Strange man. We leave just about every five days. That's the 1st, 5th, 10th, 15th, 20th, and the 25th. We currently only go to Junktown and the L.A. Boneyard.}
+{103}{}{Good, you got the okay. I knew it wouldn't be a problem. She's so swamped lately, ever since Daren Hightower started hiding in his office. Strange man. We leave just about every five days. That's the 1st, 5th, 10th, 15th, 20th, and the 25th. We currently only go to Junktown and L.A. Boneyard.}
 {104}{}{So what's the pay?}
 {105}{}{Um.}
 {106}{}{Our pay's 200 caps. It's not that great, but we go out often and our routes aren't too dangerous and yes, like everyone else, that is for each way, but of course you don't have to go both ways. }
@@ -93,8 +93,7 @@
 {192}{}{Yes.}
 {193}{}{No!}
 {194}{}{Ack!}
-{195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated...
-until you leave with the caravan, right?}
+{195}{}{Otherwise I'll just give it to someone else, don't worry about it. You're not obligated... until you leave with the caravan, right?}
 {196}{}{You're a little early. The next caravan run isn't until }
 {197}{}{1st}
 {198}{}{5th}

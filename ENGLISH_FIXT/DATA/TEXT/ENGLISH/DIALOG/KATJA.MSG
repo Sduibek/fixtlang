@@ -56,7 +56,7 @@
 {151}{}{Can I ask some more questions first?}
 {152}{}{This area's overrun with the three gangs - the Blades, Rippers, and Gun Runners - as well as serving as home for the Followers and for my own home, Adytum.}
 {153}{}{All right, looks like we've got a little ass-kicking to do!}
-{154}{}{Look, 90% of the people in this city fall into one or more of three categories - rapists, murderers, or thieves. I'm a thief and you actually seem polite, so that makes me wonder, okay? Call it a survival instinct.}
+{154}{}{Look, 90% of the people in this city fall into one or more of three categories: rapists, murderers, or thieves. I'm a thief and you actually seem polite, so that makes me wonder, okay? Call it a survival instinct.}
 {155}{}{Sorry to step on your feet then. I guess I'll just go the hell away.}
 {156}{}{Well, can I at least ask a few questions?}
 {157}{}{I'm not from around here, so I don't think I count.}
@@ -100,7 +100,7 @@
 #
 
 {980}{}{I don't know anything about that.}
-{981}{}{I can't really say I have heard of that.}
+{981}{}{I can't really say that I've heard of that.}
 {982}{}{No, I have not heard of that.}
 
 {1000}{}{Water}
@@ -170,7 +170,7 @@
 
 {1100}{}{I don't know where you could find such a relic of old technology.}
 {1101}{}{The Angel's Boneyard is all that's left of the old city of Los Angeles. Mostly divided among warring factions, these days.}
-{1102}{}{The War brought misery and death all over the world. I sure hope that something like that never happens again. But from what I've seen, there's not much hope for humanity.}
+{1102}{}{The War brought misery and death all over the world. I sure hope something like that never happens again. But from what I've seen, there's not much hope for humanity.}
 {1103}{}{Adytum used to be my home, but those people are just too paranoid and reclusive. They'll never survive by withdrawing from the world.}
 {1104}{}{The Followers of the Apocalypse preach peace and tolerance. Too bad it just doesn't cut it in this world.}
 {1105}{}{The Cathedral is a monumental structure south of Adytum by about a day's walk or so. It's run by a weird cult that worships some sort of dark god.}
@@ -249,6 +249,6 @@
 # by Sduibek, for more realistic display of her name upon look/examine,
 #  otherwise player magically knows she's named Katja even if she never told you her name.
 
-{2200}{}{All right, looks like we've got a little ass-kicking to do! I'm called Katja, by the way.}
+{2200}{}{Alright, looks like we've got a little ass-kicking to do! I'm called Katja, by the way.}
 {2201}{}{You see: Katja.}
 

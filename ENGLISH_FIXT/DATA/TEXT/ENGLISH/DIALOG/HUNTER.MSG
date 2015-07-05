@@ -1,7 +1,7 @@
 # Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
 # his money. He does not like child killers (which is the only way the player will meet him).
 
-{100}{}{You see a burly bounty hunter with a button that reads, 'I'm Christopher and you're meat.'}
+{100}{}{You see a burly bounty hunter with a button that reads, "I'm Christopher and you're meat."}
 # Bounty Hunter is considered Male term
 
 {101}{}{What do you want?}
@@ -21,14 +21,14 @@
 {200}{}{ caps on your head for killing children? Time to collect!}
 # Children is considered male plural
 
-{111}{}{[Christopher makes a close look over you, considering something... it seems, he's made a decision already] Tell me, how often do you visit Hub or Junktown?}
+{111}{}{(He looks you over, carefully, considering something. It seems he's made a decision already.) Tell me, how often do you visit The Hub or Junktown?}
 {112}{}{Often enough, why do you ask?}
-{113}{}{Well, you see... Business takes almost all of my time and I don't have an opportunity to get there. And as an incurable smoker I miss an old Zippo lighter very much. It's said, many of those pre-War items could be found in the shops there. If you get a Zippo for me, I'll share with you some information about the neighboring settlements. I think it could be of use!}
-{114}{}{It's a pity. Looks like I made a mistake on you. Get out of here.}
-{115}{}{Why not, I'll get one for you.}
+{113}{}{Well, you see... business takes almost all of my time and I don't have an opportunity to get there. And as an incurable smoker I miss an old Zippo lighter very much. It's said, many of those pre-War items can be found in the shops there. If you get a Zippo for me, I'll share some information about the neighboring settlements. I think it could be of use!}
+{114}{}{It's a pity. Looks like I made a mistake about you. Get out of here.}
+{115}{}{Sure, why not? I'll get one for you.}
 {116}{}{Okay.}
-{117}{}{Hey, I have one right here. I don't really need it and can give you in exchange for the information.}
-{118}{}{Thank you! [takes the lighter] So, what do you want to hear, exactly?}
+{117}{}{Hey, I have one right here. I don't really need it and can give it to you in exchange for the information.}
+{118}{}{Thank you! (He takes the lighter.) So, what do you want to hear, exactly?}
 {119}{}{Here is your lighter. Time to give me some information.}
 {120}{}{No more questions, thanks.}
 {121}{}{[More]}
@@ -57,7 +57,7 @@
 #  1012    Runners
 #  1013    Gun Runners
 #
-#  1110    A small town to the south. Occasionally some of them visit.
+#  1110    A small town to the south. Occasionally some of them visit us here.
 #  1111    Those are the peace-loving freaks who live near us.
 #  1112    A strange cult south of Adytum and in the Boneyard. Nicole says that they are up to something.
 #  1113    An ultra-violent gang to our west. It was, at least... I don't really know what happened but their base is swarming with Deathclaws now.

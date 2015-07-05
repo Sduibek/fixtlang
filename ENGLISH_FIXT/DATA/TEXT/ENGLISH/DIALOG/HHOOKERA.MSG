@@ -15,19 +15,19 @@
 {111}{}{Yer my bestest friend.}
 # best friend (slurred)
 
-{112}{}{Why you're... (hic) where am I?}
+{112}{}{Why you're... *hic* where am I?}
 {113}{}{Who are you?}
 {114}{}{Do I know you?}
 {115}{}{I feel a little queasy.}
-{116}{}{Drinks are on me, I mean you.}
+{116}{}{Drinks are on me... I mean, you.}
 {117}{}{Why are there two of you?}
 
 #They say 'Stand still' because their vision is blurry and moving from being drunk
 
 # laddy is male. long version of "lad". 
-{118}{}{Stand still, laddy!}
-# female
-{119}{}{Stand still, girl!}
+{118}{}{Stand still, laddie!}
+# lassie is female. long version of "lass"
+{119}{}{Stand still, lassie!}
 
 #################
 # Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
@@ -72,6 +72,12 @@
 # This is a sleazy prostitute who will have sex with anyone who will give
 # her 20 caps. She will be talking a sexy, but lewd voice.
 
+################################
+# Busy prostitute
+
+{105}{}{You see a very pretty lady. She seems to be busy.}
+{301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
+
 {102}{}{You see a sleazy-looking woman.}
 {302}{}{Upon further inspection, it's obvious that this is a prostitute. She flashes you a fake smile.}
 
@@ -87,7 +93,7 @@
 
 # random 206 to 209 display as a float message when dialog ends
 {206}{}{I like it rough, if you're into that.}
-{207}{}{No disease, i'm clean!}
+{207}{}{No diseases; I'm clean!}
 {208}{}{I do groups, for a little extra.}
 {209}{}{I'll do anything for the right price...}
 
@@ -98,24 +104,27 @@
 {211}{}{I'm your dream come true, sugar.}
 {212}{}{If you've got the caps, i'm in.}
 {213}{}{You like what you see? I do.}
+# "sweet pea" is slang for another slang word, "sweetie"
 {214}{}{Hey there, sweet pea.}
 {215}{}{Hey darlin', lookin' for a good time?}
 
 # random 216 to 219 display as a float message when dialog ends
 {216}{}{I like it rough, if you're into that.}
-{217}{}{No disease, i'm clean!}
+{217}{}{No diseases; I'm clean!}
 {218}{}{I do groups, for a little extra.}
 {219}{}{I'll do anything for the right price...}
 
 # STUPID CUSTOMERS
 
 {232}{}{Pritty lady. With me?}
-{233}{}{Oh god... darlin' I gotta make a living but even I have standards.}
+{233}{}{Oh god... darlin' I gotta make a livin' but even I have standards.}
 {235}{}{ME WANT!}
-{405}{}{Well... I guess I could make an exception. You better have a helluva lotta caps though.}
-# == "you better have a very large amount of caps though"
+# "hell of a"
+{405}{}{Well... I guess I could make an exception. You better have a helluva lot of caps though.}
+# == "you better have a very large amount of caps for me to agree to this"
 {243}{}{Cap?}
-{244}{}{[sigh] Yes, you idiot, bottle caps. Pay me 150 and I'll show you a good time. That should be enough for me to drown my shame at the bar and still make a profit.}
+# "Falcon" = Maltese Falcon, the bar
+{244}{}{*sigh* Yes, you idiot. Bottle caps. Pay me 150 and I'll show you a good time. That should be enough for me to drown my shame at the Falcon and still make a profit.}
 # "that should be enough caps to buy me lots of alcohol and still have caps left over"
 {238}{}{Hmph.}
 {239}{}{Sorry darlin'. If you find yourself a new brain, come back and see me.}
@@ -124,7 +133,7 @@
 {258}{}{Me no got monies...}
 {259}{}{Hmph!}
 {260}{}{I can't believe I'm even doing this...}
-{261}{}{Just go, I'm gonna go throw up now.}
+{261}{}{Get out of here. I'm gonna go throw up now.}
 {262}{}{I need to get a new job.}
 {263}{}{You again? Fuck off, I don't work with retards that can't pay.}
 {264}{}{Urr...}
@@ -155,11 +164,12 @@
 {228}{}{Alright, follow me...}
 {242}{}{Alright, everyone follow me...}
 {254}{}{[Continue]}
-{229}{}{Thanks, stranger. [she pockets the caps and blows you a kiss]}
+{229}{}{Thanks, stranger. (She pockets the caps and blows you a kiss)}
 {256}{}{Thanks, sugar. Come back soon!}
 {224}{}{Thanks for the good time. I'll see you later.}
 
 # for when she says how many caps it costs to be with her
+# Spaces at the beginnings or ends of these lines is intentional
 #low Charisma
 {247}{}{For you, }
 #high Charisma
@@ -176,16 +186,11 @@
 {403}{}{Ugh, I feel dirty.}
 {404}{}{Oh wow...}
 
-################################
-# Busy prostitute
-
-{105}{}{You see a very pretty lady. She seems to be busy.}
-{301}{}{Upon further inspection, it's obvious that this is a prostitute with a customer. She motions for you to leave, immediately.}
 
 {135}{}{Leave us alone or I'll call the guards.}
 {136}{}{Watch it, I'm a close friend of Deputy Fry.}
 {137}{}{Do you mind?}
-# == "could you please leave us alone? you're being rude"
+# 137 == "could you please leave us alone? you're being rude"
 {138}{}{No peep shows!}
 # == "I don't allow people to watch me having sex with someone else."
 
@@ -195,7 +200,7 @@
 {140}{}{I'm too tired for another one.}
 # referring to having another round of sex.
 
-{141}{}{You're dreaming pal, beat it!}
+{141}{}{You're dreaming, pal. Beat it!}
 {142}{}{Get the hell out!}
 {143}{}{What the hell do you think you're doing?}
 {144}{}{Mind your manners!}
@@ -210,7 +215,7 @@
 # interested in the player, only having sex with the prostitute
 
 {109}{}{You see a mercenary.}
-{150}{}{Do you mind?}
+{150}{}{Are you part of the combo?}
 {151}{}{Get the hell out of our room!}
 {152}{}{Get out!}
 {153}{}{Are you part of the combo?}
@@ -266,7 +271,7 @@
 
 {103}{}{You see a strange-looking man.}
 {169}{}{Place your bets.}
-{170}{}{Keep your hands away sir.}
+{170}{}{Keep your hands away, sir.}
 # in referrence to taking money from the table while the bet is going on
 
 {171}{}{Winner!}
@@ -277,7 +282,7 @@
 {174}{}{Hands off!}
 # don't take the dice off the table while someone is rolling them
 
-{175}{}{Your turn sir.}
+{175}{}{Your turn, sir.}
 # your turn to bet
 {176}{}{Sorry, that's an invalid bet.}
 {177}{}{That's it.}

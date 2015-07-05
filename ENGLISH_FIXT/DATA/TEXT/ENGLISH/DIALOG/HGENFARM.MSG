@@ -5,7 +5,7 @@
 {100}{}{You see a farmer.}
 {101}{}{I need better soil.}
 {102}{}{I'm not hiring.}
-{103}{}{I don't need more water, please leave.}
+{103}{}{I don't need more water. Please leave.}
 {104}{}{This soil is too hard.}
 {105}{}{These stupid plants aren't going to survive.}
 {106}{}{Why did I become a farmer?}

@@ -1,7 +1,7 @@
 {100}{}{You see: Sheriff Justin Greene.}
-{101}{}{Aw, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me from blowing you away on the spot. I suggest you leave our town - Right now. And stay away from our children.}
-{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can do for you this fine day?}
-{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. It there something I can do for you this fine day?}
+{101}{}{Aw, it's the slayer of the innocents. I've heard of you, and you're lucky I have a badge stopping me from blowing you away on the spot. I suggest you leave our town - right now. And stay away from our children.}
+{102}{}{Hello sir! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can do for you this fine day?}
+{103}{}{Hello ma'am! The name's Justin Greene. I'm the sheriff of this fine city. Is there something I can do for you this fine day?}
 {104}{}{Well, spit it out!}
 {105}{}{Decker hired me to kill some merchant and his wife.}
 {106}{}{Decker tried to hire me to kill someone named Jain.}
@@ -14,16 +14,16 @@
 {113}{}{Excellent! I had already heard from other sources about his plan. You're the final confirmation I needed to take action against him. This is going to be rough, and I can use any help I can get. I can pay you 1000 caps. 200 now, and the rest when we're all done. What do you say?}
 {114}{}{You're too late... Damn! I knew he was responsible, I only wish I knew in time to stop him. In any case, you're the final witness I needed to act. We'll have to 'take him out'. This is going to be rough, and I can use any help I can get. I can pay you 1000 caps. 200 now, and the rest when we're all done. What do you say?}
 {115}{}{You're too late... How do I know you're not responsible? Decker's not likely to let someone know about his plans and live.}
-{116}{}{I just got word that she's already dead... wait a minute. How do I know that you're not the one responsible? Decker's not likely to let someone know about his plans and live.}
+{116}{}{I just got word that she's already dead. Wait a minute... how do I know that you're not the one responsible? Decker's not likely to let someone know about his plans and live.}
 {117}{}{It'll be a pleasure.}
 {118}{}{Sorry, I want it all up front.}
 {119}{}{No way! You're on your own.}
-{120}{}{No way. You seem trustworthy, but I can't be sure that you won't leave us when it gets hot. This way, one of us has to survive to be sure you get paid. This way, it might add a 'little' bit of insurance.}
+{120}{}{No way. You seem trustworthy, but I can't be sure that you won't leave us when it gets hot. One of us has to survive to be sure you get paid. This way, it might add a 'little' bit of insurance.}
 {121}{}{Let's do it.}
 {122}{}{You're on your own, Sheriff.}
 {123}{}{Great! We can leave as soon as you're ready.}
 {124}{}{I'm ready.}
-{125}{}{Okay, Bye.}
+{125}{}{Okay. Bye.}
 {126}{}{I'm really sorry to hear that. If you change your mind, let me know, but I can't wait very long.}
 {127}{}{Okay, I'll do it. Just wait for me to get some supplies.}
 {128}{}{You're mad.}
@@ -38,7 +38,7 @@
 {137}{}{I'm sorry. Decker's been playing us all against each other for years. I don't know who to trust any more. I really could use your help though. It'll be rough, but I'll pay you 1000 caps. 200 now and 800 when we're done.}
 {138}{}{I know a rat when I smell one! You're lucky I don't have any proof, and I suggest you leave town before I find some.}
 {139}{}{That's very strange. I've never heard of Decker coming out of his office. He must be getting braver. That damn, murdering... argh! I'll get him yet! I'll tell you what, you help us out, and I'll pay you 1000 caps - 200 now and 800 when we're all done. What do you say?}
-{140}{}{That's the biggest pile of brahma shit I've ever heard. Decker never leaves his office. I knew there was something not right about you. You're lucky I don't have any proof, and I suggest you leave town before I find some!}
+{140}{}{That's the biggest pile of brahma shit I've ever heard! Decker never leaves his office. I knew there was something not right about you. You're lucky I don't have any proof, and I suggest you leave town before I find some!}
 {141}{}{Okay, let's go...}
 {142}{}{So, you came to turn yourself in? I'm impressed.}
 {143}{}{Yes, I'm sorry.}
@@ -67,4 +67,4 @@
 {166}{}{Hello again, ma'am. What can I do for you today?}
 {167}{}{Hello. How can I help you?}
 {168}{}{Yes?}
-{169}{}{Just sleep if off, okay?}
+{169}{}{Just sleep it off, okay?}

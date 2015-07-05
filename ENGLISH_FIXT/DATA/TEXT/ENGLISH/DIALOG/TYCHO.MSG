@@ -4,7 +4,7 @@
 {103}{}{Sorry, I'm rather pressed for time.}
 {104}{}{Sure.}
 {105}{}{Duh-wah?}
-{106}{}{Delightful. I hope you don't mind your drink well-watered - they treat beer here like it's a potted plant.}
+{106}{}{Delightful. I hope you don't mind your drink well-watered; they treat beer here like it's a potted plant.}
 {107}{}{So, what's your story?}
 {108}{}{Yeah, a drink of water. Never mind.}
 {109}{}{I could ask the same of you. In the interest of amity, I suppose I'll tell first. I'm called Tycho. Came from out east, what used to be called Nevada.}
@@ -18,7 +18,7 @@
 {117}{}{Really? Survival's tough these days. You must be pretty knowledgeable.}
 {118}{}{Not my place. I'd rather not cross Killian, after all. He'll clean up this town when he gets around to it. A good man, mark my words. But watch out for that fellow Gizmo. Reminds me of another fat freak my father told me about back in Las Vegas.}
 {119}{}{Thanks for the tip, and the drink.}
-{120}{}{There's two grades of scum here. One of 'em's the Skulz, a gang that hangs out in back of Marcelles' crash house. They're just grade-B twerps. But the other ones answer to a fat freak whose name you can probably guess. Runs the casino. Those guys are organized and dangerous.}
+{120}{}{There are two grades of scum here. One of 'em's the Skulz, a gang that hangs out in back of Marcelles' crash house. They're just grade-B twerps. But the other ones answer to a fat freak whose name you can probably guess. Runs the casino. Those guys are organized and dangerous.}
 {121}{}{I see. Thanks for the info.}
 {122}{}{Yeah, well, my family taught me everything there is to know about survival. Don't drink water that's totally clear and free of insects and moss, for instance. Only poisonous or radioactive water would be that clean in the wilderness. Lots of other little things to look out for, too.}
 {123}{}{Like what?}
@@ -40,12 +40,12 @@
 {139}{}{Hello again. How can I help you?}
 {140}{}{Killian's asked me to clean up this town, and I'd like your help.}
 {141}{}{Well, this is the Skum Pitt, a wretched hive of villainy and all that. Just west of here is Gizmo's, a big casino. Word is the games are rigged. A little south of here is the Crash House, run by Marcelles, where you can get a night's sleep for way too many caps. Past that is Killian's. Killian runs a general store, and he also enforces the law in this town - a good man. Then south of there you have Doc Morbid, whose operation is a little funny, if you take my meaning.}
-{142}{}{I hope that my little instruction course helped a bit.}
+{142}{}{I hope that my little instructional course helped a bit.}
 {143}{}{}
 {144}{}{Word is out that you've been having some contact with Gizmo. I'd step carefully around that barrel of lard if I were you.}
 {145}{}{My business is none of yours.}
 {146}{}{Yeah, I work for Gizmo now. What's it to you?}
-{147}{}{Fair enough. But watch your back. Gizmo isn't known for his consideration for his employees.}
+{147}{}{Fair enough, but watch your back. Gizmo isn't known for his consideration of his employees.}
 {148}{}{Suffice to say that your employer has caused more than enough misery and strife in this town. Don't expect much help from anyone, least of all Gizmo. Too bad. You might've been able to change this town for the better.}
 {149}{}{What can I do for you?}
 {150}{}{Any recommendations?}
@@ -63,11 +63,16 @@
 {162}{}{Keep a moderate distance.}
 {163}{}{Move out to longer range.}
 {164}{}{What sorts of weapon skills have you learned?}
-{165}{}{Pretty good Ranger training. I'm skilled with small pistols and rifles. I can also use a spear, of course, in a pinch.}
+{165}{}{Pretty good Ranger training: I'm skilled with small pistols and rifles. I can also use a spear, of course, in a pinch.}
 {166}{}{Uh, never mind.}
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
 {167}{}{Yeah, if you like your lizard well-done.}
 {168}{}{Well it's about time. Lead on, sir, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
-{169}{}{Well it's about time. Lead on, maam, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
+{169}{}{Well it's about time. Lead on, ma'am, and let's do some street sweeping. I'd recommend knocking over Gizmo, if I may.}
 {170}{}{Yes?}
 {171}{}{I think maybe we should stick together, after all.}
 {172}{}{Nothing. Never mind.}
@@ -77,7 +82,7 @@
 
 {174}{}{we be frend?}
 
-{175}{}{You're going down}
+{175}{}{You're going down.}
 {176}{}{Time for payback.}
 {177}{}{Junktown's citizens will be avenged!}
 {178}{}{Do you think you're above the law?}
@@ -192,10 +197,10 @@
 {1134}{}{I'm sorry, I can't help you there.}
 {1136}{}{I'm sorry, I can't help you there.}
 {1137}{}{I'm sorry, I can't help you there.}
-{1138}{}{The military had several secret bases scattered about, I know. I just don't know where.}
-{1139}{}{The military had several secret bases scattered about, I know. I just don't know where.}
+{1138}{}{I know the military had several secret bases scattered about. I just don't know where.}
+{1139}{}{I know the military had several secret bases scattered about. I just don't know where.}
 {1141}{}{Nuclear armageddon was the result of pride and foolishness. Now, we're paying the price.}
-{1142}{}{Certainly there are some strange things out there. I've seen mutated scorpions and 2-headed cows, and I've heard that Necropolis is home to ghouls, who seem human but are far different.}
+{1142}{}{Certainly there are some strange things out there. I've seen mutated scorpions and two-headed cows, and I've heard that Necropolis is home to ghouls, who seem human but are far different.}
 {1143}{}{I'm sorry, I can't help you there.}
 {1144}{}{I'm sorry, I can't help you there.}
 {1145}{}{I'm sorry, I can't help you there.}

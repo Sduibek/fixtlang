@@ -3,7 +3,7 @@
 # job of confusing the matter for people. Elusive and evasive. She will play
 # on anything that you give her to work with.
 
-{100}{}{You see: Heather, of the Follower's Scouts.}
+{100}{}{You see: Heather, of the Followers' scouts.}
 {101}{}{What are you doing here?}
 {102}{}{Dis!}
 # moronic line for This
@@ -35,7 +35,7 @@
 # spy is considered female
 
 {117}{}{Good luck to you. Sorry I bothered you.}
-{118}{}{I bet it was the braggart Neil that said as much. I'll have to have a talk with him later.}
+{118}{}{I bet it was the braggart Neil that said as much. I'll need to have a talk with him later.}
 # Neil is male
 
 {119}{}{You think that Neil is the spy?}
@@ -52,7 +52,7 @@
 {126}{}{Thank you. You don't know how much this means to me. Once you get proof, kill him.}
 {127}{}{What is there not to know? He has access to the Children. He works during the night when most are asleep. It has to be him.}
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
-# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# anyone who gets in their way or acts against their wishes. They are really bad people.
 # consider Male.
 
 {128}{}{Okay, I will check into it.}
@@ -76,7 +76,7 @@
 {135}{}{Any other leads that you can think of?}
 # == is there any other information that you can think of?
 
-{136}{}{But I've heard talk that only the scouts do raids on the Children}
+{136}{}{But I've heard talk that only the scouts do raids on the Children.}
 # scouts is male
 # Children is short for Children of the Cathedral. Religous cult who believe in destroying
 # anyone who gets in there way or acts against thier wishes. They are really bad people.
@@ -122,7 +122,7 @@
 {154}{}{Then wonder somewhere else. I must get back to work.}
 # then think about it somewhere else
 
-{155}{}{I think he thinks I am the spy. But I'm not.}
+{155}{}{I think he thinks I am the spy, but I'm not.}
 # spy is female
 
 {156}{}{Maybe he is right.}
@@ -140,7 +140,7 @@
 {162}{}{If you need information, look to Nicole. She thinks she knows everything.}
 # Nicole is female. said in a snotty manner.
 
-{163}{}{I can be persuaded to tell you something that's going on. For a price.}
+{163}{}{I can be persuaded to tell you something that's going on, for a price.}
 {164}{}{How much?}
 {165}{}{You would sell secrets?}
 {166}{}{Forget it. I have no money.}
