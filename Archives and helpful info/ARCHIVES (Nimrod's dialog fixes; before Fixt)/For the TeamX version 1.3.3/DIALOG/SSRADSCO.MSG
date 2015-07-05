@@ -1,0 +1,1 @@
+{100}{}{You gain 500 experience points for stopping the radscorpions.}

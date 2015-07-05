@@ -1,0 +1,97 @@
+{100}{}{Thank you.}
+{101}{}{Goodbye.}
+{102}{}{Hello.}
+{103}{}{You gain }
+{104}{}{ experience points.}
+{105}{}{Uh oh!}
+{106}{}{Click!}
+{107}{}{Oops!}
+{108}{}{Ouch!}
+{109}{}{See ya' around.}
+{110}{}{Take it sleazy.}
+{111}{}{It's been fun.}
+{112}{}{Here you go.}
+{113}{}{Anything else?}
+{114}{}{Yes.}
+{115}{}{No.}
+{116}{}{You gain }
+{117}{}{ skill points in Small Guns.}
+{118}{}{ skill points in Big Guns.}
+{119}{}{ skill points in Energy Weapons.}
+{120}{}{ skill points in Unarmed Combat.}
+{121}{}{ skill points in Melee Weapons.}
+{122}{}{ skill points in Throwing.}
+{123}{}{ skill points in First Aid.}
+{124}{}{ skill points in Doctor.}
+{125}{}{ skill points in Sneak.}
+{126}{}{ skill points in Steal.}
+{127}{}{ skill points in Lockpick.}
+{128}{}{ skill points in Traps.}
+{129}{}{ skill points in Science.}
+{130}{}{ skill points in Repair.}
+{131}{}{ skill points in Speech.}
+{132}{}{ skill points in Barter.}
+{133}{}{ skill points in Gambling.}
+{134}{}{ skill points in Outdoorsman.}
+{135}{}{You gain a skill point in Small Guns.}
+{136}{}{You gain a skill point in Big Guns.}
+{137}{}{You gain a skill point in Energy Weapons.}
+{138}{}{You gain a skill point in Unarmed Combat.}
+{139}{}{You gain a skill point in Melee Weapons.}
+{140}{}{You gain a skill point in Throwing.}
+{141}{}{You gain a skill point in First Aid.}
+{142}{}{You gain a skill point in Doctor.}
+{143}{}{You gain a skill point in Sneak.}
+{144}{}{You gain a skill point in Steal.}
+{145}{}{You gain a skill point in Lockpick.}
+{146}{}{You gain a skill point in Traps.}
+{147}{}{You gain a skill point in Science.}
+{148}{}{You gain a skill point in Repair.}
+{149}{}{You gain a skill point in Speech.}
+{150}{}{You gain a skill point in Barter.}
+{151}{}{You gain a skill point in Gambling.}
+{152}{}{You gain a skill point in Outdoorsman.}
+{153}{}{Your Strength is increased by }
+{154}{}{Your Perception is increased by }
+{155}{}{Your Endurance is increased by }
+{156}{}{Your Charisma is increased by }
+{157}{}{Your Intelligence is increased by }
+{158}{}{Your Agility is increased by }
+{159}{}{Your Luck is increased by }
+{160}{}{points.}
+{161}{}{Your Strength is increased by a point.}
+{162}{}{Your Perception is increased by a point.}
+{163}{}{Your Endurance is increased by a point.}
+{164}{}{Your Charisma is increased by a point.}
+{165}{}{Your Intelligence is increased by a point.}
+{166}{}{Your Agility is increased by a point.}
+{167}{}{Your Luck is increased by a point.}
+{168}{}{Thanks for your help.}
+{169}{}{Thanks for nothing.}
+{170}{}{Aradesh is furious and refuses to talk to you any more.}
+{171}{}{I believe the Master wishes to speak with you.}
+{172}{}{You shall pay for your BLASPHEMY!}
+{173}{}{This robot seems to be inoperable. This is possibly due to the lack of power.}
+{174}{}{You see nothing special about this robot.}
+{175}{}{This Blade refuses to talk to you.}
+{176}{}{The suitcase is sealed and unopenable.}
+{177}{}{Please, we must hurry. We don't have time to speak.}
+{178}{}{Only Morpheus has the key to this door. I must leave now to let Nicole
+ know what is going on here.}
+{179}{}{Please, I have to get away from here before they find out who I am.}
+{180}{}{You fail to steal anything and wonder if you got caught.}
+{181}{}{The Brotherhood members have caught you stealing.}
+# Mysterious Stranger messages
+{182}{}{Lets rock!}                                # 0
+{183}{}{Looks like you could use some assistance.} # 1
+{184}{}{I will help thee.}                         # 0
+{185}{}{I don't talk much.}                        # 1
+{186}{}{You hear over the loud speaker: Warning! Intruder Alert.}
+{187}{}{The goo has slowed down the transmission of your keystrokes.}
+{188}{}{The radscorpions are now sealed in their cave.}
+{189}{}{The cave mouth beckons you deeper into the lair of the radscorpions.}
+
+{200}{}{You see a horribly damaged emitter field.}
+{201}{}{The emitter is too damaged to use.}
+{202}{}{The emitter to too damaged to repair.}
+{203}{}{You notice that the field is damaged enough to walk through.}
