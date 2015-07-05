@@ -81,7 +81,7 @@
 {180}{}{Okay. Sorry about the inconvenience.}
 {181}{}{Who's going to make me? You? Don't make me laugh... }
 {182}{Kill35}{An honest thief. Hmpf. Well, I'm still gonna have to take you in. Come along quietly and you won't get hurt.}
-{183}{}{All right, I'll come along quietly.}
+{183}{}{Alright, I'll come along quietly.}
 {184}{}{Right... I don't think so.}
 {185}{Kill36}{Like I said... }
 {186}{Kill37}{I already told you... }
@@ -91,7 +91,7 @@
 {190}{Kill41}{Listen, I've already told you that numerous times.}
 {191}{Kill42}{You leaving so soon? Better pay first.}
 {192}{Kill43}{This is not something I take as a joke. Now. Pay up.}
-{193}{Kill44}{All right. Fine. Let's see if a night in the locker will cool you off a bit.}
+{193}{Kill44}{Alright. Fine. Let's see if a night in the locker will cool you off a bit.}
 {194}{Kill45}{Any more questions?}
 {195}{}{You bet.}
 {196}{}{Nope. That's it, thanks.}
@@ -116,7 +116,7 @@
 {215}{}{Yeah. I'll do it.}
 {216}{}{Not even close. I'm not risking my neck for that.}
 {217}{Kill52}{Well, damn. That's too bad. But, you know, I'm gonna have to lock you up until this thing's done. Can't risk Gizmo finding out. Sorry.}
-{218}{Kill53}{All right, I owe you. Here's the bug and the wiretap. You let me know when it's done. And good luck.}
+{218}{Kill53}{Alright, I owe you. Here's the bug and the wiretap. You let me know when it's done. And good luck.}
 {219}{Kill54}{So, did you get the evidence?}
 {220}{}{Not yet. But I will, believe me!}
 {221}{}{I sure did.}
@@ -138,7 +138,7 @@
 {237}{}{Sorry, not enough.}
 {238}{Kill62}{Good enough. Go see Lars, he'll give you the details.}
 {239}{Kill63}{Listen, that's all I'm offering. Thanks for getting the evidence, but I'm not going to beg for your services.}
-{240}{}{All right, I'll do it for that fee.}
+{240}{}{Alright, I'll do it for that fee.}
 {241}{}{Oh, well. See ya around.}
 {242}{Kill64}{Good luck in your travels. Now if you'll excuse me, I have a fat ass to move.}
 {243}{Kill65}{Gizmo owns the casino. Named it after himself. Be very careful around him.}

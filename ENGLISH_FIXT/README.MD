@@ -8,7 +8,7 @@
 
  - For similar reasons, copies of *Troubleshooting Fallout Fixt.txt* and *Fallout_Fixt_changelog.txt* are also provided.
 
- - If there are changes you disagree with, or if you have questions or comments regarding any changes, please direct them to the wiki at https://github.com/Sduibek/fixtlang/wiki/Discussion-goes-here.
+ - If there are changes you disagree with, or if you have questions or comments regarding any changes, please direct them to the wiki at [https://github.com/Sduibek/fixtlang/wiki/Discussion-goes-here.]
 
 # This folder's structure is the same as it will be in your Fallout Fixt installation folder.
 
