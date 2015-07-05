@@ -1,0 +1,14 @@
+#
+# Talking cow special encounter text
+#
+{100}{}{Moo.}
+{101}{}{Moo!}
+{102}{}{Moo, I say.}
+{103}{}{It's a wild brahma.}
+{104}{}{There is nothing natural about these cows. The second head can only be the result of some strange mutation.}
+{105}{}{Looks pretty normal to you.}
+{106}{}{It's a domesticated animal.}
+# (was Nuka-Cola)
+{107}{}{Why are you talking to brahmin? Lay off the bub, bub.}
+# Is this used anywhere? ~~Sduibek
+{108}{}{You have enraged the cow for attacking its friend.}

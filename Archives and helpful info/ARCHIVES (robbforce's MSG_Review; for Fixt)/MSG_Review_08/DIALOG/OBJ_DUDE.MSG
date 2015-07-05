@@ -1,0 +1,971 @@
+{100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
+
+#Tell Me About: NAME
+{970}{}{That is my name.}
+{971}{}{You are talking to me.}
+{972}{}{Why do you ask silly questions? I am that person.}
+
+#Tell Me About: don't know
+{980}{}{I don't know anything about that.}
+{981}{}{Sorry. No clue.}
+{982}{}{Never heard of it.}
+
+# HALLDED.MAP
+# The Necropolis Hall of the Dead Tell-Me-Abouts
+{2800}{}{The Master}
+{2801}{}{Water Chip}
+{2802}{}{Necropolis}
+{2803}{}{Set}
+{2804}{}{Watershed}
+{2805}{}{Hall}
+{2900}{}{Isn't he some big important guy?}
+{2901}{}{I dunno, but the Watershed might have one.}
+{2902}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
+{2903}{}{Oh, I like him, I do. You can find him at the Hall.}
+{2904}{}{It's to the north. Watch out for the guards. They take their job real serious like.}
+{2905}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
+
+# HOTEL.MAP
+# The Necropolis Hotel Tell-Me-Abouts
+{3400}{}{The Master}
+{3401}{}{Water Chip}
+{3402}{}{Necropolis}
+{3403}{}{Set}
+{3404}{}{Watershed}
+{3405}{}{Hall}
+{3500}{}{Isn't he some big important guy?}
+{3501}{}{I dunno, but the Watershed might have one.}
+{3502}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
+{3503}{}{Oh, I like him, I do. You can find him at the Hall.}
+{3504}{}{It's to the north. Watch out for the guards. They take their job real serious like.}
+{3505}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
+
+# WATRSHD.MAP
+# The Necropolis Watershed Tell-Me-Abouts
+{4000}{}{The Master}
+{4001}{}{Water Chip}
+{4002}{}{Necropolis}
+{4003}{}{Set}
+{4004}{}{Watershed}
+{4005}{}{Hall}
+{4100}{}{Isn't he some big important guy?}
+{4101}{}{I dunno, but the Watershed might have one.}
+{4102}{}{Yer standing in it. All that's left of it, at least. This place is dying, slowly but surely.}
+{4103}{}{Oh, I like him, I do. You can find him at the Hall.}
+{4104}{}{Watch out for the guards. They take their job real serious like.}
+{4105}{}{The Hall of the Dead. Where Set does his business. It's smack right in the center of Necropolis.}
+
+# VAULT13.MAP
+# Vault 13 Tell-Me-Abouts
+{4600}{}{Vault}
+{4601}{}{Water}
+{4602}{}{Overseer}
+{4603}{}{Chip}
+{4604}{}{Waterchip}
+{4605}{}{Vault13}
+{4606}{}{Vault 13}
+{4607}{}{Medic}
+{4608}{}{Healing}
+{4609}{}{Library}
+{4700}{}{This is where we live. You should understand that.}
+{4701}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
+{4702}{}{A good man doing a difficult job.}
+{4703}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
+{4704}{}{The chip controls the level of purity in the underground water supply. It is a critical piece of equipment that cannot be repaired.}
+{4705}{}{This is where we live. You should understand that.}
+{4706}{}{This is where we live. You should understand that.}
+{4707}{}{The medic is on the first floor, in the medlab. Go there if you are hurt.}
+{4708}{}{The medic is on the first floor, in the medlab. Go there if you are hurt.}
+{4709}{}{The library is on the west wing of the third floor. That's where the research computers are located.}
+
+# JUNKENT.MAP
+# Junktown Entrance Tell-Me-Abouts
+{7000}{}{Killian}
+{7001}{}{Gizmo}
+{7002}{}{Junktown}
+{7003}{}{Shady Sands}
+{7004}{}{The Hub}
+{7005}{}{Water Chip}
+{7006}{}{Casino}
+{7007}{}{Store}
+{7008}{}{Deathclaw}
+{7100}{}{Killian is the mayor. He runs a store.}
+{7101}{}{Gizmo runs a casino. He seems okay.}
+{7102}{}{This is Junktown.}
+{7103}{}{Umm, I think it is a real small place. I've never been there.}
+{7104}{}{It's a larger city somewhere to the south.}
+{7105}{}{What? I'm sorry.}
+{7106}{}{It's a large building in the northwest part of town.}
+{7107}{}{Killian's store? It's in the center of town.}
+{7108}{}{I dunno, but the name scares me.}
+
+# JUNKCSNO.MAP
+# Junktown Casino Tell-Me-Abouts
+{7600}{}{Killian}
+{7601}{}{Gizmo}
+{7602}{}{Junktown}
+{7603}{}{Shady Sands}
+{7604}{}{The Hub}
+{7605}{}{Water Chip}
+{7606}{}{Casino}
+{7607}{}{Store}
+{7608}{}{Deathclaw}
+{7700}{}{Killian is the mayor. He took over when his dad died.}
+{7701}{}{Gizmo is a big man in Junktown. He runs the casino, and the boxing ring. He makes a lot of money, and buys a lot of stuff from the Hub.}
+{7702}{}{This is Junktown.}
+{7703}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
+{7704}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
+{7705}{}{I don't know anything about that.}
+{7706}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
+{7707}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
+{7708}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
+
+# JUNKKILL.MAP
+# Junktown Killian's Tell-Me-Abouts
+{8200}{}{Killian}
+{8201}{}{Gizmo}
+{8202}{}{Junktown}
+{8203}{}{Shady Sands}
+{8204}{}{The Hub}
+{8205}{}{Water Chip}
+{8206}{}{Casino}
+{8207}{}{Store}
+{8208}{}{Deathclaw}
+{8300}{}{Killian is the mayor. He took over when his dad died.}
+{8301}{}{Gizmo is a big man in Junktown. He runs the casino, and the boxing ring. He makes a lot of money, and buys a lot of stuff from the Hub.}
+{8302}{}{This is Junktown.}
+{8303}{}{Well, it's a really small community to the north. The people who live there are mostly farmers. We occasionally trade with them, but they mostly want to be left alone.}
+{8304}{}{The Hub is the center of commerce around here. Almost all of the traders come from the Hub. They have some companies there that still make things. If you want, you can go with one of their trading parties back to the Hub.}
+{8305}{}{I don't know anything about that.}
+{8306}{}{Gizmo runs it. Watch out for the slot machines, you can lose a lot of money if you play them.}
+{8307}{}{Darkwater's? It's in the center of town. You can barter with him, or pay cash.}
+{8308}{}{I hear people talking about it, but I've never seen it. They say it roams the desert, striking mostly at night.}
+
+# BROHDENT.MAP  (8800)
+{8800}{}{The Master}
+{8801}{}{The War}
+{8802}{}{The Exodus}
+{8803}{}{The Strange Army}
+{8804}{}{The Brotherhood}
+{8805}{}{The Merchants}
+{8806}{}{The Missing Caravans}
+{8807}{}{The Hub}
+{8808}{}{Children of the Cathedral}
+{8809}{}{Initiates}
+{8810}{}{Scribes}
+{8811}{}{Knights}
+{8812}{}{Paladins}
+{8813}{}{Water Chip}
+{8900}{}{I have no idea what you are talking about.}
+{8901}{}{A terribly low point in the human history which formed our present world. We preserve the knowledge from the War to prevent another holocaust.}
+{8902}{}{A difficult and sorrowful decision. We lost a great many people who chose to go off on their own rather than traveling with the main force searching for a safe haven to live.}
+{8903}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
+{8904}{}{That is where we stand.}
+{8905}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
+{8906}{}{I don't know anything about that.}
+{8907}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
+{8908}{}{They are a cult.}
+{8909}{}{They are the future of the Brotherhood.}
+{8910}{}{They are the keepers of the knowledge.}
+{8911}{}{They are the ones who make the weapons for the Brotherhood.}
+{8912}{}{They are the protectors of the Brotherhood.}
+{8913}{}{I have no idea what you are talking about.}
+
+# BROHD12.MAP   (9400)
+{9400}{}{The Master}
+{9401}{}{The War}
+{9402}{}{The Exodus}
+{9403}{}{The Strange Army}
+{9404}{}{The Brotherhood}
+{9405}{}{The Merchants}
+{9406}{}{The Missing Caravans}
+{9407}{}{The Hub}
+{9408}{}{Children of the Cathedral}
+{9409}{}{Initiates}
+{9410}{}{Scribes}
+{9411}{}{Knights}
+{9412}{}{Paladins}
+{9413}{}{Water Chip}
+{9500}{}{I have no idea what you are talking about.}
+{9501}{}{A terribly low point in the human history which formed our present world. We preserve the knowledge from the War to prevent another holocaust.}
+{9502}{}{A difficult and sorrowful decision. We lost a great many people who chose to go off on their own rather than traveling with the main force searching for a safe haven to live.}
+{9503}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
+{9504}{}{That is where we stand.}
+{9505}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
+{9506}{}{I don't know anything about that.}
+{9507}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
+{9508}{}{They are a cult.}
+{9509}{}{They are the future of the Brotherhood.}
+{9510}{}{They are the keepers of the knowledge.}
+{9511}{}{They are the ones who make the weapons for the Brotherhood.}
+{9512}{}{They are the protectors of the Brotherhood.}
+{9513}{}{I have no idea what you are talking about.}
+
+# BROHD34.MAP  (10000)
+{10000}{}{The Master}
+{10001}{}{The War}
+{10002}{}{The Exodus}
+{10003}{}{The Strange Army}
+{10004}{}{The Brotherhood}
+{10005}{}{The Merchants}
+{10006}{}{The Missing Caravans}
+{10007}{}{The Hub}
+{10008}{}{Children of the Cathedral}
+{10009}{}{Initiates}
+{10010}{}{Scribes}
+{10011}{}{Knights}
+{10012}{}{Paladins}
+{10013}{}{Water Chip}
+{10100}{}{I have no idea what you are talking about.}
+{10101}{}{A terribly low point in the human history which formed our present world. We preserve the knowledge from the War to prevent another holocaust.}
+{10102}{}{A difficult and sorrowful decision. We lost a great many people who chose to go off on their own rather than traveling with the main force searching for a safe haven to live.}
+{10103}{}{I don't know much about it. The reports I've hear is that they are amassing somewhere to the north of us.}
+{10104}{}{That is where we stand.}
+{10105}{}{Those Water Merchants are thieving bastards, but of the other groups, I have no opinion.}
+{10106}{}{I don't know anything about that.}
+{10107}{}{A slime pit for those vile merchants. Though, occasionally, we will let one of the more civil trading companies exchange goods with us.}
+{10108}{}{They are a cult.}
+{10109}{}{They are the future of the Brotherhood.}
+{10110}{}{They are the keepers of the knowledge.}
+{10111}{}{They are the ones who make the weapons for the Brotherhood.}
+{10112}{}{They are the protectors of the Brotherhood.}
+{10113}{}{I have no idea what you are talking about.}
+
+# CHILDRN1.MAP (11200)
+{11200}{}{Holy Flame}
+{11201}{}{The Unity}
+{11202}{}{Children of the Cathedral}
+{11203}{}{Morpheus}
+{11204}{}{Mutants}
+{11205}{}{Master}
+{11206}{}{Followers of the Apocalypse}
+{11207}{}{Military Base}
+{11208}{}{The Vats}
+{11209}{}{Water Chip}
+{11300}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
+{11301}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people – human and mutant.}
+{11302}{}{That is us.}
+{11303}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
+{11304}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
+{11305}{}{We all have masters, don't we?}
+{11306}{}{They are people who seek to destroy the peace which the Master is trying to set forth.}
+{11307}{}{Sorry, never have heard of that.}
+{11308}{}{Sorry, I don't know what you are talking about.}
+{11309}{}{I have no clue as to what you are talking about.}
+
+# CHILDRN2.MAP (11800)
+{11800}{}{Holy Flame}
+{11801}{}{The Unity}
+{11802}{}{Children of the Cathedral}
+{11803}{}{Morpheus}
+{11804}{}{Mutants}
+{11805}{}{Master}
+{11806}{}{Followers of the Apocalypse}
+{11807}{}{Military Base}
+{11808}{}{The Vats}
+{11809}{}{Water Chip}
+{11900}{}{The Holy Flame is the one who will lead us into a brave new world which doesn't have hatred or war.}
+{11901}{}{We are all part of the Unity. It is the love and peace which we pass on to our fellow people – human and mutant.}
+{11902}{}{That is us.}
+{11903}{}{Morpheus is the High Priest of the Children. Typically, he is in his rooms when he is not preaching to us.}
+{11904}{}{They are people who got mutated from the nuclear fallout. But they are still good people.}
+{11905}{}{We all have masters, don't we?}
+{11906}{}{They are people who seek to destroy the peace which the Master is trying to set forth.}
+{11907}{}{Sorry, never have heard of that.}
+{11908}{}{Sorry, I don't know what you are talking about.}
+{11909}{}{I have no clue as to what you are talking about.}
+
+# RAIDERS.MAP
+# Raiders Tell-Me-Abouts
+{15400}{}{Khans}
+{15401}{}{Garl}
+{15402}{}{Junktown}
+{15403}{}{Shady Sands}
+{15404}{}{The Hub}
+{15405}{}{Water Chip}
+{15406}{}{Tandi}
+{15407}{}{Alya}
+{15408}{}{Diana}
+{15409}{}{Gwen}
+{15410}{}{Petrox}
+{15411}{}{Tolya}
+{15412}{}{Booze}
+{15413}{}{Drugs}
+{15414}{}{Shady}
+{15415}{}{Sands}
+{15416}{}{Raiders}
+
+{15500}{}{That's us, you lackey.}
+{15501}{}{He's the leader of the Khans. He is the most feared man in the wasteland. Don't fuck with him if you like being alive.}
+{15502}{}{A medium-sized town to the southwest. We sometimes go there to relax after a hard day of pillaging.}
+{15503}{}{Why we don't crush them completely is beyond me.}
+{15504}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
+{15505}{}{What the fuck are you talking about? Why should I care?}
+{15506}{}{Garl says he's had his eye on her for a while. I've never heard of her.}
+{15507}{}{She is an advisor. She plans the raids.}
+{15508}{}{She is the armorer. She repairs our equipment.}
+{15509}{}{She is second in command.}
+{15510}{}{He collects our supplies from gracious donators.}
+{15511}{}{He's the cook around here, although lately it seems like all we have is rat and iguana...}
+{15512}{}{Do you have any?}
+{15513}{}{Do you have any?}
+{15514}{}{Why we don't crush them completely is beyond me.}
+{15515}{}{Why we don't crush them completely is beyond me.}
+{15516}{}{That's us, you lackey.}
+
+
+# SHADYE.MAP
+# Shady Sands East Tell-Me-Abouts
+{16000}{}{Khans}
+{16001}{}{Garl}
+{16002}{}{Junktown}
+{16003}{}{Shady Sands}
+{16004}{}{The Hub}
+{16005}{}{Water Chip}
+{16006}{}{Tandi}
+{16007}{}{Aradesh}
+{16008}{}{Seth}
+{16009}{}{Razlo}
+{16100}{}{They are a lawless group who pretend to be some people from the far past.}
+{16101}{}{He leads the Khans. He is one of the most dangerous men that has ever set eyes on Shady Sands. He leads the raider clans with a heavy fist.}
+{16102}{}{It's four to six days to the southwest. Good trading occasionally, but more often than not, they try to stiff us.}
+{16103}{}{You're standing in it.}
+{16104}{}{Much farther to the south than Junktown, and not as far west. The Hub is the largest city I've heard about. Must be a thousand people there, at least.}
+{16105}{}{Sorry, I can't help you.}
+{16106}{}{She is the daughter of Aradesh. Some day she could lead us, but she must learn to temper her ways.}
+{16107}{}{He is the leader of our community, and a true hero. You can always find him at work in the communal hall.}
+{16108}{}{He works with Aradesh to make sure we are safe.}
+{16109}{}{Our doctor. See him if you are hurt.}
+
+# SHADYW.MAP
+# Shady Sands West Tell-Me-Abouts
+{16600}{}{Khans}
+{16601}{}{Garl}
+{16602}{}{Junktown}
+{16603}{}{Shady Sands}
+{16604}{}{The Hub}
+{16605}{}{Water Chip}
+{16606}{}{Tandi}
+{16607}{}{Aradesh}
+{16608}{}{Seth}
+{16609}{}{Razlo}
+{16700}{}{They are a lawless group who pretend to be some people from the far past.}
+{16701}{}{He leads the Khans. He is one of the most dangerous men that has ever set eyes on Shady Sands. He leads the raider clans with a heavy fist.}
+{16702}{}{It's four to six days to the southwest. Good trading occasionally, but more often than not, they try to stiff us.}
+{16703}{}{You're standing in it.}
+{16704}{}{Much farther to the south than Junktown, and not as far west. The Hub is the largest city I've heard about. Must be a thousand people there, at least.}
+{16705}{}{Sorry, I can't help you.}
+{16706}{}{She is the daughter of Aradesh. Some day she could lead us, but she must learn to temper her ways.}
+{16707}{}{He is the leader of our community, and a true hero. You can always find him at work in the communal hall.}
+{16708}{}{He works with Aradesh to make sure we are safe.}
+{16709}{}{Our doctor. See him if you are hurt.}
+
+#  ADYTUM
+# Info Level 1 [People who know nothing]
+{17800}{}{Adytum}
+{17801}{}{The Followers}
+{17802}{}{The Cathedral}
+{17803}{}{The Rippers}
+{17804}{}{The Blades}
+{17805}{}{The Gun Runners}
+{17806}{}{The Hub}
+{17807}{}{Junktown}
+{17808}{}{Water Chip}
+{17809}{}{Store}
+{17810}{}{Zimmerman}
+{17811}{}{Necropolis}
+{17812}{}{The Glow}
+{17813}{}{The Regulators}
+{17814}{}{The Scavs}
+{17815}{}{The Boneyard}
+{17900}{}{That's here.}
+{17901}{}{They live north of here.}
+{17902}{}{It's a ways south of us.}
+{17903}{}{They're on the west side.}
+{17904}{}{They're on the east side.}
+{17905}{}{They're past the Followers to the north.}
+{17906}{}{We trade with them.}
+{17907}{}{Isn't that a city north of here?}
+{17908}{}{A what?}
+{17909}{}{Tine's store is underground near the gate.}
+{17910}{}{He's the mayor.}
+{17911}{}{I hear it's out east.}
+{17912}{}{That's a myth.}
+{17913}{}{They protect us.}
+{17914}{}{They go outside to get things.}
+{17915}{}{This is the Boneyard.}
+
+# Info level 2 [People who know something]
+{18000}{}{Adytum}
+{18001}{}{The Followers}
+{18002}{}{The Cathedral}
+{18003}{}{The Rippers}
+{18004}{}{The Blades}
+{18005}{}{The Gun Runners}
+{18006}{}{The Hub}
+{18007}{}{Junktown}
+{18008}{}{Water Chip}
+{18009}{}{Store}
+{18010}{}{Zimmerman}
+{18011}{}{Necropolis}
+{18012}{}{The Glow}
+{18013}{}{The Regulators}
+{18014}{}{The Scavs}
+{18015}{}{The Boneyard}
+{18100}{}{You're in Adytum, outsider.}
+{18101}{}{The Followers live in an old library just to the north. They preach tolerance and peace.}
+{18102}{}{The Cathedral is a ways to the south, by the bay. The Children are a peaceful religion.}
+{18103}{}{They're on the west side. They are very vicious and have lots of traps.}
+{18104}{}{They're on the east side. They use some sort of high-tech knives.}
+{18105}{}{They're past the Followers to the north. They sell weapons to the gangs.}
+{18106}{}{We trade with them. They're the largest city I know of.}
+{18107}{}{They're a small city northeast of us.}
+{18108}{}{Never heard of it.}
+{18109}{}{Tine's store is underground near the gate. He can sell you many supplies.}
+{18110}{}{He's the mayor. He does a good job.}
+{18111}{}{It's a city of the dead, several days to the east.}
+{18112}{}{I hear it's way, way south.}
+{18113}{}{They protect us from the gangs and keep the peace.}
+{18114}{}{They go outside to search for stuff.}
+{18115}{}{We're in the Boneyard.}
+
+# Info level 3 [People who know more than something but less than everything]
+{18200}{}{Adytum}
+{18201}{}{The Followers}
+{18202}{}{The Cathedral}
+{18203}{}{The Rippers}
+{18204}{}{The Blades}
+{18205}{}{The Gun Runners}
+{18206}{}{The Hub}
+{18207}{}{Junktown}
+{18208}{}{Water Chip}
+{18209}{}{Store}
+{18210}{}{Zimmerman}
+{18211}{}{Necropolis}
+{18212}{}{The Glow}
+{18213}{}{The Regulators}
+{18214}{}{The Scavs}
+{18215}{}{The Boneyard}
+{18300}{}{We're the descendants of an old Vault that used to be under the south side of this city.}
+{18301}{}{The Followers are a learned and peaceful people. They live in an old library north of here.}
+{18302}{}{The Children worship a mysterious Dark God. They seem harmless, but there is something strange about their religion. The Cathedral is south of here.}
+{18303}{}{The Rippers are all inbred. They have a fortified building with traps around it where they take prisoners to be tortured and killed.}
+{18304}{}{The Blades are notorious for their vibro-knives. They are the arch-enemies of the Rippers. Their leader is a woman named Razor.}
+{18305}{}{They used to be a gang, but they set up in a warehouse on the north side and started trading weapons and guns to people.}
+{18306}{}{The Hub is a center of trade and commerce. They have companies that actually produce things. They're east of us.}
+#{18306 alternate If hydroponic farms aren't fixed:}{We sell bullets to the Hub.}
+{18307}{}{Junktown is a moderate-sized city east of here and just north of the Hub.}
+{18308}{}{Sorry, can't help you with that.}
+{18309}{}{Tine runs the general store near the front gate. He can sell you weapons and traveling supplies.}
+{18310}{}{Jon is our mayor. He makes trade agreements, dictates policy, and delegates responsibility to the Regulators and the scavs.}
+{18311}{}{The city of the dead? It's supposedly a place inhabited by strange cannibals far to the east. I wouldn't visit there if I were you.}
+{18312}{}{It's a big radioactive place far, far to the south, or so I'm told.}
+{18313}{}{They're the police force of Adytum. They protect us from the gangs. Caleb is the leader.}
+{18314}{}{The scavs have the job of searching the Boneyard for valuable equipment. They are led by Sammael.}
+{18315}{}{The Angel's Boneyard is the remains of the old city of Los Angeles. We're in the middle of the Boneyard.}
+
+#    FOLLOWERS OF THE APOCALYPSE
+# Info Level 1 [People who know nothing]
+{18400}{}{Adytum}
+{18401}{}{The Followers}
+{18402}{}{The Cathedral}
+{18403}{}{The Rippers}
+{18404}{}{The Blades}
+{18405}{}{The Gun Runners}
+{18406}{}{The Hub}
+{18407}{}{Junktown}
+{18408}{}{Water Chip}
+{18409}{}{Nicole}
+{18410}{}{The Boneyard}
+{18500}{}{It's a village south of here.}
+{18501}{}{We are the Followers of the Apocalypse.}
+{18502}{}{A cult to the south, past Adytum.}
+{18503}{}{A gang to the west.}
+{18504}{}{A gang to the east.}
+{18505}{}{A gang to the north.}
+{18506}{}{A big trading city to the northeast.}
+{18507}{}{A medium-sized city north of the Hub.}
+{18508}{}{Can't help you, sorry.}
+{18509}{}{She's our leader.}
+{18510}{}{This is the Boneyard.}
+
+# Info level 2 [People who know something]
+{18600}{}{Adytum}
+{18601}{}{The Followers}
+{18602}{}{The Cathedral}
+{18603}{}{The Rippers}
+{18604}{}{The Blades}
+{18605}{}{The Gun Runners}
+{18606}{}{The Hub}
+{18607}{}{Junktown}
+{18608}{}{Water Chip}
+{18609}{}{Nicole}
+{18610}{}{The Boneyard}
+{18700}{}{A small town to the south. Occasionally some of them visit.}
+{18701}{}{We are the Followers of the Apocalypse. We take this name because we come after the storm of war, to bring the balm of peace.}
+{18702}{}{A strange cult south of Adytum and the rest of the Boneyard. Nicole says that they are up to something.}
+{18703}{}{An ultra-violent gang to our west.}
+{18704}{}{A gang to the east. They use vibro-knives.}
+{18705}{}{A gang that came from the Hub, and sells guns. They are north of here.}
+{18706}{}{The Hub is a large city of traders and businesses, to the east.}
+{18707}{}{Junktown is a small city just north of the Hub.}
+{18708}{}{I can't help you with that.}
+{18709}{}{She is our leader. She has a vision to restore peace to a factionalized world.}
+{18710}{}{This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.}
+
+# Info level 3 [People who know more than something but less than everything]
+{18800}{}{Adytum}
+{18801}{}{The Followers}
+{18802}{}{The Cathedral}
+{18803}{}{The Rippers}
+{18804}{}{The Blades}
+{18805}{}{The Gun Runners}
+{18806}{}{The Hub}
+{18807}{}{Junktown}
+{18808}{}{Water Chip}
+{18809}{}{Nicole}
+{18810}{}{The Boneyard}
+{18900}{}{A small town to the south. They are good people, if a trifle paranoid. Some of them work with us from time to time.}
+{18901}{}{We are the Followers of the Apocalypse. It is our duty to bring peace and learning once again to the world, and to make sure that the weapons of war never again scar the earth.}
+{18902}{}{The Cathedral is a great building south of the Boneyard. The Children are a cult worshipping a dark and evil god. They must be stopped before they spread their religion through violence.}
+{18903}{}{Inbreds and jackals. They attack anything in sight that isn't related to them. They live west of here in a fortress surrounded by traps.}
+{18904}{}{A singularly dangerous group living to the east, who fight with vibro-knives. Their leader, Razor, came from the Hub and molded them into a fierce family.}
+{18905}{}{They are a gang living in a warehouse to the north, inside a moat of radioactive sludge. They sell guns to the other gangs.}
+{18906}{}{The Hub is a vast mercantile city far to the east of us. They send caravans to many places, including Adytum.}
+{18907}{}{It's a small city north of the Hub. I'm told it's a good place to stop for the weary traveler.}
+{18908}{}{Although I've read about Vault technology, it's a little beyond me.}
+{18909}{}{Nicole is our leader. She's compelled by insight and spirituality to bring peace to a world broken by war.}
+{18910}{}{This is the heart of the Angel's Boneyard, named for the old city of Los Angeles, and for the skeletons of the dead that littered the place after the Bomb.}
+
+# MBENT.MAP     (19000)
+{19000}{}{Master}
+{19001}{}{Lieutenant}
+{19002}{}{Children of the Cathedral}
+{19003}{}{Followers of the Apocalypse}
+{19004}{}{Nightkin}
+{19005}{}{Super Mutants}
+{19006}{}{Psychics}
+{19007}{}{Experiments}
+{19008}{}{Water Chip}
+
+{19100}{}{I don't have to tell you anything.}
+{19101}{}{Such knowledge does not belong with lesser beings.}
+{19102}{}{You need not concern yourself with them.}
+{19103}{}{You are too lowly to question me.}
+{19104}{}{None of your business.}
+{19105}{}{That is not your concern.}
+{19106}{}{You are too foolish to know of them.}
+{19107}{}{You are not authorized to know of them.}
+{19108}{}{Do not bother me about toys.}
+
+# MBSTRG12.MAP  (19600)
+{19600}{}{Master}
+{19601}{}{Lieutenant}
+{19602}{}{Children of the Cathedral}
+{19603}{}{Followers of the Apocalypse}
+{19604}{}{Nightkin}
+{19605}{}{Super Mutants}
+{19606}{}{Psychics}
+{19607}{}{Experiments}
+{19608}{}{Water Chip}
+{19700}{}{I don't have to tell you anything.}
+{19701}{}{Such knowledge does not belong with lesser beings.}
+{19702}{}{You need not concern yourself with them.}
+{19703}{}{You are too lowly to question me.}
+{19704}{}{None of your business.}
+{19705}{}{That is not your concern.}
+{19706}{}{You are too foolish to know of them.}
+{19707}{}{You are not authorized to know of them.}
+{19708}{}{Do not bother me about toys.}
+
+# MBVATS12.MAP  (20200)
+{20200}{}{Master}
+{20201}{}{Lieutenant}
+{20202}{}{Children of the Cathedral}
+{20203}{}{Followers of the Apocalypse}
+{20204}{}{Nightkin}
+{20205}{}{Super Mutants}
+{20206}{}{Psychics}
+{20207}{}{Experiments}
+{20208}{}{Water Chip}
+{20300}{}{I don't have to tell you anything.}
+{20301}{}{Such knowledge does not belong with lesser beings.}
+{20302}{}{You need not concern yourself with them.}
+{20303}{}{You are too lowly to question me.}
+{20304}{}{None of your business.}
+{20305}{}{That is not your concern.}
+{20306}{}{You are too foolish to know of them.}
+{20307}{}{You are not authorized to know of them.}
+{20308}{}{Do not bother me about toys.}
+
+# MSTRLR12.MAP  (20800)
+{20800}{}{Master}
+{20801}{}{Lieutenant}
+{20802}{}{Children of the Cathedral}
+{20803}{}{Followers of the Apocalypse}
+{20804}{}{Nightkin}
+{20805}{}{Super Mutants}
+{20806}{}{Psychics}
+{20807}{}{Experiments}
+{20808}{}{Water Chip}
+{20900}{}{I don't have to tell you anything.}
+{20901}{}{Such knowledge does not belong with lesser beings.}
+{20902}{}{You need not concern yourself with them.}
+{20903}{}{You are too lowly to question me.}
+{20904}{}{None of your business.}
+{20905}{}{That is not your concern.}
+{20906}{}{You are too foolish to know of them.}
+{20907}{}{You are not authorized to know of them.}
+{20908}{}{Do not bother me about toys.}
+
+# MSTRLR34.MAP  (21400)
+{21400}{}{Master}
+{21401}{}{Lieutenant}
+{21402}{}{Children of the Cathedral}
+{21403}{}{Followers of the Apocalypse}
+{21404}{}{Nightkin}
+{21405}{}{Super Mutants}
+{21406}{}{Psychics}
+{21407}{}{Experiments}
+{21408}{}{Water Chip}
+{21500}{}{I don't have to tell you anything.}
+{21501}{}{Such knowledge does not belong with lesser beings.}
+{21502}{}{You need not concern yourself with them.}
+{21503}{}{You are too lowly to question me.}
+{21504}{}{None of your business.}
+{21505}{}{That is not your concern.}
+{21506}{}{You are too foolish to know of them.}
+{21507}{}{You are not authorized to know of them.}
+{21508}{}{Do not bother me about toys.}
+
+# HUBENT.MAP    (22600)
+{22600}{}{Police}
+{22601}{}{Water Merchants}
+{22602}{}{Crimson Caravans}
+{22603}{}{Far Go Traders}
+{22604}{}{Children of the Cathedral}
+{22605}{}{Necropolis}
+{22606}{}{Hot Spot}
+{22607}{}{Junktown}
+{22608}{}{Brotherhood of Steel}
+{22609}{}{Shady Sands}
+{22610}{}{LA Boneyard}
+{22611}{}{Water Tower}
+{22612}{}{Old Town}
+{22613}{}{Downtown}
+{22614}{}{The Heights}
+{22615}{}{Deathclaw}
+{22616}{}{Water Chip}
+{22700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
+{22701}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
+{22702}{}{A crazed group of traders who take great risks in order to get to the top.}
+{22703}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
+{22704}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
+{22705}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
+{22706}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
+{22707}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
+{22708}{}{That place is the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{22709}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
+{22710}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
+{22711}{}{Those store the water for the Hub. The Water Merchants control the towers.}
+{22712}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
+{22713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
+{22714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
+{22715}{}{A myth to scare little children into behaving.}
+{22716}{}{I don't know anything about that.}
+
+# HUBDWNTN.MAP  (23800)
+{23800}{}{Police}
+{23801}{}{Water Merchants}
+{23802}{}{Crimson Caravans}
+{23803}{}{Far Go Traders}
+{23804}{}{Children of the Cathedral}
+{23805}{}{Necropolis}
+{23806}{}{Hot Spot}
+{23807}{}{Junktown}
+{23808}{}{Brotherhood of Steel}
+{23809}{}{Shady Sands}
+{23810}{}{LA Boneyard}
+{23811}{}{Water Tower}
+{23812}{}{Old Town}
+{23813}{}{Downtown}
+{23814}{}{The Heights}
+{23815}{}{Deathclaw}
+{23816}{}{Water Chip}
+{23900}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
+{23901}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
+{23902}{}{A crazed group of traders who take great risks in order to get to the top.}
+{23903}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
+{23904}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
+{23905}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
+{23906}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
+{23907}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
+{23908}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{23909}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
+{23910}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
+{23911}{}{Those store the water for the Hub. The Water Merchants control the towers.}
+{23912}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
+{23913}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
+{23914}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
+{23915}{}{A myth to scare little children into behaving.}
+{23916}{}{I don't know anything about that.}
+
+# HUBHEIGT.MAP  (24400)
+{24400}{}{Police}
+{24401}{}{Water Merchants}
+{24402}{}{Crimson Caravans}
+{24403}{}{Far Go Traders}
+{24404}{}{Children of the Cathedral}
+{24405}{}{Necropolis}
+{24406}{}{Hot Spot}
+{24407}{}{Junktown}
+{24408}{}{Brotherhood of Steel}
+{24409}{}{Shady Sands}
+{24410}{}{LA Boneyard}
+{24411}{}{Water Tower}
+{24412}{}{Old Town}
+{24413}{}{Downtown}
+{24414}{}{The Heights}
+{24415}{}{Deathclaw}
+{24416}{}{Water Chip}
+{24500}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
+{24501}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
+{24502}{}{A crazed group of traders who take great risks in order to get to the top.}
+{24503}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
+{24504}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
+{24505}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
+{24506}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
+{24507}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
+{24508}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{24509}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
+{24510}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
+{24511}{}{Those store the water for the Hub. The Water Merchants control the towers.}
+{24512}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
+{24513}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
+{24514}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
+{24515}{}{A myth to scare little children into behaving.}
+{24516}{}{I don't know anything about that.}
+
+# HUBOLDTN.MAP  (25000)
+{25000}{}{Police}
+{25001}{}{Water Merchants}
+{25002}{}{Crimson Caravans}
+{25003}{}{Far Go Traders}
+{25004}{}{Children of the Cathedral}
+{25005}{}{Necropolis}
+{25006}{}{Hot Spot}
+{25007}{}{Junktown}
+{25008}{}{Brotherhood of Steel}
+{25009}{}{Shady Sands}
+{25010}{}{LA Boneyard}
+{25011}{}{Water Tower}
+{25012}{}{Old Town}
+{25013}{}{Downtown}
+{25014}{}{The Heights}
+{25015}{}{Deathclaw}
+{25016}{}{Water Chip}
+{25100}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
+{25101}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
+{25102}{}{A crazed group of traders who take great risks in order to get to the top.}
+{25103}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
+{25104}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
+{25105}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
+{25106}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
+{25107}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
+{25108}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{25109}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
+{25110}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
+{25111}{}{Those store the water for the Hub. The Water Merchants control the towers.}
+{25112}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
+{25113}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
+{25114}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
+{25115}{}{A myth to scare little children into behaving.}
+{25116}{}{I don't know anything about that.}
+
+# HUBWATER.MAP  (25600)
+{25600}{}{Police}
+{25601}{}{Water Merchants}
+{25602}{}{Crimson Caravans}
+{25603}{}{Far Go Traders}
+{25604}{}{Children of the Cathedral}
+{25605}{}{Necropolis}
+{25606}{}{Hot Spot}
+{25607}{}{Junktown}
+{25608}{}{Brotherhood of Steel}
+{25609}{}{Shady Sands}
+{25610}{}{LA Boneyard}
+{25611}{}{Water Tower}
+{25612}{}{Old Town}
+{25613}{}{Downtown}
+{25614}{}{The Heights}
+{25615}{}{Deathclaw}
+{25616}{}{Water Chip}
+{25700}{}{The police are run by Sheriff Greene to keep law and order in the Hub. There are some who believe them to be more of a hindrance than help.}
+{25701}{}{They control all of the water in the Hub. They seized control of the Water Tower, and now people have to pay them to get water.}
+{25702}{}{A crazed group of traders who take great risks in order to get to the top.}
+{25703}{}{A medium tempered group of traders who offer fair prices without having to seek out danger to themselves.}
+{25704}{}{A religious cult who worships something called the Master. They run a hospital on the southeast side of town by the Water Merchants.}
+{25705}{}{Creepy place. Some say that it is haunted by mutated humans who eat normal people's brains for food. It is somewhere to the east of the Hub.}
+{25706}{}{There are some stories which say there is a place to the southeast of here which got hit by a nuclear warhead.}
+{25707}{}{That's to the north of us. There is a fair amount of trading between us and them. From rumors, Killian and Gizmo are at each other's throats.}
+{25708}{}{That place is to the northwest of here. They are a bunch of techno freaks who worship technology. Very spooky people.}
+{25709}{}{A primitive town that is far to the north of here. Not much is known about them, because they don't have enough money to trade with us.}
+{25710}{}{That rat infested place is riddled with gang warfare. Were it not for the great trading with Adytum and the Gun Runners, I doubt any trader would venture there.}
+{25711}{}{Those store the water for the Hub. The Water Merchants control the towers.}
+{25712}{}{Old Town is on the northeastern side of town. Only people that hang out there are skags and muties. I've heard that there is a so-called 'Circle of Thieves' somewhere in there.}
+{25713}{}{That's where all the merchants sell things. The Weapon Shop, The Armory, Friendly Lending Company and Maltese Falcon are all in that area.}
+{25714}{}{That is where all the rich merchants live. The Water Merchants' leader, Daren Hightower has a huge place there.}
+{25715}{}{A myth to scare little children into behaving.}
+{25716}{}{I don't know anything about that.}
+
+#    BLADES
+# Info Level 1 [People who know nothing]
+{27400}{}{Adytum}
+{27401}{}{The Followers}
+{27402}{}{The Cathedral}
+{27403}{}{The Rippers}
+{27404}{}{The Blades}
+{27405}{}{The Gun Runners}
+{27406}{}{The Hub}
+{27407}{}{Junktown}
+{27408}{}{Water Chip}
+{27409}{}{Razor}
+{27410}{}{Necropolis}
+{27411}{}{The Glow}
+{27412}{}{The Boneyard}
+{27500}{}{They're a town to the west.}
+{27501}{}{A bunch of wimps.}
+{27502}{}{Religious nuts.}
+{27503}{}{Our sworn enemies!}
+{27504}{}{That's us!}
+{27505}{}{They sell guns to us sometimes.}
+{27506}{}{I think it's a trading place.}
+{27507}{}{Never heard of it.}
+{27508}{}{A what?}
+{27509}{}{She's our leader, the most bad-ass bitch in town!}
+{27510}{}{Necro- what? That's sick.}
+{27511}{}{You're kidding, right?}
+{27512}{}{This is the Boneyard.}
+
+# Info Level 2 [People who know something]
+{27600}{}{Adytum}
+{27601}{}{The Followers}
+{27602}{}{The Cathedral}
+{27603}{}{The Rippers}
+{27604}{}{The Blades}
+{27605}{}{The Gun Runners}
+{27606}{}{The Hub}
+{27607}{}{Junktown}
+{27608}{}{Water Chip}
+{27609}{}{Razor}
+{27610}{}{Necropolis}
+{27611}{}{The Glow}
+{27612}{}{The Boneyard}
+{27700}{}{They are a village of weaklings to the southwest.}
+{27701}{}{Pathetic peace-preachers to the west. We'd crush them if we weren't busy fighting the Rippers.}
+{27702}{}{Religious freaks. Harmless and useless.}
+{27703}{}{Our arch-enemies to the west will be crushed soon!}
+{27704}{}{We are the Blades! Never forget it!}
+{27705}{}{They were once a gang, but they became soft. They do sell good guns, though.}
+{27706}{}{Traders and merchants.}
+{27707}{}{I've heard of that place, but not anything about it.}
+{27708}{}{A what?}
+{27709}{}{Razor is the most accomplished fighter of us all. She will lead us to victory.}
+{27710}{}{That's some story about a city of cannibals, used to frighten children.}
+{27711}{}{Must be where a nuke hit.}
+{27712}{}{This is the Boneyard.}
+
+# Info level 3 [People who know more than something but less than everything]
+{27800}{}{Adytum}
+{27801}{}{The Followers}
+{27802}{}{The Cathedral}
+{27803}{}{The Rippers}
+{27804}{}{The Blades}
+{27805}{}{The Gun Runners}
+{27806}{}{The Hub}
+{27807}{}{Junktown}
+{27808}{}{Water Chip}
+{27809}{}{Razor}
+{27810}{}{Necropolis}
+{27811}{}{The Glow}
+{27812}{}{The Boneyard}
+{27900}{}{Don't be fooled. Adytum looks like a little village, but their Regulators are tough.}
+{27901}{}{Hmph. Don't get me started. They don't have the stomach or courage to fight.}
+{27902}{}{They're cultists in a big church to the south. They seem harmless but something weird is going on there.}
+{27903}{}{The Rippers are like mangy dogs - vicious, inbred, and stupid.}
+{27904}{}{See my blade? We make these ourselves. Every one of use makes his own. Hence our name.}
+{27905}{}{They came down from the Hub looking for turf, but they decided to become salesmen instead of warriors.}
+{27906}{}{That's a trading city to the east. Merchants from there come here sometimes to trade with Adytum and the Gun Runners.}
+{27907}{}{I think it's northeast of here. It's a small city.}
+{27908}{}{A what?}
+{27909}{}{Razor is our leader and champion. I have no doubt that her experience will grant us victory at last over those Rippers.}
+{27910}{}{Far east of here. Supposedly, ghouls that eat human flesh live there. I wouldn't want to fight the ghouls.}
+{27911}{}{That's supposed to be the ruins of some place that got hit straight-on by a nuke. I think it's way to the south.}
+{27912}{}{This is the Boneyard.}
+
+#   GUN RUNNERS
+#Info Level 1 [People who know nothing]
+{28600}{}{Adytum}
+{28601}{}{The Followers}
+{28602}{}{The Cathedral}
+{28603}{}{The Rippers}
+{28604}{}{The Blades}
+{28605}{}{The Gun Runners}
+{28606}{}{The Hub}
+{28607}{}{Junktown}
+{28608}{}{Water Chip}
+{28609}{}{The Boneyard}
+{28700}{}{A small village south of here.}
+{28701}{}{A group of hippies to the south.}
+{28702}{}{Do you mean those guys in the brown robes?}
+{28703}{}{Hair-trigger gang to the west.}
+{28704}{}{Sneaky gang to the east.}
+{28705}{}{Yeah? What?}
+{28706}{}{We buy guns from them and sell 'em direct to you!}
+{28707}{}{Yeah, small city north of the Hub.}
+{28708}{}{A what?}
+{28709}{}{This is the Boneyard.}
+
+# Info Level 2 [People who know something]
+{28800}{}{Adytum}
+{28801}{}{The Followers}
+{28802}{}{The Cathedral}
+{28803}{}{The Rippers}
+{28804}{}{The Blades}
+{28805}{}{The Gun Runners}
+{28806}{}{The Hub}
+{28807}{}{Junktown}
+{28808}{}{Water Chip}
+{28809}{}{The Boneyard}
+{28900}{}{That's a small village to the south. They're pretty well fortified.}
+{28901}{}{A group of peace-lovers hiding out south of here. We should just get rid of them.}
+{28902}{}{Oh yeah, those crazy old monks. They're nuts. Their big church is south of the Boneyard.}
+{28903}{}{Hey, they may be stupid, but they sure buy a lot of guns!}
+{28904}{}{They always use those weird vibro-knives that they make. I'd like to get my hands on one. But at least they buy some guns, too.}
+{28905}{}{You're talking to us.}
+{28906}{}{It's a big trading center back east. We trade with Hub merchants to buy and sell weapons and armor.}
+{28907}{}{A small town north of the Hub. Kinda strict.}
+{28908}{}{Never heard of that.}
+{28909}{}{We're in the north side of the Boneyard.}
+
+# Info Level 3 [People who know more than something but less than everything]
+{29000}{}{Adytum}
+{29001}{}{The Followers}
+{29002}{}{The Cathedral}
+{29003}{}{The Rippers}
+{29004}{}{The Blades}
+{29005}{}{The Gun Runners}
+{29006}{}{The Hub}
+{29007}{}{Junktown}
+{29008}{}{Water Chip}
+{29009}{}{The Boneyard}
+{29100}{}{They are a small town to the south. They don't deal with us. I couldn't care less about them.}
+{29101}{}{They try to convert everyone to their ways of peace while they hide in their library to the south. They don't help business any!}
+{29102}{}{The Cathedral's this big church south of the Boneyard, where some strange cult worships a Dark God. I think they're freaky.}
+{29103}{}{The Rippers are all one big family, literally. They're impossible to deal with if they don't know you, so don't even try. They are in a big booby-trapped fortress southwest of us. Watch out for land mines if you're stupid enough to visit.}
+{29104}{}{They've converted several small buildings to the southeast into their home. They are pretty well organized and smarter than the Rippers. They sometimes let outsiders join, too. Their leader, Razor, is one tough woman.}
+{29105}{}{That's us. Good money in selling guns to the Blades and the Rippers here.}
+{29106}{}{That's the trading city east of here where we get our guns and do trading. They send out caravans all over the place. You could probably travel with a caravan when one shows up in Adytum.}
+{29107}{}{It's a small frontier town just north of the Hub. There's a great casino there, but the town's sheriff is just a little too overbearing.}
+{29108}{}{I have no idea what that is.}
+{29109}{}{This is the north side of the Boneyard. It's funny, people from outside use it as a curse - if something's bad, they say it 'Bites the Bone'. But it's not too bad once you get used to it.}

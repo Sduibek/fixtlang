@@ -1,0 +1,16 @@
+{100}{}{You use the door computer. The computer does not recognize your access code.}
+{101}{}{You use the door computer. A speaker crackles to life.}
+{102}{}{Sorry, but we can't let you back in right now. Uh, technical problems. Try again later.}
+{103}{}{You see the Vault 13 door entry computer.}
+#
+# from EndGame Mod by Corpse:
+#
+{104}{}{We are grateful to you for saving us but we can't let you in anymore.}
+{105}{}{Sorry, you must go.}
+{106}{}{The Overseer has spoken; you must leave.}
+{107}{}{Look, many of us are outraged with the Overseer's decision, but we must comply; you must make your life in the outside world from now on. Good luck friend.}
+#
+{108}{}{You are a danger to the future of this vault; leave at once.}
+{109}{}{You are not welcome here. Leave.}
+{110}{}{We won't allow murderers to enter. Go away!}
+{111}{}{After what you did to the Overseer, we are afraid of what you have become and what you may do to us... Leave.}

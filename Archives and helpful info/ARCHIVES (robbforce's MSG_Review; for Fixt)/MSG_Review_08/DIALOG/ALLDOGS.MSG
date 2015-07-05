@@ -1,0 +1,38 @@
+################################################################
+# These lines are combined from MSGs:
+# DEMODOG
+# DOG2
+# JUNKDOG
+# DOGMEAT
+################################################################
+{100}{}{You see: Friendly Dog.}
+{101}{}{You see: Dog.}
+{102}{}{It seems that you have made a friend of this dog and he appears to be following you.}
+{103}{}{You earn 550 experience points for befriending the dog.}
+{104}{}{You earn 335 experience points for defeating the dog and letting Phil back into his house.}
+{105}{}{You earn 35 experience points for killing the dog.}
+{106}{}{Come here, boy.}
+{107}{}{For some reason, this dog likes you. He seems to be following you.}
+{108}{}{You see: Dogmeat.}
+{109}{}{You see: Friendly Dog.}
+{110}{}{You see: Dog.}
+{111}{}{You earn 100 experience points for helping Phil solve his canine conundrum.}
+{112}{}{It seems that you have made a friend of this dog and he appears to be following you.}
+{113}{}{The dog seems to think you are his owner.}
+{114}{}{Come on, buddy.}
+{115}{}{Stay here and wait, okay?}
+{116}{}{Good dog.}
+
+{117}{}{Woof?}
+{118}{}{Woof!}
+{119}{}{Woof-woof!}
+{120}{}{Arf?}
+{121}{}{Woof!}
+{122}{}{Grrr!}
+{123}{}{Ruff. Ruff.}
+{124}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
+{125}{}{[Sniff. Sniff.] Grrrr! Snarl!}
+{126}{}{[Sniff. Sniff] Woof!}
+{127}{}{Woof!}
+{128}{}{Grrr!}
+{129}{}{Woof-woof!}
