@@ -1,0 +1,33 @@
+To play Fallout Fixt, grab a Nuka-Cola and click "Play Fallout Fixt" in your Fallout folder or "Fallout Fixt" in your Start Menu.
+
+If your screen flickers or turns black during play, you should try running f1_screen_refresh.exe before playing the game. This is found in the Fallout Fixt folder.
+
+***Steps to a pleasant experience in The Wasteland:***
+
+1) While playing, make sure to SAVE OFTEN and USE ALL TEN SAVE SLOTS!
+
+2) Take a look at the manual (MANUAL - English.pdf) and Quick Reference Card (KeyboardShortcuts.pdf) before playing.
+
+3) If you experience issues such as psychedelic colors or the game not running at all, read Troubleshooting Fallout Fixt.txt and use the tools in the "Scrambled Colors Fixes" folder.
+
+4) The Hi-Res mod by Mash now includes its own settings utility, "f1_res_Config.exe" - you'll find it in your Fallout Fixt folder. The settings can also be accessed through the in-game menus or by editing f1_res.ini
+
+5) If you encounter issues, check the "Troubleshooting Fallout Fixt.txt" file.
+
+Graphics are set to 800x600 @ 16bit by default with the included settings files, although you can change this of course, by editing f1_res.ini. [should be self-explanatory once you open the files for editing, but you can also get their readmes from the "Readmes (archived)" folder]
+
+DirectX9/D3D mode from ddraw.ini doesn't like to play nice with f1_res. You can definitely play Fallout in this mode, but it may not run very well.
+
+FINAL NOTE: DO NOT INSTALL ANY OF THESE PATCHES OR MODS ON TOP OF FIXT
+These are all included with Fallout Fixt; you do not need to download or install them. Bad things will happen and I will laugh at you.
+-- Official Interplay patch (1.1)
+-- TeamX patches (1.2, 1.21, 1.3.5)
+-- No Children Fix
+-- Nimrod's Dialog Fixes
+-- Cathedral Crash Fix
+-- TeamX's NPC Mod (3.5)
+-- Sfall (ddraw)
+-- High Resolution mod/patch (f1_res)
+-- Wasteland Ghost's Fallout 1 Restoration Project
+-- Fallout Update Mod 1.2.5
+-- Celestial's AP ammo fix
