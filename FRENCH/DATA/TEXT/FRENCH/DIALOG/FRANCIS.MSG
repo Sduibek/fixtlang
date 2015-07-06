@@ -28,17 +28,21 @@
 {127}{}{T'as des munitions ?}
 {128}{}{A l'aide ! Moi aide !}
 {129}{}{Ah, le Père Morpheus n'a pas fait de sermons depuis tellement longtemps. C'est dommage, j'adore ses discours mais tout le monde a l'air si affairé... une croisade, je crois.}
-{130}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
+# Space at beginning of line is intentional!
+{130}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
 {131}{}{Oh, je pourrais, mais ceux qui passent par le programme de servitude valent tellement mieux que moi... Leur esprit est bien plus tourné vers le Maître. Peut-être qu'après transformation, je m'améliorerai.}
-{132}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
+# Space at beginning of line is intentional!
+{132}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
 {133}{}{Ah, c'est le Père Morpheus. Avec un tel orateur, la Paix et l'Unité prennent véritablement vie, et au seul son de sa voix, je vois apparaître les Flammes Sacrées !}
-{134}{}{ Ce Père Morpheus, en voilà un qui sait parler ; et beau avec ça !}
+{134}{}{Ce Père Morpheus, en voilà un qui sait parler ; et beau avec ça !}
 {135}{}{Il s'agit probablement de l'un des Grands Mystères dont les prêtres discutent dans le Sanctuaire de l'Eglise. Je n'ai pas le privilège de cette révélation, mais j'y travaille !}
-{136}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
+# Space at beginning of line is intentional!
+{136}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
 {137}{}{Mon dieu ! De l'alcool et des stimulants ici ! Tu dois te tromper. Jamais le Maître ne le tolérerait ; tous les disciples doivent garder un esprit saint et pur.}
 {138}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
 {139}{}{Je pense qu'on vend des munitions sacrées dans la boutique de souvenirs de la Cathédrale...}
-{140}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
+# Space at beginning of line is intentional!
+{140}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
 {141}{}{Oh non. Aucune aide. Au revoir.}
 {142}{}{Bonjour, mon frère. Non, j'étais occupée à méditer en bonne initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre que tout va bien.}
 {143}{}{Bonjour, ma soeur. Non, j'étais occupée à méditer en bonne initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre que tout va bien.}
@@ -54,7 +58,8 @@
 {153}{}{Oh non, mon frère, je n'ai nul besoin d'aide. Excuse-moi.}
 {154}{}{Oh non, ma soeur, je n'ai nul besoin d'aide. Excuse-moi.}
 {155}{}{Ah, on me dit que la Paix et l'Unité que nous voulons pour toutes les créatures ne sont pas chose ordinaire, mais j'espère que cela ne durera pas.}
-{156}{}{Bon, excuse-moi, je dois reprendre ma méditation.}
+# Space at beginning of line is intentional!
+{156}{}{ Bon, excuse-moi, je dois reprendre ma méditation.}
 {157}{}{Je l'ignore. Peut-être se révélera-t-il quand l'heure viendra.}
 {158}{}{[Terminé]}
 {159}{}{[Suite]}

@@ -51,17 +51,17 @@
 {146}{}{Merci pour tes renseignements.}
 {147}{}{Peux-tu m'en dire plus ?}
 {148}{}{Sans rire, si tu cherches quelqu'un pour t'accompagner, je suis d'accord. C'est toujours mieux que de passer le restant de ma vie dans ce trou, non ?}
-{149}{}{Avec plaisir, mais le désert n'a rien de rassurant.}
+{149}{}{Tu es la bienvenue, mais gare à toi, ce désert n'est pas vraiment une partie de plaisir.}
 {150}{}{Ne t'en fais pas pour ça. Merci quand même.}
 {151}{}{Puis-je d'abord te poser d'autres questions ?}
 {152}{}{Cette région est dominée par trois gangs: les Ecorcheurs, les Eventreurs et les Contrebandiers. Elle abrite aussi les Disciples et le Sanctuaire, qui est l'endroit où je vis.}
-{153}{}{Très bien, je crois qu'on a du pain sur la planche !}
-{154}{}{Ecoute, 90% des habitants de cette ville sont des des violeurs, meurtriers et des voleurs. Je suis une voleuse et tu m'as plutôt l'air de quelqu'un de sympa, alors ça me fait réfléchir, ok ? Appelle ça l'instinct de survie si tu veux.}
-{155}{}{Excuse-moi de mtraîner dans tes pattes alors. Je crois que je vais m'en aller.}
+{153}{}{Très bien, alors je crois qu'on a du pain sur la planche !}
+{154}{}{Ecoute, 90% des habitants de cette ville sont des violeurs, des meurtriers ou des voleurs. Je suis une voleuse et t'as l'air d'un gars poli, alors ça me fait réfléchir, ok ? Appelle ça l'instinct de survie si tu veux.}
+{155}{}{Excuse-moi de traîner dans tes pattes alors. Je crois que je vais m'en aller.}
 {156}{}{Eh bien, puis-je au moins te poser quelques questions ?}
-{157}{}{Je n'entre dans aucune de ces 3 catégories, mais je ne suis pas d'ici, alors je sais pas si ça compte.}
+{157}{}{Je n'entre dans aucune de ces 3 catégories, mais je ne suis pas d'ici donc ça ne compte pas.}
 {158}{}{Ok, mais vite.}
-{159}{}{Euh. Très juste. Alors, qu'est-ce que tu veux ?}
+{159}{}{Euh. Bon, t'as gagné. Alors, qu'est-ce que tu veux ?}
 {160}{}{Puis-je te poser quelques questions ?}
 {161}{}{Je cherche une puce d'épuration d'eau. Peux-tu m'aider ?}
 {162}{}{Merci quand même, mais je vais m'en aller.}
@@ -169,7 +169,7 @@
 {1065}{}{Marchands}
 
 {1100}{}{Je ne sais pas où tu pourrais trouver un tel vestige de l'ancienne technologie.}
-{1101}{}{Le Cimetière de l'Os Angeles est tout ce qu'il reste de l'ancienne ville de Los Angeles. Maintenant elle est surtout divisée en factions guerrières.}
+{1101}{}{Le Cimetière de L'Os Angeles est tout ce qu'il reste de l'ancienne ville de Los Angeles. Maintenant elle est surtout divisée en factions guerrières.}
 {1102}{}{La Guerre a engendré la misère et la mort dans le monde entier. J'espère de tout coeur qu'une telle chose n'arrivera plus. Mais d'après ce que j'ai pu voir, il n'y a plus beaucoup d'espoir pour l'humanité.}
 {1103}{}{Je vivais au Sanctuaire autrefois, mais ses habitants sont bien trop paranoïaques et reclus. Ce n'est pas en se retirant du monde qu'ils survivront.}
 {1104}{}{Les Disciples de l'Apocalypse prêchent la paix et la tolérance. Dommage que le monde ne suive pas leurs préceptes.}
@@ -249,6 +249,6 @@
 # by Sduibek, for more realistic display of her name upon look/examine,
 #  otherwise player magically knows she's named Katja even if she never told you her name.
 
-{2200}{}{Très bien, il semblerait qu'on doive botter quelques culs ! Je m'appelle Katja au fait.}
+{2200}{}{Très bien, alors allons botter quelques culs ! Je m'appelle Katja au fait.}
 {2201}{}{Tu vois : Katja.}
 

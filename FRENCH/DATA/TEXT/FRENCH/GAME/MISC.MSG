@@ -21,7 +21,7 @@
 {11}{}{CHARGER}
 {12}{}{CREDITS}
 {13}{}{QUITTER}
-{14}{}{Fallout v1.2 Copyright(c) 1997 Interplay Productions. Tous droits reserves. Version Française par Generation Fallout, FIXT 7.1 FR}
+{14}{}{Fallout v1.2 Copyright(c) 1997 Interplay Productions. FIXT 0.80alpha Version Française par Generation Fallout.}
 {15}{}{Points d'action}
 {16}{}{Points d'impact}
 {17}{}{Le détecteur de mouvement n'est pas installé.}
@@ -36,7 +36,7 @@
 #
 {1000}{}{Tu as des nausées.}
 {1001}{}{Tu as des nausées et, après avoir vomi, tu te sens un peu à plat.}
-{1002}{}{Tu es très à plat, les vomissements continuent et ta période de guérison est compromise.}
+{1002}{}{Tu es très fatigué, les vomissements continuent et tu ne sembles pas guérir correctement.}
 {1003}{}{Tu souffres d'une violente hémorragie. Tu es très malade et tu perds tes cheveux.}
 {1004}{}{Tu souffres d'une hémorragie violente et incontrôlable. Tu vomis du sang. Ta peau se détache de tes os.}
 {1005}{}{Tu souffres d'une hémorragie intestinale et d'une terrible diarrhée. Ta peau est boursouflée. Tu es à l'agonie.}

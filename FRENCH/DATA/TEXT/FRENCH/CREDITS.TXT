@@ -6,10 +6,17 @@
 
 @Un patch complet et personnalisable,
 @Comprenant Pacthes, Mods et Restaurations
+@Version:  0.80alpha
 
-@Version :  alpha 7.0.1
 Sduibek
 
+#N'oubliez pas de sauvegarder online et de diffuser votre code source
+ 
+@Le nombre de mods prometteurs et de projets tues par
+@des crashs de disques durs avec la perte de code source
+@est immense
+
+Merci à vous
 
 # Philanthropes :
 
@@ -18,6 +25,153 @@ phillon
 Salk
 Vasiliy Kashiskiy
 
+#Conversion Fallout vers le moteur de Fallout
+
+Jordan
+
+@Repris par
+Darek
+Sduibek
+
+@Avec les contributions de
+.Pixote.
+Crafty
+gvx
+JimTheDinosaur
+Kanhef
+Lexx
+Oppen
+sonil
+TarkinMX
+Timeslip
+
+@Avec la motivation et les encouragements de
+JimtheDinosaur
+
+@Et les votes et les retours de
+La communaute NMA-Fallout
+La communaute RPGCodex
+
+
+@Copyright 2008-2015, GPL License 
+Timeslip 
+the Sfall team 
+  
+@Avec les amelioration multiple du talentueux
+Crafty 
+  
+@Et les contributions de
+Dream 
+Glovz 
+Haenlomal 
+Helios 
+JimTheDinosaur 
+Kanhef 
+KLIMaka 
+Mash 
+Mynah 
+Noid 
+NovaRain 
+NVShacker 
+phobos2077 
+ravachol 
+Ray 
+Tehnokrat 
+  
+@Remerciements additionnels pour
+Continuum 
+Drobovik 
+Fakeman 
+killap 
+Lexx 
+MIB88 
+Nirran 
+Rainman 
+TheMaster 
+Tous ceux qui utilisent sfall dans leurs mods
+Les rapporteurs de bugs et ceux qui demande des fonctionalites
+
+#PATCH DE HAUTE RESOLUTION
+      
+Mash 
+  
+@Avec les contributions de
+.Pixote. 
+Continuum 
+
+#MODE DEBOGAGE
+
+Cubik2k (Cubik)
+Noid
+Platon
+
+#EXECUTABLE DU JEU / UTILITAIRES
+
+TarkinMX
+
+@Avec la contribution de
+Sduibek
+
+
+#UTILITAIRE DE RAFRAICHISSEMENT D'ECRAN
+
+Lionel d'Hauenens (LABO)
+
+@Traduit en anglais par
+Alchemist
+
+
+#PATCHES INCLUS
+
+@Patches non officiels v1.2X, 1.3X
+Alchemist
+AO
+Avega
+Dude101
+TeamX
+Wasteland Ghost
+
+@Patch de restauration des enfants
+Skynet
+
+@Correction du bug/crash a la Cathedrale
+Alchemist
+Coyote
+TeamX
+
+@Patch pour les munitions perforantes
+Celestial
+
+@Patch pour le contenu censure (version allemande)
+Lexx
+
+@Patch Gore (version allemande)
+NeuRomancer
+
+
+#MODS INCLUS
+
+@Mod PNJ
+Alchemist
+Avega
+Dude101
+Nimrod
+TeamX
+Wasteland Ghost
+
+@Mise a jour et mod Restauration v1.2.5
+Alchemist
+Dude101
+Pal
+Setau
+Spy
+Vault13
+Wasteland Ghost
+Wasteland Hellbringer
+
+@Mods "EndGame" et "Cheatboy"
+Cpt Corpse (Corpse)
+
 
 # REMERCIEMENTS DE SDUIBEK :
 @(Par ordre alphabetique)
@@ -25,10 +179,13 @@ Vasiliy Kashiskiy
 .Pixote.
 @Pour ses retours, son soutien et son vaste travail graphique
 
+Breakin'Benny 
+@Pour ses contributions au wiki, ses rapports de bugs et ses recherches 
+
 Continuum
 @Pour la programmation, ses informations et son travail graphique
 
-Cubik2k (Cubik)
+Cubik2k
 @Pour son aide, la programmation et plusieurs outils
 @Sans lesquels Fallout Fixt serait moins interessant
 
@@ -38,7 +195,7 @@ Darek
 @Ressources supplementaires et ses suggestions
 
 Drobovik
-@Pour les fichiers d'archives de Fallout
+@Pour les fichiers d'archives de Fallout et ses contributions
 
 Dude101
 @Pour ses retours, son travail avec le wiki et ses actualites
@@ -49,6 +206,9 @@ Endocore
 
 GazDone
 @Pour ses recherches et corrections de bugs
+
+gvx 
+@For help with debugging/scripting, and menu offsets 
 
 gustarballs1983
 @Pour ses retours et ses idees
@@ -70,13 +230,14 @@ JimTheDinosaur
 Jordan
 @Pour avoir converti le moteur et pour son aide a l'ecriture
 
-killap (Bear Dude)
+killap
 @Pour son aide, ses retours, ses conseils et pour
 @Avoir inspire l'ensemble de la communaute des modeurs de Fallout
 
-Lexx (Tophat Cat)
+Lexx
 @Pour le patch contre la censure (version allemande), son travail
 @Graphique, la programmation, ses retours et indications
+@Et le contenu/le code/le texte de Shattered Destiny
 
 Mash
 @Pour le patch haute resolution qu'on aime tant et
@@ -123,7 +284,7 @@ TeamX
 Timeslip
 @Pour ses retours, ses idees et pour avoir cree le puissant SFall
 
-Timothy (Tim) Cain
+Tim Cain
 @Pour avoir cree Fallout 1, etre un gars cool,
 @Et pour avoir personnellement repondu a mes questions
 @Sur Fallout, toutes ces annees apres
@@ -137,14 +298,17 @@ WorstUsernameEver
 @Pour avoir tenu la communaute au courant avec
 @Ses actualites au sujet du Fallout Fixt
 
-
+ Vous! 
+@Tous ceux qui ont joue (et j'espere aime) Fallout Fixt 
+@Votre support et vos encouragements me mettent du baume au coeur :) 
+      
 #PROGRAMMATION / CODAGE
 
 Sduibek
 
 @Avec les contributions de
 Continuum
-Cubik2k (Cubik)
+Cubik2k
 Darek
 Endocore
 JimTheDinosaur
@@ -184,7 +348,7 @@ Yanok
 x'il
 
 @Correction des deplacements du Lieutenant
-Lexx (Tophat Cat)
+Lexx
 
 @Animations de PNJ au repos
 Josan12
@@ -233,6 +397,7 @@ Sduibek
 @Avec les contributions de
 Ash
 Endocore
+Prisoner416
 
 @Patch de corrections
 Nimrod
@@ -309,6 +474,7 @@ Khalashnikovf
 
 Alexisok
 bozyn
+Breakin'Benny
 dudejo001
 gustarballs1983
 Hal900x
@@ -323,7 +489,7 @@ Ryan Paul Fialcowitz
 warning077
 zebrajch
 ziemeck
-
+...et tous ceux que j'ai oublie dans cette liste !
 
 #SON
 
@@ -352,100 +518,11 @@ Darek
 Endocore
 
 @Rendu possible en utilisant "map converter utility" de
-Cubik2k (Cubik)
+Cubik2k
 
 @Aussi rendu possible grace a la documentation de
 Sorrow
 
-
-#PATCHES INCLUS
-
-@Patches non officiels v1.2X, 1.3X
-Alchemist
-AO
-Avega
-Dude101
-TeamX
-Wasteland Ghost
-
-@Patch de restauration des enfants
-Skynet
-
-@Correction du bug/crash a la Cathedrale
-Alchemist
-Coyote
-TeamX
-
-@Patch pour les munitions perforantes
-Celestial
-
-@Patch pour le contenu censure (version allemande)
-Lexx (Tophat Cat)
-
-@Patch Gore (version allemande)
-NeuRomancer
-
-
-#MODS INCLUS
-
-@Mod PNJ
-Alchemist
-Avega
-Dude101
-Nimrod
-TeamX
-Wasteland Ghost
-
-@Mise a jour et mod Restauration v1.2.5
-Alchemist
-Dude101
-Pal
-Setau
-Spy
-Vault13
-Wasteland Ghost
-Wasteland Hellbringer
-
-@Mods "EndGame" et "Cheatboy"
-Cpt Corpse (Corpse)
-
-
-#OUTIL SFALL
-
-@GPL 2008 - 2012
-Timeslip
-
-
-#PATCH/MOD HAUTE RESOLUTION
-
-Mash
-
-@Avec les contributions de
-.Pixote.
-Continuum
-
-
-#EXEXCUTABLE DU JEU
-
-TarkinMX
-
-@Avec la contribution de
-Sduibek
-
-
-#UTILITAIRE DE RAFRAICHISSEMENT D'ECRAN
-
-Lionel d'Hauenens (LABO)
-
-@Traduit en anglais par
-Alchemist
-
-
-#MODE DEBOGAGE
-
-Cubik2k (Cubik)
-Noid
-Platon
 
 
 ; --- ORIGINAL VANILLA FALLOUT CREDITS BEGIN HERE ---
@@ -861,7 +938,7 @@ Thom Dohner
 
 
 @Remerciements a : Scott Everts pour avoir contribue au-dela
-@Du devoir au a la liste de citations, Bomberman, Quake, Diablo,
+@Du devoir a la liste de citations, Bomberman, Quake, Diablo,
 @Warcraft II, diverses bandes sonores de films, Brian Eno,
 @Au frigo de sodas (merci Gus & Rusty!), l'esprit de Noel
 @(Allez Pere Noel!), Demo le chat, Nicol, Tracy, Mary & Adam
