@@ -12,6 +12,7 @@ FIXED
  - Fixed crash when giving holodisk to Jon Zimmerman.
  - Razor no longer dissapears forever.
  - Fixed crash moving items between containers in inventory. (Thanks Crafty!)
+ - Talius' dialog options regarding the spy are now available as they should have been.
  - No more broken Start Menu links.
  - Display of title and/or level on levelup now works properly on Fixes Only installs.
 
