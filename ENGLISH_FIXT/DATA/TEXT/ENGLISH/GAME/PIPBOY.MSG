@@ -33,7 +33,7 @@
 #
 {200}{}{MORE}
 {201}{}{BACK}
-{202}{}{STATUS}
+{202}{}{Status}
 {203}{}{No current tasks.}
 # TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
 {204}{}{}	# Clues gone
@@ -43,7 +43,7 @@
 # 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
-{210}{}{STATUS}
+{210}{}{Status}
 {211}{}{DATA}
 {212}{}{of}
 {213}{}{Page}
