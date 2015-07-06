@@ -1,6 +1,6 @@
-To play Fallout Fixt, grab a Nuka-Cola and run FalloutW.exe as you normally would.
+To play Fallout Fixt, grab a Nuka-Cola and click "Play Fallout Fixt" in your Fallout folder or "Fallout Fixt" in your Start Menu.
 
-If your screen flickers or turns black during play, you should try running f1_screen_refresh.exe before you run FalloutW.exe
+If your screen flickers or turns black during play, you should try running f1_screen_refresh.exe before playing the game. This is found in the Fallout Fixt folder.
 
 ***Steps to a pleasant experience in The Wasteland:***
 
@@ -19,7 +19,7 @@ Graphics are set to 800x600 @ 16bit by default with the included settings files,
 DirectX9/D3D mode from ddraw.ini doesn't like to play nice with f1_res. You can definitely play Fallout in this mode, but it may not run very well.
 
 FINAL NOTE: DO NOT INSTALL ANY OF THESE PATCHES OR MODS ON TOP OF FIXT
-These are all included with Fallout Fixt; you do not need to download or install them. Bad things will (probably) happen and I will laugh at you.
+These are all included with Fallout Fixt; you do not need to download or install them. Bad things will happen and I will laugh at you.
 -- Official Interplay patch (1.1)
 -- TeamX patches (1.2, 1.21, 1.3.5)
 -- No Children Fix

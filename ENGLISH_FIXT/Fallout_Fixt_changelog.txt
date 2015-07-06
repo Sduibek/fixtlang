@@ -20,13 +20,9 @@ GLOSSARY:
   DURING INSTALLATION
 -----------------------
 
-- The newest versions of Microsoft Visual C++ 2005 and 2008 Redistributable Packages installed, 32-bit or 64-bit as applicable.  [RATIONALE:  Necessary for installation and implementation of Fixt to function fully. This is mostly for MacOS systems running Wine or other virtual setups, as they sometimes do not include the proper C++ runtime dlls. However, I have found that this is also helpful on some 64-bit Windows 7 systems. Your system should not suffer any issues due to this process.]
+- The newest versions of Microsoft Visual C++ 2005 and 2008 Redistributable Packages will be installed, 32-bit or 64-bit as applicable.  [RATIONALE:  Necessary for installation and implementation of Fixt to function fully. This is mostly for MacOS systems running Wine or other virtual setups, as they sometimes do not include the proper C++ runtime dlls. However, I have found that this is also helpful on some 64-bit Windows 7 systems. Your system should not suffer any issues due to this process.]
 
-- Specific versions of DirectDraw/DirectX/Direct3D/DirectInput runtimes installed, 32-bit or 64-bit as applicable.  [RATIONALE:  Necessary for the included plugins (High-Resolution Patch, Sfall) to function properly. As with the C++ Runtimes, this should not cause issues for your system, as the Microsoft installers only install files when necessary -- when you have older versions of the same files. (This installs versions 3.0, 3.1, 4.2, 4.3)]
-
-- Your savegames will be backed up to the "{Fallout Fixt}\backups\DATA\SAVEGAME_oldest" folder, only once, on the first time Fixt is installed. This folder will not be modified after its creation, so this backup will be safe and not overwritten.
-
-- On further Fixt installations, savegames will be backed up again each time, to the "{Fallout Fixt}\backups\DATA\SAVEGAME_old" folder. WARNING: Upon each Fixt installation, existing backups in this folder WILL BE OVERWRITTEN!
+- Specific versions of DirectDraw/DirectX/Direct3D/DirectInput runtimes will be installed, 32-bit or 64-bit as applicable.  [RATIONALE:  Necessary for the included plugins (High-Resolution Patch, Sfall) to function properly. As with the C++ Runtimes, this should not cause issues for your system, as the Microsoft installers only install files when necessary -- when you have older versions of the same files. (This installs versions 3.0, 3.1, 4.2, 4.3)]
 
 - Now includes various icons you can use for shortcuts or whatever, in {Fallout Fixt}\"Icons (.ico)" folder.
 
@@ -53,13 +49,13 @@ __________________________________________
 
  - Various commands can be bound to keys or key combinations. (All are disabled by default)
 
- - Can no longer press zero (0) to force-exit dialog.
+ - Can no longer press zero (0) to force-exit dialog. (This prevents many exploits and cheats, some of which caused crashes)
 
  - Fixes for high CPU usage.
 
  - Display karma changes in the message box. (Disabled by default)
 
- - Buttons with "Take All" function similar to Fallout 2.
+ - Buttons with "Take All" & "Put All" function similar to Fallout 2.
 
  - Remove inability of Vault Dweller to get critical successes or critical failures in the first few days of the game.
 
@@ -68,8 +64,6 @@ __________________________________________
  - Shows free weight as well as total weight in Barter and Inventory screens.
 
  - Can no longer use drugs to cheat with skill-gain books and getting Perks you shouldn't have access to.
-
- - Can no longer use the "A" key to run forever for free in combat.
 
  - Leveling past 21. (Disabled by default of course)
 
@@ -164,15 +158,11 @@ __________________________________________
      TEXT, DIALOG
 -----------------------
 
+- Thousands of individual fixes and changes to text and dialog files: punctuation, spelling, continuity, consistency, formatting, capitalization, Tell-Me-Abouts, innacurate information, mismatched entries, and duplicate entries.
+
+- Integration with Nimrod's Dialog Fixes by Nimrod, Fixt MSG Review by robbforce, and various changes/fixes reported to me by Luffier.
+
 - Several situations of calling female players "guy" have been fixed.
-
-- Integration with Nimrod's Dialog Fixes by Nimrod. (Due to personal disagreement with some changes, I've only used probably 90% to 95% of it.)
-
-- [ONGOING PROJECT]  Integration with Fixt Msg Review by robbforce. (Due to personal disagreement with some changes, I've only used probably 90% to 95% of it.)
-
-- Integration with various changes and fixes reported to me by Luffier.
-
-- Thousands of individual fixes and changes to text and dialog files with punctuation, spelling, continuity, consistency, formatting, capitalization, Tell-Me-Abouts, innacurate information, mismatched entries, and duplicate entries.
 
 - When earning or losing experience, stat points, or skill points, a system message notifying you of the change is now always displayed. Custom messages have been used where applicable.  [RATIONALE:  Consistency. Vanilla gave no notifications for stat changes, and many instances existed of no notification when earning XP and/or skill increases.]
 
@@ -215,8 +205,6 @@ __________________________________________
 - Message received when poison level reaches 0, after having been poisoned. Similar to the "You feel better" messages when addictions wear off. Unfortunately at this time, I can't also have it load to the world map on this like it does for addictions wearing off; this engine doesn't support that function via script.
 
 - Examine description for Katja restored. It existed in vanilla files but wasn't implemented.
-
-- Some interface text for Pip-Boy 2000 changed to be more accurate. Such as "DATA" to "DISKS & LOGS", and "STATUS" to "QUESTS". (The green text, not the button itself.)
 
 - [ONGOING PROJECT]  Adding dummy entries to all "Tell-Me-About" dialog files, to prevent errors and issues with the feature.
 
@@ -683,6 +671,8 @@ __________________________________________
 -----------------------
    ADYTUM / BONEYARD
 -----------------------
+
+- Razor no longer disappears forever.
 
 - MacRae now properly gives you a bonus to fighting skills. [In vanilla he was scripted to give bonus to stats, which is not possible in the Fallout 1 engine, so he instead now gives bonus to Melee Weapons and Unarmed skills.]
 
