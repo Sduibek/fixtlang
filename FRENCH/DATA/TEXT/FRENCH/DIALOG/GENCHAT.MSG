@@ -3,7 +3,7 @@
 {102}{}{Bonjour.}
 
 {103}{}{Tu gagnes }
-{104}{}{points d'expérience.}
+{104}{}{ points d'expérience.}
 
 {105}{}{Oh oh !}
 {106}{}{Clic !}
@@ -64,7 +64,7 @@
 {157}{}{Ton intelligence augmente de }
 {158}{}{Ton agilité augmente de }
 {159}{}{Ta chance augmente de }
-{160}{}{points.}
+{160}{}{ points.}
 
 {161}{}{Ta force augmente d'un point.}
 {162}{}{Ta perception augmente d'un point.}
@@ -149,11 +149,11 @@
 # Hireling inspections
 # Spaces at the beginning and end of 198 and 199 are intentional, do not remove them.
 #
-{198}{}{Il porte }
-{199}{}{Elle porte }
+{198}{}{ Il porte }
+{199}{}{ Elle porte }
 {188}{}{Armure de métal.}
 {189}{}{Armure de cuir.}
-{204}{}{Armure de puissance.}
+{204}{}{SuperArmure.}
 {205}{}{Armure de combat.}
 {206}{}{Veste en cuir.}
 {207}{}{Tunique.}
@@ -274,3 +274,11 @@
 {702}{}{Tu reçois 10 000 points d'expérience pour avoir détruit le Maitre.}
 
 {800}{}{Tu crois que ces rats vont te répondre ?}
+
+    
+# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine. 
+# These messages will appear in the console window (bottom-left of game screen) at regular intervals. 
+{900}{}{Le PIP-Boy 2000 affiche "EAU DE L'ABRI 13: } 
+{901}{}{} 
+{902}{}{ JOURS RESTANTS."} 
+

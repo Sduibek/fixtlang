@@ -3,14 +3,14 @@
 
 ################
 # Flat monotonic people. Nothing interesting. they are apathic.
-{106}{}{Vous voyez une femme.}
-{107}{}{Vous voyez un homme.}
+{106}{}{Tu vois une femme.}
+{107}{}{Tu vois un homme.}
 
 ################
 # The drunk has slurred speech. he's been hitting the booze a bit too hard
 # and is having problems standing and remembering his name
 
-{100}{}{Vous voyez un alcoolique.}
+{100}{}{Tu vois un alcoolique.}
 {110}{}{Laisse moi dans ma tristesse.}
 {111}{}{T'es mon meiilleuur pote... Hup.}
 # best friend (slurred)
@@ -33,8 +33,8 @@
 # Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
 # be spending all their money. Consider the people in Las Vegas gambling away their money.
 
-{101}{}{Vous voyez un client.}
-{104}{}{Vous voyez un joueur.}
+{101}{}{Tu vois un client.}
+{104}{}{Tu vois un joueur.}
 {120}{}{Dégage d'ici looser !}
 # == "Get out of here loser"
 
@@ -63,7 +63,7 @@
 # TRANSLATION NOTE: line 131 means "this table is cursed/unlucky"
 
 {132}{}{Je suis occupé.}
-{133}{}{Vous voyez pas que je joue là?}
+{133}{}{Tu vois pas que je joue là ?}
 {134}{}{Parie ou repart.}
 # TRANSLATION NOTE: line 134 "Make a bet on the game or go away"
 
@@ -72,8 +72,8 @@
 # This is a sleazy prostitute who will have sex with anyone who will give
 # her 20 caps. She will be talking a sexy, but lewd voice.
 
-{102}{}{Vous voyez une femme sordide.}
-{302}{}{Après reflexion, il est évident que c'est une prostituée. }
+{102}{}{Tu vois une femme sordide.}
+{302}{}{Après réflexion, il est évident que c'est une prostituée.}
 
 # MALE CUSTOMERS
 
@@ -104,7 +104,7 @@
 # random 216 to 219 display as a float message when dialog ends
 {216}{}{J'aime quand c'est violent, si t'es dans ce genre là.}
 {217}{}{Pas de maladies, je suis propre !}
-{218}{}{Pour un ptit extra, j'accepte les groupes.}
+{218}{}{Pour un p'tit extra, j'accepte les groupes.}
 {219}{}{Je ferais n'importe quoi pour un bon prix...}
 
 # STUPID CUSTOMERS
@@ -126,7 +126,7 @@
 {260}{}{Je ne peux pas croire que je suis en train de faire ça...}
 {261}{}{Pars, je vais aller vomir maintenant.}
 {262}{}{J'ai besoin d'un nouveau job.}
-{263}{}{Encore toi ? FOus le camp, je bosse pas avec les attardés... Surtout ceux qui ne paient pas...}
+{263}{}{Encore toi ? Fous le camp, je bosse pas avec les attardés... Surtout ceux qui ne paient pas...}
 {264}{}{Grr...}
 {265}{}{Hein ?}
 
@@ -134,11 +134,11 @@
 
 {220}{}{Combien coûte l'amusement ?}
 {221}{}{Vingt capsules.}
-{249}{}{Bien, ça semble honnète.}
+{249}{}{Bien, ça semble honnête.}
 {222}{}{Passons aux choses sérieuses...}
 # 227 "what service do you want ?"
 {227}{}{Très bien. Qu'est ce que tu cherche, chéri ?}
-{223}{}{Non merci, pas interressé.}
+{223}{}{Non merci, pas intéressé.}
 {225}{}{Combien pour un groupe ?}
 {241}{}{Tout dépend de ce que tu cherche, mon chou.}
 {226}{}{Cent capsules.}
@@ -179,7 +179,7 @@
 ################################
 # Busy prostitute
 
-{105}{}{Vous voyez une très jolie dame. Elle semble être occupée.}
+{105}{}{Tu vois une très jolie dame. Elle semble être occupée.}
 {301}{}{Après une meilleure inspection, il semble évident que ce soit une prostituée avec un client. Elle vous fait signe de partir immédiatement !}
 
 {135}{}{Laisse nous tranquille ou j'appelle les gardes.}
@@ -197,9 +197,9 @@
 
 {141}{}{Tu rêves mon gars, casse toi !}
 {142}{}{Fous moi le camp !}
-{143}{}{Que diable pense tu faire ?}
+{143}{}{Qu'est-ce que tu branles ici, putain ?}
 {144}{}{T'appelle ça des manières !}
-{145}{}{Je vais appeller les flics !}
+{145}{}{Je vais appeler les flics !}
 {146}{}{N'y pense même pas !}
 {147}{}{Sors !}
 {148}{}{Casse toi !}
@@ -209,7 +209,7 @@
 # This is a customer for the Hooker. Gender is male. He is aburpt and is really not
 # interested in the player, only having sex with the prostitute
 
-{109}{}{Vous voyez un mercenaire.}
+{109}{}{Tu vois un mercenaire.}
 {150}{}{Ca te dérange ?}
 {151}{}{Fous le camp de notre chambre !}
 {152}{}{Dégage !}
@@ -235,7 +235,7 @@
 # Gambler is Male. The gambler has lost a lot of money and is really upset about
 # having done so.
 
-{108}{}{Vous voyez un joueur vraiment énervé.}
+{108}{}{Tu vois un joueur vraiment énervé.}
 {159}{}{Mince !}
 {160}{}{Est-ce que tu triche ?}
 # referring to the player
@@ -264,7 +264,7 @@
 # This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
 # pretend to be happy about being here.
 
-{103}{}{Vous voyez un homme à l'air étrange.}
+{103}{}{Tu vois un homme à l'air étrange.}
 {169}{}{Placez vos paris.}
 {170}{}{Retirez vos mains, monsieur.}
 # in referrence to taking money from the table while the bet is going on

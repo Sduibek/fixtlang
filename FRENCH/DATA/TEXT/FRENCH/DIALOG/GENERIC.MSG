@@ -357,7 +357,7 @@
 
 # FRM function (3700-3899)
 {3700}{}{Changer le FRM de la cible }
-{3701}{}{Armure de puissance }
+{3701}{}{SuperArmure }
 {3702}{}{Robe violette }
 {3703}{}{Armure de combat (F) }
 {3704}{}{Tenue de l'Abri 13 (F) }
@@ -386,7 +386,7 @@
 {3727}{}{Enfant }
 {3728}{}{Goule verte }
 {3729}{}{Rayonnant }
-{3730}{}{Armure de puissance (Sans casque) }
+{3730}{}{SuperArmure (Sans casque) }
 {3731}{}{Moine }
 {3732}{}{Blonde }
 {3733}{}{Punk }

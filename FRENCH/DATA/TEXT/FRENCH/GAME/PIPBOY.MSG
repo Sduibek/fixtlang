@@ -120,7 +120,7 @@
 {411}{}{Journal audio de Richard Grey}
 {412}{}{Journal du Capitaine Maxson}
 {413}{}{Recherches sur le FEV} # from ZAX, no disk
-{414}{}{} # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
+{414}{}{Doc. Tech. SuperArmure} # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
 {415}{}{Registres de West Tech} # from ZAX, no disk
 {416}{}{}
 {417}{}{Transmission d'un Régulateur} # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
@@ -770,7 +770,7 @@ end
 {8014}{}{pendant la prise ? Terminé.}
 {8015}{}{**END-PAR**}
 # -
-{8016}{}{Message reçu : négatif. Encore une opération propre. }
+{8016}{}{Message reçu : Négatif. Encore une opération propre. }
 {8017}{}{Dis aussi à l'équipe 1 des Fouineurs qu'on a }
 {8018}{}{eu le même problème qu'eux. Un de nos éclaireurs n'est }
 {8019}{}{pas rentré de patrouille. Certains de nos éclaireurs }
@@ -779,7 +779,7 @@ end
 {8022}{}{06h00 demain matin. Terminé.}
 {8023}{}{**END-PAR**}
 # -
-{8024}{}{Message reçu : bien reçu. Nous attendons votre rapport.}
+{8024}{}{Message reçu : Bien reçu. Nous attendons votre rapport.}
 {8025}{}{Si possible, essayez de le capturer. Le Maître en }
 {8026}{}{serait très content. Terminé.}
 {8027}{}{**END-DISK**}
@@ -791,27 +791,30 @@ end
 {9000}{}{• 10 oct. 2077}
 {9001}{}{Moi, Roger Maxson, Capitaine, matricule 072389, je }
 {9002}{}{décide t'entamer ce journal parce que les choses }
-{9003}{}{tournent mal pour nous et que je tiens à ce que les }
-{9004}{}{gens sachent ce qui s'est vraiment passé ici. }
+{9003}{}{tournent mal pour nous et que je tiens à ce }
+{9004}{}{que les gens sachent ce qui s'est vraiment }
+{9005}{}{passé ici.}
 {9005}{}{**END-PAR**}
 # -
 {9006}{}{La situation s'est dégradée quand nous avons enfin }
-{9007}{}{découvert ce que s'apprêtaient à faire ces deux salauds }
-{9008}{}{de scientifiques. Le Colonel s'est enfermé dans son }
-{9009}{}{bureau et il semble déprimé. Les hommes veulent }
-{9010}{}{se battre. Ils attendent de moi des réponses et je ne}
-{9011}{}{sais pas quoi faire. Pourtant, quelqu'un doit agir }
-{9012}{}{avant que cette base ne se transforme en bain de sang.}
-{9013}{}{**END-PAR**}
+{9007}{}{découvert ce que s'apprêtaient à faire ces deux }
+{9008}{}{salauds de scientifiques. Le Colonel s'est enfermé }
+{9009}{}{dans son bureau et il semble déprimé. Les hommes }
+{9010}{}{veulent se battre. Ils attendent de moi des }
+{9011}{}{réponses et je ne sais pas quoi faire. Pourtant, }
+{9012}{}{quelqu'un doit agir avant que cette base ne se }
+{9013}{}{transforme en bain de sang.}
+{9014}{}{**END-PAR**}
 # -
 {9014}{}{• 12 oct. 2077}
-{9015}{}{A chaque nouveau rapport du commandement, la situation }
-{9016}{}{se dégrade ici. La guerre prend une très mauvaise }
-{9017}{}{tournure et la mutinerie menace, avec tout le chaos que }
-{9018}{}{cela impliquerait. Aujourd'hui, j'ai empêché un des hommes }
-{9019}{}{d'exécuter un scientifique et j'ai demandé à ce qu'on les }
-{9020}{}{interroge pour savoir quels étaient leurs ordres.}
-{9021}{}{**END-PAR**}
+{9015}{}{A chaque nouveau rapport du commandement, la }
+{9016}{}{situation se dégrade ici. La guerre prend une }
+{9017}{}{très mauvaise tournure et la mutinerie menace, }
+{9018}{}{avec tout le chaos que cela impliquerait. Aujourd'hui, }
+{9019}{}{j'ai empêché un des hommes d'exécuter un scientifique }
+{9020}{}{et j'ai demandé à ce qu'on les interroge pour }
+{9021}{}{savoir quels étaient leurs ordres.}
+{9022}{}{**END-PAR**}
 # -
 {9022}{}{• 13 oct. 2077 }
 {9023}{}{J'ai tué un homme aujourd'hui. J'interrogeais le respon- }
@@ -1149,13 +1152,13 @@ end
 {13000}{}{• 10 oct 2077}
 {13001}{}{Moi, Roger Maxson, Capitaine, matricule 072389, je décide }
 {13002}{}{d'entamer ce journal parce que les choses tournent mal }
-{13003}{}{pour nous et que je tiens à ce que les gens sachent ce }
-{13004}{}{qui s'est vraiment passé ici. }
-{13005}{}{La situation s'est dégradée quand nous avons enfin découvert ce }
-{13006}{}{que s'apprêtaient à faire ces deux salauds de scientifiques. }
-{13007}{}{Le Colonel s'est enfermé dans son bureau. Il semble }
-{13008}{}{déprimé. Les hommes veulent se battre. Ils attendent }
-{13009}{}{de moi des réponses et je ne sais pas quoi faire. }
+{13003}{}{pour nous et que je tiens à ce que les gens sachent }
+{13004}{}{ce qui s'est vraiment passé ici. }
+{13005}{}{La situation s'est dégradée quand nous avons enfin }
+{13006}{}{découvert ce que s'apprêtaient à faire ces deux salauds }
+{13007}{}{de scientifiques. Le Colonel s'est enfermé dans son bureau. }
+{13008}{}{Il semble déprimé. Les hommes veulent se battre. Ils }
+{13009}{}{attendent de moi des réponses et je ne sais pas quoi faire. }
 {13010}{}{Pourtant, quelqu'un doit agir avant que cette base }
 {13011}{}{ne se transforme en bain de sang.}
 {13012}{}{**END-PAR**}
@@ -1164,39 +1167,39 @@ end
 {13014}{}{A chaque nouveau rapport du commandement, la situation }
 {13015}{}{se dégrade ici. La guerre prend une mauvaise tournure }
 {13016}{}{et la mutinerie menace, avec tout le chaos que cela }
-{13017}{}{impliquerait. Aujourd'hui, j'ai empêché un des hommes d'exécuter un }
-{13018}{}{scientifique et j'ai demandé à ce qu'on les }
-{13019}{}{interroge pour savoir quels étaient leurs ordres.}
+{13017}{}{impliquerait. Aujourd'hui, j'ai empêché un des hommes }
+{13018}{}{d'exécuter un scientifique et j'ai demandé à ce qu'on }
+{13019}{}{les interroge pour savoir quels étaient leurs ordres.}
 {13020}{}{**END-PAR**}
 # -
 {13021}{}{• 13 oct. 2077}
 {13022}{}{J'ai tué un homme aujourd'hui. J'interrogeai le respon- }
 {13023}{}{-sable des scientifiques, Anderson, qui m'a donné les }
-{13024}{}{détails de leurs expériences inhumaines. Il a dit que ses }
+{13024}{}{détails de leurs expériences inhumaines. Il disait que ses }
 {13025}{}{ordres venaient du gouvernement, mais je ne l'ai pas cru. }
-{13026}{}{Il a commencé à hurler qu'il obéissait aux ordres, qu'il }
-{13027}{}{était un militaire et, alors, je l'ai tué. J'essaie de me dire }
-{13028}{}{que c'était pour éviter une mutinerie, mais je n'en suis pas convaincu.}
+{13026}{}{Il s'est mis à hurler qu'il n'avait pas le choix, qu'il }
+{13027}{}{n'était qu'un militaire et je l'ai tué. Je me répète }
+{13028}{}{que c'était pour éviter une mutinerie, mais j'en doute. }
 {13029}{}{**END-PAR**}
 # -
 {13030}{}{• 15 oct. 2077}
-{13031}{}{J'ai encore essayé de parler au colonel à travers la porte }
-{13032}{}{mais il semble avoir complètement perdu le sens des }
-{13033}{}{réalités. Avec quelques hommes, nous avons enfoncé la porte }
-{13034}{}{juste à temps pour le voir se tirer une balle dans la tête. Juste }
-{13035}{}{avant d'appuyer sur la gâchette, il a dit qu'il était désolé.}
+{13031}{}{J'ai voulu parler au colonel à travers la porte mais }
+{13032}{}{il semblait avoir complètement perdu le sens des réalités.}
+{13033}{}{Avec quelques hommes, nous avons enfoncé la porte, juste }
+{13034}{}{à temps pour le voir se tirer une balle dans la tête. }
+{13035}{}{En appuyant sur la gâchette, il a dit: "Je suis désolé". }
 {13036}{}{**END-PAR**}
 # -
 {13037}{}{• 18 oct. 2077}
-{13038}{}{En tuant le cerveau, il semble que j'ai confirmé ma position }
-{13039}{}{de leader. Maintenant les hommes m'obéissent sans poser }
-{13040}{}{de questions. Les interrogatoires se terminent toujours }
-{13041}{}{par des exécutions. Shellman a tenu plus longtemps que les }
-{13042}{}{autres, mais elle a fini comme eux. Ses arguments sur les }
-{13043}{}{ordres étaient un peu trop précis pour être inventés. J'ai un }
-{13044}{}{mauvais pressentiment. Je ne sais pas comment tout cela va }
-{13045}{}{finir. Désormais, je ne me mens plus à moi-même sur les }
-{13046}{}{raisons qui me poussent à exécuter les scientifiques.}
+{13038}{}{En tuant la tête d'oeuf, il semble que j'ai confirmé ma }
+{13039}{}{position de leader. Maintenant les hommes m'obéissent sans }
+{13040}{}{poser de questions. Les interrogatoires se terminent }
+{13041}{}{toujours par des exécutions. Shellman a tenu plus longtemps }
+{13042}{}{que les autres, mais elle a fini comme eux. Ses propos }
+{13043}{}{sur ses ordres étaient trop précis pour être inventés. }
+{13044}{}{J'ai un mauvais pressentiment. Je ne sais pas comment tout }
+{13045}{}{cela va finir. A présent, je n'ai plus besoin de mentir sur }
+{13046}{}{les raisons qui me poussent à exécuter les scientifiques. }
 {13047}{}{**END-PAR**}
 # -
 {13048}{}{• 20 oct. 2077}
@@ -1206,7 +1209,7 @@ end
 {13052}{}{transmissions. Ça n'a pas de sens. Enfin, ils vont arriver. }
 {13053}{}{J'ai déclaré que nous faisions sécession de l'union. }
 {13054}{}{Ils se souviennent de Jefferson Davis. Que dira l'histoire }
-{13055}{}{sur moi ?}
+{13055}{}{sur moi ? }
 {13056}{}{**END-PAR**}
 # -
 {13057}{}{• 22 oct. 2077}
@@ -1234,25 +1237,25 @@ end
 {13077}{}{Le Sergent Platner s'est porté volontaire aujourd'hui }
 {13078}{}{pour sortir analyser l'air. Il semble que }
 {13079}{}{les radiations ne soient pas arrivées jusqu'ici.}
-{13080}{}{Vu qu'il portait sa SuperArmure, il ne courait}
-{13081}{}{ aucun risque d'irradiation, mais si tel avait été le cas, il }
-{13082}{}{aurait fallu l'isoler. Nous ne disposons pas d'installations }
-{13083}{}{de décontamination adéquates ici.}
+{13080}{}{Vu qu'il portait sa SuperArmure, il ne courait }
+{13081}{}{aucun risque d'irradiation, mais si tel avait été le }
+{13082}{}{cas, il aurait fallu l'isoler. Nous ne disposons pas }
+{13083}{}{d'installations de décontamination adéquates ici.}
 {13084}{}{**END-PAR**}
 # -
 {13085}{}{• 26 oct. 2077}
 {13086}{}{J'ai convaincu les hommes que nous devions enterrer les }
-{13087}{}{scientifiques. Je ne sais pas pourquoi... peut-être pour }
-{13088}{}{soulager ma conscience. Je n'ai commencé à croire à leurs }
-{13089}{}{histoires que lorsque le dernier était mort. Que suis-je devenu ?}
+{13087}{}{scientifiques. Je ne sais pas pourquoi... pour soulager }
+{13088}{}{ma conscience peut-être. Je n'ai commencé à les croire }
+{13089}{}{que lorsque le dernier était mort. Que suis-je devenu ? }
 {13090}{}{**END-PAR**}
 # -
 {13091}{}{• 27 oct. 2077}
 {13092}{}{Nous quittons aujourd'hui cette base maudite. Je conduis }
 {13093}{}{l'exode vers le vieux bunker du gouvernement aux Collines }
 {13094}{}{Perdues. J'abandonne ce journal qui sera probablement }
-{13095}{}{enfoui ici lorsque la prochaine bombe éclatera. Et qui sait, }
-{13096}{}{peut-être que quelqu'un le trouvera un jour.....}
+{13095}{}{enfoui ici lorsque la prochaine bombe éclatera. Et qui }
+{13096}{}{sait, peut-être que quelqu'un le trouvera un jour.....}
 {13097}{}{**END-DISK**}
 #
 #

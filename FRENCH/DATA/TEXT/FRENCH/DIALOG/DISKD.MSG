@@ -1,10 +1,10 @@
-{100}{}{C'est une sorte d'étrange disquette. On dirait que tu  peux l'utiliser dans ton Pip-Boy.}
+{100}{}{C'est une sorte de disque étrange. On dirait que tu peux l'utiliser dans ton Pip-Boy.}
 {101}{}{Le Pip-Boy indique : Fichier trouvé sur le système. Téléchargement interrompu.}
 {102}{}{Le Pip-Boy indique : Téléchargement des données du disque en cours... ... ... Terminé. Bonne journée.}
 #
 # Everything below is for Fallout Fixt:
 #
-{103}{}{Tu remarques une étiquette fânée par le temps sur le disque. Il y est écrit: "Notes sur les expériences Delta".}
+{103}{}{Tu remarques une étiquette fanée par le temps sur le disque. Il y est écrit: "Notes sur les expériences Delta".}
 {104}{}{Tu vois: Disque sur les expériences Delta.}
 #
 # Delta Experiments Disk has had its contents moved here from PIPBOY.MSG (under GAME folder)

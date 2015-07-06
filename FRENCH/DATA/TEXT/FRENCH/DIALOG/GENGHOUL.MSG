@@ -39,7 +39,7 @@
 
 # THIS IS THE FORMAT CURRENTLY USED:
 
-{1004}{}{Tu as reçus une faible dose de radiation.}
-{1005}{}{Tu as reçus une légère dose de radiation.}
-{1006}{}{Tu as reçus une dose modérée de radiation.}
-{1007}{}{Tu as reçus une importante dose de radiation.}
+{1004}{}{Tu as reçu une faible dose de radiation.}
+{1005}{}{Tu as reçu une légère dose de radiation.}
+{1006}{}{Tu as reçu une dose modérée de radiation.}
+{1007}{}{Tu as reçu une importante dose de radiation.}

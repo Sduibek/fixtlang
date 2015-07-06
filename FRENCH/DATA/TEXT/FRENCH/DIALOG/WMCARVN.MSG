@@ -4,9 +4,9 @@
 {103}{}{Bien, tu as l'autorisation. Je savais qu'il n'y aurait pas de problème. Elle est si débordée depuis quelque temps, surtout depuis que Daren Hightower s'enferme dans son bureau. C'est un homme étrange. Nos départs se font d'habitude tous les cinq jours. Le 1er, le 5, le 10, le 15, le 20 et le 25 de chaque mois. En ce moment, nous n'allons qu'à Dépôtville et au Cimetière de LA.}
 {104}{}{Alors, quel est le salaire ?}
 {105}{}{Hmm.}
-{106}{}{Le salaire est de 200 caps. Ce n'est pas énorme, mais les départs sont fréquents et nos itinéraires ne sont pas très dangereux. Bien sûr, c'est 200 à l'aller et 200 au retour, m'enfin... on t'oblige pas à faire les deux trajets.}
+{106}{}{Le salaire est de 200 caps. Ce n'est pas énorme, mais les départs sont fréquents et nos itinéraires ne sont pas très dangereux. Bien sûr, c'est 200 à l'aller et 200 au retour, m'enfin... on t'oblige pas à faire les deux trajets. }
 {107}{}{Nous partons aujourd'hui. Ça t'intéresse ?}
-{108}{}{Nous partons le }
+{108}{}{Nous partons en }
 {109}{}{Vide}
 {110}{}{}
 {111}{}{. Ça t'intéresse ?}
@@ -44,13 +44,13 @@
 {143}{}{Va t'en, s'il te plaît.}
 {144}{}{Mystérieux, mais tu n'es pas mon genre.}
 {145}{}{Parfait ! Le salaire sera de 200 caps. Quel itinéraire préfères-tu ?}
-{146}{}{Fabuleux. Reviens le }
-{147}{}{1er}
-{148}{}{5}
-{149}{}{10}
-{150}{}{15}
-{151}{}{20}
-{152}{}{25}
+{146}{}{Fabuleux. Reviens en }
+{147}{}{le 1er}
+{148}{}{le 5}
+{149}{}{le 10}
+{150}{}{le 15}
+{151}{}{le 20}
+{152}{}{le 25}
 {153}{}{. Tu partiras à ce moment-là. Comme toujours, le salaire sera de 200 caps.}
 {154}{}{D'accord.}
 {155}{}{Excuse-moi, je ne peux pas attendre.}
@@ -94,13 +94,13 @@
 {193}{}{Non !}
 {194}{}{Pfa !}
 {195}{}{Sinon, je confierai ce travail à quelqu'un d'autre, ne t'inquiète pas. Tu n'as aucune obligation envers moi... tant que tu n'es pas engagé avec une caravane, d'accord ?}
-{196}{}{Tu es un peu en avance. La prochaine caravane ne part pas avant le }
-{197}{}{1er}
-{198}{}{5}
-{199}{}{10}
-{200}{}{15}
-{201}{}{20}
-{202}{}{25}
+{196}{}{Tu es un peu en avance. La prochaine caravane ne part pas avant }
+{197}{}{le 1er}
+{198}{}{le 5}
+{199}{}{le 10}
+{200}{}{le 15}
+{201}{}{le 20}
+{202}{}{le 25}
 {203}{}{. Reviens à ce moment-là si ce travail t'intéresse toujours. }
 {204}{}{janvier }
 {205}{}{février }
