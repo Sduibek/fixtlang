@@ -1,0 +1,25 @@
+Changes since 0.80alpha:
+
+INSTALLATION
+ - Fallout Fixt now installs in a subfolder titled "Fallout Fixt" of where you tell it to install. (Thanks Lexx!)
+  -- This means you won't overwrite anything from your current Fallout installation. Hooray!
+  -- You still need to select your current Fallout folder as the install directory, because Fixt needs to know where to find the main data files.
+
+ - Fallout Fixt installer no longer backs up savegames during install. This was causing issues on some systems.
+  -- The silver lining is that since it's being installed in a subfolder now, your original savegames will stay untouched regardless.
+
+FIXED
+ - Fixed crash when giving holodisk to Jon Zimmerman.
+ - Razor no longer dissapears forever.
+ - Fixed crash moving items between containers in inventory. (Thanks Crafty!)
+ - No more broken Start Menu links.
+ - Display of title and/or level on levelup now works properly on Fixes Only installs.
+
+REVERTED
+ - "Free combat running fix" in Sfall now disabled by default as it caused confusing functionality.
+
+EDITED
+ - Updated troubleshooting guide, and added index to top of file.
+ - URLs for Troubleshooting Guide and Changelog now open the file directly as a download rather than with Dropbox's file viewer.
+ - More text & dialog changes/fixes. 200+ files modified. (Thanks robbforce!) 
+
