@@ -4,7 +4,7 @@
 #= Fallout Fixt =
 
 @A comprehensive customizable patch/mod/restoration
-@Version:  0.80alpha
+@Version:  0.81alpha
 
 Sduibek
 
@@ -263,6 +263,9 @@ Per
 @For writing the Nearly Ultimate Fallout Guide, a great resource
 @Which I still use as a reference when working on Fixt
 
+robbforce
+@For the many fixes and improvements of text & dialog
+
 RPGCodex forum users
 @For the excellent no-bullshit feedback they provide,
 @without scaling to your level
@@ -389,7 +392,9 @@ Sduibek
 @With contributions by
 Ash
 Endocore
+Luffier
 Prisoner416
+robbforce
 
 @"Dialog Fixes" mod/patch
 Nimrod
