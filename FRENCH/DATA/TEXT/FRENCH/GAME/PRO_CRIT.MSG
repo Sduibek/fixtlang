@@ -118,7 +118,7 @@
 {10400}{}{Seth}
 {10500}{}{Garret}
 {10600}{}{Goule}
-{10601}{}{Une goule hautement irradiée. Ses muscles et sa matière cérébrale ont pourri, mais il était autrefois un habitant d'abris, comme toi.}
+{10601}{}{Un goule hautement irradiée. Ses muscles et sa matière cérébrale ont pourri, mais il était autrefois l'habitant d'un abri, comme toi.}
 {10700}{}{Garde Ténébreux}
 {10800}{}{SuperMutant costaud}
 {10900}{}{Garde Goule}
@@ -203,9 +203,9 @@
 {18200}{}{Rayonnant}
 {18201}{}{Cet humanoïde est fortement irradié. Autrefois, il était un homme, ou descendait de l'homme. La détérioration des tissus est probablement due à de l'acide ou aux radiations.}
 {18300}{}{Rayonnant fou}
-{18301}{}{Cette goule irradiée a encore suffisamment de matière cérébrale et de fonction motrice pour pouvoir parler clairement.}
+{18301}{}{Ce goule irradié a encore suffisamment de matière cérébrale et de fonction motrice pour pouvoir parler clairement.}
 {18400}{}{Zombie}
-{18401}{}{Cet humanoïde est fortement irradié. Alors qu'il était autrefois humain et civilisé, il est revenu à un mode de vie plus primitif et sauvage.}
+{18401}{}{Cet humanoïde est fortement irradié. Alors qu'il était autrefois humain et civilisé, il est passé à un mode de vie plus primitif et sauvage.}
 {18500}{}{Garde}
 {18600}{}{Garde SuperMutant}
 {18700}{}{SuperMutant féroce}
@@ -328,7 +328,7 @@
 {30301}{}{Voici un Husky Sibérien attendant patiemment son maître.}
 {30400}{}{Mystérieux étranger}
 {30500}{}{Goule irresponsable}
-{30501}{}{Une goule hautement irradiée. Ses muscles et sa matière cérébrale ont pourri, mais il autrefois un habitant d'abris comme vous.}
+{30501}{}{Un goule hautement irradié. Ses muscles et sa matière cérébrale ont pourri, mais il autrefois l'habitant d'un abri comme toi.}
 {30600}{}{Oeil flottant Mk II}
 {30700}{}{Oeuf}
 {30701}{}{Oeuf de Griffemort}

@@ -72,6 +72,12 @@
 # This is a sleazy prostitute who will have sex with anyone who will give
 # her 20 caps. She will be talking a sexy, but lewd voice.
 
+################################
+# Busy prostitute
+
+{105}{}{Tu vois une très jolie dame. Elle semble être occupée.}
+{301}{}{Après une meilleure inspection, il semble évident que ce soit une prostituée avec un client. Elle vous fait signe de partir immédiatement !}
+
 {102}{}{Tu vois une femme sordide.}
 {302}{}{Après réflexion, il est évident que c'est une prostituée.}
 
@@ -98,8 +104,9 @@
 {211}{}{Je suis ton rêve qui devient réalité, mon chou.}
 {212}{}{Si t'as les caps, j'en suis.}
 {213}{}{T'aime bien ce que tu vois ? Moi oui.}
-{214}{}{Oua, quelle senteur...}
-{215}{}{Hé chéri, on cherche du bon temps ?}
+# "sweet pea" is slang for another slang word, "sweetie"
+{214}{}{Salut, ma belle...}
+{215}{}{Hé chérie, on cherche du bon temps ?}
 
 # random 216 to 219 display as a float message when dialog ends
 {216}{}{J'aime quand c'est violent, si t'es dans ce genre là.}
@@ -112,6 +119,7 @@
 {232}{}{Ma jolie. Tu me suis ?}
 {233}{}{Mon dieu... chérie, je dois gagner ma vie mais j'ai des limites.}
 {235}{}{MOI JE VEUX !}
+# "hell of a"
 {405}{}{Bien ... je suppose que je pourrais faire une exception. T'as intérêt à avoir un bon paquet de caps.}
 # == "you better have a very large amount of caps though"
 {243}{}{Caps ?}
@@ -176,17 +184,11 @@
 {403}{}{Heu, Je me sens sale.}
 {404}{}{Oh ouoho...}
 
-################################
-# Busy prostitute
-
-{105}{}{Tu vois une très jolie dame. Elle semble être occupée.}
-{301}{}{Après une meilleure inspection, il semble évident que ce soit une prostituée avec un client. Elle vous fait signe de partir immédiatement !}
-
 {135}{}{Laisse nous tranquille ou j'appelle les gardes.}
 {136}{}{He, je suis un ami proche du député Fry.}
 {137}{}{On te dérange ?}
-# == "could you please leave us alone ? you're being rude"
-{138}{}{Pas de voyeurisme !}
+# 137 == "could you please leave us alone ? you're being rude"
+{138}{}{C'est pas un peep show !}
 # == "I don't allow people to watch me having sex with someone else."
 
 {139}{}{Je ne fais pas les groupes.}

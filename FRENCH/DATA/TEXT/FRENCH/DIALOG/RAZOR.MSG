@@ -104,6 +104,7 @@
 {202}{}{Eh bien, encore merci de ton aide. Au revoir.}
 {203}{}{Super. Allons-y.}
 {204}{}{Ça ne me paraît pas une bonne idée, mais essaie toujours.}
+# 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
 {205}{}{Espèce d'ordure ! Si les Contrebandiers sont partis, jamais on ne pourra s'armer. Fous le camp, tu n'as rien à faire ici.}
 {206}{}{Je regrette.}
 {207}{}{J't'emmerde.}

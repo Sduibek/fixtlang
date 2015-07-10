@@ -65,6 +65,11 @@
 {164}{}{Quelles sont tes compétences en matière d'armes ?}
 {165}{}{J'ai suivi un bon entraînement de Guide. Je suis doué avec les pistolets et les petites mitrailettes. Je peux aussi utiliser une lance, au cas où.}
 {166}{}{Euh, qu'importe.}
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
 {167}{}{Ouais, si tu aimes ton lézard bien cuit.}
 {168}{}{Eh bien il est presque temps. Mon ami, allons nettoyer les rues ! Gizmo est une très bonne cible, si je peux me permettre.}
 {169}{}{Eh bien il est presque temps. Mon amie, allons nettoyer les rues ! Gizmo est une très bonne cible, si je peux me permettre.}

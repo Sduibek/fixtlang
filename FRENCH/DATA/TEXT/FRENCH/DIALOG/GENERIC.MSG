@@ -559,7 +559,7 @@
 # These are ones used
 #
 {5201}{}{Veux tu continuer à jouer à Fallout Fixt avec ce personnage ?}
-{5203}{}{Oui. [CONTINUER DE JOUER: Cette fenêtre de dialogue va se fermer et vous allez rester sur cette carte. Play continues normally.]}
+{5203}{}{Oui. [CONTINUER DE JOUER: Cette fenêtre de dialogue va se fermer et vous restez en jeu.]}
 {5202}{}{Non. [FIN DE PARTIE: Joue la scène de fin et les crédits, puis RETOURNE AU MENU PRINCIPAL.]}
 
 #

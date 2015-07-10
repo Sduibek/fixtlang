@@ -1,4 +1,4 @@
-{100}{}{Tu vois une goule en colère.}
+{100}{}{Tu vois un goule en colère.}
 # the examine & look msgs are 200 & 201
 {101}{}{Qu'est-ce tu fous là ?}
 {102}{}{Je cherche des restes du passé futur.}
@@ -26,5 +26,5 @@
 #
 # by Sduibek for Fallout Fixt:
 #
-{200}{}{Il semble être le propriétaire de cet établissement. La phrase "changement de direction" te vient à l’esprit.}
+{200}{}{Il semble être le gérant de cet établissement. Les mots "changement de propriétaire" te viennent à l’esprit.}
 {201}{}{Voici le directeur d’hôtel.}
