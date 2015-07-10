@@ -246,6 +246,7 @@ You can read about it more by opening the f1_res.ini file.
 017. Graphics issues
 ============================================================================
 - Use the tools and read the file in the "Scrambled Colors Fixes" folder (if folder exists)
+- Disable and then re-enable the high-res mod using f1_res_Config.exe
 - Try the Compatibility Mode settings: (right-click on FalloutW.exe, click Properties, and click on the Compatibility tab)
 --  Try setting to Run As Administrator
 --  Try setting Compatibility Mode to each of these in this order: Windows XP, Windows 98, Windows 95
