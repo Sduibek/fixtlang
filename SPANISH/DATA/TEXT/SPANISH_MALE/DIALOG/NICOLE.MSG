@@ -94,7 +94,7 @@
 {193}{Nic_30}{Muy al sur, cerca del Gran Ardor. Fueron tiempos difíciles, pero sobrevivimos. Entonces nos dimos cuenta de que la Gran Guerra no debía repetirse.}
 {194}{}{¿O sea que tú fundaste los Seguidores del Apocalipsis?}
 {195}{}{¿Qué te hizo venir al norte?}
-{196}{Nic_31}{Cuando mis padres fueron asesinados por unos merodeadores, [Suspiro] comprendí que era necesario terminar con las muertes. Nuestro objetivo es hacer que esta tierra vuelva a ser como era antes de la guerra.}
+{196}{Nic_31}{Cuando mis padres fueron asesinados por unos merodeadores, *suspiro* comprendí que era necesario terminar con las muertes. Nuestro objetivo es hacer que esta tierra vuelva a ser como era antes de la guerra.}
 {197}{}{Lamento lo de tus padres.}
 {198}{}{¿Entonces tú piensas que podría repetirse? ¡Qué estupidez!}
 {199}{}{¿Quiénes eran los merodeadores?}
@@ -111,11 +111,11 @@
 {210}{}{¿O sea que piensas que la violencia nunca es buena?}
 {211}{}{No pasa nada si sigo haciéndote preguntas, ¿verdad?}
 {212}{}{Bueno, tengo que irme.}
-{213}{Nic_35}{[Suspiro] Sencillamente, no estás preparado para entender la diferencia. Está bien. Entonces por qué no piensas un poco sobre ello, vuelves y seguimos hablando.}
+{213}{Nic_35}{*suspiro* Sencillamente, no estás preparado para entender la diferencia. Está bien. Entonces por qué no piensas un poco sobre ello, vuelves y seguimos hablando.}
 {214}{Nic_36}{No quedan muchos en el sur. Las radiaciones lo han contaminado casi todo. La gente que quedaba se unió a nosotros para empezar la organización.}
 {215}{}{¿Cómo sobrevivió tu familia?}
 {216}{}{¿Aún hay radioactividad por allí? ¿Después de 80 años?}
-{217}{Nic_37}{Vivíamos a las afueras del Gran Ardor. La enfermedad se extendía, así que reunimos a toda la gente y nos dirigimos al norte. [Suspiro] Fue entonces cuando mataron a mis padres.}
+{217}{Nic_37}{Vivíamos a las afueras del Gran Ardor. La enfermedad se extendía, así que reunimos a toda la gente y nos dirigimos al norte. *suspiro* Fue entonces cuando mataron a mis padres.}
 {218}{}{Lo siento.}
 {219}{}{¿Por qué sigue tan radioactiva esa zona, después de todo este tiempo?}
 {220}{Nic_39}{Gracias, te lo agradezco. ¿Hay algo más que necesites preguntarme?}
@@ -156,7 +156,7 @@
 {255}{Nic_57}{¿Qué? Este es nuestro destino. Los Seguidores lucharán contra la maldad para que la sanación de la tierra pueda comenzar al fin.}
 {256}{}{No. Te lo prohíbo.}
 {257}{}{Vale, nos encontramos en la Catedral.}
-{258}{Nic_58}{[Risita] Tú no nos controlas. ¡Atacaremos con o sin tu bendición!}
+{258}{Nic_58}{*risita* Tú no nos controlas. ¡Atacaremos con o sin tu bendición!}
 {259}{Nic_59}{¡¿Hablar con él?! ¿Estás chiflado?}
 {260}{}{¿No eres tú la que predica la paz?}
 {261}{}{No, y no vas a detenerme.}
@@ -185,6 +185,7 @@
 {284}{}{¿Puedo hacerte más preguntas?}
 {285}{}{Eso es todo por ahora. Tengo que irme.}
 # 286 changed with patch 1.3 from TeamX
+# was "286 Nic_72 Please, we're busy. Don't you have things to do?"
 {286}{}{Por favor, estamos ocupados. ¿No tienes cosas que hacer?}
 {287}{Nic_74}{¿Qué estás haciendo? ¡Deja eso!}
 {288}{Nic_75}{¡Para!}

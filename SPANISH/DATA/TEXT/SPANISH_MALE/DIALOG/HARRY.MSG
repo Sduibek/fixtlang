@@ -24,7 +24,7 @@
 {123}{Harry_05}{Oh jo-jo, pronto lo sabrás.}
 {124}{Harry_06}{Oh, uh, vale. Tener buen día.}
 {125}{Harry_07}{Harry machacar tu cabeza ahora.}
-{126}{Harry_08}{Ooo... Harry confundido. Tú no necrófago. Tú no normal. ¿Tú qué? [Balbucea]}
+{126}{Harry_08}{Ooo... Harry confundido. Tú no necrófago. Tú no normal. ¿Tú qué? *balbucea*}
 {127}{}{Soy una nueva raza de Supermutante.}
 {128}{}{Soy un robot último modelo.}
 {129}{}{Está bien, soy un normal.}
@@ -80,7 +80,7 @@
 {179}{Harry303}{¿El qué?}
 {180}{Harry304}{¡Bah! ¡Hmpf! Debiluchos.}
 {181}{Harry305}{Débiles. No saber por qué el Teni querer normales. ¡Apestan!}
-{182}{Harry306}{Aquí, bobo. [Suspira] ¿Estar tonto?}
+{182}{Harry306}{Aquí, bobo. *suspira* ¿Estar tonto?}
 {183}{Harry307}{La U-U-U-Un, no saber.}
 {184}{Harry308}{Buenos los chiquititos. Harry daño una vez y ellos curar bien. ¡Perfecto nuevo!}
 
@@ -93,7 +93,6 @@
 {191}{}{¡No me vas a llevar a ningún sitio!}
 {192}{}{Vale, llévame ante tu jefe.}
 {193}{}{El mutante te ignora.}
-
 
 
 #
@@ -139,10 +138,10 @@
 {1100}{Harry300}{No sé, creer que ser como un jefazo.}
 {1101}{Harry301}{Él, Teniente. Él, mi jefe. No contar a él, pero Harry poder tomar un buen día.}
 {1102}{Harry302}{Él pensar que llevar esto, pero nosotros llevar.}
-{1103}{Harry303}{Aquí, bobo. Bah. ¿Estar tonto?}
+{1103}{Harry303}{Aquí, bobo. *suspira* ¿Estar tonto?}
 {1104}{Harry304}{¡Bah! Debiluchos.}
-{1105}{Harry305}{Débiles. No saber por qué el Teniente querer normales. ¡Apestan!}
-{1106}{Harry306}{Aquí, bobo. Bah. ¿Estar tonto?}
+{1105}{Harry305}{Débiles. No saber por qué el Teni querer normales. ¡Apestan!}
+{1106}{Harry306}{Aquí, bobo. *suspira* ¿Estar tonto?}
 {1107}{Harry307}{La U-U-U-Un, no saber.}
 {1108}{Harry308}{Buenos los chiquititos. Harry daño una vez y ellos curar bien. ¡Perfecto nuevo!}
 {1109}{Harry303}{¿El qué?}
@@ -153,7 +152,7 @@
 {1114}{Harry305}{Débiles. No saber por qué el Teni querer normales. ¡Apestan!}
 {1115}{Harry308}{Buenos los chiquititos. Harry daño una vez y ellos curar bien. ¡Perfecto nuevo!}
 {1116}{Harry308}{Buenos los chiquititos. Harry daño una vez y ellos curar bien. ¡Perfecto nuevo!}
-{1117}{Harry306}{Aquí, bobo. Bah. ¿Estar tonto?}
+{1117}{Harry306}{Aquí, bobo. *suspira* ¿Estar tonto?}
 {1118}{Harry301}{Él, Teni Ente. Él, mi jefe. No contar a él, pero Harry poder tomar un buen día.}
 {1119}{Harry301}{Él, Teni Ente. Él, mi jefe. No contar a él, pero Harry poder tomar un buen día.}
 {1120}{Harry301}{Él, Teni Ente. Él, mi jefe. No contar a él, pero Harry poder tomar un buen día.}
@@ -163,4 +162,4 @@
 {1124}{Harry200}{¡No tener que decirte nada!}
 {1125}{Harry200}{¡No tener que decirte nada!}
 {1126}{Harry200}{¡No tener que decirte nada!}
-{1127}{Harry306}{Aquí, tonto. Hmpf. ¿Tú estúpido?}
+{1127}{Harry306}{Aquí, tonto. *suspira* ¿Estar estúpido?}

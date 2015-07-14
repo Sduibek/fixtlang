@@ -49,7 +49,7 @@
 {148}{}{Nunca he visto ninguno por aquí. Los Mercaderes de Agua no los necesitan.}
 {149}{}{¿Mercaderes de Agua?}
 {150}{}{El señor Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. ¿Algo más?}
-{151}{}{Um... Vale...}
+{151}{}{Um... vale...}
 {152}{}{¿Qué tipo de negocio?}
 {153}{}{¿De qué estás hablando?}
 {154}{}{Tus ingredientes secretos. ¿Cuánto tiempo debe pasar antes de que un cadáver amargue? ¿Qué utilizáis? ¿Humanos, mutantes o una mezcla?}
@@ -156,7 +156,7 @@
 #
 # 252 to 260 take place while Bob is in jail
 {252}{}{¿Qué demonios haces aquí? Cierras mi negocio y seguro que recibes una gran recompensa. ¿Estás aquí para regodearte o qué?}
-{253}{}{Mas o menos, sí ¿Cómo va el negocio, Bob? [le guiñas un ojo]}
+{253}{}{Mas o menos, sí ¿Cómo va el negocio, Bob? *guiño*}
 {254}{}{Nah, comprobando como te iba.}
 {255}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Hasta donde yo sé podrían dejarme morir aquí.}
 {256}{}{Te lo mereces.}

@@ -44,7 +44,7 @@
 # The Merchant Market is a location
 {135}{}{No pretendo contratarte, pero hay un cartel donde ofrecen trabajos en el centro del Mercado de los Mercaderes. Quizás quieras echarle una ojeada.}
 {136}{}{Vale, gracias.}
-{137}{}{No, al menos nada bueno. Dame una oportunidad para hacer algunas averiguaciones. [Te hace un guiño] ¿Algo más?}
+{137}{}{No, al menos nada bueno. Dame una oportunidad para hacer algunas averiguaciones. (Te hace un guiño) ¿Algo más?}
 {138}{}{Sí.}
 {139}{}{No.}
 {140}{}{¿Qué más puedo hacer por ti?}
@@ -62,7 +62,7 @@
 {152}{}{¿Por qué piensas que Decker es el responsable?}
 {153}{}{Tendría que habérselo pensado mejor antes de meterse con Decker.}
 {154}{}{Lo siento, pero tengo que irme.}
-{155}{}{Mi amigo era un buen tío. No se acercaría ni a un kilómetro de la Ciudad Antigua. Le dispararon con una Mágnum, no hay nadie en la Ciudad Antigua que pueda permitirse tener una de esas. Además, le dispararon una vez en la cabeza y dos en la espalda. ¿A ti te parece que lo hicieron para robarle? Mi amigo solo quería volver a ser dueño de su vida.}
+{155}{}{Mi amigo era un buen tío. No se acercaría ni a un kilómetro de la Ciudad Antigua. Le dispararon con una pistola mágnum, no hay nadie en la Ciudad Antigua que pueda permitirse tener una de esas. Además, le dispararon una vez en la cabeza y dos en la espalda. ¿A ti te parece que lo hicieron para robarle? Mi amigo solo quería volver a ser dueño de su vida.}
 {156}{}{Oye, me gusta su estilo. Después de matarle, colocas su cuerpo en el lugar que más despreciaba.}
 {157}{}{¿Volver a ser dueño de su vida?}
 {158}{}{Lamento oír eso.}
@@ -177,7 +177,7 @@
 {268}{}{Bueno, volvamos a los mercaderes...}
 {269}{}{¡Eres una idiota!}
 {270}{}{Mira qué hora es, ¡tengo que irme! Hasta otra.}
-{271}{}{Pero, ¿no lo sabes? [Susurrando] ¡He oído que hacen sacrificios humanos y todo tipo de otras cosas horribles!}
+{271}{}{Pero, ¿no lo sabes? (Bajando la voz) ¡He oído que hacen sacrificios humanos y todo tipo de otras cosas horribles!}
 {272}{}{Sí, lo hacemos. ¿Qué hay de malo en ello?}
 {273}{}{¡Como MIEMBRO de la Hermandad, te puedo ASEGURAR que no existe NADA de eso!}
 {274}{}{¿En serio? He estado allí, parecían raros pero no tan malos.}
@@ -242,8 +242,8 @@
 {332}{}{Oh, sí.}
 {333}{}{Sí, se lo merecía y no me siento mal por haberlo hecho.}
 #Sid works for Beth. Sid is male.
-{334}{}{¿Lo hiciste? ¿De verdad? ¡Te quiero! [Beth mira a Sid] Ni lo pienses listillo... Aquí tienes, para mostrarte mi gratitud. [Beth te da seis estimulantes.] ¡No es mucho, pero te lo agradezco de verdad!}
-{335}{}{¿Lo hiciste? ¿De verdad? ¡Eres genial! No sabes lo feliz que me puse cuando oí que había muerto. Toma, coge esto... [Beth te da seis estimulantes.] ¡No es mucho, pero te lo agradezco de verdad!}
+{334}{}{¿Lo hiciste? ¿De verdad? ¡Te quiero! (Mira a Sid) Ni lo pienses listillo... aquí tienes, para mostrarte mi gratitud. (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
+{335}{}{¿Lo hiciste? ¿De verdad? ¡Eres genial! No sabes lo feliz que me puse cuando oí que había muerto. Toma, coge esto... (Te da seis estimulantes.) ¡No es mucho, pero te lo agradezco de verdad!}
 {336}{}{Lo siento, pero no tengo nada que te guste.}
 {337}{}{¿No ves nada que te guste? Trataré de traer mejor mercancía.}
 {338}{}{Lamento que mi oferta no te parezca bien, pero tengo que sacar algún beneficio de ella.}
@@ -297,7 +297,7 @@
 {387}{}{¡Menudo cabezota!}
 {388}{}{¡Sid!}
 {389}{}{¿Cariño? ¿De dónde te salen todos esos nombres molestos?}
-{390}{}{[Beth suspira] Yo}
+{390}{}{*suspira* Yo}
 {391}{}{ debería encerrarle. ¿No crees?}
 {392}{}{¡Creo que está celoso!}
 {393}{}{¡Sid!, ¡no seas maleducado con los clientes!}

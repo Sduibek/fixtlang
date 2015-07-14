@@ -27,7 +27,7 @@
 {126}{}{}
 {127}{}{Cuernos enormes, piel roja asquerosa, como sacada de un cuento de demonios, y se comió a Joe en tres bocados...}
 {128}{}{¡Nadie está a salvo! Nadie está a salvo, ya no estamos a salvo, y que voy a hacer...}
-{129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi mejor pistola y ni siquiera pestañeó!}
+{129}{}{¿Estás mal de la cabeza? ¡Le disparé tres veces con mi Desert Eagle y ni siquiera pestañeó!}
 {130}{}{No me importa si era un mutante, un marciano, o un demonio del infierno. ¡No quiero volver a ver una cosa de esas en mi vida!}
 {131}{}{¡Solo soy un guardia, corcho! ¡No me culpes a mí! ¡Y pagan bien! ¡No tengo ningún problema con ellos!}
 {132}{}{¿Cómo puedo ayudarte?}
@@ -47,6 +47,5 @@
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
-
 {142}{}{El olor de la muerte, amigo mío. El olor de la muerte...}
 {143}{}{El olor de la muerte, amiga mía. El olor de la muerte...}

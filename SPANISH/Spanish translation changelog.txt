@@ -9,7 +9,7 @@ T - Cambios en toda la traducción.
 
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
-Traducción de Fallout Fixt   /////   Changelog de la versión 1.2.2   /////   03.07.15
+Traducción de Fallout Fixt   /////   Changelog de la versión 1.2.3   /////   14.07.15
 ==========================================================================================================================================================================
 ==========================================================================================================================================================================
 
@@ -213,18 +213,25 @@ Aquí se detallan cambios importantes o los cambios en nuevas versiones menores.
 
  + Versión 1.2.1 (20.04.15) - Fixt 7.1
  
-  - Traducción actualizada para Fixt 7.1 Alpha
+  - Traducción actualizada para Fixt 7.1 Alpha.
   
-  - Acentos quitados en los menús de opciones ** (3)
+  - Acentos quitados en los menús de opciones. ** (3)
 
   
 
  + Versión 1.2.2 (03.07.15) - Fixt 0.80
 
- - Traducción actualizada para Fixt 0.80 Alpha (nueva numeración para la llegada de la v.1.0)
+ - Traducción actualizada para Fixt 0.80 Alpha (nueva numeración para la llegada de la v.1.0).
  
  - Añadido BADWORDS.txt, ahora se pueden censurar palabras malsonantes (lista poco extensa).
 
+ 
+ + Versión 1.2.3 (14.07.15) - Fixt 0.81
+
+ - Traducción actualizada para Fixt 0.81 Alpha.
+
+ - Ahora los créditos entán traducidos en su totalidad.
+ 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

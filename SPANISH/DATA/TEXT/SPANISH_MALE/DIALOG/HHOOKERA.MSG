@@ -15,7 +15,7 @@
 {111}{}{Sí, querishísimo amigo.}
 # best friend (slurred)
 
-{112}{}{Anda eresh... hip... ¿Dónde eshtoy?}
+{112}{}{Anda eresh... *hip*... ¿Dónde eshtoy?}
 {113}{}{¿Quién eresh?}
 {114}{}{¿Te conozco?}
 {115}{}{No me siento muy bien.}
@@ -26,7 +26,7 @@
 
 # laddy is male. long version of "lad". 
 {118}{}{¡Quédate donde estás, tío!}
-# female
+# lassie is female. long version of "lass"
 {119}{}{¡Quédate donde estás, chica!}
 
 #################
@@ -71,6 +71,12 @@
 ######################################
 # This is a sleazy prostitute who will have sex with anyone who will give
 # her 20 caps. She will be talking a sexy, but lewd voice.
+################################
+
+# Busy prostitute
+
+{105}{}{Ves a una chica muy guapa. Parece ocupada.}
+{301}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta con un cliente. Te hace señas para que te vayas, inmediatamente.}
 
 {102}{}{Estás viendo a una sórdida mujer.}
 {302}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta. Al mirarte te brinda una sonrisa falsa.}
@@ -98,6 +104,7 @@
 {211}{}{Soy tus sueños hechos realidad, preciosa.}
 {212}{}{Si tienes las chapas, me apunto.}
 {213}{}{¿Te gusta lo que ves? A mí sí.}
+# "sweet pea" is slang for another slang word, "sweetie"
 {214}{}{Hola, dulzura.}
 {215}{}{Ey, cariño, ¿buscas un buen rato?}
 
@@ -112,10 +119,12 @@
 {232}{}{Señorita guapa. ¿Conmigo?}
 {233}{}{Oh dios... cariño. Tengo que ganarme la vida pero hasta yo tengo estándares.}
 {235}{}{¡YO QUERER!}
+# "hell of a"
 {405}{}{Bueno... supongo que podría hacer una excepción. Más vales que tengas un montonazo de chapas.}
-# == "you better have a very large amount of caps though"
+# == "you better have a very large amount of caps for me to agree to this"
 {243}{}{¿Chapa?}
-{244}{}{[suspiro] Sí, idiota, chapas de botella. Págame 150 y te daré un buen rato. Eso será suficiente como para ahogar mi vergüenza en el bar y que me queden beneficios.}
+# "Falcon" = Maltese Falcon, the bar
+{244}{}{[suspiro] Sí, idiota. Chapas de botella. Págame 150 y te daré un buen rato. Eso será suficiente como para ahogar mi vergüenza en el Halcón y que me queden beneficios.}
 # "that should be enough caps to buy me lots of alcohol and still have caps left over"
 {238}{}{Hmph.}
 {239}{}{Lo siento cariño. Si encuentras un nuevo cerebro, hazme una visita.}
@@ -124,7 +133,7 @@
 {258}{}{Yo no tener dineros...}
 {259}{}{¡Hmph!}
 {260}{}{No me creo que este haciendo esto...}
-{261}{}{Ahora vete, que voy a vomitar.}
+{261}{}{Lárgate de aquí, que voy a vomitar.}
 {262}{}{Tengo que encontrar un nuevo trabajo.}
 {263}{}{¿Tú de nuevo? Lárgate, no trabajo con retrasados que no pueden pagar.}
 {264}{}{Urr...}
@@ -160,6 +169,7 @@
 {224}{}{Gracias por el buen rato. Hasta luego.}
 
 # for when she says how many caps it costs to be with her
+# Spaces at the beginnings or ends of these lines is intentional
 #low Charisma
 {247}{}{Para ti, }
 #high Charisma
@@ -176,16 +186,10 @@
 {403}{}{Ugh, me siento sucio.}
 {404}{}{Oh, wow...}
 
-################################
-# Busy prostitute
-
-{105}{}{Ves a una chica muy guapa. Parece ocupada.}
-{301}{}{Tras observarla por un momento, se te hace obvio que se trata de una prostituta con un cliente. Te hace señas para que te vayas, inmediatamente.}
-
 {135}{}{Déjanos solos o llamaré a los guardias.}
 {136}{}{Cuidado, soy amiga íntima del Ayudante Fry.}
 {137}{}{¿Te importa?}
-# == "could you please leave us alone? you're being rude"
+# 137 == "could you please leave us alone? you're being rude"
 {138}{}{¡Odio a los mirones!}
 # == "I don't allow people to watch me having sex with someone else."
 
@@ -210,7 +214,7 @@
 # interested in the player, only having sex with the prostitute
 
 {109}{}{Estás viendo a un mercenario.}
-{150}{}{¿Te importaría irte?}
+{150}{}{¿Formas parte de la orgía?}
 {151}{}{¡Vete de nuestra habitación!}
 {152}{}{¡Vete!}
 {153}{}{¿Formas parte de la orgía?}
