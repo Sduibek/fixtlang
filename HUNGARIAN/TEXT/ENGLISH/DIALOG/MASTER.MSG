@@ -1,133 +1,253 @@
 {100}{}{A Szupermutánsok Mestere személyesen.}
-{101}{Mast00}{Na, mi legyen? Csatlakozol az Egységhez vagy helyben megöljünk? Jer! Vagy meghalsz! Jer! Vagy meghalsz!}
-{102}{}{Sajnos nem gyõzhetek felettetek. Inkább csatlakoznék.}
-{103}{}{Ha képes vagy bebizonyítani számomra, hogy az Egységetek az emberiség elõtt álló legjobb lehetõség, segítek nektek.}
-{104}{}{Mi lenne, ha te halnál meg, én pedig kisétálnék?}
-{105}{}{Óh, haláleset az... lesz ma, de nem az enyém. Van egy pazar tervem...}
-{106}{}{Ögh. Táááv.}
-{107}{Mast01}{Kiváló! A tehetségednek nagy hasznát vesszük majd, de elõbb mondj el mindent a Menedékedrõl.}
-{108}{}{Miért?}
-{109}{}{Rendben. Mindent elmondok, amit tudni szeretnél.}
-{110}{Mast02}{Meg fogom hódítani és az összes még érintetlen embert mutánssá változtatom. Õk alkotják majd a seregemet, ami ahhoz kell, hogy az egész pusztaságba békét hozzak.}
-{111}{}{Már elnézést, de nekem nem tetszik ez a terv.}
-{112}{}{Kivihetõnek tûnik. Fogjunk bele!}
-{113}{Mast03}{Legyen hát. Megástad a saját sírodat. Sírodat! Sírodat!}
-{114}{Mast04}{Semmit nem kell bebizonyítanom neked! Bizonyítanom...}
-{115}{}{Az egód akarja elmondatni nekem. Az összes cselszövõben megvan az a fura késztetés, hogy mindent elmagyarázzon.}
-{116}{}{Addig nem tudhatom, hogy te képviseled a legjobb jövõt, amíg nem bizonyítasz.}
-{117}{Mast05}{Nagy merészség ez egy ilyen ingatag helyzetben lévõ emberhez képest. Én mindenesetre tiszteletben tartom az igényeidet.}
-{118}{}{Tehát mondd el!}
-{119}{Mast06}{Az Egység elhozza a legfõbb fajt. Legfõbb! Legfõbb! Képes lesz túlélni, sõt virágozni a pusztaságban. Amíg különbségek mutatkoznak, elszakadunk egymástól, mégpedig harc útján. Egy faj kell. Faj! Faj! Egy cél! Cél! Cél! Egy ember... hogy elébemenjünk a sorsunkank. Sorsunknak.}
-{120}{}{Az a faj persze a mutánsoké...}
-{121}{}{Remélem, a végén nem úgy fogunk kinézni, mint te.}
-{122}{Mast07}{Nyilvánvaló. A mai világban a mutánsok tudnak a legjobban boldogulni. Ki más? Tán a ghoulok? Ugyan... A humánok? Õk hozták ránk a nukleáris halált. A mutánsok kora következik. Mutánsok kora.}
-{123}{}{Az összes létezõ embert mutánssá akarjátok változtatni?}
-{124}{}{Micsoda vakbuzgóság.}
-{125}{}{És mi lesz azokkal, akik nem adják be a derekukat?}
-{126}{Mast08}{Igen, mindenkit, aki ellenáll. Azokat is, akikre szüksége van az Egységnek. A maradék tovább élheti életét, de az Egység ellenõrzése és védelme alatt. Nem szaporodhatnak, mivel õk a fajuk utolsó képviselõi.}
-{127}{}{Van egy kis probléma ezzel a "mesteri" tervvel.}
-{128}{}{Úgy tûnik, jól meg van ez szervezve. Csatlakoznék.}
-{129}{}{Szerintem te, sõt az összes követõd kimeríti a vadbarom fogalmát, és most azonnal véget vetek ennek.}
-{130}{Mast09}{És mi lenne az?}
-{131}{}{Nem számoltál velem! Most szépen véget vetünk az ámokfutásotoknak!}
-{132}{}{Valószínûleg képesek lesztek az egész világot meghódítani.}
-{133}{}{Egész véletlenül tudomásom van róla, hogy a mutánsaid mind meddõk.}
-{134}{Mast10}{A világ egyelõre nem érdekel. Miután a Menedéklakó társaidat is mutánssá változtattam, a seregem olyan erõs lesz, hogy bárki ellen kiállíthatom. Ne aggódj, téged nem fog érinteni! Érinteni! Érinteni!}
-{135}{Mast11}{Ostobaság! A FEV-2 vírus nem semmisíti meg a mutálódot egyedek szaporítószerveit.}
-{136}{}{Lehet, hogy régen nem így volt, de mostanság már igen.}
-{137}{}{Megbeszélted ezt már valamelyik mutánsoddal?}
-{138}{}{Talán a többletsugárzástól van.}
-{139}{Mast12}{Van erre bizonyítékod?}
-{140}{}{Persze, hogy van! Tessék...}
-{141}{}{Nekem elhiheted, úgy van, ahogy mondom.}
-{142}{}{Kérdezd ki a saját mutánsaidat!}
-{143}{Mast13}{Ez nem bizonyít semmit! Megfizetsz a szemtelenségedért. Megfizetsz!}
-{144}{}{Elõ kell halásznom az információt. Egy pillanat...}
-{145}{Mast14}{Elõ kell halásznom az információt. Egy pillanat... Már értem. Ügyes hamisítványt csináltál. Azért csináltad, hogy átverj engem! Bolond vagy! Engem!}
-{146}{}{Mi!? Nem értem, azt hittem, ez teljesen korrekt így!}
-{147}{}{Hazudsz! Dacolsz az eléd helyezett tényekkel!}
-{148}{Mast16}{Megfizetsz ezért! Megfizetsz! Ezért!}
-{149}{Mast17}{Ez nem lehet. Ez azt jelentené, hogy az egész munkám hiábavaló volt. Minden, amiért küzdöttem... bukás! Nem lehet. Nem. Nem. Nem.}
-{150}{}{Bocs, de nincs választási lehetõségetek. A fajotok kihal a jelenlegi generáció után.}
-{151}{}{Esetleg lehetne még tenni valamit. Talán ha szereznétek további tesztalanyokat.}
-{152}{Mast18}{Igen. A tesztalanyok. Azt hiszem, veled kezdünk. Veled! Veled!}
-{153}{Mast19}{Azt hiszem... nem sok értelme van a folytatásnak. Folytatásnak? A haladás és gyógyítás nevében véghezvitt tetteim semmivé foszlanak... Õrültség az egész. Már látom. Õrültség. Õrültség? Nincs remény. Távozz innen, amíg még van benned remény...}
-{154}{Mast20}{Azt hiszem, úgy teszek. Ne mozdulj!}
-{155}{Mast21}{A tudósaim biztosítottak, hogy semmi gond nincs. Erre mit mondasz? Mondasz! Mondasz!}
-{156}{}{Arra gondolsz, hogy kérdezzünk egy nõstény mutánst?}
-{157}{}{Kérdezd meg valamelyik Hadnagyodat.}
-{158}{}{Õk félnek tõled. Gondolod, hogy elmondanák az igazságot?}
-{159}{Mast22}{Egy pillanat. Õt nem lehet elérni. Valószínûleg meghalt, és azt is tudom, ki ölte meg! Megölte? Megölte!}
-{160}{Mast23}{Mindent tagad. Azt mondja, tudja, ki kezdte ezt terjesztgetni...}
-{161}{Mast24}{Azt hiszem, én tudom, hogy ki itt az igazi hazug. Hazug!}
-{162}{Mast25}{Hihetõ. Egy pillanat. Biztos vagy benne? Mi van a többi nõsténnyel? Nem lehet. Nem.}
-{163}{}{Sajnálom, de a fajotoknak annyi.}
-{164}{}{Elnézést, hogy ilyen kárörvendõ vagyok... Már elmondtam a lényeget!}
-{165}{Mast26}{Bizonyíték nélkül attól tartok, nem hiszek neked. Most akkor csatlakozol a seregemhez mutánsként vagy meghalsz! Meghalsz! Meghalsz!}
-{166}{}{Inkább meghalok, mint hozzád hasonló legyek.}
-{167}{}{Tudom, hogy ezzel minden eddigi életemet feladom, de csatlakozom.}
-{168}{Mast27}{A humorod most nem fog megmenteni. Elfogadod az ajánlatomat, vagy nem? Nem! Elfogadod!}
-{169}{}{Nem.}
-{170}{}{Rendben, még mindig jobb, mint meghalni...}
-{171}{Mast28}{A sugárzás nem hat ránk. A FEV vírus immunissá tett. Az érveid fabatkát sem érnek, és te sem.}
-{172}{Mast29}{Azt hiszem, tévedsz, de a biztonság kedvéért parancsot adok, hogy folytassanak kutatásokat ez ügyben. Persze csak miután veled dûlõre jutottam. Dûlõre. Dûlõre!}
-{173}{Mast30}{Egyetlen problémám van, és ez te vagy. Tehát dolgozol az Egységért vagy sem?}
-{174}{}{Nem én!}
-{175}{}{Dolgozom.}
-{176}{Mast31}{Szemtelenségükért büntetést fognak kapni.}
-{177}{}{Úgy érted, mind meghal?}
-{178}{}{Akkor most jött el az a pillanat, hogy meg kell állítanom téged!}
-{179}{Mast32}{Természetesen nem. A többségnek felajánljuk, hogy mutáns lehessen belõle. Azokat, akik visszautasítják ezt, sterilizáljuk, és szélnek eresztjük. Akik ellenállást fejtenek ki, kivégezzük.}
-{180}{}{Beteges kis hülyegyerek vagy. Itt az idõ, hogy lenyomjalak, mint a bélyeget.}
-{181}{}{Hmm, nem vagyok oda a gondolattól, hogy kivégezzenek... inkább csatlakozom.}
-{182}{Mast33}{Mindannyian részrehajlóak vagyunk, nemdebár? Mindannyian jobban törõdünk a sajátjainkkal, mint másokkal. Semmit nem változtunk, és még mondok valamit...}
-{183}{}{Ugyan mit?}
-{184}{Mast34}{Nem is fogunk megváltozni. Addig nem, amíg egy néphez tartozunk. Egy. Egy. Egy. Egy fajhoz. Egy. Egy. Egy. Az Egység lehetõvé teszi számunkra, hogy átlépjünk ezeken a földhözragadt beidegzõdéseken, és a fontos problémákra koncentrálhassunk. Ugye te is részt szeretnél ebbõl? Részt. Ugye?}
-{185}{}{Meggyõztél. Csatlakozom az Egységhez.}
-{186}{}{Részt szeretnék... a fejedbõl!}
-{187}{Mast35}{Mi az hogy! A mutánsok a nagy túlélõk! A mutánsok újjá fogják építeni ezt a világot! És csakis mutánsként élhetsz benne! Élhetsz. Halhatsz!}
-{188}{}{Élet!}
-{189}{}{Halál!}
-{190}{}{Te csak a mutánsaiddal meg az Egységgel törõdsz.}
-{191}{Mast36}{Nem vagyok cselszövõ. Halvány fogalmad sincs, hogy az én személyem vagy az Egység mit is takar valójában.}
-{192}{}{Akkor meséld el nekem, mit is takarsz valójában!}
-{193}{}{Cselszövõ vagy és kész, csak nem mered bevallani magadnak.}
-{194}{Mast37}{Nem kell semmit bizonygatnom számodra. Ha a logikádat használod, rájössz, hogy nem vagyok cselszövõ. Reménytelen lenne, ha el akarnám magyarázni. }
-{195}{Mast38}{Valóban? Kérlek, világosíts fel, miféle tervrõl van szó?}
-{196}{}{Fel fogok robbantani egy nukleáris bombát ebben a Menedékben. Hamarosan jön a bumm, és mindannyian pokolra juttok!}
-{197}{}{Megöllek szépen, úgy viszonylag nehéz lesz bármit is folytatni, igazam van?}
-{198}{}{Meggyõztem az Acél Testvériségét, hogy szállják meg ezt a helyet, ha fogságba esem, és nem kerülök elõ idõben. Bármelyik pillanatban itt lehetnek.}
-{199}{Mast39}{Lehet, hogy igazat beszélsz. Nemigen számít már, de szabadon engedlek.}
-{200}{Mast40}{Hazudsz, mint a vízfolyás! Ez volt az utolsó hazugságod az életben. }
-{201}{Mast41}{Egy pillanat, leellenõrzöm a szavaid hitelességét. Akár még igazat is mondhatsz. Õrség! Vigyétek ezt az embert a reaktormaghoz! Essünk túl a problémán, mielõtt túl késõ lenne.}
-{202}{Mast42}{Kétlem, hogy akár a FEV is segíthetne rajtad. Miért is járatom a szám... Kétlem, hogy valaha is értenéd ezt az egészet...}
-{203}{Mast43}{Te minden bizonnyal viccelsz. }
-{204}{Mast44}{Elérkeztél a türelmem határára. Tehát csatlakozol az Egységhez, vagy nem? Csatlakozol. Nem!}
-{205}{}{Csatlakozom.}
-{206}{}{Nem.}
-{207}{Mast45}{Helyes. Akkor itt helyben meghalsz!}
-{208}{Mast46}{Hatástalanítottad a berendezést. Kiváló. Van valami mondanivalód, mielõt megöllek?}
-{209}{}{Igen, immár csatlakozhatom hozzátok?}
-{210}{}{Én még holtomban is jobban fogok kinézni, mint te most.}
-{211}{Mast47}{Nem. Nem. Nem. Nem.}
-{212}{Mast200}{Én a Mester vagyok. Nem érdemelsz választ tõlem.}
-{213}{Mast201}{Nem azért vagyok itt, kérdezgethess tõlem. Te vagy itt azért, hogy válaszolj az én kérdéseimre.}
-{214}{Mast202}{Miután megtudtam a Menedéket helyét, bevégzem a sorsomat! Sorsomat! Sorsomat! Sorsomat!}
-{215}{Mast203}{Azt hiszed, megsemmisíthetsz engem? Megsemmisíthetsz? Engem?}
-{300}{}{Döh!}
+
+{101}{Mast00}{Na, mi legyen? Csatlakozol az Egységhez vagy helyben megöljünk? Jer! Vagy meghalsz! Jer! Vagy meghalsz!}
+
+{102}{}{Sajnos nem gyõzhetek felettetek. Inkább csatlakoznék.}
+
+{103}{}{Ha képes vagy bebizonyítani számomra, hogy az Egységetek az emberiség elõtt álló legjobb lehetõség, segítek nektek.}
+
+{104}{}{Mi lenne, ha te halnál meg, én pedig kisétálnék?}
+
+{105}{}{Óh, haláleset az... lesz ma, de nem az enyém. Van egy pazar tervem...}
+
+{106}{}{Ögh. Táááv.}
+
+{107}{Mast01}{Kiváló! A tehetségednek nagy hasznát vesszük majd, de elõbb mondj el mindent a Menedékedrõl.}
+
+{108}{}{Miért?}
+
+{109}{}{Rendben. Mindent elmondok, amit tudni szeretnél.}
+
+{110}{Mast02}{Meg fogom hódítani és az összes még érintetlen embert mutánssá változtatom. Õk alkotják majd a seregemet, ami ahhoz kell, hogy az egész pusztaságba békét hozzak.}
+
+{111}{}{Már elnézést, de nekem nem tetszik ez a terv.}
+
+{112}{}{Kivihetõnek tûnik. Fogjunk bele!}
+
+{113}{Mast03}{Legyen hát. Megástad a saját sírodat. Sírodat! Sírodat!}
+
+{114}{Mast04}{Semmit nem kell bebizonyítanom neked! Bizonyítanom...}
+
+{115}{}{Az egód akarja elmondatni nekem. Az összes cselszövõben megvan az a fura késztetés, hogy mindent elmagyarázzon.}
+
+{116}{}{Addig nem tudhatom, hogy te képviseled a legjobb jövõt, amíg nem bizonyítasz.}
+
+{117}{Mast05}{Nagy merészség ez egy ilyen ingatag helyzetben lévõ emberhez képest. Én mindenesetre tiszteletben tartom az igényeidet.}
+
+{118}{}{Tehát mondd el!}
+
+{119}{Mast06}{Az Egység elhozza a legfõbb fajt. Legfõbb! Legfõbb! Képes lesz túlélni, sõt virágozni a pusztaságban. Amíg különbségek mutatkoznak, elszakadunk egymástól, mégpedig harc útján. Egy faj kell. Faj! Faj! Egy cél! Cél! Cél! Egy ember... hogy elébemenjünk a sorsunkank. Sorsunknak.}
+
+{120}{}{Az a faj persze a mutánsoké...}
+
+{121}{}{Remélem, a végén nem úgy fogunk kinézni, mint te.}
+
+{122}{Mast07}{Nyilvánvaló. A mai világban a mutánsok tudnak a legjobban boldogulni. Ki más? Tán a ghoulok? Ugyan... A humánok? Õk hozták ránk a nukleáris halált. A mutánsok kora következik. Mutánsok kora.}
+
+{123}{}{Az összes létezõ embert mutánssá akarjátok változtatni?}
+
+{124}{}{Micsoda vakbuzgóság.}
+
+{125}{}{És mi lesz azokkal, akik nem adják be a derekukat?}
+
+{126}{Mast08}{Igen, mindenkit, aki ellenáll. Azokat is, akikre szüksége van az Egységnek. A maradék tovább élheti életét, de az Egység ellenõrzése és védelme alatt. Nem szaporodhatnak, mivel õk a fajuk utolsó képviselõi.}
+
+{127}{}{Van egy kis probléma ezzel a "mesteri" tervvel.}
+
+{128}{}{Úgy tûnik, jól meg van ez szervezve. Csatlakoznék.}
+
+{129}{}{Szerintem te, sõt az összes követõd kimeríti a vadbarom fogalmát, és most azonnal véget vetek ennek.}
+
+{130}{Mast09}{És mi lenne az?}
+
+{131}{}{Nem számoltál velem! Most szépen véget vetünk az ámokfutásotoknak!}
+
+{132}{}{Valószínûleg képesek lesztek az egész világot meghódítani.}
+
+{133}{}{Egész véletlenül tudomásom van róla, hogy a mutánsaid mind meddõk.}
+
+{134}{Mast10}{A világ egyelõre nem érdekel. Miután a Menedéklakó társaidat is mutánssá változtattam, a seregem olyan erõs lesz, hogy bárki ellen kiállíthatom. Ne aggódj, téged nem fog érinteni! Érinteni! Érinteni!}
+
+{135}{Mast11}{Ostobaság! A FEV-2 vírus nem semmisíti meg a mutálódot egyedek szaporítószerveit.}
+
+{136}{}{Lehet, hogy régen nem így volt, de mostanság már igen.}
+
+{137}{}{Megbeszélted ezt már valamelyik mutánsoddal?}
+
+{138}{}{Talán a többletsugárzástól van.}
+
+{139}{Mast12}{Van erre bizonyítékod?}
+
+{140}{}{Persze, hogy van! Tessék...}
+
+{141}{}{Nekem elhiheted, úgy van, ahogy mondom.}
+
+{142}{}{Kérdezd ki a saját mutánsaidat!}
+
+{143}{Mast13}{Ez nem bizonyít semmit! Megfizetsz a szemtelenségedért. Megfizetsz!}
+
+{144}{}{Elõ kell halásznom az információt. Egy pillanat...}
+
+{145}{Mast14}{Elõ kell halásznom az információt. Egy pillanat... Már értem. Ügyes hamisítványt csináltál. Azért csináltad, hogy átverj engem! Bolond vagy! Engem!}
+
+{146}{}{Mi!? Nem értem, azt hittem, ez teljesen korrekt így!}
+
+{147}{}{Hazudsz! Dacolsz az eléd helyezett tényekkel!}
+
+{148}{Mast16}{Megfizetsz ezért! Megfizetsz! Ezért!}
+
+{149}{Mast17}{Ez nem lehet. Ez azt jelentené, hogy az egész munkám hiábavaló volt. Minden, amiért küzdöttem... bukás! Nem lehet. Nem. Nem. Nem.}
+
+{150}{}{Bocs, de nincs választási lehetõségetek. A fajotok kihal a jelenlegi generáció után.}
+
+{151}{}{Esetleg lehetne még tenni valamit. Talán ha szereznétek további tesztalanyokat.}
+
+{152}{Mast18}{Igen. A tesztalanyok. Azt hiszem, veled kezdünk. Veled! Veled!}
+
+{153}{Mast19}{Azt hiszem... nem sok értelme van a folytatásnak. Folytatásnak? A haladás és gyógyítás nevében véghezvitt tetteim semmivé foszlanak... Õrültség az egész. Már látom. Õrültség. Õrültség? Nincs remény. Távozz innen, amíg még van benned remény...}
+
+{154}{Mast20}{Azt hiszem, úgy teszek. Ne mozdulj!}
+
+{155}{Mast21}{A tudósaim biztosítottak, hogy semmi gond nincs. Erre mit mondasz? Mondasz! Mondasz!}
+
+{156}{}{Arra gondolsz, hogy kérdezzünk egy nõstény mutánst?}
+
+{157}{}{Kérdezd meg valamelyik Hadnagyodat.}
+
+{158}{}{Õk félnek tõled. Gondolod, hogy elmondanák az igazságot?}
+
+{159}{Mast22}{Egy pillanat. Õt nem lehet elérni. Valószínûleg meghalt, és azt is tudom, ki ölte meg! Megölte? Megölte!}
+
+{160}{Mast23}{Mindent tagad. Azt mondja, tudja, ki kezdte ezt terjesztgetni...}
+
+{161}{Mast24}{Azt hiszem, én tudom, hogy ki itt az igazi hazug. Hazug!}
+
+{162}{Mast25}{Hihetõ. Egy pillanat. Biztos vagy benne? Mi van a többi nõsténnyel? Nem lehet. Nem.}
+
+{163}{}{Sajnálom, de a fajotoknak annyi.}
+
+{164}{}{Elnézést, hogy ilyen kárörvendõ vagyok... Már elmondtam a lényeget!}
+
+{165}{Mast26}{Bizonyíték nélkül attól tartok, nem hiszek neked. Most akkor csatlakozol a seregemhez mutánsként vagy meghalsz! Meghalsz! Meghalsz!}
+
+{166}{}{Inkább meghalok, mint hozzád hasonló legyek.}
+
+{167}{}{Tudom, hogy ezzel minden eddigi életemet feladom, de csatlakozom.}
+
+{168}{Mast27}{A humorod most nem fog megmenteni. Elfogadod az ajánlatomat, vagy nem? Nem! Elfogadod!}
+
+{169}{}{Nem.}
+
+{170}{}{Rendben, még mindig jobb, mint meghalni...}
+
+{171}{Mast28}{A sugárzás nem hat ránk. A FEV vírus immunissá tett. Az érveid fabatkát sem érnek, és te sem.}
+
+{172}{Mast29}{Azt hiszem, tévedsz, de a biztonság kedvéért parancsot adok, hogy folytassanak kutatásokat ez ügyben. Persze csak miután veled dûlõre jutottam. Dûlõre. Dûlõre!}
+
+{173}{Mast30}{Egyetlen problémám van, és ez te vagy. Tehát dolgozol az Egységért vagy sem?}
+
+{174}{}{Nem én!}
+
+{175}{}{Dolgozom.}
+
+{176}{Mast31}{Szemtelenségükért büntetést fognak kapni.}
+
+{177}{}{Úgy érted, mind meghal?}
+
+{178}{}{Akkor most jött el az a pillanat, hogy meg kell állítanom téged!}
+
+{179}{Mast32}{Természetesen nem. A többségnek felajánljuk, hogy mutáns lehessen belõle. Azokat, akik visszautasítják ezt, sterilizáljuk, és szélnek eresztjük. Akik ellenállást fejtenek ki, kivégezzük.}
+
+{180}{}{Beteges kis hülyegyerek vagy. Itt az idõ, hogy lenyomjalak, mint a bélyeget.}
+
+{181}{}{Hmm, nem vagyok oda a gondolattól, hogy kivégezzenek... inkább csatlakozom.}
+
+{182}{Mast33}{Mindannyian részrehajlóak vagyunk, nemdebár? Mindannyian jobban törõdünk a sajátjainkkal, mint másokkal. Semmit nem változtunk, és még mondok valamit...}
+
+{183}{}{Ugyan mit?}
+
+{184}{Mast34}{Nem is fogunk megváltozni. Addig nem, amíg egy néphez tartozunk. Egy. Egy. Egy. Egy fajhoz. Egy. Egy. Egy. Az Egység lehetõvé teszi számunkra, hogy átlépjünk ezeken a földhözragadt beidegzõdéseken, és a fontos problémákra koncentrálhassunk. Ugye te is részt szeretnél ebbõl? Részt. Ugye?}
+
+{185}{}{Meggyõztél. Csatlakozom az Egységhez.}
+
+{186}{}{Részt szeretnék... a fejedbõl!}
+
+{187}{Mast35}{Mi az hogy! A mutánsok a nagy túlélõk! A mutánsok újjá fogják építeni ezt a világot! És csakis mutánsként élhetsz benne! Élhetsz. Halhatsz!}
+
+{188}{}{Élet!}
+
+{189}{}{Halál!}
+
+{190}{}{Te csak a mutánsaiddal meg az Egységgel törõdsz.}
+
+{191}{Mast36}{Nem vagyok cselszövõ. Halvány fogalmad sincs, hogy az én személyem vagy az Egység mit is takar valójában.}
+
+{192}{}{Akkor meséld el nekem, mit is takarsz valójában!}
+
+{193}{}{Cselszövõ vagy és kész, csak nem mered bevallani magadnak.}
+
+{194}{Mast37}{Nem kell semmit bizonygatnom számodra. Ha a logikádat használod, rájössz, hogy nem vagyok cselszövõ. Reménytelen lenne, ha el akarnám magyarázni. }
+
+{195}{Mast38}{Valóban? Kérlek, világosíts fel, miféle tervrõl van szó?}
+
+{196}{}{Fel fogok robbantani egy nukleáris bombát ebben a Menedékben. Hamarosan jön a bumm, és mindannyian pokolra juttok!}
+
+{197}{}{Megöllek szépen, úgy viszonylag nehéz lesz bármit is folytatni, igazam van?}
+
+{198}{}{Meggyõztem az Acél Testvériségét, hogy szállják meg ezt a helyet, ha fogságba esem, és nem kerülök elõ idõben. Bármelyik pillanatban itt lehetnek.}
+
+{199}{Mast39}{Lehet, hogy igazat beszélsz. Nemigen számít már, de szabadon engedlek.}
+
+{200}{Mast40}{Hazudsz, mint a vízfolyás! Ez volt az utolsó hazugságod az életben. }
+
+{201}{Mast41}{Egy pillanat, leellenõrzöm a szavaid hitelességét. Akár még igazat is mondhatsz. Õrség! Vigyétek ezt az embert a reaktormaghoz! Essünk túl a problémán, mielõtt túl késõ lenne.}
+
+{202}{Mast42}{Kétlem, hogy akár a FEV is segíthetne rajtad. Miért is járatom a szám... Kétlem, hogy valaha is értenéd ezt az egészet...}
+
+{203}{Mast43}{Te minden bizonnyal viccelsz. }
+
+{204}{Mast44}{Elérkeztél a türelmem határára. Tehát csatlakozol az Egységhez, vagy nem? Csatlakozol. Nem!}
+
+{205}{}{Csatlakozom.}
+
+{206}{}{Nem.}
+
+{207}{Mast45}{Helyes. Akkor itt helyben meghalsz!}
+
+{208}{Mast46}{Hatástalanítottad a berendezést. Kiváló. Van valami mondanivalód, mielõt megöllek?}
+
+{209}{}{Igen, immár csatlakozhatom hozzátok?}
+
+{210}{}{Én még holtomban is jobban fogok kinézni, mint te most.}
+
+{211}{Mast47}{Nem. Nem. Nem. Nem.}
+
+{212}{Mast200}{Én a Mester vagyok. Nem érdemelsz választ tõlem.}
+
+{213}{Mast201}{Nem azért vagyok itt, kérdezgethess tõlem. Te vagy itt azért, hogy válaszolj az én kérdéseimre.}
+
+{214}{Mast202}{Miután megtudtam a Menedéket helyét, bevégzem a sorsomat! Sorsomat! Sorsomat! Sorsomat!}
+
+{215}{Mast203}{Azt hiszed, megsemmisíthetsz engem? Megsemmisíthetsz? Engem?}
+
+{300}{}{Döh!}
 
 # Master Tell-Me-Abouts generic response
 
 {980}{Mast200}{Én a Mester vagyok. Nem érdemelsz választ tõlem.}
 
 #
-# Master Tell-Me-Abouts
-#
+
+# Master Tell-Me-Abouts
+
+#
 
 {1000}{}{Egyseg}
-{1001}{}{Mester}
-
+
+{1001}{}{Mester}
+
 
 {1100}{Mast200}{Én a Mester vagyok. Nem érdemelsz választ tõlem.}
-{1101}{Mast201}{Nem azért vagyok itt, hogy kérdezgethess tõlem. Te vagy itt azért, hogy válaszolj az én kérdéseimre.}
+
+{1101}{Mast201}{Nem azért vagyok itt, hogy kérdezgethess tõlem. Te vagy itt azért, hogy válaszolj az én kérdéseimre.}
 

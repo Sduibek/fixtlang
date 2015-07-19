@@ -20,7 +20,7 @@
 #ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
 {980}{}{O tom já nic nevím.}
 {981}{}{Je mi líto. Nemám ponìtí.}
-{982}{}{O tom nic nevím.}
+{982}{}{O tom nic nevím.}
 
 #ÿDESERT1.MAP (1000)
 #ÿDESERT2.MAP (1600)
@@ -84,7 +84,7 @@
 #ÿVAULT13.MAP
 #ÿVault 13 Tell-Me-Abouts
 #
-{4600}{}{Vault}
+{4600}{}{Vault}
 {4601}{}{vodni}
 {4602}{}{spravce}
 {4603}{}{Cip}
@@ -517,7 +517,7 @@
 {18303}{}{Rippers jsou dìdiènì zatížení. Mají opevnìnou budovu s mnoha pastmi okolo, dovnitø zatahují vìznì, které muèí a zabíjejí.}
 {18304}{}{Blades jsou známí svými vibro-noži. Jsou to odvìcí nepøátelé Rippers. Jejich vùdce je žena jménem Razor.}
 {18305}{}{Býval to gang, ale usídlili ve skladišti na severu a zaèali obchodovat se zbranìmi.}
-{18306}{}{Hub je centrem øemesla a obchodu. Mají dokonce spoleènosti, které vyrábìjí vìci. je to na východ od nás.}
+{18306}{}{Hub je centrem øemesla a obchodu. Mají dokonce spoleènosti, které vyrábìjí vìci. je to na východ od nás.}
 #{18306 alternate If hydroponic farms aren't fixed:}{Prodáváme do Hubu náboje.}
 {18307}{}{Junktown je støednì velké mìsto na východ odsud a pøímo na sever z Hubu.}
 {18308}{}{Je mi líto, s tím ti nepomùžu.}
@@ -594,7 +594,7 @@
 {18802}{}{katedrala}
 {18803}{}{Rippers}
 {18804}{}{blades}
-{18805}{}{gunruneri}
+{18805}{}{gunruneri}
 {18806}{}{Hub}
 {18807}{}{Junktown}
 {18808}{}{vodni cip}

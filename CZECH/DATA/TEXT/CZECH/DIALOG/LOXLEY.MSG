@@ -127,7 +127,7 @@ víš?  A to ani nemluvím o všech tìch nesmyslnıch povìrách, které se vznáší ve vz
 {209}{LOX_38C}{Jen se ptej, jen se ptej.}
 {210}{LOX_39}{Ne. U jsi se zeptal. Povauj se za klikaøe. Sbohem.}
 {211}{lox_40}{Nic, co by tì zajímalo.}
-{212}{}{Zkus mì.}
+{212}{}{Zkus mì.}
 {213}{}{OK, dík. Mohu se zeptat ještì na pár vìcí?}
 {214}{LOX_41}{Um, nic. Jenom celé mìsto je na nohou kvùli tìm zmizelım karavanám.  To je vše.}
 {215}{}{Dìkuji. Mohu se zeptat ještì na pár vìcí?}
@@ -144,7 +144,8 @@ A za pomoc, kterou jim dáváme, nám prakticky leí u nohou.}
 {225}{LOX_48}{Ty znáš ten pøíbìh!  Já vìdìl, e je na tobì nìco zvláštního. Mùj dìda mi ho vyprávìl, ale u je to hroznì dávno.
 To byl ale zlodìj. No, nezapomínejme se. Ještì nìco potøebuješ vìdìt?}
 {226}{LOX_51}{Nic moc jiného, ne zmizelé karavany. Vlastnì, poèkej. Jeden z mıch hochù se vèera vrátil a skoro celı hnul radiací. Zkurvená práce. Asi se pøíliš pøiblíil Starému Horkému Fleku.}
-{227}{LOX_53}{Bereme bohatım, jednoduše.  Dáváme asi tak 10-20% chudım ve Starém Mìstì.Cech si nechá dvacet a zbytek jde zlodìji. A nikdo není škodnı.}
+{227}{LOX_53}{Bereme bohatım, jednoduše.  Dáváme asi tak 10-20% chudım ve Starém Mìstì.
+Cech si nechá dvacet a zbytek jde zlodìji. A nikdo není škodnı.}
 {228}{LOX_54}{Jsme banda zlodìjù! Co sis myslel?}
 {229}{LOX_55A}{Mùeš si to ovìøit u kupcù, ale tvùj èas by si urèitì mnohem lépe vyuil nìjakou noèní prácièkou. Ptát se na Páraèe, nebo dokonce následovat karavanu, je podle mì naprostı nesmysl.}
 {230}{LOX_55B}{Jak to sakra mám vìdìt? Vypadám jako kupec?}
@@ -244,14 +245,14 @@ by ses mìl dávat dohromady.}
 {1106}{LOX_72}{Mají malı obchod v centru, ale nedá se jim vìøit.  Vìtšinou se skrıvají v tom jejich podìlaném skladu. Prodávají nìjaké šémy a medikity a o dost levnìji, ne Dìti Katedrály.}
 {1107}{LOX_73}{Asi jediná spoleèná vìc byla, e zmizely hned po nìkolika  mílích.}
 {1108}{LOX_74}{Kriminálníci. Naprostí kriminálníci. Vymaèkávají z mìsta všechen ivot. Far Go Traders, Crimson Caravan a nejvìtší banda špinavıch parchantù - Kupci s Vodou. Je jich spousta.}
-{1109}{lox_75}{Je to ve støedu mìsta.}
+{1109}{lox_75}{Je to ve støedu mìsta.}
 {1110}{LOX_76}{Na to není co øíci. Veèer strašit dìti pøíšerou, která ije na severu a iví se èerstvım masem zlobivıch dìtí.}
 {1111}{LOX_77}{Snad kadı den nìjaká zmizí, lidé se bojí vycházet bez ochrany.}
 {1112}{LOX_78}{Asi pøed tøemi lety se jeden kupec vydal smìrem na jih hledat nová mìsta. Vrátil se s vypadanımi vlasy a zuby a mlel nìco o svítící zemi. Kdo ví, moná tam pøed válkou bylo nìco zvláštního}
 {1113}{LOX_79}{Vìtšina lidí, kteøí tu pracují pro Kupce, ije v tak chatrnıch domech, e ani nestíní slunci, zatímco ti parchanti si pohodlnì ijí ve svıch rezidencích v Pahorcích. Je mi z toho na blití.}
 {1114}{LOX_80}{Zatracenı baráky. Zaplacenı krví chudıch.}
 {1115}{LOX_81}{ A se dìje, co se dìje, Boba najdeš vdycky v samém centru Trhu, jak prodává kousky leguánù.}
-{1116}{LOX_82}{To je  divná banda. Stráví celé dny hovory o jejich Temném bohu, jako kdyby to byla nejlepší vìc na svìtì hned po dírách v kapsách kupcù. Umìjí docela levnì uzdravovat. Najdeš je v nemocnici ve mìstì.}
+{1116}{LOX_82}{To je  divná banda. Stráví celé dny hovory o jejich Temném bohu, jako kdyby to byla nejlepší vìc na svìtì hned po dírách v kapsách kupcù. Umìjí docela levnì uzdravovat. Najdeš je v nemocnici ve mìstì.}
 {1117}{LOX_83}{Další banda pošahancù. Sedí ve své èerné pevnosti, a jenom èekají na další válku.}
 {1118}{LOX_84}{Tady bacha. Rippeøi a Blades tì rádi rozpáøou jen tak pro srandu. Zatímco Adytum prostì chce alespoò pøeít. Jestli se tam budeš potulovat a narazíš na Blades, pozdravuj ode mne Razor. Myšlenka na ni my pøináší zpìt spoustu vzpomínek.}
 {1119}{LOX_85}{To jsou ta hovada z Boneyardu. Celá léta bojovali a u neumí nic jiného. Fakt vymaštìnı.}

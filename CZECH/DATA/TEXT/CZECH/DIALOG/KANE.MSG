@@ -216,7 +216,7 @@ pouze pro tvé uši.}
 lidi lou. Jseš jeden z mála, co slyšel tuhle radu. Tak se jí dr.}
 {260}{}{Mu akce. To se mi líbí, i kdy to nemáš v hlavì v poøádku.}
 {261}{}{Akèní ena. To se mi líbí, i kdy to nemáš v hlavì v poøádku.}
-{262}{}{Jo, co chceš. Doufám, e to stojí za to.}
+{262}{}{Jo, co chceš. Doufám, e to stojí za to.}
 {263}{}{Jestli se mnou chceš mluvit, tak schovej ten kvér.}
 {264}{}{Máš problém s pamìtí? Dej pryè tu bouchaèku, ne se stane neštìstí!}
 {265}{}{Tvá zbraò?}
@@ -286,7 +286,8 @@ skonèíš se svım malım vyhlazováním, vra se sem. A ještì nìco. Ani nemysli na
 to, e bys šel na policii. To je ta nejhorší chyba, co mùeš udìlat. Jestli 
 mùeš, sna se bìhem práce neupoutat jejich pozornost. Zákon nìkdy bolí. 
 [Kane ti dává 500 víèek.]}
-{302}{}{Dobrá práce. Tady jsou skripta ohlednì dodìlání tvé první práce. [Kane ti podává 2500 babek].}
+{302}{}{Dobrá práce. Tady jsou skripta ohlednì dodìlání tvé první práce. [Kane 
+ti podává 2500 babek].}
 {303}{}{Dobrá práce s tím obchodníkem. Oèekávám stejné vısledky i pøi tvém 
 dalším úkolu. Tady je poslední platba za tu poslední práci a záloha na další. 
 (Kane ti podává 3500 babek). Jsem si jist, e u to víš, ale Dìti Katedrály jsou 
@@ -405,7 +406,8 @@ chce prachy, tak jí vyøiï, a nakluše osobnì!}
 (rozhlédne se ze strany na stranu) pìkné. A teï - co chceš?}
 {397}{}{Co takhle rande?}
 {398}{}{Oh, nic. Sbohem.}
-{399}{}{Ano, myslím ne. Chci øíct, e ne, e ano? Já... (Kane najednou praští jednu strá pøes èelist.) Èemu se tlemíš! (Pak se podívá na tebe.) A co ty tu 
+{399}{}{Ano, myslím ne. Chci øíct, e ne, e ano? Já... (Kane najednou praští 
+jednu strá pøes èelist.) Èemu se tlemíš! (Pak se podívá na tebe.) A co ty tu 
 poøád chceš!}
 {400}{}{(Kane tì ignoruje) Co chceš?}
 {401}{}{Jak se mají dìti?}
