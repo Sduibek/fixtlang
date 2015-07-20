@@ -208,7 +208,7 @@
 #
 {620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
 {621}{}{%s získáváš %d zkuš. bodù.}
-{622}{}{Za poražení tvých nepøátel}ÿÿÿ #622-626 prepend to line 621
+{622}{}{Za poražení tvých nepøátel}    #622-626 prepend to line 621
 {623}{}{Za zabití tvých protivníkù }
 {624}{}{Vyhrál jsi v souboji a tím }
 {625}{}{Za rozdrcení nepøátel }
@@ -223,7 +223,7 @@
 {653}{}{[Zpátky]}
 {654}{}{Zpátky} # changed number from 653
 {655}{}{Jdi na to} #new
-{656}{}{Err...}ÿÿÿÿ new
+{656}{}{Err...}     #new
 {660}{}{Nic nevidíš.}
 {661}{}{Pøíliš daleko.}
 

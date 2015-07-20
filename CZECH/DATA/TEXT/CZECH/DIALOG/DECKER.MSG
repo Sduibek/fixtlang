@@ -49,12 +49,10 @@
 {148}{DECK_17}{V centru mìsta je Tržištì, obklopené nìkolika ètvrtìmi. Na západì jsou to Pahorky, Staré mìsto je zase na východì.}
 {149}{}{Co je to za ètvrti?}
 {150}{}{Díky za informace. Mohu se ještì zeptat?}
-{151}{DECK_18}{
-Jsi v Maltese Falconovi. Je tu ještì krámek Všechno-v-Jednome, the Armory, Friendly Lending Company, policie a, bohužel, nemocnice patøící Dìtem Katedrály.}
+{151}{DECK_18}{Jsi v Maltese Falconovi. Je tu ještì krámek Všechno-v-Jednome, the Armory, Friendly Lending Company, policie a, bohužel, nemocnice patøící Dìtem Katedrály.}
 {152}{}{Vypadá to, že Dìti nemáš moc v lásce, o co jde?}
 {153}{}{Díky. Mohu se ještì na nìco zeptat?}
-{154}{DECK_19}{
-Oni se . . . rozlézají. Nechme to být, ano?}
+{154}{DECK_19}{Oni se . . . rozlézají. Nechme to být, ano?}
 {155}{}{Jasnì. Mohu se ještì ptát?}
 {156}{DECK_20}{Nejsem turistický prùvodce. Jdi si to zjistit sám.}
 {157}{}{Mohu se ještì na nìco zeptat?}
@@ -80,8 +78,7 @@ Oni se . . . rozlézají. Nechme to být, ano?}
 {176}{DECK_29}{Jen drobnost. Zabij hlavní knìžku, Jain. Její smrt bude znamenat konec tìchto malých otravù. Bereš?}
 {177}{}{Samozøejmì.}
 {178}{}{Ale to by bylo nemorální!}
-{179}{DECK_30}{
-Zaèínám tì mít vážnì rád. Tentokrát je 1000 pøedem a 4000 po akci. A vìø mi, poznám, až to bude hotovo.}
+{179}{DECK_30}{Zaèínám tì mít vážnì rád. Tentokrát je 1000 pøedem a 4000 po akci. A vìø mi, poznám, až to bude hotovo.}
 {180}{}{Dobøe.}
 {181}{DECK_31}{Promluv si na odchodu s Kanem. Seznámí tì s detaily.}
 {182}{DECK_32}{a zabití kupce snad nebylo?}
@@ -143,15 +140,11 @@ Zaèínám tì mít vážnì rád. Tentokrát je 1000 pøedem a 4000 po akci. A vìø mi, poz
 # for the case of the player-character feminine ("my friend" will be feminine).
 #
 
-{232}{DECK_26}{Jak rád tì zase vidím. Mám pro tebe další práci.
- Máš zájem?}
-{233}{DECK_26}{Jak rád tì zase vidím. Mám pro tebe další práci.
- Máš zájem?}
+{232}{DECK_26}{Jak rád tì zase vidím. Mám pro tebe další práci. Máš zájem?}
+{233}{DECK_26}{Jak rád tì zase vidím. Mám pro tebe další práci. Máš zájem?}
 
-{234}{DECK_34}{A já ti tolik vìøil!
- Ale nemùžu tì nechat varovat Dìti Katedrály. Kane, odstraò tuto osobu a nemusíš brát ohled na hluk.}
-{235}{DECK_34}{ A já ti tolik vìøil!
- Ale nemùžu tì nechat varovat Dìti Katedrály. Kane, odstraò tuto osobu a nemusíš brát ohled na hluk.}
+{234}{DECK_34}{A já ti tolik vìøil! Ale nemùžu tì nechat varovat Dìti Katedrály. Kane, odstraò tuto osobu a nemusíš brát ohled na hluk.}
+{235}{DECK_34}{ A já ti tolik vìøil! Ale nemùžu tì nechat varovat Dìti Katedrály. Kane, odstraò tuto osobu a nemusíš brát ohled na hluk.}
 
 # Decker Tell-Me-Abouts generic responses
 {980}{DECK_73}{To není dùležité.}

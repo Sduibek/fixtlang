@@ -1,6 +1,6 @@
 {100}{}{Vidíš Loxleye, šéfa Cechu zlodìjù.}
 {101}{LOX_0}{To je dárek od mamky a taky. Vlastnì pár generací pøed nimi. Líbí se ti?}
-{102}{}{Sluší ti.} 
+{102}{}{Sluší ti.}
 {103}{}{Ne, tlaèí mì do uší.}
 {104}{LOX_0A}{Proè, dìkuji. Mám ještì co vylepšovat. Ale dosti toho. Loxley je moje jméno. A tvoje?}
 {105}{}{Jsem }
@@ -27,25 +27,21 @@
 {123}{}{Jakému?}
 {124}{}{To zní divoce . . . jak ho mám udìlat?}
 {125}{}{Uh . . . co byl první test?}
-{126}{LOX_4}{Vcelku jednoduše, vskutku. Dokáeš, e jsi zlodìj.  Uspìješ, a svìt je tvùj! Jestli ne, u nás neuvidíš.
-Moná jen na okamik zahlédneš. Ale to poslední je vıhruka.}
+{126}{LOX_4}{Vcelku jednoduše, vskutku. Dokáeš, e jsi zlodìj.  Uspìješ, a svìt je tvùj! Jestli ne, u nás neuvidíš.Moná jen na okamik zahlédneš. Ale to poslední je vıhruka.}
 {127}{}{Co je to za test?}
 {128}{}{Chcete to tu celé pøestìhovat, nebo se mì pokusit zabít?}
 {129}{}{Vy mi vyhroujete?}
-{130}{LOX_5}{Je to jednoduché.  V Pahorcích najdeš domov Darena Hightowera; poøádnì napìchovanı a zralı pro vykradení.
-Jsi pøipraven na ivot! Pøijmeš tu vızvu?}
+{130}{LOX_5}{Je to jednoduché.  V Pahorcích najdeš domov Darena Hightowera; poøádnì napìchovanı a zralı pro vykradení.Jsi pøipraven na ivot! Pøijmeš tu vızvu?}
 {131}{}{Jsem pøipraven!}
 {132}{}{Kurva, ne!}
 {134}{LOX_6F}{To je duch, krásko!}
 {133}{LOX_6M}{To je duch, kámo!}
-{135}{LOX_6B}{Domluv se s Jasmínou ve vedlejší místnosti. Ona ti øekne detaily a pøedá mapu a pár vìcí, které by ti mohly pomoct po cestì.
-Ale pamatuj si, jestli jenom pomyslíš na to, e bys nás udal poldùm, budeš historie døív, ne pøijedou. Ale dosti smutku. Mìj se a hodnì štìstí, pa pá!}
+{135}{LOX_6B}{Domluv se s Jasmínou ve vedlejší místnosti. Ona ti øekne detaily a pøedá mapu a pár vìcí, které by ti mohly pomoct po cestì.Ale pamatuj si, jestli jenom pomyslíš na to, e bys nás udal poldùm, budeš historie døív, ne pøijedou. Ale dosti smutku. Mìj se a hodnì štìstí, pa pá!}
 {136}{LOX_7}{Tak proè tu, kurva jsi? Èumíš na památky? Kvùli atmosféøe? Mejm krásnejm voèím?}
 {137}{}{Ne, pøišel jsem se zeptat na pár vìcí.}
 {138}{}{Ne ty voèi to fakt nebudou.}
 {139}{}{Máš pravdu, chci vstoupit do Cechu.}
-{140}{LOX_8}{No to je ono? Pár otázek!  Jsi buï neskuteènì odvánej, nebo totální kripl.
-Tak dìlej, ptej se!... A pak ti ukáeme dveøe, áno?}
+{140}{LOX_8}{No to je ono? Pár otázek!  Jsi buï neskuteènì odvánej, nebo totální kripl.Tak dìlej, ptej se!... A pak ti ukáeme dveøe, áno?}
 {141}{LOX_9}{To si dìláš prdel! Na vaøenou nudli mì neutáhneš! Vypadni, póvle!}
 {142}{LOX_10}{To je ponìkud divnı postoj! Ale jsme tu všichni pøátelé, ne?}
 {143}{}{Nevidím dùvod.}
@@ -60,13 +56,11 @@ Tak dìlej, ptej se!... A pak ti ukáeme dveøe, áno?}
 {152}{}{Jasnì.}
 {153}{}{Not.}
 {154}{LOX_16}{Oh, ne. Zase ty zbabìleckı kecy. Tolik se bojím. ivot je tak krutı. Loxley, radìji, ne zaít jedinı moment triumfu, budu baba po celı ivot. Zase další posera. Ven!}
-{155}{LOX_17}{Á, tobì to ještì nedošlo?  První test je dostat se sem!  
-To je dùvod, proè o tobì vùbec uvauju.}
+{155}{LOX_17}{Á, tobì to ještì nedošlo?  První test je dostat se sem!  To je dùvod, proè o tobì vùbec uvauju.}
 {156}{}{Dobøe. Udìlám, co chceš!}
 {157}{}{Jakı je další test?}
 {158}{}{Já se jen potøebuju zeptat na pár vìcí.}
-{159}{LOX_18}{Ha ha ha.  Obdivuhodné. Zatkneš nás? 
-A mezi námi, jak by to vlastnì chtìl provést?}
+{159}{LOX_18}{Ha ha ha.  Obdivuhodné. Zatkneš nás? A mezi námi, jak by to vlastnì chtìl provést?}
 {160}{}{Prostì pojïte spoøádanì a nikomu se nic nestane.}
 {161}{}{Hmm, moná vás protentokrát nechám.}
 {162}{LOX_21}{Co je to pro mne?  Je to fakt jednoduché. Øekni mi své jméno nebo ti ukáeme dveøe.}
@@ -105,8 +99,7 @@ A mezi námi, jak by to vlastnì chtìl provést?}
 {189}{LOX_29}{Ha!  Ha!  Dobrá práce! Gratuluju. Jseš èlenem slavného Cechu zlodìjù. Zajdi za Jasmínou, vìci si mùeš odloit tady, ano?}
 {190}{LOX_30}{Oh, jak zábavné. Musím ti opravdu øíct, e se mi tenhle druh humoru pøíliš nezamlouvá. Vychechtávka. Ten druh udìláme-z-loxleye-debila.  Víš, co ti øeknu? Máš poslední šanci sem pøinést ten náhrdelník.}
 {191}{LOX_31}{Ty jsi prostì kompletní voser, co?}
-{192}{LOX_32}{Stupido! Oh. Jsem tak zklamanı, e to takhle cítíš
-Náš malı Cech se bude muset obejít bez tvé skvìlé pøítomnosti. Óóó, jak smutné.  Jasmíno, dveøe pro našeho hosta. A ádné návraty, áno?}
+{192}{LOX_32}{Stupido! Oh. Jsem tak zklamanı, e to takhle cítíšNáš malı Cech se bude muset obejít bez tvé skvìlé pøítomnosti. Óóó, jak smutné.  Jasmíno, dveøe pro našeho hosta. A ádné návraty, áno?}
 {193}{LOX_33}{Tak co tady, kurva drát, dìláš? Kšc! Jdi pryè. Vra se jedinì s náhrdelníkem.}
 {194}{}{Je tu nìco zajímavého?}
 {195}{}{Øekni mi nìco o Hubu.}
@@ -116,8 +109,7 @@ Náš malı Cech se bude muset obejít bez tvé skvìlé pøítomnosti. Óóó, jak smutné. 
 {199}{LOX_35}{Celé mìsto tropí povyk kvùli tìm zatracenım karavanám. Jaká škoda. Víš, kazí to Cechu kšefty.}
 {200}{}{Kdo si myslíš, e by mohl bıt zodpovìdnı?}
 {201}{}{Díky. Mùu se tì ještì na nìco zeptat?}
-{202}{LOX_36}{Nevím, ale doufám, e na to brzy pøijdou. Lidi jsou nervózní, a to naši práci stìuje,
-víš?  A to ani nemluvím o všech tìch nesmyslnıch povìrách, které se vznáší ve vzduchu.}
+{202}{LOX_36}{Nevím, ale doufám, e na to brzy pøijdou. Lidi jsou nervózní, a to naši práci stìuje,víš?  A to ani nemluvím o všech tìch nesmyslnıch povìrách, které se vznáší ve vzduchu.}
 {203}{}{Jaké povìry?}
 {204}{}{Díky. Mùu se zeptat ještì na nìco?}
 {205}{LOX_37}{Ále, takové kraviny, jako e Páraèi chytli celou karavanu a vzali si ji na odpolední èaj do svého doupìte.}
@@ -136,16 +128,13 @@ víš?  A to ani nemluvím o všech tìch nesmyslnıch povìrách, které se vznáší ve vz
 {218}{}{Kupci jsou pìknej póvl, co?}
 {219}{}{To zní, jako e máš Deckera fakt rád.}
 {220}{LOX_43A}{Další otázku, prosím.}
-{221}{LOX_44}{Pravda!  To je, proè byl cech zaloen.  Máš tady spoustu bohatejch sráèù, kteøí vyírají chudé. A ti chudí èekají na hrdinu.
-A za pomoc, kterou jim dáváme, nám prakticky leí u nohou.}
+{221}{LOX_44}{Pravda!  To je, proè byl cech zaloen.  Máš tady spoustu bohatejch sráèù, kteøí vyírají chudé. A ti chudí èekají na hrdinu.A za pomoc, kterou jim dáváme, nám prakticky leí u nohou.}
 {222}{}{Co je špatného na vydìlávání penìz?}
 {223}{}{Pøesnì jako Robin Hùd.}
 {224}{LOX_47}{Co je na tom špatného?!  Ty mròavá...Zmılil jsem se v tobì? Jasmíno, uka tomuhle kupeckému liprdelkovi dveøe!}
-{225}{LOX_48}{Ty znáš ten pøíbìh!  Já vìdìl, e je na tobì nìco zvláštního. Mùj dìda mi ho vyprávìl, ale u je to hroznì dávno.
-To byl ale zlodìj. No, nezapomínejme se. Ještì nìco potøebuješ vìdìt?}
+{225}{LOX_48}{Ty znáš ten pøíbìh!  Já vìdìl, e je na tobì nìco zvláštního. Mùj dìda mi ho vyprávìl, ale u je to hroznì dávno.To byl ale zlodìj. No, nezapomínejme se. Ještì nìco potøebuješ vìdìt?}
 {226}{LOX_51}{Nic moc jiného, ne zmizelé karavany. Vlastnì, poèkej. Jeden z mıch hochù se vèera vrátil a skoro celı hnul radiací. Zkurvená práce. Asi se pøíliš pøiblíil Starému Horkému Fleku.}
-{227}{LOX_53}{Bereme bohatım, jednoduše.  Dáváme asi tak 10-20% chudım ve Starém Mìstì.
-Cech si nechá dvacet a zbytek jde zlodìji. A nikdo není škodnı.}
+{227}{LOX_53}{Bereme bohatım, jednoduše.  Dáváme asi tak 10-20% chudım ve Starém Mìstì.Cech si nechá dvacet a zbytek jde zlodìji. A nikdo není škodnı.}
 {228}{LOX_54}{Jsme banda zlodìjù! Co sis myslel?}
 {229}{LOX_55A}{Mùeš si to ovìøit u kupcù, ale tvùj èas by si urèitì mnohem lépe vyuil nìjakou noèní prácièkou. Ptát se na Páraèe, nebo dokonce následovat karavanu, je podle mì naprostı nesmysl.}
 {230}{LOX_55B}{Jak to sakra mám vìdìt? Vypadám jako kupec?}
@@ -159,8 +148,7 @@ Cech si nechá dvacet a zbytek jde zlodìji. A nikdo není škodnı.}
 {238}{LOX_63}{Co jsi, blbı nebo hluchı?  Øíkal jsem...}
 {239}{LOX_64}{Nerad se opakuji.}
 {240}{LOX_65}{Ugh!  To nemá smysl. ádné mnoství ran nedostane nic do tvé duté hlavy.}
-{241}{LOX_66}{Ne. Decker je slizák. Má celé mìsto v kapse. Poskytuje ochranu kupcùm, zatímco je štve proti sobì. To není èlovìk, se kterım
-by ses mìl dávat dohromady.}
+{241}{LOX_66}{Ne. Decker je slizák. Má celé mìsto v kapse. Poskytuje ochranu kupcùm, zatímco je štve proti sobì. To není èlovìk, se kterımby ses mìl dávat dohromady.}
 {242}{LOX_67}{Je to prodavaè zbraní na severu Starého Mìsta. Pìknì nebezpeènı maník, nìkteré z jeho zbraní jsou fakt smrtonosné.}
 {243}{LOX_68}{Moc nás nemá rád.}
 {244}{LOX_69}{Harold? Na to, e je ghúl, je docela v pohodì. ije na jiním konci mìsta.}
@@ -236,8 +224,7 @@ by ses mìl dávat dohromady.}
 {1033}{}{Stare mesto}
 {1034}{}{Stary}
 
-{1100}{LOX_66}{Ne.  Decker je slizák.  Má celé mìsto v kapse.  Poskytuje ochranu kupcùm, zatímco je štve proti sobì. To není èlovìk, se kterım
-by ses mìl dávat dohromady.}
+{1100}{LOX_66}{Ne.  Decker je slizák.  Má celé mìsto v kapse.  Poskytuje ochranu kupcùm, zatímco je štve proti sobì. To není èlovìk, se kterımby ses mìl dávat dohromady.}
 {1101}{LOX_67}{Prodává zbranì v severní èásti Starého Mìsta. Je to dost nebezpeènı maník a jeho zbranì jsou fakt smrtonosné.}
 {1102}{LOX_68}{Nemá nás zrovna v lásce.}
 {1103}{LOX_69}{Harold?  Je docela v pohodì, na ghúla. ije v jiní èásti.}

@@ -22,42 +22,33 @@
 {121}{}{Zaslechl jsem nìco o holodiscích, jak je mùu naèíst?}
 {122}{}{Jak se ochráním pøed otravou radiací?}
 {123}{}{Co zpùsobuje všechny mutace?}
-{124}{Vree18}{Promluv si s rytíøi. Øekni jim, aby ti ukázali poslední model laserové pistole,
- kterou jsem navrhnula.}
+{124}{Vree18}{Promluv si s rytíøi. Øekni jim, aby ti ukázali poslední model laserové pistole, kterou jsem navrhnula.}
 {125}{}{Díky!}
 {126}{}{Mám další otázku . . .}
 {127}{Vree19}{Ještì nejsi schopen správnì pouívat svaté myšlenky.}
-{128}{Vree21}{Pro ètení diskù pouij Pip-boye. Vlo disk do ètecího zaøízení a jestlie máš
- dostateèné vìdomosti o poèítaèích, budeš schopen disk naèíst.}
+{128}{Vree21}{Pro ètení diskù pouij Pip-boye. Vlo disk do ètecího zaøízení a jestlie máš dostateèné vìdomosti o poèítaèích, budeš schopen disk naèíst.}
 {129}{}{Kde mùu získat vìdomosti o poèítaèích?}
 {130}{}{Díky.}
 {131}{}{Mùu se tì zeptat na další otázku?}
-{132}{Vree22}{Bratrstvo nabízí nìkolik základních kursù, které jsou pro tebe vhodné.
- Tady, ukáu ti to.}
+{132}{Vree22}{Bratrstvo nabízí nìkolik základních kursù, které jsou pro tebe vhodné. Tady, ukáu ti to.}
 {133}{Vree23}{Pouij tenhle terminál a nauèíš se základní vìci o ovládání poèítaèù.}
 {134}{Vree24}{Ty nejsi pøíliš chytrı, e jo? Zaøízení pro ètení holodiskù máš na ruce.}
-{135}{Vree25}{Budeš potøebovat nìjaké antiradiaèní léky. Pár jich mám. Kdy si myslíš, e
- jsi blízko radiace, okamitì si je vezmi.}
+{135}{Vree25}{Budeš potøebovat nìjaké antiradiaèní léky. Pár jich mám. Kdy si myslíš, e jsi blízko radiace, okamitì si je vezmi.}
 {136}{}{Dík!}
 {137}{}{Mùu se tì zeptat na nìco jiného?}
 {138}{Vree26}{Nepij svìtélkující vodu.}
-{139}{Vree27}{Pøes pouívání nukleárních a biogenetickıch zbraní bìhem války je
- pøekvapující, e tu nemáme víc mutací. Kadopádnì, pokud se budeme dret zpátky,
- všechno bude v poøádku.}
+{139}{Vree27}{Pøes pouívání nukleárních a biogenetickıch zbraní bìhem války je pøekvapující, e tu nemáme víc mutací. Kadopádnì, pokud se budeme dret zpátky, všechno bude v poøádku.}
 {140}{}{Proè to øíkáš?}
 {141}{}{Máš pravdu. Bude to dobré.}
 {142}{}{Mám jinou otázku . . .}
-{143}{Vree28}{Všichni mutanti, které jsem zkoumala byli sterilní - nemohou se páøit s jinım
- ivoèichem. Jestlie zneškodníme zdroje mutací, budeme schopni jednoduše mutanty pøeít.}
+{143}{Vree28}{Všichni mutanti, které jsem zkoumala byli sterilní - nemohou se páøit s jinım ivoèichem. Jestlie zneškodníme zdroje mutací, budeme schopni jednoduše mutanty pøeít.}
 {144}{}{To zní jako plán.}
 {145}{}{Zajímavá teorie. Nìjakı dùkaz?}
 {146}{}{Mám další otázku . . .}
-{147}{Vree29}{Tady, vezmi si tenhle holodisk. Jsou na nich záznamy mıch pitev mutantù.
-  Dokazuje to, e ádnı mutant se nemùe ani náhodou úspìšnì reprodukovat.}
+{147}{Vree29}{Tady, vezmi si tenhle holodisk. Jsou na nich záznamy mıch pitev mutantù.  Dokazuje to, e ádnı mutant se nemùe ani náhodou úspìšnì reprodukovat.}
 {148}{}{Díky.}
 {149}{}{Mùu se zeptat na nìco jiného?}
-{150}{Vree30}{Nemyslím, e bych ti mìla nìco øíkat. Snad pozdìji, jestli se ukáeš jako
- zdatnım pomocníkem Bratrstva.}
+{150}{Vree30}{Nemyslím, e bych ti mìla nìco øíkat. Snad pozdìji, jestli se ukáeš jako zdatnım pomocníkem Bratrstva.}
 {151}{Vree31}{Jsem si opravdu jistá, e jsi na špatné adrese. Bì, prosím, mám hodnì práce.}
 {152}{Vree32}{Znièíš moudro, které mùe zachránit svìt!}
 {153}{}{Ano, a zaènu s tebou.}
@@ -92,12 +83,10 @@
 {182}{}{Sory, spletl jsem si pokoj.}
 {183}{Vree47}{Dìkuji, e ses omluvil. }
 {184}{Vree47a}{Dobrı den.}
-{185}{Vree48}{To vypadá na problém vıroby. My ovládáme pouze teorii a design.
- A ti pomùe nìkterı z rytíøù.}
+{185}{Vree48}{To vypadá na problém vıroby. My ovládáme pouze teorii a design. A ti pomùe nìkterı z rytíøù.}
 {186}{}{I tak, dík.}
 {187}{}{Mùu se tì na nìco zeptat?}
-{188}{Vree200}{Prosím, zeptej se nìkterého z Písaøù. Pokouším se dokonèit zprávu
- pro radu starších.}
+{188}{Vree200}{Prosím, zeptej se nìkterého z Písaøù. Pokouším se dokonèit zprávu pro radu starších.}
 {189}{Vree201}{O tom nic nevím. Ale vypadá to, e bych se na to mohla podívat.}
 {190}{Vree202}{Sory, tohle není moje specialita. Moná nìkterı z bratrù bude vìdìt.}
 {191}{Vree203}{Stráe! Stráe!}
@@ -105,11 +94,9 @@
 {193}{Vree205}{Co si proboha myslíš, e dìláš s mıma vìcma?}
 {194}{Vree300)}{Kdo? Poèkej, to jméno zní nìjak povìdomì. Snad je to vùdce nìkterıch mutantù.}
 {195}{Vree301}{Pøedpokládám, e poukazuješ na nukleární válku. Bratrstvo dìlá vše pro to, aby obnovilo vše, co bylo ji jednou ztraceno.}
-{196}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{197}{Vree303}{Jediná spása, kterou lidé téhle zmuèené planety mají.
- Bez nás je lidstvo odsouzeno k zániku.}
-{198}{Vree304}{Nevím. Zeptej se na to vırobce.} 
+{196}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{197}{Vree303}{Jediná spása, kterou lidé téhle zmuèené planety mají. Bez nás je lidstvo odsouzeno k zániku.}
+{198}{Vree304}{Nevím. Zeptej se na to vırobce.}
 {199}{Vree305}{On je ten, kterı dohlíí, aby Bratrstvo nesešlo ze správné cesty.}
 {200}{Vree306}{On prosazuje pøání nejvyššího velitele. I silou, pokud je to nutné.}
 {300}{}{Zajímavé.}
@@ -126,8 +113,7 @@
 
 
 
-{980}{Vree200}{Prosím, promluv si s dalšími písaøi. Právì se pokouším dokonèit zprávu
- pro radu starších.}
+{980}{Vree200}{Prosím, promluv si s dalšími písaøi. Právì se pokouším dokonèit zprávu pro radu starších.}
 
 
 #
@@ -162,38 +148,23 @@
 
 {1100}{Vree300}{Kdo? To jméno mi zní povìdomì. Moná je to vùdce nìkterıch mutantù.}
 {1101}{Vree301}{Pøedpokládám, e poukazuješ na nukleární válku. Bratrstvo dìlá vše pro to, aby obnovilo to, co bylo ji jednou ztraceno.}
-{1102}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{1103}{Vree303}{Jediná spása, kterou lidé téhle zmuèené planety mají.
- Bez nás je lidstvo odsouzeno k zániku.}
+{1102}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{1103}{Vree303}{Jediná spása, kterou lidé téhle zmuèené planety mají. Bez nás je lidstvo odsouzeno k zániku.}
 {1104}{Vree304}{Nevím. Zeptej se na to vırobce.}
 {1105}{Vree305}{On je ten, kterı dohlíí, aby Bratrstvo nesešlo ze správné cesty.}
 {1106}{Vree306}{On prosazuje pøání nejvyššího velitele. I silou, pokud je to nutné.}
-{1107}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
+{1107}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
 {1108}{Vree201}{O tom nic nevím ale vypadá to, e bych se na to mohla podívat.}
-{1109}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
+{1109}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
 {1110}{Vree201}{O tom nic nevím, snad bych se na to mohla podívat.}
-{1111}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1112}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1113}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1114}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1115}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1116}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu
- pro radu starších.}
-{1117}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{1118}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{1119}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{1120}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
-{1121}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.
-  Kadı obsahuje nìco pøes 4 TB informací.}
+{1111}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1112}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1113}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1114}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1115}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1116}{Vree200}{Prosím, promluv si s jinımi písaøi. Pokouším se dokonèit zprávu pro radu starších.}
+{1117}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{1118}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{1119}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{1120}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}
+{1121}{Vree302}{Jsou to velkokapacitní prùmyslové krystaly, se ètecím laserem.  Kadı obsahuje nìco pøes 4 TB informací.}

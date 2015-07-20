@@ -27,8 +27,7 @@
 {116}{}{CHAR. BODY}
 {117}{}{DOVEDNOSTI}
 {118}{}{Postava musí pøed zaèátkem hry využít} # 1
-{119}{}{všechny charakterové body!}ÿÿÿÿÿÿÿÿÿÿ 2
-#
+{119}{}{všechny charakterové body!}           #2
 {120}{}{Charakterové body}
 {121}{}{Množství bodù, které se dají pøidat k nìkteré ze základních vlastností.}
 {122}{}{Další úroveò}
@@ -42,24 +41,24 @@
 {130}{}{Dovedností body}
 {131}{}{Dovedností body se používají ke zlepšení znalosti dovednosti.}
 #
-{132}{}{Na maximální úrovni.}ÿÿÿÿÿÿÿÿÿ 1
-{133}{}{Nemohu zvýšit.}ÿÿÿ 2
-{134}{}{Na minimální úrovni.}ÿÿÿÿÿÿÿÿÿ 1
-{135}{}{Nemohu snížit.}ÿÿÿ 2
+{132}{}{Na maximální úrovni.}          #1
+{133}{}{Nemohu zvýšit.}    #2
+{134}{}{Na minimální úrovni.}          #1
+{135}{}{Nemohu snížit.}    #2
 {136}{}{Žádné dovedností body nejsou dostupné.}
 {137}{}{} #základ
 {138}{}{TALENTY}
 {139}{}{CHARAKTEROVÉ RYSY}
 {140}{}{Maximálnì mùžeš mít talent} # 1
-{141}{}{na tøi dovednosti!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 2
-{142}{}{Pøed zaèátkem hry musíš vybrat}ÿÿÿ 1
-{143}{}{všechny talenty.}ÿÿÿÿÿÿÿÿ 2
+{141}{}{na tøi dovednosti!}                 #2
+{142}{}{Pøed zaèátkem hry musíš vybrat}    #1
+{143}{}{všechny talenty.}         #2
 {144}{}{Talent}
 {145}{}{Na nìkteré dovednosti má tvoje postava talent. Každá tato vlastnosti má bonus +20% a zvyšuje se dvojnásobnì rychle. Musíš vybrat tøi.}
 {146}{}{Charakterové rysy}
 {147}{}{Charakterové rysy popisují tvoji postavu do vìtších podrobností. Každý má pozitivní i negativní efekt. Bìhem tvorby postavy si musíš zvolit dva.}
 {148}{}{Maximálnì mùžeš vybrat} # 1
-{149}{}{dva rysy!}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ 2
+{149}{}{dva rysy!}                       #2
 {150}{}{Dovednosti}
 {151}{}{Dovednosti jsou získané znalosti. Dovednosti se zlepšují zkušenosti nebo speciálními událostmi bìhem hry. Èím je na vyšší úrovni, tím lepší jsi v této dovednosti.}
 #
@@ -69,21 +68,19 @@
 {155}{}{VYBER SI TALENT}
 {156}{}{RYSY}
 #
-{157}{}{Pøed zaèátkem hry musí být všechny} # 1
-{158}{}{vlastnosti mezi 1 až 10!}ÿÿÿÿÿÿÿÿÿÿÿ 2
-
-#
+{157}{}{Pøed zaèátkem hry musí být všechny}  #1
+{158}{}{vlastnosti mezi 1 až 10!}            #2
 # Abbreviated basic stat levels
 #
-{200}{}{Chud.}ÿÿÿ Terrible
-{201}{}{Ubohé}ÿÿÿÿÿ Bad
-{202}{}{Mizer.}ÿÿÿ# Poor
-{203}{}{Obst.}ÿÿÿ# Fair
-{204}{}{Prùmìr}ÿÿÿ# Average
-{205}{}{Dobré}ÿÿÿ# Good
-{206}{}{Výb.}ÿ# Very Good
-{207}{}{Skvìlé}ÿÿÿ Great
-{208}{}{Užasn.}ÿ# Excellent
+{200}{}{Chud.}    #Terrible
+{201}{}{Ubohé}      #Bad
+{202}{}{Mizer.}   # Poor
+{203}{}{Obst.}   # Fair
+{204}{}{Prùmìr}   # Average
+{205}{}{Dobré}   # Good
+{206}{}{Výb.} # Very Good
+{207}{}{Skvìlé}    #Great
+{208}{}{Užasn.} # Excellent
 {209}{}{Super} # Heroic
 
 #
@@ -149,8 +146,8 @@
 {602}{}{EXPORT}
 {603}{}{VYMAZAT}
 {604}{}{OK}
-{605}{}{Opravdu chcete tuto}ÿÿÿÿÿÿ# line 1
-{606}{}{postavu vymazat?}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ# line 2
+{605}{}{Opravdu chcete tuto}      # line 1
+{606}{}{postavu vymazat?}                 # line 2
 {607}{}{ byla úspìšnì uložena.}
 {608}{}{ byla úspìšnì nahrána.}
 {609}{}{již existuje.}
@@ -167,65 +164,65 @@
 #
 # ASCII text file printing text
 #
-{620}{}{FALLOUT}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Title line 1
-{621}{}{OSOBNÍ ZÁZNAMY VAULTU-13} # Title line 2
+{620}{}{FALLOUT}                     #Title line 1
+{621}{}{OSOBNÍ ZÁZNAMY VAULTU-13}    #Title line 2
 {622}{}{hodiny} # Title line 3
 # -
 # -
-#{000}{}{ÿÿÿÿÿÿÿÿÿÿSíla: 00ÿÿÿÿÿZásahové body: 000/000ÿÿÿÿÿÿÿÿÿ ÿPostøeh: 00}
-#{000}{}{ÿÿÿ   ÿVnímání: 00ÿÿÿÿÿÿTøída zbroje: 000ÿÿÿÿÿÿÿ ÿÿÿUzdravování: 00}
-#{000}{}{ÿÿ    Odolnost: 00ÿÿÿÿ   ÿAkèní body: 000ÿÿÿÿÿÿ ÿKritický zásah: 000%}
-#{000}{}{ÿÿ    Charisma: 00ÿÿÿÿÿBoj na blízko: 000ÿÿÿÿÿÿÿ     ÿÿÿNosnost: 000ÿlbs.}
-#{000}{}{ÿÿ Inteligence: 00ÿ    Odol. zranìní: 000%}
-#{000}{}{ÿÿÿÿÿÿÿHbitost: 00ÿÿÿ ÿOdol. radiace: 000%}
-#{000}{}{ÿÿÿÿÿÿÿÿŠtìstí: 00ÿÿÿ     ÿOdol. jed: 000%}
+#{000}{}{          Síla: 00     Zásahové body: 000/000           Postøeh: 00}
+#{000}{}{       Vnímání: 00      Tøída zbroje: 000           Uzdravování: 00}
+#{000}{}{      Odolnost: 00        Akèní body: 000        Kritický zásah: 000%}
+#{000}{}{      Charisma: 00     Boj na blízko: 000               Nosnost: 000 lbs.}
+#{000}{}{   Inteligence: 00     Odol. zranìní: 000%}
+#{000}{}{       Hbitost: 00     Odol. radiace: 000%}
+#{000}{}{        Štìstí: 00         Odol. jed: 000%}
 #
-{623}{}{ :::ÿStatistika :::}
-{624}{}{ÿÿÿÿÿÿÿSíla:}
-{625}{}{ÿÿÿÿÿÿÿÿHit body:}
-{626}{}{ÿÿÿÿÿÿÿÿPostøeh:}
+{623}{}{ ::: Statistika :::}
+{624}{}{       Síla:}
+{625}{}{        Hit body:}
+{626}{}{        Postøeh:}
 # -
-{627}{}{ ÿÿÿÿVnímání:}
-{628}{}{ ÿÿÿÿÿÿTøída zbroje:}
-{629}{}{ÿÿÿÿÿÿÿÿUzdravování:}
+{627}{}{     Vnímání:}
+{628}{}{       Tøída zbroje:}
+{629}{}{        Uzdravování:}
 # -
-{630}{}{ÿÿÿÿÿÿOdolnost:}
-{631}{}{ÿÿÿÿÿAkèní body:}
-{632}{}{ÿÿÿÿÿÿKritický zásah:}
+{630}{}{      Odolnost:}
+{631}{}{     Akèní body:}
+{632}{}{      Kritický zásah:}
 # -
-{633}{}{ ÿÿ    Charisma:}
-{634}{}{ÿÿÿÿÿÿBoje na blízko:}
-{635}{}{ÿÿÿÿÿÿÿÿÿNosnost:}
+{633}{}{       Charisma:}
+{634}{}{      Boje na blízko:}
+{635}{}{         Nosnost:}
 # -
-{636}{}{ÿÿÿInteligence:}
-{637}{}{ ÿÿÿÿÿÿOdol. zranìní:}
+{636}{}{   Inteligence:}
+{637}{}{       Odol. zranìní:}
 # -
-{638}{}{ ÿÿÿÿÿÿÿHbitost:}
-{639}{}{ÿÿÿÿOdol. radiace:}
+{638}{}{        Hbitost:}
+{639}{}{    Odol. radiace:}
 # -
-{640}{}{ÿÿÿÿÿÿÿÿÿÿÿŠtìstí:}
-{641}{}{ÿÿÿÿÿÿÿOdol. jed:}
+{640}{}{           Štìstí:}
+{641}{}{       Odol. jed:}
 # -
 # -
-#{000}{}{ÿJméno: 01234567890ÿÿÿÿÿÿÿÿAge: 00ÿÿÿÿÿÿÿÿÿGender: Female}
-{642}{}{ÿÿJméno:}
+#{000}{}{ Jméno: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Jméno:}
 {643}{}{Vìk:}
-{644}{}{ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿPohlaví:}
+{644}{}{               Pohlaví:}
 {645}{}{Muž}
 {646}{}{Žena}
 #-
-#{000}{}{ Level: 00ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿZkuš.: 000,000ÿÿÿÿDalší úroveò: 000,000}
+#{000}{}{ Level: 00                 Zkuš.: 000,000    Další úroveò: 000,000}
 {647}{}{ Úroveò:}
-{648}{}{ ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿZkuš.:}
+{648}{}{                Zkuš.:}
 {649}{}{Další úroveò:}
 #-
-{650}{}{ÿ:::ÿRysy :::ÿÿÿÿÿÿÿÿÿÿÿ:::ÿPerky :::ÿÿÿÿÿÿÿÿÿÿÿ::: Karma :::}
+{650}{}{ ::: Rysy :::           ::: Perky :::           ::: Karma :::}
 #-
-{651}{}{ÿ:::ÿDovednosti :::ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ::: Záøezy :::}
+{651}{}{ ::: Dovednosti :::                ::: Záøezy :::}
 #-
-{652}{}{ÿ:::ÿInventáø :::}
+{652}{}{ ::: Inventáø :::}
 #-
-{653}{}{ ÿÿ                      ÿÿÿÿÿÿÿÿÿÿÿÿÿCelková váha:}
+{653}{}{                                      Celková váha:}
 
 #
 # Karma name strings
@@ -259,12 +256,12 @@
 #
 # Special Demo version only text
 #
-{5000}{}{Sorry, you can only print your}ÿÿÿ# 1
-{5001}{}{character in the full version.}ÿÿÿ# 2
-{5002}{}{Sorry, you can only save your}ÿÿÿÿ# 1
-{5003}{}{character in the full version.}ÿÿÿ# 2
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
 {5004}{}{Sorry, you can only load a saved} # 1
-{5005}{}{character in the full version.}ÿÿÿ# 2
+{5005}{}{character in the full version.}   # 2
 {5006}{}{CHEAT MODE}
 {5007}{}{Not available in demo.}
 

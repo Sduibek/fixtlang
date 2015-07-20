@@ -982,7 +982,7 @@
 #
 #  running away
 #
-{2000}{}{Attacca qualcun altro, ti prego!} 
+{2000}{}{Attacca qualcun altro, ti prego!}
 {2001}{}{Abbi pieta'!}
 {2002}{}{Qualcuno mi aiuti!}
 {2003}{}{Basta, ti prego!}
@@ -2410,7 +2410,7 @@
 #
 {3456}{}{Oooooo, l'inguine!}
 {3457}{}{Aieee!}
-{3458}{}{}                                       
+{3458}{}{}
 {3459}{}{Ooof!}
 {3460}{}{Oooooo! Non l'ho sentito! Ow!}
 {3461}{}{Oooooo! Che male. Sto diventando vecchio.}

@@ -21,7 +21,7 @@
 {120}{}{[Kódovací tabulka byla úspìšnì rozkódována.] Pøíkaz?}
 #
 #TRANSLATION NOTE: Different spaces between the code and description is intentional for self-destruct execute lines
-#This is so the descriptions line up in-game so that it looks organized. 
+#This is so the descriptions line up in-game so that it looks organized.
 #If possible, spacing should stay the same when translated.
 #
 {121}{}{[17652-1028-1285362]    Tichá autodestrukce za 1 minutu.}
@@ -68,21 +68,17 @@
 {156}{}{Neplatný autorizaèní kód. Pøíkaz?}
 {157}{}{Autorizaèní kód pøijat. Prosím vyèkejte. Prohlížím data. Pøipraven pro vykonání požadavku.}
 {158}{}{Vypnout podpùrné životní systémy v FEV skupinì #2372-A.}
-{159}{}{Zvýšit dávkování originálního DNA øetìzce všech subjektù na 100%.} 
+{159}{}{Zvýšit dávkování originálního DNA øetìzce všech subjektù na 100%.}
 {160}{}{Vstup povolen. Kterou složku pacienta si pøejete zobrazit?}
 {161}{}{Složka pacienta #23869.}
 {162}{}{Složka pacienta #23870.}
 {163}{}{Složka pacienta #23871.}
 {164}{}{Složka pacienta #23872.}
-{165}{}{Složka pacienta #23869. Subjekt: Muž. Vìk 25. Radiace: 40. FEV infikace:
- 50%. Zbytek pùvodního DNA øetìzce: 50%. Životní funkce na vysoké úrovni, ale zatím nepøekraèují normu.}
+{165}{}{Složka pacienta #23869. Subjekt: Muž. Vìk 25. Radiace: 40. FEV infikace: 50%. Zbytek pùvodního DNA øetìzce: 50%. Životní funkce na vysoké úrovni, ale zatím nepøekraèují normu.}
 {166}{}{Rád bych prozkoumal složku jiného pacienta.}
-{167}{}{Složka pacienta #23870. Subjekt: Muž. Vìk 23. Radiace: 15. FEV infikace:
- 60%. Zbytek pùvodního DNA øetìzce: 40%. Životní funkce jsou v normì.}
-{168}{}{Složka pacienta #23781. Subjekt: Žena. Vìk 20. Radiace: 10. FEV infikace: 
- 55%. Zbytek pùvodního DNA øetìzce: 45%. Životní funkce jsou v normì.}
-{169}{}{Složka pacienta #23782. Subjekt: Muž. Age 26. Radiace: 35. FEV infikace:
- 60%. Zbytek pùvodního DNA øetìzce: 40%. Životní funkce jsou nadprùmìrné, ale stále v pøijatelném mìøítku.}
+{167}{}{Složka pacienta #23870. Subjekt: Muž. Vìk 23. Radiace: 15. FEV infikace: 60%. Zbytek pùvodního DNA øetìzce: 40%. Životní funkce jsou v normì.}
+{168}{}{Složka pacienta #23781. Subjekt: Žena. Vìk 20. Radiace: 10. FEV infikace:  55%. Zbytek pùvodního DNA øetìzce: 45%. Životní funkce jsou v normì.}
+{169}{}{Složka pacienta #23782. Subjekt: Muž. Age 26. Radiace: 35. FEV infikace: 60%. Zbytek pùvodního DNA øetìzce: 40%. Životní funkce jsou nadprùmìrné, ale stále v pøijatelném mìøítku.}
 {170}{}{Skuteènì si pøejete vypnout podpùrná životní zaøízení v FEV skupinì #23872-A?}
 {171}{}{FEV skupina #23872-A bude vypnuta. Potvrï}
 {172}{}{Ano.}
@@ -91,8 +87,7 @@
 {175}{}{Zvyšuji dávkování originální DNA na 100%. Pozor: Auto-korekce byla vypnuta.}
 {176}{}{Povedlo se ti vyndat ovládací obrazovku z kontrolního poèítaèe Nádrží.}
 {177}{}{Zkoušíš pracovat s poèítaèem, ale nepovedlo se ti získat žádné informace.}
-{178}{}{Zkoušíš pracovat s poèítaèem, ale je to pøíliš komplikované, než aby tomu šlo snadno porozumìt.
- Mìl bys to ale zkoušet dál.}
+{178}{}{Zkoušíš pracovat s poèítaèem, ale je to pøíliš komplikované, než aby tomu šlo snadno porozumìt. Mìl bys to ale zkoušet dál.}
 {179}{}{Výbuch znièil øídící systém. Bez regulace se za chvíli zcela jistì vymkne kontrole.}
 {180}{}{[Používáš bezpeènostní kartu na terminál. V terminálu to zacvakalo a objevila se zašifrovaná obrazovka]}
 {181}{}{[odejít ze systému]}

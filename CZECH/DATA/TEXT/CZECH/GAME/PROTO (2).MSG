@@ -96,8 +96,7 @@
 {461}{}{Psy}
 {462}{}{Kudlanky}
 {463}{}{Páraèi}
-{464}{}{Vùdce}ÿÿÿÿÿÿÿÿ Not displayed!
-#
+{464}{}{Vùdce}         Not displayed!#
 # Kill type info descriptions
 #
 {465}{}{Tato øádka ukazuje poèet mužù, které jsi bìhem tvého putování zabil.}
@@ -159,7 +158,7 @@
 {525}{}{%s má %d/%d hit bodù.}
 # (note: this is for guns that have ammo)
 {526}{}{Kapacita zásobníku je %d/%d výstøelù. Používá støelivo: %s. }
-{530}{}{a má zmrzaèené konèetiny.}ÿÿÿ These append to lines 500-504
+{530}{}{a má zmrzaèené konèetiny.}    #These append to lines 500-504
 {531}{}{, ale má zmrzaèené konèetiny.} #but has crippled limbs.
 {532}{}{a má zmrzaèené konèetiny.}
 {533}{}{, ale má zmrzaèené konèetiny.} #but have crippled limbs.
@@ -200,7 +199,7 @@
 #
 {620}{}{Dostal jsi %d zkušenostních bodù za zabití nepøítele: %s.}
 {621}{}{%s jsi získal %d zkuš. bodù.}
-{622}{}{Za poražení tvých nepøátel}ÿÿÿ #622-626 prepend to line 621
+{622}{}{Za poražení tvých nepøátel}    #622-626 prepend to line 621
 {623}{}{Za zabití tvých protivníkù}
 {624}{}{Vyhrál jsi v souboji a tím}
 {625}{}{Za rozdrcení nepøátel}
@@ -213,9 +212,9 @@
 {651}{}{[Pokraèovat]}
 {652}{}{Pokraèovat}
 {653}{}{[Zpátky]}
-{654}{}{Zpátky}ÿÿÿÿÿ# changed number from 653
-{655}{}{Jdi na to}ÿÿÿÿÿ new
-{656}{}{Err...}ÿÿÿÿ new
+{654}{}{Zpátky}     # changed number from 653
+{655}{}{Jdi na to}      #new
+{656}{}{Err...}    # new
 {660}{}{Nic nevidíš.}
 {661}{}{Pøíliš daleko.}
 

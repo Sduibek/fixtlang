@@ -1,7 +1,5 @@
 {100}{}{Funkgerät}
-{101}{}{[Aus dem Funkgerät ertönt zuerst ein Rauschen und anschließend
- eine tiefe Stimme.] Kommando an Patrouille, Kommando an Patrouille.
-Bitte um Statusmeldung? Over.}
+{101}{}{[Aus dem Funkgerät ertönt zuerst ein Rauschen und anschließend eine tiefe Stimme.] Kommando an Patrouille, Kommando an Patrouille.Bitte um Statusmeldung? Over.}
 {102}{}{Iik!}
 
 ##{103}{}{Uh, nothing is wrong here. We're fine, uh, how are you?}
@@ -13,8 +11,7 @@ Bitte um Statusmeldung? Over.}
 {107}{}{Wer bist du? Was hast du vor?}
 {108}{}{Ich hab vor, mein verdammtes Maul zu halten.}
 {109}{}{Ich, uh, oh, na egal. Ich werd' euch sowieso auslöschen.}
-{110}{}{Ich bin, hmm, Fred. Ich gehör' zur Patrouille. Ich ah, oh,
- ich glaub', ich bin noch etwas benommen von dem Sturz.}
+{110}{}{Ich bin, hmm, Fred. Ich gehör' zur Patrouille. Ich ah, oh, ich glaub', ich bin noch etwas benommen von dem Sturz.}
 {111}{}{Verstanden, Patrouille. Gebt eure Koordinaten durch!}
 {112}{}{224 zu 104.}
 {113}{}{Vier Meilen, südsüdwest.}
@@ -40,8 +37,7 @@ Bitte um Statusmeldung? Over.}
 {130}{}{Oh, tut mir leid, Kommando. Ich bin aus Versehen auf den Sprechknopf gekommen.}
 {131}{}{Eindringlinge im Stützpunkt! Löse den Alarm aus!}
 {132}{}{Roger, Patrouille, Kommando, Ende.}
-{133}{}{[Du wählst die Funkfrequenz des Kanals der Sicherheitskontrolle.]
- [Klick!] Gib die Zugangsnummer ein. [Klick!]}
+{133}{}{[Du wählst die Funkfrequenz des Kanals der Sicherheitskontrolle.] [Klick!] Gib die Zugangsnummer ein. [Klick!]}
 {134}{}{Hmm!}
 {135}{}{Ah, 69.}
 {136}{}{5566534571}

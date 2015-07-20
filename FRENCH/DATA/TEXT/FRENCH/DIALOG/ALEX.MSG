@@ -1,11 +1,11 @@
-{100}{}{Voici Alex, le garde des Régulateurs.} 
-# TRANSLATION NOTE 
-# The player-character's name is inserted after line 101. 
-{101}{}{Viens à l'intérieur, } 
-{102}{}{Désolé, je peux pas te laisser entrer. Reviens dans la matinée.} 
-{103}{}{Stop ! Qui va là?} 
+{100}{}{Voici Alex, le garde des Régulateurs.}
+# TRANSLATION NOTE
+# The player-character's name is inserted after line 101.
+{101}{}{Viens à l'intérieur, }
+{102}{}{Désolé, je peux pas te laisser entrer. Reviens dans la matinée.}
+{103}{}{Stop ! Qui va là?}
 {104}{}{Je suis juste un voyageur. J'aimerais entrer.}
-{105}{}{C'est pas tes oignons.} 
+{105}{}{C'est pas tes oignons.}
 {106}{}{Hum, désolé. Je m'en vais.}
 {107}{}{Aucun étranger n'est autorisé à l'intérieur de l'enceinte du Sanctuaire, par ordre du maire.}
 {108}{}{Je n'ai besoin que d'un endroit pour dormir cette nuit.}

@@ -19,17 +19,13 @@
 {114}{}{Proè tak nepøátelsky?}
 {115}{}{Hej, pokud chceš bıt hrubá, tak radši nashle pøíštì.}
 {116}{}{Hledám informaci. Mùeš mi pomoci?}
-{117}{}{Mohl bys, ale jsi na mém území, ne naopak. Take to vyklop anebo    
-        dr hubu.} 
+{117}{}{Mohl bys, ale jsi na mém území, ne naopak. Take to vyklop anebo            dr hubu.}
 {118}{}{Není to dùleité, jsem jenom cestovatel. Potøebuji nìjaké informace.}
-{119}{}{Èip èistící vodu? Promiò, ale o tomhle nic nevím. V Pohøebišti se taková 
-technologie èasto nevidí, moná kromì vìcí, na kterıch dìlá Miles.}
+{119}{}{Èip èistící vodu? Promiò, ale o tomhle nic nevím. V Pohøebišti se taková technologie èasto nevidí, moná kromì vìcí, na kterıch dìlá Miles.}
 {120}{}{No, v kadém pøípade dìkuju.}
 {121}{}{Miles? Kde ho mùu najít? Mohl by pomoci?}
 {122}{}{Mùete mi tedy øíct nìco o Pohøebišti?}
-{123}{}{Jenom cestovatel. To u sem slyšela. Do Pohøebištì nepøichází nikdo kromì 
-obchodníkù z Hubu a lidí hledajících rychlou smrt v rukách gangù. Co tady  
-hledáš ve skuteènosti?}
+{123}{}{Jenom cestovatel. To u sem slyšela. Do Pohøebištì nepøichází nikdo kromì obchodníkù z Hubu a lidí hledajících rychlou smrt v rukách gangù. Co tady  hledáš ve skuteènosti?}
 {124}{}{Máš pravdu. Hledám èip na èistìní vody.}
 {125}{}{Nemusím ti øíct.}
 {126}{}{Zatracenì dlouhá. Ale to je dvojcestná ulice.}
@@ -43,44 +39,24 @@ hledáš ve skuteènosti?}
 {134}{}{Co mi mùeš øíct o Následních?}
 {135}{}{Co mi mùeš øíct o Adytu?}
 {136}{}{No, to byl pìknej pokec. Musím jít.}
-{137}{}{Miles bydlí v Adytu. Je to vìdec, kterı se zajímá hlavnì o chemii. Pokud 
-nìkdo mùe najít ten vodní èip anebo udìlat náhradu, tak jedinì on.}
+{137}{}{Miles bydlí v Adytu. Je to vìdec, kterı se zajímá hlavnì o chemii. Pokud nìkdo mùe najít ten vodní èip anebo udìlat náhradu, tak jedinì on.}
 {138}{}{Díky moc.}
-{139}{}{Adytum je mùj pùvodní domov. Pro mì ale pøece jenom trochu nudnı. Je to 
-nenápadné a sobìstaèné mìsto na jiním konci Pohøebištì, ale ne tak daleko jako 
-je Katedrála. Nìkdy obchodujeme s Hubem.}
-{140}{}{U jsem s nimi jednou jednala. Na gang nejsou zas tak špatní. Mají 
-útoèištì spolu s hlídkami v jednom starém klubu. Jestli budeš opatrnı, moná se 
-podaøí si s nìkım z nich promluvit.}
-{141}{}{Rippers jsou jenom krutí. Je to tlupa vyívající se v muèení a zabíjeni. 
-Já se jim vyhıbám a ty bys mìl taky. Oni dokonce kolem svı pevnosti kladou 
-zasranı nášlapné miny!}
-{142}{}{Gun Runnereøi byli kdysi skuteèní gang, ale postupnì vymìkli. Zaèali 
-prodávat zbranì od svıch obìtí anebo z Hubu. A protoe nikdo nemá náladu na 
-nìjakı vılet do Hubu, tak se jim i pøes vysoké ceny celkem dobøe daøí..}
-{143}{}{Následovníci Apokalypsy jsou skupinou kazatelù míru ijících ve veliké 
-knihovnì nedaleko srdce Pohøebištì. Nechápu, proè je ještì nìkdo nezlikvidoval. 
-Jsou to slabí bojovníci a nemají pochopení pro skuteènı svìt, ale jsou zdvoøilí 
-a vzdìlaní.}
-{144}{}{Pohøebištì je pìknì nepøátelské místo. Nikdy jsem nemìla monost odtuï 
-odejít, ale myslím, e bych šanci asi vyuila. Take . . . na jihu odtud je 
-Katedrála. Je tam nìjakı kult, ale já se od nich drím zpátky. Dìje se tam prı 
-nìco hrozivého. Také sem slyšela o obchodním centru zvaném Hub, kde se obèas 
-ukáou karavany, ale nikdy jsem tam nebyla.}
+{139}{}{Adytum je mùj pùvodní domov. Pro mì ale pøece jenom trochu nudnı. Je to nenápadné a sobìstaèné mìsto na jiním konci Pohøebištì, ale ne tak daleko jako je Katedrála. Nìkdy obchodujeme s Hubem.}
+{140}{}{U jsem s nimi jednou jednala. Na gang nejsou zas tak špatní. Mají útoèištì spolu s hlídkami v jednom starém klubu. Jestli budeš opatrnı, moná se podaøí si s nìkım z nich promluvit.}
+{141}{}{Rippers jsou jenom krutí. Je to tlupa vyívající se v muèení a zabíjeni. Já se jim vyhıbám a ty bys mìl taky. Oni dokonce kolem svı pevnosti kladou zasranı nášlapné miny!}
+{142}{}{Gun Runnereøi byli kdysi skuteèní gang, ale postupnì vymìkli. Zaèali prodávat zbranì od svıch obìtí anebo z Hubu. A protoe nikdo nemá náladu na nìjakı vılet do Hubu, tak se jim i pøes vysoké ceny celkem dobøe daøí..}
+{143}{}{Následovníci Apokalypsy jsou skupinou kazatelù míru ijících ve veliké knihovnì nedaleko srdce Pohøebištì. Nechápu, proè je ještì nìkdo nezlikvidoval. Jsou to slabí bojovníci a nemají pochopení pro skuteènı svìt, ale jsou zdvoøilí a vzdìlaní.}
+{144}{}{Pohøebištì je pìknì nepøátelské místo. Nikdy jsem nemìla monost odtuï odejít, ale myslím, e bych šanci asi vyuila. Take . . . na jihu odtud je Katedrála. Je tam nìjakı kult, ale já se od nich drím zpátky. Dìje se tam prı nìco hrozivého. Také sem slyšela o obchodním centru zvaném Hub, kde se obèas ukáou karavany, ale nikdy jsem tam nebyla.}
 {145}{}{Já osobnì tady neplánuju zùstat o moc déle.}
 {146}{}{Dík za informaci.}
 {147}{}{Mùeš mi øíct víc?}
-{148}{}{Nekecej. Pokud hledáš pomocnou ruku, tak se hlásím. Vše je lepší ne 
-strávit zbytek mé existence v téhle pekelné díøe.}
+{148}{}{Nekecej. Pokud hledáš pomocnou ruku, tak se hlásím. Vše je lepší ne strávit zbytek mé existence v téhle pekelné díøe.}
 {149}{}{Fajn, e jsi tady, ale jinak stojí pouš docela na prd.}
 {150}{}{Nemìj obavy. Rozhodnì dík.}
 {151}{}{Mohu se nejdøív ještì na nìco zeptat?}
-{152}{}{Tahle oblast je obsazená tøema bandama - Blades, Rippers a Gun 
-Runnery. A taky tu najdeš Následovníky a mùj domov, Adytum.}
+{152}{}{Tahle oblast je obsazená tøema bandama - Blades, Rippers a Gun Runnery. A taky tu najdeš Následovníky a mùj domov, Adytum.}
 {153}{}{Dobrá, vypadá to, e máme koho nakopat do prdele!}
-{154}{}{Koukni, 90 procent lidí v tomhle mìstì zapadá do jedné nebo více ze 
-tøech kategorií - znásilòovaèi, vrahové anebo zlodìji. Já jsem zlodìjka, ale ty 
-vypadáš zdvoøile, co mì dost udivuje, dobrá? Nazvi to instinkt na pøeití.}
+{154}{}{Koukni, 90 procent lidí v tomhle mìstì zapadá do jedné nebo více ze tøech kategorií - znásilòovaèi, vrahové anebo zlodìji. Já jsem zlodìjka, ale ty vypadáš zdvoøile, co mì dost udivuje, dobrá? Nazvi to instinkt na pøeití.}
 {155}{}{Promiò, e jsem se tì dotkl. Asi pùjdu svojí cestou.}
 {156}{}{Tedy, mohu se tì aspoò zeptat pár otázek?}
 {157}{}{Já nejsem odtud, take tì asi nebudu zajímat.}
@@ -104,10 +80,9 @@ vypadáš zdvoøile, co mì dost udivuje, dobrá? Nazvi to instinkt na pøeití.}
 {175}{}{Nenávidím psy.}
 {176}{}{To jídlo voní dobøe.}
 {177}{}{Jaké druhy bojového umìní ovládáš?}
-{178}{}{Nauèila jsem se bojovat tady v Pohøebišti. Jsem dobrá s noi s 
-poloautomatickıma zbranìmi. Moji oblíbenou zbraní jsou samozøejmì vrhací noe.}
+{178}{}{Nauèila jsem se bojovat tady v Pohøebišti. Jsem dobrá s noi s poloautomatickıma zbranìmi. Moji oblíbenou zbraní jsou samozøejmì vrhací noe.}
 {179}{}{V poøádku, i kdy se bez dobrého noe necítím dobøe.}
-{180}{}{Za pøibrání Katje jsi získal 200 bodù zkušenosti.} 
+{180}{}{Za pøibrání Katje jsi získal 200 bodù zkušenosti.}
 
 {181}{}{Co chceš teï?}
 {182}{}{Zmìnil jsem názor. Rád bych vyuil tvou pomoc. }
@@ -195,16 +170,11 @@ poloautomatickıma zbranìmi. Moji oblíbenou zbraní jsou samozøejmì vrhací noe.}
 {1065}{}{Obchodníci}
 
 {1100}{}{Nevím, kde by si mohl najít takovou technologickou relikvii.}
-{1101}{}{Pohøebištì je všechno, co zùstalo ze starého Los Angeles. Teï to tu je 
-rozdìleno na rùzné frakce.}
-{1102}{}{Válka pøinesla utrpení a smrt pro celı svìt. Jenom doufám, e se nìco 
-takového u nestane. Ale co jsem zatím vidìla, lidstvo moc šancí nemá.}
-{1103}{}{Adytum byl kdysi mùj domov, ale lidé tam jsou teï a moc paranoidní a 
-osamìlí. Nikdy nepøeijou, kdy se stáhnou do ústraní.}
-{1104}{}{Následovníci Apokalypsy hlásají mír a toleranci. Je škoda, e se to na 
-tenhle svìt u nevejde.}
-{1105}{}{Katedrála je veliká stavba jinì od Adyta, asi den chùze. Je spravovaná 
-nìjakım zvláštním kultem, kterı si uctívá nìjakého temného boha.}
+{1101}{}{Pohøebištì je všechno, co zùstalo ze starého Los Angeles. Teï to tu je rozdìleno na rùzné frakce.}
+{1102}{}{Válka pøinesla utrpení a smrt pro celı svìt. Jenom doufám, e se nìco takového u nestane. Ale co jsem zatím vidìla, lidstvo moc šancí nemá.}
+{1103}{}{Adytum byl kdysi mùj domov, ale lidé tam jsou teï a moc paranoidní a osamìlí. Nikdy nepøeijou, kdy se stáhnou do ústraní.}
+{1104}{}{Následovníci Apokalypsy hlásají mír a toleranci. Je škoda, e se to na tenhle svìt u nevejde.}
+{1105}{}{Katedrála je veliká stavba jinì od Adyta, asi den chùze. Je spravovaná nìjakım zvláštním kultem, kterı si uctívá nìjakého temného boha.}
 {1106}{}{Nevím, kde by si mohl najít takovou technologickou relikvii.}
 {1107}{}{Nevím o tom nic víc ne ty.}
 {1108}{}{Nevím o tom nic víc ne ty.}
@@ -228,8 +198,7 @@ nìjakım zvláštním kultem, kterı si uctívá nìjakého temného boha.}
 {1126}{}{Veliké obchodní centrum v Hubu se všemi monımi obchody a obchodníky.}
 {1127}{}{Nevím o tom nic víc ne ty.}
 {1128}{}{Gun Runnerové prodávají vìci, a mají taky obchod v Adytu.}
-{1129}{}{Ugh! Páraèi jsou všude v Pohøebišti. Radši na nì ani nemyslím. Jsou 
-velicí a vhodnì pojmenovaní.}
+{1129}{}{Ugh! Páraèi jsou všude v Pohøebišti. Radši na nì ani nemyslím. Jsou velicí a vhodnì pojmenovaní.}
 {1130}{}{Nevím o tom nic víc ne ty.}
 {1131}{}{Nevím o tom nic víc ne ty.}
 {1132}{}{Nevím o tom nic víc ne ty.}
@@ -239,10 +208,8 @@ velicí a vhodnì pojmenovaní.}
 {1137}{}{Nevím o tom nic víc ne ty.}
 {1138}{}{Nevím o tom nic víc ne ty.}
 {1139}{}{Domnívám se, e tam musejí bıt nìjaké pozùstatky staré armády.}
-{1141}{}{Myslíš velikou válku? Wow, urèitì si musel ít dlouho v krytu, kdy o 
-tom nic nevíš.}
-{1142}{}{Jednou jsem vidìla krysu se tøemi oèima. To je ale asi všechno, co vím 
-o mutantech.}
+{1141}{}{Myslíš velikou válku? Wow, urèitì si musel ít dlouho v krytu, kdy o tom nic nevíš.}
+{1142}{}{Jednou jsem vidìla krysu se tøemi oèima. To je ale asi všechno, co vím o mutantech.}
 {1143}{}{Myslím, e je Nejvyšším knìzem v Katedrále, nebo nìco takového.}
 {1144}{}{Nevím o tom nic víc ne ty.}
 {1145}{}{Nevím o tom nic víc ne ty.}
@@ -252,20 +219,17 @@ o mutantech.}
 {1149}{}{Nevím o tom nic víc ne ty.}
 {1150}{}{Nevím o tom nic víc ne ty.}
 {1151}{}{Ne, dík.}
-{1152}{}{Ugh. Ne, radìji ne. Jednou jsem vidìla kamaráda zemøít z pøedávkování 
-Psychem. Nic pìknıho.}
+{1152}{}{Ugh. Ne, radìji ne. Jednou jsem vidìla kamaráda zemøít z pøedávkování Psychem. Nic pìknıho.}
 {1153}{}{Nevím o tom nic víc ne ty.}
 {1154}{}{Nevím o tom nic víc ne ty.}
 {1155}{}{Nevím o tom nic víc ne ty.}
 {1156}{}{Je starostou Adyta. Pøímı, ale nerozhodnı mu.}
 {1157}{}{Oni pozorují a kontrolují Adytum.}
-{1158}{}{Kdysi jsem byla sbìraèem. Chodili jsme ven v noci a zkoušeli najít nìco 
-uiteènıho v ruinách. Dost nebezpeèná práce. }
+{1158}{}{Kdysi jsem byla sbìraèem. Chodili jsme ven v noci a zkoušeli najít nìco uiteènıho v ruinách. Dost nebezpeèná práce. }
 {1159}{}{Je to skupina vyhnancù ijících mimo Aditum.}
 {1160}{}{Je vùdcem Následovníkù. Inteligentní a dobrosrdeèná ena.}
 {1161}{}{Nevím o tom nic víc ne ty.}
-{1162}{}{Nìkdy mám prostì takovou "enskou intuici", tedy pokud je to to, cos 
-myslel.}
+{1162}{}{Nìkdy mám prostì takovou "enskou intuici", tedy pokud je to to, cos myslel.}
 {1163}{}{Nevím o tom nic víc ne ty.}
 {1164}{}{Nevím o tom nic víc ne ty.}
 {1165}{}{Obchodníci obchodují s Adytem jenom nìkdy a prodávají Gun Runnerùm.}

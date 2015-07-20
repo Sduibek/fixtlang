@@ -21,7 +21,7 @@
 {120}{}{(¡Has logrado entrar en la tabla de codificación!)       > ¿Comando?}
 #
 #TRANSLATION NOTE: Different spaces between the code and description is intentional for self-destruct execute lines
-#This is so the descriptions line up in-game so that it looks organized. 
+#This is so the descriptions line up in-game so that it looks organized.
 #If possible, spacing should stay the same when translated.
 #
 {121}{}{[17652-1028-1285362]   Autodestrucción silenciosa en 1 minuto.}

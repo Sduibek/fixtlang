@@ -41,15 +41,13 @@
 {140}{Kill08}{No, povídá se, že na severu je banda bláznù, co si øíkají Zmije. Jiná skupina se toulá na východ od nás. Ti si øíkají Khanové. Ale ani jedni z nich nebudou tak milí, aby tì pozvali na veèeøi, pokud víš, co tím myslím.}
 {141}{}{Co je ještì okolo Junktownu?}
 {142}{}{Díky.}
-{143}{Kill09}{No, na jihozápad máš Hub. Na jih raèi nelez, tam je Nekropolis,
- no, hmm . . . prostì to tam smrdí mrtvolama. Pokud chápeš, co se ti snažím naznaèit.}
+{143}{Kill09}{No, na jihozápad máš Hub. Na jih raèi nelez, tam je Nekropolis, no, hmm . . . prostì to tam smrdí mrtvolama. Pokud chápeš, co se ti snažím naznaèit.}
 {144}{}{No, díky za radu. Mùžu se ještì na nìco zeptat?}
 {145}{}{Si myslíš, že víš úplnì všechno, co?}
 {146}{}{Radši už pùjdu.}
 {147}{Kill10a}{Kuròa, proè ne. Ptej se, kámo.}
 {148}{Kill10b}{Jasnì, OK. Ale rychle, musím ještì nìco udìlat.}
-{149}{Kill11}{No, Junktown není nic moc, ale dá se mu øíkat domov. Pøevážnì tu obchodujeme s lidmi nebo je tu necháváme zapomenout na jejich starosti.
- Samozøejmì, že tu máme pár problémù.}
+{149}{Kill11}{No, Junktown není nic moc, ale dá se mu øíkat domov. Pøevážnì tu obchodujeme s lidmi nebo je tu necháváme zapomenout na jejich starosti. Samozøejmì, že tu máme pár problémù.}
 {150}{}{Problémù?}
 {151}{}{Co se tu dá dìlat?}
 {152}{}{A co jiná mìsta okolo?}
@@ -118,8 +116,7 @@
 {215}{}{Jo, jasnì. To beru.}
 {216}{}{Ani náhodou. Kvùli tomu nebudu riskovat svùj krk.}
 {217}{Kill52}{No, kuròa. Chápej, je to pitomý, ale musím tì tady zamknout, abych mìl jistotu, že na mì Gizmo nepøijde. Sorry.}
-{218}{Kill53}{Perfektní. Tady je štìnice a magnetofon. Jen mi dej vìdìt, až se ti to podaøí. 
-Zlom vaz!}
+{218}{Kill53}{Perfektní. Tady je štìnice a magnetofon. Jen mi dej vìdìt, až se ti to podaøí. Zlom vaz!}
 {219}{Kill54}{No, podaøilo se ti získat dùkaz?}
 {220}{}{Ještì ne, ale získám. Vìø mi!}
 {221}{}{Samozøejmì.}
@@ -144,11 +141,9 @@ Zlom vaz!}
 {240}{}{No dobøe, já to jenom zkoušel, beru to.}
 {241}{}{Tak nic, mìj se.}
 {242}{Kill64}{Hodnì štìstí na cestách. Teï mì ale musíš omluvit, protože musím hejbnout zadkem, aby mi nestál obchod.}
-{243}{Kill65}{Gizmovi patøí kasíno. Pojmenoval ho po sobì - Gizmovo.
-Dej si tam opravdu pozor.}
+{243}{Kill65}{Gizmovi patøí kasíno. Pojmenoval ho po sobì - Gizmovo.Dej si tam opravdu pozor.}
 {244}{Kill66}{Jo, to jsem já. }
-{245}{Kill67}{Jo, Lars, ten velí našim strážím. Je to ale dobrák.
-Naprosto dùvìryhodný.}
+{245}{Kill67}{Jo, Lars, ten velí našim strážím. Je to ale dobrák.Naprosto dùvìryhodný.}
 {246}{Kill68}{No Vinnie, to je jeden z tìch spratkù. Velí skupinì pankáèù, co si øíkají Lebkouni. Ale platí nájem a nikoho zatím pøímo nenapadli.}
 {247}{Kill69}{Dr. Morbid má malý domek uprostøed mìsta. Jako doktor je docela dobrý a dokonce nemá ani moc pøemrštìné ceny.}
 {248}{Kill70}{Lebkouni jsou banda pankáèù, kteøí pracují pro Gizma. Nedìlají moc problémù, ale radši si na nì s Larsem dáváme pozor.}
@@ -163,8 +158,7 @@ Naprosto dùvìryhodný.}
 {257}{Kill78}{No Hub je hlavnì obchodní mìsto. Cokoliv tady nemáme urèitì najdeš v Hubu. Nevím ale, jak je tam teïka bezpeèno, od té doby, co se dìjí ty podivné vìci, bych nièemu nevìøil.}
 {258}{Kill79}{Shady Sands? To je malá vesnièka smìrem na sever. Rád bych s nima dìlal víc obchodù.}
 {259}{Kill80}{To mìsto je mrtvé. Poslal jsem tam dvì hlídky na prùzkum a nikdo se ještì nevrátil.}
-{260}{Kill81}{No, ty jsou dva. Khanové a Zmije. Od Zmijí moc problémù nehrozí, dokonce pár z nich už bylo i tady ve mìstì.
-Zato Khanové to je jiná pakáž. Myslí si, že snad mùžou dobýt celý svìt.}
+{260}{Kill81}{No, ty jsou dva. Khanové a Zmije. Od Zmijí moc problémù nehrozí, dokonce pár z nich už bylo i tady ve mìstì.Zato Khanové to je jiná pakáž. Myslí si, že snad mùžou dobýt celý svìt.}
 {261}{Kill82}{Kde si se posledních 100 let schovával. Mìl si hlavu strèenou v záchodì? Mùj otec mi vyprávìl povìsti o Válce. Jeho otec byl jeden z vojákù, kteøí zakládali Junktown.}
 {262}{Kill83}{No, jsou tady nìjaké povìsti pocházející z Hubu. Karavany záhadnì mizí, lidé jsou brutálnì vraždìni a prý i nìkdo vidìl velké zelené monstrum žeroucí lidi. No, prostì sbírka nesmyslù a hovadin..}
 {263}{Kill84}{Ne, o tom jsem nikdy neslyšel.}
@@ -173,15 +167,13 @@ Zato Khanové to je jiná pakáž. Myslí si, že snad mùžou dobýt celý svìt.}
 {266}{Kill87}{Zkus se zeptat Larse. Mohl by vìdìt víc.}
 {267}{}{[Hotovo]}
 {268}{}{[Více]}
-{269}{}{Získal si 600 zkušenosti za zabití Killiana.
-Junktown už nikdy nebude, to co býval.}
+{269}{}{Získal si 600 zkušenosti za zabití Killiana.Junktown už nikdy nebude, to co býval.}
 {270}{}{Získal si 500 zkušenosti za získání dùkazù proti Gizmovi.}
 {271}{}{(Jsme tady, abychom tì zatknuli, Gizmo. Mám proti tobì usvìdèující dùkazy.}
 {272}{}{Co víš o Gizmovì povaze?}
 {273}{}{Dobøe.}
 {274}{}{Jo, je nebezpeèný. Jsem tady, abych ho za tebe zabil.}
-{275}{}{Jak jsem øíkal . . . to tlustý prase se mì právì pokusilo najmout, abych tì zabil.
-Co s ním udìláme?}
+{275}{}{Jak jsem øíkal . . . to tlustý prase se mì právì pokusilo najmout, abych tì zabil.Co s ním udìláme?}
 {276}{}{Vezmu si brokovnici a náboje.}
 {277}{}{Vezmu si kožené brnìní.}
 {278}{}{Vezmu si doktorský kuføík.}
@@ -232,11 +224,9 @@ Co s ním udìláme?}
 {1025}{}{Sands}
 {1026}{}{Pit}
 
-{1100}{Kill65}{Gizmovi patøí kasino ve východní èásti. Velice nápaditì ho pojmenoval po sobì.
-Dej si tam bacha.}
+{1100}{Kill65}{Gizmovi patøí kasino ve východní èásti. Velice nápaditì ho pojmenoval po sobì.Dej si tam bacha.}
 {1101}{Kill66}{No, to jsem já. Kde jsi byl?}
-{1102}{Kill67}{Oh, Lars tady vede stráže. Je to dobrej chlap.
-Hlavnì se mu dá vìøit.}
+{1102}{Kill67}{Oh, Lars tady vede stráže. Je to dobrej chlap.Hlavnì se mu dá vìøit.}
 {1103}{Kill68}{No Vinnie, to je jeden z tìch spratkù. Velí skupinì pankáèù, co si øíkají Lebkouni. Ale platí nájem a zatím nikoho pøímo nenapadli.}
 {1104}{Kill69}{Dr. Morbid má malý domek uprostøed mìsta. Jako doktor je docela dobrý a dokonce nechce ani moc pøemrštìné ceny.}
 {1105}{Kill70}{Lebkouni jsou banda pankáèù, kteøí pracují pro Gizma. Nedìlají moc problémù, ale radši si na nì s Larsem dáváme pozor.}
@@ -251,16 +241,13 @@ Hlavnì se mu dá vìøit.}
 {1114}{Kill78}{No Hub je hlavnì obchodní mìsto. Cokoliv tady nemáme urèitì najdeš v Hubu. Nevím ale, jak je tam dneska bezpeèno, od té doby, co se dìjí ty podivné vìci, bych nevìøil nièemu.}
 {1115}{Kill79}{Shady Sands? To je malá vesnièka smìrem na sever. Rád bych s nima dìlal víc obchodù.}
 {1116}{Kill80}{To mìsto je mrtvé. Poslal jsem tam dvì hlídky na prùzkum a nikdo se ještì nevrátil.}
-{1117}{Kill81}{No, ty jsou dva. Khanové a Zmije. Od Zmijí moc problémù nehrozí, dokonce pár z nich už bylo i tady ve mìstì.
-Zato Khanové to je jiná pakáž.
-Myslí si, že snad mùžou dobýt celý svìt.}
+{1117}{Kill81}{No, ty jsou dva. Khanové a Zmije. Od Zmijí moc problémù nehrozí, dokonce pár z nich už bylo i tady ve mìstì.Zato Khanové to je jiná pakáž.Myslí si, že snad mùžou dobýt celý svìt.}
 {1118}{Kill82}{Kde si se posledních 100 let schovával. Mìl si hlavu strèenou v záchodì? Mùj otec mi vyprávìl povìsti o Válce. Jeho otec byl jeden z vojákù, kteøí zakládali Junktown.}
 {1119}{Kill83}{No, jsou tady nìjaké povìsti pocházející z Hubu. Karavany záhadnì mizí, lidé jsou brutálnì vraždìni a prý i nìkdo vidìl velké zelené monstrum požírající lidi. No, prostì sbírka nesmyslù a hovadin..}
 {1120}{Kill66}{Jo, to jsem já. Kde si se toulal?}
 {1121}{Kill69}{Dr. Morbid má malý domek uprostøed mìsta. Jako doktor docela ujde, a férový ceny - to je jeho druhý jméno.}
 {1122}{Kill73}{To je mùj obchod. Co potøebuješ, to tady taky najdeš..}
-{1123}{Kill75}{Ah, Gizmovo je kasino je hned u vstupní brány. Jsem docela pøekvapený, že sis ho cestou sem nevšimnul. Je totiž vìtšinou cítit na míle daleko.
-Ale co, hlavnì že pøitahuje turisty.}
+{1123}{Kill75}{Ah, Gizmovo je kasino je hned u vstupní brány. Jsem docela pøekvapený, že sis ho cestou sem nevšimnul. Je totiž vìtšinou cítit na míle daleko.Ale co, hlavnì že pøitahuje turisty.}
 {1124}{Kill76}{To je náš oblíbený bar. Jídlo je prùmìrné, ale mají tam vynikající pivo. Navíc jeho majitel, Neil, je velkej kliïák a nenechá se vytoèit ani od tìch pitomejch Nájezdníkù.}
 {1125}{Kill79}{Shady Sands? To je malá vesnièka smìrem na sever. Rád bych s nima dìlal víc obchodù.}
 {1126}{Kill76}{To je náš oblíbený bar. Jídlo je prùmìrné, ale mají tam vynikající pivo. Navíc jeho majitel, Neil, je velkej kliïák a nenechá se vytoèit ani od tìch pitomejch Nájezdníkù.}

@@ -11,23 +11,21 @@
 #
 # Special holiday dates
 #
-{100}{}{Šastnı Novı rok!}ÿÿÿÿÿÿ# New years
-{101}{}{Šastnı Valentın!}ÿÿÿÿÿ# April fools
-{102}{}{Veselého Apríla!}ÿÿÿÿÿÿ# April fools
-{103}{}{Šastnı den vydání Falloutu!}ÿÿÿÿÿÿÿÿÿÿÿÿ# Shipping day!
-{104}{}{Šastnı Den nezávislosti!}ÿÿÿÿ# Independence day
-{105}{}{Šastnı Halloween!}ÿÿÿÿÿÿÿÿÿÿÿ# Halloween
-{106}{}{Šastnı Den díkùvzdání!}ÿÿÿÿ# Thanksgiving
-{107}{}{Veselé Vánoce!}ÿÿÿÿÿÿÿÿÿÿÿ# X-mas
-
-#
+{100}{}{Šastnı Novı rok!}      # New years
+{101}{}{Šastnı Valentın!}     # April fools
+{102}{}{Veselého Apríla!}      # April fools
+{103}{}{Šastnı den vydání Falloutu!}            # Shipping day!
+{104}{}{Šastnı Den nezávislosti!}    # Independence day
+{105}{}{Šastnı Halloween!}           # Halloween
+{106}{}{Šastnı Den díkùvzdání!}    # Thanksgiving
+{107}{}{Veselé Vánoce!}           # X-mas#
 # System messages
 #
 {200}{}{VÍCE}
 {201}{}{ZPÌT}
 {202}{}{LOKACE}
 {203}{}{Nemáš ádné úkoly.}
-{204}{}{VODÍTKA}ÿÿ# clues gone
+{204}{}{VODÍTKA}  # clues gone
 {205}{}{AUTOMAPY}
 {206}{}{VIDEO ARCHÍV}
 {207}{}{DATA}
@@ -85,17 +83,17 @@
 # Movie archive titles
 # Order must match the list (see gmovie.h)
 #
-{500}{}{Logo Interplay}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Not show in Pipboy
-{501}{}{MacPlay Logo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ MacPlay version ,Not show in Pipboy
-{502}{}{Úvod}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Not show in Pipboy
+{500}{}{Logo Interplay}                 #Not show in Pipboy
+{501}{}{MacPlay Logo}                   #MacPlay version ,Not show in Pipboy
+{502}{}{Úvod}                           #Not show in Pipboy
 {503}{}{Znièení Nádrí}
 {504}{}{Znièení Katedrály}
 {505}{}{Správcùv briefing}
-{506}{}{Vaultu 13 došla voda}ÿÿÿ# Death
-{507}{}{Invaze do Vaultu 13}ÿÿÿÿÿÿÿÿÿÿÿÿÿ Death
-{508}{}{Odchod z Vaultu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Man end
-{509}{}{Odchod z Vaultu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Woman end
-{510}{}{Ponoøení do Nádrí}ÿÿÿÿÿÿÿÿÿÿÿ# Death
+{506}{}{Vaultu 13 došla voda}   # Death
+{507}{}{Invaze do Vaultu 13}              #Death
+{508}{}{Odchod z Vaultu}                  #Man end
+{509}{}{Odchod z Vaultu}                  #Woman end
+{510}{}{Ponoøení do Nádrí}           # Death
 {511}{}{Vault 13 a voda}
 {512}{}{Vaultu 13 dochází voda}
 {513}{}{Rae zabíjí Vùdce}
@@ -105,7 +103,7 @@
 #
 #
 {600}{}{Status}
-{601}{}{Clues}ÿÿ# Clues gone
+{601}{}{Clues}  # Clues gone
 {602}{}{Automaps}
 {603}{}{Archives}
 {604}{}{Alarm Clock}

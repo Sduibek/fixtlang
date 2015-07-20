@@ -735,7 +735,7 @@
 #
 #
 #
-# Critical Hit Messages 
+# Critical Hit Messages
 #
 # 5000 series - men (including generics)
 #
@@ -1048,7 +1048,7 @@
 {5512}{}{。双头牛愤怒的哀号}
 {5513}{}{。对于你密集的攻击双头牛感到很生气}
 #
-# series 5600 - Radscorpions 
+# series 5600 - Radscorpions
 #
 #{5600}{}{, sending the Radscorpion flying on it's back}
 #{5601}{}{, separating the head from the carapace}

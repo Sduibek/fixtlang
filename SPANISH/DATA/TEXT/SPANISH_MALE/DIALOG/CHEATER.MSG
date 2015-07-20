@@ -1,8 +1,8 @@
 # TRANSLATION NOTE:
 # PLAYERS WILL ONLY SEE THESE MESSAGES IF THEY ARE TESTERS
 #
-# Numbers in front of entries are to let the player know 
-# which number they can hit on keyboard 
+# Numbers in front of entries are to let the player know
+# which number they can hit on keyboard
 # to navigate dialog using keyboard
 #
 # IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS

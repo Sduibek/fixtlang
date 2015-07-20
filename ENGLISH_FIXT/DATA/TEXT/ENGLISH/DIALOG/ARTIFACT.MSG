@@ -6,9 +6,9 @@
 #
 {103}{}{This object is very old and has a strange insignia on it. You think it may be what the Brotherhood of Steel sent you to retrieve.}
 {104}{}{You see: Ancient Brotherhood Disk.}
-# 
+#
 {125}{}{You see a strange disk from the Military Base.}
-# 
+#
 #
 # Received from MRS STAPLETON in The Hub
 {127}{}{This particular holodisk is in excellent shape. The shiny label reads: "Vault Locations v34.129".}

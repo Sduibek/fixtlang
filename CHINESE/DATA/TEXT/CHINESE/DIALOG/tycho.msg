@@ -522,8 +522,8 @@
 #{2010}{}{Draw your best weapon.}
 {2010}{}{装备最好的武器。}
 
-#{2011}{}{Change your armour.} 
-{2011}{}{更换你的装甲。}                       # changed by WG  
+#{2011}{}{Change your armour.}
+{2011}{}{更换你的装甲。}                       # changed by WG
 
 #{2012}{}{Prefer ranged combat against close.}
 {2012}{}{尽量用远程攻击。}

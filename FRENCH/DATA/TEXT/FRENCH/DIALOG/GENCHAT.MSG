@@ -276,9 +276,9 @@
 {800}{}{Tu crois que ces rats vont te répondre ?}
 
     
-# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine. 
-# These messages will appear in the console window (bottom-left of game screen) at regular intervals. 
-{900}{}{Le PIP-Boy 2000 affiche "EAU DE L'ABRI 13: } 
-{901}{}{} 
-{902}{}{ JOURS RESTANTS."} 
+# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine.
+# These messages will appear in the console window (bottom-left of game screen) at regular intervals.
+{900}{}{Le PIP-Boy 2000 affiche "EAU DE L'ABRI 13: }
+{901}{}{}
+{902}{}{ JOURS RESTANTS."}
 

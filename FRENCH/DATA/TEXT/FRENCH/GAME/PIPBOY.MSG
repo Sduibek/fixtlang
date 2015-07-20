@@ -236,19 +236,19 @@
 #
 {760}{}{Le Centre}
 #
-{761}{}{Trouve et élimine le Griffemort.} # GVAR 
-{762}{}{Liquide Jain.} # GVAR 
-{763}{}{Liquide le marchand.} # GVAR 
-{764}{}{Trouve les caravanes disparues.} # GVAR 
-{765}{}{Vole le collier au Marchand.} # GVAR 
+{761}{}{Trouve et élimine le Griffemort.} # GVAR
+{762}{}{Liquide Jain.} # GVAR
+{763}{}{Liquide le marchand.} # GVAR
+{764}{}{Trouve les caravanes disparues.} # GVAR
+{765}{}{Vole le collier au Marchand.} # GVAR
 {766}{}{}
 {767}{}{}
 {768}{}{}
 {769}{}{}
 #
-{770}{}{Confrérie} # GVAR 
-{771}{}{Deviens un Initié.} # GVAR 
-{772}{}{Sauve l'Initié du Centre.} # GVAR 
+{770}{}{Confrérie} # GVAR
+{771}{}{Deviens un Initié.} # GVAR
+{772}{}{Sauve l'Initié du Centre.} # GVAR
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -735,7 +735,7 @@
 {6110}{}{**END-DISK**}
 #
 #
-#   7.  
+#   7.
 #
 #
 # (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)

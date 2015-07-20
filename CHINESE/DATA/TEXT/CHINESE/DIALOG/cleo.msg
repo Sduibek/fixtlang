@@ -229,11 +229,11 @@
 #{174}{}{Um, ugh!}
 {174}{}{嗯，吼！}
 
-#{175}{}{I had a friend who worked for him once. When the assignment went bad, he ran back to Decker for# reinforcements. Decker called him a fool, 
+#{175}{}{I had a friend who worked for him once. When the assignment went bad, he ran back to Decker for# reinforcements. Decker called him a fool,
 #and he had him lobotomized as an example to others. We don't# like Decker very much around here.}
 {175}{}{我有一个兄弟以前帮他做事。后来活儿搞砸了，他回去找德克想再带点弟兄去帮忙，结果呢，德克说他是猪头，还拿他当弱者的典型给大家看！我们这里的人都不喜欢德克这家伙。}
-#{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants# for more protection. The Children 
-#of the Cathedral sacrificed it to their god. The Deathclaw ate it. Rumors# ain't worth nothing. The world's full of rumor and suspicion, and empty of truth.  
+#{176}{}{What rumors do you want to hear? The Water Merchants are playing games. Decker's squeezing merchants# for more protection. The Children
+#of the Cathedral sacrificed it to their god. The Deathclaw ate it. Rumors# ain't worth nothing. The world's full of rumor and suspicion, and empty of truth.
 #Look for fact, not# fiction. But why are you asking? You had friends on the caravan?}
 {176}{}{你想知道什么小道消息？有可能是纯水商队在玩把戏，也有可能是德克压榨商队，想多搞点保护费，说不定是大教堂教徒那帮家伙把商队祭了神，没准还是死亡爪美餐了一顿。谣言不是一无是处啊。世界充满了谣言，人人都在怀疑，却查不出多少真相。不要被假象迷惑了，要查找事实……对了，你问这个干什么啊？有朋友在商队？}
 #{177}{}{I can't talk about my reasons.}

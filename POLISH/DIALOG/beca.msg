@@ -22,7 +22,7 @@
 {115}{}{Mogê tu przekimaæ?}
 {116}{}{Nie. To miejsce dla prawdziwych Ostrzy, a nie jakichœ cieniasów.}
 {117}{}{Siema, ziomuœ! Jak leci? Kimaj tutaj jak potrzebujesz bezpiecznego wyrka.}
-{118}{}{Wiêc, zdecydowa³eœ siê pomóc. Lepsze to ni¿ nic, doceniam to. Rozpowiemy o tym.} 
+{118}{}{Wiêc, zdecydowa³eœ siê pomóc. Lepsze to ni¿ nic, doceniam to. Rozpowiemy o tym.}
 {119}{}{Tak. Zobaczê co da siê zrobiæ.}
 {120}{}{Wiatj ponownie. S³ysza³am, ¿e nam pomog³eœ. Jesteœ wiêcej ni¿ godny naszego szacunku. Odzyskaliœmy wolnoœæ. [Jesteœ teraz cz³onkiem Ostrzy.]}
 {121}{}{Nie mogê ci w tym pomóc. Pogadaj z Brzytw¹.}

@@ -6,16 +6,14 @@
 {105}{}{Vlastnì, chtìl jsem vìdìt, jestli si nìco nezaslechl.}
 {106}{}{Nic, pane!}
 {107}{}{He?}
-{108}{}{Stùj! Poznal jsem tì - navštívil jsi Bratrstvo. Nìkdo ti moná dùvìøuje,
-ale já ne. Co chceš?}
+{108}{}{Stùj! Poznal jsem tì - navštívil jsi Bratrstvo. Nìkdo ti moná dùvìøuje,ale já ne. Co chceš?}
 {109}{}{Do toho ti nic není, já se o tvoje vìci taky nestarám.}
 {110}{}{Chtìl jsem vidìt pøátelskou tváø.}
 {111}{}{Bloudit pustinou, snait se pøeít.}
 {112}{}{Zabíjím pouštní havì. Vadí ti to?}
 {113}{}{Øeknu to pouze tvému nadøízenému. Odveï mì k Bratrstvu.}
 {114}{}{E?}
-{115}{}{Stùj! Poznal jsem tì, a nevìøím ti ani nos mezi oèima. Varuju tì:
- jestli nás pøivedeš do maléru, budeš zastøelen. Teï bì!}
+{115}{}{Stùj! Poznal jsem tì, a nevìøím ti ani nos mezi oèima. Varuju tì: jestli nás pøivedeš do maléru, budeš zastøelen. Teï bì!}
 {116}{}{Stùj! Kdo je tam? Øekni jméno a co chceš! }
 # TRANSLATION NOTES
 # The player-character's name is inserted after line 117, and then has
@@ -30,13 +28,9 @@ ale já ne. Co chceš?}
 {124}{}{Stát! Tyto pozemky patøí Bratrstvu Oceli. Odejdi, nepovolané støílíme.}
 {125}{}{Velmi dobøe. Pokraèuj, Pøíjem.}
 {126}{}{Chápu. Pokraèuj, Pøíjem.}
-{127}{}{Zprávy hovoøí o rozsáhlém útoku zmutovanıch lidí na turisty, take 
- budeme opatrnìjší. Peèlivì sleduj oblast a v pøípadì nutnosti ustup zpìt 
- do tábora. Pøíjem, konec!}
-{128}{}{Je to zlı, pøíjem! Mutanti jsou na pochodu a útoèí na karavany!
- Potøebujeme informace, a to hned! Nic ne poøádná zpráva nám nestaèí.}
-{129}{}{Zvedni svojí línou prdel, a pøines nám nìjaké zajímavé
- informace. Pøíjem, konec!}
+{127}{}{Zprávy hovoøí o rozsáhlém útoku zmutovanıch lidí na turisty, take  budeme opatrnìjší. Peèlivì sleduj oblast a v pøípadì nutnosti ustup zpìt  do tábora. Pøíjem, konec!}
+{128}{}{Je to zlı, pøíjem! Mutanti jsou na pochodu a útoèí na karavany! Potøebujeme informace, a to hned! Nic ne poøádná zpráva nám nestaèí.}
+{129}{}{Zvedni svojí línou prdel, a pøines nám nìjaké zajímavé informace. Pøíjem, konec!}
 {130}{}{Jó, slyšel jsem o tobì. Ne moc chytrej, ale drsnej bojovník. Hodnì blbı.}
 {131}{}{To je naše zem, a tím pádem je mi do toho hodnì. Take?}
 {132}{}{Sháním vodní èip pro mùj Vault. Mùete mi pomoct?}
@@ -45,23 +39,14 @@ ale já ne. Co chceš?}
 {135}{}{Dlouho jsem bloudil pustinou. Chtìl jsem vìdìt, co je nového.}
 {136}{}{Pøátelská tváø? Ta moje to nebude. Doporuèoval bych ti vypadnout.}
 {137}{}{To my všichni. Jako my všichni. Dokud nepodnikneš nìco proti Bratrstvu, nikdo ti nebude v nièem bránit, ale buï opatrnı.}
-{138}{}{To záleí na tom, jestli nás povauješ za havì. Kdy napadneš naše
- nepøátele, dostaneš povolení cestovat po našem území. Jestli napadneš nás,
- zemøeš. Je to na tobì.}
+{138}{}{To záleí na tom, jestli nás povauješ za havì. Kdy napadneš naše nepøátele, dostaneš povolení cestovat po našem území. Jestli napadneš nás, zemøeš. Je to na tobì.}
 {139}{}{To zní rozumnì. Mùeš jít.}
-{140}{}{Vodní èip? Dìláš si srandu? Radši bys ses mìl vrátit zpátky na povrch a
- pokornì se zaøadit mezi ostatní otroky.}
-{141}{}{To my všichni. Nejpravdìpodobnìjší teorie je, e pøicházejí z Kráteru,
- ale nevìøím, e by tam mohli dlouho pøeít. Jestli nìco zjistíš, dej nám vìdìt.}
-{142}{}{Jak si dovoluješ obviòovat mì z takového svinstva!. Bratrstvo Oceli
- nikdy nikoho nenutilo slouit proti jejich vùli. To je proti všemu, v co
- vìøíme. Zmiz mi z oèí!}
-{143}{}{Objevili jsme vrak karavany, asi hodinu cesty smìrem na západ. Pøeila
- jenom malá holèièka. Tvrdí, e byli napadeni neuvìøitelnì silnımi, zmutovanımi
- lidmi.}
+{140}{}{Vodní èip? Dìláš si srandu? Radši bys ses mìl vrátit zpátky na povrch a pokornì se zaøadit mezi ostatní otroky.}
+{141}{}{To my všichni. Nejpravdìpodobnìjší teorie je, e pøicházejí z Kráteru, ale nevìøím, e by tam mohli dlouho pøeít. Jestli nìco zjistíš, dej nám vìdìt.}
+{142}{}{Jak si dovoluješ obviòovat mì z takového svinstva!. Bratrstvo Oceli nikdy nikoho nenutilo slouit proti jejich vùli. To je proti všemu, v co vìøíme. Zmiz mi z oèí!}
+{143}{}{Objevili jsme vrak karavany, asi hodinu cesty smìrem na západ. Pøeila jenom malá holèièka. Tvrdí, e byli napadeni neuvìøitelnì silnımi, zmutovanımi lidmi.}
 {144}{}{Slyšeli jsme dost zpráv na to, aby se nás to netıkalo. Pùjdu opatrnì s tebou, teda jestli pùjdeš.}
-{145}{}{Budu tì muset nauèit slušnému vychování, chlapèe. To nás trochu
- zabaví.}
+{145}{}{Budu tì muset nauèit slušnému vychování, chlapèe. To nás trochu zabaví.}
 {146}{}{ Budu tì muset nauèit slušnému vychování, dìvèe. To nás trochu zabaví.}
 {147}{}{Jsi úplnì vypatlanej. Uboáku.}
 {148}{}{Pøestaò mì otravovat, troubo!}

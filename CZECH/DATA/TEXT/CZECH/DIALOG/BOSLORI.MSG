@@ -20,18 +20,13 @@
 {119}{}{Ale samozøejmì že ano, ale je to velice drahá a zdlouhavá záležitost.}
 {120}{}{Øekneš mi nìjaké podrobnosti?}
 {121}{}{Oukej, nevadí.}
-{122}{}{No, mùžeš být silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùžu vylepšit tvé mozkové procesy.
-Také mám zkušenosti s plastickými operacemi. Každá operace se dá provést jen jednou.
-O které toho chceš vìdìt víc?}
+{122}{}{No, mùžeš být silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùžu vylepšit tvé mozkové procesy.Také mám zkušenosti s plastickými operacemi. Každá operace se dá provést jen jednou.O které toho chceš vìdìt víc?}
 
 # With "Bug Fixes Only" enabled, or Charisma disabled
-{222}{}{No, mùžeš být silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùžu vylepšit tvé mozkové procesy.
-O které toho chceš vìdìt víc?}
+{222}{}{No, mùžeš být silnìjší, vnímavìjší, odolnìjší a pohyblivìjší a mùžu vylepšit tvé mozkové procesy.O které toho chceš vìdìt víc?}
 
 {124}{}{Kdo jsi?}#
-{125}{}{Jmenuji se Lori. Vedu lékaøské oddìlení a ošetøuji všechna velká zranìní
- a lékaøské zákroky. Jsem tu jedinou fungující doktorkou, tak radìji preferuji oslovování
- pøímo jmény. A ty jsi kdo?}#
+{125}{}{Jmenuji se Lori. Vedu lékaøské oddìlení a ošetøuji všechna velká zranìní a lékaøské zákroky. Jsem tu jedinou fungující doktorkou, tak radìji preferuji oslovování pøímo jmény. A ty jsi kdo?}#
 {126}{}{Oukej, o které operaci chceš mluvit?}
 {127}{}{Síla.}
 {128}{}{Vnímání.}
@@ -53,18 +48,14 @@ O které toho chceš vìdìt víc?}
 {140}{}{Mám v sobì otravu!}#
 {141}{}{Tohle je velice rozsáhlý a nebezpeèný zákrok! Rekonvalescence zabere 3 týdny a bude to stát }
 {142}{}{ A teï, co pro tebe mohu udìlat?}#
-{143}{}{Tohle není až tak problematická operace,
- ale je velice drahá a zabere spoustu èasu.
- Léèení zabere asi 3 týdny a stojí to }
+{143}{}{Tohle není až tak problematická operace, ale je velice drahá a zabere spoustu èasu. Léèení zabere asi 3 týdny a stojí to }
 {144}{}{[Pokraèovat]}#
 {145}{}{Jde o støednì obtížnou operaci s dlouhou rekonvalescencí. Bude tì stát }
 {146}{}{OK, je to hotovo. Doufám, že z tý pìny nedostaneš žádnou vyrážku.}
 {147}{}{Lituji, ale když nemáš peníze, nemùžu ti pomoci.}
-{148}{}{Je mi líto, ale jsi stále cizinec. Až budeš v Bratrstvu deset let,
- udìlám ti ty operace zadarmo. Všechny potøeby jsou ale velice drahé a ty dosud ještì nejsi øádným èlenem Bratrstva.}
+{148}{}{Je mi líto, ale jsi stále cizinec. Až budeš v Bratrstvu deset let, udìlám ti ty operace zadarmo. Všechny potøeby jsou ale velice drahé a ty dosud ještì nejsi øádným èlenem Bratrstva.}
 {149}{}{Dej mi vìdìt, až budeš mít potøebné peníze na operaci pohromadì.}
-{150}{}{Nemohu pøesnì urèit tvoji fyzickou sílu v té Energo zbroji.
- Sundej si ji prosím a pøijï znovu.}#
+{150}{}{Nemohu pøesnì urèit tvoji fyzickou sílu v té Energo zbroji. Sundej si ji prosím a pøijï znovu.}#
  
  #TRANSLATION NOTE: Player's name will be inserted between lines 151 and 152.
 {151}{}{Já být }
@@ -126,10 +117,7 @@ O které toho chceš vìdìt víc?}
 
 {500}{}{Je mi líto, ale tahle operace ti nepomùže.}
 
-{400}{}{Hmmm. Jestli tu nìkdo potøebuje rozšíøit inteligenci, tak jsi to urèitì ty.
- A pro tebe to udìlám za 3000 zátek namísto 6000, které si beru normálnì.
- Nemùžu sice zaruèit, že ti to pomùže, ale pøi tvém intelektu ti to zaruèenì neuškodí.
- A taky tu budeš 3 týdny ležet. Ale ty mi asi stejnì moc nerozumíš, co?}
+{400}{}{Hmmm. Jestli tu nìkdo potøebuje rozšíøit inteligenci, tak jsi to urèitì ty. A pro tebe to udìlám za 3000 zátek namísto 6000, které si beru normálnì. Nemùžu sice zaruèit, že ti to pomùže, ale pøi tvém intelektu ti to zaruèenì neuškodí. A taky tu budeš 3 týdny ležet. Ale ty mi asi stejnì moc nerozumíš, co?}
 {401}{}{Já chtít být chytrý.}
 {402}{}{Nechtít. Doktor bát...}
 {403}{}{Dobrá tedy. Zranìní nebo ozáøení? Pomùžu ti, budu-li moct.}
@@ -139,9 +127,7 @@ O které toho chceš vìdìt víc?}
 {407}{}{Ok. Jsi vzhùru. Podívej se na mì. Cítíš se chytøejší?}
 {408}{}{He?}
 {409}{}{Ano!}
-{410}{}{Sakra! Nepovedlo se to. No, ale v podstatì nebylo ani na èem pracovat.
- Je mi líto, jsi jen idiot a zùstaneš idiotem i nadále. Je mi líto, že to musím øíct,
- ale ta operace se dala udìlat jen jednou.}
+{410}{}{Sakra! Nepovedlo se to. No, ale v podstatì nebylo ani na èem pracovat. Je mi líto, jsi jen idiot a zùstaneš idiotem i nadále. Je mi líto, že to musím øíct, ale ta operace se dala udìlat jen jednou.}
 {411}{}{Úspìch! Podaøilo se mi zvednout tvoje IQ na pøijatelnou úroveò. Mimochodem, jaké to je, mít pùlku mozku?}
 {412}{}{Je to skvìlé. Díky doktorko. Sbohem.}
 {413}{}{Všechno v poøádku}
@@ -151,10 +137,7 @@ O které toho chceš vìdìt víc?}
 
 #Bionic Man
 {502}{}{Jaké další operace mùžeš provést?}
-{503}{}{No, technicky vzato, nemìla bych o tom mluvit, ale dìláme tu ještì další procedury.
- Ale varuji tì, nìkteré jsou velmi nebezpeèné a nesou sebou rizika vedlejších úèinkù,
- na druhou stranu dìlám i vcelku bezpeèné, ale vyžadující extrémnì dlouho rekonvalescenci.
- Chceš o tom více informací?}
+{503}{}{No, technicky vzato, nemìla bych o tom mluvit, ale dìláme tu ještì další procedury. Ale varuji tì, nìkteré jsou velmi nebezpeèné a nesou sebou rizika vedlejších úèinkù, na druhou stranu dìlám i vcelku bezpeèné, ale vyžadující extrémnì dlouho rekonvalescenci. Chceš o tom více informací?}
 
 #Poison examine
 {504}{}{Oh ano, kouknu se na to...}
@@ -162,37 +145,28 @@ O které toho chceš vìdìt víc?}
 #Sex
 {300}{}{Roztomilé, ale nemám zájem. Pøijï, až budeš potøebovat lékaøskou pomoc.}
 {301}{}{Nic proti zlato, ale seš mírnì pod mými oèekávaními. Ale dìkuji za lichotky.}
-{302}{}{Oh, dìkuji velice. [Zèervenala] Vìtšinou tu moc komplimentù nedostávám.
- Být doktorkou v Bratrstvu znamená spousta stresu a nevdìèné práce. Proto tak ráda vtípkuji,
- abych se udržela v dobré náladì a pozitivní.}
+{302}{}{Oh, dìkuji velice. [Zèervenala] Vìtšinou tu moc komplimentù nedostávám. Být doktorkou v Bratrstvu znamená spousta stresu a nevdìèné práce. Proto tak ráda vtípkuji, abych se udržela v dobré náladì a pozitivní.}
 
 {303}{}{Rozumím. Nepomohlo by ti èas od èasu trochu uvolnit páru?}
 {304}{}{Nemáš zaè. Navidìnou!}
 
-{305}{}{No... Obèas se cítím smutnì a nìco jako "volno" tu vùbec nená, když jsi jediný doktor v Bratrstvu.
- Ehm, co to tu øíkám? To je tak hloupé.}
+{305}{}{No... Obèas se cítím smutnì a nìco jako "volno" tu vùbec nená, když jsi jediný doktor v Bratrstvu. Ehm, co to tu øíkám? To je tak hloupé.}
 
 {306}{}{Mìla byses nad to povznést. Buï hrdá na svoji práci a zbytek pøijde už sám.}
 {307}{}{Život je pøíliš krátký. Nechceš si ho taky aspoò trochu užít?}
 {308}{}{To vùbec není hloupý. [Lehce ji pohladit po tváøi, pak se naklonit a políbit jí]}
 
-{309}{}{Ano, asi máš pravdu. [Otøepe se a vzdechne, srovná se a usmìje]
- Tak, zpátky do práce! Díky za ten kompiment.}
-{310}{}{[Na chvíli se zamyslí] Máš pravdu. Chci si ho užít. Dej mi tak deset minut - Musím pøipravit
- zkušební stùl. [Ïábelsky se usmìje a kousne se do dolního rtu]}
+{309}{}{Ano, asi máš pravdu. [Otøepe se a vzdechne, srovná se a usmìje] Tak, zpátky do práce! Díky za ten kompiment.}
+{310}{}{[Na chvíli se zamyslí] Máš pravdu. Chci si ho užít. Dej mi tak deset minut - Musím pøipravit zkušební stùl. [Ïábelsky se usmìje a kousne se do dolního rtu]}
 {311}{}{[Chytá tì za ruku a odvádí do jejího pokoje...]}
 
-{312}{}{To bylo tak krásné. Já... asi jsem se do tebe zamilovala. [Hihòá se] Dìlám si srandu!
- Tak jo, èas jít, mám ještì nìjakou práci.}
-{313}{}{Ah, wow. Takhle sem si to neužila už roky. Ta bude bolet ještì alespoò týden,
- ale stálo to za to. [Toužebnì se na tebe podívala] Tohle si musíme brzy zopakovat!}
+{312}{}{To bylo tak krásné. Já... asi jsem se do tebe zamilovala. [Hihòá se] Dìlám si srandu! Tak jo, èas jít, mám ještì nìjakou práci.}
+{313}{}{Ah, wow. Takhle sem si to neužila už roky. Ta bude bolet ještì alespoò týden, ale stálo to za to. [Toužebnì se na tebe podívala] Tohle si musíme brzy zopakovat!}
 {315}{}{Jasná vìc. Brzy navidìnou.}
 
 {314}{}{Jdeš si pro pøídavek?}
 
-{316}{}{Co to dìl- ... [Je nejprve polekaná, ale rychle se poddá a zaène ti polibky opìtovat
- jemnì, nìžnì vzdychajíc. A jak jsou polibky èím dál tím více vášnivé, pøestala a táhne tì pryè] Pojï se mnou.
- [Postaví se a vede tì do její ubikace...]}
+{316}{}{Co to dìl- ... [Je nejprve polekaná, ale rychle se poddá a zaène ti polibky opìtovat jemnì, nìžnì vzdychajíc. A jak jsou polibky èím dál tím více vášnivé, pøestala a táhne tì pryè] Pojï se mnou. [Postaví se a vede tì do její ubikace...]}
 
 {317}{}{Ano! Cítím se s tebou tak krásná a chtìná.}
 {318}{}{[Usmìje se a vezme tì za ruku...]}

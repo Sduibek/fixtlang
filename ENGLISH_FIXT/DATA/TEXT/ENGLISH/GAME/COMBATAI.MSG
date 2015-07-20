@@ -217,7 +217,7 @@
 #
 # 3. Guard 3 (Sadistic)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# Guard 3 is the henchman of really nasty people. 
+# Guard 3 is the henchman of really nasty people.
 # He likes to hurt people, and makes no bones about it, and is a bit of a coward.
 #
 #
@@ -1319,7 +1319,7 @@
 #
 # 14. Nightkin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# We are the Chosen of the Master, and all must bow before us. 
+# We are the Chosen of the Master, and all must bow before us.
 # (Damn these bastards are really arrogant); my interpretation is that
 # these boys are smarter and more cunning than garden variety Super Mutants.
 #
