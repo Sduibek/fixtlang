@@ -27,10 +27,12 @@
 {124}{}{Hmm. Hát, jó munkát hozzá...}
 {125}{}{Neked is minden jót kívánok. Remélem, hamar megtalálod azt a csipet, és a rendes kerékvágásba térhet az életünk.}
 {126}{}{Ha nagyon szükséged van rá, vehetsz a tartalékból, mivel a feladatod fontosabb mindennél, de kérlek, csak mértékkel. Nem sok maradt.}
-{127}{}{Vihetek egy kicsit a tartalékból?}{1000}{}{Fejadag}
+{127}{}{Vihetek egy kicsit a tartalékból?}
+{1000}{}{Fejadag}
 {1001}{}{Fejadagok}
 {1002}{}{Tartalék}
-{1003}{}{Viz}{1100}{}{A fejadagot reggel osztom. Most, hogy vár a Külvilág, ne idd el elõlünk azt a kevés vizet.}
+{1003}{}{Viz}
+{1100}{}{A fejadagot reggel osztom. Most, hogy vár a Külvilág, ne idd el elõlünk azt a kevés vizet.}
 {1101}{}{A fejadagot reggel osztom. Most, hogy vár a Külvilág, ne idd el elõlünk azt a kevés vizet.}
 {1102}{}{Nagyon kevés tartalékunk maradt. Ha kell a küldetés végrehajtásához, vigyél magaddal valamennyit, de csak módjával.}
 {1103}{}{A fejadagot reggel osztom. Most, hogy vár a Külvilág, ne idd el elõlünk azt a kevés vizet.}

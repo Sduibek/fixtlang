@@ -1,7 +1,7 @@
-
 #
 #	Mountain area random encounter text
-#{100}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
+#
+{100}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
 {101}{}{Sérülés nélkül átvészelted a dolgot.}
 {102}{}{Az omladék magával hozta egy régóta halott utazó holttestét.}
 {103}{}{A lábad vészesen megsérült az omlás következtében.}

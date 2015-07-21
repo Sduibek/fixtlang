@@ -3,7 +3,8 @@
 {102}{}{Ugye nem idevalósi vagy?}
 
 # TRANSLATION NOTE
-# The player-character's name is inserted between lines 103 and 104 by the code.{103}{}{A nevem }
+# The player-character's name is inserted between lines 103 and 104 by the code.
+{103}{}{A nevem }
 {104}{}{.}
 {105}{}{Utazó vagyok.}
 {106}{}{Ugyanezt kérdezhetném én is.}
@@ -92,9 +93,10 @@
 {190}{}{Menj innen!}
 {191}{}{Sajnálom, de egyszerûen nem értem, mit mondasz. Viszlát!}#
 # Katja tell-me-abouts
-#{980}{}{Nem tudok róla semmit.}
+{980}{}{Nem tudok róla semmit.}
 {981}{}{Nem mondhatnám, hogy hallottam róla.}
-{982}{}{Nem, sosem hallottam róla.}{1000}{}{Viz}
+{982}{}{Nem, sosem hallottam róla.}
+{1000}{}{Viz}
 {1001}{}{Csonttelep}
 {1002}{}{Haboru}
 {1003}{}{Adytum}

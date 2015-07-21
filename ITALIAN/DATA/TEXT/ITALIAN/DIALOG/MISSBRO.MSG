@@ -36,12 +36,12 @@
 {135}{}{Presto ripartiro'. Sto ancora recuperando le forze.}
 {136}{}{Grazie ancora.}
 
-// Tell me abouts
+# Tell me abouts
 {1000}{}{Confraternita}
 {1001}{}{Acciaio}
 {1002}{}{Talus}
 
-// Answers
+# Answers
 {1100}{}{L'unica salvezza per questo pianeta torturato e per la sua gente. Senza di loro, l'umanita' sarebbe condannata.}
 {1101}{}{L'unica salvezza per questo pianeta torturato e per la sua gente. Senza di loro, l'umanita' sarebbe condannata.}
 {1102}{}{E' il mio mentore, nonche' un grande uomo. Non vedo l'ora di rivederlo.}

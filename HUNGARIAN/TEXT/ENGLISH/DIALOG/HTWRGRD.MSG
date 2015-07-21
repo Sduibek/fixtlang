@@ -1,19 +1,28 @@
 # Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
-# they have a general attitude of don't bother me.{100}{}{Ez az ember Hightower egyik õre.}
+# they have a general attitude of don't bother me.
+{100}{}{Ez az ember Hightower egyik õre.}
 {101}{}{Menj el innen! Daren Hightower nem fogad látogatókat.}
 {102}{}{Nem vagy itt szívesen látott vendég!}
 {103}{}{Távozz!}
 {104}{}{Nem teheted be ide a lábad!}
 {105}{}{Menj innen, különben nagyon megbánod!}
 {106}{}{A magadfajták nem tehetik be a lábukat ebbe a házba!}
-# "You are not permitted to enter the house."{107}{}{Mi a... kapjátok el!!}
+# "You are not permitted to enter the house."
+{107}{}{Mi a... kapjátok el!!}
 {108}{}{Nagy hibát követtél el, hogy idejöttél!}
 {109}{}{Mit csinálsz te itt? Most kinyúvasztunk!}
-# "You're dead meat" == "i'm going to kill you"{110}{}{Mmmm, ínycsiklandó.}
-# refering to food{111}{}{Ez Brahminszag, amit érzek?}
-# Brahmin is an animal akin to a 2 headed cow. consider Male{112}{}{Porzik a vesém, ihatnékom van!}
-# referring to getting more alcohol{113}{}{Van valami ehetõ a frigóban?}
-# fridge == refridgerator{114}{}{Mikor eszünk már?}
-# referring to dinner{115}{}{Éhes vagyok.}
+# "You're dead meat" == "i'm going to kill you"
+{110}{}{Mmmm, ínycsiklandó.}
+# refering to food
+{111}{}{Ez Brahminszag, amit érzek?}
+# Brahmin is an animal akin to a 2 headed cow. consider Male
+{112}{}{Porzik a vesém, ihatnékom van!}
+# referring to getting more alcohol
+{113}{}{Van valami ehetõ a frigóban?}
+# fridge == refridgerator
+{114}{}{Mikor eszünk már?}
+# referring to dinner
+{115}{}{Éhes vagyok.}
 {116}{}{Nincs már kész a kaja?}
-# referring to dinner.{117}{}{Mindjárt elájulok!}
+# referring to dinner.
+{117}{}{Mindjárt elájulok!}

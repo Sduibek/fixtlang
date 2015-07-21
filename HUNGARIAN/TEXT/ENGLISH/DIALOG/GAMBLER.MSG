@@ -38,5 +38,5 @@
 # differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
-#{136}{}{Buenos dias, barátom! Ma mit tehetek érted?}
+{136}{}{Buenos dias, barátom! Ma mit tehetek érted?}
 {137}{}{Buenos dias, barátom! Ma mit tehetek érted?}

@@ -108,7 +108,8 @@
 {205}{TAND_70}{Nézd, már elmondtam egyszer... }
 {206}{TAND_71}{Hányszor kell neked valamit elmondani? Bedugult a füled, vagy mi?}
 {207}{TAND_72}{Igen-igen, hallottam róla, de inkább Agathával beszélj errõl! Õ többet tud mesélni.}
-{208}{}{Húzzunk el innen!}{300}{}{Amindenit! Ez nem egészen Shady Sands.}
+{208}{}{Húzzunk el innen!}
+{300}{}{Amindenit! Ez nem egészen Shady Sands.}
 {301}{}{Hé, az itt micsoda?}
 {302}{}{Alig várom, hogy mesélhessek a Shady Sands-i lakosoknak a külvilágról.}
 {303}{}{Láttál még további radskorpiókat?}
@@ -137,7 +138,8 @@
 {1101}{TAND_45}{Én vagyok Tandi. Ki másnak kéne lenni?}
 #{1102}{TAND_46}{Razlo's the old guy on the east side of town. He's a pretty
 # good doctor, though, even if he is a fossil. }
-#ez ki volt iktatva alapban{1102}{TAND_47}{Seth az õrkapitány. Az apám egyszer megpróbált összehozni minket, de meg kell mondjam, nem a zsánerem.}
+#ez ki volt iktatva alapban
+{1102}{TAND_47}{Seth az õrkapitány. Az apám egyszer megpróbált összehozni minket, de meg kell mondjam, nem a zsánerem.}
 {1103}{TAND_49}{Ahogy hallottam, elég veszélyes egy társaság. Az apám többet tud róluk. Sajnos nem sokat mesél nekem a külvilágról.}
 {1104}{TAND_50}{Onnan származik az összes vizünk. Azóta itt van, hogy megszülettem.}
 {1105}{TAND_51}{Meg kell hagyni, csak egyet láttam eddig, azt is messzirõl. Nagyon visszataszító lények. Karmai vannak és hatalmas fullánkja. Ha nem kezelik rendesen, a mérgük halálos lehet. Beszélj az apámmal, Aradesh-el, õ többet tud mondani róluk. }

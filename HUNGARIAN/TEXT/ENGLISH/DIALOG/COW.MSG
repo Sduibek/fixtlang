@@ -1,7 +1,6 @@
-
 #
 # Talking cows special encounter text
-#{100}{}{Mת.}
+{100}{}{Mת.}
 {101}{}{Mת!}
 {102}{}{Mondom, mתתת.}
 {103}{}{Ez egy veszett Brahmin.}

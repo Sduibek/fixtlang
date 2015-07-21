@@ -58,7 +58,9 @@
 {157}{}{Hallottam, hogy megmentetted a Menedéket. Köszönettel tartozom.}
 {158}{}{[Tovább]}
 {159}{}{Az orvos nem hajlandó beszélni veled.}
-{160}{}{Kérlek, hagyd ezt abba!}# Medic tell-me-abouts{1000}{}{Orvos}
+{160}{}{Kérlek, hagyd ezt abba!}
+# Medic tell-me-abouts
+{1000}{}{Orvos}
 {1001}{}{Gyogykezeles}
 {1100}{}{Állandóan itt vagyok. Mindig számíthat rám az ember, ha gyógykezelésre szorul.}
 {1101}{}{Ha megsérültél, meggyógyítalak.}

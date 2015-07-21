@@ -348,10 +348,10 @@
 #{212}{}{I don't know。}
 {212}{}{厘音賠萱。}
 
-#{213}{}#{10mm Jacketed Hollow Point。}
+#{213}{}{10mm Jacketed Hollow Point。}
 {213}{}{10mm JHP。}
 
-#{214}{}#{10mm Armor Piercing。}
+#{214}{}{10mm Armor Piercing。}
 {214}{}{10mm AP。}
 
 #{215}{}{44 magnum Jacketed Hollow Point。}
@@ -360,7 +360,7 @@
 #{216}{}{44 magnum Full Metal Jacket。}
 {216}{}{.44 FMJ。}
 
-#{217}{}#{14mm Armor Piercing}
+#{217}{}{14mm Armor Piercing}
 {217}{}{14mm AP。}
 
 #{218}{}{。223 Full Metal Jacket。}

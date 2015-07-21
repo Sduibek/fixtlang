@@ -24,7 +24,8 @@
 {123}{}{ órán keresztül keresgélsz víz után, de nem találsz eleget, hogy teljesen olthasd a szomjad. Emiatt }
 {124}{}{ pontnyi sérülést szenvedtél.}
 {125}{}{A vízkészletednek köszönhetõen sikerült elkerülnöd a kiszáradást.}
-#{12600}{}{Radscorpions hunt Mole rats among the ruined city walls.}
+#
+{12600}{}{Radscorpions hunt Mole rats among the ruined city walls.}
 {126}{}{Vakondpatkányokra vadászó radskorpiókba szaladtál.}
 {127}{}{Zöldes bõrû vézna humanoidok közelednek feléd.}
 {128}{}{Hulladék és szikladarabok mindenfelé.}
@@ -44,8 +45,8 @@
 {169}{}{Összetalálkoztál egy radskorpió-családdal.}
 {170}{}{Egy vándorkereskedõvel és õreivel találkozol.}
 {171}{}{Találsz egy halott utazót.}
-#{17100}{}{You encounter a traveler.}
-#{17200}{}{You have stumbled across a small patch of ruined and deserted buildings.}
+{17100}{}{You encounter a traveler.}
+{17200}{}{You have stumbled across a small patch of ruined and deserted buildings.}
 {172}{}{A földön néhány szétszórt tárgyat látsz.}
 {173}{}{Egy karaván maradványait látod. A fosztogatók épp serényen szedegetik össze a zsákmányukat.}
 {196}{}{Radskorpiók a láthatáron!}

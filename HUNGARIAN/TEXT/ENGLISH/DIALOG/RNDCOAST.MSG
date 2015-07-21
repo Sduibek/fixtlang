@@ -1,7 +1,7 @@
-
 #
 # Coastal encounter messages
-#{100}{}{Számos fura, lebegõ kreatúrát látsz...}
+#
+{100}{}{Számos fura, lebegõ kreatúrát látsz...}
 {101}{}{Egy kisebb patkánycsapat közeledik feléd.}
 {102}{}{Egy csapat parasztot látsz, amint épp fosztogatókkal hadakoznak!}
 {103}{}{Jónéhány embert látsz, amint épp horgásznak.}

@@ -16,5 +16,5 @@
 # differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
-#{114}{}{Most magasztalnom kell a Mestert! Minden jót, barátom, késõbb elmondom a történetet!}
+{114}{}{Most magasztalnom kell a Mestert! Minden jót, barátom, késõbb elmondom a történetet!}
 {115}{}{Most magasztalnom kell a Mestert! Minden jót, hölgyem, késõbb elmondom a történetet!}

@@ -4,7 +4,8 @@
 {106}{}{Egy nõt látsz.}
 {107}{}{Egy férfit látsz.}################
 # The drunk has slurred speech. he's been hitting the booze a bit too hard
-# and is having problems standing and remembering his name{100}{}{Egy részeg alakot látsz.}
+# and is having problems standing and remembering his name
+{100}{}{Egy részeg alakot látsz.}
 {110}{}{Hadd szomorkodjam egyedül.}
 {111}{}{Te vagy az én legeslegkedvesebb barátom.}
 # best friend (slurred)
@@ -18,7 +19,8 @@
 # laddy is male
 {119}{}{Maradj már veszteg, kislány!}#################
 # Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
-# be spending all their money. Consider the people in Las Vegas gambling away their money.{101}{}{Egy kuncsaft.}
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+{101}{}{Egy kuncsaft.}
 {104}{}{Ez itt egy szerencsejátékos.}
 {120}{}{Kopj már le, sóher!}
 # == "Get out of here loser"

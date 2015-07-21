@@ -59,7 +59,8 @@
 {158}{Kill14}{Ha netán túlságosan gyorsak vagyunk neked, lehet továbbállni, barátom. Ugye barátok vagyunk?}
 {159}{}{Hát, a semminél több.}
 {160}{}{Látom, nem fogom magam halálra szórakozni a városban.}
-{161}{Kill15}{Slussz, passz.}{162}{Kill16}{Nyilván összetévesztesz valakivel, akivel kikezdhetsz. Miért nem jössz vissza máskor, amikor a mamád megtanított egy kis illemre?}
+{161}{Kill15}{Slussz, passz.}
+{162}{Kill16}{Nyilván összetévesztesz valakivel, akivel kikezdhetsz. Miért nem jössz vissza máskor, amikor a mamád megtanított egy kis illemre?}
 {163}{Kill21}{Micsoda átkozott véletlenek vannak! Ezért van ez a bolt! Szinte mindenünk van, amire szükséged lehet. Hadd mutassam meg egy-két árumat...}
 {164}{Kill22}{Talált, süllyedt. Lehet, hogy nem olyan nagy, mint a Hub, de az emberek többnyire megtalálják, amit keresnek. Nézz csak kürül tüzetesen...}
 {165}{Kill23}{Viselheted ezt a hangrögzítõt vagy elrejtheted a poloskát az irodájában. Mindkét esetben lefüleltük.}
@@ -139,7 +140,8 @@
 {239}{Kill63}{Nézd, ennél többet nem ajánlhatok. Kösz, hogy megszerezted a bizonyítékot, de könyörögni azért nem fogok, hogy segíts.}
 {240}{}{Rendben, elfogadom ezt az árat.}
 {241}{}{Ti tudjátok... minden jót!}
-{242}{Kill64}{Sok szerencsét az utadon. Most viszont, ha megbocsátasz, egy dagadékot mozgásra kell bírnom.}{243}{Kill65}{Gizmóé a kaszinó. Saját magáról nevezte el. Vigyázz vele!}
+{242}{Kill64}{Sok szerencsét az utadon. Most viszont, ha megbocsátasz, egy dagadékot mozgásra kell bírnom.}
+{243}{Kill65}{Gizmóé a kaszinó. Saját magáról nevezte el. Vigyázz vele!}
 {244}{Kill66}{Én lennék. Hol jár az eszed?}
 {245}{Kill67}{Lars az õrök parancsnoka. Jó srác, egész megbízható.}
 {246}{Kill68}{Hát Vinnie az egyik problémás gyerek nálunk. Egy csapat punkot vezet, úgy hívják õket, hogy Skulz. Fizetik a lakbért, és nemigen zavartak eddig senkit.}
@@ -214,7 +216,8 @@
 {1023}{}{Gizmo}
 {1024}{}{Vesztohely}
 {1025}{}{Sands}
-{1026}{}{Vesztohely}{1100}{Kill65}{Gizmóé a keleti negyedben lévõ kaszinó. Saját magáról nevezte el. Nagyon vigyázz vele!}
+{1026}{}{Vesztohely}
+{1100}{Kill65}{Gizmóé a keleti negyedben lévõ kaszinó. Saját magáról nevezte el. Nagyon vigyázz vele!}
 {1101}{Kill66}{Én lennék. Hol jár az eszed?}
 {1102}{Kill67}{Lars az õrök parancsnoka. Jó srác, egész megbízható.}
 {1103}{Kill68}{Hát Vinnie az egyik problémás gyerek nálunk. Egy csapat punkot vezet, úgy hívják õket, hogy Skulz. Fizetik a lakbért, és nemigen zavartak eddig senkit.}

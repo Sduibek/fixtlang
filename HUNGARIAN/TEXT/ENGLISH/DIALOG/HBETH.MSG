@@ -8,7 +8,8 @@
 {105}{}{Van egy-két eladó holmim.}
 {106}{}{Hogy lehet errefelé pénzhez jutni?}
 {107}{}{Mennem kell, viszlát!}
-#hiaba nem ez volt ott, jobb ez igy, mert mas szovegekkel is stimmelnie kellett{108}{}{Ruk?}
+#hiaba nem ez volt ott, jobb ez igy, mert mas szovegekkel is stimmelnie kellett
+{108}{}{Ruk?}
 {109}{}{Miket mondanak az emberek az eltûnt karavánokról? }
 # the Deathclaw is male
 {110}{}{Mit tudsz mesélni a Halálkarmokról?}
@@ -45,7 +46,8 @@
 {135}{}{Nos, nálam nincs munkafelvétel, de a Kereskedõk Piacán van egy hirdetõtábla, azt esetleg ajánlanám figyelmedbe.}
 {136}{}{Oké, kösz.}
 {137}{}{Nem, semmi jót legalábbis. Add meg az esélyt, hadd ásogassak. [Rádkacsint.] Bármi egyébbel szolgálhatok?}
-#nem tudom, jo-e ez{138}{}{Igen.}
+#nem tudom, jo-e ez
+{138}{}{Igen.}
 {139}{}{Nem.}
 {140}{}{Mi egyebet tehetek érted?}
 {141}{}{Hát persze, ne butáskodj!}

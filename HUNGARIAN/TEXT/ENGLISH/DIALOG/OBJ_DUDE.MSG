@@ -569,7 +569,7 @@
 {18908}{}{Habár olvastam már a Menedékek technológiájáról, ez eléggé meghaladja a tudásomat.}
 {18909}{}{Nicole a mi vezetõnk. Éleslátása és magasröptû szellemisége békét hoz a háború sújtotta világba.}
 {18910}{}{Ez itt az Angyalok Csonttelepének szíve. Los Angeles régi városáról nevezték el, na meg a hullahegyek csontjairól, amik belepték a helyet a bombákat követõ idõkben.}
-======================================================================
+#  ======================================================================
 # MBENT.MAP     (19000)
 
 {19000}{}{Mester}
@@ -580,7 +580,8 @@
 {19005}{}{Szupermutans}
 {19006}{}{Medium}
 {19007}{}{Kiserlet}
-{19008}{}{Vizcsip}{19100}{}{Nem kötök ilyesmit az orrodra.}
+{19008}{}{Vizcsip}
+{19100}{}{Nem kötök ilyesmit az orrodra.}
 {19101}{}{Ez a tudás nem való az alantasabbak számára.}
 {19102}{}{Nem kell ilyesmivel törõdnöd!}
 {19103}{}{Túlságosan alantas személy vagy, hogy ilyesmit kérdezz tõlem.}
@@ -588,7 +589,8 @@
 {19105}{}{Ne érdekeljen ez téged!}
 {19106}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
 {19107}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
-{19108}{}{Ne zargass játékokkal!}# MBSTRG12.MAP  (19600){19600}{}{Mester}
+{19108}{}{Ne zargass játékokkal!}# MBSTRG12.MAP(19600
+{19600}{}{Mester}
 {19601}{}{Hadnagy}
 {19602}{}{A Katedralis Gyermekei}
 {19603}{}{Az Apokalipszis Tanitvanyai}
@@ -605,7 +607,8 @@
 {19705}{}{Ne érdekeljen ez téged!}
 {19706}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
 {19707}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
-{19708}{}{Ne zargass játékokkal!}# MBVATS12.MAP  (20200){20200}{}{Mester}
+{19708}{}{Ne zargass játékokkal!}# MBVATS12.MAP  (20200)
+{20200}{}{Mester}
 {20201}{}{Hadnagy}
 {20202}{}{A Katedralis Gyermekei}
 {20203}{}{Az Apokalipszis Tanitvanyai}
@@ -642,7 +645,8 @@
 {20905}{}{Ne érdekeljen ez téged!}
 {20906}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
 {20907}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
-{20908}{}{Ne zargass játékokkal!}# MSTRLR34.MAP  (21400){21400}{}{Mester}
+{20908}{}{Ne zargass játékokkal!}# MSTRLR34.MAP  (21400)
+{21400}{}{Mester}
 {21401}{}{Hadnagy}
 {21402}{}{A Katedralis Gyermekei}
 {21403}{}{Az Apokalipszis Tanitvanyai}
@@ -660,7 +664,8 @@
 {21506}{}{Nincs elég eszed, hogy érdemes légy erre az információra!}
 {21507}{}{Nem vagy felhatalmazva, hogy tudj róluk.}
 {21508}{}{Ne zargass játékokkal!}
-# V13ENT.MAP    (22000)# HUBENT.MAP    (22600)
+# V13ENT.MAP    (22000)
+# HUBENT.MAP    (22600)
 
 {22600}{}{Rendorseg}
 {22601}{}{Vizkereskedo}

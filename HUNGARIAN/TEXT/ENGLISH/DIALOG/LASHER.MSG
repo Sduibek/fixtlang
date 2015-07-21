@@ -1,5 +1,6 @@
 {100}{}{Ostoros atya, a Gyermekek kötelékébõl.}
-#azert van leforditva, mert tobbszor utalnak az ostorozasra, es ugy nem biztos, hogy mindenki ertene.{101}{}{Tudom, ki vagy. Aljas, gonosz ember vagy, akit meg kell büntetnünk.}
+#azert van leforditva, mert tobbszor utalnak az ostorozasra, es ugy nem biztos, hogy mindenki ertene.
+{101}{}{Tudom, ki vagy. Aljas, gonosz ember vagy, akit meg kell büntetnünk.}
 {102}{}{Tudom, ki vagy. Asszonybõrbe bújt ördög vagy, de a külalakod sem fog megvédeni téged!}
 {103}{}{Tudom, ki vagy. Aljasságod mindenütt elõtted jár. Hádészhez küldöd a gyermekek lelkét, mielõtt megtisztíttathattak volna a hitszegés bûne alól. Sötét gonoszság, amit mûvelsz, ezért büntetést érdemelsz.}
 {104}{}{Tudom, ki vagy. A két lábon járó halál maga, emberbõrbe bújt pestis. Akármerre lépsz, patakokban folyik a vér. A tisztességes lélek azonban véget vet ennek a romlottságnak!}
@@ -9,7 +10,8 @@
 {108}{}{Még sosem vádolt meg senki azzal, hogy bölcs vagyok!}
 {109}{}{Én csak egy felelõs személlyel szeretnék szót váltani.}
 {110}{}{Szép kis korbácsa van magának! Csak nem ezért nevezik "Ostorosnak"?}
-#a "rod" is kevesbe korbacs, de az ostorozashoz az jobban illik, mint a palcahoz{111}{}{Igazak a híresztelések, hogy maga szeret gyerekeket molesztálni?}
+#a "rod" is kevesbe korbacs, de az ostorozashoz az jobban illik, mint a palcahoz
+{111}{}{Igazak a híresztelések, hogy maga szeret gyerekeket molesztálni?}
 {112}{}{Akarja tudni, mi a nem bölcs tett? Az, hogy beszól nekem, maga mocsok!}
 {113}{}{Miért beszél ilyen mulatságos módon?}
 {114}{}{Miért jöttél, beavatott? Tudod jól, hogy nem szeretem, ha zavarnak.}

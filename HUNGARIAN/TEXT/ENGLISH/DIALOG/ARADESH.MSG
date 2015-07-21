@@ -184,8 +184,9 @@
 # tell me about generic responses
 {980}{Ara_64}{Nem tudok róla.}
 {981}{Ara_65}{Nem mondhatnám, hogy tudomásom van róla.}
-{982}{Ara_66}{Hm, nem. Nem, sosem hallottam róla.}{1000}{}{Aradesh}
+{982}{Ara_66}{Hm, nem. Nem, sosem hallottam róla.}
 
+{1000}{}{Aradesh}
 {1001}{}{Dharma}
 {1002}{}{Tandi}
 {1003}{}{Razlo}

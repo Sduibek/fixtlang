@@ -31,11 +31,14 @@
 {130}{}{Figyelmeztettünk, hogy rakd el a fegyvereidet!}
 {131}{}{Javaslom, hogy tedd el a fegyvereidet, amíg itt tartózkodsz!}
 {132}{}{Tolvajkodunk? Na, hadd mutassam meg, mit teszünk mi az ilyenekkel, mint te!}
-{133}{}{[Kész]}{134}{}{Jól viseld ám magad!}
+{133}{}{[Kész]}
+{134}{}{Jól viseld ám magad!}
 {135}{}{Szemmel tartunk!}
 {136}{}{Nehogy rosszban sántikálj!}
 {137}{}{Mit nézõ, nem vagy te intézõ!}
-{138}{}{Mit aka'sz, he?}{139}{}{Azt hiszem, ez azt jelenti, hogy végzünk veled, öregem.}{1000}{}{Adytum}
+{138}{}{Mit aka'sz, he?}
+{139}{}{Azt hiszem, ez azt jelenti, hogy végzünk veled, öregem.}
+{1000}{}{Adytum}
 {1001}{}{Tanitvany}
 {1002}{}{Katedralis}
 {1004}{}{Penges}
@@ -49,7 +52,8 @@
 {1012}{}{Izzas}
 {1013}{}{Rendfenntarto}
 {1014}{}{Gubizo}
-{1015}{}{Csonttelep}{1100}{}{Nem kell messzire menni. Helyben vagyunk.}
+{1015}{}{Csonttelep}
+{1100}{}{Nem kell messzire menni. Helyben vagyunk.}
 {1101}{}{Kelet felé élnek.}
 {1102}{}{Jóval délebbre vannak.}
 {1104}{}{Észak felé megtalálod õket.}

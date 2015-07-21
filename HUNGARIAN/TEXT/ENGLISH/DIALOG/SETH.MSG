@@ -62,7 +62,8 @@
 {322}{}{Bárcsak elõbb megmentenéd Tandit, idegen, viszont tudom, hogy a radskorpiókat is le akarod rendezni. Menjünk, mutatom az utat!}
 {323}{}{Oké, vigyél a radskorpiókhoz!}
 {324}{}{Meggondoltam magam. Viszlát!}
-{325}{}{Nagyszerû. Késõbb még visszajövök, akkor mutathatod az utat.}{1000}{}{Khan}
+{325}{}{Nagyszerû. Késõbb még visszajövök, akkor mutathatod az utat.}
+{1000}{}{Khan}
 {1001}{}{Garl}
 {1002}{}{Roncsvaros}
 {1003}{}{Shady}
@@ -76,7 +77,8 @@
 {1011}{}{Skorpio}
 {1012}{}{Radskorpió}
 {1013}{}{Skopriók}
-{1014}{}{Radskorpiók}{1100}{}{Törvénytelen egy népség, akik valami régikeletû csoportnak vallják magukat.}
+{1014}{}{Radskorpiók}
+{1100}{}{Törvénytelen egy népség, akik valami régikeletû csoportnak vallják magukat.}
 {1101}{}{Õ a Khan-ok góréja. A legveszélyesebb emberek egyike, aki valaha is szemet vetett Shady Sands-re. Kemény kézzel vezeti a fosztogató klánokat.}
 {1102}{}{Kábé 4-6 napi járóföldre van dél-nyugatra. Jól lehet velük kereskedni, ha úgy adódik, de elég gyakran megpróbálnak átverni minket.}
 {1103}{}{Épp itt állsz.}

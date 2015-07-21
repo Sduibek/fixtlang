@@ -105,7 +105,9 @@
 {205}{}{Az ajánlatod annyit sem ér, hogy a kisujjamat megmozdítsam. Öljétek meg a picsát!}
 {206}{}{Ki nem állhatjuk az ilyeneket. Olyannyira, hogy meg szoktuk ölni õket. Mire vártok?! Megölni!}
 {207}{}{Waaaug!}
-{208}{}{Oké, te nyertél. Fogd a lányt, és húzzatok innen!}{1000}{}{Khan}
+{208}{}{Oké, te nyertél. Fogd a lányt, és húzzatok innen!}
+
+{1000}{}{Khan}
 {1001}{}{Garl}
 {1002}{}{Roncsvaros}
 {1003}{}{Shady}

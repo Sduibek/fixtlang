@@ -65,7 +65,7 @@
 # but they differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
-#{163}{}{Hé, mi a nagy helyzet, barátom? Vásárolni szeretnél valamit?}
+{163}{}{Hé, mi a nagy helyzet, barátom? Vásárolni szeretnél valamit?}
 {164}{}{Hé, mi a nagy helyzet, barátom? Vásárolni szeretnél valamit?}
 {165}{}{Jó a választékod, de nekem valami tökösebb dolog kéne. Van valami ötleted, hova mehetnék ezügyben?}
 {166}{}{Hát, próbálkozhatnál a Csonttelepen lakó Fegyverkészítõknél. Nekik valószínûleg van olyasmi cuccuk, amire neked van szükséged. Azt is hallottam, hogy a Testvériségi srácoknak is van egy-két dögösebb vasuk, szóval hozzájuk is nyugodtan beugorhatsz.}

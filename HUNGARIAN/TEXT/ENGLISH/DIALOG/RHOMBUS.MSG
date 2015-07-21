@@ -104,7 +104,8 @@
 {207}{}{Megriasztottak, ezért eleljtetted a zsákmányt.}
 {208}{}{Ez a szekrény nincs bezárva.}
 {209}{}{Hagyd el a körletemet!}
-{210}{}{Ártatlan vagyok!}{980}{Rhom47}{Errõl nem tudok mit mondani.}
+{210}{}{Ártatlan vagyok!}
+{980}{Rhom47}{Errõl nem tudok mit mondani.}
 {981}{Rhom48}{Sosem hallottam róla.}
 {982}{Rhom49}{Nincs ilyesmirõl tudomásom.}#
 # Rhombus Tell-Me-Abouts
@@ -128,7 +129,8 @@
 {1016}{}{Eltunt karavan}
 {1017}{}{A Katedralis Gyermekei}
 {1018}{}{Ujonc}
-{1019}{}{Csip}{1100}{Rhom38}{Õ a Fõkrónikásunk. A könyvtárban megtalálod.}
+{1019}{}{Csip}
+{1100}{Rhom38}{Õ a Fõkrónikásunk. A könyvtárban megtalálod.}
 {1101}{Rhom39b}{Én vagyok Rhombus.}
 {1102}{Rhom39a}{Talus a helyettesem.}
 {1103}{Rhom40}{Maxson tábornok volt a valaha élt legnagyobb Fõpaladin. Amikor Nagyperjel lett belõle, én vettem át a posztját.}

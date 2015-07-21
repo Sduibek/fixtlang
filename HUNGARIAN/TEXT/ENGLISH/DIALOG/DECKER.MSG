@@ -1,125 +1,94 @@
 {100}{}{Decker nem óhajt többet beszélni veled.}
 {101}{}{Õ Decker.}
 {102}{}{Decker túl elfoglalt ahhoz, hogy most veled beszéljen. Csináld a dolgod, és gyere vissza késõbb!}
-{103}{DECK_1}{
-Naszóval... épp munkát keresel. Milyen szerencsés helyzet. Épp van egy elintézendõ feladatom. Ahh, hova tettem a modoromat? Kit tisztelhetek benned?}
+{103}{DECK_1}{Naszóval... épp munkát keresel. Milyen szerencsés helyzet. Épp van egy elintézendõ feladatom. Ahh, hova tettem a modoromat? Kit tisztelhetek benned?}
 {104}{}{A nevem }
 {105}{}{.}
 {106}{}{Milyen üzletben utazik?}
-{107}{DECK_2}{
-Nos, most, hogy túlestünk a formaságokon, akarsz hallani valamit a munka mibenlétérõl?}
+{107}{DECK_2}{Nos, most, hogy túlestünk a formaságokon, akarsz hallani valamit a munka mibenlétérõl?}
 {108}{}{Ezért jöttem.}
 {109}{}{Nem igazán.}
-{110}{DECK_3}{
-A háttér: Van egy kereskedõ, aki... hogy is fogalmazzak... nem teljesen mûködik együtt a Földalatti Mozgalommal.}
+{110}{DECK_3}{A háttér: Van egy kereskedõ, aki... hogy is fogalmazzak... nem teljesen mûködik együtt a Földalatti Mozgalommal.}
 {111}{}{És mi lenne munka?}
-{112}{DECK_4}{
-Szerfelett egyszerû. Kutasd fel a kereskedõt meg a feleségét, és tedd el õket láb alól! }
+{112}{DECK_4}{Szerfelett egyszerû. Kutasd fel a kereskedõt meg a feleségét, és tedd el õket láb alól! }
 {113}{}{Úgy érti, hogy öljem meg õket?}
 {114}{}{Milyen összeg üti a markom?}
 {115}{}{Ezt nem tehetem meg!}
-{116}{DECK_5}{
-Minden csak szemantika kérdése, de... igen. Öldd meg õket! Elvállalod?}
+{116}{DECK_5}{Minden csak szemantika kérdése, de... igen. Öldd meg õket! Elvállalod?}
 {117}{}{Umm, persze... miért is ne?}
 {118}{}{Nem! Ez hibás lépés lenn részemrõl!}
 {119}{}{Mennyi pénzt kapok?}
-{120}{DECK_6}{
-Kiváló! Az elõleg 500 szkript, a munka végeztével 2500-at adok.}
+{120}{DECK_6}{Kiváló! Az elõleg 500 szkript, a munka végeztével 2500-at adok.}
 {121}{}{Hol találom meg ezt a kereskedõt?}
-{122}{DECK_7}{
-A Magaslaton élnek, a Barter utca és a Thunder sugárút keresztezõdésénél. Csináld meg a melót, és gyere vissza hozzám!}
+{122}{DECK_7}{A Magaslaton élnek, a Barter utca és a Thunder sugárút keresztezõdésénél. Csináld meg a melót, és gyere vissza hozzám!}
 {123}{}{Oké, úgy lesz.}
 {124}{}{Honnan fogja tudni, hogy megöltem õket?}
 {125}{}{Nem hinném.}
-{126}{DECK_8}{
-Nagyon remek! Az asszisztensem majd eligazít kifelé menet. Légy szíves csukd be magad mögött az ajtót!}
+{126}{DECK_8}{Nagyon remek! Az asszisztensem majd eligazít kifelé menet. Légy szíves csukd be magad mögött az ajtót!}
 {127}{deck_9}{Bízz bennem! Tudni fogom.}
 {128}{}{Oké, megcsinálom.}
 {129}{}{Dobom a témát.}
-{130}{DECK_10}{
-Be kell vallanom, hogy egy kicsit... csalódott vagyok. Persze a dolgok néha megesnek anélkül, hogy tenni tudnánk ellenük. Kezeld bizalmasan az ügyet! Minden jót!}
-{131}{DECK_11}{
-A szokásos. 500 pénz elõre, és 2500, ha kész a munka. Elvállalod?}
+{130}{DECK_10}{Be kell vallanom, hogy egy kicsit... csalódott vagyok. Persze a dolgok néha megesnek anélkül, hogy tenni tudnánk ellenük. Kezeld bizalmasan az ügyet! Minden jót!}
+{131}{DECK_11}{A szokásos. 500 pénz elõre, és 2500, ha kész a munka. Elvállalod?}
 {132}{}{Nem, köszönöm.}
 {133}{}{Hogyne, már indulok is.}
-{134}{DECK_12}{
-Nagyszerû. A kereskedõ a Magaslaton él, a Barter utca és a Thunder sugárút keresztezõdésében. Az elõleget kifelé menet megkapod.}
-{135}{DECK_13}{
-A Hubban minden üzlet rajtam keresztül folyik. Mondd meg a neved, vagy távozz innen!}
+{134}{DECK_12}{Nagyszerû. A kereskedõ a Magaslaton él, a Barter utca és a Thunder sugárút keresztezõdésében. Az elõleget kifelé menet megkapod.}
+{135}{DECK_13}{A Hubban minden üzlet rajtam keresztül folyik. Mondd meg a neved, vagy távozz innen!}
 {136}{}{A nevem }
 {137}{}{.}
 {138}{}{Nem mondok én magának semmit!}
-{139}{DECK_14}{
-Jól van... az asszisztensem megmutatja a kifelé vezetõ utat.}
-{140}{DECK_15}{
-Nagyon büszke vagyok rád. Könyörtelen vagy, és ez olyan tulajdonság, amiért rajongani tudok. Kane kifizeti a neked járó pénzt. Remélem, a jövõben is számíthaok rád.}
+{139}{DECK_14}{Jól van... az asszisztensem megmutatja a kifelé vezetõ utat.}
+{140}{DECK_15}{Nagyon büszke vagyok rád. Könyörtelen vagy, és ez olyan tulajdonság, amiért rajongani tudok. Kane kifizeti a neked járó pénzt. Remélem, a jövõben is számíthaok rád.}
 {141}{}{Feltehetek néhány kérdést?}
 {142}{}{Kösz.}
-{143}{DECK_16}{
-Ha nem alszunk itt, akkor igen.}
+{143}{DECK_16}{Ha nem alszunk itt, akkor igen.}
 {144}{}{Milyen helyek vannak a Hubban?}
 {145}{}{Hallott mostanában pletykákat?}
 {146}{}{Ideje mennem...}
 {147}{Deck_16b}{Fogd rövidre, légy oly kedves!}
-{148}{DECK_17}{
-A Kereskedõpiac a város közepén van, számos egyéb üzlettel a környéken. Nyugat felé megtalálod a Magaslatot, kelet felé pedig az Óvárost.}
+{148}{DECK_17}{A Kereskedõpiac a város közepén van, számos egyéb üzlettel a környéken. Nyugat felé megtalálod a Magaslatot, kelet felé pedig az Óvárost.}
 {149}{}{Milyen egyéb üzletekrõl van szó?}
 {150}{}{Kösz az információért. Lehet még néhány kérdésem?}
-{151}{DECK_18}{
-A Máltai Sólyomban állsz, de ott van még a Mindent-Egy-Helyen üzlet, a Fegyverbolt, a Baráti Kölcsön Társaság, a rendõrség, és sajnos a Katedrális Gyermekeinek kórháza.}
+{151}{DECK_18}{A Máltai Sólyomban állsz, de ott van még a Mindent-Egy-Helyen üzlet, a Fegyverbolt, a Baráti Kölcsön Társaság, a rendõrség, és sajnos a Katedrális Gyermekeinek kórháza.}
 {152}{}{Nem úgy tûnik, mintha túlságosan csípné azokat a Gyermekeket. Mi a gáz velük?}
 {153}{}{Kösz. Kérdezhetek még?}
-{154}{DECK_19}{
-Lassan... bekebeleznek... Hagyjuk a témát, rendben?}
+{154}{DECK_19}{Lassan... bekebeleznek... Hagyjuk a témát, rendben?}
 {155}{}{Oké. Kérdezhetek még?}
-{156}{DECK_20}{
-Nem vagyok idegenvezetõ. Nézz körül magad!}
+{156}{DECK_20}{Nem vagyok idegenvezetõ. Nézz körül magad!}
 {157}{}{Feltehetek még néhány kérdést?}
 {158}{}{Igaz. Az idegenvezetõk sokkal barátságosabbak.}
-{159}{DECK_21}{
-Nem. Kérlek, vedd fel a pénzed, és távozz!}
-{160}{DECK_22}{
-Hogy mondod? }
+{159}{DECK_21}{Nem. Kérlek, vedd fel a pénzed, és távozz!}
+{160}{DECK_22}{Hogy mondod? }
 {161}{}{Jól hallotta.}
 {162}{}{Semmi-semmi. Kérdezhetek még ezt-azt?}
-{163}{DECK_23}{
-Arrogáns vagy. Az asszisztensem majd megmutatja... úgy értem... megmutatja, merre van a kijárat.}
+{163}{DECK_23}{Arrogáns vagy. Az asszisztensem majd megmutatja... úgy értem... megmutatja, merre van a kijárat.}
 {164}{deck_24}{Nem.}
 {165}{}{Kérdezhetek még ezt meg azt?}
 {166}{}{Fura egy fickó maga.}
-{167}{DECK_25}{
-Úgy tûnik, valaki rendre kirabolja a "Hosszútávú Kereskedõk" karavánjait. A Tolvajok Köre meg a szokásos kis problémákkal küzd.}
+{167}{DECK_25}{Úgy tûnik, valaki rendre kirabolja a "Hosszútávú Kereskedõk" karavánjait. A Tolvajok Köre meg a szokásos kis problémákkal küzd.}
 # Line 168 has been changed due to gender issues. See lines 232-233.
 {168}{}{}
 {169}{}{Hogyne.}
 {170}{}{A francba, dehogy!}
-{171}{DECK_27}{
-Kiváló! Tudnod kell, hogy az elõzõ munkát tesztnek szántam, és bizony nagyon jól bizonyítottál. Most jöhet a fontos meló.}
+{171}{DECK_27}{Kiváló! Tudnod kell, hogy az elõzõ munkát tesztnek szántam, és bizony nagyon jól bizonyítottál. Most jöhet a fontos meló.}
 {172}{}{Úgymint?}
 {173}{}{Félelmetesen hangzik. Nem hinném, hogy érdekel.}
-{174}{DECK_28}{
-Amint azt már valószínûleg tudod, a Katedrális Gyermekei egyre nagyobb befolyást szereznek a városban, és õszintén megmondva, nem nagyon vagyok oda tõle.}
+{174}{DECK_28}{Amint azt már valószínûleg tudod, a Katedrális Gyermekei egyre nagyobb befolyást szereznek a városban, és õszintén megmondva, nem nagyon vagyok oda tõle.}
 {175}{}{Mit szeretne tehát?}
-{176}{DECK_29}{
-Aprócska ügy. Öldd meg Jaint, a Fõpapnõt! Miután elintézted, pontot tehetünk erre a kis semmiségre. Érdekel?}
+{176}{DECK_29}{Aprócska ügy. Öldd meg Jaint, a Fõpapnõt! Miután elintézted, pontot tehetünk erre a kis semmiségre. Érdekel?}
 {177}{}{Mi az hogy.}
 {178}{}{Ez erkölcstelen dolog!}
-{179}{DECK_30}{
-Azt hiszem, kezdelek igencsak megkedvelni. Elõlegként 1000 dolcsit adok, a munka végeztével 4000 jár. Ja, és bízz bennem, tudni fogom, ha végeztél!}
+{179}{DECK_30}{Azt hiszem, kezdelek igencsak megkedvelni. Elõlegként 1000 dolcsit adok, a munka végeztével 4000 jár. Ja, és bízz bennem, tudni fogom, ha végeztél!}
 {180}{}{Oké.}
-{181}{DECK_31}{
-Beszélj Kane-nel kifelé menet. Õ elmondja a részletekt.}
-{182}{DECK_32}{
-És a kereskedõ megölése nem volt az?}
+{181}{DECK_31}{Beszélj Kane-nel kifelé menet. Õ elmondja a részletekt.}
+{182}{DECK_32}{És a kereskedõ megölése nem volt az?}
 {183}{}{Hát, igaz ami igaz. Akkor elvállalom.}
 {184}{}{Érdekel is engem! Nem csinálom meg és kész.}
-{185}{DECK_33}{
-A fizetség 1000 dolcsi elõre és 4000 a teljesítéskor... Ja, és bízz bennem, tudni fogom, ha végeztél!}
+{185}{DECK_33}{A fizetség 1000 dolcsi elõre és 4000 a teljesítéskor... Ja, és bízz bennem, tudni fogom, ha végeztél!}
 {186}{}{Oké.}
 # Line 187 has been changed due to gender issues. See 234-235.
 {187}{}{}
-{188}{DECK_35}{
-Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
+{188}{DECK_35}{Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
 {189}{}{Igen, elvállalom.}
 {190}{}{Oké, mirõl van szó?}
 {191}{DECK_36}{Akkor nincs mirõl tárgyalnunk.}
@@ -134,7 +103,8 @@ Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
 {200}{DECK_46}{Nem figyelsz rám? Már elmondtam...}
 {201}{DECK_47}{Jobb, ha tudatosítod magadban: nem szeretem ismételni magam.}
 {202}{DECK_48}{Nem fogom még egyszer elmondani.}
-{203}{DECK_49}{Nem kell, hogy többet tudj rólam.}{204}{DECK_50}{Az emberek nagy része nem eléggé tudatosítja magában a szervezetem jelentõségét. A Hubot ugyanis mi felügyeljük.}
+{203}{DECK_49}{Nem kell, hogy többet tudj rólam.}
+{204}{DECK_50}{Az emberek nagy része nem eléggé tudatosítja magában a szervezetem jelentõségét. A Hubot ugyanis mi felügyeljük.}
 {205}{DECK_51}{Az általam ismert legjobb asszony, az anyám adta az ötletét. Ez a legmenõbb szórakozóhely az egész Hubban.}
 {206}{DECK_52}{Lopnak a kereskedõktõl és odaadják a szegényeknek. Nagyjából ilyen baromságra telik nekik... Elég ellentmondásosak számomra. Harold, az öreg mutáns többet tud errõl.}
 {207}{DECK_53}{Õ a rendõrség vezetõje. Jó gyerek, ha keveled az egyenes, becsületes típust. Nem ütött az apjára, igazi lojális ember.}
@@ -166,7 +136,7 @@ Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
 # but they differ in foreign translations. The first line is for the case of the
 # player-character masculine ("my friend" will be masculine); the second line is
 # for the case of the player-character feminine ("my friend" will be feminine).
-#{232}{DECK_26}{Üdv, barátom. Van egy újabb munkám a számodra. Érdekel a dolog?}
+{232}{DECK_26}{Üdv, barátom. Van egy újabb munkám a számodra. Érdekel a dolog?}
 {233}{DECK_26}{Üdv, barátom. Van egy újabb munkám a számodra. Érdekel a dolog?}
 {234}{DECK_34}{Pedig hogy bíztam benned! Viszont nem engedhetem, hogy figyelmeztesd a Katedrális Gyermekeit. Kane, távolítsd el a barátunkat és homályosítsd fel, mi várhat rá!}
 {235}{DECK_34}{Pedig hogy bíztam benned! Viszont nem engedhetem, hogy figyelmeztesd a Katedrális Gyermekeit. Kane, távolítsd el a barátunkat és homályosítsd fel, mi várhat rá!}
@@ -178,7 +148,7 @@ Milyen kár. Biztos vagy benne, hogy nem akarod hallani a részleteket?}
 
 #
 # Decker Tell-Me-Abouts
-#{1000}{}{Decker}
+{1000}{}{Decker}
 {1001}{}{Foldalatti mozgalom}
 {1002}{}{Maltai}
 {1003}{}{Tolvaj}

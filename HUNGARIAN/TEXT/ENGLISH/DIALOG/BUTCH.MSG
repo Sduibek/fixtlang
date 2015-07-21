@@ -11,7 +11,8 @@
 {110}{}{Azt.}
 {111}{}{Mifélét?}
 {112}{}{Nem akarok én semmiféle "mit", hanem pénzt...}
-#ez itt valami poennak tunik - shawn szerint is - az eredmeny megteszi szerintem{113}{BUTCH03}{Na végre, valakinek van vér a pucájában! Ezt akkor megbeszéltük. Eridj, beszélj a helyettesemmel, Rutgerrel! Õ majd elmondja a részleteket.}
+#ez itt valami poennak tunik - shawn szerint is - az eredmeny megteszi szerintem
+{113}{BUTCH03}{Na végre, valakinek van vér a pucájában! Ezt akkor megbeszéltük. Eridj, beszélj a helyettesemmel, Rutgerrel! Õ majd elmondja a részleteket.}
 {114}{}{Várj! Elõször kérdezni akarok a munkáról valamit!}
 {115}{}{Oké, kösz.}
 {116}{BUTCH04}{Jó, ne szarakodjunk! Hadd halljam, de gyorsan!}

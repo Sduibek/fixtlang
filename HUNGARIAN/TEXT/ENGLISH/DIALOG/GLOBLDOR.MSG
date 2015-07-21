@@ -21,7 +21,8 @@
 {120}{}{A biztonsági rendszer erõsen megrázott, ezért nem tudsz koncentrálni az ajtó zárjának megberhelésére.}
 {121}{}{A zárat olyannyira nem sikerült megpiszkálnod, hogy tönkretetted a tolvajkulcsot.}
 {122}{}{Nem sikerült megberhelned a zárat.}
-{123}{}{Egy masszív, rozsdás ajtót látsz magad elõtt.}{124}{}{Egy vörös festésû ajtót látsz. A zárja már nem akadály többé.}
+{123}{}{Egy masszív, rozsdás ajtót látsz magad elõtt.}
+{124}{}{Egy vörös festésû ajtót látsz. A zárja már nem akadály többé.}
 {125}{}{Egy vörös festésû ajtót látsz. A zárja már nem akadály többé.}
 {126}{}{A megberhelt ajtó elõtt egy mozgó vörös mezõt látsz.}
 {127}{}{A megberhelt ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
@@ -36,7 +37,8 @@
 {136}{}{Úgy tûnik, ehhez a vörös ajtóhoz valami speciális kulcs kell.}
 {137}{}{Úgy tûnik, ehhez a vörös ajtóhoz valami speciális kulcs kell.}
 {138}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy csillogó vörös mezõt is látsz elõtte.}
-{139}{}{Az ajtó zárjához valami speciális vörös kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}{140}{}{Az ajtó zárja már megadta magát.}
+{139}{}{Az ajtó zárjához valami speciális vörös kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}
+{140}{}{Az ajtó zárja már megadta magát.}
 {141}{}{Az ajtó zárja már megadta magát.}
 {142}{}{A megberhelt ajtó elõtt egy mozgó mezõt látsz.}
 {143}{}{A megberhelt ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
@@ -51,7 +53,8 @@
 {152}{}{Úgy tûnik, ehhez az ajtóhoz valami speciális kulcs kell.}
 {153}{}{Úgy tûnik, ehhez az ajtóhoz valami speciális kulcs kell.}
 {154}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy csillogó mezõt is látsz elõtte.}
-{155}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}{156}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
+{155}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}
+{156}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
 {157}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
 {158}{}{A megberhelt ajtó elõtt egy mozgó kék mezõt látsz.}
 {159}{}{A megberhelt ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
@@ -66,7 +69,8 @@
 {168}{}{Úgy tûnik, ehhez a kék ajtóhoz valami speciális kulcs kell.}
 {169}{}{Úgy tûnik, ehhez a kék ajtóhoz valami speciális kulcs kell.}
 {170}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy csillogó kék mezõt is látsz elõtte.}
-{171}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}{172}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
+{171}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}
+{172}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
 {173}{}{Egy kék festésû ajtót látsz. A zárja már nem akadály többé.}
 {174}{}{A megberhelt ajtó elõtt egy mozgó kék mezõt látsz.}
 {175}{}{A megberhelt ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
@@ -81,17 +85,22 @@
 {184}{}{Úgy tûnik, ehhez a kék ajtóhoz valami speciális kulcs kell.}
 {185}{}{Úgy tûnik, ehhez a kék ajtóhoz valami speciális kulcs kell.}
 {186}{}{Az ajtó zárjához valami speciális kulcs kell. Ráadásul még egy csillogó kék mezõt is látsz elõtte.}
-{187}{}{Az ajtó zárjához valami speciális kék kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}{188}{}{Egy vörös festésû ajtót látsz.}
+{187}{}{Az ajtó zárjához valami speciális kék kulcs kell. Ráadásul még egy nagyfeszültségû biztonsági rendszer is van rajta.}
+{188}{}{Egy vörös festésû ajtót látsz.}
 {189}{}{Az ajtó elõtt egy mozgó vörös mezõt látsz.}
 {190}{}{Ezen a vörös ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
-{191}{}{Ezen a vörös ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnödsz, vajon van-e valahol egy kódkártya a kinyitásához.}{192}{}{Egy ajtót látsz.}
+{191}{}{Ezen a vörös ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnödsz, vajon van-e valahol egy kódkártya a kinyitásához.}
+{192}{}{Egy ajtót látsz.}
 {193}{}{Az ajtó elõtt egy mozgó mezõt látsz.}
 {194}{}{Ezen az ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
-{195}{}{Ezen az ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}{196}{}{Egy kék festésû ajtót látsz.}
+{195}{}{Ezen az ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}
+{196}{}{Egy kék festésû ajtót látsz.}
 {197}{}{Az ajtó elõtt egy mozgó kék mezõt látsz.}
 {198}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
-{199}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}{200}{}{Egy kék festésû ajtót látsz.}
+{199}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}
+{200}{}{Egy kék festésû ajtót látsz.}
 {201}{}{Az ajtó elõtt egy mozgó kék mezõt látsz.}
 {202}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz.}
-{203}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}{204}{}{Észreveszed, hogy csapda van az ajtón.}
+{203}{}{Ezen a kék ajtón egy nagyfeszültségû biztonsági rendszert látsz. Azon tûnõdsz, vajon van-e valahol egy kódkártya a kinyitásához.}
+{204}{}{Észreveszed, hogy csapda van az ajtón.}
 {205}{}{A felvonó nem mûködik. Szemlátomást több energiára van szüksége, mint amit a vésztartalékok nyújtani tudnak.}
