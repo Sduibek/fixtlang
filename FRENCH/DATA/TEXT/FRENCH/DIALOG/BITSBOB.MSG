@@ -14,7 +14,7 @@
 {113}{}{Très bien, je te règlerai ton compte plus tard.}
 {114}{}{Bon, c'était un plaisir de te connaître Bob. Va cuire en enfer !}
 {115}{}{Qu'est-ce que tu fais déjà de retour ? Ce n'est pas le moment de payer.}
-{116}{}{T'as un sacré culot de te montrer ici. Casse-toi, tu pues !}
+{116}{}{T'as un sacré culot de te pointer ici. Barre-toi, connard !}
 {117}{}{Hé, je ne veux pas d'histoires !}
 {118}{}{Salut ! Bienvenue à l'Iguane Rôti, le restaurant de toute la famille. Je peux prendre votre commande ?}
 {119}{}{Oublie ça, tu veux !}
@@ -103,7 +103,7 @@
 {202}{}{Tu sais, j'ai entendu dire que chez toi, le morceau de premier choix a le goût de poulet. Tu serais pas cannibale par hasard ?}
 {203}{}{Moi pas vouloir portion de gonzesse ! Moi vouloir iguane entier ! Là !}
 {204}{}{Mmm, ça sent bon ! Moi vouloir meilleur morceau !}
-{205}{}{Comment je vais faire pour te payer si tu bouffes toutes mes réserves ? C'est bon ! Un autre iguane ! J'espère que tu vas t'étrangler}
+{205}{}{Comment je vais faire pour te payer si tu bouffes toutes mes réserves ? C'est bon ! Un autre iguane ! J'espère que tu vas t'étrangler.}
 {206}{}{Je n'aime pas ta manière de penser.}
 {207}{}{Euh, salut.}
 {208}{}{Attends une minute. On va bien finir par trouver un terrain d'entente !}
@@ -147,11 +147,11 @@
 ##
 {243}{}{30 caps ? Tu déconnes ?}
 {244}{}{Écoute bien enfoiré. C'est ta faute si je suis ruiné. Alors si tu n'aimes pas mes prix, casse toi. Il y a plein d'autres stands à iguanes par ici. Oh attends, en fait non. Connard.}
-{245}{}{C'est horrible, grâce à toi.  Personne n'aime les balances.  Maintenant, si tu n'es pas là pour m'acheter quoi que ce soit, barre-toi et en vitesse.}
+{245}{}{C'est horrible, grâce à toi. Personne n'aime les balances. Maintenant, si tu n'es pas là pour m'acheter quoi que ce soit, barre-toi et en vitesse.}
 {246}{}{C'est ça. Salut.}
 {247}{}{En fait, j'ai un peu faim.}
 #
-{250}{}{points d'expérience pour avoir fait chanté Bob et vendu ton silence.}
+{250}{}{ points d'expérience pour avoir réussi à faire du chantage à Bob en échange de ton silence.}
 {251}{}{Comment ça va les affaires, Bob ? *Clin d'oeil* }
 #
 # 252 to 260 take place while Bob is in jail

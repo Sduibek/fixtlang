@@ -1,51 +1,51 @@
 ##
 ## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
 ##
-{100}{}{Rocket}
-{200}{}{Plasma Ball}
+{100}{}{Roquette}
+{200}{}{Balle à plasma}
 {300}{}{Explosion}
-{400}{}{Blood}
-{500}{}{No-Trans hex}
+{400}{}{Sang}
+{500}{}{Carreau Non-Trans}
 {501}{}{}
-{600}{}{Knife}
-{700}{}{Spear}
-{800}{}{EMP Explosion}
-{900}{}{Laser Blast}
-{1000}{}{Plasma Blast}
+{600}{}{Couteau}
+{700}{}{Lance}
+{800}{}{Explosion électromag.}
+{900}{}{Rafale laser}
+{1000}{}{Rafale de plasma}
 {1100}{}{Explosion}
-{1200}{}{Scroll Blocker}
-{1300}{}{Electricity Bolt}
+{1200}{}{Bloqueur de défilement}
+{1300}{}{Eclair d'électricité}
 {1400}{}{Explosion}
 {1500}{}{Explosion}
-{1600}{}{Exit Grid}
-{1700}{}{Exit Grid}
-{1800}{}{Exit Grid}
-{1900}{}{Exit Grid}
-{2000}{}{Exit Grid}
-{2100}{}{Exit Grid}
-{2200}{}{Exit Grid}
-{2300}{}{Exit Grid}
-{2400}{}{Flare}
+{1600}{}{Zone de sortie}
+{1700}{}{Zone de sortie}
+{1800}{}{Zone de sortie}
+{1900}{}{Zone de sortie}
+{2000}{}{Zone de sortie}
+{2100}{}{Zone de sortie}
+{2200}{}{Zone de sortie}
+{2300}{}{Zone de sortie}
+{2400}{}{Fusée éclairante}
 {2500}{}{Grenade}
-{2600}{}{Rock}
+{2600}{}{Rocher}
 {2700}{}{Explosion}
 {2800}{}{Explosion}
 {2900}{}{Explosion}
-{3000}{}{Molotov Cocktail}
-{3100}{}{Exit Grid}
-{3200}{}{Exit Grid}
-{3300}{}{Exit Grid}
-{3400}{}{Exit Grid}
-{3500}{}{Exit Grid}
-{3600}{}{Exit Grid}
-{3700}{}{Exit Grid}
-{3800}{}{Exit Grid}
-{3900}{}{Exit Grid}
-{4000}{}{Exit Grid}
-{4100}{}{Exit Grid}
-{4200}{}{Exit Grid}
-{4300}{}{Exit Grid}
-{4400}{}{Exit Grid}
-{4500}{}{Exit Grid}
-{4600}{}{Exit Grid}
+{3000}{}{Cocktail Molotov}
+{3100}{}{Zone de sortie}
+{3200}{}{Zone de sortie}
+{3300}{}{Zone de sortie}
+{3400}{}{Zone de sortie}
+{3500}{}{Zone de sortie}
+{3600}{}{Zone de sortie}
+{3700}{}{Zone de sortie}
+{3800}{}{Zone de sortie}
+{3900}{}{Zone de sortie}
+{4000}{}{Zone de sortie}
+{4100}{}{Zone de sortie}
+{4200}{}{Zone de sortie}
+{4300}{}{Zone de sortie}
+{4400}{}{Zone de sortie}
+{4500}{}{Zone de sortie}
+{4600}{}{Zone de sortie}

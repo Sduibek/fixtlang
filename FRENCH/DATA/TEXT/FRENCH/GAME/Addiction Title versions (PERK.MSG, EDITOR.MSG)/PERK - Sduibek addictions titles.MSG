@@ -9,81 +9,81 @@
 #  PERK NAMES
 #
 #
-{101}{}{Awareness}
-{102}{}{Bonus HtH Attacks}
-{103}{}{Bonus HtH Damage}
-{104}{}{Bonus Move}
-{105}{}{Bonus Ranged Damage}
-{106}{}{Bonus Rate of Fire}
-{107}{}{Earlier Sequence}
-{108}{}{Faster Healing}
-{109}{}{More Criticals}
-{110}{}{Night Vision}
-{111}{}{Presence}
-{112}{}{Rad Resistance}
-{113}{}{Toughness}
-{114}{}{Strong Back}
-{115}{}{Sharpshooter}
-{116}{}{Silent Running}
-{117}{}{Survivalist}
-{118}{}{Master Trader}
-{119}{}{Educated}
-{120}{}{Healer}
-{121}{}{Fortune-Finder}
-{122}{}{Better Criticals}
-{123}{}{Empathy}
-{124}{}{Slayer}
-{125}{}{Sniper}
-{126}{}{Silent Death}
-{127}{}{Action Boy}
-{128}{}{Mental Block}
-{129}{}{Lifegiver}
-{130}{}{Dodger}
-{131}{}{Snakeater}
-{132}{}{Mr. Fixit}
-{133}{}{Medic}
-{134}{}{Master Thief}
-{135}{}{Speaker}
-{136}{}{Heave Ho!}
-{137}{}{Friendly Foe}
+{101}{}{Intuition}
+{102}{}{Bonus attaques CàC}
+{103}{}{Bonus dégâts CàC}
+{104}{}{Bonus déplacement}
+{105}{}{Bonus dégâts à distance}
+{106}{}{Bonus cadence de tir}
+{107}{}{Meilleure position}
+{108}{}{Guérison plus rapide}
+{109}{}{Plus de coups critiques}
+{110}{}{Vision nocturne}
+{111}{}{Présence}
+{112}{}{Résistance aux rad.}
+{113}{}{Résistance}
+{114}{}{Dos résistant}
+{115}{}{Tireur d'élite}
+{116}{}{Course silencieuse}
+{117}{}{Survivant}
+{118}{}{Maître marchand}
+{119}{}{Erudit}
+{120}{}{Guérisseur}
+{121}{}{Découvreur de trésor}
+{122}{}{Meilleurs coups critiques}
+{123}{}{Empathie}
+{124}{}{Tueur}
+{125}{}{Tireur embusqué}
+{126}{}{Mort silencieuse}
+{127}{}{Homme d'action}
+{128}{}{Bloc mental}
+{129}{}{Donneur de vie}
+{130}{}{Tire-au-flanc}
+{131}{}{Mangeur de serpents}
+{132}{}{M. Réparetout}
+{133}{}{Médecin}
+{134}{}{Maître Voleur}
+{135}{}{Orateur}
+{136}{}{Oh Hisse !}
+{137}{}{Ennemi amical}
 {138}{}{Pickpocket}
-{139}{}{Ghost}
-{140}{}{Cult of Personality}
-{141}{}{Scrounger}
-{142}{}{Explorer}
-{143}{}{Flower Child}
-{144}{}{Pathfinder}
-{145}{}{Animal Friend}
-{146}{}{Scout}
-{147}{}{Mysterious Stranger}
-{148}{}{Ranger}
-{149}{}{Quick Pockets}
-{150}{}{Smooth Talker}
-{151}{}{Swift Learner}
-{152}{}{Tag!}
-{153}{}{Mutate!}
+{139}{}{Fantôme}
+{140}{}{Culte de la personnalité}
+{141}{}{Chapardeur}
+{142}{}{Explorateur}
+{143}{}{Enfant des Fleurs}
+{144}{}{Pionnier}
+{145}{}{Ami des animaux}
+{146}{}{Eclaireur}
+{147}{}{Etranger mystérieux}
+{148}{}{Commando}
+{149}{}{Poches}
+{150}{}{Beau parleur}
+{151}{}{Elève vif}
+{152}{}{Atout !}
+{153}{}{Mutation !}
 #
 #
-# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me !)
 #
 #
-{154}{}{Nuka-Fiend}         # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
-{155}{}{Juicer}             # TRANSLATORS: Slang word for a person who uses/abuses steroids.
-{156}{}{Completely Mental}  # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
-{157}{}{Psycho}             # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
-{158}{}{Radiant}            # Could use suggestions for other ideas on this.
-{164}{}{Alcoholic}          # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
+{154}{}{Obsédé du Nuka}    # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
+{155}{}{Taré de la gonflette}     # TRANSLATORS: Slang word for a person who uses/abuses steroids.
+{156}{}{Fondu du crâne}    # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy"
+{157}{}{Psychopathe !}    # Other ideas: Could add stylized emphasis such as "Psycho !" or "PSYCHO".
+{158}{}{Rayonnant}      # Could use suggestions for other ideas on this.
+{164}{}{Alcoolique}   # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
 #
 #
 # WEAPON PERKS
 #
 # NOTE: These are not seen in-game; they are labels used internally to describe built-in weapon bonuses
 #
-{159}{}{Weapon Long Range}
-{160}{}{Weapon Accurate}
-{161}{}{Weapon Penetrate}
-{162}{}{Weapon Knockback}
-{163}{}{Power Armor}
+{159}{}{Arme de longue portée}
+{160}{}{Arme précise}
+{161}{}{Arme pénétrante}
+{162}{}{Arme de lancer}
+{163}{}{SuperArmure}
 #
 #
 #  PERK DESCRIPTIONS
@@ -93,59 +93,59 @@
 ##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
 ##
 #
-{201}{}{You have honed your ability to notice details about people and the world around you. For example, Awareness will show you the exact number of hit points and weapon held when you perform an Examine on a person.}
-{202}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand attacks cost 1 AP less to perform.}
-{203}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
-{204}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
-{205}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}
-{206}{}{This Perk allows you to pull the trigger a little more faster, and still remain as accurate as before. Each ranged weapon attack costs 1 AP less to perform.}
-{207}{}{You are more likely to move before your opponents in combat, since your Sequence is +2 for each level of this Perk.}
-{208}{}{With each level of this Perk, you will get a +1 bonus to your Healing Rate. Thus you heal faster.}
-{209}{}{You are more likely to cause Critical Hits in combat if you have this Perk. Each level of More Criticals will give you +5% to your Critical Chance. This is a good thing.}
-{210}{}{With the Night Vision Perk, you can see in the dark better. Each level of this Perk will reduce the overall darkness level by 10%.}
-{211}{}{You command attention by just walking into a room. The initial reaction of another person is improved by 10% for each level of this Perk.}
-{212}{}{You are better able to avoid radiation, and the bad effects radiation causes. Each level of this Perk will improve your Radiation Resistance by 15%.}
-{213}{}{When you are tough, you take less damage. Each level of this Perk will add +10% to your general damage resistance.}
-{214}{}{AKA Mule. You can carry an additional 50 lbs. of equipment for each level of this Perk.}
-{215}{}{The talent of hitting things at longer distances. You get a +2 bonus, for each level of this Perk, to Perception for the purposes of determining range modifiers. This DOES have an effect at PER of 9 & 10.}
-{216}{}{With this Perk, you now have the ability to move quickly and still remain quiet. You can Sneak, and run at the same time. Without this Perk, you would automatically stop Sneaking if you ran.}
-{217}{}{You are a master of the outdoors, surviving in hostile environments where others would surely perish. For each level of this Perk, you receive +20% to your Outdoorsman skill, and an additional +20% in wilderness survival situations.}
-{218}{}{You have mastered one aspect of bartering - the ability to buy goods for far cheaper than an average person. With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
-{219}{}{Each level of Educated will add +5 skill points when you earn a new experience level. This Perk works best when purchased early in your adventure.}
-{220}{}{The healing of bodies comes easier to you with this Perk. Each level will add 2-5 more hit points healed when using the First Aid or Doctor skills.}
-{221}{}{You have the talent of finding money, or just tend to get lucky. You will find additional bottle caps in random encounters in the wasteland.}
-{222}{}{The critical hits you cause in combat are more devastating. You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done. This does not affect the chance to cause a critical hit.}
-{223}{}{You have studied other human beings, giving you the inside knowledge of their emotional reaction to you. You will see the reaction level of the person you are talking to, when involved in an in-depth conversation.}
-{224}{}{The Slayer walks the earth! In hand-to-hand combat, all of your hits are upgraded to critical hits - causing destruction and mayhem.}
-{225}{}{You have mastered the firearm as a source of pain. With this Perk, any successful hit in combat with a ranged weapon will be upgraded to a critical hit if you also make a Luck roll.}
-{226}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack. Silent Death is that kind of Perk.}
-{227}{}{Each level of Action Boy (insert Girl if you wish) will give you an additional AP to spend every combat turn. You can use these generic APs on any task.}
-{228}{}{Mental Block is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
-{229}{}{With each level of this Perk, your Maximum Hit Points increases by 4. You also gain an addition 4 Hit Points per experience level earned. This may not seem like a lot, but every little bit helps.}
-{230}{}{You are less likely to be hit in combat, if you have this Perk. Every level will add +5 to your Armor Class, in addition to the AC bonus from any worn armor.}
-{231}{}{Yum! Tastes like chicken. You have gained an immunity to poison, resulting in a +25% to your Poison Resistance.}
-{232}{}{This Perk will give you a one-time bonus of +20% to the Repair and Science skills. A little late night cramming never hurt anybody, especially you.}
-{233}{}{The Medic Perk will give you a one-time bonus of +20% to the First Aid and Doctor skills. Healing skills are a good thing.}
-{234}{}{A Master Thief has a one-time bonus of +10% to the Sneak, Lockpick, Steal and Traps skills. Rob from the rich, and give to you.}
-{235}{}{Being a Speaker means that you have a one-time bonus of +20% to the Speech and Barter skills. From the mouth of babes and all that.}
-{236}{}{Each level of the Heave Ho! Perk will give your thrown weapons an additional +2 Strength for purposes of determining range only.}
-{237}{}{Characters that are part of your team are high-lighted green in combat instead of red, if you have this Perk. Red high-lighted characters may still be non-hostile toward you.}
-{238}{}{You are much more adept at Stealing than the normal crook. You can Steal with the best of them, because with this Perk, you ignore size and facing modifiers, when stealing from a person.}
-{239}{}{When the sun goes down, or you are in a poorly lit area, you move like a Ghost with this Perk. Your Sneak skill is enhanced +20% during darkness conditions.}
-{240}{}{Your reputation is always positive to people. Without this Perk, a large negative reputation would have a bad effect on good natured people. Works with a good rep and bad people, too.}
-{241}{}{You can find more ammo than the normal post-holocaust survivor. This Perk will double the amount of ammo found in random encounters.}
-{242}{}{The mark of the Explorer is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places or people.}
-{243}{}{With this Perk, you are much less likely to be addicted to drugs (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
-{244}{}{The Pathfinder is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
-{245}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
-{246}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction.}
-{247}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him to be replaced.}
-{248}{}{You are better able to avoid unwanted attention while traveling through the wasteland. Your chance of a hostile random encounter is lowered by each level of this Perk.}
-{249}{}{You have learned to better store your equipment on your person. With each level of this Perk, the AP cost to access Inventory in combat is reduced by one.}
-{250}{}{A Smooth Talker has learned to increase their options in dialogue, without understanding what they are talking about. Each level of this Perk will increase your IN by one, for purposes of dialogue only.}
-{251}{}{You are indeed a Swift Learner with this Perk, as each level will give you an additional 5% bonus whenever you earn experience. Best purchased at an early level.}
-{252}{}{Your skills have improved to the point where you can pick an additional Tag Skill, increasing that skill by +20% immediately and 2% per skill point spent.}
-{253}{}{The radiation of the wasteland has changed you! One of your Traits has mutated into something else...}
+{201}{}{Tu remarques plus de choses sur ceux qui t'entourent. Lorsque tu effectues un examen sur une personne, tu as accès à des informations plus détaillées.}
+{202}{}{Ou bien tu as appris les secrets des arts orientaux, ou bien tes coups de poing sont simplement plus rapides. Dans les deux cas, chaque attaque au corps-à-corps t'épargne 1 PA.}
+{203}{}{Ton expérience du corps-à-corps fait de toi un adversaire redoutable. A chaque niveau de cette aptitude, tes attaques au c-à-c ou en mêlée font +2 pts de dégâts à ton adversaire.}
+{204}{}{A chaque niveau de cette aptitude, tu reçois 2 PA gratuits à chaque tour, uniquement utilisables pour te déplacer. Autrement dit, tu peux te déplacer de deux cases gratuitement pour chaque niveau de cette aptitude.}
+{205}{}{Ton expérience des armes à feu et autres armes à distance te rend redoutable. A chaque niveau de cette aptitude, tu feras +2 pts de dégâts avec les armes à feu et les armes autre que c-à-c.}
+{206}{}{Cette aptitude te permet de tirer un peu plus vite tout en conservant la même précision. Chaque attaque avec une arme à distance te coûte 1 PA de moins.}
+{207}{}{Tu augmentes tes chances de précéder tes adversaires au combat, car à chaque niveau de cette aptitude, ta position (Séquence) augmente de +2.}
+{208}{}{A chaque niveau de cette aptitude, ta vitesse de guérison augmente de +1, ce qui te permet de guérir plus vite.}
+{209}{}{Avec cette aptitude, tu augmentes tes chances d'infliger des coups critiques au combat. Chaque niveau de plus à cette aptitude augmente tes chances de +5%, avantage non négligeable.}
+{210}{}{Grâce à la vision nocturne, tu vois mieux dans l'obscurité. Chaque niveau de cette aptitude réduit l'obscurité générale de 10%.}
+{211}{}{Tu attires l'attention simplement en traversant une pièce. La réaction initiale des personnes qui t'entourent augmente de 10% à chaque niveau de cette aptitude.}
+{212}{}{Tu échappes plus facilement aux radiations et à leurs effets nocifs. A chaque niveau de cette aptitude, ta résistance aux radiations augmente de 15%.}
+{213}{}{Lorsque ta résistance est élevée, tu subis moins de dégâts. A chaque niveau de cette aptitude, ta résistance générale aux dégâts augmente de +10%.}
+{214}{}{Alias Mulet. A chaque niveau de cette aptitude, tu peux transporter 25 kg (50 lbs) de matériel en plus.}
+{215}{}{A chaque niveau de cette aptitude, tu reçois un bonus de perception de +2 qui te permet de repérer plus aisément les modificateurs de portée. Valable aussi avec une Perception de 9 ou 10.}
+{216}{}{Avec cette aptitude, tu peux désormais te déplacer rapidement et en silence. Tu peux utiliser ta compétence de furtivité et courir au même moment.}
+{217}{}{Cette aptitude te permet de survivre dans un environnement hostile. A chaque niveau de cette aptitude, tu reçois un bonus de Vie en Extérieur de +20%, +20% additionnels pour les situations de survie en milieu sauvage.}
+{218}{}{Maître dans l'art de négocier, tu achètes des marchandises à des prix plus intéressants que quiconque. Tu bénéficies de 25% de remise sur les achats effectués dans un magasin et auprès des autres marchands.}
+{219}{}{A chaque niveau de cette aptitude, tu reçois +5 points de compétence lorsque tu accèdes au niveau d'expérience supérieur. Pour tirer le meilleur parti de cette aptitude, tâche de l'acheter au début de ton aventure.}
+{220}{}{Cette aptitude te permet de guérir plus efficacement les blessures. A chaque niveau, tu reçois 2 à 5 points d'impact guéris supplémentaires lorsque tu utilises les compétences Secourisme ou Médecin.}
+{221}{}{Tu as le talent de trouver de l'argent, ou bien tu es juste chanceux. Tu trouveras également de l'argent lors de tes rencontres dans le désert.}
+{222}{}{Les coups critiques que tu infliges au combat sont plus redoutables. Bonus de 20% sur le tableau des coups critiques. Tu crées donc plus de dégâts. Ceci n'affecte pas tes chances d'infliger des coups critiques.}
+{223}{}{Tu as étudié la sociologie, ce qui te permet d'évaluer leurs réactions émotionnelles à ton égard. Tu peux voir le niveau de réactions de la personne avec qui tu parles lorsque tu entames avec elle une conversation approfondie.}
+{224}{}{Le Tueur est parmi nous ! Lors des combats au corps-à-corps, tous tes coups sont transformés en coups critiques. Tu sèmes alors la terreur et la destruction sur ton passage.}
+{225}{}{Tu maîtrises le maniement des armes à feu pour semer la terreur. Avec cette aptitude, chaque tir réussi avec une arme à distance se transforme en impact critique, à condition de réussir un test de chance.}
+{226}{}{L'aptitude de Furtivité te permet de lancer une attaque au corps-à-corps qui, si tu attaques ton adversaire par derrière, lui infligera deux fois plus de dégâts. C'est ça l'aptitude Mort Silencieuse !}
+{227}{}{A chaque niveau de l'aptitude Homme (ou Femme) d'action, tu reçois 1 PA que tu pourras utiliser à chaque tour de combat. Ce ou ces PA peuvent être utilisé(s) pour n'importe quelle tâche.}
+{228}{}{Le Bloc mental est l'aptitude à déjouer toute interférence mentale extérieure. Ce talent doit t'avoir été enseigné par un gourou de passage ou à la fin d'une soirée dans un bar.}
+{229}{}{A chaque niveau de cette aptitude, tu reçois 4 points d'impact. Tu reçois aussi un bonus supplémentaire de 4 points d'impact par niveau d'expérience acquis. C'est peu, mais additionnés ces points peuvent t'être très utiles.}
+{230}{}{Lorsque tu possèdes cette aptitude, tes chances d'être touché(e) au combat diminuent. A chaque niveau, tu reçois un bonus de classe d'armure de +5%, en plus du bonus de classe pour l'armure que tu portes.}
+{231}{}{Miam ! Ça a le goût de poulet. Ton immunisation contre le poison augmente ta résistance au poison de +25%.}
+{232}{}{Avec cette aptitude, tu reçois un bonus unique de +20% aux compétences Réparation et Science. Ce n'est pas un peu de bachotage qui va te faire peur !}
+{233}{}{Avec l'aptitude Médecin, tu reçois un bonus de +20% aux compétences Secourisme et Médecin. Etre capable de soigner est une bonne chose.}
+{234}{}{Avec l'aptitude Maître Voleur, tu reçois un bonus de +10% aux compétences Esquive, Passe-partout, Voleur, et Pièges. Vole aux riches, garde pour toi !}
+{235}{}{Avec l'aptitude Orateur, tu reçois un bonus de +20% aux compétences Discours et Troc. La vérité sort de la bouche des enfants, il parait...}
+{236}{}{A chaque niveau de l'aptitude Oh Hisse !, tes armes de lancement reçoivent +2 points de Force uniquement à des fins d'évaluation de la portée.}
+{237}{}{Les membres de ton équipe n'apparaissent plus en rouge mais en vert durant les combats. Les personnages en rouge peuvent se montrer amicaux à ton égard.}
+{238}{}{Avec cette aptitude, tu peux voler mieux que n'importe quel escroc, car ni la taille de l'objet ni l'angle d'attaque ne t'importent lorsque tu détrousses une personne.}
+{239}{}{Lorsque le soleil se couche, ou lorsque tu te trouves dans un lieu mal éclairé, cette aptitude te permet de te déplacer tel un fantôme. Dans l'obscurité, ta compétence de furtivité augmente de +20%.}
+{240}{}{Tu as toujours une bonne réputation. Sans cette aptitude, une mauvaise réputation aurait des effets négatifs sur les personnes les plus bienveillantes. Même chose pour une bonne réputation face à des personnes malveillantes.}
+{241}{}{Tu peux trouver plus de munitions que n'importe quel survivant de la Grande Guerre. Cette aptitude double la quantité de munitions que tu découvriras au cours de tes rencontres aléatoires.}
+{242}{}{L'objectif de l'explorateur est de trouver de nouveaux sites intéressants. Avec cette aptitude, tu as plus de chances de découvrir des lieux ou des gens sortant de l'ordinaire.}
+{243}{}{Avec cette aptitude, tu as deux fois moins de chances de devenir accro aux stimulants, et tu souffres deux fois moins des effets secondaires qu'une personne normale.}
+{244}{}{Le pionnier est plus apte que quiconque à trouver le chemin le plus court. A chaque niveau de cette aptitude, le temps qu'il te faut pour voyager sur la Carte du Monde est réduit de 25%.}
+{245}{}{Les animaux n'attaquent jamais leurs amis à moins d'être menacés ou attaqués. Quant à la définition du mot animal dans ce monde... Le débat est ouvert.}
+{246}{}{Tes aptitudes de repérage se sont améliorées, ce qui accroît l'étendue de tes explorations sur la Carte du Monde d'un carré dans chaque direction.}
+{247}{}{Avec cette aptitude, tu as attiré l'attention d'un étranger mystérieux, qui apparaîtra de temps en temps pour t'aider. Si cet allié meurt au combat, ne t'attends pas à ce qu'on te le remplace.}
+{248}{}{Tu attires moins l'attention lorsque tu voyages dans le désert. A chaque niveau de cette aptitude, tes chances de faire de mauvaises rencontres diminuent.}
+{249}{}{Tu as appris à mieux ranger ton matériel dans tes poches. A chaque niveau de cette aptitude, le coût en PA pour accéder à l'Inventaire pendant un combat diminue d'un point.}
+{250}{}{Les beaux parleurs s'expriment bien, sans forcément comprendre de quoi ils parlent. A chaque niveau de cette aptitude, tu reçois un point d'Intelligence, à des fins de dialogue uniquement.}
+{251}{}{Avec cette aptitude, tu apprends plus vite. A chaque niveau, tu reçois un bonus de +5% lorsque tu gagnes de l'expérience. A choisir de préférence au cours des premiers niveaux.}
+{252}{}{Compte tenu de l'amélioration de tes compétences, tu peux sélectionner un nouvel atout personnel. Tu recevras immédiatement +20%, puis 2% par point compétence utilisé pour cet atout.}
+{253}{}{Les radiations du désert t'ont changé(e) ! Une de tes qualités s'est transformée en quelque chose d'autre...}
 #
 #
 # ADDICTION MESSAGES
@@ -153,23 +153,23 @@
 #
 ##
 ## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+## (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
 ##
-{254}{}{You crave another Nuka-Cola, the delicious thirst-quenching soda pop.}
-{255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
-{256}{}{You feel groggy and slow. Your brain itself seems to ache...}
-{257}{}{You feel light-headed and irritable. Where's that spare syringe?}
-{258}{}{You feel nauseous and need a fix. Just one more pouch, that's all!}
-{264}{}{You just want a hard drink; it's everyone else that has the problem.}
+{254}{}{Il te faut du Nuka-Cola. Ce délicieux soda si désaltérant.}
+{255}{}{Tu trembles et tu te sens faible. La vie est dure sans stéroides}
+{256}{}{Tu as les jambes en coton. Ton cerveau semble tourner au ralenti.}
+{257}{}{Tu te sens lucide et tu es irritable. Où est cette foutue seringue ?}
+{258}{}{Tu as des nausées et tu as besoin d'un fix. Juste une dernière, c'est tout !}
+{264}{}{Tu as juste besoin d'un truc à te mettre dans le gosier. C'est les autres qui ont un problème, pas toi.}
 #
 #
 # NOTE: These are not seen in-game; they are labels used internally to describe built-in item bonuses
 #
-{259}{}{Weapon Long Range}
-{260}{}{Weapon Accurate}
-{261}{}{Weapon Penetrate}
-{262}{}{Weapon Knockback}
-{263}{}{Power Armor}
+{259}{}{Arme de longue portée}
+{260}{}{Arme précise}
+{261}{}{Arme pénétrante}
+{262}{}{Arme de lancer}
+{263}{}{SuperArmure}
 # 264 is above
 #
 # Sduibek, Fallout Fixt - for some reason the game crashes if you create new line 265 used for Alcohol Addiction, so using this line instead.

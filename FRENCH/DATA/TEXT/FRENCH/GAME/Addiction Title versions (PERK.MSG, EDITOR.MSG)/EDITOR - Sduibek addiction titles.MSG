@@ -6,164 +6,163 @@
 #
 #
 #
-{100}{}{DONE}
+{100}{}{VALIDER}
 {101}{}{OPTIONS}
-{102}{}{CANCEL}
-{103}{}{PRINT}
+{102}{}{ANNULER}
+{103}{}{IMPRIMER}
 {104}{}{AGE}
-{105}{}{SEX}
-{106}{}{NAME}
-{107}{}{MALE}
-{108}{}{FEMALE}
-{109}{}{Perks}
-{110}{}{Karma}
-{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
-{112}{}{SKILL POINTS}
-{113}{}{Level:}
-{114}{}{Experience:}
-{115}{}{Next Level:}
-{116}{}{CHAR POINTS}
-{117}{}{SKILLS}
-{118}{}{You must use all character points} # 1
-{119}{}{before starting the game!}         # 2
+{105}{}{SEXE}
+{106}{}{NOM}
+{107}{}{MASC.}
+{108}{}{FEM.}
+{109}{}{APTITUDES}
+{110}{}{KARMA}
+{111}{}{VICTIMES}
+{112}{}{POINTS COMP.}
+{113}{}{Niveau}
+{114}{}{Exp}
+{115}{}{Niveau suiv.}
+{116}{}{PTS PERSONNAGE}
+{117}{}{COMPETENCES}
+{118}{}{Tu dois utiliser tous tes points de personnage}  # 1
+{119}{}{ avant de lancer le jeu !} # 2
 #
 ##
 ## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
 ##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
 ##
 #
-{120}{}{Character Points}
-{121}{}{Amount of free points that can be added to your primary statistics.}
-{122}{}{Next Level}
-{123}{}{This is how many experience points are needed to move up to the next level.}
-{124}{}{Perks}
+{120}{}{Points de personnage}
+{121}{}{Nombre de points de personnage disponibles pouvant être ajoutés à l'une des statistiques de base.}
+{122}{}{Niveau suivant}
+{123}{}{Nombre de points d'expérience requis pour passer au niveau suivant.}
+{124}{}{Aptitudes}
 {125}{}{Karma}
-{126}{}{Kills}
-{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
-{128}{}{These are the effects of the choices you make during the game.}
-{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
-{130}{}{Skill Points}
-{131}{}{Use free skill points to increase the level of a skill.}
+{126}{}{Victimes}
+{127}{}{Les aptitudes offrent des compétences supplémentaires. Tu peux choisir une aptitude tous les trois niveaux d'expérience.}
+{128}{}{Reflète les effets des choix que tu effectues pendant le jeu.}
+{129}{}{Indicateur répertoriant le type et le nombre de créatures que tu as éliminées ou que tu as vu se faire tuer.}
+{130}{}{Points de compétences}
+{131}{}{Utilise tes points de compétences disponibles pour accroître le niveau d'une compétence.}
 #
-{132}{}{At maximum level.}        # 1
-{133}{}{Unable to increment it.}  # 2
-{134}{}{At minimum level.}        # 1
-{135}{}{Unable to decrement it.}  # 2
-{136}{}{No free skill points available.}
-{137}{}{Base:}
-{138}{}{TAG SKILLS}
-{139}{}{OPTIONAL TRAITS}
-{140}{}{You already have the maximum of} # 1
-{141}{}{three tag skills!}               # 2
-{142}{}{You must select all tag skills}  # 1
-{143}{}{before starting the game!}       # 2
-{144}{}{Tag Skills}
-{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
-{146}{}{Optional Traits}
-{147}{}{Optional traits define your character in more detail.  All traits will have both positive and negative effects.  You may choose up to two traits during character creation.}
-{148}{}{You already have the maximum of} # 1
-{149}{}{two traits!}                     # 2
-{150}{}{Skills}
-{151}{}{Skills are learned knowledge.  Skills increase by experience, or during the course of the game by special events.  The higher the skill level, the better you are at that skill.}
+{132}{}{Niveau maximum.} # 1
+{133}{}{Impossible de l'augmenter.} # 2
+{134}{}{Niveau minimum.} # 1
+{135}{}{Impossible de descendre.}
+{136}{}{Aucun point de compétences disponible.} # 2
+{137}{}{Base :}
+{138}{}{ATOUTS PERSO.}
+{139}{}{QUALITES FACULTATIVES}
+{140}{}{Tu possèdes déjà les trois } # 1
+{141}{}{atouts personnels maximaux !}# 2
+{142}{}{Tu dois sélectionner tous les atouts }# 1
+{143}{}{personnels avant de lancer le jeu !}# 2
+{144}{}{Atouts personnels }
+{145}{}{Les atouts personnels correspondent aux spécialités de ton personnage. Chaque atout personnel donne +20% et augmente deux fois plus vite. Tu dois sélectionner trois atouts personnels.}
+{146}{}{Qualités facultatives}
+{147}{}{Les qualités facultatives présentent ton personnage plus en détail. Toutes les qualités ont des effets ou positifs ou négatifs. Pour créer ton personnage, tu peux choisir au maximum deux qualités.}
+{148}{}{Tu possèdes déjà les } # 1
+{149}{}{2 qualités autorisées !}# 2
+{150}{}{Compétences}
+{151}{}{Correspondent aux connaissances acquises. Augmentent selon l'expérience ou les événements. Tes performances sont meilleures quand le niveau de la compétence est élevé.}
 #
-{152}{}{PICK A PERK}
-{153}{}{PICK A NEW TRAIT}
-{154}{}{LOSE A TRAIT}
-{155}{}{PICK A NEW TAG SKILL}
-{156}{}{TRAITS}
+{152}{}{SELECTIONNE UNE APTITUDE}
+{153}{}{SELECTIONNE UNE QUALITE}
+{154}{}{RENONCE A UNE QUALITE}
+{155}{}{SELECTIONNE UN NOUVEL ATOUT}
+{156}{}{QUALITES}
 #
-{157}{}{All stats must be between 1 and 10} # 1
-{158}{}{before starting the game!}          # 2
+{157}{}{Toutes les statistiques doivent être comprises entre 1 et 10}# 1
+{158}{}{avant de lancer le jeu !}# 2
 #
 #
 #
 # Abbreviated basic stat levels
 #
-{200}{}{V.Bad}  # Very Bad
-{201}{}{Bad}    # Bad
-{202}{}{Poor}   # Poor
-{203}{}{Fair}   # Fair
-{204}{}{Avrg}   # Average
-{205}{}{Good}   # Good
-{206}{}{V.Good} # Very Good
-{207}{}{Great}  # Great
-{208}{}{Exclnt} # Excellent
-{209}{}{Heroic} # Heroic
+{200}{}{Nul}
+{201}{}{Mauv.}
+{202}{}{Faible}
+{203}{}{Moyen}
+{204}{}{Normal}
+{205}{}{Bon}
+{206}{}{T. bon}
+{207}{}{Super}
+{208}{}{Exclt}
+{209}{}{Héros}
 #
 #
 # Abbreviated Derived/Non Derived stat names
 #
-{300}{}{Hit Points}
-{301}{}{Action Points }
-{302}{}{Armor Class}
+{300}{}{PI}
+{301}{}{Points d'action}
+{302}{}{Cla. d'armure}
 {303}{}{} # 303 is blank on purpose, leave blank
-{304}{}{Melee Damage}
-{305}{}{Damage Res.  }
-{306}{}{Poison Res.   }
-{307}{}{Radiation Res.}
-{308}{}{Sequence}
-{309}{}{Healing Rate}
-{310}{}{Critical Chance}
-{311}{}{Carry Weight}
-{312}{}{Poisoned}
-{313}{}{Irradiated}
-{314}{}{Eye Damage}
-{315}{}{Crippled Right Arm}
-{316}{}{Crippled Left Arm}
-{317}{}{Crippled Right Leg}
-{318}{}{Crippled Left Leg}
+{304}{}{Dégâts en rixe}
+{305}{}{Rés. dégâts}
+{306}{}{Rés. poison}
+{307}{}{Rés. radiation}
+{308}{}{Séquence}
+{309}{}{Vit. guérison}
+{310}{}{Coups crit.}
+{311}{}{Charge max.}
+{312}{}{Empoisonnement}
+{313}{}{Irradiation}
+{314}{}{Blessure à l'œil}
+{315}{}{Bras dr. estropié}
+{316}{}{Bras g. estropié}
+{317}{}{Jambe dr. estropiée}
+{318}{}{Jambe g. estropiée}
 #
 #
 # Damage info texts
 #
 # Poisoned
-{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
-# Radiation
-{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+{400}{}{Ton personnage a été empoisonné. Le poison agira un certain temps, jusqu'à ce que le mal soit éradiqué ou jusqu'à ce qu'il soit soigné. L'Endurence augmente ta résistance au poison.}
+{401}{}{Ton personnage a été sérieusement irradié. Plus les radiations sont importantes, plus leurs effets sont mortels. Monter à 1000 ou plus signifie généralement une mort certaine.}
 # Eye Damage
-{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+{402}{}{Cela signifie que ton personnage a été sérieusement touché à un œil ou aux deux yeux. Ta perception en sera affectée.}
 # Crippled right arm
-{403}{}{Your right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons at all.}
+{403}{}{Le bras droit du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié, tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser d'arme pour attaquer.}
 # Crippled left arm
-{404}{}{Your left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons at all.}
+{404}{}{Le bras gauche du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié, tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser d'arme pour attaquer.}
 # Crippled right leg
-{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+{405}{}{La jambe droite de ton personnage est estropiée. Cela affecte ta vitesse en combat, et tu ne peux pas courir.}
 # Crippled left leg
-{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+{406}{}{La jambe gauche de ton personnage est estropiée. Cela affecte ta vitesse en combat, et tu ne peux pas courir.}
 #
 # Month strings
-{500}{}{January}
-{501}{}{February}
-{502}{}{March}
-{503}{}{April}
-{504}{}{May}
-{505}{}{June}
-{506}{}{July}
-{507}{}{August}
-{508}{}{September}
-{509}{}{October}
-{510}{}{November}
-{511}{}{December}
+{500}{}{janvier}
+{501}{}{février}
+{502}{}{mars}
+{503}{}{avril}
+{504}{}{mai}
+{505}{}{juin}
+{506}{}{juillet}
+{507}{}{août}
+{508}{}{septembre}
+{509}{}{octobre}
+{510}{}{novembre}
+{511}{}{décembre}
 #
 #
 # Option menu text
 #
-{600}{}{SAVE}
-{601}{}{LOAD}
-{602}{}{PRINT TO FILE}
-{603}{}{ERASE}
-{604}{}{DONE}
-{605}{}{Are you sure you want to erase}      # line 1
-{606}{}{the current character?}                 # line 2
-{607}{}{ was successfully saved.}
-{608}{}{ was successfully loaded.}
-{609}{}{already exists!}
-{610}{}{Do you wish to overwrite?}
-{611}{}{Error saving }
-{612}{}{Error loading }
-{613}{}{Character file invalid.}
-{614}{}{Character data invalid.}
-{615}{}{Error reading file list!}
+{600}{}{SAUVEGARDER}
+{601}{}{CHARGER}
+{602}{}{IMPRIMER}
+{603}{}{EFFACER}
+{604}{}{VALIDER}
+{605}{}{Veux-tu vraiment supprimer} # line 1
+{606}{}{ce personnage ?}  # line 2
+{607}{}{ a été sauvegardé.}
+{608}{}{ a été chargé.}
+{609}{}{existe déjà.}
+{610}{}{Ecraser la sauvegarde precedente ?}
+{611}{}{Erreur à la sauvegarde}
+{612}{}{Erreur au chargement}
+{613}{}{Fichier personnage incorrect.}
+{614}{}{Données personnage incorrectes.}
+{615}{}{Erreur à la lecture de la liste de fichiers !}
 {616}{}{} # 616 is blank on purpose, leave blank
 {617}{}{} # 617 is blank on purpose, leave blank
 {618}{}{BLANK.GCD}
@@ -171,9 +170,9 @@
 #
 # ASCII text file printing text
 #
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{VAULT 13 PERSONNEL RECORD} # Title line 2
-{622}{}{hours} # Title line 3
+{620}{}{FALLOUT}   # Title line 1
+{621}{}{REGISTRE DU PERSONNEL DE L'ABRI 13}    # Title line 2
+{622}{}{heures}    # Title line 3
 # -
 # -
 #{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
@@ -184,100 +183,98 @@
 #{000}{}{       Agility: 00    Radiation Res.: 000%}
 #{000}{}{          Luck: 00       Poison Res.: 000%}
 #
-{623}{}{ ::: Statistics :::}
-{624}{}{       Strength:}
-{625}{}{        Hit Points:}
-{626}{}{        Sequence:}
+{623}{}{ : : : Statistiques : : :}
+{624}{}{       Force :}
+{625}{}{        Points d'impact :}
+{626}{}{        Séquence :}
 # -
-{627}{}{     Perception:}
-{628}{}{       Armor Class:}
-{629}{}{        Healing Rate:}
+{627}{}{     Perception :}
+{628}{}{       Type armure :}
+{629}{}{        Vit. guérison :}
 # -
-{630}{}{      Endurance:}
-{631}{}{     Action Points:}
-{632}{}{      Critical Chance:}
+{630}{}{      Endurance :}
+{631}{}{     Points d'action :}
+{632}{}{      Coups critiques :}
 # -
-{633}{}{       Charisma:}
-{634}{}{      Melee Damage:}
-{635}{}{         Carry Weight:}
+{633}{}{       Charisme :}
+{634}{}{      Dégâts en rixe :}
+{635}{}{         Charge max. :}
 # -
-{636}{}{   Intelligence:}
-{637}{}{       Damage Res.:}
+{636}{}{   Intelligence :}
+{637}{}{       Rés. dégâts :}
 # -
-{638}{}{        Agility:}
-{639}{}{    Radiation Res.:}
+{638}{}{        Agilité :}
+{639}{}{    Rés. radiation :}
 # -
-{640}{}{           Luck:}
-{641}{}{       Poison Res.:}
+{640}{}{           Chance :}
+{641}{}{       Rés. poison :}
 # -
 # -
 #{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
-{642}{}{  Name:}
-{643}{}{Age:}
-{644}{}{               Gender:}
-{645}{}{Male}
-{646}{}{Female}
+{642}{}{  Nom :}
+{643}{}{Age :}
+{644}{}{               Sexe :}
+{645}{}{Masc.}
+{646}{}{Fém.}
 #-
 #{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
-{647}{}{ Level:}
-{648}{}{                Exp:}
-{649}{}{Next Level:}
+{647}{}{Niveau :}
+{648}{}{                Exp :}
+{649}{}{Niveau suivant :}
 #-
-{650}{}{ ::: Traits :::           ::: Perks :::           ::: Karma :::}
+{650}{}{ : : : Qualités : : :           : : : Aptitudes : : :           : : : Karma : : :}
 #-
-{651}{}{ ::: Skills :::                ::: Kills :::}
+{651}{}{ : : : Compétences : : :                : : : Victimes : : :}
 #-
-{652}{}{ ::: Inventory :::}
+{652}{}{ : : : Inventaire : : :}
 #-
-{653}{}{                                      Total Weight:}
+{653}{}{                                      Charge totale :}
 #
 #
 # Karma name strings
 #
 #
-{1000}{}{Reputation (General)  }
-{1001}{}{Berserker!}
+{1000}{}{Réputation générale}
+{1001}{}{Folie Furieuse !}
 {1002}{}{Champion}
-{1003}{}{Child-Killer}
+{1003}{}{Tueur d'enfants}
 #
 #
-# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me !)
 #
 #
-{1004}{}{Nuka-Fiend}         # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
-{1005}{}{Juicer}             # TRANSLATORS: Slang word for a person who uses/abuses steroids.
-{1006}{}{Completely Mental}  # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
-{1007}{}{Psycho}             # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
-{1008}{}{Radiant}            # Could use suggestions for other ideas on this.
-{1009}{}{Alcoholic}          # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
-#
+{1004}{}{Obsédé du Nuka} #Nuka-Cola
+{1005}{}{Taré de la Gonflette} #Buffout
+{1006}{}{Fondu du Crâne} #Mentats
+{1007}{}{Psychopathe !} #Psycho
+{1008}{}{Rayonnant} #Radaway
+{1009}{}{Alcoolique} #Alcool
 #
 # Karma description strings
 #
-#
-{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
-{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
-{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
-{1103}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
-{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
-{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
-{1107}{}{You have a vicious drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
-{1109}{}{You have a problem with alcohol. Actually, you have many problems with your drinking habits.}
-{1110}{}{TEMPORARY - What is this?}
+{1100}{}{Statistique reflétant ta réputation générale. Plus cette valeur est élevée, plus on te respecte. Si ta réputation est négative, cela signifie que certains te détestent pour tes actions malveillantes.}
+{1101}{}{Tu as tué beaucoup de gens. Il est préférable de ne pas t'en vanter. Pourtant cela peut aussi t'attirer les faveurs de certaines personnes malveillantes.}
+{1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
+{1103}{}{Tu as tué des jeunes gens, des jeunes du désert, ce qui est très mal vu. Tu es un être diabolique.}
+{1104}{}{Tu raffoles de Nuka-Cola, le soda du monde post-nucléaire.}
+{1105}{}{Tu dois prendre du Buffout régulièrement pour te sentir bien.}
+{1106}{}{Tu dois boire du Mentats régulièrement pour te sentir bien.}
+{1107}{}{Si tu n'absorbes pas régulièrement de Psycho, tu souffres. Et si tu souffres, tu fais souffrir les autres.}
+{1108}{}{Tu es un adepte du Radaway. Bien que ta vie ne soit pas en danger, tu dois en prendre régulièrement.}
+{1109}{}{Tu as un problème avec l'alcool. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
+{1110}{}{PROVISOIRE - Qu'est-ce que c'est ?}
 #
 #
 #
 # TEXT USED FOR falldemo.exe DEMO VERSION ONLY
 #
 #
-{5000}{}{Sorry, you can only print your}   # 1
-{5001}{}{character in the full version.}   # 2
-{5002}{}{Sorry, you can only save your}    # 1
-{5003}{}{character in the full version.}   # 2
-{5004}{}{Sorry, you can only load a saved} # 1
-{5005}{}{character in the full version.}   # 2
-{5006}{}{CHEAT MODE}
-{5007}{}{Not available in demo.}
+{5000}{}{Créer un personnage n'est}# 1
+{5001}{}{possible que dans la version complète.}# 2
+{5002}{}{Sauvegarder un personnage n'est}# 1
+{5003}{}{possible que dans la version complète.}# 2
+{5004}{}{Charger un personnage sauvegardé n'est }# 1
+{5005}{}{possible que dans la version complète.}# 2
+{5006}{}{MODE TRICHE}
+{5007}{}{Non disponible dans la démo.}
 #

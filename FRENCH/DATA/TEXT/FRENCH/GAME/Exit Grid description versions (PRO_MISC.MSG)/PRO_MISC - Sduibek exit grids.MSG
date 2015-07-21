@@ -1,51 +1,51 @@
 ##
 ## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
 ##
-{100}{}{Rocket}
-{200}{}{Plasma Ball}
+{100}{}{Roquette}
+{200}{}{Balle à plasma}
 {300}{}{Explosion}
-{400}{}{Blood}
-{500}{}{No-Trans hex}
+{400}{}{Sang}
+{500}{}{Carreau Non-Trans}
 {501}{}{}
-{600}{}{Knife}
-{700}{}{Spear}
-{800}{}{EMP Explosion}
-{900}{}{Laser Blast}
-{1000}{}{Plasma Blast}
+{600}{}{Couteau}
+{700}{}{Lance}
+{800}{}{Explosion électromag.}
+{900}{}{Rafale laser}
+{1000}{}{Rafale de plasma}
 {1100}{}{Explosion}
-{1200}{}{Scroll Blocker}
-{1300}{}{Electricity Bolt}
+{1200}{}{Bloqueur de défilement}
+{1300}{}{Eclair d'électricité}
 {1400}{}{Explosion}
 {1500}{}{Explosion}
-{1600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{1900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{2400}{}{Flare}
+{1600}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{1700}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{1800}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{1900}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{2000}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{2100}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{2200}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{2300}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{2400}{}{Fusée éclairante}
 {2500}{}{Grenade}
-{2600}{}{Rock}
+{2600}{}{Rocher}
 {2700}{}{Explosion}
 {2800}{}{Explosion}
 {2900}{}{Explosion}
-{3000}{}{Molotov Cocktail}
-{3100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3700}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3800}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{3900}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4000}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4100}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4200}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4300}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4400}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4500}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
-{4600}{}{an "Exit Grid". You didn't learn about exit grids in your Vault. Sounds scary}
+{3000}{}{Cocktail Molotov}
+{3100}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3200}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3300}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3400}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3500}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3600}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3700}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3800}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{3900}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4000}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4100}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4200}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4300}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4400}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4500}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
+{4600}{}{Une "zone de sortie". Tu n'as rien appris sur les zones de sortie dans ton Abri. Cela te paraît effrayant}
