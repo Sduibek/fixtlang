@@ -57,12 +57,12 @@
 # Skillcheck successes
 #
 {200}{}{Du bist }# this line will be completed with lines below.
- {201}{}{unwesentlich }#  1 to 100 rads. 1 RadAway needed.
- {202}{}{leicht }	# 101 to 299 rads. 2-3 RadAway needed.
- {203}{}{mäßig }	#
- {204}{}{sehr }		#
- {205}{}{extrem }	#
- {206}{}{gefährlich }
+{201}{}{unwesentlich }#  1 to 100 rads. 1 RadAway needed.
+{202}{}{leicht }	# 101 to 299 rads. 2-3 RadAway needed.
+{203}{}{mäßig }	#
+{204}{}{sehr }		#
+{205}{}{extrem }	#
+{206}{}{gefährlich }
 {207}{}{tödlich }
 
 #   1 100		insignificant

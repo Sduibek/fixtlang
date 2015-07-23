@@ -223,7 +223,7 @@
 {1164}{}{Wybacz, szefie. Niewiele wiem na ten temat.}
 {1165}{}{Wêdruj¹ z karawanami po ca³ym Pustkowiu. Przed moim niefortunnym zranieniem pracowa³em dla grupy kupieckiej, zwanej Karmazynow¹ Karawan¹.}
 
- {1999}{}{Nauczy³em siê paru nowych sztuczek.}
+{1999}{}{Nauczy³em siê paru nowych sztuczek.}
 {2000}{}{Pogadajmy o taktyce walki.}
 {2001}{}{Czego?}
 {2010}{}{U¿yj swojej najlepszej broni.}

@@ -7,7 +7,7 @@
 {101}{}{你看见德克。}
 #{102}{}{Decker is too busy to speak to you. Do your job
 # and come back later.}
- {102}{}{德克没空和你说话。干你的活呆会儿再来。}
+{102}{}{德克没空和你说话。干你的活呆会儿再来。}
 #{103}{DECK_1}{
 #So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
 {103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}

@@ -97,13 +97,13 @@
 {181}{}{Die Mitglieder der Brotherhood haben dich beim Stehlen erwischt.}
 
 {182}{}{Los geht's!}                                # 0
- {183}{}{Sieht so aus, als ob du Hilfe brauchen könntest.} # 1
- {183}{}{Sieht so aus, als ob du Hilfe brauchen könntest.} # 1
- {184}{}{Ich werd' dir helfen.}                         # 0
- {184}{}{Ich werd' dir helfen.}                         # 0
- {185}{}{Ich rede nicht viel.}                        # 1
- {185}{}{Ich rede nicht viel.}                        # 1
- {186}{}{Über den Lautsprecher hörst du: Achtung! Vorsicht Eindringlinge!}
+{183}{}{Sieht so aus, als ob du Hilfe brauchen könntest.} # 1
+{183}{}{Sieht so aus, als ob du Hilfe brauchen könntest.} # 1
+{184}{}{Ich werd' dir helfen.}                         # 0
+{184}{}{Ich werd' dir helfen.}                         # 0
+{185}{}{Ich rede nicht viel.}                        # 1
+{185}{}{Ich rede nicht viel.}                        # 1
+{186}{}{Über den Lautsprecher hörst du: Achtung! Vorsicht Eindringlinge!}
 
 {186}{}{Über den Lautsprecher hörst du: Achtung! Vorsicht Eindringlinge!}
 {187}{}{Der Glibber erschwert die Tastatureingabe.}
@@ -147,8 +147,8 @@
 #  because they are for a character with Intelligence of 3 or less.
 # The same should be done with translated versions.
 {194}{}{Du dich in den Weg stellen? Mir!? * Stirnrunzeln *}# Call "Step Aside" code
- {195}{}{Weg du, Geh! Fix brauchen Freund.}# Telling NPC to leave party
- {196}{}{Wir freunde?}# Request NPC to rejoin party
+{195}{}{Weg du, Geh! Fix brauchen Freund.}# Telling NPC to leave party
+{196}{}{Wir freunde?}# Request NPC to rejoin party
  
 # Hireling inspections
 # Spaces at the beginning and end of 198 and 199 are intentional, do not remove them.

@@ -122,7 +122,7 @@
 #{159}{}{You know, Beth's been yapping about some Death Claw. I would check that out if I where you! I've heard a few rumors from other sources about somethin' creepin' around at night to the northwest.}
 {159}{}{你知道贝斯总是在嚷嚷什么死亡爪，我要是你的话就会去核实一下！我曾听到一些传言说什么东西总在夜里在西北边爬来爬去。}
 #{160}{}{Sorry, but we're paid good money to be sure the job gets done! We'll only hire the best! We've got to have reliable men and women on those caravans!}
- {160}{}{抱歉，但我们付一大笔钱是为了确保工作能完成！我们只雇佣最好的！我们要找可靠的男人或女人来保护商队。}
+{160}{}{抱歉，但我们付一大笔钱是为了确保工作能完成！我们只雇佣最好的！我们要找可靠的男人或女人来保护商队。}
 #{161}{}{Like I really wanted a job, ya' loud-mouthed moron!}
 {161}{}{我真的想要个工作，你这个大嚷大叫的白痴！}
 #{162}{}{Sorry to have bothered you.}
@@ -154,7 +154,7 @@
 #{175}{}{Hell, no! I don't think you realize just how much is at stake! We can't afford to take the risk! Hell, I don't no how the Far Go Traders are still in business with all those missin' caravans!}
 {175}{}{嘿，不！我认为你并没意识到这有多冒险！我们不能冒险！该死，我不知道没有这些失踪的商队的话远行商队怎么维持运转！}
 #{176}{}{Sorry, you'll have to see if one of the others' houses will take a risk with you. I can't afford to take another one.}
- {176}{}{对不起，你要知道另一间房子是否也要一块冒风险。我可没法再弄一间了。}
+{176}{}{对不起，你要知道另一间房子是否也要一块冒风险。我可没法再弄一间了。}
 #{177}{}{Get out of here, you make me sick!}
 {177}{}{离开这儿，你真使我抓狂！}
 #{178}{}{Hey! What do you think your doin'?}
@@ -186,7 +186,7 @@
 #{191}{}{Ruk luk?}
 {191}{}{啊哈？}
 #{192}{}{Hey, you did a fine job on that last caravan -- good goin'! Did you need somethin'?}
- {192}{}{嘿，关于上一趟商队你做得很好--漂亮！你还想要些工作吗？}
+{192}{}{嘿，关于上一趟商队你做得很好--漂亮！你还想要些工作吗？}
 #{193}{}{Yeah, I wanted another job.}
 {193}{}{是的，我想要另一个工作。}
 #{194}{}{I need a water chip.}
@@ -242,7 +242,7 @@
 #{219}{}{I'll do more than insult you!}
 {219}{}{我不光是要侮辱你们！}
 #{220}{}{Too late for apologies! 【His face gets very red . . . then in a calm, controlled voice.】 Get, before I make good on my threat!}
- {220}{}{说抱歉太迟了！【他的脸变得通红……然后平静下来，控制着语气。】走吧，在我发火以前！}
+{220}{}{说抱歉太迟了！【他的脸变得通红……然后平静下来，控制着语气。】走吧，在我发火以前！}
 #{221}{}{Is that your poor attempt at a threat?}
 {221}{}{这就是你那点可怜的怒火？}
 #{222}{}{It's not a threat! You're about to die!}
