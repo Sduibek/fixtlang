@@ -1,5 +1,5 @@
 {100}{}{You see a teenager.}
-{101}{}{You! You did it! When I grow up, I'm gonna get you! I'm gonna hunt you down and kill you! You killed them all! Aaaaaalllll! (He sobs uncontrollably)}
+{101}{}{You! You did it! When I grow up, I'm gonna get you! I'm gonna hunt you down and kill you! You killed them all! Aaaaaalllll! (He sobs uncontrollably.)}
 {102}{}{It was the only way. The only way to stop them.}
 {103}{}{How in hell did you survive the nuke?}
 {104}{}{It's a lie, kid. I didn't do it!}
@@ -31,7 +31,7 @@
 {130}{}{Father Lasher?}
 {131}{}{Fun good.}
 {132}{}{Sounds like he and I have a lot in common.}
-{133}{}{That's great! May the Master bless you. (He hands you a flower)}
+{133}{}{That's great! May the Master bless you. (He hands you a flower.)}
 {134}{}{Aw! You're no fun. Maybe I should tell the Nightkin about you!}
 {135}{}{The Nightkin are my friends.}
 {136}{}{You're a little too young to understand how much fun I can be.}
