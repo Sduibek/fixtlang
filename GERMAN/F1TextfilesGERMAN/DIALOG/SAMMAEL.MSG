@@ -1,40 +1,56 @@
 {100}{}{Du siehst Sammael, einen der Scavenger von Adytum.}
 {101}{}{Du siehst einen Mann in dunkelblauen Klamotten.}
-{102}{}{He, ich kann gar nicht fassen, daﬂ wir uns getroffen haben. Wer bist du?}
+{102}{}{He, ich kann gar nicht fassen, da√ü wir uns getroffen haben. Wer bist du?}
 {103}{}{Ich bin }
 {104}{}{.}
 {105}{}{Wer fragt mich das?}
 {106}{}{Eruh?}
 {107}{}{Sehr erfreut. Man nennt mich Sammael.}
 {108}{}{Was machst du hier?}
-{109}{}{War schˆn, mit dir zu reden.}
-{110}{}{Unwichtig. Vergiﬂ es einfach!}
-{111}{}{Ich bin ein Scavenger. Meine Aufgabe ist es, den Boneyard nach n¸tzlichen Sachen und nach Informationen abzusuchen. Gef‰hrlicher Job!}
-{112}{}{Warum gef‰hrlich?}
+{109}{}{War sch√∂n, mit dir zu reden.}
+{110}{}{Unwichtig. Vergi√ü es einfach!}
+{111}{}{Ich bin ein Scavenger. Meine Aufgabe ist es, den Boneyard nach n√ºtzlichen Sachen und nach Informationen abzusuchen. Gef√§hrlicher Job!}
+{112}{}{Warum gef√§hrlich?}
 {113}{}{Wie umgehst du die Deathclaws?}
 {114}{}{Hast du auch eines der anderen Gebiete ausgekundschaftet?}
-{115}{}{Danke. Tsch¸ﬂ dann!}
-{116}{}{Bis sp‰ter - falls wir uns noch mal sehen. Ha!}
-{117}{}{Naja, die Deathclaws sind da drauﬂen, und hier in Adytum sind die Regulatoren. Beides nicht gerade die versˆhnlichsten Typen.}
+{115}{}{Danke. Tsch√º√ü dann!}
+{116}{}{Bis sp√§ter - falls wir uns noch mal sehen. Ha!}
+{117}{}{Naja, die Deathclaws sind da drau√üen, und hier in Adytum sind die Regulatoren. Beides nicht gerade die vers√∂hnlichsten Typen.}
 {118}{}{Wie umgehst du die Deathclaws?}
 {119}{}{Hast du auch eines der anderen Gebiete ausgekundschaftet?}
-{120}{}{Danke. Tsch¸ﬂ dann!}
-{121}{}{Wir arbeiten nur nachts, und wir leisten echt gute Arbeit. Aber ich muﬂ zugeben, daﬂ nicht immer alle wieder zur¸ckkommen. Letzte Woche hab' ich einen Kerl ausgesandt, der nach ein paar Teilen f¸r Miles suchen sollte. Seitdem ist er verschwunden. Das letzte, was ich von ihm gehˆrt habe, ist, daﬂ er die Teile gefunden hat und sich auf dem R¸ckweg befindet.}
-{122}{}{Ich hab' ein biﬂchen was ausgekundschaftet. ‹ber wen willst du was wissen?}
-{123}{}{‹ber die Blades.}
-{124}{}{‹ber die Deathclaws.}
-{125}{}{‹ber die Gunrunner.}
-{126}{}{‹ber die Followers of the Apocalypse.}
-{127}{}{‹ber die Children of the Cathedral.}
-{128}{}{‹ber niemanden, danke.}
-{129}{}{Die Blades sind eher eine erb‰rmliche Erscheinung. Irgendwie kommen sie aber doch zurecht, und einige von ihnen enden hier in Adytum, wenn sie tun, was die Regulatoren wollen.}
-{130}{}{Naja, wenn du sie noch nie gesehen hast ... Sie sind das Bˆse in Person und machen nichts lieber, als einem armen Scavenger das Herz aus dem Leib zu reiﬂen.}
-{131}{}{Mir ist zu Ohren gekommen, daﬂ hier irgendwo ˆstlich der Blades ein Nest von denen sein soll, aber ich hab's noch nicht selbst gesehen.}
-{132}{}{Die Gunrunner sind k¸rzlich in eine groﬂe Fabrik im Nordosten gezogen. Ich kann dir leider nicht viel erz‰hlen, weil diese Fabrik von einem Wassergraben umgeben ist, der mit radioaktivem Schlamm gef¸llt ist. Auﬂerdem muﬂ man an den Deathclaws vorbei, um dorthin zu kommen.}
-{133}{}{Die Followers predigen Frieden und Toleranz. Nette Idee, aber leider nicht zu verwirklichen. Sie leben in einer groﬂen Bibliothek nordwestlich von uns.}
-{134}{}{Die Children of the Cathedral leben in einer groﬂen Kirche ein St¸ck s¸dlich von hier. Dort gehen die merkw¸rdigsten Sachen vor. Es gehen Kreaturen ein und aus, die absolut nichts Menschliches an sich haben.}
+{120}{}{Danke. Tsch√º√ü dann!}
+{121}{}{Wir arbeiten nur nachts, und wir leisten echt gute Arbeit. Aber ich mu√ü zugeben, da√ü nicht immer alle wieder zur√ºckkommen. Letzte Woche hab' ich einen Kerl ausgesandt, der nach ein paar Teilen f√ºr Miles suchen sollte. Seitdem ist er verschwunden. Das letzte, was ich von ihm geh√∂rt habe, ist, da√ü er die Teile gefunden hat und sich auf dem R√ºckweg befindet.}
+{122}{}{Ich hab' ein bi√üchen was ausgekundschaftet. √úber wen willst du was wissen?}
+{123}{}{√úber die Blades.}
+{124}{}{√úber die Deathclaws.}
+{125}{}{√úber die Gunrunner.}
+{126}{}{√úber die Followers of the Apocalypse.}
+{127}{}{√úber die Children of the Cathedral.}
+{128}{}{√úber niemanden, danke.}
+{129}{}{Die Blades sind eher eine erb√§rmliche Erscheinung. Irgendwie kommen sie aber doch zurecht, und einige von ihnen enden hier in Adytum, wenn sie tun, was die Regulatoren wollen.}
+{130}{}{Naja, wenn du sie noch nie gesehen hast ... Sie sind das B√∂se in Person und machen nichts lieber, als einem armen Scavenger das Herz aus dem Leib zu rei√üen.}
+{131}{}{Mir ist zu Ohren gekommen, da√ü hier irgendwo √∂stlich der Blades ein Nest von denen sein soll, aber ich hab's noch nicht selbst gesehen.}
+{132}{}{Die Gunrunner sind k√ºrzlich in eine gro√üe Fabrik im Nordosten gezogen. Ich kann dir leider nicht viel erz√§hlen, weil diese Fabrik von einem Wassergraben umgeben ist, der mit radioaktivem Schlamm gef√ºllt ist. Au√üerdem mu√ü man an den Deathclaws vorbei, um dorthin zu kommen.}
+{133}{}{Die Followers predigen Frieden und Toleranz. Nette Idee, aber leider nicht zu verwirklichen. Sie leben in einer gro√üen Bibliothek nordwestlich von uns.}
+{134}{}{Die Children of the Cathedral leben in einer gro√üen Kirche ein St√ºck s√ºdlich von hier. Dort gehen die merkw√ºrdigsten Sachen vor. Es gehen Kreaturen ein und aus, die absolut nichts Menschliches an sich haben.}
 {135}{}{Und wenn man den Geschichten Glauben schenkt, dann wurde die Kirche auf einer alten Vault errichtet, in der die Vorfahren Adytums lebten.}
 {136}{}{Hallo! Da treffen wir uns also doch wieder! Was gibt's Neues?}
 {137}{}{Was machst du noch mal?}
 {138}{}{Nichts. Danke.}
-{139}{}{Oh, ich verstehe. Okay, tsch¸ﬂ dann!}
+{139}{}{Oh, ich verstehe. Okay, tsch√º√ü dann!}
+
+# Added by Sduibek for Fallout Fixt:
+
+{140}{}{Miles sagt, ich solle mit dir √ºber Teile f√ºr seine Hydrofarmen reden. Wei√üt du etwas davon?}
+{141}{}{Ach ja! Das tue ich in der Tat. Ich habe letzte Woche einen Typen nach Norden geschickt, wegen den Teilen f√ºr Miles, aber ich habe seitdem nichts von ihm geh√∂rt. Die letzte Nachricht von ihm war, dass er die Teile gefunden hat und auf dem Weg zur√ºck ist. Ich habe nicht die Zeit das zu √ºberpr√ºfen und m√∂chte nicht noch jemand an das verlieren, was sein Verschwinden verursacht hat.
+{142}{}{Schwerer Bruch, tut mir leid, das zu h√∂ren! Danke f√ºr die Info! Tschau!}
+{143}{}{Wenn ich irgendwelche Informationen √ºber deinen Kerl finde, gibt's dann auch einen Finderlohn?}
+{144}{}{Toll, danke! Ich halt' die Augen nach den Teilen offen und wenn ich deinen verschwundenen Freund finde, dann lasse ich es dich wissen!}
+{145}{}{Jeder Zeit ... man sieht sich!}
+{146}{}{Ehrlich? Das w√§re gro√üartig! Wie chon gesagt, die Dinge hier √ºberschlagen sich und wir k√∂nnen es nicht riskieren noch mehr Leute zu verlieren.}
+{147}{}{[lacht] Nein, nicht wirklich! Wenn ich die Kohle h√§tte, w√§re ihm l√§ngst jemand auf den Fersen. [√ºberlegt kurz] Egal! Ich mag deine Einstellung. Ich sag dir was! Wenn du ihn findest, dann schau ich mal, was ich f√ºr dich tun kann.}
+{148}{}{Die gute Nachricht ist: Ich hab den Typen gefunden. Die schlechte: Er ist ganz sch√∂n tot.}
+{149}{}{Es tut mir leid, dir das sagen zu m√ºssen! Aber wie es aussieht, wurde dein Freund in der N√§he des Lagerhauses von Deathclaws get√∂tet.}
+{150}{}{Schei√üe! [seufzt] Ich hatte gehofft ... danke!}
+{151}{}{Ja, richtig! Hier ist deine Belohnung. [Er gibt dir etwas, das aussieht wie ein Miniaturkettens√§ge] Fr√ºher gab es hier mal eine Gang, die das Ding benutzt hat. Wenn's nach mir geht, machst du am besten ein paar von diesen Deathclaws damit kalt. Wir sehn uns!}
+{152}{}{Hier, nimm dies f√ºr den ganzen √Ñrger! Es ist das Mindeste, was ich f√ºr dich tun kann. [Er gibt dir 200 Deckel]}
