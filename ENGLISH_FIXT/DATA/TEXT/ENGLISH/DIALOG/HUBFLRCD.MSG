@@ -2,7 +2,8 @@
 {101}{}{Hello! Would you... oh, excuse me...}
 {102}{}{You! I heard about you! You kill kids and eat them! Mother Jain! Mother Jain! Help!}
 {103}{}{Would you like a flower, mister?}
-{104}{}{Would you like a flower, mistress?}
+# Changing back to ma'am from mistress (change by robbforce). I'm pretty sure nobody says mistress, since in modern English that typically has a context of either 1) Sexual relationship outside of a marriage, or 2) Dominatrix / other fetish contexts.
+{104}{}{Would you like a flower, ma'am?}
 {105}{}{Empty}
 {106}{}{Is there anything special about this place?}
 {107}{}{What's so special about the flower?}
