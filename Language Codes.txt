@@ -1,5 +1,6 @@
 ============================================
-Please use these in commit messages.
+     Please use these in commit titles.
+ For example "[CS] Typo fixes (CREDITS.TXT)"
 ============================================
 
 Language		ISO
@@ -30,7 +31,7 @@ Catalan			CA
 Chinese			ZH
 Corsican		CO
 Croatian		HR
-Czech			CS or CZ
+Czech			CS
 Danish			DA
 Dutch			NL
 English			EN
