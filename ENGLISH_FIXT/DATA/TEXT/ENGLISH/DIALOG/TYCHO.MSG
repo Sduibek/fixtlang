@@ -62,7 +62,7 @@
 {161}{}{Stay close.}
 {162}{}{Keep a moderate distance.}
 {163}{}{Move out to longer range.}
-{164}{}{What sorts of weapon skills have you learned?}
+{164}{}{What weapon skills have you learned?}
 {165}{}{Pretty good Ranger training: I'm skilled with small pistols and rifles. I can also use a spear, of course, in a pinch.}
 {166}{}{Uh, never mind.}
 #
@@ -80,7 +80,7 @@
 
 # for Fallout Fixt:
 
-{174}{}{we be frend?}
+{174}{}{We be frend?}
 
 {175}{}{You're going down.}
 {176}{}{Time for payback.}
