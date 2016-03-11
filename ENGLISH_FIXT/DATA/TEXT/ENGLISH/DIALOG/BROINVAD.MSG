@@ -14,3 +14,7 @@
 {113}{}{There is something wrong about this room.}
 {114}{}{This place is starting to give me the heebee-jeebies.}
 {115}{}{Time for us to head back to the Brotherhood.}
+#
+# for Fallout Fixt:
+#
+{116}{}{Assault Paladin returns to The Brotherhood.}
