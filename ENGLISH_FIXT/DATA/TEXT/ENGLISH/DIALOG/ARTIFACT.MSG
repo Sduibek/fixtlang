@@ -11,4 +11,5 @@
 #
 #
 # Received from MRS STAPLETON in The Hub
+{126}{}{You see: Vault Locations Holodisk.}
 {127}{}{This particular holodisk is in excellent shape. The shiny label reads: "Vault Locations v34.129".}
