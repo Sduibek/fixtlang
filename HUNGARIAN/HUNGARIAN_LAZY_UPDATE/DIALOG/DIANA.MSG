@@ -1,0 +1,26 @@
+{100}{}{You see a desert raider with a pleasant smile and an odd assortment of tools.}
+{101}{}{Diana vagyok. Segíthetnék valahogy?}
+{102}{}{Egy Tandi nevû nõt keresek. Láttad õt?}
+{103}{}{Áh, nem fontos, köszi.}
+{104}{}{Nem akarsz velem randevúzni?}
+{105}{}{Mivel foglalkozol itt?}
+{106}{}{Mit tudsz nekem mondani errõl a táborról?}
+{107}{}{Eurrreh?}
+{108}{}{Ha a csaj Shady Sands-be való, akkor talán ott kéne utána járnod. Nekem ez a munkahelyem.}
+{109}{}{Ah. Hát köszi a segítséget.}
+{110}{}{Meg tudod javítani a felszerelésemet?}
+{111}{}{Amint azt láthatod, túlságosan elfoglalt vagyok, hogy teljesítsem a kérésed.}
+{112}{}{Garl azzal bízott meg, hogy a tábor cuccaival foglalkozzam. Nincs idõm arra, hogy bármely erre tévedt egyén felszerelését csakúgy nekiálljak megjavítgatni. Sajnálom.}
+{113}{}{Én vagyok a táborunk fegyver-felelõse. Én vagyok itt az egyetlen szakképzett személy, aki képes Garl embereinek fegyvereit és felszerelését karban tartani.}
+{114}{}{Meg tudod javítani a felszerelésemet?}
+{115}{}{Mit tudsz nekem mondani errõl a táborról?}
+{116}{}{A Véreskezû Garl vezeti. Félelmetes, minden lelkiismeretfurdalást nélkülözõ vezetõ. Õ gondoskodik róla, hogy túléljük a pusztaság rideg valóságát.}
+{117}{}{Egy Tandi nevû nõt keresek. Láttad õt?}
+{118}{}{Meg tudod javítani a felszerelésemet?}
+{119}{}{Dolgom van, légyszi ne zavarj!}
+{120}{}{Ugye te vagy Garl új barátja? Mit akarsz?}
+{121}{}{Hmm. A felszerelésed úgy tûnik, rendben van. Bocs, de most fontos dolgom van....}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Diana, the Khans' resident armorer.}

@@ -1,0 +1,14 @@
+{100}{}{Egy nagyon fejlett Testvériségi számítógép.}
+{101}{}{Nem kapsz hozzáférést a terminálhoz.}
+{102}{}{A lecke hat óráig tart. Kimerültnek érzed magad.}
+{103}{}{Már magadba szívtál mindent, amit csak lehet.}
+#
+{200}{}{You see a computer. There are some pieces of something on it that might be human flesh.}
+#
+{201}{}{Elvacakolsz egy kicsit a számítógéppel, de nem tudod átrágni magad a biztonsági védelmen.}
+{202}{}{A számítógép tökéletesen mûködik.}
+{203}{}{Találsz egy érdekes bejegyzést egy észak-nyugati irányban lévõ titkos bázisról.}
+#
+# A number is inserted between 204 and 205
+{204}{}{You earn }
+{205}{}{ tapasztalati pontot kaptál, amiért sikeresen meghekkelted a számítógépet.}

@@ -1,0 +1,17 @@
+{100}{}{You do not see a control panel on this emitter.}
+{101}{}{Az emitter megrongálásával átmenetileg kiiktattad az emittert.}
+{102}{}{Teljes mértékben sikerült megsemmisíteni az emittert, így azon nyomban eltûnik az erõtér.}
+{103}{}{Átmenetileg kiiktattad az erõtér-emittert.}
+{104}{}{Nem sikerült semmit sem csinálnod az erõtér-emitterrel.}
+{105}{}{Mûködésbe hozod az erõtér-emittert.}
+{150}{}{Your attempt to re-wire the field emitter fails.}
+{151}{}{You turn off the field emitter.}
+{200}{}{You see a horribly-damaged field emitter.}
+{201}{}{The emitter is too damaged to use.}
+{202}{}{The emitter is too damaged to repair.}
+{203}{}{You notice that the field is damaged enough to walk through.}
+#
+# Fallout Fixt
+#
+{204}{}{A well-placed explosive blast might knock out the emitter completely.}
+{205}{}{You don't see any way to attach the explosives to the emitter. You'll need to place them nearby.}

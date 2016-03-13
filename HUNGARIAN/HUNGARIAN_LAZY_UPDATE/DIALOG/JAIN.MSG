@@ -1,0 +1,119 @@
+{100}{}{Õ nem más, mint Jain}
+{101}{JAIN00}{Miért zavarja a Katedrális Elöljáróját?}
+{102}{}{Áldásért jöttem.}
+{103}{}{Érdekel az egyházuk, és információkat szeretnék. Van valami szórólapjuk?}
+{104}{}{Csak körbenéztem.}
+{105}{}{Mami?}
+{106}{JAIN01}{Aligha hinném, hogy én vagyok az édesanyja.}
+{107}{}{Nöh-öh?}
+{108}{}{Puki!}
+{109}{JAIN02}{Hogy merészel ilyen hangon beszélni velem? Szemtelen viselkedéséért megbüntettetik! Õrség!}
+{110}{JAIN03}{Talán az egyik papunkkal megbeszélheti a nevelésében fennálló hiányosságokat. Távozzék!}
+{111}{JAIN04}{Tanulmányozta már a tanainkat, gyermekem?}
+{112}{}{Igen.}
+{113}{}{Nem.}
+{114}{JAIN05}{Akkor tudhatná, hogy a Katedrális elöljárói nem szoktak csak úgy áldást "osztani". Most pedig távozzék!}
+{115}{JAIN07}{Incselkedjen csak velem, és rögvest kihajíttatom innen!}
+{116}{}{De hát nem incselkedem, becsszó!}
+{117}{}{Miért akarnék incselkedni magával?}
+{118}{}{Úgy tûnik, a kedvesség és higgadtság nem éppen e vallás sajátja.}
+{119}{}{Elnézést, azt hiszem, most a távozás mezejére lépek.}
+{120}{JAIN08}{Most majd megfizet az eretnek szavaiért!}
+{121}{JAIN09}{Mást mond és mást gondol. Szavai csak úgy égnek az eretnekségtõl. Sebaj, mindjárt megtisztítjuk, és fátylat hajítunk magára.}
+{122}{JAIN10}{Akkor miért van itt? Mi hozta magát a Katedrális Gyermekeihez?}
+{123}{}{Tudást keresek. Minél többet szeretnék tanulni.}
+{124}{}{Azt szeretném megtudni, hogy lehetne felgyújtani ezt az épületet. Ehhez vizsgálgatom a strukturális gyengeségeit.}
+{125}{}{Csak úgy körbenéztem.}
+{126}{JAIN11}{Maga egy Gyermek?}
+{127}{}{Úgy nézek én ki, hölgyem?}
+{128}{}{Úgy érti, hogy a Katedrális Gyermeke vagyok-e? Nem.}
+{129}{}{Elkötelezett hívõ vagyok.}
+{130}{JAIN12}{Akkor jobb dolga is lehetne, mint itt téblábolni. A viselkedése egyébként sok kivánnivalót hagy maga után. Távozzék!}
+{131}{}{Okay.}
+{132}{}{Kapja be!}
+{133}{JAIN13}{Szeretne átkeresztelkedni a hitünkre? Mi azt tudjuk ajánlani, amit más sosem tudna...}
+{134}{}{És mi lenne az?}
+{135}{}{Nem, nem akarok. Szerintem maguk csak különcök díszes társasága.}
+{136}{JAIN14}{A tudás az elégedettség netovábbja. Beteljesedést nyújt, melynek segítségével újjáépítheti a bolygót, és jobb helyet alakíthat ki a jövõ számára.}
+{137}{}{Nagyon érdekesen hangzik, tudna errõl többet is mondani? Beteljesedésre vágyom.}
+{138}{}{Ó, igen, fogadok, hogy sok újjáépítés folyik, és gondolom már a csapból is beteljesedés folyik.}
+{139}{}{Nem nagyon hiszek én ebben. Kicsit gyanús dolgok ezek.}
+{140}{JAIN15}{Higgyen, amit akar, csak máshol. Távozhat.}
+{141}{JAIN17}{Ha gúnyt ûz szent ügyünkbõl, azt kevéssé toleráljuk. Ha így folytatja, megbüntettetik.}
+{142}{}{Aztán ki fog megbüntetni engem, mi? Igazán benne lennék egy nagyon erõs elfenekelésben, ha nem haragszik a megfogalmazásért.}
+{143}{}{Elnézést.}
+{144}{JAIN18}{Amint a Gyermekek az újjáépített földet tapodják, a maga fajtája eltûnik szépen a föld színérõl, eretnek. Távozzék!}
+{145}{JAIN19}{A humorérzékem még megvan valamennyire, de a Gyermekek terelgetése olyasvalami, amit halálosan komolyan kell vennem. Kérem, ne felejtse ezt el!}
+{146}{}{Elnézést, de nem sokmindent tudok a Gyermekekrõl.}
+{147}{}{Okay. Bye.}
+{148}{JAIN20}{A legjobb helyen jár, hogy spirituális beteljesedésben legyen része. A Katedrális Gyermekei békés megoldást keresnek a világ problémáira, és szívesen használnánk a segítségét.}
+{149}{}{Mik a Gyermekek tervei a mutánsokkal kapcsolatban?}
+{150}{}{Hogy akarnak békére találni a Gyermekek a pusztaságban?}
+{151}{JAIN21}{Azok, akik hagyják, hogy betereljük õket a karámba, békére lelnek, azoknak, akik ellenállnak, szenvedés lesz osztályrészük.}
+{152}{}{Kemény feladatnak látszik.}
+{153}{}{Most eljött az idõ, hogy maga is szenvedjen egy kicsit.}
+{154}{}{Ahogy az a nagy könyvben meg van írva. Sok sikert a keresztes hadjáratukhoz!}
+{155}{}{Öh, mennem kell.}
+{156}{JAIN22}{Sok kitartással a Gyermekek bármire képesek. Soha nem fogunk elbukni.}
+{157}{}{Remek. Én is remélem, hogy így lesz.}
+{158}{}{Jaja, ahogy mondja.}
+{159}{}{Oké. Viszlát!}
+{160}{JAIN26}{Szentségtörõ! Ez itt egy Szent Épület! Hogy gondolhat ilyesmire?}
+{161}{}{Nyugodtság! Nem úgy gondoltam...}
+{162}{}{Nyugalom. Hadd mutassam meg!}
+{163}{JAIN27}{A Szentséges Láng áldása kísérje útján, Gyermekem.}
+{164}{}{Ki az a Szentséges Láng?}
+{165}{}{Ez a hely egy nagy kamu.}
+{166}{}{Az önét is, Jain Papnõ. Viszlát!}
+{167}{}{Ug luk to ruk?}
+{168}{}{Úúúúúk!}
+{169}{JAIN28}{Volt idõ, amikor megvolt magában a lehetõség. Többé nemkívánatos ember itt.}
+{170}{JAIN29}{Maga itt nem szívesen látott vendég. Kérem, távozzék!}
+{171}{JAIN30}{Mi hozta magát ide?}
+{172}{}{Megöltem a Mestert, és meg vagyok róla gyõzõdve, hogy õ a Szentéges Lángként tetszelgett.}
+{173}{}{Megszabadítottam magukat a Mester elnyomásától.}
+{174}{}{Mu tuk doh tub?}
+{175}{}{Lábikó.}
+{176}{JAIN31}{Hogy mit csinált? Most megfizet a Szentséges Láng ellen elkövetett bûnéért!}
+{177}{JAIN32}{Hogy kicsodát?}
+{178}{}{A Mestert. Össze akarta fogni a mutánsokat, és át akarta venni a világuralmat.}
+{179}{}{Nem kell aggódni emiatt.}
+{180}{JAIN33}{Maga megtévesztés áldozata lett. Keressen fel egy ügyvédet, az majd megoldja a problémáit!}
+{181}{JAIN204}{Már mondtam, hogy távozzék. Maga süket vagy mozgáskorlátozott?}
+{182}{JAIN200}{Hagyja itt a helyiséget vagy szentséges tûzzel fogom itt helyben megtisztítani.}
+{183}{JAIN202}{Nem létezik hatalmasabb nagyság, mint a Szentséges Láng és mi vagyunk az Õ szolgálói.}
+{184}{}{Tényleg? Nem semmi! Szóval, mi szokta rávenni az embereket, hogy csatlakozzanak a rendjükhöz?}
+{185}{}{Öh, oké, viszlát!}
+{186}{JAIN27}{A Szentséges Láng áldása kísérje útján, Gyermekem.}
+{187}{JAIN22}{Sok kitartással a Gyermekek bármire képesek. Soha nem fogunk elbukni.}
+{188}{JAIN201}{Ez nem megfelelõ kérdés.}
+
+#Tell Me Abouts
+
+{1000}{}{Haboru}
+{1001}{}{Mester}
+{1002}{}{Katedralis}
+{1003}{}{Mutans}
+{1004}{}{Hub}
+{1005}{}{Acel}
+{1006}{}{Tartaly}
+{1007}{}{Szentséges}
+{1008}{}{Egyseg}
+{1009}{}{Testveriseg}
+{1010}{}{Lang}
+{1011}{}{Gyermek}
+
+
+{1100}{JAIN300}{A bolygó megtisztításaként szolgált. A régiek nemtörõdömsége okozta a szent tüzek fellángolását. Az Igazság pillanata volt.}
+{1101}{JAIN301}{Nem létezik mester, csak a Szentséges Láng. Õ a mi mesterünk, õ a Mesterek Mestere.}
+{1102}{JAIN302}{A Szentség újjászületést hoz a bolygónkra. Mi a Gyermekei vagyunk, és végrehajtjuk az Õ akaratát.}
+{1103}{JAIN303}{Szent lények, hiszen az általuk viselt jegyek a múlt bûneirõl tesznek tanúbizonyságot a jelenben élõknek.}
+{1104}{JAIN304}{Mint a városok többsége, õk is részesülnek majd a Katedrális morális áldásaiból.}
+{1105}{JAIN305}{Vallásos alapítványnak tartják magukat, de hiányzik belõlük valami, amitõl igazán tisztességesek lennének. Elhivatottságuk mindemellett elismerésre méltó.}
+{1106}{JAIN306}{Sosem hallottam ilyesmirõl.}
+{1107}{JAIN308}{Minden Szentségek Szentsége. Õ a vezérlõ fény, melyet vakon követünk. Megtisztítja majd a hitetleneket, amikor eljõ az Újjászületés Pillanata.}
+{1108}{JAIN309}{A Szentséges Láng által vezérelt összetartó erõ. Egyszer a világ minden embere, minden faja megtisztul a szentségtelenségektõl.}
+{1109}{JAIN305}{Vallásos alapítványnak tartják magukat, de hiányzik belõlük valami, amitõl igazán tisztességesek lennének. Elhivatottságuk mindemellett elismerésre méltó.}
+{1110}{JAIN308}{Minden Szentségek Szentsége. Õ a vezérlõ fény, melyet vakon követünk. Megtisztítja majd a hitetleneket, amikor eljõ az Újjászületés Pillanata.}
+{1111}{JAIN302}{A Szentség újjászületést hoz a bolygónkra. Mi a Gyermekei vagyunk, és végrehajtjuk az Õ akaratát.}
+

@@ -1,0 +1,47 @@
+{100}{}{Egy elcsigázott embert látsz.}
+{101}{}{Köszönöm, idegen! Nem tudom, hány hete vagy tán hónapja is megvan már, hogy azok a gazfickók itthagytak. Szerfelett hálás vagyok a segítségedért, és biztos vagyok benne, hogy az Acél Testvérisége is az lesz.}
+{102}{}{Acél Testvérisége?}
+{103}{}{Örömmel segítettem.}
+{104}{}{Szerinted minden rendben lesz veled?}
+{105}{}{A Testvériség tagja vagyok. Téged kerestelek.}
+{106}{}{Szívesen, máskor is. Viszlát!}
+{107}{}{Öh.}
+{108}{}{Még nem hallottál rólunk? Egész meg vagyok lepve. Valószínûleg nem sûrûn hagyod el a Hubot. Többet kéne kijárnod. Innen észak-nyugatra van a bázisunk, a hegyvonulatok nyugati oldalán.}
+{109}{}{Igazán nagyra értékelem a segítségedet, de miért próbálsz hazudni nekem? Szerinted nem ismerem a rendünk összes emberét az utolsó szálig?}
+{110}{}{Talus küldött.}
+{111}{}{Azért nem ismersz, mert nemrég csatlakoztam.}
+{112}{}{Nyilván nem tudod, mirõl beszélsz.}
+{113}{}{Köszönöm még egyszer! Ha benézel a Testvériségbe, örülnék, ha elmondanád Talusnak, hogy rendben vagyok. Biztos vagyok benne, hogy aggódik értem. Viszlát, és vigyázz magadra!}
+{114}{}{Ó, most már rendben leszek, kösz. Van itt néhány barátom, és egy darabig maradhatok, amíg erõre kapok. Próbálok majd üzenni a Testvériségbe, hogy tudják, semmi bajom. Hála neked. Minden jót!}
+{115}{}{Hogy... Ó, elnézést. Nyilván átmentél azon az úgynevezett "teszten", amit a Perjelek találtak ki. Errõl teljesen megfeledkeztem. A köszönetem annál inkább a szívembõl jön. Az életem minden pillanatban kockán forgott. Eltarthatott egy darabig, amíg rámtaláltál. Ez a város nagyon nagy. Nagy akadályokat kellett legyõznöd.}
+{116}{}{Tudod... jó vagyok az ilyesmiben.}
+{117}{}{Az a nagy harci helyzet, hogy ez semmiség volt. Talus tudta, hol vagy.}
+{118}{}{Ez csak puszta szerencse volt.}
+{119}{}{Semmiség. Örülök, hogy rádtaláltam.}
+{120}{}{Ó... mindegy. Ettõl még ugyanolyan hálás vagyok.}
+{121}{}{Gondolom valami jó kis munkát végeztél.}
+{122}{}{Örülök, hogy segíthettem.}
+{123}{}{Szerinted minden rendben lesz veled?}
+{124}{}{Hát, újra csak annyit tudok mondani, köszönöm. Néhány barátommal itt maradok, amíg erõt nem gyûjtök. Apropó, a helyedben óvatos lennék errefelé. Hallottam, ahogy a vendéglátóm valami Tolvajok Körérõl beszélt. Szerintem közel lehetünk a vadászterületükhöz. Valószínûleg ezért beszéltek arról, hogy máshova kéne költözniük. Na, minden jót neked!}
+{125}{}{Örülök, hogy kitartott a szerencséd. Viszont az Óvárosról hallottam egy-két eléggé rossz dolgot. A sóherek berezeltek, nyilván máshol kell keresni a gondok forrását.}
+{126}{}{Rendben. Nagyon örülök, hogy újra szabad vagyok. A kínzást nem nagyon állhatom.}
+{127}{}{Nem, igazán nem, Talus küldött.}
+{128}{}{Nos, örülök, hogy segíthettem.}
+{129}{}{Szerinted minden rendben lesz veled?Szerinted minden rendben lesz veled?}
+{130}{}{Lehet, hogy nem. Eléggé problémás visszaemlékeznem egyes dolgokra. Szerintem attól lehet, amit megetettek velem.}
+{131}{}{Nem, igazán nem, Talus küldött.}
+{132}{}{Nos, örülök, hogy segíthettem.}
+{133}{}{Szerinted minden rendben lesz veled?}
+{134}{}{Üdv-üdv!}
+{135}{}{Hamarosan távozom. Csak erõt kell gyûjtenem elõtte.}
+{136}{}{Kösz mindent.}
+
+## Tell Me Abouts
+{1000}{}{Testveriseg}
+{1001}{}{Az Acel Testverisege}
+{1002}{}{Talus}
+
+## Answers
+{1100}{}{E megkínzott bolygónak és lakosságának õk jelentik az egyetlen megváltást. Nélkülük az emberiség biztos pusztulásba rohan.}
+{1101}{}{E megkínzott bolygónak és lakosságának õk jelentik az egyetlen megváltást. Nélkülük az emberiség biztos pusztulásba rohan.}
+{1102}{}{Nagy ember õ. A mentorom. Remélem, még látom ebben az életben.}

@@ -1,0 +1,67 @@
+{100}{}{You see: Kalnor, a Junktown guard.}
+{101}{}{Jó lenne, ha moderálnád magad nálunk.}
+{102}{}{Nálunk nem jól jársz, ha balhézol.}
+{103}{}{Ha visszafogod magad, nem kell bekeményítenünk.}
+{104}{}{You're okay.}
+{105}{}{Csak így tovább a munkával!}
+{106}{}{Szép napunk van, nemde?}
+{107}{}{Ez itt Roncsváros. Jó kis hely, amíg nem csinálsz balhét.}
+{108}{}{Vigyázz Gizmóval meg a haverjaival!}
+{109}{}{Kedvelem a fõnökömet.}
+{110}{}{Jobb lenne, ha elraknád azt a vackot! Roncsváros békés hely, és szeretnénk, ha az is maradna.}
+{111}{}{Mit kéne elraknom?}
+{112}{}{Nehogy már megmondd, mit csináljak, te balfasz!}
+{113}{}{Legyen, ahogy óhajtod. Apropó, mit ír elõ a helyi törvény a fegyverekkel kapcsolatban?}
+{114}{}{Ajjaj.}
+{115}{}{A fegyveredet, te idióta! Killian nem fogja elkobozni a fegyveredet, de a helyedben én rohadtul a tokjában tartanám.}
+{116}{}{Ó, elnézést.}
+{117}{}{Francokat! Senki kedvéért nem válok meg a fegyvereimtõl!}
+{118}{}{Jobb lenne, ha viselkednél, mivel ez a törvény, és én vagyok az, aki be is tartatja. Rakd el a fegyvered! Soha ne vedd elõ, hacsak nem önvédelemrõl van szó. Ebben az esetben mi õrök nem fogunk kekeckedni. Ha dacolsz a törvénnyel, visszajuttatunk a pusztaságba. Akár élve, akár halva.}
+{119}{}{Rendben, ha már így a lelkemre kötötted.}
+{120}{}{Kend a hajadra a törvényeket!}
+{121}{}{Öö, nekem ezzel nincs semmi bajom, de azért légy résen!}
+{122}{}{Jó, hogy kérdezted. Az önvédelmet leszámítva nem lehet fegyvert fogni másra. Ha balhét csinálsz, téged teszünk felelõssé. Ennek figyelembevételével viselheted a fegyvereket. Az a lényeg, hogy ok nélkül keménykedj. Legyen jó napod!}
+{123}{}{Hé, te, tedd el a fegyvert! Nem érdekel, ha az anyád fejreejtett kiskorodban. Nincs fegyver és kész!}
+{124}{}{Hé, te ott! Mit osongatsz te itt?}
+{125}{}{Semmi-semmi.}
+{126}{}{Nem osongatok, csak óvatosan lépkedek.}
+{127}{}{Uhhh.}
+{128}{}{Bármit is csinálsz, nagyon gyorsan fejezd be!}
+{129}{}{Hékás! A városban nem tûrjük a gyanús elemeket! Tûnj innen, mielõtt kihajítunk!}
+{130}{}{Rendben van. Csak tartsd be a szabályokat!}
+{131}{}{Kösz, viszlát!}
+{132}{}{Hogyne. Vállalom a kockázatot, uram.}
+{133}{}{Hogyne. Vállalom a kockázatot, hölgyem.}
+{134}{}{Figyelj oda minden mozdulatodra, szemmel tartalak!}
+{135}{}{Üdvözlünk Roncsvárosban. Miben segíthetek?}
+{136}{}{Semmiben, köszi.}
+{137}{}{Mivel foglalkozol itt? Miféle hely ez?}
+{138}{}{Hol juthatok különféle árukhoz?}
+{139}{}{Wa-wa!}
+{140}{}{Nem tudom. Nézz be Killian barátunkhoz! Észak felé megtalálod õt. Arra ni!}
+{141}{}{Szerinted? Õr vagyok, a magadfajta idegeneket tartom szemmel. A városunkat Roncsvárosnak nevezik. Ne nevess rajta, nekem sem tetszik a név. Többnyire kereskedéssel foglalkozunk. Néha szoktunk üzletelni azokkal az elmaradott, gyökér Hubbeliekkel. Ugye te nem onnan jössz?}
+{142}{}{Honnan? A Hubból? De onnan vetett ide a sors!}
+{143}{}{Hogy én? Nem, nem a Hubból jöttem.}
+{144}{}{Akkor a szabályok többségével tisztában vagy. További jó napot, és bocs a legyökerezésért...}
+{145}{}{Annyi baj legyen... na, üdv!}
+{146}{}{Komoly mentális traumát fog ez okozni hamarosan. Késõbb találkozunk!}
+{147}{}{Hmmm. Oké. Nem a mi tisztünk, hogy kérdezõsködjünk. További jó napot és ne csinálj balhét!}
+{148}{}{Nafene... Darkwaternek van itt egy boltja, Killian maga vezeti. Valamivel északabbra megtalálod. A városban nála vannak a legjobb áruk.}
+{149}{}{Kösz, viszlát!}
+{150}{}{You wanna show me where you keep YOUR supplies?}
+{152}{}{Öö, nem, sajnálom, hölgyem. Itt vagyok szolgálatban.}
+{153}{}{Jó napot kívánok.}
+{154}{}{Kerüld a bajt...}
+{155}{}{Hát barátom, remélem, a váltás hamarosan itt lesz. Tisztára az az érzésem, mintha öröktõl fogva állnék itt õrt.}
+{156}{}{Sajnálom, de a kapukat zárva tartjuk éjszakára. Reggel újra lehet próbálkozni.}
+{157}{}{Ember, be kell jutnom!}
+{158}{}{Semmi gond. Reggel találkozunk.}
+{159}{}{Elnézést, hogy zavarnom kell, uram, de szeretnék bemenni a városukba. Láthatja, hogy ártatlan vagyok, mint a ma született bárány.}
+{160}{}{Hunh-huh!}
+{161}{}{Come... back... day...}
+{162}{}{Bocs, de a szabály az szabály! Idegenek nem jöhetnek be éjszaka.}
+{163}{}{Hát ezt nem lenne szabad csinálnom, de jóravaló embernek tûnsz. Menj be nyugodtan, csak ne csinálj balhét!}
+{164}{}{Te vagy az?! Gyere csak be, }
+{165}{}{. Jó, hogy újra látunk!}
+{166}{}{Most szépen sarkonfordulsz és elpályázol!}
+{167}{}{Menj csak be!}

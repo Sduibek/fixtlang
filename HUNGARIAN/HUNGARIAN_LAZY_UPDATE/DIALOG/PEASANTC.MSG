@@ -1,0 +1,27 @@
+{100}{}{Tûnés innen!}
+{101}{}{Rossz dolgokat hallottam ám rólad. Igazak vajon?}
+{102}{}{Üdv!}
+{103}{}{Ez lenne itt a mi helyünk. Akarsz itt idõzni egy darabig?}
+{104}{}{Hmmm, fincsin nézel ki...}
+{105}{}{Remélem, nem akarsz kiebrudalni innen!}
+{106}{}{Nem.}
+{107}{}{Fura egy beszélgetés kezdés.}
+{108}{}{Hnnn.}
+{109}{}{Ha esetleg maradni akarsz egy darabig, csak nyugodtan. Azt hiszem, itt biztonságban vagyunk.}
+{110}{}{Hát, mostanában vigyáznia kell az embernek. Remélem, jobb életed van, mint az enyém.}
+{111}{}{Bizony ez igaz. Azokután, ami a barátaimmal történt, meg kell védenem a vadászterületemet. Csak remélhetem, hogy nem akarsz megölni.}
+{112}{}{Nem, nem akarlak bántani. Nagyon...}
+{113}{}{Miért mondod ezt?}
+{114}{}{Gakk!}
+{115}{}{Nincs rá okom. Tényleg.}
+# Translation note:
+# Line 116 has one of lines 117-120 appended to it, depending upon circumstances.
+{116}{}{Azok a "segítõkész" gyógyászok maguknak akarták a barátom házát, hát elvették. Nem tudom tudom, mi történt a barátaimmal.}
+{117}{}{ Killiam meg túlságosan elfoglalt, hogy segítsen.}
+{118}{}{ Killiant pedig túlságosan lefoglalja a Gizmo utáni takaritás, hogy segítsen.}
+{119}{}{ Gizmo körberöhögött, amikor a segítségét kértem.}
+{120}{}{ Nincs itt senki, aki segíthetne rajtam.}
+{121}{}{Nem fenyeget semmi?}
+{122}{}{Ez szégyen.}
+{123}{}{Remélem, igazán remélem.}
+{124}{}{Kérlek, hagyj békén!}

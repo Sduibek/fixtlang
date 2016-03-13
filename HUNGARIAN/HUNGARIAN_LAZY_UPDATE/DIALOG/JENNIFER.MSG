@@ -1,0 +1,142 @@
+{100}{}{Jennifert látod.}
+{101}{}{Egy Paladint látsz.}
+{102}{}{Bocsáss meg, Testvérem. Amíg a Testvériségben tartózkodsz, el kell raknod a fegyveredet. Mi barátságos rend vagyunk, bár nyilván tisztában vagy vele, hogy kemény idõk járnak.}
+{103}{}{A Testvériség néhány tagja esetleg megorrolna, ha egy idegen... úgy értem, egy Újonc... fegyverrel a kézben szólítaná meg.}
+{104}{}{Jó napot, Újonc. Miben lehetek segítségedre?}
+{105}{}{Üdv, Nõvérem! Jó látni, hogy magasrangú nõk is vannak a szervezetben. Nem tudtam, mire számíthatok egy ilyen névvel, mint a Testvériség.}
+{106}{}{Azta, micsoda lábak. Iszonyat jól nézel ki. Mikor randizunk?}
+{107}{}{Úúúúúga!}
+{108}{}{Meg tudnád mondani, merre találom a Nagyperjelt?}
+{109}{}{Kib a fõnök ebben a lyukban?}
+{110}{}{Hol találom ezt a Nagyperjelt, vagy kit?}
+{111}{}{Gruk!}
+{112}{}{Maxson Nagyperjel a Negyedik szinten található. Ha lemész a másik lifttel a negyedik szintre, vagy a Tárgyalóteremben, vagy a Perjelek szobájában megtalálod.}
+{113}{}{Kérdezd meg az ott posztoló õrök egyikét! Õk bizonyára tudják, hol tartózkodik jelen pillanatban.}
+{114}{}{Köszönöm.}
+{115}{}{Hol szerezhetnék jobb fegyvereket?}
+{116}{}{Beszélj Talusszal. Õ esetleg segíthet rajtad, vagy legalább elirányíthat valakihez.}
+{117}{}{Ha nincs semmi gond, napközben Talus a gyakorlóteremet felügyeli. Tudod, hol található?}
+{118}{}{Tudom. Köszönöm.}
+{119}{}{Nem.}
+{120}{}{Persze, hogy tudom!}
+{121}{}{A gyakorlóterem közvetlenül a sarok után van. Menj végig ezen a folyosón, fordulj balra, menj át a folyosó végén lévõ ajtón, utána a jobbra lévõ ajtón menj be!}
+{122}{}{Nagyon segítõkész vagy. Köszönöm szépen, remélem még beszélgetünk majd. Minden jót neked!}
+{123}{}{Gyakorlóterem? Szerinted vehetnék ott leckéket? Elvégre most már a Testvériség tagja vagyok, nem igaz?}
+{124}{}{Köszönöm a segítséged, Nõvérem. Jó látni, hogy ilyen magasrangú nõk is vannak a szervezetben. Nem tudtam, mire számíthatok egy ilyen névvel, mint a Testvériség.}
+{125}{}{Köszi, édesem. Azt remélem, tudod, hogy észveszejtõen nézel ki. Mit szólnál hozzá, ha lecsekkolnánk egymás "felszerelését" valamikor a közeljövõben? Mikor lesz vége a szolgálatnak?}
+{126}{}{Ja, hogy arra a helyre gondolsz. Oké, még látjuk egymást!}
+{127}{}{Elnézést, nincs semmi probléma?}
+{128}{}{Muk lug?}
+{129}{}{Sajnálom, nem hiszem, hogy tudnék segíteni. Meg kéne látogatnod az orvosunkat, a második szinten megtalálod.}
+{130}{}{Még jó, hogy így van. Az öt Perjel küzül kettõ nõ. A Fõkrónikásunk szintén nõ, ezenkívül számos mindenféle rendû és rangú nõ található a sorainkban.}
+{131}{}{A Testvériség nõtagjait szintén Testvéreknek nevezik, nem Nõvéreknek. Nem nevezhetjük a szervezetünket nõi néven.}
+{132}{}{Nem találod különösnek, hogy Testvériségnek hívják, ezzel is sugallva, hogy csupán férfiakból áll?}
+{133}{}{Akkor miért nevezik Testvériségnek?}
+{134}{}{Hát, csak úgy szöget ütött a fejembe.}
+{135}{}{Nem tudom. Amióta csak az eszemet tudom, mindig így hívták. Biztos vagyok benne, hogy van oka.}
+{136}{}{Valószínûleg igazad van.}
+{137}{}{Ettõl azért még elég furának tûnik nekem.}
+{138}{}{Furcsa dolog ez. Még sosem gondolkodtam el ezen. Amióta az eszemet tudom, mindig az Acél Testvériségének hívtak minket. Az õseinknek bizonyára megvolt az okuk, hogy ezt a nevet adták.}
+{139}{}{Ez viszont nem jelenti azt, hogy ne változhatnának a dolgok.}
+{140}{}{Ja, valszeg igazad van.}
+{141}{}{Szóval van még valami, amiben segíthetnék?}
+{142}{}{Igen, hol találom a Nagyperjelt?}
+{143}{}{Hol szerezhetnék jobb fegyvereket magamnak?}
+{144}{}{Nem, ennyi lenne. Viszlát!}
+{145}{}{Nem, nagyon szigorúak vagyunk, ha tradíciókról van szó. Nem hinném, hogy ez valaha is megváltozhatna. Engem aztán nem nagyon zavar, hogy Testvérnek neveznek. Mondjuk fura.}
+{146}{}{Azt hiszem, beszélek majd Vree-vel. Õ majd megvilágítja az elmémet, hogy az õseink vajon miért éppen az Acél Testvériségének neveztek el bennünket.}
+{147}{}{Ki az a Vree? A Perjelek egyike?}
+{148}{}{Vree a Fõkrónikásunk. Ha technikai kérdéseid vannak, vele kell beszélned, de nehogy megzavard az éjszakai meditációját!}
+{149}{}{Majdnem mindig a szobájában tartózkodi. A Központi számítógépet szintén nála helyezték el, a harmadik emeleten.}
+{150}{}{Lyuk? Hogy mersz így beszélni a Testvériségrõl?! Mostantól a rendünk tagja vagy, és büszkének kellene lenned, hogy az Acél Testvérisége a tagjai közé fogadott!}
+{151}{}{Büszkének kéne lennem? Vedd már észre, hogy gépies tökfejek vagytok, akik elbújtok az igazi világ szeme elõl. Nincs itt semmi, amire büszkének kéne lennem.}
+{152}{}{Elnézést, néha elragadtatom magam valamiért.}
+{153}{}{Igen, persze.}
+{154}{}{Értem, mindannyiunkkal megesik néhanapján.}
+{155}{}{Elmondanád akkor, hogy ki itt a vezetõ?}
+{156}{}{Igen-igen. Hát... most mennem kell.}
+{157}{}{Maxson Nagyperjel a Negyedik szinten található.}
+{158}{}{}
+{159}{}{}
+{160}{}{}
+{161}{}{}
+{162}{}{}
+{163}{}{Nem mondom, csinos vagy... de aligha hiszem, hogy ez lehetséges. Nem hiszem, hogy jó ötlet lenne belehabarodni egy kívülállóba. Csinos vagy mondom, és eléggé vonzó. }
+{164}{}{Nem tudom, hogy azért van-e, mert kívülálló vagy, netán azért, mert elképesztõ módon... híján vagy a tapintatnak. Szóval, "kedvesem", van még valami, amit tehetek érted?}
+{165}{}{Igen, öö, gondolom. Öh, ki itt a fõnök?}
+{166}{}{Öh, oké... öm... És mi a helyzet a fegyverekkel? Szerválhatnék magamnak itt valami használhatót?}
+{167}{}{Hmmph!}
+{168}{}{Nem.}
+{169}{}{Hát ez... eléggé vicces, mit ne mondjak. Te viccelsz. Remélhetem? Ami azt illeti... inkább ne is válaszolj. Nem is akarom tudni a válszt.}
+{170}{}{Igen, valóban vicces. Majdnem annyira, mint az arcod!}
+{171}{}{Hálás köszönet. Pontosan ezt akartam hallani.}
+{172}{}{Na, én léptem.}
+{173}{}{Elnézést. Az a baj, hogy ti kívülállók néha olyan furcsa módon tudtok beszélni az emberekkel. Van valami, amiben segíthetek?}
+{174}{}{Nos, azt hiszem, beszélhetnék ezzel a Nagyperjellel. Hol találom õt?}
+{175}{}{Szeretnék jobb fegyvereket magamnak. Kivel beszéljek ezügyben?}
+{176}{}{Nem.}
+{177}{}{Ez most komoly? Ilyen szánalmas dumát még sosem hallottam egész életemben!}
+{178}{}{Igen? Well, I don't get out much. Okay?}
+{179}{}{Tûnés a szemem elõl, te sétáló szemeteskuka!}
+{180}{}{Pfft!}
+{181}{}{Nos, igen, a Testvériség tagja vagy ugyan, de a Perjelek felfüggesztették az Újoncok mindenfajta kiképzését.}
+{182}{}{Miért?}
+{183}{}{Hát ez NAGYSZERÛ! Akkor mi a francnak csatlakoztam a hülye bandátokhoz? Hol az ajtó?!}
+{184}{}{Pletykák keringenek valamiféle hadseregrõl. Szerintem a Perjelek azokra akarják koncentrálni a tartalékainkat, akik már eléggé elõrehaladottak a kiképzésükben. Ez elengedhetetlen, hogy egy nagyobb csata a javunkra dõlhessen el.}
+{185}{}{Hisszük, hogy kevesebb, de jobban kiképzett harcos többet ér egy nagyobb csapat képzetlen embernél. Az életek megmentése a legfontosabb kitûzött céljaink közé tartozik.}
+{186}{}{Csak azzal, hogy szemlélõdsz, valószínûleg nagyon sokat tudnál tanulni. Thomas Testvér a legjobb oktató, aki valaha a Testvériségben szolgált.}
+{187}{}{Nézzük csak... nekem a Testvériségen kívül kell ténykednem, nem igaz? A külvilág nagyon barátságtalan, és minden eltöltött perccel az életemet kockáztatom. Nem gondolod, hogy ennek fényében mégiscsak szükségem lenne arra a kiképzésre, ha akarom, illetve igénylem? Vagy inkább úgy véled, hogy nektek csak az életek "megmentése" a fontos?}
+{188}{}{Kösz a javaslatod, majd utánanézek.}
+{189}{}{Bolondok vagytok ti, csak épp szabadlábon.}
+{190}{}{meg tudnád mondani, hol találom Maxsont?}
+{191}{}{Nos, csak azt tudom megismételni, amit nekem is mondtak. Ha beszélsz Thomasszal vagy Talusszal, talán kivételt tehetnek veled.}
+{192}{}{Oké, kösz.}
+{193}{}{Ajánlom is neki. A belem kitettem értetek, annyit mondhatok.}
+{194}{}{Szóval akkor meg tudnád mondani, hol találom Maxsont?}
+{195}{}{Ó, drágám! Mikor házasodunk össze?}
+{196}{}{Annyira jól nézel ki... mint mindig.}
+{197}{}{Csókolj meg!}
+{198}{}{Annyira hiányoztál.}
+{199}{}{Várni fogok rád.}
+{200}{}{Egész nap csak rád gondoltam.}
+{201}{}{Annyira csini vagy, amikor így nézel rám.}
+{202}{}{Ne hozd rám a frászt legközelebb! Már azt hittem, sosem látlak többet.}
+{203}{}{Múlt éjszaka nem jöttél.}
+{204}{}{Mióta nem láttuk már egymást? Mintha csak egy örökkévalóság lett volna.}
+{205}{}{Annyira, de annyira hiányoztál.}
+{206}{}{Gyere ágyba, kedvesem!}
+{207}{}{Reggel összeházasodhatunk.}
+{208}{}{Körülbelül öt gyermekünknek kéne születni.}
+{209}{}{Hova szeretnél menni nászútra? Úgy hallottam a Katedrális Gyermekeinek valami nagyon szép helyük van.}
+{210}{}{A szüleim egyfolytában várják, hogy találkozzanak veled.}
+{211}{}{Hát, szia-szia. Remélem, jól mennek a dolgok. Remélem, Vree-vel is sikerült beszélned.}
+{212}{}{Helló, }
+{213}{}{ Testvér!}
+{214}{}{Légy óvatos, ha északra mégy! Az összes felderítõnk odalett.}
+{215}{}{Brother }
+{216}{}{ Testvér, jó, hogy újra látlak.}
+{217}{}{Beszéltél már Rhombusszal? Õ a Lovagok Feje. Ott abban a szobában megtalálod.}
+{218}{}{Nincs idõm beszélgetni, dolgom van.}
+{219}{}{Sajnálom, de nincs kedvem nyers emberekkel beszélgetni.}
+{220}{}{Ne zargass!}
+{221}{}{Mi? Nem akarsz valaki mást zavarni?}
+{222}{}{Menj el!}
+{223}{}{Nem akarok beszélgetni veled.}
+{224}{}{Menj vissza, és tanulj, Újonc!}
+{225}{}{Nincs idõ a beszédre, Újonc!}
+{226}{}{Gyere ide, kicsim!}
+{227}{}{Drágám, erre-erre!}
+{228}{}{ Hiányoztál.}
+{229}{}{Már készen áll a gyerekszoba, drágám.}
+{230}{}{Szia, kedvesem.}
+{231}{}{Késõbb találkozunk.}
+{232}{}{Találkoznod kell a szüleimmel.}
+{233}{}{Juhú!}
+{234}{}{Gyere ide, kis kutyulim!}
+{235}{}{Te incselkedsz velem?}
+{236}{}{Nehéz téged behálózni, mi?}
+{237}{}{Ide-ide, édesem!}  ## Is this supposed to say sweaty or sweety? Either way, I chuckled when it was "sweaty".
+{238}{}{Szia, kedvesem!}
+{239}{}{Na, tessék. Már aggódtam.}
+{240}{}{Jer ide, és adj egy csókot, szépségem!}
+{241}{}{Gyere közelebb, drágám!}

@@ -1,0 +1,30 @@
+{100}{}{Egy rendkívül szép nõt látsz.}
+{101}{}{Õ Christine, Michael felesége.}
+{102}{}{Helló! Segíthetek valamiben?}
+{103}{}{Ön kicsoda?}
+{104}{}{Ki itt a felelõs személy?}
+{105}{}{Tudna mondani egy s mást errõl a helyrõl?}
+{106}{}{Nem, köszönöm.}
+{107}{}{Te nem Mami?}
+{108}{}{A nevem Christine, a férjemmel, Michaellel élek itt.}
+{109}{}{Razor az, aki a legtöbb dolgot intézi a Pengésekkel, és segít az önszervezõdésben.}
+{110}{}{Michael és én nemrég költöztünk ide, ezért nem nagyon ismerem a helyet. Hallottam viszont egy délre lévõ nagy templomról, de eléggé pletykaszagú volt a dolog.}
+{111}{}{Van még valami, amit tudnom kéne?}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks.
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks!
+#
+{112}{}{Aligha...}
+{113}{}{Egész biztos?}
+{114}{}{Tuti biztos...}
+{115}{}{Na jól van, akkor errõl ennyit...}
+
+{116}{}{Van még valami, amiben segíthetnék?}
+{117}{}{Nem vagyok az anyukád. Na, szaladj játszani!}

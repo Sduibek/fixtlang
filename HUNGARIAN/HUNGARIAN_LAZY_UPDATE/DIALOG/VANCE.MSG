@@ -1,0 +1,66 @@
+{100}{}{You see a businessman. You are unsure the nature of his business.}
+{101}{}{Mit tehetek érted?}
+{102}{}{Hunh?}
+{103}{}{Ki vagy?}
+{104}{}{Mire használatos ez az épület?}
+{105}{}{Vance, right? I heard you've got what I need. Can I score some?}
+{106}{}{Nothing. Bye.}
+{107}{}{Vance-nek hívnak, és ennél többet nem is kell tudnod. Szolgálhatok valamivel?}
+{108}{}{Honnan tudjam, ha nem mondod meg, mit árulsz?}
+{109}{}{Örülök, hogy találkoztunk, Vance. Mit árulsz?}
+{110}{}{Me wan' stuff.}
+{111}{}{No. Bye.}
+{112}{}{Ha eddig nem jöttél rá, akkor jobb, ha elmész innen! Indulás!}
+{113}{}{A FRANCBA, ODA MEGYEK, AHOVA AKAROK! MENJ TE A PICSÁBA!}
+{114}{}{Okay. I'll leave.}
+{115}{}{'Nothing' is right! Don't waste my time. Now get out of here!}
+{116}{}{Benne vagyok én minden földi jóban, csak aztán nehogy megfeküdje a gyomrod, te szörnyszülött!}
+{117}{}{Okay okay... I'm leavin'.}
+{118}{}{Yeah, you seem okay. Here's what I've got.}
+{119}{}{He eyes you suspiciously.}
+{120}{}{Oh hey. Always nice to see repeat customers. What can I do for you?}
+{121}{}{akarni méG.}
+{122}{}{Szeretnék még vásárolni ezt-azt.}
+{123}{}{Nem tetszik a fajtád.}
+{124}{}{Kik azok a barátaid?}
+{125}{}{Kik azok a barátaid a hátsó fertályban?}
+{126}{}{Csak szüttyögök kicsit...}
+{127}{}{Sajnálattal hallom. Most viszont távozz!}
+{128}{}{NEM!}
+{129}{}{Távoznék...}
+{130}{}{Õk Justin és Chad. Az a dolguk, hogy senki ne okozhasson nekünk galibát.}
+{131}{}{Úgy néznek ki, mint két kikent-kifent piperkõc.}
+{132}{}{Örülök, hogy látlak benneteket srácok.}
+{133}{}{Ha ti is beleegyeztek, fiúk, egy kicsit elszüttyögnék itt.}
+{134}{}{Csak a barátaim. Ennél többet nem kell tudnod. Ne kérdezz túl sokat!}
+{135}{}{Hát jól van... milyen eladó árud van?}
+{136}{}{Tudom, mit csinálsz itt, és nem vagyok oda érte.}
+{137}{}{Ha ti is beleegyeztek srácok, egy kicsit elszüttyögnék itt.}
+{138}{}{Feszüljünk neki az üzletnek...}
+{139}{}{OKÉ, mid van?}
+{140}{}{Azt hiszem, elszüttyögnék itt egy kicsit.}
+{141}{}{You're not welcome here! Get out before things get ugly.}
+{142}{}{Elküldelek a Pokolba, az a neked való hely!}
+{143}{}{Elnézést, bocsánat.}
+{144}{}{Hé, hûtsd le magad! Csak egy kis félreértés támadt. Beszéljük meg!}
+{145}{}{Nem akarok semmilyen balhét! Jobb lenne, ha addig távoznál, amíg nem csinálok valami olyasmit, amit magam is megbánnék a végén!}
+{146}{}{No, me stay.}
+{147}{}{Jóóóvan. Menek.}
+{148}{}{Nem érdekel a véleményed.}
+{149}{}{Alright, alright, I'm leaving.}
+{150}{}{Takarékosan bánj vele!}
+{151}{}{Thanks, take it easy.}
+{152}{}{Ug?}
+#
+# Fallout Fixt:
+#
+{153}{}{Who the hell are you and what the fuck are you doing in my place?}
+{154}{}{Me }
+{155}{}{. [smile] ...who u?}
+{156}{}{! [glare] wHo *you*?}
+{157}{}{Too many binges of Psycho, eh? Can't say I haven't seen that before. [laughs] }
+{158}{}{Great, another burnt-out braindead junkie. Get the fuck out of here.}
+{159}{}{Ungh!}
+{160}{}{Justin, Chad, let's show this asshole how we deal with their kind...}
+{161}{}{me Want some.}
+{162}{}{Nuuhhh... buh-bye.}

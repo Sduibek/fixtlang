@@ -1,0 +1,135 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#   SKILL NAMES
+#
+{100}{}{Kézi lõfegyverek}
+{101}{}{Nehéz lõfegyverek}
+{102}{}{Energiafegyverek}
+{103}{}{Ökölharc}
+{104}{}{Közelharc}
+{105}{}{Hajítás}
+{106}{}{First Aid}
+{107}{}{Orvos}
+{108}{}{Lopózás}
+{109}{}{Zárak}
+{110}{}{Lopás}
+{111}{}{Csapdák}
+{112}{}{Tudományok}
+{113}{}{Javítás}
+{114}{}{Beszéd}
+{115}{}{Üzletelés}
+{116}{}{Szerencsejáték}
+{117}{}{Túlélés}
+
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{Kézi lõfegyverek használata, karbantartása és általános ismerete - pisztolyok, géppisztolyok és puskák.}
+{201}{}{Nehéz lõfegyverek használata és karbantartása - gépágyúk, rakétavetõk, lángszórók, stb.}
+{202}{}{Energia alapú fegyverek feltöltése és használata - minden, ami lézer- vagy plazma technológiával mûködik.}
+{203}{}{Harcmûvészetek, boksz, és egyéb pusztakezes harctudományok. Harc kézzel és lábbal.}
+{204}{}{A nem távolsági fegyverek használata - kések, kalapácsok, lándzsák, bunkók, stb.}
+{205}{}{Hajítófegyverek használatának képzettsége - dobókések, lándzsák és gránátok.}
+{206}{}{A gyógyítás legalapvetõbb ismeretei. Könnyebb sebek, horzsolások és egyéb kisebb betegségek ellátása. Több ÉP-t gyógyíthat, mint az ugyanannyi ideig tartó pihenés.}
+{207}{}{Súlyos sérülések, sérült végtagok gyógyítása. Enélkül sokkal több idõ kell a sérült végtagok gyógyulásához.}
+{208}{}{A csendes mozgás és az észrevétlenség képessége. Ha sikeres, sokkal nehezebben vesznek észre. Nem tudsz egyszerre futni és lopakodni.}
+{209}{}{Zárak kinyitása a megfelelõ kulcs híján. Tolvajkulcs vagy elektromos zárnyitó használata jelentõsen növeli ezt a képzettséget.}
+{210}{}{Mások dolgainak eltulajdonítása. Tárgyak ellopása emberektõl, vagy különbözõ helyekrõl.}
+{211}{}{Csapdák megtalálásának és hatástalanításának, valamint robbanóanyagok használatának képzettsége.}
+{212}{}{Tudományok, ismeretek gyûjtõképzettsége, mint például a számítástechnika, biológia, fizika és geológia.}
+{213}{}{A Tudományok képzettség gyakorlati alkalmazása lerobbant, hibás berendezések, gépek vagy elektronikus eszközök javítására.}
+{214}{}{A kommunikáció célratörõ és hatásos módja. Mások meggyõzése arról, hogy amit te mondasz az úgy is van. A leleplezõdés nélküli hazudozás képzettsége.}
+{215}{}{Kereskedelem és minden hozzá kapcsolódó feladat. A megfelelõ képzettség, hogy drágán adj el, és olcsón vásárolj.}
+{216}{}{Fogadás, kártya, kocka és egyéb hazárdjátékok ismerete.}
+{217}{}{A pusztákon való túlélés gyakorlati alkalmazása. Magában foglalja az állatok és növények ismeretét.}
+
+#
+#   SKILL CALCULATION DESCRIPTIONS
+#
+{300}{}{+ ÜG}
+{301}{}{+ ÜG}
+{302}{}{+ ÜG}
+{303}{}{+ (ÜG + ER)/2}
+{304}{}{+ (ÜG + ER)/2}
+{305}{}{+ ÜG}
+{306}{}{+ (ÉR + IN)}
+{307}{}{+ (ÉR + IN)/2}
+{308}{}{+ ÜG}
+{309}{}{+ (ÉR + AG)/2}
+{310}{}{+ ÜG}
+{311}{}{+ (ÉR + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x KA)}
+{315}{}{+ (2 x KA)}
+{316}{}{+ (3 x SZ)}
+{317}{}{+ (KI + IN)/2}
+
+#
+#   SKILL USE MESSAGES
+#
+
+{510}{}{\nskill_use: invalid skill used.}
+
+#
+# First Aid and Doctor
+#
+{500}{}{%d életerõt gyógyítottál.}# "d" is a number
+{501}{}{Már makk egészséges vagy.}
+{502}{}{%s makk egészségesnek látszik.}# "s" is a critter title/name from SCRNAME.MSG, such as "Hub Police Officer" or "Dogmeat" or "Aradesh"
+{503}{}{You fail to heal anything.}
+{505}{}{You earn %d experience for honing your skills.}# "d" is a number
+
+{512}{}{A halottakat képtelenség meggyógyítani.}
+{513}{}{Hagyd a halottat békében nyugodni!}
+{514}{}{Meghalt, nincs mit tenni.}
+#
+# Lines 530-534 are the endings to lines 520, 521, 525, 526
+#
+{520}{}{You mend your %s.}
+{521}{}{You mend the %s.}
+{525}{}{You fail to mend your %s.}
+{526}{}{You fail to mend the %s.}
+{530}{}{sérült szemet}
+{531}{}{sérült bal karodat}
+{532}{}{sérült jobb karodat}
+{533}{}{sérült jobb lábadat}
+{534}{}{sérült bal lábadat}
+
+#
+# After 3 successful uses of a healing skill in one day
+#
+{590}{}{Kimerítetted a képzettséged, próbáld meg késõbb!}
+{591}{}{You're too tired to do that right now.}
+{592}{}{The strain might kill you. Get some rest first.}
+
+#
+# Lockpick
+#
+{550}{}{The lock triumphantly resists your attempt to bypass it.}
+
+#
+# Traps
+#
+{551}{}{You do not find any traps. The object may not be trapped at all.}
+
+#
+# Science
+#
+{552}{}{You tinker and study for a while, but do not discover any useful gadgets or information.}
+
+#
+# Repair
+#
+{553}{}{This cannot be repaired, or is already functioning normally.}
+
+#
+# Steal
+#
+{570}{}{Lebuktál az áhított %s ellopása közben.}
+{571}{}{Sikerült ellopnod: %s.}
+{572}{}{Miközben a tiltott %s becsempészésén ügyködtél, sikeresen lebuktál.}
+{573}{}{Sikerült becsempészned: %s.}

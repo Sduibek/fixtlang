@@ -1,0 +1,30 @@
+{100}{}{You see a desert raider. Judging by how the others look at her, she must have some position of importance or authority.}
+{101}{}{Alya vagyok a Khan bandából. Mi járatban vagy itt?}
+{102}{}{Egy Tandi nevû nõt keresek. Tudsz róla valamit?}
+{103}{}{Mit szólnál, ha megcsókolnálak?}
+{104}{}{Miért támadta meg a bandád Shady Sands-t?}
+{105}{}{Kösz, nem.}
+{106}{}{Huru!}
+{107}{}{Ha õ a Shady Sands-i nõk egyike, akkor jobb, ha ott nézel utána. Most pedig hagy békén, be kell fejeznem a késeim élesítését. }
+{108}{}{Csókold meg ezt itt!}
+{109}{}{Mi sosem támadtuk meg Shady Sands-belieket. Mi is ugyanonnan jövünk, ahonnan õk. Nincs abban semmi, hogy megosztják velünk, amijük van!}
+{110}{}{De hát háborgatjátok a marháikat meg a lakosokat.}
+{111}{}{Ez elfogadhatónak tûnik számomra.}
+{112}{}{Ah, igen. Na, asszem, most indulok.}
+{113}{}{Ugyanolan tutyimutyi alaknak tûnsz, mint az a bagázs. Jobb, ha tudod, ha valaha is az éhhalál szélére kerülnek, az csakis annak lesz köszönhetõ, hogy képtelenek elõre tervezni. Vedd úgy, hogy tudást cserélünk.}
+{114}{}{Tudást cseréltek?!? Hogy lehetne már tudást cserélni? Nem adtok nekik semmit cserébe.}
+{115}{}{Hogyne, a nagyanyámnak meg pöcse van.}
+{116}{}{Öö, értem. Na, akkor én most megyek.}
+{117}{}{Bocs, de nem értem, amit mondasz. A késeimet élesítem, és jobb lenne, ha nem zavarna senki közben.}
+{118}{}{Tõlünk a lehetõ legjobb dolgot kapják. Fényt viszünk a sivár életükbe.}
+{119}{}{Nem vagyok meggyõzõdve róla, hogy éppen erre a fényre vágynak.}
+{120}{}{Asszem, most újra unalmat viszek az életükbe. Mégpedig azzal, hogy kinyírlak!}
+{121}{}{Öö, értem. Na, akkor én most megyek.}
+{122}{}{Nem kérdeztem. Viszont látszik, hogy nem sok fogalmad van az élet értelmét illetõen, ezért most véget vetek a létezésednek.}
+{123}{}{Ha szívóskodsz velem, nem sok jóra vezet. Ajánlom, hogy tûnj el a szemem elõl!}
+{124}{}{Rohadtul biztos lehetsz benne, hogy ez így jó, ahogy van. Most pedig tûnés a szemem elõl!}
+{125}{}{Most épp leköt a következõ akciónk elõkészítése.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Alya, one of Garl's advisors.}

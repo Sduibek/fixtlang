@@ -1,0 +1,262 @@
+{100}{}{Loxley, a Tolvajok Körének vezetõje.}
+{101}{LOX_0}{Ez egy kis ajándék tõlem, a papától és a mamától. Mondjuk néhány generációval korábbról. Tetszik?}
+{102}{}{Illik hozzád.}
+{103}{}{Ne, fáj tõle a fülem!}
+{104}{LOX_0A}{Köszi szépen. Még dolgozni kell rajta, hogy hogy ne kelljen sokat állítgatni. Na, elég ebbõl. A nevem Loxley, téged hogy hívnak?}
+{105}{}{I'm }
+{106}{}{ vagyok.}
+{107}{}{Mennyiben érint ez téged?}
+{108}{}{Mi ez a hely?}
+{110}{LOX_1F}{Mocskosul meggyõzõ, ahogy átjutottál azon a védelmen! Mi a neved, kicsim?}
+{109}{LOX_1M}{Mocskosul meggyõzõ, ahogy átjutottál azon a védelmen! Mi a neved, ecsém?}
+{111}{}{I'm }
+{112}{}{ vagyok.}
+{113}{}{Mennyiben érint ez téged?}
+{114}{}{Mi ez a hely?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+# "You got" means "You have"
+{115}{}{Elég fura akcentusod van, barátom.}
+
+{116}{}{Úgy beszélsz, mint egy idióta.}
+{117}{}{Nöhhh?}
+{118}{LOX_2F}{Nagyon örülök, hogy összeismerkedtünk... egyelõre. Most pedig térjünk át az udvariassági formák másik részére, rendben? Mi a büdös rohadt francot keresel te itt?}
+{119}{}{Szívesen csatlakoznék a Körötökhöz.}
+{120}{}{Szeretnék kérdezni egy-két dolgot.}
+{121}{}{Mindannyiótokat viszlek a börtönbe.}
+{122}{LOX_3}{Jaj, milyen szép dolog. Egy újonc. Hát sokat dolgoztál, hogy megnézzünk magunknak. Viszont, ha tényleg be akarsz állni hozzánk, a Második Teszten is túl kell jutnod.}
+{123}{}{Mi az?}
+{124}{}{Elég félelmetesen hangzik... mi lenne, ha most passzolnék?}
+{125}{}{Öh... mi volt az elsõ teszt?}
+{126}{LOX_4}{Nagyon egyszerû a dolog. Tégy tanúbizonyságot tolvaj mivoltodról, és ha sikerül, tied a világ! Ha nem, többet nem látjuk egymást. Kivéve, ha te jönnél háztûznézõbe. Ha esetleg nem volnék elég tiszta, ez utóbbi fenyegetés akart lenni.}
+{127}{}{Miben áll ez a teszt?}
+{128}{}{Úgy érted, ha felsülök, az egész helyet felszámoljátok, vagy megpróbáltok megölni?}
+{129}{}{Szóval fenyegetsz?}
+{130}{LOX_5}{Ez annyira, de annyira egyszerû. A Magaslaton megtalálod Daren Hightower villáját, tárva-nyitva áll, hogy bárki besétáljon. Készen állsz a nagy akcióra? Elfogadod a kihívást?}
+{131}{}{Készen állok!}
+{132}{}{Dehogy állok készen!}
+{134}{LOX_6F}{Ez a beszéd, kicsim!}
+{133}{LOX_6M}{Ez a beszéd, ecsém!}
+{135}{LOX_6B}{Beszélj Jasmine-nal a kinti szobában! Õ majd felvázolja a részleteket, ad egy térképet, meg egy-két apróságot, ami jól jöhet még. Egyet azonban véss az eszedbe, ha bármikor is a zsaruk kezére akarsz juttatni minket, bottal ütheted a nyomunkat. Na, ne fessük az ördögöt a falra. Csirió, sok szerencsét, és ta-dam!}
+{136}{LOX_7}{Akkor mi a vérvörös francnak vagy itt? Városnézõben? Tetszik a környezet? Vagy az arcom talán?}
+{137}{}{Nem, azért jöttem, hogy kérdéseket tegyek fel.}
+{138}{}{Azt leszögezhetem, hogy nem arcod miatt.}
+{139}{}{Igazad van, szeretnék csatlakozni a Körötökhöz.}
+{140}{LOX_8}{Szóval ezt akarod? Kérdezgetni! Hát, te aztán elképsztõen bátor vagy komplett hülye vagy. Kérdezz csak, kérdezz! De utána ugye megtalálod majd az ajtót?}
+{141}{LOX_9}{Te viccelsz! Szerinted beugrom az ilyen dumának? Túnés innen, te szerencsétlen!}
+{142}{LOX_10}{Hú, milyen beszólós hangulatban vagyunk! De azért barátok maradunk, ugye?}
+{143}{}{Nem látom értelmét.}
+{144}{}{Igazad van, bocsánat.}
+{145}{LOX_11}{Jaj, a szívem szakad meg. Az utolsó esélyt is elszalasztottuk a szép közös jövõt illetõen. [Sóhajt egyet] Jasmine, vezesd ki ezt a kis pöcsöt.}
+{146}{LOX_12}{Látom, vissza-vissza vet a sors. Szeretem az olyanokat, akik mernek kockáztatni, és meg vagyok gyõzõdve, hogy jó kis szolgálatot tehetnél a mi kis derûs csapatunknak. Mit szólsz?}
+{147}{}{Oké!}
+{148}{}{Azt szólom, hogy neked elment az eszed.}
+{149}{lox_12b}{Oké!}
+{150}{LOX_13}{Hû, a macska rúgja meg. Nagyon sajnálom, hogy ezt kell hallanom. Jó kis tolvaj lett volna belõled, de a Körünk nem tart igényt az idõszakos hülyékre. Jasmine, légy oly kedves, kísérd ki a vendégünket!}
+{151}{LOX_14}{Minek nézel te bennünket? Ha hidegvérû gyilkosra van szükséged, keresd fel Deckert, meg a sleppjét! Ha befuccsolsz, ami jelen pillanatban eléggé elképzelhetõ, mi egyszerûen eltûnünk. Nos, akkor teszel egy próbát vagy sem?}
+{152}{}{Teszek.}
+{153}{}{Nem.}
+{154}{LOX_16}{Jaj, ne! Annyira félek. Az élet oly kegyetlen. Loxley, inkább lennék örökké gyáva, mintsem a gyõzelmi mámor egyetlen pillanatában fürödjek. Szóval egy újabb rejszmester jött hozzánk... Kifelé!}
+{155}{LOX_17}{Ugye még nem találtuk ki? Az Elsõ Teszt az volt, hogy idejutsz-e egyáltalán! Ez az egyetlen ok, amiért felmerült a második lehetõsége.}
+{156}{}{Oké, megteszek bármit, amit kérsz!!}
+{157}{}{Mi a következõ teszt?}
+{158}{}{Nos, nem akarok egyebet, mint feltenni néhány kérdést.}
+{159}{LOX_18}{Ha ha ha. Milyen mulatságos. Börtönbe akarsz juttatni minket, nem igaz? Aztán, ha nem vagyok indiszkrét, mégis hogy óhajtod véghez vinni ezt a hõstettet?}
+{160}{}{Szép csendben kövess, úgy senkinek nem esik baja.}
+{161}{}{Talán futni hagylak ezúttal...}
+{162}{LOX_21}{Hol éri ez meg nekem? Egyszerû dolgok ezek, de az ám. Mondd meg a neved, vagy megismertetünk az ajtóval.}
+{163}{}{Jól van. A nevem }
+{164}{}{.}
+{165}{}{Mit szólnál, ha én meg a csizmámmal ismertetnélek meg?}
+{166}{LOX_22}{Ez itt nem más, mint a híres-hírhedt Tolvajok Köre! Azt gondoltam, hogy tudsz ennyit, látván, milyen ügyesen keresztülverekedted magad a védelmünkön meg miegymás. Persze nem számít semmi. Ígéretes ember vagy, és a Körünk szívesen látna egy hozzád hasonló kaliberû tagot.}
+{167}{}{Oké, mit kell csinálnom?}
+{168}{}{Kösz, de nem. Viszont kérdésem az volna néhány.}
+{169}{}{Nincs rá eset.}
+{170}{LOX_23}{Hm, átjutottál a védelmünkön, tehát nem ejtettek a fejed lágyára. Hogy hívnak?}
+{171}{}{Az emberek }
+{172}{}{ néven ismernek.}
+{173}{}{Közöd?}
+{174}{}{Mi ez a hely?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{175}{}{Elég fura akcentusod van, barátom.}
+
+{176}{}{Úgy beszélsz, mint egy idióta.}
+{177}{LOX_24}{Mi a francot akarsz?}
+{178}{}{Mit tettem? Miért kell ilyen ellenségesnek lenned?}
+{179}{}{Távol tartani magam tõled.}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{180}{}{Hékás, én a ti oldalatokon állok. Barátként jöttem.}
+
+{181}{LOX_25}{Nem tetszel nekem. Gõzöm sincs, miért, de nem is érdekel.}
+{182}{}{Adj egy esélyt!}
+{183}{}{Akkor nem vagy te más, csak egy félkegyelmû, igaz?}
+{184}{LOX_26}{Köszönöm, hogy ilyen felejthetetlen perceket szereztél nekem. Jasmine, vezesd ki a vendégünket!}
+{185}{LOX_27}{Igazán örömmel látlak újra a körünkben. Van valamid a számomra?}
+{186}{}{Van. Bedobom a törülközõt. Úgy döntöttem, hogy nem csinálom végig a hülye tesztedet.}
+{187}{}{Még nem szereztem meg.}
+{188}{}{Tessék, itt a nyaklánc.}
+{189}{LOX_29}{Ha! Ha! Bravó! Fogadd gratulációmat! Mostantól tagja vagy a világhírû Tolvajok Körének. Hívjuk közelebb Jasmine-t is és dobáljuk a kalapjainkat!}
+{190}{LOX_30}{Ó, milyen vicces. Mindamellett szeretném a tudtodra hozni, hogy az ilyen poénokat, humorkodást meg szívatjuk-az-öreg-Loxley-barátunkat, nagyon nem kultiválomé. Mondok én valamit. Kapsz még egy esélyt. Lássam a nyakláncot!}
+{191}{LOX_31}{Te aztán nem semmi egy kiakasztó alak vagy ám!}
+{192}{LOX_32}{Hülyeség! Jaj... annyira csalódottá teszel, hogy így vélekedsz. Nos, a mi kis Körünk a te sziporkázó éned nélkül is kiválóan ellesz. Oly szomorú vagyok... Jasmine, kísérd vendégünket a kijárathoz! Aztán nehogy azon törd a fejed, hogy visszajössz, rendicsek?}
+{193}{LOX_33}{Akkor mi a vérvörös francnak vagy itt? Picsába! Menj a dolgodra, és a nyaklánc nélkül vissza ne gyere!}
+{194}{}{Van valmi érdekes mostanában?}
+{195}{}{Mesélj valamit a Hubról!}
+{196}{}{Hallottál jó kis pletykákat az utóbbi idõben?}
+{197}{}{Mesélj még valamit a Körötökrõl!}
+{198}{}{Az eltûnt karavánokat keresem. Van valami elképzelésed, hol lehetnek?}
+{199}{LOX_35}{Az egész rohadt város felbolydult azok miatt az eltûnt karavánok miatt, meg minden. Nagy fájdalom ez. Erõsen érinti a Körünk üzletét, tudtad?}
+{200}{}{Tudod, ki tehetõ felelõssé?}
+{201}{}{Kösz. Kérdezhetek még egy s mást?}
+{202}{LOX_36}{Nem tudom, de remélem, hamarosan elõkerül. Az emberek be vannak rágva, a mi munkánknak meg rendesen betesz, gondolhatod. Nem is beszélve a sok terjengõ babonáról.}
+{203}{}{Miféle babonákról beszélsz?}
+{204}{}{Kösz. Kérdezhetek még egy s mást?}
+{205}{LOX_37}{Összehordanak mindenfélét arról, hogy a Halálkarmok elragadták a karavánokat, és elvitték a barlangjukba egy kis ötórai teára.}
+{206}{}{Fincsinek hangzik. Kérdezhetek még egy s mást?}
+{207}{LOX_38A}{Már hogyne lennénk barátok! Mi sem természetesebb ennél.}
+{208}{lox_38b}{[Sóhajt] Miért nem?}
+{209}{LOX_38C}{Kérdezz csak, kérdezz!}
+{210}{LOX_39}{Az az igazság, hogy nem. Neked volt. Érezd magad szerencsésnek. Minden jót, ta-dam!}
+{211}{lox_40}{Semmi olyanról nincs szó, ami érdekelhetne téged.}
+{212}{}{Próbálj ki engem!}
+{213}{}{Oké, kösz. Feltehetek még néhány kérdést?}
+{214}{LOX_41}{Semmi különös. Épp csak az egész város talpig fegyverben van most, hogy eltûntek azok a karavánok. Ez minden.}
+{215}{}{Hú, köszi. Válaszolnál még néhány kérdésemre?}
+{216}{LOX_42}{Csak a szokásos. A kereskedõkaravánok megzsírosodnak a szegényeken, miközben az a gazfickó Decker mindenkit kijátszik.}
+{217}{LOX_43}{Van a szokásos számú bolt meg miegymást. Végy hozzá néhányat a Katedrális Gyermekei közül, akiknek ugye nincs ki a négy kereke. Adj hozzá egy kupica Deckert meg a Földalatti mozgalmát, akik egy cseppet sem könnyítik meg az életünket. Az egészet bolondítsd meg egy öntet kapzsi kereskedõvel, és akkor nagyjából helyben vagyunk.}
+{218}{}{A kereskedõk jó nagy mocskok, mi?}
+{219}{}{Úgy látszik, nagy támogatója vagy Deckernek.}
+{220}{LOX_43A}{A következõ kérdést, ha lehetne.}
+{221}{LOX_44}{Úgy biz a! Ezért alakult a Körünk, sejtheted. Ott van az a sok gazdag muksó, akik a szegények zsírján élnek. Ezek a szegény emberek meg egyre csak várják a hõsüket. A nekik nyújtott segítség miatt gyakorlatilag a lábaink elõtt hevernek.}
+{222}{}{Mi a gond a pénzcsinálással?}
+{223}{}{Csak úgy, mint Robin Hood.}
+{224}{LOX_47}{Hogy mi a gond?! Te kis... nos, azt hiszem, egy kicsit félreértettelek, ugyebár? Jasmine, vezesd ki ezt a kereskedõk talpnyalóját!}
+{225}{LOX_48}{Ismered a történetet! Tudtam, hogy van benned valami különleges. A nagyapám mesélte ezt a legendát hosszú évekkel ezelõtt. Na, az volt a tolvajok tolvaja! Viszont túl sokat karattyolunk itt össze-vissza. Van még valami, amiben segíthetek?}
+{226}{LOX_51}{Az eltûnt karavánokat leszámítva nem sok. Várjunk csak... Az egyik emberem úgy jött vissza tegnap, és csak úgy világíott a sugárfertõzéstõl. Szar ügy ez. Valószínûleg túl sokat flangált a jó öreg Sugárzóna környékén.}
+{227}{LOX_53}{Pofon egyszerû, elvesszük a gazdagoktól a vagyonukat, és nagyjából tíz-húsz százalákát átengedjük az óvárosi nincsteleneknek. A Szervezetünk húsz százalékot megtart, a maradék a végrehajtót illeti. Mindenki egész jól jár.}
+{228}{LOX_54}{Szélhámosok vagyunk, nem napszámosok.}
+{229}{LOX_55A}{Benézhetsz a kereskedõkhöz, ha akarsz, de a jobb idõkihasználás érdekében elvállalhatsz nekik valami éjszakai eltüntetõs melót. Aztán körbekérdezhetsz a Halálkarmokról, annak ellenére, hogy csak szóbeszéd az egész. Esetleg, ha teljesen elment a maradék eszed is, beállhatsz egy karaván mellé gürizni.}
+{230}{LOX_55B}{Honnan a vérveres francból tudjam? Úgy nézek én ki, mint egy kereskedõ?}
+{231}{LOX_56}{Van egy-két aranyszabály nálunk. Egy, soha ne fogasd el magad, kettõ, soha, de soha ne lopj tõlünk. Tedd le szépen!}
+{232}{LOX_57}{Ugye nem kapisgálod a témát? Jasmine, mutasd meg az ajtót ennek az elborult barátunknak, és gondoskodj róla, hogy ne lássuk többet az arcát!}
+{233}{LOX_58}{Azt hiszem, nem nagyon érted. A kereskedõknek akarod elcsaklizni, mi?}
+{234}{LOX_59}{Mi a vérveres szart csinálsz te itt? Kifelé!}
+{235}{LOX_60}{Nos, amint azt már mondtam...}
+{236}{LOX_61}{Nos, ahogy azt már mondtam...}
+{237}{LOX_62}{Lassú vagy? Már mondtam egyszer...}
+{238}{LOX_63}{Most süket vagy hülye vagy? Már elmondtam egyszer...}
+{239}{LOX_64}{Nem szórakoztató ismételni magam.}
+{240}{LOX_65}{Öh! Nyilván nincs az a náspáng, amivel bele lehetne ezt verni abba a makacs fejedbe.}
+{241}{LOX_66}{Nem. Decker dörzsölt fickó. Az egész város a zsebében van. "Védelmet" ad a kereskedõknek, közben pedig egymás ellen uszítja õket. Nem az az ember, akivel szívesen kezdene az ember, amúgy a Máltai Sólyomban megtalálod.}
+{242}{LOX_67}{Az Óváros északi részében van neki fegyverboltja. Átkozottul veszélyes csóka, a némelyik cucca még annál is jobban.}
+{243}{LOX_68}{Ami azt illeti, nem túlságosan csíp minket.}
+{244}{LOX_69}{Haroldot kérded? Ghoul létére egész jó fazon. A déli részen lakik.}
+{245}{LOX_70}{Õ Decker jobbkeze, tipikusan az az alak, akivel nem érdemes ujjat húzni. Rendszerint a Máltai Sólyomban dekkol.}
+{246}{LOX_71}{Ja, hogy õk... Ott pöffeszkednek a belvárostól délre esõ víztornyukban. A földbõl elõtörõ minden cseppnyi vízért tetemes díjat kérnek tõlünk, jóravaló emberektõl. Az egész bagázst fossá kéne lõdözni, de bizony ám.}
+{247}{LOX_72}{Van egy kis vegyesbolt a belvárosban. Én mondjuk nem nagyon bíznék bennük. Többnyire szaros kis helyükön lapítanak. Arra jók, hogy kemény drogokat meg elsõsegély-készleteket vegyen az ember tõlük. Sokkal olcsóbbak, mint azok az idétlen Katedrális Gyermekei, annyit mondhatok.}
+{248}{LOX_73}{A három karaván közül még ez a legokésabb. Kár, hogy lemaradtam róluk néhány mérfölddel.}
+{249}{LOX_74}{Bûnözõk, abszolút bûnözõk. Az utolsó szuszt is kipréselik a városból. A Hosszútávú Kereskedõk, a Karmazsin Karaván, és mind köül a legrosszabbak, a Vízkereskedõk. Bõséges a választék.}
+{250}{lox_75}{A város közepén megtalálod.}
+{251}{LOX_76}{Tényleg nem sok mindent tudok róluk. Éjszakánként halálra rémítheted a gyerekeket az északra élõ, hússal és rossz gyerekekkel táplálkozó rondaságokkal.}
+{252}{LOX_77}{Úgy tûnik, nap mint nap újak és újak tûnnek el. Az emberek nem merik elhagyni a várost védelem nélkül. Sokan ezt a halálkarmok számlájára írják.}
+{253}{LOX_78}{Három évvel ezelõtt az egyik kereskedõ lement délre, hogy felkeressen más városokat. Amikor visszajött, az összes haja és foga kihullott. Egyre csak valami bazi nagy sugárzásról gagyogott. Ki tudja, talán van ott valami különleges békebeli dolog.}
+{254}{LOX_79}{A legtöbb kereskedõknek dolgozó csóró itt él. Olyan satnya házaik vannak, hogy átfúj rajtuk a szél. Közben persze a Magaslaton terpeszkedõ gazdagok szép kényelmesen éldegélnek takaros otthonaikban. Rosszul vagyok ettõl.}
+{255}{LOX_80}{Szép házak, szép házak... többnyire a szegények verejtékébõl.}
+{256}{LOX_81}{Bobot mindig megtalálod a Kereskedõk Piacának közepén. Valszeg még mindig árulja a halottakból csinált gyíksültjét.}
+{257}{LOX_82}{Na, az elég félelmetes egy banda. Egész nap fel-alá mászkálnak, és a Sötét Istenükrõl papolnak. Úgy beszélnek róla, mintha õ szarta volna a spanyolviaszt. Olcsón gyógyítanak viszont, ez mondjuk elmegy. A belvárosi kórházukban megtalálod õket.}
+{258}{LOX_83}{Na, egy újabb gyakós társaság. Az északra lévõ nagy fekete erõdítményükben tanyáznak, és csak a következõ háborúra várnak.}
+{259}{LOX_84}{Egy kicsit oda kell ott figyelni a dolgokra. A Hasfelmetszõk és a Pengések csak úgy szórakozásból is feltrancsíroznak. A városuk, Adytum meg próbál életben maradni közben. Ha azon kapad magad, hogy arra sétafikálsz és egész véletlenül épp a Pengéseknél jársz, add át üdvözletem Razor-nek! Ha rágondolok, elõjönnek a szép régi emlékek, bizony-bizony.}
+{260}{LOX_85}{Azok a Csonttelepi dilinyósok. Évek óta csatároznak, de már azt sem tudják, mire fel. Kurva nagy baromság az egész.}
+{261}{LOX_86}{Micsoda nõ az! A régi szép idõkben tolvaj volt itt nálunk, amíg úgy nem döntött, hogy elköltözik délre, a Csonttelepre. Az utolsó információ róla az, hogy beállt a Pengésekhez. Az már igaz, hogy nem az esze miatt ért valamit.}
+{262}{LOX_87}{Gõzöm sincs róla.}
+{263}{LOX_88}{Nem igazán tudok róla.}
+{264}{LOX_89}{Hmm. Lövésem sincs.}
+{265}{LOX_90}{Megáll az ész... [Gúnyos a hangja.], hogy volt képes egy tökhülye keresztülvergõdni a védelmünkön? Bocs, de idióta alakok nem jöhetnek ide, szeretjük a tartalmas beszélgetéseket. Jasmine, vezesd ki kérlek ezt a nyáladzó vendéget!}
+{266}{LOX_91}{Beszélj Jasmine-nel, õ majd elmondja a részleteket!}
+{267}{}{Loxley túlságosan elfoglaltnak tûnik, hogy beszélgessen.}
+{268}{}{Jasmine-tól megkapod a jutalmadat.}
+
+
+# Loxley Tell-Me-Abouts generic responses
+{980}{LOX_87}{Hmm, halvány lila gõzöm sincs róla.}
+{981}{LOX_88}{Nem tudok mit mondani.}
+{982}{LOX_89}{Hmm. Nem igazán tudok, mit mondani.}
+{983}{LOX_90}{Megáll az ész... [Gúnyos a hangja.], hogy volt képes egy tökhülye keresztülvergõdni a védelmünkön? Bocs, de idióta alakok nem jöhetnek ide, szeretjük a tartalmas beszélgetéseket. Jasmine, vezesd ki kérlek, ezt a nyáladzó vendéget!}
+
+
+#
+# Loxley Tell-Me-Abouts
+#
+
+{1000}{}{Decker}
+{1001}{}{Jacob}
+{1002}{}{Rendorség}
+{1003}{}{Harold}
+{1004}{}{Kane}
+{1006}{}{Karmazsin}
+{1007}{}{Traders}
+{1008}{}{Karavan}
+{1009}{}{Piac}
+{1010}{}{Karom}
+{1011}{}{Eltunt}
+{1012}{}{Sugarzona}
+{1013}{}{Varos}
+{1014}{}{Magaslat}
+{1015}{}{Bob}
+{1016}{}{Katedralis}
+{1017}{}{Testveriseg}
+{1018}{}{Angyal}
+{1019}{}{Penges}
+{1020}{}{Razor}
+{1021}{}{Kereskedo}
+{1022}{}{Sugarzona}
+{1023}{}{Gyik}
+{1024}{}{Bodega}
+{1025}{}{Bob}
+{1026}{}{Acel}
+{1027}{}{Angyalok}
+{1028}{}{Csonttelep}
+{1029}{}{Karavan}
+{1030}{}{Halal}
+{1031}{}{Halalkarom}
+{1032}{}{Izzas}
+{1033}{}{Old Town}
+{1034}{}{Ovaros}
+
+{1100}{LOX_66}{Nem. Decker dörzsölt fickó. Az egész város a zsebében van. "Védelmet" ad a kereskedõknek, közben pedig egymás ellen uszítja õket. Nem az az ember, akivel szívesen kezdene az ember, amúgy a Máltai Sólyomban megtalálod.}
+{1101}{LOX_67}{Az Óváros északi részében van neki fegyverboltja. Átkozottul veszélyes csóka, a némelyik cucca még annál is jobban.}
+{1102}{LOX_68}{Ami azt illeti, nem túlságosan csíp minket.}
+{1103}{LOX_69}{Harold? Ghoul létére egész jó fazon. A déli részen lakik.}
+{1104}{LOX_70}{Õ Decker jobbkeze, tipikusan az az alak, akivel nem érdemes ujjat húzni. Rendszerint a Máltai Sólyomban dekkol.}
+{1106}{LOX_72}{Van egy kis vegyesbolt a belvárosban. Én mondjuk nem nagyon bíznék bennük. Többnyire szaros kis helyükön lapítanak. Arra jók, hogy kemény drogokat meg elsõsegély-készleteket vegyen az ember tõlük. Sokkal olcsóbbak, mint azok az idétlen Katedrális Gyermekei, annyit mondhatok.}
+{1107}{LOX_73}{A három karaván közül még ez a legokésabb. Kár, hogy lemaradtam róluk néhány mérfölddel.}
+{1108}{LOX_74}{Bûnözõk, abszolút bûnözõk. Az utolsó szuszt is kipréselik a városból. A Hosszútávú Kereskedõk, a Karmazsin Karaván, és mind köül a legrosszabbak, a Vízkereskedõk. Bõséges a választék.}
+{1109}{lox_75}{A város közepén megtalálod.}
+{1110}{LOX_76}{Tényleg nem sok mindent tudok róluk. Éjszakánként halálra rémítheted a gyerekeket az északra élõ, hússal és rossz gyerekekkel táplálkozó rondaságokkal.}
+{1111}{LOX_77}{Úgy tûnik, nap mint nap újak és újak tûnnek el. Az emberek nem merik elhagyni a várost védelem nélkül. Sokan ezt a halálkarmok számlájára írják.}
+{1112}{LOX_78}{Három évvel ezelõtt az egyik kereskedõ lement délre, hogy felkeressen más városokat. Amikor visszajött, az összes haja és foga kihullott. Egyre csak valami bazi nagy sugárzásról gagyogott. Ki tudja, talán van ott valami különleges békebeli dolog.}
+{1113}{LOX_79}{A legtöbb kereskedõknek dolgozó csóró itt él. Olyan satnya házaik vannak, hogy átfúj rajtuk a szél. Közben persze a Magaslaton terpeszkedõ gazdagok szép kényelmesen éldegélnek takaros otthonaikban. Rosszul vagyok ettõl.}
+{1114}{LOX_80}{Szép házak, szép házak... többnyire a szegények verejtékébõl.}
+{1115}{LOX_81}{Bobot mindig megtalálod a Kereskedõk Piacának közepén. Valszeg még mindig árulja a halottakból csinált gyíksültjét.}
+{1116}{LOX_82}{Na, az elég félelmetes egy banda. Egész nap fel-alá mászkálnak, és a Sötét Istenükrõl papolnak. Úgy beszélnek róla, mintha õ szarta volna a spanyolviaszt. Olcsón gyógyítanak viszont, ez mondjuk elmegy. A belvárosi kórházukban megtalálod õket.}
+{1117}{LOX_83}{Na, egy újabb gyakós társaság. Az északra lévõ nagy fekete erõdítményükben tanyáznak, és csak a következõ háborúra várnak.}
+{1118}{LOX_84}{Egy kicsit oda kell ott figyelni a dolgokra. A Hasfelmetszõk és a Pengések csak úgy szórakozásból is feltrancsíroznak. A városuk, Adytum meg próbál életben maradni közben. Ha azon kapad magad, hogy arra sétafikálsz és egész véletlenül épp a Pengéseknél jársz, add át üdvözletem Razor-nek! Ha rágondolok, elõjönnek a szép régi emlékek, bizony-bizony.}
+{1119}{LOX_85}{Azok a Csonttelepi dilinyósok. Évek óta csatároznak, de már azt sem tudják, mire fel. Kurva nagy baromság az egész.}
+{1120}{LOX_86}{Micsoda nõ az! A régi szép idõkben tolvaj volt itt nálunk, amíg úgy nem döntött, hogy elköltözik délre, a Csonttelepre. Az utolsó információ róla az, hogy beállt a Pengésekhez. Az már igaz, hogy nem az esze miatt ért valamit.}
+{1121}{LOX_71}{Ja, hogy õk... Ott pöffeszkednek a belvárostól délre esõ víztornyukban. A földbõl elõtörõ minden cseppnyi vízért tetemes díjat kérnek tõlünk, jóravaló emberektõl. Az egész bagázst fossá kéne lõdözni, de bizony ám.}
+{1122}{LOX_78}{Három évvel ezelõtt az egyik kereskedõ lement délre, hogy felkeressen más városokat. Amikor visszajött, az összes haja és foga kihullott. Egyre csak valami bazi nagy sugárzásról gagyogott. Ki tudja, talán van ott valami különleges békebeli dolog.}
+{1123}{LOX_81}{Bobot mindig megtalálod a Kereskedõk Piacának közepén. Valszeg még mindig árulja a halottakból csinált gyíksültjét.}
+{1124}{LOX_81}{Bobot mindig megtalálod a Kereskedõk Piacának közepén. Valszeg még mindig árulja a halottakból csinált gyíksültjét.}
+{1125}{LOX_81}{Bobot mindig megtalálod a Kereskedõk Piacának közepén. Valszeg még mindig árulja a halottakból csinált gyíksültjét.}
+{1126}{LOX_83}{Na, egy újabb gyakós társaság. Az északra lévõ nagy fekete erõdítményükben tanyáznak, és csak a következõ háborúra várnak.}
+{1127}{LOX_84}{Egy kicsit oda kell ott figyelni a dolgokra. A Hasfelmetszõk és a Pengések csak úgy szórakozásból is feltrancsíroznak. A városuk, Adytum meg próbál életben maradni közben. Ha azon kapad magad, hogy arra sétafikálsz és egész véletlenül épp a Pengéseknél jársz, add át üdvözletem Razor-nek! Ha rágondolok, elõjönnek a szép régi emlékek, bizony-bizony.}
+{1128}{LOX_84}{Egy kicsit oda kell ott figyelni a dolgokra. A Hasfelmetszõk és a Pengések csak úgy szórakozásból is feltrancsíroznak. A városuk, Adytum meg próbál életben maradni közben. Ha azon kapad magad, hogy arra sétafikálsz és egész véletlenül épp a Pengéseknél jársz, add át üdvözletem Razor-nek! Ha rágondolok, elõjönnek a szép régi emlékek, bizony-bizony.}
+{1129}{LOX_74}{Bûnözõk, abszolút bûnözõk. Az utolsó szuszt is kipréselik a városból. A Hosszútávú Kereskedõk, a Karmazsin Karaván, és mind köül a legrosszabbak, a Vízkereskedõk. Bõséges a választék.}
+{1130}{LOX_76}{Tényleg nem sok mindent tudok róluk. Éjszakánként halálra rémítheted a gyerekeket az északra élõ, hússal és rossz gyerekekkel táplálkozó rondaságokkal.}
+{1131}{LOX_76}{Tényleg nem sok mindent tudok róluk. Éjszakánként halálra rémítheted a gyerekeket az északra élõ, hússal és rossz gyerekekkel táplálkozó rondaságokkal.}
+{1132}{LOX_78}{Három évvel ezelõtt az egyik kereskedõ lement délre, hogy felkeressen más városokat. Amikor visszajött, az összes haja és foga kihullott. Egyre csak valami bazi nagy sugárzásról gagyogott. Ki tudja, talán van ott valami különleges békebeli dolog.}
+{1133}{LOX_79}{A legtöbb kereskedõknek dolgozó csóró itt él. Olyan satnya házaik vannak, hogy átfúj rajtuk a szél. Közben persze a Magaslaton terpeszkedõ gazdagok szép kényelmesen éldegélnek takaros otthonaikban. Rosszul vagyok ettõl.}
+{1134}{LOX_79}{A legtöbb kereskedõknek dolgozó csóró itt él. Olyan satnya házaik vannak, hogy átfúj rajtuk a szél. Közben persze a Magaslaton terpeszkedõ gazdagok szép kényelmesen éldegélnek takaros otthonaikban. Rosszul vagyok ettõl.}
+

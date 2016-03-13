@@ -1,0 +1,47 @@
+{100}{}{Radio. Amazingly, it appears to be functional.}
+{101}{}{[Folyamatos rádiózörejt hallasz, aztán hirtelen megszólal egy mély hang.] Parancsnokság a járõrnek, parancsnokság a járõrnek. Jelentse meg a helyzetét! Vége.}
+{102}{}{Jáájj!}
+
+##{103}{}{Uh, nothing is wrong here. We're fine, uh, how are you?}
+
+{103}{}{Uhhh, everything's under control, situation normal. Nothing is wrong here. We had a slight... weapons malfunction. But everything's perfectly alright now.  We're all fine, here, now. How are you?}
+{104}{}{Parancsnokság, fegyveres emberek nagy csoportja támadt ránk. Erõsítést kérünk. Vége.}
+{105}{}{Segítség! Ismeretlen támadók leptek meg minket! Súlyos veszteségek! Az alábbi koordinátákon: 10... Argh!}
+{106}{}{Megértettem, járõr. Küldjük az erõsítést. Vége.}
+{107}{}{Say again? Who is this? What is your purpose?}
+{108}{}{Az a feladatom, hogy befogjam a lepcses pofámat!}
+{109}{}{Én... ööö... óh... na mindegy. Ettõl még mindannyiótokat megöllek.}
+{110}{}{Itt ööö... Fred beszél. Az a feladatom, hogy járõrözzek. Azt hiszem... egy kicsit megszédültem attól a zuhanástól.}
+{111}{}{Megértettem, járõr. Mik a koordinátái?}
+{112}{}{224, 104.}
+{113}{}{Négy mérföldre, dél, dél-nyugati irányban.}
+{114}{}{Gamma szektor, Omikron-Delta-Bétánál.}
+{115}{}{Megértettem, járõr. Parancsnokság végeztem.}
+{116}{}{Megértettem, járõr. Küldjük az erõsítést.}
+{117}{}{Ah, ez megmagyarázza. Küldjük a segítséget.}
+{118}{}{Járõr, vétel. Küldjük a segítséget most azonnal! Tartsanak ki!}
+{119}{}{Csak statikus zajt hallasz a rádióból.}
+{120}{}{Hallasz valami cseverészést a rádión. Fülelsz egy darabig, de semmi fontosat nem tudsz kivenni belõle.}
+{121}{}{A rádión egy vörös, villogó fényt látsz. A rádió hangszóróján keresztül magas, vékony sivítást hallasz.}
+{122}{}{Olyan a hangja, mintha el lenne kódolva.}
+{123}{}{Útjára indítasz egy parancssort, amivel az erõtér vezérelhetõ.}
+
+##{124}{}{There is only quiet static on the radio [channel].}
+
+{124}{}{You hear some chatter on the radio. You listen for a while, but discover nothing of importance.}
+{125}{}{A rádió nem funkcionál.}
+{126}{}{A rádió tökéletes állapotban van. A probléma forrása máshol eredeztethetõ.}
+{127}{}{A rádióból csak elkódolt adás sivító zaja hallatszik.}
+{128}{}{[Sivítás-kattanás-pukkanás] Itt a parancsnokság, haladjon tovább, járõr!}
+{129}{}{Ahhh!}
+{130}{}{Öh, elnézést, parancsnokság. Véletlenül megnyomtam a forgalmazás gombot.}
+{131}{}{Behatolók a bázisban! Nyomd meg a riasztót!}
+{132}{}{Járõr vétel, Parancsnokság vége.}
+{133}{}{[A rádió frekvenciáját egy biztonsági ellenõrzõ csatornára próbálod hangolni.] [Kattanás] Adja meg a belépési kódot. [Kattanás]}
+{134}{}{Hng!}
+{135}{}{Ööö, 69.}
+{136}{}{5566534571}
+{137}{}{Adtabevitel vége.}
+{138}{}{Automatikus biztonsági csatorna lezárva.}
+{139}{}{1500 tapasztalati pontot kaptál a mutáns õrök átveréséért.}
+{140}{}{2000 tapasztalati pontot kaptál azért, mert lebukás nélkül sikerült belopózkodnod a katonai bázisba (persze, ami késik, nem múlik...)}

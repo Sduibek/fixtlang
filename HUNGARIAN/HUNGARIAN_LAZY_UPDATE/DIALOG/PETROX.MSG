@@ -1,0 +1,33 @@
+{100}{}{You see a tough-looking desert bandit. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Helló! Petrox vagyok. Garl egyik alvezére. Te ki vagy?}
+{102}{}{A nevem nem más, mint }
+{103}{}{. Mi a feladatod?}
+{104}{}{A nevem jelen pillanatban egyáltalán nem fontos. Tudsz valamit mondani a táborotokról?}
+{105}{}{Hrú?}
+{106}{}{Fosztogató vagyok, s mint ilyen sokat utazgatok a pusztaság egyik felébõl a másikba. Az utazásaim során utánpótlást szerzek a táborunk számára.}
+{107}{}{Más szavakkal meglopjátok a felkeresett embereket.}
+{108}{}{Nagyon király vagy! Biztos vagyok benne, hogy Garl meg van elégedve veled.}
+{109}{}{Milyen helyeken jártál már?}
+{110}{}{Hát... szép nem mondom... annyira fontosnak találod magad, hogy még névre sincs szükséged. Ennek ellenére elmondok magunkról egy-két dolgot. Mi vagyunk a legkeményebb emberek a pusztaságban. Senki nem állhat ellent nekünk. Még a Shady Sands-i vagy roncsvárosi mamlasz banda sem.}
+{111}{}{Miféle hely ez a Shady Sands?}
+{112}{}{Mi ez a Roncsváros?}
+{113}{}{Sajnálom, de a belassult agyúakra nincs igazán idõm. Minden jót!}
+{114}{}{Mi sosem lopunk, csak elvesszük a mások maradékát, és elosztjuk az éhezõink között.}
+{115}{}{Kár is szépiteni... ellopjátok.}
+{116}{}{Ez igazán nagy ötlet.}
+{117}{}{Sok helyen jártam már a pusztaságban. A legközelebbi általam is felkeresett helyek Shady Sands és Roncsváros. Nem sokminden történik náluk, de készséggel felvilágosítanak bármirõl és feltöltheted náluk a készleteidet.}
+{118}{}{Mondj valamit Shady Sands-rõl!}
+{119}{}{Mondj valamit Roncsvárosról légyszi!}
+{120}{}{Kezdesz nagyon bosszantó lenni. Azt hiszem, véget vetek ennek a kis problémának...}
+{121}{}{Shady Sands virágzó kis közösség. Boldogan szokták... ööö... megosztani velünk a javaikat.}
+{122}{}{Mit tudsz mondani Roncsvárosról?}
+{123}{}{Roncsváros egy kicsit dél felé van innen. Rengeteg jó kis nõ van ott.}
+{124}{}{Roncsváros egy kicsit dél felé van innen. Rengeteg jó kis nõ van ott. Mondjuk... valamikor megmutathatnám a helyet, esetleg egy kicsit közelebbrõl is megismerhetnénk egymást. Mit szólsz?}
+{125}{}{Nem, köszi, talán máskor.}
+{126}{}{Miért is ne, talán késõbb.}
+{127}{}{Nos, talán majd késõbb.}
+{128}{}{Már mindent elmondtam, amit elmondhatok. Kérlek, távozz innen!}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Petrox, the Khans' lead scav.}

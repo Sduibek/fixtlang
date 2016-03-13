@@ -1,0 +1,69 @@
+{100}{}{Thomas Testvér.}
+{101}{}{Oké, gyermekeim. Ma belekóstolunk egy kis harcmûvészetbe.}
+{102}{}{A közelharci technikák alkalmazhatósága nagyban függ az ellenfél méretétõl, karhosszúságától, és gyorsaságától.}
+{103}{}{Ha van rá lehetõség, mérd fel az ellenfeled.}
+{104}{}{Ne siettesd a támadást.}
+{105}{}{Rendben van, kicsim, próbáld megütni szegény öreg papádat.}
+{106}{}{Ah!}
+{107}{}{Uhh.}
+{108}{}{Jól van, ennyi elég most, nézzük át a tanultakat.}
+{109}{}{Látjátok, hogy vesztette el az egyensúlyát?}
+{110}{}{A túlzott belemenõsség lyukat hagy a védelmedben és ellentámadásra ad lehetõséget.}
+{111}{}{Ha támadásra határozod el magad, ne vidd túlzásba!}
+{112}{}{Miért rossz az, ha valaki belemenõs?}
+{113}{}{Ha lehetõség van az ellenfél megölésére, ne használjuk ki az alkalmat?}
+{114}{}{Nem érdemes emiatt az életedet kockáztatnod.}
+{115}{}{A belemenõs támadás nyitottá tesz egy ellentámadásra, és esélyt ad az egyensúly elvesztésére.}
+{116}{}{Egyetlen apró mozdulattól fenékre lehet ülni.}
+{117}{}{Oké, nézzünk egy másik kis lurkót, mire jut a papával.}
+{118}{}{Lássuk, tanultál-e valamit az elõzõ példádból.}
+{119}{}{Nem rossz, az utolsó mozdulatot majdnem bekajáltam.}
+{120}{}{Biztos vagy benne, hogy Krónikás Újonc akarsz lenni?}
+{121}{}{Ezt a tehetséget kár lenne elfecsérelni.}
+{122}{}{Tartaléknak megtartunk, oké?}
+{123}{}{Csak viccelek veled.}
+{124}{}{Lovagként egész szép karriert futhatnál be.}
+{125}{}{Majd gondolkodj rajta!}
+{126}{}{Köszönöm, Thomas Testvér.}
+{127}{}{Remélem, észrevettétek, hogy Anthony Testvér nem támadott belemenõsen.}
+{128}{}{Megpróbálta a tömegét és a testi erejét is használni ellenem.}
+{129}{}{A harci mûvészeteknek megvan a maguk jó és rossz oldala.}
+{130}{}{Számos különbözõ stílust fogunk tanulmányozni, hogy minél jobban megértsük az erõsségüket és a gyengeségüket.}
+{131}{}{Oké. Mutasd, mit tudsz!}
+{132}{}{Nagyon jó! Sokkal tovább tudtad tartani magad, mint képzeltem.}
+{133}{}{Állj vissza a vonalhoz!}
+{134}{}{Nos, gyerekek, remélem, sikerült magatokévá tenni valamit a látottakból.}
+{135}{}{Született bunyós.}
+{136}{}{Próbáljunk még egyet.}
+{137}{}{Nagyon figyelj oda...}
+{138}{}{és emlékezz rá, hogy az ellenfél mögé kell koncentrálni az erõdet.}
+{139}{}{Képzeld azt magad elé, hogy a célpont néhány centivel a becsapódás helyén túl van.}
+{140}{}{Öm, Thomas Testvér...}
+{141}{}{Igen, te kis agyagkatona...}
+{142}{}{Ez a rúgásokra is értendõ?}
+{143}{}{Természetesen.}
+{144}{}{Nagyon jó. Azt hiszem, életben hagyunk.}
+{145}{}{Csak poénkodom. Próbálj már mosolyogni néha!}
+{146}{}{Ez nem élet-halál szituáció.}
+{147}{}{Késõbb erre rengeteg idõ lesz még.}
+{200}{}{Nem rossz!}
+{201}{}{Ez bizony nagyon jó volt.}
+{202}{}{Rendben, látom ragad rád más is a piszkon kívül.}
+{203}{}{Ne kalandozzon el a gondolatod!}
+{204}{}{Ne vedd le rólam a szemed!}
+{205}{}{Ne légy túl vehemens.}
+{206}{}{A tekinteted sose vedd le az ellenfélrõl!}
+{207}{}{Gyakorold még a hárításokat!}
+{208}{}{A tömegközéppontodat tartsd alacsonyan.}
+{209}{}{Kiváló!}
+{210}{}{Tökéletes kivitelezés!}
+{211}{}{Le vagyok nyûgözve...}
+
+{300}{}{You earn 500 experience from watching the combat training. You feel like you've learned a few things!}
+
+#
+# new for Fallout Fixt:
+#
+
+{400}{}{Thomas ignores you.}
+

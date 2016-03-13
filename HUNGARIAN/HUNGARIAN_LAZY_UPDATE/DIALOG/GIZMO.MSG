@@ -1,0 +1,161 @@
+{100}{}{Gizmo, a kaszinótulajdonos.}
+{101}{gizmo_1}{Na, mozgasd ide az ülepedet és ülj le szépen! Volna egy kis üzleti ajánlatom.}
+{102}{}{Úgy tûnik, már épp elég ülep van itt...}
+{103}{}{Magam is rájöttem. Mit akar?}
+{104}{}{Milyen üzletrõl van szó?}
+{105}{}{Blehh.}
+{106}{gizmo_1b}{Na, húzz innen, de gyorsan, idióta!}
+{107}{gizmo_2}{Ezzel a száddal csókolod meg anyádat? Mutass már valami tiszteletfélét!}
+{108}{}{Maga az evésen kívül csinál mást is?}
+{109}{}{Igaza van, elnézést. Akkor beszéljünk az üzletrõl.}
+{110}{gizmo_4}{Rendben, [Gizmo szipákol] itt az ajánlatom. Roncsváros már nem az, ami régen volt. Egy dolog miatt vagyok még itt, és ez a kaszinóm. A probléma az, hogy Killian egyre csak a nyakamra jár, és nagyon kezdem ezt unni. [Újra szipákol egyet.] Na, itt jössz te be a képbe.}
+{111}{}{Mit akar velem csináltatni?}
+{112}{}{Zsír van az agya helyén, ha azt hiszi, hogy segítek magának, maga randa disznó!}
+{113}{gizmo_4a}{Vicces, nagyon vicces...}
+{114}{gizmo_5}{Arra gondoltam, hogy eltetetem láb alól, és te lennél a végrehajtó. Semmi szemtanú, csak mész, kinyírod, jössz.}
+{115}{}{Miért nem küldi a saját embereit?}
+{116}{}{Akkor sem dolgoznék magának, ha az egész tetves kóceráj pénzét felajánlaná.}
+{117}{}{Legyen. A pénz most elég jól jönne.}
+{118}{}{Nem hiszem, hogy belevágok. Azért kösz az ajánlatot.}
+{119}{}{Mennyit akar ezért fizetni?}
+{120}{gizmo_6}{Küldhetném éppen, de köztem és Killian balszerencsés vége között nem lehet semmiféle kapcsolat.}
+{121}{}{Végül is nan benne ráció. Jól van, elvállalom.}
+{122}{}{Rendben, elvállalom.}
+{123}{}{Micsoda gyáva alak... fél, hogy az emberek nem csípik majd? Már úgyis késõ...}
+{124}{}{Mennyit akar fizetni a balhéért?}
+{125}{}{Isten ments!}
+{126}{}{Nem hiszem, hogy belevágok. Azért kösz az ajánlatot.}
+{127}{gizmo_7}{[Gizmo zihál.] Tudtam, hogy egy húron pendülünk. Ami a bizonyítékot illeti, hozd el nekem Killian dögcéduláját, amit folyton a nyakában hord. Ha megvan, megkapod a pénzt. Most pedig indulj! És nehogy keresztbe tegyél nekem! Még mindig megvan a legutolsó próbálkozó térdkalácsa.}
+{128}{gizmo_8}{Ezert pénzt adok. Se többet, se kevesebbet.}
+{129}{}{Jól hangzik. Elvállalom.}
+{130}{}{Ezt nevezi maga jutalomnak? Ha le kell hentelni a fickót, sokkal többet akarok.}
+{131}{}{Távolról sem. Nem kérek ebbõl az üzletbõl.}
+{132}{}{Annyira sem bízom magában, mint két döglött patkányban. Felejtse el, de nagyon gyorsan!}
+{133}{gizmo_9}{Haha! *cough* Maybe you're right. I think you're worth more. 1500.}
+{134}{}{Na, ez már beszéd.}
+{135}{}{That's about what, a cap per pound for you? Forget it.}
+{136}{}{Kösz, de inkább kihagyom.}
+{137}{}{Isten ments!}
+{138}{gizmo_10}{Sajnálom, hogy így vélekedsz. Persze nem annyira sajnálom, mint amennyire te fogod sajnálni egy pillanat múlva. Nem hagyhatom, hogy szóbeszédek kapjanak lábra. Izo, mutasd meg a barátunknak, mit csinálunk azokkal, akik visszautasítanak!}
+{139}{gizmo_11}{Egy még elmegy, de kettõ az már sok. És ez már a második volt. Izo, hozz nekem egy pár térdkalácsot...}
+{140}{gizmo_13}{Végeztél már a melóval?}
+{141}{}{Persze, hogy végeztem.}
+{142}{}{Nem, még nem.}
+{143}{gizmo_14}{Na, lássuk a dögcédulát!}
+{144}{gizmo_15}{Ó, igen, igen! Izónál van a pénzed. Nagyon jó ez, nagyon jó! Hé, ööö... el kéne menned a városból egy idõre! Tudod, csak a biztonság kedvéért.}
+{145}{}{Oké, szedem a sátorfámat.}
+{146}{}{Ne parancsolgasson már, ducikám! Megértette?}
+{147}{}{És mi van, ha nem megyek sehova?}
+{148}{}{Persze-persze, elmegyek. De el ne felejtse, hogy jön nekem eggyel!}
+{149}{gizmo_16}{Nem mehetsz el a városból, ellenben alatta fogod végezni. Érthetõen beszélek?}
+{150}{}{Oké, oké, már itt sem vagyok.}
+{151}{}{És ki fogja ezt véghez vinni? Talán maga? Még egy szendvicset sem tudna magának hozni azzal a dagadt valagával, nemhogy még megöljön engem!}
+{152}{}{Rendben, jól van. Csak arra emlékezzen, hogy jön nekem eggyel!}
+{153}{gizmo_17}{Akkor átadod a dögcédulát?}
+{154}{}{Um... well... I... uh, lost them.}
+{155}{}{Mi van, ha nem akarom odaadni?}
+{156}{}{Hazudtam. Nincs nálam a dögcédula.}
+{157}{}{Megvolt, de elvesztettem.}
+{158}{gizmo_18}{[Gizmo felkacag.] Micsoda egy szánalmas hazudozó vagy te. Na, indulás, szerezd meg a dögcédulát. Addig nem akarlak látni, amíg ki nem nyírtad Killiant!}
+{159}{gizmo_19}{Nem probléma, a holttestedrõl fogom magamhoz venni.}
+{160}{}{Öö... hát, lehet, hogy picit lódítottam... szánom-bánom, de nincs nálam.}
+{161}{}{Csakugyan? Fel kell, hogy béreljen valakit, aki megcsinálja magának a piszkos munkát?}
+{162}{}{Elveszítettem.}
+{163}{}{Az a helyzet, hogy megvolt, de ellopták.}
+{164}{gizmo_20}{Ha nincs dögcédula, nincs pénz. Ha még egyszer visszatolod a képed a dögcédula nélkül, Izo nagyon kreatívan áttanulmányozza majd a testrészeidet. Most pedig kifelé!}
+{165}{gizmo_21}{Mit akarsz? Elfoglalt ember vagyok.}
+{166}{}{Azért jöttem, hogy tudassam, a bérgyilkosa felsült.}
+{167}{}{Semmi különöset nem akarok. Már megyek is.}
+{168}{}{Azt akartam tudni, hogy egy magafajta idióta miképp maradhatott még életben...}
+{169}{}{Azért jöttem, hogy Killian meggyilkolásáról diskuráljunk.}
+{170}{gizmo_22}{Nem tudom, mirõl beszélsz.}
+{171}{}{Dehogynem tudja... Felbérelt valakit, hogy megölje Killiant, és az illetõ befuccsolt.}
+{172}{}{Nem emlékszik, hogy felbérelt valakit Killian meggyilkolására, maga elmebeteg tapló?}
+{173}{}{Jó, akkor vegyünk egy elképzelt esetet...}
+{174}{}{Hazug!}
+{175}{}{Igaza van. Viszlát!}
+{176}{gizmo_23}{Nem tudom, ki vagy, de nem csípem, amikor idegenek bejönnek az irodámba, és olyan dolgokkal vádolnak, amirõl fingjuk sincs.}
+{177}{}{Na, itt van az oltári nagy tévedés, Gizmo. Nem vádolok, hanem segíteni akarok magának.}
+{178}{}{Mindent tudok. Beszéljen!}
+{179}{}{Igaza van, megyek is.}
+{180}{gizmo_24}{Igazán? [Gizmo jót nevet.] Segíteni akarsz ekem? Miféle segítségrõl beszélünk mi itt?}
+{181}{}{Nyugi! Elküldött valakit, hogy megölje Killiant. Az illetõ csõdöt mondott, magának pedig szüksége van valakire, aki megcsinálja a munkát... mégpedig jobban..}
+{182}{}{Mindegy. Felejtse el, hogy megemlítettem!}
+{183}{gizmo_25}{Na, hadd találgassak! Te lennél ez a valaki?}
+{184}{}{Briliáns! Persze nem ingyen...}
+{185}{}{Gyorsabban megölöm, mint ahogy maga sercint egyet.}
+{186}{gizmo_26}{És miért bíznék meg benned?}
+{187}{}{Én itt vagyok, magának pedig olyasvalakire van szüksége, aki a városon kívülrõl érkezett. Igazam van?}
+{188}{}{You can't... I mean, you can... I mean...}
+{189}{}{Mivel épp kéznél vagyok, és már öltem embereket korábban.}
+{190}{gizmo_27}{Hmm... rendben. Nyélbe üthetjük, de ha nekem dolgozol, észbe kell vésned, hogy aki keresztbetesz nekem, nem fog sokáig élni, nem igazán fog eldicsekedni vele. Vágod, amit mondok?}
+{191}{}{Olyat kaphat tõlem mindjárt, amit itt... én mondom... csak kevesen kockáztatnának meg.}
+{192}{}{Semmi gond, de elõbb tudnom kell, miért akarja holtan látni.}
+{193}{gizmo_28}{Pofon egyszerû a dolog. Azért akarom holtan látni, mert hátráltatja az üzletmenetemet. Tehát megcsinálod nekem a melót?}
+{194}{}{Ezért vagyok itt. Napnyugta elõtt meghal a fazon.}
+{195}{}{Meg hát. Ez is csak munka, mint a többi.}
+{196}{}{Megismételné ezt kérem... ezúttal a kabátzsebemnek?}
+{197}{}{Hát, hogy is mondjam magának... inkább nem.}
+{198}{gizmo_29}{Jó. Bizonyíték gyanánt hozd el nekem a dögcéduláját, amit folyton a nyakában hord! Ja, és ez a beszélgetés sosem zajlott le köztünk, senkinek ne említsd! Senki nem tehet nekem keresztbe. Senki.}
+{199}{gizmo_30}{Te vagy nagyon hülyére sikeredtél, vagy nagyon hülye kém vagy... Mondjuk a kutyát nem érdekel, mivel Izo most tényleg fasírtot csinál belõled.}
+{200}{gizmo_32}{Nem kedvelem azokat az embereket, akik csak az idõmet fecsérelik. Ne gyere vissza, ha nem muszáj!}
+{201}{gizmo_33}{Úgymint?}
+{202}{}{Tegyük fel, hogy megpróbálja megöletni Killiant, de a bérgyilkos felsül. Ez azt jelenti, hogy új ember kell a munkára, igaz?}
+{203}{}{Hogy? Óh, nem számít...}
+{204}{gizmo_34}{Tudod... [Gizmo felsóhajt] Mindig elkedvetlenít, amikor emberek a saját irodámban keménykednek velem. Izo... kérlek, távolítsd el a vendégünket... az ablakon át!}
+{205}{gizmo_35}{Szóval visszajöttél. Jó, ha tudod, hogy mást kellett felbérelnem a te munkád elvégzésére. Ez elszomorít, de majd Izo megmutatja neked, milyen szomorú is vagyok én valójában. Remélem, szép napod volt, merthogy ez volt az utolsó...}
+{206}{gizmo36a}{[Gizmo szipákol egyet.] Killian a város polgármestere. Azt hiszi, hogy mindent tud... hogy oda ne rohanjak, [Gizmo nevet egyet] majd meglátjuk, mennyit is tud valójában, ugye?}
+{207}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}
+{208}{gizmo_38}{Killiané a hely, a város északi részén. Mindenféle szarokat árul.}
+{209}{gizmo_39}{Többnyire szerencsejátékokat játszanak itt az emberek. Hülye kérdéseid vannak.}
+{210}{gizmo_42}{Biztos tudni akarod?}
+{211}{gizmo_43}{Nem kell ilyesmibe ütnöd az orrod.}
+{212}{gizmo_44}{*sniff* I uh... I don't feel like talking about that right now.}
+{213}{gizmo45m}{Hé, mégis mi a büdös francot képzelsz, mit csinálsz? Izo, tépd ki a karját!}
+{214}{gizmo45f}{Hé, mégis mi a büdös francot képzelsz, mit csinálsz? Izo, tépd ki a karját!}
+{215}{gizmo_47}{Süket vagy netán? Azt mondtam...}
+{216}{gizmo_48}{Bocs, de nem fogom magam ismételni!}
+{217}{}{You earn 600 experience for your work defeating Gizmo. May the bastard rest in pieces.}
+{218}{}{Ez az ember élbõl a legtestesebb személy, akit valaha láttál.}
+{219}{}{Mióta utoljára itt jártál, találtam valami érdekeset. Ha van valami, amit jobban utálok a gusztustalan pepperonis pizzánál, az a vamzerkodás. Fiúk ide gyorsan!}
+{220}{}{Hát ide jutottunk, Killian. Sebaj, sosem bírtam a szagodat. Most szépen véget vetünk neki!}
+{221}{}{Elintéztem Killiant. Azt csiripelik a verebek, maga esetleg hálás lenne érte...}
+{222}{}{Ó, tényleg?}
+{223}{}{Jól van, na, ha nem akarja holtan, hát nem akarja. Csak próbáltam segítõkész lenni.}
+{224}{}{Arra gondoltam, hogy talán egy kés a hátba, vagy bumm a fejbe...}
+{225}{}{Vágom. Körvonalazzuk a teendõket...}
+{226}{gizmo_24}{Igazán? [Gizmo jót nevet.] Segíteni akarsz nekem? Miféle segítségrõl beszélünk mi itt?}
+
+# for Fallout Fixt:
+
+{227}{}{Who're you? Whaddya want?}
+{228}{}{You see a disgusting excuse for a man. This must be Gizmo.}
+
+
+# Gizmo's Tell-Me-Abouts generic responses
+{980}{gizmo_42}{Biztos, hogy akarsz errõl hallani?}
+{981}{gizmo_43}{Ez nem a te asztalod.}
+
+#
+# Gizmo's Tell-Me-Abouts
+#
+
+{1000}{}{Killian}
+{1001}{}{Gizmo}
+{1002}{}{Darkwater boltja}
+{1003}{}{Gizmo kaszinoja}
+{1004}{}{Darkwater}
+{1005}{}{Gizmo kaszino}
+{1006}{}{Kaszino}
+{1007}{}{Roncsvaros}
+{1008}{}{Darkwater's}
+
+{1100}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1101}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}
+{1102}{gizmo_38}{Killiané a hely, a város északi részén. Mindenféle szarokat árul.}
+{1103}{gizmo_39}{Többnyire szerencsejátékokat játszanak itt az emberek. Hülye kérdéseid vannak.}
+{1104}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1105}{gizmo_39}{Többnyire szerencsejátékokat játszanak itt az emberek. Hülye kérdéseid vannak.}
+{1106}{gizmo_39}{Többnyire szerencsejátékokat játszanak itt az emberek. Hülye kérdéseid vannak.}
+{1107}{gizmo_39}{Többnyire szerencsejátékokat játszanak itt az emberek. Hülye kérdéseid vannak.}
+{1108}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}

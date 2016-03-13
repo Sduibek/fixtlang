@@ -1,0 +1,80 @@
+{100}{}{Ez az ember a karavánvezetõ.}
+{101}{}{Na, megérkeztünk. A fizetséged }
+{102}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{103}{}{ dolcsit. Itt pihenünk még egy darabig, de ne menj túl messzire, különben a karaván itt fog hagyni.}
+{104}{}{Aaa... Okay.}
+{105}{}{Mikor indul a karaván?}
+{106}{}{Mit tudsz mondani Roncsvárosról?}
+{107}{}{Milyen információval tudsz szolgálni a Csonttelepet illetõen?}
+{108}{}{Mit tudnál nekem mondani az Acél Testvériségérõl?}
+{109}{}{Nem tudom, érted-e, de két órán belül indulunk, vagy bármikor, amikor készen állsz.}
+{110}{}{Öm...}
+{111}{}{Hö?}
+{112}{}{go. Gud.}
+{113}{}{Anyám, most már agyalágyultakat is fel kell vennünk?...}
+{114}{}{Általában két órával a megérkezés után továbbállunk. Itt már nincs semmi, amit ne láttunk volna. Ha korábban akarsz indulni, csak nyugodtan, mi készen állunk.}
+{115}{}{Asszem, mielõtt elmennénk, körbenézek még. Viszlát!}
+{116}{}{OKÉ. Induljunk a Hubba! Nincs itt most több látnivaló.}
+{117}{}{Mit tudsz mondani Roncsvárosról?}
+{118}{}{Milyen információval tudsz szolgálni a Csonttelepet illetõen?}
+{119}{}{Mit tudnál nekem mondani az Acél Testvériségérõl?}
+{120}{}{Hát eléggé olyan, mint a Hub. Nem viccelek. Persze megvannak a saját problémái: bandák, nehézfiúk, tolvajok, tudod... a szokásos. Mindent egybevetve, nekem bejön a város. [Nevet]}
+{121}{}{Mikor indul a karaván?}
+{122}{}{Asszem, mielõtt elmennénk, körbenézek még. Viszlát!}
+{123}{}{A Csonttelep itteni részét Adytumnak hívják, a települést alapvetõen bûnbandák irányítják. Elég forró hely, szóval jobb, ha odafigyelsz a dolgokra! Adytumot a Rendfenntartók irányítják, õk próbálják gatyába rázni ezt a helyet a bandaháborúk kellõs közepén. Érthetõ módon elég gyanakvóan tekintenek az idegenekre. Ha még nem beszéltél velük, tedd meg, mielõtt körbejársz nálunk.}
+{124}{}{Üres}
+{125}{}{Mikor indul a karaván?}
+{126}{}{Asszem, mielõtt elmennénk, körbenézek még. Viszlát!}
+{127}{}{Nem sokat tudok mondani róluk. A Testvériség eléggé visszahúzódó életet él. Sokan akarnak keresztbe tenni nekik, pedig alapvetõen jó emberek. Kicsit fanatikusak, de jóravaló népség.}
+{128}{}{Mikor indul a karaván?}
+{129}{}{Asszem, mielõtt elmennénk, körbenézek még. Viszlát!}
+{130}{}{Készen állsz az indulásra?}
+{131}{}{menet!}
+{132}{}{Nem. Még mindig ismerkedem a környékkel.}
+{133}{}{Ja, tõlem mehetünk.}
+{134}{}{A Csonttelep itteni részét Adytumnak hívják, a települést alapvetõen bûnbandák irányítják. Elég forró hely, szóval jobb, ha odafigyelsz a dolgokra!}
+{135}{}{Mikor indul a karaván?}
+{136}{}{Asszem, mielõtt elmennénk, körbenézek még. Viszlát!}
+{137}{}{OKÉ. Megcsináltad a balhét. Tessék a megérdemelt }
+{138}{}{ dolcsid. Ha akarsz még munkát, beszélj újra a fõnökkel! Örömmel dolgoznék veled megint, ezért majd szólok egy-két jó szót érted. Csak így tovább!}
+{139}{}{pÁ pÁ.}
+{140}{}{Viszlát!}
+{141}{}{Na, mi az ábra mostanába'?}
+{142}{}{Ha akarsz még munkát, beszélj a fõnökkel!}
+{143}{}{Valami bajod van?}
+{144}{}{Elbaszott pszichopata vagy!}
+{145}{}{Nem dolgozom veled!}
+{146}{}{200}
+{147}{}{400}
+{148}{}{600}
+{149}{}{Mit tudnál mondani nekem Nekropoliszról?}
+{150}{}{Mocskos egy szar hely az!}
+{151}{}{A karaván már útnak indult.}
+{200}{}{Hmmmpf...}
+{201}{}{Hmm... Bárcsak tudnék olvasni.}
+{300}{}{Törõdj inkább a magad dolgával!}
+{400}{}{Nem kaptam pénzt, hogy beszéljek.}
+{501}{}{Care to tell me why you abandoned the fucking caravan?? I can't believe it! Lucky for you, they finished without yer sorry ass! Get out! I'm not paying you anything!}
+{502}{}{I can't believe it! We've lost the whole caravan! Get out! I ain't paying you anything!}
+{504}{}{Go to the boss and try to come up with a credible story for why you abandoned the fucking caravan. Maybe then you'll get yer money, but I doubt it.}
+{505}{}{I can't believe it! We've lost the whole caravan! I ain't paying you anything. Get out of my face.}
+{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses y'know. Here's your payment of }
+{601}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy.}
+{603}{}{ caps. (He pulls out an old dog-eared bag and gives you the caps) }
+{604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
+{605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}
+#
+# Unload caravan quest - WG@RestorationProject
+#
+{506}{}{Any jobs for me here?}
+{507}{}{Me wanna job!}
+{508}{}{We need muscles to unload the caravan. I'll pay you }
+{509}{}{ caps.}
+{510}{}{Ug!}
+{511}{}{Nop.}
+{512}{}{I'm on it.}
+{513}{}{I don't like this.}
+{520}{}{You've spent an hour unloading the caravan.}
+{521}{}{You help finish unloading the caravan and are handed }
+{522}{}{ caps.}

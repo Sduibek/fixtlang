@@ -1,0 +1,176 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#  Messages from perk.c
+#
+#
+#  PERK NAMES
+#
+#
+{101}{}{Megfigyelés}
+{102}{}{Gyorsabb pusztakezes támadás}
+{103}{}{Nagyobb közelharci sebzés}
+{104}{}{Extra mozgás}
+{105}{}{Nagyobb távolsági sebzés}
+{106}{}{Gyorsabb lövés}
+{107}{}{Jobb reakció}
+{108}{}{Gyorsabb gyógyulás}
+{109}{}{Több kritikus találat}
+{110}{}{Éjjellátó}
+{111}{}{Jelenlét}
+{112}{}{Sugárzás ellenállás}
+{113}{}{Szívósság}
+{114}{}{Erõs hát}
+{115}{}{Céllövõ}
+{116}{}{Csendes futás}
+{117}{}{Túlélõ}
+{118}{}{Kereskedõ mester}
+{119}{}{Mûvelt}
+{120}{}{Gyógyító}
+{121}{}{Kincskeresõ}
+{122}{}{Jobb kritikus sebzés}
+{123}{}{Empátia}
+{124}{}{Pusztító}
+{125}{}{Mesterlövész}
+{126}{}{Csendes halál}
+{127}{}{Akció Kapitány}
+{128}{}{Mentális védekezés}
+{129}{}{Életadó}
+{130}{}{Cselezés}
+{131}{}{Kígyóevõ}
+{132}{}{Ezermester}
+{133}{}{Medikus}
+{134}{}{Mestertolvaj}
+{135}{}{Szónok}
+{136}{}{Nagy dobás!}
+{137}{}{Barátságos ellenfél}
+{138}{}{Zsebtolvaj}
+{139}{}{Szellem}
+{140}{}{Személyi kultusz}
+{141}{}{Lõszerlelõ}
+{142}{}{Felfedezõ}
+{143}{}{Hippi}
+{144}{}{Nyomkeresõ}
+{145}{}{Állatbarát}
+{146}{}{Felderítõ}
+{147}{}{Titokzatos idegen}
+{148}{}{Cserkész}
+{149}{}{Gyors zsebek}
+{150}{}{Jó társalgó}
+{151}{}{Gyorsan tanuló}
+{152}{}{Új speciális képzettség!}
+{153}{}{Mutáció!}
+#
+#
+# ADDICTIONS - Sduibek's custom names  (TRANSLATORS: If you have an idea for better/cooler addiction titles, please tell me!)
+#
+#
+{154}{}{Nuka-Fiend}         # Other ideas: "Sodalicious", "Cola Fiend".  (Sduibek's was "Coke Fiend" previously, which - oops - doesn't work because it's not COCA-Cola.)
+{155}{}{Juicer}             # TRANSLATORS: Slang word for a person who uses/abuses steroids.
+{156}{}{Completely Mental}  # Other ideas: "Mental", "Mentalist", "Brainiac", etc.  TRANSLATORS: Slang for "totally crazy".
+{157}{}{Psycho}             # Other ideas: Could add stylized emphasis such as "Psycho!" or "PSYCHO".
+{158}{}{Radiant}            # Could use suggestions for other ideas on this.
+{164}{}{Alcoholic}          # was "Combat Armor" (internal one used for +20% Radiation Resistance on items)
+#
+#
+# WEAPON PERKS
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in weapon bonuses
+#
+{159}{}{Nagy távolságú fegyver}
+{160}{}{Pontos fegyver}
+{161}{}{Páncéltörõ fegyver}
+{162}{}{Fegyvervisszarúgás}
+{163}{}{Erõpáncél}
+#
+#
+#  PERK DESCRIPTIONS
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{201}{}{You have honed your ability to notice details about people and the world around you. For example, Awareness will show you the exact number of hit points and weapon held when you perform an Examine on a person.}
+{202}{}{Elsajátítottad a keleti harcmûvészeteket, vagy ha jobban tetszik, egyszerûen gyorsabban ütsz. Akárhogy is, a pusztakezes támadásid 1 AP-val kevesebbe kerülnek.}
+{203}{}{Az ökölharcban szerzett jártasságod elõnyt jelent, mikor sebzel. E képesség minden szintjével +2 ponttal nõ az Ökölharcban és a Közelharcban okozott sebzésed.}
+{204}{}{Az Extra mozgás minden szintjéért +2 Akciópontot kapsz, amit csak mozgásra használhatsz fel, azaz két hexagonnal többet léphetsz körönként.}
+{205}{}{A sok lõfegyverrel és egyéb távolsági fegyverrel való gyakorlás meghozta gyümölcsét. E képesség minden szintje +2 pont sebzést jelent távolsági fegyverekkel.}
+{206}{}{Ez a képesség lehetõvé teszi, hogy gyorsabban húzd meg a ravaszt és mégis halálosan pontos maradj. Minden távolsági támadásod 1 Akcióponttal kevesebbe kerül.}
+{207}{}{Gyorsabban reagálsz, mint az ellenfeleid, mivel ennek a képességnek minden szintje +2 pontot ad a Reakciódhoz.}
+{208}{}{E képesség minden szintje 1-el növeli a Regeneráció képességed, ezáltal gyorsabban gyógyulsz.}
+{209}{}{Ezzel a képességgel több esélyed van kritikus találat bevitelére harcban. A képesség minden szintjével 5%-kal nagyobb az esélye, hogy kritikusat sebzel.}
+{210}{}{Az éjjellátás képességével jobban látsz a sötétben. Más szóval 20%-kal csökken a sötétség szintje.}
+{211}{}{Már az is figyelemfelkeltõ, ha egyszerûen belépsz egy terembe. Az emberek veled kapcsolatos alapreakciója 10%-kal javul.}
+{212}{}{Ellenállóbb vagy a sugárzással szemben. Ezen képesség minden szintje +10% sugárzás ellenállást jelent neked.}
+{213}{}{Szívós vagy, ezért kevesebbet sebzõdsz. A képesség minden szintjével +10% védelmet kapsz az általános sebzés ellenállásodra.}
+{214}{}{Beceneved Öszvér. E képesség minden szintje után +50 font teherbírás a jutalmad.}
+{215}{}{The talent of hitting things at longer distances. You get a +2 bonus, for each level of this Perk, to Perception for the purposes of determining range modifiers. This DOES have an effect at PER of 9 & 10.}
+{216}{}{Ezzel a képességgel gyorsan és csendesen tudsz mozogni. Képes vagy egyszerre futni és lopakodni. E képesség nélkül automatikusan abbahagyod a lopakodást, ha elkezdesz futni.}
+{217}{}{You are a master of the outdoors, surviving in hostile environments where others would surely perish. For each level of this Perk, you receive +20% to your Outdoorsman skill, and an additional +20% in wilderness survival situations.}
+{218}{}{Elsajátítottad a kereskedelem alapszemléletét: minél olcsóbban vásárolni. Ezzel a képességgel 25% árengedményt kapsz minden vásárláskor.}
+{219}{}{E képesség minden szintje +2 képzettségi pontot jelent szintlépéskor. A képesség akkor a leghatásosabb, ha minél korábban felveszed.}
+{220}{}{Ezzel a képességgel könnyebbé válik a gyógyítás. Minden szintjével 2-5 további életpontot gyógyítasz, mikor az Elsõsegély vagy az Orvos képzettségedet használod.}
+{221}{}{You have the talent of finding money, or just tend to get lucky. You will find additional bottle caps in random encounters in the wasteland.}
+{222}{}{Kritikus sebzéseid sokkal pusztítóbbak. 20% bónuszt kapsz a kritikus sebzés táblázatán, ami biztosítja hogy többet sebezz. Ez a kritikus találat esélyét nem befolyásolja.}
+{223}{}{Tanulmányoztad az embereket, ezáltal jobban ismered a különbözõ események által kiváltott érzelmi reakciójukat. Ezzel a képességgel látni fogod mások reakcióját, miközben beszélsz velük.}
+{224}{}{A Pusztító köztünk jár! Pusztakezes harcban minden találatod kritikus találattá válik, elhozva ezzel a pusztítás és káosz korszakát.}
+{225}{}{Elsajátítottad a lõfegyverek tökéletes kezelését. Ezzel a képességgel, ha dobsz egy sikeres Szerencse próbát, minden távolsági fegyverrel végrehajtott találatod kritikusat sebzést eredményez.}
+{226}{}{Ha lopózás közben egy lényt puszta kézzel és hátulról támadsz meg, sebzésed kétszer nagyobb lesz. A Csendes halál már csak ilyen képesség.}
+{227}{}{Az Akció Kapitány minden szintje egy bónusz Akciópontot jelent a harcban, melyet bármire használhatsz.}
+{228}{}{A Mentális védekezéssel kiszûrheted a külvilágból érkezõ mentális zavarokat. Ezt vagy egy átutazó gurutól tanultad, vagy egy hosszú éjszaka során a kocsmában.}
+{229}{}{With each level of this Perk, your Maximum Hit Points increases by 4. You also gain an addition 4 Hit Points per experience level earned. This may not seem like a lot, but every little bit helps.}
+{230}{}{Ha birtoklod ezt a képességet, sokkal kisebb az esélye, hogy harc közben eltalálnak. 5-öt kapsz a Védelmi értékedhez, a viselt páncél VÉ-jén felül.}
+{231}{}{Nyami! Íze, mint a csirkéé. A képesség minden szintjével 25%-ot kapsz a Méregellenállásodhoz.}
+{232}{}{Ez a képesség egyszeri 20%-os bónuszt ad a Javítás és a Tudományok képzettségeidhez. Egy kis esti tanulás nem árthat senkinek, fõleg neked nem.}
+{233}{}{A Medikus képesség egyszeri 20%-os bónuszt ad az Elsõsegély és az Orvos képzettségekhez. A gyógyító képzettségek hasznosak.}
+{234}{}{A Mestertolvaj járatos a lopásban és zárnyitásban. 10%-ot kapsz a Lopakodás, Zárnyitás, Lopás és Csapdák képzettségekhez. Ellopod a gazdagoktól, és odaadod... magadnak.}
+{235}{}{Szónoknak lenni azt jelenti, hogy egyszeri 20%-os bónuszt kapsz a Beszéd és Üzletelés képzettséghez. A borjat is kibeszéled a tehénbõl.}
+{236}{}{A Nagy dobás! képességgel kettõvel megnõ az Erõd (maximum 10-ig) hajítás esetén, így messzebre tudsz dobni. A fegyver hatótávolságát viszont ezzel a képességgel sem lehet átlépni.}
+{237}{}{Ha megvan ez a képesség, a pirossal jelzett csapattagjaid zöld jelzést kapnak a harcban. A vörössel kiemelt ellenfelek továbbra sem feltétlenül ellenségesek.}
+{238}{}{Sokkal ügyesebb vagy a közönséges zsebtolvajoknál. Ezzel a képességgel többé nem számít a tárgy mérete, és hogy szemben vagy háttal áll a kizsebelendõ személy.}
+{239}{}{Ha lemegy a nap, vagy gyengén megvilágított területen jársz, úgy mozogsz, mint egy szellem. Sötét helyeken 20%-kal jobb a Lopózás képzettséged.}
+{240}{}{A hírneved mindig "pozitív". E képességgel a negatív hírnév nincs rossz hatással a jó természetû emberekre. De a fordítottja is igaz: a gonosz emberek Mr. Jófiút is bandatagként kezelik.}
+{241}{}{Több lõszert találsz a posztholokauszt átlagos túlélõinél. Ez a képesség megduplázza a véletlenszerû események során talált lõszer mennyiségét.}
+{242}{}{A felfedezõ célja, hogy új és érdekes helyeket fedezzen fel. Ezzel a képességgel nagyobb esélyed van különleges helyek és emberek megtalálására.}
+{243}{}{Ezzel a képességgel 50%-kal kisebb az esélye, hogy drogfüggõ leszel, és a drogok káros hatását is csak fele annyi ideig kell elviselned.}
+{244}{}{A nyomkeresõ mindig megtalálja a rövidebb utat. A képesség minden szintje 25%-kal csökkenti a világtérképen való utazás idejét.}
+{245}{}{Az állatok soha nem támadják meg a barátjukat, amíg az nem fenyegeti, vagy meg nem támadja õket.}
+{246}{}{Távolabbra látsz, mint valaha. A világtérképen minden irányban egy kockával messzebb látsz.}
+{247}{}{Felkeltetted a Titokzatos idegen figyelmét, aki idõrõl-idõre megjelenik, hogy segítsen neked. Ha harc közben meghal, ne várdd, hogy valaki más jöjjön helyette!}
+{248}{}{Miközben a pusztaságot rovod, jobb, ha elkerülöd a nem várt eseményeket. E képesség minden egyes szintjével csökken ennek az esélye.}
+{249}{}{Megtanultad, hogyan rendezd el a dolgaidat hatékonyan. Harc közben a képesség minden szintje egy AP-vel csökkenti a felszerelésed közti keresgélés idejét.}
+{250}{}{Megtanultad, hogyan növelheted a vála-szok/kérdések szá-mát beszélgetés köz-ben, anélkül hogy ér-tenéd mirõl van szó. A képesség minden szintje egyel növe-li az Intelligenciád (max. 10-ig) a beszél-getések idejére.}
+{251}{}{Ezzel a képességgel igazán gyorsan tanulhatsz, ugyanis minden szintjéért 5% bónuszt kapsz, amikor tapasztalati pontot szerzel. Épp ezért célszerû korán felvenni.}
+{252}{}{A képzettségeid annyira magasra fejlõdtek, hogy választhatsz még egy Speciális képzettséget. A Speciális képzettségek azonnal nõnek 20 százalékot, és elköltöt pontonként még további 2 százalékot.}
+{253}{}{A pusztákat járva megváltoztatott a háttérsugárzás! Egyik Jellemvonásod valami mássá mutálódott...}
+#
+#
+# ADDICTION MESSAGES
+#
+#
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{254}{}{You crave another Nuka-Cola, the delicious thirst-quenching soda pop.}
+{255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
+{256}{}{You feel groggy and slow. Your brain itself seems to ache...}
+{257}{}{You feel light-headed and irritable. Where's that spare syringe?}
+{258}{}{You feel nauseous and need a fix. Just one more pouch, that's all!}
+{264}{}{You just want a hard drink; it's everyone else that has the problem.}
+#
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in item bonuses
+#
+{259}{}{Nagy távolságú fegyver}
+{260}{}{Pontos fegyver}
+{261}{}{Páncéltörõ fegyver}
+{262}{}{Fegyver-visszarúgás}
+{263}{}{Erõpáncél}
+# 264 is above
+#
+# Sduibek, Fallout Fixt - for some reason the game crashes if you create new line 265 used for Alcohol Addiction, so using this line instead.
+# 	(264 was "Combat Armor")

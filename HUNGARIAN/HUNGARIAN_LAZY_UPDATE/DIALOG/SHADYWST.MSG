@@ -1,0 +1,72 @@
+#
+# Shady Sands:
+#
+{100}{}{You earn 400 experience for returning Tandi to Shady Sands.}
+{101}{}{Déli irányban egy agyagfallal körülvett, békés kisváros tárul szemed elé.}
+#
+# Vault 15:
+#
+{102}{}{Ezen a területen nem maradt más, csak egy apró kalyiba. Szerencsére a feljegyzéseid egy alternatív bejáratot is jeleznek a 15-ös Menedékkel kapcsolatban.}
+#
+# Raiders:
+#
+{103}{}{You see a building to the northwest, with a series of tents nearby. The inhabitants look dirty and mean.}
+#
+# Junktown:
+#
+{104}{}{Egy közepes méretû városra bukkansz. A sima bejárást egy roncskocsikból álló fal akadályozza. Az egész várost ködszerû füst üli meg.}
+#
+# The Hub:
+#
+{105}{}{Déli irányban egy nagy várost látsz, körülötte mindenütt takaros gazdaságok. Csak úgy pezseg az élet ebben a sivatagi oázisban.}
+#
+# Necropolis:
+#
+{106}{}{Egy sötét, lepusztult város felé közeledsz. Élet csak nyomokban. Mindenfelé a halál szaga érzõdik.}
+#
+# Brotherhood of Steel:
+#
+{107}{}{Északi irányban drótkerítéssel körülvett kisebbfajta épületet látsz. A területet nehézpáncélba öltözött, fenyegetõ külsejû õrök vigyázzák.}
+#
+# The Glow:
+#
+{108}{}{Északi irányban egy hatalmas bombatölcsér terpeszkedik.}
+#
+# Military Base:
+#
+{109}{}{Észak-kelet felé, a hegy oldalába épített erõdítményszerû építmény közelében, mutáns õröket látsz.}
+#
+# Cathedral:
+#
+{110}{}{Egy hatalmas, díszes épület emelkedik az ég felé. Elõtte emberek tömegei járkálnak céltalanul.}
+#
+# Gun Runners/Adytum/Followers/Rippers:
+#
+{111}{}{Észak felé látsz egy raktárat, körülötte izzó trutyival töltött árok.}
+{112}{}{Ez egy hatalmas, erõdített gyár, a falain graffitiket és fenyegetõ fegyvercsöveket látsz.}
+{113}{}{A bandák tevékenysége teljesen nyilvánvaló a részben újjáépített éjszakai klubban és az apró elõõrsnél.}
+{114}{}{A város szívében egy helyreállított és megerõsített falú könyvtár áll kérlelhetetlen, de egyúttal tiszteletet parancsoló stílusában. Egyfajta béke lesz úrrá rajtad.}
+{115}{}{Dél felé egy járõrözõ õrséggel és kerítéssel megerõsített falu vár.}
+#
+# StealthBoy:
+#
+{116}{}{A talajban egy óriási lábnyomot látsz. Keresgélsz egy darabig, de nem találsz más nyomokat.}
+#
+# ???
+#
+{117}{}{A területet égésnyomok és hamu borítja.}
+{118}{}{Ezt a területet nagy valószínûséggel egy magasnyomású gyújtóbomba tarolta le.}
+{119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
+#
+# WastelandGhost, Restoration Mod
+#
+{150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
+{155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}
+#
+# Sduibek, Fallout Fixt:
+#
+{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
+{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
+{153}{}{You arrive at your destination only to find death and the desert wind.}
+{154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
+#

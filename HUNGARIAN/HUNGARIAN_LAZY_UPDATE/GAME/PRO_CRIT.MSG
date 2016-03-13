@@ -1,0 +1,423 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{100}{}{Vault-dweller}
+{200}{}{Városlakó}
+{201}{}{Bõröltözéket viselõ férfi}
+{300}{}{Városlakó}
+{301}{}{Acélpáncélt viselõ férfi}
+{400}{}{Egy pórul járt alak}
+{401}{}{Szánalmas balek}
+{500}{}{Paraszt}
+{600}{}{Vault-dweller}
+{700}{}{Erõpáncél}
+{800}{}{The Overseer}
+{900}{}{Szupermutáns}
+{1000}{}{Méretes vakondpatkány}
+{1100}{}{Radskorpió}
+{1101}{}{A giant mutated scorpion, scourge to animals and humans alike.}
+{1200}{}{Köpenyes alak}
+{1300}{}{Kereskedõ}
+{1400}{}{Zombi õr}
+{1401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{1500}{}{Nõi Harci Páncél}
+{1600}{}{"Fénylõ"}
+{1601}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{1700}{}{Bõrdzsekis férfi}
+{1800}{}{Paraszt}
+{1900}{}{Bõrdzsekis nõ}
+{2000}{}{Paraszt}
+{2100}{}{Férfi Harci Páncél}
+{2200}{}{Városlakó nõ}
+{2201}{}{Acélpáncélt viselõ nõ.}
+{2300}{}{Szupermutáns hadnagy}
+{2400}{}{Nightkin}
+{2500}{}{Townswoman}
+{2501}{}{Human female wearing protective leather armor.}
+{2600}{}{Vault-dweller}
+{2700}{}{Férfi õr}
+{2800}{}{Brahma}
+{2900}{}{Paraszt}
+{3000}{}{Paraszt}
+{3100}{}{Bõrpáncélos férfi}
+{3200}{}{Paraszt}
+{3300}{}{Polgár}
+{3400}{}{Vault-dweller}
+{3500}{}{Vault-dweller}
+{3600}{}{Kutya}
+{3601}{}{Egy valószínûleg keverék kutya.}
+{3700}{}{Nõ}
+{3800}{}{Férfi}
+{3900}{}{Paraszt}
+{4000}{}{Paraszt}
+{4100}{}{Person encased in odd armor}
+{4200}{}{Fiú}
+{4300}{}{Kisméretû Kentaur}
+{4400}{}{Mr. Handy}
+{4500}{}{Lebegõ}
+{4600}{}{Írnok}
+{4700}{}{The Overseer}
+{4800}{}{Barlangi patkány}
+{4900}{}{Gizmo}
+{5000}{}{The Master}
+{5100}{}{Halálkarom}
+{5101}{}{Many myths and rumors exist about these creatures, but their true origin remains unknown. Big, tough, fast.}
+{5200}{}{Technikus}
+{5300}{}{Technikus}
+{5400}{}{Technikus}
+{5500}{}{Õr}
+{5600}{}{Õr}
+{5700}{}{Õr}
+{5800}{}{Technikus}
+{5900}{}{Polgár}
+{6000}{}{Csavargó}
+{6100}{}{Munkás}
+{6200}{}{A katedrális tanonca}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Kereskedõ}
+{6700}{}{Õr}
+{6800}{}{Sáska}
+{6900}{}{Roboagy}
+{7000}{}{Fosztogatók õre}
+{7100}{}{Polgár}
+{7200}{}{Polgár}
+{7300}{}{Garl tanácsadója}
+{7400}{}{Polgár}
+{7500}{}{Fosztogató}
+{7600}{}{Ian}
+{7700}{}{Floating Eye, Mk II}
+{7800}{}{Disznópatkány}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Utazó}
+{8300}{}{Polgár}
+{8400}{}{Polgár}
+{8500}{}{Utazó}
+{8600}{}{Paraszt}
+{8700}{}{Polgár}
+{8800}{}{Kereskedõ}
+{8900}{}{Nem idevalósi}
+{9000}{}{Õr}
+{9100}{}{Földmûves}
+{9200}{}{Kereskedõ}
+{9300}{}{Paraszt}
+{9400}{}{Neal}
+{9500}{}{Paraszt}
+{9600}{}{Munkás}
+{9700}{}{Kereskedõ}
+{9800}{}{Paraszt}
+{9900}{}{Nehézfiú}
+{10000}{}{Nem idevalósi}
+{10100}{}{A Katedrális Gyermeke}
+{10200}{}{Vinnie}
+{10300}{}{Utazó}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Zombie}
+{10601}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{10700}{}{Éjfajzat õr}
+{10800}{}{Szívós szupermutáns}
+{10900}{}{Ghoul õr}
+{10901}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{11000}{}{Mélylakó}
+{11100}{}{Dan}
+{11200}{}{Greene seriff}
+{11300}{}{Fry megbízott}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Hightower}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Dogmeat}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Razor}
+{13000}{}{Tangler}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Surf}
+{13600}{}{Lasher}
+{13700}{}{Barracus}
+{13800}{}{Jeremiah}
+{13900}{}{Szupermutáns felcser}
+{14000}{}{Gideon}
+{14001}{}{A keze furcsa energiától sugárzik.}
+{14100}{}{Dominic}
+{14101}{}{A szemébõl különös energia árad.}
+{14200}{}{Lucy}
+{14201}{}{A feje furán izzik.}
+{14300}{}{Wiggup}
+{14301}{}{A testén energiaszikrák futkároznak.}
+{14400}{}{Viscious}
+{14500}{}{Szupermutáns hadnagy}
+{14600}{}{Laura}
+{14700}{}{Morpheus}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Decker}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Szívós patkány}
+{16000}{}{Irradiated Rat}
+{16100}{}{Tough Irradiated Rat}
+{16200}{}{Kisméretû vakondpatkány}
+{16300}{}{Coyote}
+{16400}{}{Nagy Brahma}
+{16500}{}{Halálkarom poronty}
+{16501}{}{A smaller and younger version of its terrifying counterpart, but no less dangerous.}
+{16600}{}{Visszataszító radskorpió}
+{16700}{}{Véres lebegõ}
+{16800}{}{Nagyméretû kentaur}
+{16900}{}{Igénytelen paraszt}
+{17000}{}{Paraszt}
+{17100}{}{Földmûves}
+{17200}{}{Munkás}
+{17300}{}{Földmûves}
+{17400}{}{Kereskedõ}
+{17500}{}{Õr}
+{17600}{}{Óriás sáska}
+{17700}{}{Ádáz disznópatkány}
+{17800}{}{Földmûves}
+{17900}{}{Munkás}
+{18000}{}{Kereskedõ}
+{18100}{}{Õr}
+{18200}{}{Fénylõ}
+{18201}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{18300}{}{Õrült Fénylõ}
+{18301}{}{This irradiated ghoul has maintained enough brain matter and motor function to be able to speak clearly.}
+{18400}{}{Zombi}
+{18401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{18500}{}{Õr}
+{18600}{}{Szupermutáns õr}
+{18700}{}{Ádáz szupermutáns}
+{18800}{}{Veszett szupermutáns}
+{18900}{}{Halálos szupermutáns}
+{19000}{}{Szívós éjfajzat}
+{19100}{}{Halálos éjfajzat}
+{19200}{}{Szuper éjfajzat}
+{19300}{}{Éjfajzat-mester}
+{19400}{}{Õr}
+{19500}{}{Kereskedõ}
+{19600}{}{Õr}
+{19700}{}{Õr}
+{19800}{}{Õr}
+{19900}{}{Lány}
+{20000}{}{Írnok}
+{20100}{}{Õr}
+{20200}{}{Nem idevalósi}
+{20300}{}{Nehézfiú}
+{20400}{}{Zsoldos}
+{20500}{}{Õr}
+{20600}{}{Vault-dweller}
+{20700}{}{Garl}
+{20800}{}{Morbid doki}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Utazó}
+{21700}{}{Nem idevalósi}
+{21800}{}{Nehézfiú}
+{21900}{}{Zsoldos}
+{22000}{}{Õr}
+{22100}{}{Polgár}
+{22200}{}{Nem idevalósi}
+{22300}{}{Nehézfiú}
+{22400}{}{Zsoldos}
+{22500}{}{Õr}
+{22600}{}{Polgár}
+{22700}{}{Utazó}
+{22800}{}{Nem idevalósi}
+{22900}{}{Nehézfiú}
+{23000}{}{Zsoldos}
+{23100}{}{Õr}
+{23200}{}{Polgár}
+{23300}{}{Utazó}
+{23400}{}{Zsoldos}
+{23500}{}{Õr}
+{23600}{}{Utazó}
+{23700}{}{Nem idevalósi}
+{23800}{}{Nehézfiú}
+{23900}{}{Zsoldos}
+{24000}{}{Õr}
+{24100}{}{Nehézfiú}
+{24200}{}{Zsoldos}
+{24300}{}{Õr}
+{24400}{}{Utazó}
+{24500}{}{Nem idevalósi}
+{24600}{}{Nehézfiú}
+{24700}{}{Zsoldos}
+{24800}{}{Õr}
+{24900}{}{Utazó}
+{25000}{}{Nem idevalósi}
+{25100}{}{Nehézfiú}
+{25200}{}{Zsoldos}
+{25300}{}{Õr}
+{25400}{}{Utazó}
+{25500}{}{Nem idevalósi}
+{25600}{}{Nehézfiú}
+{25700}{}{Zsoldos}
+{25800}{}{Õr}
+{25900}{}{Utazó}
+{26000}{}{Nem idevalósi}
+{26100}{}{Nehézfiú}
+{26200}{}{Zsoldos}
+{26300}{}{Õr}
+{26400}{}{Újonc Lovag}
+{26500}{}{Frissen Kiképzett Lovag}
+{26600}{}{Lovag Tanonc}
+{26700}{}{Képzett Lovag}
+{26800}{}{Tapasztalt Lovag}
+{26900}{}{Újonc Lovag}
+{27000}{}{Frissen Kiképzett Lovag}
+{27100}{}{Lovag Tanonc}
+{27200}{}{Képzett Lovag}
+{27300}{}{Tapasztalt Lovag}
+{27400}{}{Paladin altiszt}
+{27500}{}{Paladin}
+{27600}{}{Tapasztalt Paladin}
+{27700}{}{Paladin altiszt}
+{27800}{}{Paladin}
+{27900}{}{Tapasztalt Paladin}
+{28000}{}{Újonc Krónikás}
+{28100}{}{Frissen Kiképzett Krónikás}
+{28200}{}{Krónikás Tanonc}
+{28300}{}{Képzett Krónikás}
+{28400}{}{Tapasztalt Krónikás}
+{28500}{}{Újonc Krónikás}
+{28600}{}{Frissen Kiképzett Krónikás}
+{28700}{}{Krónikás Tanonc}
+{28800}{}{Képzett Krónikás}
+{28900}{}{Tapasztalt Krónikás}
+{29000}{}{Köpenyes férfi}
+{29100}{}{A Mester Gyermeke}
+{29200}{}{A katedrális tanonca}
+{29300}{}{Köpenyes nõ}
+{29400}{}{A Mester Gyermeke}
+{29500}{}{A Mester Állatkája}
+{29600}{}{A Mester Nehézfiúja}
+{29700}{}{A Mester Õre}
+{29800}{}{A Mester Állatkája}
+{29900}{}{A Mester Nehézfiúja}
+{30000}{}{A Mester Õre}
+{30100}{}{Orvos}
+{30200}{}{Katja}
+{30300}{}{Sasha}
+{30301}{}{Gazdájára váró szibériai husky.}
+{30400}{}{Rejtélyes idegen}
+{30500}{}{Õrült Ghoul}
+{30501}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{30600}{}{Floating Eye}
+{30700}{}{Tojás}
+{30701}{}{Halálkarom tojás}
+{30800}{}{Dugan}
+{30900}{}{Halálkarom anya}
+{31000}{}{Hammer}
+{31100}{}{Halott utazó}
+{31200}{}{Kenji}
+{31300}{}{Ian}
+{31400}{}{Ian}
+{31500}{}{Ian}
+{31600}{}{Ian}
+{31700}{}{Ian}
+{31800}{}{Ian}
+{31900}{}{Ian}
+{32000}{}{Ian}
+{32100}{}{Ian}
+{32200}{}{Ian}
+{32300}{}{Ian}
+{32400}{}{Ian}
+{32500}{}{Ian}
+{32600}{}{Ian}
+{32700}{}{Ian}
+{32800}{}{Ian}
+{32900}{}{Ian}
+{33000}{}{Ian}
+{33100}{}{Ian}
+{33200}{}{Ian}
+{33300}{}{Ian}
+{33400}{}{Ian}
+{33500}{}{Ian}
+{33600}{}{Ian}
+{33700}{}{Ian}
+{33800}{}{Ian}
+{33900}{}{Ian}
+{34000}{}{Tycho}
+{34100}{}{Tycho}
+{34200}{}{Tycho}
+{34300}{}{Tycho}
+{34400}{}{Tycho}
+{34500}{}{Tycho}
+{34600}{}{Tycho}
+{34700}{}{Tycho}
+{34800}{}{Tycho}
+{34900}{}{Tycho}
+{35000}{}{Tycho}
+{35100}{}{Tycho}
+{35200}{}{Tycho}
+{35300}{}{Tycho}
+{35400}{}{Tycho}
+{35500}{}{Tycho}
+{35600}{}{Tycho}
+{35700}{}{Tycho}
+{35800}{}{Tycho}
+{35900}{}{Tycho}
+{36000}{}{Tycho}
+{36100}{}{Tycho}
+{36200}{}{Tycho}
+{36300}{}{Tycho}
+{36400}{}{Tycho}
+{36500}{}{Tycho}
+{36600}{}{Tycho}
+{36700}{}{Katja}
+{36800}{}{Katja}
+{36900}{}{Katja}
+{37000}{}{Katja}
+{37100}{}{Katja}
+{37200}{}{Katja}
+{37300}{}{Katja}
+{37400}{}{Katja}
+{37500}{}{Katja}
+{37600}{}{Katja}
+{37700}{}{Katja}
+{37800}{}{Katja}
+{37900}{}{Katja}
+{38000}{}{Katja}
+{38100}{}{Katja}
+{38200}{}{Katja}
+{38300}{}{Katja}
+{38400}{}{Katja}
+{38500}{}{Katja}
+{38600}{}{Katja}
+{38700}{}{Katja}
+{38800}{}{Katja}
+{38900}{}{Katja}
+{39000}{}{Katja}
+{39100}{}{Katja}
+{39200}{}{Katja}
+{39300}{}{Katja}
+{39400}{}{Baby Radscorpion}
+{39500}{}{Mother Radscorpion}
+{39600}{}{The Overseer}

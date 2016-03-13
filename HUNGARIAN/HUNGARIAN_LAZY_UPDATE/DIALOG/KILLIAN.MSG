@@ -1,0 +1,253 @@
+{100}{}{Killian személyesen.}
+{101}{}{Benned kit tisztelhetek?}
+{102}{}{Mondanál valamit errõl a városról?}
+{103}{}{Tied ez a bolt?}
+{104}{}{Vásárolni akarok valamit.}
+{105}{}{Mit lehet errefelé csinálni?}
+{106}{}{Mit is kéne tennem, ha segíteni akarok neked Gizmo félreállításában?}
+{107}{}{Asszem, mennem kéne.}
+{108}{}{Nö-öhh?}
+{109}{Kill0a}{Vásárolni akarsz valamit, barátom?}
+{110}{}{Öh-höh.}
+{111}{}{Nöh-öh.}
+{112}{Kill1m}{Üdvözlet Roncsvárosban, idegen. Miben segíthetek?}
+{113}{Kill1f}{Helló, kedves. Mit hozhatok?}
+{114}{Kill1b}{Mit akarsz?}
+{115}{Kill1g}{Segíthetek?}
+{116}{}{Mondanál valamit errõl a városról??}
+{117}{}{Tied ez a bolt?}
+{118}{}{Vásárolni akarok valamit.}
+{119}{}{Mit lehet errefelé csinálni?}
+{120}{}{Mit kell tennem, ha segíteni akarok neked Gizmo félreállításában?}
+{121}{}{Asszem, mennem kéne.}
+{122}{}{Nö-öhh?}
+{123}{Kill02}{Killian Darkwaternek hívnak. Én vagyok e remek kisváros polgármestere. Benned kit tisztelhetek?}
+{124}{}{A nevem }
+{125}{}{.}
+{126}{}{A nevem }
+{127}{}{. Északról jöttem.}
+{128}{}{Számít ez valamit?}
+{129}{Kill03}{Nem sok minden van arrafelé, kivéve a sivatagot meg Shady Sands városát. Onnan jössz?}
+{130}{}{Nem, egy nyugatra lévõ Menedékbõl származom.}
+{131}{}{Nem. A... öm... falum nyugatra van a hegyek közt.}
+{132}{}{Nem igazán. Van ott még valami azon kívül}
+{133}{}{Persze, hogy onnan jöttem, te idióta.}
+{134}{Kill03a}{Olyannak tûnsz, mint aki szentül meg van gyõzõdve róla, hogy én majd kiselõadást tartok neki.}
+{135}{Kill04}{Ja, ha te mondod. Szóval mire van szükséged?}
+{136}{Kill05}{Hát persze. Amikor meg gyerek voltál, páncélszekrényben altattak.}
+{137}{}{Nem, nem. Menedéknek hívják. Megvédett bennünket a háborútól. Már nyolcvan éve tele van emberekkel!}
+{138}{}{Hehe, látom, érted a viccemet. Igazság szerint egy Shady Sandshez közeli faluból jöttem.}
+{139}{Kill06}{Ne búsúlj, nem ez a legrosszabb történet, amit életemben hallottam. Na, de térjünk a tárgyra... miben segíthetek?}
+{140}{Kill08}{Az utazók elmondása szerint északon van egy rakás õrült, akiket Viperáknak hívnak. Keleti irányban egy másik agyament társaság, a Khan-ok csapata tanyázik. Egyikük sem az a fajta, aki meginvitál egy kis vacsorára, és nem téged esz meg fõfogásként. Nyilván érted, mire gondolok.}
+{141}{}{Mi van még Roncsvároson kívül?}
+{142}{}{Kösz.}
+{143}{Kill09}{Dél-nyugaton megtalálod a Hubot, de délre ne menj, mert csak Nekropoliszban köthetsz ki. Az a... öö... nagyon rossz ott a klíma, esik vagy ragyog. Ha érted, mire gondolok.}
+{144}{}{Hát, kösz az információt. Kérdezhetek még néhány dolgot?}
+{145}{}{Gondolom, mindennel tisztában vagy errefelé, igaz?}
+{146}{}{Azt hiszem, mennem kéne.}
+{147}{Kill10a}{Fenébe is, miért ne. Kérdezz csak, barátom!}
+{148}{Kill10b}{Ja, oké, de ne sokat idõzzünk. Van még ezer dolgom.}
+{149}{Kill11}{Nos, Roncsváros nem nagy szám, de ez az otthonunk. Leginkább kereskedünk az embrerekkel, és megpróbáljuk elfeledtetni velük a mindennapos bajaikat. Természetesen, nekünk is megvannak a magunk problémái.}
+{150}{}{Milyen problémákra gondolsz?}
+{151}{}{Mit lehet csinálni a városban?}
+{152}{}{Milyen egyéb városok vannak a környéken?}
+{153}{}{Kösz.}
+{154}{Kill12}{Ami a külvilágot illeti, néha-néha dolgunk akad a Khan-okkal, de az utóbbi idõben lecsihadtak. Idebenn a Skulz banda okoz fejfájást. Azt is hallottam, hogy a Hubban szintén történnek fura dolgok, de legalább ezek még nem értek el hozzánk. Lekopogom.}
+{155}{Kill13b}{Bizony rengeteg lehetõség van itt. A Vesztõhelyet megtalálod a keleti negyedben, a bejáratnál. Jó kis ivóhely, Gizmo bárja is közel van. Ha pedig netán fáj valamid, Morbid doki az embered.}
+{156}{}{Kösz.}
+{157}{}{Ez minden? Ennyit tud felmutatni a város?}
+{158}{Kill14}{Ha netán túlságosan gyorsak vagyunk neked, lehet továbbállni, barátom. Ugye barátok vagyunk?}
+{159}{}{Hát, a semminél több.}
+{160}{}{Látom, nem fogom magam halálra szórakozni a városban.}
+{161}{Kill15}{Slussz, passz.}
+{162}{Kill16}{Nyilván összetévesztesz valakivel, akivel kikezdhetsz. Miért nem jössz vissza máskor, amikor a mamád megtanított egy kis illemre?}
+{163}{Kill21}{Micsoda átkozott véletlenek vannak! Ezért van ez a bolt! Szinte mindenünk van, amire szükséged lehet. Hadd mutassam meg egy-két árumat...}
+{164}{Kill22}{Talált, süllyedt. Lehet, hogy nem olyan nagy, mint a Hub, de az emberek többnyire megtalálják, amit keresnek. Nézz csak kürül tüzetesen...}
+{165}{Kill23}{Viselheted ezt a hangrögzítõt vagy elrejtheted a poloskát az irodájában. Mindkét esetben lefüleltük.}
+{166}{Kill24}{Mizújs! Tehetek érted valamit?}
+{167}{Kill26}{Te vagy az? Mit akarsz?}
+{168}{Kill27}{Hacsak nem akarod kifizetni, jobb lesz, ha leteszed!}
+{169}{Kill28}{Nem vagy valami agyas, mi? Fiúk...}
+{170}{Kill29}{Nyilvánvaló, hogy anyád nem tanított illemre. Szóval nekem kell...}
+{171}{Kill30}{Fogadd gratulációmat! Sikerült összehoznod, hogy az éjszakát egy cellában töltsd! Fiúk, ide...}
+{172}{Kill31}{Mi a rossebet keresel itt, mi?}
+{173}{}{Öh... eltévedtem.}
+{174}{}{Ja, hogy ez a te helyed?}
+{175}{}{Hát... betörtem.}
+{176}{Kill32}{Még jó, hogy az én helyem! Na, húzz innen a büdös francba, mielõtt falidíszt csinálok a fejedbõl!}
+{177}{}{Oké, oké, már itt sem vagyok.}
+{178}{}{Hát te? Ébresztõ, haver, még mindig álmodsz!}
+{179}{Kill34}{Öh, nem. Meghülyültél. Kifelé innen!}
+{180}{}{Oké. Elnézést a kényelmetlenségért, amit okoztam.}
+{181}{}{És ki fog elintézni, mi? Csak nem te? Ne kacagtass már...}
+{182}{Kill35}{Hm, az õszinte tolvaj... Ettõl még be kell, hogy vigyelek. Kövess csendben, és nem esik bántódásod!}
+{183}{}{Rendben, csendben követlek.}
+{184}{}{Nem hinném, hogy követnélek...}
+{185}{Kill36}{Like I said... }
+{186}{Kill37}{Már hallottad a választ...}
+{187}{Kill38}{Már hallottad a választ...}
+{188}{Kill39}{Nincs baj a hallásoddal? Már mondtam...}
+{189}{Kill40}{Figyelj, ha nem emlékszel, mit mondtam, az szar ügy.}
+{190}{Kill41}{Nézd, már számtalanszor elmondtam neked.}
+{191}{Kill42}{Máris mész? Talán fizethetnél is elõtte.}
+{192}{Kill43}{Ezzel nem szoktam viccelõdni. Na, elõ a suskával, és fizess!}
+{193}{Kill44}{Rendben. Jól van. Nézzük, hogy egy börtönbeli éjszaka lecsillapít-e téged.}
+{194}{Kill45}{Van még kérdésed?}
+{195}{}{[Mosolyogva] Talált, süllyedt...}
+{196}{}{Nem. Ennyi lenne, kösz.}
+{197}{Kill46}{Jó városnézést! Vigyázz, nehogy túl sok bajba keveredj!}
+{198}{Kill47}{Köszönöm, hogy megmentetted az életemet. Nem semmi bátor tett volt. Úgy tûnik viszont, hogy kisebb problémák merültek fel. Tudom, hogy Gizmo áll a dolog mögött, de nincs rá bizonyítékom. Van kedved segíteni?}
+{199}{}{Hogy nincs-e kedvem? Miben töröd a fejed?}
+{200}{}{Nem lehetne valaki mást? Kissé elfoglalt vagyok...}
+{201}{}{Benne vagyok.}
+{202}{Kill48}{Ha sikerül bizonyítékot szereznem, Roncsváros lakosai rövid úton ki fogják penderíteni innen. Így elsõ blikkre az az ötletem támadt, hogy egyrészt elhelyezhetsz egy poloskát az asztalában, másrészt viselhetsz is egyet, és úgy rögzíted a bizonyítékot érõ szavait. Képesnek tartod magad erre?}
+{203}{}{Tyû, ez elég veszélyesnek hangzik...}
+{204}{}{Mit kapok cserébe?}
+{205}{}{Ömmm... nem. Ha beleütöm az orrom mások dolgába, sosem vezet jóra.}
+{206}{Kill49}{Nem akarok hazudni neked, valóban veszélyes, de jövök majd eggyel neked. Killian Darkwater minding visszafizeti az adósságát.}
+{207}{}{Biztos, hogy nincs más erre a feladatra?}
+{208}{}{Mit akar az jelenteni, hogy "visszafizeti az adósságát"?}
+{209}{}{Nem fekszik a dolog, túlságosan veszélyes.}
+{210}{Kill50}{Az lesz a leggördülékenyebb, ha te csinálod. Gizmo nem ismer téged, ezért bízhat benned. Vagy legalábbis nehéz lesz élbõl engem vádolnia. Így vagy úgy, te vagy a legrátermettebb ember a feladatra.}
+{211}{}{Nem vészes, megcsinálom.}
+{212}{}{Ejtem a témát. Az, hogy megölhetnek, nem hangzik valami mókásan számomra.}
+{213}{}{Mi esik le nekem ebbõl?}
+{214}{Kill51}{Mondok én neked valamit. Bármit választhatsz a boltomban, akármilyen drága is legyen, a tied. Nem kérek érte semmit. Ha netán egy fegyverrõl lenne szó, annyi lõszert adok hozzá, amennyit csak el tudsz cipelni. Elfogadhatónak hangzik?}
+{215}{}{Igen, elvállalom.}
+{216}{}{Messze van ez még az elfogadhatótól. Ennyiért nem kockáztatom az irhámat.}
+{217}{Kill52}{A fenébe... Nagy baj ez. Azt azért tudnod kell, hogy amíg nem tisztázódik ez az ügy, be kell zárjalak. Nem kockáztathatom, hogy Gizmo szagot fogjon. Sajnálom.}
+{218}{Kill53}{Rendben, tartozom neked. Itt a poloska és a rögzítõ. Majd szólj, ha végeztél! Sok szerencsét!}
+{219}{Kill54}{Na, megszerezted a bizonyítékot?}
+{220}{}{Nem még, de meg fogom, hihetsz nekem!}
+{221}{}{De meg ám!}
+{222}{Kill55}{A fickó nem fog idejönni, és köpni! Amíg nincs elintézve az ügy, jobb lenne, ha ide sem tévednél. Most pedig indulj!}
+{223}{Kill56}{A poloska vagy a szalag?}
+{224}{}{A poloska.}
+{225}{}{Az interjú.}
+{226}{Kill57}{Ez igen! Lássuk, mûködik-e.}
+{227}{Kill57a}{Ennél nyilvánvalóbb már nem is lehetne. Ezért simán megy a csukdába. Idõközben felmerült egy újabb probléma...}
+{228}{Kill58}{Halljuk hát...}
+{229}{Kill58b}{Ez az elsõ alkalom, hogy örömmel hallom a hangját. Köszönöm, barátom. Most viszont itt az idõ, hogy megtárgyaljuk a jutalmadat.}
+{230}{Kill59}{Kösz még egyszer a segítséget. Mellesleg épp indulok az õreimmel, hogy Gizmót a kutyáival együtt elkergessük a városból. Elkelne egy hatékony segítség. Nincs kedved hozzá? Jó kis móka lenne.}
+{231}{}{Benne vagyok. Már az megérné, ha látnám tíz méternél többet járni.}
+{232}{}{Ez eléggé azon múlik, mit kapok érte.}
+{233}{}{Már megint? Nem vagyok oda az ötlettõl. Egy csomó elintézetlen ügyem van még.}
+{234}{Kill60}{Keresd meg Larst az õrbódénál! Õ majd eligazít. Ezen kívül annyit mondhatok... a városunk lekötelezve érzi magát... nagyon is.}
+{235}{Kill61b}{A szokásos zsoldot tudom fizetni érte, 500 kupakot.}
+{236}{}{Legyen.}
+{237}{}{Sajnálom, de ez nem elég.}
+{238}{Kill62}{Jól van. Keresd fel Larst, õ majd elmondja a részleteket!}
+{239}{Kill63}{Nézd, ennél többet nem ajánlhatok. Kösz, hogy megszerezted a bizonyítékot, de könyörögni azért nem fogok, hogy segíts.}
+{240}{}{Rendben, elfogadom ezt az árat.}
+{241}{}{Ti tudjátok... minden jót!}
+{242}{Kill64}{Sok szerencsét az utadon. Most viszont, ha megbocsátasz, egy dagadékot mozgásra kell bírnom.}
+{243}{Kill65}{Gizmóé a kaszinó. Saját magáról nevezte el. Vigyázz vele!}
+{244}{Kill66}{Én lennék. Hol jár az eszed?}
+{245}{Kill67}{Lars az õrök parancsnoka. Jó srác, egész megbízható.}
+{246}{Kill68}{Hát Vinnie az egyik problémás gyerek nálunk. Egy csapat punkot vezet, úgy hívják õket, hogy Skulz. Fizetik a lakbért, és nemigen zavartak eddig senkit.}
+{247}{Kill69}{A dokinak van egy kis rendelõje a város közepén. Ha a szükség úgy hozza, egész jól össze tud fércelni, és az árai is elfogadhatóak.}
+{248}{Kill70}{A Skulz banda egy Gizmónak dolgozó punkcsapat. Nem sok vizet zavarnak, de Lars barátommal együtt rendszeresen a körmükre nézünk.}
+{249}{Kill71}{A Khan-ok bandája csupa verekedõs gyerekbõl áll, a városon kívül élnek keleti irányban. Amióta csak eszemet tudom, megpróbálták elfoglalni Roncsvárost, de a kapun túl még sosem jutottak.}
+{250}{Kill72}{A Viperák északon élõ õrült népség. Kígyóknak hódolnak, vagy valami ilyesmi.}
+{251}{Kill73}{Ha valami kell, nálam megtalálod.}
+{252}{Kill74}{Jó kis hely, ha olcsó szoba kell. Nem is túl piszkos. A tulajdonossal viszont ne nagyon kekeckedj. Marcelles kitépi a karodat, ha megpróbálod magad behízelegni magad hozzá.}
+{253}{Kill75}{Gizmo kaszinója a bejáratnál terpeszkedik. Csodálkozom, hogy nem vetted észre idejövet. Általában már mérföldekrõl kiszagolhatod õket. Mondjuk legalább a turistákat vonzza.}
+{254}{Kill76}{Ez a helyi bárunk. Jó az étel, a sör viszont egyenesen kiváló. Neal, a tulaj, nem nagyon tûri a kekeckedést, még az idõnként betévedõ nehézfiúktól sem.}
+{255}{Kill76a}{Ezen nincs mit cifrázni. Morbid doki eléggé ki van akadva, mert a gyógykezelés árai sokkal alacsonyabbak náluk. A nyugati negyedben megtalálod õket.}
+{256}{Kill77}{Halálkarom? Ez csak gyerekmese. Vért iszik meg teliholdkor üvölt, hát mi sem természetesebb.}
+{257}{Kill78}{A Hub a kereskedelem központja. Amit nálunk nem találsz, ott biztos megtalálod. Nem tudom, mostanában mennyire biztonságos, mert elég furcsa dolgokat rebesgetnek róluk.}
+{258}{Kill79}{Shady Sands? Az egy kisváros észak felé. Nem ártana többet kereskednem velük.}
+{259}{Kill80}{Az a város egy halál. Két járõrt kiküldtem megnézni, mi újság, és egyik sem tért vissza.}
+{260}{Kill81}{Kettõ van belõlük, a Khan-ok és a Viperák. Az utóbbiak nem sok gondot okoznak, és néhányuk még a városba is beteszi a lábát. A Khan-ok viszont aljas egy társaság. Azt hiszik, hogy átvehetik a világuralmat, vagy valami hasonló szarságon törik a fejüket.}
+{261}{Kill82}{Hol voltál az elmúlt száz évben, mi? Bentfelejtettek a spájzban? Az apám sok történetet mesélt a háborúról. Az õ apja katona volt, mielõtt megalapította Roncsvárost.}
+{262}{Kill83}{Jönnek szépen a hírek a Hubból. Eltûnt karavánokról, lemészárolt emberekrõl, még valami nagy zöld szörnyekrõl is, akik emberi hússal táplálkoznak. Nagyon fura dolgok ezek.}
+{263}{Kill84}{Nem, semmi ilyesmirõl nem hallottam idáig.}
+{264}{Kill85}{Gõzöm sincs.}
+{265}{Kill86}{Óhhh... errõl tényleg nincs mit mondanom.}
+{266}{Kill87}{Beszélj errõl Lars barátommal! Ez ügyben õ kompetensebb.}
+{267}{}{[Kész]}
+{268}{}{[Tovább]}
+{269}{}{Amiért kivetted a részed Killian legyõzésében, 600 tapasztalati pontot kaptál. Roncsváros már sosem lesz a régi...}
+{270}{}{500 tapasztalati pontot kaptál, amiért "meginterjúvoltad" Gizmót.}
+{271}{}{Azért jöttem, hogy bevigyelek, Gizmo. Ezúttal bizonyítékom is van ellened.}
+{272}{}{Mit tudsz errõl a Gizmo nevû alakról?}
+{273}{}{Oké.}
+{274}{}{Jaja, veszélyes fickó. Azért jöttem, hogy megöljelek. Õ bérelt fel.}
+{275}{}{Az a helyzet, hogy... az a hájpacni megpróbált felbérelni engem, hogy öljelek meg. Miért nem csinálsz valamit ellene?}
+{276}{}{Egy vadászpuskát lõszerrel szívesen elfogadnék.}
+{277}{}{El tudnék viselni egy bõrpáncélt.}
+{278}{}{Egy orvosi táska igen jól jönne.}
+{279}{}{Az összes stimpakkodat elvinném.}
+{280}{}{Kösz, nem. Tudván, hogy Gizmo megkapta a magáét, éppen elég jó érzéssel tölt el.}
+{281}{}{Szeretnék egy pillantást vetni az utazóknak való cuccokra.}
+{282}{}{Kösz, de nézelõdnék kicsit.}
+{283}{}{Hagyjuk a témát. Kösz.}
+{284}{}{Gizmó ellen bizonyíték híján léptél föl. Tudom, hogy nem volt egy hû de jó gyerek, de te sem vagy az. Irány Lars!}
+
+
+# Killian Tell-Me-Abouts generic responses
+{980}{Kill84}{Nem, semmi ilyesmirõl nem hallottam még.}
+{981}{Kill85}{Gõzöm sincs róla.}
+{982}{Kill86}{Óhhh... errõl tényleg nincs mit mondanom.}
+{983}{Kill87}{Beszélj errõl Lars barátommal! Ez ügyben õ kompetensebb.}
+
+#
+# Killian Tell-Me-Abouts
+#
+
+
+{1000}{}{Gizmo}
+{1001}{}{Killian}
+{1002}{}{Lars}
+{1003}{}{Vinnie}
+{1004}{}{Doki}
+{1005}{}{Skulz}
+{1006}{}{Khan}
+{1007}{}{Vipera}
+{1008}{}{Bolt}
+{1009}{}{Hetalvo}
+{1010}{}{Kaszino}
+{1011}{}{Vesztohely}
+{1012}{}{Katedralis}
+{1013}{}{Halalkarom}
+{1014}{}{Hub}
+{1015}{}{Shady}
+{1016}{}{Nekropolisz}
+{1017}{}{Fosztogato}
+{1018}{}{Haboru}
+{1019}{}{Furcsa}
+{1020}{}{Darkwater boltja}
+{1021}{}{Morbid}
+{1022}{}{Bolt}
+{1023}{}{Gizmo}
+{1024}{}{Vesztohely}
+{1025}{}{Sands}
+{1026}{}{Vesztohely}
+
+{1100}{Kill65}{Gizmóé a keleti negyedben lévõ kaszinó. Saját magáról nevezte el. Nagyon vigyázz vele!}
+{1101}{Kill66}{Én lennék. Hol jár az eszed?}
+{1102}{Kill67}{Lars az õrök parancsnoka. Jó srác, egész megbízható.}
+{1103}{Kill68}{Hát Vinnie az egyik problémás gyerek nálunk. Egy csapat punkot vezet, úgy hívják õket, hogy Skulz. Fizetik a lakbért, és nemigen zavartak eddig senkit.}
+{1104}{Kill69}{A dokinak van egy kis rendelõje a város közepén. Ha a szükség úgy hozza, egész jól össze tud fércelni, és az árai is elfogadhatóak.}
+{1105}{Kill70}{A Skulz banda egy Gizmónak dolgozó punkcsapat. Nem sok vizet zavarnak, de Lars barátommal együtt rendszeresen a körmükre nézünk.}
+{1106}{Kill71}{A Khan-ok bandája csupa verekedõs gyerekbõl áll, a városon kívül élnek keleti irányban. Amióta csak eszemet tudom, megpróbálták elfoglalni Roncsvárost, de a kapun túl még sosem jutottak.}
+{1107}{Kill72}{A Viperák északon élõ õrült népség. Kígyóknak hódolnak, vagy valami ilyesmi.}
+{1108}{Kill73}{Ha valami kell, nálam megtalálod.}
+{1109}{Kill74}{Jó kis hely, ha olcsó szoba kell. Nem is túl piszkos. A tulajdonossal viszont ne nagyon kekeckedj. Marcelles kitépi a karodat, ha megpróbálod magad behízelegni magad hozzá.}
+{1110}{Kill75}{Gizmo kaszinója a bejáratnál terpeszkedik. Csodálkozom, hogy nem vetted észre idejövet. Általában már mérföldekrõl kiszagolhatod õket. Mondjuk legalább a turistákat vonzza.}
+{1111}{Kill76}{Ez a helyi bárunk. Jó az étel, a sör viszont egyenesen kiváló. Neal, a tulaj, nem nagyon tûri a kekeckedést, még az idõnként betévedõ nehézfiúktól sem.}
+{1112}{Kill76a}{Ezen nincs mit cifrázni. Morbid doki eléggé ki van akadva, mert a gyógykezelés árai sokkal alacsonyabbak náluk. A nyugati negyedben megtalálod õket.}
+{1113}{Kill77}{Halálkarom? Ez csak gyerekmese. Vért iszik meg teliholdkor üvölt, hát mi sem természetesebb.}
+{1114}{Kill78}{A Hub a kereskedelem központja. Amit nálunk nem találsz, ott biztos megtalálod. Nem tudom, mostanában mennyire biztonságos, mert elég furcsa dolgokat rebesgetnek róluk.}
+{1115}{Kill79}{Shady Sands? Az egy kisváros észak felé. Nem ártana többet kereskednem velük.}
+{1116}{Kill80}{Az a város egy halál. Két járõrt kiküldtem megnézni, mi újság, és egyik sem tért vissza.}
+{1117}{Kill81}{Kettõ van belõlük, a Khan-ok és a Viperák. Az utóbbiak nem sok gondot okoznak, és néhányuk még a városba is beteszi a lábát. A Khan-ok viszont aljas egy társaság. Azt hiszik, hogy átvehetik a világuralmat, vagy valami hasonló szarságon törik a fejüket.}
+{1118}{Kill82}{Hol voltál az elmúlt száz évben, mi? Bentfelejtettek a spájzban? Az apám sok történetet mesélt a háborúról. Az õ apja katona volt, mielõtt megalapította Roncsvárost.}
+{1119}{Kill83}{Jönnek szépen a hírek a Hubból. Eltûnt karavánokról, lemészárolt emberekrõl, még valami nagy zöld szörnyekrõl is, akik emberi hússal táplálkoznak. Nagyon fura dolgok ezek.}
+{1120}{Kill66}{Én lennék. Hol jár az eszed?}
+{1121}{Kill69}{A dokinak van egy kis rendelõje a város közepén. Ha a szükség úgy hozza, egész jól össze tud fércelni, és az árai is elfogadhatóak.}
+{1122}{Kill73}{Ha valami kell, nálam megtalálod.}
+{1123}{Kill75}{Gizmo kaszinója a bejáratnál terpeszkedik. Csodálkozom, hogy nem vetted észre idejövet. Általában már mérföldekrõl kiszagolhatod õket. Mondjuk legalább a turistákat vonzza.}
+{1124}{Kill76}{Ez a helyi bárunk. Jó az étel, a sör viszont egyenesen kiváló. Neal, a tulaj, nem nagyon tûri a kekeckedést, még az idõnként betévedõ nehézfiúktól sem.}
+{1125}{Kill79}{Shady Sands? Az egy kisváros észak felé. Nem ártana többet kereskednem velük.}
+{1126}{Kill76}{Ez a helyi bárunk. Jó az étel, a sör viszont egyenesen kiváló. Neal, a tulaj, nem nagyon tûri a kekeckedést, még az idõnként betévedõ nehézfiúktól sem.}

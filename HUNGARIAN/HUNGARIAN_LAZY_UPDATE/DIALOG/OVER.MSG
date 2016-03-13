@@ -1,0 +1,202 @@
+{100}{}{A Menedék felvigyázója.}
+{101}{}{Ahh, szóval itt vagy. Jól van. Ez az egyetlen jó hír. Van egy kis problémánk. Vagyis inkább nagy problémánk. A víztisztító rendszerünk irányítócsipje bemondta az unalmast. Nem tudunk újat csinálni, és a mûvelet túl bonyolult, hogy valami helyettesítõ rendszert készítsünk. Röviden szólva, fogytán az ivóvizünk. Ha nincs víz, nincs Menedék. Most, hogy felnõttél, mindketten tisztában vagyunk egymás különbségeivel. Téged majd szét vet a kalandvágy, és ezt a Menedék képtelen nyújtani neked. Én viszont tudom, hogy ennél biztonságosabb helyet keresve sem találsz, ezért mindig nagyon aggódom a külvilágba vágyók épsége miatt. Mondjuk, ha mindenki itthagy, a munkámra már nem is lesz szükség! Komolyra fordítva a szót, a víz elengedhetetlen a túlélésünkhöz. Õszinte leszek hozzád... te vagy az egyetlen reménységünk. Találnod kell egy másik irányítócsipet!}
+{102}{Over_0a}{Van egy fotó a PipBoyodon, hogy felismerd, hogy néz ki.}
+{103}{Over_1}{Három hónapod van, hogy szerezz egy ilyen csipet, utána elfogy a vizünk.}
+{104}{}{One month... two... four... five... six... }
+{105}{Over_2}{Két hónapod van, talán még annyi sem, és a Menedék vize az utolsó szálig elfogy. Nagy szükségünk van arra a csipre!}
+{106}{Over_3}{Nagyjából négy-öt hónapra becsüljük azt az idõt, mielõtt a Menedék vize mind elfogy. Nagy szükségünk van arra a csipre!}
+{107}{Over_4}{Itt van egy s más, amire szükséged lehet.}
+{108}{Over_4a}{Ha nem lenne égetõen szükség erre a csipre, nem kérnénk meg téged. Ha te nem vállalod el, fogalmam sincs ki tudná megcsinálni. Segíts rajtunk, kérlek! Te vagy a mi... egyetlen esélyünk.}
+{109}{Over_5}{Ha segítségre van szükséged, gyere vissza hozzánk. Amiben csak tudunk segítünk, de sok idõnk nincs. Vigyázz magadra, találd meg a csipet, és siess vissza!}
+{110}{Over_6}{Megjelöltük a térképeden egy másik Menedék helyét. Szerintem egész jó hely a kezdõ lépésekhez. Én... nézd... T-tudod, mennyire fontos vagy nekünk... Én... én tényleg... szóval... vigyázz magadra, rendben?}
+{111}{Over_7}{Visszajöttél hát! És még egy darabban is vagy! Hogy halad a kutatás?}
+{112}{}{Nem jól, de észrevettem, hogy a sugárzás szintje nagyon alacsony. Miért nem költöztetjük ki az embereket a Menedékbõl?}
+{113}{}{Még nem találtam meg a csipet. Miért nem készítünk egy cserealkatrészt?}
+{114}{}{Semmi biztatót nem tudok mondani...}
+{115}{}{Nöh.}
+{116}{Over_8}{Nézd, tudom, hogy kemény dió ez, de nagyon számítunk rád. Az idõ viszont fogytán. Kérlek! Ne add fel a keresést!}
+{117}{Over_9}{Sosem hallgattál rám igazán. Nincsenek meg a szükséges alkatrészeink. Az összes meglévõt felhasználtuk.}
+{118}{}{Óh, rendben. Köszönöm.}
+{119}{Over_10}{Ezt már kitárgyaltuk korábban. Annyi külvilági tartózkodás után igazán tudnod kéne a választ. Gondolod, hogy mi, többiek képesek lennénk túlélni a kinti világot? Ezenkívül a munkámra sem lenne szükség többet. Én vagyok itt a mindenes! Nem tudom, mi egyébre lennék képes!}
+{120}{}{Ebben egyetértünk.}
+{121}{Over_12}{Nos, nálad van a csip?}
+{122}{}{Sajnálom, de nincs.}
+{123}{}{Én továbbra is azt mondom, hogy cuccoljuk fel a társaságot, és irány a szabad ég.}
+{124}{}{Nincs, de van egy rakás dolog, amit el kell mondanom!}
+{125}{}{Nöh.}
+{126}{Over_13}{[A Felvigyázó felsóhajt.] Ne sajnáld. Tudom, hogy minden tõled telhetõt megteszel, és ez sokat jelent nekünk. Most már nem adhatod fel.}
+{127}{Over_14}{A pillanat nem a legjobb arra, hogy ezt most megvitassuk. Szerezd meg a csipet, és majd meglátjuk. Az itteniek többsége, beleértve engem is, nem sokáig húznák odakint.}
+{128}{}{Rendben, megyek, hátha megtalálom.}
+{129}{Over_16}{Nincs se idõnk, se választásunk. Tudom, hogy sok felelõsség hárul rád, de nincs egyéb lehetõségünk. Nagyon kell az a csip.}
+{130}{Over_19a}{Kérlek, mondd, hogy megtaláltad a csipet!}
+{131}{}{Nem találtam meg, de számos meglepõ dolgot láttam!}
+{132}{}{Sajnálom, még nem sikerült a nyomára bukkannom.}
+{133}{}{Még nem találtam meg.}
+{134}{}{Nöh-öh.}
+{135}{Over_20}{Kérlek, ne add fel a keresést! Sürget az idõ.}
+{136}{Over_21}{Nincs erre idõnk! Nagyon kell az a csip, és kifogyunk az idõbõl. [sóhajt egyet]}
+{137}{Over_22}{Van valami probléma? Kell még valami felszerelés? Segíthetek valamiképp?}
+{138}{}{Nem, eltart ez még egy darabig. Nagyon nagy a kinti világ.}
+{139}{}{Hát, el tudnék viselni egy két cuccot.}
+{140}{}{Igen, felkászálódhatna onnan, és segíthetne.}
+{141}{Over_23}{Tégy meg minden tõled telhetõt! Jusson eszedbe, hogy nagyon számítunk rád!}
+{142}{Over_24}{Tessék, fogd az utolsó lõszertartalékot, és a gyógyeszközeinket. Bajban vagyunk. Ne késlekedj!}
+{143}{Over_25}{Mégis hogy? Adjak melléd valakit? Itt nincs több alkalmas ember, és ellátmány sem jutna. Felérne egy öngyilkossággal.}
+{144}{}{Maguk tudják... én mindent megteszek, de nem tudom, hogy ez elég-e.}
+{145}{}{Megértettem...}
+{146}{Over_26}{Elégnek kell lenni. Ha csõdöt mondasz, a Menedék is csõdöt mond.}
+{147}{}{Fogom.}
+{148}{}{Értem-értem.}
+{149}{Over_27}{Jól van, akkor indulás!}
+{150}{Over_28}{Megtaláltad a csipet?}
+{151}{}{Meg.}
+{152}{}{Megtaláltam, de el kéne beszélgetnünk arról, hogy az embereket kiengedjük a Menedékbõl.}
+{153}{}{Nöh-höh!}
+{154}{Over_29}{Csodálatos! Hadd nézzem! Látnom kell, hogy mûködik-e.}
+{155}{Over_30}{Kérlek, add ide a csipet!}
+{156}{Over_31}{Oki-doki. Egy pillanat, és a csip mindjárt üzembe helyezõdik. Igen, igen, igen... tessék. Az önteszt zölden világít... az újraindítás jól megy... Hah! Mûködik! Mûködik az ebadta! Haha! [A felvigyázó megkönnyebbülten felsóhajt.] Megmen... megmentettél bennünket! Megcsináltad!}
+{157}{}{Semmiség volt az egész...}
+{158}{}{Örömmel tettem.}
+{159}{Over_32}{Semmiség? Nem, nem, nem! Ez bizony volt valami! Ne értékeld alul, amit tettél! Rengeteg életet mentettél meg. Most pedig várom a jelentéseket a külvilággal kapcsolatban. Kérlek, menj a könyvtárba!}
+{160}{}{Okay.}
+{161}{Over_33}{Megmentetted a Menedéket. Büszke lehetsz magadra, de most kiváncsian várjuk a jelentéseidet. A könyvtárban megbeszéljük. Kérlek, menj most oda!}
+{162}{}{Okay.}
+{163}{Over_34}{Nyilván úgy van, ahogy mondod, de a túlélés elsõbbséget élvez. Add ide a csipet, aztán megbeszéljük a jelentéseidet.}
+{164}{}{Elfogadhatóan hangzik.}
+{165}{}{Nem tudom...}
+{166}{Over_37}{Óh, ez nagyszerû! Megkaphatom a csipet?}
+{167}{Over_38}{Nem, nem azt. A szá-mí-tó-gép csipet.}
+{168}{Over_38a}{Nem. A csipet!}
+{169}{Over_39}{Add ide a csipet!}
+{170}{Over_40}{Köszönöm. Most akkor menj a könyvtárba, és pihenj egy kicsit, oké?}
+{171}{}{Nöh-höh, öh-nöh?}
+{172}{}{Öh, nöh? Nöh-öh-öh-nöh.}
+{173}{Over_41}{Igen, hozzányúlhatsz dolgokhoz.}
+{174}{Over_41a}{Ó, igen. Jól végezted a feladatod, és biztos vagyok benne, hogy sok mondanivalód van.}
+{175}{Over_42}{Én... öö... csak szólni akartam neked, hogy a vízkészletünk stabilizálódott. Igazság szerint már tartalékra is futja. Nagyszerû munkát végeztél... viszont vannak aggályaim.}
+{176}{}{Concerned about what?}
+{177}{}{Uhh?}
+{178}{Over_43}{A jelentéseid nem tetszenek nekem. Mégis miket mondtál... Heh. Az az igazság, hogy halálra rémítettél vele. Az a rengeteg mutáns. Végeztem néhány számítást, és szóval... elég kellemetlen végkövetkeztetésre jutottam.}
+{179}{}{Úgymint?}
+{180}{Over_44}{[Felsóhajt] A mutáns populáció sokkal nagyobb, mint azt a természetes szaporodás illetve mutáció mértéke feltételezné. Ez arra enged következtetni, hogy... nem igazán értem a dolgot. Valaki szemlátomást újabb és újabb mutánsokat hoz létre, és bizony aggasztó ütemben.}
+{181}{}{Elmondaná ezt még egyszer? Zavarodottság nélkül...}
+{182}{}{Akkor kell lennie valahol egy laboratóriumnak.}
+{183}{Over_45}{Valaki mutánsokat hoz létre!}
+{184}{}{Mit kéne tennem?}
+{185}{Over_46}{Pontosan! És ahogy azt valószínûleg kitaláltad, e mutánsok nem természetes körülmények között fogantak, még a háborúból maradt sugárzást is figyelembe véve.}
+{186}{}{Mit akar, mit tegyek ez ügyben?}
+{187}{Over_47}{Amíg valaki ilyen ütemben állítja elõ a mutánsokat, a Menedék biztonsága veszélyben forog. Találd meg és semmisítsd meg a labort, amilyen hamar csak tudod!}
+{188}{}{Okay.}
+{189}{}{Csöbörbõl vödörbe kerülök...}
+{190}{Over_48}{El nem tudod képzelni, mennyire nem szívesen küldelek vissza.}
+{191}{Over_49}{Ó, igen. Hmm... Szóval, szóval, szóval nézzük csak... Van egy rossz hely, ahonnan rossz mutánsok jönnek. Nagyon rossz. Menedék jó. Kérlek, menj, és pusztítsd el a rossz helyet!}
+{192}{Over_50}{Felfedezted már a mutáns laboratóriumot? Jobb lenne, ha azt mondanád, hogy el is pusztítottad.}
+{193}{}{Nem.}
+{194}{}{Még nem, de elég jó nyomon vagyok.}
+{195}{}{Nem, egy kissé megkavarodtam.}
+{196}{}{Nöngh.}
+{197}{Over_51}{Nos, ne add fel a keresést!}
+{198}{Over_52}{Jól van, de siess! Minél több idejük marad a mutánsok termelésére, annál nehezebb lesz leállítani õket.}
+{199}{Over_53}{Az általad ismertetett népsûrûségi adatok alapján szerintem a nyugati fertályra kéne koncentrálnod a keresést.}
+{200}{Over_54}{Milyen hírekkel tudsz szolgálni a mutánsokat illetõen?}
+{201}{}{Kinyírtam a fõgyökeret!}
+{202}{}{Megöltem a Mestert, a mutánsok vezérét.}
+{203}{}{Nöh, öngh. Öh-nöh, nöh.}
+{204}{Over_55}{Kiváló! És mi a helyzet a laborral? Azt is megsemmisítetted?}
+{205}{}{Nem.}
+{206}{}{Meg bizony. Kiirtottam az összes mutánst, és felrobbantottam a gyártótartályaikat. A menedéknek mostantól nincs mitõl félnie.}
+{207}{Over_58}{Büszke lehetsz magadra azért, amit véghezvittél. Tõled függött a sorsunk, és te eleget tettél az elvárásainknak. Beszéljünk hát a jövõdrõl...}
+{208}{Over_59}{Biztos vagy benne? Ha valamit kihagytál, a Menedék vesztét okozhatja. Szerintem jobb lenne, ha visszamennél, és utánanéznél. Próbálkozz nyugaton, úgy tûnik, hemzsegnek ott a mutánsok.}
+{209}{Over_60}{Menj vissza, és találd meg! A Menedék biztonságának érdekében meg kell semmisíteni. Próbálkozz nyugat felé, a mutánsok többsége ott tanyázik.}
+{210}{Over_61}{Hogy mit csináltál? Megölted a mutánsok vezérét?}
+{211}{}{Öh-höh, nöh, höh. Nöh-nöh.}
+{212}{Over_61aS}{Egyre csak jönnek a mutánsok? Meg kell semmisíteni a tartályokat? Felemelõ munka! Menj hát vissza, és intézd el az egészet!}
+{213}{Over_62}{Mik a hírek a mutánsokról?}
+{214}{}{Felrobbantottam õket.}
+{215}{}{A mutánsok tartályainak annyi.}
+{216}{}{Nöhh!}
+{217}{Over_63}{Egytõl-egyig?}
+{218}{}{Hát, az összeset a tartályok környékén.}
+{219}{}{Öh, nöh-nöh.}
+{220}{Over_64}{És mi a helyzet a mutánsok vezérével? Azzal az úgynevezett Mesterrel?}
+{221}{}{Amennyire tudom, még él.}
+{222}{}{Öh-nöh-nöh.}
+{223}{Over_66}{A Mestert meg kell állítani! Ha nem sikerül, újra felépíti a mutánsbirodalmát és minden bizonnyal ránk is lesújt. Amíg a Mester él, a Menedék nincs biztonságban.}
+{224}{Over_68}{Sikerült a mutáns vezért... elintézni?}
+{225}{}{Nem.}
+{226}{}{Ami késik... nem múlik.}
+{227}{}{Nöh.}
+{228}{Over_69}{Tudom, hogy ez nehézséget okoz, de a Mester az a fajta, aki újrateremti mutáns hadseregét, és lecsap ránk. Kérlek, menj vissza, és fejezd be a feladatod!}
+{229}{Over_70}{Hát ez... ez... ez... nagyszerû. Nagyon, de nagyon jó. Látom, kezedbe vetted odakinn az irányítást. Kérlek, fejezd be a feladatod minél hamarabb, hogy te és én... szóval amikor odakint vagy, jusson eszedbe, hogy a Menedék népe hálás, amiért megmentetted õket.}
+{230}{Over_71}{Errõl most ne essen szó. Addig ne, amíg nem rendeztük a dolgainkat. A Menedék szabályai azért vannak, hogy megvédjük magunkat és a fajtánk túlélje a viszontagságokat.}
+{231}{Over_72}{Mi a baj veled? Ellenünk fordultál? Ezt nem engedhetem!}
+{232}{Over_73}{A Hubbeli vízhordó karavánok sorra érkeznek. Megmozgattam az agyam, és bizony aggasztó híreim vannak.}
+{233}{}{Mégpedig?}
+{234}{}{Höh?}
+{235}{Over_74}{Áh, hagyjuk. Próbáld megtalálni azt a csipet. Szerezd meg mindenképp! Továbbra is nagy szükségünk van rá!}
+{236}{Over_75}{A karaván által hozott vízzel elleszünk egy darabig, de nem az idõk végéig. Ráadásul a Hubbeli kereskedõk annyit kérnek, hogy a gatyánk is rámegy. Sokat segít, hálásak vagyunk, meg minden, de ez nem megoldás.}
+{237}{}{Okay.}
+{238}{}{Van még valami, ugye?}
+{239}{Over_76}{Keresd tovább a cserére alkalmas csipet! Az az egyetlen módja a bezártságunkból adódó függetlenségünk és biztonságunk fenntartásának.}
+{240}{Over_77}{Szörnyû kockázatot vállalunk, hogy megmutatjuk ezeknek az embereknek a menedékünk helyét. Megértem a döntésedet, és akár meg is menthet minket, de aggódom. Bízhatunk ezekben az emberekben?}
+{241}{}{Én bízom bennük.}
+{242}{}{Megértem az aggályait.}
+{243}{Over_78}{Biztos vagyok benne, hogy így van, de a hosszútávú túléléshez és gazdasági stabilitáshoz nagy szükségünk van arra a csipre. Nem tudunk annyi mindent termelni, hogy ki tudjuk fizetni ezt a vízmennyiséget, ezért hamarosan fizetésképtelenekké válhatunk. Találd meg azt a csipet!}
+{244}{Over_79}{Biztos vagyok benne, hogy így van, de azt is meg kell értened, hogy milyen nagy szükségünk van arra a csipre. Kérlek, folytasd a keresést!}
+{245}{Over_80}{Kérlek, ne hagyj fel a csip keresésével! Ezek a vizes karavánok hosszútávon problémát fognak okozni.}
+{246}{Over_81}{Megcsináltad! Ez egyszerûen... csodálatos! Elképesztõ! Nagyon büszke vagyok arra, amit tettél, hogy ilyen kitartó voltál. Nincs rá mód, hogy a Menedék népe valaha is megköszönhesse neked, amit tettél. Mindannyiunk életét megmentetted. Ki tudja, talán az egész eberiségét is egyúttal. [A Felvigyázó felsóhajt] Sajnos a hátralévõ mondandómat ez jelentõsen megnehezíti. Mindenki szeretne veled beszélgetni. Minden gyermek felnéz rád, és utánozni akar téged. Erre mi történik? Azt akarják, hogy távozz innen. Mi lesz a Menedékkel, ha elveszítjük egy generáció legjobbját? Mi van akkor, ha mi vagyunk az egyetlen biztonságos hely a világon? Visszaadtad nekünk az életeket... ezért nem kockáztathatom meg, hogy elveszítsem õket. A megbízatásom átvétele óta már nagyon sok nehéz döntést kellett hoznom, de ez mindegyiken túltesz. Megmentettél minket, de egyúttal el is pusztítasz minket. Sajnálom. Hõs vagy... de távoznod kell innen.}
+{247}{Over_100}{Nem tudok errõl semmit.}
+{248}{Over_200}{A víztisztításhoz elengedhetetlen alkatrész. Nélküle ki fogunk fogyni az ivóvízbõl.}
+{249}{Over_201}{Ez az otthonunk. Ha nem lenne, mind meghalnánk. Ha jól bánunk vele, sokáig kitart majd.}
+{250}{Over_202}{Szörnyûség volt. Remélem, megtanultuk a leckét és sohasem történik meg újra..}
+{251}{Over_203}{Honnan tudjak bármit is? Még az itteni dolgokkal sem tudok lépést tartani. Gyanítom, hogy te majd kiokosodsz ezügyben.}
+{252}{}{7500 tapasztalati pontot kaptál, amiért szereztél egy víztisztító csipet a Menedék számára. Gratulálunk!}
+{253}{Over_0ab}{Itt egy fotó róla, hogy könnyebben azonosíthasd.}
+{254}{Over_1a}{Egy hónapod van, hogy megszerezd a csipet, utána kifogy a vizünk.}
+{255}{Over_1b}{Két hónapod van, hogy megszerezd a csipet, utána kifogy a vizünk.}
+{256}{Over_1c}{Négy hónapod van, hogy megszerezd a csipet, utána kifogy a vizünk.}
+{257}{Over_1d}{Öt hónapod van, hogy megszerezd a csipet, utána kifogy a vizünk.}
+{258}{Over_1e}{Hat hónapod van, hogy megszerezd a csipet, utána kifogy a vizünk.}
+{259}{}{Igen, asszem mást kell találnia, hogy a piszkos munkát elvégezze maguknak.}
+{260}{}{Megértem. Mostantól még keményebben ráállok erre a csip témára.}
+{261}{Over_81a}{Megcsináltad! Ez egyszerûen... csodálatos! Elképesztõ! Nagyon büszke vagyok arra, amit tettél, hogy ilyen kitartó voltál.}
+{262}{Over_81b}{Nincs rá mód, hogy a Menedék népe valaha is megköszönhesse neked, amit tettél. Mindannyiunk életét megmentetted. Ki tudja, talán az egész eberiségét is egyúttal. [A Felvigyázó felsóhajt] Sajnos a hátralévõ mondandómat ez jelentõsen megnehezíti.}
+{263}{Over_81c}{Mindenki szeretne veled beszélgetni. Minden gyermek felnéz rád, és utánozni akar téged. Erre mi történik?}
+{264}{Over_81d}{Azt akarják, hogy távozz innen. Mi lesz a Menedékkel, ha elveszítjük egy generáció legjobbját? Mi van akkor, ha mi vagyunk az egyetlen biztonságos hely a világon? Visszaadtad nekünk az életeket... ezért nem kockáztathatom meg, hogy elveszítsem õket.}
+{265}{Over_81e}{A megbízatásom átvétele óta már nagyon sok nehéz döntést kellett hoznom, de ez mindegyiken túltesz. Megmentettél minket, de egyúttal el is pusztítasz minket. Sajnálom. Hõs vagy... de távoznod kell innen.}
+
+# Overseer Tell-Me-Abouts generic responses
+{980}{Over_100}{Nem tudok errõl semmit.}
+
+#
+# Overseer Tell-Me-Abouts
+#
+
+
+{1000}{}{Viz}
+{1001}{}{Menedek}
+{1002}{}{Haboru}
+{1003}{}{Kulvilag}
+{1004}{}{Csip}
+{1005}{}{Konyvtar}
+{1006}{}{Gyogykezeles}
+{1007}{}{Orvos}
+{1008}{}{13-as Menedek}
+{1009}{}{Vault 13}
+{1010}{}{Felvigyazo}
+{1011}{}{Vizcsip}
+
+
+{1100}{Over_200}{A víztisztításhoz elengedhetetlen alkatrész. Nélküle ki fogunk fogyni az ivóvízbõl.}
+{1101}{Over_201}{Ez az otthonunk. Ha nem lenne, mind meghalnánk. Ha jól bánunk vele, sokáig kitart majd.}
+{1102}{Over_202}{Szörnyûség volt. Remélem, megtanultuk a leckét és sohasem történik meg újra.}
+{1103}{Over_203}{Honnan tudjak bármit is? Még az itteni dolgokkal sem tudok lépést tartani. Gyanítom, hogy te majd kiokosodsz ezügyben.}
+{1104}{Over_200}{A víztisztításhoz elengedhetetlen alkatrész. Nélküle ki fogunk fogyni az ivóvízbõl.}
+{1105}{Over_21q}{Nincs most erre idõ!}
+{1106}{Over_21q}{Nincs most erre idõ!}
+{1107}{Over_21q}{Nincs most erre idõ!}
+{1108}{Over_201}{Ez az otthonunk. Ha nem lenne, mind meghalnánk. Ha jól bánunk vele, sokáig kitart majd.}
+{1109}{Over_201}{Ez az otthonunk. Ha nem lenne, mind meghalnánk. Ha jól bánunk vele, sokáig kitart majd.}
+{1110}{Over_21q}{Nincs most erre idõ!}
+{1111}{Over_200}{Ez az otthonunk. Ha nem lenne, mind meghalnánk. Ha jól bánunk vele, sokáig kitart majd.}
+

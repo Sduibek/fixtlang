@@ -1,0 +1,68 @@
+#
+# Inventory messages from inventry.c
+#
+# TRANSLATION NOTE lines 0 to 6: Primary stats: Strength, Perception, Endurance, Charisma, Intelligence, Agility, Luck.
+{0}{}{ER}
+{1}{}{ÉR}
+{2}{}{KI}
+{3}{}{KA}
+
+# TRANSLATION NOTE line 4: Original was "IN" for Intelligence, but "INT" fits width of the others better. Not sure which will look better in non-English languages, you'll just have to try it and see. --Sduibek
+{4}{}{INT}
+{5}{}{ÜG}
+{6}{}{SZ}
+
+# TRANSLATION NOTE lines 7 and 8: Original is "Hit Points" and "Armor Class". If translations of these are too long to fit in the inventory menu (test in-game!), you can just use the translated equivalent of "HP" and "AC" instead. --Sduibek
+{7}{}{Életpont:}
+{8}{}{Védelmi ért.:}
+
+# TRANSLATION NOTE lines 9 to 13: damage type resistances
+{9}{}{ Normál}
+{10}{}{ Lézer}
+{11}{}{ Tûz}
+{12}{}{ Plazma}
+{13}{}{ Robbanó}
+
+# TRANSLATION NOTE line 14: The brackets do not really affect grammar or anything like that, they are just to have it look unique visually, to make it clear to player that the item (hand) slot is empty. --Sduibek
+{14}{}{[No item]}
+
+# TRANSLATION NOTE line 15: Damage of equipped weapon.
+{15}{}{Sebz.:}
+
+# TRANSLATION NOTE line 16: Range in hexes of equipped weapon.
+{16}{}{Táv:}
+
+# TRANSLATION NOTE line 17: Original was "Ammo: " but the names and amounts of ammunitions fits better on the screen with that text removed. It's not needed. Please leave blank. --Sduibek
+{17}{}{} # leave blank
+
+# TRANSLATION NOTE line 18: Referring to an armor item in a hand slot.
+{18}{}{(Nem viseled)}
+
+# TRANSLATION NOTE line 19: Original was "You don't have enough action points to use inventory." This has been changed so that now it fits on 2 lines in the message box (see top of this file). --Sduibek
+{19}{}{Need more Action Points to access inventory.}
+
+# TRANSLATION NOTE line 20: Original was "Total Wt:", Wt being short for "Weight". I changed to lb for "Pounds" because the rest of the game uses pounds for measurements. --Sduibek
+{20}{}{Total lb:}
+{21}{}{Tárgymozgatás}
+{22}{}{Mind}
+
+# TRANSLATION NOTE line 23: Setting the timer on dynamite or plastic explosives.
+{23}{}{Idõzítés}
+
+# TRANSLATION NOTE line 24: Original was "Unarmed dmg:" (note the lowercase "dmg"). Changed to Dmg to match line 15. This is display of damage dealt with bare fists (no item in item slot). --Sduibek
+{24}{}{Pusztak. sebz.:}
+{25}{}{Nem veheted fel. Nem bírsz el több terhet.}
+
+# TRANSLATION NOTE line 26: When an item cannot be placed, due to its size rather than its weight.
+{26}{}{Ennek a tárgynak már nincs hely.}
+
+# TRANSLATION NOTE lines 27 and 28: Lines the NPC will say during Barter.
+{27}{}{Oké, ez jó üzletnek tûnik.}
+{28}{}{Nem, nem elég jó az ajánlatod.}
+
+# TRANSLATION NOTE line 29: %d is a number larger than 1.
+{29}{}{A sikeres lopásért %d tapasztalati pontot kapsz.}
+
+# TRANSLATION NOTE line 30: Same as line 20. Not sure where this is used in-game though, if used at all. --Sduibek
+{30}{}{Total lb:}
+

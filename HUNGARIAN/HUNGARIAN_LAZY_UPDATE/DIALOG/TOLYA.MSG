@@ -1,0 +1,32 @@
+{100}{}{You see a desert bandit with a butcher's knife. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Helló, Tolya vagyok. Úgy látom, épp most estél be a sivatagból. Ki vagy?}
+{102}{}{I'm }
+{103}{}{ a becsületes nevem. Veled mi a helyzet?}
+{104}{}{Mit tudnál mondani a táborotokról?}
+{105}{}{Urg?}
+{106}{}{Fosztogató vagyok, s mint ilyen sokat utazgatok a pusztaság egyik felébõl a másikba. Az utazásaim során utánpótlást szerzek a táborunk számára.}
+{107}{}{Más szavakkal meglopjátok a felkeresett embereket.}
+{108}{}{Nagyon király vagy! Biztos vagyok benne, hogy Garl meg van elégedve veled.}
+{109}{}{Milyen helyeken jártál már?}
+{110}{}{Maradj már, Garl mondta, hogy soha ne beszéljek idegenekkel. Legalább a neved mondd már el!}
+{111}{}{Igazad van. }
+{112}{}{ a nevem. Mondanál valamit a bandádról?}
+{113}{}{Na, figyelj ide, te idióta! Nem kötelességem neked mondani semmit!}
+{114}{}{Húzz innen, te agyatlan!}
+{115}{}{Mi sosem lopunk Mi csak elvesszük a mások maradékát, és elosztjuk az éhezõink között.}
+{116}{}{Kár is szépiteni... ellopjátok.}
+{117}{}{Ez igazán nagy ötlet.}
+{118}{}{Sok helyen jártam már a pusztaságban. A legközelebbi általam is felkeresett helyek Shady Sands és Roncsváros. Nagyon örülnek, amikor beállítunk hozzájuk.}
+{119}{}{Szoktatok Shady Sands-be járni?}
+{120}{}{Hol van Roncsváros?}
+{121}{}{Kezdesz nagyon bosszantó lenni. Azt hiszem, véget vetek ennek a kis problémának...}
+{122}{}{Mi vagyunk a Khan banda, a vezetõnk Garl. A pusztaságban mi vagyunk a leghírhedtebb banda, és nem ok nélkül. Elvesszük, amit akaruink, és akik az utunkba állnak, megfizetnek.}
+{123}{}{Igen, néhanapján el szoktunk menni Shady Sands-be. Egy kis színt visz a gondterheltek életébe.}
+{124}{}{Mi a helyzet Roncsvárossal?}
+{125}{}{Roncsváros nem messze van délre. Jársz néhány mérföldet, és a haldokló kaktusz mellett jobbra fordulsz. Nem lehet eltéveszteni!}
+{126}{}{Azt is mondtad, hogy eljártok Shady Sands-be.}
+{127}{}{Ne zavarj most. Készülõdöm a következõ rajtaütésre.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Tolya, the Khans' resident chef and assistant scav.}

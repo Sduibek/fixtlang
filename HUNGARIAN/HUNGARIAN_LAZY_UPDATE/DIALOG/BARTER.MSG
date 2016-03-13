@@ -1,0 +1,17 @@
+{100}{}{You see: Shady Sands' resident trader.}
+{101}{}{Hello wanderer! I trade and sell goods to the fine people of Shady Sands. Would you like to see my wares?}
+{102}{}{Yes.}
+{103}{}{Nem.}
+{104}{}{Már jó ideje gyötörnek bennünket a radskorpiók. Bárkit is küldtünk az elpusztításukra, egy sem tért vissza. Kapsz tõlem fegyvert és védõöltözéket, ha követsz engem az üregükbe, és mindet elpusztítod.}
+{105}{}{Jól hangzik.}
+{106}{}{Kösz, nem.}
+{107}{}{Hát ez gáz... Akkor távozz, kérlek!}
+{108}{}{Excellent. Talk to Seth then; he will guide you to the lair. Here are the items I promised. They will be useful in the lair.}
+{109}{}{Please help us as soon as possible. Time is of the essence.}
+{110}{}{Nem beszélek a magadfajtákkal, idegen!}
+{111}{}{Thank you for destroying the radscorpions, stranger.}
+#
+# by Sduibek for Fallout Fixt:
+#
+{112}{}{You see a merchant.}
+{113}{}{I'm not going to talk to you unless you holster that weapon, stranger.}
