@@ -1,0 +1,11 @@
+{100}{}{这是一台年久失修的老虎机。最低赌注10元。}
+{101}{}{你投入了10元，并拉下手柄。}
+{102}{}{叮！叮！叮！}
+# TRANSLATION NOTE: The space at the end of 103 is intentional. Do not remove it.
+{103}{}{出了三个榴弹，太棒了！}
+# TRANSLATION NOTE: The space at the beginning of 104 is intentional. Do not remove it.
+{104}{}{ caps drop into the tray and you snatch them up.}
+{105}{}{叮！叮！叮！}
+{106}{}{出了三个子弹。你赢了！15元掉了出来，你赶紧全揣了起来。}
+{107}{}{我靠！输了。}
+{108}{}{你的钱不够玩一次。}

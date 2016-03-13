@@ -1,0 +1,11 @@
+{100}{}{You see a power generator. This must be what supplies electricity to the doors, elevators and lights in this complex.}
+{101}{}{The generator is on.}
+{102}{}{这部发电机是关着的。你想看看是否能打开它。}
+{103}{}{The generator is already on.}
+{104}{}{你打开了发电机的同时，所有的系统都进入在线状态了。}
+{105}{}{你没法打开发电机。}
+{106}{}{以你的修理技能还不能够修理这个系统。}
+
+###Reaching LVL5 exp msg, by Sduibek, for Fallout Fixt
+{107}{}{You hear a constant mechanical humming on this level, which reminds you of something that you can't quite put your finger on...}
+

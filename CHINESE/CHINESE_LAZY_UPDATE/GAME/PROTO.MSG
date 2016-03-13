@@ -1,0 +1,245 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+### Messages for Prototypes
+#
+#
+# strings
+#
+{10}{}{【没有】}
+
+# Material Types
+{100}{}{玻璃}
+{101}{}{金属}
+{102}{}{塑料}
+{103}{}{木制}
+{104}{}{泥土}
+{105}{}{石头}
+{106}{}{水泥}
+{107}{}{皮革}
+
+# Item Types
+{150}{}{装甲}
+{151}{}{容器}
+{152}{}{药物}
+{153}{}{武器}
+{154}{}{弹药}
+{155}{}{杂物}
+{156}{}{钥匙}
+
+# Scenery Types
+{200}{}{门框}
+{201}{}{楼梯}
+{202}{}{电梯}
+{203}{}{向下的梯子}
+{204}{}{向上的梯子}
+{205}{}{布景}
+
+# Damage Code Types
+{250}{}{普通伤害}
+{251}{}{激光}
+{252}{}{火焰}
+{253}{}{电浆}
+{254}{}{电击}
+{255}{}{电磁}
+{256}{}{爆炸}
+
+# Caliber Types for weapons
+{300}{}{没有}
+{301}{}{火箭弹}
+{302}{}{火焰喷射器燃料}
+{303}{}{C型能源电池}
+{304}{}{D型能源电池}
+{305}{}{.223}
+{306}{}{5mm}
+{307}{}{.40 cal}
+{308}{}{10mm}
+{309}{}{.44 cal}
+{310}{}{14mm}
+{311}{}{霰弹枪子弹}
+{312}{}{9mm}
+{313}{}{BB弹}
+{314}{}{RESERVED}#	was .45 cal
+{315}{}{RESERVED}#	was 2mm
+{316}{}{RESERVED}#	was 4.7mm caseless
+{317}{}{RESERVED}#	was HN needler
+{318}{}{RESERVED}#	was 7.62mm
+
+# Race Types
+{350}{}{白人}
+{351}{}{黑人}
+
+# Body Types
+{400}{}{双足}
+{401}{}{四足}
+{402}{}{机器人}
+
+# Kill Types names
+{450}{}{Men:}
+{451}{}{女人}
+{452}{}{小孩}
+{453}{}{超级变种人}
+{454}{}{僵尸}
+{455}{}{双头牛}
+{456}{}{大蝎子}
+{457}{}{Rats:}
+{458}{}{浮游特}
+{459}{}{多脚兽}
+{460}{}{机器人}
+{461}{}{Dogs:}
+{462}{}{小蝎子}
+{463}{}{Deathclaws:}
+{464}{}{The Master}#  Not displayed!
+
+# Kill type info descriptions
+{465}{}{This line shows the number of adult human males that you have permanently and forcefully removed from the gene pool.}
+{466}{}{This is the number of adult human females that you have brutally snuffed out during the course of your adventures.}
+{467}{}{This is how many bright futures of innocent defenseless human children you have shattered with your murderous ways. You cad.}
+{468}{}{This is the total number of big scary Super Mutants that you have skillfully massacred throughout the wastes.}
+{469}{}{This is how many irradiated zombie-like creatures you have laid to rest. Includes both males and females. (Not that they look any different to you anyway.)}
+{470}{}{This is the tally of how many brahmin (mutated two-headed cows) you have chopped up and butchered during your travels.}
+{471}{}{This line shows the number of huge mutated scorpions that you have exterminated as you strode the wastes.}
+{472}{}{This is the number of cute furry rats that you have eliminated from the food chain. Includes all members of the rat family.}
+{473}{}{This is the total number of strange mutated floating creatures that you have happily put to death.}
+{474}{}{This is the tally of how many freakish multi-headed many-legged Centaurs you have had the pleasure of executing.}
+{475}{}{The total number of robots that you have terminated with extreme prejudice, turned into spare parts, or otherwise disabled.}
+{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you jerk.}
+{477}{}{The total number of manti, or oversized mutated preying mantis-like insects, that you have squashed so far.}
+{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn.}
+{479}{}{You have killed the Master. Master! Master.}
+
+# Use text
+{480}{}{你看到：%s。}
+
+# Use Container text
+{485}{}{你仔细的搜查%s。}
+{486}{}{你关上了%s。}
+{487}{}{它是锁着的。}
+
+# Look text
+{490}{}{你看到%s。}
+{491}{}{你看到死去的%s。}
+{492}{}{你看到%s的残骸。}
+{493}{}{那里没什么特别的。}
+
+# Examine text
+# These prepend to lines 518-524
+{500}{}{已经死了}
+{501}{}{奄奄一息}
+{502}{}{身受重伤}
+{503}{}{受了轻伤}
+{504}{}{毫发无损}
+
+# Examine text messages
+{510}{}{AC Mod: %d}
+{511}{}{DR Mod: %d}
+{512}{}{Dmg Mod: %d/%d}
+
+# When examining. unhurt, wounded, almost dead, etc.
+{518}{}{你看上去：%s }
+{519}{}{%s %s }
+{520}{}{你看上去：%s。}
+{521}{}{%s %s.}
+{522}{}{他看上去}
+{523}{}{她看上去}
+{524}{}{它看上去}
+{525}{}{%s has %d/%d hit points.}
+{526}{}{里面有%d/%d发%s}
+
+# These append to lines 500-504
+{530}{}{同时腿断了。}
+{531}{}{但是腿断了。}
+{532}{}{同时腿断了。}
+{533}{}{但是腿断了。}
+{535}{}{He has %d/%d hit points}
+{536}{}{She has %d/%d hit points}
+{537}{}{It has %d/%d hit points}
+
+# Inventory items
+{540}{}{它的重量是 %d 磅。}
+{541}{}{它的重量是 %d 磅。}
+{544}{}{，}
+{545}{}{。}
+
+# Used if player has Awareness
+{546}{}{ 并且使用一把%s。}
+{547}{}{ 并且使用一把%s，里面有 %d/%d发%s。}
+
+# Examine text error messages
+{550}{}{\n错误：检查瓦尔超出范围!}
+{551}{}{\n错误：目标检查：图像调用失败！}
+
+# Use text messages
+{580}{}{你使用了%s。}
+{581}{}{你使用了%s在%s上。}
+{582}{}{That does nothing of interest.}
+{583}{}{你发现它已经死了，你十分伤心。}
+{584}{}{当你到达时，你发现它早已经死了。}
+
+# This is relating to a critter being dead.
+{585}{}{天那, 太迟了。}
+{586}{}{你不能对死者做什么。}
+
+# Flares, obviously
+{587}{}{你点燃一个信号弹。}
+{588}{}{这个信号弹已经点亮了。}
+
+# Explosives
+{589}{}{你设定了时间。}
+{590}{}{计时器已经滴答滴答的响了！}
+
+# Experience-Point messages
+{620}{}{You earn %d experience for killing: %s.}
+{621}{}{%s you earn %d experience.}
+
+# 622-626 prepend to line 621
+{622}{}{你打败敌人}
+{623}{}{你杀死敌人}
+{624}{}{你在战斗中获胜}
+{625}{}{你撕碎了敌人}
+{626}{}{你毫发无损就打败了敌人}
+
+# Dialog messages
+{650}{}{【完成】}
+{651}{}{【更多】}
+{652}{}{[More]}
+{653}{}{【返回】}
+{654}{}{[Back]}
+{655}{}{[Continue]}
+{656}{}{错……}
+{660}{}{你看不到那里。}
+{661}{}{距离太远。}
+
+# Fallout2: Used in PM: CombatAI settings
+{670}{}{Okay.}
+{671}{}{Sure.}
+{672}{}{As you wish.}
+{673}{}{Whatever you say.}
+{674}{}{I'll try.}
+{675}{}{I can't do that.}
+{676}{}{I don't think I can do that.}
+{677}{}{Arf!}
+{678}{}{Woof!}
+
+# Not Enough AP message
+{700}{}{Need more action points.}
+
+# Book messages
+{800}{}{你阅读了那本书。}
+{801}{}{你没有学到什么。}
+{802}{}{You learn about the practical application of science and technology.}
+{803}{}{You learn about mechanical and electronic repair procedures.}
+{804}{}{You learn better ways to heal injuries in the field.}
+{805}{}{You learn how to handle and maintain your guns better.}
+{806}{}{You learn a lot about wilderness survival techniques.}
+
+# Use on messages (and some extra stuff that Jesse needed)
+{900}{}{这个医疗手提袋用完了。}
+{901}{}{这个医疗工具箱用完了。}
+{902}{}{你不能在战斗中做这个。}
+{903}{}{这个人不会与你交易的。}
+{904}{}{这个人不会告诉你什么。}
+{905}{}{你不能把这个物品放进包里，因为超出了你的最大负重。}
+{913}{}{This critter can't carry anything.}

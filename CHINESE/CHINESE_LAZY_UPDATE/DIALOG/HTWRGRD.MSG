@@ -1,0 +1,36 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{100}{}{你看见一个海托的守卫。}
+{101}{}{你最好离开。达伦·海托不喜欢来访者。}
+{102}{}{我们不需要你。}
+{103}{}{离开！}
+{104}{}{你不允许留在这里。}
+{105}{}{走开，不然你会后悔。}
+{106}{}{像你这样的人是不能来这房子对的。}
+# "You are not permitted to enter the house."
+
+{107}{}{What the... Get 'em!}
+{108}{}{到这来你犯了大错了！}
+{109}{}{你在这干什么？你死定了。}
+# "You're dead meat" == "i'm going to kill you"
+
+{110}{}{吼吼，好看。}
+# refering to food
+
+{111}{}{我有双头牛的味道？}
+
+{112}{}{我需要静脉注射！}
+# referring to getting more alcohol
+
+{113}{}{冰箱里有什么？}
+# fridge == refridgerator
+
+{114}{}{怎么这么久？}
+# referring to dinner
+
+{115}{}{我好饿。}
+{116}{}{快好了吗？}
+# referring to dinner.
+
+{117}{}{我快要晕倒了！}

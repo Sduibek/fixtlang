@@ -1,0 +1,510 @@
+{100}{}{皮装甲}
+{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. A lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
+{200}{}{金属装甲}
+{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors, but slows the wearer's mobility somewhat. This model features spikes added to the shoulder, a popular fashion statement this year!}
+{300}{}{动力装甲}
+{301}{}{A model T-51b West Tek self-contained suit of Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics, and enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating, and features a bullet-proof eyeslit on the helmet.}
+{400}{}{刀}
+{401}{}{一种有锋利刀刃和刀尖的武器，你可以用它切东西或捅人。最小力量：2。}
+{500}{}{警棍}
+{501}{}{一根由军队或警察使用的棍子，木头的质地很好。最小力量：3。}
+{600}{}{铁锤}
+{601}{}{一把带长柄的大锤，强壮者的最爱。最小力量：6。}
+{700}{}{矛}
+{701}{}{拥有相当尖利的矛头，矛柄是木质的。最小力量：7。}
+{800}{}{10mm手枪}
+{801}{}{一把6520型10mm自动手枪。每次开火都能自动上膛，直到子弹打完为止。每次只能单发，使用10mm子弹。 最小力量：3。}
+{900}{}{10mm冲锋枪}
+{901}{}{H&K MP9小型冲锋枪，使用10mm子弹。可以单发或者连发。最小力量：4。}
+{1000}{}{.223来复枪}
+{1001}{}{一把半自动的来复枪，使用.223弹药，只能单发使用。最小力量：5。}
+{1100}{}{Flamethrower}
+{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  Min STR: 6}
+{1200}{}{多管机枪}
+{1201}{}{CZ53型多管机枪。多管设计可在每分钟发射60000发子弹，装弹量大，可一次添装120发5mm子 弹。最小力量：7。}
+{1300}{}{火箭发射器}
+{1301}{}{火箭发射器，古时人们称之为火箭筒。3磅的扳机，可使用穿甲型或爆裂型火箭。最小力量：6。}
+{1400}{}{爆裂型火箭}
+{1401}{}{这个火箭弹装有一个大的爆裂型弹头。}
+{1500}{}{电浆来复枪}
+{1501}{}{温彻斯特出品的P94型电浆来复枪。一个工业级的武器，可射出超高温能源光束，使用微型核融电池。最小力量：3，}
+{1600}{}{镭射手枪}
+{1601}{}{瓦仑兹电子1000型激光手枪。非军用设计，释放的能量较小，威力不如军用版的强大。使用小能源电池。最小力量：3。}
+{1700}{}{战斗装甲}
+{1701}{}{First created in 2051, this lightweight, high-tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
+{1800}{}{沙漠之鹰手枪}
+{1801}{}{老旧的沙漠之鹰手枪，使用.44弹药。20世纪末期的电影让这种手枪非常风靡。最小力量：4。}
+{1900}{}{石头}
+{1901}{}{它就是普通的一块石头，如果投向敌人会造成很少的伤害，最小力量：1。}
+{2000}{}{撬棍}
+{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.  Min STR: 5.}
+{2100}{}{铜指虎}
+{2101}{}{硬铜所制的指套，带在手上可以提高你的伤害力度，最小力量：1。}
+{2200}{}{14mm手枪}
+{2201}{}{Sig-Sauer自动手枪，使用14mm弹药。大型的单发手枪，威力上表现还是很不错的。最小力量：4。}
+{2300}{}{攻击来复枪}
+{2301}{}{AK-112攻击来复枪。旧式的军用设计，战后就被淘汰了。使用5mm子弹，可单发或连发。最小力量：5。}
+{2400}{}{电浆手枪}
+{2401}{}{86型电浆手枪。由Gaston Glock AI所设计。使用微型核融电池，可射出超高级能量光束。最小力量：4。}
+{2500}{}{碎片手榴弹}
+{2501}{}{利用碎片来伤人的手榴弹，里面装着一些炸药。爆炸时飞出的碎片将会造成伤害。最小力量：3。}
+{2600}{}{电浆手榴弹}
+{2601}{}{用磁力能源把电浆封住，爆炸后会放出高热电浆把人烧死。最小力量：4。}
+{2700}{}{Grenade (EMP)}
+{2701}{}{电磁振荡波手榴弹，引爆后会发出强大的电磁震动波来干扰机器，对生物不会造成影响。最小力量：4。}
+{2800}{}{加特林镭射机枪}
+{2801}{}{加特林H&K L30型镭射机枪。专门为军方设计，战争开始的时候该枪还在试验阶段，使用微型核融电池，被这种枪打死的人会死的很惨。最小力量：6。}
+{2900}{}{10mm JHP}
+{2901}{}{10mm JHP子弹，可以用它来猎杀变种地鼠！}
+{3000}{}{10mm AP}
+{3001}{}{10mm AP，可穿透装甲。}
+{3100}{}{.44 JHP}
+{3101}{}{一些 .44JHP子弹，弹头是全铁制的。}
+{3200}{}{火焰发射器燃料}
+{3201}{}{装有火焰发射器的燃料小桶。}
+{3300}{}{14mm AP}
+{3301}{}{大口径子弹，可穿透装甲。}
+{3400}{}{.223 FMJ}
+{3401}{}{一盒.223子弹，完全钢制的外壳。}
+{3500}{}{5mm JHP}
+{3501}{}{一箱轻巧的子弹，5mm口径。}
+{3600}{}{5mm AP}
+{3601}{}{一箱轻巧的弹药，5mm口径，可穿透装甲。}
+{3700}{}{穿透型火箭}
+{3701}{}{火箭外壳上有少量炸药，是用来穿透坚固装甲的。}
+{3800}{}{小能源电池}
+{3801}{}{一个小型能源存储设备。}
+{3900}{}{微型核融电池}
+{3901}{}{一个微型能源存储设备。小型的核融发电厂。}
+{4000}{}{治疗针}
+{4001}{}{A stimpak, or stimulation delivery package, is a hand-held portable healing unit that consists of a syringe for containing and delivering the medication, and a gauge for measuring the status of the stimpak's contents. When injected, it provides immediate healing of medium wounds and minor tissue damage. No side effects.}
+{4100}{}{瓶盖}
+{4101}{}{This bag holds your bottle caps; the accepted monetary unit of the post-apocalyptic world. Referred to by some as "Hub script" or simply "scripts", and sometimes by the archaic pre-War term "buck".}
+{4200}{}{冰箱}
+{4201}{}{A refrigerator. Out of coolant. This one is rusted and lonely.}
+{4300}{}{保鲜盒}
+{4301}{}{在这个恶劣的环境里，这个盒子可以延长食物的保存期。}
+{4400}{}{保鲜盒}
+{4401}{}{在这个恶劣的环境里，这个盒子可以延长食物的保存期。}
+{4500}{}{飞刀}
+{4501}{}{一把专门用来投掷的刀，钛金属制造，用激光磨利的刀刃。最小力量：3。}
+{4600}{}{袋子}
+{4601}{}{An average-sized bag, useful for holding things. Made from woven brahma hairs.}
+{4700}{}{医疗用品箱}
+{4701}{}{这个小盒子里装着仪器和药品。}
+{4800}{}{放射药}
+{4801}{}{一种化学药品，可以同放射粒子结合，并且从体内排出。需要一段时间才会见效。}
+{4900}{}{解毒药}
+{4901}{}{一瓶祖传的解毒药，粘稠的液体，里面还有几片毒蝎子的壳。}
+{5000}{}{预留的物品}
+{5001}{}{这是一个预留的物品，请勿使用！}
+{5100}{}{炸药}
+{5101}{}{强大力量的炸药，是用硝化甘油所制，通常用来炸开门或者暗杀。上面有一个计时器。}
+{5200}{}{盖氏计数器}
+{5201}{}{用来计算放射线强度的仪器。}
+{5300}{}{曼他特}
+{5301}{}{一种用来改变脑部的化学药品。可以暂时提高记忆力，让思考反映更快，但是却会使人上瘾。}
+{5400}{}{隐身小子}
+{5401}{}{这是RobCo公司所设计的隐身小子3001型个人隐型装置，它可以让别人的视线直接穿过你而看到你身后的景物。}
+{5500}{}{净水芯片}
+{5501}{}{一个净水计算机系统的芯片。外表和一般的芯片没什么区别，但你的避难所非常需要它！}
+{5600}{}{名牌}
+{5601}{}{这是一个军用的名牌。“黑水”这个名字倒是很易读，也没有其他更多信息了。}
+{5700}{}{窃听器}
+{5701}{}{一个微型话筒和一个信号发射器。}
+{5800}{}{Holodisk}
+{5801}{}{This is a Wattz Electronics Holodisk, designed for THT players. Also called a "holotape" or simply "tape", holodisks are durable laser-readable storage devices based on tape holography technology. Suitable for long-term storage of text, audio, or video, they typically hold 64 to 256 kilobytes of data.}
+{5900}{}{动感探测仪}
+{5901}{}{瓦仑兹C-U型电子动感探知器。可以探知数公尺内任何生物的动作。有这装置可以增加你野外求生的技能。}
+{6000}{}{书架}
+{6001}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6100}{}{书架}
+{6101}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6200}{}{书架}
+{6201}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6300}{}{书架}
+{6301}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6400}{}{书架}
+{6401}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6500}{}{书架}
+{6501}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6600}{}{书桌}
+{6601}{}{A wooden desk. Made of wood, has drawers, holds stuff.}
+{6700}{}{书桌}
+{6701}{}{This desk has seen better days. You wouldn't even trust it to hold a paperweight.}
+{6800}{}{旧桌子}
+{6801}{}{A wooden dresser. Made of wood, has drawers, holds stuff.}
+{6900}{}{旧桌子}
+{6901}{}{This wooden dresser seems to be tired of being mistreated.}
+{7000}{}{旧桌子}
+{7001}{}{A wooden dresser with one working drawer. Not very exciting.}
+{7100}{}{Irradiated Fruit}
+{7101}{}{A strange-looking piece of fruit. It does not look particularly tasty. No preservatives and no additional food coloring added. A low-fat food!}
+{7200}{}{公事包}
+{7201}{}{一个皮革公事包，上面写着美国制造。外表完好，就是上面的密码锁被破坏了。}
+{7300}{}{科学手册}
+{7301}{}{一套讲述关于各种科技知识的书。}
+{7400}{}{皮夹克}
+{7401}{}{A black, heavy leather jacket. You can't help thinking how badass you'd look wearing this, even in the scorching heat of the wastes.}
+{7500}{}{MultiTool}
+{7501}{}{A super tool set, containing various useful tools and gadgets. The aspiring engineer or repairman should never leave home without it!}
+{7600}{}{电子手册}
+{7601}{}{一本教电子科学的书，上面写着“给所有的小小电子工程师”。}
+{7700}{}{电子开锁器}
+{7701}{}{一个用于打开电子锁或安全系统的工具。}
+{7800}{}{模糊的油画}
+{7801}{}{画的是一个歌手，显然这副画相当的古老。上面喷的保护漆让这副画一直保存到现在。}
+{7900}{}{闪光弹}
+{7901}{}{可以在短时间内发出相当明亮的光。纸卷本身已经相当的老，但是信号弹本身却还能够使用。}
+{8000}{}{急救手册}
+{8001}{}{A study book on the concepts and practical use of First Aid skills. Much of the information is pre-War, however it is still applicable to most in-the-field practices and skills.}
+{8100}{}{棒棒蜥蜴}
+{8101}{}{一种小吃，把一只蜥蜴用小木棍串起来的烧烤。}
+{8200}{}{钥匙}
+{8201}{}{这把钥匙可以打开一把特殊的锁。}
+{8300}{}{钥匙环}
+{8301}{}{上面串着许多钥匙。}
+{8400}{}{开锁工具}
+{8401}{}{一套开锁工具，可以打开一般的锁，可以提高一定“开锁”技能。}
+{8500}{}{塑胶炸药}
+{8501}{}{军用的塑胶炸弹，相当稳定，但破坏力很的强，可以用来炸门或者暗杀。上面有一个记时器。}
+{8600}{}{童军手册}
+{8601}{}{上面介绍了许多野外生存的知识。使用后可提升“野外求生”技能。}
+{8700}{}{壮大灵}
+{8701}{}{Highly advanced steroids that were popularized before the Great War by professional athletes and their clandestine use of the drug. While in effect, they increase the user's strength, stamina and reflexes. Very addictive.}
+{8800}{}{手表}
+{8801}{}{一块昂贵的手表。虽然表针已经不动了，但这表看上去还是不错。}
+{8900}{}{摩托}
+{8901}{}{一辆40-hp电单车。}
+{9000}{}{背包}
+{9001}{}{这个背包带有有可随意收放的背带。}
+{9100}{}{大医疗包}
+{9101}{}{This black bag contains many instruments and therapeutic drugs used by doctors in the application of their trade.}
+{9200}{}{Radscorpion Tail}
+{9201}{}{这是被切下来的蝎子尾巴。}
+{9300}{}{袋子}
+{9301}{}{一个普通大小的袋子。用双头牛毛编织而成。}
+{9400}{}{双管猎枪}
+{9401}{}{温彻斯特出品的双管猎枪，使用霰弹枪子弹。最小力量：4。}
+{9500}{}{12-gauge Shotgun Shells}
+{9501}{}{霰弹枪子弹，这上面清楚的标着【3岁以下的孩子禁止使用！】}
+{9600}{}{红色通行卡}
+{9601}{}{一个红颜色的电子锁钥匙卡。}
+{9700}{}{蓝色通行卡}
+{9701}{}{一个蓝颜色的电子锁钥匙卡。}
+{9800}{}{名贵垃圾}
+{9801}{}{一堆垃圾，里面有保险丝、水泵零件等贵重物品，请妥善保管。}
+{9900}{}{黄金纪念品}
+{9901}{}{一个昂贵的黄金纪念品。}
+{10000}{}{对讲机}
+{10001}{}{2043B型无线通讯器，耐用！实用！好用！上边还可以装配另购的RS-121界面。}
+{10100}{}{打火机}
+{10101}{}{银色的气体打火机，成色不错。}
+{10200}{}{枪和子弹}
+{10201}{}{这本书记录了许多小型枪械的使用技巧，使用它可提升“小型枪械”技能。}
+{10300}{}{棒棒蜥蜴}
+{10301}{}{一种小吃，把一只蜥蜴用小木棍串起来的烧烤。}
+{10400}{}{记录磁盘}
+{10401}{}{A Wattz Electronics Play-It-For-Me tape recorder. Plays and records the standard 30-minute high-density Record-It-Once tapes, not to be confused with the newer holodisk technology.}
+{10500}{}{钥匙}
+{10501}{}{一把专用的钥匙。}
+{10600}{}{核子可乐}
+{10601}{}{一瓶核子可乐。温温的，并且已经没气了。这种饮料在战后非常风靡。}
+{10700}{}{骨头}
+{10701}{}{一堆奇形怪状的骨头。}
+{10800}{}{骨头}
+{10801}{}{一堆奇形怪状的骨头。}
+{10900}{}{抗辐射X}
+{10901}{}{Anti-radiation drugs to be taken before exposure, which in the wastes means more or less constantly. No known side effects. Thankfully they have proven to be non-addictive.}
+{11000}{}{疯狂药}
+{11001}{}{一种少见的注射器，里面放着化学药品。是由军方研发出来用于提高士兵战斗力的药物。}
+{11100}{}{.44 FMJ}
+{11101}{}{一箱.44 FMJ子弹}
+{11200}{}{骨灰盒}
+{11201}{}{一个金色精致骨灰盒，上面写着“哈丽特”还有骨灰在这里长眠。}
+{11300}{}{长袍}
+{11301}{}{大教堂教徒的长袍。}
+{11400}{}{堂勒的手}
+{11401}{}{一只生锈的机械手。经常使用让它有些损坏了。}
+{11500}{}{超级铁鎚}
+{11501}{}{一把超级大鎚。由钢铁兄弟会制造，是武器科技的结晶。上面有个动能储蓄器，可以增加敲击的力量。最小力量：5。}
+{11600}{}{开膛手}
+{11601}{}{一支开膛手牌电刀，用电池所驱动。刀口可轻易的切入目标体内。最小力量：5。}
+{11700}{}{花}
+{11701}{}{一朵美丽的花。}
+{11800}{}{镭射来复枪}
+{11801}{}{瓦仑兹2000型镭射来复枪。使用微型核融电池，更长的射程，更大的打击！最小力量：6。}
+{11900}{}{项链}
+{11901}{}{一串看起来很贵的项链。由金银以及钻石所制。}
+{12000}{}{外星人手枪}
+{12001}{}{看起来很奇怪的枪，显然是外星人所制。最小力量：2。}
+{12100}{}{9mm球}
+{12101}{}{A collection of ancient standard 9x19mm rounds, greased heavily to preserve them from the environment. Before the Great War, 9mm was the preferred type of ammunition for small weapons in the south- west Commonwealth, while the military and the Eastern and Western seaboards tended to favor 10mm ammunition.}
+{12200}{}{9mm毛瑟枪}
+{12201}{}{M/96毛瑟枪，使用9mm球。枪的状态还相当的好，相当的有准头。最小力量：3。}
+{12300}{}{意识保护器}
+{12301}{}{一个奇怪的装置，是用怪异的科技制造的。}
+{12400}{}{啤酒}
+{12401}{}{一种自酿的啤酒。}
+{12500}{}{酒}
+{12501}{}{一种古代的酒精饮料，相当浓烈，是战前的产物。}
+{12600}{}{水瓶}
+{12601}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field.}
+{12700}{}{绳子}
+{12701}{}{A strong, thick line of braided fibers. About 20 feet in length.}
+{12800}{}{床底锁箱}
+{12801}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{12900}{}{床底锁箱}
+{12901}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13000}{}{床底锁箱}
+{13001}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13100}{}{床底锁箱}
+{13101}{}{家居必备的，可以当椅子坐在上面，也可以放很多东西在里面，还能锁上它。}
+{13200}{}{锁柜}
+{13201}{}{A storage container. Metal, holds stuff, can be locked.}
+{13300}{}{锁柜}
+{13301}{}{A storage container. Metal, holds stuff, can be locked.}
+{13400}{}{锁柜}
+{13401}{}{A storage container. Metal, holds stuff, can be locked.}
+{13500}{}{锁柜}
+{13501}{}{A storage container. Metal, holds stuff, can be locked.}
+{13600}{}{锁柜}
+{13601}{}{A storage container. Metal, holds stuff, can be locked.}
+{13700}{}{锁柜}
+{13701}{}{A storage container. Metal, holds stuff, can be locked.}
+{13800}{}{锁柜}
+{13801}{}{A storage container. Metal, holds stuff, can be locked.}
+{13900}{}{锁柜}
+{13901}{}{A storage container. Metal, holds stuff, can be locked.}
+{14000}{}{通行卡}
+{14001}{}{一张安全通行卡，还能使用。}
+{14100}{}{主教徽章}
+{14101}{}{一个有大教堂教徒形象的徽章。上面有凹凸的锯齿形状，这几乎让你把它当成一把钥匙。}
+{14200}{}{主教徽章}
+{14201}{}{一个有大教堂教徒形象的徽章。上面有凹凸的锯齿形状，这几乎让你把它当成一把钥匙。}
+{14300}{}{狙击来复枪}
+{14301}{}{DKS-501狙击来复枪。优秀的远程攻击武器。原来用.308弹药，这一把口径小了，但是可以装更多的.233弹药。最小力量：5。}
+{14400}{}{超级治疗针}
+{14401}{}{Also referred to as simply a "superstim", this is a very advanced and powerful piece of healing technology. While it is capable of healing even severe wounds and major tissue damage, it also causes some internal hemorrhaging to the recipient after a short period of time, due to the powerful nature of the chemicals used.}
+{14500}{}{书架}
+{14501}{}{A wooden bookshelf, quietly keeping to itself.}
+{14600}{}{书架}
+{14601}{}{A wooden bookshelf, quietly keeping to itself.}
+{14700}{}{书架}
+{14701}{}{A wooden bookshelf, quietly keeping to itself.}
+{14800}{}{书架}
+{14801}{}{A wooden bookshelf, quietly keeping to itself.}
+{14900}{}{书架}
+{14901}{}{A wooden bookshelf, quietly keeping to itself.}
+{15000}{}{书架}
+{15001}{}{A wooden bookshelf, quietly keeping to itself.}
+{15100}{}{架子}
+{15101}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15200}{}{架子}
+{15201}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15300}{}{架子}
+{15301}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15400}{}{架子}
+{15401}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15500}{}{架子}
+{15501}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15600}{}{架子}
+{15601}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15700}{}{工作台}
+{15701}{}{一个外表很不错的工作台。}
+{15800}{}{工具吊板}
+{15801}{}{这个吊板上有着各种各样的工具，人们喜欢在这里工作。}
+{15900}{}{莫洛托夫酒}
+{15901}{}{一种自制的燃烧瓶，可投向敌人。最小力量：3。}
+{16000}{}{赶畜棒}
+{16001}{}{这是农夫们最喜爱用的工具，面装有小型的电池，会发出电力来电牲口，或是敌人。最小力量：3。}
+{16100}{}{瑞德·瑞格BB枪}
+{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...  Min STR: 3.}
+{16200}{}{限量版瑞德·瑞格BB枪}
+{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock! A true classic. Don't shoot your eye out, kid!  Min STR: 4.}
+{16300}{}{BBs}
+{16301}{}{A box containing BBs from before the war. In excellent condition. Stainless steel.}
+{16400}{}{Brotherhood Disk}
+{16401}{}{A holodisk with information about the Brotherhood of Steel.}
+{16500}{}{卖烤蜥蜴的小摊}
+{16501}{}{鲍伯的蜥蜴美食。难道你真的不想尝尝新鲜的烤蜥蜴吗？}
+{16600}{}{桌子}
+{16601}{}{一张普通的桌子，这东西可以让你不用把东西扔在地上。}
+{16700}{}{桌子}
+{16701}{}{一张普通的桌子，这东西可以让你不用把东西扔在地上。}
+{16800}{}{货物}
+{16801}{}{这些是杂物，又被称作“货物”。}
+{16900}{}{货物}
+{16901}{}{这些是杂物，又被称作“货物”。}
+{17000}{}{货物}
+{17001}{}{这些是杂物，又被称作“货物”。}
+{17100}{}{货物}
+{17101}{}{这些是杂物，又被称作“货物”。}
+{17200}{}{货物}
+{17201}{}{这些是杂物，又被称作“货物”。}
+{17300}{}{货物}
+{17301}{}{这些是杂物，又被称作“货物”。}
+{17400}{}{货物}
+{17401}{}{这些是杂物，又被称作“货物”。}
+{17500}{}{货物}
+{17501}{}{这些是杂物，又被称作“货物”。}
+{17600}{}{货物}
+{17601}{}{这些是杂物，又被称作“货物”。}
+{17700}{}{货物}
+{17701}{}{这些是杂物，又被称作“货物”。}
+{17800}{}{货物}
+{17801}{}{这些是杂物，又被称作“货物”。}
+{17900}{}{货物}
+{17901}{}{这些是杂物，又被称作“货物”。}
+{18000}{}{板条箱}
+{18001}{}{一个木制的板条箱装满了杂物。}
+{18100}{}{书桌}
+{18101}{}{一张普通的书桌。}
+{18200}{}{书桌}
+{18201}{}{一张普通的书桌。}
+{18300}{}{书桌}
+{18301}{}{一张普通的书桌。}
+{18400}{}{书桌}
+{18401}{}{一张普通的书桌。}
+{18500}{}{书桌}
+{18501}{}{一张普通的书桌。}
+{18600}{}{书桌}
+{18601}{}{一张普通的书桌。}
+{18700}{}{书桌}
+{18701}{}{一张普通的书桌。}
+{18800}{}{锁柜}
+{18801}{}{A locker. Can be locked, holds stuff.}
+{18900}{}{锁柜}
+{18901}{}{A locker. Can be locked, holds stuff.}
+{19000}{}{FEV病毒研究磁盘}
+{19001}{}{一片载有医学数据的全息磁盘。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19100}{}{保安磁盘}
+{19101}{}{一片全息磁盘，标签上写着“保安记录”。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{19200}{}{阿尔法试验磁盘}
+{19201}{}{这个全息磁盘上面标着“阿尔法试验记录”。}
+{19300}{}{德尔塔试验磁盘}
+{19301}{}{这个全息磁盘上面标着“德尔塔试验记录”。}
+{19400}{}{The Master's Guns}
+{19401}{}{These are attached to The Master. They look like the standard H&K L30 Gatling Laser but you can't be sure.}
+{19500}{}{钢铁兄弟会磁盘}
+{19501}{}{A holodisk, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the disk to transfer the data to your Pip-Boy 2000.}
+{19600}{}{变种人通话记录磁盘}
+{19601}{}{This holodisk looks like it was set to record audio data from a radio. Use the disk to transfer the information to your Pip-Boy 2000.}
+{19700}{}{箱子}
+{19701}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19800}{}{箱子}
+{19801}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19900}{}{箱子}
+{19901}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20000}{}{箱子}
+{20001}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20100}{}{箱子}
+{20101}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20200}{}{箱子}
+{20201}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20300}{}{箱子}
+{20301}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20400}{}{箱子}
+{20401}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20500}{}{Flare (Lit)}
+{20501}{}{可以在短时间内发出相当明亮的光，纸卷本身已经相当的老，但是信号弹本身却还能够使用。它已经点亮。}
+{20600}{}{Dynamite (Ticking)}
+{20601}{}{强大力量的炸药，是用硝化甘油所制，通常用来炸开门或者暗杀。上面有一个计时器。计时器正在倒计时。}
+{20700}{}{Geiger Counter (Activated)}
+{20701}{}{一个瓦仑兹电子C-Radz型盖氏计算器。用来计算放射线强度的仪器。它已经打开了。}
+{20800}{}{Motion Sensor (Activated)}
+{20801}{}{瓦仑兹电子C-U型动感探知器。可以探知数公尺内任何生物的动作。它已经打开了。}
+{20900}{}{Plastic Explosives (Ticking)}
+{20901}{}{军用的塑胶炸弹，相当稳定，但破坏力很的强，可以用来炸门或者暗杀。上面有一个记时器。计时器正在倒计时。}
+{21000}{}{Stealth Boy (Activated)}
+{21001}{}{这是RobCo公司所设计的隐身小子3001型个人隐型装置，它可以让别人的视线直接穿过你而看到你身后的景物。它已经开始工作了。}
+{21100}{}{尸骨}
+{21101}{}{你看到艾德，他已经死了。}
+{21200}{}{坦蒂}
+{21201}{}{你为为了释放坦蒂而拼命。}
+{21300}{}{吉斯莫的尸体}
+{21301}{}{吉斯莫，曾经是迦克镇的大黑帮头目。现在他死了，并且非常的臭。}
+{21400}{}{书桌}
+{21401}{}{一个书桌，在进一步观察它之后，你发现……它还是一个书桌。}
+{21500}{}{钢铁兄弟会历史磁盘}
+{21501}{}{这个全息磁盘上记载着关于钢铁兄弟会的许多信息。使用磁盘可以把上面的数据下载到哔哔小子里。}
+{21600}{}{马克松的历史}
+{21601}{}{RESERVED}
+{21700}{}{马克松的记录。}
+{21701}{}{RESERVED}
+{21800}{}{轻度伤害治疗}
+{21801}{}{如果你的手被刀割伤了，请购买这个。}
+{21900}{}{中度伤害治疗}
+{21901}{}{如果你在战斗中中弹了，请购买这个。}
+{22000}{}{严重伤害治疗}
+{22001}{}{如果你快死掉了但你还不想死的话，就买这个。}
+{22100}{}{通行卡}
+{22101}{}{一张上面有通行资料的卡，里面有相当简单的电子装置。}
+{22200}{}{开关}
+{22201}{}{一种电子控制设备，上面有相当大的按钮，看起来是最近才制造的，而且是专门为手大的人所设计的。}
+{22300}{}{黄色通行卡}
+{22301}{}{黄色的电子安全门的钥匙。}
+{22400}{}{小雕像}
+{22401}{}{你认为这很有可能是哔哔小子的雕像，但你又不能肯定。}
+{22500}{}{猫爪杂志}
+{22501}{}{一种流行的情色杂志。}
+{22600}{}{一盒面条}
+{22601}{}{你不知道什么是“意大利面条”。}
+{22700}{}{一盒都是灰尘的东西}
+{22701}{}{一盒电视晚餐，你不确定，但是那一定不能吃了}
+{22800}{}{技术手册}
+{22801}{}{A technical repair manual and desk reference for the T-51b Powered Armor. It seems to explain, in lengthy and boring detail, everything you'd ever want to know about Power Armor repair, use and maintenance.}
+{22900}{}{一小台机器}
+{22901}{}{This is a Systolic Motivator. This unusual piece of machinery is very small, but surprisingly heavy for its size. It looks very high-tech but you have no idea what it would be used for.}
+{23000}{}{避难所记录}
+{23001}{}{这是来自避难所计算机上的重要影像，也许已经坏了。}
+{23100}{}{Military Base Password}
+{23101}{}{So much for security. Remember kids, never write down your password.}
+{23200}{}{T-51b动力装甲}
+{23201}{}{A modified suit of T-51b Powered Armor. The chemical hardening process has improved the defensive capability of this high-tech armor system, without hindering mobility or the wearer's protection from radiation.}
+{23300}{}{高速电浆来复枪}
+{23301}{}{一支改造过的温彻斯特P94型电浆来福枪。电浆发射器已被改造了，因此电浆的速度会加快。最小力量：6。}
+{23400}{}{带刺的手指虎}
+{23401}{}{一个改良后的拳套，上面的刺可以造成更多的伤害，在空手战斗中相当有用。最小力量：1。}
+{23500}{}{动力拳击手套}
+{23501}{}{这个手套可以增加你挥拳的力量，很多人都认为这是空手战斗最佳的装备，使用小型电池。最小力量：1。}
+{23600}{}{战斗刀}
+{23601}{}{高级战斗刀，刀身的钢材来自锋锐公司。刀身保证十年内都是尖锐的。最小力量：2。}
+{23700}{}{化学记录}
+{23701}{}{一叠化学的研究记录，其中原子化学的部分尤其有趣。}
+{23800}{}{F.E.V. (Ghoul)}
+{23801}{}{ura ghul brah}
+{23900}{}{钢铁兄弟会装甲}
+{23901}{}{A superior version of Combat Armor. This armor is issued to all Initiates of the Brotherhood of Steel. The Brotherhood has made many improvements over the standard version, both functionally and cosmetically.}
+{24000}{}{德斯拉装甲}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy such as plasma and laser fire. Unlike the basic metal armor it strongly resembles, this armor is an actual pre-War military design. It is in good condition.}
+{24100}{}{.223手枪}
+{24101}{}{.223来福枪改造而成的手枪。这是一只独一无二的武器，显然是由一个武器高手改造出来的。最小力量：5。}
+{24200}{}{战斗霰弹枪}
+{24201}{}{温彻斯特－城市杀手战斗霰弹枪，更适合在空旷的地方使用。最小力量：5。}
+{24300}{}{MacRae's Training}
+{24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
+{24400}{}{Gold Nugget}
+{24401}{}{A nugget of gold.}
+{24500}{}{Alien Blaster CHEAT}
+{24501}{}{You cheating bastard.}
+{24600}{}{Uzi 9mm SMG}
+{24601}{}{This is an Uzi submachine gun, 9mm caliber. Amazingly, it's still in working condition. The Uzi was cheap, light and rarely jammed, which made it a classic amongst drugrunners during the early stages of the 21st century.  Min STR: 3.}
+{24700}{}{Rat Meat}
+{24701}{}{Some chopped-up rat parts. Too bad you didn't read Vault Document VTR-003 "How to Eat Rat", otherwise you'd be able to make it more palatable.}
+{24800}{}{Brahma Meat}
+{24801}{}{Brahma meat is high in vitamins, minerals, fat, protein, and rads. Too bad you don't have time to cook up some tasty brahma burgers!}
+{24900}{}{Dog Meat}
+{24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
+{25000}{}{Ghoul Meat}
+{25001}{}{You're not even sure if this is edible. It smells like death and probably doesn't taste any better.}
+{25100}{}{Deathclaw Meat}
+{25101}{}{Very tough and dry, but almost 100% protein; the most filling and "healthy" meat you'll find in the wastes.}
+{25200}{}{Mantis Chunks}
+{25201}{}{If you pretend it's iguana bits, it's not so bad, except for the crunch. Actually, it's still pretty bad.}
+{25300}{}{Water Flask (Empty)}
+{25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
+{25400}{}{F.E.V. (Super Mutant)}
+{25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
+{25500}{}{Mutated Meat}
+{25501}{}{You watch the meat intently to make sure it's not moving.}

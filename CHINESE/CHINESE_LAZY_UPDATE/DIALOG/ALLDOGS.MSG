@@ -1,0 +1,57 @@
+# The following dialog lines were pulled from these files, which are now blank:
+# DEMODOG
+# DOG2
+# DOGMEAT
+# JUNKDOG
+###############################################################################
+#
+# DEMODOG.MSG
+#
+{100}{}{你看见一条狗，它看起来在跟着你。}
+{101}{}{你看见一条狗。}
+{102}{}{汪汪！}
+{103}{}{唬！}
+{104}{}{似乎这条狗成了你的朋友。}
+{105}{}{You earn 200 experience for befriending the dog.}
+{106}{}{你因为击败了这条狗并让费尔回到屋里得到了335点经验值。}
+#
+# DOG2.MSG
+#
+{107}{}{过来，小狗。}
+{108}{}{叫。叫。}
+{109}{}{出于某些原因，这只狗喜欢你。}
+#
+# DOGMEAT.MSG
+#
+{110}{}{你看到了狗肉。}
+{111}{}{嗷！嗷嗷！嗷！嗷！嗷！嗷！嗷！嗷！}
+{112}{}{【闻闻。闻闻。】 唬！唬！}
+{113}{}{【闻闻。闻闻。】 汪汪！}
+#
+# JUNKDOG.MSG
+#
+{114}{}{你得到１００点经验值，因为你帮菲尔找到他丢失的狗。}
+{115}{}{这狗把你当成它的主人。}
+{116}{}{You earn 35 experience for helping Phil solve his canine conundrum.}
+{117}{}{Woof-woof!}
+{118}{}{Come on, buddy.}
+{119}{}{Stay here and wait, okay?}
+{120}{}{Good dog.}
+{121}{}{Puppie!!!}
+{122}{}{Woof?}
+{123}{}{Arf?}
+#
+# for Fallout Fixt:
+#
+#
+# for Stupid characters (INT <= 3)
+{300}{}{Doggie!! doggie be frend?}
+{301}{}{doggie Stay! no move!}
+{304}{}{Good doggie!}
+#
+#Normal INT
+{302}{}{Move aside, buddy. Good boy.}
+#
+# space is intentional
+{303}{}{ Stupid mutt!}
+

@@ -1,0 +1,7934 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+#
+# FALLOUT BATTLECRIES
+# "When the Bomb Drops, the real fun begins"
+#
+# Version 1.0  May 13, 1997  Scott Bennie
+#         1.1  May 14, 1997  Chris Taylor (edits and line number change)
+#         1.2  June 19, 1997 Leonard, Jason, Chris (edits)
+#	  1.?  2008-2010ish  TeamX and Alchemist
+#	  2.0  July 14, 2011 Sduibek, Fallout Fixt (lots of fixes, filled in all blank entries up to #23 Peasant, modified duplicate and boring/lame entries)
+#	  2.1  Dec 23, 2012  Sduibek, Fallout Fixt (grammar/spelling/etc fixes)
+#
+# Combat AI messages (ranges and chance to display defined in data\data\ai.txt)
+#
+
+# 1. Guard 1 (Professional)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 1 should be used for caravan guards, soldiers, and other professional
+# tough guys who are paid to fight and don't particularly have much
+# of an attitude. It's also very serious in tone.
+#
+#
+#  running away
+#
+{1000}{}{I didn't sign up for this}
+{1001}{}{I don't get paid enough for this}
+{1002}{}{撤退！}
+{1003}{}{Regroup!}
+{1004}{}{我才不要这样就死了！}
+{1005}{}{现在我来收拾你！}
+#
+# moving in to attack
+#
+{1006}{}{I'm going to teach you a lesson}
+{1007}{}{你刚刚犯了一个大错误！}
+{1008}{}{我们这里不喜欢你这种人！}
+{1009}{}{现在我来收拾你！}
+{1010}{}{That was your last mistake}
+{1011}{}{Blood resolves what words can't}
+#
+# attacking
+#
+{1012}{}{Eat this}
+{1013}{}{Think fast!}
+{1014}{}{去死吧！}
+{1015}{}{Second one today...}
+{1016}{}{I enjoy a good workout}
+{1017}{}{你就要死了}
+{1018}{}{让我们看看你有多厉害……}
+{1019}{}{垃圾}
+{1020}{}{攻击！}
+{1021}{}{Let's see how you like this}
+#
+# target being missed
+#
+{1022}{}{Too slow}
+{1023}{}{我干这行很久了，垃圾}
+{1024}{}{你的技术真差}
+{1025}{}{那将会是你最后一个错误}
+{1026}{}{业余的}
+{1027}{}{Is that all you got?}
+#
+# target hit in head
+#
+{1028}{}{Ow! You son of a bitch}
+{1029}{}{我要杀了你}
+{1030}{}{I think I might have a concussion}
+#
+# target hit in left arm
+#
+{1031}{}{That's not good}
+{1032}{}{该死，我的胳膊断了！}
+{1033}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{1034}{}{GAH! I think it's broken...}
+{1035}{}{Fuck that smarts}
+{1036}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{1037}{}{痛！}
+{1038}{}{啊}
+{1039}{}{[Gasp!]}
+{1040}{}{我的肋骨！}
+#
+# target hit in right leg
+#
+{1041}{}{My knee!}
+{1042}{}{你会付出代价的！}
+{1043}{}{My leg's going numb}
+#
+# target hit in left leg
+#
+{1044}{}{Fuck, you broke it!}
+{1045}{}{I hope it doesn't buckle}
+{1046}{}{我的膝盖！}
+#
+# target hit in eyes
+#
+{1047}{}{我看不见了！}
+{1048}{}{我的眼睛！}
+{1049}{}{Fuck! At least I have another one}
+#
+# target hit in groin
+#
+{1050}{}{啊啊啊啊！我的毬！}
+{1051}{}{Fuck, nice shot}
+{1052}{}{You fight dirty}
+{1053}{}{呜！}
+{1054}{}{哇！}
+{1055}{}{真疼}
+
+#
+# 2. Guard 2 (Gung-ho)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 2 should be used for really military types or military wannabes.
+# It's a little over the top in places. He's a little bit conceited.
+#
+#
+#  running away
+#
+{1100}{}{要求支援！}
+{1101}{}{Discretion is the better part of valor}
+{1102}{}{医疗兵！}
+{1103}{}{撤！撤！}
+{1104}{}{撤退！撤退！}
+{1105}{}{也许你会赢得战斗……}
+#
+# moving in to attack
+#
+{1106}{}{Time to put my training to the test!}
+{1107}{}{I'm gonna fucking end you}
+{1108}{}{让我教教你什么叫做礼貌}
+{1109}{}{你已成为历史！}
+{1110}{}{攻击！}
+{1111}{}{让我们埋葬这个失败者！}
+#
+# attacking
+#
+{1112}{}{看招！}
+{1113}{}{现在我来收拾你！}
+{1114}{}{去死吧!}
+{1115}{}{你喜欢这样吗？}
+{1116}{}{Paid for your coffin yet?}
+{1117}{}{不要做你完成不了的事情}
+{1118}{}{你该去向上帝祈祷了！}
+{1119}{}{Time to die!}
+{1120}{}{This will be easy}
+{1121}{}{地狱正等着你！}
+#
+# target being missed
+#
+{1122}{}{Ha! Seriously?}
+{1123}{}{那就是你最厉害的攻击吗？}
+{1124}{}{来啊失败者。来打我啊！}
+{1125}{}{下次瞄准点}
+{1126}{}{土包子}
+{1127}{}{Figures.}
+#
+# target hit in head (3)
+#
+{1128}{}{Uugghh... can't think straight}
+{1129}{}{我的脸！}
+{1130}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{1131}{}{你打断了我的胳膊}
+{1132}{}{一条断手不能阻止我！}
+{1133}{}{I'm going to get you for that}
+#
+# target hit in right arm
+#
+{1134}{}{You broke it!}
+{1135}{}{I didn't need that elbow anyway}
+{1136}{}{Good thing I'm a lefty}
+#
+# target hit in torso
+#
+{1137}{}{喔！一点也不疼}
+{1138}{}{呜！}
+{1139}{}{你会后悔的！}
+{1140}{}{哦！你会付出代价的}
+#
+# target hit in right leg
+#
+{1141}{}{That was a lucky shot}
+{1142}{}{你会付出代价的！}
+{1143}{}{这点小伤不能阻止我！}
+#
+# target hit in left leg
+#
+{1144}{}{啊，我的腿}
+{1145}{}{Take my leg, I'll take your life}
+{1146}{}{你会付出代价的！}
+#
+# target hit in eyes
+#
+{1147}{}{我瞎了！}
+{1148}{}{我的眼睛像火烧一样！}
+{1149}{}{我看不见了！}
+#
+# target hit in groin
+#
+{1150}{}{啊，我的毬！}
+{1151}{}{啊！}
+{1152}{}{哇！}
+{1153}{}{我……不能……呼吸了……}
+{1154}{}{Son of a bitch}
+{1155}{}{你个垃圾……}
+
+#
+# 3. Guard 3 (Sadistic)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 3 is the henchman of really nasty people.
+# He likes to hurt people, and makes no bones about it, and is a bit of a coward.
+#
+#
+#  running away
+#
+{1200}{}{必须叫人过来！}
+{1201}{}{我会回来的……}
+{1202}{}{今天你杀不了我！}
+{1203}{}{你等着，垃圾！}
+{1204}{}{你不会见到我了！}
+{1205}{}{等着，你会付出代价的！}
+#
+# moving in to attack
+#
+{1206}{}{你将会成为历史！}
+{1207}{}{新鲜的肉……}
+{1208}{}{我会在你的坟上跳舞的}
+{1209}{}{兄弟们！它就是靶子！}
+{1210}{}{Bleed, bleed, bleed!}
+{1211}{}{我会享受这一切的……}
+#
+# attacking (10)
+#
+{1212}{}{Gonna sell your corpse to Doc Morbid}
+{1213}{}{不用跪地求饶的……}
+{1214}{}{这是最精采的地方……}
+{1215}{}{Your shoe's untied}
+{1216}{}{我会把你抓去喂狗的}
+{1217}{}{不要干你做不到的事}
+{1218}{}{希望你不要死的那么快}
+{1219}{}{我们其中只有一个可以活着离开}
+{1220}{}{去死！}
+{1221}{}{我早餐就喜欢吃向你这样的垃圾。}
+{1222}{}{我要把你拿去喂我的宠物蜥蜴}
+{1223}{}{我的脸将会是你最后看到的东西}
+{1224}{}{这是我最喜欢的工作}
+#
+# target being missed (6)
+#
+{1225}{}{你真是一个玩笑}
+{1226}{}{那就是你最厉害的攻击吗？}
+{1227}{}{Whatever}
+{1228}{}{Whew, that was close}
+{1229}{}{动作太慢了！}
+{1230}{}{失败}
+#
+# target hit in head (3)
+#
+{1231}{}{不要打脸！}
+{1232}{}{啊！}
+{1233}{}{你打断了我的鼻子！}
+#
+# target hit in left arm
+#
+{1234}{}{啊，我的胳膊}
+{1235}{}{你打断了我的胳膊！}
+{1236}{}{I can get it reattached}
+#
+# target hit in right arm
+#
+{1237}{}{A busted arm ain't stopping me!}
+{1238}{}{你打断了我的手！}
+{1239}{}{I can't feel my fingers...}
+#
+# target hit in torso
+#
+{1240}{}{啊，我的肋骨！}
+{1241}{}{That was your one free shot. Time to die.}
+{1242}{}{我会让你付出代价的}
+#
+# target hit in right leg
+#
+{1243}{}{我的腿！}
+{1244}{}{你会付出代价的！}
+{1245}{}{I can still kill you with a limp}
+#
+# target hit in left leg
+#
+{1246}{}{我的腿！}
+{1247}{}{Argh!}
+{1248}{}{Not enough to stop me, pal}
+#
+# target hit in eyes
+#
+{1249}{}{啊！我的眼睛！}
+{1250}{}{我的眼睛！你会付出代价的！}
+{1251}{}{Fuck! You're history}
+#
+# target hit in groin
+#
+{1252}{}{啊啊啊啊，我的毬！}
+{1253}{}{啊！我必须学会那样移动……}
+{1254}{}{Right in the nuts...}
+{1255}{}{哇！}
+{1256}{}{My girlfriend won't be happy about this}
+{1257}{}{啊！你会付出代价的！}
+
+#
+# 4. Guard 4 (Humorous)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 4 is used when the designer wants to be silly with guards
+#
+#
+#  running away (6)
+#
+{1300}{}{你听见有人叫我了吗？}
+{1301}{}{}
+{1302}{}{救命！}
+{1303}{}{啊啊啊啊啊！}
+{1304}{}{跑啊！}
+{1305}{}{}
+#
+# moving in to attack (6)
+#
+{1306}{}{我会把你揍的像个碎饼干}
+{1307}{}{看！你的鞋带松了！}
+{1308}{}{等着我来揍你……}
+{1309}{}{}
+{1310}{}{我会好好的教训你}
+{1311}{}{}
+#
+# attacking (10)
+#
+{1312}{}{接招！}
+{1313}{}{现在你是我的！}
+{1314}{}{现在你是我的！}
+{1315}{}{你喜欢这样吗？}
+{1316}{}{吃我一下}
+{1317}{}{这将会成为你一生中最后的经历}
+{1318}{}{我不会后悔的，不是吗？}
+{1319}{}{}
+{1320}{}{}
+{1321}{}{}
+#
+# target being missed (6)
+#
+{1322}{}{哈，打不中我！}
+{1323}{}{耶，耶！}
+{1324}{}{哈！}
+{1325}{}{耶，耶！}
+{1326}{}{真是一个笨蛋}
+{1327}{}{打不到我}
+#
+# target hit in head (3)
+#
+{1328}{}{看看我的头发！}
+{1329}{}{我的发型！我新烫的发型！}
+{1330}{}{我的发型！我的发型！}
+#
+# target hit in left arm
+#
+{1331}{}{啊，我的胳膊}
+{1332}{}{啊！}
+{1333}{}{啊，离开它！}
+#
+# target hit in right arm
+#
+{1334}{}{啊，我的胳膊}
+{1335}{}{啊！}
+{1336}{}{啊，离开它！}
+{1337}{}{我不想成为左撇子！}
+#
+# target hit in torso
+#
+{1338}{}{痛！}
+{1339}{}{那样很不好}
+{1340}{}{你应该为你做的事道歉。我确信}
+{1341}{}{我想我要晕了}
+{1342}{}{你认为我是什么，一个沙袋吗？}
+{1343}{}{你这样很不好}
+#
+# target hit in right leg
+#
+{1344}{}{啊，我的腿}
+{1345}{}{啊！不要那样做！}
+{1346}{}{！}
+#
+# target hit in left leg
+#
+{1347}{}{啊，我的腿}
+{1348}{}{啊！你什么意思！}
+{1349}{}{}
+#
+# target hit in eyes
+#
+{1350}{}{天怎么黑了？}
+{1351}{}{人都到哪去了？}
+{1352}{}{嗷，我的眼睛！}
+#
+# target hit in groin
+#
+{1353}{}{啊啊啊啊！我的毬！}
+{1354}{}{那里快要被烧掉了！}
+{1355}{}{那里快要被烧掉了！}
+{1356}{}{我……不能……呼吸了……}
+{1357}{}{}
+{1358}{}{疼啊，疼啊……}
+
+#
+# 5. Guard 5 (Perfunctory)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 5 is a guard who doesn't say much, or when he does, it's pretty short.
+#
+#
+#  running away (6)
+#
+{1400}{}{不要过来}
+{1401}{}{再见！}
+{1402}{}{啊啊啊啊啊！}
+{1403}{}{Fuck this}
+{1404}{}{I'm out}
+{1405}{}{See ya 'round}
+#
+# moving in to attack
+#
+{1406}{}{Gonna fuck you up}
+{1407}{}{你已经成为历史！}
+{1408}{}{游戏时间结束了}
+{1409}{}{不要垂死挣扎了}
+{1410}{}{我来处理}
+{1411}{}{Let's go!}
+#
+# attacking
+#
+{1412}{}{看招！}
+{1413}{}{去死！}
+{1414}{}{失败}
+{1415}{}{垃圾}
+{1416}{}{Eat it, whore}
+{1417}{}{希望那很疼}
+{1418}{}{Say a prayer}
+{1419}{}{Don't flinch}
+{1420}{}{我会给你挖坟的}
+{1421}{}{你死定了}
+#
+# target being missed
+#
+{1422}{}{打不中我！}
+{1423}{}{没有瞄准}
+{1424}{}{Pathetic}
+{1425}{}{你太慢了}
+{1426}{}{你真没用}
+{1427}{}{Ha!}
+#
+# target hit in head
+#
+{1428}{}{Fuck that hurt!}
+{1429}{}{My face!}
+{1430}{}{啊！我的鼻子……}
+#
+# target hit in left arm
+#
+{1431}{}{啊！}
+{1432}{}{啊！我的胳膊！}
+{1433}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{1434}{}{Not again...}
+{1435}{}{My arm!}
+{1436}{}{Payback time}
+#
+# target hit in torso
+#
+{1437}{}{啊！}
+{1438}{}{哎唷！}
+{1439}{}{痛！}
+{1440}{}{[Gasp!]}
+{1441}{}{哇！}
+{1442}{}{唔！}
+#
+# target hit in right leg
+#
+{1443}{}{啊！}
+{1444}{}{啊！啊，我的膝盖！}
+{1445}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{1446}{}{Shit!}
+{1447}{}{My leg!}
+{1448}{}{My knee...}
+#
+# target hit in eyes
+#
+{1449}{}{我瞎了！}
+{1450}{}{我看不见了！}
+{1451}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{1452}{}{我的毬！}
+{1453}{}{哎呦！}
+{1454}{}{他妈的真疼啊}
+{1455}{}{哇！}
+{1456}{}{呜！}
+{1457}{}{Ohhhhh, it burns!}
+
+#
+# 6. Guard 6 (Smartass)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Guard 6 is a guard who says a lot of wisecracks. Somewhat conceited.
+#
+#
+#  running away (6)
+#
+{1500}{}{I'm outta here! Lunchtime}
+{1501}{}{我要走了！}
+{1502}{}{Whoops, picked the wrong opponent}
+{1503}{}{也许那不是个好主意}
+{1504}{}{你不能从这里完好无缺的出去！}
+{1505}{}{Just kidding}
+#
+# moving in to attack (6)
+#
+{1506}{}{时间越长，人数越多}
+{1507}{}{一个守卫的工作从不被做}
+{1508}{}{Your face might look better in pieces}
+{1509}{}{没有下次了。子弹很贵的！}
+{1510}{}{他们最好不要让我去埋死尸}
+{1511}{}{你以为你是谁？}
+#
+# attacking
+#
+{1512}{}{这里有个专业人员在工作}
+{1513}{}{你今天早晨不该起床的}
+{1514}{}{你是睡在垃圾堆里的地鼠}
+{1515}{}{Let's see if you fight better than your grandma}
+{1516}{}{我会让你永远休息的……}
+{1517}{}{Like taking candy from a baby...}
+{1518}{}{它是最适合的生存形态，不过你超出了}
+{1519}{}{I'd rather be sailing}
+{1520}{}{下地狱吧！}
+{1521}{}{我将是你最后见到的人！}
+#
+# target being missed
+#
+{1522}{}{我不是那么容易被打中的}
+{1523}{}{Awwww, did you miss me?}
+{1524}{}{继续瞄准，总有一天你会打到！}
+{1525}{}{Nice one, dumbass}
+{1526}{}{想要我仍然站在你面前？}
+{1527}{}{I almost flinched}
+#
+# target hit in head
+#
+{1528}{}{Now I won't hear your screams}
+{1529}{}{我的脑袋嗡嗡作响！}
+{1530}{}{Ow! My ear! Oh wait, I have a spare.}
+#
+# target hit in left arm
+#
+{1531}{}{Aw, but I liked that arm!}
+{1532}{}{There it goes...}
+{1533}{}{哦……你很难让人消除敌意……}
+#
+# target hit in right arm
+#
+{1534}{}{That hand was my favorite!}
+{1535}{}{It's broken, like my heart. I hate you.}
+{1536}{}{Loosened my grip a bit}
+#
+# target hit in torso
+#
+{1537}{}{你一定认为你很漂亮}
+{1538}{}{That's all you got? Ugh}
+{1539}{}{Oof! Bitch!}
+{1540}{}{你还想再试一次？}
+{1541}{}{我敢打赌，你长大后会像我一样优秀}
+{1542}{}{至少，那不像你的脸一样丑陋！}
+{1543}{}{哎呦！该死！}
+#
+# target hit in right leg
+#
+{1544}{}{Where's my foot?}
+{1545}{}{只是擦伤……还有一些坏掉的骨头}
+{1546}{}{我用不到那个膝盖}
+#
+# target hit in left leg
+#
+{1547}{}{Now I've only got ONE left feet}
+{1548}{}{Where's my knee gone to this time?}
+{1549}{}{Great, now I gotta grow a new one. Dick.}
+#
+# target hit in eyes
+#
+{1550}{}{我瞎了！}
+{1551}{}{现在我看不到你那丑陋的脸了}
+{1552}{}{Oh well, I can still smell you}
+#
+# target hit in groin
+#
+{1553}{}{我的毬！我的毬！}
+{1554}{}{下三滥的手段！}
+{1555}{}{No more kids for me}
+{1556}{}{我的性福生活不会有了！}
+{1557}{}{哦，真疼！}
+{1558}{}{啊！那就是我所说的痛苦！}
+
+#
+# 7. Guard 7 (Rookie)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# "I can hit a target real good when it ain't moving. I'm sure looking forward
+# to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+#
+#
+#  running away
+#
+{1600}{}{嗨，我会死在这儿的！}
+{1601}{}{也许这不是个好主意}
+{1602}{}{I quit! You win.}
+{1603}{}{Help! I'm scared!}
+{1604}{}{啊啊啊啊啊！}
+{1605}{}{让我离开这里！}
+#
+# moving in to attack
+#
+{1606}{}{最后，一些真正的攻击！}
+{1607}{}{你我不应该吧事情弄糟！}
+{1608}{}{现在我可以证明自己在战斗中！}
+{1609}{}{这是它……对吗？}
+{1610}{}{Gotta turn off the safety this time}
+{1611}{}{这是个玩笑！}
+#
+# attacking
+#
+{1612}{}{看招！}
+{1613}{}{现在我来收拾你！}
+{1614}{}{This is great!}
+{1615}{}{你喜欢这样吗？}
+{1616}{}{去死，你这个变态袭击者！}
+{1617}{}{你这个变态变异人！}
+{1618}{}{攻击！}
+{1619}{}{Stop moving!}
+{1620}{}{Don't scream, it scares me}
+{1621}{}{Don't bleed too much}
+#
+# target being missed
+#
+{1622}{}{哈，打不中我！}
+{1623}{}{你打偏了！}
+{1624}{}{灵活的闪避，哈？}
+{1625}{}{那就是你最厉害的攻击吗？}
+{1626}{}{嗨！那样很疼的！}
+{1627}{}{Hey, watch it, that was close!}
+#
+# target hit in head
+#
+{1628}{}{Can we take a timeout?}
+{1629}{}{我的脸！你都做了些什么！}
+{1630}{}{啊啊啊啊！我的脸！不！不！}
+#
+# target hit in left arm
+#
+{1631}{}{Seriously? Now I can't fight}
+{1632}{}{My arm, my arm!}
+{1633}{}{Oh shit, no!}
+#
+# target hit in right arm
+#
+{1634}{}{That was my shooting hand!}
+{1635}{}{我的手，你对它做了些什么？}
+{1636}{}{啊啊啊！}
+#
+# target hit in torso
+#
+{1637}{}{啊！}
+{1638}{}{Damn, that does hurt}
+{1639}{}{啊！啊！啊！}
+{1640}{}{我不能确定如果我喜欢这……}
+{1641}{}{我会好好对待的，我只是新手}
+{1642}{}{哇！}
+{1643}{}{啊！}
+{1644}{}{啊！真疼！}
+#
+# target hit in right leg
+#
+{1645}{}{Come on, I need that!}
+{1646}{}{My leg! What have you done?}
+{1647}{}{啊啊啊！}
+#
+# target hit in left leg
+#
+{1648}{}{啊，我的腿}
+{1649}{}{My leg! No...}
+{1650}{}{I needed that for running away...}
+#
+# target hit in eyes
+#
+{1651}{}{我看不见了！}
+{1652}{}{我的眼睛！}
+{1653}{}{救我！}
+#
+# target hit in groin
+#
+{1654}{}{啊！我的毬！}
+{1655}{}{呜呜呜，你这卑鄙的……}
+{1656}{}{呜！}
+{1657}{}{这是我的内脏吗？}
+{1658}{}{我……不能……呼吸了……}
+{1659}{}{他妈的，真疼啊！}
+
+#
+# 8. Bouncer  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Bouncer is a professional. Fighting scum is his business. The opponent is another loser who's caused too much trouble.
+#
+#
+#  running away
+#
+{1700}{}{我不能参与！}
+{1701}{}{这个工作不值得我这样卖力！}
+{1702}{}{我必须逃走！}
+{1703}{}{那里是逃跑路线……}
+{1704}{}{我没有牛肉给你}
+{1705}{}{让我离开这个呆子}
+#
+# moving in to attack
+#
+{1706}{}{没有其他小流氓！}
+{1707}{}{你刚刚越过了警戒线！}
+{1708}{}{你不能带着它从这里逃走！}
+{1709}{}{Not on my watch, buddy!}
+{1710}{}{我要羞辱你！}
+{1711}{}{[sigh] Not again...}
+#
+# attacking
+#
+{1712}{}{我就是这样对待找麻烦的人的！}
+{1713}{}{把灯关掉……}
+{1714}{}{这件事教你不要惹麻烦}
+{1715}{}{我要把你剖开！}
+{1716}{}{I'll turn your pain to eleven}
+{1717}{}{让我们看看你有多厉害……}
+{1718}{}{我认为你会受到猛烈的射击，对不对？}
+{1719}{}{不要做你不能完成的事}
+{1720}{}{你想这样逃跑吗？}
+{1721}{}{我早餐喜欢吃像你这样的妓女}
+#
+# target being missed
+#
+{1722}{}{你让我的工作容易了}
+{1723}{}{没有瞄准，哥们}
+{1724}{}{男人，你的手真没劲！}
+{1725}{}{那就是你最厉害的攻击吗？}
+{1726}{}{你不希望跟着我，不是吗？}
+{1727}{}{来啊，小白脸。来打我啊！}
+#
+# target hit in head
+#
+{1728}{}{你打破了我的鼻子！}
+{1729}{}{啊！诅咒你！}
+{1730}{}{他妈的！真疼！}
+#
+# target hit in left arm
+#
+{1731}{}{啊，我的胳膊}
+{1732}{}{我要把你像那样冻起来！}
+{1733}{}{那是一个错误}
+#
+# target hit in right arm
+#
+{1734}{}{You sunnovabitch}
+{1735}{}{我要为那事揍你！}
+{1736}{}{Whatever, I can still kill you without it}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{1737}{}{没有其他断腿了！}
+{1738}{}{啊！}
+{1739}{}{那是一个错误}
+#
+# target hit in left leg
+#
+{1740}{}{啊！你想把我切开吗！}
+{1741}{}{Bad move, buddy}
+{1742}{}{真疼……}
+#
+# target hit in eyes
+#
+{1743}{}{I can't see! Cheap shot}
+{1744}{}{Ouch! That's it, you're gonna get it}
+{1745}{}{我不用看见就能扭断你的脖子，年轻人！}
+#
+# target hit in groin
+#
+{1746}{}{啊啊啊！打中了卵蛋！}
+{1747}{}{Do that again and I'll end you}
+{1748}{}{Shit that stings!}
+{1749}{}{Ack! My jewels! Not cool.}
+{1750}{}{Gonna need some ice}
+{1751}{}{Urp! Nice aim...}
+
+#
+# 9. Loser  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Loser don't want no trouble. How's he survived so long?
+#
+#
+#  running away
+#
+{1800}{}{饶了我吧！}
+{1801}{}{救救我啊！}
+{1802}{}{请住手！}
+{1803}{}{救命！}
+{1804}{}{啊啊啊啊啊！}
+{1805}{}{[crying]}
+#
+# moving in to attack
+#
+{1806}{}{嗯，唔，住手！}
+{1807}{}{我不喜欢你这种人……}
+{1808}{}{我真的认为它不会就这样……}
+{1809}{}{I don't wanna get hurt}
+{1810}{}{我猜我应该保护自己}
+{1811}{}{Here goes nothing}
+#
+# attacking
+#
+{1812}{}{看招！}
+{1813}{}{你不能就这样开始！}
+{1814}{}{你找的是这个！}
+{1815}{}{你喜欢这样吗？}
+{1816}{}{You made this happen}
+{1817}{}{你这个畜生！}
+{1818}{}{我不想这样做！}
+{1819}{}{Stand still for a second}
+{1820}{}{我不希望战斗，但是……}
+{1821}{}{你真下流！}
+#
+# target being missed
+#
+{1822}{}{Shit, that was close!}
+{1823}{}{你打不中我！}
+{1824}{}{喔，那伤不了我！}
+{1825}{}{吆！我仍然活着！}
+{1826}{}{嗨！那样很疼的！}
+{1827}{}{Oh good, nothing bleeding}
+#
+# target hit in head
+#
+{1828}{}{我的脸！我的脸！}
+{1829}{}{Fuck! That hurt!}
+{1830}{}{Oh god!}
+#
+# target hit in left arm
+#
+{1831}{}{Oh no!}
+{1832}{}{啊！}
+{1833}{}{你打断了我的胳膊}
+#
+# target hit in right arm
+#
+{1834}{}{My arm...}
+{1835}{}{哇哈哈哈！}
+{1836}{}{我的天哪！我的胳膊}
+#
+# target hit in torso
+#
+{1837}{}{啊！那样真疼！}
+{1838}{}{我想我要晕了}
+{1839}{}{哎唷！}
+{1840}{}{I need some fresh air after that}
+{1841}{}{攻击！}
+{1842}{}{让我单独待会！}
+{1843}{}{呜呜呜，真疼！}
+#
+# target hit in right leg
+#
+{1844}{}{Why? WHY?}
+{1845}{}{Yep, definitely broken.}
+{1846}{}{How am I supposed to walk now?}
+#
+# target hit in left leg
+#
+{1847}{}{Owww, my leg's useless!}
+{1848}{}{啊，我的膝盖}
+{1849}{}{啊啊啊喔喔喔噢噢噢！}
+#
+# target hit in eyes
+#
+{1850}{}{我瞎了！上帝啊，我瞎了！}
+{1851}{}{我的脸！我的眼睛！啊啊啊啊！}
+{1852}{}{My eyes! What have you done to my eyes!?}
+#
+# target hit in groin
+#
+{1853}{}{啊啊啊！我的毬！喔喔喔……}
+{1854}{}{啊……它烧焦了！}
+{1855}{}{Everything... going... black...}
+{1856}{}{啊！喔喔……}
+{1857}{}{我……不能……呼吸了……}
+{1858}{}{疼啊，疼啊……}
+
+#
+# 10. Berserker  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Berserker just want trouble. How's he survived so long?
+#
+#
+#  running away
+#
+{1900}{}{我正带着它逃亡}
+{1901}{}{我会回来的！}
+{1902}{}{你等着，垃圾！}
+{1903}{}{这是个笑话，但是我要走了！}
+{1904}{}{等会，你会付出代价的！}
+{1905}{}{让我们再来一次！}
+#
+# moving in to attack
+#
+{1906}{}{我要拧下你的耳朵！}
+{1907}{}{Fresh meat! Delicious}
+{1908}{}{你占用了我的时间！}
+{1909}{}{你会成为我的婊子的！}
+{1910}{}{You're fucking history, pal}
+{1911}{}{我要带走你的碎肉！}
+#
+# attacking
+#
+{1912}{}{Stop screaming, it's annoying}
+{1913}{}{Hope you're not afraid of blood}
+{1914}{}{不要求饶了。死是很一种解脱。}
+{1915}{}{我希望你不要死的那么快}
+{1916}{}{还有什么遗言？}
+{1917}{}{看招！}
+{1918}{}{去死！去死！去死！去死！去死！}
+{1919}{}{Wanna see your insides?}
+{1920}{}{让我把你剖开……}
+{1921}{}{你会成为狗食的，朋友。}
+#
+# target being missed
+#
+{1922}{}{你不可能正好打中我}
+{1923}{}{Haha, nice.}
+{1924}{}{来啊，垃圾。来打我啊！}
+{1925}{}{那就是你最厉害的攻击吗？}
+{1926}{}{这比我想象的要容易}
+{1927}{}{Wow, how are you still alive?}
+#
+# target hit in head
+#
+{1928}{}{那会成为一个很酷的伤疤！}
+{1929}{}{我生气了}
+{1930}{}{再来一次，猪}
+#
+# target hit in left arm
+#
+{1931}{}{你打伤了我！}
+{1932}{}{Nice shot. Mine will be better.}
+{1933}{}{你打断了我的胳膊，但是我会捏碎你的脖子}
+#
+# target hit in right arm
+#
+{1934}{}{Oh so that's how you wanna play it?}
+{1935}{}{只是个擦伤……}
+{1936}{}{Break my arm, I'll break your neck...}
+#
+# target hit in torso
+#
+{1937}{}{Alright bitch, you're gonna die}
+{1938}{}{喔！我会像那样捏碎你的脖子……}
+{1939}{}{Merely a flesh wound, unlike yours.}
+{1940}{}{Oof! Is that all you got?}
+{1941}{}{我喜欢肋骨断裂的声音！}
+{1942}{}{That hurts, but I'm still pissed off}
+{1943}{}{Arg! Come here and try that again}
+#
+# target hit in right leg
+#
+{1944}{}{我喜欢听骨头破碎的声音}
+{1945}{}{Nope, still attached.}
+{1946}{}{I think you broke it. Die!}
+#
+# target hit in left leg
+#
+{1947}{}{我喜欢听骨头破碎的声音}
+{1948}{}{Whatever, I can still end you}
+{1949}{}{That hurt a bit, but not enough}
+#
+# target hit in eyes
+#
+{1950}{}{Hey, I'm blind. Big deal.}
+{1951}{}{我看不见了。我会还回来的}
+{1952}{}{My eyes! Bitch!}
+#
+# target hit in groin
+#
+{1953}{}{Oof, my junk!}
+{1954}{}{还可以正常移动}
+{1955}{}{Try that... again... [gasp]}
+{1956}{}{That's it, you're fucking dead!}
+{1957}{}{那就是你的攻击方式}
+{1958}{}{啊！}
+
+#
+# 11. Peasant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I work the land. Is this is what I get for years of hard work?
+# Some well-armed troublemaker who's making my life miserable?
+#
+#
+#  running away
+#
+{2000}{}{请打别人吧！}
+{2001}{}{原谅我吧！}
+{2002}{}{救救我吧！}
+{2003}{}{请住手！}
+{2004}{}{Go away, I didn't do anything!}
+{2005}{}{我不能这样做！}
+#
+# moving in to attack
+#
+{2006}{}{等我抓到你……}
+{2007}{}{Why are you doing this?}
+{2008}{}{嗨，就是你！}
+{2009}{}{你在这里不受欢迎}
+{2010}{}{没有人能接手这个地方……}
+{2011}{}{你以为你是谁？}
+#
+# attacking
+#
+{2012}{}{I needed a workout}
+{2013}{}{Where's that damn shovel?}
+{2014}{}{这就是我们处理害虫的方法！}
+{2015}{}{你这个变态变异人！}
+{2016}{}{You ain't takin' me without a fight}
+{2017}{}{我要把你喂狗}
+{2018}{}{学着点年轻人！}
+{2019}{}{很好。你要的是这个。}
+{2020}{}{你这个畜生！}
+{2021}{}{When in Rome...}
+#
+# target being missed
+#
+{2022}{}{It must be my lucky day}
+{2023}{}{我见到过比你有教养的人}
+{2024}{}{Whew! Close one}
+{2025}{}{我是不会被打到的}
+{2026}{}{感谢上帝}
+{2027}{}{你打偏了！}
+#
+# target hit in head
+#
+{2028}{}{该死，真疼啊！}
+{2029}{}{啊啊啊！}
+{2030}{}{Ooooo, shit!}
+#
+# target hit in left arm
+#
+{2031}{}{啊啊啊啊！我的胳膊}
+{2032}{}{Ow, ow, ow!}
+{2033}{}{Oh come on, I needed that!}
+#
+# target hit in right arm
+#
+{2034}{}{啊啊啊啊！我的胳膊}
+{2035}{}{Noooo.....}
+{2036}{}{I think you broke it!}
+#
+# target hit in torso
+#
+{2037}{}{Damn!}
+{2038}{}{那真疼啊……}
+{2039}{}{啊！}
+{2040}{}{哎唷！}
+{2041}{}{Guh!}
+{2042}{}{哇！}
+{2043}{}{啊！}
+#
+# target hit in right leg
+#
+{2044}{}{啊啊啊啊！我的腿}
+{2045}{}{I need a chair}
+{2046}{}{我的腿！}
+#
+# target hit in left leg
+#
+{2047}{}{啊啊啊啊！我的腿}
+{2048}{}{Great, there goes my job}
+{2049}{}{Ow! No!}
+#
+# target hit in eyes
+#
+{2050}{}{啊啊啊啊！我瞎了！}
+{2051}{}{该死，下地狱吧！}
+{2052}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{2053}{}{哎呦}
+{2054}{}{呜呜呜呜呜！}
+{2055}{}{我……不能……呼吸了……}
+{2056}{}{Oh no...}
+{2057}{}{疼啊，疼啊……}
+{2058}{}{该死！}
+
+#
+# 12. Careful  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't want to fight. Just let me walk away. Please?
+#
+#
+#  running away
+#
+{2100}{}{我要走了！}
+{2101}{}{饶了我吧！饶了我吧！}
+{2102}{}{请住手！}
+{2103}{}{救命！}
+{2104}{}{Go away!}
+{2105}{}{我必须阻止它混合}
+#
+# moving in to attack
+#
+{2106}{}{Can't we settle this?}
+{2107}{}{Do we really have to do this?}
+{2108}{}{我真不想这样做}
+{2109}{}{我要拖住你}
+{2110}{}{Are you sure this is a good idea?}
+{2111}{}{希望我不会受伤}
+#
+# attacking
+#
+{2112}{}{I'm really not in the mood for this}
+{2113}{}{你找的是这个！}
+{2114}{}{我没有打架的心情，但是……}
+{2115}{}{I didn't ask for this!}
+{2116}{}{为什么你要这样开始？}
+{2117}{}{我不想这样做！}
+{2118}{}{不要拿私人物品……}
+{2119}{}{希望我伤的你不重}
+{2120}{}{你要了解是你先找事的}
+{2121}{}{Self defense!}
+#
+# target being missed
+#
+{2122}{}{吆！}
+{2123}{}{你真的不该做这件事}
+{2124}{}{嗨！那样很疼的！}
+{2125}{}{我们不是好战份子}
+{2126}{}{暴力并不能真正解决问题}
+{2127}{}{你的心不在这里}
+#
+# target hit in head
+#
+{2128}{}{不要打脸！}
+{2129}{}{Ahhhh, my head!}
+{2130}{}{啊！我的耳朵！}
+#
+# target hit in left arm
+#
+{2131}{}{Please stop!}
+{2132}{}{哎唷！}
+{2133}{}{你打断了我的胳膊}
+#
+# target hit in right arm
+#
+{2134}{}{What have you done?}
+{2135}{}{唔！}
+{2136}{}{你打断了我的胳膊}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2137}{}{I don't wanna be a cripple!}
+{2138}{}{啊，我的膝盖}
+{2139}{}{啊！我的腿断了！}
+#
+# target hit in left leg
+#
+{2140}{}{That's gonna leave a mark}
+{2141}{}{Was that necessary?}
+{2142}{}{啊！我的腿断了！}
+#
+# target hit in eyes
+#
+{2143}{}{我瞎了！}
+{2144}{}{我的眼睛流血了！}
+{2145}{}{Oh god, the pain...}
+#
+# target hit in groin
+#
+{2146}{}{啊啊啊啊！我的毬！}
+{2147}{}{I need a nap}
+{2148}{}{Are you done yet?}
+{2149}{}{Can't...breathe...}
+{2150}{}{我的老二！}
+{2151}{}{喔！我需要躺一下……}
+
+#
+# 13.  Super Mutant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We are Chosen! You are dead!
+#
+#
+#  running away
+#
+{2200}{}{The Master will find you!}
+{2201}{}{你杀不了我的！}
+{2202}{}{我会回来的！}
+{2203}{}{我的朋友会把你抓来的！}
+{2204}{}{I get friends to help!}
+{2205}{}{我们是不可战胜的！你去死吧！}
+#
+# moving in to attack
+#
+{2206}{}{你的死期到了！}
+{2207}{}{你的时间到了！}
+{2208}{}{人类武器伤不了我！}
+{2209}{}{你会痛苦的，十分痛苦！}
+{2210}{}{我会用我的手捏碎你的脑袋！}
+{2211}{}{我们是未来的主人，我们鄙视你！}
+#
+# attacking
+#
+{2212}{}{结束了！}
+{2213}{}{没人能救你！}
+{2214}{}{You are impure!}
+{2215}{}{你会被烧死！}
+{2216}{}{今天你就会去地狱！}
+{2217}{}{你死了我很高兴}
+{2218}{}{你的血就是我的美酒！}
+{2219}{}{去死吧!}
+{2220}{}{这就是你死的方式！}
+{2221}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{2222}{}{为什么你不瞄准点？}
+{2223}{}{那就是人类最好的攻击！}
+{2224}{}{你没劲吗！}
+{2225}{}{你让我感到很可笑！}
+{2226}{}{那个就是攻击？}
+{2227}{}{你什么都不是！}
+#
+# target hit in head
+#
+{2228}{}{啊啊啊啊！我的脸}
+{2229}{}{我的脸！你会吃苦头的！}
+{2230}{}{啊啊啊啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{2231}{}{Ahhhgh! I will crush you}
+{2232}{}{你叫那疼痛？真可笑！}
+{2233}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{2234}{}{You won't do that again!}
+{2235}{}{你叫那疼痛？真可笑！}
+{2236}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{2237}{}{I still stand!}
+{2238}{}{You will be turned or burn!}
+{2239}{}{那是个错误—对你来说！}
+{2240}{}{Argh, try that again!}
+{2241}{}{Grrrr! Bleed now}
+{2242}{}{哈哈哈哈！你叫那痛苦！}
+{2243}{}{Arrr! You anger me!}
+#
+# target hit in right leg
+#
+{2244}{}{Ahhhgh! My leg. Come here...}
+{2245}{}{你叫那疼痛？真可笑！}
+{2246}{}{啊啊！我会把你像树枝一样折断！}
+#
+# target hit in left leg
+#
+{2247}{}{My leg is not easily broken!}
+{2248}{}{You call that pain? Ha!}
+{2249}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{2250}{}{啊！可怜的人类！我瞎了！}
+{2251}{}{啊！痛！你做了些什么！}
+{2252}{}{啊！我会一直折磨你！}
+#
+# target hit in groin
+#
+{2253}{}{那是人类的弱点！}
+{2254}{}{你不能打我那里！}
+{2255}{}{你是愚蠢的人类！}
+{2256}{}{为什么你打我那里？}
+{2257}{}{你会痛苦的死去的，人类！}
+{2258}{}{你会那样死去的……}
+
+#
+# 14. Nightkin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We are the Chosen of the Master, and all must bow before us.
+# (Damn these bastards are really arrogant); my interpretation is that
+# these boys are smarter and more cunning than garden variety Super Mutants.
+#
+#
+# running away
+#
+{2300}{}{Fall back! Fall back! Regroup!}
+{2301}{}{主教会毁灭你的！}
+{2302}{}{This isn't over! We will conquer all.}
+{2303}{}{主教会为我复仇的！}
+{2304}{}{I will bring reinforcements!}
+{2305}{}{过些日子我会把你的心脏端上餐桌！}
+#
+# moving in to attack
+#
+{2306}{}{你的死期到了}
+{2307}{}{你让我很生气，付出代价吧！}
+{2308}{}{我为我的敌人而来，用神圣的火焰净化你！}
+{2309}{}{那些反对统一的人将会被清理！}
+{2310}{}{主教的敌人去死！}
+{2311}{}{我们是未来的主人，你将会成为历史！}
+#
+# attacking
+#
+{2312}{}{结束了！}
+{2313}{}{没有任何东西能救你！}
+{2314}{}{欢迎来到你的墓地！}
+{2315}{}{这是主教的惩罚！}
+{2316}{}{今天你会下地狱！}
+{2317}{}{你会在我的手中死去}
+{2318}{}{以主教的名义，去死吧！}
+{2319}{}{现在降下死亡打击！}
+{2320}{}{我要用圣炎将你净化！}
+{2321}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{2322}{}{同情你！为什么不瞄准点？}
+{2323}{}{这就是人类最好的攻击吗？}
+{2324}{}{你的攻击象你的灵魂一样虚弱！}
+{2325}{}{那将会是你最后一个错误}
+{2326}{}{主教会在他的敌人面前保护我！}
+{2327}{}{你不能伤害我们}
+#
+# target hit in head
+#
+{2328}{}{That was nothing, let me show you pain!}
+{2329}{}{你将会经受同样的痛苦！}
+{2330}{}{啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{2331}{}{You will die in pieces!}
+{2332}{}{I am not so easily beaten!}
+{2333}{}{啊啊啊啊！我要打碎你所有的骨头}
+#
+# target hit in right arm
+#
+{2334}{}{You humans are weak!}
+{2335}{}{Ahhhgh! You will pay!}
+{2336}{}{You won't live to regret that}
+#
+# target hit in torso
+#
+{2337}{}{Argh! Die!}
+{2338}{}{啊！}
+{2339}{}{主教！}
+{2340}{}{你阴我……}
+{2341}{}{Not good enough!}
+{2342}{}{喔！}
+#
+# target hit in right leg
+#
+{2343}{}{啊啊啊啊！我的腿}
+{2344}{}{I am not so easily beaten!}
+{2345}{}{I shall break you for that!}
+#
+# target hit in left leg
+#
+{2346}{}{啊啊啊啊！我的腿}
+{2347}{}{It takes more than that to bring me down!}
+{2348}{}{I shall crush you for that!}
+#
+# target hit in eyes
+#
+{2349}{}{啊啊啊啊！可怜的人类！你打瞎我了！}
+{2350}{}{啊啊啊啊！真疼！你做了什么！}
+{2351}{}{啊啊啊啊！你今天会吃苦头的！}
+#
+# target hit in groin
+#
+{2352}{}{我不会象你一样软弱，人类！}
+{2353}{}{我的腰比你的硬，人类！}
+{2354}{}{多糟糕的战术，人类！}
+{2355}{}{主教会保护我的，人类！}
+{2356}{}{你会痛苦的死去的，人类！}
+{2357}{}{啊！或许我该试试你的弱点}
+
+#
+# 15. Children, Brainwashed (Cathedral)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# The Master protects us, and none may bring us death or even suffering!
+#
+#
+#  running away
+#
+{2400}{}{主教！为什么你抛弃了我！}
+{2401}{}{主教会为我报仇的！}
+{2402}{}{主教原谅我吧，我必须逃跑！}
+{2403}{}{你不害怕报应吗？}
+{2404}{}{圣炎会保护我！}
+{2405}{}{主教救我，救我！}
+#
+# moving in to attack
+#
+{2406}{}{主教的敌人必须被圣炎烧死！}
+{2407}{}{主教的敌人必须死！}
+{2408}{}{世界将会统一！}
+{2409}{}{孩子的血不会白流的！}
+{2410}{}{和平必须用敌人的鲜血换来！}
+{2411}{}{不统一，就去死！}
+#
+# attacking
+#
+{2412}{}{不要跑，我们是你的朋友}
+{2413}{}{以主教的名义杀死你！}
+{2414}{}{看那圣炎！}
+{2415}{}{亲吻火焰，挖掘墓穴！}
+{2416}{}{统一！}
+{2417}{}{什么也不能阻止和平到来！}
+{2418}{}{你不能阻止统一！}
+{2419}{}{为了统一！}
+{2420}{}{主教，保佑我！}
+{2421}{}{在圣炎中死亡吧！}
+#
+# target being missed
+#
+{2422}{}{主教保护我！}
+{2423}{}{赞美主教，你不能伤害我！}
+{2424}{}{谢谢你主教！}
+{2425}{}{主教的仁慈是有威严的！}
+{2426}{}{我受到了圣炎的保护！}
+{2427}{}{你不能伤害小孩}
+#
+# target hit in head
+#
+{2428}{}{啊啊啊啊！什么打到我了！}
+{2429}{}{主教！保护我！}
+{2430}{}{哇！}
+#
+# target hit in left arm
+#
+{2431}{}{我的胳膊！}
+{2432}{}{Unity shall cleanse all wounds}
+{2433}{}{主教！他们对我做了什么！}
+#
+# target hit in right arm
+#
+{2434}{}{啊，我的胳膊}
+{2435}{}{主教将会治疗我的创伤……}
+{2436}{}{I will take from you twice what you took from me}
+#
+# target hit in torso
+#
+{2437}{}{哇！}
+{2438}{}{啊！}
+{2439}{}{主教，保护我！}
+{2440}{}{主教，为我报仇！}
+{2441}{}{哦！}
+#
+# target hit in right leg
+#
+{2442}{}{啊，我的腿}
+{2443}{}{你打断了我的腿！}
+{2444}{}{主教！他们对我做了什么！}
+#
+# target hit in left leg
+#
+{2445}{}{我的腿！}
+{2446}{}{You broke it!}
+{2447}{}{Master! Can you regrow limbs?}
+#
+# target hit in eyes
+#
+{2448}{}{主教，我瞎了！}
+{2449}{}{主教，我的眼睛，它们烧伤了！}
+{2450}{}{主教，我看不见了！}
+#
+# target hit in groin
+#
+{2451}{}{啊啊啊啊！我的毬！}
+{2452}{}{主教！}
+{2453}{}{主教，缓解我的痛苦吧！}
+{2454}{}{我……不能……呼吸了……}
+{2455}{}{主教，我们的敌人很残忍！}
+{2456}{}{Master, you should have warned me}
+
+#
+# 16. Children, Brainwashed (Hub)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# The Master protects us, and none may bring us death or even suffering!
+#
+#
+#  running away
+#
+{2500}{}{为什么你抛弃了我！}
+{2501}{}{我会报复的！}
+{2502}{}{原谅我，我必须逃跑！}
+{2503}{}{你不害怕报应吗？}
+{2504}{}{圣炎会保护我！}
+{2505}{}{圣炎啊，指引我逃跑路线！}
+#
+# moving in to attack
+#
+{2506}{}{我们的敌人必须被圣炎烧死！}
+{2507}{}{我们的敌人必须死！}
+{2508}{}{世界将会统一！}
+{2509}{}{孩子的血不会白流的！}
+{2510}{}{和平必须用敌人的鲜血换来！}
+{2511}{}{Holy Flame and Unity upon you}
+#
+# attacking
+#
+{2512}{}{去死！}
+{2513}{}{以圣炎的名义杀死你！}
+{2514}{}{看那圣炎！}
+{2515}{}{以圣炎的名义杀死你！}
+{2516}{}{统一！}
+{2517}{}{什么也不能阻止和平到来！}
+{2518}{}{异教徒！}
+{2519}{}{不要跑，我们是你的朋友！}
+{2520}{}{主教，保佑我！}
+{2521}{}{被圣炎净化吧，异教徒！}
+#
+# target being missed
+#
+{2522}{}{主教保护我！}
+{2523}{}{赞美圣炎，你是伤不了我的！}
+{2524}{}{你的上帝是虚幻的！}
+{2525}{}{你的邪恶击败了它自己！}
+{2526}{}{我受到了圣炎的保护！}
+{2527}{}{你不能伤害小孩}
+#
+# target hit in head
+#
+{2528}{}{啊啊啊啊！什么打到我了！}
+{2529}{}{主教！保护我！}
+{2530}{}{啊！}
+#
+# target hit in left arm
+#
+{2531}{}{啊，我的胳膊}
+{2532}{}{你打断了我的胳膊！}
+{2533}{}{你对我做了些什么！}
+#
+# target hit in right arm
+#
+{2534}{}{No! Master!}
+{2535}{}{Revenge shall be mine!}
+{2536}{}{你这些罪人！}
+#
+# target hit in torso
+#
+{2537}{}{啊！真疼！}
+{2538}{}{FUCK!}
+{2539}{}{喔，喔，真疼！}
+{2540}{}{哎唷！}
+{2541}{}{痛！}
+{2542}{}{哇！}
+#
+# target hit in right leg
+#
+{2543}{}{Master! It burns!}
+{2544}{}{You will pay for that!}
+{2545}{}{你做了些什么！}
+#
+# target hit in left leg
+#
+{2546}{}{啊，我的腿}
+{2547}{}{你打断了我的腿！}
+{2548}{}{Dammit!!}
+#
+# target hit in eyes
+#
+{2549}{}{我看不见了！}
+{2550}{}{我的眼睛！}
+{2551}{}{我犯的罪使我变成瞎子了！}
+#
+# target hit in groin
+#
+{2552}{}{啊啊啊啊！我的毬！}
+{2553}{}{啊啊啊啊，你是真正的恶魔！！}
+{2554}{}{圣炎，保护我的命根子！}
+{2555}{}{Master works in mysterious ways!}
+{2556}{}{我……不能……呼吸了……}
+{2557}{}{我们的敌人是残酷的！}
+
+#
+# 17. Children, Non-Brainwashed  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Get some zombies in here to take care of this pest!
+#
+#
+#  running away
+#
+{2600}{}{丘奇留给你了！}
+{2601}{}{丘奇会照顾好自己的！}
+{2602}{}{救命！}
+{2603}{}{Fuck this noise}
+{2604}{}{一些蠢货能抓到你}
+{2605}{}{我不要就这样死了！}
+#
+# moving in to attack
+#
+{2606}{}{Not on my doorstep...}
+{2607}{}{让我们埋葬这强盗！}
+{2608}{}{你的死期到了！}
+{2609}{}{你在这里不被认可！}
+{2610}{}{是时候清理你这垃圾了……}
+{2611}{}{你会为你的错误付出代价的……}
+#
+# attacking
+#
+{2612}{}{看招！}
+{2613}{}{你是个怪人！}
+{2614}{}{现在，你去死吧！}
+{2615}{}{来啊，你傻了，让我们自爆吧！}
+{2616}{}{You'll wish you were brainwashed}
+{2617}{}{我要揍得你满地找牙}
+{2618}{}{Time to die...}
+{2619}{}{Time to 'Unite' you with my 'Holy Flame'}
+{2620}{}{亲吻我的圣炎吧，哥们！}
+{2621}{}{Suck it down!}
+#
+# target being missed
+#
+{2622}{}{哈，打不中我！}
+{2623}{}{是石块吗!}
+{2624}{}{哈，你打不中我！}
+{2625}{}{你比傻瓜还要失败！}
+{2626}{}{没有人教你瞄准吗？}
+{2627}{}{Haha, don't hurt yourself}
+#
+# target hit in head
+#
+{2628}{}{唔！}
+{2629}{}{哇！}
+{2630}{}{他妈的！真疼！}
+#
+# target hit in left arm
+#
+{2631}{}{啊，我的胳膊}
+{2632}{}{你会付出代价的！}
+{2633}{}{我要打断你的两条胳膊！}
+#
+# target hit in right arm
+#
+{2634}{}{My arm! What have you done to my arm?!}
+{2635}{}{You're worse than these fucking zombies}
+{2636}{}{Come here and do that again, you bastard}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2637}{}{Oooohhh, my leg!}
+{2638}{}{你会付出代价的！}
+{2639}{}{You fuckwad! I'm gonna get you!}
+#
+# target hit in left leg
+#
+{2640}{}{啊，我的腿}
+{2641}{}{I'll do you for that!}
+{2642}{}{啊！}
+#
+# target hit in eyes
+#
+{2643}{}{我会羞辱你的！}
+{2644}{}{我的眼睛！你会付出代价的！}
+{2645}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{2646}{}{哦，你打到我的肉条了！}
+{2647}{}{他妈的，真疼啊！}
+{2648}{}{Motherfucking cocksucker! Shit! FUCK!}
+{2649}{}{哦，该死！}
+{2650}{}{You bastard!}
+{2651}{}{You didn't show me yours first!}
+
+#
+# 18. The Master  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Unity is its own protection. My enemies will not withstand me. Withstand.
+#
+#
+#  running away
+#
+{2700}{}{This battle is unnecessary. Battle!}
+{2701}{}{我会报复的！}
+{2702}{}{你的胜利不会长久！}
+{2703}{}{You will not prevent Unity. Unity!}
+{2704}{}{我的仆人会保护我的！}
+{2705}{}{希望！我需要希望！}
+#
+# moving in to attack
+#
+{2706}{}{Your sins shall now be punished. Punished!}
+{2707}{}{我的敌人必须去死！去死！}
+{2708}{}{世界将会统一！万岁！}
+{2709}{}{You shall not be permitted to destroy our world. Destroy. World!}
+{2710}{}{未来一定会被保护!！保护！}
+{2711}{}{让我们统一世界，否则就去死！去死！}
+#
+# attacking
+#
+{2712}{}{Your life will end. End!}
+{2713}{}{You shall be utterly destroyed. Destroyed!}
+{2714}{}{You have sealed your destruction. Destruction!}
+{2715}{}{你会为你的行动付出代价！付出代价！}
+{2716}{}{You will not prevent Unity. Unity!}
+{2717}{}{没有人能阻止和平到来！和平！}
+{2718}{}{等着你的只有火焰。火焰！}
+{2719}{}{Let this be your epitaph. Epitaph!}
+{2720}{}{You are nothing. Nothing! Nothing.}
+{2721}{}{This is the end of your existence. End. End!}
+#
+# target being missed
+#
+{2722}{}{你的努力是没用的！没用！}
+{2723}{}{You cannot prevail against me! Prevail! Me!}
+{2724}{}{You have erred again, human. Human!}
+{2725}{}{Your evil defeats itself! Evil. Evil!}
+{2726}{}{You will not survive. Survive!}
+{2727}{}{Your performance is inadequate. Inadequate!}
+#
+# target hit in head
+#
+{2728}{}{Head wound. I shall be avenged. Avenged!}
+{2729}{}{That pain was unpleasant. Pain. Pain!}
+{2730}{}{That will not incapacitate me. Incapacitate! Me!}
+#
+#
+# target hit in frame
+#
+{2731}{}{You think you can hurt me there? Me? THERE?}
+{2732}{}{Minor wound, human. Minor. Minor!}
+{2733}{}{疼痛真让人有点不爽}
+{2734}{}{没有线路或者器官受到不可修复的伤害}
+{2735}{}{You die! Die! Die.}
+#
+# target hit in CPU
+#
+{2736}{}{Systems compromised, compensating...}
+{2737}{}{系统受损，开始进行损伤报告}
+{2738}{}{系统受损，系统受损，系统受损}
+
+#
+# 19. Ghoul, Nasty  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Now you'll find out why it's called the Necropolis
+#
+#
+#  running away
+{2800}{}{必须叫人过来！}
+{2801}{}{我会回来的……}
+{2802}{}{今天你杀不了我！}
+{2803}{}{稍等，正常人！}
+{2804}{}{你再也不会听到我的声音了！}
+{2805}{}{等着，你会付出代价的！}
+#
+# moving in to attack
+#
+{2806}{}{你已经成为了历史！}
+{2807}{}{新鲜的肉……}
+{2808}{}{啊，正餐到了。}
+{2809}{}{好吃的脑……}
+{2810}{}{我将帮你挖墓坑的……}
+{2811}{}{希望我能将你的头保存完整……}
+#
+# attacking (10)
+#
+{2812}{}{该你了！}
+{2813}{}{不要用尖叫来获得宽恕……}
+{2814}{}{我很满意这个}
+{2815}{}{喔喔，那必须受伤！}
+{2816}{}{Take this, normie!}
+{2817}{}{我要吃掉你的肝脏！}
+{2818}{}{希望你不要死的那么快}
+{2819}{}{吃东西时间到了！}
+{2820}{}{去死！}
+{2821}{}{I eat punks like you for breakfast, and lunch. And dinner.}
+#
+# target being missed (6)
+#
+{2822}{}{你伤不了我！}
+{2823}{}{Normie. Figures.}
+{2824}{}{Oh look, you nearly hit me}
+{2825}{}{你打偏了，正常人！}
+{2826}{}{你那样的攻击杀不了我！}
+{2827}{}{动作太慢了！}
+#
+# target hit in head (3)
+#
+{2828}{}{哦，我漂亮的脸蛋}
+{2829}{}{啊！我的头！}
+{2830}{}{哇！}
+#
+# target hit in left arm
+#
+{2831}{}{我的手！}
+{2832}{}{啊！}
+{2833}{}{啊！！}
+#
+# target hit in right arm
+#
+{2834}{}{啊，我的胳膊}
+{2835}{}{你打断了我的胳膊！}
+{2836}{}{你会后悔的！}
+#
+# target hit in torso
+#
+{2837}{}{[Grunt!]}
+{2839}{}{哦，垃圾！}
+{2840}{}{喔！}
+{2841}{}{你会后悔的！}
+{2842}{}{轮到你射击的时候，你应该停下！}
+{2843}{}{I'll use your organs to replace mine!}
+{2844}{}{Garrr!}
+#
+# target hit in right leg
+#
+{2845}{}{啊，我的腿}
+{2846}{}{你会付出代价的！}
+{2847}{}{啊！你打断了我的腿，我捏碎你的脖子！}
+#
+# target hit in left leg
+#
+{2848}{}{我的腿！}
+{2849}{}{Try that again, normie!}
+{2850}{}{Losing my balance...}
+#
+# target hit in eyes
+#
+{2851}{}{该死，血流到我眼睛里了！}
+{2852}{}{我的眼睛！你会付出代价的！}
+{2853}{}{私生子！}
+#
+# target hit in groin
+#
+{2854}{}{啊啊啊啊！我的毬！}
+{2855}{}{喔！我必须试着移动……}
+{2856}{}{卑鄙的野蛮人！}
+{2857}{}{啊啊啊啊噢噢噢噢！}
+{2858}{}{呜！}
+{2859}{}{喔！我会杀了你的！}
+
+#
+# 20. Super Mutant, Necropolis  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# The lesser species need to know when to stand aside. (Damn, these bastards are arrogant)
+#
+#
+#  running away
+#
+{2900}{}{Fall back! Fall back! Sector six!}
+{2901}{}{今天你杀不了我！}
+{2902}{}{还没有结束！}
+{2903}{}{我的朋友会把你抓来的！}
+{2904}{}{等着，你会付出代价的！}
+{2905}{}{过些日子我会把你的心脏端上餐桌！}
+#
+# moving in to attack
+#
+{2906}{}{我会杀了你的，人类！}
+{2907}{}{None challenge us and live!}
+{2908}{}{你的垃圾武器将不能伤害我！}
+{2909}{}{又一个受害人来和我们玩了！}
+{2910}{}{我来让你脱离苦海}
+{2911}{}{Master is on my side!}
+#
+# attacking
+#
+{2912}{}{Human scum!}
+{2913}{}{I will tear your arms off}
+{2914}{}{去死吧!}
+{2915}{}{这是我们处理蠢人的方式！}
+{2916}{}{我很享受这个……}
+{2917}{}{Gah! You will suffer!}
+{2918}{}{你的神抛弃了你！}
+{2919}{}{我希望听到你的尖叫声！}
+{2920}{}{这就是让你死的原因！}
+{2921}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{2922}{}{同情你！为什么不瞄准点？}
+{2923}{}{这就是人类最好的攻击吗？}
+{2924}{}{你的攻击象你的灵魂一样虚弱！}
+{2925}{}{那将会是你最后一个错误}
+{2926}{}{白痴！你可以打败我吗？}
+{2927}{}{可怜的人！}
+#
+# target hit in head
+#
+{2928}{}{啊啊啊啊！我的脸！}
+{2929}{}{我的脸！你会吃苦头的！}
+{2930}{}{啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{2931}{}{啊啊啊啊！我的胳膊}
+{2932}{}{啊啊啊啊！我不会轻易被打败的！}
+{2933}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{2934}{}{啊啊啊啊！我的胳膊}
+{2935}{}{啊啊啊啊！我不会轻易被打败的！}
+{2936}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{2937}{}{I will make trophies from your bones!}
+{2938}{}{哇！}
+{2939}{}{Arrrggg!}
+{2940}{}{[Smiles]}
+{2941}{}{那不能造成伤害！}
+{2942}{}{你可以做的更好}
+{2943}{}{即使是僵尸也比你强壮！}
+{2944}{}{Hahaha, I still stand}
+{2945}{}{Many will suffer because of you}
+{2946}{}{哈哈！多么无力的尝试……（呻吟）}
+#
+# target hit in right leg
+#
+{2947}{}{啊啊啊啊！我的腿}
+{2948}{}{啊啊啊啊！我不会轻易被打败的！}
+{2949}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in left leg
+#
+{2950}{}{啊啊啊啊！我的腿}
+{2951}{}{啊啊啊啊！我不会轻易被打败的！}
+{2952}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{2953}{}{啊啊啊啊！可怜的人类！你打瞎我了！}
+{2954}{}{啊啊啊啊！真疼！你做了什么！}
+{2955}{}{啊啊啊啊！你今天会吃苦头的！}
+#
+# target hit in groin
+#
+{2956}{}{我不会象你一样软弱，人类！}
+{2957}{}{我的腰比你的硬，人类！}
+{2958}{}{多可怜的战术，人类！}
+{2959}{}{那不是我的弱点，人类！}
+{2960}{}{你会痛苦的死去的，人类！}
+{2961}{}{或许我要试试你的弱点}
+
+#
+# 21. Guard, Raider  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# You're dead! I do hope you have cool stuff...
+#
+#
+#  running away
+#
+{3000}{}{撤！撤！}
+{3001}{}{撤退！}
+{3002}{}{重新部署！}
+{3003}{}{攻击！}
+{3004}{}{收缩防御！}
+{3005}{}{啊啊啊啊！}
+#
+# moving in to attack
+#
+{3006}{}{杀了这个白痴！}
+{3007}{}{新鲜的肉……}
+{3008}{}{抢劫！}
+{3009}{}{这家伙是我的！}
+{3010}{}{抓住他！}
+{3011}{}{You're dead! I hope you have cool stuff...}
+#
+# attacking (10)
+#
+{3012}{}{享受你生命中的最后时光}
+{3013}{}{血！血！血！}
+{3014}{}{你的心脏是我的！}
+{3015}{}{啊啊啊啊啊！！}
+{3016}{}{你的武器将会成为我的战利品！}
+{3017}{}{去死！}
+{3018}{}{我要杀了你！}
+{3019}{}{你将成为荒野中的白骨！}
+{3020}{}{血腥和黑暗！}
+{3021}{}{I will make weapons from your bones!}
+{3022}{}{我要钻烂你，混蛋！}
+#
+# target being missed (6)
+#
+{3023}{}{努力啊废物！}
+{3024}{}{你失败了！}
+{3025}{}{我比你经验丰富！}
+{3026}{}{我还活着！！}
+{3027}{}{你的身体弱的令人同情！}
+#
+# target hit in head (3)
+#
+{3028}{}{啊啊啊啊！我的脸！}
+{3029}{}{WHAT THE FUCK!!?!}
+{3030}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{3031}{}{My arm!}
+{3032}{}{你打断了我的胳膊！}
+{3033}{}{你将会为那死！}
+#
+# target hit in right arm
+#
+{3034}{}{I'll take both of yours!}
+{3035}{}{You broke it!}
+{3036}{}{You'll pay for that!}
+#
+# target hit in torso
+#
+{3037}{}{Fuck!}
+{3038}{}{你叫那疼痛！？}
+{3039}{}{哎唷！}
+{3040}{}{哇！}
+{3041}{}{他妈的！真疼！}
+{3042}{}{过来，让我揍你！}
+{3043}{}{你会付出代价的！我发誓！}
+{3044}{}{[Gasp!]}
+{3045}{}{Dammit! Bitch!}
+{3046}{}{哦！打到我了！}
+#
+# target hit in right leg
+#
+{3047}{}{My leg!}
+{3048}{}{你将会为那死！}
+{3049}{}{啊！你打断了我的腿，我捏碎你的脖子！}
+#
+# target hit in left leg
+#
+{3050}{}{My leg!}
+{3051}{}{你将会为那死！}
+{3052}{}{啊！！}
+#
+# target hit in eyes
+#
+{3053}{}{啊！我要把你撕成碎片！}
+{3054}{}{我的眼睛！}
+{3055}{}{我的眼睛！我会慢慢的折磨死你！}
+#
+# target hit in groin
+#
+{3056}{}{啊啊啊啊！我的毬！}
+{3057}{}{喔！你……要……吃苦头了……}
+{3058}{}{喔！我……要……杀了……}
+{3059}{}{喔！我要阉了你……}
+{3060}{}{呜！}
+{3061}{}{我要杀了你！}
+
+#
+# 22. Leader, Raider  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I feast on the hearts of my enemies!
+#
+#
+#  running away
+#
+{3100}{}{可汗！掩护我！}
+{3101}{}{撤退！}
+{3102}{}{重新部署！}
+{3103}{}{攻击！}
+{3104}{}{收缩防御！}
+{3105}{}{I'll be back}
+#
+# moving in to attack
+#
+{3106}{}{再次挑战！}
+{3107}{}{新鲜的肉……}
+{3108}{}{抢劫！}
+{3109}{}{这家伙是我的！}
+{3110}{}{可汗！攻击！}
+{3111}{}{Anything you can do, I Khan do better}
+#
+# attacking (10)
+#
+{3112}{}{可汗杀了他！}
+{3113}{}{血！血！血！}
+{3114}{}{我是至高无上的！}
+{3115}{}{啊啊啊啊啊！！}
+{3116}{}{可汗是无敌的！}
+{3117}{}{绝不撤退！绝不投降！}
+{3118}{}{我要杀了你！}
+{3119}{}{你将成为荒野中的白骨！}
+{3120}{}{血腥和黑暗！}
+{3121}{}{可汗是强壮的！}
+#
+# target being missed (6)
+#
+{3122}{}{Ahahaha, try again!}
+{3123}{}{我不会感谢你的！}
+{3124}{}{我是无法毁灭的！}
+{3125}{}{我比你经验丰富！}
+{3126}{}{My slaves fight better than that!}
+{3127}{}{你不配和我战斗！}
+#
+# target hit in head (3)
+#
+{3128}{}{好招数！}
+{3129}{}{那就是你最强的攻击！}
+{3130}{}{A pitiful attempt!}
+#
+# target hit in left arm
+#
+{3131}{}{我用一只手就能打败你！}
+{3132}{}{你打断了我的胳膊！现在开始战斗！}
+{3133}{}{那就是你的致命一击！}
+#
+# target hit in right arm
+#
+{3134}{}{我用一只手就能打败你！}
+{3135}{}{你打断了我的胳膊！现在开始战斗！}
+{3136}{}{I will end you!}
+#
+# target hit in torso
+#
+{3137}{}{你会像传说中的那样死去！}
+{3138}{}{我会把你的眼睛摆上餐桌！}
+{3139}{}{I am indestructible!}
+{3140}{}{My blood is stronger than yours!}
+{3141}{}{I am indestructible!}
+{3142}{}{I will feast on your eyes for that!}
+{3143}{}{RAAAAAAARRRR!!}
+{3144}{}{我的肋骨受伤了。因此我需要你的！它很公平}
+{3145}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{3146}{}{Blood and darkness!}
+#
+# target hit in right leg
+#
+{3147}{}{我不用站着就能杀了你！}
+{3148}{}{你将会为那死！}
+{3149}{}{My leg! I will remove yours with my fists!}
+#
+# target hit in left leg
+#
+{3150}{}{我不用站着就能杀了你！}
+{3151}{}{你将会为那死！}
+{3152}{}{My leg! I will remove yours with my fists!}
+#
+# target hit in eyes
+#
+{3153}{}{啊！我要把你撕成碎片！}
+{3154}{}{我的眼睛！我要用我的视力换你的命！}
+{3155}{}{我的眼睛！我会慢慢的折磨死你！}
+#
+# target hit in groin
+#
+{3156}{}{You will not steal my manhood!}
+{3157}{}{喔！你……要……吃苦头了……}
+{3158}{}{喔！我……要……杀了……}
+{3159}{}{喔！我要阉了你……}
+{3160}{}{呜！}
+{3161}{}{你不能拿走我的命根子！}
+
+#
+# 23. Peasant, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Get out of Shady Sands, you troublemaking scum!
+#
+#
+#  running away
+#
+{3200}{}{不要认为这就结束了！}
+{3201}{}{我需要帮助！}
+{3202}{}{救救我吧！}
+{3203}{}{我们要给你公正的审判！}
+{3204}{}{总有一天，你会得到到达你身边的东西！}
+{3205}{}{我不能就这样死了！}
+#
+# moving in to attack
+#
+{3206}{}{}
+{3207}{}{}
+{3208}{}{}
+{3209}{}{我们这里不喜欢你这种人!}
+{3210}{}{没有人能接手这个地方……}
+{3211}{}{荒漠小镇不需要你这样的人！}
+#
+# attacking
+#
+{3212}{}{}
+{3213}{}{要我个你更大的伤害吗？}
+{3214}{}{这就是我们处理害虫的方法！}
+{3215}{}{}
+{3216}{}{这就是我们解决沙荫镇里麻烦的方法。}
+{3217}{}{你学着点吧！}
+{3218}{}{我会用你的身体做肥料的。}
+{3219}{}{很好。你要的是这个。}
+{3220}{}{你这个畜生！}
+{3221}{}{你会后悔来这里！}
+#
+# target being missed
+#
+{3222}{}{你不像你想象的那样好}
+{3223}{}{}
+{3224}{}{你比变种地鼠还像哑巴}
+{3225}{}{在沙荫镇里不会因为中了流弹而杀人的}
+{3226}{}{}
+{3227}{}{那将会是你最后一个错误}
+#
+# target hit in head
+#
+{3228}{}{该死！}
+{3229}{}{啊啊啊，呼呼呼}
+{3230}{}{我的脸！我的脸！}
+#
+# target hit in left arm
+#
+{3231}{}{啊啊啊啊！我的胳膊}
+{3232}{}{我的胳膊！}
+{3233}{}{见鬼，胳膊不能用了……}
+#
+# target hit in right arm
+#
+{3234}{}{啊啊啊啊！我的胳膊}
+{3235}{}{我的胳膊！}
+{3236}{}{见鬼，胳膊不能用了……}
+#
+# target hit in torso
+#
+{3237}{}{哎唷！}
+{3238}{}{嗷！}
+{3239}{}{}
+{3240}{}{也许你会死于干旱，孤独和严寒……}
+{3241}{}{[Gasp!]}
+{3242}{}{}
+{3243}{}{请不要……}
+{3244}{}{}
+{3245}{}{我遭报应了}
+{3246}{}{啊！}
+#
+# target hit in right leg
+#
+{3247}{}{啊啊啊啊！我的腿}
+{3248}{}{我的腿！}
+{3249}{}{该死，我的腿不能用了……}
+#
+# target hit in left leg
+#
+{3250}{}{啊啊啊啊！我的腿}
+{3251}{}{我的腿！}
+{3252}{}{该死，我的腿不能用了……}
+#
+# target hit in eyes
+#
+{3253}{}{啊啊啊啊！我瞎了！}
+{3254}{}{该死，视线模糊了！}
+{3255}{}{我的眼睛！你会付出代价的！}
+#
+# target hit in groin
+#
+{3256}{}{啊啊啊啊！我的毬！}
+{3257}{}{喔喔喔喔噢噢！}
+{3258}{}{我……不能……呼吸了……}
+{3259}{}{！}
+{3260}{}{疼啊，疼啊……}
+{3261}{}{他妈的，真疼啊！}
+
+#
+# 24. Guard, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I'm staying alert. Never know what's gonna walk out of the wastes
+#
+#
+#  running away (6)
+#
+{3300}{}{我走了}
+{3301}{}{}
+{3302}{}{啊啊啊啊啊！}
+{3303}{}{稍后，或许。}
+{3304}{}{}
+{3305}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{3306}{}{}
+{3307}{}{发生了什么事？}
+{3308}{}{我将处理这个……}
+{3309}{}{没有人能阻止！}
+{3310}{}{如果它不是辐射蝎，那他们就是袭击者……}
+{3311}{}{}
+#
+# attacking
+#
+{3312}{}{}
+{3313}{}{去死！}
+{3314}{}{失败}
+{3315}{}{垃圾}
+{3316}{}{}
+{3317}{}{该你了！}
+{3318}{}{你就是这里的寄生虫}
+{3319}{}{这是沙荫镇的礼物}
+{3320}{}{你不要再次打搅这个地方}
+{3321}{}{准备成为上流人物吧}
+#
+# target being missed
+#
+{3322}{}{没有瞄准}
+{3323}{}{业余的}
+{3324}{}{可怜的}
+{3325}{}{你太慢了}
+{3326}{}{你真没用}
+{3327}{}{不要放弃你今天的工作}
+#
+# target hit in head
+#
+{3328}{}{真疼}
+{3329}{}{我的眼睛！}
+{3330}{}{啊！打破了我的鼻子……}
+#
+# target hit in left arm
+#
+{3331}{}{啊！}
+{3332}{}{啊！我的胳膊！}
+{3333}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{3334}{}{啊！}
+{3335}{}{啊！我的胳膊！}
+{3336}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{3337}{}{该死！真疼！}
+{3338}{}{哎唷！}
+{3339}{}{啊！}
+{3340}{}{}
+{3341}{}{【扶着肋骨】哎呦！}
+{3342}{}{来啊！镇里不允许打架！}
+{3343}{}{[Gasp!]}
+{3344}{}{啊！我对你这个外人十分失望……}
+{3345}{}{哇！}
+{3346}{}{真疼！}
+#
+# target hit in right leg
+#
+{3347}{}{啊！}
+{3348}{}{啊！我的膝盖！}
+{3349}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{3350}{}{啊！}
+{3351}{}{啊！我的膝盖}
+{3352}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{3353}{}{我瞎了！}
+{3354}{}{我看不见了！}
+{3355}{}{太黑了}
+#
+# target hit in groin
+#
+{3356}{}{啊啊啊啊！我的毬！}
+{3357}{}{哎呦！}
+{3358}{}{他妈的真疼啊}
+{3359}{}{哇！}
+{3360}{}{呜！}
+{3361}{}{我……不能……呼吸了……}
+
+#
+# 25. Leader, Shady Sands  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't want trouble, but it comes around often enough that I know how to deal with it.
+#
+#
+#  running away (6)
+#
+{3400}{}{}
+{3401}{}{}
+{3402}{}{我需要医生}
+{3403}{}{稍后，或许。}
+{3404}{}{我最好保持中立}
+{3405}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{3406}{}{朋友，你刚犯了个大错误}
+{3407}{}{发生了什么事？}
+{3408}{}{我将处理这个……}
+{3409}{}{没有人能阻止！}
+{3410}{}{如果它不是辐射蝎，那他们就是捣乱的……}
+{3411}{}{}
+#
+# attacking
+#
+{3412}{}{}
+{3413}{}{}
+{3414}{}{来点伤疤}
+{3415}{}{垃圾}
+{3416}{}{这就是我们所对惹麻烦的人做的}
+{3417}{}{希望那很疼}
+{3418}{}{你要在这里振作起来}
+{3419}{}{这是沙荫镇的礼物}
+{3420}{}{你不要再次打搅这个地方}
+{3421}{}{我不能让你活着离开这里}
+#
+# target being missed
+#
+{3422}{}{没有瞄准}
+{3423}{}{你不能开火，除非你知道你在干什么}
+{3424}{}{可怜的}
+{3425}{}{你太慢了}
+{3426}{}{}
+{3427}{}{}
+#
+# target hit in head
+#
+{3428}{}{}
+{3429}{}{我的头骨！}
+{3430}{}{啊！见鬼，我的鼻子破了……}
+#
+# target hit in left arm
+#
+{3431}{}{啊！}
+{3432}{}{啊！我的胳膊！}
+{3433}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{3434}{}{啊！}
+{3435}{}{啊！我的胳膊！}
+{3436}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{3437}{}{啊！}
+{3438}{}{额滴神啊！真疼！}
+{3439}{}{那些麻烦会找他的……}
+{3440}{}{哇！}
+{3441}{}{哦！我会惩罚你的……}
+{3442}{}{啊！真疼！}
+{3443}{}{喔！那真令人不爽}
+{3444}{}{啊！为什么你要这么做？}
+{3445}{}{啊！我必须控制我的情绪……}
+{3446}{}{啊！你就像辐射蝎粪一样！}
+#
+# target hit in right leg
+#
+{3447}{}{啊！}
+{3448}{}{啊！我的膝盖！}
+{3449}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{3450}{}{啊！}
+{3451}{}{啊！我的膝盖！}
+{3452}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{3453}{}{我的眼睛！}
+{3454}{}{啊！那就是你的游戏方式吗……}
+{3455}{}{啊！肮脏的小子……}
+#
+# target hit in groin
+#
+{3456}{}{啊啊啊啊！我的毬！}
+{3457}{}{哎呦！}
+{3458}{}{[whimper]}
+{3459}{}{哇！}
+{3460}{}{喔喔喔！我感觉不到我的老二了！啊！}
+{3461}{}{喔喔喔！真疼。一定会变老的。}
+
+#
+# 26. Ripper  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Rape him or kill him. I can never make up my mind.
+#
+#
+#  running away
+#
+{3500}{}{也许我可以中场休息。}
+{3501}{}{我会回来的！}
+{3502}{}{你等着，垃圾！}
+{3503}{}{}
+{3504}{}{}
+{3505}{}{让我们再来一次！}
+#
+# moving in to attack
+#
+{3506}{}{恨我还是爱我……}
+{3507}{}{新鲜的肉！}
+{3508}{}{！}
+{3509}{}{}
+{3510}{}{开膛手会把你撕成碎片的！}
+{3511}{}{让我们跳舞吧！}
+#
+# attacking
+#
+{3512}{}{我要把你做成棒棒蜥蜴！}
+{3513}{}{}
+{3514}{}{不要了死。我还要折磨你呢}
+{3515}{}{}
+{3516}{}{死亡大餐，快来买啊！}
+{3517}{}{你的尸体会很漂亮的}
+{3518}{}{去死！去死！去死！去死！去死！}
+{3519}{}{我喜欢你痛苦的样子！}
+{3520}{}{让我把你剖开……}
+{3521}{}{我想今天这里不会流血……}
+#
+# target being missed
+#
+{3522}{}{}
+{3523}{}{我很害怕！}
+{3524}{}{来啊小孩，来打我啊！}
+{3525}{}{那就是你最厉害的攻击吗？}
+{3526}{}{你比不上我！}
+{3527}{}{这比我想象的要容易}
+#
+# target hit in head
+#
+{3528}{}{那会成为一个很酷的伤疤！}
+{3529}{}{你想给我留下记号吗？}
+{3530}{}{再来一次，蜜糖。}
+#
+# target hit in left arm
+#
+{3531}{}{我喜欢听骨头破碎的声音}
+{3532}{}{哦，你是认真的？}
+{3533}{}{我喜欢野蛮型的，宝贝}
+#
+# target hit in right arm
+#
+{3534}{}{我喜欢听骨头破碎的声音}
+{3535}{}{哦，你是认真的？}
+{3536}{}{我喜欢野蛮型的，宝贝}
+#
+# target hit in torso
+#
+{3537}{}{你粗鲁的样子我喜欢……}
+{3538}{}{再来啊，爱死你了……}
+{3539}{}{喔！哦，爱的抚摸，宝贝！}
+{3540}{}{哇！}
+{3541}{}{嗷！}
+{3542}{}{啊！这是不是意味着结束？}
+{3543}{}{[Gasp!]}
+{3544}{}{在打我一下，求你……}
+{3545}{}{下次我下面一定支帐篷}
+{3546}{}{噢，疼啊，疼啊……}
+#
+# target hit in right leg
+#
+{3547}{}{我喜欢听骨头破碎的声音}
+{3548}{}{哦，你是认真的？}
+{3549}{}{}
+#
+# target hit in left leg
+#
+{3550}{}{我喜欢听骨头破碎的声音}
+{3551}{}{}
+{3552}{}{我喜欢！}
+#
+# target hit in eyes
+#
+{3553}{}{嗨，我瞎了。急什么！}
+{3554}{}{我看不见了。我可以闻到你，我猜你在害怕！}
+{3555}{}{我的眼睛！男人，我要揍你}
+#
+# target hit in groin
+#
+{3556}{}{啊啊啊啊！我的毬！}
+{3557}{}{还可以正常移动}
+{3558}{}{喔喔！那是个提议吗，宝贝？}
+{3559}{}{}
+{3560}{}{那就是你的攻击方式}
+{3561}{}{噢，干得好哥们！}
+
+#
+# 27. Blade  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I'm gonna tear you a new...
+#
+#
+#  running away (6)
+#
+{3600}{}{}
+{3601}{}{}
+{3602}{}{}
+{3603}{}{你不会赢的！}
+{3604}{}{攻击！}
+{3605}{}{你不会需要这个……}
+#
+# moving in to attack
+#
+{3606}{}{攻击！}
+{3607}{}{我喜欢把你埋在一个很浅的墓中！}
+{3608}{}{}
+{3609}{}{不要垂死挣扎了}
+{3610}{}{杀死入侵者！}
+{3611}{}{}
+#
+# attacking
+#
+{3612}{}{}
+{3613}{}{去死！}
+{3614}{}{卑鄙！}
+{3615}{}{这就是他们叫我刀刃的原因}
+{3616}{}{}
+{3617}{}{希望那很疼}
+{3618}{}{享受一下吧}
+{3619}{}{你的头会成为我的收藏品！}
+{3620}{}{我会给你挖坟的}
+{3621}{}{你的生活正在变坏}
+#
+# target being missed
+#
+{3622}{}{我比上帝还要公正！}
+{3623}{}{没有瞄准}
+{3624}{}{让我看看这些子弹！}
+{3625}{}{}
+{3626}{}{婊子养的！}
+{3627}{}{你在打苍蝇吗，笨蛋？}
+#
+# target hit in head
+#
+{3628}{}{}
+{3629}{}{攻击！}
+{3630}{}{啊！打破了我的鼻子……}
+#
+# target hit in left arm
+#
+{3631}{}{啊！}
+{3632}{}{啊！我的胳膊！}
+{3633}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{3634}{}{啊！}
+{3635}{}{啊！我的胳膊！}
+{3636}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{3637}{}{啊！}
+{3638}{}{啊，狗屎！}
+{3639}{}{啊！多严重的错误……}
+{3640}{}{啊！我会叫你好看……}
+{3641}{}{[Gasp!]}
+{3642}{}{不能呼吸了……}
+{3643}{}{}
+{3644}{}{哇！}
+{3645}{}{香蕉你个芭腊！真疼啊！}
+{3646}{}{}
+#
+# target hit in right leg
+#
+{3647}{}{啊！}
+{3648}{}{啊！我的膝盖！}
+{3649}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{3650}{}{啊！}
+{3651}{}{啊！我的膝盖！}
+{3652}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{3653}{}{我瞎了！}
+{3654}{}{我看不见了！}
+{3655}{}{我的眼睛！你这婊子养的……}
+#
+# target hit in groin
+#
+{3656}{}{啊啊啊啊！我的毬！}
+{3657}{}{哎呦！}
+{3658}{}{他妈的真疼啊}
+{3659}{}{哇！}
+{3660}{}{我会杀了你，垃圾}
+{3661}{}{我……不能……呼吸了……}
+
+#
+# 28.  Gun Runners  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#
+#  running away
+#
+{3700}{}{我还要看明天的日出呢}
+{3701}{}{也许这不是个好主意}
+{3702}{}{}
+{3703}{}{}
+{3704}{}{我不能参加战斗！}
+{3705}{}{我不能相信他们正在包装的……}
+#
+# moving in to attack
+#
+{3706}{}{要试试我们商人的肌肉吗，嗯？}
+{3707}{}{某人正在犯一个大错误！}
+{3708}{}{Time to rip a clip...}
+{3709}{}{你以为你是谁？}
+{3710}{}{时间够展示这些货物的了}
+{3711}{}{等我抓到你……}
+#
+# attacking
+#
+{3712}{}{Ride my bullet back to hell!}
+{3713}{}{}
+{3714}{}{}
+{3715}{}{你喜欢这样吗？}
+{3716}{}{我来纠正你的坏习惯}
+{3717}{}{这样的火力怎么样？}
+{3718}{}{让我们看看你有多厉害……}
+{3719}{}{我的生命就是战斗}
+{3720}{}{}
+{3721}{}{你该学会尊老爱幼}
+#
+# target being missed
+#
+{3722}{}{你不希望跟着我，不是吗？}
+{3723}{}{我干这行很久了，垃圾}
+{3724}{}{你不希望这样吗，不是吗？}
+{3725}{}{那将会是你最后一个错误}
+{3726}{}{业余的}
+{3727}{}{那不像射击变种地鼠一样，哥们。}
+#
+# target hit in head
+#
+{3728}{}{啊！你这狗娘养的……}
+{3729}{}{我要杀了你}
+{3730}{}{我要把你的头拧下来！}
+#
+# target hit in left arm
+#
+{3731}{}{啊，我的胳膊}
+{3732}{}{见鬼。我的手断了！}
+{3733}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{3734}{}{啊，我的胳膊}
+{3735}{}{见鬼。我的手断了！}
+{3736}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{3737}{}{我看到就是我的年轻雇员也要比你强……}
+{3738}{}{哎唷！}
+{3739}{}{改天我一定记得让你吃点苦头}
+{3740}{}{哇！}
+{3741}{}{}
+{3742}{}{该死！}
+{3743}{}{真是怪人！}
+{3744}{}{}
+{3745}{}{[Gasp!]}
+{3746}{}{哎唷！}
+#
+# target hit in right leg
+#
+{3747}{}{啊，我的腿}
+{3748}{}{}
+{3749}{}{我的膝盖！}
+#
+# target hit in left leg
+#
+{3750}{}{啊，我的腿}
+{3751}{}{你会付出代价，一定！}
+{3752}{}{啊，我的膝盖}
+#
+# target hit in eyes
+#
+{3753}{}{我看不见了！}
+{3754}{}{我的眼睛！你会付出代价的！}
+{3755}{}{啊啊啊啊！我瞎了！}
+#
+# target hit in groin
+#
+{3756}{}{啊啊啊啊！我的毬！}
+{3757}{}{这就是你的游戏方式}
+{3758}{}{}
+{3759}{}{呜！}
+{3760}{}{}
+{3761}{}{疼啊，疼啊……}
+
+#
+# 29. Regulator  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# This one's better armed than usual. We need back-up, now!
+#
+#
+#  running away
+#
+{3800}{}{我需要增援！}
+{3801}{}{救救我吧！}
+{3802}{}{重新部署！}
+{3803}{}{撤！撤！}
+{3804}{}{撤退！撤退！}
+{3805}{}{我们应该找个好位置！}
+#
+# moving in to attack
+#
+{3806}{}{我们有靶子了！}
+{3807}{}{我们进攻！}
+{3808}{}{警报！我希望他们没走远！}
+{3809}{}{我们有一个问题。我将会处理它的。}
+{3810}{}{目标逃走，中途拦截！}
+{3811}{}{多明显的靶子！}
+#
+# attacking
+#
+{3812}{}{黑社会垃圾！}
+{3813}{}{我要把你从我们的不幸生活中赶出去}
+{3814}{}{你猪狗不如！}
+{3815}{}{呆在那儿别动}
+{3816}{}{你不会打扰其他人了}
+{3817}{}{不会饶了你的，垃圾！}
+{3818}{}{你该去向上帝祈祷了！}
+{3819}{}{Ride my bullet back to hell!}
+{3820}{}{先给你一下}
+{3821}{}{地狱正等着你！}
+#
+# target being missed
+#
+{3822}{}{你的攻击比屁还臭，蛆！}
+{3823}{}{来啊失败者。把脑袋给我}
+{3824}{}{}
+{3825}{}{你玩错游戏了，卑鄙的家伙！}
+{3826}{}{那有什么关系吗，垃圾？}
+{3827}{}{我不会那么容易死的。}
+#
+# target hit in head (3)
+#
+{3828}{}{啊啊啊啊！准确命中！}
+{3829}{}{我的脸！}
+{3830}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{3831}{}{啊啊啊啊！准确命中！}
+{3832}{}{一条断手不能阻止我！}
+{3833}{}{}
+#
+# target hit in right arm
+#
+{3834}{}{啊啊啊啊！准确命中！}
+{3835}{}{一条断手不能阻止我！}
+{3836}{}{我不喜欢那声音}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{3837}{}{啊啊啊啊！准确命中！}
+{3838}{}{}
+{3839}{}{你不能让我变成瘸子，哥们。}
+#
+# target hit in left leg
+#
+{3840}{}{啊啊啊啊！准确命中！}
+{3841}{}{}
+{3842}{}{你不能让我变成瘸子，哥们。}
+#
+# target hit in eyes
+#
+{3843}{}{我瞎了！}
+{3844}{}{我的眼睛像火烧一样！}
+{3845}{}{我看不见了！}
+#
+# target hit in groin
+#
+{3846}{}{啊啊啊啊！我的毬！}
+{3847}{}{耶，小人经常瞄准下面射击}
+{3848}{}{他妈的真疼啊！}
+{3849}{}{我……不能……呼吸了……}
+{3850}{}{啊啊啊啊。卑鄙的家伙……}
+{3851}{}{你个垃圾……}
+
+#
+# 30. Adytowner  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# They've broken through our defenses! Fall back!
+#
+#
+#  running away
+#
+{3900}{}{我需要增援！}
+{3901}{}{救救我吧！}
+{3902}{}{}
+{3903}{}{撤！撤！}
+{3904}{}{撤退！撤退！}
+{3905}{}{救命！}
+#
+# moving in to attack
+#
+{3906}{}{For Adytum!}
+{3907}{}{我们进攻！}
+{3908}{}{我需要支援！}
+{3909}{}{攻击！}
+{3910}{}{我们这里不喜欢你这种人!}
+{3911}{}{拿起武器！拿起武器！}
+#
+# attacking
+#
+{3912}{}{This is for Adytum!}
+{3913}{}{我们就是这样对待畜生的！}
+{3914}{}{欢迎来地域，垃圾}
+{3915}{}{呆在那儿别动}
+{3916}{}{你不会打扰其他人了}
+{3917}{}{不会饶了你的，垃圾！}
+{3918}{}{你该去向上帝祈祷了！}
+{3919}{}{}
+{3920}{}{你买的房子不足六英尺}
+{3921}{}{享受你的生命吧，你将会见到你最后的亮光}
+#
+# target being missed
+#
+{3922}{}{你在浪费子弹}
+{3923}{}{}
+{3924}{}{}
+{3925}{}{现在轮到我了}
+{3926}{}{惊讶吗，垃圾？}
+{3927}{}{我们是不会轻易死的}
+#
+# target hit in head (3)
+#
+{3928}{}{啊啊啊啊！打到我的脸了。}
+{3929}{}{我的脸！}
+{3930}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{3931}{}{啊啊啊啊！我的胳膊}
+{3932}{}{啊！真疼！}
+{3933}{}{见鬼。我伤得很严重}
+#
+# target hit in right arm
+#
+{3934}{}{啊啊啊啊！我的胳膊}
+{3935}{}{啊！真疼！}
+{3936}{}{见鬼。我伤得很严重}
+#
+# target hit in torso
+#
+{3937}{}{哎唷！}
+{3938}{}{喔！真疼！}
+{3939}{}{喔！呼吸……不……顺畅了……}
+{3940}{}{我被打中了！医生！}
+{3941}{}{我会受欢迎的，那只是个小伤口}
+{3942}{}{啊！}
+{3943}{}{啊！该死！}
+{3944}{}{啊！我会抓到你的}
+{3945}{}{}
+{3946}{}{}
+#
+# target hit in right leg
+#
+{3947}{}{啊啊啊啊！准确命中！}
+{3948}{}{该死，打中了膝盖……}
+{3949}{}{我不会失败的，垃圾。啊。}
+#
+# target hit in left leg
+#
+{3950}{}{啊啊啊啊！准确命中！}
+{3951}{}{该死，打中了膝盖……}
+{3952}{}{我不会失败的，垃圾。啊。}
+#
+# target hit in eyes
+#
+{3953}{}{我瞎了！救我！}
+{3954}{}{该死，伤了眼睛！}
+{3955}{}{我看不见了！}
+#
+# target hit in groin
+#
+{3956}{}{啊啊啊啊！我的毬！}
+{3957}{}{耶，垃圾经常瞄准下面射击}
+{3958}{}{他妈的真疼啊！}
+{3959}{}{我……不能……呼吸了……}
+{3960}{}{啊啊啊啊。卑鄙的家伙……}
+{3961}{}{你个垃圾……}
+
+#
+# 31. Generic Follower  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# No retreat, no surrender, no slogans.
+#
+#
+#  running away
+#
+{4000}{}{掩护我！}
+{4001}{}{救救我吧！}
+{4002}{}{医疗兵！}
+{4003}{}{撤！撤！}
+{4004}{}{撤退！撤退！}
+{4005}{}{救命！}
+#
+# moving in to attack
+#
+{4006}{}{有麻烦了。}
+{4007}{}{我们进攻！}
+{4008}{}{我们有麻烦了！}
+{4009}{}{再来点伤口！}
+{4010}{}{如果我让你过去，他们会杀了我的！}
+{4011}{}{你选错了人，把事情搞砸了}
+#
+# attacking
+#
+{4012}{}{如果你有机会，就赶快逃跑}
+{4013}{}{时间到了}
+{4014}{}{}
+{4015}{}{}
+{4016}{}{我的良心不让我制造另一个尸体……}
+{4017}{}{这次我会让你痛快的上路的}
+{4018}{}{你该去向上帝祈祷了！}
+{4019}{}{}
+{4020}{}{}
+{4021}{}{你不能活着离开这里}
+#
+# target being missed
+#
+{4022}{}{你赢不了这场战斗}
+{4023}{}{}
+{4024}{}{你不可能赢的……}
+{4025}{}{现在轮到我了}
+{4026}{}{你不用武器吗？你是不会赢的！}
+{4027}{}{我们是不会轻易死的}
+#
+# target hit in head (3)
+#
+{4028}{}{啊啊啊啊！打到我的脸了。}
+{4029}{}{我的脸！}
+{4030}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{4031}{}{啊啊啊啊！我的胳膊}
+{4032}{}{啊！真疼！}
+{4033}{}{见鬼。我伤得很严重}
+#
+# target hit in right arm
+#
+{4034}{}{啊啊啊啊！我的胳膊}
+{4035}{}{啊！真疼！}
+{4036}{}{见鬼。我伤得很严重}
+#
+# target hit in torso
+#
+{4037}{}{啊！那真疼啊}
+{4038}{}{}
+{4039}{}{喔！你应该比那做的还要好}
+{4040}{}{哦！你以为你能轻易的打倒我！？}
+{4041}{}{哎唷！}
+{4042}{}{啊！}
+{4043}{}{哇！}
+{4044}{}{[Gasp!]}
+{4045}{}{}
+#
+# target hit in right leg
+#
+{4047}{}{啊啊啊啊！我的腿！}
+{4048}{}{该死，打中了右膝……}
+{4049}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in left leg
+#
+{4050}{}{啊啊啊啊！我的腿！}
+{4051}{}{该死，打中了右膝……}
+{4052}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in eyes
+#
+{4053}{}{我瞎了！救我！}
+{4054}{}{}
+{4055}{}{我看不见了！}
+#
+# target hit in groin
+#
+{4056}{}{啊啊啊啊！我的毬！}
+{4057}{}{}
+{4058}{}{该死！}
+{4059}{}{我……不能……呼吸了……}
+{4060}{}{}
+{4061}{}{你这个瘪三！}
+
+#
+# 32. Follower, Scout  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't see anything... wait! Look at the firepower on that mother!
+#
+#
+#  running away
+#
+{4100}{}{}
+{4101}{}{救我！}
+{4102}{}{}
+{4103}{}{撤！撤！}
+{4104}{}{撤退！撤退！}
+{4105}{}{救命！}
+#
+# moving in to attack
+#
+{4106}{}{}
+{4107}{}{我想我们有麻烦了}
+{4108}{}{让我看一下，也许我能很快的解决}
+{4109}{}{让他们安全的离开这里}
+{4110}{}{那看起来像是激烈的交火}
+{4111}{}{你选错了人，把事情搞砸了}
+#
+# attacking
+#
+{4112}{}{如果你有机会，就赶快逃跑}
+{4113}{}{时间到了}
+{4114}{}{}
+{4115}{}{你以后就不会受到恐吓了}
+{4116}{}{}
+{4117}{}{}
+{4118}{}{}
+{4119}{}{One less vermin in L.A. Boneyard}
+{4120}{}{}
+{4121}{}{你不能活着离开这里}
+#
+# target being missed
+#
+{4122}{}{你不会赢的}
+{4123}{}{}
+{4124}{}{}
+{4125}{}{现在轮到我了}
+{4126}{}{你赢不了的！}
+{4127}{}{}
+#
+# target hit in head (3)
+#
+{4128}{}{啊啊啊啊！}
+{4129}{}{}
+{4130}{}{我的脸！}
+#
+# target hit in left arm
+#
+{4131}{}{啊啊啊啊！我的胳膊}
+{4132}{}{很好，那条血肉模糊的胳膊没用了……}
+{4133}{}{见鬼。我伤得很严重}
+#
+# target hit in right arm
+#
+{4134}{}{啊啊啊啊！我的胳膊}
+{4135}{}{很好，那条血肉模糊的胳膊没用了……}
+{4136}{}{见鬼。我伤得很严重}
+#
+# target hit in torso
+#
+{4137}{}{啊！我警告你}
+{4138}{}{喔！要活下去，要活下去……}
+{4139}{}{}
+{4140}{}{哇！}
+{4141}{}{呸！}
+{4142}{}{啊！}
+{4143}{}{啊！}
+{4144}{}{}
+{4145}{}{}
+{4146}{}{}
+#
+# target hit in right leg
+#
+{4147}{}{啊啊啊啊！我的腿！}
+{4148}{}{该死，打中了右膝……}
+{4149}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in left leg
+#
+{4150}{}{啊啊啊啊！我的腿！}
+{4151}{}{该死，打中了右膝……}
+{4152}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in eyes
+#
+{4153}{}{我瞎了！也许我应该现擦掉血……}
+{4154}{}{该死，伤了右眼！}
+{4155}{}{我看不见了！}
+#
+# target hit in groin
+#
+{4156}{}{}
+{4157}{}{哇靠！}
+{4158}{}{}
+{4159}{}{我……不能……呼吸了……}
+{4160}{}{}
+{4161}{}{}
+
+#
+# 33. Follower, Guard  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I will hold my position. You get out of here. Go!
+#
+#
+#  running away
+#
+{4200}{}{}
+{4201}{}{防护不足，我受了重伤！}
+{4202}{}{}
+{4203}{}{}
+{4204}{}{撤退！撤退！}
+{4205}{}{掩护我！}
+#
+# moving in to attack
+#
+{4206}{}{}
+{4207}{}{}
+{4208}{}{保护基地！}
+{4209}{}{}
+{4210}{}{入侵者！}
+{4211}{}{你最好带着死亡证明}
+#
+# attacking
+#
+{4212}{}{}
+{4213}{}{}
+{4214}{}{}
+{4215}{}{你以后就不会受到恐吓了……}
+{4216}{}{这个会伤了你……}
+{4217}{}{我要把你赶走……}
+{4218}{}{}
+{4219}{}{One less vermin in L.A. Boneyard}
+{4220}{}{}
+{4221}{}{你不能活着离开这里}
+#
+# target being missed
+#
+{4222}{}{你赢不了这场战斗}
+{4223}{}{}
+{4224}{}{}
+{4225}{}{现在轮到我了}
+{4226}{}{你刚犯了个大错误}
+{4227}{}{}
+#
+# target hit in head (3)
+#
+{4228}{}{该死！}
+{4229}{}{}
+{4230}{}{我想我的鼻子破了}
+#
+# target hit in left arm
+#
+{4231}{}{我的胳膊！}
+{4232}{}{}
+{4233}{}{我可能受了重伤……}
+#
+# target hit in right arm
+#
+{4234}{}{我的胳膊！}
+{4235}{}{很好，那条血肉模糊的胳膊没用了……}
+{4236}{}{该死！我可能受了重伤……}
+#
+# target hit in torso
+#
+{4237}{}{}
+{4238}{}{}
+{4239}{}{}
+{4240}{}{哇！}
+{4241}{}{呸！}
+{4242}{}{啊！}
+{4243}{}{啊！}
+{4244}{}{啊！那东西可能伤到我了}
+{4245}{}{该死，真疼！}
+{4246}{}{}
+#
+# target hit in right leg
+#
+{4247}{}{我的腿！}
+{4248}{}{该死，打中了右膝……}
+{4249}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in left leg
+#
+{4250}{}{我的腿！}
+{4251}{}{该死，打中了右膝……}
+{4252}{}{啊啊啊啊！还能够站起来……}
+#
+# target hit in eyes
+#
+{4253}{}{我瞎了！}
+{4254}{}{该死，伤了眼睛！}
+{4255}{}{我看不见了！}
+#
+# target hit in groin
+#
+{4256}{}{喔！我的老二！}
+{4257}{}{}
+{4258}{}{下地狱吧！}
+{4259}{}{我……不能……呼吸了……}
+{4260}{}{}
+{4261}{}{}
+
+#
+# 34. Follower, Leader (aka Nicole)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Time to do my duty.
+#
+#
+#  running away
+#
+{4300}{}{我去找个安全的地方……}
+{4301}{}{防护不足，我受了重伤……}
+{4302}{}{还没有结束！}
+{4303}{}{重新列队……}
+{4304}{}{攻击！}
+{4305}{}{暴力不能解决问题}
+#
+# moving in to attack
+#
+{4306}{}{我会处理的}
+{4307}{}{事情严重了！}
+{4308}{}{保护基地！}
+{4309}{}{我们不能让这个垃圾妨碍我们完成任务！}
+{4310}{}{}
+{4311}{}{}
+#
+# attacking
+#
+{4312}{}{我不喜欢这样}
+{4313}{}{时间到了}
+{4314}{}{}
+{4315}{}{你不该来这儿}
+{4316}{}{这个会伤了你……}
+{4317}{}{我不能让你毁了我们的建筑}
+{4318}{}{}
+{4319}{}{我对于我的所作所为深表遗憾}
+{4320}{}{是该死的你让我做这一切的！}
+{4321}{}{我可怜你}
+#
+# target being missed
+#
+{4322}{}{我不会让你赢的}
+{4323}{}{你的动作十分笨拙}
+{4324}{}{我们知道怎样照顾自己}
+{4325}{}{现在轮到我了}
+{4326}{}{这是你最后的错误}
+{4327}{}{}
+#
+# target hit in head (3)
+#
+{4328}{}{见鬼。真疼啊}
+{4329}{}{下巴碎了。阻止不了我的。}
+{4330}{}{我想我的鼻子破了}
+#
+# target hit in left arm
+#
+{4331}{}{我的胳膊！}
+{4332}{}{胳膊不能用了。必须继续进攻}
+{4333}{}{该死！我受了重伤}
+#
+# target hit in right arm
+#
+{4334}{}{我的胳膊！}
+{4335}{}{胳膊不能用了。必须继续进攻}
+{4336}{}{该死！我受了重伤}
+#
+# target hit in torso
+#
+{4337}{}{}
+{4338}{}{哇！}
+{4339}{}{}
+{4340}{}{}
+{4341}{}{[Gasp!]}
+{4342}{}{啊！}
+{4343}{}{啊！}
+{4344}{}{啊！你可以打败我，但真理长存}
+{4345}{}{啊！}
+{4346}{}{}
+#
+# target hit in right leg
+#
+{4347}{}{我的腿！}
+{4348}{}{该死，打中了膝盖……}
+{4349}{}{}
+#
+# target hit in left leg
+#
+{4350}{}{我的腿！}
+{4351}{}{该死，打中了膝盖……}
+{4352}{}{腿掉了，但是我还可以战斗！}
+#
+# target hit in eyes
+#
+{4353}{}{我瞎了！阻止不了我的……}
+{4354}{}{我瞎了！}
+{4355}{}{我看不见了！}
+#
+# target hit in groin
+#
+{4356}{}{啊啊啊啊！！}
+{4357}{}{}
+{4358}{}{哇！}
+{4359}{}{}
+{4360}{}{哇靠！}
+{4361}{}{}
+
+#
+# 35. Ripper Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I am the most evil man alive!
+#
+#
+#  running away
+#
+{4400}{}{你很快就会死了！}
+{4401}{}{我会回来的！}
+{4402}{}{你等着，垃圾！}
+{4403}{}{}
+{4404}{}{我先让你待会！}
+{4405}{}{}
+#
+# moving in to attack
+#
+{4406}{}{我要把你的头拧下来！}
+{4407}{}{新鲜的肉！}
+{4408}{}{}
+{4409}{}{}
+{4410}{}{我要把你撕成碎片吃掉！}
+{4411}{}{}
+#
+# attacking
+#
+{4412}{}{我要把你做成棒棒蜥蜴！}
+{4413}{}{}
+{4414}{}{不要死的太快—我要你吃点苦头。}
+{4415}{}{你冒犯了废车场的国王！}
+{4416}{}{}
+{4417}{}{你的尸体会很漂亮的}
+{4418}{}{去死！去死！去死！去死！去死！}
+{4419}{}{}
+{4420}{}{今晚就把你喂虫子。}
+{4421}{}{我要剥了你的皮！}
+#
+# target being missed
+#
+{4422}{}{}
+{4423}{}{来啊！开枪啊，笨蛋！}
+{4424}{}{来啊垃圾。打我啊！}
+{4425}{}{那就是你最厉害的攻击吗？}
+{4426}{}{你什么都不是！}
+{4427}{}{我是杀不死的！}
+#
+# target hit in head
+#
+{4428}{}{}
+{4429}{}{}
+{4430}{}{啊！}
+#
+# target hit in left arm
+#
+{4431}{}{我喜欢听骨头破碎的声音}
+{4432}{}{}
+{4433}{}{我很生气，婊子！}
+#
+# target hit in right arm
+#
+{4434}{}{我的胳膊！}
+{4435}{}{}
+{4436}{}{狗娘养的！我的胳膊！}
+#
+# target hit in torso
+#
+{4437}{}{我的胸部！}
+{4438}{}{啊！那将会是你最后一个错误}
+{4439}{}{}
+{4440}{}{[Gasp!]}
+{4441}{}{呸！}
+{4442}{}{啊！那会留下伤疤的}
+{4443}{}{啊！}
+{4444}{}{白痴！}
+{4445}{}{我会整天咳嗽的}
+{4446}{}{}
+#
+# target hit in right leg
+#
+{4447}{}{我喜欢听骨头破碎的声音}
+{4448}{}{}
+{4449}{}{}
+#
+# target hit in left leg
+#
+{4450}{}{我的腿！}
+{4451}{}{}
+{4452}{}{诅咒你！}
+#
+# target hit in eyes
+#
+{4453}{}{}
+{4454}{}{我能闻到你害怕的气息！}
+{4455}{}{我的眼睛！男人，我要揍你}
+#
+# target hit in groin
+#
+{4456}{}{啊！我的毬！}
+{4457}{}{}
+{4458}{}{喔喔！那是个提议吗，宝贝？}
+{4459}{}{}
+{4460}{}{那就是你的攻击方式}
+{4461}{}{}
+
+#
+# 36. Blade, Scout  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Someone's approaching our turf!
+#
+#
+#  running away (6)
+#
+{4500}{}{我要离开这里！}
+{4501}{}{}
+{4502}{}{}
+{4503}{}{你不会赢的！}
+{4504}{}{}
+{4505}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{4506}{}{攻击！}
+{4507}{}{你现在成为了历史！}
+{4508}{}{你加错帮派了！}
+{4509}{}{在我们地盘上没有人会撒野！}
+{4510}{}{}
+{4511}{}{}
+#
+# attacking
+#
+{4512}{}{我是你大爷！}
+{4513}{}{去死！}
+{4514}{}{来点伤疤}
+{4515}{}{这就是他们叫我利刃的原因}
+{4516}{}{我会给你写墓志铭的}
+{4517}{}{希望那很疼}
+{4518}{}{}
+{4519}{}{}
+{4520}{}{我会给你挖坟的}
+{4521}{}{你死定了}
+#
+# target being missed
+#
+{4522}{}{我比上帝还要公正！}
+{4523}{}{}
+{4524}{}{让我看看这些子弹！}
+{4525}{}{你像撕裂者一样虚弱！}
+{4526}{}{}
+{4527}{}{你不是利刃帮的人！}
+#
+# target hit in head
+#
+{4528}{}{}
+{4529}{}{我的眼睛！}
+{4530}{}{啊！我的鼻子破了}
+#
+# target hit in left arm
+#
+{4531}{}{啊！}
+{4532}{}{啊！我的胳膊！}
+{4533}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{4534}{}{啊！}
+{4535}{}{啊！我的胳膊！}
+{4536}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{4537}{}{啊！}
+{4538}{}{啊！我的胸部！}
+{4539}{}{喔！我的肋骨！}
+{4540}{}{（嘟囔）}
+{4541}{}{疼痛的感觉真可笑！}
+{4542}{}{[Gasp!]}
+{4543}{}{像你的攻击一样猛烈吗？}
+{4544}{}{}
+{4545}{}{哇！}
+{4546}{}{}
+#
+# target hit in right leg
+#
+{4547}{}{啊！}
+{4548}{}{啊！我的膝盖！}
+{4549}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{4550}{}{啊！}
+{4551}{}{啊！我的膝盖！}
+{4552}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{4553}{}{我瞎了！}
+{4554}{}{我看不见了！}
+{4555}{}{我的眼睛！婊子养的……}
+#
+# target hit in groin
+#
+{4556}{}{啊啊啊啊！我的毬！}
+{4557}{}{哎呦！}
+{4558}{}{他妈的真疼啊}
+{4559}{}{哇！}
+{4560}{}{我要把你撕成碎片}
+{4561}{}{我……不能……呼吸了……}
+
+#
+# 37. Blade, Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Rippers, Followers, Children, I don't care
+#
+#
+#  running away (6)
+#
+{4600}{}{}
+{4601}{}{}
+{4602}{}{只是等会收拾你，垃圾！}
+{4603}{}{你不会赢的！}
+{4604}{}{不要笑！我会在你的坟上撒尿的}
+{4605}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{4606}{}{}
+{4607}{}{}
+{4608}{}{你加错帮派了！}
+{4609}{}{}
+{4610}{}{}
+{4611}{}{去死！}
+#
+# attacking
+#
+{4612}{}{}
+{4613}{}{去死！}
+{4614}{}{}
+{4615}{}{你希望要个多大的疤？}
+{4616}{}{}
+{4617}{}{希望那很疼}
+{4618}{}{}
+{4619}{}{}
+{4620}{}{我会给你挖坟的}
+{4621}{}{你死定了}
+#
+# target being missed
+#
+{4622}{}{我是你大爷！}
+{4623}{}{}
+{4624}{}{让我看看这些子弹！}
+{4625}{}{我认可你了！}
+{4626}{}{}
+{4627}{}{}
+#
+# target hit in head
+#
+{4628}{}{真疼}
+{4629}{}{我的眼睛！}
+{4630}{}{啊！我的鼻子……}
+#
+# target hit in left arm
+#
+{4631}{}{啊！}
+{4632}{}{啊！我的胳膊！}
+{4633}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{4634}{}{啊！}
+{4635}{}{啊！我的胳膊！}
+{4636}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{4637}{}{啊！}
+{4638}{}{啊！我的胸部！}
+{4639}{}{喔！我的肋骨！}
+{4640}{}{【嘟囔】}
+{4641}{}{哈！疼痛的感觉真可笑！}
+{4642}{}{[Gasp!]}
+{4643}{}{}
+{4644}{}{}
+{4645}{}{哇！}
+{4646}{}{哦，耶，弄醒我了！}
+#
+# target hit in right leg
+#
+{4647}{}{啊！}
+{4648}{}{啊！我的膝盖！}
+{4649}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{4650}{}{啊！}
+{4651}{}{啊！我的膝盖！}
+{4652}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{4653}{}{我瞎了！}
+{4654}{}{我看不见了！}
+{4655}{}{我的眼睛！婊子养的……}
+#
+# target hit in groin
+#
+{4656}{}{啊啊啊啊！我的毬！}
+{4657}{}{哎呦！}
+{4658}{}{他妈的真疼啊}
+{4659}{}{哇！}
+{4660}{}{我要把你撕成碎片}
+{4661}{}{我……不能……呼吸了……}
+
+#
+# 38. Gun Runners, Leader  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#
+#  running away
+#
+{4700}{}{}
+{4701}{}{也许这不是个好主意}
+{4702}{}{}
+{4703}{}{}
+{4704}{}{我不能参加战斗！}
+{4705}{}{我不能相信他们正在包装的……}
+#
+# moving in to attack
+#
+{4706}{}{Time to rip a clip...}
+{4707}{}{某人正在犯一个大错误！}
+{4708}{}{}
+{4709}{}{你以为你是谁？}
+{4710}{}{展示武力的时间到了}
+{4711}{}{}
+#
+# attacking
+#
+{4712}{}{}
+{4713}{}{练习的靶子！}
+{4714}{}{}
+{4715}{}{你喜欢这样吗？}
+{4716}{}{}
+{4717}{}{这样的火力怎么样？}
+{4718}{}{让我们看看你怎样处理这个……}
+{4719}{}{}
+{4720}{}{}
+{4721}{}{Ride my bullet back to hell!}
+#
+# target being missed
+#
+{4722}{}{}
+{4723}{}{}
+{4724}{}{你不希望那样，不是吗？}
+{4725}{}{那将会是你最后一个错误}
+{4726}{}{业余的}
+{4727}{}{你的攻击真无力！}
+#
+# target hit in head
+#
+{4728}{}{啊！你这狗娘养的……}
+{4729}{}{我要杀了你}
+{4730}{}{我要把你的头拧下来！}
+#
+# target hit in left arm
+#
+{4731}{}{啊，我的胳膊}
+{4732}{}{见鬼。我的手断了！}
+{4733}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{4734}{}{啊，我的胳膊}
+{4735}{}{见鬼。我的手断了！}
+{4736}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{4737}{}{啊！}
+{4738}{}{啊！我的胸部！}
+{4739}{}{喔！我的肋骨！}
+{4740}{}{}
+{4741}{}{}
+{4742}{}{}
+{4743}{}{}
+{4744}{}{需要医生检查了……}
+{4745}{}{}
+{4746}{}{哇！}
+#
+# target hit in right leg
+#
+{4747}{}{啊，我的腿}
+{4748}{}{你会付出代价的！}
+{4749}{}{啊，我的膝盖}
+#
+# target hit in left leg
+#
+{4750}{}{啊，我的腿}
+{4751}{}{你会付出代价的！}
+{4752}{}{啊，我的膝盖}
+#
+# target hit in eyes
+#
+{4753}{}{我看不见了！}
+{4754}{}{我的眼睛！你会付出代价的！}
+{4755}{}{}
+#
+# target hit in groin
+#
+{4756}{}{啊啊啊啊！我的毬！}
+{4757}{}{这就是你的游戏方式}
+{4758}{}{}
+{4759}{}{呜！}
+{4760}{}{}
+{4761}{}{卑鄙！}
+
+#
+# 39. Adytum, Leader,  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We have a situation, and it's a bad one.
+#
+#
+#  running away
+#
+{4800}{}{我需要增援！}
+{4801}{}{救救我吧！}
+{4802}{}{医疗兵！}
+{4803}{}{撤！撤！}
+{4804}{}{撤退！撤退！}
+{4805}{}{重新部署！}
+#
+# moving in to attack
+#
+{4806}{}{我会小心的}
+{4807}{}{我们进攻！}
+{4808}{}{}
+{4809}{}{攻击！}
+{4810}{}{}
+{4811}{}{拿起武器！拿起武器！}
+#
+# attacking
+#
+{4812}{}{This is for Adytum!}
+{4813}{}{我们就是这样对待畜生的！}
+{4814}{}{欢迎来地域，垃圾}
+{4815}{}{享受你生命里的最后几分钟吧……}
+{4816}{}{你不会打扰其他人了}
+{4817}{}{}
+{4818}{}{你不可以开始攻击}
+{4819}{}{}
+{4820}{}{}
+{4821}{}{你那样做了，垃圾！}
+#
+# target being missed
+#
+{4822}{}{}
+{4823}{}{你瞄到那里去了，垃圾}
+{4824}{}{}
+{4825}{}{}
+{4826}{}{你在笑你的攻击，对吗？}
+{4827}{}{我不会轻易被杀死的……}
+#
+# target hit in head (3)
+#
+{4828}{}{见鬼！打到脸了。}
+{4829}{}{我的脸！}
+{4830}{}{我的鼻子！}
+#
+# target hit in left arm
+#
+{4831}{}{该死！我的胳膊}
+{4832}{}{啊！真疼！}
+{4833}{}{见鬼。我伤得很严重}
+#
+# target hit in right arm
+#
+{4834}{}{该死！我的胳膊}
+{4835}{}{啊！真疼！}
+{4836}{}{见鬼。我伤得很严重}
+#
+# target hit in torso
+#
+{4837}{}{啊！}
+{4838}{}{啊！打到右胸了！}
+{4839}{}{喔！打到我的肋骨了！}
+{4840}{}{哇！}
+{4841}{}{}
+{4842}{}{喔！内脏出来了！}
+{4843}{}{啊！}
+{4844}{}{哎唷！}
+{4845}{}{哇！}
+{4846}{}{我……需要……氧气……}
+#
+# target hit in right leg
+#
+{4847}{}{正中目标！}
+{4848}{}{该死，打中了膝盖……}
+{4849}{}{我不会摔倒的，垃圾。}
+#
+# target hit in left leg
+#
+{4850}{}{正中目标！}
+{4851}{}{该死，打中了膝盖……}
+{4852}{}{我不会摔倒的，垃圾。}
+#
+# target hit in eyes
+#
+{4853}{}{该死，我很不好……}
+{4854}{}{该死，伤了眼睛！}
+{4855}{}{我看不见了！}
+#
+# target hit in groin
+#
+{4856}{}{啊啊啊啊！我的毬！}
+{4857}{}{}
+{4858}{}{他妈的真疼啊！}
+{4859}{}{我……不能……呼吸了……}
+{4860}{}{你这个狗娘养的虐待狂……}
+{4861}{}{你个垃圾……}
+
+#
+# 40. Ghoul, Coward  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Maybe someone else should handle this
+#
+#
+#  running away
+{4900}{}{必须叫人过来！}
+{4901}{}{}
+{4902}{}{饶了我吧！饶了我吧！}
+{4903}{}{}
+{4904}{}{}
+{4905}{}{}
+#
+# moving in to attack
+#
+{4906}{}{为什么这些事发生在我身上？！}
+{4907}{}{我的援军在哪里？}
+{4908}{}{我这里需要一些帮助！}
+{4909}{}{}
+{4910}{}{}
+{4911}{}{}
+#
+# attacking (10)
+#
+{4912}{}{不要亲自做这些事}
+{4913}{}{}
+{4914}{}{}
+{4915}{}{}
+{4916}{}{我猜我伤到你了}
+{4917}{}{下去吧}
+{4918}{}{请不要为了这件事杀我}
+{4919}{}{}
+{4920}{}{我想我要成为病人了}
+{4921}{}{}
+#
+# target being missed (6)
+#
+{4922}{}{我还活着！我还活着！}
+{4923}{}{}
+{4924}{}{你还要瞄准点才能打到我}
+{4925}{}{}
+{4926}{}{今天不是你的幸运日。}
+{4927}{}{}
+#
+# target hit in head (3)
+#
+{4928}{}{不要打脸！}
+{4929}{}{啊！我的头！}
+{4930}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{4931}{}{啊，我的胳膊}
+{4932}{}{你打断了我的胳膊！}
+{4933}{}{那很必要吗？}
+#
+# target hit in right arm
+#
+{4934}{}{啊，我的胳膊}
+{4935}{}{你打断了我的胳膊！}
+{4936}{}{那很必要吗？}
+#
+# target hit in torso
+#
+{4937}{}{哇！}
+{4938}{}{啊！真疼！非常疼！}
+{4939}{}{}
+{4940}{}{呼！不要打我！}
+{4941}{}{啊！真疼！}
+{4942}{}{啊！请住手！}
+{4943}{}{哎唷！}
+{4944}{}{哇！}
+{4945}{}{哇！}
+{4946}{}{哦！喔！噢！啊！哎！}
+#
+# target hit in right leg
+#
+{4947}{}{啊，我的腿}
+{4948}{}{嗨，真疼！}
+{4949}{}{}
+#
+# target hit in left leg
+#
+{4950}{}{啊，我的腿}
+{4951}{}{嗨，真疼！}
+{4952}{}{那很必要吗？}
+#
+# target hit in eyes
+#
+{4953}{}{啊！我的视网膜！}
+{4954}{}{我的眼睛！上帝啊，我瞎了！}
+{4955}{}{为什么命运如此残酷！}
+#
+# target hit in groin
+#
+{4956}{}{啊啊啊啊！我的毬！}
+{4957}{}{喔！真疼！}
+{4958}{}{那很不友好。}
+{4959}{}{}
+{4960}{}{呜！}
+{4961}{}{}
+
+#
+# 41. Ghoul, Normal  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away (6)
+#
+{5000}{}{我要离开这里！}
+{5001}{}{}
+{5002}{}{啊啊啊啊啊！}
+{5003}{}{}
+{5004}{}{}
+{5005}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{5006}{}{}
+{5007}{}{}
+{5008}{}{某些人必须重新上一课}
+{5009}{}{不要垂死挣扎了}
+{5010}{}{}
+{5011}{}{}
+#
+# attacking
+#
+{5012}{}{}
+{5013}{}{去死！}
+{5014}{}{去死吧，开火！}
+{5015}{}{垃圾}
+{5016}{}{离子火焰！}
+{5017}{}{}
+{5018}{}{不要打扰我们}
+{5019}{}{燃烧吧！}
+{5020}{}{我会把你下葬的}
+{5021}{}{你死定了！}
+#
+# target being missed
+#
+{5022}{}{}
+{5023}{}{没有瞄准}
+{5024}{}{}
+{5025}{}{我会给你挖坟的}
+{5026}{}{你杀不了我的！}
+{5027}{}{是你预期的效果吗？}
+#
+# target hit in head
+#
+{5028}{}{}
+{5029}{}{我的眼睛！}
+{5030}{}{啊！}
+#
+# target hit in left arm
+#
+{5031}{}{啊！}
+{5032}{}{啊！我的胳膊！}
+{5033}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{5034}{}{啊！}
+{5035}{}{啊！我的胳膊！}
+{5036}{}{}
+#
+# target hit in torso
+#
+{5037}{}{啊！}
+{5038}{}{哇！}
+{5039}{}{哎唷！}
+{5040}{}{啊！}
+{5041}{}{啊！}
+{5042}{}{喔！}
+{5043}{}{}
+{5044}{}{我要吃掉你的肝脏！}
+{5045}{}{}
+{5046}{}{哇！}
+#
+# target hit in right leg
+#
+{5047}{}{啊！}
+{5048}{}{啊！我的膝盖！}
+{5049}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{5050}{}{啊！}
+{5051}{}{啊！我的膝盖！}
+{5052}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{5053}{}{我瞎了！}
+{5054}{}{我看不见了！}
+{5055}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{5056}{}{啊啊啊啊！我的毬！}
+{5057}{}{喔！真疼！}
+{5058}{}{那很不友好。}
+{5059}{}{}
+{5060}{}{呜！}
+{5061}{}{}
+
+#
+# 42.  Ghoul, Brave  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We'll seal your tomb for this.
+#
+#
+#  running away (6)
+#
+{5100}{}{撤退！}
+{5101}{}{收缩防御！}
+{5102}{}{重新部署！}
+{5103}{}{还没有结束！}
+{5104}{}{我应该退回去！}
+{5105}{}{我会回来的！}
+#
+# moving in to attack
+#
+{5106}{}{}
+{5107}{}{}
+{5108}{}{消灭入侵者！}
+{5109}{}{杀死人类！}
+{5110}{}{}
+{5111}{}{}
+#
+# attacking
+#
+{5112}{}{燃烧吧！}
+{5113}{}{}
+{5114}{}{肮脏的人类！}
+{5115}{}{}
+{5116}{}{}
+{5117}{}{去死吧，开火！}
+{5118}{}{你该被烧死！}
+{5119}{}{}
+{5120}{}{你会被打到，永远不能翻身！}
+{5121}{}{我会把你下葬的}
+#
+# target being missed
+#
+{5122}{}{脱靶}
+{5123}{}{没人能杀了我！}
+{5124}{}{你不是合格的战士}
+{5125}{}{}
+{5126}{}{你不会赢的，人类}
+{5127}{}{}
+#
+# target hit in head
+#
+{5128}{}{真疼}
+{5129}{}{我的眼睛！}
+{5130}{}{啊！}
+#
+# target hit in left arm
+#
+{5131}{}{啊！}
+{5132}{}{啊！我的胳膊！}
+{5133}{}{啊！你打断了它！}
+#
+# target hit in right arm
+#
+{5134}{}{啊！}
+{5135}{}{啊！我的胳膊！}
+{5136}{}{啊！你打断了它！}
+#
+# target hit in torso
+#
+{5137}{}{啊！}
+{5138}{}{哇！}
+{5139}{}{哎唷！}
+{5140}{}{啊！}
+{5141}{}{啊！}
+{5142}{}{喔！}
+{5143}{}{喔！我要捏碎你的脖子}
+{5144}{}{我要吃掉你的肝脏！}
+{5145}{}{}
+{5146}{}{哇！}
+#
+# target hit in right leg
+#
+{5147}{}{啊！}
+{5148}{}{啊！我的膝盖！}
+{5149}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{5150}{}{啊！}
+{5151}{}{啊！我的膝盖！}
+{5152}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{5153}{}{用射击来回答你！}
+{5154}{}{我看不见了！}
+{5155}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{5156}{}{啊啊啊啊！我的毬！}
+{5157}{}{哇！}
+{5158}{}{我要你死无葬身之地！}
+{5159}{}{}
+{5160}{}{呜！}
+{5161}{}{}
+
+#
+# 43. Super Mutant, Guard  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Humans try to hurt superhumans? Stupid humans!
+#
+#
+#  running away
+#
+{5200}{}{快跑！}
+{5201}{}{你杀不了我的！}
+{5202}{}{我会回来的！}
+{5203}{}{我的朋友会把你给我抓来的！}
+{5204}{}{等会—你会付出代价的！}
+{5205}{}{我们选择了！你去死吧！}
+#
+# moving in to attack
+#
+{5206}{}{你的死期到了！}
+{5207}{}{那些反对我们的人再也没有开口的机会了！}
+{5208}{}{人类武器伤不了我！}
+{5209}{}{你会痛苦的，十分痛苦！}
+{5210}{}{}
+{5211}{}{那个笨蛋惹恼了我？}
+#
+# attacking
+#
+{5212}{}{}
+{5213}{}{没人能救你！}
+{5214}{}{}
+{5215}{}{你就要被烧死了！}
+{5216}{}{干掉白痴人类！}
+{5217}{}{在尖叫中死去吧}
+{5218}{}{}
+{5219}{}{我要碾碎你}
+{5220}{}{你无法跟我战斗！}
+{5221}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{5222}{}{为什么你不瞄准点？}
+{5223}{}{那就是人类最好的攻击！}
+{5224}{}{你没劲吗！}
+{5225}{}{你让我感到很可笑！}
+{5226}{}{那个就是攻击？}
+{5227}{}{我们是不可战胜的！}
+#
+# target hit in head
+#
+{5228}{}{啊啊啊啊！我的脸}
+{5229}{}{我的脸！你会吃苦头的！}
+{5230}{}{啊啊啊啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{5231}{}{啊啊啊啊！}
+{5232}{}{}
+{5233}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{5234}{}{啊啊啊啊！}
+{5235}{}{}
+{5236}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{5237}{}{哇！}
+{5238}{}{喔！}
+{5239}{}{我会那样杀了你的！}
+{5240}{}{你死了就不会伤害我了！}
+{5241}{}{你软弱的攻击真可笑！}
+{5242}{}{喔！}
+{5243}{}{哦！}
+{5244}{}{我要肏你！}
+{5245}{}{哇呀呀呀呀！你让我发怒了}
+{5246}{}{啊！}
+#
+# target hit in right leg
+#
+{5247}{}{啊啊啊啊！我的腿}
+{5248}{}{}
+{5249}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in left leg
+#
+{5250}{}{啊啊啊啊！我的腿}
+{5251}{}{}
+{5252}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{5253}{}{啊！可怜的人类！我瞎了！}
+{5254}{}{啊！痛！你做了些什么！}
+{5255}{}{啊！我会一直折磨你！}
+#
+# target hit in groin
+#
+{5256}{}{那是人类的弱点！}
+{5257}{}{}
+{5258}{}{你真愚蠢，人类！}
+{5259}{}{为什么你打我那里？}
+{5260}{}{我要一直折磨你}
+{5261}{}{}
+
+#
+# 44. Super Mutant, Normal  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Even weakest runt of Chosen better than most powerful human!
+#
+#
+#  running away
+#
+{5300}{}{快跑！}
+{5301}{}{你杀不了我的！}
+{5302}{}{必须逃跑}
+{5303}{}{}
+{5304}{}{等会—你会付出代价的！}
+{5305}{}{等会你就要死了！}
+#
+# moving in to attack
+#
+{5306}{}{谁敢冒犯我们？}
+{5307}{}{你让我生气了！}
+{5308}{}{人类武器伤不了我！}
+{5309}{}{}
+{5310}{}{不能饶恕敌人！}
+{5311}{}{当我进攻的时候，我要杀了你！}
+#
+# attacking
+#
+{5312}{}{}
+{5313}{}{没人能救你！}
+{5314}{}{去死吧!}
+{5315}{}{让我看看你痛苦的样子！}
+{5316}{}{打碎你的身体！}
+{5317}{}{}
+{5318}{}{}
+{5319}{}{你死定了}
+{5320}{}{我揍你个很的！}
+{5321}{}{痛苦吧！}
+#
+# target being missed
+#
+{5322}{}{你徒有其表！}
+{5323}{}{你徒有其表……}
+{5324}{}{你没劲吗！}
+{5325}{}{}
+{5326}{}{那个就是攻击？}
+{5327}{}{你真没用}
+#
+# target hit in head
+#
+{5328}{}{啊啊啊啊！我的脸}
+{5329}{}{我的脸！你会吃苦头的！}
+{5330}{}{啊啊啊啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{5331}{}{啊啊啊啊！}
+{5332}{}{啊！你几乎伤了我！}
+{5333}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{5334}{}{啊啊啊啊！}
+{5335}{}{}
+{5336}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{5337}{}{我要把你给我的痛苦还给你！}
+{5338}{}{哇！}
+{5339}{}{哎唷！}
+{5340}{}{嗯，你有麻烦了}
+{5341}{}{喔！我期待着你的死亡}
+{5342}{}{喔！}
+{5343}{}{你可以打败我但你不会取得最终胜利！}
+{5344}{}{喔！}
+{5345}{}{哦！那不是个能伤到我的好主意}
+{5346}{}{}
+#
+# target hit in right leg
+#
+{5347}{}{啊啊啊啊！我的腿}
+{5348}{}{}
+{5349}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in left leg
+#
+{5350}{}{啊啊啊啊！我的腿}
+{5351}{}{你差点伤到我！}
+{5352}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{5353}{}{啊啊啊啊！我瞎了！}
+{5354}{}{啊啊啊啊！好疼！你对我做了什么？}
+{5355}{}{啊啊啊啊！眼睛像火烧一样！}
+#
+# target hit in groin
+#
+{5356}{}{那是人类的弱点！}
+{5357}{}{}
+{5358}{}{}
+{5359}{}{为什么你打我那里？}
+{5360}{}{你会痛苦的死去的，人类！}
+{5361}{}{}
+
+#
+# 45.  Super Mutant, Hostile  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Don't get in my way when I rip the human apart!
+#
+#
+#  running away
+#
+{5400}{}{快跑！}
+{5401}{}{你杀不了我的！}
+{5402}{}{我会回来的！}
+{5403}{}{}
+{5404}{}{等会—你会付出代价的！}
+{5405}{}{等会你就要死了！}
+#
+# moving in to attack
+#
+{5406}{}{你的死期到了！}
+{5407}{}{}
+{5408}{}{人类武器伤不了我！}
+{5409}{}{你会痛苦的，十分痛苦！}
+{5410}{}{我看到敌人正被毁灭！}
+{5411}{}{那个笨蛋惹恼了我？}
+#
+# attacking
+#
+{5412}{}{}
+{5413}{}{没人能救你！}
+{5414}{}{我们是你大爷！}
+{5415}{}{你会被烧死！}
+{5416}{}{干掉白痴人类！}
+{5417}{}{在尖叫中死去吧}
+{5418}{}{}
+{5419}{}{我要碾碎你}
+{5420}{}{}
+{5421}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{5422}{}{为什么你不瞄准点？}
+{5423}{}{那就是人类最好的攻击！}
+{5424}{}{你没劲吗！}
+{5425}{}{}
+{5426}{}{}
+{5427}{}{我们是不可战胜的！}
+#
+# target hit in head
+#
+{5428}{}{啊啊啊啊！我的脸}
+{5429}{}{我的脸！你会吃苦头的！}
+{5430}{}{啊啊啊啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{5431}{}{啊啊啊啊！}
+{5432}{}{你叫那疼痛？真可笑！}
+{5433}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{5434}{}{啊啊啊啊！}
+{5435}{}{你叫那疼痛？真可笑！}
+{5436}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{5437}{}{没有痛苦能打倒我！}
+{5438}{}{喔！我杀了你}
+{5439}{}{我很你这样的人！}
+{5440}{}{}
+{5441}{}{啊！}
+{5442}{}{喔！}
+{5443}{}{啊！我会好好照顾你的！}
+{5444}{}{}
+{5445}{}{喔！}
+{5446}{}{哇！}
+#
+# target hit in right leg
+#
+{5447}{}{啊啊啊啊！我的腿}
+{5448}{}{你叫那疼痛？真可笑！}
+{5449}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in left leg
+#
+{5450}{}{啊啊啊啊！我的腿}
+{5451}{}{你叫那疼痛？真可笑！}
+{5452}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{5453}{}{啊！可怜的人类！我瞎了！}
+{5454}{}{啊！痛！你做了些什么！}
+{5455}{}{啊！我会一直折磨你！}
+#
+# target hit in groin
+#
+{5456}{}{}
+{5457}{}{}
+{5458}{}{你是愚蠢的人类！}
+{5459}{}{为什么你打我那里？}
+{5460}{}{我要一直折磨你}
+{5461}{}{}
+
+#
+# 46. Super Mutant, Sergeant  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I lead the apocalypse. Corpses to the left, corpses to the right, and death in front of me.
+#
+#
+#  running away
+#
+{5500}{}{快跑！}
+{5501}{}{你杀不了我的！}
+{5502}{}{我会回来的！}
+{5503}{}{这事没完！}
+{5504}{}{你的胜利很短暂的—活着的人类！}
+{5505}{}{我们是不可战胜的！待会你就会死了！}
+#
+# moving in to attack
+#
+{5506}{}{前进，死亡骑士与我们同在！}
+{5507}{}{}
+{5508}{}{人类武器伤不了我！}
+{5509}{}{你要吃苦头了！}
+{5510}{}{我们无人能挡！}
+{5511}{}{}
+#
+# attacking
+#
+{5512}{}{}
+{5513}{}{没有人会救你的}
+{5514}{}{我们是你大爷！}
+{5515}{}{你会被烧死！}
+{5516}{}{干掉白痴人类！}
+{5517}{}{在尖叫中死去吧}
+{5518}{}{你的血就是我的美酒！}
+{5519}{}{我要碾碎你}
+{5520}{}{你无法跟我战斗！}
+{5521}{}{痛苦吧，人类！}
+#
+# target being missed
+#
+{5522}{}{为什么你的攻击这么没准？}
+{5523}{}{}
+{5524}{}{你叫这种愚蠢的漏洞百出的动作为攻击？}
+{5525}{}{你的攻击只会给我挠痒痒}
+{5526}{}{}
+{5527}{}{}
+#
+# target hit in head
+#
+{5528}{}{啊啊啊啊！我的脸}
+{5529}{}{我的脸！你会吃苦头的！}
+{5530}{}{啊啊啊啊！我要把你撕成碎片！}
+#
+# target hit in left arm
+#
+{5531}{}{啊啊啊啊！}
+{5532}{}{你叫那疼痛？真可笑！}
+{5533}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in right arm
+#
+{5534}{}{啊啊啊啊！}
+{5535}{}{}
+{5536}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in torso
+#
+{5537}{}{你不能打败我！}
+{5538}{}{我要杀了你！}
+{5539}{}{你的死会被载入史册的！}
+{5540}{}{我现在生气了！}
+{5541}{}{哇！}
+{5542}{}{喔！}
+{5543}{}{喔！你不可能生还}
+{5544}{}{}
+{5545}{}{黔驴技穷了吧，人类}
+{5546}{}{我要用你的血来洗脸！}
+#
+# target hit in right leg
+#
+{5547}{}{啊啊啊啊！我的腿}
+{5548}{}{}
+{5549}{}{啊啊啊啊！我会拧断你的脖子！}
+#
+# target hit in left leg
+#
+{5550}{}{啊啊啊啊！我的腿}
+{5551}{}{}
+{5552}{}{啊啊！我会拧断你的脖子！}
+#
+# target hit in eyes
+#
+{5553}{}{啊！可怜的人类！我瞎了！}
+{5554}{}{啊啊啊啊！我不用眼睛也能杀了你。}
+{5555}{}{啊！我会一直折磨你！}
+#
+# target hit in groin
+#
+{5556}{}{那是人类的弱点！}
+{5557}{}{}
+{5558}{}{你是愚蠢的人类！}
+{5559}{}{为什么你打我那里？}
+{5560}{}{我要一直折磨你}
+{5561}{}{那是你最后一次冒犯我！}
+
+#
+# 47.  Merchants  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Are you sure that we can't make other arrangements?
+#
+#
+#  running away
+#
+{5600}{}{我要离开这里！}
+{5601}{}{原谅我吧！}
+{5602}{}{请住手！}
+{5603}{}{救命！}
+{5604}{}{啊啊啊啊啊！}
+{5605}{}{快跑！}
+#
+# moving in to attack
+#
+{5606}{}{}
+{5607}{}{你没有给我们更多的选择！}
+{5608}{}{你以为你是谁？}
+{5609}{}{没有人能接手这个地方……}
+{5610}{}{我们可以交易}
+{5611}{}{那不是个好建议，我的朋友}
+#
+# attacking
+#
+{5612}{}{不要做你不能完成的事情}
+{5613}{}{你找的是这个！}
+{5614}{}{}
+{5615}{}{我知道怎样处理蠢猪！}
+{5616}{}{你会为你做过的事付出代价的！}
+{5617}{}{该你了！}
+{5618}{}{}
+{5619}{}{}
+{5620}{}{该找你算帐了}
+{5621}{}{}
+#
+# target being missed
+#
+{5622}{}{吆！}
+{5623}{}{你不值二十个瓶盖}
+{5624}{}{你不擅长射击}
+{5625}{}{你就是个天杀的小瘪三}
+{5626}{}{你应该马上离开！}
+{5627}{}{}
+#
+# target hit in head
+#
+{5628}{}{不要打脸！}
+{5629}{}{}
+{5630}{}{啊！我的耳朵！}
+#
+# target hit in left arm
+#
+{5631}{}{啊，我的胳膊}
+{5632}{}{诅咒你！}
+{5633}{}{你打断了我的胳膊！}
+#
+# target hit in right arm
+#
+{5634}{}{啊，我的胳膊}
+{5635}{}{诅咒你！}
+{5636}{}{你打断了我的胳膊！}
+#
+# target hit in torso
+#
+{5637}{}{啊！}
+{5638}{}{哇！}
+{5639}{}{哎唷！}
+{5640}{}{啊！}
+{5641}{}{啊！}
+{5642}{}{}
+{5643}{}{我应该进行交易！}
+{5644}{}{啊！我很好奇你的尸体究竟值几个瓶盖？}
+{5645}{}{啊！}
+{5646}{}{哇！}
+#
+# target hit in right leg
+#
+{5647}{}{啊，我的腿}
+{5648}{}{啊，我的膝盖}
+{5649}{}{啊！我的腿断了！}
+#
+# target hit in left leg
+#
+{5650}{}{啊，我的腿}
+{5651}{}{啊，我的膝盖}
+{5652}{}{啊！我的腿断了！}
+#
+# target hit in eyes
+#
+{5653}{}{我瞎了！}
+{5654}{}{喔，我的脸！我的眼睛！}
+{5655}{}{我的眼睛！你他妈的下地狱吧……}
+#
+# target hit in groin
+#
+{5656}{}{啊啊啊啊！我的毬！}
+{5657}{}{噢噢噢噢，那是个便宜货，垃圾。}
+{5658}{}{呜！}
+{5659}{}{我……不能……呼吸了……}
+{5660}{}{}
+{5661}{}{疼啊，疼啊……}
+
+#
+# 48. Peasant, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Hey, aren't the taxes bad enough? I don't need you messing up my life too!
+#
+#
+#  running away
+#
+{5700}{}{我该离开这儿！}
+{5701}{}{快跑！快跑！}
+{5702}{}{救救我吧！}
+{5703}{}{我们要死了！}
+{5704}{}{总有一天，你会得到到达你身边的东西！}
+{5705}{}{我不能就这样死了！}
+#
+# moving in to attack
+#
+{5706}{}{现在逃跑太晚了}
+{5707}{}{谁让你来哈勃城的？}
+{5708}{}{嗨，就是你！}
+{5709}{}{我们这里不喜欢你这种人!}
+{5710}{}{没有人能接手这个地方……}
+{5711}{}{你以为你是谁？}
+#
+# attacking
+#
+{5712}{}{看招！}
+{5713}{}{你喜欢这样吗？}
+{5714}{}{这就是我们处理害虫的方法！}
+{5715}{}{这是给你的！}
+{5716}{}{再—见！}
+{5717}{}{}
+{5718}{}{捣乱的垃圾！}
+{5719}{}{}
+{5720}{}{你这个畜生！}
+{5721}{}{你会为来到哈勃城而后悔的！}
+#
+# target being missed
+#
+{5722}{}{你不像你想象的那样好}
+{5723}{}{}
+{5724}{}{你是个通缉犯}
+{5725}{}{}
+{5726}{}{我不会让你胜利的}
+{5727}{}{那将会是你最后一个错误}
+#
+# target hit in head
+#
+{5728}{}{}
+{5729}{}{啊啊啊，呼呼呼}
+{5730}{}{我的脸！我的脸！}
+#
+# target hit in left arm
+#
+{5731}{}{啊啊啊啊！我的胳膊}
+{5732}{}{我的胳膊！}
+{5733}{}{见鬼，胳膊不能用了……}
+#
+# target hit in right arm
+#
+{5734}{}{啊啊啊啊！我的胳膊}
+{5735}{}{我的胳膊！}
+{5736}{}{见鬼，胳膊不能用了……}
+#
+# target hit in torso
+#
+{5737}{}{啊！}
+{5738}{}{哇！}
+{5739}{}{哎唷！}
+{5740}{}{啊！}
+{5741}{}{啊！}
+{5742}{}{喔！}
+{5743}{}{！}
+{5744}{}{}
+{5745}{}{哎唷！}
+{5746}{}{哇！}
+#
+# target hit in right leg
+#
+{5747}{}{啊啊啊啊！我的腿}
+{5748}{}{我的腿！}
+{5749}{}{该死，我的腿不能用了……}
+#
+# target hit in left leg
+#
+{5750}{}{啊啊啊啊！我的腿}
+{5751}{}{我的腿！}
+{5752}{}{该死，我的腿不能用了……}
+#
+# target hit in eyes
+#
+{5753}{}{啊啊啊啊！我瞎了！}
+{5754}{}{该死的！所有的东西都在燃烧……}
+{5755}{}{我的眼睛！你会付出代价的！}
+#
+# target hit in groin
+#
+{5756}{}{啊啊啊啊！我的毬！}
+{5757}{}{呜呜呜呜呜！}
+{5758}{}{我……不能……呼吸了……}
+{5759}{}{}
+{5760}{}{疼啊，疼啊……}
+{5761}{}{他妈的，真疼啊！}
+
+#
+# 49. Thief, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# You are taking this rather personally, sir.
+#
+#
+#  running away
+#
+{5800}{}{}
+{5801}{}{快跑！快跑！}
+{5802}{}{我该离开这儿！}
+{5803}{}{我太年轻了还不能死！}
+{5804}{}{藏起来！}
+{5805}{}{这种战斗不是我喜欢的东西……}
+#
+# moving in to attack
+#
+{5806}{}{让我们钉死这个无赖！}
+{5807}{}{认输吧！}
+{5808}{}{嗨，就是你！}
+{5809}{}{我不喜欢你的态度……}
+{5810}{}{没有人能接手这个地方……}
+{5811}{}{你以为你是谁？}
+#
+# attacking
+#
+{5812}{}{}
+{5813}{}{你喜欢这样吗？}
+{5814}{}{这就是我们处理害虫的方法！}
+{5815}{}{我要把你揍进土里！}
+{5816}{}{你这个无礼的杂种！}
+{5817}{}{你真讨厌}
+{5818}{}{你让我恶心！}
+{5819}{}{生存还是死亡！}
+{5820}{}{你会造成可怕的混乱的}
+{5821}{}{你会为来到哈勃城而后悔的！}
+#
+# target being missed
+#
+{5822}{}{等我打倒了你我会休息一下的}
+{5823}{}{}
+{5824}{}{你是个通缉犯}
+{5825}{}{}
+{5826}{}{你真的不应该烦恼的}
+{5827}{}{那将会是你最后一个错误}
+#
+# target hit in head
+#
+{5828}{}{该死，真疼啊！}
+{5829}{}{啊啊啊，呼呼呼}
+{5830}{}{我的脸蛋！我漂亮的脸蛋！}
+#
+# target hit in left arm
+#
+{5831}{}{啊啊啊啊！我的胳膊}
+{5832}{}{我的胳膊！}
+{5833}{}{见鬼，胳膊不能用了……}
+#
+# target hit in right arm
+#
+{5834}{}{啊啊啊啊！我的胳膊}
+{5835}{}{我的胳膊！}
+{5836}{}{见鬼，胳膊不能用了……}
+#
+# target hit in torso
+#
+{5837}{}{}
+{5838}{}{哇！}
+{5839}{}{哎唷！}
+{5840}{}{喔！我的肋骨真疼}
+{5841}{}{啊！真疼！}
+{5842}{}{喔！诅咒你！}
+{5843}{}{啊！}
+{5844}{}{}
+{5845}{}{}
+{5846}{}{哇！}
+#
+# target hit in right leg
+#
+{5847}{}{啊啊啊啊！我的腿}
+{5848}{}{我的腿！}
+{5849}{}{该死，我的腿不能用了……}
+#
+# target hit in left leg
+#
+{5850}{}{啊啊啊啊！我的腿}
+{5851}{}{我的腿！}
+{5852}{}{该死，我的腿不能用了……}
+#
+# target hit in eyes
+#
+{5853}{}{啊啊啊啊！我瞎了！}
+{5854}{}{该死的！所有的东西都在燃烧……}
+{5855}{}{你对我做了些什么！}
+#
+# target hit in groin
+#
+{5856}{}{啊啊啊啊！我的毬！}
+{5857}{}{你除了是个通缉犯什么也不是！}
+{5858}{}{}
+{5859}{}{}
+{5860}{}{}
+{5861}{}{他妈的，真疼啊！}
+
+#
+# 50.  Mutant, Hub  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We've made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
+#
+#
+#  running away (6)
+#
+{5900}{}{我要离开这里！}
+{5901}{}{再见！}
+{5902}{}{啊啊啊啊啊！}
+{5903}{}{稍后，或许。}
+{5904}{}{}
+{5905}{}{在附近见到过你}
+#
+# moving in to attack
+#
+{5906}{}{}
+{5907}{}{保护我们的家园！}
+{5908}{}{某些人必须重新上一课}
+{5909}{}{不要垂死挣扎了}
+{5910}{}{}
+{5911}{}{没有人能破坏哈勃城！}
+#
+# attacking
+#
+{5912}{}{看招！}
+{5913}{}{去死，立即去死！}
+{5914}{}{下地狱吧！}
+{5915}{}{垃圾}
+{5916}{}{你这个马屁精！}
+{5917}{}{希望那很疼}
+{5918}{}{不要打扰我们}
+{5919}{}{燃烧吧！}
+{5920}{}{下地狱吧！}
+{5921}{}{你死定了}
+#
+# target being missed
+#
+{5922}{}{脱靶！}
+{5923}{}{没有瞄准}
+{5924}{}{}
+{5925}{}{我不是那么容易被打中的}
+{5926}{}{没有人能击倒我！}
+{5927}{}{是你预期的效果吗？}
+#
+# target hit in head
+#
+{5928}{}{真疼}
+{5929}{}{喔，我的头真疼！}
+{5930}{}{啊！}
+#
+# target hit in left arm
+#
+{5931}{}{啊！}
+{5932}{}{啊！我的胳膊！}
+{5933}{}{啊！我的胳膊肘！}
+#
+# target hit in right arm
+#
+{5934}{}{啊！}
+{5935}{}{啊！我的胳膊！}
+{5936}{}{啊！我的胳膊肘！}
+
+#
+# target hit in torso
+#
+{5937}{}{啊！我的胸部！}
+{5938}{}{哇！}
+{5939}{}{哎唷！}
+{5940}{}{}
+{5941}{}{}
+{5942}{}{喔！诅咒你！}
+{5943}{}{啊！}
+{5944}{}{啊！}
+{5945}{}{}
+{5946}{}{哇！}
+#
+# target hit in right leg
+#
+{5947}{}{啊！}
+{5948}{}{啊！我的膝盖！}
+{5949}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{5950}{}{啊！}
+{5951}{}{啊！我的膝盖！}
+{5952}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{5953}{}{我瞎了！}
+{5954}{}{我看不见了！}
+{5955}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{5956}{}{啊啊啊啊！我的毬！}
+{5957}{}{喔！真疼！}
+{5958}{}{}
+{5959}{}{}
+{5960}{}{呜！}
+{5961}{}{}
+
+#
+# 51. Peasant, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Wait a minute. I already pay to three different protection rackets. Be reasonable!
+#
+#
+#  running away
+#
+{6000}{}{请打别人吧！}
+{6001}{}{原谅我吧！}
+{6002}{}{救救我吧！}
+{6003}{}{请住手！}
+{6004}{}{也许这不是个好主意}
+{6005}{}{我不能参加战斗！}
+#
+# moving in to attack
+#
+{6006}{}{等我抓到你……}
+{6007}{}{}
+{6008}{}{嗨，就是你！}
+{6009}{}{我们这里不喜欢你这种人!}
+{6010}{}{}
+{6011}{}{我要把你分成廉价手表那样的小块}
+#
+# attacking
+#
+{6012}{}{看招！}
+{6013}{}{你喜欢这样吗？}
+{6014}{}{去死！}
+{6015}{}{你这个变态变异人！}
+{6016}{}{我早餐就喜欢吃你这样的垃圾}
+{6017}{}{我要把你喂狗}
+{6018}{}{}
+{6019}{}{很好。你要的是这个。}
+{6020}{}{}
+{6021}{}{}
+#
+# target being missed
+#
+{6022}{}{你不像你想象的那样好}
+{6023}{}{那就是你最厉害的攻击吗？}
+{6024}{}{}
+{6025}{}{}
+{6026}{}{}
+{6027}{}{令人同情}
+#
+# target hit in head
+#
+{6028}{}{该死！}
+{6029}{}{我的头疼}
+{6030}{}{我的脸！我的脸！}
+#
+# target hit in left arm
+#
+{6031}{}{啊啊啊啊！我的胳膊}
+{6032}{}{我的胳膊！}
+{6033}{}{哦，真疼啊！}
+#
+# target hit in right arm
+#
+{6034}{}{啊啊啊啊！我的胳膊}
+{6035}{}{我的胳膊！}
+{6036}{}{}
+
+#
+# target hit in torso
+#
+{6037}{}{}
+{6038}{}{Oof!}
+{6039}{}{Ouch!}
+{6040}{}{Oof! My ribs hurt}
+{6041}{}{Ugh! That hurt!}
+{6042}{}{Damn! I spit on you!}
+{6043}{}{Argh!}
+{6044}{}{Oh, my ribs!}
+{6045}{}{Ow!!!}
+{6046}{}{Oof!}
+#
+# target hit in right leg
+#
+{6047}{}{啊啊啊啊！我的腿}
+{6048}{}{我的腿！}
+{6049}{}{我的膝盖碎了}
+#
+# target hit in left leg
+#
+{6050}{}{啊啊啊啊！我的腿}
+{6051}{}{我的腿！}
+{6052}{}{我的膝盖碎了}
+#
+# target hit in eyes
+#
+{6053}{}{啊啊啊啊！我的瞎了！}
+{6054}{}{眼睛！我的眼睛！}
+{6055}{}{我的眼睛！你会付出代价的！}
+#
+# target hit in groin
+#
+{6056}{}{啊啊啊啊！我的毬！}
+{6057}{}{呜呜呜呜呜！}
+{6058}{}{我……不能……呼吸了……}
+{6059}{}{}
+{6060}{}{疼啊，疼啊……}
+{6061}{}{他妈的，真疼啊！}
+
+#
+# 52. Guard, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We don't need people making things worse than they already are.
+#
+#
+#  running away
+#
+{6100}{}{我要离开这里！}
+{6101}{}{也许这不是个好主意}
+{6102}{}{去打别人，好吗！}
+{6103}{}{哎呀！}
+{6104}{}{我不能参加战斗！}
+{6105}{}{那对我来说太多了}
+#
+# moving in to attack
+#
+{6106}{}{嗨，就是你！}
+{6107}{}{让我教教你什么叫做礼貌}
+{6108}{}{我们这里不喜欢你这种人!}
+{6109}{}{你要学会尊重别人！}
+{6110}{}{挣外快的时间到了……}
+{6111}{}{等我抓到你……}
+#
+# attacking
+#
+{6112}{}{}
+{6113}{}{}
+{6114}{}{}
+{6115}{}{你喜欢这样吗？}
+{6116}{}{}
+{6117}{}{}
+{6118}{}{让我们看看你有多厉害……}
+{6119}{}{垃圾}
+{6120}{}{Ride my bullet back to hell!}
+{6121}{}{我要送你去西天}
+#
+# target being missed
+#
+{6122}{}{你妈是这样教你的吗？}
+{6123}{}{}
+{6124}{}{你的技术真差}
+{6125}{}{那将会是你最后一个错误}
+{6126}{}{喔！我必须试着移动……}
+{6127}{}{你在酒吧里学的打架吗？}
+#
+# target hit in head
+#
+{6128}{}{啊！你这狗娘养的……}
+{6129}{}{你打破了我的鼻子！}
+{6130}{}{我要把你的头拧下来！}
+#
+# target hit in left arm
+#
+{6131}{}{啊，我的胳膊}
+{6132}{}{你犯了你一生中最大的错误}
+{6133}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{6134}{}{啊，我的胳膊}
+{6135}{}{你犯了你一生中最大的错误}
+{6136}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{6137}{}{呜！}
+{6138}{}{哇！}
+{6139}{}{哎唷！}
+{6140}{}{}
+{6141}{}{喔！真疼！}
+{6142}{}{哎唷！}
+{6143}{}{啊！}
+{6144}{}{喔，我想你打断了我的肋骨！}
+{6145}{}{啊！！！我的脾脏！}
+{6146}{}{哇！}
+#
+# target hit in right leg
+#
+{6147}{}{啊，我的腿}
+{6148}{}{我不用站着就能杀了你！}
+{6149}{}{啊，我的膝盖}
+#
+# target hit in left leg
+#
+{6150}{}{啊，我的腿}
+{6151}{}{我不用站着就能杀了你！}
+{6152}{}{啊，我的膝盖}
+#
+# target hit in eyes
+#
+{6153}{}{我看不见了！}
+{6154}{}{这场战斗待会会变得更激烈的}
+{6155}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{6156}{}{啊啊啊啊！我的毬！}
+{6157}{}{每天早晨我会想起它的}
+{6158}{}{}
+{6159}{}{呜！}
+{6160}{}{}
+{6161}{}{}
+
+#
+# 53. Killian  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I ain't happy about killing you, but if you're set on causing trouble, push has gotta come to shove
+#
+#
+#  running away
+#
+{6200}{}{我们又见面了。我敢打赌}
+{6201}{}{你欠我一场比赛。稍后}
+{6202}{}{你赢了这一回合，但比赛并没有结束}
+{6203}{}{等会我会抓到你的}
+{6204}{}{如果你认为那样很好的话，滚出这个镇}
+{6205}{}{还没有结束，朋友。}
+#
+# moving in to attack
+#
+{6206}{}{}
+{6207}{}{让我教教你什么叫做礼貌}
+{6208}{}{}
+{6209}{}{你要学会尊重别人！}
+{6210}{}{}
+{6211}{}{}
+#
+# attacking
+#
+{6212}{}{}
+{6213}{}{}
+{6214}{}{}
+{6215}{}{你喜欢这样吗？}
+{6216}{}{}
+{6217}{}{}
+{6218}{}{让我们看看你有多厉害……}
+{6219}{}{垃圾}
+{6220}{}{}
+{6221}{}{我要把你踢出这个镇子}
+#
+# target being missed
+#
+{6222}{}{幸运女神不会眷顾你的}
+{6223}{}{}
+{6224}{}{你的技术真差}
+{6225}{}{你该趁你还没有被撕成碎片的时候赶快离开}
+{6226}{}{喔！我必须试着移动……}
+{6227}{}{}
+#
+# target hit in head
+#
+{6228}{}{啊！你这狗娘养的……}
+{6229}{}{}
+{6230}{}{我要把你的头拧下来！}
+#
+# target hit in left arm
+#
+{6231}{}{啊，我的胳膊}
+{6232}{}{你开始冲我撒尿了}
+{6233}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{6234}{}{啊，我的胳膊}
+{6235}{}{你开始冲我撒尿了}
+{6236}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{6237}{}{啊！}
+{6238}{}{哇！}
+{6239}{}{哎唷！}
+{6240}{}{喔！伤了我的肾，不是吗？}
+{6241}{}{}
+{6242}{}{}
+{6243}{}{}
+{6244}{}{哦，我的肋骨！}
+{6245}{}{}
+{6246}{}{}
+#
+# target hit in right leg
+#
+{6247}{}{啊，我的腿}
+{6248}{}{射的好。等我回来}
+{6249}{}{我的膝盖！}
+#
+# target hit in left leg
+#
+{6250}{}{啊，我的腿}
+{6251}{}{射的好。等我回来}
+{6252}{}{我的膝盖！}
+#
+# target hit in eyes
+#
+{6253}{}{我看不见了！}
+{6254}{}{这场战斗待会会变得更激烈的}
+{6255}{}{}
+#
+# target hit in groin
+#
+{6256}{}{哇呀呀呀呀！！！}
+{6257}{}{}
+{6258}{}{嗨，不要打腰带以下}
+{6259}{}{呜！}
+{6260}{}{}
+{6261}{}{}
+
+#
+# 54. Thug, Junktown  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away
+#
+{6300}{}{必须叫人过来！}
+{6301}{}{我会回来的……}
+{6302}{}{你会为你的所作所为付出代价的！}
+{6303}{}{你等着，垃圾！}
+{6304}{}{你再也不会听到我的声音了！}
+{6305}{}{等着，你会付出代价的！}
+#
+# moving in to attack
+#
+{6306}{}{}
+{6307}{}{新鲜的肉……}
+{6308}{}{我会在你的坟上跳舞的}
+{6309}{}{Time to rip a clip...}
+{6310}{}{现在是杀戮时间！}
+{6311}{}{}
+#
+# attacking (10)
+#
+{6312}{}{}
+{6313}{}{尖叫吧！}
+{6314}{}{享受这一切吧。}
+{6315}{}{}
+{6316}{}{啊啊啊啊！我的胳膊}
+{6317}{}{没有人能把迦克镇从我们手中夺走}
+{6318}{}{}
+{6319}{}{杀了你我会得到奖金的}
+{6320}{}{去死！}
+{6321}{}{喔！我必须试着移动……}
+#
+# target being missed (6)
+#
+{6322}{}{}
+{6323}{}{那就是你最厉害的攻击吗？}
+{6324}{}{}
+{6325}{}{在瞄准一次……}
+{6326}{}{}
+{6327}{}{失败}
+#
+# target hit in head (3)
+#
+{6328}{}{不要打脸！}
+{6329}{}{啊，我的头好疼啊}
+{6330}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{6331}{}{啊，我的胳膊}
+{6332}{}{你打断了我的胳膊！}
+{6333}{}{}
+#
+# target hit in right arm
+#
+{6334}{}{啊，我的胳膊}
+{6335}{}{你打断了我的胳膊！}
+{6336}{}{}
+#
+# target hit in torso
+#
+{6337}{}{喔！真疼}
+{6338}{}{哇！}
+{6339}{}{哎唷！}
+{6340}{}{}
+{6341}{}{喔！真疼！}
+{6342}{}{}
+{6343}{}{哇！}
+{6344}{}{我要一根根敲掉你的肋骨}
+{6345}{}{啊！}
+{6346}{}{哇！}
+#
+# target hit in right leg
+#
+{6347}{}{啊，我的腿}
+{6348}{}{你会付出代价的！}
+{6349}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{6350}{}{啊，我的腿}
+{6351}{}{}
+{6352}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{6353}{}{啊！}
+{6354}{}{我的眼睛……我的眼睛没了……}
+{6355}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{6356}{}{啊啊啊啊！我的毬！}
+{6357}{}{}
+{6358}{}{}
+{6359}{}{}
+{6360}{}{呜！}
+{6361}{}{啊！你会付出代价的！}
+
+#
+# 55. Skulz_Gang  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away
+#
+{6400}{}{必须叫人过来！}
+{6401}{}{我会回来的……}
+{6402}{}{救命！}
+{6403}{}{快跑！}
+{6404}{}{你再也不会听到我的声音了！}
+{6405}{}{}
+#
+# moving in to attack
+#
+{6406}{}{}
+{6407}{}{新鲜的肉……}
+{6408}{}{欢迎来到迦克镇。你最好的墓地！}
+{6409}{}{来人啊！进攻！}
+{6410}{}{现在是杀戮时间！}
+{6411}{}{Time to rip a clip...}
+#
+# attacking (10)
+#
+{6412}{}{我们要把你的头加入我们的收藏中}
+{6413}{}{尖叫吧！}
+{6414}{}{享受这一切吧。}
+{6415}{}{}
+{6416}{}{我要把你喂狗}
+{6417}{}{没有人能把迦克镇从我们手中夺走}
+{6418}{}{希望你不要死的那么快}
+{6419}{}{}
+{6420}{}{去死！}
+{6421}{}{}
+#
+# target being missed (6)
+#
+{6422}{}{}
+{6423}{}{我是好人不能死！}
+{6424}{}{}
+{6425}{}{再来一次，笨蛋！}
+{6426}{}{}
+{6427}{}{啊哈！}
+#
+# target hit in head (3)
+#
+{6428}{}{不要打脸！}
+{6429}{}{男人，这比醉酒还要严重}
+{6430}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{6431}{}{啊，我的胳膊}
+{6432}{}{你打断了我的胳膊！}
+{6433}{}{我的胳膊！我的胳膊！}
+#
+# target hit in right arm
+#
+{6434}{}{啊，我的胳膊}
+{6435}{}{你打断了我的胳膊！}
+{6436}{}{我的胳膊！我的胳膊！}
+#
+# target hit in torso (bug fixed by WG: 60xx -> 64xx)
+#
+{6437}{}{Man! That really hurt!}
+{6438}{}{Oof! You gonna regret that}
+{6439}{}{[Gasp]}
+{6440}{}{[Gasp!] Need... air...}
+{6441}{}{I'm gonna spit on your corpse, you skag!}
+{6442}{}{Damn!}
+{6443}{}{Oof!}
+{6444}{}{That was a cheap shot!}
+{6445}{}{Oof!}
+{6446}{}{Ouch!}
+#
+# target hit in right leg
+#
+{6447}{}{啊，我的腿}
+{6448}{}{没人给我止血！}
+{6449}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{6450}{}{啊，我的腿}
+{6451}{}{没人给我止血！}
+{6452}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{6453}{}{啊！我的眼睛！}
+{6454}{}{我的眼睛……我的眼睛没了……}
+{6455}{}{}
+#
+# target hit in groin
+#
+{6456}{}{啊啊啊啊！我的毬！}
+{6457}{}{}
+{6458}{}{}
+{6459}{}{}
+{6460}{}{呜！}
+{6461}{}{啊！我会杀了你的！}
+
+#
+# 56. Gizmo  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away
+#
+#{6500}{}{Gotta get outta here!}
+#{6501}{}{I'll be back...}
+#{6502}{}{Help!}
+#{6503}{}{Run away!}
+#{6504}{}{You ain't heard the last of me!}
+#{6505}{}{You're getting payback, I promise!}
+#
+# moving in to attack
+#
+{6506}{}{结束了，垃圾！你已经成为了历史！}
+{6507}{}{你不可能越过我的，垃圾}
+{6508}{}{你需要一个新建议，垃圾。}
+{6509}{}{没有人能过我吉斯莫这关}
+{6510}{}{你将会被杀死并且抛尸荒野}
+{6511}{}{你让我很不高兴}
+#
+# attacking (10)
+#
+{6512}{}{我要把你的膝盖骨作为我的收藏}
+{6513}{}{这是我对付垃圾和失败者的方法}
+{6514}{}{我很享受这种乐趣。}
+{6515}{}{喔喔，那必须受伤！}
+{6516}{}{错误的人做错误的事}
+{6517}{}{没人能把迦克镇从我手中夺走}
+{6518}{}{希望你不要死的那么快}
+{6519}{}{我要把你撕成一条条的！}
+{6520}{}{你死定了！}
+{6521}{}{按大小试试！}
+#
+# target being missed (6)
+#
+{6522}{}{真可怜}
+{6523}{}{You could really use some Buffout}
+{6524}{}{你比基利安还要失败}
+{6525}{}{}
+{6526}{}{那是你的最后一击！}
+{6527}{}{}
+#
+# target hit in head (3)
+#
+{6528}{}{}
+{6529}{}{你敢这样对我！}
+{6530}{}{你打断了我的鼻子！}
+#
+# target hit in left arm
+#
+{6531}{}{你这个肮脏的辐射蝎竟敢咬我……}
+{6532}{}{你打断了我的胳膊！}
+{6533}{}{我的胳膊！我的胳膊！}
+#
+# target hit in right arm
+#
+{6534}{}{你这个肮脏的辐射蝎竟敢咬我……}
+{6535}{}{你打断了我的胳膊！}
+{6536}{}{我的胳膊！我的胳膊！}
+#
+# target hit in torso
+#
+{6537}{}{}
+{6538}{}{}
+{6539}{}{哇！}
+{6540}{}{喔！我的肋骨……}
+{6541}{}{！}
+{6542}{}{啊！}
+{6543}{}{啊！}
+{6544}{}{没有人会那样对我，没有！}
+{6545}{}{哇！！！}
+{6546}{}{哇！}
+#
+# target hit in right leg
+#
+{6547}{}{啊，我的腿}
+{6548}{}{我……仅能……站着……}
+{6549}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{6550}{}{啊，我的腿}
+{6551}{}{我……仅能……站着……}
+{6552}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{6553}{}{啊！不～～！}
+{6554}{}{我的眼睛……我的眼睛没了……}
+{6555}{}{}
+#
+# target hit in groin
+#
+{6556}{}{啊啊啊啊！我的毬！}
+{6557}{}{喔！不算太坏，垃圾}
+{6558}{}{喔！挖好你的坟了吗，垃圾}
+{6559}{}{喔！你会死的比发光的僵尸还要像僵尸}
+{6560}{}{呜！}
+{6561}{}{啊！你会付出代价的！}
+
+#
+# 57. Sellbabies  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Attacking a defenseless woman? Eat my Uzi, you son of a bitch!
+#
+#
+#  running away
+#
+{6600}{}{我要离开这里！}
+{6601}{}{原谅我吧！}
+{6602}{}{请住手！}
+{6603}{}{救命！}
+{6604}{}{啊啊啊啊啊！}
+{6605}{}{}
+#
+# moving in to attack
+#
+{6606}{}{嗨！}
+{6607}{}{}
+{6608}{}{你以为你是谁？}
+{6609}{}{没有人能接手这个地方……}
+{6610}{}{你想强奸我是很不友好的举动。}
+{6611}{}{你这狗娘养的……}
+#
+# attacking
+#
+{6612}{}{}
+{6613}{}{你找的是这个！}
+{6614}{}{}
+{6615}{}{}
+{6616}{}{为什么你要这样开始？}
+{6617}{}{去死，你这狗娘养的……}
+{6618}{}{不要拿私人物品……}
+{6619}{}{这是你应得的报应！}
+{6620}{}{你要了解是你先找事的}
+{6621}{}{}
+#
+# target being missed
+#
+{6622}{}{吆！}
+{6623}{}{你真的不该做这件事}
+{6624}{}{为你的攻击道歉}
+{6625}{}{你使我想起我过去一直约会的人}
+{6626}{}{你不要摸我}
+{6627}{}{}
+#
+# target hit in head
+#
+{6628}{}{我的脸！}
+{6629}{}{啊，我的头好疼啊}
+{6630}{}{你打花了我的脸！}
+#
+# target hit in left arm
+#
+{6631}{}{啊，我的胳膊}
+{6632}{}{你想让我变成残废吗！}
+{6633}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{6634}{}{啊，我的胳膊}
+{6635}{}{你想让我变成残废吗！}
+{6636}{}{你打断了我的胳膊！}
+#
+# target hit in torso
+#
+{6637}{}{啊！}
+{6638}{}{！}
+{6639}{}{啊！真疼！}
+{6640}{}{}
+{6641}{}{不要打女人的胸部！}
+{6642}{}{啊！！}
+{6643}{}{哎唷！}
+{6644}{}{喔！你会被撕成碎片的……}
+{6645}{}{AH! Fuck!}
+{6646}{}{Dammit! You little worm!}
+#
+# target hit in right leg
+#
+{6647}{}{我的腿！！！}
+{6648}{}{啊，我的膝盖}
+{6649}{}{啊！我的腿断了！}
+#
+# target hit in left leg
+#
+{6650}{}{啊，我的腿}
+{6651}{}{啊，我的膝盖}
+{6652}{}{}
+#
+# target hit in eyes
+#
+{6653}{}{我的脸！我的脸！}
+{6654}{}{我的……眼睛……我的眼睛！}
+{6655}{}{你这个杂种！我要杀了你！}
+#
+# target hit in groin
+#
+{6656}{}{你习惯了打男人那里吗}
+{6657}{}{}
+{6658}{}{你是个阳痿男！}
+{6659}{}{那是我的私处！}
+{6660}{}{你这狗屎！}
+{6661}{}{你这个畜生！}
+
+#
+# 58. Brotherhood_Initiate  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# This is a chance to prove myself!
+#
+#
+#  running away
+#
+{6700}{}{我需要增援！}
+{6701}{}{救救我吧！}
+{6702}{}{}
+{6703}{}{撤退！}
+{6704}{}{攻击！}
+{6705}{}{下次！}
+#
+# moving in to attack
+#
+{6706}{}{我来了！}
+{6707}{}{}
+{6708}{}{}
+{6709}{}{你不可以开火}
+{6710}{}{我希望查理大帝正注视着我}
+{6711}{}{}
+#
+# attacking
+#
+{6712}{}{}
+{6713}{}{}
+{6714}{}{去死吧!}
+{6715}{}{你喜欢这样吗？}
+{6716}{}{打不中勤奋的人，死的是懒惰的人}
+{6717}{}{不要做你完成不了的事}
+{6718}{}{}
+{6719}{}{让我看看你喜欢什么方式！}
+{6720}{}{}
+{6721}{}{地狱正等着你！}
+#
+# target being missed
+#
+{6722}{}{面对事实吧。你打高了。}
+{6723}{}{那就是你最厉害的攻击吗？}
+{6724}{}{失败！来打我啊！}
+{6725}{}{}
+{6726}{}{我们是战斗专家！}
+{6727}{}{你不能打中兄弟会的人}
+#
+# target hit in head (3)
+#
+{6728}{}{我会想你对我那样对待你的}
+{6729}{}{啊！}
+{6730}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{6731}{}{你打断了我的胳膊！}
+{6732}{}{一条断手不能阻止我！}
+{6733}{}{}
+#
+# target hit in right arm
+#
+{6734}{}{你打断了我的胳膊！}
+{6735}{}{一条断臂不能阻止我！}
+{6736}{}{}
+#
+# target hit in torso
+#
+{6737}{}{你打断了我的肋骨！}
+{6738}{}{哇！}
+{6739}{}{哎唷！}
+{6740}{}{啊！那就是疼痛的感觉吗……}
+{6741}{}{喔！我没有训练老二被击中的处理方法！}
+{6742}{}{啊！如果我死了钢铁兄弟会会为我报仇的！}
+{6743}{}{哎唷！}
+{6744}{}{}
+{6745}{}{哦！我的肋骨真疼！我会还回来的}
+{6746}{}{哇！}
+#
+# target hit in right leg
+#
+{6747}{}{啊，我的腿}
+{6748}{}{你会付出很大代价的！}
+{6749}{}{你没有打断我的腿。哦……}
+#
+# target hit in left leg
+#
+{6750}{}{啊，我的腿}
+{6751}{}{你会付出很大代价的！}
+{6752}{}{你没有打断我的腿。}
+#
+# target hit in eyes
+#
+{6753}{}{我瞎了！}
+{6754}{}{我的眼睛像火烧一样！}
+{6755}{}{I can't see!}
+#
+# target hit in groin
+#
+{6756}{}{啊啊啊啊！我的毬！}
+{6757}{}{}
+{6758}{}{真痛啊……}
+{6759}{}{我……不能……呼吸了……}
+{6760}{}{我会还回来的！}
+{6761}{}{你个垃圾……}
+
+#
+# 59. Brotherhood_Scribe  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I'm no Knight, but I can defend myself
+#
+#
+#  running away
+#
+{6800}{}{我需要增援！}
+{6801}{}{我应该远离战斗}
+{6802}{}{后退}
+{6803}{}{撤退！}
+{6804}{}{攻击！}
+{6805}{}{我不能呆在这里很长时间}
+#
+# moving in to attack
+#
+{6806}{}{}
+{6807}{}{}
+{6808}{}{等一会……}
+{6809}{}{你不能在这里开枪}
+{6810}{}{}
+{6811}{}{我去了！}
+#
+# attacking
+#
+{6812}{}{看招！}
+{6813}{}{现在我来收拾你！}
+{6814}{}{去死吧!}
+{6815}{}{你喜欢这样吗？}
+{6816}{}{我知道如何处理你这样的人}
+{6817}{}{这会让你远离战争}
+{6818}{}{}
+{6819}{}{让我们看看你喜欢什么方式！}
+{6820}{}{}
+{6821}{}{}
+#
+# target being missed
+#
+{6822}{}{事实如此，你打高了}
+{6823}{}{这就是你最好的攻击？}
+{6824}{}{愚蠢的白痴}
+{6825}{}{真可怜}
+{6826}{}{你笨拙的表现侮辱了我}
+{6827}{}{你不可能打到兄弟会成员}
+#
+# target hit in head (3)
+#
+{6828}{}{啊！}
+{6829}{}{啊！}
+{6830}{}{哦，我的鼻子！}
+#
+# target hit in left arm
+#
+{6831}{}{那像骨头破碎的声音}
+{6832}{}{哦，我的胳膊}
+{6833}{}{我的胳膊失去知觉了}
+#
+# target hit in right arm
+#
+{6834}{}{那像骨头破碎的声音}
+{6835}{}{哦，我的胳膊}
+{6836}{}{我的胳膊失去知觉了}
+#
+# target hit in torso
+#
+{6837}{}{}
+{6838}{}{哇！}
+{6839}{}{}
+{6840}{}{喔！真疼……我的老朋友}
+{6841}{}{}
+{6842}{}{喔！兄弟会会为我报仇的！}
+{6843}{}{哎唷！}
+{6844}{}{}
+{6845}{}{哦！我的肋骨真疼！我会还回来的}
+{6846}{}{哇！}
+#
+# target hit in right leg
+#
+{6847}{}{啊，我的腿}
+{6848}{}{哦，我的膝盖！}
+{6849}{}{啊}
+#
+# target hit in left leg
+#
+{6850}{}{啊，我的腿}
+{6851}{}{哦，我的膝盖}
+{6852}{}{啊……}
+#
+# target hit in eyes
+#
+{6853}{}{我瞎了！}
+{6854}{}{我瞎了！我这里需要帮助！}
+{6855}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{6856}{}{啊啊啊啊！我的毬！}
+{6857}{}{哦哦哦，我喘不过气来}
+{6858}{}{啊啊啊啊！我的胳膊}
+{6859}{}{我……不……能……呼吸……}
+{6860}{}{我伤了这里！我需要帮助！}
+{6861}{}{真疼……}
+
+#
+# 60. Brotherhood_Knight  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I don't need to be a Paladin to take care of you
+#
+#
+#  running away
+#
+{6900}{}{我需要增援！}
+{6901}{}{我应该远离战斗}
+{6902}{}{后退}
+{6903}{}{撤退！}
+{6904}{}{攻击！}
+{6905}{}{我不能呆在这里很长时间}
+#
+# moving in to attack
+#
+{6906}{}{我来了！}
+{6907}{}{这是我的！}
+{6908}{}{}
+{6909}{}{又被突破了}
+{6910}{}{}
+{6911}{}{我去了！}
+#
+# attacking
+#
+{6912}{}{时间到了}
+{6913}{}{现在我来收拾你！}
+{6914}{}{去死吧!}
+{6915}{}{结束了！}
+{6916}{}{倒下去！}
+{6917}{}{这会让你远离战争}
+{6918}{}{}
+{6919}{}{让我们看看你破坏了什么}
+{6920}{}{我只是在热身}
+{6921}{}{这里在打雷}
+#
+# target being missed
+#
+{6922}{}{你的技术生疏}
+{6923}{}{那就是你最厉害的攻击吗？}
+{6924}{}{愚蠢的白痴}
+{6925}{}{真可怜}
+{6926}{}{你笨拙的表现侮辱了我}
+{6927}{}{你不是合格的战士}
+#
+# target hit in head (3)
+#
+{6928}{}{啊！}
+{6929}{}{啊！}
+{6930}{}{哦}
+#
+# target hit in left arm
+#
+{6931}{}{那像骨头破碎的声音}
+{6932}{}{啊！}
+{6933}{}{我的胳膊失去知觉了}
+#
+# target hit in right arm
+#
+{6934}{}{那像骨头破碎的声音}
+{6935}{}{啊！}
+{6936}{}{我的胳膊失去知觉了}
+#
+# target hit in torso
+#
+{6937}{}{喔！我准备杀死你！}
+{6938}{}{哇！}
+{6939}{}{哎唷！}
+{6940}{}{喔！我情况不妙}
+{6941}{}{啊！做最坏的打算了吗，我准备好了！}
+{6942}{}{如果我死了兄弟会会报复你的！}
+{6943}{}{哎唷！}
+{6944}{}{啊！}
+{6945}{}{}
+{6946}{}{哇！}
+#
+# target hit in right leg
+#
+{6947}{}{啊，我的腿}
+{6948}{}{}
+{6949}{}{啊}
+#
+# target hit in left leg
+#
+{6950}{}{啊，我的腿}
+{6951}{}{}
+{6952}{}{啊……}
+#
+# target hit in eyes
+#
+{6953}{}{啊啊啊啊！}
+{6954}{}{我瞎了！需要帮助！}
+{6955}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{6956}{}{啊啊啊啊！我的毬！}
+{6957}{}{哦哦哦，我喘不过气来}
+{6958}{}{啊啊啊啊！我的胳膊}
+{6959}{}{我……不能……呼吸了……}
+{6960}{}{我要公平的对你这样}
+{6961}{}{真疼……}
+
+#
+# 61. Brotherhood_Paladin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We are the Elite.
+#
+#
+#  running away
+#
+{7000}{}{敦克尔克！敦克尔克！我要撤退！}
+{7001}{}{我应该远离战斗}
+{7002}{}{后退}
+{7003}{}{我要活着去参加下一场战斗}
+{7004}{}{我在这儿不会有好事的}
+{7005}{}{}
+#
+# moving in to attack
+#
+{7006}{}{我来了！}
+{7007}{}{这是我的！}
+{7008}{}{很快就会解决}
+{7009}{}{又被突破了}
+{7010}{}{让我们镇压捣乱者}
+{7011}{}{我去了！}
+#
+# attacking
+#
+{7012}{}{享受生命中最后几秒吧}
+{7013}{}{让我们把你踩在脚下！}
+{7014}{}{这是我做事的方式}
+{7015}{}{结束了！}
+{7016}{}{开火！}
+{7017}{}{我欣赏你的动作，但一切都该结束了}
+{7018}{}{}
+{7019}{}{让我们看看你破坏了什么}
+{7020}{}{够你喝一壶的}
+{7021}{}{我很抱歉这样对你}
+#
+# target being missed
+#
+{7022}{}{你是个软弱的白痴！}
+{7023}{}{那就是你最强的攻击！}
+{7024}{}{你认真战斗了吗？}
+{7025}{}{瞄准目标，你个白痴！}
+{7026}{}{那就是你最后一个错误}
+{7027}{}{你该呆在家里}
+#
+# target hit in head (3)
+#
+{7028}{}{呼，真疼！}
+{7029}{}{啊！}
+{7030}{}{哦}
+#
+# target hit in left arm
+#
+{7031}{}{那像骨头破碎的声音}
+{7032}{}{嗯，打中了我的前臂}
+{7033}{}{我的胳膊失去知觉了}
+#
+# target hit in right arm
+#
+{7034}{}{那像骨头破碎的声音}
+{7035}{}{嗯，打中了我的前臂}
+{7036}{}{我的胳膊失去知觉了}
+#
+# target hit in torso
+#
+{7037}{}{啊，你这条狗！}
+{7038}{}{哇！}
+{7039}{}{哎唷！}
+{7040}{}{喔！我对不起我妈}
+{7041}{}{啊！你真下流！}
+{7042}{}{啊！如果我死了钢铁兄弟会会为我报仇的！}
+{7043}{}{我要战胜疼痛就像战胜你一样！}
+{7044}{}{很好……让我的老朋友尝尝疼痛的滋味}
+{7045}{}{}
+{7046}{}{只是皮外伤！}
+#
+# target hit in right leg
+#
+{7047}{}{呼，一条腿受伤了}
+{7048}{}{我的腿断了！}
+{7049}{}{啊}
+#
+# target hit in left leg
+#
+{7050}{}{呼，一条腿受伤了}
+{7051}{}{我的腿断了}
+{7052}{}{啊……}
+#
+# target hit in eyes
+#
+{7053}{}{啊啊啊啊！}
+{7054}{}{我失明了！}
+{7055}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{7056}{}{啊啊啊啊！我的毬！}
+{7057}{}{我开始不喜欢这种疼痛了}
+{7058}{}{感觉良好}
+{7059}{}{这样看来，这个垃圾喜欢打下面}
+{7060}{}{时间足够疼痛缓解的}
+{7061}{}{不要再打臭子了}
+
+#
+# 62. Brotherhood_Elders  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Insolent pup. Why do you bother us with idle chatter when there are enemies to fight
+#
+#
+#  running away
+#
+{7100}{}{掩护我！}
+{7101}{}{不要认为这是懦弱，杂种。}
+{7102}{}{还没轮到我！}
+{7103}{}{我要给你这个，杂种。}
+{7104}{}{不要认为这就完了。}
+{7105}{}{}
+#
+# moving in to attack
+#
+{7106}{}{我来了。}
+{7107}{}{我需要做所有的事情吗？}
+{7108}{}{很快就会解决}
+{7109}{}{也许这是挑衅}
+{7110}{}{有人犯了个大错误}
+{7111}{}{有人想打搅我们吗？谁是这个蠢货！}
+#
+# attacking
+#
+{7112}{}{太容易了}
+{7113}{}{准备，瞄准，射击……}
+{7114}{}{这是我做事的方式}
+{7115}{}{结束了！}
+{7116}{}{来了！}
+{7117}{}{我欣赏你的动作，但一切都该结束了}
+{7118}{}{时间足够解决你了}
+{7119}{}{对年轻人来说这是个困难的任务}
+{7120}{}{够你喝一壶的}
+{7121}{}{元老给你的礼物，小孩。}
+#
+# target being missed
+#
+{7122}{}{我可以看到子弹打偏了}
+{7123}{}{我花了二十年来学习躲子弹}
+{7124}{}{你是天才，但你联练习的不够}
+{7125}{}{没有什么能代替经验}
+{7126}{}{现在……轮到我了}
+{7127}{}{你该呆在家里}
+#
+# target hit in head (3)
+#
+{7128}{}{呼，真疼！}
+{7129}{}{啊！}
+{7130}{}{喔，伤得不重}
+#
+# target hit in left arm
+#
+{7131}{}{}
+{7132}{}{嗯，打中了我的前臂}
+{7133}{}{我的胳膊麻木了。这不是第一次了}
+#
+# target hit in right arm
+#
+{7134}{}{}
+{7135}{}{嗯，打中了我的前臂}
+{7136}{}{我的胳膊麻木了。这不是第一次了}
+#
+# target hit in torso
+#
+{7137}{}{我感觉不到痛苦！}
+{7138}{}{我还活着！}
+{7139}{}{我还活着！我受伤了，但还活着！}
+{7140}{}{哦！你犯了个战术错误}
+{7141}{}{喔！兄弟会会获胜的！}
+{7142}{}{啊！如果我死了钢铁兄弟会会为我报仇的！}
+{7143}{}{哇！}
+{7144}{}{[Gasp!]}
+{7145}{}{攻击！}
+{7146}{}{你会感到兄弟会的愤怒的！}
+#
+# target hit in right leg
+#
+{7147}{}{呼，一条腿受伤了}
+{7148}{}{我的腿断了！}
+{7149}{}{那不令人愉快}
+#
+# target hit in left leg
+#
+{7150}{}{呼，一条腿受伤了}
+{7151}{}{我的腿断了}
+{7152}{}{那不令人愉快}
+#
+# target hit in eyes
+#
+{7153}{}{保持镇静。我知道该瞄准哪里}
+{7154}{}{打中了眼睛。这不太好。}
+{7155}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{7156}{}{啊啊啊啊！我的毬！}
+{7157}{}{}
+{7158}{}{这种羞辱激怒我了}
+{7159}{}{}
+{7160}{}{历史会淘汰这种白痴}
+{7161}{}{不要再打臭子了}
+
+#
+# 63. Brotherhood_Rhombus  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away
+#
+{7200}{}{我要撤退！}
+{7201}{}{我要远离战斗}
+{7202}{}{收缩防御！}
+{7203}{}{我会继续战斗的}
+{7204}{}{我在这儿不会有好事的}
+{7205}{}{}
+#
+# moving in to attack
+#
+{7206}{}{我来了！}
+{7207}{}{这是我的！}
+{7208}{}{我会好好招待这个杂种。}
+{7209}{}{让我给你点痛苦}
+{7210}{}{傲慢的杂种}
+{7211}{}{我去了！}
+#
+# attacking
+#
+{7212}{}{享受生命中最后几秒吧}
+{7213}{}{我对你感到厌烦}
+{7214}{}{这是我做事的方式}
+{7215}{}{结束了！}
+{7216}{}{这就是业余人员的表现}
+{7217}{}{你真的打搅我了}
+{7218}{}{}
+{7219}{}{你会被轰杀至渣，小孩}
+{7220}{}{够你喝一壶的}
+{7221}{}{我很抱歉这样对你}
+#
+# target being missed
+#
+{7222}{}{你的技术不行}
+{7223}{}{不要浪费我的时间}
+{7224}{}{你认真战斗了吗？}
+{7225}{}{你不会嚣张很长时间的，不是吗？}
+{7226}{}{软弱的白痴}
+{7227}{}{你该呆在家里}
+#
+# target hit in head (3)
+#
+{7228}{}{呼，真疼！}
+{7229}{}{啊！}
+{7230}{}{哦}
+#
+# target hit in left arm
+#
+{7231}{}{}
+{7232}{}{嗯，打中了我的前臂}
+{7233}{}{我的胳膊失去知觉了}
+#
+# target hit in right arm
+#
+{7234}{}{}
+{7235}{}{嗯，打中了我的前臂}
+{7236}{}{我的胳膊失去知觉了}
+#
+# target hit in torso
+#
+{7237}{}{我感觉不到痛苦！}
+{7238}{}{喔！无礼的小狗！}
+{7239}{}{喔！无礼的杂种！感受我的愤怒吧！}
+{7240}{}{哦！你犯了个战术错误}
+{7241}{}{哎唷！}
+{7242}{}{喔！兄弟会会为我复仇的}
+{7243}{}{哇！}
+{7244}{}{疼痛让我知道我还活着}
+{7245}{}{攻击！}
+{7246}{}{}
+#
+# target hit in right leg
+#
+{7247}{}{一条受伤的腿不能阻止我杀你}
+{7248}{}{我的腿断了！}
+{7249}{}{啊}
+#
+# target hit in left leg
+#
+{7250}{}{一条受伤的腿不能阻止我杀你}
+{7251}{}{我的腿断了}
+{7252}{}{啊……}
+#
+# target hit in eyes
+#
+{7253}{}{啊啊啊啊！}
+{7254}{}{你这个杂种！}
+{7255}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{7256}{}{小孩，和我玩游戏的人都会死！}
+{7257}{}{}
+{7258}{}{感觉良好}
+{7259}{}{}
+{7260}{}{历史会淘汰这种白痴}
+{7261}{}{我希望多一些你这种人}
+
+#
+# 64. Children, Morpheus  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# You actually expect to kill me?
+#
+#
+#  running away (6)
+#
+{7300}{}{这不是好玩的，我要走了。}
+{7301}{}{这场战斗是毫无意义的。再见，白痴！}
+{7302}{}{我不能为你花很多时间}
+{7303}{}{我还有很多事情去做，不能为你脏了我的手！}
+{7304}{}{我会让夜行团收拾你的}
+{7305}{}{再见蠢货。你不会活着见到我了}
+#
+# moving in to attack
+#
+{7306}{}{当我享受鲜血在我手指上的感觉时，时间过得很快！}
+{7307}{}{如果你那么做了，我会看着你死去的！}
+{7308}{}{当我结束的时候，你就会变成变种地鼠的食物！}
+{7309}{}{没有人能阻止！}
+{7310}{}{不能容忍你的傲慢！}
+{7311}{}{你不能被宽恕}
+#
+# attacking
+#
+{7312}{}{看招！}
+{7313}{}{我要用圣炎洗礼你！}
+{7314}{}{这就是我处理畜生的方式}
+{7315}{}{你这个可怕的野蛮人！}
+{7316}{}{我要听你的尖叫声！}
+{7317}{}{这只是你痛苦的开始！}
+{7318}{}{我是墨菲斯，我支配着黑色势力！}
+{7319}{}{你要被烧死！}
+{7320}{}{我是墨菲斯，死亡的主人！}
+{7321}{}{我要把你扔出去并干掉你}
+#
+# target being missed
+#
+{7322}{}{我是那种不会给人留下印象的人}
+{7323}{}{我不会花十年时间在刀刃帮什么也不干的！}
+{7324}{}{可怜的}
+{7325}{}{我最好同妓女战斗}
+{7326}{}{你是不是老是打偏，或者这几天才这样的？}
+{7327}{}{亵渎者,失败者，白痴。过会我们就把你的尸体写进功劳簿}
+#
+# target hit in head
+#
+{7328}{}{啊啊啊啊！}
+{7329}{}{我的眼睛！}
+{7330}{}{正中目标！}
+#
+# target hit in left arm
+#
+{7331}{}{啊！}
+{7332}{}{啊！我的胳膊！}
+{7333}{}{喔！你走狗屎运了！}
+#
+# target hit in right arm
+#
+{7334}{}{啊！}
+{7335}{}{啊！我的胳膊！}
+{7336}{}{喔！你走狗屎运了！}
+#
+# target hit in torso
+#
+{7337}{}{他妈的你真幸运！}
+{7338}{}{哦！我不会投降的！}
+{7339}{}{你让我的屁股真疼啊！}
+{7340}{}{用主教的观点来说你是有罪的}
+{7341}{}{啊！}
+{7342}{}{哎唷！}
+{7343}{}{哇！}
+{7344}{}{[Gasp!]}
+{7345}{}{哦，真疼！}
+{7346}{}{我的手下会狠狠教训你！}
+#
+# target hit in right leg
+#
+{7347}{}{啊！}
+{7348}{}{啊！我的膝盖！}
+{7349}{}{啊！我的腿！}
+#
+#
+# target hit in left leg
+#
+{7350}{}{啊！}
+{7351}{}{啊！我的膝盖！}
+{7352}{}{啊！我的腿！}
+#
+# target hit in eyes
+#
+{7353}{}{我的眼睛！你这头肮脏的猪！}
+{7354}{}{我要看着你被撕成碎片！}
+{7355}{}{啊！肮脏的小子……}
+#
+# target hit in groin
+#
+{7356}{}{啊啊啊啊！我的毬！}
+{7357}{}{哎呦！}
+{7358}{}{我要看着你受苦！}
+{7359}{}{哇！}
+{7360}{}{你会死的很惨的！}
+{7361}{}{你竟敢打墨菲斯的下面！}
+
+#
+# 65. Children, Lasher  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Child, you must be disciplined
+#
+#
+#  running away (6)
+#
+{7400}{}{孩子，你受到了足够的惩罚。离开吧}
+{7401}{}{不要反抗了孩子。我们就是做那个的。}
+{7402}{}{我不能为你花很多时间}
+{7403}{}{我还有很多事情去做，不能为你脏了我的手！}
+{7404}{}{我会让夜行团收拾你的}
+{7405}{}{稍后我要再惩罚你}
+#
+# moving in to attack
+#
+{7406}{}{你会受到惩罚的}
+{7407}{}{你会受到惩罚的}
+{7408}{}{站住。否则就开火了。}
+{7409}{}{你要学会礼貌，孩子。}
+{7410}{}{现在的年轻人。无组织，无纪律。我会教教你的。}
+{7411}{}{你会被折磨的，孩子。}
+#
+# attacking
+#
+{7412}{}{接受我的指责，去掉你的坏毛病！}
+{7413}{}{我要用圣炎洗礼你！}
+{7414}{}{你是邪恶的傀儡！接受惩罚吧！}
+{7415}{}{你应该受到惩罚！接受惩罚吧！}
+{7416}{}{尖叫吧孩子！在痛苦中解脱吧！}
+{7417}{}{我对你的痛苦没有兴趣，孩子。}
+{7418}{}{承认你的错误！承认你的错误！}
+{7419}{}{你是卑鄙无耻的。接受惩罚吧！}
+{7420}{}{你的抵抗只会增加你的罪孽。屈服吧！}
+{7421}{}{服从与神圣的权力，你会被救赎的！}
+#
+# target being missed
+#
+{7422}{}{你的动作反映出你的扭曲病态思想}
+{7423}{}{你的抵抗使我恶心，但我会忍耐的}
+{7424}{}{我担心你无法以我的能力救赎。}
+{7425}{}{你还没有撒完谎吗，孩子？}
+{7426}{}{虽然你打了我，但我仍然爱你}
+{7427}{}{亵渎者，失败者，蠢货。忏悔吧！}
+#
+# target hit in head
+#
+{7428}{}{我能忍受你的殴打，孩子。}
+{7429}{}{你不能伤害我，因为我是神圣的}
+{7430}{}{我要忍耐}
+#
+# target hit in left arm
+#
+{7431}{}{主教保佑着我。我不会感到痛苦。}
+{7432}{}{我被神圣的东西保护着，孩子。}
+{7433}{}{圣炎保护着我。你的攻击不算什么。}
+#
+# target hit in right arm
+#
+{7434}{}{主教保佑着我。我不会感到痛苦。}
+{7435}{}{我被神圣的东西保护着，孩子。}
+{7436}{}{圣炎保护着我。你的攻击不算什么。}
+#
+# target hit in torso
+#
+{7437}{}{疼痛之后，还有宽恕，孩子。}
+{7438}{}{我了解那种痛苦。你呢？}
+{7439}{}{我会遭到你的殴打，但痛苦不算什么}
+{7440}{}{再来一次，我喜欢你的拳头}
+{7441}{}{主教给了我生存的意志}
+{7442}{}{呼！你只不过是个孩子}
+{7443}{}{身体只是个臭皮囊}
+{7444}{}{你不能阻止统一}
+{7445}{}{我感到你的痛苦，孩子}
+{7446}{}{不要再尝试了！}
+#
+# target hit in right leg
+#
+{7447}{}{疼痛之后，还有宽恕，孩子。}
+{7448}{}{主教是我的腿和胳膊，孩子。}
+{7449}{}{身体的每弱点使我的灵魂更强壮，孩子。}
+#
+#
+# target hit in left leg
+#
+{7450}{}{疼痛之后，还有宽恕，孩子。}
+{7451}{}{主教是我的腿和胳膊，孩子。}
+{7452}{}{身体的每弱点使我的灵魂更强壮，孩子。}
+#
+# target hit in eyes
+#
+{7453}{}{疼痛之后，还有宽恕，孩子。}
+{7454}{}{没有伤亡对主教来说是最好的，孩子。}
+{7455}{}{身体的每弱点使我的灵魂更强壮，孩子。}
+#
+# target hit in groin
+#
+{7456}{}{虽然我的肉体并不强壮，但我的意志是坚强的！}
+{7457}{}{痛苦是由软弱思想创造的。我将忍耐}
+{7458}{}{苦难使我坚强}
+{7459}{}{哇！}
+{7460}{}{你颓废的本性是背叛，即使在战斗中}
+{7461}{}{你的过失将会十倍的返还，孩子！}
+
+#
+# 66. Hub, Jain  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Blasphemers must die!
+#
+#
+#  running away (6)
+#
+{7500}{}{邪恶的你将会在适当的时候受到处罚！}
+{7501}{}{你现在还有孩子的标志！}
+{7502}{}{我会再次注意你的！}
+{7503}{}{我将会见到你的尸体！}
+{7504}{}{我们还会见面的}
+{7505}{}{还没有结束！}
+#
+# moving in to attack
+#
+{7506}{}{亵渎者将会受到惩罚！}
+{7507}{}{以圣火的名义杀死你！}
+{7508}{}{你竟敢打断我们伟大的工作！}
+{7509}{}{你必须学会礼貌，孩子}
+{7510}{}{小的们，毁灭入侵者！}
+{7511}{}{你会吃大苦头的，孩子}
+#
+# attacking
+#
+{7512}{}{这就是给你的惩罚！}
+{7513}{}{亵渎者！}
+{7514}{}{受苦吧孩子！}
+{7515}{}{以圣火的名义，去死！}
+{7516}{}{现在夜晚来临了}
+{7517}{}{进棺材吧，孩子！}
+{7518}{}{现在降下死亡打击！}
+{7519}{}{你亵渎了圣火！}
+{7520}{}{痛苦吧，蠢货！}
+{7521}{}{你只有死路一条，明白吗！}
+
+#
+# target being missed
+#
+{7522}{}{你的动作反映出你的扭曲病态思想}
+{7523}{}{你上不了我的，孩子。}
+{7524}{}{我恐怕不能用我的神力救回你了}
+{7525}{}{你还没有撒完谎吗，孩子？}
+{7526}{}{圣炎保佑着我！}
+{7527}{}{我的强大超出你的想象}
+#
+# target hit in head
+#
+{7528}{}{你这个邪恶的小畜生！}
+{7529}{}{你会为此而死的！}
+{7530}{}{啊！}
+#
+# target hit in left arm
+#
+{7531}{}{主教保佑着我。我感觉不到疼痛}
+{7532}{}{死神会找到你的！}
+{7533}{}{啊！}
+#
+# target hit in right arm
+#
+{7534}{}{主教保佑着我。我感觉不到疼痛}
+{7535}{}{死神会找到你的！}
+{7536}{}{啊！}
+#
+# target hit in torso
+#
+{7537}{}{罪人！}
+{7538}{}{啊！}
+{7539}{}{你正在溢出神圣的女人血！}
+{7540}{}{喔！你不会成功的}
+{7541}{}{喔！因为你的错误我要终结你}
+{7542}{}{喔！你侮辱了你自己}
+{7543}{}{哦！}
+{7544}{}{主教保护我们不受你软弱攻击的伤害}
+{7545}{}{啊！}
+{7546}{}{哇！}
+#
+# target hit in right leg
+#
+{7547}{}{主教保佑着我。我感觉不到疼痛}
+{7548}{}{我的血是虔诚的祭品}
+{7549}{}{啊！}
+#
+#
+# target hit in left leg
+#
+{7550}{}{痛苦之后，还有宽恕，孩子}
+{7551}{}{我的血是虔诚的祭品}
+{7552}{}{啊！}
+#
+# target hit in eyes
+#
+{7553}{}{我的眼睛！}
+{7554}{}{啊！你这个恶棍！}
+{7555}{}{我的眼睛火烧一样！}
+#
+# target hit in groin
+#
+{7556}{}{你很令人讨厌！}
+{7557}{}{你喜欢廉价的胜利！}
+{7558}{}{苦难使我坚强}
+{7559}{}{哇！}
+{7560}{}{你颓废的本性是背叛，即使在战斗中}
+{7561}{}{你的过失将会十倍的返还，孩子！}
+
+#
+# 67. Hub, Underground  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# You don't understand what you're messing with
+#
+#
+#  running away
+#
+{7600}{}{这不值得我浪费时间}
+{7601}{}{我不会为死人花时间的！}
+{7602}{}{你会为你的所作所为付出代价的！}
+{7603}{}{}
+{7604}{}{你不会见到我了！}
+{7605}{}{我应该改天再战！}
+#
+# moving in to attack
+#
+{7606}{}{你已成为了历史！}
+{7607}{}{你搞砸了！}
+{7608}{}{我会在你的坟上跳舞的}
+{7609}{}{你这个小矮子！}
+{7610}{}{在我要收拾你的时候，地鼠就会干掉你！}
+{7611}{}{你的生命对我没有意义}
+#
+# attacking (10)
+#
+{7612}{}{喂虫子的时间到了！}
+{7613}{}{你会变得十分丑陋的}
+{7614}{}{}
+{7615}{}{该你了！}
+{7616}{}{等会，你就会见到你的上帝}
+{7617}{}{我要像改掉坏习惯那样干掉你！}
+{7618}{}{}
+{7619}{}{杀了你我会得到奖金的}
+{7620}{}{去死！}
+{7621}{}{我要把你踢进坟墓}
+#
+# target being missed (6)
+#
+{7622}{}{那是个警告，还是你要玩真的？}
+{7623}{}{让我猜猜，你是故意打偏的}
+{7624}{}{}
+{7625}{}{那就是你放过目标的方式！谢谢你放过我。}
+{7626}{}{一个恶毒的诅咒才会让我受伤！}
+{7627}{}{失败}
+#
+# target hit in head (3)
+#
+{7628}{}{}
+{7629}{}{啊，我的头好疼啊}
+{7630}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{7631}{}{啊，我的胳膊}
+{7632}{}{你打断了我的胳膊！}
+{7633}{}{我不需要那个}
+#
+# target hit in right arm
+#
+{7634}{}{啊，我的胳膊}
+{7635}{}{你打断了我的胳膊！}
+{7636}{}{我的好手！}
+#
+# target hit in torso
+#
+{7637}{}{哇！}
+{7638}{}{攻击！}
+{7639}{}{来啊，再来一次！}
+{7640}{}{哇！}
+{7641}{}{[Gasp!]}
+{7642}{}{喔，鸡奸你们！}
+{7643}{}{啊，喔！}
+{7644}{}{哎唷！}
+{7645}{}{啊！真疼！}
+{7646}{}{嗨！我还没有准备好！}
+#
+# target hit in right leg
+#
+{7647}{}{啊，我的腿}
+{7648}{}{你会付出很大代价的！}
+{7649}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{7650}{}{啊，我的腿}
+{7651}{}{你会付出很大代价的！}
+{7652}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{7653}{}{啊！我的视网膜！}
+{7654}{}{我的眼睛……我的眼睛没了……}
+{7655}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{7656}{}{啊啊啊啊！我的毬！}
+{7657}{}{喔！我必须试着移动……}
+{7658}{}{每天早晨我会想起它的}
+{7659}{}{我讨厌射击胯下}
+{7660}{}{呜！}
+{7661}{}{啊！你会付出代价的！}
+
+#
+# 68. Hub, Police  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# You're under arrest! I love saying that!
+#
+#
+#  running away
+#
+{7700}{}{}
+{7701}{}{也许这不是个好主意}
+{7702}{}{我想我超出射程了}
+{7703}{}{}
+{7704}{}{啊啊啊啊！我的胳膊}
+{7705}{}{那对我来说太多了}
+#
+# moving in to attack
+#
+{7706}{}{嗨，就是你！}
+{7707}{}{有人犯了个大错误}
+{7708}{}{我们这里不喜欢你这种人!}
+{7709}{}{你以为你是谁？}
+{7710}{}{Time to rip a clip...}
+{7711}{}{哈勃城警察！}
+#
+# attacking
+#
+{7712}{}{看招！}
+{7713}{}{现在我来收拾你！}
+{7714}{}{站住，不许动}
+{7715}{}{你喜欢这样吗？}
+{7716}{}{}
+{7717}{}{什么人？}
+{7718}{}{你认为你没惹麻烦？再想想}
+{7719}{}{垃圾}
+{7720}{}{我要带你走！}
+{7721}{}{你该学会尊老爱幼}
+#
+# target being missed
+#
+{7722}{}{你不希望跟着我，不是吗？}
+{7723}{}{我是专业人员}
+{7724}{}{你的技术真差}
+{7725}{}{那将会是你最后一个错误}
+{7726}{}{喔！我必须试着移动……}
+{7727}{}{你在酒吧里学的打架吗？}
+#
+# target hit in head
+#
+{7728}{}{啊！你这狗娘养的……}
+{7729}{}{我要杀了你}
+{7730}{}{我要把你的头拧下来！}
+#
+# target hit in left arm
+#
+{7731}{}{啊，我的胳膊}
+{7732}{}{见鬼。我的手断了！}
+{7733}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{7734}{}{啊，我的胳膊}
+{7735}{}{见鬼。我的手断了！}
+{7736}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{7737}{}{你会在牢里待一段时间的！}
+{7738}{}{袭警是犯法的！}
+{7739}{}{哎唷！}
+{7740}{}{哇！}
+{7741}{}{那就是了！我有足够的证据抓你！}
+{7742}{}{要把你关起来}
+{7743}{}{再打我那里一下，我们就不用去见法官了}
+{7744}{}{你这威胁人物敢再动一动}
+{7745}{}{喔！举起手来！}
+{7746}{}{}
+#
+# target hit in right leg
+#
+{7747}{}{啊，我的腿}
+{7748}{}{你会付出很大代价的！}
+{7749}{}{我的膝盖！}
+#
+# target hit in left leg
+#
+{7750}{}{啊，我的腿}
+{7751}{}{你会付出很大代价的！}
+{7752}{}{我的膝盖！}
+#
+# target hit in eyes
+#
+{7753}{}{我看不见了！}
+{7754}{}{我的眼睛！你会付出代价的！}
+{7755}{}{我瞎了！我需要支援}
+#
+# target hit in groin
+#
+{7756}{}{啊啊啊啊！我的毬！}
+{7757}{}{每天早晨我会想起它的}
+{7758}{}{你这个瘪三！}
+{7759}{}{呜！}
+{7760}{}{你打中了我的私处！}
+{7761}{}{他妈的，真疼}
+
+#
+# 69. Decker  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+#
+#  running away
+#
+{7800}{}{还没有结束。不是开枪能解决的！}
+{7801}{}{我会回来的……}
+{7802}{}{你死定了。听到了吗，死定了！}
+{7803}{}{我会看着你死的！}
+{7804}{}{你再也不会听到我的声音了！}
+{7805}{}{你会付出代价的，我发誓！}
+#
+# moving in to attack
+#
+{7806}{}{结束了，垃圾！你将会成为历史！}
+{7807}{}{你不可能越过我的，垃圾}
+{7808}{}{你需要一个新建议，垃圾}
+{7809}{}{你错了，我才是正确的}
+{7810}{}{你坐在通向地狱的高速列车上，垃圾}
+{7811}{}{就是它，有人要死了}
+#
+# attacking (10)
+#
+{7812}{}{看招！}
+{7813}{}{这是我对付垃圾和失败者的方法}
+{7814}{}{我很满意这个}
+{7815}{}{这会伤到你的！}
+{7816}{}{错误的人做错误的事}
+{7817}{}{没有人能把哈勃城从我手里抢走}
+{7818}{}{希望你不要死的那么快}
+{7819}{}{没人可以打搅德克！}
+{7820}{}{去死！}
+{7821}{}{按大小试试！}
+#
+# target being missed (6)
+#
+{7822}{}{真可怜}
+{7823}{}{你的眼长在头上吗！}
+{7824}{}{我仍然可以战斗}
+{7825}{}{我不能完成工作了}
+{7826}{}{那是你的最后一击！}
+{7827}{}{失败者}
+#
+# target hit in head (3)
+#
+{7828}{}{我的头真疼啊！}
+{7829}{}{你敢这样对我！}
+{7830}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{7831}{}{你这个肮脏的辐射蝎竟敢咬我……}
+{7832}{}{你打断了我的胳膊！}
+{7833}{}{我的胳膊！我的胳膊！}
+#
+# target hit in right arm
+#
+{7834}{}{你这个肮脏的辐射蝎竟敢咬我……}
+{7835}{}{你打断了我的胳膊！}
+{7836}{}{我的胳膊！我的胳膊！}
+#
+# target hit in torso
+#
+{7837}{}{你是狗娘养的阴险东西，知道吗？}
+{7838}{}{喔！我的肋骨会每天都疼的！}
+{7839}{}{哦！你认为我是什么，一个沙袋？}
+{7840}{}{哇！}
+{7841}{}{啊！}
+{7842}{}{不要把我弄成那个样子，我不能确定}
+{7843}{}{喔！你还有机会解决问题，但是你打了它！}
+{7844}{}{喔！那令人很不愉快}
+{7845}{}{哦！我会记着的……}
+{7846}{}{呼！我……需要……氧气……}
+#
+# target hit in right leg
+#
+{7847}{}{啊，我的腿}
+{7848}{}{哦……你个垃圾！}
+{7849}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{7850}{}{啊，我的腿}
+{7851}{}{哦……你个垃圾！}
+{7852}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{7853}{}{血。眼里全是血……}
+{7854}{}{我的眼睛……我的眼睛没了……}
+{7855}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{7856}{}{啊啊啊啊！我的毬！}
+{7857}{}{喔！不算太坏，垃圾}
+{7858}{}{哦！你挖好坟了吗，垃圾}
+{7859}{}{哦！我要活埋了你！}
+{7860}{}{呜！}
+{7861}{}{啊！你会付出代价的！}
+
+#
+# 70. Kane ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Mr. Decker says you're a problem.
+#
+#
+#  running away
+#
+{7900}{}{还没有结束。不是开枪能解决的！}
+{7901}{}{我会回来的……}
+{7902}{}{你死定了。听到了吗，死定了！}
+{7903}{}{我会看着你死的！}
+{7904}{}{你再也不会听到我的声音了！}
+{7905}{}{你会付出代价的，我发誓！}
+#
+# moving in to attack
+#
+{7906}{}{我很擅长处理问题}
+{7907}{}{你绝不会通过德克先生这一关}
+{7908}{}{我要改变你的态度}
+{7909}{}{德克先生不喜欢你}
+{7910}{}{你坐在通向地狱的高速列车上}
+{7911}{}{就是它，有人要死了}
+#
+# attacking (10)
+#
+{7912}{}{看招！}
+{7913}{}{德克人物你需要学会礼貌}
+{7914}{}{这是来自德克的信息}
+{7915}{}{这会伤到你的！}
+{7916}{}{错误的人做错误的事}
+{7917}{}{德克向你问好。}
+{7918}{}{现在道歉太晚了}
+{7919}{}{没人可以打搅德克！}
+{7920}{}{去死！}
+{7921}{}{按大小试试！}
+#
+# target being missed (6)
+#
+{7922}{}{真可怜}
+{7923}{}{你的眼长在头上吗！}
+{7924}{}{我不认为你能打中目标}
+{7925}{}{我不能完成工作了}
+{7926}{}{那将会是你最后一个错误}
+{7927}{}{你今天遭透了。都打偏了。真臭。}
+#
+# target hit in head (3)
+#
+{7928}{}{我的头真疼啊！}
+{7929}{}{哦……}
+{7930}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{7931}{}{哦……}
+{7932}{}{你打断了我的胳膊！}
+{7933}{}{我的胳膊！}
+#
+# target hit in right arm
+#
+{7934}{}{哦……}
+{7935}{}{你打断了我的胳膊！}
+{7936}{}{我的胳膊！}
+#
+# target hit in torso
+#
+{7937}{}{喔！没有象你一样的垃圾要把我打到……}
+{7938}{}{喔！我的肋骨！}
+{7939}{}{Ow! I'm gonna fuck you up}
+{7940}{}{哈！刚才我的胸口被打青了！}
+{7941}{}{喔！你们这些垃圾长得很像……}
+{7942}{}{呼！不能……呼吸了……}
+{7943}{}{哎唷！}
+{7944}{}{喔！你这个乳臭未干的小子滚开！}
+{7945}{}{啊，废物……}
+{7946}{}{啊！我想你打断了我的肋骨！}
+#
+# target hit in right leg
+#
+{7947}{}{啊，我的腿}
+{7948}{}{哦……}
+{7949}{}{哦，我的膝盖！}
+#
+# target hit in left leg
+#
+{7950}{}{啊，我的腿}
+{7951}{}{哦……}
+{7952}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{7953}{}{血。眼里全是血……}
+{7954}{}{我的眼睛……}
+{7955}{}{你的子弹不要钱吗！}
+#
+# target hit in groin
+#
+{7956}{}{啊啊啊啊！我的毬！}
+{7957}{}{喔！我不能做我爱做的事了}
+{7958}{}{哦！准备好你的棺材吧}
+{7959}{}{哦！我打赌你一定认为那很有趣}
+{7960}{}{呜！}
+{7961}{}{哦！我不认为我喜欢你}
+
+#
+# 71. Little Kids  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Mommy!
+#
+#
+#  running away
+#
+{8000}{}{我爸爸会杀了你的！等他过来！}
+{8001}{}{妈！！！}
+{8002}{}{救救我吧！}
+{8003}{}{救命！}
+{8004}{}{啊啊啊啊啊！}
+{8005}{}{啊啊啊啊啊！！}
+#
+# moving in to attack
+#
+{8006}{}{嗨，就是你！}
+{8007}{}{我恨你！我恨你！}
+{8008}{}{}
+{8009}{}{你是个难看的变种人！}
+{8010}{}{有人会把你撕成碎片！}
+{8011}{}{我要杀了你！}
+#
+# attacking
+#
+{8012}{}{蝎子头！}
+{8013}{}{我要杀了你！}
+{8014}{}{失败的变种人！}
+{8015}{}{失败的光皮肤男孩！失败的光皮肤男孩！}
+{8016}{}{去死，丑陋的家伙！}
+{8017}{}{你妈是变种地鼠！}
+{8018}{}{爬着走，光皮肤男孩！}
+{8019}{}{我会让你变猪头的！}
+{8020}{}{我恨你！}
+{8021}{}{辐射蝎爱好者！去和辐射蝎睡觉吧！}
+#
+# target being missed
+#
+{8022}{}{你妈是个光皮肤小孩！}
+{8023}{}{你不能抓到我，蝎子头！}
+{8024}{}{你不能打小孩}
+{8025}{}{失败者！}
+{8026}{}{打不到我，蝎子头！}
+{8027}{}{什么事，光皮肤男孩？}
+#
+# target hit in head
+#
+{8028}{}{我的脸！}
+{8029}{}{喔，真疼啊……}
+{8030}{}{啊！我的耳朵！}
+#
+# target hit in left arm
+#
+{8031}{}{啊，我的胳膊}
+{8032}{}{喔，真疼啊……}
+{8033}{}{你打断了我的胳膊！爸爸！}
+#
+# target hit in right arm
+#
+{8034}{}{啊，我的胳膊}
+{8035}{}{喔，真疼啊}
+{8036}{}{你打断了我的胳膊！爸爸！}
+#
+# target hit in torso
+#
+{8037}{}{啊！}
+{8038}{}{呜！妈，这个坏男人打我！}
+{8039}{}{哎呦！真卑鄙！}
+{8040}{}{哦！如果我长大了，我会揍你的！}
+{8041}{}{呜！呜！呜！妈妈！}
+{8042}{}{哦！我的爸爸比你爸爸壮！}
+{8043}{}{呜，我……要……哭了！哇哇哇！}
+{8044}{}{哎唷！}
+{8045}{}{啊！}
+{8046}{}{哦！哦！你真卑鄙！}
+#
+# target hit in right leg
+#
+{8047}{}{啊，我的腿}
+{8048}{}{我的膝盖！}
+{8049}{}{你打断了我的腿！爸爸！}
+#
+# target hit in left leg
+#
+{8050}{}{啊，我的腿}
+{8051}{}{我的膝盖！}
+{8052}{}{你打断了我的腿！爸爸！}
+#
+# target hit in eyes
+#
+{8053}{}{呜呜呜呜！！！}
+{8054}{}{人都到哪去了？}
+{8055}{}{眼前一片黑暗……}
+#
+# target hit in groin
+#
+{8056}{}{啊啊啊啊！我的毬！}
+{8057}{}{哦！你这个肮脏无耻的光皮肤男孩！}
+{8058}{}{呜！}
+{8059}{}{我……不能……呼吸了……}
+{8060}{}{呜……}
+{8061}{}{疼啊，疼啊……}
+
+#
+# 72. Robots  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Target acquired
+#
+#
+#  running away
+#
+{8100}{}{执行撤退程序}
+{8101}{}{战斗分析：撤退}
+{8102}{}{战斗成功率很低，建议撤退}
+{8103}{}{战斗分析完成。建议撤退。}
+{8104}{}{下载逃离程序}
+{8105}{}{执行撤退程序}
+#
+# moving in to attack
+#
+{8106}{}{目标锁定！}
+{8107}{}{毁灭！毁灭！}
+{8108}{}{不能让他活着离开}
+{8109}{}{毁灭入侵者}
+{8110}{}{执行战斗程序}
+{8111}{}{上载战斗程序}
+#
+# attacking
+#
+{8112}{}{执行战斗程序}
+{8113}{}{攻击目标}
+{8114}{}{执行攻击程序}
+{8115}{}{侵入者一定得死！}
+{8116}{}{战斗方式选择完成}
+{8117}{}{开始攻击}
+{8118}{}{目标将会被毁灭}
+{8119}{}{开始敌人摧毁程序}
+{8120}{}{目标将会被毁灭}
+{8121}{}{战斗方式选择完成}
+#
+# target being missed
+#
+{8122}{}{分析中。防御程序成功}
+{8123}{}{分析中。敌人攻击失败}
+{8124}{}{敌人攻击失败。分析受损情况}
+{8125}{}{没有受到任何的损伤}
+{8126}{}{重新分析目标进攻能力}
+{8127}{}{分析中。目标战斗方式选择错误。没有受到任何的损伤}
+#
+# target hit in CPU
+#
+{8128}{}{警告！CPU出现问题！}
+{8129}{}{警告！CPU出现问题！无法运算！}
+{8130}{}{警告！CPU出现问题！启动备用系统！}
+#
+# target hit in left manipulator
+#
+{8131}{}{触手被击中}
+{8132}{}{左触手被击中。开始进行损伤报告}
+{8133}{}{触手被击中。自我修护开始}
+#
+# target hit in right manipulator
+#
+{8134}{}{触手被击中}
+{8135}{}{左触手被击中。开始进行损伤报告}
+{8136}{}{触手被击中。自我修护开始}
+#
+# target hit in frame
+#
+{8137}{}{主体被击中，自我调整启动}
+{8138}{}{主体被击中，开始自我维修}
+{8139}{}{主体遭到攻击}
+{8140}{}{装甲被击穿}
+{8141}{}{主体遭到攻击。自我维修中}
+{8142}{}{这一个机器人正遭受攻击}
+{8143}{}{开始战斗模式}
+{8144}{}{啪！}
+{8145}{}{轻度伤害}
+{8146}{}{啪！}
+#
+# target hit in right motivator
+#
+{8147}{}{移动器被击中}
+{8148}{}{右移动器手被击中。开始进行损伤报告}
+{8149}{}{移动器手被击中。自我修护开始}
+#
+# target hit in left motivator
+#
+{8150}{}{移动器被击中}
+{8151}{}{左移动器手被击中。开始进行损伤报告}
+{8152}{}{移动器手被击中。自我修护开始}
+#
+# target hit in sensors
+#
+{8153}{}{传感器被击中！传感器被击中！}
+{8154}{}{传感器受损！传感器受损！}
+{8155}{}{传感器系统故障，尝试跳过}
+#
+# target hit in regulator
+#
+{8156}{}{稳压器故障！}
+{8157}{}{稳压器被击中！稳压器受损！}
+{8158}{}{稳压器受损！开始进行损伤报告！}
+
+#
+# 73. Marcelles  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Nobody trashes my place and gets away with it!
+#
+#
+#  running away
+#
+{8200}{}{啊啊啊啊！我的胳膊}
+{8201}{}{这个工作不值得我这样卖力！}
+{8202}{}{有些人要全身而退！}
+{8203}{}{到哪里去我的名誉……}
+{8204}{}{哎呀！}
+{8205}{}{我不是好战分子！}
+#
+# moving in to attack
+#
+{8206}{}{没有其他笨蛋了！}
+{8207}{}{你刚刚越过了线！}
+{8208}{}{你不能从这里逃走！}
+{8209}{}{不再我的视野中！}
+{8210}{}{没有人能在我周围那样做！}
+{8211}{}{嗨，就是你！}
+#
+# attacking
+#
+{8212}{}{我就是这样对待找麻烦的人的！}
+{8213}{}{把灯关掉……}
+{8214}{}{这件事教你不要惹麻烦}
+{8215}{}{该你了！}
+{8216}{}{你躺下吧}
+{8217}{}{让我们看看你有多厉害……}
+{8218}{}{垃圾}
+{8219}{}{现在你要说对不起吗？}
+{8220}{}{你想这样逃跑吗？}
+{8221}{}{喔！我必须试着移动……}
+#
+# target being missed
+#
+{8222}{}{你是在警告，还是玩真的！}
+{8223}{}{你不只是个垃圾，还是个无能的垃圾！}
+{8224}{}{男人，你还在吃奶吗！}
+{8225}{}{那就是你最厉害的攻击吗？}
+{8226}{}{你不希望跟着我，不是吗？}
+{8227}{}{你总是打不中，还是这几天不行？}
+#
+# target hit in head
+#
+{8228}{}{你打破了我的鼻子！}
+{8229}{}{我不需要那只耳朵}
+{8230}{}{他妈的！真疼！}
+#
+# target hit in left arm
+#
+{8231}{}{啊，我的胳膊}
+{8232}{}{你可以把我打残废，但我仍然能踢你的屁股}
+{8233}{}{那是一个错误}
+#
+# target hit in right arm
+#
+{8234}{}{啊，我的胳膊}
+{8235}{}{你可以把我打残废，但我仍然能踢你的屁股}
+{8236}{}{那是一个错误}
+#
+# target hit in torso
+#
+{8237}{}{啊！}
+{8238}{}{那是一个错误}
+{8239}{}{哇！}
+{8240}{}{喔！很好，你那样做了！}
+{8241}{}{喔！我现在发怒了}
+{8242}{}{哇！}
+{8243}{}{啊！}
+{8244}{}{哎唷！}
+{8245}{}{喔！我会拿起这只散弹枪并且上膛……}
+{8246}{}{哦！}
+#
+# target hit in right leg
+#
+{8247}{}{只有一条断腿！很好……}
+{8248}{}{你可以把我打残废，但我仍然能踢你的屁股}
+{8249}{}{那是一个错误}
+#
+# target hit in left leg
+#
+{8250}{}{只有一条断腿！很好……}
+{8251}{}{你可以把我打残废，但我仍然能踢你的屁股}
+{8252}{}{那是一个错误}
+#
+# target hit in eyes
+#
+{8253}{}{我看不见了！你开始骚扰我了！}
+{8254}{}{我不用看到就能杀了你！}
+{8255}{}{喔！正中目标……}
+#
+# target hit in groin
+#
+{8256}{}{啊啊啊啊！我的毬！}
+{8257}{}{你打中了我的私处！}
+{8258}{}{我的老二。你这恶棍的最后一处避难所}
+{8259}{}{我是女的，你这笨蛋。}
+{8260}{}{你没弄清你的攻击对象是个女的}
+{8261}{}{呜！}
+
+#
+# 74. Rats  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Squeak!
+#
+#
+#  running away
+#
+{8300}{}{吱吱！}
+#
+# target being missed
+#
+{8301}{}{吱吱！！}
+#
+# target hit in torso
+#
+{8302}{}{吱吱！}
+#
+# target hit in groin
+#
+{8303}{}{吱吱}
+
+#
+# 75. Ian  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# former caravan guard
+#
+#
+#  running away
+#
+{8400}{}{时间足够离开这里！}
+{8401}{}{啊！}
+{8402}{}{撤退！}
+#
+# moving in to attack
+#
+{8403}{}{这会重创你的，我不会客气的。}
+{8404}{}{我要踢你的屁股。}
+{8405}{}{我试图让这件事快点结束。}
+#
+# attacking
+#
+{8406}{}{让我看看你是否喜欢这个。}
+{8407}{}{接招。}
+{8408}{}{我会抓住你的！}
+#
+# target being missed
+#
+{8409}{}{你打偏了！}
+{8410}{}{努力瞄准！}
+#
+# target hit in head
+#
+{8411}{}{该死，真疼啊！}
+{8412}{}{你打破了我的鼻子！}
+#
+# target hit in left arm
+#
+{8413}{}{啊！你打断了我的胳膊！}
+{8414}{}{我的手断了！}
+#
+# target hit in right arm
+#
+{8415}{}{啊！你打断了我的胳膊！}
+{8416}{}{我的手断了！}
+#
+# target hit in torso
+#
+{8417}{}{哇！}
+{8418}{}{啊！}
+{8419}{}{你会付出代价的……}
+{8420}{}{来啊，再来试试！}
+#
+# target hit in right leg
+#
+{8421}{}{啊！你打断了我的腿！}
+{8422}{}{呜！我的膝盖！}
+#
+# target hit in left leg
+#
+{8423}{}{啊！你打断了我的腿！}
+{8424}{}{呜！我的膝盖！}
+#
+# target hit in eyes
+#
+{8425}{}{啊！我看不见了！}
+{8426}{}{你弄瞎了我，你这个卑鄙的家伙！}
+#
+# target hit in groin
+#
+{8427}{}{Oooohhh...}
+
+#
+# 76. Tycho  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Desert Ranger
+#
+#
+#  running away
+#
+{8500}{}{时间足够战术撤退的。}
+#
+# moving in to attack
+#
+{8501}{}{我会尽快解决。}
+{8502}{}{前进。}
+#
+# attacking
+#
+{8503}{}{接招。}
+{8504}{}{多好的一天。}
+{8505}{}{给年轻人点惩罚。}
+#
+# target being missed
+#
+{8506}{}{不干脆的。}
+{8507}{}{很接近，但那不是核武器。}
+#
+# target hit in head
+#
+{8508}{}{喔。正中目标。}
+{8509}{}{啊。}
+{8510}{}{打掉了我的另一只耳朵……}
+{8511}{}{该死，打飞了我的牙齿……}
+#
+# target hit in left arm
+#
+{8512}{}{啊。}
+{8513}{}{不需要那只胳膊。}
+#
+# target hit in right arm
+#
+{8514}{}{哦。}
+{8515}{}{该死，那是我开枪的胳膊。}
+#
+# target hit in torso
+#
+{8516}{}{哦。}
+{8517}{}{该死，肋骨断了。}
+{8518}{}{如果你想杀了我，用脑袋试试。}
+#
+# target hit in right leg
+#
+{8519}{}{你可以让我慢下来，但我仍然会抓住你。}
+{8520}{}{那条腿早就坏了。}
+#
+# target hit in left leg
+#
+{8521}{}{你可以让我慢下来，但我仍然会抓住你。}
+{8522}{}{那条腿早就坏了。}
+#
+# target hit in eyes
+#
+{8523}{}{那是下流战斗。}
+{8524}{}{如果我瞎了，我会在杀你之前折磨你。}
+#
+# target hit in groin
+#
+{8525}{}{啊！蛋掉了！}
+{8526}{}{哦，我的蛋……}
+{8527}{}{现在真疼。}
+
+#
+# 77. Vault-Dwellers  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# We just want to live in peace - and, oh, why did you come back?
+#
+#
+#  running away
+#
+{8600}{}{Why are you doing this?!}
+{8601}{}{Please don't, I'm unarmed!}
+{8602}{}{发生了什么事？}
+{8603}{}{救救我吧！}
+{8604}{}{这是我的紧急出口}
+{8605}{}{我的天那，不！}
+#
+# moving in to attack
+#
+{8606}{}{叛徒！}
+{8607}{}{我不能相信你做了那些！}
+{8608}{}{外面会让人发疯的！}
+{8609}{}{你发疯了！}
+{8610}{}{保护避难所！}
+{8611}{}{我想你是我的朋友！}
+#
+# attacking
+#
+{8612}{}{你永远不要回来了！}
+{8613}{}{想一下，我们以前是朋友的！}
+{8614}{}{我希望你永远都不要去地表}
+{8615}{}{Hello, old friend. Time to die.}
+{8616}{}{我会从痛苦中解救你的}
+{8617}{}{我会把你从我的痛苦中释放出来}
+{8618}{}{这没有给我快乐}
+{8619}{}{你这个有狂犬病的地鼠！}
+{8620}{}{我会处理你的}
+{8621}{}{你只是一个欺凌弱小者和一个小偷}
+#
+# target being missed
+#
+{8622}{}{我能看到你的子弹}
+{8623}{}{你会战胜我们当我们都是小孩的时候}
+{8624}{}{你的瞄准还没有改进}
+{8625}{}{你总是按部就班的进攻，试试移动中开火}
+{8626}{}{你绝不会打败我}
+{8627}{}{为什么他们曾经选择你去地表？}
+#
+# target hit in head
+#
+{8628}{}{哦，我的头真疼！}
+{8629}{}{唔}
+{8630}{}{哦}
+#
+# target hit in left arm
+#
+{8631}{}{我的胳膊！}
+{8632}{}{喔！我听到一些骨头碎裂声……}
+{8633}{}{我的胳膊没有知觉了}
+#
+# target hit in right arm
+#
+{8634}{}{我的胳膊！}
+{8635}{}{喔！我听到一些骨头碎裂声……}
+{8636}{}{我的胳膊没有知觉了}
+#
+# target hit in torso
+#
+{8637}{}{啊！}
+{8638}{}{喔！我们以前是朋友的……}
+{8639}{}{哇！}
+{8640}{}{喔！很好，你那样做了！}
+{8641}{}{喔！我现在发怒了}
+{8642}{}{哇！}
+{8643}{}{啊！}
+{8644}{}{哎唷！}
+{8645}{}{你打起架来像个娘们}
+{8646}{}{哦！}
+#
+# target hit in right leg
+#
+{8647}{}{啊！}
+{8648}{}{我的腿断了}
+{8649}{}{哦，我的膝盖}
+#
+# target hit in left leg
+#
+{8650}{}{嗨，我还需要那条腿！}
+{8651}{}{我的腿断了}
+{8652}{}{哦，我的膝盖}
+#
+# target hit in eyes
+#
+{8653}{}{啊啊啊，呼呼呼}
+{8654}{}{你个小杂种！}
+{8655}{}{我的眼睛！}
+#
+# target hit in groin
+#
+{8656}{}{你总是喜欢打下面……}
+{8657}{}{你没有改变，不是吗？}
+{8658}{}{我感觉很好……}
+{8659}{}{啊，我的毬！}
+{8660}{}{你一直是避难所中最下流的战士}
+{8661}{}{你这个肮脏的地鼠！}
+
+#
+# 78. Garl during Honor Fight  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# I'm fighting you over Tandi.  I shall triumph, unless you win!
+#
+#
+#  running away
+#
+{8700}{}{很好，你可以得到她！}
+{8701}{}{这个母狗是你的！}
+{8702}{}{坦蒂是你的了。离我远点！}
+{8703}{}{很好，你可以得到她！}
+{8704}{}{坦蒂是你的了。离我远点！}
+{8705}{}{这个母狗是你的！}
+#
+# moving in to attack
+#
+{8706}{}{为了荣誉而战！}
+{8707}{}{Let the fight of honor begin!}
+{8708}{}{Let the fight of honor begin!}
+{8709}{}{Let the fight of honor begin!}
+{8710}{}{Let the fight of honor begin!}
+{8711}{}{Let the fight of honor begin!}
+#
+# attacking (10)
+#
+{8712}{}{You are mine to kill!}
+{8713}{}{Blood! Blood! Blood!}
+{8714}{}{我是至高无上的！}
+{8715}{}{啊啊啊啊啊！！}
+{8716}{}{Khans are invincible!}
+{8717}{}{No retreat! No surrender!}
+{8718}{}{我要杀了你！}
+{8719}{}{I am supreme!}
+{8720}{}{Blood and darkness!}
+{8721}{}{Khans are the strong!}
+#
+# target being missed (6)
+#
+{8722}{}{Ahahaha, try again!}
+{8723}{}{I cannot be touched!}
+{8724}{}{I am indestructible!}
+{8725}{}{我的荣誉感比你强！}
+{8726}{}{My honor is stronger than yours!}
+{8727}{}{你不配和我战斗！}
+#
+# target hit in head (3)
+#
+{8728}{}{好招数！}
+{8729}{}{That was your last attack!}
+{8730}{}{A pitiful attempt!}
+#
+# target hit in left arm
+#
+{8731}{}{I can still beat you with one arm!}
+{8732}{}{你打断了我的胳膊！现在开始战斗！}
+{8733}{}{You broke my arm! Now the fight is fair!}
+#
+# target hit in right arm
+#
+{8734}{}{I can still beat you with one arm!}
+{8735}{}{你打断了我的胳膊！现在开始战斗！}
+{8736}{}{You broke my arm! Now the fight is fair!}
+#
+# target hit in torso
+#
+{8737}{}{Your death will be legendary for that!}
+{8738}{}{I will feast on your eyes for that!}
+{8739}{}{I am indestructible!}
+{8740}{}{哇！}
+{8741}{}{My honor is stronger than yours!}
+{8742}{}{RAAAAAAARRRR!!}
+{8743}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{8744}{}{My ribs hurt. Soon I will remove yours! It's only fair}
+{8745}{}{I am indestructible!}
+{8746}{}{啊！真疼！}
+
+#
+# target hit in right leg
+#
+{8747}{}{I do not need to stand to kill you!}
+{8748}{}{打得真轻！}
+{8749}{}{My leg! I will remove yours with my fists!}
+#
+# target hit in left leg
+#
+{8750}{}{I do not need to stand to kill you!}
+{8751}{}{打得真轻！}
+{8752}{}{My leg! I will remove yours with my fists!}
+#
+# target hit in eyes
+#
+{8753}{}{My eye! You will die slowly for that!}
+{8754}{}{My eyes! I will trade my vision for your death!}
+{8755}{}{那真是不光彩！}
+#
+# target hit in groin
+#
+{8756}{}{Ooo! I will mutilate you...}
+{8757}{}{Ooo! I will mutilate you...}
+{8758}{}{Ooo! You... will... suffer...}
+{8759}{}{Ooo! You... will... suffer...}
+{8760}{}{You will not steal my manhood!}
+{8761}{}{你不能拿走我的命根子！}
+
+#
+# 79. Cow  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Bovine Brahmas! Moo, I say!
+#
+#
+#  running away
+#
+{8762}{}{}
+{8763}{}{}
+{8764}{}{}
+#
+# moving in to attack
+#
+{8765}{}{}
+{8766}{}{}
+{8767}{}{}
+#
+# attacking
+#
+{8768}{}{}
+{8769}{}{}
+{8770}{}{}
+#
+# target being missed
+#
+{8771}{}{}
+{8772}{}{}
+{8773}{}{}
+#
+# target hit in head
+#
+{8774}{}{[snort]}
+{8775}{}{}
+{8776}{}{[grunt]}
+#
+# target hit in left arm
+#
+{8777}{}{[snort]}
+{8778}{}{}
+{8779}{}{[grunt]}
+#
+# target hit in right arm
+#
+{8780}{}{[snort]}
+{8781}{}{}
+{8782}{}{[grunt]}
+#
+# target hit in torso
+#
+{8783}{}{[snort]}
+{8784}{}{}
+{8785}{}{[grunt]}
+#
+# target hit in right leg
+#
+{8786}{}{[snort]}
+{8787}{}{}
+{8788}{}{[grunt]}
+#
+# target hit in left leg
+#
+{8789}{}{[snort]}
+{8790}{}{}
+{8791}{}{[grunt]}
+#
+# target hit in eyes
+#
+{8792}{}{[snort]}
+{8793}{}{}
+{8794}{}{[grunt]}
+#
+# target hit in groin
+#
+{8795}{}{[snort]}
+{8796}{}{}
+{8797}{}{[grunt]}
+

@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{你正通过一个全是悬崖峭壁的区域。}
+
+{105}{}{辐射蝎！}
+
+{121}{}{你发现不远处有个旅行者。}
+
+{106}{}{一只狡猾的辐射蝎似乎要偷袭你。}
+{107}{}{一只突然冒出来的辐射蝎攻击了你。}
+
+{108}{}{你遇到一个变种地鼠家族。}
+
+{100}{}{你差点被一块山崩中落下的巨石砸中。}
+{102}{}{移位的岩石上贴着一具旅行者的残骸……已经成肉干了吧。不知道好吃不？}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{你与一群凶猛的辐射蝎遭遇了。}
+
+{120}{}{你发现几只老鼠在四处寻觅食物。}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{前方地面上全是废弃物和尸体残骸。看来这曾是战场。}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{你看到一只辐射蝎，飞掠而过。}
+
+{135}{}{你发现一堆某个旅行者的白骨。}
+
+{129}{}{有些巨大的变种地鼠在这里四处嗅闻。}
+
+{130}{}{你发现几只老鼠在寻觅食物。}
+
+#fall or slip
+
+{134}{}{你看到一些老鼠在跑。}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{还好，你的攀爬技巧能够应付。}
+{117}{}{你从一处岩壁上摔下来，落在锋利的石碓上。}
+{118}{}{你从峭壁跌落到下面的石面上。}
+{109}{}{You are overtaken by a landslide.}
+{123}{}{You lose your footing on the rocky terrain.}
+{132}{}{You slip on the uneven terrain and twist an ankle, painfully. It makes several unhealthy sounds.}
+{133}{}{你摔倒在崎岖的地面上，擦掉了一些肉……}
+#
+# No Damage
+#
+{101}{}{你安然逃脱了。}
+{110}{}{Amazingly, you escape with no damage.}
+{124}{}{You skillfully escape with no damage.}
+{131}{}{Exhausted, you nearly fall over some rough terrain. They could really use a GECK out here!}
+#
+# Small Damage
+#
+{104}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+{113}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+{127}{}{一些岩石碎片削过了你的脸和手，但你逃脱了，没受太重的伤。}
+#
+# Big Damage
+#
+{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
+{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+#
+# Damage Numbers
+#
+{138}{}{You sustain }
+{139}{}{ points of damage and a crippled left leg.}
+{140}{}{ points of damage and a crippled right leg.}
+{141}{}{ points of damage.}
+{144}{}{ points of damage and a crippled left arm.}
+{145}{}{ points of damage and a crippled right arm.}
+{146}{}{ points of damage and two crippled limbs.}
+#
+# Cripples
+#
+{103}{}{你的腿被落石砸伤了，很严重。}
+{112}{}{你的腿被一块落石重创。}
+{126}{}{你的腿被落石重创。}
+#
+# Critical Success
+#
+{116}{}{你找到一个有小股泉水涌出的山洞，终于能好好睡一觉了。叫它水濂洞如何？}
+{125}{}{你安然逃脱了。移位的岩石下有金子沉积。}
+{111}{}{The displaced rock reveals a gold deposit!}
+{142}{}{You refill your empty flask in the spring.}
+{143}{}{You refill your empty flasks in the spring.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{你遇到一大群辐射蝎。}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

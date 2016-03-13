@@ -1,0 +1,73 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{你看见一个强壮的赏金猎人，佩戴着一个写着“我为刀俎，你为鱼肉”的圆形徽章。}
+# Bounty Hunter is considered Male term
+
+{101}{}{你想干嘛？}
+{102}{}{A doughnut.}
+{103}{}{你在这儿干嘛？}
+{104}{}{随便看看。}
+{105}{}{没什么。}
+{106}{}{我们不欢迎放肆的家伙。滚蛋。}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+{107}{}{这笑话从来都不好笑。你很快就会知道为什么人们叫我废土上最可怕的赏金猎手。算是便宜你，这是免费消息，你不用多付钱！}
+{108}{}{少管闲事。}
+{109}{}{嗯，别在这儿闲逛。}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{Did you know that there's a bounty of }
+{200}{}{ caps on your head for killing children? Time to collect!}
+# Children is considered male plural
+
+{111}{}{(He looks you over, carefully, considering something. It seems he's made a decision already.) Tell me, how often do you visit the Hub or Junktown?}
+{112}{}{Often enough, why do you ask?}
+{113}{}{Well, you see... business takes almost all of my time and I don't have an opportunity to get there. And as an incurable smoker I miss an old Zippo lighter very much. It's said, many of those pre-War items can be found in the shops there. If you get a Zippo for me, I'll share some information about the neighboring settlements. I think it could be of use!}
+{114}{}{It's a pity. Looks like I made a mistake about you. Get out of here.}
+{115}{}{Sure, why not? I'll get one for you.}
+{116}{}{Okay.}
+{117}{}{Hey, I have one right here. I don't really need it and can give it to you in exchange for the information.}
+{118}{}{Thank you! (He takes the lighter.) So, what do you want to hear, exactly?}
+{119}{}{Here is your lighter. Time to give me some information.}
+{120}{}{No more questions, thanks.}
+{121}{}{[More]}
+{122}{}{What else do you want to know?}
+{123}{}{I need some information.}
+{124}{}{Buuhhh.. Wuh?}
+{125}{}{Are you serious? Get out of my sight.}
+{126}{}{I'm going to do the world a favor by putting a bullet through your skull.}
+#
+# Tell-Me-Abouts
+#
+# These don't seem to work for him, so I've removed them.  -Sduibek
+#
+#  1000    Adytum
+#  1001    Followers
+#  1002    Cathedral
+#  1003    Rippers
+#  1004    Blades
+#  1005    Runners
+#  1006    Hub
+#  1007    Boneyard
+#  1008    The Boneyard
+#  1009    L.A. Boneyard
+#  1010    Junktown
+#  1011    Nicole
+#  1012    Runners
+#  1013    Gun Runners
+#
+#  1110    A small town to the south. Occasionally some of them visit us here.
+#  1111    Those are the peace-loving freaks who live near us.
+#  1112    A strange cult south of Adytum and in the Boneyard. Nicole says that they are up to something.
+#  1113    An ultra-violent gang to our west. It was, at least... I don't really know what happened but their base is swarming with Deathclaws now.
+#  1114    A gang to the east. They use vibro-knives.
+#  1115    A gang that came from the Hub, and sells guns. They are north of here.
+#  1116    The Hub is a large city of traders and businesses to the east.
+#  1117    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1118    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1119    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1120    Junktown is a small city just north of the Hub.
+#  1121    She's the leader of the Followers.
+#  1122    A gang that came from the Hub. They sell guns. They are east of here.
+#  1123    A gang that came from the Hub. They sell guns. They are east of here.

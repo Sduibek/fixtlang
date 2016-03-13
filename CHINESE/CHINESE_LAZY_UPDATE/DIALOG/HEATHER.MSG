@@ -1,0 +1,159 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+
+{100}{}{你看见末世论者的哨兵希瑟。}
+{101}{}{你在干什么？}
+{102}{}{见鬼！}
+# moronic line for This
+
+{103}{}{再见。}
+# moronic line for "Goodbye".
+
+{104}{}{随便看看。}
+{105}{}{我来取你性命。}
+{106}{}{只是好奇这里怎么了？}
+{107}{}{真的？你想找什么？}
+{108}{}{我想我找到她了。}
+{109}{}{我在找一个奸细。}
+{110}{}{真的没什么。只是随便逛逛。}
+{111}{}{只是想打听些消息。}
+{112}{}{多谢，但是我已经与人有约了，你还是走吧。}
+# "I am already spoken for" == "i am already dating someone else"
+
+{113}{}{没错，奸细。我听说过那些讨厌的家伙。希望我们能抓住他。}
+# Spy is considered male
+
+{114}{}{我一直听说那个奸细是女的。}
+# Spy is considered female
+
+{115}{}{你有曾听说过这个奸细吗？}
+# spy is considered male
+
+{116}{}{你就是那个奸细！}
+# spy is considered female
+
+{117}{}{祝你好运。抱歉打扰你了。}
+{118}{}{我敢打赌是那个爱吹牛的尼尔胡扯了这么多。我得空得和他谈谈。}
+# Neil is male
+
+{119}{}{你认为尼尔是奸细？}
+# spy is male. Neil is male.
+
+{120}{}{那你认为谁会是奸细？}
+# spy is male
+
+{121}{}{听起来你有所隐瞒。为什么？}
+{122}{}{这一点我基本上能确定了。只是需要多一点证据。}
+{123}{}{我会给你证据的。}
+{124}{}{他看起来是个不错的人。我不太清楚。}
+{125}{}{为什么你认为是他？}
+{126}{}{多谢，你不清楚这对我意味着什么。一旦你找到证据，就杀了他。}
+{127}{}{再明显不过了。他能进入大教堂。夜里别人进入梦乡的时候，他出来活动。肯定就是他。}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in their way or acts against their wishes. They are really bad people.
+# consider Male.
+
+{128}{}{好的，我会好好查查的。}
+{129}{}{算了。我看你只是逗我玩儿！}
+{130}{}{你那么想真让我遗憾。我可不能让人认为我是奸细。我得杀了你。}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+
+{131}{}{他在晚上进入大教堂。没人看到他在值班。肯定是他。}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{132}{}{好的，我会好好查查的。}
+{133}{}{算了。我看你只是逗我玩儿！}
+{134}{}{我不太肯定那是谁。我想可能是卫兵或者学者。他们老是在夜里溜进大教堂。}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{135}{}{你还能想到些什么？}
+# == is there any other information that you can think of?
+
+{136}{}{可我以前听说只有哨兵袭击大教堂教徒。}
+# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{137}{}{好的。多谢你的帮助。}
+{138}{}{不太肯定。我只觉得是个男的，可能是个学者或者卫兵。}
+# is is refering to a male spy. Scholar and guard are male.
+
+{139}{}{Ok。多谢你的帮助。}
+{140}{}{没错。我们哨兵多次袭击了大教堂，最终损失了很多人。这个奸细把我们害惨了。}
+# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{141}{}{看起来你被他气疯了。我会找到这个奸细杀了他的。}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+
+{142}{}{奸细有没有可能是个哨兵？}
+# spy and scout == male
+
+{143}{}{谢谢你帮忙。}
+{144}{}{我们的人为什么会那么干？}
+#us referres to the scouts
+
+{145}{}{如果你杀了所有哨兵，就再没有袭击了。}
+{146}{}{我不知道。你为什么那么做？}
+{147}{}{不知道。只是好奇。}
+{148}{}{听起来主意不错。我发现彼得从来都是在袭击中安然无恙。我想可能他是。}
+# Peter is male. She thinks that Peter may be the male spy.
+
+{149}{}{好的，我会好好查查的。}
+{150}{}{算了。我看你只是逗我玩儿！}
+{151}{}{你觉得我是？}
+# it referring to the female spy.
+
+{152}{}{抱歉，我有点儿紧张。}
+# under a bit of stress.
+
+{153}{}{对！你去死吧！}
+{154}{}{那到其他地方转悠吧。我还有活儿干。}
+# then think about it somewhere else
+
+{155}{}{我看他认为我是奸细。可我不是。}
+# spy is female
+
+{156}{}{他可能是对的。}
+{157}{}{为什么他会那么认为？}
+{158}{}{因为我是新来的哨兵。我刚来没一年，五个月前事情开始发生了。}
+# scout is female
+
+{159}{}{我看尼尔可能没错。}
+# Neil is male. right == correct.
+
+{160}{}{我看尼尔可能是奸细。我会查查的。}
+# spy is male.
+
+{161}{}{那就到别的地儿去。别在这儿杵着。}
+{162}{}{如果你想打听点儿什么的话去找尼可儿。她自认通天晓。}
+# Nicole is female. said in a snotty manner.
+
+{163}{}{如果你肯付钱的话，我倒是乐意告诉你些事情。}
+{164}{}{开个价？}
+{165}{}{你出售秘密？}
+{166}{}{算了。我没钱。}
+{167}{}{300块。}
+{168}{}{当然。}
+{169}{}{没门儿。}
+{170}{}{大教堂的据点的最南边会有一场袭击。现在快去。}
+{171}{}{想耍我？给你点颜色看看！}
+{172}{}{很遗憾你那么想。不过还是祝你愉快。}
+{173}{}{不管怎样，我得过去。那么，还想打听些什么？}
+# do you want me to give you the information?
+
+{174}{}{当然。}
+{175}{}{没门儿。}
+{176}{}{没事儿。这就走。}
+{177}{}{对不起。我得休息了。}

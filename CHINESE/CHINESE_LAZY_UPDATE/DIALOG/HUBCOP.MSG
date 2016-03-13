@@ -1,0 +1,65 @@
+# These are the police of the Hub (a large metropolis). They are either gender, but using
+# Male is the best approach. They are simpltons who have a badge only because no one else
+# would take the badge. Speech has an absent-mindedness about it.
+
+{100}{}{你看见一个警官。}
+# Police Officer is male
+
+{101}{}{你好！你要注意安全……呃，不对【这个警官向其他警官使了个奇怪的眼色，用脑袋指了指你。】}
+{102}{}{你好陌生人？不对！我认出你了！你因盗窃被通缉！别动！}
+# Stranger is the player. Consider Male.
+
+{103}{}{好吧我投降！}
+{104}{}{去死吧！}
+# "Eat lead" is equivalant to "I'm going to kill you."  Bullets contain lead :)
+
+{105}{}{Kor rok!}
+# "Kor Rok" is just garbled sounds a moronic player is saying.
+
+{106}{}{(Put your hands in the air and give up.)}
+{107}{}{要当心，这可不是个安全的地方。}
+
+# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
+{108}{}{当心你的钱，}
+# scripts are money
+
+{109}{}{老兄。}
+{110}{}{女士。}
+{111}{}{你不该到这儿来，这儿不安全。}
+{112}{}{旧城区是个非常堕落的地方。}
+# Old Town is another section of town. This is were the poor and down-trodden live.
+
+{113}{}{这个地方味道很难闻。}
+{114}{}{我们应该把这里都他妈的拆掉。}
+{115}{}{我知道那该死的贼窝就在这附近。}
+# the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
+
+{116}{}{可怜的哈罗德，他这辈子很惨。}
+# Harold is Male
+
+{117}{}{放规据点儿。}
+# == Don't do anything illegal.
+
+{118}{}{嘿，我认识你。别再打了好吗？}
+{119}{}{你最好别老想着惹事儿！}
+{120}{}{再让我们抓到你斗殴，就把你关进去！}
+# "You're going in" equals "You are going to jail"
+
+{121}{}{听说了吗？远行商队已经被赶走了。}
+# Far Go Traders is a merchant's guild
+
+{122}{}{纯水商队成为历史了，苍天有眼。}
+# Water Merchants is a merchant's guild
+
+{123}{}{有人灭了深红商队。}
+# Crimson Caravans is a merchant's guild
+
+{124}{}{听说了吗？贼窝终于完蛋了。}
+# Underground is a rough organization for assassins. Akin to the Mafia
+
+{125}{}{德克死了！}
+# Decker is Male
+
+{126}{}{德克一死，这个地方算是安全了。}
+# == "This town would be safer with Decker dead."
+
