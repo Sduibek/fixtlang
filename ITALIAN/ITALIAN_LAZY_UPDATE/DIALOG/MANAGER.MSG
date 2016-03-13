@@ -1,0 +1,30 @@
+{100}{}{You see an angry ghoul.}
+# the examine & look msgs are 200 & 201
+{101}{}{Que estai fazendo?}
+{102}{}{Sto cercando i resti del futuro passato.}
+{103}{}{Sono un esploratore.}
+{104}{}{Che ti frega, faccia da verme?}
+{105}{}{Dug-duh.}
+{106}{}{Que?}
+{107}{}{Niente.}
+{108}{}{Sono alla ricerca della tecnologia perduta.}
+{109}{}{Non esbagliavo, alora. Fuera de aqui.}
+{110}{}{Oh, aqui non ne troveras. Magari nel templo de sovra, o all'aguadotto. Smamma.}
+{111}{}{Ack! Cavate de la cabeza de esplorar la mi roba. Fuera! Soy serio.}
+{112}{}{Non hablarme in esto modo! Yo soy el boss de lo show.}
+{113}{}{Oh, davvero?}
+{114}{}{Te priendaro' quel tu bruto muso e te lo casaro' in tu...}
+{115}{}{Ack! OK, cedo alla violenza. Me ne vado.}
+{116}{}{Non sei grosso abbastanza per farlo. Prova a prendere questo!}
+{117}{}{No voy hablar co ti.}
+{118}{}{Che cosa sei?}
+{119}{}{I'm a ghoul. You never seen a ghoul before?}
+{120}{}{Si'.}
+{121}{}{No.}
+{122}{}{Qualcuno me debe haber jocato uno stupido tiro. Te hanno lasciato vivir cosi' que tu potessi romperme le balotas. Ahora fuera dalla mi casa!}
+{123}{}{Beh, ahora tu l'has visto. Fuera, cabron!}
+#
+# by Sduibek for Fallout Fixt:
+#
+{200}{}{He appears to be the owner of this establishment. The phrase "under new management" comes to mind.}
+{201}{}{You see: Hotel Manager.}

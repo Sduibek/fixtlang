@@ -1,0 +1,101 @@
+{100}{}{Vedi Theresa.}
+{101}{}{Ciao, }
+{102}{}{. Come va il tuo viaggio?}
+{103}{}{Piuttosto bene, grazie.}
+{104}{}{Non molto bene.}
+{105}{}{Hoogh!}
+{106}{}{Mi fa piacere. Sapevo che il mondo esterno non poteva essere cosi' duro come tutti dicono. Voglio dire, i nostri antenati vivevano all'esterno, no? Ma quel paranoico del Supervisore non ci permette di uscire.}
+{107}{}{Il Supervisore avra' le sue ragioni...}
+{108}{}{Guarda che la' fuori non e' il paradiso.}
+{109}{}{Hai ragione; il mondo esterno non e' poi cosi' male.}
+{110}{}{Il Supervisore sta solo cercando di proteggerci. Il mondo esterno e' molto pericoloso per chi non e' pronto ad affrontarlo.}
+{111}{}{Oh, mi dispiace. Spero che tu riesca a trovare presto il chip.}
+{112}{}{Non dovrebbe essere un problema.}
+{113}{}{Con tutti i pericoli che ho dovuto affrontare, potrebbe volerci un po' di tempo.}
+{114}{}{Hmm. Credo sia stato assurdo sperare che il mondo esterno ti insegnasse a comunicare. Pazienza.}
+{115}{}{Allora suppongo che ti abbia scelto perche' sei il suo burattino! E' chiaro: il Supervisore non ha alcuna intenzione di rinunciare al suo controllo su di noi.}
+{116}{}{Bada a come parli!}
+{117}{}{Invece io credo che il Supervisore non voglia farvi affrontare rischi inutili, dal momento che qui dentro siete perfettamente al sicuro.}
+{118}{}{Hmm. Da quel che ho letto, l'esterno non mi sembra poi cosi' pericoloso. Ma tu lo saprai meglio di me, no?}
+{119}{}{Sapevo che il mondo esterno non poteva essere cosi' male. E' per questo che cerco di convincere un po' di gente ad abbandonare il Vault. Credo che le speranze di sopravvivenza siano maggiori, all'esterno.}
+{120}{}{Ma cosa ti sei fumata!?}
+{121}{}{Direi che e' un'ottima idea.}
+{122}{}{Forse hai ragione. Ho sempre pensato che avesse una certa fissa per il potere. Ma probabilmente non sarebbe diventato Supervisore se non avesse a cuore la nostra sicurezza, no? Sara' meglio aspettare che tu ritrovi il chip.}
+{123}{}{Non temere, me ne occupo io.}
+{124}{}{Oh, dai! Datti una svegliata! Se davvero pensasse che il mondo esterno fosse pericoloso, allora perche' avrebbe mandato te? Quell'uomo ha la mania del comando. Tu sei solo uno stupido burattino e nemmeno te ne accorgi!}
+{125}{}{Veramente, se pensasse che l'esterno fosse cosi' pericoloso, avrebbe inviato un'intera squadra armata, non certo te. Ma tu sei la sua pedina... forse spera che nessuno di noi si accorga di quel che perdiamo rimanendo qui.}
+{126}{}{Oh, sii serio! Credi davvero che potremo continuare a vivere in questo Vault, generazione dopo generazione? Forse riuscirai a trovare un chip di ricambio, ma cosa accadra' quando si rompera' qualcos'altro? E un'altra cosa ancora?}
+{127}{}{Mhh. Forse hai ragione.}
+{128}{}{Forse non potremo rimanere qui per sempre. Ma affrontare il mondo esterno senza preparazione e senza il consenso di tutti non e' una buona idea.}
+{129}{}{Molti di noi la pensano come me. E' per questo che abbiamo deciso di mettere insieme un po' di provviste e di abbandonare il Vault tra qualche giorno. Hai qualche consiglio da darci?}
+{130}{}{Mi dispiace, ma non ho trovato molto, la' fuori.}
+{131}{}{Potreste raggiungere il villaggio di Shady Sands, che e' a pochi giorni di cammino verso est. Loro potrebbero aiutarvi.}
+{132}{}{Okay. Beh, grazie.}
+{133}{}{Oh, sparisci! Non abbiamo bisogno dell'aiuto di uno dei burattini del Supervisore!}
+{134}{}{Benvenuto alla nostra riunione! Dato che sei stato scelto dal Supervisore per uscire dal Vault, forse potrai darci qualche consiglio prima che anche noi si raggiunga il mondo esterno.}
+{135}{}{Non bevete l'acqua fosforescente.}
+{136}{}{Ho un solo consiglio... non andate.}
+{137}{}{Penso che il vostro progetto sia una follia.}
+{138}{}{Hoooot!}
+{139}{}{Grazie mille. Vedo che ci sarai di grande aiuto. Perche' adesso non te ne vai?}
+{140}{}{Mi dispiace, ma devo rimanere qui.}
+{141}{}{Benissimo.}
+{142}{}{Davvero? Considerata la nostra situazione, la mancanza d'acqua e lo scopo originale di questo Vault, perche' pensi che dovremmo rimanere qui?}
+{143}{}{La vostra e' una cattiva idea, tutto qui.}
+{144}{}{Il mondo esterno e' troppo pericoloso per chi non e' preparato. Prima di andare sarebbe meglio avere il tempo per completare i preparativi. Il Supervisore sta cercando di darci il tempo che ci serve.}
+{145}{}{Beh, dal momento che un po' d'esperienza nel mondo esterno te la sei fatta, forse potrai fornirci qualche motivo valido.}
+{146}{}{L'esterno e' troppo pericoloso e ostile. Non sopravvivereste a lungo.}
+{147}{}{Tra non molto trovero' il water chip.}
+{148}{}{Se non puoi darci una buona ragione per cui non dovremmo andarcene, allora non rimarremo qui ad aspettare di morire di sete. Sei pregato di non ostacolarci.}
+{149}{}{Mi dispiace, ragazzi, ma non posso permettervelo.}
+{150}{}{D'accordo. E' una vostra scelta.}
+{151}{}{E' solo questione di tempo; poi rimarremo senz'acqua. Il Vault non e' stato progettato per ospitare delle persone in eterno! Adesso abbiamo le persone e le provviste necessarie per andarcene. Nel mondo esterno avremo piu' chance di sopravvivere.}
+{152}{}{Il mondo esterno e' troppo pericoloso.}
+{153}{}{E' anche vero, pero', che dal Vault bisognerebbe uscire tutti insieme, non a piccoli gruppi che sarebbero presto spazzati via dai pericoli del mondo esterno.}
+{154}{}{Hmm. Forse hai ragione. La' fuori ci saranno altri sopravvissuti e non tutti amichevoli, probabilmente. Penso sia meglio aspettare che tutti siano pronti ad andare.}
+{155}{}{Ma noi siamo pronti! Abbiamo le provviste e ci siamo addestrati con i simulatori. I pochi pericoli del mondo esterno sono nulla rispetto a morire lentamente di sete!}
+{156}{}{Mi dispiace, ma non posso permettervi di andare.}
+{157}{}{Beh, in bocca al lupo, allora.}
+{158}{}{La cosa non mi piace, ma aspetteremo che tutti siano pronti.}
+{159}{}{E' la soluzione migliore. Fidatevi di me, so di cosa parlo.}
+{160}{}{Grazie a tutti per essere venuti.}
+{161}{}{Il nostro progetto procede spedito.}
+{162}{}{Di giorno in giorno altre persone si uniscono a noi.}
+{163}{}{Presto avremo tutto l'equipaggiamento che ci serve.}
+{164}{}{Il water chip non e' stato ancora trovato. Dobbiamo sbrigarci.}
+{165}{}{Il Supervisore non potra' opporsi ad un gruppo cosi' numeroso.}
+{166}{}{Siate pazienti. Dovremo attendere poche settimane ancora.}
+{167}{}{Poi... finalmente saremo liberi da questo Vault e dal Supervisore.}
+{168}{}{Non dimenticate di addestrarvi con i simulatori!}
+{169}{}{Statemi bene, tutti quanti.}
+{170}{}{Ti prego, sbrigati a trovare il water chip. Non resisteremo ancora a lungo.}
+{171}{}{Non temere, lo faro'.}
+{172}{}{Non pensavo che ci saresti riuscito, ma hai fatto un buon lavoro. Grazie per averci salvati tutti.}
+{173}{}{Guadagni 750 punti esperienza per aver convinto pacificamente la fazione rivoluzionaria del Vault.}
+{174}{}{Ci hai traditi! Perche' sei tornato qui? Adesso moriremo!}
+{175}{}{Ne abbiamo gia' discusso. Lasciaci in pace.}
+#
+# Fallout Fixt:
+#
+{176}{}{If you're interested, we hold meetings at 5:00 p.m.}
+{177}{}{You earn 250 experience for violently disbanding the Vault's revolutionary faction.}
+
+
+# Theresa's Tell-Me-Abouts
+
+{1000}{}{Chip}
+{1001}{}{Vault}
+{1002}{}{Guerra}
+{1003}{}{Esterno}
+{1004}{}{Supervisore}
+{1005}{}{Water}
+{1006}{}{Water Chip}
+
+
+{1100}{}{Senza di quello non avremo acqua potabile. Questo e' un chiaro esempio del fatto che dovremmo metter fine alla nostra dipendenza da questi macchinari e diventare autosufficienti.}
+{1101}{}{Il Vault e' stato la nostra casa per molto tempo, ma e' giunto il tempo di tornare nel mondo esterno.}
+{1102}{}{Credo che abbiamo imparato la lezione. E' giunto il momento di fondare un nuovo mondo e di non pensare piu' al vecchio.}
+{1103}{}{Il mondo esterno e' dove dovremmo stare! E' il luogo dove si deve svolgere la nostra grande sfida: rifondare la civilta' e vivere basandoci sulle nostre abilita' e capacita'!}
+{1104}{}{E' legato al passato. Non vuole accettare che sia giunto il momento per noi di costruirci il nostro futuro.}
+{1105}{}{Senza di quello non avremo acqua potabile. Questo e' un chiaro esempio del fatto che dovremmo metter fine alla nostra dipendenza da questi macchinari e diventare autosufficienti.}
+{1106}{}{Senza di quello non avremo acqua potabile. Questo e' un chiaro esempio del fatto che dovremmo metter fine alla nostra dipendenza da questi macchinari e diventare autosufficienti.}

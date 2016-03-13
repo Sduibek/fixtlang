@@ -1,0 +1,56 @@
+{100}{}{Vedi Sammael, uno degli Scav di Adytum.}
+{101}{}{Vedi un uomo lurido che indossa dei vestiti di colore blu scuro.}
+{102}{}{Ehi, non credo di averti mai visto prima. Tu sei...?}
+{103}{}{Sono }
+{104}{}{.}
+{105}{}{Chi e' che me lo domanda?}
+{106}{}{Eruh?}
+{107}{}{Piacere mio. Mi chiamo Sammael.}
+{108}{}{Di cosa ti occupi?}
+{109}{}{E' stato un piacere parlare con te.}
+{110}{}{Nessuno di speciale. Lasciamo perdere.}
+{111}{}{Sono uno Scav -- uno "scavenger". Letteralmente significa che sono una persona che cerca qualcosa tra i rifiuti, ma noi Scav preferiamo usare il termine inglese: ci sembra piu' dignitoso. Il nostro lavoro, poi, non e' certo meschino: abbiamo il compito di setacciare il Boneyard in cerca di oggetti utili e di informazioni. E' un lavoro pericoloso.}
+{112}{}{Perche' e' pericoloso?}
+{113}{}{Come fate ad evitare i deathclaw?}
+{114}{}{Hai mai esplorato qualche altra zona?}
+{115}{}{Grazie, ci vediamo.}
+{116}{}{Ci si vede. Sempre che tu riesca a vedere me. Heh.}
+{117}{}{Beh, qui intorno ci sono i deathclaw, e Adytum e' infestata dai Regolatori. Di entrambi si puo' dire tutto, tranne che siano compassionevoli.}
+{118}{}{Come fate ad evitare i deathclaw?}
+{119}{}{Hai mai esplorato qualche altra zona?}
+{120}{}{Grazie, ci vediamo.}
+{121}{}{Lavoriamo solo di notte e il nostro lavoro lo conosciamo bene. Devo tuttavia ammettere che non sempre tutti fanno ritorno. La settimana scorsa ho mandato un ragazzo in cerca di alcuni pezzi di ricambio per Miles, ma e' da allora che non ho piu' sue notizie. Nel suo ultimo messaggio diceva che aveva trovato i pezzi e che stava tornando.}
+{122}{}{Ho fatto qualche esplorazione qua e la'. Di chi vuoi che ti parli?}
+{123}{}{Dei Blade.}
+{124}{}{Dei Deathclaw.}
+{125}{}{Dei Gun Runner.}
+{126}{}{Dei Discepoli dell'Apocalisse.}
+{127}{}{Dei Figli della Cattedrale.}
+{128}{}{Di nessuno, grazie.}
+{129}{}{I Blade sono un gruppo di sfigati. Riescono a tirare avanti, comunque. Alcuni di loro finiscono qui ad Adytum, se accettano di fare cio' che i Regolatori offrono loro.}
+{130}{}{Non ne hai mai visto uno? Sono cattivi come diavoli dell'inferno e la cosa che piu' amano e' strappare il cuore dal petto di noi poveri Scav.}
+{131}{}{Mi hanno detto che da qualche parte ad est del territorio dei Blade c'e' un nido di quei demoni, ma non posso dire di averlo visto personalmente.}
+{132}{}{Non molto tempo fa, i Gun Runner si sono trasferiti in una grande fabbrica a nordest di qui. Non ho molto da raccontare, dal momento che hanno scavato un fossato e l'hanno riempito di scorie radioattive. Inoltre, per arrivare alla loro base, bisogna attraversare il territorio dei deathclaw.}
+{133}{}{I Discepoli predicano la pace e la tolleranza. Bell'idea, ma poco pratica. Vivono in una grande biblioteca a nordovest di qui.}
+{134}{}{I Figli della Cattedrale sono stanziati in una grande chiesa che si trova parecchio a sud di qui. Accadono strane cose, da quelle parti. Da quella chiesa ho visto uscire ed entrare creature che di umano avevano ben poco.}
+{135}{}{ E se le storie che si sentono in giro non sono frottole, la chiesa e' stata costruita sopra un vecchio Vault, quello dove vivevano i progenitori degli abitanti di Adytum.}
+{136}{}{Ehila'. Ci incontriamo di nuovo. Che ti serve?}
+{137}{}{Di cosa hai detto che ti occupavi?}
+{138}{}{Niente, grazie.}
+{139}{}{Oh, capisco. Ok. Ci si becca!}
+
+# Added by Sduibek for Fallout Fixt:
+
+{140}{}{Miles said I should talk to you about parts for his hydroponic farms. Do you know anything about that?}
+{141}{}{Ah, yes. As a matter of fact I do. Last week I sent a guy up north to look for the parts for Miles, but we haven't heard from him since. The last transmission I got from him was that he'd found the parts, and was on his way back. I haven't had time to check on it personally yet, and I don't want to lose another person to whatever may have caused his disappearance.}
+{142}{}{Tough break, sorry to hear it. Thanks for the info. Bye.}
+{143}{}{If I can get any info on your guy, is there some kind of finder's fee?}
+{144}{}{Great, thank you. I'll search in that area for the parts. I'll let you know if I find your missing friend.}
+{145}{}{Any time. Seeya.}
+{146}{}{Would you? That'd be great. Like I said, things have been busy here and we can't afford to be losing more people.}
+{147}{}{(He laughs.) No, not really. If I had the caps for that I'd already have hired someone to track him down. (He thinks for a moment.) I like your spirit, though. Tell you what, if you can find him, I'll see what I can do for you.}
+{148}{}{Good news, I found your guy. Bad news, he's very dead.}
+{149}{}{I'm sorry to tell you this, but it appears your friend was killed by the Deathclaws at the warehouse.}
+{150}{}{Damn! *sigh* I figured as much. Thanks.}
+{151}{}{Oh, that's right. Here's your reward. (He hands you what looks like a hand-held miniature chainsaw.) There used to be a gang here that used these. Feel free to kill some of those bastard Deathclaws with it. See'ya 'round.}
+{152}{}{Here, take this for the trouble, it's the least I can do. (He hands you 200 caps.)}

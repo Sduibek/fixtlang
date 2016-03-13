@@ -1,0 +1,230 @@
+{100}{}{Vedi Aradesh.}
+{101}{Ara_1g}{Benvenuto, viandante. Ti prego, non sentirti offeso se i miei compaesani ti sembrano ostili. Come dice Dharma: "Le difficolta' induriscono la pelle degli uomini". Cosa ti porta a Shady Sands?}
+{102}{Ara_1n}{Benvenuto. Cosa ti porta a Shady Sands?}
+{103}{Ara_1b}{Non si vedono molti stranieri, da queste parti. Per quale motivo ti trovi a Shady Sands?}
+{104}{}{Vengo da un piccolo villaggio ad ovest di qui. Sto solo esplorando la zona e non intendo farvi alcun male.}
+{105}{}{Che te ne frega?}
+{106}{}{Preferisco non rivelare le mie ragioni.}
+{107}{}{Vengo da un Vault ad ovest. La mia gente sta morendo di sete e devo trovare un chip per la purificazione dell'acqua.}
+{108}{}{Sono in missione per salvare un popolo dalla distruzione!}
+{109}{}{Shady Sands? Whoops, mi sono perso! Adesso devo proprio andare.}
+{110}{}{Hunh?}
+{111}{Ara_2}{Non conosco alcun villaggio, ad ovest.}
+{112}{}{Hai mai attraversato le montagne che ci sono ad ovest?}
+{113}{}{E allora?}
+{114}{}{Mi stai forse dicendo che conosci ogni villaggio da qui fino all'oceano?}
+{115}{}{Avrai di certo visitato molti luoghi, ma probabilmente il mio minuscolo villaggio ti sara' sfuggito.}
+{116}{Ara_3}{Ah beh, con mio sommo dispiacere, non l'ho fatto. Il che mi porta a chiederti: come hai fatto *tu* ad attraversarle?}
+{117}{}{E' stata piuttosto dura, ma ce l'ho fatta.}
+{118}{}{E a te cosa frega?}
+{119}{}{Senti, tutto quel che volevo erano un po' di provviste e qualche informazione, ma saro' ben felice di andarle a cercare da un'altra parte.}
+{120}{}{Non sono obbligato a risponderti.}
+{121}{Ara_4}{Si', hmmm, si', si'. si'. Voglio crederti... per il momento. Ma non ci fidiamo facilmente, soprattutto di chi potrebbe essere pericoloso. Sappi che Seth ed io vigileremo su di te.}
+{122}{Ara_5}{Questo e' il mio villaggio, viandante. Devi rispondere alle mie domande oppure andartene. Non ci sono altre possibilità.}
+{123}{}{Non puoi obbligarmi a rispondere.}
+{124}{}{Non voglio farvi alcun male. Davvero!}
+{125}{}{Non temere, me ne vado.}
+{126}{Ara_6}{Sei davvero insolente. Credo che dovresti andartene. E non tornare mai piu'. Non sei il benvenuto, qui.}
+{127}{Ara_7}{D'accordo, viandante. Seth ti accompagnera' fuori.}
+{128}{Ara_8}{Pensi dunque che io sia un ingenuo, viandante? Avresti quindi superato le montagne da solo?}
+{129}{}{Cio' che penso non ha importanza. Vengo dalle montagne: e' la verita'.}
+{130}{}{Non ingenuo. Solo stupido.}
+{131}{Ara_9}{Come disse Dharma: "In tempi oscuri, la prudenza e' vita". La questione non riguarda le tue origini, bensi' le tue intenzioni.}
+{132}{}{Okay.}
+{133}{Ara_9A}{Potrai rimanere, ma sappi questo: Seth ed io ti osserveremo molto, molto attentamente. Non pensare nemmeno per un attimo di causare problemi.}
+{134}{Ara_10}{Tieniti pure le tue risposte. Ma questo villaggio non e' aperto a tutti. Se cerchi un simile luogo, va' a Junktown. Puoi comunque restare qui, ma sappi che ti terremo d'occhio.}
+{135}{Ara_11}{Un Vault. Come posso fidarmi di te, viandante, se tu non sei onesto con me?}
+{136}{}{No, davvero, vengo da un Vault!}
+{137}{}{Vault e'... il nome del mio villaggio.}
+{138}{}{Hai ragione, ho mentito.}
+{139}{Ara_12}{Hmmm, si', si', si'. Parlami dunque di questo Vault.}
+{140}{}{Beh... in realta', Vault e' il nome del mio villaggio. Si chiama cosi' perche' sorge tra due enormi pareti di roccia.}
+{141}{}{E' un enorme edificio scavato all'interno di una montagna lontana da qui, ad ovest. La mia gente vive li' dentro da 80 anni.}
+{142}{}{Perche'?}
+{143}{Ara_13}{Viandante, voglio crederti... per il momento. Puoi rimanere a Shady Sands, ma sappi che ogni tua mossa sara' controllata.}
+{144}{Ara_14}{Non accetto che mi si raccontino menzogne, viandante.}
+{145}{}{Non ho nulla da dirti.}
+{146}{}{Non voglio farvi alcun male. Davvero!}
+{147}{}{Non temere, me ne vado subito.}
+{148}{Ara_15}{Hmmm. Puoi rimanere. Ma sta' alla larga dai guai.}
+{149}{}{Cosa puoi dirmi delle altre citta' della zona?}
+{150}{}{Com'e' la situazione in questa zona?}
+{151}{}{Grazie. Ci vediamo.}
+{152}{Ara_17}{Ci ritroviamo, giovane viandante. Spero che il tuo soggiorno sia stato piacevole.}
+{153}{}{Mi sono trovato benissimo. Posso farti qualche domanda?}
+{154}{}{Lo e' stato. Adesso devo scappare, pero'.}
+{155}{}{Se stare in una fogna tu lo chiami piacevole...}
+{156}{}{Nah-hah.}
+{157}{Ara_18n}{Benvenuto. Come posso aiutarti, in questa splendida giornata?}
+{158}{Ara_18b}{Desideri qualcosa?}
+{159}{}{Puoi parlarmi di Shady Sands?}
+{160}{}{Mi stavo chiedendo se potevo farti qualche domanda.}
+{161}{}{Non ho bisogno di nulla, davvero. Stavo giusto per andarmene.}
+{162}{}{Nah-ah.}
+{163}{Ara_19}{Certamente. Che cosa vuoi sapere?}
+{164}{Ara_19b}{Chiedi pure, ma sii breve. Il mio tempo preferisco usarlo per cose piu' importanti.}
+{165}{}{Cosa puoi dirmi delle altre citta' della zona?}
+{166}{}{Com'e' la situazione in questa zona?}
+{167}{}{Grazie. Ci vediamo.}
+{168}{Ara_20g}{Ah. Felici viaggi, viandante.}
+{169}{Ara_20n}{Arrivederci.}
+{170}{Ara_20b}{Lo spero sinceramente.}
+{171}{Ara_21}{Dharma ha detto: "Un uomo e la sua lingua ribelle non rimangono a lungo insieme". Torna quando avrai imparato un po' di buone maniere.}
+{172}{Ara_22}{Cio' non basta, viandante. Seth ti accompagnera' fuori dal villaggio. Non tornare. L'accoglienza non sarebbe piacevole.}
+{173}{Ara_23g}{Shady Sands e' quasi una famiglia... una famiglia che preferisce stare sulle sue.}
+{174}{Ara_23b}{Siamo una comunita' molto protettiva. Come disse Dharma: "Molti rametti possono esser spezzati. Un fascio no".}
+{175}{}{Che tipo di cose si possono trovare, qui da voi?}
+{176}{}{Interessante. Ci sono altri villaggi, nella zona?}
+{177}{}{Bello. Beh, sara' meglio che vada.}
+{178}{Ara_24}{A est puoi trovare i Giardini. Le stalle dei brahmin sono a nord, sebbene l'odore, molto intenso in questa stagione, si senta sin qui.}
+{179}{}{C'e' altro?}
+{180}{Ara_24a}{Siamo una piccola comunita' autosufficiente, quindi c'e' poco altro da dire.}
+{181}{}{Grazie. Posso farti qualche altra domanda?}
+{182}{}{Grazie. Arrivederci.}
+{183}{Ara_24b}{Il villaggio e' piccolo. E tu hai i piedi.}
+{184}{}{Grazie. Posso farti qualche altra domanda?}
+{185}{Ara_25b}{Dharma diceva: "Non badare all'ululato del lupo mentre la volpe sta razziando il pollaio".}
+{186}{Ara_25g}{Junktown sorge a sud di qui, ma ritengo che abbia ben poco da offrire. Dai racconti dei viaggiatori pare che ci siano altre citta', piu' a sud.}
+{187}{}{Grazie. Posso... farti qualche altra domanda?}
+{188}{Ara_26}{E' un periodo tranquillo, grazie al cielo.}
+{189}{}{Sounds... boring.}
+{190}{}{Bene. Allora... posso farti qualche altra domanda?}
+{191}{}{Ottimo. Speriamo che questa tranquillita' duri a lungo, allora.}
+{192}{Ara_27}{Si'. A noi piace cosi'.}
+{193}{}{Che cosa sai dirmi dei villaggi qui attorno?}
+{194}{}{Come vanno le cose da queste parti?}
+{195}{}{Grazie. Arrivederci.}
+{196}{Ara_28}{Oh si'. Un grosso branco di radscorpioni sta uccidendo le nostre mandrie. Non sappiamo da dove provengano. Ed anche se riusciamo ad eliminarne qualcuno, continuano a tornare... piu' numerosi di prima!}
+{197}{}{E poi?}
+{198}{Ara_28a}{Ultimamente quei mostri hanno cominciato ad attaccare la mia gente! Razlo sta cercando di trovare un antidoto contro il loro veleno, ma non so a che punto sia la sua ricerca.}
+{199}{}{Vi aiutero' io a liberarvi di quei mostri!}
+{200}{}{Posso aiutarvi io... ad un prezzo, naturalmente.}
+{201}{}{Ma e' orribile. Posso farti qualche altra domanda?}
+{202}{Ara_29}{Ummm, si', si', si', si', si'! Ti prego, parla con Razlo. Egli sa molte piu' cose di me riguardo a quelle creature.}
+{203}{Ara_30}{Come disse Dharma: "Chi appartiene ad un gregge, conosce il suo pastore".}
+{204}{}{So che per voi e' difficile fidarvi di me, ma vorrei davvero aiutarvi.}
+{205}{}{Come preferisci. Posso farti qualche altra domanda?}
+{206}{Ara_30a}{Ti prego, fa' in fretta: liberaci da quei radscorpioni!}
+{207}{Ara_31}{Le cose si stanno risolvendo per il meglio. Razlo ha lavorato ad un antidoto contro il veleno dei radscorpioni. Grazie ad esso dovremmo essere in grado di eliminare quelli rimasti.}
+{208}{}{E' stato un piacere. Posso farti qualche altra domanda?}
+{209}{}{Non avete piu' motivo di preoccuparvi. Ho distrutto il loro nido.}
+{210}{Ara_32}{Sei un vero eroe! La gente di Shady Sands ti e' immensamente grata.}
+{211}{}{Grazie. Posso farti qualche altra domanda?}
+{212}{}{Grazie. Arrivederci!}
+{213}{Ara_33}{Se puoi capire cio' che provo, ti prego: ritrova mia figlia.}
+{214}{Ara_35}{Da quando mi hai riportato la mia Tandi, le cose vanno molto bene. Ti saro' grato in eterno, viandante.}
+{215}{}{Che cosa puoi dirmi degli altri villaggi della zona?}
+{216}{}{Come vanno le cose?}
+{217}{}{Grazie. Arrivederci.}
+{218}{Ara_36}{Si', si'. Uhm. Buona permanenza.}
+{219}{Ara_37}{Ahh, viandante. Come procedono le ricerche di mia figlia?}
+{220}{}{Mi dispiace, non l'ho ancora trovata. Ma ci riusciro'.}
+{221}{}{Mi dispiace... e' morta.}
+{222}{}{Duh-nada.}
+{223}{}{Mi dispiace, non l'ho ancora trovata. Ma ci riusciro'.}
+{224}{}{Sto facendo pochi, ma importanti progressi. Posso farti qualche altra domanda?}
+{225}{}{Guunngggg!}
+{226}{Ara_37a}{Ti ringrazio per averci almeno provato. Ti prego, lasciami solo con il mio dolore.}
+{227}{Ara_38}{Possano i miei pensieri essere ali ai tuoi piedi. Fa' in fretta, ti prego.}
+{228}{Ara_39}{Grazie al cielo sei qui! Sono disperato e ho urgente bisogno di aiuto. Mia figlia Tandi e' scomparsa e temo sia stata rapita. Non so che cosa fare!}
+{229}{}{Avete provato a cercarla?}
+{230}{}{Uhh?}
+{231}{Ara_39a}{La mia gente non e' preparata per una situazione simile. Ho gia' inviato tre squadre di ricerca, ma nessuna ha fatto ritorno. Iniziamo a temere il peggio. Mi aiuterai?}
+{232}{}{D'accordo. Chi pensate possa averla rapita?}
+{233}{}{Lo faro'... ad un prezzo.}
+{234}{}{Mi dispiace, ma ho altro a cui pensare.}
+{235}{Ara_40}{Seth ed io crediamo che i responsabili facciano parte di uno dei clan di predoni - il rapimento sarebbe una punizione per la nostra resistenza. Prendi questa lancia. E' stata trovata nel luogo dove mia figlia e' stata vista per l'ultima volta.}
+{236}{}{D'accordo, ci penso io.}
+{237}{Ara_40A}{Ti prego, parla con Seth. Sa molte cose su questi predoni. E fa' piu' in fretta che puoi, viandante.}
+{238}{Ara_41}{Ti ricompensero', certo. Riportamela e riceverai 500 monete di Junktown. Mi aiuterai?}
+{239}{}{D'accordo. Chi pensate possa averla rapita?}
+{240}{}{Ah... no grazie. Ho altre cose da fare.}
+{241}{Ara_42}{Come diceva Dharma: "Mentre dai la caccia ai lupi, non condurre il leone nella tua dimora". Tu non mi sarai d'aiuto, quindi devi andartene.}
+{242}{Ara_43}{Saro' per sempre in debito con te, viandante, e non scordero' mai la tua audacia e il tuo coraggio. Ecco la tua ricompensa.}
+{243}{}{Grazie. Posso farti qualche altra domanda?}
+{244}{}{Grazie.}
+{245}{Ara_44}{Fin quando non ci ritroveremo, addio, amico mio. Possa l'acqua trovata nel deserto non abbagliarti nel buio.}
+{246}{Ara_45}{Che cosa stai facendo? Rimettilo subito dov'era!}
+{247}{Ara_46}{Quell'oggetto non ti appartiene. Non prenderlo, per favore.}
+{248}{Ara_47}{Smettila immediatamente!}
+{249}{Ara_48}{Che cosa ci fai qui? Sto riposando, torna domattina!}
+{250}{Ara_49}{Sono io. Guido quest'umile villaggio, Shady Sands.}
+{251}{Ara_49A}{Dharma era un grand'uomo, profondamente religioso. Faresti bene a prestare attenzione alle sue parole.}
+{252}{Ara_50}{E' mia figlia. E' lei che rende questa dura vita degna d'essere vissuta.}
+{253}{Ara_51}{Hmm, si', si'. Razlo e' il nostro medico. Se qualcosa ti affligge, lui puo' curarti. Al momento dovrebbe essere a casa sua. E' a sud della piazza.}
+{254}{Ara_52}{Un bravo giovine, Seth. E' il Capitano delle nostre guardie. Dovrebbe trovarsi nei pressi della caserma. }
+{255}{Ara_53}{Una splendida donna. Ha da poco celebrato il suo sessantesimo compleanno! Passa molto tempo con Razlo, raccontandogli fino allo sfinimento le sue innumerevoli e interminabili storie.}
+{256}{Ara_54}{Ummm, um, um. Noi conosciamo tre bande di predoni. Una e' quella dei Khan. Poi ci sono i Jackal e i Viper.}
+{257}{Ara_55}{Fa' molta attenzione con quei tipi. I predoni che sono anche dei fanatici possono essere davvero pericolosi. Nessuno di noi sa dove si trovi la loro base.}
+{258}{Ara_56}{Umm, si', si'. Posso dirti che i Khan sono piu' feroci dei Viper. Quei barbari attaccano da sudest.}
+{259}{Ara_57}{Sono creature pericolose. Sta' attento alla loro coda. Il veleno di quei mostri puo' essere letale.}
+{260}{Ara_58}{Si', si', si'. C'e' una voce secondo la quale si tratterebbe di un mostro creato durante la Guerra.}
+{261}{}{}
+{262}{Ara_60}{Junktown si trova a sud di qui. Talvolta i loro mercanti si spingono fino qui, ma non succede spesso.}
+{263}{Ara_61}{Sia i Viper sia i Khan usano lance. Lo sappiamo perche' siamo gia' stati attaccati altre volte.}
+{264}{Ara_62}{La trovi vicino all'entrata del villaggio. Seth dovrebbe trovarsi la'.}
+{265}{Ara_63}{Nessuno lo sa con certezza, ma pare che il loro nido si trovi in una grotta a nordest.}
+{266}{Ara_64}{Non saprei.}
+{267}{Ara_65}{Non posso proprio dire di averne sentito parlare.}
+{268}{Ara_66}{Hm, no. No, non ne ho mai sentito parlare.}
+{269}{Ara_67}{As I said...}
+{270}{Ara_68}{Come ti dicevo prima...}
+{271}{Ara_69}{Come ti ho gia' detto...}
+{272}{Ara_70}{Come ti ho gia' detto prima...}
+{273}{Ara_71}{Non mi ripetero' di nuovo solo per fare la figura dello stupido. La prossima volta presta attenzione.}
+{274}{Ara_72}{Non ho intenzione di continuare a fare la candela crepitante solo perche' non ti degni di ascoltarmi.}
+{275}{Ara_73}{Questo dovresti chiederlo a Seth. Ne sa piu' di me.}
+{276}{}{}
+{277}{}{Non ho intenzione di sprecare il mio tempo con un traditore.}
+{278}{}{Aradesh is furious and refuses to talk to you any more.}	# Line 278 was previously in GENCHAT, Line 170
+
+# Tell Me About generic responses
+{980}{Ara_64}{Non saprei.}
+{981}{Ara_65}{Non posso proprio dire di averne sentito parlare.}
+{982}{Ara_66}{Hm, no. No, non ne ho mai sentito parlare.}
+
+{1000}{}{Aradesh}
+{1001}{}{Dharma}
+{1002}{}{Tandi}
+{1003}{}{Razlo}
+{1004}{}{Predoni}
+{1005}{}{Viper}
+{1006}{}{Khan}
+{1007}{}{Scorpioni}
+{1008}{}{Deathclaw}
+{1009}{}{Junktown}
+{1010}{}{Lancia}
+{1011}{}{Guard House}
+{1012}{}{Caverna}
+{1013}{}{Scorpione}
+{1014}{}{Guardhouse}
+{1015}{}{Seth}
+{1016}{}{rad scorpion}
+{1017}{}{Radscorpions}
+{1018}{}{Radscorpion}
+{1019}{}{Shady}
+{1020}{}{Sands}
+{1021}{}{Hub}
+
+{1100}{Ara_49}{Sono io. E guido l'umile villaggio di Shady Sands.}
+{1101}{Ara_49A}{Dharma era un grand'uomo, profondamente religioso. Faresti bene a prestare attenzione alle sue parole.}
+{1102}{Ara_50}{E' mia figlia. E' lei che rende questa dura vita degna d'essere vissuta.}
+{1103}{Ara_51}{Hmm, si', si'. Razlo e' il nostro medico. Se qualcosa ti affligge, lui puo' curarti. l momento dovrebbe essere a casa sua. E' a sud della piazza.}
+{1104}{Ara_54}{Ummm, um, um. Noi conosciamo tre bande di predoni. Una e' quella dei Khan. Poi ci sono i Jackal e i Viper.}
+{1105}{Ara_55}{Fa' molta attenzione con quei tipi. I predoni che sono anche dei fanatici religiosi possono essere davvero pericolosi. Nessuno di noi sa dove si trovi la loro base.}
+{1106}{Ara_56}{Umm, si', si'. Posso dirti che i Khan sono piu' feroci dei Viper. Quei barbari attaccano da sudest.}
+{1107}{Ara_57}{Sono creature pericolose. Sta' attento alla loro coda. Il veleno di quei mostri puo' essere letale.}
+{1108}{Ara_58}{Si', si', si'. C'e' una voce secondo la quale si tratterebbe di un mostro creato durante la Guerra.}
+{1109}{Ara_60}{Junktown si trova a sud di qui. Talvolta i loro mercanti si spingono fin qui, ma non succede spesso.}
+{1110}{Ara_61}{Sia i Viper sia i Khan usano lance. Lo sappiamo perche' siamo gia' stati attaccati altre volte.}
+{1111}{Ara_62}{La trovi vicino all'entrata del villaggio. Seth dovrebbe trovarsi la'.}
+{1112}{Ara_63}{Nessuno lo sa con certezza, ma pare che il loro nido si trovi in una grotta a nordest.}
+{1113}{Ara_57}{Sono creature pericolose. Sta' attento alla loro coda. Il veleno di quei mostri puo' essere letale.}
+{1114}{Ara_62}{La trovi vicino all'entrata del villaggio. Seth dovrebbe trovarsi la'.}
+{1115}{Ara_52}{Un bravo giovine, Seth. E' il Capitano delle nostre guardie. Dovrebbe trovarsi nei pressi della caserma. }
+{1116}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
+{1117}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
+{1118}{Ara_57}{Mean creatures, they are. Be careful of their tail. Their poison can be lethal if not looked after.}
+{1119}{Ara_23g}{Shady Sands is much like a family, one that keeps to itself.}
+{1120}{Ara_23g}{Shady Sands is much like a family, one that keeps to itself.}
+{1121}{Ara_73}{Go talk to Seth about that. He'll know more than I.}

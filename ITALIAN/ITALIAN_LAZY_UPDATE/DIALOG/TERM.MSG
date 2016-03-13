@@ -1,0 +1,14 @@
+{100}{}{Vedi un modernissimo computer della Confraternita.}
+{101}{}{L'accesso a questo terminale ti e' negato.}
+{102}{}{La lezione dura sei ore. Ti senti esausto.}
+{103}{}{Hai gia' immagazzinato tutto cio' che potevi.}
+#
+{200}{}{You see a computer. There are some pieces of something on it that might be human flesh.}
+#
+{201}{}{Traffichi per qualche istante con il computer, ma non riesci a superare la protezione.}
+{202}{}{Questo computer funziona perfettamente.}
+{203}{}{Trovi delle informazioni interessanti riguardo ad una base segreta situata a nordovest.}
+#
+# A number is inserted between 204 and 205
+{204}{}{You earn }
+{205}{}{ punti esperienza per esserti introdotto nel database di questo computer.}

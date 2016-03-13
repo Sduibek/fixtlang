@@ -1,0 +1,18 @@
+{100}{}{You see the low-stakes Craps table. It costs 20 caps to play.}
+{101}{}{Hai fatto 7. Hai vinto!!}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{Un doppio uno. Hai perso.}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{E' uscito }
+{104}{}{! Hai vinto!!}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{E' uscito }
+{106}{}{. Hai perso.}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{Hai fatto }
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{ prima che uscisse la tua puntata. Hai perso.}
+{109}{}{E' uscita la tua puntata. Hai vinto.}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{Hai fatto }
+{111}{}{. Questa e' la tua puntata. Tira di nuovo.}

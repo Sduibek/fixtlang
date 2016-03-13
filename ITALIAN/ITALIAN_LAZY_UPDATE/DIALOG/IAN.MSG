@@ -1,0 +1,248 @@
+#
+# He's fairly short, stocky and self-assured, and looks to be well-traveled.
+#
+{100}{}{Vedi un uomo basso e tarchiato.}
+{101}{}{Non ci piacciono i tipi come te.}
+{102}{}{Ehila', straniero. Mi sembri nuovo di qui. Come ti chiami?}
+{103}{}{Il mio nome non ha importanza.}
+{104}{}{Sono }
+{105}{}{.}
+{106}{}{Urgh?}
+{107}{}{Ah, beh, nemmeno tu ne hai, allora.}
+{108}{}{Piacere. Io sono Ian.}
+{109}{}{Che cosa ci fai qui?}
+{110}{}{Mi piacerebbe saperne di piu' su questo posto. Mi puoi aiutare?}
+{111}{}{Mi dispiace, ma non ho tempo da perdere con gli idioti.}
+{112}{}{Lavoravo come guardia per i mercanti dell'Hub. Sono rimasto ferito in seguito ad uno scontro a fuoco con alcuni banditi. Gli abitanti di Shady Sands mi hanno curato. Per ripagarli ho deciso di fermarmi qui per un po'; la mia conoscenza del mondo esterno e la mia esperienza come combattente sono molto utili a questo villaggio. Shady Sands e' casa mia, adesso. Talvolta mi capita persino di dover andare a Junktown o all'Hub, dato che qui sono praticamente l'unica persona che abbia mai lasciato i confini del villaggio.}
+{113}{}{Vedi Ian.}
+{114}{}{Mi dispiace sapere della tua ferita.}
+{115}{}{Dov'e' questo Hub? E Junktown?}
+{116}{}{Potresti parlarmi dei banditi?}
+{117}{}{Shady Sands e' una comunita' piccola, ma autosufficiente. Gli unici suoi guai sono i banditi e i radscorpioni.}
+{118}{}{Per quale motivo i radscorpioni danno dei problemi?}
+{119}{}{Ci sono molti banditi, qui attorno?}
+{120}{}{Ce ne sono parecchi, anche se non appartengono tutti allo stesso gruppo. Ci rubano il cibo e talvolta rapiscono qualcuno. Seth ha organizzato un corpo di guardia per cercare di respingere i loro attacchi.}
+{121}{}{Cosa mi puoi dire di Seth?}
+{122}{}{Ci sono diversi gruppi? Quanti?}
+{123}{}{I radscorpioni sono molto pericolosi. Hanno un pungiglione velenoso nella coda e sono molto rapidi. Aradesh sta cercando un modo per liberarsi di loro. Se ti senti coraggioso, potresti provare a parlarne con lui.}
+{124}{}{Grazie. Adesso va molto meglio... tutto merito di Razlo.}
+{125}{}{Seth e' un guerriero molto coraggioso. A volte entra nelle grotte dove si annidano i radscorpioni e ne uccide qualcuno, ma quei mostri continuano a tormentare il villaggio. Sono troppi per lui.}
+{126}{}{Sono davvero cosi' pericolosi, i radscorpioni?}
+{127}{}{C'e' qualcosa che posso fare?}
+{128}{}{Ci sono tre gruppi: i Khan, i Viper e i Jackal. I Viper e i Jackal sono formati da bande nomadi e sono poco numerosi e male armati; Seth e le sue guardie non hanno troppi problemi a respingere i loro attacchi, anche se a volte qualche capo di bestiame lo perdiamo. I Khan, invece, hanno un accampamento stabile e molte armi. Sono organizzati e dannatamente violenti. Siamo praticamente impotenti di fronte ai loro attacchi...}
+{129}{}{Parlami di Shady Sands.}
+{130}{}{Ha l'atteggiamento sicuro e rilassato del guerriero esperto.}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 131 and 132.
+{131}{}{Allora, }
+{132}{}{, cosa posso fare per te?}
+{133}{}{Parlami dei predoni.}
+{134}{}{Parlami dei radscorpioni.}
+{135}{}{Parlami di Shady Sands.}
+{136}{}{Parlami di Seth.}
+{137}{}{Puoi dirmi dove si trovano l'Hub e Junktown?}
+{138}{}{Nulla, grazie.}
+{139}{}{L'Hub e' un grosso centro di scambi commerciali che si trova parecchio a sud rispetto a Shady Sands. I mercanti sono parecchi, laggiu', ma le compagnie piu' importanti sono tre: i Mercanti d'Acqua, le Carovane Scarlatte e i Mercanti FarGo. Junktown si trova ad ovestsudovest di Shady Sands. E' piu' piccola dell'Hub, ma e' comunque un buon posto dove fermarsi per un drink. E' governata da un tipo di nome Killian Darkwater, il proprietario dell'emporio locale, che svolge le funzioni di sceriffo e di sindaco.}
+{140}{}{Grazie.}
+{141}{}{Puo' darsi che io non sia piu' il guerriero abile di un tempo, ma sono ancora abbastanza in gamba da avere la meglio su un tipo come te!}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 142 and 143.
+{142}{}{Cosa posso fare per te, }
+{143}{}{?}
+
+{144}{}{Hmm. Nulla. Come non detto, Ian.}
+{145}{}{Adesso puoi andartene.}
+{146}{}{Puoi dirmi dove si trovano l'Hub e Junktown?}
+{147}{}{Beh, dal momento che sei tu a chiedermelo... d'accordo. Ci si vede.}
+{148}{}{No, grazie. Qui hanno bisogno di me.}
+{149}{}{Non e' che potresti darmi una mano? La tua esperienza mi farebbe davvero comodo.}
+{150}{}{Andiamo. Sara' un piacere tornare in azione!}
+{151}{}{Questo e' l'Emporio di Killian. Killian e' un brav'uomo e qui troverai un sacco di roba interessante.}
+{152}{}{Il Casino' di Gizmo. Un covo di giocatori d'azzardo e il centro delle attivita' illecite della citta'. Fa' attenzione: in giro si dice che i giochi siano truccati.}
+{153}{}{Questo posto mi fa venire i brividi.}
+{154}{}{Cosa diavolo e' successo qui?}
+{155}{}{Questo sara' un osso duro.}
+{156}{}{Hmm. Offerta interessante. Questo posto si stava facendo noioso. Senti un po': ti faccio la tariffa standard. 100 testoni e siamo d'accordo.}
+{157}{}{Affare fatto.}
+{158}{}{No, grazie.}
+{159}{}{Che ne diresti di un po' di azione, invece?}
+{160}{}{D'accordo, ti aiutero' in cambio di una parte del bottino.}
+{161}{}{No, non ci sto. Torna quando avrai qualche testone.}
+{162}{}{Questa e' l'Armeria. La gestisce Beth. E' molto ferrata con le armi, ma la sua vera passione e' spettegolare.}
+{163}{}{Il negozio d'armi di Jake. Prezzi alti, ma ottimi pezzi.}
+{164}{}{L'ufficio dei Mercanti d'Acqua. Sono i grandi burattinai dell'Hub, dal momento che hanno in pugno il bene piu' prezioso: l'acqua.}
+{165}{}{Questa e' la sede delle Carovane Scarlatte. Ho lavorato un po' anche per loro. Qui in citta' sono gli unici che accettano incarichi ad alto rischio.}
+{166}{}{I Mercanti FarGo, guidati da Butch Harris. Nofon efe' trofoppofo svefeglifiofo, se capisci cosa intendo.}
+{167}{}{Ah, ecco il Falcone Maltese, un posto imperdibile. Buona musica, buoni drink e buona compagnia.}
+{168}{}{Quello e' un gran figlio di puttana!}
+{169}{}{Guadagni 100 punti esperienza per aver convinto Ian ad accompagnarti nel tuo viaggio.}
+{170}{}{Avevo gia' sentito parlare di questi posti, ma non ne avevo mai visto uno. Sembra carino e pulito... un po' troppo pulito per i miei gusti.}
+{171}{}{Non che tu me l'abbia chiesto, ma secondo me quel tipo dovrebbe proprio darti un po' di tregua.}
+{172}{}{Sai, quella donna non saprebbe condurre un tango, figuriamoci una rivoluzione.}
+{173}{}{Quali armi sai usare meglio?}
+{174}{}{Me la cavo bene con quasi tutti i tipi di pistola e so anche maneggiare le mitragliette. Posso usare anche un coltello, se serve.}
+
+#
+# Translation note
+# The following line is directed at Katja, a female scavenger, not at the player.
+# Ian is noting that he thinks that L.A. Boneyard was a worse place than the
+# mutants' military base.
+#
+
+{175}{}{I thought L.A. Boneyard was worse.}
+
+
+{200}{}{Nella prossima battaglia usa la tua arma migliore.}
+{201}{}{Puoi contarci.}
+{202}{}{Posso fare qualcosa per te, prima che io vada?}
+{203}{}{Um, si'. Credo che dovremmo restare insieme.}
+{204}{}{Uh, no. Grazie.}
+
+#
+# Ian Tell-Me-Abouts
+#
+
+{1000}{}{Water}
+{1001}{}{Guerra}
+{1002}{}{Shady}
+{1003}{}{Junktown}
+{1004}{}{Hub}
+{1005}{}{Predoni}
+{1006}{}{Carovane}
+{1007}{}{Chip}
+{1008}{}{Sands}
+{1009}{}{Discepoli}
+{1010}{}{Cattedrale}
+{1011}{}{Garl}
+{1012}{}{Master}
+{1013}{}{Unita'}
+{1014}{}{Set}
+{1015}{}{Acquedotto}
+{1016}{}{Necropolis}
+{1017}{}{Sala}
+{1018}{}{Biblioteca}
+{1019}{}{Supervisore}
+{1020}{}{Dottore}
+{1021}{}{Cure}
+{1022}{}{Vault}
+{1023}{}{Vault-13}
+{1024}{}{Vault13}
+{1025}{}{Killian}
+{1026}{}{Gizmo}
+{1027}{}{Boneyard}
+{1028}{}{Casino'}
+{1029}{}{Negozio}
+{1030}{}{Deathclaw}
+{1031}{}{Esodo}
+{1032}{}{Iniziati}
+{1033}{}{Paladini}
+{1034}{}{Scriba}
+{1035}{}{Figli}
+{1036}{}{Confraternita}
+{1037}{}{Vasche}
+{1038}{}{Militare}
+{1039}{}{Base}
+{1041}{}{Apocalisse}
+{1042}{}{Mutanti}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Alcol}
+{1052}{}{Droga}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Regolatori}
+{1058}{}{Scav}
+{1059}{}{Blade}
+{1060}{}{Nicole}
+{1061}{}{Tenente}
+{1062}{}{Psichici}
+{1063}{}{Esperimenti}
+{1064}{}{Polizia}
+{1065}{}{Mercanti}
+
+{1100}{}{Non ho idea di cosa sia un water chip. Spiacente, amico.}
+{1101}{}{Happened about a hundred years ago. Basically, a bunch of countries got kind of antsy, and everything went BOOM!}
+{1102}{}{Un piccolo e pacifico villaggio. Probabilmente la comunita' piu' promettente delle lande.}
+{1103}{}{Una citta' di medie dimensioni costruita con i rifiuti. E' guidata da uno sceriffo di nome Killian. Si trova a pochi giorni di distanza da Shady Sands, verso sudovest.}
+{1104}{}{L'Hub e' il cuore degli scambi commerciali di tutto il New West. Di fatto e' governata dal gruppo dei Mercanti d'Acqua, ma ci sono anche altre compagnie. E' una citta' in piena espansione, ma ci sono molti scontri politici fra i vari gruppi di mercanti.}
+{1105}{}{In questa zona ci sono diversi gruppi di predoni. I piu' organizzati sono i Khan; pare che si credano in grado di conquistare il mondo, o qualcosa del genere.}
+{1106}{}{La maggior parte delle carovane provengono dall'Hub. Da li' raggiungono una moltitudine di insediamenti. Tra le altre, ho lavorato anche per la compagnia "Carovane Scarlatte", prima che la mia ferita mi costringesse ad abbandonare questo tipo di impiego.}
+{1107}{}{Non ho idea di cosa sia un water chip. Spiacente, amico.}
+{1108}{}{Un piccolo e pacifico villaggio. Probabilmente la comunita' piu' promettente delle lande.}
+{1109}{}{Sorry, bud. Don't know much about that.}
+{1110}{}{Sorry, bud. Don't know much about that.}
+{1111}{}{Garl e' un imbecille che crede di poter conquistare il mondo con i suoi predoni pidocchiosi. Si', come no?}
+{1112}{}{Sorry, bud. Don't know much about that.}
+{1113}{}{Sorry, bud. Don't know much about that.}
+{1114}{}{Sorry, bud. Don't know much about that.}
+{1115}{}{Sorry, bud. Don't know much about that.}
+{1116}{}{Non e' forse la leggendaria citta' dei morti?}
+{1117}{}{Sorry, bud. Don't know much about that.}
+{1118}{}{Sorry, bud. Don't know much about that.}
+{1119}{}{Sorry, bud. Don't know much about that.}
+{1120}{}{Razlo e' un grande dottore. Se stai male, dovresti farti vedere da lui.}
+{1121}{}{Razlo e' bravissimo a curare la gente... e il suo succo di junja fa miracoli!}
+{1122}{}{Sorry, bud. Don't know much about that.}
+{1123}{}{Sorry, bud. Don't know much about that.}
+{1124}{}{Sorry, bud. Don't know much about that.}
+{1125}{}{Killian e' il sindaco di Junktown. Ha anche un emporio. E' un tipo a posto. Non ho mai lavorato per lui, ma mi sembra okay.}
+{1126}{}{Gizmo e' il proprietario del casino' di Junktown. Ho sentito che i tavoli e le slot sono truccati, pero'.}
+{1127}{}{Sorry, bud. Don't know much about that.}
+{1128}{}{Il casino' e' il grande progetto di Gizmo per Junktown. Porta un sacco di turisti e di denaro, ma anche un sacco di problemi.}
+{1129}{}{Killian e' il proprietario di un emporio a Junktown.}
+{1130}{}{Sorry, bud. Don't know much about that.}
+{1131}{}{Sorry, bud. Don't know much about that.}
+{1132}{}{Sorry, bud. Don't know much about that.}
+{1133}{}{Sorry, bud. Don't know much about that.}
+{1134}{}{Sorry, bud. Don't know much about that.}
+{1135}{}{Gia'... a Shady Sands ci sono diversi bambini. E allora? Nessuno di quei mocciosi e' mio.}
+{1136}{}{Sorry, bud. Don't know much about that.}
+{1137}{}{Sorry, bud. Don't know much about that.}
+{1138}{}{Sorry, bud. Don't know much about that.}
+{1139}{}{Sorry, bud. Don't know much about that.}
+{1141}{}{Sai, fare la guerra e' il nostro destino. Solo che la prossima la combatteremo con pietre e bastoni.}
+{1142}{}{I saw some weird things when I was guarding caravans for the Hub. Mutated coyotes, mantises, scorpions; that sort of thing.}
+{1143}{}{Sorry, bud. Don't know much about that.}
+{1144}{}{Sono un gruppo di bastardi che attaccano Shady Sands e pensano di poter conquistare il mondo, o stronzate del genere.}
+{1145}{}{E' la figlia di Aradesh. E' molto carina, ma ho gia' qualcuno a casa che mi aspetta.}
+{1146}{}{Sorry, bud. Don't know much about that.}
+{1147}{}{Sorry, bud. Don't know much about that.}
+{1148}{}{Sorry, bud. Don't know much about that.}
+{1149}{}{Sorry, bud. Don't know much about that.}
+{1150}{}{Sorry, bud. Don't know much about that.}
+{1151}{}{Got any beer? I could use a drink.}
+{1152}{}{Una volta, durante un attacco dei predoni contro una nostra carovana, ho usato un po' di Psycho. Mi ha fatto venire i nervi a fior di pelle. Una strana sensazione.}
+{1153}{}{Seth e' il capitano delle guardie di Shady Sands. Che resti fra me e te, ma non sarebbe in grado di fare la guardia a un frutto nemmeno se fosse inchiodato alla sua gamba.}
+{1154}{}{Aradesh e' il capo di Shady Sands. Un uomo buono e paziente, anche se un po' svitato.}
+{1155}{}{Ehi, se ti serve aiuto, Razlo e' l'uomo giusto per te. E' un ottimo dottore.}
+{1156}{}{Sorry, bud. Don't know much about that.}
+{1157}{}{Sorry, bud. Don't know much about that.}
+{1158}{}{Sorry, bud. Don't know much about that.}
+{1159}{}{Sorry, bud. Don't know much about that.}
+{1160}{}{Sorry, bud. Don't know much about that.}
+{1161}{}{Sorry, bud. Don't know much about that.}
+{1162}{}{Non saprei. Credo che ci sia qualcosa sotto, certo, ma non ci sono abbastanza prove.}
+{1163}{}{Sorry, bud. Don't know much about that.}
+{1164}{}{Sorry, bud. Don't know much about that.}
+{1165}{}{Alcuni mercanti dell'Hub si spingono fino a Junktown per commerciare. E' tutto quel che so.}
+
+{1999}{}{Ho imparato alcuni nuovi trucchetti.}
+{2000}{}{Discutiamo delle nostre tattiche di combattimento.}
+{2001}{}{Yeah?}
+{2010}{}{Impugna la tua arma migliore.}
+{2011}{}{Cambia la tua armatura.}
+{2012}{}{Preferisco il combattimento a distanza.}
+{2013}{}{Preferisco il combattimento ravvicinato.}
+{2014}{}{Scegli la distanza che preferisci.}
+{2015}{}{E' tutto per adesso.}
+{2100}{}{Certo, compagno.}

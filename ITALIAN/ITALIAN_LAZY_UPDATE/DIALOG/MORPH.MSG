@@ -1,0 +1,200 @@
+{100}{}{Vedi Morpheus.}
+{101}{MORP02}{Non ricordo di aver invitato qualcuno nella mia stanza. Eppure ricevo una visita. Come mai?}
+{102}{}{Oh, mi dispiace. Credo di essermi perso.}
+{103}{}{Perche' ho un'offerta che non puoi rifiutare...}
+{104}{}{Sono }
+{105}{}{. E tu?}
+{106}{}{Uno dei Fratelli mi ha detto di venire qui.}
+{107}{}{Mammina?}
+{108}{MORP02A}{No. Io sono Padre Morte...}
+{109}{MORP03}{Beh, figliolo, e' molto pericoloso esplorare luoghi non familiari. Dov'eri diretto prima di finire nei miei appartamenti privati?}
+{110}{}{Sono nuovo di qui e stavo cercando il bagno. Uno degli Alti Prelati mi ha detto di venire quassu'.}
+{111}{}{Stavo cercando il confessionale e uno degli Alti Prelati mi ha mandato qui. Mi dispiace di essere finito qui, davvero!}
+{112}{}{Beh, non e' vero che mi sono perso.}
+{113}{}{Ero diretto qui... per ucciderti.}
+{114}{}{L'ho dimenticato. Sara' meglio che vada.}
+{115}{MORP04}{ Ahh...Heh, heh heh. Sara' stato Lasher. Adora mettere nei guai i devoti. Questo e' il tuo giorno fortunato, mio piccolo amico ignorante. Puoi andartene senza problemi. }
+{116}{MORP04A}{ Ti avevo avvertito.  Guardie! }
+{117}{MORP05A}{ Sei un patetico bugiardo.  Adesso dimmi la vera ragione per cui ti trovi qui... prima che ti faccia scorticare vivo. }
+{118}{}{Ma e' vero! Mi sono perso!}
+{119}{}{D'accordo, mi hai beccato. Sono qui per offrirti un accordo.}
+{120}{}{Stavo soltanto dando un'occhiata in giro.}
+{121}{MORP06}{ Io sospetto che tu sia una spia, inviata qui dai Discepoli dell'Apocalisse. Potrei anche sbagliarmi, ma io non corro mai dei rischi. Dovrai essere eliminato. }
+{122}{MORP07}{ E cosa avresti mai da offrirmi? }
+{123}{}{Vengo da un Vault. Sai cos'e', non e' vero?}
+{124}{}{Vorrei offrirti alcune informazioni sui tuoi nemici.}
+{125}{}{Sono stato mandato qui dal tuo superiore, il Master. Vuole che ti tenga d'occhio.}
+{126}{morp08}{Va' avanti.}
+{127}{}{Vorrei dare al tuo superiore qualche informazione sul mio Vault.}
+{128}{}{Ho delle informazioni sul mio Vault che vorrei arrivassero al tuo superiore, il Master.}
+{129}{}{Non cosi' in fretta. Prima vorrei sapere cosa sei disposto a darmi in cambio.}
+{130}{MORP09}{ Io non ho superiori, imbecille! }
+{131}{}{E il Master come lo chiami? Non ti controlla, forse?}
+{132}{}{A me sembra proprio che il Master ti abbia in pugno.}
+{133}{}{Ehi, piano con gli insulti!!}
+{134}{}{Ahi, temo di aver toccato un punto dolente.}
+{135}{MORP10}{ Nessuno mi controlla. Lui ed io siamo... soci. }
+{136}{}{Si', certo. Non sei altro che il suo burattino.}
+{137}{}{Meglio cosi'. Comunque sono in possesso di informazioni che gli potrebbero interessare.}
+{138}{}{E' lui che da' gli ordini, no? E tu li esegui, senza batter ciglio.}
+{139}{MORP11}{ Non tollero gli insulti. Guardie! }
+{140}{MORP12}{ Bene. Ti portero' dal Master. Ma se stai mentendo, lui lo sapra'. }
+{141}{}{Okay, benissimo.}
+{142}{}{Non mi porterai da nessuna parte!}
+{143}{MORP13}{ La cosa non deve interessarti.  Ma se davvero provieni da un Vault, il Master lo scoprira'. Guardie! E tu, seguimi.}
+{144}{MORP14}{Potrai tenerti la tua vita.  E adesso dimmi quel che sai. }
+{145}{}{Vengo da un Vault e vorrei comunicarne la posizione al Master.}
+{146}{}{Oppure?}
+{147}{}{Non ti diro' nulla.}
+{148}{MORP15}{ No? Allora saro' costretto a strappartele, quelle informazioni.  Guardie! }
+{149}{MORP16}{ E chi mai sarebbero i miei nemici? }
+{150}{}{Beh, i Discepoli dell'Apocalisse, tanto per fare un esempio.}
+{151}{}{Da quel che posso vedere, direi tutti.}
+{152}{MORP17}{ Dimmi quel che sai. }
+{153}{}{Non credo proprio. Portami dal Master. Solo a lui parlero'.}
+{154}{}{Diciamo soltanto che so qualcosa che potrebbe aiutarti contro di loro.}
+{155}{MORP18}{ Dammi quelle informazioni o morirai di una morte lenta... e atroce. }
+{156}{}{Credi che il Master sarebbe contento di sapere che hai ucciso l'abitante di un Vault?}
+{157}{}{Parlero' soltanto con il Master.}
+{158}{MORP19}{ Ahh... quindi sei tu quell'abitante di Vault del quale ho sentito parlare... Sorpreso? Ho le mie fonti. Ti portero' in dono al Master. Ne sara' molto felice. }
+{159}{}{E se invece fossi io a portarti da lui? In una bara?}
+{160}{}{E lo saro' anch'io.}
+{161}{MORP20}{ Una spia?  Davvero stupido da parte tua.  Sara' difficile raccontargli cio' che hai visto, una volta che sarai morto, non credi? }
+{162}{MORP21}{ Sei un pessimo bugiardo. Adesso dimmi cosa vuoi. }
+{163}{}{Vengo da un Vault. Sai di cosa sto parlando, vero?}
+{164}{}{Vorrei offrirti alcune informazioni sui tuoi nemici.}
+{165}{MORP23}{ Davvero sorprendente.  Adesso dimmi perche' sei qui. }
+{166}{}{Vengo da un Vault e vorrei comunicarne la posizione al Master.}
+{167}{}{Vorrei offrirti alcune informazioni sui tuoi nemici.}
+{168}{}{Non credere di farmi paura.}
+{169}{}{Non ti diro' nulla.}
+{170}{MORP24}{ Oh, davvero?  E come pensi di farlo? Con la tua incredibile arguzia e la tua lingua affilata? }
+{171}{}{No... con questo!}
+{172}{}{Contro di te sarebbe troppo facile. Credo che scegliero' il modo piu' difficile.}
+{173}{}{Credo che un proiettile in testa dovrebbe bastare.}
+{174}{MORP26}{ Ecco il tuo accordo. Dimmi quel che sai e potrai andartene da qui con le tue gambe.}
+{175}{}{Vengo da un Vault e vorrei comunicarne la posizione al Master.}
+{176}{}{Vorrei offrirti alcune informazioni sui tuoi nemici.}
+{177}{}{Non credere di farmi paura.}
+{178}{}{Non ti diro' nulla.}
+{179}{MORP27}{ Sono io che faccio le domande, non tu.  Adesso dimmi il motivo per cui ti trovi qui. }
+{180}{}{Mi sono soltanto perso.}
+{181}{}{Sono qui per proporti un accordo.}
+{182}{morp28}{Si'?}
+{183}{}{Salve. Sono nuovo della Cattedrale e mi domandavo se potevo farti qualche domanda.}
+{184}{}{Lasciamo perdere.}
+{185}{}{Nuhhh?}
+{186}{morp29}{Ma certo, figliolo.}
+{187}{}{Thanks...}
+{188}{}{Lasciamo perdere.}
+{189}{}{Quali sono i progetti della Cattedrale?}
+{190}{}{Ho cambiato idea. Basta domande.}
+{191}{}{Cosa faresti se ti dicessi che vengo da un Vault?}
+{192}{MORP31}{ I nostri progetti?  Noi siamo i messaggeri dell'evoluzione, figliolo. Noi seguiamo il Master nella sua sempiterna missione per far rinascere il pianeta e i suoi abitanti.}
+{193}{}{Davvero? Che tipo di evoluzione?}
+{194}{}{Che tipo di rinascita?}
+{195}{MORP32}{ Noi sappiamo che esiste un piano piu' alto, un luogo glorioso a cui l'umanita' dovrebbe aspirare.  Il nostro compito consiste nel cercare una vita migliore e piu' appagante di quella che viviamo oggi, guastata da privazioni e conflitti. }
+{196}{}{Stai scherzando, vero?}
+{197}{}{E questo piano superiore l'avete trovato?}
+{198}{MORP33}{[Adirato]Come osi?!...[Calmo]Ti perdono. Non tutti sono in grado di vedere la luce. Ma dimmi, figliolo, perche' ti sei unito a noi? }
+{199}{}{Volevo sapere se eravate davvero pazzi come mi avevano detto. Adesso lo so.}
+{200}{}{Sono mortificato. Credo proprio di aver esagerato.}
+{201}{morp34}{Non sai proprio nulla.}
+{202}{MORP35}{ Si', e' vero... ma sei perdonato. Ora, se non hai altre domande, avrei del lavoro da fare. }
+{203}{}{Veramente ne avrei ancora un paio.}
+{204}{}{Non ho altre domande, grazie.}
+{205}{MORP36}{ Ma certo. Prego. Continua.}
+{206}{MORP37}{ Si', ma sei stato... perdonato.  Va' in pace, figliolo. }
+{207}{MORP38}{ No... ma con la fede e la speranza, siamo certi di trovarlo. Ma tutto questo dovrebbe esserti noto, figliolo.}
+{208}{}{Lo so, ma ho solo un paio di domande, per favore.}
+{209}{}{Lo so. Addio.}
+{210}{MORP39}{ Per prima cosa forniamo cure per il corpo.  Avrai certamente visto i nostri ospedali. Poi offriamo speranza e cure per lo spirito. }
+{211}{}{Wow. Ci stavo quasi per credere. Sei bravo!}
+{212}{}{Dove si trovano questi ospedali?}
+{213}{MORP40}{ I nostri gloriosi sforzi hanno appena raggiunto Adytum e, naturalmente, l'Hub risplende del nostro impegno. Tuttavia, ho la sensazione che tu voglia chiedermi qualcos'altro. }
+{214}{MORP41}{ Questi sono giorni gloriosi.  Junktown si unisce ad Adytum e all'Hub nella nostra missione di risanamento dei corpi e delle anime. C'e' altro che vorresti sapere, figliolo? }
+{215}{}{Veramente...}
+{216}{}{Nulla. Devo andare.}
+{217}{MORP42}{ La visione della Cattedrale ora si estende da Adytum, dall'Hub, da Junktown e gentilmente carezza Shady Sands. Perche' lo chiedi? }
+{218}{}{Pura curiosita'. Posso farti qualche altra domanda?}
+{219}{}{Niente. Devo andare.}
+{220}{MORP42A}{ Tu sei cosa? }
+{221}{}{Mi hai sentito. Portami dal Master, adesso!}
+{222}{MORP42B}{ Uh, si'. Beh... seguimi, per favore. }
+{223}{MORP42C}{ Oh, figliolo, quel che dici non ha senso. Ti prego, cerca uno dei nostri medici e fatti aiutare. }
+{224}{MORP45}{ Figliolo, rivolgiti a Lasher.  Lui sapra' aiutarti. }
+{225}{MORP46}{ Ho detto... }
+{226}{MORP47}{ Sei sordo?  Ho detto...}
+{227}{MORP48}{ Non mi ripetero' un'altra volta! }
+{228}{MORP49}{ Non ho intenzione di ripetermi! }
+{229}{MORP50}{I Nightkin sono giunti a noi tempo fa. Potranno anche essere dei mostruosi mutanti, ma sono estremamente leali nei confronti della Cattedrale. Come tutti noi, d'altronde.}
+{230}{MORP51}{E' lui che mi ha mostrato la visione dell'Unita' ed e' lui che portera' la pace in queste lande tormentate.}
+{231}{MORP52}{Figliolo, tu dovresti conoscere l'Auditorio.  E' li' che pronuncio i miei sermoni. }
+{232}{MORP53}{Non preoccuparti di quello.  Solo gli Alti Prelati possono accedervi. }
+{233}{MORP54}{Sono soltanto un umile servitore dell'Unita'. }
+{234}{MORP55}{Noi siamo i sacerdoti del grande Dio Oscuro. Tredici di noi hanno ricevuto la benedizione di poter diffondere le sue gloriose parole al resto dei Figli. }
+{235}{MORP56}{Non ho idea di cosa tu stia parlando. }
+{236}{MORP57}{Gli ospedali dei Figli della Cattedrale forniscono le migliori cure possibili in queste terre distrutte e desolate. Questo servizio e' vitale per l'Unita'.}
+{237}{MORP58}{L'Unita' e' la ricerca di un livello superiore di vita, e dell'unione con i nostri fratelli. }
+{238}{MORP59}{E' uno degli Alti Prelati.  Passa quasi tutte le sue giornate immerso negli studi. }
+{239}{MORP60}{Il mio cuore sanguina, pensando a loro.  Hanno intrapreso un falso cammino. Essi non sanno che i loro sforzi porteranno solo dolore e sofferenza ai loro fratelli.}
+{240}{MORP61}{Nicole e' l'infelice e confusa leader dei Discepoli dell'Apocalisse. }
+{241}{MORP62}{Adytum e' la citta' a nordest della Cattedrale. }
+{242}{MORP63}{Non ha importanza. }
+{243}{MORP64}{Non e' nulla. Chiedimi qualcos'altro. }
+{244}{morp65}{Niente di cui preoccuparsi.}
+{245}{}{Master, credo che questo ti piacera'...}
+{500}{}{Guadagni 1000 punti esperienza per aver ucciso il leader dei Figli della Cattedrale.}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+{980}{MORP63}{Non ha importanza. }
+{981}{MORP64}{Non e' nulla. Chiedimi qualcos'altro. }
+{982}{morp65}{Niente di cui preoccuparsi.}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+
+{1000}{}{Nightkin}
+{1001}{}{Master}
+{1002}{}{Auditorio}
+{1003}{}{Sanctum}
+{1004}{}{Morpheus}
+{1005}{}{Ordine}
+{1006}{}{Carovane}
+{1007}{}{Ospedale}
+{1008}{}{Unita'}
+{1009}{}{Lasher}
+{1010}{}{Discepoli}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apocalisse}
+{1014}{}{Mutanti}
+{1015}{}{Holy Flame}
+{1016}{}{Children}
+{1017}{}{Base}
+{1018}{}{Chip}
+
+
+{1100}{MORP50}{I Nightkin sono giunti a noi tempo fa. Potranno anche essere dei mostruosi mutanti, ma sono estremamente leali nei confronti della Cattedrale. Come tutti noi, d'altronde.}
+{1101}{MORP51}{E' lui che mi ha mostrato la visione dell'Unita' ed e' lui che portera' la pace in queste lande tormentate.}
+{1102}{MORP52}{Figliolo, tu dovresti conoscere l'Auditorio.  E' li' che pronuncio i miei sermoni. }
+{1103}{MORP53}{Non preoccuparti di quello.  Solo gli Alti Prelati possono accedervi. }
+{1104}{MORP54}{Non sono altro che un umile servitore dell'Unita'. }
+{1105}{MORP55}{Noi siamo i sacerdoti del grande Dio Oscuro. Tredici di noi hanno ricevuto la benedizione di poter diffondere le sue gloriose parole al resto dei Figli. }
+{1106}{MORP56}{Non ho idea di cosa tu stia parlando. }
+{1107}{MORP57}{Gli ospedali dei Figli della Cattedrale forniscono le migliori cure possibili in queste terre distrutte e desolate. Questo servizio e' vitale per l'Unita'.}
+{1108}{MORP58}{L'Unita' e' la ricerca di un livello superiore di vita, e dell'unione con i nostri fratelli. }
+{1109}{MORP59}{E' uno degli Alti Prelati.  Passa quasi tutte le sue giornate immerso negli studi. }
+{1110}{MORP60}{Il mio cuore sanguina, pensando a loro.  Hanno intrapreso un falso cammino. Essi non sanno che i loro sforzi porteranno solo dolore e sofferenza ai loro fratelli.}
+{1111}{MORP61}{Nicole e' l'infelice e confusa leader dei Discepoli dell'Apocalisse. }
+{1112}{MORP62}{Adytum e' la citta' a nordest della Cattedrale. }
+{1113}{MORP60}{Il mio cuore sanguina, pensando a loro.  Hanno intrapreso un falso cammino. Essi non sanno che i loro sforzi porteranno solo dolore e sofferenza ai loro fratelli.}
+{1114}{MORP50}{I Nightkin sono giunti a noi tempo fa. Potranno anche essere dei mostruosi mutanti, ma sono estremamente leali nei confronti della Cattedrale. Come tutti noi, d'altronde.}
+{1115}{morp65}{Nothing to be concerned with.}
+{1116}{morp65}{Nothing to be concerned with.}
+{1117}{morp65}{Nothing to be concerned with.}
+{1118}{morp65}{Nothing to be concerned with.}

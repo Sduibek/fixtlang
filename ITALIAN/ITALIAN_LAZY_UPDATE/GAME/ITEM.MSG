@@ -1,0 +1,17 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+#
+# Item.c messages
+#
+{1}{}{Hai guadagnato %d %s.}
+{2}{}{Hai perso %d %s.}
+{3}{}{You feel better now.}
+{4}{}{Il tuo cuore ha ceduto a causa di un'overdose.}
+{5}{}{%s non ha piu' colpi.}
+{6}{}{%s e' acceso.}
+{7}{}{%s e' spento.}
+{8}{}{You pass the Geiger counter over your body. It displays: %d rads.}
+{9}{}{Questo oggetto puo' essere usato solo dall'interfaccia.}
+{10}{}{Non accade nulla.}

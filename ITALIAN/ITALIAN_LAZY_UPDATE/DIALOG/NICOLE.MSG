@@ -1,0 +1,282 @@
+{100}{}{Vedi Nicole.}
+{101}{}{Raccontami la storia dei Discepoli.}
+{102}{}{Cosa venerate?}
+{103}{}{Cosa c'e' di bello qui attorno?}
+{104}{}{Ho delle informazioni per te.}
+{105}{Nic_1}{Benvenuto. Ehi! Siamo molto felici che tu ci abbia raggiunto. Speriamo che la nostra umile dimora sia di tuo gradimento.}
+{106}{}{Grazie. Potresti darmi qualche dettaglio sul vostro culto?}
+{107}{}{"Umile" puo' andare, come descrizione. "Schifosa" andrebbe meglio.}
+{108}{}{Oh, si'. Posso farti qualche domanda?}
+{109}{}{Tutto ok, per adesso.}
+{110}{}{Nuhh? Uh, nuh, nuh. Huh?}
+{111}{Nic_2}{Il nostro non e' propriamente un culto; seguiamo semplicemente una serie di principi. Vogliamo riportare la pace in queste lande. Il mondo tende alla distruzione e noi cerchiamo di cambiarlo.}
+{112}{}{Come?}
+{113}{Nic_4}{Cerchiamo di ricordare alla gente i motivi che hanno portato alla Grande Guerra. E cerchiamo di assicurarci che non si ripresentino.}
+{114}{}{E ci state riuscendo?}
+{115}{}{E' un pensiero molto nobile - ma ben poco realistico...}
+{116}{Nic_5}{Non disperiamo. Ne' mai lo faremo, nemmeno in un'epoca come questa, dove le armi la fanno da padrone. Ci preoccupano, pero', i Figli della Cattedrale...}
+{117}{}{Come mai?}
+{118}{Nic_6}{Affermano di desiderare la pace, come noi. Ma chiunque sia in disaccordo con loro sparisce nel nulla. La loro divinita' oscura non e' cio' che sembra, credimi.}
+{119}{}{Come lo sai?}
+{120}{}{Non credi di essere un po' troppo paranoica?}
+{121}{}{"Noi"? E' il pensiero di tutti i Discepoli, o soltanto il tuo?}
+{122}{Nic_7}{Chiamalo istinto. Abbiamo visto Morpheus e i Nightkin e di certo non sembrano dei portatori di pace. I loro ospedali e i messaggi di pace li rendono amati dalla gente, ma noi sappiamo che sotto c'e' del marcio.}
+{123}{}{Non credi di essere un po' troppo paranoica?}
+{124}{}{Avete qualche prova?}
+{125}{}{Beh, se scopro qualcosa vi faccio sapere.}
+{126}{}{"Noi" questo e "noi" quello. Cerchi forse di mettere le tue parole nella bocca di tutti gli altri?}
+{127}{Nic_8}{Forse, ma e' l'unica cosa che ci ha fatto sopravvivere fino ad ora. }
+{128}{Nic_8a}{Noi siamo uniti. Se non lo fossimo, verremmo schiacciati. E scusami se questo ti da' fastidio. }
+{129}{Nic_8b}{C'e' qualcos'altro che vuoi sapere?}
+{130}{}{Si'.}
+{131}{}{No, grazie. Adesso devo andare.}
+{132}{Nic_9}{Chiedi e io ti rispondero' come posso.}
+{133}{Nic_10}{Non abbiamo tempo per le domande dei tipi come te. Il mio assistente ti condurra' all'uscita.}
+{134}{Nic_11}{Ehi! Non mi piace questo atteggiamento, ma ci passero' sopra, se ti penti.}
+{135}{}{L'unica cosa di cui mi pento e' di averti rivolto la parola.}
+{136}{}{Okay, mi dispiace.}
+{137}{Nic_12}{Benissimo. Non abbiamo tempo per farti da babysitter. Vattene.}
+{138}{Nic_13}{Scuse accettate. Ricordati che qui sei un ospite. C'e' altro?}
+{139}{}{Posso farti qualche altra domanda?}
+{140}{}{No, adesso me ne vado.}
+{141}{Nic_14}{Ti auguriamo ogni fortuna per i viaggi che ti attendono. Sei libero di restare nella nostra base per tutto il tempo che vuoi.}
+{142}{Nic_15}{Sappiamo che potrebbe essere migliore. Ma quando ci si sta preparando per una guerra...}
+{143}{}{Una guerra? Contro chi?}
+{144}{Nic_16}{I Figli della Cattedrale. Noi crediamo nella pace sulla terra, ma questa e' una situazione che non possiamo evitare.}
+{145}{}{Cosa vuoi dire? Cos'hanno fatto?}
+{146}{}{Perche' credete nella pace?}
+{147}{Nic_17}{Da quando la Cattedrale ha fatto la sua comparsa, chiunque non condivida la loro visione scompare. Dicono di venire in pace, ma noi sappiamo che non e' cosi'.}
+{148}{}{E come fate a saperlo?}
+{149}{}{E cos'avete intenzione di fare?}
+{150}{}{Da dove saltano fuori i Figli della Cattedrale?}
+{151}{Nic_18}{Tutto cio' che possiamo fare e' prepararci. Ma verra' il giorno in cui saremo costretti a combattere la Cattedrale e la sua Divinita' Oscura.}
+{152}{}{Sembra pericoloso. Se scopro qualcosa ve lo faccio sapere.}
+{153}{}{Ma non avevi detto che eravate dei sostenitori della pace?}
+{154}{Nic_19}{Bene! Qualsiasi informazione potrebbe tornarci utile. C'e' qualcos'altro che vuoi sapere?}
+{155}{}{Si', c'e'.}
+{156}{}{No, grazie.}
+{157}{Nic_20}{Noi *crediamo* nella pace, ma difenderemo questa terra, se saremo costretti. Se questo significa che i Discepoli devono combattere, ebbene, lo faremo.}
+{158}{}{Mi sembra un controsenso.}
+{159}{}{Un comportamento piuttosto ambiguo, no?}
+{160}{}{Okay. Posso farti qualche altra domanda?}
+{161}{Nic_21}{No davvero. Siamo qui per insegnare la pace, ma siamo pronti a difenderci, se necessario. Questo dice il nostro credo.}
+{162}{Nic_21b}{Non capiresti.}
+{163}{}{Hmm, okay. Posso farti qualche altra domanda?}
+{164}{}{D'accordo. Credo che sia giunto il momento di andarmene.}
+{165}{Nic_22}{Sono apparsi piu' o meno insieme a noi, ma nessuno sa da dove siano venuti. Ci sono delle voci secondo le quali il loro capo, Morpheus, faceva parte dei Ripper prima di essere "illuminato" dalla Divinita' Oscura.}
+{166}{}{Ehi, tutti possono cambiare.}
+{167}{}{Non si direbbe un tipo molto amichevole.}
+{168}{}{Credo proprio che andro' a controllare.}
+{169}{Nic_23}{Una descrizione molto generosa. C'e' altro?}
+{170}{}{Si'.}
+{171}{}{No, grazie.}
+{172}{Nic_24}{Fa' molta attenzione. Certo ci piacerebbe sapere cosa accade laggiu'...}
+{173}{}{Posso farti qualche altra domanda?}
+{174}{}{Grazie. Adesso devo andare.}
+{175}{Nic_25}{Abbiamo dato vita a questo gruppo dopo aver constatato che sulla terra i massacri si ripetevano ogni giorno. Sembrava non esserci piu' speranza. E l'uomo non puo' vivere senza speranza.}
+{176}{}{E la offrite voi, la speranza?}
+{177}{}{Dici le stesse cose dei Figli della Cattedrale!}
+{178}{}{Quando avete fondato questo gruppo?}
+{179}{Nic_26}{Ci proviamo. Ci proviamo con tutte le nostre forze. Molti non vogliono ascoltarci, ma qualcuno lo fa.}
+{180}{}{Beh, io *spero* di poterti fare un'altra domanda.}
+{181}{}{Adesso devo proprio andare.}
+{182}{Nic_27}{Sono certa che ti annoieresti ad ascoltare l'intera storia dei Discepoli. Qui dentro ci sono molti libri che contengono le informazioni che cerchi.}
+{183}{}{Posso farti qualche altra domanda?}
+{184}{}{Beh, grazie. Adesso devo andare.}
+{185}{Nic_28}{Le nostre spie hanno visto dei Nightkin entrare e uscire da una stanza laterale della Cattedrale. Di certo contiene qualcosa d'importante.}
+{186}{}{Beh, se scopro qualcosa ti faccio sapere.}
+{187}{}{Posso farti qualche altra domanda?}
+{188}{}{Interessante, ma devo andare.}
+{189}{Nic_29}{Cosa vuoi sapere?}
+{190}{}{Dove sono nati i Discepoli?}
+{191}{}{Chi ne e' stato il fondatore?}
+{192}{}{Quali sono i vostri scopi?}
+{193}{Nic_30}{Lontano verso sud, vicino al Grande Bagliore. Erano giorni difficili, ma riuscimmo a sopravvivere. Decidemmo che la Grande Guerra non avrebbe mai dovuto ripetersi.}
+{194}{}{E quindi hai fondato i Discepoli dell'Apocalisse?}
+{195}{}{Come mai vi siete trasferiti a nord?}
+{196}{Nic_31}{Dopo che i miei genitori sono stati uccisi dai predoni, [sigh] era tempo di metter fine alle violenze. Il nostro scopo e' quello di riportare questa terra all'aspetto di un tempo... a prima della guerra.}
+{197}{}{Mi dispiace che tu abbia perso i genitori.}
+{198}{}{Perche' tutto succeda di nuovo? Che stupidaggine!}
+{199}{}{Chi erano questi predoni?}
+{200}{}{Per quale motivo voi Discepoli vi siete spostati cosi' a nord?}
+{201}{Nic_32}{Non l'abbiamo mai scoperto, anche se abbiamo saputo che un loro gruppo occupa una citta' abbandonata, verso nord. Ma ci abbiamo messo una pietra sopra.}
+{202}{}{E perche'? Potresti vendicarti!}
+{203}{}{Perche' voi Discepoli siete finiti qui a nord?}
+{204}{Nic_33}{Siamo qui per diffondere la pace, non per uccidere in preda all'odio.}
+{205}{}{A me questa sembra fifa.}
+{206}{}{Molto nobile da parte vostra. Se fosse per me li ammazzerei tutti.}
+{207}{}{Perche' vi trovate qui, adesso?}
+{208}{Nic_34}{Non mi sorprende. I Discepoli esistono proprio per cercare di far ragionare la gente come te.}
+{209}{}{Buona fortuna: e' una bella gatta da pelare. E' per questo che siete venuti a nord?}
+{210}{}{E pensate davvero che la violenza non debba mai essere usata?}
+{211}{}{Quindi posso tranquillamente farti qualche altra domanda, no?}
+{212}{}{Beh, devo andare.}
+{213}{Nic_35}{[Sigh] Non sei pronto a capire la differenza. Okay. Perche' non ci pensi su e poi torni qui a parlarne con me?}
+{214}{Nic_36}{Non c'e' piu' molta gente, giu' a sud. Le radiazioni hanno contaminato quasi tutto. Molti dei sopravvissuti ci hanno seguito per dar vita al nostro gruppo.}
+{215}{}{Come ha fatto la tua famiglia a sopravvivere?}
+{216}{}{La radioattivita' e' ancora cosi' elevata? Dopo 80 anni?}
+{217}{Nic_37}{Vivevamo nei pressi del Grande Bagliore. La Malattia comincio' a diffondersi, quindi riunimmo tutte le persone e cominciammo il nostro viaggio verso nord. [Sigh] Fu allora che i miei genitori furono uccisi.}
+{218}{}{Mi dispiace.}
+{219}{}{Come mai quella zona e' ancora radioattiva dopo tutto questo tempo?}
+{220}{Nic_39}{Grazie. C'e' qualcos'altro che volevi chiedermi?}
+{221}{}{Si'.}
+{222}{}{No, devo proprio scappare.}
+{223}{Nic_41}{Beh, pare che laggiu' ci fosse qualcosa di cosi' importante che l'intera zona fu letteralmente tempestata di bombe per fare in modo che ogni cosa fosse spazzata via.}
+{224}{}{Posso farti qualche altra domanda?}
+{225}{}{Interessante, ma adesso devo andare.}
+{226}{Nic_42}{Beh, il Boneyard e' piuttosto desolato, come puoi vedere. Adytum si trova ad sudest. I Figli della Cattedrale a sud. Fa' attenzione quando giri per la citta': i Ripper e i Blade hanno trasformato le strade in un campo di battaglia.}
+{227}{Nic_43}{A proposito di cosa?}
+{228}{}{So cosa si nasconde dietro i Figli della Cattedrale.}
+{229}{}{Quanto sei disposta a pagarmi?}
+{230}{}{Nulla, come non detto.}
+{231}{Nic_44}{Finalmente! Cos'hai scoperto?}
+{232}{}{Adesso il capo della Cattedrale sono io!}
+{233}{}{Morpheus non e' il vero leader della Cattedrale. E' solo una marionetta nelle mani del Master.}
+{234}{}{Conosci i Nightkin?}
+{235}{Nic_45}{Aspetta un... la Divinita' Oscura? Non mi starai per caso dicendo che e' reale!?}
+{236}{}{Oh, e' reale eccome, anche se non e' un dio. E' un mutante che vuole trasformare tutti gli esseri umani in Nightkin.}
+{237}{}{Ebbene si', e' reale! Voi tutti dovreste temere l'onnipotente Divinita' Oscura!}
+{238}{Nic_46}{Cos'hanno a che fare i Nightkin con tutto questo?}
+{239}{}{In realta' sono una razza di super mutanti. E il Master e' il loro capo.}
+{240}{Nic_47}{Che cosa hanno in mente di fare? }
+{241}{}{Il Master vuole trasformare tutti gli esseri umani in Nightkin. Crede di essere superiore e pensa che con questa trasformazione l'umanita' sara' salva!}
+{242}{}{Non ne sono sicuro. So soltanto che il Master trasforma la gente in Nightkin.}
+{243}{Nic_49}{Che cosa dovremmo fare?}
+{244}{}{Andro' a parlare con il Master.}
+{245}{}{Andro' a distruggere la Cattedrale.}
+{246}{}{Ho distrutto il luogo in cui creavano i Super Mutanti, ma ho bisogno di aiuto per prendere la Cattedrale.}
+{247}{Nic_50}{Non possiamo perdere questa occasione. Esplora la Cattedrale. Ci incontreremo laggiu' e ti aiuteremo a prenderne possesso.}
+{248}{}{No, non cosi'. Sai se c'e' qualche passaggio segreto?}
+{249}{}{Okay. Ci troviamo laggiu'.}
+{250}{}{No! Non voglio che altri si facciano del male.}
+{251}{Nic_52a}{No, ma conosco qualcuno che potrebbe aiutarti. Raggiungi la Cattedrale e cerca una donna di nome Laura. Dille "Red Rider". Noi cercheremo di creare un diversivo, se possibile.}
+{252}{}{Grazie. E speriamo che la fortuna ci assista.}
+{253}{Nic_53}{La fortuna non c'entra nulla. Ho fiducia in te.}
+{254}{Nic_56}{Il destino si apre davanti a noi. Auguriamoci d'esserne degni.}
+{255}{Nic_57}{Come? Questo e' il nostro destino. I Discepoli combatteranno questa malvagita' cosi' che il mondo potra' finalmente cominciare a guarire.}
+{256}{}{No. Ve lo impedisco.}
+{257}{}{Okay. Incontriamoci alla Cattedrale.}
+{258}{Nic_58}{[Ridacchia] Non sei tu il nostro capo. Noi attaccheremo, con o senza la tua benedizione!}
+{259}{Nic_59}{Parlare con lui?! Sei pazzo?}
+{260}{}{Ma non siete voi che professate la pace?}
+{261}{}{No... e non puoi fermarmi.}
+{262}{Nic_60}{Beh, si', ma...}
+{263}{}{Credo di poter metter fine a tutto questo senza spargimenti di sangue. State pronti, comunque, nel caso dovessi fallire.}
+{264}{Nic_61a}{Chiaramente hai preso la tua decisione. Questo potrebbe aiutarti: raggiungi la Cattedrale e cerca una ragazza di nome Laura. Dille la frase "Red Rider". E, ti prego... torna sano e salvo.}
+{265}{Nic_63}{Hai uno strano senso dell'umorismo. Perche' non torni quando avrai qualcosa di serio da dire?}
+{266}{}{Mi dispiace, era solo uno scherzo. Ha a che fare con i Nightkin.}
+{267}{Nic_65a}{E cosi' sei un mercenario... Bene, ti daro' 100 tappi. }
+{268}{Nic_66b}{Cos'hai da dirmi?}
+{269}{}{So che qualcuno stava cercando di spillarti dei quattrini. E pare che ci sia riuscito, grazie.}
+{270}{}{Morpheus non e' il vero leader della Cattedrale. E' solo una marionetta nelle mani del Master.}
+{271}{}{Conosci i Nightkin?}
+{272}{}{La Cattedrale e' guidata da alieni spaziali.}
+{273}{Nic_67}{Buona fortuna. Adesso dobbiamo valutare le nostre opzioni.}
+{274}{Nic_68}{Che nobilta', che affidabilita'. E noi che credevamo tu fossi diverso. Prendi i tuoi soldi e vattene.}
+{275}{Nic_69}{Ehila'. Come posso aiutarti?}
+{276}{}{Devo farti qualche domanda.}
+{277}{}{Scusa, devo andare.}
+{278}{}{Nuh, nuh, uh?}
+{279}{Nic_70}{Che cosa vuoi?}
+{280}{}{Volevo solo dirti che mi dispiace.}
+{281}{}{Volevo rivederti.}
+{282}{Nic_70a}{Vattene!}
+{283}{Nic_71}{Scuse accettate. Come posso aiutarti?}
+{284}{}{Posso farti qualche altra domanda?}
+{285}{}{E' tutto, per adesso. Devo andare.}
+# 286 changed with patch 1.3 from TeamX
+# was "286 Nic_72 Please, we're busy. Don't you have things to do?"
+{286}{}{Siamo occupati! Non hai nient'altro da fare?}
+{287}{Nic_74}{Cosa stai facendo? Metti giu'!}
+{288}{Nic_75}{Fermo!}
+{289}{Nic_76}{Basta!}
+{290}{Nic_77}{Ehi! Fuori di qui!}
+{291}{Nic_78}{Beh, se lo dici tu... Adesso vattene: abbiamo del lavoro da fare.}
+{292}{Nic_79}{Parla con Jake. Ne sa piu' di me.}
+{293}{Nic_80}{Come ho detto...}
+{294}{Nic_81}{Come ti ho gia' detto...}
+{295}{Nic_82}{Ho detto...}
+{296}{Nic_83}{Beh, come ho detto...}
+{297}{Nic_84}{Ehi! Sei scemo?}
+{298}{Nic_85}{Te l'ho detto un sacco di volte. Forse dovresti lavorare un po' sulla tua memoria.}
+{299}{Nic_86}{Morpheus e' il leader dei Figli della Cattedrale. E' malvagio e bisogna farlo sapere a tutti.}
+{300}{Nic_87}{Non c'e' molto da dire.}
+{301}{Nic_87a}{Laura e' una dei nostri infiltrati nella Cattedrale. E' assolutamente fedele alla nostra causa.}
+{302}{Nic_87b}{Jake e' il mio secondo in comando.}
+{303}{Nic_88}{Qui troverai testi storici e filosofici... praticamente di tutto. Da' pure un'occhiata in giro.}
+{304}{Nic_89}{I Figli della Cattedrale lo venerano. Dicono che voglia soltanto guarire l'umanita', ma e' una bugia.}
+{305}{Nic_90}{Non so quasi nulla di lui.}
+{306}{Nic_91}{Sono i servitori personali di Morpheus. Sono creature enormi e massicce. Ugh!}
+{307}{Nic_92}{Di certo avrai visto i loro ospedali, in giro. Professano la pace, ma c'e' qualcosa di strano in loro. Dobbiamo scoprire di che si tratta.}
+{308}{Nic_93}{E' un piccolo insediamento. Lo troverai nella zona est del Boneyard.}
+{309}{Nic_94}{Prima della Grande Guerra, questa era una citta' enorme e vitale. Mia madre mi raccontava delle storie, ma adesso non e' rimasto quasi piu' nulla. Solo rovine e morte.}
+{310}{Nic_95}{Sono in guerra con i Blade. I Ripper sono la banda piu' violenta del Boneyard. Quando mandammo qualcuno per convertirli, l'unica cosa che torno' furono le teste dei nostri compagni.}
+{311}{Nic_96}{I Blade sono in guerra con i Ripper. Tra le due bande, e' quella piu' disponibile, anche se non molto. Comunque siamo riusciti a convertire alcuni dei loro membri.}
+{312}{Nic_97}{La nostra storia si trova nell'ultimo scaffale, ripiano superiore.}
+{313}{Nic_98}{Tutto era bruciato, tutto era distrutto. Cerchiamo di insegnare la pace alla gente, perche' una cosa del genere non si verifichi mai piu'.}
+{314}{Nic_99}{E' una citta' di mercanti, su a nord. Stiamo cercando di stringere un accordo con loro.}
+{315}{Nic_100}{Non sappiamo cosa pensare. Loro vendono armi, noi vendiamo pace. Ma le loro motivazioni...}
+{316}{Nic_101}{Non ne sappiamo nulla.}
+{317}{Nic_102}{Non ne abbiamo mai sentito parlare.}
+{318}{Nic_103}{Non sappiamo di cosa tu stia parlando.}
+{319}{}{Cos'altro sai sui Figli della Cattedrale?}
+{320}{}{Posso farti qualche altra domanda su di loro?}
+{321}{}{Posso chiederti qualcos'altro?}
+{322}{}{Sai chi e' il loro capo?}
+{323}{}{Hai qualche sospetto su di loro?}
+{324}{}{Potete aiutarmi a distruggerli?}
+{325}{}{Grazie. Avro' bisogno di tutto l'aiuto che potrete darmi!}
+{326}{}{Grazie per le informazioni. Adesso devo andare.}
+
+
+# Nicole Tell-Me-Abouts generic responses
+{980}{Nic_101}{Non ne sappiamo nulla.}
+{981}{Nic_102}{Non ne abbiamo mai sentito parlare.}
+{982}{Nic_103}{Non sappiamo di cosa tu stia parlando.}
+
+
+#
+# Nicole Tell-Me-Abouts
+#
+
+
+{1000}{}{Morpheus}
+{1001}{}{Nicole}
+{1002}{}{Laura}
+{1003}{}{Jake}
+{1004}{}{Biblioteca}
+{1005}{}{Divinita'}
+{1006}{}{Master}
+{1007}{}{Nightkin}
+{1008}{}{Cattedrale}
+{1009}{}{Adytum}
+{1010}{}{Angel's}
+{1011}{}{Discepoli}
+{1012}{}{Guerra}
+{1013}{}{Hub}
+{1014}{}{Confraternita}
+{1015}{}{Angels}
+{1016}{}{Boneyard}
+{1017}{}{Acciaio}
+
+{1100}{Nic_86}{Morpheus e' il leader dei Figli della Cattedrale. E' malvagio e bisogna farlo sapere a tutti.}
+{1101}{Nic_87}{Non c'e' molto da dire.}
+{1102}{Nic_87a}{Laura e' una dei nostri infiltrati nella Cattedrale. E' assolutamente fedele alla nostra causa..}
+{1103}{Nic_87b}{Jake e' il mio secondo in comando.}
+{1104}{Nic_88}{Qui troverai testi storici e filosofici... praticamente di tutto. Da' pure un'occhiata in giro.}
+{1105}{Nic_89}{I Figli della Cattedrale lo venerano. Dicono che voglia soltanto guarire l'umanita', ma e' una bugia.}
+{1106}{Nic_90}{Non so quasi nulla di lui.}
+{1107}{Nic_91}{Sono i servitori personali di Morpheus. Sono creature enormi e massicce. Ugh!}
+{1108}{Nic_92}{Di certo avrai visto i loro ospedali, in giro. Professano la pace, ma c'e' qualcosa di strano in loro. Dobbiamo scoprire di che si tratta.}
+{1109}{Nic_93}{E' un piccolo insediamento. Lo troverai nella zona est del Boneyard.}
+{1110}{Nic_94}{Prima della Grande Guerra, questa era una citta' enorme e vitale. Mia madre mi raccontava delle storie, ma adesso non e' rimasto quasi piu' nulla. Solo rovine e morte.}
+{1111}{Nic_97}{La nostra storia si trova nell'ultimo scaffale, ripiano superiore.}
+{1112}{Nic_98}{Tutto era bruciato, tutto era distrutto. Cerchiamo di insegnare la pace alla gente, perche' una cosa del genere non si verifichi mai piu'.}
+{1113}{Nic_99}{E' una citta' di mercanti, su a nord. Stiamo cercando di stringere un accordo con loro.}
+{1114}{Nic_100}{Non sappiamo cosa pensare di loro. Loro vendono armi, noi vendiamo pace. Ma le loro motivazioni...}
+{1115}{Nic_94}{Prima della Grande Guerra, questa era una citta' enorme e vitale. Mia madre mi raccontava delle storie, ma adesso non e' rimasto quasi piu' nulla. Solo rovine e morte.}
+{1116}{Nic_94}{Prima della Grande Guerra, questa era una citta' enorme e vitale. Mia madre mi raccontava delle storie, ma adesso non e' rimasto quasi piu' nulla. Solo rovine e morte.}
+{1117}{Nic_100}{Non sappiamo cosa pensare di loro. Loro vendono armi, noi vendiamo pace. Ma le loro motivazioni...}
+{1118}{Nic_101}{Non ne sappiamo nulla.}
+{1119}{Nic_102}{Non ne abbiamo mai sentito parlare.}
+{1120}{Nic_103}{Non sappiamo di cosa tu stia parlando.}

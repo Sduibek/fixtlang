@@ -1,0 +1,46 @@
+{100}{}{Vedi un uomo forte e robusto, con la barba folta.}
+{101}{}{Vedi MacRae.}
+{102}{}{Salve, ragazzo, che cosa vuoi?}
+{103}{}{Salve, ragazza, che cosa vuoi?}
+{104}{}{Oi, cos'altro vorresti sapere?}
+{105}{}{Chi sei?}
+{106}{}{Che cosa puoi dirmi dei Blade?}
+{107}{}{Niente, grazie.}
+{108}{}{Beh, io sono MacRae. Di tanto in tanto aiuto i Blade contro i Deathclaw e i Regolatori. Insegno loro a difendersi da quei brutti ceffi.}
+{109}{}{Che tipo di cose insegni?}
+{110}{}{Hai visto i Deathclaw?}
+{111}{}{Cosa mi sai dire dei Regolatori?}
+{112}{}{Posso farti qualche altra domanda?}
+{113}{}{Beh, la mia specialita' e' combattere a mani nude, e incassare un pugno o due in piu' di chi me li tira.}
+{114}{}{Che idiozia... io preferisco usare una bella pistola.}
+{115}{}{Credi di potermi insegnare qualcosa?}
+{116}{}{Posso farti qualche altra domanda?}
+{117}{}{Beh, se la pensi cosi', puoi anche alzare i tacchi e andartene.}
+{118}{}{Mi sembri una persona a posto, ma il mio tempo basta appena per insegnare ai Blade. Se la situazione dovesse tranquillizzarsi, magari potrei aiutarti.}
+{119}{}{D'accordo. Posso chiederti qualcos'altro?}
+{120}{}{Grazie.}
+{121}{}{Direi di si'. E sono scappato come un razzo. Se li cerchi, li puoi trovare laggiu'. [MacRae indica un punto ad est]}
+{122}{}{Credevo che i Deathclaw fossero figli illegittimi del demonio, ma i Regolatori sono davvero malvagi. Ogni mese circa, mostrano i loro brutti musi da queste parti e trascinano un padre lontano dai suoi piccoli.}
+{123}{}{Posso fare qualcosa?}
+{124}{}{Che brutta storia. Posso farti qualche altra domanda?}
+{125}{}{Grazie dell'informazione.}
+{126}{}{Puoi provare a parlare con Razor. Una delle poche ragazze in gamba che conosco.}
+{127}{}{I Blade sono un gruppo di brave persone. Essere bloccati qui, tra i dannati Regolatori e i Deathclaw, non e' certo un sogno, ma sopravvivono.}
+{128}{}{[MacRae ti da' una pacca sulla spalla] Grazie a te, i Blade potranno vivere una vita migliore. Allora: cosa puo' fare per te, questo vecchio Scozzese?}
+{129}{}{Prima mi dicevi che se avessi avuto un po' di tempo, mi avresti insegnato un paio di trucchetti.}
+{130}{}{Come vanno le cose, ultimamente?}
+{131}{}{Di cosa ti occupi?}
+{132}{}{Non c'e' di che.}
+{133}{}{Beh, la situazione si e' fatta piu' tranquilla da quando i Blade hanno aiutato Adytum a sbarazzarsi dei Regolatori. I miei insegnamenti non sono piu' richiesti come un tempo.}
+{134}{}{Che cosa insegni?}
+{135}{}{Mi dispiace... ma non e' detto che le acque non possano tornare agitate, no?}
+{136}{}{Potresti insegnare qualche trucchetto anche a me?}
+{137}{}{Interessante... ma devo andare.}
+{138}{}{Beh, credo di avere un po' di tempo da dedicarti. Possiamo cominciare anche subito. [MacRae ti mostra qualche mossa e il modo di prender pugni come un vero Scozzese.]}
+{139}{}{Impari in fretta. Spero che i miei insegnamenti ti aiutino nei tuoi viaggi.}
+{140}{}{Beh, fino a poco tempo fa aiutavo i Blade insegnando loro qualche trucchetto per difendersi dai Deathclaw e dai Regolatori. Adesso che hai risolto il problema, la vita si e' fatta un po' piu' noiosa.}
+{141}{}{E' un piacere rivederti.}
+#
+##Sduibek, Fallout Fixt:
+#
+{200}{}{You earn 250 experience for learning to brawl like a Scotsman.}

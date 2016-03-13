@@ -1,0 +1,112 @@
+{100}{}{Vedi un viaggiatore stanco.}
+{101}{}{Vedi Lance, una delle guardie che fanno parte delle pattuglie piu' esterne di Shady Sands.}
+{102}{}{Sta' fermo dove sei. A Shady Sands ho sentito parlare di te e non voglio aver nulla a che fare con un poco di buono come te.}
+{103}{}{Io invece vorrei avere tutto quello che porti con te.}
+{104}{}{Vengo in pace, amico.}
+{105}{}{Ehi, ma non sai che ho salvato Tandi e ho ucciso tutti i vostri radscorpioni?}
+{106}{}{Non ho problemi con Shady Sands. E' un bel villaggio.}
+{107}{}{Herung?}
+{108}{}{Ho sentito parlare di te... e non ti permettero' di uccidermi.}
+{109}{}{Non ho nulla da dirti.}
+{110}{}{Si'? Cosa vuoi stavolta?}
+{111}{}{Sai dove potrei trovare un water chip?}
+{112}{}{Notizie di Tandi?}
+{113}{}{Avete avuto problemi con i predoni, ultimamente?}
+{114}{}{Cosa mi dici di Shady Sands?}
+{115}{}{Hnng!}
+{116}{}{Salve, straniero. Che cosa ti conduce nelle lande? Da dove vieni?}
+{117}{}{Potrei farti la stessa domanda.}
+{118}{}{Mi dispiace, amico, ma mi sembra che queste siano domande piuttosto pericolose.}
+{119}{}{Mi sapresti indicare un posto dove comprare un po' di provviste?}
+{120}{}{Vengo da un Vault. Il Fortunatissimo Vault 13!}
+{121}{}{Waaah?}
+{122}{}{Salve, straniero. Ti consiglio di girare al largo, se ci tieni alla pelle.}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+{123}{}{Salve, }
+{124}{}{. Credevo che fossi nostro amico, dal momento che hai salvato Tandi. Eppure ho sentito brutte cose sul tuo conto. Sono vere?}
+{125}{}{La gente dice un sacco di cose. Perche' farci caso?}
+{126}{}{Non sono tuo amico. E se provi a fare una mossa sbagliata, ti faccio sputare le budella. Sono stato chiaro?}
+{127}{}{Che tipo di cose?}
+{128}{}{Si'. Sono tutte vere. Adesso svuotati le tasche, cosi' posso vedere cos'hai di interessante.}
+{129}{}{Puo' darsi che io abbia fatto un paio di cose di cui mi pento, ma dovresti cercare di non credere a tutte le puttanate che si sentono in giro.}
+{130}{}{. Sono felice che sia tu e non un predone! Come va? Io sono Lance, una delle guardie di Shady Sands. Ci dispiace di averti trattato un po' male, la prima volta che hai messo piede nel nostro villaggio!}
+{131}{}{Ciao, Lance, come va?}
+{132}{}{Ciao, Lance. Una volta ero una brava persona, poi la mia vita e' diventata un inferno. Svuotati le tasche e dammi tutto quel che hai.}
+{133}{}{Non c'e' problema, Lance. Che cosa ci fai qui, tutto solo?}
+{134}{}{Bene. Ma me lo ricordero'.}
+{135}{}{Va' al diavolo.}
+{136}{}{Risparmiami queste inutili minacce, ragazzo. I mocciosi come te li ammazzo anche nel sonno. Dammi tutto quel che hai e potrei anche decidere di lasciarti in vita.}
+{137}{}{Se credi che io sia una minaccia, accomodati: ammazzami pure.}
+{138}{}{Facciamola, questa mossa sbagliata. Ho sempre desiderato vedere di che colore sono le mie budella.}
+{139}{}{Il passato e' passato. Ma cosa hai fatto per noi, ultimamente? Credo che faresti meglio ad andartene prima che io perda la pazienza.}
+{140}{}{Anche a me piace. Specialmente quando non ci sei tu. Adesso smamma!}
+{141}{}{Amico, il sole delle lande deve averti proprio fatto male!}
+{142}{}{Non so cosa sia, un water chip. Mi dispiace.}
+{143}{}{E' un dispositivo elettronico usato nei sistemi di purificazione dell'acqua.}
+{144}{}{Come va il vostro problema con i radscorpioni?}
+{145}{}{I predoni l'hanno rapita. Io faccio parte di uno dei gruppi di ricerca. Credo che si trovi nell'accampamento che si trova a sud di Shady Sands, ma i Khan l'hanno fortificato come fosse una fortezza.}
+{146}{}{Puoi portarmi a Shady Sands?}
+{147}{}{Puoi portarmi dai Khan?}
+{148}{}{Dobbiamo trovare un modo per liberarla.}
+{149}{}{Grazie dell'informazione. In bocca al lupo per la ricerca.}
+{150}{}{Eh, si'... ma le cose vanno un pochino meglio da quando i Khan hanno subito quella batosta. So che dobbiamo ringraziare te, per questo. Ti siamo davvero riconoscenti.}
+{151}{}{Non mi dispiacerebbe ricevere anche un segno tangibile di questa gratitudine.}
+{152}{}{Grazie. C'e' qualcos'altro che posso fare?}
+{153}{}{Mandatemi a chiamare se vi danno ancora problemi.}
+{154}{}{Ce la caviamo.}
+{155}{}{Sei sicuro?}
+{156}{}{Splendido.}
+{157}{}{Non ne ho idea. Idiota.}
+{158}{}{Okay, mi voglio fidare. Io vengo da Shady Sands. Siamo una piccola comunita' situata a poca distanza da qui.}
+{159}{}{Puoi portarmi laggiu'?}
+{160}{}{Com'e' il vostro villaggio?}
+{161}{}{Avete dei water chip, laggiu'?}
+{162}{}{Si direbbe un bel posto.}
+{163}{}{Beh, tieniti pure i tuoi segreti; io mi terro' i miei. Addio.}
+{164}{}{Forse. E' un peccato, pero'.}
+{165}{}{Sono stato a Junktown. Mi pare sia a sudovest di qui, ma ho viaggiato per cosi' tanti giorni che non saprei essere piu' preciso.}
+{166}{}{Si', certo. Tutti i Vault sono andati distrutti, per quel che ne so. Raccontane un'altra.}
+{167}{}{Non e' quello che ti avevo chiesto... bah, lasciamo perdere!}
+{168}{}{Questa non e' una risposta. Ti chiamano assassino, ladro, profanatore di tombe. Si dice in giro che tu ammazzi chiunque ti passi davanti. E' vero?}
+{169}{}{Beh, non ti ho ancora ucciso, mi pare... quindi qualcuno deve mentire per forza.}
+{170}{}{Direi di si'. Diciamo che mi sono divertito.}
+{171}{}{Mi sono fatto i miei nemici. Quelli che sono rimasti in vita sono ancora abbastanza numerosi da avere qualche possibilita' di uccidermi.}
+{172}{}{Si', ho ucciso un discreto numero di persone. Ma avevo sempre una buona ragione.}
+{173}{}{Ti chiamano assassino, ladro, profanatore di tombe. Si dice in giro che tu ammazzi chiunque ti passi davanti. E' vero?}
+{174}{}{Okay, lo faro'. Ma se continui a comportarti come un predone, da predone ci morirai anche.}
+{175}{}{Ti daro' il beneficio del dubbio, per adesso. Ma un uomo e' rispettato solo per la sua reputazione, e la tua avrebbe bisogno di essere rimessa in sesto. Spero che tu riesca a risolvere la cosa prima che ci incontriamo di nuovo.}
+{176}{}{Sto tornando al villaggio. Vuoi venire con me? Un po' di compagnia mi farebbe piacere.}
+{177}{}{Certo.}
+{178}{}{Non oggi.}
+{179}{}{Recupero cose abbandonate. Abbiamo trovato un paio di accampamenti abbandonati che non erano stati ripuliti del tutto. Credo che i gruppi di predoni che li occupavano si siano attaccati ed eliminati a vicenda. Medicinali e munizioni ci fanno sempre comodo, non importa se siamo costretti a recuperarli cosi'.}
+{180}{}{Credo che me ne pentiro'.}
+{181}{}{Sparisci prima che passi alle maniere forti.}
+{182}{}{Se ne vede ancora qualcuno, in giro; probabilmente migrano dalle regioni piu' interne del deserto, oppure da sud. Ma le cose vanno molto meglio rispetto all'anno scorso. E tutto grazie a te.}
+{183}{}{Bene. Ci vediamo.}
+{184}{}{Certo. Andiamo.}
+{185}{}{Cavoli, devo essere impazzito. Ma ti ci portero'. Andiamo.}
+{186}{}{Buon suicidio, amico mio. E, per quel che puo' valere, in bocca a lupo.}
+{187}{}{Io me ne vado. Fa' attenzione.}
+{188}{}{Beh, non ho molto, ma quel che e' mio e' tuo.}
+{189}{}{Non credo. Io adesso me ne vado. Guardati le spalle.}
+{190}{}{Lo faremo. Io adesso me ne vado. Guardati le spalle.}
+{191}{}{Beh, okay. Andiamo.}
+{192}{}{Non condurro' al villaggio un possibile nemico. Se riesci ad arrivare a Shady Sands, vedi di non causarci problemi.}
+{193}{}{E' un piccolo villaggio. Viviamo allevando i brahmin. La terra e' molto arida, da queste parti, e i pascoli sono un bene prezioso.}
+{194}{}{In un villaggio sperduto di contadini? Devi essere pazzo! Probabilmente non c'e' un solo dispositivo elettronico funzionante nel raggio di duecento miglia.}
+{195}{}{Non hai tutti i torti. Credo che dovremmo rimanere calmi e andarcene ognuno per la sua strada. Se fossi in te, io farei qualcosa per quelle voci. A meno che non ti faccia piacere essere odiato e malvisto dagli altri.}
+{196}{}{Dovrei ucciderti subito... ma non lo faro'. Prova a metterti di nuovo sulla mia strada e non saro' cosi' generoso. Adesso sparisci.}
+{197}{}{Andiamo.}
+{198}{}{Fammi indovinare, qualcuno ti ha detto che russo. Pazienza. Stammi bene.}
+{199}{}{Si'. Beh, io me ne vado. Guardati le spalle.}
+{200}{}{Sta' fermo dove sei. Non so se sei in combutta con quei mutanti, ma se lo sei, ti ammazzo.}
+{201}{}{Quali mutanti?}
+{202}{}{Chi sei?}
+{203}{}{Che cosa ti e' successo?}
+{204}{}{Okay.}
+{205}{}{Ru-huh?}
+{206}{}{I mutanti hanno invaso Shady Sands. Molti di noi sono morti. Temo che sia solo questione di tempo prima che sterminino anche i pochi sopravvissuti.}
+{207}{}{Cosa vuoi che me ne freghi di quello che dici e di quello che chiedi? Siamo tutti morti! Tutti! E io che credevo che i predoni e i radscorpioni fossero pericolosi... non erano nulla! Ah! Ah ah ah!}
+{208}{}{Taci! Non ho voglia di parlare! Parlare non serve a nulla! Parlare e' una perdita di tempo...}

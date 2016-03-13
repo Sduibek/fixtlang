@@ -1,0 +1,62 @@
+{100}{}{Spiacente, niente boxe per oggi.}
+{101}{}{Hnn.}
+{102}{}{Uk, okay.}
+{103}{}{Quando sara' il prossimo incontro?}
+{104}{}{Potresti cercare di farti ingaggiare da Gizmo. E' sempre in cerca di carne fresca da mandare sul ring.}
+{105}{}{Prova domani. Ci sara' un incontro tra Saul e uno sparring partner.}
+{106}{}{Ne hai appena perso uno. Riprova tra un paio di giorni. Saul combatte ogni tre giorni.}
+{107}{}{Grazie.}
+{108}{}{Chi e' Saul?}
+{109}{}{Saul e' il campione locale, nonche' l'attuale pupillo di Gizmo.}
+{110}{}{Ehila'. Niente boxe, per oggi.}
+{111}{}{ Riprova domani.}
+{112}{}{ Riprova dopodomani.}
+{113}{}{Ehila'! Vuoi scommettere sull'incontro?}
+{114}{}{Ho cose migliori da fare con i miei soldi. Addio.}
+{115}{}{Come sono le quote?}
+{116}{}{No, grazie. Ti dispiace se ti faccio un paio di domande?}
+{117}{}{}
+{118}{}{Spiacente, ma l'incontro di oggi e' gia' finito.}
+{119}{}{Oh. Beh, come non detto, allora.}
+{120}{}{Su chi vuoi puntare: su Saul o sullo sfidante? Le quote danno Saul vincente. Ogni puntata cosa 25 testoni; se punti su Saul e vinci, ti becchi 50 testoni. Se invece azzecchi la puntata sullo sfidante vinci 100 testoni!}
+{121}{}{Scommettero' su Saul.}
+{122}{}{Scommettero' sullo sfidante.}
+{123}{}{D'accordo.}
+{124}{}{Chi e' il campione?}
+{125}{}{Chi organizza questi incontri?}
+{126}{}{Uhm, lasciamo perdere.}
+{127}{}{Mi spiace, ma non ho tempo. Magari un'altra volta.}
+{128}{}{Saul, il pugno piu' rapido di Junktown! E' una meraviglia ricoperta di muscoli! Un picchiatore ricolmo d'energia! }
+{129}{}{E ha un aspetto niente male.}
+{130}{}{Um, certo. E chi organizza questi incontri?}
+{131}{}{Grazie. Ci si vede.}
+{132}{}{Gizmo, il proprietario del casino', e' lo sponsor di Saul. Talvolta gli piace assistere ad uno o due incontri, ma quello che gli interessa sono i soldi - la gente adora puntare su questi incontri. E nessuno rimane ucciso, al contrario di quanto avviene negli incontri all'ultimo sangue che si tengono all'Hub.}
+{133}{}{Incontri all'ultimo sangue?}
+{134}{}{Grazie.}
+{135}{}{Beh, e' soltanto una voce. Ma pare che ci sia un circolo clandestino di boxe dove si puo' pagare per vedere dei combattenti in una sfida all'ultimo sangue. Io pero' non amo quel genere di boxe.}
+{136}{}{Hmm. Grazie.}
+{137}{}{Ehi, che stai facendo?}
+{138}{}{Uh, niente.}
+{139}{}{Stai cercando la rissa, sfigato?}
+{140}{}{Sei pregato di smetterla.}
+{141}{}{Uh, no. Come non detto. Fa' finta che non abbia fiatato.}
+{142}{}{Bene, bene... pare proprio che tu abbia vinto! Ecco i tuoi soldi.}
+{143}{}{Fatti vivo solo quando avrai abbastanza soldi per fare una puntata!}
+{144}{}{Vuoi aspettare qui fino alle 2:00, quando comincera' l'incontro?}
+{145}{}{Certo, e che diamine!}
+{146}{}{Nah, ho delle cose da fare. Torno dopo.}
+{147}{}{Okay, ma se perdi l'incontro, perdi anche la tua puntata!}
+{148}{}{Che l'incontro abbia inizio!}
+{149}{}{Quando l'incontro e' in corso, sei pregato di non disturbarmi.}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{150}{}{Beh, non si puo' vincere sempre, amico mio. Sarai piu' fortunato la prossima volta.}
+{151}{}{Beh, non si puo' vincere sempre, amica mia. Sarai piu' fortunata la prossima volta.}
+
+{152}{}{Spiacente. Puoi fare solo una puntata per incontro.}

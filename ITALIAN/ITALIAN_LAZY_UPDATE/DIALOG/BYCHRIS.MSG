@@ -1,0 +1,30 @@
+{100}{}{Vedi una bellissima ragazza.}
+{101}{}{Vedi Christine, la moglie di Michael.}
+{102}{}{Salve? Posso aiutarti?}
+{103}{}{Chi sei?}
+{104}{}{Chi e' che comanda, qui?}
+{105}{}{Puoi parlarmi un po' di questo posto?}
+{106}{}{No, grazie.}
+{107}{}{Tu mia mammina?}
+{108}{}{Mi chiamo Christine; vivo qui con Michael, mio marito. Altro?}
+{109}{}{Razor si occupa di un po' di tutto, insieme agli altri Blade; adesso ci stanno aiutando ad ambientarci. Altro?}
+{110}{}{Michael ed io ci siamo appena trasferiti, per cui non ho avuto modo di vedere molto. Mi hanno detto che a sud dovrebbe esserci una grande chiesa, ma mi sembrano solo delle chiacchiere. Altro?}
+{111}{}{C'e' altro che dovrei sapere?}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks.
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks!
+#
+{112}{}{C D E D B D Ducks}
+{113}{}{M R Not Ducks}
+{114}{}{O S M R                                                                   C D E D B D Wings}
+{115}{}{Y I B M R Ducks}
+
+{116}{}{Posso aiutarti in altro modo?}
+{117}{}{No, non sono la tua mamma. Adesso va' a giocare.}

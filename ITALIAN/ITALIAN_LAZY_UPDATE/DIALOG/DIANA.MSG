@@ -1,0 +1,26 @@
+{100}{}{You see a desert raider with a pleasant smile and an odd assortment of tools.}
+{101}{}{Sono Diana. Posso esserti utile?}
+{102}{}{Sto cercando una ragazza di nome Tandi. L'hai vista?}
+{103}{}{Non serve, grazie.}
+{104}{}{Che ne diresti di un appuntamento galante?}
+{105}{}{Di cosa ti occupi?}
+{106}{}{Cosa puoi dirmi di questo accampamento?}
+{107}{}{Eurrreh?}
+{108}{}{Se proviene da Shady Sands, forse faresti meglio a cercarla laggiu'. Io qui ci lavoro e basta.}
+{109}{}{Oh. Beh, grazie lo stesso.}
+{110}{}{Potresti riparare il mio equipaggiamento?}
+{111}{}{Come puoi ben vedere, adesso sono troppo occupata per accettare altri lavori.}
+{112}{}{Garl mi ha ordinato di riparare l'equipaggiamento dei suoi uomini. Non ho tempo per riparare anche quello del primo straniero che si fa vivo. Mi spiace.}
+{113}{}{Sono il fabbro di questo accampamento. Sono l'unica in possesso dell'abilita' necessaria per riparare e curare la manutenzione delle armi e delle armature degli uomini di Garl.}
+{114}{}{Potresti riparare il mio equipaggiamento?}
+{115}{}{Cosa puoi dirmi di questo accampamento?}
+{116}{}{Il capo e' Garl, la "Mano della Morte". E' un leader senza paura e senza rimorsi. Ed e' lui che fa in modo che tutti noi possiamo sopravvivere alle dure condizioni della vita nel deserto.}
+{117}{}{Sto cercando una ragazza di nome Tandi. L'hai vista?}
+{118}{}{Potresti riparare il mio equipaggiamento?}
+{119}{}{Adesso sono occupata. Vattene da qualche altra parte.}
+{120}{}{Tu sei il nuovo amico di Garl, eh? Serve aiuto?}
+{121}{}{Hmm. Il tuo equipaggiamento mi sembra a posto. Ho cose piu' importanti da fare.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Diana, the Khans' resident armorer.}

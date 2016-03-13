@@ -1,0 +1,63 @@
+{100}{}{Vedi un Capo Mercante}
+{101}{}{Arrestate questo ladro!}
+{102}{}{...non mi interessa quello che dicono. Abbiamo bisogno di quei pezzi di ricambio... Oh, si'. Scusa. Cosa posso fare per te?}
+{103}{}{Vorrei un lavoro.}
+{104}{}{Avete un water chip?}
+{105}{}{Niente. Arrivederci.}
+{106}{}{Shek.}
+{107}{}{Certo, ottimo. Sei assunto. Aspetta. Quale incarico? Ah, guardia per le carovane, vero? Si', certo. Puoi lavorare per noi. Mi sembri a posto. Altro?}
+{108}{}{No.}
+{109}{}{Si'. Avete un water chip?}
+{110}{}{Veh?}
+{111}{}{Non ho tempo per le sciocchezze!}
+{112}{}{Water chip... hmm. Oh, quei vecchi chip di controllo per la purificazione dell'acqua dei Vault. Beh, mi sento di parlare a nome dell'intera citta' quando ti dico che non ne troverai uno, qui. Senza le apparecchiature necessarie sono perfettamente inutili. Solo un Vault potrebbe farsene qualcosa... o forse anche Necropolis. Perche' me lo chiedi?}
+{113}{}{Necropolis? E per quale motivo?}
+{114}{}{Il chip del mio Vault si e' rotto e ne sto cercando uno di ricambio.}
+{115}{}{Pura curiosita'.}
+{116}{}{Non posso dirlo.}
+{117}{}{Davvero? Beh, come probabilmente avrai sentito, noi trasportiamo grandi quantita' d'acqua in tutta la regione. Sono certa che potremmo organizzare una carovana verso il tuo Vault. Ad un prezzo, naturalmente.}
+{118}{}{Di quanti soldi stiamo parlando?}
+{119}{}{Non sono sicuro di potermi fidare di te.}
+{120}{}{No, grazie.}
+{121}{}{Beh, se lo dici tu...}
+{122}{}{Allora mi dispiace, ma non credo di poterti aiutare.}
+{123}{}{Non ti fidi di me?!? Ogni giorno persone molto piu' paranoiche di te si affidano a noi per le consegne d'acqua! Cosa credi che siamo? Terroristi?}
+{124}{}{Okay, d'accordo. Quanti soldi volete per mandare la prima carovana.}
+{125}{}{Mi dispiace. Non volevo insinuare nulla, ma non posso rischiare.}
+{126}{}{Beh, se cambi idea, fammelo sapere. Devo ammettere che mi hai incuriosita.}
+{127}{}{Bentornato.}
+{128}{}{Ho bisogno di un water chip.}
+{129}{}{Sto ancora cercando un water chip.}
+{130}{}{Voglio un lavoro.}
+{131}{}{Arrivederci.}
+{132}{}{Certo, ottimo. Sei assunto. Aspetta. Quale incarico? Ah, guardia per le carovane, vero? Si', certo. Puoi lavorare per noi.}
+{133}{}{Ne abbiamo gia' parlato. Sei pronto a pagare le spese per organizzare una carovana d'acqua verso il tuo Vault?}
+{134}{}{Prima mi dicevi che forse Necropolis potrebbe avere un water chip. E a cosa servirebbe, laggiu'?}
+{135}{}{Di quanti soldi stiamo parlando?}
+{136}{}{No, non ancora.}
+{137}{}{Beh, e' solo un'ipotesi, in realta'. Tempo fa abbiamo cercato di stabilire una rotta commerciale verso Necropolis, ma gli abitanti si sono rifiutati di commerciare con noi. Nessuna persona sana di mente rifiuterebbe l'acqua, di questi tempi, a meno che non abbia accesso ad una fonte rinnovabile. Credo siano in possesso di un purificatore, altrimenti sarebbero tutti morti gia' da tempo. Allora... vuoi che portiamo l'acqua al tuo Vault, o no?}
+{138}{}{Si'. Ma quanto mi verra' a costare?}
+{139}{}{No, grazie.}
+{140}{}{Beh, la distanza e' piuttosto considerevole. 2000 testoni dovrebbero coprire le spese iniziali, e sono certo che il tuo Vault avra' oggetti da scambiare per pagare le spedizioni successive. Tuttavia, con le nostre scorte attuali, saremo in grado di portare al tuo Vault una quantita' d'acqua bastante solo per 100 giorni circa.}
+{141}{}{D'accordo, ecco i soldi.}
+{142}{}{Il Vault dovrebbe essere in grado di pagare gran parte della quota iniziale. Io potrei darvi 1000 testoni, intanto. Va bene?}
+{143}{}{Sono parecchi soldi, ma il Vault avra' parecchie cose da offrirvi per rimborsarvi del denaro che mi anticiperete. Allora vi do 500 testoni, ok?}
+{144}{}{Al momento non ho abbastanza soldi, ma tornero'.}
+{145}{}{Pare proprio che tu non abbia abbastanza denaro. Torna quando potrai permetterti di pagare le spese. Ricorda che ti servono }
+{146}{}{ testoni.}
+{147}{}{Ok, le prime carovane dirette al tuo Vault partiranno oggi. Ora... devi sapere che le carovane sono piuttosto visibili, nel deserto. Mandare dei convogli in quella direzione potrebbe fornire un'indicazione di massima a chiunque cercasse il tuo Vault. Sei comunque convinto di voler mandare delle carovane al tuo Vault?}
+{148}{}{Credo di no.}
+{149}{}{Si', il Vault ha bisogno d'acqua.}
+{150}{}{D'accordo. La tecnologia dei Vault ha sempre delle ottime quotazioni, qui all'Hub.}
+{151}{}{Mi dispiace, ma possiamo accettare solo un pagamento completo e anticipato.}
+{152}{}{D'accordo. La tecnologia dei Vault ha sempre delle ottime quotazioni, qui all'Hub.}
+{153}{}{Mi dispiace, ma possiamo accettare solo un pagamento completo e anticipato.}
+{154}{}{Hai intenzione di pagare la somma richiesta per far partire le prime carovane d'acqua?}
+{155}{}{Ok, partiranno tra poche ore.}
+{156}{}{Mi dispiace, ma i Mercanti d'Acqua non intendono stringere altri accordi con te.}
+{157}{}{Hai raccolto i }
+{158}{}{ testoni che servono per far partire le prime carovane?}
+
+# 200-201 added with patch 1.3 from TeamX
+{200}{}{What the hell?! Is that YOU? After you lost all our damn caravans? Get the hell outta here! You don't work for us anymore.}
+{201}{}{TU? Non dire una parola. Dannazione, li hai abbandonati! Non so perche' lo sto facendo, ma ti daro' un'altra possibilita'. Vai a parlare con il carovaniere.}

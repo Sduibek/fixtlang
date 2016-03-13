@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{Stai viaggiando per erti crinali e terreni ostili.}
+
+{105}{}{Radscorpioni!}
+
+{121}{}{In distanza vedi un viaggiatore solitario.}
+
+{106}{}{Pare che un radscorpione particolarmente infido stia cercando di tenderti un agguato.}
+{107}{}{Dal nulla compare un radscorpione, che ti attacca!}
+
+{108}{}{Ti sei imbattuto in una famiglia di ratti-talpa.}
+
+{100}{}{Sei stato quasi schiacciato da un masso caduto dal fianco della montagna.}
+{102}{}{Il masso, crollando, porta con se' i resti di un viaggiatore morto da tempo.}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{Ti imbatti in un gruppo di radscorpioni.}
+
+{120}{}{Trovi diversi ratti che si aggirano nella zona.}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{Il terreno davanti a te e' ricoperto di rottami e di cadaveri. Si direbbe lo scenario di un'antica battaglia.}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{Vedi un radscorpione che scorrazza nella zona.}
+
+{135}{}{Hai trovato le ossa di un viaggiatore morto da molto tempo.}
+
+{129}{}{Degli enormi ratti-talpa stanno scorrazzando qui attorno.}
+
+{130}{}{Trovi diversi ratti che si aggirano nella zona.}
+
+#fall or slip
+
+{134}{}{Vedi un gruppetto di ratti che si dirige verso di te.}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{Fortunatamente, le tue capacita' di scalatore sono all'altezza della situazione.}
+{117}{}{Cadi da una cornice di roccia e finisci su alcune pietre aguzze.}
+{118}{}{Cadi in un precipizio, finendo malamente sul suolo roccioso.}
+{109}{}{You are overtaken by a landslide.}
+{123}{}{You lose your footing on the rocky terrain.}
+{132}{}{You slip on the uneven terrain and twist an ankle, painfully. It makes several unhealthy sounds.}
+{133}{}{Sei caduto a causa del terreno sconnesso e ti sei sbucciato le ginocchia.}
+#
+# No Damage
+#
+{101}{}{Non hai subito danni.}
+{110}{}{Amazingly, you escape with no damage.}
+{124}{}{You skillfully escape with no damage.}
+{131}{}{Exhausted, you nearly fall over some rough terrain. They could really use a GECK out here!}
+#
+# Small Damage
+#
+{104}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+{113}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+{127}{}{Alcune schegge di roccia ti feriscono la faccia e le mani, ma riesci ad evitare danni peggiori.}
+#
+# Big Damage
+#
+{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
+{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+#
+# Damage Numbers
+#
+{138}{}{You sustain }
+{139}{}{ points of damage and a crippled left leg.}
+{140}{}{ points of damage and a crippled right leg.}
+{141}{}{ points of damage.}
+{144}{}{ points of damage and a crippled left arm.}
+{145}{}{ points of damage and a crippled right arm.}
+{146}{}{ points of damage and two crippled limbs.}
+#
+# Cripples
+#
+{103}{}{La tua gamba ha subito gravi danni.}
+{112}{}{La tua gamba ha subito gravi danni.}
+{126}{}{La tua gamba ha subito gravi danni.}
+#
+# Critical Success
+#
+{116}{}{Trovi una grotta con una piccola sorgente e riesci, dopo tanto tempo, a passare una tranquilla notte di sonno.}
+{125}{}{Non hai subito alcun danno. La roccia, crollando, rivela un deposito aurifero.}
+{111}{}{The displaced rock reveals a gold deposit!}
+{142}{}{You refill your empty flask in the spring.}
+{143}{}{You refill your empty flasks in the spring.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{Ti imbatti in un grosso gruppo di radscorpioni.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

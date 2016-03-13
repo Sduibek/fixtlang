@@ -1,0 +1,56 @@
+{100}{}{Muori, cane!}
+{101}{}{La mia sconfitta sara' vendicata!}
+{102}{}{Fermo, Iniziato! Cosa devi riferire?}
+{103}{}{Niente di nuovo sul fronte occidentale.}
+{104}{}{Radscorpions and intolerable heat, uh... sir.}
+{105}{}{Veramente volevo sapere se tu avevi qualcosa da dirmi.}
+{106}{}{Niente da riferire, signore!}
+{107}{}{Ruh?}
+{108}{}{Fermo! Ti riconosco -- hai visitato la Confraternita. Qualcuno si fida di te, ma io no. Precisa la natura dei tuoi affari!}
+{109}{}{I miei affari riguardano solo me, come i tuoi riguardano te.}
+{110}{}{Volevo solo vedere una faccia amica.}
+{111}{}{Vago per le Lande, cercando di sopravvivere.}
+{112}{}{Uccido i parassiti del deserto. Disapprovi?}
+{113}{}{La specifichero' soltanto al comandante del tuo Ordine. Portami alla Cittadella.}
+{114}{}{Fari?}
+{115}{}{Alt! Ti riconosco... e non mi fido di te. Ti do un avvertimento: giocaci qualche scherzo e ti ammazziamo. Adesso sparisci!}
+{116}{}{Alt! Chi va la'? Chi siete e cosa volete?}
+
+# TRANSLATION NOTES
+# The player-character's name is inserted after line 117, and then has
+# line 118, 119, 120, or 121 appended.
+{117}{}{Sono }
+{118}{}{ e sto cercando un water chip per il mio Vault. Potete aiutarmi?}
+{119}{}{ e sto cercando l'origine degli attacchi mutanti.}
+{120}{}{ e non sono affari tuoi!}
+{121}{}{ e sono in cerca di avventure.}
+{122}{}{'Fanculo, soldato.}
+{123}{}{Runk!}
+{124}{}{Alt! Queste terre appartengono alla Confraternita d'Acciaio. Vattene subito, o ti spareremo.}
+{125}{}{Molto bene. Continua cosi', Iniziato.}
+{126}{}{Capisco. Continua cosi', Iniziato.}
+{127}{}{Ci sono dei rapporti che indicano la presenza di enormi mutanti che attaccano i viaggiatori, quindi abbiamo aumentato la vigilanza. Presta molta attenzione se ti sposti in questa zona, e torna alla base se necessario. Iniziato, puoi andare!}
+{128}{}{Sono tempi difficili, Iniziato! I mutanti sono in marcia e attaccano le carovane! Abbiamo un bisogno disperato di informazioni! Nessuna nuova NON e' una buona nuova!}
+{129}{}{Muovi le chiappe e portaci qualche informazione utile! Iniziato, puoi andare!}
+{130}{}{Oh si', ho sentito parlare di te. Testa vuota, ma coraggio da vendere. Che peccato.}
+{131}{}{Questa e' la nostra terra e qui i tuoi affari sono i nostri affari. Ripeto: cosa ci fai qui?}
+{132}{}{Sto cercando un water chip per il mio Vault. Potete aiutarmi?}
+{133}{}{Sto cercando l'origine degli attacchi mutanti.}
+{134}{}{Questa sara' anche la vostra terra, ma io non sono un vostro schiavo.}
+{135}{}{E' da molto che vago per le lande. Avete qualche notizia interessante?}
+{136}{}{Una faccia amica? Non sara' la mia. Ti consiglio di andartene.}
+{137}{}{Come tutti noi. Finche' non agirai a danno della Confraternita, non ti sara' fatto del male. Ma attento a quello che fai.}
+{138}{}{Dipende se consideri anche noi dei parassiti. Se attacchi i nostri nemici, ti sara' permesso di attraversare il nostro territorio. Se ci offendi, o peggio ci attacchi, morirai. Considerati avvisato.}
+{139}{}{Una richiesta accettabile. In riga.}
+{140}{}{Un water chip? Spero che tu stia scherzando! Faresti meglio a smetterla di vagare per le lande in cerca di un pezzo di ricambio.}
+{141}{}{Come tutti noi. Secondo la teoria piu' diffusa, proverrebbero dal Glow; ma penso che nemmeno i mutanti sarebbero in grado di sopravvivere, la' dentro. Se scopri qualcosa, faccelo sapere.}
+{142}{}{Come osi accusarmi di una cosa del genere! La Confraternita d'Acciaio non ha mai costretto nessuno a servirla contro la sua volonta'. Questo andrebbe contro tutto cio' in cui crediamo. Sparisci dalla mia vista!}
+{143}{}{Abbiamo trovato una carovana distrutta, ad una giornata circa di cammino verso ovest. C'era una sola superstite - povera ragazza... Ha raccontato che la carovana e' stata attaccata da umani mutanti dotati di una forza incredibile.}
+{144}{}{Abbiamo ricevuto molti rapporti che ci... preoccupano. Parlerei con cautela, se fossi in te.}
+{145}{}{Ti dovro' insegnare un po' di buone maniere, ragazzo. E credo proprio che mi divertiro'.}
+{146}{}{Ti dovro' insegnare un po' di buone maniere, ragazza. E credo proprio che mi divertiro'.}
+{147}{}{La tua testa e' completamente fusa. Povera creatura.}
+{148}{}{Smettila di farmi perdere tempo, idiota!}
+{149}{}{Che cosa vuoi?}
+{150}{}{Nulla.}
+{151}{}{Allora ti consiglio di andartene.}

@@ -1,0 +1,51 @@
+{100}{}{Sta lontano da me! Lasciami in pace!}
+{101}{}{Salve, straniero. Non dovresti trovarti qui. Qui c'e' solo la morte!}
+{102}{}{Non e' che tu sai qualcosa a proposito delle carovane scomparse?}
+{103}{}{Chi sei?}
+{104}{}{Che tipo di morte?}
+{105}{}{Ho bisogno di provviste per i miei viaggi. Dammi tutto quel che hai!}
+{106}{}{Sto cercando un water chip. Puoi aiutarmi?}
+{107}{}{Vorrei che tu mi dicessi tutto quel che sai a proposito del deathclaw.}
+{108}{}{Rurr? Sniff?}
+{109}{}{Che cosa vuoi?! Lasciami in pace!}
+{110}{}{Rrr. Snrg.}
+{111}{}{Grande! Grande! Grande quanto tre uomini! Artigli lunghi quanto il mio braccio! Squartati! Squartati!}
+{112}{}{Si'. Poi?}
+{113}{}{Calmati, amico. Adesso sei al sicuro.}
+{114}{}{Cavoli, si direbbe proprio un grandissimo figlio di puttana!}
+{115}{}{L'hai ucciso?}
+{116}{}{Sono Trent. Sono una delle guardie dei Mercanti d'Acqua. La nostra carovana e' stata attaccata... da un mostro! Enorme, rapido. Ha mangiato Joe e si e' beccato fucilate su fucilate senza battere ciglio! Enorme!}
+{117}{}{Che cosa vi ha attaccato?}
+{118}{}{Si direbbe sia stato un mutante.}
+{119}{}{Sembra proprio si tratti di un deathclaw!}
+{120}{}{Beh, questo vi insegnera' a non alzare troppo i vostri prezzi!}
+{121}{}{A me sta bene. Credo che non avro' piu' bisogno di nulla...}
+{122}{}{Un water chip! Sono una guardia, non un ingegnere! Prova a rivolgerti ai Mercanti d'Acqua dell'Hub. Probabilmente loro ne sanno qualcosa!}
+{123}{}{Deathclaw!}
+{124}{}{Che cosa fai? Lasciami in pace!}
+{125}{}{Non... non lo so. Non dormo da giorni... Ho fame. Ho sete. Sono stanco. Voglio solo tornare a casa.}
+{126}{}{}
+{127}{}{Corna enormi, pelle rossiccia... sembrava sbucato da un racconto dell'orrore... e si e' mangiato Joe in tre bocconi!}
+{128}{}{Nessuno e' al sicuro! Nessuno e' al sicuro, nessuno e' al sicuro, ormai, e io...}
+{129}{}{Sei pazzo?! Gli ho scaricato addosso tre caricatori della mia Desert Eagle e non ha fatto una piega!}
+{130}{}{Non mi interessa se e' un mutante, un alieno o un demone dell'inferno: non voglio piu' rivedere uno di quei cosi finche' vivo!}
+{131}{}{Sono solo una guardia, cazzo! Non darmi addosso! E non mi pagano neppure bene! Non voglio averci piu' nulla a che fare con 'sta storia!}
+{132}{}{Come posso aiutarti?}
+{133}{}{Sono stati i deathclaw. Pensavo fosse soltanto una leggenda, ma... sono incredibilmente grandi... e veloci! Prima abbiamo sentito uno strano odore... il loro odore... poi sono spuntati dal crinale, piombandoci addosso. Siamo scappati e in qualche modo mi sono salvato.}
+{134}{}{Trent, Trent Barrister. Vivo nell'Hub. Ultimamente il lavoro scarseggiava... dato che sono una buona pistola, mi sono fatto assumere come guardia dai Mercanti d'Acqua. La paga era buona, il rischio basso - o almeno cosi' credevo.}
+{135}{}{Non ne ho la piu' pallida idea. E' tecnologia del passato, giusto? Forse qualche mercante potrebbe averne uno, ma non saprei proprio a chi rivolgermi. Nessuno usa piu' quei cosi - no?}
+{136}{}{Sono enormi. Sembrano lucertole giganti, ma con la pelle dura come l'acciaio. Enormi artigli, enormi denti, enormi corna e adorano il sapore della carne umana. E veloci... Dio se sono veloci. Sono felice che non abbiano deciso di inseguirmi, altrimenti sarei morto.}
+{137}{}{Grazie. Forse non abbiamo cominciato nel migliore dei modi. Non ho molti soldi, ma sono tuoi, adesso.}
+{138}{}{Grazie. Oh Dio... Non ho molti soldi, ma sono tuoi, adesso.}
+{139}{}{Grazie. Forse non abbiamo cominciato nel migliore dei modi. Non ho molti soldi, ma... capperi! Devono essermi caduti. Sono tuoi, adesso.}
+{140}{}{Grazie. Oh Dio... non ho molti soldi, ma... capperi! Devono essermi caduti. Sono tuoi, adesso.}
+{141}{}{Aiutami!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{142}{}{Il profumo della morte, amico mio. Il profumo della morte...}
+{143}{}{Il profumo della morte, amica mia. Il profumo della morte...}

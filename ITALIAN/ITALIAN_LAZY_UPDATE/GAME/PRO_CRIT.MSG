@@ -1,0 +1,423 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{100}{}{Vault-dweller}
+{200}{}{Paesano}
+{201}{}{Un umano che indossa un'armatura di cuoio}
+{300}{}{Paesano}
+{301}{}{Un umano che indossa un'armatura d'acciaio.}
+{400}{}{Sfigato}
+{401}{}{Un patetico sfigato.}
+{500}{}{Contadino}
+{600}{}{Vault-dweller}
+{700}{}{Power Armor}
+{800}{}{The Overseer}
+{900}{}{Super Mutante}
+{1000}{}{Ratto Talpa Maggiore}
+{1100}{}{Radscorpione}
+{1101}{}{A giant mutated scorpion, scourge to animals and humans alike.}
+{1200}{}{Persona Incappucciata}
+{1300}{}{Mercante}
+{1400}{}{Guardia Zombie}
+{1401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{1500}{}{Donna con Armatura}
+{1600}{}{Luminoso}
+{1601}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{1700}{}{Uomo in Giacca di Pelle}
+{1800}{}{Contadino}
+{1900}{}{Donna in Giacca di Pelle}
+{2000}{}{Contadino}
+{2100}{}{Uomo con Armatura}
+{2200}{}{Paesana}
+{2201}{}{Umana che indossa una sexy-armatura d'acciaio.}
+{2300}{}{Tenente Super Mutante}
+{2400}{}{Nightkin}
+{2500}{}{Townswoman}
+{2501}{}{Human female wearing protective leather armor.}
+{2600}{}{Vault-dweller}
+{2700}{}{Guardia}
+{2800}{}{Brahmin}
+{2900}{}{Contadino}
+{3000}{}{Contadino}
+{3100}{}{Uomo in Armatura di Cuoio}
+{3200}{}{Contadino}
+{3300}{}{Cittadino}
+{3400}{}{Vault-dweller}
+{3500}{}{Vault-dweller}
+{3600}{}{Cane}
+{3601}{}{Un cane. Probabilmente un meticcio.}
+{3700}{}{Uomo}
+{3800}{}{Donna}
+{3900}{}{Contadino}
+{4000}{}{Contadino}
+{4100}{}{Person encased in odd armor}
+{4200}{}{Ragazzo}
+{4300}{}{Centauro Minore}
+{4400}{}{Mr. Handy}
+{4500}{}{Fluttuante}
+{4600}{}{Scriba}
+{4700}{}{The Overseer}
+{4800}{}{Ratto}
+{4900}{}{Gizmo}
+{5000}{}{The Master}
+{5100}{}{Deathclaw}
+{5101}{}{Many myths and rumors exist about these creatures, but their true origin remains unknown. Big, tough, fast.}
+{5200}{}{Tecnico}
+{5300}{}{Tecnico}
+{5400}{}{Tecnico}
+{5500}{}{Guardia}
+{5600}{}{Guardia}
+{5700}{}{Guardia}
+{5800}{}{Tecnico}
+{5900}{}{Cittadino}
+{6000}{}{Pezzente}
+{6100}{}{Operaio}
+{6200}{}{Studente della Cattedrale}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Mercante}
+{6700}{}{Guardia}
+{6800}{}{Mantide}
+{6900}{}{Robobrain}
+{7000}{}{Guardia dei Predoni}
+{7100}{}{Cittadino}
+{7200}{}{Cittadino}
+{7300}{}{Consigliere di Garl}
+{7400}{}{Cittadino}
+{7500}{}{Predone}
+{7600}{}{Ian}
+{7700}{}{Floating Eye, Mk II}
+{7800}{}{Ratto Porco}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Viandante}
+{8300}{}{Cittadino}
+{8400}{}{Cittadino}
+{8500}{}{Viandante}
+{8600}{}{Contadino}
+{8700}{}{Cittadino}
+{8800}{}{Mercante}
+{8900}{}{Straniero}
+{9000}{}{Guardia}
+{9100}{}{Fattore}
+{9200}{}{Mercante}
+{9300}{}{Contadino}
+{9400}{}{Neal}
+{9500}{}{Contadino}
+{9600}{}{Operaio}
+{9700}{}{Mercante}
+{9800}{}{Contadino}
+{9900}{}{Teppista}
+{10000}{}{Straniero}
+{10100}{}{Figlio della Cattedrale}
+{10200}{}{Vinnie}
+{10300}{}{Viandante}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Zombie}
+{10601}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{10700}{}{Guardia Nightkin}
+{10800}{}{Super Mutante Robusto}
+{10900}{}{Guardia Ghoul}
+{10901}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{11000}{}{Sotterraneo}
+{11100}{}{Dan}
+{11200}{}{Sceriffo Greene}
+{11300}{}{Vicesceriffo Fry}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Hightower}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Dogmeat}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Razor}
+{13000}{}{Tangler}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Surf}
+{13600}{}{Lasher}
+{13700}{}{Barracus}
+{13800}{}{Jeremiah}
+{13900}{}{Medico Super Mutante}
+{14000}{}{Gideon}
+{14001}{}{Le sue mani rilucono di una strana energia.}
+{14100}{}{Dominic}
+{14101}{}{I suoi occhi fiammeggiano di una strana energia.}
+{14200}{}{Lucy}
+{14201}{}{La sua testa riluce di una strana energia.}
+{14300}{}{Wiggup}
+{14301}{}{Piccole scintille d'energia circondano il suo corpo.}
+{14400}{}{Viscious}
+{14500}{}{Tenente Super Mutante}
+{14600}{}{Laura}
+{14700}{}{Morpheus}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Decker}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Grosso Ratto}
+{16000}{}{Irradiated Rat}
+{16100}{}{Tough Irradiated Rat}
+{16200}{}{Ratto Talpa Minore}
+{16300}{}{Coyote}
+{16400}{}{Grosso Brahmin}
+{16500}{}{Cucciolo di Deathclaw}
+{16501}{}{A smaller and younger version of its terrifying counterpart, but no less dangerous.}
+{16600}{}{Radscorpione Aggressivo}
+{16700}{}{Fluttuante Aggressivo}
+{16800}{}{Centauro Maggiore}
+{16900}{}{Contadino Squattrinato}
+{17000}{}{Contadino}
+{17100}{}{Fattore}
+{17200}{}{Operaio}
+{17300}{}{Fattore}
+{17400}{}{Mercante}
+{17500}{}{Guardia}
+{17600}{}{Mantide Maggiore}
+{17700}{}{Ratto Porco Aggressivo}
+{17800}{}{Fattore}
+{17900}{}{Operaio}
+{18000}{}{Mercante}
+{18100}{}{Guardie}
+{18200}{}{Glower}
+{18201}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{18300}{}{Luminoso Schizzato}
+{18301}{}{This irradiated ghoul has maintained enough brain matter and motor function to be able to speak clearly.}
+{18400}{}{Zombie}
+{18401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{18500}{}{Guardia}
+{18600}{}{Guardia Super Mutante}
+{18700}{}{Super Mutante Aggressivo}
+{18800}{}{Super Mutante Pazzo}
+{18900}{}{Super Mutante Letale}
+{19000}{}{Grosso Nightkin}
+{19100}{}{Nightkin Letale}
+{19200}{}{Super Nightkin}
+{19300}{}{Mega Nightkin}
+{19400}{}{Guardia}
+{19500}{}{Mercante}
+{19600}{}{Guardia}
+{19700}{}{Guardia}
+{19800}{}{Guardia}
+{19900}{}{Ragazza}
+{20000}{}{Scriba}
+{20100}{}{Guardia}
+{20200}{}{Straniero}
+{20300}{}{Delinquente}
+{20400}{}{Mercenario}
+{20500}{}{Guardia}
+{20600}{}{Vault-dweller}
+{20700}{}{Garl}
+{20800}{}{Doc Morbid}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Viandante}
+{21700}{}{Straniero}
+{21800}{}{Delinquente}
+{21900}{}{Mercenario}
+{22000}{}{Guardia}
+{22100}{}{Cittadino}
+{22200}{}{Straniero}
+{22300}{}{Delinquente}
+{22400}{}{Mercenario}
+{22500}{}{Guardia}
+{22600}{}{Cittadino}
+{22700}{}{Viandante}
+{22800}{}{Straniero}
+{22900}{}{Delinquente}
+{23000}{}{Mercenario}
+{23100}{}{Guardia}
+{23200}{}{Cittadino}
+{23300}{}{Viandante}
+{23400}{}{Mercenario}
+{23500}{}{Guardia}
+{23600}{}{Viandante}
+{23700}{}{Straniero}
+{23800}{}{Delinquente}
+{23900}{}{Mercenario}
+{24000}{}{Guardia}
+{24100}{}{Delinquente}
+{24200}{}{Mercenario}
+{24300}{}{Guardia}
+{24400}{}{Viandante}
+{24500}{}{Straniero}
+{24600}{}{Delinquente}
+{24700}{}{Mercenario}
+{24800}{}{Guardia}
+{24900}{}{Viandante}
+{25000}{}{Straniero}
+{25100}{}{Delinquente}
+{25200}{}{Mercenario}
+{25300}{}{Guardia}
+{25400}{}{Viandante}
+{25500}{}{Straniero}
+{25600}{}{Delinquente}
+{25700}{}{Mercenario}
+{25800}{}{Guardia}
+{25900}{}{Viandante}
+{26000}{}{Straniero}
+{26100}{}{Delinquente}
+{26200}{}{Mercenario}
+{26300}{}{Guardia}
+{26400}{}{Iniziato Cavaliere}
+{26500}{}{Iniziato Cavaliere Maggiore}
+{26600}{}{Apprendista Cavaliere}
+{26700}{}{Cavaliere}
+{26800}{}{Cavaliere Maggiore}
+{26900}{}{Iniziato Cavaliere}
+{27000}{}{Iniziato Cavaliere Maggiore}
+{27100}{}{Apprendista Cavaliere}
+{27200}{}{Cavaliere}
+{27300}{}{Cavaliere Maggiore}
+{27400}{}{Paladino Minore}
+{27500}{}{Paladino}
+{27600}{}{Paladino Maggiore}
+{27700}{}{Paladino Minore}
+{27800}{}{Paladino}
+{27900}{}{Paladino Maggiore}
+{28000}{}{Iniziato Scriba}
+{28100}{}{Iniziato Scriba Maggiore}
+{28200}{}{Apprendista Scriba}
+{28300}{}{Scriba}
+{28400}{}{Scriba Maggiore}
+{28500}{}{Iniziato Scriba}
+{28600}{}{Iniziato Scriba Maggiore}
+{28700}{}{Apprendista Scriba}
+{28800}{}{Scriba}
+{28900}{}{Scriba Maggiore}
+{29000}{}{Incappucciato}
+{29100}{}{Figlio del Master}
+{29200}{}{Studente della Cattedrale}
+{29300}{}{Incappucciata}
+{29400}{}{Figlia del Master}
+{29500}{}{Animaletto del Master}
+{29600}{}{Tirapiedi del Master}
+{29700}{}{Guardia del Master}
+{29800}{}{Animaletto del Master}
+{29900}{}{Tirapiedi del Master}
+{30000}{}{Guardia del Master}
+{30100}{}{Dottore}
+{30200}{}{Katja}
+{30300}{}{Sasha}
+{30301}{}{Vedi una Siberian Husky che aspetta pazientemente il suo padrone.}
+{30400}{}{Straniero Misterioso}
+{30500}{}{Ghoul Senza Cervello}
+{30501}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{30600}{}{Floating Eye}
+{30700}{}{Uovo}
+{30701}{}{Uovo di Deathclaw}
+{30800}{}{Dugan}
+{30900}{}{Madre Deathclaw}
+{31000}{}{Hammer}
+{31100}{}{Viaggiatore Morto}
+{31200}{}{Kenji}
+{31300}{}{Ian}
+{31400}{}{Ian}
+{31500}{}{Ian}
+{31600}{}{Ian}
+{31700}{}{Ian}
+{31800}{}{Ian}
+{31900}{}{Ian}
+{32000}{}{Ian}
+{32100}{}{Ian}
+{32200}{}{Ian}
+{32300}{}{Ian}
+{32400}{}{Ian}
+{32500}{}{Ian}
+{32600}{}{Ian}
+{32700}{}{Ian}
+{32800}{}{Ian}
+{32900}{}{Ian}
+{33000}{}{Ian}
+{33100}{}{Ian}
+{33200}{}{Ian}
+{33300}{}{Ian}
+{33400}{}{Ian}
+{33500}{}{Ian}
+{33600}{}{Ian}
+{33700}{}{Ian}
+{33800}{}{Ian}
+{33900}{}{Ian}
+{34000}{}{Tycho}
+{34100}{}{Tycho}
+{34200}{}{Tycho}
+{34300}{}{Tycho}
+{34400}{}{Tycho}
+{34500}{}{Tycho}
+{34600}{}{Tycho}
+{34700}{}{Tycho}
+{34800}{}{Tycho}
+{34900}{}{Tycho}
+{35000}{}{Tycho}
+{35100}{}{Tycho}
+{35200}{}{Tycho}
+{35300}{}{Tycho}
+{35400}{}{Tycho}
+{35500}{}{Tycho}
+{35600}{}{Tycho}
+{35700}{}{Tycho}
+{35800}{}{Tycho}
+{35900}{}{Tycho}
+{36000}{}{Tycho}
+{36100}{}{Tycho}
+{36200}{}{Tycho}
+{36300}{}{Tycho}
+{36400}{}{Tycho}
+{36500}{}{Tycho}
+{36600}{}{Tycho}
+{36700}{}{Katja}
+{36800}{}{Katja}
+{36900}{}{Katja}
+{37000}{}{Katja}
+{37100}{}{Katja}
+{37200}{}{Katja}
+{37300}{}{Katja}
+{37400}{}{Katja}
+{37500}{}{Katja}
+{37600}{}{Katja}
+{37700}{}{Katja}
+{37800}{}{Katja}
+{37900}{}{Katja}
+{38000}{}{Katja}
+{38100}{}{Katja}
+{38200}{}{Katja}
+{38300}{}{Katja}
+{38400}{}{Katja}
+{38500}{}{Katja}
+{38600}{}{Katja}
+{38700}{}{Katja}
+{38800}{}{Katja}
+{38900}{}{Katja}
+{39000}{}{Katja}
+{39100}{}{Katja}
+{39200}{}{Katja}
+{39300}{}{Katja}
+{39400}{}{Baby Radscorpion}
+{39500}{}{Mother Radscorpion}
+{39600}{}{The Overseer}

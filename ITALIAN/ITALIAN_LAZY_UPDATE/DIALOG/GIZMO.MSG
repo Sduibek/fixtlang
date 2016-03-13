@@ -1,0 +1,161 @@
+{100}{}{Vedi Gizmo, il proprietario del casino'.}
+{101}{gizmo_1}{Porta le tue chiappe qui dentro e siediti. Dobbiamo discutere di affari.}
+{102}{}{Mi sa che di chiappe, qui dentro, ce n'e' in abbondanza...}
+{103}{}{Lo penso anch'io. Che cosa vuoi?}
+{104}{}{Che tipo di affari?}
+{105}{}{Blehh.}
+{106}{gizmo_1b}{Fuori di qui, idiota!}
+{107}{gizmo_2}{E tu con quella bocca ci baci tua madre? Mostra un po' di rispetto.}
+{108}{}{E tu con quella bocca non fai altro che mangiare?}
+{109}{}{Hai ragione, scusami. Parliamo di affari.}
+{110}{gizmo_4}{D'accordo, [Gizmo grugnisce] ecco la mia proposta. Junktown... non e' piu' quella di una volta. L'unica ragione per cui esiste ancora e' il mio locale di gioco d'azzardo. Tuttavia, Killian non mi molla gli occhi di dosso e sto cominciando a prenderla come una cosa personale. [Gizmo grugnisce] Ed e' qui che entri in gioco tu, smilzo.}
+{111}{}{Che cosa vuoi che faccia?}
+{112}{}{Se pensi che ti voglia aiutare, vuol dire che oltre che grasso sei anche stupido.}
+{113}{gizmo_4a}{Divertente.}
+{114}{gizmo_5}{Quel che penso e' che tu lo farai fuori per me. Nessun testimone; entri, fai, esci.}
+{115}{}{Perche' non mandi uno dei tuoi sgherri?}
+{116}{}{Non lavorerei per te neanche se tu mi offrissi tutto il denaro che c'e' in questa bettola.}
+{117}{}{D'accordo. Un po' di soldi potrebbero tornarmi utili.}
+{118}{}{Io non la penso cosi'. Grazie lo stesso.}
+{119}{}{Quanto sei disposto a pagare?}
+{120}{gizmo_6}{Lo farei, ma non devono esserci collegamenti tra me e l'infausta dipartita di Killian.}
+{121}{}{Non fa una piega. D'accordo, lo faro'.}
+{122}{}{D'accordo, lo faro'.}
+{123}{}{Che codardo. Hai paura di non piacere alla gente? Troppo tardi.}
+{124}{}{Quanto sei disposto a pagare?}
+{125}{}{Te lo puoi scordare alla grande.}
+{126}{}{Non ci sto. Grazie lo stesso.}
+{127}{gizmo_7}{[Gizmo sibila.] Sapevo che saresti stato d'accordo con me. Come prova, voglio le targhette di riconoscimento che Killian porta al collo. Portamele e avrai i tuoi soldi. Adesso va'. E non pensare di fregarmi. Conservo ancora le rotule dell'ultimo idiota che ci ha provato.}
+{128}{gizmo_8}{Mille testoni. Non uno di piu', non uno di meno.}
+{129}{}{Mi sta bene. Lo faro'.}
+{130}{}{E questa la chiami ricompensa? Se devo far fuori quel tipo, credo proprio che avro' bisogno di piu' soldi.}
+{131}{}{Non ci siamo nemmeno vicini. Non voglio aver nulla a che fare con questa storia.}
+{132}{}{Se potessi misurare la fiducia che mi ispiri in questo momento, non supererebbe nemmeno la distanza che tu riusciresti a coprire se due uomini robusti ti lanciassero in aria. Scordatelo, fuscello.}
+{133}{gizmo_9}{Haha! *cough* Maybe you're right. I think you're worth more. 1500.}
+{134}{}{Adesso si ragiona.}
+{135}{}{That's about what, a cap per pound for you? Forget it.}
+{136}{}{Grazie, ma preferisco di no.}
+{137}{}{Te lo puoi scordare alla grande.}
+{138}{gizmo_10}{Mi dispiace che la pensi cosi'. A te, tuttavia, dispiacera' molto di piu'. Non posso permettere che quel che ti ho detto esca da questa stanza. Izo, mostra al nostro nuovo amico quel che facciamo alle persone che mi dicono di no.}
+{139}{gizmo_11}{Una volta va bene. Due e' troppo. E con questa facevano due. Izo, procurami un nuovo paio di rotule.}
+{140}{gizmo_13}{L'hai finito, quel lavoro?}
+{141}{}{Yep, certamente.}
+{142}{}{No, non ancora.}
+{143}{gizmo_14}{Vediamo le targhette.}
+{144}{gizmo_15}{Oh, yeah. Oh, yeah! Izo ha i tuoi soldi. Oh, che gioia! Ehi, ehi, hm... faresti meglio a lasciare la citta' per un po'. Sai, non si sa mai...}
+{145}{}{Okay, vado.}
+{146}{}{Non provare a darmi ordini, ciccio. Hai capito?}
+{147}{}{E se invece non lo facessi?}
+{148}{}{Certo, vado. Ma ricorda che mi devi un favore.}
+{149}{gizmo_16}{Se non lasci la citta', ci finirai sotto. Hai capito?}
+{150}{}{Okay, okay. Me ne vado.}
+{151}{}{E chi lo fara'? Tu? Non riusciresti a spostare quel tuo culo flaccido neanche se ti dovessi andare a prendere un sandwich. Se volevi uccidermi, dovevi pensarci 300 chili fa.}
+{152}{}{D'accordo, lo faro'. Ricordati solo che mi devi un favore.}
+{153}{gizmo_17}{Che ne diresti di darmi le targhette, allora?}
+{154}{}{Um... well... I... uh, lost them.}
+{155}{}{E se invece non volessi dartele?}
+{156}{}{Ho mentito. Non le ho con me.}
+{157}{}{Le avevo, ma le ho perse.}
+{158}{gizmo_18}{[Gizmo ride.] Sai, sei proprio pessimo, come bugiardo. Adesso va' a prendere quelle targhette. Non voglio rivedere la tua faccia finche' non avrai fatto fuori Killian.}
+{159}{gizmo_19}{Nessun problema... le prendero' dal tuo cadavere.}
+{160}{}{Ehm... beh, ho mentito... piu' o meno. Non le ho.}
+{161}{}{Davvero? E magari pagherai qualcuno perche' si pieghi al posto tuo, eh?}
+{162}{}{Le ho perse.}
+{163}{}{Beh, le avevo, ma mi sono state rubate.}
+{164}{gizmo_20}{Niente targhette, niente soldi. Prova a tornare qui senza le targhette e Izo si divertira' a studiare la tua anatomia. Adesso vattene!}
+{165}{gizmo_21}{Che cosa vuoi? Sono un uomo impegnato.}
+{166}{}{Sono qui per dirti che il tuo sicario ha fallito.}
+{167}{}{Niente, in realta'. Credo proprio che me ne andro'.}
+{168}{}{Vorrei sapere com'e' possibile che una persona stupida come te sia ancora viva.}
+{169}{}{Sono qui per parlarti dell'attentato alla vita di Killian.}
+{170}{gizmo_22}{Non so di cosa tu stia parlando.}
+{171}{}{Certo che lo sai. Hai ingaggiato qualcuno perche' uccidesse Killian, ma ha fallito miseramente.}
+{172}{}{Non ricordi di aver assoldato qualcuno perche' uccidesse Killian, stupido grassone?}
+{173}{}{Beh, facciamo allora un'ipotesi...}
+{174}{}{Stai mentendo!}
+{175}{}{Hai ragione. Addio.}
+{176}{gizmo_23}{Non so chi tu sia, ma non vedo di buon occhio gli stranieri che entrano nel mio ufficio accusandomi di cose di cui non sono a conoscenza.}
+{177}{}{Ah, ma e' proprio qui che ti sbagli, Gizmo. Non sono qui per accusarti. Sono qui per aiutarti.}
+{178}{}{So tutto. Confessa!}
+{179}{}{Hai ragione. Me ne vado.}
+{180}{gizmo_24}{Davvero? [Gizmo sghignazza.] Vuoi aiutarmi? Di che tipo di aiuto stiamo parlando?}
+{181}{}{Semplice. Tu hai mandato qualcuno ad uccidere Killian. Quel qualcuno ha fallito. Tu hai bisogno di una persona che sappia fare quel lavoro in maniera piu'... soddisfacente.}
+{182}{}{Niente. Dimentica quello che ti ho detto.}
+{183}{gizmo_25}{E fammi indovinare... Tu saresti quella persona?}
+{184}{}{Esattamente. Ad un prezzo, s'intende.}
+{185}{}{Posso ucciderlo piu' in fretta di quanto tu riesca a sputare.}
+{186}{gizmo_26}{Beh, come posso fidarmi di te?}
+{187}{}{Mi trovo qui. E tu hai bisogno di qualcuno da fuori che faccia il tuo lavoro sporco. Giusto?}
+{188}{}{You can't... I mean, you can... I mean...}
+{189}{}{Perche' ho girato per il mondo. E ho gia' ucciso parecchia altra gente.}
+{190}{gizmo_27}{Hmm... d'accordo. Possiamo metterci d'accordo. Ma se lavori per me, farai meglio a sapere che nessuno fa il doppio gioco con Gizmo e poi vive abbastanza per raccontarlo. Hai capito?}
+{191}{}{Oh, ma come? Non ti piacciono i doppiogiochisti? Eppure mi sembra che tu abbia la passione per tutto cio' che e' doppio: doppie porzioni, doppio mento...}
+{192}{}{Certo. Ma prima devo sapere per quale motivo lo vuoi morto.}
+{193}{gizmo_28}{Ah. Molto semplice. Lo voglio morto perche' ostacola i miei affari. Allora, lo farai fuori per me?}
+{194}{}{E' proprio per questo che sono qui. Sara' morto prima del tramonto.}
+{195}{}{Certo. E' un lavoro come un altro, per me.}
+{196}{}{Potresti ripeterlo, per favore... magari parlando verso la tasca della mia giacca?}
+{197}{}{Beh, um . . . No, non posso.}
+{198}{gizmo_29}{Bene. Torna qui con le targhette che porta intorno al collo come prova. E questa nostra conversazione non c'e' mai stata. Non parlarne con nessuno. Nessuno fa il doppio gioco con me. Nessuno.}
+{199}{gizmo_30}{O sei una persona davvero stupida... oppure sei una SPIA davvero stupida. Non ha importanza, perche' adesso Izo ti fara' diventare una persona davvero morta.}
+{200}{gizmo_32}{Non mi piacciono le persone che mi fanno perdere tempo. Non farti rivedere!}
+{201}{gizmo_33}{Cioe'?}
+{202}{}{Beh, diciamo che tu hai provato ad uccidere Killian, ma il tuo sicario ha fallito. Questo significa che te ne serve un altro che porti a termine il "lavoro".}
+{203}{}{Eh? Oh, come non detto.}
+{204}{gizmo_34}{Sai, [Gizmo sospira] non mi piace quando qualcuno mi offende in casa mia. Izo, accompagna il nostro ospite fuori... dalla finestra.}
+{205}{gizmo_35}{Sei tornato. Sai, ho dovuto assumere qualcun altro per fare il tuo lavoro. La cosa non mi ha reso felice. Adesso Izo ti mostrera' quanto infelice io sia. Spero che tu abbia passato una gradevole giornata. Perche' era l'ultima.}
+{206}{gizmo36a}{[Gizmo grugnisce.] Killian e' il sindaco di questa citta'. Crede di sapere tutto... beh, lo vedremo.}
+{207}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}
+{208}{gizmo_38}{E' il negozio di Killian, all'estremo nord della citta'. Ci vende roba di merda.}
+{209}{gizmo_39}{Beh, quasi tutti vengono qui a giocare d'azzardo. Fai davvero delle domande stupide.}
+{210}{gizmo_42}{Davvero non lo sai?}
+{211}{gizmo_43}{Di questo non devi proprio preoccuparti.}
+{212}{gizmo_44}{*sniff* I uh... I don't feel like talking about that right now.}
+{213}{gizmo45m}{Ehi, che cosa diavolo credi di fare? Izo, strappagli le braccia!}
+{214}{gizmo45f}{Ehi, che cosa diavolo credi di fare? Izo, strappale le braccia!}
+{215}{gizmo_47}{Ma cosa sei, sordo? Ho detto...}
+{216}{gizmo_48}{Ehi, non ho intenzione di ripetere quel che ho detto!}
+{217}{}{You earn 600 experience for your work defeating Gizmo. May the bastard rest in pieces.}
+{218}{}{Questa e' sicuramente la persona piu' corpulenta che tu abbia mai visto.}
+{219}{}{Sai, ho scoperto qualcosa di molto interessante, dopo che sei stato qui l'ultima volta. Se c'e' una cosa che digerisco meno di una pizza ai peperoni, e' una spia. Ragazzi!}
+{220}{}{E cosi' siamo arrivati a questo, Killian. Beh, non ho mai potuto sopportare la tua puzza e finalmente potro' sbarazzarmene una volta per tutte!}
+{221}{}{Mi sono occupato di Killian. Mi e' stato detto che ti avrebbe fatto piacere.}
+{222}{}{Oh, davvero?}
+{223}{}{Ehi, okay, se non lo vuoi morto, bene cosi'. Volevo soltanto essere d'aiuto.}
+{224}{}{Ero indeciso se optare per un coltello nella schiena o un proiettile in testa.}
+{225}{}{Ho capito. Perche' lo vuoi morto?}
+{226}{gizmo_24}{Davvero? [Gizmo sghignazza.] Vuoi aiutarmi? Di che tipo di aiuto stiamo parlando?}
+
+# for Fallout Fixt:
+
+{227}{}{Who're you? Whaddya want?}
+{228}{}{You see a disgusting excuse for a man. This must be Gizmo.}
+
+
+# Gizmo's Tell-Me-Abouts generic responses
+{980}{gizmo_42}{Davvero non lo sai?}
+{981}{gizmo_43}{Di questo non devi proprio preoccuparti.}
+
+#
+# Gizmo's Tell-Me-Abouts
+#
+
+{1000}{}{Killian}
+{1001}{}{Gizmo}
+{1002}{}{Darkwaters}
+{1003}{}{Gizmo's}
+{1004}{}{Darkwater}
+{1005}{}{Gizmos}
+{1006}{}{Casino'}
+{1007}{}{Junktown}
+{1008}{}{Darkwater's}
+
+{1100}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1101}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}
+{1102}{gizmo_38}{E' il negozio di Killian, all'estremo nord della citta'. Ci vende roba di merda.}
+{1103}{gizmo_39}{Beh, quasi tutti vengono qui a giocare d'azzardo. Fai davvero delle domande stupide.}
+{1104}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1105}{gizmo_39}{Beh, quasi tutti vengono qui a giocare d'azzardo. Fai davvero delle domande stupide.}
+{1106}{gizmo_39}{Beh, quasi tutti vengono qui a giocare d'azzardo. Fai davvero delle domande stupide.}
+{1107}{gizmo_39}{Beh, quasi tutti vengono qui a giocare d'azzardo. Fai davvero delle domande stupide.}
+{1108}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}

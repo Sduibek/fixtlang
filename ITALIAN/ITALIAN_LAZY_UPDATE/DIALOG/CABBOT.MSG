@@ -1,0 +1,287 @@
+{100}{}{Vedi Cabbot, un Iniziato della Confraternita d'Acciaio.}
+{101}{Cab_1}{Salve e benvenuto alla Confraternita d'Acciaio. Posso chiederti cosa ti porta qui?}
+{102}{}{Chi sei?}
+{103}{}{Posso farti qualche domanda?}
+{104}{}{Uhhh?}
+{105}{}{Vorrei diventare uno di voi.}
+{106}{}{Di che cosa ti occupi?}
+{107}{}{Non mi serve nulla, grazie.}
+{108}{Cab_2}{Ah, sono Cabbot, ma, ehm, non mi hai risposto. Cosa posso fare per te? }
+{109}{}{Posso farti qualche domanda?}
+{110}{}{Non credo che tu lo voglia sapere.}
+{111}{}{Vorrei diventare uno di voi.}
+{112}{}{Di che cosa ti occupi?}
+{113}{}{Nulla. Grazie.}
+{114}{Cab_4}{Magnifico! Ehm... A-aspetta qui un secondo mentre chiedo cosa devi fare!}
+{115}{Cab_5}{Ehm, bene... ho parlato con il Sommo Anziano e mi ha detto che non a tutti e' permesso di unirsi a noi. Lui, ehm, lui ha detto che prima dovrai completare una missione. }
+{116}{}{Tipo?}
+{117}{}{Come non detto, allora. Ci si vede.}
+{118}{}{Anche tu hai dovuto fare una cosa simile?}
+{119}{Cab_5a}{Ehm, non esattamente. Ma ora le cose sono un po' diverse. }
+{120}{}{E qual e' la missione?}
+{121}{}{E allora dimmi cosa c'e' di diverso.}
+{122}{}{Come non detto, allora. Tornero' un'altra volta.}
+{123}{Cab_6}{Dovrai recarti alle rovine dell'Antico Ordine. Si trovano a sud di qui. Ehm, dovrai entrarci e riportare qui qualcosa che dimostri che sei stato laggiu'.}
+{124}{}{E come farete voi a capire che si tratta di una cosa proveniente proprio da li'?}
+{125}{}{Okay.}
+{126}{}{Non esiste proprio.}
+{127}{Cab_7}{Quel posto e' altamente tecnologico. La' dentro ci sono cose che non si sono mai viste prima. Oh, ehm, e' anche radioattivo. Aheh.}
+{128}{}{Okay, lo faro'.}
+{129}{}{Sembra pericoloso. Me ne chiamo fuori.}
+{130}{Cab_9}{Lo farai? Davvero? Grande! Riporta qui qualcosa, allora! Buona fortuna.}
+{131}{Cab_10}{Oh... okay then. Goodbye.}
+{132}{Cab_12}{Beh, ehm, io sono un Iniziato. Al momento, il mio compito e' quello di accogliere le persone che si presentano qui.}
+{133}{}{Non mi sembra molto emozionante, ma vorrei comunque unirmi alla Confraternita.}
+{134}{}{Okay, grazie. Ci si vede.}
+{135}{}{Posso farti qualche domanda?}
+{136}{Cab_16}{Beh, ehm, devo chiederlo. E' il mio lavoro.}
+{137}{}{Posso farti qualche domanda?}
+{138}{}{Posso entrare a far parte della Confraternita?}
+{139}{}{Non devo dirti proprio un bel nulla. Fa' venire il tuo comandante.}
+{140}{}{Ah, bene. Adesso devo andare.}
+{141}{Cab_17}{Mi dispiace, davvero non posso. M-mi hanno detto di non farlo. Addio!}
+{142}{Cab_18}{No! Vattene! }
+{143}{Cab_19g}{Beh, bentornato. Hai deciso cosa volevi?}
+{144}{Cab_19n}{Salve. Adesso cosa ti serve?}
+{145}{}{Ho cambiato idea. Voglio unirmi alla Confraternita.}
+{146}{}{Posso farti qualche domanda?}
+{147}{}{Lasciamo perdere. Ci vediamo.}
+{148}{Cab_20}{Mi stai prendendo in giro, vero? Addio! }
+{149}{Cab_21}{Vattene!}
+{150}{}{Per favore, mi dispiace di averti fatto arrabbiare. Possiamo riprovare da capo?}
+{151}{}{Okay.}
+{152}{Cab_22}{No! Credo che tu stia mentendo. Addio!}
+{153}{Cab_23}{Hmmm. D'accordo, credo che per il momento ti credero'. Allora, che cosa vuoi?}
+{154}{}{Ho cambiato idea. Voglio unirmi alla Confraternita.}
+{155}{}{Posso farti qualche domanda?}
+{156}{}{Lasciamo perdere. Ci vediamo.}
+{157}{Cab_24}{Ehi! Sei tornato! Hai preso qualcosa?}
+{158}{}{Yep, certamente.}
+{159}{}{No, non ancora.}
+{160}{Cab_25}{Ottimo! Ma... ehm... il Sommo Anziano ha detto che prima di farti entrare dovrai consegnarla a me. Mi dispiace.}
+{161}{}{Okay.}
+{162}{}{No, non voglio.}
+{163}{Cab_27}{Magnifico! Aspetta un secondo intanto che apro la porta.}
+{164}{}{Okay.}
+{165}{Cab_28}{Hmmm... mi dispiace, ehm, questa cosa potresti averla presa ovunque.}
+{166}{}{But...}
+{167}{Cab_30}{D'accordo, adesso ti faccio entrare. Ma ti dico quel che succedera' dopo che l'avro fatto. D'accordo? Io saro' nella guardiola. Potrai uscire quando vorrai, ma dovrai chiedere a me per rientrare. Ah, e il Sommo Anziano vuole parlare con te nella Sala di Guerra. Si trova al terzo piano.}
+{168}{Cab_31}{Non c'e' bisogno di mentire. Torna quando avrai trovato qualcosa.}
+{169}{Cab_32}{Beh, fammi sapere quando ce l'hai fatta.}
+{170}{Cab_33g}{Ehila'! Vuoi rientrare?}
+{171}{Cab_33b}{Vuoi tornare dentro?}
+{172}{Cab_33n}{Vuoi rientrare?}
+{173}{}{Si', per cortesia.}
+{174}{}{Se ti sbrighi ad aprire le porte...}
+{175}{Cab_34g}{Ottimo! Ci si vede, eh?}
+{176}{Cab_34b}{Bene.}
+{177}{Cab_34n}{Okay.}
+{178}{}{Qual e' esattamente il tuo compito?}
+{179}{}{Hai sentito qualche voce interessante, ultimamente?}
+{180}{}{Ci vediamo, Cabbot.}
+{181}{Cab_35a}{Prego.}
+{182}{Cab_36g}{Beh, ehila'! Come posso aiutarti?}
+{183}{Cab_36b}{Che cosa ti serve?}
+{184}{Cab_36n}{Posso aiutarti in qualche modo?}
+{185}{}{Posso farti qualche domanda?}
+{186}{}{Lasciamo perdere. Ci vediamo.}
+{187}{Cab_37}{Arrivederci.}
+{188}{Cab_38}{Accolgo le persone che si presentano ai cancelli e decido se possono entrare o meno. Tu e i mercanti siete gli unici che lascio passare in questo periodo, dato che gli Anziani pare si stiano preparando per qualcosa.}
+{189}{}{Hai idea di cosa potrebbe essere?}
+{190}{}{Perche' lasci entrare i mercanti?}
+{191}{Cab_39}{Ehm... non lo so, ma, ehm, ho sentito il Sommo Anziano discutere animatamente con gli altri Anziani. }
+{192}{}{Posso farti qualche altra domanda?}
+{193}{}{Grazie. Ci vediamo.}
+{194}{Cab_40}{Perche' li lascio entrare? Beh... dobbiamo acquistare da loro il nostro cibo e altre cose. In cambio noi cediamo loro le nostre armi.}
+{195}{}{Perche' non producete da voi il vostro cibo?}
+{196}{}{Posso farti qualche altra domanda?}
+{197}{}{Grazie. Ci si vede.}
+{198}{Cab_41}{Ehm, beh, lo scopo di questo posto e' creare Scriba e Cavalieri. Chiunque voglia occuparsi di altro se ne va.}
+{199}{}{Oh. Posso farti qualche altra domanda?}
+{200}{}{Grazie. Ci vediamo.}
+{201}{Cab_42}{Beh, tra gli Iniziati qualcuno pensa che ci stiamo preparando per la guerra. E' per questo che e' difficile che qualcuno entri. Sono rimasto stupito quando il Sommo Anziano mi ha ordinato di lasciarti passare.}
+{202}{}{Perche'?}
+{203}{}{Grazie. Posso farti qualche altra domanda?}
+{204}{}{Grazie per l'informazione. Ci vediamo.}
+{205}{Cab_43}{Non credo che appartenga a te.}
+{206}{Cab_44}{Mi dispiace, ma saro' costretto a chiamare le guardie.}
+{207}{Cab_45}{Non credo proprio che dovresti farlo.}
+{208}{Cab_46a}{Oh, okay. Come non detto.}
+{209}{Cab_47}{As I said...}
+{210}{Cab_48}{Beh, come ho detto...}
+{211}{Cab_49}{Come ti ho gia' detto prima...}
+{212}{Cab_50}{Beh, e' come ti ho detto...}
+{213}{Cab_51}{Beh, ehm, non... non mi piace essere scrotese, ma odio dovermi ripetere. Okay?}
+{214}{}{Ehm, sai, non ho davvero tempo per starmene qui a ripetermi piu' e piu' volte. Capisci quando parlo, o no?}
+{215}{Cab_53}{Beh, sono io.}
+{216}{Cab_54}{E' il capo degli Scriba. Di solito la puoi trovare nella biblioteca. Scendi fino all'ultimo piano e, ehm, la trovi sulla destra.}
+{217}{Cab_55}{I Cavalieri dicono che sia un maestro severo, ma io non posso dirlo, perche', ehm, sto studiando con Vree per diventare uno Scriba.}
+{218}{Cab_56}{Il Generale Maxson era il Primo Cavaliere, una volta. Non credo che essere il Sommo Anziano gli piaccia molto.}
+{219}{Cab_57}{Sono loro che prendono tutte le decisioni, da quel che mangiamo all'assegnazione dei compiti. E, ehm, litigano un sacco. Credo che il Sommo Anziano debba intervenire molte volte.}
+{220}{Cab_58}{OK, beh, gli Scriba sono i custodi di tutte le cronache e degli schemi tecnici delle armi che produciamo. Adoro quei libri; e' per questo che vorrei diventare uno di loro... uno Scriba, naturalmente.}
+{221}{Cab_59}{Beh, vedi, sono quelli che vorrebbero diventare i protettori della Confraternita. Non sono in molti, ma si addestrano duramente per tutta la vita pur di diventare Paladini.}
+{222}{Cab_60}{E' quella citta' a sud, giusto? Riceviamo molte visite da parte dei loro mercanti, ma io non ci sono mai stato. Cavoli, non saprei proprio cosa fare in una citta' cosi' grande.}
+{223}{Cab_61}{Dovresti parlare con Vree, credo. Lei sapra' dirti qualcosa di piu'.}
+{224}{Cab_62}{Loro ci vendono cibo e altra roba. In cambio, noi diamo loro le nostre armi. Ultimamente non passano piu' cosi' spesso, ma, ehm, non so il perche'.}
+{225}{Cab_63}{Whoa, e' una storia lunga. Va' alla biblioteca e parla con Vree. Lei sara' in grado di dirti dove si trovano tutti i dischi storici.}
+{226}{Cab_64}{Oh, beh, durante l'Esodo la Confraternita si divise in due gruppi. Quelli che si separarono derubarono gli altri di alcune armi e s-si diressero a sud. Poi, circa dieci anni fa, abbiamo mandato i nostri Cavalieri a cercarli, ma non hanno trovato altro che rovine. Nessuno sa cosa sia successo.}
+{227}{Cab_65}{L'antica Confraternita giunse qui da nord molto, molto tempo fa. Noi lo chiamiamo "il grande Esodo". Puoi saperne di piu' se chiedi a Vree, nella biblioteca. }
+{228}{Cab_66}{Uhh... non ne so nulla.}
+{229}{Cab_67}{Hmm... non saprei. Forse dovresti provare a chiedere a qualcuno piu' importante di me.}
+{230}{Cab_68}{Non so cosa sia. Forse dovresti provare a chiedere in giro.}
+{231}{}{Parlane con Mathia. Lei sapra' dirti di piu'.}
+{232}{}{You earn 2000 experience for becoming an Initiate of the Brotherhood of Steel.}
+{233}{}{Non vogliamo gente come te. Vattene!}
+#
+# new for Fallout Fixt:
+#
+{234}{}{Is this what they're looking for? (You show him the holodisk you found.)}
+#
+#
+# Tell-Me-Abouts
+#
+#
+{980}{Cab_66}{Uhh... I don't know anything about that. Entry 980}
+{981}{Cab_67}{Hmm... non saprei. Forse dovresti provare a chiedere a qualcuno piu' importante di me.}
+{982}{Cab_68}{Non so cosa sia. Forse dovresti provare a chiedere in giro.}
+{983}{Cab_66}{Uhh... I don't know anything about that. Entry 983}
+{984}{Cab_66}{Uhh... I don't know anything about that. Entry 984}
+{985}{Cab_66}{Uhh... I don't know anything about that. Entry 985}
+{986}{Cab_66}{Uhh... I don't know anything about that. Entry 986}
+{987}{Cab_66}{Uhh... I don't know anything about that. Entry 987}
+{988}{Cab_66}{Uhh... I don't know anything about that. Entry 988}
+{989}{Cab_66}{Uhh... I don't know anything about that. Entry 989}
+{990}{Cab_66}{Uhh... I don't know anything about that. Entry 990}
+{991}{Cab_66}{Uhh... I don't know anything about that. Entry 991}
+{992}{Cab_66}{Uhh... I don't know anything about that. Entry 992}
+{993}{Cab_66}{Uhh... I don't know anything about that. Entry 993}
+{994}{Cab_66}{Uhh... I don't know anything about that. Entry 994}
+{995}{Cab_66}{Uhh... I don't know anything about that. Entry 995}
+{996}{Cab_66}{Uhh... I don't know anything about that. Entry 996}
+{997}{Cab_66}{Uhh... I don't know anything about that. Entry 997}
+{998}{Cab_66}{Uhh... I don't know anything about that. Entry 998}
+{999}{Cab_66}{Uhh... I don't know anything about that. Entry 999}
+#
+{1000}{}{Iniziato}
+{1001}{}{Vree}
+{1002}{}{Rhombus}
+{1003}{}{Anziano}
+{1004}{}{Anziani}
+{1005}{}{Scriba}
+{1006}{}{Cavaliere}
+{1007}{}{Hub}
+{1008}{}{Olodischi}
+{1009}{}{Mercanti}
+{1010}{}{Confraternita}
+{1011}{}{Antico}
+{1012}{}{Esodo}
+{1013}{}{Cabbot}
+{1014}{}{Ordine}
+{1015}{}{Paladini}
+{1016}{}{Master}
+{1017}{}{Guerra}
+{1018}{}{Esercito}
+{1019}{}{Carovane}
+{1020}{}{Cattedrale}
+{1021}{}{Chip}
+{1022}{}{Entry 1022}
+{1023}{}{Entry 1023}
+{1024}{}{Entry 1024}
+{1025}{}{Entry 1025}
+{1026}{}{Entry 1026}
+{1027}{}{Entry 1027}
+{1028}{}{Entry 1028}
+{1029}{}{Entry 1029}
+{1030}{}{Entry 1030}
+{1031}{}{Entry 1031}
+{1032}{}{Entry 1032}
+{1033}{}{Entry 1033}
+{1034}{}{Entry 1034}
+{1035}{}{Entry 1035}
+{1036}{}{Entry 1036}
+{1037}{}{Entry 1037}
+{1038}{}{Entry 1038}
+{1039}{}{Entry 1039}
+{1040}{}{Entry 1040}
+{1041}{}{Entry 1041}
+{1042}{}{Entry 1042}
+{1043}{}{Entry 1043}
+{1044}{}{Entry 1044}
+{1045}{}{Entry 1045}
+{1046}{}{Entry 1046}
+{1047}{}{Entry 1047}
+{1048}{}{Entry 1048}
+{1049}{}{Entry 1049}
+{1050}{}{Entry 1050}
+{1051}{}{Entry 1051}
+{1052}{}{Entry 1052}
+{1053}{}{Entry 1053}
+{1054}{}{Entry 1054}
+{1055}{}{Entry 1055}
+{1056}{}{Entry 1056}
+{1057}{}{Entry 1057}
+{1058}{}{Entry 1058}
+{1059}{}{Entry 1059}
+{1060}{}{Entry 1060}
+{1061}{}{Entry 1061}
+{1062}{}{Entry 1062}
+{1063}{}{Entry 1063}
+{1064}{}{Entry 1064}
+{1065}{}{Entry 1065}
+{1066}{}{Entry 1066}
+{1067}{}{Entry 1067}
+{1068}{}{Entry 1068}
+{1069}{}{Entry 1069}
+{1070}{}{Entry 1070}
+{1071}{}{Entry 1071}
+{1072}{}{Entry 1072}
+{1073}{}{Entry 1073}
+{1074}{}{Entry 1074}
+{1075}{}{Entry 1075}
+{1076}{}{Entry 1076}
+{1077}{}{Entry 1077}
+{1078}{}{Entry 1078}
+{1079}{}{Entry 1079}
+{1080}{}{Entry 1080}
+{1081}{}{Entry 1081}
+{1082}{}{Entry 1082}
+{1083}{}{Entry 1083}
+{1084}{}{Entry 1084}
+{1085}{}{Entry 1085}
+{1086}{}{Entry 1086}
+{1087}{}{Entry 1087}
+{1088}{}{Entry 1088}
+{1089}{}{Entry 1089}
+{1090}{}{Entry 1090}
+{1091}{}{Entry 1091}
+{1092}{}{Entry 1092}
+{1093}{}{Entry 1093}
+{1094}{}{Entry 1094}
+{1095}{}{Entry 1095}
+{1096}{}{Entry 1096}
+{1097}{}{Entry 1097}
+{1098}{}{Entry 1098}
+{1099}{}{Entry 1099}
+#
+{1100}{Cab_53}{Beh, sono io.}
+{1101}{Cab_54}{E' il capo degli Scriba. Di solito la puoi trovare nella biblioteca. Scendi fino all'ultimo piano e, ehm, la trovi sulla destra.}
+{1102}{Cab_55}{I Cavalieri dicono che sia un maestro severo, ma io non posso dirlo, perche', ehm, sto studiando con Vree per diventare uno Scriba.}
+{1103}{Cab_56}{Il Generale Maxson era il Primo Cavaliere, una volta. Non credo che essere il Sommo Anziano gli piaccia molto.}
+{1104}{Cab_57}{Sono loro che prendono tutte le decisioni, da quel che mangiamo all'assegnazione dei compiti. E, ehm, litigano un sacco. Credo che il Sommo Anziano debba intervenire molte volte...}
+{1105}{Cab_58}{OK, beh, gli Scriba sono i custodi di tutte le cronache e degli schemi tecnici delle armi che produciamo. Adoro quei libri; e' per questo che vorrei diventare uno di loro... uno Scriba, naturalmente.}
+{1106}{Cab_59}{Beh, vedi, sono quelli che vorrebbero diventare i protettori della Confraternita. Non sono in molti, ma si addestrano duramente per tutta la vita pur di diventare Paladini.}
+{1107}{Cab_60}{E' quella citta' a sud, giusto? Riceviamo molte visite da parte dei loro mercanti, ma io non ci sono mai stato. Cavoli, non saprei proprio cosa fare in una citta' cosi' grande.}
+{1108}{Cab_61}{Dovresti parlare con Vree, credo. Lei sapra' dirti qualcosa di piu'.}
+{1109}{Cab_62}{Loro ci vendono cibo e altra roba. In cambio, noi diamo loro le nostre armi. Ultimamente non passano piu' cosi' spesso, ma, ehm, non so il perche'.}
+{1110}{Cab_63}{Whoa, e' una storia lunga. Va' alla biblioteca e parla con Vree. Lei sara' in grado di dirti dove si trovano tutti i dischi storici.}
+{1111}{Cab_64}{Oh, beh, durante l'Esodo la Confraternita si divise in due gruppi. Quelli che si separarono derubarono gli altri di alcune armi e s-si diressero a sud. Poi, circa dieci anni fa, abbiamo mandato i nostri Cavalieri a cercarli, ma non hanno trovato altro che rovine. Nessuno sa cosa sia successo.}
+{1112}{Cab_65}{L'antica Confraternita giunse qui da nord molto, molto tempo fa. Noi lo chiamiamo "il grande Esodo". Puoi saperne di piu' se chiedi a Vree, nella biblioteca. }
+{1113}{Cab_53}{Beh, sono io.}
+{1114}{Cab_64}{Oh, beh, durante l'Esodo la Confraternita si divise in due gruppi. Quelli che si separarono derubarono gli altri di alcune armi e s-si diressero a sud. Poi, circa dieci anni fa, abbiamo mandato i nostri Cavalieri a cercarli, ma non hanno trovato altro che rovine. Nessuno sa cosa sia successo.}
+{1115}{Cab_20}{Mi stai prendendo in giro, eh? Addio! }
+{1116}{Cab_67}{Hmm... non saprei. Forse dovresti provare a chiedere a qualcuno piu' importante di me.}
+{1117}{Cab_63}{Whoa, e' una storia lunga. Va' alla biblioteca e parla con Vree. Lei sara' in grado di dirti dove si trovano tutti i dischi storici.}
+{1118}{Cab_67}{Hmm... non saprei. Forse dovresti provare a chiedere a qualcuno piu' importante di me.}
+{1119}{Cab_62}{Loro ci vendono cibo e altra roba. In cambio, noi diamo loro le nostre armi. Ultimamente non passano piu' cosi' spesso, ma, ehm, non so il perche'.}
+{1120}{Cab_66}{Uhh... non ne so nulla.}
+{1121}{Cab_61}{Dovresti parlare con Vree, credo. Lei sapra' dirti qualcosa di piu'.}

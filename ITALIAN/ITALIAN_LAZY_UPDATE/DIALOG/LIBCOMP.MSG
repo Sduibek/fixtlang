@@ -1,0 +1,16 @@
+{100}{}{Questo computer contiene una gran quantita' di informazioni su com'era il mondo prima della Grande Guerra.}
+{101}{}{Usi il sistema d'insegnamento computerizzato del Vault.}
+{102}{}{Passi un po' di tempo a leggere quanto proposto dal sistema d'insegnamento computerizzato del Vault, ma non impari nulla d'importante. Il tuo maestro, ormai, e' il mondo esterno.}
+{103}{}{You spend 6 hours researching any topic that seems important. You feel you have gained vital knowledge that will help you in your travels outside the Vault.}
+{104}{}{You spend 6 hours on the interwebs doing nothing of importance.}
+{105}{}{Armeggi un po' con il computer, ma per ottenere qualcosa di utile dal terminale ti servirebbero delle conoscenze scientifiche.}
+#
+# Fallout Fixt:
+#
+# A number is inserted between 106 and 107/108/109
+{106}{}{You spend }
+{107}{}{ hours on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
+{108}{}{ hours on the interwebs doing nothing of importance. It was fun but leaves you feeling empty inside.}
+#
+# INT less than 4:
+{109}{}{ hours on the interwebs searching for pornography and videos of cats.}

@@ -1,0 +1,98 @@
+{100}{}{Si direbbe il terminale di controllo di un robot.}
+{101}{}{Non c'e' risposta.}
+{102}{}{Riprogrammazione completata. Attivazione sottosistema - comunicazione vocale. Attivazione sottosistema - personalita'. [Click!] Come posso esserle utile?}
+{103}{}{Hng.}
+{104}{}{Chi o cosa sei?}
+{105}{}{Qual e' la tua funzione?}
+{106}{}{Visualizza la lista dei programmi.}
+{107}{}{Errore di input. Comando non riconosciuto. Ripetere il comando.}
+{108}{}{Hng.}
+{109}{}{La-la.}
+{110}{}{Brai!}
+{111}{}{Niggle!}
+{112}{}{Termine sottosistema di comunicazione. Termine processo.}
+{113}{}{Questo terminale e' dotato di un'Intelligenza Artificiale. Questo terminale fa parte di una rete a matrice WLAN per ottimizzare le operazioni delle unita' remote.}
+{114}{}{Grazie. Er, fine input.}
+{115}{}{Dove sono le unita' remote che controlli?}
+{116}{}{Quali programmi sono attivi?}
+{117}{}{Questo terminale e' responsabile delle operazioni di tutti i robot General Atomics International presenti in questa struttura.}
+{118}{}{Sii piu' specifico, per favore.}
+{119}{}{Quali programmi sono attivi?}
+{120}{}{I robot industriali sono generalmente chiamati "Robobrain". [Click!] La General Atomics International fabbrica i migliori robot industriali del mondo. Nel mese di maggio, grande offerta 3x2 su tutti i robot GAI! E grandi sconti sui modelli "Mr. Handy"! [Click!] Programma pubblicitario terminato.}
+{121}{}{Quali programmi sono attivi?}
+{122}{}{Programmi attualmente in esecuzione: Manutenzione edificio v2.1, Movimento v4.8b, Riparazione v0.8a, Disinfestazione v1.4, Hearts v1.0 e Sensori '76.}
+{123}{}{Terminare Movimento.}
+{124}{}{Terminare Sensori.}
+{125}{}{Terminare Disinfestazione.}
+{126}{}{Terminate Hearts.}
+{127}{}{Grazie. Fine Input.}
+{128}{}{Chiusura in corso. [Click!] Errore di sistema. Impossibile terminare l'applicazione. Diritti di sistema non disponibili.}
+{129}{}{Hmm, regola i parametri di Movimento.}
+{130}{}{Regola i parametri di Sensori.}
+{131}{}{Modifica Disinfestazione.}
+{132}{}{Partita ad Hearts.}
+{133}{}{Grazie. Fine input.}
+{134}{}{Programma selezionato: Movimento v4.8b. Parametri attuali: [massimo/medio/minimo]. Impostare su: massimo, medio o minimo.}
+{135}{}{Massimo.}
+{136}{}{Medio.}
+{137}{}{Minimo.}
+{138}{}{Programma selezionato: Sensori '76. Parametri attuali: [completi/minimi]. Impostare su: completi o minimi.}
+{139}{}{Sensori completi.}
+{140}{}{Sensori minimi.}
+{141}{}{Programma selezionato: Disinfestazione v1.4. Parametri attuali: [Click!] non autorizzati. Impostare su: [Click!] tutti, nessuno, piccoli, grandi, non autorizzati.}
+{142}{}{Tutti.}
+{143}{}{Nessuno.}
+{144}{}{Piccoli.}
+{145}{}{Grandi.}
+{146}{}{Non autorizzati.}
+{147}{}{Programma Hearts in corso. L'utente vince. [Click!] Grazie per la partita.}
+{148}{}{Programma Hearts in corso. Il terminale vince. [Click!] Grazie per la partita.}
+{149}{}{Parametri del programma modificati. Programmi attualmente in corso: Manutenzione Edificio v2.1, Movimento v4.8b, Riparazione v0.8a, Disinfestazione v1.4, Hearts v1.0 e Sensori '76.}
+{150}{}{Regola i parametri di Movimento.}
+{151}{}{Regola i parametri di Sensori.}
+{152}{}{Modifica Disinfestazione.}
+{153}{}{Partita ad Hearts.}
+{154}{}{Grazie. Fine input.}
+{155}{}{Programmi attualmente in corso: Manutenzione Edificio v2.1, Movimento v4.8b, Riparazione v0.8a, Disinfestazione v1.4, Hearts v1.0 e Sensori '76.}
+{156}{}{Regola i parametri di Movimento.}
+{157}{}{Regola i parametri di Sensori.}
+{158}{}{Modifica Disinfestazione.}
+{159}{}{Partita ad Hearts.}
+{160}{}{Grazie. Fine input.}
+{161}{}{Attivazione sottosistema - comunicazione vocale. Attivazione sottosistema - personalita'. [Click!] Come posso esserle utile?}
+{162}{}{Hnng.}
+{163}{}{Mostrami i programmi.}
+{164}{}{Disattiva tutti i campi di forza.}
+{165}{}{Sai cos'e' questo posto?}
+{166}{}{Attiva lo spegnimento d'emergenza.}
+{167}{}{Fine input.}
+{168}{}{Questo terminale non puo' eseguire l'operazione. Richiesta negata.}
+{169}{}{Mostrami i programmi.}
+{170}{}{Sai cos'e' questo posto?}
+{171}{}{Attiva lo spegnimento d'emergenza.}
+{172}{}{Fine input.}
+{173}{}{Questo e' il -- top secret [click!] [click!]}
+{174}{}{Annulla la richiesta. Mostrami i programmi.}
+{175}{}{Ignora e rispondi alla domanda.}
+{176}{}{[Click!] Questa e' la struttura di controllo per la produzione del FEV. Attivazione del terminale: 2074. Termine processo di pre-produzione: 2075. I lavori sono ancora in corso. Apertura prevista: 2078. [Click!]}
+{177}{}{Cos'e' il FEV?}
+{178}{}{Sai che giorno e' oggi?}
+{179}{}{Il FEV e' il Virus [click!] per l'Evoluzione Forzata, un prodotto dei laboratori Livermore/Broansoun. E' stato progettato per aumentare la complessita' genetica di un segmento di DNA/RNA in brevi periodi di tempo.}
+{180}{}{Mostrami i programmi.}
+{181}{}{Fine input.}
+{182}{}{Affermativo. La data registrata dal terminale e' 2 febbraio 2077.}
+{183}{}{Mostrami i programmi.}
+{184}{}{Fine input.}
+{185}{}{Questa data non e' corretta. Prova a ricalibrare.}
+{186}{}{Correzione in corso. [Click!] Errore. Programma di auto-diagnostica in corso. [Click! CLICK!] ERRORE! ERRORE CRITICO DI SISTEMA. REGISTRO DI SISTEMA DANNEGGIATO. RICOMPILAZIONE IN CORSO. [Lunga pausa.]}
+{187}{}{Terminale?}
+{188}{}{[click] Errore di ricompilazione. [click]}
+{189}{}{Impossibile eseguire richiesta. Dialogo terminato.}
+{190}{}{Confermare chiusura d'emergenza.}
+{191}{}{Confermata.}
+{192}{}{Interrompere procedura di spegnimento.}
+{193}{}{[Click!]}
+{194}{}{Elaborazione richiesta in corso. Dialogo terminato.}
+{195}{}{Questo computer non e' compatibile con la radio. Utilizza alte frequenze dedicate esclusivamente ai robot.}
+{196}{}{Premi alcuni pulsanti, ma il computer sembra danneggiato. Ci vorra' un po' per riuscire a farlo funzionare.}
+{197}{}{Il computer non ha danni fisici, ma i dati al suo interno si direbbero danneggiati.}

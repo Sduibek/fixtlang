@@ -1,0 +1,42 @@
+{100}{}{Vedi la guardia delle scorte d'acqua.}
+{101}{}{Ciao, }
+{102}{}{. }
+{103}{}{Ciao. Come va?}
+{104}{}{Gahh!}
+{105}{}{Beh, "Gahh!" anche a te... E' un peccato che tu non abbia mai imparato a parlare. Avremmo potuto essere buoni amici.}
+{106}{}{Ouff.}
+{107}{}{Non troppo bene. Qualcuno mi ha dato un colpo in testa con un grosso tubo. Sono andato dal medico, ma la botta mi fa ancora male. Spero proprio che qualcuno lo becchi, quel bastardo che mi ha colpito.}
+{108}{}{Com'e' successo?}
+{109}{}{Guck.}
+{110}{}{Beh, una notte ero qui ed era piuttosto tardi. Di solito torno nella mia camera alle otto circa, ma quella sera ero rimasto fino a tardi perche' c'erano stati dei furti d'acqua e stavo controllando le scorte. E' stato allora che sono stato colpito. La prima cosa che mi ricordo e' che mi sono svegliato in infermeria con un grosso bernoccolo in testa. La situazione sta davvero andando fuori controllo. Prima o poi qualcuno rimarra' ucciso per l'acqua e non so proprio cosa possiamo fare.}
+{111}{}{Cerchero' di fare qualcosa.}
+{112}{}{Mi dispiace. Ti auguro di rimetterti presto.}
+{113}{}{Ecco la tua acqua.}
+{114}{}{Questa e' la tua razione per oggi.}
+{115}{}{Ehi! Cosa pensi di fare?!?}
+{116}{}{Non prenderne cosi' tante, per favore. Ci servono!}
+{117}{}{Inserisci il tuo rapporto nella memoria della biblioteca. Faresti bene a tornare dal Supervisore e discutere con lui dei tuoi progressi.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by code between lines 118 and 119.
+{118}{}{Buongiorno, }
+{119}{}{.}
+{120}{}{Ciao. Come vanno le cose, ultimamente?}
+{121}{}{Dimmi, cosa ci fai qui?}
+{122}{}{Beh, tutti sono un pochino nervosi, naturalmente, ma non ci sono stati troppi problemi. Spero che tu riesca a trovare presto il nuovo chip.}
+{123}{}{Distribuisco le razioni d'acqua, ovviamente. E mi assicuro che nessuno cerchi di prendere piu' acqua di quanto gli spetti, anche se credo che non ci saranno problemi del genere.}
+{124}{}{Hmm. Bene, continua cosi'.}
+{125}{}{Anche tu. Spero che tu possa trovare presto quel chip, cosi' che potremo tornare alla nostra vita di sempre.}
+{126}{}{Puoi prendere un po' delle nostre scorte, se ti servono. La tua missione e' molto importante, ma cerca di non prenderne troppe. Non ci rimane molto.}
+{127}{}{Posso prendere un po' delle vostre scorte?}
+
+
+{1000}{}{Razione}
+{1001}{}{Razioni}
+{1002}{}{Scorte}
+{1003}{}{Acqua}
+
+
+{1100}{}{La mattina distribuisco le razioni d'acqua. Non dovresti averne bisogno, dal momento che presto tornerai in Superficie.}
+{1101}{}{La mattina distribuisco le razioni d'acqua. Non dovresti averne bisogno, dal momento che presto tornerai in Superficie.}
+{1102}{}{Ci rimangono solo poche scorte. Puoi prendere qualcosa, se ti serve per la tua missione... ma, per favore, non prendere troppo.}
+{1103}{}{La mattina distribuisco le razioni d'acqua. Non dovresti averne bisogno, dal momento che presto tornerai in Superficie.}

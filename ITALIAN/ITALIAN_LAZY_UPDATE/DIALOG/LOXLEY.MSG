@@ -1,0 +1,262 @@
+{100}{}{Vedi Loxley, il capo della Cerchia dei Ladri.}
+{101}{LOX_0}{E' un piccolo presente da parte dei miei genitori. Invero, da un paio di generazioni prima di loro. Vi piace?}
+{102}{}{E' perfetto per te.}
+{103}{}{No, mi urta le orecchie.}
+{104}{LOX_0A}{Beh, grazie. Faticar non poco ho dovuto per tenerlo senza troppe raffinatezze, nevvero? Ma ragionar di questo m'e' giunto a noia. Loxley e' il nome mio. E il vostro sarebbe...?}
+{105}{}{Mi chiamo }
+{106}{}{.}
+{107}{}{Che te ne frega?}
+{108}{}{Cos'e' questo posto?}
+{110}{LOX_1F}{E' una mirabile impresa che voi abbiate superato le mie difese, invero! Qual e' il vostro nome, amabil donzella?}
+{109}{LOX_1M}{Qual perizia dimostraste nel superar le mie difese, messere! Sono invero maravigliato. Orsu', favellate il nome vostro!}
+{111}{}{Sono }
+{112}{}{.}
+{113}{}{Che te ne frega?}
+{114}{}{Che posto e' questo?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+# "You got" means "You have"
+{115}{}{Hai un accento davvero interessante, amico mio.}
+
+{116}{}{Parli come un idiota.}
+{117}{}{Nuhhh?}
+{118}{LOX_2F}{Incantato di fare la vostra conoscenza, invero... per ora, s'intende. Vediamo di sbrigare le restanti formalita', nevvero? Cosa diavolo, diavolo, diavolo ci fai qui?!}
+{119}{}{Voglio entrare nella Cerchia.}
+{120}{}{Vorrei chiederti un paio di cose.}
+{121}{}{Vi voglio sbattere tutti in cella.}
+{122}{LOX_3}{Oh, che carino. Una matricola. Dico, hai lavorato assai alacremente per gettar quivi una semplice occhiata, invero. Ma se davvero vuoi entrare, allora dovrai affrontare un secondo giudizio.}
+{123}{}{Di che si tratta?}
+{124}{}{Sembra pericoloso... E se rinunciassi?}
+{125}{}{Ehm... qual era il primo?}
+{126}{LOX_4}{Piuttosto semplice, invero. Devi dimostrare il tuo valor ladresco. Riesci e il mondo sara' tuo! Fallisci e mai piu' ci rivedrai. A men che cercarci tu non voglia. E se non cogli, l'ultima parte e' una minaccia.}
+{127}{}{In cosa consiste il test?}
+{128}{}{Intendi dire che sposterete il vostro covo, o che cercherete di uccidermi?}
+{129}{}{Mi stai minacciando?}
+{130}{LOX_5}{E' semplice, semplicissimo. In su li Colli troverai la magione di Daren Hightower, d'ogne ricchezza pregna e pronta solo per la raccolta. Sei pronto ad affrontare la vita?! Accetti tu la tenzone?}
+{131}{}{Sono pronto!}
+{132}{}{Diavolo, no!}
+{134}{LOX_6F}{Questo e' lo spirto, madamigella!}
+{133}{LOX_6M}{Questo e' lo spirto, messere!}
+{135}{LOX_6B}{Favella dunque con Jasmine nell'androne fuori di queste stanze. Ella ti dara' i dettagli, una mappa e un poco di aiuto per cominciare. Ma bada: fa' che uno spiffero giunga agli sbirri e noi saremo un ricordo prima ancor ch'arrivino. Basta parole malinconiche. Salute, buona fortuna e cha-cha!}
+{136}{LOX_7}{Beh, e allora perche' diavolo, diavolo sei qui? Per il panorama? Per l'atmosfera? Per il mio maraviglioso viso?}
+{137}{}{No, sono qui per farti qualche domanda.}
+{138}{}{Di certo non per il viso.}
+{139}{}{Hai ragione. Vorrei entrare nella Cerchia.}
+{140}{LOX_8}{Tutto qui? Di domande una manciata! Beh, o sei un prode sanza pari oppure un completo idiota. Domanda, domanda! ...e poi ti indirizzeremo alla porta, nevvero?}
+{141}{LOX_9}{Uno scherzo orsu' dev'esser questo! Credi dunque che potrei accettare un tale insulto! Sparisci, plebaglia!}
+{142}{LOX_10}{Oh, uno spirto ardente, invero!  Ma siamo amici tutti, qui, nevvero?}
+{143}{}{Non vedo perche'.}
+{144}{}{Hai ragione. Mi dispiace.}
+{145}{LOX_11}{Ohhh, ahime' lasso, il cor mi si spezza. L'occasion d'esser compagni e' perduta. [Sigh] Jasmine, conduci codesto pezzente all'uscio.}
+{146}{LOX_12}{Ooh, diretto e pungente come una freccia. Piacemi chi e' sempre sulla breccia. Ritengo che sarai una maravigliosa aggiunta per la nostra allegra brigata. Cosa ne dici?}
+{147}{}{Okay!}
+{148}{}{Dico che sei un pazzo completo.}
+{149}{lox_12b}{Okay!}
+{150}{LOX_13}{Oh, noia e disgusto. Beh, son dispiaciuto d'udir simili parole, invero. Saresti stato un ladro perfetto. Ma la Cerchia non e' luogo per persone d'inumana stupidita'. Orsu', Jasmine, mena il nostro ospite all'uscio.}
+{151}{LOX_14}{Oh, per chi mi hai preso, dunque? Se cerchi assassini dal sangue freddo, guarda a Decker e alla sua cricca. Se fallisci, la qual cosa appare ormai cosa certa, scompariremo come ombre. Vuoi dunque provare, oppure e' un diniego quel che sto per udire?}
+{152}{}{Lo faro'.}
+{153}{}{Scordatelo.}
+{154}{LOX_16}{Oh, no. Lo sconforto mi pervade. Si' dura e' la vita. "Loxley, preferisco viver cento giorni da pecora che uno da leone". Ah, non sei altro che un mezzasega. Fuori!}
+{155}{LOX_17}{Si' ciechi sono i tuoi occhi, nevvero? La Prima Prova era lo giunger al mio cospetto! A cagione di cio' ti presto or ora ascolto.}
+{156}{}{Okay, faro' tutto cio' che vorrai!}
+{157}{}{In cosa consiste il prossimo test?}
+{158}{}{Beh, dovevo soltanto farti qualche domanda.}
+{159}{LOX_18}{Ah, ah, ah.  Ooh, molto divertente, invero. Condurci nelle patrie galere? Tu? E in qual guisa, se posso, intenderesti procedere?}
+{160}{}{Seguitemi senza fare storie e nessuno si fara' del male.}
+{161}{}{Beh, per stavolta lasciamo perdere.}
+{162}{LOX_21}{Cosa importa a me? E' palese, invero. Dichiara il tuo nome, o io ti mostrero' l'uscio.}
+{163}{}{Okay. Sono }
+{164}{}{.}
+{165}{}{E se io ti mostrassi i miei stivali?}
+{166}{LOX_22}{Questa e' la celeberrima Cerchia dei Ladri! Io m'illudeva che nota ti fosse, invero, data la perizia con cui ti insinuasti tra le difese mie. Ma il problema non si pone. Prometti bene e la Cerchia potrebbe far buon uso di persone di tal pasta.}
+{167}{}{Okay, che cosa devo fare?}
+{168}{}{No grazie. Vorrei farti qualche domanda, pero'.}
+{169}{}{Puoi scordartelo.}
+{170}{LOX_23}{Beh, le mie difese vincesti, di maravigliose abilita' devi esser tu padrone. Come ti nomasti?}
+{171}{}{Sono }
+{172}{}{.}
+{173}{}{Che ti frega?}
+{174}{}{Cos'e' questo posto?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{175}{}{Hai un modo di parlare davvero interessante, amico mio.}
+
+{176}{}{Parli come un idiota.}
+{177}{LOX_24}{Cosa diavolo vuoi?}
+{178}{}{Che cosa ho fatto? Perche' tutta questa ostilita'?}
+{179}{}{Star lontano da te.}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{180}{}{Ehi, io sto dalla tua parte. Sono qui da amico.}
+
+{181}{LOX_25}{Tu non mi garbi. La cagion m'e' ignota, e non mi cale.}
+{182}{}{Dammi una possibilita'!}
+{183}{}{Beh, allora sei proprio un idiota, eh?}
+{184}{LOX_26}{Un caloroso grazie per questo amabile momento.  Jasmine, conduci all'uscio il nostro ospite.}
+{185}{LOX_27}{Oh, qual letizia rivederti. Mi hai dunque portato qualcosa?}
+{186}{}{Si', le mie dimissioni. Ho deciso di rinunciare al tuo stupido test.}
+{187}{}{Non ancora.}
+{188}{}{Ecco la collana...}
+{189}{LOX_29}{Ah! Ah! Ben fatto! Felicitazioni! Or sei un membro della celeberrima Cerchia dei Ladri. Facciamo intrar Jasmine, che' conduca seco un goccio per rinfrescar le gole nostre riarse, nevvero?}
+{190}{LOX_30}{Oh, quai lazzi. Deggio farti pero' saper che di tal frizzi a me cale poco. Bagattelle. Volevi prender per lo naso il buon veglio Loxley, nevvero? Una cosa ti diro'. Un'altra sola possibilita'. Conduci teco la collana.}
+{191}{LOX_31}{Sai tu che di una pigna in del cul peggio sei?}
+{192}{LOX_32}{Stolto! Oh. Piagne el cor mio all'udir questo.  Ah, orsu', la nostra piccola Cerchia dovra' tirare avanti, privata dell'argentina tua presenza. Ahi, lasso. Jasmine, l'uscio pe'l'ospite nostro. E niun ripensamento, nevvero?}
+{193}{LOX_33}{E allora cosa diavolo, diavolaccio ci fai qui?  Scio'!  Sloggia. La prossima volta porta teco la collana.}
+{194}{}{Cosa succede di bello, da queste parti?}
+{195}{}{Parlami dell'Hub.}
+{196}{}{Hai sentito qualche voce interessante, ultimamente?}
+{197}{}{Parlami un po' della Cerchia.}
+{198}{}{Sto cercando le carovane scomparse. Hai qualche idea?}
+{199}{LOX_35}{Ebbene, la citta' intera e' una bolgia, invero, col bailamme de le carovane scomparse. Un problema, e non da poco. Ruina le finanze della Cerchia, nevvero?}
+{200}{}{Chi sono i responsabili, secondo te?}
+{201}{}{Grazie. Posso farti qualche altra domanda?}
+{202}{LOX_36}{Ignoti mi son, ma spero che si scopran presto. L'umane genti son tese come funi e il lavoro nostro s'e' fatto duro, nevvero? Per non citar tutte le fandonie superstiziose che giran per l'aere, invero.}
+{203}{}{Che tipo di fandonie?}
+{204}{}{Grazie. Posso farti qualche altra domanda?}
+{205}{LOX_37}{Oh, certuni blaterano d'un Artiglio della Morte che ghermirebbe le carovane, per condurle nel suo covo per il the delle cinque.}
+{206}{}{Davvero gustoso. Posso farti qualche altra domanda?}
+{207}{LOX_38A}{Oh, assolutamente. Siamo tutti amici, qui.}
+{208}{lox_38b}{[Sigh] Un diniego? A cagion di cosa?}
+{209}{LOX_38C}{Dimanda, dimanda pure.}
+{210}{LOX_39}{No, invero. Una l'avesti. Considerati fortunato. Addio. Cha-cha.}
+{211}{lox_40}{Nulla che potrebbe stimolar l'ingegno tuo.}
+{212}{}{Provaci.}
+{213}{}{Okay, grazie. Posso farti qualche altra domanda?}
+{214}{LOX_41}{Oh, invero nulla. Solo, l'intera citta' e' una bolgia infernale per via di quelle carovane scomparse. Tutto qui.}
+{215}{}{Gneeee, grazie. Posso farti qualche altra domanda?}
+{216}{LOX_42}{Oh, le cose solite. Le carovane de li mercanti si fan grasse strozzando i poveri, mentre quel maramaldo di Decker gioca co' tutti quanti.}
+{217}{LOX_43}{Ebbene, qui troverai un numero equo di negozi e altro. Aggiungi dei Figli de la Cattedrale, scervellati. Poi un pizzico di Decker e del circolo suo che fan la vita nostra assai dura. Condisci con uno spruzzo di mercanti cupidi e avrai del tutto un quadro.}
+{218}{}{Mi par di capire che i mercanti siano fondamentalmente feccia, no?}
+{219}{}{Ho come l'impressione che tu non sia un grande fan di questo Decker.}
+{220}{LOX_43A}{Tiriamo innanzi, prego.}
+{221}{LOX_44}{La ragione non ti manca! E' tale la cagione che ci spinse a formar la Cerchia, nevvero? Questi ricchi parassiti, de le povere genti sfruttatori. E i meschini solo attendevano un eroe. Per l'aiuto che loro diamo, si prostrano in pratica a li calzari nostri.}
+{222}{}{Che male c'e' a voler fare soldi?}
+{223}{}{Proprio come Robin Hood!}
+{224}{LOX_47}{Il problema tu chiedi qual e'?! Brutto... ebbene, sbagliavo sul conto tuo, nevvero?  Jasmine, mostra l'uscio a codesto leccapiedi de' mercanti!}
+{225}{LOX_48}{T'e' nota la storia! Sapevo che in te c'era qualcosa di maraviglioso. Ah, mio nonno raccontavamela anni addietro. Ecce ladro! Ma basta ragionar di cio'. Altro tu vuo' dimandar?}
+{226}{LOX_51}{Oltre le carovane scomparse, null'altro. Oh, aspetta. Uno de' miei prodi e' tornato l'altro di', illuminato tutto, con un poco di radiazioni in corpo. Brutto affare. Troppo prossimo alla Bocca dell'Inferno dev'esser giunto.}
+{227}{LOX_53}{Rubiamo ai ricchi, semplice e palese. Doniamo, oh, dal dieci al venti percento a le povere genti, in la Citta' Vetusta. La Cerchia trattien lo venti, il restante termina in la sacca de li ladri. Un accordo che funziona, invero.}
+{228}{LOX_54}{Siamo una banda di tagliaborse! Che ti aspettavi, un club di cucito?}
+{229}{LOX_55A}{Dai mercanti puoi provare, ma lo tempo tuo sarebbe meglio speso se nottetempo tu li alleggerissi un po' de lor talenti. Fandonie ritengo siano, ma de l'Artiglio de la Morte potresti dimandar. O persin seguire tu stesso una carovana, se'l senno tuo hai smarrito.}
+{230}{LOX_55B}{Ebbene, come diavolo potrei saperlo? Un mercante ti sembro, forse?}
+{231}{LOX_56}{Un paio di regole. Uno, non farti acciuffare. Due, mai e giammai rubare alla Cerchia. Metti giu'.}
+{232}{LOX_57}{Il senso delle mie parole t'e' duro, nevvero?  Jasmine, l'uscio per il nostro folle amico e che non deggia piu' riveder lo volto suo.}
+{233}{LOX_58}{Di capir tu proprio non hai voglia. Risparmiatelo per li mercanti, nevvero?}
+{234}{LOX_59}{Cosa diavolo ci fai qui tu? Sloggia!}
+{235}{LOX_60}{Vedi, com'io dissi...}
+{236}{LOX_61}{Ebbene, com'io dissi...}
+{237}{LOX_62}{Come un mulo tu se'? Ho detto...}
+{238}{LOX_63}{Stupido o sordo, cosa sei? Come gia' dissi...}
+{239}{LOX_64}{Non trovo divertente ripeter cio' che favellai.}
+{240}{LOX_65}{Ugh! E' uno sforzo inane. E' palese che nemmen un maglio saprebbe ficcar cio' che dissi in quel cocciuto tuo cranio.}
+{241}{LOX_66}{No. Decker e' una serpe. Ha la citta' intera nella scarsella, invero. "Protezione" offre a li mercanti, nel mentre ponendoli l'un contro l'altro. Un tipo da evitare senza fallo, ma trovar lo potrai all'Osteria del Falco.}
+{242}{LOX_67}{D'arme e' un mercante, a nord della Citta' Veglia lo troverai. Un figuro pericoloso assai, troppo letale la sua mercanzia.}
+{243}{LOX_68}{A genio di certo non gli andiamo.}
+{244}{LOX_69}{Harold? Male di certo non e', per esser un ghoul. A sud di qui risiede.}
+{245}{LOX_70}{Di Decker il braccio destro, di certo uno da evitare. Lo si trova all'Osteria del Falco.}
+{246}{LOX_71}{Loro. Tronfi e superbi sulla loro cisterna, a sud della Piazza, estorcon lo sangue a noi brava gente per un goccio d'acqua che di natura dal suolo sgorga. Esser tutti sgozzati dovrebbero, come porci.}
+{247}{LOX_72}{In centro hanno una picciol bottega. Non ti fidar di lor. Nascosti nella loro dannata dimora in ogne momento. Medicine lor vendono, invero. E il costo e' assai inferiore a quello de gli stolti de la Cattedrale.}
+{248}{LOX_73}{La cosa piu' prossima ad esser definita "decente" del trio di carovanieri. Solo, peccato che la distanza rimanga nell'ordine delle miglia.}
+{249}{LOX_74}{Criminali. Criminali veri. Spremono il sangue de la citta'. I Mercanti FarGo, le Carovane Scarlatte e i peggiori del lotto, i Mercanti d'Acqua. Un bel quadretto.}
+{250}{lox_75}{Nell'ombellico esatto de la citta'.}
+{251}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
+{252}{LOX_77}{Par ch'ogne di' porti notizia d'una nuova scomparsa. La gente ha tema di lasciar la citta' sanza protezione. Certuni persin dan la colpa all'Artiglio della Morte.}
+{253}{LOX_78}{Circa tre anni or sono, uno de' mercanti mossesi a meridione per cercar nuove citta'. Torno' con li capelli e la dentatura cadenti, biascicando parole che parlavan di immense radiazioni. Chissa'? Forse qualcosa di speciale cadde laggiu', durante la guerra.}
+{254}{LOX_79}{Molti de' reietti che fatican per li mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piange el core mio.}
+{255}{LOX_80}{Sfarzosi edifici. Comprati col sangue de' poveri.}
+{256}{LOX_81}{Bob trovar lo potrai nel centro esatto de la Piazza de' Mercanti. Quei suo' iguana brusti vendera', probabilmente, finche' la morte non lo cogliera'.}
+{257}{LOX_82}{Oh, timor m'assale al ragionar di tal cricca. Van vagheggiando ogne di' del loro Dio della Notte, come fosse maraviglia inferior soltanto all'arrivo di mercanti munifici. Curar ti possono e per poco conio. Lo ammetto. Il lor ospitale troverai vicino alla Piazza.}
+{258}{LOX_83}{Oh, di svitati un altro gruppo. Appollaiati nella loro nera fortezza, a nord, in attesa di una nuova pugna.}
+{259}{LOX_84}{Oh, usar prudenza si deve. I Ripper i Blade amano sbudellar solo per lor diletto. Invece la citta', Adytum, mena avanti sol per sopravvivere. Se'l fato condurti vorra' tra que' luoghi, se imbattuto ti sarai nei Blade, porgi un saluto a Razor in vece mia. Rimembrar d'ella fa ridestar memorie passate, invero.}
+{260}{LOX_85}{Degli svitati che dimorano nel Boneyard. Per anni lottaron, e la cagion s'e' persa. Invero stupido, nevvero.}
+{261}{LOX_86}{Oh, che donna! Un tempo era un ladro, qui da noi, fino al di' che cerco' fortuna in lo Boneyard. So che si e' unita ai Blade. Ah, orsu', l'arguzia non fu mai l'attributo suo migliore.}
+{262}{LOX_87}{Hmm, non ne ho la piu' pallida}
+{263}{LOX_88}{Lo ignoro. Davvero.}
+{264}{LOX_89}{Hmm. Non saprei. Davvero.}
+{265}{LOX_90}{Ebbene, [sghignazza], qual prodigio s'e' palesato per far si' che uno stolto qual tu se' vincesse le difese mie? Mi dispiace, ma gli idioti non ammettiamo tra le fila nostre: vogliamo solo amabili conversatori. Jasmine, conduci il nostro bavoso amico all'uscio, ti prego.}
+{266}{LOX_91}{Favella con Jasmine ed ella ti dara' li dettagli.}
+{267}{}{Loxley sembra troppo impegnato per parlare.}
+{268}{}{Jasmine ti dara' cio' che meriti.}
+
+
+# Loxley Tell-Me-Abouts generic responses
+{980}{LOX_87}{Hmm, non ne ho la piu' pallida...}
+{981}{LOX_88}{Lo ignoro. Davvero.}
+{982}{LOX_89}{Hmm. Non saprei. Davvero.}
+{983}{LOX_90}{Ebbene, [sghignazza], qual prodigio s'e' palesato per far si' che uno stolto qual tu se' vincesse le difese mie? Mi dispiace, ma gli idioti non ammettiamo tra le fila nostre: vogliamo solo amabili conversatori. Jasmine, conduci il nostro bavoso amico all'uscio, ti prego.}
+
+
+#
+# Loxley Tell-Me-Abouts
+#
+
+{1000}{}{Decker}
+{1001}{}{Jacob}
+{1002}{}{Polizia}
+{1003}{}{Harold}
+{1004}{}{Kane}
+{1006}{}{Scarlatte}
+{1007}{}{FarGo}
+{1008}{}{Carovane}
+{1009}{}{Mercato}
+{1010}{}{Deathclaw}
+{1011}{}{Scomparse}
+{1012}{}{Inferno}
+{1013}{}{Citta'}
+{1014}{}{Colli}
+{1015}{}{Bob's}
+{1016}{}{Cattedrale}
+{1017}{}{Confraternita}
+{1018}{}{Angels}
+{1019}{}{Blade}
+{1020}{}{Razor}
+{1021}{}{Mercanti}
+{1022}{}{Bocca}
+{1023}{}{Iguana}
+{1024}{}{Pezzi}
+{1025}{}{Bobs}
+{1026}{}{Acciaio}
+{1027}{}{Los}
+{1028}{}{Boneyard}
+{1029}{}{Carovane}
+{1030}{}{Artiglio}
+{1031}{}{Death}
+{1032}{}{Glow}
+{1033}{}{Old Town}
+{1034}{}{Old}
+
+{1100}{LOX_66}{No. Decker e' una serpe. Ha la citta' intera nella scarsella, invero. "Protezione" offre a li mercanti, nel mentre ponendoli l'un contro l'altro. Un tipo da evitare senza fallo, ma trovar lo potrai all'Osteria del Falco.}
+{1101}{LOX_67}{D'arme e' un mercante, a nord della Citta' Veglia lo troverai. Un figuro pericoloso assai, troppo letale la sua mercanzia.}
+{1102}{LOX_68}{A genio di certo non gli andiamo.}
+{1103}{LOX_69}{Harold? Male di certo non e', per esser un ghoul. A sud di qui risiede.}
+{1104}{LOX_70}{Di Decker il braccio destro, di certo uno da evitare. Lo si trova all'Osteria del Falco.}
+{1106}{LOX_72}{In centro hanno una picciol bottega. Non ti fidar di lor. Nascosti nella loro dannata dimora in ogne momento. Medicine lor vendono, invero. E il costo e' assai inferiore a quello de gli stolti de la Cattedrale.}
+{1107}{LOX_73}{La cosa piu' prossima ad esser definita "decente" del trio di carovanieri. Solo, peccato che la distanza rimanga nell'ordine delle miglia.}
+{1108}{LOX_74}{Criminali. Criminali veri. Spremono il sangue de la citta'. I Mercanti FarGo, le Carovane Scarlatte e i peggiori del lotto, i Mercanti d'Acqua. Un bel quadretto.}
+{1109}{lox_75}{Nell'ombellico esatto de la citta'.}
+{1110}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
+{1111}{LOX_77}{Par ch'ogne di' porti notizia d'una nuova scomparsa. La gente ha tema di lasciar la citta' senza protezione. Certuni persin dan la colpa all'Artiglio della Morte.}
+{1112}{LOX_78}{Circa tre anni or sono, uno de' mercanti si mosse a meridione per cercare nuove citta'. Torno' con li capelli e la dentatura cadenti, biascicando parole che parlavan di immense radiazioni. Chissa'? Forse qualcosa di speciale cadde laggiu', durante la guerra.}
+{1113}{LOX_79}{Molti dei reietti che fatican per li mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor...}
+{1114}{LOX_80}{Sfarzosi edifici. Comprati col sangue de' poveri.}
+{1115}{LOX_81}{Bob trovar lo potrai nel centro esatto de la Piazza de' Mercanti. Quei suo' iguana brusti vendera', probabilmente, finche' la morte non lo cogliera'.}
+{1116}{LOX_82}{Oh, timor m'assale al ragionar di tal cricca. Van vagheggiando ogne di' del loro Dio della Notte, come fosse una maraviglia inferiore soltanto a mercanti munifici. Curar ti possono e per poco conio. Lo ammetto. Il lor ospitale troverai vicino alla Piazza.}
+{1117}{LOX_83}{Oh, di svitati un altro gruppo. Appollaiati nella loro nera fortezza, a nord, in attesa di una nuova pugna.}
+{1118}{LOX_84}{Oh, usar prudenza si deve. I Ripper i Blade aman sbudellar solo per lor diletto. Invece la citta', Adytum, mena avanti sol per sopravvivere. Se'l fato condurti vorra' tra quei luoghi, se imbattuto ti sarai nei Blade, porgi un saluto a Razor in vece mia. Rimembrar d'ella fa ridestar memorie passate, invero.}
+{1119}{LOX_85}{Degli svitati che dimorano nel Boneyard. Per anni lottaron, e la cagion s'e' persa. Invero stupido, nevvero?}
+{1120}{LOX_86}{Oh, che donna! Un tempo era un ladro, qui da noi, fino al di' che cerco' fortuna in lo Boneyard. So che si e' unita ai Blade. Ah, orsu', l'arguzia non fu mai l'attributo suo migliore.}
+{1121}{LOX_71}{Loro. Tronfi e superbi sulla loro cisterna, a sud della Piazza, estorcon lo sangue a noi brava gente per un goccio d'acqua che di natura dal suolo sgorga. Esser tutti sgozzati dovrebbero, come porci.}
+{1122}{LOX_78}{Circa tre anni or sono, uno de' mercanti si mosse a meridione per cercar nuove citta'. Torno' con li capelli e la dentatura cadenti, biascicando parole che parlavan di immense radiazioni. Chissa'? Forse qualcosa di speciale cadde laggiu', durante la guerra.}
+{1123}{LOX_81}{Bob trovar lo potrai nel centro esatto de la Piazza de' Mercanti. Quei suo' iguana brusti vendera', probabilmente, finche' la morte non lo cogliera'.}
+{1124}{LOX_81}{Bob trovar lo potrai nel centro esatto de la Piazza de' Mercanti. Quei suo' iguana brusti vendera', probabilmente, finche' la morte non lo cogliera'.}
+{1125}{LOX_81}{Bob trovar lo potrai nel centro esatto de la Piazza de' Mercanti. Quei suo' iguana brusti vendera', probabilmente, finche' la morte non lo cogliera'.}
+{1126}{LOX_83}{Oh, di svitati un altro gruppo. Appollaiati nella loro nera fortezza, a nord, in attesa di una nuova pugna.}
+{1127}{LOX_84}{Oh, usar prudenza si deve. I Ripper i Blade aman sbudellar solo per lor diletto. Invece la citta', Adytum, mena avanti sol per sopravvivere. Se'l fato condurti vorra' tra quei luoghi, se imbattuto ti sarai nei Blade, porgi un saluto a Razor in vece mia. Rimembrar d'ella fa ridestar memorie passate, invero.}
+{1128}{LOX_84}{Oh, usar prudenza si deve. I Ripper i Blade amano sbudellar solo per lor diletto. Invece la citta', Adytum, mena avanti sol per sopravvivere. Se'l fato condurti vorra' tra quei luoghi, se imbattuto ti sarai nei Blade, porgi un saluto a Razor in vece mia. Rimembrar d'ella fa ridestar memorie passate, invero.}
+{1129}{LOX_74}{Criminali. Criminali veri. Spremono il sangue de la citta'. I Mercanti FarGo, le Carovane Scarlatte e i peggiori del lotto, i Mercanti d'Acqua. Un bel quadretto.}
+{1130}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
+{1131}{LOX_76}{Non c'e' da dir molto, invero. Al vespro, i pargoli si spaventano all'udir storie di una belva che nutresi delle carni de' giovani virgulti poco ubbidienti.}
+{1132}{LOX_78}{Circa tre anni or sono, uno de' mercanti si mosse a meridione per cercare nuove citta'. Torno' con li capelli e la dentatura cadenti, biascicando parole che parlavan di immense radiazioni. Chissa'? Forse qualcosa di speciale cadde laggiu', durante la guerra.}
+{1133}{LOX_79}{Molti dei reietti che fatican per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor....}
+{1134}{LOX_79}{Molti dei reietti che lavorano per i mercanti han dimora laggiu', in dimore si' leggere che il sole le attraversa. Nel mentre, gl'opulenti bastardi stanno stravaccati nelle loro magioni, in su li Colli. Piangemi il cuor....}
+

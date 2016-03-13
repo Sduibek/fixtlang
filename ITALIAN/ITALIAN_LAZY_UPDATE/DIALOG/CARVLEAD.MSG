@@ -1,0 +1,80 @@
+{100}{}{Vedi un capo carovaniere.}
+{101}{}{Beh, eccoci qua. Questa e' la tua paga: }
+{102}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{103}{}{ testoni. Ci riposeremo qui per un po', ma non allontanarti troppo, o la carovana partira' senza di te.}
+{104}{}{Aaa... Okay.}
+{105}{}{Quando partira' la carovana?}
+{106}{}{Cosa puoi dirmi di Junktown?}
+{107}{}{Mi potresti parlare del Boneyard?}
+{108}{}{Cosa mi sai dire della Confraternita d'Acciaio?}
+{109}{}{Non so se riesci a capirmi, ma noi ce ne andiamo tra due ore. Che tu sia pronto o no.}
+{110}{}{Um...}
+{111}{}{Hunh?}
+{112}{}{Va. benne.}
+{113}{}{Cavoli, ci siamo ridotti ad assoldare gli idioti.}
+{114}{}{Di solito ripartiamo due ore dopo l'arrivo. Per noi, qui non c'e' molto da fare, quindi se vuoi partire prima, noi siamo pronti.}
+{115}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{116}{}{OK. Torniamo all'Hub. Nemmeno io ho nulla da vedere, qui.}
+{117}{}{Cosa puoi dirmi di Junktown?}
+{118}{}{Mi potresti parlare del Boneyard?}
+{119}{}{Cosa mi sai dire della Confraternita d'Acciaio?}
+{120}{}{Beh, e' molto simile all'Hub. Ha la sua bella dose di problemi: bande, criminali, ladri; sai... le solite cose. Proprio il tipo di citta' che piace a me. [Ride]}
+{121}{}{Quando partira' la carovana?}
+{122}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{123}{}{Questa parte del Boneyard si chiama Adytum. Il Boneyard e' governato dalle bande. E' una brutta zona, quindi stai in guardia. Adytum e' in mano ai Regolatori. Cercano di tenere questo posto fuori dalle varie guerre tra bande. Non c'e' da stupirsi che siano sospettosi nei riguardi degli stranieri. Se non hai ancora parlato con loro, ti suggerisco di farlo prima di farti un giro qui attorno.}
+{124}{}{Vuoto}
+{125}{}{Quando partira' la carovana?}
+{126}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{127}{}{Non c'e' molto da dire. La Confraternita e' una comunita' molto chiusa. Molte persone ne parlano male, ma, per quello che ho visto io, sono delle brave persone. Un po' fanatici, forse, ma dei bravi ragazzi.}
+{128}{}{Quando partira' la carovana?}
+{129}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{130}{}{Sei pronto a partire?}
+{131}{}{Partire!}
+{132}{}{No. Mi sto ancora guardando in giro.}
+{133}{}{Si'. Possiamo andare.}
+{134}{}{Questa parte del Boneyard si chiama Adytum. Il Boneyard e' governato dalle bande. E' una brutta zona, quindi stai in guardia.}
+{135}{}{Quando partira' la carovana?}
+{136}{}{Credo che daro' un'occhiata in giro, prima di partire. Ci vediamo dopo.}
+{137}{}{OK. Ce l'hai fatta. Ecco i tuoi }
+{138}{}{ testoni. Se vuoi lavorare ancora per noi, parlane con il capo. Sarei molto felice di lavorare ancora con te. Mettero' una buona parola per te con il boss. Tranquillo.}
+{139}{}{bY bY.}
+{140}{}{Ci vediamo.}
+{141}{}{Ehi, come butta?}
+{142}{}{Se vuoi lavorare, passa dal capo.}
+{143}{}{C'e' qualcosa che non va?}
+{144}{}{Sei un fottuto pazzo!}
+{145}{}{Io con te non ci lavoro!}
+{146}{}{200}
+{147}{}{400}
+{148}{}{600}
+{149}{}{Cosa mi puoi dire di Necropolis?}
+{150}{}{E' un posto spaventoso, amico!}
+{151}{}{La carovana e' partita.}
+{200}{}{Hmmmpf...}
+{201}{}{Hmm... mi piacerebbe saper leggere.}
+{300}{}{Fatti gli affari tuoi, ti dispiace?}
+{400}{}{Non sono pagato per parlare.}
+{501}{}{Care to tell me why you abandoned the fucking caravan?? I can't believe it! Lucky for you, they finished without yer sorry ass! Get out! I'm not paying you anything!}
+{502}{}{I can't believe it! We've lost the whole caravan! Get out! I ain't paying you anything!}
+{504}{}{Go to the boss and try to come up with a credible story for why you abandoned the fucking caravan. Maybe then you'll get yer money, but I doubt it.}
+{505}{}{I can't believe it! We've lost the whole caravan! I ain't paying you anything. Get out of my face.}
+{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses y'know. Here's your payment of }
+{601}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy.}
+{603}{}{ caps. (He pulls out an old dog-eared bag and gives you the caps) }
+{604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
+{605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}
+#
+# Unload caravan quest - WG@RestorationProject
+#
+{506}{}{Any jobs for me here?}
+{507}{}{Me wanna job!}
+{508}{}{We need muscles to unload the caravan. I'll pay you }
+{509}{}{ caps.}
+{510}{}{Ug!}
+{511}{}{Nop.}
+{512}{}{I'm on it.}
+{513}{}{I don't like this.}
+{520}{}{You've spent an hour unloading the caravan.}
+{521}{}{You help finish unloading the caravan and are handed }
+{522}{}{ caps.}

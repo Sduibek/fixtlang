@@ -1,0 +1,63 @@
+{100}{}{Tu! Fermo dove sei e in alto le mani!}
+{101}{}{Grazie per aver trovato un nuovo water chip. Adesso il morale e' migliorato e la gente e' meno propensa ad infrangere le leggi del Vault.}
+{102}{}{E' bello rivederti. C'e' qualcosa che posso fare per te?}
+{103}{}{Di cosa ti occupi?}
+{104}{}{Si', ho bisogno di armi.}
+{105}{}{C'e' una ragione particolare per cui una delle porte del Vault e' chiusa?}
+{106}{}{Glop!}
+{107}{}{Hmmm. Credo che non dovresti trovarti qui. Buona giornata.}
+{108}{}{Il mio compito e' far rispettare la legge all'interno del Vault. Forse non lo sai, ma se non fosse per me il Vault andrebbe a rotoli.}
+{109}{}{Hmm. Ottimo. Grazie.}
+{110}{}{Si direbbe un ruolo di grande importanza.}
+{111}{}{Lo e'. Senza un rigido rispetto delle leggi, il Vault diventerebbe presto un luogo senza regole, dominato dall'anarchia. Cio' metterebbe a repentaglio la vita di tutti noi.}
+{112}{}{Dato che sono stato nel mondo esterno, ci sono delle leggi speciali che devo rispettare?}
+{113}{}{Nel mondo esterno ho visto luoghi dove la mancanza di leggi ha provocato grandi sciagure.}
+{114}{}{Beh, sebbene le armi siano sicuramente necessarie nel mondo esterno, forse faresti meglio a non tenerle in vista, qui dentro. A parte questo non mi viene in mente nulla di particolare.}
+{115}{}{Grazie.}
+{116}{}{Vedi? Ne ero certo. L'osservanza delle leggi e' l'unica cosa che ha salvato il Vault dalla miseria e dalla distruzione. Continua cosi'.}
+{117}{}{Il Supervisore non mi ha autorizzato ad aprire l'armeria e a fornirti altre armi. Mi dispiace, ma non posso aiutarti. }
+{118}{}{Ti prego! Ne ho davvero bisogno!}
+{119}{}{Ok. Grazie lo stesso.}
+{120}{}{No. Non posso farlo.}
+{121}{}{Buona giornata.}
+{122}{}{Per tenere le armi a debita distanza da chi non ha il permesso di prenderle.}
+{123}{}{E chi e' che ha il permesso?}
+{124}{}{Non mi sembra giusto.}
+{125}{}{Non sempre la vita e' giusta. Ma la nostra legge lo e'. Buona giornata.}
+{126}{}{Il Supervisore, io e la mia squadra di sicurezza. E basta.}
+{127}{}{Quindi solo le persone che ne hanno bisogno possono accedere all'armeria.}
+{128}{}{E' una lista davvero corta.}
+{129}{}{Si', lo e'. Adesso devo tornare ai miei compiti. Se vuoi scusarmi...}
+{130}{}{Si', solo le persone che hanno bisogno di armi possono entrare nell'armeria.}
+{131}{}{Beh, io ne ho bisogno. Apri la porta, per favore.}
+{132}{}{Mi dispiace; e' un ragionamento giusto, ma non posso lasciarti entrare.}
+{133}{}{Hmm. Adesso che me l'hai detto, credo tu abbia ragione. Ecco, lascia che ti apra la porta.}
+{134}{}{Cosa posso fare per te, }
+{135}{}{?}
+{136}{}{Mi servono altre armi.}
+{137}{}{Ti senti bene?}
+{138}{}{Huh-huh.}
+{139}{}{Ottimo. Sono colpito dalla tua intelligenza. E sono davvero confuso.}
+{140}{}{Mi dispiace, ma hai gia' preso tutto quello che potevamo darti. Buona giornata.}
+{141}{}{Non mi piacciono gli istigatori come te. Dovresti vergognarti.}
+{142}{}{Lo stesso vale per te, testone.}
+{143}{}{Non credi di essere un po' troppo duro?}
+{144}{}{Occhio a come parli, o ti sbattero' dentro per oltraggio a pubblico ufficiale.}
+{145}{}{Si', certo. Ci si vede.}
+{146}{}{Questo e' troppo. Ne ho abbastanza di te.}
+{147}{}{Hmm. Forse. Dovrei essere imparziale, ma questa volta mi sono lasciato andare. D'ora in poi cerchero' di controllarmi.}
+{148}{}{Hmm. No. Credo invece di non esserlo abbastanza.}
+{149}{}{Buona fortuna. Spero che tu ci riesca.}
+{150}{}{Farai meglio a non deludermi.}
+{151}{}{Metti via quell'arma. Adesso.}
+{152}{}{Cosa credi di fare con quell'arma?}
+{153}{}{Vorrei migliorare la mia mira.}
+{154}{}{Niente, scusa. Non mi ero accorto di averla in mano.}
+{155}{}{Hung.}
+{156}{}{Fa' piu' attenzione. E vedi di non girare qui dentro con un'arma in mano. Questo e' il Vault, per Diana!}
+{157}{}{Faresti meglio a non allenarti qui dentro. Se lo rifarai, io e te dovremo fare un discorsetto.}
+{158}{}{Lo sapevo che vivere all'esterno ti avrebbe cambiato.}
+{159}{}{Fermo! Non puoi entrare qui dentro!}
+
+{1000}{}{Supervisore}
+{1100}{}{E' la piu' alta autorita' del Vault. Il Vault segue le sue decisioni.}

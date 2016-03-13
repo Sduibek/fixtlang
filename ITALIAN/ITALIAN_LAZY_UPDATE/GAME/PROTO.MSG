@@ -1,0 +1,245 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+### Messages for Prototypes
+#
+#
+# strings
+#
+{10}{}{<None>}
+
+# Material Types
+{100}{}{Vetro}
+{101}{}{Metallo}
+{102}{}{Plastica}
+{103}{}{Legno}
+{104}{}{Sporcizia}
+{105}{}{Roccia}
+{106}{}{Cemento}
+{107}{}{Cuoio}
+
+# Item Types
+{150}{}{Armatura}
+{151}{}{Contenitore}
+{152}{}{Droga}
+{153}{}{Arma}
+{154}{}{Munizioni}
+{155}{}{Ogg. generico}
+{156}{}{Chiave}
+
+# Scenery Types
+{200}{}{Portale}
+{201}{}{Scale}
+{202}{}{Ascensore}
+{203}{}{Base della scala}
+{204}{}{Apice della scala}
+{205}{}{Scenario Generico}
+
+# Damage Code Types
+{250}{}{dan_norm}
+{251}{}{laser}
+{252}{}{fuoco}
+{253}{}{plasma}
+{254}{}{elettrico}
+{255}{}{emp}
+{256}{}{esplos.}
+
+# Caliber Types for weapons
+{300}{}{Nessuno}
+{301}{}{Razzo}
+{302}{}{Gel per Lanciafiamme}
+{303}{}{Cella Energetica C}
+{304}{}{Cella Energetica D}
+{305}{}{.223}
+{306}{}{5mm}
+{307}{}{cal .40}
+{308}{}{10mm}
+{309}{}{cal .44}
+{310}{}{14mm}
+{311}{}{12-gauge}
+{312}{}{9mm}
+{313}{}{Pallini}
+{314}{}{RESERVED}#	was .45 cal
+{315}{}{RESERVED}#	was 2mm
+{316}{}{RESERVED}#	was 4.7mm caseless
+{317}{}{RESERVED}#	was HN needler
+{318}{}{RESERVED}#	was 7.62mm
+
+# Race Types
+{350}{}{Caucasico}
+{351}{}{Africano}
+
+# Body Types
+{400}{}{Bipede}
+{401}{}{Quadrupede}
+{402}{}{Robotico}
+
+# Kill Types names
+{450}{}{Men:}
+{451}{}{Donne -}
+{452}{}{Bambini -}
+{453}{}{Super Mutanti -}
+{454}{}{Ghoul -}
+{455}{}{Brahmin -}
+{456}{}{Radscorpioni -}
+{457}{}{Rats:}
+{458}{}{Fluttuanti -}
+{459}{}{Centauri -}
+{460}{}{Robot -}
+{461}{}{Dogs:}
+{462}{}{Mantidi -}
+{463}{}{Deathclaws:}
+{464}{}{The Master}#  Not displayed!
+
+# Kill type info descriptions
+{465}{}{This line shows the number of adult human males that you have permanently and forcefully removed from the gene pool.}
+{466}{}{This is the number of adult human females that you have brutally snuffed out during the course of your adventures.}
+{467}{}{This is how many bright futures of innocent defenseless human children you have shattered with your murderous ways. You cad.}
+{468}{}{This is the total number of big scary Super Mutants that you have skillfully massacred throughout the wastes.}
+{469}{}{This is how many irradiated zombie-like creatures you have laid to rest. Includes both males and females. (Not that they look any different to you anyway.)}
+{470}{}{This is the tally of how many brahmin (mutated two-headed cows) you have chopped up and butchered during your travels.}
+{471}{}{This line shows the number of huge mutated scorpions that you have exterminated as you strode the wastes.}
+{472}{}{This is the number of cute furry rats that you have eliminated from the food chain. Includes all members of the rat family.}
+{473}{}{This is the total number of strange mutated floating creatures that you have happily put to death.}
+{474}{}{This is the tally of how many freakish multi-headed many-legged Centaurs you have had the pleasure of executing.}
+{475}{}{The total number of robots that you have terminated with extreme prejudice, turned into spare parts, or otherwise disabled.}
+{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you jerk.}
+{477}{}{The total number of manti, or oversized mutated preying mantis-like insects, that you have squashed so far.}
+{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn.}
+{479}{}{You have killed the Master. Master! Master.}
+
+# Use text
+{480}{}{Vedi: %s.}
+
+# Use Container text
+{485}{}{Cerchi in: %s.}
+{486}{}{Chiudi: %s.}
+{487}{}{E' chiuso a chiave.}
+
+# Look text
+{490}{}{Vedi: %s.}
+{491}{}{Vedi un cadavere: %s.}
+{492}{}{Vedi i resti di: %s.}
+{493}{}{Non vedi niente di strano.}
+
+# Examine text
+# These prepend to lines 518-524
+{500}{}{Morto}
+{501}{}{Quasi Morto}
+{502}{}{Ferito Gravemente}
+{503}{}{Ferito}
+{504}{}{Illeso}
+
+# Examine text messages
+{510}{}{AC Mod: %d}
+{511}{}{DR Mod: %d}
+{512}{}{Dmg Mod: %d/%d}
+
+# When examining. unhurt, wounded, almost dead, etc.
+{518}{}{Vedi: %s }
+{519}{}{%s %s }
+{520}{}{Vedi: %s.}
+{521}{}{%s %s.}
+{522}{}{E': }
+{523}{}{E': }
+{524}{}{E': }
+{525}{}{%s has %d/%d hit points.}
+{526}{}{Ha %d/%d munizioni %s.}
+
+# These append to lines 500-504
+{530}{}{e ha menomazioni agli arti.}
+{531}{}{ma ha menomazioni agli arti.}
+{532}{}{e ha menomazioni agli arti.}
+{533}{}{ma ha menomazioni agli arti.}
+{535}{}{He has %d/%d hit points}
+{536}{}{She has %d/%d hit points}
+{537}{}{It has %d/%d hit points}
+
+# Inventory items
+{540}{}{Pesa %d libbre.}
+{541}{}{Pesa %d libbra.}
+{544}{}{, }
+{545}{}{.}
+
+# Used if player has Awareness
+{546}{}{ e impugna: %s.}
+{547}{}{ e impugna: %s con %d/%d munizioni %s.}
+
+# Examine text error messages
+{550}{}{\nError: lookup_val out of range!}
+{551}{}{\nError: obj_examine: proto_ptr failed!}
+
+# Use text messages
+{580}{}{Usi %s.}
+{581}{}{Usi %s su %s.}
+{582}{}{That does nothing of interest.}
+{583}{}{Con dispiacere ti accorgi che e' gia' morto.}
+{584}{}{Come lo raggiungi, ti accorgi che e' gia' morto.}
+
+# This is relating to a critter being dead.
+{585}{}{Ahime', non hai fatto in tempo.}
+{586}{}{Non funziona con i morti.}
+
+# Flares, obviously
+{587}{}{Accendi la torcia.}
+{588}{}{La torcia e' gia' accesa.}
+
+# Explosives
+{589}{}{Regoli il timer.}
+{590}{}{Il timer sta gia' ticchettando!}
+
+# Experience-Point messages
+{620}{}{You earn %d experience for killing: %s.}
+{621}{}{%s you earn %d experience.}
+
+# 622-626 prepend to line 621
+{622}{}{Per aver sconfitto i tuoi nemici,}
+{623}{}{Per aver massacrato i tuoi nemici,}
+{624}{}{Hai vinto il combattimento,}
+{625}{}{Per aver schiacciato i tuoi nemici,}
+{626}{}{Per aver distrutto i tuoi nemici senza farti un graffio,}
+
+# Dialog messages
+{650}{}{[Ok]}
+{651}{}{[Avanti]}
+{652}{}{[More]}
+{653}{}{[Indietro]}
+{654}{}{[Back]}
+{655}{}{[Continue]}
+{656}{}{Err...}
+{660}{}{Non lo vedi.}
+{661}{}{Troppo distante.}
+
+# Fallout2: Used in PM: CombatAI settings
+{670}{}{Okay.}
+{671}{}{Sure.}
+{672}{}{As you wish.}
+{673}{}{Whatever you say.}
+{674}{}{I'll try.}
+{675}{}{I can't do that.}
+{676}{}{I don't think I can do that.}
+{677}{}{Arf!}
+{678}{}{Woof!}
+
+# Not Enough AP message
+{700}{}{Need more action points.}
+
+# Book messages
+{800}{}{Leggi il libro.}
+{801}{}{Non impari nulla di nuovo.}
+{802}{}{You learn about the practical application of science and technology.}
+{803}{}{You learn about mechanical and electronic repair procedures.}
+{804}{}{You learn better ways to heal injuries in the field.}
+{805}{}{You learn how to handle and maintain your guns better.}
+{806}{}{You learn a lot about wilderness survival techniques.}
+
+# Use on messages (and some extra stuff that Jesse needed)
+{900}{}{I medicinali nella Borsa da Dottore sono finiti.}
+{901}{}{I medicinali nel Kit di Pronto Soccorso sono finiti.}
+{902}{}{Non puoi farlo durante un combattimento.}
+{903}{}{Questa persona non barattera' con te.}
+{904}{}{Questa persona non ha niente da dirti.}
+{905}{}{Non puoi raccogliere quell'oggetto. Sei al limite della tua capacita' di trasporto.}
+{913}{}{This critter can't carry anything.}

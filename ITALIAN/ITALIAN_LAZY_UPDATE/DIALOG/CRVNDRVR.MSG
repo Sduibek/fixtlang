@@ -1,0 +1,162 @@
+{100}{}{Vedi un Conducente di Carovane.}
+{101}{}{Scusa, ma non ti conosco. Se vuoi un lavoro dovrai rivolgerti a Rutger.}
+{102}{}{Se vuoi un lavoro, non parlare con me; rivolgiti a Rutger.}
+{103}{}{Cos'e'? Hai speso tutti i tuoi soldi in droga? Se continui cosi' ti ritroverai a vivere nella Citta' Vecchia circondato dalla feccia della societa'.}
+{104}{}{Faresti meglio a tornar sobrio. Torna quando sarai in grado di lavorare.}
+{105}{}{Vuoi un altro lavoro?}
+{106}{}{Certo.}
+{107}{}{No, magari un'altra volta.}
+{108}{}{Lug.}
+{109}{}{Rok!}
+{110}{}{Sei pronto? Partiamo oggi.}
+{111}{}{Yep!}
+{112}{}{No.}
+{113}{}{Hrurra?}
+{114}{}{Mi dispiace, ma non facciamo piu' accordi con te. Prova con un'altra societa'; forse loro accetteranno un tipo come te.}
+{115}{}{Mi dispiace, ma al momento non assumiamo.}
+{116}{}{Hai una bella faccia tosta a farti rivedere da queste parti. Credo che faresti meglio ad andartene.}
+{117}{}{Ti ho detto di smammare!}
+{118}{}{Che cosa vuoi? Assumerti si e' rivelato un disastro.}
+{119}{}{Ti prego, dammi un'altra possibilita'! Non avevo scelta!}
+{120}{}{Oh, davvero? Non me ne puo' fregare di meno.}
+{121}{}{Come non detto. Ci vediamo.}
+{122}{}{Kah.}
+{123}{}{Moo.}
+{124}{}{Guarda, non so cosa sia successo la' fuori, ma abbiamo perso l'intera carovana! Dato che non sei stato in grado di proteggerla, potevi anche risparmiarti la fatica di tornare qui.}
+{125}{}{No! Sparisci!}
+{126}{}{Ti ho detto di sparire!}
+{127}{}{Che cosa vuoi?}
+{128}{}{Ah, chiudi quella fogna e togliti dai piedi!}
+{129}{}{Voglio un altro lavoro.}
+{130}{}{Nulla.}
+{131}{}{Zug.}
+{132}{}{Ug.}
+{133}{}{Cosa? Dopo che hai abbandonato a meta' l'ultimo lavoro che ti ho dato? Sei fortunato, pero': sono arrivati tutti sani e salvi.}
+{134}{}{Io sono fortunato? TU sei fortunato che non ti spacco la faccia!}
+{135}{}{Ehi! Dovevo andare da qualche parte a incontrare certe persone.}
+{136}{}{Non sapevo di non poter lasciare la carovana. Sembrava tutto a posto.}
+{137}{}{Parla chiaro o sparisci.}
+{138}{}{Pezzente.}
+{139}{}{Non assumiamo gli ubriaconi.}
+{140}{}{Non assumiamo i drogati.}
+{141}{}{(The caravan driver is ignoring you.)}
+{142}{}{Torna quando ti sara' passata la sbornia.}
+{143}{}{Ehi, schizzato. Tornatene nel tuo buco.}
+{144}{}{Sembrava tutto a posto? Una carovana non bisogna lasciarla mai, nemmeno se si e' a un miglio dalla meta. Sei stato assunto per scortarla per l'intero viaggio, altrimenti ci saremmo rivolti a qualcun altro.}
+{145}{}{Beh, nessuno mi ha detto che non potevo andarmene!}
+{146}{}{Mi dispiace. Non succedera' piu'.}
+{147}{}{Vaffanculo.}
+{148}{}{Cosa? Questa e' la tua prima carovana? Come mai ti hanno assunto? Questo e' un lavoro delicato e molto importante; va preso seriamente. Ci sono delle vite in gioco: quelle dei membri della carovana e quelle degli abitanti delle citta' che riforniamo.}
+{149}{}{Devi essere molto fiero di te.}
+{150}{}{Cos'e'? Vorresti una medaglia, per caso?}
+{151}{}{Lasciami salvare delle vite, ti prego! Voglio essere d'aiuto!}
+{152}{}{Lo spero bene! Questo e' un lavoro delicato e molto importante; non va preso alla leggera. Ci sono delle vite in gioco! I carovanieri e le citta' che riforniamo dipendono da noi!}
+{153}{}{Devi essere molto fiero di te.}
+{154}{}{Magari vorresti anche una medaglia, eh?}
+{155}{}{Lasciami salvare delle vite, ti prego! Voglio essere d'aiuto!}
+{156}{}{Certamente.}
+{157}{}{Allora, posso avere un altro lavoro?}
+{158}{}{Sei un idiota!}
+{159}{}{Devo andare. Ci si vede.}
+{160}{}{Uh, si'. Questo lavoro e' sporco e duro! Rischiamo la nostra vita per quelli che vivono in posti meno fortunati.}
+{161}{}{Ma datti una svegliata! }
+{162}{}{Oh? E cosa mi dici di quelle persone "meno fortunate" che avete proprio sotto il naso?}
+{163}{}{Hai ragione. Posso averlo un altro lavoro, o no?}
+{164}{}{Cosa? Non so di cosa tu stia parlando! Ah, vuoi dire quei pezzenti? Loro non contano. Hanno scelto loro di vivere a quel modo.}
+{165}{}{Probabilmente hai ragione.}
+{166}{}{Mi fai vomitare.}
+{167}{}{Devo andare.}
+{168}{}{Cosa? Cosa dovrei dire?}
+{169}{}{Certo che lo sono. Sono un persona di buon cuore... il piu' delle volte.}
+{170}{}{Certo che lo sei. Posso avere un altro lavoro, o no?}
+{171}{}{Io me ne vado.}
+{172}{}{Questo e' lo spirito giusto! E' un peccato che non possa darti un altro lavoro.}
+{173}{}{After all that? Oh come on, can I please can I have another job?}
+{174}{}{Beh, mi tocchera' tornare a salvare il mondo, allora.}
+{175}{}{Benissimo. Ma non pensare di lavorare di nuovo con noi!}
+{176}{}{Oh, ti prego! Non accadra' mai piu'!}
+{177}{}{Come se lo volessi!}
+{178}{}{Beh... okay, avrai un'altra possibilita'. La nostra prossima carovana parte }
+{179}{}{oggi}
+{180}{}{domani}
+{181}{}{il giorno}
+{182}{}{8}
+{183}{}{18}
+{184}{}{28}
+{185}{}{. Fammi sapere quando sei pronto per partire. La paga e' la solita: 400 testoni.}
+{186}{}{Mi dispiace, ma ho gia' fatto un errore dandoti una possibilita' l'ultima volta che hai fatto quel casino.}
+{187}{}{Ottimo, quale rotta vuoi prendere?}
+{188}{}{Ehila'. La carovana non parte prima di domani. Se vuoi ancora quel lavoro, faresti meglio a tornare domani.}
+{189}{}{Non voglio quel lavoro.}
+{190}{}{Cerchero' di farcela.}
+{191}{}{Okay, ci vediamo prima di partire.}
+{192}{}{Da.}
+{193}{}{Ehila'. Sei in anticipo. Molto in anticipo. La prossima carovana non parte prima del giorno }
+{194}{}{8}
+{195}{}{18}
+{196}{}{28}
+{197}{}{. Se ti interessa ancora il lavoro, torna per allora.}
+{198}{}{Non voglio il lavoro.}
+{199}{}{Cerchero' di farcela.}
+{200}{}{Okay. Ci vediamo.}
+{201}{}{Da.}
+{202}{}{Okay. A me non importa.}
+{203}{}{Al diavolo. A me non frega un accidenti se ti fai vivo oppure no. Di persone che ci chiedono un lavoro ne abbiamo a dozzine ogni giorno. Se non ti fai vedere, per noi non e' certo un problema.}
+{204}{}{Te l'ho gia' detto. Non preoccuparti. Se non ce la fai, sapremo arrangiarci benissimo.}
+{205}{}{Confraternita d'Acciaio}
+{206}{}{L.A. Boneyard.}
+{207}{}{Junktown}
+{208}{}{Lasciamo perdere. Dopotutto, questo lavoro non lo voglio.}
+{209}{}{Ottimo tempismo. Le nostre carovane partono oggi. La paga e' la solita: 400 testoni. Quale rotta vuoi seguire?}
+{210}{}{Ottimo. Le nostre prossime carovane partiranno il giorno }
+{211}{}{8}
+{212}{}{18}
+{213}{}{28}
+{214}{}{. Torna per allora e ti assegnero' ad una carovana. La paga e' quella standard: 400 testoni.}
+{215}{}{Okay.}
+{216}{}{Mi dispiace, ma non posso aspettare cosi' a lungo.}
+{217}{}{Ottimo. Avverto il capo carovana e il resto del gruppo. Fate attenzione la' fuori: ultimamente si e' fatta piuttosto dura.}
+{218}{}{La carovana e' pronta. Potete partire anche subito.}
+{219}{}{Perfetto. Ci vorranno solo pochi minuti per permettere alla squadra di prepararsi.}
+{220}{}{Perfetto. Partirete per la Confraternita non appena si riunira' il resto del gruppo.}
+{221}{}{Okay. Partirete per la Confraternita non appena avro' riunito il gruppo.}
+{222}{}{Pronti a partire! E state alla larga dalle montagne.}
+{223}{}{Il Boneyard e' un brutto posto -- state attenti. E assicuratevi che ognuno rispetti i suoi turni.}
+{224}{}{La carovana e' quasi pronta. Ho sentito che ultimamente ci sono stati dei problemi nella zona del Boneyard -- guardatevi le spalle.}
+{225}{}{Okay, la carovana per il Boneyard e' pronta e in attesa di partire.}
+{226}{}{Di solito, quello per Junktown e' un viaggio breve e tranquillo -- non dovreste avere problemi.}
+{227}{}{Bene, la squadra della carovana per Junktown e' pronta.}
+{228}{}{Perfetto. Junktown vi aspetta: partite pure.}
+{229}{}{Beh, salve. So che stai cercando un lavoro. Mi sorprende che Rutger ti abbia assunto, ma immagino abbia le sue buone ragioni. Le nostre carovane partono da qui tre volte al mese: l'8, il 18 e il 28. Le nostre destinazioni regolari sono tre: la Confraternita d'Acciaio, Junktown e il Boneyard. La paga e' fissa: 400 testoni a viaggio. Se decidi di tornare qui con la carovana, ti verranno dati altri 400 testoni.}
+{230}{}{Hai davvero un ottimo tempismo: le carovane partono tutte oggi.}
+{231}{}{Partono tutte oggi.}
+{232}{}{Non partiranno prima di }
+{233}{}{ giorni.}
+{234}{}{Ti interessa?}
+{235}{}{Allora, lo vuoi il lavoro? }
+{236}{}{Partono tutte oggi.}
+{237}{}{Partono tutte domani.}
+{238}{}{Non partiranno prima di }
+{239}{}{ giorni.}
+{240}{}{Immagino tu voglia un lavoro. Forse io potrei dartene uno. Ti interessa?}
+{241}{}{Certo.}
+{242}{}{No.}
+{243}{}{Sai dove puoi ficcartela la tua carovana?}
+{244}{}{Non saprei. Prima di decidere ci pensero' un po'.}
+{245}{}{Ug.}
+{246}{}{Quale rotta vuoi seguire?}
+{247}{}{Confraternita d'Acciaio.}
+{248}{}{L.A. Boneyard.}
+{249}{}{Junktown.}
+{250}{}{Scusami, ma ho cambiato idea.}
+{251}{}{Beh, fatti vivo per il giorno }
+{252}{}{8}
+{253}{}{18}
+{254}{}{28}
+{255}{}{ e potro' raggruppare la squadra.}
+{256}{}{Qual e' il tuo problema?}
+{257}{}{Il problema sei tu e il mio pugno e' la soluzione. }
+{258}{}{Bada...}
+{260}{}{Sei tu.}
+{261}{}{Nessun problema.}
+{262}{}{Si', okay. Se cambi idea, torna pure.}

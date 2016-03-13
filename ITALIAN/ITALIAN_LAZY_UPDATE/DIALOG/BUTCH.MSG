@@ -1,0 +1,412 @@
+{100}{}{Vedi Butch.}
+{101}{}{Parlami di te.}
+{102}{}{Ci sono novita'?}
+{103}{}{Che citta' ci sono qui attorno, oltre all'Hub?}
+{104}{}{Cosa c'e' nell'Hub?}
+{105}{}{Grazie, e' tutto.}
+{106}{BUTCH01}{Che cosa vuoi?}
+{107}{}{Vorrei farti qualche domanda.}
+{108}{}{Niente, grazie.}
+{109}{BUTCH02}{Il tempo e' denaro. Le chiacchiere non sono denaro. Sei qui per il lavoro o che?}
+{110}{}{Si'.}
+{111}{}{Quale lavoro?}
+{112}{}{Secondo te?}
+{113}{BUTCH03}{Giusto cielo, qualcuno con del fegato! Bene, bene. Va' a parlare con Rutger, il mio secondo. Lui ti dara' i dettagli.}
+{114}{}{Aspetta! Prima vorrei farti qualche domanda a proposito del lavoro!}
+{115}{}{Okay, grazie.}
+{116}{BUTCH04}{Ahh, non perdere tempo! Fa' in fretta.}
+{117}{}{Quant'e' la paga?}
+{118}{}{Ehm... qual e' il lavoro?}
+{119}{}{Beh, se la metti cosi', andro' a parlare con Rutger.}
+{120}{BUTCH05}{Er... questo te lo dira' Rutger. E' lui che si occupa delle questioni terra-terra. Adesso esci di qui: ho del lavoro da fare!}
+{121}{}{Un'ultima domanda, okay?}
+{122}{}{Okay, grazie.}
+# Line 123 is prepended to 124.
+{123}{BUTCH06}{Che sia una. }
+{124}{}{ [Noti che e' piuttosto nervoso.]}
+{125}{}{Ehm... qual e' il lavoro?}
+{126}{}{C'e' una scadenza?}
+{127}{}{Ehm, quant'era la paga?}
+{128}{}{Ma quanto stupido sei?}
+{129}{}{Mi sembri nervoso. Ne vuoi parlare?}
+{130}{BUTCH07}{Cosa dia... hai accettato un lavoro senza nemmeno sapere di cosa si tratta? Demoni dell'inferno, devi essere proprio disperato. Mi piace!}
+{131}{}{Dimmi di cosa si tratta e basta, okay?}
+{132}{}{Beh, anche tu mi sembri piuttosto disperato. Quindi siamo pari.}
+{133}{BUTCH08}{Beh, ultimamente alcune nostre carovane sono scomparse. E che io sia dannato se qualcuno finora e' riuscito a scoprire cos'e' successo.}
+{134}{}{Cosa vuoi che faccia, allora?}
+{135}{}{Scommetto che non le hai nemmeno cercate.}
+{136}{BUTCH09}{Semplice. Trova i responsabili e dimmi chi sono. O falli fuori. Per me non fa differenza. Basta che tu lo faccia!}
+{137}{}{Hai qualche indizio?}
+{138}{}{Li faro' fuori.}
+{139}{}{Sembra pericoloso... io passo.}
+{140}{BUTCH10}{Nah. Solo le solite chiacchiere.}
+{141}{}{Oh, dai. Ci deve pur essere qualcosa che posso usare.}
+{142}{butch11}{Senti, non ho tempo per raccontarti delle storie.}
+{143}{butch12}{Beh, ci sarebbe, ehm... qualcosa, ma io non do ascolto a certe voci.}
+{144}{}{Io invece si'. Di cosa si tratta?}
+{145}{}{Okay, grazie.}
+{146}{BUTCH13}{Vuoi... ehm... vuoi davvero che te lo racconti, eh? Beh, alcuni dicono che e' stato il Deathclaw, ma... ma io non ne so nulla.}
+{147}{}{Mi sembri spaventato.}
+{148}{}{Grazie. Posso farti qualche altra domanda?}
+{149}{}{A chi potrei chiedere per saperne di piu' sul Deathclaw?}
+{150}{butch13a}{Come dia... Parla con Beth, lei e' molto piu' informata di me su queste stronzate.}
+{151}{}{Yep, sei spaventato come un cane bastonato.}
+{152}{}{Andro' a controllare.}
+{153}{}{Ho bisogno di altre informazioni.}
+{154}{BUTCH14}{Ascoltami bene: io non sono spaventato. Sono... prudente. E tu saresti stupido a non esserlo, con il Deathclaw. Parla con Beth; lei sapra' dirti di piu'.}
+{155}{}{Mi sembri *davvero* spaventato come un cane bastonato.}
+{156}{}{Scuuuuusa. Andro' a controllare.}
+{157}{}{Ho bisogno di altre informazioni.}
+{158}{BUTCH15}{Sono stanco dei tuoi insulti. Brutto... testa di rapa! Non farti rivedere! Rutger, porta via questo insetto noioso!}
+{159}{BUTCH16}{Molto bene. Adesso fuori di qui... ma quando scopri qualcosa torna subito da me.}
+{160}{BUTCH17}{Sbrigati.}
+{161}{BUTCH18}{E allora perche' diavolo ti vedo ancora qui davanti a me? Fuori!}
+{162}{butch19}{Hmmm... cos'hai detto?}
+{163}{}{Sto insinuando che sei troppo spaventato per andare a cercarle.}
+{164}{}{Nulla. Allora, cosa vuoi che faccia?}
+{165}{BUTCH20}{Tu non mi piaci. Ma non ha importanza. Lo vuoi il lavoro, o no?}
+{166}{}{Certo.}
+{167}{}{No, grazie.}
+{168}{BUTCH19}{Eh? Cos'hai detto?}
+{169}{}{Mi hai sentito.}
+{170}{}{Nulla. Allora, cosa vuoi che faccia?}
+{171}{BUTCH22}{Si', ieri! Muoviti!}
+{172}{BUTCH23}{Hmmm. Perche' lo vuoi sapere?}
+{173}{}{Sono curioso.}
+{174}{}{Non c'e' un motivo.}
+{175}{}{Come non detto. Ho delle altre domande da farti.}
+{176}{BUTCH24}{Beh, sono a capo dei Mercanti FarGo da ormai cinque anni. Prima di allora stavo ad Adytum. Prima ancora, vicino al Glow.}
+{177}{}{Nient'altro?}
+{178}{}{Beh, grazie.}
+{179}{BUTCH25}{Direi di no.}
+{180}{BUTCH26}{Si', beh... non mi piace raccontare in giro della mia vita privata.}
+{181}{}{Oh, dai. Per favore?}
+{182}{}{Oh, d'accordo.}
+{183}{BUTCH27}{Ti sembro forse un... un... uno di quei cosi per turisti? Cribbio.}
+{184}{}{No, mi sembri un uomo eccezionale.}
+{185}{}{Volevo soltanto qualche informazione.}
+{186}{BUTCH28}{Grazie. C'e' altro?}
+{187}{BUTCH29}{Beh, ci sono la Citta' Vecchia e i Colli, ma sono soltanto zone residenziali. E' in Centro che si trovano tutti i negozi e roba del genere.}
+{188}{}{Quali negozi?}
+{189}{}{Grazie.}
+{190}{BUTCH30}{La solita roba. Se vuoi vedere la citta', vattela a vedere da solo!}
+{191}{}{Ah, molto gentile...}
+{192}{}{Grazie.}
+{193}{BUTCH19}{Eh? Cos'hai detto?}
+{194}{}{Sei sordo?}
+{195}{}{Nulla. Pero' avrei bisogno di farti qualche altra domanda.}
+{196}{BUTCH32}{Beh, ci sono il Falcone Maltese, un bel posto dove mangiare, credimi. E poi... vediamo... il negozio Tutto-In-Uno, l'Armeria... e, naturalmente, il Bocconcini d'Iguana di Bob.}
+{197}{}{Grazie.}
+{198}{}{Nient'altro?}
+{199}{BUTCH33}{C'e' l'ospedale dei Figli della Cattedrale, nella zona ovest del Centro. E poi, naturalmente, la sede dei Mercanti d'Acqua a sud e quella delle Carovane Scarlatte a ovest.}
+{200}{}{Grazie.}
+{201}{BUTCH34}{Beh, c'e' Junktown a nord, la Confraternita d'Acciaio a nordovest. E, naturalmente, il Boneyard verso sud.}
+{202}{}{Nient'altro?}
+{203}{}{Grazie.}
+{204}{BUTCH35}{Beh, Necropolis e' a est. Ma, ehm... non andrei li' neanche se il mio sputo diventasse d'oro, se capisci quel che intendo. Quei ghoul possono mangiare la faccia di un uomo piu' in fretta di quanto una donna saprebbe comprar vestiti in un giorno di saldi.}
+{205}{}{Sembra divertente.}
+{206}{BUTCH35a}{Puhh. Forse per te! Se ti piacciono 'ste cose, parecchio a sud di qui c'e' il Glow. E' un pozzo radioattivo.}
+{207}{}{Potrebbe fare miracoli per la mia abbronzatura.}
+{208}{BUTCH36}{Solo un po' di posti. Vatteli a trovare da solo!}
+{209}{}{Beh, molto utile direi....}
+{210}{}{Grazie.}
+{211}{BUTCH37}{Beh, cos'hai da dirmi?}
+{212}{}{Beh, ho trovato chi ruba le carovane.}
+{213}{}{Beh, ho scoperto che non e' stato il Deathclaw a far sparire le carovane.}
+{214}{}{Al momento niente. Ci vediamo.}
+{215}{BUTCH38}{Davvero? Chi?}
+{216}{}{Degli enormi mutanti.}
+{217}{}{Ratti! ENORMI ratti con denti ENORMI...}
+{218}{BUTCH39}{E co... cosa mai potrebbero volere quei mutanti dalle nostre carovane?}
+{219}{}{Non lo so, ma ho scoperto che prendono prigionieri.}
+{220}{}{Non lo so con certezza. Ma si tratta di mutanti, non del Deathclaw.}
+{221}{BUTCH40}{Credi forse che io sia un boccalone? L'hai mai visto, tu, il Deathclaw?}
+{222}{}{Veni, vidi e lo uccisi.}
+{223}{}{Ti sto dicendo che non si tratta del Deathclaw.}
+{224}{BUTCH41}{L'hai... l'hai ucciso? Beh... io, ah... ehm... ah... da dove venivano quei mutanti?}
+#
+# TRANSLATIONS: lines 225 and 226 are no longer used, now is lines starting at 332
+#
+{225}{}{From the northwest. I think they have some kind of outpost there.}
+{226}{}{Far to the northwest, from a fortified military oupost. They work for some loon called The Master. They aren't your regular mutants, either.}
+#
+{227}{BUTCH42}{Un avamposto? Bene... er... bene, ehm. Dovro' parlarne con il Consiglio. Si'... certo, loro sapranno cosa fare. Bene, bene. Adesso vattene: ho delle cose da fare... okay?}
+{228}{BUTCH43}{Il Master? Qu-quello e' m-meno reale del Deathclaw. Non... non crederai che esista sul serio, vero?}
+{229}{}{Non ne sono sicuro. Ma intendo scoprirlo.}
+{230}{}{Yep, l'ho visto con i miei occhi! E sta venendo a prenderti!}
+{231}{BUTCH44}{Gia'... bene... sicuramente lo farai! Ehm, devo parlare con il Consiglio. Loro sapranno cosa fare. A-a-adesso vattene! Ho un sacco di cose da fare... okay?}
+{232}{BUTCH45}{Cosa?! Beh... beh... Io non ho paura! Rutger! Sono armato! RUTGER!}
+{233}{BUTCH46}{D'accordo, quindi non e' stato il Deathclaw. Ma cosa potrebbero mai volere i mutanti della Citta' Vecchia dalle nostre carovane? A meno che non si tratti di una qualche cospirazione...}
+{234}{}{No, no, no, testa di rapa. I mutanti di cui parlo io sono grandi e verdi e hanno un esercito in un avamposto tra le montagne a nord.}
+{235}{}{Sei incredibilmente stupido, eh? Non mi vuoi stare a sentire!}
+{236}{BUTCH47}{Cosa? Fuori! Dovro' parlarne con il Consiglio. Forza, fuori di qui!}
+{237}{BUTCH48}{Eddai. Puoi fare meglio di cosi'.}
+{238}{}{No, davvero. Sono dei mutanti enormi e verdi.}
+{239}{}{Hai ragione.}
+{240}{}{Oh, su. Credi forse che una donna come me sappia mentire?}
+{241}{BUTCH49}{Non ho tempo per queste cose. Vattene, e non tornare finche' non avrai trovato qualcosa di utile!}
+{242}{BUTCH50}{Ebbene, di che si tratta?}
+{243}{}{Si TRATTA di questi enormi mutanti... }
+{244}{}{Ratti, te l'ho detto! Grossi, pelosi... }
+{245}{BUTCH51}{Ratti? Ma non prendermi in giro.}
+{246}{}{No, davvero. ENORMI ratti!}
+{247}{}{Hai ragione. Stavo solo scherzando.}
+{248}{BUTCH52}{Beh... okay. Lo diro' al Consiglio, ma non credo che ci crederanno. Questo nonostante abbia visto anch'io dei ratti davvero enormi, qui attorno...}
+{249}{BUTCH53}{E come lo sai? Hai visto il Deathclaw?}
+{250}{}{Veni, vidi e lo uccisi.}
+{251}{}{Credimi sulla parola. Lo so.}
+{252}{BUTCH54}{L'hai... l'hai ucciso?}
+{253}{}{Yep, certo.}
+{254}{BUTCH54a}{Bene, allora: chi e' che fa sparire le mie carovane?}
+{255}{}{Non lo so ancora, ma lo scopriro'.}
+{256}{}{E' stato Ralph.}
+{257}{BUTCH55}{Uhh, fallo. E poi torna a dirmelo... okay?}
+{258}{BUTCH56}{Chi diavolo e' Ralph?}
+{259}{}{Lasciamo perdere. Cerchero' di ottenere altre informazioni sulle carovane scomparse.}
+{260}{}{Verra' a tirarti i piedi nel letto!}
+{261}{BUTCH57}{Ehi! Stai cercando di prendermi in giro, vero? Rutger, mostra la porta a questo stronzo! E non tornare finche' non mi avrai portato delle informazioni vere!}
+{262}{BUTCH58}{Si', certo. E ti aspetti che ci creda? Vedi di sparire finche' non sarai in grado di fornirmi qualcosa di utile.}
+{263}{BUTCH59}{Beh? Cos'hai da dirmi?}
+{264}{}{Sono stati i Mutanti.}
+{265}{}{Beh, ho scoperto che non e' stato il Deathclaw a far sparire le carovane.}
+{266}{BUTCH60}{Lasciami in pace! Hai avuto la tua ricompensa. Adesso sparisci!}
+{267}{BUTCH61}{Ehi, metti giu' quella roba!}
+{268}{BUTCH62}{Basta. Rutger ti spellera' vivo!}
+{269}{BUTCH63}{Smettila subito!}
+{270}{BUTCH64}{Beh? Che cosa ci fai qui? Fuori!}
+{272}{butch65}{Oh... beh, no. Fuori!}
+{273}{BUTCH66}{Rutger ti fara' diventare un pretzel umano. Divertiti. RUTGER!}
+{274}{BUTCH67}{Bene, sei un tipo sveglio, eh? Ecco il lavoro: trova chi fa sparire le mie carovane. Soldi, tanti. Se fallisci, dolore, tanto. Hai capito? E allora esci di qui!}
+{275}{BUTCH67a}{Wow, sei proprio un idiota. Non ho tempo per queste cose. Va' a parlare con Rutger.}
+{276}{BUTCH68}{Parla con Rutger. Lui sapra' dirti di piu' riguardo a queste stronzate.}
+{277}{BUTCH69}{Come ti ho detto...}
+{278}{BUTCH70a}{As I said...}
+{279}{BUTCH71}{Non ho intenzione di ripetermi!}
+{280}{BUTCH72}{Ascolta, non ho intenzione di ripeterlo un'altra volta!}
+{281}{BUTCH73}{E' il proprietario del Falcone Maltese, giu' nel west side. Io starei alla larga da lui: non e' onesto come me.}
+{282}{BUTCH74}{Uh, no. Uh no, non parliamo di queste cose.}
+{283}{BUTCH75}{Il Falcone Maltese e' un nightclub nel west side. La cantante si chiama Hope. Che bambola.}
+{284}{BUTCH76}{Sono un vero fastidio. Pensiamo che il loro covo si trovi nella Citta' Vecchia, ma non abbiamo prove.}
+{285}{BUTCH77}{Oh, lui e' lo sceriffo. Ma se vedi commettere un crimine, dillo a me. Non e' certo Justin che detta legge, qui.}
+{286}{BUTCH78}{Il vecchio Harold? Perche' vuoi sapere di quel vecchio mutante? Vive nella Citta' Vecchia. Prova a chiedere li'.}
+{287}{BUTCH79}{Quei bastardi. Daren Hightower crede di essere il padrone dell'Hub, solo per quella dannata cisterna d'acqua.}
+{288}{BUTCH80}{E' il capo dei Mercanti d'Acqua. E' soltanto un brutto bastardo d'uno sfruttatore, quello li'.}
+{289}{BUTCH81}{Li trovi nell'angolo nordovest del Centro. Erano i gestori dell'ospedale prima che arrivassero i Figli della Cattedrale. In pratica siamo passati dalla padella alla brace.}
+{290}{BUTCH82}{E' il boss delle Carovane Scarlatte. Se vuoi sapere come la penso, per me e' pazzo.}
+{291}{BUTCH83}{Non sai nemmeno dove si trovano i tuoi piedi?}
+{292}{BUTCH84}{Sono io. Sei cieco, o che?}
+{293}{BUTCH85}{Uh, Beth gestisce l'Armeria. E' a conoscenza di un sacco di voci e pettegolezzi, se ti interessa questo genere di cose.}
+{294}{BUTCH86}{Rutger e' il mio assistente.}
+{295}{BUTCH87}{Si trova a sud della Piazza dei Mercanti. E' l'unica risorsa d'acqua della citta' e di tutta la zona circostante. E i Mercanti d'Acqua sono i proprietari di quella dannata cosa.}
+{296}{BUTCH88}{Tre carovane della mia compagnia sono scomparse lo scorso mese. All'inizio pensavo fosse colpa o dei Mercanti d'Acqua o delle Carovane Scarlatte, ma anche loro hanno avuto degli incidenti simili.}
+{297}{BUTCH89}{E' dove avvengono tutti gli scambi commerciali. Nel centro esatto della citta'.}
+{298}{BUTCH90}{Uh, no, I-Io non... Parlane con Beth. Lei ne sa piu' di me su queste stronzate.}
+{299}{BUTCH91}{Il Glow e' un pozzo radioattivo che si trova molto, molto a sud di qui. La radioattivita' e' troppo alta perche' qualcuno possa viverci.}
+{300}{BUTCH92}{La Citta' Vecchia si trova nella zona est. Gli sbandati "vivono" li'.}
+{301}{butch93}{E' nella zona ovest.}
+{302}{BUTCH94}{Junktown? Si', ci sono stato un paio di volte. E ho bevuto degli ottimi drink.}
+{303}{BUTCH95}{Junktown? Sta a nord. Ho sentito che ci sono dei problemi, dato che Killian, il sindaco, e' stato assassinato.}
+{304}{BUTCH96}{E' il sindaco di Junktown. E' tutto quel che so.}
+{305}{BUTCH97}{Ho sentito dire che e' morto. Cos'altro ti serve sapere?}
+{306}{BUTCH98}{Oh, sono un manipolo di svitati amanti delle armi che vivono a nordovest. Sono dei tipi davvero strani. Ma costruiscono delle armi dannatamente eccellenti.}
+{307}{BUTCH99}{E' il capo della Confraternita. E' tutto quel che so.}
+{308}{BUTCH100}{Beh, e' una grossa citta' in rovina a sud di qui. I Figli della Cattedrale, i Discepoli dell'Apocalisse e gli abitanti di Adytum vivono laggiu', insieme a delle bande, o qualcosa del genere.}
+{309}{BUTCH101}{Perche'? Che cosa hai sentito? A me hanno detto che e' stata saccheggiata, ma nessuno sa chi sia stato. Ma, er, non sono preoccupato. Nessuno puo' invadere l'Hub.}
+{310}{BUTCH102}{Beh, e' il posto dove si svolgono tutti gli scambi commerciali del Boneyard. E' l'unica zona sufficientemente civilizzata da permettere un'attivita' del genere.}
+{311}{BUTCH103}{Da quel che so, e' il sindaco di Adytum.}
+{312}{BUTCH104}{Beh, mandano avanti un vecchio ospedale in Centro. Sono dei religiosi svitati, se vuoi sapere come la penso.}
+{313}{BUTCH105}{E' il capo dei Figli della Cattedrale, giu' nel Boneyard.}
+{314}{BUTCH105a}{Jain e' la Gran Sacerdotessa dei Figli della Cattedrale e gestisce l'ospedale dell'Hub.}
+{315}{BUTCH106}{Io, ehm... ho sentito delle voci, nient'altro. Non c'e' da crederci.}
+{316}{BUTCH107}{I prezzi migliori per le migliori armi della citta'. E questo lo dicono tutti, mica perche' sono io il proprietario! Basta che esci da qui e giri a destra. Non puoi mancarla.}
+{317}{BUTCH108}{Ahh, li' si' che si mangia bene. Bob ha le migliori iguana allo spiedo di questa zona del deserto.}
+{318}{BUTCH109}{Beh, non... ehm... non dovresti proprio andare li'. I prezzi sono molto alti e la qualita' pessima.}
+{319}{BUTCH110}{E cosa vorresti da quegli svitati? Cavoli, non fanno altro che predicare amore e abbracciare gli alberi... mi fanno vomitare.}
+{320}{BUTCH111}{Non ne so nulla.}
+{321}{BUTCH112}{Io... ehm... non credo di volertelo dire. Si', proprio cosi'.}
+{322}{BUTCH113}{Non ne ho mai sentito parlare. Devi essertelo immaginato.}
+{323}{BUTCH114}{Beh, le ultime notizie dicono sia stata rasa al suolo da qualcuno. Non so chi, pero'.}
+{324}{}{Adesso sono occupato. Parla con Rutger. Lui mi sapra' dire se meriti la mia attenzione.}
+{325}{}{Non ho nulla da dirti.}
+{326}{}{Dov'e' la mia ricompensa?}
+{327}{}{Cos'e' che dovevo fare?}
+{328}{}{Sparisci immediatamente!}
+{329}{}{Ancora nulla.}
+{330}{}{Snargle!!!}
+{331}{}{Fuori di qui, imbecille.}
+#
+# for Fallout Fixt:
+#
+{332}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{333}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
+{334}{}{Far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{335}{}{Far to the northwest. It's some kind of outpost or operations center.}
+{336}{}{From the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{337}{}{From the northwest. I think they have some kind of outpost there.}
+{338}{}{I don't know yet, but they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{339}{}{I don't know yet, but there was a big green mutant in a cave near town, babbling about some mission from this guy called "Master".}
+{340}{}{I don't know yet, but I found this weird disk on a big green mutant who said something about his "Master".}
+{341}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{342}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
+{343}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{344}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center.}
+{345}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{346}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. I think they have some kind of outpost there.}
+{347}{}{No, no, no, you pinhead. These mutants are big and green, and they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{348}{}{No, no, no, you pinhead. These mutants are big and green. There was one in a cave near town, babbling about some mission from this guy called "Master".}
+{349}{}{No, no, no, you pinhead. These mutants are big and green. I found this weird disk on a big green mutant who said something about his "Master".}
+#
+
+{500}{BUTCH55a}{Uhh, fallo. E poi torna a dirmelo... okay?}
+{501}{butch63a}{Ehi! Piantala!}
+{502}{BUTCH69a}{Come ti ho gia' detto...}
+{503}{BUTCH70b}{As I said...}
+{504}{BUTCH105b}{Non ho idea di cosa tu stia parlando.}
+
+#
+# Tell-Me-Abouts generic responses
+#
+{980}{BUTCH111}{Non ne so nulla.}
+{981}{BUTCH112}{Io... ehm... non credo di volertelo dire. Si', proprio cosi'.}
+{982}{BUTCH113}{Non ne ho mai sentito parlare. Devi essertelo immaginato.}
+
+#
+# Tell-Me-Abouts
+#
+{1000}{}{Decker}
+{1001}{}{Malavita}
+{1002}{}{Maltese}
+{1003}{}{Ladri}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Mercanti}
+{1007}{}{Daren}
+{1008}{}{Scarlatte}
+{1009}{}{Demetre}
+{1010}{}{Mercante}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Rutger}
+{1014}{}{Acqua}
+{1015}{}{Scomparse}
+{1016}{}{Piazza}
+{1017}{}{Claw}
+{1018}{}{Glow}
+{1019}{}{Citta'}
+{1020}{}{Colli}
+{1021}{}{Junktown}
+{1022}{}{Killian}
+{1023}{}{Confraternita}
+{1024}{}{Anziano}
+{1025}{}{LA}
+{1026}{}{Adytum}
+{1027}{}{Jon}
+{1028}{}{Cattedrale}
+{1029}{}{Morpheus}
+{1030}{}{Jain}
+{1031}{}{Master}
+{1032}{}{Arma}
+{1033}{}{Bob's}
+{1034}{}{All-N-One}
+{1035}{}{Discepoli}
+{1036}{}{Harris}
+{1037}{}{Falcone}
+{1038}{}{Nightclub}
+{1039}{}{Mercante}
+{1040}{}{Hightower}
+{1041}{}{Greene}
+{1042}{}{Carovane}
+{1043}{}{Romara}
+{1044}{}{Mercanti}
+{1045}{}{Cisterna}
+{1046}{}{Carovane}
+{1047}{}{Darkwater}
+{1048}{}{Acciaio}
+{1049}{}{LA}
+{1050}{}{Boneyard}
+{1051}{}{Zimmerman}
+{1052}{}{Armi}
+{1053}{}{Armeria}
+{1054}{}{Pistole}
+{1055}{}{Bobs}
+{1056}{}{Iguana}
+{1057}{}{Apocalisse}
+{1058}{}{Death}
+{1059}{}{Deathclaw}
+{1060}{}{Hot}
+{1061}{}{Old Town}
+{1062}{}{Vecchia}
+{1063}{}{Maxson}
+{1064}{}{Tutto}
+{1065}{}{Junk}
+{1066}{}{The Boneyard}
+{1067}{}{L.A. Boneyard}
+
+{1100}{BUTCH73}{E' il proprietario del Falcone Maltese, giu' nel west side. Io starei alla larga da lui: non e' onesto come me.}
+{1101}{BUTCH74}{Uh, no. Uh no, non parliamo di queste cose.}
+{1102}{BUTCH75}{Il Falcone Maltese e' un nightclub nel west side. La cantante si chiama Hope. Che bambola.}
+{1103}{BUTCH76}{Sono un vero fastidio. Pensiamo che il loro covo si trovi nella Citta' Vecchia, ma non abbiamo prove.}
+{1104}{BUTCH77}{Oh, lui e' lo sceriffo. Ma se vedi commettere un crimine, dillo a me. Non e' certo Justin che detta legge, qui.}
+{1105}{BUTCH78}{Il vecchio Harold? Perche' vuoi sapere di quel vecchio mutante? Vive nella Citta' Vecchia. Prova a chiedere li'.}
+{1106}{BUTCH79}{Quei bastardi. Daren Hightower crede di essere il padrone dell'Hub, solo per quella dannata cisterna d'acqua.}
+{1107}{BUTCH80}{E' il capo dei Mercanti d'Acqua. E' soltanto un brutto bastardo d'uno sfruttatore, quello li'.}
+{1108}{BUTCH81}{Li trovi nell'angolo nordovest del Centro. Erano i gestori dell'ospedale prima che arrivassero i Figli della Cattedrale. In pratica siamo passati dalla padella alla brace.}
+{1109}{BUTCH82}{E' il boss delle Carovane Scarlatte. Se vuoi sapere come la penso, per me e' pazzo.}
+{1110}{BUTCH83}{Non sai nemmeno dove si trovano i tuoi piedi?}
+{1111}{BUTCH84}{Sono io. Sei cieco, per caso?}
+{1112}{BUTCH85}{Uh, Beth gestisce l'Armeria. E' a conoscenza di un sacco di voci e pettegolezzi, se ti interessa questo genere di cose.}
+{1113}{BUTCH86}{Rutger e' il mio assistente.}
+{1114}{BUTCH87}{Si trova a sud della Piazza dei Mercanti. E' l'unica risorsa d'acqua della citta' e di tutta la zona circostante. E i Mercanti d'Acqua sono i proprietari di quella dannata cosa.}
+{1115}{BUTCH88}{Tre carovane della mia compagnia sono scomparse lo scorso mese. All'inizio pensavo fosse colpa o dei Mercanti d'Acqua o delle Carovane Scarlatte, ma anche loro hanno avuto degli incidenti simili.}
+{1116}{BUTCH89}{E' dove avvengono tutti gli scambi commerciali. Nel centro esatto della citta'.}
+{1117}{BUTCH90}{Uh, no, I-Io non... Parlane con Beth. Lei ne sa di piu' di me su queste stronzate.}
+{1118}{BUTCH91}{Il Glow e' un pozzo radioattivo che si trova molto, molto a sud di qui. La radioattivita' e' troppo alta perche' qualcuno possa viverci.}
+{1119}{BUTCH92}{La Citta' Vecchia si trova nella zona est. Gli sbandati "vivono" li'.}
+{1120}{BUTCH93}{E' nella zona ovest.}
+{1121}{BUTCH94}{Junktown? Si', ci sono stato un paio di volte. E ho bevuto degli ottimi drink.}
+{1122}{BUTCH96}{E' il sindaco di Junktown. E' tutto quel che so.}
+{1123}{BUTCH98}{Oh, sono un manipolo di svitati amanti delle armi che vivono a nordovest. Sono dei tipi davvero strani. Ma costruiscono delle armi dannatamente eccellenti.}
+{1124}{BUTCH99}{E' il capo della Confraternita. E' tutto quel che so.}
+{1125}{BUTCH100}{Beh, e' una grossa citta' in rovina a sud di qui. I Figli della Cattedrale, i Discepoli dell'Apocalisse e gli abitanti di Adytum vivono laggiu', insieme a delle bande, o qualcosa del genere.}
+{1126}{BUTCH102}{Beh, e' il posto dove si svolgono tutti gli scambi commerciali del Boneyard. E' l'unica zona sufficientemente civilizzata da permettere un'attivita' del genere.}
+{1127}{BUTCH103}{Da quel che so, e' il sindaco di Adytum.}
+{1128}{BUTCH104}{Beh, mandano avanti un vecchio ospedale in Centro. Sono un branco di religiosi svitati, se vuoi sapere come la penso.}
+{1129}{BUTCH105}{E' il capo dei Figli della Cattedrale, giu' nel Boneyard.}
+{1130}{BUTCH105a}{Jain e' la Gran Sacerdotessa dei Figli della Cattedrale e gestisce l'ospedale dell'Hub.}
+{1131}{BUTCH106}{Io, ehm... ho sentito delle voci, nient'altro. Non c'e' da crederci.}
+{1132}{BUTCH107}{I prezzi migliori per le migliori armi della citta'. E questo lo dicono tutti, mica perche' sono io il proprietario! Basta che esci da qui e giri a destra. Non puoi mancarla.}
+{1133}{BUTCH108}{Ahh, li' si' che si mangia bene. Bob ha le migliori iguana allo spiedo di questa zona del deserto.}
+{1134}{BUTCH109}{Beh, non... ehm... non dovresti proprio andare li'. I prezzi sono molto alti e la qualita' pessima.}
+{1135}{BUTCH110}{E cosa vorresti da quegli svitati? Cavoli, non fanno altro che predicare amore e abbracciare gli alberi... mi fanno vomitare.}
+{1136}{BUTCH84}{Sono io. Sei cieco, per caso?}
+{1137}{BUTCH75}{Il Falcone Maltese e' un nightclub nel west side. La cantante si chiama Hope. Che bambola.}
+{1138}{BUTCH75}{Il Falcone Maltese e' un nightclub nel west side. La cantante si chiama Hope. Che bambola.}
+{1139}{BUTCH79}{Quei bastardi. Daren Hightower crede di essere il padrone dell'Hub, solo per quella dannata cisterna d'acqua.}
+{1140}{BUTCH80}{E' il capo dei Mercanti d'Acqua. E' soltanto un brutto bastardo d'uno sfruttatore, quello li'.}
+{1141}{BUTCH77}{Oh, lui e' lo sceriffo. Ma se vedi commettere un crimine, dillo a me. Non e' certo Justin che detta legge, qui.}
+{1142}{BUTCH81}{Li trovi nell'angolo nordovest del Centro. Erano i gestori dell'ospedale prima che arrivassero i Figli della Cattedrale. In pratica siamo passati dalla padella alla brace.}
+{1143}{BUTCH82}{E' il boss delle Carovane Scarlatte. Se vuoi sapere come la penso, per me e' pazzo.}
+{1144}{BUTCH83}{Non sai nemmeno dove si trovano i tuoi piedi?}
+{1145}{BUTCH87}{Si trova a sud della Piazza dei Mercanti. E' l'unica risorsa d'acqua della citta' e di tutta la zona circostante. E i Mercanti d'Acqua sono i proprietari di quella dannata cosa.}
+{1146}{BUTCH88}{Tre carovane della mia compagnia sono scomparse lo scorso mese. All'inizio pensavo fosse colpa o dei Mercanti d'Acqua o delle Carovane Scarlatte, ma anche loro hanno avuto degli incidenti simili.}
+{1147}{BUTCH96}{E' il sindaco di Junktown. E' tutto quel che so.}
+{1148}{BUTCH98}{Oh, sono un manipolo di svitati amanti delle armi che vivono a nordovest. Sono dei tipi davvero strani. Ma costruiscono delle armi dannatamente eccellenti.}
+{1149}{BUTCH100}{Beh, e' una grossa citta' in rovina a sud di qui. I Figli della Cattedrale, i Discepoli dell'Apocalisse e gli abitanti di Adytum vivono laggiu', insieme a delle bande, o qualcosa del genere.}
+{1150}{BUTCH100}{Beh, e' una grossa citta' in rovina a sud di qui. I Figli della Cattedrale, i Discepoli dell'Apocalisse e gli abitanti di Adytum vivono laggiu', insieme a delle bande, o qualcosa del genere.}
+{1151}{BUTCH103}{Da quel che so, e' il sindaco di Adytum.}
+{1152}{BUTCH107}{I prezzi migliori per le migliori armi della citta'. E questo lo dicono tutti, mica perche' sono io il proprietario! Basta che esci da qui e giri a destra. Non puoi mancarla.}
+{1153}{BUTCH107}{I prezzi migliori per le migliori armi della citta'. E questo lo dicono tutti, mica perche' sono io il proprietario! Basta che esci da qui e giri a destra. Non puoi mancarla.}
+{1154}{BUTCH107}{I prezzi migliori per le migliori armi della citta'. E questo lo dicono tutti, mica perche' sono io il proprietario! Basta che esci da qui e giri a destra. Non puoi mancarla.}
+{1155}{BUTCH108}{Ahh, li' si' che si mangia bene. Bob ha le migliori iguana allo spiedo di questa zona del deserto.}
+{1156}{BUTCH108}{Ahh, li' si' che si mangia bene. Bob ha le migliori iguana allo spiedo di questa zona del deserto.}
+{1157}{BUTCH110}{E cosa vorresti da quegli svitati? Cavoli, non fanno altro che predicare amore e abbracciare gli alberi... mi fanno vomitare.}
+{1158}{BUTCH90}{Uh, no, I-Io non... Parlane con Beth. Lei ne sa di piu' di me su queste stronzate.}
+{1159}{BUTCH90}{Uh, no, I-Io non... Parlane con Beth. Lei ne sa di piu' di me su queste stronzate.}
+{1160}{BUTCH91}{Il Glow e' un pozzo radioattivo che si trova molto, molto a sud di qui. La radioattivita' e' troppo alta perche' qualcuno possa viverci.}
+{1161}{BUTCH92}{La Citta' Vecchia si trova nella zona est. Gli sbandati "vivono" li'.}
+{1162}{BUTCH92}{La Citta' Vecchia si trova nella zona est. Gli sbandati "vivono" li'.}
+{1163}{BUTCH99}{E' il capo della Confraternita. E' tutto quel che so.}
+{1164}{BUTCH109}{Beh, non... ehm... non dovresti proprio andare li'. I prezzi sono molto alti e la qualita' pessima.}
+{1165}{BUTCH94}{Junktown? Si', ci sono stato un paio di volte. E ho bevuto degli ottimi drink.}
+{1166}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{1167}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}

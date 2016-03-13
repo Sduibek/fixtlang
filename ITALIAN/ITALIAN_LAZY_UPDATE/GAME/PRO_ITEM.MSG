@@ -1,0 +1,510 @@
+{100}{}{Armatura di Cuoio}
+{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. A lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
+{200}{}{Armatura di Metallo}
+{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors, but slows the wearer's mobility somewhat. This model features spikes added to the shoulder, a popular fashion statement this year!}
+{300}{}{Power-Armor}
+{301}{}{A model T-51b West Tek self-contained suit of Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics, and enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating, and features a bullet-proof eyeslit on the helmet.}
+{400}{}{Coltello}
+{401}{}{Un'arma affilata usata per tagliare e trafiggere. FZ Min: 2.}
+{500}{}{Manganello}
+{501}{}{Un bastone militare o da poliziotto. Legno indurito. FZ Min: 3.}
+{600}{}{Martello da Guerra}
+{601}{}{Un martello grande con un'impugnatura grande. Molto popolare tra i tipi muscolosi. FZ Min: 6.}
+{700}{}{Lancia}
+{701}{}{Un'asta con la punta affilata. Il manico e' di legno, la punta e' di acciaio temprato. FZ Min: 4.}
+{800}{}{Pistola da 10mm}
+{801}{}{Una pistola Colt 6520 da 10mm a carica automatica. Ogni pressione del grilletto ricarica automaticamente l'arma finche' il caricatore non si svuota. Solo sparo singolo, usa i potenti proiettili da 10mm. FZ Min: 3.}
+{900}{}{Mitraglietta da 10mm}
+{901}{}{Mitraglietta H&K MP9 (variante da 10mm). Una SMG di medie dimensioni, in grado di sparare colpi singoli e raffiche. FZ Min: 4.}
+{1000}{}{Fucile da Caccia}
+{1001}{}{Un fucile Colt Rangemaster semi-automatico, calibro .223. Solo sparo singolo. FZ Min: 5.}
+{1100}{}{Flamethrower}
+{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  Min STR: 6}
+{1200}{}{Mitragliatrice}
+{1201}{}{Una mitragliatrice Rockwell CZ53 Personal. Multi-canna, e' in grado di sparare colpi da 5mm ad oltre 60.000 giri al minuto. FZ Min: 7.}
+{1300}{}{Lanciarazzi}
+{1301}{}{Un lanciarazzi Rockwell BigBazooka. Equipaggiato con un grilletto superlusso da 3 libbre. Spara razzi AP (Perfora Armature) o razzi esplosivi. FZ Min: 6.}
+{1400}{}{Razzo Esplosivo}
+{1401}{}{Un razzo con una potente testata esplosiva.}
+{1500}{}{Fucile al Plasma}
+{1501}{}{Un fucile al plasma Winchester P94. Una potente arma ad energia che spara sfere surriscaldate di plasma attraverso una canna superconducente. Alimentato da Celle a Micro-Fusione. FZ Min: 6.}
+{1600}{}{Pistola Laser}
+{1601}{}{Una pistola laser Wattz 1000. Modello civile, con un wattaggio inferiore a quello delle versioni militari o in dotazione alla polizia. Usa piccole celle di energia. FZ Min: 3.}
+{1700}{}{Armatura da Combattimento}
+{1701}{}{First created in 2051, this lightweight, high-tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
+{1800}{}{Desert Eagle .44}
+{1801}{}{Un'antica pistola Desert Eagle .44 magnum. L'utilizzo in vari film alla fine del 20mo secolo ha reso questa pistola una delle piu' famose di tutti i tempi. FZ Min: 4.}
+{1900}{}{Roccia}
+{1901}{}{E' una roccia. Il modello Granito-SpA e' una versione migliorata. FZ Min: 1.}
+{2000}{}{Piede di Porco}
+{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.  Min STR: 5.}
+{2100}{}{Tirapugni}
+{2101}{}{Un'impugnatura rinforzata in acciaio. Protegge la tua mano (e fa piu' danni) nei combattimenti corpo a corpo. FZ Min: 1.}
+{2200}{}{Pistola da 14mm}
+{2201}{}{Una pistola automatica Sig-Sauer da 14mm. Grossa pistola a sparo singolo. Eccellente fattura. FZ Min: 4.}
+{2300}{}{Fucile d'Assalto}
+{2301}{}{Un fucile d'assalto AK-112 da 5mm. Un vecchio modello militare, uscito di scena ai tempi della Guerra. Puo' sparare colpi singoli o raffiche, usando proiettili da 5mm ad alta velocita'. FZ Min: 5.}
+{2400}{}{Pistola al Plasma}
+{2401}{}{Pistola al plasma Glock 86. Realizzata dalla Gaston Glock AI. Spara una piccola sfera di plasma surriscaldato. E' alimentata da una piccola cella di energia. FZ Min: 4.}
+{2500}{}{Granata (Framm.)}
+{2501}{}{Una normale granata a frammentazione. Contiene una piccola quantita' di esplosivo. La maggior parte dei frammenti deriva dal rivestimento stesso. Esplode a contatto. FZ Min: 3.}
+{2600}{}{Granata (Plasma)}
+{2601}{}{Una granata al plasma sigillata magneticamente, con detonatore esplosivo. Crea un'esplosione di plasma surriscaldato a contatto. FZ Min: 4.}
+{2700}{}{Grenade (EMP)}
+{2701}{}{Una granata ad impulso elettromagnetico (EMP), che detonando genera un intenso campo magnetico. Non danneggia le creature biologiche. Detonazione a contatto. FZ Min: 4.}
+{2800}{}{Mitra Laser}
+{2801}{}{Un mitragliatore laser H&K L30. Progettata per uso militare, tale arma era un prototipo all'inizio della Guerra. Le canne multiple consentono un ottimo volume di fuoco prima del surriscaldamento. Alimentato da Celle a Micro-Fusione. FZ Min: 6.}
+{2900}{}{10mm JHP}
+{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava}
+{3000}{}{10mm AP}
+{3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
+{3100}{}{.44 Magnum JHP}
+{3101}{}{Un caricatore, calibro .44 magnum, punta cava.}
+{3200}{}{Carburante per Lanciafiamme}
+{3201}{}{Un cilindro contenente un liquido estremamente infiammabile, usato come carburante per lanciafiamme.}
+{3300}{}{14mm AP}
+{3301}{}{Munizioni grosso calibro. 14mm, perfora armature.}
+{3400}{}{.223 FMJ}
+{3401}{}{Una scatola di munizioni, calibro .223, Full Metal Jacket.}
+{3500}{}{5mm JHP}
+{3501}{}{Un caricatore di munizioni piccole e leggere. Calibro: 5mm, camiciate a punta cava.}
+{3600}{}{5mm AP}
+{3601}{}{Un caricatore di munizioni piccolo calibro. 5mm perfora armature.}
+{3700}{}{Razzo AP}
+{3701}{}{Un razzo con poco esplosivo, ma progettato per perforare piastre corazzate.}
+{3800}{}{Piccola Cella d'Energia}
+{3801}{}{Una piccola unita' autonoma per lo stoccaggio di energia.}
+{3900}{}{Cella a Micro-Fusione}
+{3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
+{4000}{}{Stimpak}
+{4001}{}{A stimpak, or stimulation delivery package, is a hand-held portable healing unit that consists of a syringe for containing and delivering the medication, and a gauge for measuring the status of the stimpak's contents. When injected, it provides immediate healing of medium wounds and minor tissue damage. No side effects.}
+{4100}{}{Tappi di bottiglia}
+{4101}{}{This bag holds your bottle caps; the accepted monetary unit of the post-apocalyptic world. Referred to by some as "Hub script" or simply "scripts", and sometimes by the archaic pre-War term "buck".}
+{4200}{}{Frigo}
+{4201}{}{A refrigerator. Out of coolant. This one is rusted and lonely.}
+{4300}{}{Cassetta per Ghiaccio}
+{4301}{}{Una cassetta per ghiaccio vecchio stile. I cardini sono in buone condizioni.}
+{4400}{}{Cassetta per Ghiaccio}
+{4401}{}{Una cassetta per ghiaccio vecchio stile. I cardini sono in buone condizioni.}
+{4500}{}{Coltello da Lancio}
+{4501}{}{Un coltello, bilanciato appositamente per il lancio. Costruito in titanio e affilato al laser. FZ Min: 3.}
+{4600}{}{Borsa}
+{4601}{}{An average-sized bag, useful for holding things. Made from woven brahma hairs.}
+{4700}{}{Kit di Pronto Soccorso}
+{4701}{}{Un piccolo kit contenente dell'equipaggiamento medico di base. Bende, fasce, spray antisettico, e altro.}
+{4800}{}{RadAway}
+{4801}{}{Una soluzione chimica che si lega alle particelle radioattive, permettendo all'organismo di eliminarle. Necessita di tempo per funzionare.}
+{4900}{}{Antidoto}
+{4901}{}{Una bottiglia contenente un antidoto fatto in casa. Un liquido latteo con pezzi di radscorpione in sospensione.}
+{5000}{}{Reserved Item}
+{5001}{}{This is a reserved item. DO NOT USE.}
+{5100}{}{Dinamite}
+{5101}{}{Un potente esplosivo, a base di nitroglicerina mischiata con kiselguhr, una sostanza assorbente. E' provvista di un timer.}
+{5200}{}{Contatore Geiger}
+{5201}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'.}
+{5300}{}{Mentat}
+{5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
+{5400}{}{Stealth Boy}
+{5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
+{5500}{}{Water Chip}
+{5501}{}{Un chip di controllo per un dispositivo di purificazione dell'acqua. Sembra essere proprio quello che serve al tuo Vault.}
+{5600}{}{Targhette Militari}
+{5601}{}{Un set di targhette militari. Il nome Darkwater e' leggibile, il resto non molto.}
+{5700}{}{Cimice}
+{5701}{}{Un microfono in miniatura e un dispositivo trasmittente.}
+{5800}{}{Holodisk}
+{5801}{}{This is a Wattz Electronics Holodisk, designed for THT players. Also called a "holotape" or simply "tape", holodisks are durable laser-readable storage devices based on tape holography technology. Suitable for long-term storage of text, audio, or video, they typically hold 64 to 256 kilobytes of data.}
+{5900}{}{Sensore di Movimento}
+{5901}{}{Un sensore di movimento Wattz Electronics modello C-U. Rileva il movimento di materiale biologico su una distanza di metri usando un dispositivo radar.}
+{6000}{}{Libreria}
+{6001}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6100}{}{Libreria}
+{6101}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6200}{}{Libreria}
+{6201}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6300}{}{Libreria}
+{6301}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6400}{}{Libreria}
+{6401}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6500}{}{Libreria}
+{6501}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6600}{}{Scrivania}
+{6601}{}{A wooden desk. Made of wood, has drawers, holds stuff.}
+{6700}{}{Scrivania}
+{6701}{}{This desk has seen better days. You wouldn't even trust it to hold a paperweight.}
+{6800}{}{Credenza}
+{6801}{}{A wooden dresser. Made of wood, has drawers, holds stuff.}
+{6900}{}{Credenza}
+{6901}{}{This wooden dresser seems to be tired of being mistreated.}
+{7000}{}{Credenza}
+{7001}{}{A wooden dresser with one working drawer. Not very exciting.}
+{7100}{}{Irradiated Fruit}
+{7101}{}{A strange-looking piece of fruit. It does not look particularly tasty. No preservatives and no additional food coloring added. A low-fat food!}
+{7200}{}{Valigetta}
+{7201}{}{Una valigetta, con una targhetta "Made in the USA". Cuoio. In buone condizioni, ma la chiusura a combinazione e' rotta.}
+{7300}{}{Grande Libro delle Scienze}
+{7301}{}{Un'antologia contenente informazioni riguardanti diversi campi scientifici.}
+{7400}{}{Giacca di Cuoio}
+{7401}{}{A black, heavy leather jacket. You can't help thinking how badass you'd look wearing this, even in the scorching heat of the wastes.}
+{7500}{}{MultiTool}
+{7501}{}{A super tool set, containing various useful tools and gadgets. The aspiring engineer or repairman should never leave home without it!}
+{7600}{}{Manuale di Elettronica}
+{7601}{}{Un libro per studenti di elettronica. Una nota sulla copertina dice che il libro "fara' sbocciare il giovane elettricista che e' in voi!"}
+{7700}{}{Grimaldello Elettronico}
+{7701}{}{Un grimaldello elettronico Wattz Electronics Micromanipolatore DitaVellutate. Per superare lucchetti elettronici e dispositivi di sicurezza.}
+{7800}{}{Dipinto Rovinato}
+{7801}{}{Il ritratto di un cantante. Ovviamente molto vecchio. L'immagine ha un rivestimento in feltro ancora in buone condizioni.}
+{7900}{}{Torcia Chimica}
+{7901}{}{Una torcia chimica. Fornisce luce per brevi periodi di tempo. La carta e' un po' rovinata, ma per il resto e' in buone condizioni. Gira la punta per accenderla.}
+{8000}{}{Manuale di Pronto Soccorso}
+{8001}{}{A study book on the concepts and practical use of First Aid skills. Much of the information is pre-War, however it is still applicable to most in-the-field practices and skills.}
+{8100}{}{Iguana-alla-Griglia}
+{8101}{}{Un'iguana cucinata e grigliata nella sua stessa pelle.}
+{8200}{}{Chiave}
+{8201}{}{Una chiave. Una chiave aprira' una determinata serratura.}
+{8300}{}{Portachiavi}
+{8301}{}{Chiavi multiple.}
+{8400}{}{Set da Scassinatore}
+{8401}{}{Un set di attrezzi da scassinatore. Include tutte le forcine e le chiavi a tensione necessarie per aprire serrature e lucchetti convenzionali.}
+{8500}{}{Esplosivo al Plastico}
+{8501}{}{Un pezzo di Cordex, una marca militare di esplosivi al plastico. Altamente stabile, molto distruttivo. E' provvisto di un timer.}
+{8600}{}{Manuale Scout}
+{8601}{}{Un libro sui metodi e gli ideali degli Scout. Informazioni molto utili su come vivere all'aperto.}
+{8700}{}{Buffout}
+{8701}{}{Highly advanced steroids that were popularized before the Great War by professional athletes and their clandestine use of the drug. While in effect, they increase the user's strength, stamina and reflexes. Very addictive.}
+{8800}{}{Orologio}
+{8801}{}{Un orologio costoso. In realta' non funziona, ma e' comunque bello.}
+{8900}{}{Motore}
+{8901}{}{Un motore elettrico da 40cv.}
+{9000}{}{Zaino}
+{9001}{}{Un normale zaino, con cinghie rimovibili.}
+{9100}{}{Borsa del Dottore}
+{9101}{}{This black bag contains many instruments and therapeutic drugs used by doctors in the application of their trade.}
+{9200}{}{Radscorpion Tail}
+{9201}{}{La coda recisa di un radscorpione.}
+{9300}{}{Borsa}
+{9301}{}{Una borsa di media grandezza. Tessuta con peli di brahmin.}
+{9400}{}{Fucile a Pompa}
+{9401}{}{Un fucile a pompa Winchester Widowmaker calibro 12, doppia canna. Canne mozze, impugnatura in mogano. FZ Min: 4.}
+{9500}{}{12-gauge Shotgun Shells}
+{9501}{}{Munizioni per fucile a pompa. Queste sono definite: "Cartucce cal.12-gauge, non adatte per bambini al di sotto di 36 mesi."}
+{9600}{}{Tessera magnetica Rossa}
+{9601}{}{Una chiave elettronica di sicurezza, codice colore: rosso.}
+{9700}{}{Tessera magnetica Blu}
+{9701}{}{Una chiave elettronica di sicurezza, codice colore: blu.}
+{9800}{}{Cianfrusaglie}
+{9801}{}{Un ammasso di cianfrusaglie. Di tutto un po'.}
+{9900}{}{Medaglione d'Oro}
+{9901}{}{Un prezioso medaglione d'oro.}
+{10000}{}{Radio}
+{10001}{}{Una ricetrasmittente modello 2043B, prodotta da quei bravi ragazzi della Wattz Electronics. Affidabile, ruvida, e mimetizzata. Con l'interfaccia RS-121 opzionale.}
+{10100}{}{Accendino}
+{10101}{}{Un accendino d'argento a butano, in buone condizioni.}
+{10200}{}{Pistole&Proiettili}
+{10201}{}{Una rivista di pistole. Un periodico dedicato all'uso pratico delle armi da fuoco e, occasionalmente, a recensioni faziose e di parte.}
+{10300}{}{Spiedino}
+{10301}{}{Un po' di carne e verdure carbonizzate su di uno spiedino.}
+{10400}{}{Registratore}
+{10401}{}{A Wattz Electronics Play-It-For-Me tape recorder. Plays and records the standard 30-minute high-density Record-It-Once tapes, not to be confused with the newer holodisk technology.}
+{10500}{}{Chiave}
+{10501}{}{Una chiave speciale di qualche tipo.}
+{10600}{}{Nuka-Cola}
+{10601}{}{Un bottiglia di Nuka-Cola, la bevanda analcolica aromatizzata del mondo post-nucleare. Tiepida e sgasata.}
+{10700}{}{Ossa}
+{10701}{}{Un ammasso di strane ossa.}
+{10800}{}{Ossa}
+{10801}{}{Un ammasso di strane ossa.}
+{10900}{}{Rad-X}
+{10901}{}{Anti-radiation drugs to be taken before exposure, which in the wastes means more or less constantly. No known side effects. Thankfully they have proven to be non-addictive.}
+{11000}{}{Psycho}
+{11001}{}{Una fiala monodose riempita con strane sostanze chimiche di probabile origine militare. Dovrebbe aumentare il potenziale in combattimento di un soldato.}
+{11100}{}{.44 magnum FMJ}
+{11101}{}{Un caricatore di munizioni, calibro .44 magnum, full metal jacket.}
+{11200}{}{Urna}
+{11201}{}{Una splendida urna dorata, con il nome "Harriet" inciso sul davanti e con un pugno di cenere all'interno.}
+{11300}{}{Saio}
+{11301}{}{Saio dei Figli della Cattedrale.}
+{11400}{}{Mano di Tangler}
+{11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
+{11500}{}{Super Maglio da Guerra}
+{11501}{}{Un Super Maglio da Guerra costruito dalla Confraternita d'Acciaio utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. FZ Min: 5.}
+{11600}{}{Ripper}
+{11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. FZ Min: 4.}
+{11700}{}{Fiore}
+{11701}{}{Uno splendido fiore.}
+{11800}{}{Fucile Laser}
+{11801}{}{Un fucile laser Wattz 2000. Utilizza celle a Micro-Fusione per colpi piu' potenti, e una lunga canna per una gittata maggiore. FZ Min: 6.}
+{11900}{}{Collana}
+{11901}{}{Una collana dall'aspetto prezioso, fatta con argento, oro e diamanti pressati.}
+{12000}{}{Folgoratore Alieno}
+{12001}{}{Una strana pistola di chiare origini aliene. Sembra, tuttavia, che possa utilizzare piccole celle a energia. FZ Min: 2.}
+{12100}{}{Pallino da 9mm}
+{12101}{}{A collection of ancient standard 9x19mm rounds, greased heavily to preserve them from the environment. Before the Great War, 9mm was the preferred type of ammunition for small weapons in the south- west Commonwealth, while the military and the Eastern and Western seaboards tended to favor 10mm ammunition.}
+{12200}{}{Mauser da 9mm}
+{12201}{}{Una Mauser M/96, modello 9x19mm Parabellum. In condizioni eccellenti. Estremamente precisa. FZ Min: 3.}
+{12300}{}{Annullatore Psichico}
+{12301}{}{Uno strano dispositivo, costruito sulla base di qualche strana tecnologia.}
+{12400}{}{Birra}
+{12401}{}{Un tipo di birra fermentata in casa.}
+{12500}{}{Liquore}
+{12501}{}{Un liquore antico, proveniente dall'era prebellica.}
+{12600}{}{Fiaschetta d'Acqua}
+{12601}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field.}
+{12700}{}{Corda}
+{12701}{}{A strong, thick line of braided fibers. About 20 feet in length.}
+{12800}{}{Contenitore}
+{12801}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
+{12900}{}{Contenitore}
+{12901}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
+{13000}{}{Contenitore}
+{13001}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
+{13100}{}{Contenitore}
+{13101}{}{Il contenitore tipo. Contiene oggetti, giace ai piedi del letto, puo' essere chiuso a chiave.}
+{13200}{}{Armadietto}
+{13201}{}{A storage container. Metal, holds stuff, can be locked.}
+{13300}{}{Armadietto}
+{13301}{}{A storage container. Metal, holds stuff, can be locked.}
+{13400}{}{Armadietto}
+{13401}{}{A storage container. Metal, holds stuff, can be locked.}
+{13500}{}{Armadietto}
+{13501}{}{A storage container. Metal, holds stuff, can be locked.}
+{13600}{}{Armadietto}
+{13601}{}{A storage container. Metal, holds stuff, can be locked.}
+{13700}{}{Armadietto}
+{13701}{}{A storage container. Metal, holds stuff, can be locked.}
+{13800}{}{Armadietto}
+{13801}{}{A storage container. Metal, holds stuff, can be locked.}
+{13900}{}{Armadietto}
+{13901}{}{A storage container. Metal, holds stuff, can be locked.}
+{14000}{}{Tessera d'Accesso}
+{14001}{}{Una tessera d'accesso di sicurezza. Ancora funzionante.}
+{14100}{}{Distintivo dei FdC}
+{14101}{}{Un distintivo di forma uguale al simbolo dei Figli della Cattedrale. Su un lato noti degli sbalzi e delle dentellature che ti ricordano quelle di una chiave.}
+{14200}{}{Distintivo dei FdC}
+{14201}{}{Un distintivo di forma uguale al simbolo dei Figli della Cattedrale. Su un lato noti degli sbalzi e delle dentellature che ti ricordano quelle di una chiave.}
+{14300}{}{Fucile da Cecchino}
+{14301}{}{Un fucile da cecchino DKS-501. Eccellente arma a proiettili a lunga gittata. In origine un calibro .308, questo fucile e' stato modificato per utilizzare i piu' comuni calibro .223. FZ Min: 5.}
+{14400}{}{Super Stimpak}
+{14401}{}{Also referred to as simply a "superstim", this is a very advanced and powerful piece of healing technology. While it is capable of healing even severe wounds and major tissue damage, it also causes some internal hemorrhaging to the recipient after a short period of time, due to the powerful nature of the chemicals used.}
+{14500}{}{Scaffale}
+{14501}{}{A wooden bookshelf, quietly keeping to itself.}
+{14600}{}{Scaffale}
+{14601}{}{A wooden bookshelf, quietly keeping to itself.}
+{14700}{}{Scaffale}
+{14701}{}{A wooden bookshelf, quietly keeping to itself.}
+{14800}{}{Scaffale}
+{14801}{}{A wooden bookshelf, quietly keeping to itself.}
+{14900}{}{Scaffale}
+{14901}{}{A wooden bookshelf, quietly keeping to itself.}
+{15000}{}{Scaffale}
+{15001}{}{A wooden bookshelf, quietly keeping to itself.}
+{15100}{}{Scaffali}
+{15101}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15200}{}{Scaffali}
+{15201}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15300}{}{Scaffali}
+{15301}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15400}{}{Scaffali}
+{15401}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15500}{}{Scaffali}
+{15501}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15600}{}{Scaffali}
+{15601}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15700}{}{Tavolo da Lavoro}
+{15701}{}{Un tavolo da lavoro. Esatto, proprio un vecchio, banalissimo, tavolo da lavoro. Sedersi li' non sembra male.}
+{15800}{}{Pannello degli Attrezzi}
+{15801}{}{Questo pannello sostiene vari attrezzi al di sopra del classico tavolo da lavoro.}
+{15900}{}{Molotov}
+{15901}{}{Una granata infiammabile fatta in casa. FZ Min: 3.}
+{16000}{}{Pungolo per Bestiame}
+{16001}{}{Un pungolo per bestiame modello "Miglior Amico del Fattore" prodotto dalla Wattz Electronics. Utilizza piccole celle a energia per l'alimentazione. FZ Min: 4.}
+{16100}{}{Fucile ad Aria Compressa Red Ryder}
+{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...  Min STR: 3.}
+{16200}{}{Fucile ad Aria Compressa Red Ryder LE}
+{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock! A true classic. Don't shoot your eye out, kid!  Min STR: 4.}
+{16300}{}{BBs}
+{16301}{}{A box containing BBs from before the war. In excellent condition. Stainless steel.}
+{16400}{}{Brotherhood Disk}
+{16401}{}{A holodisk with information about the Brotherhood of Steel.}
+{16500}{}{Banchetto dell'Iguana}
+{16501}{}{La casa dei Bocconcini d'Iguana di Bob. Come si possono non adorare, queste iguana appena grigliate?}
+{16600}{}{Tavolo}
+{16601}{}{Un normale tavolo. Tiene la roba lontana dal pavimento.}
+{16700}{}{Tavolo}
+{16701}{}{Un normale tavolo. Tiene la roba lontana dal pavimento.}
+{16800}{}{Roba}
+{16801}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{16900}{}{Roba}
+{16901}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17000}{}{Roba}
+{17001}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17100}{}{Roba}
+{17101}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17200}{}{Roba}
+{17201}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17300}{}{Roba}
+{17301}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17400}{}{Roba}
+{17401}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17500}{}{Roba}
+{17501}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17600}{}{Roba}
+{17601}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17700}{}{Roba}
+{17701}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17800}{}{Roba}
+{17801}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{17900}{}{Roba}
+{17901}{}{Questi sono oggetti vari, conosciuti anche come "roba".}
+{18000}{}{Cassetta}
+{18001}{}{Una cassetta di legno riempita con un po' di roba.}
+{18100}{}{Scrivania}
+{18101}{}{Una normale scrivania. Vista una scrivania, viste tutte.}
+{18200}{}{Scrivania}
+{18201}{}{Una scrivania.}
+{18300}{}{Scrivania}
+{18301}{}{Una scrivania.}
+{18400}{}{Scrivania}
+{18401}{}{Una scrivania.}
+{18500}{}{Scrivania}
+{18501}{}{Una scrivania.}
+{18600}{}{Scrivania}
+{18601}{}{Una scrivania.}
+{18700}{}{Scrivania}
+{18701}{}{Una scrivania.}
+{18800}{}{Armadietto}
+{18801}{}{A locker. Can be locked, holds stuff.}
+{18900}{}{Armadietto}
+{18901}{}{A locker. Can be locked, holds stuff.}
+{19000}{}{Disco sul FEV}
+{19001}{}{Un olonastro contenente informazioni mediche. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
+{19100}{}{Disco della Sicurezza}
+{19101}{}{Un olonastro con la scritta "Sicurezza - Rapporto" sull'etichetta. Puoi usarlo per trasferire i dati che contiene nel tuo PIPboy.}
+{19200}{}{Disco sull'Esperimento Alpha}
+{19201}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Alpha"}
+{19300}{}{Disco sull'Esperimento Delta}
+{19301}{}{L'etichetta su questo olonastro dice: "Rapporto sull'Esperimento Delta"}
+{19400}{}{The Master's Guns}
+{19401}{}{These are attached to The Master. They look like the standard H&K L30 Gatling Laser but you can't be sure.}
+{19500}{}{Codice d'Onore della Confraternita}
+{19501}{}{A holodisk, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the disk to transfer the data to your Pip-Boy 2000.}
+{19600}{}{Trasmissioni dei Mutanti}
+{19601}{}{This holodisk looks like it was set to record audio data from a radio. Use the disk to transfer the information to your Pip-Boy 2000.}
+{19700}{}{Scatola}
+{19701}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19800}{}{Scatola}
+{19801}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19900}{}{Scatola}
+{19901}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20000}{}{Scatola}
+{20001}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20100}{}{Scatola}
+{20101}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20200}{}{Scatola}
+{20201}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20300}{}{Scatola}
+{20301}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20400}{}{Scatola}
+{20401}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20500}{}{Flare (Lit)}
+{20501}{}{Una torcia chimica. Fornisce luce per brevi periodi di tempo. La carta e' un po' rovinata, ma per il resto e' in buone condizioni. E' accesa.}
+{20600}{}{Dynamite (Ticking)}
+{20601}{}{Un potente esplosivo, a base di nitroglicerina mischiata con kiselguhr, una sostanza assorbente. E' provvista di un timer, che sta ticchettando.}
+{20700}{}{Geiger Counter (Activated)}
+{20701}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'. E' acceso.}
+{20800}{}{Motion Sensor (Activated)}
+{20801}{}{Un sensore di movimento Wattz Electronics modello C-U. Rileva il movimento di materiale biologico su una distanza espressa in metri usando un dispositivo radar appositamente tarato. E' acceso.}
+{20900}{}{Plastic Explosives (Ticking)}
+{20901}{}{Un pezzo di Cordex, una marca militare di esplosivi al plastico. Altamente stabile, molto distruttivo. E' provvisto di un timer, che sta ticchettando.}
+{21000}{}{Stealth Boy (Activated)}
+{21001}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
+{21100}{}{Ossa}
+{21101}{}{Vedi Ed. Ed e' morto. Povero Ed.}
+{21200}{}{Tandi}
+{21201}{}{Stai trattando per la liberazione di Tandi.}
+{21300}{}{Resti di Gizmo}
+{21301}{}{Gizmo, ex boss criminale di Junktown, e' morto. E pure un tantino puzzolente.}
+{21400}{}{Scrivania}
+{21401}{}{Una scrivania. Dopo un ulteriore esame, decidi che e' ancora una scrivania.}
+{21500}{}{Storia della Confraternita}
+{21501}{}{Un olonastro contenente informazioni riguardanti la Confraternita d'Acciaio. Puo' essere usato per immettere informazioni nel tuo PIPboy.}
+{21600}{}{Storia di Maxon}
+{21601}{}{RESERVED}
+{21700}{}{Diario di Maxon}
+{21701}{}{RESERVED}
+{21800}{}{Cura Leggera}
+{21801}{}{Tratta per questa opzione se vuoi una cura leggera.}
+{21900}{}{Cura Media}
+{21901}{}{Tratta per questa opzione se vuoi una cura media.}
+{22000}{}{Cura Intensa}
+{22001}{}{Tratta per questa opzione se desideri molte attenzioni e una cura intensa.}
+{22100}{}{Tessera della Sicurezza}
+{22101}{}{Una tessera magnetica con un livello di sicurezza codificato nelle sue semplicissime componenti elettroniche.}
+{22200}{}{Scambiatore di Campo}
+{22201}{}{Un dispositivo di trasmissione elettronica, con un semplicissimo, e grosso, interruttore. Sembra sia stato costruito da poco e progettato per mani molto grandi.}
+{22300}{}{Tessera Magnetica Gialla}
+{22301}{}{Una chiave elettronica di sicurezza, codice colore: giallo.}
+{22400}{}{Piccola statuetta}
+{22401}{}{Ritieni che potrebbe essere un intaglio raffigurante il "Pip Boy", ma non puoi esserne sicuro.}
+{22500}{}{Non ne hai idea}
+{22501}{}{Dopo averlo esaminato meglio, non hai ancora la piu' pallida idea di cosa sia.}
+{22600}{}{Scatola di Spaghetti}
+{22601}{}{Non hai idea di cosa la scritta "Spaghetti Istantanei" possa significare.}
+{22700}{}{Piccola Scatola Polverosa di qualche tipo}
+{22701}{}{Un pranzo "da TV". Non sei proprio sicuro, ma sicuramente non e' commestibile. Non sei nemmeno sicuro che lo sia mai stato.}
+{22800}{}{Manuale Tecnico}
+{22801}{}{A technical repair manual and desk reference for the T-51b Powered Armor. It seems to explain, in lengthy and boring detail, everything you'd ever want to know about Power Armor repair, use and maintenance.}
+{22900}{}{Piccolo Dispositivo Meccanico}
+{22901}{}{This is a Systolic Motivator. This unusual piece of machinery is very small, but surprisingly heavy for its size. It looks very high-tech but you have no idea what it would be used for.}
+{23000}{}{Rapporti del Vault}
+{23001}{}{Un compendio degli avvenimenti e di altre importanti registrazioni del sistema informatico di un Vault. Forse danneggiato.}
+{23100}{}{Military Base Password}
+{23101}{}{So much for security. Remember kids, never write down your password.}
+{23200}{}{Power-Armor Rinforzata}
+{23201}{}{A modified suit of T-51b Powered Armor. The chemical hardening process has improved the defensive capability of this high-tech armor system, without hindering mobility or the wearer's protection from radiation.}
+{23300}{}{Turbo-Fucile al Plasma}
+{23301}{}{Un fucile al plasma Winchester P94 modificato. La camera delle sfere al plasma e' stata sovralimentata per accelerare il processo di formazione delle sfere. FZ Min: 6.}
+{23400}{}{Tirapugni Spinato}
+{23401}{}{Una versione migliorata del tirapugni normale. Il tirapugni spinato causa piu' danni, tranciando la carne degli avversari durante un combattimento a mani "nude". FZ Min: 1.}
+{23500}{}{Pugno ad Energia}
+{23501}{}{Un guantone ad energia "Big Frigger" della BeatCo. Molti lo considerano l'arma definitiva per i combattimento corpo a corpo. Gli altri ne sono semplicemente spaventati. Alimentato da piccole celle a energia. FZ Min: 1.}
+{23600}{}{Coltello da Combattimento}
+{23601}{}{Un coltello da combattimento di ottima fattura. Lo "Stallona" e' prodotto dalla SharpWit SpA, che garantisce l'affilatura della lama anche dopo dieci anni di utilizzo! FZ Min: 2.}
+{23700}{}{Riviste di Chimica}
+{23701}{}{Un ammasso di letteratura riguardante il campo della Chimica. Le parti sulla Chimica Molecolare sono particolarmente interessanti.}
+{23800}{}{F.E.V. (Ghoul)}
+{23801}{}{ura ghul brah}
+{23900}{}{Armatura della Confraternita}
+{23901}{}{A superior version of Combat Armor. This armor is issued to all Initiates of the Brotherhood of Steel. The Brotherhood has made many improvements over the standard version, both functionally and cosmetically.}
+{24000}{}{Armatura Tesla}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy such as plasma and laser fire. Unlike the basic metal armor it strongly resembles, this armor is an actual pre-War military design. It is in good condition.}
+{24100}{}{Pistola calibro .223}
+{24101}{}{Un fucile calibro .223 modificato e tagliato in forma di pistola. Questa e' un'arma peculiare, chiaramente creata con cura e abilita'. FZ Min: 5.}
+{24200}{}{Fucile a Pompa da Combattimento}
+{24201}{}{Un fucile a pompa Winchester City-Killer cal.12-gauge, bullpup. In ottime condizioni, possiede una sigillatura DesertWarfare aggiuntiva contro gli effetti ambientali allo scopo di garantire una maggiore affidabilita'. FZ Min: 5.}
+{24300}{}{MacRae's Training}
+{24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
+{24400}{}{Gold Nugget}
+{24401}{}{A nugget of gold.}
+{24500}{}{Alien Blaster CHEAT}
+{24501}{}{You cheating bastard.}
+{24600}{}{Uzi 9mm SMG}
+{24601}{}{This is an Uzi submachine gun, 9mm caliber. Amazingly, it's still in working condition. The Uzi was cheap, light and rarely jammed, which made it a classic amongst drugrunners during the early stages of the 21st century.  Min STR: 3.}
+{24700}{}{Rat Meat}
+{24701}{}{Some chopped-up rat parts. Too bad you didn't read Vault Document VTR-003 "How to Eat Rat", otherwise you'd be able to make it more palatable.}
+{24800}{}{Brahma Meat}
+{24801}{}{Brahma meat is high in vitamins, minerals, fat, protein, and rads. Too bad you don't have time to cook up some tasty brahma burgers!}
+{24900}{}{Dog Meat}
+{24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
+{25000}{}{Ghoul Meat}
+{25001}{}{You're not even sure if this is edible. It smells like death and probably doesn't taste any better.}
+{25100}{}{Deathclaw Meat}
+{25101}{}{Very tough and dry, but almost 100% protein; the most filling and "healthy" meat you'll find in the wastes.}
+{25200}{}{Mantis Chunks}
+{25201}{}{If you pretend it's iguana bits, it's not so bad, except for the crunch. Actually, it's still pretty bad.}
+{25300}{}{Water Flask (Empty)}
+{25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
+{25400}{}{F.E.V. (Super Mutant)}
+{25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
+{25500}{}{Mutated Meat}
+{25501}{}{You watch the meat intently to make sure it's not moving.}

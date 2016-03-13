@@ -1,0 +1,27 @@
+{100}{}{Fuori di qui!}
+{101}{}{Ho sentito brutte cose su di te. Sono vere?}
+{102}{}{Salve.}
+{103}{}{Qui ci abito io. Vuoi fermarti per un po'?}
+{104}{}{Hmm, hai un aspetto appetitoso...}
+{105}{}{Spero che tu non sia venuto a cacciarmi da qui.}
+{106}{}{No.}
+{107}{}{E' uno strano modo per cominciare una conversazione.}
+{108}{}{Hnnn.}
+{109}{}{Oh, beh, se vuoi fermarti per un po', accomodati pure. Credo che qui siamo al sicuro.}
+{110}{}{Beh, di questi tempi bisogna stare sempre in guardia. Spero che la tua vita sia migliore della mia.}
+{111}{}{Beh, e' vero. Dopo quello che e' successo ai miei amici, devo proteggere le mie poche cose. Spero solo che tu non sia qui per uccidermi.}
+{112}{}{No, non ti faro' del male. Non molto, almeno.}
+{113}{}{Perche'?}
+{114}{}{Gack!}
+{115}{}{Cosi'. Tanto per dire. Davvero.}
+# Translation note:
+# Line 116 has one of lines 117-120 appended to it, depending upon circumstances.
+{116}{}{Quei tipi "amichevoli" volevano la casa dei miei amici e se la sono presa. Non so cosa ne sia stato dei miei amici.}
+{117}{}{ E Killian e' troppo occupato per darmi una mano.}
+{118}{}{ E Killian adesso e' troppo impegnato a ripulire il casino' di Gizmo per aiutarmi.}
+{119}{}{ Gizmo mi ha riso in faccia quando gli ho chiesto aiuto.}
+{120}{}{ Qui non c'e' nessuno che abbia voglia di aiutarmi.}
+{121}{}{E tu sei al sicuro?}
+{122}{}{Un vero peccato.}
+{123}{}{Lo spero. Lo spero davvero.}
+{124}{}{Ti prego, lasciami in pace!}

@@ -1,0 +1,33 @@
+{100}{}{You see a tough-looking desert bandit. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Benvenuto! Io sono Petrox. Sono uno dei capibanda di Garl. Tu chi sei?}
+{102}{}{Sono }
+{103}{}{. Qual e' il tuo compito, esattamente?}
+{104}{}{Il mio nome non ha importanza, al momento. Puoi parlarmi un po' del vostro accampamento?}
+{105}{}{Hroo?}
+{106}{}{Come predone ho il compito di viaggiare per le lande. Nel corso dei miei viaggi raccolgo provviste per l'accampamento.}
+{107}{}{In altre parole, derubi le persone e i villaggi che incontri.}
+{108}{}{Ehi, e' una cosa magnifica. Garl dev'essere molto soddisfatto di te.}
+{109}{}{In quali posti sei stato?}
+{110}{}{Beh, e' bello che tu ti ritenga cosi' importante da non aver bisogno di un nome. Ma voglio comunque dirti una cosa su di noi. Noi siamo i piu' tosti delle lande. Nessuno puo' opporsi a noi. E di certo non quei pappemolli di Shady Sands.}
+{111}{}{Che mi dici di Shady Sands?}
+{112}{}{Cos'e' Junktown?}
+{113}{}{Mi dispiace, ma non ho tempo da perdere con i tardoni. Addio.}
+{114}{}{Noi non rubiamo. Prendiamo soltanto quello che gli altri hanno in abbondanza e poi lo distribuiamo a chi, tra di noi, soffre di fame.}
+{115}{}{Quindi, in pratica, rubate.}
+{116}{}{Mi sembra un'ottima idea.}
+{117}{}{Sono stato in diversi posti, nelle lande. I posti piu' vicini che ho raggiunto sono Shady Sands e Junktown. Non succede molto da quelle parti, ma sono sempre pieni di informazioni e di cibo.}
+{118}{}{Parlami di Shady Sands.}
+{119}{}{Parlami di Junktown.}
+{120}{}{Stai cominciando a stufarmi. Credo che mettero' fine a questa scocciatura.}
+{121}{}{Shady Sands e' una comunita' fertile. Sono sempre felici di... ehm... dividere il loro raccolto con noi.}
+{122}{}{Cosa puoi dirmi di Junktown?}
+{123}{}{Junktown e' un po' a sud di qui. Ci sono un sacco di belle donne.}
+{124}{}{Junktown e' un po' a sud di qui. Ci sono un sacco di belle donne. Senti... perche' non andiamo a bere qualcosa, cosi', per conoscerci meglio? Che ne dici?}
+{125}{}{No grazie, magari un'altra volta.}
+{126}{}{Certo, magari piu' tardi.}
+{127}{}{Beh, magari piu' tardi.}
+{128}{}{Ti ho detto tutto quel che potevo. Adesso vattene.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Petrox, the Khans' lead scav.}

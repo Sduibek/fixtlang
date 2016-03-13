@@ -1,0 +1,57 @@
+# The following dialog lines were pulled from these files, which are now blank:
+# DEMODOG
+# DOG2
+# DOGMEAT
+# JUNKDOG
+###############################################################################
+#
+# DEMODOG.MSG
+#
+{100}{}{Vedi un cane. Sembra che ti stia seguendo.}
+{101}{}{Vedi un cane.}
+{102}{}{Woof!}
+{103}{}{Grrr!}
+{104}{}{Sembra che tu ti sia fatto amico questo cane.}
+{105}{}{You earn 200 experience for befriending the dog.}
+{106}{}{Guadagni 335 punti esperienza per aver sconfitto il cane e per aver permesso a Phil di tornare a casa.}
+#
+# DOG2.MSG
+#
+{107}{}{Vieni qua, bello.}
+{108}{}{Ruff. Ruff.}
+{109}{}{Per qualche strana ragione, questo cane ti adora.}
+#
+# DOGMEAT.MSG
+#
+{110}{}{Vedi Dogmeat.}
+{111}{}{Arf! Arf Arf! Arf! Arf! Arf! Arf! Arf! Arf!}
+{112}{}{[Sniff. Sniff.] Grrrr! Snarl!}
+{113}{}{[Sniff. Sniff] Woof!}
+#
+# JUNKDOG.MSG
+#
+{114}{}{Guadagni 100 punti esperienza per aver aiutato Phil a risolvere il suo grattacapo canino.}
+{115}{}{Pare che il cane pensi che tu sia il suo padrone.}
+{116}{}{You earn 35 experience for helping Phil solve his canine conundrum.}
+{117}{}{Woof-woof!}
+{118}{}{Come on, buddy.}
+{119}{}{Stay here and wait, okay?}
+{120}{}{Good dog.}
+{121}{}{Puppie!!!}
+{122}{}{Woof?}
+{123}{}{Arf?}
+#
+# for Fallout Fixt:
+#
+#
+# for Stupid characters (INT <= 3)
+{300}{}{Doggie!! doggie be frend?}
+{301}{}{doggie Stay! no move!}
+{304}{}{Good doggie!}
+#
+#Normal INT
+{302}{}{Move aside, buddy. Good boy.}
+#
+# space is intentional
+{303}{}{ Stupid mutt!}
+
