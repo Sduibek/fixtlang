@@ -1,0 +1,285 @@
+{100}{}{Спасибо.}
+{101}{}{До свидания.}
+{102}{}{Привет.}
+
+{103}{}{You earn }
+{104}{}{ experience.}
+
+{105}{}{Ох!}
+{106}{}{Клик!}
+{107}{}{Упс!}
+{108}{}{Ух!}
+{109}{}{See ya 'round.}
+{110}{}{Take it easy.}
+{111}{}{Было весело.}
+{112}{}{Ну вот.}
+{113}{}{Что еще интересного?}
+{114}{}{Да.}
+{115}{}{Нет.}
+
+{116}{}{Вы получаете }
+
+{117}{}{ ед. навыка "Легкое оружие".}
+{118}{}{ ед. навыка "Тяжелое оружие".}
+{119}{}{ ед. навыка "Энергетическое оружие".}
+{120}{}{ ед. навыка "Бой без оружия".}
+{121}{}{ ед. навыка "Холодное оружие".}
+{122}{}{ ед. навыка "Метание".}
+{123}{}{ ед. навыка "Первая помощь".}
+{124}{}{ ед. навыка "Доктор".}
+{125}{}{ ед. навыка "Скрытность".}
+{126}{}{ ед. навыка "Кража".}
+{127}{}{ ед. навыка "Взлом".}
+{128}{}{ ед. навыка "Ловушки".}
+{129}{}{ ед. навыка "Наука".}
+{130}{}{ ед. навыка "Ремонт".}
+{131}{}{ ед. навыка "Красноречие".}
+{132}{}{ ед. навыка "Бартер".}
+{133}{}{ ед. навыка "Азартные игры".}
+{134}{}{ ед. навыка "Натуралист".}
+
+{135}{}{Вы приобрели 1 ед. навыка "Легкое оружие".}
+{136}{}{Вы приобрели 1 ед. навыка "Тяжелое оружие".}
+{137}{}{Вы приобрели 1 ед. навыка "Энергетическое оружие".}
+{138}{}{Вы приобрели 1 ед. навыка "Бой без оружия".}
+{139}{}{Вы приобрели 1 ед. навыка "Холодное оружие".}
+{140}{}{Вы приобрели 1 ед. навыка "Метание".}
+{141}{}{Вы приобрели 1 ед. навыка "Первая помощь".}
+{142}{}{Вы приобрели 1 ед. навыка "Доктор".}
+{143}{}{Вы приобрели 1 ед. навыка "Скрытность".}
+{144}{}{Вы приобрели 1 ед. навыка "Кража".}
+{145}{}{Вы приобрели 1 ед. навыка "Взлом".}
+{146}{}{Вы приобрели 1 ед. навыка "Ловушки".}
+{147}{}{Вы приобрели 1 ед. навыка "Наука".}
+{148}{}{Вы приобрели 1 ед. навыка "Ремонт".}
+{149}{}{Вы приобрели 1 ед. навыка "Красноречие".}
+{150}{}{Вы приобрели 1 ед. навыка "Бартер".}
+{151}{}{Вы приобрели 1 ед. навыка "Азартные игры".}
+{152}{}{Вы приобрели 1 ед. навыка "Натуралист".}
+
+{153}{}{Ваша Сила увеличилась на }
+{154}{}{Ваша Восприятие увеличилось на }
+{155}{}{Ваша Выносливость увеличилась на }
+{156}{}{Ваша Привлекательность увеличилась на }
+{157}{}{Ваш Интеллект увеличился на }
+{158}{}{Ваша Ловкость увеличилась на }
+{159}{}{Ваша Удача увеличилась на }
+{160}{}{пунктов.}
+
+{161}{}{Ваша сила увеличилась на один пункт.}
+{162}{}{Ваше восприятие улучшилось на один пункт.}
+{163}{}{Ваша выносливость увеличилась на один пункт.}
+{164}{}{Ваша привлекательность увеличилась на один пункт.}
+{165}{}{Ваш интеллект увеличился на один пункт.}
+{166}{}{Ваша ловкость увеличилась на один пункт.}
+{167}{}{Ваша удача увеличилась на один пункт.}
+
+{168}{}{Спасибо за помощь.}
+{169}{}{Что ж, извините.}
+
+{170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
+
+{171}{}{Создатель хочет с вами поговорить.}
+{172}{}{Ты заплатишь за свое богохульство!}
+
+{173}{}{По-видимому, робот не работает из-за отсутствия электроэнергии.}
+{174}{}{Это совершенно обычный робот.}
+
+{175}{}{Член клана Клинков не хочет с вами разговаривать.}
+
+{176}{}{Чемодан запечатан, он не открывается.}
+
+{177}{}{Прошу, поторопимся. Нет времени на разговоры.}
+{178}{}{Только у Морфеуса есть ключ от этой двери. Я ухожу. Мне нужно рассказать Николь обо всем.}
+{179}{}{Извини, мне нужно уйти, пока они меня не раскрыли.}
+
+{180}{}{Вам ничего не удалось украсть. Интересно, вас засекли?}
+{181}{}{Члены Братства поймали вас на краже.}
+
+{182}{}{}
+{183}{}{}
+{184}{}{}
+{185}{}{}
+
+{186}{}{You hear over the loudspeaker: "Attention! Intruder Alert."}
+{187}{}{Из-за слизи компьютер медленно реагирует на нажатия клавиш.}
+#188 is below
+#189 is below
+{200}{}{You see a horribly-damaged field emitter.}
+{201}{}{Излучатель поврежден так сильно, что использовать его нельзя.}
+{202}{}{Излучатель поврежден так сильно, что его не починить.}
+{203}{}{Вы видите, что поле очень слабое и через него можно пройти.}
+
+
+##################################################
+##################################################
+## Additions by Sduibek for Fallout Fixt:
+##################################################
+##################################################
+
+
+#"Push" telling Tycho/Ian/Katja to move if they're blocking your path
+{190}{}{Step aside, please.}
+{197}{}{Get the fuck out of my way!}
+
+#What the NPC says after you've made them move
+{300}{}{Okay.}
+{301}{}{Oops, sorry about that.}
+{302}{}{Oh, excuse me.}
+
+# System messages
+{191}{}{Tycho is now level }
+{192}{}{Ian is now level }
+{193}{}{Katja is now level }
+{294}{}{You are now level }
+
+{214}{}{The poison has left your system.}
+
+{400}{}{The blast greatly weakens this energy field. It should now be harmless to pass through.}
+
+# Stupid character interacting with hirelings
+# TRANSLATION NOTE: Messages 194, 195, 196 have poor grammar,
+#  improper spelling and improper capitalization on purpose
+#  because they are for a character with Intelligence of 3 or less.
+# The same should be done with translated versions.
+{194}{}{you move? in my WAY! *frown*}# Call "Step Aside" code
+{195}{}{go go, no need frend.}# Telling NPC to leave party
+{196}{}{we be frend?}# Request NPC to rejoin party
+
+# Hireling inspections
+# Spaces at the beginning and end of 198 and 199 are intentional, do not remove them.
+#
+{198}{}{ He is wearing }
+{199}{}{ She is wearing }
+{188}{}{Metal Armor.}
+{189}{}{Leather Armor.}
+{204}{}{Power Armor.}
+{205}{}{Combat Armor.}
+{206}{}{Leather Jacket.}
+{207}{}{Robes.}
+{208}{}{Hardened Power Armor.}
+{209}{}{Brotherhood Armor.}
+{210}{}{Tesla Armor.}
+
+# Message trying to steal from things like brahmin, rats, scorpions
+{211}{}{You cannot steal from this critter.}
+
+# When trying to steal from The Master
+{225}{}{Nice try, but that won't work.}
+
+# Message when player examines themselves
+#first examine
+{212}{}{You look at yourself for a while. Do you like what you see?}
+#subsequent examines while on the same map
+{218}{}{You must have a lot of time on your hands to be checking yourself out like this.}
+
+# Giving item to hireling (Ian/Tycho/Katja)
+{215}{}{Thanks, i'll make good use of that in combat!}
+
+# For what distance hirelings should be from player
+{216}{}{ Walk when close.}
+{217}{}{ Always run.}
+
+# For notifying user of Violence Level
+#### NOT USED ####
+{219}{}{Violence Level is currently }
+{220}{}{None.}
+{221}{}{Minimal.}
+{222}{}{Normal.}
+{223}{}{Maximum Blood.}
+{224}{}{ Maximum Blood advised for characters with Bloody Mess.}
+#
+# This one is for the option in CARVLEAD.SSL that shouldn't show up
+#
+{401}{}{CONTACT SDUIBEK IF YOU SEE THIS MESSAGE}
+
+#an old option for debugging purposes
+{402}{}{EndGame Mod variables reset. Please try to enter Vault 13 again.}
+
+#### NOT USED ####
+{403}{}{You have died. The Vault is doomed.}
+#
+# For displaying player title on levelup, if user chose for that to be enabled
+# space at the end of 404 is intentional, do not remove it.
+#
+{404}{}{Your title: }
+{405}{}{Vault Dweller.}
+{406}{}{Vault Scion.}
+{407}{}{Vault Veteran.}
+{408}{}{Vault Elite.}
+{409}{}{Wanderer.}
+{410}{}{Desert Wanderer.}
+{411}{}{Wanderer of the Wastes.}
+{412}{}{Elite Wanderer.}
+{413}{}{Strider.}
+{414}{}{Desert Strider.}
+{415}{}{Strider of the Wastes.}
+{416}{}{Strider Elite.}
+{417}{}{Vault Hero.}
+{418}{}{Wandering Hero.}
+{419}{}{Striding Hero.}
+{420}{}{Hero of the Desert.}
+{421}{}{Hero of the Wastes.}
+{422}{}{Hero of the Glowing Lands.}
+{423}{}{Paragon.}
+{424}{}{Living Legend.}
+{425}{}{Last, Best Hope of Humanity.}
+#
+## Warning player if loading character from old version of Fixt
+#
+#### OLD, not used, 433 and 434 are now used instead ####
+#
+{426}{}{You have loaded a game from a version of Fallout older than Fallout Fixt }
+# 427 is inserted after 426
+{427}{}{VERSION_NUM_HERE - }
+# 428 is inserted after 427
+{428}{}{playing from this save may result in glitches, unintended game behavior, or crashes. Apologies for the inconvenience and for this dialog.}
+{429}{}{[Continue] I understand the risk and wish to continue playing.}
+{430}{}{[Return to main menu] Hmm. I do not wish to continue loading this savegame.}
+{431}{}{Ugga-wuh?}
+# 432 not used
+{432}{}{[Continue] I understand the risk and agree not to report gameplay bugs when playing characters from older versions. (Bugs such as typos are still reportable)}
+#
+#### NEW, used ####
+#
+#system msg
+{433}{}{WARNING: Save is from an old version of Fixt. Might get glitches or crashes.}
+#float msg over character, currently disabled
+{434}{}{I'm from an older version!}
+
+#
+# For door to Brotherhood armory (weapons/armor stash on Lvl1)
+#
+{500}{}{The door mocks you defiantly by withstanding the blast, receiving only dents and scorch marks.}
+{501}{}{The door is concerned with its ability to take more punishment, as it creaks and buckles from the blast.}
+{502}{}{The door groans in agony as it is blown from its hinges, falling to the floor with a mighty crash.}
+#TRANSLATION NOTE: the spaces at end of 503 and beginning of 504 are required, do not remove them.
+{503}{}{You earn }
+{504}{}{ experience for successful use of explosives.}
+{505}{}{The blast doesn't quite destroy the door. You'll need one more.}
+
+#
+# For guards within Brotherhood armory (weapons/armor stash on Lvl1)
+#
+{601}{}{You shouldn't be in here, Initiate.}
+{602}{}{What are you doing in here?}
+{603}{}{Please leave. You shouldn't be here.}
+{604}{}{Hey, no Initiates.}
+{605}{}{Sorry, I shouldn't be talking to anyone. You know how it is.}
+{606}{}{This is not the library, my boy. If you want to browse, go to the library.}
+{607}{}{This is not the library, my girl. If you want to browse, please go to the library.}
+
+#
+# For endgame (when blowing up Vats, and Master's Vault. Both give the XP but didn't notify user previously.)
+#
+{700}{}{You earn 10000 experience!}
+{701}{}{You earn 10000 experience for destroying the Vats.}
+{702}{}{You earn 10000 experience for destroying The Master.}
+
+{800}{}{Why are you talking to rats?}
+
+# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine.
+# These messages will appear in the console window (bottom-left of game screen) at regular intervals.
+{900}{}{PIP-Boy 2000 displays "VAULT 13 WATER: }
+{901}{}{}
+{902}{}{ DAYS LEFT."}

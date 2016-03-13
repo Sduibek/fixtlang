@@ -1,0 +1,510 @@
+{100}{}{Кожаная броня}
+{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. A lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
+{200}{}{Металлическая броня}
+{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors, but slows the wearer's mobility somewhat. This model features spikes added to the shoulder, a popular fashion statement this year!}
+{300}{}{Усиленная броня}
+{301}{}{A model T-51b West Tek self-contained suit of Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics, and enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating, and features a bullet-proof eyeslit on the helmet.}
+{400}{}{Нож}
+{401}{}{Острое оружие ближнего боя. Мин СЛ: 2.}
+{500}{}{Дубинка}
+{501}{}{Военная или полицейская дубинка. Из крепкой древесины.  Мин. СЛ: 3.}
+{600}{}{Кувалда}
+{601}{}{Большой молот с крепкой рукоятью. Популярен среди качков.  Мин. СЛ: 6.}
+{700}{}{Копье}
+{701}{}{Вариант алебарды. Рукоять деревянная, а наконечник стальной.  Мин. СЛ: 4.}
+{800}{}{Пистолет 10 мм}
+{801}{}{Самозарядный пистолет Colt 6520 10 мм. После каждого выстрела оружие перезаряжается до тех пор, пока не закончится магазин. Мин. СЛ: 3.}
+{900}{}{Пист.-пулемет 10 мм}
+{901}{}{Пистолет-пулемет H&K MP9 (вариант калибра 10 мм).  Средний пистолет-пулемет, может работать в режиме одиночной и автоматической стрельбы.  Мин. СЛ: 4.}
+{1000}{}{Охотничье ружье}
+{1001}{}{Полуавтоматическая винтовка Colt Rangemaster, калибра 0,223. Только одиночный огонь.  Мин. СЛ: 5.}
+{1100}{}{Flamethrower}
+{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  Min STR: 6}
+{1200}{}{Миниган}
+{1201}{}{Миниган Рокуэлл CZ53.  Многоствольный пулемет со скорострельностью более 60,000 выстр. в мин.  Мин. СЛ: 7.}
+{1300}{}{Гранатомет}
+{1301}{}{Гранатомет Рокуэлл "Супербазука".  С 3-фунтовым спуском.  Стреляет ББ или фугасными ракетами.  Мин. СЛ: 6.}
+{1400}{}{Фугасная ракета}
+{1401}{}{Ракета, оснащенная мощной фугасной боеголовкой.}
+{1500}{}{Плазменное ружье}
+{1501}{}{Плазменное ружье Винчестер P94. Энергетическое оружие индустриальной эпохи, стреляющее нагретой до предела плазмой через сверхпроводящий ствол. Питание осуществляется при помощи ядерных микрореакторов. Мин. СЛ: 6.}
+{1600}{}{Лазерный пистолет}
+{1601}{}{Лазерный пистолет Ваттс 1000. Гражданская модель - мощность снижена по сравнению с военными или полицейскими моделями. Использует малые батарейки.  Мин. СЛ: 3.}
+{1700}{}{Боевая броня}
+{1701}{}{First created in 2051, this lightweight, high-tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
+{1800}{}{Дезерт Игл 0,44}
+{1801}{}{Древний Дезерт Игл калибра 0,44 Магнум. Благодаря художественным фильмам конца ХХ века стал самым популярным пистолетом всех времен и народов.  Мин. СЛ: 4.}
+{1900}{}{Камень}
+{1901}{}{Это булыжник. Модель от фирмы ООО Гранит, новая версия.  Мин. СЛ: 1.}
+{2000}{}{Монтировка}
+{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.  Min STR: 5.}
+{2100}{}{Кастет}
+{2101}{}{Кастет из стали. Защищает руку и помогает нанести большие повреждения в ближнем бою.  Мин. СЛ: 1.}
+{2200}{}{Пистолет 14 мм}
+{2201}{}{Автоматический пистолет ЗИГ-Зауэр калибра 14 мм. Крупное оружие отличного качества. Огонь только одиночными.  Мин. СЛ: 4.}
+{2300}{}{Штурмовая винтовка}
+{2301}{}{Автомат AK-112. Старая военная модель, не используется со времен войны. Стреляет в одиночном и автоматическом режиме.  Мин. СЛ: 5.}
+{2400}{}{Плазменный пистолет}
+{2401}{}{Плазменный пистолет Глок 86. Разработан ИИ Гастона Глока. Выстреливает небольшим зарядом нагретой до предела плазмы. Питание осуществляется при помощи малых батареек.  Мин. СЛ: 4.}
+{2500}{}{Осколочная граната}
+{2501}{}{Обычная осколочная граната. Содержит небольшое количество взрывчатки. Сама оболочка при взрыве создает опасные осколки. Взрывается при сотрясении.  Мин. СЛ: 3.}
+{2600}{}{Плазменная граната}
+{2601}{}{Плазменное подающее устройство на магнитном замке с детонирующей взрывчаткой. Создает выброс перегретой плазмы при столкновении.  Мин. СЛ: 4.}
+{2700}{}{Grenade (EMP)}
+{2701}{}{Электромагнитная импульсная граната, создает сильное ЭМ поле при детонации.  Не влияет на биологические создания. Активируется при контакте.  Мин. СЛ: 4.}
+{2800}{}{Гатлинг-лазер}
+{2801}{}{Гатлинг-лазер H&K L30. В начале войны представлял собой прототип. Благодаря нескольким стволам некоторое время удается избежать перегрева. Питание осуществляется при помощи ядерных микрореакторов.  Мин. СЛ: 6.}
+{2900}{}{10 мм п/об}
+{2901}{}{Вид боеприпасов. Калибр: 10 мм, полуоболочечные}
+{3000}{}{10 мм ББ}
+{3001}{}{Боеприпасы. Калибр: 10 мм, бронебойные.}
+{3100}{}{0,44 Магнум п/об}
+{3101}{}{Обойма патронов, калибр 0,44 Магнум, полуоболочечные.}
+{3200}{}{Огнеметн. топливо}
+{3201}{}{Цилиндр, в котором содержится легковоспламеняемое жидкое топливо для огнеметов.}
+{3300}{}{14 мм ББ}
+{3301}{}{Боеприпасы большого калибра. 14мм, бронебойные.}
+{3400}{}{О,223 об.}
+{3401}{}{Магазин с патронами, калибр 0,223, оболочечные.}
+{3500}{}{5 мм п/об}
+{3501}{}{Обойма маленьких, легких боеприпасов. Калибр: 5мм, п/об.}
+{3600}{}{5 мм ББ}
+{3601}{}{Обойма малокалиберных боеприпасов.  5мм, бронебойные.}
+{3700}{}{Ракета (ББ)}
+{3701}{}{Снаряд, обладающий небольшой взрывной силой, но разработанный с целью пробивать броню.}
+{3800}{}{Мал. батарейка}
+{3801}{}{Небольшая автономная единица хранения энергии.}
+{3900}{}{Яд. микрореактор}
+{3901}{}{Энергопроизводственный элемент среднего размера. Автономная установка ядерного синтеза.}
+{4000}{}{Стимулятор}
+{4001}{}{A stimpak, or stimulation delivery package, is a hand-held portable healing unit that consists of a syringe for containing and delivering the medication, and a gauge for measuring the status of the stimpak's contents. When injected, it provides immediate healing of medium wounds and minor tissue damage. No side effects.}
+{4100}{}{Крышки от бутылок}
+{4101}{}{This bag holds your bottle caps; the accepted monetary unit of the post-apocalyptic world. Referred to by some as "Hub script" or simply "scripts", and sometimes by the archaic pre-War term "buck".}
+{4200}{}{Холодильник}
+{4201}{}{A refrigerator. Out of coolant. This one is rusted and lonely.}
+{4300}{}{Холодильник}
+{4301}{}{Старомодная морозилка. Петли в хорошем состоянии.}
+{4400}{}{Холодильник}
+{4401}{}{Старомодная морозилка. Петли в хорошем состоянии.}
+{4500}{}{Метательный нож}
+{4501}{}{Нож, сбалансированный для бросков. Сделан из титана, лазерная заточка.  Мин. СЛ: 3.}
+{4600}{}{Сумка}
+{4601}{}{An average-sized bag, useful for holding things. Made from woven brahma hairs.}
+{4700}{}{Аптечка п/п}
+{4701}{}{Аптечка с минимумом лекарств и прочего медицинского снаряжения. Бинты, марля, антисептики и прочее.}
+{4800}{}{Антирадин}
+{4801}{}{Химическое соединение, которое связывает радиоактивные частицы и выводит их из организма. Требует некоторое время для полного действия.}
+{4900}{}{Противоядие}
+{4901}{}{Бутылка с самодельным противоядием. Молочно-белая жидкость, в которой плавают частички радскорпионьего мяса.}
+{5000}{}{НЗ}
+{5001}{}{Это запасной предмет. НЕ ИСПОЛЬЗУЙТЕ.}
+{5100}{}{Динамит}
+{5101}{}{Взрывчатка, состоит из нитроглицерина смешанного с адсорбентом под названием "кисельгур". Имеется таймер.}
+{5200}{}{Счетчик Гейгера}
+{5201}{}{Счетчик Гейгера от компании Ватт Электроникс, модель "Радомер". Фиксирует наличие и мощность радиационных полей.}
+{5300}{}{Ментат}
+{5301}{}{Таблетки из химического вещества, расширяющего сознание. Улучшает функции головного мозга, связанные с памятью, а также убыстряет некоторые умственные процессы.  Вызывает сильное привыкание.}
+{5400}{}{Невидимка}
+{5401}{}{Персональное маскировочное устройство "Невидимка 3001" от компании Роб. Генерирует модулирующее поле, которое передает отраженный свет с одной стороны объекта на противоположную.}
+{5500}{}{Водяной чип}
+{5501}{}{Контрольный чип компьютерной системы водоочистки. Выглядит удивительно похожим на тот, что нужен вашему Убежищу.}
+{5600}{}{Солдатские жетоны}
+{5601}{}{Набор солдатских жетонов. Можно прочесть имя Даркуотер, но не остальное.}
+{5700}{}{Жучок}
+{5701}{}{Миниатюрный микрофон и передающее устройство.}
+{5800}{}{Holodisk}
+{5801}{}{This is a Wattz Electronics Holodisk, designed for THT players. Also called a "holotape" or simply "tape", holodisks are durable laser-readable storage devices based on tape holography technology. Suitable for long-term storage of text, audio, or video, they typically hold 64 to 256 kilobytes of data.}
+{5900}{}{Сенсор движения}
+{5901}{}{Сенсор движения Ватт Электроникс, модель "Ви-ДОК". Определяет движение биологического материала на расстоянии нескольких метров, используя небольшой радар.}
+{6000}{}{Книжный шкаф}
+{6001}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6100}{}{Книжный шкаф}
+{6101}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6200}{}{Книжный шкаф}
+{6201}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6300}{}{Книжный шкаф}
+{6301}{}{A wooden bookcase in good condition. It's made of wood and might hold books.}
+{6400}{}{Книжный шкаф}
+{6401}{}{This wooden bookcase is in terrible shape and might collapse at any moment.}
+{6500}{}{Книжный шкаф}
+{6501}{}{You don't like the way this particular wooden bookcase is leaning.}
+{6600}{}{Стол}
+{6601}{}{A wooden desk. Made of wood, has drawers, holds stuff.}
+{6700}{}{Стол}
+{6701}{}{This desk has seen better days. You wouldn't even trust it to hold a paperweight.}
+{6800}{}{Платяной шкаф}
+{6801}{}{A wooden dresser. Made of wood, has drawers, holds stuff.}
+{6900}{}{Платяной шкаф}
+{6901}{}{This wooden dresser seems to be tired of being mistreated.}
+{7000}{}{Платяной шкаф}
+{7001}{}{A wooden dresser with one working drawer. Not very exciting.}
+{7100}{}{Irradiated Fruit}
+{7101}{}{A strange-looking piece of fruit. It does not look particularly tasty. No preservatives and no additional food coloring added. A low-fat food!}
+{7200}{}{Чемоданчик}
+{7201}{}{Кейс из американской искусственной кожи. В неплохом состоянии, правда сломан кодовый замок.}
+{7300}{}{Бол. научная книга}
+{7301}{}{Набор книг, содержащих информацию о различных науках.}
+{7400}{}{Кожаная куртка}
+{7401}{}{A black, heavy leather jacket. You can't help thinking how badass you'd look wearing this, even in the scorching heat of the wastes.}
+{7500}{}{MultiTool}
+{7501}{}{A super tool set, containing various useful tools and gadgets. The aspiring engineer or repairman should never leave home without it!}
+{7600}{}{Электроника Дина}
+{7601}{}{Учебник по починке электроники. На обложке лозунг: "Сделаем из каждого юного электрика!"}
+{7700}{}{Электронная отмычка}
+{7701}{}{Электронная отмычка модели "Карманный микроманипулятор" от Ватт Электроникс. Предназначена для открывания электронных замков и нейтрализации средств безопасности.}
+{7800}{}{Выцветшая картинка}
+{7801}{}{Портрет певца. Очень, очень старый. Неплохая войлочная оторочка.}
+{7900}{}{Фонарик}
+{7901}{}{Фонарик. На короткое время дает свет. Бумага слегка поизносилась, а в остальном - прекрасное состояние. Поверните крышку, чтобы активировать его.}
+{8000}{}{Учебник п/п}
+{8001}{}{A study book on the concepts and practical use of First Aid skills. Much of the information is pre-War, however it is still applicable to most in-the-field practices and skills.}
+{8100}{}{Шашлык из игуаны}
+{8101}{}{Игуана, зажаренная прямо с кожей.}
+{8200}{}{Ключ}
+{8201}{}{Ключ. Ключ откроет определенный замок.}
+{8300}{}{Брелок}
+{8301}{}{Связка ключей.}
+{8400}{}{Отмычки}
+{8401}{}{Набор инструментов слесаря. Включает все нужные отмычки и гаечные ключи для открытия обыкновенных бытовых замков.}
+{8500}{}{Пласт. взрывчатка}
+{8501}{}{Ломоть "Кордекса", военной пластиковой взрывчатки. Очень стабильный, весьма разрушительный. Прилагается таймер.}
+{8600}{}{Наст. книга скаута}
+{8601}{}{Название говорит само за себя. Дает множество сведений о жизни вне городов.}
+{8700}{}{Баффаут}
+{8701}{}{Highly advanced steroids that were popularized before the Great War by professional athletes and their clandestine use of the drug. While in effect, they increase the user's strength, stamina and reflexes. Very addictive.}
+{8800}{}{Часы}
+{8801}{}{Дорогие часы.  Не работают, но выглядят круто.}
+{8900}{}{Мотор}
+{8901}{}{Электрический мотор на 40 лошадиных сил.}
+{9000}{}{Рюкзак}
+{9001}{}{Обыкновенный рюкзак с дополнительными ручками.}
+{9100}{}{Саквояж доктора}
+{9101}{}{This black bag contains many instruments and therapeutic drugs used by doctors in the application of their trade.}
+{9200}{}{Radscorpion Tail}
+{9201}{}{Оторванный хвост радскорпиона.}
+{9300}{}{Сумка}
+{9301}{}{Мешок среднего размера. Изготовлен из браминьего волоса.}
+{9400}{}{Дробовик}
+{9401}{}{Винчестер Видоумейкер - двуствольный дробовик 12 калибра. Короткоствольный, с прикладом из красного дерева.  Мин. СЛ: 4.}
+{9500}{}{12-gauge Shotgun Shells}
+{9501}{}{Патроны для дробовика. На коробке написано: "Патроны 12-калибра, не для детей в возрасте до 3 лет."}
+{9600}{}{Красный пропуск}
+{9601}{}{Электронная карта доступа. Цветовой код - красный.}
+{9700}{}{Синий пропуск}
+{9701}{}{Электронная карта доступа. Цветовой код - синий.}
+{9800}{}{Мусор}
+{9801}{}{Куча мусора. Всего понемножку.}
+{9900}{}{Золотой кулон}
+{9901}{}{Ценный золотой кулон.}
+{10000}{}{Рация}
+{10001}{}{Рация модели 2043B от прекрасной компании Ватт Электроникс. Надежная, прочная и камуфлированная. С дополнительным разъемом RS-121.}
+{10100}{}{Зажигалка}
+{10101}{}{Серебряная газовая зажигалка. В хорошем состоянии.}
+{10200}{}{Оружие и боеприпасы}
+{10201}{}{Журнал, посвященный практическому применению огнестрельного оружия, иногда публикующий пристрастные обзоры.}
+{10300}{}{Шашлык из игуаны}
+{10301}{}{Обуглившееся мясо и овощи на шампуре.}
+{10400}{}{Магнитофон}
+{10401}{}{A Wattz Electronics Play-It-For-Me tape recorder. Plays and records the standard 30-minute high-density Record-It-Once tapes, not to be confused with the newer holodisk technology.}
+{10500}{}{Ключ}
+{10501}{}{Какой-то специальный ключ.}
+{10600}{}{Ядер-Кола}
+{10601}{}{Бутылка Ядер-Колы, сладкого безалкогольного напитка пост-ядерной эры. Теплая и выдохшаяся.}
+{10700}{}{Кости}
+{10701}{}{Несколько странных костей.}
+{10800}{}{Кости}
+{10801}{}{Несколько странных костей.}
+{10900}{}{Рад-X}
+{10901}{}{Anti-radiation drugs to be taken before exposure, which in the wastes means more or less constantly. No known side effects. Thankfully they have proven to be non-addictive.}
+{11000}{}{Солнце}
+{11001}{}{Уникальная упаковка со странными и неизвестными препаратами, вероятно, военного производства. Они предназначались для повышение боевого потенциала солдат.}
+{11100}{}{0,44 Магнум об.}
+{11101}{}{Обойма боеприпасов. Калибр 0,44 Магнум, оболочечные.}
+{11200}{}{Урна}
+{11201}{}{Прекрасная золотая урна. Снаружи выгравирована надпись "Гарриет". Внутри хранится чей-то прах.}
+{11300}{}{Мантия}
+{11301}{}{Мантия Чад Собора.}
+{11400}{}{Рука Танглера}
+{11401}{}{Кибернетический манипулятор в форме руки. Поврежден из-за неаккуратного метода отделения от тела.}
+{11500}{}{Суперкувалда}
+{11501}{}{Суперкувалда произведена Братством Стали с использованием лучших боевых технологий. Прилагается аккумулятор кинетической энергии для увеличения сбивающей силы. Мин. СЛ: 5.}
+{11600}{}{Потрошитель}
+{11601}{}{Вибронож "Потрошитель"(tm). Питается от батареек, зазубренное лезвие впивается в плоть жертвы, разрывая ее.  Мин. СЛ: 4.}
+{11700}{}{Цветочек}
+{11701}{}{Прекрасный цветок.}
+{11800}{}{Лазерное ружье}
+{11801}{}{Лазерное ружье Ваттс 2000. Испоьзует ядерные микрореакторы для усиления лазеров и удлиненный ствол для увеличения дальности.  Мин. СЛ: 6.}
+{11900}{}{Ожерелье}
+{11901}{}{Дорогое на вид ожерелье, изготовленное из золота, серебра и синтезированных бриллиантов.}
+{12000}{}{Бластер пришельцев}
+{12001}{}{Странная пушка, видимо, сделанная пришельцами. Впрочем, может работать от батареек.  Мин. СЛ: 2.}
+{12100}{}{9 мм Люгер}
+{12101}{}{A collection of ancient standard 9x19mm rounds, greased heavily to preserve them from the environment. Before the Great War, 9mm was the preferred type of ammunition for small weapons in the south- west Commonwealth, while the military and the Eastern and Western seaboards tended to favor 10mm ammunition.}
+{12200}{}{9 мм Маузер}
+{12201}{}{Маузер M/96 калибра 9x19 мм Парабеллум. В отличном состоянии. Идеальная точность выстрела.  Мин. СЛ: 3.}
+{12300}{}{Психонейтрализатор}
+{12301}{}{Необычное устройство, выполненное по неизвестной технологии.}
+{12400}{}{Пиво}
+{12401}{}{Какой-то сорт домашнего пива.}
+{12500}{}{Самогон}
+{12501}{}{Древний алкогольный напиток довоенной эпохи.}
+{12600}{}{Фляга}
+{12601}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field.}
+{12700}{}{Веревка}
+{12701}{}{A strong, thick line of braided fibers. About 20 feet in length.}
+{12800}{}{Сундучок}
+{12801}{}{Ваш обычный сундучок. В нем можно держать снаряжение, стоит в ногах кровати. Можно закрыть на замок.}
+{12900}{}{Сундучок}
+{12901}{}{Ваш обычный сундучок. В нем можно держать снаряжение, стоит в ногах кровати. Можно закрыть на замок.}
+{13000}{}{Сундучок}
+{13001}{}{Ваш обычный сундучок. В нем можно держать снаряжение, стоит в ногах кровати. Можно закрыть на замок.}
+{13100}{}{Сундучок}
+{13101}{}{Ваш обычный сундучок. В нем можно держать снаряжение, стоит в ногах кровати. Можно закрыть на замок.}
+{13200}{}{Шкафчик}
+{13201}{}{A storage container. Metal, holds stuff, can be locked.}
+{13300}{}{Шкафчик}
+{13301}{}{A storage container. Metal, holds stuff, can be locked.}
+{13400}{}{Шкафчик}
+{13401}{}{A storage container. Metal, holds stuff, can be locked.}
+{13500}{}{Шкафчик}
+{13501}{}{A storage container. Metal, holds stuff, can be locked.}
+{13600}{}{Шкафчик}
+{13601}{}{A storage container. Metal, holds stuff, can be locked.}
+{13700}{}{Шкафчик}
+{13701}{}{A storage container. Metal, holds stuff, can be locked.}
+{13800}{}{Шкафчик}
+{13801}{}{A storage container. Metal, holds stuff, can be locked.}
+{13900}{}{Шкафчик}
+{13901}{}{A storage container. Metal, holds stuff, can be locked.}
+{14000}{}{Карта доступа}
+{14001}{}{Карта доступа. Все еще в рабочем состяоянии.}
+{14100}{}{Значок ЧС}
+{14101}{}{Знак в форме символа Чад Собора. На одной стороне вы обнаружили странные выступы, которые сильно напоминают ключ.}
+{14200}{}{Значок ЧС}
+{14201}{}{Знак в форме символа Чад Собора. На одной стороне вы обнаружили странные выступы, которые сильно напоминают ключ.}
+{14300}{}{Снайп. винтовка}
+{14301}{}{Снайперская винтовка DKS-501. Великолепное огнестрельное оружие дальнего действия. Изначально калибра .308, эта была переделана под более распространенный калибр .223.  Мин. СЛ: 5.}
+{14400}{}{Суперстимулятор}
+{14401}{}{Also referred to as simply a "superstim", this is a very advanced and powerful piece of healing technology. While it is capable of healing even severe wounds and major tissue damage, it also causes some internal hemorrhaging to the recipient after a short period of time, due to the powerful nature of the chemicals used.}
+{14500}{}{Книжные полки}
+{14501}{}{A wooden bookshelf, quietly keeping to itself.}
+{14600}{}{Книжные полки}
+{14601}{}{A wooden bookshelf, quietly keeping to itself.}
+{14700}{}{Книжные полки}
+{14701}{}{A wooden bookshelf, quietly keeping to itself.}
+{14800}{}{Книжные полки}
+{14801}{}{A wooden bookshelf, quietly keeping to itself.}
+{14900}{}{Книжные полки}
+{14901}{}{A wooden bookshelf, quietly keeping to itself.}
+{15000}{}{Книжные полки}
+{15001}{}{A wooden bookshelf, quietly keeping to itself.}
+{15100}{}{Полки}
+{15101}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15200}{}{Полки}
+{15201}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15300}{}{Полки}
+{15301}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15400}{}{Полки}
+{15401}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15500}{}{Полки}
+{15501}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15600}{}{Полки}
+{15601}{}{A set of wooden shelves. It looks much too heavy to carry with you.}
+{15700}{}{Верстак}
+{15701}{}{Верстак. Да, старый, обычный, знакомый верстак.}
+{15800}{}{Инстр. полка}
+{15801}{}{На этой полке над верстаком хранятся разнообразные инструменты.}
+{15900}{}{Коктейль Молотова}
+{15901}{}{Самодельная граната.  Мин. СЛ: 3.}
+{16000}{}{Электрокнут}
+{16001}{}{Электрокнут производства компании Ватт Электроникс. Модель "Лучший друг фермера". Питание обеспечивается малыми батарейками.  Мин. СЛ: 4.}
+{16100}{}{Пневм. Ред Райдер}
+{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...  Min STR: 3.}
+{16200}{}{Ружье Ред Райдер SE}
+{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock! A true classic. Don't shoot your eye out, kid!  Min STR: 4.}
+{16300}{}{BBs}
+{16301}{}{A box containing BBs from before the war. In excellent condition. Stainless steel.}
+{16400}{}{Brotherhood Disk}
+{16401}{}{A holodisk with information about the Brotherhood of Steel.}
+{16500}{}{Шашлычная}
+{16501}{}{Здесь живут кусочки игуаны Боба. Ну кто же не любит свежей поджаренной игуаны?}
+{16600}{}{Стол}
+{16601}{}{Обычный стол.}
+{16700}{}{Стол}
+{16701}{}{Обычный стол.}
+{16800}{}{Вещи}
+{16801}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{16900}{}{Вещи}
+{16901}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17000}{}{Вещи}
+{17001}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17100}{}{Вещи}
+{17101}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17200}{}{Вещи}
+{17201}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17300}{}{Вещи}
+{17301}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17400}{}{Вещи}
+{17401}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17500}{}{Вещи}
+{17501}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17600}{}{Вещи}
+{17601}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17700}{}{Вещи}
+{17701}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17800}{}{Вещи}
+{17801}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{17900}{}{Вещи}
+{17901}{}{Разнообразные предметы, которые можно назвать одним словом "вещи".}
+{18000}{}{Ящик}
+{18001}{}{Деревянный ящик, наполненный разными вещами.}
+{18100}{}{Стол}
+{18101}{}{Обыкновенный стол. Родной брат всех остальных.}
+{18200}{}{Стол}
+{18201}{}{Обыкновенный стол.}
+{18300}{}{Стол}
+{18301}{}{Обыкновенный стол.}
+{18400}{}{Стол}
+{18401}{}{Обыкновенный стол.}
+{18500}{}{Стол}
+{18501}{}{Обыкновенный стол.}
+{18600}{}{Стол}
+{18601}{}{Обыкновенный стол.}
+{18700}{}{Стол}
+{18701}{}{Обыкновенный стол.}
+{18800}{}{Шкафчик}
+{18801}{}{A locker. Can be locked, holds stuff.}
+{18900}{}{Шкафчик}
+{18901}{}{A locker. Can be locked, holds stuff.}
+{19000}{}{Диск ВРЭ}
+{19001}{}{Голозапись с медицинскими данными. Информацию можно перенести на ваш PIPBoy.}
+{19100}{}{Диск охраны}
+{19101}{}{Голозапись с надписью "Журнал системы безопасности" на обложке. Информацию можно перенести на ваш PIPBoy.}
+{19200}{}{Диск эксп. "Альфа"}
+{19201}{}{На ярлыке этой пленки написано "Журнал эксперимента "Альфа"}
+{19300}{}{Диск эксп. "Дельта"}
+{19301}{}{На ярлыке этой пленки написано "Журнал эксперимента "Дельта"}
+{19400}{}{The Master's Guns}
+{19401}{}{These are attached to The Master. They look like the standard H&K L30 Gatling Laser but you can't be sure.}
+{19500}{}{Кодекс Братства}
+{19501}{}{A holodisk, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the disk to transfer the data to your Pip-Boy 2000.}
+{19600}{}{Переговоры мутантов}
+{19601}{}{This holodisk looks like it was set to record audio data from a radio. Use the disk to transfer the information to your Pip-Boy 2000.}
+{19700}{}{Коробка}
+{19701}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19800}{}{Коробка}
+{19801}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{19900}{}{Коробка}
+{19901}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20000}{}{Коробка}
+{20001}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20100}{}{Коробка}
+{20101}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20200}{}{Коробка}
+{20201}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20300}{}{Коробка}
+{20301}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20400}{}{Коробка}
+{20401}{}{High-tech crate made of a sturdy lightweight composite material. Probably used for the storage of weapons or medical equipment.}
+{20500}{}{Flare (Lit)}
+{20501}{}{Фонарик. На короткое время зажигает свет. Бумага слегка поизносилась, а в остальном - прекрасное состояние. Уже горит.}
+{20600}{}{Dynamite (Ticking)}
+{20601}{}{Бризантное взрывчатое вещество, состоящее из нитроглицерина, смешанного c абсорбирующим веществом "киселгур".  Оснащено таймером, который в настоящий момент активирован.}
+{20700}{}{Geiger Counter (Activated)}
+{20701}{}{Счетчик Гейгера от компании  Ватт Электроникс, модель "Радомер". Фиксирует наличие и мощность радиационных полей. В настоящий момент включен.}
+{20800}{}{Motion Sensor (Activated)}
+{20801}{}{Сенсор движения от компании Ватт Электроникс, модель "Ви-ДОК". Фиксирует движение биологических существ на определенном расстоянии в метрах при помощи настроенного датчика оптического контроля. В настоящее время включен.}
+{20900}{}{Plastic Explosives (Ticking)}
+{20901}{}{Ломоть "Кордекса", военной пластиковой взрывчатки. Очень стабильный, весьма разрушительный. Прилагается таймер, который уже тикает.}
+{21000}{}{Stealth Boy (Activated)}
+{21001}{}{Персональное маскировочное устройство "Невидимка 3001" от компании Роб. Генерирует модулирующее поле, которое передает отраженный свет с одной стороны объекта на противоположную.}
+{21100}{}{Кости}
+{21101}{}{Вы видите Эда.  Эд мертв.}
+{21200}{}{Танди}
+{21201}{}{Вы торгуетесь за освобождение Танди.}
+{21300}{}{Останки Гизмо}
+{21301}{}{Гизмо, бывший авторитет в Джанктауне, мертв. И крепко воняет.}
+{21400}{}{Стол}
+{21401}{}{Стол. После глубокомысленного и тщательного изучения, вы пришли к неоспоримому выводу о том, что это несомненно именно стол.}
+{21500}{}{История Братства}
+{21501}{}{Голозапись с информацией об истории Братства Стали. Информацию можно перенести на ваш PIPBoy.}
+{21600}{}{История Максона}
+{21601}{}{RESERVED}
+{21700}{}{Дневник Максона}
+{21701}{}{RESERVED}
+{21800}{}{Малое исцеление}
+{21801}{}{Выберите этот вариант, если вам требуется малое исцеление.}
+{21900}{}{Среднее исцеление}
+{21901}{}{Выберите этот вариант, если вам  требуется среднее исцеление.}
+{22000}{}{Серьезное исцеление}
+{22001}{}{Выберите этот вариант, если вам требуется уход и серьезное исцеление.}
+{22100}{}{Карта-пропуск}
+{22101}{}{Ключ-карта с повышенным уровнем безопасности. Электроника очень простая.}
+{22200}{}{Полевой перекл.}
+{22201}{}{Электронное передающее устройство с очень простой и большой кнопкой. Кажется, будто оно было сделано недавно и рассчитано на очень большие руки.}
+{22300}{}{Желтый пропуск}
+{22301}{}{Электронная карта доступа. Цветовой код - желтый.}
+{22400}{}{Небольшая статуэтка}
+{22401}{}{Похоже, что это изображение Pip Boy, но с полной уверенностью сказать трудно.}
+{22500}{}{ЧЕРТ ЕГО ЗНАЕТ ЧТО}
+{22501}{}{Тщательное исследование дает точный ответ на вопрос, что это такое: "Черт его знает!"}
+{22600}{}{Коробка лапши}
+{22601}{}{Вы понятия не имеете, что такое "лапша быстрого приготовления".}
+{22700}{}{Пыльная коробка}
+{22701}{}{Телеобед. Это определенно несъедобно. Вы не уверены, что это вообще когда-либо было съедобным.}
+{22800}{}{Техн. руководство}
+{22801}{}{A technical repair manual and desk reference for the T-51b Powered Armor. It seems to explain, in lengthy and boring detail, everything you'd ever want to know about Power Armor repair, use and maintenance.}
+{22900}{}{Деталь аппаратуры}
+{22901}{}{This is a Systolic Motivator. This unusual piece of machinery is very small, but surprisingly heavy for its size. It looks very high-tech but you have no idea what it would be used for.}
+{23000}{}{Архивы Убежища}
+{23001}{}{Собрание происшествий и важных записей из компьютерной системы Убежища.  Вероятно, повреждены.}
+{23100}{}{Military Base Password}
+{23101}{}{So much for security. Remember kids, never write down your password.}
+{23200}{}{Закал. силовая броня}
+{23201}{}{A modified suit of T-51b Powered Armor. The chemical hardening process has improved the defensive capability of this high-tech armor system, without hindering mobility or the wearer's protection from radiation.}
+{23300}{}{Турбоплазм. винтовка}
+{23301}{}{Модифицированное плазменное ружье Winchester P94.  Плазменная пазуха была обмотана проводами, для ускорения процесса формирования заряда.  Мин. СЛ: 6.}
+{23400}{}{Шипованный кастет}
+{23401}{}{Улучшенная версия классического кастета. Такие кастеты наносят больший урон благодаря своим шипам, которые впиваются в противника, в рукопашном бою. Мин. сила: 1.}
+{23500}{}{Силовой кастет}
+{23501}{}{Силовой кастет "Большой таран" производства компании Бью. Большинство считает его лучшим оружием для рукопашного боя. Остальные же просто его боятся. Питание обеспечивается малыми батарейками. Мин. сила: 1.}
+{23600}{}{Боевой нож}
+{23601}{}{Высококачественный боевой нож модели "Сталлона" производства корпорации Остряк. Его лезвие гарантированно останется таким же острым даже через десять лет использования! Мин. сила: 2.}
+{23700}{}{Химические журналы}
+{23701}{}{Набор периодики посвященной вопросам химии. Особенно интересны работы по молекулярной химии.}
+{23800}{}{F.E.V. (Ghoul)}
+{23801}{}{ura ghul brah}
+{23900}{}{Броня Братства}
+{23901}{}{A superior version of Combat Armor. This armor is issued to all Initiates of the Brotherhood of Steel. The Brotherhood has made many improvements over the standard version, both functionally and cosmetically.}
+{24000}{}{Броня Тесла}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy such as plasma and laser fire. Unlike the basic metal armor it strongly resembles, this armor is an actual pre-War military design. It is in good condition.}
+{24100}{}{Пистолет 0,223}
+{24101}{}{Винтовка калибра .223 обрезанная до пистолета. Это единственное в своем роде оружие безусловно сделано с любовью и умением.  Мин. СЛ: 5.}
+{24200}{}{Боевой дробовик}
+{24201}{}{Боевой дробовик Винчестер Ситикиллер 12 калибра. Компоновка "буллпап". В отличном состоянии. Поставляется с герметиком "Война в пустыне", повышающим надежность оружия. Мин. сила: 5.}
+{24300}{}{MacRae's Training}
+{24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
+{24400}{}{Gold Nugget}
+{24401}{}{A nugget of gold.}
+{24500}{}{Alien Blaster CHEAT}
+{24501}{}{You cheating bastard.}
+{24600}{}{Uzi 9mm SMG}
+{24601}{}{This is an Uzi submachine gun, 9mm caliber. Amazingly, it's still in working condition. The Uzi was cheap, light and rarely jammed, which made it a classic amongst drugrunners during the early stages of the 21st century.  Min STR: 3.}
+{24700}{}{Rat Meat}
+{24701}{}{Some chopped-up rat parts. Too bad you didn't read Vault Document VTR-003 "How to Eat Rat", otherwise you'd be able to make it more palatable.}
+{24800}{}{Brahma Meat}
+{24801}{}{Brahma meat is high in vitamins, minerals, fat, protein, and rads. Too bad you don't have time to cook up some tasty brahma burgers!}
+{24900}{}{Dog Meat}
+{24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
+{25000}{}{Ghoul Meat}
+{25001}{}{You're not even sure if this is edible. It smells like death and probably doesn't taste any better.}
+{25100}{}{Deathclaw Meat}
+{25101}{}{Very tough and dry, but almost 100% protein; the most filling and "healthy" meat you'll find in the wastes.}
+{25200}{}{Mantis Chunks}
+{25201}{}{If you pretend it's iguana bits, it's not so bad, except for the crunch. Actually, it's still pretty bad.}
+{25300}{}{Water Flask (Empty)}
+{25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
+{25400}{}{F.E.V. (Super Mutant)}
+{25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
+{25500}{}{Mutated Meat}
+{25501}{}{You watch the meat intently to make sure it's not moving.}

@@ -1,0 +1,17 @@
+{100}{}{You see: Shady Sands' resident trader.}
+{101}{}{Hello wanderer! I trade and sell goods to the fine people of Shady Sands. Would you like to see my wares?}
+{102}{}{Yes.}
+{103}{}{Не-а.}
+{104}{}{Радскорпионы уже давно нам досаждают. Мы посылали людей, чтобы перебить этих монстров, но никто из них не вернулся. Если поможешь нам уничтожить их логово, я дам тебе оружие и броню.}
+{105}{}{А что, неплохо.}
+{106}{}{Нет, спасибо.}
+{107}{}{Очень жаль. Тогда уходи.}
+{108}{}{Excellent. Talk to Seth then; he will guide you to the lair. Here are the items I promised. They will be useful in the lair.}
+{109}{}{Please help us as soon as possible. Time is of the essence.}
+{110}{}{Я не разговариваю с такими, как ты.}
+{111}{}{Thank you for destroying the radscorpions, stranger.}
+#
+# by Sduibek for Fallout Fixt:
+#
+{112}{}{You see a merchant.}
+{113}{}{I'm not going to talk to you unless you holster that weapon, stranger.}

@@ -1,0 +1,11 @@
+# Hot spots are intense concentrations of radiation. Consider Neutral or Male.
+# Tone of Voice should be automated and flat.
+
+# Lines are "You sustain [2 or more] points of radiation damage"
+{100}{}{¬ы получили }
+{101}{}{ пунктов урона от радиации.}
+{102}{}{¬ы получили }
+{103}{}{ пунктов урона от радиации.}
+{104}{}{–€дом находитс€ очаг сильного радиационного облучени€.}
+{105}{}{¬ы получили }
+{106}{}{ пунктов урона от радиации.}

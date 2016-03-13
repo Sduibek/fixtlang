@@ -1,0 +1,276 @@
+#
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+#
+#
+{100}{}{ГОТОВО}
+{101}{}{МЕНЮ}
+{102}{}{ОТМЕНА}
+{103}{}{ПЕЧАТЬ}
+{104}{}{ВОЗР}
+{105}{}{ПОЛ}
+{106}{}{ИМЯ}
+{107}{}{МУЖ}
+{108}{}{ЖЕН}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
+{112}{}{ДОП. ОЧКИ}
+{113}{}{Уровень:}
+{114}{}{Experience:}
+{115}{}{След. ур.:}
+{116}{}{ДОП. ОЧКИ}
+{117}{}{НАВЫКИ}
+{118}{}{Нужно потратить все очки персонажа,} # 1
+{119}{}{прежде чем начинать игру!}         # 2
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{120}{}{Доп. очки}
+{121}{}{Amount of free points that can be added to your primary statistics.}
+{122}{}{Следующий уровень}
+{123}{}{This is how many experience points are needed to move up to the next level.}
+{124}{}{Способности}
+{125}{}{Карма}
+{126}{}{Убито}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
+{128}{}{Здесь отображается влияние решений, которые вы принимаете во время игры.}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
+{130}{}{Очки навыков}
+{131}{}{Используйте очки навыков, чтобы повысить уровень какого-либо Навыка.}
+#
+{132}{}{Максимальный уровень.}        # 1
+{133}{}{Невозможно повысить.}  # 2
+{134}{}{Минимальный уровень.}        # 1
+{135}{}{Невозможно понизить.}  # 2
+{136}{}{Нет свободных очков навыков.}
+{137}{}{База:}
+{138}{}{ОСНОВН.}
+{139}{}{ДОП. ОСОБЕННОСТИ}
+{140}{}{Вы уже достигли максимума в} # 1
+{141}{}{три основных навыка!}               # 2
+{142}{}{Необходимо выбрать основные навыки}  # 1
+{143}{}{прежде чем начинать игру!}       # 2
+{144}{}{Основные навыки}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
+{146}{}{Дополнительные особенности}
+{147}{}{Дополнительные особенности - штрихи к портрету вашего персонажа.  Все особенности имеют положительное или отрицательное влияние. Вы можете выбрать максимум две особенности во время создания персонажа.}
+{148}{}{Вы уже достигли максимума в} # 1
+{149}{}{две особенности!}                     # 2
+{150}{}{Навыки}
+{151}{}{Навыки - приобретенное знание. Навыки увеличиваются с опытом, а также с помощью особых игровых событий. Чем выше уровень навыка, тем лучше вы им владеете.}
+#
+{152}{}{ВЫБРАТЬ СПОСОБНОСТЬ}
+{153}{}{НОВАЯ ОСОБЕННОСТЬ}
+{154}{}{ПОТЕРЯТЬ ОСОБЕННОСТЬ}
+{155}{}{НОВЫЙ ОСН. НАВЫК}
+{156}{}{ОСОБЕННОСТИ}
+#
+{157}{}{Вся статистика должна быть между 1 и 10} # 1
+{158}{}{прежде чем начинать игру!}          # 2
+#
+#
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Труп}  # Very Bad
+{201}{}{Плохо}    # Bad
+{202}{}{Сред.}   # Poor
+{203}{}{Удовл.}   # Fair
+{204}{}{Станд.}   # Average
+{205}{}{Хор.}   # Good
+{206}{}{Оч.хор.} # Very Good
+{207}{}{Круто}  # Great
+{208}{}{Герой} # Excellent
+{209}{}{Бог} # Heroic
+#
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{Здоровье}
+{301}{}{Очки действия}
+{302}{}{Класс брони}
+{303}{}{} # 303 is blank on purpose, leave blank
+{304}{}{Урон х/ор.}
+{305}{}{Сопр. урону}
+{306}{}{Сопр. ядам}
+{307}{}{Сопр. рад.}
+{308}{}{Реакция}
+{309}{}{Скор. восст-я}
+{310}{}{Шанс на крит.}
+{311}{}{Макс. груз}
+{312}{}{Отравление}
+{313}{}{Irradiated}
+{314}{}{Повреждение глаз}
+{315}{}{Сломана пр. рука}
+{316}{}{Сломана лев. рука}
+{317}{}{Сломана пр. нога}
+{318}{}{Сломана лев. нога}
+#
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
+# Radiation
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+# Eye Damage
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+# Crippled right arm
+{403}{}{Правая рука вашего персонажа сломана и не функционирует. Если повреждена одна рука, вы не сможете использовать двуручное оружие. Если повреждены обе руки, вы вообще не сможете пользоваться оружием.}
+# Crippled left arm
+{404}{}{Левая рука вашего персонажа сломана и не функционирует. Если повреждена одна рука, вы не сможете использовать двуручное оружие. Если повреждены обе руки, вы вообще не сможете пользоваться оружием.}
+# Crippled right leg
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+# Crippled left leg
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
+# Month strings
+{500}{}{Январь}
+{501}{}{Февраль}
+{502}{}{Март}
+{503}{}{Апрель}
+{504}{}{Май}
+{505}{}{Июнь}
+{506}{}{Июль}
+{507}{}{Август}
+{508}{}{Сентябрь}
+{509}{}{Октябрь}
+{510}{}{Ноябрь}
+{511}{}{Декабрь}
+#
+#
+# Option menu text
+#
+{600}{}{СОХРАНИТЬ}
+{601}{}{ЗАГРУЗИТЬ}
+{602}{}{В ФАЙЛ}
+{603}{}{УДАЛИТЬ}
+{604}{}{ГОТОВО}
+{605}{}{Вы уверены, что хотите удалить}      # line 1
+{606}{}{текущий персонаж?}                 # line 2
+{607}{}{ успешно сохранен.}
+{608}{}{ успешно загружен.}
+{609}{}{уже существует.}
+{610}{}{Вы хотите переписать?}
+{611}{}{Ошибка при сохранении}
+{612}{}{Ошибка при загрузке}
+{613}{}{Неверный файл персонажа.}
+{614}{}{Неверные данные о персонаже.}
+{615}{}{Ошибка при чтении списка файлов!}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
+{618}{}{BLANK.GCD}
+#
+#
+# ASCII text file printing text
+#
+{620}{}{ФАЛЛАУТ}                   # Title line 1
+{621}{}{КАРТОТЕКА ПЕРСОНАЛА УБЕЖИЩА 13} # Title line 2
+{622}{}{час.} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: Статистика :::}
+{624}{}{       Сила:}
+{625}{}{        Здоровье:}
+{626}{}{        Реакция:}
+# -
+{627}{}{     Восприятие:}
+{628}{}{       Класс брони:}
+{629}{}{        Скорость восст.:}
+# -
+{630}{}{      Выносливость:}
+{631}{}{     Очки действия:}
+{632}{}{      Шанс критич. удара:}
+# -
+{633}{}{       Привлекательность:}
+{634}{}{      Урон хол. оружием:}
+{635}{}{         Макс. вес груза:}
+# -
+{636}{}{   Интеллект:}
+{637}{}{       Сопр. урону:}
+# -
+{638}{}{        Ловкость:}
+{639}{}{    Сопр. рад.:}
+# -
+{640}{}{           Удача:}
+{641}{}{       Сопр. ядам:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Имя:}
+{643}{}{Возраст:}
+{644}{}{               Пол:}
+{645}{}{Мужчина}
+{646}{}{Женщина}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{ Уровень:}
+{648}{}{                Опыт:}
+{649}{}{След. ур.:}
+#-
+{650}{}{ ::: Особенности :::           ::: Способности :::           ::: Карма :::}
+#-
+{651}{}{ ::: Навыки :::                ::: Убито :::}
+#-
+{652}{}{ ::: Снаряжение :::}
+#-
+{653}{}{                                Общ. вес:}
+#
+#
+# Karma name strings
+#
+{1000}{}{Репутация (общая) }
+{1001}{}{Берсерк}
+{1002}{}{Чемпион }
+{1003}{}{Child-Killer}
+#
+{1004}{}{Nuka-Cola Addiction}
+{1005}{}{Привыкание к баффауту}
+{1006}{}{Привыкание к ментату}
+{1007}{}{Привыкание к психо}
+{1008}{}{Привыкание к антирадину}
+{1009}{}{Привыкание к алкоголю}
+#
+# Karma description strings
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
+{1103}{}{Вы убивали детей, цветы на развалинах мира. Такие поступки вообще-то не приветствуются. Вы плохой, плохой человек.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{У вас пристрастие к Психо. Если вы не будете постоянно принимать этот наркотик, вам станет плохо. Если будете, станет плохо другим.}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
+{1109}{}{У вас проблема с алкоголем. То есть - много проблем из-за постоянного пьянства.}
+{1110}{}{ВРЕМЕННО - Что это?}
+#
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
+#
+{5000}{}{Простите, распечатать персонаж}   # 1
+{5001}{}{можно только в полной версии.}   # 2
+{5002}{}{Простите, сохранить  персонаж}    # 1
+{5003}{}{можно только в полной версии.}   # 2
+{5004}{}{Простите, загрузить персонаж} # 1
+{5005}{}{можно только в полной версии.}   # 2
+{5006}{}{РЕЖИМ С КОДАМИ}
+{5007}{}{Недоступен в демо-версии.}
+#

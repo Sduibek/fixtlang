@@ -1,0 +1,57 @@
+# The following dialog lines were pulled from these files, which are now blank:
+# DEMODOG
+# DOG2
+# DOGMEAT
+# JUNKDOG
+###############################################################################
+#
+# DEMODOG.MSG
+#
+{100}{}{Вы видите собаку. Кажется, она бежит за вами.}
+{101}{}{Вы видите собаку.}
+{102}{}{Гав!}
+{103}{}{Гррр!}
+{104}{}{Кажется, вы приручили эту собаку.}
+{105}{}{You earn 200 experience for befriending the dog.}
+{106}{}{Вы получаете 335 ед. опыта за то, что помогли Филу войти в дом.}
+#
+# DOG2.MSG
+#
+{107}{}{Иди к мне.}
+{108}{}{Гав! Гав!}
+{109}{}{Кажется, вы понравились этой собаке.}
+#
+# DOGMEAT.MSG
+#
+{110}{}{Вы видите собаку.}
+{111}{}{Гав! Гав-гав! Гав! Гав!}
+{112}{}{[она обнюхивает вас] Гр-р-р! Гав!}
+{113}{}{[она обнюхивает вас] Ваф!}
+#
+# JUNKDOG.MSG
+#
+{114}{}{Вы получили 100 очков опыта за то, что помогли Филу разгадать собачью загадку.}
+{115}{}{Собака считает вас хозяином.}
+{116}{}{You earn 35 experience for helping Phil solve his canine conundrum.}
+{117}{}{Гав-гав!}
+{118}{}{Пошли, дружище.}
+{119}{}{Stay here and wait, okay?}
+{120}{}{Хороший пес.}
+{121}{}{Puppie!!!}
+{122}{}{Woof?}
+{123}{}{Arf?}
+#
+# for Fallout Fixt:
+#
+#
+# for Stupid characters (INT <= 3)
+{300}{}{Doggie!! doggie be frend?}
+{301}{}{doggie Stay! no move!}
+{304}{}{Good doggie!}
+#
+#Normal INT
+{302}{}{Move aside, buddy. Good boy.}
+#
+# space is intentional
+{303}{}{ Stupid mutt!}
+

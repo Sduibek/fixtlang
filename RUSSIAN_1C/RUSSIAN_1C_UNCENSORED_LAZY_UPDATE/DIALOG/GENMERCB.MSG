@@ -1,0 +1,15 @@
+{101}{}{Нет. Может, в другой раз.}
+{102}{}{На помощь! Помогите!}
+{103}{}{Тебе не будет прощения! Умри!}
+{104}{}{Пощади! Не убивай!}
+{105}{}{Разве они все уже мертвы? По-моему, нет!}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{106}{}{Отлично, ты вовремя. Возьми это в знак благодарности.}
+{107}{}{Отлично, ты вовремя. Возьми это в знак благодарности.}
