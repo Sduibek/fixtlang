@@ -1,0 +1,75 @@
+{100}{}{Widzisz Regulatora, jednego ze stra¿ników Adytum.}
+{101}{}{}
+{102}{}{Nie wyci¹gaj broni, jak tutaj przebywasz.}
+{103}{}{Witaj w Adytum. Pilnuj siê; bêdziemy ciê obserwowaæ.}
+{104}{}{Chcê wejœæ.}
+{105}{}{Mogê ci zadaæ kilka pytaæ?}
+{106}{}{Hmm...}
+{107}{}{Mo¿e przydasz siê Zimmermanowi. WejdŸ, ale pamiêtaj, ¿e mamy ciê na oku.}
+{108}{}{Witaj z powrotem! Zawsze mi³o ciê widzieæ.}
+{109}{}{Nie masz przypadkiem roboty do wykonania? Wróæ jak ju¿ j¹ wykonasz.}
+{110}{}{OdejdŸ!}
+{111}{}{Co chcesz wiedzieæ?}
+{112}{}{Chcê wejœæ.}
+{113}{}{}
+{114}{}{Nic. Niewa¿ne.}
+{115}{}{}
+{116}{}{Nie.}
+{117}{}{Co chcesz wiedzieæ?}
+{118}{}{Co tu robisz?}
+{119}{}{Mo¿esz mi coœ opowiedzieæ o Gruzach?}
+{120}{}{Jak mo¿na siê dostaæ do œrodka?}
+{121}{}{Co wiesz o Dzieciach Katedry i Uczniach Apokalipsy?}
+{122}{}{Nic, dziêki.}
+{123}{}{Jestem Regulatorem. Utrzymujemy w Adytum porz¹dek i chronimy miasto. Nasz szef, Caleb, mo¿e ci powiedzieæ coœ wiêcej.}
+{124}{}{Uczniowie mieszkaj¹ na wschód od nas. Maj¹ œwira na punkcie pokoju. Na wschód s¹ Ostrza, uwa¿am, ¿e to banda partaczy. Daleko na po³udnie st¹d znajduje siê Katedra - religijne centrum Dzieci.}
+{125}{}{Przykro mi, ale musimy tutaj uwa¿aæ na obcych. Jest zbyt niebezpiecznie. Mo¿e Zimmerman bêdzie mia³ dla ciebie jak¹œ robotê.}
+{126}{}{Dokoñcz robotê.}
+{127}{}{Zawsze mi³o ciê widzieæ!}
+{128}{}{Jedni i drudzy to œwiry. Uczniowie chc¹, ¿eby wszyscy ¿yli w pokoju i byli szczêœliwi. Nie wpadli na pomys³, ¿e ¿ycie jest na to za ciê¿kie.}
+# "on the level" means legit, following all the rules, being legal/ethical/transparent
+{129}{}{Dzieci czcz¹ jakiegoœ boga w swojej Katedrze, daleko na po³udniu. Prowadz¹ te¿ szpital, ale zachowuj¹ siê zbyt dziwnie, ¿eby mieæ uczciwe intencje.}
+{130}{}{Ostrzegaliœmy, ¿e tu nie wolno siê obnosiæ z broni¹.}
+{131}{}{Jeœli chcesz tu przebywaæ, to lepiej schowaj broñ.}
+{132}{}{Z³odziej, co? Poka¿ê ci jak tu takich traktujemy!}
+{133}{}{[Zrobione]}
+
+{134}{}{Pilnuj siê.}
+{135}{}{Mamy na ciebie oko.}
+{136}{}{Nie wychylaj siê.}
+{137}{}{Na co siê gapisz?}
+{138}{}{Czego chcesz?}
+
+{139}{}{To chyba oznacza koniec naszej wspó³pracy, starcze.}
+
+{1000}{}{Adytum}
+{1001}{}{Uczniowie}
+{1002}{}{Katedra}
+{1004}{}{Ostrza}
+{1005}{}{Handlarze broni¹}
+{1006}{}{Hub}
+{1007}{}{Z³omowo}
+{1008}{}{Procesor}
+{1009}{}{Sklep}
+{1010}{}{Zimmerman}
+{1011}{}{Nekropolis}
+{1012}{}{Blask}
+{1013}{}{Regulatorzy}
+{1014}{}{Szabrownicy}
+{1015}{}{Gruzy}
+
+{1100}{}{To tutaj.}
+{1101}{}{Mieszkaj¹ na wschód od nas.}
+{1102}{}{To kawa³ek drogi na po³udnie od nas.}
+{1104}{}{Mo¿na ich znaleŸæ na pó³noc od nas.}
+{1105}{}{S¹ na wschód od Ostrzy i na pó³noc od Szponów Œmierci.}
+{1106}{}{Handlujemy z nimi.}
+{1107}{}{Czy na pó³noc st¹d nie ma przypadkiem miasta?}
+{1108}{}{Co takiego?}
+{1109}{}{W pobli¿u bramy, pod ziemi¹, jest sklep.}
+{1110}{}{On jest burmistrzem.}
+{1111}{}{To podobno na wschodzie.}
+{1112}{}{To tylko legenda.}
+{1113}{}{Chronimy Adytum.}
+{1114}{}{Czasem wychodz¹ po ró¿ne rzeczy.}
+{1115}{}{This is L.A. Boneyard.}

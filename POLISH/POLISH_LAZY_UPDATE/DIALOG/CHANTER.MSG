@@ -1,0 +1,23 @@
+{100}{}{To kantor Dzieci Katedry.}
+{101}{}{Mistrz odpuœci ci twe grzechy! Przy³¹cz siê do nas i ¿yj w swobodzie! Chwalmy Mistrza i jego mi³osierdzie!}
+{102}{}{Witaj! Wizja Mistrza po raz pierwszy uczyni³a mnie prawdziwie ¿ywym cz³owiekiem. Czy mogê podzieliæ siê z tob¹ moj¹ cudown¹ histori¹?}
+{103}{}{Gdzie mogê spotkaæ tego Mistrza?}
+{104}{}{Œmia³o.}
+{105}{}{Kto tu rz¹dzi?}
+{106}{}{Wizja Mistrza? Czy to lepsze od soku z radskorpiona?}
+{107}{}{Czy koñczy siê œmierci¹? Jeœli nie, mogê to zmieniæ!}
+{108}{}{Ja lubiaæ histerja!}
+{109}{}{W górê Mistrz spogl¹da! W dole Mistrz zasiada! Wnet Pokój i Jednoœæ to wszystkich zasada!}
+{110}{}{By³ kiedyœ cz³owiek tak pe³en nienawiœci, ¿e niemal umar³. Lecz teraz... Chwalmy Mistrza! Chwalmy Œwiêty P³omieñ! Chwalmy Winiarniê ¯ycia! Juhuu!}
+{111}{}{Ty rz¹dzisz, lecz Mistrz jest twym przewodnikiem. Chwalmy Mistrza! Chwalmy Œwiêty P³omieñ, który oœwietla nasz¹ drogê!}
+{112}{}{Wizja Mistrza jest o wiele lepsza ni¿ jakikolwiek napój albo nawet seks! Oooch! On wykracza zarówno poza grzech, jak i cnotê! Aaaach! Mistrz jest zarazem ojcem i kochankiem dla nas wszystkich!}
+{113}{}{¯adna historia nie koñczy siê œmierci¹, dopóki jest tu Mistrz, by nas chroniæ!}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{114}{}{Lecz muszê chwaliæ Mistrza! ¯egnaj, mój przyjacielu! Historiê opowiem ci póŸniej!}
+{115}{}{Lecz muszê chwaliæ Mistrza! ¯egnaj, ma przyjació³ko! Historiê opowiem ci póŸniej!}

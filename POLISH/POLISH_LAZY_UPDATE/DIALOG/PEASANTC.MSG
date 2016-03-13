@@ -1,0 +1,27 @@
+{100}{}{Wynoœ siê st¹d!}
+{101}{}{Ludzie mówi¹ o tobie wiele z³ych rzeczy; to prawda?}
+{102}{}{Czeœæ.}
+{103}{}{To moje miejsce, chcesz tu trochê posiedzieæ?}
+{104}{}{Hmm, wygl¹dasz na okaz zdrowia...}
+{105}{}{Mam nadziejê, ¿e nie chcesz mnie st¹d wyrzuciæ.}
+{106}{}{Nie.}
+{107}{}{Dziwny sposób na rozpoczêcie rozmowy.}
+{108}{}{Hnnn.}
+{109}{}{No có¿, jak chcesz siê tu na chwilê zatrzymaæ, to nie ma sprawy. Wydaje mi siê, ¿e bêdziemy tutaj bezpieczni.}
+{110}{}{Teraz nasta³y takie czasy, ¿e trzeba siê pilnowaæ. Mam nadziejê, ¿e masz lepsze ¿ycie ni¿ ja.}
+{111}{}{To prawda. Po tym, co spotka³o moich przyjació³ muszê broniæ swojego dobytku. Mam tylko nadziejê, ¿e nie zamierzasz mnie zabiæ.}
+{112}{}{Nie, nie zrobiê ci krzywdy. Powa¿nej.}
+{113}{}{Dlaczego tak mówisz?}
+{114}{}{Gack!}
+{115}{}{Bez powodu. Naprawdê.}
+# Translation note:
+# Line 116 has one of lines 117-120 appended to it, depending upon circumstances.
+{116}{}{Ci "pomocni" medycy chcieli zaj¹æ miejsce mojego przyjaciela, wiêc siê tam wprowadzili. Nie wiem co siê z nim sta³o.}
+{117}{}{ A Killian jest zbyt zajêty, ¿eby mi pomóc.}
+{118}{}{ Killian jest zajêty sprz¹taniem po Gizmo, ¿eby mi pomóc.}
+{119}{}{ Gizmo mnie wyœmia³, kiedy poprosi³em go o pomoc.}
+{120}{}{ Nikt mi tu nie pomo¿e.}
+{121}{}{Wszystko w porz¹dku?}
+{122}{}{Szkoda.}
+{123}{}{Mam tak¹ nadziejê, naprawdê.}
+{124}{}{Proszê, zostaw mnie w spokoju!}

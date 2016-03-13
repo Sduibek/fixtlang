@@ -1,0 +1,116 @@
+{100}{}{Na framudze tej grodzi ochronnej znajduj¹ siê resztki czerwonej farby.}
+{101}{}{Wskutek kontaktu z polem si³owym grodzi doznajesz ³agodnego pora¿enia pr¹dem i tracisz jeden punkt wytrzyma³oœci.}
+{102}{}{Wskutek kontaktu z polem si³owym grodzi doznajesz powa¿nego pora¿enia pr¹dem. Tracisz }
+{103}{}{ PW.}
+{104}{}{Otwierasz gródŸ na si³ê.}
+{105}{}{Zamek jest zamkniêty.}
+{106}{}{Upowa¿nienie potwierdzone. Nastêpuje dezaktywacja pola si³owego.}
+{107}{}{Nie posiadasz upowa¿nienia do wejœcia.}
+{108}{}{Ten przedmiot jest bezu¿yteczny wobec systemów zabezpieczaj¹cych.}
+{109}{}{Otwierasz zamek grodzi ochronnej.}
+{110}{}{Tê gródŸ okazuje siê byæ wyposa¿ona w jakieœ systemy zabezpieczaj¹ce.}
+{111}{}{Nie udaje ci siê otworzyæ zamka.}
+{112}{}{Ta umiejêtnoœæ jest tu bezu¿yteczna.}
+
+{113}{}{Wy³¹czasz elektryczny system zabezpieczaj¹cy.}
+{114}{}{Zwiêkszasz moc pola si³owego.}
+{115}{}{Nie udaje ci siê wy³¹czyæ pola si³owego.}
+{116}{}{Otwierasz zamek nie naruszaj¹c systemu zabezpieczaj¹cego.}
+{117}{}{Nie udaje ci siê otworzyæ zamka, a system zabezpieczaj¹cy powa¿nie razi ciê pr¹dem.}
+{118}{}{Nie udaje ci siê otworzyæ zamka, a system zabezpieczaj¹cy pora¿a ciê pr¹dem.}
+{119}{}{System zabezpieczaj¹cy pora¿a ciê pr¹dem, przez co tracisz koncentracjê na otwieraniu zamka.}
+{120}{}{System zabezpieczaj¹cy powa¿nie razi ciê pr¹dem, przez co tracisz koncentracjê na otwieraniu zamka.}
+{121}{}{Nie udaje ci siê otworzyæ zamka, za to niszczysz twoje wytrychy.}
+{122}{}{Nie udaje ci siê otworzyæ zamka.}
+{123}{}{To mocna, choæ pordzewia³a gródŸ.}
+
+{124}{}{To gródŸ oznaczona ¿ó³t¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{125}{}{To gródŸ oznaczona ¿ó³t¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{126}{}{To gródŸ wyposa¿ona w obecnie otwarty zamek, przed któr¹ unosi siê dr¿¹ce, ¿ó³te pole.}
+{127}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy oraz obecnie otwarty zamek.}
+{128}{}{To gródŸ oznaczona ¿ó³t¹ farb¹.}
+{129}{}{To gródŸ oznaczona ¿ó³t¹ farb¹.}
+{130}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, ¿ó³te pole.}
+{131}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy.}
+{132}{}{To gródŸ oznaczona ¿ó³t¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{133}{}{To gródŸ oznaczona ¿ó³t¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{134}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek, przed któr¹ unosi siê dr¿¹ce, ¿ó³te pole.}
+{135}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy.}
+{136}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na ¿ó³to gródŸ potrzebna jest specjalna karta dostêpowa.}
+{137}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na ¿ó³to gródŸ potrzebna jest specjalna karta dostêpowa.}
+{138}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz przed ni¹ migocz¹ce, ¿ó³te pole.}
+{139}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna, ¿ó³ta karta dostêpowa. Ponadto dostrzegasz na niej wysokonapiêciowy system zabezpieczaj¹cy.}
+
+{140}{}{To gródŸ wyposa¿ona w obecnie otwarty zamek.}
+{141}{}{To gródŸ wyposa¿ona w obecnie otwarty zamek.}
+{142}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce pole, wyposa¿ona w obecnie otwarty zamek.}
+{143}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy oraz obecnie otwarty zamek.}
+{144}{}{To gródŸ.}
+{145}{}{To gródŸ.}
+{146}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce pole.}
+{147}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy.}
+{148}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek.}
+{149}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek.}
+{150}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek, przed któr¹ unosi siê dr¿¹ce pole.}
+{151}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek oraz wysokonapiêciowy system zabezpieczaj¹cy.}
+{152}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa.}
+{153}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa.}
+{154}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz przed ni¹ migocz¹ce pole.}
+{155}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz na niej wysokonapiêciowy system zabezpieczaj¹cy.}
+
+{156}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{157}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{158}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole, wyposa¿ona w obecnie otwarty zamek.}
+{159}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy oraz obecnie otwarty zamek.}
+{160}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{161}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{162}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{163}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy.}
+{164}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{165}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{166}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{167}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek oraz wysokonapiêciowy system zabezpieczaj¹cy.}
+{168}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na czerwono gródŸ potrzebna jest specjalna karta dostêpowa.}
+{169}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na czerwono gródŸ potrzebna jest specjalna karta dostêpowa.}
+{170}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz przed ni¹ migocz¹ce, czerwone pole.}
+{171}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz na niej wysokonapiêciowy system zabezpieczaj¹cy.}
+
+{172}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{173}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie otwarty zamek.}
+{174}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole, wyposa¿ona w obecnie otwarty zamek.}
+{175}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy oraz obecnie otwarty zamek.}
+{176}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{177}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{178}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{179}{}{To gródŸ wyposa¿ona w wysokonapiêciowy system zabezpieczaj¹cy.}
+{180}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{181}{}{To gródŸ oznaczona czerwon¹ farb¹, wyposa¿ona w obecnie zamkniêty zamek.}
+{182}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{183}{}{To gródŸ wyposa¿ona w obecnie zamkniêty zamek oraz wysokonapiêciowy system zabezpieczaj¹cy.}
+{184}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na czerwono gródŸ potrzebna jest specjalna karta dostêpowa.}
+{185}{}{Do otwarcie zamka blokuj¹cego tê oznaczon¹ na czerwono gródŸ potrzebna jest specjalna karta dostêpowa.}
+{186}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna karta dostêpowa. Ponadto dostrzegasz przed ni¹ migocz¹ce, czerwone pole.}
+{187}{}{Do otwarcie zamka blokuj¹cego tê gródŸ potrzebna jest specjalna, czerwona karta dostêpowa. Ponadto dostrzegasz na niej wysokonapiêciowy system zabezpieczaj¹cy.}
+
+{188}{}{To gródŸ oznaczona ¿ó³t¹ farb¹.}
+{189}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, ¿ó³te pole.}
+{190}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na ¿ó³to gródŸ.}
+{191}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na ¿ó³to gródŸ. Zastanawiasz siê, czy istnieje wy³¹czaj¹ca go karta dostêpowa.}
+
+{192}{}{To gródŸ.}
+{193}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce pole.}
+{194}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy gródŸ.}
+{195}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy gródŸ. Zastanawiasz siê, czy istnieje wy³¹czaj¹ca go karta dostêpowa.}
+
+{196}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{197}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{198}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na czerwono gródŸ.}
+{199}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na czerwono gródŸ. Zastanawiasz siê, czy istnieje wy³¹czaj¹ca go karta dostêpowa.}
+
+{200}{}{To gródŸ oznaczona czerwon¹ farb¹.}
+{201}{}{To gródŸ, przed któr¹ unosi siê dr¿¹ce, czerwone pole.}
+{202}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na czerwono gródŸ.}
+{203}{}{Widzisz wysokonapiêciowy system zabezpieczaj¹cy tê oznaczon¹ na czerwono gródŸ. Zastanawiasz siê, czy istnieje wy³¹czaj¹ca go karta dostêpowa.}
+
+{204}{}{Zauwa¿asz pu³apkê umieszczon¹ na grodzi.}
+{205}{}{Ta winda jest nieczynna. Wygl¹da na to, ¿e potrzebuje zasilania.}

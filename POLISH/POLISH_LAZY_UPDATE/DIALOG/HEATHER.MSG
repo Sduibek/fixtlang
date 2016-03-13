@@ -1,0 +1,159 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+
+{100}{}{To Heather ze zwiadu Uczniów Apokalipsy.}
+{101}{}{Co tu robisz?}
+{102}{}{Tooo!}
+# moronic line for This
+
+{103}{}{Czyyœæ.}
+# moronic line for "Goodbye".
+
+{104}{}{Tylko siê rozgl¹dam.}
+{105}{}{Jestem tu, ¿eby ciê zabiæ!}
+{106}{}{Ciekawi mnie tylko, co siê tutaj dzieje.}
+{107}{}{Naprawdê? A za czym to mo¿esz siê rozgl¹daæ?}
+{108}{}{S¹dzê, ¿e w³aœnie za tob¹.}
+{109}{}{Szukam szpiega.}
+{110}{}{Za niczym szczególnym. Po prostu siê rozgl¹dam.}
+{111}{}{Po prostu szukam informacji.}
+{112}{}{Mi³o mi, ale ja siê ju¿ z kimœ umawiam. Myœlê, ¿e nadesz³a dla ciebie pora, ¿eby st¹d odejœæ.}
+# "I am already spoken for" == "i am already dating someone else"
+
+{113}{}{Tak, ten szpieg. S³ysza³am o tym k³opotliwym szkodniku. Naprawdê bym chcia³a, ¿ebyœmy go z³apali.}
+# Spy is considered male
+
+{114}{}{Stale s³yszê, ¿e to kobieta-szpieg.}
+# Spy is considered female
+
+{115}{}{Czy wiesz coœ o tym szpiegu?}
+# spy is considered male
+
+{116}{}{To ty jesteœ szpiegiem!}
+# spy is considered female
+
+{117}{}{¯yczê ci szczêœcia. Przepraszam za zawracanie ci g³owy.}
+{118}{}{Za³o¿ê siê, ¿e to ten samochwa³ Neil tak nagada³. Bêdê musia³a z nim potem porozmawiaæ.}
+# Neil is male
+
+{119}{}{Myœlisz, ¿e Neil to szpieg?}
+# spy is male. Neil is male.
+
+{120}{}{Kto wiêc jest wed³ug ciebie szpiegiem?}
+# spy is male
+
+{121}{}{Zachowujesz siê nieco defensywnie. Co jest tego przyczyn¹?}
+{122}{}{Jestem tego prawie pewna. Potrzebujê tylko jakiegoœ dowodu.}
+{123}{}{Zdobêdê ci dowód.}
+{124}{}{On wydaje siê byæ mi³ym cz³owiekiem. No, nie wiem.}
+{125}{}{Dlaczego uwa¿asz, ¿e to on?}
+{126}{}{Dziêkujê ci. Nie zdajesz sobie nawet sprawy, jak wiele to dla mnie znaczy. Gdy ju¿ zdobêdziesz dowód, zabij go.}
+{127}{}{Czego tu mo¿na nie wiedzieæ? Ma dostêp do Dzieci. Pracuje w nocy, kiedy wiêkszoœæ œpi. To musi byæ on.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in their way or acts against their wishes. They are really bad people.
+# consider Male.
+
+{128}{}{OK, sprawdzê to.}
+{129}{}{Daruj sobie. S¹dzê, ¿e próbujesz skierowaæ mnie na fa³szywy trop!}
+{130}{}{Naprawdê przykro mi, ¿e tak myœlisz. Nie mogê dopuœciæ, ¿eby ktoœ uwa¿a³ mnie za szpiega. Muszê ciê usun¹æ.}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+
+{131}{}{W nocy ma dostêp do Dzieci. Nikt go nigdy nie widuje na s³u¿bie. To musi byæ on.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{132}{}{OK, sprawdzê to.}
+{133}{}{Daruj sobie. S¹dzê, ¿e próbujesz skierowaæ mnie na fa³szywy trop!}
+{134}{}{Nie mam pewnoœci, co do tego, kim on jest. Przypuszczam, ¿e to mo¿e byæ albo stra¿nik, albo uczony. Oni ci¹gle zakradaj¹ siê w nocy do Katedry Dzieci.}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{135}{}{Przychodz¹ ci na myœl jeszcze jakieœ poszlaki?}
+# == is there any other information that you can think of?
+
+{136}{}{Ale, z tego co wiem, tylko zwiadowcy dokonuj¹ wypadów na Dzieci.}
+# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{137}{}{OK. Dziêkujê ci za pomoc.}
+{138}{}{Nie za bardzo. Myœlê tylko, ¿e to mê¿czyzna, i prawdopodobnie uczony albo stra¿nik.}
+# is is refering to a male spy. Scholar and guard are male.
+
+{139}{}{OK. Dziêkujê ci za pomoc.}
+{140}{}{Zgadza siê. My, zwiadowcy, robimy du¿o rajdów na Dzieci, ostatnio ze sporymi stratami. Ten szpieg nas drogo kosztuje.}
+# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{141}{}{Wygl¹dasz na autentycznie tym zrozpaczon¹. Poszukam tego szpiega i go zabijê.}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+
+{142}{}{Czy szpiegiem mo¿e byæ zwiadowca?}
+# spy and scout == male
+
+{143}{}{Dziêkujê ci za pomoc.}
+{144}{}{Czemu ktoœ z nas mia³by to robiæ?}
+#us referres to the scouts
+
+{145}{}{Jak wybije siê zwiadowców, to powstrzyma siê rajdy.}
+{146}{}{Nie wiem. Czemu mia³abyœ to robiæ?}
+{147}{}{Nie wiem. Tylko siê zastanawiam.}
+{148}{}{Wygl¹da to na dobr¹ myœl. Zauwa¿y³am, ¿e Peter nigdy nie jest za bardzo atakowany podczas naszych wypadów. Myœlê, ¿e to mo¿e byæ on.}
+# Peter is male. She thinks that Peter may be the male spy.
+
+{149}{}{OK, sprawdzê to.}
+{150}{}{Daruj sobie. S¹dzê, ¿e próbujesz skierowaæ mnie na fa³szywy trop!}
+{151}{}{Myœlisz, ¿e to ja?}
+# it referring to the female spy.
+
+{152}{}{Przepraszam. Jestem po prostu trochê nerwusem.}
+# under a bit of stress.
+
+{153}{}{Tak! Teraz umrzesz!}
+{154}{}{To zastanawiaj siê gdzieœ indziej. Muszê wróciæ do roboty.}
+# then think about it somewhere else
+
+{155}{}{Myœlê, ¿e on myœli, ¿e to ja jestem szpiegiem. Ale nie jestem.}
+# spy is female
+
+{156}{}{Mo¿e to on ma racjê.}
+{157}{}{Czemu mia³by tak myœleæ?}
+{158}{}{Poniewa¿ jestem t¹ now¹. Jestem tu dopiero od z grubsza roku, a problemy zaczê³y siê oko³o piêciu miesiêcy temu.}
+# scout is female
+
+{159}{}{S¹dzê, ¿e Neil mo¿e mieæ racjê.}
+# Neil is male. right == correct.
+
+{160}{}{Uwa¿am, ¿e Neil mo¿e byæ tym szpiegiem. Pójdê to sprawdziæ.}
+# spy is male.
+
+{161}{}{Wiêc rozgl¹daj siê gdzieœ indziej. To nie miejsce dla ciebie.}
+{162}{}{Je¿eli potrzebujesz informacji, zwróæ siê do Nicole. Ona uwa¿a, ¿e wie wszystko.}
+# Nicole is female. said in a snotty manner.
+
+{163}{}{Mo¿esz mnie przekonaæ, ¿ebym powiedzia³a ci o czymœ, co siê dzieje. Za op³at¹.}
+{164}{}{Ile?}
+{165}{}{Sprzeda³abyœ sekrety?}
+{166}{}{Zapomnij o tym. Nie mam pieniêdzy.}
+{167}{}{Trzysta kapsli, i informacja jest twoja.}
+{168}{}{Jasne.}
+{169}{}{Mowy nie ma.}
+{170}{}{Bêdzie wypad na po³udniowy kraniec warowni Dzieci. IdŸ ju¿.}
+{171}{}{Próbujesz mnie oszukaæ? Ja ci poka¿ê!}
+{172}{}{Przykro mi, ¿e tak to odbierasz. Ale ¿yczê ci dobrego dnia.}
+{173}{}{Muszê z czegoœ ¿yæ. To chcesz informacji, czy nie?}
+# do you want me to give you the information?
+
+{174}{}{Jasne.}
+{175}{}{Mowy nie ma.}
+{176}{}{Nic. Teraz odejdŸ.}
+{177}{}{Daj mi spokój. Próbujê trochê odpocz¹æ.}

@@ -1,0 +1,56 @@
+{100}{}{To Abel.}
+{101}{}{To du¿y mutant.}
+{102}{}{Ty nie powinna tu byæ.}
+{103}{}{Hng.}
+{104}{}{Oczywiœcie, ¿e nie. Jestem tu, by ciê zabiæ!}
+{105}{}{Czemu ty tak mówiæ?}
+{106}{}{Taaa? Prêdzej twoja mamuœka!}
+{107}{}{Pik!}
+{108}{}{Ja skopaæ ci dupê, jak ty jeszcze raz tak powiedzieæ!}
+{109}{}{Pik! Pik!}
+{110}{}{O, ty tera oberwaæ!}
+{111}{}{Ty cz³owiek. Ja mutant. Mutant zabijaæ cz³owiek.}
+{112}{}{Jak tego dokonasz? Co z polem si³owym?}
+{113}{}{Abel zaj¹æ siê tym. Potem Abel skopaæ ci dupê!}
+{114}{}{Dzieci nie móc tu byæ. To miejsce mutantów. Ty odejœæ.}
+{115}{}{Hng!}
+{116}{}{Muszê przedostaæ siê przez to pole si³owe. Proszê, wy³¹cz je.}
+{117}{}{Nie.}
+{118}{}{Znowu ty. Abel skopaæ ci dupê!}
+#
+# Tell Me About name
+#
+# Duplicates are needed due to how engine processes the Tell-Me-Abouts.  -Sduibek
+{970}{}{Ja Abel.}
+{971}{}{Me Abel.}
+{972}{}{Me Abel.}
+{973}{}{Me Abel.}
+{974}{}{Me Abel.}
+{975}{}{Me Abel.}
+{976}{}{Me Abel.}
+{977}{}{Me Abel.}
+{978}{}{Me Abel.}
+{979}{}{Me Abel.}
+#
+# Tell Me About, "don't know what that is"
+#
+{980}{}{Hng.}
+{981}{}{Czemu ty o to pytaæ?}
+{982}{}{Pik!}
+{983}{}{Ung... wuh?}
+{984}{}{Hmm?}
+{985}{}{What you say?}
+{986}{}{What, hmm?}
+{987}{}{Uh... me not know.}
+{988}{}{Me not know.}
+{989}{}{What that?}
+{990}{}{}
+{991}{}{}
+{992}{}{}
+{993}{}{}
+{994}{}{}
+{995}{}{}
+{996}{}{}
+{997}{}{}
+{998}{}{}
+{999}{}{}

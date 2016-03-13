@@ -1,0 +1,31 @@
+# Coast1  3 to 5 floaters or bloody floaters
+{100}{}{Widzisz wiele dziwnych, p³ywaj¹cych stworzeñ...}
+#
+# Coast2  4 to 7 manti or great manti
+{111}{}{You are suddenly attacked by a swarm of mutated manti!}
+#
+# Coast3  8 to 12 rats
+{101}{}{A swarm of rats is rapidly approaching!}
+#
+# Coast4  3 to 4 raiders, 3 to 5 peasants
+{102}{}{Widzisz grupkê wieœniaków, zaatakowanych przez bandytów!}
+#
+# Coast5  4 to 6 manti
+# msg 111
+#
+# Coast6  fishermen
+{103}{}{You see a few people out fishing.}
+#
+# Coast7  free items
+{104}{}{There is a grisly corpse nearby that's been partially eaten. You've just lost your appetite.}
+#
+
+#
+# NOT USED (from vanilla)
+#
+{105}{}{Zauwa¿asz kilka sadzawek...}
+{106}{}{Czuj¹c straszliwe pragnienie wypijasz trochê wody... Nie smakuje ci.}
+{107}{}{Woda wydaje siê byæ bardzo napromieniowana i ska¿ona.}
+{108}{}{Aaach...}
+{109}{}{Arrgg..}
+{110}{}{Pfe!}

@@ -1,0 +1,119 @@
+{100}{}{To Jain}
+{101}{JAIN00}{Czemu zak³ócasz spokój Starszej Katedry?}
+{102}{}{Pragnê uzyskaæ b³ogos³awieñstwo.}
+{103}{}{Interesuje mnie twój koœció³, i chcê uzyskaæ o nim trochê informacji. Czy masz jakieœ broszurki?}
+{104}{}{Tylko siê rozgl¹dam.}
+{105}{}{Mama?}
+{106}{JAIN01}{Bynajmniej nie jestem twoj¹ matk¹.}
+{107}{}{Ni-i?}
+{108}{}{Kupka!}
+{109}{JAIN02}{Jak œmiesz zwracaæ siê do mnie w taki sposób! Za twoj¹ bezczelnoœæ spotka ciê kara! Stra¿!}
+{110}{JAIN03}{Byæ mo¿e któryœ z naszych kap³anów omówi z tob¹ kwestiê potrzebnej ci edukacji. Teraz odejdŸ.}
+{111}{JAIN04}{Dzieciê, czy znane ci s¹ sakramenty?}
+{112}{}{Tak.}
+{113}{}{Nie.}
+{114}{JAIN05}{Musisz zatem wiedzieæ, ¿e Starsi Katedry nie "rozdaj¹" po prostu b³ogos³awieñstw. Teraz masz st¹d odejœæ.}
+{115}{JAIN07}{Drwij ze mnie nadal, a naka¿ê ciê st¹d wyrzuciæ.}
+{116}{}{Ale¿ ja z ciebie nie drwiê, naprawdê.}
+{117}{}{Drwiæ z ciebie? Czemu niby mam coœ takiego robiæ?!}
+{118}{}{To oczywiste, ¿e grzecznoœæ i dobre usposobienie nie s¹ elementem twojej religii.}
+{119}{}{Wybacz, myœlê, ¿e ju¿ sobie pójdê.}
+{120}{JAIN08}{Zap³acisz za te heretyckie s³owa.}
+{121}{JAIN09}{Twe s³owa nie odpowiadaj¹ twoim przekonaniom. P³on¹ ogniem wewnêtrznej herezji. Czeka ciê oczyszczenie, a potem zapomnienie.}
+{122}{JAIN10}{Czemu wiêc jesteœ tutaj? Co ciê sprowadza do Dzieci Katedry?}
+{123}{}{Jestem poszukiwaczem wiedzy. Pragnê siê uczyæ.}
+{124}{}{Muszê wiedzieæ, jak spaliæ ten budynek, wiêc szukam s³abych punktów jego struktury.}
+{125}{}{Tylko siê rozgl¹dam.}
+{126}{JAIN11}{Czy jesteœ Dzieciêciem?}
+{127}{}{Paniusiu, czy ja wygl¹dam a¿ tak m³odo?}
+{128}{}{Czy jestem jednym z Dzieci Katedry? Nie.}
+{129}{}{Jestem ¿arliwym wyznawc¹.}
+{130}{JAIN12}{Musisz zatem wiedzieæ, ¿e twoje miejsce nie jest tutaj. Radzê ci zwróciæ uwagê na twoje maniery. OdejdŸ.}
+{131}{}{Okay.}
+{132}{}{Poca³uj mnie w dupê.}
+{133}{JAIN13}{Czy interesuje ciê nawrócenie na nasz¹ wiarê? Mo¿emy ci zaoferowaæ to, czego nie da ci nikt inny...}
+{134}{}{A co mianowicie?}
+{135}{}{Nie, nie interesuje mnie to. Uwa¿am was za bandê dziwaków.}
+{136}{JAIN14}{¯ywot pe³en zadowolenia. Spe³nienie dziêki œwiadomoœci, ¿e pracuje siê na rzecz przebudowy naszej planety i uczynienia jej lepszym miejscem dla wierz¹cych.}
+{137}{}{Brzmi to bardzo ciekawie; czy mo¿esz mi powiedzieæ coœ wiêcej? Poszukujê spe³nienia.}
+{138}{}{O, ta, za³o¿ê siê, ¿e zachodzi masa przebudowywania, i mam pewnoœæ, ¿e twoje miseczki przepe³nia spe³nienie.}
+{139}{}{Nie s¹dzê. Coœ mi tu odrobinê œmierdzi.}
+{140}{JAIN15}{Wierz w co chcesz. Rób to tylko gdzieœ indziej. Mo¿esz odejœæ.}
+{141}{JAIN17}{Drwiny z naszej œwiêtej sprawy nie s¹ mile widziane. Spotka ciê kara, jeœli bêdziesz tak dalej postêpowaæ.}
+{142}{}{A kto j¹ wykona? Ooch, jeœli mo¿na, to proszê o supertwardy bicz.}
+{143}{}{Przepraszam.}
+{144}{JAIN18}{Gdy Dzieci bêd¹ st¹paæ po odrodzonej Ziemi, twój rodzaj sczeŸnie, heretyku. Teraz odejdŸ.}
+{145}{JAIN19}{Nie jestem ca³kowicie pozbawiona poczucia humoru, lecz przewodzenie Dzieciom jest czymœ, co traktujê powa¿nie. Pamiêtaj o tym, proszê.}
+{146}{}{Przepraszam, pierwszy raz stykam siê z Dzieæmi.}
+{147}{}{Okay. Bye.}
+{148}{JAIN20}{Jesteœ we w³aœciwym miejscu, by osi¹gn¹æ duchowe spe³nienie. Dzieci Katedry zabiegaj¹ o pokojowe rozwi¹zanie problemów naszego œwiata, i przyda³aby siê nam twoja pomoc.}
+{149}{}{Jakie plany maj¹ Dzieci odnoœnie mutantów?}
+{150}{}{W jaki sposób Dzieci mog¹ przynieœæ pokój temu Pustkowiu?}
+{151}{JAIN21}{Ci, których mo¿na bêdzie sprowadziæ do naszej owczarni, znajd¹ siê w niej. Ci, którzy bêd¹ siê opieraæ, bêd¹ cierpieæ.}
+{152}{}{Wygl¹da to na ciê¿k¹ robotê.}
+{153}{}{Nadszed³ w³aœnie czas, ¿ebyœ trochê pocierpia³a.}
+{154}{}{Tak w³aœnie powinno byæ. Oby powiod³a siê wasza krucjata!}
+{155}{}{Ee, muszê lecieæ.}
+{156}{JAIN22}{Dziêki wytrwa³oœci, Dzieci mog¹ dokonaæ wszystkiego. Nie doznamy niepowodzenia.}
+{157}{}{To dobrze. Mam tak¹ nadziejê.}
+{158}{}{Ta, akurat. Jak tam sobie chcecie.}
+{159}{}{OK. Czeœæ.}
+{160}{JAIN26}{BluŸnierco! To Œwiêty Dom! Jak mo¿esz myœleæ o czymœ takim?}
+{161}{}{Spokojnie, to by³ tylko ¿art!}
+{162}{}{To proste. Pozwól, ¿e ci zademonstrujê.}
+{163}{JAIN27}{Niech ciê b³ogos³awi Œwiêty P³omieñ, moje Dziecko.}
+{164}{}{Kim jest Œwiêty P³omieñ?}
+{165}{}{Wciskacie tu kit.}
+{166}{}{I ciebie, Kap³anko Jain. ¯egnaj.}
+{167}{}{Ug pyk du ryk?}
+{168}{}{UuuuK!}
+{169}{JAIN28}{Raz dano ci szansê. Teraz nie jesteœ tu osob¹ mile widzian¹.}
+{170}{JAIN29}{Nie jesteœ tu osob¹ mile widzian¹. Proszê odejœæ.}
+{171}{JAIN30}{Co ciê tu sprowadza?}
+{172}{}{Mistrz zgin¹³ z mojej rêki; uwa¿am, ¿e to on udawa³ Œwiêty P³omieñ.}
+{173}{}{Jesteœ ju¿ wolna od terroru Mistrza.}
+{174}{}{Mu tuk du tab?}
+{175}{}{Nózki.}
+{176}{JAIN31}{Czego jesteœ przyczyn¹? Zap³acisz za twój grzech przeciw samemu Œwiêtemu P³omieniowi.}
+{177}{JAIN32}{O kim mówisz?}
+{178}{}{O Mistrzu. Zamierza³ zjednoczyæ mutantów i opanowaæ œwiat.}
+{179}{}{Nie przejmuj siê tym.}
+{180}{JAIN33}{Wydajesz siê cierpieæ na urojenia. Radzê ci zwróciæ siê do psychologa o pomoc w rozwi¹zaniu twoich problemów.}
+{181}{JAIN204}{Kaza³am ci odejœæ. Masz problemy ze s³uchem czy umys³em?}
+{182}{JAIN200}{Natychmiast opuœæ ten pokój, albo sprawiê, ¿e oczyœci ciê Œwiêty P³omieñ.}
+{183}{JAIN202}{Nikt nie jest wiêkszy ni¿ Œwiêty P³omieñ, a my jesteœmy Jego s³ugami.}
+{184}{}{Naprawdê? Super. No, to z jakiego powodu ktoœ mo¿e chcieæ wst¹piæ do waszego zakonu?}
+{185}{}{Ee, OK. Czeœæ.}
+{186}{JAIN27}{Niech ciê b³ogos³awi Œwiêty P³omieñ, moje Dziecko.}
+{187}{JAIN22}{Dziêki wytrwa³oœci, Dzieci mog¹ dokonaæ wszystkiego. Nie doznamy niepowodzenia.}
+{188}{JAIN201}{To nie jest stosowne pytanie.}
+
+#Tell Me Abouts
+
+{1000}{}{Wojna}
+{1001}{}{Mistrz}
+{1002}{}{Katedry}
+{1003}{}{mutanci}
+{1004}{}{Hub}
+{1005}{}{Stali}
+{1006}{}{Kadzie}
+{1007}{}{œwiêty}
+{1008}{}{Jednoœæ}
+{1009}{}{Bractwo}
+{1010}{}{P³omieñ}
+{1011}{}{Dzieci}
+
+
+{1100}{JAIN300}{By³o to oczyszczenie naszej planety. Beztroska tych, którzy ¿yli wczeœniej, wywo³a³a Œwiête Ognie. Sprawiedliwoœci sta³o siê zadoœæ.}
+{1101}{JAIN301}{Nie ma Mistrza poza Œwiêtym P³omieniem. On jest naszym Mistrzem, On jest Mistrzem wszechrzeczy.}
+{1102}{JAIN302}{Wola Œwiêtego niesie odrodzenie naszej planecie. Jesteœmy Jego Dzieæmi i wcielamy w ¿ycie Jego plan.}
+{1103}{JAIN303}{S¹ œwiêci, gdy¿ nosz¹ stygmaty przesz³ych grzechów na przestrogê obecnie ¿yj¹cych.}
+{1104}{JAIN304}{Jak wiele innych miast, przyjmie moralne przewodnictwo Katedry.}
+{1105}{JAIN305}{Twierdz¹, ¿e maj¹ religijne podwaliny, lecz brakuje im tego, co uczyni³oby ich autentycznie prawymi. Ich ¿arliwoœæ jest jednak krzepi¹ca.}
+{1106}{JAIN306}{Nigdy nie s³ysza³am o czymœ takim.}
+{1107}{JAIN308}{Najœwiêtszy ze Œwiêtych. On jest przewodnim œwiat³em, za którym pod¹¿amy. On oczyœci niewiernych, gdy osi¹gniêty zostanie Splot Odrodzenia.}
+{1108}{JAIN309}{To zjednoczenie, za spraw¹ Œwiêtego P³omienia, wszystkich ludzi, wszystkich ras, i oczyszczenie tego œwiata z pogan.}
+{1109}{JAIN305}{Twierdz¹, ¿e maj¹ religijne podwaliny, lecz brakuje im tego, co uczyni³oby ich autentycznie prawymi. Ich ¿arliwoœæ jest jednak krzepi¹ca.}
+{1110}{JAIN308}{Najœwiêtszy ze Œwiêtych. On jest przewodnim œwiat³em, za którym pod¹¿amy. On oczyœci niewiernych, gdy osi¹gniêty zostanie Splot Odrodzenia.}
+{1111}{JAIN302}{Wola Œwiêtego niesie odrodzenie naszej planecie. Jesteœmy Jego Dzieæmi i wcielamy w ¿ycie Jego plan.}
+

@@ -1,0 +1,69 @@
+{100}{}{Widzisz Brata Thomasa.}
+{101}{}{Dobrze, dzieci. Dziœ zajmiemy siê sztuk¹ walki.}
+{102}{}{W walce na krótki dystans wybór techniki nale¿y uzale¿niæ od wielkoœci, zasiêgu i szybkoœci przeciwnika.}
+{103}{}{Gdy bêdziecie mieli tak¹ mo¿liwoœæ, sprawdŸcie go.}
+{104}{}{Nie spieszcie siê z atakiem.}
+{105}{}{Dobra, ma³y - spróbuj skrzywdziæ s³abego starucha.}
+{106}{}{Ach!}
+{107}{}{Uch.}
+{108}{}{Na razie to wszystko, powtórzmy.}
+{109}{}{Widzicie, jak straci³ równowagê?}
+{110}{}{Zbyt mocne wychylenie wystawia was na kontratak.}
+{111}{}{Gdy atakujecie, nigdy nie wychylajcie siê zbyt mocno.}
+{112}{}{Dlaczego tak niedobrze jest zbyt mocno siê wychylaæ?}
+{113}{}{Gdy ma siê mo¿liwoœæ zabicia kogoœ, czy nie powinno siê jej wykorzystaæ?}
+{114}{}{To powa¿ne ryzyko.}
+{115}{}{Zbytnie wychylenie wystawia wasz brzuch na kontratak i powoduje utratê równowagi.}
+{116}{}{Wystarczy lekkie pchniêcie, abyœcie wyl¹dowali na ty³ku.}
+{117}{}{Mo¿e jeszcze któryœ gnojek ma ochotê spróbowaæ siê z dziadziusiem?}
+{118}{}{Zobaczmy, czego siê nauczyliœcie z poprzedniego przyk³adu.}
+{119}{}{NieŸle, prawie mnie trafi³eœ.}
+{120}{}{Na pewno chcesz zostaæ Skryb¹?}
+{121}{}{Szkoda bêdzie zmarnowaæ taki talent.}
+{122}{}{Bêdziemy ciê trzymaæ w rezerwie. Dobra?}
+{123}{}{Tylko ciê nabieram.}
+{124}{}{Po prostu mo¿e ponownie rozwa¿ysz wst¹pienie do Rycerzy.}
+{125}{}{Tylko to przemyœl.}
+{126}{}{Dziêkujê, Bracie Thomasie.}
+{127}{}{Mam nadziejê, ¿e wszyscy zauwa¿yli, ¿e Bratu Anthony'emu uda³o siê zbytnio nie wychyliæ.}
+{128}{}{Próbowa³ równie¿ wykorzystaæ przeciwko mnie moj¹ wagê i posturê.}
+{129}{}{Walka wrêcz ma swoje dobre i z³e strony.}
+{130}{}{Poznacie wiele ró¿nych stylów, aby lepiej zrozumieæ ich wady i zalety.}
+{131}{}{Dobra. Dawaj, co masz najlepszego.}
+{132}{}{Bardzo dobrze. Wytrzyma³eœ znacznie d³u¿ej, ni¿ s¹dzi³em.}
+{133}{}{Mo¿esz wróciæ do szeregu.}
+{134}{}{Mam nadziejê, ¿e zauwa¿yliœcie, co siê dzia³o.}
+{135}{}{To urodzony wojownik.}
+{136}{}{Mo¿e jeszcze raz?}
+{137}{}{Patrzcie uwa¿nie...}
+{138}{}{Pamiêtajcie - zawsze walcie tak, jakbyœcie mieli siê przebiæ przez cel.}
+{139}{}{Zachowujcie siê tak, jakby sta³ on kilkanaœcie centymetrów dalej, ni¿ naprawdê.}
+{140}{}{Khm, Bracie Thomasie?}
+{141}{}{S³ucham, mój ty kawa³ku gliny.}
+{142}{}{Czy nie powinniœmy tak samo robiæ z kopaniem?}
+{143}{}{Ale¿ oczywiœcie.}
+{144}{}{Bardzo dobrze. Chyba pozwolimy ci ¿yæ.}
+{145}{}{Tylko ¿artowa³em, uœmiechaj siê od czasu do czasu.}
+{146}{}{To nie walka na œmieræ i ¿ycie.}
+{147}{}{Tego bêdziecie mieæ mnóstwo póŸniej.}
+{200}{}{NieŸle.}
+{201}{}{To by³o dobre.}
+{202}{}{Szybko siê uczysz.}
+{203}{}{Koncentracja!}
+{204}{}{Patrz mi w oczy.}
+{205}{}{Nie wychylaj siê za mocno.}
+{206}{}{Nigdy nie spuszczaj oczu z przeciwnika.}
+{207}{}{Popracuj nad blokowaniem.}
+{208}{}{Trzymaj siê nisko na nogach.}
+{209}{}{Doskonale!}
+{210}{}{Idealna forma.}
+{211}{}{Jestem pod wra¿eniem.}
+
+{300}{}{You earn 500 experience from watching the combat training. You feel like you've learned a few things!}
+
+#
+# new for Fallout Fixt:
+#
+
+{400}{}{Thomas ignores you.}
+

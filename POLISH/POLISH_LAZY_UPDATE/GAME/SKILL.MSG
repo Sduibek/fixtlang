@@ -1,0 +1,135 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#   SKILL NAMES
+#
+{100}{}{Rêczna broñ palna}
+{101}{}{Broñ ciê¿ka}
+{102}{}{Broñ energetyczna}
+{103}{}{Walka wrêcz}
+{104}{}{Broñ bia³a}
+{105}{}{Rzucanie}
+{106}{}{First Aid}
+{107}{}{Leczenie}
+{108}{}{Skradanie siê}
+{109}{}{Otwieranie zamków}
+{110}{}{Kradzie¿}
+{111}{}{Pu³apki}
+{112}{}{Nauki œcis³e}
+{113}{}{Naprawa}
+{114}{}{Retoryka}
+{115}{}{Handel}
+{116}{}{Hazard}
+{117}{}{Sztuka przetrwania}
+
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{U¿ytkowanie, konserwacja i ogólna znajomoœæ rêcznej broni palnej - pistoletów, rewolwerów, pistoletów maszynowych i karabinów.}
+{201}{}{U¿ytkowanie i konserwacja naprawdê du¿ych spluw - wielolufowych karabinów maszynowych, wyrzutni rakiet, miotaczy ognia itp.}
+{202}{}{Konserwacja i ³adowanie broni energetycznych. Wiedza, jak uzbroiæ i pos³u¿yæ siê broni¹ wykorzystuj¹c¹ technologiê laserow¹ b¹dŸ plazmow¹.}
+{203}{}{Suma wschodnich sztuk walki, boksu i innych technik walki bez broni. Zasady prowadzenia boju za pomoc¹ samego cia³a.}
+{204}{}{Zasady pos³ugiwania siê broni¹ bia³¹ - kastetami, no¿ami, m³otami, w³óczniami itd. - w bezpoœrednim starciu.}
+{205}{}{Umiejêtnoœæ pos³ugiwania siê broni¹ miotan¹ - ciskanymi no¿ami, w³óczniami i granatami.}
+{206}{}{Podstawowa umiejêtnoœæ medyczna, wykorzystywana do leczenia skaleczeñ, otaræ i innych pomniejszych dolegliwoœci. Opatrzenie ran jest na krótk¹ metê w stanie zniwelowaæ wiêcej obra¿eñ ni¿ sam odpoczynek.}
+{207}{}{Sztuka uzdrawiania powa¿nych ran i okaleczonych koñczyn. Bez zastosowania umiejêtnoœci leczenia, powrót tych ostatnich do pe³nej sprawnoœci trwa o wiele d³u¿ej.}
+{208}{}{Zdolnoœæ skrytego przemieszczania siê, po³¹czona z bieg³oœci¹ w kamufla¿u. Umiejêtnie zastosowane, powa¿nie utrudni twoje wykrycie. Uwaga, generalnie nie mo¿esz skradaæ siê biegiem.}
+{209}{}{Umiejêtnoœæ otwierania zamków bez w³aœciwego klucza. Pos³ugiwanie siê wytrychami (klasycznymi lub elektronicznymi) bardzo w tym pomaga.}
+{210}{}{Zdolnoœæ czynienia cudzych rzeczy w³asnymi. Okradaæ mo¿na zarówno osoby (najlepiej zakradaj¹c siê od ty³u), jak i miejsca.}
+{211}{}{Umiejêtnoœæ wykrywania i usuwanie pu³apek, jak równie¿ podk³adania ³adunków wybuchowych.}
+{212}{}{Obejmuj¹ wiele zaawansowanych dziedzin, takich jak m.in. informatyka, biologia, fizyka i geologia.}
+{213}{}{Praktyczne zastosowanie znajomoœci nauk œcis³ych. Naprawianie zepsutego wyposa¿enia, maszyn oraz urz¹dzeñ elektronicznych.}
+{214}{}{Sztuka efektywnego komunikowania siê, przekonywania innych do w³asnego zdania, oraz ³gania w sposób wykluczaj¹cy przy³apanie.}
+{215}{}{Umiejêtnoœæ uzyskiwania lepszych cen na sprzedawane i kupowane przedmioty.}
+{216}{}{Teoria i praktyka zak³adów. Umiejêtnoœæ grania w karty, koœci i inne gry hazardowe.}
+{217}{}{Praktyczna znajomoœæ zasad ¿ycia na niezamieszka³ych terenach, umiejêtnoœæ korzystania z darów natury (i materia³ów rozszczepialnych). Wiedza o florze i faunie.}
+
+#
+#   SKILL CALCULATION DESCRIPTIONS
+#
+{300}{}{+ ZR}
+{301}{}{+ ZR}
+{302}{}{+ ZR}
+{303}{}{+ (ZR + SI)/2}
+{304}{}{+ (ZR + SI)/2}
+{305}{}{+ ZR}
+{306}{}{+ (PE + IN)}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ ZR}
+{309}{}{+ (PE + ZR)/2}
+{310}{}{+ ZR}
+{311}{}{+ (PE + ZR)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CH)}
+{315}{}{+ (2 x CH)}
+{316}{}{+ (3 x SZ)}
+{317}{}{+ (WT + IN)/2}
+
+#
+#   SKILL USE MESSAGES
+#
+
+{510}{}{\nskill_use: zastosowano niew³aœciw¹ umiejêtnoœæ.}
+
+#
+# First Aid and Doctor
+#
+{500}{}{Leczysz %d PW.}# "d" is a number
+{501}{}{Ju¿ i tak wygl¹dasz zdrowo.}
+{502}{}{%s ju¿ i tak wygl¹da zdrowo.}# "s" is a critter title/name from SCRNAME.MSG, such as "Hub Police Officer" or "Dogmeat" or "Aradesh"
+{503}{}{You fail to heal anything.}
+{505}{}{You earn %d experience for honing your skills.}# "d" is a number
+
+{512}{}{Nie jesteœ w stanie uzdrowiæ trupa.}
+{513}{}{Pozwól martwym spoczywaæ w spokoju.}
+{514}{}{Nie ¿yje, musisz siê z tym pogodziæ.}
+#
+# Lines 530-534 are the endings to lines 520, 521, 525, 526
+#
+{520}{}{You mend your %s.}
+{521}{}{You mend the %s.}
+{525}{}{You fail to mend your %s.}
+{526}{}{You fail to mend the %s.}
+{530}{}{uszkodzonej ga³ce ocznej}
+{531}{}{okaleczonej lewej rêce}
+{532}{}{okaleczonej prawej rêce}
+{533}{}{okaleczonej prawej nodze}
+{534}{}{okaleczonej lewej nodze}
+
+#
+# After 3 successful uses of a healing skill in one day
+#
+{590}{}{Twoja zdolnoœæ pos³ugiwania siê t¹ umiejêtnoœci¹ zosta³a nadwerê¿ona. Odczekaj chwilê.}
+{591}{}{You're too tired to do that right now.}
+{592}{}{The strain might kill you. Get some rest first.}
+
+#
+# Lockpick
+#
+{550}{}{The lock triumphantly resists your attempt to bypass it.}
+
+#
+# Traps
+#
+{551}{}{You do not find any traps. The object may not be trapped at all.}
+
+#
+# Science
+#
+{552}{}{You tinker and study for a while, but do not discover any useful gadgets or information.}
+
+#
+# Repair
+#
+{553}{}{This cannot be repaired, or is already functioning normally.}
+
+#
+# Steal
+#
+{570}{}{Z³apano ciê na próbie kradzie¿y (%s).}
+{571}{}{£up (%s) niepostrze¿enie staje siê twoj¹ w³asnoœci¹.}
+{572}{}{Z³apano ciê na podk³adaniu ³adunku (%s).}
+{573}{}{Niepostrze¿enie podk³adasz ³adunek (%s).}

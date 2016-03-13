@@ -1,0 +1,133 @@
+#
+# Townmap and Worldmap names, and messages.
+#
+#
+# TOWNMAP:
+#
+#
+# --- Town map selection names ---
+# This is what shows up, on the -TOWN- map, when you hover your mouse over
+# the clickable green triangle icons for the town areas.
+#
+# NOTE: Not used for text on righthand area in savegames, just the townmap hover text!
+#
+#
+# Vault 13
+#
+{200}{}{Cavern, Vault Door}
+{201}{}{Level 1 - Entrance, Medical}
+{202}{}{Level 2 - Living Quarters}
+{203}{}{Level 3 - Library, Command Center}
+#
+# Vault 15
+#
+{210}{}{Shack}
+{211}{}{Cavern Entrance, Medical}
+{212}{}{Level 1 - Living Quarters}
+{213}{}{Level 2 - Command Center}
+#
+# Shady Sands
+#
+{220}{}{Brama}
+{221}{}{Ogród}
+{222}{}{Brahma Pen}
+{223}{}{Radscorpion Caves}
+#
+# Junktown
+#
+{230}{}{Brama}
+{231}{}{Noclegownia}
+{232}{}{Kasyno}
+#
+# Raiders
+#
+{240}{}{Base Camp}
+#
+# Necropolis
+#
+{250}{}{Hotel of Doom}
+{251}{}{Halls of the Dead}
+{252}{}{The Watershed}
+#
+# The Hub
+#
+{260}{}{Brama}
+{261}{}{Œródmieœcie}
+{262}{}{Wzgórza}
+{263}{}{Stare Miasto}
+{264}{}{Kupcy Wodni}
+{265}{}{Jaskinia}
+#
+# Brotherhood of Steel
+#
+{270}{}{Wejœcie - Poziom 0}
+{271}{}{Poziom 1}
+{272}{}{Poziom 2}
+{273}{}{Poziom 3}
+{274}{}{Poziom 4}
+#
+# Military Base
+#
+{280}{}{Wejœcie}
+{281}{}{Warownia - Poziom 1}
+{282}{}{Warownia - Poziom 2}
+{283}{}{Kadzie - Poziom 1}
+{284}{}{Kadzie - Poziom 2}
+#
+# Glow
+#
+{290}{}{Krater}
+{291}{}{Poziom 1}
+{292}{}{Level 2}
+{293}{}{Level 3}
+{294}{}{Level 4}
+{295}{}{Level 5}
+{296}{}{Level 6}
+#
+# L.A. Boneyard
+#
+{300}{}{Adytum}
+{301}{}{Œródmieœcie}
+{302}{}{Biblioteka}
+{303}{}{Forteca}
+{304}{}{Magazyn}
+#
+# Cathedral
+#
+{310}{}{Dziedziniec}
+{311}{}{Kruchta}
+#
+#
+#
+# WORLDMAP:
+#
+#
+# --- Nuked areas ---
+# These are used for when you've blown up the Cathedral and Military Base.
+# Possibly also used if Brotherhood blown up, but that is cut content.
+#
+# Generated automatically by engine, displayed in messagebox:
+#
+{500}{}{You earn 10000 experience!}
+#
+#Used for hover text
+#
+{501}{}{Ruiny}
+#
+#
+# --- Terrain type names for worldmap ---
+# When you hover your mouse over the clickable green triangle icon.
+# NOTE: Not used for text on righthand area in savegames, just the worldmap hover text.
+#
+{1000}{}{Pustynia}
+{1001}{}{Góry}
+{1002}{}{City Ruins}
+{1003}{}{Wybrze¿e}
+#
+#
+# --- Unvisited city/town ---
+# if you've never entered the location before:
+# This is what shows up, on the -WORLD- map, while standing on their green circle,
+# when you hover your mouse over the clickable green triangle icon.
+#
+{1004}{}{?}

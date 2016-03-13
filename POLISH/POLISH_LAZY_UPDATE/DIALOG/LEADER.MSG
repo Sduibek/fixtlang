@@ -1,0 +1,128 @@
+{100}{}{You see a nervous ghoul with an air of authority.}
+{101}{}{Dziêkujê, ¿e nie strzelasz przed zadawaniem pytañ. Czy mogê ci w czymœ pomóc?}
+{102}{}{Tak, szukam wody.}
+{103}{}{Jasne, kim jesteœ?}
+{104}{}{Nie.}
+{105}{}{Aach, jeœli chcesz, mo¿esz tu odpoczywaæ; nie zrobimy ci nic z³ego.}
+{106}{}{Aach.}
+{107}{}{Jestem przywódc¹ prostego ludu, który opuœci³ powierzchniê ze wzglêdu na pozosta³ych.}
+{108}{}{Co was zmusi³o, ¿eby tutaj zejœæ?}
+{109}{}{Jezu, to doœæ g³upie.}
+{110}{}{Hmm. OK. Bywaj.}
+{111}{}{Powierzchnia Nekropolis oraz woda znajduj¹ siê pod w³adz¹ Seta i jego ghuli. My jesteœmy bardziej pokojowo nastawion¹ grup¹, co wzbudza w Secie obrzydzenie.}
+{112}{}{Kim jest Set?}
+{113}{}{No có¿, Set mia³ spotkanie ze mn¹ i ju¿ wiêcej nie bêdzie was nêkaæ.}
+{114}{}{To w jaki sposób udaje siê wam tutaj prze¿yæ bez wody?}
+{115}{}{Có¿, mi na pewno te¿ by nie przypad³a do gustu banda maminsynków. Set wygl¹da mi na porz¹dnego goœcia.}
+{116}{}{Set jest ghulem jak my, lecz zdoby³ pewien zakres w³adzy w œwiecie powierzchniowym. To osio³.}
+{117}{}{Wydaje siê byæ o wiele bardziej interesuj¹cy od was, popaprañców.}
+{118}{}{Czemu pozwala wam tu prze¿yæ?}
+{119}{}{Set o tym nie mówi, ale jednak boi siê, ¿e zabraknie mu ludzi do obrony Nekropolis, je¿eli kiedyœ zajdzie taka koniecznoœæ. Zatem daje nam tyle wody, ile nam trzeba.}
+{120}{}{Sk¹d siê bierze wszystka ta woda?}
+{121}{}{Potrzebujê wody dla mojego ludu! Jeœli wiesz, sk¹d on j¹ bierze, natychmiast mi to powiedz!}
+{122}{}{Szukam hydroprocesora, aby zapewniæ mojemu ludowi potrzebn¹ mu wodê. Czy wiesz, gdzie mogê znaleŸæ coœ takiego?}
+{123}{}{Dziwiê mu siê, ¿e chce waszej zgrai powierzyæ obronê czegoœ wa¿niejszego od papierowej torebki. To o co chodzi z t¹ wod¹?}
+{124}{}{Do niedawna czerpaliœmy nasz¹ wodê z gruntu, za pomoc¹ pompy w Wododziale.}
+{125}{}{Do niedawna? Co siê takiego sta³o, ¿e zmieni³o postaæ rzeczy?}
+{126}{}{Jak siê dostaæ do Wododzia³u?}
+{127}{}{Czym jest Wododzia³?}
+{128}{}{Odk¹d nasza pompa przesta³a dzia³aæ, dostajemy wodê z miejsca pod ziemi¹. Podobno do uzdatniania wody u¿ywany jest hydrokomputer.}
+{129}{}{Dziêki.}
+{130}{}{Gdzie to jest?}
+{131}{}{Wododzia³ znajduje siê na pó³noc st¹d. Mo¿esz tam dotrzeæ kana³ami.}
+{132}{}{Nie myœlisz o zabraniu nam hydroprocesora, prawda?}
+{133}{}{Eee... Ja? Nie, nigdy czegoœ takiego nie zrobiê. Ja tylko popatrzê jak to wszystko dzia³a.}
+{134}{}{Oczywiœcie; mój lud potrzebuje hydroprocesora, by przetrwaæ.}
+{135}{}{Dlaczego?}
+{136}{}{Je¿eli odbierzesz nam hydroprocesor, to wszyscy umrzemy. Skoro nasza pompa jest zepsuta, potrzebujemy go, ¿eby prze¿yæ.}
+{137}{}{Có¿, ty i twój lud naprawdê mnie nie obchodzicie. Potrzebujemy hydroprocesora dla naszego w³asnego przetrwania. ¯egnaj.}
+{138}{}{Czy to mo¿liwe, ¿eby wasz¹ pompê da³o siê naprawiæ?}
+{139}{}{W takim razie nie mogê ci pozwoliæ odejœæ st¹d ¿ywcem.}
+{140}{}{Chyba ci nie wierzê.}
+{141}{}{Przepraszam, nie by³o moim zamiarem ciê oszukaæ. Co jest z³ego w zabraniu hydroprocesora?}
+{142}{}{Có¿, tak naprawdê mnie to nie obchodzi. Je¿eli mi nie zejdziesz z drogi, to po prostu samodzielnie ciê usunê.}
+{143}{}{To mo¿e byæ trudne. Czêœci potrzebne do naprawy pompy zaginê³y w kana³ach pod Wododzia³em.}
+{144}{}{Czemu to takie trudne?}
+{145}{}{Czy masz na myœli te czêœci? [Demonstrujesz przywódcy ghuli znalezione przez ciebie czêœci.]}
+{146}{}{Tamtejsze kana³y s¹ pe³ne potworów, i ¿aden z moich ludzi, wys³anych przeze mnie, ¿eby odzyskaæ te czêœci, nie powróci³. Czy chcesz siê po nie wyprawiæ, ¿eby mo¿na by³o naprawiæ pompê wodn¹?}
+{147}{}{Wygl¹da na to, ¿e by³oby z tym zbyt wiele zachodu; myœlê, ¿e po prostu wezmê tylko hydroprocesor.}
+{148}{}{Tak.}
+{149}{}{Skoro wasza zgraja jest zbyt nieudolna, ¿eby to zrobiæ we w³asnym zakresie, to chyba muszê wam pomóc.}
+{150}{}{Dziêkujê ci. Kiedy zdobêdziesz czêœci, wróæ tutaj. Mo¿liwe, ¿e bêdê w stanie udzieliæ ci dalszej pomocy.}
+{151}{}{OK, no to bêdê siê ju¿ zbieraæ.}
+{152}{}{Czy uda³o ci siê ju¿ znaleŸæ czêœci do pompy wodnej?}
+{153}{}{Jeszcze nie.}
+{154}{}{Nie. I zamierzam zapomnieæ o ca³ej tej sprawie.}
+{155}{}{Gdzie to ja mam ich szukaæ?}
+{156}{}{Có¿, ¿yczê ci zatem powodzenia.}
+{157}{}{Jesteœ z powrotem. Czy masz czêœci potrzebne do naprawy pompy wodnej?}
+{158}{}{Tak, tu s¹.}
+{159}{}{Ta, ale zamierzam zapomnieæ o reperowaniu pompy.}
+{160}{}{Có¿, wygl¹da na to, ¿e mo¿esz potrzebowaæ trochê pomocy z tymi czêœciami. Masz tu parê ksi¹¿ek, które znaleŸliœmy rozrzucone po okolicy. Mog¹ ci pomóc. Proszê, weŸ teraz czêœæ do Wododzia³u i napraw pompê.}
+{161}{}{Niestety nie bêdê w stanie ci wiêcej pomóc. Powodzenia z pomp¹ wodn¹. Proszê, zanieœ czêœci do Wododzia³u i napraw j¹.}
+{162}{}{Czy uda³o ci siê ju¿ zreperowaæ pompê wodn¹?}
+{163}{}{Nie, jeszcze nie, ale ci¹gle nad tym pracujê.}
+{164}{}{Nie, i nie mam tego teraz w planach.}
+{165}{}{Tak, to te czêœci, o których mówi³em. Dziêkowaæ przep³ywowi, ¿e ju¿ je masz.}
+{166}{}{Czy muszê jeszcze o czymœ wiedzieæ?}
+{167}{}{Có¿, bli¿ej pompy wodnej ju¿ siê nie znajd¹.}
+{168}{}{Jak ci ju¿ mówi³em, mo¿na je znaleŸæ w kana³ach pod Wododzia³em. IdŸ st¹d najpierw na wschód, a potem na pó³noc. W tamtym kierunku napotkasz Wododzia³.}
+{169}{}{Dziêki za wskazówki. ¯egnaj.}
+{170}{}{Có¿, dziêkujê ci za tê przys³ugê. Czy chcesz jeszcze o czymœ wiedzieæ?}
+{171}{}{W jaki sposób udaje siê wam tutaj prze¿yæ bez wody?}
+{172}{}{To tam jest przechowywana i wydawana nam ca³a woda.}
+{173}{}{Gdzie to siê mieœci?}
+{174}{}{Ostatnio dosz³y mnie s³uchy, ¿e ktoœ przej¹³ kontrolê nad Wododzia³em. Jednak¿e z jakiegoœ powodu nasze racje s¹ nam nadal wydzielane.}
+{175}{}{Jak siê dostaæ do Wododzia³u?}
+{176}{}{Czym jest Wododzia³?}
+{177}{}{Dziêkujê ci za naprawienie pompy wodnej, i mam nadziejê, ¿e wszystko bêdzie dobrze z twoim ludem, gdy powrócisz z tym, co uda³o ci siê znaleŸæ.}
+{178}{}{Dziêkujê ci za pomoc. ¯egnaj.}
+{179}{}{Uda³o ci siê zreperowaæ pompê wodn¹, i przep³yw powróci³ z g³êbi. Widzê jednak, ¿e jeszcze nie masz tego, czego szukasz.}
+{180}{}{Tak, jakoœ nie mogê zlokalizowaæ miejsca, w którym jest hydroprocesor.}
+{181}{}{Podobno znajduje siê on g³êboko pod Wododzia³em. ¯yczê ci szczêœcia w poszukiwaniach.}
+{182}{}{Widzê, ¿e masz ju¿ to, co by³o celem twojej wizyty tutaj. Zdajesz sobie sprawê, ¿e umrzemy, jeœli zabierzesz nam hydroprocesor?}
+{183}{}{Tak, ale ci¹gle pracujê nad napraw¹ pompy wodnej. Mówi³eœ, ¿e gdzie to mogê znaleŸæ te czêœci?}
+{184}{}{Potrzebujê tego procesora, i nie mam czasu, ¿eby siê zajmowaæ waszymi problemami.}
+{185}{}{Jakie mam inne wyjœcie?}
+{186}{}{Mam doœæ wys³uchiwania twoich pogardliwych uwag. Nie ¿yczê sobie z tob¹ ju¿ wiêcej rozmawiaæ.}
+{187}{}{Kiedyœ mieliœmy w Wododziale pompê, która zasysa³a przep³yw z g³êbi. Uleg³a jednak uszkodzeniu, a czêœci potrzebne do jej naprawy zaginê³y w kana³ach bezpoœrednio pod Wododzia³em.}
+{189}{}{Dlaczego sami nie odzyskaliœcie tych czêœci?}
+{190}{}{Nie musisz siê nas obawiaæ!}
+{191}{}{Porozmawiam z tob¹, nim odejdziesz.}
+{192}{}{Jedyna mo¿liwoœæ, jak¹ mi pozostawiasz, to powstrzymaæ ciê w³asnorêcznie.}
+{193}{}{Wait, don't shoot!}
+{194}{}{Nie musisz siê nas obawiaæ!}
+{195}{}{Porozmawiam z tob¹, nim odejdziesz.}
+{196}{}{Jedyna mo¿liwoœæ, jak¹ mi pozostawiasz, to powstrzymaæ ciê w³asnorêcznie.}
+{200}{}{Trudno.}
+{201}{}{Czy tej pompy wodnej nie mo¿na naprawiæ?}
+{202}{}{Przykro mi, lecz mój lud potrzebuje tego procesora, by przetrwaæ.}
+{203}{}{Proszê, nie zabieraj naszego procesora. Bez niego pomrzemy.}
+{204}{}{Niewykluczone, ale czêœci zaginê³y w kana³ach pod Wododzia³em. Przy wszystkich potworach, które tam s¹, nie jesteœmy w stanie ich odzyskaæ.}
+{205}{}{Szkoda; ¿a³ujê, ¿e nie mogê pomóc.}
+{206}{}{Znajdê te czêœci.}
+#
+#  by Sduibek for Fallout Fixt:
+#
+{300}{}{You see: Undergrounder Leader.}
+
+
+############ Tell Me Abouts
+
+{1000}{}{Set}
+{1001}{}{Mistrz}
+{1002}{}{hydroprocesor}
+{1003}{}{Wododzia³}
+{1004}{}{Aula}
+{1005}{}{Nekropolis}
+{1006}{}{procesor}
+
+{1100}{}{Próbuje rz¹dziæ Nekropolis, i zmusi³ nas do zejœcia pod ziemiê.}
+{1101}{}{Ma coœ wspólnego z mutantami. Nie wiem wiele wiêcej.}
+{1102}{}{Dostajemy nasz¹ wodê z miejsca le¿¹cego pod Wododzia³em. Mo¿e ono mieæ z nim coœ wspólnego.}
+{1103}{}{Zepsuta pompa wodna jest w³aœnie tam. Tak¿e tam mutanci wydaj¹ wodê ze swojego nowego Ÿród³a.}
+{1104}{}{To tak zwany pa³ac Seta.}
+{1105}{}{Miasto Umar³ych, gdzie chcielibyœmy spokojnie ¿yæ, je¿eli Set i mutanci nam na to pozwol¹.}
+{1106}{}{Dostajemy nasz¹ wodê z miejsca le¿¹cego pod Wododzia³em. Mo¿e ono mieæ z nim coœ wspólnego.}
+
+

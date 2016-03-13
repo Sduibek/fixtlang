@@ -1,0 +1,109 @@
+{100}{}{To Dan.}
+{101}{}{Pomocy!}
+# Appends line 103 or 104 or 105 depending on character's age and gender.
+{102}{}{O, czeœæ, szanowny przybyszu, witaj w Hubie. Pozwól, ¿e siê przedstawiem, zw¹ mnie Dan "Cz³owiek od braminów"! Prowadzê stale interesy ze wszystkimi tutejszymi kupcami, oferuj¹c moje skromne us³ugi za naprawdê niziutk¹ cenê. Co zatem mogê zrobiæ dla ciebie...}
+{103}{}{m³ody cz³owieku?}
+{104}{}{ziomku?}
+{105}{}{moja paniusiu?}
+{106}{}{Chcê siê przy³¹czyæ do karawany.}
+{107}{}{Ee, jakie konkretnie us³ugi oferujesz?}
+{108}{}{Czemu, do ciê¿kiej cholery, wydzierasz siê na tego biednego dzieciaka?!}
+{109}{}{Urg.}
+{110}{}{O, zajmujem siê konserwacjom prawie wszystkich wozów karawanowych i braminów w tych stronach. Gdy tylko ktoœ potrzebuje czegokolwiek do swojej karawany, rozmawia w³aœnie ze mn¹. Do diab³a, jestem wy³¹cznym dostawc¹ ca³ej Wielkiej Trójki.}
+{111}{}{Co to za Wielka Trójka?}
+{112}{}{Rany, ale jesteœ wa¿ny.}
+{113}{}{Doprawdy? To mi³o. Chcê siê przy³¹czyæ do karawany.}
+{114}{}{Có¿, muszê ju¿ iœæ. Czeœæ.}
+{115}{}{Co? Wypierdzielaj st¹d, ty cholerny ³achu! Myœleæ, ¿e bêdem marnowa³ mój czas na tak¹ szumowinem, jak ty.}
+{118}{}{Chyba pierdzielisz, synu. Ca³e ¿ycie siedzia³eœ zamknienty w jaskini, czy co? Wielka Trójka to trzy najwienksze grupy kupieckie na œwiecie. No, OK, mo¿e nie na œwiecie, ale to pewne jak diabli, ¿e swoim zasiengiem pokrywaj¹ du¿¹ jego czêœæ; gdzieœ tak dok¹d mo¿na siengn¹æ wzrokiem.}
+{119}{}{Chyba pierdzielisz, z³otko. Ca³e ¿ycie siedzia³aœ zamknienta w jaskini, czy co? Wielka Trójka to trzy najwienksze grupy kupieckie na œwiecie. No, OK, mo¿e nie na œwiecie, ale to pewne jak diabli, ¿e swoim zasiengiem pokrywaj¹ du¿¹ jego czêœæ; gdzieœ tak dok¹d mo¿na siengn¹æ wzrokiem.}
+{120}{}{Sam siê pierdziel, braminowy popaprañcu.}
+{121}{}{Ach, oni. Zdawa³o mi siê, ¿e mówisz o czymœ innym. To jak mo¿na siê przy³¹czyæ do karawany?}
+{122}{}{OK, dziêki. Bywaj.}
+{123}{}{Braminowy popapraniec? Czy to ma byæ próba obra¿enia mnie? Na twoim miejscu, przybyszu, by³bym trochem grzeczniejszy dla napotykanych ludzi. W zasadzie guzik mnie obchodzisz, ale to miasto jest pe³ne wszelkiej maœci zabijaków, którzy bez wahania poder¿nom ci gard³o, jak krzywo na nich spojrzysz.}
+{124}{}{Ja pierdzielê, jesteœ paskudnym skurwysynem!}
+{125}{}{Ju¿ siê bojê. To na razie.}
+{126}{}{Popaprany, nie. Fartowny, tak; a jeœli ty nie chcesz mieæ pecha, to zachowuj siê trochem grzeczniej wobec napotykanych ludzi. W zasadzie guzik mnie obchodzisz, ale to miasto jest pe³ne wszelkiej maœci zabijaków, którzy bez wahania poder¿nom ci gard³o, jak krzywo na nich spojrzysz.}
+{127}{}{Ja pierdzielê, jesteœ paskudnym skurwysynem!}
+{128}{}{Skoro tak mówisz.}
+{129}{}{No, przynajmniej ja nie mam zmutowanego zadu zamiast gêby. Twoja matka musia³a byæ braminem, a twój tatko szczurem; to jedyny sposób, ¿eby urodziæ siê tak cholernie paskudnym, jak ty. Do diab³a, nawet ja jestem od ciebie mniej paskudny!}
+{130}{}{Nikt nie bêdzie tak gadaæ o mojej matce! Przygotuj siê na œmieræ!}
+{131}{}{Ta, nieŸle. Có¿, mam miejsca do odwiedzenia i ludzi do pobicia. Na razie, Dan.}
+{132}{}{Ta, w porz¹dku, to niez³y tekst, ale ju¿ ka¿dy go u¿ywa. ¯artujesz, prawda? Przecie¿ nie podniesiesz renki na biednego staruszka Dana.}
+{133}{}{Tekst? Rêki? Chcia³byœ. Podniosê o wiele wiêcej, ni¿ rêkê, na twoje wkrótce martwe œcierwo.}
+{134}{}{Ha! Zacz¹³eœ przeze mnie robiæ w gacie, co?}
+{135}{}{Ta, mo¿e odrobinem. Nie jest z ciebie szczególnie z³y dzieciak. Ale naprawdê pamiêtaj, ¿eby trzymaæ tê twoj¹ gêbem pod kontrol¹. Nie chcia³bym zobaczyæ, jak dobra gêba idzie do piachu.}
+{136}{}{Jasne, cokolwiek sobie ¿yczysz. Na razie, Dan.}
+{137}{}{No, to jak mo¿na siê przy³¹czyæ do karawany?}
+{138}{}{¯egnaj. I trzymaj siê z dala od moich braminów, ty zboczony skurwielu.}
+{139}{}{¯egnaj. I trzymaj siê z dala od moich braminów, ty zboczona dziwko.}
+{141}{}{Stra¿! Policja! Jakiœ œwir próbuje mnie zabiæ!}
+{142}{}{Có¿, nie mam ¿adnych wolnych etatów, ale mo¿esz sprawdziæ u Wielkiej Trójki. Na Targu jest tablica z og³oszeniami, która mo¿e byæ ci pomocna. W³aœnie przez ni¹ oni, i pozostali, werbuj¹ facetów do pracy.}
+{143}{}{O, przepraszam... i oczywiœcie kobiety.}
+{144}{}{Nie masz ¿adnych wolnych etatów? To ty te¿ jesteœ kupcem?}
+{145}{}{Którêdy na Targ?}
+{146}{}{OK, dziêki.}
+{147}{}{No nie, niezupe³nie. Wspó³pracujem jednak bardzo blisko z wienkszoœci¹ mniejszych grup kupieckich i wiem, ¿e teraz nikogo nie zatrudniamy.}
+{148}{}{Twoja strata.}
+{149}{}{OK, jeszcze siê zobaczymy, Dan.}
+{150}{}{To gdzie jest ten Targ?}
+{151}{}{PójdŸ tylko prosto t¹ drog¹. To samiuteñki œrodek Hubu - nie sposób go przegapiæ.}
+{152}{}{To nie twoja sprawa, przybyszu.}
+{153}{}{Zrobiê z tego moj¹ sprawê, "przybyszu"!}
+{154}{}{Przepraszam, nie bêdê siê narzucaæ.}
+{155}{}{O, witaj ponownie! Jak sobie radzisz?}
+{156}{}{Chcê siê przy³¹czyæ do karawany.}
+{157}{}{Ee, jakie konkretnie us³ugi oferujesz?}
+{158}{}{Czemu, do ciê¿kiej cholery, wydzierasz siê na tego biednego dzieciaka?!}
+{159}{}{Œwietnie. Czeœæ.}
+{160}{}{B³e.}
+{161}{}{Co znowu?}
+{162}{}{Czemu, do ciê¿kiej cholery, wydzierasz siê na tego biednego dzieciaka?!}
+{163}{}{Nic.}
+{164}{}{B³e.}
+{168}{}{S³uchaj, ten dzieciak by³ przy³apany na kradzie¿y. Policja odda³a mi go pod opiekê, ¿eby go naprostowaæ.}
+{169}{}{To nie powód, ¿eby byæ dla niego pod³ym.}
+{170}{}{Co jest nie tak z kradzie¿¹?}
+{171}{}{A, to inna sprawa! ZajdŸ mu za skórê!}
+{172}{}{Masz problem z g³ow¹? To prosty sposób, ¿eby zgniæ w celi albo zostaæ wygnanym bez ¿ywnoœci, ubrania ani broni.}
+{173}{}{To nadal nie usprawiedliwia sposobu, w jaki go traktujesz!}
+{174}{}{A, OK.}
+{175}{}{Mo¿e nie jestem najlepszym wzorem do naœladowania w tym cholernym mieœcie, ale tylko ja siê nim przejmujem i chcem spróbowaæ mu pomóc. Co ty wiesz o ulepszaniu spo³eczeñstwa?}
+{176}{}{Du¿o zabijam!}
+{177}{}{Przepraszam, moja ocena ciebie by³a niew³aœciwa.}
+{178}{}{Trzeba by³o po prostu zabiæ tego szczyla!}
+{179}{}{Có¿, mo¿e móg³byœ byæ dla niego trochê milszy. On siê chyba naprawdê stara.}
+{180}{}{Powinieneœ daæ mu solidny wycisk!}
+{181}{}{Myœlisz, ¿e zabijanie ludzi rozwionzuje problemy?}
+{182}{}{Dok³adnie!}
+{183}{}{Dla mnie do tej pory to dzia³a!}
+{184}{}{Hmmm, mo¿e nie.}
+{185}{}{Nie wiem.}
+{186}{}{Rozczarowujesz mnie. Zdawa³o mi siê, ¿e masz na karku dobrom ³epetynem. Zabijaniem mo¿na tymczasowo pozbyæ siê problemu, ale ¿eby nastompi³a prawdziwa zmiana, trzeba siê nim zajoñæ u Ÿród³a.}
+{187}{}{Ta, jak tam sobie chcesz.}
+{188}{}{Ee, OK. Czeœæ.}
+{189}{}{Jesteœ idiot¹.}
+{190}{}{Có¿ [Dan przerywa, spogl¹daj¹c w dal.]... mo¿e masz racjê. Bêdem o tem pamienta³, ale niczego ci nie obiecujem.}
+{191}{}{¯artujesz sobie? To by tylko uczyni³o go bardziej hardym! Moje sposoby mo¿e nie som doskona³e, ale przynajmniej wiem, ¿e dzienki nim stanie siê silniejszy i bardziej odpowiedzialny.}
+{192}{}{A gówno. Zabicie chorego nie jest najlepszym wyjœciem. Trzeba znaleŸæ lekarstwo, bo choroba znowu siê pojawi.}
+{193}{}{Bez jaj, Einsteinie.}
+{194}{}{Przestañ trajkotaæ! G³owa mnie od tego rozbola³a!}
+{195}{}{Ee, ta, jasne. Muszê ju¿ iœæ.}
+{196}{}{Có¿, nie próbuj rozwionzaæ spluwom wszystkich twoich problemów. ¯egnaj.}
+{197}{}{Cholera, ale dzisiaj goronco!}
+{198}{}{Billy! Lepiej siê nie opierdalaj, ty ma³y gnoju!}
+{199}{}{Billy! Lepiej dopilnuj, ¿eby te braminy mia³y dziœ w nocy ciep³o, albo to twoja skóra ucierpi!}
+{200}{}{Cholera jasna, ty ma³y szczylu! Przestañ trajkotaæ i zacznij¿e pracowaæ!}
+{201}{}{Mówi³em ci, ¿ebyœ siê nie opierdala³!}
+{202}{}{Ostrzegam ciê, Billy!}
+{203}{}{Chyba nie chcesz, ¿ebym musia³ byæ brutalny, co?}
+{204}{}{Wybacz dzieciaku, nie mogem rozmawiaæ. Mam interes do prowadzenia.}
+{208}{}{Niestety, nie mogem rozmawiaæ. Mam interes do prowadzenia.}
+{209}{}{Lepiej nie zawracaj g³owy Billy'emu; ma dzisiaj diabelnie du¿o roboty.}
+{210}{}{Spadaj, jestem zajêty.}
+{211}{}{Czemu wy zawsze zawracacie mi g³owê? Nie widzisz, ¿e pracujem?}
+{212}{}{Pogadaj z kupcami, jak szukasz roboty. Ja teraz nie przyjmujem.}
+{213}{}{Lepiej pójdŸ siê zabawiæ do Soko³a Maltañskiego. Jestem zajenty.}
+{214}{}{Co tu, do diab³a, robisz? Wynoœ siê!}
+{215}{}{Wynoœ siê, powiedzia³em! Nie ¿artujem! Rozwalem ci ten pierdolony ³eb!}
+{216}{}{Wy, œmieci, nigdy siê nie nauczycie, nieprawda¿?}

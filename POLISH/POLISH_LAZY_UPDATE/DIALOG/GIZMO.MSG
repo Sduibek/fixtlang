@@ -1,0 +1,161 @@
+{100}{}{To Gizmo, w³aœciciel Kasyna.}
+{101}{gizmo_1}{Œci¹gaj tu twój zad i siadaj. Mamy interes do omówienia.}
+{102}{}{Wygl¹da na to, ¿e tu i tak jest ju¿ wystarczaj¹co du¿o zadu...}
+{103}{}{Tyle to rozumiem. Czego chcesz?}
+{104}{}{Jaki interes?}
+{105}{}{B³ehh.}
+{106}{gizmo_1b}{Wynocha st¹d, ty matole!}
+{107}{gizmo_2}{T¹ sam¹ gêb¹ ca³ujesz w³asn¹ matkê? Oka¿ trochê szacunku.}
+{108}{}{Robisz coœ oprócz jedzenia?}
+{109}{}{Masz racjê, przepraszam. Pogadajmy o interesach.}
+{110}{gizmo_4}{W porz¹dku, [Gizmo chrz¹ka.] sprawa tak siê przedstawia. Z³omowo nie jest ju¿ tym, czym by³o. Istnieje jeszcze tylko dziêki mojej instytucji hazardowej. Mimo tego, Killian siedzi mi na karku, a ja zaczynam to sobie braæ do serca. [Gizmo chrz¹ka.] I w tym miejscu wchodzisz do gry ty, zdolniacho.}
+{111}{}{Co mam dla ciebie zrobiæ?}
+{112}{}{Je¿eli myœlisz, ¿e ci pomogê, to jesteœ t³usty i g³upi.}
+{113}{gizmo_4a}{Zabawne.}
+{114}{gizmo_5}{Myœlê, ¿e go dla mnie za³atwisz, wiesz? ¯adnych œwiatków, po prostu wejdziesz, za³atwisz, wyjdziesz.}
+{115}{}{Czemu nie poœlesz któregoœ z twoich zbirów?}
+{116}{}{Nie bêdê dla ciebie pracowaæ, nawet gdybyœ zaoferowa³ mi ca³¹ forsê, jaka znajduje siê w tym dziadowskim lokalu.}
+{117}{}{Jasne. Przydadz¹ mi siê pieni¹dze.}
+{118}{}{Nie s¹dzê. W ka¿dym razie dziêki.}
+{119}{}{Ile jesteœ sk³onny zap³aciæ?}
+{120}{gizmo_6}{Zrobi³bym tak, ale nie mo¿e byæ ¿adnego zwi¹zku miêdzy mn¹ i niefortunnym zejœciem Killiana.}
+{121}{}{To ma sens. Jasne, zrobiê to.}
+{122}{}{W porz¹dku, zrobiê to.}
+{123}{}{Ale z ciebie tchórz. Boisz siê, ¿e ludzie nie bêd¹ ciê lubiæ? Ju¿ na to za póŸno.}
+{124}{}{Ile jesteœ sk³onny zap³aciæ?}
+{125}{}{Nie zrobiê tego za ¿adne skarby.}
+{126}{}{Darujê sobie tê robotê. W ka¿dym razie dziêki.}
+{127}{gizmo_7}{[Gizmo charcze.] Wiedzia³em, ¿e przyjmiesz mój punkt widzenia. Jako dowód chcê dostaæ nieœmiertelniki, które Killian nosi na szyi. Dostaniesz je, to dostaniesz twoj¹ kasê. Teraz siê wynoœ. I nie próbuj mnie zawieœæ. Nadal mam rzepki ostatniego idioty, który tak zrobi³.}
+{128}{gizmo_8}{Tysi¹c kapsli. Ni mniej, ni wiêcej.}
+{129}{}{Brzmi nieŸle. Zrobiê to.}
+{130}{}{To ma byæ wed³ug ciebie zap³ata? Jak mam goœcia za³atwiæ, to potrzebujê wiêcej.}
+{131}{}{To grubo za ma³o. Nie wchodzê do tego interesu.}
+{132}{}{Nie zaufam ci nawet na tyle, na ile mog³oby tob¹ rzuciæ dwóch ludzi. Zapomnij o tym, chudziaku.}
+{133}{gizmo_9}{Haha! *cough* Maybe you're right. I think you're worth more. 1500.}
+{134}{}{Teraz to rozmawiamy.}
+{135}{}{That's about what, a cap per pound for you? Forget it.}
+{136}{}{Dziêkujê ci, ale wolê tego nie robiæ.}
+{137}{}{Mowy nie ma.}
+{138}{gizmo_10}{Przykro mi, ¿e tak to odczuwasz. Jednak nie tak przykro, jak zaraz bêdzie tobie. Nie mogê pozwoliæ, ¿eby wiadomoœæ o tym siê rozesz³a. Izo, poka¿ naszej nowej, przyjaznej duszy, co robimy z ludŸmi, którzy mi odmawiaj¹.}
+{139}{gizmo_11}{Jeden jest OK. Dwa to zbyt du¿o. A to by³o dwa. Izo, zdob¹dŸ mi zestaw rzepek.}
+{140}{gizmo_13}{Czy jest ju¿ po robocie?}
+{141}{}{Ta, pewnie.}
+{142}{}{Nie, jeszcze nie.}
+{143}{gizmo_14}{Obejrzyjmy nieœmiertelniki.}
+{144}{gizmo_15}{O, tak. O, tak! Izo ma twoj¹ forsê. O, ale œwietnie! Hej, hej, eee... Lepiej opuœæ na trochê miasto. Wiesz, na wszelki wypadek.}
+{145}{}{OK, zbieram siê.}
+{146}{}{Nie próbuj rozstawiaæ mnie po k¹tach, grubasku. Za³apa³eœ?}
+{147}{}{A jak tego nie zrobiê?}
+{148}{}{Jasne, odejdê. Tylko pamiêtaj, ¿e jesteœ mi winien przys³ugê.}
+{149}{gizmo_16}{Jak nie opuœcisz miasta, skoñczysz pod nim. Chwytasz?}
+{150}{}{OK, OK. Idê.}
+{151}{}{Kto to niby zrobi? Ty? Nie jesteœ w stanie ruszyæ dupska po kanapkê, nie mówi¹c o zabiciu mnie.}
+{152}{}{W porz¹dku, niech bêdzie. Tylko pamiêtaj, ¿e jesteœ mi winien przys³ugê.}
+{153}{gizmo_17}{Wiêc daj mi nieœmiertelniki.}
+{154}{}{E... tego... one... no, zapodzia³y mi siê.}
+{155}{}{A jeœli mi siê nie chce ich tobie oddawaæ?}
+{156}{}{To by³o k³amstwo. Nie mam ich.}
+{157}{}{Ju¿ by³y moje, ale potem mi siê gdzieœ zapodzia³y.}
+{158}{gizmo_18}{[Gizmo rechocze.] Wiesz, cienki z ciebie ³garz. Teraz idŸ po te nieœmiertelniki. Nie chcê tu ogl¹daæ twojej gêby, póki nie za³atwisz Killiana.}
+{159}{gizmo_19}{¯aden problem, zdejmê je z twojego trupa.}
+{160}{}{E... có¿, to niezupe³nie prawda. Nie mam ich.}
+{161}{}{Ta? Wynajmiesz kogoœ, ¿eby siê za ciebie schyli³?}
+{162}{}{Zginê³y mi.}
+{163}{}{No có¿, by³y w moim posiadaniu, ale zosta³y mi ukradzione.}
+{164}{gizmo_20}{Nie ma nieœmiertelników, nie ma pieniêdzy. PrzyjdŸ tu znowu bez tych nieœmiertelników, to Izo poæwiczy kreatywnoœæ na twojej anatomii. Teraz wynocha!}
+{165}{gizmo_21}{Czego chcesz? Jestem zajêtym cz³owiekiem.}
+{166}{}{Przychodzê, aby ci powiedzieæ, ¿e twój zabójca zawiód³.}
+{167}{}{W samej rzeczy, niczego. Ju¿ sobie idê.}
+{168}{}{Chcê siê dowiedzieæ, jakim cudem ktoœ tak durny, jak ty, jeszcze ¿yje.}
+{169}{}{Przychodzê, ¿eby porozmawiaæ o zamachu na ¿ycie Killiana.}
+{170}{gizmo_22}{Nie wiem, o czym ty gadasz.}
+{171}{}{Jasne, ¿e wiesz. Wynaj¹³eœ faceta, ¿eby zabi³ Killiana, a on spieprzy³ sprawê.}
+{172}{}{Nie pamiêtasz, jak wynaj¹³eœ goœcia, ¿eby zabi³ Killiana, ty durna pa³o?}
+{173}{}{Có¿, rozwa¿my hipotetyczn¹ sytuacjê...}
+{174}{}{£¿esz!}
+{175}{}{Masz racjê. ¯egnaj.}
+{176}{gizmo_23}{Nie wiem, kim jesteœ, ale nieszczególnie przepadam za nieznajomymi, którzy wchodz¹ do mojego gabinetu i oskar¿aj¹ mnie o rzeczy, o których nie maj¹ zielonego pojêcia.}
+{177}{}{A, i tu siê mylisz, Gizmo. Ja nie oskar¿am. Ja chcê ci pomóc.}
+{178}{}{Wiem wszystko. Przyznaj siê zatem!}
+{179}{}{Masz racjê. Wychodzê.}
+{180}{gizmo_24}{Naprawdê? [Gizmo chichocze.] On mi pomo¿e? O jakiej pomocy rozmawiamy?}
+{181}{}{To proste. Pos³a³eœ faceta, ¿eby zabi³ Killiana. On zawiód³. Potrzebujesz kogoœ, kto jest w stanie wykonaæ tê robotê... lepiej.}
+{182}{}{¯adnej. Zapomnij, ¿e coœ ode mnie us³ysza³eœ.}
+{183}{gizmo_25}{Pozwól, ¿e zgadnê. Ty jesteœ tym kimœ?}
+{184}{}{Bardzo dobrze... Oczywiœcie za op³at¹.}
+{185}{}{Mogê go zabiæ szybciej, ni¿ ty plun¹æ.}
+{186}{gizmo_26}{Có¿, czemu mam ci zaufaæ?}
+{187}{}{Jestem tutaj. A ty potrzebujesz kogoœ spoza miasta do odwalenia twojej brudnej roboty. Zgadza siê?}
+{188}{}{Nie mo¿esz... Znaczy mo¿esz... Znaczy...}
+{189}{}{Bo znam siê na rzeczy. Zdarza³o mi siê ju¿ zabijaæ.}
+{190}{gizmo_27}{Hmm... w porz¹dku. Mo¿emy tak zrobiæ. Ale pracujesz dla mnie, i lepiej wiedz, ¿e jak ktoœ wycycka Gizma, to nie po¿yje na tyle d³ugo, ¿eby o tym gadaæ. Chwytasz?}
+{191}{}{Och, mogê wcisn¹æ ci kit... bo nikt nie da rady przerobiæ ciê w balona.}
+{192}{}{Oczywiœcie. Ale najpierw muszê wiedzieæ, czemu chcesz go zabiæ.}
+{193}{gizmo_28}{Hê. To proste. Chcê go zabiæ, bo bruŸdzi mi w interesie. No, to za³atwisz go dla mnie?}
+{194}{}{Po to tu jestem. Bêdzie martwy przed zachodem S³oñca.}
+{195}{}{Jasne. To moja praca.}
+{196}{}{Czy móg³byœ to, proszê, powtórzyæ... tym razem do mojej kieszeni?}
+{197}{}{Có¿, e... Nie, nie mogê.}
+{198}{gizmo_29}{Dobrze. Wróæ z nieœmiertelnikami, które nosi na szyi, jako dowodem. I nigdy nie odbyliœmy tej rozmowy, nikomu o niej nie wspominaj. Nikt nie da rady mnie wycyckaæ. Nikt.}
+{199}{gizmo_30}{Jesteœ albo prawdziwym g³upolem... albo prawdzie g³upim szpiegiem. Niewa¿ne, bo teraz Izo przerobi ciê w prawdziwego trupa.}
+{200}{gizmo_32}{Nie lubiê ludzi, którzy marnuj¹ mój czas. Nie wracaj tu prêdko!}
+{201}{gizmo_33}{Jak¹ to?}
+{202}{}{Có¿, powiedzmy, ¿e spróbowa³eœ zabiæ Killiana, a twój zabójca zawiód³. To oznacza, ¿e potrzebujesz nowego, który wykona tê robotê w³aœciwie.}
+{203}{}{Hê? O, niewa¿ne.}
+{204}{gizmo_34}{Wiesz, [Gizmo wzdycha.] nie lubiê, gdy ludzie obra¿aj¹ mnie w moim w³asnym gabinecie. Izo, odprowadŸ naszego goœcia do... przez okno.}
+{205}{gizmo_35}{Jesteœ z powrotem. Wiesz, musia³em wynaj¹æ kogoœ innego, ¿eby wykona³ twoj¹ pracê. To mnie nie uszczêœliwi³o. W istocie Izo poka¿e ci, jak bardzo jestem nieszczêœliwy. Mam nadziejê, ¿e dzisiejszy dzieñ up³yn¹³ ci mi³o. To ju¿ twój ostatni.}
+{206}{gizmo36a}{[Gizmo chrz¹ka.] Killian jest burmistrzem tej osady. Myœli, ¿e wie wszystko... Có¿, przekonamy siê, jak du¿o wie, nieprawda¿?}
+{207}{gizmo_37}{[Gizmo kaszle.] To ja, t³umoku. Prowadzê tu... instytucjê hazardow¹.}
+{208}{gizmo_38}{To sklep Killiana. Jego towar jest gówniany.}
+{209}{gizmo_39}{Có¿, wiêkszoœæ ludzi uprawia tu hazard. Zadajesz g³upie pytania.}
+{210}{gizmo_42}{Chcesz wiedzieæ, co?}
+{211}{gizmo_43}{Nie musisz siê tym troskaæ.}
+{212}{gizmo_44}{[Gizmo poci¹ga nosem.] Ja e... Nie mam ochoty o tym teraz rozmawiaæ.}
+{213}{gizmo45m}{Hej, co ty, cholera, niby wyprawiasz? Izo, urwij mu rêce!}
+{214}{gizmo45f}{Hej, co ty, cholera, niby wyprawiasz? Izo, urwij jej rêce!}
+{215}{gizmo_47}{Co, nie s³yszysz? Powiedzia³em...}
+{216}{gizmo_48}{Hej, nie bêdê siê znowu powtarza³!}
+{217}{}{You earn 600 experience for your work defeating Gizmo. May the bastard rest in pieces.}
+{218}{}{Jest on bez w¹tpienia najbardziej korpulentn¹ osob¹, jak¹ kiedykolwiek uda³o ci siê zobaczyæ.}
+{219}{}{Wiesz, odkry³em coœ bardzo ciekawego po twojej ostatniej wizycie. Jeœli czegoœ nie znoszê bardziej ni¿ kiepskiej pizzy z pepperoni, to kapusiów. Ch³opcy!}
+{220}{}{Wiêc tak siê to rozstrzygnie, Killianie. Có¿, nigdy nie mog³em znieœæ twojego smrodu, a teraz po³o¿ê mu kres!}
+{221}{}{Killian zgin¹³ z mojej rêki. Chodz¹ s³uchy, ¿e mo¿esz to doceniæ.}
+{222}{}{O, doprawdy?}
+{223}{}{Hej, OK, jak nie chcesz, ¿eby zgin¹³, to w porz¹dku. Ja tylko staram siê s³u¿yæ pomoc¹.}
+{224}{}{Myœlê o no¿u w plecach, albo kuli w czaszce.}
+{225}{}{Chwytam. Za co chcesz go ukatrupiæ?}
+{226}{gizmo_24}{Naprawdê? [Gizmo chichocze.] Ona mi pomo¿e? O jakiej pomocy rozmawiamy?}
+
+# for Fallout Fixt:
+
+{227}{}{Who're you? Whaddya want?}
+{228}{}{You see a disgusting excuse for a man. This must be Gizmo.}
+
+
+# Gizmo's Tell-Me-Abouts generic responses
+{980}{gizmo_42}{Chcesz wiedzieæ, co?}
+{981}{gizmo_43}{Nie musisz siê tym troskaæ.}
+
+#
+# Gizmo's Tell-Me-Abouts
+#
+
+{1000}{}{Killian}
+{1001}{}{Gizmo}
+{1002}{}{Killiana}
+{1003}{}{Gizmo's}
+{1004}{}{Darkwater}
+{1005}{}{Gizmos}
+{1006}{}{Kasyno}
+{1007}{}{Z³omowo}
+{1008}{}{Darkwater's}
+
+{1100}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1101}{gizmo_37}{*cough* That's me, stupid. I run the... gambling establishment here.}
+{1102}{gizmo_38}{To sklep Killiana. Jego towar jest gówniany.}
+{1103}{gizmo_39}{Có¿, wiêkszoœæ ludzi uprawia tu hazard. Zadajesz g³upie pytania.}
+{1104}{gizmo36a}{*grunt* Killian's the mayor of this town. Thinks he knows everything... well, *chuckle* we'll just see how much he knows, won't we?}
+{1105}{gizmo_39}{Có¿, wiêkszoœæ ludzi uprawia tu hazard. Zadajesz g³upie pytania.}
+{1106}{gizmo_39}{Có¿, wiêkszoœæ ludzi uprawia tu hazard. Zadajesz g³upie pytania.}
+{1107}{gizmo_39}{Có¿, wiêkszoœæ ludzi uprawia tu hazard. Zadajesz g³upie pytania.}
+{1108}{gizmo_38}{That's Killian's place the north end of town. He sells crap.}

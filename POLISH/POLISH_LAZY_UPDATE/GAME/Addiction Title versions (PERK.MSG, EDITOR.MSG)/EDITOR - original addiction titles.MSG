@@ -1,0 +1,276 @@
+#
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+#
+#
+{100}{}{OK}
+{101}{}{OPCJE}
+{102}{}{ANULUJ}
+{103}{}{PLIK TXT}
+{104}{}{WIEK}
+{105}{}{P£E∆}
+{106}{}{IMI }
+{107}{}{FACET}
+{108}{}{KOBIETA}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
+{112}{}{PKT. UMIEJ.}
+{113}{}{Poziom:}
+{114}{}{Experience:}
+{115}{}{Nas. poziom:}
+{116}{}{PKT. POSTACI}
+{117}{}{UMIEJ TNOåCI}
+{118}{}{Przed rozpoczÍciem gry musisz} # 1
+{119}{}{wykorzystaÊ wszystkie punkty postaci!}         # 2
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{120}{}{Punkty postaci}
+{121}{}{Amount of free points that can be added to your primary statistics.}
+{122}{}{NastÍpny poziom}
+{123}{}{This is how many experience points are needed to move up to the next level.}
+{124}{}{Profity}
+{125}{}{Karma}
+{126}{}{Zabici}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
+{128}{}{Sumaryczne skutki wyborÛw etycznych, jakich dokonujesz.}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
+{130}{}{Punkty umiejÍtnoúci}
+{131}{}{Liczba punktÛw, ktÛre moøesz wykorzystaÊ do podniesienia poziomu wybranych przez ciebie umiejÍtnoúci.}
+#
+{132}{}{Poziom maksymalny.}        # 1
+{133}{}{Brak moøliwoúci zwiÍkszenia.}  # 2
+{134}{}{Poziom minimalny.}        # 1
+{135}{}{Brak moøliwoúci zmniejszenia.}  # 2
+{136}{}{Brak wolnych punktÛw umiejÍtnoúci.}
+{137}{}{Baza:}
+{138}{}{UMIEJ. G£.}
+{139}{}{CECHY}
+{140}{}{Masz juø maksymalnπ liczbÍ} # 1
+{141}{}{umiejÍtnoúci g≥Ûwnych!}               # 2
+{142}{}{Przed rozpoczÍciem gry musisz wybraÊ}  # 1
+{143}{}{sobie trzy umiejÍtnoúci g≥Ûwne!}       # 2
+{144}{}{UmiejÍtnoúci g≥Ûwne}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
+{146}{}{Cechy}
+{147}{}{Fakultatywne cechy czyniπ twojπ postaÊ barwniejszπ. Kaøda z nich ma zarÛwno pozytywnπ, jak i negatywnπ stronÍ. W ramach procesu kreacji moøesz wybraÊ sobie co najwyøej dwie cechy.}
+{148}{}{Masz juø maksymalnπ} # 1
+{149}{}{liczbÍ cech!}                     # 2
+{150}{}{UmiejÍtnoúci}
+{151}{}{UmiejÍtnoúci sπ odzwierciedleniem nabytej przez ciebie wiedzy. Rosnπ one poprzez doúwiadczenie, a takøe dziÍki szczegÛlnym wydarzeniom.}
+#
+{152}{}{WYBIERZ PROFIT}
+{153}{}{NOWA CECHA}
+{154}{}{WYMAØ CECH }
+{155}{}{NOWA UMIEJ TNOå∆ G£”WNA}
+{156}{}{CECHY}
+#
+{157}{}{Przed rozpoczÍciem gry skrajne} # 1
+{158}{}{wartoúci wspÛ≥czynnikÛw to 1 i 10!}          # 2
+#
+#
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Dno!}  # Very Bad
+{201}{}{èle}    # Bad
+{202}{}{Marnie}   # Poor
+{203}{}{S≥abo}   # Fair
+{204}{}{åredn.}   # Average
+{205}{}{Dobrze}   # Good
+{206}{}{B.dob.} # Very Good
+{207}{}{åwiet.}  # Great
+{208}{}{Ideal.} # Excellent
+{209}{}{Bosko!} # Heroic
+#
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{PW}
+{301}{}{Punkty akcji}
+{302}{}{Klasa pancerza}
+{303}{}{} # 303 is blank on purpose, leave blank
+{304}{}{Obr. wal. wrÍcz}
+{305}{}{Odp. na obr.}
+{306}{}{Odp. na truc.}
+{307}{}{Odp. na prom.}
+{308}{}{Inicjatywa}
+{309}{}{Tempo zdr.}
+{310}{}{Sz. na kryt.}
+{311}{}{Udüwig}
+{312}{}{Zatrucie}
+{313}{}{Irradiated}
+{314}{}{Wzrok}
+{315}{}{Prawa rÍka}
+{316}{}{Lewa rÍka}
+{317}{}{Prawa noga}
+{318}{}{Lewa noga}
+#
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
+# Radiation
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+# Eye Damage
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+# Crippled right arm
+{403}{}{Twoja prawa rÍka zosta≥a powaønie zraniona. Gdy jedna z twoich rπk ulegnie okaleczeniu, nie moøesz uøywaÊ broni dwurÍcznych. Gdy obie rÍce sπ niesprawne, nie moøesz uøywaÊ øadnej broni.}
+# Crippled left arm
+{404}{}{Twoja lewa rÍka zosta≥a powaønie zraniona. Gdy jedna z twoich rπk ulegnie okaleczeniu, nie moøesz uøywaÊ broni dwurÍcznych. Gdy obie rÍce sπ niesprawne, nie moøesz uøywaÊ øadnej broni.}
+# Crippled right leg
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+# Crippled left leg
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
+# Month strings
+{500}{}{stycznia}
+{501}{}{lutego}
+{502}{}{marca}
+{503}{}{kwietnia}
+{504}{}{maja}
+{505}{}{czerwca}
+{506}{}{lipca}
+{507}{}{sierpnia}
+{508}{}{wrzeúnia}
+{509}{}{paüdziernika}
+{510}{}{listopada}
+{511}{}{grudnia}
+#
+#
+# Option menu text
+#
+{600}{}{ZAPISZ}
+{601}{}{WCZYTAJ}
+{602}{}{DO PLIKU TXT}
+{603}{}{USU—}
+{604}{}{OK}
+{605}{}{Czy na pewno chcesz usunπÊ}      # line 1
+{606}{}{bieøπcπ postaÊ?}                 # line 2
+{607}{}{ - zapis bezb≥Ídny.}
+{608}{}{ - wczytywanie bezb≥Ídne.}
+{609}{}{ juø istnieje.}
+{610}{}{Czy chcesz zastπpiÊ istniejπcy plik?}
+{611}{}{B≥πd w trakcie zapisywania }
+{612}{}{B≥πd w trakcie wczytywania }
+{613}{}{Niepoprawny plik postaci.}
+{614}{}{Niepoprawne dane postaci.}
+{615}{}{B≥πd w trakcie odczytu katalogu!}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
+{618}{}{BLANK.GCD}
+#
+#
+# ASCII text file printing text
+#
+{620}{}{KRYPTA 13}                   # Title line 1
+{621}{}{AKTA OSOBOWE} # Title line 2
+{622}{}{czasu miejscowego} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: WspÛ≥czynniki :::}
+{624}{}{           Si≥a:}
+{625}{}{                PW:}
+{626}{}{      Inicjatywa:}
+# -
+{627}{}{      Percepcja:}
+{628}{}{    Klasa pancerza:}
+{629}{}{    Tempo zdrowienia:}
+# -
+{630}{}{   Wytrzyma≥oúÊ:}
+{631}{}{      Punkty akcji:}
+{632}{}{                SNZTK:}
+# -
+{633}{}{       Charyzma:}
+{634}{}{              OZWW:}
+{635}{}{               Udüwig:}
+# -
+{636}{}{   Inteligencja:}
+{637}{}{               ONO:}
+# -
+{638}{}{      ZrÍcznoúÊ:}
+{639}{}{               ONP:}
+# -
+{640}{}{      SzczÍúcie:}
+{641}{}{               ONT:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  ImiÍ:}
+{643}{}{Wiek:}
+{644}{}{                  P≥eÊ:}
+{645}{}{mÍska}
+{646}{}{øeÒska}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{Poziom:}
+{648}{}{                  PD:}
+{649}{}{Nas. poziom:}
+#-
+{650}{}{ ::: Cechy :::            ::: Profity :::         ::: Karma :::}
+#-
+{651}{}{ ::: UmiejÍtnoúci :::          ::: Zabici :::}
+#-
+{652}{}{ ::: Ekwipunek :::}
+#-
+{653}{}{                                     £πczny ciÍøar:}
+#
+#
+# Karma name strings
+#
+{1000}{}{OgÛlna reputacja: }
+{1001}{}{Zabijaka}
+{1002}{}{Bohater}
+{1003}{}{Child-Killer}
+#
+{1004}{}{Nuka-Cola Addiction}
+{1005}{}{Uzaleønienie od Wygrzewu}
+{1006}{}{Uzaleønienie od MentatÛw}
+{1007}{}{Uzaleønienie od Psycho}
+{1008}{}{Uzaleønienie od AntyRadu}
+{1009}{}{Alkoholizm}
+#
+# Karma description strings
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
+{1103}{}{Z twojej rÍki ginπ dzieci, nadzieja Pustkowia. Jest to postrzegane jako naprawdÍ odraøajπce, ty zepsuty do szpiku koúci zwyrodnialcze.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{Masz na≥Ûg. Cierpisz, jeøeli regularnie nie przyjmujesz Psycho. Kiedy je przyjmujesz, cierpiπ inni.}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
+{1109}{}{Masz problem alkoholowy, a úciúlej wiele problemÛw zwiπzanych z piciem.}
+{1110}{}{TYMCZASOWE}
+#
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
+#
+{5000}{}{Opcja dostÍpna wy≥πcznie}   # 1
+{5001}{}{w pe≥nej wersji gry.}   # 2
+{5002}{}{Opcja dostÍpna wy≥πcznie}    # 1
+{5003}{}{w pe≥nej wersji gry.}   # 2
+{5004}{}{Opcja dostÍpna wy≥πcznie} # 1
+{5005}{}{w pe≥nej wersji gry.}   # 2
+{5006}{}{TRYB LAMERSKI}
+{5007}{}{NiedostÍpne w wersji demo.}
+#

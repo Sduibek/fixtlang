@@ -1,0 +1,112 @@
+{100}{}{Widzisz Sophiê, instruktorkê Nowicjuszy Bractwa.}
+{101}{}{Czy ktoœ ma jakieœ pytania?}
+{102}{}{Pamiêtajcie, aby pytaæ, jeœli czegoœ nie zrozumiecie. Œmia³o.}
+{103}{}{Przejrzyjcie notatki.}
+{104}{}{Pamiêtajcie, jutro kolejny sprawdzian dla grupy 14.}
+{105}{}{Przepraszam, ale nie mogê teraz rozmawiaæ. Prowadzê zajêcia.}
+{106}{}{Rozumiem, ¿e coœ mi przynosisz.}
+{107}{}{Owszem. Proszê.}
+{108}{}{Owszem, ale nie mam tego przy sobie.}
+{109}{}{Ty.}
+{110}{}{Przepraszam, ale prowadzê zajêcia. Nie przeszkadzaj mi.}
+{111}{}{Nie powinno ciê tu byæ. Vree nie lubi, gdy siê jej przeszkadza w nocy. To wtedy medytujemy.}
+{112}{}{Medytujemy. WyjdŸ, proszê. Wróæ rano.}
+{113}{}{WyjdŸ st¹d.}
+{114}{}{Uszanuj nasz¹ wiarê. Nie przeszkadzaj nam w medytacjach.}
+{115}{}{Wy, Nowicjusze, musicie siê jeszcze wiele nauczyæ. WyjdŸ, proszê.}
+{116}{}{Nie przeszkadzaj mi.}
+{117}{}{Nie przyjmujemy w nocy. PrzyjdŸ rano.}
+{118}{}{Jest noc. Pora do ³ó¿ka, chyba, ¿e wydano ci rozkazy stra¿nicze - w takim wypadku musisz siê udaæ na swój posterunek.}
+{200}{}{Witaj, Nowicjuszu. W czym mogê pomóc?}
+{201}{}{Rozumiem, ¿e coœ mi przynosisz.}
+{202}{}{Owszem, proszê.}
+{203}{}{Owszem, ale nie mam tego przy sobie.}
+{204}{}{Ja? Nie. NajwyraŸniej pomyli³aœ mnie z kimœ innym.}
+{205}{}{Uk.}
+{206}{}{Bardzo dziêkujê. Mi³o, ¿e to przynosisz.}
+{207}{}{Eee...dziêkujê. Nic ci nie jest? W ka¿dym razie mi³o, ¿e to przynosisz.}
+{208}{}{Bez tego moje badania uleg³yby opóŸnieniu. To dobrze, ¿e mamy w naszych szeregach tak uczynnych nowicjuszy. Wiedzia³am, ¿e przyjêcie kogoœ z zewn¹trz wyjdzie nam na dobre. OdwiedŸ Michaela - bêdzie cos mia³ dla ciebie.}
+{301}{}{Witam. Nie widzia³am ciê tu wczeœniej - wiesz, gdzie jesteœ? Mo¿e mogê w czymœ pomóc?}
+{302}{}{Uh...}
+{303}{}{Czy mo¿esz mnie skierowaæ do biblioteki?}
+{304}{}{Szukam Vree.}
+{305}{}{Co to za miejsce?}
+{306}{}{Nawet, jeœli nie wiem, to na pewno nie bêdê siê pytaæ o drogê takiej idiotki, jak ty!}
+{307}{}{Jak my mo¿emy przyjmowaæ takich ludzi na nowicjuszy! Niech nas Bóg uchowa.}
+{308}{}{To jest biblioteka. To tu trzymamy wszystkie dane technologiczne dotycz¹ce broni i technologii oraz historiê Bractwa.}
+{309}{}{Potrzebujê naprawiæ hydroprocesor. Pomo¿esz mi?}
+{310}{}{Chcê siê czegoœ dowiedzieæ o uzbrojeniu, które tu produkujecie.}
+{311}{}{To tu znajdê holodyski?}
+{312}{}{Niewa¿ne, dziêkujê.}
+{313}{}{Szukam wielkiej spluwy, aby daæ upust swoim morderczym sk³onnoœciom.}
+{314}{}{Jestem asystentk¹ Vree. J¹ sam¹ znajdziesz tam.}
+{315}{}{Dziêkujê.}
+{316}{}{Czym siê zajmujesz jako jej asystentka?}
+{317}{}{Specjalizujê siê w historii Bractwa. Wydaje mi siê, ¿e to problem dla Dzia³u Produkcji - mo¿e lepiej zapytaj Vree?}
+{318}{}{Wydawa³o mi siê, ¿e w³aœnie takimi rzeczami zajmuj¹ siê skrybowie.}
+{319}{}{Chcê siê dowiedzieæ czegoœ o historii Bractwa.}
+{320}{}{Aleœ mi siê przyda³a!}
+{321}{}{Dobrze, dziêkujê za pomóc.}
+{322}{}{O tym musisz pomówiæ z Vree, g³ówn¹ skryb¹. Mam na g³owie wa¿niejsze sprawy.}
+{323}{}{Udam siê wiêc do Vree.}
+{324}{}{Wa¿niejsze? Na przyk³ad jakie?}
+{325}{}{Na przyk³ad uzbrojenie Bractwa. Nie s¹dzisz, ¿e to wa¿ne?}
+{326}{}{W bibliotece znajduje siê wiele holodysków. S¹ podzielone na dzia³y historii, technologii i projektów broni.}
+{327}{}{Chcê przejrzeæ holodyski dotycz¹ce technologii.}
+{328}{}{Chcê przejrzeæ holodyski dotycz¹ce projektów broni.}
+{329}{}{Chcê przejrzeæ holodyski dotycz¹ce historii Bractwa.}
+{330}{}{Vree mnie przysy³a, podobno mogê siê tu dowiedzieæ czegoœ o historii Bractwa.}
+{331}{}{Specjalizujê siê w historii Bractwa. Wygl¹da na to, ¿e niektórzy zapomnieli ju¿, jak wa¿na jest nasza historia.}
+{332}{}{Co mo¿esz mi powiedzieæ o historii Bractwa?}
+{333}{}{Có¿ mo¿e byæ wa¿niejszego od historii?}
+{334}{}{Zbli¿aj¹ siê twoje "trudne dni", co?}
+{335}{}{Chcê siê czegoœ dowiedzieæ o uzbrojeniu.}
+{336}{}{Na przyk³ad badanie historii Bractwa. Wygl¹da na to, ¿e niektórzy zapomnieli, jak wa¿na jest nasza historia.}
+{337}{}{NajwyraŸniej Vree s¹dzi, ¿e badania nad nowymi broniami oraz wyniki autopsji Mutantów s¹ wa¿niejsze, ni¿ nasza w³asna historia. Zapomnia³a ju¿, jak du¿¹ rolê w naszych ¿yciach odgrywa. Jest tak Ÿle, ¿e wielu z obecnych nowicjuszy nie wie nawet, kim jest Roger Maxson, ani co dla nas konkretnie zrobi³.}
+{338}{}{Chcê siê dowiedzieæ czegoœ o historii Bractwa. Dysponujesz jakimiœ informacjami na ten temat?}
+{339}{}{Hmm, wygl¹da wiêc, ¿e to z Vree muszê porozmawiaæ. ¯egnam.}
+{341}{}{Wydaje mi siê, ¿e Vree ma racjê! Kogo obchodz¹ te bzdury?}
+{342}{}{Zgadzam siê, ¿e historia jest wa¿na, ale to nowe technologie i lepsze uzbrojenie s¹ tym, czego szukam.}
+{343}{}{O takich sprawach musisz pomówiæ z Vree.}
+{344}{}{Do tych rzeczy dostêp maj¹ jedynie Skryby i Paladyni. Byæ mo¿e Vree bêdzie ci mog³a pomóc.}
+{345}{}{Dziêkujê, spytam siê jej.}
+{346}{}{Czy mogê przejrzeæ jakiekolwiek holodyski?}
+{347}{}{To oczywiste, ¿e nie z tob¹ nale¿y o tym rozmawiaæ. ¯egnam.}
+{348}{}{Mi³o mi spotkaæ kogoœ, kogo interesuje nasza wspania³a historia. To rzadkoœæ. Proszê. Na tym dysku znajdziesz niektóre z naszych najstarszych zapisków.}
+{349}{}{Dziêkujê.}
+{350}{}{Nic mnie nie obchodz¹ te bzdury. Nie dziêkujê.}
+{351}{}{Ka¿dy ma wolny dostêp do naszej historii. Ka¿dy mo¿e z niej wyci¹gaæ nauki... Tyle, ¿e nikogo to nie obchodzi.}
+{352}{}{Chcê rzuciæ okiem na cokolwiek, co dotyczy historii Bractwa.}
+{353}{}{Naprawdê? Mnie to te¿ nie obchodzi - dawaj uzbrojenie!}
+{354}{}{Witam. Nie widzia³am ciê tu wczeœniej - wiesz, gdzie jesteœ? Mogê ci w czymœ pomóc?}
+{355}{}{Uh...}
+{356}{}{Czy mo¿esz mnie skierowaæ do biblioteki?}
+{357}{}{Polecono mi znaleŸæ Vree i spytaæ j¹ o historiê Bractwa.}
+{358}{}{Nawet, jeœli nie wiem, to na pewno nie bêdê siê pytaæ o drogê takiej idiotki, jak ty!}
+{359}{}{Nie posz³o ci za dobrze, co? Vree jest zbyt zajêta swoimi "eksperymentami", ¿eby przejmowaæ siê jak¹œ tam histori¹.}
+{360}{}{Z kim wiêc mogê porozmawiaæ o historii Bractwa?}
+{361}{}{Tak, Bractwo wydaje siê byæ pe³ne idiotów.}
+{362}{}{Ja te¿ nie. ¯egnam.}
+{363}{}{Nie bêdê z tob¹ rozmawiaæ.}
+{364}{}{W czym mogê pomóc?}
+{365}{}{Co tu robisz?}
+{366}{}{Co mo¿esz mi powiedzieæ o historii Bractwa?}
+{367}{}{Przepraszam, wydawa³o mi siê, ¿e jesteœ kimœ innym. ¯egnam.}
+{368}{}{Jestem asystentk¹ Vree.}
+{369}{}{Dziêkujê.}
+{370}{}{Czym siê zajmujesz jako jej asystentka?}
+{371}{}{Mi³o mi spotkaæ kogoœ, kogo interesuje nasza wspania³a historia. To rzadkoœæ. Proszê. Na tym dysku znajdziesz niektóre z naszych najstarszych zapisków.}
+{372}{}{Dziêkujê.}
+{373}{}{Nic mnie nie obchodz¹ te bzdury. Nie dziêkujê.}
+{374}{}{Da³am ci dysk zawieraj¹cy niektóre z naszych wczesnych zapisków. Po prostu za³aduj go do swojego Pipboya 2000 i odczytaj.}
+{375}{}{Dziêkujê.}
+{376}{}{Nic mnie nie obchodz¹ te bzdury. Nie dziêkujê.}
+{377}{}{Nie podoba mi siê twoje podejœcie - nie bêdê z tob¹ rozmawiaæ.}
+{378}{}{Niech i tak bêdzie. ¯egnam!}
+{379}{}{Przepraszam - moje zachowanie by³o wysoce nieodpowiednie.}
+{380}{}{Przeprosiny przyjête. W czym mogê pomóc? }
+{381}{}{Co tu robisz?}
+{382}{}{Co mo¿esz mi powiedzieæ o historii Bractwa?}
+{383}{}{Przepraszam, wydawa³o mi siê, ¿e jesteœ kimœ innym. ¯egnam.}
+{384}{}{Jestem asystentk¹ Vree. J¹ sam¹ znajdziesz w Centrum Szkoleniowym.}
+{400}{}{Widzisz instruktorkê nowicjuszy Bractwa.}

@@ -1,0 +1,97 @@
+{100}{}{System:                                                         Zasilanie podstawowe:          WY£¥CZONE                           Zasilanie awaryjne:           W£¥CZONE}
+{101}{}{Zarz¹dzanie systemami energetycznymi}
+{102}{}{Z*r*¹*z*n*e s*s*e*a*i e*e*g*t*c*n*m*}
+{103}{}{Wyjœcie}
+{104}{}{Zarz¹dzanie systemami energetycznymi}
+{105}{}{Zasilanie podstawowe}
+{106}{}{Zasilanie awaryjne}
+{107}{}{Powrót}
+{108}{}{Zasilanie podstawowe:          WY£¥CZONE}
+{109}{}{Aktywacja podstawowego systemu zasilania}
+{110}{}{Powrót}
+{111}{}{Zasilanie podstawowe: B£¥D! B£¥D! B£¥D! Próba aktywacji podstawowego systemu zasilania nieskuteczna}
+{112}{}{Diagnoza}
+{113}{}{Powrót}
+{114}{}{Przyczyna: Agregaty pr¹dotwórcze (Poziom 6) nie funkcjonuj¹. Wniosek: Konieczny przegl¹d}
+{115}{}{Powrót}
+{116}{}{Zasilanie awaryjne:            W£¥CZONE}
+{117}{}{Dezaktywacja systemu zasilania awaryjnego}
+{118}{}{Powrót}
+{119}{}{System:                                                         Zasilanie podstawowe:          W£¥CZONE                           Zasilanie awaryjne:           W GOTOWOŒCI}
+{120}{}{Zarz¹dzanie systemami energetycznymi}
+{121}{}{Wyjœcie}
+{122}{}{Zasilanie podstawowe:          W£¥CZONE}
+{123}{}{Dezaktywacja podstawowego systemu zasilania}
+{124}{}{Powrót}
+{125}{}{System:                                                         Zasilanie podstawowe:          W£¥CZONE}
+{126}{}{D*z*k*y*a*j* *o*s*a*o*e*o s*s*e*u z*s*l*n*a}
+{127}{}{Dezaktywacja podstawowego systemu zasilania}
+{128}{}{Wyjœcie}
+{129}{}{Z*r*¹*z*n*e s*s*e*a*i e*e*g*t*c*n*m*}
+{130}{}{Z*s*l*n*e p*d*t*w*w*}
+{131}{}{Z*s*l*n*e a*a*y*n*}
+{132}{}{Powrót}
+{133}{}{Z*s*l*n*e p*d*t*w*w*}
+{134}{}{A*t*w*c*a p*d*t*w*w*g* *y*t*m* *a*i*a*i*}
+{135}{}{Powrót}
+{136}{}{Z*s*l*n*e p*d*t*w*w*: B*¥*! B*¥*! B*¥*! K*n*e*z*y p*z*g*¹*}
+{137}{}{Powrót}
+{138}{}{Z*s*l*n*e a*a*y*n*: W*¥*Z*N*}
+{139}{}{System:                                                         Zasilanie podstawowe:          WY£¥CZONE                           Zasilanie awaryjne:           WY£¥CZONE}
+{140}{}{Aktywacja systemu zasilania awaryjnego}
+{141}{}{D*a*n*s*y*a p*d*t*w*w*g* *y*t*m* *a*i*a*i*}
+{142}{}{E*o*u*j* *o*s*a*o*e*o s*s*e*u z*s*l*n*a}
+{143}{}{A*t*w*c*a s*s*e*u z*s*l*n*a a*a*y*n*g*}
+{144}{}{Z*s*b* *n*r*e*y*z*e}
+{145}{}{Wyjœcie}
+{146}{}{B*¹* *y*t*m*w*! N*e*u*o*y*o*a*y u*y*k*w*i* * *o*i*d*m*æ a*m*n*s*r*c*ê. P*a*a s*s*e*u w*t*z*m*n*}
+{147}{}{Wyjœcie}
+{148}{}{D*z*k*y*a*j* *y*t*m* *a*i*a*i* *w*r*j*e*o}
+
+{200}{}{Udziel mi dostêpu do zasobów podstawowych.}
+{201}{}{Odmowa dostêpu. Koniec sesji.}
+{202}{}{Dostêp udzielony.}
+{203}{}{Menu g³ówne}
+{204}{}{Wyjœcie z systemu}
+{205}{}{Wyjœcie z systemu}
+{206}{}{Wybierz opcjê}
+{207}{}{Informacje o korporacji West Tech}
+{208}{}{Zarz¹dzanie systemem ochronnym}
+{209}{}{Informacje o badaniach}
+{210}{}{Zarz¹dzanie systemami energetycznymi}
+{211}{}{Korporacja West Tech: Za³o¿ona w roku 2002 jako prywatny dostawca Rz¹du Stanów Zjednoczonych AP. Od pocz¹tku sk³ada siê z dwóch dywizji - dzia³u badañ nad zaawansowanymi broniami konwencjonalnymi, oraz dzia³u nauk biomedycznych, przekszta³conego w dzia³ ABC.}
+{241}{}{ W roku 2069 korporacja West Tech sta³a siê najwiêkszym indywidualnym dostawc¹ Rz¹du Stanów Zjednoczonych AP; jej najwiêkszy kontrakt dotyczy³ wspomaganych pancerzy bojowych piechoty, modelu T-51b. }
+{242}{}{ W œwietle znacz¹cych postêpów dokonanych przez dzia³ ABC w pracach nad Projektem Wirionu Wszechodpornoœci, z obawy przed zagraniczn¹ infiltracj¹ wywiadowcz¹ Departament Obrony Stanów Zjednoczonych AP wydelegowa³ na miejsce}
+{243}{}{ badañ zespó³, by zabezpieczaæ oraz nadzorowaæ projekt, przemianowany wówczas na Projekt FEV (Wirusa Wymuszonej Ewolucji).}
+{212}{}{Zarz¹dzanie systemem ochronnym: Roboty ochronne: Aktywne}
+{213}{}{Zarz¹dzanie systemem ochronnym: Roboty ochronne: Nieaktywne}
+{214}{}{Dezaktywacja robotów ochronnych}
+{215}{}{Aktywacja robotów ochronnych}
+{216}{}{Informacje o badaniach: Aktualny stan projektów badawczych korporacji West Tech}
+{217}{}{Akta osobowe personelu badawczego}
+{218}{}{Pancerz wspomagany. Status: Ukoñczony}
+{219}{}{FEV (Wirus Wymuszonej Ewolucji). Status: W toku}
+{220}{}{Akta osobowe personelu badawczego korporacji West Tech}
+{221}{}{Robert Anderson: Asystent badawczy. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Baza Wojskowa Mariposa}
+{222}{}{Nick Davis: Dyrektor dzia³u ABC korporacji West Tech. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Oœrodek Badawczy West Tech}
+{223}{}{John Isaac: Asystent badawczy. Certyfikat bezpieczeñstwa: Czerwony. Miejsce pracy: Oœrodek Badawczy West Tech}
+{224}{}{Steve Remco: Asystent badawczy. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Baza Wojskowa Mariposa}
+{225}{}{Charles Rignhold: Kierownik badañ nad rozwojem laserów. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Oœrodek Badawczy West Tech}
+{226}{}{Michele Santose: Technik laboratoryjny. Certyfikat bezpieczeñstwa: Czerwony. Miejsce pracy: Oœrodek Badawczy West Tech}
+{227}{}{Erin Shellman: Technik laboratoryjny. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Baza Wojskowa Mariposa}
+{228}{}{Leon von Felden: Kierownik badañ nad FEV. Certyfikat bezpieczeñstwa: Niebieski. Miejsce pracy: Baza Wojskowa Mariposa}
+{229}{}{Download Records to Pip-Boy 2000}
+{230}{}{Powrót}
+{231}{}{Specyfikacje pancerza wspomaganego: Wspomagany pancerz bojowy piechoty T-51b zosta³ wyposa¿ony w najnowsze systemy obrony pasywnej przeciw zagro¿eniom tak cywilnym, jak i militarnym. }
+{250}{}{Plecakowy reaktor termoj¹drowy TX-28 o mocy 60.000 watów zasila systemy hydrauliczne UltraP³aw wbudowane w szkielet kombinezonu. }
+{251}{}{Wykonana z najnowszych kompozytów skorupa T-51b jest lekka i zdolna do zaabsorbowania ponad 2.500 d¿uli energii kinetycznej. }
+{252}{}{Srebrna os³ona ablacyjna, o gruboœci 10 mikronów, jest w stanie odbijaæ emisje laserowe i radiacyjne bez naruszania powierzchni.}
+{232}{}{Krótkie podsumowanie Projektu FEV: 2073. Gdy Chiny zaczê³y postêpowaæ coraz bardziej agresywnie w sprawie swoich broni biologicznych, Rz¹d Stanów Zjednoczonych AP uzna³, i¿ potrzebne s¹ œrodki zaradcze. Projekt Wirionu Wszechodpornoœci (PVP) zosta³ oficjalnie zainicjowany w dniu 15 wrzeœnia 2073. }
+{233}{}{2075. Sta³o siê jasne, i¿ najlepsz¹ metodê walki z nowoopracowanymi broniami biologicznymi stanowi zmodyfikowanie niezainfekowanego DNA tak, aby nie by³o ju¿ podatne na standardowe infekcje wirusowe.}
+{234}{}{2076. Nieprzewidziane efekty uboczne PVP zaczê³y siê ujawniaæ na pocz¹tku roku 2076. Testowe obiekty zwierzêce wykazywa³y niezwyk³e tempo wzrostu cia³a i zwiêkszon¹ aktywnoœæ mózgu. }
+{235}{}{Rz¹d SZ zapozna³ siê z tymi odkryciami i, w interesie bezpieczeñstwa narodowego, wydelegowa³ na miejsce badañ zespó³, by zabezpieczaæ oraz nadzorowaæ projekt, przemianowany wówczas na Projekt FEV (Wirusa Wymuszonej Ewolucji).}
+{236}{}{2077. FEV zbli¿a siê do ukoñczenia. Testy na obiektach zwierzêcych niemal w 100% koñcz¹ siê powodzeniem. Gabaryty i umiêœnienie rosn¹ o ok. 60%, a inteligencja potencjalnie o 200%. }
+{237}{}{Efekty oddzia³ywanie na obiekty ludzkie pozostaj¹ nieznane, choæ teoretycznie s¹ obiecuj¹ce. }
+{238}{}{Wojsko, chc¹c prowadziæ dalsze badania, zbudowa³o du¿y oœrodek na terenie Bazy Wojskowej Mariposa w œrodkowej Kalifornii. W tym nowym oœrodku kontynuowane s¹ testy Wirusa Wymuszonej Ewolucji na ochotniczych obiektach z szeregów si³ zbrojnych.}
+{239}{}{Polecenie otrzymane: Polecenie wykonane}
+{240}{}{Odmowa dostêpu}

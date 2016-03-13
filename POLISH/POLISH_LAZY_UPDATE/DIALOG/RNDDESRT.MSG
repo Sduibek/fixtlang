@@ -1,0 +1,373 @@
+# For lines 177 and 180 and 181, spaces are intentional.
+# Line 177 is prepended to encounter type. (they begin at 183 below)
+{177}{}{You encounter }
+{178}{}{Yes.}
+{179}{}{No.}
+{180}{}{You earn }
+{181}{}{ experience for successful use of your Outdoorsman skill.}
+# Line 182 is appended after 177 and the encounter type. Period and space is intentional.
+{182}{}{. Do you wish to engage?}
+# These are apended to line 177.
+{183}{}{Floaters}
+{184}{}{Manti}
+{185}{}{Rats}
+{186}{}{Peasants attacked by Raiders}
+#
+#
+# TRANSLATORS: Ignore these blank entries, but do not delete them.
+#             They are placeholders and are intentional.
+#
+{187}{}{}
+{188}{}{}
+{189}{}{}
+{190}{}{}
+{191}{}{}
+{192}{}{}
+{193}{}{}
+{194}{}{}
+{195}{}{}
+#
+{201}{}{}
+{202}{}{}
+{203}{}{}
+{204}{}{}
+{205}{}{}
+{206}{}{}
+{207}{}{}
+{208}{}{}
+{209}{}{}
+{210}{}{}
+{211}{}{}
+{212}{}{}
+{213}{}{}
+{214}{}{}
+{215}{}{}
+{216}{}{}
+{217}{}{}
+{218}{}{}
+{219}{}{}
+{220}{}{}
+{221}{}{}
+{222}{}{}
+#
+{228}{}{}
+{229}{}{}
+{230}{}{}
+{231}{}{}
+{232}{}{}
+{233}{}{}
+{234}{}{}
+{235}{}{}
+{236}{}{}
+{237}{}{}
+{238}{}{}
+{239}{}{}
+{240}{}{}
+{241}{}{}
+{242}{}{}
+{243}{}{}
+{244}{}{}
+{245}{}{}
+{246}{}{}
+{247}{}{}
+{248}{}{}
+{249}{}{}
+#
+{258}{}{}
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
+{263}{}{}
+{264}{}{}
+{265}{}{}
+{266}{}{}
+{267}{}{}
+{268}{}{}
+{269}{}{}
+{270}{}{}
+{271}{}{}
+{272}{}{}
+{273}{}{}
+{274}{}{}
+{275}{}{}
+{276}{}{}
+{277}{}{}
+{278}{}{}
+#
+{289}{}{}
+{290}{}{}
+{291}{}{}
+{292}{}{}
+{293}{}{}
+{294}{}{}
+{295}{}{}
+{296}{}{}
+{297}{}{}
+{298}{}{}
+#
+{304}{}{}
+#
+#
+# 100 to 103 are NOT USED, looks like it was old code for finding the Radscorpion Cave from the worldmap.
+#
+{100}{}{Wydaje ci siê, ¿e nie mog³y przyjœæ z daleka. Gdzieœ w pobli¿u musi siê znajdowaæ ich legowisko.}
+{101}{}{Wygl¹da na to, ¿e gdzieœ w okolicy maj¹ legowisko.}
+{102}{}{Wygl¹da na to, ¿e gdzieœ na pó³noc st¹d maj¹ legowisko.}
+{103}{}{NajwyraŸniej przemierzaj¹ pustkowie.}
+#
+#
+# DEHYDRATION ENCOUNTERS
+#
+#
+{125}{}{You avoid dehydration due to your supply of water, emptying }
+{119}{}{ flask.}
+{124}{}{ flasks.}
+{112}{}{You avoid dehydration due to your supply of fluids, emptying }
+# TRANSLATION NOTE: a period is inserted by the script at the end of the list of drinks consumed, and a comma between each if multiple types are consumed.
+{116}{}{ water flask}
+{117}{}{ water flasks}
+{141}{}{ Nuka-cola}
+{140}{}{ Nuka-colas}
+{142}{}{ beer}
+{149}{}{ beers}
+{150}{}{ bottle of booze}
+{151}{}{ bottles of booze}
+{152}{}{Resorting to alcohol reduces your }
+{153}{}{Strength}
+{154}{}{Endurance}
+{156}{}{ by 1 point.}
+{157}{}{ by 2 points.}
+{155}{}{Strength and Endurance}
+{158}{}{ by 1 point each.}
+#
+# DRANK BUT STILL THIRSTY
+#
+{114}{}{Your water supply runs out, }
+{161}{}{Your supply of fluids runs out, }
+{162}{}{and your search of }
+{115}{}{ hours fails to locate any water. Dehydration sets in, causing you }
+{148}{}{ point of health damage.}
+{113}{}{ punktów obra¿eñ.}
+{163}{}{but you manage to avoid dehydration by searching for water. The search takes }
+{164}{}{1 hour.}
+{111}{}{ godz.}
+#
+# CRITICAL SUCCESS ON OUTDOORSMAN CHECK
+#
+{147}{}{You manage to avoid dehydration by searching for water. The search takes 1 hour.}
+{138}{}{ You refill your }
+{118}{}{flask}
+{159}{}{flasks}
+{160}{}{ with the drinkable water.}
+{165}{}{You earn }
+{166}{}{ experience for successful use of your Outdoorsman skill.}
+#
+#
+{109}{}{Udaje ci siê unikn¹æ odwodnienia szukaj¹c Ÿród³a. Poszukiwania zajê³y ci dodatkow¹ godzinê.}
+{110}{}{Udaje ci siê unikn¹æ powa¿nego odwodnienia szukaj¹c Ÿród³a. Poszukiwania zajmuj¹ dodatkowo }
+{120}{}{Przez }
+{121}{}{ godziny szukasz na pustyni wody, ale nie udaje ci siê znaleŸæ doœæ, ¿eby ugasiæ pragnienie. Otrzymujesz punkt obra¿eñ.}
+{122}{}{Przez }
+{123}{}{ godziny szukasz na pustyni wody, ale nie udaje ci siê znaleŸæ doœæ, ¿eby ugasiæ pragnienie. Otrzymujesz }
+{167}{}{}
+{168}{}{}
+#
+#
+# NORTH_TABLE ENCOUNTERS
+#
+#
+# North1
+#
+# if pass Perception check or have Awareness:
+#   197 Uh-oh... a raiding party!
+# else is:
+{105}{}{ZASADZKA!!!}
+#
+# North2
+#
+{104}{}{Trafiasz w sam œrodek za¿artego starcia radskorpionów i kretoszczurów.}
+#
+# North3
+#
+{106}{}{Wpadasz na du¿¹ grupê radskorpionów!}
+#
+# North4
+#
+{107}{}{Wpadasz na grupê radskorpionów!}
+#
+# North5
+#
+{108}{}{Wpadasz na rodzinê kretoszczurów.}
+#
+# North6
+#
+# -Dehydration-
+#
+# SOUTH_TABLE ENCOUNTERS
+#
+# South1 -- change this encounter to something else??
+#
+{131}{}{PANIKA!!!}
+#
+# South2
+#
+{132}{}{Wpadasz na du¿¹ grupê radskorpionów!}
+#
+# South3
+#
+# -Dehydration-
+#
+# South4 -- change this encounter to something else
+#
+# 143 "Raiders!!!"
+#
+# South5
+#
+{144}{}{Wpadasz na du¿¹ grupê kretoszczurów.}
+#
+# South6
+#
+{145}{}{Spotykasz grupê dzikich radskorpionów.}
+#
+#
+# SHADY ENCOUNTERS
+#
+#
+# Shady1
+#
+{146}{}{Napotykasz na ma³¹ grupkê broni¹cych siê wieœniaków.}
+#
+# Shady2
+#
+# -Dehydration-
+#
+# Shady3
+#
+{169}{}{Wpadasz na du¿¹ grupê radskorpionów.}
+#
+# Shady4
+#
+{170}{}{Spotykasz handlarza w towarzystwie stra¿ników.}
+#
+# unless he's dead, then you get
+#
+{305}{}{Znajdujesz pozosta³oœci po twardych stra¿nikach Duca.}
+#
+# once that has been seen, call Shady3
+#
+# Shady5
+#
+{175}{}{You encounter a traveler.}
+# or if killed,
+{171}{}{Znajdujesz zw³oki jakiegoœ wêdrowca.}
+#
+# else call Shady2
+#
+# Shady
+#
+{126}{}{Wpadasz na kilka radskorpionów zajêtym polowaniem na kretoszczury.}
+{127}{}{Zbli¿aj¹ siê do ciebie wychudzone humanoidy o zielonej skórze.}
+{128}{}{Junk and rocks are scattered about. You wonder if anything of value could remain...}
+#
+# UNUSED ENTRY:
+{129}{}{Samotny radskorpion zrobi³ na ciebie zasadzkê!}
+#
+{130}{}{Zauwa¿asz w okolicy czêœciowo zjedzone zw³oki.}
+{134}{}{Z pustyni uderza na ciebie grupa radskorpionów!}
+{135}{}{Spotykasz grupê stra¿ników wykonuj¹cych patrol.}
+{136}{}{Spotykasz handlarza w towarzystwie stra¿ników.}
+{174}{}{You come across the remnants of a merchant and his guards.}
+{137}{}{Spotykasz wieœniaka pêdz¹cego stado braminów.}
+{139}{}{Radscorpions hunt mole rats among the ruined city walls.}//Sduibek, Fallout Fixt
+{172}{}{Znajdujesz na ziemi kilka przedmiotów.}
+{176}{}{You have stumbled across a small patch of ruined and deserted buildings.}
+#
+#
+# RAIDER_TABLE ENCOUNTERS
+#
+#
+# Raider1
+#
+{133}{}{Bandyci zrobili na ciebie zasadzkê!}
+#
+# Raider2 - half chance of either msg displayed, but encounter the same
+#
+{143}{}{Bandyci!!!}
+{197}{}{O nie... bandyci!}
+#
+# Raider3
+#
+{173}{}{Zauwa¿asz pozosta³oœci po karawanie, które rabuj¹ jacyœ bandyci.}
+#
+# Raider4
+#
+{310}{}{Atakuje ciê ma³a grupa bandytów!}
+#
+# Raider5 - 198 always, plus 196 half the time
+#
+{198}{}{Zauwa¿asz pojedynczego bandytê.}
+{196}{}{Radskorpiony, zbli¿aj¹ siê!}
+#
+# Raider6 - displays and runs both (because bodies are empty)
+#
+{199}{}{Natykasz siê na pole bitwy; pe³no tu porozrzucanych cia³.}
+#plus 196
+#
+#
+{223}{}{Zauwa¿asz wêdruj¹ce stado dzikich kojotów.}
+{200}{}{Radskorpiony, zbli¿aj¹ siê!}
+{224}{}{Zauwa¿asz w okolicy grupê ludzi.}
+{225}{}{Wpadasz na ma³¹ grupkê handlarzy i stra¿ników.}
+{226}{}{Na twoich oczach toczy siê ma³a bitwa - ludzie kontra mutanci!}
+{227}{}{Zbli¿a siê w twoj¹ stronê horda radskorpionów!}
+#
+{250}{}{Zbli¿a siê do ciebie grupa ludzi w pancerzach wspomaganych.}
+{251}{}{Zauwa¿asz grupkê handlarzy i stra¿ników.}
+{252}{}{Stajesz siê œwiadkiem za¿artej bitwy pomiêdzy pustynnymi bandytami, a ludŸmi w pancerzach wspomaganych.}
+{253}{}{Zauwa¿asz grupkê mutantów na patrolu.}
+{254}{}{Widzisz przed sob¹ kilka dziwnych stworzeñ...}
+{256}{}{W pobli¿u przechodzi patrol supermutantów!}
+
+{257}{}{You spot the ruins of a tiny village.}
+
+# UNUSED ENTRY:
+{255}{}{Znajdujesz kilka przedmiotów.}
+
+{279}{}{Przed tob¹ z piasku wystaj¹ jakieœ œmieci.}
+{280}{}{Wpadasz na oddzia³ supermutantów.}
+{281}{}{Wpadasz na grupê dziwnych stworzeñ.}
+{282}{}{Wpadasz na stado g³odnych radskorpionów.}
+{283}{}{You feel nauseous, and the air seems to waver with heat. A mutated creature suddenly approaches!}
+{284}{}{You have stumbled across a few bizarre mutant creatures.}
+{285}{}{Znajdujesz coœ ze starego filmu S-F!}
+{286}{}{Szpon œmierci!}
+{287}{}{You stumble into a migrating pack of radscorpions. They seem to be fleeing from...}
+{288}{}{Natykasz siê na jakieœ zmutowane stworzenie z pustyni.}
+#
+{299}{}{W pewnej odleg³oœci zauwa¿asz grupê radskorpionów.}
+{300}{}{Wpadasz na obdartego wieœniaka.}
+{301}{}{Spotykasz kretoszczura.}
+
+# was: "The Deathclaw!!"
+{302}{}{A young Deathclaw seems to think you are lunch.}
+
+{303}{}{Wpadasz na grupê radskorpionów.}
+#
+{306}{}{W pobli¿u przechodzi patrol mutantów, a z nimi jakieœ dziwne stworzenia!}
+{307}{}{Wpadasz w zasadzkê ma³ego oddzia³u mutantów.}
+{308}{}{Wygl¹da na to, ¿e to sam œrodek wojny gangów!}
+{309}{}{Biegnie na ciebie grupa bandytów. Chyba nie s¹ przyjaŸnie nastawieni.}
+{311}{}{Atakuje ciê ma³a grupa bandytów!}
+{313}{}{Nagle atakuje ciê chmara modliszek!}
+
+# UNUSED ENTRY:
+{312}{}{Nagle atakuj¹ ciê szczury!}
+
+# SPECIAL ENCOUNTERS TEXT:
+{314}{}{Hej! Oni naprawdê tu s¹.}
+{315}{}{Zauwa¿asz przewrócon¹ ciê¿arówkê.}
+{316}{}{Na œrodku pustkowia znajdujesz kilka pordzewia³ych samochodów.}
+{317}{}{Na pó³nocnym zachodzie dostrzegasz policyjn¹ budkê.}
+{318}{}{Wpadasz w stado dzikich braminów. Czujesz, ¿e coœ jest nie tak...}
+#

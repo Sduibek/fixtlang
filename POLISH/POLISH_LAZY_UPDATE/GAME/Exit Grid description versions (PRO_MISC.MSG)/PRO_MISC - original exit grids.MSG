@@ -1,0 +1,51 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##      (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{100}{}{rakieta}
+{200}{}{kula plazmy}
+{300}{}{eksplozja}
+{400}{}{krew}
+{500}{}{niedostêpne pole}
+{501}{}{}
+{600}{}{Knife}
+{700}{}{Spear}
+{800}{}{impuls elektromagnetyczny (EMP)}
+{900}{}{promieñ lasera}
+{1000}{}{strumieñ plazmy}
+{1100}{}{eksplozja}
+{1200}{}{blokada przesuwu ekranu}
+{1300}{}{wy³adowanie elektryczne}
+{1400}{}{eksplozja}
+{1500}{}{eksplozja}
+{1600}{}{pole wyjœciowe}
+{1700}{}{pole wyjœciowe}
+{1800}{}{pole wyjœciowe}
+{1900}{}{pole wyjœciowe}
+{2000}{}{pole wyjœciowe}
+{2100}{}{pole wyjœciowe}
+{2200}{}{pole wyjœciowe}
+{2300}{}{pole wyjœciowe}
+{2400}{}{flara}
+{2500}{}{granat}
+{2600}{}{kamieñ}
+{2700}{}{eksplozja}
+{2800}{}{eksplozja}
+{2900}{}{eksplozja}
+{3000}{}{koktajl Mo³otowa}
+{3100}{}{pole wyjœciowe}
+{3200}{}{pole wyjœciowe}
+{3300}{}{pole wyjœciowe}
+{3400}{}{pole wyjœciowe}
+{3500}{}{pole wyjœciowe}
+{3600}{}{pole wyjœciowe}
+{3700}{}{pole wyjœciowe}
+{3800}{}{pole wyjœciowe}
+{3900}{}{pole wyjœciowe}
+{4000}{}{pole wyjœciowe}
+{4100}{}{pole wyjœciowe}
+{4200}{}{pole wyjœciowe}
+{4300}{}{pole wyjœciowe}
+{4400}{}{pole wyjœciowe}
+{4500}{}{pole wyjœciowe}
+{4600}{}{pole wyjœciowe}

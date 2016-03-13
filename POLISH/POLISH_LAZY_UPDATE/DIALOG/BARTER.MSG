@@ -1,0 +1,17 @@
+{100}{}{You see: Shady Sands' resident trader.}
+{101}{}{Hello wanderer! I trade and sell goods to the fine people of Shady Sands. Would you like to see my wares?}
+{102}{}{Yes.}
+{103}{}{Nie.}
+{104}{}{Ju¿ od pewnego czasu nêkaj¹ nas radskorpiony. Wszyscy, którzy zostali wys³ani, ¿eby zniszczyæ te potwory, nie powrócili. Dam ci uzbrojenie i pancerz, jeœli pójdziesz z moim przewodnikiem do ich gniazda i wszystkie je uœmiercisz.}
+{105}{}{Brzmi nieŸle.}
+{106}{}{Nie, dziêki.}
+{107}{}{Szkoda. OdejdŸ, proszê.}
+{108}{}{Excellent. Talk to Seth then; he will guide you to the lair. Here are the items I promised. They will be useful in the lair.}
+{109}{}{Please help us as soon as possible. Time is of the essence.}
+{110}{}{Nie rozmawiam z takimi jak ty.}
+{111}{}{Thank you for destroying the radscorpions, stranger.}
+#
+# by Sduibek for Fallout Fixt:
+#
+{112}{}{You see a merchant.}
+{113}{}{I'm not going to talk to you unless you holster that weapon, stranger.}

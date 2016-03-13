@@ -1,0 +1,15 @@
+{101}{}{Teraz nie potrzebujê twoich us³ug. Mo¿e kiedy indziej.}
+{102}{}{Pomocy! Ratuj mnie!}
+{103}{}{Musisz za to umrzeæ!}
+{104}{}{OszczêdŸ mnie! B³agam!}
+{105}{}{Czy ju¿ nie ¿yj¹? Mo¿e jest ich wiêcej!}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{106}{}{Zjawi³eœ siê w sam¹ porê, przyjacielu. Pozwól, ¿e sprezentujê ci niewielki dowód mojej wdziêcznoœci.}
+{107}{}{Zjawi³aœ siê w sam¹ porê, przyjació³ko. Pozwól, ¿e sprezentujê ci niewielki dowód mojej wdziêcznoœci.}

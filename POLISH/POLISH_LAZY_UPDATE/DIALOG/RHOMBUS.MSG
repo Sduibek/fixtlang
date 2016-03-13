@@ -1,0 +1,160 @@
+{100}{}{Widzisz Rhombusa.}
+{101}{}{Opowiedz mi o sobie.}
+{102}{}{Mo¿esz mi opowiedzieæ historiê Bractwa?}
+{103}{}{S³ysza³eœ jakieœ dobre plotki?}
+{104}{}{Mo¿esz mi coœ powiedzieæ o okolicy?}
+{105}{Rhom1}{Mogê ci w czymœ pomóc?}
+{106}{}{Mogê ci zadaæ kilka pytañ?}
+{107}{}{Nie wygl¹dasz na wojownika.}
+{108}{}{Uuch?}
+{109}{Rhom2}{Tak.}
+{110}{Rhom3}{Ty bezczelny szczeniaku. Przeproœ, to nic ci siê nie stanie.}
+{111}{}{To tylko ¿art. Bardzo przepraszam.}
+{112}{}{Co takiego?}
+{113}{Rhom4}{Czego chcesz?}
+{114}{}{Mogê ci zadaæ kilka pytañ?}
+{115}{}{Taki z ciebie tchórz?}
+{116}{Rhom5}{Jesteœ zaka³¹ Bractwa. Nauczê ciê dobrych manier.}
+{117}{Rhom6}{Nie bêdê na ciebie marnowa³ czasu.}
+{118}{Rhom7}{Jestem Rhombus, dowódca Paladynów. Szkolê tych, którzy chc¹ siê uczyæ.}
+{119}{}{Dobra, mo¿esz mnie nauczyæ kilku rzeczy?}
+{120}{}{O to chodzi? Tak wygl¹da twoje ¿ycie?}
+{121}{}{Czym siê zajmuj¹ Paladyni?}
+{122}{Rhom8}{Kilku rzeczy? Mogê ciê nauczyæ walczyæ... jeœli masz do tego jakiekolwiek predyspozycje. Wielki Mistrz wstrzyma³ jednak szkolenie nowych rekrutów do czasu za¿egnania niebezpieczeñstwa inwazji.}
+{123}{}{Jakiego zagro¿enia?}
+{124}{}{Dlaczego wstrzyma³ szkolenia?}
+{125}{}{Myœlê, ¿e bez problemów uda³oby mi siê pokonaæ ciê w walce.}
+{126}{Rhom9}{Ja nie mogê udzieliæ odpowiedzi na to pytanie. Spotkaj siê z Wielkim Mistrzem jeœli chcesz.}
+{127}{}{Daj spokój, proszê?}
+{128}{}{Dobra, niech bêdzie. Mogê zadaæ jeszcze kilka pytañ?}
+{129}{Rhom10}{Chodz¹ plotki, ¿e zbiera siê jakaœ dziwna armia. Nie powiem nic wiêcej.}
+{130}{}{Daj spokój, ³adnie ciê proszê.}
+{131}{}{Mogê ci jednak zadaæ jeszcze kilka pytañ?}
+{132}{Rhom11}{Nie.}
+{133}{}{Daj spokój, ³adnie ciê proszê.}
+{134}{}{Dobrze. Mogê ci jednak zadaæ jeszcze kilka pytañ?}
+{135}{Rhom12}{Tak. To wszystko.}
+{136}{}{Twoje ¿ycie musi byæ strasznie puste.}
+{137}{}{Naprawdê?}
+{138}{Rhom13}{Nie rozumiesz co to oznacza byæ Paladynem. Szkoda.}
+{139}{}{Jak s¹dzisz, mogê zostaæ paladynem?}
+{140}{}{Bycie rycerzem to coœ g³upiego.}
+{141}{}{Nie, wydaje mi siê, ¿e nie. Mogê ci zadaæ jeszcze kilka pytañ?}
+{142}{Rhom14}{Mo¿liwe. Kiedy si³y inwazyjne zostan¹ zniszczone, przyjdŸ do nas na szkolenie.}
+{143}{}{Tak zrobiê, dziêki.}
+{144}{}{Ty mia³byœ mnie szkoliæ? Bez problemów mogê ciê rozsmarowaæ po ca³ej pod³odze!}
+{145}{Rhom15}{Coœ jeszcze?}
+{146}{}{Tak. Mogê zadaæ jeszcze kilka pytañ?}
+{147}{}{Nie, dziêkujê.}
+{148}{Rhom16}{Zatem ¿egnaj.}
+{149}{Rhom17}{To trwa za d³ugo. Poœwiêcam mój czas na doskonalenie umiejêtnoœci tych, których ju¿ wyszkoli³em.}
+{150}{}{To chyba bardzo nudne.}
+{151}{}{Powa¿nie? Tak wygl¹da twoje ¿ycie?}
+{152}{}{Cholera. Mogê zadaæ jeszcze kilka pytañ?}
+{153}{Rhom18}{Ha ha ha! Zobaczymy.}
+{154}{Rhom19}{Skrybowie kopiuj¹ plany uzbrojenia, a Rycerze je wytwarzaj¹. Paladyni chroni¹ Bractwo przez ró¿nymi zagro¿eniami.}
+{155}{}{Jakimi?}
+{156}{}{O rany, ale¿ to musi byæ nudne.}
+{157}{Rhom20}{Wielu chcia³oby posi¹œæ nasz¹ technologiê. Co tydzieñ odpieramy co najmniej cztery ataki bandytów, albo zwyk³ych ludzi, którzy po prostu chc¹ ukraœæ co siê da.}
+{158}{}{Och. Mogê zadaæ jeszcze kilka pytañ?}
+{159}{Rhom21}{Porozmawiaj z Vree, znajdziesz j¹ w g³ównej bibliotece.}
+{160}{Rhom22}{Nie s³ucham plotek.}
+{161}{}{Daj spokój, tylko jedn¹. Proszê.}
+{162}{}{Dobrze.}
+{163}{Rhom23}{Hub i Gruzy s¹ na po³udnie st¹d; góry s¹ za wschodzie, a na pó³nocy bezludne pustkowie. Kto tam idzie, ten ju¿ nie wraca.}
+{164}{Rhom24}{Od³ó¿ to na miejsce!}
+{165}{Rhom25}{Tak tutaj traktujemy przestêpców...}
+{166}{Rhom26}{Przestañ!}
+{167}{Rhom27}{Kradniesz? Poka¿ê ci co robimy z takimi jak ty...}
+{168}{}{Nie, poczekaj! Pozwól mi wyjaœniæ!}
+{169}{}{No dalej. Poka¿ co potrafisz.}
+{170}{Rhom28}{Dobrze, wyt³umacz siê Kadecie.}
+{171}{}{Tylko siê rozgl¹dam!}
+{172}{}{Przepraszam. Nikt mi nie powiedzia³, ¿e to jest twój pokój.}
+{173}{Rhom29}{Wiêc wyjdŸ, a ja zapomnê o tym drobnym incydencie.}
+{174}{}{Dobrze, dziêkujê.}
+{175}{}{Œwietnie.}
+{176}{Rhom30}{£¿esz Kadecie! Poka¿ê ci jak traktujemy z³odziei...}
+{177}{Rhom32}{Albo brakuje ci lotnoœci umys³u, albo siê ze mnie nabijasz. Tak czy inaczej nie mam dla ciebie czasu.}
+{178}{Rhom33}{Porozmawiaj z Talusem, moim zastêpc¹. On mo¿e ci powiedzieæ coœ wiêcej na ten temat.}
+{179}{Rhom34}{Powiedzia³em...}
+{180}{Rhom35}{Ju¿ ci mówi³em...}
+{181}{Rhom36}{Nie bêdê znowu powtarza³.}
+{182}{Rhom37}{Masz problemy ze s³uchem? Nie zamierzam tego powtarzaæ!}
+{183}{Rhom38}{Ona jest G³ównym Skryb¹. Mo¿na j¹ znaleŸæ w bibliotece.}
+{184}{Rhom39b}{To ja.}
+{185}{}{Talus jest moim zastêpc¹.}
+{186}{Rhom40}{Aa, genera³ Maxson by³ najlepszym dowódc¹ Paladynów w dziejach. Kiedy zosta³ Wielkim Mistrzem, ja przej¹³em obowi¹zki dowódcy.}
+{187}{Rhom41}{Kopiuj¹ plany uzbrojenia i pracuj¹ nad nowymi technologiami. Rycerze wytwarzaj¹, to co wymyœl¹ skrybowie.}
+{188}{Rhom42}{To oni wytwarzaj¹ broñ.}
+{189}{Rhom43}{Hub jest na po³udnie. Handlujemy z nimi.}
+{190}{Rhom44}{Zapytaj Vree. Ona powinna wiedzieæ.}
+{191}{Rhom45}{Nie wolno mi o tym mówiæ. Porozmawiaj z Wielkim Mistrzem.}
+{192}{Rhom46}{Gruzy s¹ daleko na po³udniu. Ale tam znajdziesz tylko przemoc.}
+{193}{Rhom47}{Nic mi o tym nie wiadomo.}
+{194}{Rhom48}{Nigdy o tym nie s³ysza³em.}
+{195}{Rhom49}{Nie wiem nic na ten temat.}
+{200}{}{Jestem tu od niedawna i jeszcze nie wiem jak sprawy stoj¹.}
+{201}{}{Nie muszê siê przed tob¹ t³umaczyæ, maniaku.}
+{202}{}{Dziêkujê. ¯egnaj.}
+{203}{}{IdŸ do diab³a.}
+{204}{}{Drzwi skrzypi¹ przy próbie otwarcia.}
+{205}{}{Twoje zdolnoœci pozwalaj¹ ci na bezszelestne otwarcie szafki i dokonanie kradzie¿y.}
+{206}{}{Kto tam?}
+{207}{}{Ze strachu upuszczasz ³up.}
+{208}{}{Ta szafka nie jest zamkniêta.}
+{209}{}{Wynoœ siê z mojej kwatery!}
+{210}{}{Nie mam nic na sumieniu!}
+
+
+
+{980}{Rhom47}{Nic mi o tym nie wiadomo.}
+{981}{Rhom48}{Nigdy o tym nie s³ysza³em..}
+{982}{Rhom49}{Nie wiem nic na ten temat.}
+
+#
+# Rhombus Tell-Me-Abouts
+#
+
+
+{1000}{}{Vree}
+{1001}{}{Rhombus}
+{1002}{}{Talus}
+{1003}{}{Starsi}
+{1004}{}{Skrybowie}
+{1005}{}{Rycerze}
+{1006}{}{Hub}
+{1007}{}{Taœmy}
+{1008}{}{Armia}
+{1009}{}{Gruzy}
+{1010}{}{Paladyni}
+{1011}{}{Mistrz}
+{1012}{}{Wojna}
+{1013}{}{Eksodus}
+{1014}{}{Dziwna armia}
+{1015}{}{Kupcy}
+{1016}{}{Zaginione karawany}
+{1017}{}{Dzieci Katedry}
+{1018}{}{Kadeci}
+{1019}{}{Procesor}
+
+{1100}{Rhom38}{Ona jest G³ównym Skryb¹. Mo¿na j¹ znaleŸæ w bibliotece.}
+{1101}{Rhom39b}{To ja.}
+{1102}{Rhom39a}{Talus jest moim zastêpc¹.}
+{1103}{Rhom40}{Aa, genera³ Maxson by³ najlepszym dowódc¹ Paladynów w dziejach. Kiedy zosta³ Wielkim Mistrzem, ja przej¹³em obowi¹zki dowódcy.}
+{1104}{Rhom41}{Kopiuj¹ plany uzbrojenia i pracuj¹ nad nowymi technologiami. Rycerze wytwarzaj¹, to co wymyœl¹ skrybowie.}
+{1105}{Rhom42}{To oni wytwarzaj¹ broñ.}
+{1106}{Rhom23}{Hub i Gruzy s¹ na po³udnie st¹d, góry s¹ za wschodzie, a na pó³nocy bezludne pustkowie. Kto tam idzie, ten ju¿ nie wraca.}
+{1107}{Rhom44}{Zapytaj Vree. Ona powinna wiedzieæ.}
+{1108}{Rhom45}{Nie wolno i o tym mówiæ. Porozmawiaj z Wielkim Mistrzem.}
+{1109}{Rhom46}{Gruzy s¹ daleko na po³udniu. Ale tam znajdziesz tylko przemoc.}
+{1110}{Rhom13}{Nie rozumiesz co to oznacza byæ Paladynem. Szkoda.}
+{1111}{Rhom44}{Zapytaj Vree. Ona powinna wiedzieæ.}
+{1112}{Rhom21}{Porozmawiaj z Vree, znajdziesz j¹ w g³ównej bibliotece.}
+{1113}{Rhom21}{Porozmawiaj z Vree, znajdziesz j¹ w g³ównej bibliotece.}
+{1114}{Rhom10}{Chodz¹ plotki, ¿e zbiera siê jakaœ dziwna armia. Nie powiem nic wiêcej.}
+{1115}{Rhom21}{Porozmawiaj z Vree, znajdziesz j¹ w g³ównej bibliotece.}
+{1116}{Rhom47}{Nic mi o tym nie wiadomo.}
+{1117}{Rhom49}{Nie wiem nic na ten temat.}
+{1118}{Rhom21}{Porozmawiaj z Vree, znajdziesz j¹ w g³ównej bibliotece.}
+{1119}{Rhom49}{Nie wiem nic na ten temat.}

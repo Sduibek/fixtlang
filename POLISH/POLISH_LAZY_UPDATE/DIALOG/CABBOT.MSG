@@ -1,0 +1,287 @@
+{100}{}{To Cabbot, kadet Bractwa Stali.}
+{101}{Cab_1}{Witaj w Cytadeli Bractwa Stali. Czy mogê spytaæ, w jakiej sprawie tu przybywasz?}
+{102}{}{Kim jesteœ?}
+{103}{}{Czy mogê ci zadaæ kilka pytañ?}
+{104}{}{Eeee?}
+{105}{}{Chcê siê przy³¹czyæ.}
+{106}{}{Czym siê zajmujesz?}
+{107}{}{Niewa¿ne, dziêki.}
+{108}{Cab_2}{Ee, jestem Cabbot, ale ee, nie odpowiadasz na moje pytanie. Co mogê dla ciebie zrobiæ? }
+{109}{}{Czy mogê zadaæ ci kilka pytañ?}
+{110}{}{Ta, jakbyœ naprawdê chcia³ wiedzieæ.}
+{111}{}{Chcê siê przy³¹czyæ.}
+{112}{}{Czym siê zajmujesz?}
+{113}{}{Niewa¿ne, dziêki.}
+{114}{Cab_4}{To wspaniale! Ee, p-poczekaj tu chwilkê; daj mi sprawdziæ, co musisz zrobiæ!}
+{115}{Cab_5}{Ee, wiêc rozmawia³em z Wielkim Mistrzem, i on powiedzia³, ¿e nie ka¿dy mo¿e siê przy³¹czyæ. On, ee, on powiedzia³, ¿e musisz najpierw ukoñczyæ jak¹œ wyprawê. }
+{116}{}{Na przyk³ad jak¹?}
+{117}{}{Niewa¿ne. Do zobaczenia.}
+{118}{}{Czy ty odby³eœ wyprawê, zanim wst¹pi³eœ do Bractwa?}
+{119}{Cab_5a}{Ee, niezupe³nie. Ale teraz sprawy wygl¹daj¹ odrobinê inaczej. }
+{120}{}{To co to za wyprawa?}
+{121}{}{To powiedz mi, co wygl¹da inaczej.}
+{122}{}{Niewa¿ne, przyjdê kiedy indziej.}
+{123}{Cab_6}{Musisz udaæ siê do ruin Staro¿ytnego Zakonu. To na po³udnie st¹d. Ee, musisz wejœæ do œrodka i przynieœæ z powrotem coœ, co udowodni twój pobyt tam.}
+{124}{}{Sk¹d bêdziecie wiedzieæ, czy to coœ pochodzi z wnêtrza tego miejsca?}
+{125}{}{OK.}
+{126}{}{W ¿yciu, mowy nie ma.}
+{127}{Cab_7}{To miejsce jest zaawansowane technicznie. Wewn¹trz s¹ rzeczy, które zobaczysz po raz pierwszy w ¿yciu. Och, ee, jest tak¿e radioaktywne. Ehem.}
+{128}{}{OK, zrobiê to.}
+{129}{}{Brzmi strasznie. Nie liczcie na mnie.}
+{130}{Cab_9}{Zrobisz to? Naprawdê? Wspaniale! Po prostu przynieœ to tutaj! Powodzenia.}
+{131}{Cab_10}{Eee... to OK. ¯egnaj. }
+{132}{Cab_12}{Có¿, ee, jestem kadetem. Teraz mam za zadanie witaæ ludzi przy wejœciu.}
+{133}{}{Nie brzmi to straszliwie ekscytuj¹co, ale i tak chcê siê przy³¹czyæ do Bractwa.}
+{134}{}{OK, dziêki. Do zobaczenia.}
+{135}{}{Czy mogê ci zadaæ kilka pytañ?}
+{136}{Cab_16}{Có¿, ee, muszê pytaæ. To moje zadanie.}
+{137}{}{Czy mogê ci zadaæ kilka pytañ?}
+{138}{}{Czy mogê siê przy³¹czyæ do Bractwa?}
+{139}{}{Nic ci nie muszê mówiæ. IdŸ po twojego dowódcê.}
+{140}{}{No to ja ju¿ sobie pójdê.}
+{141}{Cab_17}{Przepraszam, naprawdê nie mogê. Za-zakazali mi. ¯egnaj!}
+{142}{Cab_18}{Nie! OdejdŸ!}
+{143}{Cab_19g}{O, witaj ponownie. Wiesz ju¿, czego chcesz?}
+{144}{Cab_19n}{Witaj. Czego teraz chcesz?}
+{145}{}{Odwidzia³o mi siê. Chcê siê przy³¹czyæ do Bractwa.}
+{146}{}{Czy mogê ci zadaæ kilka pytañ?}
+{147}{}{Niewa¿ne. ¯egnaj.}
+{148}{Cab_20}{Robisz sobie ze mnie jaja, nieprawda¿? ¯egnaj!}
+{149}{Cab_21}{OdejdŸ!}
+{150}{}{Przepraszam, jest mi przykro, ¿e siê przeze mnie rozgniewa³eœ. Mo¿emy spróbowaæ od nowa?}
+{151}{}{OK.}
+{152}{Cab_22}{Nie! Myœlê, ¿e próbujesz mnie ok³amaæ. ¯egnaj!}
+{153}{Cab_23}{Hmmm. W porz¹dku, na razie ci uwierzê. To czego chcesz?}
+{154}{}{Odwidzia³o mi siê. Chcê siê przy³¹czyæ do Bractwa.}
+{155}{}{Czy mogê ci zadaæ kilka pytañ?}
+{156}{}{Niewa¿ne. ¯egnaj}
+{157}{Cab_24}{Hej! Jesteœ z powrotem! Czy masz coœ stamt¹d?}
+{158}{}{Ta, pewnie, ¿e tak.}
+{159}{}{Nie, jeszcze nie.}
+{160}{Cab_25}{Œwietnie! Ale... ee... Wielki Mistrz powiedzia³, ¿e musisz mi to daæ, zanim bêdzie ciê wolno wpuœciæ. Przepraszam.}
+{161}{}{OK.}
+{162}{}{Nie, nie mam ochoty.}
+{163}{Cab_27}{To jest wspania³e! Poczekaj, a ja otworzê drzwi.}
+{164}{}{Okay.}
+{165}{Cab_28}{Hmmm... Przykro mi, ale ee, to mo¿e pochodziæ zewsz¹d.}
+{166}{}{Ale...}
+{167}{Cab_30}{W porz¹dku, wiêc ciê wpuszczê. Ale powiem ci, co bêdzie, jak ju¿ to zrobiê. OK? Bêdê w wartowni. Na zewn¹trz mo¿esz wyjœæ samodzielnie, ale z powrotem bêdê musia³ ciê wpuœciæ. A, i Wielki Mistrz chce z tob¹ porozmawiaæ w pokoju wojennym. To na poziomie trzecim.}
+{168}{Cab_31}{Nie musisz k³amaæ. Po prostu wróæ, gdy coœ znajdziesz.}
+{169}{Cab_32}{Có¿, daj mi znaæ, gdy siê to zmieni.}
+{170}{Cab_33g}{Witaj! Chcesz wróciæ do œrodka?}
+{171}{Cab_33b}{Wchodzisz z powrotem?}
+{172}{Cab_33n}{Chcesz wróciæ do œrodka?}
+{173}{}{Tak, proszê.}
+{174}{}{Jeœlibyœ otworzy³ drzwi.}
+{175}{Cab_34g}{Wspaniale! Zobaczymy siê, co?}
+{176}{Cab_34b}{Niech bêdzie.}
+{177}{Cab_34n}{OK.}
+{178}{}{Czym konkretnie siê zajmujesz?}
+{179}{}{S³ysza³eœ ostatnio jakieœ ciekawe pog³oski?}
+{180}{}{¯egnaj, Cabbot.}
+{181}{Cab_35a}{Wal œmia³o.}
+{182}{Cab_36g}{O, witaj! W czym mogê ci pomóc?}
+{183}{Cab_36b}{Czego ci trzeba?}
+{184}{Cab_36n}{Czy mogê ci w czymœ pomóc?}
+{185}{}{Czy mogê ci zadaæ kilka pytañ?}
+{186}{}{Niewa¿ne. ¯egnaj.}
+{187}{Cab_37}{¯egnaj.}
+{188}{Cab_38}{Witam ludzi u wejœcia i decydujê, czy ich wpuœciæ. Ty oraz kupcy to z grubsza jedyne osoby, jakie teraz wchodz¹, poniewa¿ Starsi wydaj¹ siê do czegoœ przygotowywaæ.}
+{189}{}{Czy wiesz, o co mo¿e w tym wszystkim chodziæ?}
+{190}{}{Czemu wpuszczasz kupców?}
+{191}{Cab_39}{Ee... nie wiem, ale ee, s³ysza³em jak Wielki Mistrz k³óci³ siê z innymi Starszymi.}
+{192}{}{Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{193}{}{Dziêki. Jeszcze siê zobaczymy.}
+{194}{Cab_40}{Dlaczego ich wpuszczam? Có¿... musimy zdobywaæ ¿ywnoœæ i inne rzeczy. Wymieniamy nasz¹ broñ na to wszystko.}
+{195}{}{Czemu po prostu sami nie produkujecie ¿ywnoœci?}
+{196}{}{Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{197}{}{Dziêki. Jeszcze siê zobaczymy.}
+{198}{Cab_41}{Ee, no, celem tego miejsca jest szkolenie skrybów i rycerzy. Ka¿dy, kto chce byæ kimœ innym, po prostu st¹d odchodzi.}
+{199}{}{Aha. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{200}{}{Dziêki. Jeszcze siê zobaczymy.}
+{201}{Cab_42}{No có¿, niektórzy kadeci s¹dz¹, ¿e przygotowujemy siê do wojny. To dlatego prawie nikt teraz nie wchodzi. By³em zaskoczony, gdy Wielki Mistrz kaza³ mi ciê wpuœciæ.}
+{202}{}{Dlaczego?}
+{203}{}{Dziêki. Czy mogê zadaæ ci jeszcze kilka pytañ?}
+{204}{}{Dziêki za informacje. Jeszcze siê zobaczymy.}
+{205}{Cab_43}{Nie s¹dzê, ¿eby to nale¿a³o do ciebie.}
+{206}{Cab_44}{Przykro mi, ale bêdê musia³ pójœæ powiedzieæ stra¿nikom.}
+{207}{Cab_45}{Nie s¹dzê, ¿eby wolno by³o ci to robiæ.}
+{208}{Cab_46a}{Och, OK. Jak chcesz.}
+{209}{Cab_47}{Jak mówi³em...}
+{210}{Cab_48}{Có¿, jak mówi³em...}
+{211}{Cab_49}{Jak powiedzia³em wczeœniej...}
+{212}{Cab_50}{No, to tak, jak mówi³em...}
+{213}{Cab_51}{S³uchaj, ee, ni-nie chcê byæ niegrzeczny, ale nie lubiê siê powtarzaæ. OK?}
+{214}{}{Hm, wiesz, naprawdê nie mam czasu siedzieæ tu i na okr¹g³o siê powtarzaæ. Rozumiesz, prawda?}
+{215}{Cab_53}{No, to ja.}
+{216}{Cab_54}{To zwierzchniczka skrybów. Zwykle jest w bibliotece. ZejdŸ do piwnicy i, ee, to po twojej prawej.}
+{217}{Cab_55}{Rycerze mówi¹, ¿e potrafi byæ twardym zwierzchnikiem, ale ja tego osobiœcie nie doœwiadczy³em, bo ee, studiujê u Vree, ¿eby zostaæ skryb¹.}
+{218}{Cab_56}{Genera³ Maxson by³ wczeœniej Mistrzem Rycerzy. Myœlê, ¿e niezbyt podoba mu siê bycie Wielkim Mistrzem.}
+{219}{Cab_57}{Oni podejmuj¹ tu wszystkie decyzje, od tego, co jemy, do tego, jakie mamy obowi¹zki. I ee, czêsto siê te¿ k³óc¹. Zdaje siê, ¿e Mistrz Rycerzy musi czêsto interweniowaæ.}
+{220}{Cab_58}{OK, có¿, skrybowie s¹ kustoszami wszelkich historii oraz schematów broni, któr¹ wytwarzamy. Ja zwyczajnie kocham ksi¹¿ki; dlatego chcê do nich nale¿eæ... do skrybów, znaczy siê.}
+{221}{Cab_59}{Có¿, widzisz, to ci, którzy pragn¹ staæ siê obroñcami Bractwa. Nie ma ich wielu, ale trenuj¹ ca³e ¿ycie, ¿eby zostaæ paladynami.}
+{222}{Cab_60}{To ta osada na po³udnie st¹d, prawda? Tamtejsi kupcy przybywaj¹ tu na okr¹g³o, ale ja sam nigdy tam nie by³em. Rany, nie wiedzia³bym, co robiæ w takim wielkim mieœcie.}
+{223}{Cab_61}{Chyba lepiej porozmawiaj z Vree. Ona ci o nich opowie.}
+{224}{Cab_62}{Wymieniaj¹ siê z nami na ¿ywnoœæ i inne rzeczy. My dajemy im broñ. Teraz ju¿ nie przychodz¹ zbyt czêsto, ale ee, nie wiem dlaczego.}
+{225}{Cab_63}{Rety, to d³uga opowieœæ. PójdŸ do biblioteki i porozmawiaj z Vree. Ona bêdzie ci w stanie wskazaæ, gdzie s¹ taœmy z histori¹.}
+{226}{Cab_64}{Och, wiêc podczas Exodusu Bractwo rozpad³o siê na dwie grupy. Grupa, która siê oderwa³a, obrabowa³a pozosta³ych z niektórych broni, i-i posz³a na po³udnie. Potem, mniej wiêcej dziesiêæ lat temu, wys³aliœmy rycerzy na ich poszukiwania, i wszystko, co znaleŸli, to ruiny. Nikt nie wie, co siê sta³o.}
+{227}{Cab_65}{Staro¿ytne Bractwo przyby³o z jakiegoœ miejsca na pó³nocy dawno, dawno temu. Nazywamy to Wielkim Exodusem. Mo¿esz o tym wiêcej poczytaæ, jak poprosisz Vree w bibliotece.}
+{228}{Cab_66}{Eee... nic o tym nie wiem.}
+{229}{Cab_67}{Hmm... nie wiem. Mo¿esz spróbowaæ zapytaæ kogoœ wa¿niejszego ode mnie.}
+{230}{Cab_68}{Nie wiem, co to jest. Mo¿esz spróbowaæ popytaæ w okolicy.}
+{231}{}{IdŸ porozmawiaæ z Mathi¹. Ona powie ci o tym wiêcej.}
+{232}{}{You earn 2000 experience for becoming an Initiate of the Brotherhood of Steel.}
+{233}{}{Nie chcemy tu takich jak ty. OdejdŸ!}
+#
+# new for Fallout Fixt:
+#
+{234}{}{Is this what they're looking for? (You show him the holodisk you found.)}
+#
+#
+# Tell-Me-Abouts
+#
+#
+{980}{Cab_66}{Uhh... I don't know anything about that. Entry 980}
+{981}{Cab_67}{Hmm... nie wiem. Mo¿esz spróbowaæ zapytaæ kogoœ wa¿niejszego ode mnie.}
+{982}{Cab_68}{Nie wiem, co to jest. Mo¿esz spróbowaæ popytaæ w okolicy.}
+{983}{Cab_66}{Uhh... I don't know anything about that. Entry 983}
+{984}{Cab_66}{Uhh... I don't know anything about that. Entry 984}
+{985}{Cab_66}{Uhh... I don't know anything about that. Entry 985}
+{986}{Cab_66}{Uhh... I don't know anything about that. Entry 986}
+{987}{Cab_66}{Uhh... I don't know anything about that. Entry 987}
+{988}{Cab_66}{Uhh... I don't know anything about that. Entry 988}
+{989}{Cab_66}{Uhh... I don't know anything about that. Entry 989}
+{990}{Cab_66}{Uhh... I don't know anything about that. Entry 990}
+{991}{Cab_66}{Uhh... I don't know anything about that. Entry 991}
+{992}{Cab_66}{Uhh... I don't know anything about that. Entry 992}
+{993}{Cab_66}{Uhh... I don't know anything about that. Entry 993}
+{994}{Cab_66}{Uhh... I don't know anything about that. Entry 994}
+{995}{Cab_66}{Uhh... I don't know anything about that. Entry 995}
+{996}{Cab_66}{Uhh... I don't know anything about that. Entry 996}
+{997}{Cab_66}{Uhh... I don't know anything about that. Entry 997}
+{998}{Cab_66}{Uhh... I don't know anything about that. Entry 998}
+{999}{Cab_66}{Uhh... I don't know anything about that. Entry 999}
+#
+{1000}{}{kadet}
+{1001}{}{Vree}
+{1002}{}{Rhombus}
+{1003}{}{Starszy}
+{1004}{}{Starsi}
+{1005}{}{skrybowie}
+{1006}{}{rycerze}
+{1007}{}{Hub}
+{1008}{}{taœmy}
+{1009}{}{Kupcy}
+{1010}{}{Bractwo}
+{1011}{}{Staro¿ytny}
+{1012}{}{Exodus}
+{1013}{}{Cabbot}
+{1014}{}{Zakon}
+{1015}{}{paladyni}
+{1016}{}{Mistrz}
+{1017}{}{wojna}
+{1018}{}{armia}
+{1019}{}{karawany}
+{1020}{}{Katedra}
+{1021}{}{procesor}
+{1022}{}{Entry 1022}
+{1023}{}{Entry 1023}
+{1024}{}{Entry 1024}
+{1025}{}{Entry 1025}
+{1026}{}{Entry 1026}
+{1027}{}{Entry 1027}
+{1028}{}{Entry 1028}
+{1029}{}{Entry 1029}
+{1030}{}{Entry 1030}
+{1031}{}{Entry 1031}
+{1032}{}{Entry 1032}
+{1033}{}{Entry 1033}
+{1034}{}{Entry 1034}
+{1035}{}{Entry 1035}
+{1036}{}{Entry 1036}
+{1037}{}{Entry 1037}
+{1038}{}{Entry 1038}
+{1039}{}{Entry 1039}
+{1040}{}{Entry 1040}
+{1041}{}{Entry 1041}
+{1042}{}{Entry 1042}
+{1043}{}{Entry 1043}
+{1044}{}{Entry 1044}
+{1045}{}{Entry 1045}
+{1046}{}{Entry 1046}
+{1047}{}{Entry 1047}
+{1048}{}{Entry 1048}
+{1049}{}{Entry 1049}
+{1050}{}{Entry 1050}
+{1051}{}{Entry 1051}
+{1052}{}{Entry 1052}
+{1053}{}{Entry 1053}
+{1054}{}{Entry 1054}
+{1055}{}{Entry 1055}
+{1056}{}{Entry 1056}
+{1057}{}{Entry 1057}
+{1058}{}{Entry 1058}
+{1059}{}{Entry 1059}
+{1060}{}{Entry 1060}
+{1061}{}{Entry 1061}
+{1062}{}{Entry 1062}
+{1063}{}{Entry 1063}
+{1064}{}{Entry 1064}
+{1065}{}{Entry 1065}
+{1066}{}{Entry 1066}
+{1067}{}{Entry 1067}
+{1068}{}{Entry 1068}
+{1069}{}{Entry 1069}
+{1070}{}{Entry 1070}
+{1071}{}{Entry 1071}
+{1072}{}{Entry 1072}
+{1073}{}{Entry 1073}
+{1074}{}{Entry 1074}
+{1075}{}{Entry 1075}
+{1076}{}{Entry 1076}
+{1077}{}{Entry 1077}
+{1078}{}{Entry 1078}
+{1079}{}{Entry 1079}
+{1080}{}{Entry 1080}
+{1081}{}{Entry 1081}
+{1082}{}{Entry 1082}
+{1083}{}{Entry 1083}
+{1084}{}{Entry 1084}
+{1085}{}{Entry 1085}
+{1086}{}{Entry 1086}
+{1087}{}{Entry 1087}
+{1088}{}{Entry 1088}
+{1089}{}{Entry 1089}
+{1090}{}{Entry 1090}
+{1091}{}{Entry 1091}
+{1092}{}{Entry 1092}
+{1093}{}{Entry 1093}
+{1094}{}{Entry 1094}
+{1095}{}{Entry 1095}
+{1096}{}{Entry 1096}
+{1097}{}{Entry 1097}
+{1098}{}{Entry 1098}
+{1099}{}{Entry 1099}
+#
+{1100}{Cab_53}{No, to ja.}
+{1101}{Cab_54}{To zwierzchniczka skrybów. Zwykle jest w bibliotece. ZejdŸ do piwnicy i, ee, to po twojej prawej.}
+{1102}{Cab_55}{Rycerze mówi¹, ¿e potrafi byæ twardym zwierzchnikiem, ale ja tego osobiœcie nie doœwiadczy³em, bo ee, studiujê u Vree, ¿eby zostaæ skryb¹.}
+{1103}{Cab_56}{Genera³ Maxson by³ wczeœniej Mistrzem Rycerzy. Myœlê, ¿e niezbyt podoba mu siê bycie Wielkim Mistrzem.}
+{1104}{Cab_57}{Oni podejmuj¹ tu wszystkie decyzje, od tego, co jemy, do tego, jakie mamy obowi¹zki. I ee, czêsto siê te¿ k³óc¹. Zdaje siê, ¿e Wielkim Mistrz musi czêsto interweniowaæ.}
+{1105}{Cab_58}{OK, có¿, skrybowie s¹ kustoszami wszelkich historii oraz schematów broni, któr¹ wytwarzamy. Ja zwyczajnie kocham ksi¹¿ki; dlatego chcê do nich nale¿eæ... do skrybów, znaczy siê.}
+{1106}{Cab_59}{Có¿, widzisz, to ci, którzy pragn¹ staæ siê obroñcami Bractwa. Nie ma ich wielu, ale trenuj¹ ca³e ¿ycie, ¿eby zostaæ paladynami.}
+{1107}{Cab_60}{To ta osada na po³udnie st¹d, prawda? Tamtejsi kupcy przybywaj¹ tu na okr¹g³o, ale ja sam nigdy tam nie by³em. Rany, nie wiedzia³bym, co robiæ w takim mieœcie.}
+{1108}{Cab_61}{Chyba lepiej porozmawiaj z Vree. Ona ci o nich opowie.}
+{1109}{Cab_62}{Wymieniaj¹ siê z nami na ¿ywnoœæ i inne rzeczy. My dajemy im broñ. Teraz ju¿ nie przychodz¹ zbyt czêsto, ale ee, nie wiem dlaczego.}
+{1110}{Cab_63}{Rety, to d³uga opowieœæ. PójdŸ do biblioteki i porozmawiaj z Vree. Ona bêdzie ci w stanie wskazaæ, gdzie s¹ taœmy z histori¹.}
+{1111}{Cab_64}{Och, wiêc podczas Exodusu Bractwo rozpad³o siê na dwie grupy. Grupa, która siê oderwa³a, obrabowa³a pozosta³ych z niektórych broni, i-i posz³a na po³udnie. Potem, mniej wiêcej dziesiêæ lat temu, wys³aliœmy rycerzy na ich poszukiwania, i wszystko, co znaleŸli, to ruiny. Nikt nie wie, co siê sta³o.}
+{1112}{Cab_65}{Staro¿ytne Bractwo przyby³o z jakiegoœ miejsca na pó³nocy dawno, dawno temu. Nazywamy to Wielkim Exodusem. Mo¿esz o tym wiêcej poczytaæ, jak poprosisz Vree w bibliotece.}
+{1113}{Cab_53}{No, to ja.}
+{1114}{Cab_64}{Och, wiêc podczas Exodusu Bractwo rozpad³o siê na dwie grupy. Grupa, która siê oderwa³a, obrabowa³a pozosta³ych z niektórych broni, i-i posz³a na po³udnie. Potem, mniej wiêcej dziesiêæ lat temu, wys³aliœmy rycerzy na ich poszukiwania, i wszystko, co znaleŸli, to ruiny. Nikt nie wie, co siê sta³o.}
+{1115}{Cab_20}{Robisz sobie ze mnie jaja, nieprawda¿? ¯egnaj!}
+{1116}{Cab_67}{Hmm... nie wiem. Mo¿esz spróbowaæ zapytaæ kogoœ wa¿niejszego ode mnie.}
+{1117}{Cab_63}{Rety, to d³uga opowieœæ. PójdŸ do biblioteki i porozmawiaj z Vree. Ona bêdzie ci w stanie wskazaæ, gdzie s¹ taœmy z histori¹.}
+{1118}{Cab_67}{Hmm... nie wiem. Mo¿esz spróbowaæ zapytaæ kogoœ wa¿niejszego ode mnie.}
+{1119}{Cab_62}{Wymieniaj¹ siê z nami na ¿ywnoœæ i inne rzeczy. My dajemy im broñ. Teraz ju¿ nie przychodz¹ zbyt czêsto, ale ee, nie wiem dlaczego.}
+{1120}{Cab_66}{Eee... nic o tym nie wiem.}
+{1121}{Cab_61}{Chyba lepiej porozmawiaj z Vree. Ona ci o nich opowie.}

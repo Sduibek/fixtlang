@@ -1,0 +1,11 @@
+# Hot spots are intense concentrations of radiation. Consider Neutral or Male.
+# Tone of Voice should be automated and flat.
+
+# Lines are "You sustain [2 or more] points of radiation damage"
+{100}{}{Wskutek napromieniowania tracisz }
+{101}{}{ PW.}
+{102}{}{Wskutek napromieniowania tracisz }
+{103}{}{ PW.}
+{104}{}{Pobliski obszar cechuje du¿e natê¿enie promieniowania.}
+{105}{}{Wskutek napromieniowania tracisz }
+{106}{}{ PW.}

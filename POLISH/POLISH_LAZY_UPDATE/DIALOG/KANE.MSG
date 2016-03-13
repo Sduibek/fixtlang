@@ -1,0 +1,366 @@
+{100}{}{To Kane.}
+{101}{}{Co to za robota, i ile p³atna?}
+{102}{}{Mam pracowaæ w tym zasyfionej dziurze? Chyba ¿artujesz.}
+{103}{}{A jak¿e, i wygl¹da na to, ¿e muszê ci skopaæ dupê, choæby tylko z tego powodu.}
+{104}{}{Wybacz, mo¿e póŸniej.}
+{105}{}{Nie, dziêki.}
+{106}{}{Tuk?}
+{107}{}{Zdaje siê, ¿e relacje by³y b³êdne. Spadaj. Nie wynajmujemy ³achów.}
+{108}{}{To nie jest robota dla ³achów. Musisz za³atwiæ "to" szybko i czysto. Szef poda ci szczegó³y, ale mogê ci powiedzieæ, ¿e to wiêksza kasa, ni¿ da siê zarobiæ w miesi¹c przy karawanach, lecz pod warunkiem, ¿e wystarczaj¹co dobrze znasz siê na rzeczy. Niezbyt przepadamy za pora¿kami, jeœli wiesz, co mam na myœli.}
+{109}{}{Brzmi nieŸle.}
+{110}{}{Akurat teraz nie mogê. Jeszcze do tego wrócimy, OK?}
+{111}{}{Kogo mam zabiæ?}
+{112}{}{Nie, dziêki. Nie potrzebujê forsy.}
+{113}{}{Na pewno znasz regu³y naszego biznesu, wiêc pozwól, ¿e powiem tylko, i¿ w twoim najlepiej pojêtym interesie bêdzie zachowanie tylko dla siebie tego, co teraz us³yszysz. Idziemy?}
+{114}{}{Ze wzglêdu na twoje dobro, mam nadziejê ¿e to mia³ byæ ¿art. Nie denerwuj nas, bo po¿a³ujesz.}
+{115}{}{Jasne. No to na czym polega ta "praca"?}
+{116}{}{Ta, jak tam sobie chcesz, twardzielu.}
+{117}{}{Chyba mnie nie zrozumia³eœ. Pozwól, ¿e ci to objaœniê. Je¿eli nie bêdziesz siê zachowywaæ uprzejmie, to umrzesz, twardzielu.}
+{118}{}{Chyba mnie nie zrozumia³aœ. Pozwól, ¿e ci to objaœniê. Je¿eli nie bêdziesz siê zachowywaæ uprzejmie, to umrzesz, twardzielko.}
+{119}{}{Nie, pozwól, ¿e ja ci objaœniê - jak ze mn¹ zadrzesz, to zrobiê sobie kalosza z twojej dupy.}
+{120}{}{OK. Chwytam. No to co mam dla ciebie zrobiæ?}
+{121}{}{Pomówiê z tob¹ póŸniej. Teraz muszê ju¿ iœæ.}
+{123}{}{Och, ale¿ proszê. Wprost nie bêdziemy mogli siê tego doczekaæ.}
+{124}{}{Ale¿ oczywiœcie; dobrego dnia.}
+{125}{}{Nie potrzebujesz forsy? Na pewno b³aznujesz, bo z tego, co o tobie s³ysza³em, praca, któr¹ mam dla ciebie, mo¿e ci sprawiæ przyjemnoœæ.}
+{126}{}{Naprawdê? Mo¿e mnie to zainteresowaæ, mów dalej.}
+{127}{}{Nie, dziêki.}
+{128}{}{Jeszcze do tego wrócimy, OK?}
+{129}{}{To... Zechcesz mi towarzyszyæ na dó³? Tutaj jest zbyt wiele uszu.}
+{130}{}{Jasne.}
+{131}{}{Nie interesuje mnie to.}
+{132}{}{Nie teraz, ale jeszcze do tego wrócimy, OK?}
+{133}{}{OdejdŸ, bo brakuje mi cierpliwoœci.}
+{134}{}{Cenisz sobie twoje ¿ycie?}
+{135}{}{Da³em ci ju¿ szansê, teraz spadaj.}
+{136}{}{Szukasz k³opotów?}
+{137}{}{Ty zwyczajnie nie potrafisz siê niczego nauczyæ, prawda? Zaraz jednak wpoisz sobie odrobinê szacunku.}
+{138}{}{S³ysza³em o tobie. Ludzie mówi¹, ¿e jest z ciebie naprawdê wredny skurwysyn. Je¿eli reflektujesz na trochê pracy, to móg³bym ciê z kimœ umówiæ. Jesteœ zainteresowany?}
+{139}{}{S³ysza³em o tobie. Ludzie mówi¹, ¿e jest z ciebie naprawdê wredna suka. Je¿eli reflektujesz na trochê pracy, to móg³bym ciê z kimœ umówiæ. Jesteœ zainteresowana?}
+{140}{}{S³ysza³em o tobie. To tobie uda³o siê za³atwiæ Killiana w Z³omowie, niez³a robota. Gizmo musia³ ci za to dobrze zap³aciæ. Co ciê sprowadza do Hubu, reflektujesz na trochê pracy?}
+{141}{}{S³ysza³em o tobie. To tobie uda³o siê za³atwiæ Gizma w Z³omowie. Killian musia³ ci zap³aciæ niez³¹ sumkê za tê robotê. Szukasz tutaj mo¿e jakiejœ pracy?}
+{142}{}{S³ysza³em o tobie. To ty jesteœ t¹ suk¹, która za³atwi³a Killiana i Gizma. To dopiero sposób na rozwi¹zanie problemu... No wiêc co ciê sprowadza do Soko³a Maltañskiego? Reflektujesz na trochê pracy?}
+{143}{}{S³ysza³em o tobie. To ty jesteœ tym skurwielem, który za³atwi³ Killiana i Gizma. To dopiero sposób na rozwi¹zanie problemu... No wiêc co ciê sprowadza do Soko³a Maltañskiego? Reflektujesz na trochê pracy?}
+{144}{}{S³ysza³em o tobie. Wyrabiasz sobie ca³kiem niez³¹ markê. Co ciê sprowadza do Hubu?}
+{145}{}{Szukam hydroprocesora.}
+{146}{}{Muszê pomówiæ z Kafarem.}
+{147}{}{Jesteœ w³aœcicielem tej knajpy? }
+{148}{}{Jestem tu, by skopaæ ci dupê.}
+{149}{}{Chyba muszê ci teraz zrobiæ krzywdê.}
+{150}{}{Kiedy z tob¹ skoñczê, zdrowie nie bêdzie ju¿ wiêcej twoj¹ trosk¹.}
+{151}{}{Oczyszczam œwiat z wszelkiego z³a!}
+{152}{}{Muszê iœæ, czeœæ.}
+{153}{}{Wystarczy, czeœæ.}
+{154}{}{Tuk?}
+{155}{}{Barooka!}
+{156}{}{Hydroprocesor? Nigdy o tym nie s³ysza³em, my sprzedajemy tylko napoje. Jeœli masz ochotê coœ przegryŸæ, zajrzyj do Iguan Boba.}
+{157}{}{To urz¹dzenie elektroniczne, które reguluje system filtracyjny uzdatnialni wody i monitoruje produkt wyjœciowy pod wzglêdem zanieczyszczeñ. Mój jest zepsuty, i szukam dla niego zamiennika.}
+{158}{}{Nie, to niewielkie urz¹dzenie, które steruje uzdatnialni¹ wody.}
+{159}{}{Mam dla ciebie kolejne pytanie... }
+{160}{}{OK, dziêki. Czeœæ.}
+{161}{}{Czy ja wygl¹dam na kupca? Przestañ marnowaæ mój czas.}
+{162}{}{Mo¿esz spróbowaæ sprawdziæ u Kupców Wodnych. S¹ na po³udnie od Targu. Nie sposób ich przegapiæ. Ich budynki otaczaj¹ wielk¹ wie¿ê ciœnieñ.}
+{163}{}{Ty? To najzabawniejsza rzecz, jak¹ kiedykolwiek zdarzy³o mi siê us³yszeæ.}
+{164}{}{Œwiat wyda ci siê naprawdê zabawny, kiedy skoñczê przemodelowywaæ ci gêbê!}
+{165}{}{Zobaczymy, kto siê bêdzie œmia³, kiedy ostygnie krew.}
+{166}{}{Myœlisz, ¿e jesteœ w stanie mnie za³atwiæ? Mo¿esz mieæ krzepê, ale to nie pomo¿e ci uchyliæ siê przed kul¹.}
+{167}{}{Masz racjê, bardzo ciê przepraszam. Proszê, nie strzelaj do mnie.}
+{168}{}{Rozumiem. Musisz siê chowaæ za spluw¹, nieprawda¿?}
+{169}{}{¯a³osne. Mo¿e powinienem ci po prostu w³adowaæ teraz kulê w ³eb i zakoñczyæ twoj¹ niedolê. Co ty na to, chcesz mieæ now¹ dziurê w tej twojej bezmózgiej dyni?}
+{170}{}{Przepraszam. To naprawdê nie by³o na serio. Proszê, nie strzelaj.}
+{171}{}{Potrafisz mnie za³atwiæ tylko ze spluw¹? Boisz siê, ¿e bez niej skopiê ci dupê?}
+{172}{}{Co? Boisz siê takiej ma³ej dziewczynki jak ja, musisz siê pos³ugiwaæ spluw¹? }
+{173}{}{Pewnie.}
+{174}{}{Miarka siê przebra³a! Je¿eli uwa¿asz, ¿e wiesz, co to jest ból i cierpienie, to poczekaj, a¿ z tob¹ skoñczê! }
+{175}{}{Trzymaj tego burka pod kontrol¹, albo bêdzie trupem. }
+{176}{}{Towarzystwa do tego nie mieszaj. }
+{177}{}{Towarzystwa do tego nie mieszaj, albo zgin¹. }
+{178}{}{Cofnijcie siê, ch³opaki, on jest mój.}
+{179}{}{Cofnijcie siê, ch³opaki, ona jest moja.}
+{180}{}{Rozczarowujesz mnie. Wydawa³o mi siê, ¿e jest z ciebie wiêkszy twardziel.}
+{181}{}{Chowaæ? Nie muszê siê za niczym chowaæ, i NIE potrzebujê spluwy, ¿eby sobie z tob¹ poradziæ. }
+{182}{}{Trzymaj tego burka pod kontrol¹, albo bêdzie trupem. }
+{183}{}{Towarzystwa do tego nie mieszaj. }
+{184}{}{Towarzystwa do tego nie mieszaj, albo zgin¹. }
+{185}{}{[Kane odwraca siê przez ramiê.] Cofnijcie siê, ch³opaki, on jest mój.}
+{186}{}{[Kane odwraca siê przez ramiê.] Cofnijcie siê, ch³opaki, ona jest moja.}
+{187}{}{Twarde s³owa, maluchu. Zróbmy tak - od³o¿ê moje zabawki, i zobaczymy, kto na koñcu bêdzie sta³ na nogach.}
+{188}{}{Twarde s³owa, dziewczynko. Zróbmy tak - od³o¿ê moje zabawki, i zobaczymy, kto na koñcu bêdzie sta³ na nogach.}
+{189}{}{Przepraszam. To naprawdê nie by³o na serio. Proszê, nie rób mi krzywdy.}
+{190}{}{No chodŸ.}
+{191}{}{OK, ale bêdzie mi przykro, jak doprowadzê ciê do ³ez.}
+{192}{}{Nie, dziêki. Nie mam czasu, czeœæ.}
+{193}{}{M¹drze zrobisz, jak po tych s³owach nie bêdziesz siê do mnie odwracaæ plecami. Nale¿y mi siê od ciebie wdziêcznoœæ za to, ¿e jestem tak wyrozumia³¹ osob¹... tym razem. Do naszego kolejnego spotkania.}
+{194}{}{Sprawi mi to przyjemnoœæ. }
+{195}{}{Trzymaj tylko tego burka pod kontrol¹, albo bêdzie trupem.}
+{196}{}{Tylko towarzystwa do tego nie mieszaj.}
+{197}{}{Tylko towarzystwa do tego nie mieszaj, albo zgin¹. }
+{198}{}{[Kane odwraca siê przez ramiê.] Cofnijcie siê, ch³opaki. Ona jest moja.}
+{199}{}{[Kane odwraca siê przez ramiê.] Cofnijcie siê, ch³opaki. On jest mój.}
+{200}{}{Oczyszczasz? To nader mi³o z twojej strony, ale pojêcie "z³a" jest bardzo subiektywne. Coœ lub ktoœ, kogo ty mo¿esz uwa¿aæ za z³o, mo¿e równie dobrze byæ jego przeciwieñstwem dla kogoœ innego.}
+{201}{}{Tak, zgadzam siê z tob¹, lecz czy to oznacza, ¿e mamy siedzieæ z za³o¿onymi rêkoma tylko dlatego, ¿e nie mamy pewnoœci?}
+{202}{}{To œmieszne. Co jest z³e, jest z³e. Ka¿dy, kto twierdzi inaczej, zwyczajnie jest g³upi.}
+{203}{}{Jak tam sobie chcesz. To by³ tylko ¿art.}
+{204}{}{Szczerze na to liczê. Mamy na œwiecie doœæ problemów bez zaœlepionego fanatyka, który gania po okolicy, wszystkich morduj¹c.}
+{205}{}{Niedobrze. Zaœlepiony fanatyk to rzeczywiœcie niebezpieczna osoba. Mam nadziejê, ¿e twój pobyt w Hubie nie bêdzie d³ugi. Niezbyt przepadamy za morderstwami, które nie s¹ autoryz... za jakimikolwiek morderstwami. Dobrego dnia.}
+{206}{}{Nie.}
+{207}{}{Zgrabna odpowiedŸ, debilu. Kto tu rz¹dzi?}
+{208}{}{A kto nim jest?}
+{209}{}{Debilu? Czy masz jakiekolwiek pojêcie, z kim rozmawiasz? Ze wzglêdu na twoje dobro, mam nadziejê, ¿e nie. Nie jestem "w³aœcicielem" Soko³a Maltañskiego, ale to JA tu rz¹dzê. Mów, czego chcesz, zanim puszcz¹ mi nerwy.}
+{210}{}{Wiem, kim jesteœ, i wierz mi, ty JESTEŒ debilem.}
+{211}{}{Och, przepraszam. Kto jest w³aœcicielem tego lokalu?}
+{212}{}{Zobaczymy, kto nim jest. ¯yczê "mi³ego" dnia.}
+{213}{}{Jeœli nie wiesz, to lepiej nie pytaj. Mo¿e ci to nie wyjœæ na zdrowie.}
+{214}{}{Na jaki temat?}
+{215}{}{Roboty.}
+{216}{}{To tajemnica.}
+{217}{}{To nie twoja troska. Teraz poka¿ mi drogê do niego.}
+{218}{}{Nie przeginaj, kole¿ko, bo spotkasz Kafara w worku. Têdy, i pilnuj siê. Bêdê ciê mia³ na oku.}
+{219}{}{Nie przeginaj, paniusiu, bo spotkasz Kafara w worku. Têdy, i pilnuj siê. Bêdê ciê mia³ na oku.}
+{220}{}{S¹dzê, ¿e to jednak "moja" troska, i nie s¹dzê, ¿ebym mia³ ci coœ pokazaæ... o ile nie opuœci ciê szczêœcie. Teraz sp³ywaj.}
+{221}{}{Wybacz, ale wszystko, co masz do powiedzenia Kafarowi, mo¿na powiedzieæ mnie. Jestem jego praw¹ rêk¹, i nie dzieje siê tu nic, czego byœmy obaj nie byli w pe³ni œwiadomi.}
+{222}{}{Chodzi o robotê.}
+{223}{}{Niestety, obowi¹zuje mnie przysiêga dochowania tajemnicy. Mogê to powiedzieæ tylko Kafarowi.}
+{224}{}{Có¿, no to siê z nim nie zobaczysz.}
+{225}{}{Kto ciê tu przys³a³?}
+{226}{}{Beth.}
+{227}{}{Lorenzo.}
+{228}{}{Loxley.}
+{229}{}{Szeryf.}
+{230}{}{Nikt.}
+{231}{}{Jaka Beth?}
+{232}{}{Wiesz jaka.}
+{233}{}{Nie powiedzia³a mi nazwiska. Prowadzi Sklep z Broni¹.}
+{234}{}{ZejdŸ mi z oczu. Nie mam czasu na twoje zgadywanki.}
+{235}{}{Wiêc z nim siê zobaczysz.}
+{236}{}{Powiedz naszemu przyjaznemu szeryfowi Greene'owi, ¿e terminarz Kafara wygl¹da na nieco wype³niony, i ¿e powinien spróbowaæ ponownie za kilka miesiêcy. Przykro mi, ale s¹dzê, ¿e musisz st¹d odejœæ... na dobre.}
+{237}{}{Nie s¹dzê, ¿eby ona ciê tu przys³a³a. Proszê odejœæ.}
+{238}{}{Naprawdê? S¹ gotowi przejœæ pod nasz¹ ochronê? Nale¿ysz do nich?}
+{239}{}{Nie wiem, o czym mówisz. On po prostu wspomnia³, ¿e Kafar mo¿e mieæ dla mnie jak¹œ pracê.}
+{240}{}{Ja? Do tych z³odziei, nigdy. Wolê uwa¿aæ na mój ty³ek, ni¿ na sakiewkê.}
+{241}{}{Wy mielibyœcie ochraniaæ nas? NIGDY!}
+{242}{}{S³uchaj, koleœ, szukam po prostu jakiejœ dobrej, czystej, uczciwej roboty.}
+{243}{}{Powa¿nie? Có¿, no to szukasz jej w z³ym miejscu, bo Hub na pewno nie jest uczciwy. Wracaj do tej obojêtnie jakiej dziury, z której uda³o ci siê wype³zn¹æ. Bêdzie ci tam lepiej.}
+{244}{}{Zgadzam siê z tym pogl¹dem. Có¿ wiêc, idŸ za mn¹, to zobaczymy, jaki mo¿e byæ z ciebie po¿ytek dla nas. Pamiêtaj tylko, ¿e w twoim najlepiej pojêtym interesie bêdzie zachowanie dla siebie wszystkiego, co bêdzie do ciebie mówione.}
+{245}{}{To mo¿liwe. Czy jesteœ cz³onkiem tego ich "Krêgu Z³odziei"?}
+{246}{}{Tak.}
+{247}{}{Nie.}
+{248}{}{No có¿, przykro mi, ale nie pracujemy z twoimi ma³ymi przyjació³mi. Ledwo tolerujemy ich istnienie, i nigdy nie bêdziemy z nimi wspó³pracowaæ.}
+{249}{}{Có¿ wiêc. Mimo wszystko mo¿e byæ z ciebie po¿ytek. Pamiêtaj tylko, ¿e w twoim najlepiej pojêtym interesie bêdzie zachowanie dla siebie wszystkiego, co bêdzie do ciebie mówione.}
+{250}{}{Mo¿e mieæ. Jakiego rodzaju pracy szukasz?}
+{251}{}{Czy potrzebujecie kolejnego stra¿nika?}
+{252}{}{Ach, nic konkretnego. Tylko siê dowiadujê.}
+{253}{}{Jakiejkolwiek. Jeœli coœ jest dobrze p³atne, podejmê siê tego.}
+{254}{}{Jakiejkolwiek, która nie wpakuje mnie w k³opoty z prawem.}
+{255}{}{Spróbuj mo¿e u kupców. Podobno ca³kiem dobrze p³ac¹.}
+{256}{}{Nie, chyba sobie poradzimy. ¯yczê ci mi³ego dnia.}
+{257}{}{No, to w³aœnie lubiê s³yszeæ. S¹dzê, ¿e mimo wszystko mo¿emy zostaæ przyjació³mi. Pozwól, ¿e zaprowadzê ciê na dó³. Pamiêtaj tylko, ¿e w twoim najlepiej pojêtym interesie bêdzie zachowanie dla siebie wszystkiego, co bêdzie do ciebie mówione.}
+{258}{}{Dobrze. IdŸ za mn¹, ale pamiêtaj, ¿e w twoim najlepiej pojêtym interesie bêdzie zachowanie dla siebie wszystkiego, co bêdzie do ciebie mówione.}
+{259}{}{Jasne, ¿e tak, ¿egnam... A, i przy okazji. Nigdy wiêcej nie próbuj mnie ok³amaæ, nie lubiê, kiedy ktoœ to robi. Niewielu ktosiów do¿y³o, by wys³uchaæ tej rady.}
+{260}{}{Cz³owiek czynu. Podoba mi siê to, nawet jeœli masz pojebane w g³owie.}
+{261}{}{Kobieta czynu. Podoba mi siê to, nawet jeœli masz pojebane w g³owie.}
+{262}{}{Ta, czego chcesz? Lepiej, ¿eby to by³o coœ dobrego.}
+{263}{}{Jak chcesz ze mn¹ rozmawiasz, to lepiej schowaj twoj¹ broñ.}
+{264}{}{Masz k³opoty z pamiêci¹? Schowaj twoj¹ broñ, jeœli zamierzasz ze mn¹ rozmawiaæ.}
+{265}{}{Twoj¹ broñ?}
+{266}{}{NieŸle, ca³kiem nieŸle, zaskakujesz mnie. Nie s¹dzi³em, ¿e tak trudno bêdzie ciê pokonaæ. Zwykle dobrze oceniam charaktery, mo¿e jesteœ tym, czego szukamy. Interesuje ciê praca?}
+{267}{}{Cholera! To by³a œwietna walka! Od dawna nie mia³em dobrego meczu, i nie pamiêtam, kiedy ostatni raz ktoœ mnie pokona³. Dobra robota! Masz ochotê dostaæ pracê?}
+{268}{}{Pewnie, co to za praca?}
+{269}{}{Nie, dziêki.}
+{270}{}{Akurat teraz nie mogê. Jeszcze o tym pomówimy, OK?}
+{271}{}{To nie jest robota dla ³achów. Musisz za³atwiæ "to" szybko i czysto. Szef poda ci szczegó³y, ale mogê ci powiedzieæ, ¿e to wiêksza kasa, ni¿ da siê zarobiæ pracuj¹c przez miesi¹c przy karawanach. Myœlê, ¿e œwietnie sobie poradzisz.}
+{272}{}{Brzmi to nieŸle, mów dalej.}
+{273}{}{Hm, mogê siê nad tym zastanowiæ? Mam mnóstwo innych spraw na g³owie.}
+{274}{}{ Nie, raczej nie.}
+{275}{}{Jasne, ale daj mi znaæ najszybciej, jak mo¿esz. Im szybciej ta robota bêdzie wykonana, tym lepiej.}
+{276}{}{Có¿, daj mi znaæ, je¿eli zmienisz zdanie. ¯al zmarnowaæ taki talent na pilnowanie karawan.}
+{277}{}{Wspaniale, myœlê, ¿e sprawy u³o¿¹ siê œwietnie. Tylko pamiêtaj, ¿e cokolwiek us³yszysz na dole, nie ma wyjœæ na œwiat³o dzienne. OK, chodŸmy.}
+{278}{}{Rozumiem, ¿e odpowiadasz za œmieræ kupca i jego ¿ony. Nie wiem, o co miêdzy wami posz³o, i nie obchodzi mnie to.}
+{279}{}{Kto ci o tym powiedzia³?}
+{280}{}{Nie wiem, o czym mówisz.}
+{281}{}{Coo?}
+{282}{}{To nie to powinno ci teraz zaprz¹taæ g³owê. Nikt tu nikogo nie stuka bez naszego b³ogos³awieñstwa. Myœlê, ¿e najlepiej bêdzie, jak opuœcisz nasze miasto, póki jeszcze mo¿esz.}
+{283}{}{Obawiam siê, ¿e wiesz, a jeœli dodatkowo wiesz, co le¿y w twoim najlepiej pojêtym interesie, to opuœcisz to miasto, póki jeszcze mo¿esz.}
+{284}{}{Myœla³em, ¿e nie chcesz wykonaæ tej roboty. Mam nadziejê, ¿e to by³o jedynie nieporozumienie. Zap³acê ci po³owê, i liczê na twoj¹ wdziêcznoœæ, ¿e cokolwiek ci dajê. [Kane wrêcza ci 1500 kapsli.]}
+{285}{}{Dziêki.}
+{286}{}{O, przepraszam, zdawa³o mi siê, ¿e dostajê to zadanie. Czy istnieje szansa, ¿e bêdê móc nadal dla was pracowaæ?}
+{287}{}{Daj mi natychmiast resztê pieniêdzy, albo po¿a³ujesz!}
+{288}{}{Ghu?}
+{289}{}{Zobaczymy. Na dó³, Kafar chce z tob¹ porozmawiaæ.}
+{290}{}{Nic nie dostaniesz.}
+{291}{}{Nie wiem, w co ty pogrywasz, ale jeœli wiesz, co le¿y w twoim interesie, to opuœcisz to miasto, póki jeszcze mo¿esz.}
+{292}{}{Sam s³ysza³em, jak mówisz, ¿e nie chcesz tego zadania. Dziwi mnie, ¿e tu wracasz. Zrealizowanie go na w³asn¹ rêkê by³o paskudnym b³êdem. Radzê ci siê wynieœæ z miasta, póki jeszcze mo¿esz.}
+{293}{}{Rozumiem, ¿e odpowiadasz za œmieræ Jain, Najwy¿szej Kap³anki. Nie wiem, o co miêdzy wami posz³o, i nie obchodzi mnie to, niemniej jednak jesteœmy ci bardzo wdziêczni. [Kane wrêcza ci 1000 kapsli.]}
+{294}{}{Kto ci o tym powiedzia³?}
+{295}{}{Nie wiem, o czym mówisz.}
+{296}{}{Coo?}
+{297}{}{To nie twoja sprawa, i obawiam siê, ¿e nie mo¿emy z tob¹ wspó³pracowaæ. Twoje dzia³ania naruszy³y nasze prawo, ale ze wzglêdu na to, ¿e przy okazji uda³o ci siê wyeliminowaæ nasz problem, nie zabijemy ciê, choæ myœlê, ¿e lepiej bêdzie, jak opuœcisz Hub.}
+{298}{}{Obawiam siê, ¿e wiesz, a ³ganie potrafi byæ bardzo niezdrowym na³ogiem. Twoje dzia³ania naruszy³y nasze prawo, ale ze wzglêdu na to, ¿e przy okazji uda³o ci siê wyeliminowaæ nasz problem, nie zabijemy ciê, choæ myœlê, ¿e lepiej bêdzie, jak opuœcisz Hub.}
+{299}{}{Nie wiem, w co ty pogrywasz, ale nie bawi mnie to. Twoje dzia³ania naruszy³y nasze prawo, ale ze wzglêdu na to, ¿e przy okazji uda³o ci siê wyeliminowaæ nasz problem, nie zabijemy ciê, choæ myœlê, ¿e lepiej bêdzie, jak opuœcisz Hub.}
+{300}{}{Nie dotykaj tych drzwi, jeœli ci ¿ycie mi³e. Jestem jedyn¹ osob¹, której wolno je otwieraæ.}
+{301}{}{Ten kupiec mieszka z ¿on¹ na zachód st¹d, na Wzgórzach, na rogu ulicy Handlu i alei Gromów. Prawdopodobnie ma obstawê. Postaraj siê to za³atwiæ po cichu, i upewnij siê, ¿e nikt ciê nie widzi, a je¿eli ktoœ ciê jednak zobaczy, to upewnij siê, ¿e nie po¿yje na tyle d³ugo, by o tym komuœ powiedzieæ. Gdy wype³nisz twoje ma³e zadanko, wróæ tutaj. Jeszcze jedno. Nawet nie myœl o pójœciu na Policjê, to najgorszy b³¹d, jaki mo¿na w ogóle pope³niæ. Jeœli bêdziesz w stanie, spróbuj nie œci¹gn¹æ na siebie ich uwagi w trakcie wykonywania zlecenia, potrafi¹ czasem nieŸle zaleŸæ za skórê. [Kane wrêcza ci 500 kapsli.]}
+{302}{}{Dobra robota. Oto twoje kapsle za ukoñczenie pierwszego zlecenia. [Kane wrêcza ci 2500 kapsli.]}
+{303}{}{Niez³a robota z tym kupcem. Oczekujê identycznego wyniku po twoim nastêpnym zleceniu. Oto twoja ostatnia wyp³ata za pierwsze zadanie i pierwsza za drugie. [Kane wrêcza ci 3500 kapsli.] Z pewnoœci¹ ju¿ to wiesz, ale Dzieci Katedry s¹ na po³udnie st¹d, zaraz na pó³noc od Kupców Wodnych. Tak jak poprzednio, ¿adnych relacji "na ¿ywo".}
+{304}{}{Œpieszy³o ci siê, ¿eby st¹d wyjœæ? Nie da³em ci twoich kapsli. Oto twoja forsa - zaliczka oraz honorarium za wykonanie pierwszego zlecenia. [Kane wrêcza ci 3000 kapsli.]}
+{305}{}{Hej, dobra robota! Zosta³a u mnie twoja zaliczka za to zlecenie, wiêc masz j¹ tutaj razem z honorarium za jego ukoñczenie. Okaza³o siê, ¿e jest z ciebie ca³kiem spory po¿ytek. }
+{306}{}{ [Kane hands you 5000 caps]}
+{307}{}{I to ju¿ wszystko, co dostaniesz. Teraz znikaj, zanim ktoœ sprawi, ¿e po¿a³ujesz.}
+{308}{}{Oto twoja zaliczka. [Kane wrêcza ci 1000 kapsli.] Z pewnoœci¹ ju¿ to wiesz, ale Dzieci Katedry s¹ na po³udnie st¹d, zaraz na pó³noc od Kupców Wodnych. Tak jak poprzednio, ¿adnych relacji "na ¿ywo".}
+{309}{}{Cholera, to masa gotówki, Kafar faktycznie chcia³ ukatrupiæ tê sukê. Oto twoje kapsle. [Kane wrêcza ci 4000 kapsli.] Okaza³o siê, ¿e jest z ciebie ca³kiem spory po¿ytek.}
+{310}{}{Czego, u diab³a, chcesz? Myœla³em, ¿e nie chcesz siê spotkaæ z Kafarem.}
+{311}{}{Nie, nie chcê, ale czy móg³byœ mu przekazaæ w moim imieniu wiadomoœæ?}
+{312}{}{Ta, chcê go spotkaæ, ¿eby móc mu wywaliæ dziurê we ³bie!}
+{313}{}{Przepraszam, to by³o nieporozumienie.}
+{314}{}{A jak¿e, po kiego licha mam siê spotykaæ z takim idiot¹ jak on!}
+{315}{}{Grug.}
+{316}{}{Taa?}
+{317}{}{Nie wynajmujemy ³achów. Teraz odejdŸ, zanim siê na ciebie zdenerwujê.}
+{318}{}{To zale¿y od wiadomoœci.}
+{319}{}{Powiedz mu, ¿e jest tchórzliwym skurwielem, bo chowa siê w swojej jaskince. Jeœli chce byæ mê¿czyzn¹, to powinien spróbowaæ wyjœæ na prawdziwy œwiat.}
+{320}{}{Powiedz mu, ¿eby zacz¹³ siê modliæ o cud, bo bêdzie mu potrzebny, kiedy z nim skoñczê.}
+{321}{}{Nie mogê jej sobie przypomnieæ.}
+{322}{}{Powiedz mu, ¿e jest moim idolem, i podziwiam jego czyny.}
+{323}{}{Powiedz mu, ¿e zrobiê z nim to, co on zrobi³ goœciowi, który przed nim prowadzi³ tê knajpê!}
+{324}{}{A jeszcze siê nie denerwujesz? To siê powinno okazaæ ca³kiem zabawne.}
+{325}{}{Mato³ z ciebie.}
+{326}{}{Co z ciebie za popapraniec? Wynoœ siê st¹d do diab³a!}
+{327}{}{Och, na pewno mu to przeka¿ê. Jestem przekonany, ¿e wys³ucha tego z wielkim zainteresowaniem... Modliæ, mówisz? Masz moje "s³owo", otrzyma tê wiadomoœæ.}
+{328}{}{Chyba kaza³em ci sp³ywaæ?! Moja cierpliwoœæ siê wyczerpuje! Powiesz mi, dlaczego chcesz widzieæ Kafara, czy nie?}
+{330}{}{Nic ci nie muszê mówiæ.}
+{331}{}{Przepraszam, szukam tylko pracy.}
+{332}{}{Przecie¿ ci mówiê, ¿e to tajemnica!}
+{333}{}{Nie!}
+{334}{}{Ru?}
+{335}{}{Kiedy wyjdziesz z haju, przyjdŸ siê ze mn¹ zobaczyæ.}
+{336}{}{Pozwolê ci siê z nim zobaczyæ, ale lepiej licz siê ze s³owami... Ty przodem.}
+{337}{}{Mowy nie ma. ¯egnaj.}
+{338}{}{To tajemnica, któr¹ zabierzesz do grobu. Kafar nigdy nie bêdzie rozmawia³ z takim ³achem jak ty.}
+{339}{}{Wiêc radzê ci wyjœæ.}
+{340}{}{Tak?}
+{341}{}{Lorenzo przysy³a mnie do roboty.}
+{342}{}{Czeœæ!}
+{343}{}{Chcê dostaæ robotê.}
+{344}{}{Nic, bywaj.}
+{345}{}{Kru.}
+{346}{}{Czeœæ.}
+{347}{}{Jak siê masz?}
+{348}{}{Bywaj.}
+{349}{}{Œwietnie.}
+{350}{}{Jak tam dzieciaki?}
+{351}{}{Mi³y dzisiaj dzieñ, nieprawda¿?}
+{352}{}{Wygl¹dasz dzisiaj bardzo przystojnie.}
+{353}{}{Bywaj... [Kane spogl¹da na ciebie z ukosa, jak gdyby próbowa³ przenikn¹æ twoje zamiary.]}
+{354}{}{Tak mi siê wydaje. [Kane zaczyna ci siê dziwnie przygl¹daæ.]}
+{355}{}{Czy masz czas?}
+{356}{}{Braminowe buty s¹ bardzo smaczne.}
+{357}{}{Nie... Chcesz czegoœ? [Kane wydaje siê robiæ zdenerwowany na ciebie.]}
+{358}{}{Tak.}
+{359}{}{Nie.}
+{360}{}{Chyba trzeba ci tam kolejnego drinka, kole¿ko.}
+{361}{}{Chyba trzeba ci tam kolejnego drinka, paniusiu.}
+{362}{}{[Kane wyczekuje przez kilka sekund.] No... co to jest? [Kane wygl¹da na bardzo zirytowanego.]}
+{363}{}{Co jest co?}
+{364}{}{Nie pamiêtam.}
+{365}{}{Ach, nic.}
+{366}{}{[Wygl¹da niemal na to, ¿e z uszu Kane'a wydobywa siê para, podczas gdy arterie na jego szyi wyraŸnie zdaj¹ siê pulsowaæ.] WY... [Po kilku sekundach odzyskujesz s³uch.] ST¥D! TY MATOLE!}
+{367}{}{[Kane zgrzyta zêbami i ciê ignoruje.]}
+{368}{}{Nie pamiêtasz? [Kane wzdycha.] Czemu mnie to nie dziwi? [Kane krêci g³ow¹ z niedowierzaniem.] Teraz... st¹d... WYPIERDALAJ!}
+{369}{}{[Kane spogl¹da na jednego z goryli i krêci palcem m³ynka w pobli¿u swojej skroni.]}
+{370}{}{O czym ty, u diab³a, mówisz?}
+{371}{}{To NIE JEST w³aœciwy odzew!}
+{372}{}{Rozumiem... Nie nale¿ysz do nich.}
+{373}{}{Odzew... na CO? [Kane wygl¹da na zak³opotanego i lekko zdenerwowanego.]}
+{374}{}{Na tajne has³o!}
+{375}{}{Przykro mi, ale nie wolno mi o tym mówiæ. ¯egnaj.}
+{376}{}{[Kane wygl¹da na rozz³oszczonego. Nie masz pojêcia, czemu.] Wypierdalaj st¹d, ty por¹bany skurwysynu.}
+{377}{}{[Kane wygl¹da na rozz³oszczonego. Nie masz pojêcia, czemu.] Wypierdalaj st¹d, ty por¹bana dziwko.}
+{378}{}{Mówi³em ci, ¿ebyœ st¹d wypierdala³, ty por¹bany skurwysynu.}
+{379}{}{Mówi³em ci, ¿ebyœ st¹d wypierdala³a, ty por¹bana suko.}
+{380}{}{Nie, chyba nie. Teraz WYJD. [Kane nie wygl¹da na rozbawionego.]}
+{381}{}{I don't HAVE any kids!}
+{382}{}{Wydajesz siê byæ mocno zasmucony z tego powodu. Czy chcesz o tym porozmawiaæ?}
+{383}{}{Có¿, powinieneœ, s¹ z nich dobrzy s³u¿¹cy.}
+{384}{}{Mary mówi³a coœ innego.}
+{385}{}{ Naprawdê? To dziwne... Bardzo dziwne...}
+{386}{}{CO? TY... JA... NIE! "Nie" chcê o tym rozmawiaæ. Za kogo ty siê, u diab³a, uwa¿asz? Wychrzaniaj mi z oczu.}
+{387}{}{I SAID, I do NOT want to talk about.}
+{388}{}{Ee, tak. Jasne, kole¿ko. Cokolwiek powiesz.}
+{389}{}{Ee, tak. Jasne, paniusiu. Cokolwiek powiesz.}
+{390}{}{To masz jakieœ na sprzeda¿?}
+{391}{}{Zatem w porz¹dku. Czeœæ!}
+{392}{}{[Kane spogl¹da na jednego ze swoich goryli i wzrusza ramionami.]}
+{393}{}{NIE! Teraz wyjdŸ.}
+{394}{}{Mary? Nie znam ¿adnej Mary... Nie mam na to czasu! Nie wiem nawet, o kim ty mówisz. Jeœli chce pieniêdzy, to powiedz jej, ¿eby sama przysz³a ze mn¹ rozmawiaæ!}
+{395}{}{[Zyskujesz 100 punktów doœwiadczenia za dog³êbne wkurwienie Kane'a.]}
+{396}{}{[Przez u³amek sekundy myœlisz, ¿e widzisz, jak Kane siê rumieni.] To... [Kane rozgl¹da siê na boki] mi³o z twojej strony. To czego chcesz?}
+{397}{}{Co powiesz na randkê? }
+{398}{}{Ach, nic. Czeœæ.}
+{399}{}{Tak, to znaczy nie. To znaczy ja nie... Ja nie mogê. Ja... [Kane nagle uderza jednego ze swoich goryli piêœci¹ w szczêkê.] Czego szczerzysz zêby! [Nastêpnie znów spogl¹da na ciebie.] Co tu jeszcze robisz?!}
+{400}{}{[Kane przez chwilê ciê ignoruje.] Czego chcesz?}
+{401}{}{Jak tam dzieciaki?}
+{402}{}{Mi³y dzisiaj dzieñ, nieprawda¿?}
+{403}{}{Têdy.}
+{404}{}{Znasz drogê, chodŸmy.}
+{405}{}{Ch³opaki, otwierajcie.}
+{406}{}{Alright.}
+{407}{}{OK.}
+{408}{}{Mo¿esz chcieæ wszystkiego, na co masz ochotê, ale teraz zje¿d¿aj.}
+{409}{}{Czy macie jeszcze jakieœ zlecenia?}
+{410}{}{Czeœæ!}
+{411}{}{Nic, czeœæ.}
+{412}{}{Acru!}
+{413}{}{Witaj ponownie.}
+{414}{}{Co? Zabrak³o ci odwagi, zgadza siê? [Kane zaczyna mówiæ do ciebie szeptem.] Nie martw siê, przywykniesz do tego. Je¿eli on ma obstawê, to spróbuj poczekaæ, a¿ siê zwin¹. Kiedyœ musz¹ jeœæ, no nie? Jeœli mo¿esz, odwróæ ich uwagê. Zrób wszystko, co trzeba, bo nie akceptujemy niepowodzeñ. Zwyczajnie zrób to, to dostaniesz twoje pieni¹dze, a potem mo¿esz siê st¹d zmyæ. No... To naprawdê czegoœ chcesz?}
+{415}{}{Czemu "to" jeszcze nie jest zrobione? Lepiej to za³atw. Nie chcê ciê tu widzieæ, dopóki nie bêdziesz mieæ jakichœ dobrych wiadomoœci, bo w przeciwnym razie bêdziemy mieli problem. Lepiej nas nie rozczaruj.}
+{416}{}{Starczy. To twój ostatni b³¹d. Lepiej natychmiast opuœæ miasto, je¿eli nie chcesz tu zostaæ na sta³e... dwa metry pod ziemi¹.}
+{417}{}{Có¿... Zamierzasz wykonaæ tê robotê, czy nie? Oni s¹ tam. [Kane wskazuje palcem na plan miasta, wyœwietlany przez twojego Pip-Boya.] Lepiej siê pospiesz, bo szef oczekuje, ¿e to zostanie szybko za³atwione.}
+{418}{}{CO TY, DO DIAB£A... [Kane rozgl¹da siê dooko³a, a nastêpnie zaczyna mówiæ szeptem.] Co ty, do diab³a, robisz tutaj? Wykoñcz te¿ drugie z nich, i lepiej, ¿eby "nie by³o" ¿adnych œwiadków.}
+{419}{}{Przebra³a siê miarka. Uda³o ci siê spieprzyæ sprawê. Teraz musisz zap³aciæ za twoje b³êdy. Mam nadziejê, ¿e nie planujesz spêdziæ w mieœcie najbli¿szej nocy.}
+{420}{}{Jeszcze ci siê nie uda³o ukoñczyæ twojego zadanka. [Kane zaczyna mówiæ szeptem.] Wiesz, co jest tutaj stawk¹. Zrobisz to, to zarobisz fortunê, i wszyscy bêdziemy szczêœliwi. Zawiedziesz, to nikt nie bêdzie szczêœliwy.}
+{421}{}{Jeœli masz k³opoty z wykonaniem zadania, to spróbuj zaczekaæ, a¿ ona bêdzie sama.}
+{422}{}{Koñczy ci siê czas, a mi siê koñczy cierpliwoœæ.}
+{423}{}{Nie zrobiê tego.}
+{424}{}{Bêdzie martwa ju¿ bardzo nied³ugo.}
+{425}{}{Hê.}
+{426}{}{Nie zrobisz? A to szkoda. Nie mo¿emy pozwoliæ, ¿eby ludzie dawali swoje s³owo, a potem je ³amali. Przykro mi, ¿e nie powiod³a nam siê wspó³praca. ¯yczê ci "mi³ego" dnia.}
+{427}{}{OK! Wykonam tê cholern¹ robotê. Ale lepiej, ¿ebyœ mia³ pieni¹dze, kiedy skoñczê.}
+{428}{}{Dziêki.}
+{429}{}{Ach, bêdê je mia³. Nie obawiaj siê.}
+{430}{}{Nadal ¿yjesz, jak widzê! No có¿, pewnie ostatnio nie zdarzy³o ci siê znaleŸæ ¿adnych nowych przyjació³. Mam nadziejê, ¿e ci¹gle ich wygl¹dasz.}
+{431}{}{[Kane wygl¹da na bardzo z siebie zadowolonego. Stoi tam tylko, szczerz¹c zêby w z³oœliwym uœmiechu.]}
+{432}{}{No, no! Jestem bardzo zdziwiony, widz¹c ciê przy ¿yciu. Uda³o ci siê przetrwaæ, to robi spore wra¿enie. Chyba pozwolê ci odejœæ ¿ywcem, na tyle zas³ugujesz. Teraz zmiataj.}
+{433}{}{Nawet nie myœl o ¿adnych numerach.}
+{434}{}{Nigdy nie chybiam.}
+{435}{}{Pozwalam ci ¿yæ, doceñ to.}
+{436}{}{Nie s¹dzê, ¿eby naprawdê chcia³o ci siê ze mn¹ spróbowaæ.}
+{437}{}{Mam nadziejê, przez wzgl¹d na ciebie, ¿e nie planujesz tego u¿yæ.}
+{438}{}{Musisz st¹d odejœæ.}
+{439}{}{Nie r¿nij g³upa.}
+{440}{}{Po¿a³ujesz tego.}
+{441}{}{Masz albo sporo odwagi, albo bardzo ma³o rozumu, skoro pokazujesz tu twoj¹ gêbê, ale nie martw siê, kiedyœ do ciebie wpadniemy i przeka¿emy ci nasze pozdrowienia.}
+{442}{}{[Kane jedynie wpatruje siê w ciebie wzrokiem pe³nym nienawiœci.]}
+{443}{}{Uda³o ci siê przetrwaæ moje przyjêcie po¿egnalne... Nie wiem, jakim cudem; musia³em ciê nie doceniaæ. OdejdŸ, a mo¿e pozostaniesz przy ¿yciu.}
+{444}{}{[Kane ciê ignoruje, lecz swoj¹ broñ trzyma gotow¹ do strza³u.]}
+{445}{}{W porz¹dku! Precz z tob¹!}
+{446}{}{Nie bêdê siê powtarza³. Wynoœ siê w diab³y.}
+{447}{}{Ostrzega³em ciê. OK, ch³opaki, w³adowaæ mu!}
+{448}{}{Ostrzega³em ciê. OK, ch³opaki, w³adowaæ jej!}
+{449}{}{Nie zawracaj mi g³owy, tylko bierz siê do roboty. Masz zadanie do wykonania, i lepiej je wykonaj.}
+{450}{}{Mo¿e raczysz siê za to wzi¹æ? Ju¿ ci powiedzia³em, co masz zrobiæ. Po prostu to zrób.}
+{451}{}{Wiem, ¿e uda³o ci siê ukoñczyæ tê cholern¹ robotê. Nie musisz mi o tym mówiæ. To z Kafarem masz rozmawiaæ.}
+{452}{}{Kaza³em ci pogadaæ z Kafarem!}
+{453}{}{[Kane ciska na ciebie zabójcze spojrzenie.] No có¿... Postaram siê ju¿ nied³ugo wprowadziæ ciê na spotkanie z nim. Dopilnujê, ¿eby obejrza³ ciê sobie na raty, kawa³ek po kawa³ku.}
+{454}{}{Przykro mi, ¿e masz takie poczucie. Mam nadziejê, ¿e reszta twojego pobytu w naszym cudownym mieœcie bêdzie dla ciebie "przyjemna". }
+{455}{}{[Kane ciê ignoruje.]}
+{456}{}{[Kane wpatruje siê w ciebie przez kilka sekund.] W porz¹dku. Dam ci ostatni¹ szansê, ¿eby siê z nim zobaczyæ. IdŸ za mn¹.}
+{457}{}{[Kane wpatruje siê w ciebie przez kilka sekund.] Ju¿ po twojej szansie. Spadaj.}
+{458}{}{Co, do diab³a, robisz z powrotem tutaj?!?! Musisz byæ nawet wiêkszym mato³em, ni¿ myœla³em. Wiedzia³em, ¿e Kafar nie powinien by³ wynajmowaæ kogoœ nieznanego.}
+{459}{}{O czym ty mówisz?}
+{460}{}{Hê?}
+{461}{}{[Kane zaczyna mówiæ obni¿onym g³osem.] Uda³o ci siê spieprzyæ misjê, ty matole! twoim zadaniem by³o zabiæ oboje Wie¿owców, a nie ich zraniæ, na Chrystusa! Jak tylko zostali sami, uciekli ze swoj¹ obstaw¹. Wierz mi, nie marnowali czasu nawet na spakowanie siê. Bóg jeden wie, gdzie teraz s¹!}
+{462}{}{Có¿, co mogê powiedzieæ? Przepraszam.}
+{463}{}{Ug. PRZEPRASZAM.}
+{464}{}{"Przepraszam" tego nie za³atwi. Przez ciebie Kafar zosta³ wystawiony na nadmierne ryzyko. Mo¿esz siê od tej chwili uwa¿aæ za wroga Podziemia. Nie chcê ciê tu nigdy wiêcej widzieæ.}
+
+{465}{}{Nie mo¿esz przejœæ przez te drzwi w obecnoœci Kane'a.}
+

@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{Wêdrujesz przez surowy teren pe³en niemal pionowych stromizn.}
+
+{105}{}{Radskorpiony!}
+
+{121}{}{W pewnej odleg³oœci widzisz samotn¹ postaæ.}
+
+{106}{}{Jakiœ wyj¹tkowo podstêpny radskorpion zrobi³ na ciebie zasadzkê.}
+{107}{}{Nagle atakuje ciê pojawiaj¹cy siê znik¹d radskorpion!}
+
+{108}{}{Nagle okazuje siê, ¿e stoisz w œrodku rodziny kretoszczurów.}
+
+{100}{}{Podczas lawiny ledwie unikasz trafienia przez olbrzymi g³az.}
+{102}{}{Wœród ska³ znajduj¹ siê szcz¹tki od dawna martwego podró¿nika.}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{Wpadasz na du¿e stado radskorpionów.}
+
+{120}{}{W tym obszarze ¿eruje du¿e stado szczurów.}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{Teren przed tob¹ jest us³any ró¿nymi szcz¹tkami i cia³ami. Wygl¹da na stare pole bitwy.}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{Zauwa¿asz samotnego radskorpiona.}
+
+{135}{}{Natykasz siê na koœci jakiegoœ wêdrowca.}
+
+{129}{}{W okolicy wêsz¹ olbrzymie kretoszczury.}
+
+{130}{}{W tym obszarze ¿eruje du¿e stado szczurów.}
+
+#fall or slip
+
+{134}{}{Biegnie na ciebie ca³e stado szczurów.}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{Na szczêœcie potrafisz siê dobrze wspinaæ.}
+{117}{}{Spadasz z wystêpu skalnego i l¹dujesz na ostrych kamieniach.}
+{118}{}{Spadasz z klifu na kamienisty grunt.}
+{109}{}{You are overtaken by a landslide.}
+{123}{}{You lose your footing on the rocky terrain.}
+{132}{}{You slip on the uneven terrain and twist an ankle, painfully. It makes several unhealthy sounds.}
+{133}{}{Zsuwasz siê po stromym zboczu i trochê siê kaleczysz.}
+#
+# No Damage
+#
+{101}{}{Udaje ci siê wyjœæ z tego bez ¿adnych obra¿eñ.}
+{110}{}{Amazingly, you escape with no damage.}
+{124}{}{You skillfully escape with no damage.}
+{131}{}{Exhausted, you nearly fall over some rough terrain. They could really use a GECK out here!}
+#
+# Small Damage
+#
+{104}{}{Trochê kamieni kaleczy ci twarz i rêce, ale udaje ci siê unikn¹æ powa¿niejszych obra¿eñ.}
+{113}{}{Trochê kamieni kaleczy ci twarz i rêce, ale udaje ci siê unikn¹æ powa¿niejszych obra¿eñ.}
+{127}{}{Kamienie kalecz¹ ci twarz i rêce, ale udaje ci siê unikn¹æ powa¿niejszych obra¿eñ.}
+#
+# Big Damage
+#
+{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
+{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+#
+# Damage Numbers
+#
+{138}{}{You sustain }
+{139}{}{ points of damage and a crippled left leg.}
+{140}{}{ points of damage and a crippled right leg.}
+{141}{}{ points of damage.}
+{144}{}{ points of damage and a crippled left arm.}
+{145}{}{ points of damage and a crippled right arm.}
+{146}{}{ points of damage and two crippled limbs.}
+#
+# Cripples
+#
+{103}{}{Spadaj¹ce ska³y bardzo powa¿nie rani¹ ci nogê.}
+{112}{}{Spadaj¹ce ska³y bardzo powa¿nie zrani³y ci nogê.}
+{126}{}{Spadaj¹ce ska³y bardzo powa¿nie zrani³y ciê w nogê.}
+#
+# Critical Success
+#
+{116}{}{Udaje ci siê znaleŸæ jaskiniê i niewielkie Ÿróde³ko. Po raz pierwszy od d³ugiego czasu mo¿esz siê spokojnie przespaæ.}
+{125}{}{Udaje ci siê wyjœæ z tego bez ¿adnych obra¿eñ. Oberwane ska³y ods³oni³y ¿y³ê z³ota.}
+{111}{}{The displaced rock reveals a gold deposit!}
+{142}{}{You refill your empty flask in the spring.}
+{143}{}{You refill your empty flasks in the spring.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{Wpadasz na du¿e skupisko radskorpionów.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

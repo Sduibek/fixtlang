@@ -1,0 +1,36 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{100}{}{To jeden z ochroniarzy Wie¿owca.}
+{101}{}{Lepiej st¹d odejdŸ. Pan Wie¿owiec nie przyjmuje goœci.}
+{102}{}{Twoja obecnoœæ jest tu niepo¿¹dana.}
+{103}{}{Znikaj!}
+{104}{}{Nie wolno ci tu przebywaæ.}
+{105}{}{OdejdŸ, bo po¿a³ujesz.}
+{106}{}{Ten obszar jest zamkniêty dla takich jak ty.}
+# "You are not permitted to enter the house."
+
+{107}{}{What the... Get 'em!}
+{108}{}{Przychodz¹c tu, pope³niasz wielki b³¹d!}
+{109}{}{Co tu robisz? Ju¿ jesteœ œcierwem.}
+# "You're dead meat" == "i'm going to kill you"
+
+{110}{}{Mmmm, wygl¹da nieŸle.}
+# refering to food
+
+{111}{}{Czy to nie bramina tu czujê?}
+
+{112}{}{Trzeba mi z tego kroplówki!}
+# referring to getting more alcohol
+
+{113}{}{Jest coœ w lodówce?}
+# fridge == refridgerator
+
+{114}{}{D³ugo jeszcze?}
+# referring to dinner
+
+{115}{}{Umieram z g³odu.}
+{116}{}{Dochodzi ju¿?}
+# referring to dinner.
+
+{117}{}{Zaraz zemdlejê!}

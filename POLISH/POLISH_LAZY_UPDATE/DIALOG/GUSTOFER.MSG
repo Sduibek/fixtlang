@@ -1,0 +1,62 @@
+{100}{}{Niestety, dzisiaj nie ma boksu.}
+{101}{}{Hnn.}
+{102}{}{A, OK.}
+{103}{}{Kiedy bêdzie nastêpny mecz?}
+{104}{}{Mo¿esz spróbowaæ zaczepiæ siê u Gizma. Z tego co wiem, on zawsze szuka nowego miêcha do wrzucenia na ring.}
+{105}{}{Zajrzyj tu jutro. Saul bêdzie wtedy boksowa³.}
+{106}{}{Poprzedni akurat siê skoñczy³. Zajrzyj za parê dni. Saul boksuje co trzeci dzieñ.}
+{107}{}{Dziêki.}
+{108}{}{Kim jest Saul?}
+{109}{}{Saul to miejscowy mistrz. Jest obecnym ulubieñcem Gizma.}
+{110}{}{Siemanko. Dzisiaj nie ma boksu.}
+{111}{}{ PrzyjdŸ jutro.}
+{112}{}{ PrzyjdŸ pojutrze.}
+{113}{}{No! Chcesz siê za³o¿yæ o wynik walki?}
+{114}{}{Mam lepsze rzeczy do zrobienia z moimi pieniêdzmi. ¯egnaj.}
+{115}{}{Jakie s¹ notowania?}
+{116}{}{Nie, dziêki. Mogê ci jednak zadaæ parê pytañ?}
+{117}{}{}
+{118}{}{Niestety, ale dzisiejszy mecz ju¿ siê skoñczy³.}
+{119}{}{Aha. Có¿, no to niewa¿ne.}
+{120}{}{Na kogo chcesz postawiæ, Saula czy pretendenta? Notowania s¹ korzystniejsze dla Saula. Zak³ad kosztuje 25 kapsli; dostaniesz 50, je¿eli wygrasz stawiaj¹c na Saula, a 100, jeœli wygrasz stawiaj¹c na pretendenta!}
+{121}{}{Stawiam na Saula.}
+{122}{}{Stawiam na pretendenta.}
+{123}{}{No to chyba w porz¹dku.}
+{124}{}{Kim jest ten bokser?}
+{125}{}{Kto organizuje te walki?}
+{126}{}{E, niewa¿ne.}
+{127}{}{Wybacz, nie mam czasu. Mo¿e póŸniej.}
+{128}{}{To Saul, najszybsza piêœæ w Z³omowie! Jest cudownym okazem mêskiej muskulatury! Pulsuj¹cym potêg¹ piêœciarzem!}
+{129}{}{Jest równie¿ mi³ym goœciem.}
+{130}{}{Hm, tak. No, to kto organizuje te mecze?}
+{131}{}{Dziêki. Do zobaczenia.}
+{132}{}{Gizmo, w³aœciciel Kasyna, zatrudnia Saula. Od czasu do czasu lubi obejrzeæ parê walk, ale przede wszystkim to niez³y pieni¹dz - ludzie stawiaj¹ na mecz kupê forsy. I nikt nie musi gin¹æ, jak na tych œmiertelnych walkach, które podobno maj¹ w Hubie.}
+{133}{}{Œmiertelnych walkach?}
+{134}{}{Dziêki.}
+{135}{}{Có¿, to tylko pog³oska. Ale mówi¹, ¿e jest tam podziemny ring, na którym za op³at¹ mo¿na zobaczyæ ludzi walcz¹cych do œmierci. To nie w moim guœcie.}
+{136}{}{Hmm. Dziêki.}
+{137}{}{Hej, co ty wyprawiasz?}
+{138}{}{Ee, nic.}
+{139}{}{Chcesz oberwaæ, ³ajzo?}
+{140}{}{Proszê przestaæ.}
+{141}{}{Ee, nie. Niewa¿ne. Zapomnij, ¿e coœ zdarzy³o mi siê powiedzieæ.}
+{142}{}{No, no, wygl¹da na to, ¿e uda³o ci siê wygraæ! Masz tu twoje kapsle.}
+{143}{}{Wróæ, jak bêdziesz mieæ doœæ kapsli na zak³ad!}
+{144}{}{Czy chcesz tu poczekaæ do 2:00, kiedy zacznie siê walka?}
+{145}{}{Pewnie; czemu, do diaska, nie.}
+{146}{}{Ni, mam sprawy do za³atwienia. Wrócê póŸniej.}
+{147}{}{OK, ale jak przegapisz walkê, to stracisz zak³ad!}
+{148}{}{Nieeeech rooooozpoooczniee siêêêêêêê waaaaallka!}
+{149}{}{Proszê mi nie przeszkadzaæ w czasie meczu.}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{150}{}{Có¿, nie da siê zawsze wygrywaæ, przyjacielu. ¯yczê ci wiêcej szczêœcia nastêpnym razem.}
+{151}{}{Có¿, nie da siê zawsze wygrywaæ, przyjació³ko. ¯yczê ci wiêcej szczêœcia nastêpnym razem.}
+
+{152}{}{Wybacz, tylko jeden zak³ad na walkê.}
