@@ -181,7 +181,7 @@
 {281}{}{¿Wak?}
 {282}{}{No deberías preocuparte de eso. Nadie puede atacar a nadie sin nuestro consentimiento. Creo que es mejor que te marches de la ciudad mientras puedas.}
 {283}{}{Creo que sí y si quieres saber que es lo mejor para ti, abandona la ciudad mientras puedas.}
-{284}{}{No pensé que quisieras el trabajo. Espero que solo fuera un malentendido. Te pagaré la mitad, y da las gracias de que te doy algo. [Kane te da 1.500 chapas]}
+{284}{}{No pensé que quisieras el trabajo. Espero que solo fuera un malentendido. Te pagaré la mitad, y da las gracias de que te doy algo. [Kane te da 1500 chapas]}
 {285}{}{Gracias.}
 {286}{}{Oh, lo siento, pensé que tenía el trabajo. ¿Hay alguna oportunidad de que pueda seguir trabajando para ti?}
 {287}{}{¡Dame el resto de las chapas ahora o lo lamentarás!}
@@ -190,7 +190,7 @@
 {290}{}{No conseguirás nada.}
 {291}{}{No sé a qué estás jugando, pero si sabes qué es lo mejor para ti, deberías abandonar esta ciudad mientras que puedas.}
 {292}{}{Dijiste que no querías el trabajo. Estoy sorprendido de que hayas vuelto. Cometiste un grave error haciéndolo por tu cuenta. Te sugiero que salgas de la ciudad mientras puedas.}
-{293}{}{Deduzco que eres responsable de la muerte de Jain, la Suma Sacerdotisa. No sé qué problemas has tenido con ella y no me importa, pero te estamos muy agradecidos. [Kane te da 1.000 chapas]}
+{293}{}{Deduzco que eres responsable de la muerte de Jain, la Suma Sacerdotisa. No sé qué problemas has tenido con ella y no me importa, pero te estamos muy agradecidos. [Kane te da 1000 chapas]}
 {294}{}{¿Quién te lo dijo?}
 {295}{}{No sé de qué estás hablando.}
 {296}{}{¿Wah?}
@@ -199,14 +199,14 @@
 {299}{}{No sé a qué estás jugando, pero no me hace gracia. Has violado nuestras leyes, pero debido al problema que nos solucionaste, no te mataremos. De todos modos creo que deberías marcharte.}
 {300}{}{No toques esa puerta si quieres vivir. Soy el único que puede abrir esa puerta.}
 {301}{}{El mercader y su mujer viven al oeste de aquí. Están en la esquina de la Calle del Trueque con la Avenida del Trueno en las Alturas, probablemente tendrán guardias. Intenta no hacer ruido y que no te vean, pero si alguien consigue verte, asegúrate de que no vive para contarlo. Cuando hayas acabado tu cometido, vuelve. Una cosa más. Ni se te ocurra ir a la policía, sería el peor error que podrías cometer. Si puedes, intenta no atraer su atención cuando estés trabajando porque pueden resultar muy pesados. [Kane te da 500 chapas.]}
-{302}{}{Buen trabajo. Aquí tienes tus chapas por haber acabado tu primer trabajo. [Kane te da 2.500 chapas del Eje.]}
-{303}{}{Buen trabajo el del mercader. Espero los mismos resultados para el próximo trabajo. Aquí tienes tu última paga por el primer trabajo y la primera paga del siguiente. [Kane te da 3.500 chapas del Eje.] Estoy seguro de que ya lo sabes, pero los Niños de la Catedral están al sur, justo al norte de los mercaderes de agua. De nuevo no deben quedar testigos "vivos".}
-{304}{}{¿Tenías prisa por salir de aquí? No cogiste tus chapas. Aquí están, la primera paga y la prima por terminar el primer trabajo. [Kane te da 3.000 chapas del Eje]}
+{302}{}{Buen trabajo. Aquí tienes tus chapas por haber acabado tu primer trabajo. [Kane te da 2500 chapas del Eje.]}
+{303}{}{Buen trabajo el del mercader. Espero los mismos resultados para el próximo trabajo. Aquí tienes tu última paga por el primer trabajo y la primera paga del siguiente. [Kane te da 3500 chapas del Eje.] Estoy seguro de que ya lo sabes, pero los Niños de la Catedral están al sur, justo al norte de los mercaderes de agua. De nuevo no deben quedar testigos "vivos".}
+{304}{}{¿Tenías prisa por salir de aquí? No cogiste tus chapas. Aquí están, la primera paga y la prima por terminar el primer trabajo. [Kane te da 3000 chapas del Eje]}
 {305}{}{¡Ey, buen trabajo! Te olvidaste recoger tu primera paga por el trabajo, así que aquí la tienes junto a la suma por terminarlo. Has demostrado ser muy útil.}
-{306}{}{[Kane te da 5.000 chapas del Eje]}
+{306}{}{[Kane te da 5000 chapas del Eje]}
 {307}{}{Y eso es todo lo que vas a conseguir. Lárgate antes de que lo lamentes.}
-{308}{}{Aquí está tu paga inicial. [Kane te da 1.000 chapas del Eje] Estoy seguro de que ya lo sabes, pero los Niños de la Catedral están al sur, justo al norte de los mercaderes de agua. Tampoco deben quedar testigos "vivos".}
-{309}{}{Demonios, eso son un montón de chapas. Decker quería verdaderamente que esa tía muriera; aquí tienes tus chapas. [Kane te da 4.000 chapas del Eje] Has demostrado ser muy útil.}
+{308}{}{Aquí está tu paga inicial. [Kane te da 1000 chapas del Eje] Estoy seguro de que ya lo sabes, pero los Niños de la Catedral están al sur, justo al norte de los mercaderes de agua. Tampoco deben quedar testigos "vivos".}
+{309}{}{Demonios, eso son un montón de chapas. Decker quería verdaderamente que esa tía muriera; aquí tienes tus chapas. [Kane te da 4000 chapas del Eje] Has demostrado ser muy útil.}
 {310}{}{¿Qué demonios quieres? Pensé que no querías encontrarte con Decker.}
 {311}{}{No quería, ¿pero puedes darle un mensaje de mi parte?}
 {312}{}{¡Sí, quería reunirme con él para poder volarle la cabeza!}
@@ -253,30 +253,30 @@
 {354}{}{Supongo. [Kane empieza a mirarte de una manera extraña.]}
 {355}{}{¿Tienes hora?}
 {356}{}{Las Patas de Brahmin Son Muy Sabrosas.}
-{357}{}{No... ¿Querías algo? [Kane parece empezar a enfadarse contigo.]}
+{357}{}{No... ¿Querías algo? [Kane parece empezar a enfadarse contigo]}
 {358}{}{Sí.}
 {359}{}{No.}
 {360}{}{Creo que necesitas tomar algo, colega.}
 {361}{}{Creo que necesitas tomar algo, señorita.}
-{362}{}{[Kane espera unos segundos] Bueno... ¿qué? [Kane parece muy enfadado.]}
+{362}{}{[Kane espera unos segundos] Bueno... ¿qué? [Kane parece muy enfadado]}
 {363}{}{¿Qué es qué?}
 {364}{}{Lo olvidé.}
 {365}{}{Oh, nada.}
-{366}{}{[Parece que a Kane le sale humo de las orejas y que las venas de su cuello laten visiblemente.] ¡LARGO! [Después de unos segundos puedes oír de nuevo]... ¡AQUÍ! ¡IDIOTA!}
-{367}{}{[Kane rechina los dientes y te ignora.]}
-{368}{}{¿Lo olvidaste? [Suspiro] ¿Por qué eso no me sorprende? [Moviendo la cabeza con incredulidad.] Ahora... ¡LARGO!}
-{369}{}{[Kane mira a uno de los guardias y se pone la mano en una oreja.]}
+{366}{}{[Parece que a Kane le sale humo de las orejas y que las venas de su cuello laten visiblemente] ¡LARGO! [Después de unos segundos puedes oír de nuevo]... ¡AQUÍ! ¡IDIOTA!}
+{367}{}{[Kane rechina los dientes y te ignora]}
+{368}{}{¿Lo olvidaste? [Suspiro] ¿Por qué eso no me sorprende? [Moviendo la cabeza con incredulidad] Ahora... ¡LARGO!}
+{369}{}{[Kane mira a uno de los guardias y se pone la mano en una oreja]}
 {370}{}{¿De qué diablos estás hablando?}
 {371}{}{¡Esa NO es la respuesta adecuada!}
 {372}{}{Ya veo... Tú no eres uno de ellos.}
-{373}{}{Respuesta... ¿a QUÉ? [Kane parece confundido y algo mosqueado.]}
+{373}{}{Respuesta... ¿a QUÉ? [Kane parece confundido y algo mosqueado]}
 {374}{}{¡A la contraseña secreta!}
 {375}{}{Lo siento, pero no se me permite hablar de eso. Adiós.}
 {376}{}{[Kane parece enfadado, no sabes porqué.] Largo de aquí, loco hijo de perra.}
 {377}{}{[Kane parece enfadado, no sabes porqué.] Largo de aquí, loca malnacida.}
 {378}{}{Te dije que te largaras de aquí, loco hijo de perra.}
 {379}{}{Te dije que te largaras de aquí, loca malnacida.}
-{380}{}{No, no lo creo. Ahora MÁRCHATE. [No parece que se divierta.]}
+{380}{}{No, no lo creo. Ahora MÁRCHATE. [No parece que se divierta]}
 {381}{}{¡Yo no TENGO niños!}
 {382}{}{Pareces estar un poco preocupado por eso. ¿Quieres hablar sobre el tema?}
 {383}{}{Bueno, deberías. Son buenos servidores.}
@@ -288,14 +288,14 @@
 {389}{}{Uh, sí. Claro, señorita. Lo que tú digas.}
 {390}{}{¿Entonces tienes algo que vender?}
 {391}{}{Entonces de acuerdo. ¡Adiós!}
-{392}{}{[Kane mira a uno de sus matones y se encoge de hombros.]}
+{392}{}{[Kane mira a uno de sus matones y se encoge de hombros]}
 {393}{}{¡NO LO HARÉ! Ahora, vete.}
 {394}{}{¿Mary? No conozco a ninguna Mary... ¡No tengo TIEMPO para esto! Además no tengo ni idea de quien estás hablando. ¡Si quiere chapas, dile que venga a hablar conmigo ella misma!}
 {395}{}{[Consigues 100 puntos de experiencia por mosquear a Kane.]}
 {396}{}{[Durante medio segundo te parece que Kane se pone colorado] Eso es... [Mira de un lado a otro] agradable. Y ahora, ¿qué es lo que quieres?}
 {397}{}{¿Qué tal una cita? }
 {398}{}{Oh, nada. Adiós.}
-{399}{}{Sí, bueno no. Quiero decir que no... No puedo. Yo... [De pronto, Kane golpea a uno de sus guardias en la mandíbula.] ¡De qué te ríes! [Entonces se vuelve y te mira.] ¡¿Qué haces todavía aquí?!}
+{399}{}{Sí, bueno no. Quiero decir que no... No puedo. Yo... [De pronto, Kane golpea a uno de sus guardias en la mandíbula.] ¡De qué te ríes! [Entonces se vuelve y te mira] ¡¿Qué haces todavía aquí?!}
 {400}{}{[Kane te ignora] ¿Qué quieres?}
 {401}{}{¿Cómo están los niños?}
 {402}{}{Bonito día, ¿no?}
@@ -314,7 +314,7 @@
 {415}{}{¿Por qué no lo has hecho todavía? Será mejor que lo hagas. No quiero verte por aquí hasta que tengas buenas noticias o tendremos problemas. Será mejor que no nos decepciones.}
 {416}{}{Eso es. Has cometido tu último error. Será mejor que te marches de la ciudad ahora si no quieres quedarte aquí... seis metros bajo tierra.}
 {417}{}{Bueno... ¿piensas hacer el trabajo o no? Están ahí mismo [Kane señala el mapa de la ciudad que aparece en tu Pip-Boy 2000.] Será mejor que te des prisa; el jefe espera que el trabajo esté acabado pronto.}
-{418}{}{QUÉ DEMONIOS... [Kane mira alrededor y luego susurra.] ¿Qué demonios estás haciendo aquí? Será mejor que acabes con lo otro y que no quede NINGÚN testigo.}
+{418}{}{QUÉ DEMONIOS... [Kane mira alrededor y luego susurra] ¿Qué demonios estás haciendo aquí? Será mejor que acabes con lo otro y que no quede NINGÚN testigo.}
 {419}{}{Eso es. La cagaste. Ahora tendrás que pagar por tus errores. Espero que no estés pensando en pasar la noche aquí.}
 {420}{}{No has acabado tu trabajito. [Susurrando] Ya sabes como funciona esto. Haces tu trabajo y te conviertes en una tía rica y todos tan contentos. Si fallas, nadie estará contento.}
 {421}{}{Si tienes problemas con tu trabajo, espera a que esté sola.}
@@ -338,9 +338,9 @@
 {439}{}{No seas estúpida.}
 {440}{}{Lo lamentarás.}
 {441}{}{O eres muy valiente o MUY estúpida apareciendo por aquí, pero no te preocupes, nos detendremos algún día para decirte "hola".}
-{442}{}{[Kane te mira fijamente.]}
+{442}{}{[Kane te mira fijamente]}
 {443}{}{Sobreviviste a mi fiesta de despedida... No sé cómo lo hiciste; debo haberte subestimado. Márchate, y puede que vivas.}
-{444}{}{[Kane te ignora, pero tiene su arma dispuesta para disparar.]}
+{444}{}{[Kane te ignora, pero tiene su arma dispuesta para disparar]}
 {445}{}{¡De acuerdo! ¡Vete!}
 {446}{}{No te lo repetiré. Sal de una maldita vez.}
 {447}{}{Te avisé. Vale tíos, ¡que reciba!}
@@ -349,9 +349,9 @@
 {450}{}{Te estás enterando, ¿no? Ya te dije lo que tenías que hacer. Ahora, hazlo.}
 {451}{}{Sé que acabaste el maldito trabajo. No tienes porqué decírmelo. Decker es con quien tienes que hablar.}
 {452}{}{¡Te dije que hablaras con Decker!}
-{453}{}{[Kane te mira con mala cara.] Bueno entonces... Intentaré colarte en algún momento para que lo veas cuanto antes. Me aseguraré de que te vea... trocito a trocito...}
+{453}{}{[Kane te mira con mala cara] Bueno entonces... Intentaré colarte en algún momento para que lo veas cuanto antes. Me aseguraré de que te vea... trocito a trocito...}
 {454}{}{Lamento que te lo tomes así. Espero que "disfrutes" del resto de tu estancia en nuestra maravillosa ciudad. }
-{455}{}{[Kane te ignora.]}
+{455}{}{[Kane te ignora]}
 {456}{}{[Kane te mira fijamente unos segundos] De acuerdo. Te daré una última oportunidad para que le veas. Sígueme.}
 {457}{}{[Kane te mira fijamente unos segundos] Has perdido tu oportunidad. Vete.}
 {458}{}{¡¿¡¿Qué demonios haces volviendo aquí?!?! Debes ser mucho más tonta de lo que pensaba. Sabía que Decker no tenía que haber contratado a una desconocida.}

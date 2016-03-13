@@ -29,7 +29,7 @@
 {128}{}{Bien, lo haré.}
 {129}{}{Paso.}
 {130}{DECK_10}{Debo confesar que me siento algo... decepcionado contigo. Pero estas cosas pasan. Recuerda que esto es confidencial. Que tengas un buen día.}
-{131}{DECK_11}{El pago es el habitual, pagaré 500 chapas por adelantado y 2.500 cuando hayas hecho el trabajo. ¿Lo harás?}
+{131}{DECK_11}{El pago es el habitual, pagaré 500 chapas por adelantado y 2500 cuando hayas hecho el trabajo. ¿Lo harás?}
 {132}{}{No, gracias.}
 {133}{}{Sí, lo haré.}
 {134}{DECK_12}{Muy bien. El mercader vive en las Alturas, entre la Calle del Trueque y la Avenida del Trueno. A la salida te darán la paga inicial.}
@@ -78,13 +78,13 @@
 {176}{DECK_29}{Poca cosa. Mata a la Suma Sacerdotisa, Jain. Cuando ella desaparezca, esta pequeña molestia desaparecerá también. ¿Te interesa?}
 {177}{}{Por supuesto.}
 {178}{}{¡Pero eso sería inmoral!}
-{179}{DECK_30}{Creo que estás empezando a gustarme. Pagaré 1.000 por adelantado y 4.000 cuando lo hayas terminado. Y créeme, sabré cuando habrás terminado.}
+{179}{DECK_30}{Creo que estás empezando a gustarme. Pagaré 1000 por adelantado y 4000 cuando lo hayas terminado. Y créeme, sabré cuando habrás terminado.}
 {180}{}{De acuerdo.}
 {181}{DECK_31}{Habla con Kane en la puerta. Él te dará más detalles.}
 {182}{DECK_32}{¿Matar al mercader no lo fue?}
 {183}{}{Bien, de acuerdo, lo haré.}
 {184}{}{No me importa, no lo haré.}
-{185}{DECK_33}{Son 1.000 por adelantado y 4.000 tras... la ejecución. Y créeme, sabré cuando habrás acabado.}
+{185}{DECK_33}{Son 1000 por adelantado y 4000 tras... la ejecución. Y créeme, sabré cuando habrás acabado.}
 {186}{}{De acuerdo.}
 # Line 187 has been changed due to gender issues. See 234-235.
 {187}{}{}

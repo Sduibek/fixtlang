@@ -48,12 +48,15 @@
 {147}{}{Vale.}
 {148}{}{Sí, puede que tengas razón. Ahora parece excelente, pero me gustaría que no me gritara tanto.}
 {149}{}{Sí, claro.}
+
 # said to male player
 {150}{}{¡Viejo cretino!}
+{152}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señor!}
+
 # said to female player
 {151}{}{¡Vieja arpía!}
-{152}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señor!}
 {153}{}{¡Guau! Puedo vivir de esto toda mi vida. ¡Muchísimas gracias, señora!}
+
 {154}{}{¡Guau! Gracias. ¿Pero?... ¡Estás intentando meterme en líos de nuevo!}
 {155}{}{Por favor no me hables. Dan está como una cabra.}
 {156}{}{No te preocupes. He hablado con él; intentará ser más agradable.}

@@ -42,12 +42,12 @@
 #   1 49		insignificant
 #   50 100		slight
 #   101 149		mild
-# 	0-149 		very nauseous 								
-# 	150-299 	slightly fatigued 			-1 					
+# 	0-149 		very nauseous
+# 	150-299 	slightly fatigued 			-1
 # 	300-449 	vomiting does not stop 	-3 		-1 					-1
 # 	450-599 	hair is falling out 	-5 	-5 	-2 		-1 			-2
 # 	600-999 	skin is falling off 	-10 	-15 	-4 	-3 	-3 	-3 	-1 	-5
-# 	1000+ 		intense agony 		-10 	-20 	-6 	-5 	-5 	-5 	-3 	-6 
+# 	1000+ 		intense agony 		-10 	-20 	-6 	-5 	-5 	-5 	-3 	-6
 #
 #RADIATION:
 #
