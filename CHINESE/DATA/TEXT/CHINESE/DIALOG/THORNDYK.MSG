@@ -9,7 +9,7 @@
 
 #{102}{}{I have heard about you. You are a ruthless killer. I will not heal one who has harmed so many. Get out of here.}
 {102}{}{我听说过你。你是个冷血的杀手。我绝不会为一个伤害了那么多人的家伙治疗。滚出这里。}
- 
+
 #{103}{}{Sir, I am a healer. You have no need for my services.}
 {103}{}{先生，我是个医者。你不需要我的服务。}
 
@@ -117,7 +117,7 @@
 
 #{138}{}{The Holy Flame commands that I heal people. Its wisdom is incontrovertible, so I obey. I have already learned much about the world beyond the Cathedral.}
 {138}{}{圣火号令我医治众生。它的智慧无可质疑，故我遵从无二。对于大教堂之外的世界，我已然学到了许多。}
- 
+
 #{139}{}{Tell me about the Cathedral.}
 {139}{}{告诉我关于大教堂的事情。}
 
@@ -135,28 +135,28 @@
 
 #{144}{}{Sir, forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please, excuse me.}
 {144}{}{抱歉，先生，但我无心长谈。一定有其他人能让您觉得比和我谈话更有教益。且容我告退。}
- 
+
 #{145}{}{Madam, forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please, excuse me.}
 {145}{}{抱歉，女士，但我无心长谈。一定有其他人能让您觉得比和我谈话更有教益。且容我告退。}
- 
+
 #{146}{}{For me, sir, it is a place to practice the gift of healing. For others, it is a place where stray souls may be gathered and put on a productive path. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
 {146}{}{对于我来说，先生，那是个演练治疗天赋的地方。对于其他人来说，那是个漂泊灵魂能够聚集一处走上建设之途的所在。抱歉，但我无心长谈。一定有其他人能让您觉得比和我谈话更有教益。且容我告退。}
- 
+
 #{147}{}{For me, madam, it is a place to practice the gift of healing. For others, it is a place where stray souls may be gathered and put on a productive path. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
 {147}{}{对于我来说，女士，那是个演练治疗天赋的地方。对于其他人来说，那是个漂泊灵魂能够聚集一处走上建设之途的所在。抱歉，但我无心长谈。一定有其他人能让您觉得比和我谈话更有教益。且容我告退。}
- 
+
 #{148}{}{There were a few wise ones among the ancients who believed virtue is its own reward. That is my belief as well. Perhaps if more people shared this opinion, there would have been no need for the Holy Flame. Forgive me, but I have no patience for long conversation. There are other people who may instruct you better than I. Please excuse me.}
 {148}{}{先人中有一些智者认为美德就是它对自身的奖赏。我也如此坚信。如果有更多人这么想的话，或许就不再需要圣焰了吧？抱歉，但我无心长谈。一定有其他人能让您觉得比和我谈话更有教益。且容我告退。}
- 
+
 #{149}{}{Farewell. Should you need me, I will be here. I do hope that you will never need to meet me again.}
 {149}{}{再见了。无论何时您需要我，我就在这里。我殷切希望您再也不用来找我。}
 
 #{150}{}{This is a service, not a business. And your talent is not one which I would brag about. Now please excuse me.}
 {150}{}{这是种服务，而不是一笔生意。并且你的天赋并需要我吹嘘。容我告退了。}
- 
+
 #{151}{}{Alas, your injuries may be beyond my ability to cure. It is said that the Holy Flame can guide those who are cursed with idiocy and lead them to redemption; I shall pray for you.}
 {151}{}{唉，以我的治疗能力或许已经无法治好你的伤势了。据说圣火能够指引那些被诅咒的白痴们以救赎之道；我会为你祈祷的。}
- 
+
 #{152}{}{You are injured. Save the casual conversation for later?Please let me heal you厎
 {152}{}{你受伤了。闲言碎语以后再说？让我给你治疗吧。}
 
@@ -180,7 +180,7 @@
 
 #{159}{}{I am a healer, not a moneylender. The Cathedral sees to my needs, so I might see to the needs of others. Now, let me see to your injury, shall we?}
 {159}{}{我是个医者，不是个放高利贷的。大教堂照顾我的需求，因此我当照顾他人的需求。现在，让我看看你的伤势如何？}
- 
+
 #{160}{}{Go ahead.}
 {160}{}{请吧。}
 
@@ -195,13 +195,13 @@
 
 #{164}{}{I recommend a few days of bedrest, not that anyone ever takes my advice. Now, get out of here.}
 {164}{}{我建议卧床休息几天，不过从没有人听我的意见。现在，离开吧。}
- 
+
 #{165}{}{Your choice. I will be here if you change your mind.}
 {165}{}{你自找的。如果你改变心意的话，我就在这里。}
 
 #{166}{}{【Smiles.】 Terrible people. I sympathize entirely. 【Smile fades】 I will be here if you change your mind. You are excused.}
 {166}{}{【笑】糟糕的人们。我非常同情。【笑容消失】如果你改变心意的话，我就在这里。你已被宽恕了。}
- 
+
 #{167}{}{I'll take that as a yes. Please don't kill me . . .}
 {167}{}{我就把这视作同意了。请别杀我……}
 
@@ -210,13 +210,13 @@
 
 #{169}{}{Poor creature. A beast with your low intellect would be a challenge even for the healing powers of the Holy Flame. Get out of here厎
 {169}{}{可怜的生物。如你这般的蠢笨野兽即使对圣火的医疗力量都会是个挑战。滚出这里吧。}
- 
+
 #{170}{}{I'll take that as a "no". You are excus... uh?You go now. Go!}
 {170}{}{我就把这视作“拒绝”了。你已被宽……呃？你快走吧。走！}
 
 #{171}{}{It's a very beautiful place, although a little overcrowded these days. It's far to the south of us. We faithful gather to praise our master, the Holy Flame, and to pray for peace and Unity. Now, if that will be all厎
 {171}{}{是个非常美丽的地方，尽管这段时间有点拥挤。位于距离我们遥远的南方。我们这些虔诚的人聚集在一起赞美我们的主，圣焰，并且为了和平和统一而祈祷。就这么多。}
- 
+
 #{172}{}{Tell me about peace and Unity厎
 {172}{}{告诉我关于和平与“同一”的事。}
 
@@ -231,7 +231,7 @@
 
 #{176}{}{I have learned we are a spiteful, violent and stupid species, unworthy of the Holy Flame. I have seen greed and evil everywhere. And unless we do something drastic, we shall be burned by Holy Flame again厎
 {176}{}{我已经学到，我们是个恶意，暴力和愚笨的种族，配不上圣火。我在哪里都能看到贪婪与邪恶。除非我们激烈行动，不然会被圣火再次焚烧。}
- 
+
 #{177}{}{Tell me more about the Holy Flame . . .}
 {177}{}{告诉我更多关于圣火的事情……}
 
@@ -249,7 +249,7 @@
 
 #{182}{}{It is indeed, but there are others here who can expound on its glories far more eloquently than I. Good-bye.}
 {182}{}{确实是这样，但是别人肯定能更为雄辩地解释它的光荣。再见。}
- 
+
 #{183}{}{You are breaking my concentration! Do you wish to be healed or not?}
 {183}{}{你在打断我的注意力集中！你到底想不想被治好？}
 
@@ -270,7 +270,7 @@
 
 #{189}{}{Peace is, as ever, forged by war and hardship, as is unity. Alas, my gifts will be needed in the days to come.}
 {189}{}{就如同过往一样，只有战争和艰辛才能铸造和平，恰似“同一”一般。唉，在将来的日子里我的天赋会派上用场的。}
- 
+
 #{190}{}{Tell me about the war?}
 {190}{}{告诉我关于战争的事情？}
 
@@ -282,10 +282,10 @@
 
 #{193}{}{Let me get this right. You're serving a religion that's planning death and destruction, and you don't have a problem with this? You're an idiot!}
 {193}{}{让我把这搞清楚。你在为一个计划着战争和破坏的宗教服务，并且你对此并无质疑？你真是个傻瓜！}
- 
+
 #{194}{}{The old world was filled with evil and decadence. The Holy Flame destroyed it. We can either fear the Holy Flame, or worship it and attempt to understand it. The Children have chosen understanding. Although we do not wish to see the Holy Flame unleashed again.}
 {194}{}{旧世界充满着颓废和邪恶。圣火将它破坏了。我们可以对此心怀恐惧，也可以报以尊敬的态度并试着对其有所了解。大教堂教徒们选择了去了解。尽管我们并不希望圣火再次释放。}
- 
+
 #{195}{}{How do you know what the old world was like?}
 {195}{}{你怎么知道过去的世界是个什么样子？}
 
@@ -297,13 +297,13 @@
 
 #{198}{}{Let me get this straight. In order to understand something, you have to worship it?}
 {198}{}{让我开门见山的说吧。为了了解某事，你不得不先崇拜它？}
- 
+
 #{199}{}{You people are nuts!}
 {199}{}{你们这些家伙真是令人费解！}
 
 #{200}{}{When I ask someone to do something, I do not expect to be ignored. If you choose to ignore my wishes, I can ignore your injuries. Good-bye.}
 {200}{}{当我想让某人做某事的时候，可不希望被忽略。如果你选择忽略我的意愿，我也可以忽略你的伤势。再见。}
- 
+
 #{201}{}{Who the Hell do you think you are? Get out of my sight, you little thug!}
 {201}{}{你他妈以为你是谁？滚出我的视线，你这小暴徒！}
 
@@ -315,7 +315,7 @@
 
 #{204}{}{The Holy Flame is a metaphor for the death of the old world and the beginning of the new. It is the power of life and death. What is more worthy of worship than that?}
 {204}{}{圣火是对旧世界终结，新世界开端的一种隐喻。那是掌控生与死的力量。还有什么比这更值得崇拜的？}
- 
+
 #{205}{}{My gun has the power of life and death, but you don't see a screwball cult worshipping that!}
 {205}{}{我的枪也有掌控生与死的力量，但是你从没见过有哪群发疯的混球信徒崇拜那个的！}
 
