@@ -1,0 +1,56 @@
+{100}{}{Ez itt Sammael, az egyik adytumi gubizó.}
+{101}{}{Egy sötétkék ruhát viselõ szutykos férfit látsz.}
+{102}{}{Hé, alig hiszem el, hogy találkoztunk. Tényleg te vagy?}
+{103}{}{A nevem }
+{104}{}{.}
+{105}{}{Téged hogy hívnak?}
+{106}{}{Eruh?}
+{107}{}{Részemrõl a szerencse. Anyámék Sammaelnek kereszteltek.}
+{108}{}{Mivel foglalkozol?}
+{109}{}{Örültem, hogy beszélgethettünk.}
+{110}{}{Nem vagyok én senkise. Felejtsük el az egészet.}
+{111}{}{Gubizó vagyok, hivatásos guberáló. Az a feladatom, hogy tûvé tegyem a Csonttelepet még használható tárgyakért és információért. Veszélyes egy munka ez.}
+{112}{}{Miért olyan veszélyes?}
+{113}{}{Hogy kerülöd el a Halálkarmokat?}
+{114}{}{Felderítetted már a környezõ területeket?}
+{115}{}{Kösz, viszlát!}
+{116}{}{Még találkozunk. Ha rámlelsz... hehe...}
+{117}{}{Hát, ott vannak ugye a Halálkarmok, nem is beszélve a Rendfenntartókról Adytumban. Egyik sem az az elnézõ fajta.}
+{118}{}{Hogy kerülöd el a Halálkarmokat?}
+{119}{}{Felderítetted már a környezõ területeket?}
+{120}{}{Kösz, viszlát!}
+{121}{}{Éjszaka dolgozunk, és nagyon jól csináljuk. Azt azért elismerem, hogy nem mindegyikünk ússza meg ép bõrrel a dolgot. A múlt héten elküldtem egy emberemet, hogy szerezzen alkatrészeket Miles számára, és azóta sem tért vissza. Az utolsó rádióbeszélgetésünk szerint megszerezte az alkatrészeket, és úton van hazafelé.}
+{122}{}{Csináltam már felderítéseket. Kirõl szeretnél tudni valamit?}
+{123}{}{A Pengésekrõl.}
+{124}{}{A Halálkarmokról.}
+{125}{}{A Fegyverkészítõkrõl.}
+{126}{}{Az Apokalipszis Tanítványairól.}
+{127}{}{A Katedrális Gyermekeirõl.}
+{128}{}{Most senkirõl, köszi.}
+{129}{}{A Pengések elég szerencsétlen egy népség, éppen csak tengetgetik az életüket. Némelyikük itt köt ki Adytumban, ha elfogadják a Rendfenntartók diktálta feltételeket.}
+{130}{}{Nos, ha még sosem láttál egyet sem... kegyetlen egy teremtmények, és semmit nem szeretnek jobban, mint kitépni a szegény gubizó szívét.}
+{131}{}{Hallottam, hogy valahol a Pengésektõl keletre van valami fészkük, de én magam sosem láttam.}
+{132}{}{A Fegyverkereskedõk egy jókora észak-kelet felé található üzembe költöztek nem is olyan régen. Nem tudok róluk sokat mondani, mert van nekik egy radioaktív szmötyivel elárasztott védõárkuk, és ha el akarsz jutni hozzájuk, a Halálkarmokon is keresztül kell verekedni magad.}
+{133}{}{A Tanítványok békét és toleranciát hirdetnek. Szép ötlet, de nem praktikus. Egy észak-nyugatra lévõ nagy könyvtárban laknak.}
+{134}{}{A Katedrális Gyermekei egy déli irányban lévõ hatalmas templomba vették be magukat. Fura dolgok folynak ott. Olyan lényeket láttam ott ki-be közlekedni, amiket nehezen lehetne embernek nevezni.}
+{135}{}{Ha igazak a mendemondák, a templom egy régi Menedék fölé épült. Abban éltek Adytum õslakosai.}
+{136}{}{Hela. Már megint összefutottunk. Mi a dörgés?}
+{137}{}{Mivel is foglalkozol?}
+{138}{}{Semmi különös, kösz.}
+{139}{}{Óh, értem. Helyes. Viszlát!}
+
+# Added by Sduibek for Fallout Fixt:
+
+{140}{}{Miles said I should talk to you about parts for his hydroponic farms. Do you know anything about that?}
+{141}{}{Ah, yes. As a matter of fact I do. Last week I sent a guy up north to look for the parts for Miles, but we haven't heard from him since. The last transmission I got from him was that he'd found the parts, and was on his way back. I haven't had time to check on it personally yet, and I don't want to lose another person to whatever may have caused his disappearance.}
+{142}{}{Tough break, sorry to hear it. Thanks for the info. Bye.}
+{143}{}{If I can get any info on your guy, is there some kind of finder's fee?}
+{144}{}{Great, thank you. I'll search in that area for the parts. I'll let you know if I find your missing friend.}
+{145}{}{Any time. Seeya.}
+{146}{}{Would you? That'd be great. Like I said, things have been busy here and we can't afford to be losing more people.}
+{147}{}{(He laughs.) No, not really. If I had the caps for that I'd already have hired someone to track him down. (He thinks for a moment.) I like your spirit, though. Tell you what, if you can find him, I'll see what I can do for you.}
+{148}{}{Good news, I found your guy. Bad news, he's very dead.}
+{149}{}{I'm sorry to tell you this, but it appears your friend was killed by the Deathclaws at the warehouse.}
+{150}{}{Damn! *sigh* I figured as much. Thanks.}
+{151}{}{Oh, that's right. Here's your reward. (He hands you what looks like a hand-held miniature chainsaw.) There used to be a gang here that used these. Feel free to kill some of those bastard Deathclaws with it. See'ya 'round.}
+{152}{}{Here, take this for the trouble, it's the least I can do. (He hands you 200 caps.)}

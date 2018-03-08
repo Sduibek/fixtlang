@@ -1,0 +1,54 @@
+{100}{}{Miles, Adytum vegyésze.}
+{101}{}{Egy vékony ember látsz fehér munkaköpenyben.}
+{102}{}{Alig hiszem, hogy találkoztunk. Miles vagyok. Miben segíthetek?}
+{103}{}{Csak körbenéztem, kösz.}
+{104}{}{Ez a köpeny erõsen emlékeztet engem valamiféle tudósra. Mit tevékenykedsz?}
+{105}{}{He?}
+{106}{}{Nos, remélem, jól elleszel a mi kis városunkban.}
+{107}{}{Vegyész vagyok. Többnyire gyutacsokat és lõport készítek, hogy újra felhasználhassuk a töltényhüvelyeket. Persze más vegyianyagokkal is szoktam vacakolni.}
+{108}{}{Tehát te csinálod a lõszert Adytum számára.}
+{109}{}{Honnan szerzed a ként, a kálium-nitrátot meg a többi vegyianyagot?}
+{110}{}{Milyen egyéb vegyianyaggal dolgozol még?}
+{111}{}{Köszönöm a felvilágosítást.}
+{112}{}{Igen, bár valójában Smitty az, aki ténylegesen elkészíti a töltényeket. Én csak megtöltöm a hüvelyeket lõporral.}
+{113}{}{Viszont a Hubbeli kereskedõk rajtad és a városon gazdagszanak meg.}
+{114}{}{Ritka dolog, hogy valaki érdeklõdik a vegyészet iránt! De hogy megválaszoljam a kérdésedet, egyes nyersanyagokat a Hub kereskedõitõl szerezzük be, másokat én állítok elõ, illetve felkutatom a környéken. Például a Brahminok után maradt trágyadombok igen jó lelõhelyek, csakúgy, mint az általam termesztett gombák egy része.}
+{115}{}{Jó ideje próbálok egy kis jó erõs savat szerezni, hogy Smitty tudjon maratni vele. Ezenkívül próbáltam színezékeket is készíteni, de természetes szinezõanyagok nélkül ez elég bajos.}
+{116}{}{Bármikor...}
+{117}{}{Nagy ég! Azt hiszem, nem tudok segíteni neked.}
+{118}{}{Üdv! Segíthetek valamiben?}
+{119}{}{Igen, hát valamibõl meg kell élnünk. Mivel a hidropónikus ültetvény nem mûködik, a kereskedõktõl kell élelmiszert vásárolnunk. Sajnos csak lõszert tudunk adni cserébe.}
+{120}{}{Esetleg megpróbálhatnék szerezni alkatrészeket, hogy megjavuljon az a hidropónikus ültetvény.}
+{121}{}{Hát, ez bizony elég gázos.}
+{122}{}{Tényleg? Ez csodálatos lenne! Csak néhány alkatrész hiányzik, de biztos vagyok benne, hogy ha sikerülne a megfelelõ alkatrészt összeguberálnod, önellátók lennénk! Sammaeltõl még megtudhatsz egy-két dolgot errõl.}
+{123}{}{Megvannak már az alkatrészek?}
+{124}{}{Igen, tessék.}
+{125}{}{Még nincsenek. Kit is mondtál, hogy fel kéne keresnem ez ügyben?}
+{126}{}{Sammaellel kéne beszélned. Az ültetvényen megtalálod, rendszerint egy sátorban tanyázik a nap folyamán.}
+{127}{}{[Miles átnézi az alkatrészeket.] Ezek kellenek ide, de úgy látom Smittynek egy kicsit el kell bütykölnie velük. Elvinnéd ezeket neki?}
+{128}{}{Van egy s más elintézendõ dolgom. Számíthatok ebben rád?}
+{129}{}{Hogyne, visszajövök, ha megcsinálta õket.}
+{130}{}{Hogyne, örülök, hogy elõkerítetted ezeket.}
+{131}{}{And... }
+{132}{}{Nem probléma.}
+{133}{}{Jaj, majdnem elfelejtettem. Itt van egy-két csekélység a fáradozásodért. [Miles átnyújt néhány kupakot és stimpakkot.]}
+{134}{}{Sikerült eljuttatni az alkatrészeket Smittynek?}
+{135}{}{[Miles átveszi a megjavított alkatrészeket] Úgy látom, Smitty igen jó munkát végzett rajtuk. Köszönjük a segítséget, és fogadd el ezt az apróságot a fáradozásodért.}
+{136}{}{[Miles átnyújt néhány kupakot és stimpakkot.]}
+{137}{}{Ha valaha visszavet ide a sors, nézz be hozzám vagy Smittyhez. Van rá esély, hogy némelyik felszerelésedet meg tudjuk tuningolni. Smitty csodákat képes mûvelni egyes fegyverekkel, én pedig a védõöltõzetekhez értek.}
+{138}{}{Úgy látom, találtál valamiféle erõpáncélt. Hallottam egy vegyi eljárásról, amellyel meg lehet keményíteni a páncél felületét. Az a gond azonban, hogy egy-két infót nem tudok. Ez ahhoz kéne, hogy a szükséges képletekrõl és reagensekrõl legyen némi lövésem. Él egy könyvtáros a Hubban, Mrs. Stapleton. Neki vannak leírásai meg könyvei, amiket felhasználhatnék. Ha megszerzed nekem, valószínûleg kipróbálhatnám az eljárást a páncélodon.}
+{139}{}{Nem hangzik rosszul. Megyek és beszélek ezzel a Mrs. Stapletonnal.}
+{140}{}{Van énnekem jobb dolgom is, mint hurcolgatni dolgokat neked.}
+{141}{}{Ha esetleg valaha is meggondolnád magad, csak keresd fel Mrs. Stapletont, és gyere vissza hozzám!}
+{142}{}{Sikerült eljutni a Hubba Mrs. Stapletonhoz?}
+{143}{}{Igen, itt vannak a könyvek.}
+{144}{}{Még nem.}
+{145}{}{[Miles átveszi a könyveket és lapozgatni kezdi õket.] Hmmmm. Igen, hmmmm. [Dünnyög magában néhány percig.] Nos, azt hiszem, képes leszek kisilabizálni, de egy egész nap kell az anyag kötéséhez. Elfogadható ez?}
+{146}{}{Egyáltalán nem gond.}
+{147}{}{Elnézést, de ennyi idõm nincs.}
+{148}{}{Jó, ha esetleg mégis tudsz rá idõ szakítani, gyere vissza, és végigcsinálom az eljárást a páncélodon!}
+{149}{}{[Miles átveszi a páncélodat.]}
+{150}{}{[Miles visszaadja a péncélodat, úgy tûnik, egy kicsivel jobban csillog, mint korábban.] Nos, úgy tûnik, mûködött a dolog. Remélem, segítségedre lesz.}
+{151}{}{Mi történt az erõpáncéloddal? Csak akkor tudok segíteni, ha van erõpáncélod.}
+{152}{}{Örülök, hogy látlak, de épp egy nagy kísérlet közepén vagyok.}
+{153}{}{Ezzel a páncéllal semmit nem tudok kezdeni. Sajnálom.}

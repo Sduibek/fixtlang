@@ -1,0 +1,11 @@
+{101}{}{Most nincs szükségem a szolgálataidra. Talán késõbb.}
+{102}{}{Segítség! Ments meg!}
+{103}{}{Most meghalsz azért, amit csináltál!}
+{104}{}{Kegyelmezz! Kérlek!}
+{105}{}{Meghaltak már? Lehet, hogy vannak még páran!}#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+{106}{}{Idõben érkeztél, barátom. Engedd meg, hogy hálám jeléül átadjak valami apróságot.}
+{107}{}{Idõben érkeztél, barátom. Engedd meg, hogy hálám jeléül átadjak valami apróságot.}

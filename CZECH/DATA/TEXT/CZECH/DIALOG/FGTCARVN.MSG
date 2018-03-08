@@ -1,12 +1,10 @@
 {100}{}{Vidíš øidièe karavany od Far Go Traders.}
 {101}{}{Ahoj, jestli chceš práci, promluv si s Rutgerem. Je pøímo támhle.}
 {102}{}{Budeš si muset promluvit s Rutgerem.}
-{103}{}{Take jsi se nechal najmout. To rád slyším.  Hele, vyjídíme kadıch deset dní. To znamená
- 8., 18. a 28. dne kadıho mìsíce. Cestujeme k Bratrstvu, do Junktownu a do LA Pohøebištì.}
+{103}{}{Take jsi se nechal najmout. To rád slyším.  Hele, vyjídíme kadıch deset dní. To znamená 8., 18. a 28. dne kadıho mìsíce. Cestujeme k Bratrstvu, do Junktownu a do LA Pohøebištì.}
 {104}{}{Kolik platíte?}
 {105}{}{Hmm.}
-{106}{}{Dostaneš 400 babek. Moná ti to nepøijde tak moc, ale jezdíme èasto a o ivot se taky moc bát nemusíš. 
- A navíc dostaneš zaplaceno za kadou cestu zvláš, take to celkem mùe dìlat osm stovek.}
+{106}{}{Dostaneš 400 babek. Moná ti to nepøijde tak moc, ale jezdíme èasto a o ivot se taky moc bát nemusíš.  A navíc dostaneš zaplaceno za kadou cestu zvláš, take to celkem mùe dìlat osm stovek.}
 {107}{}{ Dneska vyráíme. Máš zájem?}
 {108}{}{ Vyjídíme }
 {109}{}{Prázdnı}
@@ -56,9 +54,7 @@
 {153}{}{.  Pak vyrazíte. Jako vdycky to bude 400.}
 {154}{}{Jo.}
 {155}{}{Je mi líto, nemùu èekat.}
-{156}{}{Nevím pøesnì, co se stalo, ale celá karavana zmizela. Zajímavé, e se to stalo zrovna takhle,
- a ty jedinı jsi pøeil, co? Vìci se obvykle takhle nepodìlají. Nemyslím, e bych tì mohl ještì nìkdy najmout,
- pøedpokládám, e chápeš proè.}
+{156}{}{Nevím pøesnì, co se stalo, ale celá karavana zmizela. Zajímavé, e se to stalo zrovna takhle, a ty jedinı jsi pøeil, co? Vìci se obvykle takhle nepodìlají. Nemyslím, e bych tì mohl ještì nìkdy najmout, pøedpokládám, e chápeš proè.}
 {157}{}{Junktown}
 {158}{}{LA Pohøebištì }
 {159}{}{Ehm, teï ne. Moná jindy.}
@@ -97,8 +93,7 @@
 {192}{}{Jo.}
 {193}{}{Ne!}
 {194}{}{Polk!}
-{195}{}{Jinak to dám nìkomu jinému, nelam si hlavu. Nejsi nijak vázán...
- tedy dokud nevyjedeš s karavanou, jasnı?}
+{195}{}{Jinak to dám nìkomu jinému, nelam si hlavu. Nejsi nijak vázán... tedy dokud nevyjedeš s karavanou, jasnı?}
 {196}{}{Další karavana nevyjede døív, ne }
 {197}{}{8.}
 {198}{}{18.}
@@ -124,7 +119,5 @@
 {218}{}{Doufám, e máš rád hory! Míøíš pøímo do nich. Tam se rozhodnì nudit nebudeš.}
 {219}{}{Pøiprav se na cestu, míøíš pøímo do hor! To bude vodvaz!}
 # invasion- WastelandGhost@RestorationMOD
-{300}{}{Take tì najmuli. To rád slyším.  Hele, vyjídíme kadıch deset dní. To znamená
- 8., 18. a 28. dne kadıho mìsíce. Cestujeme k Bratrstvu a do Junktownu.
- Kolují zvìsti, e Pohøebištì bylo vyplenìno invazí mutantù, take tam u nechodí.}
+{300}{}{Take tì najmuli. To rád slyším.  Hele, vyjídíme kadıch deset dní. To znamená 8., 18. a 28. dne kadıho mìsíce. Cestujeme k Bratrstvu a do Junktownu. Kolují zvìsti, e Pohøebištì bylo vyplenìno invazí mutantù, take tam u nechodí.}
 

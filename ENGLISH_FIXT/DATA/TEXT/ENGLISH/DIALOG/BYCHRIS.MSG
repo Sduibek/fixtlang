@@ -17,9 +17,9 @@
 # The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
 #
 #  Christine: See the itty-bitty ducks?
-#    Player: Them are not ducks. 
+#    Player: Them are not ducks.
 #  Christine: Oh yes them are! / See the itty-bitty wings?
-#    Player: Why I'll be! Them are ducks! 
+#    Player: Why I'll be! Them are ducks!
 #
 {112}{}{C D E D B D Ducks}
 {113}{}{M R Not Ducks}

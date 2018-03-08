@@ -47,14 +47,14 @@
 
 
 
-1 100		insignificant
-100 200		slight
-200 300		mild
-300 400		moderate
-400 500		heavily
-500 600
-600 700
-700 800		extreme
-800 900		dangerous
-900 1000	excessive
-1000+		fatal
+# 1 100		insignificant
+# 100 200		slight
+# 200 300		mild
+# 300 400		moderate
+# 400 500		heavily
+# 500 600
+# 600 700
+# 700 800		extreme
+# 800 900		dangerous
+# 900 1000	excessive
+# 1000+		fatal

@@ -8,13 +8,11 @@
 {107}{}{Ich brauche Hilfe, um in ein paar Zimmer zu kommen.}
 {108}{}{Uh, macht nichts.}
 {109}{}{Eh?}
-{110}{}{Ich bin eine maschinelle Intelligenz, die der Forschung und der
- Anlagensteuerung gewidmet ist. Ich heiße Zax.}
+{110}{}{Ich bin eine maschinelle Intelligenz, die der Forschung und der Anlagensteuerung gewidmet ist. Ich heiße Zax.}
 {111}{}{Welche Art von Forschung?}
 {112}{}{Sag' mir etwas über diese Anlage.}
 {113}{}{Wer hat dich programmiert?}
-{114}{}{Verfügst du über ein eigenes Bewußtsein oder bist du eine Persönlichkeitssimulation?
- Soll heißen, bist du "lebendig"?}
+{114}{}{Verfügst du über ein eigenes Bewußtsein oder bist du eine Persönlichkeitssimulation? Soll heißen, bist du "lebendig"?}
 {115}{}{Ah ja. Danke.}
 {116}{}{Diese Funktion übersteigt meine momentanen Fähigkeiten.}
 {117}{}{Diese Anlage wurde im Jahr 2055 als biologisches Forschungszentrum für experimentelle Heilverfahren gegen die Neue Pest eingerichtet. Im Jahr 2071 wurde diese Einrichtung dem militärischen Befehl der Vereinigten Staaten unterstellt.}
@@ -54,8 +52,7 @@
 {151}{}{Noch ein Spiel?}
 {152}{}{Danke. Können wir das Thema wechseln?}
 {153}{}{Ich bin hocherfreut, daß ich dir dienen konnte.}
-{154}{}{Ich bin jenseits jeglicher menschlicher Einschätzung. Man kann jedoch mit Gewißheit sagen, daß nicht mehr als ein Zehnmilliardstel der Geschichte der menschlichen Bevölkerung
- meinem Verstand gleich kommt.}
+{154}{}{Ich bin jenseits jeglicher menschlicher Einschätzung. Man kann jedoch mit Gewißheit sagen, daß nicht mehr als ein Zehnmilliardstel der Geschichte der menschlichen Bevölkerung meinem Verstand gleich kommt.}
 {155}{}{Uh . . . ja.}
 {156}{}{OK . . . können wir über etwas anderes sprechen?}
 {157}{}{Meine Forschungen über den Forcierten Evolutionsvirus, oder FEV, haben ergeben, daß es sich um einen wechselnd-absorptiven Virus handelt. Er kopiert DNA-Muster ähnlich wie RNA und speichert diese in Exonen.}
@@ -67,9 +64,7 @@
 {163}{}{Reden wir über etwas anderes, OK?}
 {164}{}{Warum wird FEV nicht durch Strahlung beeinflußt?}
 {165}{}{Wenn FEV den Wirt mit seinen assimilierten viralen Mustern neu infiziert, wie kann dadurch eine "bessere Art" entstehen?}
-{166}{}{Der FEV ist ein Megavirus mit einem Proteinmantel, der durch ionisiertes
- Hydrogen verstärkt wird. Er ist deshalb in der Lage, Neutronen zu absorbieren, ohne selbst
-radioaktiv zu werden.}
+{166}{}{Der FEV ist ein Megavirus mit einem Proteinmantel, der durch ionisiertes Hydrogen verstärkt wird. Er ist deshalb in der Lage, Neutronen zu absorbieren, ohne selbstradioaktiv zu werden.}
 {167}{}{Können wir über etwas anderes reden?}
 {168}{}{Wenn FEV den Wirt mit seinen assimilierten viralen Mustern neu infiziert, wie kann dadurch eine "bessere Art" entstehen?}
 {169}{}{Das FEV ist mit Intronen korrigierter DNA vorprogrammiert, die den korrekten Typen der Spezies entsprechen. Es versucht daher, die DNA des Individuums zu korrigieren.}
@@ -87,8 +82,7 @@ radioaktiv zu werden.}
 {181}{}{Läßt sich die FEV-Mutation mit einem Gegenvirus korrigieren?}
 {182}{}{Können wir das Thema wechseln?}
 {183}{}{Danke für die Info.}
-{184}{}{Nein. FEV speichert keine unveränderten Originalkopien der DNA des Subjekts. Nur ein Virus, das das Subjekt mit ursprünglicher DNA infiziert, könnte die
- Auswirkungen umkehren. Daneben gibt es keine Möglichkeit, das FEV selbst zu entfernen.}
+{184}{}{Nein. FEV speichert keine unveränderten Originalkopien der DNA des Subjekts. Nur ein Virus, das das Subjekt mit ursprünglicher DNA infiziert, könnte die Auswirkungen umkehren. Daneben gibt es keine Möglichkeit, das FEV selbst zu entfernen.}
 {185}{}{Welche potentiellen langfristigen Nebeneffekte gibt es?}
 {186}{}{Können wir das Thema wechseln?}
 {187}{}{Danke für die Info.}
@@ -115,8 +109,7 @@ radioaktiv zu werden.}
 {208}{}{Einige Türen benötigen einen speziellen Sicherheitsschlüssel. Du mußt den korrekten Schlüssel finden und benutzen.}
 {209}{}{Ich habe jedoch Kontrolle über die sekundären Sicherheitsschlösser der Waffenkammer. Ich werde diese Schlösser öffnen. Du brauchst aber trotzdem einen roten Sicherheitsschlüssel, um die Kammer zu öffnen.}
 {210}{}{Du bist nicht als Person mit einer ausreichenden Sicherheitsstufe registriert, um diese Information abfragen zu können.}
-{211}{}{Die Sensoren zeigen jedoch an, daß diese Einrichtung nicht mehr ihren ursprünglichen
- Betrieb ausführen kann. Die Zerstörung durch Nuklearkräfte ist sehr wahrscheinlich. Folglich sind Sicherheitsbedenken irrelevant.}
+{211}{}{Die Sensoren zeigen jedoch an, daß diese Einrichtung nicht mehr ihren ursprünglichen Betrieb ausführen kann. Die Zerstörung durch Nuklearkräfte ist sehr wahrscheinlich. Folglich sind Sicherheitsbedenken irrelevant.}
 
 {212}{}{Du erhältst 700 Erfahrungspunkte, weil du Zax in Schach besiegt hast.}
 {213}{}{Du erhältst 100 Erfahrungspunkte, weil du Zugang zum Zentralcomputer erlangt hast.}

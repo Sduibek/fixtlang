@@ -30,7 +30,7 @@
 {108}{}{ y }
 #
 #
-# Combat Flag Strings (all of these happen to you, the male player)
+# Combat Flag Strings (all of these happen to you, the MALE player)
 #
 #
 {200}{}{te dejan fuera de combate}
@@ -47,8 +47,8 @@
 {211}{}{armadura traspasada}
 {212}{}{explotó tu arma}
 {213}{}{tu arma ha sido destruida}
-{214}{}{tu arma cayó al suelo}
-{215}{}{perdiste el turno siguiente}
+{214}{}{se te cae el arma}
+{215}{}{pierdes el turno siguiente}
 {216}{}{te golpeas a ti mismo}
 {217}{}{pierdes el resto de la munición}
 {218}{}{disparas un tiro defectuoso}
@@ -64,7 +64,7 @@
 {250}{}{te dejan fuera de combate}
 {251}{}{eres derribada}
 {252}{}{te lisias la pierna izquierda}
-{253}{}{te lisias la pierna derecha }
+{253}{}{te lisias la pierna derecha}
 {254}{}{te lisias el brazo izquierdo}
 {255}{}{te lisias el brazo derecho}
 {256}{}{te quedas ciega}
@@ -75,8 +75,8 @@
 {261}{}{armadura traspasada}
 {262}{}{explotó tu arma}
 {263}{}{tu arma ha sido destruida}
-{264}{}{se te cayó el arma}
-{265}{}{has perdido tu siguiente turno}
+{264}{}{se te cae el arma}
+{265}{}{pierdes el turno siguiente}
 {266}{}{te golpeas a ti misma}
 {267}{}{pierdes el resto de la munición}
 {268}{}{disparas un tiro defectuoso}
@@ -111,7 +111,7 @@
 {319}{}{se hizo daño a si mismo}
 {320}{}{es golpeado al azar}
 {321}{}{se lisia un miembro al azar}
-{322}{}{acribillado con fragmentos}
+{322}{}{es acribillado con fragmentos}
 #
 #
 # Combat Flag Strings (all of these happen to a FEMALE)
@@ -139,7 +139,7 @@
 {419}{}{se hizo daño si misma}
 {420}{}{es golpeada al azar}
 {421}{}{se lisia un miembro al azar}
-{422}{}{acribillada con fragmentos}
+{422}{}{es acribillada con fragmentos}
 #
 #
 # Miscellaneous combat messages (all of these happen to you, the MALE player)
@@ -187,12 +187,12 @@
 #          where the second %s is the name of another creature.
 #
 {556}{}{}
-{559}{}{¡Ups! %Te han dado, ¡en vez de %s!}
+{559}{}{¡Ups! %sTe han dado a ti, ¡en vez de a %s!}
 {561}{}{%sTe han dado críticamente (%s), pierdes %d puntos de salud}
 {562}{}{%sTe han dado (%s), pierdes %d puntos de salud}
 {563}{}{%sTe han dado, pierdes %d puntos de salud}
 {564}{}{%sFallas críticamente}
-{565}{}{%sFallaste}
+{565}{}{%sFallas}
 {570}{}{%sTe han dado críticamente, pierdes %d puntos de salud}
 {571}{}{%sTe han dado críticamente (%s), pierdes 1 punto de salud}
 {572}{}{%sTe han dado (%s), pierdes 1 punto de salud}
@@ -216,7 +216,7 @@
 #          where the second %s is the name of another creature.
 #
 {608}{}{¡Ups! ¡Le dieron a %s en vez de a ti!}
-{609}{}{¡Ups! ¡Le dieron a %s en vez da a %s!}
+{609}{}{¡Ups! ¡Le dieron a %s en vez de a %s!}
 {611}{}{%s fue golpeado críticamente (%s), pierde %d puntos de salud}
 {612}{}{%s fue golpeado (%s), pierde %d puntos de salud}
 {613}{}{%s fue golpeado, pierde %d puntos de salud}
@@ -295,12 +295,12 @@
 #
 # Brahmin (Mutant 2-Headed Cows)
 #
-{1150}{}{cabeza}
-{1151}{}{pata I}
-{1152}{}{pata D}
+{1150}{}{cabezas}
+{1151}{}{pata trasera I}
+{1152}{}{pata trasera D}
 {1153}{}{cuerpo}
-{1154}{}{pata D}
-{1155}{}{pata I}
+{1154}{}{pata delantera D}
+{1155}{}{pata delantera I}
 {1156}{}{ojos}
 {1157}{}{ubres}
 {1158}{}{}
@@ -308,16 +308,16 @@
 # dogs
 #
 {1160}{}{cabeza}
-{1161}{}{pata I}
-{1162}{}{pata D}
+{1161}{}{pata trasera}
+{1162}{}{pata trasera}
 {1163}{}{cuerpo}
-{1164}{}{pata D}
-{1165}{}{pata I}
+{1164}{}{pata delantera}
+{1165}{}{pata delantera}
 {1166}{}{ojos}
 {1167}{}{ingle}
 {1168}{}{}
 #
-# Mr. Handy 
+# Mr. Handy
 #
 {1170}{}{CPU}
 {1171}{}{brazos I}
@@ -358,7 +358,7 @@
 {1210}{}{cabeza}
 {1211}{}{brazo I}
 {1212}{}{brazo D}
-{1213}{}{tronco}
+{1213}{}{torso}
 {1214}{}{pierna D}
 {1215}{}{pierna I}
 {1216}{}{ojos}
@@ -371,8 +371,8 @@
 {1221}{}{cola}
 {1222}{}{pinzas}
 {1223}{}{caparazón}
-{1224}{}{patas}
-{1225}{}{patas}
+{1224}{}{patas delanteras}
+{1225}{}{patas traseras}
 {1226}{}{ojos}
 {1227}{}{cerebro}
 {1228}{}{}
@@ -514,7 +514,7 @@
 {1550}{}{cabeza}
 {1551}{}{garra I}
 {1552}{}{garra D}
-{1553}{}{torso}
+{1553}{}{cuerpo}
 {1554}{}{pata D}
 {1555}{}{pata I}
 {1556}{}{ojos}
@@ -547,18 +547,18 @@
 {5005}{}{. El fuerte golpe en la cabeza lo ha dejado fuera de combate}
 {5006}{}{. El golpe aplasta la sien. Buenas noches}
 {5007}{}{, se convierte en la pesadilla de un agente funerario. Su muerte es instantánea}
-{5008}{}{, causando un codazo severo}
+{5008}{}{, provocando un fuerte codo de tenista}
 {5009}{}{, quitando el brazo de en medio}
 {5010}{}{, haciendo un gran moretón}
 {5011}{}{, hiriendo el brazo izquierdo}
 {5012}{}{, dejando el brazo izquierdo colgando por la piel}
-{5013}{}{. Ese brazo ahora parece un muñón}
+{5013}{}{. Ese brazo ahora parece un muñón sangriento}
 {5014}{}{, dejando el brazo derecho herido}
 {5015}{}{. Su brazo ha quedado pulverizado por este poderoso golpe}
-{5016}{}{ en un contundente golpe}
+{5016}{}{ con un poderoso golpe}
 {5017}{}{, reventando la armadura}
 {5018}{}{, infligiendo daños adicionales}
-{5019}{}{ a través de su armadura, haciendo caer al suelo al combatiente}
+{5019}{}{ a través de su armadura, haciendole caer al suelo}
 {5020}{}{ dejándolo sin aire, se desploma al suelo}
 {5021}{}{. Desgraciadamente su espina dorsal asoma por su pecho}
 {5022}{}{ haciéndole una grave herida en la pierna}
@@ -568,8 +568,8 @@
 {5026}{}{. El intenso dolor de la pierna arrancada hace que se retire}
 {5027}{}{ infligiendo algo de dolor extra}
 {5028}{}{ causando ceguera, por desgracia para él}
-{5029}{}{, y causando fuerte dolor al no tener protección ahí}
-{5030}{}{, y dejando ciego a tu oponente}
+{5029}{}{, y al no tener protección en la zona, le causa un gran dolor}
+{5030}{}{, dejándolo ciego con un sorprendente golpe}
 {5031}{}{. La pérdida de un ojo es demasiado para él, cae al suelo}
 {5032}{}{, por desgracia, está demasiado ocupado sintiendo la brisa en los sesos como para notar que se aproxima la muerte}
 {5033}{}{. ¡Ay! Eso tuvo que doler}
@@ -580,26 +580,26 @@
 #
 # series 5100 - WOMEN
 #
-{5100}{}{. El ataque la ha dejado fuera de combate}
+{5100}{}{ y duele de verdad}
 {5101}{}{. Se inflige una herida grave}
 {5102}{}{ atravesando su armadura}
 {5103}{}{. El potente ataque la deja inconsciente}
-{5104}{}{. El sopapo hace que se caiga al suelo}
+{5104}{}{. El golpe la hace caer al suelo}
 {5105}{}{. El fuerte golpe en la cabeza la deja inconsciente}
 {5106}{}{. El golpe aplasta su sien en una fuente de sangre. Buenas noches, Gracie}
 {5107}{}{, haciéndola girar en una danza macabra. La muerte es instantánea.}
-{5108}{}{, provocando un grave codazo}
+{5108}{}{, provocando un fuerte codo de tenista}
 {5109}{}{, quitando el brazo de en medio}
 {5110}{}{, haciendo un gran moretón}
 {5111}{}{, perforando el codo izquierdo con facilidad}
 {5112}{}{. El brazo izquierdo le cuelga levemente del hombro}
-{5113}{}{. Ese brazo parece ahora un muñón}
+{5113}{}{. Ese brazo ahora parece un muñón sangriento}
 {5114}{}{, destrozando su brazo en una lluvia carmesí}
 {5115}{}{. Su brazo derecho queda hecho picadillo por el golpe}
 {5116}{}{ con un poderoso golpe}
 {5117}{}{ traspasando sus defensas}
-{5118}{}{, infligiendo una ayuda extra de daños}
-{5119}{}{ traspasa su armadura, tirándola al suelo}
+{5118}{}{, infligiendo daños adicionales}
+{5119}{}{ traspasando su armadura, tirándola al suelo}
 {5120}{}{ sacándole el aire. Se desploma en el suelo}
 {5121}{}{. Desgraciadamente, sus órganos vitales han quedado expuestos a la luz}
 {5122}{}{ hiriéndola de gravedad en la pierna}
@@ -609,11 +609,11 @@
 {5126}{}{. Grita de dolor por la pierna rota}
 {5127}{}{ infligiendo algo de dolor extra}
 {5128}{}{ dejándola ciega. Hace una mueca}
-{5129}{}{, y sin protección ahí, causando mucho dolor}
+{5129}{}{, y al no tener protección en la zona, le causa un gran dolor}
 {5130}{}{. La herida la deja gravemente ciega, como si pudiese haber una ceguera leve}
 {5131}{}{. Se desmaya por el cegador ataque}
 {5132}{}{, qué pena, no reza a sus dioses antes de reunirse con ellos}
-{5133}{}{. Se lo toma como un hombre. O sea, que llora}
+{5133}{}{. Se lo toma como un hombre. Es decir, que le duele}
 {5134}{}{, cae al suelo}
 {5135}{}{. Ya no podrá ser madre, se desploma con la cadera destrozada}
 #
@@ -701,7 +701,7 @@
 {5512}{}{. El brahmin resopla de dolor}
 {5513}{}{. El brahmin está enfadadísimo por tu ataque devastador en las ubres}
 #
-# series 5600 - Radscorpions 
+# series 5600 - Radscorpions
 #
 {5600}{}{, enviando al escorpión rad a volar}
 {5601}{}{, separando la cabeza del caparazón}
@@ -858,16 +858,16 @@
 #
 # ENTRIES FROM WASTELAND, FOR SDUIBEK'S REFERENCE:
 #
-#  A. Exploding it    3. like a blood sausage  
-#  B. Reducing it     2. into a thin red paste 
+#  A. Exploding it    3. like a blood sausage
+#  B. Reducing it     2. into a thin red paste
 #  B. Reducing it     2. into a fine red mist
-#  B. Reducing it     7. into an undertaker's nightmare 
-#  C. Spinning him    4. into a dance of death 
-#  D. Blasting it     1. into ground round 
-#  E. Sending him     6. to meet his maker 
-#  F. Ripping it      5. into a scarlet side of meat 
+#  B. Reducing it     7. into an undertaker's nightmare
+#  C. Spinning him    4. into a dance of death
+#  D. Blasting it     1. into ground round
+#  E. Sending him     6. to meet his maker
+#  F. Ripping it      5. into a scarlet side of meat
 #  G. Killing it      [no ending]
-#  
+#
 #  heap of unrecognizable gore
 #  reducing it to platinum shards
 #

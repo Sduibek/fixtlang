@@ -1,0 +1,121 @@
+{100}{}{Egy ghoul vezetõt látsz.}
+{101}{}{Kösz, hogy nem élbõl lõttél. Segíthetek bármiben is?}
+{102}{}{Igen, vizet keresek.}
+{103}{}{Segíthetsz bizony. Ki vagy te?}
+{104}{}{Nah.}
+{105}{}{Ha akarsz, pihenhetsz nálunk, nem fogunk bántani.}
+{106}{}{Ahh.}
+{107}{}{Egy egyszerû nép egyszerû vezetõje vagyok, aki mások miatt hagyta ott a felszínt.}
+{108}{}{Ki kényszerített le ide benneteket?}
+{109}{}{Anyám borogass, ez nagyon ostoba dolog!}
+{110}{}{Hmm. Oké. Viszlát!}
+{111}{}{A felszíni Nekropoliszt és a vizet Set meg a Ghouljai tartják kézben. Mi sokkal békésebbek vagyunk, és ez bizony undorral tölti el Setet.}
+{112}{}{Ki valójában ez a Set?}
+{113}{}{Set már nem sok vizet zavar többé. Elintéztem.}
+{114}{}{Víz nélkül hogyan tudtok itt életben maradni?}
+{115}{}{Hát én sem lennék oda egy rakás puhányért. Úgy tûnik, Setnek helyén van az esze.}
+{116}{}{Set hozzánk hasonló ghoul, de a fenti világban némi hatalom jutott a kezébe. Micsoda fajankó.}
+{117}{}{Õ sokkal érdekesebb figurának tûnik számomra, mint a ti szörnyszülött társaságotok.}
+{118}{}{Miért hagyja, hogy idelenn tevékenykedjetek?}
+{119}{}{Nem szívesen szokott beszélni róla, de Set retteg attól, hogy nincs elég embere Nekropolisz megvédéséhez, ha a szükség úgy hozná. Éppen ezért vizet ad nekünk.}
+{120}{}{Honnan jön ez a víz?}
+{121}{}{A népemnek vízre van szüksége! Ha tudod, honnan szerzi a vizet, azonnal mondd meg!}
+{122}{}{Ez víztisztító csipet keresek, hogy elláthassam a népemet a szükséges vízzel. Tudod, hol találhatnék ilyesmit?}
+{123}{}{Ti még egy papírzsákot sem tudnátok hatékonyan megvédeni, srácok. Na, térjünk vissza erre a víz témára...}
+{124}{}{Egészen mostanáig a földbõl pumpáltuk fel a vizet, a Víznyerõben lévõ szivattyúval.}
+{125}{}{Egészen mostanáig? Csak nem változott a helyzet?}
+{126}{}{Hogy jutok el a Víznyerõbe?}
+{127}{}{Mi az a víznyerõ?}
+{128}{}{Mivel a szivattyúnk felmondta a szolgálatot, egy föld alatti helyrõl nyerjük a vizünket. Úgy hallottam, egy célszámítógépet használnak a víz tisztítására.}
+{129}{}{Köszönöm.}
+{130}{}{Hol találom?}
+{131}{}{A Víznyerõ északra található. Nyakadba kell venni a csatornát, ha el akarsz jutni oda.}
+{132}{}{Ugye nem akarod elvenni tõlünk a Vízcsipünket?}
+{133}{}{Ömm.. Jaj, dehogy, sosem tennék én olyat. Csak meg akarom sasolni, hogy mûködik.}
+{134}{}{A népemnek természetesen szüksége van arra a Vízcsipre a túléléshez.}
+{135}{}{Miért?}
+{136}{}{Ha elveszed a Vízcsipünket, mind meghalunk. A szivattyú tönkrement, ezért ez a talpon maradásunk egyetlen módja.}
+{137}{}{Ami azt illeti, nem igazán érdekeltek, sem te, sem a néped. A saját túlélésünkhöz nekünk is kell az a francos Vízcsip. Minden jót!}
+{138}{}{Van rá esély, hogy a szivattyútokat megjavítsa valaki?}
+{139}{}{Ha így állunk, akkor nem engedhetem, hogy élve távozz tõlem.}
+{140}{}{Aligha hiszek neked.}
+{141}{}{Elnézést, nem akartalak becsapni. Mi a gond azzal, ha magammal viszem a Víztisztító csipet?}
+{142}{}{Hát, nem igazán érdekel. Ha nem állsz el az utamból, magam intézlek el!}
+{143}{}{Ez nehézségekbe ütközhet. A szivattyú megjavításához szükséges alkatrészek elvesztek a víznyerõ alatti csatornában.}
+{144}{}{Hol itt a nehézség?}
+{145}{}{Ezekre az alkatrészekre gondolsz? (Megmutatod a ghoul vezetõnek az általad talált alkatrészeket)}
+{146}{}{A csatorna szörnyekkel van tele, és még egyetlen leküldött emberemnek sem sikerült visszahozni semmit onnan. Hajlandó vagy tán visszaszerezni az alkatrészeket, hogy a szivattyút megjavíthassuk?}
+{147}{}{Túlságosan problémás ez, azt hiszem, inkább fogom azt a Vízcsipet.}
+{148}{}{Igen.}
+{149}{}{Mivel ti alkalmatlanok vagytok ehhez, hajlandó vagyok közremûködni.}
+{150}{}{Köszönöm. Ha megvannak az alkatrészek, gyere ide vissza! Lehetséges, hogy további segítségedre lehetek.}
+{151}{}{Oké, akkor indulok is.}
+{152}{}{Megtaláltad már a szivattyú alkatrészeit?}
+{153}{}{Még nem.}
+{154}{}{Nem, de úgy döntöttem, hogy ejtem az egészet.}
+{155}{}{Hol is kéne keresnem?}
+{156}{}{Akkor sok szerencsét!}
+{157}{}{Hát újra nálam... Nálad vannak a szivattyú megjavításához szükséges alkatrészek?}
+{158}{}{Nálam.}
+{159}{}{Igen, de úgy döntöttem, hogy eszem ágában sincs megjavítani azt a szivattyút.}
+{160}{}{Nagyon úgy tûnik, hogy segítségre lesz szükséged azokkal az alkatrészekkel. Fogadd el ez a néhány könyvet. Itt találtam õket szétdobálva. Talán hasznos információkkal szolgálnak majd. Most pedig kérlek, vidd az alkatrészeket a víznyerõbe és javítsd meg a szivattyút!}
+{161}{}{Sajnos többet nem segíthetek. Sok szerencsét a szivattyúval. Kérlek, vidd az alkatrészeket a víznyerõbe és javítsd meg azt a vackot!}
+{162}{}{Megjavítottad a szivattyút?}
+{163}{}{Nem, még nem, de dolgozom rajta.}
+{164}{}{Nem, és mostanában nincs is nagyon szándékomban.}
+{165}{}{Igen, az alkatrészek jónak bizonyultak. Köszönd az vízáramnak, hogy sikerült megkaparintani õket.}
+{166}{}{Van még valami, amit tudnom kéne?}
+{167}{}{Ennél közelebb nem fognak jutni a szivattyúhoz.}
+{168}{}{Ahogy azt már mondottam, a víznyerõ alatti csatornarendszerben van mind. Menj keletre innen, aztán észak felé! Ott megtalálod a víznyerõt.}
+{169}{}{Kösz az eligazítást. Még találkozunk!}
+{170}{}{Köszönöm a segítséget. Volt még valami, amire választ szerettél volna kapni?}
+{171}{}{Hogy éltétek itt túl víz híján?}
+{172}{}{Ott tároljuk és osztjuk szét az összes vizünket.}
+{173}{}{Merre találom?}
+{174}{}{Mostanában hallottam, hogy valaki átvette a Víznyerõ fölötti irányítást. Mindettõl eltekintve, valamiért továbbra is megkapjuk a víz-fejadagunkat.}
+{175}{}{Hogy jutok el a víznyerõbe?}
+{176}{}{Mi az a víznyerõ?}
+{177}{}{Köszönjük, hogy megjavítottad a szivattyúnkat, és remélem, minden rendben lesz a népeddel, ha visszatérsz hozzájuk a szerzeményeddel.}
+{178}{}{Köszönöm a segítséged. Viszlát!}
+{179}{}{Megjavítottad a szivattyút, és a vízáram visszatért a mélybõl. Mindazonáltal látom, hogy amit kerestél, nem találtad meg.}
+{180}{}{Ez így van, nem igazán találom a Víztisztító Csipet.}
+{181}{}{Úgy hallottam, hogy mélyen a víznyerõ alatt található. Sok szerencsét kívánok a megtalálásához.}
+{182}{}{Látom, megtaláltad, amit akartál. Remélem, tisztában vagy vele, hogy mind meghalunk, ha most elviszed a víztisztító csipet.}
+{183}{}{Igen, de még mindig dolgozom a szivattyú megjavításán. Mit is mondtál, hol találom az alkatrészeit?}
+{184}{}{Kell a vízcsip és kész. Nem érek rá a ti problémátokkal bíbelõdni.}
+{185}{}{Milyen egyéb lehetõségeim vannak?}
+{186}{}{Fárasztanak a rosszindulatú megjegyzéseid. Többet nem akarok szóba állni veled.}
+{187}{}{Régen volt egy szivattyúnk a víznyerõben, az nyomta fel a vizet a mélybõl. A baj az, hogy elromlott, és a megjavításához szükséges alkatrészek eltûntek a viznyerõ alatti csatornarendszerben.}
+{189}{}{Miért nem szereztétek vissza már azokat az alkatrészeket?}
+{190}{}{Nem kell félned tõlünk!}
+{191}{}{Beszélek veled, mielõtt távoznál.}
+{192}{}{Nem hagytál egyéb lehetõséget, minthogy személyesen állítsalak meg.}
+{193}{}{Várj! Ne lõj!}
+{194}{}{Nem kell félned tõlünk!}
+{195}{}{Beszélek veled, mielõtt távoznál.}
+{196}{}{Nem hagytál egyéb lehetõséget, minthogy személyesen állítsalak meg.}
+{200}{}{Szar ügy.}
+{201}{}{Nem lehet megjavítani a szivattyút?}
+{202}{}{Sajnálom, de a népemnek szüksége van erre a csipre a túléléshez.}
+{203}{}{Kérlek, ne vidd el a csipünket. Nélküle mind meghalunk.}
+{204}{}{Meglehet, de az alkatrészek eltûntek a víznyerõ alatti csatornarendszerben. Annyi ott a szörny, hogy nem tudjuk visszaszerezni õket.}
+{205}{}{Sajnálom, bárcsak segíthetnék.}
+{206}{}{Megkeresem az alkatrészeket.}
+
+############ Tell Me Abouts
+
+{1000}{}{Set}
+{1001}{}{Mester}
+{1002}{}{Viz}
+{1003}{}{Viznyero}
+{1004}{}{Csarnok}
+{1005}{}{Nekropolisz}
+{1006}{}{Vizcsip}
+{1100}{}{Õ felügyeli Nekropoliszt. Lezavart bennünket a mélybe.}
+{1101}{}{Van valami köze a mutánsokhoz. Nem sokat tudok róla.}
+{1102}{}{A vizünket a víznyerõ alatti helyrõl szerezzük.}
+{1103}{}{Ott van az elromlott vízszivattyúnk. Ezenkívül a mutánsok ugyanott osztogatják a vízfejadagot az új forrásukból.}
+{1104}{}{Set úgynevezett palotája.}
+{1105}{}{A Holtak Városa, ahol békében szeretnénk éldegélni. Ehhez már csak az kéne, hogy Set vagy a mutánsok békén hagyjanak minket.}
+{1106}{}{A vizünket a víznyerõ alatti helyrõl szerezzük. Nyilván van valami köze hozzá.}
+#kicsit megvarialtam itt a dolgokat, de jo ez igy - bass

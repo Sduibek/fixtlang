@@ -1,0 +1,228 @@
+{100}{}{Egy karcsú, fiatal nõt látsz, arca csupa kosz, és sötét ruhát visel.}
+{101}{}{Katja, a tolvaj.}
+{102}{}{Ugye nem idevalósi vagy?}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted between lines 103 and 104 by the code.
+{103}{}{A nevem }
+{104}{}{.}
+{105}{}{Utazó vagyok.}
+{106}{}{Ugyanezt kérdezhetném én is.}
+{107}{}{És, ha nem haragszol a kérdésért, mit csinálsz a Csonttelepen?}
+{108}{}{Túl sokat kérdezel.}
+{109}{}{Elõször mondd el, ki vagy!}
+{110}{}{Felfedezõ vagyok.}
+{111}{}{A Menedékem számára keresek egy víztisztító csipet. Elromlott szegény.}
+{112}{}{Itt majd megtanulod, mi az a körültekintés. Szóval mit keresel itt?}
+{113}{}{Rendben, elfogadom a választ. Katjának hívnak, te mi járatban?}
+{114}{}{Miért vagy olyan ellenséges?}
+{115}{}{Hé, ha nem tudod szó nélkül hagyni, akkor már le is léptem.}
+{116}{}{Információ után kajtatok. Tudnál segíteni?}
+{117}{}{Meglehet, de te vagy az én szemétdombomon és nem fordítva. Szóval vagy megszoksz, vagy megszöksz!}
+{118}{}{Nem fontos. Sima utazó vagyok, aki információra éhes.}
+{119}{}{Víztisztító csipet keresel? Bocs, de gõzöm nincs róla, mi az. Itt a Csonttelepen nem nagyon lehet ilyesmivel találkozni, kivéve talán a Miles által bütykölt vackokkal.}
+{120}{}{Mindegy, azért kösz.}
+{121}{}{Miles? Hol találom õt? Vajon tudna segíteni?}
+{122}{}{Akkor tudnál többet mondani nekem a Csontteleprõl?}
+{123}{}{Sima utazó vagy... Már hallottam ilyesmit. Senki nem jön a Csonttelepre, kivéve a Hubbeli kereskedõk és azok, akik gyors halált halni jönnek a bandák keze által. Mi az, ami tényleg idehajtott téged?}
+{124}{}{Igazad van. Egy víztisztító csipet keresek.}
+{125}{}{Nem vagyok köteles neked semmit mondani.}
+{126}{}{Igaz, ami igaz, de az éremnek két oldala van ám!}
+{127}{}{Meglehet. Te határozottan nem olyan vagy, mint a bandák közönséges bicskásai. Mit akarsz?}
+{128}{}{Egy bizonyos víztisztító csip után járok már jó ideje.}
+{129}{}{Szeretnék többet megtudni a Csontteleprõl.}
+{130}{}{Nem ártana tudnom egy-két dolgot a várost körbevevõ területekrõl.}
+{131}{}{Mit tudsz mondani a Pengésekrõl?}
+{132}{}{Mit tudsz mondani a Hasfelmetszõkrõl?}
+{133}{}{Mit tudsz mondani a Fegyverkészítõkrõl?}
+{134}{}{Mit tudsz mondani a Tanítványokról?}
+{135}{}{Mit tudnál mondani Adytumról?}
+{136}{}{Hát, jól elbeszélgettünk. Most mennem kell.}
+{137}{}{Miles Adytumban lakik. Tudós a lelkem, leginkább a vegyészet rabja. Ha van itt valaki, aki elõ tud guberálni egy víztisztító csipet, neaggyisten még csinálni is tudna egyet, az õ.}
+{138}{}{Köszönöm szépen.}
+{139}{}{Adytum az eredeti lakhelyem. Egy kicsit túlságosan is unalmas. Elkerített, önellátó város a Csonttelep déli felén, de nem oyan messze, mint a Katedrális. Alkalmasint szoktunk kereskedni a Hubbal.}
+{140}{}{Már volt szerencsém hozzájuk. Nem rossz társaség, ha lehet ilyet mondani egy bandáról. Egy régi klubban van valami rejtekhelyük, néhány elõõrssel. Ha elég agyafúrt vagy, még talán szóra is bírhatod valamelyiküket.}
+{141}{}{A Hasfelmetszõk bandája közönséges állatias társaság. Belterjesek és imádják a kínzást meg a gyilkolászást. Én távol tartom magam tõlük, és neked is ugyanezt ajánlom. Még kibaszott taposóaknákat is elhelyeztek az erõdítményük köré.}
+{142}{}{A Fegyverkészítõk igazi keményvonalasok voltak régen, de felpuhultak. Üzletelésbe kezdtek, és eladták az áldozatotól szerzett illetve a Hubból vásárolt fegyvereket. Mivel itt senki nem akar személyesen elmenni a Hubba, elég jól megy a bizniszük. A magas áraik ellenére.}
+{143}{}{Az Apokalipszis Tanítványai békét papoló csoportosulás, akik a Csonttelep közepén lévõ hatalmas könyvtárban laknak. Meg nem tudom mondani, miért nem füstölték még ki õket onnan. A harchoz nemigen értenek, a világ dolgairól kevés fogalmuk van. Ettõl eltekintve udvariasak és tanultak.}
+{144}{}{A Csonttelep eléggé ellenséges hely. Sosem volt lehetõségem, hogy elmenjek, pedig szerintem kapva kapnék az alkalmon. Nézzük csak... dél felé ott van a Katedrális. Valamiféle Szekta vette be oda magát, de azért én távol tartanám magamat tõlük. Baljóslatú dolgok készülõdnek ott. Hallottam még egy Hub nevû kereskedõ központról is, ottani karavánok idõrõl-idõre feltûnnek nálunk, de én magam még sosem jártam ott.}
+{146}{}{Köszönöm az információt.}
+{147}{}{Tudnál még mondani valamit?}
+{148}{}{Nem viccelek. Ha egy segítõ kézre van szükséged, szívesen beállok. Jobb, mintha az egész életemet ebben a koszfészekben kéne eltöltenem, nem igaz?}
+{149}{}{Szívesen látlak a csapatban, de a sivatag nem egy leányálom.}
+{150}{}{Te csak ne aggódj! Amúgy köszönöm.}
+{151}{}{Kérdezhetek elõször is néhány dolgot?}
+{152}{}{A környéket három banda uralja. A Pengések, a Hasfelmetszõk és a Fegyverkészítõk. Ezenkívül a Tanítványoknak és otthonomnak, Adytumnak is helyet ad.}
+{153}{}{Rendben van, azt hiszem, van egy kis sürgõs seggberúgnivalónk!}
+{154}{}{Nézd, a városunk 90 száaaléka beleesik valamelyik kategóriába: szatír, gyilkos vagy tolvaj. Én tolvaj vagyok, te pedig eléggé udvariasnak látszol, ezért gondolkodom itt hangosan, oké? Nevezd túlélési ösztönnek, ha jobban tetszik!}
+{155}{}{Bocs, hogy belegázoltam a lelkivilágodba. Azt hiszem, most legjobb, ha elhúzok a francba.}
+{156}{}{Legalább... feltehetek néhány kérdést?}
+{157}{}{Nem vagyok a környékre valósi, szóval nem lehet sokat adni a szavamra.}
+{158}{}{Oké, de ne sokat vacakoljunk ezzel.}
+{159}{}{Hát, ezzel a logikával nem tudok vitatkozni. Tehát mit is akarsz?}
+{160}{}{Feltehetek néhány kósza kérdést?}
+{161}{}{Egy víztisztító csipet keresgélek agyba-fõbe. Tudnál segíteni?}
+{162}{}{Kösz mindent, de most mennem kell.}
+{163}{}{Na, mi a harci helyzet?}
+{164}{}{Megpróbálod kinyitni ezt a zárat?}
+{165}{}{Megnéznéd ezt a csapdát?}
+{166}{}{Valami tanács?}
+{167}{}{Kösz a segítséged, most elválnak útjaink.}
+{168}{}{Egyelõre semmit, de szavad ne feledd!}
+{169}{}{Visszajöttél? Most épp mi járatban?}
+{170}{}{Csak eljöttem hozzád, hogy köszönjek.}
+{171}{}{Ha van egy kis idõd, kérdezgetnék ezt-azt.}
+{172}{}{Nincs bezárva.}
+{173}{}{A keleti falon valami nem stimmel azzal a könyvszekrénnyel. Szerintem rejteget valamit.}
+{174}{}{Tedd el a fegyvereidet!}
+{175}{}{Gyûlölöm a kutyákat.}
+{176}{}{Ennek a kajának nagyon jó szaga van.}
+{177}{}{Milyen harci képességeid vannak?}
+{178}{}{Magamtól megtanultam a Csonttelepen, hogyan kell brusztolni. Értek a késekhez meg a géppisztolyokhoz. A kedvencem viszont a dobókés.}
+{179}{}{Rendben van, habár egy jó kés nélkül nem érzem magam túl jól.}
+{180}{}{200 tapasztalati pontot kaptál, amiért magad mellé állítottad Katját, a Csonttelepi gubizót.}
+{181}{}{Na, mi dörgés?}
+{182}{}{Meggondoltam magam, inkább mégis magammal vinnélek.}
+{183}{}{Semmi különös. Mintha nem is szóltam volna...}
+{184}{}{Ez a hely kezd nagyon az agyamra menni.}
+{185}{}{Azta! Bárcsak lenne nálam egy hot dog meg egy hosszú bot.}
+{186}{}{Óh, ögh. Asszem, mindjárt rosszul leszek.}
+{187}{}{Hé, nézd csak azt a tépett tapétát! Szerintem van ott valami.}
+{188}{}{Vigyázz a Halálkarmokkal!}
+{189}{}{Hubba hubba!}
+{190}{}{Menj innen!}
+{191}{}{Sajnálom, de egyszerûen nem értem, mit mondasz. Viszlát!}#
+# Katja tell-me-abouts
+{980}{}{Nem tudok róla semmit.}
+{981}{}{Nem mondhatnám, hogy hallottam róla.}
+{982}{}{Nem, sosem hallottam róla.}
+{1000}{}{Viz}
+{1001}{}{Csonttelep}
+{1002}{}{Haboru}
+{1003}{}{Adytum}
+{1004}{}{Tanitvany}
+{1005}{}{Katedralis}
+{1006}{}{Csip}
+{1007}{}{Garl}
+{1008}{}{Mester}
+{1009}{}{Egyseg}
+{1010}{}{Set}
+{1011}{}{Viznyero}
+{1012}{}{Nekropolisz}
+{1013}{}{Csarnok}
+{1014}{}{Konyvtar}
+{1015}{}{Felvigyazo}
+{1016}{}{Gyogyito}
+{1017}{}{Gyogykezeles}
+{1018}{}{Menedek}
+{1019}{}{13-as Menedek}
+{1020}{}{13as Menedek}
+{1021}{}{Killian}
+{1022}{}{Gizmo}
+{1023}{}{Roncsvaros}
+{1024}{}{Shady}
+{1025}{}{Sands}
+{1026}{}{Hub}
+{1027}{}{Kaszino}
+{1028}{}{Bolt}
+{1029}{}{Halalkarom}
+{1030}{}{Exodus}
+{1031}{}{Ujonc}
+{1032}{}{Paladin}
+{1033}{}{Kronikas}
+{1034}{}{Gyermek}
+{1036}{}{Testveriseg}
+{1037}{}{Tartaly}
+{1038}{}{Katonai}
+{1039}{}{Bazis}
+{1041}{}{Apokalipszis}
+{1042}{}{Mutans}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Pia}
+{1052}{}{Drog}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Rendfenntarto}
+{1058}{}{Gubizo}
+{1059}{}{Penges}
+{1060}{}{Nicole}
+{1061}{}{Hadnagy}
+{1062}{}{Medium}
+{1063}{}{Kiserlet}
+{1064}{}{Rendorseg}
+{1065}{}{Kereskedo}
+
+
+{1100}{}{Nem tudom, hol lehetne egy ilyen régi technológiai relikviát találni.}
+{1101}{}{Az Angyalok Csonttelepe az egyetlen, ami megmaradt Los Angeles õsi városából. Mostanában leginkább háborúzgató bandák csatatere.}
+{1102}{}{A Háború szenvedést és halált hozott a világra. Szívbõl remélem, hogy ilyesmi sosem fordulhat elõ többé. Persze, az alapján, amit eddig láttam, az emberiségnek nem sok reménye van.}
+{1103}{}{Adytum régen az otthonom volt, de az ottaniak túl paranoiásak és visszahúzódóak. Ha elzárkóznak a világ elõl, nem fognak életben maradni.}
+{1104}{}{Az Apokalipszis Tanítványai békét és toleranciát hirdetnek. Nagy kár, hogy a világ nem vevõ erre.}
+{1105}{}{A Katedrális egy monumentális épület Adytumtól délre, kábé egy napi járóföldre. Egy furcsa szekta vezetése alatt áll, akik valami sötét istent imádnak.}
+{1106}{}{Nem tudom, hol lehetne egy ilyen régi technológiai relikviát találni.}
+{1107}{}{Nem tudok errõl többet nálad.}
+{1108}{}{Nem tudok errõl többet nálad.}
+{1109}{}{Nem tudok errõl többet nálad.}
+{1110}{}{Nem tudok errõl többet nálad.}
+{1111}{}{Nem tudok errõl többet nálad.}
+{1112}{}{A holtak városára gondolsz? Ez nem csak valami mítosz?}
+{1113}{}{Nem tudok errõl többet nálad.}
+{1114}{}{Nem tudok errõl többet nálad.}
+{1115}{}{Nem tudok errõl többet nálad.}
+{1116}{}{A Tanítványoknál mindig készenlétben áll egy-kettõ belõlük.}
+{1117}{}{Ha gyógykezelésre van szükséged, látogasd meg a Tanítványok gyógyítóját!}
+{1118}{}{A Menedékek nem nagy földalatti búvóhelyek?}
+{1119}{}{A Menedékek nem nagy földalatti búvóhelyek?}
+{1120}{}{A Menedékek nem nagy földalatti búvóhelyek?}
+{1121}{}{Nem tudok errõl többet nálad.}
+{1122}{}{Nem tudok errõl többet nálad.}
+{1123}{}{Öm, apró városka, a Hubtól délre. Amennyire én tudom.}
+{1124}{}{Shady mi?}
+{1125}{}{Shady Sands? Sosem hallottam róla.}
+{1126}{}{A Hub egy hatalmas kereskedõközpont, mindenféle boltokkal és kereskedõkkel.}
+{1127}{}{Nem tudok errõl többet nálad.}
+{1128}{}{A Fegyverkészítõk árusítással foglalkoznak, és van is egy boltjuk Adytumban.}
+{1129}{}{Jaj! A Csonttelep tele van Halálkarmokkal. Inkább még a gondolatukat is elhessegetném magamtól. Nagyok és teljesen rájuk illik a név.}
+{1130}{}{Nem tudok errõl többet nálad.}
+{1131}{}{Nem tudok errõl többet nálad.}
+{1132}{}{Nem tudok errõl többet nálad.}
+{1133}{}{Nem tudok errõl többet nálad.}
+{1134}{}{Nem kedvelem a kölyköket.}
+{1136}{}{Úgy hallottam, õk valami high tech szerzetesek.}
+{1137}{}{Nem tudok errõl többet nálad.}
+{1138}{}{Nem tudok errõl többet nálad.}
+{1139}{}{Gondolom, a régi hadseregnek még mindenütt vannak maradványai.}
+{1141}{}{A Nagy Háborúra gondolsz? Te aztán jól elbújhattál a világ elõl, ha semmit nem tudsz róla.}
+{1142}{}{Egyszer láttam egy háromszemû patkányt. Ennél többet nem tudok a mutánsokról.}
+{1143}{}{Azt hiszem, õ a Katedrális Fõpapja vagy valami ilyesmi.}
+{1144}{}{Nem tudok errõl többet nálad.}
+{1145}{}{Nem tudok errõl többet nálad.}
+{1146}{}{Nem tudok errõl többet nálad.}
+{1147}{}{Nem tudok errõl többet nálad.}
+{1148}{}{Nem tudok errõl többet nálad.}
+{1149}{}{Nem tudok errõl többet nálad.}
+{1150}{}{Nem tudok errõl többet nálad.}
+{1151}{}{No thanks.}
+{1152}{}{Jaj, inkább nem használok olyat. Végignéztem, ahogy egy barátom meghalt Pszicho túladagolásban. Nem volt szép látvány.}
+{1153}{}{Nem tudok errõl többet nálad.}
+{1154}{}{Nem tudok errõl többet nálad.}
+{1155}{}{Nem tudok errõl többet nálad.}
+{1156}{}{Õ Adytum polgármestere. Jóravaló, de kissé határozatlan ember.}
+{1157}{}{Õk vigyáznak Adytumra, õk tartanak kézben ott mindent.}
+{1158}{}{Régen gubizó voltam. Éjszakánként kisettenkedtünk és próbáltunk használható cuccokat begyûjteni a Csonttelep romjai közt. Nagyon veszélyes meló, elegem is lett Adytumból.}
+{1159}{}{Számkivetettek egy csoportja, akik Adytum környékén élnek.}
+{1160}{}{Õ a Tanítványok vezetõje. Intelligens és jószívû asszony.}
+{1161}{}{Nem tudok errõl többet nálad.}
+{1162}{}{Néhanapján rámjön a "nõi megérzés", ha erre gondolsz.}
+{1163}{}{Nem tudok errõl többet nálad.}
+{1164}{}{Nem tudok errõl többet nálad.}
+{1165}{}{A kereskedõk nagynéha üzletelnek Adytummal, és eladnak a Fegyverkészítõknek is.}

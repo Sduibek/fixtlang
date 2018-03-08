@@ -1,0 +1,91 @@
+# These are people who are running caravans. either gender, but majority Male
+# Tone of voice similar to truck drivers of California-- rough and partially
+# harsh.
+{100}{}{Egy karavánkísérõt látsz.}
+{101}{}{Hosszú nap lesz a mai!}
+{102}{}{Ma aztán tényleg nehezemre esik dolgozni.}
+{103}{}{Remélem, nem támadnak majd meg minket... rosszabbra már nem is merek gondolni.}
+# attacked by raiders
+{104}{}{Bocs, de... azt hiszem... nincs szükségünk több õrre...}
+{105}{}{Sajnálom, de megvan a csapat.}
+# we have enough people for this trip
+{106}{}{Ha melót akarsz, nézz körül a Kereskedõk Piacán!}
+# Merchant Market is a section of town in which people gather.
+{107}{}{Remélem, mindent eladunk majd.}
+{108}{}{Alig várom, hogy végezzünk.}
+# finish this job.
+{109}{}{Na, induljunk már!}
+{110}{}{Viszket a tenyerem egy kis balhéért.}
+# i'm ready for some brawling
+{111}{}{Hamarosan indulunk!}
+{112}{}{Ma aztán dögmeleg volt.}
+{113}{}{Anyám, iszonyat szomjas vagyok.}
+# i am very thirsty
+{114}{}{Milyen nap van ma?}
+{115}{}{Amint kész vagyok, húzok a Sólyomba!}
+# Falcon is short for Maltese Falcon--Drinking and gambling hall
+{116}{}{Elnézést, de épp most jöttünk meg egy útról.}
+{117}{}{Ha melót akarsz, nézz körül a Kereskedõk Piacán!}
+# Merchant Market is a section of town in which people gather.
+{118}{}{Ma fizetésnap van!}
+{119}{}{Most pedig irány Bob bodegája!}
+# Bob's is short for Bob's Iguana Bits -- eating establishment
+{120}{}{Hûha, ma vissza kell fizetnem a kölcsönt.}
+{121}{}{Eszméletlen fáradt vagyok.}
+{122}{}{Nagyon hosszú utunk volt!}
+{123}{}{Na, ennyit ma éjszakára.}
+{124}{}{Holnap találkozunk, emberek.}
+{125}{}{Ó, te jó ég, micsoda egy éjszaka volt.}
+{126}{}{Egyre öregebb vagyok...}
+{200}{}{Õ Mat.}
+{201}{}{Holnap találkozunk, srácok. Nehogy megcsípjen benneteket valami poloska...}
+{202}{}{Hú, de fura álmom volt.}
+{203}{}{Igen? Mivel szolgálhatok?}
+{204}{}{Duh?}
+{205}{}{Mi ez a hely?}
+{206}{}{Nem tudod, hol találhatnék egy víztisztító csipet?}
+{207}{}{Mit csinál itt ez a sok fuvaros?}
+{208}{}{Jaj, bocsánat, összetévesztettelek valakivel. Viszlát!}
+{209}{}{Mondjuk mi lenne, ha most meghalnál?...}
+{210}{}{Túl sokat voltál a pusztában, mi? Szar ügy.}
+{211}{}{Ez itt a Hub. A puszták kereskedelmi központja. A legnagyobb általam ismert város. Bármi is legyen szíved vágya, itt megtalálod, ha pedig munkát szeretnél, az is megoldható. Szerintem itt bárkitõl kaphatsz melót, legyen az legális vagy illegális.}
+{212}{}{Nem tudod, hol találhatnék egy víztisztító csipet?}
+{213}{}{Mit csinál itt ez a sok fuvaros?}
+{214}{}{Mivel kereskedtek?}
+{215}{}{Hol találhatnék munkát?}
+{216}{}{Viszlát!}
+{217}{}{Víztisztító csipet keresel? Nem semmi! Most megfogtál. Még az életben nem hallottam ilyesmirõl. Talán nézz be a belvárosi vegyesboltba, õk esetleg tudnak segíteni neked.}
+{218}{}{Mit csinál itt ez a sok fuvaros?}
+{219}{}{Köszönöm, viszlát!}
+{220}{}{Ezek itt a karavánok. A pusztaság minden szegletébe mi szállítjuk az árut. Roncsváros, a Testvériség, Shady Sands, és még számos számos egyéb hely is rendszeres célpontunk. Egyedül Nekropoliszt és az Izzást kerüljük nagy ívben. Én vezetem ezt a csapatot és rövidesen indulunk. Az utca másik felén lévõ gárda nemrég érkezett.}
+{221}{}{Ez az a karaván lenne, amit már korábban is láttam?}
+{222}{}{Mivel kereskedtek?}
+{223}{}{Mi ez a hely?}
+{224}{}{Hol találhatnék munkát?}
+{225}{}{Köszönöm, viszlát!}
+{226}{}{Hm... Mindenfélével. Hétköznapi dolgokkal, ami kell az embereknek. Élelmiszer, Víz, sok Víz. A víz minden kétséget kizáróan a legritkább dolog a pusztaságban.}
+{227}{}{Nem tudod, hol találhatnék egy víztisztító csipet?}
+{228}{}{Hol találhatnék munkát?}
+{229}{}{Köszönöm, viszlát!}
+{230}{}{Bárkit megkérdezhetsz itt a Hubban. Esetleg keress fel egy hirdetõtáblát! Van néhány a városban. Határozottan több a meló, mint amennyi ember akad rá.}
+{231}{}{Mi ez a hely?}
+{232}{}{Nem tudod, hol találhatnék egy víztisztító csipet?}
+{233}{}{Mit csinál itt ez a sok fuvaros?}
+{234}{}{Köszönöm, viszlát!}
+{235}{}{[Nevet.] Jaja, meg tudom érteni, hogy ezt mondod. Egy idõ után már mindegyik pont ugyanúgy kezd kinézni. Higgy nekem azért... ez nem ugyanaz a karaván.}
+{236}{}{Meghalsz, amiért gúnyt ûztél belõlem!!!}
+{237}{}{Hol találhatnék munkát?}
+{238}{}{Viszlát!}
+{300}{}{Ez az ember Luke.}
+{301}{}{Ezek itt a karavánok. A pusztaság minden szegletébe mi szállítjuk az árut. Roncsváros, a Testvériség, Shady Sands, és még számos számos egyéb hely is rendszeres célpontunk. Épp most érkeztünk, és bizony hosszú út áll mögöttünk. Az utca másik felén tanyázó Csapat éppen indulni készül.}
+{400}{}{Õ John.}
+{401}{}{Mit csinálsz te itt ebben az órában?}
+{402}{}{Te hülye vagy! Húzz innen, te sóher!}
+{403}{}{Sosem hallottam még errõl a víztisztító csiprõl.}
+{404}{}{A karavánokra vigyáznak. A kereskedõk a pusztaság minden szegletébe szállítanak árut. Roncsváros, a Testvériség, Shady Sands, és még számos számos egyéb hely is rendszeres célpontjuk.}
+{405}{}{Hm... Mindenfélével. Hétköznapi dolgokkal, ami kell az embereknek. Élelmiszer, Víz, sok Víz. A víz minden kétséget kizáróan a legritkább dolog a pusztaságban.}
+{406}{}{Bárkit megkérdezhetsz itt a Hubban. Esetleg keress fel egy hirdetõtáblát! Van néhány a városban.}
+{407}{}{Én vagyok itt a biztonsági õr. A kereskedõk azért béreltek fel, hogy vigyázzak az árujukra. Veszélyes munka, de jól fizet. Épp az elmúlt éjszaka történt, hogy megölték az egyik munkatársamat, miközben a karavánokat vigyázta.}
+{408}{}{Mire valók a karavánok?}
+{409}{}{Ahhhh... [gyúnyosan] Milyen szomorú történet. Hogy szeretnél csatlakozni a barátodhoz?}
+{410}{}{Viszlát!}

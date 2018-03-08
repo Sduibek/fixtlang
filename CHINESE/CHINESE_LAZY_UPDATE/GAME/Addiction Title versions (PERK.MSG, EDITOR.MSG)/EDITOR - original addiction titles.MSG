@@ -1,0 +1,276 @@
+#
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+#
+#
+{100}{}{完成}
+{101}{}{选项}
+{102}{}{取消}
+{103}{}{打印}
+{104}{}{年龄}
+{105}{}{性别}
+{106}{}{名字}
+{107}{}{男性}
+{108}{}{女性}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
+{112}{}{技能点数}
+{113}{}{等级:}
+{114}{}{Experience:}
+{115}{}{下次升级:}
+{116}{}{人物点数}
+{117}{}{技能}
+{118}{}{你一定要使用所有的人物点数之后才} # 1
+{119}{}{可以进行游戏！}         # 2
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{120}{}{人物点数}
+{121}{}{Amount of free points that can be added to your primary statistics.}
+{122}{}{到下次升级}
+{123}{}{This is how many experience points are needed to move up to the next level.}
+{124}{}{特别技能}
+{125}{}{道德}
+{126}{}{战绩}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
+{128}{}{人物在游戏中的种种行迳都会影响到这一个数值的变化。}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
+{130}{}{技能点数}
+{131}{}{使用这一些点数来增加某一技能的等级，让人物对该技能更加的熟练。当等级越高，所需要升级的技术点术就会增加，因此，要能够将一项技术练好是相当困难的事。}
+#
+{132}{}{已在最大值。}        # 1
+{133}{}{无法再增加。}  # 2
+{134}{}{已在最小值。}        # 1
+{135}{}{无法再减少。}  # 2
+{136}{}{技术点数不够。}
+{137}{}{基本:}
+{138}{}{特长技能}
+{139}{}{可选择人物特徵}
+{140}{}{你已经选择了} # 1
+{141}{}{三个特长技能}               # 2
+{142}{}{在你进入游戏前必需选足}  # 1
+{143}{}{人物特长技能}       # 2
+{144}{}{特长技能}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
+{146}{}{人物特徵}
+{147}{}{人物特徵是一个人物的特性与能力。每一种能力都有优劣处，你一定要选择两种。}
+{148}{}{你已经选择了} # 1
+{149}{}{两种人物能力了}                     # 2
+{150}{}{技能}
+{151}{}{技能是随著经验而熟练的。技能等级越高，技能使用的成功率就越好。}
+#
+{152}{}{选一个额外能力}
+{153}{}{选一个新的特徵}
+{154}{}{去掉一个特徵}
+{155}{}{选择一个新的选择技能}
+{156}{}{特徵}
+#
+{157}{}{在游戏开始之前，所有的点数} # 1
+{158}{}{都得要在1到10之间！}          # 2
+#
+#
+#
+# Abbreviated basic stat levels
+#
+{200}{}{非常糟}  # Very Bad
+{201}{}{糟糕}    # Bad
+{202}{}{贫弱}   # Poor
+{203}{}{尚可}   # Fair
+{204}{}{平均}   # Average
+{205}{}{好}   # Good
+{206}{}{非常好} # Very Good
+{207}{}{棒极了}  # Great
+{208}{}{完美} # Excellent
+{209}{}{超强} # Heroic
+#
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{生命点数}
+{301}{}{行动点数}
+{302}{}{防护等级}
+{303}{}{} # 303 is blank on purpose, leave blank
+{304}{}{肉搏战伤害}
+{305}{}{抗击能力}
+{306}{}{抗毒性}
+{307}{}{抗辐射性}
+{308}{}{行动顺序}
+{309}{}{康复速度}
+{310}{}{致命一击机率}
+{311}{}{可携带重量}
+{312}{}{中毒}
+{313}{}{Irradiated}
+{314}{}{眼部受伤}
+{315}{}{右臂受伤}
+{316}{}{左臂受伤}
+{317}{}{右腿受伤}
+{318}{}{左腿受伤}
+#
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
+# Radiation
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+# Eye Damage
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+# Crippled right arm
+{403}{}{这代表你的右臂受了伤，失去功能了。一只臂受了伤便不能使用双臂的武器。如果两臂都受了伤，便无法使用任何武器。}
+# Crippled left arm
+{404}{}{这代表你的左臂受了伤，失去功能了。一只臂受了伤便不能使用双臂的武器。如果两臂都受了伤，便无法使用任何武器。}
+# Crippled right leg
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+# Crippled left leg
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
+# Month strings
+{500}{}{一月}
+{501}{}{二月}
+{502}{}{三月}
+{503}{}{四月}
+{504}{}{五月}
+{505}{}{六月}
+{506}{}{七月}
+{507}{}{八月}
+{508}{}{九月}
+{509}{}{十月}
+{510}{}{十一月}
+{511}{}{十二月}
+#
+#
+# Option menu text
+#
+{600}{}{储存}
+{601}{}{读取}
+{602}{}{列印到档案}
+{603}{}{删除}
+{604}{}{完成}
+{605}{}{你确定要将目前的人物设定}      # line 1
+{606}{}{完全删除吗？}                 # line 2
+{607}{}{成功的被储存了。}
+{608}{}{成功的被读取了。}
+{609}{}{已经存在了。}
+{610}{}{你想要重覆写入吗？}
+{611}{}{储存错误}
+{612}{}{读取错误}
+{613}{}{非法的人物档案。}
+{614}{}{非法的人物资料。}
+{615}{}{无法读取档案名单！}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
+{618}{}{BLANK.GCD}
+#
+#
+# ASCII text file printing text
+#
+{620}{}{辐射}                   # Title line 1
+{621}{}{第13号避难所人员记录} # Title line 2
+{622}{}{小时} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: 资      料 :::}
+{624}{}{           力量:}
+{625}{}{            生命力:}
+{626}{}{        攻击次序:}
+# -
+{627}{}{         感知:}
+{628}{}{            防御力:}
+{629}{}{              治愈力:}
+# -
+{630}{}{           体力:}
+{631}{}{          动作点数:}
+{632}{}{         致命一击机率:}
+# -
+{633}{}{           魅力:}
+{634}{}{          空手伤害:}
+{635}{}{         可携带重量:}
+# -
+{636}{}{           智力:}
+{637}{}{        伤害免役力:}
+# -
+{638}{}{           敏捷:}
+{639}{}{      放射线免役力:}
+# -
+{640}{}{           运气:}
+{641}{}{          毒免役力:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  名字:}
+{643}{}{年龄:}
+{644}{}{                性别:}
+{645}{}{男性}
+{646}{}{女性}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{  等级:}
+{648}{}{             经验值:}
+{649}{}{到下次升级:}
+#-
+{650}{}{ :::人物特徵:::           :::额外能力:::           :::道德良知:::}
+#-
+{651}{}{ :::  技能  :::                ::: 杀敌数 :::}
+#-
+{652}{}{ ::: 物     品 :::}
+#-
+{653}{}{                                           总重量:}
+#
+#
+# Karma name strings
+#
+{1000}{}{道德分数：}
+{1001}{}{疯子}
+{1002}{}{赢家}
+{1003}{}{Child-Killer}
+#
+{1004}{}{Nuka-Cola Addiction}
+{1005}{}{壮大灵瘾君子}
+{1006}{}{曼他特瘾君子}
+{1007}{}{疯狂药瘾君子}
+{1008}{}{抗辐射药瘾君子}
+{1009}{}{酒鬼}
+#
+# Karma description strings
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
+{1103}{}{你曾杀过小孩，这是一件相当可怕的事。别人都认为你是相当邪恶的人。}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{你上了疯狂药的瘾，你若不按时服用，就会觉得很痛苦。但是，如果你服用的话，其他人就倒霉了。}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
+{1109}{}{你不能够控制自己饮用酒精的量。}
+{1110}{}{TEMPORARY - What is this?}
+#
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
+#
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}   # 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}
+#

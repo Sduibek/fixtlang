@@ -1,0 +1,405 @@
+You can use text search (Ctrl+F) for the "###." entries below to jump to them.
+
+001. Verify you have the newest version
+002. Report bugs at the wiki, not forums
+003. Crashes: explosives, Zimmerman/Cabbot/holodisks, Brotherhood, worldmap
+004. Still crashing
+005. Can't save game
+006. Not getting good endings for Hub or Followers
+007. Save often, use all 10 slots
+008. Sound issues
+009. "Failure initializing input devices"
+010. Black screen / crazy colors / flickering
+011. "Fallout appears to be running in compatibility mode"
+012. Missing entry point in kernel32.dll
+013. DirectX errors
+014. Other .dll file errors
+015. Changes to f1_res or ddraw not working
+016. "Could not find the master datafile"
+017. Other graphics issues
+018. AP ammo
+019. Mouse input issues
+020. Can't push companions / NPCs blocked me
+021. Game speed
+022. Endgame slideshow audio cut off
+023. Female Vault Dweller looks male
+024. Black box covering part of the screen
+025. "Not enough disk space"
+026. OTHER RESOURCES
+027. [SPOILERS] Map names for replacing corrupt savegame files [SPOILERS]
+
+============================================================================
+001. First, make sure you're using the most current version of Fallout Fixt:
+============================================================================
+www.nma-fallout.com/showthread.php?194562&p=3818107&viewfull=1#post3818107
+
+You can confirm your version by viewing Credits (press "C") from the game's main menu.
+
+
+============================================================================
+002. Policy regarding bug reports / ideas / feature requests
+============================================================================
+ - All bugs, ideas, and feature requests are to be reported at the Fallout Fixt bug reports wiki at http://falloutmods.wikia.com/wiki/Fallout_Fixt_bug_reports
+
+ - Bug reports entered on forum threads (RPGCodex/NMAFallout/GOG/Steam/etc) will no longer be considered 'official bug reports' for the following reasons:
+  -- EASE: It doesn't require registration and shouldn't take much longer than it would to post it on the forum.
+  -- EXCLUSIVITY: You're robbing the ability to interact with your bug report from people who don't visit that forum.
+  -- DUPLICATE WORK: Someone (usually me) has to to personally go through all the threads to add them to the wiki.
+  -- HUMAN ERROR: It's easy for thread-post bug reports to be accidentally overlooked or forgotten.
+  -- EFFICIENCY: It results in duplicate reports and requires cross-referencing multiple sources.
+  -- TIME: It's in everyone's best interest for me to spend my time focusing on actually fixing the bugs.
+
+ - If you're getting a crash or game-breaking bug, it's okay to contact me as well as posting to the wiki.
+
+
+============================================================================
+003. Troubleshooting specific crashes:
+============================================================================
+- Crashes after damaging someone with explosives?
+
+0) This is a limitation in the Fallout engine that I can't fix, but there's workarounds. (It's fixed in the Fallout 2 engine by modders)
+1) First, see if you can kill them with one blast, and stay on the map when the blast goes off. That should avoid this whole issue.
+2) If you get attacked by whomever the explosives damaged after it detonates, try again because you're going to get a crash. If combat didn't engage, you're good.
+3) IMPORTANT NOTE: With either of the options below, once you return to the map you must enter a combat round (press "A") and then end the combat round (press "Enter") so that the engine can clear combat variables. This is why the crashes happen to begin with; uncleared combat variables related to the explosion damage.
+4) Option 1: Set timer for the explosives from your active hand. This means inventory is closed. When you click the explosives and set the timer, it'll drop to your feet automatically. Leave the map before the explosives detonate. (See #6 for a note about leaving the map)
+5) Option 2: Set timer from inventory but DO NOT DROP the explosives. Exit inventory, then plant the explosives on your target using Steal. Leave the map before the explosives detonate. (See #6 for a note about leaving the map)
+6) Leaving the map before the explosives detonate isn't without its downsides. The script flags might not trigger when leaving the map this way, meaning the game might not register these people as actually dead, for the purposes of quests and such.
+
+- Crashes when giving the holodisk to Jon in Adytum/Boneyard?
+
+0) The location of the disk doesn't matter. It could be on the ground, in a party member's inventory, etc.
+1) Interact with the holodisk in any way. The easiest is to hover the mouse over it, so that you get the "You see: Regulator Transmissions Disk" message.
+2) Try to show him the disk again via dialog; it shouldn't crash now.
+
+- Crashes trying to join the Brotherhood of Steel by giving Cabbot the holodisk?
+
+0) The location of the disk doesn't matter. It could be on the ground, in a party member's inventory, etc.
+1) Interact with the holodisk in any way. The easiest is to hover the mouse over it, so that you get the "You see: Ancient Brotherhood Disk" message.
+2) Try again; it shouldn't crash now.
+
+- Crashes trying to leave the Brotherhood of Steel?
+
+0) Ensure that Fallout Fixt is not currently running.
+1) You will need to replace BROHDENT.SAV in the crashing savegame's folder with a known non-crashing copy.
+2) For example if slot 5 is crashing but slot 4 isn't, go into {Fallout Fixt}\DATA\SAVEGAME\SLOT04 and copy BROHDENT.SAV, then paste it into {Fallout Fixt}\DATA\SAVEGAME\SLOT05
+3) Select "Yes" when prompted to overwrite the file.
+4) You might have to also do the holodisk fix described above! (Interacting with the item such as examining it)
+5) Try again; it shouldn't crash now.
+
+- Other Holodisks
+
+1) Crashes with any other holodisks, try the same steps as with Jon and Cabbot.
+
+- Crashes trying to leave a Random Encounter on the worldmap? (Desert, Mountains, City, Coast)
+
+0) The cause of this crash is currently unknown.
+1) Open up PIP-Boy 2000 and rest for 10 minutes.
+2) Try again to leave the map.
+3) If that doesn't work, reload the save and try starting a combat round (press "A") and then press "Enter" to end combat.
+4) Try again to leave the map.
+5) If still crashing, try a combination of these steps.
+
+- Crashes trying to leave any other map?
+
+Follow same steps as crashes trying to leave a Random Encounter map.
+
+
+============================================================================
+004. The game is still crashing! :(
+============================================================================
+1) Double-check that you have the most current version - see the top of this file for link.
+2) Submit a detailed bug report for the issue to:  http://falloutmods.wikia.com/wiki/Fallout_Fixt_bug_reports
+3) With the bug report, make sure to include your affected savegames! I need savegames to test the issue.
+4) [optional] Send a message to Sduibek and tell him that he sucks for breaking the game. This won't fix the crash, but it can be cathartic.
+5) Crashes can sometimes be fixed by replacing map files from working savegames. See the "Crashes trying to leave the Brotherhood of Steel?" subsection above. FOR A LIST OF MAP NAMES, SEE THE BOTTOM OF THIS DOCUMENT.
+6) Sduibek will cry and feel terrible for breaking the game :(
+
+
+============================================================================
+005. I can't save my game!
+============================================================================
+- Run FALLOUTW.exe with Administrator privileges. Either log in as one, or do it via Compatibility Settings (right-click on FALLOUTW.exe)
+- Make sure NO files in your Fallout Fixt installation folder are set to "Read-Only".
+- Try temporarily disabling any antivirus/antimalware programs, as well as any firewall software.
+- Try temporarily disabling any software that constantly scans files, such as online backup solutions (Dropbox) and/or content indexers (GitHub).
+- Try temporarily disabling UAC (User Account Control).
+
+
+===============================================================================
+006. I can't get good slideshow endings for The Hub or The Followers Of The Apocalypse!
+===============================================================================
+- Assuming you have Fallout Fixt alpha 7.0 or newer, here are the requirements:
+THE HUB: Harold is alive, Decker is dead.
+FOLLOWERS: Nicole is alive, Spy quest finished, at least 12 Followers Scholars are alive (not including Katja & Nicole).
+
+- These endings ARE possible to get with characters from previous versions of Fixt, but you have to do this first:
+The Hub: visit Oldtown.
+Followers: visit the Followers map.
+
+
+===============================================================================
+007. Something bad happened and I lost a bunch of progress since my last save! >:(
+===============================================================================
+- Next time, save often and use all 10 save slots!
+- Pay attention to the Fallout Fixt installer that says to save often.
+- Save often.
+- If needed, back up your 10 save slots periodically.
+- Use all 10 save slots.
+- Read the Fallout manual PDF where it says to save often.
+
+
+======================================================================
+008. There's no sound during the movies, or other sound/music issues  
+======================================================================
+- Make sure you have the volume turned on: in game, Music and Movie volume are the same slider.
+- Disable hardware acceleration for your sound hardware (Google how to do this)
+- On Windows Vista or newer, disable sound enhancements such as Dolby, Surround, equalizer, etc.
+- In fallout.cfg, change the "cache_size=" entry to be cache_size=448
+
+
+====================================================================================
+009. On startup, fallout crashes with a 'Failure initializing input devices' error. 
+====================================================================================
+- In ddraw.ini, in the [input] section, change BackgroundKeyboard to 1 and see if that fixes the error. If it doesn't, try just changing BackgroundMouse to 1. If that doesn't help, change both to 1. Remember to change back to 0 if it causes any issues.
+- In f1_res.ini, try setting ALT_MOUSE_INPUT=0 and if that doesn't work, ALT_MOUSE_INPUT=1
+- Also, this errors sometimes happens if you select another window/application or switch to another window/application just as Fallout is loading. Make sure once you start FalloutW.exe, you don't click anything or hit any buttons until you see the "Interplay" movie begin.
+- You may need to engage Compatibility Mode for FalloutW.exe - rightclick on the exe, click on the Compatability tab, and try running with the following modes, in this order until the error stops: Windows XP mode, Windows 98 mode, Windows 95 mode. You can also try the other Compatability checkboxes such as Run As Admin or 640x480 Resolution but the Operating System mode is the most important.
+- Close all other programs and windows before running Fallout.
+- Try different graphics modes with f1_res_Config.exe - DirectDraw 7, DirectX 9, etc.
+- Disable f1_res and ddraw one at a time (Just rename the respective .dll files) - this will help narrow down if either of them is causing the issue.
+- If nothing else works, it's probably a long shot, but try a different keyboard & mouse, or at least disconnect them, restart computer and plug them into different ports.
+- This is not advised, but try setting "times_run=0" in fallout.cfg - if this fixes the issue, you'll have to mark fallout.cfg as Read-Only with times_run=0 or the issue will come back. Not a good fix, but can theoretically work.
+
+
+===============================================
+010. Black screens/psychedelic color schemes. 
+===============================================
+- Make sure f1_res is enabled.
+- If you don't want to use f1_res or can't use it, and you're using Windows Vista or newer, run the applications in the Scrambled Colors Fixes folder. You can point these to FalloutW.exe and **follow the utility's instructions exactly** and it should fix all these display issues.
+- In some rare cases, you may need to actually use ddraw.ini settings; change to Mode 4 or Mode 5. This is not advised unless you have exhausted all other options AND are not using f1_res.
+- Run the file fo1_screen_refresh.exe before playing Fallout if your screen is flickering or turning black.
+
+
+==========================================================================================================
+011. Fallout refuses to run, displaying the message 'Fallout appears to be running in compatibility mode'
+==========================================================================================================
+Sometimes sfall (ddraw) doesn't play nicely with any compatibility mode settings, so it refuses to run with them turned on. Turn them all off. Do this by right clicking falloutw.exe, switching to the compatibility tab and unchecking everything.
+
+
+=========================================================================
+012. A crash on startup mentioning a missing entry point in kernel32.dll 
+=========================================================================
+sfall (ddraw) requires Windows XP or newer.
+
+
+========================================================================================================
+013. Fallout crashes on startup with errors about DirectX not being installed, or DirectX files missing 
+========================================================================================================
+Download and run the full DirectX package from this page:
+
+http://www.microsoft.com/en-in/download/details.aspx?id=8109
+
+
+==============================================================================================================
+014. Fallout crashes on startup with errors about missing dll files NOT related to DirectX (mvcrp60.dll, etc) 
+==============================================================================================================
+Install the MVB Runtime Distributables in this order, **trying to run Fallout again after installing each**:
+(you shouldn't need versions 2010 and 2012 but they're listed here just in case)
+
+VC++ redist 2005:
+http://www.microsoft.com/en-us/download/details.aspx?id=26347
+
+VC++ redist 2008:
+http://www.microsoft.com/en-us/download/details.aspx?id=26368
+
+VC++ redist 2010:
+http://www.microsoft.com/en-us/download/details.aspx?id=26999
+
+VC++ redist 2012:
+http://www.microsoft.com/en-us/download/details.aspx?id=30679
+
+
+=============================================================================
+015. Cannot edit ddraw.ini, or ddraw.ini edits don't seem to have any effect 
+=============================================================================
+If you're on vista, windows 7 or newer and have UAC enabled, then do _not_ install Fallout Fixt to the Program Files directory.
+Instead pick a path like 'C:\Games\Fallout'. The Program Files directory is protected by windows, and you'll find yourself either unable to modify the files in it, or your files will end up getting mixed with copies in the virtualstore.
+
+*NOTE: This shouldn't apply to the Steam and GOG versions, they seem to play nice with UAC somehow.
+
+- These issues with UAC also apply to f1_res. It can be avoided by making sure f1_res.ini has this set:
+UAC_AWARE=0
+You can read about it more by opening the f1_res.ini file.
+
+
+============================================================================
+016. "Could not find the master datafile. Please make sure the FALLOUT CD is in the drive and that you are running FALLOUT from the directory you installed it to." 
+============================================================================
+- Make sure you're running from the proper directory
+- Make sure you installed Fixt directly on top of an existing Fallout installation
+- Make sure master.dat and critter.dat are in that directory
+- Make sure Fixt is NOT installed under C:\Program Files\Fallout or C:\Program Files (x86)\Fallout
+- Try running directly: just FalloutW.exe, instead of batch file or using Steam interface.
+
+
+============================================================================
+017. Graphics issues
+============================================================================
+- Use the tools and read the file in the "Scrambled Colors Fixes" folder (if folder exists)
+- Disable and then re-enable the high-res mod using f1_res_Config.exe
+- Try the Compatibility Mode settings: (right-click on FalloutW.exe, click Properties, and click on the Compatibility tab)
+--  Try setting to Run As Administrator
+--  Try setting Compatibility Mode to each of these in this order: Windows XP, Windows 98, Windows 95
+- Disable and then re-Enable the f1_res (option in f1_res_Config)
+- Make sure Fixt is NOT installed under C:\Program Files\Fallout or C:\Program Files (x86)\Fallout
+- Try new settings in ddraw.ini and/or f1res.ini - try 16bit, 8bit, and any other settings that look like they might apply to your situation.
+- Set your desktop background to a solid color (instead of a picture)
+- Open the Screen Resolution settings for your computer under Display Settings in Control Panel and leave it open while playing
+- Kill explorer.exe process, play Fallout, then re-start explorer.exe process. An example batch file is in Scrambled Colors Fixes folder.
+
+
+============================================================================
+018. Armor-Piercing ammo sucks!
+============================================================================
+- Nothing can be done about this at the moment. Once I release Fixt in the
+  Fallout 2 engine, this will no longer be an issue.
+
+
+============================================================================
+019. Issues with mouse input - slow, doesn't respond, crashes, etc.
+============================================================================
+- Change the BackgroundMouse and BackgroundKeyboard settings in ddraw.ini (try setting them to 1 individually, and then both to 1)
+- Try alternate mouse input mode in f1_res.ini
+- If that doesn't help, try disabling ddraw (temporarily removing ddraw.ini and ddraw.dll from Fallout Fixt folder)
+- If that doesn't help, try disabling f1_res (click Disable in the Config.exe, and then temporarily move f1_res.dll and f1_res.ini from Fallout Fixt folder)
+
+
+============================================================================
+020. I can't push my companions!
+============================================================================
+- Unlike Fallout 2, this must be done via dialog. There is no UI option for it.
+  Talk to your companion(s) and you'll see the option to push them.
+  This will be a non-issue once Fixt is ported to the Fallout 2 engine.
+
+
+============================================================================
+021. The game runs too fast or too slow!
+============================================================================
+- Change the value of SpeedMultiInitial in ddraw.ini in the Fallout folder.
+- Sduibek plays at 115%  (SpeedMultiInitial=115)
+* IMPORTANT: This can cause issues with the endgame slideshow; see below.
+
+
+============================================================================
+022. In the endgame slideshow, Ron Perlman's voice is getting cut off!
+============================================================================
+- Change the value of SpeedMultiInitial in ddraw.ini to 104 or less.
+--  ("SpeedMultiInitial=104" without quotes)
+- Try 100 if 104 doesn't work.
+
+
+============================================================================
+023. Only male graphics are displayed for the Vault Dweller, even if I'm female
+============================================================================
+- This is a bug caused by pirated or corrupted critter.dat file
+
+1) Acquire a valid Fallout version, such as from CD-ROM or Steam or GOG
+2) Reinstall from that version, or, simply copy over the critter.dat
+
+
+============================================================================
+024. There is a black box, size 640x480, covering the screen!
+============================================================================
+- We think this is caused by pirated or corrupted master.dat/critter.dat
+- HOWEVER, updating to newest f1_res fixes this issue.
+
+1) Fallout Fixt includes newest f1_res
+2) If you're still somehow experiencing this issue, download and install newest f1_res from:
+
+http://falloutmods.wikia.com/wiki/Fallout1_Resolution_Patch
+
+
+============================================================================
+025. "Not enough disk space"
+============================================================================
+- Change "free_space=#####" in fallout.cfg to "free_space=0" (zero).
+- Empty recycle bin (trash).
+- Restart the computer.
+- Close all other programs.
+- Try temporarily disabling any antivirus/antimalware programs, as well as any firewall software.
+- Try temporarily disabling any software that constantly scans files, such as online backup solutions (Dropbox) and/or content indexers (GitHub).
+
+============================================================================
+026. Other troubleshooting resources for Fallout
+============================================================================
+ - http://www.nma-fallout.com/showthread.php?155150
+
+
+
+[[[SPOILER ALERT]]]
+
+
+
+============================================================================
+027. MAP NAMES, FOR REFERENCE WHEN REPLACING TO ATTEMPT CRASH FIX
+============================================================================
+
+Boneyard, Gun Runners			LAGUNRUN.SAV
+Boneyard, The Blades			LABLADES.SAV
+Boneyard, The Rippers			LARIPPER.SAV
+Brotherhood of Steel, Entrance		BROHDENT.SAV
+Brotherhood of Steel (Upper Levels)	BROHD12.SAV
+Brotherhood of Steel (Lower Levels)	BROHD34.SAV
+Cathedral				CHILDRN1.SAV
+Cathedral Tower				CHILDRN2.SAV
+Cathedral after explosion		CHILDEAD.SAV
+Master's Lair (Lower Levels)		MSTRLR34.SAV
+Master's Lair (Upper Levels)		MSTRLR12.SAV
+Junktown Casino				JUNKCSNO.SAV
+Junktown Entrance			JUNKENT.SAV
+Junktown Killian's			JUNKKILL.SAV
+Military Base after explosion		MBDEAD.SAV
+Military Base Entrance			MBENT.SAV
+Military Base Levels 1/2		MBSTRG12.SAV
+Military Base Levels 3/4		MBVATS12.SAV
+Necropolis, Hall of the Dead		HALLDED.SAV
+Necropolis, Hotel of Doom		HOTEL.SAV
+Necropolis, Vault			VAULTNEC.SAV
+Necropolis, Watershed			WATRSHD.SAV
+Raiders' Camp				RAIDERS.SAV
+Shady Sands, East			SHADYE.SAV
+Shady Sands, West			SHADYW.SAV
+Shady Sands, Radscorpion Cave		CAVES.SAV
+The Glow Entrance			GLOWENT.SAV
+The Glow, Levels 1/2/3			GLOW1.SAV
+The Glow, Levels 4/5/6			GLOW2.SAV
+The Hub, Entrance			HUBENT.SAV
+The Hub, Downtown			HUBDWNTN.SAV
+The Hub, Old Town			HUBOLDTN.SAV
+The Hub, The Heights 			HUBHEIGT.SAV
+The Hub, Water Merchants 		HUBWATER.SAV
+The Hub, Irwin's Farm			HUBMIS0.SAV & HUBMIS1.SAV
+Deathclaw's Lair (The Hub)		DETHCLAW.SAV
+Vault 13 Entrance			V13ENT.SAV
+Vault 13				VAULT13.SAV
+Vault 15 Surface			VAULTENT.SAV
+Vault 15 Underground			VAULTBUR.SAV
+
+Random Encounters:
+COAST1, COAST2
+CITY1
+DESERT1, DESERT2, DESERT3
+MOUNTN1, MOUNTN2
+
+Caravan Encounters:
+DESCRVN1, DESCRVN2, DESCRVN3, DESCRVN4
+MNTCRVN1, MNTCRVN2, MNTCRVN3, MNTCRVN4
+
+Special Encounters:
+COLATRUK
+FSAUSER
+FOOT
+TARDIS
+TALKCOW
+USEDCAR
+

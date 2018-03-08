@@ -20,7 +20,7 @@
 #ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ#
 {980}{}{O tom já nic nevím.}
 {981}{}{Je mi líto. Nemám ponìtí.}
-{982}{}{O tom nic nevím.}
+{982}{}{O tom nic nevím.}
 
 #ÿDESERT1.MAP (1000)
 #ÿDESERT2.MAP (1600)
@@ -84,7 +84,7 @@
 #ÿVAULT13.MAP
 #ÿVault 13 Tell-Me-Abouts
 #
-{4600}{}{Vault}
+{4600}{}{Vault}
 {4601}{}{vodni}
 {4602}{}{spravce}
 {4603}{}{Cip}
@@ -147,8 +147,7 @@
 {7607}{}{obchod}
 {7608}{}{parac}
 {7700}{}{Killian je starosta. Pøevzal to po otcovì smrti.}
-{7701}{}{Gizmo je dùležitá postava Junktownu. Patøí mu kasino a boxerský ring.
- Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
+{7701}{}{Gizmo je dùležitá postava Junktownu. Patøí mu kasino a boxerský ring. Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
 {7702}{}{Tohle je Junktown.}
 {7703}{}{No, to je malinká osada na severu. Vìtšina lidí jsou farmáøi. Obèas s nimi obchodujeme, ale oni chtìjí být spíš izolovaní.}
 {7704}{}{Hub je centrem veškerého obchodu. Prakticky všichni obchodníci pøicházejí z Hubu. Mají tam nìjaké spoleènosti, které dosud vyrábìjí vìci. Pokud se chceš podívat do Hubu, mùžeš se pøipojit k nìkteré z karavan na jejich zpáteèní cestì.}
@@ -172,8 +171,7 @@
 {8207}{}{obchod}
 {8208}{}{parac}
 {8300}{}{Killian je starosta. Pøevzal to po otcovì smrti.}
-{8301}{}{Gizmo je dùležitá postava Junktownu. Patøí mu kasino a boxerský ring.
- Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
+{8301}{}{Gizmo je dùležitá postava Junktownu. Patøí mu kasino a boxerský ring. Vydìlává spoustu penìz a nakupuje mraky vìcí z Hubu.}
 {8302}{}{Tohle je Junktown.}
 {8303}{}{No, to je malinká osada na severu. Vìtšina lidí jsou farmáøi. Obèas s nimi obchodujeme, ale oni chtìjí být spíš izolovaní.}
 {8304}{}{Hub je centrem veškerého obchodu. Prakticky všichni obchodníci pøicházejí z Hubu. Mají tam nìjaké spoleènosti, které dosud vyrábìjí vìci. Pokud se chceš podívat do Hubu, mùžeš se pøipojit k nìkteré z karavan na jejich zpáteèní cestì.}
@@ -517,7 +515,7 @@
 {18303}{}{Rippers jsou dìdiènì zatížení. Mají opevnìnou budovu s mnoha pastmi okolo, dovnitø zatahují vìznì, které muèí a zabíjejí.}
 {18304}{}{Blades jsou známí svými vibro-noži. Jsou to odvìcí nepøátelé Rippers. Jejich vùdce je žena jménem Razor.}
 {18305}{}{Býval to gang, ale usídlili ve skladišti na severu a zaèali obchodovat se zbranìmi.}
-{18306}{}{Hub je centrem øemesla a obchodu. Mají dokonce spoleènosti, které vyrábìjí vìci. je to na východ od nás.}
+{18306}{}{Hub je centrem øemesla a obchodu. Mají dokonce spoleènosti, které vyrábìjí vìci. je to na východ od nás.}
 #{18306 alternate If hydroponic farms aren't fixed:}{Prodáváme do Hubu náboje.}
 {18307}{}{Junktown je støednì velké mìsto na východ odsud a pøímo na sever z Hubu.}
 {18308}{}{Je mi líto, s tím ti nepomùžu.}
@@ -527,8 +525,7 @@
 {18312}{}{To je ohromné radioaktivní místo, daleko na jihu, aspoò co jsem slyšel.}
 {18313}{}{Jsou policejní silou v Adytu. Chrání nás pøed gangy. Caleb je jejich velitel.}
 {18314}{}{Sbìraèi prohledávají Pohøebištì kvùli užiteèným vìcem. Vede je Sammael.}
-{18315}{}{Pohøebištì andìlù je vlastnì ruinou bývalého velkomìsta Los Angeles.
-  Jsme pøímo v centru Pohøebištì.}
+{18315}{}{Pohøebištì andìlù je vlastnì ruinou bývalého velkomìsta Los Angeles.  Jsme pøímo v centru Pohøebištì.}
 #  ======================================================================
 
 
@@ -577,8 +574,7 @@
 {18610}{}{pohrebiste}
 {18700}{}{Malé mìsto na jihu. Obèas se tu z nìj nìkdo objeví.}
 {18701}{}{My jsme  Následníci Apokalypsy. Máme to jméno, protože pøicházíme po váleèné bouøi, abychom všem pøinesli úlevu v míru.}
-{18702}{}{Podivný kult jižnì od Adyta a zbytku Pohøebištì. Nicole
- øíká, že nìco chystají.}
+{18702}{}{Podivný kult jižnì od Adyta a zbytku Pohøebištì. Nicole øíká, že nìco chystají.}
 {18703}{}{Hroznì násilnický gang na západì.}
 {18704}{}{Gang na východì. Používají vibro-nože.}
 {18705}{}{Gang, který pøišel z Hubu a prodává zbranì. Sídlí na severu.}
@@ -594,7 +590,7 @@
 {18802}{}{katedrala}
 {18803}{}{Rippers}
 {18804}{}{blades}
-{18805}{}{gunruneri}
+{18805}{}{gunruneri}
 {18806}{}{Hub}
 {18807}{}{Junktown}
 {18808}{}{vodni cip}
@@ -1004,8 +1000,7 @@
 {27907}{}{Myslím, že je to severovýchodnì od nás. Je to malé mìsto.}
 {27908}{}{Co to?}
 {27909}{}{Razor je naše kápo a šampiónka. Nepochybuji, že její zkušenost nás koneènì dovede k vítìzství nad tìmi proklatými Rippers.}
-{27910}{}{Daleko na východ. Pravdìpodobnì tam žijí ghúlové, živící se lidským masem.
- Nerad bych s nima bojoval.}
+{27910}{}{Daleko na východ. Pravdìpodobnì tam žijí ghúlové, živící se lidským masem. Nerad bych s nima bojoval.}
 {27911}{}{Myslím, že jsou to ruiny nìjakého zaøízení zasaženého jadernou pumou. Je to nìkde daleko na jihu.}
 {27912}{}{Tohle je Pohøebištì.}
 #  ======================================================================
@@ -1092,8 +1087,7 @@
 {29101}{}{Snaží se každého obrátit na jejich cestu míru a porozumìní. Skrývají se ve své knihovnì na jihu. Vùbec neprospívají obchodu!}
 {29102}{}{Katedrála je velký kostel na jih od Pohøebištì, kde nìjaký podivný kult uctívá Temného boha. Myslím, že jsou to cvoci.}
 {29103}{}{Rippers jsou jedna velká rodina, doslova. Je s nimi nemožné obchodovat, pokud tì neznají, tak to ani nezkoušej. Mají pevnost, kolem které je spousta pastí, na jihozápadì. Dej pozor na nášlapné miny, pokud jsi takový magor a chceš je navštívit.}
-{29104}{}{Promìnili pár budov na jihu východì ve svùj domov. Jsou organizovanìjší a chytøejší než Rippers.
- Obèas pøijmou i nìkoho cizího. Jejich šéfka Razor je vážnì drsná ženská.}
+{29104}{}{Promìnili pár budov na jihu východì ve svùj domov. Jsou organizovanìjší a chytøejší než Rippers. Obèas pøijmou i nìkoho cizího. Jejich šéfka Razor je vážnì drsná ženská.}
 {29105}{}{To jsme my. Máme dost penìz z prodeje zbraní obìma místním znepøáteleným gangùm.}
 {29106}{}{To je obchodní mìsto na východì, odkud získáváme další zbranì. Posílají sem karavany, ke kterým by jsi se mohl v Adytu pøipojit.}
 {29107}{}{Malé pohranièní mìsto na sever od Hubu. Mají velké kasino, ale místní šerif je trochu panovaèný.}

@@ -1,7 +1,6 @@
 # 100 to 103 are NOT USED, looks like it was old code for finding the Radscorpion Cave from the worldmap.
 #
-{100}{}{So wie die Dinge liegen, können sie nicht weit gereist sein. Sie müssen hier irgendwo einen
- Unterschlupf haben.}
+{100}{}{So wie die Dinge liegen, können sie nicht weit gereist sein. Sie müssen hier irgendwo einen Unterschlupf haben.}
 {101}{}{Sie scheinen aus einem nahegelegenen Ort zu kommen.}
 {102}{}{Sieht so aus, als wären sie aus dem fernen Norden hier her gereist.}
 {103}{}{Anscheinend sind sie einfach durch das Ödland gewandert.}
@@ -11,8 +10,7 @@
 {125}{}{Du entgehst mit Hilfe deines Wasservorrats einer Austrocknung.}
 {119}{}{ Trefferpunkte ein.}
 {124}{}{ Trefferpunkte.}
-{112}{}{Dein Wasservorrat geht zur Neige, und deine Suche nach einer Wasserquelle bleibt erfolglos.
- Du beginnst unter schwerer Austrocknung zu leiden, die dich }
+{112}{}{Dein Wasservorrat geht zur Neige, und deine Suche nach einer Wasserquelle bleibt erfolglos. Du beginnst unter schwerer Austrocknung zu leiden, die dich }
 # TRANSLATION NOTE: a period is inserted by the script at the end of the list of drinks consumed, and a comma between each if multiple types are consumed.
 {116}{}{ Trefferpunkte kostet.}
 {117}{}{Du suchst eine Stunde lang in der Landschaft der Hochwüste nach Wasser, aber du findest nicht genug, um deinen Durst vollständig stillen zu können. Du büßt einen Gesundheitspunkt ein.}
@@ -167,7 +165,7 @@
 {13600}{}{Du triffst auf die Überreste eines Kaufmanns und seiner Wachen.}
 {137}{}{Du siehst einen Bauern, der ein paar Brahmin hütet.}
 {139}{}{Radskorpione jagen Maulwurfsratten in den zerstörten Stadtmauern.}//Sduibek, Fallout Fixt
- {172}{}{Du bist über einige Sachen gestolpert, die am Boden lagen.}
+{172}{}{Du bist über einige Sachen gestolpert, die am Boden lagen.}
 {17200}{}{Du stolperst über einen kleinen Fleck mit zerstörten und verlassenen Gebäuden.}
 #
 #

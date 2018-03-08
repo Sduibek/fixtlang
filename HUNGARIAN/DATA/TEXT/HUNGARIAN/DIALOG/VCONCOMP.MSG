@@ -1,0 +1,83 @@
+{100}{}{Ez nem más, mint a Tartályvezérlõ számítógép.}
+{101}{}{Hozzáférés megtagadva.}
+{102}{}{Hozzáférés engedélyezve. Mi a parancs?}
+{103}{}{Biztonsági kódok megjelenítése.}
+{104}{}{Keresés a naplókban.}
+{105}{}{Csatlakozás a gyógyászati számítógépekre.}
+{106}{}{Bázis beriasztása.}
+{107}{}{17652-1028-1285362}
+{108}{}{67209-5574-7805564}
+{109}{}{55658-8678-1251533}
+{110}{}{31914-1041-1251514}
+{111}{}{53478-2565-7763929}
+{112}{}{44309-3674-1254730}
+{113}{}{[Megpróbálod megberhelni a tûzfalat, hogy több adathoz juss] A rejtjelezett biztonsági kódtáblázat megjelenítése.}
+{114}{}{17652-1028-1285362 végrehajtása}
+{115}{}{67209-5574-7805564 végrehajtása}
+{116}{}{55658-8678-1251533 végrehajtása}
+{117}{}{31914-1041-1251514 végrehajtása}
+{118}{}{53478-2565-7763929 végrehajtása}
+{119}{}{44309-3674-1254730 végrehajtása}
+{120}{}{[Sikeresen belefúrtad magad a rejtjelezett táblázatba.] Mi a parancs?}
+{121}{}{17652-1028-1285362 1 perces csendes önmegsemmisítés aktiválása}
+{122}{}{67209-5574-7805564 30 másodperces önmegsemmisítés aktiválása riasztással}
+{123}{}{55658-8678-1251533 bázis beriasztása}
+{124}{}{31914-1041-1251514 3 perces csendes önmegsemmisítés aktiválása}
+{125}{}{53478-2565-7763929 3 perces önmegsemmisítés aktiválása riasztással}
+{126}{}{44309-3674-1254730 azonnali önmegsemmisítés}
+{127}{}{Érvénytelen parancs. Adatbevitel vége.}
+{128}{}{Válasszon bejegyzést!}
+{129}{}{Grey}
+{130}{}{Boyarsky}
+{131}{}{Maxson}
+{132}{}{Anderson}
+{133}{}{Letölti Richard Grey adatait?}
+{134}{}{Igen.}
+{135}{}{Visszatérés a fõmenübe.}
+{136}{}{Letölti Maxson százados adatait?}
+{137}{}{Igen.}
+{138}{}{Visszatérés a fõmenübe.}
+{139}{}{Illegális sorlezáró-kód. Az adat sérült. Mi a parancs?}
+{140}{}{Mi a parancs?}
+{141}{}{Kapcsolat létrejött. Mi a parancs?}
+{142}{}{Milyen a páciensek jelenlegi státusza?}
+{143}{}{A pánciensek jelenlegi státusza: #23872-A számú FEV referencia csoport négy férfibõl és két nõbõl áll. Mindegyikük FEV behatás alatt állnak. Az életfunkcióik normál paramétereket mutatnak. A FEV lefolyás az összes alanyon körülbelül 50 százaléknál tart. A teljes FEV átalakulás körülbelül 12 órán belül várható.}
+{144}{}{Valami történik az egyik pácienssel. Tehetek valamit?}
+{145}{}{A páciensnek szívritmus-zavara van. Lássuk az illetõ státusz bejegyzéseit.}
+{146}{}{Az alábbi opciók közül választhat:}
+{147}{}{Státuszjelentés az egyes alanyokról.}
+{148}{}{Életfenntartó berendezések lekapcsolása.}
+{149}{}{Az alany eredeti DNS állományának 100 százalékra növelése.}
+{150}{}{Kilépés.}
+{151}{}{Kérem adja meg az azonosító kódot!}
+{152}{}{Azonosítás 3578X287A.}
+{153}{}{Z876342BCD}
+{154}{}{Alfa Delta 287 Foxtrott}
+{155}{}{[Megpróbálod megpiszkálni a számítógépet]}
+{156}{}{Érvénytelen azonosító. Mi a parancs?}
+{157}{}{Azonosító kód elfogadva. Kérem, várjon. Adatletöltés folyamatban.}
+{158}{}{A #23872-A számú FEV referencia csoport életfenntartó rendszerének leállítása.}
+{159}{}{Az összes alany eredeti DNS állományának 100 százalékra növelése.}
+{160}{}{Hozzáférés engedélyezve. Melyik pánciens adatait szeretné látni?}
+{161}{}{#23869-es számú páciens.}
+{162}{}{#23870-es számú páciens.}
+{163}{}{#23871-es számú páciens.}
+{164}{}{#23872-es számú páciens.}
+{165}{}{#23869-es számú páciens. Alany: Férfi. Kora: 25. Sugárzás mértéke: 40. FEV behatás: 50%. Eredeti DNS tartalom: 50%. A életfunkciók nem kielégítõek, de a tûréshatáron belül vannak.}
+{166}{}{Szeretném megvizsgálni egy másik páciens adatait.}
+{167}{}{#23870-es számú páciens. Alany: Férfi. Kora: 23. Sugárzás mértéke: 15. FEV behatás: 60%. Eredeti DNS tartalom: 40%. Az életfunkciók kielégítõek.}
+{168}{}{#23781-es számú páciens. Alany: Nõ. Kora: 20. Sugárzás mértéke: 10. FEV behatás: 55%. Eredeti DNS tartalom: 45%. Az életfunkciók kielégítõek.}
+{169}{}{#23782-es számú páciens. Alany: Férfi. Kora: 26. Sugárzás mértéke: 35. FEV behatás: 60%. Eredeti DNS tartalom: 40%. Az életfunkciók kissé eltérnek a kielégítõtõl, de jócskán tûréshatáron belül vannak.}
+{170}{}{Biztos benne, hogy a #23872-A jelû FEV referencia csoport életfenntartó rendszerét le akarja állítani?}
+{171}{}{#23872-A jelû FEV referencia csoport kiiktatva. Mi a parancs?}
+{172}{}{Igen.}
+{173}{}{Nem.}
+{174}{}{Biztos, hogy növelni szeretné a dózist? Ha ezt választja, az auto-korrekciót kikapcsolom.}
+{175}{}{Az eredeti DNS 100 százalékra állítása folyamatban. FIGYELEM: Auto-korrekció kikapcsolva!}
+{176}{}{Sikerült elõcsalnod a tartályvezérlõ számítógép kezelõképernyõjét.}
+{177}{}{Megpróbálod használni a számítógépet, de képtelen vagy kézzelfogható adatokat kinyerni belõle.}
+{178}{}{Megpróbálod használni a számítógépet, de a berendezés túlságosan bonyolult, hogy könnyen megértsd a mûködését. Türelmes ember vagy te, ne hagyd abba...}
+{179}{}{A robbanás megsemmisítette a vezérlõrendszert. Szabályozás híján perceken belül problémák lesznek.}
+{180}{}{A biztonsági kártyát végighúzod a terminál leolvasóján, mire a készülék kattan és felbúg egy kicsit. Ezután megjelenik egy kódolatlan képernyõ.}
+{181}{}{[Kilépés a rendszerbõl]}
+{200}{}{Észreveszed, hogy a burkolat el van távolítva, így szabaddá váltak a sérülékeny számítógép-alkatrészek }

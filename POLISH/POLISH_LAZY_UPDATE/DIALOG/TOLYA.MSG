@@ -1,0 +1,32 @@
+{100}{}{You see a desert bandit with a butcher's knife. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Czeœæ, nazywam siê Tolya. Wygl¹da na to, ¿e w³aœnie wracasz z pustyni. Kim jesteœ?}
+{102}{}{Nazywam siê }
+{103}{}{. Czym siê zajmujesz?}
+{104}{}{Mo¿esz mi powiedzieæ coœ o swoim obozie?}
+{105}{}{Urgh?}
+{106}{}{Jako bandyta zwiedzam œwiat, szukaj¹c ró¿nych dóbr. Kilka miast mia³o ju¿ zaszczyt nas goœciæ.}
+{107}{}{Czyli po prostu okradacie tych, których odwiedzacie.}
+{108}{}{Œwietnie! Garl z pewnoœci¹ jest z ciebie zadowolony.}
+{109}{}{Gdzie by³eœ?}
+{110}{}{Garl zabroni³ mi rozmawiaæ z obcymi. Trzeba przynajmniej podaæ imiê.}
+{111}{}{Masz racjê. Nazywam siê }
+{112}{}{. Mo¿esz mi powiedzieæ coœ o waszej bandzie?}
+{113}{}{S³uchaj, durniu - nie chcê mieæ z tob¹ nic do czynienia.}
+{114}{}{IdŸ sobie, idioto.}
+{115}{}{Nigdy nie kradniemy. Zabieramy tylko nadwy¿ki i rozdzielamy je pomiêdzy g³odnych.}
+{116}{}{Czyli po prostu kradniecie.}
+{117}{}{Brzmi œwietnie.}
+{118}{}{W wielu miejscach. Najbli¿ej le¿¹ Cieniste Piaski i Z³omowo. Obie miejscowoœci s¹ nam ogromnie wdziêczne za odwiedziny.}
+{119}{}{By³eœ w Cienistych Piaskach?}
+{120}{}{Gdzie le¿y Z³omowo?}
+{121}{}{Zaczynasz mnie denerwowaæ. Chyba rozwi¹¿ê ten drobny problem.}
+{122}{}{Jesteœmy Chanami, a naszym przywódc¹ jest Garl. To naszej grupy boj¹ siê wszyscy na Pustkowiach. I s³usznie. Bierzemy to, co chcemy, a ci, którzy nam wchodz¹ w drogê drogo za to p³ac¹.}
+{123}{}{Owszem, bywamy tam od czasu do czasu. Dziêki temu ¿ycia wszystkich zainteresowanych staj¹ siê ciekawsze.}
+{124}{}{A co ze Z³omowem?}
+{125}{}{Z³omowo le¿y trochê na po³udnie st¹d. Idzie siê kilka mil, a potem skrêca w prawo przy usychaj¹cym kaktusie. Nie da siê nie trafiæ!}
+{126}{}{Podobno odwiedzacie te¿ Cieniste Piaski.}
+{127}{}{Nie przeszkadzaj mi teraz. Przygotowujê siê do kolejnego najazdu.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Tolya, the Khans' resident chef and assistant scav.}

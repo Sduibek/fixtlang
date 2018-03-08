@@ -1,0 +1,14 @@
+{100}{}{Widzisz wysoce zaawansowany komputer Bractwa.}
+{101}{}{Nie uda³o ci siê uzyskaæ dostêpu do terminala.}
+{102}{}{Lekcja koñczy siê po szeœciu godzinach. Masz doœæ.}
+{103}{}{Nie mo¿esz ju¿ przyswoiæ wiêcej wiedzy.}
+#
+{200}{}{You see a computer. There are some pieces of something on it that might be human flesh.}
+#
+{201}{}{Chwilê majstrujesz przy komputerze, ale nie mo¿esz obejœæ systemu zabezpieczeñ.}
+{202}{}{Ten komputer dzia³a wrêcz idealnie.}
+{203}{}{Uda³o ci siê zdobyæ ciekawe informacje dotycz¹ce bazy na pó³nocnym zachodzie.}
+#
+# A number is inserted between 204 and 205
+{204}{}{You earn }
+{205}{}{ punktów doœwiadczenia za w³amanie siê do tego komputera.}

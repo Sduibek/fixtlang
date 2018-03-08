@@ -34,7 +34,7 @@
 #
 {200}{}{MÁS}
 {201}{}{ATRÁS}
-{202}{}{ESTATUS}
+{202}{}{Estatus}
 {203}{}{No hay tareas actuales.}
 # TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
 {204}{}{}	# Clues gone
@@ -44,7 +44,7 @@
 # 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
-{210}{}{ESTATUS}
+{210}{}{Estatus}
 {211}{}{DATOS}
 {212}{}{de}
 {213}{}{Página}
@@ -755,7 +755,7 @@
 {6118}{}{**END-DISK**}
 #
 #
-#   7.  
+#   7.
 #
 #
 # (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)
@@ -1064,7 +1064,7 @@ end
 {12025}{}{**END-PAR**}
 # -
 {12026}{}{                                                    0044 - 0057}
-{12027}{}{Puedo andar un poco de nuevo... Parece increíble}
+{12027}{}{Puedo andar un poco de nuevo... parece increíble}
 {12028}{}{que me arrastrase hasta aquí arriba desde la sala}
 {12029}{}{de los tanques. Es muy raro, la verdad es que ahora me}
 {12030}{}{siento más fuerte, aunque todavía tengo muchos dolores.}
@@ -1330,11 +1330,11 @@ end
 {15000}{}{La Armadura Reforzada de Infantería T-51b ha sido creada}
 {15001}{}{con los últimos descubrimientos en defensa pasiva tanto}
 {15002}{}{de ataques civiles como militares. El Paquete trasero de}
-{15003}{}{Microfusión TX-28 genera 60.000 vatios para activar los}
+{15003}{}{Microfusión TX-28 genera 60 000 vatios para activar los}
 {15004}{}{sistemas hidráulicos HiFlo que hay dentro del traje.}
 {15005}{}{Fabricada con el más innovador compuesto polilaminado,}
 {15006}{}{la carcasa de la T-51b es muy ligera y capaz de absorber}
-{15007}{}{más de 2500 Julios de impacto cinético. El baño de 10}
+{15007}{}{más de 2500 julios de impacto cinético. El baño de 10}
 {15008}{}{gramos micro plata puede reflejar las emisiones de láser}
 {15009}{}{y radiación sin dañar el compuesto bajo la superficie.}
 {15010}{}{**END-DISK**}

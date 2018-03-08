@@ -62,9 +62,14 @@
 {161}{}{Quédate cerca.}
 {162}{}{Guarda una distancia moderada.}
 {163}{}{Mantén una mayor distancia entre nosotros.}
-{164}{}{¿Qué tipo de técnicas con armas tienes?}
+{164}{}{¿Qué tipo de armas sabes manejar?}
 {165}{}{Tengo una buena formación de Ranger. Soy hábil con las pistolas pequeñas y los rifles. También se usar una lanza, en un apuro, claro está}
 {166}{}{Uh, no importa.}
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
 {167}{}{Sí, si te gusta el lagarto muy hecho.}
 {168}{}{Bueno, ya es hora. Continuemos señor, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
 {169}{}{Bueno, ya es hora. Continuemos señora, limpiemos las calles. Si se me permite, recomiendo acabar con Gizmo.}
@@ -75,7 +80,7 @@
 
 # for Fallout Fixt:
 
-{174}{}{ser amigoos?}
+{174}{}{Ser amigoos?}
 
 {175}{}{Vas a caer}
 {176}{}{Hora de vengarse.}

@@ -1,0 +1,115 @@
+{100}{}{Widzisz Thorndyke'a.}
+{101}{}{Nie mam zwyczaju leczenia moich wrogów. Wynoœ siê st¹d.}
+{102}{}{S³ysza³em o tobie. Zabijasz bez skrupu³ów. Nie bêdê leczyæ kogoœ, kto spowodowa³ tak wiele cierpieñ. Wynoœ siê st¹d.}
+{103}{}{Mój panie, jestem lekarzem. Nie potrzebujesz moich us³ug.}
+{104}{}{Moja pani, jestem lekarzem. Nie potrzebujesz moich us³ug.}
+{105}{}{Opowiedz mi o swojej pracy.}
+{106}{}{O co chodzi w tym miejscu?}
+{107}{}{Ile sobie liczysz za swoje us³ugi?}
+{108}{}{Mo¿e póŸniej...}
+{109}{}{Mogê ci naraiæ trochê klientów. Dobrze mi idzie ranienie ludzi!}
+{110}{}{Hê?}
+{111}{}{Proszê pana, za¿y³ ju¿ pan lekarstwo. Nie oœmielê siê podaæ teraz drugiej dawki.}
+{112}{}{Proszê pani, za¿y³a ju¿ pani lekarstwo. Nie oœmielê siê podaæ teraz drugiej dawki.}
+{113}{}{Opowiedz mi o swojej pracy.}
+{114}{}{O co chodzi w tym miejscu?}
+{115}{}{Kiepskie to lekarstwo. Mo¿e poszukasz czegoœ silniejszego?}
+{116}{}{Przepraszam, ¿e przeszkadzam, doktorku.}
+{117}{}{Mogê ci naraiæ trochê klientów. Dobrze mi idzie ranienie ludzi!}
+{118}{}{Hê?}
+{119}{}{Proszê pana, odniós³ pan rany. Mogê je wyleczyæ, jeœli pan sobie tego ¿yczy. Jestem lekarzem.}
+{120}{}{Proszê pani, odnios³a pani rany. Mogê je wyleczyæ, jeœli pani sobie tego ¿yczy. Jestem lekarzem.}
+{121}{}{Opowiedz mi o swojej pracy.}
+{122}{}{O co chodzi w tym miejscu?}
+{123}{}{Za ile?}
+{124}{}{Dobra.}
+{125}{}{Nie, dziêki.}
+{126}{}{Nienawidzê lekarzy!}
+{127}{}{Uuuu! Ouuuuu!}
+{128}{}{Rarrrr!!!}
+{129}{}{Proszê pana, jest pan powa¿nie ranny. Zdecydowanie sugerujê, aby pozwoli³ mi pan siê wyleczyæ. Jestem lekarzem.}
+{130}{}{Proszê pani, jest pani powa¿nie ranna. Zdecydowanie sugerujê, aby pozwoli³a mi pani siê wyleczyæ. Jestem lekarzem.}
+{131}{}{Opowiedz mi o swojej pracy.}
+{132}{}{O co chodzi w tym miejscu?}
+{133}{}{Za ile?}
+{134}{}{Nie, dziêki.}
+{135}{}{Nienawidzê lekarzy!}
+{136}{}{Uuuu! Ouuuuu!}
+{137}{}{Rarrrr!!!}
+{138}{}{Œwiêty P³omieñ nakaza³ mi leczenie ludzi. Jego m¹droœæ jest niezmierzona, wiêc tak robiê. Wiele siê nauczy³em o œwiecie poza Katedr¹.}
+{139}{}{Opowiedz mi o Katedrze.}
+{140}{}{Czego na przyk³ad?}
+{141}{}{O co chodzi w tym miejscu?}
+{142}{}{Przepraszam, ¿e przeszkadzam, doktorku.}
+{143}{}{Niez³y ten p³omieñ!}
+{144}{}{Proszê pana o wybaczenie, ale niecierpliwi¹ mnie d³ugie rozmowy. Inni z pewnoœci¹ lepiej zaspokoj¹ pañsk¹ ciekawoœæ. Przepraszam pana.}
+{145}{}{Proszê pani¹ o wybaczenie, ale niecierpliwi¹ mnie d³ugie rozmowy. Inni z pewnoœci¹ lepiej zaspokoj¹ pani ciekawoœæ. Przepraszam pani¹.}
+{146}{}{Dla mnie jest to miejsce, w którym mogê korzystaæ z daru leczenia. Dla innych to miejsce, w którym zagubione dusze zbieraj¹ siê i s¹ kierowane na produktywn¹ drogê. Proszê o wybaczenie, ale niecierpliwi¹ mnie d³ugie rozmowy. Inni z pewnoœci¹ lepiej zaspokoj¹ pañsk¹ ciekawoœæ. Przepraszam pana.}
+{147}{}{Dla mnie jest to miejsce, w którym mogê korzystaæ z daru leczenia. Dla innych to miejsce, w którym zagubione dusze zbieraj¹ siê i s¹ kierowane na produktywn¹ drogê. Proszê o wybaczenie, ale niecierpliwi¹ mnie d³ugie rozmowy. Inni z pewnoœci¹ lepiej zaspokoj¹ pani ciekawoœæ. Przepraszam pani¹.}
+{148}{}{Wœród staro¿ytnych by³o kilku mêdrców, którzy uwa¿ali, ¿e cnota jest nagrod¹ sam¹ w sobie. Podzielam ten pogl¹d. Byæ mo¿e jeœli wiêcej ludzi by siê z nim zgadza³o, Œwiêty P³omieñ by³by niepotrzebny... Proszê o wybaczenie, ale niecierpliwi¹ mnie d³ugie rozmowy. Inni z pewnoœci¹ bêd¹ bardziej pomocni ode mnie. Przepraszam.}
+{149}{}{¯egnam. Gdyby zasz³a taka potrzeba, bêdê tutaj. Mam jednak nadziejê, ¿e ju¿ nigdy siê nie spotkamy.}
+{150}{}{To s³u¿ba, nie 'interes'. Na twoim miejscu nie chwali³bym siê te¿ tym 'talentem'. A teraz proszê o wybaczenie.}
+{151}{}{Byæ mo¿e nie zdo³am wyleczyæ tych ran. Podobno Œwiêty Ogieñ prowadzi tych przeklêtych kl¹tw¹ g³upoty do zbawienia; Bêdê siê o ciebie modliæ.}
+{152}{}{Wa¿niejsze s¹ te rany. Porozmawiaæ mo¿emy póŸniej... Chcia³bym zaj¹æ siê nimi.}
+{153}{}{Nie przepadasz za luŸn¹ etykiet¹, co?}
+{154}{}{Muszê siê dowiedzieæ czegoœ na ten temat.}
+{155}{}{Ile sobie liczysz za us³ugi?}
+{156}{}{Dobra.}
+{157}{}{Nie, dziêki.}
+{158}{}{Nienawidzê lekarzy!}
+{159}{}{Jestem lekarzem, nie lichwiarzem. Katedra zaspokaja moje potrzeby tak, abym ja móg³ siê zaj¹æ potrzebami innych. Mogê siê zaj¹æ tymi ranami, czy nie?}
+{160}{}{Dobra.}
+{161}{}{W porz¹dku.}
+{162}{}{Zapomnij. Swoj¹ g³upotê powinieneœ beczkowaæ i wysy³aæ za granicê.}
+{163}{}{Nienawidzê lekarzy!}
+{164}{}{Sugerujê kilka dni odpoczynku. Inna sprawa, ¿e nikt mnie nigdy nie s³ucha... A teraz sobie st¹d idŸ.}
+{165}{}{To twój wybór. Bêdê tutaj, jeœli zmienisz zdanie.}
+{166}{}{[Uœmiecha siê.] Rzeczywiœcie, straszne indywidua. Ca³kowicie siê zgadzam. [Uœmiech blaknie] Bêdê tutaj, jeœli zmienisz zdanie. Mo¿esz wyjœæ?}
+{167}{}{Rozumiem, ¿e to by³o 'tak'. Nie zabijaj mnie...}
+{168}{}{OUUUUU!! [RYYK!]}
+{169}{}{Biedna istota. Stworzenie o tak niskim poziomie intelektu by³oby wyzwaniem nawet dla mocy leczniczych Œwiêtego Ognia. Wynoœ siê st¹d...}
+{170}{}{Rozumiem, ¿e to by³o 'nie'. Mo¿esz wyj... eee... Ty teraz iœæ. Ju¿!}
+{171}{}{To piêkne miejsce, choæ ostatnio nieco przeludnione. Daleko na po³udnie st¹d. To tam wierni zbieraj¹ siê, aby chwaliæ Œwiêty P³omieñ oraz modliæ siê o Pokój i Jednoœæ. Jeœli to ju¿ wszystko...}
+{172}{}{Opowiedz mi o Pokoju i Jednoœci...}
+{173}{}{Gdzie dok³adnie znajduje siê to miejsce?}
+{174}{}{Co jest przyczyn¹ tego przeludnienia?}
+{175}{}{Nienawidzê lekarzy!}
+{176}{}{Nauczy³em siê, ¿e jesteœmy zawistn¹, brutaln¹ i g³upi¹ ras¹, niegodn¹ Œwiêtego P³omienia. Wszêdzie widzê chciwoœæ i z³o. Jeœli nie podejmiemy drastycznych kroków, Œwiêty P³omieñ ponownie nas spali...}
+{177}{}{Opowiedz mi jeszcze o Œwiêtym P³omieniu... }
+{178}{}{Twoja religia rz¹dzi, koleœ!}
+{179}{}{Ile religii zapowiada³o, ¿e ludzie sp³on¹?}
+{180}{}{Zdefiniuj 'drastyczne'.}
+{181}{}{Nienawidzê lekarzy!}
+{182}{}{Owszem, lecz inni lepiej wy³o¿¹ ci jej prawdziw¹ wielkoœæ. ¯egnam.}
+{183}{}{Psujesz moj¹ koncentracjê! Mam ciê leczyæ, czy nie?}
+{184}{}{Co ciê tak wkurzy³o?}
+{185}{}{Chyba od pocz¹tku mia³eœ z ni¹ k³opoty!}
+{186}{}{Dobra.}
+{187}{}{Nie, dziêki.}
+{188}{}{Nienawidzê lekarzy!}
+{189}{}{Pokój, podobnie jak jednoœæ, zawsze powstaje wskutek wojen i trudnoœci. Moje umiejêtnoœci przydadz¹ siê w nadchodz¹cych czasach.}
+{190}{}{Opowiedz mi o wojnie.}
+{191}{}{Czy Jednoœæ jest warta tej ceny?}
+{192}{}{Dlaczego wszyscy s¹dz¹, ¿e odpowiedzi¹ na pokój jest wojna?}
+{193}{}{Postawmy sprawy jasno. S³u¿ysz religii, która ma w planach szerzenie œmierci i zniszczenia, s¹dz¹c, ¿e wszystko jest w porz¹dku? Jesteœ idiot¹!}
+{194}{}{Stary œwiat by³ pe³en z³a i dekadencji. Œwiêty P³omieñ go zniszczy³. Mo¿emy siê baæ P³omienia lub go czciæ, próbuj¹c zrozumieæ. Dzieci wybra³y zrozumienie. Mimo, ¿e nie chcemy ponownego u¿ycia Œwiêtego P³omienia.}
+{195}{}{Sk¹d wiesz, jak wygl¹da³ stary œwiat?}
+{196}{}{Czciæ? Bombê? co jest takiego cudownego w bombie?}
+{197}{}{Skoro Œwiêty P³omieñ jest taki wspania³y, to dlaczego nie chcecie go stale ogl¹daæ?}
+{198}{}{Postawmy sprawy jasno. Aby coœ zrozumieæ, trzeba to czciæ?}
+{199}{}{Jesteœcie nienormalni!}
+{200}{}{Gdy kogoœ o cos proszê, to nie robiê tego, aby zostaæ zignorowanym. Jeœli chcesz ignorowaæ moje ¿yczenia, to ja zignorujê twoje rany. ¯egnam.}
+{201}{}{Za kogo ty siê uwa¿asz? Wynoœ siê st¹d, bandyto!}
+{202}{}{Wyci¹gn¹³ pan ju¿ ze mnie dziœ doœæ informacji. ¯egnam pana.}
+{203}{}{Wyci¹gnê³a pani ju¿ ze mnie dziœ doœæ informacji. ¯egnam pani¹.}
+{204}{}{Œwiêty P³omieñ to metafora na œmieræ starego œwiata i pocz¹tek nowego. Na moce ¿ycia i œmierci. Co wiêcej mo¿na czciæ?}
+{205}{}{Moja spluwa te¿ ma moce ¿ycia i œmierci, ale jakoœ ¿adni popaprañcy jej nie czcz¹!}
+{206}{}{Mo¿e i masz racjê. Przemyœlê to.}
+{207}{}{Eee... Przecie¿ jest ¿arcie, seks, du¿a spluwa... Mnóstwo rzeczy, które lepiej czciæ!}
+{208}{}{Nie rozumiesz, co?}
+{209}{}{Nie jesteœ zbyt przekonuj¹cy, doktorku.}
+{210}{}{Ta rozmowa mnie mêczy. WyjdŸ, proszê.}
+{211}{}{Wci¹¿ pamiêtam pañskie obelgi. Prêdzej pozwolê panu zgniæ, ni¿ go wyleczê.}
+{212}{}{Wci¹¿ pamiêtam pani obelgi. Prêdzej pozwolê pani zgniæ, ni¿ j¹ wyleczê.}
+{213}{}{Matka Jain zabroni³a komukolwiek z tob¹ rozmawiaæ. ¯egnam.}
+{214}{}{Co za g³upota! Czy nie widaæ, ¿e on potrzebuje odpoczynku?}

@@ -10,8 +10,8 @@
 {109}{}{¡Claro, chico!}
 {110}{}{No gracias.}
 {111}{}{Claro. ¡Quizás me guste pisotearla!}
-{112}{}{[Snif, snif.] ¡Huele bien!}
-{113}{}{[Snif, snif.] ¡Huele fatal!}
+{112}{}{*snif snif* ¡Huele bien!}
+{113}{}{*snif snif* ¡Huele fatal!}
 {114}{}{¡Idiota! ¡Ya tienes una flor!}
 {115}{}{¿Quieres la flor o no?}
 {116}{}{Te aceptaré la flor si me cuentas algo de este lugar.}
@@ -19,7 +19,7 @@
 {118}{}{¡Claro, chico!}
 {119}{}{Basta ya con la maldita flor. ¡Contesta la pregunta!}
 {120}{}{}
-{121}{}{Es una Rosa de la Unidad. Tiene el color de la Llama Sagrada y representa la paz y la armonía que tendremos cuando los Niños de la Catedral nos ayuden a todos a ser amistosos y fuertes. Oh, ¿quieres una?}
+{121}{}{Es una rosa de la Unidad. Tiene el color de la Llama Sagrada y representa la paz y la armonía que tendremos cuando los Niños de la Catedral nos ayuden a todos a ser amistosos y fuertes. Oh, ¿quieres una?}
 {122}{}{}
 {123}{}{¿Cómo va a hacer una rosa todo eso?}
 {124}{}{Háblame de la Llama Sagrada...}
@@ -37,7 +37,7 @@
 {136}{}{¡Eres mezquina! ¡Te odio! ¡Espero que la Llama Sagrada te devore!}
 {137}{}{¡Seguro que sí! ¡Toma una! ¡He regalado una flor! ¿No es fantástico?}
 {138}{}{¡Eres terrible! Espero que la Llama Sagrada te mate antes de que digas más estupideces. Madre Jain, ¡vigila a esa imbécil!}
-{139}{}{Somos los Niños de la Catedral. La mismísima Llama Sagrada nos ha encargado de alimentar a los hambrientos y curar a los enfermos. Vamos a extender la paz y la unidad por todas partes, ¡y pronto todo será perfecto! ¡Toma tu flor!}
+{139}{}{Somos los Niños de la Catedral. La mismísima Llama Sagrada nos ha encargado de alimentar a los hambrientos y curar a los enfermos. Vamos a extender la paz y la unidad por todas partes, ¡y pronto todo será perfecto! ¡Toma una flor!}
 {140}{}{No pienso que quieras una flor. ¡Eres mezquina conmigo!}
 {141}{}{¡Las rosas no pueden hacer eso, tonta! Solo las personas pueden salvar el mundo. Y con la Llama Sagrada como Maestra, ¡estamos seguros de que todo será especial y agradable! Bueno, ¿quieres una flor?}
 {142}{}{Háblame de la Catedral...}

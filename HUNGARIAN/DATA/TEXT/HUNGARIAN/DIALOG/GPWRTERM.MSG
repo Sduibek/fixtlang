@@ -1,0 +1,95 @@
+{100}{}{Rendszer:                                                         Üzemi áramforrás:                  KIKAPCSOLVA                           Másodlagos áramforrás:               BEKAPCSOLVA}
+{101}{}{Áramelosztó}
+{102}{}{Á*am*lo*z*ó}
+{103}{}{Kilépés}
+{104}{}{Áramszolgáltatás}
+{105}{}{Üzemi áramforrás}
+{106}{}{Tartalék áramforrás}
+{107}{}{VISSZA}
+{108}{}{Áramszolgáltatás:       KIKAPCSOLVA}
+{109}{}{Üzemi áram üzembe helyezése}
+{110}{}{VISSZA}
+{111}{}{Áramszolgáltatás:                                           HIBA! HIBA! HIBA!                                               Üzemi áramforrás üzembe helyezése sikertelen}
+{112}{}{Diagnózis}
+{113}{}{VISSZA}
+{114}{}{Hiba:        Generátor, 6-os szint                                       Diagnózis:  Mûködésképtelen                                          Szervizelés szükséges}
+{115}{}{VISSZA}
+{116}{}{Tartalék áramforrás:     BEKAPCSOLVA}
+{117}{}{Tartalék áram kiiktatása}
+{118}{}{VISSZA}
+{119}{}{Rendszer:                                                         Üzemi áramforrás:               BEKAPCSOLVA                           Tartalék áramforrás:                KÉSZENLÉTBEN}
+{120}{}{Áramelosztó}
+{121}{}{Kilépés}
+{122}{}{Áramszolgáltatás:       BEKAPCSOLVA}
+{123}{}{Üzemi áram kiiktatása}
+{124}{}{VISSZA}
+{125}{}{Rendszer:                                                         Primary Power:                  BEKAPCSOLVA}
+{126}{}{ü*e*i á*a*f*r*á* k*k*pc*ol*s*}
+{127}{}{Üzemi áramforrás kikapcsolása}
+{128}{}{Kilépés}
+{129}{}{Á*a*szo*g*lta**s}
+{130}{}{ü*e*i á*a*f*r*á*}
+{131}{}{t*r*a*é* á*a*f*r*á*}
+{132}{}{VISSZA}
+{133}{}{Á*a*s*o*g*l*a*á*}
+{134}{}{Ü**mi á*a* ü*e*b* h*l**z*s*}
+{135}{}{VISSZA}
+{136}{}{Ü**mi á*a* ü*e*b* h*l**z*s*:                                          *I*A! *I*A! *I*A!                                              g*n*r*t*r ja**ás** sz*r*l}
+{137}{}{VISSZA}
+{138}{}{T*r*a*é* á*a*f*r*ás:     B*KA*CS*L*A}
+{139}{}{Rendszer:                                                          Üzemi áramforrás:              KIKAPCSOLVA                           Tartalék áramforrás:               KIKAPCSOLVA}
+{140}{}{Tartalék áram bekapcsolása}
+{141}{}{Üz*m* á*am*o*r*s d*ag*ó*is}
+{142}{}{Üz*m* á*am*o*r*s fe*mé*é*e}
+{143}{}{T*rt*l*k á*a* be*a*cs*l**a}
+{144}{}{Á*am*lo*z*ó fo*r*s*k}
+{145}{}{Kilépés}
+{146}{}{R*nd*ze* *ib*!                                                         *nv*l*d *s*r. n*t*f* *dm*n*str*t**n.                          S*st*m h*lt*d.}
+{147}{}{Kilépés}
+{148}{}{T*rt*l*k á*a* k*ka*c**l*sa}{200}{}{Hozzáférést kérek a Központi Számítógéphez.}
+{201}{}{Hozzáférés megtagadva. Input terminálva.}
+{202}{}{Hozzáférés megadva.}
+{203}{}{Fõmenü}
+{204}{}{Kilépés a Központi Számítógépbõl}
+{205}{}{Program megszakítása}
+{206}{}{Válasszon:}
+{207}{}{Bázis információk}
+{208}{}{Biztonsági információk}
+{209}{}{Kutatási információk}
+{210}{}{Áramfejlesztõ-állomás}
+{211}{}{West Tech Kutatóbázis:                                             A 2002-ben alapított cég az Egyesült Államok kormánya által megbízott magán beszállítók egyike volt. A cégen belül két osztályt hoztak  létre, a Modern Fegyverek Kutatórészlegét, illetve a Biogyógyászati Tudományok részlegét.}
+{241}{}{ 2069-re a West Tech az USA kormányának legnagyobb magán beszállítójává lépett elõ. Legfontosabb termékük a T-51b típusú fúziós gyalogsági páncél volt. }
+{242}{}{Az NBC által  folytatott Átfogó Immunológiai Virion Projekten 2076-ra elért jelentõs elõrelépései miatt az Egyesült Államok Védelmi Minisztériuma - a nemzetközi kémkedéstõl tartván -}
+{243}{}{ egy megfigyelõ csoportot osztott be a kutatók mellé, hogy felügyeljék, és biztosítsák a projektet, melyet onnantól FEV (Fejlesztett Evolúciós Vírus) projekt néven illettek.}
+{212}{}{Biztonsági rendszer:                                                     Biztonsági robotok: Aktívak}
+{213}{}{Biztonsági rendszer:                                                     Biztonsági robotok: Inaktívak}
+{214}{}{Biztonsági Robotok Deaktiválása}
+{215}{}{Biztonsági Robotok Aktiválása}
+{216}{}{Kutatás:                                                     A West Tech Kutatóbázis legaktuálisabb adatai}
+{217}{}{Kutatási részleg alkalmazottainak adatai}
+{218}{}{Erõpáncél. Státusz: Kész}
+{219}{}{FEV (Fejlesztett Evolúciós Vírus). Státusz: Felfüggesztve}
+{220}{}{A kutatószemélyzet adatai}
+{221}{}{Robert Anderson                                                     Kutatási asszisztens                                               Biztonsági besorolás: Kék                                    Állomáshely: Mariposa Katonai Bázis}
+{222}{}{Nick Davis                                                     A West Tech Kutatóbázis NBC osztályának vezetõje               Biztonsági besorolás: Kék                                           Állomáshely: West Tech Kutatóbázis}
+{223}{}{John Isaac                                                     Kutatási asszisztens                                           Biztonsági besorolás: Vörös                                   Állomáshely: West Tech Kutatóbázis}
+{224}{}{Steve Remco                                                     Research Assistant                                           Biztonsági besorolás: Kék                                   Állomáshely: Mariposa Katonai Bázis}
+{225}{}{Charles Rignhold                                                     A Lézer fejlesztések vezetõje                         Biztonsági besorolás: Kék                                     Állomáshely: West Tech Kutatóbázis}
+{226}{}{Michele Santose                                                     Labortechnikus                                                   Biztonsági besorolás: Vörös                                      Állomáshely: West Tech Kutatóbázis}
+{227}{}{Erin Shellman                                                           Labortechnikus                                                   Biztonsági besorolás: Kék                                      Állomáshely: Mariposa Katonai Bázis}
+{228}{}{Leon VonFelden                                                     A FEV kutatások vezetõje                                       Biztonsági besorolás: Kék                                     Állomáshely: Mariposa Katonai Bázis}
+{229}{}{Adatok áttöltése a PipBoyba}
+{230}{}{VISSZA}
+{231}{}{Erõpáncél specifikációk:                                                     A T-51b Fúziós Gyalogsági Páncél a legmodernebb passzív védelmi technikák alkalmazásával készült mind civil, mind katonai zavargások leküzdésére. }
+{250}{}{A hátra szerelhetõ TX-28-as Mikrofúziós egység 60 Kw áramot termel, így mozgatja az öltözék vázát alkotó "HiFlo" hidraulikus rendszert.}
+{251}{}{A legújabb többrétegû kompozitokból álló T-51b borítása pehely könnyû, több, mint 2500 J kinetikus energiát képes elnyelni. }
+{252}{}{A 10 mikron vastagságú ezüstözött ablatív borítás anélkül veri vissza a lézer és sugárnyalábokat, hogy sérülést hagyna a kompozit belsõ felületen.}
+{232}{}{A FEV tapasztalatok összegzésének kivonata:                                                     2073. Ahogy Kína egyre agresszívabbá vált a biológiai fegyverek használatában,                                                      az Amerikai Egyesült Államok úgy érezte, hogy ellenlépéseket kell eszközölnie. Az                                                     Átfogó Immunológiai Virion Projekt (ÁIVP) hivatalosan 2073. szeptember 15-én                                                     indult. }
+{233}{}{2075. Ezidõtájt vált nyilvánvalóvá, hogy az újonan létrehozott biológiai fegyverek elleni harc leghatásosabb módszere a még nem fertõzött DNS módosítása, mellyel a hagyományos vírusfertõzések ellen immunisá tehetõk.}
+{234}{}{2076. Az ÁIVP elõrehaladtával nem várt mellékhatások kezdtek felszínre bukkanni. A kísérleti állatok abnormális növekedési rátát, és túlzott agyi tevékenységet mutattak.}
+{235}{}{Az Egyesült Államok kormánya szemmel tartotta e kísérleteket, ezért a nemzetbiztonság érdekében egy megfigyelõ csoportot küldött a helyszínre. A cél az volt, hogy felügyeljék és biztosítsák a projektet, melyet egy ideje FEV (Fejlesztett Evolúciós Vírus) néven illettek.}
+{236}{}{2077. A FEV hamarosan kész. A laboratóriumi állatokon végzett kísérletek közel száz százalékos sikerrel jártak. A méret és izomtömeg körülbelül 60 százalékkal növekszik, az intelligencia akár 200 százalékos növekedést is elér.}
+{237}{}{Az emberekre kifejtett hatása továbbra is ismeretlen, habár elméletileg semmi probléma nem lehet vele. }
+{238}{}{Mivel szerették volna folytatni a teszteket, a hadsereg óriási kutatólabort létesített a Közép-Kaliforniai Mariposa katonai bázis területén. Az új helyszínen tovább folytatódik a FEV tesztelése, immár a hadsereg önkéntesein.}
+{239}{}{Parancssor:                           Parancs végrehajtva}
+{240}{}{Hozzáférés megtagadva}

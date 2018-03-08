@@ -1,0 +1,135 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#   SKILL NAMES
+#
+{100}{}{小型枪械}
+{101}{}{大型枪械}
+{102}{}{能量型武器}
+{103}{}{肉搏}
+{104}{}{近战武器}
+{105}{}{抛掷力}
+{106}{}{First Aid}
+{107}{}{医疗}
+{108}{}{潜行}
+{109}{}{开锁}
+{110}{}{偷窃}
+{111}{}{陷阱}
+{112}{}{科技}
+{113}{}{修理}
+{114}{}{口才}
+{115}{}{杀价}
+{116}{}{赌博}
+{117}{}{野外生存}
+
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{对于小型武器：枪、小机关枪、来福枪等的武器有著相当的知识。}
+{201}{}{对于大型武器：大枪、火箭炮、火焰发射器等等的武器有著相当的知识。}
+{202}{}{对于能源武器，任何使用电浆或是雷射科技的武器有著相当的知识。}
+{203}{}{拳击、武功、以及其它的空手战斗技巧，用你的手以及脚的作战技巧。}
+{204}{}{使用没有射程的武器：刀、锤、矛、棒等等的技巧。}
+{205}{}{使用以肌肉操作的长程武器，如飞刀、掷矛、以及手榴弹的技巧。}
+{206}{}{普通的治疗技巧。用来治疗小切伤、擦伤以及其它小伤。在游戏里面，使用急救箱可以比休息恢复更多的生命点数。}
+{207}{}{可以治疗重伤或是受伤的肢体的技巧。没有这一项技巧，人物就得要休息相当长的一段时间才能够恢复。}
+{208}{}{可以快速移动，以及不被发现的技巧。如果成功的话，别人将比较不容易找到你。你可以同时轻步以及跑步。}
+{209}{}{可以不用钥匙就将锁打开的技巧。使用开锁工具组或是电子开锁器将会增强这一项技巧。}
+{210}{}{你以将别人的东西据为己有的技巧。}
+{211}{}{发现并且拆除陷阱的技巧，以及设定炸弹的技巧。}
+{212}{}{包括了许多高科技的技巧，例如电脑、生物、物理、以及地质学等方面的技巧。}
+{213}{}{运用科学知识修理仪器、机器、以及电子物品的技巧。}
+{214}{}{以有效率以及达意的方式与人沟通的技巧，说服别人你是正确的技巧，以及说谎不被抓到的技巧。}
+{215}{}{商务以及相关的事物。可以在买、卖东西时取得较好价钱的技巧。}
+{216}{}{赌博的技巧。纸牌、骰子、等等的赌具。}
+{217}{}{对于户外有着相当的知识，在野外求生、以及对于动物以及植物的认识。}
+
+#
+#   SKILL CALCULATION DESCRIPTIONS
+#
+{300}{}{+ AG}
+{301}{}{+ AG}
+{302}{}{+ AG}
+{303}{}{+ (AG + ST)/2}
+{304}{}{+ (AG + ST)/2}
+{305}{}{+ AG}
+{306}{}{+ (PE + IN)}
+{307}{}{+ (PE + IN)/2}
+{308}{}{+ AG}
+{309}{}{+ (PE + AG)/2}
+{310}{}{+ AG}
+{311}{}{+ (PE + AG)/2}
+{312}{}{+ (2 x IN)}
+{313}{}{+ IN}
+{314}{}{+ (2 x CH)}
+{315}{}{+ (2 x CH)}
+{316}{}{+ (3 x LK)}
+{317}{}{+ (EN + IN)/2}
+
+#
+#   SKILL USE MESSAGES
+#
+
+{510}{}{\nskill_use: 使用了非法的技巧。}
+
+#
+# First Aid and Doctor
+#
+{500}{}{你治愈了%d点生命点数。}# "d" is a number
+{501}{}{你看起来健康多了。}
+{502}{}{%s看起来健康多了。}# "s" is a critter title/name from SCRNAME.MSG, such as "Hub Police Officer" or "Dogmeat" or "Aradesh"
+{503}{}{You fail to heal anything.}
+{505}{}{You earn %d experience for honing your skills.}# "d" is a number
+
+{512}{}{你不能对死者进行治疗。}
+{513}{}{让死者安详的去吧。}
+{514}{}{他已死了，不要再烦他了。}
+#
+# Lines 530-534 are the endings to lines 520, 521, 525, 526
+#
+{520}{}{You mend your %s.}
+{521}{}{You mend the %s.}
+{525}{}{You fail to mend your %s.}
+{526}{}{You fail to mend the %s.}
+{530}{}{受伤的眼}
+{531}{}{受伤的左臂}
+{532}{}{受伤的右臂}
+{533}{}{受伤的右腿}
+{534}{}{受伤的左腿}
+
+#
+# After 3 successful uses of a healing skill in one day
+#
+{590}{}{已经证明你那个技巧还不成熟，再等等吧。}
+{591}{}{You're too tired to do that right now.}
+{592}{}{The strain might kill you. Get some rest first.}
+
+#
+# Lockpick
+#
+{550}{}{The lock triumphantly resists your attempt to bypass it.}
+
+#
+# Traps
+#
+{551}{}{You do not find any traps. The object may not be trapped at all.}
+
+#
+# Science
+#
+{552}{}{You tinker and study for a while, but do not discover any useful gadgets or information.}
+
+#
+# Repair
+#
+{553}{}{This cannot be repaired, or is already functioning normally.}
+
+#
+# Steal
+#
+{570}{}{你偷%s被抓到了。}
+{571}{}{你偷了%s。}
+{572}{}{你偷放%s被抓到了。}
+{573}{}{你偷放了%s。}

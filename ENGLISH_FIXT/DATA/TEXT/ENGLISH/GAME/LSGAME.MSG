@@ -18,10 +18,10 @@
 {108}{}{Doesn't exist or is corrupted.} # Line 3
 {109}{}{SAVE SLOT}
 {110}{}{SAVE SLOT}
-{111}{}{- EMPTY -}
+{111}{}{----- EMPTY -----}
 {112}{}{- CORRUPT SAVE FILE -}
 {113}{}{- OLD VERSION -}
-{114}{}{Empty.}
+{114}{}{This save slot is empty.}
 {115}{}{Error!}
 {116}{}{Old version.}
 {117}{}{JAN}                            # Months

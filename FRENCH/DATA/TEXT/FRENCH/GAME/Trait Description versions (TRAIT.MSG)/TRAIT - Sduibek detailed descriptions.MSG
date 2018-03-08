@@ -8,22 +8,23 @@
 #
 #   TRAIT NAMES
 #
-{100}{}{Fast Metabolism}
-{101}{}{Bruiser}
-{102}{}{Small Frame}
-{103}{}{One-Hander}
+{100}{}{Métabofast}
+{101}{}{Mr Muscle}
+{102}{}{Gringalet}
+{103}{}{Main-d'Or}
 {104}{}{Finesse}
 {105}{}{Kamikaze}
-{106}{}{Heavy-Handed}
-{107}{}{Fast Shot}
-{108}{}{Bloody Mess}
-{109}{}{Jinxed}
-{110}{}{Good-Natured}
-{111}{}{Drug-Reliant}
-{112}{}{Drug-Resistant}
-{113}{}{Night Person}
-{114}{}{Skilled}
-{115}{}{Gifted}
+{106}{}{Main-Lourde}
+{107}{}{Sang-Chaud}
+{108}{}{Brute}
+{109}{}{La-Poisse}
+{110}{}{Bon Vivant}
+{111}{}{Dépendance}
+{112}{}{Dur-à-cuire}
+{113}{}{Noctambule}
+{114}{}{Compétence}
+{115}{}{Talent}
+#
 #
 #   TRAIT DESCRIPTIONS
 #
@@ -33,19 +34,20 @@
 ##                   This means you will need to tweak the translation and number of spaces as needed, if you want to obtain the separation. (You don't have to, it's mostly cosmetic and to slightly increase readability)
 ##
 ##
-{200}{}{Your metabolic rate is twice that of your fellow vault-dwellers. Because your body heals faster, it has not developed a normal resistance to the elements.                  +2 Healing Rate, but Poison Resistance & Radiation Resistance start at 0%}
-{201}{}{A little slower, but a little bigger. You may not hit as often, but they will feel it when you do!                                                  +2 Strength, -2 Action Points.}
-{202}{}{You are not quite as big as the other vault-dwellers, but that never slowed you down.                                               +1 Agility, but Carry Weight is lowered by 10 times your Strength.       (-10 lb at STR 1 up to -100 lb at STR 10)}
-{203}{}{One of your hands is very dominant. You excel with 1-handed weapons.                  +20% Chance To Hit with all 1-handed weapons (including melee and unarmed), but -40% Chance To Hit with all 2-handed weapons.}
-{204}{}{Your attacks show a lot of finesse. You cause more critical hits, but you don't do as much damage.                            +10% Critical Chance, but your attacks deal 30% less damage.}
-{205}{}{By not paying any attention to threats, you can act a lot faster in a combat turn.                                     +5 Sequence, but Armor Class is 0 unless wearing armor.}
-{206}{}{You swing harder, not better. Your attacks are very brutal, but lack finesse.            +4 Melee Damage, but  -30% to Critical Hits table (meaning damage boosts and other effects of Critical Hits are reduced and/or less likely).}
-{207}{}{You attack faster than normal, so you don't have time to make targeted attacks.               All attacks (including melee and unarmed) cost 1 less Action Point, but you can't aim for specific body parts.}
-{208}{}{By some strange twist of fate, people around you die very violently. You always see the worst way a person can die.       You never saw such violence in Vault life, so this may have unforseen effects on your future actions.}
-{209}{}{Mayhem seems to follow you everywhere. Everyone around you has more critical failures in combat. The bad thing is, so do you!                All combat failures (misses) have a fairly high chance of being "upgraded" to a Critical Failure (critical miss).}
-{210}{}{You spent more time than normal studying non-combative skills growing up.             +15% to First Aid, Doctor, Speech, and Barter, but -10% to Small Guns, Big Guns, Energy Weapons, Throwing, Melee Weapons, and Unarmed.}
-{211}{}{You have enjoyed your trips to the vault medic a bit too much.                     You recover twice as fast as normal from the ill effects of drug addiction, but your chance to become addicted is also twice normal.}
-{212}{}{You are resistant to all drugs and medications. This caused a lot of frustrations for the vault medic.                                               Your chance to become addicted to drugs is 50% of normal, but drugs only affect you half as long as normal.}
-{213}{}{A night owl even as a child, you are more awake and alert when the sun goes down.                                                              +1 Intelligence and +1 Perception between 6:01 PM and 6:00 AM, but you have  -1 Intelligence and -1 Perception between 6:01 AM and 6:00 PM.}
-{214}{}{You've spent more time honing your skills than most, because you were born with less potential than most.                    +10% to all skills and +5 Skill Points per level, but Perks only every 4th level. (Normal is every 3rd)}
-{215}{}{You have more innate abilities and talents than most, so you have not spent as much time honing your skills.                                      +1 to all your primary statistics, but you start with -10% on all skills and receive 5 less Skill Points per level.}
+{200}{}{Ton métabolisme est deux fois plus rapide que la normale. Ta résistance aux radiations et au poison s'en trouve réduite mais tu guéris plus rapidement.  +2 Vit. Guérision, mais Rés. Poison & Rés. Radiation démarrent à 0%}
+{201}{}{Tu es un peu lent mais d'une carrure imposante. Tu ne frappes pas si souvent mais à chaque fois, on le sent passer ! +2 Force, -2 Points d'Action.}
+{202}{}{D'une taille certes plus modeste que les autres habitants de l'Abri, rien ne peut te freiner. +1 Agilité, mais ta Charge max. est réduite de 10 fois ta Force. (-10 pour FOR 1 et jusqu'à -100 pour FOR 10).}
+{203}{}{Les armes maniées d'une seule main, c'est ton rayon. Pour les autres, tu as un léger problème !   +20% Chances de Toucher avec les armes à 1 main (incluant corps à corps et mêlée), mais   -40% avec toutes les armes à 2 mains.}
+{204}{}{Tes attaques sont portées avec finesse. Tu ne causes pas de gros dégâts mais les coups que tu portes sont souvent critiques.   +10% Chances de Critique mais tes attaques font 30% de dégâts en moins.}
+{205}{}{Comme tu ignores les dangers, tu peux agir plus vite en combat. +5 Séquence, mais ta Classe d'Armure est réduite à 0 sans armure.}
+{206}{}{Tes attaques sont brutales mais manquent de finesse.   +4 Dégâts en Mêlée, mais -30% à la Table de critique (les bonus de dégâts et autres effets liés aux critiques sont réduits, mais pas les Chances de critique).}
+{207}{}{Tu dégaines plus vite, mais tu n'as pas le temps de faire des attaques ciblées. Toutes tes attaques (incluant corps à corps et mêlée) coûtent 1 PA de moins mais tu ne peux pas viser les parties du corps.}
+{208}{}{Etrangement, les gens autour de toi meurent de façons très violentes.       Tu n'as jamais vu pareille violence dans l'Abri, ce qui pourra avoir des conséquences imprévues sur tes actions futures.}
+{209}{}{Tes adversaires ont peu de chances de s'en sortir vivants, mais c'est le même tarif pour toi !   Chaque échec au combat a une chance importante d'être "amélioré" en échec "Critique".}
+{210}{}{Tu as beaucoup étudié les bouquins.  +15% en Secourisme, Médecin, Discours et Troc, mais   -10% aux compétences d'Armes Légères, Armes Lourdes, Armes à Energie, Armes de Lancer, Armes de Mêlée et Corps à Corps.}
+{211}{}{On dirait que tu aimais un peu trop tes visites à l'infirmerie de l'Abri.   Tu as deux fois plus de chances de devenir dépendant que la normale, mais tu te remets deux fois plus rapidement des effets secondaires.}
+{212}{}{Au grand désarroi des médecins de l'Abri, tu es résistant aux médicaments et aux drogues.  Tu as deux fois moins de chances de devenir dépendant, mais les stimulants agissent deux fois moins longtemps sur toi.}
+{213}{}{En tant que véritable noctambule, tous tes sens se mettent en éveil à la nuit tombée.   +1 INT et +1 PE entre 18:01 et 6:00, mais -1 en INT et -1 en PE entre 6:01 et 18:00.}
+{214}{}{Tu as moins de potentiel que la moyenne mais tu as beaucoup étudié.  +10% à toutes les compétences et +5 points de compétence par niveau, mais tu gagneras un nouveau Talent tous les 4 niveaux au lieu de 3.}
+{215}{}{Tu as plus de potentiel que la moyenne mais tu as délaissé les études.  Tes statistiques de base sont toutes augmentées d'un point, mais tu perds 10% sur tes compétences et tu recevras 5 points de moins par niveau.}
+

@@ -1,0 +1,101 @@
+{100}{}{Widzisz Setha, przywódcê stra¿y Cienistych Piasków.}
+{101}{}{Ty! Doœæ ju¿ mamy zagro¿enia, jakie stanowisz dla naszej wioski. Zabijê ciê osobiœcie!}
+{102}{}{Tacy, jak ty nigdy nie przynosz¹ niczego dobrego. Zabijê ciê i zmniejszê populacjê potworów zaludniaj¹cych Pustkowia.}
+{103}{}{Inteligencja nie jest twoj¹ najmocniejsz¹ cech¹, co? Uwa¿aj na radskorpiony i nie ³aduj siê w k³opoty.}
+{104}{}{Skorpion!}
+{105}{}{Cz-czeœæ.}
+{106}{}{Wygl¹dasz mi na jednego z bandytów. Uwa¿nie pilnujemy naszej wioski. Czego chcesz?}
+{107}{}{Waszych pieniêdzy!}
+{108}{}{Informacji.}
+{109}{}{Blup?}
+{110}{}{Dzieñ dobry. Nazywam siê Seth. W czym mogê pomóc?}
+{111}{}{Potrzebujê informacji.}
+{112}{}{Wub-wub!}
+{113}{}{Informacji? O czym?}
+{114}{}{W czym mogê pomóc?}
+{115}{}{Chcê siê dowiedzieæ czegoœ o radskorpionach.}
+{116}{}{Chcê siê dowiedzieæ czegoœ o najeŸdŸcach.}
+{117}{}{Chcê siê dowiedzieæ czegoœ o tym miejscu.}
+{118}{}{ZaprowadŸ mnie do jaskiñ radskorpionów.}
+{119}{}{Jaskinia!}
+{120}{}{To wszystko, dziêki.}
+{121}{}{Co chcesz wiedzieæ?}
+{122}{}{Te cholerne radskorpiony poluj¹ na nasze Braminy od kiedy siê tu przenieœliœmy. Nie ma tygodnia, ¿eby kogoœ nie zatru³y, gdy próbuje je wygoniæ z zagród. W zesz³ym tygodniu zabra³y mojego brata, Jarvisa. Razlo, nasz doktor, szuka antidotum. Jeœli mo¿esz nam pomóc, to pomów z naszym wodzem, Aradeshem.}
+{123}{}{Istnieje kilka grup bandytów. Organizujê stra¿ników, takich jak Ian, aby odpieraæ najazdy. Na po³udniowy wschód st¹d mieœci siê siedziba jednej z band. Uwa¿aj na nich.}
+{124}{}{Cieniste Piaski to pokojowa wspólnota. Mamy system nawadniania, wiêc mo¿emy uprawiaæ pola. Gdyby nie bandyci i radskorpiony, nie mielibyœmy ¿adnych k³opotów.}
+{125}{}{Na pewno chcesz, ¿ebym ci wskaza³ jaskinie radskorpionów? Nie mogê ci towarzyszyæ, tylko poka¿ê drogê.}
+{126}{}{Tak.}
+{127}{}{Nie.}
+{128}{}{Dobra, powiedz po prostu, kiedy bêdziesz chcieæ wyruszyæ.}
+{129}{}{[Koniec]}
+{130}{}{Aha.}
+{131}{}{Aha.}
+
+{200}{}{Ca³e miasto jest ci wdziêczne za pozbycie siê radskorpionów. Bardzo dziêkujemy.}
+{201}{}{Dziêki tobie ju¿ nam nie zagra¿aj¹.}
+{202}{}{Na pewno chcesz tam wracaæ? To d³uga podró¿, a zagro¿enie ju¿ minê³o.}
+{203}{}{Dobra. ¯yczê mi³ego pobytu.}
+{204}{}{Witaj w Cienistych Piaskach, przybyszu. Schowaj broñ na czas pobytu.}
+{205}{}{Witaj przybyszu. Witamy w Cienistych Piaskach.}
+{206}{}{Musisz pomówiæ z Aredeshem, naszym przywódc¹. Lubi poznawaæ wszystkich goœci. Powinien przebywaæ w naszym Ratuszu, to ten budynek na po³udnie st¹d.}
+
+{300}{}{Dziêki Dharmie, ¿e tu jesteœ, przybyszu. Moja dziewczyna... eee...Tandi, córka Aradesha, zosta³a porwana. Wydaje nam siê, ¿e przetrzymuj¹ j¹ najeŸdŸcy.}
+{301}{}{Gdzie ich znajdê?}
+{302}{}{Wow. No to macie k³opoty. Do zobaczenia.}
+{303}{}{Przykro mi, ale nie mogê wam pomóc.}
+{304}{}{To straszne, ale najpierw muszê siê zaj¹æ tymi radskorpionami. Stanowi¹ zagro¿enie dla ca³ej osady.}
+{305}{}{Gdzie jest Tandi? Dlaczego nie przysz³a z tob¹?}
+{306}{}{Potrzebujê lepszego sprzêtu, zanim siê porwê na tych goœci.}
+{307}{}{Ta gówniara nie jest warta ryzyka.}
+{308}{}{Pracujê nad tym.}
+{309}{}{Chyba najpierw rozwi¹¿ê wasz problem z radskorpionami.}
+{310}{}{Uwa¿a³em ciê za dobr¹ osobê. Niech tak bêdzie.}
+{311}{}{Znajdziesz ich na po³udniowy wschód st¹d. Pospiesz siê. Nie wiem, co jej mog¹ zrobiæ.}
+{312}{}{Dobrze, przyprowadzê j¹.}
+{313}{}{Mam w³asne problemy.}
+{314}{}{Ile jest dla ciebie warta ta ca³a sprawa?}
+{315}{}{Muszê pomóc moim ziomkom. Przykro mi.}
+{316}{}{Wiedzia³em - jesteœ najemnikiem bez serca. Zap³acimy ci za ratunek, ju¿ siê o to nie bój.}
+{317}{}{Jeœli nie powiesz, ile - nie przyjmê zadania.}
+{318}{}{Dobra, zajmê siê tym.}
+{319}{}{Przykro mi, muszê iœæ.}
+{320}{}{Pod³a ma³pa!}
+{321}{}{Proszê ciê, pospiesz siê. Kto wie, co jej tam teraz robi¹...}
+{322}{}{Wola³bym najpierw zobaczyæ Tandi zdrow¹ i ca³¹, ale jeœli chcesz nam pomóc z tymi radskorpionami, to chyba mogê ci pokazaæ drogê...}
+{323}{}{Dobra, zabierz mnie do jaskini.}
+{324}{}{Zmiana zdania. ¯egnam.}
+{325}{}{Œwietnie. Zaraz wracam - wtedy mi wska¿esz drogê.}
+
+{1000}{}{Chanowie}
+{1001}{}{Garl}
+{1002}{}{Z³omowo}
+{1003}{}{Cieniste}
+{1004}{}{Hub}
+{1005}{}{Woda}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Piaski}
+{1011}{}{Skorpion}
+{1012}{}{Radskorpion}
+{1013}{}{Skorpiony}
+{1014}{}{Radskorpiony}
+
+
+{1100}{}{To banda wyrzutków, udaj¹ca, ¿e jest jak¹œ tam grup¹ z odleg³ej przesz³oœci.}
+{1101}{}{To przywódca Chanów To jeden z najgroŸniejszych ludzi, jacy kiedykolwiek ujrzeli Cieniste Piaski. Rz¹dzi klanem ¿elazn¹ piêœci¹.}
+{1102}{}{Odleg³oœæ wynosi 4 do 6 dni drogi na po³udniowy wschód. Od czasu do czasu dobrze siê nam handluje, ale z regu³y próbuj¹ nas naci¹gn¹æ.}
+{1103}{}{Tu jesteœ.}
+{1104}{}{Znacznie dalej na po³udnie, ni¿ Z³omowo. Hub to najwiêksze miasto, o jakim s³ysza³em. ¯yje tam co najmniej tysi¹c osób.}
+{1105}{}{Przykro mi, ale nie wiem.}
+{1106}{}{To córka Aradesha. Pewnego dnia mo¿e nas poprowadziæ, ale musi siê nauczyæ samokontroli.}
+{1107}{}{To nasz przywódca, prawdziwy bohater. Zawsze pracuje w Ratuszu.}
+{1108}{}{To ja. Wspó³pracujê z Aradeshem - upewniam siê, ¿e wszyscy s¹ bezpieczni.}
+{1109}{}{To nasz doktor. Udaj siê do niego, jeœli masz problemy ze zdrowiem.}
+{1110}{}{Tu jesteœ.}
+{1111}{}{Z³e stworzenia z zabójczym jadem.}
+{1112}{}{Z³e stworzenia z zabójczym jadem.}
+{1113}{}{Z³e stworzenia z zabójczym jadem.}
+{1114}{}{Z³e stworzenia z zabójczym jadem.}
+

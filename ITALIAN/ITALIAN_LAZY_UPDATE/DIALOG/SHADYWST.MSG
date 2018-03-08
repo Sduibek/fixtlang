@@ -1,0 +1,72 @@
+#
+# Shady Sands:
+#
+{100}{}{You earn 400 experience for returning Tandi to Shady Sands.}
+{101}{}{A sud c'e' un muro di mattoni crudi che circonda un villaggio dall'aspetto tranquillo.}
+#
+# Vault 15:
+#
+{102}{}{L'unica costruzione rimasta e' una piccola baracca. Per fortuna, secondo i tuoi dati, qui dovrebbe trovarsi una via secondaria di accesso al Vault 15.}
+#
+# Raiders:
+#
+{103}{}{You see a building to the northwest, with a series of tents nearby. The inhabitants look dirty and mean.}
+#
+# Junktown:
+#
+{104}{}{Hai raggiunto un villaggio di medie dimensioni. Un muro di rottami d'auto impedisce di entrare facilmente. Un sottile velo di nebbia e' steso sulle case.}
+#
+# The Hub:
+#
+{105}{}{A sud si trova una grossa citta' circondata da fattorie. Evidentemente quest'oasi in mezzo al deserto conta un gran numero di abitanti.}
+#
+# Necropolis:
+#
+{106}{}{Sei giunto nei pressi di una citta' oscura e in rovina. In giro si vedono poche persone. Un intenso puzzo di morte appesta la zona.}
+#
+# Brotherhood of Steel:
+#
+{107}{}{A nord si trova un piccolo edificio circondato da un recinto di fil di ferro. L'area e' pattugliata da guardie dall'aspetto minaccioso e dotate di armature pesanti.}
+#
+# The Glow:
+#
+{108}{}{Un enorme cratere si apre a nord.}
+#
+# Military Base:
+#
+{109}{}{A nordest, di fronte ad un complesso fortificato costruito in uno dei fianchi della montagna, si intravedono alcuni mutanti di guardia.}
+#
+# Cathedral:
+#
+{110}{}{Un enorme edificio decorato si erge nel cielo. Di fronte ad esso, una folla di persone cammina senza uno scopo apparente.}
+#
+# Gun Runners/Adytum/Followers/Rippers:
+#
+{111}{}{A nord puoi vedere un magazzino circondato da un fossato pieno di liquido fosforescente.}
+{112}{}{Poco lontano si staglia un'enorme fabbrica fortificata, con i muri ricoperti di graffiti e costellati da minacciose feritoie.}
+{113}{}{I segni dell'attivita' di una banda sono evidenti in questo nightclub parzialmente ricostruito che probabilmente funge da avamposto.}
+{114}{}{Una grande biblioteca, restaurata e fortificata, si erge con il suo aspetto severo ma aggraziato. Una sensazione di pace invade il tuo corpo.}
+{115}{}{A sud sorge sprezzante un villaggio, circondato da una palizzata e pattugliato da guardie.}
+#
+# StealthBoy:
+#
+{116}{}{Un'orma gigante e' impressa nel terreno. Controlli la zona, ma non trovi altre tracce.}
+#
+# ???
+#
+{117}{}{La zona e' ricoperta di cenere e di segni d'incendio.}
+{118}{}{Pare che questa zona sia stata colpita da una bomba incendiaria di immane potenza.}
+{119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
+#
+# WastelandGhost, Restoration Mod
+#
+{150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
+{155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}
+#
+# Sduibek, Fallout Fixt:
+#
+{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
+{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
+{153}{}{You arrive at your destination only to find death and the desert wind.}
+{154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
+#

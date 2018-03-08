@@ -1,0 +1,85 @@
+{100}{}{To Billy.}
+{101}{}{Hej! Zostaw moje rzeczy w spokoju!}
+{102}{}{Siemanko.}
+{103}{}{Czeœæ, co robisz?}
+{104}{}{Mogê dostaæ bramina?}
+{105}{}{Witaj. Ee, ¿egnaj.}
+{106}{}{Arg!}
+{107}{}{Ta.}
+{108}{}{Po co ci bramin? Masz karawanê? Zreszt¹ to nie ma znaczenia, ja tylko siê nimi zajmujê. To Dan jest ich w³aœcicielem, ale i tak ich nie sprzeda.}
+{109}{}{Dlaczego?}
+{110}{}{To by³ tylko ¿art.}
+{111}{}{Z powodu tych wszystkich gin¹cych karawan. Dan nie ma ¿adnych zbêdnych braminów. Karawany wykorzystuj¹ wiêkszoœæ z nich, pozosta³e s¹ sprzedawane na miêso. E, lepiej przestanê gadaæ; Dan siê wœcieknie, jak zobaczy, ¿e rozmawiam z obc¹ osob¹.}
+{112}{}{Aha, OK.}
+{113}{}{Nic... To znaczy, zajmujê siê braminami.}
+{114}{}{Po co ta w³ócznia? Czy one s¹ niebezpieczne? }
+{115}{}{Co to braminy?}
+{116}{}{'What's a brahmin?' You must be joking. Brahmin are one of the major food sources and forms of transportation around here. They haul the caravans. Dan says this is a really important job, but it sucks. Oh, and by the way, it's 'brahma' - brahmin is plural. Dork.}
+{117}{}{Ach, wiem to! }
+{118}{}{Dan ma racjê. Wykonujesz dobr¹ robotê.}
+{119}{}{Ta, na to wygl¹da. Baw siê dobrze.}
+{120}{}{Hej, nale¿ysz do tych ³achów, prawda?}
+{121}{}{Naprawdê? Uwa¿asz tak? Rany, dziêki.}
+{122}{}{Nie jesteœ st¹d, prawda? Dam ci jedn¹ wskazówkê: nie daj siê przy³apaæ na kradzie¿y!}
+{123}{}{Jasne, dziêki.}
+{124}{}{Nawet nie myœlê o kradzie¿y. Kradzie¿ jest z³a.}
+{125}{}{Ta, chyba zaczynam siê z tob¹ zgadzaæ. Ta praca nie jest taka z³a, powa¿nie. Sprawia, ¿e z jakiegoœ powodu czujê siê dobrze. Có¿, muszê iœæ, zanim wpadnê w k³opoty.}
+{126}{}{Proszê, nie krzywdŸ mnie ani moich braminów.}
+{127}{}{Nie rób mi krzywdy!}
+{128}{}{Przestañ!}
+{129}{}{Proszê, zostaw mnie w spokoju.}
+{130}{}{Przera¿asz mnie.}
+{131}{}{Hej, co ty próbujesz zrobiæ? Nie mam nic, czego mo¿esz chcieæ.}
+{132}{}{Przestañ!}
+{133}{}{Niebezpieczne? Nie, naprawdê. Mog¹ rzeczywiœcie paskudnie ugryŸæ, ale s¹ ca³kiem spoko. Du¿o pierdz¹ i bekaj¹. Nie wiem dlaczego.}
+{134}{}{To do czego jest ta w³ócznia?}
+{135}{}{OK, dziêki.}
+{136}{}{O, one potrafi¹ byæ okropnie uparte, kiedy chcê, ¿eby coœ zrobi³y. Po prostu delikatnie szturcham je, ¿eby siê ruszy³y... dodatkowo nie chcê, ¿eby do mnie za blisko podchodzi³y; czasem kopi¹.}
+{137}{}{Proszê, nie odzywaj siê do mnie. Dan znowu na mnie nakrzyczy. On naprawdê siê wkurza - i to cholernie - kiedy nie zwracam uwagi na to, co robiê.}
+{138}{}{On tylko próbuje pomóc. Pracuj ciê¿ko, a na pewno bêdzie milszy.}
+{139}{}{Masz dzieciaku, weŸ 50 kapsli i zabieraj siê od tego palanta. }
+{140}{}{OK.}
+{141}{}{Aaaaaarg!}
+{142}{}{Ru?}
+{143}{}{Proszê, nie, ja ju¿ mam wystarczaj¹co du¿e k³opoty.}
+{144}{}{I AM working hard!}
+{145}{}{Przepraszam, nie to mam na myœli. On tylko próbuje ci pomóc. }
+{146}{}{Nie ³¿yj, ty leniwy gówniarzu!}
+{147}{}{OK.}
+{148}{}{Ta, mo¿e masz racjê... Faktycznie wydaje siê byæ ca³kiem spoko, ale wola³bym, ¿eby tak siê na mnie nie dar³.}
+{149}{}{Ta, akurat.}
+
+# said to male player
+{150}{}{Chrzañ siê, stary pierdzielu!}
+{152}{}{O RANY! Mogê z tego ¿yæ przez resztê ¿ycia! Wielkie dziêki, proszê pana!}
+
+# said to female player
+{151}{}{Chrzañ siê, stara wiedŸmo!}
+{153}{}{O RANY! Mogê z tego ¿yæ przez resztê ¿ycia! Wielkie dziêki, proszê pani!}
+
+{154}{}{O RANY! Dziêki... Eee?... Ty tylko próbujesz znowu wpakowaæ mnie w k³opoty!}
+{155}{}{Proszê ze mn¹ nie rozmawiaæ, Dan jest naprawdê wœciek³y.}
+{156}{}{Nie martw siê. Porozmawia³ ze mn¹ i postara siê byæ dla ciebie milszy.}
+{157}{}{I powinien! Jesteœ okropnym dzieciakiem!}
+{158}{}{Wak.}
+{159}{}{Czeœæ!}
+{160}{}{Te dziewczyny tam, s¹ naprawdê durne.}
+{161}{}{Czeœæ ponownie.}
+{162}{}{Braminy s¹ spoko.}
+{163}{}{Dan zabiera mnie do Soko³a, jak dobrze pracujê.}
+{164}{}{Dan zabierze mnie kiedyœ na karawanê!}
+{165}{}{Zostanê poszukiwaczem przygód, jak dorosnê.}
+{166}{}{Powaga? O, OK. Mam nadziejê, ¿e nie sta³a mu siê krzywda. On tak naprawdê nie jest taki z³y. On tylko du¿o wrzeszczy.}
+{167}{}{Witaj ponownie.}
+{168}{}{To czym ty siê zajmujesz? }
+{169}{}{Czy mogê dostaæ bramina?}
+{170}{}{Tylko przystajê, ¿eby zobaczyæ, jak siê sprawy uk³adaj¹. Czeœæ.}
+{171}{}{Arg!}
+{172}{}{Da.}
+{173}{}{Lepiej wrócê do roboty.}
+{174}{}{Te dziewczyny tam, s¹ naprawdê durne.}
+{175}{}{Czeœæ ponownie.}
+{176}{}{Zostanê poszukiwaczem przygód, jak dorosnê.}
+{177}{}{Braminy faktycznie du¿o sra... ee, za³atwiaj¹ siê.}
+{178}{}{Nie mogê teraz rozmawiaæ.}
+{179}{}{Nie chcê wpaœæ w k³opoty.}

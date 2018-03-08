@@ -1,0 +1,156 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#	 Messages from stat.c
+#
+#
+#	 STAT NAMES
+#
+{100}{}{力量}
+{101}{}{感知力}
+{102}{}{体力}
+{103}{}{魅力}
+{104}{}{智力}
+{105}{}{灵活度}
+{106}{}{运气}
+{107}{}{最高生命值}
+{108}{}{最高动作值}
+{109}{}{防御力}
+{110}{}{空手伤害力}
+{111}{}{武器伤害力}
+{112}{}{目前负荷重量}
+{113}{}{战斗顺序}
+{114}{}{恢复速度}
+{115}{}{特别攻击机率}
+{116}{}{特别机率}
+{117}{}{伤害极限}
+{118}{}{雷射伤害极限}
+{119}{}{火焰伤害极限}
+{120}{}{电浆伤害极限}
+{121}{}{电力伤害极限}
+{122}{}{灵力伤害极限}
+{123}{}{爆炸伤害极限}
+{124}{}{伤害防御}
+{125}{}{雷射伤害防御}
+{126}{}{火焰伤害防御}
+{127}{}{电浆伤害防御}
+{128}{}{电力伤害防御}
+{129}{}{灵力伤害防御}
+{130}{}{爆炸伤害防御}
+{131}{}{放射线防御度}
+{132}{}{毒药防御度}
+{133}{}{年龄}
+{134}{}{性别}
+{135}{}{目前生命力}
+{136}{}{目前中毒度}
+{137}{}{目前放射线含量}
+#
+#	 STAT DESCRIPTIONS
+#
+# @ Basic stats @
+#
+# Strength
+{200}{}{Raw physical strength. A high Strength is good for combat-based characters and packrats. Modifies: Hit Points, Melee Damage, and Carry Weight.}
+# Perception
+{201}{}{视觉、听觉、味觉、以及能够发现不寻常情况的能力。高度的敏感度对于狙击手相当的有帮助。影响项目：战斗顺序以及远距离的战斗。}
+# Endurance
+{202}{}{忍耐力以及体能上的忍受能力。拥有高度体力的人将可以在战斗中存活的较久。影响项目：生命力、毒以及放射线的防御能力、恢复速度、以及升级时所增加的生命值。}
+# Charisma
+{203}{}{外表吸引他人的能力。拥有高度的魅力比较能够轻易的说服他人。影响项目：非玩家人物的反应、以及杀价的能力。}
+# Intelligence
+{204}{}{知识、智慧、以及反应力。无论是怎的角色，智力都是相当重要的一个项目。影响项目：每一个等级所得到的新技巧、更多的谈话选项、以及许多的技术。}
+# Agility
+{205}{}{是否能够灵活移动的能力。在战斗上，拥有高度的灵活度尤其重要。影响项目：动作值、防御能力、战斗顺序、以及许多其它的技术。}
+# Luck
+{206}{}{命运、灵力等。运气与一切的行动都有密不可分的关系。许多在游戏中的事件都会因玩家的运气值而有所不同。}
+#
+# Derived/Non Derived stats
+#
+# Maximum Hit Points
+{207}{}{在死亡之前可以承受的损伤。如果HP变成了0或是更低的数目，就代表死亡。}
+# Maximum Action Points
+{208}{}{Represents the number of actions that your character can take during one combat turn. Different types of actions require different amounts of Action Points to perform.}
+# Armor Class
+{209}{}{Modifies the chance to successfully hit your character during ranged or melee combat. Higher is better.}
+# Unarmed Damage
+{210}{}{在空手战斗时你的人物可以给予敌人的额外损伤。}
+{211}{}{在空手战斗时你的人物可以给予敌人的额外损伤。}
+# Carry Weight
+{212}{}{你的人物可以负荷的最高物品总重量，单位以磅计算。}
+# Sequence
+{213}{}{Determines how soon in combat your character can take their turn. Higher is better. With a high enough Sequence, you can effectively "ambush" your opponents, getting two turns in a row.}
+# Healing Rate
+{214}{}{When you rest, you heal this amount of hit points every four hours.}
+# Critical Chance
+{215}{}{The chance to cause a critical hit in combat is equal to this amount. Critical hits always cause more damage, and can also blind, cripple, knock out or instantly kill an opponent. Ouch.}
+{216}{}{特别机率}
+{217}{}{伤害极限}
+{218}{}{雷射伤害极限}
+{219}{}{火焰伤害极限}
+{220}{}{电浆伤害极限}
+{221}{}{电力伤害极限}
+{222}{}{灵力伤害极限}
+{223}{}{爆炸伤害极限}
+# Damage Resistance
+{224}{}{在遭到攻击时，敌人的伤害点数减掉这个点数就是玩家所受到的实际伤害。穿上护具可以增加这一项点数。}
+{225}{}{雷射伤害防御}
+{226}{}{火焰伤害防御}
+{227}{}{电浆伤害防御}
+{228}{}{电力伤害防御}
+{229}{}{灵力伤害防御}
+{230}{}{爆炸伤害防御}
+# Radiation Resistance
+{231}{}{When exposed to radiation, the amount you absorb is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
+# Poison Resistance
+{232}{}{Reduces the poison damage you receive by this percentage.}
+{233}{}{年龄}
+{234}{}{性别}
+{235}{}{目前生命力}
+{236}{}{目前中毒度}
+{237}{}{目前放射线含量}
+#
+# STAT LEVEL DESCRIPTIONS
+#
+{301}{}{非常糟}
+{302}{}{糟糕}
+{303}{}{贫弱}
+{304}{}{尚可}
+{305}{}{平均}
+{306}{}{好}
+{307}{}{非常好}         # Abbreviated for character editor
+{308}{}{棒极了}
+{309}{}{完美}
+{310}{}{超强}
+#
+#	 PC STAT NAMES
+#
+{400}{}{还未使用的点数}
+{401}{}{等级}
+{402}{}{经验}
+{403}{}{名誉}
+{404}{}{道德}
+#
+#	 PC STAT DESCRIPTIONS
+#
+# Unspent Skill Points
+{500}{}{升级后所得到的点数。每一点可以用来增加1%的技术点数，若是专长技术则会增加2%。}
+
+# Level
+{501}{}{代表人物目前的各项能力的等级。}
+
+# Experience
+{502}{}{每升一个等级都要一定的经验点数。在游戏中只要完成战斗、或者是完成一个任务之后就会得到许多的经验点数。}
+
+# Reputation
+{503}{}{在游戏中其他的人物对你的看法或是印象，随著数值的高低，游戏中的角色对你的反应也会不同。}
+
+# Karma
+{504}{}{玩家处事的态度会影响这项数值。游戏中的人物会随著这项数值的不同对你有不同的反应。}
+
+#
+#  Experience-gain messages
+#
+{600}{}{You have gained a level!}
+

@@ -1,0 +1,276 @@
+#
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+#
+#
+{100}{}{OK}
+{101}{}{OPCIÓK}
+{102}{}{MÉGSE}
+{103}{}{MENTÉS}
+{104}{}{KOR}
+{105}{}{NEM}
+{106}{}{NÉV}
+{107}{}{FÉRFI}
+{108}{}{NÕ}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
+{112}{}{KÉPZ. PONTOK}
+{113}{}{Szint:}
+{114}{}{Experience:}
+{115}{}{Köv. szint:}
+{116}{}{KAR.PONTOK}
+{117}{}{KÉPZETTSÉGEK}
+{118}{}{Mielõtt elkezdenéd a játékot,} # 1
+{119}{}{az összes karakter pontot használd fel!}         # 2
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{120}{}{Karakterpontok}
+{121}{}{Amount of free points that can be added to your primary statistics.}
+{122}{}{Következõ szint}
+{123}{}{This is how many experience points are needed to move up to the next level.}
+{124}{}{Képességek}
+{125}{}{Karma}
+{126}{}{Hullák}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
+{128}{}{A játékban hozott döntéseid eredménye.}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
+{130}{}{Képzettség pontok}
+{131}{}{Ezekkel a pontokkal növelheted a képzettségeidet. Ahogy egyre ügyesebb leszel valamiben, annál több pont kell a növelésére. Egy képzettség elsajá- títása sok idõbe és erõfeszítésbe telik.}
+#
+{132}{}{Elérte a maximum értéket.}        # 1
+{133}{}{Nem tudod növelni.}  # 2
+{134}{}{Minimum értéken van.}        # 1
+{135}{}{Nem tudod csökkenteni.}  # 2
+{136}{}{Nincs elég képzettség pontod.}
+{137}{}{Alap:}
+{138}{}{SPEC KÉPZ.}
+{139}{}{VÁLASZTHATÓ JELLEMVONÁSOK}
+{140}{}{Már megvan a maximum} # 1
+{141}{}{három spec képzettséged!}               # 2
+{142}{}{Mielõtt elkezdenéd a játékot,}  # 1
+{143}{}{válassz három spec. képzettséget!}       # 2
+{144}{}{Speciális képzettségek}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
+{146}{}{Választható jellemvonások}
+{147}{}{A jellemvonások részletezik a karaktered egyéniségét. Mindegyiknek van pozitív és negatív hatása. Legfeljebb kettõt választhatsz.}
+{148}{}{Már megvan a két választható} # 1
+{149}{}{jellemvonásod!}                     # 2
+{150}{}{Képzettségek}
+{151}{}{A képzettségek elsajátított tudást jelölnek. Tapasztalattal, vagy játék közbeni különleges események során nõnek. Minél nagyobb az érték, annál jártasabb vagy az adott képzettségben.}
+#
+{152}{}{Válassz egy képességet}
+{153}{}{Válassz egy új jellemvonást}
+{154}{}{Jellemvonás elvesztése}
+{155}{}{Válassz egy új spec képzettséget}
+{156}{}{Jellemvonás}
+#
+{157}{}{Minden tulajdonságnak 1 és 10 között kell lennie,} # 1
+{158}{}{mielõtt elkezded a játékot!}          # 2
+#
+#
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Pocsék}  # Very Bad
+{201}{}{Rossz}    # Bad
+{202}{}{Gyenge}   # Poor
+{203}{}{Elmegy}   # Fair
+{204}{}{Átlag}   # Average
+{205}{}{Jó}   # Good
+{206}{}{Nyerõ} # Very Good
+{207}{}{Kiváló}  # Great
+{208}{}{Tuti} # Excellent
+{209}{}{Hõsies} # Heroic
+#
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{Életpont}
+{301}{}{Akciópont}
+{302}{}{Védelmi érték}
+{303}{}{} # 303 is blank on purpose, leave blank
+{304}{}{Pusztak. sebz.}
+{305}{}{Sebzésell.}
+{306}{}{Méregellenállás}
+{307}{}{Sugárzás-ell.}
+{308}{}{Reakció}
+{309}{}{Regenerálódás}
+{310}{}{Kritikus esélye}
+{311}{}{Teherbírás}
+{312}{}{Mérgezés}
+{313}{}{Irradiated}
+{314}{}{Szemsérülés}
+{315}{}{Törött jobb kar}
+{316}{}{Törött bal kar}
+{317}{}{Törött jobb láb}
+{318}{}{Törött bal láb}
+#
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
+# Radiation
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+# Eye Damage
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+# Crippled right arm
+{403}{}{Megsérült a jobb karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkettõ megsérült, nem tudsz fegyvert használni.}
+# Crippled left arm
+{404}{}{Megsérült a bal karod és nem tudod rendesen használni. Ha megsérült az egyik karod, nem tudsz kétkezes fegyvereket használni. Ha mindkettõ megsérült, egyáltalán nem tudsz fegyvert használni.}
+# Crippled right leg
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+# Crippled left leg
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
+# Month strings
+{500}{}{Január}
+{501}{}{Február}
+{502}{}{Március}
+{503}{}{Április}
+{504}{}{Május}
+{505}{}{Június}
+{506}{}{Július}
+{507}{}{Augusztus}
+{508}{}{Szeptember}
+{509}{}{Október}
+{510}{}{November}
+{511}{}{December}
+#
+#
+# Option menu text
+#
+{600}{}{MENTÉS}
+{601}{}{TÖLTÉS}
+{602}{}{MENTÉS TXT-BE}
+{603}{}{TÖRLÉS}
+{604}{}{KÉSZ}
+{605}{}{Biztos, hogy törölni akarod}      # line 1
+{606}{}{ezt a karaktert?}                 # line 2
+{607}{}{ sikeresen elmentve.}
+{608}{}{ sikeresen betöltve.}
+{609}{}{már létezik.}
+{610}{}{Biztos, hogy felülírod?}
+{611}{}{Hiba a mentésben }
+{612}{}{Hiba a töltésben }
+{613}{}{Karakter fájl érvénytelen.}
+{614}{}{Karakter adat érvénytelen.}
+{615}{}{Hiba a fájl lista olvasásában!}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
+{618}{}{BLANK.GCD}
+#
+#
+# ASCII text file printing text
+#
+{620}{}{FALLOUT}                   # Title line 1
+{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
+{622}{}{hours} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: Statisztika :::}
+{624}{}{    Erõ:}
+{625}{}{    Életpontok:}
+{626}{}{     Reakció:}
+# -
+{627}{}{   Érzékelés:}
+{628}{}{    Védelmi érték:}
+{629}{}{    Regenerálódás:}
+# -
+{630}{}{   Kitartás:}
+{631}{}{   Akciópontok:}
+{632}{}{   Kritikus esélye:}
+# -
+{633}{}{    Karizma:}
+{634}{}{   Pusztakezes sebzés:}
+{635}{}{     Teherbírás:}
+# -
+{636}{}{  Intelligencia:}
+{637}{}{    Sebzésellenállás:}
+# -
+{638}{}{    Ügyesség:}
+{639}{}{  Sugárzás-ellenállás:}
+# -
+{640}{}{      Szerencse:}
+{641}{}{    Méregellenállás:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Name:}
+{643}{}{Age:}
+{644}{}{               Gender:}
+{645}{}{Male}
+{646}{}{Female}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{ Level:}
+{648}{}{                Exp:}
+{649}{}{Next Level:}
+#-
+{650}{}{ ::: Jellemvonások :::           ::: Képességek :::           ::: Karma :::}
+#-
+{651}{}{ ::: Képzettségek :::                ::: Hullák :::}
+#-
+{652}{}{ ::: Tárgylista :::}
+#-
+{653}{}{                                      Össz tömeg:}
+#
+#
+# Karma name strings
+#
+{1000}{}{Hírnév (Általános) }
+{1001}{}{Berzerker}
+{1002}{}{Bajnok}
+{1003}{}{Child-Killer}
+#
+{1004}{}{Nuka-Cola Addiction}
+{1005}{}{Buffout függõség}
+{1006}{}{Mentát függõség}
+{1007}{}{Pszicho függõség}
+{1008}{}{RadAway függõség}
+{1009}{}{Alkohol függõség}
+#
+# Karma description strings
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
+{1103}{}{Gyerekeket öltél meg, a Pusztaság fiatalságát. Ez bizony nagyon rossz dolog. Te nagyon, nagyon rossz ember vagy.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{Függõ vagy. Ha nem szeded a Pszichót, szenvedni fogsz. Ha szeded, mások fognak szenvedni.}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
+{1109}{}{Problémád van az alkohollal. Pontosabban az ivással.}
+{1110}{}{TEMPORARY - What is this?}
+#
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
+#
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}   # 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}
+#

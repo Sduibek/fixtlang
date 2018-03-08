@@ -1,0 +1,75 @@
+{100}{}{Vedi un Regolatore, una delle guardie di Adytum.}
+{101}{}{}
+{102}{}{Mentre ti trovi qui, vedi di tenere le armi al loro posto.}
+{103}{}{Benvenuto ad Adytum, straniero. Comportati bene: ti teniamo d'occhio.}
+{104}{}{Vorrei entrare.}
+{105}{}{Posso farti un paio di domande?}
+{106}{}{Uhhh... }
+{107}{}{Entra... Zimmerman potrebbe aver qualcosa da farti fare... ma ricorda: ti teniamo d'occhio.}
+{108}{}{Bentornato! Qui sarai sempre il benvenuto.}
+{109}{}{Non hai un lavoro da fare? Ritorna solo quando l'avrai portato a termine.}
+{110}{}{Vattene!}
+{111}{}{E adesso che vuoi?}
+{112}{}{Vorrei entrare.}
+{113}{}{}
+{114}{}{Niente. Lasciamo perdere.}
+{115}{}{}
+{116}{}{No.}
+{117}{}{Che cosa vuoi sapere?}
+{118}{}{Chi sei?}
+{119}{}{Puoi parlarmi un po' del Boneyard?}
+{120}{}{Come mai tutta questa diffidenza?}
+{121}{}{Che cosa sai a proposito dei Figli della Cattedrale e dei Discepoli dell'Apocalisse?}
+{122}{}{Niente, grazie.}
+{123}{}{Sono un Regolatore. Il nostro compito e' quello di mantenere la pace ad Adytum e di difendere la citta'. Caleb, il nostro capo, sapra' dirti di piu'.}
+{124}{}{Ad ovest di qui troverai i Discepoli. Sono un gruppo di idioti pacifisti. Ad ovest troverai anche i Blade, una manica di sfigati, se proprio devo dirtelo. Molto a sud troverai la Cattedrale, il centro religioso dei Figli della Cattedrale.}
+{125}{}{Qui ci andiamo molto cauti con gli stranieri. Troppo pericoloso. Comunque, se credi di poterti rendere utile, prova a parlare con Zimmerman: potrebbe avere qualche lavoro da darti.}
+{126}{}{Finisci il tuo lavoro e poi *forse* ci fideremo di te.}
+{127}{}{Non temere: qui sarai sempre il benvenuto!}
+{128}{}{Sono entrambi dei gruppi di pazzi. I Discepoli vorrebbero che tutti vivessero felici e in pace. Non si rendono conto che il mondo e' troppo ostile perche' possa avvenire una cosa simile.}
+# "on the level" means legit, following all the rules, being legal/ethical/transparent
+{129}{}{I Figli hanno una specie di divinita' che venerano nella loro Cattedrale, a sud. Hanno un ospedale, ma sono un po' troppo strambi per essere normali.}
+{130}{}{Ti era stato detto di tenere le armi al loro posto!}
+{131}{}{Finche' ti trovi qui, faresti meglio a tenere le armi nel fodero.}
+{132}{}{Un ladro, eh? Ti mostro io quello che facciamo ai tipi come te!}
+{133}{}{[Fatto]}
+
+{134}{}{Comportati bene.}
+{135}{}{Ti teniamo d'occhio.}
+{136}{}{Non sgarrare.}
+{137}{}{Che cazzo c'hai da guardare?}
+{138}{}{Che cazzo vuoi?}
+
+{139}{}{Temo che questo significhi una cosa sola: e' finita, vecchio.}
+
+{1000}{}{Adytum}
+{1001}{}{Discepoli}
+{1002}{}{Cattedrale}
+{1004}{}{Blade}
+{1005}{}{GunRunner}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Chip}
+{1009}{}{Negozio}
+{1010}{}{Zimmerman}
+{1011}{}{Necropolis}
+{1012}{}{Glow}
+{1013}{}{Regolatori}
+{1014}{}{Scav}
+{1015}{}{Boneyard}
+
+{1100}{}{E' questa qui.}
+{1101}{}{Vivono ad ovest di qui.}
+{1102}{}{Sta molto a sud di qui.}
+{1104}{}{Stanno a nord di qui.}
+{1105}{}{Vivono ad est dei Blade e poi a nord dei Deathclaw.}
+{1106}{}{Commerciamo spesso con loro.}
+{1107}{}{Non e' mica quella citta' a nord di qui?}
+{1108}{}{Un che?}
+{1109}{}{Il negozio di Tine si trova sottoterra, vicino ai cancelli.}
+{1110}{}{E' il sindaco.}
+{1111}{}{Ho sentito che e' molto ad est di qui.}
+{1112}{}{E' solo una leggenda.}
+{1113}{}{Noi proteggiamo Adytum.}
+{1114}{}{Vanno in giro in cerca di robe.}
+{1115}{}{This is L.A. Boneyard.}

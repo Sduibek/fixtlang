@@ -126,14 +126,16 @@
 {412}{}{[Elle sourit et t'emmène dans sa chambre]}
 
 {400}{TAND_3}{Bien sûr, d'accord. J'suis jamais sortie d'ici, donc je n'sais pas en quoi j'peux t'aider. De quoi t'as besoin ?}
-# no {401}{TAND_29}{[Assez fort pour qu'Aradesh puisse l'entendre] Bon allez, j'dois m'occuper des brahmines. C'était sympa d'te parler. [Elle se tourne vers toi et te fais signe de la suivre...]}
+# 401 is not currently used.
+{401}{TAND_29}{[Assez fort pour qu'Aradesh puisse l'entendre] Bon allez, j'dois m'occuper des brahmines. C'était sympa d'te parler. [Elle se tourne vers toi et te fais signe de la suivre...]}
 
 {402}{TAND_28}{Bien, merci pour ce... "partage". [elle sourit et te fait un clin d'oeil] On n'a pas beaucoup d'étrangers ici, alors c'est toujours agréable de "partager" avec de nouvelles personnes. Bon, à plus !}
+# 402 is not currently used.
 # probably not {403}{TAND_35}{Heu... merci. A plus tard. [elle à l'air épuisée]}
 
 {404}{}{C'est quelque chose que je n'veux pas que les autres entendent. Allons dans un endroit plus discret, et j'te dirais...}
 {405}{}{Tu as l'air plutôt... inexpérimenté. J'aimerais t'enseigner tout c'que j'connais. On devrait s'y mettre tout de suite, il y a beaucoup à faire. [clin d'oeil]}
-{406}{}{[sigh]Plus que tu peux fournir, mais je m'en contenterai.}
+{406}{}{*Soupir* Plus que tu peux fournir, mais je m'en contenterai.}
 
 {410}{TAND_14}{Enfin quelqu'un d'lucide ! Bien sûr, t'as sans doute voyagé, alors pour toi ici, ça doit être un vrai trou ! [Elle hausse les épaules et te mène dans sa chambre]}
 

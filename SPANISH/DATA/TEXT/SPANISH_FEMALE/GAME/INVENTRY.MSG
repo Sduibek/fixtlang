@@ -29,10 +29,10 @@
 # TRANSLATION NOTE line 15: Damage of equipped weapon.
 {15}{}{Dñ:}
 
-# TRANSLATION NOTE line 16: Range in hexes of equipped weapon. 
+# TRANSLATION NOTE line 16: Range in hexes of equipped weapon.
 {16}{}{Alc:}
 
-# TRANSLATION NOTE line 17: Original was "Ammo: " but the names and amounts of ammunitions fits better on the screen with that text removed. It's not needed. Please leave blank. --Sduibek 
+# TRANSLATION NOTE line 17: Original was "Ammo: " but the names and amounts of ammunitions fits better on the screen with that text removed. It's not needed. Please leave blank. --Sduibek
 {17}{}{} # leave blank
 
 # TRANSLATION NOTE line 18: Referring to an armor item in a hand slot.

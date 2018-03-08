@@ -1,0 +1,423 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{100}{}{Vault-dweller}
+{200}{}{Mieszczanin}
+{201}{}{Jest to mê¿czyzna odziany w skórzany strój ochronny}
+{300}{}{Mieszczanin}
+{301}{}{Jest to mê¿czyzna odziany w ciê¿ki, stalowy pancerz.}
+{400}{}{Frajer}
+{401}{}{Ju¿ na pierwszy rzut oka widaæ, ¿e jest to kompletna ¿yciowa pora¿ka.}
+{500}{}{Rolnik}
+{600}{}{Vault-dweller}
+{700}{}{pancerz wspomagany}
+{800}{}{The Overseer}
+{900}{}{Supermutant}
+{1000}{}{Wiêkszy Kretoszczur}
+{1100}{}{Radskorpion}
+{1101}{}{A giant mutated scorpion, scourge to animals and humans alike.}
+{1200}{}{Osoba w habicie}
+{1300}{}{Kupiec}
+{1400}{}{Stra¿nik Zombi}
+{1401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{1500}{}{Kobieta w pancerzu bojowym}
+{1600}{}{Œwiec¹cy}
+{1601}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{1700}{}{Mê¿czyzna w skórzanej kurtce}
+{1800}{}{Rolnik}
+{1900}{}{Kobieta w skórzanej kurtce}
+{2000}{}{Rolnik}
+{2100}{}{Mê¿czyzna w pancerzu bojowym}
+{2200}{}{Mieszczka}
+{2201}{}{Jest to kobieta odziana w atrakcyjny, stalowy pancerz.}
+{2300}{}{Supermutant porucznik}
+{2400}{}{Nightkin}
+{2500}{}{Townswoman}
+{2501}{}{Human female wearing protective leather armor.}
+{2600}{}{Vault-dweller}
+{2700}{}{Stra¿nik}
+{2800}{}{Bramin}
+{2900}{}{Rolnik}
+{3000}{}{Rolnik}
+{3100}{}{Mê¿czyzna w skórzanym pancerzu}
+{3200}{}{Rolnik}
+{3300}{}{Mieszkaniec}
+{3400}{}{Vault-dweller}
+{3500}{}{Vault-dweller}
+{3600}{}{Pies}
+{3601}{}{Jest to canis canis, prawdopodobnie mieszaniec.}
+{3700}{}{Kobieta}
+{3800}{}{Mê¿czyzna}
+{3900}{}{Rolnik}
+{4000}{}{Rolnik}
+{4100}{}{Person encased in odd armor}
+{4200}{}{Ch³opiec}
+{4300}{}{Mniejszy Centaur}
+{4400}{}{Pan Z³ota R¹czka}
+{4500}{}{Wisielec}
+{4600}{}{Skryba}
+{4700}{}{The Overseer}
+{4800}{}{Szczur Jaskiniowy}
+{4900}{}{Gizmo}
+{5000}{}{The Master}
+{5100}{}{Szpon Œmierci}
+{5101}{}{Many myths and rumors exist about these creatures, but their true origin remains unknown. Big, tough, fast.}
+{5200}{}{Technik}
+{5300}{}{Technik}
+{5400}{}{Technik}
+{5500}{}{Stra¿nik}
+{5600}{}{Stra¿nik}
+{5700}{}{Stra¿nik}
+{5800}{}{Technik}
+{5900}{}{Mieszkaniec}
+{6000}{}{W³óczêga}
+{6100}{}{Robotnik}
+{6200}{}{Uczeñ Katedry}
+{6300}{}{Tandi}
+{6400}{}{Aradesh}
+{6500}{}{Seth}
+{6600}{}{Kupiec}
+{6700}{}{Stra¿nik}
+{6800}{}{Modliszka}
+{6900}{}{Robomózg}
+{7000}{}{NajeŸdŸca}
+{7100}{}{Mieszkaniec}
+{7200}{}{Mieszkaniec}
+{7300}{}{Doradca Garla}
+{7400}{}{Mieszkaniec}
+{7500}{}{NajeŸdŸca}
+{7600}{}{Ian}
+{7700}{}{Floating Eye, Mk II}
+{7800}{}{Œwinioszczur}
+{7900}{}{Killian Darkwater}
+{8000}{}{Lars}
+{8100}{}{Izo}
+{8200}{}{Podró¿nik}
+{8300}{}{Mieszkaniec}
+{8400}{}{Mieszkaniec}
+{8500}{}{Podró¿nik}
+{8600}{}{Rolnik}
+{8700}{}{Mieszkaniec}
+{8800}{}{Kupiec}
+{8900}{}{Wêdrowiec}
+{9000}{}{Stra¿nik}
+{9100}{}{Farmer}
+{9200}{}{Kupiec}
+{9300}{}{Rolnik}
+{9400}{}{Neal}
+{9500}{}{Rolnik}
+{9600}{}{Robotnik}
+{9700}{}{Kupiec}
+{9800}{}{Rolnik}
+{9900}{}{Zbir}
+{10000}{}{Wêdrowiec}
+{10100}{}{Dzieciê Katedry}
+{10200}{}{Vinnie}
+{10300}{}{Podró¿nik}
+{10400}{}{Set}
+{10500}{}{Garret}
+{10600}{}{Zombie}
+{10601}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{10700}{}{Mroczny}
+{10800}{}{Twardy Supermutant}
+{10900}{}{Ghul}
+{10901}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{11000}{}{Ghul z podziemia}
+{11100}{}{Dan}
+{11200}{}{Szeryf Greene}
+{11300}{}{Zastêpca Fry}
+{11400}{}{Kane}
+{11500}{}{Demetre}
+{11600}{}{Keri}
+{11700}{}{Rutger}
+{11800}{}{Daren Wie¿owiec}
+{11900}{}{Martha}
+{12000}{}{Lorenzo}
+{12100}{}{Jacob}
+{12200}{}{Och³ap}
+{12300}{}{Jasmine}
+{12400}{}{Troy}
+{12500}{}{Darrell}
+{12600}{}{Talus}
+{12700}{}{Thomas}
+{12800}{}{Mathia}
+{12900}{}{Brzytwa}
+{13000}{}{Pl¹tacz}
+{13100}{}{Talius}
+{13200}{}{Gabriel}
+{13300}{}{Avellone}
+{13400}{}{VanHagan}
+{13500}{}{Fala}
+{13600}{}{Biczownik}
+{13700}{}{Barracus}
+{13800}{}{Jeremiasz}
+{13900}{}{Supermutant Sanitariusz}
+{14000}{}{Gideon}
+{14001}{}{Jego d³onie jarz¹ siê dziwn¹ energi¹.}
+{14100}{}{Dominic}
+{14101}{}{Dziwna energia p³onie w jego oczach.}
+{14200}{}{Lucy}
+{14201}{}{Jej g³owa jarzy siê dziwn¹ energi¹.}
+{14300}{}{Zêbol}
+{14301}{}{Niewielkie iskierki energii wêdruj¹ po jego ciele.}
+{14400}{}{Z³oœliwiec}
+{14500}{}{Supermutant porucznik}
+{14600}{}{Laura}
+{14700}{}{Morfeusz}
+{14800}{}{Nicole}
+{14900}{}{Vree}
+{15000}{}{Maxson}
+{15100}{}{Rhombus}
+{15200}{}{Cabbot}
+{15300}{}{Kafar}
+{15400}{}{Butch}
+{15500}{}{Loxley}
+{15600}{}{Jain}
+{15700}{}{Harold}
+{15800}{}{Harry}
+{15900}{}{Twardy Szczur}
+{16000}{}{Irradiated Rat}
+{16100}{}{Tough Irradiated Rat}
+{16200}{}{Mniejszy Kretoszczur}
+{16300}{}{Kojot}
+{16400}{}{Du¿y Bramin}
+{16500}{}{Pomiot Szpona Œmierci}
+{16501}{}{A smaller and younger version of its terrifying counterpart, but no less dangerous.}
+{16600}{}{Wredny Radskorpion}
+{16700}{}{Wredny Wisielec}
+{16800}{}{Wiêkszy Centaur}
+{16900}{}{Ubogi Rolnik}
+{17000}{}{Rolnik}
+{17100}{}{Farmer}
+{17200}{}{Robotnik}
+{17300}{}{Farmer}
+{17400}{}{Kupiec}
+{17500}{}{Stra¿nik}
+{17600}{}{Wielka Modliszka}
+{17700}{}{Wredny Œwinioszczur}
+{17800}{}{Farmer}
+{17900}{}{Robotnik}
+{18000}{}{Kupiec}
+{18100}{}{Stra¿nik}
+{18200}{}{Œwiec¹cy}
+{18201}{}{This humanoid is highly irradiated. While it was once human, it has reverted to a more animalistic lifestyle.}
+{18300}{}{Szalony Œwiec¹cy}
+{18301}{}{This irradiated ghoul has maintained enough brain matter and motor function to be able to speak clearly.}
+{18400}{}{Zombi}
+{18401}{}{It was human once, or descended from humans. The tissue deterioration is likely due to acid or radiation.}
+{18500}{}{Stra¿nik}
+{18600}{}{Supermutant stra¿nik}
+{18700}{}{Wredny Supermutant}
+{18800}{}{Szalony Supermutant}
+{18900}{}{Morderczy Supermutant}
+{19000}{}{Twardy Mroczny}
+{19100}{}{Morderczy Mroczny}
+{19200}{}{Supermroczny}
+{19300}{}{Mroczny Mistrz}
+{19400}{}{Stra¿nik}
+{19500}{}{Kupiec}
+{19600}{}{Stra¿nik}
+{19700}{}{Stra¿nik}
+{19800}{}{Stra¿nik}
+{19900}{}{Dziewczynka}
+{20000}{}{Skryba}
+{20100}{}{Stra¿nik}
+{20200}{}{Wêdrowiec}
+{20300}{}{Zbir}
+{20400}{}{Najemnik}
+{20500}{}{Stra¿nik}
+{20600}{}{Vault-dweller}
+{20700}{}{Garl}
+{20800}{}{Dr Kostucha}
+{20900}{}{Gretch}
+{21000}{}{Tycho}
+{21100}{}{Jonathan}
+{21200}{}{Jacob}
+{21300}{}{Mary}
+{21400}{}{Rachael}
+{21500}{}{Caleb}
+{21600}{}{Podró¿nik}
+{21700}{}{Wêdrowiec}
+{21800}{}{Zbir}
+{21900}{}{Najemnik}
+{22000}{}{Stra¿nik}
+{22100}{}{Mieszkaniec}
+{22200}{}{Wêdrowiec}
+{22300}{}{Zbir}
+{22400}{}{Najemnik}
+{22500}{}{Stra¿nik}
+{22600}{}{Mieszkaniec}
+{22700}{}{Podró¿nik}
+{22800}{}{Wêdrowiec}
+{22900}{}{Zbir}
+{23000}{}{Najemnik}
+{23100}{}{Stra¿nik}
+{23200}{}{Mieszkaniec}
+{23300}{}{Podró¿nik}
+{23400}{}{Najemnik}
+{23500}{}{Stra¿nik}
+{23600}{}{Podró¿nik}
+{23700}{}{Wêdrowiec}
+{23800}{}{Zbir}
+{23900}{}{Najemnik}
+{24000}{}{Stra¿nik}
+{24100}{}{Zbir}
+{24200}{}{Najemnik}
+{24300}{}{Stra¿nik}
+{24400}{}{Podró¿nik}
+{24500}{}{Wêdrowiec}
+{24600}{}{Zbir}
+{24700}{}{Najemnik}
+{24800}{}{Stra¿nik}
+{24900}{}{Podró¿nik}
+{25000}{}{Wêdrowiec}
+{25100}{}{Zbir}
+{25200}{}{Najemnik}
+{25300}{}{Stra¿nik}
+{25400}{}{Podró¿nik}
+{25500}{}{Wêdrowiec}
+{25600}{}{Zbir}
+{25700}{}{Najemnik}
+{25800}{}{Stra¿nik}
+{25900}{}{Podró¿nik}
+{26000}{}{Wêdrowiec}
+{26100}{}{Zbir}
+{26200}{}{Najemnik}
+{26300}{}{Stra¿nik}
+{26400}{}{Kadet}
+{26500}{}{Giermek}
+{26600}{}{M³odszy Rycerz}
+{26700}{}{Rycerz}
+{26800}{}{Starszy Rycerz}
+{26900}{}{Kadet}
+{27000}{}{Giermek}
+{27100}{}{M³odszy Rycerz}
+{27200}{}{Rycerz}
+{27300}{}{Starszy Rycerz}
+{27400}{}{M³odszy Paladyn}
+{27500}{}{Paladyn}
+{27600}{}{Starszy Paladyn}
+{27700}{}{M³odszy Paladyn}
+{27800}{}{Paladyn}
+{27900}{}{Starszy Paladyn}
+{28000}{}{Skryba Nowicjusz}
+{28100}{}{Skryba Uczeñ}
+{28200}{}{Skryba Czeladnik}
+{28300}{}{Skryba}
+{28400}{}{Starszy Skryba}
+{28500}{}{Skryba Nowicjusz}
+{28600}{}{Skryba Uczeñ}
+{28700}{}{Skryba Czeladnik}
+{28800}{}{Skryba}
+{28900}{}{Starszy Skryba}
+{29000}{}{Mê¿czyzna w habicie}
+{29100}{}{Dzieciê Mistrza}
+{29200}{}{Uczeñ Katedry}
+{29300}{}{Kobieta w habicie}
+{29400}{}{Dzieciê Mistrza}
+{29500}{}{Pupil Mistrza}
+{29600}{}{Zbir Mistrza}
+{29700}{}{Stra¿nik Mistrza}
+{29800}{}{Pupil Mistrza}
+{29900}{}{Zbir Mistrza}
+{30000}{}{Stra¿nik Mistrza}
+{30100}{}{Lekarz}
+{30200}{}{Katja}
+{30300}{}{Sasza}
+{30301}{}{Widzisz sukê rasy Siberian Husky, czekaj¹c¹ cierpliwie na swego pana.}
+{30400}{}{Tajemniczy Wêdrowiec}
+{30500}{}{Bezmyœlny Ghul}
+{30501}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
+{30600}{}{Floating Eye}
+{30700}{}{Jajo}
+{30701}{}{Jajo Szpona Œmierci}
+{30800}{}{Dugan}
+{30900}{}{Maciora Szpona Œmierci}
+{31000}{}{M³ot}
+{31100}{}{martwy podró¿nik}
+{31200}{}{Kenji}
+{31300}{}{Ian}
+{31400}{}{Ian}
+{31500}{}{Ian}
+{31600}{}{Ian}
+{31700}{}{Ian}
+{31800}{}{Ian}
+{31900}{}{Ian}
+{32000}{}{Ian}
+{32100}{}{Ian}
+{32200}{}{Ian}
+{32300}{}{Ian}
+{32400}{}{Ian}
+{32500}{}{Ian}
+{32600}{}{Ian}
+{32700}{}{Ian}
+{32800}{}{Ian}
+{32900}{}{Ian}
+{33000}{}{Ian}
+{33100}{}{Ian}
+{33200}{}{Ian}
+{33300}{}{Ian}
+{33400}{}{Ian}
+{33500}{}{Ian}
+{33600}{}{Ian}
+{33700}{}{Ian}
+{33800}{}{Ian}
+{33900}{}{Ian}
+{34000}{}{Tycho}
+{34100}{}{Tycho}
+{34200}{}{Tycho}
+{34300}{}{Tycho}
+{34400}{}{Tycho}
+{34500}{}{Tycho}
+{34600}{}{Tycho}
+{34700}{}{Tycho}
+{34800}{}{Tycho}
+{34900}{}{Tycho}
+{35000}{}{Tycho}
+{35100}{}{Tycho}
+{35200}{}{Tycho}
+{35300}{}{Tycho}
+{35400}{}{Tycho}
+{35500}{}{Tycho}
+{35600}{}{Tycho}
+{35700}{}{Tycho}
+{35800}{}{Tycho}
+{35900}{}{Tycho}
+{36000}{}{Tycho}
+{36100}{}{Tycho}
+{36200}{}{Tycho}
+{36300}{}{Tycho}
+{36400}{}{Tycho}
+{36500}{}{Tycho}
+{36600}{}{Tycho}
+{36700}{}{Katja}
+{36800}{}{Katja}
+{36900}{}{Katja}
+{37000}{}{Katja}
+{37100}{}{Katja}
+{37200}{}{Katja}
+{37300}{}{Katja}
+{37400}{}{Katja}
+{37500}{}{Katja}
+{37600}{}{Katja}
+{37700}{}{Katja}
+{37800}{}{Katja}
+{37900}{}{Katja}
+{38000}{}{Katja}
+{38100}{}{Katja}
+{38200}{}{Katja}
+{38300}{}{Katja}
+{38400}{}{Katja}
+{38500}{}{Katja}
+{38600}{}{Katja}
+{38700}{}{Katja}
+{38800}{}{Katja}
+{38900}{}{Katja}
+{39000}{}{Katja}
+{39100}{}{Katja}
+{39200}{}{Katja}
+{39300}{}{Katja}
+{39400}{}{Baby Radscorpion}
+{39500}{}{Mother Radscorpion}
+{39600}{}{The Overseer}

@@ -4,9 +4,9 @@
 {103}{}{Il faut qu'il apprenne à gérer ses problèmes.}
 {104}{}{C'est pas grave. Faut que je lui parle.}
 {105}{}{Adresse-toi à Seth.}
-{106}{}{Tu reçois : un fusil de chasse, 10 cartouches, 4 fusées éclairantes, 4 bouteilles de Coke et 200 caps.}
+{106}{}{Tu reçois : un fusil de chasse, 10 cartouches, 4 fusées éclairantes, 4 bouteilles de Nuka-cola et 200 caps.}
 {107}{}{Tu reçois : un fusil de chasse, 10 cartouches et 100 caps.}
-{108}{}{Tu reçois : 4 fusées éclairantes, 4 bouteilles de Coke et 50 caps.}
+{108}{}{Tu reçois : 4 fusées éclairantes, 4 bouteilles de Nuka-cola et 50 caps.}
 {109}{}{Tu ferais mieux de filer maintenant.}
 {110}{}{A un de ces quatre.}
 {111}{}{C'est tout ? Je mérite plus et t'as intérêt à me filer mon dû !}
@@ -28,6 +28,6 @@
 {205}{}{des cartouches}
 {206}{}{des fusées éclairantes}
 {207}{}{une fusée éclairante}
-{208}{}{des bouteilles de coke }
-{209}{}{une bouteille de coke }
-{210}{}{caps }
+{208}{}{des bouteilles de Nuka-cola }
+{209}{}{une bouteille de Nuka-cola }
+{210}{}{ caps }

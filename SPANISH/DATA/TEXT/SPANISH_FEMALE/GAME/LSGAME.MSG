@@ -18,10 +18,10 @@
 {108}{}{No existe o esta corrupto.}                   # Line 3
 {109}{}{RANURA DE GUARDADO}
 {110}{}{RANURA DE GUARDADO}
-{111}{}{- VACIO -}
+{111}{}{----- VACIO -----}
 {112}{}{- ARCHIVO CORRUPTO -}
 {113}{}{- VERSION ANTIGUA -}
-{114}{}{Vacio.}
+{114}{}{Esta ranura esta vacia.}
 {115}{}{Error!}
 {116}{}{Version antigua.}
 {117}{}{ENE}                            # Months

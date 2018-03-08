@@ -5,81 +5,63 @@
 {104}{}{Mi spiace, ma non ho soldi con me.}
 {105}{}{Stammi lontano!}
 {106}{}{Uhhh?}
-{107}{HROLD1}{
-Capperi. Sei messo peggio di me, amico. Buona fortuna a te.}
-{108}{HROLD2}{
-Oh, gentile da parte tua, amico. Davvero gentile. Sai, se potessi togliermi le porcherie che c'ho dentro, potresti persino trovarci una lacrima, negli occhi del vecchio Harold.}
+{107}{HROLD1}{Capperi. Sei messo peggio di me, amico. Buona fortuna a te.}
+{108}{HROLD2}{Oh, gentile da parte tua, amico. Davvero gentile. Sai, se potessi togliermi le porcherie che c'ho dentro, potresti persino trovarci una lacrima, negli occhi del vecchio Harold.}
 {109}{}{Come mai?}
 {110}{}{Non c'e' di che.}
-{111}{HROLD3}{
-[Cough] Da quando sono tornato in citta', gli Hubbitani mi trattano peggio di un cane. Non posso andarmene, pero'. Tutto sommato [wheez] e' ancora casa mia.}
+{111}{HROLD3}{[Cough] Da quando sono tornato in citta', gli Hubbitani mi trattano peggio di un cane. Non posso andarmene, pero'. Tutto sommato [wheez] e' ancora casa mia.}
 {112}{}{Che cosa ti e' successo?}
 {113}{}{Chi sono gli Hubbitani?}
 {114}{}{Spero che le cose ti vadano meglio. Ci si vede.}
-{115}{HROLD4}{
-Beh, dopo la Grande Guerra il mio Vault e' stato uno dei primi ad aprirsi. [Fa un profondo respiro] Fiuu. Ne e' passato di tempo.}
+{115}{HROLD4}{Beh, dopo la Grande Guerra il mio Vault e' stato uno dei primi ad aprirsi. [Fa un profondo respiro] Fiuu. Ne e' passato di tempo.}
 {116}{}{Parlami un po' di quei giorni.}
 {117}{}{No, no. Voglio sapere cosa ti ha ridotto cosi'.}
 {118}{HROLD5}{Tutto comincio' con le sirene. Ero giovane, ma ohhh, me lo ricordo bene. Molti terribili anni seguirono... E mi rivedo mentre, in una tarda mattinata, esco dal mio Vault.}
 {119}{}{Cosa hai fatto a quel punto?}
 {120}{}{Dove si trovava il tuo Vault?}
 {121}{}{Ma questo vuol dire che sei vecchissimo!}
-{122}{HROLD6}{
-Sai, [cough] non ne sono certo nemmeno io. Ad ovest, credo. Hm, aspetta - ad est? Ohh, non lo so.  [cough cough]}
+{122}{HROLD6}{Sai, [cough] non ne sono certo nemmeno io. Ad ovest, credo. Hm, aspetta - ad est? Ohh, non lo so.  [cough cough]}
 {123}{}{Cosa hai fatto a quel punto?}
-{124}{HROLD7}{
-Beh, ho fatto il mercante. E me la cavavo bene, girando tra i vari gruppi di sopravvissuti. Ho perso un sacco di brava gente, pero'. [Tossisce]}
+{124}{HROLD7}{Beh, ho fatto il mercante. E me la cavavo bene, girando tra i vari gruppi di sopravvissuti. Ho perso un sacco di brava gente, pero'. [Tossisce]}
 {125}{}{Come?}
-{126}{HROLD8}{
-Colpa dei banditi. Dei disperati che attaccavano le carovane. E dei mutanti: figlio d'un cane, che mi venga un colpo se non sbucavano fuori come conigli. [cough] Ho dovuto assoldare un esercito di guardie.} //Had to have an army of guards with, just to do a deal
+{126}{HROLD8}{Colpa dei banditi. Dei disperati che attaccavano le carovane. E dei mutanti: figlio d'un cane, che mi venga un colpo se non sbucavano fuori come conigli. [cough] Ho dovuto assoldare un esercito di guardie.} //Had to have an army of guards with, just to do a deal
 {127}{}{E sono servite a qualcosa?}
 {128}{}{Da dove venivano i mutanti?}
-{129}{HROLD9}{
-Certo che sono servite a qualcosa, testa di legno! Semplicemente ce n'erano troppi!}
+{129}{HROLD9}{Certo che sono servite a qualcosa, testa di legno! Semplicemente ce n'erano troppi!}
 {130}{}{Come hai fatto a sopravvivere?}
-{131}{HROLD9A}{
-Non sono sopravvissuto. Infatti sono morto. [Ride tossendo] Adoro questo scherzo.}
+{131}{HROLD9A}{Non sono sopravvissuto. Infatti sono morto. [Ride tossendo] Adoro questo scherzo.}
 {132}{}{Ah, certo.}
-{133}{HROLD10}{
-Dappertutto! Diavolo, sembrava che non si potesse scoreggiare senza colpirne uno. Ma soprattutto verso nordovest.}
+{133}{HROLD10}{Dappertutto! Diavolo, sembrava che non si potesse scoreggiare senza colpirne uno. Ma soprattutto verso nordovest.}
 {134}{}{Avete esplorato quella zona?}
 {135}{}{Perche' non avete evitato quella zona, allora?}
 {136}{}{Hai scoreggiato verso nordovest?}
 {137}{hrold10a}{[Ride] Non male...Noo...}
-{138}{HROLD11}{
-Abbiamo messo su una spedizione.  Dio, Richard.  Richard Grey.  E' stato lui a guidare il nostro gruppo lassu'.}
+{138}{HROLD11}{Abbiamo messo su una spedizione.  Dio, Richard.  Richard Grey.  E' stato lui a guidare il nostro gruppo lassu'.}
 {139}{}{Richard Grey?}
 {140}{}{Dove siete andati esattamente?}
-{141}{HROLD12}{
-Dovevamo vedere cosa c'era laggiu'. E magari metter fine alle attivita' di quei bastardi. Pensavamo di essere preparati. Ci sbagliavamo.}
+{141}{HROLD12}{Dovevamo vedere cosa c'era laggiu'. E magari metter fine alle attivita' di quei bastardi. Pensavamo di essere preparati. Ci sbagliavamo.}
 {142}{}{Che cosa avete fatto?}
-{143}{HROLD13}{
-Non ricordo ne' il percorso ne' altro. Ma sono dannatamente sicuro che fosse a nordovest, pero'... credo.}
+{143}{HROLD13}{Non ricordo ne' il percorso ne' altro. Ma sono dannatamente sicuro che fosse a nordovest, pero'... credo.}
 {144}{}{Non e' che conosci una versione breve della storia?}
 {145}{}{Cosa mi puoi dire del vostro leader?}
-{146}{HROLD14}{
-Richard Grey era un dottore. Un po' piu' anziano di me, e cavoli se era sveglio. Ha trovato la fonte.}
+{146}{HROLD14}{Richard Grey era un dottore. Un po' piu' anziano di me, e cavoli se era sveglio. Ha trovato la fonte.}
 {147}{}{E cos'era?}
-{148}{HROLD15}{
-Mi piace raccontarla a modo mio. La versione breve ti costera' un extra di 25$, amico. Quale preferisci?}
+{148}{HROLD15}{Mi piace raccontarla a modo mio. La versione breve ti costera' un extra di 25$, amico. Quale preferisci?}
 {149}{}{Ok, vada per la lunga.}
 {150}{}{La breve.}
 {151}{}{La breve, ma non ho i soldi.}
 {152}{}{E se ti dicessi "nessuna", vecchio bacucco?}
-{153}{HROLD16}{
-Beh, mi sembri un tipo a posto.  Cerchero' di accorciare un po'.}
+{153}{HROLD16}{Beh, mi sembri un tipo a posto.  Cerchero' di accorciare un po'.}
 {154}{}{Grazie.}
 {155}{hrold16a}{Mentire ad un povero vecchio mutante. Cos'e' diventato il mondo? [cough]}
 {156}{hrold17}{Siamo un po' a corto di soldi, eh?}
 {157}{hrold17a}{A modo mio, oppure puoi andartene. La scelta sta a te, amico.}
 {158}{}{Me ne vado.}
 {159}{}{OK. Vada per la lunga.}
-{160}{HROLD18}{
-Una specie di vecchia base militare. Solo per entrare abbiamo perso una marea di compagni.}
+{160}{HROLD18}{Una specie di vecchia base militare. Solo per entrare abbiamo perso una marea di compagni.}
 {161}{}{Come sapevate che era da quella base che uscivano i mutanti?}
 {162}{}{Contro cosa vi siete trovati a combattere?}
-{163}{HROLD19}{
-Robot e cose del genere. Una marea. Che fottuta sorpresa scoprire che funzionavano ancora dopo tutto quel tempo, dopo una guerra di quel tipo.  Whaa, ragazzi: ci hanno proprio massacrato.}
+{163}{HROLD19}{Robot e cose del genere. Una marea. Che fottuta sorpresa scoprire che funzionavano ancora dopo tutto quel tempo, dopo una guerra di quel tipo.  Whaa, ragazzi: ci hanno proprio massacrato.}
 {164}{}{Cosa avete fatto dopo aver superato i robot?}
 {165}{HROLD20}{Perche' sembrava di essere ad una svendita di fine stagione: mutanti in ogni angolo! Cavoli! C'erano persino le offerte speciali! Non poteva esserci altra spiegazione: ci trovavamo nel posto dove li fabbricavano.}
 {166}{}{Avete esaminato la base da vicino?}
@@ -134,8 +116,7 @@ Robot e cose del genere. Una marea. Che fottuta sorpresa scoprire che funzionava
 {215}{HROLD40}{Ehi, ti ringrazio! Devo ammetterlo, appena ti ho visto [cough] credevo che volessi maltrattarmi.}
 {216}{}{Perche'?}
 {217}{}{Nah, non io! Prenditene una di quelle buone.} // Have a good one
-{218}{HROLD41}{
-Oh, ehi, sei di nuovo tu.}
+{218}{HROLD41}{Oh, ehi, sei di nuovo tu.}
 {219}{}{Eccoti 20$, se ne hai bisogno.}
 {220}{}{Ciao.}
 {221}{}{Uhh?}

@@ -270,7 +270,7 @@
 {127}{}{Se acercan humanoides flacos con aspecto hostil y piel verdusca.}
 {128}{}{El suelo está cubierto de trastos y de rocas. Te preguntas si puede quedar algo de valor...}
 #
-# UNUSED ENTRY: 
+# UNUSED ENTRY:
 {129}{}{¡Un escorpión rad te ha tendido una emboscada!}
 #
 {130}{}{Aquí ves un cadáver medio devorado.}
@@ -331,7 +331,7 @@
 
 {257}{}{Divisas las ruinas de una aldea.}
 
-# UNUSED ENTRY: 
+# UNUSED ENTRY:
 {255}{}{Encuentras algunos objetos.}
 
 {279}{}{Divisas chatarra diseminada sobre la arena.}
@@ -361,7 +361,7 @@
 {311}{}{¡Ataque de un pequeño grupo de bandidos!}
 {313}{}{¡Un grupo de mantis te ataca de repente!}
 
-# UNUSED ENTRY: 
+# UNUSED ENTRY:
 
 {312}{}{¡Unas ratas te atacan de repente!}
 

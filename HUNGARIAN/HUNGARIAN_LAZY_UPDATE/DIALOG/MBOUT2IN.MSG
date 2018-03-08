@@ -1,0 +1,7 @@
+{100}{}{Az ajtó zárva van. A kinyitásához egy biztonsági kód kell.}
+{101}{}{Begépeled a lemezen található kódot, mire kinyílik az ajtó.}
+{102}{}{Az ajtó nincs bezárva.}
+{103}{}{Megkerülöd a biztonsági kódot, és hatástalanítod az ajtó zárját.}
+{104}{}{Képtelen vagy kinyitni az ajtó zárját.}
+{105}{}{Képtelen vagy kinyitni az ajtó zárját. Sokkal könnyebb lenne, ha elektromos zárnyitót használnál.}
+{106}{}{A robbanás nagyon erõsre sikeredett, de egy karcolás nem sok, annyit sem ejtett a biztonsági ajtón.}

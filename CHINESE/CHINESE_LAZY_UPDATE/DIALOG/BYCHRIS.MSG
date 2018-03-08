@@ -1,0 +1,30 @@
+{100}{}{你看见一个非常漂亮的年轻女子。}
+{101}{}{你看见克里斯廷，迈克尔的妻子。}
+{102}{}{你好？我能帮你吗？}
+{103}{}{你是谁？}
+{104}{}{这里谁主管？}
+{105}{}{你能告诉我一些有关这个地区的情况吗？}
+{106}{}{不，谢谢。}
+{107}{}{你是我的妈咪？}
+{108}{}{我的名字是克里斯廷，我和我丈夫迈克尔住在这里。}
+{109}{}{剃刀主管利刃帮的大部分事情，并且把我们团结了起来。}
+{110}{}{迈克尔和我才来这里，所以我还没搞清这个地区。我听说南边有个大教堂，但这听起来像是谣传。}
+{111}{}{有什么别的事情我应该知道吗？}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks.
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks!
+#
+{112}{}{克暗置呃西椰鸭子}
+{113}{}{五呃集约德不四鸭子}
+{114}{}{俄偶四得特啊么嗯四得                                                                    客安特阿么嗯德戏要翅膀}
+{115}{}{和敖博啊斯维呢亦 特啊么恩四鸭子}
+
+{116}{}{我还能帮你些什么？}
+{117}{}{不，我不是你的妈咪。现在走开，自己玩吧。}

@@ -24,7 +24,7 @@
 
 #They say 'Stand still' because their vision is blurry and moving from being drunk
 
-# laddy is male. long version of "lad". 
+# laddy is male. long version of "lad".
 {118}{}{Stand still, laddie!}
 # lassie is female. long version of "lass"
 {119}{}{Stand still, lassie!}

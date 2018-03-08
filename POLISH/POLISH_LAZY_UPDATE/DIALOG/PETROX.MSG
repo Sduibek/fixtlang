@@ -1,0 +1,33 @@
+{100}{}{You see a tough-looking desert bandit. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Witaj! Jestem Petrox. Jestem jednym z zastêpców Garla. Kim jesteœ?}
+{102}{}{Jestem }
+{103}{}{. Czym siê zajmujesz?}
+{104}{}{Moje imiê nie jest w tej chwili wa¿ne. Mo¿esz mi opowiedzieæ o waszym obozie?}
+{105}{}{Hroo?}
+{106}{}{Wêdrujê po pustkowiach. Zdobywam zaopatrzenie dla obozu.}
+{107}{}{Czyli mówi¹c innymi s³owy okradasz napotkanych ludzi.}
+{108}{}{Hej, to œwietnie. Garl na pewno jest z ciebie zadowolony.}
+{109}{}{Gdzie ju¿ by³eœ?}
+{110}{}{No có¿, fajnie, ¿e uwa¿asz siê za takiego wa¿niaka i s¹dzisz, ¿e nie musisz siê przedstawiaæ. Ja ci jednak powiem kilka rzeczy. Jesteœmy najtwardsi na pustkowiu. Nikt nie mo¿e siê z nami równaæ. ¯adne miêczaki z Cienistych Piasków czy Z³omowa.}
+{111}{}{Co z tymi Cienistymi Piaskami?}
+{112}{}{Co to jest Z³omowo?}
+{113}{}{Wybacz mi, ale nie mam czasu dla inteligentnych inaczej. Do widzenia.}
+{114}{}{Nigdy nie kradniemy. Zabieramy tylko nadwy¿ki i rozprowadzamy je wœród potrzebuj¹cych.}
+{115}{}{Czyli mówi¹c ogólnie kradniecie.}
+{116}{}{To doskona³y pomys³.}
+{117}{}{Odwiedzi³em wiele miejsc na Pustkowiu. St¹d jest najbli¿ej do Cienistych Piasków i Z³omowa. Niewiele siê tam dzieje, ale zawsze mo¿na u nich znaleŸæ œwie¿e informacje i zapasy.}
+{118}{}{Opowiedz mi o Cienistych Piaskach.}
+{119}{}{Opowiedz mi o Z³omowie.}
+{120}{}{Zaczynasz mnie denerwowaæ. Chyba rozwi¹¿ê ten problem.}
+{121}{}{Mieszkañcy Cienistych Piasków to bardzo p³odna spo³ecznoœæ. Bardzo chêtnie, eee... dziel¹ siê z nami swoimi produktami.}
+{122}{}{Co mo¿esz mi powiedzieæ o Z³omowie?}
+{123}{}{Z³omowo le¿y na po³udnie st¹d. Mieszka tam du¿o fajnych lasek.}
+{124}{}{Z³omowo le¿y na po³udnie st¹d. Mieszka tam du¿o fajnych lasek. S³uchaj... Mogê ci pokazaæ okolicê, mo¿e bêdziemy mieli okazjê poznaæ siê lepiej... co ty na to?}
+{125}{}{Nie, dziêkujê. Mo¿e kiedy indziej.}
+{126}{}{Pewnie, ale póŸniej.}
+{127}{}{No có¿, mo¿e póŸniej.}
+{128}{}{Powiedzia³em ci ju¿ wszystko co mi by³o wolno. IdŸ ju¿, proszê.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Petrox, the Khans' lead scav.}

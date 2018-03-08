@@ -1,0 +1,235 @@
+{100}{}{Kafar nie chce ju¿ wiêcej z tob¹ rozmawiaæ.}
+{101}{}{To Kafar.}
+{102}{}{Kafar jest teraz zbyt zajêty, by z tob¹ rozmawiaæ. Wykonaj robotê i przyjdŸ póŸniej.}
+{103}{DECK_1}{Zatem szukasz pracy. Dobrze siê sk³ada. Mam robotê, któr¹ trzeba wykonaæ. Ach, lecz gdzie moje maniery? Jak siê nazywasz?}
+{104}{}{Jestem }
+{105}{}{.}
+{106}{}{Co to ciê obchodzi?}
+{107}{DECK_2}{No, to uprzejmoœci mamy z g³owy. Chcesz pos³uchaæ o tym zadaniu?}
+{108}{}{Po to tu jestem.}
+{109}{}{Nieszczególnie.}
+{110}{DECK_3}{Zarys sytuacji: Jest pewien kupiec, który... jak by to uj¹æ... nie w pe³ni wspó³pracuje z Podziemiem.}
+{111}{}{A zadanie?}
+{112}{DECK_4}{Ca³kiem proste. Dopadnij kupca oraz jego ¿onê i siê ich pozb¹dŸ.}
+{113}{}{Znaczy siê mam ich zabiæ?}
+{114}{}{Ile za tê robotê?}
+{115}{}{Nie mogê tego zrobiæ!}
+{116}{DECK_5}{To kwestia semantyki, ale owszem. Zabij ich. WeŸmiesz tê robotê?}
+{117}{}{Hmm, jasne - czemu nie?}
+{118}{}{Nie! To by³oby z³e!}
+{119}{}{Ile?}
+{120}{DECK_6}{O, doskonale. Standardowa zap³ata to 500 kapsli na pocz¹tek i kolejne 2500... na koniec.}
+{121}{}{Gdzie mogê znaleŸæ tego kupca?}
+{122}{DECK_7}{Mieszkaj¹ na Wzgórzach, na rogu ulicy Handlu i alei Gromów. Wykonaj zadanie i wróæ tutaj.}
+{123}{}{OK, zrobiê to.}
+{124}{}{Sk¹d bêdziesz wiedzia³, ¿e nie ¿yj¹?}
+{125}{}{Raczej nie.}
+{126}{DECK_8}{Ca³kiem doskonale. Mój asystent wynagrodzi ciê przy wyjœciu. Proszê, zamknij za sob¹ drzwi.}
+{127}{deck_9}{Wierz mi. Bêdê wiedzia³.}
+{128}{}{OK, zrobiê to.}
+{129}{}{Pasujê.}
+{130}{DECK_10}{Muszê wyznaæ, ¿e jestem tob¹ nieco... rozczarowany. Ale to siê w ¿yciu zdarza. Pamiêtaj, ¿e to poufne. Dobrego dnia.}
+{131}{DECK_11}{Standardowa zap³ata. Na pocz¹tek 500 kapsli, kolejne 2500 gdy zadanie bêdzie wykonane. Podejmujesz siê tego?}
+{132}{}{Nie, dziêki.}
+{133}{}{Ta, zrobiê to.}
+{134}{DECK_12}{To bardzo mi³o. Kupiec mieszka na Wzgórzach, na rogu ulicy Handlu i alei Gromów. Twoja zaliczka zostanie ci wrêczona przy wyjœciu.}
+{135}{DECK_13}{Wszystko w Hubie mnie obchodzi. Albo mi to powiesz, albo mo¿esz st¹d odejœæ.}
+{136}{}{Nazywam siê }
+{137}{}{.}
+{138}{}{Nic ci nie powiem.}
+{139}{DECK_14}{Rozumiem... Mój asystent odprowadzi ciê do wyjœcia.}
+{140}{DECK_15}{Jestem z ciebie bardzo dumny. Cechuje ciê bezwzglêdnoœæ, atrybut, który podziwiam. Kane wyda ci twoj¹ zap³atê. Mam nadziejê, ¿e bêdziesz do dyspozycji w przysz³oœci.}
+{141}{}{Czy mogê zadaæ ci kilka pytañ?}
+{142}{}{Dziêki.}
+{143}{DECK_16}{W tych okolicznoœciach, tak.}
+{144}{}{Co jest w Hubie?}
+{145}{}{S³ysza³eœ jakieœ plotki?}
+{146}{}{Niewa¿ne.}
+{147}{Deck_16b}{Tylko proszê, krótkich.}
+{148}{DECK_17}{Poœrodku miasta jest Targ, otoczony paroma instytucjami. Na zachodzie s¹ Wzgórza, a na wschodzie Stare Miasto.}
+{149}{}{Jakie to instytucje?}
+{150}{}{Dziêki za informacjê. Czy mogê zadaæ ci jeszcze parê pytañ?}
+{151}{DECK_18}{Jesteœmy w Sokole Maltañskim. Jest jeszcze sklep Myd³o-i-Powid³o, Sklep z Broni¹, Przyjazne Towarzystwo Po¿yczkowe, Policja i, niestety, szpital Dzieci Katedry.}
+{152}{}{Nie wygl¹da na to, ¿ebyœ by³ fanem Dzieci. O co chodzi?}
+{153}{}{Dziêki. Czy mogê zadaæ ci jeszcze parê pytañ?}
+{154}{DECK_19}{Oni... wpychaj¹ siê. Poprzestañmy na tym, dobrze?}
+{155}{}{OK. Czy mogê zadaæ ci jeszcze parê pytañ?}
+{156}{DECK_20}{Nie jestem przewodnikiem. IdŸ siê rozejrzeæ samodzielnie.}
+{157}{}{Czy mogê zadaæ ci jeszcze parê pytañ?}
+{158}{}{To prawda. Przewodnik by³by du¿o milszy.}
+{159}{DECK_21}{Nie. Zabierz, proszê, swoj¹ zap³atê i odejdŸ st¹d.}
+{160}{DECK_22}{Przepraszam?}
+{161}{}{S³ysza³eœ.}
+{162}{}{Nic, nic. Czy mogê zadaæ ci jeszcze parê pytañ?}
+{163}{DECK_23}{Zachowujesz siê arogancko. Mój asystent poka¿e ci drogê za... to znaczy... do drzwi.}
+{164}{deck_24}{Nie.}
+{165}{}{Có¿, mogê spytaæ ciê o coœ innego?}
+{166}{}{Gburowaty z ciebie goœæ.}
+{167}{DECK_25}{Okazuje siê, ¿e ktoœ kradnie ca³e karawany Wszêdobylskim Handlowcom. A Kr¹g Z³odziei jak zwykle sprawia drobne problemy.}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+{169}{}{Jasne.}
+{170}{}{Za ¿adne skarby!}
+{171}{DECK_27}{Doskonale. Rozumiesz, poprzednie zlecenie, które ci da³em, by³o sprawdzianem, zaliczonym przez ciebie celuj¹co. Teraz czas na powa¿n¹ robotê.}
+{172}{}{Czyli?}
+{173}{}{Brzmi przera¿aj¹co. Raczej mnie to nie interesuje.}
+{174}{DECK_28}{Jak byæ mo¿e wiesz, Dzieci Katedry zyskuj¹ wp³ywy w tym mieœcie, a szczerze, nie zamierzam tego znosiæ.}
+{175}{}{Co zatem mam zrobiæ?}
+{176}{DECK_29}{To drobna sprawa. Zabij Najwy¿sz¹ Kap³ankê, Jain. Z jej œmierci¹ zakoñczy siê ta ma³a niedogodnoœæ. Interesuje ciê to?}
+{177}{}{Absolutnie.}
+{178}{}{Ale to by³oby niemoralne!}
+{179}{DECK_30}{S¹dzê, ¿e zaczynam ciê lubiæ. Zap³ata to 1000 z góry i 4000 po wykonaniu. I mo¿esz mi wierzyæ, bêdê wiedzia³, kiedy zostanie to wykonane.}
+{180}{}{OK.}
+{181}{DECK_31}{Po drodze do wyjœcia porozmawiaj z Kane'm. On poda ci szczegó³y.}
+{182}{DECK_32}{A zabicie tamtego kupca nie by³o?}
+{183}{}{Có¿, w porz¹dku, zrobiê to.}
+{184}{}{Nie obchodzi mnie to. Po prostu tego nie zrobiê.}
+{185}{DECK_33}{Zap³ata to 1000 z góry i 4000 po... egzekucji zlecenia. I mo¿esz mi wierzyæ, bêdê wiedzia³, kiedy bêdzie po wszystkim.}
+{186}{}{OK.}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+{188}{DECK_35}{Co za szkoda. Na pewno nie chcesz nawet us³yszeæ, na czym polega to zlecenie?}
+{189}{}{Tak, nie wykonam go.}
+{190}{}{OK, co to jest?}
+{191}{DECK_36}{W takim razie nie mamy ju¿ o czym rozmawiaæ.}
+{192}{DECK_37}{Wyj¹tkowo dobra robota. S¹dzê, ¿e frakcja religijna nie bêdzie ju¿ bruŸdziæ. Zg³oœ siê do Kane'a po zap³atê. Moje podziêkowania - z pewnoœci¹ bêdê o tobie pamiêta³ w przysz³oœci.}
+{193}{DECK_38}{Od³ó¿ to.}
+{194}{DECK_39}{Jestem nader cierpliwym cz³owiekiem, ale te¿ mam granice wytrzyma³oœci. Kane, daj temu durniowi nauczkê.}
+{195}{DECK_40}{Przestañ.}
+{196}{DECK_42}{Porozmawiaj o tym z Kane'm. On mo¿e ci powiedzieæ wiêcej.}
+{197}{DECK_43}{Jak mówi³em...}
+{198}{DECK_44}{Jak powiedzia³em...}
+{199}{DECK_45}{Ju¿ ci mówi³em...}
+{200}{DECK_46}{Nie s³uchasz mnie? Mówi³em...}
+{201}{DECK_47}{Dam ci radê: nie zwyk³em siê powtarzaæ.}
+{202}{DECK_48}{Nie bêdê tego mówi³ ponownie.}
+{203}{DECK_49}{O mnie nic nie musisz wiedzieæ.}
+{204}{DECK_50}{Wiêkszoœæ ludzi nie wymawia beztrosko nazwy mojej organizacji. To my rz¹dzimy Hubem.}
+{205}{DECK_51}{Moja matka, najwspanialsza kobieta, jak¹ kiedykolwiek zna³em, podsunê³a mi pomys³ na ten najwspanialszy lokal rozrywkowy w ca³y.}
+{206}{DECK_52}{Okradaj¹ kupców i oddaj¹ biednym, lub podobne bzdury. Z mojego punktu widzenia s¹ nieznacz¹cy. Ten stary mutant, Harold, bêdzie wiedzia³ wiêcej.}
+{207}{DECK_53}{To szef Policji. Mi³y facet, jeœli siê lubi prostolinijnych i uczciwych. Nie jak jego ojciec, ten to by³ lojalnym cz³owiekiem.}
+{208}{DECK_54}{Harold jest tu ju¿ od d³u¿szego czasu. To dobre Ÿród³o niektórych rodzajów informacji. Mieszka na Starym Mieœcie..}
+{209}{DECK_55}{To oni kontroluj¹ wodê. Znajdziesz ich na po³udnie od Targu.}
+{210}{DECK_56}{To szef Kupców Wodnych.}
+{211}{DECK_57}{Zarz¹dzali szpitalem, zanim przejê³y go Dzieci. Teraz przesiaduj¹, zamartwiaj¹c siê, w swoim magazynie - to bardzo dziwne. Znajdziesz ich na pó³nocno-zachodnim krañcu Targu.}
+{212}{DECK_58}{To szef Karmazynowej Karawany.}
+{213}{DECK_59}{To ostatni z kupców, i to dos³ownie. Handluj¹ g³ównie ma³o wa¿nymi towarami. Szukaj ich na pó³nocny wschód od Targu.}
+{214}{DECK_60}{Zabawne. Uwa¿a siê za przywódcê Wszêdobylskich Handlowców. W rzeczywistoœci jest raczej figurantem. Wie, ¿eby nie mieszaæ siê do moich spraw.}
+{215}{DECK_61}{To ona prowadzi Sklep z Broni¹.}
+{216}{DECK_62}{Coœ sprawia, ¿e karawany Wszêdobylskich Handlowców znikaj¹. Chcia³bym poznaæ przyczynê, poniewa¿ psuje to czêœæ mojego interesu.}
+{217}{Deck_63}{Le¿y poœrodku miasta.}
+{218}{DECK_64}{Mity i legendy. Szpon Œmierci to, jak siê mniema, duch, albo coœ podobnego.}
+{219}{DECK_65}{Stare Miasto zajmuje ca³¹ wschodni¹ czêœæ Hubu. £achy tam mieszkaj¹.}
+{220}{DECK_66}{Wiêkszoœæ kupców tam mieszka. Po prostu idŸ na zachód st¹d.}
+{221}{DECK_67}{Irytuj¹ca organizacja. Wkrótce mo¿e im byæ potrzebna demonstracja si³y.}
+{222}{DECK_68}{Morfeusz jest g³ow¹ Dzieci Katedry. Rezyduje w Gruzach.}
+{223}{DECK_69}{Obecnie jest ona g³ow¹ Dzieci Katedry w Hubie. Mam powód, by s¹dziæ, ¿e wkrótce mo¿e siê to zmieniæ.}
+{224}{DECK_70}{Jeden z wymys³ów Dzieci. Ma on jakoby byæ jakimœ pomniejszym bóstwem, czy czymœ takim.}
+{225}{DECK_71}{To niewielki sklep, w którym sprzedaj¹... znoœn¹ broñ. Znajduje siê w pobli¿u lokalu Wszêdobylskich Handlowców.}
+{226}{DECK_72}{Naprzeciwko, kawa³ek na pó³noc. Nie sposób go przegapiæ.}
+{227}{DECK_73}{To nieistotne.}
+{228}{DECK_74}{Co? To teraz niewa¿ne.}
+{229}{DECK_75}{Doprawdy. Czemu niby mia³bym chcieæ to zrobiæ?}
+{230}{}{Widzê, ¿e mój zastêpca zosta³ przez ciebie wyeliminowany. Bêdê musia³ zaj¹æ siê tob¹ w³asnorêcznie.}
+{231}{}{Jak dobrze ciê widzieæ, szeryfie Greene! Rozumiem, ¿e przyszed³eœ siê po¿egnaæ.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{232}{DECK_26}{Witaj ponownie, przyjacielu. Mam dla ciebie kolejne zadanie. Jesteœ zainteresowany?}
+{233}{DECK_26}{Witaj ponownie, przyjació³ko. Mam dla ciebie kolejne zadanie. Jesteœ zainteresowana?}
+
+{234}{DECK_34}{A wi¹za³em z tob¹ takie nadzieje! Lecz nie mogê dopuœciæ, ¿ebyœ ostrzeg³ Dzieci. Kane, wyprowadŸ st¹d naszego przyjaciela i poinstruuj go nieco o koniecznoœci zachowania milczenia.}
+{235}{DECK_34}{A wi¹za³em z tob¹ takie nadzieje! Lecz nie mogê dopuœciæ, ¿ebyœ ostrzeg³a Dzieci. Kane, wyprowadŸ st¹d nasz¹ przyjació³kê i poinstruuj j¹ nieco o koniecznoœci zachowania milczenia.}
+
+# Decker Tell-Me-Abouts generic responses
+{980}{DECK_73}{To nieistotne.}
+{981}{DECK_74}{Co? To teraz niewa¿ne.}
+
+#
+# Decker Tell-Me-Abouts
+#
+
+{1000}{}{Kafar}
+{1001}{}{Podziemie}
+{1002}{}{Maltañski}
+{1003}{}{Kr¹g}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Kupcy}
+{1007}{}{Daren}
+{1008}{}{Karmazynowa}
+{1009}{}{Demetre}
+{1010}{}{Wszêdobylscy}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Zaginione}
+{1014}{}{Targ}
+{1015}{}{Szpon}
+{1016}{}{Miasto}
+{1017}{}{Wzgórza}
+{1018}{}{Katedra}
+{1019}{}{Morfeusz}
+{1020}{}{Jain}
+{1021}{}{Mistrz}
+{1022}{}{Sklep}
+{1023}{}{All-N-One}
+{1024}{}{Sokó³}
+{1025}{}{Klub}
+{1026}{}{Greene}
+{1027}{}{Wie¿owiec}
+{1028}{}{Karavany}
+{1029}{}{Romara}
+{1030}{}{Wszêdobylscy}
+{1031}{}{Handlowcy}
+{1032}{}{Harris}
+{1033}{}{œmierci}
+{1034}{}{Szpon œmierci}
+{1035}{}{Stare}
+{1036}{}{Old Town}
+{1037}{}{Dzieci}
+{1038}{}{Myd³o}
+
+{1100}{DECK_49}{O mnie nic nie musisz wiedzieæ.}
+{1101}{DECK_50}{Wiêkszoœæ ludzi nie wymawia beztrosko nazwy mojej organizacji. To my rz¹dzimy Hubem.}
+{1102}{DECK_51}{Moja matka, najwspanialsza kobieta, jak¹ kiedykolwiek zna³em, podsunê³a mi pomys³ na ten najwspanialszy lokal rozrywkowy w ca³y.}
+{1103}{DECK_52}{Okradaj¹ kupców i oddaj¹ biednym, lub podobne bzdury. Z mojego punktu widzenia s¹ nieznacz¹cy. Ten stary mutant, Harold, bêdzie wiedzia³ wiêcej.}
+{1104}{DECK_53}{To szef Policji. Mi³y facet, jeœli siê lubi prostolinijnych i uczciwych. Nie jak jego ojciec, ten to by³ lojalnym cz³owiekiem.}
+{1105}{DECK_54}{Harold jest tu ju¿ od d³u¿szego czasu. To dobre Ÿród³o niektórych rodzajów informacji. Mieszka na Starym Mieœcie..}
+{1106}{DECK_55}{To oni kontroluj¹ wodê. Znajdziesz ich na po³udnie od Targu.}
+{1107}{DECK_56}{To szef Kupców Wodnych.}
+{1108}{DECK_57}{Zarz¹dzali szpitalem, zanim przejê³y go Dzieci. Teraz przesiaduj¹, zamartwiaj¹c siê, w swoim magazynie - to bardzo dziwne. Znajdziesz ich na pó³nocno-zachodnim krañcu Targu.}
+{1109}{DECK_58}{To szef Karmazynowej Karawany.}
+{1110}{DECK_59}{To ostatni z kupców, i to dos³ownie. Handluj¹ g³ównie ma³o wa¿nymi towarami. Szukaj ich na pó³nocny wschód od Targu.}
+{1111}{DECK_60}{Zabawne. Uwa¿a siê za przywódcê Wszêdobylskich Handlowców. W rzeczywistoœci jest raczej figurantem. Wie, ¿eby nie mieszaæ siê do moich spraw.}
+{1112}{DECK_61}{To ona prowadzi Sklep z Broni¹.}
+{1113}{DECK_62}{Coœ sprawia, ¿e karawany Wszêdobylskich Handlowców znikaj¹. Chcia³bym poznaæ przyczynê, poniewa¿ psuje to czêœæ mojego interesu.}
+{1114}{Deck_63}{Le¿y poœrodku miasta.}
+{1115}{DECK_64}{Mity i legendy. Szpon Œmierci to, jak siê mniema, duch, albo coœ podobnego.}
+{1116}{DECK_65}{Stare Miasto zajmuje ca³¹ wschodni¹ czêœæ Hubu. £achy tam mieszkaj¹.}
+{1117}{DECK_66}{Wiêkszoœæ kupców tam mieszka. Po prostu idŸ na zachód st¹d.}
+{1118}{DECK_67}{Irytuj¹ca organizacja. Wkrótce mo¿e im byæ potrzebna demonstracja si³y.}
+{1119}{DECK_68}{Morfeusz jest g³ow¹ Dzieci Katedry. Rezyduje w Gruzach.}
+{1120}{DECK_69}{Obecnie jest ona g³ow¹ Dzieci Katedry w Hubie. Mam powód, by s¹dziæ, ¿e wkrótce mo¿e siê to zmieniæ.}
+{1121}{DECK_70}{Jeden z wymys³ów Dzieci. Ma on jakoby byæ jakimœ pomniejszym bóstwem, czy czymœ takim.}
+{1122}{DECK_71}{To niewielki sklep, w którym sprzedaj¹... znoœn¹ broñ. Znajduje siê w pobli¿u lokalu Wszêdobylskich Handlowców.}
+{1123}{DECK_72}{Naprzeciwko, kawa³ek na pó³noc. Nie sposób go przegapiæ.}
+{1124}{DECK_51}{Moja matka, najwspanialsza kobieta, jak¹ kiedykolwiek zna³em, podsunê³a mi pomys³ na ten najwspanialszy lokal rozrywkowy w ca³y.}
+{1125}{DECK_51}{Moja matka, najwspanialsza kobieta, jak¹ kiedykolwiek zna³em, podsunê³a mi pomys³ na ten najwspanialszy lokal rozrywkowy w ca³y.}
+{1126}{DECK_53}{To szef Policji. Mi³y facet, jeœli siê lubi prostolinijnych i uczciwych. Nie jak jego ojciec, ten to by³ lojalnym cz³owiekiem.}
+{1127}{DECK_56}{To szef Kupców Wodnych.}
+{1128}{DECK_62}{Coœ sprawia, ¿e karawany Wszêdobylskich Handlowców znikaj¹. Chcia³bym poznaæ przyczynê, poniewa¿ psuje to czêœæ mojego interesu.}
+{1129}{DECK_58}{To szef Karmazynowej Karawany.}
+{1130}{DECK_59}{To ostatni z kupców, i to dos³ownie. Handluj¹ g³ównie ma³o wa¿nymi towarami. Szukaj ich na pó³nocny wschód od Targu.}
+{1131}{DECK_59}{To ostatni z kupców, i to dos³ownie. Handluj¹ g³ównie ma³o wa¿nymi towarami. Szukaj ich na pó³nocny wschód od Targu.}
+{1132}{DECK_60}{Zabawne. Uwa¿a siê za przywódcê Wszêdobylskich Handlowców. W rzeczywistoœci jest raczej figurantem. Wie, ¿eby nie mieszaæ siê do moich spraw.}
+{1133}{DECK_64}{Mity i legendy. Szpon Œmierci to, jak siê mniema, duch, albo coœ podobnego.}
+{1134}{DECK_64}{Mity i legendy. Szpon Œmierci to, jak siê mniema, duch, albo coœ podobnego.}
+{1135}{DECK_65}{Stare Miasto zajmuje ca³¹ wschodni¹ czêœæ Hubu. £achy tam mieszkaj¹.}
+{1136}{DECK_65}{Stare Miasto zajmuje ca³¹ wschodni¹ czêœæ Hubu. £achy tam mieszkaj¹.}
+{1137}{DECK_67}{Irytuj¹ca organizacja. Wkrótce mo¿e im byæ potrzebna demonstracja si³y.}
+{1138}{DECK_72}{Naprzeciwko, kawa³ek na pó³noc. Nie sposób go przegapiæ.}

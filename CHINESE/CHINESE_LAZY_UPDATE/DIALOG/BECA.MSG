@@ -1,0 +1,28 @@
+# Alchemist: Warning! Achtung! Uwaga!
+# Beca's script is bound to the ol' black male at the Blades map, but this is
+# temporary measure. Actually Quatermistress IS a women! So she must be
+# referenced as 'SHE/HER' NOT 'he/his/him'. 'Jade' stands for nickname and
+# 'Bec'a stands for the real one.
+
+{100}{}{你看见杰德。}
+{101}{}{你看见比格。}
+{102}{}{}
+{103}{}{}
+{104}{}{你看见一个利刃帮的成员。}
+{105}{}{你看见一个利刃帮的成员。}
+{106}{}{你认为那可能是“书”。}
+{107}{}{你认为那可能是“刀疤”。}
+{108}{}{你认为那可能是“枪手”。}
+{109}{}{你认为那可能是“抽搐”。}
+{110}{}{你认为那可能是“锤子”。}
+{111}{}{你认为那可能是“剃刀”。}
+{112}{}{这里是睡觉的地方。现在，在我踢你屁股前滚出去。}
+{113}{}{Be my guest.}
+{114}{}{对不起，再见。}
+{115}{}{我能在这里睡觉吗？}
+{116}{}{不行。这些是给真正的利刃帮用的，可不是给什么垃圾用的。}
+{117}{}{嘿，甜甜！有什么事？如果你需要一个安全的地方睡觉，就来这里。}
+{118}{}{So, you've volunteered to help. Better than nothing, I reckon. Thanks. Gonna spread the word.}
+{119}{}{Yeah, I'll go and see what I can do.}
+{120}{}{Hey again. I heard you've actually helped us. You are more than worthy of our respect, indeed. We are free now. (You are now a member of the Blades gang.)}
+{121}{}{Can't help you with that. Go talk to Razor.}

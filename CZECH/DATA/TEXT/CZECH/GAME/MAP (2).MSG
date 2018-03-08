@@ -11,7 +11,7 @@
 {1}{}{DESERT2.MAP}
 {2}{}{DESERT3.MAP}
 {3}{}{HALLDED.MAP}
-{4}{}{HOTEL.MAP} 
+{4}{}{HOTEL.MAP}
 {5}{}{WATRSHD.MAP}
 {6}{}{VAULT13.MAP}
 {7}{}{VAULTENT.MAP}
@@ -90,63 +90,63 @@
 {100}{}{Pouš}										 // DESERT1.MAP
 {101}{}{Pouš}										 // DESERT2.MAP
 {102}{}{Pouš}										 // DESERT3.MAP
-{103}{}{Nekropolis}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// HALLDED.MAP
-{104}{}{Nekropolis}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// HOTEL.MAP
-{105}{}{Nekropolis}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// WATRSHD.MAP
+{103}{}{Nekropolis}                           // HALLDED.MAP
+{104}{}{Nekropolis}                           // HOTEL.MAP
+{105}{}{Nekropolis}                           // WATRSHD.MAP
 {106}{}{Vault 13} 									 // VAULT13.MAP
-{107}{}{Vault 15}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// VAULTENT.MAP
-{108}{}{Vault 15}ÿ									 // VAULTBUR.MAP
-{109}{}{Nekropolis}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// VAULTNEC.MAP
-{110}{}{Junktown}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// JUNKENT.MAP
-{111}{}{Junktown}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// JUNKCSNO.MAP
-{112}{}{Junktown}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// JUNKKILL.MAP
-{113}{}{Bratrstvo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// BROHDENT.MAP
-{114}{}{Bratrstvo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// BROHD12.MAP
-{115}{}{Bratrstvo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// BROHD34.MAP
-{116}{}{Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// CAVES.MAP
-{117}{}{Katedrála}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// CHILDRN1.MAP
-{118}{}{Kadedrála}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// CHILDRN2.MAP
-{119}{}{Ruiny}									ÿ// CITY1.MAP
-{120}{}{Pobøeží}ÿ										ÿ// COAST1.MAP
-{121}{}{Pobøeží}ÿ										ÿ// COAST2.MAP
+{107}{}{Vault 15}                             // VAULTENT.MAP
+{108}{}{Vault 15} 									 // VAULTBUR.MAP
+{109}{}{Nekropolis}                           // VAULTNEC.MAP
+{110}{}{Junktown}                             // JUNKENT.MAP
+{111}{}{Junktown}                             // JUNKCSNO.MAP
+{112}{}{Junktown}                             // JUNKKILL.MAP
+{113}{}{Bratrstvo}                          // BROHDENT.MAP
+{114}{}{Bratrstvo}                          // BROHD12.MAP
+{115}{}{Bratrstvo}                          // BROHD34.MAP
+{116}{}{Shady Sands}                          // CAVES.MAP
+{117}{}{Katedrála}                            // CHILDRN1.MAP
+{118}{}{Kadedrála}                            // CHILDRN2.MAP
+{119}{}{Ruiny}									 // CITY1.MAP
+{120}{}{Pobøeží} 										 // COAST1.MAP
+{121}{}{Pobøeží} 										 // COAST2.MAP
 {122}{}{Pouš}										 // COLATRUK.MAP
 {123}{}{Pouš}										 // FSAUSER.MAP
-{124}{}{Nájezdníci}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// RAIDERS.MAP
-{125}{}{Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ // SHADYE.MAP
-{126}{}{Shady Sands}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ // SHADYW.MAP
+{124}{}{Nájezdníci}                              // RAIDERS.MAP
+{125}{}{Shady Sands}                          // SHADYE.MAP
+{126}{}{Shady Sands}                          // SHADYW.MAP
 {127}{}{Kráter}											 // GLOWENT.MAP
-{128}{}{Pohøebištì}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// LAADYTUM.MAP
-{129}{}{Pohøebištì}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// LAFOLLWR.MAP
-{130}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MBENT.MAP
-{131}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MBSTRG12.MAP
-{132}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MBVATS12.MAP
-{133}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MSTRLR12.MAP
-{134}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MSTRLR34.MAP
-{135}{}{Vault 13}                   ÿÿÿÿÿÿÿÿÿÿ// V13ENT.MAP
-{136}{}{Hub}                        ÿÿÿÿÿÿÿÿÿÿ// HUBENT.MAP
-{137}{}{Hub}                                ÿÿ// DETHCLAW.MAP
-{138}{}{Hub}                                 ÿ// HUBDWNTN.MAP
-{139}{}{Hub}                                 ÿ// HUBHEIGT.MAP
-{140}{}{Hub}                                 ÿ// HUBOLDTN.MAP
-{141}{}{Hub}                                 ÿ// HUBWATER.MAP
+{128}{}{Pohøebištì}                             // LAADYTUM.MAP
+{129}{}{Pohøebištì}                             // LAFOLLWR.MAP
+{130}{}{Vojenská základna}                        // MBENT.MAP
+{131}{}{Vojenská základna}                        // MBSTRG12.MAP
+{132}{}{Vojenská základna}                        // MBVATS12.MAP
+{133}{}{Vojenská základna}                        // MSTRLR12.MAP
+{134}{}{Vojenská základna}                        // MSTRLR34.MAP
+{135}{}{Vault 13}                             // V13ENT.MAP
+{136}{}{Hub}                                  // HUBENT.MAP
+{137}{}{Hub}                                  // DETHCLAW.MAP
+{138}{}{Hub}                                  // HUBDWNTN.MAP
+{139}{}{Hub}                                  // HUBHEIGT.MAP
+{140}{}{Hub}                                  // HUBOLDTN.MAP
+{141}{}{Hub}                                  // HUBWATER.MAP
 {142}{}{Kráter}											 // GLOW1.MAP
 {143}{}{Kráter}											 // GLOW2.MAP
-{144}{}{Pohøebištì}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// LABLADES.MAP
-{145}{}{Pohøebištì}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// LARIPPER.MAP
-{146}{}{Pohøebištì}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// LAGUNRUN.MAP
-{147}{}{Katedrála}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// CHILDEAD.MAP
-{148}{}{Vojenská základna}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// MBDEAD.MAP
-{149}{}{Hory}									ÿ// MOUNTN1.MAP
-{150}{}{Hory}									ÿ// MOUNTN2.MAP
+{144}{}{Pohøebištì}                             // LABLADES.MAP
+{145}{}{Pohøebištì}                             // LARIPPER.MAP
+{146}{}{Pohøebištì}                             // LAGUNRUN.MAP
+{147}{}{Katedrála}                            // CHILDEAD.MAP
+{148}{}{Vojenská základna}                             // MBDEAD.MAP
+{149}{}{Hory}									 // MOUNTN1.MAP
+{150}{}{Hory}									 // MOUNTN2.MAP
 {151}{}{Pouš}										 // FOOT.MAP
 {152}{}{Pouš}										 // TARDIS.MAP
 {153}{}{Pouš}										 // TALKCOW.MAP
 {154}{}{Pouš}										 // USEDCAR.MAP
-{155}{}{Bratrstvo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ// BRODEAD.MAP
+{155}{}{Bratrstvo}                          // BRODEAD.MAP
 {156}{}{Pouš}										 // DESCRVN1.MAP
 {157}{}{Pouš}										 // DESCRVN2.MAP
-{158}{}{Hory}									ÿ// MNTCRVN1.MAP
-{159}{}{Hory}									ÿ// MNTCRVN2.MAP
+{158}{}{Hory}									 // MNTCRVN1.MAP
+{159}{}{Hory}									 // MNTCRVN2.MAP
 {160}{}{Tábor Zmijí}
 {161}{}{Pouš}
 {162}{}{Hory}

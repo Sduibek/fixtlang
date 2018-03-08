@@ -1,0 +1,7 @@
+{100}{}{La porta e' chiusa a chiave. Per aprirla e' necessario un codice di sicurezza.}
+{101}{}{Inserisci il codice presente nel nastro e apri la porta.}
+{102}{}{La porta non e' chiusa a chiave.}
+{103}{}{Bypassi il codice di sicurezza e apri la porta.}
+{104}{}{Non sei in grado di aprire la porta.}
+{105}{}{Non sei in grado di aprire la porta. Forse sarebbe piu' facile se tu usassi un grimaldello elettronico.}
+{106}{}{L'esplosione e' potente, ma non ha intaccato ne' scalfito la porta di sicurezza.}

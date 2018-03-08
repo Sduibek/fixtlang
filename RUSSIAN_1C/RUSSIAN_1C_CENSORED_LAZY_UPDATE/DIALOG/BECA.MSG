@@ -1,0 +1,28 @@
+# Alchemist: Warning! Achtung! Uwaga!
+# Beca's script is bound to the ol' black male at the Blades map, but this is
+# temporary measure. Actually Quatermistress IS a women! So she must be
+# referenced as 'SHE/HER' NOT 'he/his/him'. 'Jade' stands for nickname and
+# 'Bec'a stands for the real one.
+
+{100}{}{Вы видите ??? Джейда.}
+{101}{}{Вы видите ??? Бека.}
+{102}{}{}
+{103}{}{}
+{104}{}{Вы видите члена банды Клинков.}
+{105}{}{Вы видите члена банды Клинков.}
+{106}{}{Возможно, это Букс.}
+{107}{}{Возможно, это Скарз.}
+{108}{}{Возможно, это Канонир.}
+{109}{}{Возможно, это Жила.}
+{110}{}{Возможно, это Молот.}
+{111}{}{Возможно, это Бритва.}
+{112}{}{Здесь люди спят. Вали отсюда, пока тебе морду не начистили.}
+{113}{}{Be my guest.}
+{114}{}{Извиняюсь. Всего хорошего.}
+{115}{}{Можно мне здесь поспать?}
+{116}{}{Нет. Здесь отдыхают Клинки, а не черт-те кто.}
+{117}{}{Эй, как жизнь? Падай сюда, если хочешь передохнуть.}
+{118}{}{So, you've volunteered to help. Better than nothing, I reckon. Thanks. Gonna spread the word.}
+{119}{}{Yeah, I'll go and see what I can do.}
+{120}{}{Hey again. I heard you've actually helped us. You are more than worthy of our respect, indeed. We are free now. (You are now a member of the Blades gang.)}
+{121}{}{Can't help you with that. Go talk to Razor.}

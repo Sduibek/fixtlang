@@ -37,7 +37,6 @@
 # The player-character's name is inserted by the code in between lines 131 and 132.
 {131}{}{Bueno, }
 {132}{}{, ¿qué puedo hacer por ti?}
-
 {133}{}{Háblame de los saqueadores.}
 {134}{}{Háblame de los escorpiones rad.}
 {135}{}{Háblame de Arenas Sombrías.}
@@ -72,7 +71,7 @@
 {160}{}{De acuerdo, te ayudaré a cambio de mi parte del botín.}
 {161}{}{No, no lo creo. Vuelve cuando tengas algunas chapas.}
 {162}{}{Esta es la Armería. La dirige Beth. Tiene buenas armas pero lo mejor son sus cotilleos.}
-{163}{}{Jake tiene armas. Los precios son altos, pero es buen material.}
+{163}{}{Las Armas de Jake. Los precios son altos, pero es buen material.}
 {164}{}{La Oficina de los Mercaderes de Agua. Son el motor del Eje ya que suministran el agua que mantiene todo en marcha.}
 {165}{}{Esta es la Caravana Carmesí. He hecho algunos trabajos para ellos. Hacen muchos trabajos de alto riesgo.}
 {166}{}{Los Comerciantes de Ultramar, dirigidos por Butch Harris. Son gente más o menos "enrollada", si entiendes lo que quiero decir.}

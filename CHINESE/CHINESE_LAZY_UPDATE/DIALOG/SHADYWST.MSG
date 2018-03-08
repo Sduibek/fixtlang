@@ -1,0 +1,72 @@
+#
+# Shady Sands:
+#
+{100}{}{You earn 400 experience for returning Tandi to Shady Sands.}
+{101}{}{在南方，你看见一圈泥砖墙环绕着一个和平的村庄。}
+#
+# Vault 15:
+#
+{102}{}{一个小窝棚是这个区域留下的唯一的东西。幸运的是，你的记录显示出那有进入15号避难所的第二个入口。}
+#
+# Raiders:
+#
+{103}{}{You see a building to the northwest, with a series of tents nearby. The inhabitants look dirty and mean.}
+#
+# Junktown:
+#
+{104}{}{你遇到一个中等规模的小镇。用废车垒成的墙挡着简便入口。烟雾低沉地笼罩着小镇。}
+#
+# The Hub:
+#
+{105}{}{你在南方看见一个大城市。市区周围坐落着村子。这个荒漠绿洲中有许多生存者。}
+#
+# Necropolis:
+#
+{106}{}{你抵达了一个又黑又破的城市。只能看见很少的活物。死亡的恶臭环绕着这个区域。}
+#
+# Brotherhood of Steel:
+#
+{107}{}{在北方有一个用锁链围起来的小屋。有重兵在这个区域巡逻。}
+#
+# The Glow:
+#
+{108}{}{一个大的弹坑坐落在北方。}
+#
+# Military Base:
+#
+{109}{}{在东北方能看见变种人卫兵守在一个通向山脉的加强建筑附近。}
+#
+# Cathedral:
+#
+{110}{}{一座大型的，华丽的建筑通向天空。一群人在它前面漫无目的地行走。}
+#
+# Gun Runners/Adytum/Followers/Rippers:
+#
+{111}{}{在北方你能看见一个仓库，带着一个流着发光黏液的护城河。}
+{112}{}{一个巨大的，被加强的工厂，带着有涂鸦的墙和致命的炮门，在前方隐约可见。}
+{113}{}{部分重建的夜总会和小型的警戒前哨是附近帮派活动的明显征兆。}
+{114}{}{在城市的中心，一座大的被加强和重修的图书馆，令人陌生却又优雅地矗立着。你感到了和平的气息。}
+{115}{}{一个被围起来的村庄，被卫兵把守着，挑战似地坐落在南方。}
+#
+# StealthBoy:
+#
+{116}{}{你在地上看见一个大脚印。你搜索了这个区域但却没找到其他足迹。}
+#
+# ???
+#
+{117}{}{这个区域到处是被烧焦的痕迹和灰尘。}
+{118}{}{这个地方看起来被高压燃烧弹打击过。}
+{119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
+#
+# WastelandGhost, Restoration Mod
+#
+{150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
+{155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}
+#
+# Sduibek, Fallout Fixt:
+#
+{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
+{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
+{153}{}{You arrive at your destination only to find death and the desert wind.}
+{154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
+#

@@ -1,0 +1,71 @@
+{100}{}{Õ Jacob, fegyverkereskedõ.}
+{101}{}{Üdv! Üdvözöllek a boltomban. Remek áruim vannak. Nyugodtan nézz csak körül!}
+{102}{}{Szeretnék üzletet kötni veled.}
+{103}{}{Miket árulsz itt?}
+{104}{}{Mit tudsz nekem mondani egy bizonyos víztisztító csiprõl?}
+{105}{}{Mesélj magadról!}
+{106}{}{Áh, mindegy... viszlát!}
+{107}{}{akhar.}
+{108}{}{nEm akhar.}
+{109}{}{Csúcskategóriás fegyverekkel foglalkozom. A legjobb áru a Testvériség innensõ oldalán, és mivel õk nem foglalkoznak kívülállókkal, azt kell mondjam, én vagyok a legjobb. Van mesterlövész puskám, és a boltomat leszámítva eléggé nehezedre esne lángszóró-üzemanyagot találnod máshol a világban. Ja, igen... még Geiger számlálót is tartok. Nagyon ritka darab.}
+{110}{}{Mutasd akkor az árut!}
+{111}{}{Beszélj nekem a mesterlövész puskáról!}
+{112}{}{Mire jó az a Geiger számláló?}
+{113}{}{Talán késõbb beugrom majd. Viszlát!}
+{114}{}{Ember, látom a ritkaságokra buksz! Hol voltál, amikor kimerült urántölteteket árultam néhány évvel ezelõtt? Csipekkel nem foglalkozom, nincs benne üzlet. Valami egyébbel szolgálhatok?}
+{115}{}{Mutasd akkor az árudat!}
+{116}{}{Akkor mutasd meg, hogy mid van VALÓJÁBAN!}
+{117}{}{Mesélj magadról!}
+{118}{}{Hát, nem most jöttem le a falvédõrõl. Régen a Nukleáris Dolgozók Szövetségében ténykedtem. Olyasféle szervezet, mint a Testvériség, csak kevésbé barátságos. Nagyon maguknak való társaság volt, én pedig... én pedig világot akartam látni, és a saját fõnököm akartam lenni. Otthagytam õket.}
+{119}{}{Lássuk, mid van!}
+{120}{}{Mondd el akkor, mid van!}
+{121}{}{Mit tudsz nekem mondani egy bizonyos víztisztító csiprõl?}
+{122}{}{Örülök, hogy találkoztunk, barátom. Késõbb még lehet, hogy beugrok. Viszlát!}
+{123}{}{Ahh, a DKS egy remek nagy hatótávolságú fegyver. Eredetileg .308-asnak készült, de megbütyköltük, hogy megegye a .223-as lõszert. A csövet is megtuningoltuk, de ami a legfontosabb, nézd meg ezt az elsütõbillentyût! Fasza, mi? Úgy dolgozik, mint az álom. Mindent egybevetve, ez a fegyver nagyon jó választás, ha bármilyen állatra mész...}
+{124}{}{Jól hangzik. Nézzük, vajon összehozhatunk-e valami üzletet.}
+{125}{}{Mire tudok használni egy Geiger számlálót.}
+{126}{}{Talán késõbb beugrom majd. Viszlát!}
+{127}{}{Hogy mire tudod használni a Geiger számlálót!? [Felnevet] Habár már 80 éve lehajígálták a bombákat, a sugárzás még mindenütt ott van, te tökfilkó. Nem látod, mivel láthatatlan, de azért ott van. Bármibe le merném fogadni, hogy benned is van már néhány adag sugárzás. A pusztaságban lakókban mind van.}
+{128}{}{Mutasd, milyen eladó áruid vannak!}
+{129}{}{Mesélj valamit a sugárzásról!}
+{130}{}{Hogy mûködik az a Geiger számláló?}
+{131}{}{Tökfilkó!?! Te mindig sértegetni szoktad a vevõidet? Ha azt hiszed, hogy mostantól vásárolni fogok nálad, nagyon tévedsz.}
+{132}{}{Hát, néhányan Fantomhalálnak is nevezik, mivel az is. Nem látható, nem hallható, még csak nem is szagolható. Frankón beépül a szervezetedbe. Addig nem érzed, amíg már késõ. Minél többet jársz a Sugárzónák közelében, annál több megy beléd, és sosem megy ki belõled. Soha. A sugárzás egyre csak terjed benned. Hacsak... hacsak nem szerzel magadnak egy kis Rad-Away-t.}
+{133}{}{Nézzük, vajon összehozhatunk-e valami üzletet.}
+{134}{}{Hogy mûködik a Geiger számláló?}
+{135}{}{Hol találhatnék Rad-Away-t? Nem nagyon láttam még árusítani sehol.}
+{136}{}{Azta! Sokmindent tudsz! Úgy tûnik, nem most jöttél le a falvédõrõl.}
+{137}{}{Köszönöm az infót. Viszlát!}
+{138}{}{Ami azt illeti, elég egyszerû dolog. Ha használod, megmutatja, mennyi sugárzás van körülötted. Amíg a számláló 100 alatt van, nincs gond, ha 100 fölé kúszik, kezdõdik a balhé. Az a legrosszabb az egészben, hogy néhány napig nem is tudsz a testedbe jutott sugárzásról. Ha 1000 fölé mész, neked annyi, hacsak nem jutsz sürgõsen egy rakás Rad-Away-hez.}
+{139}{}{Nézzük, össze tudunk-e hozni valami üzletet.}
+{140}{}{Mit tudsz mondani a sugárzásról?}
+{141}{}{Nem érdekel ez a nehezen eladható bóvli. Minden jót!}
+{142}{}{Felejtsük el.}
+{143}{}{}
+{144}{}{mEnni.}
+{145}{}{Én menek.}
+{146}{}{Igen.}
+{147}{}{Nem. Csak körbenézek.}
+{148}{}{Nem akarok balhét. Ha üzletelni akarsz, üzleteljünk, ha nem, tágulj!}
+{149}{}{mEnni.}
+{150}{}{Én menek.}
+{151}{}{Lássuk, mid van.}
+{152}{}{Menj te a Fenébe! Oda megyek, ahova és amikor akarok!}
+{153}{}{Megyek...}
+{154}{}{Mi a jó büdös francot csinálsz te itt?!?!?}
+{155}{}{Nincs nálam egy sem. Ha találnék, megtartanám magamnak. Az utca végén lakik egy fickó, aki tudna esetleg segíteni. Vance-nek hívják. Ne kérdezz túl sokat tõle! Fogalmazzunk úgy, hogy ez az õ szakterülete. Csak mondd el neki, hogy én küldtelek, és nem lesz semmi gond!}
+{156}{}{Hogy mûködik a Geiger számláló?}
+{157}{}{Köszönöm az infót. Viszlát!}
+{158}{}{Tessék a kínálat.}
+{159}{}{Viszlát!}
+{160}{}{Köszönöm.}
+{161}{}{Ookééé.}
+{162}{}{A mutánsok tíz évvel ezelõtt kiirtották õket, szóval úgy gondolom, helyesen döntöttem. Késõbb itt telepedtem le. A zsaruk nincsenek oda az üzletem miatt, és kekeckedtek már párszor velem, de én legalább ezerszer becsületesebb vagyok, mint az itteni kereskedõk többsége.}#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+{163}{}{Hé, mi a nagy helyzet, barátom? Vásárolni szeretnél valamit?}
+{164}{}{Hé, mi a nagy helyzet, barátom? Vásárolni szeretnél valamit?}
+{165}{}{Jó a választékod, de nekem valami tökösebb dolog kéne. Van valami ötleted, hova mehetnék ezügyben?}
+{166}{}{Hát, próbálkozhatnál a Csonttelepen lakó Fegyverkészítõknél. Nekik valószínûleg van olyasmi cuccuk, amire neked van szükséged. Azt is hallottam, hogy a Testvériségi srácoknak is van egy-két dögösebb vasuk, szóval hozzájuk is nyugodtan beugorhatsz.}

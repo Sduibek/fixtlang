@@ -1,0 +1,68 @@
+#
+# Inventory messages from inventry.c
+#
+# TRANSLATION NOTE lines 0 to 6: Primary stats: Strength, Perception, Endurance, Charisma, Intelligence, Agility, Luck.
+{0}{}{СЛ}
+{1}{}{ВС}
+{2}{}{ВН}
+{3}{}{ПВ}
+
+# TRANSLATION NOTE line 4: Original was "IN" for Intelligence, but "INT" fits width of the others better. Not sure which will look better in non-English languages, you'll just have to try it and see. --Sduibek
+{4}{}{INT}
+{5}{}{ЛВ}
+{6}{}{УД}
+
+# TRANSLATION NOTE lines 7 and 8: Original is "Hit Points" and "Armor Class". If translations of these are too long to fit in the inventory menu (test in-game!), you can just use the translated equivalent of "HP" and "AC" instead. --Sduibek
+{7}{}{Здоровье}
+{8}{}{Класс брони}
+
+# TRANSLATION NOTE lines 9 to 13: damage type resistances
+{9}{}{  Обычн.}
+{10}{}{  Лазер}
+{11}{}{  Огонь}
+{12}{}{  Плазма}
+{13}{}{  Взрыв}
+
+# TRANSLATION NOTE line 14: The brackets do not really affect grammar or anything like that, they are just to have it look unique visually, to make it clear to player that the item (hand) slot is empty. --Sduibek
+{14}{}{[No item]}
+
+# TRANSLATION NOTE line 15: Damage of equipped weapon.
+{15}{}{Урон:}
+
+# TRANSLATION NOTE line 16: Range in hexes of equipped weapon.
+{16}{}{Д/б:}
+
+# TRANSLATION NOTE line 17: Original was "Ammo: " but the names and amounts of ammunitions fits better on the screen with that text removed. It's not needed. Please leave blank. --Sduibek
+{17}{}{} # leave blank
+
+# TRANSLATION NOTE line 18: Referring to an armor item in a hand slot.
+{18}{}{(Не надето)}
+
+# TRANSLATION NOTE line 19: Original was "You don't have enough action points to use inventory." This has been changed so that now it fits on 2 lines in the message box (see top of this file). --Sduibek
+{19}{}{Need more Action Points to access inventory.}
+
+# TRANSLATION NOTE line 20: Original was "Total Wt:", Wt being short for "Weight". I changed to lb for "Pounds" because the rest of the game uses pounds for measurements. --Sduibek
+{20}{}{Total lb:}
+{21}{}{ПЕРЕМЕСТИТЬ ПРЕДМЕТЫ}
+{22}{}{ВСЕ}
+
+# TRANSLATION NOTE line 23: Setting the timer on dynamite or plastic explosives.
+{23}{}{УСТАНОВИТЬ ТАЙМЕР}
+
+# TRANSLATION NOTE line 24: Original was "Unarmed dmg:" (note the lowercase "dmg"). Changed to Dmg to match line 15. This is display of damage dealt with bare fists (no item in item slot). --Sduibek
+{24}{}{Урон б/оруж.:}
+{25}{}{Вы не можете это взять. Ваше снаряжение имеет максимальный вес.}
+
+# TRANSLATION NOTE line 26: When an item cannot be placed, due to its size rather than its weight.
+{26}{}{Для этого предмета нет места.}
+
+# TRANSLATION NOTE lines 27 and 28: Lines the NPC will say during Barter.
+{27}{}{Хорошо, неплохая сделка.}
+{28}{}{Нет, ваше предложение мне не подходит.}
+
+# TRANSLATION NOTE line 29: %d is a number larger than 1.
+{29}{}{Вы получаете очки опыта (+ %d) за успешное применение навыка Кражи.}
+
+# TRANSLATION NOTE line 30: Same as line 20. Not sure where this is used in-game though, if used at all. --Sduibek
+{30}{}{Total lb:}
+

@@ -1,0 +1,112 @@
+{100}{}{Egy kimerült utazó.}
+{101}{}{Ez itt Lance, a Shady Sands-i õrök egyike, akit nagytávolságú járõrözésre osztottak be.}
+{102}{}{Maradj ott, ahol vagy! Hallottunk róla Shady Sands-ben, és nem kérünk belõled!}
+{103}{}{Én is csak annyit kérek belõled, amit magaddal cipelsz. Tedd le a földre mindenedet!}
+{104}{}{Békével jöttem, barátom.}
+{105}{}{Hé, talán nem én mentettem meg Tandit, és öltem meg az összes radskorpiót?}
+{106}{}{Nekem nincs semmilyen összetûzésem Shady Sands városával. Meglehetõsen kedvelem a helyet.}
+{107}{}{Herung?}
+{108}{}{Hallottam rólad, és nem fogom hagyni, hogy megölj.}
+{109}{}{Nincs mit mondanom számodra.}
+{110}{}{Valóban? Most épp mit akarsz?}
+{111}{}{Nem tudod véletlenül, hol találhatnék egy víztisztító csipet?}
+{112}{}{Van valami híre-hamva Tandinak?}
+{113}{}{A fosztogatók zargatnak titeket mostanában?}
+{114}{}{Hogy mennek a dolgok Shady Sands-ben?}
+{115}{}{Hnng!}
+{116}{}{Helló, idegen. Mi késztetett arra, hogy a pusztákat járd? Honnan jössz?}
+{117}{}{Ezt én is kérdezhetném tõled.}
+{118}{}{Elnézést, barátom, de van egy olyan sanda gyanúm, hogy ezt a kérdést nem volna tanácsos megválaszolnom.}
+{119}{}{Tudsz valami jó helyet, hogy frissítsem a készleteimet?}
+{120}{}{Egy Menedékbõl jöttem. A szerencsés 13-asból!}
+{121}{}{Aaah?}
+{122}{}{Helló, idegen. Ajánlom, hogy folytasd az utad, ha jót akarsz!}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+{123}{}{Helló, }
+{124}{}{. Azt hittem, hogy amikor megmentetted Tandit a barátunk lettél, de mostanában nagyon csúnya dolgokat hallottam róla. Kiváncsi lennék, igazak-e?}
+{125}{}{Az emberek össze-vissza fecsegnek mindenfélét. Érdekel is engem...}
+{126}{}{Nem vagyok a barátotok, és ha egy rossz mozdulatot teszel, kibelezlek. Veszed az adást?}
+{127}{}{Milyen csúnya dolgokat hallottál?}
+{128}{}{Hát igen... igazak. Most pedig tegyél a földre minden magadnál levõ holmit!}
+{129}{}{Lehet, hogy csináltam egy s mást, amit már megbánok, de jobb dolgod is lehetne, mint élbõl hitelt adni annak a sok marhaságnak.}
+{130}{}{. Hála istennek, hogy te vagy és nem valami fosztogató. Hogy s mint van sorod? Én Lance vagyok, az egyik Shady Sands-i õr. Bocs, hogy olyan mostohán bántunk veled, amikor elõször felbukkantál a városban.}
+{131}{}{Üdv, Lance, mi a nagy helyzet?}
+{132}{}{Üdv, Lance. Régen jó ember voltam, de az élet kicseszett velem. Most tegyél le mindent a földre szépen, és ne kelljen kétszer mondanom!}
+{133}{}{Ne parázz, Lance! Amúgy mit csinálsz itt egyedül?}
+{134}{}{Jól van, de ezt nem fogom elfelejteni.}
+{135}{}{Egyél te szart!}
+{136}{}{Ne akassz már hasba az ilyesmivel, fiam! Álmomban is magadfajta gyerekeket ölök. Na, add át szépen a holmidat, akkor talán életben hagylak.}
+{137}{}{Ha mindenképpen azt gondolod, hogy veszélyt jelentek, gyerünk, ölj csak meg!}
+{138}{}{Hát lássuk, milyen egy rossztett. Mindig akartam látni, milyen a belsõm.}
+{139}{}{Az akkor volt, most pedig most van. Mit tettél értünk az utóbbi idõben? Azt hiszem, jobb lesz, ha addig lelépsz, amíg nem szívom fel nagyon az agyam!}
+{140}{}{Mi is kedveljük, különösen, ha nem vagy ott. Na, szakadj le rólam!}
+{141}{}{Ember, te aztán jó sok idõt tölthettél az Izzásnál!}
+{142}{}{Sajnálom, de nem tudom, mi az a víztisztító csip.}
+{143}{}{Egy elektronikus eszköz, amit víztisztító rendszerekben használnak.}
+{144}{}{Hogy áll a radskorpió probléma?}
+{145}{}{A fosztogatók elkapták. A keresõcsapat tagja vagyok magam is. Szerintem a Shady Sands-tõl dél felé esõ fosztogatótanyára vitté, de a Khan-ok tiszta erõdítményt csináltak abból a helybõl.}
+{146}{}{El tudnál vinni Shady Sands-ig?}
+{147}{}{El tudnál vinni a Khan-okhoz?}
+{148}{}{Meg kell találnunk a módját, hogy kiszabadítsuk.}
+{149}{}{Kösz az információt. Sok szerencsét a kereséshez.}
+{150}{}{Öh, igen, egy kicsit jobban áll a szénánk, mióta a Khan-ok megkapták a magukét. Tudom, hogy ezt neked köszönhetjük. Hálásak is vagyunk érte.}
+{151}{}{Nem bánnám, ha valamelyest kimutatnád a háládat.}
+{152}{}{Kösz. Bármi egyebet tehetek érted?}
+{153}{}{Majd szólj, ha újra piszkálni kezdenének titeket!}
+{154}{}{Jól megvagyunk.}
+{155}{}{Biztos?}
+{156}{}{Ez remek.}
+{157}{}{Gõzöm sincs, te idóta.}
+{158}{}{Oké, bízom benned. Shady Sands-bõl, egy közeli kis közösségbõl jöttem.}
+{159}{}{El tudnál vinni oda?}
+{160}{}{Milyen az a város?}
+{161}{}{Találok ott víztisztító csipet?}
+{162}{}{Jó kis helynek tûnik.}
+{163}{}{Ha titkolózol, akkor én is titkolózom. Minden jót!}
+{164}{}{Lehet, hogy igen. Kár.}
+{165}{}{Voltam már Roncsvárosban, ha jól sejtem, dél-nyugat felé van innen, de már olyan sok napja utazom, hogy nem tudom megmondani.}
+{166}{}{Igen, persze. Amennyire én tudom, az összes Menedéket megsemmisítették. Mondj valami hihetõbbet!}
+{167}{}{Nem ezt kérdeztem... áh, mindegy!}
+{168}{}{Ez nem válasz. Bérgyilkosnak, tolvajnak, sírrablónak neveznek. Azt mondják, bárkit megölsz, aki az utadba kerül. Mennyire igazak ezek az állítások?}
+{169}{}{Hát, téged még nem öltelek meg, ezért valaki itt hazudik.}
+{170}{}{Eléggé. Jól elszórakoztam az utóbbi idõben.}
+{171}{}{Elég ellenséget gyûjtöttem magamnak, hogy az életben maradtak pocskondiázzanak.}
+{172}{}{Megöltem ugyan néhány alakot, igen, de mindig volt rá okom.}
+{173}{}{Bérgyilkosnak, tolvajnak, sírrablónak neveznek. Azt mondják, bárkit megölsz, aki az utadba kerül. Mennyire igazak ezek az állítások?}
+{174}{}{Oké, úgy lesz. De ha úgy viselkedsz, mint egy fosztogató, úgy is fogsz meghalni.}
+{175}{}{Kétségek közt hagylak egy kicsit, de azzal tisztában kell lenni, hogy az ember csak annyira jó, amennyire a hírneve engedi. A tiedre ráférne egy kis csiszolgatás. Jó lenne tenni valamit érte, mielõtt újra összefutnánk.}
+{176}{}{Megyek haza a városomba. Akarsz velem jönni? A társaság mindig jól jön.}
+{177}{}{Menjünk.}
+{178}{}{Ma nem jó.}
+{179}{}{Egy kicsit guberálgatok. Találtunk néhány elhagyatott fosztogató tábort, ahol még maradt egy-két használható ez meg az. Gyanítom, hogy egymást támadták meg a barmai. A lõszer meg a gyógyszer mindig jól jön.}
+{180}{}{Megbánom ezt még.}
+{181}{}{Takarodj a szemem elõl, mielõtt magamhoz térek!}
+{182}{}{Még mindig szoktunk látni néhányat. Valószínûleg a sivatag mélyérõl vagy az Izzástól jönnek. Mondjuk sokkal jobb most a helyzet, mint néhány esztendõvel ezelõtt, hála neked.}
+{183}{}{Jól hangzik. Viszlát!}
+{184}{}{Jó ötlet, induljunk!}
+{185}{}{Ember, szerintem én megkergültem, de azért jöhetsz. Indulás!}
+{186}{}{Kellemes öngyilkosságot, barátom! És sok szerencsét is, ami azt illeti.}
+{187}{}{Most indulnom kell. Vigyázz magadra!}
+{188}{}{Hát, nincs sokminden nálam, de az mind a tied lehet.}
+{189}{}{Nem jut eszembe egy sem. Most indulnom kell. Vigyázz magadra!}
+{190}{}{Úgy lesz. Most indulnom kell. Vigyázz magadra!}
+{191}{}{Na, jól van akkor, menjünk!}
+{192}{}{Egy potenciális ellenséget nem fogok az otthonomba cipelni. Ha valaha is bemerészkedsz Shady Sands-be, ne csináld a balhét, jó?!}
+{193}{}{Kicsi. Brahmintenyésztésbõl éldegélünk. Eléggé embert próbáló a vidék, és a legelõk nagyon sokat érnek.}
+{194}{}{Egy Brahmintenyésztõ koszfészekbe? Te megbolondultál! Lehet, hogy kétszáz mérföldre nincs használható áram.}
+{195}{}{Na, errõl van szó! Azt hiszem, ki kell nyitnunk a szemünket és külön utakon kell járnunk. A helyedben megpróbálnék tenni valamit a híresztelések ellen, hacsak nem kedveled a gyûlölködõ, bizalmatlan embereket.}
+{196}{}{Itt helyben meg kéne, hogy öljelek. Ha megint elém esz a fene, nem fogok habozni. Most pedig, tûnés innen!}
+{197}{}{Indulás!}
+{198}{}{Hadd találjam ki, valaki pletykálkodott a horkolásomról. Na, mindegy, vigyázz magadra!}
+{199}{}{Ez így van. Most indulnom kell. Vigyázz magadra!}
+{200}{}{Ott maradsz, ahol vagy! Nem tudom, hogy összejátszol-e azokkal a mutánsokkal, de ha igen, kinyírlak!}
+{201}{}{Miféle mutánsokkal?}
+{202}{}{Ki vagy te?}
+{203}{}{Mi történt veled?}
+{204}{}{Oké, ez jó.}
+{205}{}{Ru-huh?}
+{206}{}{A mutánsok ellepték Shady Sands-t. A legtöbb lakost kiirtották. Csak idõ kérdése, hogy a maradékot is elpusztítsák.}
+{207}{}{Nem érdekel, mit mondasz, mit kérdezel. Mindannyian halottak vagyunk! Mindannyian! És én még azt hittem, hogy a fosztogatók vagy a radskorpiók jelentik itt a rosszat... azok semmik hozzád képest! Ha! Ha ha ha!}
+{208}{}{Fogd be! Nincs kedvem beszélgetni! Azzal nem jutunk elõrébb. A beszédtõl csak elunom magam, mint a fene...}

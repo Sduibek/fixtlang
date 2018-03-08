@@ -98,7 +98,7 @@
 {466}{}{Cette ligne indique le nombre de femmes humaines que tu as brutalement tuées au cours de tes aventures.}
 {467}{}{C'est le nombre d'avenirs radieux que vous avez réduits à néant en tuant des enfants sans défense avec vos méthodes de sadique. Espèce d'enflure.}
 {468}{}{Nombre de gros et effrayants Super Mutants que tu as exterminés avec classe au cours de tes aventures.}
-{469}{}{C'est le nombre de goules mutantes que tu as tuées au cours de tes aventures. Mâles et femelles inclus. (Tu ne saurais pas faire la différence.)}
+{469}{}{C'est le nombre de goules mutantes que tu as tués au cours de tes aventures. Mâles et femelles inclus. (Tu ne saurais pas faire la différence.)}
 {470}{}{Cette ligne indique le nombre de Brahmines (vaches mutantes) que tu as transformées en côtelettes au cours de tes tribulations.}
 {471}{}{Nombre de Radscorpions mutants que tu as mis à mort au cours de ton aventure.}
 {472}{}{Nombre de mignons rats poilus que tu as éliminés de la chaîne alimentaire. Inclus tous les membres de la famille des rats.}
@@ -164,8 +164,8 @@
 {545}{}{.}
 
 # Used if player has Awareness
-{546}{}{et manie : %s.}
-{547}{}{et manie : %s avec %d/%d coups de %s.}
+{546}{}{ et manie : %s.}
+{547}{}{ et manie : %s avec %d/%d coups de %s.}
 
 # Examine text error messages
 {550}{}{\ nErreur : lookup_ val incorrecte !}

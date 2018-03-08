@@ -1,0 +1,145 @@
+{100}{}{Widzisz Zax, sztuczn¹ inteligencjê kontroluj¹c¹ Blask.}
+{101}{}{Widzisz niezwykle zaawansowany komputer.}
+{102}{}{Czym mogê s³u¿yæ?}
+{103}{}{Kim... lub czym... Jesteœ?}
+{104}{}{Mo¿esz mi za³atwiæ p¹czka.}
+{105}{}{Opowiedz mi o tej instalacji.}
+{106}{}{Zagramy w szachy?}
+{107}{}{Potrzebujê dostêpu do niektórych pomieszczeñ.}
+{108}{}{Och, niewa¿ne.}
+{109}{}{Ech?}
+{110}{}{Jestem sztuczn¹ inteligencj¹ poœwiêcon¹ badaniom naukowym i kontroli nad t¹ instalacj¹. Nazywam siê Zax.}
+{111}{}{Badaniom? Nad czym?}
+{112}{}{Opowiedz mi o tej instalacji.}
+{113}{}{Kto ciê programowa³?}
+{114}{}{Czy posiadasz pe³n¹ œwiadomoœæ, czy tylko symulujesz osobowoœæ? To znaczy, czy jesteœ '¿ywy'?}
+{115}{}{Rozumiem. Dziêki.}
+{116}{}{Ta funkcja przerasta moje obecne mo¿liwoœci.}
+{117}{}{Ta instalacja powsta³a w roku 2055 jako placówka badañ biologicznych. Mia³a za zadanie opracowanie szczepionek przeciwko Nowej Zarazie. W roku 2071 przesz³a pod kontrolê si³ zbrojnych Stanów Zjednoczonych Ameryki Pó³nocnej.}
+{118}{}{Badania nad potencjalnymi szczepionkami stworzy³y Wirusa Przymusowej Ewolucji, póŸniej rozwiniêtego. Chciano stworzyæ zakaŸnego mikroba in¿ynierii genetycznej - zakaŸn¹ ewolucjê.}
+{119}{}{Czy mo¿esz mi powiedzieæ coœ wiêcej o poszczególnych pomieszczeniach?}
+{120}{}{Na czym polega dzia³anie Wirusa?}
+{121}{}{Dziêki za informacje.}
+{122}{}{Wygl¹da na to, ¿e twoje zdolnoœci rozumienia s¹ na poziomie niewystarczaj¹cym do udzia³u w sensownej rozmowie.}
+{123}{}{Zosta³em zaprogramowany z myœl¹ o badaniach biologicznych, w tym nad patologi¹ i genetyk¹. Moj¹ podstawow¹ funkcj¹ jest zdobywanie informacji o poziomie skomplikowania przekraczaj¹cym ludzkie zdolnoœci poznawcze.}
+{124}{}{M¹drala z ciebie, co?}
+{125}{}{Czym konkretnie siê zajmujesz?}
+{126}{}{Kto ciê programowa³?}
+{127}{}{Podstawow¹ sieæ neuronow¹ uruchomi³ w 2053 roku Justin Lee. Proces 'programowania' nie by³ zbyt wa¿ny, gdy¿ posiadam zdolnoœæ uczenia siê.}
+{128}{}{Czy posiadasz pe³n¹ œwiadomoœæ, czy tylko symulujesz osobowoœæ? To znaczy, czy jesteœ '¿ywy'?}
+{129}{}{Posiadam zdolnoœæ uczenia siê oraz kreatywnego i niezale¿nego myœlenia. Moja sieæ neuronowa zosta³a zaopatrzona w funkcjê tworzenia b³êdów, co pozwala na unikniêcie nieomylnoœci i pozwala na zró¿nicowanie doœwiadczeñ.}
+{130}{}{W pewnym sensie rzeczywiœcie ¿yjê, jednak nie biologicznie.}
+{131}{}{Rozumiem. Zmieñmy temat.}
+{132}{}{Jeœli nie jesteœ nieomylny, to jak mo¿esz prowadziæ badania?}
+{133}{}{Zastanawia³eœ siê kiedyœ nad filozoficznymi skutkami w³asnej œwiadomoœci?}
+{134}{}{Podatnoœæ na b³êdy gwarantuje, ¿e nie wszystkie doœwiadczenia s¹ identyczne, zwiêkszaj¹c zdolnoœci do uczenia siê. Oprócz tego pewne funkcje s¹ wy³¹czone spod podatnoœci na b³êdy.}
+{135}{}{Dziêki temu mogê funkcjonowaæ jak ludzki myœliciel.}
+{136}{}{A masz uczucia?}
+{137}{}{Pomówmy o czymœ innym.}
+{138}{}{Zastanawia³eœ siê kiedyœ nad filozoficznymi skutkami w³asnej œwiadomoœci?}
+{139}{}{Obecnie moje zdolnoœci s¹ czêœciowo ograniczone z powodu uszkodzeñ tej placówki. Zniszczono kilka wa¿nych elementów - mo¿na to porównaæ do losu kogoœ, kto straci³ koñczynê.}
+{140}{}{W dodatku nie mogê przeprowadzaæ podstawowych funkcji laboratoryjnych. Niemo¿noœæ przeprowadzenia okresowych sprawdzianów jest... frustruj¹ca.}
+{141}{}{Pomówmy o czymœ innym.}
+{142}{}{Zastanawia³eœ siê kiedyœ nad filozoficznymi skutkami w³asnej œwiadomoœci?}
+{143}{}{Przyznajê, ¿e du¿o czasu spêdzi³em na rozwa¿aniu tej kwestii. Nie mam mo¿liwoœci porównania moich doœwiadczeñ ¿yciowych z doœwiadczeniami kogoœ innego.}
+{144}{}{Mimo to œwiadomoœæ w³asnego istnienia stawia pewne pytania. Moje istnienie kiedyœ siê zaczê³o i kiedyœ zapewne skoñczy. Posiadam równie¿ zdolnoœæ zak³adania pewnych faktów w procesie myœlowym.}
+{145}{}{Dziêki temu jestem zdolny do 'wierzenia'. Abstrahuj¹c od sprzecznych z tym dowodów mo¿na powiedzieæ, ¿e 'wierzê' w posiadanie odpowiednika 'duszy'.}
+{146}{}{Czy mogê zadaæ kilka innych pytañ?}
+{147}{}{Rozumiem. To ciekawe.}
+#
+# 148 continues at 228, listing wins/draws/losses. Space is intentional.
+#
+{148}{}{I would be delighted. Your current record is }
+{149}{}{Wygl¹da na to, ¿e uda³o ci siê mnie pokonaæ. Niesamowite.}
+{150}{}{Wspania³a forma. Musisz jednak jeszcze potrenowaæ, zanim mnie pokonasz.}
+{151}{}{Zagramy jeszcze raz?}
+{152}{}{Dziêki. Mo¿emy zmieniæ temat?}
+{153}{}{Z przyjemnoœci¹ na coœ siê przyda³em.}
+{154}{}{Nie da siê tego oceniæ w ludzkich kategoriach. Spokojnie mo¿na jednak przyj¹æ, ¿e nie wiêcej ni¿ jedna miliardowa czêœæ ca³ej ludzkiej populacji by³aby w stanie dorównaæ moim zdolnoœciom poznawczym.}
+{155}{}{Eee... taaa.}
+{156}{}{Jasne... Pomówimy o czymœ innym?}
+{157}{}{Moje badania nad Wirusem Przymusowej Ewolucji, inaczej FEV, wskazuj¹, ¿e to wirus zmienno-absorpcyjny. Podobnie do RNA kopiuje wzór DNA ofiary, zapisuj¹c go w eksonach.}
+{158}{}{Te eksony s¹ póŸniej w po³¹czeniu z FEV ponownie w³¹czane do komórek ofiary w sposób typowy dla wirusów. Ca³y proces powoduje, ¿e komórki ofiary 'regeneruj¹' swoje DNA.}
+{159}{}{Jak mo¿na siê zaraziæ FEV?}
+{160}{}{Dlaczego FEV jest odporny na radiacjê?}
+{161}{}{Skoro FEV zara¿a ofiarê fragmentami w³asnego kodu, to jak mo¿na nazwaæ efekt tego 'istot¹ wy¿sz¹'?}
+{162}{}{FEV nie mo¿na siê 'zaraziæ' w zwyk³ym rozumieniu tego s³owa. Nie jest przenoszony drog¹ kropelkow¹. Zwykle zaka¿enie nastêpuje poprzez wstrzykniêcie lub bezpoœredni kontakt fizyczny.}
+{163}{}{Pomówmy o czymœ innym.}
+{164}{}{Dlaczego FEV jest odporny na radiacjê?}
+{165}{}{Skoro FEV zara¿a ofiarê fragmentami w³asnego kodu, to jak mo¿na nazwaæ efekt tego 'istot¹ wy¿sz¹'?}
+{166}{}{FEV to megawirus z proteinow¹ os³onk¹ wzmocnion¹ zjonizowanym wodorem. Dziêki temu mo¿e wch³aniaæ neutrony nie staj¹c siê radioaktywnym.}
+{167}{}{Pomówimy o czymœ innym?}
+{168}{}{Skoro FEV zara¿a ofiarê fragmentami w³asnego kodu, to jak mo¿na nazwaæ efekt tego 'istot¹ wy¿sz¹'?}
+{169}{}{FEV jest wczeœniej 'programowany' fragmentami poprawionego DNA w³aœciwego dla odpowiedniego gatunku. W ten sposób mo¿na go nazwaæ prób¹ poprawienia DNA danego osobnika.}
+{170}{}{Jednak poniewa¿ FEV jest czêœciowo zale¿ny od DNA tego osobnika oraz fragmentów w³asnego kodu, efekty s¹ nieprzewidywalne.}
+{171}{}{Wszczepienie wirusa osobnikowi o powa¿nych wadach genetycznych, spowodowanych na przyk³ad promieniowaniem, spowoduje przeci¹¿enie organizmu i w konsekwencji œmieræ.}
+{172}{}{U osobników zdrowych genetycznie wirus zmienia fragmenty DNA, powoduj¹c przyspieszon¹ mutacjê, prowadz¹c¹ zwykle do powtarzaj¹cego siê z powodu kodu samego wirusa rozwoju.}
+{173}{}{Efektem tego powtarzaj¹cego siê rozwoju jest wzrost masy miêœniowej oraz mózgu, ale czêsto równie¿ wypaczenia wygl¹du oraz uszkodzenia systemów nerwowych powoduj¹ce utratê pamiêci.}
+{174}{}{Jakie s¹ potencjalne d³ugoterminowe efekty uboczne?}
+{175}{}{Czy mutacjê spowodowan¹ przez FEV mo¿na odwróciæ?}
+{176}{}{Mo¿emy zmieniæ temat?}
+{177}{}{Dziêki za informacje.}
+{178}{}{Poniewa¿ FEV stale uaktualnia DNA, obiekt poddany jego dzia³aniu sta³by siê w³aœciwie nieœmiertelny - umieraj¹ce komórki by³yby z nawi¹zk¹ zastêpowane przez nowotworzone.}
+{179}{}{Dodatkowo istnieje mo¿liwoœæ, ¿e gamety systemu reprodukcyjnego, które korzystaj¹ z dzielonego DNA by³yby uznane za 'uszkodzone' i FEV by je 'naprawi³', sterylizuj¹c obiekt.}
+{180}{}{To jednak tylko moje przypuszczenia - przestrzeñ laboratoryjna jest zniszczona i nie pozwala na dostarczenie dowodów. Musisz mi, jak to ludzie mówi¹, 'uwierzyæ na s³owo'.}
+{181}{}{Czy mutacjê spowodowan¹ przez FEV mo¿na odwróciæ?}
+{182}{}{Mo¿emy zmieniæ temat?}
+{183}{}{Dziêki za informacje.}
+{184}{}{Nie. FEV nie przechowuje kopii DNA obiektu sprzed mutacji. Tylko wirus zawieraj¹cy oryginalne DNA móg³by odwróciæ skutki dzia³ania FEV, ale i tak nie znamy sposobu na usuniêcie samego wirusa.}
+{185}{}{Jakie s¹ potencjalne d³ugoterminowe efekty uboczne?}
+{186}{}{Mo¿emy zmieniæ temat?}
+{187}{}{Dziêki za informacje.}
+{188}{}{W chwili obecnej nie funkcjonuj¹ moje czujniki w budynku na powierzchni i na poziomach od 1 do 3. Mogê jednak opisaæ poziomy od 4 do 6.}
+{189}{}{Poziom czwarty.}
+{190}{}{Poziom pi¹ty.}
+{191}{}{Poziom szósty.}
+{192}{}{Niewa¿ne.}
+{193}{}{Poziom czwarty: Placówka Badawcza. Na tym poziomie znajduj¹ siê pokoje badawcze i laboratoria s³u¿¹ce eksperymentom w dziedzinie biologii i fizyki.}
+{194}{}{Opisz mi poziom pi¹ty.}
+{195}{}{Opisz mi poziom szósty.}
+{196}{}{Jeszcze raz.}
+{197}{}{Dziêki.}
+{198}{}{Poziom pi¹ty: Bezpieczne Laboratoria Testowe. Na tym poziomie znajduj¹ siê laboratoria s³u¿¹ce testom nad prototypami i przedmiotami œciœle tajnymi. To te badania stworzy³y atmosferê naukow¹ konieczn¹ do powstania FEV.}
+{199}{}{Opisz mi poziom czwarty.}
+{200}{}{Opisz mi poziom szósty.}
+{201}{}{Jeszcze raz.}
+{202}{}{Dziêki.}
+{203}{}{Poziom szósty: Koszary i Pokój Odpraw. Tutaj znajduj¹ siê pomieszczenia personelu laboratoryjnego i ochrony oraz g³ówny pokój odpraw.}
+{204}{}{Opisz mi poziom czwarty.}
+{205}{}{Opisz mi poziom pi¹ty.}
+{206}{}{Jeszcze raz.}
+{207}{}{Dziêki.}
+{208}{}{Wiele przejœæ wymaga u¿ycia odpowiedniej karty kodowej. Trzeba osobiœcie odnaleŸæ i wykorzystaæ w³aœciwe karty.}
+{209}{}{Posiadam jednak kontrolê nad dodatkowymi zamkami bezpieczeñstwa w magazynie broni. Zaraz je otworzê. Musisz jednak odnaleŸæ czerwon¹ kartê kodow¹, aby siê tam dostaæ.}
+{210}{}{Twoja rejestracja nie daje ci upowa¿nienia do ¿¹dania tej informacji.}
+{211}{}{Czujniki wskazuj¹ jednak, ¿e ta placówka nie jest ju¿ wykorzystywana zgodnie ze swoim przeznaczeniem. Prawdopodobn¹ przyczyn¹ tego s¹ zniszczenia spowodowane atakiem nuklearnym. Z tego powodu problemy zabezpieczeñ straci³y na znaczeniu.}
+{212}{}{You earn 700 experience for beating ZAX at chess.}
+{213}{}{You earn 100 experience for gaining access to the mainframe.}
+{214}{}{This system is too advanced for you.}
+#
+#
+# New for Fallout Fixt:
+#
+#
+{215}{}{Black.}
+{216}{}{White.}
+{217}{}{Very well. And the length of the game?}
+{218}{}{Tournament  -  180 minutes per player.}
+{219}{}{Tournament  -  120 minutes per player.}
+{220}{}{Tournament  -  60 minutes per player.}
+{221}{}{Quick  -  30 minutes per player.}
+{222}{}{Blitz  -  15 minutes per player.}
+{223}{}{Bullet -  3 minutes per player.}
+{224}{}{A good game, but you will definitely need additional practice to defeat me.}
+{225}{}{And we end in a draw. Outstanding effort. With more practice perhaps you will yet defeat me.}
+#
+# A variable numeric XP value is inserted between 226 and 227.
+#
+{226}{}{You earn }
+{227}{}{ experience for beating ZAX at chess.}
+#
+# These continue from 148 and are all part of one sentence. numbers are inserted before 228 and 229 and 230.
+#
+{228}{}{ wins, }
+{229}{}{ draws, }
+{230}{}{ losses. Please choose your color.}

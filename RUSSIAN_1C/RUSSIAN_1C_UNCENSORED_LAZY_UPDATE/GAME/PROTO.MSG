@@ -1,0 +1,245 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+### Messages for Prototypes
+#
+#
+# strings
+#
+{10}{}{<Нет>}
+
+# Material Types
+{100}{}{Стекло}
+{101}{}{Металл}
+{102}{}{Пластик}
+{103}{}{Дерево}
+{104}{}{Земля}
+{105}{}{Камень}
+{106}{}{Цемент}
+{107}{}{Кожа}
+
+# Item Types
+{150}{}{Броня}
+{151}{}{Сосуд}
+{152}{}{Наркотик}
+{153}{}{Оружие}
+{154}{}{Боеприпасы}
+{155}{}{Разное}
+{156}{}{Ключ}
+
+# Scenery Types
+{200}{}{Портал}
+{201}{}{Лестница}
+{202}{}{Лифт}
+{203}{}{Низ лестницы}
+{204}{}{Верх лестницы}
+{205}{}{Общий ландшафт}
+
+# Damage Code Types
+{250}{}{normal_dam}
+{251}{}{лазер}
+{252}{}{огонь}
+{253}{}{плазма}
+{254}{}{электричество}
+{255}{}{ЭМИ}
+{256}{}{взрыв}
+
+# Caliber Types for weapons
+{300}{}{Нет}
+{301}{}{Ракета}
+{302}{}{Топливо для огнемета}
+{303}{}{Батарейка C}
+{304}{}{Батарейка D}
+{305}{}{.223}
+{306}{}{5 мм}
+{307}{}{Калибр 0,40}
+{308}{}{10 мм}
+{309}{}{Калибр 0,44}
+{310}{}{14 мм}
+{311}{}{12 калибр}
+{312}{}{9 мм}
+{313}{}{Шарики}
+{314}{}{RESERVED}#	was .45 cal
+{315}{}{RESERVED}#	was 2mm
+{316}{}{RESERVED}#	was 4.7mm caseless
+{317}{}{RESERVED}#	was HN needler
+{318}{}{RESERVED}#	was 7.62mm
+
+# Race Types
+{350}{}{Белая раса}
+{351}{}{Африканская раса}
+
+# Body Types
+{400}{}{Двуногое существо}
+{401}{}{Четвероногое существо}
+{402}{}{Робот}
+
+# Kill Types names
+{450}{}{Men:}
+{451}{}{Женщины}
+{452}{}{Дети}
+{453}{}{Супермутанты}
+{454}{}{Гули}
+{455}{}{Брамины}
+{456}{}{Радскорпионы}
+{457}{}{Rats:}
+{458}{}{Летуны}
+{459}{}{Кентавры}
+{460}{}{Роботы}
+{461}{}{Dogs:}
+{462}{}{Богомолы}
+{463}{}{Deathclaws:}
+{464}{}{The Master}#  Not displayed!
+
+# Kill type info descriptions
+{465}{}{This line shows the number of adult human males that you have permanently and forcefully removed from the gene pool.}
+{466}{}{This is the number of adult human females that you have brutally snuffed out during the course of your adventures.}
+{467}{}{This is how many bright futures of innocent defenseless human children you have shattered with your murderous ways. You cad.}
+{468}{}{This is the total number of big scary Super Mutants that you have skillfully massacred throughout the wastes.}
+{469}{}{This is how many irradiated zombie-like creatures you have laid to rest. Includes both males and females. (Not that they look any different to you anyway.)}
+{470}{}{This is the tally of how many brahmin (mutated two-headed cows) you have chopped up and butchered during your travels.}
+{471}{}{This line shows the number of huge mutated scorpions that you have exterminated as you strode the wastes.}
+{472}{}{This is the number of cute furry rats that you have eliminated from the food chain. Includes all members of the rat family.}
+{473}{}{This is the total number of strange mutated floating creatures that you have happily put to death.}
+{474}{}{This is the tally of how many freakish multi-headed many-legged Centaurs you have had the pleasure of executing.}
+{475}{}{The total number of robots that you have terminated with extreme prejudice, turned into spare parts, or otherwise disabled.}
+{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you jerk.}
+{477}{}{The total number of manti, or oversized mutated preying mantis-like insects, that you have squashed so far.}
+{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn.}
+{479}{}{You have killed the Master. Master! Master.}
+
+# Use text
+{480}{}{Вы видите: %s.}
+
+# Use Container text
+{485}{}{Вы обыскали %s.}
+{486}{}{Вы закрыли %s.}
+{487}{}{Закрыто.}
+
+# Look text
+{490}{}{Вы видите: %s.}
+{491}{}{Вы видите труп: %s.}
+{492}{}{Вы видите останки: %s.}
+{493}{}{Вы не видите ничего необычного.}
+
+# Examine text
+# These prepend to lines 518-524
+{500}{}{Труп}
+{501}{}{При смерти}
+{502}{}{Тяжело раненым}
+{503}{}{Раненым}
+{504}{}{Без повреждений}
+
+# Examine text messages
+{510}{}{AC Mod: %d}
+{511}{}{DR Mod: %d}
+{512}{}{Dmg Mod: %d/%d}
+
+# When examining. unhurt, wounded, almost dead, etc.
+{518}{}{Вы выглядите: %s}
+{519}{}{%s %s}
+{520}{}{Вы выглядите: %s.}
+{521}{}{%s %s.}
+{522}{}{Он выглядит: %s.}
+{523}{}{Она выглядит: %s.}
+{524}{}{Оно выглядит: %s.}
+{525}{}{%s has %d/%d hit points.}
+{526}{}{Осталось %d/%d зарядов типа %s.}
+
+# These append to lines 500-504
+{530}{}{, несколько конечностей искалечено.}
+{531}{}{, но конечности искалечены.}
+{532}{}{, несколько конечностей искалечено.}
+{533}{}{, но конечности искалечены.}
+{535}{}{He has %d/%d hit points}
+{536}{}{She has %d/%d hit points}
+{537}{}{It has %d/%d hit points}
+
+# Inventory items
+{540}{}{Весит %d фунта(ов).}
+{541}{}{Весит %d фунт.}
+{544}{}{,}
+{545}{}{.}
+
+# Used if player has Awareness
+{546}{}{ и несет на себе %s.}
+{547}{}{ и несет на себе %s с %d/%d зарядов типа %s.}
+
+# Examine text error messages
+{550}{}{Ошибка: lookup_val вне зоны действия!}
+{551}{}{Ошибка: obj_examine: proto_ptr не работает!}
+
+# Use text messages
+{580}{}{Вы используете предмет %s.}
+{581}{}{Вы применяете предмет %s на существо %s.}
+{582}{}{That does nothing of interest.}
+{583}{}{К вашему сожалению, это существо уже умерло.}
+{584}{}{Наклонившись, вы понимаете, что это существо уже умерло.}
+
+# This is relating to a critter being dead.
+{585}{}{Увы, слишком поздно.}
+{586}{}{С мертвецами это не работает.}
+
+# Flares, obviously
+{587}{}{Вы зажигаете фонарик.}
+{588}{}{Фонарик уже включен.}
+
+# Explosives
+{589}{}{Вы устанавливаете таймер.}
+{590}{}{Таймер уже активирован!}
+
+# Experience-Point messages
+{620}{}{You earn %d experience for killing: %s.}
+{621}{}{%s you earn %d experience.}
+
+# 622-626 prepend to line 621
+{622}{}{За победу над врагами}
+{623}{}{Убив своих противников,}
+{624}{}{Вы победили в бою и}
+{625}{}{За сокрушительную победу над противником}
+{626}{}{За победу над врагами без единой царапины}
+
+# Dialog messages
+{650}{}{[Готово]}
+{651}{}{[Дальше]}
+{652}{}{[More]}
+{653}{}{[Назад]}
+{654}{}{[Back]}
+{655}{}{[Continue]}
+{656}{}{Э-э...}
+{660}{}{Вы не видите, что там происходит.}
+{661}{}{Слишком далеко.}
+
+# Fallout2: Used in PM: CombatAI settings
+{670}{}{Okay.}
+{671}{}{Sure.}
+{672}{}{As you wish.}
+{673}{}{Whatever you say.}
+{674}{}{I'll try.}
+{675}{}{I can't do that.}
+{676}{}{I don't think I can do that.}
+{677}{}{Arf!}
+{678}{}{Woof!}
+
+# Not Enough AP message
+{700}{}{Need more action points.}
+
+# Book messages
+{800}{}{Вы читаете книгу.}
+{801}{}{Вы не узнаете ничего нового.}
+{802}{}{You learn about the practical application of science and technology.}
+{803}{}{You learn about mechanical and electronic repair procedures.}
+{804}{}{You learn better ways to heal injuries in the field.}
+{805}{}{You learn how to handle and maintain your guns better.}
+{806}{}{You learn a lot about wilderness survival techniques.}
+
+# Use on messages (and some extra stuff that Jesse needed)
+{900}{}{Препараты в докторском чемоданчике закончились.}
+{901}{}{Препараты в аптечке первой помощи закончились.}
+{902}{}{Вы не можете этого сделать во время боя.}
+{903}{}{Этот человек не будет с вами торговать.}
+{904}{}{Этому человеку нечего вам сказать.}
+{905}{}{Вы не можете взять этот предмет. Вы уже несете максимально возможный вес.}
+{913}{}{This critter can't carry anything.}

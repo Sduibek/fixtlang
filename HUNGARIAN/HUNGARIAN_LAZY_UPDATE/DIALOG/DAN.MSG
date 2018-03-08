@@ -1,0 +1,109 @@
+{100}{}{Õ Dan.}
+{101}{}{Segítség!}
+# Appends line 103 or 104 or 105 depending on character's age and gender.
+{102}{}{Hát üdvözöllek, barátom, isten hozott a Hubban. Hadd mutatkozzam be, az emberek csak úgy hívnak: "Dan, a Brahmin-mester". Én ütöm nyélbe az üzletet az összes itteni kereskedõvel és szemérmetlenül alacsony áron kínálom a szolgálataimat. Nos, ezek után mit tehetek érted?}
+{103}{}{fiatalember?}
+{104}{}{jóember?}
+{105}{}{kis hölgy?}
+{106}{}{Be akarok állni egy karavánhoz.}
+{107}{}{Öö, egész pontosan milyen szolgálatokról van szó?}
+{108}{}{Mi a fészkes fenéért kiabálsz azzal a szegény gyerekkel?!}
+{109}{}{Örg.}
+{110}{}{Nos, én ügyelek itt a karaván összes kocsijára meg brahminjára. Mindegy, mire van szükség, hozzám lehet jönni. A Nagy Hármas is velem üzletel.}
+{111}{}{Kiket takar az a Nagy Hármas?}
+{112}{}{Látom, te aztán fontos ember vagy.}
+{113}{}{Igazán? Ez jobb, mint gondoltam! Szeretnék csatlakozni a karavánhoz.}
+{114}{}{Hát... most mennem kell. Viszlát!}
+{115}{}{Micsoda? Tûnj innen a vérveres francba, te átkozott Sóher! Honnan veszed, hogy az idõmet fogom pazarolni egy ilyen semmirekellõre, mint te?}
+{118}{}{A jó életbe, fiú! Egész életedben barlangban laktál, vagy mifene? A Nagy Hármas a három legnagyobb kereskedõcsoportot jelenti a világon. Na, jó, lehet, hogy nem a világon, de egész jól lefedik a piacot. Legalább annyira, ameddig a szem ellát.}
+{119}{}{A jó életbe, kislány! Egész életedben barlangban laktál, vagy mifene? A Nagy Hármas a három legnagyobb kereskedõcsoport a világon. Na, jó, lehet, hogy nem a világon, de egész jól lefedik a piacot. Legalább annyira, ameddig a szem ellát.}
+{120}{}{Egyél szart, the brahmin-buzi!}
+{121}{}{Ja, hogy õróluk van szó... azt hittem, vakami másról beszélsz. Szóval hogyan csatlakozhatnék egy karavánhoz?}
+{122}{}{Oké, köszi. Viszlát!}
+{123}{}{Brahmin-buzi? Ez most sértés akart lenni? Nem azért a húsz fillérért, idegen, de a helyedben egy kicsit udvariasabb lennék az újsütetû ismerõsökkel. Annyira mondjuk nem érdekel engem, de a város telis-tele van mindenféle rosszarcú egyénekkel, akik bizony semmi perc alatt elnyiszálják a torkodat, ha rosszul nézel rájuk.}
+{124}{}{A picsába, te aztán jó rusnya egy rohadt disznó vagy!}
+{125}{}{Most megijedtem... Viszlát!}
+{126}{}{Semmi extra, esetleg egy kicsit szerencsés. Annyit még hozzátennék: hacsak nem akarsz balszerencsés lenni, egy kicsit udvariasabb lennék az újsütetû ismerõsökkel. Annyira mondjuk nem érdekel engem, de a város telis-tele van mindenféle rosszarcú egyénekkel, akik bizony semmi perc alatt elnyiszálják a torkodat, ha rosszul nézel rájuk.}
+{127}{}{A picsába, te aztán jó rusnya egy rohadt disznó vagy!}
+{128}{}{Ha te mondod...}
+{129}{}{Legalább az arcom nem úgy néz ki, mint egy mutáns valag. Az anyád bizonyára brahmin volt, apád meg patkány. Nyilván ettõl lehet, hogy ilyen éktelenül ronda vagy. Anyám, rondább vagy, mint én!}
+{130}{}{Az anyámról senki nem beszélhet így! Készülj a halálra!}
+{131}{}{Hát, nem volt rossz ez a szópárbaj, viszont van még egy-két hely, ahova el kell mennem, és van még néhány ember, akit ráncba kell szednem. Viszlát, Dan!}
+{132}{}{Jó kis duma ez, de nagyon elcsépelt. Gondolom, csak viccelsz. Nem hiszem, hogy kezet emelnél szegény öreg Dan barátodra.}
+{133}{}{Duma? Kezet emelni? Te félrebeszélsz! Mindjárt megmutatom én, mit emelek rád, te hullajelölt!}
+{134}{}{Hah! Kemény voltam, mi?}
+{135}{}{Nem mondom, egy kicsit bekeményítettél... Nem vagy egy elveszett kölyök. Mindenesetre jobb lesz, ha vigyázol a szádra! Rossz lenne látni egy ilyen remek beszélõkét veszendõbe menni.}
+{136}{}{Na, akkor ennyiben maradunk... viszlát, Dan!}
+{137}{}{Szóval hogy csatlakozhatom egy karavánhoz?}
+{138}{}{Viszlát! És tartsd távol magad a brahminoktól, te kis pondró!}
+{139}{}{Viszlát! És tartsd távol magad a brahminoktól, te kis ribanc!}
+{141}{}{Õrség! Rendõrség! Egy Õrült meg akar ölni!}
+{142}{}{Az a helyzet, hogy most nincs nálam üresedés, ezért valószínûleg meg kéne látogatnod a Nagy Hármast. A Kereskedõk Piacán áll egy hirdetõtábla, az talán jól jöhet. Annak segítségével szerzik - na meg persze mások is - a fiúkat.}
+{143}{}{Ezer bocsánat... természetesen a lányokat is.}
+{144}{}{Szóval nincs üresedés nálad? Ezek szerint te is kereskedõ vagy?}
+{145}{}{Hogy jutok el a Kereskedõk Piacára?}
+{146}{}{Oké, köszi.}
+{147}{}{Hát, nem egészen. Elég közeli munkakapcsolatban vagyok a kisebb kereskedõcsoportok többségével, és tudom, hogy nincs munkalehetõség.}
+{148}{}{Te tudod...}
+{149}{}{Oké, viszlát, Dan!}
+{150}{}{Szóval merre is van ez a Kereskedõpiac?}
+{151}{}{Csak menj végig ezen az úton, a Hub kellõs közepén megtalálod! Nem lehet eltéveszteni.}
+{152}{}{Ez nem a te dolgod, idegen.}
+{153}{}{Majd gondoskodom róla, hogy az én dolgom legyen, "idegen"!}
+{154}{}{Bocs, hogy belekotnyeleskedtem.}
+{155}{}{Üdv-üdv! Hogy ityeg a fityeg?}
+{156}{}{Be szeretnék állni egy karavánhoz.}
+{157}{}{Öö, egész pontosan miben is tudsz a segítségemre lenni?}
+{158}{}{Mi a fenéért kiabálsz azzal a szegény gyerekkel?!}
+{159}{}{Jól van. Viszlát!}
+{160}{}{Juk.}
+{161}{}{És most?}
+{162}{}{Mi a fenéért kiabáltál azzal a szegény gyerekkel?!}
+{163}{}{Semmit.}
+{164}{}{Juk.}
+{168}{}{Nézd, azt a "szegény" gyereket lopáson kapták. A rendõrség az én gondjaimra bízta, hogy faragjak embert belõle.}
+{169}{}{Ettõl még nem kell olyan szarul bánni vele!}
+{170}{}{Mér' baj, ha lop valaki?}
+{171}{}{Ja, az más! Leckéztesd csak meg!}
+{172}{}{Meg vagy gárgyulva? Így lehet a leggyorsabban megrohadni egy cellában, vagy étel, ruha és fegyverek nélkül számûzetni a világba.}
+{173}{}{Ez nem ad okot arra, hogy így bánj vele!}
+{174}{}{Óh, oké.}
+{175}{}{Lehet, hogy ebben az átkozott városban nem én vagyok a legjobb követendõ példa, de én vagyok az egyetlen, aki próbál segíteni az embereken. Te például mit tettél a társadalom jobbításáért?}
+{176}{}{Nyakra-fõre gyilkoltam szerte a világban!}
+{177}{}{Elnézést, félreismertelek téged.}
+{178}{}{Egyszerûen ki kellett volna nyírnod a kis férgét!}
+{179}{}{Ami azt illeti, lehetnél egy kicsit rendesebb vele. Nekem úgy tûnik, próbálja megemberelni magát.}
+{180}{}{Jól meg kéne korbácsolnod!}
+{181}{}{Szerinted az emberek öldöklése megoldja az igazi problémát?}
+{182}{}{Ja!}
+{183}{}{Eddig mûködött nekem!}
+{184}{}{Hmmm, talán nem.}
+{185}{}{Nem tudom.}
+{186}{}{Csalódást okozol. Olyannak tûntél, mint akinek értelmes fej szorult a két füle közé. Azzal, hogy megöljük õket, átmenetileg megoldódik a probléma, de ha igazi megoldást akarsz, a dolgok gyökeréig kell lenyúlni.}
+{187}{}{Hát igen, ahogy gondolod.}
+{188}{}{Öö, oké. Viszlát!}
+{189}{}{Te egy idióta vagy.}
+{190}{}{Hát... (szótlanul néz oldalra egy darabig)... talán igazad van. Eszemben tartom, de nem ígérhetek semmit.}
+{191}{}{Te most viccelsz? Attól még ennél is megátalkodottabb lenne! Lehet, hogy a módszereim hagynak kivetnivalót maguk után, de legalább tudom, mitõl lesz erõs és felelõsségteljes.}
+{192}{}{Igaz, ami igaz! A beteg ember megölése nem éppen a legjobb gyógymód. Jobb, ha találsz valami gyógyírt, különben megint felüti a fejét.}
+{193}{}{Nem viccelek, Einstein!}
+{194}{}{Hagyd abba a szájalást, egész belefájdul a fejem!}
+{195}{}{Öö, persze-persze... most mennem kell.}
+{196}{}{Próbáld meg egyszer, hogy a problémáidat nem csak fegyverrel akarod megoldani. Viszlát!}
+{197}{}{Francba, de meleg van ma!}
+{198}{}{Billy, te kis szaros! Jobban tennéd, ha abbahagyád a lábatlankodást!}
+{199}{}{Billy! Jobb, ha vigyázol, hogy a brahminok melegen legyenek, különben szíjat hasítok a hátadból!}
+{200}{}{Francba, kis pondró! Hagyd abba a szájalást és kezdj neki a munkának!}
+{201}{}{Mondtam, hogy hagyd abba a lábatlankodást!}
+{202}{}{Figyelmeztetlek, Billy!}
+{203}{}{A könnyebbik végét akarod megfogni, mi?}
+{204}{}{Bocs, kölyök, de nem beszélgetek. Törõdnöm kell az üzlettel.}
+{208}{}{Bocs, de nem beszélgetek. Törõdnöm kell az üzlettel.}
+{209}{}{Jobban teszed, ha nem zargatod Billyt, ma rengeteg teendõje van.}
+{210}{}{Menj el innen, sok az elfoglaltságom!}
+{211}{}{Miért csesztetnek engem állandóan az emberek? Nem látod, hogy dolgozom?}
+{212}{}{Ha munkát akarsz, eridj a Kereskedõkhöz! Nálam nincs üresedés.}
+{213}{}{Miért nem mész játszani a Máltai Sólyomba? Rengeteg dolgom van.}
+{214}{}{Mi a fészkes fenét csinálsz te itt? Tûnés kifelé!}
+{215}{}{Azt mondtam, kifelé! Nem viccelek! Szétloccsantom azt az elcseszett fejedet!}
+{216}{}{Ti szarháziak sosem tanultok?}

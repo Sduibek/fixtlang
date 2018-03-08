@@ -1,42 +1,42 @@
-########################## 
-#    "TELL ME ABOUT"     # 
-#      "my name"         # 
-#      (970-979)         # 
-########################## 
-{970}{}{C'est mon nom.} 
-{971}{}{C'est bien à moi que tu parles.} 
-{972}{}{Pourquoi tu poses des questions idiotes ? C'est moi.} 
-{973}{}{Oui, c'est mon nom.} 
-{974}{}{C'est bien moi. Autre chose ?} 
-{975}{}{C'est quoi, une interview ?} 
-{976}{}{J'ai pas vraiment le temps de raconter ma vie.} 
-{977}{}{C'est bien moi. Autre chose ?}  # 977 is a colloquial phrase sometimes used in American English. Not sure if there's a translated equivalent, if there isn't, just copy text from one of the other entries.  -Sduibek 
-{978}{}{J'aime pas parler de moi. Sujet suivant.} 
-{979}{}{Je suis pas un sujet d'étude; parlons d'autre chose.} 
-########################## 
-#    "TELL ME ABOUT"     # 
-#     "don't know"       # 
-#      (980-999)         # <-- goes to 999, even though original game didn't indicate this. 
-########################## 
-{980}{}{J'en sais rien.} 
-{981}{}{Je regrette. Pas la moindre idée.} 
-{982}{}{Jamais entendu parler.} 
-{983}{}{De quoi ?} 
-{984}{}{Qu'est-ce que tu baratines ?} 
-{985}{}{C'est une blague ? J'ai aucune idée de ce que c'est.} 
-{986}{}{Ca me dis rien.}  # 986 is a figure of speech.  -Sduibek 
-{987}{}{Non, ça me rappele rien.} 
-{988}{}{J'ai aucune idée de quoi tu parles.} 
-{989}{}{Est-ce que ça existe au moins ?} 
-{990}{}{J'ai aucune idée de quoi tu parles.} 
-{991}{}{J'aimerais pouvoir t'aider, mais j'ai jamais entendu parler de ça.} 
-{992}{}{Désolé, je sais pas ce que c'est.} 
-{993}{}{Mais de quoi tu parles ?} 
+##########################
+#    "TELL ME ABOUT"     #
+#      "my name"         #
+#      (970-979)         #
+##########################
+{970}{}{C'est mon nom.}
+{971}{}{C'est bien à moi que tu parles.}
+{972}{}{Pourquoi tu poses des questions idiotes ? C'est moi.}
+{973}{}{Oui, c'est mon nom.}
+{974}{}{C'est bien moi. Autre chose ?}
+{975}{}{C'est quoi, une interview ?}
+{976}{}{J'ai pas vraiment le temps de raconter ma vie.}
+{977}{}{C'est bien moi. Autre chose ?}  # 977 is a colloquial phrase sometimes used in American English. Not sure if there's a translated equivalent, if there isn't, just copy text from one of the other entries.  -Sduibek
+{978}{}{J'aime pas parler de moi. Sujet suivant.}
+{979}{}{Je suis pas un sujet d'étude; parlons d'autre chose.}
+##########################
+#    "TELL ME ABOUT"     #
+#     "don't know"       #
+#      (980-999)         # <-- goes to 999, even though original game didn't indicate this.
+##########################
+{980}{}{J'en sais rien.}
+{981}{}{Je regrette. Pas la moindre idée.}
+{982}{}{Jamais entendu parler.}
+{983}{}{De quoi ?}
+{984}{}{Qu'est-ce que tu baratines ?}
+{985}{}{C'est une blague ? J'ai aucune idée de ce que c'est.}
+{986}{}{Ca me dis rien.}  # 986 is a figure of speech.  -Sduibek
+{987}{}{Non, ça me rappele rien.}
+{988}{}{J'ai aucune idée de quoi tu parles.}
+{989}{}{Est-ce que ça existe au moins ?}
+{990}{}{J'ai aucune idée de quoi tu parles.}
+{991}{}{J'aimerais pouvoir t'aider, mais j'ai jamais entendu parler de ça.}
+{992}{}{Désolé, je sais pas ce que c'est.}
+{993}{}{Mais de quoi tu parles ?}
 {994}{}{T'es sûr que tu viens pas juste de l'inventer ?}
-{995}{}{Non, j'en sais rien.} 
-{996}{}{Désolé, jamais entendu parler.} 
-{997}{}{Je suis pas sûr, tu devrais demander à quelqu'un d'autre.} 
-{998}{}{Je sais pas, mais quelqu'un doit bien le savoir. Demandons autour de nous.} 
+{995}{}{Non, j'en sais rien.}
+{996}{}{Désolé, jamais entendu parler.}
+{997}{}{Je suis pas sûr, tu devrais demander à quelqu'un d'autre.}
+{998}{}{Je sais pas, mais quelqu'un doit bien le savoir. Demandons autour de nous.}
 {999}{}{Qu'est-ce qui te fait croire que j'en sais quelque chose ?}
 #
 # TRANSLATORS: Copy the blank entries into your language's OBJ_DUDE.MSG,

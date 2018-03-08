@@ -35,11 +35,11 @@
 {134}{}{Witaj ponownie.}
 {135}{}{Nied³ugo st¹d wyruszê. Na razie zbieram si³y.}
 {136}{}{Jeszcze raz dziêkujê.}
-// Tell me abouts
+# Tell me abouts
 {1000}{}{Bractwo}
 {1001}{}{Stali}
 {1002}{}{Talus}
-// Answers
+# Answers
 {1100}{}{To jedyny ratunek dla tej okaleczonej planety i jej mieszkañców. Bez pomocy jego cz³onków ludzkoœæ nie ma szans na przetrwanie.}
 {1101}{}{To jedyny ratunek dla tej okaleczonej planety i jej mieszkañców. Bez pomocy jego cz³onków ludzkoœæ nie ma szans na przetrwanie.}
 {1102}{}{To mój mentor i w ogóle wspania³y cz³owiek. Nie mogê siê doczekaæ, ¿eby go znowu zobaczyæ.}

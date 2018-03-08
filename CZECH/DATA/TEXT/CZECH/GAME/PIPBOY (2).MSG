@@ -11,23 +11,21 @@
 #
 # Special holiday dates
 #
-{100}{}{Šastnı Novı rok!}ÿÿÿÿÿÿ# New years
-{101}{}{Milujte se a mnote se!}ÿÿÿÿÿ# April fools
-{102}{}{Podaøilo se ti úspìšnì dokonèit hru Fallout. Apríl!}ÿÿÿÿÿÿ# April fools
-{103}{}{Den Svatého Somnambula!}ÿÿÿÿÿÿÿÿÿÿÿÿ# Shipping day!
-{104}{}{Den nezávislosti! Stálo to sice pár set miliónù mrtvıch, ale zùstali jsme nezávislí! Definitivnì!}ÿÿÿÿ# Independence day
-{105}{}{Halloween! e by ti mutanti byli nakonec jen zvláš povedené masky?}ÿÿÿÿÿÿÿÿÿÿÿ# Halloween
-{106}{}{Den Díkuvzdání! Kdy se tak èlovìk rozhlédne po té radioaktivní kráse okolo, copak to jde nepodìkovat?}ÿÿÿÿ# Thanksgiving
-{107}{}{Veselé Vánoce!}ÿÿÿÿÿÿÿÿÿÿÿ# X-mas
-
-#
+{100}{}{Šastnı Novı rok!}      # New years
+{101}{}{Milujte se a mnote se!}     # April fools
+{102}{}{Podaøilo se ti úspìšnì dokonèit hru Fallout. Apríl!}      # April fools
+{103}{}{Den Svatého Somnambula!}            # Shipping day!
+{104}{}{Den nezávislosti! Stálo to sice pár set miliónù mrtvıch, ale zùstali jsme nezávislí! Definitivnì!}    # Independence day
+{105}{}{Halloween! e by ti mutanti byli nakonec jen zvláš povedené masky?}           # Halloween
+{106}{}{Den Díkuvzdání! Kdy se tak èlovìk rozhlédne po té radioaktivní kráse okolo, copak to jde nepodìkovat?}    # Thanksgiving
+{107}{}{Veselé Vánoce!}           # X-mas#
 # System messages
 #
 {200}{}{VÍCE}
 {201}{}{ZPÌT}
 {202}{}{STATUS}
 {203}{}{Nemáš ádné úkoly.}
-{204}{}{NÁPOVÌDA}ÿÿ# clues gone
+{204}{}{NÁPOVÌDA}  # clues gone
 {205}{}{AUTOMAPY}
 {206}{}{VIDEO ARCHÍV}
 {207}{}{DATA}
@@ -85,17 +83,17 @@
 # Movie archive titles
 # Order must match the list (see gmovie.h)
 #
-{500}{}{InterPlay Logo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Not show in Pipboy
-{501}{}{MacPlay Logo}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ MacPlay version ,Not show in Pipboy
-{502}{}{Intro}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Not show in Pipboy
+{500}{}{InterPlay Logo}                 #Not show in Pipboy
+{501}{}{MacPlay Logo}                   #MacPlay version ,Not show in Pipboy
+{502}{}{Intro}                          #Not show in Pipboy
 {503}{}{Znièení Nádrí}
 {504}{}{Znièení Katedrály}
 {505}{}{Správcùv briefing}
-{506}{}{Vaultu 13 došla voda}ÿÿÿ# Death
-{507}{}{Invaze do Vaultu 13}ÿÿÿÿÿÿÿÿÿÿÿÿÿ Death
-{508}{}{Odchod z Vaultu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Man end
-{509}{}{Odchod z Vaultu}ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Woman end
-{510}{}{Ponoøení do Nádrí}ÿÿÿÿÿÿÿÿÿÿÿ# Death
+{506}{}{Vaultu 13 došla voda}   # Death
+{507}{}{Invaze do Vaultu 13}             # Death
+{508}{}{Odchod z Vaultu}                 # Man end
+{509}{}{Odchod z Vaultu}                 # Woman end
+{510}{}{Ponoøení do Nádrí}           # Death
 {511}{}{Vault 13 a voda}
 {512}{}{Vaultu 13 dochází voda}
 {513}{}{Rae zabíjí Vùdce}
@@ -105,7 +103,7 @@
 #
 #
 {600}{}{Status}
-{601}{}{Clues}ÿÿ# Clues gone
+{601}{}{Clues}  # Clues gone
 {602}{}{Automaps}
 {603}{}{Archives}
 {604}{}{Alarm Clock}

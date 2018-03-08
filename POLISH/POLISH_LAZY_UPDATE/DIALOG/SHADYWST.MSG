@@ -1,0 +1,72 @@
+#
+# Shady Sands:
+#
+{100}{}{You earn 400 experience for returning Tandi to Shady Sands.}
+{101}{}{Na po³udniu widzisz ceglan¹ œcianê otaczaj¹c¹ spokojnie wygl¹daj¹c¹ wioskê.}
+#
+# Vault 15:
+#
+{102}{}{Na tym obszarze nie pozosta³o nic poza ma³ym sza³asem. Na szczêœcie twoje dane mówi¹, ¿e znajduje siê tu zapasowe wejœcie do Krypty 15.}
+#
+# Raiders:
+#
+{103}{}{You see a building to the northwest, with a series of tents nearby. The inhabitants look dirty and mean.}
+#
+# Junktown:
+#
+{104}{}{Napotykasz œrednie miasto. G³ówne wejœcie jest zablokowane przez rz¹d z³omowanych pojazdów. Wokó³ unosi siê niewyraŸny opar.}
+#
+# The Hub:
+#
+{105}{}{Na po³udniu widzisz du¿e miasto, otoczone wianuszkiem farm. Ta pustynna oaza têtni ¿yciem.}
+#
+# Necropolis:
+#
+{106}{}{Zbli¿asz siê do ciemnego, rozk³adaj¹cego siê miasta. Nie widaæ wielu oznak ¿ycia. Ca³y teren przenikn¹³ zapach œmierci.}
+#
+# Brotherhood of Steel:
+#
+{107}{}{Na pó³nocy znajduje siê ma³y budynek otoczony siatk¹ z drutu. GroŸnie wygl¹daj¹cy stra¿nicy w ciê¿kich zbrojach patroluj¹ teren.}
+#
+# The Glow:
+#
+{108}{}{Na pó³nocy rozpoœciera siê du¿y krater.}
+#
+# Military Base:
+#
+{109}{}{Na pó³nocny wschód st¹d widzisz mutantów strzeg¹cych ufortyfikowanej pozycji wbudowanej w skaln¹ œcianê.}
+#
+# Cathedral:
+#
+{110}{}{Wielki, bogato zdobiony budynek wznosi siê ku niebu. Przed nim krêci siê bez celu ca³a masa ludzi.}
+#
+# Gun Runners/Adytum/Followers/Rippers:
+#
+{111}{}{Na pó³nocy widzisz magazyn otoczony fos¹ pe³n¹ œwiec¹cego siê œwiñstwa.}
+{112}{}{Przed tob¹ wy³ania siê du¿a, ufortyfikowana fabryka ze œcianami pomazanymi graffiti i groŸnie wygl¹daj¹cymi strzelnicami.}
+{113}{}{Miejscowy, czêœciowo odbudowany klub nocny i malutkie posterunki wyraŸnie zdradzaj¹ œlady dzia³alnoœci gangów.}
+{114}{}{W samym sercu miasta wznosi siê wielka, odbudowana i ufortyfikowana biblioteka. Budynek, jednoczeœnie zgrabny i groŸny, napawa ciê spokojem.}
+{115}{}{Na po³udniu czeka na ciebie ogrodzona i strze¿ona wioska.}
+#
+# StealthBoy:
+#
+{116}{}{Na ziemi widzisz ogromny œlad stopy. Przeszukanie najbli¿szej okolicy nie ujawnia ¿adnych innych œladów.}
+#
+# ???
+#
+{117}{}{Ten teren jest pokryty popio³em i œladami po¿aru.}
+{118}{}{Ten teren wygl¹da, jakby trafi³aby weñ wysokociœnieniowa bomba ogniowa.}
+{119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
+#
+# WastelandGhost, Restoration Mod
+#
+{150}{}{Before you lies a silent town, filled with corpses and carnage. Something horrible has happened here.}
+{155}{}{A structure surrounded by a chainlink fence is to the north. Looks like it's been damaged by an explosion. The stench of death here is almost unbearable.}
+#
+# Sduibek, Fallout Fixt:
+#
+{151}{}{This town is silent and ominous, littered with dead bodies. Something terrible has happened here...}
+{152}{}{The stench of death here is almost overwhelming. Super Mutants patrol the area.}
+{153}{}{You arrive at your destination only to find death and the desert wind.}
+{154}{}{You see the scene of a slaughter. There appears to be no survivors, although you can hear the faint sound of movement.}
+#

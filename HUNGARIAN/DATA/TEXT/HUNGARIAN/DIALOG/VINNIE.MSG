@@ -1,0 +1,77 @@
+# TRANSLATION NOTES
+# Vinnie is a gang leader, who is young and ruthless. He tries to sound tough
+# and is quite mean. He only respects people who are as ruthless and violent as
+# himself.
+
+{100}{}{Vinnie, a Skulz bandavezér.}
+{101}{}{A fiatalemberen rengeteg tetoválás van, a viselkedése pedig elég tenyérbemászó.}
+{102}{}{Szeretnék csatlakozni hozzátok, srácok.}
+{103}{}{A Skulz banda vadászterületén jársz, idegen. Jobb lesz, ha gyorsan kinyögöd, mit akarsz!}
+{104}{}{Bocsesz, rossz ajtón jöttem be...}
+{105}{}{Skulz? Kik vagytok ti valójában?}
+{106}{}{Örgh?}
+{107}{}{Az tutibiztos!}
+{108}{}{Mi vagyunk az egyetlen létezõ roncsvárosi banda. Mienk az utca, éjszakánként pedig mi uraljuk a várost.}
+{109}{}{Óh. elnézést. Szia!}
+{110}{}{Nektek még az iskolaudvar is sok lenne, okoska!}
+{111}{}{Én úgy tudtam, hogy éjszaka Gizmo itt az úr.}
+{112}{}{Tûnés innen, idióta!}
+{113}{}{Az a pacni még felállni sem tud magától. Ebben a városban mi vagyunk az erõ, bármire is legyen szükségünk, elvesszük.}
+{114}{}{Értem.}
+{115}{}{Van valami dolgotok Killian-nel?}
+{116}{}{Mi van?! Ezért a beszólásért megkapod a magadét!}
+{117}{}{Nem csesztetjük Killan-t, és amíg nem zavarunk sok vizet, õ sem csesztet minket. Vágod?}
+{118}{}{Jaja, na csá!}
+{119}{}{Vágom, vágom. Jó, ha kerülitek vele a közelebbi kontaktust.}
+{120}{}{Ezt senkitõl nem tûrjük el, Killian-tõl a legkevésbé! Csak azért, mert dicsfényben úszó seriffnek képzeli magát, nem jelenti azt, hogy ugráltathat bennünket!}
+{121}{}{Bocs, nem akartalak kiakasztani.}
+{122}{}{Szóval beletaposott a lelkivilágotokba, mi? Az enyémbe is. Azon gondolkodom, hogy le kéne nyomni, mint a bélyeget. Mit szólsz?}
+{123}{}{Le akarod nyomni Killian-t? Te meg vagy húzatva! Basszus, te nem tudod... na jó, benne vagyok.}
+{124}{}{Te gyík, azzal dicsekedtél, hogy lenyomod Killian-t! Tûnj innen a fenébe!}
+{125}{}{Gyerünk, intézzük el Killian-t!}
+{126}{}{Most meg mit akarsz?}
+{127}{}{Semmit, bocs.}
+{128}{}{Keresek valakit, aki segítene kiiktatni Killian-t. A Skulz banda egész ígéretesnek tûnt.}
+{129}{}{Francba, nem gondoltam volna, hogy megcsinálod! Mostantól a Skulz banda uralja a várost! Hejjjj!}
+{130}{}{Egyszer már átestünk ezen. Akkor nem volt vér a pucádban, szóval szakadj le innen rohadt gyorsan!}
+{131}{}{Szóval be akarsz állni hozzánk, mi? Honnan tudjam, hogy elég kemény vagy-e? Skulnak lenni nem piskóta dolog.}
+{132}{}{Majd mindjárt megmutatom, milyen kemény vagyok, te fasz!}
+{133}{}{Bebizonyítom neked, ha akarod.}
+{134}{}{Bízz bennem, elég kemény vagyok.}
+{135}{}{[Vinnie végigmér, aztán felnevet.] Aligha hinném.}
+{136}{}{Bebizonyítom neked, ha akarod.}
+{137}{}{Elég! Most meghalsz!}
+{138}{}{Igazad van, inkább elmegyek.}
+{139}{}{Mitõl olyan kemények a Skulz banda tagjai?}
+{140}{}{[Vinnie gondolkodik egy kicsit.] Ha azt akarod, hogy bevegyünk a bandába, lopd el nekem a vén majom feleségének hamvait. Hehe... [Vinnie magában mormog valamit] A vén Neal hadd szenvedjen az utolsó óráiban...}
+{141}{}{Rendben, megcsinálom.}
+{142}{}{Errõl szó sem lehet.}
+{143}{}{Öö, nem hinném, hogy kapható vagyok ilyesmire.}
+{144}{}{Már rég elloptam...}
+{145}{}{Ez nem nagy ügy. Nem akkora, mint gondolnád. Már jó ideje megöltem a mocskot.}
+{146}{}{Ha elég kemény vagy ehhez, "eselleg" beveszünk Skulnak. Ha megvan az a vacak, hozd el nekem!}
+{147}{}{Tudtam, hogy nem Skulz fából faragtak téged! Eridj innen a fenébe!}
+{148}{}{Na, megvan?}
+{149}{}{Meg.}
+{150}{}{Még nincs.}
+{151}{}{Az urnáért meg kellett ölnöm Nealt. Úgy visított, mint egy kislány.}
+{152}{}{Ha ha! Hadd szenvedjen a vén fasz, amíg ma éjjel ki nem csináljuk. Benne vagy a mókában?}
+{153}{}{Úgy döntöttem, inkább nem veszek részt az ilyen nudlipöcsök gyerekes dolgaiban.}
+{154}{}{Zúzzuk le az arcát!}
+{155}{}{Van még egy kis elintéznivalóm, de... ott találkozunk.}
+{156}{}{Mit fecsérled itt az idõmet, mi?}
+{157}{}{Ez majd észretéríti azt a vén köcsögöt. Kösz, hogy elintézted nekünk. [Vinnie szeme könnybe lábad.] Mostantól... Skul tag vagy.}
+{158}{}{Öö, rendben... késõbb találkozunk, de ne várass minket túl soká}
+{159}{}{Szóval Neal hamarosan megkapja a magáét, mi?}
+{160}{}{Megmondtuk, hogy még látjuk egymást, vén szaros!}
+{161}{}{Egy rakás vendég érkezik a bárba...}
+{162}{}{Baszódj meg, rohadt zsaru!}
+{163}{}{Neal urnájának eltulajdonításáért 400 tapasztalati pontot kapsz. A holtak már sosem nyugodhatnak békében...}
+{164}{}{Amiért kicsináltad Nealt, 300 tapasztalati pontot kaptál, Skul.}
+{165}{}{Készen állsz, hogy lenyomd Nealt?}
+{166}{}{Ja, tegyük hidegre a mocsadékot.}
+{167}{}{Nem-nem, még van egy kis dolgom.}
+{168}{}{Inkább nem. Kiszállok.}
+{169}{}{Ehhez már túl késõ, kispofa. Ha kiszállsz, az végleges lesz. Sõt, végzetes...}
+{170}{}{Mienk a város!}
+{171}{}{Öcsém, mienk a város!}

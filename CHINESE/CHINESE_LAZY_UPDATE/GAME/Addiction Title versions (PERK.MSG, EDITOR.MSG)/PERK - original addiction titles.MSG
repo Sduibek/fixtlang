@@ -1,0 +1,176 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#  Messages from perk.c
+#
+#
+#  PERK NAMES
+#
+#
+{101}{}{警觉力}
+{102}{}{快速徒手攻击}
+{103}{}{额外的空手伤害}
+{104}{}{额外的出手机会}
+{105}{}{额外的攻击距离}
+{106}{}{额外的开火速度}
+{107}{}{先发制人}
+{108}{}{快速恢复}
+{109}{}{更多的致命一击}
+{110}{}{夜视能力}
+{111}{}{现身}
+{112}{}{辐射抵抗力}
+{113}{}{强悍过人}
+{114}{}{善背}
+{115}{}{神射手}
+{116}{}{衔枚疾走}
+{117}{}{适者生存}
+{118}{}{大奸商}
+{119}{}{知识份子}
+{120}{}{医疗师}
+{121}{}{寻宝者}
+{122}{}{更强的致命一击}
+{123}{}{神入}
+{124}{}{杀手}
+{125}{}{狙击手}
+{126}{}{暗杀}
+{127}{}{活力小子}
+{128}{}{意志力}
+{129}{}{强韧生命力}
+{130}{}{闪躲高手}
+{131}{}{吃蛇人}
+{132}{}{维修大师}
+{133}{}{医学常识}
+{134}{}{神偷}
+{135}{}{发言人}
+{136}{}{飞刀手！}
+{137}{}{辨识敌友}
+{138}{}{妙手空空}
+{139}{}{神出鬼没}
+{140}{}{八面玲珑}
+{141}{}{搜寻者}
+{142}{}{探险家}
+{143}{}{高免役力}
+{144}{}{寻路者}
+{145}{}{动物之友}
+{146}{}{斥侯}
+{147}{}{神秘陌生人}
+{148}{}{野外专家}
+{149}{}{快速翻找}
+{150}{}{舌灿莲花}
+{151}{}{聪明过人}
+{152}{}{增加特长技能}
+{153}{}{突变！}
+#
+#
+# ADDICTIONS
+#
+#
+{154}{}{上了核子可乐的瘾}
+{155}{}{上了壮大灵的瘾}
+{156}{}{上了曼他特的瘾}
+{157}{}{上了疯狂药的瘾}
+{158}{}{上了辐射药的瘾}
+{164}{}{Alcohol Addiction} #was Combat Armor
+#
+#
+# WEAPON PERKS
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in weapon bonuses
+#
+{159}{}{长程武器}
+{160}{}{武器准确度}
+{161}{}{武器穿透度}
+{162}{}{武器震撼力}
+{163}{}{动力装甲}
+#
+#
+#  PERK DESCRIPTIONS
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{201}{}{You have honed your ability to notice details about people and the world around you. For example, Awareness will show you the exact number of hit points and weapon held when you perform an Examine on a person.}
+{202}{}{你学到了东方的神秘技巧，或者你只是拳出的很快而已。无论如何，你的空手攻击将会少使用1点的动作点数。}
+{203}{}{熟悉空手攻击技巧让你有更高的破坏力。你在空手或是武器攻击时每个等级都会造成+2的伤害。}
+{204}{}{这种能力每提高一级你都会在每一轮得到2点的动作点数。也就是说，每一个等级中，你都可以多移动2格。}
+{205}{}{你在长程武器和枪炮方面的训练让你的长程攻击力大增。在每一个等级中若使用长程武器，你都会造成+2的伤害。}
+{206}{}{这个能力可以让你更快的开火，同时保有原来的准头。每种长程的武器在使用上都会少用1个动作点数。}
+{207}{}{在每一个等级中，你的战斗顺序点数都会+2，因此你在一个战斗之中几乎都可以比你的敌人先移动。}
+{208}{}{在每一个等级中，你都会得到+1的治疗速率。这是在普通速率上面另外加上去的点数，因此，你自我疗伤的速度会更加的快。}
+{209}{}{你在战斗中将可更容易的使出特别攻击。这能力的每一级都会增加5%的特别攻击使出机会。}
+{210}{}{当你拥有这项能力后，在夜晚与地道中你可以看得更清楚。这能力的每一级会将画面的阴暗度减少10%。}
+{211}{}{你只要进入房间内就会特别引人注意。别人对你的第一印象在每个等级都会增加10%。}
+{212}{}{你将会变得较能抵抗放射线伤害。每个等级都会增加10%的放射线免疫力。}
+{213}{}{当你有壮大的体格时，就比较不易受到伤害。每个等级都会增加10%的普通攻击免疫力。}
+{214}{}{每个等级你都可以多背50磅的物品。}
+{215}{}{The talent of hitting things at longer distances. You get a +2 bonus, for each level of this Perk, to Perception for the purposes of determining range modifiers. This DOES have an effect at PER of 9 & 10.}
+{216}{}{拥有这能力之后你可以更快的移动，但是仍然不会发出声音。如果没有这项能力，只要一跑步就会跳出潜行模式。}
+{217}{}{You are a master of the outdoors, surviving in hostile environments where others would surely perish. For each level of this Perk, you receive +20% to your Outdoorsman skill, and an additional +20% in wilderness survival situations.}
+{218}{}{你得到了讨价还价的能力，现在你可以用更便宜的价钱买到许多物品。当你有这项能力时，你与商店或者是商人买东西时都会得到七五折的优待。}
+{219}{}{每个等级都会让人物在升级时增加+2点的技术点数。你越早得到这一项能力，对你越有利。}
+{220}{}{拥有这项能力，对你的治伤技术会有很大的帮助。每个等级都可以让你在治伤时多治2～5的生命点数。}
+{221}{}{You have the talent of finding money, or just tend to get lucky. You will find additional bottle caps in random encounters in the wasteland.}
+{222}{}{你在战斗时所使出的特别攻击将具有更高的伤害力。你在特别攻击表中将会多得20%的点数，也就是说，攻击时会造成更大的伤害。不过这将不会影响使出特别攻击的机率。}
+{223}{}{你对于人们都有著相当的研究，让你可以很清楚的了解他们的心情。你在与他人长谈时可以看到他们目前对你的感觉为何。}
+{224}{}{你是世上一流的杀手！在空手攻击时你的每一击都会变成特别攻击，造成相当强的杀伤力。}
+{225}{}{你对于长程武器相当的拿手。拥有这个能力，每当你成功的使用长程武器攻击敌人时，每一击都会变成特别攻击。}
+{226}{}{当你在潜行的模式并从敌人背后攻击，你的空手攻击破坏力都会变成双倍。}
+{227}{}{每个等级的能力都会给予你更多的动作点数。}
+{228}{}{这一种能力可以让你不受到外界的脑波干扰。你只能从别人的身上学到这种技术，或是每天到酒吧待到很晚也可以练成这种技术。}
+{229}{}{With each level of this Perk, your Maximum Hit Points increases by 4. You also gain an addition 4 Hit Points per experience level earned. This may not seem like a lot, but every little bit helps.}
+{230}{}{如果你拥有这项能力，在战斗中你就比较不会被打中。你会增加+5点到你的防御点数之中。}
+{231}{}{嗯！好喝！每个等级你的毒免疫力都会增加25%。}
+{232}{}{这个能力会增加20%的维修以及科学技术点数。不过只会增加一次。}
+{233}{}{这个能力会增加20%的急救以及治疗技术点数。不过只会增加一次。}
+{234}{}{一次性的增加+10的潜行、偷窃、开锁和陷阱技术点数。}
+{235}{}{这个技术可以让你的演说能力增加20%，只会增加一次。}
+{236}{}{每个等级都会增加2点的力量（最高10点）。}
+{237}{}{如果拥有这个技能，你队伍中的角色在战斗中会以绿色高亮边框显示。而红色高亮边框的角色也未必就是敌人。}
+{238}{}{你将比一般小偷拥有更高深的偷窃技术。因为当你得到这个能力时，你在偷东西时无论敌人是谁，你都能以平常心去进行偷窃的工作。}
+{239}{}{当太阳下山时，或是当你到达一个没有灯的地方，你都可以像鬼魂一样移动而不被他人发现。你的潜行能力会在黑暗中增加20%。}
+{240}{}{你在人心目中的印象将会永远是正面的。没有这个能力的话，你的名誉将会改变他人对你的看法。对于邪恶的人来说，他们也会对你有好印象，以为你也是邪恶的人。}
+{241}{}{你比别人都容易找到武器的弹药。这个能力会让你每一次找到弹药的数量变成双倍。}
+{242}{}{探险家最主要的目的就是寻找新的东西及地方。当你有这个能力时，你找到特别地方或是人物的机率就会增加。}
+{243}{}{当你拥有这个能力时，你就比较不容易上化学药品的瘾。（上瘾机率会变成平常的50%）就算你上瘾后，回复正常的速度也是别人的两倍。}
+{244}{}{这个能力可以让你较容易找到最短的捷径。这个能力的每个等级都会将你在世界地图上移动的时间减少25%。}
+{245}{}{动物们都不会攻击他们自己的朋友，除非他们首先受到了攻击或是遭到了威胁。}
+{246}{}{你远眺的能力增强了，在世界地图上看到范围的每个方向将会增加一格。}
+{247}{}{当你有这个能力时，你将会得到神秘陌生人更多的注意，这些陌生人将会随时出现助你一臂之力。不过，他们将不会代替你死去的战友。}
+{248}{}{你的户外求生能力将会增加15%。你在路上遇到的敌人将会减少许多，不过却会时常的遇到“特别”的事件。}
+{249}{}{你学会如何将物品作更有效的整理。这能力可以让你拿取背包内物品时，每一级少用1点动作点数。}
+{250}{}{你的对话反应选项会增加，虽然你并不知道你在说什么。这个能力的每个等级都会增加1点的智力点数，直到最高10点为止。这一些增加的点数只对谈话有效。}
+{251}{}{拥有这个能力，你就是个学习速度快的人。当你每一次升级时都会多得到5%的点数可以使用。因此越早得到这个能力对你越有利。}
+{252}{}{你可以再选择另一个“特长技能”了。“特长技能”的点数比普通技能点数增加的速度要快两倍。}
+{253}{}{在荒野中的放射线已经改变了你的体质！你的其中一种特徵已经变成了另一种特徵了……}
+#
+#
+# ADDICTION MESSAGES
+#
+#
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{254}{}{You crave another Nuka-Cola, the delicious thirst-quenching soda pop.}
+{255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
+{256}{}{You feel groggy and slow. Your brain itself seems to ache...}
+{257}{}{You feel light-headed and irritable. Where's that spare syringe?}
+{258}{}{You feel nauseous and need a fix. Just one more pouch, that's all!}
+{264}{}{You just want a hard drink; it's everyone else that has the problem.}
+#
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in item bonuses
+#
+{259}{}{长程武器}
+{260}{}{武器准确度}
+{261}{}{武器穿透度}
+{262}{}{武器反弹力}
+{263}{}{动力装甲}
+# 264 is above
+#
+# Sduibek, Fallout Fixt - for some reason the game crashes if you create new line 265 used for Alcohol Addiction, so using this line instead.
+# 	(264 was "Combat Armor")

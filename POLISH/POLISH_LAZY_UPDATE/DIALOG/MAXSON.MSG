@@ -1,0 +1,345 @@
+{100}{}{To genera³ Maxson.}
+{101}{}{O co naprawdê chodzi z Bractwem?}
+{102}{}{Za³o¿ê siê, ¿e wiesz bardzo du¿o o historii Bractwa.}
+{103}{}{S³ysza³eœ jakieœ ciekawe pog³oski?}
+{104}{}{Mam pewne informacje do zameldowania.}
+{105}{}{To wszystko. Dziêki.}
+{106}{Gen_1}{Witaj, m³odziku. Cabbot mówi³, ¿e chcesz porozmawiaæ. S³uchaj, ja ee... mam teraz ca³kiem sporo na g³owie, wiêc ee... pomogê ci, jeœli nie bêdziesz za du¿o k³apaæ szczêk¹. No wiesz, obcy tacy s¹, zawsze glêdz¹... Hehehe. Trochê jak ja, co?}
+{107}{}{Obcy? Kogo masz przez to na myœli?}
+{108}{}{No to mo¿e zadam ci parê pytañ?}
+{109}{Gen_2}{Nie mogê. Ja tylko moderujê te cholerne, niekoñcz¹ce siê zebrania. Jest czworo Starszych i ja, rozumiesz? Gaszê awantury i rozstrzygam, gdy g³osy dziel¹ siê po równo. No, a jeœli ca³a czwórka zag³osuje, ¿e mamy d³ubaæ w nosach, kiedy w³aduje siê tu armia i skopie nasz zbiorowy ty³ek, to mogê zrobiæ diabelnie ma³o, by siê tak nie sta³o.}
+{110}{}{A, trudno.}
+{111}{}{Do dupy z tym. Dlaczego nie zrobisz czegoœ w tej sprawie?}
+{112}{Gen_2a}{Tradycja. Trudno jest zmieniæ nasze zwyczaje. No, mo¿e gdyby Starsi dostali jakieœ prawdziwe informacje, to ruszyliby g³ow¹ i coœ zrobili.}
+{113}{Gen_3}{Kadetów nie urodzonych tutaj. Jesteœ pierwszym obcym, któremu pozwoliliœmy siê przy³¹czyæ, od bardzo, bardzo dawna. Có¿, teraz to ju¿ prawie dwadzieœcia lat. }
+{114}{}{Czemu daliœcie mi szansê?}
+{115}{}{Pochlebia mi to. Mogê ci teraz zadaæ parê pytañ?}
+{116}{Gen_4}{Bo musimy coœ zrobiæ. Gromadzi siê jakaœ armia, karawany z Hubu znikaj¹, a nasi zwiadowcy - to pewne jak diabli - nie wykonuj¹ swojej roboty. Wiêc Starsi faktycznie raz coœ zrobili, i wykombinowali, ¿e w³aœciwy obcy mo¿e mieæ coœ do zaoferowania Bractwu. Tym obcym jesteœ ty... Mamy tak¹ nadziejê.}
+{117}{}{Co to za armia?}
+{118}{}{Co jest z tymi zaginionymi karawanami?}
+{119}{}{Hmm. No to chyba muszê poprosiæ o jeszcze parê rzeczy.}
+{120}{}{W czym le¿y problem ze zwiadowcami?}
+{121}{}{Mam pewne informacje, z którymi mo¿esz chcieæ siê zapoznaæ.}
+{122}{Gen_5}{Kiedy us³yszeliœmy o zaginionych karawanach, wys³aliœmy paru zwiadowców na wschód i pó³noc. Ci, którzy poszli na pó³noc, nie powrócili. Jeden wróci³ ze wschodu. Gada³ o dwudziestce dziwnych istot, które maj¹ same miêœnie i gorej¹ce oczy. Starsi maj¹ to w dupie, ale ja mimo to siê przygotowujê.}
+{123}{}{Dwudziestka to nie armia. Dlaczego siê niepokoisz?}
+{124}{}{Wygl¹da na to, ¿e wasz goœæ za d³ugo wygrzewa³ siê na s³oñcu.}
+{125}{}{Zrobiê co w mojej mocy.}
+{126}{}{Czy ten goœæ powiedzia³, gdzie na wschodzie one by³y?}
+{127}{}{Mam pewne informacje, z którymi mo¿esz chcieæ siê zapoznaæ.}
+{128}{Gen_6}{Moi ludzie mog¹ byæ dobrymi zwiadowcami albo nie, ale nie kwestionuj ich prawdomównoœci. Twój status kadeta mo¿emy uniewa¿niæ w ka¿dej chwili.}
+{129}{}{Wygl¹da na to, ¿e potrzebujecie mnie bardziej, ni¿ ja was.}
+{130}{}{Przepraszam.}
+{131}{Gen_7}{Przebra³a siê miarka. Ostrzega³em Starszych, ¿e wprowadzenie obcego mo¿e oznaczaæ k³opoty. [Gen. Maxson krzyczy na bok.] Stra¿! Kadet tutaj potrzebuje trochê spokoju, by siê nauczyæ nieco manier. }
+{132}{Gen_8}{Jesteœ z zewn¹trz, ale oczekujê, ¿e nauczysz siê naszych zwyczajów. Bêdê mia³ na ciebie oko. No, zadawaj twoje pytania. }
+{133}{Gen_9}{Dobrze. Chcesz jeszcze o coœ spytaæ? }
+{134}{Gen_10}{G³êboko w górach. Nie by³ w stanie podaæ wiêcej szczegó³ów.}
+{135}{}{Szkoda. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{136}{}{A co z pó³noc¹?}
+{137}{}{Mów dalej. }
+{138}{Gen_11a}{Ta, odpalaj.}
+{139}{Gen_11b}{Pewnie.}
+{140}{Gen_11c}{Strzelaj.}
+{141}{Gen_12}{Czujê w koœciach, ¿e jest ma³a grupa na wschodzie i o wiele wiêksza na pó³nocy. Starsi siedz¹ i porastaj¹ kurzem, bo z pó³nocy ¿aden ze zwiadowców nie wróci³. Ja mogê tylko patrzeæ.}
+{142}{}{Có¿, zrobiê co w mojej mocy.}
+{143}{}{Dlaczego nie zrobisz czegoœ w tej sprawie?}
+{144}{}{To chyba mnie trochê przerasta. Nie licz na mnie.}
+{145}{}{Mam pewne informacje na ten temat.}
+{146}{Gen_13}{No có¿, kupcy z Hubu powiedzieli nam, ¿e sporo karawan zniknê³o w drodze na pó³noc. Myœlê, ¿e w górach jest jakaœ armia, ale Starsi, có¿, nie chc¹ dzia³aæ, dopóki nie bêd¹ mieæ pewnoœci. }
+{147}{}{W którym miejscu one zaginê³y?}
+{148}{}{Czy to nie ty jesteœ Wielkim Mistrzem? Dlaczego nie zrobisz czegoœ w tej sprawie?}
+{149}{}{Nic nie zrobiliœcie?}
+{150}{}{Mam pewne informacje na ten temat.}
+{151}{Gen_14}{Z informacji, jakie dosta³em, wynika, ¿e te karawany zniknê³y ko³o po³udniowego krañca gór na wschodzie. Mam wra¿enie, ¿e kupcy z Hubu mog¹ ci prawdopodobnie powiedzieæ wiêcej.}
+{152}{}{Dziêki. Mam jeszcze parê pytañ, jeœli mo¿na.}
+{153}{}{Dziêki. Porozmawiamy póŸniej.}
+{154}{}{Mam pewne informacje na ten temat.}
+{155}{Gen_15g}{Do zobaczenia, kadecie. Nie jesteœ takim znowu z³ym cz³owiekiem... jak na obcego.}
+{156}{Gen_15n}{¯egnaj, kadecie.}
+{157}{Gen_15b}{¯egnam!}
+{158}{Gen_16}{Wyroœliœmy tutaj w zbyt du¿ej izolacji. Potrafisz sobie wyobraziæ sytuacjê, ¿e spêdzasz ca³e twoje ¿ycie w jednym ma³ym miejscu, a potem musisz wyjœæ na szeroki œwiat? }
+{159}{}{Có¿, jeœli chodzi o œcis³oœæ...}
+{160}{}{W takim razie moim przeznaczeniem jest chyba zostaæ waszym zwiadowc¹.}
+{161}{}{Czyli poniewa¿ nie wychodziliœcie, ja mam odwaliæ za was brudn¹ robotê. Mowy nie ma.}
+{162}{Gen_17}{Zatem rozumiesz, na czym polega problem. By przetrwaæ, potrzebujemy kogoœ, kto zna œwiat zewnêtrzny. Jak ty. }
+{163}{}{OK, podejmê siê tego.}
+{164}{}{Mam moje w³asne problemy. Darujê sobie tê operacjê.}
+{165}{Gen_18}{Có¿... bior¹c pod uwagê to, co moim zdaniem nadci¹ga, nie mamy czasu dla nikogo, kto bêdzie... nie pomagaæ. No, albo pracujesz z nami, albo zje¿d¿asz.}
+{166}{}{No có¿, jeœli tak to ujmujesz, to wchodzê w to.}
+{167}{}{Wygl¹da na to, ¿e jest ³adny dzieñ na przechadzkê.}
+{168}{Gen_19}{Twój wybór. Mam nadziejê, ¿e potrafisz ¿yæ z tym na sumieniu. }
+{169}{Gen_20}{Co? To to, kim jesteœmy i po co ¿yjemy. To idea³y. Mam nadziejê, ¿e to zrozumiesz, gdy spêdzisz z nami wiêcej czasu.}
+{170}{}{Ta, ale czym wy siê faktycznie zajmujecie?}
+{171}{}{Nie mam co do tego zbyt wielkiej pewnoœci.}
+{172}{Gen_21}{Naszym g³ównym celem jest przetrwanie. Skrybowie kopiuj¹ stare schematy broni lub projektuj¹ nowe, a rycerze wykonuj¹ spluwy na ich podstawie. Wiêkszoœæ spluw pochodzi od nas.}
+{173}{}{Sprzedajecie broñ kupcom z Hubu?}
+{174}{}{To wszystko, co robicie?}
+{175}{}{To ma sens. Jest jeszcze parê innych spraw, o które muszê zapytaæ.}
+{176}{Gen_22}{W ten sposób zdobywamy zaopatrzenie.}
+{177}{}{OK, chwytam. Jest jeszcze parê innych spraw, o które muszê zapytaæ.}
+{178}{}{OK. Muszê siê ju¿ jednak zbieraæ.}
+{179}{}{Chyba nie mam co do tego wszystkiego zbytniej pewnoœci.}
+{180}{Gen_23}{Wszystko? To cholernie wa¿ne. To kluczowe dla naszego przetrwania.}
+{181}{}{Jak tam sobie chcesz. Muszê ci zadaæ jeszcze kilka pytañ.}
+{182}{}{Ta, có¿, to g³upie.}
+{183}{}{OK, dziêki. Naprawdê muszê ju¿ jednak iœæ.}
+{184}{Gen_26}{Wiêc musisz zdobyæ pewnoœæ. Bo niepewnoœæ daje ci gwarancjê œmierci.}
+{185}{}{Im wiêcej bêdê wiedzieæ, tym wiêksz¹ zyskam pewnoœæ.}
+{186}{Gen_28}{S³uchaj, nie mam teraz czasu na tak d³ug¹ opowieœæ. Masz. My wszyscy wyroœliœmy na tym. }
+{187}{Gen_29n}{Kr¹¿¹ pog³oski dotycz¹ce zaginionych karawan z Hubu, jak równie¿ dziwnej armii gotuj¹cej siê we wschodnich górach. }
+{188}{}{Okay.}
+{189}{}{Co to za armia?}
+{190}{}{Co jest z tymi zaginionymi karawanami?}
+{191}{}{Mam pewne informacje na ten temat.}
+{192}{Gen_29b}{Nie magazynujê plotek. }
+{193}{Gen_30}{Aach... Witaj ponownie, kadecie. Czy sprawy uk³adaj¹ siê pomyœlnie? }
+{194}{}{Ca³kiem dobrze. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{195}{}{Có¿, tak naprawdê, to jest do dupy.}
+{196}{}{Tak, dziêki, ale muszê lecieæ.}
+{197}{Gen_32}{Przykro mi, ¿e nie jesteœmy tym, do czego przyzwyczai³o ciê twoje dotychczasowe ¿ycie, ale mo¿esz zademonstrowaæ nieco samoopanowania. }
+{198}{}{Przepraszam. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{199}{}{Czemu? Bractwo to kpina?}
+{200}{}{Muszê siê ju¿ zbieraæ. Czeœæ.}
+{201}{Gen_34}{Czego, u diab³a, chcesz teraz? }
+{202}{}{Chcê wiedzieæ, dlaczego rz¹dzi tutaj idiota.}
+{203}{}{Muszê ci zadaæ jeszcze kilka pytañ.}
+{204}{}{Niewa¿ne, dziêki.}
+{205}{Gen_35}{Co masz? }
+{206}{}{Przepraszam, tak naprawdê nie mam nic.}
+{207}{}{Karawany z Hubu s¹ porywane przez wielkich, zielonych mutantów, którzy gromadz¹ armiê.}
+{208}{}{Na pó³nocy jest wielka armia, podporz¹dkowana komuœ zwanemu Mistrzem.}
+{209}{Gen_36}{Uda³o ci siê ich zobaczyæ? To mo¿e nawet sk³oniæ Starszych do zrobienia czegoœ. Zajmê siê tym, dziêki!}
+{210}{Gen_38}{Ee... Co on planuje zrobiæ z t¹ swoj¹... armi¹? }
+{211}{}{Planuje opanowaæ Cytadelê, Hub, Z³omowo... wszystko.}
+{212}{}{Ile zap³acisz za tê informacjê?}
+{213}{Gen_39}{Nareszcie! Có¿, to zmusi Starszych do ruszenia ty³ków. Obwarujemy Cytadelê i zaskoczymy tych cholernych mutantów.}
+{214}{}{Nie! Ty nie rozumiesz. Oni zmieniaj¹ ludzi w mutantów i wcielaj¹ ich do swojej armii.}
+{215}{}{OK.}
+{216}{Gen_40}{Co z tego wynika?}
+{217}{}{To, ¿e gdy tu dotr¹, bêd¹ ju¿ nie do powstrzymania. I maj¹ zaawansowan¹ broñ, tak¹ jak wasza. Nie macie szans.}
+{218}{}{No có¿, OK. Mo¿e okopanie siê jest w³aœciwym wyjœciem.}
+{219}{Gen_41}{Jak¹ zatem proponujesz alternatywê?}
+{220}{}{Pomó¿cie mi zaatakowaæ bazê Mistrza. Wiem, gdzie to jest.}
+{221}{Gen_42}{Hmmm. Niezgorszy plan. Zróbmy tak, pójdê spróbowaæ wbiæ to Starszym do ³bów. Nic nie gwarantujê, ale postaram siê to za³atwiæ.}
+{222}{Gen_43}{Wiêc siê wynoœ. Mam robotê do wykonania.}
+{223}{Gen_44}{Masz tam ca³kiem interesuj¹c¹ hierarchiê priorytetów i lojalnoœci.}
+{224}{}{Loyal to myself. 500 caps. Take it or leave it.}
+{225}{}{Och... tak. OK, powiem ci. On planuje podporz¹dkowaæ sobie wszystko i wszystkich.}
+{226}{Gen_44a}{Zap³acê. Potrzebujemy tej informacji dla ratowania ¿ycia.}
+{227}{}{To ca³kiem proste. On przemienia ludzi w mutantów i ma zaawansowan¹ broñ. Planuje podbiæ wszystko.}
+{228}{Gen_44b}{Có¿, jeœli tak jest w rzeczywistoœci, to mam nadziejê, ¿e znajdziesz jakieœ miejsce, ¿eby zu¿yæ twoje kapsle.}
+{229}{Gen_45}{Có¿, co powiesz na nic?! Stra¿, wykopaæ tego t³umoka. Na Boga! Obronimy Cytadelê bez twojej cholernej pomocy.}
+{230}{Gen_46}{Co ty niby robisz? Od³ó¿ to. Od³ó¿ to natychmiast!}
+{231}{Gen_47}{Przebra³a siê miarka. Stra¿! Zabraæ st¹d tego mato³a!}
+{232}{Gen_48}{Hej, hej, hej, hej! Wstrzymaj siê. Przestañ. Przestañ, ale ju¿!}
+{233}{Gen_49}{Jak powiedzia³em...}
+{234}{Gen_50}{Mówi³em...}
+{235}{Gen_51}{Nie mam w zwyczaju siê powtarzaæ. Przeczyœæ sobie zatem uszy.}
+{236}{Gen_52}{S³uchaj, ju¿ ci to mówi³em. To nie moja wina, ¿e nie uda³o ci siê tego za³apaæ.}
+{237}{Gen_52a}{To tutaj w³aœnie jesteœ. Jak chcesz us³yszeæ d³ug¹ wersjê, pogadaj z Vree.}
+{238}{Gen_52b}{Mathia jest moj¹ asystentk¹.}
+{239}{Gen_53}{A, to dobry ch³opak, nawet jeœli rzeczywiœcie chce zostaæ skryb¹.}
+{240}{Gen_54}{Vree jest Mistrzem Skrybów. Zwykle jest w bibliotece, a zawsze lubi gadaæ. }
+{241}{Gen_55}{Przechowujemy tam specyfikacje broni oraz historiê.}
+{242}{Gen_56}{Rhombo jest tutaj ju¿ kawa³ czasu. Trochê sztywny, ale to piekielnie dobry ¿o³nierz.}
+{243}{Gen_58}{Hehehe. To wspania³y, przystojny mê¿czyzna w pe³ni si³. Funkcj¹ Wielkiego Mistrza jest moderowanie zebrañ Starszyzny. Widzisz, dwa lata temu da³em siê w to wmanewrowaæ. Gdybym wtedy wiedzia³...}
+{244}{Gen_59}{No có¿, widzisz, jest ich czworo, i to w zasadzie wszystko, co do czego mog¹ siê kiedykolwiek zgodziæ. Nie potrafi¹ siê nawet zgodziæ, czy chce im siê szczaæ, nie mówi¹c o wyborze nocnika, do którego maj¹ naszczaæ.}
+{245}{Gen_60}{No, to do nich siê zaliczasz. Kadeci szkol¹ siê i ucz¹, by zostaæ rycerzami albo skrybami.}
+{246}{Gen_61}{Có¿, skrybowie robi¹ kopie specyfikacji broni. Mamy te informacje ju¿ od czasów mojego dziadka. Czasem jakiœ skryba ma nowy pomys³ na broñ. Hehehe. Nie dzieje siê to zbyt czêsto. Wszyscy podlegaj¹ Vree.}
+{247}{Gen_62}{Rycerze wytwarzaj¹ broñ. A jak rycerz jest wystarczaj¹co dobry, to mo¿e awansowaæ i zostaæ paladynem, a potem Starszym, i tak dalej. Teraz szefem rycerzy jest Rhombus.}
+{248}{Gen_63}{Paladyni zajmuj¹ siê wszelkimi czynnoœciami zwi¹zanymi z bezpieczeñstwem i œwiatem zewnêtrznym. Pamiêtam handlowanie z Hubem, chodzenie na misje zwiadowcze dla Starszyzny. O rany, to dopiero by³y czasy.}
+{249}{Gen_64}{Hub jest na po³udniowym wschodzie. Sprzedaj¹ nam ¿ywnoœæ i ró¿ne inne rzeczy za broñ, któr¹ tutaj wytwarzamy. No, jeœli kiedyœ tam bêdziesz, to pogadaj z Butchem Harrisem.}
+{250}{Gen_65}{Butch to szef Wszêdobylskich Handlowców. Jest trochê oœlizg³y, ale nie jest zupe³n¹ szuj¹. W przeciwieñstwie do tych Kupców Wodnych. Oni wszyscy to banda cholernych sêpów.}
+{251}{Gen_66}{To g³ównie z nimi handlujemy. S¹ niezupe³nie godni zaufania, ale nie tacy Ÿli jak pozostali. }
+{252}{Gen_67}{Nie mo¿na im ufaæ. Kilka lat temu zaoferowali nam wodê za olbrzymi¹ partiê broni. Powiedzieliœmy im "nie", i wiesz, co zrobili? Przys³ali tu z³odziei, ¿eby ukradli tê broñ! Z³apaliœmy ich, ale Starsi przeg³osowali wyprawê do Hubu, aby daæ Kupcom nauczkê.}
+{253}{Gen_68}{Holotaœmy? Hmm? Ju¿ od jakiegoœ czasu ich nie widzia³em.}
+{254}{Gen_69}{Vree ma go gdzieœ w bibliotece.}
+{255}{Gen_70}{Roger Maxson, co? No có¿, poprowadzi³ tutaj nasz lud w wielkim Exodusie, od zera zbudowa³ Bractwo. Prawdziwy przywódca.}
+{256}{Gen_71}{No có¿, to by³o kiedy mój dziadek, Roger Maxson, poprowadzi³ tutaj swoich ¿o³nierzy i zapocz¹tkowa³ Bractwo. Nigdy nie wspomina³ sk¹d przyszli, ale to tak naprawdê siê nie liczy, bo... có¿, to jest teraz nasz dom.}
+{257}{Gen_72}{Có¿, uwa¿am, ¿e jakaœ armia gromadzi siê na pó³nocy i w górach na wschodzie, ale nie mam sposobu, ¿eby to udowodniæ. A Starsi nie chc¹ nawet s³uchaæ. }
+{258}{Gen_73}{To banda religijnych szajbusów, jeœli o mnie chodzi. S¹dzê, ¿e ich g³ówny koœció³ jest w Gruzach.}
+{259}{Gen_75}{Có¿, nie wiem zbyt du¿o. W tamtej okolicy jest zgraja gangów, jak równie¿ Adytum i Dzieci Katedry. Niewiele wiêcej. Ten cholerny teren jest prawie bezludny.}
+{260}{Gen_76}{Có¿, niewiele mam do powiedzenia. Nigdy nie wpad³em na ¿aden z nich. S³ysza³em jednak, ¿e s¹ problemem dla ludnoœci Adytum.}
+{261}{Gen_77}{To osiedle w Gruzach. Poszed³em tam... och... dawno temu, w misji zwiadowczej dla Starszyzny.}
+{262}{Gen_78}{A. To po prostu kolejna g³upia plotka. Niektórzy mówi¹, ¿e to wielki, zêbiasty potwór, a inni mówi¹, ¿e to wampir.}
+{263}{Gen_79}{Och, nic o tym nie wiem.}
+{264}{Gen_80}{Co to by³o? Nie. Nie s¹dzê, ¿ebym o tym kiedyœ s³ysza³.}
+{265}{Gen_81a}{Ni cholery o tym nie wiem.}
+{266}{}{Dziwi ciê mój widok? Co, mam zostawiæ ca³¹ zabawê tylko dla ciebie?}
+{267}{}{W jaki sposób przekona³eœ Starszych?}
+{268}{Gen_82a}{Ach, to wcale nie by³o trudne. Po prostu spokojnie objaœni³em sytuacjê, i bingo, uda³o siê. Naprzód, kadecie.}
+{269}{Gen_83}{Co ty tutaj robisz? Wolno tu byæ tylko StarszyŸnie.}
+{270}{}{Przepraszam, ju¿ sobie idê.}
+{271}{}{Nie obchodzi mnie to, zostajê.}
+{272}{Gen_84}{Dobrze, to wychodz¹c, zamknij gródŸ.}
+{273}{Gen_84a}{Mówiê ci, nie wtr¹caj siê.}
+{274}{Gen_85}{Ha! Nie pamiêtasz. Ja tego kiedyœ uczy³em.}
+{275}{Gen_86}{Przeciwnie do powszechnego mniemania, nie chcemy mieæ zupe³nie bezmózgich ¿o³nierzy.}
+{276}{Gen_87}{Có¿, radzê ci porozmawiaæ w tej sprawie z Mathi¹, moj¹ asystentk¹.}
+
+
+# Alchemist: I'm not sure about exact naming of the Weapon Store. Check this place.
+{278}{}{Excellent! Due to the successfully completed mission I grant you access to the weapon stock on the first level. Any more questions?}
+{300}{}{Mo¿e ty mi objaœnisz sytuacjê? Wszyscy tutaj wydaj¹ siê byæ poddenerwowani. Wygl¹da to tak, jakbyœcie siê szykowali do wojny, ale nikt nie wie z kim.}
+{301}{}{Czy dysponujesz jakimiœ wskazówkami co do tego, kto stoi za zaginiêciami karawan?}
+{302}{}{Pójdê na rozpoznanie obszaru na pó³nocy, a potem zameldujê, co uda mi siê tam znaleŸæ.}
+{303}{}{Za 500 kapsli sprawdzê, co siê tam dzieje.}
+{304}{}{Za 1000 kapsli sprawdzê, co siê dzieje na pó³nocy.}
+{305}{}{Nie wiem, czy akurat teraz chcê siê w coœ pakowaæ.}
+{306}{}{Czy istnieje mo¿liwoœæ otrzymania przeze mnie jakiejœ lepszej broni?}
+{307}{}{Tylko najpierw kilka pytañ.}
+{308}{}{Nie, zobaczymy siê, kiedy siê ju¿ dowiem, co siê tam dzieje.}
+{309}{}{Okay, bye.}
+{310}{}{Sk¹d wiesz, czy wasi zwiadowcy nie zdezerterowali?}
+{311}{}{S¹dzê, ¿e zdarzy³o mi siê ju¿ mieæ do czynienia ze stworzeniami, które opisujesz. Nie wolno ich lekcewa¿yæ.}
+{312}{}{Proszê, wybacz mi. Co jest wed³ug ciebie przyczyn¹ tych zaginiêæ?}
+{313}{}{No dalej. Uniewa¿nij go. Przekonaj siê, czy mnie to w ogóle obchodzi.}
+{314}{}{Wybacz, ale pójœcie tam teraz by³oby dla mnie zbyt ryzykowne.}
+{315}{}{W porz¹dku, pójdê, ale czy mogê najpierw dostaæ jak¹œ lepsz¹ broñ?}
+{316}{}{OK, zrobiê to za 1000 kapsli.}
+{317}{}{P³aæ albo nie.}
+{318}{}{Niewa¿ne.}
+{319}{}{OK, OK, zrobiê to za darmo.}
+{320}{}{Dobrze, spotkamy siê, kiedy wrócê.}
+{321}{}{Uda³o mi siê zdobyæ dowód na to, ¿e to ta armia jest przyczyn¹ znikania karawan. To armia mutantów. Masz dobry powód, by siê niepokoiæ. Oni wygl¹daj¹ na bardzo potê¿nych.}
+{322}{}{To oczywiste, ¿e ktoœ musi tam pójœæ i zbadaæ tê sprawê.}
+{323}{}{Bêdzie trzeba wiêcej ni¿ "czucia w koœciach", by mnie sk³oniæ do pójœcia tam i ryzykowania moim ¿yciem.}
+{324}{}{Uwa¿am moje ¿ycie za ca³kiem wa¿ny priorytet.}
+{325}{}{Po prostu nie s¹dzê, ¿eby to zadanie by³o dla mnie mo¿liwe do wykonania.}
+{326}{}{Lojalnoœæ rezerwujê tylko dla jednej osoby.}
+{327}{}{Potrafiê.}
+{328}{}{Eee?}
+{329}{}{Why does everyone here seem so edgy? It's like you're getting ready to go to war, but no one knows who the enemy is.}
+{330}{}{Muszê z tob¹ porozmawiaæ na temat zaginiêæ karawan. Czy masz jakieœ przemyœlenia co do tej sprawy?}
+{331}{}{Niewa¿ne.}
+{332}{}{Muszê ci zadaæ kilka pytañ.}
+{333}{}{Eee?}
+{334}{}{Mam pewne informacje na temat obszaru le¿¹cego na pó³noc st¹d.}
+{335}{}{Czy mogê ci zadaæ parê pytañ?}
+{336}{}{Niewa¿ne.}
+{337}{}{Przepraszam, tak naprawdê nie mam nic.}
+{338}{}{Uda³o mi siê dotrzeæ do ich bazy. Roi siê w niej od mutantów.}
+{339}{}{Uda³o mi siê dotrzeæ do bazy mutantów na pó³nocy. S¹ pos³uszni przywódcy, którego nazywaj¹ Mistrzem.}
+{340}{}{W tym przypadku obrona na nic siê nie zda, generale.}
+{341}{}{Có¿, to oczywiste, ¿e coœ trzeba zrobiæ. By³oby najlepiej, gdybyœmy zaatakowali mutantów, zanim oni zaatakuj¹ nas. Bêdziemy musieli mieæ co do tego poparcie Starszych.}
+{342}{}{Nie mam zupe³nej jasnoœci, co teraz powinniœmy zrobiæ w tej sprawie. Pozwól, ¿e zgromadzê nieco wiêcej informacji, i zg³oszê siê do ciebie ponownie.}
+{343}{}{Mistrz planuje podbiæ wszystkie ludzkie osiedla, jakie tylko mo¿e.}
+{344}{}{Co mo¿esz mi powiedzieæ o historii Bractwa?}
+{345}{}{Co jest podstawowym zadaniem Bractwa?}
+{346}{}{Kim s¹ Starsi?}
+{347}{}{Czy wiesz coœ o Szponie Œmierci?}
+{348}{}{Niewa¿ne.}
+{349}{}{Czy mogê ci zadaæ kolejne pytanie?}
+{350}{}{Dziêkujê.}
+{351}{}{You earn }
+{352}{}{ experience for scouting the desert to the north.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ('my friend' will be masculine); the second line is
+# for the case of the player-character feminine ('my friend' will be feminine).
+#
+
+{353}{Gen_3}{Kadetów nie urodzonych tutaj. Jesteœ pierwszym obcym, któremu pozwoliliœmy siê przy³¹czyæ, od bardzo, bardzo dawna. Có¿, teraz to ju¿ prawie dwadzieœcia lat. }
+{354}{Gen_3}{Kadetów nie urodzonych tutaj. Jesteœ pierwsz¹ obc¹, której pozwoliliœmy siê przy³¹czyæ, od bardzo, bardzo dawna. Có¿, teraz to ju¿ prawie dwadzieœcia lat. }
+{355}{Gen_6}{Moi ludzie mog¹ byæ dobrymi zwiadowcami albo nie, ale nie kwestionuj ich prawdomównoœci. Twój status kadeta mo¿emy uniewa¿niæ w ka¿dej chwili.}
+{356}{Gen_6}{Moi ludzie mog¹ byæ dobrymi zwiadowcami albo nie, ale nie kwestionuj ich prawdomównoœci. Twój status kadeta mo¿emy uniewa¿niæ w ka¿dej chwili.}
+{357}{Gen_15n}{¯egnaj, kadecie.}
+{358}{Gen_15n}{¯egnaj, kadecie.}
+{359}{Gen_30}{Aach... Witaj ponownie, kadecie. Czy sprawy uk³adaj¹ siê pomyœlnie? }
+{360}{Gen_30}{Aach... Witaj ponownie, kadecie. Czy sprawy uk³adaj¹ siê pomyœlnie? }
+
+{400}{}{Uda³o mi siê zinfiltrowaæ bazê mutantów na pó³nocy. Powiedzmy tylko, ¿e oni ju¿ nie stanowi¹ zagro¿enia.}
+
+
+# General Maxson Tell-Me-Abouts generic responses
+{980}{Gen_79}{Och, nic o tym nie wiem.}
+{981}{Gen_80}{Co to by³o? Nie. Nie s¹dzê, ¿ebym o tym kiedyœ s³ysza³.}
+{982}{Gen_81a}{Ni cholery o tym nie wiem.}
+
+#
+# General Maxson Tell-Me-Abouts
+#
+
+
+{1000}{}{Cytadela}
+{1001}{}{Mathia}
+{1002}{}{Cabbot}
+{1003}{}{Vree}
+{1004}{}{biblioteka}
+{1005}{}{Rhombus}
+{1006}{}{Wielki Mistrz}
+{1007}{}{Starsi}
+{1008}{}{kadeci}
+{1009}{}{skrybowie}
+{1010}{}{rycerze}
+{1011}{}{paladyni}
+{1012}{}{Hub}
+{1013}{}{Butch}
+{1014}{}{Handlowcy}
+{1015}{}{Kupcy Wodni}
+{1016}{}{taœmy}
+{1017}{}{odtwarzacz}
+{1018}{}{Roger}
+{1019}{}{Exodus}
+{1020}{}{armia}
+{1021}{}{Dzieci Katedry}
+{1022}{}{Los Angeles}
+{1023}{}{gangi}
+{1024}{}{Adytum}
+{1025}{}{Szpon}
+{1026}{}{Harris}
+{1027}{}{Maxson}
+{1028}{}{LA}
+{1029}{}{Gruzy}
+{1030}{}{Mistrz}
+{1031}{}{Wojna}
+{1032}{}{Karawan}
+{1033}{}{procesor}
+{1034}{}{Discs}
+{1035}{}{HoloDisk}
+{1036}{}{HoloDisc}
+{1037}{}{Holo-Disk}
+{1038}{}{Holo-Disc}
+
+
+{1100}{Gen_52a}{To tutaj w³aœnie jesteœ. Jak chcesz us³yszeæ d³ug¹ wersjê, pogadaj z Vree.}
+{1101}{Gen_52b}{Mathia jest moj¹ asystentk¹.}
+{1102}{Gen_53}{A, to dobry ch³opak, nawet jeœli rzeczywiœcie chce zostaæ skryb¹.}
+{1103}{Gen_54}{Vree jest Mistrzem Skrybów. Zwykle jest w bibliotece, a zawsze lubi gadaæ. }
+{1104}{Gen_55}{Przechowujemy tam specyfikacje broni oraz historiê.}
+{1105}{Gen_56}{Rhombo jest tutaj ju¿ kawa³ czasu. Trochê sztywny, ale to piekielnie dobry ¿o³nierz.}
+{1106}{Gen_58}{Hehehe. To wspania³y, przystojny mê¿czyzna w pe³ni si³. Funkcj¹ Wielkiego Mistrza jest moderowanie zebrañ Starszyzny. Widzisz, dwa lata temu da³em siê w to wmanewrowaæ. Gdybym wtedy wiedzia³...}
+{1107}{Gen_59}{No có¿, widzisz, jest ich czworo, i to w zasadzie wszystko, co do czego mog¹ siê kiedykolwiek zgodziæ. Nie potrafi¹ siê nawet zgodziæ, czy chce im siê szczaæ, nie mówi¹c o wyborze nocnika, do którego maj¹ naszczaæ.}
+{1108}{Gen_60}{No, to do nich siê zaliczasz. Kadeci szkol¹ siê i ucz¹, by zostaæ rycerzami albo skrybami.}
+{1109}{Gen_61}{Có¿, skrybowie robi¹ kopie specyfikacji broni. Mamy te informacje ju¿ od czasów mojego dziadka. Czasem jakiœ skryba ma nowy pomys³ na broñ. Hehehe. Nie dzieje siê to zbyt czêsto. Wszyscy podlegaj¹ Vree.}
+{1110}{Gen_62}{Rycerze wytwarzaj¹ broñ. A jak rycerz jest wystarczaj¹co dobry, to mo¿e awansowaæ i zostaæ paladynem, a potem Starszym, i tak dalej. Teraz szefem rycerzy jest Rhombus.}
+{1111}{Gen_63}{Paladyni zajmuj¹ siê wszelkimi czynnoœciami zwi¹zanymi z bezpieczeñstwem i œwiatem zewnêtrznym. Pamiêtam handlowanie z Hubem, chodzenie na misje zwiadowcze dla Starszyzny. O rany, to dopiero by³y czasy.}
+{1112}{Gen_64}{Hub jest na po³udniowym wschodzie. Sprzedaj¹ nam ¿ywnoœæ i ró¿ne inne rzeczy za broñ, któr¹ tutaj wytwarzamy. No, jeœli kiedyœ tam bêdziesz, to pogadaj z Butchem Harrisem.}
+{1113}{Gen_65}{Butch to szef Wszêdobylskich Handlowców. Jest trochê oœlizg³y, ale nie jest zupe³n¹ szuj¹. W przeciwieñstwie do tych Kupców Wodnych. Oni wszyscy to banda cholernych sêpów.}
+{1114}{Gen_66}{To g³ównie z nimi handlujemy. S¹ niezupe³nie godni zaufania, ale nie tacy Ÿli jak pozostali. }
+{1115}{Gen_67}{Nie mo¿na im ufaæ. Kilka lat temu zaoferowali nam wodê za olbrzymi¹ partiê broni. Powiedzieliœmy im "nie", i wiesz, co zrobili? Przys³ali tu z³odziei, ¿eby ukradli tê broñ! Z³apaliœmy ich, ale Starsi przeg³osowali wyprawê do Hubu, aby daæ Kupcom nauczkê.}
+{1116}{Gen_68}{Holotaœmy? Hmm? Ju¿ od jakiegoœ czasu ich nie widzia³em.}
+{1117}{Gen_69}{Vree ma go gdzieœ w bibliotece.}
+{1118}{Gen_70}{Roger Maxson, co? No có¿, sprowadzi³ tutaj nasz lud w wielkim Exodusie, od zera zbudowa³ Bractwo. Prawdziwy przywódca.}
+{1119}{Gen_71}{No có¿, to by³o kiedy mój dziadek, Roger Maxson, poprowadzi³ tutaj swoich ¿o³nierzy i zapocz¹tkowa³ Bractwo. Nigdy nie wspomina³ sk¹d przyszli, ale to tak naprawdê siê nie liczy, bo... có¿, to jest teraz nasz dom.}
+{1120}{Gen_72}{Có¿, uwa¿am, ¿e jakaœ armia gromadzi siê na pó³nocy i w górach na wschodzie, ale nie mam sposobu, ¿eby to udowodniæ. A Starsi nie chc¹ nawet s³uchaæ. }
+{1121}{Gen_73}{To banda religijnych szajbusów, jeœli o mnie chodzi. S¹dzê, ¿e ich g³ówny koœció³ jest w Gruzach.}
+{1122}{Gen_75}{Có¿, nie wiem zbyt du¿o. W tamtej okolicy jest zgraja gangów, jak równie¿ Adytum i Dzieci Katedry. Niewiele wiêcej. Ten cholerny teren jest prawie bezludny.}
+{1123}{Gen_76}{Có¿, niewiele mam do powiedzenia. Nigdy nie wpad³em na ¿aden z nich. S³ysza³em jednak, ¿e s¹ problemem dla ludnoœci Adytum.}
+{1124}{Gen_77}{To osiedle w Gruzach. Poszed³em tam... och... dawno temu, w misji zwiadowczej dla Starszyzny.}
+{1125}{Gen_78}{A. To po prostu kolejna g³upia plotka. Niektórzy mówi¹, ¿e to wielki, zêbiasty potwór, a inni mówi¹, ¿e to wampir.}
+{1126}{Gen_65}{Butch to szef Wszêdobylskich Handlowców. Jest trochê oœlizg³y, ale nie jest zupe³n¹ szuj¹. W przeciwieñstwie do tych Kupców Wodnych. Oni wszyscy to banda cholernych sêpów.}
+{1127}{Gen_70}{Roger Maxson, co? No có¿, poprowadzi³ tutaj nasz lud w wielkim Exodusie, od zera zbudowa³ Bractwo. Prawdziwy przywódca.}
+{1128}{Gen_75}{Có¿, nie wiem zbyt du¿o. W tamtej okolicy jest zgraja gangów, jak równie¿ Adytum i Dzieci Katedry. Niewiele wiêcej. Ten cholerny teren jest prawie bezludny.}
+{1129}{Gen_75}{Có¿, nie wiem zbyt du¿o. W tamtej okolicy jest zgraja gangów, jak równie¿ Adytum i Dzieci Katedry. Niewiele wiêcej. Ten cholerny teren jest prawie bezludny.}
+{1130}{Gen_80}{Co to by³o? Nie. Nie s¹dzê, ¿ebym o nim kiedyœ s³ysza³.}
+{1131}{Gen_71}{No có¿, to by³o kiedy mój dziadek, Roger Maxson, poprowadzi³ tutaj swoich ¿o³nierzy i zapocz¹tkowa³ Bractwo. Nigdy nie wspomina³ sk¹d przyszli, ale to tak naprawdê siê nie liczy, bo... có¿, to jest teraz nasz dom.}
+{1132}{Gen_65}{Butch to szef Wszêdobylskich Handlowców. Jest trochê oœlizg³y, ale nie jest zupe³n¹ szuj¹. W przeciwieñstwie do tych Kupców Wodnych. Oni wszyscy to banda cholernych sêpów.}
+{1133}{Gen_81a}{Ni cholery o tym nie wiem.}
+{1134}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1135}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1136}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1137}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1138}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+

@@ -1,0 +1,101 @@
+# These are people who are running caravans. either gender, but majority Male
+# Tone of voice similar to truck drivers of California-- rough and partially
+# harsh.
+{100}{}{Vedi un conducente di carovane.}
+{101}{}{Quella di oggi sara' una lunga giornata!}
+{102}{}{Oggi non ho proprio voglia di lavorare.}
+{103}{}{Speriamo di non incontrare predoni... o qualcosa di peggio.}
+{104}{}{Mi dispiace, ma non abbiamo bisogno di altre guardie, mi pare.}
+{105}{}{Mi spiace, siamo al completo.}
+{106}{}{Se vuoi un lavoro, prova ad andare nella Piazza dei Mercanti.}
+{107}{}{Speriamo di riuscire a vendere tutto.}
+{108}{}{Non vedo l'ora di finire.}
+# finish this job.
+
+{109}{}{Partiamo!}
+{110}{}{Sono pronto a spaccare qualche muso.}
+# i'm ready for some brawling
+
+{111}{}{Andiamocene!}
+{112}{}{Oggi fa davvero caldo.}
+{113}{}{Cavoli, che sete.}
+# i am very thirsty
+
+{114}{}{Che giorno e' oggi?}
+{115}{}{Appena finisco faccio un salto al Falcone!}
+# Falcon is short for Maltese Falcon--Drinking and gambling hall
+
+{116}{}{Mi devi scusare, ma siamo appena tornati da un lungo viaggio.}
+{117}{}{Se vuoi un lavoro, dovresti provare ad andare nella Piazza dei Mercanti.}
+# Merchant Market is a section of town in which people gather.
+
+{118}{}{Oggi e' giorno di paga!}
+{119}{}{Me ne vado dritto da Bob!}
+# Bob's is short for Bob's Iguana Bits -- eating establishment
+
+{120}{}{Oggi devo pagare la rata del mutuo!}
+{121}{}{Sono a pezzi.}
+{122}{}{E' stato un lungo viaggio!}
+{123}{}{Per oggi sara' meglio smetterla, credo.}
+{124}{}{Ci vediamo domani, ragazzi.}
+{125}{}{Oh cavoli, che notte e' stata.}
+{126}{}{I'm getting old...}
+{200}{}{Vedi Mat.}
+{201}{}{Ci vediamo domani, ragazzi. E cercate di non farvi mordere dalle cimici...}
+{202}{}{Ho fatto un sogno davvero strano.}
+{203}{}{Si'? Posso aiutarti?}
+{204}{}{Duh?}
+{205}{}{Che posto e' questo?}
+{206}{}{Sai per caso dove potrei trovare un water chip?}
+{207}{}{Che cosa ci fanno qui tutti questi carri?}
+{208}{}{Oh. Scusami, credevo fossi qualcun altro.}
+{209}{}{Oh si'. Potresti morire.}
+{210}{}{Troppo a lungo nella lande, eh? E' un vero peccato.}
+{211}{}{Questo e' l'Hub. E' il centro di commercio piu' importante di questa zona. E' la citta' piu' grande che io conosca, e ci puoi trovare praticamente di tutto. Se stai cercando lavoro, sei nel posto giusto. Sembra quasi che ogni singolo abitante abbia un lavoro da offrire... legale o no che sia.}
+{212}{}{Sai per caso dove potrei trovare un water chip?}
+{213}{}{Che cosa ci fanno qui tutti questi carri?}
+{214}{}{Commercio? Che tipo di commercio?}
+{215}{}{Dove devo andare per farmi dare un lavoro?}
+{216}{}{Arrivederci.}
+{217}{}{Un water chip? Wow. Mi cogli impreparato. Non ho mai sentito parlare di una cosa del genere. Puoi provare a vedere nell'Emporio che c'e' in centro; forse li' sapranno aiutarti.}
+{218}{}{Cosa ci fanno qui tutti quei carri?}
+{219}{}{Grazie. Ci vediamo.}
+{220}{}{Queste sono le carovane. Trasportiamo varie mercanzie in quasi ogni angolo delle lande: Junktown, la Confraternita, Shady Sands e numerosi altri posti. Necropolis e il Glow sono le uniche zone che evitiamo come la peste. Io guido questo gruppo e tra poco partiremo. Il gruppo dall'altra parte della strada e' appena arrivato.}
+{221}{}{Questa carovana mi pare d'averla gia' vista prima... possibile?}
+{222}{}{Cosa commerciate?}
+{223}{}{Che posto e' questo?}
+{224}{}{Dove devo andare per farmi dare un lavoro?}
+{225}{}{Grazie. Ci vediamo.}
+{226}{}{Hum... un sacco di roba. Quel genere di cose di cui la gente ha bisogno per vivere: Cibo e acqua... un sacco d'acqua. L'acqua e' forse il bene di consumo piu' raro delle lande.}
+{227}{}{Sai per caso dove potrei trovare un water chip?}
+{228}{}{Dove devo andare per farmi dare un lavoro?}
+{229}{}{Grazie. Ci vediamo.}
+{230}{}{Puoi provare a chiedere a chiunque, qui nell'Hub. Oppure puoi dare un'occhiata alle bacheche di annunci che si trovano in citta'. Una cosa e' certa: ci sono piu' opportunita' di lavoro che persone, qui.}
+{231}{}{Che posto e' questo?}
+{232}{}{Sai per caso dove potrei trovare un water chip?}
+{233}{}{Cosa ci fanno qui tutti questi carri?}
+{234}{}{Grazie. Ci vediamo.}
+{235}{}{[Ride] Si'. Non e' poi cosi' strano. Dopo un po' si assomigliano tutte. Ma credimi: non sono tutte uguali.}
+{236}{}{Morirai per esserti preso gioco di me!!!}
+{237}{}{Dove devo andare per farmi dare un lavoro?}
+{238}{}{Arrivederci.}
+{300}{}{Vedi Luke.}
+{301}{}{Queste sono le carovane. Trasportiamo varie mercanzie in quasi ogni angolo delle lande: Junktown, la Confraternita, Shady Sands e numerosi altri posti. Necropolis e il Glow sono le uniche zone che evitiamo come la peste. Noi siamo appena arrivati dopo un lungo viaggio. Il gruppo dall'altra parte della strada, invece, sta per partire.}
+{400}{}{Vedi John.}
+{401}{}{Cosa ci fai qui fuori a quest'ora?}
+{402}{}{Sei un idiota. Fuori dai piedi, imbecille.}
+{403}{}{Un Water Chip? Non ne ho mai sentito parlare.}
+{404}{}{Queste sono le carovane a cui sto facendo la guardia. I mercanti trasportano varie mercanzie in quasi ogni angolo delle lande: Junktown, la Confraternita, Shady Sands e numerosi altri posti.}
+{405}{}{Well... lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
+{406}{}{Puoi provare a chiedere a chiunque, qui nell'Hub. Oppure puoi dare un'occhiata alle bacheche di annunci che si trovano in citta'..}
+{407}{}{Sono una guardia che lavora per i mercanti che possiedono la roba che c'e' in questi carri. Un lavoro pericoloso, ma la paga e' buona. Proprio l'altra notte, uno dei miei colleghi e' stato ucciso mentre era di guardia.}
+{408}{}{Cosa sono le carovane?}
+{409}{}{Ahhhh. (He assumes a sarcastic tone of voice.) What a sad story. How would you like to join your friend?}
+{410}{}{Ci si vede.}
+
+## Fallout Fixt:
+
+{501}{}{You see a caravan guard.}
+{502}{}{You see a caravan driver.}
+{503}{}{You see a caravan driver.}
+{504}{}{You see a caravan merchant.}

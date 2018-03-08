@@ -543,7 +543,7 @@
 #
 #
 
-======================================================================
+#  ======================================================================
 #    FOLLOWERS OF THE APOCALYPSE
 # Info Level 1 [People who know nothing]
 {18400}{}{Adytum}
@@ -616,7 +616,7 @@
 {18908}{}{Ho letto qualcosa a proposito dei dispositivi tecnologici dei Vault, ma questo non l'ho mai sentito.}
 {18909}{}{Nicole e' la nostra leader. Secondo lei, grazie alla meditazione e alla spiritualita', riusciremo a portare la pace a questo mondo distrutto dalla guerra.}
 {18910}{}{Questo e' il cuore del Cimitero degli Angeli, cosi' chiamato in onore dell'antica citta' di Los Angeles e degli scheletri dei morti che ricoprivano questi luoghi dopo la caduta delle Bombe.}
-======================================================================
+#  ======================================================================
 
 
 # MBENT.MAP     (19000)

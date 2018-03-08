@@ -1,0 +1,46 @@
+# These are the police of the Hub (a large metropolis). They are either gender, but using
+# Male is the best approach. They are simpltons who have a badge only because no one else
+# would take the badge. Speech has an absent-mindedness about it.
+{100}{}{Egy rendõrtisztet látsz.}
+# Police Officer is male
+{101}{}{Üdvözletem! Oda kéne figyelnie a... ööö... úgy értem, ügyeljen... (a tiszt fura pillantást vet a társára, és feléd biccent)}
+{102}{}{Üdv, idegen... Várjunk csak! Ismerem magát! Égre-földre körözzük lopásért! Ne mozduljon!}
+# Stranger is the player. Consider Male.
+{103}{}{Oké, megadom magam.}
+{104}{}{Zabálj ólmot!}
+# "Eat lead" is equivalant to "I'm going to kill you."
+{105}{}{Kor Rok!}
+# "Kor Rok" is just garbled sounds a moronic player is saying.
+{106}{}{(Feladod magad.)}
+{107}{}{Vigyázzon magára, ez nem valami biztonságos hely!}# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
+{108}{}{Ügyeljen a szkriptjére, }
+# scripts are money
+{109}{}{fiam!}
+{110}{}{hölgyem!}
+{111}{}{Nem kéne itt tartózkodnia! Veszélyes hely ez.}
+{112}{}{Az Óváros teljesen lezüllött.}
+# Old Town is another section of town. This is were the poor and down-trodden live.
+{113}{}{Valami bûzlik itt...}
+{114}{}{Az egész terepet le kéne tarolnunk.}
+{115}{}{Tudom, hogy a Tolvajok Köre valahol itt tevékenykedik.}
+# the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
+{116}{}{Szegény Harold, nehéz élete volt.}
+# Harold is Male
+{117}{}{Nehogy rajtakapjuk valamin!}
+# == Don't do anything illegal.
+{118}{}{Hé. Ismerem magát! Ne csatázzon többet, oké?}
+{119}{}{Jobb lesz, ha kiveri a fejébõl, hogy újra összerúgja a port valakivel!}
+{120}{}{Ha újra csatározáson fogjuk, bevisszük szépen a dutyiba!}
+# "You're going in" equals "You are going to jail"
+{121}{}{Hallotta? A Hosszútávú Kereskedõket hidegre tették.}
+# Far Go Traders is a merchant's guild
+{122}{}{A Vízkereskedõk mostantól már csak a történelemkönyvet színesítik. Nagy megkönnyebbülés ez.}
+# Water Merchants is a merchant's guild
+{123}{}{Valaki kipusztította a Karmazsin Karavánt.}
+# Crimson Caravans is a merchant's guild
+{124}{}{Hallotta! A Földalatti Mozgalmat eliminálták!}
+# Underground is a rough organization for assassins. Akin to the Mafia
+{125}{}{Decker halott!}
+# Decker is Male
+{126}{}{A város biztonságosabb lenne, ha Deckert félreállítaná valaki.}
+# == "This town would be safer with Decker dead."

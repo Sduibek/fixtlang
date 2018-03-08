@@ -31,8 +31,7 @@
 {130}{}{Hmm no... Nerada to øíkám, ale... u jsem o tobì slyšela.  Jsi v soukromí stejnì tvrdı jako na veøejnosti? Uvidíme... (Keri tì vede za roh)}
 {131}{}{(Na zpáteèní cestì ti podsune pár vìcièek.)}
 {132}{}{Hmm, vydríš docela DOST dlouho.}
-{133}{}{No, jsi zajímavı a dost odlišnı od ostatních lidí... uka, co v tobì je, tvrïáku.
- (Keri tì vede za roh)}
+{133}{}{No, jsi zajímavı a dost odlišnı od ostatních lidí... uka, co v tobì je, tvrïáku. (Keri tì vede za roh)}
 {134}{}{(Na zpáteèní cestì ti podsune pár vìcièek.)}
 {135}{}{Hmm, vydríš docela DOST dlouho.}
 {136}{}{Ale, vypadá to, e tu máme zlodìje! Co k tomu øekneš, ty špíno?}
@@ -96,8 +95,7 @@
 {194}{}{Hej!  Neøekla jsi, e je nemohu opustit!  Nebylo to v prùbìhu ádného boje.}
 {195}{}{Vypadni odsud! Je mi z tebe zle!  Proto jsi opustil karavanu?  Vsadím se, e jsi byl na práškách!}
 {196}{}{Jo?  Dobøe, proè tam teda nejdeš hned!  Z našeho seznamu jsi vymazanej navdy.}
-{197}{}{Co?  Ty nikdy pøedtím nedoprovázel karavanu?  Nechce se mi vìøit, e by mùj otec najal zelenáèe!
- Ztra se!  Pøijímáme pouze profesionály!  Proto jim taky platíme tìkı prachy!}
+{197}{}{Co?  Ty nikdy pøedtím nedoprovázel karavanu?  Nechce se mi vìøit, e by mùj otec najal zelenáèe! Ztra se!  Pøijímáme pouze profesionály!  Proto jim taky platíme tìkı prachy!}
 {198}{}{Vedl sis dobøe. Hledáš další práci?}
 {199}{}{Jasnì.}
 {200}{}{Ne.}
@@ -132,35 +130,11 @@
 {229}{}{Dostal jsi 3 balíèky drog.}
 
 # invasion
-{300}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli
- a Junktown. Pohøebištì a Nekropolis byli napadeny nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
-{301}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli
- a Junktown. Pohøebištì a Nekropolis byli napadeny nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
+{300}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli a Junktown. Pohøebištì a Nekropolis byli napadeny nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}
+{301}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli a Junktown. Pohøebištì a Nekropolis byli napadeny nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}
 
-{302}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli,
- Junktown a Nekropolis. Pohøebištì bylo napadeno nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
-{303}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli,
- Junktown a Nekropolis. Pohøebištì bylo napadeno nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
+{302}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli, Junktown a Nekropolis. Pohøebištì bylo napadeno nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}
+{303}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli, Junktown a Nekropolis. Pohøebištì bylo napadeno nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}
 
-{304}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli,
- Junktown a Pohøebištì. Nekropolis bylo napadeno nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
-{305}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.
-Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy
-3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli,
- Junktown a Pohøebištì. Nekropolis bylo napadeno nìjakımi nepøátelskımi mutanty,
- take u tam nejezdíme.}
+{304}{}{Tak ten starej parchant tì pøijmul, abys pro nás makala, jo?  Hm, ty musíš bejt tvrdá potvora.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli, Junktown a Pohøebištì. Nekropolis bylo napadeno nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}
+{305}{}{Tak ten starej parchant tì pøijmul, abys pro nás makal, jo?  Hm, ty musíš mít koule z oceli.Jsem na to zvìdavá, ale brzy se pøesvìdèíme, co v tobì je. Vyjídíme jen dvakrát mìsíènì, vdy3. a 17. Zvládneš to? Naše trasy vedou do všech místních nebezpeènıch oblastí:  Bratrstvo Oceli, Junktown a Pohøebištì. Nekropolis bylo napadeno nìjakımi nepøátelskımi mutanty, take u tam nejezdíme.}

@@ -17,7 +17,7 @@
 {116}{}{Demuestras mucho valor asomando el pescuezo por aquí. ¡Piérdete!}
 {117}{}{Eh, ¡no quiero líos!}
 {118}{}{¡Hola! Bienvenido al Delicias de Iguana propiedad de Bob, un lugar de reunión para toda la familia. ¿Qué deseas?}
-{119}{}{Que te jodan.}
+{119}{}{Eso ni en broma. Olvídate.}
 {120}{}{¿Eres? Bueno, vale...}
 {121}{}{Es un maldito hijo de perra. No te metas con él. ¿Algo más?}
 {122}{}{Bien. ¿Cuánto quieres que pague?}
@@ -49,7 +49,7 @@
 {148}{}{Nunca he visto ninguno por aquí. Los Mercaderes de Agua no los necesitan.}
 {149}{}{¿Mercaderes de Agua?}
 {150}{}{El señor Decker es un hombre de negocios distinguido que trabaja en un negocio que no lo es tanto. ¿Algo más?}
-{151}{}{Um... Vale...}
+{151}{}{Um... vale...}
 {152}{}{¿Qué tipo de negocio?}
 {153}{}{¿De qué estás hablando?}
 {154}{}{Tus ingredientes secretos. ¿Cuánto tiempo debe pasar antes de que un cadáver amargue? ¿Qué utilizáis? ¿Humanos, mutantes o una mezcla?}
@@ -146,7 +146,7 @@
 ##Sduibek -- Fallout Fixt
 ##
 {243}{}{¡¿Treinta chapas?! ¿Estás bromeando?}
-{244}{}{Mira imbécil, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}
+{244}{}{Mira, tú eres el que me ha destrozado mi margen de beneficios. Así que si no te gustan mis precios, vete a la mierda. Hay muchos establecimientos de iguana por aquí. Oh, espera, no los hay. Imbécil.}
 {245}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Ahora, si no estás aquí para comprar, lárgate de mi vista.}
 {246}{}{Lo que tú digas. Adiós.}
 {247}{}{De hecho, ahora que lo pienso, estoy bastante hambriento.}
@@ -156,7 +156,7 @@
 #
 # 252 to 260 take place while Bob is in jail
 {252}{}{¿Qué demonios haces aquí? Cierras mi negocio y seguro que recibes una gran recompensa. ¿Estás aquí para regodearte o qué?}
-{253}{}{Mas o menos, sí ¿Cómo va el negocio, Bob? [le guiñas un ojo]}
+{253}{}{Mas o menos, sí ¿Cómo va el negocio, Bob? *guiño*}
 {254}{}{Nah, comprobando como te iba.}
 {255}{}{Terrible, gracias a ti. A nadie le gustan los soplones. Hasta donde yo sé podrían dejarme morir aquí.}
 {256}{}{Te lo mereces.}

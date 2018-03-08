@@ -1,0 +1,119 @@
+{100}{}{Vedi Jain.}
+{101}{JAIN00}{Per quale motivo disturbi un Anziano della Cattedrale?}
+{102}{}{Sono in cerca di una benedizione.}
+{103}{}{Mi interessa la vostra chiesa e vorrei delle informazioni. Avete qualche depliant?}
+{104}{}{Sto solo dando un'occhiata in giro.}
+{105}{}{Mamma?}
+{106}{JAIN01}{Difficilmente potrei essere tua madre.}
+{107}{}{Nuh-uh?}
+{108}{}{Cacca!}
+{109}{JAIN02}{Come osi parlarmi a quel modo! Sarai punito per la tua insolenza! Guardie!}
+{110}{JAIN03}{Forse uno dei nostri sacerdoti sapra' impartirti l'educazione di cui hai bisogno. Vattene.}
+{111}{JAIN04}{Hai studiato i Sacramenti, figliolo?}
+{112}{}{Si'.}
+{113}{}{No.}
+{114}{JAIN05}{E allora dovresti sapere che gli Anziani della Cattedrale non "regalano" la loro benedizione. Adesso puoi andartene.}
+{115}{JAIN07}{Continua a prenderti gioco di me e ti faro' sbattere fuori.}
+{116}{}{Ma non la sto prendendo in giro, davvero.}
+{117}{}{Prenderti in giro? E perche' mai dovrei fare una cosa del genere?!}
+{118}{}{E' chiaro che la gentilezza e la pazienza non fanno parte di questa religione.}
+{119}{}{Sono mortificato. Me ne vado subito.}
+{120}{JAIN08}{La pagherai per aver proferito simili eresie!}
+{121}{JAIN09}{Le tue parole non corrispondono alle tue convinzioni. Bruciano dell'eresia che ti consuma. Sarai purificato, indi... dimenticato.}
+{122}{JAIN10}{E allora perche' sei qui? Che cosa ti porta dai Figli della Cattedrale?}
+{123}{}{Io cerco la Conoscenza. Vorrei imparare.}
+{124}{}{Vorrei radere al suolo questo posto, quindi sto cercando delle debolezze strutturali.}
+{125}{}{Sto soltanto dando un'occhiata in giro.}
+{126}{JAIN11}{Sei un Figlio?}
+{127}{}{Signora, non le pare che io sia troppo giovane per essere suo figlio?}
+{128}{}{Se sono uno dei Figli della Cattedrale? No.}
+{129}{}{Sono un devoto credente.}
+{130}{JAIN12}{Allora dovresti sapere che qui non ti e' permesso stare. Bada bene a come ti comporti. Vattene, orsu'.}
+{131}{}{Okay.}
+{132}{}{Al diavolo.}
+{133}{JAIN13}{Vorresti convertirti alla nostra fede? Possiamo darti cio' che nessun altro ti puo' offrire...}
+{134}{}{E cosa sarebbe?}
+{135}{}{No, non mi interessa. Penso che siate un branco di svitati.}
+{136}{JAIN14}{Una vita di appagamento. E la certezza di sapere che ogni tua opera servira' a ricostruire il pianeta e a renderlo un posto migliore per chi verra' in futuro.}
+{137}{}{Sembra molto interessante... potrei saperne di piu'? Io cerco certezze.}
+{138}{}{Ah certo... la vostra ricostruzione va sicuramente a gonfie vele e i vostri calici saranno certamente ricolmi di certezze.}
+{139}{}{Non sono convinto. Mi sembra una faccenda troppo losca.}
+{140}{JAIN15}{Credi pure a quello che vuoi. Ma fallo da un'altra parte. Adesso puoi andare.}
+{141}{JAIN17}{Dileggiare la nostra sacra causa non e' un comportamento apprezzato. Se continuerai sarai punito.}
+{142}{}{E chi si occupera' della punizione? Ooh, vorrei avvere la frusta piu' dura che avete, se non vi dispiace.}
+{143}{}{Sono mortificato.}
+{144}{JAIN18}{Quando i Figli cammineranno sulla terra risorta, la tua genia scomparira', eretico. Vattene subito.}
+{145}{JAIN19}{L'umorismo non mi e' del tutto sconosciuto, ma guidare i Figli della Cattedrale e' un compito che prendo seriamente. Sei pregato di ricordartelo.}
+{146}{}{Mi dispiace, non ho molta familiarita' con le usanze della Cattedrale.}
+{147}{}{Okay. Bye.}
+{148}{JAIN20}{Se cerchi certezze spirituali, sei nel posto giusto. I Figli della Cattedrale cercano una soluzione pacifica e definitiva per i problemi del nostro mondo e potrebbero aver bisogno del tuo aiuto.}
+{149}{}{E cosa pensate di fare con i mutanti?}
+{150}{}{Come possono i Figli della Cattedrale trovare la pace in questo mondo?}
+{151}{JAIN21}{Coloro i quali potranno essere ricondotti all'ovile, lo saranno. Chi resistera', patira' mille sofferenze.}
+{152}{}{Si direbbe un'impresa ardua.}
+{153}{}{Penso che sia giunto il tuo turno di patire un po' di sofferenze.}
+{154}{}{E cosi' dovra' essere. Vi auguro ogni successo per la vostra crociata!}
+{155}{}{Uh, devo proprio andare.}
+{156}{JAIN22}{Con la perseveranza, i Figli possono realizzare qualsiasi cosa. Non falliremo.}
+{157}{}{Bene. Lo spero per voi.}
+{158}{}{Si', certo. E' come dici tu.}
+{159}{}{Okay. Addio.}
+{160}{JAIN26}{Blasfemo! Questa e' una Sacra Dimora! Come puoi pensare ad una cosa simile?}
+{161}{}{Un po' di calma; non dicevo sul serio!}
+{162}{}{E' facile. Te lo faccio vedere.}
+{163}{JAIN27}{La benedizione della Sacra Fiamma sia su di te, Figlio mio.}
+{164}{}{Chi e' la Sacra Fiamma?}
+{165}{}{Questo e' un covo di ipocriti.}
+{166}{}{E su di lei, Sacerdotessa Jain. A presto.}
+{167}{}{Ug luk to ruk?}
+{168}{}{Ooook!}
+{169}{JAIN28}{Un tempo avevi delle potenzialita'. Ora non sei piu' il benvenuto.}
+{170}{JAIN29}{Non sei piu' il benvenuto. Sei pregato di andartene.}
+{171}{JAIN30}{Cosa ti porta qui?}
+{172}{}{Ho ammazzato il Master: credo si spacciasse per la Sacra Fiamma.}
+{173}{}{Siete stati liberati dall'oppressione del Master.}
+{174}{}{Mu tuk doh tub?}
+{175}{}{Piedi.}
+{176}{JAIN31}{Hai fatto cosa? La pagherai per il tuo peccato contro la Sacra Fiamma.}
+{177}{JAIN32}{Chi?}
+{178}{}{Il Master. Voleva unire i mutanti e dominare il mondo.}
+{179}{}{Nessuno di importante.}
+{180}{JAIN33}{Mi sembri allucinato. Ti consiglio di rivolgerti ad uno specialista per risolvere i tuoi problemi.}
+{181}{JAIN204}{Ti ho detto di andartene. Sei sordo o soltanto stupido?}
+{182}{JAIN200}{Lascia immediatamente questa stanza o ti faro' purificare dalla Sacra Fiamma.}
+{183}{JAIN202}{Non c'e' nessuno piu' grande della Sacra Fiamma e noi siamo i Suoi servitori.}
+{184}{}{Davvero? Wow. Quale sarebbe, quindi, la ragione per unirsi al vostro ordine?}
+{185}{}{Uh, okay. Addio.}
+{186}{JAIN27}{La benedizione della Sacra Fiamma sia su di te, Figlio mio.}
+{187}{JAIN22}{Con la perseveranza, i Figli possono realizzare qualsiasi cosa. Non falliremo.}
+{188}{JAIN201}{Questa non e' una domanda appropriata.}
+
+#Tell Me Abouts
+
+{1000}{}{Guerra}
+{1001}{}{Master}
+{1002}{}{Cattedrale}
+{1003}{}{Mutanti}
+{1004}{}{Hub}
+{1005}{}{Acciaio}
+{1006}{}{Vasche}
+{1007}{}{Sacra}
+{1008}{}{Unita'}
+{1009}{}{Confraternita}
+{1010}{}{Fiamma}
+{1011}{}{Figli}
+
+
+{1100}{JAIN300}{Fu la purificazione del pianeta. L'incuria di chi venne prima di noi causo' i sacri fuochi. Fu la Giustizia.}
+{1101}{JAIN301}{Non esiste altro Signore all'infuori della Sacra Fiamma. E' il nostro Signore e il Signore di tutti.}
+{1102}{JAIN302}{La volonta' dell'Altissimo porta alla rinascita del pianeta. Noi siamo i Suoi Figli e realizziamo la Sua volonta'.}
+{1103}{JAIN303}{Sono sacri perche' portano i segni dei peccati passati come testimonianza per il presente.}
+{1104}{JAIN304}{Come molte altre citta', presto aderira' anch'essa al dominio morale della Cattedrale.}
+{1105}{JAIN305}{Rivendicano una fondazione religiosa, ma mancano di cio' che li renderebbe davvero virtuosi. Tuttavia, il loro zelo e' confortante.}
+{1106}{JAIN306}{Non ne ho mai sentito parlare.}
+{1107}{JAIN308}{Il Santo dei Santi. E' la luce maestra che ci guida. La Sacra Fiamma purifichera' gli infedeli quando si instaurera' il Legame della Rinascita.}
+{1108}{JAIN309}{E' l'unificazione, attuata dalla Sacra Fiamma, di tutte le genti e di tutte le razze, nonche' l'eradicazione degli infedeli da questo mondo.}
+{1109}{JAIN305}{Rivendicano una fondazione religiosa, ma mancano di cio' che li renderebbe davvero virtuosi. Tuttavia, il loro zelo e' confortante.}
+{1110}{JAIN308}{Il Santo dei Santi. E' la luce maestra che ci guida. La Sacra Fiamma purifichera' gli infedeli quando si instaurera' il Legame della Rinascita.}
+{1111}{JAIN302}{La volonta' dell'Altissimo porta alla rinascita del pianeta. Noi siamo i Suoi Figli e realizziamo la Sua volonta'.}
+

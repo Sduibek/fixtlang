@@ -1,0 +1,309 @@
+# Beth is female. She speaks with a normal accent. She is a friendly person
+# who is mostly interested in selling equipment and information.
+{100}{}{Vedi Beth, la proprietaria dell'Armeria.}
+{101}{}{Ehila'. Come posso aiutarti?}
+{102}{}{Posso farti qualche domanda?}
+{103}{}{Posso farti qualche altra domanda?}
+{104}{}{Vorrei comprare qualcosa.}
+{105}{}{Vorrei vendere qualcosa.}
+{106}{}{Come si puo' guadagnare qualche soldo, da queste parti?}
+{107}{}{Niente. Arrivederci.}
+{108}{}{Ruk?}
+{109}{}{Cosa si dice in giro a proposito delle carovane scomparse? }
+# the Deathclaw is male
+{110}{}{Cosa mi sai dire del Deathclaw?}
+{111}{}{Potresti parlarmi di nuovo del Deathclaw?}
+# Decker is male
+{112}{}{Cosa mi puoi dire di Decker? }
+{113}{}{Potresti parlarmi dei mercanti?}
+{114}{}{Hai sentito qualche voce interessante?}
+{115}{}{Grazie, e' tutto. Ci vediamo.}
+{116}{}{Umm, come non detto.}
+# Jain is a female religious figure
+{117}{}{Beh, io non sono una pettegola, ma pare che la morte di Decker sia legata in qualche modo all'assassinio di Jain.}
+# The Maltese Falcon is a bar
+{118}{}{Beh, di solito non parlo alle spalle della gente, ma conosco qualcuno che conosce qualcuno che dice di aver visto tre enormi tizi incappucciati entrare nel Falcone Maltese subito prima della strage.}
+# the Children of the Cathedral is an organization - religious
+{119}{}{Beh, di solito non mi piace spettegolare, ma qualcuno ha ucciso Jain, la Gran Sacerdotessa dei Figli della Cattedrale. A me non interessa, ma non so cos'abbia fatto per meritarsi una fine simile.}
+# The Brotherhood of Steel is an organization - religious
+{121}{}{Beh, io non do ascolto ai pettegolezzi, ma un mio amico mercante ha visto un gruppo di mutanti nel deserto a nordovest, oltre la base della Confraternita d'Acciaio.}
+{122}{}{Sai, non mi piace farmi gli affari degli altri, ma i Figli della Cattedrale stanno chiedendo in giro informazioni su di te. Io starei in guardia. Sono dei tipi strani.}
+{123}{}{Beh, io non sono una pettegola, ma pare che la morte di Decker sia legata in qualche modo all'assassinio di Jain. }
+{124}{}{ C'e' dell'altro. Conosco qualcuno che conosce qualcuno che dice di aver visto tre enormi figuri incappucciati che entravano nel Falcone Maltese subito prima della strage. }
+{125}{}{ C'e' dell'altro. Qualcuno ha ucciso Jain, la Gran Sacerdotessa dei Figli della Cattedrale. A me non interessa, ma non so cos'abbia fatto per meritarsi una fine simile. }
+{126}{}{ C'e' dell'altro. Un mio amico mercante ha visto un gruppo di mutanti nel deserto a nordovest, oltre la base della Confraternita d'Acciaio. }
+{127}{}{ C'e' dell'altro. I Figli della Cattedrale stanno chiedendo in giro informazioni su di te. Io starei in guardia. Sono dei tipi strani. }
+{128}{}{Altro?}
+{129}{}{Grazie, posso farti qualche altra domanda?}
+{130}{}{Okay, grazie.}
+{131}{}{Scusa, cos'hai detto?}
+# Klug and Ruk are a stupid person saying something incomprehensible
+{132}{}{Klug?}
+{133}{}{Ruk!}
+{134}{}{Mi dispiace, non capisco. Torna quando ti sentirai meglio.}
+# The Merchant Market is a location
+{135}{}{Beh, io non offro lavoro, ma nella Piazza dei Mercanti c'e' una bacheca di annunci. Magari puoi darci un'occhiata.}
+{136}{}{Okay, grazie.}
+{137}{}{No, niente d'interessante. Ma non temere: terro' le orecchie ben aperte [ti fa l'occhiolino]. Altro?}
+{138}{}{Si'.}
+{139}{}{No.}
+{140}{}{Cos'altro posso fare per te?}
+{141}{}{Ma certo che puoi, non essere sciocco.}
+{142}{}{Beh, certo, sarei felice di aiutarti. Cosa vuoi sapere?}
+{143}{}{Okay. E' stato bello parlare con te. Buona giornata.}
+{144}{}{No, e' tutto. Vuoi parlare d'altro?}
+{145}{}{Si'.}
+{146}{}{No.}
+{147}{}{Beh, torna presto. Non essere timido.}
+{148}{}{Ecco una persona con cui non vorrei mai avere a che fare... mi spaventa. E' il "proprietario" del Falcone Maltese.}
+{149}{}{Perche' l'hai detto a quel modo? Il "proprietario" del Falcone Maltese.}
+{150}{}{Perche' ti spaventa? }
+{151}{}{Scusa, e' solo che parlarne mi ricorda un amico, il vecchio proprietario del locale. Decker voleva il Falcone a tutti i costi, ma il mio amico non era intenzionato a vendere. Due giorni dopo e' stato trovato morto in un vicolo della Citta' Vecchia.}
+{152}{}{Perche' pensi che sia stato Decker?}
+{153}{}{Avrebbe dovuto pensarci due volte prima di mettersi contro Decker.}
+{154}{}{Mi dispiace, ma adesso devo proprio andare.}
+{155}{}{Il mio amico era un maniaco della pulizia. Non si sarebbe avvicinato alla Citta' Vecchia nemmeno per tutto l'oro del mondo. E' stato ucciso con una Magnum; nessuno, nella Citta' Vecchia, potrebbe permettersi un'arma simile. In piu', gli hanno sparato un colpo in testa e due nella schiena. Ti pare un furto finito male, questo? Il mio amico stava solo cercando di riprendersi la sua vita...}
+{156}{}{Ehi, mi piace il suo stile. Dopo che hai ucciso il tuo avversario, mettilo nel posto che piu' disprezza.}
+{157}{}{Riprendersi la sua vita?}
+{158}{}{Mi dispiace...}
+{159}{}{Oh, okay.}
+{160}{}{Forse tu non puoi capire, ma quasi tutti, qui, aspettano soltanto il giorno in cui potranno finalmente avere una vita tutta loro. Il giorno in cui le loro vite non apparterranno piu' ai mercanti o a qualche strozzino.}
+{161}{}{Oh, grazie.}
+{162}{}{Ma non la smetti mai di parlare?!}
+{163}{}{Questa e' la cosa piu' stupida che io abbia mai sentito!}
+{164}{}{C'e' altro che posso fare per te?}
+{165}{}{Beh, scusami tanto. Ma sei stato TU a chiedermelo.}
+{166}{}{E' la persona piu' letale di tutto l'Hub; molti dicono che sia lui il vero padrone della citta', non i mercanti o la polizia. Se mai dovessi incontrarlo... fa' attenzione.}
+{167}{}{Questo non gli da' il diritto di uccidere qualcuno.}
+{168}{}{Mi fai vomitare. Vattene. Scommetto che si sta chiedendo dov'e' finito il suo leccapiedi preferito.}
+{169}{}{Beh, ci sono tre gruppi principali di mercanti. I Mercanti d'Acqua, le Carovane Scarlatte e i Mercanti FarGo. Sono anche a capo del consiglio cittadino. Di chi vuoi che ti parli?}
+{170}{}{Mercanti d'Acqua.}
+{172}{}{Carovane Scarlatte.}
+{173}{}{Mercanti FarGo.}
+{174}{}{Consiglio cittadino.}
+{175}{}{Basta cosi'. Grazie per le informazioni.}
+{176}{}{Lasciamo stare.}
+{177}{}{Hanno il controllo di tutta l'acqua. Dei veri aguzzini... non lavorerei mai per loro. Le loro buste paga sono le peggiori e i loro lavori non sono certo meglio.}
+{178}{}{Hanno sempre avuto il controllo dell'acqua? }
+{179}{}{Ci sono loro dietro la scomparsa delle carovane?}
+{180}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{181}{}{Grazie, ci vediamo.}
+{182}{}{Cos'altro vuoi sapere?}
+{183}{}{No. Da quel che ho sentito, tempo fa alcuni mercanti presero possesso della cisterna d'acqua e si autoproclamarono gli unici fornitori d'acqua della zona, imponendo alla popolazione di servirsi solo da loro. Le altre compagnie mercantili si opposero e scoppio' una guerra che duro' per anni, finche' un uomo di nome Roy Greene - esatto, proprio il nonno di Justin - propose un accordo tra le parti che mise fine agli scontri.}
+{184}{}{Che tipo di accordo?}
+{185}{}{Capperi! Scusa se te l'ho chiesto.}
+{186}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{187}{}{Grazie, ci vediamo.}
+{188}{}{Per farla breve, istitui' il consiglio cittadino e pose un limite al prezzo dell'acqua. Da parte mia penso che avrebbe fatto meglio a dargli qualche sonora legnata - oh, scusa... volevo dire che avrebbe fatto meglio a far vedere chi era il capo.}
+{189}{}{Ottimo. Non avevo bisogno di cosi' *tante* informazioni, ma grazie lo stesso.}
+{190}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{191}{}{Grazie, ci vediamo.}
+{192}{}{Devi scusarmi, a volte mi capita di parlare un po' troppo. C'era qualcos'altro che volevi sapere?}
+{193}{}{Quelli delle Carovane Scarlatte non sono altro che dei pazzi. Accettano qualsiasi incarico, anche il piu' pericoloso. Mi sorprende che, tutto sommato, abbiano perso cosi' poche carovane.}
+{194}{}{Anche a loro sono scomparse delle carovane?}
+{195}{}{Quanto pericoloso?}
+{196}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{197}{}{Grazie, ciao.}
+{198}{}{Passano volontariamente in zone dove stazionano bande di predoni. I loro prezzi sono alti, cosi' possono assumere molte guardie. La paga e' ottima, ma per godersela bisogna esser vivi, non trovi?}
+{199}{}{Anche a loro sono scomparse delle carovane?}
+{200}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{201}{}{Grazie, ciao.}
+{202}{}{A dire il vero, tutti i mercanti hanno subito qualche perdita, ultimamente. I FarGo sono solo sfortunati, probabilmente.}
+{203}{}{Incarichi pericolosi? Quanto?}
+{204}{}{Grazie. Un'altra domanda a proposito dei mercanti...}
+{205}{}{Grazie, ciao.}
+{206}{}{I Mercanti FarGo pagano bene e le loro rotte non sono troppo pericolose. Butch e' anche il proprietario di questo negozio. E' un brav'uomo. Mi tratta bene e mi lascia fare quel che voglio, qui dentro; mi piace lavorare per lui. In piu', se lavori per Butch hai il diritto ad uno sconto sulla mia merce.}
+{207}{}{Per come la vedo io, non credo. Penso che sia stato il Deathclaw, o forse la Confraternita d'Acciaio.}
+{208}{}{Perche' non credi che siano stati i Mercanti d'Acqua?}
+{209}{}{Cos'e' esattamente un Deathclaw?}
+{210}{}{Potresti parlarmi di nuovo del Deathclaw?}
+{211}{}{Cos'e' la Confraternita?}
+{212}{}{Perche' pensi che sia stata la Confraternita d'Acciaio?}
+{213}{}{Grazie. Torniamo ai mercanti, adesso...}
+{214}{}{Okay. Beh, adesso devo proprio andare.}
+{215}{}{Qualcuno pensa che i responsabili di tutto siano i Mercanti d'Acqua, ma io non credo che sia cosi'. Credo piuttosto che sia stato quel dannato Deathclaw, o qualcuno di quei pazzi della Confraternita d'Acciaio.}
+{216}{}{Beh, pensavo che fosse lui che attaccava le carovane, ma evidentemente non e' cosi'. Ma e' comunque la' fuori, da qualche parte. Ci sono troppe voci in giro: non puo' non esistere.}
+{217}{}{Credo sia lui ad attaccare le carovane. Potrebbe anche essere la Confraternita d'Acciaio: e' un gruppo piuttosto strano. Qualcuno crede che siano i Mercanti d'Acqua, ma per me non e' cosi'.}
+{218}{}{Certo.}
+{219}{}{Perche', come continuo a ripetere a tutti, anche loro hanno perso delle carovane. Niente di paragonabile a quanto succede ai Mercanti FarGo, ma anche loro stanno subendo dei danni.}
+{220}{}{Potrebbero mentire, oppure potrebbe essere tutto un trucco per fare in modo che nessuno sospetti di loro.}
+{221}{}{Per quale motivo i Mercanti FarGo hanno subito piu' perdite di tutti? }
+{222}{}{Un'altra domanda sulle carovane scomparse...}
+{223}{}{Grazie. Torniamo ai mercanti, adesso... }
+{224}{}{Ma quante stronzate spari?!}
+{225}{}{Grazie, ma devo andare.}
+{226}{}{Scusa tanto! Sei terribilmente veloce nel giudicare... la verita' ti fa paura?}
+{227}{}{E' formato da sei rappresentanti, due per ognuno dei principali gruppi di mercanti. Ogni proposta ha bisogno di almeno quattro voti favorevoli per passare. Non riescono mai ad accordarsi su nulla.}
+{228}{}{Bella pensata, ma ne dubito fortemente. Si sono sabotati tra loro per anni, ma questo non e' il loro stile. Non perderebbero cosi' tanti soldi per far sparire qualche carovana. In piu', tutte le carovane sono protette da squadre di guardie. Qualcuno dovrebbe essere comunque in grado di scappare, in caso di attacco. Non hanno certo gli uomini o i soldi per organizzare assalti cosi' devastanti. Almeno un sopravvissuto avrebbe dovuto esserci.}
+{229}{}{Gia'... ma perche' questi "incidenti" accadono piu' spesso ai Mercanti FarGo?}
+{230}{}{Un'altra domanda sulle carovane scomparse...}
+{231}{}{Grazie. Torniamo ai mercanti, adesso...}
+{232}{}{Grazie, ma devo andare. }
+{233}{}{Sfortuna? Non saprei. Forse perche' seguono soltanto rotte differenti rispetto agli altri. O forse perche' non hanno lo stesso numero di guardie delle Carovane Scarlatte, ma... potrebbe pure essere perche' spesso hanno dei carichi piu' preziosi di quelli dei Mercanti d'Acqua. Vallo a sapere. Non sembrano esserci differenze sostanziali tra i gruppi.}
+{234}{}{I Mercanti d'Acqua potrebbero mentire, oppure potrebbe essere tutto un trucco per fare in modo che nessuno sospetti di loro. }
+{235}{}{Un'altra domanda sulle carovane scomparse...}
+{236}{}{Grazie. Torniamo ai mercanti, adesso... }
+{237}{}{Non la smetti MAI di parlare, vero?!}
+{238}{}{Grazie. Adesso devo proprio andare.}
+{239}{}{Scusa tanto! Sei libero di andartene quando ti pare. Se non volevi che ti rispondessi potevi anche fare a meno di farmi una domanda.}
+{240}{}{Il Deathclaw e' la cosa piu' malvagia che sia emersa dalle ceneri della Guerra. Qualcuno dice che sia un potente fantasma che infesta la zona in cerca di vendetta. Ma io ti dico che non e' uno spettro: e' reale, come lo sei tu e come lo sono io. E' alto 6 metri e ha denti grandi quanto il braccio di un uomo adulto. E' una specie di demonio uscito dall'inferno mentre il mondo era immerso in un mare di fiamme.}
+{241}{}{Uh, scusa se te l'ho chiesto.}
+{242}{}{Sei pazza! Dovrei proprio mettere fine alla tua sofferenza...}
+{243}{}{Cos'altro mi sai dire del Deathclaw?}
+{244}{}{Wow! Sai dove posso trovarlo?}
+{245}{}{Beh, nella Citta' Vecchia c'e' un vecchio mutante di nome Harold. Lui l'ha visto. Anzi, e' l'unico ad averlo visto e ad esser sopravvissuto dopo averlo fatto.}
+{246}{}{L'unico ad averlo visto e ad essere ancora vivo?}
+{247}{}{Si', certo... e io sono il padre del Deathclaw.}
+{248}{}{Si', certo... e io sono la mamma del Deathclaw.}
+{249}{}{Un'altra domanda sulle carovane scomparse...}
+{250}{}{Grazie. Torniamo ai mercanti...}
+{251}{}{Andro' da questo Harold, allora. Ci si vede.}
+{252}{}{Lo zio Slappy, giu' nella Citta' Vecchia, a volte ne parla. Ma e' soltanto un vecchio pazzo rincitrullito.}
+{253}{}{Un'altra domanda sulle carovane scomparse...}
+{254}{}{Grazie. Torniamo ai mercanti, adesso...}
+{255}{}{Grazie. Andro' a parlare con lui. Ci vediamo.}
+{256}{}{Vedrai!}
+{257}{}{Gia'. Davvero incredibile, no? Si trova da qualche parte, giu' a sudovest. Nella Citta' Vecchia c'e' un vecchio mutante di nome Harold che ha visto quella bestia nella sua tana. Non capisco come mai una persona cosi' a modo sia costretta a vivere tra tutti quei pezzenti.}
+{258}{}{Un'altra domanda sulle carovane scomparse...}
+{259}{}{Grazie. Adesso torniamo ai mercanti...}
+{260}{}{Grazie. Andro' a parlare con lui. Ci vediamo.}
+{261}{}{La Confraternita d'Acciaio e' piena di pazzi furiosi che venerano la tecnologia; la loro base si trova a nordovest di qui. Compiono sacrifici umani e fanno un sacco di altre cose altrettanto orribili.}
+{262}{}{E' ridicolo! Chi te l'ha detto?}
+{263}{}{Un'altra domanda sulle carovane scomparse...}
+{264}{}{Grazie. Adesso torniamo ai mercanti...}
+{265}{}{Ma e' terribile. Grazie dell'avvertimento. Ci vediamo.}
+{266}{}{Beh, ehm... non ricordo, ma chiunque me l'abbia detto non mentiva di certo... cioe', potrebbe anche essere vero! Io comunque starei attenta.}
+{267}{}{Un'altra domanda sulle carovane scomparse...}
+{268}{}{Beh, adesso torniamo ai mercanti...}
+{269}{}{Sei un'idiota!}
+{270}{}{Guarda che ore sono! Devo proprio andare! Addio.}
+{271}{}{Why, you don't know? (She lowers her voice.) I heard that they make human sacrifices and do all sorts of other terrible things!}
+{272}{}{Si', e' vero. E ci divertiamo molto. Che male c'e'?}
+{273}{}{Come *MEMBRO* della Confraternita, posso ASSICURARTI che non facciamo NULLA di quanto dici!}
+{274}{}{Davvero? Sono stato nella loro base: sembravano strani, ma non cosi' tanto.}
+{275}{}{Davvero? Non lo sapevo.}
+{276}{}{Come se non lo sapessi. E' chiaro come il sole che sei uno di loro. D'altronde vai in giro con addosso quell'armatura di metallo. Siete soltanto delle persone *malate*.}
+{277}{}{Non so cosa tu voglia insinuare, ma ti assicuro che non succede niente di "malato" nella Confraternita.}
+{278}{}{Si'... e allora? Non lo siamo tutti?}
+{279}{}{Non lo sapevo.}
+{280}{}{Mi scusi, signore. E' pregato di riporre la sua arma.}
+{281}{}{Mi scusi, signora. E' pregata di riporre la sua arma.}
+{282}{}{Mi dispiace, ma non ho alcuna intenzione di aiutarti finche' terrai in mano quell'arma. Questo e' un negozio, non un campo di battaglia.}
+{283}{}{Uhh... beh, certo... umm... Io... desideri... desideri qualcos'altro?}
+{284}{}{Non si puo' mai sapere com'e' fatta una persona che sta dietro ad una porta chiusa. Bisogna fare attenzione quando si scelgono le proprie amicizie. Ti serve altro?}
+# Not believing the player for a moment, then getting nervous
+{285}{}{Sei un...?  Cioe'... Io non volevo... Umm... Oggi e' davvero una splendida giornata. Non credi? Allora, cos'altro posso fare per te?}
+{286}{}{Un'altra domanda sulle carovane scomparse...}
+{287}{}{Grazie. Adesso torniamo ai mercanti...}
+{288}{}{No, e' tutto. Ci vediamo.}
+{289}{}{Certo, come no? Posso fare altro per te?}
+{290}{}{Ottimo! Lascia che ti mostri quello che ho.}
+{291}{}{Io vendo la merce migliore della citta'. Che cosa stavi cercando?}
+{292}{}{Cosi' mi piaci! Che cosa ti serve?}
+{293}{}{Parliamo di affari.}
+{294}{}{Se hai soldi, hai anche la mia attenzione.}
+{295}{}{Il tipo di cliente che preferisco!}
+{296}{}{Vuoi comprare qualcosa? Forse mi sbagliavo su di te.}
+{297}{}{Oh, e' vero. Dato che lavori per Butch hai diritto ad uno sconto del 15%.}
+{298}{}{Dato che mi piaci, ti faro' comunque uno sconto del 15%.}
+{299}{}{Mi dispiace, ma non hai piu' diritto allo sconto.}
+{300}{}{Fammi vedere cos'hai.}
+{301}{}{Hai qualcosa di bello?}
+{302}{}{Bene. Vediamo...}
+{303}{}{Certo.}
+{304}{}{Oggi cos'hai per me?}
+{305}{}{Magnifico. Ho sempre bisogno di merce fresca.}
+{306}{}{Mi piacerebbe dare un'occhiata alla tua merce.}
+{307}{}{Non cercare di ridurmi sul lastrico.}
+{308}{}{Potrei anche permetterti di vendermi qualcosa, ma meglio per te che sia di qualita'.}
+{309}{}{Faresti meglio a non farmi perdere tempo.}
+{310}{}{Spero che tu abbia qualcosa di interessante, questa volta.}
+{311}{}{Ah, chi si rivede! E' sempre un piacere. Come posso aiutarti?}
+{312}{}{Beh, ciao! E' un piacere rivederti. Cosa posso fare per te?}
+{313}{}{Vorrei tanto andare in ferie... Ultimamente ci sono state delle bellissime giornate.}
+{314}{}{Beh, bentornato. Oggi stai davvero benissimo!}
+{315}{}{Gia' di ritorno? }
+{316}{}{Te n'eri appena andato... Ti mancavo di gia'?}
+{317}{}{Ti serve di nuovo qualcosa?}
+{318}{}{E' da un po' che non ci si vede. Cosa posso fare per te?}
+{319}{}{Quanto tempo! Spero che tu stia bene.}
+{320}{}{Ancora vivo, a quanto vedo. Stavo cominciando a preoccuparmi. Cosa posso fare per te?}
+{321}{}{Eccoti qua. E' passata piu' di una settimana dall'ultima volta che ci siamo visti. Dovresti farti vedere piu' spesso: sei il mio cliente PREFERITO!}
+{322}{}{Si'?}
+{323}{}{Che c'e'?}
+{324}{}{Sei qui per comprare qualcosa o che?}
+{325}{}{Questo e' il mio negozio. Faresti meglio a comportarti bene.}
+{326}{}{Cosa c'e'?!}
+{327}{}{Ancora tu?}
+{328}{}{Il tempo e' denaro. Cosa c'e'?}
+{329}{}{Ti serve qualcosa?}
+{330}{}{Hai sentito? E' morto! Sono felicissima! E' la cosa migliore che sia mai successa a questa citta'.}
+{331}{}{Te l'ho gia' detto. E' morto! Adesso cerchiamo di dimenticarci di lui; il solo nominarlo mi fa tornare in mente brutti ricordi.}
+{332}{}{Oh, si'.}
+{333}{}{Si', se lo meritava e non ho alcun rimorso per averlo fatto.}
+# Sid works for Beth. Sid is male.
+{334}{}{Sei stato tu? Davvero? Ti amo! [Beth guarda Sid] Non fare quella faccia, scemo. Ecco, per dimostrarti la mia gratitudine... [Beth ti da' sei stimpak.] Non e' molto, ma mi hai reso davvero felice!}
+{335}{}{Sei stata tu? Davvero? Sei grande! Non hai idea della gioia che ho provato quando mi hanno detto che era morto. Ecco, prendi questi... [Beth ti da' sei stimpak.] Non e' molto, ma mi hai reso davvero felice!}
+{336}{}{Mi dispiace di non aver nulla di tuo gradimento.}
+{337}{}{Non hai visto nulla che ti piaccia? Cerchero' di procurarmi della merce migliore.}
+{338}{}{Mi dispiace che la mia offerta non ti abbia soddisfatto, ma se devo rivenderlo vorrei riuscire a guadagnarci qualcosa.}
+{339}{}{Hai cambiato idea? Non importa.}
+{340}{}{Mi dispiace di non esserti stata d'aiuto. Buona giornata.}
+{341}{}{Magari la prossima volta. Ci vediamo.}
+{342}{}{Spero di poterti aiutare, la prossima volta.}
+{343}{}{Smettila di farmi perdere tempo.}
+{344}{}{Se non sei qui per comprare qualcosa, vattene.}
+{345}{}{Se non vuoi comprare qualcosa, preferirei che tu mi lasciassi in pace.}
+{346}{}{Se non sei qui per vendere, puoi anche andartene.}
+{347}{}{Se non vuoi vendere qualcosa, smettila di tormentarmi.}
+{348}{}{Vattene.}
+{349}{}{Sapevo che mi avresti solo fatto perdere del tempo.}
+{350}{}{Come da copione: ci avrei scommesso che non avevi i soldi.}
+{351}{}{Grazie mille. Forse oggi potro' tornare a casa prima.}
+{352}{}{Wow. Mi hai quasi svuotato il negozio!}
+{353}{}{Spero che tu riesca a portare tutto!}
+{354}{}{Grazie. Spero di riuscire a vendere tutta questa roba!}
+{356}{}{Queste cose dovrebbero vendersi da sole. Grazie.}
+{357}{}{Queste cose mi saranno utili. Grazie.}
+{358}{}{Spero di avere spazio sufficiente per tutta questa roba!}
+{359}{}{Beh, grazie infinite! Ti auguro una magnifica giornata!}
+{360}{}{Grazie mille. Torna pure quando vuoi.}
+{361}{}{Sarai sempre il benvenuto, qui. Durante l'orario d'apertura, naturalmente.}
+{362}{}{Grazie e buona giornata.}
+{363}{}{Arrivederci e grazie!}
+{364}{}{Tutto qui? Solo munizioni? Sono delusa. Beh, la prossima volta voglio che tu spenda molto di piu'!}
+{365}{}{Fai la scorta di munizioni? Ottima idea. Non se ne hanno mai troppe.}
+{366}{}{Giusto l'essenziale, eh? Arrivederci!}
+{367}{}{Beh, non credevo che avresti effettivamente comprato qualcosa.}
+{368}{}{Grazie. Non sei poi tanto male.}
+{369}{}{Grazie.}
+{370}{}{Buona giornata.}
+{371}{}{Arrivederci.}
+{372}{}{Grazie.}
+{373}{}{Grazie dell'acquisto. Buona giornata.}
+{374}{}{Ti ho sentito!}
+{375}{}{Sid! Non prendere in giro i clienti.}
+{376}{}{Sid! Piantala!}
+{377}{}{Se non chiudi quella bocca il "regalo" te lo becchi tu.}
+{378}{}{Ti ho sentito! Sei licenziato!}
+{379}{}{Ignoralo. Io lo faccio sempre.}
+{380}{}{Oh, Sid, sei davvero divertente.}
+{381}{}{Come vuoi.}
+{382}{}{Taci.}
+{383}{}{Ehi. Sta' buono, Sid.}
+{384}{}{Non credo proprio.}
+{385}{}{Se non la smetti di disturbare il mio cliente ti faccio blu.}
+{386}{}{Please excuse my obnoxious- I mean, 'helpful' guard.}
+{387}{}{Sei proprio uno zuccone!}
+{388}{}{Sid!}
+{389}{}{Tesoro? Dove hai imparato quelle brutte parole?}
+{390}{}{*sigh* I}
+{391}{}{ dovrei proprio metterlo sotto chiave. Non credi?}
+{392}{}{Penso sia geloso!}
+{393}{}{Sid! Non essere scortese con i clienti!}
+{394}{}{Conosci qualcun altro che potrebbe avere delle informazioni sul Deathclaw?}
+{395}{}{Arrivederci.}
+{396}{}{Grazie.}
+{397}{}{Ook.}
+{398}{}{C'e' qualche posto in particolare che dovrei evitare?}
+{399}{}{Oh si'. Sta' lontano il piu' possibile dal Falcone Maltese. Decker e il suo viscido lecchino Kane sono dei veri avanzi di galera. Sono capaci di mangiarti vivo, se non stai attento. E starei alla larga anche da Lorenzo e dalla sua Compagnia Prestiti Amichevoli.}

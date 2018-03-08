@@ -1,0 +1,30 @@
+{100}{}{To bardzo piêkna, m³oda kobieta.}
+{101}{}{To Christine, ¿ona Michaela.}
+{102}{}{S³ucham? Czy mogê ci w czymœ pomóc?}
+{103}{}{Kim jesteœ?}
+{104}{}{Kto tu rz¹dzi?}
+{105}{}{Czy mog³abyœ powiedzieæ mi co nieco o tej okolicy?}
+{106}{}{Nie, dziêki.}
+{107}{}{Ty moja Mamuœ?}
+{108}{}{Nazywam siê Christine, mieszkam tu z moim mê¿em, Michaelem.}
+{109}{}{Brzytwa z Ostrzami dbaj¹ o wiêkszoœæ spraw i pomagaj¹ nam siê organizowaæ.}
+{110}{}{Michael i ja dopiero siê tu sprowadziliœmy, wiêc nie zobaczy³am jeszcze wiele z okolicy. S³ysza³am o du¿ym koœciele na po³udnie st¹d, ale wygl¹da to w du¿ej mierze na plotkê.}
+{111}{}{Czy wiesz jeszcze o czymœ istotnym?}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks.
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks!
+#
+{112}{}{C D E D B D Ducks}
+{113}{}{M R Not Ducks}
+{114}{}{O S M R                                                                   C D E D B D Wings}
+{115}{}{Y I B M R Ducks}
+
+{116}{}{W czym jeszcze mogê ci pomóc?}
+{117}{}{Nie, nie jestem twoj¹ Mamusi¹. Teraz biegnij siê pobawiæ.}

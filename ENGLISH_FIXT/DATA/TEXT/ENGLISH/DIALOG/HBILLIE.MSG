@@ -48,12 +48,15 @@
 {147}{}{Okay.}
 {148}{}{Yeah, maybe you're right... actually, he seems pretty cool, but I wish he wouldn't yell at me so much.}
 {149}{}{Yeah, right.}
+
 # said to male player
 {150}{}{Up yours, you old fart!}
+{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, mister!}
+
 # said to female player
 {151}{}{Up yours, you old hag!}
-{152}{}{WOW! I can live on this for the rest of my life! Thanks a lot, mister!}
 {153}{}{WOW! I can live on this for the rest of my life. Thanks a lot, ma'am!}
+
 {154}{}{WOW! Thanks... Well...? You're just trying to get me in trouble again!}
 {155}{}{Please don't talk to me, Dan is really mad.}
 {156}{}{Don't worry. I had a talk with him; he'll try to be nicer to you.}

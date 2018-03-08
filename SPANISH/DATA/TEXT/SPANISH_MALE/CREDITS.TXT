@@ -3,21 +3,21 @@
 ; List of folks - LARGE YELLOW
 #= Fallout Fixt =
 
-@A comprehensive customizable patch/mod/restoration
-@Version:  0.80alpha
+@Un parche/mod/restauracion exhaustivo y personalizable
+@Version:  0.81alpha
 
 Sduibek
 
 
-#Please back up online and release source code
+#Por favor has copias de seguridad y publica el codigo fuente
 
-@The number of promising mods and projects killed by
-@crashed drives and lost source code is immeasurable
+@El numero de mods y projectos prometedores perdidos por culpa
+@de fallos en discos duros o codigo fuente perdido es inmenso 
 
-Thank you
+Gracias
 
 
-#Philanthropists
+#Filantropos
 
 Thomas Daley
 phillon
@@ -25,15 +25,15 @@ Salk
 Vasiliy Kashiskiy
 
 
-#Fallout to Fallout 2 Engine Conversion
+#Conversion de motor de Fallout a Fallout 2
 
 Jordan
 
-@Continued by
+@Continuado por
 Darek
 Sduibek
 
-@With contributions by
+@Con contribuciones por
 .Pixote.
 Crafty
 gvx
@@ -45,24 +45,24 @@ sonil
 TarkinMX
 Timeslip
 
-@With motivation and encouragement from
+@Con motivacion y animo de
 JimTheDinosaur
 
-@And votes/feedback for feature proposals from
+@Votos/feedback en propuestas por
 NMA-Fallout community
 RPGCodex community
 
 
-#SFALL PLUGIN
+#PLUGIN SFALL
 
 @Copyright 2008-2015, GPL License
 Timeslip
 the Sfall team
 
-@With many improvements by the talented
+@Con muchas mejoras por el talentoso
 Crafty
 
-@And contributions by
+@Y contribuciones por
 Dream
 Glovz
 Haenlomal
@@ -80,7 +80,7 @@ ravachol
 Ray
 Tehnokrat
 
-@With additional thanks to
+@Y agradecimiento a
 Continuum
 Drobovik
 Fakeman
@@ -90,20 +90,20 @@ MIB88
 Nirran
 Rainman
 TheMaster
-Anyone who has used sfall in their own mods
-The bug reporters and feature requesters
+Y todos los que utilizaron sfall en sus mods
+Los que reportaron bugs y pidieron nuevas funciones
 
 
 #HIGH-RESOLUTION PATCH
 
 Mash
 
-@With contributions by
+@Con contribuiciones por
 .Pixote.
 Continuum
 
 
-#DEBUG MODE 
+#DEBUG MODE
 
 Cubik2k
 Noid
@@ -114,7 +114,7 @@ Platon
 
 TarkinMX
 
-@With contributions by
+@Con contribuiciones por
 Sduibek
 
 
@@ -122,11 +122,11 @@ Sduibek
 
 Lionel d'Hauenens (LABO)
 
-@Translated by
+@Traducido por
 Alchemist
 
 
-#INCLUDED PATCHES
+#PARCHES INCLUIDOS
 
 @Unofficial Patches v1.2X, 1.3X
 Alchemist
@@ -147,14 +147,14 @@ TeamX
 @Armor-Piercing Ammo patch
 Celestial
 
-@Uncut patch (for German versions)
+@Uncut patch (para las versiones alemanas)
 Lexx
 
-@Gore Patch (for German versions)
+@Gore Patch (para las versiones alemanas)
 NeuRomancer
 
 
-#INCLUDED MODS
+#MODS INCLUIDOS
 
 @NPC Mod
 Alchemist
@@ -178,127 +178,129 @@ Wasteland Hellbringer
 Cpt. Corpse
 
 
-# SDUIBEK WOULD LIKE TO THANK:
-@(Listed Alphabetically)
+# A SDUIBEK LE GUSTARIA AGRADECER:
+@(En order alfabetico)
 
 .Pixote.
-@For feedback, support and many graphics
+@Por feedback, soporte y muchos graficos
 
 Breakin'Benny
-@For wiki contributions, bug reports, and research
+@Por contribuciones a la wiki, reporte de bugs e investigacion
 
 Continuum
-@For code, information, and graphics
+@Por codigo, informacion y graficos
 
 Cubik2k
-@For assistance, code, and many great tools and utilites
-@without which Fallout Fixt would be much less interesting
+@Por asistencia, codigo y muchas y fantasticas herramientas
+@sin las cuales Fallout Fixt seria mucho menos interesante
 
 Darek
-@For research, help with the engine conversion, lots of code
-@And providing additional resources and suggestions
+@Por investigacion, conversion del motor, un monton de codigo
+@Y por proporcionar recursos adicionales y sugerencias
 
 Drobovik
-@For the Fallout file archives, and related contributions
+@Por los archivos de Fallout y contribuciones relacionados
 
 Dude101
-@For feedback, admin access to the wiki, and News entry
+@Por feedback, acceso admin. a la wiki y publicacion de noticias
 
 Endocore
-@For feedback, essential mapper guidance, and code
+@Por feedback, como guia esencial para mapping, y codigo
 
 GazDone
-@For some clever sleuthing and fixes
+@Por arreglar bugs de una forma detectivesca e inteligente
 
 gvx
-@For help with debugging/scripting, and menu offsets
+@Por ayudar con debugging/scripting, y offsets del menu
 
 gustarballs1983
-@For feedback, brainstorming, and bug reports.
+@Por feedback, lluvia de ideas, y reporte de bugs.
 
 holder80
-@For the Play-As-A-Mutant idea, design doc and info
+@Por la idea de jugar como un mutante, diseño de docs e info
 
 Infinitron
-@For unscaled feedback and News entry
+@Por un feedback enorme y publicacion de noticias
 
 Jackalgunner
-@For feedback, bug-listing footwork and Wiki entries
+@Por feedback, listar bugs y publicar en la wiki
 
 JimTheDinosaur
-@For support, suggestions, code, feedback, assistance
+@Por soporte, sugerencias, codigo, feedback, asistencia
 
 Jordan
-@For making the engine conversion, and scripting help
+@Por hacer la conversion de motor, y ayuda con scripting
 
 killap
-@For assistance, feedback, guidance, and being an
-@inspiration to the entire Fallout modding community
+@Por asistencia, feedback, guia y ser una inspiracion
+@para toda la comunidad de modding de Fallout
 
 Lexx
-@For the uncut patch, graphics, code, feedback, info
-@And content/code/text from Shattered Destiny
+@Por el uncut patch, graficos, codigo, feedback, info
+@Y material/codigo/texto de Shattered Destiny
 
 Mash
-@For the high-res patch that we love so much, and for
-@putting up with all my annoying messages
+@Por el high-res patch que tanto amamos, y por
+@soportar todos los mis molestos mensajes
 
 Nevill
-@For being a bug-finding ninja and tester extraordinaire
-@Seriously this guy is thorough and meticulous
+@Por ser un ninja encuentra bugs y tester extraordinario
+@En serio, este tio es minucioso y meticuloso
 
 Nirran
-@For feedback, assistance, code, and many great plugins
+@Por feedback, asistencia, codigo, y muchos plugins
 
 Noid
-@For tools, and the original code to enable Debug Mode
+@Por herramientas, y el codigo original para activar Debug Mode
 
-'No Mutants Allowed' forum and website
-@For being an indispensable Fallout resource and great community
+El foro y pagina de 'No Mutants Allowed'
+@Por ser un recurso indispensable y una gran comunidad
 
 Oppen
-@For feedback, brainstorming, code, tools, and assistance
+@Por feedback, lluvia de ideas, codigo, herramientas, y asistencia
 
 Per
-@For writing the Nearly Ultimate Fallout Guide, a great resource
-@Which I still use as a reference when working on Fixt
+@Por escribir la Nearly Ultimate Fallout Guide, un gran recurso
+@que aun utilizo como referencia al trabajar en Fixt
+
+robbforce
+@Por los muchos arreglos y mejoras en textos y dialogos
 
 RPGCodex forum users
-@For the excellent no-bullshit feedback they provide,
-@without scaling to your level
+@Por el excelente feedback sin adulterar que dan
 
 TarkinMX
-@For feedback and making the frontend loader / options utility
-@And working on the Engine Conversion and other tools
+@Por feedback y el frontend loader / options utility
+@Y trabajar en la conversion de motor y otras utilidades
 
 TeamX
-@For being such a valuable resource to Fallout modders, their
-@many useful tools and utilities, and so much great information
+@Por ser un recurso muy util para los modders de Fallout,
+@por sus herramientas y por ser una gran fuente de informacion
 
 Timeslip
-@For feedback, brainstorming and creating the mighty Sfall
+@Por feedback, lluvia de ideas y por crear el poderoso Sfall
 
 Tim Cain
-@For creating Fallout 1, being a cool guy, and personally
-@answering my questions about Fallout, this many years later
+@Por crear Fallout 1, ser un tio guay, y por responder personalmente
+@mis preguntas sobre Fallout despues de tantos años
 
 Wasteland Ghost
-@For being an amazing modder who left a legacy, and indirectly
-@the main reason Fallout Fixt exists
+@Por ser un modder increible que dejo un legado, e indirectamente
+@la razon principal por la que existe Fallout Fixt
 
 WorstUsernameEver
-@For News entry
+@Por publicacion de noticias
 
-You!
-@Everyone who has played (and hopefully enjoyed!) Fallout Fixt
-@Your support and encouragement make me feel warm and fuzzy :)
+Tu!
+@Todo el mundo que ha jugado (y espero, disfrutado!) Fallout Fixt
+@Tu soporte y animo me hace muy feliz :)
 
 
-#PROGRAMMING / SCRIPTING
+#PROGRAMACION / SCRIPTING
 
 Sduibek
 
-@With contributions by
+@Con contribuciones de
 Continuum
 Cubik2k
 Darek
@@ -307,14 +309,14 @@ JimTheDinosaur
 Nevill
 Wasteland Ghost
 
-@Michael and Sophia quests restoration
+@Restauracion de la mision de Michael y Sophia
 Ash
 
-@Lenore and Phil restorations
+@Restauracion de Lenore y Phil
 Continuum
 
 
-#ART / GRAPHICS
+#ARTE / GRAFICOS
 
 @High-res Main Menus
 .Pixote.
@@ -360,21 +362,21 @@ Inin / Mangler
 @Extended Flamer Attack Mod
 .Pixote.
 
-@Splash screens #5 and #6
+@Splash screens 5 y 6
 Kevin
 
-@Some new splash screens and rework of others
+@Algunas de las splash screens y mod. de otras
 .Pixote.
 Ghouly89
 
-@All other splash screens
+@Resto de splash screens
 Sduibek
 
-@Fallout Fixt logo/banner
+@Logo/banner de Fallout Fixt
 Sduibek
-(Original artwork by Interplay)
+(Trabajo original por Interplay)
 
-@Other minor graphics stuff
+@Otros graficos menores
 Sduibek
 
 @120%-Size Mutant Death Animations
@@ -382,46 +384,48 @@ Sduibek
 Sduibek
 
 
-#DESIGN / WRITING (ENGLISH)
+#DISEÑO / TEXTOS (INGLES)
 
 Sduibek
 
-@With contributions by
+@Con contribuciones por
 Ash
 Endocore
+Luffier
 Prisoner416
-
-@"Dialog Fixes" mod/patch
-Nimrod
-
-@"MSG Review" fixes and overhaul for Fixt
 robbforce
 
-@Further fixes, feedback, error-checking
+@Mod/parche "Dialog Fixes"
+Nimrod
+
+@Arreglos y mejoras, "MSG Review", para Fixt
+robbforce
+
+@Arreglos, feedback y comprobacion de errores adicionales
 Luffier
 
 
-#DESIGN / WRITING (SPANISH)
+#DISEÑO / TEXTOS (ESPAÑOL)
 
-@Fixt and new improved translation (male and female)
+@Fixt y nueva traducion mejorada (masculino y femenino)
 Luffier
 
-@Original improved translation (male and female)
+@Traduccion mejorada original (masculino y femenino)
 L@Zar0
 
 
-#DESIGN / WRITING (CZECH)
+#DISEÑO / TEXTOS (CHECO)
 
-@Unpacking & Decoding
+@Unpacking y Decoding
 RAPTOR
 
-@Fonts & BMP Editing
+@Fonts y BMP Editing
 IDLER
 
-@Project leader
+@Lider del projecto
 Ondøej Prùša
 
-@Translation (in KB order)
+@Traduccion (ordenado por KB)
 Radek Friedrich
 Somnambulus
 Petr Bulíø
@@ -433,7 +437,7 @@ Tomáš Turek
 Pavel Zvìøina
 Daniel Bahula
 
-@Special thanx 
+@Agradecimientos
 Jan "Premie" Herodes
 Jirka "Weapons" Švarc
 Pavel "Krysák" Zvìøina
@@ -442,10 +446,10 @@ Pavel "Krysák" Zvìøina
 Khalashnikovf
 
 
-#DESIGN / WRITING (FRENCH)
+#DISEÑO / TEXTOS (FRANCES)
 
-@Translation - Fixing - Error-checking
-@(Listed Alphabetically)
+@Traduccion - Arreglos - Comprobacion de errores
+@(En orden alfabetico)
 
 Benf
 Dr Gast
@@ -458,12 +462,12 @@ Salutbob
 ultramedecine
 
 @FALLOUT-GENERATION.COM
-@The French Speaking Fallout Community
+@La comunidad Fallout en frances
 
 
-#TESTING / TESTERS
+#TESTEO / TESTERS
 
-@(Listed Alphabetically)
+@(En orden alfabetico)
 Alexisok
 bozyn
 Breakin'Benny
@@ -481,7 +485,8 @@ Ryan Paul Fialcowitz
 warning077
 zebrajch
 ziemeck
-...and anyone else I've forgotten to list here!
+... y todos aquellos que me olvide listar!
+
 
 #AUDIO
 
@@ -490,10 +495,10 @@ Sduibek
 @FO1 Pistol Sound Patch
 Mutated Mark
 
-@Medium quality MP3 soundtrack
+@Banda sonora de calidad media
 Good Old Games (GOG.com)
 
-@High-quality remastered MP3 soundtrack
+@Banda sonora remasterizada de gran calidad
 Aural Network
 Mark Morgan
 Redbase
@@ -504,15 +509,15 @@ Vladislav Isaev
 
 Sduibek
 
-@With contributions by
+@Con contribuciones por
 .Pixote.
 Darek
 Endocore
 
-@Made possible using map converter utility by
+@Hecho posible utilizando el convertidor de mapas por
 Cubik2k
 
-@Also made possible with documentation by
+@Tambien hecho posible con la documentacion de
 Sorrow
 
 
@@ -539,13 +544,13 @@ Interplay Entertainment, Interplay Productions
 
 
 
-#PROGRAMMING
+#PROGRAMACION
 
-@Lead Programmers
+@Programadores Principales
 Tim Cain
 Chris Jones
 
-@Programmers
+@Programadores
 Jesse L. Reynolds
 Kevin Weatherman
 Nick Kesting
@@ -553,10 +558,10 @@ Robert Hertenstein 2
 Jess Heinig
 Jason Taylor
 
-@Mac Programmer
+@Programador de Mac
 Tim Hume
 
-@Additional Programming By
+@Programacion Adicional por
 Mark Harrison (Lizard Byte)
 John Price
 Chris DeSalvo
@@ -566,25 +571,24 @@ Guido Henkel
 Michael Bernstein
 Thomas French
 
-@Movie Technology
+@Tecnologia Cinematografica
 Paul Edelstein
 
-@Installer/Autoplay
+@Instalador/Autoplay
 Darren Monahan
 
 
+#ARTE
 
-#ART
-
-@Art Director
+@Director de Arte
 Leonard Boyarsky
 
-@Lead Artists
+@Artistas Principales
 Jason Anderson
 Leonard Boyarsky
 Gary Platner
 
-@Artists
+@Artistas
 Robert Collier
 Michael Dean
 Tramell Ray Isaac
@@ -592,7 +596,7 @@ Eddie Rainwater
 Scott Rodenhizer
 Sharon Shellman
 
-@Additional Art By
+@Arte Adicional por
 Peter Kroko
 Justin Sweet
 Joseph Cesario
@@ -605,29 +609,29 @@ Erik Jamison
 Helena Wickberg
 James Doyle (Apples Animation)
 
-@Clay Modeller
+@Modelador de Barro
 Scott Rodenhizer
 
-@Conceptual Artist
+@Artista Conceptual
 Tony Postma
 
 
 
-#DESIGN
+#DISEÑO
 
-@Lead Designer
+@Diseñador Pricipal
 Chris Taylor
 
-@Designers
+@Diseñadores
 David Hendee
 Scott Bennie
 Brian Freyermuth
 Scott Campbell
 
-@Technical Designer
+@Diseñador Tecnico
 Scott Everts
 
-@Additional Design By
+@Diseños Adicionales por
 Robert Hertenstein 2
 Jess Heinig
 Nick Kesting
@@ -640,10 +644,10 @@ Erick Lujan
 Dennis Presnell
 Feargus Urquhart
 
-@Design/Dialogue
+@Diseño/Dialogo
 Mark O'Green
 
-@Original Game Design By
+@Diseño Original por
 Tim Cain
 Leonard Boyarsky
 Jason Anderson
@@ -652,47 +656,59 @@ Scott Campbell
 
 
 
-#PRODUCTION
+#PRODUCCION
 
-@Producer
+@Productor
 Tim Cain
 
-@Assistant Producer
+@Asistente Productor
 Fred Hatch
 
-@Division Director
+@Director de Division
 Feargus Urquhart
 
-@Asst. Division Director
+@Asistente Director de Division
 Jeremy Barnes
 
-@Original Producer
+@Productor Original
 Tom Decker
 
-@Production Assistant
+@Asistente de Produccion
 Jason G. Suinn
 
-@Monkey Boy
+@Monito
 Mike "Paco" Greene
 
-@Mac Assistance
+@Asistencia de Mac
 Chris Benson
 
+@Version Localizada
+Tom Decker
 
+@Revision, Traduccion Adicional y
+@Garantia de Calidad en Frances
+Marina Bermon
 
-#QUALITY ASSURANCE
+@Revision, Traduccion Adicional y
+@Garantia de Calidad en Español
+Rafael "Rafa" Lopez
 
-@Director of Quality Assurance
+@Ensayadores en Español
+Natalija Benjovski
+
+#GARANTIA DE CALIDAD
+
+@Director de Garantia de Calidad
 Chad Allison
 
-@Assistant Director of QA
+@Asistente Director de G.C.
 Colin Totman
 
-@PC Version Lead Testers
+@Ensayadores Principales, Version PC
 Ron Hodge
 Greg "Moose" Baumeister
 
-@PC Version Testers
+@Ensayadores, Version PC
 Shanna SanPaolo
 Evan Chantland
 Ed Hyland
@@ -709,12 +725,12 @@ Scot Humphreys
 Tim Anderson
 Darrell Jones
 
-@Mac Version Lead Testers
+@Ensayadores Principales, Version Mac
 Jim Dodds
 Matt Murakami
 Steve McLafferty
 
-@Mac Version Testers
+@Ensayadores, Version Mac
 Adam Chaney
 Dennis Presnell
 Savina Greene
@@ -723,80 +739,80 @@ Scot Humphreys
 Mike Krueger
 Matt Golembiewski
 
-@I.S. Technicians
+@Tecnicos de Servicios Informaticos
 Bill Delk
 Steve Cabiness
 
-@Director of Compatibility
+@Director de Compatibilidad
 Phuong Nguyen
 
-@Compatibility Technicians
+@Tecnicos de Compatibilidad
 Marc Duran
-Dan Forsyth
+Dan Porsyth
 Derek Gibbs
 Aaron Olalz
 John Parker
 
 
 
-#AUDIO
+#SONIDO
 
-@Audio Director
+@Director de Sonido
 Charles Deenen
 
-@Audio Mastering
+@Maestro de Sonido
 Craig Duman
 
-@Background TV music
+@Musica de Fondo para TV
 Ronald Valdez
 
-@Cinematics Re-recording Mixer
+@Mezclador de Regrabado Cinematico
 Dave West
 
-@Cinematics Soundeffects
+@Sonidos Especiales Cinematicos
 West Productions
 
-@Foley Artists
+@Artistas de Sonidos Especiales
 Doug Turner
 Gary Murello
 Larry Peacock
 
-@Foley Editor
+@Editor de Sonidos Especiales
 Caron Weidner
 
-@Foley Mixer
+@Mezclador de Sonidos Especiales
 Debby Ruby
 
-@Foley Mixer/Artist
+@Artista/Mezclador de Sonidos Especiales
 Cecilia Perna
 
-@Foley Recorded at
+@Sonidos Especiales Grabados en
 West Productions
 
-@Foley Supervision
+@Supervision de Sonidos Especiales
 Charles Deenen
 Larry Peacock
 
-@FX Editor
+@Editor de Efectos Especiales
 Michael Dickeson
 
-@Music By
+@Musica Por
 Mark Morgan
-@for
+@De
 Four Bars Entertainment
 
-@Intro Re-Recording Mixer
+@Mezclador de Regrabado, Introduccion
 Charles Deenen
 
-@Music Supervisor
+@Supervisor de Musica
 Brian Luzietti
 
-@Sound FX Librarians
+@Bibliotecarios de Efectos de Sonido
 Doug Rappaport
 Sergio Bustamante II
 Ron Valdez
 
-@Sound FX Design
+@Diseño de Efectos de Sonido
 Charles Deenen
 Gregory Allen
 Larry Peacock
@@ -804,31 +820,31 @@ EFX
 Weddington
 Caron Weidner
 
-@Voice Editors
+@Editores de Dialogo
 Doug Rappaport
 Sergio Bustamante II
 
-@Voice Producer
+@Productor de Dialogo
 Fred Hatch
 
-@Voice Recording Engineer
+@Ingeniero de Grabado, Dialogo
 Paul Hurtubise
 
-@Voice Supervisor
+@Supervisor de Dialogo
 Chris Borders
 
-@Voice Talent Coordination
+@Coordinador de Talento, Dialogo
 Julie Morgavi
 
-@Voice Dialogue Recorded At
+@Dialogo Grabado en
 Hollywood Recording Services
 Hollywood, CA
 
-@Voice Direction
+@Director de Dialogo
 Jamie Thomason
 
 
-@FEATURING THE VOICES OF
+@CON LAS VOCES DE
 
 Charlie Adler
 @Harold
@@ -843,7 +859,7 @@ Clancy Brown
 @Rhombus
 
 Jim Cummings
-@Set, Gizmo, The Master
+@Set, Gizmo, El Maestro
 
 Keith David
 @Decker
@@ -852,19 +868,19 @@ Brad Garrett
 @Harry
 
 Tony Jay
-@The Lieutenant
+@El Teniente
 
 Tress MacNeille
 @Jain
 
 Ken Mars
-@Overseer
+@Supervisor
 
 Richard Moll
 @Cabbot
 
 Ron Perlman
-@Butch Harris, Narrator
+@Butch Harris, Narrador
 
 CCH Pounder
 @Vree
@@ -876,91 +892,71 @@ Tony Shalub
 @Aradesh
 
 Kath Soucie
-@Laura, The Master
+@Laura, El Maestro
 
 Cree Summer
 @Tandi
 
 David Warner
-@Morpheus
+@Morfeo
 
 Frank Welker
 @Maxson
 
-@Additional Voice Work by
+@Dialogo Adicional Por
 Max the Dog
 
 
 
 "Maybe"
-@Performed by Ink Spots
-@Courtesy of MCA Records
-@By Arrangement with Universial Music Special Markets, Inc.
+@Interpretado Por Ink Spots
+@Cortesia de MCA Records
+@Por Arreglo con Universial Music Special Markets, Inc.
 
 "MAYBE"
-@Written by Allan Flynn and Frank Madden
-@Used by permission of EMI Robbins Catalog Inc. (ASCAP)
+@Escrito por Allan Flynn y Frank Madden
+@Utilizado con Permiso de EMI Robbins Catalog Inc. (ASCAP)
 
-@WARNING: It is a violation of Federal Copyright Law
-@to copy, duplicate or reproduce this Program or any
-@portions of this Program without the express written
-@permission of the copyright owner.
-
-
+@AVISO: Es una violacion de leyes federales de Copyright
+@copiar, duplicar o reproducir este programa o
+@cualquier parte del programa sin el expreso permiso por
+@escrito del dueño del Copyright.
 
 #MARKETING
 
-@PR Manager
+@Gerente de Relaciones Publicas
 Genevieve Ostergard
 
-@Director of Marketing
+@Director de Marketing
 Paul Sackman
 
-@Marketing Managers
+@Gerentes de Marketing
 Mike Markin
 Craig Owens
 Michael Courtney
 
-@Associate Marketing Manager
+@Gerente de Marketing Asociado
 Tod Mack
 
-@Traffic Manager
+@Gerente de Trafico
 Thom Dohner
 
 
 
 
-@Thanks to: Scott Everts for contributing above and beyond the
-@call of duty to the Quotes File, Bomberman, Quake, Diablo,
-@Warcraft II, various movie soundtracks, Brian Eno, the soda
-@fridge (thanks Gus & Rusty!), the Spirit of Christmas
-@(Go Santa!), Demo the cat, Nicol, Tracy, Mary & Adam, Lisa
-@(for moral support), Jamal, T-Ray's Mom, the two Donalds,
-@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, The Lunch
-@Court, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
-@X-Files, Xena, Buffy, The Simpsons, ER, Jeepin' and
-@the Last Minute Talking Dog for finding that damn bug!
+@Gracias a: Scott Everts, Bomberman, Quake, Diablo,
+@Warcraft II, musica de varias peliculas, Brian Eno, la hielera
+@de refrescos (¡Gracias Gus y Rusty!), el espiritu navideño
+@(¡Hola Santo C!), Demo el gato, Nicol, Tracy, Mary & Adam, Lisa
+@(soporte moral), Jamal, mama de T-Ray, los dos Donalds,
+@Teresa Brooks, Zeb Cook, Chris Avellone, Lunch Money, el atrio
+@merendero, Weez, Weaz, Irvine Spectrum, Wiz War, Dragon Dice, B5,
+@X-Files, Xena, Buffy, Los Simpsons, ER, Jeepin y el chucho
+@hablador que a ultima hora encontro una falla.
 
-@Special thanks to the Fallout webpage bulletin board members
-@for comments, suggestions and bug reports about the demo.
-@Your feedback was appreciated!
-
-
-
-
-
-
-
-
-@And that's it!
-
-
-
-@There are no more credits
-
-
-
-@Stop looking
+@Gracias a los miembros del boletin electronico de fallout
+@por comentarios, sugerencias y reportes de fallas en la demo.
+@Su ayuda es muy agradecida.
 
 
 
@@ -969,11 +965,29 @@ Thom Dohner
 
 
 
-
-@Fallout was brought to you by Interplay Productions,
-@Team Fallout and the letter Q.
+@¡Eso es todo!
 
 
 
+@No hay mas creditos.
 
-Have a nice day!
+
+
+@Dejais de leer.
+
+
+
+
+
+
+
+
+
+@Fallout es presentado por Interplay Productions,
+@el equipo Fallout y la letra Q.
+
+
+
+
+Que tengais un buen dia!
+

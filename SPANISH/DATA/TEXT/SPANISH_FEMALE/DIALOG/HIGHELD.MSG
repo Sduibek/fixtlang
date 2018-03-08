@@ -1,5 +1,5 @@
 {100}{}{Estás viendo a un Anciano de la Hermandad.}
-{101}{}{Saludos, Iniciada. Necesito hablar contigo. [Te indica que te acerques más.]}
+{101}{}{Saludos, Iniciada. Necesito hablar contigo (te indica que te acerques más).}
 {102}{}{¿Sobre qué?}
 {103}{}{Ahora no tengo tiempo.}
 {104}{}{¿Eh?}
@@ -28,7 +28,7 @@
 {127}{}{Si encuentro algo parecido a un ejército en la zona del norte, te avisaré.}
 {128}{}{Buen trabajo con los mutantes. Sabemos que destruiste fácilmente sus instalaciones. Gracias por resolvernos ese problema.}
 {129}{}{De nada.}
-{130}{}{¿Eh? ¿Qué tipo de respuesta es "eh"? ¡Vete! ¡Ahora!}
+{130}{}{¿"Eh"? ¿Qué tipo de respuesta es "eh"? ¡Vete! ¡Ahora!}
 {131}{}{Si dependiera de mí, ya no estaría de aquí.}
 {132}{}{No tengo nada que decirte.}
 {133}{}{Deberías aprender modales.}

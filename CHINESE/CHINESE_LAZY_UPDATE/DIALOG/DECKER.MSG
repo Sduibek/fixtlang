@@ -1,0 +1,235 @@
+{100}{}{德克不想再和你说话。}
+{101}{}{你看见德克。}
+{102}{}{德克没空和你说话。干你的活呆会儿再来。}
+{103}{DECK_1}{那么，你在找活干。运气不赖，我正有事要找人做。啊，我失礼了，你叫什么名字？}
+{104}{}{我是}
+{105}{}{。}
+{106}{}{我的名字关你什么事？}
+{107}{DECK_2}{呃，客套话咱就不说了。你想听听工作的事吗？}
+{108}{}{那就是我在这的原因。}
+{109}{}{没啥兴趣。}
+{110}{DECK_3}{背景：有个商人……怎么形容呢……他和我们的地下组织合作得不好。}
+{111}{}{工作呢？}
+{112}{DECK_4}{很简单，找到那个商人和他的妻子并了结他们。}
+{113}{}{你是说杀了他们？}
+{114}{}{干这活儿多少钱？}
+{115}{}{我不能这么做！}
+{116}{DECK_5}{只是语义上的差别罢了，不过没错，杀了他们，你肯干吗？}
+{117}{}{唔……当然——为什么不做呢？}
+{118}{}{不！这是不对的！}
+{119}{}{多少钱？}
+{120}{DECK_6}{噢，棒极了，标准行情是事前付500块，事后……再付2500块。}
+{121}{}{在哪儿能找到这个商人？}
+{122}{DECK_7}{他们的宅子在高地区，就在商业街和桑德大道的交叉路口，完事后回来。}
+{123}{}{好吧，我会做的。}
+{124}{}{你到时候怎么知道我到底有没有杀了他们？}
+{125}{}{我不干了。}
+{126}{DECK_8}{非常好。等你出去后，我的助手会给你首付。出去时关好门，谢谢。}
+{127}{deck_9}{相信我。我会知道的。}
+{128}{}{好吧，我会去做的。}
+{129}{}{算了。}
+{130}{DECK_10}{我必须得承认……对你有点失望。但这种事情我也不是第一次遇见了，你要记住这是秘密，再见。}
+{131}{DECK_11}{这是标准的行情，事前500块，事成后再付2500，你肯做吗？}
+{132}{}{不，谢谢。}
+{133}{}{是的，我做。}
+{134}{DECK_12}{很好，这商人住在高地，在商业街和桑德大道上。在你出去时会先付一部分报酬给你。}
+{135}{DECK_13}{哈勃镇的每件事都和我有关，报上姓名，要么就离开。}
+{136}{}{我叫}
+{137}{}{。}
+{138}{}{我不会告诉你任何事。}
+{139}{DECK_14}{我知道了……我的助手会告诉你门在哪儿。}
+{140}{DECK_15}{我为你感到骄傲，你真是冷酷无情，我很欣赏你的职业素质。凯恩会把你的报酬给你，希望有空能再次合作。}
+{141}{}{我能问你几个小问题吗？}
+{142}{}{谢谢。}
+{143}{DECK_16}{在目前这个情况下，可以。}
+{144}{}{哈勃城都有什么？}
+{145}{}{听到什么传言吗？}
+{146}{}{没什么。}
+{147}{Deck_16b}{那就拜托你长话短说。}
+{148}{DECK_17}{商人集市在城市的中央，周围是一圈设施，高地区在西边，老城区在东边。}
+{149}{}{什么样的设施？}
+{150}{}{谢谢你提供的信息，我能再问你几个问题吗？}
+{151}{DECK_18}{你正位于马耳他猎鹰。附近还有百货商店，武器店，友好借贷公司，警察局，和该死的大教堂医院。}
+{152}{}{看起来你和这些教徒相处的不好，怎么了？}
+{153}{}{谢谢，我能再问你几个问题吗？}
+{154}{DECK_19}{他们……抢地盘。别谈这个了，好吗？}
+{155}{}{谢谢，我能再问你几个问题吗？}
+{156}{DECK_20}{我不是导游，你自己看去。}
+{157}{}{我能再问你几个问题吗？}
+{158}{}{没错，导游的水平会比你更高一些。}
+{159}{DECK_21}{不，拿着你的报酬走吧。}
+{160}{DECK_22}{再说一次？}
+{161}{}{你聋子阿。}
+{162}{}{没什么，我能再问你几个问题吗？}
+{163}{DECK_23}{你太傲慢了，我的助手会把你……我的意思是……带到门那去。}
+{164}{deck_24}{不。}
+{165}{}{好吧，我能再问你些事吗？}
+{166}{}{你可真是块爆炭。}
+{167}{DECK_25}{不知什么人把远行商队的整个商队刮走了。还有，那些贼帮们还在一如既往地制造麻烦。}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+{169}{}{当然。}
+{170}{}{门儿都没有！}
+{171}{DECK_27}{很好，你看，上个任务只是个小测试而你做的很好。现在给你个重要的任务。}
+{172}{}{请说？}
+{173}{}{听起来很可怕，我没什么兴趣。}
+{174}{DECK_28}{你也许知道，大教堂的教徒们正在哈勃扩张势力。坦白说，我忍无可忍了！}
+{175}{}{那么你要我做什么？}
+{176}{DECK_29}{一件小事，杀了高级女祭司简恩。没了她，这些小麻烦事就终止了，有兴趣吗？}
+{177}{}{当然。}
+{178}{}{但是这样很不道德！}
+{179}{DECK_30}{我觉得我开始喜欢你了。报酬提高到事前1000，完事后4000。相信我，任务完成时，我会知道的！}
+{180}{}{好的。}
+{181}{DECK_31}{当你走时和凯恩谈谈，他会告诉你细节。}
+{182}{DECK_32}{不是去杀商人吗？？}
+{183}{}{好吧，我会去做。}
+{184}{}{我不管，我不会做的。}
+{185}{DECK_33}{报酬是事前1000，完事后4000。相信我，事情完成时，我会知道的！}
+{186}{}{好吧。}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+{188}{DECK_35}{真遗憾！这是个什么工作，你连听都不想听了？}
+{189}{}{没错，我不想干。}
+{190}{}{好吧，那是什么？}
+{191}{DECK_36}{那么我们没什么好说的了。}
+{192}{DECK_37}{干的不错，我相信这个教团不会再打扰我了。去和凯恩拿你的报酬。谢谢你--我不会忘了你的。}
+{193}{DECK_38}{把它放下。}
+{194}{DECK_39}{我的忍耐是有限度的！凯恩，教训一下这个白痴。}
+{195}{DECK_40}{住手！}
+{196}{DECK_42}{去找凯恩，他会告诉你更多东西。}
+{197}{DECK_43}{As I said...}
+{198}{DECK_44}{就像我所说……}
+{199}{DECK_45}{我已经告诉你了……}
+{200}{DECK_46}{你没听我的吗？我说……}
+{201}{DECK_47}{警告你：我不喜欢重复说话。}
+{202}{DECK_48}{我不会再说一遍。}
+{203}{DECK_49}{你没必要知道我的事。}
+{204}{DECK_50}{大多数人可不敢随便说起我们组织的名号。我们控制着哈勃城。}
+{205}{DECK_51}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+{206}{DECK_52}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+{207}{DECK_53}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+{208}{DECK_54}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些消息他是个不错的消息源。}
+{209}{DECK_55}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
+{210}{DECK_56}{他是纯水商会的头头。}
+{211}{DECK_57}{在教徒占据医院之前他们一直控制着那儿，现在他们盘踞在仓库那片地方--这很奇怪。你可以在商人集市的西北角找到他们。}
+{212}{DECK_58}{他是深红商队的头头}
+{213}{DECK_59}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+{214}{DECK_60}{有趣，他认为自己是远行商会的头。实际上有名无实。他该知道最好别来打扰我。}
+{215}{DECK_61}{她掌管着武器店。}
+{216}{DECK_62}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+{217}{Deck_63}{在城市中央。}
+{218}{DECK_64}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+{219}{DECK_65}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+{220}{DECK_66}{大部分商人都住在那儿，只要从这儿往西走就行了。}
+{221}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+{222}{DECK_68}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
+{223}{DECK_69}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
+{224}{DECK_70}{他是大教堂教徒编造的谎言，大概是个小神或什么的。}
+{225}{DECK_71}{一个出售……好武器的小地方，由远行商队控制。}
+{226}{DECK_72}{出门朝北走，你不会错过它的。}
+{227}{DECK_73}{那不重要。}
+{228}{DECK_74}{什么？那个关我屁事。}
+{229}{DECK_75}{真吗，为什么我要这么做呢？}
+{230}{}{我看见你结果了我的副手，我会亲自料理你。}
+{231}{}{贾斯丁·格林，见到你很高兴！我猜你是来道别的。}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{232}{DECK_26}{又见面了，我的朋友。我还有另外一个工作给你，有兴趣吗？}
+{233}{DECK_26}{又见面了，我的朋友。我还有另外一个工作给你，有兴趣吗？}
+
+{234}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会他如何保持沉默。}
+{235}{DECK_34}{我曾对你抱了多大的希望！我不能让你去给大教堂报信。凯恩，带走我们的朋友并教会她如何保持沉默。}
+
+# Decker Tell-Me-Abouts generic responses
+{980}{DECK_73}{那不重要。}
+{981}{DECK_74}{什么？那个关我屁事。}
+
+#
+# Decker Tell-Me-Abouts
+#
+
+{1000}{}{你没必要知道我的事。}
+{1001}{}{大多数人可不敢随便说起我们组织的名号。我们控制着哈勃城。}
+{1002}{}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+{1003}{}{他们去偷商人的钱然后分给穷人，或者其他一些毫无义意的事。他们对我来说无关紧要。那个年老的变种人哈罗德知道更多东西。}
+{1004}{}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+{1005}{}{哈罗德来这儿有一段时间，他在旧城区那里。对于某些特定的信息他是个不错的消息源。}
+{1006}{}{他们控制着供水，去商人集市的最南端，你可以在那儿找到他们。}
+{1007}{}{他是纯水商队的头头。}
+{1008}{}{在教徒占据医院之前他们一直控制着那儿，现在他们盘踞在仓库那片地方--这很奇怪。你可以在商人集市的西北角找到他们。}
+{1009}{}{他是深红商队的头头。}
+{1010}{}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+{1011}{}{有趣，他认为自己是远行商会的头。实际上有名无实。他该知道最好别来打扰我。}
+{1012}{}{她掌管着武器店。}
+{1013}{}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+{1014}{}{在城市中央。}
+{1015}{}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+{1016}{}{旧城区占了整个东边，那些瘾君子就住在那儿。}
+{1017}{}{大部分商人都住在那儿，只要从这儿往西走就行了。}
+{1018}{}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+{1019}{}{墨菲斯是大教堂教徒们的领导，他住在晒骨场。}
+{1020}{}{在哈勃城，她现在是大教堂教徒们的领导。我相信状况很快就会改变。}
+{1021}{}{他是大教堂教徒编造的谎言，大概是个小神或什么的。}
+{1022}{}{这是一个出售……好武器的小地方，由远行商队控制。}
+{1023}{}{All-N-One}
+{1024}{}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+{1025}{}{我母亲，我遇到的最好的女人，是她帮我起的这个名字--整个哈勃镇上最好的娱乐设施。}
+{1026}{}{他是警察的头头，如果你喜欢率直、诚恳的人，那他很不错。不像他的父亲，他很诚实。}
+{1027}{}{他是纯水商人们的头头。}
+{1028}{}{什么东西导致远行商会的商队失踪了。我想知道原因，因为这对我的生意有小点影响。}
+{1029}{}{Romara}
+{1030}{}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+{1031}{}{他们是最没前途的商人了，我的确是这么想的。他们卖一些零碎的破玩意。去商人集市东北角找找。}
+{1032}{}{有趣，他认为自己是远行商队的头。实际上有名无实。他该知道最好别来打扰我。}
+{1033}{}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+{1034}{}{神话和传说。死亡爪也许是鬼魂或者什么东西。}
+{1035}{}{Old}
+{1036}{}{Old Town}
+{1037}{}{Children}
+{1038}{}{出门朝北走，你不会错过它的。}
+
+{1100}{DECK_49}{You have no need to know anything else about me.}
+{1101}{DECK_50}{Most people do not bandy the name of my organization around lightly. We control the Hub.}
+{1102}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1103}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense. They are inconsequential to me. That old mutant, Harold would know more.}
+{1104}{DECK_53}{He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father, now there was a loyal man.}
+{1105}{DECK_54}{Harold's been around for some time. He's over in Old Town. A good source for certain types of information.}
+{1106}{DECK_55}{They control the water. Go to the south end of the Merchant Market, you'll find them there.}
+{1107}{DECK_56}{He's the head of the Water Merchants.}
+{1108}{DECK_57}{They used to control the hospital until the Children took over. Now they sit and brood in their warehouse - very strange. You will find them at the northwest end of the Merchant Market.}
+{1109}{DECK_58}{He's the head of the Crimson Caravan.}
+{1110}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
+{1111}{DECK_60}{Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.}
+{1112}{DECK_61}{She's in charge of the Weapons Store.}
+{1113}{DECK_62}{Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.}
+{1114}{Deck_63}{It's in the center of town.}
+{1115}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
+{1116}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
+{1117}{DECK_66}{Most merchants live there. Simply go west from here.}
+{1118}{DECK_67}{An annoying organization. Soon they may need a demonstration in the management of power.}
+{1119}{DECK_68}{Morpheus is the head of the Children of the Cathedral. He resides down in the Boneyard.}
+{1120}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub. I've reason to believe that may change soon.}
+{1121}{DECK_70}{One of the fabrications of the Children. He's supposedly some minor deity, or something.}
+{1122}{DECK_71}{It's a small place that sells... fair weapons. Over by the Far Go Traders.}
+{1123}{DECK_72}{Just out the door and to the north. You can't miss it.}
+{1124}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1125}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1126}{DECK_53}{He's the head of the police. Nice guy, if you like the straight arrow, honest type. Not like his father, now there was a loyal man.}
+{1127}{DECK_56}{He's the head of the Water Merchants.}
+{1128}{DECK_62}{Something is making the Far Go Traders' caravans disappear. I'd like to know the cause, since it does disrupt a piece of my business.}
+{1129}{DECK_58}{他是深红商队的头头。}
+{1130}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
+{1131}{DECK_59}{They're the last of the merchants, and I mean that literally. Small time stuff, mostly. Look northeast of the Merchant Market.}
+{1132}{DECK_60}{Amusing. He considers himself the leader of the Far Go Traders. More of a figurehead, actually. He knows better than to interfere with my business.}
+{1133}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
+{1134}{DECK_64}{Myths and legends. The Deathclaw is supposedly a ghost or something.}
+{1135}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
+{1136}{DECK_65}{Old Town takes up the entire east side. The skags live there.}
+{1137}{DECK_67}{一个令讨厌的组织，也许该用个强力的手段来威慑他们一下。}
+{1138}{DECK_72}{Just out the door and to the north. You can't miss it.}

@@ -1,0 +1,16 @@
+{100}{}{计算机保存了大量核战前的资料。}
+{101}{}{你使用了避难所计算机教学系统。}
+{102}{}{你在避难所计算机教学系统上花费了很多时间却没学到有价值的东西。现在，废土才是你的老师。}
+{103}{}{You spend 6 hours researching any topic that seems important. You feel you have gained vital knowledge that will help you in your travels outside the Vault.}
+{104}{}{You spend 6 hours on the interwebs doing nothing of importance.}
+{105}{}{你胡乱的操作着终端机，但是如果没有必要的科学技能，你是不会得到什么重要信息的。}
+#
+# Fallout Fixt:
+#
+# A number is inserted between 106 and 107/108/109
+{106}{}{You spend }
+{107}{}{ hours on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
+{108}{}{ hours on the interwebs doing nothing of importance. It was fun but leaves you feeling empty inside.}
+#
+# INT less than 4:
+{109}{}{ hours on the interwebs searching for pornography and videos of cats.}

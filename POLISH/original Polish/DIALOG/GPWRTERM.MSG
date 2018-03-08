@@ -1,6 +1,4 @@
-{100}{}{System:
-                                                         Zasilanie podstawowe:          WY£¥CZONE
-                           Zasilanie awaryjne:           W£¥CZONE}
+{100}{}{System:                                                         Zasilanie podstawowe:          WY£¥CZONE                           Zasilanie awaryjne:           W£¥CZONE}
 {101}{}{Zarz¹dzanie systemami energetycznymi}
 {102}{}{Z*r*¹*z*n*e s*s*e*a*i e*e*g*t*c*n*m*}
 {103}{}{Wyjœcie}
@@ -19,16 +17,13 @@
 {116}{}{Zasilanie awaryjne:            W£¥CZONE}
 {117}{}{Dezaktywacja systemu zasilania awaryjnego}
 {118}{}{Powrót}
-{119}{}{System:
-                                                         Zasilanie podstawowe:          W£¥CZONE
-                           Zasilanie awaryjne:           W GOTOWOŒCI}
+{119}{}{System:                                                         Zasilanie podstawowe:          W£¥CZONE                           Zasilanie awaryjne:           W GOTOWOŒCI}
 {120}{}{Zarz¹dzanie systemami energetycznymi}
 {121}{}{Wyjœcie}
 {122}{}{Zasilanie podstawowe:          W£¥CZONE}
 {123}{}{Dezaktywacja podstawowego systemu zasilania}
 {124}{}{Powrót}
-{125}{}{System:
-                                                         Zasilanie podstawowe:          W£¥CZONE}
+{125}{}{System:                                                         Zasilanie podstawowe:          W£¥CZONE}
 {126}{}{D*z*k*y*a*j* *o*s*a*o*e*o s*s*e*u z*s*l*n*a}
 {127}{}{Dezaktywacja podstawowego systemu zasilania}
 {128}{}{Wyjœcie}
@@ -42,9 +37,7 @@
 {136}{}{Z*s*l*n*e p*d*t*w*w*: B*¥*! B*¥*! B*¥*! K*n*e*z*y p*z*g*¹*}
 {137}{}{Powrót}
 {138}{}{Z*s*l*n*e a*a*y*n*: W*¥*Z*N*}
-{139}{}{System:
-                                                         Zasilanie podstawowe:          WY£¥CZONE
-                           Zasilanie awaryjne:           WY£¥CZONE}
+{139}{}{System:                                                         Zasilanie podstawowe:          WY£¥CZONE                           Zasilanie awaryjne:           WY£¥CZONE}
 {140}{}{Aktywacja systemu zasilania awaryjnego}
 {141}{}{D*a*n*s*y*a p*d*t*w*w*g* *y*t*m* *a*i*a*i*}
 {142}{}{E*o*u*j* *o*s*a*o*e*o s*s*e*u z*s*l*n*a}

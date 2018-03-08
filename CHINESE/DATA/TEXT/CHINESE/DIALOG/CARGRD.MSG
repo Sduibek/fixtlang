@@ -67,7 +67,8 @@
 #{123}{}{So, did you change your mind?}
 {123}{}{那么，你改主意了？}
 #{124}{}{Yes, I'll take the job.}
-{124}{}{好，我干#{125}{}{No.}
+{124}{}{好，我干}
+#{125}{}{No.}
 #{126}{}{Hra?}
 #{127}{}{Sorry, we're not going back to the Hub today.}
 #{128}{}{Um, sorry. I don't think we need you for the return trip.}
@@ -82,7 +83,7 @@
 #{136}{}{I like working for the Far Go Traders; they don't take stupid risks.}
 #{137}{}{The Crimson Caravan's caravans are the best.}
 #{138}{}{The Crimson Caravan pays so well, I'll retire in a year.}
-#{139}{}{Talk to the other guard if you want to come back with us.}  
+#{139}{}{Talk to the other guard if you want to come back with us.}
 #{140}{}{Here're your caps. We could use a hand getting back if you can.}。}
 {125}{}{不干。}
 {126}{}{哈？}
@@ -98,5 +99,5 @@
 {136}{}{我喜欢为远行商队保镖，他们不会乱冒险。}
 {137}{}{深红商队是最棒的。}
 {138}{}{深红商队钱给得多，我一年后就可以退休了，哈。}
-{139}{}{如果你想跟我们回程，和另外一个保镖谈。}  
+{139}{}{如果你想跟我们回程，和另外一个保镖谈。}
 {140}{}{这是你的钱，如果你方便的话，可以帮我们回程。}

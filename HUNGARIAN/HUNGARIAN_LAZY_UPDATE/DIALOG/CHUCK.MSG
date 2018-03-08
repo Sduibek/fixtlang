@@ -1,0 +1,83 @@
+{100}{}{Egy sötétbõrû embert látsz, nyakában csicsás sál és megannyi csecsebecse.}
+{101}{}{Õ Chuck, a cigány jövendõmondó.}
+{102}{}{Üdv, idegen! Szolgálhatok valamivel?}
+{103}{}{Öögh!}
+{104}{}{Csak épp körbenézek errefelé, köszi.}
+{105}{}{Ismerkedem Adytum lakosaival.}
+{106}{}{Mibõl gondolod, hogy szükségem van valamire?}
+{107}{}{Hmm. Ne aggódj, egyszerû barátom, nagy dolgok várnak rád!}
+{108}{}{Na, és mi a véleményed a városunkról?}
+{109}{}{Okés.}
+{110}{}{Nem nagyon jön be. Elég barátságtalan egy hely.}
+{111}{}{Az ellenséges körülményekhez képest eléggé jól helyt álltál.}
+{112}{}{A nevem Chuck. Üdvözlünk Adytumban. Attól tartok, az itteniek többsége nincs nagyon oda az idegenekért.}
+{113}{}{Hát, igen, észrevettem.}
+{114}{}{És mivel foglalkozol itt, Chuck?}
+{115}{}{Minden jót, Chuck!}
+{116}{}{Jó utat, vándor!}
+{117}{}{Mindannyiunknak szüksége van valamire, nemde? Te pedig nem beszélnél velem, ha nem akarnál valamit tõlem, akár információt, akár egy kis társalgást vagy esetleg útbaigazítást. Mondhatom, sok mindenen keresztülmentél. Mire van szükséged?}
+{118}{}{Öö, nincs szükségem semmire, köszi.}
+{119}{}{Most, hogy így említed, talán adhatnál egy-két tanácsot.}
+{120}{}{[Chuck elõhúz egy pakli Tarokk kártyát.] Hadd vessek egy pillantást a kártyáimra. [Chuck elkezdi keverni a paklit.]}
+#
+# This is referring to The Glow
+#
+{121}{}{[Chuck kiválaszt két lapot. Az egyik egy laborköpenyt viselõ férfit ábrázol, kezében számítógép, a másikon egy erõpáncélt viselõ alak látható.] A Fõpap és a Pálcák Hercege délen élnek... hatalmas bölcsesség és nemesség vár mindazokra, akik arra vetõdnek.}
+#
+# This is referring to the Military Base
+#
+{122}{}{[Chuck kiválaszt egy lapot, melyen egy vibro-pengét és zászlót tartó férfi áll.] A Kardok Hercege észak felé tanyázik... egy igazán nagyhatalmú ellenséggel kell szembenézned messze északon.}
+#
+# This is referring to The Master
+#
+{123}{}{[Chuck kiválaszt két lapot. Az egyiken egy rádiótorony látható, a másikon egy férfi áll jogarral.] A Torony és az Uralkodó... hatalmas változás várható egy erõskezû vezetõ révén. Lehet, hogy halált jelent e változás, errõl nem tudok nyilatkozni.}
+{124}{}{[Chuck kiválaszt egy lapot, mely egy nukleáris robbanófejen ugráló fura alakot ábrázol.] A Bolond. Nem tudok segíteni neked. E világban a magad jóvoltából kell boldogulnod.}
+{125}{}{[Tovább]}
+{126}{}{Hmm. Kösz a tanácsért.}
+{127}{}{Amúgy te tényleg hiszel ezekben a dolgokban?!}
+{128}{}{Nekem mûködik. Ha nem akarsz hinni benne, akkor ne higgy.}
+{129}{}{Nem akarlak megsérteni, de ez az egész egy rakás babonának hangzik.}
+{130}{}{Azt hiszem, mindannyiunknak megvannak a magunk bogarai, amikben hiszünk.}
+{131}{}{Ha így érzed, akkor szerintem, nincs mirõl társalognunk.}
+{132}{}{Ez így van. A te belsõ univerzumodat a saját hited, míg az én univerzumomat az én gondolataim alakítják. A hitünket nem tudjuk megosztani, de kívánom, hogy jól boldogulj a saját univerzumodban.}
+{133}{}{Ez az otthon.}
+{134}{}{Jaja, na minden jót!}
+{135}{}{A dolgok elég nyugodtnak tûnnek errefelé.}
+{136}{}{Tudom, mire gondolsz. Rengeteg szenvedést láttam már életemben.}
+{137}{}{A Rendfenntartók bizony gondoskodnak errõl. Adytum népe sokat szenved a szigorú szabályaik miatt.}
+{138}{}{Meglehet... na, üdv, én megyek.}
+{139}{}{És neked ez bejön?}
+{140}{}{Mivel én itt akarok maradni, elfogadom a Rendfenntartókat, mint Adytum szerves részét. Ettõl függetlenül mindent megteszek, hogy fényt vigyek az életükbe.}
+{141}{}{Úgy tûnik, nem nagyon értesz velük egyet.}
+{142}{}{Tudnál tenni még valamit?}
+{143}{}{A Rendfenntartók a saját érdekeiket védik, nekem pedig tiszteletben kell tartanom ezt.}
+{144}{}{Ahogy gondolod.}
+{145}{}{Nem feltétlenül értek egyet ezzel a nézettel, de el tudom fogadni.}
+{146}{}{Jót beszélgettünk. Viszlát!}
+{147}{}{Hát én csak a sokaság egyike vagyok, de képességeim szerint ott segítek, ahol tudok. Tanácsolom, hogy bátran harcolj azért, amiben hiszel, de legfõképpen olyasmiért harcolj, amiért érdemes is. Néha persze fel kell ismerned a helyzetet, amikor a kompromisszum és a remény nagyobb gyõzelmekhez vezet.}
+{148}{}{Tudsz még adni valami tanácsot?}
+{149}{}{Adytum lakosainak van mit csinálnia a hétköznapok során. Estefelé biztosak akarnak lenni, hogy mindent elvégeztek aznap.}
+{150}{}{Hát... legyen úgy....}
+{151}{}{A dolgok elég nyugodtnak tûnnek errefelé.}
+{152}{}{Köszönöm. Bizony nehéz volt. Néha odavész egy-két emberünk a Halálkarmok miatt, és a telek is elég szívósak, különösen, ha a Hubbeli kereskedõk elmaradoznak. Ennek ellenére csak-csak elvagyunk.}
+{153}{}{Jó szerencsét!}
+{154}{}{Mi a helyzet a Halálkarmokkal?}
+{155}{}{Van itt észak-kelet felé egy terület, amit rendesen elleptek, és gyakran szednek áldozatokat azok közül, akik a Fegyverkészítõkkel akarnak kereskedni.}
+{156}{}{Remélhetõleg találtok majd megoldást.}
+{157}{}{Ahogy gondolod.}
+{158}{}{Talán... Adytum mindig is itt fog állni, viszont ahelyett, hogy a világ elé menne, a világnak kell elénk jönni úgy, ahogy te is tetted.}
+{159}{}{Hmm. Hát lehet, hogy igazad van.}
+{160}{}{Gazdálkodó vagyok, de szeretek az épületekkel is foglalkozni, helyreállítani õket, biztosítani, hogy sokáig épségben maradjanak. Ezenkívül néha tanácsokat kérnek tõlem, én pedig eleget teszek ennek.}
+{161}{}{Miféle tanácsokat?}
+{162}{}{Igen, sajnos ez így van. Az én meglátásom szerint... ez egy fajta tûzpróba, miközben kemény idõk járnak ránk, egymásra vagyunk utalva, meg kell tanulnunk a túlélés mûvészetét. Szerintem az emberiség csak jobbá válik ettõl.}
+{163}{}{Nem értek egyet ezzel. Rengeteg bûnbandával, fosztogatók garmadájával találkoztam utazásaim során. Kisstílû gyilkosokká és tolvajokká váltak. Sajnos nagy a kockázata annak, hogy bennünket is elkap a gépszíj.}
+{164}{}{Lehet, hogy igazad van. Viszont a túlélõk erõsebbek lesznek.}
+{165}{}{Ezek az emberek szép lassan kiirtják egymást, a megmaradtak pedig együtt fognak dolgozni, és túlélik a megpróbáltatásokat. Hozzánk hasonlóan.}
+{166}{}{Örülök, hogy a magadfajta kívülállók így éreznek. Módot kéne találnunk arra, hogy közös munkával valami újat építhessünk. Persze nyilván nem itt fog elkezdõdni, az biztos, hiszen túlságosan megrendszabályoznak itt minket, de valahol csak el kell kezdeni.}
+{167}{}{Üdv! Mit tehetek érted?}
+{168}{}{Segíthetek valamiben?}
+{169}{}{Igen?}
+{170}{}{Csak beköszöntem.}
+{171}{}{Némi tanácsért jöttem.}
+{172}{}{Megkérdezhetem, mivel foglalkozol itt?}
+{173}{}{Akkor üdv! Remélem, nincs semmi gondod.}

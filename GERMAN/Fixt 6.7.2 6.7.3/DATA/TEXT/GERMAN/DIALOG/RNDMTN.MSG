@@ -6,8 +6,7 @@
 
 {121}{}{Weit entfernt siehst du einen einsamen Reisenden.}
 
-{106}{}{Ein teilweise versteckter Radscorpion versucht anscheinend, dich aus
- dem Hinterhalt anzugreifen.}
+{106}{}{Ein teilweise versteckter Radscorpion versucht anscheinend, dich aus dem Hinterhalt anzugreifen.}
 {107}{}{Wie aus dem Nichts heraus schlägt plötzlich ein Radskorpion zu!}
 
 {108}{}{Du bist in eine Familie von Maulwurfratten geraten.}
@@ -50,14 +49,12 @@ CHANGE THIS ONE		#patrick
 #
 # TERRAIN ENCOUNTERS (NO MONSTERS)
 #
-{115}{}{Glücklicherweise kannst du aufgrund deiner verbesserten Fähigkeiten
- diese Aufgabe meistern.}
+{115}{}{Glücklicherweise kannst du aufgrund deiner verbesserten Fähigkeiten diese Aufgabe meistern.}
 {117}{}{Du stürzt von einem Vorsprung und landest auf einigen spitzen Steinen.}
 {118}{}{Du stürzt von einem Kliff auf den felsigen Boden.}
 {109}{}{Fast wurdest du von einem riesigen Felsbrocken einer Steinlawine zerquetscht.}
 {123}{}{Um ein Haar wurdest du von einem riesigen Felsbrocken einer Steinlawine zerquetscht.}
-{132}{}{Du stürzt über herumliegendes Geröll und ziehst dir eine schmerzhafte Verstauchung
- am Knöchel zu.}
+{132}{}{Du stürzt über herumliegendes Geröll und ziehst dir eine schmerzhafte Verstauchung am Knöchel zu.}
 {133}{}{Du stürzt über herumliegendes Geröll und ziehst dir eine Schürfwunde zu.}
 #
 # No Damage
@@ -69,12 +66,9 @@ CHANGE THIS ONE		#patrick
 #
 # Small Damage
 #
-{104}{}{Du hast von einigen Steinsplittern Schürfwunden im Gesicht und an den Händen
- davongetragen, kommst aber leicht verletzt davon.}
-{113}{}{Du hast von einigen Steinsplittern Schürfwunden im Gesicht und an den Händen
- davongetragen, kommst aber leicht verletzt davon.}
-{127}{}{Du hast Schürfwunden von einigen Steinsplittern im Gesicht und an den Händen
- davongetragen, kommst aber leicht verletzt davon.}
+{104}{}{Du hast von einigen Steinsplittern Schürfwunden im Gesicht und an den Händen davongetragen, kommst aber leicht verletzt davon.}
+{113}{}{Du hast von einigen Steinsplittern Schürfwunden im Gesicht und an den Händen davongetragen, kommst aber leicht verletzt davon.}
+{127}{}{Du hast Schürfwunden von einigen Steinsplittern im Gesicht und an den Händen davongetragen, kommst aber leicht verletzt davon.}
 #
 # Big Damage
 #
@@ -99,8 +93,7 @@ CHANGE THIS ONE		#patrick
 #
 # Critical Success
 #
-{116}{}{Du entdeckst eine Höhle mit einer kleinen Quelle und verbringst darin die
- erholsamste Nacht seit langem.}
+{116}{}{Du entdeckst eine Höhle mit einer kleinen Quelle und verbringst darin die erholsamste Nacht seit langem.}
 {125}{}{Du kommst unverletzt davon. Der abgelöste Stein enthüllt ein Goldlager.}
 {111}{}{Du kommst unverletzt davon. Der abgelöste Stein enthüllt ein Goldlager.}
 {142}{}{Du füllst deine leere Flasche an der Quelle auf.}

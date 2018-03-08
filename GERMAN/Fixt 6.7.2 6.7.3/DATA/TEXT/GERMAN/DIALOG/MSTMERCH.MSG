@@ -1,13 +1,11 @@
 {100}{}{Du siehst einen Händlermeister.}
 {101}{}{Verhaftet diesen Dieb!}
-{102}{}{...Mir egal, was die sagen. Wir brauchen neue Teile... Oh, ja. 'tschuldigung. Wie kann ich dir
- helfen?}
+{102}{}{...Mir egal, was die sagen. Wir brauchen neue Teile... Oh, ja. 'tschuldigung. Wie kann ich dir helfen?}
 {103}{}{Ich suche einen Job.}
 {104}{}{Hast du einen Steuerchip?}
 {105}{}{Nichts. Wiedersehen.}
 {106}{}{Shek.}
-{107}{}{Klar, super. Hiermit bist du eingestellt. Warte. Für welchen Posten? Oh, Caravanwache, okay? Ja,
- klar. Du kannst für uns arbeiten. Du siehst ganz in Ordnung aus. Sonst noch was?}
+{107}{}{Klar, super. Hiermit bist du eingestellt. Warte. Für welchen Posten? Oh, Caravanwache, okay? Ja, klar. Du kannst für uns arbeiten. Du siehst ganz in Ordnung aus. Sonst noch was?}
 {108}{}{Nein.}
 {109}{}{Ja, hast du einen Steuerchip?}
 {110}{}{Hm?}
@@ -23,8 +21,7 @@
 {120}{}{Nein, danke.}
 {121}{}{Ja, wenn du das sagst.}
 {122}{}{Dann tut?s mir echt leid, ich glaub' nicht, daß ich dir helfen kann.}
-{123}{}{Mir nicht vertrauen?!? Ich hab' Routine darin, Menschen, die viel paranoider sind als du, mit
- Wasser zu versorgen. Für wen hältst du uns eigentlich? Für Terroristen?}
+{123}{}{Mir nicht vertrauen?!? Ich hab' Routine darin, Menschen, die viel paranoider sind als du, mit Wasser zu versorgen. Für wen hältst du uns eigentlich? Für Terroristen?}
 {124}{}{Okay fein. Wieviel Geld willst du, um mit den Caravans loszuziehen?}
 {125}{}{Tut mir leid. Ich wollte gar nichts andeuten, ich kann nur kein Risiko eingehen.}
 {126}{}{Naja, wenn du deine Meinung änderst, kannst du es mich ja wissen lassen. Ich platze vor Neugier.}
@@ -38,30 +35,17 @@
 {134}{}{Du hast vorhin angedeutet, daß Necropolis unter Umständen einen Steuerchip hat. Warum brauchen die einen?}
 {135}{}{Von wieviel redest du?}
 {136}{}{Nein, noch nicht.}
-{137}{}{Naja, nur so eine Vermutung. Wir sind einmal eine Caravanstrecke nach Necropolis gefahren, aber  sie haben sich geweigert, mit uns Handel zu treiben.
- Niemand, der richtig im Kopf ist, verweigert heutzutage Wasser, es sei denn, sie haben eine
-zuverlässige Versorgungsquelle. Ich schätze, sie haben ihre eigene Anlage, sonst wären sie
-schon längst gestorben. Möchtest du also, daß wir in deine Vault hinauffahren?}
+{137}{}{Naja, nur so eine Vermutung. Wir sind einmal eine Caravanstrecke nach Necropolis gefahren, aber  sie haben sich geweigert, mit uns Handel zu treiben. Niemand, der richtig im Kopf ist, verweigert heutzutage Wasser, es sei denn, sie haben einezuverlässige Versorgungsquelle. Ich schätze, sie haben ihre eigene Anlage, sonst wären sieschon längst gestorben. Möchtest du also, daß wir in deine Vault hinauffahren?}
 {138}{}{Ja, wieviel kostet mich das?}
 {139}{}{Nein danke.}
-{140}{}{Naja, es ist ein ziemlich weit entfernt. 2.000 Deckel sollten für den ersten Caravan
- ausreichen, und ich bin sicher, deine Vault hat Handelsware, so daß wir einige Zeit
-überleben können. Mit den derzeitigen Reserven können wir deine Vault schätzungsweise nur
-zusätzliche 100 Tage oder so am Leben erhalten.}
+{140}{}{Naja, es ist ein ziemlich weit entfernt. 2.000 Deckel sollten für den ersten Caravan ausreichen, und ich bin sicher, deine Vault hat Handelsware, so daß wir einige Zeitüberleben können. Mit den derzeitigen Reserven können wir deine Vault schätzungsweise nurzusätzliche 100 Tage oder so am Leben erhalten.}
 {141}{}{Okay, hier ist das Geld.}
-{142}{}{Die Vault sollte wissen, was sie mit dem Großteil deiner ersten Zahlung macht. Darum
- gebe ich dir erst einmal 1.000 für den Anfang.}
-{143}{}{Es ist ein ziemliches Stück, aber die Vault hat viele Waren, mit denen sie deinen Vorschuß
- zurückzahlen kann. Also, wie wäre es statt dessen mit 500?}
+{142}{}{Die Vault sollte wissen, was sie mit dem Großteil deiner ersten Zahlung macht. Darum gebe ich dir erst einmal 1.000 für den Anfang.}
+{143}{}{Es ist ein ziemliches Stück, aber die Vault hat viele Waren, mit denen sie deinen Vorschuß zurückzahlen kann. Also, wie wäre es statt dessen mit 500?}
 {144}{}{Ich hab' kein Bargeld da. Ich komm' zurück, sobald ich es habe.}
-{145}{}{Sieht so aus, als hättest du nicht genügend Geld. Komm' wieder, wenn du es hast. Denk dran, du
- brauchst}
+{145}{}{Sieht so aus, als hättest du nicht genügend Geld. Komm' wieder, wenn du es hast. Denk dran, du brauchst}
 {146}{}{ Deckel.}
-{147}{}{Ok, ich kann heute schon damit beginnen, die Caravans in deine Vault zu schicken. Du solltest
- jedoch wissen, daß die Caravans ziemlich leicht gesehen werden, wenn sie durch die Wüste ziehen.
-Wenn wir die Caravans also auf diesem Wege losschicken, ist das ein deutliches Zeichen für jeden, der
-nach deiner Vault Ausschau hält. Bist du immer noch sicher, daß du sie auf diesem Wege losschicken
-möchtest?}
+{147}{}{Ok, ich kann heute schon damit beginnen, die Caravans in deine Vault zu schicken. Du solltest jedoch wissen, daß die Caravans ziemlich leicht gesehen werden, wenn sie durch die Wüste ziehen.Wenn wir die Caravans also auf diesem Wege losschicken, ist das ein deutliches Zeichen für jeden, dernach deiner Vault Ausschau hält. Bist du immer noch sicher, daß du sie auf diesem Wege losschickenmöchtest?}
 {148}{}{Ich glaube nicht.}
 {149}{}{Ja, die Vault braucht Wasser.}
 {150}{}{Klingt logisch. Für die Technologie der Vaults kann man hier unten im Hub einen guten Preis bekommen.}

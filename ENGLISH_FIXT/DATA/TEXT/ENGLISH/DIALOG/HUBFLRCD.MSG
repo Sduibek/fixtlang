@@ -2,6 +2,7 @@
 {101}{}{Hello! Would you... oh, excuse me...}
 {102}{}{You! I heard about you! You kill kids and eat them! Mother Jain! Mother Jain! Help!}
 {103}{}{Would you like a flower, mister?}
+# Changing back to ma'am from mistress (change by robbforce). I'm pretty sure nobody says mistress, since in modern English that typically has a context of either 1) Sexual relationship outside of a marriage, or 2) Dominatrix / other fetish contexts.
 {104}{}{Would you like a flower, ma'am?}
 {105}{}{Empty}
 {106}{}{Is there anything special about this place?}
@@ -19,7 +20,7 @@
 {118}{}{Sure, kid!}
 {119}{}{Enough about the damn flower. Just answer the question!}
 {120}{}{}
-{121}{}{It's a Unity Rose. It's the color of the Holy Flame, and represents the peace and harmony we'll have when the Children of the Cathedral helps everyone in the whole world become friendly and strong! Uh, do you want one?}
+{121}{}{It's a Unity rose. It's the color of the Holy Flame, and represents the peace and harmony we'll have when the Children of the Cathedral helps everyone in the whole world become friendly and strong! Uh, do you want one?}
 {122}{}{}
 {123}{}{Now how's a rose going to do all that?}
 {124}{}{Tell me about the Holy Flame...}

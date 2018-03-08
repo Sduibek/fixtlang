@@ -1,0 +1,70 @@
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Biztosan ki akarsz lépni?}
+{1}{}{Demó verzió}
+{2}{}{Alap Karakter használata.}
+{3}{}{Kép elmentve.}
+{4}{}{Gyorstöltés sikerült.}
+{5}{}{Gyorsmentés sikerült.}
+{6}{}{Demo time limit exceeded.}
+{7}{}{Pip-Boy 2000 is not available in combat!}
+{8}{}{Hiba a kép mentése során.}
+{9}{}{INTRO}
+{10}{}{NEW GAME}
+{11}{}{LOAD GAME}
+{12}{}{CREDITS}
+{13}{}{EXIT}
+{14}{}{FALLOUT v1.2 Copyright(c) 1997 Interplay Productions. TeamX v1.3.5, Fallout Fixt 0.81alpha}
+{15}{}{Akció Pontok}
+{16}{}{Élet Pontok}
+{17}{}{Motion sensor not found!}
+{18}{}{A mozgásérzékelõ lemerült.}
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Hiba a beállítások mentésében!}
+{101}{}{A játék beállításait nem sikerült elmenteni!}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{You feel somewhat nauseous. Your skin is red and tender.}
+{1001}{}{Nagyon rosszul vagy, és erõteljes hányást követõen még fáradt is.}
+{1002}{}{Nagyon kimerültél, és nem bírod abbahagyni a hányást. Ez erõsen kihat a felépülési idõdre.}
+{1003}{}{Iszonyúan vérzel. Hányingered van, és hullik a hajad.}
+{1004}{}{Iszonyúan és egyfolytában vérzel. Vért hánysz, a bõröd pedig lemállik a csontjaidról.}
+{1005}{}{Belsõ vérzésed és hasmenésed van. Fel vagy fújódva és agonizálsz.}
+{1006}{}{Meghaltál a sugárfertõzéstõl.}
+{1007}{}{Nagy mennyiségû sugárzást kaptál.}
+{1008}{}{A geiger számláló kattog.}
+{1009}{}{A geiger számláló vadul kattog.}
+#
+# Message used in actions.c
+#
+{2000}{}{Action aborted.}
+{2001}{}{A zár beragadt.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Megmérgeztek!}
+{3001}{}{A méregtõl sebzést szenvedsz.}
+#
+# from queue.c
+#
+{4000}{}{Hozzá-nemértésed miatt a kelleténél korábban detonált a robbanószer.}
+#
+# from combatai.c
+#
+{5000}{}{tárgyat használ:}
+{5001}{}{kifogyott a lõszerbõl. Így most használhatatlan az üres}
+{5002}{}{lõszert készít elõ, és máris harcra kész a megtöltött}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Mirõl kérdezel?}

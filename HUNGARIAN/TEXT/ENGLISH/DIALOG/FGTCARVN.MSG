@@ -1,124 +1,0 @@
-{100}{}{Ez az ember a "Hosszútávú Kereskedõk" Karavánvezetõje.}
-{101}{}{Üdv, ha munkát szeretnél a karaván mellett, beszélj Rutgerrel! Ott van ni.}
-{102}{}{Rutgerrel kell beszélned!}
-{103}{}{Szóval beálltál hozzánk... Örömmel hallom ezt. Tíznaponként indulunk útnak, ez azt jelenti, hogy minden hónap 8-án, 18-án és 28-án. Mostanában a Testvériséghez, Roncsvárosba és az LA Csonttelepre szoktunk karavánt indítani.}
-{104}{}{Na, és mennyi a fizetség?}
-{105}{}{Öm.}
-{106}{}{400 hubdolcsit kapsz. Lehet, hogy elsõre nem tartod valami sokra, de gyakran megyünk, és az életed sem forog túl nagy veszélyben. Ráadásul a pénzt minden útra megkapod, tehát oda-vissza 800. }
-{107}{}{ Ma indulunk. Érdekel?}
-{108}{}{ Indulás }
-{109}{}{Üres}
-{110}{}{}
-{111}{}{. Érdekel?}
-{112}{}{Még annak ellenére is van munka számodra, hogy... na, mindegy. Érdekel vagy sem?}
-{113}{}{Érdekel. }
-{114}{}{Nem.}
-{115}{}{Esetleg.}
-{116}{}{Jaja.}
-{117}{}{Tae?}
-{118}{}{Nyugtáztam, semmi probléma. Csak szólj, ha meggondolnád magad!}
-{119}{}{Nem akarod mégis meggondolni magad?}
-{120}{}{Gyere majd vissza, ha egyszer elszánod magad valamire. 8-án, 18-án és 28-án várunk. Addig is a legjobbakat!}
-{121}{}{Öö... az nem igazán fog jóra vezetni, ha még a jobb lábadat sem tudod megkülönböztetni a baltól. Bocs, nagy ember!}
-{122}{}{Szívesen látunk, ha már jobban érzed magad.}
-{123}{}{Ember, olyan vagy, mint a mosott kaki. Biztos elcsaptad valamivel a hasad. A helyedben én nem ennék Bob kajájából!}
-{124}{}{Na, menet kifelé!}
-{125}{}{Nem lehetne békén hagynod a dolgaimat? Miért kellett ezt csinálni?}
-{126}{}{Mer' én egy aljas kis, zöld rohadék vagyok a világûrbõl, ezenkívûl... "rossz ember" vagyok!}
-{127}{}{Nem akartam, de éhezem, és etetnem kell a gyerekeimet.}
-{128}{}{Kiskanállal fogom kivájni a szívedet! }
-{129}{}{(Megadod magad)}
-{130}{}{(Támadsz)}
-{131}{}{Szóval egyszerûen szemen köpsz, mi? Azt hiszem, ezt csak egyféleképpen tudom beleverni a fejedbe, mégpedig azzal, hogy leszedem a nyakadról.}
-{132}{}{Jól van, de ettõl még nem vagyunk ki a vízbõl és ugyanúgy jobb lenne, ha távoznál!}
-{133}{}{Szerinted elhiszem ezt a baromságot? Õrség!}
-{134}{}{Talán az majd móresre tanít, ha jól lesittellek. Jössz önszántadból, vagy keményebb eszközökhöz kell folyamodnom?}
-{135}{}{Találkozunk a pokolban!}
-{136}{}{Igen. Elnézést.}
-{137}{}{Szóval kemény embernek képzeled magad, mi? Újabb bunyóra fáj a fogad?}
-{138}{}{Ha nem húzod el innen az irhádat, hívom a zsarukat!}
-{139}{}{Õrség! Rendõrség!}
-{140}{}{Asszem, jobb lenne, ha távoznál!}
-{141}{}{Bocs, de nem fogok munkát felajánlani neked.}
-{142}{}{Szíves-örömest adnék neked munkát, de ez az életben nem fog megtörténni...}
-{143}{}{Távozz!}
-{144}{}{Csinos vagy, de nem igazán vagyok oda a magadfajtákért.}
-{145}{}{Na, jó! 400 jár a munkáért. Melyik útvonalat részesíted elõnyben?}
-{146}{}{Örömmel hallom. Gyere vissza }
-{147}{}{8-án,}
-{148}{}{18-án,}
-{149}{}{28-án,}
-{150}{}{}
-{151}{}{}
-{152}{}{Acél Testvérisége }
-{153}{}{. Akkor fogunk indulni. Mint mindig, 400 hubdolcsi a fizetség.}
-{154}{}{Oké.}
-{155}{}{Bocs, nem tudok várni.}
-{156}{}{Nem vagyok biztos benne, hogy mi történt, de az egész karaván szõrén-szálán eltûnt. Fura dolgok történnek, és épp csak te maradsz egyedül életben... A dolgok általában nem így sülnek el. Azt hiszem, emiatt nem bérelhetlek fel többet. Biztos vagyok benne, hogy megérted az aggályaimat.}
-{157}{}{Roncsvaros}
-{158}{}{LA Csonttelep }
-{159}{}{Öhm, most sehova nem mennék. Talán máskor.}
-{160}{}{Jó hallani ezt. Összeterelem a csapat többi tagját.}
-{161}{}{Remek!}
-{162}{}{Na, indulás. Sok szerencsét!}
-{163}{}{Próbáld elkerülni a bajt, külön ne keresd!}
-{164}{}{Jobb lesz, ha vigyázol ott magadra, a Csonttelep nem éppen a legbiztonságosabb helyek egyike.}
-{165}{}{Nem rossz. Azok a fekete utak elég furák, de jól lehet rajtuk közlekedni.}
-
-#a masik fileban is van, ez lehet, hogy nem okes
-
-{166}{}{Úgy tudom, elég gázos az a hely. A helyedben ott nagyon odafigyelnék, kivel bizniszelek.}
-{167}{}{Király! Roncsváros egész jó kis hely.}
-{168}{}{Az jó. Majd ugorj be Killianhez, és add át neki az üdvözletem! Azok voltak a szép idõk, amikor még együtt nyomtuk a karavánosdit.}
-{169}{}{Hallottam, hogy egy fura doki tevékenykedik arrafelé. Halottakkal bizniszel, legalábbis ezt mondogatják.}
-{170}{}{Mégis hogy a francba képzeled, hogy otthagyod a karavánt? Mondjuk szerencsésen hazaértek, de ez csak a vakszerencsének köszönhetõ.}
-{171}{}{Kaphatnék egy újabb esélyt?}
-{172}{}{Semmit.}
-{173}{}{Szarom le!}
-{174}{}{Ig va níka rúúúla?}
-{175}{}{Lig.}
-{176}{}{Már megint elcseszted! Úgy látom, ez a munka nem neked való és kész.}
-{177}{}{Aztán miért?}
-{178}{}{Nem kéne...}
-{179}{}{Mert ha nem, kilyukasztom a fejedet!}
-{180}{}{Jobb dolgom is van, mint ostoba karavánok mellett gályázni.}
-{181}{}{Nem tudtam, hogy nem lehet elmennem. Minden a legnagyobb rendben volt. Legalábbis úgy tûnt.}
-{182}{}{Értem... szóval tele voltál drogokkal. Hát, éld csak ezt az életet, ha ez a szíved vágya...}
-{183}{}{Sajnálom, hogy ez a véleményed.}
-{184}{}{Meg vagyok lepve, hogy még sosem csináltál ilyesmit korábban. Ezt figyelembevéve azt hiszem, senkinek nem görbül egy haja szála sem, ha adok még egy esélyt.}
-{185}{}{Jó kis munkát végeztél! Van kedved egy újabb fordulóhoz?}
-{186}{}{Persze.}
-{187}{}{Nincs.}
-{188}{}{Talán.}
-{189}{}{Ajjajjaj!}
-{190}{}{Lub.}
-{191}{}{Összeszedted az összes cuccod? Ma indulunk.}
-{192}{}{Igen.}
-{193}{}{Nem!}
-{194}{}{Jaj!}
-{195}{}{Odapasszolom a munkát valaki másnak, nem kell aggódni miatta. Amíg útnak nem indulsz a karavánnal, semmi sem kötelez, rendben?}
-{196}{}{A következõ karaván }
-{197}{}{8-án}
-{198}{}{18-án}
-{199}{}{28-án}
-{200}{}{}
-{201}{}{}
-{202}{}{}
-{203}{}{ indul. Ha még akkor is kell a munka, gyere vissza akkor! }
-{204}{}{január hónapban }
-{205}{}{február hónapban }
-{206}{}{március hónapban }
-{207}{}{április hónapban }
-{208}{}{május hónapban }
-{209}{}{június hónapban }
-{210}{}{július hónapban }
-{211}{}{augusztus hónapban }
-{212}{}{szeptember hónapban }
-{213}{}{október hónapban }
-{214}{}{november hónapban }
-{215}{}{december hónapban }
-{216}{}{Az Acél Testvérisége, megérkeztünk! Ha nem gond... nem tartok veled, de nyilván sejted, mire gondolok.}
-{217}{}{Oké, tûnés a szemem elõl! Azok a Testvériségi fanatikusok már várnak téged.}
-{218}{}{Remélem, szereted a hegyvidéket! Egyenesen keresztül fogsz rajta vágni. Jó sok akcióban lesz részed, annyi szent.}
-{219}{}{Jöhet a mehet! Egyenesen a hegyvidéken fogsz keresztülvágni! Nagy durranás lesz!}
-

@@ -1,0 +1,101 @@
+# These are people who are running caravans. either gender, but majority Male
+# Tone of voice similar to truck drivers of California-- rough and partially
+# harsh.
+{100}{}{To przewodnik karawany.}
+{101}{}{Dzisiaj bêdzie d³ugi dzieñ!}
+{102}{}{Naprawdê nie chce mi siê dzisiaj harowaæ.}
+{103}{}{Mam nadziejê, ¿e nie napadn¹ nas najeŸdŸcy... albo gorzej.}
+{104}{}{Przykro mi, nie trzeba nam ju¿ wiêcej stra¿ników... tak myœlê.}
+{105}{}{Wybacz, mamy komplet.}
+{106}{}{Jeœli szukasz roboty, to sprawdŸ na Targu.}
+{107}{}{Mam nadziejê, ¿e wszystko sprzedamy.}
+{108}{}{Nie mogê siê doczekaæ koñca tej trasy.}
+# finish this job.
+
+{109}{}{Ruszajmy w drogê.}
+{110}{}{Chêtnie skopiê parê zadów.}
+# i'm ready for some brawling
+
+{111}{}{Zmywamy siê st¹d!}
+{112}{}{Dzisiaj faktycznie by³o gor¹co.}
+{113}{}{Rany, ale mi siê chce piæ.}
+# i am very thirsty
+
+{114}{}{Jaki dzisiaj dzieñ?}
+{115}{}{Jak tylko skoñczê, natychmiast polecê do Soko³a!}
+# Falcon is short for Maltese Falcon--Drinking and gambling hall
+
+{116}{}{Przykro mi, akurat wracamy z trasy.}
+{117}{}{Je¿eli szukasz roboty, to sprawdŸ na Targu.}
+# Merchant Market is a section of town in which people gather.
+
+{118}{}{Dzisiaj wyp³ata!}
+{119}{}{Idê prosto do Boba!}
+# Bob's is short for Bob's Iguana Bits -- eating establishment
+
+{120}{}{Muszê dzisiaj sp³aciæ po¿yczkê!}
+{121}{}{Ale mnie dopad³o zmêczenie.}
+{122}{}{To by³a d³uga wyprawa!}
+{123}{}{Zdaje siê, ¿e czas na fajrant.}
+{124}{}{Do jutra, ludziska.}
+{125}{}{O rany, co to by³a za noc.}
+{126}{}{I'm getting old...}
+{200}{}{To Mat.}
+{201}{}{Widzimy siê jutro. Nie dajcie siê pogryŸæ pluskwom...}
+{202}{}{Ale to by³ dziwaczny sen.}
+{203}{}{Tak? Czy mogê ci s³u¿yæ pomoc¹?}
+{204}{}{Eee?}
+{205}{}{Co to za miejsce?}
+{206}{}{Czy móg³byœ mi powiedzieæ, gdzie mo¿na znaleŸæ hydroprocesor?}
+{207}{}{Co tu robi¹ te wszystkie wozy?}
+{208}{}{Och. Przepraszam, zdawa³o mi siê, ¿e jesteœ kimœ innym. Czeœæ.}
+{209}{}{Ta. Móg³byœ umrzeæ.}
+{210}{}{Za d³ugo by³o siê na pustkowiu, co? Jaka szkoda.}
+{211}{}{To Hub. Handlowe centrum Pustkowia. Jest to najwiêksze miasto, o jakim wiem; mo¿na tu znaleŸæ prawie wszystko, czego mo¿na by tylko chcieæ. A jeœli szuka siê pracy, to jest w³aœnie miejsce, w którym powinno siê byæ. Wydaje siê, ¿e prawie ka¿dy tutaj chce kogoœ wynaj¹æ do czegoœ, obojêtne, legalnego czy nie.}
+{212}{}{Czy móg³byœ mi powiedzieæ, gdzie mo¿na znaleŸæ hydroprocesor?}
+{213}{}{Co tu robi¹ te wszystkie wozy?}
+{214}{}{Handlowe? Czym handlujecie?}
+{215}{}{Dok¹d powinno siê pójœæ, ¿eby znaleŸæ pracê?}
+{216}{}{¯egnaj.}
+{217}{}{Hydroprocesor? Kurcze. To mnie zagiê³o. Nigdy o czymœ takim nie s³ysza³em. Spróbuj w sklepie Myd³o-i-Powid³o w Œródmieœciu, mo¿e tam bêd¹ ci w stanie pomóc.}
+{218}{}{Co tu robi¹ te wszystkie wozy?}
+{219}{}{Dziêkujê. Bywaj.}
+{220}{}{To wozy karawanowe. Wozimy nimi towary do prawie wszystkich zak¹tków Pustkowia: Z³omowa, Cytadeli Bractwa, Cienistych Piasków i wielu innych miejsc. Nekropolis i Blask to jedyne obszary, jakie omijamy. Kierujê t¹ grup¹, wkrótce wyruszamy. Ci po drugiej stronie drogi dopiero co przybyli.}
+{221}{}{Wygl¹da to na tê sam¹ karawanê, która by³a tu wczeœniej.}
+{222}{}{Czym handlujecie?}
+{223}{}{Co to za miejsce?}
+{224}{}{Dok¹d powinno siê pójœæ, ¿eby znaleŸæ pracê?}
+{225}{}{Dziêkujê. Bywaj.}
+{226}{}{Hmm... Mnóstwem rzeczy. Podstawowymi dobrami, które s¹ potrzebne do ¿ycia - ¿ywnoœci¹, wod¹, mnóstwem wody. Woda jest chyba najbardziej deficytowym towarem na Pustkowiu.}
+{227}{}{Czy móg³byœ mi powiedzieæ, gdzie mo¿na znaleŸæ hydroprocesor?}
+{228}{}{Dok¹d powinno siê pójœæ, ¿eby znaleŸæ pracê?}
+{229}{}{Dziêkujê. Bywaj.}
+{230}{}{Tu, w Hubie, mo¿esz spytaæ o ni¹ prawie ka¿dego. Albo mo¿esz sprawdziæ któr¹œ z tablic z og³oszeniami o pracy. Jest ich kilka w mieœcie. Jest tu zdecydowanie wiêcej pracy ni¿ ludzi.}
+{231}{}{Co to za miejsce?}
+{232}{}{Czy móg³byœ mi powiedzieæ, gdzie mo¿na znaleŸæ hydroprocesor?}
+{233}{}{Co tu robi¹ te wszystkie wozy?}
+{234}{}{Dziêkujê. Bywaj.}
+{235}{}{[Œmieje siê.] Tak, chyba mo¿na tak powiedzieæ. Po pewnym czasie wszystkie zaczynaj¹ wygl¹daæ tak samo. Ale wierz mi, nie s¹.}
+{236}{}{Umrzesz za robienie sobie ze mnie kpin!!!}
+{237}{}{Dok¹d powinno siê pójœæ, ¿eby znaleŸæ pracê?}
+{238}{}{Bywaj.}
+{300}{}{To Luke.}
+{301}{}{To wozy karawanowe. Wozimy nimi towary do prawie wszystkich zak¹tków Pustkowia: Z³omowa, Cytadeli Bractwa, Cienistych Piasków i wielu innych miejsc. W³aœnie wróciliœmy z d³ugiej wyprawy. Ta grupa po drugiej stronie drogi przygotowuje siê do wymarszu.}
+{400}{}{To John.}
+{401}{}{Co tu robisz o tej porze?}
+{402}{}{Jesteœ mato³em. Wynocha st¹d, ³achu.}
+{403}{}{Hydroprocesor? Nigdy o czymœ takim nawet nie s³ysza³em.}
+{404}{}{To wozy karawanowe, pilnujê ich. Kupcy wo¿¹ nimi towary do prawie wszystkich zak¹tków Pustkowia: Z³omowa, Cytadeli Bractwa, Cienistych Piasków i wielu innych miejsc.}
+{405}{}{Well... lots of stuff. General stuff people need to live: food, water, lots of water. Water is probably the scarcest commodity in the wastes.}
+{406}{}{Tu, w Hubie, mo¿esz spytaæ o ni¹ prawie ka¿dego. Albo mo¿esz sprawdziæ któr¹œ z tablic z og³oszeniami o pracy, jest ich kilka w mieœcie.}
+{407}{}{Jestem ochroniarzem wynajêtym przez kupców, do których nale¿¹ towary na tych wozach. To niebezpieczna robota, ale dobrze p³atna. Ledwie parê nocy temu jeden z moich wspó³pracowników zosta³ zabity, pilnuj¹c karawan.}
+{408}{}{Co to za wozy?}
+{409}{}{Ahhhh. (He assumes a sarcastic tone of voice.) What a sad story. How would you like to join your friend?}
+{410}{}{Czeœæ.}
+
+## Fallout Fixt:
+
+{501}{}{You see a caravan guard.}
+{502}{}{You see a caravan driver.}
+{503}{}{You see a caravan driver.}
+{504}{}{You see a caravan merchant.}

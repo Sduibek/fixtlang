@@ -1,0 +1,128 @@
+{100}{}{You see a nervous ghoul with an air of authority.}
+{101}{}{Grazie per non aver sparato. Posso aiutarti in qualche modo?}
+{102}{}{Si', sto cercando l'acqua.}
+{103}{}{Certo. Chi sei?}
+{104}{}{Nah.}
+{105}{}{Ahh, puoi riposare qui, se lo desideri. Noi non ti faremo alcun male.}
+{106}{}{Ahh.}
+{107}{}{Io sono il capo di questa umile gente che ha lasciato la superficie a causa di altri.}
+{108}{}{Chi vi ha costretto a rifugiarvi qui sotto?}
+{109}{}{Che sciocchezza.}
+{110}{}{Hmm. Ok. Addio.}
+{111}{}{La superficie di Necropolis e l'acqua sono controllate da Set e dai suoi ghoul. Noi siamo un gruppo molto piu' pacifico - il che disgusta Set.}
+{112}{}{Chi e' questo Set?}
+{113}{}{Beh, di Set me ne sono occupato io. Non vi dara' piu' fastidio.}
+{114}{}{Ma allora come fate a sopravvivere qui sotto e senza acqua?}
+{115}{}{Beh, neanche a me piacerebbe convivere con un gruppo di checche come voi. Set mi sembra un tipo a posto.}
+{116}{}{Set e' un ghoul come noi che ha assunto un ruolo di potere nel mondo di superficie. Ma e' soltanto un imbecille.}
+{117}{}{Sembra essere una persona molto piu' interessante di voi.}
+{118}{}{Perche' vi permette di vivere qui sotto?}
+{119}{}{Lui non lo ammettera' mai, ma Set teme di non aver abbastanza uomini per difendere Necropolis in caso di bisogno. Cosi' ci fornisce l'acqua che ci serve per sopravvivere.}
+{120}{}{Da dove proviene tutta quest'acqua?}
+{121}{}{Io ho bisogno di acqua per la mia gente! Se sai da dove la prende, dimmelo subito!}
+{122}{}{Sto cercando un water chip per poter dare alla mia gente l'acqua di cui ha bisogno. Sai per caso dove potrei trovarne uno?}
+{123}{}{Io non vi vorrei con me nemmeno se dovessi difendere un cassonetto di rifiuti. Comunque, cos'e' 'sta storia dell'acqua?}
+{124}{}{Fino a poco tempo fa, pompavamo l'acqua dal sottosuolo con una pompa che si trova nell'Acquedotto.}
+{125}{}{Fino a poco tempo fa? Cos'e' successo nel frattempo?}
+{126}{}{Come faccio a raggiungere l'Acquedotto?}
+{127}{}{Cos'e' l'Acquedotto?}
+{128}{}{Da quando la nostra pompa ha smesso di funzionare, prendiamo la nostra acqua da un luogo sottoterra. Ho sentito che c'e' un computer che si occupa della depurazione dell'acqua.}
+{129}{}{Grazie.}
+{130}{}{Dove si trova?}
+{131}{}{L'Acquedotto si trova a nord. Dovrai attraversare le fogne, se vuoi raggiungerlo.}
+{132}{}{Non starai pensando di rubare il nostro water chip, vero?}
+{133}{}{Er... Chi? Io? No, non farei mai una cosa del genere. Volevo solo vedere come funzionava.}
+{134}{}{Certo! La mia gente ha bisogno del water chip per sopravvivere.}
+{135}{}{Perche'?}
+{136}{}{Se rubi il nostro water chip, moriremo tutti. La nostra pompa non funziona e abbiamo bisogno del chip per sopravvivere.}
+{137}{}{Beh, a dir la verita' non mi interessa granche' di te e della tua gente. Noi abbiamo bisogno del chip per la *nostra* sopravvivenza. Addio.}
+{138}{}{Credi che sia possibile riparare la vostra pompa?}
+{139}{}{Se e' cosi', non posso permetterti di andartene vivo da qui.}
+{140}{}{Mi dispiace, ma non ti credo.}
+{141}{}{Non era mia intenzione ingannarti. Cosa c'e' di sbagliato a prendere il vostro water chip?}
+{142}{}{Beh, non mi interessa. Se non ti togli dai piedi, saro' costretto a sbarazzarmi di te.}
+{143}{}{Non sarebbe una cosa facile. I pezzi di ricambio che servono per riparare la pompa sono andati perduti nelle fogne che si trovano sotto l'acquedotto.}
+{144}{}{E perche' sarebbe difficile?}
+{145}{}{Parli di questi? (Gli mostri i pezzi che hai trovato)}
+{146}{}{Le fogne sono piene di mostri e nessuno di quelli che ho mandato a recuperarli e' mai tornato vivo. Saresti disposto a recuperare quei pezzi di ricambio, in modo tale da permetterci di riparare la pompa?}
+{147}{}{Non ho voglia di passare dei guai... credo che mi accontentero' di prendere il vostro water chip.}
+{148}{}{Si'.}
+{149}{}{Dal momento che siete degli incapaci, immagino che saro' costretto a darvi una mano.}
+{150}{}{Grazie. Una volta che li avrai recuperati, torna qui. Forse saro' in grado di aiutarti.}
+{151}{}{Ok, mi metto subito in cammino.}
+{152}{}{Hai ritrovato i pezzi di ricambio per la pompa?}
+{153}{}{Non ancora.}
+{154}{}{No, e ho deciso di rinuciare a cercarli.}
+{155}{}{Dove mi hai detto che dovevo cercarli?}
+{156}{}{Allora ti auguro buona fortuna.}
+{157}{}{Sei tornato. Hai recuperato i pezzi di ricambio necessari per riparare la pompa?}
+{158}{}{Si', eccoli qui.}
+{159}{}{Si', ma ho deciso di tenermeli.}
+{160}{}{Beh, puo' darsi che tu abbia bisogno di aiuto per installare quei pezzi di ricambio. Qui ci sono alcuni libri che abbiamo trovato tra le rovine. Potrebbero esserti utili. Ora, ti prego, porta i pezzi di ricambio all'Acquedotto e ripara la pompa.}
+{161}{}{Sfortunatamente non sono in grado di aiutarti in altro modo. Buona fortuna con la pompa. Ti prego, porta questi pezzi di ricambio all'acquedotto e riparala.}
+{162}{}{Hai riparato la pompa?}
+{163}{}{No, non ancora, ma ci sto ancora lavorando.}
+{164}{}{No, e non penso di farlo in tempi brevi.}
+{165}{}{Si', quelli sono i pezzi di cui ti parlavo. Sia benedetto il Flusso! Li hai gia' ritrovati.}
+{166}{}{C'e' altro che dovrei sapere?}
+{167}{}{Beh, adesso non sperare che io li porti alla pompa.}
+{168}{}{Come ti ho gia' detto, dovrebbero essere nelle fogne che si trovano sotto l'Acquedotto. Vai verso est, poi a nord. L'Acquedotto e' in quella direzione.}
+{169}{}{Grazie. Ci vediamo.}
+{170}{}{Beh, grazie dell'aiuto. C'e' qualcos'altro che vorresti sapere?}
+{171}{}{Come fate a sopravvivere qui sotto senza acqua?}
+{172}{}{E' l'edificio in cui immagazziniamo e distribuiamo l'acqua.}
+{173}{}{Dove si trova?}
+{174}{}{Ultimamente ho sentito delle voci secondo le quali l'Acquedotto sarebbe stato occupato da qualcuno. Tuttavia, per qualche ragione, le nostre razioni continuano ad arrivare regolarmente.}
+{175}{}{Come lo raggiungo, l'Acquedotto?}
+{176}{}{Cos'e' l'Acquedotto?}
+{177}{}{Ti ringrazio per aver riparato la pompa e auguro ogni bene a te e alla tua gente quando tornerai da loro con cio' che hai trovato.}
+{178}{}{Grazie dell'aiuto. Addio.}
+{179}{}{Hai riparato la pompa e il flusso e' tornato a sgorgare dalle viscere della terra. Tuttavia, vedo che non hai trovato cio' che cercavi.}
+{180}{}{Si', purtroppo non riesco a trovare il Water Chip.}
+{181}{}{Ho sentito che si trova nelle profondita' della citta', sotto l'Acquedotto. Ti auguro ogni fortuna nella tua ricerca.}
+{182}{}{Vedo che hai trovato cio' che eri venuto a cercare. Immagino tu sappia che noi tutti moriremo se ci rubi il water chip.}
+{183}{}{Si', ma sto cercando di riparare la pompa. Dove hai detto che si trovano i pezzi di ricambio?}
+{184}{}{Il water chip serve a me e i vostri problemi non mi interessano.}
+{185}{}{Cos'altro potrei fare?}
+{186}{}{Le tue osservazioni maligne mi hanno stufato. Non ho alcuna intenzione di ascoltarti oltre.}
+{187}{}{Tempo fa c'era una pompa, nell'Acquedotto, che pompava acqua dalle falde sotterranee. Tuttavia si e' rotta e i pezzi di ricambio sono stati smarriti nelle fogne che si trovano subito sotto l'Acquedotto.}
+{189}{}{Perche' non li avete ancora recuperati?}
+{190}{}{Non hai nulla da temere da noi!}
+{191}{}{Prima che tu te ne vada voglio parlarti.}
+{192}{}{Non mi hai lasciato altra scelta: dovro' fermarti personalmente.}
+{193}{}{Wait, don't shoot!}
+{194}{}{Non hai nulla da temere da noi!}
+{195}{}{Prima che tu te ne vada voglio parlarti.}
+{196}{}{Non mi hai lasciato altra scelta: dovro' fermarti personalmente.}
+{200}{}{Brutta roba.}
+{201}{}{La pompa non si puo' riparare?}
+{202}{}{Mi dispiace, ma la mia gente ha bisogno del chip per sopravvivere.}
+{203}{}{Ti prego, non prendere il nostro water chip. Senza di esso moriremo.}
+{204}{}{Forse, ma i pezzi di ricambio sono andati perduti nelle fogne sotto l'Acquedotto. Con tutti i mostri che vivono laggiu', non possiamo recuperarli.}
+{205}{}{Vorrei potervi aiutare...}
+{206}{}{Trovero' i pezzi di ricambio.}
+#
+#  by Sduibek for Fallout Fixt:
+#
+{300}{}{You see: Undergrounder Leader.}
+
+
+############ Tell Me Abouts
+
+{1000}{}{Set}
+{1001}{}{Master}
+{1002}{}{Acqua}
+{1003}{}{Acquedotto}
+{1004}{}{Sala}
+{1005}{}{Necropolis}
+{1006}{}{Chip}
+
+{1100}{}{Vorrebbe controllare Necropolis e ci ha costretti a vivere sottoterra.}
+{1101}{}{Ha qualcosa a che fare con i mutanti. Non so altro.}
+{1102}{}{La nostra acqua arriva da sotto l'Acquedotto.}
+{1103}{}{La pompa si trova la'. Inoltre e' il posto nel quale viene distribuita l'acqua.}
+{1104}{}{Il cosiddetto "palazzo" di Set.}
+{1105}{}{La Citta' dei Morti, dove ci piacerebbe vivere in pace, se solo Set ce lo permettesse.}
+{1106}{}{La nostra acqua arriva da sotto l'Acquedotto.}
+
+

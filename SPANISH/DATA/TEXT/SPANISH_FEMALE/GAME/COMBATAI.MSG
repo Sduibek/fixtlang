@@ -218,7 +218,7 @@
 #
 # 3. Guard 3 (Sadistic)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# Guard 3 is the henchman of really nasty people. 
+# Guard 3 is the henchman of really nasty people.
 # He likes to hurt people, and makes no bones about it, and is a bit of a coward.
 #
 #
@@ -1320,7 +1320,7 @@
 #
 # 14. Nightkin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# We are the Chosen of the Master, and all must bow before us. 
+# We are the Chosen of the Master, and all must bow before us.
 # (Damn these bastards are really arrogant); my interpretation is that
 # these boys are smarter and more cunning than garden variety Super Mutants.
 #
@@ -5503,7 +5503,7 @@
 # target hit in eyes
 #
 {6353}{}{¡Agh!}
-{6354}{}{Mis ojos... Mis ojos no...}
+{6354}{}{Mis ojos... mis ojos no...}
 {6355}{}{¡Ese ha sido un golpe bajo!}
 #
 # target hit in groin
@@ -5605,7 +5605,7 @@
 # target hit in eyes
 #
 {6453}{}{¡Agh! ¡Mis ojos!}
-{6454}{}{Mis ojos... No, mis ojos no...}
+{6454}{}{Mis ojos... no, mis ojos no...}
 {6455}{}{}
 #
 # target hit in groin
@@ -5707,7 +5707,7 @@
 # target hit in eyes
 #
 {6553}{}{¡Uggh! ¡Noooo!}
-{6554}{}{Mis ojos... Mis ojos no...}
+{6554}{}{Mis ojos... mis ojos no...}
 {6555}{}{}
 #
 # target hit in groin
@@ -6208,7 +6208,7 @@
 {7041}{}{¡Oh! ¡Sinvergüenza!}
 {7042}{}{¡Uff! ¡La Hermandad me vengará si muero!}
 {7043}{}{¡Dominaré mi dolor como te dominaré a ti!}
-{7044}{}{Sí... Dolor, mi viejo amigo}
+{7044}{}{Sí... dolor, mi viejo amigo}
 {7045}{}{}
 {7046}{}{¡Solo es un poco de carne herida!}
 #
@@ -6853,7 +6853,7 @@
 # target hit in eyes
 #
 {7653}{}{¡Agh! ¡La retina!}
-{7654}{}{Mis ojos... Mis ojos no...}
+{7654}{}{Mis ojos... mis ojos no...}
 {7655}{}{¡Ese ha sido un tiro estúpido!}
 #
 # target hit in groin
@@ -7059,7 +7059,7 @@
 # target hit in eyes
 #
 {7853}{}{Sangre. Toda esta sangre...}
-{7854}{}{Mis ojos... Mis ojos no...}
+{7854}{}{Mis ojos... mis ojos no...}
 {7855}{}{¡Ese ha sido un golpe bajo!}
 #
 # target hit in groin

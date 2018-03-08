@@ -1,22 +1,16 @@
-{100}{}{Der Roboter funktioniert nicht. Die Staubschicht läßt darauf schließen, daß er
- schon länger nicht mehr aktiv war.}
+{100}{}{Der Roboter funktioniert nicht. Die Staubschicht läßt darauf schließen, daß er schon länger nicht mehr aktiv war.}
 {101}{}{Der Roboter ist zwar repariert, aber er funktioniert dennoch nicht.}
 {102}{}{Die Hardware ist nicht das Problem, es muß die Software sein.}
 {103}{}{Du kannst auf die Funktionen des Roboters nicht zugreifen, er ist deaktiviert.}
-{104}{}{Du hantierst an einigen kaputten Komponenten herum, benötigst jedoch
- mehr Zeit zum Reparieren.}
-{105}{}{Du bootest den Computer und startest den Roboter.
- Du bemerkst, daß das Funksystem des Roboters zerstört ist.}
-{106}{}{Du arbeitest einige Zeit am Computer des Roboters, kannst ihn aber
- nicht neu starten.}
-{107}{}{Einheit Nr. 462 online. Selbsttest. Datenanpassung. Erledigt.
- Erstellen einer neuen Speicherdatei. Erledigt. Fehler - Aufgabe unvollständig.}
+{104}{}{Du hantierst an einigen kaputten Komponenten herum, benötigst jedoch mehr Zeit zum Reparieren.}
+{105}{}{Du bootest den Computer und startest den Roboter. Du bemerkst, daß das Funksystem des Roboters zerstört ist.}
+{106}{}{Du arbeitest einige Zeit am Computer des Roboters, kannst ihn aber nicht neu starten.}
+{107}{}{Einheit Nr. 462 online. Selbsttest. Datenanpassung. Erledigt. Erstellen einer neuen Speicherdatei. Erledigt. Fehler - Aufgabe unvollständig.}
 {108}{}{Rogga.}
 {109}{}{Welche Aufgabe ist unvollständig?}
 {110}{}{Hm, mach?s einfach und laß' mich in Ruhe!}
 {111}{}{[Klick] Alles klar! Aufgabe wird erneut durchgeführt.}
-{112}{}{Einheit Nr. 462 ist ein Reinigungsmodell. Du mußt auf diesem Level
- Reinigungsarbeiten und Wartung abschließen.}
+{112}{}{Einheit Nr. 462 ist ein Reinigungsmodell. Du mußt auf diesem Level Reinigungsarbeiten und Wartung abschließen.}
 {113}{}{Los geht?s!}
 {114}{}{Was muß noch aufgeräumt werden?}
 {115}{}{Die Container-Steuerzentrale. [Klick] Ende der Liste.}

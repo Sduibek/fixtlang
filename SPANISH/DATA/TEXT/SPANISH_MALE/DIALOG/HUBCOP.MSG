@@ -5,18 +5,18 @@
 {100}{}{Estás viendo a un Oficial de Policía.}
 # Police Officer is male
 
-{101}{}{¡Saludos! Deberías tener cui... uh, quiero decir, vigila... [el oficial mira de forma extraña a los otros oficiales y menea la cabeza en tu dirección.]}
-{102}{}{Hola, forastero... ¡Espera! ¡Te conozco! ¡Te buscan por robo!... ¡No te muevas!}
+{101}{}{¡Saludos! Deberías tener cui... uh, quiero decir, vigila... (mira de forma extraña a los otros oficiales y apunta en tu dirección con la cabeza).}
+{102}{}{Hola, forastero... ¡Espera! ¡Te conozco! ¡Te buscan por robo! ¡No te muevas!}
 # Stranger is the player. Consider Male.
 
 {103}{}{Vale, me voy.}
 {104}{}{¡Vas a probar mi plomo!}
-# "Eat lead" is equivalant to "I'm going to kill you."
+# "Eat lead" is equivalant to "I'm going to kill you."  Bullets contain lead :)
 
 {105}{}{¡Kor Rok!}
 # "Kor Rok" is just garbled sounds a moronic player is saying.
 
-{106}{}{[Te entregas.]}
+{106}{}{(Poner las manos en el aire y entregarse)}
 {107}{}{Ten cuidado, éste no es un lugar seguro.}
 
 # 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."

@@ -1,0 +1,209 @@
+{100}{}{Egy nõt látsz.}
+{101}{}{Nem óhajtok meghalni, uram, nem vagyok katona.}
+{102}{}{Nem óhajtok meghalni, asszonyom, nem vagyok katona.}
+{103}{}{Beszéljen, akkor életben hagyom.}
+{104}{}{Én sem vagyok az. Csak akkor ölök, ha szükséges.}
+{105}{}{Nem fogja itt nekem dícsérni a Mestert meg ilyenek!}
+{106}{}{Meghagyom az életét egy jó kis italért. Hol tartják a piát?}
+{107}{}{Jó éjt, ribanc!}
+{108}{}{Én Nagy Katona! Ha! Ha! Ha!}
+{109}{}{Örülök, hogy felkeresett engem. Hallottam, mit mondott Laurának. Ezt nem szabad megtennie.}
+{110}{}{Ön szerint mit fogok csinálni?}
+{111}{}{Laura? Ki az a Laura?}
+{112}{}{Óh, Óh.}
+{113}{}{Óh, ez szarvashiba volt a javából! Meg is lesz az ára.}
+{114}{}{Va tak? Raar!}
+{115}{}{Azt hiszem, mindent elmondtunk, amit el kell mondani. Viszlát!}
+{116}{}{Nem beszélek olyanokkal, akik fegyvert szegeznek rám. Eressze le, akkor beszélhetünk!}
+{117}{}{Üdvözlöm! Remélem, elég érdekesnek találta ezt a helyet.}
+{118}{}{Láttam már igényesebb szórakozási formákat is.}
+{119}{}{Természetesen, nõvér. Dícsértessék a Mester! Dícsértessék a Szentséges Láng!}
+{120}{}{Akárhányszor szóba állok valakivel, az emberek egyre csak ismételgetik magukat. Újra meg újra...}
+{121}{}{Szórakozást mondott? Hol tartják a piákat?}
+{122}{}{Ez a hely tök unalmas! Hol a vér? Hol a halál?}
+{123}{}{Üdvözlöm, Beavatott! Miben állhatok szolgálatára?}
+{124}{}{Egy kicsit kezdtem aggódni a hosszú távú terveink miatt.}
+{125}{}{Mit lehet tudni errõl a helyrõl?}
+{126}{}{Merre találom a Mestert?}
+{127}{}{Ki itt a vezetõ?}
+{128}{}{Ugyan már, nõvér! Nincs ember, aki anélkül szolgálna másokat, hogy fegyvert dugnának az orra alá!}
+{129}{}{Üdvözlöm, uram. A hírneve ön elõtt jár! Segíthetek valamiben?}
+{130}{}{Üdvözlöm, hölgyem. A hírneve ön elõtt jár! Segíthetek valamiben?}
+{131}{}{Azon tûnõdtem, mi célja van a Katedrálisnak.}
+{132}{}{Hogy lesz valakibõl beavatott?}
+{133}{}{Merre találom a Mestert?}
+{134}{}{Ki itt a vezetõ?}
+{135}{}{Ugyan már, nõvér! Nincs ember, aki anélkül szolgálna másokat, hogy fegyvert dugnának az orra alá!}
+{136}{}{Üdvözlöm, uram. A hírneve ön elõtt jár! Segíthetek valamiben?}
+{137}{}{Üdvözlöm, hölgyem. A hírneve ön elõtt jár! Segíthetek valamiben?}
+{138}{}{Azon tûnõdtem, mi célja van a Katedrálisnak.}
+{139}{}{Hogy lesz valakibõl beavatott?}
+{140}{}{Merre találom a Mestert?}
+{141}{}{Ki itt a vezetõ?}
+{142}{}{Ugyan már, nõvér! Nincs ember, aki anélkül szolgálna másokat, hogy fegyvert dugnának az orra alá!}
+{143}{}{Tudom, kicsoda ön. És ha megbocsátja nyers modoromat, pszichotikus gyilkosokkal nem tárgyalok. Minden jót!}
+{144}{}{Azok a híresztelések erõsen túloznak. A Katedrális pletykák és megérzések alapján ítél meg embereket?}
+{145}{}{Pszichotikus gyilkos? Én?!}
+{146}{}{Kislány, én nem vagyok pszichopata. Csak egy közönséges õrült, és ha nem válaszol a kérdéseimre, bizonyságot is teszek róla!}
+{147}{}{Hûséget nem esküszöm könnyen, ez szent igaz, de nem is szoktam megszegni. Nem mondok magának semmit.}
+{148}{}{Jól van. Akkor békén hagyhatjuk egymást, és kiegyezhetünk döntetlenben.}
+{149}{}{A Mester dícsérete nem menti meg az életemet. Csinálja csak! Semmit nem tehetek, hogy megakadályozzam magát!}
+{150}{}{Van valahol egy kifõzde a Katedrálison kívül. Drogokat és alkoholt nem lehet behozni ide.}
+{151}{}{Attempt to take the key to the secret entrance from Morpheus and kill the Master.}
+{152}{}{Miért ne akarnék ilyesmit tenni?}
+{153}{}{Nem tudom, mirõl beszél.}
+{154}{}{Miért akarnék ilyesmit tenni?}
+{155}{}{Hallott már valaha olyasmit, hogy az ember túl sokat tud?}
+{156}{}{The spy for the Followers of the Apocalypse who's currently in one of the meditation rooms.}
+{157}{}{Van itt egy kém? Sürgõsen értesítenünk kell a Fõpapokat!}
+{158}{}{Nem tudom, mirõl beszél.}
+{159}{}{Miért akarnék én kémkedni maguk után?}
+{160}{}{Hallott már valaha olyasmit, hogy az ember túl sokat tud?}
+{161}{}{Ez a hely nem a szórakozást szolgálja, hanem a megvilágosodást. Még ennél is fontosabb, hogy itt a világ sorsáról kell helyes döntéseket hozni. Minden jót!}
+{162}{}{Ja. Hogyne. Persze. Viszlát!}
+{163}{}{Tudom, én is hajlok az ilyesmire, amikor semmi eredeti nem jut az eszembe. Minden jót!}
+{164}{}{A Szentséges Lánggal betöltekezett embereknek nincs másra szüksége. Legalábbis ezt mondják. Tudja, hogy van ez...}
+{165}{}{Fáradjon az emeletre! Kérdezze meg az Éjfajzatokat, van-e kedvük a vérét ontani. Szerintem szíves-örömest kötélnek állnak.}
+{166}{}{Mivel a Mester a szükséges rossz. Valakinek egyesítenie kell a világot, és õ az egyetlen széles e környéken, akinek van erre esélye.}
+{167}{}{Mondta már bárki is magának, hogy az Egység egy kicsit túl van lihegve?}
+{168}{}{Miért?}
+{169}{}{Én nem hiszek a szükséges rosszban.}
+{170}{}{Szerintem a világ úgy jó, ahogy van.}
+{171}{}{Azt hiszem, ez a beszélgetés nem tetszik nekem.}
+{172}{}{Jól van, ha nem áll ki a mondandója mellett, nem segítek önnek. Minden jót.}
+{173}{}{Azért, mert azt gondolja, hogy a Gyermekek számára hibás lépés a szomszédok lerohanása. Mert azt gondolja, hogy a Mester eltávolítása megakadályozza ezt.}
+{174}{}{És ha hinnék ebben, ki foghatná rám, hogy nincs igazam?}
+{175}{}{Ez szentségtörés!}
+{176}{}{Ha ez a véleménye, miért nem buktatott le?}
+{177}{}{Olyannak nézek ki, mint akinek ellenére van egy jó kis gyilkolászás?}
+{178}{}{Hallott már valaha olyasmirõl, hogy reménytelen eset? Bármennyire felfegyverzett vagy képzett is legyen valaki, soha, senki nem lenne képes legyõzni fél tucat Éjfajzatot. Én a béke asszonya vagyok. Megpróbálom megmenteni magát.}
+{179}{}{Vegyük azokat az embereket, akik az Apokalipszist okozták. Nem hittek a békében és az egységben, és most nézzen körül, mit okoztak nekünk! Csakis az Egység képes arra, hogy gátat vessen egy újabb katasztrófának. Minél hamarabb össze kell hoznunk, mielõtt a világban található Menedékeknek esélye lenne mozgásba lendíteni az erõiket.}
+{180}{}{Ehhez a zombicsapathoz képest ön túlságosan intelligensnek látszik.}
+{181}{}{Azt akarják, hogy mindenki úgy viselkedjen, mint az itteniek? Ez rosszabb, mint maga a halál!}
+{182}{}{Maga megõrült! Ez újabb Apokalipszis kitöréséhez fog vezetni.}
+{183}{}{És miért éppen a Mester a legalkalmasabb a vezetésünkre?}
+{184}{}{Még sosem oltott ki egyetlen életet sem? Nincs akkora tûzerõ a birtokában, amitõl még az Acél Testvériségét is elfogná a sárga irígység? Ne legyen már ilyen kétszínû! Az önvédelmet maga is elfogadhatónak tartja. A Mester csak megmenti az emberiséget egy másik önmegsemmisítõ lépéstõl. Egy és ugyanazon dologról van szó!}
+{185}{}{Honnan tudja, hogy nincs nála alkalmasabb valahol?}
+{186}{}{Hát, lehet, hogy el kéne gondolkodnom errõl...}
+{187}{}{Ezek szerint a világ megmentése elég jó indok a tömegmészárlásra?}
+{188}{}{Ez egy baromásg, Hölgyem!}
+{189}{}{Maga szerint miféle szaros világ már ez? Tombol a borzalom odakinn!}
+{190}{}{Honnan tudja, hogy nincs ennél jobb valahol?}
+{191}{}{Hát, lehet, hogy el kéne gondolkodnom errõl...}
+{192}{}{Olyan világot képzeltem magamnak, ahol a saját magam által választott életet élhetem.}
+{193}{}{Az élet nem habostorta, nõvér. Sosem volt, és nem is lesz soha.}
+{194}{}{Kemény dolog ez. Nem vagyok oda a sugárzásért, sem a FEV vírusért, de nem volt más választásom. Nem mindig úgy van, ahogy szeretné az ember. Néha kompromisszumokat kell kötni, és be kell adnunk a derekunkat.}
+{195}{}{Furcsa. Szerintem a Mester nem hagyná ezt.}
+{196}{}{Elõbb jön a kompromisszum, aztán a fajirtás.}
+{197}{}{Tûnjön a szemem elõl!}
+{198}{}{Engem most csak egyetlen dolog foglalkoztat, mégpedig az, hogy meddig fog még élni.}
+{199}{}{Esetleg leszek annyira intelligens, hogy amikor a Mester átveszi a hatalmat, képes leszek segíteni. Talán még maga is képes lesz! Álljon be hozzánk! Álljon be hozzánk, és változtassa meg a világot! Gondolkozzon el ezen, nem nagy kérés ez!}
+{200}{}{Minden társadalomban vannak herék. Felejtse el õket! Herékre is szükség van, de katonákra és királynõkre szintúgy. Maga elég jó katonának tûnik a szememben. Gondolja végig, mit vihetne végbe. Szerfelett hasznos tagja lehetne ügyünknek. Segítsen nekünk. Gondolkozzon azon, amit mondtam, ennyi lenne a kérésem!}
+{201}{}{Vagy esetleg meglephetjük a védelmüket, mielõtt újabbat tudnának létrehozni. Esetleg egy jól meghúzott lépéssel a máshol is fellelhetõ egyéb Menedékeket, városokat is összefoghatnánk. Az egyesített világ nem lesz tökéletes, de éppen elég sansza lesz, hogy egyben maradjon. Elmélkedjen ezen!}
+{202}{}{Megtanulmányoztam a rendelkezésre álló emberanyagot. Az Acél Testvérisége és az Apokalipszis Tanítványai nem akarnak mást, minthogy békén hagyják õket. A Hubbeliek azt hiszik, hogy õk találták fel a spanyolviaszt, micsoda egy rakás bolond! Csakis a Mesternek van meg a megfelelõ ereje ahhoz, hogy véghezvigye, amit véghez kell vinni. Gondolkozzon el ezen!}
+{203}{}{Örömmel hallom ezt. Remélem, a megfelelõ döntést hozza majd.}
+{204}{}{Nem, ez egyáltalán nincs rendjén, de hosszú távon csakis ez az egyetlen lehetõségünk. Ezért is vagyok ezekkel az emberekkel. Nincs más út! Gondolkozzon el ezen!}
+{205}{}{Valóban? Gondolkodjon! Törje a fejét! Ha továbbra is ellenáll nekünk, meghal. Látta az erõinket, tudja, hogy van még éppen elég tartalékunk. De mennyi! Nem állíthat meg minket! Viszont, ha átáll hozzánk, életek garmadáját mentheti meg. Majd gondolkodjon efelõl!}
+{206}{}{Én ugyan nem, de ha találkozom valakivel, akiben látok fantáziát, úgy intézem a dolgokat, hogy segíthessek neki. E kis világunk lakóinak semmi esélyük. Mind meghalnak, szerencsésebb esetben átalakítják õket. Maga ezen szerencsések egyike lehet. Csatlakozzon hozzánk! Gondolja végig!}
+{207}{}{A világ egyfolytában változik, mindig is ezt tette, és ha egyfolytában csak erõfitogtató kiskirályságokat csinálunk, alkalmasint valamelyikük éppen elég hatalomra tesz majd szert, hogy újra nyakunkba hozza az Apokalipszist. Csatlakozzon hozzánk, és mielõtt újra bekövetkezhetne a baj, egyesítse a világot. Meggondolandó!}
+{208}{}{Ez csak gyáva kifogás, ami nem old meg semmit. Ha szar az élet, változtatni kell rajta. Tartozunk ennyivel magunknak, és a gyermekeinknek. Gondolja, hogy ugyanolyan maradhat a világ, miközben egymás közt háborúzgatunk? Érdemes gondolkodni ezen!}
+{209}{}{Vagy esetleg megváltásba bújtatott fajirtásról van szó. Lehet, hogy a világ nem is lesz olyan rossz hely, ha az emberek a Mester elképzelése szerint serénykednek. Talán még olyan megoldást is találunk, amellyel csökkenthetõ a vérontás mértéke. Gondolkozzon ezen!}
+{210}{}{Jól van. Viszont ha nem tér le a jelenlegi ösvényérõl, rövidesen utoléri a halál. Gondoltam, elõre figyelmeztetem magát.}
+{211}{}{Megölhet engem, de ezzel csak a saját álláspontomat bizonyítja. Maga dönt...}
+{212}{}{Az Apokalipszis miatt! Nézzen körül, mit okoztak nekünk! Csakis az Egység képes arra, hogy gátat vessen egy újabb katasztrófának. Minél hamarabb össze kell hoznunk, mielõtt a világban található Menedékeknek esélye lenne mozgásba lendíteni az erõiket.}
+{213}{}{Ehhez a zombicsapathoz képest ön túlságosan intelligensnek látszik.}
+{214}{}{Azt akarják, hogy mindenki úgy viselkedjen, mint az itteniek? Ez rosszabb, mint maga a halál!}
+{215}{}{Majd elrágódom rajta...}
+{216}{}{Maga megõrült! Ez újabb Apokalipszishez fog vezetni.}
+{217}{}{És miért éppen a Mester a legalkalmasabb a vezetésünkre?}
+{218}{}{Én nem vagyok filozófus alkat, asszonyom. Csak egy dologhoz értek, a gyilkoláshoz.}
+{219}{}{Azért mondom mindezt, mert maga egy intelligens és bátor ember, aki nagy segítségünkre lenne. Igen, egy két mószerünket akár szörnyûnek is nevezhetjük, de ha az emberiség megmentésén fáradozunk, a cél szentesíti az eszközt. Ne kapkodja el a döntését a Tanítványok követését illetõen! Õk nem tudják az összes választ.}
+{220}{}{Ehhez a zombicsapathoz képest ön túlságosan intelligensnek látszik.}
+{221}{}{Azt akarják, hogy mindenki úgy viselkedjen, mint az itteniek? Ez rosszabb, mint maga a halál!}
+{222}{}{Majd elrágódom rajta...}
+{223}{}{Maga megõrült! Ez újabb Apokalipszishez fog vezetni.}
+{224}{}{És miért éppen a Mester a legalkalmasabb a vezetésünkre?}
+{225}{}{Én nem vagyok filozófus alkat, asszonyom. Csak egy dologhoz értek, a gyilkoláshoz.}
+{226}{}{Mindannyiunknak megvan a maga szerepe. Némelyikünk csak agyatlan here, aki a hülye egyedeknek való munkát végzi. Néhányunk a gondolkodók közé tartoznak, mások pedig a gyilkolók számát szaporítják. Biztos vagyok benne, hogy van itt megfelelõ hely magának, ha az akarat megvan. Kérem, gondolja végig!}
+{227}{}{Sokféle tervet találtunk ki. Elõször jött a Szentséges Láng, amely megtisztította a világot a gonoszságtól. Õt követte a Mester. Mostanság már küszöbön az Egység, amely számûzi a világot sújtó megosztottságot. Az Egységet a Béke követi majd. A Béke Kora az a végsõ cél, amiért mindannyian küzdünk.}
+{228}{}{Miért kell annyi embernek elpusztulni a béke címszó alatt?}
+{229}{}{Ez csodálatosan hangzik. Dícsértessék a Mester!}
+{230}{}{Elnézést az okvetetlenkedésért, de az Apokalipszis tüze nem volt gonosz?}
+{231}{}{Ez egy akkora marhaság, mint ide a világ vége.}
+{232}{}{Meggyõzõdésem, hogy így van. Az idegesség bölcs érzelem. Megakadályoz minket, hogy kellemetlen zugokba bújjunk a bajainkkal és meggátol minket, hogy hülyeségeket mûveljünk. Minden jót magának!}
+{233}{}{Válaszokat a Beavatottak szoktak keresgélni a felmerülõ kérdésekre. Ugyanezt csinálja maga is. Viszlát!}
+{234}{}{Hát, nem tudom... Az emberek meg vannak gyõzõdve arról, hogy a lelke átlengi ezeket a falakat. Eléggé úgy tûnik, hogy errõl van szó.}
+{235}{}{Az embereknek mi a véleménye a testi valójáról?}
+{236}{}{Lehet, hogy egy kis szkepticizmust vélek felfedezni a hangjában?}
+{237}{}{Létezik egyáltalán a Mester, vagy egy jó kis átejtésnek lehetünk tanúi?}
+{238}{}{Ez bosszantóan semmitmondó válasz volt.}
+{239}{}{Köszönöm, nõvér.}
+{240}{}{A Katedrális fõpapja Morpheus. A belsõ szentélyben megtalálja, de személyesen nem fogad senkit. Valószínûleg Ostoros Atyát kell meggyõznie arról, hogy bebocsáttasson. A parókián összefuthat vele.}
+{241}{}{Jó ember ez a Morpheus?}
+{242}{}{Miért nevezik õt Ostorosnak?}
+{243}{}{Mi a helyzet a Mesterrel?}
+{244}{}{Van még valami, amit illene tudnom?}
+{245}{}{Köszönöm, nõvér.}
+{246}{}{A véleményét megváltoztathatja. Esetleg az életét vesztheti. Minden a tetteitõl és a nézeteitõl függ. Minden jót!}
+{247}{}{Sok közös vonásunk van. Maga szörnyeket és gonosztevõket ölt halomra, és így tette a világot jobbá. Mi ugyanezt tervezzük, csak nagyobb volumenben gondolkodunk.}
+{248}{}{Mekkora volumenben, ha szabad kérdeznem?}
+{249}{}{Maguk miféle szörnyeket és gonosztevõket akarnak halomra ölni?}
+{250}{}{Van ennek valami köze a Szentséges Lánghoz, melyrõl mindenfelé beszélnek az emberek?}
+{251}{}{Sajnálom, hölgyem, de egy szavát sem hiszem.}
+{252}{}{Ez csodálatos! Dícsértessé a Mester! Dícsértessék a Szentséges Láng!}
+{253}{}{Természetesen Béke, Szeretet és Egység áll a háttérben. Mi másról szólhatna? Errõl viszont sajátmaga is meggyõzõdhet. Viszont látásra!}
+{254}{}{Mielõtt felkeresné a vezetõink egyikét, többheti meditáción és böjtön kell átesnie. Esetleg közszolgálati munkára is jelentkezhet önkéntesként.}
+{255}{}{Más városokban már láttam a maguk embereit...}
+{256}{}{Kit kell megkeresnem az önkéntes munka kapcsán?}
+{257}{}{Több hétig?! Ez túl sok! Ennyit nem várhatok.}
+{258}{}{Kit volna a legérdemesebb felkeresnem?}
+{259}{}{Szóval közszolgálati munka... az ellenség legyilkolásáról van szó?}
+{260}{}{Megbocsásson, de a legkevesebb, hogy õszinte megbánást tanúsít a bûnei miatt. Miben segíthetek?}
+{261}{}{Azon tûnõdtem, mi célja van a Katedrálisnak.}
+{262}{}{Hogyan válik itt valakibõl beavatott?}
+{263}{}{Merre találom a Mestert?}
+{264}{}{Ki itt a vezetõ?}
+{265}{}{Ugyan már, nõvér! Nincs ember, aki anélkül szolgálna másokat, hogy fegyvert dugnának az orra alá!}
+{266}{}{Elég veszélyes veszett kutyát engedni a házba csak azért, mert nem látta, hogy nyáladzik. Viszlát!}
+{267}{}{Akkor alaposan félre van tájékoztatva, mivel az egész Csonttelep borzalmas dolgokat rebesget magáról. Tegyük hozzá, nekem semmi kedvem utánanézni, vajon igazak-e. Viszlát!}
+{268}{}{A szenvedésnek mindig megvan a maga ára, a legnagyobb próbatétel viszont óhatatlanul a legnagyobb árat követeli. Attól tartok, ez a béke paradoxona. Olyan dolgok ezek, amikrõl érdemes elmélkednie. Viszlát!}
+{269}{}{Ez paradoxon. Persze, hogy így van, de a legnagyobb gonoszság gyakran a legnagyobb jóság felé vezet. Nem kell más hozzá, csak intelligencia és bátorság a túlélõk részérõl. Olyan dolgok ezek, amikrõl érdemes elmélkednie. Viszlát!}
+{270}{}{Nem szabad embereket a kinézetük alapján megítélnünk. A Mester céljai nemesek, ennél többre nincs szükségem. A többiek véleményéhez kérdezze õket.}
+{271}{}{Egy kicsit talán... A Mester elképzelése annyira ambíciózus és briliáns, hogy egyes kételyeim majd biztosan megbocsáttatnak. Ha ezzel esetleg elbátortalanítottam volna magát, elnézését kérem, és ajánlom, hogy keressen egy nálam sokkal eltökéltebb embert. Minden jót!}
+{272}{}{A Mesterre nagy szükség van! Miért ne lenne? Sok dolgot csinálunk, némelyikre nem vagyok különösen büszke, de a csalárdság nem kenyerünk. A Mester Békérõl és Egységrõl alkotott elképzelése életképes. Viszlát!}
+{273}{}{Abban nincs semmi bizonytalanság, hogy "Nem tudom." Viszlát, uram!}
+{274}{}{Abban nincs semmi bizonytalanság, hogy "Nem tudom." Viszlát, hölgyem!}
+{275}{}{Örültem, uram. A Mester áldja meg magát az õ bölcsességében.}
+{276}{}{Örültem, hölgyem. A Mester áldja meg magát az õ bölcsességében.}
+{277}{}{Õ intelligens ember, és a Mester bizalmasa. Ennek elégnek kell lennie. A Mester áldja meg magát az õ bölcsességében. Viszlát!}
+{278}{}{A gyermekek nevelését kapta feladatul, és ezt keményen el is látja. Volna még valami?}
+{279}{}{Jó ember ez a Morpheus?}
+{280}{}{Miért engedik, hogy Ostoros atya gyerekeket bántson?}
+{281}{}{Mi a helyzet a Mesterrel?}
+{282}{}{Van még valami, amit illene tudnom?}
+{283}{}{Köszönöm, nõvér.}
+{284}{}{Nem tudok semmi olyasmit mondani, amit már amúgy sem tudna. Bocsánatot kérek ezért.}
+{285}{}{Sokmindent, ebben biztos vagyok, de a válaszokra saját magának kell rájönnie. Nem pletykák és megérzések alapján. Viszlát!}
+{286}{}{Örültem, uram.}
+{287}{}{Örültem, hölgyem.}
+{288}{}{Minél nagyobb, annál jobb. A világ csupa káosz. Rend nélkül nincs túlélés. Mi elhozzuk ezt a rendet, és meggátoljuk a szörnyetegeket, hogy újra fenyegetést jelentsenek, akárcsak az Apokalipszis idején. Ezekrõl mindenképpen érdemes lenne elmélkednie. Viszlát!}
+{289}{}{Az önzõ emberek az emberiség jóléte ellen tesznek. Az Apokalipszist emberi önzés okozta. Ha azt akarjuk, hogy a világ fennmaradjon, az õrültséget ki kell ûzni az emberek szívébõl. Olyan dolgok ezek, amikrõl mindenképpen érdemes elmélkednie. Viszlát!}
+{290}{}{}
+{291}{}{}
+{292}{}{}
+{293}{}{}
+{294}{}{Ott volt Olivier Esperes. Már nincs köztünk. Aztán ott van Pinochet Atya, õrá sem számíthatunk. Ostoros Atyát vonakodva említem, de õ az egyetlen, aki számításba jöhet. Nos, biztos vagyok abban, hogy feltalálja magát. Sok szerencsét!}
+{295}{}{A halál sosem tartozott a szertartásaiok közé, mégha szükséges is. Ég magával, uram!}
+{296}{}{A halál sosem tartozott a szertartásaink közé, mégha szükséges is. Ég magával, hölgyem!}
+{297}{}{Én is épp ezen törtem a fejem, viszont ezt a fajta kritikus szemléletet nem támogatjuk, annyi szent. Talán beszéljen a gyermekekkel.}
+{298}{}{[Done]}
+{299}{}{Én menni.}
+
+{300}{}{A kebelünkbe fogadtunk néhány beavatottat mostanában, de mivel az Egyház komoly Keresztes hadjáratba fogott, a toborzandókkal sokkal kritikusabban fogunk eljárni. A hitünk kitart, a türelem pedig nagy erény. Sok szerencsét, barátom.}
+{301}{}{A kebelünkbe fogadtunk néhány beavatottat mostanában, de mivel az Egyház komoly Keresztes hadjáratba fogott, a toborzandókkal sokkal kritikusabban fogunk eljárni. A hitünk kitart, a türelem pedig nagy erény. Sok szerencsét, barátom.}
+{302}{}{Nem tudok róla, hogy a Szentséges Lángot újra meg akarnánk idézni. A Felszentelt Tûz csak egy célt szolgált, mégpedig, hogy megtisztíthassuk a világot a tökéletlenségeitõl. Csakis a tetteink teszik a Lángot Szentté. Össze kell terelnünk a világ összes gonosz lelkét, és a Jóság szolgálatába kell állítani õket. Ahogy a fegyverei védik az életét, úgu védik tetteink a világot. Isten önnel, barátom!}
+{303}{}{Nem tudok róla, hogy a Szentséges Lángot újra meg akarnánk idézni. A Felszentelt Tûz csak egy célt szolgált, mégpedig, hogy megtisztíthassuk a világot a tökéletlenségeitõl. Csakis a tetteink teszik a Lángot Szentté. Össze kell terelnünk a világ összes gonosz lelkét, és a Jóság szolgálatába kell állítani õket. Ahogy a fegyverei védik az életét, úgu védik tetteink a világot. Isten önnel, barátom!}
+{304}{}{Sokféle módon szolgáljuk az embereket. Meggyógyítjuk a betegeket, megetetjük az éhezõket, tanítjuk az ifjúságot. Nagyon büszke vagyok rájuk. Ha sikerül összefutnia Morpheus atyával, talán el tudja mondani, hogy vehetne részt a közjót célzó programunkban. Isten önnel, barátom!}
+{305}{}{Sokféle módon szolgáljuk az embereket. Meggyógyítjuk a betegeket, megetetjük az éhezõket, tanítjuk az ifjúságot. Nagyon büszke vagyok rájuk. Ha sikerül összefutnia Morpheus atyával, talán el tudja mondani, hogy vehetne részt a közjót célzó programunkban. Isten önnel, barátom!}
+{306}{}{Ha sikerül összefutnia Morpheus atyával, talán el tudja mondani, hogy vehetne részt a közjót célzó programunkban. Isten önnel, barátom!}
+{307}{}{Ha sikerül összefutnia Morpheus atyával, talán el tudja mondani, hogy vehetne részt a közjót célzó programunkban. Isten önnel, barátom!}

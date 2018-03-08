@@ -1,7 +1,6 @@
 #tento soubor pøeložil Somnambulus - somnambulus@hotmail.com, http://www.geocities.com/Area51/Vault/4193/
 {100}{}{Vidíš Harolda.}
-{101}{HROLD0}{
-Nemáš pár drobných, kamaráde?  Co takhle trochu pomoct ubohému mutantovi v té jeho bídì? [Kašel]}
+{101}{HROLD0}{Nemáš pár drobných, kamaráde?  Co takhle trochu pomoct ubohému mutantovi v té jeho bídì? [Kašel]}
 {102}{}{Jo, tady máš 25 babek. Užij je ve zdraví.}
 {103}{}{Co takhle 5 babek.}
 {104}{}{Sorry, ale žádné peníze nemám.}
@@ -22,8 +21,7 @@ Nemáš pár drobných, kamaráde?  Co takhle trochu pomoct ubohému mutantovi v té je
 {119}{}{Co jsi potom dìlal?}
 {120}{}{A kde ležel tvùj Vault?}
 {121}{}{Máš pøedstavu, jak je to dávno?}
-{122}{HROLD6}{
-No víš, [kašel] nejsem si moc jistej.  Myslím, že na západì.  Ne poèkej - na východì?  Oh, já fakt nevím.  [Suchý kašel]}
+{122}{HROLD6}{No víš, [kašel] nejsem si moc jistej.  Myslím, že na západì.  Ne poèkej - na východì?  Oh, já fakt nevím.  [Suchý kašel]}
 {123}{}{Co jsi potom dìlal?}
 {124}{HROLD7}{Byl jsem obchodník.  Dìlali jsme okružní cesty mezi tìmi, kdo pøežili.  Ale ztratili jsme pøitom spoustu skvìlých lidí. [Kašle]}
 {125}{}{Jak?}

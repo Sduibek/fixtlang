@@ -1,0 +1,373 @@
+# For lines 177 and 180 and 181, spaces are intentional.
+# Line 177 is prepended to encounter type. (they begin at 183 below)
+{177}{}{You encounter }
+{178}{}{Yes.}
+{179}{}{No.}
+{180}{}{You earn }
+{181}{}{ experience for successful use of your Outdoorsman skill.}
+# Line 182 is appended after 177 and the encounter type. Period and space is intentional.
+{182}{}{. Do you wish to engage?}
+# These are apended to line 177.
+{183}{}{Floaters}
+{184}{}{Manti}
+{185}{}{Rats}
+{186}{}{Peasants attacked by Raiders}
+#
+#
+# TRANSLATORS: Ignore these blank entries, but do not delete them.
+#             They are placeholders and are intentional.
+#
+{187}{}{}
+{188}{}{}
+{189}{}{}
+{190}{}{}
+{191}{}{}
+{192}{}{}
+{193}{}{}
+{194}{}{}
+{195}{}{}
+#
+{201}{}{}
+{202}{}{}
+{203}{}{}
+{204}{}{}
+{205}{}{}
+{206}{}{}
+{207}{}{}
+{208}{}{}
+{209}{}{}
+{210}{}{}
+{211}{}{}
+{212}{}{}
+{213}{}{}
+{214}{}{}
+{215}{}{}
+{216}{}{}
+{217}{}{}
+{218}{}{}
+{219}{}{}
+{220}{}{}
+{221}{}{}
+{222}{}{}
+#
+{228}{}{}
+{229}{}{}
+{230}{}{}
+{231}{}{}
+{232}{}{}
+{233}{}{}
+{234}{}{}
+{235}{}{}
+{236}{}{}
+{237}{}{}
+{238}{}{}
+{239}{}{}
+{240}{}{}
+{241}{}{}
+{242}{}{}
+{243}{}{}
+{244}{}{}
+{245}{}{}
+{246}{}{}
+{247}{}{}
+{248}{}{}
+{249}{}{}
+#
+{258}{}{}
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
+{263}{}{}
+{264}{}{}
+{265}{}{}
+{266}{}{}
+{267}{}{}
+{268}{}{}
+{269}{}{}
+{270}{}{}
+{271}{}{}
+{272}{}{}
+{273}{}{}
+{274}{}{}
+{275}{}{}
+{276}{}{}
+{277}{}{}
+{278}{}{}
+#
+{289}{}{}
+{290}{}{}
+{291}{}{}
+{292}{}{}
+{293}{}{}
+{294}{}{}
+{295}{}{}
+{296}{}{}
+{297}{}{}
+{298}{}{}
+#
+{304}{}{}
+#
+#
+# 100 to 103 are NOT USED, looks like it was old code for finding the Radscorpion Cave from the worldmap.
+#
+{100}{}{从这些迹象表明，他们没走多远。在附近一定有个藏身的窝点。}
+{101}{}{看起来他们是从附近的什么地方来到这里的。}
+{102}{}{似乎他们从很远的北边来。}
+{103}{}{看样子，他们只是在这废土上游荡。}
+#
+#
+# DEHYDRATION ENCOUNTERS
+#
+#
+{125}{}{You avoid dehydration due to your supply of water, emptying }
+{119}{}{ flask.}
+{124}{}{ flasks.}
+{112}{}{You avoid dehydration due to your supply of fluids, emptying }
+# TRANSLATION NOTE: a period is inserted by the script at the end of the list of drinks consumed, and a comma between each if multiple types are consumed.
+{116}{}{ water flask}
+{117}{}{ water flasks}
+{141}{}{ Nuka-cola}
+{140}{}{ Nuka-colas}
+{142}{}{ beer}
+{149}{}{ beers}
+{150}{}{ bottle of booze}
+{151}{}{ bottles of booze}
+{152}{}{Resorting to alcohol reduces your }
+{153}{}{Strength}
+{154}{}{Endurance}
+{156}{}{ by 1 point.}
+{157}{}{ by 2 points.}
+{155}{}{Strength and Endurance}
+{158}{}{ by 1 point each.}
+#
+# DRANK BUT STILL THIRSTY
+#
+{114}{}{Your water supply runs out, }
+{161}{}{Your supply of fluids runs out, }
+{162}{}{and your search of }
+{115}{}{ hours fails to locate any water. Dehydration sets in, causing you }
+{148}{}{ point of health damage.}
+{113}{}{点生命值。}
+{163}{}{but you manage to avoid dehydration by searching for water. The search takes }
+{164}{}{1 hour.}
+{111}{}{个小时。}
+#
+# CRITICAL SUCCESS ON OUTDOORSMAN CHECK
+#
+{147}{}{You manage to avoid dehydration by searching for water. The search takes 1 hour.}
+{138}{}{ You refill your }
+{118}{}{flask}
+{159}{}{flasks}
+{160}{}{ with the drinkable water.}
+{165}{}{You earn }
+{166}{}{ experience for successful use of your Outdoorsman skill.}
+#
+#
+{109}{}{通过搜寻你找到一些水，避免了严重脱水的危险。搜寻花费了1个小时。}
+{110}{}{通过搜寻你找到一些水，避免了严重脱水的危险。搜寻花费了}
+{120}{}{你在沙漠高地找寻水，用了}
+{121}{}{个小时，但是没有找到足够的水来补充。你失去了一点生命值。}
+{122}{}{你在沙漠高地找寻水，用了}
+{123}{}{个小时，但是没有找到足够的水来补充。你失去了}
+{167}{}{}
+{168}{}{}
+#
+#
+# NORTH_TABLE ENCOUNTERS
+#
+#
+# North1
+#
+# if pass Perception check or have Awareness:
+#   197 Uh-oh... a raiding party!
+# else is:
+{105}{}{埋伏！！}
+#
+# North2
+#
+{104}{}{你碰上一场大蝎子和变种地鼠之间的激战。}
+#
+# North3
+#
+{106}{}{你碰上一大群大蝎子！}
+#
+# North4
+#
+{107}{}{你碰上一群大蝎子。}
+#
+# North5
+#
+{108}{}{你碰上一群变种地鼠。}
+#
+# North6
+#
+# -Dehydration-
+#
+# SOUTH_TABLE ENCOUNTERS
+#
+# South1 -- change this encounter to something else??
+#
+{131}{}{跑！！}
+#
+# South2
+#
+{132}{}{You stumble onto a very large pack of radscorpions!}
+#
+# South3
+#
+# -Dehydration-
+#
+# South4 -- change this encounter to something else
+#
+# 143 "Raiders!!!"
+#
+# South5
+#
+{144}{}{你遭遇到一大群变种地鼠。}
+#
+# South6
+#
+{145}{}{你遭遇一群野生大蝎子。}
+#
+#
+# SHADY ENCOUNTERS
+#
+#
+# Shady1
+#
+{146}{}{你遇到一些被攻击的平民。}
+#
+# Shady2
+#
+# -Dehydration-
+#
+# Shady3
+#
+{169}{}{你碰上一个大蝎子家族。}
+#
+# Shady4
+#
+{170}{}{你碰上一个旅行商人和他的护卫。}
+#
+# unless he's dead, then you get
+#
+{305}{}{你遇到杜克商人的护卫余部。}
+#
+# once that has been seen, call Shady3
+#
+# Shady5
+#
+{175}{}{You encounter a traveler.}
+# or if killed,
+{171}{}{你碰到一个死掉的旅行者。}
+#
+# else call Shady2
+#
+# Shady
+#
+{126}{}{你碰上大蝎子在捕杀地鼠。}
+{127}{}{一些象人的绿色生物，皮包骨头，充满敌意。}
+{128}{}{Junk and rocks are scattered about. You wonder if anything of value could remain...}
+#
+# UNUSED ENTRY:
+{129}{}{一只大蝎子伏击了你。}
+#
+{130}{}{你注意到这有具部分已被吃掉的残骸。}
+{134}{}{狡猾的大蝎子从沙漠中冲出攻击。}
+{135}{}{你遇到一些巡逻中的守卫。}
+{136}{}{你碰上一个商人，和几个护卫。}
+{174}{}{You come across the remnants of a merchant and his guards.}
+{137}{}{你看到一个平民赶着几头双头牛。}
+{139}{}{Radscorpions hunt mole rats among the ruined city walls.}//Sduibek, Fallout Fixt
+{172}{}{你发现地上有一些物品。}
+{176}{}{You have stumbled across a small patch of ruined and deserted buildings.}
+#
+#
+# RAIDER_TABLE ENCOUNTERS
+#
+#
+# Raider1
+#
+{133}{}{遭遇歹徒伏击。}
+#
+# Raider2 - half chance of either msg displayed, but encounter the same
+#
+{143}{}{歹徒！！}
+{197}{}{哦……歹徒聚会！}
+#
+# Raider3
+#
+{173}{}{你发现一个商队的幸存者被歹徒包围着。}
+#
+# Raider4
+#
+{310}{}{遭到一小群歹徒攻击。}
+#
+# Raider5 - 198 always, plus 196 half the time
+#
+{198}{}{你看到远处有个落单的歹徒。}
+{196}{}{大蝎子逼近！}
+#
+# Raider6 - displays and runs both (because bodies are empty)
+#
+{199}{}{你来到一处曾发生战斗的地方，死尸横陈。}
+#plus 196
+#
+#
+{223}{}{你发现一群游荡的野狼。}
+{200}{}{大蝎子逼近！}
+{224}{}{你看到几个人在四处侦察。}
+{225}{}{你看见一个商人和少数的护卫。}
+{226}{}{你看见一场小规模冲突正在进行——人类对变种人。}
+{227}{}{一大群辐射蝎从那边过来了！}
+#
+{250}{}{几个穿动力装甲的人在向你靠近。}
+{251}{}{你看到商人和一群护卫。}
+{252}{}{你看到一些沙漠歹徒正在与一群穿动力装甲的人激战。}
+{253}{}{你看到几个变种人在艰险的环境里寻找出路。}
+{254}{}{你看到前面有些奇怪的生物……}
+{256}{}{一个变种人巡逻队在靠近！}
+
+{257}{}{You spot the ruins of a tiny village.}
+
+# UNUSED ENTRY:
+{255}{}{你找到一些物品。}
+
+{279}{}{你看到前面有些垃圾散落在沙漠里。}
+{280}{}{你与一个超级变种人战队遭遇了。}
+{281}{}{你遇到一群奇怪的生物。}
+{282}{}{你遇到一群饥饿的大蝎子。}
+{283}{}{You feel nauseous, and the air seems to waver with heat. A mutated creature suddenly approaches!}
+{284}{}{You have stumbled across a few bizarre mutant creatures.}
+{285}{}{你遇到一群好象老恐怖片里的东西。}
+{286}{}{死亡爪！！}
+{287}{}{You stumble into a migrating pack of radscorpions. They seem to be fleeing from...}
+{288}{}{你遇到一个沙漠中的变种生物。}
+#
+{299}{}{你看到远处有些大蝎子。}
+{300}{}{你遇到一个穿着破烂的平民。}
+{301}{}{你遇到一只变种地鼠。}
+
+# was: "The Deathclaw!!"
+{302}{}{A young Deathclaw seems to think you are lunch.}
+
+{303}{}{你遇到一群迁徙中的大蝎子。}
+#
+{306}{}{一个超级变种人巡逻队从附近经过，还有些奇怪的生物！}
+{307}{}{你与一支超级变种人小队遭遇了。}
+{308}{}{似乎你遇到一场帮派混战。}
+{309}{}{前方发现一群凶狠的帮派成员。}
+{311}{}{遭到一小帮派成员徒攻击。}
+{313}{}{You are suddenly attacked by a swarm of mutated manti!}
+
+# UNUSED ENTRY:
+{312}{}{你遭到老鼠的突然袭击。}
+
+# SPECIAL ENCOUNTERS TEXT:
+{314}{}{晕！他们真的在那！}
+{315}{}{你看到远处有一辆翻掉的卡车。}
+{316}{}{你发现废土中有一些报废的车。}
+{317}{}{你发现东北方有个警亭。}
+{318}{}{你碰到一群野生双头牛。这有点不太对劲儿……}
+#

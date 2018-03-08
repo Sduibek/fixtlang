@@ -1,0 +1,47 @@
+{100}{}{Radio. Amazingly, it appears to be functional.}
+{101}{}{[C'e' una scarica statica, poi si sente una voce profonda.] Comando a pattuglia, comando a pattuglia. Qual e' il vostro stato? Passo.}
+{102}{}{Eek!}
+
+##{103}{}{Uh, nothing is wrong here. We're fine, uh, how are you?}
+
+{103}{}{Uhhh, everything's under control, situation normal. Nothing is wrong here. We had a slight... weapons malfunction. But everything's perfectly alright now.  We're all fine, here, now. How are you?}
+{104}{}{Comando, siamo sotto attacco da parte di un grosso gruppo di umani. Richiedo assistenza immediata. Passo.}
+{105}{}{Aiuto! Aggressori sconosciuti! Danni gravi! Coordinate: 10 . . . Argh!}
+{106}{}{Ricevuto, pattuglia. Stiamo inviando una squadra di supporto. Passo.}
+{107}{}{Say again? Who is this? What is your purpose?}
+{108}{}{Il mio incarico e' quello di farvi tutti secchi.}
+{109}{}{Sono, uh, oh, lasciamo perdere. Tanto vi uccidero' tutti lo stesso.}
+{110}{}{Sono, hmm, Fred. Sono di pattuglia. Credo di essere, uh, un po' confuso dopo la caduta.}
+{111}{}{Ricevuto, pattuglia. Quali sono le vostre coordinate?}
+{112}{}{224 su 104.}
+{113}{}{Quattro miglia, sud sudovest.}
+{114}{}{Settore Gamma, ad Omicron-Delta-Beta.}
+{115}{}{Ricevuto, pattuglia. Comando, chiudo.}
+{116}{}{Ricevuto, pattuglia. Stiamo inviando rinforzi.}
+{117}{}{Ah, questo spiega tutto. Stiamo inviando aiuti.}
+{118}{}{Ricevuto, pattuglia. I rinforzi stanno arrivando! Tenete duro!}
+{119}{}{La ricetrasmittente non riceve nulla.}
+{120}{}{Senti delle voci che dialogano alla radio. Ascolti per un po', ma non ne ricavi nulla d'importante.}
+{121}{}{La ricetrasmittente ha una luce rossa lampeggiante. Dall'auricolare si sente un suono molto acuto.}
+{122}{}{Sembrano segnali audio criptati.}
+{123}{}{Invii il codice che disattiva i campi di forza.}
+
+##{124}{}{There is only quiet static on the radio [channel].}
+
+{124}{}{You hear some chatter on the radio. You listen for a while, but discover nothing of importance.}
+{125}{}{La ricetrasmittente non funziona.}
+{126}{}{Questa ricetrasmittente e' in perfette condizioni. Il problema dev'essere esterno.}
+{127}{}{La ricetrasmittente emette solo il suono acuto dei segnali criptati.}
+{128}{}{[Squeal-snick-pop] Qui comando. Dite pure, pattuglia.}
+{129}{}{Ack!}
+{130}{}{Uh, scusate, Comando. Ho premuto il pulsante per sbaglio.}
+{131}{}{Intrusi nella base! Suonate l'allarme!}
+{132}{}{Ricevuto, pattuglia. Comando, chiudo.}
+{133}{}{[Inserisci la frequenza per il canale di sicurezza] [Click!] Inserire password d'accesso. [Click!]}
+{134}{}{Hng!}
+{135}{}{Uh, 69.}
+{136}{}{5566534571}
+{137}{}{Fine accesso.}
+{138}{}{Spegnimento canale di sicurezza.}
+{139}{}{Guadagni 1500 punti esperienza per aver imbrogliato le guardie mutanti.}
+{140}{}{Guadagni 2000 punti esperienza per esserti introdotto nelle profondita' della base militare senza essere scoperto (per adesso...)}

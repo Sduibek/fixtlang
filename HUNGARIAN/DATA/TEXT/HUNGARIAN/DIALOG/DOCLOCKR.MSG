@@ -1,0 +1,12 @@
+{100}{}{A szekrény zárva van.}
+{101}{}{Észreveszel egy csapdát a szekrényen, és hatástalanítod.}
+{102}{}{Észreveszel egy csapdát a szekrényen, de nem sikerül hatástalanítanod.}
+{103}{}{Észreveszel egy csapdát a szekrényen, de véletlenül sikerül mûködésbe hoznod!}
+{104}{}{Hatástalanítod a csapdát.}
+{105}{}{Nem sikerül hatástalanítani a csapdát.}
+{106}{}{Véletlenül mûködésbe hozod a csapdát!}
+{107}{}{Kinyitod a szekrény zárját.}
+{108}{}{Nem sikerül a szekrény zárját kinyitnod.}
+{109}{}{A szekrény zárja már nyitva van.}
+{110}{}{Miközben a zárral bíbelõdsz, elcseszed a lamellákat. Mostantól nincs esély, hogy kinyisd a zárat.}
+{111}{}{Hirtelen észreveszed, hogy valaki egy primitív robbanószerkezetet helyezett a szekrényre.}

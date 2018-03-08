@@ -9,22 +9,17 @@
 {108}{}{Co tady dìláš?}
 {109}{}{Tìšilo mì.}
 {110}{}{Nikdo zvláštní. Tak zatim.}
-{111}{}{Jsem Sbìraè. Prolejzám celım 
- Pohøebištìm a pátrám po potøebnıch vìcech a informacích. Nebezpeèná práce.}
+{111}{}{Jsem Sbìraè. Prolejzám celım  Pohøebištìm a pátrám po potøebnıch vìcech a informacích. Nebezpeèná práce.}
 {112}{}{Co je na tom nebezpeèného?}
 {113}{}{Jak se dokáeš vyhnout Páraèùm?}
 {114}{}{Prozkoumal jsi nìkteré z dalších prostor?}
 {115}{}{Díky, sbohem.}
 {116}{}{Uvidíme se, teda jestli mì zahlídneš. Hehe.}
-{117}{}{Podívej, kousek odsud se vyskytujou Páraèi a v zádech máš Regulátory z Adyta.
- Ani jedni zrovna neoplıvaj zrovna soucitem.}
+{117}{}{Podívej, kousek odsud se vyskytujou Páraèi a v zádech máš Regulátory z Adyta. Ani jedni zrovna neoplıvaj zrovna soucitem.}
 {118}{}{Jak se dokáeš vyhnout Páraèùm?}
 {119}{}{Prozkoumal jsi nìkteré z dalších prostor?}
 {120}{}{Díky, sbohem.}
-{121}{}{Pracujeme jen za tmy, a jsme v tom dost dobrı.
- Ale musím pøiznat, e ne vdy se všichni vrátí. Poslal jsem jednoho chlápka,
- asi pøed tejdnem, abys se povohlíd po nìjakejch souèástkách pro Milese. Zmizel.
- Jeho poslední zpráva byla, e má ty souèástky a e se vrací zpátky.}
+{121}{}{Pracujeme jen za tmy, a jsme v tom dost dobrı. Ale musím pøiznat, e ne vdy se všichni vrátí. Poslal jsem jednoho chlápka, asi pøed tejdnem, abys se povohlíd po nìjakejch souèástkách pro Milese. Zmizel. Jeho poslední zpráva byla, e má ty souèástky a e se vrací zpátky.}
 {122}{}{Nìco jsem propátral. Kdo tì zajímá?}
 {123}{}{Blades.}
 {124}{}{Páraèi.}
@@ -33,20 +28,12 @@
 {127}{}{Dìti Katedrály.}
 {128}{}{Nikdo, díky.}
 {129}{}{Blades jsou pomìrnì ubohá skupinka. Nìkteøí z nich zakotvili tady v Adytu, kdy souhlasili s podmínkami Regulátorù.}
-{130}{}{Jo, pokud jsi je pøedtím nevidìl. Jsou podlí jako samo peklo,
- a nic je netìší víc, ne rvát ubohım sbìraèùm srdce z hrudi.}
-{131}{}{Slyšel jsem, e mají hnízdo nìkde na vıchod od Blades,
- ale na vlastní oèi jsem ho nevidìl.}
-{132}{}{Gun Runneøi se pøed nedávnem pøesunuli do velké továrny na severovıchodì.
- Moc ti o nich neøeknu, protoe za prvé mají sídlo obehnané pøíkopem s radioaktivním kalem
- a za druhé cestou k nim narazíš na Páraèe.}
-{133}{}{Následníci káou o míru a toleranci. Hezká myšlenka, ale nepraktická.
- ijí v ohromné knihovnì na severozápadì od nás.}
-{134}{}{Dìti Katedrály sídlí ve velkém kostele smìrem na jih od nás
- Dìje se tam nìco podivného. Vidìl jsem tam èasto míøit nelidské pøíšery, které se po èase zase
- nìkam vracely.}
-{135}{}{Pokud pøíbìhy nelou, je Katedrála vybudována nad starım Vaultem, ve kterém ili pøedkové
- obyvatel Adyta.}
+{130}{}{Jo, pokud jsi je pøedtím nevidìl. Jsou podlí jako samo peklo, a nic je netìší víc, ne rvát ubohım sbìraèùm srdce z hrudi.}
+{131}{}{Slyšel jsem, e mají hnízdo nìkde na vıchod od Blades, ale na vlastní oèi jsem ho nevidìl.}
+{132}{}{Gun Runneøi se pøed nedávnem pøesunuli do velké továrny na severovıchodì. Moc ti o nich neøeknu, protoe za prvé mají sídlo obehnané pøíkopem s radioaktivním kalem a za druhé cestou k nim narazíš na Páraèe.}
+{133}{}{Následníci káou o míru a toleranci. Hezká myšlenka, ale nepraktická. ijí v ohromné knihovnì na severozápadì od nás.}
+{134}{}{Dìti Katedrály sídlí ve velkém kostele smìrem na jih od nás Dìje se tam nìco podivného. Vidìl jsem tam èasto míøit nelidské pøíšery, které se po èase zase nìkam vracely.}
+{135}{}{Pokud pøíbìhy nelou, je Katedrála vybudována nad starım Vaultem, ve kterém ili pøedkové obyvatel Adyta.}
 {136}{}{Ahoj. Tak se zase setkáváme. Jak to de?}
 {137}{}{Na èem teïka makáš?}
 {138}{}{Nic, díky.}
@@ -55,19 +42,15 @@
 # Added by Sduibek for Fallout FIXT:
 
 {140}{}{Miles øíkal, e si s tebou mám promluvit o souèástkách k hydrofonické farmì. Víš o nich nìco?}
-{141}{}{Aha, ano. Popravdì o nich nìco vím. Minulı tıden jsem na sever poslal jednoho chlápka ty souèástky pro Milese najít, ale u jsme o nìm neslyšeli. 
-Naposledy jsme od nìj z vysílaèky slyšeli, e ty souèástky našel a e se vrací. Osobnì jsem ještì nemìl èas se tomu vìnovat 
-a nechci ztratit dalšího chlapa. A u se tam stalo cokoliv.}
+{141}{}{Aha, ano. Popravdì o nich nìco vím. Minulı tıden jsem na sever poslal jednoho chlápka ty souèástky pro Milese najít, ale u jsme o nìm neslyšeli. Naposledy jsme od nìj z vysílaèky slyšeli, e ty souèástky našel a e se vrací. Osobnì jsem ještì nemìl èas se tomu vìnovat a nechci ztratit dalšího chlapa. A u se tam stalo cokoliv.}
 {142}{}{Panejo, to je mi líto. Díky za info. Ahoj.}
 {143}{}{Je nìjaké nálezné, pokud nìco o tom tvém èlovìku zjistím?}
 {144}{}{Super, díky. Prozkoumám tu oblast. Dám ti vìdìt, jestli najdu tvého kamaráda.}
 {145}{}{Jasnì. Mìj se.}
 {146}{}{Vánì? To by bylo skvìlé. Jak u jsem øíkal, v poslední dobì to tu je poøádná honièka a nemùem si dovolit ztratit další lidi.}
-{147}{}{[usmìje se] Ne, ani ne. Kdybych mìl nìjaké zátky, u dávno bych si na to nìkoho najal.
- [na chvíli se zamyslí] Ale líbí se mi tvùj pøístup. Takhle: pokud ho najdeš, nìjak tì urèitì odmìním.}
+{147}{}{[usmìje se] Ne, ani ne. Kdybych mìl nìjaké zátky, u dávno bych si na to nìkoho najal. [na chvíli se zamyslí] Ale líbí se mi tvùj pøístup. Takhle: pokud ho najdeš, nìjak tì urèitì odmìním.}
 {148}{}{Dobrá zpráva, našel jsem tvého èlovìka. Špatná zpráva, je mrtvı.}
 {149}{}{Je mi líto, ale zdá se, e tvùj kamarád byl zabit Páraèi ve skladišti.}
 {150}{}{Sakra! [povzdechne] Toho jsem se bál. Díky.}
-{151}{}{Och, pravda. Tady je tvá odmìna. [podává ti nìco, co vypadá jako malá ruèní motorá pila] Bıval tu gang co je pouíval.
- Zabij s ní pár tìch zatracenejch Páraèù jak je libo. Navidìnou.}
+{151}{}{Och, pravda. Tady je tvá odmìna. [podává ti nìco, co vypadá jako malá ruèní motorá pila] Bıval tu gang co je pouíval. Zabij s ní pár tìch zatracenejch Páraèù jak je libo. Navidìnou.}
 {152}{}{Tady máš za ty potíe, aspoò to pro tebe mùu udìlat. [Podává ti 200 zátek]}

@@ -1,0 +1,17 @@
+{100}{}{You do not see a control panel on this emitter.}
+{101}{}{Dziêki uszkodzeniu emitera, tymczasowo wy³¹czasz pole si³owe.}
+{102}{}{Doszczêtnie niszczysz emiter, dziêki czemu pole si³owe znika.}
+{103}{}{Na pewien czas wy³¹czasz emiter pola si³owego.}
+{104}{}{Nie udaje ci siê niczego zrobiæ z emiterem pola si³owego.}
+{105}{}{Uruchamiasz emiter pola si³owego.}
+{150}{}{Your attempt to re-wire the field emitter fails.}
+{151}{}{You turn off the field emitter.}
+{200}{}{You see a horribly-damaged field emitter.}
+{201}{}{The emitter is too damaged to use.}
+{202}{}{The emitter is too damaged to repair.}
+{203}{}{You notice that the field is damaged enough to walk through.}
+#
+# Fallout Fixt
+#
+{204}{}{A well-placed explosive blast might knock out the emitter completely.}
+{205}{}{You don't see any way to attach the explosives to the emitter. You'll need to place them nearby.}

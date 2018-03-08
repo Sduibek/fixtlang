@@ -21,7 +21,7 @@
 # Special holiday dates
 #
 {100}{}{Happy New Year!}            # New years
-{101}{}{Happy Valentine's Day!}     # 
+{101}{}{Happy Valentine's Day!}     #
 {102}{}{Alt+F4 and then Y enables God Mode}    # April fools!
 {103}{}{Happy Ship Day!}            # Shipping day!
 {104}{}{Happy Independence Day!}    # Independence day
@@ -108,7 +108,7 @@
 #
 {400}{}{FEV Experiments Disk}       # DONE!
 {401}{}{Vault Locations v34.129}    # Moved from 416. Security Disk was here, but is now a dialog sequence.  -Sduibek
-{402}{}{Ancient Brotherhood Disk}   # 
+{402}{}{Ancient Brotherhood Disk}   #
 {403}{}{Alpha Experiments Log}
 {404}{}{Delta Experiments Log}
 {405}{}{Vree's Autopsy Reports}
@@ -190,10 +190,10 @@
 #
 {720}{}{Shady Sands}
 #
-{721}{}{Diagnose and cure Jarvis of his ailment.}       # GVAR 
-{722}{}{Help Razlo find a cure for radscorpion venom.}  # GVAR 
-{723}{}{Rescue Tandi from the raiders.}                 # GVAR 
-{724}{}{Stop the threat of the local radscorpions.}     # GVAR 
+{721}{}{Diagnose and cure Jarvis of his ailment.}       # GVAR
+{722}{}{Help Razlo find a cure for radscorpion venom.}  # GVAR
+{723}{}{Rescue Tandi from the raiders.}                 # GVAR
+{724}{}{Stop the threat of the local radscorpions.}     # GVAR
 {725}{}{}
 {726}{}{}
 {727}{}{}
@@ -202,12 +202,12 @@
 #
 {730}{}{Junktown}
 #
-{731}{}{Help Saul.}                                     # GVAR 
-{732}{}{Kill Killian.}                                  # GVAR 
-{733}{}{Rescue Sinthia.}                                # GVAR 
-{734}{}{Save Trish.}                                    # GVAR 
-{735}{}{Stop Gizmo.}                                    # GVAR 
-{736}{}{Bust the Skulz gang.}                           # GVAR 
+{731}{}{Help Saul.}                                     # GVAR
+{732}{}{Kill Killian.}                                  # GVAR
+{733}{}{Rescue Sinthia.}                                # GVAR
+{734}{}{Save Trish.}                                    # GVAR
+{735}{}{Stop Gizmo.}                                    # GVAR
+{736}{}{Bust the Skulz gang.}                           # GVAR
 {737}{}{}
 {738}{}{}
 {739}{}{}
@@ -226,7 +226,7 @@
 {750}{}{Necropolis}
 #
 {751}{}{Deal with the Super Mutants at the Watershed.}  # GVAR
-{752}{}{Fix the water pump.}                            # GVAR 
+{752}{}{Fix the water pump.}                            # GVAR
 {753}{}{}
 {754}{}{}
 {755}{}{}
@@ -237,19 +237,19 @@
 #
 {760}{}{The Hub}
 #
-{761}{}{Find and destroy the Deathclaw.}                # GVAR 
-{762}{}{Dispose of Jain.}                               # GVAR 
-{763}{}{Dispose of the merchant.}                       # GVAR 
-{764}{}{Find the missing caravans.}                     # GVAR 
-{765}{}{Steal necklace from the merchant.}              # GVAR 
+{761}{}{Find and destroy the Deathclaw.}                # GVAR
+{762}{}{Dispose of Jain.}                               # GVAR
+{763}{}{Dispose of the merchant.}                       # GVAR
+{764}{}{Find the missing caravans.}                     # GVAR
+{765}{}{Steal necklace from the merchant.}              # GVAR
 {766}{}{}
 {767}{}{}
 {768}{}{}
 {769}{}{}
 #
 {770}{}{Brotherhood of Steel}
-{771}{}{Become an Initiate.}                    # GVAR 
-{772}{}{Rescue Initiate from the Hub.}          # GVAR 
+{771}{}{Become an Initiate.}                    # GVAR
+{772}{}{Rescue Initiate from the Hub.}          # GVAR
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -737,7 +737,7 @@
 {6110}{}{**END-DISK**}
 #
 #
-#   7.  
+#   7.
 #
 #
 # (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)

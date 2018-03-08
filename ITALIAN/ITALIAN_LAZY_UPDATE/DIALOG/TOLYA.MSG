@@ -1,0 +1,32 @@
+{100}{}{You see a desert bandit with a butcher's knife. Based on how the others look at him, he must have some position of importance or authority.}
+{101}{}{Ciao, io sono Tolya. Pare che tu sia appena arrivato qui dal deserto. Chi sei?}
+{102}{}{Sono }
+{103}{}{. Che lavoro fai?}
+{104}{}{Potresti parlarmi del vostro accampamento?}
+{105}{}{Urgh?}
+{106}{}{Essendo un predone, io esploro le Lande in cerca di nuove scorte. Alcuni paesi qui attorno sono stati onorati della nostra presenza.}
+{107}{}{In altre parole, voi rubate dalle persone cui "fate visita".}
+{108}{}{Ehi, ma e' davvero grandioso. Garl sara' molto contento di te.}
+{109}{}{In quali posti siete stati?}
+{110}{}{A proposito, Garl mi dice di non parlare mai con gli stranieri. Potresti farmi almeno la cortesia di dirmi il tuo nome?}
+{111}{}{Hai ragione. Io sono }
+{112}{}{. Potresti dirmi qualcosa sulla vostra banda?}
+{113}{}{Idiota, non devo dirti proprio un bel nulla.}
+{114}{}{Smamma, imbecille.}
+{115}{}{Noi non "rubiamo". Semplicemente, prendiamo le cose che gli altri hanno in eccesso e le distribuiamo tra la nostra gente, che invece muore di fame.}
+{116}{}{Quindi, in pratica, rubate.}
+{117}{}{Questa sembra proprio un'ottima idea.}
+{118}{}{Ho visitato molti posti, nelle Lande. I paesi piu' vicini sono stati Shady Sands e Junktown. E ci sono molto riconoscenti per i viaggi che facciamo da loro.}
+{119}{}{Visitate anche Shady Sands?}
+{120}{}{Dov'e' Junktown?}
+{121}{}{Stai cominciando a stufarmi. Credo proprio che mettero' fine a questo piccolo problema.}
+{122}{}{Noi siamo i Khan, e Garl e' il nostro capo. Siamo la banda piu' temuta delle Lande, e giustamente. Prendiamo cio' che vogliamo e quelli che si mettono in mezzo la pagano cara.}
+{123}{}{Si', di tanto in tanto ci andiamo, a Shady Sands. Aggiunge un po' di pepe alle vite di tutti.}
+{124}{}{E Junktown, invece?}
+{125}{}{Beh, Junktown e' solo un po' a sud di qui. Vai dritto per un paio di miglia, poi giri a destra al cactus rinsecchito. Non puoi mancarla!}
+{126}{}{Hai detto che siete stati anche a Shady Sands.}
+{127}{}{Adesso non scocciarmi. Mi sto preparando per la prossima razzia.}
+#
+# Fallout Fixt:
+#
+{200}{}{You see: Tolya, the Khans' resident chef and assistant scav.}

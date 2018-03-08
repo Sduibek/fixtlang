@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{Вы путешествуете по крутым склонам и труднопроходимой местности.}
+
+{105}{}{Скорпионы!}
+
+{121}{}{Вдали вы видите одинокого путника.}
+
+{106}{}{Кажется, один очень хитрый радскорпион пытается напасть на вас из засады.}
+{107}{}{Внезапно, будто из ниоткуда, на вас нападает радскорпион!}
+
+{108}{}{Вы наткнулись на стаю кротокрыс.}
+
+{100}{}{Вас едва не раздавило обвалившейся каменной глыбой.}
+{102}{}{Под сместившимся камнем вы находите старые останки путешественника.}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{Вы наталкиваетесь на стаю враждебно настроенных радскорпионов.}
+
+{120}{}{Вы находите нескольких крыс, роющихся в мусоре.}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{Впереди земля усеяна мусором и трупами. Похоже, когда-то это было полем битвы.}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{Вы видите одинокого радскорпиона, слоняющегося вокруг.}
+
+{135}{}{Вы видите кости давно умершего путешественника.}
+
+{129}{}{Невдалеке крутятся гигантские кротокрысы.}
+
+{130}{}{Вы находите нескольких крыс, роющихся в мусоре.}
+
+#fall or slip
+
+{134}{}{Вы видите нескольких крыс, бегущих к вам.}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{К счастью, ваших альпинистских способностей хватает на то, чтобы справляться с заданием.}
+{117}{}{Вы падаете с обрыва и приземляетесь на острые камни.}
+{118}{}{Вы падаете со склона на каменистую землю.}
+{109}{}{You are overtaken by a landslide.}
+{123}{}{You lose your footing on the rocky terrain.}
+{132}{}{You slip on the uneven terrain and twist an ankle, painfully. It makes several unhealthy sounds.}
+{133}{}{Вы падаете на ухабистой местности и царапаете себе кожу.}
+#
+# No Damage
+#
+{101}{}{Вы увернулись и не получили ни царапины.}
+{110}{}{Amazingly, you escape with no damage.}
+{124}{}{You skillfully escape with no damage.}
+{131}{}{Exhausted, you nearly fall over some rough terrain. They could really use a GECK out here!}
+#
+# Small Damage
+#
+{104}{}{Несколько осколков камня ранят ваше лицо и руки, но вы спасаетесь с минимальными повреждениями.}
+{113}{}{Несколько осколков камня ранят ваше лицо и руки, но вы спасаетесь с минимальными повреждениями.}
+{127}{}{Несколько осколков камня ранят ваше лицо и руки, но вы спасаетесь с минимальными повреждениями.}
+#
+# Big Damage
+#
+{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
+{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+#
+# Damage Numbers
+#
+{138}{}{You sustain }
+{139}{}{ points of damage and a crippled left leg.}
+{140}{}{ points of damage and a crippled right leg.}
+{141}{}{ points of damage.}
+{144}{}{ points of damage and a crippled left arm.}
+{145}{}{ points of damage and a crippled right arm.}
+{146}{}{ points of damage and two crippled limbs.}
+#
+# Cripples
+#
+{103}{}{Ваша нога критически повреждена упавшими камнями.}
+{112}{}{Ваша нога критически повреждена упавшими камнями.}
+{126}{}{Ваша нога критически повреждена упавшими камнями.}
+#
+# Critical Success
+#
+{116}{}{Вы находите пещеру с источником. Впервые за долгое время вы хорошо высыпаетесь.}
+{125}{}{Вы спасаетесь и остаетесь невредимым. Под сместившимся камнем вы находите залежи золота.}
+{111}{}{The displaced rock reveals a gold deposit!}
+{142}{}{You refill your empty flask in the spring.}
+{143}{}{You refill your empty flasks in the spring.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{Вы натыкаетесь на большую стаю радскорпионов.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

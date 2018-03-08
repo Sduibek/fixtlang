@@ -1,0 +1,109 @@
+{100}{}{Vedi Dan.}
+{101}{}{Aiuto!}
+# Appends line 103 or 104 or 105 depending on character's age and gender.
+{102}{}{Ehila'! Salve amico mio, e benvenuto all'Hub. Lascia che mi presenti: sono Dan, l'uomo dei brahmin! Ho lavorato e lavoro con tutti i mercanti della zona, offrendo i miei umili servigi ad un prezzo basso, molto basso. Allora, cosa posso fare per te, }
+{103}{}{giovanotto?}
+{104}{}{amico?}
+{105}{}{signorina?}
+{106}{}{Voglio unirmi ad una carovana.}
+{107}{}{Er, che tipo di servizi offri, esattamente?}
+{108}{}{Perche' diavolo stai sgridando quel povero ragazzo?!}
+{109}{}{Urg.}
+{110}{}{Beh, mi occupo della manutenzione di quasi tutti i carri delle carovane, nonche' dell'allevamento dei brahmin. Se c'e' bisogno di qualcosa per una carovana, io sono la persona giusta a cui rivolgersi. Diamine, i Tre Grandi fanno affari esclusivamente con me.}
+{111}{}{Chi sono i Tre Grandi?}
+{112}{}{Oh, ma quanto sei speciale...}
+{113}{}{Davvero? Magnifico. Voglio unirmi ad una carovana.}
+{114}{}{Beh, devo proprio andare. Addio.}
+{115}{}{Cosa? Sparisci subito dalla mia vista, dannato drogato! E pensare che stavo per sprecare il mio tempo con un pezzente come te.}
+{118}{}{Diamine, ragazzo. Hai passato tutta la vita in una caverna o che? I Tre Grandi sono i tre principali gruppi di mercanti del mondo. Beh, okay, forse non del mondo, ma di sicuro ne coprono una bella fetta; fino all'orizzonte e oltre.}
+{119}{}{Diamine, tesoro. Hai passato tutta la vita in una caverna o che? I Tre Grandi sono i tre principali gruppi di mercanti del mondo. Beh, okay, forse non del mondo, ma di sicuro ne coprono una bella fetta; fino all'orizzonte e oltre.}
+{120}{}{Diamine lo dici a tua sorella, brutto scopatore di brahmin.}
+{121}{}{Ah, loro. Pensavo tu stessi parlando di qualcos'altro. Allora, come faccio ad unirmi ad una carovana?}
+{122}{}{Okay, grazie. Addio.}
+{123}{}{Scopatore di brahmin? Stai forse cercando di insultarmi? Se fossi in te io sarei piu' gentile con gli altri, straniero. A me non me ne frega, ma questa citta' e' piena di tagliagole d'ogni sorta che non esiterebbero a sgozzarti anche solo per un'occhiata.}
+{124}{}{Diamine, sei proprio un gran figlio di puttana!}
+{125}{}{Che paura. Addio.}
+{126}{}{Speciale, no. Fortunato, si'. E a meno che tu non voglia essere sfortunato, ti consiglio di essere un po' piu' educato nei confronti degli altri. Io mi faccio gli affari miei, ma questa citta' e' piena di tagliagole d'ogni sorta che non esiterebbero a sgozzarti anche solo per un'occhiata.}
+{127}{}{Diamine, sei proprio un gran figlio di puttana!}
+{128}{}{Se lo dici tu.}
+{129}{}{Beh, almeno io non ho la faccia come il culo di un mutante. Tua madre doveva essere un brahmin e tuo padre un ratto; solo cosi' posso spiegarmi il tuo aspetto dannatamente ripugnante. Diavolo, sei piu' brutto di me!}
+{130}{}{Nessuno parla di mia madre a quel modo! Preparati a morire!}
+{131}{}{Non male. Beh, non posso trattenermi: devo andare a pestare qualcuno. Ci si vede.}
+{132}{}{Si', certo... e' una frase davvero ad effetto, forse un po' troppo inflazionata. Stai scherzando, vero? Non faresti mai del male al povero vecchio Dan.}
+{133}{}{Farti del male? Come desideri. Ma vedrai che al tuo cadavere faro' anche di peggio.}
+{134}{}{Ah! Ti ho fatto prendere un colpo, eh?}
+{135}{}{Si', forse un pochino. Non sei tanto male, ragazzo. Ma ricorda di tenere a freno la lingua. Sarebbe un peccato perdere un tipetto come te.}
+{136}{}{Certo, certo... e' come dici tu. Ci si vede, Dan.}
+{137}{}{Allora, come mi unisco ad una carovana?}
+{138}{}{Addio. E sta' lontano dai miei brahmin, brutto stronzo bastardo.}
+{139}{}{Addio. E sta' lontana dai miei brahmin, brutta puttana.}
+{141}{}{Guardie! Polizia! C'e' un pazzo che vuole uccidermi!}
+{142}{}{Beh, io non ho posti vacanti, ma potresti provare con uno dei Tre Grandi. Nella Piazza dei Mercanti c'e' una bacheca di annunci di lavoro. Forse la' troverai qualcosa. E' il mezzo piu' usato dai mercanti per reclutare uomini. }
+{143}{}{Ah... e anche donne, naturalmente.}
+{144}{}{Non hai posti liberi? Anche tu sei un mercante?}
+{145}{}{Da che parte e' la Piazza dei Mercanti?}
+{146}{}{Okay, grazie.}
+{147}{}{Beh no, non esattamente. Lavoro a stretto contatto con la maggior parte delle societa' mercantili minori e so che al momento non hanno bisogno di nuovi lavoratori.}
+{148}{}{Non sapete quello che vi perdete.}
+{149}{}{Okay. Ci si vede, Dan.}
+{150}{}{Dov'e' la Piazza dei Mercanti?}
+{151}{}{Segui questa strada. Si trova nel centro esatto dell'Hub -- non puoi mancarla.}
+{152}{}{Non sono affari tuoi, straniero.}
+{153}{}{Lo saranno presto, "straniero"!}
+{154}{}{Scusate se mi intrometto...}
+{155}{}{Ehila', bentornato! Come va?}
+{156}{}{Voglio unirmi ad una carovana.}
+{157}{}{Uh, che tipo di servizi offri, esattamente?}
+{158}{}{Perche' diavolo stai sgridando quel povero ragazzo?!}
+{159}{}{Bene. Ci vediamo.}
+{160}{}{Yuk.}
+{161}{}{E adesso cosa c'e'?}
+{162}{}{Perche' diavolo stai sgridando quel povero ragazzo?!}
+{163}{}{Nulla.}
+{164}{}{Yuk.}
+{168}{}{Senti, quel "ragazzo" e' stato beccato a rubare. La polizia l'ha messo sotto la mia custodia per farlo rigare dritto.}
+{169}{}{Non e' una buona ragione per trattarlo male.}
+{170}{}{Che male c'e' a rubare?}
+{171}{}{Oh, ma questo cambia tutto! Fagli vedere l'inferno!}
+{172}{}{Ma sei scemo? E' il modo piu' facile per marcire in una cella, o per finire esiliati senza cibo, vestiti e armi.}
+{173}{}{Questo comunque non giustifica il modo in cui lo tratti!}
+{174}{}{Oh, okay.}
+{175}{}{Forse non saro' il miglior modello di rettitudine di questa dannata citta', ma almeno sono l'unico che fa qualcosa e che e' disposto ad aiutare gli altri. Tu cosa hai fatto per migliorare la societa'?}
+{176}{}{Ho ucciso un sacco di cose!}
+{177}{}{Scusa, ti avevo giudicato male.}
+{178}{}{Potevi semplicemente uccidere il moccioso!}
+{179}{}{Beh, forse dovresti essere solo un po' piu' gentile con lui. Io credo che ce la stia mettendo tutta.}
+{180}{}{Dovresti dargli qualche bella frustata!}
+{181}{}{Credi davvero che uccidere qualcuno risolva il problema?}
+{182}{}{Yep!}
+{183}{}{Nessuno di quelli che ho ucciso si e' poi lamentato, finora!}
+{184}{}{Hmmm, forse no.}
+{185}{}{Non saprei.}
+{186}{}{Mi deludi. Ti credevo un tipo con la testa ben piantata sulle spalle. Uccidere risolve solo apparentemente i problemi, ma per cambiare davvero le cose bisogna andare all'origine.}
+{187}{}{Si', vabbe'.}
+{188}{}{Ah, okay. Addio.}
+{189}{}{Sei un idiota.}
+{190}{}{Beh... (si ferma un attimo, fissando il vuoto) forse hai ragione, socio. Lo terro' a mente, ma non ti prometto nulla.}
+{191}{}{Stai scherzando? Questo lo renderebbe soltanto piu' insolente! I miei metodi non saranno perfetti, ma almeno so che lo renderanno piu' forte e piu' responsabile.}
+{192}{}{Hai ragione da vendere. Uccidere l'untore non e' la soluzione migliore. Bisogna trovare la cura, altrimenti il morbo tornera' a colpire.}
+{193}{}{Niente scherzi, Einstein.}
+{194}{}{Basta con queste baggianate! Mi stai facendo venire il mal di testa!}
+{195}{}{Ah, si'... certo, amico. Adesso devo andare.}
+{196}{}{Beh, cerca solo di non risolvere tutti i tuoi problemi con una pistola. Addio.}
+{197}{}{Cavoli, che caldo che fa!}
+{198}{}{Billy! Farai meglio a non fare altri casini, brutto pezzo di merda!}
+{199}{}{Billy! Assicurati che quei brahmin stiano al caldo, stanotte, altrimenti ti spello vivo!}
+{200}{}{Al diavolo, brutto moccioso! Smettila di frignare e datti da fare!}
+{201}{}{Ti avevo detto di smetterla di cazzeggiare!}
+{202}{}{Ti avverto, Billy!}
+{203}{}{Tu non vuoi che diventi cattivo, vero?}
+{204}{}{Mi dispiace, ragazzo, ma non posso parlare. Ho del lavoro da fare.}
+{208}{}{Mi dispiace, ma non posso parlare. Ho del lavoro da fare.}
+{209}{}{Farai meglio a non disturbare Billy; ha un casino di lavoro da fare.}
+{210}{}{Smamma, sono occupato.}
+{211}{}{Perche' la gente si diverte tanto a disturbarmi? Non vedi che sto lavorando?}
+{212}{}{Se vuoi un lavoro, rivolgiti ai Mercanti. Io non assumo nessuno.}
+{213}{}{Perche' non te ne vai a giocare al Falcone Maltese? Sono occupato.}
+{214}{}{Che cosa diavolo ci fai qui? Sparisci!}
+{215}{}{Ti ho detto di sparire! Non sto scherzando! Ti faccio saltare quelle dannate cervella!}
+{216}{}{Voi stronzi non imparate mai, vero?}

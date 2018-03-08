@@ -1,0 +1,18 @@
+{100}{}{You see the low-stakes Craps table. It costs 20 caps to play.}
+{101}{}{你掷出7，你赢啦！}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{你掷出两点，你输了。}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{你掷出}
+{104}{}{！你赢啦！}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{你掷出}
+{106}{}{。你输了。}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{你掷出骰子}
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{，不是你压的点数。你输了。}
+{109}{}{，正好是你压的点数！你赢了！}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{你掷出骰子}
+{111}{}{，闲家再掷骰子！【再掷一次骰子】}

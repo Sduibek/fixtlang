@@ -9,6 +9,6 @@
 {103}{}{你没能打开安全门。}
 #{104}{}{You manage to trigger the passive alert on the door, clamping down the
 # electronic lock. Good job, chromo.}
- {104}{}{在电子锁上施加压力，你触发了门上的被动警报器。做的好，真是妙不可言。}
+{104}{}{在电子锁上施加压力，你触发了门上的被动警报器。做的好，真是妙不可言。}
 #{105}{}{You gain 25 experience points for picking the lock.}
 {105}{}{由于撬开了锁，你获得25点经验值。}

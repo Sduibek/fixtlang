@@ -28,8 +28,7 @@
 #{204}{}{Uh, the war goes well.}
 {204}{}{嗯，战争很顺利。}
 
-#{205}{}{I have a message for the Master from his Lieutenant. I must see the
-Master now.}
+#{205}{}{I have a message for the Master from his Lieutenant. I must see the Master now.}
 {205}{}{副官让我给主教大人捎个信，我现在就要见他。}
 
 #{206}{}{The only news that I have is that you're about to become fertilizer.}

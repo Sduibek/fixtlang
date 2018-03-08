@@ -1,8 +1,8 @@
 {100}{}{Ves: a Michael.}
 {101}{}{Bueno, imagino que ése era el problema. Deberías ver a la Doctora; está en el nivel dos.}
 {102}{}{Por lo que veo, estás bien.}
-{103}{}{La Sala de las Suministros es zona prohibida, hijo mío. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
-{104}{}{La Sala de las Suministros es zona prohibida, hija mía. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
+{103}{}{La sala de las suministros es zona prohibida, señor. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
+{104}{}{La sala de las suministros es zona prohibida, señora. Solo yo y otros dos más tenemos acceso a esa sala. Si necesitas algo, tienes que hablar conmigo.}
 {105}{}{¿No me has escuchado? Te he dicho que las Salas son zona prohibida.}
 {106}{}{Hola, Hermano. ¿Cómo puedo ayudarte?}
 {107}{}{Perdona que pregunte, pero, ¿qué haces para nuestra Hermandad?}
@@ -18,7 +18,7 @@
 {117}{}{Bob me envió... aquí. Quería que yo le consiguiera... esa nueva arma de alta tecnología. Me dijo que la trajese en seguida.}
 {118}{}{Necesito comprobar algo. ¿Cómo lo hago?}
 {119}{}{Oh, eso está muy bien. Adiós.}
-{120}{}{¿Bob?, ¿qué Bob? ¿De qué estás hablando? ¿Qué nueva arma de alta tecnología? Necesito más datos y tienes que conseguir que quien quiera que sea me consiga la autorización que necesito. No puedo dar nada sin autorización.}
+{120}{}{¿Bob?, ¿qué Bob? ¿De qué estás hablando? ¿Qué nueva arma de alta tecnología? Necesito más datos, y tienes que conseguir que "Bob" te de la autorización que necesito. No puedo dar nada sin autorización.}
 {121}{}{Oh, ¿quieres decir la pistola láser? Vale, espera un momento, por favor. No tengo autorización de ningún Bob para darle a nadie un láser. Oh, espera un segundo. Ya lo pillo. Las chicas de ahí abajo creen que son muy graciosas, ¿verdad? Ojalá dejaran de molestarme.}
 {122}{}{Bueno, ya sabes. Me dijeron que no te lo contase, pero eso es porque les gustas mucho. Creo que una de ellas está loca por ti.}
 {123}{}{Lo siento, no sabía que estaban tramando algo. Me dijeron que viniese aquí, que te lo contase y que tú disfrutarías muchísimo con esto.}
@@ -50,14 +50,14 @@
 {149}{}{¿Dónde puedo encontrar a Mathia?}
 {150}{}{¿Dónde está Talus?}
 {151}{}{Vale, gracias.}
-{152}{}{Mathia es la ayudante de Maxson. En teoría, ella es la ayudante del Anciano Mayor, pero trabaja con todos los Ancianos. Normalmente está en las Habitaciones de los Ancianos. Están en la cuarta planta.}
+{152}{}{Mathia es la ayudante de Maxson. En teoría, ella es la ayudante del Anciano Mayor, pero trabaja con todos los Ancianos. Normalmente está en las habitaciones de los Ancianos. Están en la cuarta planta.}
 {153}{}{Vale. ¿Dónde está Talus?}
 {154}{}{Vale. Gracias. Adiós.}
 {155}{}{¿Por qué? Está en la Sala de Entrenamiento, a mi izquierda.}
 {156}{}{Fantástico. Ahora, ¿puedes llevarme hasta donde está Mathia?}
 {157}{}{¿Y Mathia?}
 {158}{}{Gracias. Ya hablaremos luego.}
-{159}{}{Sí, durante el día normalmente está en las Habitaciones de los Ancianos. En la cuarta planta.}
+{159}{}{Sí, durante el día normalmente está en las habitaciones de los Ancianos. En la cuarta planta.}
 {160}{}{Gracias. Has sido de gran ayuda.}
 {161}{}{Bueno, aquí están las drogas para las que tenías autorización. Ten cuidado con ellos. Puedes acabar enganchándote si los utilizas muy a menudo. Desintoxicarse y desengancharse no es muy divertido, pero imagino que es más o menos lo mismo. Úsalo bajo tu propia responsabilidad. ¿Puedo hacer algo más por ti?}
 {162}{}{No, eso es todo. Gracias.}
@@ -120,6 +120,7 @@
 {219}{}{Munición de 5mm, balas huecas con camisa.}
 {220}{}{Munición de 5mm, de perforación blindada.}
 {221}{}{Cartuchos de escopeta.}
+# 222 "give me a holler" means "shout to get my attention", or simply "let me know"
 {222}{}{Bueno, tienes que saber qué tipo de munición necesitas antes de que te la dé. Examina el arma para la que me pediste la munición. Cuando lo sepas, házmelo saber.}
 {223}{}{Ah, un lanzacohetes... no hay nada como llevar una buena arma. Bueno, ¿ésa lo será?}
 {224}{}{No, eso es todo. Gracias.}
@@ -136,13 +137,13 @@
 {235}{}{Bueno, eso puede revelarse muy útil en las manos adecuadas. Aquí tienes. ¿Algo más?}
 {236}{}{No, eso es todo. Gracias.}
 {237}{}{Sí, tengo que recoger algo más.}
-{240}{}{Estoy buscando un Motivador Sistólico.}
+{240}{}{Estoy buscando un motivador sistólico.}
 {241}{}{¿Tienes la autorización necesaria?}
-{242}{}{Sí. Me han enviado aquí para conseguir un Motivador Sistólico.}
+{242}{}{Sí. Me han enviado aquí para conseguir un motivador sistólico.}
 {243}{}{No lo sé, pero es imprescindible que consiga esa pieza.}
 {244}{}{Kyle me envió para conseguir esa pieza.}
 {245}{}{No. ¿Cómo consigo una autorización?}
-{246}{}{Déjame mirar aquí. [Comprueba su terminal] Bueno, no veo una Solicitud para un Motivador Sistólico. Necesitas una autorización adecuada.}
+{246}{}{Déjame mirar aquí. (Comprueba su terminal) Bueno, no veo una Solicitud para un motivador sistólico. Necesitas una autorización adecuada.}
 {247}{}{¡Mira! No quiero ningún problema. Dame esa maldita pieza y ya está.}
 {248}{}{¿Vamos? Por favor. Necesito esa pieza.}
 {249}{}{Vale. Siento molestarte.}

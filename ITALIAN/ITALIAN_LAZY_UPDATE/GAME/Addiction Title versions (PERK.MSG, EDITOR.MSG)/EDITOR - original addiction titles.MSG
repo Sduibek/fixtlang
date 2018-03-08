@@ -1,0 +1,276 @@
+#
+#
+# Text labels and messages used by EDITOR.C
+#
+# (These MUST match "text message" enumeration on the top of EDITOR.C)
+#
+#
+#
+{100}{}{OK}
+{101}{}{OPZIONI}
+{102}{}{CANC.}
+{103}{}{STAMPA}
+{104}{}{ETA'}
+{105}{}{SESSO}
+{106}{}{NOME}
+{107}{}{MASCHIO}
+{108}{}{FEMMINA}
+{109}{}{Perks}
+{110}{}{Karma}
+{111}{}{Killed} # Killed makes more sense than Kills in the descriptions
+{112}{}{PUNTI ABILITA'}
+{113}{}{Livello:}
+{114}{}{Experience:}
+{115}{}{Pros. Liv.:}
+{116}{}{ P. PERSON.}
+{117}{}{ABILITA'}
+{118}{}{Devi usare tutti i punti personaggio} # 1
+{119}{}{prima di inziare il gioco!}         # 2
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{120}{}{Punti personaggio}
+{121}{}{Amount of free points that can be added to your primary statistics.}
+{122}{}{Prossimo Livello}
+{123}{}{This is how many experience points are needed to move up to the next level.}
+{124}{}{Strenne}
+{125}{}{Karma}
+{126}{}{Uccisioni}
+{127}{}{Perks add additional abilities. You can choose one perk every third experience level, or every fourth experience level if you have the Skilled trait.}
+{128}{}{Questi sono gli effetti delle scelte da te effettuate durante il gioco.}
+{129}{}{This tab keeps track of the type and number of creatures that you and your buddies have slaughtered. Fun!}
+{130}{}{Punti Abilita'}
+{131}{}{Usa i Punti Abilita' per aumentare il livello di una abilita'.}
+#
+{132}{}{Livello massimo.}        # 1
+{133}{}{Non puoi aumentarlo.}  # 2
+{134}{}{Livello minimo.}        # 1
+{135}{}{Non puoi diminuirlo.}  # 2
+{136}{}{Punti abilita' insufficienti.}
+{137}{}{Base:}
+{138}{}{"SCELTE"}
+{139}{}{TRATTI OPZIONALI}
+{140}{}{Hai gia' un massimo di} # 1
+{141}{}{tre "Scelte"!}               # 2
+{142}{}{Devi selezionare tutte le "Scelte"}  # 1
+{143}{}{prima di cominciare il gioco!}       # 2
+{144}{}{"Scelte"}
+{145}{}{Tag skills are the skills that you have specialized in.  Each tag skill gains +20%, and increases twice as fast (1 point increases the skill by 2%).  You must pick three tag skills.}
+{146}{}{Tratti Opzionali}
+{147}{}{I tratti opzionali descrivono piu' in dettaglio il tuo personaggio. Tutti i tratti hanno effetti positivi ed effetti negativi. Puoi scegliere al massimo due tratti durante la fase di creazione del personaggio.}
+{148}{}{Hai gia' un massimo di} # 1
+{149}{}{due tratti opzionali!}                     # 2
+{150}{}{Abilita'}
+{151}{}{L'insieme delle conoscenze acquisite. Le abilita' migliorano con l'esperienza o per effetti speciali durante il gioco. Maggiore la percenutale, migliore la tua padronanza di quella abilita'.}
+#
+{152}{}{SCEGLI UNA STRENNA}
+{153}{}{SCEGLI UN NUOVO TRATTO}
+{154}{}{PERDI UN TRATTO}
+{155}{}{SCEGLI UNA NUOVA "SCELTA"}
+{156}{}{TRATTI}
+#
+{157}{}{Tutte le caratteristiche devono essere} # 1
+{158}{}{comprese tra 1 e 10 prima di cominciare!}          # 2
+#
+#
+#
+# Abbreviated basic stat levels
+#
+{200}{}{Pessim}  # Very Bad
+{201}{}{Scarso}    # Bad
+{202}{}{Medcre}   # Poor
+{203}{}{Discrt}   # Fair
+{204}{}{Medio}   # Average
+{205}{}{Buono}   # Good
+{206}{}{M.Buon} # Very Good
+{207}{}{Ottimo}  # Great
+{208}{}{Ecclnt} # Excellent
+{209}{}{Eroico} # Heroic
+#
+#
+# Abbreviated Derived/Non Derived stat names
+#
+{300}{}{Punti Vita}
+{301}{}{Punti Azione}
+{302}{}{Classe Armat.}
+{303}{}{} # 303 is blank on purpose, leave blank
+{304}{}{Danno Mischia}
+{305}{}{Res. al Danno }
+{306}{}{Res. al Veleno}
+{307}{}{Res. a Radiaz.}
+{308}{}{Sequenza}
+{309}{}{Tasso di guar.}
+{310}{}{% Col. Critici}
+{311}{}{Peso Trasport.}
+{312}{}{Avvelenato}
+{313}{}{Irradiated}
+{314}{}{Danno agli Occhi}
+{315}{}{Braccio dx ferito}
+{316}{}{Braccio sx ferito}
+{317}{}{Gamba dx ferita}
+{318}{}{Gamba sx ferita}
+#
+#
+# Damage info texts
+#
+# Poisoned
+{400}{}{You have been poisoned.  Poison will do damage over a period of time, until it is cured or passes from your system.  Endurance increases your resistance to poison.}
+# Radiation
+{401}{}{You are suffering from a significant amount of radiation poisoning.  The more rads you have received, the more deadly the effect.  Going over 1000 will usually mean certain death.}
+# Eye Damage
+{402}{}{This means you have been seriously wounded in one or both of your eyes.  This affects your Perception.}
+# Crippled right arm
+{403}{}{Il braccio destro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+# Crippled left arm
+{404}{}{Il braccio sinistro del tuo personaggio e' stato colpito duro e non funziona bene. Se un braccio e' stato ferito gravemente, non puoi usare armi a due mani. Se entrambe le braccia sono state ferite, non puoi attaccare con le armi.}
+# Crippled right leg
+{405}{}{You have a crippled right leg. This affects your movement speed in combat and means you cannot run.}
+# Crippled left leg
+{406}{}{You have a crippled left leg. This affects your movement speed in combat and means you cannot run.}
+#
+# Month strings
+{500}{}{Gennaio}
+{501}{}{Febbraio}
+{502}{}{Marzo}
+{503}{}{Aprile}
+{504}{}{Maggio}
+{505}{}{Giugno}
+{506}{}{Luglio}
+{507}{}{Agosto}
+{508}{}{Settembre}
+{509}{}{Ottobre}
+{510}{}{Novembre}
+{511}{}{Dicembre}
+#
+#
+# Option menu text
+#
+{600}{}{SALVA}
+{601}{}{CARICA}
+{602}{}{STAMPA SU FILE}
+{603}{}{CANC.}
+{604}{}{OK}
+{605}{}{Sei sicuro di voler cancellare}      # line 1
+{606}{}{questo personaggio?}                 # line 2
+{607}{}{ e' stato salvato con successo.}
+{608}{}{ e' stato caricato con successo.}
+{609}{}{esiste gia'.}
+{610}{}{Vuoi sovrascrivere?}
+{611}{}{Errore di salvataggio: }
+{612}{}{Errore di caricamento: }
+{613}{}{File del personaggio non valido.}
+{614}{}{Dati del personaggio non validi.}
+{615}{}{Errore nella lettura della lista dei file!}
+{616}{}{} # 616 is blank on purpose, leave blank
+{617}{}{} # 617 is blank on purpose, leave blank
+{618}{}{BLANK.GCD}
+#
+#
+# ASCII text file printing text
+#
+{620}{}{FALLOUT}                   # Title line 1
+{621}{}{VAULT-13: REGISTRO DEL PERSONALE} # Title line 2
+{622}{}{Ore} # Title line 3
+# -
+# -
+#{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
+#{000}{}{    Perception: 00       Armor Class: 000          Healing Rate: 00}
+#{000}{}{     Endurance: 00     Action Points: 000       Critical Chance: 000%}
+#{000}{}{      Charisma: 00      Melee Damage: 000          Carry Weight: 000 lbs.}
+#{000}{}{  Intelligence: 00       Damage Res.: 000%}
+#{000}{}{       Agility: 00    Radiation Res.: 000%}
+#{000}{}{          Luck: 00       Poison Res.: 000%}
+#
+{623}{}{ ::: Statistics :::}
+{624}{}{       Strength:}
+{625}{}{        Hit Points:}
+{626}{}{        Sequence:}
+# -
+{627}{}{     Perception:}
+{628}{}{       Armor Class:}
+{629}{}{        Healing Rate:}
+# -
+{630}{}{      Endurance:}
+{631}{}{     Action Points:}
+{632}{}{      Critical Chance:}
+# -
+{633}{}{       Charisma:}
+{634}{}{      Melee Damage:}
+{635}{}{         Carry Weight:}
+# -
+{636}{}{   Intelligence:}
+{637}{}{       Damage Res.:}
+# -
+{638}{}{        Agility:}
+{639}{}{    Radiation Res.:}
+# -
+{640}{}{           Luck:}
+{641}{}{       Poison Res.:}
+# -
+# -
+#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
+{642}{}{  Name:}
+{643}{}{Age:}
+{644}{}{               Gender:}
+{645}{}{Male}
+{646}{}{Female}
+#-
+#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
+{647}{}{ Level:}
+{648}{}{                Exp:}
+{649}{}{Next Level:}
+#-
+{650}{}{ ::: Traits :::           ::: Perks :::           ::: Karma :::}
+#-
+{651}{}{ ::: Skills :::                ::: Kills :::}
+#-
+{652}{}{ ::: Inventory :::}
+#-
+{653}{}{                                      Total Weight:}
+#
+#
+# Karma name strings
+#
+{1000}{}{Reputazione (Generale) }
+{1001}{}{Berserker}
+{1002}{}{Eroe}
+{1003}{}{Child-Killer}
+#
+{1004}{}{Nuka-Cola Addiction}
+{1005}{}{Dipendenza da Buffout}
+{1006}{}{Dipendenza da Mentat}
+{1007}{}{Dipendenza da Psycho}
+{1008}{}{Dipendenza da RadAway}
+{1009}{}{Dipendenza dall'Alcol}
+#
+# Karma description strings
+#
+{1100}{}{This ranged number represents your general reputation. Higher positive values indicate you've gained the attention and respect of normal folk. Negative values indicate you are hated by some for your evil actions.}
+{1101}{}{You have killed a large number of innocent people. This is generally not a good thing to be known for. However, people from the wrong side of the track will like you more.}
+{1102}{}{You have killed many evil-doers of the wastes, revealing you to be a champion of the people. Your war against chaos and villainy is widely known.}
+{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio.}
+{1104}{}{You thoroughly enjoy Nuka-Cola, the carbonated beverage of choice in the post-nuclear world. Dugan would be proud.}
+{1105}{}{You are addicted to Buffout. You must take this attractive green pill on an ongoing basis or suffer the effects of withdrawal.}
+{1106}{}{You are suffering from Mentat addiction. You must chew on these regularly or suffer the consequences of withdrawal.}
+{1107}{}{Sei tossicodipendente. Se non assumi Psycho con regolarita', starai male. Se l'assumi, a star male saranno gli altri.}
+{1108}{}{Your body has become addicted to RadAway. While not directly life-threatening, you must take it regularly or become more susceptible to the dangerous effects of radiation poisoning.}
+{1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati da questo brutto vizio.}
+{1110}{}{TEMPORARY - What is this?}
+#
+#
+#
+# TEXT USED FOR falldemo.exe DEMO VERSION ONLY
+#
+#
+{5000}{}{Sorry, you can only print your}   # 1
+{5001}{}{character in the full version.}   # 2
+{5002}{}{Sorry, you can only save your}    # 1
+{5003}{}{character in the full version.}   # 2
+{5004}{}{Sorry, you can only load a saved} # 1
+{5005}{}{character in the full version.}   # 2
+{5006}{}{CHEAT MODE}
+{5007}{}{Not available in demo.}
+#

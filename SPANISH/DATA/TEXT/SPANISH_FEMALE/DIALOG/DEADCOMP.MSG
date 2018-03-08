@@ -46,7 +46,7 @@ No encuentras nada que se parezca a un disco o cartucho...}
 
 Hay un viejo holodisco en la unidad de cartuchos que parece que funcionaría en tu Pip-Boy!}
 {139}{}{[Instalar disco]}
-{140}{}{rrrggg... En-doh?}
+{140}{}{rrrggg... en-doh?}
 {141}{}{
 
 Empujas el holodisco hasta el fondo de la ranura de cintas después de soplar en él, y comprobar que la cinta esté correctamente alineada dentro de las bobinas. Después de sacar el polvo del disquete de 5", lo insertas en la disquetera y le das a la palanca de bloqueo.}
@@ -54,9 +54,9 @@ Empujas el holodisco hasta el fondo de la ranura de cintas después de soplar en 
 {143}{}{[Por unos momentos las luces parpadean en la disquetera mientras hace un zumbido agudo. Esto para y es seguido por un chirrío constante.]}
 {144}{}{>>> NO APAGUES O RESETEES ESTA TERMINAL >>> :: SUFRIRÁS CORRUPCIÓN DE DATOS ::
 
-VERIFICANDO DATOS: 0% ### ### ### 32% ### ### ### 59% ### ### ### 82% ### ### ### 99% ### ### ### ... Hecho.
-ESCRIBIENDO 512KB A LA MEMORIA BUFFER: 0% ### ### ### 28% ### ### ### 62% ### ### ### 77% ### ### ### 95% ### ### ### ... Hecho.
-VERIFICANDO MEMORIA: 0% ### ### ### 17% ### ### ### 50% ### ### ### 79% ### ### ### 97% ### ### ### ... Hecho.}
+VERIFICANDO DATOS: 0% ### ### ### 32% ### ### ### 59% ### ### ### 82% ### ### ### 99% ### ### ### ... hecho.
+ESCRIBIENDO 512KB A LA MEMORIA BUFFER: 0% ### ### ### 28% ### ### ### 62% ### ### ### 77% ### ### ### 95% ### ### ### ... hecho.
+VERIFICANDO MEMORIA: 0% ### ### ### 17% ### ### ### 50% ### ### ### 79% ### ### ### 97% ### ### ### ... hecho.}
 {145}{}{:::TRANSFERECIA AL DISPOSITIVO EN PROGRESO:::
 .
 ...

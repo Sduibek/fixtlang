@@ -1,0 +1,210 @@
+{100}{}{To porucznik armii Mistrza.}
+{101}{LIEUT1}{A co my tu mamy? Powiedziano mi, ¿e pragniesz wyjawiæ informacje najwy¿szej wagi. W samej rzeczy mam tak¹ nadziejê.}
+{102}{}{Ee, tak.}
+{103}{}{Nie komuœ tak brzydkiemu jak ty.}
+{104}{}{Pod jednym warunkiem.}
+{105}{}{Jej!}
+{106}{LIEUT1A}{Obelga. Jakie to satyryczne. Zdefiniowa³bym ci to s³owo, lecz posz³oby to na marne, nieprawda¿? PrzejdŸmy do twoich dwóch opcji: mo¿esz mi powiedzieæ to, co chcê wiedzieæ, albo ja mogê siê tym zaj¹æ... po mojemu.}
+{107}{}{Wybieram mo¿liwoœæ "¿adne z powy¿szych".}
+{108}{}{OK, ale pod jednym warunkiem.}
+{109}{}{W porz¹dku, powiem ci. Moja Krypta jest po drugiej stronie gór, daleko na wschód st¹d. Znajdziecie j¹ w pobli¿u dziwnej ska³y w kszta³cie pó³kopu³y... To co teraz dostanê?}
+{110}{LIEUT1B}{Nie s¹dzê, ¿ebym coœ oferowa³. Lecz podziêkujê ci za wskazanie mi, gdzie le¿y twoja Krypta. Z pewnoœci¹ Mistrz bêdzie... taki wdziêczny.}
+{111}{LIEUT2}{Jak mi³o dla obu stron. A teraz, jeœli raczysz, po³o¿enie twojej Krypty.}
+{112}{}{Jest ee... Jest ee...}
+{113}{}{Pod jednym warunkiem, koleœ.}
+{114}{}{Da³eœ siê wystrychn¹æ na dudka, nie? Nigdy ci tego nie powiem!}
+{115}{}{OK, OK! Tylko mnie nie zabijaj! Powiem ci wszystko, co wiem!}
+{116}{LIEUT3}{Warunki? Jakie to zachwycaj¹ce. No dalej, rozbaw mnie twoim... warunkiem.}
+{117}{}{Chcê odejœæ wolno.}
+{118}{}{Za³ó¿ sobie na g³owê jak¹œ torbê, ¿eby mo¿na by³o wytrzymaæ w twojej obecnoœci.}
+{119}{}{Chcê móc ci najpierw zadaæ kilka pytañ.}
+{120}{LIEUT4}{Có¿ za znakomite poczucie humoru. Szkoda, ¿e ja go nie posiadam. Zatem... po³o¿enie twojej Krypty, jeœli ³aska.}
+{121}{}{W porz¹dku, ale mogê ci najpierw zadaæ kilka pytañ?}
+{122}{}{Nie mam zamiaru niczego mówiæ, a ty nie jesteœ w stanie mnie do tego nie zmusiæ.}
+{123}{}{Jest ee... Jest ee...}
+{124}{LIEUT5}{Ale¿ naturalnie, mój drogi cz³owieku. Jestem ciekaw choæby tylko siê przekonaæ, o co spytasz.}
+{125}{}{Co tu robicie?}
+{126}{}{Dla kogo pracujesz?}
+{127}{}{Co chcesz ze mn¹ zrobiæ?}
+{128}{}{Mo¿e pozwoli³byœ mi po prostu odejœæ?}
+{129}{LIEUT7}{Mój drogi cz³owieku, to Wielki Prokreator! Tutaj stworzymy innych cz³onków rasy panów i zagwarantujemy Jednoœæ. Zapewniam ciê, ¿e to wszystko jest ca³kiem wspania³e.}
+{130}{}{Opowiedz mi o Jednoœci.}
+{131}{}{Wygl¹da na takie. Czemu potrzebujecie tego wszystkiego do, ee, prokreacji?}
+{132}{}{No wiêc kto jest szefem?}
+{133}{LIEUT8}{Obecnie istnieje drobny... problem w procesie rozrodczym. Prowadzi siê nad nim prace. Na razie musimy u¿ywaæ Kadzi do zmieniania ludzi w supermutantów. Za moment doœwiadczysz tego zaszczytu osobiœcie.}
+{134}{}{O, milusio. Jeszcze kilka pytañ, zanim... zaszczytujê?}
+{135}{lieut8a}{Jak móg³bym odrzuciæ tak wyra¿on¹ proœbê?}
+{136}{LIEUT9}{Naturalnie. Czasu ci u nas dostatek... wierz mi.}
+{137}{LIEUT10}{Jednoœæ to nasz cel. To ca³kiem proste, doprawdy. Z pewnoœci¹ nawet tobie uda³o siê spostrzec postêpuj¹cy upadek cywilizacji?}
+{138}{}{No tak, ale...}
+{139}{LIEUT11}{Supermutant to zaawansowane stadium ewolucji cz³owieka. By ocaliæ œwiat, przemienimy wszystkie wartoœciowe jednostki. Proste, wydajne, wspania³e.}
+{140}{}{Wiêc zmieniacie wszystkich w wielkie, zielone, brzydkie mutanty, ¿eby ocaliæ œwiat?}
+{141}{}{W czym jesteœcie bardziej zaawansowani?}
+{142}{}{Ale nie ma tu mowy o swobodzie wyboru.}
+{143}{LIEUT12}{Twój ludzki umys³ jest raczej zbyt s³abo wyposa¿ony, aby sobie z tym poradziæ, zatem na razie wystarczy proste "tak". Niebawem wszyscy na œwiecie zostan¹ przemienieni, i zapanuje Pokój.}
+{144}{}{Ale co z dobrowolnoœci¹?}
+{145}{}{Mówisz mi, ¿e nie bêdzie wojen?}
+{146}{LIEUT13}{Czy to za spraw¹ twojej decyzji matka wyda³a ciê na ten pokryty popio³em œwiat? My, supermutanci, jesteœmy najlepiej przystosowani do œwiata, który nadejdzie. Czym¿e jest swoboda wyboru w porównaniu z ¿yciem?}
+{147}{}{Dyskusyjny pogl¹d. Ale w czym jesteœcie lepiej przystosowani ni¿ normalni ludzie?}
+{148}{}{Ale to Ÿle zmuszaæ ludzi, by ¿yli na czyj¹œ mod³ê!}
+{149}{LIEUT14}{To intuicyjnie oczywiste nawet dla skrajnie niedba³ego obserwatora. Jesteœmy wysoce inteligentni i odporni na choroby. Silni prze¿ywaj¹! Naszym celem jest ulepszenie rasy ludzkiej.}
+{150}{}{Ca³kiem podnios³y cel. Co was czyni takimi?}
+{151}{LIEUT15}{Aach, cuda technologii. Przed Wojn¹ ludzcy naukowcy wyprodukowali lek nazwany FEV. Zosta³ opracowany, by stworzyæ cz³owieka doskona³ego.}
+{152}{}{Wiêc jesteœ cz³owiekiem doskona³ym?}
+{153}{LIEUT16}{Lepiej. Wiêcej ni¿ cz³owiekiem. Ja te¿ by³em niegdyœ cz³owiekiem. Jak ty, by³em larw¹ taplaj¹c¹ w b³ocie, przed wystawieniem na dzia³anie FEV i przejœciem mojej wspania³ej transformacji.}
+{154}{}{Wiêc planujecie zanurzyæ wszystkich w tym FEV?}
+{155}{LIEUT17}{W samej rzeczy. Teraz rozumiesz.}
+{156}{}{Ee, jasne, ¿e tak. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{157}{}{Ale to z³e!}
+{158}{LIEUT18}{Och, jakie to rozczarowuj¹ce. Tak liczy³em, ¿e dostrze¿esz œwiat³o zanim... Có¿, kiedy bêdziesz jednym z nas, z pewnoœci¹ zrozumiesz. Wtedy przyjmiesz Jednoœæ.}
+{159}{}{Nigdy! To z³o. Z³o, mówiê ci!}
+{160}{}{Mo¿e. Czy najpierw mogê ci zadaæ jeszcze kilka pytañ?}
+{161}{LIEUT19}{¯adnych wojen i ¿adnych chorób. Wszystkich supermutantów wi¹¿e Jednoœæ. Jesteœmy nadziej¹ dla œwiata.}
+{162}{}{Dla mnie brzmi to jak mrzonka.}
+{163}{}{W jakim sensie jesteœcie nadziej¹ œwiata?}
+{164}{LIEUT20}{Wszyscy pracujemy dla Mistrza, by podtrzymywaæ chwa³ê Jednoœci. Rozumiesz, On by³ pierwszy.}
+{165}{}{Jak to siê sta³o, ¿e dla niego pracujesz?}
+{166}{}{Czym jest Jednoœæ?}
+{167}{LIEUT21}{To los. Szczêœliwy traf. By³em najsilniejszy z mojej partii zanurzeñ w wirusie, i zawsze popiera³em idee Jednoœci oraz Mistrza, gdy¿ On ma racjê. A za moje oddanie zosta³em nagrodzony.}
+{168}{}{Jakim wirusie?}
+{169}{}{Wiêc jaki jest ten Mistrz?}
+{170}{LIEUT22}{Przed Wojn¹ ludzie opracowali wirus nazwany FEV, aby stworzyæ cz³owieka doskona³ego. Odnieœli sukces, jak mo¿esz stwierdziæ na pierwszy rzut oka. Mistrz jako pierwszy prawdziwie wykorzysta³ pe³en potencja³ FEV.}
+{171}{}{To gdzie jest ten Mistrz?}
+{172}{}{Jak to dzia³a?}
+{173}{LIEUT23}{Zajmuj¹ Go Dzieci Katedry. Oni faktycznie uwa¿aj¹ nas za bogów. Ale có¿, kto mo¿e ich winiæ.}
+{174}{}{Rety, czy¿ nie jesteœmy zarozumiali?}
+{175}{}{Myœlicie, ¿e jesteœcie bogami?}
+{176}{LIEUT24}{Czy szczeroœæ to zarozumialstwo? Jesteœmy nastêpnym ogniwem ewolucji. Poprzez nasz¹ Jednoœæ œwiat przetrwa. Gdzie w tym jest zarozumia³oœæ?}
+{177}{}{Mo¿e w tym twoim groteskowym ³bie?}
+{178}{}{Có¿, jak tam sobie chcesz. Czy mogê ci zadaæ jeszcze kilka pytañ?}
+{179}{LIEUT25}{Oczywiœcie, ¿e nie. Jesteœmy po prostu przysz³oœci¹.}
+{180}{}{Nie wierzê ci.}
+{181}{}{Zanim nadejdzie przysz³oœæ, jest jeszcze parê innych spraw, które budz¹ moj¹ ciekawoœæ.}
+{182}{LIEUT26}{Och, podejrzewam, ¿e to wielce wykracza poza twoj¹ zdolnoœæ pojmowania. Lecz nie martw siê. Wkrótce twoje oczy zostan¹ otwarte ku zupe³nie nowemu ¿yciu.}
+{183}{}{Co ty masz na myœli!?}
+{184}{}{Zanim to nast¹pi, jest jeszcze parê innych spraw, które budz¹ moj¹ ciekawoœæ.}
+{185}{LIEUT27}{[Porucznik wzdycha.] Jeszcze nie uda³o ci siê do tego dojœæ? Jesteœ pierwszorzêdnym normalem. Niebawem bêdziesz jednym z nas.}
+{186}{}{Co powiesz na "mowy nie ma"?}
+{187}{}{Zanim stanê siê nurzañcem takim jak ty, jest jeszcze parê innych spraw, które budz¹ moj¹ ciekawoœæ.}
+{188}{}{Czemu jestem pierwszorzêdnym cz³owiekiem?}
+{189}{LIEUT28}{Proszê bardzo, zadawaj swoje pytania. Nie œpieszy nam siê.}
+{190}{LIEUT29}{On by³ naszym przewodnikiem na drodze do ¿yciodajnego wirusa, i On jest Ojcem dla nas wszystkich. I On tak bardzo pragnie ciê poznaæ. Mam nadziejê, ¿e poczytujesz to sobie za zaszczyt.}
+{191}{}{Ee... OK. O co chodzi z tym wirusem? Co to jest?}
+{192}{}{Przed obdarzeniem mnie tym zaszczytem, mo¿e odpowiedzia³byœ jeszcze na parê pytañ?}
+{193}{}{Gdzie on siê znajduje?}
+{194}{LIEUT30}{FEV uleg³ mutacji wskutek promieniowania z czasu Wojny. ¯yj¹cy na tym ja³owym pustkowiu s¹ wystawieni na dzia³anie tego zmutowanego FEV, co w istocie zaszczepia ich od pe³nych efektów.}
+{195}{}{Wiêc?}
+{196}{}{Wiêc potrzebujecie nieska¿onych ludzi, aby tworzyæ supermutantów?}
+{197}{LIEUT31}{Wiêc pochodzisz z Krypty, i twój organizm by³ jedynie w ograniczonym zakresie wystawiony na dzia³anie tego zmutowanego wirusa. Pierwotny FEV w Kadziach powinien zadzia³aæ ca³kiem dobrze w twoim przypadku.}
+{198}{}{A sk¹d to wiesz?}
+{199}{LIEUT32}{Przeprowadziliœmy szeroko zakrojone eksperymenty na ludziach, by dojœæ do tego wniosku. Mój Mistrz poszukuje nieotwartych Krypt, aby dowieœæ Swych teorii. A ty siê akurat zjawiasz. Jak altruistycznie z twojej strony.}
+{200}{}{Nie znajdziecie mojej Krypty.}
+{201}{}{Có¿, zanim nast¹pi to, co ma nast¹piæ, jest jeszcze parê innych spraw, które budz¹ moj¹ ciekawoœæ.}
+{202}{LIEUT33}{Och, rety, twój umys³ jest bardziej b³yskotliwy, ni¿ myœla³em. Teraz wiesz, dlaczego potrzebna jest nam twoja Krypta.}
+{203}{}{Szkoda tylko, ¿e jej nie dostaniecie.}
+{204}{}{To wielka Krypta. Mo¿e najpierw udzielisz mi jeszcze paru drobnych odpowiedzi?}
+{205}{LIEUT34}{Odejœæ? S¹dzê... Pozwól, ¿e sprawdzê... Ale¿ tak, nieomal siê zaœmia³em! Jakie to cudownie humorystyczne. Jedynym miejscem, do którego pójdziesz, jest KadŸ. Lecz najpierw powiesz mi, gdzie le¿y twoja Krypta.}
+{206}{}{Mam nadziejê, ¿e potrafisz znieœæ odmowê.}
+{207}{LIEUT35}{Przekonamy siê, nieprawda¿?}
+{208}{lieut35a}{O dziwo, faktycznie s¹dzê, ¿e nie zamierzasz mi tego wyjawiæ. Bêdziemy musieli to zmieniæ!}
+{209}{LIEUT36}{Lepiej siê teraz czujesz? Poniewa¿ tortury s¹ tak skrajnie g³upi¹, choæ osobliwie satysfakcjonuj¹c¹ i skuteczn¹ metod¹, zapytam ciê jeszcze raz po dobroci. Gdzie... jest... Krypta!?}
+{210}{}{A. Takiego. Wa³a.}
+{211}{}{You win. It's about eight or nine days' travel due east, in the side of a mountain. I'll draw you a map.}
+{212}{LIEUT37}{Bardzo liczy³em, ¿e to powiesz.}
+{213}{LIEUT37b}{I jak? Jesteœmy bardziej... rozmowni? A na czym to stanêliœmy? Ach, oczywiœcie... Krypta.}
+{214}{}{Mo¿esz... o niej... pomarzyæ.}
+{215}{}{You win. It's about eight or nine days' travel due east, in the side of a mountain. I'll draw you a map.}
+{216}{LIEUT38}{Ach, czujê siê o wiele lepiej. A ty?... Teraz b¹dŸ dobrym cz³owieczkiem i powiedz mi, gdzie le¿y twoja Krypta. To siê robi skrajnie nudne.}
+{217}{}{IdŸ do diab³a.}
+{218}{}{Powiem! Tylko ju¿ nie rób mi krzywdy!}
+{219}{}{Naprawdê bardzo podziwiam twoj¹ niez³omnoœæ. Stra¿, zabraæ go z powrotem do jego celi i przygotowaæ do zanurzenia. Powie nam, gdzie jest jego Krypta, kiedy bêdzie jednym z nas.}
+{220}{}{Skoro jesteœ taki pewny, ¿e wszystko powiem po zanurzeniu, to po co to wszystko?}
+{221}{LIEUT39a}{Có¿, widzisz, jest taka drobna niedoskona³oœæ. Czasami, nie zawsze, pamiêæ danej osoby ulega, hm... jak by to powiedzieæ, przerwaniu wskutek zanurzenia. Zatem istnieje niewielkie prawdopodobieñstwo, ¿e zapomnisz po³o¿enie Krypty.}
+{222}{}{Wiêc nie mo¿ecie sobie pozwoliæ na zanurzenie mnie.}
+{223}{}{Wygl¹da na to, ¿e obie strony s¹ wydymane.}
+{224}{LIEUT39b}{Niestety, w obecnej sytuacji muszê podj¹æ ryzyko. Naprawdê potrzebujê tej informacji.}
+{225}{}{Powiem.}
+{226}{}{Lepiej trzymaj kciuki, ¿e zapomnê. Bo je¿eli bêdê coœ z tego pamiêtaæ, to zrobiê ci z dupy jesieñ œredniowiecza.}
+{227}{LIEUT40}{Doskonale. S¹dzê, ¿e rozumiesz. Zatem na pewno chcesz powiedzieæ, gdzie znajduje siê twoja Krypta? Tortury potrafi¹ byæ takie przyjemne.}
+{228}{}{Tak, na pewno.}
+{229}{}{Skoro ju¿ o tym wspomnia³eœ, nie.}
+{230}{}{Czy mogê ci najpierw zadaæ kilka pytañ?}
+{231}{LIEUT40a}{Przypuszcza³em, ¿e mo¿e uda ci siê spojrzeæ na to z mojej perspektywy. ¯adnych wahañ?}
+{232}{}{Powiem ci wszystko.}
+{233}{}{Tak, odwidzia³o mi siê, i nigdy ci nie powiem.}
+{234}{}{Czy mogê ci najpierw zadaæ kilka pytañ?}
+{235}{LIEUT41}{Och, to wspania³e. Wiesz, faktycznie niedowierza³em moim podoficerom, gdy mówili, ¿e pochwycili pierwszorzêdnego normala. Tak mi³o mi ciê widzieæ.}
+{236}{}{IdŸ do diab³a.}
+{237}{}{Czego ode mnie chcesz?}
+{238}{}{Jej!}
+{239}{LIEUT42}{Tak, rzeczywiœcie umiesz pos³ugiwaæ siê s³owami, nieprawda¿? A s³owa to to, czego chcemy, zanim...}
+{240}{}{Jak to, "zanim"?}
+{241}{}{Niczego ze mnie nie wyci¹gniesz!}
+{242}{LIEUT43}{Ale¿ staniesz siê wnet jednym z nas, oczywiœcie. Nie mogê mieæ pierwszorzêdnego normala w doskona³ym stanie i nie uczyniæ go jednym z Wybranych, prawda? Po tym, jak mi powiesz, gdzie znajduje siê twoja Krypta.}
+{243}{}{Mam ci to powiedzieæ? Jesteœ niemal zabawny.}
+{244}{}{Pod jednym warunkiem.}
+{245}{LIEUT44}{Och, jak chwalebnie. Ale doœæ g³upot. Gdzie le¿y twoja Krypta?}
+{246}{}{Nie powiem.}
+{247}{}{Có¿... Pod jednym warunkiem.}
+{248}{LIEUT45f}{Có¿, wywar³aœ na mnie spore wra¿enie. Moi szpiedzy mówili mi, ¿e jesteœ zaradna, ale wydaje siê, ¿e i tak nie docenili twoich talentów. Stra¿, pochwyciæ j¹!}
+{249}{LIEUT46}{Aach, mi³a by³a drzemka? Mam niek³aman¹ nadziejê, ¿e tak. Lecz teraz czas przejœæ do interesów.}
+{250}{}{IdŸ do diab³a.}
+{251}{}{Czego ode mnie chcesz?}
+{252}{LIEUT48}{Umys³ po prostu nie jest w stanie ogarn¹æ twego intelektu. Czemu legiony nie pad³y ci do tej pory do stóp, nigdy nie pojmê. Stra¿, zabraæ st¹d tego mato³ka!}
+{253}{LIEUT50}{Jak powiedzia³em...}
+{254}{lieut51}{Jak mówi³em ci wczeœniej...}
+{255}{LIEUT52}{Tym razem s³uchaj, proszê, uwa¿nie. Powiedzia³em...}
+{256}{lieut53}{Mówi³em ci...}
+{257}{LIEUT54}{Wiesz, przypominasz mi karalucha, którego niegdyœ posiada³em. Zmia¿d¿y³em go, poniewa¿ irytowa³o mnie jego cichutkie tupotanie. Pamiêtaj o tym.}
+{258}{LIEUT55}{Jest z ciebie irytuj¹cy cz³owieczek, nieprawda¿? Nie bêdê tego ponownie powtarzaæ.}
+{259}{LIEUT56}{Jednoœæ jest celem wszystkich supermutantów. Dziêki wirusowi FEV zjednoczymy ca³¹ ludzkoœæ w Pokoju.}
+{260}{LIEUT57}{Wirus FEV zosta³ odkryty przez Mistrza wiele lat temu. To on czyni nas Wybranymi. Ale wkrótce siê o tym przekonasz, zapewniam.}
+{261}{LIEUT58}{Mistrz jest Ojcem dla nas wszystkich.}
+{262}{LIEUT59}{Jedynie instrument s³u¿¹cy realizacji naszych planów. To bez znaczenia, wszyscy ludzie bêd¹ Wybrañcami... lub trupami.}
+{263}{LIEUT60}{To w Kadziach przechowywany jest FEV, i to w nich wy, normale, stajecie siê jednymi z nas. Oczywiœcie, niektórzy umieraj¹ okropn¹, straszliwie bolesn¹ œmierci¹, ale có¿, to pechowcy.}
+{264}{LIEUT61}{To ludzie, którzy nie byli wystawieni na dzia³anie promieniowania. W Kadziach generalnie powodzi im siê lepiej ni¿ pozosta³ym. Jesteœ ich doskona³ym przyk³adem.}
+{265}{LIEUT62}{Zbudowano je przed Wojn¹. S¹ dla nas podstawowym Ÿród³em pierwszorzêdnych normali.}
+{266}{LIEUT63}{Morfeusz. To ca³kiem zabawne. On myœli, ¿e jest czymœ tak bardzo istotnym, a nie tylko larw¹ zwerbowan¹ przez Mistrza do przewodzenia jego nonsensownym Dzieciom Katedry. Ach, có¿. On te¿ zostanie zanurzony w Kadzi i prawdopodobnie umrze okropn¹ œmierci¹... mam nadziejê.}
+{267}{LIEUT64}{To teraz nieistotne.}
+{268}{LIEUT65}{To pytanie jest pozbawione zwi¹zku z Jednoœci¹.}
+{269}{LIEUT66}{Nie zaszczycê tego choæby odpowiedzi¹.}
+{270}{LIEUT45m}{Có¿, wywar³eœ na mnie spore wra¿enie. Moi szpiedzy mówili mi, ¿e jesteœ zaradny, ale wydaje siê, ¿e i tak nie docenili twoich talentów. Stra¿, pochwyciæ go!}
+{271}{LIEUT39f}{Och, naprawdê bardzo podziwiam twoj¹ niez³omnoœæ. Stra¿, zabraæ j¹ i przygotowaæ do zanurzenia. Powie nam, gdzie jest jej Krypta, kiedy bêdzie jednym z nas.}
+{272}{LIEUT39m}{Naprawdê bardzo podziwiam twoj¹ niez³omnoœæ. Stra¿, zabraæ go z powrotem do jego celi i przygotowaæ do zanurzenia. Powie nam, gdzie jest jego Krypta, kiedy bêdzie jednym z nas.}
+
+
+# Lieutenant Tell-Me-Abouts generic responses
+{980}{LIEUT64}{To teraz nieistotne.}
+{981}{LIEUT65}{To pytanie jest pozbawione zwi¹zku z Jednoœci¹.}
+{982}{LIEUT66}{Nie zaszczycê tego choæby odpowiedzi¹.}
+
+#
+# Lieutenant Tell-Me-Abouts
+#
+
+
+{1000}{}{Jednoœæ}
+{1001}{}{FEV}
+{1002}{}{Mistrz}
+{1003}{}{Dzieci}
+{1004}{}{Kadzie}
+{1005}{}{normale}
+{1006}{}{Krypty}
+{1007}{}{Morfeusz}
+{1008}{}{wirus}
+
+{1100}{LIEUT56}{Jednoœæ jest celem wszystkich supermutantów. Dziêki wirusowi FEV zjednoczymy ca³¹ ludzkoœæ w Pokoju.}
+{1101}{LIEUT57}{Wirus FEV zosta³ odkryty przez Mistrza wiele lat temu. To on czyni nas Wybranymi. Ale wkrótce siê o tym przekonasz, zapewniam.}
+{1102}{LIEUT58}{Mistrz jest Ojcem dla nas wszystkich.}
+{1103}{LIEUT59}{Jedynie instrument s³u¿¹cy realizacji naszych planów. To bez znaczenia, wszyscy ludzie bêd¹ Wybrañcami... lub trupami.}
+{1104}{LIEUT60}{To w Kadziach przechowywany jest FEV, i to w nich wy, normale, stajecie siê jednymi z nas. Oczywiœcie, niektórzy umieraj¹ okropn¹, straszliwie bolesn¹ œmierci¹, ale có¿, to pechowcy.}
+{1105}{LIEUT61}{To ludzie, którzy nie byli wystawieni na dzia³anie promieniowania. W Kadziach generalnie powodzi im siê lepiej ni¿ pozosta³ym. Jesteœ ich doskona³ym przyk³adem.}
+{1106}{LIEUT62}{Zbudowano je przed Wojn¹. S¹ dla nas podstawowym Ÿród³em pierwszorzêdnych normali.}
+{1107}{LIEUT63}{Morfeusz. To ca³kiem zabawne. On myœli, ¿e jest czymœ tak bardzo istotnym, a nie tylko larw¹ zwerbowan¹ przez Mistrza do przewodzenia jego nonsensownym Dzieciom Katedry. Ach, có¿. On te¿ zostanie zanurzony w Kadzi i prawdopodobnie umrze okropn¹ œmierci¹... mam nadziejê.}
+{1108}{LIEUT57}{Wirus FEV zosta³ odkryty przez Mistrza wiele lat temu. To on czyni nas Wybranymi. Ale wkrótce siê o tym przekonasz, zapewniam.}
+
+{1109}{LIEUT65}{To pytanie jest pozbawione zwi¹zku z Jednoœci¹.}
+{1110}{LIEUT66}{Nie zaszczycê tego choæby odpowiedzi¹.}
+{1111}{lieut45m}{Có¿, wywar³eœ na mnie spore wra¿enie. Moi szpiedzy mówili mi, ¿e jesteœ zaradny, ale wydaje siê, ¿e i tak nie docenili twoich talentów. Stra¿, pochwyciæ go!}
+{1112}{lieut39f}{Och, naprawdê bardzo podziwiam twoj¹ niez³omnoœæ. Stra¿, zabraæ j¹ i przygotowaæ do zanurzenia. Powie nam, gdzie jest jej Krypta, kiedy bêdzie jednym z nas.}
+{1113}{lieut39m}{Naprawdê bardzo podziwiam twoj¹ niez³omnoœæ. Stra¿, zabraæ go z powrotem do jego celi i przygotowaæ do zanurzenia. Powie nam, gdzie jest jego Krypta, kiedy bêdzie jednym z nas.}

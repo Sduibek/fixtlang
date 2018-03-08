@@ -1,0 +1,345 @@
+{100}{}{Vedi il Generale Maxson.}
+{101}{}{Cos'e' *davvero* la Confraternita?}
+{102}{}{Scommetto che tu conosci molto bene la storia della Confraternita.}
+{103}{}{Hai sentito qualche voce interessante?}
+{104}{}{Devo comunicare delle informazioni.}
+{105}{}{E' tutto. Grazie.}
+{106}{Gen_1}{Salve, giovanotto. Cabbot mi ha detto che mi volevi parlare. Beh, sono.. er... piuttosto occupato, al momento, quindi... er... ti aiutero' a patto che tu tenga a freno la lingua. Sai, gli esterni sono tutti cosi', sempre a blaterare... Eheheh. Proprio come me, no?}
+{107}{}{Esterni? A chi ti riferisci?}
+{108}{}{Che ne diresti di qualche domanda, allora?}
+{109}{Gen_2}{Non posso. Io sono chiamato soltanto a moderare quelle dannate riunioni che non finiscono mai. Vedi, ci sono quattro Anziani e poi io. E io mi limito a sedare le liti e a decidere il risultato di una votazione in caso di parita' di voti. Beh, se quei quattro decidono che i nostri soldati devono scaccolarsi mentre un esercito arriva qui e ci prende a calci nel nostro culo collettivo, non c'e' un diavolo di nulla che io possa fare.}
+{110}{}{Oh, beh...}
+{111}{}{Che stronzata. Perche' non fai qualcosa?}
+{112}{Gen_2a}{Tradizione. E' dura cambiare i nostri metodi. Ora, se gli Anziani avessero qualche informazione concreta, forse si darebbero una svegliata e farebbero qualcosa.}
+{113}{Gen_3}{Un Iniziato che non e' nato qui... Sei il primo Esterno tra le nostre fila da molto, molto tempo. Beh, saranno quasi vent'anni, ormai. }
+{114}{}{Perche' io?}
+{115}{}{Sono lusingato. Che ne diresti di rispondere a qualche domanda?}
+{116}{Gen_4}{Perche' dobbiamo fare qualcosa. Un esercito si sta organizzando, le carovane dell'Hub spariscono nel nulla e, sicuro come il demonio, i nostri esploratori non fanno il loro dovere. Cosi' gli Anziani hanno finalmente deciso di agire e hanno pensato che l'Esterno "giusto" potrebbe avere qualcosa da offrire. Quell'Esterno sei tu... o almeno speriamo.}
+{117}{}{Quale esercito?}
+{118}{}{Cosa mi puoi dire delle carovane scomparse?}
+{119}{}{Hmm. Allora credo che ci siano altre cose che dovrei sapere.}
+{120}{}{Qual e' il problema dei vostri esploratori?}
+{121}{}{Ho delle informazioni che potrebbero interessarvi.}
+{122}{Gen_5}{Non appena abbiamo saputo delle carovane scomparse, abbiamo mandato alcuni esploratori a est e a nord. Di quelli andati a nord non si hanno piu' notizie. Di quelli inviati ad est, solo uno e' tornato. Ha riferito di essersi imbattuto in una ventina di strani esseri, tutti muscoli e con gli occhi ardenti. Gli Anziani non sembrano preoccupati, ma io mi sto ugualmente preparando.}
+{123}{}{Venti mutanti non sono un esercito. Perche' sei preoccupato?}
+{124}{}{Credo che il vostro uomo sia rimasto al sole troppo a lungo.}
+{125}{}{Faro' il possibile.}
+{126}{}{Ha specificato il luogo esatto?}
+{127}{}{Ho delle informazioni che potrebbero interessarvi.}
+{128}{Gen_6}{Potranno esserci esploratori bravi ed esploratori non bravi, ma non azzardarti a mettere in dubbio la sincerita' dei miei uomini. Possiamo revocare il tuo status di Iniziato in qualsiasi momento.}
+{129}{}{Credo che voi abbiate bisogno di me piu' di quanto io ne abbia di voi.}
+{130}{}{Ti prego di perdonare le mie parole.}
+{131}{Gen_7}{Basta. Avevo avvertito gli Anziani che accettare un Esterno avrebbe portato guai. (grida) Guardie! C'e' un Iniziato qui che ha bisogno di passare del tempo in un posto tranquillo per imparare un po' di buone maniere. }
+{132}{Gen_8}{Sei un Esterno, ma mi aspetto che tu impari a comportarti secondo le nostre regole. Ti terro' d'occhio. Ora, fammi pure le tue domande. }
+{133}{Gen_9}{Bene. Devi chiedermi qualcos'altro? }
+{134}{Gen_10}{In mezzo alle montagne. Non ha potuto essere piu' preciso.}
+{135}{}{Che disdetta. Posso farti qualche altra domanda?}
+{136}{}{E dalla zona a nord? Nessuna notizia?}
+{137}{}{Continua. }
+{138}{Gen_11a}{Certo. Spara pure.}
+{139}{Gen_11b}{Certo.}
+{140}{Gen_11c}{Spara.}
+{141}{Gen_12}{Me lo sento nelle budella: a est ci dev'essere un reparto di dimensioni ridotte, mentre a nord si nasconde un esercito molto piu' numeroso. Gli Anziani se ne stanno li' a prender polvere perche' nessuno degli esploratori ha fatto ritorno da nord. E io non posso fare altro che stare a guardare.}
+{142}{}{Beh, vedro' di fare il possibile.}
+{143}{}{Perche' non fai qualcosa?}
+{144}{}{Credo che questa sia una cosa piu' grande di me. Non contate sul mio aiuto.}
+{145}{}{Ho alcune informazioni a proposito.}
+{146}{Gen_13}{Beh, i mercanti dell'Hub ci hanno riferito che alcune carovane sono scomparse lungo le rotte verso nord. Io credo che tra le montagne si nasconda un esercito, ma gli Anziani... beh, loro non vogliono agire finche' non sono sicuri. }
+{147}{}{Dove sono scomparse?}
+{148}{}{Ma tu non sei il Sommo Anziano? Perche' non fai qualcosa?}
+{149}{}{Non hai fatto nulla?}
+{150}{}{Ho alcune informazioni a proposito.}
+{151}{Gen_14}{Dalle voci che ho sentito pare che le carovane spariscano nei pressi del crinale meridionale delle montagne a est. Ma credo che i mercanti dell'Hub saprebbero dirti di piu'.}
+{152}{}{Grazie. Avrei delle altre domande, se non e' un problema.}
+{153}{}{Grazie. Ci vediamo.}
+{154}{}{Ho delle informazioni a proposito.}
+{155}{Gen_15g}{Ci vediamo, Iniziato. Non sei male... per essere un Esterno.}
+{156}{Gen_15n}{Arrivederci, Iniziato.}
+{157}{Gen_15b}{Addio!}
+{158}{Gen_16}{Ho vissuto troppo a lungo isolato qui dentro. Riesci a immaginare cosa voglia dire aver passato tutta la vita in un posto chiuso e ad un tratto essere costretto ad affrontare il mondo esterno? }
+{159}{}{Beh, veramente...}
+{160}{}{Immagino che dovro' essere io la vostra avanguardia, allora.}
+{161}{}{E cosi', solo perche' il "signore" qui presente non e' mai uscito, io dovrei fare il lavoro sporco? Scordatelo.}
+{162}{Gen_17}{Quindi puoi comprendere il problema. Per sopravvivere abbiamo bisogno di qualcuno che conosca il mondo esterno. Qualcuno come te. }
+{163}{}{Ok, lo faro'.}
+{164}{}{Anch'io ho i miei problemi. Io passo.}
+{165}{Gen_18}{Beh... con quello che credo ci stia per capitare, non abbiamo tempo da perdere con chi ha intenzione di... non dare il suo contributo. Ora, puoi decidere di lavorare con noi, oppure puoi andare a farti un giro.}
+{166}{}{Beh, se la metti cosi', ci sto.}
+{167}{}{Oggi e' proprio una giornata ideale per farsi una passeggiata.}
+{168}{Gen_19}{La scelta e' tua. Spero che tu non te ne debba pentire. }
+{169}{Gen_20}{Cosa? E' cio' che siamo e cio' per cui viviamo. Sono gli ideali. Quando avrai passato un po' piu' tempo con noi, capirai.}
+{170}{}{Si', ma in pratica cosa fate?}
+{171}{}{Non sono del tutto convinto.}
+{172}{Gen_21}{Il nostro primo obiettivo e' sopravvivere. Gli Scriba copiano antichi progetti di armi o ne ideano di nuovi. I Cavalieri creano il nostro arsenale basandosi su quei progetti. Quasi tutte le armi sono state fabbricate da noi.}
+{173}{}{Vendete le vostre armi all'Hub?}
+{174}{}{Tutto qui?}
+{175}{}{Il discorso fila. Ci sono ancora un paio di cose che vorrei chiedere.}
+{176}{Gen_22}{E' cosi' che ci procuriamo le provviste.}
+{177}{}{Okay, ho capito. Ci sono ancora un paio di cose che vorrei chiedere.}
+{178}{}{Okay. Purtroppo adesso devo proprio andare.}
+{179}{}{Non sono del tutto convinto.}
+{180}{Gen_23}{"Tutto qui"?! E' una cosa dannatamente importante. E' fondamentale per la nostra sopravvivenza.}
+{181}{}{Vabbe'. Vorrei farti qualche altra domanda.}
+{182}{}{Ah... beh, e' una cosa stupida.}
+{183}{}{Ok, grazie. Adesso devo proprio andare.}
+{184}{Gen_26}{Allora dovrai cercare di convincerti. Chi manca di certezze e' destinato a fare una brutta fine.}
+{185}{}{Piu' ne sapro' e piu' sara' facile convincermi.}
+{186}{Gen_28}{Senti, adesso non ho tempo per raccontarti una storia cosi' lunga. Ecco. Tutti noi siamo cresciuti basandoci su questo. }
+{187}{Gen_29n}{Ci sono delle voci che parlano di carovane dell'Hub scomparse. E pare anche che nelle montagne orientali si stia formando uno strano esercito. }
+{188}{}{Okay.}
+{189}{}{Un esercito?}
+{190}{}{Cosa mi sai dire delle carovane scomparse?}
+{191}{}{Ho delle informazioni a proposito.}
+{192}{Gen_29b}{Non do retta alle voci. }
+{193}{Gen_30}{Ahh... Bentornato, Iniziato. Tutto bene? }
+{194}{}{Abbastanza. Posso farti qualche altra domanda?}
+{195}{}{Beh, in realta' sto da schifo.}
+{196}{}{Si', grazie, ma devo andare.}
+{197}{Gen_32}{Posso capire che tu non sia abituato al nostro modo di vivere, ma potresti mostrare un po' di autocontrollo. }
+{198}{}{Sono mortificato. Posso farti qualche altra domanda?}
+{199}{}{Perche'? Questo posto e' ridicolo!}
+{200}{}{Devo andare. Ci si vede.}
+{201}{Gen_34}{E adesso cosa diavolo vuoi? }
+{202}{}{Voglio sapere perche' qui dentro permettono ad un idiota di dare ordini.}
+{203}{}{Devo farti qualche altra domanda.}
+{204}{}{Lasciamo stare, grazie.}
+{205}{Gen_35}{Ovvero? }
+{206}{}{Ah, mi dispiace. Mi sono sbagliato.}
+{207}{}{Le carovane dell'Hub vengono attaccate da enormi mutanti verdi. Stanno formando un esercito.}
+{208}{}{A nord di qui si annida un enorme esercito guidato da qualcuno che si fa chiamare Master.}
+{209}{Gen_36}{Li hai visti? Questo potrebbe spingere gli Anziani a fare qualcosa. Adesso ci penso io, grazie!}
+{210}{Gen_38}{Ehm... e cosa pensa di farci con questo suo... esercito? }
+{211}{}{Ha intenzione di invadere la Confraternita, l'Hub, Junktown... ogni cosa.}
+{212}{}{Quanto sei disposto a pagare per questa informazione?}
+{213}{Gen_39}{Finalmente! Beh, questo fara' alzare le chiappe agli Anziani. Blinderemo la Fortezza e sorprenderemo quei dannati mutanti.}
+{214}{}{No! Non capisci. I prigionieri vengono trasformati in mutanti che si aggiungono alle loro fila.}
+{215}{}{Okay.}
+{216}{Gen_40}{E allora?}
+{217}{}{Allora, quando arriveranno qui, saranno ormai inarrestabili. E hanno armi avanzate, come le vostre. Non avete alcuna chance di vincere.}
+{218}{}{Beh, okay. Forse nascondersi sottoterra e' la cosa piu' giusta da fare.}
+{219}{Gen_41}{Hai un'alternativa da proporre?}
+{220}{}{Aiutatemi ad attaccare la base del Master. Io so dove si trova.}
+{221}{Gen_42}{Hmmm. Un piano niente male. Ti dico una cosa: provero' a farlo entrare nelle zucche vuote degli Anziani. Non garantisco nulla, ma ci provero'.}
+{222}{Gen_43}{E allora vattene. Ho del lavoro da fare.}
+{223}{Gen_44}{Hai un modo molto particolare di intendere la lealta' e le priorita'.}
+{224}{}{Loyal to myself. 500 caps. Take it or leave it.}
+{225}{}{Hmm. Okay, te lo diro' lo stesso. Intende conquistare tutto e tutti.}
+{226}{Gen_44a}{Prendo. Abbiamo bisogno di informazioni per salvare delle vite.}
+{227}{}{Molto semplice. Trasforma gli umani in mutanti ed e' dotato di armi avanzate. Ha intenzione di conquistare ogni cosa.}
+{228}{Gen_44b}{Beh, se ci riesce, spero che tu possa trovare un posto dove spendere i tuoi soldi.}
+{229}{Gen_45}{Beh, che ne dici di "niente"?! Guardie, buttate questo idiota fuori di qui. Per Dio! Difenderemo la Confraternita anche senza il tuo dannato aiuto.}
+{230}{Gen_46}{Cosa credi di fare? Metti giu' quell'arma. Mettila giu' subito!}
+{231}{Gen_47}{Basta cosi'. Guardie! Portate via questo idiota!}
+{232}{Gen_48}{Ehi, ehi, ehi, ehi! Fermo la'. Smettila. Smettila immediatamente!}
+{233}{Gen_49}{Come ho detto...}
+{234}{Gen_50}{Ho detto...}
+{235}{Gen_51}{Non sono solito ripetermi, quindi apri bene le orecchie.}
+{236}{Gen_52}{Senti, te l'ho gia' detto. Non e' colpa mia se non capisci.}
+{237}{Gen_52a}{E' il posto in cui ti trovi. Se vuoi la versione lunga, parla con Vree.}
+{238}{Gen_52b}{Mathia e' il mio assistente.}
+{239}{Gen_53}{Oh, e' un bravo ragazzo, anche se vuol diventare uno Scriba.}
+{240}{Gen_54}{Vree e' il Capo Scriba. Di solito si trova nella Biblioteca. Le piace molto parlare. }
+{241}{Gen_55}{Gli schemi delle armi e i documenti storici si trovano li'.}
+{242}{Gen_56}{Rhombus si trova qui da molto tempo. E' po' freddo, ma e' un soldato impareggiabile.}
+{243}{Gen_58}{Eheheh. Un uomo scaltro, affascinante e onesto. Il Sommo Anziano ha il compito di moderare le riunioni degli Anziani. Due anni fa mi hanno convinto ad accettare l'incarico. Se solo avessi saputo...}
+{244}{Gen_59}{Beh, in tutto ce ne sono quattro. Questa e' praticamente l'unica cosa sulla quale siano mai stati d'accordo. Non riescono ad essere d'accordo nemmeno quando devono pisciare, figurarsi quando devono decidere di tirare fuori un vaso in cui pisciarci dentro.}
+{245}{Gen_60}{Beh, tu sei uno di loro. Gli Iniziati si addestrano e studiano per diventare Cavalieri o Scriba.}
+{246}{Gen_61}{Beh, gli Scriba ricopiano i progetti delle armi. Abbiamo documenti che risalgono persino all'era di mio nonno. A volte, uno Scriba se ne esce con una nuova idea per un'arma. Eheheh. Non accade molto spesso. Sono tutti sotto il comando di Vree.}
+{247}{Gen_62}{I Cavalieri costruiscono le armi. E quando e' abbastanza bravo, un Cavaliere puo' diventare Paladino, e poi un Anziano e cosi' via. Al momento, il capo dei Cavalieri e' Rhombus.}
+{248}{Gen_63}{I Paladini sono i responsabili della sicurezza e di tutte le attivita' che si svolgono all'esterno. Ricordo quando commerciavo con i mercanti dell'Hub, o quando andavo in missione per conto degli Anziani. Ah, cavoli: quelli si' che erano bei tempi.}
+{249}{Gen_64}{L'Hub si trova a sudest. Ci vendono cibo e altre cose in cambio delle armi che produciamo. Ora, se mai ti capitasse di andare laggiu', va' a parlare con Butch Harris.}
+{250}{Gen_65}{Butch e' il capo dei Mercanti FarGo. E' un tipo un po' viscido, ma non e' troppo male. A differenza di quei Mercanti d'Acqua. Una manica di dannati avvoltoi, ecco cosa sono.}
+{251}{Gen_66}{E' la compagnia con cui commerciamo di piu'. Non sono totalmente affidabili, ma sono meno peggio degli altri.}
+{252}{Gen_67}{Non ci si puo' fidare di loro. Qualche anno fa ci offrirono acqua in cambio di una grossa partita di armi. Noi rifiutammo, e sai cosa fecero loro? Mandarono dei ladri per rubarci le armi! Noi scoprimmo tutto e ci manco' poco che mandassimo una squadra armata all'Hub per dar loro una bella lezione.}
+{253}{Gen_68}{Olodischi? Hmm? Sono secoli che non ne vedo uno.}
+{254}{Gen_69}{Vree ce l'ha da qualche parte nella Biblioteca.}
+{255}{Gen_70}{Roger Maxson, eh? Beh, ha guidato qui la nostra gente durante il grande Esodo. Ha fondato la Confraternita dal nulla. Un leader niente male.}
+{256}{Gen_71}{Beh, avvenne quando mio nonno, Roger Maxson, guido' qui i suoi soldati e fondo' la Confraternita. Non disse mai da dove venivano, ma non ha molta importanza, dato che... beh, ormai e' qui che viviamo.}
+{257}{Gen_72}{Beh, io credo che un esercito si stia radunando a nord e tra le montagne a est, ma non ho modo di provarlo. Gli Anziani non mi stanno neppure a sentire. }
+{258}{Gen_73}{Per come la vedo io, sono una manica di pazzi. Credo che la loro chiesa principale si trovi nel Boneyard.}
+{259}{Gen_75}{Beh, non ne so molto. Ci sono delle bande, ma anche il villaggio di Adytum e la chiesa dei Figli della Cattedrale. Non molto altro. E' dannatamente desolato.}
+{260}{Gen_76}{Beh, non c'e' molto da dire. Non le ho mai viste. Ho sentito che sono un problema per la gente di Adytum, pero'.}
+{261}{Gen_77}{E' un insediamento in mezzo al Boneyard. Ci sono stato... hmmm... molto tempo fa. Dovevo esplorare la zona per conto degli Anziani.}
+{262}{Gen_78}{Ah. E' solo un'altra stupida voce. Alcuni dicono che sia un enorme mostro dotato di zanne e altri credono che sia un vampiro.}
+{263}{Gen_79}{Ah, non ne so nulla.}
+{264}{Gen_80}{Come hai detto? No. Non credo di averne mai sentito parlare.}
+{265}{Gen_81a}{Non ne ho la piu' pallida idea.}
+{266}{}{Sorpreso di vedermi? Credevi che ti lasciassi tutto il divertimento?}
+{267}{}{Come hai fatto a convincere gli Anziani?}
+{268}{Gen_82a}{Oh, non e' stato difficile. Ho solo illustrato con calma la situazione. E "bingo!" eccoci qua. Fai strada, amico.}
+{269}{Gen_83}{Che cosa ci fai qui? Questo posto e' riservato agli Anziani.}
+{270}{}{Scusa. Me ne vado subito.}
+{271}{}{Non mi interessa. Io rimango qui.}
+{272}{Gen_84}{Bene. E chiudi la porta quando esci.}
+{273}{Gen_84a}{Te lo dico chiaramente: non interferire.}
+{274}{Gen_85}{Ah! Te lo sei dimenticato? Una volta io insegnavo questa roba.}
+{275}{Gen_86}{Contrariamente a quanto si pensi, non vogliamo dei soldati senza un briciolo di cervello.}
+{276}{Gen_87}{Beh, ti suggerisco di parlarne con Mathia, la mia assistente.}
+
+
+# Alchemist: I'm not sure about exact naming of the Weapon Store. Check this place.
+{278}{}{Excellent! Due to the successfully completed mission I grant you access to the weapon stock on the first level. Any more questions?}
+{300}{}{Forse puoi dirmelo tu... Tutti qui sembrano molto tesi. E' come se foste sul punto di andare in guerra, ma nessuno sembra sapere contro chi.}
+{301}{}{Hai qualche indizio che possa aiutarmi a scoprire cosa ne e' stato delle carovane scomparse?}
+{302}{}{Andro' ad esplorare la zona a nord e poi riferiro' su quello che ho scoperto.}
+{303}{}{Per 500 testoni sono disposto ad andare a dare un'occhiata.}
+{304}{}{Per 1000 testoni sono pronto ad andare a vedere cosa succede su a nord.}
+{305}{}{Al momento non credo di voler essere coinvolto in questa faccenda.}
+{306}{}{Sarebbe possibile per me mettere le mani su qualche arma migliore?}
+{307}{}{Prima vorrei farti un paio di domande.}
+{308}{}{No. Ci rivedremo quando avro' scoperto cosa sta succedendo lassu'.}
+{309}{}{Okay, bye.}
+{310}{}{Come fai a sapere che i vostri esploratori non hanno disertato?}
+{311}{}{Credo di essermi gia' imbattuto nelle creature che mi hai appena descritto. Non bisogna sottovalutarle.}
+{312}{}{Ti prego di scusarmi. Quale pensi che sia la causa di queste sparizioni?}
+{313}{}{Forza. Cacciami via. Figurati se mi interessa.}
+{314}{}{Mi dispiace, ma al momento sarebbe troppo rischioso per me.}
+{315}{}{D'accordo, ci vado. Ma prima posso avere delle armi migliori?}
+{316}{}{Ok, lo faro'... per 1000 testoni.}
+{317}{}{Prendere o lasciare.}
+{318}{}{Come non detto.}
+{319}{}{Ok, Ok, lo faro' gratis.}
+{320}{}{Molto bene. Ci vedremo non appena saro' tornato.}
+{321}{}{Ho scoperto chi c'e' dietro la scomparsa delle carovane. E' un esercito di mutanti. Avete ottime ragioni per essere preoccupati. Si direbbero degli avversari davvero formidabili.}
+{322}{}{Mi sembra chiaro che qualcuno debba andare lassu' a controllare.}
+{323}{}{Dovra' essere qualcosa di piu' concreto se speri che io rischi la mia vita andando lassu'.}
+{324}{}{Considero la mia vita una priorita' piuttosto importante.}
+{325}{}{Non credo di essere pronto per un compito simile.}
+{326}{}{Sono leale soltanto ad una persona. A me.}
+{327}{}{Posso farlo.}
+{328}{}{Duh?}
+{329}{}{Why does everyone here seem so edgy? It's like you're getting ready to go to war, but no one knows who the enemy is.}
+{330}{}{Dobbiamo parlare della scomparsa delle carovane. Hai qualche informazione che potrebbe essermi utile?}
+{331}{}{Lasciamo perdere.}
+{332}{}{Devo farti qualche domanda.}
+{333}{}{Duh?}
+{334}{}{Sono in possesso di informazioni sull'area a nord.}
+{335}{}{Posso farti qualche domanda?}
+{336}{}{Come non detto.}
+{337}{}{Mi dispiace, ma non ho nulla da riferire.}
+{338}{}{Ho visto la loro base. E' brulicante di mutanti.}
+{339}{}{Ho visto la base dei mutanti, a nord. Seguono un capo che loro chiamano Master.}
+{340}{}{In questa situazione non puoi fare un gioco difensivo, Maxson.}
+{341}{}{Beh, mi sembra chiaro che qualcosa debba esser fatto. La cosa migliore sarebbe attaccare i mutanti prima che siano loro ad attaccare noi. Avremo bisogno dell'appoggio degli Anziani, per questo.}
+{342}{}{Non sono del tutto certo di cosa dovremmo fare. Lascia che raccolga qualche altra informazione e poi ti sapro' dire.}
+{343}{}{Progetta di conquistare tutti i centri abitanti che trovera' sul suo cammino.}
+{344}{}{Potresti raccontarmi la storia della Confraternita?}
+{345}{}{Qual e' lo scopo principale della Confraternita?}
+{346}{}{Chi sono gli Anziani?}
+{347}{}{Sai nulla a proposito del Deathclaw?}
+{348}{}{Lasciamo perdere.}
+{349}{}{Posso farti un'altra domanda?}
+{350}{}{Grazie.}
+{351}{}{You earn }
+{352}{}{ experience for scouting the desert to the north.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ('my friend' will be masculine); the second line is
+# for the case of the player-character feminine ('my friend' will be feminine).
+#
+
+{353}{Gen_3}{Un Iniziato che non e' nato qui... Sei il primo Esterno tra le nostre fila da molto, molto tempo. Beh, saranno quasi vent'anni, ormai. }
+{354}{Gen_3}{Un Iniziato che non e' nata qui... Sei la prima Esterna tra le nostre fila da molto, molto tempo. Beh, saranno quasi vent'anni, ormai.. }
+{355}{Gen_6}{Potranno esserci esploratori bravi ed esploratori non bravi, ma non azzardarti a mettere in dubbio la sincerita' dei miei uomini. Possiamo revocare il tuo status di Iniziato in qualsiasi momento.}
+{356}{Gen_6}{Potranno esserci esploratori bravi ed esploratori non bravi, ma non azzardarti a mettere in dubbio la sincerita' dei miei uomini. Possiamo revocare il tuo status di Iniziato in qualsiasi momento.}
+{357}{Gen_15n}{Arrivederci, Iniziato.}
+{358}{Gen_15n}{Arrivederci, Iniziato.}
+{359}{Gen_30}{Ahh... Bentornato, Iniziato. Tutto a posto? }
+{360}{Gen_30}{Ahh... Bentornata, Iniziato. Tutto a posto? }
+
+{400}{}{Sono stato nella base dei mutanti a nord. Diciamo che non rappresentano piu' una minaccia.}
+
+
+# General Maxson Tell-Me-Abouts generic responses
+{980}{Gen_79}{Ah, non ne so nulla.}
+{981}{Gen_80}{Come hai detto? No. Non credo di averne mai sentito parlare.}
+{982}{Gen_81a}{Non ne ho la piu' pallida idea.}
+
+#
+# General Maxson Tell-Me-Abouts
+#
+
+
+{1000}{}{Confraternita}
+{1001}{}{Mathia}
+{1002}{}{Cabbot}
+{1003}{}{Vree}
+{1004}{}{Biblioteca}
+{1005}{}{Rhombus}
+{1006}{}{Anziano}
+{1007}{}{Anziani}
+{1008}{}{Iniziati}
+{1009}{}{Scriba}
+{1010}{}{Cavalieri}
+{1011}{}{Paladini}
+{1012}{}{Hub}
+{1013}{}{Butch}
+{1014}{}{FarGo}
+{1015}{}{Mercanti}
+{1016}{}{Dischi}
+{1017}{}{Lettore}
+{1018}{}{Roger}
+{1019}{}{Esodo}
+{1020}{}{Esercito}
+{1021}{}{Cattedrale}
+{1022}{}{Angeles}
+{1023}{}{Bande}
+{1024}{}{Adytum}
+{1025}{}{Claw}
+{1026}{}{Harris}
+{1027}{}{Maxson}
+{1028}{}{Angeli}
+{1029}{}{Boneyard}
+{1030}{}{Master}
+{1031}{}{Guerra}
+{1032}{}{Carovane}
+{1033}{}{Chip}
+{1034}{}{Discs}
+{1035}{}{HoloDisk}
+{1036}{}{HoloDisc}
+{1037}{}{Holo-Disk}
+{1038}{}{Holo-Disc}
+
+
+{1100}{Gen_52a}{E' il posto in cui ti trovi. Se vuoi la versione lunga, parla con Vree.}
+{1101}{Gen_52b}{Mathia e' il mio assistente.}
+{1102}{Gen_53}{Oh, e' un bravo ragazzo, anche se vuol diventare uno Scriba.}
+{1103}{Gen_54}{Vree e' il Capo Scriba. Di solito si trova nella Biblioteca. Le piace molto parlare. }
+{1104}{Gen_55}{Gli schemi delle armi e i documenti storici si trovano li'.}
+{1105}{Gen_56}{Rhombus si trova qui da molto tempo. E' po' freddo, ma e' un soldato impareggiabile.}
+{1106}{Gen_58}{Eheheh. Un uomo scaltro, affascinante e onesto. Il Sommo Anziano ha il compito di moderare le riunioni degli Anziani. Due anni fa mi hanno convinto ad accettare l'incarico. Se solo l'avessi saputo...}
+{1107}{Gen_59}{Beh, in tutto ce ne sono quattro. Questa e' praticamente l'unica cosa sulla quale siano mai stati d'accordo. Non riescono ad essere d'accordo nemmeno quando devono pisciare, figurarsi quando devono decidere di tirare fuori un vaso dove pisciarci dentro.}
+{1108}{Gen_60}{Beh, tu sei uno di loro. Gli Iniziati si addestrano e studiano per diventare Cavalieri o Scriba.}
+{1109}{Gen_61}{Beh, gli Scriba ricopiano i progetti delle armi. Abbiamo documenti che risalgono persino all'era di mio nonno. A volte uno Scriba se ne esce con una nuova idea per un'arma. Eheheh. Non accade molto spesso. Sono tutti sotto il comando di Vree.}
+{1110}{Gen_62}{I Cavalieri costruiscono le armi. E quando e' abbastanza bravo, un Cavaliere puo' diventare Paladino, e poi un Anziano e cosi' via. Al momento, il capo dei Cavalieri e' Rhombus.}
+{1111}{Gen_63}{I Paladini sono i responsabili della sicurezza e di tutte le attivita' che si svolgono all'esterno. Ricordo quando commerciavo con i mercanti dell'Hub, o quando andavo in missione per conto degli Anziani. Ah, cavoli: quelli si' che erano bei tempi.}
+{1112}{Gen_64}{L'Hub si trova a sudest. Ci vendono cibo e altre cose in cambio delle armi che produciamo. Ora, se mai ti capitasse di andare laggiu', va' a parlare con Butch Harris.}
+{1113}{Gen_65}{Butch e' il capo dei Mercanti FarGo. E' un tipo un po' viscido, ma non e' troppo male. A differenza di quei Mercanti d'Acqua. Una manica di dannati avvoltoi, ecco cosa sono.}
+{1114}{Gen_66}{E' la compagnia con cui commerciamo di piu'. Non sono totalmente affidabili, ma sono meno peggio degli altri. }
+{1115}{Gen_67}{Vuoi che ti parli dei Mercanti d'Acqua? Eheheh, beh... Non ci si puo' fidare di loro. Qualche anno fa ci offrirono acqua in cambio di una grossa partita di armi. Noi rifiutammo, e sai cosa fecero loro? Mandarono dei ladri per rubarci le armi! Quando lo scoprimmo, ci manco' poco che mandassimo una squadra armata all'Hub per dar loro una bella lezione.}
+{1116}{Gen_68}{Olodischi? Hmm? Sono secoli che non ne vedo uno.}
+{1117}{Gen_69}{Vree ce l'ha da qualche parte nella Biblioteca.}
+{1118}{Gen_70}{Roger Maxson eh? Beh, ha guidato qui la nostra gente durante il grande Esodo. Ha fondato la Confraternita dal nulla. Un leader niente male.}
+{1119}{Gen_71}{Beh, avvenne quando mio nonno, Roger Maxson, guido' qui i suoi soldati e fondo' la Confraternita. Non disse mai da dove venivano, ma non ha molta importanza, dato che... beh, ormai e' qui che viviamo.}
+{1120}{Gen_72}{Beh, io credo che un esercito si stia radunando a nord e tra le montagne a est, ma non ho modo di provarlo. Gli Anziani non mi stanno neppure a sentire. }
+{1121}{Gen_73}{Per come la vedo io, sono una manica di pazzi. Credo che la loro chiesa principale si trovi nel Boneyard.}
+{1122}{Gen_75}{Beh, non ne so molto. Ci sono delle bande, ma anche il villaggio di Adytum e la chiesa dei Figli della Cattedrale. Non molto altro. E' dannatamente desolato.}
+{1123}{Gen_76}{Beh, non c'e' molto da dire. Non le ho mai viste. Ho sentito che sono un problema per la gente di Adytum, pero'.}
+{1124}{Gen_77}{E' un insediamento in mezzo al Boneyard. Ci sono stato... hmmm... molto tempo fa. Dovevo esplorare la zona per conto degli Anziani.}
+{1125}{Gen_78}{Ah. E' solo un'altra stupida voce. Alcuni dicono che sia un enorme mostro dotato di zanne e altri credono che sia un vampiro.}
+{1126}{Gen_65}{Butch e' il capo dei Mercanti FarGo. E' un tipo un po' viscido, ma non e' troppo male. A differenza di quei Mercanti d'Acqua. Un branco di dannati avvoltoi, ecco cosa sono.}
+{1127}{Gen_70}{Roger Maxson eh? Beh, ha guidato qui la nostra gente durante il grande Esodo. Ha fondato la Confraternita dal nulla. Un leader niente male.}
+{1128}{Gen_75}{Beh, non ne so molto. Ci sono delle bande, ma anche il villaggio di Adytum e la chiesa dei Figli della Cattedrale. Non molto altro. E' dannatamente desolato.}
+{1129}{Gen_75}{Beh, non ne so molto. Ci sono delle bande, ma anche il villaggio di Adytum e la chiesa dei Figli della Cattedrale. Non molto altro. E' dannatamente desolato.}
+{1130}{Gen_80}{Come hai detto? No. Non credo di averne mai sentito parlare.}
+{1131}{Gen_71}{Beh, avvenne quando mio nonno, Roger Maxson, guido' qui i suoi soldati e fondo' la Confraternita. Non disse mai da dove venivano, ma non ha molta importanza, dato che... beh, ormai e' qui che viviamo.}
+{1132}{Gen_65}{Butch e' il capo dei Mercanti FarGo. E' un tipo un po' viscido, ma non e' troppo male. A differenza di quei Mercanti d'Acqua. Una manica di dannati avvoltoi, ecco cosa sono.}
+{1133}{Gen_81a}{Non ne ho la piu' pallida idea.}
+{1134}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1135}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1136}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1137}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+{1138}{Gen_68}{Holodisks? Hmm... I haven't seen those in a while.}
+

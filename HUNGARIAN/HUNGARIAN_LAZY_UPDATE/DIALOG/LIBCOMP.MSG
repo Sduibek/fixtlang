@@ -1,0 +1,16 @@
+{100}{}{Ebben a számítógépben óriási mennyiségû adatot tároltak el még a Nagy Háborû elõtti idõkben.}
+{101}{}{Használatba veszed a Menedék tanítórendszerét.}
+{102}{}{Eltöltesz egy kis idõt a Menedék számítógépes tanítórendszerével, de semmi fontosat nem sikerül elsajátítani. A külvilág a te tanítód.}
+{103}{}{You spend 6 hours researching any topic that seems important. You feel you have gained vital knowledge that will help you in your travels outside the Vault.}
+{104}{}{You spend 6 hours on the interwebs doing nothing of importance.}
+{105}{}{Matatsz egy kicsit a számítógéppel, de ha valamit ki szeretnél csikarni belõle, egy kicsit több tudományos ismeretre lesz szükséged.}
+#
+# Fallout Fixt:
+#
+# A number is inserted between 106 and 107/108/109
+{106}{}{You spend }
+{107}{}{ hours on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
+{108}{}{ hours on the interwebs doing nothing of importance. It was fun but leaves you feeling empty inside.}
+#
+# INT less than 4:
+{109}{}{ hours on the interwebs searching for pornography and videos of cats.}

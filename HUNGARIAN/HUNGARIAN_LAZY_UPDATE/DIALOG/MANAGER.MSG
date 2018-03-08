@@ -1,0 +1,30 @@
+{100}{}{You see an angry ghoul.}
+# the examine & look msgs are 200 & 201
+{101}{}{Micsinász itten?}
+{102}{}{A távoli múlt maradványait keresgélem.}
+{103}{}{Felfedezõ vagyok.}
+{104}{}{Mi a helyzet, féregszabású barátom?}
+{105}{}{Dagda.}
+{106}{}{Hogy szólt a szád?}
+{107}{}{Semmit.}
+{108}{}{Elveszett techológiákat keresek.}
+{109}{}{Gondótam, hogy eztet mondod. Menny el innét!}
+{110}{}{Ne csinájjad aztat itten! Tanán a templomba' vagy a vizesekné'. Na, menny-menny!}
+{111}{}{Fasza! Há' ne kutatgassá a cuccomba! Menny innét! Nem mondok mégeccer!}
+{112}{}{Ne keménykeggyé! Én viszek itten a balhét!}
+{113}{}{Igen.}
+{114}{}{Letépem a fejed és feldugom a...}
+{115}{}{Ajj! OKÉ, fogom! Megyek is...}
+{116}{}{Te nem vagyol senkise, hogy így parancsógassá'! Najerre varrjá' gombot!}
+{117}{}{Nem akarok beszé'ni veled.}
+{118}{}{Mi vagy te?}
+{119}{}{I'm a ghoul. You never seen a ghoul before?}
+{120}{}{De.}
+{121}{}{Nem nagyon.}
+{122}{}{Valami puhány mélylakó lehetel. Azé' hagynak életbe', hogy basztassá'. Na, tûnnyé kifelé!}
+{123}{}{Namosmá láttá'. Lehet e'húzni!}
+#
+# by Sduibek for Fallout Fixt:
+#
+{200}{}{He appears to be the owner of this establishment. The phrase "under new management" comes to mind.}
+{201}{}{You see: Hotel Manager.}

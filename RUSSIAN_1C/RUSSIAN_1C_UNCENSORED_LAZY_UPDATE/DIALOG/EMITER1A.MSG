@@ -1,0 +1,17 @@
+{100}{}{You do not see a control panel on this emitter.}
+{101}{}{Вы на короткое время отключаете силовое поле, повредив излучатель.}
+{102}{}{Вы выводите из строя излучатель. Силовое поле исчезает.}
+{103}{}{Вы ненадолго отключаете излучатель.}
+{104}{}{Вам ничего не удалось сделать с излучателем силового поля.}
+{105}{}{Вы включили излучатель силового поля.}
+{150}{}{Your attempt to re-wire the field emitter fails.}
+{151}{}{You turn off the field emitter.}
+{200}{}{You see a horribly-damaged field emitter.}
+{201}{}{The emitter is too damaged to use.}
+{202}{}{The emitter is too damaged to repair.}
+{203}{}{You notice that the field is damaged enough to walk through.}
+#
+# Fallout Fixt
+#
+{204}{}{A well-placed explosive blast might knock out the emitter completely.}
+{205}{}{You don't see any way to attach the explosives to the emitter. You'll need to place them nearby.}

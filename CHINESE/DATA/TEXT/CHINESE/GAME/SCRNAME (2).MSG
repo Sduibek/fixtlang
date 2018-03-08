@@ -979,7 +979,7 @@
 # {597}{}{Surf}                                           # Surf.int
 # {598}{}{Door}                                           # ChocDoor.int
 # {599}{}{Dane}                                           # Dane.int
-# {600}{}{Jonathan}                                       # Jonathan.int 
+# {600}{}{Jonathan}                                       # Jonathan.int
 # {601}{}{Brotherhood Student}                            # Student.int
 # {602}{}{Children of the Cathedral}                      # Cath2MV.int
 # {603}{}{Secure Door}                                    # Glo4Supl.int
@@ -1927,6 +1927,6 @@
 {1061}{}{修改的物品}                                  # Chitem.int
 #{1062}{}{Caravan Customer}
 {1062}{}{商队雇佣者}                              # carcust.int
-#{1063}{}{Boxer}                                         
+#{1063}{}{Boxer}
 {1063}{}{拳击手}                                         # jboxer.int
 #{1064}{}{}                                              # stapbox.int

@@ -1,0 +1,170 @@
+{100}{}{You see a kind-looking woman in a doctor's uniform.}
+{101}{}{You see: Lorri, the Head Doctor of the Brotherhood's medical facilities.}
+{102}{}{Добрый день, чем могу помочь?}
+{103}{}{У меня ранение.}
+{104}{}{У меня облучение.}
+{105}{}{Вы проводите операции?}
+{106}{}{Пожалуйста, расскажите еще раз об операциях.}
+{107}{}{You fix?}
+{108}{}{Вы ранены? Давайте посмотрим...}
+{109}{}{Вот так, теперь все в порядке. В следующий раз будьте осторожнее.}
+{110}{}{Вы должны объяснить мне, что с вами, иначе я не смогу помочь.}
+{111}{}{Выглядите вы нормально.}
+{112}{}{Готово. Надеюсь, вам лучше.}
+{113}{}{There you go, but stop getting into so many fights!}
+{114}{}{That should do, all fixed up.}
+{115}{}{Ну вот, все в порядке.}
+{116}{}{All better!}
+{117}{}{Радиация очень опасна. Больше не попадайте под облучение.}
+{118}{}{У меня нет времени на всякие глупости.}
+{119}{}{Конечно, но они дорого стоят и требуют много времени.}
+{120}{}{Можно чуть подробнее?}
+{121}{}{Все ясно. Спасибо.}
+#
+# 122 for Fallout Fixt if using Full install and/or Charimsa operation enabled:
+{122}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. I have also studied plastic surgery procedures. Which would you like more information on?}
+#
+# 222 is with "Bug Fixes Only" enabled, or Charisma operation disabled. Same message as VANILLA:
+{222}{}{Well, I can help make you stronger, more perceptive, increase your endurance, help improve your learning process, and increase your dexterity. Which would you like more information on?}
+#
+{124}{}{Who are you?}
+{125}{}{My name is Lorri. I lead the medical staff and administer all major surgeries and medical procedures. I am effectively the only Doctor here, thus I prefer to keep things on a first-name basis. And you are?}
+{126}{}{Okay, which operation would you like to talk about?}
+{127}{}{Сила.}
+{128}{}{Восприятие.}
+{129}{}{Выносливость.}
+{123}{}{Charisma.}
+{130}{}{Интеллект.}
+{131}{}{Ловкость.}
+{132}{}{Ничего.}
+{133}{}{That's easy to do, but there's a long recovery time. It only costs }
+{134}{}{I'm }
+{135}{}{Действуйте!}
+{136}{}{Спасибо, мне это не подходит.}
+{137}{}{Now that's a difficult operation. It costs }
+#
+# TRANSLATION NOTE: Player's name will be inserted after line 138. Then appends 152 and 142.
+#                   Brotherhood of Steel calls everyone "Brother ____", even females.
+#
+{138}{}{It's a pleasure to meet you, Brother }
+#
+{139}{}{Не самая сложная процедура. Стоит 3000, срок - неделя.}
+{140}{}{I've been poisoned!}
+{141}{}{Это самая сложная и опасная операция! Она отнимет у вас три недели и обойдется в 6000.}
+{142}{}{ Now, what can I do for you?}
+{143}{}{Операция не очень сложная, но дорогостоящая и занимает немало времени. 3 недели и 5000, если точно.}
+{144}{}{[Continue]}
+{145}{}{This operation is moderately difficult with a long recovery time. It will cost }
+{146}{}{Хорошо, вот так. Надеюсь, пена не вызывает у вас кожного раздражения.}
+{147}{}{К сожалению, я ничего могу сделать, если у вас нет денег.}
+{148}{}{Извините, не могу. Бесплатные операции положены тем, кто состоит в Братстве больше десяти лет, но вы даже не член Братства.}
+{149}{}{Let me know when you have the necessary funds for this operation.}
+{150}{}{I cannot accurately assess your physical strength while you are wearing Power Armor. Please remove it and speak with me again.}
+#
+#TRANSLATION NOTE: Player's name will be inserted between lines 151 and 152.
+#
+{151}{}{I'm }
+{152}{}{.}
+#
+{153}{}{Вас интересует какая-то другая операция?}
+#
+# 155 and 157 are for stupid characters.
+#
+{155}{}{Tummy feel sick!}
+{157}{}{Hep?}
+{158}{}{Hello again, how may I help you?}
+#
+#STRENGTH
+{154}{}{Okay, here goes nothing... Just kidding. We can start right away. (You breathe in the anesthetic and slowly slip away)}
+{156}{}{Ну, как мы себя чувствуем? (Вы сразу же ощущаете изменения.) А вы очень разговорчивы во сне. Все, можете идти! Удачного дня.}
+#
+#PERCEPTION
+{159}{}{Out with the old and in with the new... Where are my pliers? (You drop like a rock into an abyss)}
+{161}{}{На вид вы не изменились, а как по ощущениям? (Все ваши чувства обострились.) Ладно, освобождайте место для следующего!}
+#
+#ENDURANCE
+#Translation: "fall under" meaning fade into unconsciousness under the effect of the anesthetic
+{164}{}{Надеюсь, сердце у вас слева... (Она подмигивает вам, и вы засыпаете.)}
+{166}{}{Well, you do look a little bulkier now. (You feel great!) Let me know if there are any problems, and don't go swimming for at least an hour.}
+#
+#CHARISMA
+{180}{}{I hope you don't end up with a lazy eye like the last one... (You struggle to fight the drugs but they are too powerful)}
+{181}{}{My, my, you are striking. I really outdid myself. (She looks you up and down a few times and then seems to snap out of it) Oh, sorry, you're free to go now.}
+#182 and 185 are said by player:
+{182}{}{Thanks!}
+{185}{}{Not as striking as you.}
+#
+#INTELLIGENCE
+{168}{}{Так, еще раз, где находится мозг?.. И что делает эта штука? (Вы пытаетесь бороться с действием лекарств, но безуспешно.)}
+{170}{}{Well, it looks like I got it all back in. Everything seems to be running just fine. (It's as if the pathways of your thoughts have direct links to everything in your head, and your memories are much crisper)}
+#
+#AGILITY
+{174}{}{Alright, let's give it a spin. Try not to flinch. (The drugs are so... friendly. Your slumber comes quickly)}
+{176}{}{О'кей, вы готовы к труду и обороне. (Вы напрягаете мышцы и чувствуете, что ваши рефлексы стали быстрее.) Постарайтесь не уничтожить плоды моих стараний.}
+#
+# NOT Lorri
+#
+{200}{}{Вы видите медсестру.}
+{233}{}{ script but takes 3 weeks to heal.}
+{237}{}{ script, but the recovery from this operation is only a week.}
+{239}{}{ script.}
+{241}{}{ script.}
+{243}{}{ script.}
+{245}{}{ script and takes 3 weeks to heal.}
+{279}{}{Вам надо к доктору.}
+{280}{}{Доктор она, а не я.}
+{281}{}{Я только стажируюсь.}
+{282}{}{Я не могу вам помочь.}
+{283}{}{Лори - доктор.}
+{284}{}{Вам нужно обратиться к доктору.}
+{285}{}{Не волнуйтесь, она любит пошутить.}
+{286}{}{Она обожает розыгрыши.}
+#
+# Stat is already maxxed:
+{500}{}{I'm sorry but this operation will not help you.}
+#
+{400}{}{Мда, вам действительно нужно повысить интеллект. Знаете, я сделаю вам эту операцию за три тысячи вместо шести. Результат не гарантирую, но попробовать стоит. Вы пробудете у нас три недели. Хотя вы, наверное, даже не понимаете, о чем я говорю?}
+{401}{}{Хочет быть умный.}
+{402}{}{Do not want! Docs is scary...}
+{403}{}{Very well then. Are you irradiated or hurt? I'll help you if I can.}
+{404}{}{me Hurts.}
+{405}{}{hAir fall Out!}
+{406}{}{Nuh-uh.}
+{407}{}{О, вы проснулись. Итак, посмотрим. Вы чувствуете, что поумнели?}
+{408}{}{А-а?}
+{409}{}{Да!}
+{410}{}{Черт! Ничего не получилось. Впрочем, там и улучшать-то было нечего, по большому счету. Извините, но вы слабоумны, и это на всю жизнь. К сожалению, операцию можно провести только один раз.}
+{411}{}{Все отлично! Мне удалось увеличить уровень вашего интеллекта. Как вы себя чувствуете?}
+{412}{}{Отлично! Спасибо, доктор. Всего хорошего!}
+{413}{}{??? Вот так. Уже лучше.}
+#
+# for Fallout Fixt:
+#
+#Bionic Man, UNUSED:
+{502}{}{What other operations can you perform?}
+{503}{}{Well, technically I'm not supposed to talk about this, but we do have other procedures available. I warn you that some of them are very dangerous and have a risk of side-effects, while others are quite safe, but have an extremely long recovery time. Would you like more information?}
+#Poison examine
+{504}{}{Ah yes, let me see here...}
+#
+#Sex
+#
+{300}{}{Cute, but I'm not interested. Come back if you need medical attention.}
+{301}{}{No offense honey, but you're a little below my standards. I'm flattered though.}
+{302}{}{Oh, thank you so much. (She blushes) I don't really get any compliments. Being a Brotherhood Doctor is mostly just a stressful, thankless job. I like to joke around, to keep myself entertained and upbeat.}
+{303}{}{I understand. Wouldn't it help to blow off some steam once in a while?}
+{304}{}{You're welcome. Bye!}
+{305}{}{Well... I do get lonely sometimes, and you don't get any 'vacation time' when you're the only doctor in the Brotherhood. Oh, what am I saying though? This is so silly.}
+{306}{}{You should suck it up. Take pride in your work and the rest will follow.}
+{307}{}{Life's short and then you die. Don't you want to enjoy it while it lasts?}
+{308}{}{It's not silly at all. (Lightly touch her face, then lean in and kiss her)}
+{309}{}{Yes, I suppose you're right. (She shakes her head and sighs, then recomposes and smiles) Well, back to work! Thank you for the compliment.}
+{310}{}{(She thinks for a moment) You're right. And I do. Give me about ten minutes - I need to prep the exam table. (She smiles devilishly and bites her lower lip)}
+{311}{}{(She takes your hand and leads you to her room...)}
+{312}{}{That was beautiful. I... I think I'm in love with you. (She giggles) Just kidding! Alright, time to go. I have work to do.}
+{313}{}{Oh wow. I haven't been fucked like that in years. I think I'm going to be sore for a week, but it was worth it. (She looks at you longingly) Let's do this again soon!}
+{315}{}{Definitely. See you later.}
+{314}{}{Hey there, gorgeous. Looking to have some more fun?}
+{316}{}{What are you do- ... (She is startled at first, but quickly melts to your embrace and kisses you back tenderly, moaning softly. As your kissing becomes more passionate, she stops and pulls away) Come with me. (She stands and leads you to her quarters...)}
+{317}{}{Yes! You make me feel so beautiful and wanted.}
+{318}{}{(She smiles and takes your hand...)}
+{319}{}{Well, I do need some brushing up on my anatomy lessons... (She winks)}

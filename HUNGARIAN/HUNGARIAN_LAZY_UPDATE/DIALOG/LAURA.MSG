@@ -1,0 +1,234 @@
+{100}{}{Ez a nõ Laura.}
+{102}{laura0m}{Üdv, testvérem. Szolgálatodra lehetek e dicsõséges napon?}
+{104}{laura0f}{Üdv, nõvérem. Szolgálatodra lehetek e dicsõséges napon?}
+{105}{}{Te vagy Laura?}
+{106}{}{Feltehetek néhány kérdést a Gyermekekkel kapcsolatban?}
+{107}{}{Miféle "szolgálatról" van szó?}
+{108}{}{Mami?}
+{110}{laura01a}{Ez nagyon kedves tõled, de nem én vagyok a mamád. Biztos vagyok benne, hogy megtalálod õt valahol.}
+{112}{laura2}{Ennél jobban nem is lehetnék. Szeretnél valamit?}
+{113}{}{Nicole küldött, hogy beszéljek veled.}
+{114}{}{Öh... nem. Felejtsük el!}
+{116}{laura3}{Nicole? Sajnálom, de nemigen ismerek senkit ezen a néven.}
+{117}{}{Nos azt mondta, hogy mondjam azt is, hogy "Red Rider".}
+{118}{}{Dehogynem ismered! Õ küldött!}
+{120}{laura4}{Elnézést... én... nem is tudom. Kövess egy olyan helyre, ahol beszélhetünk!}
+{122}{laura9}{Sajnálom, hogy kényelmetlenséget okozok. Remélem, nem bánt nagyon.}
+{124}{laura10}{Biztos vagy... benne? Öö... bocsásd meg a kiváncsiságomat, de úgy tûnt, kifejezetten engem keresel.}
+{125}{}{Az a helyzet, hogy Nicole küldött hozzád.}
+{126}{}{Csak hallottam rólad, és látni akartam, hogy nézel ki.}
+{128}{laura11}{Öö... sajnálom, de az ilyen figyelmesség kissé idegessé tesz. Nem tudom, miért, buta dolog ez, tudom. Mindenesetre, kellemes idõtöltést!}
+{130}{laura14}{Engem nehezen lehetne hivatalos személynek nevezni. Morpheusszal kellene találkoznod, õ a Fõpapunk. Biztos vagyok benn, hogy õtõle több segítséget kaphatsz, mint tõlem.}
+{132}{laura15}{De én csak... ah... mennem kell.}
+{134}{laura16g}{Üdv! Csak körbenézel vagy segíthetek valamiben?}
+{136}{laura16b}{Van valami... amiben segíthetek?}
+{137}{}{Te vagy Laura?}
+{138}{}{Feltehetek néhány kérdést a Gyermekekkel kapcsolatban?}
+{139}{}{Azt hiszem, nem, kösz.}
+{140}{}{Öh, Mami?}
+{142}{laura16a}{Nem. Errõl már beszéltünk. Valahova máshova kéne menned, barátom.}
+{144}{laura21}{Jaj, de örülök, hogy rámtaláltál. Nicole küldött egy listát azzal az információval, amit nekem kellett volna megszereznem.}
+{145}{}{Na, és mit kaptál?}
+{147}{laura22}{Öhm. Olyan sok minden van, amit én... nem vagyok biztos abban, mire van szükséged, vagy hol kéne kezdeni a dolgot. Van valami, amit kifejezetten tudni szeretnél?}
+{148}{}{Van valami titkos bejárat a templom Belsõ Szentélyébe?}
+{149}{}{Mit tudtál meg a Mesterrõl?}
+{150}{}{Mik a Gyermekek tervei?}
+{151}{}{Egy ilyen aranyos lány mit csinál ilyen helyen?}
+{152}{}{Semmi egyebet, kösz.}
+{154}{laura24}{Nem a Belsõ Szentély itt a lényeg.}
+{155}{}{Hanem?}
+{157}{laura25}{Követtem Morpheust lefelé egy hátsó titkos lépcsõn. Egy titkos ajtót aktivált odalenn.}
+{158}{}{Hanem?}
+{159}{}{Meg tudnád mutatni azt az ajtót?}
+{161}{laura26}{Egy fura kulcsot használ a kinyitáshoz aztán mindig eltûnik. Sosem próbáltam utána eredni.}
+{162}{}{Tudod, hol lehet az a kulcs?}
+{163}{}{Miért nem?}
+{165}{laura27}{Szerintem mindig magánál tartja.}
+{166}{}{Megmutatnád azt az ajtót?}
+{168}{laura28a}{Persze.}
+{169}{}{Remek. Menjünk!}
+{170}{}{Kérdezhetek elõbb egy-két dolgot?}
+{172}{laura29}{Gyere utánam!}
+{174}{laura30a}{Oké, de sietnünk kell.}
+{176}{laura30b}{Gyorsan-gyorsan!}
+{178}{laura31}{Higgy nekem, ha látnád az Éjfajzatokat, értenéd. Hacsak nem hülyültél meg teljesen.}
+{179}{}{Lehet, hogy megülyültem, de nem félek.}
+{180}{}{Értem az aggályaidat. Visszatérhetünk a kérdéseimre?}
+{182}{laura32}{Ez aztán tényleg muris. Figyi, egész álló nap ezt csinálom. Ha van valami bajod vele, tartsd meg magadnak! Kapisgálod?}
+{183}{}{Mi a következõ lépés részedrõl? Nyavajogsz még egy sort?}
+{184}{}{Ha ez megfelel neked...}
+{185}{}{Igazad van, elnézést. Mi lenne, ha visszatérnénk a fontos dolgokhoz?}
+{187}{laura33}{Hát, nem sokat. A Gyermekek körberajongják, néhanapján még fel is tûnik egy hatalmas kép róla a templom egyik hajójában.}
+{188}{}{Ezek szerint valódi?}
+{189}{}{Félelmetesen hangzik.}
+{191}{laura34}{Igen is meg nem is. Egyik nap odasettenkedtem a templom végébe és az oltár alatt találtam egy fura mechanikus berendezést, melyre egy lencsét szereltek.}
+{192}{}{Valószínûleg valami holo-vetítõ.}
+{193}{}{És?}
+{195}{laura35}{Mi?... higgy nekem, elsõre annak is tûnt, de egyszer odasettenkedtem a templom végébe és amikor senki nem látott, mögé pillantottam. Találtam ott egy csupa drótból meg egy nagy lencsébõl álló berendezést.}
+{196}{}{Valószínûleg valami holo-vetítõ.}
+{197}{}{És?}
+{199}{laura36}{Szinte biztos vagyok abban, hogy a Mester hús és vér személy. És még a tartózkodási helyét is ismerem.}
+{200}{}{Merre van?}
+{202}{laura37}{Néhanapján Morpheus használni szokta a templom alagsorába vezetõ titkos lépcsõt. Van ott valami titkos ajtó, amit valami kulccsal nyitogat. Szerintem a Mester odalent van.}
+{203}{}{Meg tudnád most mutatni azt az ajtót?}
+{204}{}{Tudod, hol lehet az a kulcs?}
+{206}{laura38}{Ez elég ijesztõ. Morpheus azt prédikálja, hogy a földet "megtisztítjuk a hitetlenektõl", és hasonló baromságok. Szerintem mindent maguknak akarnak kaparintani!}
+{207}{}{Képesek vajon rá?}
+{208}{}{Mi az elsõ célpontjuk?}
+{210}{laura39}{Tudod, hogy megtörténhet. Úgy értem, elég követõjük van, és különbözõ városokban fellelhetõ kórházakban fegyverek és lõszerek egész arzenálját halmozták fel.}
+{211}{}{El kell ezt mondanunk a Tanítványoknak.}
+{212}{}{Mit akarsz csinálni?}
+{214}{laura40}{Már tervbe vettem. Amint kész vagyunk, indulok hozzájuk.}
+{215}{}{Egy gyors kérdést feltehetek?}
+{216}{}{Akkor hagylak...}
+{218}{laura41}{Oké. Sok szerencsét!}
+{220}{laura42}{Azt hiszem, figyelmeztetetm Nicole-t. Remélhetõleg a Tanítványok tudnak segítséget küldeni a többi városba.}
+{221}{}{Elõször szeretnék még feltenni néhány kérdést.}
+{222}{}{Oké, hagyom, hogy menj...}
+{224}{laura43}{Adytumnak fikarcnyi esélye sincs.}
+{225}{}{Mi a helyzet a Tanítványokkal?}
+{226}{}{Tudok segíteni Adytumon?}
+{228}{laura44}{A Gyermekek szerint nem jelentünk jelentõs veszélyt. Majd meglátják.}
+{229}{}{Jó. Mit tervezel most?}
+{230}{}{Segíthetnék valahogy Adytumon?}
+{232}{laura45}{Igen, segíthetsz rajtuk, ha eljutsz a Mesterhez. Harapd le a kígyó fejét, akkor majd nem tekeredik rád - ezt a nagyanyám mondta régen. Lehetett rá számítani.}
+{233}{}{Hogy jutok el hozzá?}
+{234}{}{Várjunk egy pöttyet. Mielõtt elmész, választ szeretnék kapni néhány kérdésemre.}
+{235}{}{Akkor megyek...}
+{237}{laura46}{Az összes várost maguknak akarják!}
+{238}{}{Például?}
+{240}{laura47}{Adytum már odalett. A Hub a következõ.}
+{241}{}{A Tanítványok mit csinálnak közben?}
+{242}{}{Fenébe. Mit lehetne tenni?}
+{244}{laura48}{Elküldtünk egy csapatot Adytum megsegítésére, és mindegyiküket megölték. Nicole elküldött egy másikat a Hubba is. Remélem, idõben megérkeznek.}
+{245}{}{Fenébe. Mit lehetne tenni?}
+{247}{laura49}{Már elfoglalták a Hubot és Adytumot! Szerintem a Tanítványok bekebelezése a következõ lépés, ezért nekiálltunk a védelem kiépítésének.}
+{248}{}{Miért vagy akkor még itt?}
+{249}{}{Mit tehetnék én?}
+{251}{laura50}{Azért vagyok még itt, hogy szemmel tartsam a Gyermekeket.}
+{252}{}{Mit tehetnék én?}
+{254}{laura51}{A Gyermekek mindenfelé kórházakat létesítettek. Szerintem el akarják nyerni az emberek bizalmát.}
+{255}{}{És beválik?}
+{256}{}{Meg lehetne valahogy állítani õket?}
+{257}{}{Ez a legnagyobb hülyeség, amit valaha hallottam!}
+{259}{laura52}{Hát, nagyon úgy néz ki... úgy értem, az emberek egyre csak özönlenek az Egyházukba. Miért nem látják, hogy kamu az egész?}
+{260}{}{Biztos, hogy kamu?}
+{261}{}{Hogy állíthatnám meg õket?}
+{263}{laura53}{Az emberek szép lassan fogyatkoznak errefelé, míg az Éjfajzatok száma lassacskán nõ.}
+{264}{}{Miért?}
+{265}{}{Nem hangzik valami jól, de mielõtt cselekednék, további válaszokra van szükségem.}
+{267}{laura54}{Nem tudom. Azért vagy itt, hogy kiderítsd, nem?}
+{269}{laura55}{Találd meg a Mestert és fékezd meg!}
+{270}{}{Mit tudtál meg errõl a Mesterrõl?}
+{271}{}{Úgy lesz.}
+{273}{laura56}{Hát mocskosul remélem. Van még kérdésed? }
+{275}{laura57}{Igaz, ami igaz, nem rossz módja ez az emberek manipulációjának, és a Mester fene jól ért hozzá.}
+{276}{}{Nem, úgy értettem, hogy ez legnagyobb hülyeség, amit tõled hallottam. Paranoiás vagy talán?}
+{277}{}{Jól van, megyünk és megfékezzük õkelmét!}
+{278}{}{Hogy vethetnék ennek véget?}
+{280}{laura58}{Hogy mondod?}
+{281}{}{Jól hallottadd.}
+{282}{}{Felejtsük el.}
+{284}{laura59}{Na, jól van. Sok szerencsét!}
+{286}{laura60}{Öö.. heh... Kétségbeesve vártam már valakire, aki a szemembe vágja ezt a dumát.}
+{288}{laura61a}{Akkor tehát mit tehetek érted?}
+{290}{laura61b}{És most mi legyen?}
+{291}{}{Fel kell még tennem néhány kérdést.}
+{292}{}{Semmit, köszönöm.}
+{294}{laura62}{Mit csinálsz? Tedd le azonnal!}
+{296}{laura63}{Hé! Tûnés kifelé!}
+{297}{}{Mert különben?}
+{298}{}{Elnézést, már megyek is.}
+{300}{laura64}{Hagyd ezt abba!}
+{302}{laura65}{Mi a... mi a fenét csinálsz itt? Távozz innen!}
+{303}{}{Nem, és szépen kimész innen!}
+{304}{}{Oké, megyek.}
+{306}{laura67}{Hát... nem vagyok valami biztos benne. Beszélj errõl Nicole-lal!}
+{308}{laura67a}{Nem vagyok ebben biztos. Beszélj a Fõpapnõvel!}
+{309}{}{Nos, amint az már mondtam...}
+{310}{}{I said... }
+{311}{}{Már említettem ezt...}
+{312}{}{Mint, ahogy már említettem...}
+{313}{}{Eléggé meg vagyok gyõzõdve, hogy ezt már elmondtam, de...}
+{314}{}{Oké! Erre már válaszoltam...}
+{315}{}{Még egyszer akarod hallani? Már elmondtam egyszer...}
+{316}{}{Egyszer már elmondtam...}
+{317}{}{Ez azért elég idegesítõ. Egyszerûen nem fogom még egyszer elmondani.}
+{318}{}{Te esetleg... Oké! Oké! Süket vagy tán? Olvass a számról! Nem mondom el még egyszer!}
+{319}{}{Kezd ebbõl elegem lenni. Nem ismétlem magam.}
+{320}{}{Nem figyelsz rám, mi? Elég baj, mivel nem fogom még egyszer elmondani.}
+{321}{}{Jaj, micsoda szörnyû népség. Egy szót nem akarok rájuk vesztegetni!}
+{322}{}{Nicole valószínûleg mesélt már rólunk. próbálunk egy kis értelmet csiholni azokba a tökkelütött, fegyvermániás, erõszakos hólyagokba... kivétel persze a jelenlévõk...}
+{323}{}{Hát, nem igazán tudom, kirõl beszélsz.}
+{324}{}{Õ vezeti a Tanítványokat. Nagyon erõs jellem. Bízom benne.}
+{325}{}{A többiek olyan kedvesek! Nagyon jó ez a hely. Van hova tartozni és jót teszünk...}
+{326}{}{Oh, they're like a . . . blight on the world. Most are a waste and a few are just plain evil.}
+{327}{}{Adytum nem egy nyugatra lévõ város?}
+{328}{}{Adytum valamelyest nyugatabbra fekszik tõlünk. Az ottaniak... hogy is mondjam, egy kicsit üldözési mániában szenvednek, szóval ne sok vendégszeretetre számíts!}
+{329}{}{Õ csodálatos ember! A vezetõnk. Beszélned kéne vele!}
+{330}{}{Békérõl és megvilágosodásról prédikál, meg mindenféle hasonló marhaságokról, de attól még egy görény, nem kétséges.}
+{331}{}{Nehéz õt leírni. Morpheus a vezetõnk. Igazságot tesz minden kérdésben.}
+{332}{}{Ah, igen, a Mester... õt istenként imádják ezek az elmebajosok. Személy szerint kétlem, hogy isten lenne, inkább egy mindenkit manipuláló ügyeskedõ.}
+{333}{}{Éjfajzat? Nem tudom, mirõl beszélsz.}
+{334}{}{Õk Morpheus és a Mester nagy darab, rusnya rendfenntartói.}
+{335}{}{Hogy micsoda?}
+{336}{}{nem jöttél még rá, hogy a Mesterrõl van szó?}
+{337}{}{A templom északi részén lévõ tágas hely, ahol Morpheus a ceremóniákat tartja. Voltam már ott, csodálatos!}
+{338}{}{A templom északi részén lévõ tágas hely. Morpheus ott csinálta a kis cirkuszi produkcióját.}
+{339}{}{Oda nem lehet bemenned. Az Morpheus elmélkedõhelye.}
+{340}{}{Az az a hely, ahol Morpheus és a talpnyalói az idejüket töltik. Senkit nem engednek be oda.}
+{341}{}{Õk azok, akik már bizonyítottak az Egyház felé. A többiek csak szeretnék ezt elérni.}
+{342}{}{Ja, igen, õk azok, akik túlélték a kínzásokat, meg még ki tudja, mit. Teljesen agymosottak, és bármit megcsinálnak, amire utasítják õket.}
+{343}{}{Õk a Fõpapok.}
+{344}{}{Ah, õk a Fõpapok. Úgy tudom, eddig tizenhárman vannak, de nem lennék biztos benne.}
+{345}{}{Ez nem fontos.}
+{346}{}{Ez nem fontos.}
+{347}{}{Sajnálom, de egyszerûen nincs idõm ilyesmire.}
+{348}{}{Nincs idõnk, hogy ilyesmirõl beszélgessünk! Tartsuk magunkat a lényeghez!}
+{349}{}{Nem tudom, miért akarsz errõl beszélni.}
+{350}{}{Maradjunk a témánál, barátom.}
+
+# added by WG from genchat
+{477}{}{Please, we must hurry. We don't have time to speak.}
+{478}{}{Only Morpheus has the key to this door. I must leave now to let Nicole know what is going on here.}
+{479}{}{Please, I have to get away from here before they find out who I am.}
+# added by WG
+{480}{}{Only Morpheus has the key to this door. I must leave now.}
+
+
+
+#
+# Laura Tell-Me-Abouts
+#
+
+
+{1000}{}{Tanitvany}
+{1001}{}{Nicole}
+{1002}{}{Katedralis}
+{1003}{}{Morpheus}
+{1004}{}{Mester}
+{1005}{}{Ejfajzat}
+{1006}{}{Dark}
+{1007}{}{Auditorium}
+{1008}{}{Szentely}
+{1009}{}{Szolga}
+{1010}{}{Rend}
+{1011}{}{Apokalipszis}
+{1012}{}{Isten}
+{1013}{}{Mutans}
+
+{1100}{laura74}{Jaj, micsoda szörnyû népség. Egy szót nem akarok rájuk vesztegetni!}
+{1101}{laura75}{Hát, nem igazán tudom, kirõl beszélsz.}
+{1102}{laura76a}{A többiek olyan kedvesek! Nagyon jó ez a hely. Van hova tartozni és jót teszünk...}
+{1103}{laura78}{Õ csodálatos ember! A vezetõnk. Beszélned kéne vele!}
+{1104}{laura79}{Nehéz õt leírni. Morpheus a vezetõnk. Igazságot tesz minden kérdésben.}
+{1105}{laura80}{Éjfajzat? Nem tudom, mirõl beszélsz.}
+{1106}{laura81}{Hogy micsoda?}
+{1107}{laura82}{A templom északi részén lévõ tágas hely, ahol Morpheus a ceremóniákat tartja. Voltam már ott, csodálatos!}
+{1108}{laura83}{Oda nem lehet bemenned. Az Morpheus elmélkedõhelye.}
+{1109}{laura84}{Õk azok, akik már bizonyítottak az Egyház felé. A többiek csak szeretnék ezt elérni.}
+{1110}{laura85}{Õk a fõpapok.}
+{1111}{laura74}{Jaj, micsoda szörnyû népség. Egy szót nem akarok rájuk vesztegetni!}
+{1112}{laura81}{Hogy mi?}
+{1113}{laura80}{Éjfajzat? Nem tudom, mirõl beszélsz.}
+

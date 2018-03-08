@@ -1,0 +1,80 @@
+{100}{}{你看到一名商队领队。}
+{101}{}{给你，这是你的}
+{102}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{103}{}{个瓶盖，只要你帮我们回哈勃城。我们在这里歇一会，别走太远，我们随时动身，可不等你。}
+{104}{}{Aaa... Okay.}
+{105}{}{商队要等多久才启程？}
+{106}{}{你能告诉我迦克镇的事情吗？}
+{107}{}{你能告诉我晒骨场的事情吗？}
+{108}{}{你能告诉我钢铁兄弟会的事情吗？}
+{109}{}{不知道你记住没有，我们两小时后出发，或者你在此之前和我们说一声我们就走。}
+{110}{}{哦……}
+{111}{}{呼？}
+{112}{}{走。好的，走。}
+{113}{}{要命啊，我们现在都要雇傻子了。}
+{114}{}{我们通常在到达这里两小时后回程，我们来这里也不是一次了，没什么想看的，你如果想早点走，和我们说一声就马上动身。}
+{115}{}{我想走之前再转转。待会见。}
+{116}{}{好，我们回哈勃城吧，这里也没什么看的了。}
+{117}{}{你能告诉我迦克城的事情吗？}
+{118}{}{你能告诉我晒骨场的事情吗？}
+{119}{}{你能告诉我钢铁兄弟会的事情吗？}
+{120}{}{基本和哈勃城很像，真的很像。问题也不小：黑帮，流氓，小偷，哪里都缺不了这些人，不过呢，我喜欢这种城市。【大笑】}
+{121}{}{商队要等多久才启程？}
+{122}{}{我想走之前再转转。待会见。}
+{123}{}{这里是晒骨场的内城区。晒骨场基本由黑帮控制，很不友好。你要小心点。内城区由管理者们控制，他们希望通过黑帮战争一统全城，所以对外来人特别怀疑，如果你还没见过他们，你最好去打个招呼再去逛街。}
+{124}{}{Empty}
+{125}{}{商队要等多久才启程？}
+{126}{}{我想走之前再转转。待会见。}
+{127}{}{我所知道的也不多。兄弟会对他们的事情讳莫如深。很多人说他们坏话，但从我的观察来看，他们是好人。虽然狂热，但还算善良。}
+{128}{}{商队要等多久才启程？}
+{129}{}{我想走之前再转转。待会见。}
+{130}{}{准备好出发了？}
+{131}{}{出发！}
+{132}{}{不。我还要再转转。}
+{133}{}{好，出发。}
+{134}{}{这里是晒骨场的内城区。晒骨场基本由黑帮控制，很不友好。你要小心点。}
+{135}{}{商队要等多久才启程？}
+{136}{}{我想走之前再转转。待会见。}
+{137}{}{好，你的活儿结了，这是你的}
+{138}{}{块。如果你还想干，和我们老板说。很高兴以后能和你再次合作。我在老板面前会为你美言几句的，别担心。}
+{139}{}{再见。}
+{140}{}{回见。}
+{141}{}{嘿，情况如何？}
+{142}{}{如果你想接着干，和老板说。}
+{143}{}{你是不是有毛病啊。}
+{144}{}{你他妈的是个疯子！}
+{145}{}{我才不想和你共事！}
+{146}{}{２００}
+{147}{}{４００}
+{148}{}{６００}
+{149}{}{你对大墓地有何看法？}
+{150}{}{那是个恶心的地方，知道不。}
+{151}{}{商队已经走了。}
+{200}{}{唔唔唔唔……}
+{201}{}{唔唔唔唔……我希望我能理解。}
+{300}{}{少管闲事，明白？}
+{400}{}{我不是靠和你聊天挣钱的。}
+{501}{}{Care to tell me why you abandoned the fucking caravan?? I can't believe it! Lucky for you, they finished without yer sorry ass! Get out! I'm not paying you anything!}
+{502}{}{I can't believe it! We've lost the whole caravan! Get out! I ain't paying you anything!}
+{504}{}{Go to the boss and try to come up with a credible story for why you abandoned the fucking caravan. Maybe then you'll get yer money, but I doubt it.}
+{505}{}{I can't believe it! We've lost the whole caravan! I ain't paying you anything. Get out of my face.}
+{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses y'know. Here's your payment of }
+{601}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
+{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy.}
+{603}{}{ caps. (He pulls out an old dog-eared bag and gives you the caps) }
+{604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
+{605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}
+#
+# Unload caravan quest - WG@RestorationProject
+#
+{506}{}{Any jobs for me here?}
+{507}{}{Me wanna job!}
+{508}{}{We need muscles to unload the caravan. I'll pay you }
+{509}{}{ caps.}
+{510}{}{Ug!}
+{511}{}{Nop.}
+{512}{}{I'm on it.}
+{513}{}{I don't like this.}
+{520}{}{You've spent an hour unloading the caravan.}
+{521}{}{You help finish unloading the caravan and are handed }
+{522}{}{ caps.}

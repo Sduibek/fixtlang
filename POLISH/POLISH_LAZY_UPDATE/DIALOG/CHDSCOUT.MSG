@@ -1,0 +1,97 @@
+{100}{}{You see an alert scout.}
+{101}{}{Kto tam idzie?}
+{102}{}{Ja. Ja.}
+{103}{}{Kto gdzie idzie?}
+{104}{}{To ja!}
+{105}{}{Wcielenie Œmierci!}
+{106}{}{Przyjaciel. Pokój z tob¹.}
+{107}{}{Meme? What kind of name is that? Well, get out of here! This is the property of the Children of the Cathedral.}
+{108}{}{He? Ja zostaæ!}
+{109}{}{He? Ty ginonæ!}
+{110}{}{Ja nie chcieæ iœæ.}
+{111}{}{Wspaniale. Ze wszystkich osób do zatrzymania, zatrzymujê akurat kawa³ miêcha armatniego. Czym mogê s³u¿yæ?}
+{112}{}{Iœæ pa-pa!}
+{113}{}{Nicnic.}
+{114}{}{Pymóc tobi.}
+{115}{}{OK. Lepiej st¹d zniknij, zanim stanie ci siê krzywda.}
+{116}{}{Chcesz mi pomóc? W¹tpiê. O co ci chodzi?}
+{117}{}{Nicnic.}
+{118}{}{To-o!}
+{119}{}{Kupta.}
+{120}{}{Rozumiem, o marnowanie mojego czasu. Sp³ywaj!}
+{121}{}{Kupta. Kupta? Co to "kupta"?}
+{122}{}{Niamniam.}
+{123}{}{Nienic.}
+{124}{}{Krupta! Krupta!}
+{125}{}{A, chcesz cukierka. Przykro mi, nie mam ani jednego. ¯egnaj.}
+{126}{}{Ach, Krypta. Na pewno jest bardzo milutka. Mo¿e porozmawiasz o niej z którymœ z moich prze³o¿onych. Ja teraz mam trochê inne sprawy na g³owie.}
+{127}{}{Tu jest bardzo niebezpiecznie. Wielkie, z³e potwory opanowa³y to miejsce. Staramy siê uratowaæ co siê da, zanim one wróc¹.}
+{128}{}{Nie iœæ! Nie iœæ!}
+{129}{}{Uh-oh.}
+{130}{}{Buh-bye.}
+{131}{}{OK. Jak ci pasuje. Kiedy tu wróc¹, mo¿esz staæ siê ich obiadem.}
+{132}{}{Ja zabiæ! Ja zabiæ!}
+{133}{}{Buh-bye.}
+{134}{}{Mo¿esz spróbowaæ. Mam jednak pewnoœæ, ¿e daleko nie dotrzesz. ¯yczê ci szczêœcia.}
+{135}{}{Zgadza siê, oj ³oj. S¹ wredne. Próbujemy sprawiæ, ¿eby zrozumia³y, ¿e ludzie i potwory mog¹ ¿yæ razem.}
+{136}{}{Oh. Okay. Buh-bye.}
+{137}{}{Zwyczajnie powiedz mi, kim jesteœ, zanim odstrzelê ci g³owê.}
+{138}{}{Nale¿ê do Uczniów. Gdzie siê wszyscy podziali?}
+{139}{}{Nale¿ê do was. A teraz mnie przepuœæ.}
+{140}{}{Jestem }
+{141}{}{. Zapamiêtaj to sobie!}
+{142}{}{Nie muszê.}
+{143}{}{GIÑ!!!}
+{144}{}{ChodŸ ze mn¹. Poka¿ê ci, gdzie siê podziali wszyscy pozostali.}
+{145}{}{To jesteœ Uczniem?}
+{146}{}{Oczywiœcie! A niby kim?}
+{147}{}{Nie, nale¿ê do Dzieci.}
+{148}{}{G³uptas ze mnie. Zdawa³o mi siê, ¿e jesteœ kimœ innym. ChodŸ ze mn¹. Poka¿ê ci drogê.}
+{149}{}{Nie pamiêtam ciê. Jak siê nazywasz?}
+{150}{}{Jestem }
+{151}{}{. Jak mo¿esz mnie nie pamiêtaæ?}
+{152}{}{Nie twoja sprawa.}
+{153}{}{Jestem twoim najgorszym koszmarem.}
+{154}{}{Przykro mi. Nadal ciê sobie nie przypominam. Mo¿e ktoœ inny bêdzie pamiêta³, kim jesteœ.}
+{155}{}{Tak, przypominasz mi siê. Kazano nam ciebie szukaæ. Zemsta bêdzie moja!}
+{156}{}{Jesteœ na obszarze mojego patrolu. To jest moja sprawa. Mów lub giñ!}
+{157}{}{W porz¹dku. Jestem }
+{158}{}{. Dzwoni ju¿ w którymœ Koœciele?}
+{159}{}{Hmmm. Ja myœleæ... ZABIÆ!}
+{160}{}{Niech no pomyœlê.}
+{161}{}{Popatrzmy. Twoje imiê to }
+{162}{}{. Zgadza siê?}
+{163}{}{Tak, ty durniu.}
+{164}{}{Tak.}
+{165}{}{Nie, g³upolu. Wcielenie Œmierci!}
+{166}{}{Dobrze. Tylko upewniam siê co do twojego nagrobka.}
+{167}{}{Zatem nie muszê pozostawiaæ ciê przy ¿yciu. Dobranoc.}
+{168}{}{A kim jesteœ?}
+{169}{}{Nale¿ê do Uczniów. Gdzie siê wszyscy podziali?}
+{170}{}{Nale¿ê do was. A teraz mnie przepuœæ.}
+{171}{}{Jestem }
+{172}{}{. Zapamiêtaj to sobie!}
+{173}{}{Nie muszê.}
+{174}{}{GIÑ!!!}
+{175}{}{Wcielenie Œmierci, co? Dla mnie wygl¹dasz bardziej jak przynêta na ryby.}
+{176}{}{Skoro nie jesteœ wrogiem, udowodnij to.}
+{177}{}{Mam swój udzia³ w zabijaniu Uczniów.}
+{178}{}{Mam swój udzia³ w zabijaniu Rozpruwaczy.}
+{179}{}{Mam swój udzia³ w zabijaniu tych mutanctw.}
+{180}{}{Mam swój udzia³ w zabijaniu Dzieci.}
+{181}{}{Naprawdê? Myœlê, ¿e mój szef chcia³by o tym wiêcej us³yszeæ. IdŸ poszukaæ Orfeusza. On bêdzie w stanie ciê wynagrodziæ za twoj¹ pomoc.}
+{182}{}{Jak na kogoœ, kto przybywa w pokoju, cholernie du¿o zabijasz. Ale ci Rozpruwacze sprawiali ca³kiem sporo k³opotów. Orfeusz mo¿e ciê wynagrodziæ za twoj¹ pomoc.}
+{183}{}{Zabijasz nieszkodliwe stworzenia, które s¹ koñcowym wytworem niszczycielskiej natury cz³owieka, i jeszcze mówisz o pokoju?}
+{184}{}{Przepraszam. By³y brzydkie, wiêc moje poczucie estetyki kaza³o mi je rozstrzelaæ.}
+{185}{}{Wszêdzie krzywdzi³y ludzi.}
+{186}{}{Teraz zabijê ciebie.}
+{187}{}{Mimo wszystko pozwolê ci ¿yæ. Myœlê, ¿e lepiej bêdzie, jak ciê przygarniemy, by oczyœciæ ciê z tych destruktywnych myœli.}
+{188}{}{Zabawne. Zdawa³o mi siê, ¿e widzê paru z nich na ulicy, jak próbuj¹ zrobiæ czystkê gangom.}
+{189}{}{Zaatakowali Ostrza?}
+{190}{}{Co siê sta³o z Adytum?}
+{191}{}{Giñ, szumowino!}
+{192}{}{Tych frajerów ju¿ nie ma.}
+{193}{}{To dobrze. No, bywaj.}
+{194}{}{A teraz, ciebie te¿ nie bêdzie.}
+{195}{}{To stamt¹d ciê znam. Czas na odp³atê!}
+{196}{}{To znowu ty. Myœla³em, ¿e zdo³asz siê wreszcie czegoœ nauczyæ. Zdaje siê, ¿e ci to za dobrze nie posz³o.}

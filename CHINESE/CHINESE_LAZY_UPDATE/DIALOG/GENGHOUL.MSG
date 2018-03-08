@@ -1,0 +1,45 @@
+{100}{}{You see a zombie ghoul.}
+{101}{}{You see: Zombie.}
+{102}{}{Ugh.}
+{103}{}{Brrrrraaiinsss}
+{104}{}{Buuuu...}
+{105}{}{Uuhnnng..}
+{106}{}{Grrr!}
+{107}{}{嗯哼哼。}
+{108}{}{Mmmuuh...}
+{109}{}{Arrrr!}
+{110}{}{Grrrrr!}
+{111}{}{*groan*}
+{112}{}{*gurgle*}
+{113}{}{Mmmmmmm.}
+{114}{}{*groan*}
+
+# Examining the ghouls, restored from original Fallout files
+
+{200}{}{你检查了这个可怜的东西，但是并没有发现是什么让它变成了这样。}
+{201}{}{它看来似乎曾经是人类，至少是人类后裔。你猜躯体上的性状很可能是酸或辐射所致。}
+{202}{}{这具类人的躯体看上去被大剂量照射过，但是生理机能仍然在运作。尽管曾经属于人类，它看来似乎已经返祖为更具兽性的生命形态。}
+{203}{}{这具类人的躯体看上去被大剂量照射过，许多肌肉和脑组织看起来似乎已经退化。但是基因指示剂让你相信它就和你一样，是那些进入避难所的居民后裔。}
+{204}{}{This pitiful thing is highly irradiated. You cannot determine whether it has gone mad from being caged, or has simply lost too much brain matter due to radiation damage.}
+{205}{}{The body of the humanoid looks to be highly irradiated, however it has maintained enough brain matter and motor function to be able to speak clearly.}
+
+# Messages when getting rads during combat with irradiated critters (glowing ones, radrats, etc)
+# Listed in different formats, in case I want to implemented user choice of how it displays. --Sduibek
+
+#Not currently used:
+{300}{}{You receive a small dose of radiation.}
+{301}{}{You receive a moderate dose of radiation.}
+{302}{}{You receive a large dose of radiation.}
+
+#Not currently used:
+{303}{}{You have been mildly irradiated.}
+{304}{}{You have been irradiated.}
+{305}{}{You have been moderately irradiated.}
+{306}{}{You have been strongly irradiated.}
+
+# THIS IS THE FORMAT CURRENTLY USED:
+
+{1004}{}{You have received a mild dose of radiation.}
+{1005}{}{You have received a small dose of radiation.}
+{1006}{}{You have received a moderate dose of radiation.}
+{1007}{}{You have received a large dose of radiation.}

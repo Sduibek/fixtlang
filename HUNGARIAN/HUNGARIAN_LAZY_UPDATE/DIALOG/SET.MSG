@@ -1,0 +1,276 @@
+{100}{}{You see: Set, the self-proclaimed leader of Necropolis.}
+{101}{Set00}{Gondolom, mocskosul jó okod lehet, hogy az árnyékomban álldogállsz. Az a menüpont, hogy "tovább" mond valamit, humán?}
+{102}{}{Nem mondom, mocskosul jó indokom van. Úgy látom, megtaláltam a nagy embert...}
+{103}{}{Azta, mi történt az arcoddal?}
+{104}{}{Eléggé eszes vagy egy ghoulhoz képest.}
+{105}{}{Nöh-öh?}
+{106}{Set01}{Lassacskán, hékás... Setnek hívnak. Én vagyok itt a vezetõ. Vágod?}
+{107}{}{Az információim szerint te csak egy másodhegedûs talpnyaló vagy itt.}
+{108}{}{Vágom. }
+{109}{}{Volna még valami, amit illene tudnom?}
+{110}{Set01a}{Jól van.}
+{111}{}{Mit tehetek érted?}
+{112}{Set02}{Na, mi van? Nyalizol? Figyuzz ide, gyalogkakukk, én nem állok le humánokkal. Hiába végzed itt az öles nyelvcsapásokat, ezzel még nem fogsz elérni semmit.}
+{113}{}{Csak aztán nehogy lecsapás legyen a nyelvcsapásból, apa!}
+{114}{}{Bocsánat, csak jó benyomást akartam tenni.}
+{115}{}{Nem akartam én semmit.}
+{116}{Set03}{[Felhördül] Úgy foglak felzabálni, hogy közben pizzadalocskákat fogok énekelni. Epedve várom...}
+{117}{Set04}{Csak nem beszólós kedvedben vagy, mocsok? Élvezettel foglak szétlapítani.}
+{118}{}{Bármi is legyen a tarsolyodban, reméld, hogy nagyobb, mint a szád... amit aligha hinnék.}
+{119}{}{Korábban kell ahhoz felkelni!}
+{120}{}{Nöh-öh?}
+{121}{Set05}{Látom, van benned spiritusz... hehe... vannak játszótársaim számodra, sziporkázó barátom. Nyomd le nekem a víznyerõnél tanyázó mutánsokat! Gondolom, menni fog... nemdebár?}
+{122}{}{Uh, okay.}
+{123}{}{Nöh-öh.}
+{124}{Set06}{Kiváló! Tanítsd meg az utolsó leckét azoknak a mutánsoknak! Utána ballagj vissza hozzám! Hmm... Ha utasítom a ghouljaimat, hogy kopjanak le rólad, a mutánsok neszét vehetik. Na, mondok én neked valamit, teszek neked egy szívességet. Befogom a pofám. Vágod?}
+{125}{}{Vágom.}
+{126}{}{Mi van ezekkel a ghoulokkal?}
+{127}{}{Duh, okay!}
+{128}{}{He?}
+{129}{Set07}{A helyedben kerülném a ghouljaimat, ha kedves az életed! Amúgy, ha a fiúk nem tudnának megállítani egy humánt, jobb, ha elássák magukat. Rád van bízva, hogy cselekszel.}
+{130}{Set08}{Lopod az idõmet! Szûnj meg! Nekem mindegy hogyan!}
+{131}{Set09}{Nincs neked róla fogalmad, kinek az árnyékára merészeltél tapodni.}
+{132}{}{Másodhegedûs talpnyaló. Ismerem a fõnöködet. Nem túl boldog.}
+{133}{}{Neked sincs...}
+{134}{}{Elnézést, fura egy izlésem van.}
+{135}{Set10}{Szóval neki vamzerkodsz? Te vagy a csicskása, mi? Ki akarsz nyírni? Szép sírköved lesz.}
+{136}{}{Hé, ne magyarázzuk már félre a dolgokat. Nem õ küldött. Segíteni akarok.}
+{137}{}{Próbálkozz csak tésztafejû barátom!}
+{138}{Set10a}{Nem úgy hangzott.}
+{139}{}{Értem. Õ nekem is gondot okoz. Beszéljük meg!}
+{140}{Set11}{Nekropolisz az enyém volt. Nem túl fasza hely, de a magunkfajtának elmegy. Erre feltûnt a Mester. Frankón kicsinálhatott volna, de ehelyett inkább ideállított néhány mutáns, és szemmel tart bennünket.}
+{141}{}{Mit tehetek az ügyben? És mire számíthatok tõled?}
+{142}{}{Nekem ez nem nagyon fekszik. Inkább lelépek...}
+{143}{Set12}{A víznyerõnél lévõ mutánsokat jól meg kell fingatni. Attól nõ az árnyékom. Ha szétszeded õket, jutalmat kapsz. Meg infót is.}
+{144}{}{Legyen.}
+{145}{}{Ez nagyon macerás. Minden jót!}
+{146}{Set13}{Melót akarsz, gyalogkakukk? Mer' akkor mutasd meg szépen, milyen ügyes küzdõ vagy! Iktasd kia víznyerõnél tanyázó mutánsokat! Fosasd meg õket, lássuk, milyen jó vagy!}
+{147}{}{Benne vagyok.}
+{148}{}{Szó sem lehet róla, tésztafej!}
+{149}{Set14}{Nem. Egyéb kérdés? }
+{150}{}{Ahhh, asszem nincs. Mit tehetek érted?}
+{151}{}{Szóval nehéz kiugrasztani a nyulat a bokorból?}
+{152}{Set15}{Ez annyira vicces, hogy megfájdul tõle az arcom. Próbálkozz csak, a fiaim széttrancsíroznak! Vágod?}
+{153}{}{Vágom.}
+{154}{}{Nem egészen kristálytiszta...}
+{155}{}{Hát, elég fájdalmas egy arcod van, ez tény.}
+{156}{Set16}{A nevem Set. A tied meg Világfájdalom. Na erre varrj gombot, megváltoztatom a neved! Fülelsz?}
+{157}{}{Remek! Mindjárt hanyatt vágom magam az ajánlattól.}
+{158}{}{Fenét. Hadd jöjjenek csak a nehézfiúk!}
+{159}{}{Öh-höh.}
+{160}{}{Nöh-öh!}
+{161}{Set17}{Ballagj el a víznyerõhöz és fingasd ki az ottani mutánsokat! Ha megcsinálod, megmaradsz gyalogkakukknak, ha nem, mész a levesbe.}
+{162}{}{Úgy látom, egy kicsit berezeltél ezektõl a srácoktól. Ne beszéljük meg?}
+{163}{}{Ez is valami? Benne vagyok.}
+{164}{}{Furán nézel ki, és furán is beszélsz.}
+{165}{Set18}{Bravó, kiérdemelted a figyelmem, gyalogkakukk. Tapadj rá Garretre, ha meg akarod kapni a jutalmadat. Most pedig... dógom van.}
+{166}{}{Okay. Thanks.}
+{167}{}{Elég! Kösz, de most már nem akarsz lelépni?}
+{168}{}{Mami?}
+{169}{Set19}{Mit nyafogsz itt, mi? Élvezni fogod. Most, hogy jól érzem magam... nehogy felbosszants!}
+{170}{}{Elnézést a kirohanásomért, de vannak fenntartásaim.}
+{171}{}{Elnézést, semmi probléma.}
+{172}{}{Hé, maradványalakokkal nem foglalkozom}
+{173}{Set20}{[Felhördül] Jajaja... Tapadj rá Garretre, és ne húzz bõrt a fogadra! Én vonszolom itt az igát, viszont a Mester irányítja a balhét.}
+{174}{}{A Mester?}
+{175}{}{Oké, kösz.}
+{176}{Set21}{Ha nem ügyelsz magadra, könnyen beléd áll a kése, könnyen lenyúzza az irhádat. A mutánsai beárnyalják a pusztaságot, különösen innentõl dél felé.}
+{177}{}{Ha ilyen nagy csávó ez a Mester, ki tudna kihívást jelenteni számára?}
+{178}{}{Nem ijedtem be tõle.}
+{179}{Set21a}{Õ.}
+{180}{Set22}{A Katedrális Gyermekei, a Hubbeli pógárok, és még mi, Ghoulok is. Mondjuk a mi fényünk fényesebben fog világítani hamarosan. Höhö, bizonyám.}
+{181}{}{Sok szerencsét!}
+{182}{Set23}{Tapadj rá Garretre, aztán tûnés!}
+{183}{}{Jó.}
+{184}{}{Kabbe!}
+{185}{Set24}{Vigyázz, nehogy bajod essen... Menj el, jutalom nincs. Még a végén feltálalunk vacsorára...}
+{186}{}{Ha neked így, hát nekem úgy...}
+{187}{}{Kabbe!}
+{188}{Set25}{Nem jutott el a fülembe, hogy a víznyerõbeli mutánsok bevégezték volna. Ez kell a tervemhez. Értesíts, ha a probléma le van rendezve!}
+{189}{}{Hát, igen. Nem nagy ügy, mindent lerendeztem. Bízz bennem!}
+{190}{}{Nem, még dolgozom az ügyön.}
+{191}{}{Nöh-öh.}
+{192}{Set26}{Ahhh, megnyugtató... Tapadj rá Garretre a jutalomért! }
+{193}{Set27}{A hazugságaiddal csak az idõmet vesztegeted. Hagyd el az árnyékomat, mielõtt... megöllek! Tudod mit? Megöllek! Most! }
+{194}{Set28}{Eredj a dolgodra! Rendezd le a mutánsokat, aztán gyere vissza! Addig ne!}
+{195}{Set29}{Na, mi van, elkaptak a srácok? Én megmondtam a frankót velük kapcsolatban. Most fizetni fogsz. Hitel nincs!}
+{196}{Set30}{Set vagyok. Miért jársz az árnyékomban?}
+{197}{}{A halálnak hozója vagyok. Térdre, és könyörögj kegyelemért!}
+{198}{}{A halálnak hozója vagyok. Térdre, és könyörögj kegyelemért... esetleg adhatnál egy szendvicset. Marhára éhes vagyok.}
+{199}{}{A fõnökhöz jöttem. Te lennél az?}
+{200}{}{Azta, ekkora fekélyt már rég láttam!}
+{201}{}{Öhh, nemtom.}
+{202}{Set31}{Humánok... ha ti okoznátok a fejfájásomat, nyitva állna a kapum elúttetek?}
+{203}{}{Öltem én már ghoulokat, öltem mutánsokat, olyasmiket is öltem már, amit magad elé sem tudnál képzelni. Senki nem állhat az utamba.}
+{204}{}{Mit szólnál egy kis arcfelszedéshez? Jól fog mutatni a pofád a nappalimban.}
+{205}{Set32}{Kiiktattad a víznyerõbeli mutánsokat. Ez biza megnyugtató. Cserébe számíthatsz a szavamra, de aztán te erre, én arra.}
+{206}{}{Miért nem válnak el útjaink? Szépen, ahogy a csillag megy az égen...}
+{207}{}{Nekem okés.}
+{208}{Set33}{Figyuzz ide... A Déli résztõl még egy nagy kutya is fülét-farkát behúzva szaladna el. Ha ilyeneken agyalsz, én akár elfeledtethetem veled. Ezt leszámítva, látom, kitakarítottad a víznyerõt. Garret hálás lesz ezért...}
+{209}{Set34}{Nem vagyunk egy nevetõs fajta. Kitakarítottad a víznyerõt?}
+{210}{}{Ez lenne a tényálladék...}
+{211}{}{Jaj, nem! Nem én voltam!}
+{212}{Set35}{Én tévedek, te megbánod... Gyülekezik a gond, eridj a dolgodra!}
+{213}{Set36}{Ah, igen. Nincs nyom a homokban. Jó. Megnyugtató. Tapadj rá Garretre a jutalomért!}
+{214}{Set38}{Itt én vagyok az, aki az árnyékot veti. Ha így állunk, távolítsd el magad! }
+{215}{}{Azért jöttem, hogy begyüjtsek némi fejpénzt valami mutánsokért.}
+{216}{}{Kösz, azt hiszem, a távozás mezejére lépek.}
+{217}{}{Gyorsabb lenne, ha most téged távolítanálak el.}
+{218}{Set39}{Szódával elmegy. Tapadj rá Garretre, õtõle megkapod, ami jár, aztán keress más utakat magadnak!}
+{219}{Set40}{Agresszorkodunk? Lépj tovább, és állok elébe, vagy beszélj, és elfelejtem.}
+{220}{}{Bocs, de ez elég gyenge humor volt.}
+{221}{}{Épp ideje. Miközben arra vártam, vajon idetolod-e a képed, tök halálra untam magam.}
+{222}{Set41}{Ahh, az agyas humán. Megölted már a víznyerõbeli alakokat, mi? Jöttél a jutalomért?}
+{223}{}{Öh-höh}
+{224}{}{Nöh-öh, én jönni elpicsázza randaságot.}
+{225}{Set42a}{Rossz idõt fogtál ki. Eridj! }
+{226}{}{Megérdemlek némi információt.}
+{227}{}{Mi lenne, ha átgázolnék az arcocskádon?}
+{228}{}{Vágom.}
+{229}{}{Nöh-öh?}
+{230}{Set43}{Szuper. Gyors vagy. És most?}
+{231}{}{Amint látom, nem magad akartad elintézni a mutánsokat... felteszem a kérdést magamnak: vajon miért? Válasz: valakitõl beijedtél. Rátapintottam a lényegre?}
+{232}{}{Miért akartad, hogy én öljem meg a mutánsokat? Miért nem küldted a saját ghouljaidat?}
+{233}{}{Hogy a francba nevezheted ezt a rakás fost jutalomnak?}
+{234}{Set44}{Nem remegett meg a térdem... Az idõ nem nekünk dolgozik! Munkára fognak, jutalmaznak, mész a dolgodra.}
+{235}{}{Te blöffölsz.}
+{236}{}{Ha te mondod.}
+{237}{}{Ez eléggé fenyegetésnek tûnik!}
+{238}{Set45}{Nem nagyon veszed az adást. Hacsak nem akarsz örökre Nekropolisz polgára lenni, menet elfelé! Nincs idõm az ilyen baromarcúakra.}
+{239}{}{Mit szólnál, ha most sitty-sutty hullazsákba kerülnél?}
+{240}{}{Vágom.}
+{241}{}{Kabbe!}
+{242}{Set45a}{With pleasure... }
+{243}{Set46}{Nem blöffölök, nem kamuzok. A Mestertõl meg nem parázok. Eridj a dolgodra! Fárasztasz.}
+{244}{}{Kösz, hogy idõt szenteltél nekem.}
+{245}{}{Szerinted, ha eltakarítalak, már nem foglak fárasztani? Te akartad...}
+{246}{Set47}{Miért végeztessek egy ghoullal olyan feladatot, amit egy gyerek is el tud végezni? Hagyj békén minket...}
+{247}{Set48}{Fáradt vagyok. Lépj le!}
+{248}{Set49}{Ki mint vet... Azt akarom, hogy meghalj! Érted?!}
+{249}{Set50}{Érzem benned a fordulatot, és ez valamelyikünknek fájni fog. Választhatsz: Nyomd le a mutánsokat, vagy meghalsz!}
+{250}{}{Megyek és lerendezem õket.}
+{251}{}{Ez egy nagyobb lista. A hármas szám alatt ez áll: Mi lenne, ha egy laza mozdulattal lecsavarnám a fejed?}
+{252}{Set51}{Még mindig az árnyékomban jársz? Miért van az, hogy a humán nyelve úgy mozog, ahogy a lába jár? Ejtsük a témát, menj dolgodra!}
+{253}{Set52}{Mi járatban is vagy?}
+{254}{}{Semmi különös, csak szertekürtölöm a világban, hogy meghalt a Mester.}
+{255}{}{Elfogytak a szétrúgandó seggek és most épp a pofázmányodra gondoltam, mint lehetséges alternatíva.}
+{256}{}{Höh. Mester - bumm.}
+{257}{Set52a}{Úgy érted, meghalt?}
+{258}{}{Öh-höh.}
+{259}{Set53}{Jólesõ érzés. Megnyugtató. Amit csak akarsz, teljesítem. Halljuk, mi kell!}
+{260}{}{Kéne egy kis infó a Tartályokkal kapcsolatban.}
+{261}{}{El tudnék viselni egy-két fegyvert meg felszerelést.}
+{262}{}{Semmi, kösz.}
+{263}{}{Kõne cucc.}
+{264}{}{Nemmm.}
+{265}{Set54}{Néhány ghoulom mozgósította magát, nekiugrottak a mutánstémának.}
+{266}{}{Mit mondtak?}
+{267}{}{Mutánsok? Azt hiszem, kell még néhány fegyver.}
+{268}{Set55}{Messze észak-nyugatra lakik. Távol minden élettõl. Elvan az õreivel meg a lavírozgatással. Figyelj oda, én veled leszek!}
+{269}{Set56}{Garrettõl megkapod, ami jár.}
+{270}{Set57}{Eltûntetted a vízfeldolgozó csipünket. Becserélted... az életedre!}
+{271}{}{Mindkettõnknek kell egy mûködõ csip. Amint azt az ábra mutatja, csak egy van kéznél. Van még valamilyen megoldás, amire nem gondoltunk?}
+{272}{}{Kellett a csip, a Menedékem bajban volt. Ezer bocsánat.}
+{273}{}{Egy "elnézést" megteszi?}
+{274}{}{Vissza akarod kapni?}
+{275}{}{Öhh?}
+{276}{Set58}{Talán van még egy út... Létezik egy másik szivattyú, de dekrepált. A mieink nem konyítanak hozzá.}
+{277}{}{Talán vethetnék egy pillantást arra a szivattyúra...}
+{278}{}{Hát, ez bizony nagyon cinkes. Asszem szomjasak lesztek hamarosan...}
+{279}{Set59}{Garret majd megvillantja a témát. Hozd össze a szivattyút, akkor megtarthatod a csipet.}
+{280}{}{Kösz.}
+{281}{Set60}{Iszom belõled, amíg meleg vagy, aztán miután kihültél, elveszem a dolgaidat.}
+{282}{}{Épp nincs nálam.}
+{283}{}{Mi lenne, ha most szépen fûbe harapnál inkább?}
+{284}{Set61}{Then die before mine!}
+{285}{Set62}{Többet nem lesz alkalmad agyaskodni.}
+{286}{}{Ezt akkor vehetem "nem"-nek?}
+{287}{Set63}{Az lesz a jutalmad, hogy örökké Nekropolisz része leszel.}
+{288}{}{Hát nem túl szívderítõ... Mit szólnál, ha ehelyett inkább kivonnálak a forgalomból?}
+{289}{}{Nöh-öh!}
+{290}{Set64}{A csipért cserébe megmaradsz gyalogkakukknak.}
+{291}{}{Gáz van... már nincs meg!}
+{292}{}{Okay, here it is.}
+{293}{}{Van egy jobb ötletem. Mi lenne, ha inkább meghalnál?}
+{294}{Set65}{[Set odaadja a vízcsipet egy ghoulnak, aki elszalad vele.] Ha az árnyékod újra idevetül Nekropoliszra, eggyé fogtok olvadni.}
+{295}{Set200}{As said... }
+{296}{Set201}{Stated before... }
+{297}{Set202}{Nem állok le humánokkal.}
+{298}{Set203}{Zargasd Garretet! Nincs nekem idõm erre.}
+{299}{Set204}{Üres a fejed?}
+{300}{Set205}{Ez csak neked okés. Nekünk gázos.}
+{301}{Set206}{Nincs birtokomban a válasz.}
+{302}{Set207}{Rossz ez az idõpont. Az éjszaka jót tesz az árnyékodnak.}
+{303}{Set208}{Õrség! Elkapni a humánt!}
+{304}{Set209}{Õrség, végetvetni ennek a bosszantó alaknak!}
+{305}{Set300}{A szándékaira itt nincs igény. Nem is lesz.}
+{306}{Set301}{A jövõ, a túlélés bajnokai. Többek vagyunk a humánoknál.}
+{307}{Set302}{A világ nagy tévedése, igazi szégyenfolt. Utálom, ahogy van.}
+{308}{Set303}{Ahova az árnyékod vetül. Az otthonom, a birodalmam. Az erõ bölcsõje.}
+{309}{Set304}{Ahova az árnyékod vetül. Az otthonom, a birodalmam. Az erõ bölcsõje.}
+{310}{Set305}{Félresiklott idealizmus. Hidegen hagy. Teljes mértékben.}
+{311}{Set306}{Olyanok, mint te. Némelyik ér valamit, de túl sok a defektes.}
+{312}{Set307}{Kövületek. Felülmúljuk õket, miközben nem is tudnak róla. Szûklátókörûek, csak a saját dolgaikban hisznek.}
+{313}{Set308}{A nekropoliszi vízelosztó-központ. A mutánsok már a jelenlétükkel is mérgezik... Rossz rágondolni.}
+{314}{Set309}{Ellátja a szükségleteinket.}
+{315}{Set310}{Nem tudom mire vélni.}
+{316}{Set311}{Nem foglalkoztat.}
+
+
+
+#
+# Set Tell-Me-Abouts
+#
+{970}{Set01}{Lassacskán, hékás... Setnek hívnak. Én vagyok itt a vezetõ. Vágod?}
+
+{980}{Set206}{Nincs birtokomban a válasz.}
+{981}{Set310}{Nem tudom mire vélni.}
+{982}{Set311}{Nem foglalkoztat.}
+
+{1000}{}{Mester}
+{1001}{}{Ghoul}
+{1002}{}{Mutans}
+{1003}{}{Nekropolisz}
+{1004}{}{Haboru}
+{1005}{}{Egyseg}
+{1006}{}{Hub}
+{1007}{}{Testveriseg}
+{1008}{}{Viznyero}
+{1009}{}{Katedralis}
+{1010}{}{Csip}
+{1011}{}{Csarnok}
+{1012}{}{Gyermek}
+{1013}{}{Garret}
+{1014}{}{Set}
+{1015}{}{Human}
+{1016}{}{Testveriseg}
+{1017}{}{Viznyero}
+{1018}{}{A Katedralis Gyermekei}
+{1019}{}{Gyermek}
+{1020}{}{Viznyero}
+{1021}{}{Nyero}
+
+
+{1100}{Set300}{A szándékaira itt nincs igény. Nem is lesz.}
+{1101}{Set301}{A jövõ, a túlélés bajnokai. Többek vagyunk a humánoknál.}
+{1102}{Set302}{A világ nagy tévedése, igazi szégyenfolt. Utálom, ahogy van.}
+{1103}{Set303}{Ahova az árnyékod vetül. Az otthonom, a birodalmam. Az erõ bölcsõje.}
+{1104}{Set304}{A kezdetek kezdete... A világ hamuvá lett, a hamu növekedésnek indult. Ez a mi életünk.}
+{1105}{Set305}{Félresiklott idealizmus. Hidegen hagy. Teljes mértékben.}
+{1106}{Set306}{Olyanok, mint te. Némelyik ér valamit, de túl sok a defektes.}
+{1107}{Set307}{Kövületek. Felülmúljuk õket, miközben nem is tudnak róla. Szûklátókörûek, csak a saját dolgaikban hisznek.}
+{1108}{Set309}{Ellátja a szükségleteinket.}
+{1109}{Set310}{Nem tudom mire vélni.}
+{1110}{Set311}{Nem foglalkoztat.}
+{1111}{Set204}{Üres a fejed?}
+{1112}{Set310}{Nem tudom mire vélni.}
+{1113}{Set204}{Üres a fejed?}
+{1114}{Set01}{Lassacskán, hékás... Setnek hívnak. Én vagyok itt a vezetõ. Vágod?}
+{1115}{Set302}{A világ nagy tévedése, igazi szégyenfolt. Utálom, ahogy van.}
+{1116}{Set307}{Kövületek. Felülmúljuk õket, miközben nem is tudnak róla. Szûklátókörûek, csak a saját dolgaikban hisznek.}
+{1117}{Set309}{Ellátja a szükségleteinket.}
+{1118}{Set310}{Nem tudom mire vélni.}
+{1119}{Set310}{Nem tudom mire vélni.}
+{1120}{Set309}{Ellátja a szükségleteinket.}
+{1121}{Set309}{Ellátja a szükségleteinket.}
+

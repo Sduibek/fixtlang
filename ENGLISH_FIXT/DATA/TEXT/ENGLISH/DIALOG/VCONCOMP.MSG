@@ -21,7 +21,7 @@
 {120}{}{(You have successfully hacked into the encryption table!)       > Command?}
 #
 #TRANSLATION NOTE: Different spaces between the code and description is intentional for self-destruct execute lines
-#This is so the descriptions line up in-game so that it looks organized. 
+#This is so the descriptions line up in-game so that it looks organized.
 #If possible, spacing should stay the same when translated.
 #
 {121}{}{[17652-1028-1285362]    Silent self-destruct in 1 minute.}

@@ -1,0 +1,276 @@
+{100}{}{You see: Set, the self-proclaimed leader of Necropolis.}
+{101}{Set00}{Mam nadziejê, ¿e masz zabójcze wyt³umaczenie tego, ¿e tu stoisz. Czy s³owa 'nastêpny do odstrza³u' coœ ci mówi¹... normalniaku?}
+{102}{}{Zabójcze, niew¹tpliwie. Wygl¹da na to, ¿e uda³o mu siê znaleŸæ w³aœciwego... cz³owieka.}
+{103}{}{Hej, co siê sta³o z twoj¹ twarz¹?}
+{104}{}{Sprytny jesteœ, jak na ghula.}
+{105}{}{Nuh-uh?}
+{106}{Set01}{To proste. Jestem Set. Ja tu rz¹dzê. £apiesz?}
+{107}{}{Wed³ug moich informacji jesteœ tylko drugorzêdnym pajacem.}
+{108}{}{£apiê.}
+{109}{}{Jeszcze coœ nale¿y tu wiedzieæ?}
+{110}{Set01a}{To dobrze.}
+{111}{}{W czym mogê pomóc?}
+{112}{Set02}{Co? Czy¿bym s³ysza³ lizusostwo? S³uchaj, b¹blu - nie zadajê siê z normalniakami, wiêc podlizywanie mi siê nie zapewni ci ¿adnych wyj¹tkowych przywilejów.}
+{113}{}{Podlizywanie siê tobie mo¿e byæ znacznie utrudnione, gdy z tob¹ skoñczê.}
+{114}{}{Przepraszam. Próbujê tylko wywrzeæ dobre pierwsze wra¿enie.}
+{115}{}{Eee...nic takiego.}
+{116}{Set03}{[Ryczy] Zaraz ciê zjem i zaœpiewam piosenkê o 'Weso³ym Brzuszku'. Mam weso³y brzuszek... }
+{117}{Set04}{Czas prawdy, suko. Z radoœci¹ ciê zgniotê.}
+{118}{}{Cokolwiek masz w kaburze, jest to i tak wiêksze od twojej mordy... Mimo nik³ego prawdopodobieñstwa istnienia czegoœ takiego.}
+{119}{}{TO rozgnieæ...}
+{120}{}{Nuh-uh?}
+{121}{Set05}{Hej. Widzê w tobie pewien potencja³... Hehehe... Mam dla ciebie towarzyszy zabawy, mój ty normalniaku. Uka¿ za mnie mutantów przy wododziale. Taaa... zrobisz to?}
+{122}{}{Uh, okay.}
+{123}{}{Nuh-uh.}
+{124}{Set06}{Wspaniale. Udziel tym mutantom surowej lekcji i wracaj... Hmmm. Jeœli ka¿ê moim ghulom zostawiæ ciê w spokoju, to mog¹ siê o tym dowiedzieæ ci mutanci. Zrobiê ci wiêc przys³ugê i nie bêdê siê odzywa³. S³owo. £apiesz?}
+{125}{}{£apiê.}
+{126}{}{O co chodzi z tymi ghulami?}
+{127}{}{Duh, okay!}
+{128}{}{Huh?}
+{129}{Set07}{Jeœli ci ¿ycie mi³e, nie wchodŸ w drogê moim ghulom. Jeœli któryœ mia³by sobie nie poradziæ z normalniakiem, to by³by ju¿ dawno martwym trupem. RadŸ sobie.}
+{130}{Set08}{Marnujesz mój czas! Usuñ siê st¹d, albo ja ciê usunê!}
+{131}{Set09}{Nie masz pojêcia, przed kim stoisz.}
+{132}{}{Przed drugorzêdnym pajacem. Znam twojego szefa. Nie jest zbyt zadowolony.}
+{133}{}{Ani ty.}
+{134}{}{Przepraszam, mam dziwne poczucie humoru.}
+{135}{Set10}{Jemu s³u¿ysz? Jesteœ jego szpiegiem? Chcesz mnie skasowaæ? Przysiêgam, ¿e ciê z³o¿ê do grobu.}
+{136}{}{Hej, nie zrozum mnie Ÿle. Nie jestem od niego. Chcê ci pomóc.}
+{137}{}{Spróbuj szczêœcia, kartoflana mordo.}
+{138}{Set10a}{To mi inaczej brzmi.}
+{139}{}{Rozumiem. On stanowi problem i dla mnie. Porozmawiajmy.}
+{140}{Set11}{Nekropolis by³o moje. Mo¿e nie wszystko by³o super, ale jak dla mnie podobnych by³o OK. Potem przyszed³ Mistrz. Móg³ mnie rozwaliæ, spoko, ale ³atwiej mu by³o zostawiæ kilku mutantów, ¿eby pilnowali.}
+{141}{}{Co mogê zrobiæ i co dostanê w zamian?}
+{142}{}{To chyba nie jest zadanie dla mnie. Wynoszê siê st¹d.}
+{143}{Set12}{Tych Mutantów trzeba wys³aæ dwa metry pod ziemiê. To mnie ucieszy. Rozwal ich, a obsypi¹ ciê nagrody. I informacje.}
+{144}{}{Za³atwione.}
+{145}{}{Za du¿o zachodu. Do zobaczenia.}
+{146}{Set13}{Chcesz robota, b¹blu? Poka¿, ¿e siê umiesz biæ. Skasuj tych mutantów przy wododziale. Poka¿ im, a poka¿esz mi, ¿e jesteœ wart.}
+{147}{}{Robi siê.}
+{148}{}{Nie ma mowy, kartoflana mordo.}
+{149}{Set14}{Nie. Jeszcze jakieœ pytania? }
+{150}{}{Eee, chyba nie. W czym mogê pomóc?}
+{151}{}{Taa. Masz k³opoty z zêbami?}
+{152}{Set15}{Taaak. Moja twarz to rzeczywiœcie œwietny temat do ¿artów. Jeszcze jeden jednak, a moi gwardziœci spior¹ ciê na kwaœne jab³ko. £apiesz?}
+{153}{}{£apiê.}
+{154}{}{Nie do koñca... }
+{155}{}{Rzeczywiœcie - œwietny.}
+{156}{Set16}{Nazywam siê Set. Ty siê nazywasz Daj-mi-w-mordê. Zrobisz coœ dla mnie, to zapomnê o twoim imieniu. S³uchasz?}
+{157}{}{Pewnie. Wolê to, ni¿ zbieranie w³asnych flaków z pod³ogi.}
+{158}{}{Niieeee. Dawaj.}
+{159}{}{uh-huh.}
+{160}{}{Nuh-uh!}
+{161}{Set17}{Zasuwaj do wodzodzia³u i za³atw tamtejszych mutantów. Zrób to, a dalej bêdziesz hasaæ. Nie zrób, a zdechniesz.}
+{162}{}{Brzmisz mi na mocno wystraszonego tamtymi kolesiami, chcesz o tym pomówiæ?}
+{163}{}{Spoko. Umowa stoi.}
+{164}{}{Œmiesznie wygl¹dasz i œmiesznie gadasz.}
+{165}{Set18}{Dobra robota. Zas³ugujesz na przebywanie w mojej obecnoœci. IdŸ za Garretem, aby odebraæ nagrodê. Jestem zajêty.}
+{166}{}{Okay. Thanks.}
+{167}{}{I tyle? Dziêki, a teraz siê wynoœ?}
+{168}{}{Mama?}
+{169}{Set19}{Zastanów siê, zanim coœ powiesz. Zobaczysz. Szkoda by mi by³o ciê teraz uszkodziæ... gdy siê cieszê.}
+{170}{}{Przepraszam za mój wybuch, ale trochê mnie to wszystko martwi.}
+{171}{}{Oczywiœcie, przepraszam.}
+{172}{}{Nie zadowolê siê jakimiœ resztkami.}
+{173}{Set20}{[Ryczy] Tak, tak. IdŸ za Garretem i nie zapomnij siê ³adnie wyszczerzyæ. Nie martw siê, dotrzymujê s³owa. To Mistrz krêci.}
+{174}{}{Mistrz?}
+{175}{}{Dobra, dziêki.}
+{176}{Set21}{Jeœli nie bêdziesz siê pilnowaæ, to skoñczysz u niego jako dywanik. Jego mutanci pilnuj¹ pustkowia, zw³aszcza na po³udnie st¹d.}
+{177}{}{Skoro ten Mistrz jest taki silny, to kto mu siê postawi?}
+{178}{}{Ja tam siê go nie bojê.}
+{179}{Set21a}{To b³¹d.}
+{180}{Set22}{Dzieci Katedry, goœcie z Hubu, mo¿e nawet my, Ghule. Teraz nikt go nie ruszy. Ale wkrótce nasz p³omieñ stanie siê silniejszy. O, tak.}
+{181}{}{Powodzenia.}
+{182}{Set23}{IdŸ sobie st¹d - za Garretem.}
+{183}{}{Dobra.}
+{184}{}{Odwal siê.}
+{185}{Set24}{Uwa¿aj, ¿eby samemu siê nie staæ resztkami. Wynoœ siê - bez nagrody - albo zjem ciê dziœ na podwieczorek.}
+{186}{}{Skoro tego chcesz.}
+{187}{}{Odwal siê.}
+{188}{Set25}{Nic nie s³ysza³em o mutantach, którzy ju¿ nie oddychaj¹. To dla mnie wa¿ne. Powiedz, proszê, ¿e problem ju¿ rozwi¹zany.}
+{189}{}{Ale¿ oczywiœcie. ¯aden problem, wszystko zmierza ku szczêœliwemu zakoñczeniu. Zaufaj mi.}
+{190}{}{Wci¹¿ nad tym pracujê.}
+{191}{}{Nuh-uh.}
+{192}{Set26}{Aach - to wspaniale. IdŸ z Garretem po nagrodê. }
+{193}{Set27}{Kradniesz mi czas swoimi k³amstwami. IdŸ st¹d, zanim... zginiesz. Giñ! Po prostu giñ! }
+{194}{Set28}{IdŸ sobie. Za³atw mutantów, potem wracaj. Nie wczeœniej.}
+{195}{Set29}{Moi ciê dorwali, co? Powiedzia³em ci, co jest grane. Teraz p³aæ. W naturze.}
+{196}{Set30}{Jestem Set. Dlaczego depczesz mój cieñ?}
+{197}{}{Przynoszê œmieræ. Padnij na kolana i b³agaj o ³askê.}
+{198}{}{Przynoszê œmieræ. Padnij na kolana i b³agaj o ³askê... Albo daj mi coœ do ¿arcia - padam z g³odu.}
+{199}{}{Chcê siê zobaczyæ z szefem. Ty nim jesteœ?}
+{200}{}{To siê nazywa tr¹dzik!}
+{201}{}{Eee...ja nie wiem.}
+{202}{Set31}{Normalniaki. Gdybym siê was ba³, to czy pozwoli³bym wam tu przychodziæ?}
+{203}{}{Z mojej rêki ginê³y ju¿ ghule. Ginêli mutanci. Ginê³y rzeczy, których nie jesteœ sobie nawet w stanie wyobraziæ. Nikt mi nie wchodzi w drogê.}
+{204}{}{A mo¿e ma³y lifting... Twoja skórka bêdzie pasowaæ do mojej kolekcji.}
+{205}{Set32}{Ci z wododzia³u ju¿ nie istniej¹. To pocieszaj¹ce. Bardzo. Odpowiem na twoje pytania. Potem pójdziemy w swoje strony.}
+{206}{}{A mo¿e od razu tak zrobimy?}
+{207}{}{Jak dla mnie super.}
+{208}{Set33}{Ostrze¿enie. Po³udnie czyni z najtwardszych nawet psów tchórzliwe szczeniêta. Jeœli wpadniesz na jakieœ pomys³y, ka¿ê im le¿eæ cicho. Z drugiej strony, ci mutanci to trupy. Garret zaprowadzi ciê do mojej wdziêcznoœci.}
+{209}{Set34}{Nie³atwo tu o œmiech. Ci przy wododziale skasowani?}
+{210}{}{Owszem.}
+{211}{}{O, nie. To nie ja.}
+{212}{Set35}{Moja krzywda, twoja strata. Roboty przybywa, musisz ju¿ iœæ.}
+{213}{Set36}{A, tak. ¯adnych œladów. Dobrze. Cieszê siê. IdŸ z Garretem do wdziêcznoœci.}
+{214}{Set38}{Rzucam cieñ. Jeœli ciê przerasta, to siê st¹d usuñ. }
+{215}{}{Przybywam po nagrodê za jakieœ mutanty.}
+{216}{}{Dziêki, bêdê lecieæ.}
+{217}{}{Szybciej by by³o ciê usun¹æ.}
+{218}{Set39}{Da siê zrobiæ. IdŸ z Garretem ku wdziêcznoœci, a potem swoj¹ drog¹.}
+{219}{Set40}{Powody agresji? IdŸ, a bêdê sta³. Mów, a siê ruszê.}
+{220}{}{Przepraszam, kiepski ¿art.}
+{221}{}{Czas najwy¿szy. Nudno siê czeka, a¿ ci siê twarz wypogodzi.}
+{222}{Set41}{Ach, normalniak-myœliciel. Ci przy wododziale skasowani? Przychodzisz po nagrodê?}
+{223}{}{Uh-huh}
+{224}{}{Nuh-uh, ja przyjœæ skopaæ twoja wredna morda.}
+{225}{Set42a}{Czas z³y. IdŸ.}
+{226}{}{Zas³ugujê chyba na jakieœ informacje.}
+{227}{}{A mo¿e przejdê siê po twojej warzy?}
+{228}{}{£apiê.}
+{229}{}{Nuh-uh?}
+{230}{Set43}{Dobra. Szybko. Co?}
+{231}{}{Nie chcia³eœ sam wykoñczyæ mutantów. Pytam siê, dlaczego? OdpowiedŸ: ktoœ ciê nastraszy³. Dlaczego?}
+{232}{}{Dlaczego potrzebowa³eœ, aby ktoœ wykoñczy³ mutanty za ciebie? Dlaczego nie kaza³eœ tego zrobiæ swoim ghulom?}
+{233}{}{Jak do diab³a mo¿esz nazywaæ to gówno nagrod¹?}
+{234}{Set44}{Ja siê nie bojê. Wykorzystujê nadarzaj¹ce siê okazje. Wykorzystujê ciebie, dostajesz nagrodê, zmywasz siê.}
+{235}{}{Blefujesz.}
+{236}{}{Skoro tak twierdzisz.}
+{237}{}{To groŸba!}
+{238}{Set45}{Nawet nie s³uchasz, co siê do ciebie mówi. Jeœli nie chcesz tu pozostaæ na zawsze, idŸ. Nie mam czasu na durniów.}
+{239}{}{A masz czas siê pomodliæ?}
+{240}{}{£apiê.}
+{241}{}{Kij ci w mordê.}
+{242}{Set45a}{Z przyjemnoœci¹... }
+{243}{Set46}{Nie blefujê, nie k³amiê. Mistrza siê nie bojê. IdŸ. Nie chcê ciê ju¿ tutaj.}
+{244}{}{Dziêki za twój czas.}
+{245}{}{A jak ciê usma¿ê, to coœ siê zmieni? Wydaje siê to byæ œwietnym pomys³em.}
+{246}{Set47}{Dlaczego posy³aæ ghula, aby harowa³ za dzieciaka? IdŸ st¹d.}
+{247}{Set48}{Jestem zmêczony. A ciebie ju¿ tu nie ma.}
+{248}{Set49}{Patrz i p³acz! Masz zgin¹æ! Zgin¹æ!}
+{249}{Set50}{Wyczuwam twój podstêp - jednemu z nas stanie siê przez niego krzywda. Krótka lista mo¿liwoœci: Skasuj mutanty lub giñ.}
+{250}{}{Zaraz siê za to zabiorê.}
+{251}{}{Lista jest d³u¿sza. Punkt 3 brzmi: A co, jeœli urwê ci g³owê?}
+{252}{Set51}{Ty wci¹¿ tutaj? Dlaczego normalniaki nie s¹ w stanie jednoczeœnie poruszaæ jêzykami i nogami? spadaj st¹d. Ju¿.}
+{253}{Set52}{Có¿ oznacza twoja obecnoœæ?}
+{254}{}{Nic takiego - przynoszê tylko wiadomoœci, ¿e Mistrz nie ¿yje.}
+{255}{}{Nie by³o ju¿ co rozwalaæ, a twoja twarz by³a nastêpna na liœcie.}
+{256}{}{Huh. Mistrz robiæ papa.}
+{257}{Set52a}{To znaczy nie ¿yje?}
+{258}{}{Uh-huh.}
+{259}{Set53}{Dobrze. Wspaniale. Twoje potrzeby musze spe³niæ. Powiedz, jakie to.}
+{260}{}{Potrzebujê informacji o Kadziach.}
+{261}{}{Przyda³oby siê jakieœ uzbrojenie i ekwipunek.}
+{262}{}{Nie, dziêki.}
+{263}{}{Potrzebowaæ sprzêt.}
+{264}{}{Niiieeee.}
+{265}{Set54}{Niektórzy z moich stamt¹d uciekli. To tam powstaj¹ mutanci.}
+{266}{}{Co mówili?}
+{267}{}{Mutanci, co? Chyba bêdê potrzebowaæ wiêcej broni.}
+{268}{Set55}{Daleko na pó³nocny zachód, daleko od ¿ycia. Du¿o stra¿y, trudno dojœæ. Jeœli tam zmierzasz, niech ciê prowadz¹ moje myœli.}
+{269}{Set56}{Garret da ci to, co mamy.}
+{270}{Set57}{Ty. Znikn¹³eœ nasz hydroprocesor. Wymienisz go... na swoje ¿ycie!}
+{271}{}{Obaj potrzebujemy dzia³aj¹cych procesorów. Mamy tylko jeden. Mo¿e o czymœ zapominamy?}
+{272}{}{By³ mi potrzebny do uratowania mojej Krypty. Przykro mi.}
+{273}{}{Nie wystarczy, jak przeproszê?}
+{274}{}{Chcecie go z powrotem?}
+{275}{}{Uhh?}
+{276}{Set58}{Mo¿e i jest sposób. Istnieje pompa zapasowa, ale nie jej dzia³anie. ¯aden z moich nie umie jej o¿ywiæ.}
+{277}{}{Mo¿e trzeba na ni¹ rzuciæ okiem.}
+{278}{}{To kiepsko. Chyba czeka was wielkie pragnienie.}
+{279}{Set59}{Garret ciê zaprowadzi. Wróæ pompê do ¿ycia i zatrzymaj procesor.}
+{280}{}{Dziêki.}
+{281}{Set60}{Wypijê wiêc twoj¹ krew, aby póŸniej po¿ywiæ siê cia³em.}
+{282}{}{Nie mam go przy sobie.}
+{283}{}{A mo¿e na¿resz siê ziemi.}
+{284}{Set61}{Wiêc zdychaj, zanim moi zdechn¹!}
+{285}{Set62}{Myœleniem to ty siê ju¿ nie przejmuj.}
+{286}{}{Rozumiem, ¿e to znaczy 'nie'?}
+{287}{Set63}{Uiœcisz zap³atê - zostaniesz tu na zawsze!}
+{288}{}{Drogo. Mo¿e lepiej pozbawiê ciê urzêdu?}
+{289}{}{Nuh-uh!}
+{290}{Set64}{Oddaj procesor, pozwolê odejœæ.}
+{291}{}{Mam ciê! Ju¿ go nie mam!}
+{292}{}{Okay, here it is.}
+{293}{}{Wolê zobaczyæ twoj¹ œmieræ.}
+{294}{Set65}{[Set podaje procesor ghulowi, który z nim ucieka.] Jeœli twój cieñ kiedykolwiek jeszcze zalegnie w Nekropolis, to pozostanie w nim na zawsze.}
+{295}{Set200}{Ju¿ mówi³em... }
+{296}{Set201}{To ju¿ powiedziano... }
+{297}{Set202}{Nie zadajê siê z normalniakami.}
+{298}{Set203}{Zwróæ siê do Garreta. Czas ucieka.}
+{299}{Set204}{Pusto masz we ³bie?}
+{300}{Set205}{Tylko wy korzystasz. Kiepska ta wymiana.}
+{301}{Set206}{Ta wiedza nie jest mi dostêpn¹.}
+{302}{Set207}{Z³y czas. Twój cieñ bêdzie w porz¹dku wieczorem.}
+{303}{Set208}{Stra¿e! £apaæ normalniaka!}
+{304}{Set209}{Stra¿e, skoñczcie z tym robalem!}
+{305}{Set300}{Nie ma tu dla niego miejsca. Nie ma.}
+{306}{Set301}{Przysz³oœæ. Wszêdzie prze¿yj¹. Przerastaj¹ normalniaków.}
+{307}{Set302}{B³¹d tego œwiata. Zadra w moim oku. Nienawidzê ka¿dego.}
+{308}{Set303}{Tu twój cieñ le¿y. Mój dom. Moja w³adza. Miejsce, gdzie si³a roœnie.}
+{309}{Set304}{Pocz¹tek. Œwiat w proch, proch w rozwój. Nasze ¿ycie.}
+{310}{Set305}{B³êdne idea³y. Dla mnie - nic. W ogóle.}
+{311}{Set306}{Wielu twoich. Niektórzy przydatni, zbyt wielu jednak krêtaczy.}
+{312}{Set307}{Prze¿ytki. My lepsi, oni nie wiedz¹. Ma³o widz¹, tylko to, w co wierz¹.}
+{313}{Set308}{Centrum produkcyjne wody dla Nekropolis. Zatrute obecnoœci¹ mutantów. Usycham myœl¹c o tym.}
+{314}{Set309}{Dostarcza to, czego potrzeba.}
+{315}{Set310}{Poza moimi myœlami.}
+{316}{Set311}{Nie w moich myœlach.}
+
+
+
+#
+# Set Tell-Me-Abouts
+#
+{970}{Set01}{To proste. Jestem Set. Ja tu rz¹dzê. £apiesz?}
+
+{980}{Set206}{Ta wiedza nie jest mi dostêpn¹.}
+{981}{Set310}{Poza moimi myœlami.}
+{982}{Set311}{Nie w moich myœlach.}
+
+{1000}{}{Mistrz}
+{1001}{}{Ghule}
+{1002}{}{Mutanci}
+{1003}{}{Nekropolis}
+{1004}{}{Wojna}
+{1005}{}{Jednoœæ}
+{1006}{}{Hub}
+{1007}{}{Bractwo}
+{1008}{}{Wododzia³}
+{1009}{}{Katedra}
+{1010}{}{Procesor}
+{1011}{}{Hall}
+{1012}{}{Dzieci}
+{1013}{}{Garret}
+{1014}{}{Set}
+{1015}{}{Mutanciaki}
+{1016}{}{Bractwo Stali}
+{1017}{}{Wododzia³}
+{1018}{}{Dzieci Katedry}
+{1019}{}{Dzieci}
+{1020}{}{Wododzia³}
+{1021}{}{Hydro}
+
+
+{1100}{Set300}{Nie ma tu dla niego miejsca. Nie ma.}
+{1101}{Set301}{Przysz³oœæ. Wszêdzie prze¿yj¹. Przerastaj¹ normalniaków.}
+{1102}{Set302}{B³¹d tego œwiata. Zadra w moim oku. Nienawidzê ka¿dego.}
+{1103}{Set303}{Tu twój cieñ le¿y. Mój dom. Moja w³adza. Miejsce, gdzie si³a roœnie.}
+{1104}{Set304}{Pocz¹tek. Œwiat w proch, proch w rozwój. Nasze ¿ycie.}
+{1105}{Set305}{B³êdne idea³y. Dla mnie - nic. W ogóle.}
+{1106}{Set306}{Wielu twoich. Niektórzy przydatni, zbyt wielu jednak krêtaczy.}
+{1107}{Set307}{Prze¿ytki. My lepsi, oni nie wiedz¹. Ma³o widz¹, tylko to, w co wierz¹.}
+{1108}{Set309}{Dostarcza to, czego potrzeba.}
+{1109}{Set310}{Poza moimi myœlami.}
+{1110}{Set311}{Nie w moich myœlach.}
+{1111}{Set204}{Masz pusto w g³owie?}
+{1112}{Set310}{Poza moimi myœlami.}
+{1113}{Set204}{Masz pusto w g³owie?}
+{1114}{Set01}{To proste. Jestem Set. Ja tu rz¹dzê. £apiesz?}
+{1115}{Set302}{B³¹d tego œwiata. Zadra w moim oku. Nienawidzê ka¿dego.}
+{1116}{Set307}{Prze¿ytki. My lepsi, oni nie wiedz¹. Ma³o widz¹, tylko to, w co wierz¹.}
+{1117}{Set309}{Dostarcza to, czego potrzeba.}
+{1118}{Set310}{Poza moimi myœlami.}
+{1119}{Set310}{Poza moimi myœlami.}
+{1120}{Set309}{Dostarcza to, czego potrzeba.}
+{1121}{Set309}{Dostarcza to, czego potrzeba.}
+

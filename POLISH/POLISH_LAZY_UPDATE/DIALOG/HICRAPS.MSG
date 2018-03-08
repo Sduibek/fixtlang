@@ -1,0 +1,19 @@
+{100}{}{You see the high-stakes Craps table. It costs 40 caps to play.}
+{101}{}{Wyrzucasz 7. Wygrywasz!!}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{Wyrzucasz gadzie oczka. Przegrywasz.}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{Wyrzucasz }
+{104}{}{! Wygrywasz!!}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{Wyrzucasz }
+{106}{}{. Przegrywasz.}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{Wyrzucasz }
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{ przed wypadniêciem twojego punktu. Przegrywasz.}
+{109}{}{Wyrzucasz twój punkt. Wygrywasz.}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{Wyrzucasz }
+{111}{}{. To twój punkt. Ponowny rzut.}
+{112}{}{You earn 70 experience for killing the dealer.}

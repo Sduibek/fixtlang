@@ -16,7 +16,7 @@
 {115}{}{Supongo que está bien.}
 {116}{}{Bueno, es un poco aburrido.}
 {117}{TAND_3}{Claro, supongo. Nunca he salido de aquí, así que no sé si puedo ayudarte en algo. ¿Qué necesitas?}
-{118}{TAND_4}{Sí. Bueno, tú no vives aquí. No hay nada interesante que hacer y créeme, te hartas enseguida de los Vertidos de los brahmines.}
+{118}{TAND_4}{Sí. Bueno, tú no vives aquí. No hay nada interesante que hacer y créeme, te hartas enseguida de los vertidos de los brahmines.}
 {119}{}{Si tanto te aburres, ¿por qué no te marchas?}
 {120}{}{Seguro que estás exagerando.}
 {121}{}{A mí esto me parece bonito y seguro.}
@@ -121,21 +121,23 @@
 #
 {350}{TAND_16a}{Sí, lo que sea.}
 
-{399}{}{[La sigues]}
+{399}{}{(La sigues)}
 {407}{}{[Continuar]}
-{412}{}{[Sonríe y te lleva a su habitación]}
+{412}{}{(Sonríe y te lleva a su habitación)}
 
 {400}{TAND_3}{Sí, supongo. Nunca he estado fuera, así que no sé cómo podría ayudarte. Así que, ¿qué necesitas?}
-# no {401}{TAND_29}{[Por encima del hombro, para que Aradesh pueda escucharlo] Eh, escucha. Tengo que encargarme de los brahmines. Ha sido, eh, un placer hablar contigo. [Se da la vuelta mientras te señala que la sigas...]}
+# 401 is not currently used.
+{401}{TAND_29}{(Tandi alza la voz para que Aradesh pueda escucharlo) Eh, escucha. Tengo que encargarme de los brahmines. Ha sido, eh, un placer hablar contigo. (Se da la vuelta mientras te señala que la sigas...)}
 
-{402}{TAND_28}{Bien, gracias por... "hablar conmigo". [Te guiña un ojo y sonríe] No nos visitan muchos extraños, así que siempre es bueno "hablar" con alguien nuevo. ¡Bueno, nos vemos!}
-# probably not {403}{TAND_35}{Eh... hey, gracias. Hasta luego. [parece agotada]}
+{402}{TAND_28}{Bien, gracias por... "hablar conmigo". (Te guiña un ojo y sonríe) No nos visitan muchos extraños, así que siempre es bueno "hablar" con alguien nuevo. ¡Bueno, nos vemos!}
+# 402 is not currently used.
+# probably not {403}{TAND_35}{Eh... hey, gracias. ¡Hasta luego! (Parece agotada)}
 
 {404}{}{Algo que no me gustaría estar anunciando a los demás. Vamos a un lugar más privado y te lo cuento...}
-{405}{}{Pareces más bien... inexperto. Quiero enseñarte todo lo que pueda. Deberíamos empezar, hay mucho que abarcar. [te guiña un ojo]}
+{405}{}{Pareces más bien... inexperto. Quiero enseñarte todo lo que pueda. Deberíamos empezar, hay mucho que abarcar. *guiño*}
 {406}{}{[suspira] Más de lo que puedas darme, pero me las apañaré.}
 
-{410}{TAND_14}{¡Por fin! ¡Alguien que también lo entiende! Claro que probablemente tú hayas estado en todas partes y esto te debe parecer el infierno. [Se encoge de hombros y te lleva a su habitación]}
+{410}{TAND_14}{¡Por fin! ¡Alguien que también lo entiende! Claro que probablemente tú hayas estado en todas partes y esto te debe parecer el infierno. (Se encoge de hombros y te lleva a su habitación])}
 
 {415}{}{Me gustaría tener un poco más de diversión, si te sobra tiempo.}
 

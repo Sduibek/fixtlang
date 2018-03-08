@@ -79,12 +79,12 @@ CHANGE THIS ONE		#patrick
 # Damage Numbers
 #
 {138}{}{Tu subis }
-{139}{}{points de dégât et as une jambe gauche estropiée.}
-{140}{}{points de dégât et as une jambe droite estropiée.}
-{141}{}{points de dégât.}
-{144}{}{points de dégât et as un bras gauche estropié.}
-{145}{}{points de dégât et as un bras droit estropié.}
-{146}{}{points de dégât et as les deux jambes estropiées.}
+{139}{}{ points de dégât et as une jambe gauche estropiée.}
+{140}{}{ points de dégât et as une jambe droite estropiée.}
+{141}{}{ points de dégât.}
+{144}{}{ points de dégât et as un bras gauche estropié.}
+{145}{}{ points de dégât et as un bras droit estropié.}
+{146}{}{ points de dégât et as les deux jambes estropiées.}
 #
 # Cripples
 #
@@ -104,3 +104,8 @@ CHANGE THIS ONE		#patrick
 # MONSTERS - not used
 #
 {119}{}{Tu tombes sur une horde de radscorpions.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{Tu vois le camp d'une bande de pillards. On dirait que tu es arrivé au mauvais endroit, au mauvais moment.}
+

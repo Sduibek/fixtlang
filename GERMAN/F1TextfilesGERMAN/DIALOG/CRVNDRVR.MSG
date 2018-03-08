@@ -1,5 +1,6 @@
 {100}{}{Du siehst einen Caravan-Fahrer.}
-{101}{}{Tut mir leid, ich kenne dich nicht. Wenn du einen Job suchst, muﬂt du mit Rutger reden.}{102}{}{Frag' nicht mich nach einem Job, frag' Rutger.}
+{101}{}{Tut mir leid, ich kenne dich nicht. Wenn du einen Job suchst, muﬂt du mit Rutger reden.}
+{102}{}{Frag' nicht mich nach einem Job, frag' Rutger.}
 {103}{}{Wie, du hast dein ganzes Geld f¸r Medikamente ausgegeben? Wenn du so weitermachst, wirst du bald in Old Town bei den Skags wohnen.}
 {104}{}{Du solltest lieber damit aufhˆren. Wenn du es nicht mehr brauchst, kannst du ja wiederkommen und f¸r uns arbeiten.}
 {105}{}{Suchst du wieder einen Job?}
@@ -61,8 +62,7 @@
 {161}{}{Mann, reiﬂ' dich zusammen!}
 {162}{}{Oh? Und, was ist mit den armen Hunden genau vor deiner Nase?}
 {163}{}{Du hast ja recht. Bekomme ich jetzt noch einen Job, oder nicht?}
-{164}{}{Was? Ich hab' keine Ahnung, wovon du sprichst? Meinst du die Skags? Die z‰hlen nicht.
- Die haben sich dieses Leben ausgesucht.}
+{164}{}{Was? Ich hab' keine Ahnung, wovon du sprichst? Meinst du die Skags? Die z‰hlen nicht. Die haben sich dieses Leben ausgesucht.}
 {165}{}{Ich glaub', du hast recht.}
 {166}{}{Du gehst mir auf die Nerven.}
 {167}{}{Ich muﬂ jetzt gehen.}
@@ -118,8 +118,7 @@
 {217}{}{Groﬂartig. Ich nehme deinen Fahrer und den Rest der Mannschaft. Paﬂ' auf dich da drauﬂen auf, in letzter Zeit ging es ziemlich ab.}
 {218}{}{Die Mannschaft ist soweit. Wir fahren gleich los.}
 {219}{}{In Ordnung, es dauert nur ein paar Minuten, dann hab' ich die Mannschaft zusammen.}
-{220}{}{In Ordnung. Wir machen uns auf den Weg zur Brotherhood, sobald ich den Rest
- der Mannschaft zusammen habe.}
+{220}{}{In Ordnung. Wir machen uns auf den Weg zur Brotherhood, sobald ich den Rest der Mannschaft zusammen habe.}
 {221}{}{Okay, du machst dich auf den Weg zur Brotherhood, sobald ich die Mannschaft zusammen  habe.}
 {222}{}{Auf geht's. Halt dich von den Bergen fern.}
 {223}{}{Der Boneyard ist ein fieser Ort - sei vorsichtig. Schau' drauf, daﬂ alle ihre Schicht durchhalten.}

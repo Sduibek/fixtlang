@@ -1,25 +1,25 @@
 {100}{}{Vedi un vecchio.}
 
-//node0
+#node0
 {101}{}{Salute a te, speranza del futuro. Che la luce di Dharma splenda sempre su di te.}
 {102}{}{Speranza del futuro?} //node1
 {103}{}{Dharma?} //node2
 {104}{}{Come si e' fatto tardi! Devo proprio andare...} //end
 
-//node1 Speranza
+#node1 Speranza
 {105}{}{Nei tuoi occhi vedo la forza di chi e' in grado di cambiare il mondo. Solo Dharma sa se la userai per cambiarlo in meglio o in peggio...}
 {106}{}{Dharma?} //node2
 {107}{}{Capisco. Beh, devo andare.} //end
 
-//node2 Dharma
+#node2 Dharma
 {108}{}{Io non sono che un suo umile servo. Dharma predicava la pace e il rispetto per gli altri. Qui a Shady Sands viviamo seguendo la sua parola.}
 {109}{}{Prima avevi parlato di una "speranza". Cosa volevi dire?} //node1
 {110}{}{Vedo. Beh, ti saluto.} //end
 
-//end
+#end
 {111}{}{Che Dharma vegli sul tuo cammino.}
 
 {113}{}{Che Dharma vegli sul tuo cammino.}
 
-//badend
-{114}{}{Non parlo con chi non conosce che il male. Che Dharma possa avere pieta' di te.} 
+#badend
+{114}{}{Non parlo con chi non conosce che il male. Che Dharma possa avere pieta' di te.}

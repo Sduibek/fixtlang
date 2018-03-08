@@ -20,7 +20,7 @@
 {119}{}{If you're so bored, why don't you leave?}
 {120}{}{Well, I'm sure you're exaggerating.}
 {121}{}{It seems nice and safe here.}
- {122}{TAND_5}{Me, leave? I wish. I don't know enough to leave alone and no one else wants to go. And worst of all, my father says he would have a heart attack if something happened to me!}
+{122}{TAND_5}{Me, leave? I wish. I don't know enough to leave alone and no one else wants to go. And worst of all, my father says he would have a heart attack if something happened to me!}
 {123}{}{Tough situation. Can I ask you a few questions, though?}
 {124}{}{Shoot, I have to go. Good luck.}
 {125}{TAND_6}{Uh... I have to stand over here now.}

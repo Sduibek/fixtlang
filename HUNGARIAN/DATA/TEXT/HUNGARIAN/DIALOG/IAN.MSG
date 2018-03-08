@@ -1,0 +1,227 @@
+{100}{}{Egy alacsony, köpcös emberhez van szerencséd.}
+{101}{}{Nem szeretjük a magadfajtákat errefelé.}
+{102}{}{Helló, idegen! Úgy tûnik, új vagy minálunk. Hogy hívnak?}
+{103}{}{A nevem nem fontos.}
+{104}{}{}
+{105}{}{ a becsületes nevem.}
+{106}{}{Örgh?}
+{107}{}{Rendben van, viszont te sem vagy az.}
+{108}{}{Örülök, hogy találkoztunk. Én Ian vagyok.}
+{109}{}{Mivel foglalkozol itt?}
+{110}{}{Szeretnék többet megtudni errõl a helyrõl. Tudsz segíteni nekem?}
+{111}{}{Bocs, de nincs idõm elmebajosokra.}
+{112}{}{Hubbeli kereskedõk õre voltam, de az egyik rajtaütés során bekaptam egy lövést. Mivel a helyiek segítettek felgyógyulnom, ittragadtam. A kinti világról szerzett tapasztalatomnak és a tudásomnak nagy hasznát veszik itt. Immár Shady Sands az otthonom. Igaz, ami igaz, néhanapján ellátogatok Roncsvárosba vagy a Hubba, hogy üzleteljek, mivel gyakorlatilag én vagyok az egyetlen ember, aki valaha kitette innen a lábát.}
+{113}{}{Õ Ian.}
+{114}{}{Sajnálattal hallom, hogy megsérültél.}
+{115}{}{Hol van a Hub és Roncsváros?}
+{116}{}{Tudsz valamit mondani a banditákról?}
+{117}{}{Shady Sands apró, de önnfenntartó közösség. Két veszély fenyeget csak minket. Az egyik a banditák, a másik a radskorpiók.}
+{118}{}{A radskorpiók miért jelentenek problémát?}
+{119}{}{Sok bandita bóklászik errefelé?}
+{120}{}{Rengeteg. Mindenféle bandákból származnak. Ellopják az élelmiszerünket, és alkalmanként lelõdözik az embereinket. Seth õrséget szervezett, hogy visszaverjük a mocskokat.}
+{121}{}{Mondanál valamit Sethrõl?}
+{122}{}{Szóval többféle banda is létezik? Kikrõl van szó?}
+{123}{}{A radskorpiók nagyon veszélyesek. A farkukon mérgezõ fullánkjuk van, és iszonyat gyorsak. Aradesh próbált már megszabadulni tõlük. Ha elég bátornak érzed magad, beszélj róla Aradeshel!}
+{124}{}{Köszi, Razlo segítségének köszönhetõen jól gyógyulgat.}
+{125}{}{Seth nagyon bátor harcos. Néhanapján elmegy a radskorpiók barlangjába, hogy kinyírjon néhány dögöt, és eddig mindig visszajött. Az a baj, hogy túl sok van ott, egyszerûen nem lehet õket kiirtani.}
+{126}{}{A radskorpiók tényleg olyan veszélyesek?}
+{127}{}{Miben segíthetek?}
+{128}{}{Három banda van: a Khan-ok, a Viperák és a Sakálok. Eléggé rühellik egymást, de attól azért nem riadnak vissza, hogy mindannyian megdézsmálják Shady Sands-t.}
+{129}{}{Mondj még valamit Shady Sands-rõl!}
+{130}{}{A tapasztalt harcosok magabiztos, nyugodt tartását látod ezen az emberen.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 131 and 132.
+{131}{}{Nos, }
+{132}{}{, miben segíthetek?}
+{133}{}{Mesélj nekem a fosztogatókról!}
+{134}{}{Mesélnél a radskorpiókról?}
+{135}{}{Mit tudnál mondani Shady Sands-rõl?}
+{136}{}{Mondj valamit Sethrõl!}
+{137}{}{Meg tudnád mondani, merre találom a Hubot és Roncsvárost?}
+{138}{}{Semmiben, kösz.}
+{139}{}{A Hub nagy kereskedõközpont Shady Sands-tõl délre. Néhány kereskedõcsoport irányítja, a Vízkereskedõk, a Karmazsin Karaván és a Hosszútávú Kereskedõk. Roncsváros kicsit délre és nyugatra található. Kisebb, mint a Hub, de azért éppen elég jó, hogy az ember beugorjon egy itókára. Egy Killian Darkwater nevû fickó ügyel ott a rendre, õ a helyi boltos, seriff és polgármester.}
+{140}{}{Kösz.}
+{141}{}{Lehet, hogy már nem vagyok a legjobb harcos, de azért a hozzád hasonlókat még fél kézzel lenyomom!}
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 142 and 143.
+{142}{}{Mit tehetek érted, }
+{143}{}{?}
+{144}{}{Hmm. Semmit. Minden jót, Ian!}
+{145}{}{Akár távozhatnál is...}
+{146}{}{Meg tudnád mondani, merre találom a Hubot és Roncsvárost?}
+{147}{}{Nos, mivel ilyen szépen kérted, rendben. Viszlát!}
+{148}{}{Kösz nem. Rám itt van szükség.}
+{149}{}{Tudnál nekem segíteni egy kicsit? Jól jönne a tapasztalatod.}
+{150}{}{Indulás! Jó lesz megint egy kis testmozgás!}
+{151}{}{Ez itt Killian boltja, a vegyesbolt. Killian jó ember, és rengeteg áruja van.}
+{152}{}{Gizmo kaszinója. Igazi szerencsejátékos és éjszakai élettõl duzzadó kaptár. Vigyázz velük! Azt mondják, a játékaik meg vannak piszkálva.}
+{153}{}{Ettõl a helytõl kiver a víz.}
+{154}{}{Mi a fene történt itt?}
+{155}{}{Ez kemény dió lesz.}
+{156}{}{Hmm. Vonzó ajánlat, mivel dögunalmas ez a hely. Mondok neked valamit. 100 kupak, és megegyeztünk.}
+{157}{}{Rendben.}
+{158}{}{Kösz, de nem.}
+{159}{}{Mi lenne, ha akcióznánk helyette?}
+{160}{}{Rendben, segítek neked, ha megosztozunk a megszerzett cuccokon.}
+{161}{}{Nem, ez nem jó ötlet. Gyere vissza, ha van pénzed!}
+{162}{}{Ez itt a Fegyverbolt. Beth a vezetõje. Jó fegyvereket árul, de mégjobb pletykákat tud.}
+{163}{}{Jake fegyverüzlete. Magasak ugyan az árak, de jók a fegyverei.}
+{164}{}{Ez itt a Vízkereskedõk irodája. Õk a nagykutyák a Hubban, mivel tõlük függ a mindent mozgató víz elosztása.}
+{165}{}{Ez itt a Karmazsin Karaván. Dolgoztam nekik régebben, elég rizikós melóik vannak.}
+{166}{}{Ez itt a Hosszútávú Kereskedõk fõhadiszállása, Butch Harris a fõnök. Kicsit dili-nyomi, ha érted, mire gondolok.}
+{167}{}{Ah, a Máltai Sólyom fasza hely. Jó a zene, jó a pia, jó a társaság.}
+{168}{}{Ez egy rohadt szemétláda!}
+{169}{}{100 tapasztalati pontot kaptál, amiért meggyõzted Iant, hogy álljon be melléd.}
+{170}{}{Hallottam már ezekrõl a helyekrõl korábban, de egyikben sem voltam még. Takaros... mondjuk az ízlésemnek túlságosan is.}
+{171}{}{Not that you asked me, but the man needs to give you a little breathing room.}
+{172}{}{Y'know, that woman couldn't lead a tango, much less a revolution.}
+{173}{}{Milyen fegyverek használatában vagy jártas?}
+{174}{}{Jól nyomom bármelyik pisztollyal, és a géppisztolyok sem okoznak meglepetést. A késemmel is egész jól bánok.}#
+
+
+# Translation note
+# The following line is directed at Katja, a female scavenger, not at the player.
+# Ian is noting that he thinks that the Boneyard was a worse place than the
+# mutants' military base.
+#
+
+{175}{}{Az hittem, a Csonttelep rosszabb hely ennél.}
+{200}{}{Ha legközelebb harcba bocsátkozunk, a legjobb fegyveredet használd!}
+{201}{}{Úgy lesz.}
+{202}{}{Tehetek érted valamit, mielõtt elmegyek?}
+{203}{}{Öm, igen. Azt hiszem, jobb lesz, ha maradsz...}
+{204}{}{Öh, nem. Köszi.}
+
+#
+# Ian tell-me-abouts
+{1000}{}{Viz}
+{1001}{}{Haboru}
+{1002}{}{Shady}
+{1003}{}{Roncsvaros}
+{1004}{}{Hub}
+{1005}{}{Fosztogato}
+{1006}{}{Karavan}
+{1007}{}{Csip}
+{1008}{}{Sands}
+{1009}{}{Tanitvany}
+{1010}{}{Katedralis}
+{1011}{}{Garl}
+{1012}{}{Mester}
+{1013}{}{Egyseg}
+{1014}{}{Set}
+{1015}{}{Viznyero}
+{1016}{}{Nekropolisz}
+{1017}{}{Csarnok}
+{1018}{}{Konyvtar}
+{1019}{}{Felvigyazo}
+{1020}{}{Gyogyito}
+{1021}{}{Gyogykezeles}
+{1022}{}{Menedek}
+{1023}{}{13-as Menedek}
+{1024}{}{13as Menedek}
+{1025}{}{Killian}
+{1026}{}{Gizmo}
+{1027}{}{Csonttelep}
+{1028}{}{Kaszino}
+{1029}{}{Bolt}
+{1030}{}{Halalkarom}
+{1031}{}{Exodus}
+{1032}{}{Ujonc}
+{1033}{}{Paladin}
+{1034}{}{Kronikas}
+{1035}{}{Gyerek}
+{1036}{}{Testveriseg}
+{1037}{}{Tartaly}
+{1038}{}{Katonai Bazis}
+{1039}{}{Bazis}
+{1041}{}{Apokalipszis}
+{1042}{}{Mutans}
+{1043}{}{Morpheus}
+{1044}{}{Khan}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Pia}
+{1052}{}{Drog}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Rendfenntarto}
+{1058}{}{Gubizo}
+{1059}{}{Penges}
+{1060}{}{Nicole}
+{1061}{}{Hadnagy}
+{1062}{}{Medium}
+{1063}{}{Kiserlet}
+{1064}{}{Rendorseg}
+{1065}{}{Kereskedo}
+
+{1100}{}{Bocs barátom, de gõzöm sincs, mi az a víztisztító csip.}
+{1101}{}{Néhány évtizede történt. Néhány ország felkapta kissé a vizet, aztán jött a nagy BUMM!}
+{1102}{}{Apró és békés falu. Valószínûleg a pusztaság legígéretesebb közössége.}
+{1103}{}{Szemétbõl felhúzott közepes méretû városka, amit egy Killian nevû seriff felügyel. Néhány napi járóföldre van Shady Sands-tõl dél-nyugati irányba.}
+{1104}{}{A Hub az Új-Nyugat legnagyobb kereskedelmi központja. Egy magukat Vízkereskedõknek nevezõ csoportosulás vezeti a várost, de más kereskedõházak is vannak. Virágzó város, de jelentõs politikai csatározások dúlnak a kereskedõk között.}
+{1105}{}{Számos fosztogatóbanda létezik. A legszervezettebb a Khan-oké. Valami olyasmin törik a fejüket, hogy egy szép napon majd átveszik a világ irányítását.}
+{1106}{}{A karavánok többsége a Hubból érkezik. Mindenfelé járnak-kelnek. Mielõtt a váratlan sebesülésem bekövetkezett volna, dolgoztam egy Karmazsin Karaván nevû társaságnak.}
+{1107}{}{Bocs barátom, de gõzöm sincs, mi az a víztisztító csip.}
+{1108}{}{Apró és békés falu. Valószínûleg a pusztaság legígéretesebb közössége.}
+{1109}{}{Bocs, haver, nem tudok sokat.}
+{1110}{}{Bocs, haver, nem tudok sokat.}
+{1111}{}{Garl egy tökkelütött marha, aki magának akarja a világot a bána fosztogatóival. Szarom le.}
+{1112}{}{Bocs, haver, nem tudok sokat.}
+{1113}{}{Bocs, haver, nem tudok sokat.}
+{1114}{}{Bocs, haver, nem tudok sokat.}
+{1115}{}{Bocs, haver, nem tudok sokat.}
+{1116}{}{Az nem véletlenül a holtak mitikus városa?}
+{1117}{}{Bocs, haver, nem tudok sokat.}
+{1118}{}{Bocs, haver, nem tudok sokat.}
+{1119}{}{Bocs, haver, nem tudok sokat.}
+{1120}{}{Razlo nagyszerû orvos. Ha megsérülsz, nyugodtan meglátogathatod.}
+{1121}{}{Razlo remekül helyre tudja hozni az embereket. A junja leve külön említést érdemel!}
+{1122}{}{Bocs, haver, nem tudok sokat.}
+{1123}{}{Bocs, haver, nem tudok sokat.}
+{1124}{}{Bocs, haver, nem tudok sokat.}
+{1125}{}{Killian Roncsváros polgármestere. Van egy boltja is. Jóravaló ember, és bár sosem dolgoztam neki, szerintem rendben van a srác.}
+{1126}{}{Gizmo kaszinót üzemeltet Roncsvárosban. Úgy hallottam, meg vannak piszkálva az asztalai.}
+{1127}{}{Bocs, haver, nem tudok sokat.}
+{1128}{}{A kaszinó Gizmo nagy projektje Roncsvárosban. Rengeteg turistát és pénzt vonz, de a problémák sem maradnak el.}
+{1129}{}{Killian pöpec vegyesboltot vezet Roncsvárosban.}
+{1130}{}{Bocs, haver, nem tudok sokat.}
+{1131}{}{Bocs, haver, nem tudok sokat.}
+{1132}{}{Bocs, haver, nem tudok sokat.}
+{1133}{}{Bocs, haver, nem tudok sokat.}
+{1134}{}{Bocs, haver, nem tudok sokat.}
+{1135}{}{Ja, van egy-két kölyök Shady Sands-ben. És? Egyik sem az enyém.}
+{1136}{}{Bocs, haver, nem tudok sokat.}
+{1137}{}{Bocs, haver, nem tudok sokat.}
+{1138}{}{Bocs, haver, nem tudok sokat.}
+{1139}{}{Bocs, haver, nem tudok sokat.}
+{1141}{}{Tudod, mi mindig háborúzni fogunk, amíg világ a világ. Mondjuk a következõt botokkal fogják vívni.}
+{1142}{}{Fura dolgokat láttam, amikor õrszolgálatot láttam el a Hubbeli karavánok mellett. Mutáns prérifarkasokat, imádkozó sáskákat, skorpiókat meg ki tudja még, miket.}
+{1143}{}{Bocs, haver, nem tudok sokat.}
+{1144}{}{Elborult fosztogatócsoport az. Idõnként rátámadnak Shady Sands-re és azt hiszik, hogy egy nap majd övék lesz a világ, meg ilyen farokságok.}
+{1145}{}{Õ Aradesh lánya. Aranyos, nem mondom, de már van valaki, aki vár odahaza.}
+{1146}{}{Bocs, haver, nem tudok sokat.}
+{1147}{}{Bocs, haver, nem tudok sokat.}
+{1148}{}{Bocs, haver, nem tudok sokat.}
+{1149}{}{Bocs, haver, nem tudok sokat.}
+{1150}{}{Bocs, haver, nem tudok sokat.}
+{1151}{}{Van sör nálad?}
+{1152}{}{Az egyik karaván-rajtaütés során használtam Pszichót, de nagyon viszketett utána mindenem. Fura volt.}
+{1153}{}{Seth az õrség kapitánya. Ha engem kérdezel, még akkor sem tudna hatékonyan vigyázni valamire, ha hozzá lenne ragasztva.}
+{1154}{}{Aradesh Shady Sands vezetõje. Nagyon türelmes ember, de kissé habókos.}
+{1155}{}{Hé, ha segítség kell, Razlo a te embered. Nagyszerû orvos.}
+{1156}{}{Bocs, haver, nem tudok sokat.}
+{1157}{}{Bocs, haver, nem tudok sokat.}
+{1158}{}{Bocs, haver, nem tudok sokat.}
+{1159}{}{Bocs, haver, nem tudok sokat.}
+{1160}{}{Bocs, haver, nem tudok sokat.}
+{1161}{}{Bocs, haver, nem tudok sokat.}
+{1162}{}{Nem t'om. Biztos van benne valami, de nincs elég bizonyíték az ilyesmire.}
+{1163}{}{Bocs, haver, nem tudok sokat.}
+{1164}{}{Bocs, haver, nem tudok sokat.}
+{1165}{}{Üzleti céllal szokott néhány kereskedõ jönni a Hubból Roncsvárosba. Ennél többet nem tudok.}

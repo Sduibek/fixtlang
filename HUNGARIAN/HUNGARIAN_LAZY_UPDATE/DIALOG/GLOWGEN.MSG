@@ -1,0 +1,11 @@
+{100}{}{You see a power generator. This must be what supplies electricity to the doors, elevators and lights in this complex.}
+{101}{}{The generator is on.}
+{102}{}{Úgy tûnik, a generátor ki van kapcsolva. Eltûnõdsz, vajon visszakapcsolható-e.}
+{103}{}{The generator is already on.}
+{104}{}{Elindítod a generátor, mire az összes rendszer normalizálódik.}
+{105}{}{Nem sikerül beindítani a generátort.}
+{106}{}{Nincs meg a tudásod ahhoz, hogy megjavíthasd a renszert.}
+
+###Reaching LVL5 exp msg, by Sduibek, for Fallout Fixt
+{107}{}{You hear a constant mechanical humming on this level, which reminds you of something that you can't quite put your finger on...}
+

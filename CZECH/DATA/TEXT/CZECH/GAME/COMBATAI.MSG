@@ -25,10 +25,10 @@
 #
 {1000}{}{Tomuhle sem se neupsal}
 {1001}{}{Za tohle mi teda platí málo}
-{1002}{}{Padáme!}	
+{1002}{}{Padáme!}
 {1003}{}{Padáme!}
 {1004}{}{Tohle za chcípnutí nestojí!}
-{1005}{}{Tak to mi staèí} 
+{1005}{}{Tak to mi staèí}
 #
 # moving in to attack
 #
@@ -114,7 +114,7 @@
 {1055}{}{Tak tohle bolelo}
 
 # 2. Guard 2 (Gung-ho)
-# Guard 2 should be used for really military types or military wannabes. It's a 
+# Guard 2 should be used for really military types or military wannabes. It's a
 # little over the top in places. He's a little bit conceited.
 #
 #  running away
@@ -210,7 +210,7 @@
 {1155}{}{Ty sráèi....}
 
 # 3. Guard 3 (Sadistic)
-# Guard 3 is the henchman of really nasty people. He likes to hurt people, and 
+# Guard 3 is the henchman of really nasty people. He likes to hurt people, and
 # makes no bones about it and is a bit of a couard.
 #
 #  running away
@@ -601,8 +601,8 @@
 {1558}{}{Aauuu. Tak tomuhle øíkám bolest!}
 
 # 7. Guard 7 (Rookie)
-# "I can hit a target real good when it ain't moving. I'm sure looking forward 
-# to some real action. Honest I am!" (Naive, and probably won't live long enough 
+# "I can hit a target real good when it ain't moving. I'm sure looking forward
+# to some real action. Honest I am!" (Naive, and probably won't live long enough
 # to learn)
 #
 #  running away
@@ -702,7 +702,7 @@
 {1659}{}{Ksakru, to bolelo!}
 
 # 8. Bouncer
-# Bouncer is a professional. Fighting scum is his business. The opponent is 
+# Bouncer is a professional. Fighting scum is his business. The opponent is
 # another loser who's coused too much trouble.
 #
 #  running away
@@ -991,7 +991,7 @@
 {1958}{}{Ack!}
 
 # 11. Peasant
-# I work the land. Is this is what I get for years of hard work? Some well-armed 
+# I work the land. Is this is what I get for years of hard work? Some well-armed
 # troublemaker who's making my life miserable?
 #
 #  running away
@@ -1280,8 +1280,8 @@
 {2258}{}{Za to si zasloužíš zemøít...}
 
 # 14. Nightkin
-# We are the Chosen of the Master, and all must bou before us. (Sakra these 
-# bastards are really arrogant); my interpretation is that these boys are smarter 
+# We are the Chosen of the Master, and all must bou before us. (Sakra these
+# bastards are really arrogant); my interpretation is that these boys are smarter
 # and more cunning than garden variety super mutants.
 #
 # running away
@@ -1343,7 +1343,7 @@
 {2336}{}{Áaaaaou! Toho budeš litovat}
 #
 # target hit in torso
-#	
+#
 {2337}{}{Áaaa!}
 {2338}{}{Uf!}
 {2339}{}{Vùdèe!}
@@ -1825,7 +1825,7 @@
 {2859}{}{Uff! Za tohle tì oddìlám!}
 
 # 20. Super Mutant, Necropolis
-# The lesser species need to knou when to stand aside. (Sakra, these bastards 
+# The lesser species need to knou when to stand aside. (Sakra, these bastards
 # are arrogant)
 #
 #  running away
@@ -2331,7 +2331,7 @@
 {3361}{}{...nemùžu...dýchat...}
 
 # 25. Leader, Shady Sands
-# I don't want trouble, but it comes around often enough that I knou hou to deal 
+# I don't want trouble, but it comes around often enough that I knou hou to deal
 # with it.
 #
 #  running away (6)
@@ -2428,7 +2428,7 @@
 #
 {3456}{}{Oooooo, moje nebohý koule!}
 {3457}{}{Aieee!}
-{3458}{}{}                                       
+{3458}{}{}
 {3459}{}{Ouff!}
 {3460}{}{Oooooo! To jsem nežral! Aauuu}
 {3461}{}{Oooooo! To bolelo. Asi stárnu nebo co.}
@@ -4447,7 +4447,7 @@
 {5461}{}{}
 
 # 46. Super Mutant, Sergeant
-# I lead the apocalypse. Corpses to the left, corpses to the right, and death in 
+# I lead the apocalypse. Corpses to the left, corpses to the right, and death in
 # front of me.
 #
 #  running away
@@ -4702,7 +4702,7 @@
 #
 {5731}{}{Áááaamm! moje ruka}
 {5732}{}{Moje ruka!}
-{5733}{}{Á, ruka v jeteli...} 
+{5733}{}{Á, ruka v jeteli...}
 #
 # target hit in right arm
 #
@@ -4852,7 +4852,7 @@
 {5861}{}{Sakra, to bolelo!}
 
 # 50.  Mutant, Hub
-# We've made a home for ourselves here, and we'll be Sakraed if we just let you 
+# We've made a home for ourselves here, and we'll be Sakraed if we just let you
 # walk in and take it away from us.
 #
 #  running away (6)
@@ -4871,8 +4871,7 @@
 {5908}{}{Nìkdo tady potøebuje lekci}
 {5909}{}{Á, tady to nìkdo schytá...}
 {5910}{}{}
-{5911}{}{Na Huby si nikdo otvírat hubu nebude!} blbý, co...
-#
+{5911}{}{Na Huby si nikdo otvírat hubu nebude!} #blbý, co...
 # attacking
 #
 {5912}{}{Tumáš!}
@@ -4956,7 +4955,7 @@
 {5961}{}{}
 
 # 51. Peasant, Junktoun
-# Wait a minute. I already pay to three different protection rackets. Be 
+# Wait a minute. I already pay to three different protection rackets. Be
 # reasonable!
 #
 #  running away
@@ -5160,7 +5159,7 @@
 {6161}{}{}
 
 # 53. Killian
-# I ain't happy about killing you, but if you're set on cousing trouble, push 
+# I ain't happy about killing you, but if you're set on cousing trouble, push
 # has gotta come to shove
 #
 #  running away
@@ -6064,7 +6063,7 @@
 {7061}{}{Žádný další špinavý údery, prase}
 
 # 62. Brotherhood_Elders
-# Insolent pup. Why do you bother us with idle chatter when there are enemies to 
+# Insolent pup. Why do you bother us with idle chatter when there are enemies to
 # fight
 #
 #  running away
@@ -6450,7 +6449,7 @@
 #
 # target hit in left leg
 #
-{7450}{}{Po bolesti pøijde vykoupení, mé dítì.} 
+{7450}{}{Po bolesti pøijde vykoupení, mé dítì.}
 {7451}{}{Vùdce bude mýma nohama, dítì.}
 {7452}{}{Každé oslabení tìla posílí mou duši.}
 #

@@ -124,7 +124,7 @@
 {140}{}{哦，是的。好吧。再见。}
 
 #{141}{}{You know，you're right。What have I got to lose？The next time I see her，I think I will ask her out。
-# Maybe I'll try and get on the same patrol as here and surprise her with a nice romantice dinner。Thanks 
+# Maybe I'll try and get on the same patrol as here and surprise her with a nice romantice dinner。Thanks
 # a lot。You have really made my day。Here，take these。You should be able to find a use for them。
 # They are dexterity boosters。Be careful with them They can be highly addictive。Bye。}
 {141}{}{嗯，你说的没错。我还怕失去什么呢？下次我见到她，我想我会请她约会。或许我可以试试找个机会和她一起执行巡逻任务，然后用一顿美好而浪漫的晚餐给她一个惊奇。多谢你。你让我感觉真的很棒。给，把这些拿去。你会用到它们的。它们是增强敏捷的药品。使用它们小心点，它们会高度上瘾。再见。}
@@ -186,7 +186,7 @@
 #{160}{}{Thank you。You have been very helpful。}
 {160}{}{谢谢你。你真是帮了我的大忙。}
 
-#{161}{}{Well，here's the drug you had authorization for。Be careful with that。They can become addictive if you use 
+#{161}{}{Well，here's the drug you had authorization for。Be careful with that。They can become addictive if you use
 # them too often。Detoxing and withdrawals are not much fun，but I guess they're pretty much the same thing。
 # Use at your own risk。Is there anything else I can do for you？}
 {161}{}{嗯，这是你的授权可以获得的药品。小心使用那些东西。如果你太频繁使用它们就会上瘾。停止服药和戒除药瘾都不是好玩的，不过，我想它们差不多也就是一回事。使用它还是有风险的。我还能为你做点别的什么吗？}
@@ -348,10 +348,10 @@
 #{212}{}{I don't know。}
 {212}{}{我不清楚。}
 
-#{213}{}#{10mm Jacketed Hollow Point。}
+#{213}{}{10mm Jacketed Hollow Point。}
 {213}{}{10mm JHP。}
 
-#{214}{}#{10mm Armor Piercing。}
+#{214}{}{10mm Armor Piercing。}
 {214}{}{10mm AP。}
 
 #{215}{}{44 magnum Jacketed Hollow Point。}
@@ -360,7 +360,7 @@
 #{216}{}{44 magnum Full Metal Jacket。}
 {216}{}{.44 FMJ。}
 
-#{217}{}#{14mm Armor Piercing}
+#{217}{}{14mm Armor Piercing}
 {217}{}{14mm AP。}
 
 #{218}{}{。223 Full Metal Jacket。}
@@ -478,8 +478,8 @@
 #{256}{}{Just give it to me。}
 {256}{}{只管把它给我。}
 
-#{257}{}{If you don't have authorization you can not get replacement parts。} 
-{257}{}{如果你没有授权，你不能领走零部件。} 
+#{257}{}{If you don't have authorization you can not get replacement parts。}
+{257}{}{如果你没有授权，你不能领走零部件。}
 
 #{258}{}{Come on？Please。I really need this part。}
 {258}{}{快点吧？拜托。我真的需要这个部件。}

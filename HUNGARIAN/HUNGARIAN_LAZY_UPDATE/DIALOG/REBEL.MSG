@@ -1,0 +1,49 @@
+{100}{}{You see: A vault-dweller.}
+{101}{}{You see: Upset vault-dweller.}
+{102}{}{}
+{103}{}{}
+{104}{}{}
+{105}{}{Köszönöm, hogy megmentettél minket.}
+{106}{}{Egy kicsit bizonytalan voltam, vajon meg tudod-e csinálni, de most már bízom benned.}
+{107}{}{Köszönöm! Köszönöm!}
+{108}{}{Hõs vagy. Ha felnõ, az én kis Bobbym is követni akarja a példádat. Nem tudom, hogy jó lesz-e.}
+{109}{}{Hõs vagy. Ha felnõ, az én kis Bobbym is követni akarja a példádat. Nem tudom, hogy jó lesz-e.}
+{110}{}{Klassz srác vagy!}
+{111}{}{Klassz csaj vagy!}
+{112}{}{Biztos, hogy szükség van arra itt?}
+{113}{}{Az egy fegyver!}
+{114}{}{Használtad már a fegyveredet bárki ellen is?}
+{115}{}{Mibõl gondolod, hogy szükség van itt a fegyverekre?}
+{116}{}{Helló! Hogy halad a keresés?}
+{117}{}{Elég tûrhetõen.}
+{118}{}{Nem túl jól.}
+{119}{}{Ögh.}
+{120}{}{Hát, örülök, hogy ezt hallom. Csak így tovább!}
+{121}{}{Semmi gond.}
+{122}{}{Tudjuk, hogy nincs remény. Nem létezik, hogy sikerül idõben szerezni egy új csipet. Szerintem, mielõtt nem késõ, valamelyikünknek ki kéne mennie a külvilágba.}
+{123}{}{Nem hinném, hogy ez jó ötlet.}
+{124}{}{Hmm. Minden bizonnyal ez a létezõ legjobb ötlet.}
+{125}{}{Kérlek, siess!}
+{126}{}{Ne aggódj, megtalálom azt a csipet!}
+{127}{}{Talán el kéne jönnöd az egyik megbeszélésünkre. Theresának vannak jó ötletei. A második szinten lévõ szobájában szoktunk találkozni, minden este öt órakor.}
+{128}{}{Gondolkodom rajta.}
+{129}{}{Nem, kösz. Van egy csomó elintéznivalóm.}
+{130}{}{Ez Theresa elképzelése. Már mindent kifundált. Azon vagyunk, hogy hamarosan elhagyjuk a Menedéket.}
+{131}{}{Sok szerencsét!}
+{132}{}{Szerintem még nem kéne elmenned.}
+{133}{}{Miért téged választott a Felvigyázó? Teljesen nyilvánvaló, hogy még a cipõfûzõdet sem tudod bekötni, nemhogy találj egy vízcsipet. Bizony.}
+{134}{}{Örgh.}
+{135}{}{Nincs dolgod? Siess, találd meg a csipet!}
+{136}{}{Nehogy már megmondd, mit csináljak, te csíra!}
+{137}{}{Jól van! Hogy micsoda emberek vannak.}
+{138}{}{Gdorf!}
+{139}{}{Te áruló! Az összes Menedéklakó életét megpecsételted! Remélem, most örülsz magadnak!}
+
+{1000}{}{Felvigyazo}
+{1001}{}{13-as Menedek}
+{1002}{}{Vault 13}
+{1003}{}{Menedek}
+{1100}{}{A Felvigyázó mindenkit a saját akaratának akar alávetni. Önerõbõl ki kéne mennünk a külvilágba.}
+{1101}{}{A Menedék eddig az otthonunk volt, de már nem lesz így sokáig. Itt az idõ, hogy új otthonra leljünk.}
+{1102}{}{A Menedék eddig az otthonunk volt, de már nem lesz így sokáig. Itt az idõ, hogy új otthonra leljünk..}
+{1103}{}{A Menedék eddig az otthonunk volt, de már nem lesz így sokáig. Itt az idõ, hogy új otthonra leljünk.}

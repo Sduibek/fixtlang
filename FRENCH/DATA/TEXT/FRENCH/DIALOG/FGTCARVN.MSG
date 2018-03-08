@@ -4,11 +4,11 @@
 {103}{}{Alors tu t'es engagé, content de l'apprendre ! Comme tu le sais, on part tous les dix jours : le 8, le 18 et le 28 de chaque mois. Là maintenant, on met le cap sur la Confrérie, Dépôtville et le Cimetière de L.A.}
 {104}{}{Et ça paie combien ?}
 {105}{}{Hum.}
-{106}{}{400 caps. Tu trouves peut-être ça léger, mais on part souvent et y'a pas vraiment de risques. Ça, c'est pour l'aller, et tu ramasses 800 si tu fais aussi le retour.}
+{106}{}{400 caps. Tu trouves peut-être ça léger, mais on part souvent et y'a pas vraiment de risques. Ça, c'est pour l'aller, et tu ramasses 800 si tu fais aussi le retour. }
 {107}{}{Y'a un départ aujourd'hui. Ça t'intéresse ?}
-{108}{}{On part }
+{108}{}{On part en }
 {109}{}{Vide }
-{110}{}{ }
+{110}{}{ le }
 {111}{}{. Ça t'intéresse ?}
 {112}{}{J'te filerai quand même un boulot, même si... non, rien. Ça t'intéresse ?}
 {113}{}{Ouais.}
@@ -29,7 +29,7 @@
 {128}{}{Je vais t'arracher le cœur à la petite cuillère !}
 {129}{}{[Se rendre]}
 {130}{}{[Attaquer]}
-{131}{}{Ah, tu m'craches à la figure, hein ? J'crois qu'le seul moyen de d'enfoncer ça dans ton crâne épais, cest de le séparer de ton cou.}
+{131}{}{Ah, tu m'craches à la figure, hein ? J'crois qu'le seul moyen de d'enfoncer ça dans ton crâne épais, c'est de le séparer de ton cou.}
 {132}{}{Bon, mais ça change rien. Faut quand même que tu te barres.}
 {133}{}{Tu crois que j'vais gober ces salades ? Gardes !}
 {134}{}{Peut-être qu'un petit séjour dans la citerne t'apprendrait les bonnes manières. Alors, tu viens gentiment ou faut qu'on emploie les grands moyens ?}
@@ -44,10 +44,10 @@
 {143}{}{Fiche le camp.}
 {144}{}{C'est mignon, mais je suis pas vraiment ton genre.}
 {145}{}{Bon d'accord ! Ça paiera 400 caps. Quel trajet tu préfères ?}
-{146}{}{Ça fait plaisir à entendre. Reviens le }
-{147}{}{8 }
-{148}{}{18 }
-{149}{}{28 }
+{146}{}{Ça fait plaisir à entendre. Reviens en }
+{147}{}{le 8}
+{148}{}{le 18}
+{149}{}{le 28}
 {150}{}{ }
 {151}{}{ }
 {152}{}{Confrérie de l'Acier }
@@ -93,11 +93,11 @@
 {192}{}{Oui.}
 {193}{}{Non !}
 {194}{}{Beeeeen...}
-{195}{}{Sinon je le donne à quelqu'un d'autre, t'en fais pas. T'as aucune obligation... tant que tu prends pas la route avec une caravane, tu piges ?}
-{196}{}{La prochaine caravane ne part pas avant le }
-{197}{}{8 }
-{198}{}{18 }
-{199}{}{28 }
+{195}{}{ Sinon je le donne à quelqu'un d'autre, t'en fais pas. T'as aucune obligation... tant que tu prends pas la route avec une caravane, tu piges ?}
+{196}{}{La prochaine caravane part en }
+{197}{}{le 8}
+{198}{}{le 18}
+{199}{}{le 28}
 {200}{}{ }
 {201}{}{ }
 {202}{}{ }

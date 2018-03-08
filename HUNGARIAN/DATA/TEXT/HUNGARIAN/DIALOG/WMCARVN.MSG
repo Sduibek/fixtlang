@@ -1,0 +1,232 @@
+{100}{}{Egy karavánkísérõt látsz.}
+
+{101}{}{Üdv, ha munkát szeretnél a karaván mellett, beszélj a Kereskedõ-Mesterrel! A hölgy a keletre lévõ épületben van.}
+
+{102}{}{Elnézést, de a Kereskedõ-Mesterrel kéne beszélned.}
+
+{103}{}{Jó, hogy rábólintottak a munkádra. Tudtam, hogy nem lesz vele probléma. A csaj úgy el van havazva mostanában, különösen, hogy Daren Hightower bevette magát az irodájába. Fura egy fazon az. Mindegy... ötnaponta szoktunk karavánokat indítani. Így elsejére, ötödikére, tizedikére, tizenötödikére, huszadikára és huszonötödikére esnek az idõpontok. Jelenleg csak Roncsvárosba és az LA Csonttelepre szoktunk járni.}
+
+{104}{}{Na, és mennyi a fizetség?}
+
+{105}{}{Öm.}
+
+{106}{}{200 hubdolcsit kapsz. Lehet, hogy elsõre nem tartod valami sokra, de gyakran megyünk, és az életed sem forog túl nagy veszélyben. Ráadásul a pénzt minden útra megkapod. Nem kötelezõ oda-vissza menned. }
+
+{107}{}{Ma indulunk. Érdekel?}
+
+{108}{}{Indulás }
+
+{109}{}{Üres}
+
+{110}{}{}
+
+{111}{}{. Érdekel?}
+
+{112}{}{Még annak ellenére is van munka számodra, hogy... na, mindegy. Érdekel vagy sem?}
+
+{113}{}{Érdekel. }
+
+{114}{}{Nem.}
+
+{115}{}{Esetleg.}
+
+{116}{}{Jaja.}
+
+{117}{}{Tae?}
+
+{118}{}{Nyugtáztam, semmi probléma. Csak szólj, ha meggondolnád magad!}
+
+{119}{}{Bárcsak meggondolnád magad.}
+
+{120}{}{Na, mindegy, majd ugorj be, ha úgy döntesz, hogy velünk akarsz dolgozni! Elsején, ötödikén, stb. Minden jót!}
+
+{121}{}{Elnézést, de addig nem bérelhetlek fel, amíg nem tudsz értelmesen kommunikálni a többi társaddal.}
+
+{122}{}{Ha már jobban érzed magad, gyere vissza!}
+
+{123}{}{Bocs, de jól vagy? Valószínûleg kéne enned valamit, de a Bob féle kaját nem ajánlom.}
+
+{124}{}{Na, menet kifelé!}
+
+{125}{}{Látom, csalódnom kell benned... lopásra adni a fejed... Most miért kellett ezt csinálni?}
+
+{126}{}{Mer' én egy aljas kis, zöld rohadék vagyok a világûrbõl, ezenkívûl... "rossz ember" vagyok!}
+
+{127}{}{Nem akartam, de éhezem, és etetnem kell a gyerekeimet.}
+
+{128}{}{Kiskanállal fogom kivájni a szívedet! }
+
+{129}{}{(Megadod magad)}
+
+{130}{}{(Támadsz)}
+
+{131}{}{Próbáltam segíteni neked, de vannak emberek, akikrõl lepereg a segítség. Bocs, hogy ilyesmit kell mondanom, de úgy látom, az erõszakos verzióhoz kell folyamodnom.}
+
+{132}{}{Értem én, de ez nem ment fel az alól, amit tettél, és meg kell kérjelek, távozz! Nem alkalmazhatok olyan embereket, akik képtelenek ellenállni az ilyen kísértéseknek.}
+
+{133}{}{Szerinted én tényleg beveszem ezt a maszlagot? Õrség!}
+
+{134}{}{Bocs, hogy ilyet mondok, de néha jót tesz egy kis csukda az embereknek. Õrség! Ne öljétek meg, ha nem muszáj! Megadod magad az õreimnek?}
+
+{135}{}{Találkozunk a pokolban!}
+
+{136}{}{Igen. Elnézést.}
+
+{137}{}{Micsoda? Megint újabb bunyót akarsz?}
+
+{138}{}{Nem szívesen mondok ilyet, de menj innen, mielõtt kénytelen leszek hívni a rendõrséget!}
+
+{139}{}{Õrség! Rendõrség!}
+
+{140}{}{Asszem, jobb lenne, ha távoznál!}
+
+{141}{}{Bocs, de nem adhatok munkát neked.}
+
+{142}{}{Légy szíves... ne nehezítsd meg a dolgomat!}
+
+{143}{}{Kérlek, távozz!}
+
+{144}{}{Meggondolandó, de nem vagy az esetem.}
+
+{145}{}{Frankó! 400 jár a munkáért. Melyik útvonalat részesíted elõnyben?}
+
+{146}{}{Szuper! Gyere vissza }
+
+{147}{}{1-én}
+
+{148}{}{5-én}
+
+{149}{}{10-én}
+
+{150}{}{15-én}
+
+{151}{}{20-án}
+
+{152}{}{25-én}
+
+{153}{}{. Akkor fogunk indulni. Mint mindig, 200 hubdolcsi a fizetség.}
+
+{154}{}{Oké.}
+
+{155}{}{Elnézést, de nem tudok annyit várni.}
+
+{156}{}{Tragédia ez... Az egész karaván odalett, te viszont túlélted. Ez nem fordulhatott volna elõ. Nem tudom, mi történt odakinn, de többet nem bérelhetlek fel. Sajnálom.}
+
+{157}{}{Roncsvaros}
+
+{158}{}{LA Csonttelep }
+
+{159}{}{Öhm, most sehova nem mennék. Talán máskor.}
+
+{160}{}{Nagyon jó. Összeterelem a csapat többi tagját.}
+
+{161}{}{Király!}
+
+{162}{}{Indulás! Sok szerencsét!}
+
+{163}{}{Próbáld elkerülni a bajt, külön ne keresd!}
+
+{164}{}{Vigyázz arrafelé! Nem csípem azt a Csonttelepet. Kiráz tõle a hideg.}
+
+{165}{}{Nem rossz. Azok a fekete utak elég furák, de jól lehet rajtuk közlekedni.}
+
+{166}{}{Úgy tudom, van egy pár banda arrafelé. A helyedben nagyon vigyáznék, kivel állok szóba.}
+
+{167}{}{Helyes! Roncsváros jó kis hely.}
+
+{168}{}{Aha, add át az üdvözletem annak a... Kill... hogy is hívják? Mindig elfejeltem a nevét, de jó srác, annyit mondhatok. Kiváncsi vagyok, mi van vele.}
+
+{169}{}{Érdekes egy hely az. Hallottam, hogy valami gonosz doki holtakat mozgat vagy mifene...}
+
+{170}{}{Mi a francért kellett otthagyni az utolsó karavánt? Semmi rossz nem történt velük, de akár történhetett is volna.}
+
+{171}{}{Kaphatnék egy újabb esélyt?}
+
+{172}{}{Semmit.}
+
+{173}{}{Szarom le!}
+
+{174}{}{Ig va níka rúúúla?}
+
+{175}{}{Lig.}
+
+{176}{}{Sajnálom, de újfent elcseszted. Nagyon hanyag vagy, és ez nem igazán illik bele az arculatunkba.}
+
+{177}{}{Aztán miért?}
+
+{178}{}{Nem kéne...}
+
+{179}{}{Mert ha nem, kilyukasztom a fejedet!}
+
+{180}{}{Jobb dolgom is van, mint ostoba karavánok mellett gályázni.}
+
+{181}{}{Nem tudtam, hogy nem lehet elmennem. Minden a legnagyobb rendben volt. Legalábbis úgy tûnt.}
+
+{182}{}{Értem... szóval tele voltál drogokkal. Hát, éld csak ezt az életet, ha ez a szíved vágya...}
+
+{183}{}{Sajnálom, hogy ez a véleményed.}
+
+{184}{}{Meg vagyok lepve, hogy még sosem csináltál karavánosdit korábban, de szerintem... senkinek nem görbül egy haja szála sem, ha adok még egy esélyt.}
+
+{185}{}{Nagyszerû munkát végeztél! Jöhet egy újabb meló?}
+
+{186}{}{Hogyne.}
+
+{187}{}{Nem.}
+
+{188}{}{Talán.}
+
+{189}{}{Eeek!}
+
+{190}{}{Lub.}
+
+{191}{}{Készen állsz? Ma indulunk.}
+
+{192}{}{Igen.}
+
+{193}{}{Nem!}
+
+{194}{}{Jaj!}
+
+{195}{}{Különben odapasszolom a munkát valaki másnak, nem kell aggódni miatta. Amíg útnak nem indulsz a karavánnal, semmi sem kötelez, rendben?}
+
+{196}{}{Kicsit korábban jöttél. A következõ karaván }
+
+{197}{}{1-én}
+
+{198}{}{5-én}
+
+{199}{}{10-én}
+
+{200}{}{15-én}
+
+{201}{}{20-án}
+
+{202}{}{25-én}
+
+{203}{}{ indul. Gyere vissza akkor, ha még érdekel a meló! }
+
+{204}{}{január hónapban }
+
+{205}{}{február hónapban }
+
+{206}{}{március hónapban }
+
+{207}{}{április hónapban }
+
+{208}{}{május hónapban }
+
+{209}{}{június hónapban }
+
+{210}{}{július hónapban }
+
+{211}{}{augusztus hónapban }
+
+{212}{}{szeptember hónapban }
+
+{213}{}{október hónapban }
+
+{214}{}{november hónapban }
+
+{215}{}{december hónapban }
+

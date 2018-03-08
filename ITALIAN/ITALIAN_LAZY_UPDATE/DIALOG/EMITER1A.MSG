@@ -1,0 +1,17 @@
+{100}{}{You do not see a control panel on this emitter.}
+{101}{}{Danneggiando il generatore hai disattivato temporaneamente il campo di forza.}
+{102}{}{Hai distrutto completamente il generatore e il campo di forza si dissolve.}
+{103}{}{Hai disattivato temporaneamente il generatore di campo di forza.}
+{104}{}{Non riesci a fare alcunche' con il generatore di campo di forza.}
+{105}{}{Hai attivato il generatore di campo di forza.}
+{150}{}{Your attempt to re-wire the field emitter fails.}
+{151}{}{You turn off the field emitter.}
+{200}{}{You see a horribly-damaged field emitter.}
+{201}{}{The emitter is too damaged to use.}
+{202}{}{The emitter is too damaged to repair.}
+{203}{}{You notice that the field is damaged enough to walk through.}
+#
+# Fallout Fixt
+#
+{204}{}{A well-placed explosive blast might knock out the emitter completely.}
+{205}{}{You don't see any way to attach the explosives to the emitter. You'll need to place them nearby.}

@@ -1,7 +1,7 @@
 {100}{}{Vedi una donna.}
 {101}{}{Non desidero morire, signore. Non sono un soldato.} //-00
 {102}{}{Non desidero morire, signora. Non sono un soldato.} //-00
-{103}{}{Inizia a parlare e ti lascero' vivere.} //9 
+{103}{}{Inizia a parlare e ti lascero' vivere.} //9
 {104}{}{Nemmeno io. Uccido solo quando sono costretto.} //10
 {105}{}{Come mai adesso non lodi il tuo Master, eh?} //11
 {106}{}{Ti faro' salva la vita in cambio di un bel bicchiere di quello buono. Dove tenete le vostre scorte?} //12
@@ -109,7 +109,7 @@
 {208}{}{E questa e' solo una scusa da codardi che non risolve nulla. Se la vita fa schifo, noi dovremmo cercare di cambiarla. Lo dobbiamo a noi stessi e ai nostri figli. Pensi che il mondo rimarra' lo stesso, quando ci divideremo in centinaia di fazioni bellicose? Pensaci!} //-37
 {209}{}{O forse c'e' la salvezza mascherata da genocidio. Forse il mondo non sarebbe cosi' brutto se tutti lavorassero per realizzare la visione del Master. Forse riusciremmo persino a trovare un modo per farlo senza spargimenti di sangue. Pensaci!} //-38
 {210}{}{Benissimo. Ma se continui per questa strada, morirai. Volevo soltanto che tu lo sapessi.} //-39
-{211}{}{Puoi uccidermi. Cosi' confermeresti la mia opinione, naturalmente, anche se questo non mi salverebbe la vita. La scelta spetta a te.} //-40 
+{211}{}{Puoi uccidermi. Cosi' confermeresti la mia opinione, naturalmente, anche se questo non mi salverebbe la vita. La scelta spetta a te.} //-40
 {212}{}{Hai dimenticato l'Apocalisse? Guarda come ci ha ridotti! L'Unita' e' l'unica soluzione per evitare che cio' accada di nuovo. E l'Unita' deve esserci ORA, prima che gli altri Vault in giro per il mondo abbiano la possibilita' di riorganizzare le loro forze.} //-41
 {213}{}{Mi sembri un po' troppo intelligente per stare in mezzo a questo branco di zombie.} //28
 {214}{}{Vuoi che tutti si comportino come le persone in questa stanza? Ma e' peggio che essere morti!} //29
@@ -167,7 +167,7 @@
 {266}{}{E' pericoloso permettere ad un cane rabbioso di entrare in casa propria solo perche' non gli si vede la saliva. Addio.} //-54
 {267}{}{E allora sei stato calunniato, dato che l'intero Boneyard racconta storie terribili sul tuo conto. E non ho alcun desiderio di scoprire se esse siano vere o meno. Addio.} //-55
 {268}{}{Ogni lotta comporta un prezzo da pagare, e la lotta piu' grande richiede inevitabilmente il prezzo piu' elevato. Tale e' il paradosso della pace, temo. Sono parole su cui ragionare, sicuramente. Arrivederci.} //-56
-{269}{}{E' un paradosso. Certamente lo era, ma i mali piu' grandi possono portare al bene piu' grande. Tutto cio' che serve e' l'intelligenza e il coraggio di chi sopravvive. Sono parole su cui ragionare, sicuramente. Arrivederci.} -//57
+{269}{}{E' un paradosso. Certamente lo era, ma i mali piu' grandi possono portare al bene piu' grande. Tutto cio' che serve e' l'intelligenza e il coraggio di chi sopravvive. Sono parole su cui ragionare, sicuramente. Arrivederci.} //-57
 {270}{}{Non dovremmo giudicare le persone dal loro aspetto fisico. Il fine del Master e' nobile, e questo e' tutto quel che mi serve sapere. Se ti interessa sapere cosa pensa la gente, chiedi a loro, non a me.} //-58
 {271}{}{Forse. La visione del Master e' cosi' ambiziosa e geniale che immagino si possano ignorare quei pochi punti oscuri che essa comprende. Se ti ho scoraggiato, ti porgo le mie scuse. Se cerchi consiglio, ti suggerisco di rivolgerti ad animi piu' arditi del mio. Arrivederci.} //-59
 {272}{}{Ma certo che il Master esiste! Perche' non dovrebbe? Noi facciamo molte cose, e di alcune non vado molto fiera, ma l'inganno non e' una di queste. La visione di Pace e Unita' che il Master propone e' reale. Arrivederci.} //-60

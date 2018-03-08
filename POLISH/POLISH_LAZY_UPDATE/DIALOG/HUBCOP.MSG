@@ -1,0 +1,65 @@
+# These are the police of the Hub (a large metropolis). They are either gender, but using
+# Male is the best approach. They are simpltons who have a badge only because no one else
+# would take the badge. Speech has an absent-mindedness about it.
+
+{100}{}{To funkcjonariusz Policji Hubu.}
+# Police Officer is male
+
+{101}{}{Witaj! Uwa¿aj tu na... Ee, to znaczy, uwa¿aj... [Funkcjonariusz dziwnie spogl¹da na pozosta³ych policjantów i kiwa g³ow¹ w Twoim kierunku.]}
+{102}{}{Siemanko... Czekaj! Znam ciê! Szukamy ciê za kradzie¿! Nie ruszaj siê!}
+# Stranger is the player. Consider Male.
+
+{103}{}{OK, poddajê siê.}
+{104}{}{Poczêstuj siê o³owiem!}
+# "Eat lead" is equivalant to "I'm going to kill you."  Bullets contain lead :)
+
+{105}{}{Kor rok!}
+# "Kor Rok" is just garbled sounds a moronic player is saying.
+
+{106}{}{(Put your hands in the air and give up.)}
+{107}{}{Uwa¿aj na siebie - to nie jest bezpieczne miejsce.}
+
+# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
+{108}{}{Uwa¿aj na kiesê, }
+# scripts are money
+
+{109}{}{kolego.}
+{110}{}{paniusiu.}
+{111}{}{Lepiej st¹d odejdŸ, tu nie jest bezpiecznie.}
+{112}{}{Stare Miasto siê dos³ownie rozpada.}
+# Old Town is another section of town. This is were the poor and down-trodden live.
+
+{113}{}{Œmierdzi tu.}
+{114}{}{Powinniœmy wyburzyæ ca³¹ Starówkê.}
+{115}{}{Ten cholerny Kr¹g Z³odziei musi byæ gdzieœ tu w pobli¿u.}
+# the Thieve's Circle is similar to a Thieve's Guild. underground organization for thieves.
+
+{116}{}{Biedny Harold - on to mia³ ciê¿kie ¿ycie.}
+# Harold is Male
+
+{117}{}{Nie próbuj ¿adnych numerów.}
+# == Don't do anything illegal.
+
+{118}{}{Hej. Znam ciê. ¯adnych wiêcej rozrób, OK?}
+{119}{}{Lepiej nawet nie myœl o wszczêciu kolejnej walki!}
+{120}{}{Jak znowu przy³apiemy ciê na walce, pójdziesz siedzieæ!}
+# "You're going in" equals "You are going to jail"
+
+{121}{}{Znasz ju¿ nowinê? Wszêdobylskich Handlowców wyciêto w pieñ.}
+# Far Go Traders is a merchant's guild
+
+{122}{}{Kupcy Wodni przeszli do historii; co za szczêœcie.}
+# Water Merchants is a merchant's guild
+
+{123}{}{Ktoœ wybi³ ludzi Karmazynowej Karawany.}
+# Crimson Caravans is a merchant's guild
+
+{124}{}{Znasz nowinê? Podziemie w koñcu zosta³o rozgromione!}
+# Underground is a rough organization for assassins. Akin to the Mafia
+
+{125}{}{Kafar nie ¿yje!}
+# Decker is Male
+
+{126}{}{Bez Kafara to miasto bêdzie bezpieczniejsze.}
+# == "This town would be safer with Decker dead."
+

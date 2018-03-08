@@ -1,0 +1,98 @@
+{100}{}{To wygl¹da na terminal kontrolny robota.}
+{101}{}{Nie ma ¿adnej reakcji.}
+{102}{}{Zakoñczono przeprogramowywanie. Inicjalizacja podsystemów komunikacji werbalnej. Inicjalizacja podsystemu osobowoœci. [Klik!] W czym mo¿e pomóc ten terminal?}
+{103}{}{Hng.}
+{104}{}{Kim albo czym jesteœ?}
+{105}{}{Jaka jest twoja funkcja?}
+{106}{}{Wyœwietl listê programów.}
+{107}{}{B³¹d. Tej komendy nie ma w zbiorze. Proszê sformu³owaæ to inaczej.}
+{108}{}{Hng.}
+{109}{}{La-la.}
+{110}{}{Brai!}
+{111}{}{Niggle!}
+{112}{}{Koniec procedury podsystemu komunikacji. Proces zakoñczony.}
+{113}{}{Ten terminal to Sztuczna Inteligencja. Stanowi czêœæ macierzowej sieci WLAN i optymalizuje operacje przeprowadzane zdalnie.}
+{114}{}{Dziêki. Ee, koniec komunikacji.}
+{115}{}{Jakie uk³ady znajduj¹ siê pod twoj¹ kontrol¹?}
+{116}{}{Jakie programy aktualnie dzia³aj¹?}
+{117}{}{Ten terminal jest odpowiedzialny za dzia³anie wszystkich robotów przemys³owych General Atomics International w tej bazie.}
+{118}{}{Sprecyzuj.}
+{119}{}{Jakie programy aktualnie dzia³aj¹?}
+{120}{}{Roboty przemys³owe by³y czêsto okreœlane jako "Robomózgi". [Klik!] General Atomics International ma najlepsze roboty przemys³owe. Kup dwa lub wiêcej roboty GAI i oszczêdzaj! Mamy specjaln¹ ofertê na modele "Z³ota r¹czka"! [Klik!] Koniec reklamy.}
+{121}{}{Jakie programy aktualnie dzia³aj¹?}
+{122}{}{W chwili obecnej dzia³aj¹ nastêpuj¹ce aplikacje: Sterowanie baz¹ v2.1, Ruch v4.8b, Naprawy v0.8a, Kontrola szkodników v1.4, Pasjans v1.0 i Sensory '76.}
+{123}{}{Zakoñcz: Ruch.}
+{124}{}{Zakoñcz: Sensory.}
+{125}{}{Zakoñcz: Kontrolê Szkodników.}
+{126}{}{Zakoñcz: Pasjansa.}
+{127}{}{Dziêki. Koniec komendy.}
+{128}{}{Próba zakoñczenia zadania. [Klik!] B³¹d systemu. Nie uda³o siê zakoñczyæ zadania. Brak uprawnieñ do kasowania.}
+{129}{}{Hmm, zmieñ parametry Ruchu.}
+{130}{}{Zmieñ parametry Sensorów.}
+{131}{}{Zmodyfikuj Kontrolê Szkodników.}
+{132}{}{Graj w Pasjansa.}
+{133}{}{Dziêki. Koniec wprowadzania komend.}
+{134}{}{Bie¿¹ca aplikacja: Ruch v4.8b. Aktualne ustawienie: [maksimum/po³owa/minimum]. Zmieñ na: maksimum, po³owê albo minimum.}
+{135}{}{Maksymalny ruch.}
+{136}{}{Po³owa ruchu.}
+{137}{}{Minimalny ruch.}
+{138}{}{Bie¿¹ca aplikacja: Sensory '76. Bie¿¹ce ustawienie: [pe³ne/minimum]. Zmieñ na: pe³ne albo minimum.}
+{139}{}{Pe³na czu³oœæ sensorów.}
+{140}{}{Minimalna czu³oœæ sensorów.}
+{141}{}{Bie¿¹ca aplikacja: Kontrola szkodników v 1.4. Bie¿¹ce ustawienie: [Klik!] brak uprawnieñ. Zmieñ na: [Klik!] wszystkie, ¿adne, ma³e ¿yj¹ce, du¿e ¿yj¹ce lub nie posiadaj¹ce uprawnieñ.}
+{142}{}{Wszystkie szkodniki.}
+{143}{}{¯adnych szkodników.}
+{144}{}{Ma³e istoty ¿ywe.}
+{145}{}{Du¿e istoty ¿ywe.}
+{146}{}{Nieautoryzowane szkodniki.}
+{147}{}{Program Pasjans ju¿ dzia³a. U¿ytkownik wygrywa. [Klik!] Dziêkujê za grê.}
+{148}{}{Program Pasjans ju¿ dzia³a. Terminal wygrywa. [Klik!] Dziêkujê za grê.}
+{149}{}{Zmieniono parametr programu. W chwili obecnej dzia³aj¹ nastêpuj¹ce aplikacje: Sterowanie baz¹ v2.1, Ruch v4.8b, Naprawy v0.8a, Kontrola szkodników v1.4, Pasjans v1.0 i Sensory '76.}
+{150}{}{Zmieñ parametry Ruchu.}
+{151}{}{Zmieñ parametry Sensorów.}
+{152}{}{Zmodyfikuj Kontrolê Szkodników.}
+{153}{}{Graj w Pasjansa.}
+{154}{}{Dziêkujê. Koniec wprowadzania komend.}
+{155}{}{W chwili obecnej dzia³aj¹ nastêpuj¹ce aplikacje: Sterowanie baz¹ v2.1, Ruch v4.8b, Naprawy v0.8a, Kontrola szkodników v1.4, Pasjans v1.0 i Sensory '76}
+{156}{}{Zmieñ parametry Ruchu.}
+{157}{}{Zmieñ parametry Sensorów.}
+{158}{}{Zmodyfikuj Kontrolê Szkodników.}
+{159}{}{Graj w Pasjansa.}
+{160}{}{Dziêkujê. Koniec wprowadzania komend.}
+{161}{}{Inicjalizacja podsystemów komunikacji werbalnej. Inicjalizacja podsystemów osobowoœci. [Klik!] W czym mo¿e pomóc ten terminal?}
+{162}{}{Hnng.}
+{163}{}{Poka¿ mi swoje programy.}
+{164}{}{Wy³¹cz wszystkie pola si³owe.}
+{165}{}{Wiesz co to za miejsce?}
+{166}{}{Awaryjne wy³¹czenie.}
+{167}{}{Koniec wprowadzania komend.}
+{168}{}{Ten terminal nie mo¿e wykonaæ tej operacji. Odmowa wykonania.}
+{169}{}{Wyœwietl listê programów.}
+{170}{}{Wiesz co to za miejsce?}
+{171}{}{Awaryjne wy³¹czenie.}
+{172}{}{Koniec wprowadzania komend.}
+{173}{}{To - zastrze¿one [klik!] [klik!]}
+{174}{}{Cofnij polecenie. Wyœwietl listê programów.}
+{175}{}{Uchylam, wykonaj polecenie.}
+{176}{}{[Klik!] To zak³ad produkuj¹cy FEV. Ten terminal jest w³¹czony od 2074. Ostatnia faza wstêpnej produkcji 2075. Baza znajduje siê na ostatnim etapie budowy i ma zostaæ otwarta w 2078 [Klik!]}
+{177}{}{Wiesz co to jest FEV?}
+{178}{}{Wiesz jak¹ mamy teraz datê?}
+{179}{}{FEV to [klik! wirus wymuszonej ewolucji (Forced Evolutionary Virus) opracowany przez laboratoria Livermore/Broansoun. Zosta³ przygotowany, ¿eby zwiêkszaæ stopieñ z³o¿onoœci serii DNA/RNA w krótszym okresie czasu.}
+{180}{}{Wyœwietl listê programów.}
+{181}{}{Koniec wprowadzania komend.}
+{182}{}{Potwierdzam. Data na terminalu to 2 lutego. 2077.}
+{183}{}{Wyœwietl listê programów.}
+{184}{}{Koniec wprowadzania komend.}
+{185}{}{To nie jest dzisiejsza data. Proszê przeprowadziæ powtórn¹ kalibracjê.}
+{186}{}{Korekta w toku. [Klik!] B³¹d. Próba autodiagnozy.[Klik! [KLIK!] B£¥D! KRYTYCZNY B£¥D SYSTEMOWY. SYSTEM USZKODZONY, PRÓBA REKOMPILACJI. [D³uga przerwa.]}
+{187}{}{Terminal?}
+{188}{}{[klik] B³¹d rekompilacji... [Klik]}
+{189}{}{Nie mo¿na wykonaæ polecenia. Koniec rozmowy.}
+{190}{}{PotwierdŸ awaryjn¹ zmianê kodu.}
+{191}{}{Potwierdzona.}
+{192}{}{Przerwij procedurê wy³¹czenia.}
+{193}{}{[Klik!]}
+{194}{}{Przetwarzanie polecenia. Koniec rozmowy.}
+{195}{}{Ten komputer nie jest kompatybilny z twoim radiem. Wykorzystuje tylko pasmo wysokiej czêstotliwoœci do komunikacji z robotami.}
+{196}{}{Naciskasz jakieœ klawisze, ale komputer jest chyba uszkodzony. Trzeba bêdzie trochê nad nim popracowaæ.}
+{197}{}{Ten komputer nie jest fizycznie uszkodzony, ale najwyraŸniej ma uszkodzone dane.}

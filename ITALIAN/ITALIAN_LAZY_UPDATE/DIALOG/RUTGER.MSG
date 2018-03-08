@@ -1,0 +1,215 @@
+{100}{}{Vedi Rutger.}
+{101}{}{Salve e benvenuto dai Mercanti FarGo. Come posso aiutarti?}
+{102}{}{Potete trasportare anche acqua?}
+{103}{}{Sono qui per quell'annuncio di lavoro.}
+{104}{}{Cerco lavoro.}
+{105}{}{Di che cosa vi occupate?}
+{106}{}{In nessun modo. Addio.}
+{107}{}{Gak!}
+{108}{}{Non assumiamo i drogati! Fuori.}
+{109}{}{Hmmmm. E' un peccato che tu non abbia anche un cervello, oltre a quei muscoli. Ci avrebbe fatto comodo un tipo come te.}
+{110}{}{Beh, noi "possiamo" trasportare acqua, ma ti costera' un bel po'. Quanta te ne serve e dove vuoi che la consegnamo?}
+{111}{}{Me ne serve abbastanza da rifornire un vault. Si trova a nord, tra le montagne dopo Junktown.}
+{112}{}{Me ne serve abbastanza da rifornire un vault. Si trova a nord, tra le montagne.}
+{113}{}{Mi serve tutta! Un giorno trasformero' la faccia del pianeta. Vedrai!}
+{114}{}{Un intero vault? Ma sei pazzo? Non abbiamo accesso ad una simile quantita' d'acqua. In piu', non ho intenzione di addentrarmi tra le montagne. Abbiamo gia' perso abbastanza carovane.}
+{115}{}{Non avete abbastanza acqua? A chi dovrei rivolgermi, allora?}
+{116}{}{Capisco... e per quell'annuncio di lavoro?}
+{117}{}{Beh, avete del lavoro da darmi?}
+{118}{}{Beh, grazie di nulla.}
+{119}{}{Ah, scusa; tu non sei di queste parti. I Mercanti d'Acqua hanno il controllo su tutta la dannata acqua, in questa citta'. Non mi prenderei nemmeno la briga di fare accordi con quelli la'. Sono un branco di avvoltoi.}
+{120}{}{Dove posso trovarli?}
+{121}{}{Ok, grazie.}
+{122}{}{Non puoi sbagliare. Stanno a sud di qui, barricati insieme a quella dannata cisterna.}
+{123}{}{Di che cosa ti occupi?}
+{124}{}{Ok, grazie.}
+{125}{}{Sono il responsabile del...ehm, collaboro al coordinamento dei Mercanti FarGo. Se qualcuno ci causa dei problemi, deve risponderne a me. Trasportiamo merci da un insediamento all'altro.}
+{126}{}{Te l'ho gia' detto. Butch e io amministriamo i Mercanti FarGo. Allora, vuoi qualcosa o no?}
+{127}{}{Che tipo di cose commerciate?}
+{128}{}{Interessante. Addio.}
+{129}{}{Ottimo. Cosa mi sai dire di quell'annuncio di lavoro?}
+{130}{}{Niente male. Vi serve aiuto?}
+{131}{}{Beh, compriamo e vendiamo praticamente tutto quel che ti puo' venire in mente: farmaci, pneumatici, armi, munizioni, cibo, brahmin, terra e persino rottami.}
+{132}{}{Terra? Rottami?}
+{133}{}{Uh... davvero affascinante, ma devo andare.}
+{134}{}{Non hai idea delle richieste che ci fanno, la' fuori. Qualcosa la cui presenza e' data per scontata in un posto potrebbe essere un bene molto ricercato in un altro... anche se i due insediamenti sono distanti 10 miglia.}
+{135}{}{Ok, ne ho abbastanza di queste noiose chiacchiere da mercante. Dov'e' la porta?}
+{136}{}{Grazie. Addio.}
+{137}{}{Puoi parlarmi di quell'annuncio di lavoro?}
+{138}{}{Avete del lavoro da darmi?}
+{139}{}{Ho sentito dire che sei mezzo matto, ma potresti essere proprio la persona che fa per noi, dato il momento. Dovrai parlare con Butch. A lui piace conoscere tutte le nuove reclute. Sta nella stanza qui dietro di me. Entra pure.}
+{140}{}{Non penso di volere un uccisore di bambini al seguito di una delle mie carovane.}
+{141}{}{Uccisore di bambini? E' stato solo un incidente!}
+{142}{}{Ehi, io non faccio distinzioni. Se qualcuno mi da' noia, l'eta' non conta: finira' comunque spappolato contro un muro.}
+{143}{}{Beh, gli incidenti capitano. Il nostro e' un mondo piuttosto incasinato. Non sono del tutto certo di potermi fidare di te. Forse e' meglio che Butch ti veda. Si trova nella stanza qui dietro.}
+{144}{}{Un incidente 'sto cazzo! Conosco i tipi come te. Vi credete di poter fare tutto quel che volete. Beh, non qui, compare. Prova comunque a parlare con Butch... ma ti tengo d'occhio. Lo trovi subito dietro quella porta la'.}
+{145}{}{Un incidente 'sto cazzo! Conosco i tipi come te. Vi credete di poter fare tutto quel che volete. Beh, non qui, socia. Prova comunque a parlare con Butch... ma ti tengo d'occhio. Lo trovi subito dietro quella porta la'.}
+{146}{}{Sei un fottutissimo figlio di puttana. Potremmo avere bisogno di te, ma questo non significa che io approvi i tuoi metodi. Prova a toccare un bambino in mia presenza e spiaccicato contro un muro ci finisci tu. Va' a parlare con Butch. Sta nell'ufficio qui dietro di me.}
+{147}{}{Stai cercando un lavoro? Ho sentito buone cose sul tuo conto. Gente con la tua reputazione e' sempre la benvenuta. Entra nell'ufficio qui dietro e parla con Butch. Sono sicuro che ti trovera' un posto.}
+{148}{}{E cosi' stai cercando lavoro, eh? Mi sembri un tipo a posto. Beh, credo proprio che dovresti parlare con Butch. Lo trovi nell'ufficio qui dietro di me.}
+{149}{}{Credevo che non lo volessi, quel lavoro...}
+{150}{}{No, infatti. Ma avevo una gran voglia di rivedere il tuo brutto muso.}
+{151}{}{Mi dispiace. Ho davvero bisogno di questo lavoro. Posso averlo? Per favore...?}
+{152}{}{E continuo a non volerlo. Addio.}
+{153}{}{Grudda!}
+{154}{}{Fuori di qui, dannato drogato!}
+{155}{}{Bene. Vediamo di darci una mossa: sono un uomo impegnato... lascia che ti dia i dettagli.}
+{156}{}{Sei pieno di merda. Fuori dai piedi!}
+{157}{}{Perche' parli con me? Ti ho detto di rivolgerti a Butch, per il lavoro. Se gli piaci, poi ti daro' i dettagli.}
+{158}{}{Cosa? Sei ancora qui?}
+{159}{}{Come va la ricerca?}
+{160}{}{Pare che io non riesca a trovare nulla.}
+{161}{}{Potresti per favore ripetermi i dettagli del lavoro?}
+{162}{}{Avete qualche lavoro al seguito delle carovane?}
+{163}{}{Mi dispiace, devo andare.}
+{164}{}{Rhoo?}
+{165}{}{Beh, non ho detto che sarebbe stato semplice. Altrimenti avremmo risolto il problema molto tempo fa. Chiedi in giro. Usa le maniere forti, se necessario, ma non spargere sangue. Non in pubblico, almeno.}
+{166}{}{Ti ho detto di piantarla con la droga. Ti mandera' in malora.}
+{167}{}{Quando sarai in grado di dire a Butch cos'e' successo a tutte le carovane che sono scomparse di recente, ti daremo 500 testoni. Quindi raccogli tutte le prove che puoi. Io credo che sia tutta colpa di quei dannati Mercanti d'Acqua... o di quegli svitati della Confraternita d'Acciaio. Butch pensa si tratti di un "Jet Clown", o qualcosa del genere. Fa' un salto da Beth, magari lei ne sa di piu'.}
+{168}{}{Ok, ma non so cosa ti sia sfuggito. Non c'e' molto da sapere.}
+{169}{}{Ero praticamente certo che venissi da li'. Ti stavo solo mettendo alla prova. Ma se non vieni da li', perche' diavolo indossi un'armatura d'acciaio identica a quella con cui vanno in giro quei tizi?}
+{170}{}{Oh, questa? L'ho "trovata"... se capisci cosa intendo.}
+{171}{}{Non mi e' permesso dirlo.}
+{172}{}{Cavoli, devi essere bello tosto. Sono felice che tu sia dalla nostra parte. Non so come tu faccia a non saperlo, ma la Confraternita e' un gruppo di tizi piuttosto strambi che venerano la tecnologia, o qualcosa del genere. La loro base si trova poco distante da qui, a nordovest.}
+{173}{}{Cos'e' la Confraternita d'Acciaio?}
+{174}{}{Posso assicurarti che non e' stata la Confraternita.}
+{175}{}{Che cosa sai a proposito del Deathclaw?}
+{176}{}{Dove si trova Beth?}
+{177}{}{Grazie. Ci si vede.}
+{178}{}{Beh... sono certo che li hai gia' incontrati. Sono un gruppo di tizi piuttosto strambi che venerano la tecnologia, o qualcosa del genere. La loro base e' a nordovest di qui.}
+{179}{}{Sono davvero strani. Venerano la tecnologia... o qualcosa del genere. Hanno un arsenale da far spavento. Potrebbero facilmente avere la meglio su una carovana. La loro base si trova a nordovest.}
+{180}{}{Sapevo che dovevi essere uno di loro. Altrimenti non indosseresti quell'armatura. Spero che tu sia un tipo a posto, e spero che Butch non abbia fatto un errore, assumendoti. D'altronde non sei l'unico che abbiamo assunto, quindi non dovrebbero esserci problemi.}
+{181}{}{Come puoi esserne certo?}
+{182}{}{Perche' mi sono appena unito al loro ordine e li ho controllati attentamente. Sono molto tranquilli e riservati: non c'e' nulla da temere da loro.}
+{183}{}{Sono stato all'interno del loro bunker. Non sono loro quelli che state cercando.}
+{184}{}{Solo un presentimento.}
+{185}{}{Beh, questo mi rassicura. Credo.}
+{186}{}{Spero che tu abbia ragione.}
+{187}{}{Un presentimento non basta. Abbiamo bisogno di prove.}
+{188}{}{Beth la trovi non appena esci di qui, a lato della strada. Gestisce il nostro negozio d'armi. Dille che lavori per noi e ti fara' il 15% di sconto.}
+{189}{}{Ah, certo, Deathclaw, quel che e'. Sono tutti pazzi. E' solo il frutto dell'immaginazione della gente. Non esiste nessun fantasma o mostro o qualsiasi cosa dicono che sia. Tieni i piedi per terra e vedrai che andra' benissimo.}
+{190}{}{Si'? Come posso aiutarti?}
+{191}{}{So cos'e' successo alle vostre carovane.}
+{192}{}{Sono solo di passaggio.}
+{193}{}{Wha.}
+{194}{}{Grrr.}
+{195}{}{Davvero? Allora, chi sono i bastardi? I Mercanti d'Acqua?}
+{196}{}{Si', sono loro! Ce l'hanno proprio con voi. Vogliono... i vostri... brahmin.}
+{197}{}{In realta' si tratta di un gruppo di ENORMI mutanti.}
+{198}{}{E' stato il Deathclaw. L'ho visto mentre sbranava l'intera carovana.}
+{199}{}{L'ho dimenticato.}
+{200}{}{L'hai dimenticato? Divertente, amico. Adesso sparisci.}
+{201}{}{L'hai dimenticato? Divertente, miss. Adesso sparisci.}
+{202}{}{Lo sapevo che erano loro. Hai portato qualche prova? Gliela faro' pagare, a quei bastardi.}
+{203}{}{Uhh. No. Le ho perse. Ma puoi fidarti della mia parola.}
+{204}{}{In realta' non sono stati loro. I responsabili sono un gruppo di enormi mutanti.}
+{205}{}{Mi dispiace, devo andare.}
+{206}{}{Beh, senza le prove non posso fare nulla. Non ho intenzione di iniziare una nuova guerra tra mercanti. Se riesci a portarmi le prove, io le consegnero' alla legge e poi potremo spazzarli via.}
+{207}{}{Sei pieno di merda. Fuori dai piedi.}
+{208}{}{Cosa? Come? E' impossibile. Sicuramente stai scherzando... stai scherzando, vero?}
+{209}{}{Si', scusami. Che tu ci creda oppure no, in realta' e' tutta colpa di un gruppo di enormi mutanti.}
+{210}{}{E' stato terribile. Aveva dei denti enormi e appuntiti.}
+{211}{}{Un'intera carovana? Davvero? Ho davvero la faccia del boccalone? Fila fuori di qui e scopri cosa sta succedendo alle nostre carovane.}
+{212}{}{Degli enormi mutanti starebbero distruggendo le mie carovane? Questa se la gioca con la storia del Deathclaw.}
+{213}{}{Non sto scherzando. Ho trovato il Deathclaw e l'ho ucciso, ma ho trovato questo olodisco sul corpo di una di quelle... super creature mutanti.}
+{214}{}{Beh, controlliamo questo olodisco, allora. L'ho strappato dal cadavere di uno dei mutanti.}
+{215}{}{E' vero: io ero li' e ho visto tutto. Ti portero' le prove.}
+{216}{}{Liberissimo di non credermi.}
+{217}{}{Devo andare.}
+{218}{}{Hey, I know how to use one of those. Butch got some gizmo from some scout from the Brotherhood a long time ago that can read these things. Let's see... [Rutger inserts the disk into the device and quickly reads its contents] ...Sorry I didn't believe you. This does not bode well for the good guys. Well, here's your 500 caps. Hell, make it 800, and thanks for the information! If you need anymore work you will always be welcome.}
+{219}{}{Ti prego, non alimentare la paranoia di Butch. E' piuttosto sensibile quando si parla del Deathclaw. Ora dimmi: hai scoperto qualcosa? Sono stati i Mercanti d'Acqua?}
+{220}{}{Si', sono stati loro! Ce l'hanno proprio con voi. Vogliono... i vostri... brahmin.}
+{221}{}{In realta' si tratta di un gruppo di ENORMI mutanti.}
+{222}{}{No, e' stato il Deathclaw. L'ho visto mentre sbranava un'intera carovana.}
+{223}{}{L'ho dimenticato.}
+{224}{}{Ratti, eh? Allora, hai scoperto qualcosa, o no? Sono stati quei dannati Mercanti d'Acqua, lo sento!}
+{225}{}{Si', sono stati loro! Ce l'hanno proprio con voi. Vogliono... i vostri... brahmin.}
+{226}{}{In realta' si tratta di un gruppo di ENORMI mutanti.}
+{227}{}{E' stato il Deathclaw. L'ho visto mentre sbranava un'intera carovana.}
+{228}{}{L'ho dimenticato.}
+{229}{}{Dei mutanti avrebbero distrutto le mie carovane? Questa se la gioca con la storia del Deathclaw.}
+{230}{}{Non sto scherzando. Ho trovato il Deathclaw e l'ho ucciso. Ma ho anche trovato questo olodisco sul corpo di una di quelle... super creature mutanti.}
+{231}{}{Beh, controlliamo questo olodisco, allora. L'ho strappato dal cadavere di uno dei mutanti.}
+{232}{}{E' la verita': io ero li'. Ti portero' le prove.}
+{233}{}{Devo andare.}
+{234}{}{Allora, sei riuscito a raccogliere qualche prova che inchiodi chi sta attaccando le mie... er... le NOSTRE carovane?}
+{235}{}{Certo. Ecco un olodisco che ho trovato sul cadavere di una di quelle... enormi creature mutanti.}
+{236}{}{No, sto ancora cercando. Hai qualche idea?}
+{237}{}{No, ma ti faro' sapere.}
+{238}{}{Gak!}
+{239}{}{Beh, se questo Deathclaw esiste davvero, allora dovresti controllare la sua tana. Probabilmente la' dentro troverai le prove che cerchi.}
+{240}{}{Ehi. Posso aiutarti?}
+{241}{}{Ho scoperto cos'e' successo alle carovane scomparse.}
+{242}{}{No, grazie.}
+{243}{}{Ehi! Ho sentito che hai ucciso il bastardo che comandava quei mutanti. Ben fatto. Probabilmente hai salvato la vita a tutti, qui nell'Hub. Mi domando pero' da dove venissero...}
+{244}{}{Evvai! Altre cose da uccidere! Chissa' dove si nascondono.}
+{245}{}{Si', devo ripulire completamente la zona dalla malvagia opera del Master. Chissa' dove si nascondono.}
+{246}{}{Hai ragione! Chissa' dove si nascondono...}
+{247}{}{Ho bisogno di soldi. Avete del lavoro da darmi?}
+{248}{}{E tutto in una sola giornata. Ci si vede!}
+{249}{}{Gia', sono proprio forte. Oops. Volevo dire...Gruk Chak!}
+{250}{}{Ehila', compare. Come vanno le cose?}
+{252}{}{Ehila', socia. Come vanno le cose?}
+{253}{}{Come sta, la mia donna preferita?}
+{254}{}{Bene, grazie. Hai altri lavori per me?}
+{255}{}{Magnificamente! Ho fatto un salto solo per vedere come andavano le cose.}
+{256}{}{Yogwa?}
+{257}{}{Le cose vanno benissimo! Non ci sono piu' attacchi da parte di quei dannati mutanti e il commercio e' tornato regolare. Anzi, si puo' ben dire che sia migliorato. Grazie per avermelo chiesto.}
+{258}{}{Ehi, ho sentito che hai distrutto la base dove tutti quei dannati mutanti si riunivano! E' un peccato che tu non abbia trovato il loro capo.}
+{259}{}{Evvai! Qualcos'altro da distruggere. Chissa' dove si nasconde il Master...}
+{260}{}{Si', devo distruggere il Master. Non posso dare al Male la possibilita' di ritornare. Chissa' dove si nasconde...}
+{261}{}{Il Master incontrera' presto il suo creatore.}
+{262}{}{Hai ragione! Chissa' dove si nasconde il Master...}
+{263}{}{Prima avrei bisogno di soldi. Hai del lavoro per me?}
+{264}{}{Gia', sono proprio forte. Oops. Volevo dire...Gruk Chak!}
+{265}{}{Beh, ho sentito che qualcuno ha visto alcuni gruppi di mutanti sbandati dirigersi verso nordovest. Molto oltre la Confraternita d'Acciaio.}
+{266}{}{Sai, da quando i mutanti sono stati distrutti, i Figli della Cattedrale si comportano in maniera molto strana. Ne ho sentito persino uno che parlava di te. Pare che ti stiano cercando in ogni angolo della zona.}
+{267}{}{Veramente le cose non stanno andando molto bene. Quei mutanti ci danno ancora dei problemi con le carovane. Siamo stati costretti a mettere quasi tutte le spedizioni in attesa. Grazie per avermelo chiesto, comunque.}
+{268}{}{Certo, ci faresti comodo in una delle nostre carovane. Che ne diresti di un posto come guardia? La paga e' la solita: 400 testoni a viaggio. Ci stai?}
+{269}{}{Certo}
+{270}{}{No.}
+{271}{}{Cosa? E le carovane scomparse?}
+{272}{}{Quale modo migliore per scoprire i ladri se non quello di unirsi ad una carovana?}
+{273}{}{Terro' gli occhi aperti, ma ho bisogno di soldi.}
+{274}{}{Come non detto.}
+{275}{}{Okay, ma fammi sapere se cambi idea. Il piu' delle volte sono soldi facili.}
+{276}{}{Ottimo. Parla con il nostro capo carovaniere che trovi vicino alla porta d'ingresso. Ti dira' quand'e' prevista la prossima partenza. Finche' farai un buon lavoro, i nostri conducenti saranno lieti di assumerti.}
+{277}{}{Ti daro' un'altra chance. La paga e' di 400 testoni. Parla con il capo carovaniere che sta vicino alla porta d'ingresso. Ti sapra' dire quando parte la prossima carovana.}
+{278}{}{Mi dispiace, ma hai avuto la tua opportunita'. Credo che faresti meglio ad andartene.}
+{279}{}{Stai scherzando, vero? Potro' anche esserti riconoscente per quello che hai fatto, ma temo che questo non cambi il passato. Credo che faresti meglio ad andartene.}
+{280}{}{Non mi hai sentito? Non ti vogliamo. Vattene.}
+{281}{}{Non credo che servira' a molto, ma puoi unirti ad una carovana, se vuoi.}
+{282}{}{Perche' dici cosi'?}
+{283}{}{Hai ragione. Faro' qualche altra indagine.}
+{284}{}{A me sta bene. Lo faro'.}
+{285}{}{Ottimo. Scopri il possibile, mi raccomando.}
+{286}{}{Beh, okay. Non appena sei pronto a partire, parla con il nostro capo carovaniere che si trova vicino alla porta d'ingresso. Finche' farai un buon lavoro, i nostri conducenti saranno ben lieti di assumerti.}
+{287}{}{Ma certo! Non devi parlare con me. Rivolgiti al nostro capo carovaniere.}
+{288}{}{[More]}
+{289}{}{Beh, si', perdiamo molte carovane, ma e' comunque una percentuale piuttosto ridotta del nostro giro d'affari. Le probabilita' che tu ti unisca ad una carovana che verra' attaccata da chi le sta saccheggiando e distruggendo e' molto bassa. Chi o cosa lo sta facendo deve far parte di un gruppo o molto ampio, o altamente letale.}
+{290}{}{Oh, okay. Credo che faro' qualche altra domanda in giro. }
+{291}{}{Beh, ho bisogno di soldi.}
+{292}{}{Bentornata.  Come posso farti... cioe', cosa posso fare per te?}
+{293}{}{E' un piacere rivederti.}
+{294}{}{Mi stavo chiedendo... trasportate anche acqua?}
+{295}{}{Sono qui per quell'annuncio di lavoro.}
+{296}{}{Sto cercando lavoro.}
+{297}{}{Di che cosa ti occupi?}
+{298}{}{Mi dispiace, devo andare.}
+{299}{}{Rarwa.}
+{300}{}{Si'? Che cosa diavolo vuoi?}
+{301}{}{Mi sto davvero stancando. Che cosa vuoi adesso?}
+{302}{}{Cosa c'e'?!}
+{303}{}{Sei sempre cosi' assillante?}
+{304}{}{Che cosa diavolo c'e'?!?!}
+{305}{}{Mi stavo chiedendo... trasportate anche acqua?}
+{306}{}{Sono qui per quell'annuncio di lavoro.}
+{307}{}{Sto cercando lavoro.}
+{308}{}{Di che cosa ti occupi?}
+{309}{}{Mi dispiace, devo andare. }
+{310}{}{Tooka?}
+{311}{}{Hai fatto arrabbiare il boss. Sparisci subito di qui!}
+{312}{}{Credo di aver scoperto cos'e' successo alle carovane scomparse.}
+{313}{}{Magnifico! Va' a dire a Butch cos'hai scoperto e lui mi sapra' dire se ti sei meritato il tuo compenso.}
+{314}{}{Grdddle Snpp!!!}
+{315}{}{Mi dispiace, ma noi non trattiamo con i... ehm... ritardati mentali.}

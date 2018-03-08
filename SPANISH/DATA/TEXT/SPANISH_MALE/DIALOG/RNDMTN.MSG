@@ -26,6 +26,7 @@
 {120}{}{Encuentras algunas ratas rebuscando por aquí.}
 
 CHANGE THIS ONE		#patrick
+
 {122}{}{La tierra que yace ante ti está llena de escombros y cadáveres. Debe ser un antiguo campo de batalla.}
 
 
@@ -101,3 +102,7 @@ CHANGE THIS ONE		#patrick
 # MONSTERS - not used
 #
 {119}{}{Tropiezas con una gran manada de escorpiones rad.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{Ves el campamento temporal de una banda de saqueadores. Parece que estás en el lugar equivocado en el momento equivocado.}

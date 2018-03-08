@@ -1,0 +1,126 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Egy nõt látsz.}
+{107}{}{Egy férfit látsz.}################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+{100}{}{Egy részeg alakot látsz.}
+{110}{}{Hadd szomorkodjam egyedül.}
+{111}{}{Te vagy az én legeslegkedvesebb barátom.}
+# best friend (slurred)
+{112}{}{Mér vagy... (hukk) hol vagyok?}
+{113}{}{Ki vagy te?}
+{114}{}{Ismerlek én téged?}
+{115}{}{Egy picit émelygek.}
+{116}{}{Most én fizetek, illetve te...}
+{117}{}{Miért vagytok ketten?}
+{118}{}{Maradj már veszteg, öcsém!}
+# laddy is male
+{119}{}{Maradj már veszteg, kislány!}#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+{101}{}{Egy kuncsaft.}
+{104}{}{Ez itt egy szerencsejátékos.}
+{120}{}{Kopj már le, sóher!}
+# == "Get out of here loser"
+{121}{}{Csak lerontod itt a hely színvonalát...}
+# == "you are dropping the class of this place"
+{122}{}{Húzz innen, balszerencsét hozol!}
+# == "get away. you will bring me bad luck"
+{123}{}{Ne szakíts félbe, koncentrálok!}
+{124}{}{Azért is nyerni fogok!}
+{125}{}{Jól megy ez neked?}
+{126}{}{Láttad ezt? Ez lehetetlen!}
+# referring to dice roll
+{127}{}{Szerintem ezek csalnak.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+{128}{}{Na, végre, jók az esélyek!}
+{129}{}{Na, ez lesz a tuti, én mondom!}
+# referring to a bet.
+{130}{}{Micsoda? Most meg hogy veszíthettem?}
+{131}{}{Ez az asztal balszerencsés!}
+# == "this table is cursed/unlucky"
+{132}{}{Dolgom van.}
+{133}{}{Nem látod, hogy épp játszom?}
+{134}{}{Tedd meg a téted, vagy kopj le!}#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+{102}{}{Egy nagyon csinos hölgyet látsz.}
+{105}{}{Ez a nõ eléggé elfoglaltnak tûnik.}
+{135}{}{Hagyj minket békén, különben hívom az õröket!}
+{136}{}{Vigyázzál ám! Fry megbízott a közeli barátom.}
+{137}{}{Ha nem haragszol...}
+{138}{}{Nincs ám kukucskálás!}
+# == "I don't allow people to watch me having sex with someone else."
+{139}{}{Csoportszex nincs!}
+# == "I don't have sex with more than one person."
+{140}{}{Túl fáradt vagyok még egy menethez.}
+# referring to having another round of sex.
+{141}{}{Álmodozz csak, kedvesem... csak ne itt!}
+{142}{}{Tûnj a fenébe!}
+{143}{}{Mégis mit képzelsz, mit csinálsz?}
+{144}{}{Viselkedj már!}
+{145}{}{Hívom ám a zsarukat!}
+{146}{}{Meg se forduljon a fejedben!}
+{147}{}{Tûnés!}
+{148}{}{Kopj le!}
+{149}{}{Mit bámulsz?}
+{150}{}{Ha nem haragszol...}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+{109}{}{Ez itt egy zsoldos.}
+{151}{}{Húzz a retkes picsába a szobámból!}
+{152}{}{Kifelé!}
+{153}{}{Te is az orgiára jöttél?}
+# == "are you part of the group of three/threesome/orgy"
+{154}{}{Kifelé, te perverz disznó!}
+# == "get out of here, perverse person"
+{155}{}{Mi a problémád?}
+{156}{}{Kopj le, mielõtt mérges leszek!}
+# "Beat it" == "get out of here"
+{157}{}{Szerezz magadnak egy luvnyát!}
+# == "get your own hooker"
+{158}{}{A nõ az enyém!}
+# "She" is referring to the hooker.
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+{108}{}{Egy nagyon elkeseredett játékost látsz.}
+{159}{}{A fenébe!}
+{160}{}{Te csalsz?}
+# referring to the player
+{161}{}{Ezt nekem kellett volna megnyernem!}
+# someone else won a bet, this person thinks they should have won instead
+{162}{}{Majdnem megvolt!}
+# nearly got his number on the roulette wheel
+{163}{}{Mellétrafált...}
+# pulled up a 19 to the dealers 20 in blackjack
+{164}{}{Hogy is van a szabály?}
+# in referrence to a gambling game
+{165}{}{Régebben jobban ment ez a franc.}
+# in referrence to a gambling game
+{166}{}{Sokra nem jutottam, de azért kösz.}
+{167}{}{Hát ezt nem hiszem el!}
+{168}{}{Tudtam, hogy megint veszteni fogok.}
+# he meant to lose.######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+{103}{}{Egy furcsa kinézetû embert látsz.}
+{169}{}{Tegyék meg a tétjeiket!}
+{170}{}{Húzza hátrébb a kezét, uram!}
+# in referrence to taking money from the table while the bet is going on
+{171}{}{Íme a gyõztes!}
+{172}{}{Sajnálom, emberek, talán legközelebb.}
+# maybe next time someone can win
+{173}{}{Megvan az újabb gyõztes!}
+{174}{}{El a kezekkel!}
+# don't take the dice off the table while someone is rolling them
+{175}{}{Maga jön, uram!}
+# your turn to bet
+{176}{}{Sajnálom, ez érvénytelen tét.}
+{177}{}{Ez az!}
+{178}{}{Még valaki?}

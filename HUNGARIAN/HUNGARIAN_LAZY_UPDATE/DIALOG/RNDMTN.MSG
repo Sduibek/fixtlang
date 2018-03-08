@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{Meredek sziklák közt, hepe-hupás talajon jársz.}
+
+{105}{}{Radskorpiók!}
+
+{121}{}{Egy magányos utazót látsz a távolban.}
+
+{106}{}{Egy elképesztõen rejtõzködõ radskorpió megpróbál meglepni.}
+{107}{}{A semmibõl hirtelen rádtámad egy radskorpió.}
+
+{108}{}{Véletlenül belebotlottál egy Vakondpatkány családba.}
+
+{100}{}{Egy lezúduló kõlavinából elvándorolt hatalmas szikla majdnem agyonsújtott.}
+{102}{}{Az omladék magával hozta egy régóta halott utazó holttestét.}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{Ellenséges radskorpió-falkába botlottál.}
+
+{120}{}{Szép nagy csapat turkáló patkánnyal futsz össze.}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{Az elõtted elterülõ talaj törmelék és holttestek borítják. Úgy tûnik, ez valamiféle régi csatamezõ lehet.}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{Egy magányos radskorpiót látsz, amint épp erre bóklászik..}
+
+{135}{}{Egy régóta halott utazó csontjaira leltél.}
+
+{129}{}{Jól megtermett vakondpatkányok zajonganak elõtted.}
+
+{130}{}{Szép nagy csapat turkáló patkánnyal futsz össze.}
+
+#fall or slip
+
+{134}{}{Egy nagy csapat patkány épp feléd rohan.}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{Szerencse, hogy a mászási képességed megoldja a problémát.}
+{117}{}{Lezuhansz egy sziklaszegélyrõl, és éles köveken érsz földet.}
+{118}{}{A sziklákról köves talajra esel.}
+{109}{}{You are overtaken by a landslide.}
+{123}{}{You lose your footing on the rocky terrain.}
+{132}{}{You slip on the uneven terrain and twist an ankle, painfully. It makes several unhealthy sounds.}
+{133}{}{Lezuhantál az alant lévõ göröngyös talajra, és szép kis zúzódásaid lettek.}
+#
+# No Damage
+#
+{101}{}{Sérülés nélkül átvészelted a dolgot.}
+{110}{}{Amazingly, you escape with no damage.}
+{124}{}{You skillfully escape with no damage.}
+{131}{}{Exhausted, you nearly fall over some rough terrain. They could really use a GECK out here!}
+#
+# Small Damage
+#
+{104}{}{Néhány kõszilánk összevagdosta az arcod és a kezed, de összességében olcsón megúsztad a bajt.}
+{113}{}{Néhány kõszilánk összevagdosta az arcod és a kezed, de csekély sérüléssel átvészelted a bajt.}
+{127}{}{Some rock shards slice your face and hands, but you escape with minimal damage.}
+#
+# Big Damage
+#
+{147}{}{Your pitiful attempt to escape the rocks is a colossal failure. All of your limbs are crushed and battered in a spectacular spray of blood. Amazingly, you survive.}
+{148}{}{You fail to find any handholds during the fall, and land with a mighty crash, crushing both your legs like radroaches.}
+#
+# Damage Numbers
+#
+{138}{}{You sustain }
+{139}{}{ points of damage and a crippled left leg.}
+{140}{}{ points of damage and a crippled right leg.}
+{141}{}{ points of damage.}
+{144}{}{ points of damage and a crippled left arm.}
+{145}{}{ points of damage and a crippled right arm.}
+{146}{}{ points of damage and two crippled limbs.}
+#
+# Cripples
+#
+{103}{}{A lábad vészesen megsérült az omlás következtében.}
+{112}{}{A lábad vészesen megsérült az omlás következtében.}
+{126}{}{A lábad vészesen megsérült az omlás következtében.}
+#
+# Critical Success
+#
+{116}{}{Találsz egy barlangot, benne apró forrással. Hosszú idõ óta elõször sikerül egy jóízût aludnod.}
+{125}{}{Sérülés nélkül átvészelted a dolgot, sõt az omlás nyomán fény derül egy aranylelõhelyre.}
+{111}{}{The displaced rock reveals a gold deposit!}
+{142}{}{You refill your empty flask in the spring.}
+{143}{}{You refill your empty flasks in the spring.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{Egy jókora csapat radskorpióba ütközöl.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}

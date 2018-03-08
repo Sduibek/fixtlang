@@ -24,11 +24,11 @@
 {110}{}{跟着我。我知道去兽穴的路。}
 #{111}{}{All ready to go? Once we get to the lair, there is no
 # coming back until the job is done.}
- {111}{}{都准备好走了吗？一旦我们去了兽穴，直到工作完成之前就没有退路了。}
+{111}{}{都准备好走了吗？一旦我们去了兽穴，直到工作完成之前就没有退路了。}
 #{112}{}{Yes}
 {112}{}{是的}
 #{113}{}{No}
 {113}{}{还没}
 #{114}{}{OK, I'll wait for here. Let me know when you're
 # ready to go.}
- {114}{}{好了，我会等在这儿。当你准备走了让我知道。}
+{114}{}{好了，我会等在这儿。当你准备走了让我知道。}

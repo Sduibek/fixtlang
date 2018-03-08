@@ -23,20 +23,16 @@
 {122}{}{Ich bin ein Vaultbewohner und würde gerne mit dem Meister sprechen.}
 {123}{}{Äm... Dorpheus... hmm... Morpheus schickt mich.}
 {124}{}{Ich bin Loki. Ein Neuling aus dem Süden.}
-{125}{}{Nein, ich gehöre hier nicht her. Aber ich weiß, wo diese Kugel hingehört ... in
- deinen Kopf.}
+{125}{}{Nein, ich gehöre hier nicht her. Aber ich weiß, wo diese Kugel hingehört ... in deinen Kopf.}
 {126}{}{Ich übertrage die menschlichen Reinheitsberichte für die umliegenden Gegenden. Aber das solltest du wissen. [schaut mißtrauisch] Wer bist du?}
 {127}{}{Ich wurde von Morpheus geschickt mit einer Nachricht für den Meister.}
 {128}{}{Geht dich gar nichts an, wer ich bin ... beantworte nur meine Fragen!}
 {129}{}{Du darfst nicht wissen, wer ich bin, so wünscht es der Meister.}
-{130}{}{Du wagst zu fragen, wer ich bin? Du Narr, ich sollte dich ungespitzt in den Boden
- rammen.}
+{130}{}{Du wagst zu fragen, wer ich bin? Du Narr, ich sollte dich ungespitzt in den Boden rammen.}
 {131}{}{Das ist seltsam ... Ich habe noch nie von dir gehört.}
 {132}{}{Ich wurde von Morpheus geschickt mit einer Nachricht für den Meister.}
-{133}{}{Ich bin vom High Order. Nur der Meister und Morpheus wissen von mir, damit meine
- Sicherheit draußen gewahrt bleibt. Aber ich wurde auf Geheiß des Meisters zurückbeordert.}
-{134}{}{Bitte, vergib mir. Ich bitte um Vergebung für die Fragen. Bitte, erledige deine
- Geschäfte weiter, und wenn ich helfen kann, laß' es mich wissen.}
+{133}{}{Ich bin vom High Order. Nur der Meister und Morpheus wissen von mir, damit meine Sicherheit draußen gewahrt bleibt. Aber ich wurde auf Geheiß des Meisters zurückbeordert.}
+{134}{}{Bitte, vergib mir. Ich bitte um Vergebung für die Fragen. Bitte, erledige deine Geschäfte weiter, und wenn ich helfen kann, laß' es mich wissen.}
 {135}{}{Ich weiß nicht, wer du bist, und du gehörst nicht hierher. Wachen!!!}
 {136}{}{Wer bist du, und was machst du hier unten?}
 {137}{}{Ich bin ein Gläubiger, und ich habe mich verirrt.}
@@ -48,8 +44,7 @@
 {143}{}{Darf ich noch ein paar Fragen stellen, bevor ich gehe?}
 {144}{}{OK, aber erst mach' ich dich fertig.}
 {145}{}{Morpheus würde nie so einen Schwachkopf wie dich auf so eine Mission schicken. Wachen!!}
-{146}{}{Du Idiot! Du darfst dich in diesem Bereich nicht aufhalten. Geh' sofort zur Cathedral
- zurück!}
+{146}{}{Du Idiot! Du darfst dich in diesem Bereich nicht aufhalten. Geh' sofort zur Cathedral zurück!}
 {147}{}{Akay.}
 {148}{}{Häh.}
 {149}{}{Nöö.}
@@ -63,18 +58,15 @@
 {157}{}{Halt! Du hast hier nichts zu suchen!}
 {158}{}{Hä?}
 {159}{}{Tut mir leid. Ich hab' mich verlaufen. Ich geh' jetzt.}
-{160}{}{Aber ich muß hier was machen. Morpheus hat mich auf eine Mission zum
- Meister geschickt.}
+{160}{}{Aber ich muß hier was machen. Morpheus hat mich auf eine Mission zum Meister geschickt.}
 {161}{}{Ich bin einem verdächtigen Knaben hier herunter gefolgt. Hast du den gesehen?}
 {162}{}{Nein. Töten ist mein Geschäft, und das Geschäft läuft gut.}
 {163}{}{Nein, ich habe niemanden gesehen. Wie sah er aus?}
 {164}{}{Nicht wichtig. Ich glaube, er ist geflohen.}
 {165}{}{Es war ein kleines grünes Männchen.}
-{166}{}{Er war ungefähr so groß wie du, trug aber eine Lederjacke ... Was
- tragt ihr denn unter den Roben?}
+{166}{}{Er war ungefähr so groß wie du, trug aber eine Lederjacke ... Was tragt ihr denn unter den Roben?}
 {167}{}{Er sah aus wie du, Scheißkopf!}
-{168}{}{Ähm... Ich... Ich... Du glaubst doch nicht, daß i... ich? Lächerlich.
- Ich doch nicht!}
+{168}{}{Ähm... Ich... Ich... Du glaubst doch nicht, daß i... ich? Lächerlich. Ich doch nicht!}
 {169}{}{OK. Ich geh' jetzt, aber laß' es mich wissen, wenn du etwas siehst...}
 {170}{}{Ja! Ich glaube, daß du es warst! Hinlegen und Arme und Beine breit!}
 {171}{}{Nein, ich glaube nicht, daß du es warst, aber darf ich ein paar Fragen stellen?}
@@ -87,17 +79,12 @@
 {178}{}{Ich übertrage die menschlichen Reinheitsberichte für die umliegenden Gegenden.}
 {179}{}{Das ist alles. Danke.}
 {180}{}{Ich möchte dir noch ein paar Fragen stellen, Bruder.}
-{181}{}{Ja, und das ist ja auch ganz wichtig. Und verstehst du die Bedeutung
- deiner Pflichten für den Meister und für uns alle?}
+{181}{}{Ja, und das ist ja auch ganz wichtig. Und verstehst du die Bedeutung deiner Pflichten für den Meister und für uns alle?}
 {182}{}{Aber ja. Ich bin es, der dem Meister die Nachrichten über neue, unbefleckte Menschen, unangetastet von der Strahlung, bringt. Ich war es, der dem Meister die letzten Nachrichten über eine mögliche verlorene Vault brachte. Darin könnten sich noch reine Menschen befinden.}
 {183}{}{Ja, mein Bruder. Du verstehst. Danke dir. Das ist alles.}
 {184}{}{Ich möchte noch ein paar weitere Fragen stellen.}
-{185}{}{Du würdest einen reinen Menschen nicht erkennen, wenn er genau vor dir stünde.
- Idiot.}
-{186}{}{Du würdest einen reinen Menschen nicht erkennen, wenn sie genau vor dir stünde.
- Idiot.}
-{187}{}{Du benimmst dich sehr seltsam. Ich glaube nicht, daß du der bist, der du vorgibst zu
- sein. Wachen!}
-{188}{}{Du stellst zu viele Fragen. Ich glaube nicht, daß du die bist, die du vorgibst zu sein
- Wachen!}
+{185}{}{Du würdest einen reinen Menschen nicht erkennen, wenn er genau vor dir stünde. Idiot.}
+{186}{}{Du würdest einen reinen Menschen nicht erkennen, wenn sie genau vor dir stünde. Idiot.}
+{187}{}{Du benimmst dich sehr seltsam. Ich glaube nicht, daß du der bist, der du vorgibst zu sein. Wachen!}
+{188}{}{Du stellst zu viele Fragen. Ich glaube nicht, daß du die bist, die du vorgibst zu sein Wachen!}
 {189}{}{Hey! Ich habe dir doch gesagt, daß du hier nichts zu suchen hast! Wachen!}

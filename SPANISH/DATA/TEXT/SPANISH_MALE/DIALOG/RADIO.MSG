@@ -32,7 +32,7 @@
 {125}{}{La radio no funciona.}
 {126}{}{Esta radio funciona perfectamente. La causa del problema debe ser externa.}
 {127}{}{En la radio solo se oyen las interferencias de datos codificados.}
-{128}{}{[Se oyen interferencias y el ruido de un golpe.] Aquí el comandante, adelante, patrulla.}
+{128}{}{[Se oyen interferencias y el ruido de un golpe] Aquí el comandante, adelante, patrulla.}
 {129}{}{¡Ack!}
 {130}{}{Oh, lo siento Comandante. Golpeé el botón de comunicación por error.}
 {131}{}{¡Intrusos en la base! ¡Alerta!}
@@ -43,5 +43,5 @@
 {136}{}{5566534571.}
 {137}{}{Fin del acceso.}
 {138}{}{Cerrado canal de seguridad automático.}
-{139}{}{Ganas 1.500 puntos de experiencia por engañar a los guardias mutantes.}
-{140}{}{Ganas 2.000 puntos de experiencia por meterte a escondidas en las profundidades de la base sin ser capturado (todavía...)}
+{139}{}{Ganas 1500 puntos de experiencia por engañar a los guardias mutantes.}
+{140}{}{Ganas 2000 puntos de experiencia por meterte a escondidas en las profundidades de la base militar sin ser capturado (todavía...)}

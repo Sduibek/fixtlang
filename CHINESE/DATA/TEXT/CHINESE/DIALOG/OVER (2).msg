@@ -389,7 +389,7 @@
 {223}{Over_66}{必须阻止他。否则，他会重建他的变种人帝国，而且肯定会反击我们。在主教死之前避难所不可能安全。}
 
 #{224}{Over_68}{Is the mutant leader . . . taken care of?}
-{224}{Over_68}{变种人的头目……处置了没有？} 
+{224}{Over_68}{变种人的头目……处置了没有？}
 
 #{225}{}{No.}
 {225}{}{没有。}
@@ -525,7 +525,7 @@
 
 #{256}{Over_1c}{You have four months to retrieve the chip before the vault runs
 # out of water.}
-{256}{Over_1c}{在避难所的水用完之前你还有四个月的时间取得芯片。} 
+{256}{Over_1c}{在避难所的水用完之前你还有四个月的时间取得芯片。}
 
 #{257}{Over_1d}{You have five months to retrieve the chip before the vault runs
 # out of water.}
@@ -595,7 +595,7 @@
 
 #{1101}{Over_201}{This is our home. We'd all be dead without it. If we care for it
 # properly, it should last us for a long time.}
-{1101}{Over_201}{这是我们的家。没了它我们活不了。如果我们小心照料，它将是我们的长久之计。} 
+{1101}{Over_201}{这是我们的家。没了它我们活不了。如果我们小心照料，它将是我们的长久之计。}
 
 #{1102}{Over_202}{It was terrible. I hope we learned our lesson and we never do it
 # again.}

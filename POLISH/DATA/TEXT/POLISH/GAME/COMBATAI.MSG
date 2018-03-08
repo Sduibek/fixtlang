@@ -1,0 +1,7601 @@
+#                                   T:\GURPS\CD\DATA\TEXT\GAME\COMBATAI.MSG
+# FALLOUT BATTLECRIES
+# When the Bomb Drops, the real fun begins
+#
+# Version 1.0  May 13, 1997  Scott Bennie
+#         1.1  May 14, 1997  Chris Taylor (edits and line number change)
+#         1.2  June 19, 1997 Leonard, Jason, Chris (edits)
+#
+# Combat AI messages (ranges defined in data\data\ai.txt)
+#
+
+# 1. Guard 1 (Professional)
+# Guard 1 should be used for caravan guards, soldiers, and other professional tough guys  who are paid to fight and don't particularly have much of an attitude. It's also very serious in tone.
+#
+#  running away
+#
+{1000}{}{}
+{1001}{}{}
+{1002}{}{Odwrót!}
+{1003}{}{Odwrót!}
+{1004}{}{Ja za to nie bêdê zdychaæ!}
+{1005}{}{Mi ju¿ wystarczy...}
+#
+# moving in to attack
+#
+{1006}{}{}
+{1007}{}{Pope³niasz du¿y b³¹d!}
+{1008}{}{Nie lubimy tu takich jak ty!}
+{1009}{}{Nie lubiê takich jak ty.}
+{1010}{}{}
+{1011}{}{}
+#
+# attacking
+#
+{1012}{}{}
+{1013}{}{}
+{1014}{}{Teraz zdychaj!}
+{1015}{}{}
+{1016}{}{}
+{1017}{}{Zaraz umrzesz.}
+{1018}{}{Zobaczmy, jaki z ciebie twardziel...}
+{1019}{}{Ty œmierdzielu!}
+{1020}{}{Huraaaa!}
+{1021}{}{}
+#
+# target being missed
+#
+{1022}{}{}
+{1023}{}{Ja to robiê od lat, œmieciu.}
+{1024}{}{Cienias z ciebie.}
+{1025}{}{To by³ twój ostatni b³¹d.}
+{1026}{}{Amatorszczyzna.}
+{1027}{}{}
+#
+# target hit in head
+#
+{1028}{}{A³! Ty kur...}
+{1029}{}{Zabijê ciê za to!}
+{1030}{}{}
+#
+# target hit in left arm
+#
+{1031}{}{A³, moja rêka!}
+{1032}{}{Kurwa, za³atwi³o mi grabê!}
+{1033}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{1034}{}{A³, moja rêka!}
+{1035}{}{Kurwa, za³atwi³o mi grabê!}
+{1036}{}{Moja rêka!}
+#
+# target hit in torso
+#
+{1037}{}{Uffff!}
+{1038}{}{A³.}
+{1039}{}{Chyyyp!}
+{1040}{}{Moje ¿ebra!}
+#
+# target hit in right leg
+#
+{1041}{}{A³, moja noga!}
+{1042}{}{Zap³acisz mi za to!}
+{1043}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{1044}{}{A³, moja noga!}
+{1045}{}{Zap³acisz mi za to!}
+{1046}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{1047}{}{Ciemnoœæ widzê! Widzê ciemnoœæ!}
+{1048}{}{Moje oko!}
+{1049}{}{}
+#
+# target hit in groin
+#
+{1050}{}{Oooooo, mój klejnocik!}
+{1051}{}{}
+{1052}{}{}
+{1053}{}{Chrup!}
+{1054}{}{Uuuf!}
+{1055}{}{To bola³o...}
+
+# 2. Guard 2 (Gung-ho)
+# Guard 2 should be used for really military types or military wannabes. It's a little over the top in places. He's a little bit conceited.
+#
+#  running away
+#
+{1100}{}{Wezwaæ posi³ki!}
+{1101}{}{}
+{1102}{}{Sanitariusz!}
+{1103}{}{Odwrót! Odwrót!}
+{1104}{}{Wycofaæ siê! Wycofaæ siê!}
+{1105}{}{Mo¿e i wygrywasz bitwê...}
+#
+# moving in to attack
+#
+{1106}{}{}
+{1107}{}{}
+{1108}{}{Nauczê ciê manier.}
+{1109}{}{Przechodzisz w³aœnie do historii!}
+{1110}{}{Naprzód, do ataku!}
+{1111}{}{Pogrzebmy tê niedojdê!}
+#
+# attacking
+#
+{1112}{}{A masz!}
+{1113}{}{Teraz ciê mam!}
+{1114}{}{Teraz giñ!}
+{1115}{}{Jak ci siê TO podoba?}
+{1116}{}{}
+{1117}{}{Nie zaczynaj tego, czego nie potrafisz skoñczyæ.}
+{1118}{}{Lepiej módl siê do swoich bogów!}
+{1119}{}{}
+{1120}{}{}
+{1121}{}{Do zobaczenia w Piekle!}
+#
+# target being missed
+#
+{1122}{}{}
+{1123}{}{Na wiêcej ciê nie staæ?}
+{1124}{}{No dawaj, ³achudro. Walcz!}
+{1125}{}{Nastêpnym razem spróbuj wycelowaæ.}
+{1126}{}{Cywil.}
+{1127}{}{}
+#
+# target hit in head (3)
+#
+{1128}{}{}
+{1129}{}{Moja twarz!}
+{1130}{}{Mam z³amany nos!}
+#
+# target hit in left arm
+#
+{1131}{}{Mam z³aman¹ rêkê!}
+{1132}{}{Rozwalona rêka mnie nie powstrzyma!}
+{1133}{}{}
+#
+# target hit in right arm
+#
+{1134}{}{Mam z³aman¹ rêkê!}
+{1135}{}{Rozwalona rêka mnie nie powstrzyma!}
+{1136}{}{}
+#
+# target hit in torso
+#
+{1137}{}{Chyyyp! To wcale nie bola³o.}
+{1138}{}{Uch!}
+{1139}{}{Po¿a³ujesz tego!}
+{1140}{}{Uuf! Zap³acisz za to.}
+#
+# target hit in right leg
+#
+{1141}{}{A³, moja noga!}
+{1142}{}{Zap³acisz za to!}
+{1143}{}{Taka rana mnie nie powstrzyma!}
+#
+# target hit in left leg
+#
+{1144}{}{A³, moja noga!}
+{1145}{}{Taka rana mnie nie powstrzyma!}
+{1146}{}{Zap³acisz za to!}
+#
+# target hit in eyes
+#
+{1147}{}{Ciemnoœæ widzê! Widzê ciemnoœæ!}
+{1148}{}{Pal¹ mnie oczy!}
+{1149}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{1150}{}{Ooo, moje narz¹dy!}
+{1151}{}{Chyp!}
+{1152}{}{Uuf!}
+{1153}{}{Nie... mogê... z³apaæ... oddechu...}
+{1154}{}{Nie... mogê... z³apaæ... oddechu...}
+{1155}{}{Ty œmieciu...}
+
+# 3. Guard 3 (Sadistic)
+# Guard 3 is the henchman of really nasty people. He likes to hurt people, and makes no bones about it and is a bit of a coward.
+#
+#  running away
+{1200}{}{Muszê st¹d spadaæ!}
+{1201}{}{Jeszcze tu wrócê...}
+{1202}{}{Dzisiaj mnie nie za³atwisz!}
+{1203}{}{Na razie, œmierdzielu!}
+{1204}{}{To jeszcze nie moje ostatnie s³owo!}
+{1205}{}{Zap³acisz mi za to - póŸniej!}
+#
+# moving in to attack
+#
+{1206}{}{Ju¿ po tobie!}
+{1207}{}{Œwie¿e miêsko...}
+{1208}{}{Zatañczê na twoim grobie.}
+{1209}{}{Wszyscy, uwaga! Mamy cel æwiczebny!}
+{1210}{}{}
+{1211}{}{To mnie uraduje...}
+#
+# attacking (10)
+#
+{1212}{}{}
+{1213}{}{Nie k³opocz siê skomleniem o litoœæ...}
+{1214}{}{To lubiê najbardziej...}
+{1215}{}{}
+{1216}{}{Nakarmiê tob¹ psy.}
+{1217}{}{Nie zaczynaj tego, czego nie potrafisz skoñczyæ.}
+{1218}{}{Liczê, ¿e nie umrzesz zbyt szybko.}
+{1219}{}{¯ywcem st¹d nie odejdziesz.}
+{1220}{}{Zdychaj!}
+{1221}{}{Takie ³ajzy jak ty, to ja jadam na œniadanie.}
+{1222}{}{Nakarmiê tob¹ moj¹ iguankê.}
+{1223}{}{Ostatni¹ rzecz¹, jak¹ zobaczysz, bêdzie moja wyszczerzona buŸka.}
+{1224}{}{Kocham tê robotê.}
+#
+# target being missed (6)
+#
+{1225}{}{To ¿a³osne...}
+{1226}{}{Nie staæ ciê na wiêcej?}
+{1227}{}{}
+{1228}{}{}
+{1229}{}{Za wolno!}
+{1230}{}{Cienias.}
+#
+# target hit in head (3)
+#
+{1231}{}{Nie w twarz!}
+{1232}{}{A³!}
+{1233}{}{Ty mendo, z³ama³aœ mi kinol!}
+#
+# target hit in left arm
+#
+{1234}{}{A³, moja graba!}
+{1235}{}{Ta menda z³ama³a mi grabê!}
+{1236}{}{Rozpieprzona ³apa mi nie przeszkodzi!}
+#
+# target hit in right arm
+#
+{1237}{}{A³, moja graba!}
+{1238}{}{Ta ³ajza z³ama³a mi grabê!}
+{1239}{}{Rozjebana ³apa mi nie przeszkodzi!}
+#
+# target hit in torso
+#
+{1240}{}{A³, moja klata!}
+{1241}{}{To by³ twój jeden wolny.}
+{1242}{}{Zaraz za to zap³acisz.}
+#
+# target hit in right leg
+#
+{1243}{}{Moja gica!}
+{1244}{}{Zap³acisz za to!}
+{1245}{}{Aaach!}
+#
+# target hit in left leg
+#
+{1246}{}{Mój kulas!}
+{1247}{}{}
+{1248}{}{Aaach!}
+#
+# target hit in eyes
+#
+{1249}{}{Aaach! Moje ga³y!}
+{1250}{}{Moja patrza³ka! Zap³acisz za ni¹!}
+{1251}{}{}
+#
+# target hit in groin
+#
+{1252}{}{Oooooo, mój klejnot!}
+{1253}{}{Ooo! Muszê siê nauczyæ tego numeru...}
+{1254}{}{Chrup!}
+{1255}{}{Chrup!}
+{1256}{}{Chrup!}
+{1257}{}{A³! Zajebiê ciê za to!}
+
+# 4. Guard 4 (Humorous)
+# Guard 4 is used when the designer wants to be silly with guards
+#
+#  running away (6)
+#
+{1300}{}{Chyba ktoœ mnie wo³a.}
+{1301}{}{}
+{1302}{}{Pomocy!}
+{1303}{}{Aaaaaaaaa!}
+{1304}{}{W nogi!}
+{1305}{}{}
+#
+# moving in to attack (6)
+#
+{1306}{}{Tak ciê za³atwiê, ¿e bêdziesz wygl¹daæ jak po³amany precel.}
+{1307}{}{Zobacz! Masz rozwi¹zan¹ sznurówkê!}
+{1308}{}{Poczekaj, jak ciê dorwê...}
+{1309}{}{}
+{1310}{}{Tak ciê spiorê, ¿e nie wiem!}
+{1311}{}{}
+#
+# attacking (10)
+#
+{1312}{}{A masz!}
+{1313}{}{Teraz ciê mam!}
+{1314}{}{Teraz ciê mam!}
+{1315}{}{Jak ci siê TO podoba?}
+{1316}{}{¯ryj to.}
+{1317}{}{To doœwiadczenie odmieni twoje ¿ycie.}
+{1318}{}{Nie po¿a³ujê tego, prawda?}
+{1319}{}{}
+{1320}{}{}
+{1321}{}{}
+#
+# target being missed (6)
+#
+{1322}{}{Ha, pud³o!}
+{1323}{}{A gówno!}
+{1324}{}{Ha!}
+{1325}{}{A guzik!}
+{1326}{}{Co za przyg³up!}
+{1327}{}{Nie dasz rady mnie tkn¹æ, m³otku.}
+#
+# target hit in head (3)
+#
+{1328}{}{Uwa¿aj na w³osy!}
+{1329}{}{Moye semby! Ni mam semba!}
+{1330}{}{Moye semby! Moye semby!}
+#
+# target hit in left arm
+#
+{1331}{}{A³, moja rêka!}
+{1332}{}{A³!}
+{1333}{}{A³a, przestañ!}
+#
+# target hit in right arm
+#
+{1334}{}{A³, moja rêka!}
+{1335}{}{A³!}
+{1336}{}{A³a, przestañ!}
+{1337}{}{Nie chcê byæ mañkutem!}
+#
+# target hit in torso
+#
+{1338}{}{Uuuf!}
+{1339}{}{To nie by³o zbyt mi³e.}
+{1340}{}{Jeszcze mo¿esz tego po¿a³owaæ, bo ja na pewno.}
+{1341}{}{Myœlê, ¿e chyba zemdlejê.}
+{1342}{}{Co ty myœlisz, ¿e ja jestem, worek treningowy?}
+{1343}{}{Bardzo nie³adnie siê zachowujesz.}
+#
+# target hit in right leg
+#
+{1344}{}{A³, moja noga!}
+{1345}{}{A³! Nie rób tak!}
+{1346}{}{!}
+#
+# target hit in left leg
+#
+{1347}{}{A³, moja noga!}
+{1348}{}{A³! Wredzioch z ciebie!}
+{1349}{}{}
+#
+# target hit in eyes
+#
+{1350}{}{Czemu jest tak ciemno?}
+{1351}{}{Gdzie siê wszyscy podziali?}
+{1352}{}{A³aj, moja siatkówka!}
+#
+# target hit in groin
+#
+{1353}{}{Oooooo, mój klejnocik!}
+{1354}{}{O rany, moje podbrzusze jest teraz czar¹ ognia!}
+{1355}{}{Narz¹dy mi siê pal¹! Narz¹dy mi siê pal¹!}
+{1356}{}{Nie... mogê... z³apaæ... oddechu...}
+{1357}{}{}
+{1358}{}{Co za ból, co za ból...}
+
+# 5. Guard 5 (Perfunctory)
+# Guard 5 is a guard who doesn't say much, or when he does, it's pretty short.
+#
+#  running away (6)
+#
+{1400}{}{Spadam st¹d!}
+{1401}{}{Czeœæ!}
+{1402}{}{Aaaaach!}
+{1403}{}{}
+{1404}{}{}
+{1405}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{1406}{}{}
+{1407}{}{Ju¿ po tobie!}
+{1408}{}{Skoñczy³y siê ¿arty.}
+{1409}{}{Ktoœ tu zdechnie.}
+{1410}{}{Piszê siê na to.}
+{1411}{}{}
+#
+# attacking
+#
+{1412}{}{Masz!}
+{1413}{}{Giñ!}
+{1414}{}{Ty ³ajzo!}
+{1415}{}{Œmieciu!}
+{1416}{}{}
+{1417}{}{Oby to bola³o.}
+{1418}{}{}
+{1419}{}{}
+{1420}{}{Wyprawiê ci pogrzeb.}
+{1421}{}{Jesteœ trupem.}
+#
+# target being missed
+#
+{1422}{}{Pud³o!}
+{1423}{}{Nie jestem pod wra¿eniem.}
+{1424}{}{}
+{1425}{}{Masz refleks ¿ó³wia.}
+{1426}{}{Jesteœ do dupy.}
+{1427}{}{}
+#
+# target hit in head
+#
+{1428}{}{To bola³o.}
+{1429}{}{Moje ga³y!}
+{1430}{}{A³! Mój kinol...}
+#
+# target hit in left arm
+#
+{1431}{}{A³!}
+{1432}{}{A³! Moja graba!}
+{1433}{}{A³! Ta ³ajza strzaska³a mi grabê!}
+#
+# target hit in right arm
+#
+{1434}{}{A³!}
+{1435}{}{A³! Moja graba!}
+{1436}{}{A³! Ty mendo, strzaska³aœ mi grabê!}
+#
+# target hit in torso
+#
+{1437}{}{A³!}
+{1438}{}{A³æ!}
+{1439}{}{Uuuf!}
+{1440}{}{Chyyyp!}
+{1441}{}{Ufff!}
+{1442}{}{Uch!}
+#
+# target hit in right leg
+#
+{1443}{}{A³!}
+{1444}{}{A³! Moje kolano!}
+{1445}{}{A³! Mój kulas!}
+#
+#
+# target hit in left leg
+#
+{1446}{}{A³!}
+{1447}{}{A³! Moje kolano!}
+{1448}{}{A³! Moja gica!}
+#
+# target hit in eyes
+#
+{1449}{}{Widzê tylko ciemnoœæ!}
+{1450}{}{Nic nie widzê!}
+{1451}{}{Moja ga³a!}
+#
+# target hit in groin
+#
+{1452}{}{Moje lêdŸwie!}
+{1453}{}{Ajiiiii!}
+{1454}{}{Kurwa maæ, ale to boli.}
+{1455}{}{Uuuf!}
+{1456}{}{Chrup!}
+{1457}{}{Nie... mogê... z³apaæ... oddechu...}
+
+# 6. Guard 6 (Smart-ass)
+# Guard 6 is a guard who says a lot of wisecracks. Somewhat conceited.
+#
+#  running away (6)
+#
+{1500}{}{Ja st¹d spadam!}
+{1501}{}{Ju¿ mnie tu nie ma!}
+{1502}{}{}
+{1503}{}{Mo¿e to wcale nie by³ taki dobry pomys³.}
+{1504}{}{Kurde, tutaj bij¹!}
+{1505}{}{}
+#
+# moving in to attack (6)
+#
+{1506}{}{Czas dodaæ kolejne naciêcie na mojej starej armatce.}
+{1507}{}{Praca stra¿nika nigdy nie ma koñca.}
+{1508}{}{}
+{1509}{}{Kurde, znowu? Amunicja jest taka droga!}
+{1510}{}{Oby tylko nie dali mi s³u¿by pogrzebowej.}
+{1511}{}{Myœlisz, ¿e kim ty niby jesteœ?}
+#
+# attacking
+#
+{1512}{}{Tak w³aœnie wygl¹da zawodowiec w akcji.}
+{1513}{}{Trzeba by³o dzisiaj rano nie wstawaæ.}
+{1514}{}{Zaraz zaliczysz glebê!}
+{1515}{}{}
+{1516}{}{A teraz po³o¿ê ciê na spoczynek...}
+{1517}{}{}
+{1518}{}{Prze¿ywaj¹ najsilniejsi, a ty nie jesteœ w formie.}
+{1519}{}{}
+{1520}{}{Spadaj do grobu!}
+{1521}{}{Bêdê ostatni¹ rzecz¹, jak¹ w ¿yciu zobaczysz!}
+#
+# target being missed
+#
+{1522}{}{Takim cieniasem to nie jestem.}
+{1523}{}{A³! Czy to by³o pud³o?}
+{1524}{}{Próbuj dalej, to któregoœ dnia trafisz!}
+{1525}{}{}
+{1526}{}{Mam dla ciebie postaæ nieruchomo?}
+{1527}{}{}
+#
+# target hit in head
+#
+{1528}{}{A³!}
+{1529}{}{Dzwoni mi we ³bie!}
+{1530}{}{A³! Moje ucho!}
+#
+# target hit in left arm
+#
+{1531}{}{A³, moja rêka!}
+{1532}{}{Mam przez ciebie z³aman¹ rêkê!}
+{1533}{}{A³... Bardzo mnie wyrêczasz...}
+#
+# target hit in right arm
+#
+{1534}{}{A³, moja rêka!}
+{1535}{}{Mam przez ciebie z³aman¹ rêkê!}
+{1536}{}{A³... Bardzo mnie wyrêczasz...}
+#
+# target hit in torso
+#
+{1537}{}{Pewnie myœlisz, ¿e jesteœ niekiepskim zawodnikiem.}
+{1538}{}{Uch!}
+{1539}{}{Uuf!}
+{1540}{}{Chcesz tu podejœæ i spróbowaæ znowu?}
+{1541}{}{Za³o¿ê siê, ¿e chcesz mi dorównaæ, jak doroœniesz.}
+{1542}{}{Przynajmniej to nie by³o takie paskudne, jak twoja gêba!}
+{1543}{}{Aa³! Kurwa maæ!}
+#
+# target hit in right leg
+#
+{1544}{}{A³!}
+{1545}{}{To tylko zadrapanie... i kilka po³amanych koœci.}
+{1546}{}{I tak nie potrzebujê tego kolana.}
+#
+# target hit in left leg
+#
+{1547}{}{Ach!}
+{1548}{}{To tylko zadrapanie... i kilka po³amanych koœci.}
+{1549}{}{I tak nie potrzebujê tego kolana.}
+#
+# target hit in eyes
+#
+{1550}{}{Nic nie widzê!}
+{1551}{}{Ju¿ nie muszê ogl¹daæ twojej ohydnej mordy.}
+{1552}{}{Teraz przynajmniej nie muszê ogl¹daæ twojej ohydnej mordy.}
+#
+# target hit in groin
+#
+{1553}{}{Mój klejnot! Mój klejnot!}
+{1554}{}{Zamieniasz to w sprawê bardzo osobist¹.}
+{1555}{}{}
+{1556}{}{I ju¿ po moim ¿yciu seksualnym!}
+{1557}{}{Och, ten ból!}
+{1558}{}{A³! W³aœnie coœ takiego nazywam bolesnym!}
+
+# 7. Guard 7 (Rookie)
+# "I can hit a target real good when it ain't moving. I'm sure looking forward to some real action. Honest I am!" (Naïve, and probably won't live long enough to learn)
+#
+#  running away
+#
+{1600}{}{Hej, mogê tutaj zgin¹æ!}
+{1601}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{1602}{}{Mam doœæ!}
+{1603}{}{Pomocy!}
+{1604}{}{Aaaaaaach!}
+{1605}{}{Dajcie mi st¹d odejœæ!}
+#
+# moving in to attack
+#
+{1606}{}{W koñcu jakaœ prawdziwa akcja!}
+{1607}{}{By³o ze mn¹ nie zadzieraæ!}
+{1608}{}{Wreszcie mogê siê sprawdziæ w boju!}
+{1609}{}{No to walimy... prawda?}
+{1610}{}{}
+{1611}{}{To mo¿e byæ zabawne!}
+#
+# attacking
+#
+{1612}{}{A masz!}
+{1613}{}{Teraz ciê mam!}
+{1614}{}{A masz!}
+{1615}{}{Jak ci siê TO podoba?}
+{1616}{}{Giñ, ty bandycki popaprañcu!}
+{1617}{}{Ty mutanci popaprañcu!}
+{1618}{}{Na wroga!}
+{1619}{}{}
+{1620}{}{}
+{1621}{}{}
+#
+# target being missed
+#
+{1622}{}{Ha, pud³o!}
+{1623}{}{Pud³o!}
+{1624}{}{Zgrabny ruch, co?}
+{1625}{}{Nie staæ ciê na wiêcej?}
+{1626}{}{Hej! To mog³o zrobiæ komuœ krzywdê!}
+{1627}{}{}
+#
+# target hit in head
+#
+{1628}{}{A³!}
+{1629}{}{Moja twarz! Co siê z ni¹ sta³o?!}
+{1630}{}{Aaaach! Moja twarz! Nie! Nie!}
+#
+# target hit in left arm
+#
+{1631}{}{A³, moja rêka!}
+{1632}{}{Moja rêka, co siê z ni¹ sta³o?!}
+{1633}{}{Aaaach!}
+#
+# target hit in right arm
+#
+{1634}{}{A³, moja rêka!}
+{1635}{}{Moja rêka, co siê z ni¹ sta³o?!}
+{1636}{}{Aaaach!}
+#
+# target hit in torso
+#
+{1637}{}{A³!}
+{1638}{}{}
+{1639}{}{A³ajæ! A³ajæ! A³ajæ!}
+{1640}{}{No nie wiem, czy mi siê to podoba...}
+{1641}{}{Ze mn¹ nie przesadzaj, jestem dopiero na praktyce.}
+{1642}{}{Uuf!}
+{1643}{}{Ach!}
+{1644}{}{A³a! To bola³o!}
+#
+# target hit in right leg
+#
+{1645}{}{A³, moja noga!}
+{1646}{}{Moja noga, co siê z ni¹ sta³o?!}
+{1647}{}{Aaaach!}
+#
+# target hit in left leg
+#
+{1648}{}{A³, moja noga!}
+{1649}{}{Moja noga!}
+{1650}{}{Aaaach!}
+#
+# target hit in eyes
+#
+{1651}{}{Nic nie widzê!}
+{1652}{}{Moje oczy!}
+{1653}{}{Pomó¿cie mi!}
+#
+# target hit in groin
+#
+{1654}{}{A³! Mój malutki klejnooocik!}
+{1655}{}{Oooooo, ty obleœn...}
+{1656}{}{Chrup!}
+{1657}{}{Czy to moje wnêtrznoœci?}
+{1658}{}{Nie... mogê... z³apaæ... oddechu...}
+{1659}{}{Kurde, to boli!}
+
+# 8. Bouncer
+# Bouncer is a professional. Fighting scum is his business. The opponent is another loser who's caused too much trouble.
+#
+#  running away
+#
+{1700}{}{Ja za to nie kipnê!}
+{1701}{}{Ta robota nie jest tego warta!}
+{1702}{}{Muszê spierdalaæ!}
+{1703}{}{Ju¿ po mojej reputacji...}
+{1704}{}{Nie mam do ciebie ¿alu.}
+{1705}{}{Zabirzta mnie od tego œwira.}
+#
+# moving in to attack
+#
+{1706}{}{Cholera, znowu jakiœ chuligan!}
+{1707}{}{To by³o przegiêcie pa³y!}
+{1708}{}{Nie ujdzie ci to na sucho!}
+{1709}{}{Na mojej zmianie takie numery koñcz¹ siê œmierci¹!}
+{1710}{}{Za³atwiê ciê!}
+{1711}{}{}
+#
+# attacking
+#
+{1712}{}{W³aœnie to robiê rozrabiakom!}
+{1713}{}{Zmów paciorek...}
+{1714}{}{To ciê nauczy nie sprawiaæ k³opotów.}
+{1715}{}{Wy³adujê siê na tobie!}
+{1716}{}{}
+{1717}{}{Zobaczmy, co z ciebie za twardziel...}
+{1718}{}{Myœlisz, ¿e jesteœ prawdziwym karabinem, co?}
+{1719}{}{Nie zaczynaj tego, czego nie potrafisz skoñczyæ.}
+{1720}{}{Spodziewasz siê, ¿e ujdzie ci to bezkarnie?}
+{1721}{}{Dupencje, takie jak ty, jadam na œniadanie.}
+#
+# target being missed
+#
+{1722}{}{U³atwiasz mi robotê.}
+{1723}{}{Nie masz polotu.}
+{1724}{}{Kurcze, wcale nie masz miêœni!}
+{1725}{}{Na wiêcej ciê nie staæ?}
+{1726}{}{Chyba nie myœlisz, ¿e mnie tak za³atwisz, prawda?}
+{1727}{}{No dawaj, cwelu. Poka¿ mi, jak walczysz!}
+#
+# target hit in head
+#
+{1728}{}{Ta menda z³ama³a mi nos!}
+{1729}{}{A³! Kurwa twoja maæ!}
+{1730}{}{Kurwa maæ! To boli!}
+#
+# target hit in left arm
+#
+{1731}{}{A³, moja rêka!}
+{1732}{}{Skasujê ciê za to!}
+{1733}{}{To by³ twój b³¹d.}
+#
+# target hit in right arm
+#
+{1734}{}{A³, moja rêka!}
+{1735}{}{Zapierdolê ciê za to!}
+{1736}{}{To by³ twój b³¹d.}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{1737}{}{O kurwa, kolejna rozjebana noga!}
+{1738}{}{A³!}
+{1739}{}{To by³ twój b³¹d.}
+#
+# target hit in left leg
+#
+{1740}{}{A³! Próbujesz mnie podci¹æ?}
+{1741}{}{A³!}
+{1742}{}{To bola³o...}
+#
+# target hit in eyes
+#
+{1743}{}{Nic nie widzê!}
+{1744}{}{A³!}
+{1745}{}{Nie muszê ciê widzieæ, ¿eby ukrêciæ ci ³eb!}
+#
+# target hit in groin
+#
+{1746}{}{Oooo! W jajca!}
+{1747}{}{Oooo! W jajca!}
+{1748}{}{Oooo! W jajca!}
+{1749}{}{Chyp! Moje klejnoty!}
+{1750}{}{Chyp! Moje klejnoty!}
+{1751}{}{Chrup!}
+
+# 9. Loser
+# Loser don't want no trouble. How's he survived so long?
+#
+#  running away
+#
+{1800}{}{Litoœci!}
+{1801}{}{Niech mi ktoœ pomo¿e!}
+{1802}{}{Proszê, przestañ!}
+{1803}{}{Pomocy!}
+{1804}{}{Aaaaach!}
+{1805}{}{Litoœci!}
+#
+# moving in to attack
+#
+{1806}{}{Hmm, ee, przestañ!}
+{1807}{}{Nie lubiê takich jak ty...}
+{1808}{}{Naprawdê wolê, jak do tego nie dochodzi...}
+{1809}{}{Chyba muszê siê broniæ.}
+{1810}{}{Chyba muszê siê broniæ.}
+{1811}{}{Naprawdê wolê, jak do tego nie dochodzi...}
+#
+# attacking
+#
+{1812}{}{A masz!}
+{1813}{}{Trzeba by³o tego nie zaczynaæ!}
+{1814}{}{Prosisz siê o to!}
+{1815}{}{Jak ci siê TO podoba?}
+{1816}{}{}
+{1817}{}{Ty bestio!}
+{1818}{}{Nie chcem, ale muszem!}
+{1819}{}{}
+{1820}{}{Nie pragnê tej walki, ale...}
+{1821}{}{Ty szubrawcu!}
+#
+# target being missed
+#
+{1822}{}{}
+{1823}{}{Pud³o!}
+{1824}{}{Rety, to mog³o zaboleæ!}
+{1825}{}{Uf! Nadal ¿yjê!}
+{1826}{}{Hej! To mog³o komuœ zrobiæ krzywdê!}
+{1827}{}{Uf! Nadal ¿yjê!}
+#
+# target hit in head
+#
+{1828}{}{Moja twarz! Moja twarz!}
+{1829}{}{A³! To bola³o!}
+{1830}{}{}
+#
+# target hit in left arm
+#
+{1831}{}{A³, moja rêka!}
+{1832}{}{A³!}
+{1833}{}{Mam z³aman¹ rêkê!}
+#
+# target hit in right arm
+#
+{1834}{}{A³, moja rêka!}
+{1835}{}{£aaaaa!}
+{1836}{}{O Bo¿e! Moja rêka!}
+#
+# target hit in torso
+#
+{1837}{}{A³! To mnie naprawdê zabola³o!}
+{1838}{}{Chyba zaraz zemdlejê.}
+{1839}{}{A³æ!}
+{1840}{}{}
+{1841}{}{To bola³o!}
+{1842}{}{Zwyczajnie zostaw mnie w spokoju!}
+{1843}{}{Oooch, boli!}
+#
+# target hit in right leg
+#
+{1844}{}{A³, moja noga!}
+{1845}{}{Moje kolano!}
+{1846}{}{A³!}
+#
+# target hit in left leg
+#
+{1847}{}{A³, moja noga!}
+{1848}{}{Moje kolano!}
+{1849}{}{Aaaaaaaaaaach!}
+#
+# target hit in eyes
+#
+{1850}{}{Nie widzê! O Bo¿e, nie widzê!}
+{1851}{}{Moja twarz! Moje oczy! Aaaaaaa!}
+{1852}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{1853}{}{Ooooooooo, moje jaja! Ooooooo...}
+{1854}{}{Aa³... Parzy!}
+{1855}{}{Chyp!}
+{1856}{}{Chyyyp! Aaa³³...}
+{1857}{}{Nie... mogê... z³apaæ... oddechu...}
+{1858}{}{Co za ból, co za ból...}
+
+# 10. Berserker
+# Berserker just want trouble. How's he survived so long?
+#
+#  running away
+#
+{1900}{}{Biorê na wstrzymanie.}
+{1901}{}{Jeszcze tu wrócê!}
+{1902}{}{Na razie, œmieciu!}
+{1903}{}{By³o fajnie, ale muszê znikaæ!}
+{1904}{}{Zap³acisz mi za to - póŸniej!}
+{1905}{}{Musimy to nied³ugo powtórzyæ!}
+#
+# moving in to attack
+#
+{1906}{}{Nauczê ciê pos³uchu, bo przybijê ci uszy do czachy!}
+{1907}{}{Œwie¿e miêsko!}
+{1908}{}{Uprzyjemniasz mi dzionek!}
+{1909}{}{Bêdziesz moj¹ dup¹, suko!}
+{1910}{}{Nauczê ciê pos³uchu, bo przybijê ci uszy do czachy!}
+{1911}{}{Bêdziesz mi lizaæ podeszwy!}
+#
+# attacking
+#
+{1912}{}{}
+{1913}{}{}
+{1914}{}{Proszê, nie b³agaj o litoœæ. Œmieræ powinna byæ godna.}
+{1915}{}{Tylko nie umrzyj zbyt szybko!}
+{1916}{}{Masz jakieœ ostatnie s³owa?}
+{1917}{}{Masz!}
+{1918}{}{Giñ! Giñ! Giñ! Giñ! Giñ!}
+{1919}{}{Giñ!}
+{1920}{}{Otwórzmy ciê trochê...}
+{1921}{}{Jesteœ karm¹ dla psów, ziomuœ.}
+#
+# target being missed
+#
+{1922}{}{Nawet mnie nie drasnê³o.}
+{1923}{}{}
+{1924}{}{No dawaj, œmierdzielu. Chcê walki!}
+{1925}{}{Na wiêcej ciê nie staæ?}
+{1926}{}{To bêdzie ³atwiejsze, ni¿ myœla³em.}
+{1927}{}{To bêdzie ³atwiejsze, ni¿ myœla³em.}
+#
+# target hit in head
+#
+{1928}{}{Bêdzie z tego zajebista blizna!}
+{1929}{}{Zaczynam siê wkurzaæ.}
+{1930}{}{Spróbuj to powtórzyæ, œwinio.}
+#
+# target hit in left arm
+#
+{1931}{}{To coœ dziab³o mnie w ³apê!}
+{1932}{}{}
+{1933}{}{Ty ³amiesz mi grabê, ale ja skrêcê ci kark.}
+#
+# target hit in right arm
+#
+{1934}{}{}
+{1935}{}{To tylko zadrapanie...}
+{1936}{}{Ty mi ³amiesz grabê, to ja skrêcê ci kark.}
+#
+# target hit in torso
+#
+{1937}{}{}
+{1938}{}{Uuf! Ukrêcê ci za to ³eb...}
+{1939}{}{Uuuf!}
+{1940}{}{Uuuf!}
+{1941}{}{Uwielbiam odg³os pêkaj¹cych ¿eber!}
+{1942}{}{}
+{1943}{}{Uch!}
+#
+# target hit in right leg
+#
+{1944}{}{Uwielbiam odg³os kruszenia gnatów.}
+{1945}{}{}
+{1946}{}{Jak ty mi ³amiesz gicê, to ja skrêcê ci kark.}
+#
+# target hit in left leg
+#
+{1947}{}{Uwielbiam odg³os kruszenia gnatów.}
+{1948}{}{}
+{1949}{}{Ty mi ³amiesz nogê, to ja skrêcê ci kark.}
+#
+# target hit in eyes
+#
+{1950}{}{Hej, jestem œlepy.}
+{1951}{}{Nic nie widzê. Dziêki temu walka bêdzie uczciwa.}
+{1952}{}{Moje ga³y, kurwo!}
+#
+# target hit in groin
+#
+{1953}{}{Uuf, moje dzwony!}
+{1954}{}{To by³ jajcarski chwyt.}
+{1955}{}{}
+{1956}{}{}
+{1957}{}{Wiêc tak chcesz to rozegraæ.}
+{1958}{}{Chyp!}
+
+# 11. Peasant
+# I work the land. Is this is what I get for years of hard work? Some well-armed troublemaker who's making my life miserable?
+#
+#  running away
+#
+{2000}{}{Do³ó¿ komuœ innemu, proszê!}
+{2001}{}{Miej litoœæ!}
+{2002}{}{Niech mi ktoœ pomo¿e!}
+{2003}{}{Proszê, nie!}
+{2004}{}{}
+{2005}{}{Ja za to nie bêdê zdychaæ!}
+#
+# moving in to attack
+#
+{2006}{}{Poczekaj, jak ciê dorwê...}
+{2007}{}{}
+{2008}{}{Ej, ty!}
+{2009}{}{Nie chcemy ciê tu.}
+{2010}{}{Nikt tu nas nie bêdzie podbija³...}
+{2011}{}{Za kogo ty siê uwa¿asz?}
+#
+# attacking
+#
+{2012}{}{}
+{2013}{}{}
+{2014}{}{To robimy ze szkodnikami!}
+{2015}{}{Ty mutanci popaprañcu!}
+{2016}{}{}
+{2017}{}{Nakarmiê tob¹ psy.}
+{2018}{}{To ciê nauczy!}
+{2019}{}{Prosisz siê o to.}
+{2020}{}{Ty zwierzu!}
+{2021}{}{}
+#
+# target being missed
+#
+{2022}{}{}
+{2023}{}{Bywaj¹ braminy sprytniejsze od ciebie.}
+{2024}{}{Uf!}
+{2025}{}{Nie jestem popychad³em.}
+{2026}{}{Bogom niech bêd¹ dziêki.}
+{2027}{}{Pud³o!}
+#
+# target hit in head
+#
+{2028}{}{Cholera, ale to piecze!}
+{2029}{}{Aaaach!}
+{2030}{}{Ooo!}
+#
+# target hit in left arm
+#
+{2031}{}{Aaaach! Moja rêka!}
+{2032}{}{Mój rêka!}
+{2033}{}{A³!}
+#
+# target hit in right arm
+#
+{2034}{}{Aaaach! Moja rêka!}
+{2035}{}{Moja rêka!}
+{2036}{}{A³!}
+#
+# target hit in torso
+#
+{2037}{}{A³!}
+{2038}{}{To by³o cholernie bolesne...}
+{2039}{}{Uch!}
+{2040}{}{A³æ!}
+{2041}{}{}
+{2042}{}{Uuf!}
+{2043}{}{A³!}
+#
+# target hit in right leg
+#
+{2044}{}{Aaaach! Moja noga!}
+{2045}{}{Moja noga!}
+{2046}{}{Moja noga!}
+#
+# target hit in left leg
+#
+{2047}{}{Aaaach! Moja noga!}
+{2048}{}{Moja noga!}
+{2049}{}{A³!}
+#
+# target hit in eyes
+#
+{2050}{}{Aaaach! Nic nie widzê!}
+{2051}{}{Sma¿ siê w Piekle!}
+{2052}{}{Moje oko!}
+#
+# target hit in groin
+#
+{2053}{}{A³æ!}
+{2054}{}{Oooooooooo!}
+{2055}{}{Nie... mogê... z³apaæ... oddechu...}
+{2056}{}{}
+{2057}{}{Co za ból, co za ból...}
+{2058}{}{Jasny gwint!}
+
+# 12. Careful
+# I don't want to fight. Just let me walk away.
+#
+#  running away
+#
+{2100}{}{Ju¿ mnie tu nie ma!}
+{2101}{}{Litoœci! Litoœci!}
+{2102}{}{Proszê, przestañ!}
+{2103}{}{Pomocy!}
+{2104}{}{}
+{2105}{}{Muszê siê przestaæ naparzaæ.}
+#
+# moving in to attack
+#
+{2106}{}{}
+{2107}{}{}
+{2108}{}{Ja naprawdê tego nie chcê.}
+{2109}{}{Muszê ciê zglanowaæ.}
+{2110}{}{Ja naprawdê tego nie chcê.}
+{2111}{}{Mam nadziejê, ¿e nic mi siê nie stanie.}
+#
+# attacking
+#
+{2112}{}{}
+{2113}{}{Prosisz siê o to!}
+{2114}{}{Nie jestem w nastroju do walki, ale...}
+{2115}{}{}
+{2116}{}{I po co to zaczynasz?}
+{2117}{}{Ja wcale nie chcê tego robiæ!}
+{2118}{}{Nie bierz sobie tego do serca...}
+{2119}{}{Mam nadziejê, ¿e nie skrzywdzê ciê za bardzo.}
+{2120}{}{Zdajesz sobie sprawê, ¿e to ty za to opowiadasz.}
+{2121}{}{}
+#
+# target being missed
+#
+{2122}{}{Uf!}
+{2123}{}{Naprawdê nie musisz tego robiæ.}
+{2124}{}{Hej! To mog³o komuœ zrobiæ krzywdê!}
+{2125}{}{Nie musimy walczyæ.}
+{2126}{}{Przemoc nie rozwi¹¿e naszego problemu.}
+{2127}{}{Nie wk³adasz w to serca.}
+#
+# target hit in head
+#
+{2128}{}{Nie w twarz!}
+{2129}{}{Och, moja g³owa!}
+{2130}{}{A³! Moje ucho!}
+#
+# target hit in left arm
+#
+{2131}{}{A³, moja rêka!}
+{2132}{}{A³æ!}
+{2133}{}{Mam przez ciebie z³aman¹ rêkê!}
+#
+# target hit in right arm
+#
+{2134}{}{A³, moja rêka!}
+{2135}{}{Uch!}
+{2136}{}{Mam przez ciebie z³aman¹ rêkê!}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2137}{}{A³, moja noga!}
+{2138}{}{Moje kolano!}
+{2139}{}{A³! Mam rozwalon¹ nogê!}
+#
+# target hit in left leg
+#
+{2140}{}{A³, moja noga!}
+{2141}{}{Moje kolano!}
+{2142}{}{A³! Mam rozwalon¹ nogê!}
+#
+# target hit in eyes
+#
+{2143}{}{Nic nie widzê!}
+{2144}{}{Z oczu leci mi krew!}
+{2145}{}{To bola³o...}
+#
+# target hit in groin
+#
+{2146}{}{Oooooo, mój klejnocik!}
+{2147}{}{}
+{2148}{}{}
+{2149}{}{Nie... mogê... z³apaæ... oddechu...}
+{2150}{}{Moje klejnoty!}
+{2151}{}{Oooo! Muszê siê po³o¿yæ...}
+
+# 13.  Super Mutant
+# We are Chosen! You are dead!
+#
+#  running away
+#
+{2200}{}{W nogi!}
+{2201}{}{Nie zabijesz mnie!}
+{2202}{}{Jeszcze tu wrócê!}
+{2203}{}{Moi kumple za³atwi¹ ciê za mnie!}
+{2204}{}{Zap³acisz za to - póŸniej!}
+{2205}{}{Jesteœmy Wybrañcami! Umrzesz póŸniej!}
+#
+# moving in to attack
+#
+{2206}{}{Nadchodzi twoja œmieræ!}
+{2207}{}{Twój czas siê skoñczy³!}
+{2208}{}{Ludzkie bronie nie s¹ w stanie mnie skrzywdziæ!}
+{2209}{}{Bêdziesz cierpieæ, bardzo cierpieæ!}
+{2210}{}{W d³oniach mia¿d¿ê czaszki!}
+{2211}{}{Jesteœmy przysz³oœci¹, a tob¹ gardzimy!}
+#
+# attacking
+#
+{2212}{}{To twój koniec!}
+{2213}{}{Nikt ciê ju¿ nie uratuje!}
+{2214}{}{Teraz giñ!}
+{2215}{}{Teraz umrzesz P³on¹c¹ Œmierci¹!}
+{2216}{}{Dzisiaj trafisz do Piek³a!}
+{2217}{}{Radujê siê, gdy zabijam.}
+{2218}{}{Twoja krew jest moim winem!}
+{2219}{}{Teraz giñ!}
+{2220}{}{Oto jak teraz umrzesz!}
+{2221}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{2222}{}{¯a³osne! Po co w ogóle stajesz do walki?}
+{2223}{}{Czy tylko na to staæ ludzi?!}
+{2224}{}{Nie masz krzepy!}
+{2225}{}{Przez ciebie krztuszê siê ze œmiechu!}
+{2226}{}{Czy to mia³ byæ atak?}
+{2227}{}{Jesteœ niczym!}
+#
+# target hit in head
+#
+{2228}{}{Aaagh! Moja twarz!}
+{2229}{}{Moja twarz! Bêdziesz cierpieæ!}
+{2230}{}{Aaagh! Rozszarpiê ciê na kawa³ki!}
+#
+# target hit in left arm
+#
+{2231}{}{Aaagh!}
+{2232}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{2233}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{2234}{}{Aaagh!}
+{2235}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{2236}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{2237}{}{Chryp!}
+{2238}{}{Grrrr!}
+{2239}{}{To by³ b³¹d - z twojej strony!}
+{2240}{}{Chryp!}
+{2241}{}{Grrrr!}
+{2242}{}{Hahahaha! Ty to uwa¿asz za ból!}
+{2243}{}{Wrrr!}
+#
+# target hit in right leg
+#
+{2244}{}{Aaagh! Moja noga!}
+{2245}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{2246}{}{Aaagh! Z³amiê ciê jak ga³¹zkê!}
+#
+# target hit in left leg
+#
+{2247}{}{Aaagh! Moja noga!}
+{2248}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{2249}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{2250}{}{Aaagh! Nêdzny cz³owieczku! Nic nie widzê!}
+{2251}{}{Aaagh! Ten ból! Co siê sta³o?!}
+{2252}{}{Aaagh! Bêdê ciê torturowaæ przez wiele dni!}
+#
+# target hit in groin
+#
+{2253}{}{To ludzka s³aboœæ, nie nasza!}
+{2254}{}{W ten sposób mnie nie skrzywdzisz!}
+{2255}{}{Jesteœ durny, cz³owieczku!}
+{2256}{}{Czemu mierzysz mi w tamto miejsce?}
+{2257}{}{Twoja œmieræ bêdzie bolesna, cz³owieczku!}
+{2258}{}{SczeŸniesz za to...}
+
+# 14. Nightkin
+# We are the Chosen of the Master, and all must bow before us. (Damn these bastards are really arrogant); my interpretation is that these boys are smarter and more cunning than garden variety super mutants.
+#
+# running away
+#
+{2300}{}{Odwrót! Odwrót!}
+{2301}{}{Mistrz ciê za to zniszczy!}
+{2302}{}{To nie koniec!}
+{2303}{}{Dosiêgnie ciê zemsta Mistrza!}
+{2304}{}{Zap³acisz za to - póŸniej!}
+{2305}{}{Po¿ywiê siê twoim sercem kiedy indziej!}
+#
+# moving in to attack
+#
+{2306}{}{Twa œmieræ jest bliska.}
+{2307}{}{Teraz zap³acisz za rozgniewanie lepszych od ciebie!}
+{2308}{}{Przybywam po moich wrogów, dzier¿¹c Œwiêty P³omieñ!}
+{2309}{}{Ci, którzy sprzeciwiaj¹ siê Jednoœci, musz¹ zostaæ usuniêci!}
+{2310}{}{Œmieræ wrogom Mistrza!}
+{2311}{}{Jesteœmy przysz³oœci¹, a ty - histori¹!}
+#
+# attacking
+#
+{2312}{}{To ju¿ koniec!}
+{2313}{}{Ni cz³ek, ni bóg ciê teraz nie ocali!}
+{2314}{}{Witaj w twoim grobie!}
+{2315}{}{To dotyk Mistrza!}
+{2316}{}{Dzisiaj trafisz do Piek³a!}
+{2317}{}{Zginiesz z mojej rêki.}
+{2318}{}{W imiê Mistrza, giñ!}
+{2319}{}{Teraz pada œmiertelny cios!}
+{2320}{}{Spopielê ciê Œwiêtym P³omieniem!}
+{2321}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{2322}{}{¯a³osne! Czemu w ogóle stajesz do walki?}
+{2323}{}{Czy to wszystko, na co staæ ludzkoœæ?}
+{2324}{}{Twój atak jest równie s³aby, jak twój duch!}
+{2325}{}{To by³a twoja ostatnia pomy³ka.}
+{2326}{}{Mistrz os³ania mnie przed Swymi wrogami!}
+{2327}{}{Nie jesteœ w stanie skrzywdziæ Wybrañców.}
+#
+# target hit in head
+#
+{2328}{}{Bêdziesz za to cierpieæ!}
+{2329}{}{Bêdziesz za to cierpieæ!}
+{2330}{}{Aaagh! Rozszarpiê ciê na sztuki!}
+#
+# target hit in left arm
+#
+{2331}{}{Aaagh! Moje ramiê!}
+{2332}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2333}{}{Aaagh! Po³amiê za to wszystkie twoje koœci.}
+#
+# target hit in right arm
+#
+{2334}{}{Aaagh! Moje ramiê!}
+{2335}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2336}{}{Aaagh! Bêdziesz tego ¿a³owaæ.}
+#
+# target hit in torso
+#
+{2337}{}{Ahgh!}
+{2338}{}{Duf!}
+{2339}{}{Mistrzu!}
+{2340}{}{Upokarzasz mnie...}
+{2341}{}{Ahgh!}
+{2342}{}{Grrr!}
+#
+# target hit in right leg
+#
+{2343}{}{Aaagh! Moja noga!}
+{2344}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2345}{}{Aaagh! Zmia¿d¿ê ciê za to!}
+#
+# target hit in left leg
+#
+{2346}{}{Aaagh! Moja noga!}
+{2347}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2348}{}{Aaagh! Zgniotê ciê za to!}
+#
+# target hit in eyes
+#
+{2349}{}{Aaagh! Nêdzny cz³owieczku! Przez ciebie nie widzê!}
+{2350}{}{Aaagh! Ten ból! Co mi uczyniono?!}
+{2351}{}{Aaagh! Zaskarbiasz sobie tym ca³e dni agonii!}
+#
+# target hit in groin
+#
+{2352}{}{Nie dzielê z tob¹ tej s³aboœci, cz³owieczku!}
+{2353}{}{Moje lêdŸwie s¹ mocniejsze od twoich, cz³owieczku!}
+{2354}{}{Có¿ za ¿a³osna taktyka, cz³owieczku!}
+{2355}{}{Mistrz mnie ochrania, cz³owieczku!}
+{2356}{}{Twoja œmieræ w³aœnie sta³a siê bardziej bolesna, cz³owieczku!}
+{2357}{}{Uuf! Chyba muszê poddaæ próbie twoje s³abe punkty.}
+
+# 15. Children, Brainwashed (Cathedral)
+# The Master protects us, and none may bring us death or even suffering!
+#
+#  running away
+#
+{2400}{}{Mistrzu, czemuœ mnie opuœci³?!}
+{2401}{}{Mistrz mnie pomœci!}
+{2402}{}{Wybacz mi, Mistrzu, lecz muszê pierzchaæ!}
+{2403}{}{Czy¿ nie obawiasz siê pomsty?}
+{2404}{}{Œwiêty P³omieniu, chroñ mnie!}
+{2405}{}{Pomó¿ mi, Mistrzu, pomó¿ mi!}
+#
+# moving in to attack
+#
+{2406}{}{Wrogowie Mistrza musz¹ sczezn¹æ w Œwiêtym P³omieniu!}
+{2407}{}{Wrogowie Mistrza musz¹ umrzeæ!}
+{2408}{}{Jednoœæ zatriumfuje!}
+{2409}{}{Krew Dzieci zostanie pomszczona!}
+{2410}{}{Pokój trzeba karmiæ krwi¹ wrogów!}
+{2411}{}{Dajcie mi Jednoœæ lub dajcie mi Œmieræ!}
+#
+# attacking
+#
+{2412}{}{Nie uciekaj, jesteœmy twoimi przyjació³mi.}
+{2413}{}{Giñ w imiê Mistrza!}
+{2414}{}{Spójrz na Œwiêty P³omieñ!}
+{2415}{}{Oddaj siê ogniowi i zst¹p do grobu!}
+{2416}{}{Jednoœæ!}
+{2417}{}{Nikomu nie wolno powstrzymywaæ sprawy Pokoju!}
+{2418}{}{Nie powstrzymasz Jednoœci!}
+{2419}{}{Za Jednoœæ!}
+{2420}{}{Mistrzu, pob³ogos³aw mnie!}
+{2421}{}{SczeŸnij w Œwiêtym P³omieniu!}
+#
+# target being missed
+#
+{2422}{}{Mistrz mnie chroni!}
+{2423}{}{Chwalmy Mistrza, nie jesteœ w stanie mnie skrzywdziæ!}
+{2424}{}{Dziêkujê Ci, Mistrzu!}
+{2425}{}{Wielkoœæ ³aski Mistrza budzi respekt!}
+{2426}{}{Chroni mnie Œwiêty P³omieñ!}
+{2427}{}{Nie jesteœ w stanie skrzywdziæ Dzieci.}
+#
+# target hit in head
+#
+{2428}{}{Aaach! Co mnie uderzy³o?!}
+{2429}{}{Mistrzu, chroñ mnie!}
+{2430}{}{Uuf!}
+#
+# target hit in left arm
+#
+{2431}{}{Moje ramiê!}
+{2432}{}{Mistrz uleczy moje rany...}
+{2433}{}{Mistrzu! Có¿ oni mi uczynili!}
+#
+# target hit in right arm
+#
+{2434}{}{A³, moja prawica!}
+{2435}{}{Mistrz uleczy moje rany...}
+{2436}{}{Mistrzu! Có¿ oni mi uczynili!}
+#
+# target hit in torso
+#
+{2437}{}{Uuf!}
+{2438}{}{Chyp!}
+{2439}{}{Mistrzu, chroñ mnie!}
+{2440}{}{Mistrzu, pomœcij mnie!}
+{2441}{}{Ulp!}
+#
+# target hit in right leg
+#
+{2442}{}{A³, moja noga!}
+{2443}{}{Mam z³aman¹ nogê!}
+{2444}{}{Mistrzu! Có¿ oni mi uczynili!}
+#
+# target hit in left leg
+#
+{2445}{}{Moja noga!}
+{2446}{}{Mam z³aman¹ nogê!}
+{2447}{}{Mistrzu! Có¿ oni mi uczynili!}
+#
+# target hit in eyes
+#
+{2448}{}{Mistrzu, oœlepili mnie!}
+{2449}{}{Mistrzu, moje oczy, one mnie pal¹!}
+{2450}{}{Mistrzu, nic nie widzê!}
+#
+# target hit in groin
+#
+{2451}{}{Oooooo, moje lêdŸwie!}
+{2452}{}{Mistrzu!}
+{2453}{}{Mistrzu, os³oñ mnie przed bólem!}
+{2454}{}{Nie... mogê... z³apaæ... oddechu...}
+{2455}{}{Mistrzu, nasi wrogowie s¹ okrutni!}
+{2456}{}{Mistrzu, nasi wrogowie s¹ okrutni!}
+
+# 16. Children, Brainwashed (Hub)
+# The Master protects us, and none may bring us death or even suffering!
+#
+#  running away
+#
+{2500}{}{Œwiêty P³omieniu, czemuœ mnie opuœci³!}
+{2501}{}{Moja ofiara zostanie pomszczona!}
+{2502}{}{Wybacz mi Œwiêty P³omieniu, lecz muszê pierzchaæ!}
+{2503}{}{Czy¿ nie obawiasz siê pomsty?}
+{2504}{}{Œwiêty P³omieniu, chroñ mnie!}
+{2505}{}{Œwiêty P³omieniu, przewodŸ mej ucieczce!}
+#
+# moving in to attack
+#
+{2506}{}{Nasi wrogowie musz¹ sczezn¹æ w Œwiêtym P³omieniu!}
+{2507}{}{Nasi wrogowie musz¹ umrzeæ!}
+{2508}{}{Jednoœæ zatriumfuje!}
+{2509}{}{Krew Dzieci zostanie pomszczona!}
+{2510}{}{Pokój trzeba karmiæ krwi¹ wrogów!}
+{2511}{}{}
+#
+# attacking
+#
+{2512}{}{Giñ!}
+{2513}{}{Giñ w imiê Œwiêtego P³omienia!}
+{2514}{}{Spójrz na Œwiêty P³omieñ!}
+{2515}{}{W imiê Pokoju, giñ!}
+{2516}{}{Jednoœæ!}
+{2517}{}{Nikomu nie wolno powstrzymywaæ sprawy Pokoju!}
+{2518}{}{Œmieræ poganom!}
+{2519}{}{Nie uciekaj, jesteœmy twoimi przyjació³mi!}
+{2520}{}{Œwiêty P³omieniu, pob³ogos³aw mnie!}
+{2521}{}{SczeŸnij w Œwiêtym P³omieniu, pogañski pomiocie!}
+#
+# target being missed
+#
+{2522}{}{Œwiêty P³omieñ mnie chroni!}
+{2523}{}{Chwalmy Œwiêty P³omieñ, nie jesteœ w stanie mnie skrzywdziæ!}
+{2524}{}{Twój bóg jest fa³szywy!}
+{2525}{}{Twoje z³o pokonuje samo siebie!}
+{2526}{}{Chroni mnie Œwiêty P³omieñ!}
+{2527}{}{Nie jesteœ w stanie skrzywdziæ Dzieci.}
+#
+# target hit in head
+#
+{2528}{}{Aaach! Co mnie uderzy³o?!}
+{2529}{}{Œwiêty P³omieniu! Chroñ mnie!}
+{2530}{}{A³!}
+#
+# target hit in left arm
+#
+{2531}{}{A³, moje ramiê!}
+{2532}{}{Mam z³aman¹ rêkê!}
+{2533}{}{Co czynisz?!}
+#
+# target hit in right arm
+#
+{2534}{}{A³, moja prawica!}
+{2535}{}{Mam z³aman¹ prawicê!}
+{2536}{}{Ty grzeszna bestio!}
+#
+# target hit in torso
+#
+{2537}{}{A³æ! To bola³o!}
+{2538}{}{!*&^@#!}
+{2539}{}{Och, och, to bola³o!}
+{2540}{}{A³æ!}
+{2541}{}{Uuff!}
+{2542}{}{Uuf!}
+#
+# target hit in right leg
+#
+{2543}{}{A³, moja noga!}
+{2544}{}{Mam z³aman¹ nogê!}
+{2545}{}{Co czynisz?!}
+#
+# target hit in left leg
+#
+{2546}{}{A³, moja noga!}
+{2547}{}{Mam z³aman¹ nogê!}
+{2548}{}{^%@!!}
+#
+# target hit in eyes
+#
+{2549}{}{Nic nie widzê!}
+{2550}{}{Moje oczy!}
+{2551}{}{Moje grzechy mnie oœlepi³y!}
+#
+# target hit in groin
+#
+{2552}{}{Oooooo, moje lêdŸwie!}
+{2553}{}{Oooooo, jesteœ wcielonym z³em!!}
+{2554}{}{Œwiêty P³omieniu, chroñ me nasienie!}
+{2555}{}{Nie... mogê... z³apaæ... oddechu...}
+{2556}{}{Nie... mogê... z³apaæ... oddechu...}
+{2557}{}{Nasi wrogowie s¹ okrutni!}
+
+# 17. Children, Non-Brainwashed
+# Get some zombies in here to take care of this pest!
+#
+#  running away
+#
+{2600}{}{Nasz Koœció³ ciê dopadnie!}
+{2601}{}{Nasz Koœció³ potrafi o siebie zadbaæ!}
+{2602}{}{Pomocy!}
+{2603}{}{}
+{2604}{}{Jakiœ inny naiwniak mo¿e siê tob¹ zaj¹æ.}
+{2605}{}{Nie bêdê za to zdychaæ!}
+#
+# moving in to attack
+#
+{2606}{}{}
+{2607}{}{Pogrzebaæ bandziora!}
+{2608}{}{Czas umieraæ!}
+{2609}{}{Nie wolno ci tu przebywaæ!}
+{2610}{}{Czas wyrzuciæ œmieci...}
+{2611}{}{Zap³acisz za swoje "grzechy"...}
+#
+# attacking
+#
+{2612}{}{A masz!}
+{2613}{}{Ty pojebie!}
+{2614}{}{Teraz zdychasz!}
+{2615}{}{No dawaj, szczochu, walimy!}
+{2616}{}{Porz¹dnie ci wpierdolê.}
+{2617}{}{Spuszczê ci ³omot.}
+{2618}{}{}
+{2619}{}{}
+{2620}{}{Poca³uj mnie w Œwiêty P³omieñ, kolo!}
+{2621}{}{Poca³uj mnie w Œwiêty P³omieñ, kolo!}
+#
+# target being missed
+#
+{2622}{}{Ha, pud³o!}
+{2623}{}{Co za pierdo³a!}
+{2624}{}{Ha, pud³o!}
+{2625}{}{Jesteœ niedojd¹ wiêksz¹ nawet ni¿ zombi!}
+{2626}{}{Ktoœ ci kiedyœ pokaza³, jak celowaæ?}
+{2627}{}{Jesteœ ciamajd¹ wiêksz¹ nawet ni¿ zombi!}
+#
+# target hit in head
+#
+{2628}{}{Uch!}
+{2629}{}{Uuf!}
+{2630}{}{Kurde! To bola³o!}
+#
+# target hit in left arm
+#
+{2631}{}{A³, moja rêka!}
+{2632}{}{P³acisz mi za to!}
+{2633}{}{Po³amiê ci za to obie graby!}
+#
+# target hit in right arm
+#
+{2634}{}{A³, moja rêka!}
+{2635}{}{P³acisz mi za to!}
+{2636}{}{Po³amiê ci za to obie graby!}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{2637}{}{A³, moja noga!}
+{2638}{}{P³acisz mi za to!}
+{2639}{}{Ty ^&!$%@! Za³atwiê ciê!}
+#
+# target hit in left leg
+#
+{2640}{}{A³, moja noga!}
+{2641}{}{P³acisz mi za to!}
+{2642}{}{A³!}
+#
+# target hit in eyes
+#
+{2643}{}{Bêdê ciê za to mieæ na oku!}
+{2644}{}{Moje oko! Zap³acisz za nie!}
+{2645}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{2646}{}{A³, to moja piêta achillesowa!}
+{2647}{}{Kurwa, to boli!}
+{2648}{}{!%@$ #^%!@# ^#$%@^#!!!}
+{2649}{}{Och, kurwa maæ!}
+{2650}{}{}
+{2651}{}{}
+
+# 18. The Master
+# Unity is its own protection. My enemies will not withstand me. Withstand.
+#
+#  running away
+#
+{2700}{}{To starcie jest niepotrzebne.}
+{2701}{}{Zostanê pomszczony!}
+{2702}{}{Twój triumf bêdzie krótkotrwa³y!}
+{2703}{}{Nie pokonasz Jednoœci.}
+{2704}{}{Moi s³udzy mnie ochroni¹!}
+{2705}{}{Nadzieja! Muszê mieæ nadziejê!}
+#
+# moving in to attack
+#
+{2706}{}{Twoje grzechy zostan¹ teraz ukarane.}
+{2707}{}{Moi wrogowie musz¹ umrzeæ! Umrzeæ!}
+{2708}{}{Jednoœæ zatriumfuje! Zatriumfuje!}
+{2709}{}{Nie pozwolê ci zniszczyæ naszego œwiata.}
+{2710}{}{Przysz³oœæ musi zostaæ zachowana! Zachowana!}
+{2711}{}{Dajcie mi Jednoœæ lub dajcie mi Œmieræ! Œmieræ!}
+#
+# attacking
+#
+{2712}{}{Giñ!}
+{2713}{}{Nie zostanie po tobie ¿aden œlad.}
+{2714}{}{Pieczêtujesz swoj¹ zag³adê.}
+{2715}{}{Zap³acisz za twoje czyny! Czyny!}
+{2716}{}{Jednoœæ!}
+{2717}{}{Nikomu nie wolno wstrzymywaæ sprawy Pokoju! Pokoju!}
+{2718}{}{Nie czeka ciê nic prócz ognia. Ognia!}
+{2719}{}{Niech to bêdzie twoim epitafium.}
+{2720}{}{Jesteœ niczym. Niczym!}
+{2721}{}{To kres twojej egzystencji.}
+#
+# target being missed
+#
+{2722}{}{Twoje wysi³ki s¹ bezowocne! Bezowocne!}
+{2723}{}{Nie mo¿esz nade mn¹ zatriumfowaæ!}
+{2724}{}{Ponownie b³¹dzisz.}
+{2725}{}{Twoje z³o pokonuje samo siebie!}
+{2726}{}{Nie prze¿yjesz tego starcia.}
+{2727}{}{Twoja efektywnoœæ jest niedostateczna.}
+#
+# target hit in head
+#
+{2728}{}{Rana g³owy.}
+{2729}{}{Ten ból by³ nieprzyjemny.}
+{2730}{}{To mnie nie uczyni nieefektywnym.}
+#
+#
+# target hit in frame
+#
+{2731}{}{Myœlisz, ¿e jesteœ w stanie mnie tam zraniæ?}
+{2732}{}{To drobna rana, cz³owieczku, drobna.}
+{2733}{}{Ten ból by³ lekko nieprzyjemny.}
+{2734}{}{Nie mam ¿adnych nie podlegaj¹cych naprawie uszkodzeñ systemów elektroniczno-organicznych.}
+{2735}{}{Zgiñ, cz³owieczku! Zgiñ!}
+#
+# target hit in CPU
+#
+{2736}{}{Systemy trafione, kompensacja.}
+{2737}{}{Systemy trafione, wykrycie drobnych uszkodzeñ.}
+{2738}{}{Systemy trafione, systemy trafione, systemy trafione.}
+
+# 19. Ghoul, Nasty
+# Now you'll find out why it's called the Necropolis
+#
+#  running away
+{2800}{}{Muszê st¹d znikaæGotta get outta here!}
+{2801}{}{Jeszcze tu wrócê...}
+{2802}{}{Dzisiaj mnie nie za³atwisz!}
+{2803}{}{Na razie, normalku!}
+{2804}{}{To jeszcze nie moje ostatnie s³owo!}
+{2805}{}{Zap³acisz mi za to - póŸniej!}
+#
+# moving in to attack
+#
+{2806}{}{Ju¿ po tobie!}
+{2807}{}{Œwie¿e miêsko...}
+{2808}{}{Ach, podano obiad.}
+{2809}{}{Mó¿d¿ek...}
+{2810}{}{Wykopiê ci grób...}
+{2811}{}{Mam nadziejê, ¿e uda mi siê zachowaæ twoj¹ g³ówkê nietkniêt¹...}
+#
+# attacking (10)
+#
+{2812}{}{Kolej na ciebie!}
+{2813}{}{Nie k³opocz siê wrzaskami o litoœæ...}
+{2814}{}{To mi siê podoba.}
+{2815}{}{Oooo, to musi boleæ!}
+{2816}{}{}
+{2817}{}{Ze¿rê twoj¹ w¹trobê!}
+{2818}{}{Tylko nie umrzyj zbyt szybko.}
+{2819}{}{Czas na obiadek!}
+{2820}{}{Giñ!}
+{2821}{}{Takie ³ajzy jak ty zjadam na œniadanie i podwieczorek.}
+#
+# target being missed (6)
+#
+{2822}{}{Nie jesteœ w stanie mnie skrzywdziæ!}
+{2823}{}{}
+{2824}{}{Pud³o, normalku!}
+{2825}{}{Pud³o, normalku!}
+{2826}{}{Nie mo¿na zabiæ czego nie mo¿na trafiæ!}
+{2827}{}{Za wolno!}
+#
+# target hit in head (3)
+#
+{2828}{}{Och, moja piêkna buzia.}
+{2829}{}{A³! Moja g³owa!}
+{2830}{}{Uuf!}
+#
+# target hit in left arm
+#
+{2831}{}{Moja d³oñ!}
+{2832}{}{A³!}
+{2833}{}{A³!!}
+#
+# target hit in right arm
+#
+{2834}{}{A³, moja ³apa!}
+{2835}{}{Mam przez ciebie z³aman¹ rêkê!}
+{2836}{}{Po¿a³ujesz tego!}
+#
+# target hit in torso
+#
+{2837}{}{Chrz¹k!}
+{2839}{}{O w mordê!}
+{2840}{}{Grrr!}
+{2841}{}{Po¿a³ujesz tego!}
+{2842}{}{Lepiej przestañ, póki masz przewagê!}
+{2843}{}{}
+{2844}{}{}
+#
+# target hit in right leg
+#
+{2845}{}{A³, moja noga!}
+{2846}{}{Zap³acisz za to!}
+{2847}{}{Aach! Ty mi ³amiesz kulas, ja skrêcê ci kark!}
+#
+# target hit in left leg
+#
+{2848}{}{Mój kulas!}
+{2849}{}{}
+{2850}{}{}
+#
+# target hit in eyes
+#
+{2851}{}{Cholerna krew w oczach!}
+{2852}{}{Moja patrza³ka! Zap³acisz za ni¹!}
+{2853}{}{Ty bêkarcie!}
+#
+# target hit in groin
+#
+{2854}{}{Oooooo, mój klejnocik!}
+{2855}{}{Ooo! Muszê siê nauczyæ tego chwytu...}
+{2856}{}{Nieludzka œwinia!}
+{2857}{}{AAAAAAAAAAAACH!}
+{2858}{}{Chrup!}
+{2859}{}{Uuf! Zabijê ciê za to!}
+
+# 20. Super Mutant, Necropolis
+# The lesser species need to know when to stand aside. (Damn, these bastards are arrogant)
+#
+#  running away
+#
+{2900}{}{Odwrót! Odwrót!}
+{2901}{}{Dzisiaj mnie nie zabijesz!}
+{2902}{}{To nie koniec!}
+{2903}{}{Moi kumple za³atwi¹ ciê za mnie!}
+{2904}{}{Zap³acisz mi za to - póŸniej!}
+{2905}{}{Po¿ywiê siê twoim sercem kiedy indziej!}
+#
+# moving in to attack
+#
+{2906}{}{Zabijê ciê, cz³owieczku!}
+{2907}{}{Kto nas wyzywa, jest trupem!}
+{2908}{}{Twoja ¿a³osna broñ nie zrobi mi krzywdy!}
+{2909}{}{Kolejna ofiara przysz³a siê z nami pobawiæ!}
+{2910}{}{Wybawiê ciê z twej niedoli.}
+{2911}{}{}
+#
+# attacking
+#
+{2912}{}{}
+{2913}{}{}
+{2914}{}{Teraz giñ!}
+{2915}{}{Tak siê zajmujemy g³upcami!}
+{2916}{}{To dla mnie przyjemnoœæ...}
+{2917}{}{}
+{2918}{}{Twoi bogowie ciê opuœcili!}
+{2919}{}{Chcê us³yszeæ twoje krzyki!}
+{2920}{}{A w ten sposób umrzesz!}
+{2921}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{2922}{}{¯a³osne! Czemu w ogóle stajesz do walki?}
+{2923}{}{Czy to wszystko, na co staæ ludzkoœæ?}
+{2924}{}{Twój atak jest równie s³aby, jak twój duch!}
+{2925}{}{To by³ twój ostatni b³¹d.}
+{2926}{}{G³upcze! I ty chcesz mnie pobiæ?}
+{2927}{}{¯a³osne!}
+#
+# target hit in head
+#
+{2928}{}{Aaagh! Moja twarz!}
+{2929}{}{Moja twarz! Bêdziesz za to cierpieæ!}
+{2930}{}{Aaagh! Rozszarpiê ciê na strzêpy!}
+#
+# target hit in left arm
+#
+{2931}{}{Aaagh! Moje ramiê!}
+{2932}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2933}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{2934}{}{Aaagh! Moje ramiê!}
+{2935}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2936}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{2937}{}{Ca³e Nekropolis bêdzie cierpieæ z twojego powodu.}
+{2938}{}{Uuf!}
+{2939}{}{Uch!}
+{2940}{}{Hahahaha.}
+{2941}{}{To mnie nie bola³o!}
+{2942}{}{Staæ ciê na wiêcej.}
+{2943}{}{Nawet te ghule s¹ mocniejsze od ciebie!}
+{2944}{}{}
+{2945}{}{}
+{2946}{}{Haha! Có¿ za ¿a³oœnie s³aby atak... Aaagh!}
+#
+# target hit in right leg
+#
+{2947}{}{Aaagh! Moja noga!}
+{2948}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2949}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in left leg
+#
+{2950}{}{Aaagh! Moja noga!}
+{2951}{}{Aaagh! Nie da siê mnie tak ³atwo pobiæ!}
+{2952}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{2953}{}{Aaagh! Nêdzny cz³owieczku! Nic nie widzê!}
+{2954}{}{Aaagh! Ten ból! Co siê sta³o?!}
+{2955}{}{Aaagh! Zaskarbiasz sobie tym ca³e dni agonii!}
+#
+# target hit in groin
+#
+{2956}{}{Nie dzielê z tob¹ tej s³aboœci, cz³owieczku!}
+{2957}{}{Moje lêdŸwie s¹ mocniejsze od twoich, cz³owieczku!}
+{2958}{}{Có¿ za ¿a³osna taktyka, cz³owieczku!}
+{2959}{}{To nie mój czu³y punkt, cz³owieczku!}
+{2960}{}{Twoja œmieræ w³aœnie sta³a siê bardziej bolesna, cz³owieczku!}
+{2961}{}{Chyba muszê poddaæ próbie twoje s³abe punkty.}
+
+# 21. Guard, Raider
+# You're dead! I do hope you have cool stuff...
+#
+#  running away
+{3000}{}{Bie¿ajcie! Bie¿ajcie!}
+{3001}{}{Odwrót!}
+{3002}{}{Przegrupowaæ siê!}
+{3003}{}{Na zad!}
+{3004}{}{Wycofaæ siê!}
+{3005}{}{Aaaaach!}
+#
+# moving in to attack
+#
+{3006}{}{Zabiæ tego t³umoka!}
+{3007}{}{Œwie¿e miêcho...}
+{3008}{}{£upiæ!}
+{3009}{}{Ta dupa jest moja!}
+{3010}{}{Braæ go!}
+{3011}{}{}
+#
+# attacking (10)
+#
+{3012}{}{Ciesz siê ostatnimi sekundami ¿ycia.}
+{3013}{}{Krwi! Krwi! Krwi!}
+{3014}{}{Twoja pikawka jest moja!}
+{3015}{}{RAAAAAAARRRR!!}
+{3016}{}{Twoja broñ bêdzie moim trofeum!}
+{3017}{}{Na œmieræ!}
+{3018}{}{To JA ciê zabijê!}
+{3019}{}{Twoje gnaty zbielej¹ na pustkowiu!}
+{3020}{}{Na krew i ciemnoœci!}
+{3021}{}{}
+{3022}{}{Wybebeszê tego wszawego skurwiela!}
+#
+# target being missed (6)
+#
+{3023}{}{Zmarnowany wysi³ek!}
+{3024}{}{Nie uda³o ci siê!}
+{3025}{}{Moja krew jest silniejsza ni¿ twoja!}
+{3026}{}{¯yjê!!}
+{3027}{}{Twoje cia³o jest s³abe i ¿a³osne!}
+#
+# target hit in head (3)
+#
+{3028}{}{Aaaagh! Moja twarz!}
+{3029}{}{#@$^!! %%$^&!!?!}
+{3030}{}{Ta menda z³ama³a mi kinola!}
+#
+# target hit in left arm
+#
+{3031}{}{A³, moja graba!}
+{3032}{}{Ta ³ajza z³ama³a mi grabê!}
+{3033}{}{Kipniesz za to!}
+#
+# target hit in right arm
+#
+{3034}{}{A³, moja graba!}
+{3035}{}{Ty mendo, z³ama³aœ mi grabê!}
+{3036}{}{Kipniesz za to!}
+#
+# target hit in torso
+#
+{3037}{}{}
+{3038}{}{To ma byæ wed³ug ciebie ból?!}
+{3039}{}{A³æ!}
+{3040}{}{Uuf!}
+{3041}{}{Kurwa maæ! To bola³o!}
+{3042}{}{ChodŸ tu i daj mi to zrobiæ tobie!}
+{3043}{}{Zap³acisz mi za to! Przysiêgam!}
+{3044}{}{Chyp!}
+{3045}{}{}
+{3046}{}{Jaaa³! To mi dopieprzy³o!}
+#
+# target hit in right leg
+#
+{3047}{}{A³, mój kulas!}
+{3048}{}{Kipniesz za to!}
+{3049}{}{Aach! Ty mi ³amiesz nogê, to ja skrêcê ci kark!}
+#
+# target hit in left leg
+#
+{3050}{}{A³, moja gica!}
+{3051}{}{Kipniesz za to!}
+{3052}{}{Aach!!}
+#
+# target hit in eyes
+#
+{3053}{}{Aach! Rozszarpiê ciê na kawa³ki!}
+{3054}{}{Moja ga³a!}
+{3055}{}{Moja ga³a! Bêdziesz za to d³ugo zdychaæ!}
+#
+# target hit in groin
+#
+{3056}{}{Oooooo, mój klejnot!}
+{3057}{}{Ooo! Bêdziesz... strasznie... cierpieæ...}
+{3058}{}{Ooo! Zabijê...}
+{3059}{}{Ooo! Zrobiê z ciebie kalekê...}
+{3060}{}{Chrup!}
+{3061}{}{Zabijê ciê za to!}
+
+# 22. Leader, Raider
+# I feast on the hearts of my enemies!
+#
+#  running away
+{3100}{}{Chanowie, os³aniaæ mnie!}
+{3101}{}{Odwrót!}
+{3102}{}{Przegrupowaæ siê!}
+{3103}{}{Na zad!}
+{3104}{}{Wycofaæ siê!}
+{3105}{}{Aaaaach!}
+#
+# moving in to attack
+#
+{3106}{}{Niech siê rozpocznie walka!}
+{3107}{}{Œwie¿e miêsko...}
+{3108}{}{£upiæ!}
+{3109}{}{Ta cipa nale¿y do mnie!}
+{3110}{}{Chanowie, do ataku!}
+{3111}{}{}
+#
+# attacking (10)
+#
+{3112}{}{Chanowie s¹ œmierci¹!}
+{3113}{}{Krwi! Krwi! Krwi!}
+{3114}{}{Jestem najlepszy!}
+{3115}{}{RAAAAAAARRRR!!}
+{3116}{}{Chanowie s¹ niezwyciê¿eni!}
+{3117}{}{¯adnego odwrotu! ¯adnej kapitulacji!}
+{3118}{}{To JA ciê zabijê!}
+{3119}{}{Twoje gnaty zbielej¹ na pustkowiu!}
+{3120}{}{Na krew i ciemnoœci!}
+{3121}{}{Chanowie to potêga!}
+#
+# target being missed (6) #
+{3122}{}{}
+{3123}{}{Nikt mnie nie mo¿e tkn¹æ!}
+{3124}{}{Jestem niezniszczalny!}
+{3125}{}{Moja krew jest silniejsza od twojej!}
+{3126}{}{RAAAAAAAAARRRR!!}
+{3127}{}{Nie zas³ugujesz, by ze mn¹ walczyæ!}
+#
+# target hit in head (3)
+#
+{3128}{}{Zacny cios!}
+{3129}{}{To twój ostatni atak!}
+{3130}{}{Mój nos!}
+#
+# target hit in left arm
+#
+{3131}{}{Mogê ciê pobiæ jedn¹ rêk¹!}
+{3132}{}{Mam z³aman¹ rêkê! Teraz walka bêdzie uczciwa!}
+{3133}{}{To twój ostatni cios!}
+#
+# target hit in right arm
+#
+{3134}{}{Mogê ciê pobiæ jedn¹ rêk¹!}
+{3135}{}{Mam z³aman¹ rêkê! Teraz walka bêdzie uczciwa!}
+{3136}{}{To twój ostatni cios!}
+#
+# target hit in torso
+#
+{3137}{}{Za to twoja œmieræ przejdzie do legendy!}
+{3138}{}{Za to po¿ywiê siê twoimi oczami!}
+{3139}{}{Kurwa!}
+{3140}{}{Uuf!}
+{3141}{}{A³æ!}
+{3142}{}{}
+{3143}{}{Chyp!}
+{3144}{}{Bol¹ mnie ¿ebra. Zaraz usunê ci twoje! Sprawiedliwoœæ tego wymaga.}
+{3145}{}{}
+{3146}{}{Jaaa³!}
+
+#
+# target hit in right leg
+#
+{3147}{}{Nie muszê staæ, ¿eby ciê zabiæ!}
+{3148}{}{Umrzesz za to!}
+{3149}{}{}
+#
+# target hit in left leg
+#
+{3150}{}{Nie muszê staæ, ¿eby ciê zabiæ!}
+{3151}{}{Umrzesz za to!}
+{3152}{}{}
+#
+# target hit in eyes
+#
+{3153}{}{Aaach! Rozszarpiê ciê na kawa³ki!}
+{3154}{}{Moje oko! Przehandlujê mój wzrok za twoj¹ œmieræ!}
+{3155}{}{Moje oko! Bêdziesz za to d³ugo umieraæ!}
+#
+# target hit in groin
+#
+{3156}{}{Oooooo, moje dzwony!}
+{3157}{}{Ooo! Bêdziesz... strasznie... cierpieæ...}
+{3158}{}{Ooo! Zabijê...}
+{3159}{}{Ooo! Zrobiê z ciebie kalekê...}
+{3160}{}{Chrup!}
+{3161}{}{Nie pozbawisz mnie mêskoœci!}
+
+# 23. Peasant, Shady Sands
+# Get out of Shady Sands, you troublemaking scum!
+#
+#  running away
+#
+{3200}{}{Nie myœl, ¿e to koniec!}
+{3201}{}{Ja tu potrzebujê pomocy!}
+{3202}{}{Niech mi ktoœ pomo¿e!}
+{3203}{}{Jeszcze ciê zaci¹gniemy przed oblicze sprawiedliwoœci!}
+{3204}{}{Jeszcze kiedyœ dostaniesz, co ci siê nale¿y!}
+{3205}{}{Ja za to nie bêdê zdychaæ!}
+#
+# moving in to attack
+#
+{3206}{}{}
+{3207}{}{}
+{3208}{}{}
+{3209}{}{Nie lubimy tu takich jak ty!}
+{3210}{}{Nikt tu nas nie bêdzie podbija³...}
+{3211}{}{Cieniste Piaski nie potrzebuj¹ takich jak ty!}
+#
+# attacking
+#
+{3212}{}{}
+{3213}{}{Zadam ci wielki ból!}
+{3214}{}{To robimy ze szkodnikami!}
+{3215}{}{}
+{3216}{}{Tak siê za³atwiamy z k³opotami w Cienistych Piaskach.}
+{3217}{}{To ciê nauczy!}
+{3218}{}{Zu¿yjê twojego trupa na nawóz.}
+{3219}{}{Prosisz siê o to.}
+{3220}{}{Ty zwierzu!}
+{3221}{}{Po¿a³ujesz przybycia tutaj!}
+#
+# target being missed
+#
+{3222}{}{Nie za dobrze ci to idzie.}
+{3223}{}{}
+{3224}{}{Kretoszczury maj¹ wiêcej rozumu od ciebie.}
+{3225}{}{Cieniste Piaski przed nikim nie wyci¹gn¹ kopyt.}
+{3226}{}{}
+{3227}{}{To by³ twój ostatni b³¹d.}
+#
+# target hit in head
+#
+{3228}{}{Cholera!}
+{3229}{}{Aaaach!}
+{3230}{}{Moja twarz! Moja twarz!}
+#
+# target hit in left arm
+#
+{3231}{}{Aaaach! Moja rêka!}
+{3232}{}{Moja rêka!}
+{3233}{}{Jasny gwint, ta rêka jest teraz do niczego...}
+#
+# target hit in right arm
+#
+{3234}{}{Aaaach! Moja rêka!}
+{3235}{}{Moja rêka!}
+{3236}{}{Cholera, ta rêka jest teraz do niczego...}
+#
+# target hit in torso
+#
+{3237}{}{A³æ!}
+{3238}{}{O³!}
+{3239}{}{}
+{3240}{}{Oby spotka³a ciê œmieræ z pragnienia, w samotnoœci i skwarze...}
+{3241}{}{Chyp!}
+{3242}{}{}
+{3243}{}{Proszê, nie...}
+{3244}{}{}
+{3245}{}{Trafienie mnie w ten sposób przyniesie ci z³¹ karmê.}
+{3246}{}{Guch!}
+# # target hit in right leg
+#
+{3247}{}{Aaaach! Moja noga!}
+{3248}{}{Moja noga!}
+{3249}{}{Kurwa maæ, moja noga jest do niczego...}
+#
+# target hit in left leg
+#
+{3250}{}{Aaaach! Moja noga!}
+{3251}{}{Moja noga!}
+{3252}{}{Kurwa maæ, moja noga jest do niczego...}
+#
+# target hit in eyes
+#
+{3253}{}{Aaaach! Nic nie widzê!}
+{3254}{}{Kurwa maæ! Wszystko jest czarne!}
+{3255}{}{Moje oko! Zap³acisz mi za nie!}
+#
+# target hit in groin
+#
+{3256}{}{Oooooo, mój klejnocik!}
+{3257}{}{Uuuuuuuuuuffffff!}
+{3258}{}{Nie... mogê... z³apaæ... oddechu...}
+{3259}{}{!}
+{3260}{}{Co za ból, co za ból...}
+{3261}{}{Kurwa, to boli!}
+
+# 24. Guard, Shady Sands
+# I'm staying alert. Never know what's gonna walk out of the wastes
+#
+#  running away (6)
+#
+{3300}{}{Sp³ywam.}
+{3301}{}{}
+{3302}{}{Aaaaach!}
+{3303}{}{Na razie. Mo¿e.}
+{3304}{}{}
+{3305}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{3306}{}{}
+{3307}{}{O co chodzi tym razem?}
+{3308}{}{Ja siê tym zajmê...}
+{3309}{}{Kurde, nastêpna interwencja!}
+{3310}{}{Jak nie radskorpiony, to ci cholerni bandyci...}
+{3311}{}{}
+#
+# attacking
+#
+{3312}{}{}
+{3313}{}{Giñ!}
+{3314}{}{£ajzo!}
+{3315}{}{Œmieciu!}
+{3316}{}{}
+{3317}{}{Kolej na ciebie!}
+{3318}{}{Robisz nam tu niez³y syf.}
+{3319}{}{Masz tu podarek z Cienistych Piasków.}
+{3320}{}{Ju¿ nas wiêcej nie bêdziesz nêkaæ.}
+{3321}{}{Przygotuj siê do w¹chania kwiatków od spodu.}
+#
+# target being missed
+#
+{3322}{}{Nie jestem pod wra¿eniem.}
+{3323}{}{Amatorszczyzna.}
+{3324}{}{¯a³osne.}
+{3325}{}{Masz refleks ¿ó³wia.}
+{3326}{}{Jesteœ do dupy.}
+{3327}{}{W tym fachu nie zrobisz kariery.}
+#
+# target hit in head
+#
+{3328}{}{To bola³o.}
+{3329}{}{Moje oczy!}
+{3330}{}{A³! Rozbali³o mi bos...}
+#
+# target hit in left arm
+#
+{3331}{}{A³!}
+{3332}{}{A³! Moja rêka!}
+{3333}{}{A³! Mam z³aman¹ rêkê!}
+#
+# target hit in right arm
+#
+{3334}{}{A³!}
+{3335}{}{A³! Moja rêka!}
+{3336}{}{A³! Ta ³ajza z³ama³a mi rêkê!}
+#
+# target hit in torso
+#
+{3337}{}{Cholera jasna! To bola³o!}
+{3338}{}{A³æ!}
+{3339}{}{A³!}
+{3340}{}{}
+{3341}{}{[Trzyma siê za ¿ebra.] A³æ!}
+{3342}{}{Hej! W osadzie walki s¹ zakazane!}
+{3343}{}{Chyp!}
+{3344}{}{A³! Wy, nietutejsi, mnie rozczarowujecie...}
+{3345}{}{Uuf!}
+{3346}{}{To bola³o!}
+#
+# target hit in right leg
+#
+{3347}{}{A³!}
+{3348}{}{A³! Moje kolano!}
+{3349}{}{A³! Moja noga!}
+#
+#
+# target hit in left leg
+#
+{3350}{}{A³!}
+{3351}{}{A³! Moje kolano!}
+{3352}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{3353}{}{Jestem œlepy!}
+{3354}{}{Nic nie widzê!}
+{3355}{}{Ale ciemno.}
+#
+# target hit in groin
+#
+{3356}{}{Oooooo, moje jaja!}
+{3357}{}{Ajiii!}
+{3358}{}{Kurwa, to boli!}
+{3359}{}{Uuuf!}
+{3360}{}{Chrup!}
+{3361}{}{Nie... mogê... z³apaæ... oddechu...}
+
+# 25. Leader, Shady Sands
+# I don't want trouble, but it comes around often enough that I know how to deal with it.
+#
+#  running away (6)
+#
+{3400}{}{}
+{3401}{}{}
+{3402}{}{Potrzebny mi lekarz.}
+{3403}{}{Na razie. Mo¿e.}
+{3404}{}{Lepiej siê wycofam.}
+{3405}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{3406}{}{To by³ twój wielki b³¹d!}
+{3407}{}{O co chodzi tym razem?}
+{3408}{}{Ja siê tym zajmê...}
+{3409}{}{Znowu zawracanie g³owy!}
+{3410}{}{Jak nie radskorpiony, to rozrabiacy...}
+{3411}{}{}
+#
+# attacking
+#
+{3412}{}{}
+{3413}{}{}
+{3414}{}{Ty wrzodzie!}
+{3415}{}{Bezwartoœciowy œmieciu!}
+{3416}{}{To w³aœnie robimy rozrabiakom.}
+{3417}{}{Mam nadziejê, ¿e to boli.}
+{3418}{}{Zrobi³ siê tu przez ciebie prawdziwy ba³agan.}
+{3419}{}{Oto podarek z Cienistych Piasków.}
+{3420}{}{Ju¿ nie bêdziesz nas wiêcej nêkaæ.}
+{3421}{}{Nie pozwolê ci ujœæ bezkarnie.}
+#
+# target being missed
+#
+{3422}{}{Nie jestem pod wra¿eniem.}
+{3423}{}{Nie powinno siê walczyæ, je¿eli nie ma siê o tym pojêcia.}
+{3424}{}{¯a³osne.}
+{3425}{}{Masz refleks ¿ó³wia.}
+{3426}{}{}
+{3427}{}{}
+#
+# target hit in head
+#
+{3428}{}{}
+{3429}{}{Moja czaszka!}
+{3430}{}{A³! Cholera, mam rozbity nos...}
+#
+# target hit in left arm
+#
+{3431}{}{A³!}
+{3432}{}{A³! Moje ramiê!}
+{3433}{}{A³! Mam z³aman¹ rêkê!}
+#
+# target hit in right arm
+#
+{3434}{}{A³!}
+{3435}{}{A³! Moja rêka!}
+{3436}{}{A³! Mam z³amane ramiê!}
+#
+# target hit in torso
+#
+{3437}{}{A³!}
+{3438}{}{Na Dharmê! To bola³o!}
+{3439}{}{Ci, którzy wywo³uj¹ k³opoty, sami w nie wpadn¹...}
+{3440}{}{Uuf!}
+{3441}{}{Uuf! Uka¿ê ciê za to...}
+{3442}{}{A³! To bola³o!}
+{3443}{}{A³æ! To by³o wyj¹tkowo nieprzyjemne.}
+{3444}{}{A³! Czemu tak czynisz?}
+{3445}{}{Uch! Muszê powœci¹gn¹æ moje emocje...}
+{3446}{}{Chyp! Przypominasz ³ajno radskorpiona!}
+#
+# target hit in right leg
+#
+{3447}{}{A³!}
+{3448}{}{A³! Moje kolano!}
+{3449}{}{A³! Moja noga!}
+#
+#
+# target hit in left leg
+#
+{3450}{}{A³!}
+{3451}{}{A³! Moje kolano!}
+{3452}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{3453}{}{Moje oczy!}
+{3454}{}{Aaach! Wiêc tak chcesz pogrywaæ...}
+{3455}{}{Aaach! Ty obleœny skurwysynku...}
+#
+# target hit in groin
+#
+{3456}{}{Oooooo, moje j¹dra!}
+{3457}{}{Ajiii!}
+{3458}{}{}
+{3459}{}{Uuuf!}
+{3460}{}{Oooooo! Nie poczu³em tego! A³!}
+{3461}{}{Oooooo! To bola³o. Chyba siê starzejê.}
+
+# 26. Ripper
+# Rape him or kill him. I can never make up my mind.
+#
+#  running away
+#
+{3500}{}{Chyba zrobiê sobie ma³¹ przerwê.}
+{3501}{}{Jeszcze tu wrócê!}
+{3502}{}{Na razie, œmieciu!}
+{3503}{}{}
+{3504}{}{}
+{3505}{}{Musimy to nied³ugo powtórzyæ!}
+#
+# moving in to attack
+#
+{3506}{}{Walcz ze mn¹ albo siê ze mn¹ kochaj...}
+{3507}{}{Œwie¿e miêsko!}
+{3508}{}{!}
+{3509}{}{}
+{3510}{}{Rozpruwacze rozpruj¹ ciê na kawa³ki!}
+{3511}{}{Zatañczmy!}
+#
+# attacking
+#
+{3512}{}{Pokrojê ciê jak iguanê na patyku!}
+{3513}{}{}
+{3514}{}{Proszê, jeszcze nie umieraj. Chcê widzieæ, jak cierpisz.}
+{3515}{}{}
+{3516}{}{Jedna porcja œmierci, zaraz podamy!}
+{3517}{}{Bêdziesz takim ³adniutkim trupkiem.}
+{3518}{}{Giñ! Giñ! Giñ! Giñ! Giñ!}
+{3519}{}{Twój ból mnie uszczêœliwia!}
+{3520}{}{Otwórzmy ciê trochê...}
+{3521}{}{A ju¿ siê wydawa³o, ¿e dzisiaj nie bêdzie rozlewu krwi...}
+#
+# target being missed
+#
+{3522}{}{}
+{3523}{}{ALE siê bojê!}
+{3524}{}{No dawaj, maminsynku, chcê walki!}
+{3525}{}{Na wiêcej ciê nie staæ?}
+{3526}{}{W porównaniu ze mn¹ jesteœ gównem!}
+{3527}{}{To bêdzie ³atwiejsze, ni¿ myœla³em.}
+#
+# target hit in head
+#
+{3528}{}{Bêdzie z tego ³adna blizna!}
+{3529}{}{Próbujesz zrobiæ na mnie wra¿enie?}
+{3530}{}{Powtórz to, z³otko.}
+#
+# target hit in left arm
+#
+{3531}{}{Uwielbiam odg³os kruszenia gnatów.}
+{3532}{}{Ooo, bierzesz to na powa¿nie!}
+{3533}{}{Lubiê to robiæ na ostro, kochanie.}
+#
+# target hit in right arm
+#
+{3534}{}{Uwielbiam odg³os kruszenia gnatów.}
+{3535}{}{Ooo, bierzesz to na powa¿nie!}
+{3536}{}{Lubiê to robiæ na ostro, kochanie.}
+#
+# target hit in torso
+#
+{3537}{}{Uwielbiam, gdy zachowujesz siê brutalnie...}
+{3538}{}{Daj mi kolejnego mi³osnego klapsa...}
+{3539}{}{A³æ! Och, mi³oœæ boli, dziecinko!}
+{3540}{}{Uuf!}
+{3541}{}{O³!}
+{3542}{}{Aach! Czy to znaczy, ¿e z nami koniec?}
+{3543}{}{Chyp!}
+{3544}{}{Uderz mnie znowu, proszê...}
+{3545}{}{Nastêpnym razem to ja szczytujê.}
+{3546}{}{Och, co za ból, co za ból...}
+#
+# target hit in right leg
+#
+{3547}{}{Uwielbiam odg³os kruszenia gnatów.}
+{3548}{}{Ooo, bierzesz to na powa¿nie!}
+{3549}{}{}
+#
+# target hit in left leg
+#
+{3550}{}{Uwielbiam odg³os kruszenia gnatów.}
+{3551}{}{}
+{3552}{}{To mi siê podoba!}
+#
+# target hit in eyes
+#
+{3553}{}{Hej, jestem œlepy. Ale odjazd!}
+{3554}{}{Nic nie widzê. Chyba po prostu muszê wyw¹chaæ twój strach!}
+{3555}{}{Moje ga³y! Kurde, podoba mi siê twój styl walki.}
+#
+# target hit in groin
+#
+{3556}{}{Oooooo, mój klejnocik!}
+{3557}{}{To by³ jajcarski chwyt.}
+{3558}{}{Oooo! Dziecinko, czy to propozycja?}
+{3559}{}{}
+{3560}{}{A wiêc tak chcesz w to graæ.}
+{3561}{}{Ooooo, niez³y ruch, kolo.}
+
+# 27. Blade
+# I'm gonna tear you a new...
+#
+#  running away (6)
+#
+{3600}{}{}
+{3601}{}{}
+{3602}{}{}
+{3603}{}{Wcale nie wygrywasz!}
+{3604}{}{Wycofaæ siê!}
+{3605}{}{Niepotrzebne mi to...}
+#
+# moving in to attack
+#
+{3606}{}{Do ataku!}
+{3607}{}{Z przyjemnoœci¹ pochowam ciê w p³ytkim grobie!}
+{3608}{}{}
+{3609}{}{Ktoœ tu zaraz wykituje.}
+{3610}{}{Zabiæ intruza!}
+{3611}{}{}
+#
+# attacking
+#
+{3612}{}{}
+{3613}{}{Giñ!}
+{3614}{}{Ty ³achu!}
+{3615}{}{To dlatego mówi¹ na nas "Ostrza".}
+{3616}{}{}
+{3617}{}{Mam nadziejê, ¿e to boli.}
+{3618}{}{To mnie uraduje.}
+{3619}{}{Twój ³eb idzie do mojej kolekcji!}
+{3620}{}{Pogrzebiê ciê.}
+{3621}{}{Twój dzieñ zaraz siê stanie naprawdê kiepski.}
+#
+# target being missed
+#
+{3622}{}{Nawet Bóg jest mniej prawy ode mnie!}
+{3623}{}{Nie jestem pod wra¿eniem.}
+{3624}{}{Poka¿, ¿e masz jaja!}
+{3625}{}{}
+{3626}{}{Twoja Mamusia r¿nê³a siê z Rozpruwaczami!}
+{3627}{}{Próbujesz ³apaæ muchy, ciole?}
+#
+# target hit in head
+#
+{3628}{}{}
+{3629}{}{Chyp!!}
+{3630}{}{A³! Rozbieba³o mi kinol...}
+#
+# target hit in left arm
+#
+{3631}{}{A³!}
+{3632}{}{A³! Moja rêka!}
+{3633}{}{A³! Mam z³aman¹ grabê!}
+#
+# target hit in right arm
+#
+{3634}{}{A³!}
+{3635}{}{A³! Moja graba!}
+{3636}{}{A³! Ta ³ajza z³ama³a mi rêkê!}
+#
+# target hit in torso
+#
+{3637}{}{A³!}
+{3638}{}{O kurwa!}
+{3639}{}{A³æ! To by³ ciê¿ki b³¹d...}
+{3640}{}{A³! Ja ci jeszcze poka¿ê...}
+{3641}{}{Chyp!}
+{3642}{}{Nie mogê oddychaæ...}
+{3643}{}{}
+{3644}{}{Uuf!}
+{3645}{}{Ty ³achu! To bola³o!}
+{3646}{}{}
+#
+# target hit in right leg
+#
+{3647}{}{A³!}
+{3648}{}{A³! Moje kolano!}
+{3649}{}{A³! Moja gica!}
+#
+#
+# target hit in left leg
+#
+{3650}{}{A³!}
+{3651}{}{A³! Moje kolano!}
+{3652}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{3653}{}{Widzê tylko ciemnoœæ!}
+{3654}{}{Nic nie widzê!}
+{3655}{}{Moje oczy! Rozpruwaczasyn...}
+#
+# target hit in groin
+#
+{3656}{}{Oooooo, moje narz¹dy!}
+{3657}{}{Ajiii!}
+{3658}{}{Kurwa, to boli!}
+{3659}{}{Uuuf!}
+{3660}{}{Zabijê ciê za to, œmieciu.}
+{3661}{}{Nie... mogê... z³apaæ... oddechu...}
+
+# 28.  Gunrunners
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#  running away
+#
+{3700}{}{Naprawdê mam ochotê obejrzeæ jutro wschód s³oñca.}
+{3701}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{3702}{}{}
+{3703}{}{}
+{3704}{}{Ja za to nie bêdê umieraæ!}
+{3705}{}{Nie mogê uwierzyæ w kopa tych cacek...}
+#
+# moving in to attack
+#
+{3706}{}{Próbujesz w³adowaæ siê do naszego interesu, co?}
+{3707}{}{Ktoœ tu w³aœnie zrobi³ wielki b³¹d!}
+{3708}{}{}
+{3709}{}{Za kogo ty siê uwa¿asz?}
+{3710}{}{Czas zademonstrowaæ parê produktów.}
+{3711}{}{Poczekaj, jak ciê dorwê...}
+#
+# attacking
+#
+{3712}{}{}
+{3713}{}{}
+{3714}{}{}
+{3715}{}{Jak ci siê TO podoba?}
+{3716}{}{Pozbêdê siê ciebie jak z³ego na³ogu!}
+{3717}{}{Jak ci siê to widzi pod k¹tem si³y ognia?}
+{3718}{}{Zobaczmy, co z ciebie za twardziel...}
+{3719}{}{Walka to moje ¿ycie.}
+{3720}{}{}
+{3721}{}{Mo¿e teraz nauczysz siê trochê szacunku.}
+#
+# target being missed
+#
+{3722}{}{Chyba nie liczysz, ¿e ci siê uda daæ mi berka, prawda?}
+{3723}{}{Ja to robiê od lat, œmieciu.}
+{3724}{}{To dla ciebie niespodzianka, nie?}
+{3725}{}{To by³ twój ostatni b³¹d.}
+{3726}{}{Amatorszczyzna.}
+{3727}{}{To nie to samo, co strzelanie do kretoszczurów, kole¿ko.}
+#
+# target hit in head
+#
+{3728}{}{A³! Ty kur...}
+{3729}{}{Zabijê ciê za to.}
+{3730}{}{Ur¿nê ci ³eb!}
+#
+# target hit in left arm
+#
+{3731}{}{A³, moja rêka!}
+{3732}{}{Kurwa, mam rozwalon¹ rêkê!}
+{3733}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{3734}{}{A³, moja rêka!}
+{3735}{}{Cholera, mam rozwalon¹ rêkê!}
+{3736}{}{Moja rêka!}
+#
+# target hit in torso
+#
+{3737}{}{Nawet nowozatrudnionym wychodzi to lepiej...}
+{3738}{}{A³æ!}
+{3739}{}{Muszê pamiêtaæ zwróciæ ci kiedyœ ten ból.}
+{3740}{}{Uuf!}
+{3741}{}{}
+{3742}{}{Kurwa!}
+{3743}{}{£otrowski przyg³upie!}
+{3744}{}{}
+{3745}{}{Chyp!}
+{3746}{}{A³æ!}
+#
+# target hit in right leg
+#
+{3747}{}{A³, moja noga!}
+{3748}{}{}
+{3749}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{3750}{}{A³, moja noga!}
+{3751}{}{Zap³acisz za to, cholernie!}
+{3752}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{3753}{}{Nic nie widzê!}
+{3754}{}{Moje oko! Zap³acisz za nie!}
+{3755}{}{Aajiiii! Nie widzê!}
+#
+# target hit in groin
+#
+{3756}{}{Oooooo, mój klejnot!}
+{3757}{}{Wiêc tak chcesz pogrywaæ.}
+{3758}{}{}
+{3759}{}{Chrup!}
+{3760}{}{}
+{3761}{}{Co za ból, co za ból...}
+
+# 29. Regulator
+# This one's better armed than usual. We need back-up, now!
+#
+#  running away
+#
+{3800}{}{Potrzebujê posi³ków!}
+{3801}{}{Niech mi ktoœ pomo¿e!}
+{3802}{}{Przegrupowaæ siê!}
+{3803}{}{Odwrót! Odwrót!}
+{3804}{}{Wycofaæ siê! Wycofaæ siê!}
+{3805}{}{Musimy zaj¹æ lepsz¹ pozycjê!}
+#
+# moving in to attack
+#
+{3806}{}{Cel przed nami!}
+{3807}{}{Jesteœmy atakowani!}
+{3808}{}{Og³osiæ alarm! Ja ich powstrzymam!}
+{3809}{}{Mamy problem. Ja siê nim zajmê.}
+{3810}{}{Cel zlokalizowany, przechodzê do przechwycenia!}
+{3811}{}{Podejmujê walkê!}
+#
+# attacking
+#
+{3812}{}{Gangolski œmieciu!}
+{3813}{}{Wybawiê ciê z naszej niedoli.}
+{3814}{}{Nie stoisz wy¿ej od zwierzêcia!}
+{3815}{}{Tym razem ju¿ nie wstawaj!}
+{3816}{}{Ju¿ nikogo nie bêdziesz nêkaæ!}
+{3817}{}{¯adnej litoœci dla œmieci!}
+{3818}{}{Lepiej módl siê do bogów!}
+{3819}{}{}
+{3820}{}{Spuszczê ci ³omot!}
+{3821}{}{Do zobaczenia w Piekle!}
+#
+# target being missed
+#
+{3822}{}{Twój atak cuchnie gorzej ni¿ twój oddech, glizdo!}
+{3823}{}{No dawaj, ³ajzo. Zwyczajnie padnij dla mnie trupem.}
+{3824}{}{}
+{3825}{}{Spróbuj siê w innym zajêciu, szumowino!}
+{3826}{}{W czym problem, œmieciu?}
+{3827}{}{Tak ³atwo siê mnie nie zabije.}
+#
+# target hit in head (3)
+#
+{3828}{}{Aaaach! To zwyk³e szczêœcie!}
+{3829}{}{Moja twarz!}
+{3830}{}{Mam z³amany nos!}
+#
+# target hit in left arm
+#
+{3831}{}{Aaaach! To zwyk³e szczêœcie!}
+{3832}{}{Rozwalona graba mnie nie powstrzyma!}
+{3833}{}{}
+#
+# target hit in right arm
+#
+{3834}{}{Aaaach! To zwyk³e szczêœcie!}
+{3835}{}{Rozwalona graba mnie nie powstrzyma!}
+{3836}{}{Nie podoba mi siê ten dŸwiêk.}
+#
+# target hit in torso
+#
+# <no messages here>
+#
+# target hit in right leg
+#
+{3837}{}{Aaaach! To zwyk³e szczêœcie!}
+{3838}{}{}
+{3839}{}{Nie zrobisz ze mnie kaleki, kole¿ko.}
+#
+# target hit in left leg
+#
+{3840}{}{Aaaach! To zwyk³e szczêœcie!}
+{3841}{}{}
+{3842}{}{Nie zrobisz ze mnie kaleki, kole¿ko.}
+#
+# target hit in eyes
+#
+{3843}{}{Nie widzê!}
+{3844}{}{Moje oczy p³on¹!}
+{3845}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{3846}{}{Oooooo, mój klejnot!}
+{3847}{}{Ta, œmieci zawsze celuj¹ w krocze.}
+{3848}{}{Kurwa, to boli!}
+{3849}{}{Nie... mogê... z³apaæ... oddechu...}
+{3850}{}{Oooooo. Ty sadystyczny skurwy...}
+{3851}{}{Ty œmieciu...}
+
+# 30. Adytowner
+# They've broken through our defenses! Fall back!
+#
+#  running away
+#
+{3900}{}{Potrzebujê posi³ków!}
+{3901}{}{Niech mi ktoœ pomo¿e!}
+{3902}{}{}
+{3903}{}{Odwrót! Odwrót!}
+{3904}{}{Wycofaæ siê! Wycofaæ siê!}
+{3905}{}{Pomocy!}
+#
+# moving in to attack
+#
+{3906}{}{Za Adytum!}
+{3907}{}{Jesteœmy atakowani!}
+{3908}{}{Potrzebujê wsparcia!}
+{3909}{}{Do ataku!}
+{3910}{}{Nie lubimy tu takich jak ty!}
+{3911}{}{Do broni! Do broni!}
+#
+# attacking
+#
+{3912}{}{To za Adytum!}
+{3913}{}{To robimy ze zwierzakami!}
+{3914}{}{Witaj w Piekle, œmieciu.}
+{3915}{}{Tym razem ju¿ nie wstawaj!}
+{3916}{}{Ju¿ nikogo nie bêdziesz nêkaæ!}
+{3917}{}{Nie ma litoœci dla œmieci!}
+{3918}{}{Lepiej módl siê do bogów!}
+{3919}{}{}
+{3920}{}{Twoje nowe lokum jest dwa metry pod ziemi¹.}
+{3921}{}{Mam nadziejê, ¿e podoba³o ci siê ¿ycie, bo zaraz przeleci ci przed oczami.}
+#
+# target being missed
+#
+{3922}{}{Szkoda dla ciebie amunicji.}
+{3923}{}{}
+{3924}{}{}
+{3925}{}{Teraz moja kolej.}
+{3926}{}{Niespodzianka, œmieciu?}
+{3927}{}{Nie³atwo nas zabiæ.}
+#
+# target hit in head (3)
+#
+{3928}{}{Aaaach! Prosto w twarz.}
+{3929}{}{Moja twarz!}
+{3930}{}{Mam przez ciebie z³amany nos!}
+#
+# target hit in left arm
+#
+{3931}{}{Aaaach! Moja rêka!}
+{3932}{}{A³! To bola³o!}
+{3933}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in right arm
+#
+{3934}{}{Aaaach! Moja rêka!}
+{3935}{}{A³! To bola³o!}
+{3936}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in torso
+#
+{3937}{}{A³æ!}
+{3938}{}{Uuf! To bola³o!}
+{3939}{}{Uuf! Trudno... mi... oddychaæ...}
+{3940}{}{Ten œmieæ mnie trafi³! Sanitariusz!}
+{3941}{}{Wyjdê z tego, to tylko drobna rana.}
+{3942}{}{Uch!}
+{3943}{}{A³æ! Kurwa maæ!}
+{3944}{}{A³! Dostanê ciê!}
+{3945}{}{}
+{3946}{}{}
+#
+# target hit in right leg
+#
+{3947}{}{Aaaach! To zwyk³e szczêœcie!}
+{3948}{}{Cholera, prosto w kolano...}
+{3949}{}{Nie przewrócê siê, œmieciu. A³.}
+#
+# target hit in left leg
+#
+{3950}{}{Aaaach! To zwyk³e szczêœcie!}
+{3951}{}{Cholera, prosto w kolano...}
+{3952}{}{Nie przewrócê siê, œmieciu. A³.}
+#
+# target hit in eyes
+#
+{3953}{}{Ten œmieæ mnie oœlepi³! Niech mi ktoœ pomo¿e!}
+{3954}{}{Kurwa, prosto w oczy!}
+{3955}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{3956}{}{Oooooo, mój klejnocik!}
+{3957}{}{Ta, œmieci zawsze celuj¹ w krocze.}
+{3958}{}{Kurwa, to boli!}
+{3959}{}{Nie... mogê... z³apaæ... oddechu...}
+{3960}{}{Oooooo. Ty sadystyczny skurwy...}
+{3961}{}{Ty œmieciu...}
+
+# 31. Generic Follower
+# No retreat, no surrender, no slogans.
+#
+#  running away
+#
+{4000}{}{Czy ktoœ mo¿e mi daæ os³onê?!}
+{4001}{}{Niech mi ktoœ pomo¿e!}
+{4002}{}{Sanitariusz!}
+{4003}{}{Odwrót! Odwrót!}
+{4004}{}{Wycofaæ siê! Wycofaæ siê!}
+{4005}{}{Pomocy!}
+#
+# moving in to attack
+#
+{4006}{}{To mi wygl¹da na k³opoty.}
+{4007}{}{Jesteœmy atakowani!}
+{4008}{}{Mamy k³opoty!}
+{4009}{}{Oto dzieñ krwi i chwa³y!}
+{4010}{}{Prêdzej zginê, ni¿ dam ci sob¹ pomiataæ!}
+{4011}{}{Zadzierasz z niew³aœciwymi ludŸmi.}
+#
+# attacking
+#
+{4012}{}{Trzeba by³o uciekaæ, jak by³a okazja.}
+{4013}{}{Czas to skoñczyæ.}
+{4014}{}{}
+{4015}{}{}
+{4016}{}{Kolejny trup obci¹¿y moje sumienie...}
+{4017}{}{Tym razem za³atwiê ciê na dobre.}
+{4018}{}{Lepiej módl siê do bogów!}
+{4019}{}{}
+{4020}{}{}
+{4021}{}{Nie ujdzie ci to na sucho!}
+#
+# target being missed
+#
+{4022}{}{Nie zwyciê¿ysz w tej walce.}
+{4023}{}{}
+{4024}{}{Nie mo¿esz wygraæ...}
+{4025}{}{Teraz moja kolej.}
+{4026}{}{Jeszcze nie chwytasz? Nie wygrasz!}
+{4027}{}{Nie³atwo nas zabiæ.}
+#
+# target hit in head (3)
+#
+{4028}{}{Aaaach! Prosto w twarz.}
+{4029}{}{Moja twarz!}
+{4030}{}{Mam przez ciebie z³amany nos!}
+#
+# target hit in left arm
+#
+{4031}{}{Aaaach! Moja rêka!}
+{4032}{}{A³! To bola³o!}
+{4033}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in right arm
+#
+{4034}{}{Aaaach! Moja rêka!}
+{4035}{}{A³! To bola³o!}
+{4036}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in torso
+#
+{4037}{}{A³! To by³o bolesne.}
+{4038}{}{}
+{4039}{}{Uuf! Musisz siê bardziej staraæ.}
+{4040}{}{A³æ! Myœlisz, ¿e mo¿esz mnie tak ³atwo odstrêczyæ od naszej sprawy!?}
+{4041}{}{A³æ!}
+{4042}{}{Uch!}
+{4043}{}{Uuf!}
+{4044}{}{Chyp!}
+{4045}{}{}
+#
+# target hit in right leg
+#
+{4047}{}{Aaaach! Moja noga!}
+{4048}{}{Cholera, prosto w kolano...}
+{4049}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in left leg
+#
+{4050}{}{Aaaach! Moja noga!}
+{4051}{}{Cholera, prosto w kolano...}
+{4052}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in eyes
+#
+{4053}{}{Oœlepili mnie! Niech mi ktoœ pomo¿e!}
+{4054}{}{}
+{4055}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{4056}{}{Oooooo, mój klejnocik!}
+{4057}{}{}
+{4058}{}{Cholera!}
+{4059}{}{Nie... mogê... z³apaæ... oddechu...}
+{4060}{}{}
+{4061}{}{Ty œmieciu!}
+
+# 32. Follower, Scout
+# I don't see anything... wait! Look at the firepower on that mother!
+#
+#  running away
+#
+{4100}{}{}
+{4101}{}{Niech mi ktoœ pomo¿e!}
+{4102}{}{}
+{4103}{}{Odwrót! Odwrót!}
+{4104}{}{Wycofaæ siê! Wycofaæ siê!}
+{4105}{}{Pomocy!}
+#
+# moving in to attack
+#
+{4106}{}{}
+{4107}{}{Chyba mamy problem.}
+{4108}{}{Zobaczmy, czy uda mi siê to szybko za³atwiæ.}
+{4109}{}{Lepiej zaj¹æ siê nimi tutaj.}
+{4110}{}{To mi wygl¹da na powa¿n¹ si³ê ognia.}
+{4111}{}{Zadzierasz z niew³aœciwymi ludŸmi.}
+#
+# attacking
+#
+{4112}{}{Trzeba by³o uciekaæ, jak by³a okazja.}
+{4113}{}{Czas to skoñczyæ.}
+{4114}{}{}
+{4115}{}{Po TYM ju¿ nie bêdziesz zagro¿eniem.}
+{4116}{}{}
+{4117}{}{}
+{4118}{}{}
+{4119}{}{O jednego szkodnika w Gruzach mniej.}
+{4120}{}{}
+{4121}{}{Nie ujdzie ci to na sucho!}
+#
+# target being missed
+#
+{4122}{}{Nie uda ci siê zwyciê¿yæ!}
+{4123}{}{}
+{4124}{}{}
+{4125}{}{Teraz moja kolej.}
+{4126}{}{Nie mo¿esz wygraæ!}
+{4127}{}{}
+#
+# target hit in head (3)
+#
+{4128}{}{Aaaach!}
+{4129}{}{}
+{4130}{}{Moja twarz!}
+#
+# target hit in left arm
+#
+{4131}{}{Aaaach! Moje ramiê!}
+{4132}{}{Có¿, ta koñczyna jest teraz kurewsko bezu¿yteczna...}
+{4133}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in right arm
+#
+{4134}{}{Aaaach! Moja rêka!}
+{4135}{}{Có¿, ta koñczyna jest teraz kurewsko bezu¿yteczna...}
+{4136}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in torso
+#
+{4137}{}{Aaach! Muszê ostrzec przed tob¹ innych.}
+{4138}{}{Uuf! Muszê ¿yæ, muszê ¿yæ...}
+{4139}{}{}
+{4140}{}{Uuf!}
+{4141}{}{A!}
+{4142}{}{Chyp!}
+{4143}{}{A³!}
+{4144}{}{}
+{4145}{}{}
+{4146}{}{}
+#
+# target hit in right leg
+#
+{4147}{}{Aaaach! Moja noga!}
+{4148}{}{Cholera, prosto w kolano...}
+{4149}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in left leg
+#
+{4150}{}{Aaaach! Moja noga!}
+{4151}{}{Cholera, prosto w kolano...}
+{4152}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in eyes
+#
+{4153}{}{Nie widzê! Mo¿e jak zetrê tê krew...}
+{4154}{}{Kurwa, prosto w oczy!}
+{4155}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{4156}{}{}
+{4157}{}{Iiiha!}
+{4158}{}{}
+{4159}{}{Nie... mogê... z³apaæ... oddechu...}
+{4160}{}{}
+{4161}{}{}
+
+# 33. Follower, Guard
+# I will hold my position. You get out of here. Go!
+#
+#  running away
+#
+{4200}{}{}
+{4201}{}{Brak dostatecznej os³ony, a ja mam ciê¿kie obra¿enia!}
+{4202}{}{}
+{4203}{}{}
+{4204}{}{Odwrót! Odwrót!}
+{4205}{}{Niech mnie ktoœ os³ania!}
+#
+# moving in to attack
+#
+{4206}{}{}
+{4207}{}{}
+{4208}{}{Broniæ osiedla!}
+{4209}{}{}
+{4210}{}{Intruzi!}
+{4211}{}{To twój wyrok œmierci.}
+#
+# attacking
+#
+{4212}{}{}
+{4213}{}{}
+{4214}{}{}
+{4215}{}{Po TYM ju¿ nie bêdziesz zagro¿eniem...}
+{4216}{}{To bêdzie bola³o.}
+{4217}{}{Za³atwiê ciê...}
+{4218}{}{}
+{4219}{}{O jednego szkodnika w Gruzach mniej.}
+{4220}{}{}
+{4221}{}{Nie ujdziesz st¹d bezkarnie!}
+#
+# target being missed
+#
+{4222}{}{Nie zwyciê¿ysz w tej walce.}
+{4223}{}{}
+{4224}{}{}
+{4225}{}{Teraz moja kolej.}
+{4226}{}{To by³ wielki b³¹d z twojej strony.}
+{4227}{}{}
+#
+# target hit in head (3)
+#
+{4228}{}{Kurwa!}
+{4229}{}{}
+{4230}{}{Chyba bam rozbalony bos.}
+#
+# target hit in left arm
+#
+{4231}{}{Moja rêka!}
+{4232}{}{}
+{4233}{}{Ta rana mo¿e byæ powa¿na...}
+#
+# target hit in right arm
+#
+{4234}{}{Moja rêka!}
+{4235}{}{Có¿, ta koñczyna jest teraz kurewsko bezu¿yteczna...}
+{4236}{}{Kurwa! Ta rana mo¿e byæ powa¿na...}
+#
+# target hit in torso
+#
+{4237}{}{}
+{4238}{}{}
+{4239}{}{}
+{4240}{}{Uuf!}
+{4241}{}{Ba!}
+{4242}{}{Chyp!}
+{4243}{}{A³!}
+{4244}{}{Uuf! To mog³o mi zrobiæ krzywdê.}
+{4245}{}{Kurwa maæ, to bola³o!}
+{4246}{}{}
+# # target hit in right leg
+#
+{4247}{}{Moja noga!}
+{4248}{}{Cholera, prosto w kolano...}
+{4249}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in left leg
+#
+{4250}{}{Moja noga!}
+{4251}{}{Cholera, prosto w kolano...}
+{4252}{}{Aaaach! Ledwo mogê ustaæ...}
+#
+# target hit in eyes
+#
+{4253}{}{Oœlep³em!}
+{4254}{}{Cholera, prosto w oczy!}
+{4255}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{4256}{}{Oooch! Moje klejnoty!}
+{4257}{}{}
+{4258}{}{To boli jak diabli!}
+{4259}{}{Nie... mogê... z³apaæ... oddechu...}
+{4260}{}{}
+{4261}{}{}
+
+# 34. Follower, Leader (aka Nicole) - woman
+# Time to do my duty.
+#
+#  running away
+#
+{4300}{}{Muszê znaleŸæ lepsz¹ pozycjê...}
+{4301}{}{Nie mam dostatecznej os³ony, a jestem ciê¿ko ranna...}
+{4302}{}{To jeszcze nie koniec!}
+{4303}{}{Lepiej siê przegrupujmy...}
+{4304}{}{Wycofaæ siê!}
+{4305}{}{Brutalna si³a nie zwyciê¿y w tej walce.}
+#
+# moving in to attack
+#
+{4306}{}{Ja siê tym zajmê.}
+{4307}{}{To nie bêdzie mi³e!}
+{4308}{}{Broniæ osiedla!}
+{4309}{}{Nie mo¿emy dopuœciæ, by ta szumowina powstrzyma³a nasz¹ misjê!}
+{4310}{}{}
+{4311}{}{}
+#
+# attacking
+#
+{4312}{}{Nie raduje mnie to.}
+{4313}{}{Czas to zakoñczyæ.}
+{4314}{}{}
+{4315}{}{Nie trzeba by³o tu przychodziæ.}
+{4316}{}{To bêdzie bola³o.}
+{4317}{}{Nie pozwolê ci zniszczyæ tego, co zbudowaliœmy!}
+{4318}{}{}
+{4319}{}{Przykro mi, ¿e muszê tak czyniæ.}
+{4320}{}{Przeklinam ciê za to, ¿e zmuszasz mnie do tego!}
+{4321}{}{¯al mi ciebie.}
+#
+# target being missed
+#
+{4322}{}{Nie mogê pozwoliæ ci wygraæ.}
+{4323}{}{Jesteœ równie niezdarn¹, co gwa³town¹ osob¹.}
+{4324}{}{Wiemy, jak o siebie dbaæ.}
+{4325}{}{Teraz moja kolej.}
+{4326}{}{To twój ostatni b³¹d.}
+{4327}{}{}
+#
+# target hit in head (3)
+#
+{4328}{}{Cholera. To piecze.}
+{4329}{}{Mam pêkniêt¹ koœæ policzkow¹. Nie mogê dopuœciæ, by mnie to powstrzyma³o.}
+{4330}{}{Chyba bam rozbalony bos.}
+#
+# target hit in left arm
+#
+{4331}{}{Moja rêka!}
+{4332}{}{Ta koñczyna jest teraz bezu¿yteczna. Muszê to ci¹gn¹æ dalej.}
+{4333}{}{Cholera! Ta rana mo¿e byæ powa¿na.}
+#
+# target hit in right arm
+#
+{4334}{}{Moja rêka!}
+{4335}{}{Ta koñczyna jest teraz bezu¿yteczna. Muszê to ci¹gn¹æ dalej.}
+{4336}{}{Cholera! Ta rana mo¿e byæ powa¿na.}
+#
+# target hit in torso
+#
+{4337}{}{}
+{4338}{}{Uuf!}
+{4339}{}{}
+{4340}{}{}
+{4341}{}{Chyp!}
+{4342}{}{Chyp!}
+{4343}{}{A³!}
+{4344}{}{Uuf! Mo¿esz mnie pokonaæ, lecz moja sprawa przetrwa.}
+{4345}{}{Uch!}
+{4346}{}{}
+#
+# target hit in right leg
+#
+{4347}{}{Moja noga!}
+{4348}{}{Cholera, prosto w kolano...}
+{4349}{}{}
+#
+# target hit in left leg
+#
+{4350}{}{Moja noga!}
+{4351}{}{Cholera, prosto w kolano...}
+{4352}{}{Straci³am nogê, ale nadal mogê walczyæ!}
+#
+# target hit in eyes
+#
+{4353}{}{Oœlep³am! Nie mogê dopuœciæ, by mnie to powstrzyma³o...}
+{4354}{}{Jestem œlepa!}
+{4355}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{4356}{}{AAACH!!}
+{4357}{}{}
+{4358}{}{Uuf!}
+{4359}{}{}
+{4360}{}{Iiiha!}
+{4361}{}{}
+
+# 35. Ripper Leader
+# I am the most evil man alive!
+#
+#  running away
+#
+{4400}{}{Wkrótce wykitujesz!}
+{4401}{}{Jeszcze tu wrócê!}
+{4402}{}{Na razie, œmieciu!}
+{4403}{}{}
+{4404}{}{Zostawiam ciê na póŸniej!}
+{4405}{}{}
+#
+# moving in to attack
+#
+{4406}{}{Odprujê ci ³eb od cia³a!}
+{4407}{}{Œwie¿e miêsko!}
+{4408}{}{}
+{4409}{}{}
+{4410}{}{Zjem ciê po kawa³ku!}
+{4411}{}{}
+#
+# attacking
+#
+{4412}{}{Pokrojê ciê jak iguanê na patyku!}
+{4413}{}{}
+{4414}{}{Jeszcze nie umieraj - chcê zobaczyæ, jak cierpisz.}
+{4415}{}{Twoje postêpowanie urazi³o Króla Gruzów!}
+{4416}{}{}
+{4417}{}{Bêdziesz takim ³adniutkim trupkiem.}
+{4418}{}{Giñ! Giñ! Giñ! Giñ! Giñ!}
+{4419}{}{}
+{4420}{}{Dziœ wieczorem bêdziesz karmiæ robaki.}
+{4421}{}{Oskórujê ciê na ¿ywca!}
+#
+# target being missed
+#
+{4422}{}{}
+{4423}{}{No dawaj! Zasuwaj, ³achu!}
+{4424}{}{No dawaj, œmieciu. Chcê walki!}
+{4425}{}{Na wiêcej ciê nie staæ?}
+{4426}{}{Jesteœ gównem!}
+{4427}{}{Nie da siê mnie zabiæ!}
+#
+# target hit in head
+#
+{4428}{}{}
+{4429}{}{}
+{4430}{}{Chyp!}
+#
+# target hit in left arm
+#
+{4431}{}{Uwielbiam odg³os kruszenia gnatów.}
+{4432}{}{}
+{4433}{}{Lubiê to na ostro, ruro!}
+#
+# target hit in right arm
+#
+{4434}{}{Moja graba!}
+{4435}{}{}
+{4436}{}{Skurwiel! Moja rêka!}
+#
+# target hit in torso
+#
+{4437}{}{Moja klata!}
+{4438}{}{Uch! To by³ twój ostatni b³¹d.}
+{4439}{}{}
+{4440}{}{Chyp!}
+{4441}{}{Ba!}
+{4442}{}{Chyp! Zostanie po tym siniak.}
+{4443}{}{A³!}
+{4444}{}{T³umok!}
+{4445}{}{Mo¿emy tak wymieniaæ ciosy ca³y dzieñ.}
+{4446}{}{}
+#
+# target hit in right leg
+#
+{4447}{}{Uwielbiam odg³os kruszenia gnatów.}
+{4448}{}{}
+{4449}{}{}
+#
+# target hit in left leg
+#
+{4450}{}{Mój kulas!}
+{4451}{}{}
+{4452}{}{Niech ciê cholera!}
+#
+# target hit in eyes
+#
+{4453}{}{}
+{4454}{}{Muszê tylko wywêszyæ twój strach!}
+{4455}{}{Moje ga³y! Kurde, podoba mi siê twój styl walki.}
+#
+# target hit in groin
+#
+{4456}{}{Chyp! Moje jajca!}
+{4457}{}{}
+{4458}{}{Oooo! Dziecinko, czy to propozycja?}
+{4459}{}{}
+{4460}{}{A wiêc tak chcesz w to graæ.}
+{4461}{}{}
+
+# 36. Blade, Scout
+# Someone's approaching our turf!
+#
+#  running away (6)
+#
+{4500}{}{Spadam st¹d!}
+{4501}{}{}
+{4502}{}{}
+{4503}{}{Wcale nie wygrywasz!}
+{4504}{}{}
+{4505}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{4506}{}{Do ataku!}
+{4507}{}{Ju¿ po tobie!}
+{4508}{}{Zadzierasz z niew³aœciwym gangiem!}
+{4509}{}{Nikt siê nie bêdzie bezkarnie wpieprzaæ na nasz teren!}
+{4510}{}{}
+{4511}{}{}
+#
+# attacking
+#
+{4512}{}{Ja jestem twoim Mistrzem!}
+{4513}{}{Giñ!}
+{4514}{}{Ty wrzodzie!}
+{4515}{}{To dlatego mówi¹ na nas "Ostrza".}
+{4516}{}{Napiszê ci epitafium.}
+{4517}{}{Mam nadziejê, ¿e to boli.}
+{4518}{}{}
+{4519}{}{}
+{4520}{}{Pogrzebiê ciê.}
+{4521}{}{Jesteœ trupem!}
+#
+# target being missed
+#
+{4522}{}{Nawet Bóg jest mniej prawy ode mnie!}
+{4523}{}{}
+{4524}{}{Poka¿, ¿e masz jaja!}
+{4525}{}{Jesteœ cieniasem, jak byle Rozpruwacz!}
+{4526}{}{}
+{4527}{}{¯adne z ciebie Ostrze!}
+#
+# target hit in head
+#
+{4528}{}{}
+{4529}{}{Moje ga³y!}
+{4530}{}{A³! Rozbali³o mi kinol!}
+#
+# target hit in left arm
+#
+{4531}{}{A³!}
+{4532}{}{A³! Moja graba!}
+{4533}{}{A³! Ta menda z³ama³a mi rêkê!}
+#
+# target hit in right arm
+#
+{4534}{}{A³!}
+{4535}{}{A³! Moja rêka!}
+{4536}{}{A³! Mam z³aman¹ grabê!}
+#
+# target hit in torso
+#
+{4537}{}{A³!}
+{4538}{}{A³! Moja klata!}
+{4539}{}{Uuf! Moje ¿ebra!}
+{4540}{}{Chrz¹k!}
+{4541}{}{Œmiejê siê z mojego bólu!}
+{4542}{}{Chyp!}
+{4543}{}{Mocniej nie potrafisz?}
+{4544}{}{}
+{4545}{}{Uuf!}
+{4546}{}{}
+#
+# target hit in right leg
+#
+{4547}{}{A³!}
+{4548}{}{A³! Moje kolano!}
+{4549}{}{A³! Moja gica!}
+#
+#
+# target hit in left leg
+#
+{4550}{}{A³!}
+{4551}{}{A³! Moje kolano!}
+{4552}{}{A³! Moja gica!}
+#
+# target hit in eyes
+#
+{4553}{}{Widzê sam¹ ciemnoœæ!}
+{4554}{}{Nic nie widzê!}
+{4555}{}{Moje ga³y! Rozpruwaczasyn...}
+#
+# target hit in groin
+#
+{4556}{}{Oooooo, moje narz¹dy!}
+{4557}{}{Ajiii!}
+{4558}{}{Kurwa, to boli!}
+{4559}{}{Uuuf!}
+{4560}{}{Rozszarpiê ciê na kawa³ki!}
+{4561}{}{Nie... mogê... z³apaæ... oddechu...}
+
+# 37. Blade, Leader - woman
+# Rippers, Followers, Children, I don't care
+#
+#  running away (6)
+#
+{4600}{}{}
+{4601}{}{}
+{4602}{}{To tylko odroczenie egzekucji, œmieciu!}
+{4603}{}{Wcale nie wygrywasz!}
+{4604}{}{Nie susz zêbów! Jeszcze naszczam na twój grób.}
+{4605}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{4606}{}{}
+{4607}{}{}
+{4608}{}{Zadzierasz z niew³aœciwym gangiem!}
+{4609}{}{}
+{4610}{}{}
+{4611}{}{Giñ!}
+#
+# attacking
+#
+{4612}{}{}
+{4613}{}{Giñ!}
+{4614}{}{}
+{4615}{}{Jak du¿¹ bliznê sobie ¿yczysz?}
+{4616}{}{}
+{4617}{}{Mam nadziejê, ¿e to boli.}
+{4618}{}{}
+{4619}{}{}
+{4620}{}{Pogrzebiê ciê.}
+{4621}{}{Jesteœ trupem!}
+#
+# target being missed
+#
+{4622}{}{Jestem twoj¹ pani¹!}
+{4623}{}{}
+{4624}{}{Poka¿ mi, ¿e masz jaja!}
+{4625}{}{Jesteœ moj¹ w³asnoœci¹!}
+{4626}{}{}
+{4627}{}{}
+#
+# target hit in head
+#
+{4628}{}{To bola³o.}
+{4629}{}{Moje oczy!}
+{4630}{}{A³! Mój kinol...}
+#
+# target hit in left arm
+#
+{4631}{}{A³!}
+{4632}{}{A³! Moja rêka!}
+{4633}{}{A³! Mam przez ciebie z³aman¹ grabê!}
+#
+# target hit in right arm
+#
+{4634}{}{A³!}
+{4635}{}{A³! Moja graba!}
+{4636}{}{A³! Mam z³aman¹ rêkê!}
+#
+# target hit in torso
+#
+{4637}{}{A³!}
+{4638}{}{A³! Moje cycki!}
+{4639}{}{Uuf! Moje ¿ebra!}
+{4640}{}{Chrz¹k!}
+{4641}{}{Ha! Œmiejê siê z bólu!}
+{4642}{}{Chyp!}
+{4643}{}{}
+{4644}{}{}
+{4645}{}{Uuf!}
+{4646}{}{Och, tak, to mnie rozbudzi³o!}
+#
+# target hit in right leg
+#
+{4647}{}{A³!}
+{4648}{}{A³! Moje kolano!}
+{4649}{}{A³! Moja gica!}
+#
+#
+# target hit in left leg
+#
+{4650}{}{A³!}
+{4651}{}{A³! Moje kolano!}
+{4652}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{4653}{}{Jestem œlepa!}
+{4654}{}{Nic nie widzê!}
+{4655}{}{Moje oczy! Rozpruwaczasyn...}
+#
+# target hit in groin
+#
+{4656}{}{Oooooo, moja szparka!}
+{4657}{}{Ajiii!}
+{4658}{}{Kurwa, to boli!}
+{4659}{}{Uuuf! To nie by³o dowcipne.}
+{4660}{}{Rozedrê ciê na kawa³ki!}
+{4661}{}{Nie... mogê... z³apaæ... oddechu...}
+
+# 38. Gunrunners, Leader
+# Are you trying to muscle in on our business?  serious in tone.
+#
+#  running away
+#
+{4700}{}{}
+{4701}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{4702}{}{}
+{4703}{}{}
+{4704}{}{Ja za to nie bêdê umiera³!}
+{4705}{}{Nie mogê uwierzyæ w moc tych cacek...}
+#
+# moving in to attack
+#
+{4706}{}{}
+{4707}{}{Ktoœ tu w³aœnie pope³ni³ wielki b³¹d!}
+{4708}{}{}
+{4709}{}{Za kogo ty siê uwa¿asz?}
+{4710}{}{Czas zademonstrowaæ nasze produkty.}
+{4711}{}{}
+#
+# attacking
+#
+{4712}{}{}
+{4713}{}{Cel æwiczebny!}
+{4714}{}{}
+{4715}{}{Jak ci siê TO podoba?}
+{4716}{}{}
+{4717}{}{Jak ci siê to widzi pod wzglêdem si³y ognia?}
+{4718}{}{Zobaczmy, jak sobie poradzisz z tym...}
+{4719}{}{}
+{4720}{}{}
+{4721}{}{}
+#
+# target being missed
+#
+{4722}{}{}
+{4723}{}{}
+{4724}{}{To dla ciebie niespodzianka, nieprawda¿?}
+{4725}{}{To by³ twój ostatni b³¹d.}
+{4726}{}{Amatorszczyzna.}
+{4727}{}{Masz kiepskie ruchy!}
+#
+# target hit in head
+#
+{4728}{}{A³! Ty kur...}
+{4729}{}{Zabijê ciê za to.}
+{4730}{}{Amputujê ci ³eb!}
+#
+# target hit in left arm
+#
+{4731}{}{A³, moje ramiê!}
+{4732}{}{Kurwa, mam rozwalon¹ rêkê!}
+{4733}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{4734}{}{A³, moja rêka!}
+{4735}{}{Kurwa, mam rozwalon¹ rêkê!}
+{4736}{}{Moje ramiê!}
+#
+# target hit in torso
+#
+{4737}{}{A³!}
+{4738}{}{A³! Moja klata!}
+{4739}{}{Uuf! Moje ¿ebra!}
+{4740}{}{}
+{4741}{}{}
+{4742}{}{}
+{4743}{}{}
+{4744}{}{To mo¿e wymagaæ profesjonalnej opieki medycznej...}
+{4745}{}{}
+{4746}{}{Uuf!}
+#
+# target hit in right leg
+#
+{4747}{}{A³, moja noga!}
+{4748}{}{Zmuszê ciê do zap³aty za to!}
+{4749}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{4750}{}{A³, moja noga!}
+{4751}{}{Zap³acisz mi za to!}
+{4752}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{4753}{}{Jestem œlepy!}
+{4754}{}{Moje oko! Zap³acisz mi za nie!}
+{4755}{}{}
+#
+# target hit in groin
+#
+{4756}{}{Oooooo, mój interes!}
+{4757}{}{Zatem tak chcesz pogrywaæ.}
+{4758}{}{}
+{4759}{}{Chrup!}
+{4760}{}{}
+{4761}{}{Œwinia!}
+
+# 39. Adytum, Leader,
+# We have a situation, and it's a bad one.
+#
+#  running away
+#
+{4800}{}{Potrzebujê posi³ków!}
+{4801}{}{Niech mi ktoœ pomo¿e!}
+{4802}{}{Sanitariusz!}
+{4803}{}{Odwrót! Odwrót!}
+{4804}{}{Wycofaæ siê! Wycofaæ siê!}
+{4805}{}{Przegrupowaæ siê!}
+#
+# moving in to attack
+#
+{4806}{}{Ja siê tym zajmê.}
+{4807}{}{Jesteœmy atakowani!}
+{4808}{}{}
+{4809}{}{Do ataku!}
+{4810}{}{}
+{4811}{}{Do broni! Do broni!}
+#
+# attacking
+#
+{4812}{}{To za Adytum!}
+{4813}{}{To robimy ze zwierzakami!}
+{4814}{}{Witaj w Piekle, œmieciu.}
+{4815}{}{Ciesz siê ostatnimi sekundami ¿ycia...}
+{4816}{}{Ju¿ nikogo nie bêdziesz nêkaæ!}
+{4817}{}{}
+{4818}{}{Trzeba by³o tego nie zaczynaæ.}
+{4819}{}{}
+{4820}{}{}
+{4821}{}{Ju¿ po tobie, œmieciu!}
+#
+# target being missed
+#
+{4822}{}{}
+{4823}{}{Mierzysz po wariacku, œmieciu.}
+{4824}{}{}
+{4825}{}{}
+{4826}{}{To mia³ byæ dowcip, zgadza siê?}
+{4827}{}{Nie³atwo mnie zabiæ...}
+#
+# target hit in head (3)
+#
+{4828}{}{Kurwa! Prosto w twarz.}
+{4829}{}{Moja twarz!}
+{4830}{}{Mój nos!}
+#
+# target hit in left arm
+#
+{4831}{}{Kurwa! Moja rêka!}
+{4832}{}{A³! To bola³o!}
+{4833}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in right arm
+#
+{4834}{}{Kurwa! Moje ramiê!}
+{4835}{}{A³! To bola³o!}
+{4836}{}{Cholera. To mo¿e byæ ciê¿ka rana.}
+#
+# target hit in torso
+#
+{4837}{}{A³!}
+{4838}{}{A³! Prosto w klatê!}
+{4839}{}{Uuf! Zarobi³em w ¿ebra!}
+{4840}{}{Uuf!}
+{4841}{}{}
+{4842}{}{Uuf! Prosto w ka³dun!}
+{4843}{}{Uch!}
+{4844}{}{A³æ!}
+{4845}{}{Uuf!}
+{4846}{}{Potrzebujê... powietrza...}
+#
+# target hit in right leg
+#
+{4847}{}{To zwyk³e szczêœcie!}
+{4848}{}{Cholera, prosto w kolano...}
+{4849}{}{Nie przewrócê siê, œmieciu.}
+#
+# target hit in left leg
+#
+{4850}{}{To zwyk³e szczêœcie!}
+{4851}{}{Cholera, prosto w kolano...}
+{4852}{}{Nie przewrócê siê, œmieciu.}
+#
+# target hit in eyes
+#
+{4853}{}{Cholera, nie jest dobrze...}
+{4854}{}{Kurwa, w same oczy!}
+{4855}{}{Nic nie widzê!}
+#
+# target hit in groin
+#
+{4856}{}{Oooooo, mój kutas!}
+{4857}{}{}
+{4858}{}{Kurwa, to boli!}
+{4859}{}{Nie... mogê... z³apaæ... oddechu...}
+{4860}{}{Ty sadystyczny skurwy...}
+{4861}{}{Ty œmieciu...}
+
+# 40. Ghoul, Coward
+# Maybe someone else should handle this
+#
+#  running away
+{4900}{}{Muszê st¹d znikaæ!}
+{4901}{}{}
+{4902}{}{Litoœci! Litoœci!}
+{4903}{}{}
+{4904}{}{}
+{4905}{}{}
+#
+# moving in to attack
+#
+{4906}{}{Czemu te rzeczy przydarzaj¹ siê w³aœnie mi?!}
+{4907}{}{Gdzie moje wsparcie?}
+{4908}{}{Przyda³aby mi siê tu jakaœ pomoc!}
+{4909}{}{}
+{4910}{}{}
+{4911}{}{}
+#
+# attacking (10)
+#
+{4912}{}{Nie bierz sobie tego do serca.}
+{4913}{}{}
+{4914}{}{}
+{4915}{}{}
+{4916}{}{Zdaje siê, ¿e muszê ci zrobiæ krzywdê.}
+{4917}{}{Proszê, padnij.}
+{4918}{}{Proszê, nie zabijaj mnie za to.}
+{4919}{}{}
+{4920}{}{Chyba zrobi mi siê niedobrze.}
+{4921}{}{}
+#
+# target being missed (6)
+#
+{4922}{}{¯yjê! ¯yjê!}
+{4923}{}{}
+{4924}{}{Musisz celowaæ trochê bardziej w prawo.}
+{4925}{}{}
+{4926}{}{To nie twój dzieñ.}
+{4927}{}{}
+#
+# target hit in head (3)
+#
+{4928}{}{Nie w twarz!}
+{4929}{}{A³! Moja g³owa!}
+{4930}{}{Mam przez ciebie z³amany nos!}
+#
+# target hit in left arm
+#
+{4931}{}{A³, moja rêka!}
+{4932}{}{Mam przez ciebie z³aman¹ rêkê!}
+{4933}{}{Czy to by³o absolutnie konieczne?}
+#
+# target hit in right arm
+#
+{4934}{}{A³, moja rêka!}
+{4935}{}{Mam przez ciebie z³aman¹ rêkê!}
+{4936}{}{Czy to by³o absolutnie konieczne?}
+#
+# target hit in torso
+#
+{4937}{}{Uuf!}
+{4938}{}{A³! To mnie zabola³o! Bardzo!}
+{4939}{}{}
+{4940}{}{Chyp! Nie wal we mnie!}
+{4941}{}{Chyp! To bola³o!}
+{4942}{}{Uch! Proszê, przestañ!}
+{4943}{}{A³æ!}
+{4944}{}{Uuf!}
+{4945}{}{Uuf!}
+{4946}{}{Uuf! Chyp! Uch! A³! A³ajæ!}
+#
+# target hit in right leg
+#
+{4947}{}{A³, moja noga!}
+{4948}{}{Hej, to bola³o!}
+{4949}{}{}
+#
+# target hit in left leg
+#
+{4950}{}{A³, moja noga!}
+{4951}{}{Hej, to bola³o!}
+{4952}{}{Czy to by³o absolutnie konieczne?}
+#
+# target hit in eyes
+#
+{4953}{}{Aach! Moja siatkówka!}
+{4954}{}{Moje oko! O Bo¿e, nic nie widzê!}
+{4955}{}{Czemu ¿ycie jest takie okrutne?!}
+#
+# target hit in groin
+#
+{4956}{}{Oooooo, mój klejnocik!}
+{4957}{}{Ooo! To bola³o!}
+{4958}{}{To by³ skrajnie nieprzyjazny gest.}
+{4959}{}{}
+{4960}{}{Chrup!}
+{4961}{}{}
+
+# 41. Ghoul, Normal
+#
+#  running away (6)
+#
+{5000}{}{Spadam st¹d!}
+{5001}{}{}
+{5002}{}{Aaaaach!}
+{5003}{}{}
+{5004}{}{}
+{5005}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{5006}{}{}
+{5007}{}{}
+{5008}{}{Komuœ trza daæ nauczkê.}
+{5009}{}{Ktoœ tu zaraz wykituje.}
+{5010}{}{}
+{5011}{}{}
+#
+# attacking
+#
+{5012}{}{}
+{5013}{}{Giñ!}
+{5014}{}{Œmieræ i ogieñ!}
+{5015}{}{Gnido!}
+{5016}{}{Atomowy ogieñ!}
+{5017}{}{}
+{5018}{}{By³o z nami nie zaczynaæ!}
+{5019}{}{Do Blasku z tob¹!}
+{5020}{}{Zabetonujê twój grób!}
+{5021}{}{Jesteœ trupem!}
+#
+# target being missed
+#
+{5022}{}{}
+{5023}{}{Nie jestem pod wra¿eniem.}
+{5024}{}{}
+{5025}{}{Zbudujê ci grobowiec.}
+{5026}{}{Mnie nie pogrzebiesz!}
+{5027}{}{Czego siê niby spodziewasz?}
+#
+# target hit in head
+#
+{5028}{}{}
+{5029}{}{Moje oczy!}
+{5030}{}{A³!}
+#
+# target hit in left arm
+#
+{5031}{}{A³!}
+{5032}{}{A³! Moja rêka!}
+{5033}{}{A³! Jest z³amana!}
+#
+# target hit in right arm
+#
+{5034}{}{A³!}
+{5035}{}{A³! Moja rêka!}
+{5036}{}{}
+#
+# target hit in torso
+#
+{5037}{}{A³!}
+{5038}{}{Uuf!}
+{5039}{}{A³æ!}
+{5040}{}{Guch!}
+{5041}{}{Uch!}
+{5042}{}{Grrr!}
+{5043}{}{}
+{5044}{}{Zjem za to twoj¹ w¹trobê!}
+{5045}{}{}
+{5046}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5047}{}{A³!}
+{5048}{}{A³! Moje kolano!}
+{5049}{}{A³! Moja noga!}
+#
+#
+# target hit in left leg
+#
+{5050}{}{A³!}
+{5051}{}{A³! Moje kolano!}
+{5052}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{5053}{}{Widzê sam¹ ciemnoœæ!}
+{5054}{}{Nic nie widzê!}
+{5055}{}{Moje oko!}
+#
+# target hit in groin
+#
+{5056}{}{Oooooo, mój klejnot!}
+{5057}{}{Ooo! To bola³o!}
+{5058}{}{To by³ skrajnie nieprzyjazny gest.}
+{5059}{}{}
+{5060}{}{Chrup!}
+{5061}{}{}
+
+# 42.  Ghoul, Brave
+# We'll seal your tomb for this.
+#
+#  running away (6)
+#
+{5100}{}{Odwrót!}
+{5101}{}{Wycofaæ siê!}
+{5102}{}{Przegrupowaæ siê!}
+{5103}{}{To nie koniec!}
+{5104}{}{Powrócê!}
+{5105}{}{Jeszcze tu wrócimy!}
+#
+# moving in to attack
+#
+{5106}{}{}
+{5107}{}{}
+{5108}{}{Braæ intruza!}
+{5109}{}{Œmieræ cz³owiekowi!}
+{5110}{}{}
+{5111}{}{}
+#
+# attacking
+#
+{5112}{}{Do Blasku z tob¹!}
+{5113}{}{}
+{5114}{}{Plugawy cz³eku!}
+{5115}{}{}
+{5116}{}{}
+{5117}{}{Œmieræ i ogieñ!}
+{5118}{}{Sp³oniesz!}
+{5119}{}{}
+{5120}{}{Padniesz i ju¿ nigdy nie powstaniesz!}
+{5121}{}{Zabetonujê twój grób!}
+#
+# target being missed
+#
+{5122}{}{Pud³o!}
+{5123}{}{Nikt nie zamuruje mojego grobowca!}
+{5124}{}{Wojownik z ciebie ¿aden.}
+{5125}{}{}
+{5126}{}{Nie wygrasz, cz³owieczku!}
+{5127}{}{}
+#
+# target hit in head
+#
+{5128}{}{To bola³o.}
+{5129}{}{Moje patrza³ki!}
+{5130}{}{Aaach!}
+#
+# target hit in left arm
+#
+{5131}{}{Aaach!}
+{5132}{}{A³! Moja ³apa!}
+{5133}{}{A³! Jest z³amana!}
+#
+# target hit in right arm
+#
+{5134}{}{Aaach!}
+{5135}{}{A³! Moja rêka!}
+{5136}{}{A³! Jest z³amana!}
+#
+# target hit in torso
+#
+{5137}{}{A³!}
+{5138}{}{Uuf!}
+{5139}{}{A³æ!}
+{5140}{}{Guch!}
+{5141}{}{Uch!}
+{5142}{}{Grrr!}
+{5143}{}{Uuf! Wy, ³achy, jesteœcie wszystkie takie same.}
+{5144}{}{Ze¿rê za to twoj¹ w¹trobê!}
+{5145}{}{}
+{5146}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5147}{}{Aaach!}
+{5148}{}{A³! Moje kolano!}
+{5149}{}{A³! Mój kulas!}
+#
+#
+# target hit in left leg
+#
+{5150}{}{Aaach!}
+{5151}{}{A³! Moje kolano!}
+{5152}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{5153}{}{Niech ogieñ bêdzie twoim przekleñstwem!}
+{5154}{}{Nic nie widzê!}
+{5155}{}{Moja patrza³ka!}
+#
+# target hit in groin
+#
+{5156}{}{Oooooo, mój klejnot!}
+{5157}{}{Uuuf!}
+{5158}{}{Splugawiê twój grób!}
+{5159}{}{}
+{5160}{}{Chrup!}
+{5161}{}{}
+
+# 43. Super Mutant, Guard
+# Humans try to hurt superhumans? Stupid humans!
+#
+#  running away
+#
+{5200}{}{W nogi!}
+{5201}{}{Nie zabijesz mnie!}
+{5202}{}{Jeszcze tu wrócê!}
+{5203}{}{Moi kumple za³atwi¹ ciê za mnie!}
+{5204}{}{Zap³acisz za to - póŸniej!}
+{5205}{}{Jesteœmy Wybrañcami! Umrzesz póŸniej!}
+#
+# moving in to attack
+#
+{5206}{}{Nadchodzi twoja œmieræ!}
+{5207}{}{Ci, którzy niepokoj¹ Wybrañców, nie niepokoj¹ nikogo wiêcej!}
+{5208}{}{Ludzkie bronie nie s¹ w stanie mnie skrzywdziæ!}
+{5209}{}{Bêdziesz cierpieæ, bardzo cierpieæ!}
+{5210}{}{}
+{5211}{}{Kto jest na tyle g³upi, by nas rozgniewaæ?}
+#
+# attacking
+#
+{5212}{}{}
+{5213}{}{Nikt ciê ju¿ nie uratuje!}
+{5214}{}{}
+{5215}{}{Teraz umrzyj P³on¹c¹ Œmierci¹!}
+{5216}{}{Giñ, ludzki g³upcze!}
+{5217}{}{Teraz giñ Wrzeszcz¹c¹ Œmierci¹}
+{5218}{}{}
+{5219}{}{Teraz ciê zgniotê!}
+{5220}{}{Nie jesteœ w stanie pokonaæ Wybrañców!}
+{5221}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{5222}{}{¯a³osne! Po co w ogóle stajesz do walki?}
+{5223}{}{Czy tylko na to staæ ludzi?!}
+{5224}{}{Nie masz krzepy!}
+{5225}{}{Przez ciebie krztuszê siê ze œmiechu!}
+{5226}{}{Czy to mia³ byæ atak?}
+{5227}{}{Jesteœmy Wybrañcami!}
+#
+# target hit in head
+#
+{5228}{}{Aaagh! Moja twarz!}
+{5229}{}{Moja twarz! Bêdziesz cierpieæ!}
+{5230}{}{Aaagh! Rozszarpiê ciê na kawa³ki!}
+#
+# target hit in left arm
+#
+{5231}{}{Aaagh!}
+{5232}{}{}
+{5233}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{5234}{}{Aaagh!}
+{5235}{}{}
+{5236}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{5237}{}{Uuf!}
+{5238}{}{Grrr!}
+{5239}{}{Zabijê ciê za to!}
+{5240}{}{Nie skrzywdzisz mnie, bêd¹c trupem!}
+{5241}{}{Œmiejê siê z twojego ¿a³osnego ataku!}
+{5242}{}{Grrr!}
+{5243}{}{A³!}
+{5244}{}{Zanurzê ciê!}
+{5245}{}{Grrr! Z³oœcisz mnie!}
+{5246}{}{Ach!}
+#
+# target hit in right leg
+#
+{5247}{}{Aaagh! Moja noga!}
+{5248}{}{}
+{5249}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in left leg
+#
+{5250}{}{Aaagh! Moja noga!}
+{5251}{}{}
+{5252}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{5253}{}{Aaagh! Nêdzny cz³owieczku! Nic nie widzê!}
+{5254}{}{Aaagh! Ten ból! Co siê sta³o?!}
+{5255}{}{Aaagh! Bêdê ciê torturowaæ przez wiele dni!}
+#
+# target hit in groin
+#
+{5256}{}{To ludzka s³aboœæ, nie nasza!}
+{5257}{}{}
+{5258}{}{Jesteœ durny, cz³owieczku!}
+{5259}{}{Czemu mierzysz mi w tamto miejsce?}
+{5260}{}{Bêdê ciê drêczyæ przez wiele godzin!}
+{5261}{}{}
+
+# 44. Super Mutant, Normal
+# Even weakest runt of Chosen better than most powerful human!
+#
+#  running away
+#
+{5300}{}{W nogi!}
+{5301}{}{Nie zabijesz mnie!}
+{5302}{}{Muszê uchodziæ.}
+{5303}{}{}
+{5304}{}{Zap³acisz za to - póŸniej!}
+{5305}{}{Umrzesz póŸniej!}
+#
+# moving in to attack
+#
+{5306}{}{Kto œmie niepokoiæ Wybrañca?}
+{5307}{}{Z³oœcisz mnie!}
+{5308}{}{Ludzkie bronie nie s¹ w stanie mnie skrzywdziæ!}
+{5309}{}{}
+{5310}{}{¯adnej litoœci dla wrogów!}
+{5311}{}{Jak walczê, to zabijam!}
+#
+# attacking
+#
+{5312}{}{}
+{5313}{}{Nikt ciê ju¿ nie uratuje!}
+{5314}{}{Teraz giñ!}
+{5315}{}{Chcê zobaczyæ, jak cierpisz!}
+{5316}{}{Zgruchoczê twoje cia³o!}
+{5317}{}{}
+{5318}{}{}
+{5319}{}{Teraz giñ}
+{5320}{}{Zrobiê ci wielk¹ krzywdê!}
+{5321}{}{Cierp!}
+#
+# target being missed
+#
+{5322}{}{S³abeusz!}
+{5323}{}{W¹t³a z ciebie cz³eczyna...}
+{5324}{}{Nie masz krzepy!}
+{5325}{}{}
+{5326}{}{Czy to mia³ byæ atak?}
+{5327}{}{Jesteœ niczym!}
+#
+# target hit in head
+#
+{5328}{}{Aaagh! Moja twarz!}
+{5329}{}{Moja twarz! Bêdziesz cierpieæ!}
+{5330}{}{Aaagh! Rozszarpiê ciê na kawa³ki!}
+#
+# target hit in left arm
+#
+{5331}{}{Aaagh!}
+{5332}{}{A³! To niemal zrani³o Wybrañca!}
+{5333}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{5334}{}{Aaagh!}
+{5335}{}{}
+{5336}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{5337}{}{Zwrócê ci ten ból!}
+{5338}{}{Uuf!}
+{5339}{}{A³æ!}
+{5340}{}{Hmm, mo¿esz sprawiæ k³opoty.}
+{5341}{}{Grrr! Z utêsknieniem wypatrujê twojej œmierci.}
+{5342}{}{Grrr!}
+{5343}{}{Mo¿esz mnie zraniæ, ale nie jesteœ w stanie zwyciê¿yæ!}
+{5344}{}{Grrr!}
+{5345}{}{A³! Ranienie mnie nie by³o dobrym pomys³em.}
+{5346}{}{}
+#
+# target hit in right leg
+#
+{5347}{}{Aaagh! Moja noga!}
+{5348}{}{}
+{5349}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in left leg
+#
+{5350}{}{Aaagh! Moja noga!}
+{5351}{}{To niemal zrani³o Wybrañca!}
+{5352}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{5353}{}{Aaagh! Nic nie widzê!}
+{5354}{}{Aaagh! Ten ból! Co siê sta³o?}
+{5355}{}{Aaagh! Oczy mnie pal¹ jak ogieñ Blasku!}
+#
+# target hit in groin
+#
+{5356}{}{To ludzka s³aboœæ, nie nasza!}
+{5357}{}{}
+{5358}{}{}
+{5359}{}{Czemu mierzysz mi w tamto miejsce?}
+{5360}{}{Twoja œmieræ bêdzie bolesna, cz³owieczku!}
+{5361}{}{}
+
+# 45.  Super Mutant, Hostile
+# Don't get in my way when I rip the human apart!
+#
+#  running away
+#
+{5400}{}{W nogi!}
+{5401}{}{Nie zabijesz mnie!}
+{5402}{}{Jeszcze tu wrócê!}
+{5403}{}{}
+{5404}{}{Zap³acisz mi za to - póŸniej!}
+{5405}{}{Umrzesz póŸniej!}
+#
+# moving in to attack
+#
+{5406}{}{Nadchodzi twoja œmieræ!}
+{5407}{}{}
+{5408}{}{Ludzkie bronie nie s¹ w stanie mnie skrzywdziæ!}
+{5409}{}{Bêdziesz cierpieæ, bardzo cierpieæ!}
+{5410}{}{Widzê wrogów do unicestwienia!}
+{5411}{}{Kto jest na tyle g³upi, by nas rozgniewaæ?}
+#
+# attacking
+#
+{5412}{}{}
+{5413}{}{Nikt ciê ju¿ nie uratuje!}
+{5414}{}{Jesteœmy twoimi panami!}
+{5415}{}{Teraz umrzyj P³on¹c¹ Œmierci¹!}
+{5416}{}{Giñ, ludzki g³upcze!}
+{5417}{}{Teraz umrzyj Wrzeszcz¹c¹ Œmierci¹!}
+{5418}{}{}
+{5419}{}{Teraz ciê zgniotê!}
+{5420}{}{}
+{5421}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{5422}{}{¯a³osne! Po co w ogóle stajesz do walki?}
+{5423}{}{Czy tylko na to staæ ludzi?!}
+{5424}{}{Nie masz krzepy!}
+{5425}{}{}
+{5426}{}{}
+{5427}{}{Jesteœmy Wybrañcami!}
+#
+# target hit in head
+#
+{5428}{}{Aaagh! Moja twarz!}
+{5429}{}{Moja twarz! Bêdziesz cierpieæ!}
+{5430}{}{Aaagh! Rozszarpiê ciê na kawa³ki!}
+#
+# target hit in left arm
+#
+{5431}{}{Aaagh!}
+{5432}{}{To ma byæ ból? Mnie on rozœmiesza!}
+{5433}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{5434}{}{Aaagh!}
+{5435}{}{To ma byæ ból? Mnie on rozœmiesza!}
+{5436}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{5437}{}{¯aden ból mnie nie skrzywdzi!}
+{5438}{}{Uuf! Zg³adzê ciê!}
+{5439}{}{Nienawidzê twojej rasy!}
+{5440}{}{}
+{5441}{}{Uch!}
+{5442}{}{Grrr!}
+{5443}{}{A³! Zajmê siê tob¹ osobiœcie!}
+{5444}{}{}
+{5445}{}{Grrr!}
+{5446}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5447}{}{Aaagh! Moja noga!}
+{5448}{}{To ma byæ ból? Mnie on rozœmiesza!}
+{5449}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in left leg
+#
+{5450}{}{Aaagh! Moja noga!}
+{5451}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{5452}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{5453}{}{Aaagh! Nêdzny cz³owieczku! Nic nie widzê!}
+{5454}{}{Aaagh! Ten ból! Co siê sta³o?!}
+{5455}{}{Aaagh! Bêdê ciê torturowaæ przez wiele dni!}
+#
+# target hit in groin
+#
+{5456}{}{}
+{5457}{}{}
+{5458}{}{Jesteœ durny, cz³owieczku!}
+{5459}{}{Czemu mierzysz mi w tamto miejsce?}
+{5460}{}{Bêdê ciê drêczyæ przez wiele godzin!}
+{5461}{}{}
+
+# 46. Super Mutant, Sergeant
+# I lead the apocalypse. Corpses to the left, corpses to the right, and death in front of me.
+#
+#  running away #
+{5500}{}{W nogi!}
+{5501}{}{Nie zabijesz mnie!}
+{5502}{}{Jeszcze tu wrócê!}
+{5503}{}{To nie koniec!}
+{5504}{}{Twoje zwyciêstwo bêdzie bardzo krótkotrwa³e, cz³owieczku!}
+{5505}{}{Jesteœmy Wybrañcami! Umrzesz póŸniej!}
+#
+# moving in to attack
+#
+{5506}{}{Naprzód, bo z nami kroczy Œmieræ!}
+{5507}{}{}
+{5508}{}{Ludzkie bronie nie s¹ w stanie nas skrzywdziæ!}
+{5509}{}{Bêdziesz cierpieæ!}
+{5510}{}{Nikt nam siê nie oprze!}
+{5511}{}{}
+#
+# attacking
+#
+{5512}{}{}
+{5513}{}{Nikt ciê nie ocali!}
+{5514}{}{Jesteœmy twoimi panami!}
+{5515}{}{Teraz umrzyj P³on¹c¹ Œmierci¹!}
+{5516}{}{Giñ, ludzki g³upcze!}
+{5517}{}{Teraz umrzyj Wrzeszcz¹c¹ Œmierci¹!}
+{5518}{}{Twoja krew jest moim winem!}
+{5519}{}{Teraz ciê zgniotê!}
+{5520}{}{Nie jesteœ w stanie pokonaæ Wybrañców!}
+{5521}{}{Cierp, cz³owieczku!}
+#
+# target being missed
+#
+{5522}{}{Czemu walczysz tak kiepsko?}
+{5523}{}{}
+{5524}{}{Czy wed³ug ciebie ta zapieraj¹ca dech w piersiach g³upota by³a atakiem?}
+{5525}{}{Twój atak tylko mnie rozœmieszy³.}
+{5526}{}{}
+{5527}{}{}
+#
+# target hit in head
+#
+{5528}{}{Aaagh! Moja twarz!}
+{5529}{}{Moja twarz! Bêdziesz cierpieæ!}
+{5530}{}{Aaagh! Rozszarpiê ciê na kawa³ki!}
+#
+# target hit in left arm
+#
+{5531}{}{Aaagh!}
+{5532}{}{To ma byæ wed³ug ciebie ból? Mnie on rozœmiesza!}
+{5533}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in right arm
+#
+{5534}{}{Aaagh!}
+{5535}{}{}
+{5536}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in torso
+#
+{5537}{}{Nie jesteœ w stanie mnie pokonaæ!}
+{5538}{}{Zabijê ciê za to!}
+{5539}{}{Twoja œmieræ przejdzie do legendy!}
+{5540}{}{Teraz to jestem rozgniewany!}
+{5541}{}{Uuf!}
+{5542}{}{Grrr!}
+{5543}{}{Uuf! Nie zdo³asz ujœæ z ¿yciem.}
+{5544}{}{}
+{5545}{}{Nie masz pojêcia z czym zadzierasz, cz³owieczku!}
+{5546}{}{Obmyjê sobie twarz twoj¹ krwi¹!}
+#
+# target hit in right leg
+#
+{5547}{}{Aaagh! Moja noga!}
+{5548}{}{}
+{5549}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in left leg
+#
+{5550}{}{Aaagh! Moja noga!}
+{5551}{}{}
+{5552}{}{Aaagh! Skrêcê ci za to kark!}
+#
+# target hit in eyes
+#
+{5553}{}{Aaagh! Nêdzny cz³owieczku! Nic nie widzê!}
+{5554}{}{Aaagh! Wcale nie potrzebujê oczu, ¿eby ciê zabiæ.}
+{5555}{}{Aaagh! Bêdê ciê torturowaæ przez wiele dni!}
+#
+# target hit in groin
+#
+{5556}{}{To ludzka s³aboœæ, nie nasza!}
+{5557}{}{}
+{5558}{}{Jesteœ durny, cz³owieczku!}
+{5559}{}{Czemu mierzysz mi w tamto miejsce?}
+{5560}{}{Bêdê ciê drêczyæ przez wiele godzin!}
+{5561}{}{To by³ twój koñcowy afront!}
+
+# 47.  Merchants
+# Are you sure that we can't make other arrangements?
+#
+#  running away
+#
+{5600}{}{Spadam st¹d!}
+{5601}{}{Miej litoœæ!}
+{5602}{}{Proszê, przestañ!}
+{5603}{}{Pomocy!}
+{5604}{}{Aaaaach!}
+{5605}{}{W nogi!}
+#
+# moving in to attack
+#
+{5606}{}{}
+{5607}{}{Nie pozostawiasz nam wyboru!}
+{5608}{}{Za kogo ty siê uwa¿asz?}
+{5609}{}{Nikt nam tu nie bêdzie robiæ wrogiego przejêcia...}
+{5610}{}{Mogliœmy ubiæ interes.}
+{5611}{}{To by³o kiepskie posuniêcie.}
+#
+# attacking
+#
+{5612}{}{Nie zaczynaj tego, czego nie potrafisz skoñczyæ.}
+{5613}{}{Prosisz siê o to!}
+{5614}{}{}
+{5615}{}{Wiem, jak siê obchodziæ ze œwiniami!}
+{5616}{}{S³ono zap³acisz za swoje postêpowanie!}
+{5617}{}{Kolej na ciebie!}
+{5618}{}{}
+{5619}{}{}
+{5620}{}{Czas porachowaæ twoje straty.}
+{5621}{}{}
+#
+# target being missed
+#
+{5622}{}{Uf!}
+{5623}{}{Nikt nie da za ciebie nawet dwudziestu kapsli.}
+{5624}{}{Nienajlepiej ci to wychodzi.}
+{5625}{}{Jesteœ tylko przecenionym bublem.}
+{5626}{}{Lepiej st¹d po prostu odejdŸ!}
+{5627}{}{}
+#
+# target hit in head
+#
+{5628}{}{W twarz?! W twarz?!}
+{5629}{}{}
+{5630}{}{A³! Moje ucho!}
+#
+# target hit in left arm
+#
+{5631}{}{A³, moja rêka!}
+{5632}{}{Niech ciê cholera!}
+{5633}{}{Mam przez ciebie z³aman¹ rêkê!}
+#
+# target hit in right arm
+#
+{5634}{}{A³, moje ramiê!}
+{5635}{}{Niech ciê cholera!}
+{5636}{}{Mam przez ciebie z³aman¹ rêkê!}
+#
+# target hit in torso
+#
+{5637}{}{A³!}
+{5638}{}{Uuf!}
+{5639}{}{A³æ!}
+{5640}{}{Guch!}
+{5641}{}{Uch!}
+{5642}{}{}
+{5643}{}{Trzeba by³o ubiæ z tob¹ interes!}
+{5644}{}{Uuf! Ciekawe, ile dostanê za twojego trupa?}
+{5645}{}{A³!}
+{5646}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5647}{}{A³, moja noga!}
+{5648}{}{Moje kolano!}
+{5649}{}{A³! Moja noga jest doszczêtnie rozchrzaniona!}
+#
+# target hit in left leg
+#
+{5650}{}{A³, moja noga!}
+{5651}{}{Moje kolano!}
+{5652}{}{A³! Moja noga jest rozwalona!}
+#
+# target hit in eyes
+#
+{5653}{}{Nic nie widzê!}
+{5654}{}{Ugggh. Moja twarz! Moje oczy!}
+{5655}{}{Moje oczy! Kurwa twoja maæ...}
+#
+# target hit in groin
+#
+{5656}{}{Oooooo, mój interes!}
+{5657}{}{Oooooo, to by³o tanie, œmieciu.}
+{5658}{}{Chrup!}
+{5659}{}{Nie... mogê... z³apaæ... oddechu...}
+{5660}{}{}
+{5661}{}{Co za ból, co za ból...}
+
+# 48. Peasant, Hub
+# Hey, aren't the taxes bad enough? I don't need you messing up my life too!
+#
+#  running away
+#
+{5700}{}{Muszê st¹d zmiataæ!}
+{5701}{}{W nogi! W nogi!}
+{5702}{}{Niech mi ktoœ pomo¿e!}
+{5703}{}{Wszyscy zginiemy!}
+{5704}{}{Jeszcze kiedyœ dostaniesz, co ci siê nale¿y!}
+{5705}{}{Ja za to nie bêdê zdychaæ!}
+#
+# moving in to attack
+#
+{5706}{}{Za póŸno na ucieczkê!}
+{5707}{}{Kto ciê wpuœci³ do Hubu?}
+{5708}{}{Ej, ty!}
+{5709}{}{Nie lubimy tu takich jak ty!}
+{5710}{}{Nikt tu nas nie bêdzie podbija³...}
+{5711}{}{Za kogo ty siê uwa¿asz?}
+#
+# attacking
+#
+{5712}{}{A masz!}
+{5713}{}{Jak ci siê TO podoba?}
+{5714}{}{To robimy ze szkodnikami!}
+{5715}{}{To dla ciebie!}
+{5716}{}{¯egnaj!}
+{5717}{}{}
+{5718}{}{Ty broj¹ca szumowino!}
+{5719}{}{}
+{5720}{}{Ty zwierzu!}
+{5721}{}{Po¿a³ujesz przybycia do Hubu!}
+#
+# target being missed
+#
+{5722}{}{Nie za dobrze ci to idzie.}
+{5723}{}{}
+{5724}{}{Jesteœ tylko pospolitym zbirem.}
+{5725}{}{}
+{5726}{}{Nie bêdê twoj¹ ofiar¹!}
+{5727}{}{To by³ twój ostatni b³¹d.}
+#
+# target hit in head
+#
+{5728}{}{}
+{5729}{}{Aaaach!}
+{5730}{}{Moja twarz! Moja twarz!}
+#
+# target hit in left arm
+#
+{5731}{}{Aaaach! Moja rêka!}
+{5732}{}{Moja rêka!}
+{5733}{}{Cholera, ta rêka jest teraz do niczego...}
+#
+# target hit in right arm
+#
+{5734}{}{Aaaach! Moja rêka!}
+{5735}{}{Moja rêka!}
+{5736}{}{Cholera jasna, ta rêka jest teraz do niczego...}
+#
+# target hit in torso
+#
+{5737}{}{A³!}
+{5738}{}{Uuf!}
+{5739}{}{A³æ!}
+{5740}{}{Guch!}
+{5741}{}{Uch!}
+{5742}{}{Grrr!}
+{5743}{}{!}
+{5744}{}{}
+{5745}{}{A³æ!}
+{5746}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5747}{}{Aaaach! Moja noga!}
+{5748}{}{Moja noga!}
+{5749}{}{Niech to cholera, moja noga jest do niczego...}
+#
+# target hit in left leg
+#
+{5750}{}{Aaaach! Moja noga!}
+{5751}{}{Moja noga!}
+{5752}{}{Niech to cholera, moja noga jest do niczego...}
+#
+# target hit in eyes
+#
+{5753}{}{Aaaach! Nic nie widzê!}
+{5754}{}{Kurwa maæ! Wszystko mnie pali...}
+{5755}{}{Moje oko! Zap³acisz mi za nie!}
+#
+# target hit in groin
+#
+{5756}{}{Oooooo, mój klejnot!}
+{5757}{}{Oooooooooo!}
+{5758}{}{Nie... mogê... z³apaæ... oddechu...}
+{5759}{}{}
+{5760}{}{Co za ból, co za ból...}
+{5761}{}{Kurwa, to boli!}
+
+# 49. Thief, Hub
+# You are taking this rather personally, sir.
+#
+#  running away
+#
+{5800}{}{}
+{5801}{}{W nogi! W nogi!}
+{5802}{}{Znikam st¹d!}
+{5803}{}{W moim wieku jest jeszcze za wczeœnie, by umieraæ!}
+{5804}{}{Do cienia!}
+{5805}{}{Ta walka nie idzie po mojej myœli...}
+#
+# moving in to attack
+#
+{5806}{}{PrzygwoŸdŸmy ³ajdaka!}
+{5807}{}{Demolka!}
+{5808}{}{Ej, ty!}
+{5809}{}{Nie podoba mi siê twoja postawa...}
+{5810}{}{Nikt tu nas nie bêdzie podbija³...}
+{5811}{}{Za kogo ty siê uwa¿asz?}
+#
+# attacking
+#
+{5812}{}{}
+{5813}{}{Jak ci siê TO podoba?}
+{5814}{}{To robimy ze szkodnikami!}
+{5815}{}{U³o¿ê ciê do drzemki na glebie!}
+{5816}{}{Ty bezczelny kundlu!}
+{5817}{}{Jesteœ prawdziwym wrzodem!}
+{5818}{}{Przyprawiasz mnie o md³oœci!}
+{5819}{}{Œmieræ albo chwa³a!}
+{5820}{}{Zostanie z ciebie paskudny ba³agan.}
+{5821}{}{Po¿a³ujesz przybycia do Hubu!}
+#
+# target being missed
+#
+{5822}{}{Poni¿am siê walcz¹c z tob¹.}
+{5823}{}{}
+{5824}{}{Jesteœ tylko pospolitym zbirem.}
+{5825}{}{}
+{5826}{}{Naprawdê, zaoszczêdŸ sobie wysi³ków.}
+{5827}{}{To by³ twój ostatni b³¹d.}
+#
+# target hit in head
+#
+{5828}{}{Cholera, to piecze!}
+{5829}{}{Aaaach!}
+{5830}{}{Moja twarz! Moja piêkna twarz!}
+#
+# target hit in left arm
+#
+{5831}{}{Aaaach! Moja rêka!}
+{5832}{}{Moja rêka!}
+{5833}{}{Cholera, ta rêka jest teraz do niczego...}
+#
+# target hit in right arm
+#
+{5834}{}{Aaaach! Moja rêka!}
+{5835}{}{Moja rêka!}
+{5836}{}{Niech to cholera, ta rêka jest teraz do niczego...}
+#
+# target hit in torso
+#
+{5837}{}{}
+{5838}{}{Uuf!}
+{5839}{}{A³æ!}
+{5840}{}{Uuf! Bol¹ mnie ¿ebra.}
+{5841}{}{Cholera! To bola³o!}
+{5842}{}{A³æ! Niech ciê diabli!}
+{5843}{}{Uch!}
+{5844}{}{}
+{5845}{}{}
+{5846}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5847}{}{Aaaach! Moja noga!}
+{5848}{}{Moja noga!}
+{5849}{}{Niech to diabli, moja noga jest do niczego...}
+#
+# target hit in left leg
+#
+{5850}{}{Aaaach! Moja noga!}
+{5851}{}{Moja noga!}
+{5852}{}{Cholera, moja noga jest do niczego...}
+#
+# target hit in eyes
+#
+{5853}{}{Aaaach! Nic nie widzê!}
+{5854}{}{Kurwa maæ! Wszystko mnie pali...}
+{5855}{}{Co mi siê sta³o?!}
+#
+# target hit in groin
+#
+{5856}{}{Oooooo, mój klejnocik!}
+{5857}{}{Jesteœ niczym wiêcej ni¿ pospolitym zbirem!}
+{5858}{}{}
+{5859}{}{}
+{5860}{}{}
+{5861}{}{Kurwa, to boli!}
+
+# 50.  Mutant, Hub
+# We've made a home for ourselves here, and we'll be damned if we just let you walk in and take it away from us.
+#
+#  running away (6)
+#
+{5900}{}{Spadam st¹d!}
+{5901}{}{Czeœæ!}
+{5902}{}{Aaaaach!}
+{5903}{}{Na razie. Mo¿e.}
+{5904}{}{}
+{5905}{}{Do zobaczenia.}
+#
+# moving in to attack
+#
+{5906}{}{}
+{5907}{}{Broñmy naszych domów!}
+{5908}{}{Komuœ trza daæ nauczkê.}
+{5909}{}{Ktoœ tu zara wykituje.}
+{5910}{}{}
+{5911}{}{Nikt nie bêdzie zadzieraæ z Hubem!}
+#
+# attacking
+#
+{5912}{}{A masz!}
+{5913}{}{Zdychaj i nie dychaj!}
+{5914}{}{Padnij trupem!}
+{5915}{}{Gnido!}
+{5916}{}{Ty mendo!}
+{5917}{}{Mam nadziejê, ¿e to boli.}
+{5918}{}{By³o z nami nie zaczynaæ!}
+{5919}{}{Do Blasku z tob¹!}
+{5920}{}{IdŸ do diab³a!}
+{5921}{}{Jesteœ trupem!}
+#
+# target being missed
+#
+{5922}{}{Pud³o!}
+{5923}{}{Nie jestem pod wra¿eniem.}
+{5924}{}{}
+{5925}{}{Ze mn¹ nie idzie tak ³atwo.}
+{5926}{}{Nikt mnie nie za³atwi!}
+{5927}{}{Czego siê niby spodziewasz?}
+#
+# target hit in head
+#
+{5928}{}{To bola³o.}
+{5929}{}{Ooo, moja obola³a czacha!}
+{5930}{}{A³!}
+#
+# target hit in left arm
+#
+{5931}{}{A³!}
+{5932}{}{A³! Moja graba!}
+{5933}{}{A³! Mój ³okieæ!}
+#
+# target hit in right arm
+#
+{5934}{}{A³!}
+{5935}{}{A³! Moja ³apa!}
+{5936}{}{A³! Mój ³okieæ!}
+
+#
+# target hit in torso
+#
+{5937}{}{A³! Moja klata!}
+{5938}{}{Uuf!}
+{5939}{}{A³æ!}
+{5940}{}{}
+{5941}{}{}
+{5942}{}{A³æ! Kurwa twoja maæ!}
+{5943}{}{Uch!}
+{5944}{}{A³!}
+{5945}{}{}
+{5946}{}{Uuf!}
+#
+# target hit in right leg
+#
+{5947}{}{A³!}
+{5948}{}{A³! Moje kolano!}
+{5949}{}{A³! Mój kulas!}
+#
+#
+# target hit in left leg
+#
+{5950}{}{A³!}
+{5951}{}{A³! Moje kolano!}
+{5952}{}{A³! Mój kulas!}
+#
+# target hit in eyes
+#
+{5953}{}{Widzê ciemnoœæ!}
+{5954}{}{Nic nie widzê!}
+{5955}{}{Moja ga³a!}
+#
+# target hit in groin
+#
+{5956}{}{Oooooo, mój klejnocik!}
+{5957}{}{Ooo! To bola³o!}
+{5958}{}{}
+{5959}{}{}
+{5960}{}{Chrup!}
+{5961}{}{}
+
+# 51. Peasant, Junktown
+# Wait a minute. I already pay to three different protection rackets. Be reasonable!
+#
+#  running away
+#
+{6000}{}{Do³ó¿ komuœ innemu, proszê!}
+{6001}{}{Miej litoœæ!}
+{6002}{}{Niech mi ktoœ pomo¿e!}
+{6003}{}{Proszê, przestañ!}
+{6004}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{6005}{}{Ja za to nie bêdê zdychaæ!}
+#
+# moving in to attack
+#
+{6006}{}{Poczekaj, jak ciê dorwê...}
+{6007}{}{}
+{6008}{}{Ej, ty!}
+{6009}{}{Nie lubimy tu takich jak ty!}
+{6010}{}{}
+{6011}{}{Roz³o¿ê ciê na kawa³ki jak tani zegarek.}
+#
+# attacking
+#
+{6012}{}{A masz!}
+{6013}{}{Jak ci siê TO podoba?}
+{6014}{}{Giñ!}
+{6015}{}{Ty mutanci popaprañcu!}
+{6016}{}{Takie ³ajzy jak ty, to ja jadam na œniadanie.}
+{6017}{}{Nakarmiê tob¹ psy.}
+{6018}{}{}
+{6019}{}{Prosisz siê o to.}
+{6020}{}{}
+{6021}{}{}
+#
+# target being missed
+#
+{6022}{}{Nie za dobrze ci to idzie.}
+{6023}{}{Na wiêcej ciê nie staæ?}
+{6024}{}{}
+{6025}{}{}
+{6026}{}{}
+{6027}{}{¯a³osne.}
+#
+# target hit in head
+#
+{6028}{}{Cholera!}
+{6029}{}{Czaszka mnie boli!}
+{6030}{}{Moja twarz! Moja twarz!}
+#
+# target hit in left arm
+#
+{6031}{}{Aaaach! Moja rêka!}
+{6032}{}{Moja rêka!}
+{6033}{}{O rany, to boli!}
+#
+# target hit in right arm
+#
+{6034}{}{Aaaach! Moja rêka!}
+{6035}{}{Moja rêka!}
+{6036}{}{}
+
+#
+# target hit in torso
+#
+{6037}{}{}
+{6038}{}{Uuf!}
+{6039}{}{A³æ!}
+{6040}{}{Uuf! ¯ebra mnie bol¹.}
+{6041}{}{Uch! To bola³o!}
+{6042}{}{Kurwa! Plujê na ciebie!}
+{6043}{}{Uch!}
+{6044}{}{Och, moje ¿ebra!}
+{6045}{}{A³!!!}
+{6046}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6047}{}{Aaaach! Moja noga!}
+{6048}{}{Moja noga!}
+{6049}{}{Ju¿ po moim kolanie.}
+#
+# target hit in left leg
+#
+{6050}{}{Aaaach! Moja noga!}
+{6051}{}{Moja noga!}
+{6052}{}{Ju¿ po moim kolanie.}
+#
+# target hit in eyes
+#
+{6053}{}{Aaaach! Nic nie widzê!}
+{6054}{}{Moje oczy! Moje oczy!}
+{6055}{}{Moje oko! Zap³acisz mi za nie!}
+#
+# target hit in groin
+#
+{6056}{}{Oooooo, mój klejnot!}
+{6057}{}{Oooooooooo!}
+{6058}{}{Nie... mogê... z³apaæ... oddechu...}
+{6059}{}{}
+{6060}{}{Co za ból, co za ból...}
+{6061}{}{Kurwa, to boli!}
+
+# 52. Guard, Junktown
+# We don't need people making things worse than they already are.
+#
+#  running away
+#
+{6100}{}{Spadam st¹d!}
+{6101}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{6102}{}{Do³ó¿ komuœ innemu, OK?!}
+{6103}{}{Rety!}
+{6104}{}{Ja za to nie bêdê zdychaæ!}
+{6105}{}{To dla mnie zbyt wiele...}
+#
+# moving in to attack
+#
+{6106}{}{Ej, ty!}
+{6107}{}{Nauczê ciê manier.}
+{6108}{}{Nie lubimy tu takich jak ty!}
+{6109}{}{Musisz siê nauczyæ moresu!}
+{6110}{}{Czas zarobiæ na wyp³atê...}
+{6111}{}{Poczekaj, jak ciê dorwê...}
+#
+# attacking
+#
+{6112}{}{}
+{6113}{}{}
+{6114}{}{}
+{6115}{}{Jak ci siê TO podoba?}
+{6116}{}{}
+{6117}{}{}
+{6118}{}{Zobaczmy, co z ciebie za twardziel...}
+{6119}{}{Œmieciu!}
+{6120}{}{}
+{6121}{}{Za³atwiê ciê na dobre.}
+#
+# target being missed
+#
+{6122}{}{Tego chwytu nauczy³a ciê twoja mamuœka?}
+{6123}{}{}
+{6124}{}{Cienias z ciebie.}
+{6125}{}{To by³ twój ostatni b³¹d.}
+{6126}{}{Amatorszczyzna.}
+{6127}{}{Uczysz siê walczyæ w knajpach?}
+#
+# target hit in head
+#
+{6128}{}{A³! Ty kur...}
+{6129}{}{Mam przez ciebie z³amany nos!}
+{6130}{}{Ur¿nê ci ³eb!}
+#
+# target hit in left arm
+#
+{6131}{}{A³, moja graba!}
+{6132}{}{To by³ najwiêkszy b³¹d twojego ¿ycia.}
+{6133}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{6134}{}{A³, moja rêka!}
+{6135}{}{To by³ najwiêkszy b³¹d twojego ¿ycia.}
+{6136}{}{Moja graba!}
+#
+# target hit in torso
+#
+{6137}{}{Chrup!}
+{6138}{}{Uuf!}
+{6139}{}{A³æ!}
+{6140}{}{}
+{6141}{}{Uch! To bola³o!}
+{6142}{}{A³æ!}
+{6143}{}{Uch!}
+{6144}{}{A³, chyba mam z³amane ¿ebro!}
+{6145}{}{A³!!! Moja œledziona!}
+{6146}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6147}{}{A³, moja noga!}
+{6148}{}{Nie muszê staæ, ¿eby ciê zabiæ!}
+{6149}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{6150}{}{A³, moja gica!}
+{6151}{}{Nie muszê staæ, ¿eby ciê zabiæ!}
+{6152}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{6153}{}{Nic nie widzê!}
+{6154}{}{Z ka¿d¹ chwil¹ ta walka robi siê coraz gorsza.}
+{6155}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{6156}{}{Oooooo, mój paralizator!}
+{6157}{}{Bêdê to co rano masowaæ.}
+{6158}{}{}
+{6159}{}{Chrup!}
+{6160}{}{}
+{6161}{}{}
+
+# 53. Killian
+# I ain't happy about killing you, but if you're set on causing trouble, push has gotta come to shove
+#
+#  running away
+#
+{6200}{}{Jeszcze siê spotkamy. Na pewno.}
+{6201}{}{Mam u ciebie rewan¿. PóŸniej.}
+{6202}{}{Wygrywasz tê rundê, ale nasza gra siê nie koñczy.}
+{6203}{}{Dogoniê ciê póŸniej.}
+{6204}{}{Je¿eli wiesz, co dla ciebie dobre, wyniesiesz siê z miasta.}
+{6205}{}{To jeszcze nie koniec.}
+#
+# moving in to attack
+#
+{6206}{}{}
+{6207}{}{Nauczê ciê manier.}
+{6208}{}{}
+{6209}{}{Musisz siê nauczyæ moresu!}
+{6210}{}{}
+{6211}{}{}
+#
+# attacking
+#
+{6212}{}{}
+{6213}{}{}
+{6214}{}{}
+{6215}{}{Jak ci siê TO podoba?}
+{6216}{}{}
+{6217}{}{}
+{6218}{}{Zobaczmy, co z ciebie za twardziel...}
+{6219}{}{Œmieciu!}
+{6220}{}{}
+{6221}{}{Wykopiê twoje dupsko z miasta.}
+#
+# target being missed
+#
+{6222}{}{To nie ta liga.}
+{6223}{}{}
+{6224}{}{Cienias z ciebie.}
+{6225}{}{Lepiej przestañ, póki jeszcze jesteœ w jednym kawa³ku.}
+{6226}{}{Amatorszczyzna.}
+{6227}{}{}
+#
+# target hit in head
+#
+{6228}{}{A³! Ty kur...}
+{6229}{}{}
+{6230}{}{Odetnê ci ³eb!}
+#
+# target hit in left arm
+#
+{6231}{}{A³, moja rêka!}
+{6232}{}{Zaczynasz mnie wkurzaæ.}
+{6233}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{6234}{}{A³, moja rêka!}
+{6235}{}{Zaczynasz mnie wkurzaæ.}
+{6236}{}{Moja rêka!}
+#
+# target hit in torso
+#
+{6237}{}{ach!}
+{6238}{}{Uuf!}
+{6239}{}{A³æ!}
+{6240}{}{Uuf! Chcesz dobraæ mi siê do nerek, co?}
+{6241}{}{}
+{6242}{}{}
+{6243}{}{}
+{6244}{}{A³, moje ¿ebra!}
+{6245}{}{}
+{6246}{}{}
+#
+# target hit in right leg
+#
+{6247}{}{A³, moja noga!}
+{6248}{}{Niez³y strza³. Poczekaj na moj¹ kolej.}
+{6249}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{6250}{}{A³, moja noga!}
+{6251}{}{Niez³y strza³. Poczekaj na moj¹ kolej.}
+{6252}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{6253}{}{Nic nie widzê!}
+{6254}{}{Z ka¿d¹ chwil¹ ta walka robi siê coraz gorsza.}
+{6255}{}{}
+#
+# target hit in groin
+#
+{6256}{}{Aaaaa³uuu!!!}
+{6257}{}{}
+{6258}{}{Hej, celuj powy¿ej pasa!}
+{6259}{}{Chrup!}
+{6260}{}{}
+{6261}{}{}
+
+# 54. Thug, Junktown
+#
+#  running away
+{6300}{}{Muszê st¹d znikaæ!}
+{6301}{}{Jeszcze tu wrócê...}
+{6302}{}{Zap³acisz za te twoje wyczyny!}
+{6303}{}{Na razie, œmieciu!}
+{6304}{}{To jeszcze nie moje ostatnie s³owo!}
+{6305}{}{Zap³acisz mi za to - póŸniej!}
+#
+# moving in to attack
+#
+{6306}{}{}
+{6307}{}{Œwie¿e miêsko...}
+{6308}{}{Zatañczê na twoim grobie.}
+{6309}{}{}
+{6310}{}{Czas na zabijanie!}
+{6311}{}{}
+#
+# attacking (10)
+#
+{6312}{}{}
+{6313}{}{Nie krêpuj siê krzyczeæ.}
+{6314}{}{To mnie raduje!}
+{6315}{}{}
+{6316}{}{Nakarmiê tob¹ psy.}
+{6317}{}{Nikt nam nie odbierze Z³omowa!}
+{6318}{}{}
+{6319}{}{Dostanê za to premiê.}
+{6320}{}{Giñ!}
+{6321}{}{Takie ³ajzy jak ty, to ja jadam na œniadanie.}
+#
+# target being missed (6)
+#
+{6322}{}{}
+{6323}{}{Na wiêcej ciê nie staæ?}
+{6324}{}{}
+{6325}{}{Nastêpnym razem spróbuj wycelowaæ, fujaro...}
+{6326}{}{}
+{6327}{}{Prawdziwy z ciebie frajer.}
+#
+# target hit in head (3)
+#
+{6328}{}{Nie po ryju!}
+{6329}{}{A³, ³eb mnie napierdala!}
+{6330}{}{Ta ³ajza z³ama³a mi kinol!}
+#
+# target hit in left arm
+#
+{6331}{}{A³, moja graba!}
+{6332}{}{Ta ³ajza z³ama³a mi grabê!}
+{6333}{}{}
+#
+# target hit in right arm
+#
+{6334}{}{A³, moja graba!}
+{6335}{}{Ta menda z³ama³a mi grabê!}
+{6336}{}{}
+#
+# target hit in torso
+#
+{6337}{}{A³æ! To bola³o.}
+{6338}{}{Uuf!}
+{6339}{}{A³æ!}
+{6340}{}{}
+{6341}{}{Uch! To bola³o!}
+{6342}{}{}
+{6343}{}{Uuf!}
+{6344}{}{Zasadzê ci za to kopa w ¿ebra.}
+{6345}{}{A³!}
+{6346}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6347}{}{A³, mój kulas!}
+{6348}{}{Zap³acisz mi za ten numer!}
+{6349}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{6350}{}{A³, mój kulas!}
+{6351}{}{}
+{6352}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{6353}{}{Aaach!}
+{6354}{}{Moje ga³y... Nie moje ga³y...}
+{6355}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{6356}{}{Oooooo, mój klejnocik!}
+{6357}{}{}
+{6358}{}{}
+{6359}{}{}
+{6360}{}{Chrup!}
+{6361}{}{A³! Zabijê ciê za to!}
+
+# 55. Skulz_Gang
+#
+#  running away
+{6400}{}{Muszê st¹d znikaæ!}
+{6401}{}{Jeszcze tu wrócê...}
+{6402}{}{Pomocy!}
+{6403}{}{W nogi!}
+{6404}{}{To jeszcze nie moje ostatnie s³owo!}
+{6405}{}{}
+#
+# moving in to attack
+#
+{6406}{}{}
+{6407}{}{Œwie¿e miêsko...}
+{6408}{}{Witaj w Z³omowie. To ³adne miejsce na twój grób!}
+{6409}{}{Czachy! Do ataku!}
+{6410}{}{Czas na zabijanie!}
+{6411}{}{}
+#
+# attacking (10)
+#
+{6412}{}{Dodamy twoj¹ czachê do naszej kolekcji!}
+{6413}{}{Nie krêpuj siê krzyczeæ.}
+{6414}{}{To mnie raduje!}
+{6415}{}{}
+{6416}{}{Nakarmiê tob¹ psy.}
+{6417}{}{Nikt nam nie odbierze Z³omowa!}
+{6418}{}{Tylko nie kipnij zbyt szybko!}
+{6419}{}{}
+{6420}{}{Giñ!}
+{6421}{}{}
+#
+# target being missed (6)
+#
+{6422}{}{}
+{6423}{}{Zdychaj¹ tylko frajerzy!}
+{6424}{}{}
+{6425}{}{Spróbuj najpierw wycelowaæ, ³achu!}
+{6426}{}{}
+{6427}{}{Ha!}
+#
+# target hit in head (3)
+#
+{6428}{}{Nie w ry³o!}
+{6429}{}{Kurwa, to gorsze ni¿ kac.}
+{6430}{}{Ta menda z³ama³a mi kinol!}
+#
+# target hit in left arm
+#
+{6431}{}{A³, moja graba!}
+{6432}{}{Ta ³ajza z³ama³a mi grabê!}
+{6433}{}{Moja graba! Moja graba!}
+#
+# target hit in right arm
+#
+{6434}{}{A³, moja graba!}
+{6435}{}{Ta menda z³ama³a mi grabê!}
+{6436}{}{Moja graba! Moja graba!}
+#
+# target hit in torso
+#
+{6437}{}{Kurwa! To naprawdê bola³o!}
+{6438}{}{Uuf! Po¿a³ujesz tego.}
+{6439}{}{Chyp!}
+{6440}{}{Chyp! Potrzebujê... powietrza...}
+{6441}{}{Naplujê na twojego trupa, ty ³achu!}
+{6442}{}{Kurwa!}
+{6443}{}{Uuf!}
+{6444}{}{To zagranie by³o nieczyste!}
+{6445}{}{Uuf!}
+{6446}{}{A³æ!}
+#
+# target hit in right leg
+#
+{6447}{}{A³, moja gica!}
+{6448}{}{Nikt nie zrobi ze mnie pokraki!}
+{6449}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{6450}{}{A³, moja gica!}
+{6451}{}{Nikt nie zrobi ze mnie pokraki!}
+{6452}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{6453}{}{Aaach! Moje ga³y!}
+{6454}{}{Moje ga³y... Nie moje ga³y...}
+{6455}{}{}
+#
+# target hit in groin
+#
+{6456}{}{Oooooo, mój klejnocik!}
+{6457}{}{}
+{6458}{}{}
+{6459}{}{}
+{6460}{}{Chrup!}
+{6461}{}{A³! Zabijê ciê za to!}
+
+# 56. Gizmo
+#
+#  running away
+#{6500}{}{Muszê st¹d znikaæ!}
+#{6501}{}{Jeszcze tu wrócê...}
+#{6502}{}{Pomocy!}
+#{6503}{}{W nogi!}
+#{6504}{}{To jeszcze nie moje ostatnie s³owo!}
+#{6505}{}{Policzê siê z tob¹, obiecujê!}
+#
+# moving in to attack
+#
+{6506}{}{To koniec, œmieciu! Po tobie!}
+{6507}{}{Mnie siê nie wkurwia, œmieciu.}
+{6508}{}{Potrzebna ci zmiana postawy, œmieciu.}
+{6509}{}{Nikt nie wkurwia Gizma wiêcej ni¿ raz.}
+{6510}{}{Czeka ciê œmieræ i mogi³a.}
+{6511}{}{Powa¿nie mnie unieszczêœliwiasz.}
+#
+# attacking (10)
+#
+{6512}{}{Dodam twoje rzepki do mojej kolekcji.}
+{6513}{}{To robiê ze œmieciami i frajerami.}
+{6514}{}{To mi siê podoba.}
+{6515}{}{Oooo, to musi boleæ!}
+{6516}{}{Zadzierasz z niew³aœciwym facetem.}
+{6517}{}{¯adna cipa nie odbierze mi Z³omowa.}
+{6518}{}{Tylko nie umrzyj zbyt szybko.}
+{6519}{}{Pourywam ci wszystkie cz³onki!}
+{6520}{}{Jesteœ trup!}
+{6521}{}{Jak ci TO pasuje?!}
+#
+# target being missed (6)
+#
+{6522}{}{To naprawdê ¿a³osne.}
+{6523}{}{Potrzebne ci lepsze prochy bojowe.}
+{6524}{}{Jesteœ nawet wiêksz¹ cip¹ ni¿ Killian.}
+{6525}{}{}
+{6526}{}{To by³ twój ostatni strza³!}
+{6527}{}{}
+#
+# target hit in head (3)
+#
+{6528}{}{}
+{6529}{}{Jak œmiesz mi to robiæ!}
+{6530}{}{Ta menda z³ama³a mi kinol!}
+#
+# target hit in left arm
+#
+{6531}{}{Ty wszawy ca³usie radskorpiona...}
+{6532}{}{Mam przez ciebie z³aman¹ grabê!}
+{6533}{}{Moja graba! Moja graba!}
+#
+# target hit in right arm
+#
+{6534}{}{Ty wszawy ca³usie radskorpiona...}
+{6535}{}{Mam przez ciebie z³aman¹ grabê!}
+{6536}{}{Moja graba! Moja graba!}
+#
+# target hit in torso
+#
+{6537}{}{}
+{6538}{}{}
+{6539}{}{Uuf!}
+{6540}{}{Uuf! Moje ¿ebra...}
+{6541}{}{!}
+{6542}{}{A³!}
+{6543}{}{Uch!}
+{6544}{}{Nikt mnie tak nie bêdzie jeba³, nikt!}
+{6545}{}{A³!!!}
+{6546}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6547}{}{A³, mój kulas!}
+{6548}{}{Ledwo... mogê... staæ...}
+{6549}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{6550}{}{A³, mój kulas!}
+{6551}{}{Ledwo... mogê... staæ...}
+{6552}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{6553}{}{Uggh! Nieeeee!}
+{6554}{}{Moje ga³y... Nie moje ga³y...}
+{6555}{}{}
+#
+# target hit in groin
+#
+{6556}{}{Oooooo, moje jajca!}
+{6557}{}{Ooo! NieŸle, œmieciu.}
+{6558}{}{Ooo! Kopiesz sobie grób, œmieciu.}
+{6559}{}{Ooo! Jesteœ wiêkszym trupem ni¿ albinos w Blasku.}
+{6560}{}{Chrup!}
+{6561}{}{A³! Zabijê ciê za to!}
+
+# 57. Sellbabies
+# Attacking a defenseless woman? Eat my Uzi, you son of a bitch!
+#
+#  running away
+#
+{6600}{}{Spadam st¹d!}
+{6601}{}{Litoœci!}
+{6602}{}{Proszê, przestañ!}
+{6603}{}{Pomocy!}
+{6604}{}{Aaaaach!}
+{6605}{}{}
+#
+# moving in to attack
+#
+{6606}{}{Hej!}
+{6607}{}{}
+{6608}{}{Za kogo ty siê uwa¿asz?}
+{6609}{}{Nikt tu nas nie bêdzie za darmo pieprzy³...}
+{6610}{}{Zmuszasz mnie, ¿ebym siê sta³a naprawdê nieprzyjazna.}
+{6611}{}{Ty kur...}
+#
+# attacking
+#
+{6612}{}{}
+{6613}{}{Prosisz siê o to!}
+{6614}{}{}
+{6615}{}{}
+{6616}{}{I po co to zaczynasz?}
+{6617}{}{Giñ, ty kur...}
+{6618}{}{Nie bierz sobie tego do serca...}
+{6619}{}{Zas³ugujesz na to w zupe³noœci!}
+{6620}{}{Zdajesz sobie sprawê, ¿e to ty za to opowiadasz.}
+{6621}{}{}
+#
+# target being missed
+#
+{6622}{}{Uf!}
+{6623}{}{Naprawdê nie musisz tego robiæ.}
+{6624}{}{Jesteœ kiepsk¹ namiastk¹ wojownika.}
+{6625}{}{Przypominasz mi kogoœ, z kim chodzi³am.}
+{6626}{}{Nie dasz sobie ze mn¹ rady.}
+{6627}{}{}
+#
+# target hit in head
+#
+{6628}{}{Moja twarz!}
+{6629}{}{A³, g³owa mnie boli!}
+{6630}{}{Rozchrzaniasz mi twarz!}
+#
+# target hit in left arm
+#
+{6631}{}{A³, moja rêka!}
+{6632}{}{Próbujesz zrobiæ ze mnie kalekê!}
+{6633}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{6634}{}{A³, moja rêka!}
+{6635}{}{Próbujesz zrobiæ ze mnie kalekê!}
+{6636}{}{Mam przez ciebie z³aman¹ rêkê!}
+#
+# target hit in torso
+#
+{6637}{}{A³!}
+{6638}{}{!}
+{6639}{}{A³! To bola³o!}
+{6640}{}{}
+{6641}{}{Damom siê tu nie celuje!}
+{6642}{}{A³!!}
+{6643}{}{A³æ!}
+{6644}{}{A³! Ty ma³y zasrañcu...}
+{6645}{}{&*$#@!}
+{6646}{}{#$#@! Ty ma³a glizdo!}
+#
+# target hit in right leg
+#
+{6647}{}{Moja noga!!!}
+{6648}{}{Moje kolano!}
+{6649}{}{A³! Mam rozjeban¹ nogê!}
+#
+# target hit in left leg
+#
+{6650}{}{A³, moja noga!}
+{6651}{}{Moje kolano!}
+{6652}{}{}
+#
+# target hit in eyes
+#
+{6653}{}{Moja twarz! Moja buzia!}
+{6654}{}{Moje... oczy... MOJE OCZY!}
+{6655}{}{Ty bêkarcie! Zabijê ciê!}
+#
+# target hit in groin
+#
+{6656}{}{Na pewno czêsto walczysz z facetami.}
+{6657}{}{}
+{6658}{}{Ja tym pracujê, ty pustynny œmieciu!}
+{6659}{}{To moja przestrzeñ osobista!}
+{6660}{}{Ty syfie!}
+{6661}{}{Ty zwierzu!}
+
+# 58. Brotherhood_Initiate
+# This is a chance to prove myself!
+#
+#  running away
+#
+{6700}{}{Potrzebujê posi³ków!}
+{6701}{}{Niech mi ktoœ pomo¿e!}
+{6702}{}{}
+{6703}{}{Odwrót!}
+{6704}{}{Wycofaæ siê!}
+{6705}{}{Do nastêpnego razu!}
+#
+# moving in to attack
+#
+{6706}{}{Ju¿ idê!}
+{6707}{}{}
+{6708}{}{}
+{6709}{}{Trzeba by³o nie wszczynaæ tej walki.}
+{6710}{}{Mam nadziejê, ¿e paladyni patrz¹.}
+{6711}{}{}
+#
+# attacking
+#
+{6712}{}{}
+{6713}{}{}
+{6714}{}{Teraz giñ!}
+{6715}{}{Jak ci siê TO podoba?}
+{6716}{}{Zadzieraj z najlepszymi, zdychaj ze zwyk³ymi.}
+{6717}{}{Nie zaczynaj tego, czego nie potrafisz skoñczyæ.}
+{6718}{}{}
+{6719}{}{SprawdŸmy, jak ci siê TO podoba!}
+{6720}{}{}
+{6721}{}{Do zobaczenia w Piekle!}
+#
+# target being missed
+#
+{6722}{}{Staw czo³o faktom. Przewy¿szam ciê o klasê.}
+{6723}{}{Na wiêcej ciê nie staæ?}
+{6724}{}{Ciamajdo! Walcz ze mn¹!}
+{6725}{}{}
+{6726}{}{Jesteœmy mistrzami walki!}
+{6727}{}{Nie jesteœ w stanie tkn¹æ cz³onka Bractwa.}
+#
+# target hit in head (3)
+#
+{6728}{}{Dostanê ciê za to!}
+{6729}{}{A³!}
+{6730}{}{Mam przez ciebie z³amany nos!}
+#
+# target hit in left arm
+#
+{6731}{}{Mam przez ciebie z³aman¹ rêkê!}
+{6732}{}{Zdruzgotane ramiê mnie nie powstrzyma!}
+{6733}{}{}
+#
+# target hit in right arm
+#
+{6734}{}{Mam przez ciebie z³aman¹ rêkê!}
+{6735}{}{Zdruzgotane ramiê mnie nie powstrzyma!}
+{6736}{}{}
+#
+# target hit in torso
+#
+{6737}{}{Mam przez ciebie z³amane ¿ebro!}
+{6738}{}{Uuf!}
+{6739}{}{A³æ!}
+{6740}{}{Uuf! Zatem tak wygl¹da ból...}
+{6741}{}{A³! Szkolenie nie przygotowa³o mnie do tego!}
+{6742}{}{Uuf! Bractwo pomœci mnie, jeœli zginê!}
+{6743}{}{A³æ!}
+{6744}{}{}
+{6745}{}{Och! Bol¹ mnie ¿ebra! Dostanê ciê za to!}
+{6746}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6747}{}{A³, moja noga!}
+{6748}{}{Zap³acisz za to wysok¹ cenê!}
+{6749}{}{Nie zrobisz ze mnie kaleki. A³...}
+#
+# target hit in left leg
+#
+{6750}{}{A³, moja noga!}
+{6751}{}{Zap³acisz za to wysok¹ cenê!}
+{6752}{}{Nie zrobisz ze mnie kaleki.}
+#
+# target hit in eyes
+#
+{6753}{}{Dotknê³a mnie œlepota!}
+{6754}{}{Moje oczy p³on¹!}
+{6755}{}{Nie widzê niczego!}
+#
+# target hit in groin
+#
+{6756}{}{Oooooo, mój klejnocik!}
+{6757}{}{}
+{6758}{}{Co za ból...}
+{6759}{}{Nie... mogê... z³apaæ... oddechu...}
+{6760}{}{Dostanê ciê za to!}
+{6761}{}{Ty œmieciu...}
+
+# 59. Brotherhood_Scribe
+# I'm no Knight, but I can defend myself
+#
+#  running away
+#
+{6800}{}{Potrzebujê posi³ków!}
+{6801}{}{Odrywam siê od przeciwnika.}
+{6802}{}{Cofn¹æ siê!}
+{6803}{}{Odwrót!}
+{6804}{}{Wycofaæ siê!}
+{6805}{}{Nie mogê uczestniczyæ w tym boju ani chwili d³u¿ej.}
+#
+# moving in to attack
+#
+{6806}{}{}
+{6807}{}{}
+{6808}{}{Zaczekaj chwilê...}
+{6809}{}{Trzeba by³o nie wszczynaæ tej walki.}
+{6810}{}{}
+{6811}{}{Wkraczam do akcji!}
+#
+# attacking
+#
+{6812}{}{A masz!}
+{6813}{}{Teraz ciê mam!}
+{6814}{}{Teraz giñ!}
+{6815}{}{Jak ci siê TO podoba?}
+{6816}{}{Wiem, jak siê obchodziæ z podobnymi tobie.}
+{6817}{}{To powinno wybiæ ci walkê z g³owy.}
+{6818}{}{}
+{6819}{}{SprawdŸmy, jak ci siê TO podoba!}
+{6820}{}{}
+{6821}{}{}
+#
+# target being missed
+#
+{6822}{}{Faktem jest, i¿ przewy¿szam ciê o klasê.}
+{6823}{}{Czy to najlepsze, na co ciê staæ?}
+{6824}{}{Ty plugawy, smarkaty g³upcze.}
+{6825}{}{To by³o ¿a³osne.}
+{6826}{}{Obra¿asz mnie swoj¹ nieudolnoœci¹.}
+{6827}{}{Nie jesteœ w stanie tkn¹æ cz³onka Bractwa.}
+#
+# target hit in head (3)
+#
+{6828}{}{O³!}
+{6829}{}{A³!}
+{6830}{}{Ooo, mój nos!}
+#
+# target hit in left arm
+#
+{6831}{}{To zabrzmia³o jak otwarte z³amanie.}
+{6832}{}{Ooo, moje ramiê!}
+{6833}{}{Nie mam czucia w rêce.}
+#
+# target hit in right arm
+#
+{6834}{}{To zabrzmia³o jak otwarte z³amanie.}
+{6835}{}{Ooo, moje ramiê!}
+{6836}{}{Nie mam czucia w rêce.}
+#
+# target hit in torso
+#
+{6837}{}{}
+{6838}{}{Uuf!}
+{6839}{}{}
+{6840}{}{Uuf! Ból... mój stary przyjaciel.}
+{6841}{}{}
+{6842}{}{Uuf! Bractwo pomœci moj¹ œmieræ!}
+{6843}{}{A³æ!}
+{6844}{}{}
+{6845}{}{Och! Bol¹ mnie ¿ebra! Dostanê ciê za to!}
+{6846}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6847}{}{A³, moja noga!}
+{6848}{}{Ooo, moje kolano!}
+{6849}{}{A³...}
+#
+# target hit in left leg
+#
+{6850}{}{A³, moja noga!}
+{6851}{}{Ooo, moje kolano!}
+{6852}{}{A³...}
+#
+# target hit in eyes
+#
+{6853}{}{Nic nie widzê!}
+{6854}{}{Wróg mnie oœlepi³! Potrzebna mi tutaj pomoc!}
+{6855}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{6856}{}{Oooooo, moje przyrodzenie!}
+{6857}{}{Oooooo, odebra³o mi wiatr z ¿agli.}
+{6858}{}{Oooooo, to bola³o...}
+{6859}{}{Nie... mogê... z³apaæ... oddechu...}
+{6860}{}{Mam tu ranê! Potrzebujê pomocy!}
+{6861}{}{To bola³o...}
+
+# 60. Brotherhood_Knight
+# I don't need to be a paladin to take care of you
+#
+#  running away
+#
+{6900}{}{Potrzebujê posi³ków!}
+{6901}{}{Odrywam siê od przeciwnika.}
+{6902}{}{Cofn¹æ siê!}
+{6903}{}{Odwrót!}
+{6904}{}{Wycofaæ siê!}
+{6905}{}{Nie mogê uczestniczyæ w tym boju ani chwili d³u¿ej.}
+#
+# moving in to attack
+#
+{6906}{}{Ju¿ idê!}
+{6907}{}{Ten cel jest mój!}
+{6908}{}{}
+{6909}{}{Oto dzieñ krwi i chwa³y!}
+{6910}{}{}
+{6911}{}{Wkraczam do akcji!}
+#
+# attacking
+#
+{6912}{}{Czas to zakoñczyæ.}
+{6913}{}{Teraz ciê mam!}
+{6914}{}{Teraz giñ!}
+{6915}{}{To koniec!}
+{6916}{}{Padaj!}
+{6917}{}{To powinno wybiæ ci walkê z g³owy.}
+{6918}{}{}
+{6919}{}{Zobaczmy, jaki masz koœciec.}
+{6920}{}{Dopiero siê rozgrzewam!}
+{6921}{}{Spada grom!}
+#
+# target being missed
+#
+{6922}{}{Twoje umiejêtnoœci s¹ mizerne.}
+{6923}{}{Na wiêcej ciê nie staæ?}
+{6924}{}{Ty plugawy, smarkaty g³upcze.}
+{6925}{}{To by³o ¿a³osne.}
+{6926}{}{Obra¿asz mnie swoj¹ nieudolnoœci¹.}
+{6927}{}{Wojownik z ciebie ¿aden.}
+#
+# target hit in head (3)
+#
+{6928}{}{Ach!}
+{6929}{}{A³!}
+{6930}{}{Ooo...}
+#
+# target hit in left arm
+#
+{6931}{}{To zabrzmia³o jak otwarte z³amanie.}
+{6932}{}{A³!}
+{6933}{}{Nie mam czucia w rêce.}
+#
+# target hit in right arm
+#
+{6934}{}{To zabrzmia³o jak otwarte z³amanie.}
+{6935}{}{A³!}
+{6936}{}{Nie mam czucia w rêce.}
+#
+# target hit in torso
+#
+{6937}{}{A³! Tacy jak ty nie s¹ w stanie mnie czymkolwiek zaskoczyæ!}
+{6938}{}{Uuf!}
+{6939}{}{A³æ!}
+{6940}{}{Uuf! Wiêksze lanie sprawia³a mi moja matka.}
+{6941}{}{A³! Poka¿ na co ciê naprawdê staæ, czekam na to niecierpliwie!}
+{6942}{}{Bractwo pomœci mnie, jeœli zginê!}
+{6943}{}{A³æ!}
+{6944}{}{Uch!}
+{6945}{}{}
+{6946}{}{Uuf!}
+#
+# target hit in right leg
+#
+{6947}{}{A³, moja noga!}
+{6948}{}{}
+{6949}{}{A³...}
+#
+# target hit in left leg
+#
+{6950}{}{A³, moja noga!}
+{6951}{}{}
+{6952}{}{A³...}
+#
+# target hit in eyes
+#
+{6953}{}{Aaaach!}
+{6954}{}{Wróg mnie oœlepi³! Potrzebna mi tutaj pomoc!}
+{6955}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{6956}{}{Oooooo, moje przyrodzenie!}
+{6957}{}{Oooooo, odebra³o mi wiatr z ¿agli.}
+{6958}{}{Oooooo, to bola³o...}
+{6959}{}{Nie... mogê... z³apaæ... oddechu...}
+{6960}{}{Walczmy uczciwie.}
+{6961}{}{To bola³o...}
+
+# 61. Brotherhood_Paladin
+# We are the Elite.
+#
+#  running away
+#
+{7000}{}{Dunkierka! Dunkierka! Ewakuujê siê!}
+{7001}{}{Odrywam siê od przeciwnika.}
+{7002}{}{Cofn¹æ siê!}
+{7003}{}{Prze¿yjê, by kontynuowaæ walkê w przysz³oœci.}
+{7004}{}{Nie jestem tu w stanie zdzia³aæ nic dobrego.}
+{7005}{}{}
+#
+# moving in to attack
+#
+{7006}{}{Ju¿ idê!}
+{7007}{}{Ten cel jest mój!}
+{7008}{}{To nie powinno d³ugo potrwaæ.}
+{7009}{}{Oto dzieñ krwi i chwa³y!}
+{7010}{}{Zneutralizujmy rozrabiakê!}
+{7011}{}{Wkraczam do akcji!}
+#
+# attacking
+#
+{7012}{}{Ciesz siê tymi ostatnimi sekundami.}
+{7013}{}{Zrobiê ci eutanazjê!}
+{7014}{}{Tak sie to robi.}
+{7015}{}{To koniec!}
+{7016}{}{Jesteœ pod ostrza³em!}
+{7017}{}{Doceniam fakt, ¿e mam okazjê poæwiczyæ, ale ju¿ czas to skoñczyæ.}
+{7018}{}{}
+{7019}{}{Zobaczmy, jaki masz koœciec.}
+{7020}{}{Koniec zabawy.}
+{7021}{}{Niemal jest mi ciebie ¿al.}
+#
+# target being missed
+#
+{7022}{}{Jesteœ nêdznym g³upcem!}
+{7023}{}{Czy to najlepsze, na co ciê staæ?}
+{7024}{}{Czy traktujesz to starcie powa¿nie?}
+{7025}{}{Utrzymuj kontakt wzrokowy z celem, matole!}
+{7026}{}{To ju¿ twój ostatni b³¹d.}
+{7027}{}{Lepiej by ci by³o zostaæ w domowych pieleszach.}
+#
+# target hit in head (3)
+#
+{7028}{}{Hmm, to bola³o!}
+{7029}{}{Uch!}
+{7030}{}{Ooo...}
+#
+# target hit in left arm
+#
+{7031}{}{To zabrzmia³o jak otwarte z³amanie.}
+{7032}{}{Hmm, moje przedramiê oberwa³o!}
+{7033}{}{Nie mam czucia w rêce.}
+#
+# target hit in right arm
+#
+{7034}{}{To zabrzmia³o jak otwarte z³amanie.}
+{7035}{}{Hmm, moje przedramiê oberwa³o!}
+{7036}{}{Nie mam czucia w rêce.}
+#
+# target hit in torso
+#
+{7037}{}{A³! Ty œwinio!}
+{7038}{}{Uuf!}
+{7039}{}{A³æ!}
+{7040}{}{Uuf! Wiêksze lanie sprawia³a mi moja matka.}
+{7041}{}{A³! Ty kundlu!}
+{7042}{}{Uuf! Bractwo pomœci mnie, jeœli zginê!}
+{7043}{}{Poskromiê mój ból, jak i poskromiê ciebie!}
+{7044}{}{Tak... Ból... mój stary przyjaciel.}
+{7045}{}{}
+{7046}{}{To tylko powierzchowna rana!}
+#
+# target hit in right leg
+#
+{7047}{}{Hmm, rana nogi.}
+{7048}{}{Moja noga zaczyna nabrzmiewaæ!}
+{7049}{}{A³...}
+#
+# target hit in left leg
+#
+{7050}{}{Hmm, rana nogi.}
+{7051}{}{Moja noga zaczyna nabrzmiewaæ!}
+{7052}{}{A³...}
+#
+# target hit in eyes
+#
+{7053}{}{Aaaach!}
+{7054}{}{Dotknê³a mnie utrata wzroku!}
+{7055}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{7056}{}{Oooooo, moje przyrodzenie!}
+{7057}{}{Zaczynam naprawdê nie lubiæ tego œmiecia.}
+{7058}{}{Bywa³o lepiej...}
+{7059}{}{A, zatem ten œmieæ lubi zagl¹daæ poni¿ej pasa.}
+{7060}{}{Czas rozcz³onkowaæ tego œmiecia.}
+{7061}{}{Znowu jakiœ artysta od ciosów poni¿ej pasa!}
+
+# 62. Brotherhood_Elders
+# Insolent pup. Why do you bother us with idle chatter when there are enemies to fight
+#
+#  running away
+#
+{7100}{}{Os³aniaæ mnie!}
+{7101}{}{Nie myl tego z tchórzostwem, kundlu.}
+{7102}{}{To jeszcze nie mój czas!}
+{7103}{}{Robiê ci prezent, kundlu.}
+{7104}{}{Nie myœl, ¿e to ju¿ koniec.}
+{7105}{}{}
+#
+# moving in to attack
+#
+{7106}{}{Ju¿ idê.}
+{7107}{}{Czy wszystko muszê robiæ osobiœcie?}
+{7108}{}{To nie powinno d³ugo potrwaæ.}
+{7109}{}{Mo¿e to bêdzie stanowiæ dla mnie jakieœ wyzwanie.}
+{7110}{}{Ktoœ tu w³aœnie pope³ni³ wielki b³¹d!}
+{7111}{}{Ktoœ chce nas niepokoiæ? Kim jest ten imbecyl?!}
+#
+# attacking
+#
+{7112}{}{To zbyt banalne.}
+{7113}{}{Gotów, cel, pal...}
+{7114}{}{Tak siê to robi.}
+{7115}{}{To koniec!}
+{7116}{}{Jesteœ pod ostrza³em!}
+{7117}{}{Doceniam fakt, i¿ mam okazjê poæwiczyæ, ale ju¿ czas to skoñczyæ.}
+{7118}{}{Czas po³o¿yæ kres twoim z³udzeniom.}
+{7119}{}{To twarda nauczka jak dla kogoœ tak m³odego.}
+{7120}{}{Koniec zabawy.}
+{7121}{}{To podarek od Starszyzny, moje dziecko.}
+#
+# target being missed
+#
+{7122}{}{Uchylenie siê przed tym nie sprawi³o mi problemu.}
+{7123}{}{Dwadzieœcia lat zajê³a mi nauka robienia takich uników.}
+{7124}{}{Masz talent, lecz poziom twojego wyszkolenia jest ¿a³osny.}
+{7125}{}{Nic nie zast¹pi doœwiadczenia.}
+{7126}{}{Teraz pora na mój ruch...}
+{7127}{}{Lepiej by ci by³o zostaæ w domowych pieleszach.}
+#
+# target hit in head (3)
+#
+{7128}{}{Hmm, to bola³o!}
+{7129}{}{Uch!}
+{7130}{}{Ooo, to by³o niez³e!}
+#
+# target hit in left arm
+#
+{7131}{}{}
+{7132}{}{Hmm, moje przedramiê oberwa³o!}
+{7133}{}{Nie mam czucia w rêce. To dla mnie nie pierwszyzna.}
+#
+# target hit in right arm
+#
+{7134}{}{}
+{7135}{}{Hmm, moje przedramiê oberwa³o!}
+{7136}{}{Nie mam czucia w rêce. To dla mnie nie pierwszyzna.}
+#
+# target hit in torso
+#
+{7137}{}{Nie odczujê bólu!}
+{7138}{}{¯yjê!}
+{7139}{}{¯yjê! Zraniono mnie, lecz ¿yjê!}
+{7140}{}{A³! Pope³niasz powa¿ny b³¹d taktyczny!}
+{7141}{}{Uuf! Bractwo zatriumfuje!}
+{7142}{}{Uuf! Bractwo pomœci mnie, jeœli zginê!}
+{7143}{}{Uuf!}
+{7144}{}{Chyp!}
+{7145}{}{To bola³o!}
+{7146}{}{Poczujesz za to gniew Bractwa!}
+#
+# target hit in right leg
+#
+{7147}{}{Hmm, rana nogi.}
+{7148}{}{Moja noga zaczyna nabrzmiewaæ!}
+{7149}{}{To nie by³o przyjemne.}
+#
+# target hit in left leg
+#
+{7150}{}{Hmm, rana nogi.}
+{7151}{}{Moja noga zaczyna nabrzmiewaæ}
+{7152}{}{To nie by³o przyjemne.}
+#
+# target hit in eyes
+#
+{7153}{}{Muszê zachowaæ zimn¹ krew. Wiem, gdzie celowaæ.}
+{7154}{}{Trafienie w oczy. Nie jest dobrze.}
+{7155}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{7156}{}{Oooooo, moje przyrodzenie!}
+{7157}{}{}
+{7158}{}{Ten dzieciuch usi³uje mnie wkurzyæ.}
+{7159}{}{}
+{7160}{}{Czas rozcz³onkowaæ tê durnotê.}
+{7161}{}{Znowu jakiœ artysta od ciosów poni¿ej pasa!}
+
+# 63. Brotherhood_Rhombus
+#
+#  running away
+#
+{7200}{}{Ewakuujê siê!}
+{7201}{}{Odrywam siê od przeciwnika.}
+{7202}{}{Odwrót!}
+{7203}{}{Bêdê kontynuowa³ walkê w przysz³oœci.}
+{7204}{}{Nie jestem tu w stanie zdzia³aæ nic dobrego.}
+{7205}{}{}
+#
+# moving in to attack
+#
+{7206}{}{Ju¿ idê!}
+{7207}{}{Ten cel jest mój!}
+{7208}{}{Zajmê siê tym kundlem.}
+{7209}{}{Niech no zapoznam ciê z bólem!}
+{7210}{}{Bezczelny, smarkaty bêkart!}
+{7211}{}{Wkraczam do akcji!}
+#
+# attacking
+#
+{7212}{}{Ciesz siê tymi ostatnimi sekundami.}
+{7213}{}{Mam ciebie doœæ.}
+{7214}{}{Tak siê to robi.}
+{7215}{}{To koniec!}
+{7216}{}{Tak to robi zawodowiec.}
+{7217}{}{Naprawdê zaczynasz mnie wkurzaæ!}
+{7218}{}{}
+{7219}{}{Prosisz siê o ³omot, dzieciaku.}
+{7220}{}{Koniec zabawy.}
+{7221}{}{Niemal jest mi ciebie ¿al.}
+#
+# target being missed
+#
+{7222}{}{Twoje umiejêtnoœci s¹ zerowe.}
+{7223}{}{Przestañ marnowaæ mój czas, dzieciaku!}
+{7224}{}{Czy traktujesz to starcie powa¿nie?}
+{7225}{}{Nie masz w tej dziedzinie zbyt du¿o doœwiadczenia, nieprawda¿?}
+{7226}{}{Nêdzny g³upcze!}
+{7227}{}{Lepiej by ci by³o zostaæ w domowych pieleszach.}
+#
+# target hit in head (3)
+#
+{7228}{}{Hmm, to bola³o!}
+{7229}{}{Uch!}
+{7230}{}{Ooo...}
+#
+# target hit in left arm
+#
+{7231}{}{}
+{7232}{}{Hmm, moje przedramiê oberwa³o!}
+{7233}{}{Nie mam czucia w rêce.}
+#
+# target hit in right arm
+#
+{7234}{}{}
+{7235}{}{Hmm, moje przedramiê oberwa³o!}
+{7236}{}{Nie mam czucia w rêce.}
+#
+# target hit in torso
+#
+{7237}{}{Nie odczujê bólu!}
+{7238}{}{Uuf! Ty bezczelna œwinio!}
+{7239}{}{Uuf! Bezczelny kundlu! Poczuj mój gniew!}
+{7240}{}{A³! Pope³niasz powa¿ny b³¹d taktyczny!}
+{7241}{}{A³æ!}
+{7242}{}{Uuf! Bractwo pomœci moj¹ œmieræ!}
+{7243}{}{Uuf!}
+{7244}{}{Ból uœwiadamia mi, ¿e ¿yjê.}
+{7245}{}{To bola³o!}
+{7246}{}{}
+#
+# target hit in right leg
+#
+{7247}{}{Rana nogi nie powstrzyma mnie przed zg³adzeniem ciebie!}
+{7248}{}{Moja noga zaczyna nabrzmiewaæ!}
+{7249}{}{A³...}
+#
+# target hit in left leg
+#
+{7250}{}{Rana nogi nie powstrzyma mnie przed zg³adzeniem ciebie!}
+{7251}{}{Moja noga zaczyna nabrzmiewaæ!}
+{7252}{}{A³...}
+#
+# target hit in eyes
+#
+{7253}{}{Aaaach!}
+{7254}{}{Ty bêkarcie!}
+{7255}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{7256}{}{Dzieciaku, ludzie, którzy ze mn¹ igraj¹, koñcz¹ jako trupy!}
+{7257}{}{}
+{7258}{}{Bywa³o lepiej...}
+{7259}{}{}
+{7260}{}{Czas rozcz³onkowaæ tê durnotê.}
+{7261}{}{Tego siê w³aœnie spodziewa³em po kimœ takim jak ty.}
+
+# 64. Children, Morpheus
+# You actually expect to kill me?
+#
+#  running away (6)
+#
+{7300}{}{To by³o w dziwaczny sposób zabawne, lecz muszê ju¿ odejœæ.}
+{7301}{}{To starcie jest bez znaczenia. ¯egnaj, g³upcze!}
+{7302}{}{Nie bêdê na ciebie marnowa³ wiêcej czasu.}
+{7303}{}{Mam wa¿niejsze sprawy do za³atwienia, ni¿ plamienie sobie tob¹ mych d³oni!}
+{7304}{}{Pozwolê Mrocznym zaj¹æ siê tob¹.}
+{7305}{}{¯egnaj, g³upcze. Nie po¿yjesz na tyle d³ugo, by mnie ponownie spotkaæ.}
+#
+# moving in to attack
+#
+{7306}{}{Ju¿ od dawna nie radowa³o mnie maczanie palców w gor¹cej krwi!}
+{7307}{}{Dopilnujê, by za twoje czyny nie minê³a ciê œmieræ!}
+{7308}{}{Gdy skoñczê, bêdziesz karm¹ dla kretoszczurów!}
+{7309}{}{Znowu zawracanie g³owy!}
+{7310}{}{Twoja bezczelnoœæ nie spotka siê z pob³a¿aniem!}
+{7311}{}{Jesteœ ju¿ poza granicami mi³osierdzia!}
+#
+# attacking
+#
+{7312}{}{A masz!}
+{7313}{}{Namaszczê ciê Œwiêtym P³omieniem!}
+{7314}{}{Tak postêpujê ze zwierzêtami!}
+{7315}{}{Ty smarkaty, niewys³owiony prymitywie!}
+{7316}{}{Doprowadzê ciê do wrzasku!}
+{7317}{}{To tylko pocz¹tek twej agonii!}
+{7318}{}{Jestem Morfeusz i dzier¿ê czarn¹ laskê!}
+{7319}{}{Sp³oniesz!}
+{7320}{}{Jestem Morfeusz, pan Œmierci!}
+{7321}{}{Pozbêdê siê ciebie i zakoñczê twój ¿ywot!}
+#
+# target being missed
+#
+{7322}{}{Jestem wyj¹tkowo zdegustowany.}
+{7323}{}{Nie spêdzi³em dziesiêciu lat u Rozpruwaczy bezproduktywnie!}
+{7324}{}{¯a³osne.}
+{7325}{}{Wiêkszy opór stawia³y mi nierz¹dnice!}
+{7326}{}{Czy nieudolnoœæ cechuje ciê od zawsze, czy to mo¿e skutek niedawnych przejœæ?}
+{7327}{}{BluŸnierca, pora¿ka, g³upiec. Wkrótce dodamy "denat" do listy twoich osi¹gniêæ.}
+#
+# target hit in head
+#
+{7328}{}{Agggh!}
+{7329}{}{Moje oczy!}
+{7330}{}{To zwyk³e szczêœcie!}
+#
+# target hit in left arm
+#
+{7331}{}{A³!}
+{7332}{}{A³! Moje ramiê!}
+{7333}{}{A³! Przeklinam twe szczêœcie!}
+#
+# target hit in right arm
+#
+{7334}{}{A³!}
+{7335}{}{A³! Moje ramiê!}
+{7336}{}{A³! Przeklinam twe szczêœcie!}
+#
+# target hit in torso
+#
+{7337}{}{Przeklinam twe szczêœcie!}
+{7338}{}{A³! Nie poddam siê!}
+{7339}{}{Jesteœ prawdziw¹ zadr¹ w zadzie!}
+{7340}{}{Skazujesz siê na potêpienie w oczach Mistrza!}
+{7341}{}{A³!}
+{7342}{}{A³æ!}
+{7343}{}{Uuf!}
+{7344}{}{Chyp!}
+{7345}{}{A³, to bola³o!}
+{7346}{}{Moi s³udzy sprawi¹ ci za to powa¿ny ból!}
+#
+# target hit in right leg
+#
+{7347}{}{A³!}
+{7348}{}{A³! Moje kolano!}
+{7349}{}{A³! Moja noga!}
+#
+#
+# target hit in left leg
+#
+{7350}{}{A³!}
+{7351}{}{A³! Moje kolano!}
+{7352}{}{A³! Moja noga!}
+#
+# target hit in eyes
+#
+{7353}{}{Moje oczy! Ty plugawa œwinio!}
+{7354}{}{Bêdê dogl¹daæ twojego rozszarpania na cz³onki, koñczyna po koñczynie!}
+{7355}{}{Aaach! Ty obleœny skurwysynku...}
+#
+# target hit in groin
+#
+{7356}{}{Oooooo, moje przyrodzenie!}
+{7357}{}{Ajiii!}
+{7358}{}{Zobaczê, jak cierpisz!}
+{7359}{}{Uuuf!}
+{7360}{}{Twoja œmieræ stanie siê teraz wyj¹tkowo bolesna!}
+{7361}{}{Jak œmiesz atakowaæ lêdŸwie Morfeusza!}
+
+# 65. Children, Lasher
+# Child, you must be disciplined
+#
+#  running away (6)
+#
+{7400}{}{Dzieciê, ju¿ dostatecznie ciê ukara³em. IdŸ precz.}
+{7401}{}{Nie opieraj mi siê, moje dziecko. Jeszcze nad tym popracujemy.}
+{7402}{}{Nie bêdê na ciebie marnowa³ wiêcej czasu.}
+{7403}{}{Mam wa¿niejsze sprawy do za³atwienia, ni¿ plamienie sobie tob¹ mych d³oni!}
+{7404}{}{Pozwolê Mrocznym zaj¹æ siê tob¹.}
+{7405}{}{Uka¿ê ciê ponownie nieco póŸniej.}
+#
+# moving in to attack
+#
+{7406}{}{Zas³ugujesz na karê.}
+{7407}{}{Trzeba ciê zdyscyplinowaæ.}
+{7408}{}{Nie ruszaj siê. To bêdzie bola³o..}
+{7409}{}{Musisz siê nauczyæ manier, moje dziecko.}
+{7410}{}{Dzisiejsza m³odzie¿. ¯adnej dyscypliny. ¯adnych manier. Ja ciê wyæwiczê.}
+{7411}{}{Zas³ugujesz na wielki ból, moje dziecko.}
+#
+# attacking
+#
+{7412}{}{Poczuj mój bat i ulegnij oczyszczeniu!}
+{7413}{}{Namaszczê ciê Œwiêtym P³omieniem!}
+{7414}{}{Jesteœ niegodziw¹ istot¹! Przyznaj mi racjê!}
+{7415}{}{Zas³ugujesz na karê! Przyznaj mi racjê!}
+{7416}{}{Krzycz, dzieciê! W bólu le¿y odkupienie!}
+{7417}{}{Nie raduje mnie twój ból, moje dziecko.}
+{7418}{}{Wyznaj twoje grzechy! Wyznaj twoje grzechy!}
+{7419}{}{Jesteœ pod³ym, szatañskim pomiotem. Przyznaj mi racjê!}
+{7420}{}{Twój opór tylko zwiêksza liczbê twoich grzechów. Ukorz siê!}
+{7421}{}{Ukorz siê przed boskim majestatem, a twoja dusza bêdzie uzdrowiona!}
+#
+# target being missed
+#
+{7422}{}{Twoje czyny odzwierciedlaj¹ stan twego chorego, wykoœlawionego umys³u.}
+{7423}{}{Twój opór przyprawia mnie o md³oœci, lecz zniosê to.}
+{7424}{}{Obawiam siê, ¿e nie jest w mojej mocy ciê zbawiæ.}
+{7425}{}{Czy twa perfidia nie ma koñca, moje dziecko?}
+{7426}{}{Choæ wystêpujesz przeciw mnie, nadal ciê kocham.}
+{7427}{}{BluŸnierca, pora¿ka, g³upiec. Oka¿ skruchê!}
+#
+# target hit in head
+#
+{7428}{}{Znoszê twoje ciosy z pokor¹, moje dziecko.}
+{7429}{}{Nie skrzywdzisz mnie, gdy¿ moja sprawa jest œwiêta.}
+{7430}{}{Zniosê to.}
+#
+# target hit in left arm
+#
+{7431}{}{Mistrz jest m¹ tarcz¹. Nie odczuwam bólu.}
+{7432}{}{Chroni¹ mnie œwiêcenia, moje dziecko.}
+{7433}{}{Wspiera mnie Œwiêty P³omieñ. Twoje ciosy s¹ niczym.}
+#
+# target hit in right arm
+#
+{7434}{}{Mistrz jest m¹ tarcz¹. Nie odczuwam bólu.}
+{7435}{}{Chroni¹ mnie œwiêcenia, moje dziecko.}
+{7436}{}{Wspiera mnie Œwiêty P³omieñ. Twoje ciosy s¹ niczym.}
+#
+# target hit in torso
+#
+{7437}{}{Moje dziecko, po bólu nadchodzi przebaczenie.}
+{7438}{}{Ja znam siê na bólu. A ty?}
+{7439}{}{Mogê odczuwaæ twoje razy, lecz ból nie ma znaczenia.}
+{7440}{}{Uczyñ tak ponownie, lubiê twój dotyk.}
+{7441}{}{Mistrz obdarza mnie wol¹ przetrwania.}
+{7442}{}{Chyp! Jesteœ zaledwie dzieckiem.}
+{7443}{}{Me cia³o jest tylko skorup¹.}
+{7444}{}{Nie jesteœ w stanie powstrzymaæ Jednoœci.}
+{7445}{}{Odczuwam twój ból, moje dziecko.}
+{7446}{}{Nie próbuj tego powtórzyæ!}
+#
+# target hit in right leg
+#
+{7447}{}{Moje dziecko, po bólu nadchodzi przebaczenie.}
+{7448}{}{Moje dziecko, Mistrz jest mymi rêkoma i nogami.}
+{7449}{}{Moje dziecko, ka¿da s³aboœæ cia³a wzmacnia m¹ duszê.}
+#
+#
+# target hit in left leg
+#
+{7450}{}{Moje dziecko, po bólu nadchodzi przebaczenie.}
+{7451}{}{Moje dziecko, Mistrz jest mymi rêkoma i nogami.}
+{7452}{}{Moje dziecko, ka¿da s³aboœæ cia³a wzmacnia m¹ duszê.}
+#
+# target hit in eyes
+#
+{7453}{}{Moje dziecko, po bólu nadchodzi przebaczenie.}
+{7454}{}{¯adna ofiara dla Mistrza nie jest zbyt wielka, moje dziecko.}
+{7455}{}{Moje dziecko, ka¿da s³aboœæ cia³a wzmacnia m¹ duszê.}
+#
+# target hit in groin
+#
+{7456}{}{Choæ me cia³o jest s³abe, mój duch jest silny!}
+{7457}{}{Ból jest wytworem s³abego umys³u. Zniosê to.}
+{7458}{}{Me cierpienie mnie umacnia.}
+{7459}{}{Uuuf!}
+{7460}{}{Nawet w boju zdradzasz dekadenck¹ naturê.}
+{7461}{}{Dzieciê, twe grzechy obci¹¿¹ ciê po dziesiêciokroæ!}
+
+# 66. Hub, Jain
+# Blasphemers must die!
+#
+#  running away (6)
+#
+{7500}{}{Twoje wystêpki zostan¹ ukarane we w³aœciwym czasie!}
+{7501}{}{Dzieci wkrótce wywr¹ na tobie zemstê!}
+{7502}{}{Jeszcze siê zobaczymy!}
+{7503}{}{Niebawem zobaczê twego trupa!}
+{7504}{}{Spotkamy siê ponownie!}
+{7505}{}{To nie koniec!}
+#
+# moving in to attack
+#
+{7506}{}{BluŸniercy musz¹ zostaæ ukarani!}
+{7507}{}{Czeka ciê œmieræ w imiê Œwiêtego P³omienia!}
+{7508}{}{Jak œmiesz wstrzymywaæ nasze wielkie dzie³o!}
+{7509}{}{Musisz siê nauczyæ manier, moje dziecko.}
+{7510}{}{Dzieci, unicestwcie tego intruza!}
+{7511}{}{Zas³ugujesz na wielki ból, moje dziecko.}
+#
+# attacking
+#
+{7512}{}{Oto twoja kara!}
+{7513}{}{Œmieræ bluŸniercom!}
+{7514}{}{Cierp za Dzieci!}
+{7515}{}{W imiê Œwiêtego P³omienia, giñ!}
+{7516}{}{A teraz nadci¹ga noc!}
+{7517}{}{Zapoznaj siê z grobem, moje dziecko!}
+{7518}{}{Teraz pada œmiertelny cios!}
+{7519}{}{Bezczeœcisz Œwiêty P³omieñ!}
+{7520}{}{Cierp, g³upcze!}
+{7521}{}{Dost¹pisz poznania w trakcie umierania!}
+
+#
+# target being missed
+#
+{7522}{}{Twoje czyny odzwierciedlaj¹ stan twego chorego, wykoœlawionego umys³u.}
+{7523}{}{Nie jesteœ w stanie mnie skrzywdziæ, moje dziecko.}
+{7524}{}{Obawiam siê, ¿e nie jest w mojej mocy ciê zbawiæ.}
+{7525}{}{Czy twa perfidia nie ma koñca, moje dziecko?}
+{7526}{}{Chroni mnie Œwiêty P³omieñ!}
+{7527}{}{Moja si³a le¿y poza granicami twego pojmowania.}
+#
+# target hit in head
+#
+{7528}{}{Ty smarkata, szatañska bestio!}
+{7529}{}{Umrzesz za to!}
+{7530}{}{A³!}
+#
+# target hit in left arm
+#
+{7531}{}{Mistrz jest m¹ tarcz¹. Nie odczuwam bólu.}
+{7532}{}{Œmieræ dosiêgnie ciê ju¿ wkrótce!}
+{7533}{}{A³!}
+#
+# target hit in right arm
+#
+{7534}{}{Mistrz jest m¹ tarcz¹. Nie odczuwam bólu.}
+{7535}{}{Œmieræ dosiêgnie ciê ju¿ wkrótce!}
+{7536}{}{A³!}
+#
+# target hit in torso
+#
+{7537}{}{Œmieræ grzesznikom!}
+{7538}{}{A³!}
+{7539}{}{Przelewasz krew œwiêtej!}
+{7540}{}{Uuf! Nie jesteœ w stanie zwyciê¿yæ.}
+{7541}{}{A³! Uka¿ê ciê za twe grzechy!}
+{7542}{}{A³! Okrywasz siê hañb¹!}
+{7543}{}{Och!}
+{7544}{}{Mój mistrz os³ania mnie przed twymi ¿a³osnymi staraniami!}
+{7545}{}{A³!}
+{7546}{}{Uuf!}
+#
+# target hit in right leg
+#
+{7547}{}{Mistrz jest m¹ tarcz¹. Nie odczuwam bólu.}
+{7548}{}{Moja krew stanowi ofiarê na rzecz pobo¿noœci.}
+{7549}{}{A³!}
+#
+#
+# target hit in left leg
+#
+{7550}{}{Moje dziecko, po bólu nadchodzi przebaczenie.}
+{7551}{}{Ma krew stanowi ofiarê na rzecz pobo¿noœci.}
+{7552}{}{A³!}
+#
+# target hit in eyes
+#
+{7553}{}{Moje oczy!}
+{7554}{}{Aaach! Ty szatanie!}
+{7555}{}{Moje oczy stoj¹ w p³omieniach!}
+#
+# target hit in groin
+#
+{7556}{}{Jesteœ moraln¹ ohyd¹!}
+{7557}{}{Czerpiesz przyjemnoœæ z nieczystych zwyciêstw!}
+{7558}{}{Me cierpienie mnie umacnia.}
+{7559}{}{Uuuf!}
+{7560}{}{Nawet w boju zdradzasz dekadenck¹ naturê.}
+{7561}{}{Dzieciê, twe grzechy obci¹¿¹ ciê po dziesiêciokroæ!}
+
+# 67. Hub, Underground
+# You don't understand what you're messing with
+#
+#  running away
+{7600}{}{To nie jest warte mojej fatygi.}
+{7601}{}{Nie mam czasu, by umieraæ!}
+{7602}{}{Zap³acisz za te twoje wyczyny!}
+{7603}{}{}
+{7604}{}{To nie moje ostatnie s³owo!}
+{7605}{}{Prze¿yjê, ¿eby kontynuowaæ walkê w przysz³oœci!}
+#
+# moving in to attack
+#
+{7606}{}{Ju¿ po tobie!}
+{7607}{}{Zadzierasz z niew³aœciwymi ludŸmi, mendo!}
+{7608}{}{Zatañczê na twoim grobie.}
+{7609}{}{Twoje nowe lokum jest dwa metry pod ziemi¹!}
+{7610}{}{Jak z tob¹ skoñczê, wyczyszcz¹ ciê szczury!}
+{7611}{}{Twoje ¿ycie gówno dla mnie znaczy.}
+#
+# attacking (10)
+#
+{7612}{}{Czas nakarmiæ robaki!}
+{7613}{}{Zaraz zmienisz siê w prawdziw¹ paskudê!}
+{7614}{}{}
+{7615}{}{Kolej na ciebie!}
+{7616}{}{Jeszcze dwie sekundy i spotkasz siê z twoim stwórc¹.}
+{7617}{}{Pozbêdê siê ciebie jak z³ego na³ogu!}
+{7618}{}{}
+{7619}{}{Dostanê za to premiê.}
+{7620}{}{Giñ!}
+{7621}{}{Zakopiê twoj¹ dupê do grobu!}
+#
+# target being missed (6)
+#
+{7622}{}{Czy to by³ strza³ ostrzegawczy, czy po prostu jesteœ do dupy?}
+{7623}{}{Niech zgadnê, twój plan zak³ada³ spud³owanie.}
+{7624}{}{}
+{7625}{}{A wiêc w³aœnie tak nie trafia siê w cel. Dziêki za demonstracjê.}
+{7626}{}{Wiêksz¹ krzywdê mog¹ mi zrobiæ niez³e obelgi!}
+{7627}{}{Cienizna!}
+#
+# target hit in head (3)
+#
+{7628}{}{}
+{7629}{}{A³, ³eb mnie napierdala!}
+{7630}{}{Ta menda z³ama³a mi kinol!}
+#
+# target hit in left arm
+#
+{7631}{}{A³, moja graba!}
+{7632}{}{Ta menda z³ama³a mi grabê!}
+{7633}{}{Ta graba nie jest mi potrzebna.}
+#
+# target hit in right arm
+#
+{7634}{}{A³, moja graba!}
+{7635}{}{Ta menda z³ama³a mi grabê!}
+{7636}{}{To moja dobra graba!}
+#
+# target hit in torso
+#
+{7637}{}{Uuf!}
+{7638}{}{To bola³o!}
+{7639}{}{No dawaj, spróbuj jeszcze raz!}
+{7640}{}{Uuf!}
+{7641}{}{Chyp!}
+{7642}{}{A³, pierdoliæ to wszystko w dupê!}
+{7643}{}{O³, uuf!}
+{7644}{}{A³æ!}
+{7645}{}{A³æ! To bola³o!}
+{7646}{}{Hej! Nie dajesz mi siê przygotowaæ!}
+#
+# target hit in right leg
+#
+{7647}{}{A³, mój kulas!}
+{7648}{}{Zap³acisz za to zajebist¹ cenê!}
+{7649}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{7650}{}{A³, mój kulas!}
+{7651}{}{Zap³acisz za to zajebist¹ cenê!}
+{7652}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{7653}{}{Aach! Moja siatkówka!}
+{7654}{}{Moje ga³y... Nie moje ga³y...}
+{7655}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{7656}{}{Oooooo, mój klejnocik!}
+{7657}{}{Ooo! Muszê siê nauczyæ tego chwytu...}
+{7658}{}{Bêdê to co rano masowaæ.}
+{7659}{}{Nie cierpiê jajcarzy.}
+{7660}{}{Chrup!}
+{7661}{}{A³! Zabijê ciê za to!}
+
+# 68. Hub, Police
+# You're under arrest! I love saying that!
+#
+#  running away
+#
+{7700}{}{}
+{7701}{}{Mo¿e to wcale nie by³ dobry pomys³.}
+{7702}{}{Przeciwnik ma chyba przewagê w uzbrojeniu.}
+{7703}{}{}
+{7704}{}{Ja za to nie bêdê umieraæ!}
+{7705}{}{To dla mnie zbyt wiele...}
+#
+# moving in to attack
+#
+{7706}{}{Ej, ty!}
+{7707}{}{Ktoœ tu ma spore k³opoty.}
+{7708}{}{Nie lubimy tu takich jak ty!}
+{7709}{}{Za kogo ty siê uwa¿asz?}
+{7710}{}{}
+{7711}{}{Policja Hubu!}
+#
+# attacking
+#
+{7712}{}{A masz!}
+{7713}{}{Teraz ciê mam!}
+{7714}{}{Padaj i zdychaj.}
+{7715}{}{Jak ci siê TO podoba?}
+{7716}{}{}
+{7717}{}{Mnie to wisi.}
+{7718}{}{Myœlisz, ¿e sprawisz nam k³opoty? Zmieñ zdanie.}
+{7719}{}{Œmieciu!}
+{7720}{}{Zgarniam ciê!}
+{7721}{}{Mo¿e teraz nauczysz siê trochê szacunku.}
+#
+# target being missed
+#
+{7722}{}{Chyba nie liczysz, ¿e ci siê uda daæ mi berka, prawda?}
+{7723}{}{Jestem wyszkolonym profesjonalist¹.}
+{7724}{}{Cienias z ciebie.}
+{7725}{}{To by³ twój ostatni b³¹d.}
+{7726}{}{Amatorszczyzna.}
+{7727}{}{Uczysz siê walczyæ w knajpach?}
+#
+# target hit in head
+#
+{7728}{}{A³! Ty kur...}
+{7729}{}{Zabijê ciê za to!}
+{7730}{}{Odetnê ci ³eb!}
+#
+# target hit in left arm
+#
+{7731}{}{A³, moja rêka!}
+{7732}{}{Kurwa, mam rozwalon¹ rêkê!}
+{7733}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{7734}{}{A³, moja rêka!}
+{7735}{}{Kurwa, mam rozwalon¹ rêkê!}
+{7736}{}{Moja rêka!}
+#
+# target hit in torso
+#
+{7737}{}{Trochê za to posiedzisz!}
+{7738}{}{Atakowanie funkcjonariusza jest wbrew prawu!}
+{7739}{}{A³æ!}
+{7740}{}{Uuf!}
+{7741}{}{Miarka siê przebra³a! Mam ciebie doœæ!}
+{7742}{}{Zapud³ujê ciê za to!}
+{7743}{}{Traf mnie tam znowu, a nie bêdzie nam potrzebne spotkanie z sêdzi¹.}
+{7744}{}{Powtarzaj¹c to, narazisz siê na powa¿ne niebezpieczeñstwo.}
+{7745}{}{Uuf! Daj sobie z tym spokój!}
+{7746}{}{}
+#
+# target hit in right leg
+#
+{7747}{}{A³, moja noga!}
+{7748}{}{Zap³acisz za to wysok¹ cenê!}
+{7749}{}{Moje kolano!}
+#
+# target hit in left leg
+#
+{7750}{}{A³, moja noga!}
+{7751}{}{Zap³acisz za to wysok¹ cenê!}
+{7752}{}{Moje kolano!}
+#
+# target hit in eyes
+#
+{7753}{}{Nic nie widzê!}
+{7754}{}{Moje oko! Zap³acisz mi za nie!}
+{7755}{}{Ja œlepnê!! Potrzebujê wsparcia!}
+#
+# target hit in groin
+#
+{7756}{}{Oooooo, mój paralizator!}
+{7757}{}{Bêdê to co rano masowaæ.}
+{7758}{}{Ty œmieciu!}
+{7759}{}{Chrup!}
+{7760}{}{Robisz teraz z tego sprawê osobist¹!}
+{7761}{}{Kurwa maæ, to bola³o!}
+
+# 69. Decker
+#
+#  running away
+{7800}{}{To nie koniec. Mowy nie ma!}
+{7801}{}{Jeszcze tu wrócê...}
+{7802}{}{Jesteœ trupem. S³yszysz mnie, trupem!}
+{7803}{}{Jeszcze zobaczê twojego trupa!}
+{7804}{}{To jeszcze nie moje ostatnie s³owo!}
+{7805}{}{Policzê siê z tob¹, obiecujê!}
+#
+# moving in to attack
+#
+{7806}{}{To koniec, œmieciu! Ju¿ po tobie!}
+{7807}{}{Mnie siê nie wkurwia, œmieciu.}
+{7808}{}{Potrzebna ci zmiana postawy, œmieciu.}
+{7809}{}{Jesteœ pomy³k¹, któr¹ mam zamiar skorygowaæ.}
+{7810}{}{Pêdzisz ekspresem do Piek³a, œmieciu.}
+{7811}{}{Miarka siê przebra³a, ktoœ tu umrze!}
+#
+# attacking (10)
+#
+{7812}{}{A masz!}
+{7813}{}{To robiê ze œmieciami i frajerami.}
+{7814}{}{To mi siê podoba.}
+{7815}{}{To bêdzie bola³o!}
+{7816}{}{Wchodzisz na odcisk niew³aœciwemu cz³owiekowi.}
+{7817}{}{Nikt mi nie odbierze Hubu.}
+{7818}{}{Tylko nie umrzyj zbyt szybko.}
+{7819}{}{Nikt nie bêdzie zadzieraæ z Kafarem!}
+{7820}{}{Giñ!}
+{7821}{}{Jak ci TO pasuje?!}
+#
+# target being missed (6)
+#
+{7822}{}{To naprawdê ¿a³osne.}
+{7823}{}{Tkwisz po czubek ³ba w gównie!}
+{7824}{}{Jeszcze potrafiê sobie radziæ w walce.}
+{7825}{}{Nie dasz rady wykonaæ tej roboty.}
+{7826}{}{To by³ twój ostatni strza³!}
+{7827}{}{Cienizna!}
+#
+# target hit in head (3)
+#
+{7828}{}{Czaszka mnie boli!}
+{7829}{}{Jak œmiesz mi to robiæ!}
+{7830}{}{Mam przez ciebie z³amany nos!}
+#
+# target hit in left arm
+#
+{7831}{}{Ty wszawy ca³usie radskorpiona...}
+{7832}{}{Mam przez ciebie z³aman¹ rêkê!}
+{7833}{}{Moja rêka! Moja rêka!}
+#
+# target hit in right arm
+#
+{7834}{}{Ty wszawy ca³usie radskorpiona...}
+{7835}{}{Mam przez ciebie z³aman¹ rêkê!}
+{7836}{}{Moja rêka! Moja rêka!}
+#
+# target hit in torso
+#
+{7837}{}{Jesteœ podstêpnym skurwysynem, wiesz o tym?}
+{7838}{}{Uuf! ¯ebra bêd¹ mnie boleæ ca³ymi dniami!}
+{7839}{}{A³! Co ty myœlisz, ¿e ja jestem, worek treningowy?}
+{7840}{}{Uuf!}
+{7841}{}{A³!}
+{7842}{}{Nie zadzieraj ze mn¹ w ten sposób, mi on nie odpowiada.}
+{7843}{}{Uuf! Da³em ci szansê, a ty na to srasz!}
+{7844}{}{A³! To by³o skrajnie nieprzyjemne.}
+{7845}{}{Uuf! Zapamiêtam to sobie...}
+{7846}{}{Chyp! Brak... mi... powietrza...}
+#
+# target hit in right leg
+#
+{7847}{}{A³, moja noga!}
+{7848}{}{Ooo... Ty œmierdzielu!}
+{7849}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{7850}{}{A³, moja noga!}
+{7851}{}{Ooo... Ty œmierdzielu!}
+{7852}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{7853}{}{Krew. Sama krew...}
+{7854}{}{Moje oczy... Nie moje oczy...}
+{7855}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{7856}{}{Oooooo, moje j¹dra!}
+{7857}{}{Ooo! NieŸle, œmieciu.}
+{7858}{}{Ooo! Kopiesz sobie grób, œmieciu.}
+{7859}{}{Ooo! Pogrzebiê ciê ¿ywcem w Blasku!}
+{7860}{}{Chrup!}
+{7861}{}{A³! Zabijê ciê za to!}
+
+# 70. Cain
+# Mr. Decker says you're a problem.
+#
+#  running away
+{7900}{}{To nie koniec. Mowy nie ma!}
+{7901}{}{Jeszcze tu wrócê...}
+{7902}{}{Jesteœ trupem. S³yszysz mnie, trupem!}
+{7903}{}{Jeszcze zobaczê twojego trupa!}
+{7904}{}{To jeszcze nie moje ostatnie s³owo!}
+{7905}{}{Policzê siê z tob¹, obiecujê!}
+#
+# moving in to attack
+#
+{7906}{}{Jestem bardzo dobry w za³atwianiu problemów.}
+{7907}{}{Trzeba by³o nie w³aziæ na odcisk Kafarowi.}
+{7908}{}{Skorygujê twoj¹ postawê.}
+{7909}{}{Kafar nie przepada za tob¹.}
+{7910}{}{Pêdzisz ekspresem do Piek³a.}
+{7911}{}{Miarka siê przebra³a, ktoœ tu zdechnie!}
+#
+# attacking (10)
+#
+{7912}{}{A masz!}
+{7913}{}{Kafar s¹dzi, ¿e musisz siê nauczyæ szacunku wobec niego.}
+{7914}{}{To wiadomoœæ od Kafara!}
+{7915}{}{To bêdzie bola³o!}
+{7916}{}{Zadzierasz z niew³aœciwym cz³owiekiem.}
+{7917}{}{Kafar przesy³a pozdrowienia.}
+{7918}{}{Za póŸno na przeprosiny.}
+{7919}{}{Nikt nie bêdzie zadzieraæ z Kafarem!}
+{7920}{}{Giñ!}
+{7921}{}{Jak ci TO pasuje?!}
+#
+# target being missed (6)
+#
+{7922}{}{To by³o naprawdê ¿a³osne.}
+{7923}{}{Siedzisz po czubek ³ba w gównie!}
+{7924}{}{Chyba nie umiesz trafiæ w cel.}
+{7925}{}{Nie dasz rady wykonaæ tej roboty.}
+{7926}{}{To by³ twój ostatni b³¹d.}
+{7927}{}{Masz kiepski dzieñ. Nie odchodŸ. Zaraz siê zrobi gorszy.}
+#
+# target hit in head (3)
+#
+{7928}{}{Czacha mnie boli!}
+{7929}{}{Oooo...}
+{7930}{}{Ta menda z³ama³a mi nos!}
+#
+# target hit in left arm
+#
+{7931}{}{Oooo...}
+{7932}{}{Ta menda z³ama³a mi rêkê!}
+{7933}{}{Moja rêka!}
+#
+# target hit in right arm
+#
+{7934}{}{Oooo...}
+{7935}{}{Ta menda z³ama³a mi rêkê!}
+{7936}{}{Moja rêka!}
+#
+# target hit in torso
+#
+{7937}{}{Uuf! ¯aden œmieæ, taki jak ty, mnie nie za³atwi...}
+{7938}{}{Uuf! Moje ¿ebra!}
+{7939}{}{A³! Co ty, chcesz siê do mnie poprzytulaæ, czy co?}
+{7940}{}{Ha! Wiêkszych siniaków dostajê na si³owni!}
+{7941}{}{Uuf! Wy, œmieci, jesteœcie wszystkie takie same...}
+{7942}{}{Ulp! Muszê... oddychaæ...}
+{7943}{}{A³æ!}
+{7944}{}{A³! Odpierdol siê, szczylu!}
+{7945}{}{O kurwa...}
+{7946}{}{Uch! Chyba, mendo, strzaska³aœ mi ¿ebro!}
+#
+# target hit in right leg
+#
+{7947}{}{A³, moja noga!}
+{7948}{}{Oooo...}
+{7949}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{7950}{}{A³, moja noga!}
+{7951}{}{Oooo...}
+{7952}{}{A³, moje kolano!}
+#
+# target hit in eyes
+#
+{7953}{}{Krew. Kurwa, sama krew...}
+{7954}{}{Moje oczy...}
+{7955}{}{To zagranie by³o nieczyste!}
+#
+# target hit in groin
+#
+{7956}{}{Oooooo, moje jaja!}
+{7957}{}{Ooo! Oddam ci tê przys³ugê!}
+{7958}{}{Ooo! Kopiesz sobie grób.}
+{7959}{}{Ooo! Pewnie uwa¿asz, ¿e to zabawne.}
+{7960}{}{Chrup!}
+{7961}{}{A³! Chyba ciê nie lubiê.}
+
+# 71. Little Kids
+# Mommy!
+#
+#  running away
+#
+{8000}{}{Muj tata cie zabije. Poczekaj, jak tu przyjdzie!}
+{8001}{}{Mamo!!!}
+{8002}{}{Niech mi ktoœ pomo¿e!}
+{8003}{}{Pomocy!}
+{8004}{}{Aaaaach!}
+{8005}{}{£aaaaaaaaa!!}
+#
+# moving in to attack
+#
+{8006}{}{Ej, ty!}
+{8007}{}{Nienawidzem cie! Nienawidzem cie!}
+{8008}{}{}
+{8009}{}{Jesteœ pogientym mutantem!}
+{8010}{}{Ktoœ cie powinien rozsarpaæ na kawa³ki!}
+{8011}{}{Zabijem cie!}
+#
+# attacking
+#
+{8012}{}{£bie radskorpiona!}
+{8013}{}{Zabijem cie!}
+{8014}{}{Mutancka ³amaga!}
+{8015}{}{Promieniak-³amaga! Promieniak-³amaga!}
+{8016}{}{Umiraj, paskudo!}
+{8017}{}{Twoja mama by³a kretoscurem!}
+{8018}{}{Robacywy promieniaku!}
+{8019}{}{Zrobiem z ciebie paskude!}
+{8020}{}{Nienawidzem cie!}
+{8021}{}{Kochaœ radskorpionuf! Œpis z radskorpionamy!}
+#
+# target being missed
+#
+{8022}{}{Twoja mama by³a promieniakiem!}
+{8023}{}{Nie mozes mnie dotknoæ, mu¿d¿kó radskorpiona!}
+{8024}{}{Nie potrafis nawet pobiæ dzieciaka.}
+{8025}{}{Cienias!}
+{8026}{}{Pud³o, napromieniowywany mu¿d¿kó!}
+{8027}{}{Co jest, promieniaku? Wrócis do Blasku poryceæ?}
+#
+# target hit in head
+#
+{8028}{}{Moja buzia!}
+{8029}{}{Oooo, to boli...}
+{8030}{}{A³! Moje ucho!}
+#
+# target hit in left arm
+#
+{8031}{}{A³, moja renca!}
+{8032}{}{Oooo, to boli...}
+{8033}{}{Mam pzez ciebie z³amanom rencê! Tatusiu!}
+#
+# target hit in right arm
+#
+{8034}{}{A³, moja renca!}
+{8035}{}{Oooo, to boli}
+{8036}{}{Mam pzez ciebie z³amanom rencê! Tatusiu!}
+#
+# target hit in torso
+#
+{8037}{}{A³!}
+{8038}{}{A³! Mamusiu, ten niedobry ludŸ robi mi kzywdem!}
+{8039}{}{A³æ! To by³o wredziochowe!}
+{8040}{}{A³! Jak urosne, to ja cie pobije!}
+{8041}{}{A³ajæ! A³ajæ! A³ajæ! Mamusiu!}
+{8042}{}{A³! Mój tata jezd wienksy niz twój tata!}
+{8043}{}{Oooo, ja... bendem... ryceæ! £aaaaaa!}
+{8044}{}{A³æ!}
+{8045}{}{A³!}
+{8046}{}{A³! A³! A³! Jezdeœ wredzioch!}
+#
+# target hit in right leg
+#
+{8047}{}{A³, moja noga!}
+{8048}{}{Moje kolanko!}
+{8049}{}{Mam pzez ciebie z³amanom noge! Tatusiu!}
+#
+# target hit in left leg
+#
+{8050}{}{A³, moja noga!}
+{8051}{}{Moje kolanko!}
+{8052}{}{Mam pzez ciebie z³amanom noge! Tatusiu!}
+#
+# target hit in eyes
+#
+{8053}{}{Aaaaaa³³³³³³aaaaaa!!!}
+{8054}{}{Dokond wsyscy poszli?}
+{8055}{}{Wsystko jest carne...}
+#
+# target hit in groin
+#
+{8056}{}{Oooooo, mój klejnocik!}
+{8057}{}{A³! Ty brudny, œmierdzoncy promieniaku!}
+{8058}{}{Chrup!}
+{8059}{}{Nie... mogem... z³apaæ... decha...}
+{8060}{}{Ooooo...}
+{8061}{}{Ale boli, ale boli...}
+
+# 72. Robots
+# Target acquired
+#
+#  running away
+#
+{8100}{}{Opcja "odwrót" uruchomiona.}
+{8101}{}{Aktualny plan taktyczny: odwrót.}
+{8102}{}{Zdolnoœæ bojowa: minimalna. Zalecany: odwrót.}
+{8103}{}{Analiza taktyczna ukoñczona. Rekomendowany: odwrót.}
+{8104}{}{Pobieranie programu "ewakuacja".}
+{8105}{}{Procedura odwrotu uruchomiona.}
+#
+# moving in to attack
+#
+{8106}{}{Cel namierzony!}
+{8107}{}{Wyeliminowaæ! Wyeliminowaæ!}
+{8108}{}{Nie mo¿na dopuœciæ do ucieczki humanoida.}
+{8109}{}{Wyeliminowaæ intruza.}
+{8110}{}{Procedura walki uruchomiona.}
+{8111}{}{Pobieranie programu "walka".}
+#
+# attacking
+#
+{8112}{}{Procedura walki uruchomiona.}
+{8113}{}{Cel atakowany.}
+{8114}{}{Uruchamianie procedury ataku.}
+{8115}{}{Intruz musi ulec zniszczeniu!}
+{8116}{}{Selekcja opcji taktycznych ukoñczona.}
+{8117}{}{Podjêcie ataku.}
+{8118}{}{Cel ulegnie zniszczeniu.}
+{8119}{}{Procedura eliminacji wroga rozpoczêta.}
+{8120}{}{Cel musi ulec eliminacji.}
+{8121}{}{Selekcja opcji ofensywnych ukoñczona.}
+#
+# target being missed
+#
+{8122}{}{Analiza: program defensywny efektywny.}
+{8123}{}{Analiza: dzia³ania ofensywne celu nieefektywne.}
+{8124}{}{Atak celu nieefektywny. Ustalanie reakcji.}
+{8125}{}{Jednostka nie uleg³a uszkodzeniu wskutek ataku.}
+{8126}{}{Przeszacowanie potencja³u ofensywnego celu.}
+{8127}{}{Analiza: cel pope³ni³ b³¹d w procesie selekcji opcji taktycznych. Jednostka nieuszkodzona.}
+#
+# target hit in CPU
+#
+{8128}{}{Uwaga! Zarejestrowano awariê procesora!}
+{8129}{}{Uwaga! Procesor uszkodzony! Spadek mocy obliczeniowej!}
+{8130}{}{Uwaga! Procesor uszkodzony! Przekierowywanie podstawowych operacji!}
+#
+# target hit in left manipulator
+#
+{8131}{}{Zarejestrowano uszkodzenie manipulatora.}
+{8132}{}{Jednostka ugodzona w lewy manipulator. Szacowanie uszkodzeñ.}
+{8133}{}{Zarejestrowano trafienie manipulatora. Próba kompensacji.}
+#
+# target hit in right manipulator
+#
+{8134}{}{Zarejestrowano uszkodzenie manipulatora.}
+{8135}{}{Jednostka ugodzona w prawy manipulator. Szacowanie uszkodzeñ.}
+{8136}{}{Zarejestrowano trafienie manipulatora. Próba kompensacji.}
+#
+# target hit in frame
+#
+{8137}{}{Korpus trafiony. Reperacja uszkodzeñ.}
+{8138}{}{Korpus trafiony. Wewnêtrzne naprawy rozpoczête.}
+{8139}{}{G³ówna struktura atakowana.}
+{8140}{}{Pancerz uleg³ penetracji.}
+{8141}{}{G³ówna struktura atakowana. Reperacja uszkodzeñ.}
+{8142}{}{Jednostka atakowana.}
+{8143}{}{Próba podjêcia manewru bojowego.}
+{8144}{}{Bzzzyt!}
+{8145}{}{Drobne uszkodzenie.}
+{8146}{}{Bzzzyt!}
+#
+# target hit in right motivator
+#
+{8147}{}{Zarejestrowano uszkodzenie motywatora.}
+{8148}{}{Jednostka ugodzona w prawy motywator. Szacowanie uszkodzeñ.}
+{8149}{}{Zarejestrowano trafienie motywatora. Próba kompensacji.}
+#
+# target hit in left motivator
+#
+{8150}{}{Zarejestrowano uszkodzenie motywatora.}
+{8151}{}{Jednostka ugodzona w lewy motywator. Szacowanie uszkodzeñ.}
+{8152}{}{Zarejestrowano trafienie motywatora. Próba kompensacji.}
+#
+# target hit in sensors
+#
+{8153}{}{Czujnik trafiony! Czujnik trafiony!}
+{8154}{}{Spadek efektywnoœci czujników! Spadek efektywnoœci czujników!}
+{8155}{}{Awaria systemu czujników, próba obejœcia uszkodzeñ.}
+#
+# target hit in regulator
+#
+{8156}{}{Zarejestrowano awariê regulatora!}
+{8157}{}{Regulator uszkodzony! Spadek efektywnoœci regulacji!}
+{8158}{}{Regulator uszkodzony! Przekierowywanie podstawowych operacji!}
+
+# 73. Marcelles - woman
+# Nobody trashes my place and gets away with it!
+#
+#  running away
+#
+{8200}{}{Ja za to nie bêdê zdycha³a!}
+{8201}{}{Ta robota nie jest tego warta!}
+{8202}{}{Niech ktoœ inny ich siê za nich weŸmie!}
+{8203}{}{Ju¿ po mojej reputacji...}
+{8204}{}{Rety!}
+{8205}{}{Z tym nie bêdê walczy³a!}
+#
+# moving in to attack
+#
+{8206}{}{Tylko nie kolejny palant!}
+{8207}{}{To by³o przegiêcie pa³y!}
+{8208}{}{Tutaj nie ujdzie ci to na sucho!}
+{8209}{}{Takie numery, to nie na mojej zmianie!}
+{8210}{}{U mnie nikt takich rzeczy nie bêdzie wyrabia³!}
+{8211}{}{Ej, ty!}
+#
+# attacking
+#
+{8212}{}{W³aœnie to robiê rozrabiakom!}
+{8213}{}{Zmów paciorek...}
+{8214}{}{To ciê nauczy nie sprawiaæ k³opotów.}
+{8215}{}{Kolej na ciebie!}
+{8216}{}{Zaraz ciê zetnê z nóg.}
+{8217}{}{Zobaczmy, co z ciebie za twardziel...}
+{8218}{}{Œmieciu!}
+{8219}{}{Teraz ¿a³ujesz?}
+{8220}{}{Myœlisz, ¿e ujdzie ci to na sucho?}
+{8221}{}{Takie ³ajzy jak ty, to ja jadam na œniadanie.}
+#
+# target being missed
+#
+{8222}{}{Oddajesz strza³y ostrzegawcze, czy jesteœ zwyczajn¹ pierdo³¹?!}
+{8223}{}{Nie jesteœ tylko œmieciem, jesteœ nieudolnym œmieciem!}
+{8224}{}{Kurde, jesteœ do dupy!}
+{8225}{}{Na wiêcej ciê nie staæ?}
+{8226}{}{Chyba nie liczysz, ¿e ci siê uda daæ mi berka, prawda?}
+{8227}{}{Jesteœ pierdo³¹ od urodzenia, czy dopiero od niedawna?}
+#
+# target hit in head
+#
+{8228}{}{Mam przez ciebie z³amany nos!}
+{8229}{}{I tak nie potrzebowa³am tego ucha.}
+{8230}{}{Kurwa! To bola³o!}
+#
+# target hit in left arm
+#
+{8231}{}{A³, moja rêka!}
+{8232}{}{Mo¿esz zrobiæ ze mnie kalekê, ale i tak skopiê ci zad.}
+{8233}{}{To by³ b³¹d.}
+#
+# target hit in right arm
+#
+{8234}{}{A³, moja rêka!}
+{8235}{}{Mo¿esz zrobiæ ze mnie kalekê, ale i tak skopiê ci zad.}
+{8236}{}{To by³ b³¹d.}
+#
+# target hit in torso
+#
+{8237}{}{A³!}
+{8238}{}{To by³ b³¹d.}
+{8239}{}{Uuf!}
+{8240}{}{A³! OK, miarka siê przebra³a!}
+{8241}{}{A³! Teraz to jestem wœciek³a!}
+{8242}{}{Uuf!}
+{8243}{}{Uch!}
+{8244}{}{A³æ!}
+{8245}{}{Uuf! Wezmê tê œrutówê i wepchnê ci j¹ w odbyt!!}
+{8246}{}{Ulp!}
+#
+# target hit in right leg
+#
+{8247}{}{Tylko nie kolejna rozwalona noga! A, trudno...}
+{8248}{}{Mo¿esz zrobiæ ze mnie kalekê, ale i tak skopiê ci zad.}
+{8249}{}{To by³ b³¹d.}
+#
+# target hit in left leg
+#
+{8250}{}{Tylko nie kolejna rozwalona noga! A, trudno...}
+{8251}{}{Mo¿esz zrobiæ ze mnie kalekê, ale i tak skopiê ci zad.}
+{8252}{}{To by³ b³¹d.}
+#
+# target hit in eyes
+#
+{8253}{}{Nic nie widzê! Zaczynasz mnie wkurzaæ!}
+{8254}{}{Nie muszê ciê widzieæ, ¿eby ciê zabiæ!}
+{8255}{}{A³! To zwyk³e szczêœcie...}
+#
+# target hit in groin
+#
+{8256}{}{Oooooo, moja pizda!}
+{8257}{}{Robisz teraz z tego sprawê osobist¹!}
+{8258}{}{Krocze. Ostatnie schronienie ³ajdaków wszelkiej maœci.}
+{8259}{}{Jestem kobiet¹, ty ciapo.}
+{8260}{}{Dobierasz siê do niew³aœciwej kobiety.}
+{8261}{}{Chrup!}
+
+# 74. Rats
+# Squeak!
+#
+#  running away
+#
+{8300}{}{Pi!}
+#
+# target being missed
+#
+{8301}{}{Pi!!}
+#
+# target hit in torso
+#
+{8302}{}{Pi!}
+#
+# target hit in groin
+#
+{8303}{}{Pi...}
+
+# 75. Ian
+# former caravan guard
+#
+#  running away
+#
+{8400}{}{Czas st¹d zmiataæ!}
+{8401}{}{Aaaach!}
+{8402}{}{Odwrót!}
+#
+# moving in to attack
+#
+{8403}{}{To bêdzie ciê zajebiœcie bola³o, a mnie wcale.}
+{8404}{}{Skopiê ci dupê.}
+{8405}{}{Postaram siê to szybko za³atwiæ.}
+#
+# attacking
+#
+{8406}{}{Zobaczmy, czy ci siê to spodoba.}
+{8407}{}{A masz!}
+{8408}{}{Mam ciê!}
+#
+# target being missed
+#
+{8409}{}{Ty pierdo³o!}
+{8410}{}{Bardziej siê postaraj!}
+#
+# target hit in head
+#
+{8411}{}{Kurwa maæ, to boli!}
+{8412}{}{Ta ³ajza z³ama³a mi nos!}
+#
+# target hit in left arm
+#
+{8413}{}{Ach! Ta menda z³ama³a mi rêkê!}
+{8414}{}{Rozwali³o mi rêkê!}
+#
+# target hit in right arm
+#
+{8415}{}{Ach! Ta menda z³ama³a mi rêkê!}
+{8416}{}{Rozwali³o mi rêkê!}
+#
+# target hit in torso
+#
+{8417}{}{Uuf!}
+{8418}{}{Uch!}
+{8419}{}{Zap³acisz mi za to...}
+{8420}{}{No dawaj, spróbuj to powtórzyæ!}
+#
+# target hit in right leg
+#
+{8421}{}{A³! Ta menda z³ama³a mi nogê!}
+{8422}{}{Uch! Moje kolano!}
+#
+# target hit in left leg
+#
+{8423}{}{A³! Ta menda z³ama³a mi nogê!}
+{8424}{}{Uch! Moje kolano!}
+#
+# target hit in eyes
+#
+{8425}{}{Aach! Nic nie widzê!}
+{8426}{}{Jestem przez ciebie œlepy, ty zasrañcu!}
+#
+# target hit in groin
+#
+{8427}{}{Ooooch...}
+
+# 76. Tycho
+# Desert ranger
+#
+#  running away
+#
+{8500}{}{Czas na taktyczny odwrót.}
+#
+# moving in to attack
+#
+{8501}{}{Nie zajmie mi to d³ugo.}
+{8502}{}{Wkraczam.}
+#
+# attacking
+#
+{8503}{}{¯ryj to.}
+{8504}{}{¯yczê ci mi³ego dnia.}
+{8505}{}{Mam cósik dla ciebie.}
+#
+# target being missed
+#
+{8506}{}{Niezupe³nie.}
+{8507}{}{Blisko, ale to nie by³a atomówka.}
+#
+# target hit in head
+#
+{8508}{}{A³. Dobry strza³.}
+{8509}{}{Uch.}
+{8510}{}{Straci³em kolejny kawa³ek ucha...}
+{8511}{}{Kurwa maæ, i po kolejnym sembie...}
+#
+# target hit in left arm
+#
+{8512}{}{Uch.}
+{8513}{}{Tak czy siak, nie potrzebowa³em tej rêki.}
+#
+# target hit in right arm
+#
+{8514}{}{A³.}
+{8515}{}{Kurwa maæ, t¹ rêk¹ strzelam.}
+#
+# target hit in torso
+#
+{8516}{}{A³.}
+{8517}{}{Kurwa maæ, kolejne rozjebane ¿ebro.}
+{8518}{}{Jak chcesz mnie zabiæ, wal w g³owê.}
+#
+# target hit in right leg
+#
+{8519}{}{Mo¿esz mnie spowolniæ, ale i tak ciê dorwê.}
+{8520}{}{Mia³em ju¿ z³aman¹ nogê.}
+#
+# target hit in left leg
+#
+{8521}{}{Mo¿esz mnie spowolniæ, ale i tak ciê dorwê.}
+{8522}{}{Mia³em ju¿ z³aman¹ nogê.}
+#
+# target hit in eyes
+#
+{8523}{}{No, tak siê walczy nieczysto.}
+{8524}{}{Je¿eli oœlepnê, bêdê siê nad tob¹ znêcaæ, zanim ciê zabijê.}
+#
+# target hit in groin
+#
+{8525}{}{Uch! Odwal siê!}
+{8526}{}{Och, moje jaja...}
+{8527}{}{No, TO dopiero bola³o.}
+
+# 77. Vault Dwellers
+# We just want to live in peace - and, oh, why did you come back?
+#
+#  running away
+#
+{8600}{}{Muszê st¹d uciec!}
+{8601}{}{Wycofujê siê z tej walki.}
+{8602}{}{Co siê z tob¹ sta³o?}
+{8603}{}{Niech mi ktoœ pomo¿e!}
+{8604}{}{To dla mnie zdecydowanie za wysokie progi.}
+{8605}{}{Mój Bo¿e, nie!}
+#
+# moving in to attack
+#
+{8606}{}{Zdrada!}
+{8607}{}{Nie mogê uwierzyæ, ¿e to twoje dzie³o!}
+{8608}{}{Powierzchnia najwyraŸniej musi doprowadzaæ ludzi do szaleñstwa!}
+{8609}{}{Odebra³o ci rozum!}
+{8610}{}{Broniæ Krypty!}
+{8611}{}{Wydawa³o mi siê, ¿e siê przyjaŸnimy!}
+#
+# attacking
+#
+{8612}{}{Trzeba by³o nie wracaæ!}
+{8613}{}{A pomyœleæ, ¿e jesteœmy ziomkami!}
+{8614}{}{¯a³ujê, ¿e okolicznoœci zmusi³y ciê do wyjœcia na powierzchniê.}
+{8615}{}{Witaj wœród przyjació³.}
+{8616}{}{Wybawiê ciê z twej niedoli.}
+{8617}{}{Wybawiê ciê z mej niedoli.}
+{8618}{}{To mi nie sprawia przyjemnoœci.}
+{8619}{}{Ty wœciek³y szczurku jaskiniowy!}
+{8620}{}{Muszê ciê uœpiæ.}
+{8621}{}{Jesteœ zwyk³ym ³obuzem i do tego kapusiem!}
+#
+# target being missed
+#
+{8622}{}{Uchylenie siê przed tym by³o banalnie proste.}
+{8623}{}{Nawet w dzieciñstwie zdarza³o ci siê lepiej walczyæ.}
+{8624}{}{Cel ci siê nie poprawi³.}
+{8625}{}{Nadal doznajesz pora¿ki za ka¿dym razem, gdy próbujesz tego manewru.}
+{8626}{}{Nigdy nie uda³o ci siê mnie pobiæ.}
+{8627}{}{Jakim cudem to w³aœnie ciebie wybrano do wyjœcia na powierzchniê?}
+#
+# target hit in head
+#
+{8628}{}{Och, boli mnie czaszka!}
+{8629}{}{Uch!}
+{8630}{}{Ooo...}
+#
+# target hit in left arm
+#
+{8631}{}{Moja rêka!}
+{8632}{}{A³! S¹dz¹c po odg³osie, coœ pêk³o...}
+{8633}{}{Nie mam czucia w rêce.}
+#
+# target hit in right arm
+#
+{8634}{}{Moja rêka!}
+{8635}{}{A³! S¹dz¹c po odg³osie, coœ pêk³o...}
+{8636}{}{Nie mam czucia w rêce.}
+#
+# target hit in torso
+#
+{8637}{}{A³!}
+{8638}{}{Uuf! A wydawa³o mi siê, ¿e siê przyjaŸnimy...}
+{8639}{}{Uuf!}
+{8640}{}{A³! OK, miarka siê przebra³a!}
+{8641}{}{A³! Doprowadzasz mnie do wœciek³oœci!}
+{8642}{}{Uuf!}
+{8643}{}{Uch!}
+{8644}{}{A³æ!}
+{8645}{}{Nadal uderzasz jak maminsynek.}
+{8646}{}{Ulp!}
+#
+# target hit in right leg #
+{8647}{}{A³!}
+{8648}{}{Moja noga zaczyna nabrzmiewaæ!}
+{8649}{}{A³, moje kolano!}
+#
+# target hit in left leg
+#
+{8650}{}{Hej, jeszcze potrzebujê tej nogi!}
+{8651}{}{Moja noga zaczyna nabrzmiewaæ!}
+{8652}{}{A³æ, moje kolano!}
+#
+# target hit in eyes
+#
+{8653}{}{Aaaach!}
+{8654}{}{Ty smarkaty bêkarcie!}
+{8655}{}{Moje oczy!}
+#
+# target hit in groin
+#
+{8656}{}{Nadal gustujesz w ciosach poni¿ej pasa...}
+{8657}{}{Nigdy siê nie zmienisz, nieprawda¿?}
+{8658}{}{Bywa³o lepiej...}
+{8659}{}{Ooo, mój klejnocik!}
+{8660}{}{Nadal jesteœ stosuj¹cym najpodlejsze chwyty wojownikiem w ca³ej Krypcie.}
+{8661}{}{Ty zapchlony szczurku jaskiniowy!}
+
+# 78. Garl during Honor Fight
+# I'm fighting you over Tandi.  I shall triumph, unless you win!
+#
+#  running away
+#
+{8700}{}{OK, mo¿esz j¹ wzi¹æ!}
+{8701}{}{Ta suka jest twoja!}
+{8702}{}{Tandi jest twoja. IdŸ precz!}
+{8703}{}{OK, mo¿esz j¹ wzi¹æ!}
+{8704}{}{Tandi jest twoja. IdŸ precz!}
+{8705}{}{Ta suka jest twoja!}
+#
+# moving in to attack
+#
+{8706}{}{Niech siê rozpocznie honorowy pojedynek!}
+{8707}{}{}
+{8708}{}{}
+{8709}{}{Ta cipa jest moja!}
+{8710}{}{Chanowie atakuj¹!}
+{8711}{}{}
+#
+# attacking (10)
+#
+{8712}{}{}
+{8713}{}{}
+{8714}{}{Jestem najlepszy!}
+{8715}{}{RAAAAAAARRRR!!}
+{8716}{}{}
+{8717}{}{}
+{8718}{}{To JA ciê zabijê!}
+{8719}{}{}
+{8720}{}{}
+{8721}{}{}
+#
+# target being missed (6)
+#
+{8722}{}{}
+{8723}{}{}
+{8724}{}{}
+{8725}{}{Mój honor jest silniejszy od twojego!}
+{8726}{}{}
+{8727}{}{Nie zas³ugujesz, by ze mn¹ walczyæ!}
+#
+# target hit in head (3)
+#
+{8728}{}{Zacny cios!}
+{8729}{}{}
+{8730}{}{}
+#
+# target hit in left arm
+#
+{8731}{}{}
+{8732}{}{Mam z³aman¹ rêkê! Teraz walka bêdzie uczciwa!}
+{8733}{}{}
+#
+# target hit in right arm
+#
+{8734}{}{}
+{8735}{}{Mam z³aman¹ rêkê! Teraz walka bêdzie uczciwa!}
+{8736}{}{}
+#
+# target hit in torso
+#
+{8737}{}{}
+{8738}{}{}
+{8739}{}{}
+{8740}{}{Uuf!}
+{8741}{}{A³æ!}
+{8742}{}{}
+{8743}{}{}
+{8744}{}{}
+{8745}{}{}
+{8746}{}{Uch! To bola³o!}
+
+#
+# target hit in right leg
+#
+{8747}{}{}
+{8748}{}{To cios poni¿ej pasa!}
+{8749}{}{}
+#
+# target hit in left leg
+#
+{8750}{}{}
+{8751}{}{To cios poni¿ej pasa!}
+{8752}{}{}
+#
+# target hit in eyes
+#
+{8753}{}{}
+{8754}{}{}
+{8755}{}{To nie by³o honorowe!}
+#
+# target hit in groin
+#
+{8756}{}{Oooooo, moje dzwony!}
+{8757}{}{}
+{8758}{}{}
+{8759}{}{}
+{8760}{}{Chrup!}
+{8761}{}{Nie pozbawisz mnie mêskoœci!}
+

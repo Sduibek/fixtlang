@@ -1,0 +1,69 @@
+{100}{}{A Testvériség egyik Perjelét látod.}
+{101}{}{Üdvözletem, Újonc! Beszélnem kell veled. (Int, hogy húzódj közelebb.)}
+{102}{}{Mirõl kéne beszélnünk?}
+{103}{}{Most nincs erre idõm.}
+{104}{}{Ööö?}
+{105}{}{Van egy fontos dolog, melyhez szükségem van a segítségedre. Maxsonról van szó. Eléggé biztosak vagyunk, hogy valami nem stimmel vele. Egyfolytában egy északon gyülekezõ seregrõl zagyvál.}
+{106}{}{ Addig nem akarom a csapataimat arra a radioaktív területre küldeni, amíg egészen biztos nem vagyok, hogy ez a "sereg" létezik.}
+{107}{}{ Kell nekem egy ember, aki nem barátja az öregnek. Egy olyasvalaki, akitõl õszinte jelentéseket kaphatok. Hajlandó lennél átkutatni azt a régiót?}
+{108}{}{Hajlandó.}
+{109}{}{Most nem érek rá. Egy csomó egyéb elintéznivalóm van.}
+{110}{}{Már találtam egy északon fekvõ katonai bázist. Egy egész sereg mutáns vette be magát oda.}
+{111}{}{Jól van... elõször is beszélj Maxsonnal, ha még nem tetted volna! Akkor gyere vissza hozzám, ha átnézted az északi területet. Utána eldöntjük, mi legyen Maxsonnal.}
+{112}{}{Kívánjon szerencsét!}
+{113}{}{Átfésülted az egész északi territóriumot?}
+{114}{}{Át bizony.}
+{115}{}{Nem, még nem.}
+{116}{}{És mi jelentenivalód van?}
+{117}{}{Találtam egy bázist, amit állig felfegyverzett mutánsok õriznek. Elég aggasztónak tûnt.}
+{118}{}{Nem hinném. Nem túl régóta mentél el. Menj vissza most azonnal, és addig ne gyere vissza, amíg TELJES jelentést nem tudsz adni.}
+{119}{}{Igenis, uram.}
+{120}{}{Értesíteni fogom a Perjeleket. Várni fogunk Maxson döntésére, mitévõk legyünk. Menj, mondd el neki, mire leltél! Amúgy köszönjük a segítséget, Újonc.}
+{121}{}{Szíves-örömest tettem.}
+{122}{}{Akkor idõt tud szakítani, hogy végighallgasson.}
+{123}{}{Hallgatlak.}
+{124}{}{Menjen maga a sunyiba, vén tata!}
+{125}{}{Felejtsük el! Sokkal fontosabb elintézendõ ügyeim vannak.}
+{126}{}{Megértem. Ha valamiképp az északi irányba vetõdnél, és találsz valamit, kérlek, tudasd velem!}
+{127}{}{Rendben, ha találok valamit, ami feltûnõen hasonlít egy hadseregre, azonnal szólok.}
+{128}{}{Jó munkát végeztél mutánsügyben. Az is tudomásunkra jutott, hogy megsemmisítetted a gyártóüzemüket. Köszönjük, hogy ezt a problémát sikeresen megoldottad számunkra.}
+{129}{}{Nem gond...}
+{130}{}{Ööö? Miféle válasz az, hogy "Ööö"? Távozz innen! Szedd a lábad!}
+{131}{}{Ha tõlem függne a dolog, már nem lennél itt.}
+{132}{}{Nincs mit mondanom neked...}
+{133}{}{Tanulnod kéne egy kis tiszteletet.}
+{134}{}{A megbeszélés rögvest elkezdõdik. Az összes Perjel itt tartózkodik, és megállapodtak abban, hogy meghallgatják }
+{135}{}{ Testvér szavait. Utána majd eldöntjük, mitévõk legyünk. }
+{136}{}{ Testvér, meséld el nekünk, mit láttál északon!}
+{137}{}{A terület átfésülése során találtam egy mutánsok által használt katonai létesítményt. Erõs õrség vigyáz rá, és rendre járõröznek is körülötte.}
+{138}{}{Norfa?}
+{139}{}{No és hogy néznek ki ezek a mutánsok?}
+{140}{}{Szép nagy darab humanoidok. Az izomtömegük sokkal jelentõsebb, mint amit egy átlagos ember valaha is magára szedhetne. Úgy tûnik, sokan õrzik a bejárati kaput, és nagyon szervezettek.}
+{141}{}{Nagyok, zöldes színûek és fegyvert viselnek.}
+{142}{}{Amint arról már hallhattál, fõkrónikásunk, Vree boncolást hajtott végre egy az általad leírt mutánshoz szerfelett hasonlító lényen. Lehetséges szerinted, hogy egy és ugyanazon teremtményrõl van szó?}
+{143}{}{Lehetséges. A teremtmény leírása szinte megegyezik.}
+{144}{}{Véleményed szerint milyen fenyegetést jelentenek ezek a "mutánsok"?}
+{145}{}{Ahogy a Testvériség is felszerelkezett egy igazi csatára, ez a "mutáns sereg" szintén valami nagy dologra készül.}
+{146}{}{Õszintén megvallva, a jelentésed nem adott elég bizonyítékot, hogy fenyegetést jelentenek számunkra. Mivel tudod számunkra bizonyítani, hogy a szándékaik ellenségesek?}
+{147}{}{Megszállták Nekropoliszt, és nem fognak ott megállni. }
+{148}{}{Hadsereget toboroztak. Komoly, erõs sereget. Nyilvánvaló, hogy nem parádézni akarnak, hanem be akarják vetni.}
+{149}{}{Szóval az eddigi tetteik alapján elképzelhetõ, hogy alkalmasint ide is elvetõdnek?}
+{150}{}{Az sem lehetetlen, hogy máris úton vannak. A Testvériség az egyetlen erõ, amely ellenállást jelenthet nekik.}
+{151}{}{Nem hinném, hogy ez ellenséges szándéra utal. Lehetséges, hogy csak meg akarják magukat védeni egy támadástól. Ezzel a problémával néha nekünk is szembe kell néznünk.}
+{152}{}{Ha neaggyisten betámadnának, nem olyan lesz, mint egy hézköznapi piszkálódás a Fosztogatók részérõl. Igazi mészárlás várható. }
+{153}{}{Mivel abból a régi katonai bázisból jönnek, elképzelhetõnek tartom, hogy a magukhoz hasonló fegyvereket használnak.}
+{154}{}{Mire akarsz kilyukadni? Mérjünk megelõzõ csapást a katonai bázisukra?}
+{155}{}{Igen. Nem akarom, hogy tudjanak a jövetelünkrõl. Egy kisebb csapatnak jobb esélye lenne, hogy észrevétlenül megközelítsék a külsõ védelmüket. }
+{156}{}{Ez a problémának csak az egyik felét oldja meg. Egy csonttelepi Katedrálisból származó csoport vezeti õket.}
+{157}{}{Legyen hát. Kapsz három általam választott Paladint, akikkel a Katonai bázisnál találkozol majd, és együttes erõvel bejuttok. Perjeltársaim, köszönöm, hogy idõt szakítottatok erre az ügyre. Sok szerencsét, Újonc!}
+{158}{}{Ha a csonttelep Katedrálisának egyik csoportja irányítja õket, akkor arra is van esély, hogy egy kisebb sereg délen is tartózkodik. }
+{159}{}{Ha északon kicsináljuk õket, a déli hadtestünk sebezhetõ lesz. Erre a feladatra csak néhány embert tudok nélkülözni.}
+{160}{}{Adjon nekem egy-két Paladint, hogy kifüstölhessük az északi bázisukat.}
+{161}{}{Adjon nekem egy-két Paladint, hogy kifüstölhessük a déli bázisukat.}
+{162}{}{Legyen hát. Kapsz két általam választott Paladint, akikkel a csonttelepi Katedrálisnál találkozol majd, és együttes erõvel bejuttok. Perjeltársaim, köszönöm, hogy idõt szakítottatok erre az ügyre. Sok szerencsét, Újonc!}
+{163}{}{Legyen hát. Kapsz három általam választott Paladint, akikkel a Katonai bázisnál találkozol majd, és együttes erõvel bejuttok. Perjeltársaim, köszönöm, hogy idõt szakítottatok erre az ügyre. Sok szerencsét, Újonc!}
+{164}{}{Nyilvánvaló, hogy hibát követtünk el, Perjeltársaim. Sajnálom, hogy raboltam az idõtöket. Valaki eltávolítaná kérem ezt a mentális rémet?}
+{165}{}{Túlságosan lefoglal most ez a védelmi stratégia terv.}
+{166}{}{You earn }
+{167}{}{ experience for convincing the Brotherhood of Steel to help you take out the Mariposa military base.}
+

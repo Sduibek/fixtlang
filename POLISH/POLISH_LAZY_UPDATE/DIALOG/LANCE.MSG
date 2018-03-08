@@ -1,0 +1,112 @@
+{100}{}{To znu¿ony podró¿nik.}
+{101}{}{To Lance, jeden ze Stra¿ników Cienistych Piasków, wchodz¹cych w sk³ad patroli dalekiego zasiêgu.}
+{102}{}{Zostañ tam, gdzie stoisz. S³yszeliœmy o tobie w Cienistych Piaskach, i nie chcemy mieæ z tob¹ nic wspólnego.}
+{103}{}{Jedyne, co ja chcê mieæ z tob¹ wspólnego, to rzeczy, które masz przy sobie. Wyk³adaj je.}
+{104}{}{Mam pokojowe usposobienie, przyjacielu.}
+{105}{}{Hej, czy ocalenie Tandi i wybicie wszystkich waszych radskorpionów nie by³o moj¹ zas³ug¹?}
+{106}{}{Nie mam na pieñku z Cienistymi Piaskami. Jakoœ lubiê to miejsce.}
+{107}{}{Herung?}
+{108}{}{S³ysza³em o tobie, i nie dam ci siê zabiæ.}
+{109}{}{Nie mam ci nic do powiedzenia.}
+{110}{}{Ta? Czego znowu chcesz?}
+{111}{}{Nie wiesz przypadkiem, gdzie mo¿na znaleŸæ hydroprocesor?}
+{112}{}{S¹ jakieœ œlady Tandi?}
+{113}{}{By³y ostatnio jakieœ problemy z najeŸdŸcami?}
+{114}{}{Jak siê maj¹ sprawy w Cienistych Piaskach?}
+{115}{}{Hnng!}
+{116}{}{Witaj. Co ciê sprowadza na pustkowie? Sk¹d jesteœ?}
+{117}{}{Mogê ciê spytaæ o to samo.}
+{118}{}{Wybacz, ale mam wra¿enie, ¿e odpowiadaæ na to pytanie jest nader niebezpiecznie.}
+{119}{}{Znasz jakieœ dobre miejsce, ¿eby zdobyæ zapasy?}
+{120}{}{Jestem z Krypty. Szczêœliwej Krypty 13!}
+{121}{}{Cuuuu?}
+{122}{}{Witaj. Radzê ci siê nie zatrzymywaæ, jeœli wiesz, co le¿y w twoim interesie.}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+{123}{}{Witaj, }
+{124}{}{. Kiedy uda³o ci siê uratowaæ Tandi, myœla³em, ¿e jesteœ naszym przyjacielem, ale teraz kr¹¿¹ o tobie naprawdê paskudne pog³oski. Czy s¹ prawdziwe?}
+{125}{}{Ludzie gadaj¹ najró¿niejsze rzeczy. Kto by siê tym przejmowa³?}
+{126}{}{Nie jestem twoim przyjacielem. A jak zrobisz niew³aœciwy ruch, wyprujê ciê flaki. Kapujesz?}
+{127}{}{Co to za pog³oski?}
+{128}{}{Ta. To wszystko prawda. Teraz wyk³adaj twoje rzeczy, bo chcê je wzi¹æ.}
+{129}{}{Mo¿e i ¿a³ujê paru moich czynów, ale ty powinieneœ mieæ wiêcej oleju w g³owie, ¿eby nie wierzyæ w te bzdury.}
+{130}{}{! Jak siê cieszê, ¿e to ty, a nie jakiœ najeŸdŸca! Jak leci! Jestem Lance, jeden ze Stra¿ników w Cienistych Piaskach. Wybacz, ¿e robiliœmy ci takie nieprzyjemnoœci w czasie twojej pierwszej wizyty w naszej osadzie!}
+{131}{}{Czeœæ, Lance, co s³ychaæ?}
+{132}{}{Czeœæ, Lance. Niegdyœ mo¿na mnie by³o uwa¿aæ za mi³¹ osobê, ale potem ¿ycie wydyma³o mnie bez namydlenia. Teraz wyjmuj i oddawaj twoje rzeczy.}
+{133}{}{Nie podniecaj siê tak, Lance. Co tutaj robisz sam?}
+{134}{}{Niech bêdzie. Ale zapamiêtam to sobie.}
+{135}{}{Wal siê.}
+{136}{}{OszczêdŸ mi tych ja³owych pogró¿ek, ch³opcze. Dzieci, takie jak ty, zabijam œpi¹c. Oddawaj twoje ruchomoœci, to mo¿e pozwolê ci ¿yæ.}
+{137}{}{Je¿eli naprawdê uwa¿asz mnie za zagro¿enie, to nie krêpuj siê i mnie zabij.}
+{138}{}{Zróbmy niew³aœciwy ruch. Zawsze siê chcia³em przekonaæ, jak wygl¹daj¹ moje flaki.}
+{139}{}{Co by³o, a nie jest, nie pisze siê w rejestr. Co zdarzy³o ci siê zrobiæ dla nas ostatnio? Myœlê, ¿e lepiej bêdzie, jak odejdziesz, zanim siê wkurzê.}
+{140}{}{My te¿ je lubimy. Zw³aszcza kiedy ciebie tam nie ma. Teraz zje¿d¿aj!}
+{141}{}{Rany, musisz spêdzaæ za du¿o czasu w Blasku!}
+{142}{}{Nie wiem, czym jest hydroprocesor. Wybacz.}
+{143}{}{To elektroniczne urz¹dzenie wykorzystywane w systemach uzdatniania wody.}
+{144}{}{Jak tam problem z radskorpionami?}
+{145}{}{Dorwali j¹ najeŸdŸcy. Jestem cz³onkiem jednej z grup poszukiwawczych. Myœlê, ¿e jest w obozie najeŸdŸców na po³udnie od Cienistych Piasków, ale Chanowie zabarykadowali siê tam jak w fortecy.}
+{146}{}{Mo¿esz mnie zaprowadziæ do Cienistych Piasków?}
+{147}{}{Mo¿esz mnie zaprowadziæ do Chanów?}
+{148}{}{Musimy znaleŸæ sposób, ¿eby j¹ uwolniæ.}
+{149}{}{Dziêki za informacje. Powodzenia w poszukiwaniach.}
+{150}{}{A, tak, ale idzie nam trochê lepiej, odk¹d Chanowie dostali po ich cholernym nosie. Rozumiem, ¿e zawdziêczamy to tobie. Jesteœmy wdziêczni.}
+{151}{}{Drobny dowód wdziêcznoœci by nie zaszkodzi³.}
+{152}{}{Dziêki. Mogê zrobiæ coœ jeszcze?}
+{153}{}{Dajcie mi znaæ, jeœli bêd¹ was znowu nêkaæ.}
+{154}{}{Dobrze sobie radzimy.}
+{155}{}{Jesteœ tego pewny?}
+{156}{}{To wspaniale.}
+{157}{}{Nie mam pojêcia, o co ci chodzi. Matole.}
+{158}{}{OK, zaufam ci. Jestem z Cienistych Piasków. Nasza spo³ecznoœæ jest niedaleko st¹d.}
+{159}{}{Móg³byœ mnie tam zaprowadziæ?}
+{160}{}{Jaka jest ta osada?}
+{161}{}{S¹ tam jakieœ hydroprocesory?}
+{162}{}{Sprawia wra¿enie mi³ego miejsca.}
+{163}{}{Có¿, ty miej twoje sekrety, a ja zachowam moje. ¯egnaj.}
+{164}{}{Mo¿e i tak. Jednak szkoda.}
+{165}{}{By³em w Z³omowie. Myœlê, ¿e jest na po³udniowy zachód st¹d, ale wêdrujê od tak wielu dni, ¿e trudno mi byæ pewnym.}
+{166}{}{Ta, akurat. Wszystkie Krypty zosta³y zniszczone, o ile mi wiadomo. Sprzedaj mi inny kit.}
+{167}{}{Nie o to pytam... Och, niewa¿ne!}
+{168}{}{To nie odpowiedŸ. Zw¹ ciê zabójc¹, z³odziejem, hien¹ cmentarn¹. Mówi¹, ¿e zabijasz ka¿dego, kto wejdzie ci w drogê. Czy to prawda?}
+{169}{}{Có¿, jeszcze ¿yjesz, wiêc najwyraŸniej ktoœ k³ama³.}
+{170}{}{W sporej mierze. Ma siê trochê rozrywek.}
+{171}{}{Mam trochê wrogów na koncie. Dziêki mojej ³asce zosta³o ich przy ¿yciu wystarczaj¹co du¿o, ¿eby mnie oczerniaæ.}
+{172}{}{Z mojej rêki zginê³o ca³kiem sporo ludzi, owszem. Zawsze z jakiegoœ powodu.}
+{173}{}{Zw¹ ciê zabójc¹, z³odziejem, hien¹ cmentarn¹. Mówi¹, ¿e zabijasz ka¿dego, kto wejdzie ci w drogê. Czy to prawda?}
+{174}{}{OK, zrobiê to. Ale je¿eli bêdziesz siê nadal zachowywaæ jak najeŸdŸca, zginiesz jak najeŸdŸca.}
+{175}{}{Uznam, ¿e w¹tpliwoœci przemawiaj¹ na twoj¹ korzyœæ, na razie. Ale jest siê tylko tak dobrym, jak dobr¹ ma siê reputacjê, a nad twoj¹ przyda³oby siê popracowaæ. Mam nadziejê, ¿e zrobisz coœ w tej sprawie, zanim siê ponownie spotkamy.}
+{176}{}{Tylko wracam do osady. Chcesz iœæ ze mn¹? Przyda³oby mi siê towarzystwo.}
+{177}{}{Pewnie.}
+{178}{}{Nie dzisiaj.}
+{179}{}{Odrobinkê szabrujê. ZnaleŸliœmy kilka porzuconych baz najeŸdŸców, które nie zosta³y jeszcze oskubane do czysta; podejrzewam, ¿e atakuj¹ siê nawzajem. Zawsze przyda siê nam wiêcej amunicji i leków.}
+{180}{}{Bêdê tego ¿a³owaæ.}
+{181}{}{ZejdŸ mi z oczu, zanim rozjaœni mi siê pod czaszk¹.}
+{182}{}{Nadal parê widujemy; musz¹ migrowaæ z g³êbokiej pustyni albo Blasku. Ale jest o wiele lepiej ni¿ w zesz³ym roku, dziêki tobie.}
+{183}{}{Brzmi nieŸle. Czeœæ.}
+{184}{}{Jasne. ChodŸmy.}
+{185}{}{Kurcze, chyba mi odbi³o. Ale zabiorê ciê tam. ChodŸmy.}
+{186}{}{¯yczê ci mi³ego samobójstwa. I o ile to coœ warte, powodzenia.}
+{187}{}{No, ruszam. Uwa¿aj na siebie.}
+{188}{}{Có¿, nie mam wiele, ale co moje, to twoje.}
+{189}{}{Nic mi nie przychodzi do g³owy. No, ruszam. Uwa¿aj na siebie.}
+{190}{}{Tak zrobimy. No, ruszam. Uwa¿aj na siebie.}
+{191}{}{Có¿, OK. ChodŸmy.}
+{192}{}{Nie zabiorê potencjalnego wroga do mojego domu. Jeœli jednak uda ci siê dotrzeæ do Cienistych Piasków, nie próbuj tam rozrabiaæ.}
+{193}{}{Ma³a. ¯yjemy z hodowli braminów. Ziemia jest w tej okolicy dosyæ surowa, a pastwiska nader cenne.}
+{194}{}{W zadupiu hoduj¹cym braminy? Chyba brak ci pi¹tej klepki! Prawdopodobnie nie ma ¿adnej dzia³aj¹cej elektroniki w promieniu trzystu kilometrów.}
+{195}{}{To faktycznie jest jakiœ argument. Myœlê, ¿e powinniœmy zachowaæ ostro¿noœæ i rozejœæ siê w swoje strony. Na twoim miejscu zrobi³bym coœ w sprawie tych opowieœci. Chyba ¿e lubisz, jak ludzie tob¹ gardz¹ i ci nie ufaj¹.}
+{196}{}{Powinienem natychmiast ciê zabiæ. WejdŸ mi jeszcze raz w drogê, a to zrobiê. Teraz zje¿d¿aj.}
+{197}{}{Ruszajmy.}
+{198}{}{Niech zgadnê, ktoœ ci naopowiada³ o moim chrapaniu. A, trudno. Trzymaj siê.}
+{199}{}{Zgadza siê. Có¿, ruszam. Uwa¿aj na siebie.}
+{200}{}{Zostañ tam, gdzie stoisz. Nie wiem, czy jesteœ sprzymierzeñcem tych mutantów, ale jeœli tak, to ciê zabijê.}
+{201}{}{Jakich mutantów?}
+{202}{}{Kim jesteœ?}
+{203}{}{Co ci siê sta³o?}
+{204}{}{OK, w porz¹dku.}
+{205}{}{Ru-hu?}
+{206}{}{Mutanci opanowali Cieniste Piaski. Wiêkszoœæ z naszych nie ¿yje. To chyba tylko kwestia czasu, zanim dorw¹ resztê nas.}
+{207}{}{Nie obchodzi mnie, co mówisz, o co pytasz. Wszyscy jesteœmy ju¿ martwi! My wszyscy! A ja myœla³em, ¿e najeŸdŸcy i radskorpiony byli Ÿli... Oni byli niczym! Ha! Ha ha ha!}
+{208}{}{Zamknij siê! Nie mam ochoty gadaæ! Gadanie do niczego nie prowadzi! Gadanie mnie tylko piekielnie nudzi...}

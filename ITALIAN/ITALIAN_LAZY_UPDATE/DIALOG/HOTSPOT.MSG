@@ -1,0 +1,11 @@
+# Hot spots are intense concentrations of radiation. Consider Neutral or Male.
+# Tone of Voice should be automated and flat.
+
+# Lines are "You sustain [2 or more] points of radiation damage"
+{100}{}{Subisci }
+{101}{}{ punti di danno per le radiazioni.}
+{102}{}{Subisci }
+{103}{}{ punti di danno per le radiazioni.}
+{104}{}{Qui vicino c'e' un'elevata quantita' di radiazioni.}
+{105}{}{Subisci }
+{106}{}{ punti di danno per le radiazioni.}

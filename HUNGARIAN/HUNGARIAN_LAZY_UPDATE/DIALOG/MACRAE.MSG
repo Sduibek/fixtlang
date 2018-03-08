@@ -1,0 +1,46 @@
+{100}{}{Egy nagyon erõs, vaskos embert látsz bozontos bajusszal.}
+{101}{}{Õ MacRae.}
+{102}{}{Helló öcsém, mi járatban vagy ma éppen?}
+{103}{}{Helló bébi, mi járatban vagy ma éppen?}
+{104}{}{Mi egyebet szeretnél tudni?}
+{105}{}{Ki vagy te?}
+{106}{}{Mit tudsz mondani a Pengésekrõl?}
+{107}{}{Semmit, köszi.}
+{108}{}{MacRae vagyok. Segítek a Pengéseknek féken tartani a Halálkarmokat meg a Rendfenntartókat. Tanítgatom õket, hogyan védekezzenek a hozzájuk hasonló kártevõk ellen.}
+{109}{}{Miféle dolgokat tanítasz nekik?}
+{110}{}{Láttad már a Halálkarmokat?}
+{111}{}{Mi a balhé a Rendfenntartókkal?}
+{112}{}{Kérdezhetek valami mást?}
+{113}{}{Elsõsorban a pusztakezes harcra specializálódtam, és többnyire több pofont kiosztok, mint amennyit bekapok.}
+{114}{}{Elég satnya dolog ez, én inkább fegyvert használok.}
+{115}{}{Szerinted tudnál nekem tanítani valamit?}
+{116}{}{Kérdezhetek valami mást?}
+{117}{}{Nos, ha így gondolod, akár sarkon is fordulhatsz, és ellibeghetsz.}
+{118}{}{Te jó embernek látszol, de sajnos minden idõmet felemészti a Pengések oktatása. Ha egy kicsit lecsendesednének a dolgok, esetleg visszatérhetünk rá.}
+{119}{}{Rendben, kérdezhetek valami mást?}
+{120}{}{Kösz az infót.}
+{121}{}{Láttam bizony! Úgy futottam, mint akit puskából lõttek ki. Ha õket keresed, arra menj! [McRae kelet felé mutat]}
+{122}{}{Azt hittem, hogy a Halálkarmok gonosz lények, de az igazi gonoszak a Rendfenntartók. Nagyjából havonta betolják ide a rusnya képüket, és elrángatnak egy-egy apukát az apróságaik mellõl.}
+{123}{}{Tudnék segíteni bármiben is?}
+{124}{}{Csúnyán hangzik... kérdezhetek azért még valamit?}
+{125}{}{Kösz az infót.}
+{126}{}{Razor-rel kellele beszélned. Jó csaj az, ha egyáltalán létezik ilyen.}
+{127}{}{A Pengések jó kis társaság. Mondjuk így beékelõdve a francos Rendfenntartók meg a Halálkarmok közé nem éppen a legédesebb élet jut nekik, de azért elvannak.}
+{128}{}{[MacRae megveregeti a vállad] Hála neked, a Pengések mostantól jobb életnek nézhetnek elébe. Na, ennek örömére, mit tehet érted az öreg skót?}
+{129}{}{Azt mondtad korábban, hogyha volna több szabad idõd, tanítanál ezt meg azt.}
+{130}{}{Miket csináltál mostanában?}
+{131}{}{Mivel foglalkozol itt?}
+{132}{}{Nem probléma.}
+{133}{}{Hát egy hangyányit elcsendesedtek itt a dolgok, mióta a Pengések megsegítették Adytumot a Rendfenntartók ellen. A tanítási képességeimet nemigen vették igénybe.}
+{134}{}{Mit tanítasz?}
+{135}{}{Sajnálattal hallom. Gondolod, hogy majd érdekesebb idõk jönnek?}
+{136}{}{Tudnál engem tanítani?}
+{137}{}{Érdekesen hangzik, de most mennem kell.}
+{138}{}{Szerintem épp van idõm. Akár most is kezdhetjük. [McRae megmutat néhány harci állást, és olyan ütésnemeket, amelyek egy igazi skót sajátjai.]}
+{139}{}{Te aztán gyorsan tanulsz. Reméljük, segítségedre lesz az utazásaid során.}
+{140}{}{Hát, régebben segítettem a Pengéseknek azzal, hogy különféle védekezési technikákat tanítottam a Halálkarmok és a Rendfenntartók ellen. Most, hogy mindent lerendeztél, a dolgok egy hangyányit unalmasba csaptak.}
+{141}{}{Jó, hogy látlak.}
+#
+##Sduibek, Fallout Fixt:
+#
+{200}{}{You earn 250 experience for learning to brawl like a Scotsman.}

@@ -1,0 +1,234 @@
+{100}{}{To Laura.}
+{102}{laura0m}{Witaj, bracie. Czy mogê ci s³u¿yæ tego wspania³ego dnia?}
+{104}{laura0f}{Witaj, siostro. Czy mogê ci s³u¿yæ tego wspania³ego dnia?}
+{105}{}{Czy to ty jesteœ Laura?}
+{106}{}{Czy mogê ci zadaæ kilka pytañ na temat Dzieci?}
+{107}{}{Jakiego rodzaju "us³ugi" mi oferujesz?}
+{108}{}{Mama?}
+{110}{laura01a}{To bardzo s³odkie z twojej strony, lecz nie, to nie ja. Z pewnoœci¹ mo¿esz j¹ znaleŸæ gdzieœ indziej.}
+{112}{laura2}{Z ca³¹ pewnoœci¹ tak. Czy czegoœ chcesz?}
+{113}{}{Nicole przysy³a mnie na rozmowê z tob¹.}
+{114}{}{Ee... Nie. Niewa¿ne.}
+{116}{laura3}{Nicole? Tak mi przykro. Nie s¹dzê, ¿ebym zna³a kogokolwiek o tym imieniu.}
+{117}{}{Có¿, kaza³a mi powiedzieæ ci "Czerwony jeŸdziec".}
+{118}{}{Jasne, ¿e tak! To ona mnie tu przys³a³a!}
+{120}{laura4}{Przepraszam. Ja... po prostu nie wiem. ChodŸmy w miejsce, gdzie mo¿emy porozmawiaæ.}
+{122}{laura9}{Bardzo mi przykro ze wzglêdu na niedogodnoœæ, jak¹ ci to sprawi³o. Mam nadziejê, ¿e siê z tego powodu nie gniewasz.}
+{124}{laura10}{Czy... na pewno? Ee... Wybacz m¹ ciekawoœæ, ale wydawa³o mi siê, ¿e szukasz konkretnie mojej osoby.}
+{125}{}{Có¿, przysy³a mnie Nicole.}
+{126}{}{Mówiono mi o tobie, i nasz³a mnie ochota, ¿eby siê przekonaæ, jak wygl¹dasz.}
+{128}{laura11}{Ja... przepraszam, ale tego rodzaju zainteresowanie czyni mnie odrobinê nerwow¹. Nie wiem dlaczego; to g³upie z mojej strony, wiem. No có¿, przyjemnej wêdrówki.}
+{130}{laura14}{Och, ¿aden ze mnie autorytet. Porozmawiaj lepiej z Morfeuszem, Najwy¿szym Kap³anem. Jestem pewna, ¿e on mo¿e ci pomóc o wiele bardziej ni¿ ja.}
+{132}{laura15}{Ale¿ mi chodzi³o tylko o... Och... Muszê ju¿ iœæ.}
+{134}{laura16g}{Có¿, witaj ponownie! Tylko przechodzisz, czy te¿ mogê ci jakoœ pomóc?}
+{136}{laura16b}{Czy mogê... ci w czymœ pomóc?}
+{137}{}{Czy to ty jesteœ Laura?}
+{138}{}{Czy mogê ci zadaæ kilka pytañ na temat Dzieci?}
+{139}{}{Nie, dziêki.}
+{140}{}{Ee, Mama?}
+{142}{laura16a}{Nie. Ju¿ by³a o tym mowa. Musisz jej poszukaæ gdzieœ indziej.}
+{144}{laura21}{Och... Cieszê siê, ¿e uda³o ci siê mnie znaleŸæ. Nicole przys³a³a mi wykaz informacji, które mia³am zdobyæ.}
+{145}{}{Co wiêc odkry³aœ?}
+{147}{laura22}{Hmm. Jest tego tak du¿o, ¿e po prostu... nie jestem pewna, czego potrzebujesz albo od czego zacz¹æ. Czy chcesz wiedzieæ o czymœ w szczególnoœci?}
+{148}{}{Czy istnieje tajne wejœcie do Sanktuarium Katedry?}
+{149}{}{Czego siê dowiedzia³aœ o Mistrzu?}
+{150}{}{Jakie s¹ plany Dzieci?}
+{151}{}{Co taka mi³a dziewczyna, jak ty, robi w takim miejscu?}
+{152}{}{Ju¿ nie, dziêki.}
+{154}{laura24}{To nie do Sanktuarium musisz wejœæ.}
+{155}{}{Dok¹d zatem?}
+{157}{laura25}{Œledzi³am Morfeusza do tylnej, tajnej klatki schodowej. Facet uruchamia tam sekretne drzwi.}
+{158}{}{I co potem?}
+{159}{}{Czy mo¿esz mi pokazaæ te drzwi?}
+{161}{laura26}{U¿ywa tego dziwnego klucza, ¿eby je otworzyæ, i znika. Nigdy nie spróbowa³am pójœæ za nim.}
+{162}{}{Czy wiesz, gdzie znajduje siê ten klucz?}
+{163}{}{Dlaczego?}
+{165}{laura27}{Có¿, powiedzia³abym, ¿e nosi go przy sobie.}
+{166}{}{Czy mog³abyœ mi teraz pokazaæ te drzwi?}
+{168}{laura28a}{No có¿, oczywiœcie.}
+{169}{}{Wspaniale. ChodŸmy.}
+{170}{}{Czy wczeœniej mogê ci jeszcze zadaæ kilka pytañ?}
+{172}{laura29}{IdŸ za mn¹.}
+{174}{laura30a}{OK, ale musimy siê spieszyæ.}
+{176}{laura30b}{Och, byle szybko.}
+{178}{laura31}{Wierz mi, jak zobaczysz Mrocznych, to bêdziesz wiedzieæ dlaczego. Chyba ¿e brakuje ci rozumu.}
+{179}{}{Mo¿e i tak, ale za to w przeciwieñstwie do niektórych odwagi mam pod dostatkiem.}
+{180}{}{Potrafiê to zrozumieæ. Mo¿emy wróciæ do pytañ?}
+{182}{laura32}{Och, rozumiem, to naprawdê zabawne. S³uchaj, siedzê w tym na okr¹g³o. Je¿eli nie podoba ci siê, jak to robiê, to zwyczajnie zachowaj to dla siebie. Kapujesz?}
+{183}{}{A co zrobisz, jeszcze trochê pokwêkasz?}
+{184}{}{Skoro tak sobie ¿yczysz...}
+{185}{}{Masz racjê, przepraszam. Mo¿e wrócimy do naszej sprawy?}
+{187}{laura33}{Och, niewiele. Dzieci go czcz¹, i czasem jego ogromny wizerunek pojawia siê w g³ównej nawie koœcio³a.}
+{188}{}{Wiêc on istnieje?}
+{189}{}{Brzmi to przera¿aj¹co.}
+{191}{laura34}{I tak i nie. Przekrad³am siê kiedyœ do przodu i znalaz³am pod podium dziwne urz¹dzenie mechaniczne z obiektywem.}
+{192}{}{Prawdopodobnie to jakiœ holoprojektor.}
+{193}{}{No wiêc?}
+{195}{laura35}{Ha... Wierz mi, tak by³o na pocz¹tku, ale potem podkrad³am siê i obejrza³am z bliska podium, kiedy nikt nie patrzy³. I pod spodem jest tam jakieœ urz¹dzenie z kablami i wielkim obiektywem.}
+{196}{}{Prawdopodobnie to jakiœ holoprojektor.}
+{197}{}{No wiêc?}
+{199}{laura36}{Wiêc jestem ca³kiem pewna, ¿e ten Mistrz jest z krwi i koœci. I s¹dzê tak¿e, ¿e wiem, gdzie on jest.}
+{200}{}{Gdzie?}
+{202}{laura37}{Co pewien czas Morfeusz chodzi sekretn¹ klatk¹ schodow¹, prowadz¹c¹ pod koœció³. I otwiera tajne drzwi za pomoc¹ jakiegoœ klucza. Myœlê, ¿e Mistrz jest tam, na dole.}
+{203}{}{Czy mog³abyœ mi teraz pokazaæ tê klatkê schodow¹?}
+{204}{}{Czy wiesz, gdzie jest ten klucz?}
+{206}{laura38}{To dopiero jest przera¿aj¹ce. Morfeusz g³osi w kazaniach, ¿e Ziemia powinna zostaæ "oczyszczona z niewiernych", i inne bzdury tego typu. Myœlê, ¿e oni planuj¹ wszystko podbiæ!}
+{207}{}{Czy s¹ w stanie tego dokonaæ?}
+{208}{}{Co jest ich pierwszym celem?}
+{210}{laura39}{No wiesz, to mo¿liwe. Chodzi mi o to, ¿e maj¹ doœæ cz³onków, a ich ró¿ne szpitale w osadach s¹ na³adowane do pe³na broni¹ i materia³ami wybuchowymi.}
+{211}{}{Musimy zawiadomiæ Uczniów.}
+{212}{}{Co zamierzasz zrobiæ?}
+{214}{laura40}{Tak w³aœnie planowa³am. W samej rzeczy, udam siê do nich, jak tylko skoñczymy nasz¹ rozmowê.}
+{215}{}{Jedno szybkie pytanie?}
+{216}{}{No to pozwolê ci ju¿ odejœæ.}
+{218}{laura41}{OK. Powodzenia!}
+{220}{laura42}{Có¿, ostrzegê Nicole. I jeœli dobrze pójdzie, Uczniowie bêd¹ mogli wys³aæ pomoc innym osadom.}
+{221}{}{Najpierw chcê ci zadaæ jeszcze kilka pytañ.}
+{222}{}{OK, to pozwolê ci ju¿ iœæ.}
+{224}{laura43}{Adytum; ta osada ma takie szanse, jak p³atek œniegu w Piekle.}
+{225}{}{A co z Uczniami?}
+{226}{}{Czy mogê jakoœ pomóc Adytum?}
+{228}{laura44}{Dzieci nie uwa¿aj¹ nas za zbytnie zagro¿enie. Jeszcze im poka¿emy.}
+{229}{}{To dobrze. Co planujecie zrobiæ?}
+{230}{}{Czy mogê w jakikolwiek sposób pomóc Adytum?}
+{232}{laura45}{Ta, mo¿esz im pomóc dobieraj¹c siê do Mistrza. "OdgryŸ g³owê wê¿owi, a ju¿ siê wokó³ ciebie nie owinie", jak mawia³a moja babcia. Lubi³a trochê narozrabiaæ.}
+{233}{}{Jak siê do niego dostaæ?}
+{234}{}{Chwytam. Potrzebujê jeszcze paru odpowiedzi, zanim sobie pójdziesz.}
+{235}{}{Ju¿ do niego idê.}
+{237}{laura46}{Oni planuj¹ podbiæ wszystkie osady!}
+{238}{}{Które konkretnie?}
+{240}{laura47}{Adytum ju¿ pad³o. Hub bêdzie nastêpny.}
+{241}{}{Co robi¹ teraz Uczniowie?}
+{242}{}{Cholera. Co mogê zrobiæ?}
+{244}{laura48}{Wys³aliœmy grupê na pomoc Adytum, i ca³a zosta³a wybita. Nicole wys³a³a kolejn¹ do Hubu. Mam tylko nadziejê, ¿e dotr¹ tam na czas.}
+{245}{}{Cholera. Co mogê zrobiæ?}
+{247}{laura49}{Ju¿ za³atwili Hub i Adytum! S¹dzê, ¿e nastêpni maj¹ byæ Uczniowie, wiêc przygotowujemy siê do obrony.}
+{248}{}{To czemu jesteœ tutaj?}
+{249}{}{Co mogê zrobiæ?}
+{251}{laura50}{Jestem tutaj, ¿eby mieæ oko na Dzieci.}
+{252}{}{Co mogê zrobiæ?}
+{254}{laura51}{Dzieci zak³adaj¹ wszêdzie szpitale. Pfff. Myœlê, ¿e staraj¹ siê nak³oniæ ludzi, ¿eby im zaufali.}
+{255}{}{Czy to dzia³a?}
+{256}{}{Czy istnieje jakikolwiek sposób, by ich powstrzymaæ?}
+{257}{}{To najg³upsze, co kiedykolwiek zdarzy³o mi siê us³yszeæ!}
+{259}{laura52}{Ach, faktycznie na to wygl¹da. To znaczy, ludzie œci¹gaj¹ do nich stadami. Czy oni nie widz¹, ¿e to kant?}
+{260}{}{A jesteœ pewna, ¿e tak rzeczywiœcie jest?}
+{261}{}{W jaki sposób mogê ich powstrzymaæ?}
+{263}{laura53}{Na przyk³ad ludzie wydaj¹ siê tu masowo znikaæ, podczas gdy liczba Mrocznych powoli roœnie.}
+{264}{}{Dlaczego?}
+{265}{}{Nie wygl¹da to dobrze. Ale potrzebujê wiêcej odpowiedzi, zanim zacznê dzia³aæ.}
+{267}{laura54}{Nie wiem. To w³aœnie masz tutaj odkryæ, zgadza siê?}
+{269}{laura55}{ZnajdŸ Mistrza i powstrzymaj go!}
+{270}{}{Czego siê o nim dowiedzia³aœ?}
+{271}{}{Zrobiê to.}
+{273}{laura56}{Ha, to pewne jak diabli, ¿e mam tak¹ nadziejê. No to jeszcze jakieœ pytania? }
+{275}{laura57}{W rzeczywistoœci to dobry sposób manipulowania ludŸmi, a ten Mistrz jest w tym cholernie dobry.}
+{276}{}{Nie, chodzi mi o to, ¿e to najg³upsza rzecz, jak¹ mi do tej pory powiedzia³aœ. Jesteœ paranoiczk¹, nieprawda¿?}
+{277}{}{Có¿, powstrzymam go.}
+{278}{}{W jaki sposób mogê to powstrzymaæ?}
+{280}{laura58}{Przepraszam?}
+{281}{}{S³ysza³aœ, co mówiê.}
+{282}{}{Niewa¿ne.}
+{284}{laura59}{No to OK. Powodzenia!}
+{286}{laura60}{Ahaha... Czekam z niecierpliwoœci¹, ¿eby mnie ktoœ poderwa³ za pomoc¹ tego ¿a³osnego tekstu.}
+{288}{laura61a}{No, to co mogê teraz dla ciebie zrobiæ?}
+{290}{laura61b}{Och, co znowu?}
+{291}{}{Muszê ci zadaæ jeszcze kilka pytañ.}
+{292}{}{Nic, dziêki.}
+{294}{laura62}{Co ty wyrabiasz? Schowaj to!}
+{296}{laura63}{Hej! Wynoœ siê st¹d!}
+{297}{}{Bo co?}
+{298}{}{Przepraszam, ju¿ sobie idê.}
+{300}{laura64}{Przestañ!}
+{302}{laura65}{Co... Co ty tutaj robisz? Musisz st¹d odejœæ!}
+{303}{}{Nie, to ty siê wynoœ!}
+{304}{}{OK, idê.}
+{306}{laura67}{Och... Nie jestem co do tego pewna. IdŸ porozmawiaæ z Nicole.}
+{308}{laura67a}{Nie jestem co do tego pewna. IdŸ porozmawiaæ z Najwy¿szym Kap³anem.}
+{309}{}{Có¿, jak powiedzia³am...}
+{310}{}{Jak mówi³am...}
+{311}{}{Có¿, jak mówi³am wczeœniej...}
+{312}{}{Jak powiedzia³am wczeœniej...}
+{313}{}{Có¿, jestem ca³kiem pewna, ¿e ju¿ ci to mówi³am, ale...}
+{314}{}{OK! Ju¿ ci to mówi³am...}
+{315}{}{Ach, jeszcze raz? Có¿, powiedzia³am...}
+{316}{}{Znowu? Ju¿ o tym mówi³am...}
+{317}{}{O rety, to okropnie denerwuj¹ce. Po prostu nie powtórzê tego wiêcej.}
+{318}{}{Czy ty... OK! OK! Czy ty nic nie s³yszysz? Czytaj z ruchu moich warg, nie bêdê tego powtarzaæ.}
+{319}{}{Uwa¿am, ¿e ju¿ w zupe³noœci wystarczy. Nie powtórzê tego wiêcej.}
+{320}{}{Nie s³ucha³o siê, co? Szkoda, bo nie bêdê tego powtarza³a.}
+{321}{}{Oh, to straszni ludzie. W ogóle nie bêdê o nich rozmawiaæ!}
+{322}{}{Nicole pewnie ci o nas opowiedzia³a. Próbujemy wbiæ trochê rozs¹dku w zakute ³by tych wymachuj¹cych spluwami, szafuj¹cych przemoc¹ bêcwa³ów... Och, z wy³¹czeniem tu obecnych, oczywiœcie.}
+{323}{}{Có¿, nie wiem, o kim mówisz.}
+{324}{}{Przewodzi Uczniom. Ma ca³kiem siln¹ wolê. Ufam jej.}
+{325}{}{Pozostali s¹ wszyscy tacy mili! Tu jest cudownie. Mamy swoje miejsce, pracujemy na rzecz dobra...}
+{326}{}{Och, oni s¹ jak... ropieñ na tym œwiecie. Wiêkszoœæ to œmieci, a paru to po prostu czyste z³o.}
+{327}{}{Adytum, czy to nie ta osada na pó³noc st¹d?}
+{328}{}{Adytum jest kawa³ek na pó³noc st¹d. A tamtejsi mieszkañcy... Có¿, s¹ odrobinê paranoikami, wiêc nie oczekuj mi³ego przyjêcia.}
+{329}{}{Och, jest cudowny. To on nam przewodzi. Musisz z nim porozmawiaæ!}
+{330}{}{G³osi pokój i oœwiecenie, i ca³e to gówno, ale jest szumowin¹. Nie ma co do tego w¹tpliwoœci.}
+{331}{}{Och, nie jestem w stanie choæby zacz¹æ Go opisywaæ. Przywodzi nam Morfeusz. On mo¿e odpowiedzieæ na twoje pytanie.}
+{332}{}{Ach tak, Mistrz, to on jest bogiem, którego czcz¹ te œwiry. Osobiœcie nie s¹dzê, ¿eby by³ bogiem, tylko kimœ wprawionym w manipulowaniu wszystkimi.}
+{333}{}{Mroczni? Nie wiem, o czym mówisz.}
+{334}{}{To wielcy, brzydcy wykonawcy woli Mistrza i Morfeusza.}
+{335}{}{Kto?}
+{336}{}{Co, nie potrafisz wykombinowaæ, ¿e to Mistrz?}
+{337}{}{To wielka sala na pó³nocnym krañcu Katedry, w której Morfeusz przeprowadza wszystkie swoje ceremonie. By³am tam, jest tam cudownie!}
+{338}{}{Jest na pó³nocnym krañcu koœcio³a. Ogl¹da³am, jak Morfeusz wykonuje tam swój cyrkowy numerek.}
+{339}{}{Och, nie mo¿esz tam wejœæ. To tam medytuje Morfeusz.}
+{340}{}{To tam przesiaduje Morfeusz i jego przydupasy. Nikomu tam jednak nie wolno wchodziæ.}
+{341}{}{To ci, którzy udowodnili sw¹ wartoœæ dla Katedry. Reszta z nas aspiruje do tego.}
+{342}{}{A tak, to goœcie, którzy prze¿yli tortury i którzy nie znaj¹ niczego innego. Maj¹ zupe³nie wyprane mózgi i zrobi¹ wszystko, co siê im ka¿e.}
+{343}{}{To Najwy¿si Kap³ani.}
+{344}{}{Ach, to s¹ najwy¿si kap³ani. Jak dot¹d myœlê, ¿e jest ich tylko trzynastu, ale nie jestem tak naprawdê pewna.}
+{345}{}{To niewa¿ne.}
+{346}{}{To niewa¿ne.}
+{347}{}{Przepraszam. Po prostu nie mam na to czasu.}
+{348}{}{Nie mamy czasu, ¿eby o tym rozmawiaæ! Trzymaj siê tylko naszej sprawy.}
+{349}{}{Nie jestem pewna, czemu chcesz o tym rozmawiaæ.}
+{350}{}{Trzymaj siê g³ównego tematu.}
+
+# added by WG from genchat
+{477}{}{Please, we must hurry. We don't have time to speak.}
+{478}{}{Only Morpheus has the key to this door. I must leave now to let Nicole know what is going on here.}
+{479}{}{Please, I have to get away from here before they find out who I am.}
+# added by WG
+{480}{}{Only Morpheus has the key to this door. I must leave now.}
+
+
+
+#
+# Laura Tell-Me-Abouts
+#
+
+
+{1000}{}{Uczniowie}
+{1001}{}{Nicole}
+{1002}{}{Katedra}
+{1003}{}{Morfeusz}
+{1004}{}{Mistrz}
+{1005}{}{Mroczni}
+{1006}{}{Mroczny}
+{1007}{}{Audytorium}
+{1008}{}{Sanktuarium}
+{1009}{}{s³u¿ebnicy}
+{1010}{}{Zakon}
+{1011}{}{Apokalipsy}
+{1012}{}{Bóg}
+{1013}{}{mutanci}
+
+{1100}{laura74}{Oh, to straszni ludzie. W ogóle nie bêdê o nich rozmawiaæ!}
+{1101}{laura75}{Có¿, nie wiem, o kim mówisz.}
+{1102}{laura76a}{Pozostali s¹ wszyscy tacy mili! Tu jest cudownie. Mamy swoje miejsce, pracujemy na rzecz dobra...}
+{1103}{laura78}{Och, jest cudowny. To on nam przewodzi. Musisz z nim porozmawiaæ!}
+{1104}{laura79}{Och, nie jestem w stanie choæby zacz¹æ Go opisywaæ. Przywodzi nam Morfeusz. On mo¿e odpowiedzieæ na twoje pytanie.}
+{1105}{laura80}{Mroczni? Nie wiem, o czym mówisz.}
+{1106}{laura81}{Kto?}
+{1107}{laura82}{To wielka sala na pó³nocnym krañcu Katedry, w której Morfeusz przeprowadza wszystkie swoje ceremonie. By³am tam, jest tam cudownie!}
+{1108}{laura83}{Och, nie mo¿esz tam wejœæ. To tam medytuje Morfeusz.}
+{1109}{laura84}{To ci, którzy udowodnili sw¹ wartoœæ dla Katedry. Reszta z nas aspiruje do tego.}
+{1110}{laura85}{To Najwy¿si Kap³ani.}
+{1111}{laura74}{Och, to straszni ludzie. W ogóle nie bêdê o nich rozmawiaæ!}
+{1112}{laura81}{Kto?}
+{1113}{laura80}{Mroczni? Nie wiem, o czym mówisz.}
+

@@ -31,10 +31,10 @@
 {130}{}{Claro, te agradezco que las hayas encontrados para nosotros.}
 {131}{}{Y...}
 {132}{}{No es problema.}
-{133}{}{Oh. Casi se me olvida. Aquí tienes esto por si te sirve de ayuda. [Miles te da chapas y estimulantes.]}
+{133}{}{Oh. Casi se me olvida. Aquí tienes esto por si te sirve de ayuda. (Miles te da algunas chapas y estimulantes)}
 {134}{}{¿Pudiste llevarle las piezas a Herreriano?}
-{135}{}{[Miles coge las piezas arregladas.] Parece que Herreriano ha hecho un buen trabajo. Gracias por la ayuda y aquí tienes esto por si te sirve de ayuda.}
-{136}{}{[Miles te da algunas chapas y algunos estimulantes.]}
+{135}{}{[Miles coge las piezas arregladas] Parece que Herreriano ha hecho un buen trabajo. Gracias por la ayuda y aquí tienes esto por si te sirve de ayuda.}
+{136}{}{[Miles te da algunas chapas y algunos estimulantes]}
 {137}{}{Si vuelves a pasar por aquí, puede que necesites vernos a Herreriano y a mí. Te podremos ayudar arreglando tu equipo. Herreriano puede hacer maravillas con algunas armas y yo puedo arreglar ciertos tipos de armadura.}
 {138}{}{Parece que has encontrado una Armadura de Energía. He oído hablar de un proceso químico que se puede emplear para endurecer la superficie de la armadura. Sin embargo, he perdido la información que me dará las últimas pistas para conseguir la fórmula y los reactivos necesarios. También me he enterado de que la Bibliotecaria del Eje, la señora Stapleton, tiene algunos periódicos y libros que podrían serme útiles. Si puedes conseguir algunos, podría hacer una prueba con tu armadura.}
 {139}{}{Me parece bien. Iré a hablar con la señora Stapleton.}
@@ -43,11 +43,11 @@
 {142}{}{¿Todavía no has podido ir al Eje a visitar a la señora Stapleton?}
 {143}{}{Sí, aquí están los libros.}
 {144}{}{Todavía no.}
-{145}{}{[Miles te quita los libros y empieza a hojearlos.] Mmm... Sí, Mmm. [Murmura para sí mismo unos minutos más.] Bueno, creo que puedo imaginármelo, pero la fusión tardará un día completo. ¿Te parece bien?}
+{145}{}{[Miles te quita los libros y empieza a hojearlos] Mmm... Sí, Mmm. [Murmura para sí mismo unos minutos más.] Bueno, creo que puedo imaginármelo, pero la fusión tardará un día completo. ¿Te parece bien?}
 {146}{}{Perfecto.}
 {147}{}{Lo siento, no tengo tiempo.}
 {148}{}{Bueno, cuando tengas tiempo, vuelve y trataremos tu armadura.}
-{149}{}{[Miles te coge la armadura.]}
+{149}{}{[Miles te coge la armadura]}
 {150}{}{[Miles te devuelve la armadura; parece que brilla un poco más que antes.] Bueno, ¡creo que funciona! Espero que te ayude.}
 {151}{}{¿Qué le pasó a tu Armadura de Energía? Solo puedo ayudarte si tienes una.}
 {152}{}{Encantado de verte, pero ahora mismo estoy en plena investigación.}

@@ -1,0 +1,43 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+{100}{}{Egy nagy darab fejvadászt látsz, rajta cimke: "Christopher vagyok, és neked annyi."}
+# Bounty Hunter is considered Male term
+{101}{}{Mit akarsz?}
+{102}{}{Egy fánkot.}
+{103}{}{Mit csinálsz te itt?}
+{104}{}{Csak kutakodok errefelé.}
+{105}{}{Semmit.}
+{106}{}{Nem szeretjük itt az okostojásokat. Lépj olajra, de gyorsan!}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+{107}{}{Ez a vicc még elsõre sem jön be. Most rövidesen megtudod, hogy miért engem tartanak a pusztaság legfélelmetesebb fejvadászának. És még pénzt sem kapok érte...}
+{108}{}{Semmi közöd hozzá!}
+{109}{}{Jó, akkor kutakodj máshol!}
+# Alternate for "poke around" could be "Look around"
+{110}{}{Tudtad, hogy 1500 dolcsi vérdíjat tûztek ki a fejedre gyerekgyilkosságért? Itt az idõ, hogy begyûjtsük a pénzt.}
+# 1500 caps is equivalant to 1500 dollars. Children is considered male plural
+{1000}{}{Adytum}
+{1001}{}{Tanitvany}
+{1002}{}{Katedralis}
+{1003}{}{Hasfelmetszo}
+{1004}{}{Penges}
+{1005}{}{Fegyverkeszito}
+{1006}{}{Hub}
+{1007}{}{Roncsvaros}
+{1008}{}{Viz}
+{1009}{}{Nicole}
+{1010}{}{Csonttelep}
+{1011}{}{Fegyverkeszito}
+{1012}{}{Csip}
+{1100}{}{Aprócska város déli irányban. Néha beesik onnan valaki.}
+{1101}{}{Békeszeretõ torzszülöttek itt a közelben.}
+{1102}{}{Adytumtól és a Csonttelep maradványától délre megtalálod. Nicole szerint készülnek valamire.}
+{1103}{}{Egy ultraerõszakos banda tõlünk nyugatra.}
+{1104}{}{A banda keletre tanyázik, és vibro-késeket használnak.}
+{1105}{}{A banda a Hubból származik, és fegyvereket árusítanak. Északra megtalálod õket.}
+{1106}{}{A banda a Hubból származik, és fegyvereket árusítanak. Északra megtalálod õket.}
+{1107}{}{Roncsváros egy kisváros a Hubtól északra.}
+{1108}{}{Ebben nem tudok segíteni.}
+{1109}{}{Õ a Tanítványok vezetõje.}
+{1110}{}{Ez a hely az Angyalok Csonttelepe, a régi Los Angeles maradványa.}
+{1111}{}{A banda a Hubból származik, és fegyvereket árusítanak. Északra megtalálod õket.}
+{1112}{}{Ebben nem tudok segíteni.}

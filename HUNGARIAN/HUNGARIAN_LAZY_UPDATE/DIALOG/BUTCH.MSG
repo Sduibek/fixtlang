@@ -1,0 +1,412 @@
+{100}{}{Butch.}
+{101}{}{Mesélj magadról!}
+{102}{}{Hallottál jó kis pletykákat?}
+{103}{}{A Hubot leszámítva mi újság errefelé?}
+{104}{}{Mi a helyzet a Hubban?}
+{105}{}{Kösz, ez az.}
+{106}{BUTCH01}{Mit akarsz?}
+{107}{}{Fel akarok tenni néhány kérdést.}
+{108}{}{Semmit, kösz.}
+{109}{BUTCH02}{Az idõ pénz. A csevegés sokba kerül. Munkát akarsz, vagy mit?}
+{110}{}{Azt.}
+{111}{}{Mifélét?}
+{112}{}{Nem akarok én semmiféle "mit", hanem pénzt...}
+{113}{BUTCH03}{Na végre, valakinek van vér a pucájában! Ezt akkor megbeszéltük. Eridj, beszélj a helyettesemmel, Rutgerrel! Õ majd elmondja a részleteket.}
+{114}{}{Várj! Elõször kérdezni akarok a munkáról valamit!}
+{115}{}{Oké, kösz.}
+{116}{BUTCH04}{Jó, ne szarakodjunk! Hadd halljam, de gyorsan!}
+{117}{}{Mennyi a fizetség?}
+{118}{}{Öö... miben áll a munka?}
+{119}{}{Hát, ha így gondolod, megyek és beszélek Rutgerrel.}
+{120}{BUTCH05}{Öö... Rutger majd intézkedik ez ügyben. Õ csinálja a hétköznapi dolgokat a "Hosszútávú Kereskedõk" számára. Most pedig lépj le, dolgom van!}
+{121}{}{Csak még egy kérdést, oké?}
+{122}{}{Rendben, köszi.}
+# Line 123 is prepended to 124.
+{123}{BUTCH06}{De csak egyet. }
+{124}{}{ [Észreveszed rajta, hogy eléggé feszült.]}
+{125}{}{Ööö... mi ez a munka?}
+{126}{}{Van idõkorlát a munkára?}
+{127}{}{Öö, mennyi pénzt is kereshetek ezzel?}
+{128}{}{Nem lehetsz ennyire lökött!}
+{129}{}{Feszültnek látszol. Nem akarsz beszélni róla?}
+{130}{BUTCH07}{Mi a... belemész egy munkába anélkül, hogy tudnád, mirõl van szó? Nem sámli, te aztán elszánt ember vagy. Szeretem az ilyet!}
+{131}{}{Egyszerûen mondd el, mirõl van szó! Oké?}
+{132}{}{Hát te is elég elszántnak tûnsz... szóval kvittek vagyunk.}
+{133}{BUTCH08}{Nos, néhány karaván eltûnt a közelmúltban. Rohadtul ki kéne deríteni, mi a franc lett velük.}
+{134}{}{Tehát mit kell csinálnom?}
+{135}{}{Fogadjunk, nem is kerestétek õket.}
+{136}{BUTCH09}{Egyszerû. Jöjj rá, kinek a lelkén száradhat, és tudasd velem! Ki is nyírhatod õket, rohadtul nem érdekel. Csak csináld meg a munkát!}
+{137}{}{Van valami nyom, kik lehettek?}
+{138}{}{Kinyírom õket.}
+{139}{}{Félelmetesen hangzik... inkább dobnám a témát.}
+{140}{BUTCH10}{Csak a szokásos...}
+{141}{}{Ugyan már! Lenni kell valaminek, amit használhatnék.}
+{142}{butch11}{Figyelj, nincs rá idõm, hogy különféle történeteket mesélgessünk egymásnak.}
+{143}{butch12}{Hát, van egy s más... de... öö... mindig elengedem a fülem mellett az ilyeneket.}
+{144}{}{Úgy lesz. Mirõl van szó?}
+{145}{}{Oké, kösz.}
+{146}{BUTCH13}{Szóval... igazán akarod hallani? Néhány ember szerint a Halálkarmok, de semmit nem tudok róluk.}
+{147}{}{Olyannak tûnsz, mint aki beijedt valamitõl.}
+{148}{}{Kösz. Kérdezhetek egy s mást?}
+{149}{}{Hogyan tudhatnék meg többet a Halálkarmokról?}
+{150}{butch13a}{Szóval többet... menj, beszélj Beth-el, õ többet tud azokról a férgekrõl!}
+{151}{}{Igen, úgy berezeltél, mint egy megvert kutya.}
+{152}{}{Megyek, utánanézek...}
+{153}{}{Szükségem van némi információra.}
+{154}{BUTCH14}{Na, idefigyelj, nem vagyok beijedve. Egyszerûen csak... óvatos vagyok. Ha a Halálkarmokról van szó, hülye vagy, ha félreteszed az óvatosságot. Beszélj, Beth-el, õ majd többet tud mondani!}
+{155}{}{Olyan ijedten viselkedsz, mint egy megvert kutya.}
+{156}{}{Bocccccs. Már megyek is azt' utánanézek.}
+{157}{}{További információra volna szükségem.}
+{158}{BUTCH15}{Elegem van a sértegetéseidbõl, te... tökfej! Ne gyere vissza többet! Rutger, hessegesd ki innen ezt a bosszantó kis döglegyet!}
+{159}{BUTCH16}{Ezt megbeszéltük. Menj a dolgodra, de majd gyere vissza, és számolj be, mire sikerült jutnod!}
+{160}{BUTCH17}{Ne késlekedj!}
+{161}{BUTCH18}{Akkor mi a francot bámullak még mindig! Indulj már!}
+{162}{butch19}{Ööö... mit mondtál?}
+{163}{}{Azt próbáltam sugallni, hogy túlságosan félsz egy felkutató akciótól.}
+{164}{}{Semmit. Szóval mit is kéne csinálnom?}
+{165}{BUTCH20}{Jobb, ha tudod, hogy nem csíplek. Persze ez nem számít. Akarod a munkát, vagy sem?}
+{166}{}{Persze, hogy akarom.}
+{167}{}{Nem, kösz.}
+{168}{BUTCH19}{Ööö... mit mondtál?}
+{169}{}{Hallottad...}
+{170}{}{Semmit. Szóval mit is kéne csinálnom?}
+{171}{BUTCH22}{Ja, tegnap! Mozgás!}
+{172}{BUTCH23}{Hmmm. Mi szart akarsz má' megin'?}
+{173}{}{Csak kiváncsiskodom.}
+{174}{}{Semmi különöset.}
+{175}{}{Felejtsük el! Kérdezek inkább valamit.}
+{176}{BUTCH24}{Hát, én vezetem a "HosszútávúKereskedõket" kábé öt esztendeje. Azelõtt Adytumban éltem, még korábban pedig az Izzás közelében.}
+{177}{}{Bármi egyebet?}
+{178}{}{Hát, köszönöm.}
+{179}{BUTCH25}{Nem igazán.}
+{180}{BUTCH26}{Hát igen, nincs igazán ínyemre, ha a saját életemrõl meg ilyesmikrõl kell diskurálnom.}
+{181}{}{Ugyan már, légyszi?}
+{182}{}{Rendben, megértem.}
+{183}{BUTCH27}{Minek nézel te engem... egy... turistának? Jesszus!}
+{184}{}{Nem, egy ragyogó embernek...}
+{185}{}{Csak úgy általában szeretnék tudni különféle helyekrõl.}
+{186}{BUTCH28}{Köszönöm. Akkor van még valami egyéb?}
+{187}{BUTCH29}{Hát, ott az Óváros, meg a Magaslat, de ott csak lakóházak vannak. A boltok meg ilyesmik a belvárosban vannak.}
+{188}{}{Miféle boltokról van szó?}
+{189}{}{Kösz.}
+{190}{BUTCH30}{Hát különféle ez meg azt árulnak, ha akarod látni, mész azt' megnézed magad!}
+{191}{}{Ah, hát ez is valami.}
+{192}{}{Kösz.}
+{193}{BUTCH19}{Ööö... mit mondtál?}
+{194}{}{Süket vagy tán?}
+{195}{}{Semmit. Ellenben kéne még kérdeznem egy-két dolgot.}
+{196}{BUTCH32}{Hát, ott van a Máltai Sólyom, jó kis kajálda, nekem elhiheted. Aztán... nézzük csak, a Mindent-Egy-Helyen bolt, a Fegyverbolt... és természetesen Bob Féle Nyársas-Gyík Bodega.}
+{197}{}{Köszönöm.}
+{198}{}{Bármi egyéb?}
+{199}{BUTCH33}{A belváros nyugati felében ott van a Katedrális Gyermekeinek kórháza, aztán dél felé megtalálod a Vízkereskedõket, nyugaton pedig a Karmazsin Karavánt.}
+{200}{}{Köszi.}
+{201}{BUTCH34}{Észak felé megtalálod Roncsvárost, észak-nyugat felé pedig az Acél Testvériségét. Dél felé természetesen ott van a Csonttelep.}
+{202}{}{Bármi egyéb?}
+{203}{}{Köszi.}
+{204}{BUTCH35}{Nekropolisz kelet felé van, de... én bizony nagyívben elkerülném, ha érted, mire gondolok. Azok a ghoulok gyorsabban lezabálják az arcodat, mint ahogy a vén nyanyák vásárolnak árleszállításkor.}
+{205}{}{Mókásan hangzik.}
+{206}{BUTCH35a}{Nahiszen. Neked talán igen! Ha tetszik, akkor menj el az Izzáshoz, délre! Az egy nagy radioaktív gödör.}
+{207}{}{Lehet, hogy rámférne egy kis barnulás.}
+{208}{BUTCH36}{Hát különféle helyek. Keresd fel õket magad!}
+{209}{}{Hm, ez is valami...}
+{210}{}{Köszi.}
+{211}{BUTCH37}{Na, mi a helyzet?}
+{212}{}{Nos, megtaláltam, ki tesz keresztbe a karavánoknak.}
+{213}{}{A karavánok eltûnése nem a Halálkarmok számlájára írható.}
+{214}{}{Most semmit, viszlát!}
+{215}{BUTCH38}{Tényleg? Ki?}
+{216}{}{Azok a nagy darab, mutáns srácok.}
+{217}{}{Patkányok! NAGY patkányok NAGY fogakkal...}
+{218}{BUTCH39}{Mi a... mi a francot akarnának a mutánsok a karavánjainktól?}
+{219}{}{Nem tudom, de úgy tûnik, embereket ejtenek fogságba.}
+{220}{}{Nem tudom biztosan, de a mutánsok okozzák a galibát és nem a Halálkarmok.}
+{221}{BUTCH40}{Szerinted tollas a hátam? Láttál egyáltalán egy élõ Halálkarmot?}
+{222}{}{Ott voltam, láttam, megöltem.}
+{223}{}{Nyugodt szívvel állíthatom, hogy nem a Halálkarmok okozták a bajt.}
+{224}{BUTCH41}{Te... megölted? Hát... én öö... öö... honnan jönnek ezek a mutánsok?}
+#
+# TRANSLATIONS: lines 225 and 226 are no longer used, now is lines starting at 332
+#
+{225}{}{From the northwest. I think they have some kind of outpost there.}
+{226}{}{Far to the northwest, from a fortified military oupost. They work for some loon called The Master. They aren't your regular mutants, either.}
+#
+{227}{BUTCH42}{Elõõrs? Hát... öö... szóval... Beszélnem kell a Bizottsággal. Igen... igen, õk majd tudni fogják, mi a teendõ. Na, akkor ezt megbeszéltük! Most menj, ezer dolgom van... értve?}
+{228}{BUTCH43}{A Mesternek? Az nagyobb mítosz, mint a Halálkarmok. Ugye... ugye te nem hiszed el, hogy igaz?}
+{229}{}{Nem vagyok biztos benne, de utána akarok járni.}
+{230}{}{Ja, láttam már õt! A nyomodban van!}
+{231}{BUTCH44}{Igen, na, akkor ezt... igen, legyen úgy! Mindenesetre beszélnem kell a Bizottsággal. Õk majd tudják, mi a teendõ. M-m-most kifelé! Egy csomó dolgom van... értve?}
+{232}{BUTCH45}{Mi? Hát... hát... én nem félek! Rutger! Nekem van fegyverem! Rutger!}
+{233}{BUTCH46}{Ha te mondod, hogy nem a Halálkarmok voltak... De a mutánsok mi a fenét akarnak a karavánjainktól az Óvárosban? Persze lehet, hogy ez egy méretes összeesküvés.}
+{234}{}{Nem, nem nem, te észkombájn! Ezek a mutánsok nagyok, zöldek, és az északi hegyekben egész hadseregre való van belõlük.}
+{235}{}{Te aztán jó nagy hülye vagy. Nem vagy képes rám figyelni?}
+{236}{BUTCH47}{Micsoda? Tûnés kifelé! Megyek és elmondom a Bizottságnak ezt az egészet. Te meg menj kifelé, gyerünk!}
+{237}{BUTCH48}{Ugyan... jobb vagy te ennél!}
+{238}{}{Nem igazán. A nagy, zöld mutánsokról van szó.}
+{239}{}{Igazad van.}
+{240}{}{Jaj, ugyan már! Gondolod, hogy egy ilyen nõ hazudna neked?}
+{241}{BUTCH49}{Erre nincs nekem idõm. Tûnj innen és addig ne gyere vissza, amíg valami hasznossal elõ nem tudsz állni!}
+{242}{BUTCH50}{Na jól van, mirõl van szó?}
+{243}{}{Az a helyzet, hogy azokról a nagy, mutáns srácokról beszélek.}
+{244}{}{Mondom, hogy patkányok! Nagyok, szõrösek...}
+{245}{BUTCH51}{Patkányok? Te viccelsz velem.}
+{246}{}{Dehogy viccelek. NAGY büdös patkányok azok!}
+{247}{}{Hát igen... csak poénkodtam.}
+{248}{BUTCH52}{Jól van... beszélek a Bizottsággal, de nem hinném, hogy beveszik ezt. Nem mintha nem láttam volna bazi nagy patkányokat errefelé...}
+{249}{BUTCH53}{Honnan tudod? Láttad a Halálkarmot?}
+{250}{}{Ott voltam, láttam, megöltem.}
+{251}{}{Bízz bennem! Tudom.}
+{252}{BUTCH54}{Te... megölted?}
+{253}{}{De meg ám!.}
+{254}{BUTCH54a}{Akkor ki dézsmálja a karavánjainkat?}
+{255}{}{Egyelõre nem tudom, de ami késik, nem múlik.}
+{256}{}{Ralph tette.}
+{257}{BUTCH55}{Ööö, tégy úgy! Aztán gyere vissza az eredménnyel... oké??}
+{258}{BUTCH56}{Ki a franc az a Ralph?}
+{259}{}{Áh, hagyjuk! Gyûjtök még infókat a karaván problémáról...}
+{260}{}{El akarja venni a lelkedet!}
+{261}{BUTCH57}{Hé! De gúnyt ûzöl belõlem! Rutger, hajítsd már ki az utcára ezt itt! És értelmes infó nélkül ne told vissza a képed!}
+{262}{BUTCH58}{Igen-igen. Ahogy gondoltam. Csak akkor gyere vissza, ha valami használható infód van!}
+{263}{BUTCH59}{Na, mit tudsz felmutatni nekem?}
+{264}{}{A Mutánsok tették.}
+{265}{}{Hát, annyi biztos, hogy nem a Halálkarmok dézsmálják a karavánokat.}
+{266}{BUTCH60}{Hagyj békén! Megkaptad a jutalmadat, kívül tágasabb!}
+{267}{BUTCH61}{Hé, tedd le azt a szart!}
+{268}{BUTCH62}{Na, jó! Rutger mindjárt kifiléz, mint a tonhalat!}
+{269}{BUTCH63}{Most azonnal hagyd ezt abba!}
+{270}{BUTCH64}{Mi a fenét csinálsz itt? Eridj innen!}
+{272}{butch65}{Hát nem... szóval kívül tágasabb!}
+{273}{BUTCH66}{Rutger mindjárt ropit csinál belõled! Jó szórakozást hozzá! RUTGER!}
+{274}{BUTCH67}{Hát, te aztán agyas vagy, mondhatom. Na, nézzük a munkát... találd meg, hogy ki dézsmálja a karavánjainkat. Pénzt adok. Sokat. Ha hibázol, fájni fog. Nagyon. Érted? Na lódulj!}
+{275}{BUTCH67a}{Az igen! Nem semmi tökkelütött vagy te! Nincs nekem erre idõm. Beszélj Rutgerrel!}
+{276}{BUTCH68}{Eridj, beszélj Rutgerrel! Õ többet tud arról a szarról.}
+{277}{BUTCH69}{Ahogy már mondtam...}
+{278}{BUTCH70a}{As I said...}
+{279}{BUTCH71}{Nem fogom ismételni magam!}
+{280}{BUTCH72}{Figyelj, nem akarom még egyszer elmondani!}
+{281}{BUTCH73}{Õ a Máltai Sólyom tulajdonosa a nyugati negyedben. Én nagy ívben elkerülném. Nem olyan õszinte, mint például én.}
+{282}{BUTCH74}{Öö, nem... nem-nem. Errõl nem beszélgetünk...}
+{283}{BUTCH75}{A Máltai Sólyom egy éjszakai mulató a nyugati negyedben. Hope ott énekel. Nem semmi egy nõci.}
+{284}{BUTCH76}{Csak a bajt okozzák. Szerintünk az Óvárosban van a rejtekhelyük, de nincs rá bizonyíték.}
+{285}{BUTCH77}{Õ a seriff. Viszont ha bûnesetet látsz, nekem jelentsd! Justin nem tudja kézben tartani itt a dolgokat.}
+{286}{BUTCH78}{A Vén Harold? Mit akarsz attól az öreg mutánstól? Az Óvárosban van, csak kérdezz utána!}
+{287}{BUTCH79}{A franc esne beléjük! Daren Hightower szerint õk uralják azt az átkozott Hubot pusztán a Víztorony miatt.}
+{288}{BUTCH80}{Õ a Vízkereskedõk vezetõje. Mocskos, kapzsi egy fickó!}
+{289}{BUTCH81}{Az Belváros észak-nyugati szélén találod õket. Övék volt a kórház, mielõtt a Gyermekek beköltöztek. Ami azt illeti, szerintem egyik kutya, másik eb.}
+{290}{BUTCH82}{Õ a Karmazsin Karaván fõnöke. Ha engem kérdezel, nincs ki az összes kereke...}
+{291}{BUTCH83}{Nem tudod, hol állsz éppen?}
+{292}{BUTCH84}{Én vagyok az. Vak vagy tán?}
+{293}{BUTCH85}{Beth a Fegyverbolt vezetõje. Nagyon sok pletykát hall, ha ilyesmire van szükséged.}
+{294}{BUTCH86}{Rutger a helyettesem.}
+{295}{BUTCH87}{A Kereskedõk Piacától dél felé megtalálod. Itt és a környéken az egyetlen vízforrás. A Vízkereskedõké az egész szar.}
+{296}{BUTCH88}{A múlt hónapban három karavánom tûnt el. Elõször azt hittem, hogy vagy a Vízkereskedõk, vagy a Karmazsin Karaván a ludas, de náluk is történtek eltûnések.}
+{297}{BUTCH89}{Mindenki ott kereskedik. A város kellõs közepén.}
+{298}{BUTCH90}{Öö, nem tudok róla... Beszélj Beth-el, õ többet tud arról a szarról!}
+{299}{BUTCH91}{Az Izzás egy radioaktív gödör messze dél felé. Annyira sugárzik a hely, hogy nemigen van ott élet.}
+{300}{BUTCH92}{Az Óváros a keleti negyedben van. Ott tanyáznak a sóherek.}
+{301}{butch93}{A nyugati negyedben megtalálod.}
+{302}{BUTCH94}{Roncsváros? Hát... északon van, voltam már ott néhányszor. Jó piákat hoztam onnan.}
+{303}{BUTCH95}{Roncsváros? Észak felé megtalálod. Úgy hallottam, amióta Killian polgármestert meggyilkolták, problémáik vannak.}
+{304}{BUTCH96}{Õ Roncsváros polgármestere, ez minden, amit tudok róla.}
+{305}{BUTCH97}{Úgy hallottam, meghalt. Mi egyebet akarsz tudni?}
+{306}{BUTCH98}{Az egy rakás fegyverbuzi észak-nyugaton. Nagyon gázos banda. Mondjuk készítenek egy nagyon jó kis fegyvert.}
+{307}{BUTCH99}{Õ vezeti a Testvériséget. Mást nem tudok róla.}
+{308}{BUTCH100}{Az egy nagy, romos város déli irányban. A Gyermekek, a Tanítványok és Adytum mind ott található, ezenkívül egy rakás banda meg minden ilyesmi.}
+{309}{BUTCH101}{Miért? Mit hallottál? Úgy hallottam, kifosztották, de senki nem tudja, ki a bûnös. Persze kit érdekel? A Hubot úgy sem tudja senki megkaparintani.}
+{310}{BUTCH102}{Ott kereskedik mindenki a Csonttelepen. Az az egyetlen hely, ami elég civilizált az ilyesmihez.}
+{311}{BUTCH103}{Az utolsó infóim szerint õ Adytum polgármestere.}
+{312}{BUTCH104}{Egy nagy, régi kórházat irányítanak a Belváros délnyugati részén. Egy csapat vallásos tökkelütött, ha kiváncsi vagy a véleményemre.}
+{313}{BUTCH105}{Õ Katedrális Gyermekeinek vezetõje, lenn a Csonttelepen.}
+{314}{BUTCH105a}{Jain a Katedrális Gyermekeinek Fõpap-nõje, és övé a Hubbeli kórház is.}
+{315}{BUTCH106}{Hát, izé... hallottam ezt-azt, ez minden. Nem nagyon hiszem el a pletykákat.}
+{316}{BUTCH107}{A legjobb minõségû, legolcsóbb fegyvereket ott veheted a városban. Mindenki ezt mondja, nem csak azért traktállak, mert enyém a bolt. Fordulj csak ki az ajtón, és irány jobbra! Nem lehet eltéveszteni!}
+{317}{BUTCH108}{ Ott aztán lehet jókat enni a javából! A sivatag innensõ részén Bob árulja a legjobb gyíksültet.}
+{318}{BUTCH109}{Mit akarsz azoktól az eszementektõl? Medve anyám, folyton a békérõl papolnak, meg fákat ölelgetnek! A gyomrom felfordul tõlük.}
+{319}{BUTCH110}{Mit akarsz azoktól az eszementektõl? Medve anyám, folyton a békérõl papolnak, meg fákat ölelgetnek! A gyomrom felfordul tõlük.}
+{320}{BUTCH111}{Nem tudok semmit róla.}
+{321}{BUTCH112}{Nos... attól tartok... nem akarok errõl beszélni. De nem ám...}
+{322}{BUTCH113}{Sosem hallottam róla. Talán csak a te agyad szüleménye vagy ilyesmi.}
+{323}{BUTCH114}{Hát azt hallottam, szétverte valaki. Mondjuk gõzöm sincs, kicsoda.}
+{324}{}{Most elfoglalt vagyok. Beszélj Rutgerrel! Õ majd elmondja, érdemes-e veled beszélnem.}
+{325}{}{Nincs mit mondanom.}
+{326}{}{Hol vehetem fel a jutalmamat?}
+{327}{}{Mit is kell csinálnom?}
+{328}{}{Tûnés innen!}
+{329}{}{Egyelõre semmit.}
+{330}{}{Ungribungra!!!}
+{331}{}{Tûnés innen, idióta!}
+#
+# for Fallout Fixt:
+#
+{332}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{333}{}{Far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
+{334}{}{Far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{335}{}{Far to the northwest. It's some kind of outpost or operations center.}
+{336}{}{From the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{337}{}{From the northwest. I think they have some kind of outpost there.}
+{338}{}{I don't know yet, but they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{339}{}{I don't know yet, but there was a big green mutant in a cave near town, babbling about some mission from this guy called "Master".}
+{340}{}{I don't know yet, but I found this weird disk on a big green mutant who said something about his "Master".}
+{341}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{342}{}{No, no, no, you pinhead. These mutants are green, and they come from far to the northwest, from a fortified military outpost. They aren't your regular mutants, either. They are huge and heavily-armed.}
+{343}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{344}{}{No, no, no, you pinhead. These mutants are big and green, and they come from far to the northwest. It's some kind of outpost or operations center.}
+{345}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. They work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{346}{}{No, no, no, you pinhead. These mutants are big and green, and they come from the northwest. I think they have some kind of outpost there.}
+{347}{}{No, no, no, you pinhead. These mutants are big and green, and they work for some loon called The Master. They are organized and kidnapping people from the caravans.}
+{348}{}{No, no, no, you pinhead. These mutants are big and green. There was one in a cave near town, babbling about some mission from this guy called "Master".}
+{349}{}{No, no, no, you pinhead. These mutants are big and green. I found this weird disk on a big green mutant who said something about his "Master".}
+#
+
+{500}{BUTCH55a}{Ööö, tégy úgy! Aztán gyere vissza az eredménnyel... oké??}
+{501}{butch63a}{Hé! Undd már meg!}
+{502}{BUTCH69a}{Ahogy már mondtam...}
+{503}{BUTCH70b}{As I said...}
+{504}{BUTCH105b}{Fogalmam sincs, mirõl beszélsz.}
+
+#
+# Tell-Me-Abouts generic responses
+#
+{980}{BUTCH111}{Nem tudok róla semmit.}
+{981}{BUTCH112}{Én... ööö... nem nagyon akarnék mondani semmit róla. Nem ám...}
+{982}{BUTCH113}{Sosem hallottam róla. Talán csak a te agyad szüleménye vagy ilyesmi.}
+
+#
+# Tell-Me-Abouts
+#
+{1000}{}{Decker}
+{1001}{}{Foldalatti mozgalom}
+{1002}{}{Maltai}
+{1003}{}{Tolvaj}
+{1004}{}{Justin}
+{1005}{}{Harold}
+{1006}{}{Kereskedo}
+{1007}{}{Daren}
+{1008}{}{Karmazsin}
+{1009}{}{Demetre}
+{1010}{}{Trader}
+{1011}{}{Butch}
+{1012}{}{Beth}
+{1013}{}{Rutger}
+{1014}{}{Viz}
+{1015}{}{Eltunt}
+{1016}{}{Piac}
+{1017}{}{Halalkarom}
+{1018}{}{Izzas}
+{1019}{}{Town}
+{1020}{}{Magaslat}
+{1021}{}{Roncsvaros}
+{1022}{}{Killian}
+{1023}{}{Testveriseg}
+{1024}{}{Perjel}
+{1025}{}{Angel}
+{1026}{}{Adytum}
+{1027}{}{Jon}
+{1028}{}{Katedralis}
+{1029}{}{Morpheus}
+{1030}{}{Jain}
+{1031}{}{Mester}
+{1032}{}{Fegyver}
+{1033}{}{Bob}
+{1034}{}{All-N-One}
+{1035}{}{Tanitvany}
+{1036}{}{Harris}
+{1037}{}{Solyom}
+{1038}{}{Mulato}
+{1039}{}{Kereskedo}
+{1040}{}{Hightower}
+{1041}{}{Greene}
+{1042}{}{Karavan}
+{1043}{}{Romara}
+{1044}{}{Traders}
+{1045}{}{Torony}
+{1046}{}{Karavanok}
+{1047}{}{Darkwater}
+{1048}{}{Steel}
+{1049}{}{Angyalok}
+{1050}{}{Csonttelep}
+{1051}{}{Zimmerman}
+{1052}{}{Fegyver}
+{1053}{}{Bolt}
+{1054}{}{Fegyverek}
+{1055}{}{Bob}
+{1056}{}{Gyik}
+{1057}{}{Apokalipszis}
+{1058}{}{Halal}
+{1059}{}{Halalkarom}
+{1060}{}{Hot}
+{1061}{}{Old Town}
+{1062}{}{Ovaros}
+{1063}{}{Maxson}
+{1064}{}{Mindent}
+{1065}{}{Roncs}
+{1066}{}{The Boneyard}
+{1067}{}{L.A. Boneyard}
+
+{1100}{BUTCH73}{Õ a Máltai Sólyom tulajdonosa a nyugati negyedben. Én nagy ívben elkerülném. Nem olyan õszinte, mint például én.}
+{1101}{BUTCH74}{Öö, nem... nem-nem. Errõl nem beszélgetünk...}
+{1102}{BUTCH75}{A Máltai Sólyom egy éjszakai mulató a nyugati negyedben. Hope ott énekel. Nem semmi egy nõci.}
+{1103}{BUTCH76}{Csak a bajt okozzák. Szerintünk az Óvárosban van a rejtekhelyük, de nincs rá bizonyíték.}
+{1104}{BUTCH77}{Õ a seriff. Viszont ha bûnesetet látsz, nekem jelentsd. Justin nem tudja kézben tartani itt a dolgokat.}
+{1105}{BUTCH78}{A Vén Harold? Mit akarsz attól az öreg mutánstól? Az Óvárosban van, csak kérdezz utána!}
+{1106}{BUTCH79}{A franc esne beléjük! Daren Hightower szerint õk uralják azt az átkozott Hubot pusztán a Víztorony miatt.}
+{1107}{BUTCH80}{Õ a Vízkereskedõk vezetõje. Mocskos, kapzsi egy fickó!}
+{1108}{BUTCH81}{Az Belváros észak-nyugati szélén találod õket. Övék volt a kórház, mielõtt a Gyermekek beköltöztek. Ami azt illeti, szerintem egyik kutya, másik eb.}
+{1109}{BUTCH82}{Õ a Karmazsin Karaván fõnöke. Ha engem kérdezel, nincs ki az összes kereke...}
+{1110}{BUTCH83}{Nem tudod, hol állsz éppen?}
+{1111}{BUTCH84}{Én vagyok az. Vak vagy tán?}
+{1112}{BUTCH85}{Beth a Fegyverbolt vezetõje. Nagyon sok pletykát hall, ha ilyesmire van szükséged.}
+{1113}{BUTCH86}{Rutger a helyettesem.}
+{1114}{BUTCH87}{A Kereskedõk Piacától dél felé megtalálod. Itt és a környéken az egyetlen vízforrás. A Vízkereskedõké az egész szar.}
+{1115}{BUTCH88}{A múlt hónapban három karavánom tûnt el. Elõször azt hittem, hogy vagy a Vízkereskedõk, vagy a Karmazsin Karaván a ludas, de náluk is történtek eltûnések.}
+{1116}{BUTCH89}{Mindenki ott kereskedik. A város kellõs közepén.}
+{1117}{BUTCH90}{Öö, nem tudok róla... Beszélj Beth-el, õ többet tud azokról a szarosokról!}
+{1118}{BUTCH91}{Az Izzás egy radioaktív gödör messze dél felé. Annyira sugárzik a hely, hogy nemigen van ott élet.}
+{1119}{BUTCH92}{Az Óváros a keleti negyedben van. Ott tanyáznak a sóherek.}
+{1120}{BUTCH93}{A nyugati negyedben megtalálod.}
+{1121}{BUTCH94}{Roncsváros? Hát... északon van, voltam már ott néhányszor. Jó piákat hoztam onnan.}
+{1122}{BUTCH96}{Õ Roncsváros polgármestere, ez minden, amit tudok róla.}
+{1123}{BUTCH98}{Az egy rakás fegyverbuzi észak-nyugaton. Nagyon gázos banda. Mondjuk készítenek egy nagyon jó kis fegyvert.}
+{1124}{BUTCH99}{Õ vezeti a Testvériséget. Mást nem tudok róla.}
+{1125}{BUTCH100}{Az egy nagy, romos város déli irányban. A Gyermekek, a Tanítványok és Adytum mind ott található, ezenkívül egy rakás banda meg minden ilyesmi.}
+{1126}{BUTCH102}{Ott kereskedik mindenki a Csonttelepen. Az az egyetlen hely, ami elég civilizált az ilyesmihez.}
+{1127}{BUTCH103}{Az utolsó infóim szerint õ Adytum polgármestere.}
+{1128}{BUTCH104}{Egy nagy, régi kórházat irányítanak a Belváros délnyugati részén. Egy csapat vallásos tökkelütött, ha kiváncsi vagy a véleményemre.}
+{1129}{BUTCH105}{Õ Katedrális Gyermekeinek vezetõje, lenn a Csonttelepen.}
+{1130}{BUTCH105a}{Jain a Katedrális Gyermekeinek Fõ Papnõje, és övé a Hubbeli kórház is.}
+{1131}{BUTCH106}{Hát, izé... hallottam ezt-azt, ez minden. Nem nagyon hiszem el a pletykákat.}
+{1132}{BUTCH107}{A legjobb minõségû, legolcsóbb fegyvereket ott veheted a városban. Mindenki ezt mondja, nem csak azért traktállak, mert enyém a bolt. Fordulj csak ki az ajtón, és irány jobbra! Nem lehet eltéveszteni!}
+{1133}{BUTCH108}{Ott aztán lehet jókat enni a javából! A sivatag innensõ részén Bob árulja a legjobb gyíksültet.}
+{1134}{BUTCH109}{Hát... nem hinném, hogy neked való hely az. Az árak elég magasak, a minõség pedig csapnivaló.}
+{1135}{BUTCH110}{Mit akarsz azoktól az eszementektõl? Medve anyám, folyton a békérõl papolnak, meg fákat ölelgetnek! A gyomrom felfordul tõlük.}
+{1136}{BUTCH84}{Én vagyok az. Vak vagy tán?}
+{1137}{BUTCH75}{A Máltai Sólyom egy éjszakai mulató a nyugati negyedben. Hope ott énekel. Nem semmi egy nõci.}
+{1138}{BUTCH75}{A Máltai Sólyom egy éjszakai mulató a nyugati negyedben. Hope ott énekel. Nem semmi egy nõci.}
+{1139}{BUTCH79}{A franc esne beléjük! Daren Hightower szerint õk uralják azt az átkozott Hubot pusztán a Víztorony miatt.}
+{1140}{BUTCH80}{Õ a Vízkereskedõk vezetõje. Mocskos, kapzsi egy fickó!}
+{1141}{BUTCH77}{Õ a seriff. Viszont ha bûnesetet látsz, nekem jelentsd! Justin nem tudja kézben tartani itt a dolgokat.}
+{1142}{BUTCH81}{Az Belváros észak-nyugati szélén találod õket. Övék volt a kórház, mielõtt a Gyermekek beköltöztek. Ami azt illeti, szerintem egyik kutya, másik eb.}
+{1143}{BUTCH82}{Õ a Karmazsin Karaván fõnöke. Ha engem kérdezel, nincs ki az összes kereke...}
+{1144}{BUTCH83}{Nem tudod, hol állsz éppen?}
+{1145}{BUTCH87}{A Kereskedõk Piacától dél felé megtalálod. Itt és a környéken az egyetlen vízforrás. A Vízkereskedõké az egész szar.}
+{1146}{BUTCH88}{A múlt hónapban három karavánom tûnt el. Elõször azt hittem, hogy vagy a Vízkereskedõk, vagy a Karmazsin Karaván a ludas, de náluk is történtek eltûnések.}
+{1147}{BUTCH96}{Õ Roncsváros polgármestere, ez minden, amit tudok róla.}
+{1148}{BUTCH98}{Az egy rakás fegyverbuzi észak-nyugaton. Nagyon gázos banda. Mondjuk készítenek egy nagyon jó kis fegyvert.}
+{1149}{BUTCH100}{Az egy nagy, romos város déli irányban. A Gyermekek, a Tanítványok és Adytum mind ott található, ezenkívül egy rakás banda meg minden ilyesmi.}
+{1150}{BUTCH100}{Az egy nagy, romos város déli irányban. A Gyermekek, a Tanítványok és Adytum mind ott található, ezenkívül egy rakás banda meg minden ilyesmi.}
+{1151}{BUTCH103}{Az utolsó infóim szerint õ Adytum polgármestere.}
+{1152}{BUTCH107}{A legjobb minõségû, legolcsóbb fegyvereket ott veheted a városban. Mindenki ezt mondja, nem csak azért traktállak, mert enyém a bolt. Fordulj csak ki az ajtón, és irány jobbra! Nem lehet eltéveszteni!}
+{1153}{BUTCH107}{A legjobb minõségû, legolcsóbb fegyvereket ott veheted a városban. Mindenki ezt mondja, nem csak azért traktállak, mert enyém a bolt. Fordulj csak ki az ajtón, és irány jobbra! Nem lehet eltéveszteni!}
+{1154}{BUTCH107}{A legjobb minõségû, legolcsóbb fegyvereket ott veheted a városban. Mindenki ezt mondja, nem csak azért traktállak, mert enyém a bolt. Fordulj csak ki az ajtón, és irány jobbra! Nem lehet eltéveszteni!}
+{1155}{BUTCH108}{Ott aztán lehet jókat enni a javából! A sivatag innensõ részén Bob árulja a legjobb gyíksültet.}
+{1156}{BUTCH108}{Ott aztán lehet jókat enni a javából! A sivatag innensõ részén Bob árulja a legjobb gyíksültet.}
+{1157}{BUTCH110}{Mit akarsz azoktól az eszementektõl? Medve anyám, folyton a békérõl papolnak, meg fákat ölelgetnek! A gyomrom felfordul tõlük.}
+{1158}{BUTCH90}{Öö, nem tudok róla... Beszélj Beth-el, õ többet tud azokról a szarosokról!}
+{1159}{BUTCH90}{Öö, nem tudok róla... Beszélj Beth-el, õ többet tud azokról a szarosokról!}
+{1160}{BUTCH91}{Az Izzás egy radioaktív gödör messze dél felé. Annyira sugárzik a hely, hogy nemigen van ott élet.}
+{1161}{BUTCH92}{Az Óváros a keleti negyedben van. Ott tanyáznak a sóherek.}
+{1162}{BUTCH92}{Az Óváros a keleti negyedben van. Ott tanyáznak a sóherek.}
+{1163}{BUTCH99}{Õ vezeti a Testvériséget. Mást nem tudok róla.}
+{1164}{BUTCH109}{Hát... nem hinném, hogy neked való hely az. Az árak elég magasak, a minõség pedig csapnivaló.}
+{1165}{BUTCH94}{Roncsváros? Hát... északon van, voltam már ott néhányszor. Jó piákat hoztam onnan.}
+{1166}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}
+{1167}{BUTCH100}{Well, it's a big ruined city to the south. The Children, the Followers and Adytum are there, along with all the gangs and stuff.}

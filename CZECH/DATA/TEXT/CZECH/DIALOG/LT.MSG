@@ -7,9 +7,7 @@
 {106}{LIEUT1A}{Uráky. Jak smìšné. Øeknu ti, jak na tom si. Máš dvì monosti: Øekneš mi to dobrovolnì a bez vytáèek. Nebo to z tebe vytáhnu sám, ale to si radši nepøej . . .}
 {107}{}{Neberu ani jedno.}
 {108}{}{Dobøe, ale pod jednou podmínkou.}
-{109}{}{Dobøe, øeknu ti to.
-Je to na druhé stranì hor, daleko na severu. U takové zvláštní, polokulovité skály . . .
-A teï, co za to dostanu?}
+{109}{}{Dobøe, øeknu ti to.Je to na druhé stranì hor, daleko na severu. U takové zvláštní, polokulovité skály . . .A teï, co za to dostanu?}
 {110}{LIEUT1B}{Pokud si vzpomínám, tak sem ti nic nenabízel. Ale mùu podìkovat za to, e si mi øekl, kde je tvùj Vault. A myslím, e Vùdce bude také . . . potìšen.}
 {111}{LIEUT2}{No to je milé. A teï, 'kdy dovolíš', kde je tvùj Vault?}
 {112}{}{Je to . . . je to . . .}
@@ -20,8 +18,7 @@ A teï, co za to dostanu?}
 {117}{}{Chci mít monost svobodnì odejít.}
 {118}{}{Dej si pytel na hlavu, aby se ve tvı pøítomnosti dalo vydret.}
 {119}{}{Chci se nejdøív zeptat na nìjaké otázky.}
-{120}{LIEUT4}{Jakı skvìlı smysl pro humor. Smùla, e já ádnı takovı nemám.
-No, tak . . . a teï mi øekni, kde je tvùj Vault.}
+{120}{LIEUT4}{Jakı skvìlı smysl pro humor. Smùla, e já ádnı takovı nemám.No, tak . . . a teï mi øekni, kde je tvùj Vault.}
 {121}{}{Dobøe, ale pøedtím mi odpovíš na pár otázek?}
 {122}{}{Neøeknu a nijak mì k tomu nepøinutíš.}
 {123}{}{Je to . . . no . . .}
@@ -106,14 +103,12 @@ No, tak . . . a teï mi øekni, kde je tvùj Vault.}
 {202}{LIEUT33}{Oh, teda, jsi chytøejší, ne jsem si myslel. Take u chápeš, proè potøebujeme tvùj Vault.}
 {203}{}{Tak to je špatné, protoe ten nedostanete.}
 {204}{}{Je to velkı Vault. Co takhle mi nejdøív odpovìdìt na pár otázek?}
-
-{205}{LIEUT34}{Odejít? Vìøím . . . ještì to zkontroluju . . . ano, málem si mì rozesmál. Jak pøekrásnì zábavné. Jediné místo, kam pùjdeš, jsou Nádre.
-Teda a potom, co mi øekneš, kde je tvùj Vault.}
+
+{205}{LIEUT34}{Odejít? Vìøím . . . ještì to zkontroluju . . . ano, málem si mì rozesmál. Jak pøekrásnì zábavné. Jediné místo, kam pùjdeš, jsou Nádre.Teda a potom, co mi øekneš, kde je tvùj Vault.}
 {206}{}{Doufám, e pochopíš, kdy odmítnu.}
 {207}{LIEUT35}{Uvidíme, nebo ne?}
 {208}{lieut35a}{Tak dost, vìøím, e mi to nechceš øíct. To musíme napravit!}
-{209}{LIEUT36}{Cítíš se teïka líp? Muèení je tak hrubá, ale nechutnì uspokojující metoda. Tak se tì zeptám znovu.
-Kde . . . je . . . ten . . . Vault?!}
+{209}{LIEUT36}{Cítíš se teïka líp? Muèení je tak hrubá, ale nechutnì uspokojující metoda. Tak se tì zeptám znovu.Kde . . . je . . . ten . . . Vault?!}
 {210}{}{To. Nikdy. Neøeknu.}
 {211}{}{U to nevydrím. Pøes hory na západ. Ukáu ti to na mapì.}
 {212}{LIEUT37}{Doufal jsem, e to øekneš.}
@@ -123,8 +118,7 @@ Kde . . . je . . . ten . . . Vault?!}
 {216}{LIEUT38}{Ah, cítím se mnohem líp. A co ty? No a teï buï u hodnı èlovìk a øekni, kde je tvùj Vault. U to zaèíná bıt nudné.}
 {217}{}{Táhni do pekla.}
 {218}{}{Všechno øeknu. Jenom u mì nemuète!}
-{219}{}{A ještì budeš rád.
-Stráe, odveïte ho zpátky do cely a pøipravte ho k infikaci. A bude jedním z nás, tak prozradí, kde je jeho Vault.}
+{219}{}{A ještì budeš rád.Stráe, odveïte ho zpátky do cely a pøipravte ho k infikaci. A bude jedním z nás, tak prozradí, kde je jeho Vault.}
 {220}{}{Pokud jsi si tak jistı, e to øeknu po mutaci, tak proè tohle všechno?}
 {221}{LIEUT39a}{No, chápej, je tady malá nevıhoda. Obèas, ne vdycky, se pamì, no jak bych to øekl . . . poškodí. Je tady prostì malá šance, e zapomeneš jeho umístìní.}
 {222}{}{No, take si nemùete dovolit mì nakazit.}

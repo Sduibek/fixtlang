@@ -1,0 +1,176 @@
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+#  Messages from perk.c
+#
+#
+#  PERK NAMES
+#
+#
+{101}{}{Consapevolezza}
+{102}{}{Bonus: Attacchi Corpo a Corpo}
+{103}{}{Bonus: Danno Corpo a Corpo}
+{104}{}{Bonus: Mossa Extra}
+{105}{}{Bonus: Danno a Distanza}
+{106}{}{Bonus: Volume di Fuoco}
+{107}{}{Sequenza Anticipata}
+{108}{}{Guarigione Rapida}
+{109}{}{Piu' Colpi Critici}
+{110}{}{Visione Notturna}
+{111}{}{Presenza}
+{112}{}{Mr. Atomo}
+{113}{}{Robustezza}
+{114}{}{Schiena Robusta}
+{115}{}{Tiratore Scelto}
+{116}{}{Corsa Silenziosa}
+{117}{}{Corso di Sopravvivenza}
+{118}{}{Mercante Esperto}
+{119}{}{Istruito}
+{120}{}{Guaritore}
+{121}{}{Cacciatore di Tesori}
+{122}{}{Colpi Critici Migliori}
+{123}{}{Empatia}
+{124}{}{Massacratore}
+{125}{}{Cecchino}
+{126}{}{Morte Silenziosa}
+{127}{}{Action Boy}
+{128}{}{Blocco Mentale}
+{129}{}{Vivificatore}
+{130}{}{Schivatore}
+{131}{}{Mangiaserpenti}
+{132}{}{Mr. Aggiustatutto}
+{133}{}{Medico}
+{134}{}{Ladro Mastro}
+{135}{}{Parlatore}
+{136}{}{Oh Issa!}
+{137}{}{Amico-Nemico}
+{138}{}{Borseggiatore}
+{139}{}{Fantasma}
+{140}{}{Culto della Personalita'}
+{141}{}{Scroccone}
+{142}{}{Esploratore}
+{143}{}{Figlio dei Fiori}
+{144}{}{Trova-Piste}
+{145}{}{Amico degli Animali}
+{146}{}{Scout}
+{147}{}{Straniero Misterioso}
+{148}{}{Ranger}
+{149}{}{Tasche Rapide}
+{150}{}{Fine Dicitore}
+{151}{}{Svelto ad Imparare}
+{152}{}{Scelta!}
+{153}{}{Mutazione!}
+#
+#
+# ADDICTIONS
+#
+#
+{154}{}{Dipendenza da Nuka-Cola}
+{155}{}{Dipendenza da Buffout}
+{156}{}{Dipendenza da Mentat}
+{157}{}{Dipendenza da Psycho}
+{158}{}{Dipendenza da RadAway}
+{164}{}{Alcohol Addiction} #was Combat Armor
+#
+#
+# WEAPON PERKS
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in weapon bonuses
+#
+{159}{}{Weapon Long Range}
+{160}{}{Weapon Accurate}
+{161}{}{Weapon Penetrate}
+{162}{}{Weapon Knockback}
+{163}{}{Powered Armor}
+#
+#
+#  PERK DESCRIPTIONS
+#
+##
+## NOTE: Each line in the description box holds roughly 40 characters in English. Meaning to add a blank line, add 40 spaces and then reduce as needed.
+##       This will differ based on words used (since it wraps based on the word length)  --Sduibek, Fallout Fixt
+##
+#
+{201}{}{You have honed your ability to notice details about people and the world around you. For example, Awareness will show you the exact number of hit points and weapon held when you perform an Examine on a person.}
+{202}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
+{203}{}{L'esperienza nel combattimento a mani nude ti ha dato un vantaggio quando si tratta di fare danni. Infliggi +2 punti danno negli attacchi a mani nude o in mischia per ogni livello di questa Strenna.}
+{204}{}{Per ogni livello di Bonus: Mossa, guadagni 2 PA a turno utilizzabili solo per muoverti. In parole povere, puoi spostarti di 2 caselle in piu' per ogni livello di questa Strenna.}
+{205}{}{Il tuo allenamento con le armi da fuoco ti ha reso piu' letale nel combattimento a distanza. Per ogni livello di questa Strenna, infliggi +2 punti danno con le armi a distanza.}
+{206}{}{Questa Strenna ti permette di premere il grilletto un po' piu' rapidamente senza danneggiare la tua precisione. Ogni attacco con armi a distanza costa 1 PA in meno.}
+{207}{}{E' piu' probabile che tu riesca a muoverti prima dei tuoi avversari in combattimento, dato che la tua Sequenza ha un bonus di +2 per ogni livello di questa Strenna.}
+{208}{}{Per ogni livello di questa Strenna, ricevi un bonus +2 per il tuo Tasso di Guarigione. Guarisci piu' in fretta.}
+{209}{}{E' piu' probabile che tu riesca a sferrare Colpi Critici in combattimento, se hai questa Strenna. Ogni livello ti da' una chance aggiuntiva del 5% di sferrare un Colpo Critico. Non male.}
+{210}{}{Con la Strenna Visione Notturna puoi vedere meglio al buio. Questo ridurra' il livello di oscurita' generale del 10%.}
+{211}{}{Ti basta entrare in una stanza per attirare subito l'attenzione. La reazione iniziale di un'altra persona sara' incrementata del 10% per ogni livello di questa Strenna.}
+{212}{}{Sei piu' bravo ad evitare le radiazioni e gli effetti negativi che esse causano. Ogni livello di questa Strenna aumenta la tua Resistenza alle Radiazioni del 10%.}
+{213}{}{Se sei piu' robusto, subisci meno danni. Ogni livello di questa Strenna aggiunge +10% alla tua Resistenza al Danno generale.}
+{214}{}{Ovvero: Mulo. Puoi portare 50 libbre di equipaggiamento in piu' per ogni livello di questa Strenna.}
+{215}{}{The talent of hitting things at longer distances. You get a +2 bonus, for each level of this Perk, to Perception for the purposes of determining range modifiers. This DOES have an effect at PER of 9 & 10.}
+{216}{}{Con questa Strenna potrai usare Movimento Furtivo e correre allo stesso tempo. Senza questa Strenna, smetteresti di usare Movimento Furtivo una volta iniziato a correre.}
+{217}{}{You are a master of the outdoors, surviving in hostile environments where others would surely perish. For each level of this Perk, you receive +20% to your Outdoorsman skill, and an additional +20% in wilderness survival situations.}
+{218}{}{Sei diventato esperto in un aspetto del baratto: comprare oggetti a costi nettamente inferiori al normale. Con questa Strenna, ricevi uno sconto del 25% quando acquisti oggetti in un negozio o da un mercante.}
+{219}{}{Ogni livello di Istruito aggiunge +2 punti abilita' quando raggiungi un nuovo livello di esperienza. Questa Strenna funziona meglio se acquisita precocemente nel corso delle tue avventure.}
+{220}{}{Curare le ferite ti risulta piu' facile. Ogni livello di questa Strenna guarisce 2-5 punti vita aggiuntivi quando utilizzi l'abilita' Pronto Soccorso o Dottore.}
+{221}{}{You have the talent of finding money, or just tend to get lucky. You will find additional bottle caps in random encounters in the wasteland.}
+{222}{}{I tuoi Colpi Critici sono piu' devastanti. Guadagni il 20% nei danni da Colpi Critici: in pratica, verra' inflitto un danno maggiore. Questo non modifica la probabilita' di infliggere un Colpo Critico.}
+{223}{}{Hai studiato gli esseri umani, e hai una maggior conoscenza delle loro reazioni emotive verso di te. Durante una conversazione approfondita potrai vedere le reazioni del tuo interlocutore.}
+{224}{}{Il Massacratore cammina sulla Terra! Nel combattimento Corpo a Corpo tutti i tuoi colpi sono promossi a Colpi Critici, causando distruzione e caos.}
+{225}{}{Usi le armi da fuoco come strumenti di dolore. Con questa Strenna i colpi andati a segno con un'arma da distanza verranno promossi a Colpi Critici se riuscirai ad effettuare un tiro sulla Fortuna.}
+{226}{}{Colpendo una creatura alle spalle con un attacco Corpo a Corpo mentre ti Muovi Furtivamente, le causerai un danno doppio. La Morte Silenziosa funziona cosi'.}
+{227}{}{Ogni livello di Action Boy (o Girl, se preferisci) ti da' un PA in piu' da spendere in ogni turno di combattimento. Puoi usare questi PA generici per qualsiasi azione.}
+{228}{}{Blocco Mentale e' l'abilita' di eliminare ogni interferenza mentale esterna. Devi aver imparato questa tecnica da qualche guru di passaggio, oppure durante una luuuuuunga nottata al bar.}
+{229}{}{With each level of this Perk, your Maximum Hit Points increases by 4. You also gain an addition 4 Hit Points per experience level earned. This may not seem like a lot, but every little bit helps.}
+{230}{}{Con questa Strenna e' piu' difficile che ti colpiscano in combattimento. Ogni livello ti assicura un +5% nella tua Classe d'Armatura, in aggiunta al bonus CA derivante dall'armatura indossata.}
+{231}{}{Yum! Sa di pollo. Il tuo corpo ha sviluppato una sorta di immunita', facendoti guadagnare un +25% di Resistenza al Veleno.}
+{232}{}{Questa Strenna ti dara' un bonus una tantum di +20% per le tue abilita' Scienza e Riparare. Un po' di studio notturno non ha mai fatto male a nessuno, specialmente a te.}
+{233}{}{La Strenna Medico ti da' un bonus una tantum di +20% per le abilita' Pronto Soccorso e Dottore. Le abilita' curative sono una bella cosa.}
+{234}{}{Un Ladro Mastro riceve un bonus una tantum di +10% in Movimento Furtivo, Scassinare, Rubare e Trappole. Rubi ai ricchi per dare a te.}
+{235}{}{Essere un Parlatore ti garantisce un bonus una tantum di +20% in Dialogare e Barattare. Dalla bocca dei bambini ecc. ecc.}
+{236}{}{Ogni livello della Strenna Oh Issa! ti conferisce un +2 addizionale alla Forza, ma solo per determinare la gittata delle armi da lancio.}
+{237}{}{Durante un combattimento, i personaggi del tuo gruppo saranno evidenziati in verde e non in rosso. I PNG evidenziati in rosso possono comunque essere neutrali.}
+{238}{}{Sei un ladro molto piu' abile dei normali delinquenti. Puoi fregare persino i migliori di loro, poiche' con questa Strenna ignori i modificatori di dimensione e direzione quando rubi da una persona.}
+{239}{}{Quando il sole tramonta o ti trovi in una zona poco illuminata, con questa Strenna ti muovi come un fantasma. La tua abilita' Movimento Furtivo e' aumentata del 20% in condizioni di oscurita'.}
+{240}{}{La tua reputazione e' sempre positiva. Senza questa Strenna, una pessima reputazione avrebbe un brutto effetto sui Buoni. Funziona anche al contrario.}
+{241}{}{Riesci a trovare piu' munizioni rispetto agli altri sopravvissuti post-atomici. Questa Strenna raddoppia la quantita' di munizioni trovate negli incontri casuali.}
+{242}{}{Lo scopo dell'Esploratore e' scoprire luoghi nuovi ed interessanti. Con questa Strenna hai una probabilita' maggiore di trovare luoghi e persone speciali.}
+{243}{}{Con questa Strenna e' meno probabile che tu sviluppi dipendenza da droghe (50% in meno, numericamente parlando) e hai i tempi di recupero dimezzati rispetto alle persone normali.}
+{244}{}{Il Trova-Piste e' piu' bravo a trovare la via piu' breve. Ogni livello di questa Strenna riduce il tempo di percorrenza sulla Mappa del Mondo del 25%.}
+{245}{}{Gli animali non attaccheranno un loro amico, a meno che non siano minacciati o attaccati per primi. Gli esperti si stanno ancora interrogando su cosa esattamente sia un animale, in questo mondo.}
+{246}{}{Hai migliorato la tua capacita' di vedere luoghi lontani, aumentando di una casella il raggio d'esplorazione sulla Mappa del Mondo.}
+{247}{}{Con questa Strenna ti sei guadagnato l'attenzione di uno Straniero Misterioso, che apparira' per aiutarti di tanto in tanto. Se il tuo alleato dovesse perire in combattimento, non credere che sara' rimpiazzato (o rimpiazzata).}
+{248}{}{Mentre viaggi per le lande, sei piu' abile nell'evitare attenzioni indesiderate. Ogni livello di questa Strenna diminuisce la possibilita' di incontri ostili.}
+{249}{}{Hai imparato a riporre meglio il tuo equipaggiamento. Ogni livello di questa Strenna diminuisce di 1 AP il tempo necessario per accedere all'inventario durante un combattimento.}
+{250}{}{Hai imparato a migliorare le tua capacita' di scelta nei dialoghi pur senza capire di cosa tu stia parlando. Ogni livello di questa Strenna aumenta di 1 la tua IN, solamente a scopi di dialogo.}
+{251}{}{Con questa Strenna diventi davvero Svelto ad Imparare, dato che ogni livello ti garantisce un 5% in piu' ogni volta che guadagni dei punti esperienza. Meglio prenderla all'inizio dell'avventura.}
+{252}{}{Le tue abilita' sono migliorate al punto da poter prendere un'Abilita' Scelta aggiuntiva. Le Abilita' Scelte aumentano al doppio della velocita'.}
+{253}{}{Le radiazioni delle Lande ti hanno cambiato! Uno dei tuoi Tratti e' mutato in qualcosa d'altro...}
+#
+#
+# ADDICTION MESSAGES
+#
+#
+##
+## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
+##  (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
+##
+{254}{}{You crave another Nuka-Cola, the delicious thirst-quenching soda pop.}
+{255}{}{You've got the shakes and feel weak. Life's rough without steroids.}
+{256}{}{You feel groggy and slow. Your brain itself seems to ache...}
+{257}{}{You feel light-headed and irritable. Where's that spare syringe?}
+{258}{}{You feel nauseous and need a fix. Just one more pouch, that's all!}
+{264}{}{You just want a hard drink; it's everyone else that has the problem.}
+#
+#
+# NOTE: These are not seen in-game; they are labels used internally to describe built-in item bonuses
+#
+{259}{}{Weapon Long Range}
+{260}{}{Weapon Accurate}
+{261}{}{Weapon Penetrate}
+{262}{}{Weapon Knockback}
+{263}{}{Powered Armor}
+# 264 is above
+#
+# Sduibek, Fallout Fixt - for some reason the game crashes if you create new line 265 used for Alcohol Addiction, so using this line instead.
+# 	(264 was "Combat Armor")

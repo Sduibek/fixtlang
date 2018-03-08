@@ -1,0 +1,38 @@
+{100}{}{Vedi un venditore ambulante di origini asiatiche.}
+{101}{}{Vedi Duc, il venditore ambulante.}
+{102}{}{Salute a te, onolevole viaggiatole. Mi chiamo Duc, e sono diletto velso Shady Sands pel vendele la mia melcanzia. Folse che vollesti complale qualcosa?}
+{103}{}{Che cos'hai da vendere?}
+{104}{}{Ti rechi spesso a Shady Sands?}
+{105}{}{Erf!}
+{106}{}{Ecco qua.}
+{107}{}{Si', Shady Sands fa palte del mio tlagitto abituale. Puoi viaggiale fin li' con noi, se vuoi.}
+{108}{}{Certo, perche' no?}
+{109}{}{No, grazie.}
+# Old response to 114 "None of your business" was 110 "Oh, sorry -- didn't realize you were that stupid."
+{110}{}{Hmph! I didn't realize you're an asshole. Go take your bullshit somewhere else.}
+{111}{}{Ci sala' cilca una giolnata di viaggio. Andiamo!}
+{112}{}{SHADYW.MAP}
+{113}{}{Non sono molti quelli che attlavelsano le lande da soli. Chi sei?}
+{114}{}{Non sono affari tuoi.}
+{115}{}{Sono }
+{116}{}{.}
+
+#TRANSLATION NOTE: 117 & 132 are for Stupid characters,
+# they are shouting their name as a greeting. For example "Me John!"
+{117}{}{Me }
+{132}{}{!}
+
+{118}{}{Ben litlovato! Cosa posso fale pel te?}
+{119}{}{Posso unirmi a voi fino a Shady Sands?}
+{120}{}{Che cos'hai da vendere?}
+{121}{}{Niente, grazie.}
+{122}{}{Che cosa vuoi?}
+{123}{}{Niente, scusa.}
+{124}{}{Che cos'hai da vendere?}
+{125}{}{Uh?}
+{126}{}{Dovlesti fale molta attenzione quando viaggi da solo. Alcuni abitanti di Shady Sands sono scompalsi, ultimamente.}
+{127}{}{Ehi, ho sentito che hai salvato quella lagazza di Shady Sands. Ottimo lavolo.}
+{128}{}{Oh, sorry. I didn't realize you're an idiot.}
+{129}{}{Thanks, see you around.}
+{130}{}{Rumph!}
+{131}{}{Erf!}

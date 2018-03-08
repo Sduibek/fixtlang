@@ -185,6 +185,7 @@
 {284}{}{Je peux encore te poser quelques questions ?}
 {285}{}{C'est tout. Faut que j'y aille.}
 # 286 changed with patch 1.3 from TeamX
+# was "286 Nic_72 Please, we're busy. Don't you have things to do?"
 {286}{}{Je t'en prie, nous sommes occupés. N'as-tu donc rien à faire ?}
 {287}{Nic_74}{Que fais-tu ? Pose ça !}
 {288}{Nic_75}{Arrête !}
