@@ -19,9 +19,9 @@
 {106}{}{(Put your hands in the air and give up.)}
 {107}{}{Watch your back, this isn't a safe place.}
 
-# 108/109, 108/110 are lines which go together. "Watch your scripts, guy." or "Watch your scripts, lady."
-{108}{}{Watch your scripts, }
-# scripts are money
+# 108/109, 108/110 are lines which go together. "Watch your scrips, guy." or "Watch your scrips, lady."
+{108}{}{Watch your scrips, }
+# scrips are a substitute for money
 
 {109}{}{guy.}
 {110}{}{lady.}

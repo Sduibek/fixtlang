@@ -105,12 +105,12 @@
 # NOT Lorri
 #
 {200}{}{You see the Doctor's assistant.}
-{233}{}{ script but takes 3 weeks to heal.}
-{237}{}{ script, but the recovery from this operation is only a week.}
-{239}{}{ script.}
-{241}{}{ script.}
-{243}{}{ script.}
-{245}{}{ script and takes 3 weeks to heal.}
+{233}{}{ scrips but takes 3 weeks to heal.}
+{237}{}{ scrips, but the recovery from this operation is only a week.}
+{239}{}{ scrips.}
+{241}{}{ scrips.}
+{243}{}{ scrips.}
+{245}{}{ scrips and takes 3 weeks to heal.}
 {279}{}{You should see the Doctor.}
 {280}{}{She's the Doctor, not me.}
 {281}{}{I'm only in training.}
@@ -123,7 +123,7 @@
 # Stat is already maxxed:
 {500}{}{I'm sorry but this operation will not help you.}
 #
-{400}{}{Hmmm. If anyone here needs an intelligence enhancement, it would be you. In fact, I'll do it for 3000 script instead of the 6000 you would normally need for the operation. I can't guarantee that it will help you, but I think it would be worth a try. It will also take 3 weeks of recovery time. You probably don't understand this though, do you?}
+{400}{}{Hmmm. If anyone here needs an intelligence enhancement, it would be you. In fact, I'll do it for 3000 scrips instead of the 6000 you would normally need for the operation. I can't guarantee that it will help you, but I think it would be worth a try. It will also take 3 weeks of recovery time. You probably don't understand this though, do you?}
 {401}{}{Me want Smart.}
 {402}{}{Do not want! Docs is scary...}
 {403}{}{Very well then. Are you irradiated or hurt? I'll help you if I can.}
