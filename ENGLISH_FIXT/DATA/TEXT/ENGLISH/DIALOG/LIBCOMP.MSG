@@ -3,7 +3,7 @@
 {102}{}{You spend 1 hour on the Vault computer teaching system but learn nothing new of importance. The outside world is your teacher now.}
 {103}{}{You spend 6 hours researching any topic that seems important. You feel you have gained vital knowledge that will help you in your travels outside the Vault.}
 {104}{}{You spend 6 hours on the interwebs doing nothing of importance.}
-{105}{}{You fiddle with the computer a bit, but it takes some scientific skill to actually get anything useful out of the terminal.}
+{105}{}{You fiddle with the computer a bit, but it will take some scientific skill to actually get anything useful out of it.}
 #
 # Fallout Fixt:
 #

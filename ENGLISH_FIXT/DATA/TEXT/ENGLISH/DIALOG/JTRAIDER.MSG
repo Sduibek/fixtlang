@@ -34,8 +34,8 @@
 {133}{}{Maybe. I dunno.}
 {134}{}{guy}
 {135}{}{gal}
-{136}{}{You sound like an alright kind of guy. No one ever wanted to help me before. I think we can talk some more.}
-{137}{}{You sound like an alright kind of gal. No one ever wanted to help me before. I think we can talk some more.}
+{136}{}{You sound like an all right kind of guy. No one ever wanted to help me before. I think we can talk some more.}
+{137}{}{You sound like an all right kind of gal. No one ever wanted to help me before. I think we can talk some more.}
 {138}{}{Just leave me alone. I hate you! You are the devil. I won't listen to you.}
 {139}{}{Have it your way.}
 {140}{}{You have to hear me out. Your life, and the life of the girl, depend on it.}
@@ -60,7 +60,7 @@
 {159}{}{I won't shoot you. Trust me.}
 {160}{}{Nothing, you'll just have to believe what I say.}
 {161}{}{No way! I don't trust you!}
-{162}{}{Alright. We'll see what happens, won't we.}
+{162}{}{All right. We'll see what happens, won't we.}
 {163}{}{Here's 100 caps. Have a good day.}
 {164}{}{You can leave peacefully.}
 {165}{}{I want my money. I want 200 caps.}

@@ -1,11 +1,14 @@
+;
+; READ THIS: DO NOT EDIT OR SAVE THIS FILE IN Windows' Notepad.exe!!!!!! It will ruin certain characters from non-English languages. Notepad++ is recommended.
+;
 ; #MAIN HEADING - LARGE WHITE
 ; @Subheading - SMALL DARK
 ; List of folks - LARGE YELLOW
 #= Fallout Fixt =
 
-@A comprehensive customizable patch/mod/restoration
-@Version:  0.81alpha
+@A comprehensive customizable mod/patch/update/restoration
 
+@Version:  0.80alpha
 Sduibek
 
 
@@ -13,8 +16,7 @@ Sduibek
 
 @The number of promising mods and projects killed by
 @crashed drives and lost source code is immeasurable
-
-Thank you
+Thank you!
 
 
 #Philanthropists
@@ -263,9 +265,6 @@ Per
 @For writing the Nearly Ultimate Fallout Guide, a great resource
 @Which I still use as a reference when working on Fixt
 
-robbforce
-@For the many fixes and improvements of text & dialog
-
 RPGCodex forum users
 @For the excellent no-bullshit feedback they provide,
 @without scaling to your level
@@ -392,9 +391,7 @@ Sduibek
 @With contributions by
 Ash
 Endocore
-Luffier
 Prisoner416
-robbforce
 
 @"Dialog Fixes" mod/patch
 Nimrod
@@ -487,7 +484,6 @@ warning077
 zebrajch
 ziemeck
 ...and anyone else I've forgotten to list here!
-
 
 #AUDIO
 

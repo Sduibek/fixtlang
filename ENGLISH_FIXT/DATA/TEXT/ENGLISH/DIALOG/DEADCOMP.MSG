@@ -10,7 +10,7 @@
 {108}{}{FALLOUT    <DIR>          10-20-99   1:04p
                           0 bytes in 0 files, 0 bytes allocated, 4,379,255 bytes free}
 {109}{}{CD FALLOUT}
-{110}{}{Wow! This is a great game!}
+{110}{}{Wow, this is a great game!}
 {111}{}{ U:\ > }
 {112}{}{After several minutes of searching, you find a Debug Mode jumper setting and change it to 01.}
 {113}{}{FALLOUTW.EXE}
@@ -30,7 +30,7 @@
                %s  Done.}
 {125}{}{> Begin memory dump protocol}
 {126}{}{FALLDEMO.EXE}
-{127}{}{You earn 25 experience.}
+{125}{}{You earn 50 experience.}
 {128}{}{[Done]}
 {129}{}{MEMORY DUMP INITIATED >>> DO NOT POWER OFF OR RESET THIS TERMINAL
 ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
@@ -77,33 +77,31 @@ Transferring 6,759,015 bytes to tape backup drive...............................
 {149}{}{Many circuits are fried from an EMP burst.}
 {150}{}{It doesn't work.}
 {151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
-{152}{}{You earn 25 experience for playing Fallout.}
+{152}{}{You earn 25 experience for playing Fallout (again).}
 {153}{}{Interesting. I bet the full version will be a great game!}
 {154}{}{Hmm. The full version of Fallout is better, but this demo has a unique charm nonetheless.}
 {155}{}{You earn 25 experience for playing the Fallout Interactive Demo.}
-{156}{}{}
-{157}{}{}
-{158}{}{}
-{159}{}{}
-
+{156}{}{You earn 42 experience for playing Fallout Fixt.}
+{157}{}{Congratulations, you have achieved all possible endings of the Fallout Interactive Demo!}
+{158}{}{Congratulations, you have achieved all possible endings of Fallout: A Post-Nuclear Role-Playing Game!}
+{159}{}{Wow, this is amazing! Even better than the original game.}
+{160}{}{You play Fallout Fixt. Whoever created this must have been very talented.}
 
 # 400 and 401 are picked randomly when playing falldemo.exe, and represent the different playtype paths
 
 {400}{}{With the generator broken, there is little reason for the gangs to fight over Scrapheap. The people of Scrapheap will lead a poorer life without their power; but with the gangs gone, at least they will have a life. Your job here is done, but your mission to find the water purification chip continues.}
 {401}{}{After a long battle and much bloodshed, you prevail. With the gangs defeated, Scrapheap is a safe haven once again. The townspeople are grateful - They give you some valuable information, and your task in Scrapheap is now complete. However, the mission to find the water purification chip continues.}
 
-
 # 500 onward are picked randomly when playing falloutw.exe, and represent the different playtype paths
 
 #standard
-{500}{}{500 After stopping the Master and his lab with which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your Vault for being too destructive. Thank you for playing Fallout.}
+{500}{}{After stopping the Master and his lab with which he was creating his army of Super Mutants, you return home, only to discover that you are thrown out of your Vault for being too destructive. Thank you for playing Fallout.}
 
 #dialog/'good'
-{501}{}{501 After convincing the Master to abandon his ill-conceived domination and destroying the Vats, you return home, only to find you are exiled, allegedly to prevent others from leaving the Vault. Thank you for playing Fallout.}
+{501}{}{After convincing the Master to abandon his ill-conceived domination and destroying the Vats, you return home, only to find you are exiled, allegedly to prevent others from leaving the Vault. Thank you for playing Fallout.}
 
 #combat/'evil'
-{502}{}{502 After destroying the Vats, the Master, and his army of Super Mutants, you return home, but are forbidden from entering. You retaliate, leaving the shattered corpse of the Overseer behind you. Thank you for playing Fallout.}
+{502}{}{After destroying the Vats, the Master, and his army of Super Mutants, you return home, but are forbidden from entering. You retaliate, leaving the shattered corpse of the Overseer behind you. Thank you for playing Fallout.}
 
 #traitor/dipped
-{503}{}{503 You are dipped in FEV and join the Master's Unity, revealing the location of Vault 13. You are rewarded with leading the assault against your Vault, killing the Overseer with your bare fists. Thank you for playing Fallout.}
-
+{503}{}{You are dipped in FEV and join the Master's Unity, revealing the location of Vault 13. You are rewarded with leading the assault against your Vault, killing the Overseer with your bare fists. Thank you for playing Fallout.}

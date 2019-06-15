@@ -24,7 +24,7 @@
 {123}{}{Thanks for your time. Bye.}
 {124}{}{No.}
 {125}{}{I don't like your attitude. You'd better leave.}
-{126}{}{Alright. I'm going.}
+{126}{}{All right. I'm going.}
 {127}{}{Make me, you damn long-haired freak!}
 {128}{}{After sundown, nobody is allowed in this area. The other guards won't even give you a warning. If they catch you, they'll attack. You'd better get back downtown while your head is still attached to your neck.}
 {129}{}{oK. I gO.}

@@ -1,66 +1,66 @@
 {100}{}{Leather Armor}
-{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. A lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
+{101}{}{Your basic all-leather apparel, a popular choice in the Wasteland. Finely crafted from tanned brahma hide. This has a lightweight and relatively simply construction, likely based on pre-War armor designed for Motorcycle Football and other dangerous contact sports.}
 {200}{}{Metal Armor}
-{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors, but slows the wearer's mobility somewhat. This model features spikes added to the shoulder, a popular fashion statement this year!}
+{201}{}{Polished metal plates, crudely forming a suit of armor. Provides better protection than all leather armors. This particular model features attractive spikes added to the shoulder, a popular fashion statement this year!}
 {300}{}{Power Armor}
-{301}{}{A model T-51b West Tek self-contained suit of Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics, and enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating, and features a bullet-proof eyeslit on the helmet.}
+{301}{}{A suit of T-51b West Tek self-contained Powered Armor, with a 60000-watt TX-28 MicroFusion reactor powering HiFlo hydraulics and a bullet-proof eyeslit on the helmet. Has enough fuel to last 100 years. It is made of an advanced poly-laminate composite with 10 microns silver ablative coating.}
 {400}{}{Knife}
-{401}{}{A sharp-bladed cutting and stabbing weapon.  Min STR: 2.}
+{401}{}{A sharp-bladed cutting and stabbing weapon.    - Min STR: 2.}
 {500}{}{Club}
-{501}{}{A military or police baton. Heavy wood.  Min STR: 3.}
+{501}{}{A military or police baton. Heavy wood.      - Min STR: 3.}
 {600}{}{Sledgehammer}
-{601}{}{A large hammer with a big handle. Very popular with the muscular crowd.  Min STR: 6.}
+{601}{}{A large hammer with a big handle. Very popular with the muscular crowd. - Min STR: 6.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {700}{}{Spear}
-{701}{}{A razor-tipped polearm. The shaft is wooden, and the tip is worked steel.  Min STR: 4.}
+{701}{}{A razor-tipped polearm. The shaft is wooden, and the tip is worked steel.                       - Min STR: 4.}
 {800}{}{10mm Pistol}
-{801}{}{A Colt 6520 10mm auto-loading pistol. Each pull of the trigger will automatically reload the firearm until the magazine is empty. Single-shot only, using the powerful 10mm round. Min STR: 3}
+{801}{}{A Colt 6520 10mm auto-loading pistol. Each pull of the trigger will automatically reload the firearm until the magazine is empty. Single-shot only, using the powerful 10mm round.                      - Min STR: 3}
 {900}{}{10mm SMG}
-{901}{}{H&K MP9 submachine gun (10mm variant). A medium-sized SMG, capable of single-shot and burst modes. Min STR: 4}
+{901}{}{H&K MP9 submachine gun (10mm variant). A medium-sized SMG, capable of single-shot and burst modes.         - Min STR: 4}
 {1000}{}{Hunting Rifle}
-{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only.  Min STR: 5.}
+{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only.                         - Min STR: 5.}
 {1100}{}{Flamethrower}
-{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  Min STR: 6}
+{1101}{}{A Flambe 450 Flamer(tm) model flamethrower, varmiter variation. Sprays and ignites a short blast of flammable liquid. Requires specialized fuel to work properly. Tends to cause biological targets to die painfully and hilariously.  - Min STR: 6}
 {1200}{}{Minigun}
-{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chain gun firing 5mm ammunition at over 60,000 RPM.  Min STR: 7.}
+{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chain gun firing 5mm ammunition at over 60,000 RPM.         - Min STR: 7.}
 {1300}{}{Rocket Launcher}
-{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets.  Min STR: 6.}
-{1400}{}{Explosive Rocket}
+{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets.                   - Min STR: 6.}
+{1400}{}{Rocket (Explosive)}
 {1401}{}{A rocket with a large explosive warhead.}
 {1500}{}{Plasma Rifle}
-{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells.  Min STR: 6.}
+{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells.                         - Min STR: 6.}
 {1600}{}{Laser Pistol}
-{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells.  Min STR: 3.}
+{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells.              - Min STR: 3.}
 {1700}{}{Combat Armor}
-{1701}{}{First created in 2051, this lightweight, high-tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
+{1701}{}{First created in 2051, this lightweight, high- tech, military-grade armor protects the wearer from ballistic trauma with hard plates made from advanced defensive polymers and ceramics, and features  a flexible body suit interwoven with thermal-dissipative membranes and bulletproof material.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times.  Min STR: 4.}
+{1801}{}{An ancient Desert Eagle pistol, in .44 Magnum. Interest in late 20th century films made this one of the most popular handguns of all times.   - Min STR: 4.}
 {1900}{}{Rock}
-{1901}{}{It's a rock. The Granite-Inc. model is an upgraded version.  Min STR: 1.}
+{1901}{}{It's a rock. The Granite-Inc. model is an upgraded version.        - Min STR: 1.}
 {2000}{}{Crowbar}
-{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.  Min STR: 5.}
+{2001}{}{A very solid and heavy piece of steel with a hooked wedge, specially designed to exert leverage. Or pound heads.                      - Min STR: 5.}
 {2100}{}{Brass Knuckles}
-{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat.  Min STR: 1.}
+{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat.           - Min STR: 1.}
 {2200}{}{14mm Pistol}
-{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship.  Min STR: 4.}
+{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship.            - Min STR: 4.}
 {2300}{}{Assault Rifle}
-{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high-velocity 5mm rounds.  Min STR: 5.}
+{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high-velocity 5mm rounds.                     - Min STR: 5.}
 {2400}{}{Plasma Pistol}
-{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell.  Min STR: 4.}
+{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell.         - Min STR: 4.}
 {2500}{}{Grenade (Frag)}
-{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact.  Min STR: 3.}
+{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact.                   - Min STR: 3.}
 {2600}{}{Grenade (Plasma)}
-{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact.  Min STR: 4.}
+{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact.       - Min STR: 4.}
 {2700}{}{Grenade (EMP)}
-{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuse.  Min STR: 4.}
+{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuse. - Min STR: 4.}
 {2800}{}{Gatling Laser}
-{2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells.  Min STR: 6.}
+{2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells.        - Min STR: 6.}
 {2900}{}{10mm JHP}
 {2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-points}
 {3000}{}{10mm AP}
 {3001}{}{Ammunition. Caliber: 10mm, armor piercing.}
 {3100}{}{.44 Magnum JHP}
 {3101}{}{A brick of ammunition, .44 Magnum caliber, hollow-points.}
-{3200}{}{Flamethrower Fuel}
+{3200}{}{Flamer Fuel}
 {3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
 {3300}{}{14mm AP}
 {3301}{}{Large caliber ammunition. 14mm armor piercing.}
@@ -70,12 +70,12 @@
 {3501}{}{A brick of small, lightweight ammunition. Caliber: 5mm, jacketed hollow-point.}
 {3600}{}{5mm AP}
 {3601}{}{A brick of small caliber ammunition. 5mm armor piercing.}
-{3700}{}{Rocket AP}
+{3700}{}{Rocket (AP)}
 {3701}{}{A rocket shell, with a smaller explosive, but designed to pierce armor plating.}
-{3800}{}{Small Energy Cell}
+{3800}{}{Energy Cell}
 {3801}{}{A small, self-contained energy storage unit.}
-{3900}{}{Micro Fusion Cell}
-{3901}{}{A medium sized energy production unit. Self-contained fusion plant.}
+{3900}{}{Fusion Cell}
+{3901}{}{A medium-sized energy production unit. Self-contained fusion plant.}
 {4000}{}{Stimpak}
 {4001}{}{A stimpak, or stimulation delivery package, is a hand-held portable healing unit that consists of a syringe for containing and delivering the medication, and a gauge for measuring the status of the stimpak's contents. When injected, it provides immediate healing of medium wounds and minor tissue damage. No side effects.}
 {4100}{}{Bottle Caps}
@@ -87,7 +87,7 @@
 {4400}{}{Ice Chest}
 {4401}{}{On old-style ice chest. The hinges are in good working condition.}
 {4500}{}{Throwing Knife}
-{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened.  Min STR: 3.}
+{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened.          - Min STR: 3.}
 {4600}{}{Bag}
 {4601}{}{An average-sized bag, useful for holding things. Made from woven brahma hairs.}
 {4700}{}{First Aid Kit}
@@ -145,7 +145,7 @@
 {7300}{}{Big Book of Science}
 {7301}{}{A set of books, containing information about different scientific fields.}
 {7400}{}{Leather Jacket}
-{7401}{}{A black, heavy leather jacket. You can't help thinking how badass you'd look wearing this, even in the scorching heat of the wastes.}
+{7401}{}{A black, heavy, stylish leather jacket. One of the sleeves is missing. Provides minimal damage reduction, but some protection is certainly better than none.}
 {7500}{}{MultiTool}
 {7501}{}{A super tool set, containing various useful tools and gadgets. The aspiring engineer or repairman should never leave home without it!}
 {7600}{}{Dean's Electronics}
@@ -185,8 +185,8 @@
 {9300}{}{Bag}
 {9301}{}{An average-sized bag. Made from weaved brahma hairs.}
 {9400}{}{Shotgun}
-{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip.  Min STR: 4.}
-{9500}{}{12-gauge Shotgun Shells}
+{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip.                          - Min STR: 4.}
+{9500}{}{Shells, 12-gauge}
 {9501}{}{Shotgun ammunition. This particular ammo is marked: "Gauge 12 shells, not for use by children under the age of 3."}
 {9600}{}{Red Pass Key}
 {9601}{}{A electronic security key, color coded red.}
@@ -227,21 +227,21 @@
 {11400}{}{Tangler's Hand}
 {11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
 {11500}{}{Super Sledge}
-{11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.  Min STR: 5.}
+{11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback.                  - Min STR: 5.                - Weapon Knockback feature: knocks target away by 1 hex for every 5 points of damage.}
 {11600}{}{Ripper}
-{11601}{}{A Ripper(tm) vibro-knife. Powered by a small energy cell, the chainblade rips and tears into its target.  Min STR: 4.}
+{11601}{}{A Ripper(tm) vibro- knife. Powered by a small energy cell, the chainblade rips and tears into its target.   - Min STR: 4.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {11700}{}{Flower}
 {11701}{}{A beautiful flower.}
 {11800}{}{Laser Rifle}
-{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range.  Min STR: 6.}
+{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range.                       - Min STR: 6.}
 {11900}{}{Necklace}
 {11901}{}{An expensive-looking necklace, made from silver, gold and pressed diamonds.}
 {12000}{}{Alien Blaster}
-{12001}{}{A strange gun of obviously alien origin. Looks like it can support small energy cells, however. Min STR: 2.}
+{12001}{}{A strange gun of obviously alien origin. Looks like it can support small energy cells, however.            - Min STR: 2.}
 {12100}{}{9mm ball}
 {12101}{}{A collection of ancient standard 9x19mm rounds, greased heavily to preserve them from the environment. Before the Great War, 9mm was the preferred type of ammunition for small weapons in the south- west Commonwealth, while the military and the Eastern and Western seaboards tended to favor 10mm ammunition.}
 {12200}{}{9mm Mauser}
-{12201}{}{A Mauser M/96, in 9x19mm Parabellum. In excellent condition. Extremely accurate, and very rare.  Min STR: 3.}
+{12201}{}{A Mauser M/96, in 9x19mm Parabellum. In excellent condition. Extremely accurate, and very rare.                 - Min STR: 3.}
 {12300}{}{Psychic Nullifier}
 {12301}{}{A strange device, constructed from an odd technology.}
 {12400}{}{Beer}
@@ -278,12 +278,12 @@
 {13901}{}{A storage container. Metal, holds stuff, can be locked.}
 {14000}{}{Access Card}
 {14001}{}{A security access card. Still in working condition.}
-{14100}{}{COC Badge}
+{14100}{}{COC Badge (Black)}
 {14101}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
-{14200}{}{COC Badge}
+{14200}{}{COC Badge (Red)}
 {14201}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
 {14300}{}{Sniper Rifle}
-{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber.  Min STR: 5.}
+{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber.      - Min STR: 5.}
 {14400}{}{Super Stimpak}
 {14401}{}{Also referred to as simply a "superstim", this is a very advanced and powerful piece of healing technology. While it is capable of healing even severe wounds and major tissue damage, it also causes some internal hemorrhaging to the recipient after a short period of time, due to the powerful nature of the chemicals used.}
 {14500}{}{Bookshelf}
@@ -315,13 +315,13 @@
 {15800}{}{Tool Board}
 {15801}{}{This board holds a variety of tools above the popular workbench.}
 {15900}{}{Molotov Cocktail}
-{15901}{}{A home-made flammable grenade.  Min STR: 3.}
+{15901}{}{A home-made flammable grenade.                     - Min STR: 3.}
 {16000}{}{Cattle Prod}
-{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power.  Min STR: 4.}
+{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power.                       - Min STR: 4.}
 {16100}{}{Red Ryder BB Gun}
-{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...  Min STR: 3.}
+{16101}{}{An official Red Ryder BB gun. As you examine this air rifle, a tumbleweed bounces past you. You hear the distant laughter of children...    - Min STR: 3.}
 {16200}{}{Red Ryder LE BB Gun}
-{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock! A true classic. Don't shoot your eye out, kid!  Min STR: 4.}
+{16201}{}{This is the Limited Edition, carbine-action, hundred-shot version of the Red Ryder BB gun, also featuring a compass in the stock. A true classic. Don't shoot your eye out, kid!        - Min STR: 4.}
 {16300}{}{BBs}
 {16301}{}{A box containing BBs from before the war. In excellent condition. Stainless steel.}
 {16400}{}{Brotherhood Disk}
@@ -410,13 +410,13 @@
 {20501}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. It is lit.}
 {20600}{}{Dynamite (Ticking)}
 {20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
-{20700}{}{Geiger Counter (Activated)}
+{20700}{}{Geiger Counter (Active)}
 {20701}{}{A Wattz Electronics C-Radz model Geiger Counter. Detects the presence and strength of radiation fields. It is on.}
-{20800}{}{Motion Sensor (Activated)}
+{20800}{}{Motion Sensor (Active)}
 {20801}{}{A Wattz Electronics C-U model motion sensor. Detects the movement of biological material over a distance of meters using a tuned radar device. It is on.}
 {20900}{}{Plastic Explosives (Ticking)}
 {20901}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer, which is ticking.}
-{21000}{}{Stealth Boy (Activated)}
+{21000}{}{Stealth Boy (Active)}
 {21001}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
 {21100}{}{Bones}
 {21101}{}{You see: Ed. Ed's dead.}
@@ -458,44 +458,44 @@
 {22901}{}{This is a Systolic Motivator. This unusual piece of machinery is very small, but surprisingly heavy for its size. It looks very high-tech but you have no idea what it would be used for.}
 {23000}{}{Vault Records}
 {23001}{}{A compendium of events and important recordings from a Vault computer system. Possibly damaged.}
-{23100}{}{Military Base Password}
+{23100}{}{Military Base Security Code}
 {23101}{}{So much for security. Remember kids, never write down your password.}
 {23200}{}{Hardened Power Armor}
 {23201}{}{A modified suit of T-51b Powered Armor. The chemical hardening process has improved the defensive capability of this high-tech armor system, without hindering mobility or the wearer's protection from radiation.}
 {23300}{}{Turbo Plasma Rifle}
-{23301}{}{A modified Winchester P94 plasma rifle. The plasma bolt chamber has been hot-wired to accelerate the bolt formation process.  Min STR: 6}
+{23301}{}{A modified Winchester P94 plasma rifle. The plasma bolt chamber has been hot-wired to accelerate the bolt formation process.       - Min STR: 6}
 {23400}{}{Spiked Knuckles}
-{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.  Min STR: 1.}
+{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat.       - Min STR: 1.}
 {23500}{}{Power Fist}
-{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared. Powered by small energy cells.  Min STR: 1.}
+{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared.                      - Min STR: 1.               - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {23600}{}{Combat Knife}
-{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use!  Min STR: 2.}
+{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use!   - Min STR: 2.}
 {23700}{}{Chemistry Journals}
 {23701}{}{A random pile of literature regarding the field of Chemistry. The papers on Molecular Chemistry are particularly interesting.}
-{23800}{}{F.E.V. (Ghoul)}
+{23800}{}{Ghoul}
 {23801}{}{ura ghul brah}
 {23900}{}{Brotherhood Armor}
 {23901}{}{A superior version of Combat Armor. This armor is issued to all Initiates of the Brotherhood of Steel. The Brotherhood has made many improvements over the standard version, both functionally and cosmetically.}
 {24000}{}{Tesla Armor}
-{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy such as plasma and laser fire. Unlike the basic metal armor it strongly resembles, this armor is an actual pre-War military design. It is in good condition.}
+{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of plasma, laser, and electrical energy. Unlike the basic metal armor it strongly resembles, this armor is actually a pre-War military design, and is in good condition.}
 {24100}{}{.223 Pistol}
-{24101}{}{A .223 rifle modified and cut down to a pistol. This is a one-of-a-kind firearm, obviously made with love and skill.  Min STR: 5.}
+{24101}{}{A .223 rifle modified and cut down to be a pistol. This is a one-of-a-kind firearm, obviously made with love and skill.       - Min STR: 5.              - Weapon Penetrate feature: ignores 80% of target's DT (Damage Threshold).}
 {24200}{}{Combat Shotgun}
-{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional Desert Warfare environmental sealant modification for extra reliability.  Min STR: 5.}
+{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional Desert Warfare environmental sealant modification for extra reliability.          - Min STR: 5.}
 {24300}{}{MacRae's Training}
 {24301}{}{Use to increase Melee Damage by 1, and Damage Resistance % (Normal) by 5, permanently.}
 {24400}{}{Gold Nugget}
 {24401}{}{A nugget of gold.}
-{24500}{}{Alien Blaster CHEAT}
-{24501}{}{You cheating bastard.}
-{24600}{}{Uzi 9mm SMG}
-{24601}{}{This is an Uzi submachine gun, 9mm caliber. Amazingly, it's still in working condition. The Uzi was cheap, light and rarely jammed, which made it a classic amongst drugrunners during the early stages of the 21st century.  Min STR: 3.}
+{24500}{}{Super Sledge (No KB)}
+{24501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. The kinetic energy storage device has been disabled.       - Min STR: 5.}
+{24600}{}{Sledgehammer (No KB)}
+{24601}{}{A large hammer with a big handle. Very popular with the muscular crowd. This one's balance has been modified using some crafty tricks.             - Min STR: 6.}
 {24700}{}{Rat Meat}
 {24701}{}{Some chopped-up rat parts. Too bad you didn't read Vault Document VTR-003 "How to Eat Rat", otherwise you'd be able to make it more palatable.}
 {24800}{}{Brahma Meat}
 {24801}{}{Brahma meat is high in vitamins, minerals, fat, protein, and rads. Too bad you don't have time to cook up some tasty brahma burgers!}
 {24900}{}{Dog Meat}
-{24901}{}{Tough and chewy, but what did you expect? It's rumored that in the 20th and 21st centuries before the Great War, dog meat was a delicacy in China.}
+{24901}{}{Tough and chewy, but what did you expect?}
 {25000}{}{Ghoul Meat}
 {25001}{}{You're not even sure if this is edible. It smells like death and probably doesn't taste any better.}
 {25100}{}{Deathclaw Meat}
@@ -505,6 +505,6 @@
 {25300}{}{Water Flask (Empty)}
 {25301}{}{A container, also called a "canteen", designed for the holding and preservation of water or other liquids. Before the Great War, these were commonly used by hikers, campers, soldiers and workers in the field. This one is empty. Remember kids, avoiding dehydration is an important part of any disaster plan!}
 {25400}{}{F.E.V. (Super Mutant)}
-{25401}{}{Well, you're a Super Mutant now. But hey, look on the bright side: At least they let you keep your stuff. In any case, your Endurance, Strength, and Radiation Resistance are increased, but your Intelligence is lowered and you can't wear any armor.}
+{25401}{}{You're a Super Mutant now. At least they let you keep your stuff! In any case, the dipping process has modified your: Strength, Endurance, Charisma, Intelligence, physical resistances, and Radiation Resistance. Human armor won't fit on this huge frame, and your hands are too large for some types of weapons now.}
 {25500}{}{Mutated Meat}
 {25501}{}{You watch the meat intently to make sure it's not moving.}

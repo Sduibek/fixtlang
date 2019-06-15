@@ -20,7 +20,7 @@
 {119}{}{Don't you know that women are the weaker sex?}
 {120}{}{Think I'm weak? Watch this then...}
 {121}{}{I'll just be leaving.}
-{122}{}{Take your puny threats and run home to mamma. You're talking to a real man here.}
+{122}{}{Take your puny threats and run home to mama. You're talking to a real man here.}
 {123}{}{Think I'm weak? Watch this then...}
 {124}{}{I'll just be leaving.}
 {125}{}{Whoa! If you really want to see him, go right ahead.}

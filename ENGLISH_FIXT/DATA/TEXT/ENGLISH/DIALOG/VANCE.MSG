@@ -31,11 +31,11 @@
 {130}{}{That's Justin and Chad. They're here to make sure nobody causes any trouble.}
 {131}{}{They look like a couple of pansies.}
 {132}{}{Nice to meet you guys.}
-{133}{}{I'm just going to hang out for a while, if it's alright with you guys.}
+{133}{}{I'm just going to hang out for a while, if it's all right with you guys.}
 {134}{}{Just some friends of mine. That's all you need to know. Don't ask too many questions.}
 {135}{}{Very well. What do you have to sell?}
 {136}{}{I know what you're doing here and I don't like it.}
-{137}{}{I'm just going to hang out for a while, if it's alright with you guys.}
+{137}{}{I'm just going to hang out for a while, if it's all right with you guys.}
 {138}{}{Let's get down to business.}
 {139}{}{Okay, whadda' you got?}
 {140}{}{I think I'll just hang out for a while.}

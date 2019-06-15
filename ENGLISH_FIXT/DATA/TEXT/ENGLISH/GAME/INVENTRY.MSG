@@ -24,7 +24,7 @@
 {13}{}{  Explode}
 
 # TRANSLATION NOTE line 14: The brackets do not really affect grammar or anything like that, they are just to have it look unique visually, to make it clear to player that the item (hand) slot is empty. --Sduibek
-{14}{}{[No item]}
+{14}{}{[no item]}
 
 # TRANSLATION NOTE line 15: Damage of equipped weapon.
 {15}{}{Dmg:}
@@ -36,10 +36,10 @@
 {17}{}{} # leave blank
 
 # TRANSLATION NOTE line 18: Referring to an armor item in a hand slot.
-{18}{}{(Not worn)}
+{18}{}{(not worn)}
 
 # TRANSLATION NOTE line 19: Original was "You don't have enough action points to use inventory." This has been changed so that now it fits on 2 lines in the message box (see top of this file). --Sduibek
-{19}{}{Need more Action Points to access inventory.}
+{19}{}{Need more Action Points to access your inventory.}
 
 # TRANSLATION NOTE line 20: Original was "Total Wt:", Wt being short for "Weight". I changed to lb for "Pounds" because the rest of the game uses pounds for measurements. --Sduibek
 {20}{}{Total lb:}
@@ -61,7 +61,7 @@
 {28}{}{No, your offer is not good enough.}
 
 # TRANSLATION NOTE line 29: %d is a number larger than 1.
-{29}{}{You earn %d experience for successfully using your Steal skill.}
+{29}{}{You earn %d experience for successful use of your Steal skill!}
 
 # TRANSLATION NOTE line 30: Same as line 20. Not sure where this is used in-game though, if used at all. --Sduibek
 {30}{}{Total lb:}

@@ -23,23 +23,3 @@
 {204}{}{This pitiful thing is highly irradiated. You cannot determine whether it has gone mad from being caged, or has simply lost too much brain matter due to radiation damage.}
 {205}{}{The body of the humanoid looks to be highly irradiated, however it has maintained enough brain matter and motor function to be able to speak clearly.}
 
-# Messages when getting rads during combat with irradiated critters (glowing ones, radrats, etc)
-# Listed in different formats, in case I want to implemented user choice of how it displays. --Sduibek
-
-#Not currently used:
-{300}{}{You receive a small dose of radiation.}
-{301}{}{You receive a moderate dose of radiation.}
-{302}{}{You receive a large dose of radiation.}
-
-#Not currently used:
-{303}{}{You have been mildly irradiated.}
-{304}{}{You have been irradiated.}
-{305}{}{You have been moderately irradiated.}
-{306}{}{You have been strongly irradiated.}
-
-# THIS IS THE FORMAT CURRENTLY USED:
-
-{1004}{}{You have received a mild dose of radiation.}
-{1005}{}{You have received a small dose of radiation.}
-{1006}{}{You have received a moderate dose of radiation.}
-{1007}{}{You have received a large dose of radiation.}

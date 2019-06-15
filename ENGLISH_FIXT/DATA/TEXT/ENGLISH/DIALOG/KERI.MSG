@@ -11,11 +11,11 @@
 {110}{}{Empty}
 {111}{}{Empty}
 {112}{}{. Are you interested?}
-{113}{}{We're all heading out today.}
+{113}{}{We're all heading out today. Are you still interested?}
 {114}{}{We're going out on }
 {115}{}{}
 {116}{}{}
-{117}{}{ Are you interested?}
+{117}{}{. Are you interested?}
 {118}{}{I'll still give your sorry ass a job, if you're interested?}
 {119}{}{Sure.}
 {120}{}{No.}

@@ -1,7 +1,11 @@
-##
-## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
-##
+#
+# IMPORTANT: THIS FILE IS SUPERCEDED BY SCRNAME.MSG IN THE FOLLOWING SITUATIONS!!!
+#
+# - Combat messages ("Child was hit for X")
+# - Look_At ("You see: Child")
+# - Examine ("Child has X/Y HP and is wielding a Z")
+# - Tell-Me-About reactions of "That is my name" / "I am that person"
+#
 {100}{}{Vault-dweller}
 {200}{}{Townsman}
 {201}{}{Human male dressed in protective leather clothing.}
@@ -30,11 +34,9 @@
 {2000}{}{Peasant}
 {2100}{}{Male Combat Armor}
 {2200}{}{Townswoman}
-{2201}{}{Human female wearing attractive steel armor.}
 {2300}{}{Super Mutant Lieutenant}
 {2400}{}{Nightkin}
 {2500}{}{Townswoman}
-{2501}{}{Human female wearing protective leather armor.}
 {2600}{}{Vault-dweller}
 {2700}{}{Male Guard}
 {2800}{}{Brahma}
@@ -185,6 +187,7 @@
 {16500}{}{Deathclaw Spawn}
 {16501}{}{A smaller and younger version of its terrifying counterpart, but no less dangerous.}
 {16600}{}{Nasty Radscorpion}
+{16601}{}{A giant mutated scorpion, scourge to animals and humans alike.}
 {16700}{}{Bloody Floater}
 {16800}{}{Greater Centaur}
 {16900}{}{Lowly Peasant}
@@ -331,7 +334,6 @@
 {30501}{}{A highly irradiated ghoul. Its muscle and brain matter have rotted away, but it was once a vault-dweller like you.}
 {30600}{}{Floating Eye}
 {30700}{}{Egg}
-{30701}{}{Deathclaw Egg}
 {30800}{}{Dugan}
 {30900}{}{Mother Deathclaw}
 {31000}{}{Hammer}

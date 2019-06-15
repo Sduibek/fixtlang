@@ -157,6 +157,6 @@
 {256}{}{ caps]}
 {257}{}{You're full of crap! You've been holding out on me! I'm gonna to beat that money out of you!}
 {258}{}{What a pity. I guess we'll just have to put some caps into you instead. Guido! Leone!}
-{259}{}{Alright. I suppose this will have to do. You do realize I can never deal with you again? If I see you in here again I will be forced to exact a much more severe penalty upon you.}
+{259}{}{All right. I suppose this will have to do. You do realize I can never deal with you again? If I see you in here again I will be forced to exact a much more severe penalty upon you.}
 {260}{}{You make me sick. Give me the money and get out! Don't ever let me see you in here again!}
 {261}{}{You don't have enough!}

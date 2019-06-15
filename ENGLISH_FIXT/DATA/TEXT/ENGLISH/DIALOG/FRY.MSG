@@ -28,8 +28,8 @@
 {127}{}{Catch me if you can.}
 {128}{}{No.}
 {129}{}{ARG!}
-{130}{}{Hello again. I hope you like our town. A nice guy, such as yourself, is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
-{131}{}{Hello again. I hope you like our town. A lovely lady, such as yourself, is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
+{130}{}{Hello again. I hope you like our town. A nice guy such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
+{131}{}{Hello again. I hope you like our town. A lovely lady such as yourself is always welcome. If you should decide to stay, I'm sure you would make a valuable addition to the Hub.}
 {132}{}{Hello again. What can I do for you?}
 {133}{}{Yes? I don't have all day. I'm trying to watch the front gate.}
 {134}{}{I have a crime to report!}

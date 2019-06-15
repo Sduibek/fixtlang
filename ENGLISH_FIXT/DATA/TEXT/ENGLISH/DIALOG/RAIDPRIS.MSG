@@ -2,7 +2,7 @@
 {101}{}{Hey, you! Get me out of here!}
 {102}{}{Be quiet, you're gonna alert the guards!}
 {103}{}{Shh! Who are you?}
-{104}{}{Goop}
+{104}{}{Goop.}
 {105}{}{I don't care. Get me out of here please!}
 {106}{}{My name is Jack. I'm from Junktown. These monsters killed the rest of my caravan and put me here.}
 {107}{}{Okay. I'll see what I can do.}

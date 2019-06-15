@@ -341,12 +341,12 @@
 {17000}{}{Column}
 {17001}{}{A support column.}
 {17100}{}{Door Entry Computer}
-{17101}{}{This computer controls the large Vault door. You have to enter a specific access code for the computer to work.}
+{17101}{}{This computer controls the large Vault blast door. You have to enter a specific access code for the computer to work.}
 {17200}{}{Casino Sign}
 {17201}{}{It looks like an advertisement for Gizmo's Casino.}
-{17300}{}{Vault 13 Outer Door}
+{17300}{}{Vault 13 Blast Door}
 {17301}{}{This large door is the link between the Vault and the outside world. It is too large to open manually. Use the entry terminal.}
-{17400}{}{Vault 13 Outer Door}
+{17400}{}{Vault 13 Blast Door}
 #
 # 17401 is different than 17301 on purpose, due to physical context. They are different parts of the door.
 #
@@ -679,7 +679,7 @@
 {34200}{}{Yield Sign}
 {34201}{}{This was a sign to control the flow of traffic.}
 {34300}{}{Yield Sign}
-{34301}{}{The sign is faded, but you can make out the world YIELD.}
+{34301}{}{The sign is faded, but you can make out the word "YIELD".}
 {34400}{}{Block Hex Auto Inviso}
 {34401}{}{If you can see this, blame the technical designer.}
 {34500}{}{Floor}
@@ -771,10 +771,10 @@
 {38801}{}{This pole helps to support the yurt.}
 {38900}{}{Pole}
 {38901}{}{This pole helps to support the yurt.}
-{39000}{}{Vault Door}
-{39001}{}{This Vault door is now just a heavy piece of scrap metal.}
-{39100}{}{Wall}
-{39101}{}{The mechanism to open and close the heavy Vault door has been damaged beyond repair.}
+{39000}{}{Vault Blast Door}
+{39001}{}{This Vault blast door is now just a large piece of heavy scrap metal.}
+{39100}{}{Vault Entrance}
+{39101}{}{The mechanisms and computer used to open or close the heavy Vault blast door have been damaged beyond repair.}
 {39200}{}{Brace}
 {39201}{}{This brace helps to support the defensive wall.}
 {39300}{}{Brace}
@@ -862,8 +862,8 @@
 {43401}{}{A very small pile of rocks.}
 {43500}{}{Rocks}
 {43501}{}{A very small pile of rocks.}
-{43600}{}{Vault Door}
-{43601}{}{This Vault door is very similar to the one at Vault 13. The door mechanism has been disabled.}
+{43600}{}{Vault Blast Door}
+{43601}{}{This Vault blast door is very similar to the one at Vault 13. The door mechanism has been disabled.}
 {43700}{}{Door}
 {43701}{}{A finely constructed wooden door, reinforced with ornate metal braces of an almost hypnotic design.}
 {43800}{}{Door}
@@ -1621,7 +1621,7 @@
 {82401}{}{The monitors are in good condition.}
 {82500}{}{Wall}
 {82600}{}{Bank Door}
-{82601}{}{A very sturdy bank Vault door. The door looks very secure.}
+{82601}{}{A very sturdy bank vault door. The door looks very secure.}
 {82700}{}{Light}
 {82701}{}{A security light.}
 {82800}{}{Light}

@@ -1,29 +1,18 @@
-# This is all of the combat messages used by combat.c
 #################################################################################
 # TRANSLATION NOTE: all %d values will be filled with a number greater than 1
 #################################################################################
 #
-# NOTE: EACH LINE IN THE STATUS BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
-#
-#
 # Truly Generic strings (no need for gender/number issues)
 #
 #
-{100}{}{%d Action Points needed!}
-{101}{}{Out of ammo. Reload.}
-{102}{}{Target out of range.}
-#
-# TRANSLATION 103: "Combat cannot be terminated at this time via End Combat button. If no hostile critters or hostile NPCs are present, click End Turn button instead."
-#
-{103}{}{Cannot end combat. If no hostiles, try End Turn.}
+{100}{}{You need %d Action Points to do that.}
+{101}{}{This weapon's clip is empty.}
+{102}{}{Target is out of range for this weapon.}
+{103}{}{Cannot end combat now. If no hostiles are present, try End Turn.}
 {104}{}{Your aim is blocked.}
-#
-# 105 106 107 have been shortened to fit into 2 lines in the message window
-#
-{105}{}{Cannot use weapons with both arms crippled.}
-{106}{}{Cannot use 2-handed weapons with a crippled arm.}
-{107}{}{Strength too low to use this weapon properly.}
+{105}{}{You cannot use weapons with both arms crippled.}
+{106}{}{You cannot use two-handed weapons with a crippled arm.}
+{107}{}{You are not strong enough to use this weapon properly.}
 #
 # spaces in 108 are intentional, don't remove!
 #
@@ -33,8 +22,8 @@
 # Combat Flag Strings (all of these happen to you, the MALE player)
 #
 #
-{200}{}{knocked out}
-{201}{}{knocked down}
+{200}{}{were knocked out}
+{201}{}{were knocked down}
 {202}{}{crippled your left leg}
 {203}{}{crippled your right leg}
 {204}{}{crippled your left arm}
@@ -61,8 +50,8 @@
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
 #
-{250}{}{knocked out}
-{251}{}{knocked down}
+{250}{}{were knocked out}
+{251}{}{were knocked down}
 {252}{}{crippled your left leg}
 {253}{}{crippled your right leg}
 {254}{}{crippled your left arm}
@@ -89,8 +78,8 @@
 # Combat Flag Strings (all of these happen to a MALE)
 #
 #
-{300}{}{knocked out}
-{301}{}{knocked down}
+{300}{}{was knocked out}
+{301}{}{was knocked down}
 {302}{}{crippled his left leg}
 {303}{}{crippled his right leg}
 {304}{}{crippled his left arm}
@@ -117,8 +106,8 @@
 # Combat Flag Strings (all of these happen to a FEMALE)
 #
 #
-{400}{}{knocked out}
-{401}{}{knocked down}
+{400}{}{was knocked out}
+{401}{}{was knocked down}
 {402}{}{crippled her left leg}
 {403}{}{crippled her right leg}
 {404}{}{crippled her left arm}
@@ -166,10 +155,10 @@
 {522}{}{%s were hit in %s for 1 hit point}
 {523}{}{%s were hit for 1 hit point}
 {524}{}{%s were critically hit for 1 hit point}
-{525}{}{%s were critically hit in %s for no damage}
-{526}{}{%s were hit in %s for no damage}
-{527}{}{%s were hit for no damage}
-{528}{}{%s were critically hit for no damage}
+{525}{}{%s were critically hit in %s but take no damage}
+{526}{}{%s were hit in %s but take no damage}
+{527}{}{%s were hit but take no damage}
+{528}{}{%s were critically hit but take no damage}
 {533}{}{%s critically missed, lost 1 hit point}
 {534}{}{%s critically missed, lost %d hit points}
 #
@@ -198,10 +187,10 @@
 {572}{}{%s were hit in %s for 1 hit point}
 {573}{}{%s were hit for 1 hit point}
 {574}{}{%s were critically hit for 1 hit point}
-{575}{}{%s were critically hit in %s for no damage}
-{576}{}{%s were hit in %s for no damage}
-{577}{}{%s were hit for no damage}
-{578}{}{%s were critically hit for no damage}
+{575}{}{%s were critically hit in %s but take no damage}
+{576}{}{%s were hit in %s but take no damage}
+{577}{}{%s were hit but take no damage}
+{578}{}{%s were critically hit but take no damage}
 {583}{}{%s critically missed, lost 1 hit point}
 {584}{}{%s critically missed, lost %d hit points}
 #
@@ -227,10 +216,10 @@
 {622}{}{%s was hit in %s for 1 hit point}
 {623}{}{%s was hit for 1 hit point}
 {624}{}{%s was critically hit for 1 hit point}
-{625}{}{%s was critically hit in %s for no damage}
-{626}{}{%s was hit in %s for no damage}
-{627}{}{%s was hit for no damage}
-{628}{}{%s was critically hit for no damage}
+{625}{}{%s was critically hit in %s but takes no damage}
+{626}{}{%s was hit in %s but takes no damage}
+{627}{}{%s was hit but takes no damage}
+{628}{}{%s was critically hit but takes no damage}
 {633}{}{%s critically missed, lost 1 hit point}
 {634}{}{%s critically missed, lost %d hit points}
 #
@@ -256,10 +245,10 @@
 {722}{}{%s was hit in %s for 1 hit point}
 {723}{}{%s was hit for 1 hit point}
 {724}{}{%s was critically hit for 1 hit point}
-{725}{}{%s was critically hit in %s for no damage}
-{726}{}{%s was hit in %s for no damage}
-{727}{}{%s was hit for no damage}
-{728}{}{%s was critically hit for no damage}
+{725}{}{%s was critically hit in %s but takes no damage}
+{726}{}{%s was hit in %s but takes no damage}
+{727}{}{%s was hit but takes no damage}
+{728}{}{%s was critically hit but takes no damage}
 {733}{}{%s critically missed, lost 1 hit point}
 {734}{}{%s critically missed, lost %d hit points}
 #
@@ -540,7 +529,7 @@
 # 5000 series - MEN (including generics)
 #
 {5000}{}{ and really hurts}
-{5001}{}{. A serious wound is inflicted}
+{5001}{}{. The strike causes immense pain}
 {5002}{}{ without even pausing from the armor}
 {5003}{}{. The damaging attack knocks him unconscious}
 {5004}{}{. The blow knocks him to the ground}
@@ -560,10 +549,10 @@
 {5018}{}{, inflicting an extra helping of damage}
 {5019}{}{ right through his armor, knocking the combatant to the ground}
 {5020}{}{ knocking the air out. He slumps to the ground out of the fight}
-{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
+{5021}{}{. Unfortunately for him, his spine is now clearly visible from the front}
 {5022}{}{ putting a major hurt on his leg}
 {5023}{}{, knocking him to the ground like a bowling pin in a league game}
-{5024}{}{, bowling him over and chopping that leg like a scarlet side of meat}
+{5024}{}{, bowling him over and chopping off that leg like a scarlet side of meat}
 {5025}{}{, smashing the knee into the next town. He falls}
 {5026}{}{. The intense pain of having a leg removed causes him to quit}
 {5027}{}{ inflicting some extra pain}
@@ -581,7 +570,7 @@
 # series 5100 - WOMEN
 #
 {5100}{}{ and really hurts}
-{5101}{}{. A serious wound is inflicted}
+{5101}{}{. The strike causes immense pain}
 {5102}{}{ slipping past her armor}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}
@@ -601,7 +590,7 @@
 {5118}{}{, inflicting an extra helping of damage}
 {5119}{}{ bypassing the armor, knocking the female fighter to the ground}
 {5120}{}{ knocking the air out. She slumps to the ground}
-{5121}{}{. Unfortunately, her major organs have been exposed to the light}
+{5121}{}{. Unfortunately for her, most organs have now been exposed to the light}
 {5122}{}{ putting a major hurt on her leg}
 {5123}{}{, knocking her over like a bad blind date}
 {5124}{}{, knocking her down and blasting that leg into ground round}
@@ -761,7 +750,7 @@
 {5905}{}{ striking a critical spot, and crippling the arm}
 {5906}{}{, knocking the creature over and crippling the leg}
 {5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
-{5908}{}{, blinding one head and liquefying another}
+{5908}{}{, blinding one head and liquefying the other}
 {5909}{}{, surprising the centaur. It blindly stumbles for a moment}
 {5910}{}{, surprising the centaur. It collapses in a heap}
 {5911}{}{, surprising the centaur. It collapses in a pile of goo}
@@ -817,13 +806,13 @@
 #
 # series 6400 - The Master
 #
-{6400}{}{, breaking past the bio-organic defenses}
-{6401}{}{, causing the Master some serious grief}
-{6402}{}{, breaking past the bio-organic defenses and putting the pressure on the Master}
-{6403}{}{, stunning the Master with a solid offensive plan}
-{6404}{}{, causing an overload of cataclysmic proportions in the Master's systems}
-{6405}{}{. The attack against the Master seems to do less damage than it should have}
-{6406}{}{. The blow gets by the bio-organic defenses, actually blinding the Master}
+{6400}{}{, breaking past his bio-organic defenses}
+{6401}{}{, causing him some serious grief}
+{6402}{}{, breaking past his bio-organic defenses and putting the pressure on him}
+{6403}{}{, stunning him with a solid offensive plan}
+{6404}{}{, causing an overload of cataclysmic proportions in his systems}
+{6405}{}{. Still, the attack against him seems to do less damage than it should have}
+{6406}{}{. The blow gets by his bio-organic defenses, actually blinding him}
 #
 # series 6500 - The Player
 #
@@ -841,7 +830,7 @@
 {6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
 {6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
 {6513}{}{, crushing your internal organs. All you can do is gurgle blood}
-{6514}{}{, sending it head over heels}
+{6514}{}{, sending you head over heels}
 {6515}{}{, sending you flying and breaking your leg}
 {6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
 {6517}{}{. The pain from your broken leg causes you to pass out}
@@ -858,16 +847,16 @@
 #
 # ENTRIES FROM WASTELAND, FOR SDUIBEK'S REFERENCE:
 #
-#  A. Exploding it    3. like a blood sausage
-#  B. Reducing it     2. into a thin red paste
+#  A. Exploding it    3. like a blood sausage  
+#  B. Reducing it     2. into a thin red paste 
 #  B. Reducing it     2. into a fine red mist
-#  B. Reducing it     7. into an undertaker's nightmare
-#  C. Spinning him    4. into a dance of death
-#  D. Blasting it     1. into ground round
-#  E. Sending him     6. to meet his maker
-#  F. Ripping it      5. into a scarlet side of meat
+#  B. Reducing it     7. into an undertaker's nightmare 
+#  C. Spinning him    4. into a dance of death 
+#  D. Blasting it     1. into ground round 
+#  E. Sending him     6. to meet his maker 
+#  F. Ripping it      5. into a scarlet side of meat 
 #  G. Killing it      [no ending]
-#
+#  
 #  heap of unrecognizable gore
 #  reducing it to platinum shards
 #

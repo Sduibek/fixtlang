@@ -217,7 +217,7 @@
 #
 # 3. Guard 3 (Sadistic)  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# Guard 3 is the henchman of really nasty people.
+# Guard 3 is the henchman of really nasty people. 
 # He likes to hurt people, and makes no bones about it, and is a bit of a coward.
 #
 #
@@ -1319,7 +1319,7 @@
 #
 # 14. Nightkin  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
 #
-# We are the Chosen of the Master, and all must bow before us.
+# We are the Chosen of the Master, and all must bow before us. 
 # (Damn these bastards are really arrogant); my interpretation is that
 # these boys are smarter and more cunning than garden variety Super Mutants.
 #
@@ -5243,7 +5243,7 @@
 #
 # target being missed
 #
-{6122}{}{Your Mamma teach you that move?}
+{6122}{}{Your mama teach you that move?}
 {6123}{}{}
 {6124}{}{You ain't good enough}
 {6125}{}{That was your last mistake}
@@ -7205,7 +7205,7 @@
 {8014}{}{Mutant loser!}
 {8015}{}{Glow Baby Loser! Glow Baby Loser!}
 {8016}{}{Die, ugly!}
-{8017}{}{Your momma was a mole rat!}
+{8017}{}{Your mama was a mole rat!}
 {8018}{}{Worm ridden Glow Baby!}
 {8019}{}{I'm gonna make you ugly!}
 {8020}{}{I hate you!}
@@ -7213,7 +7213,7 @@
 #
 # target being missed
 #
-{8022}{}{Your Mamma was a Glow Baby!}
+{8022}{}{Your mama was a Glow Baby!}
 {8023}{}{You can't touch me, radscorpion brain!}
 {8024}{}{You can't even beat up a kid}
 {8025}{}{Loser!}
@@ -7675,16 +7675,16 @@
 {8613}{}{And to think that we used to be friends!}
 {8614}{}{I wish you had never gone to the surface}
 {8615}{}{Hello, old friend. Time to die.}
-{8616}{}{I'm putting you out of your misery}
-{8617}{}{I'm putting you out of my misery}
-{8618}{}{This gives me no pleasure}
-{8619}{}{You rabid little cave rat!}
-{8620}{}{I've got to put you away}
-{8621}{}{You're just a bully and a sneak}
+{8616}{}{You should never have come back}
+{8617}{}{And to think that we used to be friends!}
+{8618}{}{I wish you had never gone to the surface}
+{8619}{}{The surface must drive people insane!}
+{8620}{}{The surface must drive people insane!}
+{8621}{}{Hello, old friend. Time to die.}
 #
 # target being missed
 #
-{8622}{}{I could that one coming}
+{8622}{}{I saw that one coming}
 {8623}{}{You fought better when we were kids}
 {8624}{}{Your aim hasn't improved}
 {8625}{}{You still take a step back every time you try that move}
@@ -7862,73 +7862,170 @@
 #
 #  running away
 #
-{8762}{}{}
-{8763}{}{}
-{8764}{}{}
+{8862}{}{}
+{8863}{}{}
+{8864}{}{}
 #
 # moving in to attack
 #
-{8765}{}{}
-{8766}{}{}
-{8767}{}{}
+{8865}{}{}
+{8866}{}{}
+{8867}{}{}
 #
 # attacking
 #
-{8768}{}{}
-{8769}{}{}
-{8770}{}{}
+{8868}{}{}
+{8869}{}{}
+{8870}{}{}
 #
 # target being missed
 #
-{8771}{}{}
-{8772}{}{}
-{8773}{}{}
+{8871}{}{}
+{8872}{}{}
+{8873}{}{}
 #
 # target hit in head
 #
-{8774}{}{[snort]}
-{8775}{}{}
-{8776}{}{[grunt]}
+{8874}{}{[snort]}
+{8875}{}{}
+{8876}{}{[grunt]}
 #
 # target hit in left arm
 #
-{8777}{}{[snort]}
-{8778}{}{}
-{8779}{}{[grunt]}
+{8877}{}{[snort]}
+{8878}{}{}
+{8879}{}{[grunt]}
 #
 # target hit in right arm
 #
-{8780}{}{[snort]}
-{8781}{}{}
-{8782}{}{[grunt]}
+{8880}{}{[snort]}
+{8881}{}{}
+{8882}{}{[grunt]}
 #
 # target hit in torso
 #
-{8783}{}{[snort]}
-{8784}{}{}
-{8785}{}{[grunt]}
+{8883}{}{[snort]}
+{8884}{}{}
+{8885}{}{[grunt]}
 #
 # target hit in right leg
 #
-{8786}{}{[snort]}
-{8787}{}{}
-{8788}{}{[grunt]}
+{8886}{}{[snort]}
+{8887}{}{}
+{8888}{}{[grunt]}
 #
 # target hit in left leg
 #
-{8789}{}{[snort]}
-{8790}{}{}
-{8791}{}{[grunt]}
+{8889}{}{[snort]}
+{8890}{}{}
+{8891}{}{[grunt]}
 #
 # target hit in eyes
 #
-{8792}{}{[snort]}
-{8793}{}{}
-{8794}{}{[grunt]}
+{8892}{}{[snort]}
+{8893}{}{}
+{8894}{}{[grunt]}
 #
 # target hit in groin
 #
-{8795}{}{[snort]}
-{8796}{}{}
-{8797}{}{[grunt]}
+{8895}{}{[snort]}
+{8896}{}{}
+{8897}{}{[grunt]}
 
+#
+# 80. Katja  ===========BEGIN MESSAGES FOR THIS AI TYPE===========================================================================================================
+#
+# Badass chick, can join the Vault Dweller, used to be a scav, hates dogs
+#
+#
+#  running away
+#
+{8900}{}{I didn't sign up for this}
+{8901}{}{I don't get paid enough for this}
+{8902}{}{Fall back!}
+{8903}{}{Regroup!}
+{8904}{}{I'm not dying for this!}
+{8905}{}{That's enough for me}
+#
+# moving in to attack
+#
+{8906}{}{I'm gonna teach you a lesson}
+{8907}{}{You just made a big mistake!}
+{8908}{}{Let's settle this like scavs}
+{8909}{}{Let's see what you're made of}
+{8910}{}{Gonna get creative with this one}
+{8911}{}{Blood resolves what words can't}
+#
+# attacking
+#
+{8912}{}{Eat this!}
+{8913}{}{Take it!}
+{8914}{}{Having second thoughts?}
+{8915}{}{Hey look, target practice}
+{8916}{}{I enjoy a good workout}
+{8917}{}{Any last words?}
+{8918}{}{Let's see how tough you are...}
+{8919}{}{Let's see how tough you are...}
+{8920}{}{Having second thoughts?}
+{8921}{}{Let's see how you like this}
+#
+# target being missed
+#
+{8922}{}{Haha, too slow}
+{8923}{}{I've been doing this for years, punk}
+{8924}{}{You ain't good enough}
+{8925}{}{Don't forget, I was a scav}
+{8926}{}{Are you for real?}
+{8927}{}{Don't forget, I was a scav}
+#
+# target hit in head
+#
+{8928}{}{Ow! You fucker}
+{8929}{}{I'm gonna kill you for that}
+{8930}{}{I think I might have a concussion}
+#
+# target hit in left arm
+#
+{8931}{}{That's not good}
+{8932}{}{Damn, my arm's busted!}
+{8933}{}{Fuck, you broke it!}
+#
+# target hit in right arm
+#
+{8934}{}{GAH!}
+{8935}{}{Fuck that smarts}
+{8936}{}{My arm!}
+#
+# target hit in torso
+#
+{8937}{}{Ooph!}
+{8938}{}{I liked that organ}
+{8939}{}{You'll regret that}
+{8940}{}{My ribs!}
+#
+# target hit in right leg
+#
+{8941}{}{My knee!}
+{8942}{}{You're gonna pay for that!}
+{8943}{}{Shit, my leg's going numb}
+#
+# target hit in left leg
+#
+{8944}{}{You'll regret that}
+{8945}{}{I hope it doesn't buckle}
+{8946}{}{My knee!}
+#
+# target hit in eyes
+#
+{8947}{}{I can't see!}
+{8948}{}{My eye!}
+{8949}{}{Fuck! At least I have another one}
+#
+# target hit in groin
+#
+{8950}{}{I didn't want to have kids anyway}
+{8951}{}{Fuck, nice shot}
+{8952}{}{You fight dirty!}
+{8953}{}{Oof!}
+{8954}{}{What a cheap shot}
+{8955}{}{I didn't want to have kids anyway}

@@ -13,7 +13,7 @@
 {112}{}{Yeah, Scribes have such a creative position. It would be great to think up new weapons, modify old ones, and keep records of every detail of every item in the Brotherhood. Am I boring you? Some people say I talk a lot but I just don't think they understand. I just have a lot to say.}
 {113}{}{Yeah, I'm still trying to decide. It's so tough, they're both really exciting. By the way, if you want the top bunk just let me know, I don't mind.}
 {114}{}{Thanks, bye.}
-{115}{}{Are you alright? Maybe you need to see the doctor or maybe you just need some sleep. Well I better get back to studying. Bye.}
+{115}{}{Are you all right? Maybe you need to see the doctor or maybe you just need some sleep. Well I better get back to studying. Bye.}
 {116}{}{Oh, by the way, I'm glad you'll be my new roommate. My last one always wore ear plugs, I don't know why. Anyhow, feel free to leave anything you like here, I don't take up much space. Do you want the top bunk? I'll change if you want... you don't snore do you? Oh, it doesn't matter. See ya.}
 {117}{}{Yeah, that's what I thought. Well, I'm glad you'll be my new roommate. My last one always wore earplugs, I don't know why. Anyhow, feel free to leave anything you like here, I don't take up much space. Do you want the top bunk? I'll change if you want... you don't snore do you? Oh, it doesn't matter. See ya.}
 {118}{}{Just let me know if I'm snoring.}

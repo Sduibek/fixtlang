@@ -1,4 +1,4 @@
-{100}{}{You see a chanter from the Children.}
+{100}{}{You see a chanter from the Children of the Cathedral.}
 {101}{}{The Master will forgive your sins! Join us and be free! Praise to the Master and his mercy!}
 {102}{}{Hello friend! Will you sing a song of praise with me? ...Once I was wandering blind, In a land that was so unkind...}
 {103}{}{I hate to interrupt your hymn, but where might I meet the Master?}

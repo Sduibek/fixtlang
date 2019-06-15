@@ -1,7 +1,11 @@
-##
-## NOTE: EACH LINE IN THE MESSAGE BOX AT 640x480 ONLY DISPLAYS TWENTY SIX
-# (26) CHARACTERS. Anything over that will wrap.  --Sduibek, Fallout Fixt
-##
+#
+# IMPORTANT: THIS FILE SUPERCEDES PRO_CRIT.MSG IN THE FOLLOWING SITUATIONS!!!
+#
+# - Combat messages ("Child was hit for X")
+# - Look_At ("You see: Child")
+# - Examine ("Child has X/Y HP and is wielding a Z")
+# - Tell-Me-About reactions of "That is my name" / "I am that person"
+#
 {101}{}{}                                               # obj_dude
 {102}{}{}                                               # elder
 {103}{}{Shady Sands' trader}                            # barter
@@ -13,7 +17,7 @@
 {109}{}{Shady Sands Peasant}                            # pleasant
 {110}{}{Gun Runner}                                     # GunRnr
 {111}{}{Entrance to Map}                                # map_init
-{112}{}{Nasty Radscorpion}                              # radscorp
+{112}{}{}                                               # radscorp
 {113}{}{Super Mutant Sentry}                            # mutant2
 {114}{}{Shady Sands Well}                               # sswell
 {115}{}{Set}                                            # set
@@ -28,7 +32,7 @@
 {124}{}{Corpse}                                         # dead
 {125}{}{Desk}                                           # desk
 {126}{}{Ghoul Corpse}                                   # 1dedgul1
-{127}{}{Mole Rat}                                       # 1molrat1
+{127}{}{}                                               # 1molrat1
 {128}{}{Manhole}                                        # 1manhol1
 {129}{}{Ladder}                                         # 1ladder1
 {130}{}{Ghoul Manager}                                  # ghoul
@@ -42,7 +46,7 @@
 {138}{}{Junktown Peasant}                               # JtPeasnt
 {139}{}{Butch}                                          # Butch
 {140}{}{Cabbot}                                         # Cabbot
-{141}{}{Children of the Cathedral Member}               # Childmem
+{141}{}{Child of the Cathedral}                         # Childmem
 {142}{}{Decker}                                         # Decker
 {143}{}{Elder}                                          # Elder
 {144}{}{Gizmo}                                          # Gizmo
@@ -60,7 +64,7 @@
 {156}{}{Rhombus}                                        # Rhombus
 {157}{}{Tandi}                                          # Tandi
 {158}{}{Vree}                                           # Vree
-{159}{}{Mole Rat}                                       # 1MoleRat
+{159}{}{}                                               # 1MoleRat
 {160}{}{Necropolis Airlock}                             # AirLock
 {161}{}{Barry}                                          # Barry
 {162}{}{Computer}                                       # DeadComp
@@ -238,7 +242,7 @@
 {334}{}{Super Mutant}                                   # Mutant5
 {335}{}{Ian}                                            # Ian
 {336}{}{Curtis}                                         # Curtis
-{337}{}{Child}                                          # Child
+{337}{}{}                                               # Child
 {338}{}{The Khans}                                      # RaidMap
 {339}{}{Mutated Fruit}                                  # MutFruit
 {340}{}{Raider Guard}                                   # RaidGrd
@@ -420,7 +424,7 @@
 {516}{}{Scout the Fools}                                # scoutf.int
 {517}{}{Follower of the Apocalypse}                     # FollMap.int
 {518}{}{Computer}                                       # SemiComp
-{519}{}{Irradiated Rat}                                 # RadRat
+{519}{}{}                                               # RadRat
 {520}{}{Refrigerator}                                   # NGarFrdg
 {521}{}{Ladder}                                         # WtrLadr
 {522}{}{Ladder}                                         # NecVLadr
@@ -518,7 +522,7 @@
 {614}{}{Staircase}                                      # CTower2.int
 {615}{}{Staircase}                                      # CTower3.int
 {616}{}{Military Base}                                  # ExitBase.int
-{617}{}{Radscorpion}                                    # SSRadSco.int
+{617}{}{}                                               # SSRadSco.int
 {618}{}{Lars}                                           # Lars.int
 {619}{}{Elevator}                                       # Elev6_m1.int
 {620}{}{Elevator}                                       # Elev7.int
@@ -660,9 +664,9 @@
 {756}{}{Newspaper Machine}                              # MVNews.int
 {757}{}{Used Car Salesman}                              # Dealer.int
 {758}{}{Used Car Lot}                                   # UsedCar.int
-{759}{}{Brotherhood of Steel}                           # BroDead.int
-{760}{}{Children of the Cathedral}                      # ChilDead.int
-{761}{}{Military Base Entrance}                         # MBDead.int
+{759}{}{Brotherhood of Steel - Destroyed}               # BroDead.int
+{760}{}{Cathedral - Destroyed}                          # ChilDead.int
+{761}{}{Military Base - Destroyed}                      # MBDead.int
 {762}{}{Sarah}                                          # Sarah.int
 {763}{}{Agatha}                                         # Agatha.int
 {764}{}{Chuck}                                          # Chuck.int
@@ -670,7 +674,7 @@
 {766}{}{Brenden}                                        # Brenden.int
 {767}{}{Patrick}                                        # Patrick.int
 {768}{}{Ismarc}                                         # Ismarc.int
-{769}{}{Angry At You}                                   # Enemy.int
+{769}{}{}                                               # Enemy.int
 {770}{}{Alex}                                           # Alex.int
 {771}{}{Gideon}                                         # Gideon.int
 {772}{}{Jeremiah}                                       # Jerem.int
@@ -709,7 +713,7 @@
 {805}{}{Slot Machine}                                   # HSlots.int
 {806}{}{Drunk}                                          # HRndBar.int
 {807}{}{Gambler}                                        # HGenGamb.int
-{808}{}{Hooker}                                         # HHookerA.int
+{808}{}{Prostitute}                                     # HHookerA.int
 {809}{}{John}                                           # HJohn.int
 {810}{}{Dealer}                                         # HGenDeal.int
 {811}{}{Praying Super Mutant}                           # Smpray.int
@@ -736,7 +740,7 @@
 {832}{}{Computer Terminal}                              # term7.int
 {833}{}{Computer Terminal}                              # term8.int
 {834}{}{Locker}                                         # Lccker.int
-{835}{}{Mantis}                                         # Mantis.int
+{835}{}{}                                               # Mantis.int
 {836}{}{Work Table}                                     # WkTbl.int
 {837}{}{Mad Scientist}                                  # MadBrot.int
 {838}{}{Woman Prisoner}                                 # Women.int
@@ -762,9 +766,9 @@
 {858}{}{Brotherhood Paladin}                            # GenPalA.int
 {859}{}{Brotherhood Paladin}                            # GenPalB.int
 {860}{}{Brotherhood Paladin}                            # GenPalC.int
-{861}{}{Caravaner}                                      # CrvnTeam.int
+{861}{}{Caravan Guard}                                  # CrvnTeam.int
 {862}{}{}                                               # CrvnMstr.int
-{863}{}{Raider}                                         # CrvnEnmy.int
+{863}{}{Marauder}                                       # CrvnEnmy.int
 {864}{}{Wares For Sale}                                 # KillStor.int
 {865}{}{Traveling Caravan}                              # CarEnctr.int
 {866}{}{Commonly Said Things}                           # GenChat.int
@@ -890,7 +894,7 @@
 {986}{}{Force Field Emitter}                            # Emiter1a.int
 {987}{}{Force Field}                                    # Field1a.int
 {988}{}{Force Field Emitter}                            # Emiter1a.int
-{989}{}{Floater}                                        # Floater.int
+{989}{}{}                                               # Floater.int
 {990}{}{Lenore}                                         # Lenore.int
 {991}{}{Bob}                                            # BitsBob.int
 {992}{}{Door}                                           # KaneDoor.int
@@ -929,13 +933,13 @@
 {1025}{}{Greg}                                          # BYGreg.int
 {1026}{}{Blade}                                         # InBlade.int
 {1027}{}{Deathclaw Egg}                                 # EggClaw.int
-{1028}{}{Radscorpion}                                   # Radscor2.int
+{1028}{}{}                                              # Radscor2.int
 {1029}{}{Box}                                           # VanceBox.int
 {1030}{}{Box}                                           # BethBox.int
 {1031}{}{Force Field Emitter}                           # Emiter1a.int
 {1032}{}{Door}                                          # RhomDoor.int
 {1033}{}{Locker}                                        # RhomLock.int
-{1034}{}{Rat}                                           # WanRat2.int
+{1034}{}{}                                              # WanRat2.int
 {1035}{}{Irwin}                                         # Irwin.int
 {1036}{}{Power Armor}                                   # Armor.int
 {1037}{}{Lockbox}                                       # MitchBox.int
@@ -944,11 +948,11 @@
 {1040}{}{Floor}                                         # JTile.int
 {1041}{}{Brahma}                                        # Stampede.int
 {1042}{}{Brotherhood Elder}                             # HighEld.int
-{1043}{}{Mole Rat}                                      # MoleRat2.int
+{1043}{}{}                                              # MoleRat2.int
 {1044}{}{Brotherhood Elder}                             # BroEld.int
 {1045}{}{Ghoul}                                         # RanGhoul.int
 {1046}{}{Ice Chest}                                     # IceChest.int
-{1047}{}{Holodisk}                                      # LtCodes.int
+{1047}{}{Decoder Disk}                                  # LtCodes.int
 {1048}{}{Force Field}                                   # PrisFeld.int
 {1049}{}{Force Field}                                   # PsyField.int
 {1050}{}{Kenny}                                         # Kenny.int
@@ -956,12 +960,12 @@
 {1052}{}{Irwin's Farm}                                  # HubMis0.int
 {1053}{}{}                                              # RndEcGen.int
 {1054}{}{Locker}                                        # GenLock.int
-{1055}{}{Holodisk}                                      # RegDisk.int
+{1055}{}{Regulator Transmissions}                       # RegDisk.int
 {1056}{}{Prisoner}                                      # HubPris.int
 {1057}{}{Followers}                                     # LAFollwr.int
 {1058}{}{Door}                                          # RaidDoor.int
 {1059}{}{Damaged Force Field Emitter}                   # GenEmit.int
-{1060}{}{}                                              #
+{1060}{}{}                                              # 
 {1061}{}{Cheater Item}                                  # Chitem.int
 {1062}{}{Caravan Customer}                              # carcust.int
 {1063}{}{Boxer}                                         # jboxer.int
@@ -971,7 +975,7 @@
 {1067}{}{}                                              # fke_dude.int
 {1068}{}{}                                              # alldogs.int
 {1069}{}{}                                              # bobstand.int
-{1070}{}{Hooker}                                        # HHookerD.int
+{1070}{}{Prostitute}                                    # HHookerD.int
 {1071}{}{}                                              # massacre.int
 {1072}{}{Damaged Force Field}                           # redfield.int
 {1073}{}{Raider}                                        # FarmRad2.int

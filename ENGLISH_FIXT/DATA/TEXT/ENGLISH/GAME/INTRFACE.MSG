@@ -2,5 +2,5 @@
 #   Interface text from INTFACE.C
 #
 {100}{}{SNEAKING}
-{101}{}{NEW LEVEL}
-{102}{}{ADDICT}
+{101}{}{LEVEL UP}
+{102}{}{ADDICTED}

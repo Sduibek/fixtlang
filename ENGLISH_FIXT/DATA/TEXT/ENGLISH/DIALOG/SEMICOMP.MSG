@@ -1,4 +1,4 @@
-{100}{}{You see a dim glowing computer.}
+{100}{}{You see a dimly-glowing computer.}
 {101}{}{There is a trickle of power coming in. Most of the power seems to have been routed to maintain the few systems which are still semi-functioning.}
 {102}{}{You notice nothing unusual.}
 {103}{}{This computer is making a weird humming noise.}

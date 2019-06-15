@@ -1,13 +1,5 @@
-# prepend 500 from MAP.MSG <-- ignore this
-#
-# Messages for Maps -- Note: This order *MUST NOT* change!
-#
-#
 # Numbers to the right of map file names are the TALKING HEAD BACKGROUND IMAGE to use
 # for a new talking head (i.e. Tandi) --Sduibek, Fallout Fixt
-#
-# reserved.frm 0 : DONT USE THIS (Obviously)
-# back1.frm 1 : Unused???
 # rstymetl.frm 2
 # hub.frm  3
 # necro.frm 4
@@ -20,16 +12,15 @@
 # master.frm 11
 # follow.frm 12
 # raider.frm 13
-# desert.frm 14 new for Fallout Fixt, from Fo1 files
-# cave0001.frm 15 = (now Fallout1 blue instead of FO2 grey) new for Fallout Fixt from Fo2 files
-# enclave.frm 16 (Fo2 files)
-# wastelnd.frm 17 (Fo2 files)
-# boss.frm 18 (Fo2 files)
-# pres.frm 19 (Fo2 files)
-# tent.frm 20 (Fo2 files)
-# adobe.frm 21 (Fo2 files)
-# vault15.frm 22 = (same as Vault, just recolored for "rust" and darkened) new for Fallout Fixt
-#
+# desert.frm 14 
+# bluecave.frm 15 
+# .frm 16 
+# .frm 17 
+# .frm 18 
+# .frm 19 
+# .frm 20 
+# .frm 21
+# .frm 22 
 {0}{}{DESERT1.MAP} # 14
 {1}{}{DESERT2.MAP} # 14
 {2}{}{DESERT3.MAP} # 14
@@ -43,54 +34,54 @@
 {10}{}{JUNKENT.MAP} # 7 (& 2)
 {11}{}{JUNKCSNO.MAP} # 7 (& 2)
 {12}{}{JUNKKILL.MAP} # 7 (& 2)
-{13}{}{BROHDENT.MAP} #
+{13}{}{BROHDENT.MAP} # 
 {14}{}{BROHD12.MAP} # 5
 {15}{}{BROHD34.MAP} # 5
 {16}{}{CAVES.MAP} # 15
-{17}{}{CHILDRN1.MAP} #
-{18}{}{CHILDRN2.MAP} #
+{17}{}{CHILDRN1.MAP} # 
+{18}{}{CHILDRN2.MAP} # 
 {19}{}{CITY1.MAP} # 4
-{20}{}{COAST1.MAP} #
-{21}{}{COAST2.MAP} #
+{20}{}{COAST1.MAP} # 
+{21}{}{COAST2.MAP} # 
 {22}{}{COLATRUK.MAP} # 14
-{23}{}{FSAUSER.MAP} #
-{24}{}{RAIDERS.MAP} #
+{23}{}{FSAUSER.MAP} # 
+{24}{}{RAIDERS.MAP} # 
 {25}{}{SHADYE.MAP} # 9
 {26}{}{SHADYW.MAP} # 9
-{27}{}{GLOWENT.MAP} #
-{28}{}{LAADYTUM.MAP} #
-{29}{}{LAFOLLWR.MAP} #
-{30}{}{MBENT.MAP} #
+{27}{}{GLOWENT.MAP} # 
+{28}{}{LAADYTUM.MAP} # 
+{29}{}{LAFOLLWR.MAP} # 
+{30}{}{MBENT.MAP} # 
 {31}{}{MBSTRG12.MAP} # 6
 {32}{}{MBVATS12.MAP} # 6
-{33}{}{MSTRLR12.MAP} #
-{34}{}{MSTRLR34.MAP} #
+{33}{}{MSTRLR12.MAP} # 
+{34}{}{MSTRLR34.MAP} # 
 {35}{}{V13ENT.MAP} # 15
-{36}{}{HUBENT.MAP} #
+{36}{}{HUBENT.MAP} # 
 {37}{}{DETHCLAW.MAP} # 15
-{38}{}{HUBDWNTN.MAP} #
-{39}{}{HUBHEIGT.MAP} #
-{40}{}{HUBOLDTN.MAP} #
-{41}{}{HUBWATER.MAP} #
-{42}{}{GLOW1.MAP} #
-{43}{}{GLOW2.MAP} #
-{44}{}{LABLADES.MAP} #
-{45}{}{LARIPPER.MAP} #
-{46}{}{LAGUNRUN.MAP} #
-{47}{}{CHILDEAD.MAP} #
-{48}{}{MBDEAD.MAP} #
+{38}{}{HUBDWNTN.MAP} # 
+{39}{}{HUBHEIGT.MAP} # 
+{40}{}{HUBOLDTN.MAP} # 
+{41}{}{HUBWATER.MAP} # 
+{42}{}{GLOW1.MAP} # 
+{43}{}{GLOW2.MAP} # 
+{44}{}{LABLADES.MAP} # 
+{45}{}{LARIPPER.MAP} # 
+{46}{}{LAGUNRUN.MAP} # 
+{47}{}{CHILDEAD.MAP} # 
+{48}{}{MBDEAD.MAP} # 
 {49}{}{MOUNTN1.MAP} # 17
 {50}{}{MOUNTN2.MAP} # 17
-{51}{}{FOOT.MAP} #
+{51}{}{FOOT.MAP} # 
 {52}{}{TARDIS.MAP} # 14
 {53}{}{TALKCOW.MAP} # 14
-{54}{}{USEDCAR.MAP} #
-{55}{}{BRODEAD.MAP} #
+{54}{}{USEDCAR.MAP} # 
+{55}{}{BRODEAD.MAP} # 
 {56}{}{DESCRVN1.MAP} # 14
 {57}{}{DESCRVN2.MAP} # 14
 {58}{}{MNTCRVN1.MAP} # 17
 {59}{}{MNTCRVN2.MAP} # 17
-{60}{}{VIPERS.MAP} #
+{60}{}{VIPERS.MAP} # 
 {61}{}{DESCRVN3.MAP} # 14
 {62}{}{MNTCRVN3.MAP} # 17
 {63}{}{DESCRVN4.MAP} # 14
@@ -98,74 +89,209 @@
 {65}{}{HUBMIS0.MAP} #
 {66}{}{HUBMIS1.MAP} #
 #
-# Map Names for (Automap) Descriptions
-#  Note: This order must *NOT* change!
+# Map Names used on SAVEGAME LABELS and PIP-BOY AUTOMAP
 #
-#  Note: The maximum description width is approximately:
-#    "Brotherhood of Steel (Lower Levels)" - about 34 characters,
-#    but it's proportional, so you need to double-check it by
-#    going into mapper/game and going to the automap for that map.
+# The order of these has been reorganized to match WORLDMAP.MSG
 #
-#  Note: Descriptions *MUST* *NOT* be empty, and so temporary
-#    descriptions are just the map name itself (this also helps
-#    pinpoint unfinished ones when you go through here).
+{133}{}{UNUSED}
+{134}{}{UNUSED}
 #
+# V13ENT.MAP
+{135}{}{Vault 13}                             
+{305}{}{Cavern, Vault Door}
+{306}{}{Cavern, Vault Door}
+{307}{}{Cavern, Vault Door}
+# VAULT13.MAP
+{106}{}{Vault 13}                    
+{218}{}{Entrance, Medical}
+{219}{}{Living Quarters}
+{220}{}{Library, Supplies, Command}
+# VAULTENT.MAP
+{107}{}{Vault 15}                             
+{221}{}{Old Shack}
+{222}{}{Cavern Entrance}
+{223}{}{Cavern Entrance}
+# VAULTBUR.MAP
+{108}{}{Vault 15}                    
+{224}{}{Living Quarters}
+{225}{}{Library, Supplies, Command}
+{226}{}{Library, Supplies, Command}
+# SHADYE.MAP
+{125}{}{Shady Sands}                          
+{275}{}{Garden, Brahma Pen}
+{276}{}{Garden, Brahma Pen}
+{277}{}{Garden, Brahma Pen}
+# SHADYW.MAP
+{126}{}{Shady Sands}                          
+{278}{}{Entrance, Town Hall}
+{279}{}{Entrance, Town Hall}
+{280}{}{Entrance, Town Hall}
+# CAVES.MAP
+{116}{}{Shady Sands}                         
+{248}{}{Radscorpion Cave}
+{249}{}{Radscorpion Cave}
+{250}{}{Radscorpion Cave}
+# JUNKENT.MAP
+{110}{}{Junktown}                             
+{230}{}{Entrance, Hospital}
+{231}{}{Doc Morbid's Lab}
+{232}{}{Doc Morbid's Lab}
+# JUNKKILL.MAP
+{112}{}{Junktown}
+{236}{}{General Store, Hotel}
+{237}{}{General Store, Hotel}
+{238}{}{General Store, Hotel}
+# JUNKCSNO.MAP
+{111}{}{Junktown}
+{233}{}{Casino, Bar}
+{234}{}{Casino, Bar}
+{235}{}{Casino, Bar}
+# RAIDERS.MAP
+{124}{}{The Khans}
+{272}{}{Base Camp}
+{273}{}{Base Camp}
+{274}{}{Base Camp}
+# HOTEL.MAP
+{104}{}{Necropolis}                           
+{212}{}{Sewers under Hotel}
+{213}{}{Hotel of Doom}
+{214}{}{Sewers under Hotel}
+# HALLDED.MAP
+{103}{}{Necropolis}                           
+{209}{}{Sewers under Hall}
+{210}{}{Hall of the Dead}
+{211}{}{Sewers under Hall}
+# WATRSHD.MAP
+{105}{}{Necropolis}                           
+{215}{}{Sewers under Watershed}
+{216}{}{The Watershed}
+{217}{}{Sewers under Watershed}
+# VAULTNEC.MAP
+{109}{}{Vault 12}                           
+{227}{}{Level 1 (Sewer Entrance)}
+{228}{}{Level 2 (Living Quarters)}
+{229}{}{Level 3 (Command Center)}
+# HUBENT.MAP
+{136}{}{The Hub}                                  
+{308}{}{Entrance, Caravaners}
+{309}{}{Entrance, Caravaners}
+{310}{}{Entrance, Caravaners}
+# HUBDWNTN.MAP
+{138}{}{The Hub}                                  
+{314}{}{Downtown, Market, Casino}
+{315}{}{Decker's Hideout}
+{316}{}{Decker's Hideout}
+# HUBHEIGT.MAP
+{139}{}{The Hub}                                  
+{317}{}{Heights, Hightower}
+{318}{}{Heights, Hightower}
+{319}{}{Heights, Hightower}
+# HUBOLDTN.MAP
+{140}{}{The Hub}                                  
+{320}{}{Old Town}
+{321}{}{Thieves' Circle}
+{322}{}{Thieves' Circle}
+# HUBWATER.MAP
+{141}{}{The Hub}                                  
+{323}{}{Water Merchants, Church}
+{324}{}{Water Merchants, Church}
+{325}{}{Water Merchants, Church}
+# DETHCLAW.MAP
+{137}{}{The Hub}                                  
+{311}{}{Deathclaw Lair}
+{312}{}{Deathclaw Lair}
+{313}{}{Deathclaw Lair}
+# HUBMIS0.MAP
+{165}{}{The Hub}
+{395}{}{Irwin's Farm}
+{396}{}{Irwin's Farm}
+{397}{}{Irwin's Farm}
+# HUBMIS1.MAP
+{166}{}{The Hub}
+{398}{}{Irwin's Farm}
+{399}{}{Irwin's Farm}
+{400}{}{Irwin's Farm}
+# BROHDENT.MAP
+{113}{}{Brotherhood of Steel}                          
+{239}{}{Entrance}
+{240}{}{Entrance}
+{241}{}{Entrance}
+# BROHD12.MAP
+{114}{}{Brotherhood of Steel}                          
+{242}{}{Level 1}
+{243}{}{Level 2}
+{244}{}{Level 2}
+# BROHD34.MAP
+{115}{}{Brotherhood of Steel}                          
+{245}{}{Level 3}
+{246}{}{Level 4}
+{247}{}{Level 4}
+# BRODEAD.MAP
+{155}{}{Brotherhood of Steel}
+{365}{}{Ruins}
+{366}{}{Ruins}
+{367}{}{Ruins}
+# Military Base Entrance, MBENT.MAP
+{130}{}{Military Base}                        # MBENT.MAP
+{290}{}{Entrance}
+{291}{}{Entrance}
+{292}{}{Entrance}
+# Military Base Stronghold, MBSTRG12.MAP
+{131}{}{Military Base}                        # MBSTRG12.MAP
+{293}{}{Stronghold Level 1}
+{294}{}{Stronghold Level 2}
+{295}{}{}
+# Military Base Vats, MBVATS12.MAP
+{132}{}{Military Base}                        # MBVATS12.MAP
+{296}{}{Vats Level 1}
+{297}{}{Vats Level 2}
+{298}{}{}
+# MBDEAD.MAP
+{148}{}{Military Base}                             # MBDEAD.MAP
+{344}{}{Ruins}
+{345}{}{Ruins}
+{346}{}{Ruins}
+
 {100}{}{Desert}                     # DESERT1.MAP
+{200}{}{Wasteland}
+{201}{}{Wasteland}
+{202}{}{Wasteland}
 {101}{}{Desert}                     # DESERT2.MAP
+{203}{}{Wasteland}
+{204}{}{Wasteland}
+{205}{}{Wasteland}
 {102}{}{Desert}                     # DESERT3.MAP
-{103}{}{Necropolis}                           # HALLDED.MAP
-{104}{}{Necropolis}                           # HOTEL.MAP
-{105}{}{Necropolis}                           # WATRSHD.MAP
-{106}{}{Vault 13}                    # VAULT13.MAP
-{107}{}{Vault 15}                             # VAULTENT.MAP
-{108}{}{Vault 15}                    # VAULTBUR.MAP
-{109}{}{Necropolis}                           # VAULTNEC.MAP
-{110}{}{Junktown}                             # JUNKENT.MAP
-{111}{}{Junktown}                             # JUNKCSNO.MAP
-{112}{}{Junktown}                             # JUNKKILL.MAP
-{113}{}{Brotherhood of Steel}                          # BROHDENT.MAP
-{114}{}{Brotherhood of Steel}                          # BROHD12.MAP
-{115}{}{Brotherhood of Steel}                          # BROHD34.MAP
-{116}{}{Shady Sands}                          # CAVES.MAP
+{206}{}{Wasteland}
+{207}{}{Wasteland}
+{208}{}{Wasteland}
+
+
+
+
 {117}{}{Cathedral}                            # CHILDRN1.MAP
 {118}{}{Cathedral}                            # CHILDRN2.MAP
-{119}{}{City Ruins}                   # CITY1.MAP
+{119}{}{City}                   # CITY1.MAP
 {120}{}{Coast}                      # COAST1.MAP
 {121}{}{Coast}                      # COAST2.MAP
 {122}{}{Desert}                     # COLATRUK.MAP
 {123}{}{Desert}                     # FSAUSER.MAP
-{124}{}{The Khans}                              # RAIDERS.MAP
-{125}{}{Shady Sands}                          # SHADYE.MAP
-{126}{}{Shady Sands}                          # SHADYW.MAP
+
 {127}{}{The Glow}                       # GLOWENT.MAP
 {128}{}{L.A. Boneyard}                             # LAADYTUM.MAP
 {129}{}{L.A. Boneyard}                             # LAFOLLWR.MAP
-{130}{}{Military Base}                        # MBENT.MAP
-{131}{}{Military Base}                        # MBSTRG12.MAP
-{132}{}{Military Base}                        # MBVATS12.MAP
-{133}{}{Military Base}                        # MSTRLR12.MAP
-{134}{}{Military Base}                        # MSTRLR34.MAP
-{135}{}{Vault 13}                             # V13ENT.MAP
-{136}{}{The Hub}                                  # HUBENT.MAP
-{137}{}{The Hub}                                  # DETHCLAW.MAP
-{138}{}{The Hub}                                  # HUBDWNTN.MAP
-{139}{}{The Hub}                                  # HUBHEIGT.MAP
-{140}{}{The Hub}                                  # HUBOLDTN.MAP
-{141}{}{The Hub}                                  # HUBWATER.MAP
+
 {142}{}{The Glow}                       # GLOW1.MAP
 {143}{}{The Glow}                       # GLOW2.MAP
 {144}{}{L.A. Boneyard}                             # LABLADES.MAP
 {145}{}{L.A. Boneyard}                             # LARIPPER.MAP
 {146}{}{L.A. Boneyard}                             # LAGUNRUN.MAP
-{147}{}{Cathedral}                            # CHILDEAD.MAP
-{148}{}{Ruins}                             # MBDEAD.MAP
+{147}{}{Ruins}                            # CHILDEAD.MAP
 {149}{}{Mountains}                   # MOUNTN1.MAP
 {150}{}{Mountains}                   # MOUNTN2.MAP
 {151}{}{Desert}                     # FOOT.MAP
 {152}{}{Desert}                     # TARDIS.MAP
 {153}{}{Desert}                     # TALKCOW.MAP
 {154}{}{Desert}                     # USEDCAR.MAP
-{155}{}{Brotherhood of Steel}                          # BRODEAD.MAP
 {156}{}{Desert}                     # DESCRVN1.MAP
 {157}{}{Desert}                     # DESCRVN2.MAP
 {158}{}{Mountains}                   # MNTCRVN1.MAP
@@ -175,81 +301,8 @@
 {162}{}{Mountains}
 {163}{}{Desert}
 {164}{}{Mountains}
-{165}{}{Irwin's Farm}
-{166}{}{Irwin's Farm}
-#
-# City elevation names
-#
-# Format: 3 (max elevations), by city
-#
-# Desert, DESERT1.MAP
-{200}{}{}
-{201}{}{}
-{202}{}{}
-# Desert, DESERT2.MAP
-{203}{}{}
-{204}{}{}
-{205}{}{}
-# Desert, DESERT3.MAP
-{206}{}{}
-{207}{}{}
-{208}{}{}
-# Necropolis Hall of the Dead, HALLDED.MAP
-{209}{}{Sewers}
-{210}{}{Hall}
-{211}{}{}
-# Necropolis Hotel of Doom, HOTEL.MAP
-{212}{}{Sewers}
-{213}{}{Hotel}
-{214}{}{}
-# Necropolis Watershed, WATRSHD.MAP
-{215}{}{Sewers}
-{216}{}{Watershed}
-{217}{}{}
-# Vault 13, VAULT13.MAP
-{218}{}{Entrance}
-{219}{}{Living Quarters}
-{220}{}{Command Center}
-# Buried Vault Entrance, VAULTENT.MAP
-{221}{}{Cave Entrance}
-{222}{}{}
-{223}{}{}
-# Buried Vault,  VAULTBUR.MAP
-{224}{}{Caverns}
-{225}{}{Living Quarters}
-{226}{}{Command Center}
-# Necropolis Vault, VAULTNEC.MAP
-{227}{}{Sewers}
-{228}{}{Living Quarters}
-{229}{}{Command Center}
-# Junktown Entrance, JUNKENT.MAP
-{230}{}{Entrance}
-{231}{}{Lab}
-{232}{}{}
-# Junktown Casino, JUNKCSNO.MAP
-{233}{}{Casino}
-{234}{}{}
-{235}{}{}
-# Junktown Killian's, JUNKKILL.MAP
-{236}{}{Crash House}
-{237}{}{}
-{238}{}{}
-# Brotherhood of Steel Entrance, BROHDENT.MAP
-{239}{}{Entrance}
-{240}{}{}
-{241}{}{}
-# Brotherhood of Steel (Upper Levels), BROHD12.MAP
-{242}{}{Level 1}
-{243}{}{Level 2}
-{244}{}{}
-# Brotherhood of Steel (Lower Levels), BROHD34.MAP
-{245}{}{Level 3}
-{246}{}{Level 4}
-{247}{}{}
-# Caves (Shady sands), CAVES.MAP
-{248}{}{Caves}
-{249}{}{}
-{250}{}{}
+
+
 # Cathedral, CHILDRN1.MAP
 {251}{}{Entrance}
 {252}{}{Tower Level 1}
@@ -259,41 +312,30 @@
 {255}{}{Tower Level 3}
 {256}{}{Tower Level 4}
 # City Ruins, CITY1.MAP
-{257}{}{}
-{258}{}{}
-{259}{}{}
+{257}{}{Ruins}
+{258}{}{Ruins}
+{259}{}{Ruins}
 # Coast, COAST1.MAP
-{260}{}{}
-{261}{}{}
-{262}{}{}
+{260}{}{Shoreline}
+{261}{}{Shoreline}
+{262}{}{Shoreline}
 # Coast, COAST2.MAP
-{263}{}{}
-{264}{}{}
-{265}{}{}
+{263}{}{Shoreline}
+{264}{}{Shoreline}
+{265}{}{Shoreline}
 # Desert, COLATRUK.MAP
 {266}{}{Overturned Truck}
-{267}{}{}
-{268}{}{}
+{267}{}{Overturned Truck}
+{268}{}{Overturned Truck}
 # Desert, FSAUSER.MAP
 {269}{}{Spacecraft}
-{270}{}{}
-{271}{}{}
-# Raider's Camp, RAIDERS.MAP
-{272}{}{Base}
-{273}{}{}
-{274}{}{}
-# Shady Sands East, SHADYE.MAP
-{275}{}{Garden}
-{276}{}{Brahma Pen}
-{277}{}{}
-# Shady Sands West, SHADYW.MAP
-{278}{}{Town Hall}
-{279}{}{}
-{280}{}{}
+{270}{}{Spacecraft}
+{271}{}{Spacecraft}
+
 # GLOWENT.MAP
 {281}{}{Entrance}
-{282}{}{}
-{283}{}{}
+{282}{}{Entrance}
+{283}{}{Entrance}
 # LAADYTUM.MAP
 {284}{}{Adytum}
 {285}{}{Underground}
@@ -302,18 +344,7 @@
 {287}{}{Library}
 {288}{}{Underground}
 {289}{}{}
-# Military Base Entrance, MBENT.MAP
-{290}{}{Entrance}
-{291}{}{}
-{292}{}{}
-# Military Base Stronghold, MBSTRG12.MAP
-{293}{}{Stronghold Level 1}
-{294}{}{Stronghold Level 2}
-{295}{}{}
-# Military Base Vats, MBVATS12.MAP
-{296}{}{Vats Level 1}
-{297}{}{Vats Level 2}
-{298}{}{}
+
 # Master's Lair (Upper Levels), MSTRLR12.MAP
 {299}{}{Lair Level 1}
 {300}{}{Lair Level 2}
@@ -322,34 +353,7 @@
 {302}{}{Lair Level 3}
 {303}{}{Lair Level 4}
 {304}{}{}
-# Vault 13 Entrance, V13ENT.MAP
-{305}{}{Cave Entrance}
-{306}{}{}
-{307}{}{}
-# Hub Entrance, HUBENT.MAP
-{308}{}{Entrance}
-{309}{}{}
-{310}{}{}
-# Deathclaw's Lair, DETHCLAW.MAP
-{311}{}{Lair}
-{312}{}{}
-{313}{}{}
-# Hub Downtown, HUBDWNTN.MAP
-{314}{}{Downtown}
-{315}{}{Decker's Hideout}
-{316}{}{}
-# HUBHEIGT.MAP
-{317}{}{Heights}
-{318}{}{}
-{319}{}{}
-# Hub Old Town, HUBOLDTN.MAP
-{320}{}{Old Town}
-{321}{}{Thieves' Circle}
-{322}{}{}
-# HUBWATER.MAP
-{323}{}{Merchants}
-{324}{}{}
-{325}{}{}
+
 # GLOW1.MAP
 {326}{}{Level 1}
 {327}{}{Level 2}
@@ -360,96 +364,83 @@
 {331}{}{Level 6}
 # LABLADES.MAP
 {332}{}{Downtown}
-{333}{}{}
-{334}{}{}
+{333}{}{Downtown}
+{334}{}{Downtown}
 # LARIPPER.MAP
 {335}{}{Warehouse}
 {336}{}{Underground}
 {337}{}{}
 # LAGUNRUN.MAP
 {338}{}{Fortress}
-{339}{}{}
-{340}{}{}
+{339}{}{Fortress}
+{340}{}{Fortress}
 # CHILDEAD.MAP
 {341}{}{Crater}
-{342}{}{}
-{343}{}{}
-# MBDEAD.MAP
-{344}{}{Ruins}
-{345}{}{}
-{346}{}{}
+{342}{}{Crater}
+{343}{}{Crater}
+
 # MOUNTN1.MAP
-{347}{}{}
-{348}{}{}
-{349}{}{}
+{347}{}{Pass}
+{348}{}{Pass}
+{349}{}{Pass}
 # MOUNTN2.MAP
-{350}{}{}
-{351}{}{}
-{352}{}{}
+{350}{}{Pass}
+{351}{}{Pass}
+{352}{}{Pass}
 # FOOT.MAP
 {353}{}{Footprint}
-{354}{}{}
-{355}{}{}
+{354}{}{Footprint}
+{355}{}{Footprint}
 # TARDIS.MAP
 {356}{}{Police Box}
-{357}{}{}
-{358}{}{}
+{357}{}{Police Box}
+{358}{}{Police Box}
 # TALKCOW.MAP
 {359}{}{Talking Cows}
-{360}{}{}
-{361}{}{}
+{360}{}{Talking Cows}
+{361}{}{Talking Cows}
 # USEDCAR.MAP
 {362}{}{Pre-Owned Cars}
-{363}{}{}
-{364}{}{}
-# BRODEAD.MAP
-{365}{}{Ruins}
-{366}{}{}
-{367}{}{}
+{363}{}{Pre-Owned Cars}
+{364}{}{Pre-Owned Cars}
+
 # DESCRVN1.MAP
-{368}{}{Caravan}
-{369}{}{}
-{370}{}{}
+{368}{}{Caravan Encounter}
+{369}{}{Caravan Encounter}
+{370}{}{Caravan Encounter}
 # DESCRVN2.MAP
-{371}{}{Caravan}
-{372}{}{}
-{373}{}{}
+{371}{}{Caravan Encounter}
+{372}{}{Caravan Encounter}
+{373}{}{Caravan Encounter}
 # MNTCRVN1.MAP
-{374}{}{Caravan}
-{375}{}{}
-{376}{}{}
+{374}{}{Caravan Encounter}
+{375}{}{Caravan Encounter}
+{376}{}{Caravan Encounter}
 # MNTCRVN2.MAP
-{377}{}{Caravan}
-{378}{}{}
-{379}{}{}
+{377}{}{Caravan Encounter}
+{378}{}{Caravan Encounter}
+{379}{}{Caravan Encounter}
 # VIPERS.MAP
 {380}{}{Vipers' Camp}
-{381}{}{}
-{382}{}{}
+{381}{}{Vipers' Camp}
+{382}{}{Vipers' Camp}
 # DESCRVN3.MAP
-{383}{}{Caravan}
-{384}{}{}
-{385}{}{}
+{383}{}{Caravan Encounter}
+{384}{}{Caravan Encounter}
+{385}{}{Caravan Encounter}
 # MNTCRVN3.MAP
-{386}{}{Caravan}
-{387}{}{}
-{388}{}{}
+{386}{}{Caravan Encounter}
+{387}{}{Caravan Encounter}
+{388}{}{Caravan Encounter}
 # DESCRVN4.MAP
-{389}{}{Caravan}
-{390}{}{}
-{391}{}{}
+{389}{}{Caravan Encounter}
+{390}{}{Caravan Encounter}
+{391}{}{Caravan Encounter}
 # MNTCRVN4.MAP
-{392}{}{Caravan}
-{393}{}{}
-{394}{}{}
-# HUBMIS0.MAP
-{395}{}{- Irwin's Farm}
-{396}{}{- Irwin's Farm}
-{397}{}{- Irwin's Farm}
-# HUBMIS1.MAP
-{398}{}{- Irwin's Farm}
-{399}{}{- Irwin's Farm}
-{400}{}{- Irwin's Farm}
+{392}{}{Caravan Encounter}
+{393}{}{Caravan Encounter}
+{394}{}{Caravan Encounter}
+
 #
 # --- Worldmap and Load/Save: ---
 #

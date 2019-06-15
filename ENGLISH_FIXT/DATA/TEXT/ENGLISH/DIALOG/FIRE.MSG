@@ -32,7 +32,7 @@
 {131}{}{Then I don't want in!}
 {132}{}{What do you mean, 'jump in'?}
 {133}{}{Can't you just make me a Blade?}
-{134}{}{Your momma never wanted you, and we don't either.}
+{134}{}{Your mama never wanted you, and we don't either.}
 {135}{}{Simple. You'll have to kill someone to get in here. She will tell you who you're gonna need to kill.}
 {136}{}{Okay, thanks.}
 {137}{}{Never mind. I don't want to be part of your stupid gang.}

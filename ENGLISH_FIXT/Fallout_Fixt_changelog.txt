@@ -74,36 +74,44 @@ __________________________________________
       GAME START
 -----------------------
 
-- Player no longer always starts the game with a Knife in inventory.  [RATIONALE: It's extraneous since you can get one right away anyway, and reduces differences between builds if you're selecting Melee Weapons as a Tag Skill.]
+- [FIX]  Player no longer always starts the game with a Knife in inventory.  [RATIONALE: It's extraneous since you can get one right away anyway, and reduces differences between builds if you're selecting Melee Weapons as a Tag Skill.]
 
-- Algorithms for Tagged skills (to determine bonus starting items) are now correct. (In vanilla, almost all of them were wrong)
+- [FIX]  Algorithms for Tagged skills (to determine bonus starting items) are now correct. (In vanilla, almost all of them were wrong.)
 
-- If created character on Easy difficulty, player no longer gets Tagged skill starting items for ALL non-combat skills. Now it works the same as on Normal or Hard: If you Tag a skill, you get the applicable bonus starting items.  [RATIONALE: While starting with more items on Easy makes sense, this made any non-combat skills you tagged completely irrelevant in terms of bonus starting items, and greatly reduced starting difference between character builds.]
+- [FIX]  If created character on Easy difficulty, player no longer gets Tag skill starting items for ALL non-combat skills. Now it works the same as on Normal or Hard: If you Tag a skill, you get the applicable bonus starting items. (See the 2nd table below)  [RATIONALE: While starting with more items on Easy makes sense, this made any non-combat skills you tagged completely irrelevant in terms of starting items, and thus greatly reduced starting difference between character builds.]
 
-- Number of bonus starting items received for each Tag skill now varies by selected difficulty level.  (For example, Small Guns tagged giving 1 stack of ammo on Hard, 2 stacks on Normal, 3 stacks on Easy.)  NOTE: These changes are minimal or disabled if Fixes Only mode is enabled.  [RATIONALE: Balance change. This makes Hard more of a challenge, while allowing Easy to still give more items as it did before.]
+- [FIX]  The skills Big Guns, Energy Weapons, Melee Weapons, Sneak, Traps, Speech, Barter, Gambling if Tagged will now generate corresponding starting items. (See the 2nd table below)  [RATIONALE: The guns start with minimal ammo and you don't have access to high-level ammo until later in the game anyway, plus now it makes it much more attractive to Tag "endgame" or "less useful" skills, as well as significantly increasing the starting difference between character builds.]
 
-- Base starting items (the items all characters always start with) now vary by selected difficulty level. (For example, base item of 2 Stimpaks given on Hard, 3 Stimpaks on Normal, 4 Stimpaks on Easy.)  NOTE: These changes are minimal or disabled if Fixes Only mode is enabled.  [RATIONALE: This allows difficulty level to matter more from the beginning; Hard is more of a challenge, and Easy is a little easier than before.]
+- [FIX]  If selecting Science as a Tag skill, player no longer receives 2 Buffout in their inventory at the beginning of the game.  [RATIONALE: Why would a science-focused character start with combat-focused drugs?]
 
-- Skills that gave no items in vanilla if Tagged, now give items. Examples are a Laser Pistol for Energy Weapons, Flamethrower for Big Guns, and Stealth Boy for Sneak.  NOTE: These changes are disabled or reduced if playing Fixes Only mode.  [RATIONALE: The guns start with minimal ammo and you don't have access to high-level ammo until later in the game anyway, plus now it makes it much more attractive to Tag "endgame" or "less useful" skills, as well as increasing difference between character builds.]
+- [FIX]  Base starting items (the items all characters always start with) now vary by selected difficulty level. (See the 1st table below)  [RATIONALE: This allows difficulty level to matter more from the beginning.]
 
-- If selecting Science as a Tag skill, player no longer receives 2 Buffout in their inventory at the beginning of the game.  [RATIONALE: Why would a science-focused character start with combat-focused drugs?]
+- [RESTORATION]  Time of day is randomized to between 03:00 and 07:00 at game start instead of being exactly 07:21, which means you will now sometimes see "night sky" message instead of "light of day" message. (In vanilla this message existed but was unused.)
 
-- If not enabled Fixes Only mode, player also starts with 2 Water Flasks if playing on Easy, or 1 Water Flask if playing on Normal.
+- [RESTORATION]  Premade characters start with 2 extra items in addition to what normal characters start with, if not playing Fixes Only mode. (Code was present in vanilla, just not used.)  [RATIONALE: Adds further flavor to the premade characters.]
 
-- Time of day is randomized to between 03:00 and 07:00 at game start instead of being exactly 07:21, which means you will now sometimes see "night sky" message instead of "light of day" message. (In vanilla this message existed but was unused)
+- [NEW FEATURE]  Vault 13 Door Computer now has an option available from the beginning of the game which allows in-game customization of various game settings. (NOTE: Some settings cannot be changed in-game because they are based on files on your drive, or are settings within f1_res.ini or ddraw.ini)  [RATIONALE: Increases replay value and allows changing of game settings without having to completely reinstall Fixt or manually edit the Global Variables file.]
 
-- [OPTIONAL]  Player can choose to start with only Tagged skill bonus items, or only the generic base items, or start with no items at all.
+- [INSTALLER OPTION]  If you chose to enable smoking idle animation for male player character and male NPCs, then male players also start with a Lighter.
 
-- [OPTIONAL]  If option of male characters and NPCs smoking for idle animation is enabled, then male players start with a Lighter.
+- [INSTALLER OPTION]  Player can choose to start with only Tagged skill bonus items, or only the generic base items, or start with no items at all.
+
+- [CUSTOMIZATION]  Option to disable the check that wouldn't let you enter Vault 13 until 1 day of in-game time had passed.
+
+- [CUSTOMIZATION]  If it's still the first day in game-time, player has an extra option in the customization menu that will let you reset your starting items. This can only be done once per character. (For example if you change your mind and decide you want to start naked or only with base inventory items.)  [RATIONALE: These playstyles are originally chosen during installation of Fallout Fixt, so I don't want you to have to reinstall Fixt just because of one regretted installer selection.]
+
+- [CUSTOMIZATION]  Number of base starting items and items received for each Tag skill can now vary by selected difficulty level.  [RATIONALE: Balance improvement and increases difference between builds. This makes Hard more of a challenge, while allowing Easy to still get more items as it did before.]
+
+ ^^^ You can view the startup items breakdown at: https://docs.google.com/spreadsheets/d/1RnVz7Mfct14Xw3P4l8LNZHX2NpBQd_4z8c1r75-o3R0/edit?usp=sharing
 
 
 -----------------------
   GRAPHICS, INTERFACE
 -----------------------
 
-- Death animations for Electrical and Fire (bodies burned up) for Super Mutants and anything in Power Armor are now always sized correctly. This means there is no more discrepancy between critter size and corpse size.  (Background: In the original game, Super Mutants and critters in Power Armor shared these animation files, meaning the Super Mutant animations looked far too small. Those were increased in size by 20% by .Pixote. so they matched the Super Mutants, but that was then too big for Power Armor animations. I've built internal references from the old Super Mutant -sized graphics to the Power Armor critters, so that now there are three sizes: Humans, Humans in Power Armor, Super Mutants.)
+- [FIX]  Death animations for Electrical and Fire (bodies burned up) for Super Mutants and anything in Power Armor are now always sized correctly. This means there is no more discrepancy between critter size and corpse size.  (Background: In the original game, Super Mutants and critters in Power Armor shared these animation files, meaning the Super Mutant animations looked far too small. Those were increased in size by 20% by .Pixote. so they matched the Super Mutants, but that was then too big for Power Armor animations. I've built internal references from the old "Super Mutant"-sized graphics to the Power Armor critters, so that now there are three sizes: Humans, Humans in Power Armor, Super Mutants.)
 
-- Icon for Falloutw.exe at Thumbnail View or larger (Medium or larger in Windows Vista/7/8) is now the Vault Boy as with the smaller icons, instead of Tim Cain's face. [Sorry Tim, nothing personal. We still love you.]
+- [FIX]  Icon for Falloutw.exe at Thumbnail View or larger (Medium or larger in Windows Vista/7/8) is now the Vault Boy as with the smaller icons, instead of Tim Cain's face. [Sorry Tim, nothing personal. We still love you.]
 
 - Includes f1_res (Fallout1 High Resolution Patch) version 4.1.8, by Mash.
 
@@ -117,41 +125,41 @@ __________________________________________
 
 - Brass Knuckles and Spiked Knuckles now have their own on-ground graphics, instead of a generic brown box.
 
-- Lit flares increase light radius while held in hand.  [RATIONALE:  Tim Cain states that this was the original intention for the game.]
+- [NEW FEATURE]  Lit flares increase light radius while held in hand.  [RATIONALE:  Tim Cain states that this was the original intention for the game.]
 
-- Flares now have a brighter-looking graphic when on the ground, even if unlit.  [RATIONALE:  This makes it look more realistic when lit, and when unlit (because they are bright in the inventory graphic). (Added bonus: when unlit they're easier to find in dark areas, for example Vault 15)]
+- [FIX]  Flares now have a brighter-looking graphic when on the ground, even if unlit.  [RATIONALE:  This makes it look more realistic when lit, and when unlit (because they are bright in the inventory graphic). (Added bonus: when unlit they're easier to find in dark areas, for example Vault 15)]
 
-- Implemented/"restored" many missing situational death animations for all humanoids and critters as appropriate. This is most noticable on Normal violence level, and was done using existing vanilla graphics. [They are usually the "falling down burnt" animation, but in some cases also the explosion animation, full-auto animation, and "up-in-smoke" animation. For the burnt animations, most non-human critters already had it, with a puff of smoke above them, but of humanoids only the human male jumpsuit had the same animation, and without the smoke puff.]
+- [FIX]  Implemented/"restored" many missing situational death animations for all humanoids and critters as appropriate. This is most noticable on Normal violence level, and was done using existing vanilla graphics. [They are usually the "falling down burnt" animation, but in some cases also the explosion animation, full-auto animation, and "up-in-smoke" animation. For the burnt animations, most non-human critters already had it, with a puff of smoke above them, but of humanoids only the human male jumpsuit had the same animation, and without the smoke puff.]
 
 - The darker/blacker burnt death animation and burnt corpse versions of humanoid bodies from Fallout2 Restoration Project have been used for Black Guy and both gender's Combat Armor graphics.
 
 - Dogs and Brahmin now use the explode animation, when their goriest animation happens, from normal attacks and grenades. This was actually inspired from playing the Fallout demo and I verified by checking its data files. I specifically recall one time in the demo doing a called shot critical hit on Dogmeat to the eyes with my 10mm SMG and he exploded. Good times.  [RATIONALE:  Gore is fun, and Fallout-y.]
 
-- Player will rotate to face the other person or critter when dialog is initiated. (This works on "almost all" critters/NPCs in the game. Some have needed to have the feature disabled because it caused scripting issues.)
+- [NEW FEATURE]  Player will rotate to face the other person or critter when dialog is initiated. (This works on "almost all" critters/NPCs in the game. Some have needed to have the feature disabled because it caused scripting issues.)
 
-- Renamed the "Combat Taunts" to "Combat Floats" in Game Preferences.  [RATIONALE:  Many of the messages are not actually taunts, but they are all floating messages.]
+- [FIX]  Renamed the "Combat Taunts" to "Combat Floats" in Game Preferences.  [RATIONALE:  Many of the messages are not actually taunts, but they are all floating messages.]
 
-- [Customizable]  Option to reduce light level in low-light maps (such as underground areas).
+- [CUSTOMIZATION]  Option to reduce light level in low-light maps (such as underground areas).
 
-- [Customizable]  Lit flares giving light radius when in inventory as well as in hand, or when anywhere in inventory.
+- [CUSTOMIZATION]  Lit flares giving light radius when in inventory as well as in hand, or when anywhere in inventory.
 
-- [Customizable]  Can now choose between US font, US condensed font, or EU/UK font.
+- [INSTALLER OPTION]  Can now choose between US font, US condensed font, or EU/UK font.
 
-- [Optional]  Extended Flamer Attack Mod (flamethrower firing graphics lasts about twice as long) by .Pixote.
+- [INSTALLER OPTION]  Extended Flamer Attack Mod (flamethrower firing graphics lasts about twice as long) by .Pixote.
 
-- [Optional]  Can change all male NPCs' (and player's, if male) idle animation to cigarette smoking. (Unfortunately until we move to the Fallout2 engine it's not possible for this to work on just the male player-character.)
+- [INSTALLER OPTION]  Can change all male NPCs' (and player's, if male) idle animation to cigarette smoking. (Unfortunately until we move to the Fallout2 engine it's not possible for this to work on just the male player-character.)
 
-- [Optional]  Can set running animation to 20FPS (frames per second) when wearing Power Armor. (Previously it was 18FPS, slower than all other armors, even slower than NPCs who wear Power Armor; the one without a helmet.)  [RATIONALE: Power Armor is powered; why would it slow you down? Also, consistency with the helmetless Power Armor NPCs. I'd like to make this always installed instead of optional, but I think some purists would freak out if I did that.]
+- [INSTALLER OPTION]  Can set running animation to 20FPS (frames per second) when wearing Power Armor. (Previously it was 18FPS, slower than all other armors, even slower than NPCs who wear Power Armor; the one without a helmet.)  [RATIONALE: Power Armor is powered; why would it slow you down? Also, consistency with the helmetless Power Armor NPCs. I'd like to make this always installed instead of optional, but I think some purists would freak out if I did that.]
 
-- [Optional]  Slow critters and NPCs can be set to run faster. (20FPS, same as all other critters.) [The affected things are mostly peasants, and also dogs]
+- [INSTALLER OPTION]  Slow critters and NPCs can be set to run faster. (20FPS, same as all other critters.) [The affected things are mostly peasants, and also dogs]
 
-- [Optional]  Animated Containers mod. (When opening containers that used to be static graphics, you actually see them open and close, such as tables and desks.)
+- [INSTALLER OPTION]  Animated Containers mod. (When opening containers that used to be static graphics, you actually see them open and close, such as tables and desks.)
 
-- [Optional]  New splash screens.
+- [INSTALLER OPTION]  New splash screens.
 
-- [Optional]  Can make player always use "bend down pickup" animation on containers, instead of "magic hands" animation. This saves time for lazy or impatient players. Sduibek approves this method.
+- [INSTALLER OPTION]  Can make player always use "bend down pickup" animation on containers, instead of "magic hands" animation. This saves time for lazy or impatient players. Sduibek approves this method.
 
-- [Optional]  Main menu with blood-red background instead of gray.
+- [INSTALLER OPTION]  Main menu with blood-red background instead of gray.
 
 
 -----------------------
@@ -202,25 +210,25 @@ __________________________________________
 
 - Some of the death descriptions from Wasteland have been included into critical hit descriptions.  [RATIONALE:  Adds a bit more fun and flavor to the messages. You probably won't even notice them or see them unless the play the game for a very long time.]
 
-- Message received when poison level reaches 0, after having been poisoned. Similar to the "You feel better" messages when addictions wear off. Unfortunately at this time, I can't also have it load to the world map on this like it does for addictions wearing off; this engine doesn't support that function via script.
+- [NEW FEATURE]  Message received when poison level reaches 0, after having been poisoned. Similar to the "You feel better" messages when addictions wear off. Unfortunately at this time, I can't also have it load to the world map on this like it does for addictions wearing off; this engine doesn't support that function via script.
 
-- Examine description for Katja restored. It existed in vanilla files but wasn't implemented.
+- [RESTORATION]  Examine description for Katja restored. It existed in vanilla files but wasn't implemented.
 
 - [ONGOING PROJECT]  Adding dummy entries to all "Tell-Me-About" dialog files, to prevent errors and issues with the feature.
 
-- Expanded auto-responses for "Tell-Me-About": 10 possible "That is me" messages up from 3, and 20 possible "I don't know anything about that" messages, also up from 3. (This is the max number of each that the engine supports.)
+- [NEW FEATURE]  Expanded auto-responses for "Tell-Me-About": 10 possible "That is me" messages up from 3, and 20 possible "I don't know anything about that" messages, also up from 3. (This is the max number of each that the engine supports.)
 
 - [ONGOING PROJECT]  Some critters and items were using the same text for hover description and detailed description. I am working on rebuilding all of these to work as all other critters do. (In other words, providing basic info on a hover "look-at", with more detailed info on an Examine.)
 
 - [ONGOING PROJECT]  Combat floats have had missing entries filled, and removed or modified most generic repeats - of which there was many. [Still in progress, so far only up to packet 23 of 94]
 
-- [Optional]  New titles for addictions. (Written/named by Sduibek, except for Pyscho. That one stays the same.)
+- [INSTALLER OPTION]  New titles for addictions. (Written/named by Sduibek, except for Pyscho. That one stays the same.)
 
-- [Optional]  Can enable detailed Trait descriptions, which explain exactly what they all do in terms of game numbers. (Recommended!)
+- [INSTALLER OPTION]  Can enable detailed Trait descriptions, which explain exactly what they all do in terms of game numbers. (Recommended!)
 
-- [Optional]  Can have player's title display on levelup. (These are pulled from the Fallout manual, not created or modified by myself.)
+- [CUSTOMIZATION]  Can have player's title display on levelup. (These are pulled from the Fallout manual, not created or modified by myself.)
 
-- [Optional]  Can have player's level# display on levelup.
+- [CUSTOMIZATION]  Can have player's level# display on levelup.
 
 
 -----------------------
@@ -231,7 +239,7 @@ __________________________________________
 
 - Some traps now do more damage than they used to, or at least are able to do more damage some of the time.
 
-- Explosion traps now actually do the damage they were supposed to in the original game. (Instead of using the damage range specified in the code, it randomized damage between 1 and whatever number was rolled in the specified range. Apparently a huge oversight by the developers.)
+- [FIX]  Explosion traps now actually do the damage they were supposed to in the original game. (Instead of using the damage range specified in the code, it randomized damage between 1 and whatever number was rolled in the specified range. Apparently a huge oversight by the developers.)
 
 - However, damage from traps also now varies based on selected difficulty level. (For example, -5 damage on Easy, +5 damage on Hard)
 
@@ -249,50 +257,50 @@ __________________________________________
 
 - State of detect/disarm for each trap now persists across game sessions. (In vanilla it would reset if you loaded from a save or left the map)
 
-- [Restoration]  Gas traps in The Glow are now functional.
+- [RESTORATION]  Gas traps in The Glow are now functional.
 
 
 -----------------------
       HOLODISKS
 -----------------------
 
-- Generic holodisk "on ground" picture changed from 'Box' to 'Small Box', and weight changed from 4 pounds to 1 pound.  [RATIONALE:  These are the attributes for all other entry-specific and quest-specific holodisks.]
+- [CHANGE]  Generic holodisk "on ground" picture changed from 'Box' to 'Small Box', and weight changed from 4 pounds to 1 pound.  [RATIONALE:  These are the attributes for all other entry-specific and quest-specific holodisks.]
 
-- All specific and quest-related holodisks now use 'Generic Holodisk' item as their base.  [RATIONALE:  This fixes some issues and allows for greater flexibility in scripting.]
+- [CHANGE]  All specific and quest-related holodisks now use 'Generic Holodisk' item as their base.  [RATIONALE:  This fixes some issues and allows for greater flexibility in scripting.]
 
-- Holodisks upon using (downloading into Pip-Boy 2000) now give slightly different amounts of XP. Vanilla always gave 100.  [RATIONALE:  First, some holodisks are more important than others or contain more crucial data, but gave the same XP, which doesn't make sense to me. Second, it's to balance out the fact that since they all now use 'Generic Holodisk' item as base, their value is all 40 caps, whereas before they each had varying bottlecap values.]
+- [CHANGE]  Holodisks upon using (downloading into Pip-Boy 2000) now give slightly different amounts of XP. Vanilla always gave 100.  [RATIONALE:  First, some holodisks are more important than others or contain more crucial data, but gave the same XP, which doesn't make sense to me. Second, it's to balance out the fact that since they all now use 'Generic Holodisk' item as base, their value is all 40 caps, whereas before they each had varying bottlecap values.]
 
-- [ONGOING PROJECT]  Holodisks are generally now destroyed once no longer needed.  [RATIONALE:  This way you don't keep them forever "just in case". Also, from a functional standpoint it means you won't have to juggle so many disks in inventory, which is nice. The game has 13 unique physical holodisks so I think a reduction in how many are in your inventory over the longterm is a good thing.]
+- [FIX]  Holodisks are now destroyed once no longer needed.  [RATIONALE:  This way you don't keep them forever "just in case". Also, from a functional standpoint it means you won't have to juggle so many disks in inventory, which is nice. The game has 13 unique physical holodisks so I think a reduction in how many are in your inventory over the longterm is a good thing.]
 
-- [ONGOING PROJECT]  The "more than 13 holodisk entries" crash/corruption should be fixed now, in theory. This limit is a bug in the Fallout engine; thus this is fixed by a bit of a hack: the briefest holodisks have had their contents moved to a dialog window sequence (like you get when using Radio item), and the one-line Security Disk entry was removed from Pip-Boy 'DISKS & LOGS' list entirely.  [RATIONALE:  Crash fixes and savegame corruption fixes are more important than potential annoyance of changed display-&-access method.]
+- [FIX]  The "more than 13 holodisk entries" crash/corruption should be fixed now, thanks to the Sfall/ddraw plugin.
 
 
 -----------------------
         PERKS
 -----------------------
 
-- "Survivalist" now gives a permanent +20% to Outdoorsman skill for each rank of the Perk, as well as the +20% bonus to survival situations. This means you effectively get +40% in survival situations.  [RATIONALE:  Perk should now be more useful and more attractive/competitive as a choice. The vanilla usefulness of this Perk was painfully minimal - it only impacted dehydration and rockfalls, both of which were mere annoyances to begin with.]
+- [CHANGE]  "Survivalist" now gives a permanent +20% to Outdoorsman skill for each rank of the Perk, as well as the +20% bonus to survival situations. This means you effectively get +40% in survival situations.  [RATIONALE:  Perk should now be more useful and more attractive/competitive as a choice. The vanilla usefulness of this Perk was painfully minimal - it only impacted dehydration and rockfalls, both of which were mere annoyances to begin with.]
 
-- "Educated" now gives 5 skillpoints per level for each rank of the Perk, instead of 2 skillpoints.  [RATIONALE: Perk should now be more useful and more attractive/competitive as a choice.]
+- [CHANGE]  "Educated" now gives 5 skillpoints per level for each rank of the Perk, instead of 2 skillpoints.  [RATIONALE: Perk should now be more useful and more attractive/competitive as a choice.]
 
-- [Customizable]  Animal Friend: Can now choose whether or not it works on radscorpions. [Vanilla default: Yes, Fixt default: No.]
+- [CUSTOMIZATION]  Animal Friend: Can now choose whether or not it works on radscorpions. [Vanilla default: Yes, Fixt default: No.]
 
-- "Animal Friend" now works on all dogs, rats, mole rats, pig rats, and radscorpions (if enabled), that aren't part of a quest. (For example the Shady Sands Cave radscorpions are always hostile.)  [RATIONALE:  In vanilla it did not work on dogs, which makes no sense because dogs are animals. In vanilla it already worked on some rats and radscorpions, but not all of them.]
+- [FIX]  "Animal Friend" now works on all dogs, rats, mole rats, pig rats, and radscorpions (if enabled), that aren't part of a quest. (For example the Shady Sands Cave radscorpions are always hostile.)  [RATIONALE:  In vanilla it did not work on dogs, which makes no sense because dogs are animals. In vanilla it already worked on some rats and radscorpions, but not all of them.]
 
-- [Customizable]  "Animal Friend" can now cause the animals to join your party, meaning they'll fight for you until/unless you attack them directly.  [RATIONALE:  Perk should now be more useful and more attractive/competitive as a choice.]
+- [CUSTOMIZATION]  "Animal Friend" can now cause the animals to join your party, meaning they'll fight for you until/unless you attack them directly.  [RATIONALE:  Perk should now be more useful and more attractive/competitive as a choice.]
 
 
 -----------------------
         ITEMS
 -----------------------
 
-- Holding capacity of the backpack and duffel bag increased by 50% each.  [RATIONALE:  Realism. In vanilla they were very close to the holding capacity of the small bag. In actuality they'd hold quite a bit more than a small bag.]
+- [CHANGE]  Holding capacity of the backpack and duffel bag increased by 50% each.  [RATIONALE:  Realism. In vanilla they were very close to the holding capacity of the small bag. In actuality they'd hold quite a bit more than a small bag.]
 
-- NPCs no longer act like you're holding a weapon in their face if you're holding a Flare.
+- [FIX]  NPCs no longer act like you're holding a weapon in their face if you're holding a Flare.
 
-- Combat Armor and Brotherhood Armor no longer grant +20% Radiation Resistance.  [RATIONALE:  Why would they? They are combat polymer armors, not environmental suits.]
+- [FIX]  Combat Armor and Brotherhood Armor no longer grant +20% Radiation Resistance.  [RATIONALE:  Why would they? They are combat polymer armors, not environmental suits.]
 
-- Laser resistance reduced on some armors:  [RATIONALE:  Laser weapons are imbalanced in vanilla game due to most armors having disproportionate amounts of Laser resistance. This, for example, makes laser pistols much less effective than conventional pistols with similar damage potential. You can also shoot people in Power Amor with the Gatling Laser point blank and have almost no effect.]
+- [FIX]  Laser resistance reduced on some armors:  [RATIONALE:  Laser weapons are imbalanced in vanilla game due to most armors having disproportionate amounts of Laser resistance. This, for example, makes laser pistols much less effective than conventional pistols with similar damage potential. You can also shoot people in Power Amor with the Gatling Laser point blank and have almost no effect.]
 
     Robes:                 reduced from       +25%  to       +10%
     Leather Jacket:        reduced from       +20%  to       +10%
@@ -307,13 +315,13 @@ __________________________________________
 
 - Normal/Fire/Explosion resistances increased slightly on Tesla Armor so that all its stats are equal to or better than Metal Armor.
 
-- Alcohol Addiction restored. 5% chance from Beer, 10% chance from Booze.
+- [RESTORATION]  Alcohol Addiction restored. 5% chance from Beer, 10% chance from Booze.
 
-- If you set a timer on an explosive you're holding in an active hand slot, it automatically drops once the timer is set. (This is default functionality in Fallout 2)
+- [NEW FEATURE]  If you set a timer on an explosive you're holding in an active hand slot, it automatically drops once the timer is set. (This is default functionality in Fallout 2)
 
-- Brotherhood Armor price/value increased from 4800 to 7800, to fit into armor price hierarchy.  [RATIONALE:  Combat Armor is value 6500 and Brotherhood Armor is better than Combat Armor.]
+- [FIX]  Brotherhood Armor price/value increased from 4800 to 7800, to fit into armor price hierarchy.  [RATIONALE:  Combat Armor is value 6500 and Brotherhood Armor is better than Combat Armor.]
 
-- AP ammo stacks now have the same price as their non-AP counterparts. Why pay more if it's not better?  [RATIONALE:  AP ammo in Fallout 1 is not better than its counterpart, because the game ignores all modifiers on ammo. It is either the same as JHP or worse than JHP, depending on who you ask.]
+- [FIX]  AP ammo stacks now have the same price as their non-AP counterparts. Why pay more if it's not better?  [RATIONALE:  AP ammo in Fallout 1 is not better than its counterpart, because the game ignores all modifiers on ammo. It is either the same as JHP or worse than JHP, depending on who you ask.]
 
 - Changed stats for consumable items as listed below:  [RATIONALE:  These items previously did not have a "purpose". The changes are to make them actually useful to players, making the game world more realistic and interesting. I welcome feedback if you think the new stats need to be changed.]
 
@@ -324,18 +332,20 @@ __________________________________________
     Beer:  -1 Perception, +1 Charisma (lasts for 1 hour)
     Booze:  -1 Intelligence, -2 Perception (raised to -1 after 30 minutes), +5 Damage Resistance (reduced to +3 after 30 minutes), lasts for 1 hour
 
-- [Optional]  Reduced ammo stack size. This is pretty buggy, because items already on the maps or in weapons will be the old stack size, causing weird display issues. But, I think for those who want a challenge, the gltichiness is worth it. Most stacks are about 1/4 to 1/5 their normal # of rounds. (For example, 5 bullets per "item" instead of 24 bullets.)
+- [INSTALLER OPTION]  Can choose to reduce ammo stack size. This is pretty buggy, because items already on the maps or in weapons will be the old stack size, causing weird display issues. But, I think for those who want a challenge, the gltichiness is worth it. Most stacks are about 1/4 to 1/5 their normal # of rounds. (For example, 5 bullets per "item" instead of 24 bullets.)
 
 
 -----------------------
         SOUND
 -----------------------
 
-- Normalized sound file volumes. Examples are: dynamite/C4 is louder, various death sfx are no longer way louder or way quiter than others, lowered volume of the "ca-chunk" when moving around your inventory.
+- [FIX]  Normalized sound file volumes. Examples are: dynamite/C4 is louder, various death sfx are no longer way louder or way quiter than others, lowered volume of the "ca-chunk" when moving around your inventory.
 
-- Firing sound effect for 14mm Pistol and .223 Pistol (the "large pistol" sound) now uses Mutated Mark's pistol mod sound effect.  [RATIONALE:  Original sound effect was crazy loud, and clipped.]
+- [FIX]  Firing sound effect for 14mm Pistol and .223 Pistol (the "large pistol" sound) now uses Mutated Mark's pistol mod sound effect.  [RATIONALE:  Original sound effect included a lot of static because it was clipping.]
 
-- Restored some unused death sound effects. Most of these correlate to the restored death animations. (To test, set Violence Level to Normal and kill some people with the Flamethrower)
+- [RESTORATION]  Restored some unused death sound effects. Most of these correlate to the restored death animations. (To test, set Violence Level to Normal and kill some people with the Flamethrower)
+
+- [NEW FEATURE]  Sound effect now plays when getting hit by red forcefields in Military Base.
 
 
 -----------------------
@@ -344,33 +354,33 @@ __________________________________________
 
 - Fixed various mistakes in the map variable declaration files and added 5 placeholder map variables to each as a buffer for future usage. Also created a map variable file with 5 variables for those that had none previously.
 
-- Scripts that deal damage now ignore player's armor when applicable. (Manhole covers, slicing hands on computer case, falling off ladders.)  [NOTE: some of these scripts aren't actually used in-game]
+- [FIX]  Scripts that deal damage now ignore player's armor when applicable. (Manhole covers, slicing hands on computer case, falling off ladders.)  [NOTE: some of these scripts aren't actually used in-game]
 
-- Scripts and traps that deal damage now always deal the correct damage type (Explosive, Electrical, Plasma, etc.)  [NOTE: some of these scripts aren't actually used in-game]
+- [FIX]  Scripts and traps that deal damage now always deal the correct damage type (Explosive, Electrical, Plasma, etc.)  [NOTE: some of these scripts aren't actually used in-game]
 
-- Scripts that deal damage now deal the correct damage amount if a standard exists for the damage amount. (For example, the damage stats from explosives are now used in scripts that involve those items.)  [NOTE: some of these scripts aren't actually used in-game]
+- [FIX]  Scripts that deal damage now deal the correct damage amount if a standard exists for the damage amount. (For example, the damage stats from explosives are now used in scripts that involve those items.)  [NOTE: some of these scripts aren't actually used in-game]
 
-- Metal doors that auto-close now do so after 15 seconds. (Vanilla was 3 seconds)  [RATIONALE: Having to rush through before doors close is annoying as hell. Also, this now means they'll stay open for 2 rounds during combat, closing on the beginning of the 3rd round after opening.]
+- [CHANGE]  Metal doors that auto-close now do so after 15 seconds. (Vanilla was 3 seconds)  [RATIONALE: Having to rush through before doors close is annoying as hell. Also, this now means they'll stay open for 2 rounds during combat, closing on the beginning of the 3rd round after opening.]
 
 - Metal doors can now destroyed by explosives as follows: 1 blast if you make a Traps check, otherwise 2 blasts. (Vanilla was 3 blasts and didn't make any Traps checks)  [RATIONALE: 3 might be more realistic, maybe, but there's a limited number of explosives in the game... I don't think any player is ever going to use 3 explosives just to bust down a door. Especially considering that in vanilla game it's not documented anywhere that they're even destroyed after three blasts. You don't get a message after the blasts or anything.]
 
 - Includes a modified ereg settings file, which should help some of you who get the "Error initializing input devices" crash.  [This error message can be further reduced or eliminated with f1_res settings, open f1_res.ini and look into ALT_MOUSE_INPUT settings.]
 
-- Fallout.cfg has "free_space" entry set to 0, to avoid "Not enough disk space" crashes.
+- [FIX]  Fallout.cfg has "free_space" entry set to 0, to avoid "Not enough disk space" crashes.
 
-- Using a ladder/stairs/manhole/rope now works properly even when in your idle animation. It also no longer plays sound effects erroneously in those situations.
+- [FIX]  Using a ladder/stairs/manhole/rope now works properly even when in your idle animation. It also no longer plays sound effects erroneously in those situations.
 
-- Can no longer steal back the caps after paying through dialog for quest items.  [RATIONALE:  This is to fix the obvious exploit that you pay someone for something you really need, only to steal back the caps. There are plenty of opportunities in Fallout to get rich or hoard items by stealing without abusing this exploit.]
+- [FIX]  Can no longer steal back the caps after paying through dialog for quest items.  [RATIONALE:  This is to fix the obvious exploit that you pay someone for something you really need, only to steal back the caps. There are plenty of opportunities in Fallout to get rich or hoard items by stealing without abusing this exploit.]
 
-- Fixed staircases, one or two of the scenery items always had no script linked to them, so clicking that part of a given staircase did nothing.
+- [FIX]  Fixed staircases, one or two of the scenery items always had no script linked to them, so clicking that part of a given staircase did nothing.
 
 - Two tools that can be run to fix display issues are included in the "{Fallout Fixt}\Scrambled Colors Fixes" folder. That being said, in theory you shouldn't have any display issues with the newest release of f1_res.
 
-- [Not applicable to "Fixes Only"]  Restored an easter egg script from the Fallout playable demo. (Hint: it's in Necropolis.)  [RATIONALE:  The vast majority of players will never know that this even exists, and for the ones that do find it, it's quite humorous.]
+- [RESTORATION]  Restored an easter egg script from the Fallout playable demo. (Hint: it's in Necropolis.)  [RATIONALE:  The vast majority of players will never know that this even exists, and for the ones that do find it, it's quite humorous.]
 
-- Floating Eye robots now use their proper names. Now the stronger one is properly labeled as "Floating Eye Mark II".
+- [FIX]  Floating Eye robots now use their proper names. Now the stronger one is properly labeled as "Floating Eye Mark II".
 
-- Generic dogs no longer interfere with Dogmeat global variable and Dogmeat quest status.
+- [FIX]  Generic dogs no longer interfere with Dogmeat global variable and Dogmeat quest status.
 
 
 -----------------------
@@ -383,11 +393,11 @@ __________________________________________
 
 - Mole Rats now sometimes do Called Shots in combat. (Previously they never did)
 
-- Mole Rats now actually use the Mole Rat A.I. type.
+- [FIX]  Mole Rats now actually use the Mole Rat A.I. type.
 
 - Pig Rats now have their own A.I. type, instead of just using same A.I. as normal Rats.
 
-- Greater Mole Rat's melee damage bonus increased from 1 to 6.  [RATIONALE: Lesser Mole Rat has melee damage bonus of 3. Greater Mole Rat had 5 in the unarmed damage bonus field, which isn't used by the game. So I moved this 5 to the melee damage bonus field. I think it's reasonable to assume that they wanted Lesser to be +3 and Greater to be +6.]
+- [FIX]  Greater Mole Rat's melee damage bonus increased from 1 to 6.  [RATIONALE: Lesser Mole Rat has melee damage bonus of 3. Greater Mole Rat had 5 in the unarmed damage bonus field, which isn't used by the game. So I moved this 5 to the melee damage bonus field. I think it's reasonable to assume that they wanted Lesser to be +3 and Greater to be +6.]
 
 - Removed code that caused rats to run away from the player instead of attacking, if player was able to end combat. (Either through use of Sneak or getting far enough away from the rats)  [RATIONALE:  This was intended to apply if they were "scared of the player", but that's unnecessary as run_away checks already exist in the game's A.I., and the run away script caused unintended effects.]
 
@@ -398,7 +408,7 @@ __________________________________________
    RAD! (SCORPIONS)
 -----------------------
 
-- Nasty Radscorpion (the upgraded version of radscorpion used in some random encounters) is now actually referred to by the game as Nasty Radscorpion.  (Meaning you can now tell them apart without requiring the Awareness Perk to see their HP)
+- [FIX]  Nasty Radscorpion (the upgraded version of radscorpion used in some random encounters) is now actually referred to by the game as Nasty Radscorpion.  (Meaning you can now tell them apart without requiring the Awareness Perk to see their HP)
 
 - Improved the code that radscorpions use for detecting and attacking player prior to beginning of combat.
 
@@ -415,81 +425,81 @@ __________________________________________
       MOO, I SAY!
 -----------------------
 
-- Added some combat floats for brahmin with a 5% chance to display. (They just say "[grunt]")
+- [NEW FEATURE]  Added some combat floats for brahmin with a 5% chance to display. (They just say "[grunt]")
 
-- Brahmin only talk on the special encounter.
+- [FIX]  Brahmin only talk on the special encounter.
 
-- Brahmin killed make the correct town hostile to the player -- it used to be that if you killed a "domesticated" brahma anywhere in the game, Junktown would be hostile. [Now if you kill one in The Hub, The Hub goes hostile, if you kill one in Shady Sands, Shady Sands goes hostile, etc.]
+- [FIX]  Brahmin killed make the correct town hostile to the player -- it used to be that if you killed a "domesticated" brahma anywhere in the game, Junktown would be hostile. [Now if you kill one in The Hub, The Hub goes hostile, if you kill one in Shady Sands, Shady Sands goes hostile, etc.]
 
-- Brahmin don't walk around quite as much.  [RATIONALE:  This is for "realism", although honestly you probably won't even notice a difference. Cows (and thus by extension, brahmin) tend to mostly just stand around.]
+- [CHANGE]  Brahmin don't walk around quite as much.  [RATIONALE:  This is for "realism", although honestly you probably won't even notice a difference. Cows (and thus by extension, brahmin) tend to mostly just stand around.]
 
-- Drunk brahmin now get a crippled leg when falling over. Bummer.
+- [NEW FEATURE]  Drunk brahmin now get a crippled leg when falling over. Bummer.
 
 
 -----------------------
  SCUMBAG CHILD-KILLERS
 -----------------------
 
-- All children in the game should now always increase Children Killed counter by 1, apply to Child-Killer karma title, and reputation as applicable. (This was most likely fixed already by TeamX patches, but I've added some additional code to make 100% sure it's fixed)
+- [FIX]  All children in the game should now always increase Children Killed counter by 1, apply to Child-Killer karma title, and reputation as applicable. (This was most likely fixed already by TeamX patches, but I've added some additional code to make 100% sure it's fixed)
 
-- All NPCs in the game now treat your character as a Child-Killer based on the same number of kills. (In vanilla, some NPCs would react if the player had killed 1 child, but then treat you normally if you killed any more children. This is because some scripts checked "if Children_Killed = 1" instead of "if Children_Killed > 2" like the rest of the game. These NPCs may have been intended to check "if Children_Killed >= 1", meaning they were more sensitive to the issue or whatever, but I've instead made them have the same check as all other NPCs.) Affects 3 NPCs of the Children in Hub Water Merchants map: Flower Child, Guard, Thorndyke.  [RATIONALE: Consistency; it's likely an oversight due to the fact that different people scripted different areas.]
+- [FIX]  All NPCs in the game now treat your character as a Child-Killer based on the same number of kills. (In vanilla, some NPCs would react if the player had killed 1 child, but then treat you normally if you killed any more children. This is because some scripts checked "if Children_Killed = 1" instead of "if Children_Killed > 2" like the rest of the game. These NPCs may have been intended to check "if Children_Killed >= 1", meaning they were more sensitive to the issue or whatever, but I've instead made them have the same check as all other NPCs.) Affects 3 NPCs of the Children in Hub Water Merchants map: Flower Child, Guard, Thorndyke.  [RATIONALE: Consistency; it's likely an oversight due to the fact that different people scripted different areas.]
 
-- [Customizable]  Number of kills to become Child-Killer as treated by the game can now be chosen: after at least 1, 2, or 3 children killed - vanilla default is 3, my default is 2. (Apparently the wasteland is very understanding and forgiving of "accidental" murders of their youth, i.e. how many freebies you get)
+- [CUSTOMIZATION]  Number of kills to become Child-Killer as treated by the game can now be chosen: after at least 1, 2, or 3 children killed - vanilla default is 3, my default is 2. (Apparently the wasteland is very understanding and forgiving of "accidental" murders of their youth, i.e. how many freebies you get)
 
-- [Optional]  Hirable NPCs killing children now can count towards your Child-Killer reputation.
+- [CUSTOMIZATION]  Hirable NPCs killing children now can count towards your Child-Killer reputation.
 
-- [Optional]  Child-Killer karma image restoration from Fallout 2. Recommended. (Vault Boy kicking a pregnant woman's stomach, with the words "BABY" on her shirt.)
+- [INSTALLER OPTION]  Child-Killer karma image restoration from Fallout 2. Recommended. (Vault Boy kicking a pregnant woman's stomach, with the words "BABY" on her shirt.)
 
 
 -----------------------
      PARTY MEMBERS
 -----------------------
 
-- Game no longer crashes when killing a party member who is wearing Power Armor.
+- [FIX]  Game no longer crashes when killing a party member who is wearing Power Armor.
 
-- Party members should no longer spawn in walls and elevators when moving between maps. To accomplish this, they will spawn a little closer to the player. (Yay, group hug)
+- [FIX]  Party members should no longer spawn in walls and elevators when moving between maps. To accomplish this, they will spawn a little closer to the player. (Yay, group hug)
 
-- Improved the "add party" and "update party" functions for all maps. Now they check and set the global variables more accurately, and always check the correct conditions.
+- [FIX]  Improved the "add party" and "update party" functions for all maps. Now they check and set the global variables more accurately, and always check the correct conditions.
 
-- Tandi now has an actual dialog when she's in your party, instead of just float messages.
+- [NEW FEATURE]  Tandi now has an actual dialog when she's in your party, instead of just float messages.
 
-- Can now ask hirable NPCs to leave & reenter party when Stupid (Intelligence less than 4).
+- [NEW FEATURE]  Can now ask hirable NPCs to leave & reenter party when Stupid (Intelligence less than 4).
 
-- Dogmeat now interacts properly with Stupid characters. (Intelligence less than 4)
+- [FIX]  Dogmeat now interacts properly with Stupid characters. (Intelligence less than 4)
 
-- Hirable NPCs now have a "Step Aside" dialog option, similar to Push functionality in Fallout 2. This must be accesssed through dialog. (Note: NPC is teleported to a random hex 2 hexes away from their current one. It's unrealistic, but having them walk/run to a random hex always had a chance of them not moving at all, due to how Fallout 1 determines destination and animation.)
+- [NEW FEATURE]  Hirable NPCs now have a "Step Aside" dialog option, similar to Push functionality in Fallout 2. This must be accesssed through dialog. (Note: NPC is teleported to a random hex 2 hexes away from their current one. It's unrealistic, but having them walk/run to a random hex always had a chance of them not moving at all, due to how Fallout 1 determines destination and animation.)
 
-- Hirable NPC follow code improved. They should now follow the player better and not lag behind so easily.
+- [CHANGE]  Hirable NPC follow code improved. They should now follow the player better and not lag behind so easily.
 
-- Extra follow option in NPC orders, that makes them always run. Also in this setting their "leash" distance is a little tigther. This combined means they should keep up with the player better. (By default they walk until you pass their "distance setting threshhold")
+- [NEW FEATURE]  Extra follow option in NPC orders, that makes them always run. Also in this setting their "leash" distance is a little tigther. This combined means they should keep up with the player better. (By default they walk until you pass their "distance setting threshhold")
 
 - Some dialog options increased the hireable NPCs' opinion of the player for no explicable reason- like when saying "OK Goodbye" or something similarly mundane. I've change these to be a neutral reaction.
 
 - Drugs, stimpaks and superstims can be used on your Hirable NPCs. [EXPERIMENTAL, REPORT ISSUES IF ENCOUNTERED]
 
-- Ian/Katja/Tycho no longer use Flares or Grenades in combat.  [RATIONALE:  They tended to prefer Flares over all other weapons, and tended to kill the player with Grenades.]
+- [FIX]  Ian/Katja/Tycho no longer use Flares or Grenades in combat.  [RATIONALE:  They tended to prefer Flares over all other weapons, and tended to kill the player or themselves with Grenades.]
 
-- When hovering mouse over a current party member, you will now see a message of what armor they're wearing.
+- [NEW FEATURE]  When hovering mouse over a current party member, you will now see a message of what armor they're wearing.
 
-- Improved condition-checking of name display and examine description of all NPCs that can join your party. Display should now be more logical and intuitive, based on if you've spoken to them yet, if they're currently in your party, and if you've told them to wait.
+- [FIX]  Improved condition-checking of name display and examine description of all NPCs that can join your party. Display should now be more logical and intuitive, based on if you've spoken to them yet, if they're currently in your party, and if you've told them to wait.
 
-- When your Hirable NPCs gain a level, a message now displays their new level number. (They can each level up twice total, occuring after 4 and then 8 character levels after joining your party)
+- [NEW FEATURE]  When your Hirable NPCs gain a level, a message now displays their new level number. (They can each level up twice total, occuring after 4 and then 8 character levels after joining your party)
 
-- Leveled-up versions of Ian/Katja/Tycho now use values in the Bonus HP field instead of the Base HP field, fixing their HP display issues from the TeamX NPC Mod.
+- [FIX]  Leveled-up versions of Ian/Katja/Tycho now use values in the Bonus HP field instead of the Base HP field, fixing their HP display issues from the TeamX NPC Mod.
 
-- Party members are now checked properly in situations where something needs to happen to them, for example Halls Of Revulsion or Garl-HtH-Fight. The vanilla code was never updated, meaning it checked their base entry, but none of the other 27 entries, so if they were levelled up or wearing different-than-default armors, the scripting wouldn't trigger properly.
+- [FIX]  Party members are now checked properly in situations where something needs to happen to them, for example Halls Of Revulsion or Garl-HtH-Fight. The vanilla code was never updated, meaning it checked their base entry, but none of the other 27 entries, so if they were levelled up or wearing different-than-default armors, the scripting wouldn't trigger properly.
 
-- [Customizable]  IAN/KATJA/TYCHO: Can choose default vanilla weapons available for use or all weapons available for use. (Although they still won't use Flares and Grenades)
+- [INSTALLER OPTION]  IAN/KATJA/TYCHO: Can choose default vanilla weapons available for use or all weapons available for use. (Although they still won't use Flares and Grenades)
 
-- [Customizable]  IAN/KATJA/TYCHO: Can set running animation to be faster, meaning they should in theory keep up with the player much easier.
+- [INSTALLER OPTION]  IAN/KATJA/TYCHO: Can set running animation to be faster, meaning they should in theory keep up with the player much easier.
 
-- [Optional]  IAN/KATJA/TYCHO: Can choose whether or not their appearance changes when wearing different armor.
+- [INSTALLER OPTION]  IAN/KATJA/TYCHO: Can choose whether or not their appearance changes when wearing different armor.
 
-- [Optional]  IAN: Can choose blue pants or black pants appearance, and can change idle animations to cigarette smoking.
+- [INSTALLER OPTION]  IAN: Can choose blue pants or black pants appearance, and can change idle animations to cigarette smoking.
 
-- [Optional]  TYCHO: Can choose brown pants or green pants appearance.
+- [INSTALLER OPTION]  TYCHO: Can choose brown pants or green pants appearance.
 
-- [Optional]  DOGMEAT: Can give him the "Red Dog" appearance, meaning he now looks different than all other dogs in the game.
+- [INSTALLER OPTION]  DOGMEAT: Can give him the "Red Dog" appearance, meaning he now looks different than all other dogs in the game.
 
 
 -----------------------
@@ -497,67 +507,69 @@ __________________________________________
 -----------------------
 
 
-- Unused critical fail (critical miss) results are now restored. Beware!
+- [NEW FEATURE]  Unused critical fail (critical miss) results are now restored. Beware!
 
-- Chance per hit of receiving 1 rad from Irradiated Rats and Glowing Ghouls increased from 1/6 to 1/4.
+- [CHANGE]  Chance per hit of receiving 1 rad from Irradiated Rats and Glowing Ghouls increased from 1/6 to 1/4.
 
-- "Maximum distance" setting increased to about 50 hexes for hirable NPCs and the Mysterious Stranger, meaning they should now always hunt down and kill your enemies and not just stand around.  [RATIONALE: This did indeed happen in various situations, that the party members would stand around in combat instead of engaging the enemy. For example if the enemy ran off the screen and thus couldn't be killed by the Vault Dweller, or was lagging behind when combat began, or was stuck by scenery too far away during combat.]
+- [FIX]  "Maximum distance" setting increased to about 50 hexes for hirable NPCs and the Mysterious Stranger, meaning they should now always hunt down and kill your enemies and not just stand around.  [RATIONALE: This did indeed happen in various situations, that the party members would stand around in combat instead of engaging the enemy. For example if the enemy ran off the screen and thus couldn't be killed by the Vault Dweller, or was lagging behind when combat began, or was stuck by scenery too far away during combat.]
 
-- "Maximum distance" setting for The Master set to 99 hexes, meaning you can't just run down the hall and kill him from long range for free. He will still be shooting at you.  [RATIONALE: Exploit fix. You didn't think it was going to be that easy, did you? Too bad. Plus you can still hide behing the pillars like a pathetic weakling - oops I mean a defense-conscious intelligent combatant - if you want.]
+- [FIX]  "Maximum distance" setting for The Master set to 99 hexes, meaning you can't just run down the hall and kill him from long range for free. He will still be shooting at you.  [RATIONALE: Exploit fix. You didn't think it was going to be that easy, did you? Too bad. Plus you can still hide behing the pillars like a pathetic weakling - oops I mean a defense-conscious intelligent combatant - if you want.]
 
 - Chance to display combat floats increased for The Master.
 
 - Chance to do a Called Shot increased slightly for various critters and NPCs.
 
-- Mr Handy will now properly use his weapons (Minigun) against you, instead of only melee.  [His A.I. has min_to_hit changed to 0 and aggression changed to 100, and Small Guns skill increased.]
+- [FIX]  Mr Handy will now properly use his weapons (Minigun) against you, instead of only melee.  [His A.I. has min_to_hit changed to 0 and aggression changed to 100, and Small Guns skill increased.]
 
-- Fixed the A.I. type for Invasion Mutants.
+- [FIX]  Fixed the A.I. type for Invasion Mutants.
 
-- Fixed default A.I. types linked to critters and NPCs; at least a third in the game were wrong.
+- [FIX]  Fixed default A.I. types linked to critters and NPCs; at least a third in the game were wrong.
 
-- [Optional]  Hardcore A.I.; Enemies don't flee from combat and will mob you.  (from a technical standpoint, this means that min_to_hit and min_hp are set to zero for all A.I. types, as well as removing all entries from hurt_too_much, and setting all types' Aggression to 100/100)
+- [INSTALLER OPTION]  Hardcore A.I.; Enemies don't flee from combat and will mob you.  (from a technical standpoint, this means that min_to_hit and min_hp are set to zero for all A.I. types, as well as removing all entries from hurt_too_much, and setting all types' Aggression to 100/100)
 
-- [Customizable]  Receive more rads from Irradiated Rats and Glowing Ones, and can also receive rads from Floaters, Centaurs, and normal Ghouls. The amount received depends on selected combat difficulty.
+- [CUSTOMIZATION]  Receive more rads from Irradiated Rats and Glowing Ones, and can also receive rads from Floaters, Centaurs, and normal Ghouls. The amount received depends on selected combat difficulty.
 
 
 -----------------------
   GENERAL, CHARACTERS
 -----------------------
 
-- All NPCs who have unworn armor in their inventory the first time (and only first time) a map is visited will now equip it. (In vanilla, some NPCs would start with armor in one of their hand slots)  [NOTE: This does not check for Brotherhood Armor, Tesla Armor, Power Armor, or Hardened Power Armor, as I'm not aware of any NPCs starting with those unworn, so this saves CPU cycles.]
+- [FIX]  All NPCs who have unworn armor in their inventory the first time (and only first time) a map is visited will now equip it. (In vanilla, some NPCs would start with armor in one of their hand slots)  [NOTE: This does not check for Brotherhood Armor, Tesla Armor, Power Armor, or Hardened Power Armor, as I'm not aware of any NPCs starting with those unworn, so this saves CPU cycles.]
 
-- Doc Morbid is no longer considered a "Good Guy" for purposes of Champion and Berserker reputations.
+- [FIX]  Doc Morbid is no longer considered a "Good Guy" for purposes of Champion and Berserker reputations.
 
-- Due to a strange bug in how the game reads the critter's stat files, some critters would start with partial HP on map load. Examples are Lars, Justin Greene, and the Hub cops. I've fixed this so they are set to full HP one time only on first visit to the map.  [479 scripts changed]
+- [FIX]  Due to a strange bug in how the game reads the critter's stat files, some critters would start with partial HP on map load. Examples are Lars, Justin Greene, and the Hub cops. I've fixed this so they are set to full HP one time only on first visit to the map.  [479 scripts changed]
 
-- Some critters and characters had nothing happen with clicking Talk on them. This is fixed.
+- [FIX]  Some critters and characters had nothing happen with clicking Talk on them. This is fixed.
 
 - Added some new talking head backgrounds (desert, cave) and brought in a few from Fallout 2, in prepartion for a fully-functioning Tandi NPC.
 
-- Medics/Doctors now properly heal Radiation and Poison (when & where applicable).
+- [FIX]  Medics/Doctors now properly heal Radiation and Poison (when & where applicable).
 
-- About five female critters that were Male gender and/or Male kill type, are now properly Female.
+- [FIX]  About five female critters that were Male gender and/or Male kill type, are now properly Female.
 
-- Invasion Mutants (the ones that show up when towns are invaded) are given a random weapon, ammo, stimpaks and a radio.
+- [CHANGE]  Invasion Mutants (the ones that show up when towns are invaded) are given a random weapon, ammo, stimpaks and a radio.
 
-- Corrected wrong internal critter ID number for critters 269, 270, 271. [offset 0x2]
+- [FIX]  Corrected wrong internal critter ID number for critters 269, 270, 271. [offset 0x2]
 
-- Improved code for detecting and curing poison, for all healers.
+- [FIX]  Improved code for detecting and curing poison, for all healers.
 
 
 -----------------------
        VAULT 13
 -----------------------
 
-- Descriptions for Entry Computer and Vault 13 Outer Door consolidated. (In vanilla, examine on either would display 2 messages)
+- [CHANGE]  Descriptions for Entry Computer and Vault 13 Outer Door consolidated. (In vanilla, examine on either would display 2 messages)
 
-- If explosives are detonated on the entry computer, the door will either be permanently stuck open or permanently shut, depending on if you pass a Traps skill check.  [RATIONALE: Not much more than a curiousity right now, but will become important later on when optional content of continuing game as a Super Mutant is implemented.]
+- [NEW FEATURE]  If explosives are detonated on the entry computer, the door will be permanently stuck in its current state -- open or closed.
 
-- [OPTIONAL] Player can choose to continue playing game after invasion of this location, if invasions are enabled. This does not effect dialog-triggered invasion, only the timer-triggered invasion.
+- [CUSTOMIZATION]  Player can choose to be able to continue playing game after invasion of this location, if invasions are enabled.
 
-- Inhabitants killed and bodies generated when invasion triggered.
+- [CUSTOMIZATION]  Player can choose to be able to continue playing game after Vault 13 runs out of water.
 
-- Message about the cave's darkness seeming unnatural to you, is restored for display at beginning of game.  [RATIONALE: Player already gets a message about natural light when leaving the cave; restoring the complementary message about natural darkness seems appropriate, as well as accurate given the player's upbringing.]
+- [NEW FEATURE]  Inhabitants killed and bodies generated when invasion triggered and/or running out of water.
+
+- [RESTORATION]  Message about the cave's darkness seeming unnatural to you, is restored for display at beginning of game.  [RATIONALE: Player already gets a message about natural light when leaving the cave; restoring the complementary message about natural darkness seems appropriate, as well as accurate given the player's upbringing.]
 
 - Rebels can no longer get stuck on their way to the meeting.
 
@@ -569,7 +581,7 @@ __________________________________________
 
 - "Calm the rebel faction" quest is now added to Pip-Boy 2000 quest list once player has learned about the rebel faction's discontent.
 
-- If you kill the rebel leader to complete the "Calm the rebel faction" quest, this now earns you 250 experience and -5 Karma, but only if already received the quest and not already otherwise completed it. (Previously it gave no XP and no Karma change)
+- If you kill the rebel leader to complete the "Calm the rebel faction" quest, this now earns you 250 experience and -5 Karma, but only if already received the quest and not already otherwise completed it. (Previously it gave no XP and no Karma change.)
 
 - Medic is now standing on the North wall, between the beds. In the same room as before.  [RATIONALE: Previously he was standing next to the door and hard to see. This way he commands a clear presence in the room and is easily seen by the player.]
 
@@ -750,9 +762,9 @@ __________________________________________
 
 - Improved Kalnor dialog tree a bit. (no longer gives "Go on" as only option in certain circumstances)
 
-- [Restoration]  Unused dialog and interaction between Lenore and Phil can now occur. [Coded by Continuum]
+- [RESTORATION]  Unused dialog and interaction between Lenore and Phil can now occur. [Coded by Continuum]
 
-- [Restoration]  Can now solve the Phil/Lenore quest by killing the dog.
+- [RESTORATION]  Can now solve the Phil/Lenore quest by killing the dog.
 
 
 -----------------------
@@ -793,15 +805,15 @@ __________________________________________
 
 - Butch now plays the correct dialog if you've already been to the Military Base or tell him about The Master.
 
-- [Restoration]  Police officers now display "Thanks for killing the Deathclaw" message when appropriate.
+- [RESTORATION]  Police officers now display "Thanks for killing the Deathclaw" message when appropriate.
 
-- [Restoration]  Generic Caravaners' dialogs at the Hub entrance now works as intended. (Varies between each of the four "groups" and uses a different color for each group.)
+- [RESTORATION]  Generic Caravaners' dialogs at the Hub entrance now works as intended. (Varies between each of the four "groups" and uses a different color for each group.)
 
-- [Restoration/Optional]  Can choose whether Bob can be turned into the cops, and if he goes to jail when turned in.
+- [RESTORATION/CUSTOMIZATION]  Can choose whether Bob can be turned into the cops, and if he goes to jail when turned in.
 
-- [Optional]  More prostitutes at The Falcon, that can "interact" with player.
+- [CUSTOMIZATION]  More prostitutes at The Falcon, that can "interact" with player.
 
-- [Optional]  STAPLETON: Can choose minimum and maximum number of books restocked, how many weeks between restock, and if restock amount varies based on selected difficulty level.
+- [CUSTOMIZATION]  STAPLETON: Can choose minimum and maximum number of books restocked, how many weeks between restock, and if restock amount varies based on selected difficulty level.
 
 
 -----------------------
@@ -821,8 +833,6 @@ __________________________________________
 - If either of the brahmin dies, it affects how much you get paid. It is possible to get paid nothing this way - if both brahmin die, it's assumed no carts can be carried, thus you get nothing because no goods were delivered.
 
 - If you leave the map while combat is still going, or while hostiles still exist on the mpa, you won't get paid.
-
-- It's no longer possible to get a blank map before or after a Necropolis encounter on the Crimson Caravan.
 
 
 -----------------------
@@ -887,9 +897,9 @@ __________________________________________
 
 - If you already have the quest item, you can now give it to Cabbot right away instead of having to run dialog a second time.
 
-- [Restoration]  Grenades quest is now functional, accessible and can be completed.  [Coded by Ash]
+- [RESTORATION]  Grenades quest is now functional, accessible and can be completed.  [Coded by Ash]
 
-- [Customizable]  Can choose number of operations available at Brotherhood's Doctor, as well as whether Charisma can be increased there.
+- [CUSTOMIZATION]  Can choose number of operations available at Brotherhood's Doctor, as well as whether Charisma can be increased there.
 
 
 -----------------------
@@ -913,17 +923,15 @@ __________________________________________
 
 - The countdown timer for Military Base bomb now displays updates at exactly 5-second intervals. These updates display during combat as well, and are re-initiated if anything interrupts them.
 
-- Lieutenant now has a keycard to activate Vats Control Computer. (The original ways to get the keycard have not been changed)  [RATIONALE:  Why would he not have one of these cards?]
-
 - [Not applicable to "Fixes Only"]  Red force field emitters can now be destroyed with explosives, permanently deactivating that field.  [RATIONALE:  Their description says they are already damaged; why wouldn't a damaged field be able to be destroyed? Plus, extra uses of explosives is always a good thing.]
 
-- Can now get Mr Handy to join your team. At the current time, he only follows you on that level. You must repair him first, meaning three sequential skill checks: Repair, Science, and Repair again (or use a Radio on him).
+- [Not applicable to "Fixes Only"]  Can now get Mr Handy to join your team. At the current time, he only follows you on that level. You must repair him first, meaning three sequential skill checks: Repair, Science, and Repair again (or use a Radio on him).
 
 - Mr Handy also has expanded dialog and new dialog options, and various fixes.
 
 - Scripts on levels 3 and 4 no longer try to reference map variables that only existed on levels 1 and 2.
 
-- [Restoration]  Unused vanilla loudspeaker message now displays when and where it's supposed to.
+- [RESTORATION]  Unused vanilla loudspeaker message now displays when and where it's supposed to.
 
 
 -----------------------
@@ -949,31 +957,30 @@ __________________________________________
     GETTING DIPPED
 -----------------------
 
+- [NEW FEATURE]  Player can continue game as a Super Mutant, if dipped in Vats. (Currently this is just a Work-In-Progress testing implementation. Dialog will not change much when you talk with anybody so it's more of a proof-of-concept at this point. You will be treated as if you're wearing robes, meaning Super Mutants and Children should act neutrally toward you.)
+
 - Player is now always shown in their Vaultsuit during the sequence prior to cutscene, when standing next to the Vats Control Computer.
 
 - Location and facing of Lieutenant and player during the sequence prior to cutscene changed slightly, to be more "realistic".
 
 - A screenfade occurs when moving to Vats Control Computer. (Previously it was just an instant teleport)
 
-- Lieutenant now animates the "magic hands" animation, giving a better sense that he has personally initiated the dip. (And also enough time for player to realize what happened; previously the teleport to this room happened so fast before showing the cutscene, that you couldn't really take it all in before the screenfade.)
-
 
 -----------------------
        ENDINGS
 -----------------------
 
-- Can now get the good ending for The Followers Of The Apocalypse.  Requirements: Nicole is alive, Spy quest finished, at least 12 Followers members alive (not including Katja & Nicole).
+- [FIX]  Ending slideshow messages regarding The Master and The Vats (Military Base) are now in correct order, depending on which you destroyed first.
 
-- Can now get the good ending for The Hub.  Requirements: Harold is alive, Decker is dead.
+- [RESTORATION]  Can now get the good ending for The Followers Of The Apocalypse.  Requirements: Nicole is alive, Spy quest finished, at least 12 Followers members alive (not including Katja & Nicole).
 
-- Can continue playing after the endgame slideshow plays. [Endgame Mod, by Corpse]  (Unfortunately it's not possible to see the ending movie & credits and then continue playing, because the "endgame_movie" script command in Fallout automatically goes back to the main menu once Credits finish rolling. Say if you say Yes you don't get the movie or credits, whereas if you say No you see those.)
+- [RESTORATION]  Can now get the good ending for The Hub.  Requirements: Harold is alive, Decker is dead.
 
-- Game no longer locks up at July 18th 2175 due to 32-bit integer overflow. Instead, the time is simply rolled back by about four months whenever the in-game date nears its limit.
+- [NEW FEATURE]  Can continue playing after the endgame slideshow plays. [Endgame Mod, by Corpse]  (Unfortunately it's not possible to see the ending movie & credits and then continue playing, because the "endgame_movie" script command in Fallout automatically goes back to the main menu once Credits finish rolling. Say if you say Yes you don't get the movie or credits, whereas if you say No you see those.)
 
-- [Restoration]  Previously-unused narration by Ron Perlman about Vault Dweller's actions and future is now heard, if dipped in the Vats, after cutscenes and before returning to main menu.  [NOTE: This is just audio at the moment. I don't know if restoring an actual ending-slide would be possible, and I don't think a slide for this even ever existed, so for now it just fades the screen and stays faded while the narration is read.]
+- [FIX]  Game no longer locks up at July 18th 2175 due to 32-bit integer overflow. Instead, the time is simply rolled back by about four months whenever the in-game date nears its limit.
 
-- NOT YET IMPLEMENTED:   [New Content]  Player continuing game as a Super Mutant, if dipped in Vats. (Currently this is just a Work-In-Progress testing implementation. Dialog will not change when you talk with anybody so it's more of a proof-of-concept at this point.)
-
+- [RESTORATION]  Previously-unused narration by Ron Perlman about Vault Dweller's actions and future is now heard, if dipped in the Vats, after cutscenes and before returning to main menu.  [NOTE: This is just audio at the moment. I don't know if restoring an actual ending-slide would be possible, and I don't think a slide for this even ever existed, so for now it just fades the screen and stays faded while the narration is read.]
 
 
 ======================================================================================

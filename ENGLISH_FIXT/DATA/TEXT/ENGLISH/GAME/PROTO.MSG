@@ -49,7 +49,7 @@
 # Caliber Types for weapons
 {300}{}{None}
 {301}{}{Rocket}
-{302}{}{Flamethrower Fuel}
+{302}{}{Flamer Fuel}
 {303}{}{C Energy Cell}
 {304}{}{D Energy Cell}
 {305}{}{.223}
@@ -91,24 +91,24 @@
 {461}{}{Dogs:}
 {462}{}{Manti:}
 {463}{}{Deathclaws:}
-{464}{}{The Master}#  Not displayed!
+{464}{}{The Master:} # DOES NOT WORK IN GAME
 
 # Kill type info descriptions
-{465}{}{This line shows the number of adult human males that you have permanently and forcefully removed from the gene pool.}
+{465}{}{This is the number of adult human males that you have permanently and forcefully removed from the gene pool.}
 {466}{}{This is the number of adult human females that you have brutally snuffed out during the course of your adventures.}
 {467}{}{This is how many bright futures of innocent defenseless human children you have shattered with your murderous ways. You cad.}
 {468}{}{This is the total number of big scary Super Mutants that you have skillfully massacred throughout the wastes.}
 {469}{}{This is how many irradiated zombie-like creatures you have laid to rest. Includes both males and females. (Not that they look any different to you anyway.)}
-{470}{}{This is the tally of how many brahmin (mutated two-headed cows) you have chopped up and butchered during your travels.}
-{471}{}{This line shows the number of huge mutated scorpions that you have exterminated as you strode the wastes.}
+{470}{}{This is the tally of how many brahmin (mutant two-headed cows) you have chopped up and butchered during your travels.}
+{471}{}{This is the number of huge mutated scorpions that you have exterminated as you strode the land.}
 {472}{}{This is the number of cute furry rats that you have eliminated from the food chain. Includes all members of the rat family.}
 {473}{}{This is the total number of strange mutated floating creatures that you have happily put to death.}
 {474}{}{This is the tally of how many freakish multi-headed many-legged Centaurs you have had the pleasure of executing.}
 {475}{}{The total number of robots that you have terminated with extreme prejudice, turned into spare parts, or otherwise disabled.}
-{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you jerk.}
-{477}{}{The total number of manti, or oversized mutated preying mantis-like insects, that you have squashed so far.}
-{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn.}
-{479}{}{You have killed the Master. Master! Master.}
+{476}{}{This line shows how many nice friendly doggies you have sent to the great kennel in the sky, you heartless jerk.}
+{477}{}{This is the total number of manti (oversized mutated preying mantis-like insects) that you have squashed so far.}
+{478}{}{This line indicates that you have slain the legendary Deathclaw, and/or any of her many ferocious spawn. Well done.}
+{479}{}{This indicates you have killed the Master. Master! Master.} # DOES NOT WORK IN GAME
 
 # Use text
 {480}{}{You see: %s.}
@@ -224,7 +224,7 @@
 {678}{}{Woof!}
 
 # Not Enough AP message
-{700}{}{Need more action points.}
+{700}{}{You do not have enough Action Points to do that.}
 
 # Book messages
 {800}{}{You read the book.}

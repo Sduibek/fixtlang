@@ -21,7 +21,7 @@
 {120}{}{You've been around the Nightkin for far too long. Goodbye.}
 {121}{}{And why are you telling me this?}
 {122}{}{Where did you get the FEV from?}
-{123}{}{You will only leave here as part of the Unity, or a lost soul in hell! (The tech pauses for a moment.) Besides, I sit down here with a bunch of converts. It felt good to get this off my chest.}
+{123}{}{You will only leave here as part of the Unity, or a lost soul in hell! (The tech pauses for a moment)  Besides, I sit down here with a bunch of converts. It felt good to get this off my chest.}
 {124}{}{Where did you get the FEV from?}
 {125}{}{You killed the Right Hand of god. The Master will be most upset. Now, it has come time for us to join the Holy Flame!}
 {126}{}{You killed the Master. The death of the Unity is your fault. You have caused the death of the human race. I hope you feel good about yourself.}

@@ -21,7 +21,7 @@
 {120}{}{Bite your laws!}
 {121}{}{Well, uh, fine with me. But you'd better be careful.}
 {122}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
-{123}{}{Hey you, no weapons! And I don't care if your momma dropped you on your head as a kid. No weapons.}
+{123}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
 {124}{}{Hey! You! What are you doing sneaking around?}
 {125}{}{Nothing.}
 {126}{}{I'm not sneaking around. I just like to walk cautiously.}

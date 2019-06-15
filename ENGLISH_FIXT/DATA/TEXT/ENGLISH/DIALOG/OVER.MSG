@@ -57,7 +57,7 @@
 {156}{Over_31}{Okey-dokey. One moment, the chip is initializing. Here - here - here - There it goes... Self-test is green... re-boot is good...  Hah! It's working! And it looks like we have a winner! Haha! [The Overseer sighs with relief] You - you've saved us. You've done it!}
 {157}{}{Ahh, it was nothing.}
 {158}{}{You're welcome.}
-{159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. Alright, now we need a report on what's out there. Please go to the library.}
+{159}{Over_32}{Nothing? No, oh no! It was something. Don't downplay what you've done. You've saved a lot of lives. All right, now we need a report on what's out there. Please go to the library.}
 {160}{}{Okay.}
 {161}{Over_33}{You saved the Vault. You should be proud. But now, we need your report. We'll get it from you in the library. Please go there now.}
 {162}{}{Okay.}

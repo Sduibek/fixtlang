@@ -2,4 +2,4 @@
 #
 # Fallout Fixt
 #
-{101}{}{The blast does not even scratch the surface of this mighty Vault door.}
+{101}{}{The explosion does not even scratch the surface of this mighty Vault blast door.}

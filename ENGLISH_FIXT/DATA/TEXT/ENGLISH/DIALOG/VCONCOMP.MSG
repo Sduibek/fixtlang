@@ -11,17 +11,17 @@
 {110}{}{31914-1041-1251514.}
 {111}{}{53478-2565-7763929.}
 {112}{}{44309-3674-1254730.}
-{113}{}{[attempt to hack through the firewall to get more data]  Display security code encryption table.}
+{113}{}{Display security code encryption table. [Attempt to hack through the firewall to get more data]}
 {114}{}{\> Executing 17652-1028-1285362 ...}
 {115}{}{\> Executing 67209-5574-7805564 ...}
 {116}{}{\> Executing 55658-8678-1251533 ...}
 {117}{}{\> Executing 31914-1041-1251514 ...}
 {118}{}{\> Executing 53478-2565-7763929 ...}
 {119}{}{\> Executing 44309-3674-1254730 ...}
-{120}{}{(You have successfully hacked into the encryption table!)       > Command?}
+{120}{}{(You have successfully hacked into the encryption table!)       > Clearance authorized. Command?}
 #
 #TRANSLATION NOTE: Different spaces between the code and description is intentional for self-destruct execute lines
-#This is so the descriptions line up in-game so that it looks organized.
+#This is so the descriptions line up in-game so that it looks organized. 
 #If possible, spacing should stay the same when translated.
 #
 {121}{}{[17652-1028-1285362]    Silent self-destruct in 1 minute.}
@@ -30,13 +30,10 @@
 #123 is used if player selected Bug Fixes Only, otherwise 183 is used
 #
 {123}{}{[55658-8678-1251533]   Set base to alert status.}
-#
-#124 is used if player selected Bug Fixes Only, otherwise 184 is used
-#
-{124}{}{[31914-1041-1251514]     Silent self-destruct in 3 minutes.}
+{124}{}{[31914-1041-1251514]      Silent self-destruct in 3 minutes.}
 {125}{}{[53478-2565-7763929]   Self-destruct in 3 minutes.}
-{126}{}{[44309-3674-1254730]   Immediate self-destruct sequence.}
-{127}{}{Invalid command. End input session.}
+{126}{}{[44309-3674-1254730]    Immediate self-destruct sequence.}
+{127}{}{Invalid command. Ending input session.}
 {128}{}{Specify log you would like to review.}
 {129}{}{Grey}
 {130}{}{Boyarsky}
@@ -44,10 +41,10 @@
 {132}{}{Anderson}
 {133}{}{Download log of Richard Grey?}
 {134}{}{Yes.}
-{135}{}{[return to previous menu]  No.}
+{135}{}{No. [Return to previous menu]}
 {136}{}{Download log of Capt. Maxson?}
 {137}{}{Yes.}
-{138}{}{[return to main menu]}
+{138}{}{[Return to main menu]}
 {139}{}{ERROR: Unexpected end of line. Bad data encountered.}
 {140}{}{> Command?}
 {141}{}{Uplink successful. What is your command?}
@@ -90,10 +87,10 @@
 {178}{}{You try to use the computer, but the system is too complex for you to understand easily. You'll have to keep trying.}
 {179}{}{The explosion destroys the Vats Control system. Without regulation, it will certainly cycle out of control in minutes.}
 {180}{}{You slide the security card across the terminal's reader. The terminal clicks and whirrs, and an unencrypted screen comes up.}
-{181}{}{[exit system]}
+{181}{}{[Exit system]}
 {182}{}{Set base to alert status and disable console.}
-{183}{}{[10710-8971-2014510]     Activate alarms and disable console.}
-{184}{}{[31914-1041-1251514]      Silent self-destruct in 5 minutes.}
+{183}{}{[10710-8971-2014510]     Activate alarms, disable console.}
+{184}{}{[41515-2114-0141913]      Silent self-destruct in 5 minutes.}
 {185}{}{10710-8971-2014510.}
 {186}{}{76223-4533-2540092.}
 {187}{}{[76223-4533-2540092]   Self-destruct in 1 minute.}
@@ -104,15 +101,24 @@
 {201}{}{Deactivate the base's alarms.}
 {202}{}{Command completed successfully.}
 {203}{}{[Continue]}
-{204}{}{[return to main menu]   Never mind.}
+{204}{}{Never mind. [Return to main menu]}
 {205}{}{\> Executing 536475-69-62656B ... ... ... Command completed successfully.}
 {206}{}{\> Executing 10710-8971-2014510 ...}
 {207}{}{ERROR: Records already found on Pip-Boy 2000. Aborting.}
-{208}{}{[return to main menu]   Never mind.}
+{208}{}{Never mind. [Return to main menu]}
 #
 {300}{}{10810-1103-9799121.}
-{301}{}{[10810-1103-9799121]     Self-destruct in 5 minutes.}
+{301}{}{[10810-1103-9799121]      Self-destruct in 5 minutes.}
 {302}{}{\> Executing 10810-1103-9799121 ...}
 {303}{}{83100-1171-0539115.}
 {304}{}{[83100-1171-0539115]     Silent self-destruct in 10 minutes.}
 {305}{}{\> Executing 83100-1171-0539115 ...}
+#
+{400}{}{\> Executing 41515-2114-0141913 ...}
+{401}{}{31415-9265-3589793.}
+{402}{}{[31415-9265-3589793]     Self-destruct in 10 minutes.}
+{403}{}{\> Executing 31415-9265-3589793 ...}
+{404}{}{41515-2114-0141913.}
+{405}{}{Display security code encryption table. [Insert the Lieutenant's decoder disk]}
+{406}{}{Display unencrypted security codes.}
+{407}{}{> Clearance authorized. Command?}

@@ -9,7 +9,7 @@ You can use text search (Ctrl+F) for the "###." entries below to jump to them.
 007. Save often, use all 10 slots
 008. Sound issues
 009. "Failure initializing input devices"
-010. Black screen / crazy colors / flickering
+010. Black screen / incorrect colors / flickering display
 011. "Fallout appears to be running in compatibility mode"
 012. Missing entry point in kernel32.dll
 013. DirectX errors
@@ -24,8 +24,8 @@ You can use text search (Ctrl+F) for the "###." entries below to jump to them.
 022. Endgame slideshow audio cut off
 023. Female Vault Dweller looks male
 024. Black box covering part of the screen
-025. "Not enough disk space"
-026. OTHER RESOURCES
+025. I'm using Steam and it's not tracking my hours played
+026. "Not enough disk space"
 027. [SPOILERS] Map names for replacing corrupt savegame files [SPOILERS]
 
 ============================================================================
@@ -33,7 +33,9 @@ You can use text search (Ctrl+F) for the "###." entries below to jump to them.
 ============================================================================
 www.nma-fallout.com/showthread.php?194562&p=3818107&viewfull=1#post3818107
 
-You can confirm your version by viewing Credits (press "C") from the game's main menu.
+ - Verify that the bottom-left of the main menu screen matches the version listed at the link above (confirms text & dialog),
+ - Verify that the bottom-right of the main menu screen matches the version listed at the link above (confirms executable),
+ - Perform an Examine/Binoculars on the Vault Dweller (confirms global variables, scripts, and installer customizations).
 
 
 ============================================================================
@@ -171,13 +173,18 @@ Followers: visit the Followers map.
 - This is not advised, but try setting "times_run=0" in fallout.cfg - if this fixes the issue, you'll have to mark fallout.cfg as Read-Only with times_run=0 or the issue will come back. Not a good fix, but can theoretically work.
 
 
-===============================================
-010. Black screens/psychedelic color schemes. 
-===============================================
-- Make sure f1_res is enabled.
-- If you don't want to use f1_res or can't use it, and you're using Windows Vista or newer, run the applications in the Scrambled Colors Fixes folder. You can point these to FalloutW.exe and **follow the utility's instructions exactly** and it should fix all these display issues.
-- In some rare cases, you may need to actually use ddraw.ini settings; change to Mode 4 or Mode 5. This is not advised unless you have exhausted all other options AND are not using f1_res.
-- Run the file fo1_screen_refresh.exe before playing Fallout if your screen is flickering or turning black.
+===========================================================
+010. Black screen / incorrect colors / flickering display.
+===========================================================
+- Make sure f1_res is enabled and working.
+- Make sure ddraw (Sfall) is enabled and working.
+- The newest versions of f1_res and ddraw (Sfall) should fix these issues entirely, provided you are running at 16-bit or 32-bit color mode.
+- Change your desktop background to a solid color instead of a picture (seriously).
+- Try using FO1 Screen Refresh: http://teamx.bgforge.net/utils/fo1_screen_refresh.rar ( http://teamx.bgforge.net/utils/index.html )
+- Try using Palettestealer Suspender: https://github.com/Macuyiko/palettestealer-suspender/releases/download/final-release/PalettestealerSuspender.zip ( https://github.com/Macuyiko/palettestealer-suspender )
+- Try using DirectDraw Compatibility Tool: https://www.cheonghyun.com/directdraw-compatibility-tool-resolve-graphics-problems-on-old-games/ ( http://www.nma-fallout.com/resources/directdraw-compatibility-tool.95/ )
+- Try the various other options explained at: http://bedagainstthewall.blogspot.com/2009/07/solving-color-problem-red-grass-purple.html
+- Changing to Mode 4 or Mode 5 graphics in ddraw.ini can help, but is not usually advised.
 
 
 ==========================================================================================================
@@ -320,7 +327,19 @@ http://falloutmods.wikia.com/wiki/Fallout1_Resolution_Patch
 
 
 ============================================================================
-025. "Not enough disk space"
+025. I'm using Steam and it's not tracking my hours played
+============================================================================
+- Option 1: Run Fallout from Steam, then just leave that Fallout Launcher open while you play Fallout Fixt.
+ -- ^ For this approach, you don't even have to enter the game; just leave the launcher open.
+- Option 2: Replace these files with the ones from Fixt: ddraw.dll, ddraw.ini, f1_res.dll, f1_res.ini, f1_res_Config.exe, FalloutLauncher.exe, FALLOUTW.EXE, falloutwHR.exe. Then change these lines in fallout.cfg as follows:
+music_path1=Fallout Fixt\data\sound\music\
+critter_patches=Fallout Fixt\data
+master_patches=Fallout Fixt\data
+- Option 3: Replace FalloutLauncher.exe to point to Fallout Fixt: https://www.reddit.com/r/Fallout/comments/44baoj/installing_fixtrestoration_mod_on_the_new_steam/czp8oyk/
+
+
+============================================================================
+026. "Not enough disk space"
 ============================================================================
 - Change "free_space=#####" in fallout.cfg to "free_space=0" (zero).
 - Empty recycle bin (trash).
@@ -328,11 +347,6 @@ http://falloutmods.wikia.com/wiki/Fallout1_Resolution_Patch
 - Close all other programs.
 - Try temporarily disabling any antivirus/antimalware programs, as well as any firewall software.
 - Try temporarily disabling any software that constantly scans files, such as online backup solutions (Dropbox) and/or content indexers (GitHub).
-
-============================================================================
-026. Other troubleshooting resources for Fallout
-============================================================================
- - http://www.nma-fallout.com/showthread.php?155150
 
 
 

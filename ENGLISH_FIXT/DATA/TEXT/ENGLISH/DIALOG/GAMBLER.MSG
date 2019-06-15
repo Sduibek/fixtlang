@@ -18,7 +18,7 @@
 {117}{}{Thank you very much, mi amigo! (He accepts 100 caps from you.) In a few days, I shall be able to pay you back, with interest. My system is slow, you see, it requires much patience, but it will most certainly reap great profits!}
 {118}{}{Very well, but I guarantee success! If you want to get in on the riches just waiting, come back soon, or I will find another partner!}
 {119}{}{My friend, I see you are a man of much taste, as well. Perhaps a simple game of dice?}
-{120}{}{Alright!}
+{120}{}{All right!}
 {121}{}{No, thanks, I'd rather try something else.}
 {122}{}{Gizmo had a dream of setting up a place where people could meet and enjoy themselves. He had the ambition to make it happen. The result is the casino you see here.}
 {123}{}{He gives people a chance to shrug off their cares in the broken world outside. And he brings money into Junktown!}

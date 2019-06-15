@@ -82,7 +82,7 @@
 {180}{}{Okay.}
 {181}{DECK_31}{Talk to Kane on your way out. He'll provide you with details.}
 {182}{DECK_32}{And killing the merchant wasn't?}
-{183}{}{Well, alright, I'll do it.}
+{183}{}{Well, all right, I'll do it.}
 {184}{}{I don't care. I won't do it.}
 {185}{DECK_33}{The pay is 1000 in advance and 4000 upon... execution. And trust me, I'll know when it's over.}
 {186}{}{Okay.}

@@ -1444,9 +1444,9 @@
 {15414}{}{Shady}
 {15415}{}{Sands}
 {15416}{}{Raiders}
-{15417}{}{}
-{15418}{}{}
-{15419}{}{}
+{15417}{}{Raider}
+{15418}{}{Khan}
+{15419}{}{Hub}
 {15420}{}{}
 {15421}{}{}
 {15422}{}{}
@@ -1544,6 +1544,9 @@
 {15514}{}{Why we don't crush them completely is beyond me.}
 {15515}{}{Why we don't crush them completely is beyond me.}
 {15516}{}{That's us, you lackey.}
+{15517}{}{That's us, you lackey.}
+{15518}{}{That's us, you lackey.}
+{15519}{}{They are to the south and slightly west. We trade with them. Mostly for water and ammo, but sometimes for better weapons, too.}
 
 #
 # SHADYE.MAP

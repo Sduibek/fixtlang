@@ -17,7 +17,7 @@
 {116}{}{Smash and grab? Count me in!}
 {117}{}{Not tonight, I have a headache.}
 {118}{}{Nah, I'd rather have something to eat... perhaps grilled shark!}
-{119}{}{Ah, you loser. Go run back to your momma.}
+{119}{}{Ah, you loser. Go run back to your mama.}
 {120}{}{You again? Geez, some people just don't learn!}
 {121}{}{Just stopped in for a quick drink.}
 {122}{}{Just leaving, never mind.}
