@@ -4,7 +4,7 @@
 {103}{}{Okay. Bye.}
 {104}{}{Just fine, but I could be better.}
 {105}{}{Uhh.}
-{106}{}{Oh, baby, I understand. You gotta run home to momma. Well, come back here when you need some luvin'!}
+{106}{}{Oh, baby, I understand. You gotta run home to mama. Well, come back here when you need some luvin'!}
 {107}{}{Yeah, sweets, same to you.}
 {108}{}{You'll find whatever, or whomever, you're lookin for, honey, and that'll make you all better, I'm sure.}
 {109}{}{Maybe I can help you with that.}

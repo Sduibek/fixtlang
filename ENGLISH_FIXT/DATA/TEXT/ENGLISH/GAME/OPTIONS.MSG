@@ -1,15 +1,4 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used in OPTIONS.C
-#
-# (These MUST match "text message" enumeration on the top of OPTIONS.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Main option panel
-#
-# Buttons
+
 {0}{}{SAVE GAME}
 {1}{}{LOAD GAME}
 {2}{}{PREFERENCES}
@@ -31,16 +20,16 @@
 {110}{}{SUBTITLES}
 {111}{}{ITEM HIGHLIGHT}
 {112}{}{COMBAT SPEED}
-{113}{}{TEXT DELAY}
+{113}{}{FLOAT MESSAGES LIFESPAN}
 {114}{}{MASTER AUDIO VOLUME}
-{115}{}{MUSIC & MOVIE VOLUME}
+{115}{}{MUSIC AND MOVIE VOLUME}
 {116}{}{SOUND EFFECTS VOLUME}
 {117}{}{SPEECH VOLUME}
-{118}{}{BRIGHTNESS/CONTRAST}
+{118}{}{BRIGHTNESS / CONTRAST}
 {119}{}{MOUSE SENSITIVITY}
 {120}{}{DEFAULT}
 {121}{}{CANCEL}
-{122}{}{Affect player speed}
+{122}{}{Affect player speed?}
 {123}{}{UNUSED}
 #
 # Label text
@@ -61,8 +50,8 @@
 {214}{}{None}           # 1
 {215}{}{Minimal}        # 2
 {216}{}{Maximum Blood}  # 3
-{217}{}{Slow}           #  1
-{218}{}{Faster}         #  2
+{217}{}{8 seconds}           #  1
+{218}{}{Fast}         #  2
 {219}{}{Always}
 {220}{}{Lots}
 {221}{}{Quiet}          # 1
@@ -72,7 +61,7 @@
 #
 # Pause window
 #
-{300}{}{DONE}
+{300}{}{UNPAUSE}
 {301}{}{PAUSED}
 #
 # Demo versions only

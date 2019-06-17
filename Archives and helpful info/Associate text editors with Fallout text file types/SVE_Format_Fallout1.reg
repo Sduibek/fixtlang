@@ -29,7 +29,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CURRENT_USER\Software\Classes\SVE_auto_file]
-@="Fallout Global Variables file"
+@="Fallout1 Movie Subtitles file"
 
 [HKEY_CURRENT_USER\Software\Classes\SVE_auto_file\shell]
 

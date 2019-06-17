@@ -1,1 +1,1 @@
-{100}{}{You notice that there is a wall locker on the east wall, just like in your own Vault.}
+{100}{}{You notice there is a wall locker on the east wall, just like in your own Vault.}

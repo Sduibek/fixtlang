@@ -19,6 +19,6 @@
 {118}{}{Fine, then. Heh.}
 {119}{}{Good you asked. No weapons can be drawn except in self-defense. If you start a fight, it's your fault. Other than that, it's your right to go around armed. Just don't pull a knife or gun without just cause. Have a good day.}
 {120}{}{Thanks - you, too.}
-{121}{}{Hey you, no weapons! And I don't care if your momma dropped you on your head as a kid. No weapons.}
+{121}{}{Hey you, no weapons! And I don't care if your mama dropped you on your head as a kid. No weapons.}
 {122}{}{Dorf!}
 {123}{}{You earn 150 experience for killing the guard.}

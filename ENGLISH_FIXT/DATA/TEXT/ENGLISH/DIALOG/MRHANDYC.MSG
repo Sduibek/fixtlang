@@ -17,7 +17,7 @@
 {116}{}{Heh, okay. Finish your task.}
 {117}{}{You earn 1000 experience for doing a little clean-up work.}
 #
-# Fallout Fixt
+# for Fallout Fixt:
 #
 {118}{}{That does nothing of interest.}
 {119}{}{This Mr. Handy robot is in moderate condition, but appears fully functional.}
@@ -40,7 +40,7 @@
 {132}{}{Okay, thanks.}
 {133}{}{[Click] Unit #462 is authorized to commit deadly force in preservation of itself, as permitted by prior programming.}
 {134}{}{Deadly force?}
-{135}{}{(A speaker crackles to life, and a recorded message of a male voice begins playing. It sounds like an advertisement.) "RobCo is committed to your safety and well-being. All RobCo Mister Handy units are equipped with state-of-the-art safety overrides, to prevent any unfortunate incidents. Rest assured, Mr. Handy is the best and safety investment your family will ever make." (The speaker shuts off.)}
+{135}{}{(A speaker crackles to life, and a recorded message of a male voice begins playing. It sounds like an advertisement.) "RobCo is committed to your safety and well-being. All RobCo Mister Handy units are equipped with state-of-the-art safety overrides, to prevent any unfortunate incidents. Rest assured, Mr. Handy is the best and safest investment your family will ever make." (The speaker shuts off.)}
 {136}{}{[Continue]}
 {137}{}{[Click] Processing... [Click] Memory file data indicates that as of Unit #462's manufacture date, out of 4,628 recorded self-defense events initiated by similar Units, only 930 have resulted in deaths of unarmed civilians.}
 {138}{}{Uh... That doesn't sound very good.}
@@ -53,7 +53,7 @@
 {145}{}{[Beep!] Unit #462 online. Self-test... OK. Adjusting unit location data. Fixed. Rebuilding memory file. Fixed. Clearing task list... Done. [Click] Command?}
 {146}{}{Follow me and keep self-defense mechanisms active at all times. Oh, and don't shoot me, I'm not a threat. So you should probably add that to the self-defense protocols as well.}
 {147}{}{[Click] Okey-dokey! Recursive task created. Terminating input.}
-{148}{}{(You try to get root access to the system but fail. Lights begin flashing on the unit. Uh-oh...}
+{148}{}{(You try to get root access to the system but fail. Lights begin flashing on the unit.) Uh-oh...}
 {149}{}{Alert! Alert! Threat detected! [Click] Initiating self-defense protocols.}
 {150}{}{The robot ignores you and continues on its task.}
 {151}{}{Unit #462, at your service.}

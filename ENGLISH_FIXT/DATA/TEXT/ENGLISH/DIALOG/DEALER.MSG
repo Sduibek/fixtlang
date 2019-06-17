@@ -27,6 +27,6 @@
 {126}{}{I'm insulted. I don't have to take that from a customer. Have a good day.}
 {127}{}{I'm on my coffee break; come back later.}
 {128}{}{Go ahead and take one for a test drive.}
-{129}{}{You should get the rust preventive paint with that.}
+{129}{}{You should get the rust-preventive paint with that.}
 {130}{}{Can I interest you in an auto alarm?}
 {131}{}{Hi! I'm Bob.}

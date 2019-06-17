@@ -1,5 +1,5 @@
 #
-# TEXT ENTRIES, MESSAGES AND HOLODISK TEXT CONTENTS FROM PIP-BOY
+# TEXT ENTRIES, MESSAGES AND HOLODISK TEXT CONTENTS FROM Pip-Boy
 #
 #-------------------------------------------------------------------
 #
@@ -21,7 +21,7 @@
 # Special holiday dates
 #
 {100}{}{Happy New Year!}            # New years
-{101}{}{Happy Valentine's Day!}     #
+{101}{}{Happy Valentine's Day!}     # 
 {102}{}{Alt+F4 and then Y enables God Mode}    # April fools!
 {103}{}{Happy Ship Day!}            # Shipping day!
 {104}{}{Happy Independence Day!}    # Independence day
@@ -31,43 +31,43 @@
 #
 # System messages - in Pip-Boy 2000 interface. Text for buttons on left side, and green text on bottom when viewing Status entries.
 #
-{200}{}{MORE}
-{201}{}{BACK}
-{202}{}{Status}
+{200}{}{[MORE]}
+{201}{}{[BACK]}
+{202}{}{Quests}
 {203}{}{No current tasks.}
 # TRANSLATORS: Don't do anything with line 204. Leave it blank or put equivalent of "NOT USED".  -Sduibek
-{204}{}{}	# Clues gone
-{205}{}{AUTOMAPS}
+{204}{}{CLUES}	# Clues gone
+{205}{}{LOCATION MAPS}
 {206}{}{VIDEO ARCHIVES}
 {207}{}{DATA}
 # 208 and 209 assumed to be not used in game. They were blank in original game files. Contact me if yours aren't blank.  -Sduibek
 {208}{}{}
 {209}{}{}
-{210}{}{Status}
-{211}{}{DATA}
+{210}{}{Quests}
+{211}{}{Data}
 {212}{}{of}
 {213}{}{Page}
-{214}{}{DONE}
+{214}{}{[DONE]}
 # changed "at this location" to "at this time", because it doesn't depend on location, it depends on if anything on map is aggro/hostile. This is important distinction.  -Sduibek
-{215}{}{Cannot rest at this time.}
+{215}{}{Cannot rest with hostiles present.}
 #
 # Alarm clock
 #
 {300}{}{ALARM CLOCK}
 {301}{}{Current Hit Points: }
-{302}{}{Rest for ten minutes}
-{303}{}{Rest for thirty minutes}
-{304}{}{Rest for an hour}
-{305}{}{Rest for two hours}
-{306}{}{Rest for three hours}
-{307}{}{Rest for four hours}
-{308}{}{Rest for five hours}
-{309}{}{Rest for six hours}
-{310}{}{Rest until morning  (06:00)}
-{311}{}{Rest until noon  (12:00)}
-{312}{}{Rest until evening  (18:00)}
-{313}{}{Rest until midnight  (00:00)}
-{314}{}{Rest until healed  (full HP)}
+{302}{}{Rest for 10 minutes}
+{303}{}{Rest for 30 minutes}
+{304}{}{Rest for 1 hour}
+{305}{}{Rest for 2 hours}
+{306}{}{Rest for 3 hours}
+{307}{}{Rest for 4 hours}
+{308}{}{Rest for 5 hours}
+{309}{}{Rest for 6 hours}
+{310}{}{Rest until 06:00}
+{311}{}{Rest until 12:00}
+{312}{}{Rest until 18:00}
+{313}{}{Rest until 00:00}
+{314}{}{Rest until healed}
 #
 #
 #  "DISKS & LOGS" entry titles. They display IN THIS ORDER!
@@ -95,7 +95,7 @@
 #  212 maxdisk - must update in ScrName.msg
 #  234 grey _MBnodisk
 #  235 maxson _MBnodisk
-#  237 valtdisk
+#  237 valtdisk (VANILLA WAS 163)
 #  258 fev (zax)
 #  259 pwrarm (zax)
 #  260 personnel (zax)
@@ -108,11 +108,11 @@
 #
 {400}{}{FEV Experiments Disk}       # DONE!
 {401}{}{Vault Locations v34.129}    # Moved from 416. Security Disk was here, but is now a dialog sequence.  -Sduibek
-{402}{}{Ancient Brotherhood Disk}   #
+{402}{}{Ancient Brotherhood Disk}   # 
 {403}{}{Alpha Experiments Log}
 {404}{}{Delta Experiments Log}
 {405}{}{Vree's Autopsy Reports}
-{406}{}{Regulator Transmission} # Brotherhood Honor Code was not used and never will be; it's against canon.  -Sduibek
+{406}{}{Regulator Transmissions} # Brotherhood Honor Code was not used and never will be; it's against canon.  -Sduibek
 {407}{}{Mutant Transmissions}  #done. -Sduibek  # will become dialog
 {408}{}{Brotherhood Disk}
 {409}{}{Sophia's Disk}
@@ -120,10 +120,10 @@
 {411}{}{Richard Grey Audio Diary}
 {412}{}{Captain Maxson's Diary}
 {413}{}{FEV Research} # from ZAX, no disk
-{414}{}{}  # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
+{414}{}{Power Armor Specs}  # Power Armor Specs was here, is now a dialog sequence.  -Sduibek
 {415}{}{West Tek Records} # from ZAX, no disk
-{416}{}{}
-{417}{}{Regulator Transmission} # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
+{416}{}{Vault Locations v34.129}
+{417}{}{Regulator Transmissions} # Regulator Transmission was here, is now a dialog sequence.  -Sduibek
 #
 # Movie archive titles
 # Order must match the list (see gmovie.h)
@@ -134,13 +134,13 @@
 {503}{}{Vats Destruction}
 {504}{}{Cathedral Destruction}
 {505}{}{Overseer Briefing}
-{506}{}{Vault 13 Water Deprivation}   # Death
-{507}{}{Vault 13 Invasion}            # Death
-{508}{}{Leaving Vault}                # Man end
-{509}{}{Leaving Vault}                # Woman end
-{510}{}{Dipped in the Vats}           # Death
-{511}{}{Vault 13 Water}
-{512}{}{Vault 13 Water Running Low}
+{506}{}{Vault 13 Water Depleted}    # Death
+{507}{}{Vault 13 Super Mutant Invasion} # Death
+{508}{}{Leaving the Vault}                # Man end
+{509}{}{Leaving the Vault}                # Woman end
+{510}{}{Dipped in The Vats}           # Death
+{511}{}{Vault 13 Water Running Low}
+{512}{}{Vault 13 Water Levels Critical}
 {513}{}{Rae Kills the Master} # VIDEO DOES NOT EXIST. DO NOT USE.  -Sduibek
 #
 # Things for the Mac version to speak
@@ -190,10 +190,10 @@
 #
 {720}{}{Shady Sands}
 #
-{721}{}{Diagnose and cure Jarvis of his ailment.}       # GVAR
-{722}{}{Help Razlo find a cure for radscorpion venom.}  # GVAR
-{723}{}{Rescue Tandi from the raiders.}                 # GVAR
-{724}{}{Stop the threat of the local radscorpions.}     # GVAR
+{721}{}{Diagnose and cure Jarvis of his ailment.}       # GVAR 
+{722}{}{Help Razlo find a cure for radscorpion venom.}  # GVAR 
+{723}{}{Rescue Tandi from the raiders.}                 # GVAR 
+{724}{}{Stop the threat of the local radscorpions.}     # GVAR 
 {725}{}{}
 {726}{}{}
 {727}{}{}
@@ -202,12 +202,12 @@
 #
 {730}{}{Junktown}
 #
-{731}{}{Help Saul.}                                     # GVAR
-{732}{}{Kill Killian.}                                  # GVAR
-{733}{}{Rescue Sinthia.}                                # GVAR
-{734}{}{Save Trish.}                                    # GVAR
-{735}{}{Stop Gizmo.}                                    # GVAR
-{736}{}{Bust the Skulz gang.}                           # GVAR
+{731}{}{Help Saul.}                                     # GVAR 
+{732}{}{Kill Killian.}                                  # GVAR 
+{733}{}{Rescue Sinthia.}                                # GVAR 
+{734}{}{Save Trish.}                                    # GVAR 
+{735}{}{Stop Gizmo.}                                    # GVAR 
+{736}{}{Bust the Skulz gang.}                           # GVAR 
 {737}{}{}
 {738}{}{}
 {739}{}{}
@@ -226,7 +226,7 @@
 {750}{}{Necropolis}
 #
 {751}{}{Deal with the Super Mutants at the Watershed.}  # GVAR
-{752}{}{Fix the water pump.}                            # GVAR
+{752}{}{Fix the water pump.}                            # GVAR 
 {753}{}{}
 {754}{}{}
 {755}{}{}
@@ -237,19 +237,19 @@
 #
 {760}{}{The Hub}
 #
-{761}{}{Find and destroy the Deathclaw.}                # GVAR
-{762}{}{Dispose of Jain.}                               # GVAR
-{763}{}{Dispose of the merchant.}                       # GVAR
-{764}{}{Find the missing caravans.}                     # GVAR
-{765}{}{Steal necklace from the merchant.}              # GVAR
+{761}{}{Find and destroy the Deathclaw.}                # GVAR 
+{762}{}{Dispose of Jain.}                               # GVAR 
+{763}{}{Dispose of the merchant.}                       # GVAR 
+{764}{}{Find the missing caravans.}                     # GVAR 
+{765}{}{Steal necklace from the merchant.}              # GVAR 
 {766}{}{}
 {767}{}{}
 {768}{}{}
 {769}{}{}
 #
 {770}{}{Brotherhood of Steel}
-{771}{}{Become an Initiate.}                    # GVAR
-{772}{}{Rescue Initiate from the Hub.}          # GVAR
+{771}{}{Become an Initiate.}                    # GVAR 
+{772}{}{Rescue Initiate from the Hub.}          # GVAR 
 {773}{}{}
 {774}{}{}
 {775}{}{}
@@ -595,16 +595,17 @@
 #   5.  *** Delta Experiment Disk *** - DiskD.ssl - "Delta Experiments Log" - (found in The Glow, GLOW2.MAP) - THIS WILL BE MOVED TO A DIALOG SEQUENCE.  -Sduibek
 #
 #
-{5000}{}{}
-{5001}{}{}
-{5002}{}{}
-{5003}{}{}
-{5004}{}{}
-{5005}{}{}
-{5006}{}{}
-{5007}{}{}
-{5008}{}{}
-{5009}{}{}
+{5000}{}{The Military has deemed it necessary for us to research}
+{5001}{}{further in depth the effects of wave technology upon}
+{5002}{}{living organisms.  We have taken light and sound as the}
+{5003}{}{basis of our studies.  By manipulating the amplitude of}
+{5004}{}{the light waves and magnifying the frequency, we have}
+{5005}{}{been able to get lasers which will cut through a few}
+{5006}{}{feet a steel.  Unfortunately, the power to do such a}
+{5007}{}{task has not been fully developed.  We have other}
+{5008}{}{scientists looking into this.}
+{5009}{}{**END-DISK**}
+
 #
 #
 #   6.  *** Vree's Experiment Disk *** - VreeDisk.ssl - "Vree's Autopsy Reports" - (received from Vree.ssl)
@@ -737,7 +738,7 @@
 {6110}{}{**END-DISK**}
 #
 #
-#   7.
+#   7.  
 #
 #
 # (was previously Brotherhood of Steel Honor Code - CodeDisk.ssl - NOT USED IN GAME, GOES AGAINST FALLOUT CANON.  -Sduibek)

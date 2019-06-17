@@ -117,8 +117,8 @@
 {216}{}{Sorry, I can't wait that long.}
 {217}{}{Great. I'll get your driver and the rest of the crew. Be careful out there, it's been a little rough lately.}
 {218}{}{The crew's ready. We'll leave right away.}
-{219}{}{Alright, it'll just take a few minutes to get the crew together.}
-{220}{}{Alright. We'll leave for the Brotherhood as soon as I get the rest of the crew together.}
+{219}{}{All right, it'll just take a few minutes to get the crew together.}
+{220}{}{All right. We'll leave for the Brotherhood as soon as I get the rest of the crew together.}
 {221}{}{Okay, you'll be off to the Brotherhood as soon as I assemble the crew.}
 {222}{}{Ready to go! Be sure to stay away from the mountains.}
 {223}{}{L.A. Boneyard's a rough place - be careful. Make sure everyone sticks to their shifts.}
@@ -126,7 +126,7 @@
 {225}{}{Okay, the caravan crew for L.A. Boneyard is ready and waiting.}
 {226}{}{Junktown is normally a short and easy trip; you shouldn't have any problems.}
 {227}{}{Good, the crew for Junktown's caravan is ready.}
-{228}{}{Alright. Junktown's waiting, let's get going.}
+{228}{}{All right. Junktown's waiting, let's get going.}
 {229}{}{Why, hello. I understand you are looking for a job. I'm surprised Rutger hired you, but I'm sure he has his reasons. Our caravans leave here three times a month: on the 8th, 18th and 28th. There are three places we go to on a regular basis: the Brotherhood of Steel, Junktown, and L.A. Boneyard. The pay is always 400 caps, and that's one way. You can come back with the caravan for another 400 caps.}
 {230}{}{You've got great timing because they're all heading out today.}
 {231}{}{They're all going out tomorrow.}

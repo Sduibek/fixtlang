@@ -11,8 +11,8 @@
 {110}{}{Great! Let's get out of here!}
 {111}{}{Okay, I understand.}
 {112}{}{I'll make due.}
-{113}{}{Alright.}
-{114}{}{Are you alright?}
+{113}{}{All right.}
+{114}{}{Are you all right?}
 {115}{}{I think you need some rest.}
 {116}{}{Uh, I think you should see the Brotherhood's doctor.}
 {117}{}{We lost the boss. Can you come back with us? We can still pay you the 400 caps.}

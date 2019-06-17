@@ -26,7 +26,7 @@
 {125}{}{I could easily defeat you in battle.}
 {126}{Rhom9}{It is not my place to answer. See the High Elder if you wish.}
 {127}{}{Oh come on, please?}
-{128}{}{Alright, fine. Can I ask you a few more questions?}
+{128}{}{All right, fine. Can I ask you a few more questions?}
 {129}{Rhom10}{There are rumors of a strange army gathering. I will not say more.}
 {130}{}{Oh, come on, pretty please?}
 {131}{}{Can I ask you a few more questions though?}
@@ -60,7 +60,7 @@
 {159}{Rhom21}{Talk to Vree in the main library.}
 {160}{Rhom22}{I do not put stock in rumors.}
 {161}{}{Oh come on, just one? Please?}
-{162}{}{Fine.}
+{162}{}{Fine. Can I ask you something else though?}
 {163}{Rhom23}{The Hub and the Boneyard are south, mountains are east, and desolate wasteland north. Whoever goes there never returns.}
 {164}{Rhom24}{Put that back now!}
 {165}{Rhom25}{This is what we do to criminals...}
@@ -68,7 +68,7 @@
 {167}{Rhom27}{So you are a thief? I will show you what we do with thieves...}
 {168}{}{No wait! I can explain!}
 {169}{}{Go ahead. Take your best shot.}
-{170}{Rhom28}{Alright, explain yourself, Initiate.}
+{170}{Rhom28}{All right, explain yourself, Initiate.}
 {171}{}{I was just looking around!}
 {172}{}{I'm sorry. I didn't know this was your room.}
 {173}{Rhom29}{Then leave, and I will forget this little incident.}

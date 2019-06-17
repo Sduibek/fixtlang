@@ -11,7 +11,7 @@
 {110}{}{sold to the Hub, who sold them to the gangs. I guess you found a good solution.}
 {111}{}{I never thought that we would be able to stop fighting the gangs. My father told me how you got them to promise to leave us alone. You know, I thought I always wanted to go adventuring, but I think that I like... well, the }
 {112}{}{feeling of security here now. No more worrying about the gangs suddenly attacking and wondering who's going to be killed.}
-{113}{}{Lorraine says that there was a Vault south of here, where most of my grandparents lived. What's it like living in a Vault?}
+{113}{}{Lorraine says that there was a Vault south of here, where a lot of my grandparents lived. What's it like living in a Vault?}
 {114}{}{It's pretty boring, actually.}
 {115}{}{It's very exciting. We have all sorts of technology you wouldn't believe!}
 {116}{}{Oh. Well, you must have had some adventures after leaving, right?}
@@ -45,6 +45,6 @@
 {144}{}{Thank you!}
 {145}{}{Please don't leave me!}
 {146}{}{I thought that it would be fun to leave Adytum and explore the world. But the Rippers caught me and have been holding me here. Please, help me!}
-{147}{}{Alright, let's get out of here!}
+{147}{}{All right, let's get out of here!}
 {148}{}{No way. You got yourself into this, you get out.}
 {149}{}{I hope we get out of here soon!}

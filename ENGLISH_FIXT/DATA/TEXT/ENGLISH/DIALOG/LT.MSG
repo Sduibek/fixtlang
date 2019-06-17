@@ -7,7 +7,7 @@
 {106}{LIEUT1A}{An insult. How droll. I'd define that word for you, but that would be a waste, wouldn't it. Let's get to your two choices: You can tell me what I want to know. Or I can do it... my way.}
 {107}{}{I'll take 'none of the above.'}
 {108}{}{Okay, but on one condition.}
-{109}{}{Alright, I'll tell you. It's on the other side of the mountains, far to the north. You'll find it near a strange, half-dome type rock... Now, what do I get?}
+{109}{}{All right, I'll tell you. It's on the other side of the mountains, far to the north. You'll find it near a strange, half-dome type rock... Now, what do I get?}
 {110}{LIEUT1B}{I don't believe I offered. But I will give you my thanks for telling me where your Vault is. I'm sure the Master will be... ever so grateful.}
 {111}{LIEUT2}{How nice for us both. Now, if you please, the location of your Vault.}
 {112}{}{It's uh... it's uh...}
@@ -19,7 +19,7 @@
 {118}{}{Put a bag over your head so I can stand being in your presence.}
 {119}{}{I want to be able to ask you some questions first.}
 {120}{LIEUT4}{What a splendid sense of humor. Pity I don't have one. So... the location of your Vault, if you please.}
-{121}{}{Alright, but can I ask you some questions first?}
+{121}{}{All right, but can I ask you some questions first?}
 {122}{}{I'm not telling and you can't make me.}
 {123}{}{It's uh... it's uh...}
 {124}{LIEUT5}{Why certainly, my dear human. I'm curious just to see what you'll ask.}
@@ -116,7 +116,7 @@
 {215}{}{You win. It's about eight or nine days' travel due east, in the side of a mountain. I'll draw you a map.}
 {216}{LIEUT38}{Ah, I feel much better. And you? Now, be a good little human and tell me where your Vault is. This is getting most tedious.}
 {217}{}{Go to hell.}
-{218}{}{I'll tell! Just don't hurt me anymore!}
+{218}{}{I'll tell! Just don't hurt me any more!}
 {219}{}{I do so admire your will. Guards, take him back to his cell and get him ready for dipping. He'll tell us where his Vault is when he is one of us.}
 {220}{}{If you're so sure I'll tell after dipping, then why all of this?}
 {221}{LIEUT39a}{Well, you see, there is this minor drawback. Sometimes, not always, a person's memory is, um... how shall we say, interrupted by dipping. So there is a small chance you'll forget the location.}
@@ -171,6 +171,9 @@
 {270}{LIEUT45m}{Well, I'm quite impressed. My spies told me you were resourceful, but they seemed to have underestimated your talents. Guards, capture him!}
 {271}{LIEUT39f}{Oh, I do so admire your will. Guards, take her away and prepare her for the dipping. She'll tell us where her Vault is when she is one of us.}
 {272}{LIEUT39m}{I do so admire your will. Guards, take him to his cell and prepare him for the dipping. He'll tell us where his Vault is when he is one of us.}
+
+#Fallout Fixt
+{273}{}{I do hope you enjoyed the dipping process as much as I did administering it. Run along now; I have work to do.}
 
 
 # Lieutenant Tell-Me-Abouts generic responses

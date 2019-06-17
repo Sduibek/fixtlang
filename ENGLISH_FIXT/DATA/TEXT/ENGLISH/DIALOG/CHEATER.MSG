@@ -1,14 +1,3 @@
-# TRANSLATION NOTE:
-# PLAYERS WILL ONLY SEE THESE MESSAGES IF THEY ARE TESTERS
-#
-# Numbers in front of entries are to let the player know
-# which number they can hit on keyboard
-# to navigate dialog using keyboard
-#
-# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
-# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
-# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
-#
 {100}{}{Do you wish to enter the debug dialog? [If unsure, click No]}
 {101}{}{1  Roll back the clock.}
 {102}{}{Okay. How much? [Numbers at beginning are number you can hit to choose that selection]}
@@ -37,6 +26,30 @@
 {125}{}{3    Never mind.}
 {126}{}{8    13 years}
 {127}{}{8    13 years}
+{128}{}{7  Give items (by type)}
+{129}{}{1  Testing Weapons & All Ammo}
+{130}{}{2  Drugs}
+{131}{}{3  Food (including new Fixt ones)}
+{132}{}{4  Keys (in inventory or in backpack)}
+{133}{}{5  900000 Bottle Caps (& Small Bag, Bag, Backpack)}
+{134}{}{6  Explosives & Throwing Weapons}
+{135}{}{7  Books}
+{136}{}{8  Holodisks (& Radio)}
+{137}{}{9  Armor}
+{138}{}{Each of these selections, including Ammo, except "Testing Weapons", gives ALL items from that category.}
+{139}{}{1  Yes, and delete current inventory first.}
+{140}{}{2  Yes.}
+{141}{}{3  No. [back]}
+{142}{}{Give Testing Weapons & All Ammo?}
+{143}{}{Give All Drugs?}
+{144}{}{Give All Food (including new Fixt ones)?}
+{145}{}{Give All Keys (in inventory or in backpack)?}
+{146}{}{Give 900000 Bottle Caps (& Small Bag, Bag, Backpack)?}
+{147}{}{Give All Explosives & All Throwing Weapons?}
+{148}{}{Give All Books?}
+{149}{}{Give All Holodisks (& Radio)?}
+{150}{}{Give All Armor?}
+#
 {200}{}{How may I Cheat you today?}
 {201}{}{1  Experience.}
 {202}{}{2  Damage, Poison, Radiation.}
@@ -62,8 +75,8 @@
 {225}{}{3    Cripple Left Arm}
 {226}{}{4    Cripple Right Arm}
 {227}{}{5    Blind Me }
-{228}{}{8    Don't hurt me. [wimper]}
-{229}{}{TEST ROLLS mmm, rolls}
+{228}{}{8    Fully heal, remove all poison, remove ALL rads.}
+{229}{}{TEST ROLLS (mmm, rolls)}
 {230}{}{Done.}
 {231}{}{message here}
 {232}{}{1    500}
@@ -99,7 +112,7 @@
 {262}{}{Okay, which map?}
 {263}{}{5  Modify game time (roll back or forward)}
 {264}{}{6  Give me cheater debug items (lots)}
-{265}{}{Yes.}
+{265}{}{Yes. (Also deletes all existing inventory & equipped)}
 {266}{}{Okay, roll back or roll forward?}
 {267}{}{Are you sure?}
 {268}{}{No. [back]}
@@ -107,14 +120,15 @@
 {270}{}{2  Junktown,  Brotherhood of Steel,  City}
 {271}{}{3  Children of Cathedral, Master's Vault, Coast, Mountain}
 {272}{}{4  The Hub}
-{273}{}{5  Boneyard Adytum,  Raiders}
-{274}{}{6  Shady Sands,  Military Base}
+{273}{}{5  Boneyard, Adytum,  Raiders}
+{274}{}{6  Shady Sands,  Military Base, CHILDEAD}
 {275}{}{7  The Glow,  Desert}
 {276}{}{8  Caravans}
 {277}{}{9  Specials}
 {278}{}{9    Never mind.}
 {279}{}{7    Never mind.}
-{280}{}{8    Endgame Slideshow.}
+{280}{}{8    Play the Endgame Slideshow.}
+#
 {300}{}{DESERT1.MAP}
 {301}{}{DESERT2.MAP}
 {302}{}{DESERT3.MAP}
@@ -182,3 +196,6 @@
 {364}{}{MNTCRVN4.MAP}
 {365}{}{HUBMIS0.MAP - Irwin}
 {366}{}{HUBMIS1.MAP - Irwin}
+#
+{400}{}{You are currently level: }
+{401}{}{. }

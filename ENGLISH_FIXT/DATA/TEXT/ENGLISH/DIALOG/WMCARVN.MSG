@@ -21,7 +21,7 @@
 {120}{}{Well, just stop by if you decide to work for us. That's the 1st, 5th, and so on. Bye.}
 {121}{}{I'm sorry, but I can't hire you unless you can communicate clearly with the rest of the crew.}
 {122}{}{Please come back when you are feeling better.}
-{123}{}{Uh, are you alright? I think you need to get something to eat, but don't go to Bob's.}
+{123}{}{Uh, are you all right? I think you need to get something to eat, but don't go to Bob's.}
 {124}{}{I said get lost!}
 {125}{}{I'm quite disappointed in you... stealing! Now why did you do that?}
 {126}{}{Cuz I'm a mean green moth'a from outer space, and I'm... 'bad'!}

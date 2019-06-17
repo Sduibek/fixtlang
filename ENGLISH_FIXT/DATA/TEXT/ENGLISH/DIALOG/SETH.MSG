@@ -36,7 +36,7 @@
 {202}{}{Are you sure you want to return there? It is a long journey, and you have removed the threat of them.}
 {203}{}{Okay. Enjoy your stay here.}
 {204}{}{Welcome to Shady Sands, stranger. Please holster that weapon while you are here.}
-{205}{}{Hello stranger. Welcome to Shady Sands.}
+{205}{}{Hello, stranger. Welcome to Shady Sands!}
 {206}{}{You should speak to Aradesh, our leader. He likes to meet all of our visitors. He should be in our Town Hall, the building to the south.}
 
 {300}{}{Thank Dharma you're here wanderer. My girl... uh, Tandi, Aradesh's daughter, has been kidnapped. We believe the raiders have her.}

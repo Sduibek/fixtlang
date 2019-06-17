@@ -59,7 +59,8 @@
 {208}{}{Security Information}
 {209}{}{Research Information}
 {210}{}{Power Terminus}
-{211}{}{West Tech Research Facility:                                             Founded in 2002 as a private contractor for the United States government, the company initially consisted of two divisions - the Advanced Weapons Research and the Biomedical Sciences divisions.}
+{211}{}{West Tech Research Facility:                                             Founded in 2002 as a private contractor for the United States government, the company initially consisted of two divisions - 
+the Advanced Weapons Research and the Biomedical Sciences divisions.}
 {241}{}{ In 2069, West Tech was the single largest contractor for the United States government; its largest contract being Powered Infantry Armor Model T-51b. }
 {242}{}{In light of significant advances in 2076 by the NBC on the Pan-Immunity Virion Project, the United States Defense Department, in fear of international espionage,}
 {243}{}{ moved a team onto the site to secure and oversee the project, now dubbed the FEV (Forced Evolutionary Virus) project.}

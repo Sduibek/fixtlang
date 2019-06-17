@@ -1,6 +1,6 @@
 {100}{}{You see: Harold.}
 {101}{HROLD0}{Spare change, old friend, old pal? Can you help a poor mutant down on his luck? *cough*}
-{102}{}{Yeah, here are 25 caps. Good luck to you.}
+{102}{}{Yeah, here's 25 caps. Good luck to you.}
 {103}{}{How about 5 caps?}
 {104}{}{Sorry, don't have any money on me.}
 {105}{}{Keep away from me!}
@@ -109,7 +109,7 @@
 {208}{HROLD37}{You're as bad as the rest of them. *wheezing cough*}
 {209}{HROLD38}{Oh well, thanks anyway. *cough*}
 {210}{HROLD39}{Hey, can you help me out, friend?}
-{211}{}{Yeah, here are 25 caps.}
+{211}{}{Yeah, here's 25 caps.}
 {212}{}{Take 5 caps.}
 {213}{}{Don't bug me.}
 {214}{}{Uhhh?}
@@ -117,7 +117,7 @@
 {216}{}{Why do you say that?}
 {217}{}{Nah, not me! Have a good one.}
 {218}{HROLD41}{Oh, hey, it's you again.}
-{219}{}{Here are 20 caps, if you need it.}
+{219}{}{Here's 20 caps, if you need it.}
 {220}{}{Hi.}
 {221}{}{Uhh?}
 {222}{hrold42}{Just putting me on, huh?}

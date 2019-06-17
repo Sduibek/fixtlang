@@ -1,17 +1,3 @@
-# For lines 177 and 180 and 181, spaces are intentional.
-# Line 177 is prepended to encounter type. (they begin at 183 below)
-{177}{}{You encounter }
-{178}{}{Yes.}
-{179}{}{No.}
-{180}{}{You earn }
-{181}{}{ experience for successful use of your Outdoorsman skill.}
-# Line 182 is appended after 177 and the encounter type. Period and space is intentional.
-{182}{}{. Do you wish to engage?}
-# These are apended to line 177.
-{183}{}{Floaters}
-{184}{}{Manti}
-{185}{}{Rats}
-{186}{}{Peasants attacked by Raiders}
 #
 #
 # TRANSLATORS: Ignore these blank entries, but do not delete them.
@@ -279,7 +265,7 @@
 {136}{}{You come across a merchant with several guards.}
 {174}{}{You come across the remnants of a merchant and his guards.}
 {137}{}{You see a peasant herding several brahmin.}
-{139}{}{Radscorpions hunt mole rats among the ruined city walls.}//Sduibek, Fallout Fixt
+{139}{}{Radscorpions hunt mole rats among the ruined city walls.}
 {172}{}{You have stumbled across some items laying on the ground.}
 {176}{}{You have stumbled across a small patch of ruined and deserted buildings.}
 #

@@ -37,5 +37,5 @@
 {139}{}{I don't know why I'm wasting my time with you.}
 {140}{}{Yes? Oh, I suppose you're looking for more training. Well, I don't sleep much anymore anyhow, why not. What shall it be?}
 {141}{}{Now what? More stupid questions?}
-{142}{}{Oh, that's alright. As I said, I hardly ever sleep. Come back any time.}
+{142}{}{Oh, that's all right. As I said, I hardly ever sleep. Come back any time.}
 {143}{}{Well, stop pestering me then. I'm an old man and I need my beauty sleep.}

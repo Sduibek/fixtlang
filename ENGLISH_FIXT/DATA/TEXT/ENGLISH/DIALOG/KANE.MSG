@@ -287,7 +287,7 @@
 {388}{}{Uh, yeah. Sure, buddy. What ever you say.}
 {389}{}{Uh, yeah. Sure, lady. What ever you say.}
 {390}{}{Do you have any to sell then?}
-{391}{}{Alright then. Bye!}
+{391}{}{All right then. Bye!}
 {392}{}{[Kane looks at one of his thugs and shrugs his shoulders]}
 {393}{}{No I DON'T! Now, leave.}
 {394}{}{Mary? I don't know a Mary... I don't have TIME for this! I don't even know who you're talking about. If she wants money tell her to come talk to me herself!}
@@ -302,7 +302,7 @@
 {403}{}{This way.}
 {404}{}{You know the way, let's go.}
 {405}{}{Open it up boys.}
-{406}{}{Alright.}
+{406}{}{All right.}
 {407}{}{Okay.}
 {408}{}{You can want all you like, now take a hike.}
 {409}{}{Do you have any more jobs?}
@@ -341,7 +341,7 @@
 {442}{}{[Kane just glares at you.]}
 {443}{}{You survived my goodbye party... I don't know how you did it, I must have underestimated you. Leave and you might live.}
 {444}{}{[Kane ignores you, but has his weapon ready to shoot.]}
-{445}{}{Alright! Out you go!}
+{445}{}{All right! Out you go!}
 {446}{}{I won't tell you again. Get the hell out.}
 {447}{}{I warned you. Okay guys, let 'im have it!}
 {448}{}{I warned you. Okay guys, let 'er have it!}
@@ -352,7 +352,7 @@
 {453}{}{[Kane gives you a deadly look] Well then... I'll try to get you in to see him sometime soon. I'll be sure to show you to him - piece by piece.}
 {454}{}{I'm sorry you feel that way. I hope you 'enjoy' the rest of your stay here in our wonderful city. }
 {455}{}{[Kane ignores you.]}
-{456}{}{[Kane stares at you for a few seconds] Alright. I'll give you one last chance to see him. Follow me.}
+{456}{}{[Kane stares at you for a few seconds] All right. I'll give you one last chance to see him. Follow me.}
 {457}{}{[Kane stares at you for a few seconds] You missed your chance. Beat it.}
 {458}{}{What the hell are you doing back here?!?! You must be an even bigger idiot than I thought. I knew Decker shouldn't have hired an unknown.}
 {459}{}{What are you talking about?}

@@ -21,7 +21,7 @@
 {120}{}{Who do you want to bet on, Saul or the challenger? Odds favor Saul winning. Cost is 25 caps to bet; you get 50 if you win betting on Saul, 100 if you win betting on the challenger!}
 {121}{}{I'll bet on Saul.}
 {122}{}{I'll bet on the challenger.}
-{123}{}{Alright, I guess.}
+{123}{}{All right, I guess.}
 {124}{}{Who's the boxer?}
 {125}{}{Who runs these matches?}
 {126}{}{Uh, never mind.}

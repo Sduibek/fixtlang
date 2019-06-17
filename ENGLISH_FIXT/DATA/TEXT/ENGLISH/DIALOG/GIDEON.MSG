@@ -84,7 +84,7 @@
 {400}{}{You see: Wiggum, a complete loser. He is wearing a crown.}
 {401}{}{You see what looks to be a complete loser.}
 {402}{}{I'm tired.}
-{403}{}{My life is Hell.}
+{403}{}{My life is hell.}
 {404}{}{I'm tired of living.}
 {405}{}{Darkness comes.}
 {406}{}{Whatever.}

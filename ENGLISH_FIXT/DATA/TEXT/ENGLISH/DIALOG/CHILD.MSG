@@ -12,6 +12,12 @@
 {111}{}{I'm gonna tell my mommy!}
 {112}{}{Then you shouldn't carry around a weapon like that.}
 
+{200}{}{Sorry, mister.}
+{201}{}{Sorry, ma'am.}
+
+{300}{}{You see: Boy.}
+{301}{}{You see: Girl.}
+
 {980}{}{Huh?}
 {981}{}{I dunno. Ask mommy.}
 {982}{}{Ask daddy.}

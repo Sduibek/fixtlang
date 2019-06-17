@@ -6,7 +6,7 @@
 #
 # Vault 15:
 #
-{102}{}{A small shack is all that remains of this area. Fortunately, your records indicate a secondary entrance to Vault 15 here.}
+{102}{}{A small shack is all that remains in this area. Fortunately, your records indicate there's a secondary entrance to Vault 15 here.}
 #
 # Raiders:
 #
@@ -54,7 +54,7 @@
 #
 # ???
 #
-{117}{}{Scorch marks and ashes cover the area.}
+{117}{}{Ashes and smoldering debris cover the area.}
 {118}{}{This area looks like it was hit by a high-pressure firebomb.}
 {119}{}{You see the camp of a traveling raider band. Looks like you've come to the wrong place at the wrong time.}
 #

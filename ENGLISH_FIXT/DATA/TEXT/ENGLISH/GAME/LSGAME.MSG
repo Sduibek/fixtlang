@@ -1,24 +1,24 @@
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
 #
 # Text labels and messages used in LOADSAVE.C
 #
 # (These MUST match "text message" enumeration on the top of LOADSAVE.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±?
 
 # System
 {100}{}{LOAD GAME}              # Titles
 {101}{}{PICK A QUICK LOAD SLOT}
 {102}{}{SAVE GAME}
 {103}{}{PICK A QUICK SAVE SLOT}
-{104}{}{DONE}
+{104}{}{SELECT}
 {105}{}{CANCEL}
 {106}{}{Error loading save game list!} # Line 1
 {107}{}{Save game directory:}    # Line 2
 {108}{}{Doesn't exist or is corrupted.} # Line 3
 {109}{}{SAVE SLOT}
 {110}{}{SAVE SLOT}
-{111}{}{----- EMPTY -----}
+{111}{}{- EMPTY -}
 {112}{}{- CORRUPT SAVE FILE -}
 {113}{}{- OLD VERSION -}
 {114}{}{This save slot is empty.}

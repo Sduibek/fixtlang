@@ -54,13 +54,13 @@
 {201}{}{Hmm... I wish I could read.}
 {300}{}{Mind your own business, would you?}
 {400}{}{I'm not paid to talk.}
-{501}{}{Care to tell me why you abandoned the fucking caravan?? I can't believe it! Lucky for you, they finished without yer sorry ass! Get out! I'm not paying you anything!}
-{502}{}{I can't believe it! We've lost the whole caravan! Get out! I ain't paying you anything!}
-{504}{}{Go to the boss and try to come up with a credible story for why you abandoned the fucking caravan. Maybe then you'll get yer money, but I doubt it.}
-{505}{}{I can't believe it! We've lost the whole caravan! I ain't paying you anything. Get out of my face.}
-{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses y'know. Here's your payment of }
+{501}{}{Care to tell me why you abandoned the fucking caravan?! I can't believe it! Lucky for you, they finished without yer sorry ass. Get out! I ain't paying you anything!}
+{502}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
+{504}{}{You've got some nerve. Get out of here, and try to think up a credible story for the boss about why you abandoned the fucking caravan! Maybe then you'll get yer money, but I doubt it.}
+{505}{}{I can't believe it! We've lost the whole fucking caravan! I ain't paying you a single god-damn cap. Get the hell out of my face.}
+{600}{}{Well, here we are. I can't pay you the normal rate, since we lost some of the caravan. Gotta cover our losses, y'know. Here's your payment of }
 {601}{}{ caps. (He pulls out an old, dog-eared bag and gives you the caps) You'll get another }
-{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy.}
+{602}{}{If you want more work, just go talk to the boss. I'd be okay working with you again. Take it easy!}
 {603}{}{ caps. (He pulls out an old dog-eared bag and gives you the caps) }
 {604}{}{Okay, you made it. I can't pay you anything since we lost the whole caravan. Gotta cover our losses y'know. I wish it could be different but that's the rules.}
 {605}{}{Okay, you made it. I can't pay you anything since all of the brahmin died. You cost us a lot of money, bub. No brahmin, no caravan, no money. I hope they don't let you work with us again.}

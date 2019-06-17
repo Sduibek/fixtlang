@@ -64,7 +64,8 @@
 {157}{}{Your Intelligence has increased by }
 {158}{}{Your Agility has increased by }
 {159}{}{Your Luck has increased by }
-{160}{}{points.}
+#Space at beginning of 160 is intentional
+{160}{}{ points.}
 
 {161}{}{Your Strength has increased by 1 point.}
 {162}{}{Your Perception has increased by 1 point.}
@@ -76,8 +77,6 @@
 
 {168}{}{Thanks for your help.}
 {169}{}{Thanks for nothing.}
-
-{170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
 
 {171}{}{I believe the Master wishes to speak with you.}
 {172}{}{You shall pay for your BLASPHEMY!}
@@ -96,7 +95,7 @@
 {180}{}{You fail to steal anything and wonder if you got caught.}
 {181}{}{The Brotherhood members have caught you stealing.}
 
-{182}{}{}
+{182}{}{You see: Marauding Super Mutant.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
@@ -117,10 +116,14 @@
 ##################################################
 ##################################################
 
+# Stupid character interacting with hirelings
+{194}{}{Fren move! [You scowl and stamp your feet]} # Call "Step Aside" code
+{195}{}{Go, go, no need fren.} # Telling NPC to leave party
+{196}{}{We be fren?} # Request NPC to rejoin party
 
 #"Push" telling Tycho/Ian/Katja to move if they're blocking your path
 {190}{}{Step aside, please.}
-{197}{}{Get the fuck out of my way!}
+{197}{}{}
 
 #What the NPC says after you've made them move
 {300}{}{Okay.}
@@ -128,29 +131,27 @@
 {302}{}{Oh, excuse me.}
 
 # System messages
+
+{291}{}{Tycho has gained a level!}
 {191}{}{Tycho is now level }
+{292}{}{Ian has gained a level!}
 {192}{}{Ian is now level }
+{293}{}{Katja has gained a level!}
 {193}{}{Katja is now level }
 {294}{}{You are now level }
+{295}{}{. }
+{296}{}{ (max).}
 
+#Fixt tracks when the poison is gone and alerts with this msg.
 {214}{}{The poison has left your system.}
 
 {400}{}{The blast greatly weakens this energy field. It should now be harmless to pass through.}
 
-# Stupid character interacting with hirelings
-# TRANSLATION NOTE: Messages 194, 195, 196 have poor grammar,
-#  improper spelling and improper capitalization on purpose
-#  because they are for a character with Intelligence of 3 or less.
-# The same should be done with translated versions.
-{194}{}{you move? in my WAY! *frown*}# Call "Step Aside" code
-{195}{}{go go, no need frend.}# Telling NPC to leave party
-{196}{}{we be frend?}# Request NPC to rejoin party
-
 # Hireling inspections
 # Spaces at the beginning and end of 198 and 199 are intentional, do not remove them.
 #
-{198}{}{ He is wearing }
-{199}{}{ She is wearing }
+{198}{}{ He is wearing: }
+{199}{}{ She is wearing: }
 {188}{}{Metal Armor.}
 {189}{}{Leather Armor.}
 {204}{}{Power Armor.}
@@ -174,7 +175,7 @@
 {218}{}{You must have a lot of time on your hands to be checking yourself out like this.}
 
 # Giving item to hireling (Ian/Tycho/Katja)
-{215}{}{Thanks, i'll make good use of that in combat!}
+{215}{}{Thanks, I'll make good use of that in combat!}
 
 # For what distance hirelings should be from player
 {216}{}{ Walk when close.}
@@ -198,10 +199,11 @@
 
 #### NOT USED ####
 {403}{}{You have died. The Vault is doomed.}
+
 #
 # For displaying player title on levelup, if user chose for that to be enabled
-# space at the end of 404 is intentional, do not remove it.
 #
+# space at the end of 404 is intentional, do not remove it.
 {404}{}{Your title: }
 {405}{}{Vault Dweller.}
 {406}{}{Vault Scion.}
@@ -214,7 +216,7 @@
 {413}{}{Strider.}
 {414}{}{Desert Strider.}
 {415}{}{Strider of the Wastes.}
-{416}{}{Strider Elite.}
+{416}{}{Elite Strider.}
 {417}{}{Vault Hero.}
 {418}{}{Wandering Hero.}
 {419}{}{Striding Hero.}
@@ -223,30 +225,69 @@
 {422}{}{Hero of the Glowing Lands.}
 {423}{}{Paragon.}
 {424}{}{Living Legend.}
-{425}{}{Last, Best Hope of Humanity.}
+{425}{}{Myth of the Wastes.}
 #
-## Warning player if loading character from old version of Fixt
+# these for for those who choose to level past 21 with ddraw/Sfall.
 #
-#### OLD, not used, 433 and 434 are now used instead ####
+{426}{}{Revenant Paragon.}
+{427}{}{Striding Paragon.}
+{428}{}{Paragon of the Wastes.}
+{429}{}{Elite Paragon.}
+{430}{}{Legendary Paragon.}
+{431}{}{Supreme Paragon.}
+{432}{}{Striding Commander.}
+{533}{}{Commander of the Wastes.}
+{534}{}{Elite Commander.}
+{535}{}{Legendary Commander.}
+{536}{}{Supreme Commander.}
+{537}{}{Striding Exemplar.}
+{538}{}{Exemplar of The Wastes.}
+{539}{}{Elite Exemplar.}
+{540}{}{Legendary Exemplar.}
+{541}{}{Supreme Exemplar.}
+{542}{}{Mythical Wanderer.}
+{543}{}{Mythical Strider.}
+{544}{}{Mythical Elite.}
+{545}{}{Mythical Paragon.}
+{546}{}{Mythical Commander.}
+{547}{}{Mythical Exemplar.}
+# lvl 44-98
+{548}{}{Mythical Hero.}
+# for people crazy enough to reach lvl 99, a Wasteland easter egg.
+{549}{}{Supreme Jerk.}
+# displaying title when examining self. Spaces are intentional!
+{550}{}{You see: }
+#male player - "You see: John, the/a Vault Dweller."
+# currently just uses 551, "the"
+{551}{}{, the }
+{553}{}{, a }
+#female player - "You see: Jane, the/a Vault Dweller."
+# currently just uses 552, "the"
+{552}{}{, the }
+{554}{}{, a }
 #
-{426}{}{You have loaded a game from a version of Fallout older than Fallout Fixt }
-# 427 is inserted after 426
-{427}{}{VERSION_NUM_HERE - }
-# 428 is inserted after 427
-{428}{}{playing from this save may result in glitches, unintended game behavior, or crashes. Apologies for the inconvenience and for this dialog.}
-{429}{}{[Continue] I understand the risk and wish to continue playing.}
-{430}{}{[Return to main menu] Hmm. I do not wish to continue loading this savegame.}
-{431}{}{Ugga-wuh?}
-# 432 not used
-{432}{}{[Continue] I understand the risk and agree not to report gameplay bugs when playing characters from older versions. (Bugs such as typos are still reportable)}
+## Used for display of version / version confirmation on self-examine
 #
-#### NEW, used ####
-#
-#system msg
-{433}{}{WARNING: Save is from an old version of Fixt. Might get glitches or crashes.}
-#float msg over character, currently disabled
-{434}{}{I'm from an older version!}
-
+{433}{}{Pip-Boy displays: "FixtOS v}
+# IMPORTANT - update each release - line 434 will contain the Fallout Fixt version that this file is from (will match MISC.MSG and VAULT13.GAM)
+# space at the end of 434 is intentional
+{434}{}{0.9.0 }
+{435}{}{active}
+{436}{}{. Simulation began on FixtOS v}
+{437}{}{. Upgraded from FixtOS v}
+{438}{}{0.}
+{439}{}{.}
+{440}{}{alpha}
+{441}{}{beta}
+{442}{}{"}
+{443}{}{. Simulation began on FixtOS v0.5.3 or older.}
+{444}{}{}
+{445}{}{}
+{446}{}{}
+{447}{}{}
+{448}{}{}
+{449}{}{}
+{450}{}{}
 #
 # For door to Brotherhood armory (weapons/armor stash on Lvl1)
 #
@@ -257,6 +298,7 @@
 {503}{}{You earn }
 {504}{}{ experience for successful use of explosives.}
 {505}{}{The blast doesn't quite destroy the door. You'll need one more.}
+{506}{}{Hmm, that doesn't seem to work.}
 
 #
 # For guards within Brotherhood armory (weapons/armor stash on Lvl1)
@@ -273,13 +315,54 @@
 # For endgame (when blowing up Vats, and Master's Vault. Both give the XP but didn't notify user previously.)
 #
 {700}{}{You earn 10000 experience!}
-{701}{}{You earn 10000 experience for destroying the Vats.}
-{702}{}{You earn 10000 experience for destroying The Master.}
+{701}{}{You earn 10000 experience for destroying the Vats!}
+{702}{}{You earn 10000 experience for eliminating The Master!}
 
 {800}{}{Why are you talking to rats?}
 
-# Used to replace "Days Left: #" Post-It note in PIP-Boy 2000, since that cannot be available in Fallout 2 engine.
+# Used to replace "Days Left: #" Post-It note in Pip-Boy 2000, since that cannot be available in Fallout 2 engine.
 # These messages will appear in the console window (bottom-left of game screen) at regular intervals.
-{900}{}{PIP-Boy 2000 displays "VAULT 13 WATER: }
+{900}{}{Pip-Boy displays: "VAULT WATER - }
 {901}{}{}
 {902}{}{ DAYS LEFT."}
+{903}{}{ DAY LEFT."}
+
+# In Fixt, setting a timer with explosives in your hand(s) causes you to drop them. This is to notify player of that.
+{1000}{}{You place the ticking explosives at your feet.}
+
+# Messages when getting rads during combat with irradiated critters (glowing ones, radrats, etc)
+# Listed in different formats, in case I want to implemented user choice of how it displays.
+{1001}{}{You receive a small dose of radiation.}
+{1002}{}{You receive a moderate dose of radiation.}
+{1003}{}{You receive a large dose of radiation.}
+{1004}{}{You have been mildly irradiated.}
+{1005}{}{You have been moderately irradiated.}
+{1006}{}{You have been strongly irradiated.}
+{1007}{}{You've been irradiated!}
+#currently using 1008 to 1010, as that matches with vanilla game's phrasing (1011).
+{1008}{}{You have received a mild dose of radiation.}
+{1009}{}{You have received a small dose of radiation.}
+{1010}{}{You have received a moderate dose of radiation.}
+{1011}{}{You have received a large dose of radiation.}
+
+# To inform player of stat drops:
+{1153}{}{Your Strength was decreased by }
+{1154}{}{Your Perception was decreased by }
+{1155}{}{Your Endurance was decreased by }
+{1156}{}{Your Charisma was decreased by }
+{1157}{}{Your Intelligence was decreased by }
+{1158}{}{Your Agility was decreased by }
+{1159}{}{Your Luck was decreased by }
+#Space at beginning of 1160 and 1161 is intentional
+{1160}{}{ points.}
+{1161}{}{ point.}
+
+# if enabled option to play as Super Mutant after being dipped, because the animation frames for most weapon types are lacking, this is an RP way to enforce those weapons not used to avoid crashes.
+{170}{}{Your attempt to equip human armor has failed; the armor is destroyed.}
+{1170}{}{Your attempt to wield a human weapon has failed; the weapon is destroyed.}
+{1171}{}{Your large hands are too clumsy to wield the human weapon, and it falls to your feet.}
+
+# since Berserker display in character screen is bugged, it's now a message box notification.
+{1180}{}{You have killed a large number of innocent people. You're now a Berserker! This generally isn't a good thing to be known for, and you are clearly a very bad person.}
+{1181}{}{You are no longer a Berserker.}
+

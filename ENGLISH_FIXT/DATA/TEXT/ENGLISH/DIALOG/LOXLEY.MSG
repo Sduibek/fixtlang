@@ -1,4 +1,4 @@
-{100}{}{You see: Loxley, leader of the Thieves' Circle.}
+{100}{}{You see Loxley, leader of the Thieves' Circle.}
 {101}{LOX_0}{It's a little gift from me Da and Mum. Actually, a few generations before that. Do you like it?}
 {102}{}{It suits you.}
 {103}{}{No, it hurts my ears.}

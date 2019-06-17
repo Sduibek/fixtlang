@@ -14,3 +14,12 @@
 {113}{}{I'm not paid to talk.}
 {114}{}{Mind your own business, would ya?}
 {115}{}{Mind your own business, would ya?}
+
+# upon map load
+
+{200}{}{Let's do this!}
+{201}{}{Hope I have enough bullets...}
+{202}{}{Aim for the eyes!}
+{203}{}{Protect the caravan!}
+{204}{}{Stay sharp, everyone.}
+

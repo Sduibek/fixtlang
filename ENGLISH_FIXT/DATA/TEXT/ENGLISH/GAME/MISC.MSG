@@ -7,7 +7,7 @@
 #
 # Defined in game.h
 #
-{0}{}{Are you sure you want to quit?}
+{0}{}{End simulation and return to main menu?}
 {1}{}{Demo version}
 {2}{}{Default character will be used.}
 {3}{}{Saved screenshot.}
@@ -21,10 +21,10 @@
 {11}{}{LOAD GAME}
 {12}{}{CREDITS}
 {13}{}{EXIT}
-{14}{}{FALLOUT v1.2 Copyright(c) 1997 Interplay Productions. TeamX v1.3.5, Fallout Fixt 0.81alpha}
+{14}{}{Fallout Fixt v0.TESTING by Sduibek. DOWNLOAD: Testing. INSTALL: Testing.}
 {15}{}{Action Points}
 {16}{}{Hit Points}
-{17}{}{Motion sensor not found!}
+{17}{}{Error: motion sensor not available!}
 {18}{}{The motion sensor has no charges remaining.}
 #
 # Game config text. Defined in gconfig.c
@@ -42,8 +42,8 @@
 {1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}
 {1006}{}{You have died from radiation sickness.}
 {1007}{}{You have received a large dose of radiation.}
-{1008}{}{The Geiger counter is clicking.}
-{1009}{}{The Geiger counter is clicking wildly.}
+{1008}{}{The geiger counter is clicking.}
+{1009}{}{The geiger counter is clicking wildly.}
 #
 # Message used in actions.c
 #
@@ -53,11 +53,11 @@
 # poison messages from critter.c
 #
 {3000}{}{You have been poisoned!}
-{3001}{}{You take damage from poison.}
+{3001}{}{You sustain 1 hit point of damage from the poison.}
 #
 # from queue.c
 #
-{4000}{}{Due to your inept handling, the explosive detonates prematurely.}
+{4000}{}{Due to your inept handling, the explosives detonate prematurely.}
 #
 # from combatai.c
 #

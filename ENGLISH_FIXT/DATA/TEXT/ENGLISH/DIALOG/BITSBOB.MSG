@@ -17,7 +17,7 @@
 {116}{}{You've got a lot of nerve showing your face around here. Get lost!}
 {117}{}{Hey, I don't want any trouble!}
 {118}{}{Hi! Welcome to Bob's Iguana Bits, the family eating place. May I take your order?}
-{119}{}{No way, forget it.}
+{119}{}{Fuck you.}
 {120}{}{You are? Well, okay...}
 {121}{}{He's a mean son of a bitch. You don't want to mess with him. Anything else?}
 {122}{}{Fine. What do you want me to pay?}
@@ -146,7 +146,7 @@
 ##Sduibek -- Fallout Fixt
 ##
 {243}{}{Thirty caps?! Are you kidding me?}
-{244}{}{Look, you're the one who ruined my profit margins. So if you don't like my prices, fuck off. There are plenty of other iguana stands around here. Oh wait, there aren't. Asshole.}
+{244}{}{Look asshole, you're the one who ruined my profit margins. So if you don't like my prices, fuck off. There's plenty of other iguana stands around here. Oh wait, there isn't. Asshole.}
 {245}{}{Terrible, thanks to you. Nobody likes snitches. Now, if you ain't here to buy anything, get out of my face.}
 {246}{}{Whatever. Bye.}
 {247}{}{Actually, come to think of it, I am pretty hungry.}
@@ -155,8 +155,8 @@
 {251}{}{How's business, Bob? *wink*}
 #
 # 252 to 260 take place while Bob is in jail
-{252}{}{What the hell are you doing here? You shut down my business and got a big fat reward, I'm sure. So you're just here to gloat or what?}
-{253}{}{Pretty much, yeah. How's business, Bob? *wink*}
+{252}{}{What the hell are you doing here? You shut down my business and got a big fat reward I'm sure. So you're just here to gloat or what?}
+{253}{}{Pretty much, yeah. How's business, Bob? [you wink at him]}
 {254}{}{Nah, just checking to see how you're doing.}
 {255}{}{Terrible, thanks to you. Nobody likes snitches. They might let me die in here for all I know.}
 {256}{}{Serves you right.}

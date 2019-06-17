@@ -22,11 +22,11 @@
 {116}{}{What?! You'll pay for that remark!}
 {117}{}{We don't bother Killian and he doesn't bother us as long as we keep it low-key. You get me?}
 {118}{}{Yeah. Bye.}
-{119}{}{I get it, alright. You have to hide out from him.}
+{119}{}{I get it, all right. You have to hide out from him.}
 {120}{}{We don't take that from anybody, least of all Killian! Just because he thinks he's a glorified sheriff doesn't mean that he controls the Skulz!}
 {121}{}{Sorry, didn't mean to get you all riled up.}
 {122}{}{So, he cramps your style, eh? Mine, too. In fact, I'm thinking of whacking him. You want in?}
-{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know... alright, I'm in.}
+{123}{}{You want to whack Killian? Man, you're crazy. Man, I don't know... all right, I'm in.}
 {124}{}{You loser, you said we were going to whack Killian. Get out of here.}
 {125}{}{C'mon, let's dust Killian.}
 {126}{}{What do you want now?}
@@ -44,7 +44,7 @@
 {138}{}{You're right, I'll be leaving now.}
 {139}{}{What makes the Skulz so tough?}
 {140}{}{[Vinnie thinks for a second.] If you want to prove you belong in the Skulz, I want you to steal that old bastard's wife's ashes. Heh. [Vinnie mumbles] Let's make Neal suffer for his last couple of hours... }
-{141}{}{Alright, I'll do it.}
+{141}{}{All right, I'll do it.}
 {142}{}{No way.}
 {143}{}{Uh, I don't think I could do that.}
 {144}{}{I already stole it.}
@@ -61,7 +61,7 @@
 {155}{}{I've got some other shit to do before then - I'll meet you there.}
 {156}{}{What are you wasting my time for?}
 {157}{}{That'll show that old fuck. Thanks for taking care of him for us. [Vinnie gets a tear in his eye] You're a Skul, now.}
-{158}{}{Uh, alright... meet us later, but don't take too long.}
+{158}{}{Uh, all right... meet us later, but don't take too long.}
 {159}{}{Soon, Neal gets his, huh?}
 {160}{}{We said we'd be back, you old fuck!}
 {161}{}{There's a large collection of people arriving at the bar...}

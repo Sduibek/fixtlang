@@ -24,7 +24,7 @@
 {123}{}{}
 {124}{}{ [Saul laughs heartily.]}
 {125}{}{ [Saul laughs threateningly.]}
-{126}{}{Alright. This should be quick.}
+{126}{}{All right. This should be quick.}
 {127}{}{Put up or shut up.}
 {128}{}{Well, you're in the right place if you're looking for someone to pound that ugly mug of yours into a better shape.}
 {129}{}{I'm Saul.}

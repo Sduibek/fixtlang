@@ -9,7 +9,7 @@
 {108}{}{I'm just passing through. No need for identities here.}
 {109}{}{Die! Die! Die! I always wanted to say that.}
 {110}{}{I will not be spoken to that way. You will be punished.}
-{111}{}{Halt! What is your business here, 'child'.}
+{111}{}{Halt! What is your business here, "child".}
 {112}{}{Hng!}
 {113}{}{I'm, uh, doing stuff.}
 {114}{}{I'm on important business. You have no right to stop and question me.}
@@ -32,7 +32,7 @@
 {131}{}{I'm here to protect humanity from the likes of you.}
 {132}{}{Oh, shut up!}
 {133}{}{You should not try to fool me by playing dumb. I tire of this...}
-{134}{}{What kind of foolish bigotry is that? We are 'humanity'. We're just as human as you are.}
+{134}{}{What kind of foolish bigotry is that? We are "humanity". We're just as human as you are.}
 {135}{}{What kind of crap is that?}
 {136}{}{There is no possible way that you are human.}
 {137}{}{My name is Kyle. I was born to a mother and a father, like yourself. The Master just oversaw my rebirth. These muscles, this skin, this strength does not make me any less human than you. I do not like all that the Unity stands for, but it is the best chance for peace that we have.}

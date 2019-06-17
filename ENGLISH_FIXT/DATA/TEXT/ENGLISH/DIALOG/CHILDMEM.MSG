@@ -1,4 +1,4 @@
-{100}{}{You see a devout Children of the Cathedral member.}
+{100}{}{You see a devout Child of the Cathedral.}
 {101}{}{We offer healing of the body to heal the spirit. Can I help you?}
 {102}{}{Yes. Help me.}
 {103}{}{Who are you people?}
@@ -19,7 +19,7 @@
 {119}{}{ caps?}
 {120}{}{The Children do not haggle. Now, will you accept our price?}
 {121}{}{Yes, of course I will.}
-{122}{}{No, thank you.}
+{122}{}{No thank you.}
 {123}{}{Thank you, my son. Let us pray for your healing.}
 {124}{}{Thank you, my daughter. Let us pray for your healing.}
 {125}{}{There you go. Peace and blessings of the Children go with you.}

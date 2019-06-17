@@ -35,7 +35,7 @@
 {134}{Nic_11}{Hey! I don't appreciate that, but I'll overlook it if you apologize.}
 {135}{}{I'm sorry I ever talked to you.}
 {136}{}{Okay, I'm sorry.}
-{137}{Nic_12}{Fine. We don't have time to babysit. Leave us.}
+{137}{Nic_12}{Fine. We don't have time to baby-sit. Leave us.}
 {138}{Nic_13}{Apology accepted. Please remember you are a guest here. Now, is there anything else?}
 {139}{}{Can I ask a few more questions?}
 {140}{}{No, I'll be going now.}
@@ -62,7 +62,7 @@
 {161}{Nic_21}{Not really. We came to teach peace, but we will defend ourselves, if necessary. That includes our beliefs.}
 {162}{Nic_21b}{You would not understand.}
 {163}{}{Hmm, okay. Can I ask you a few more questions?}
-{164}{}{Alright. I think it's time for me to go.}
+{164}{}{All right. I think it's time for me to go.}
 {165}{Nic_22}{They showed up around the same time we did, but no one knows how they came about. We've heard rumors that their leader, Morpheus, was part of the Rippers before he was 'enlightened' by their Dark God.}
 {166}{}{Hey, a guy can change.}
 {167}{}{Sounds like he's not a nice fellow.}
@@ -134,7 +134,7 @@
 {233}{}{Morpheus is not the leader of the Children. It's actually run by the Master.}
 {234}{}{You know the Nightkin?}
 {235}{Nic_45}{Wait a s... the Dark God? You're not telling me he's real?}
-{236}{}{Oh, he's real alright, just not a god. He's a mutant who wants to make everyone a Nightkin, for their own good.}
+{236}{}{Oh, he's real all right, just not a god. He's a mutant who wants to make everyone a Nightkin, for their own good.}
 {237}{}{Yes, he is! You should fear the all-mighty Dark God!}
 {238}{Nic_46}{What do the Nightkin have to do with this?}
 {239}{}{They're actually a race of Super Mutants. The Master is their leader.}
@@ -225,7 +225,7 @@
 {322}{}{Do you know who their leader is?}
 {323}{}{Do you have any suspicions about them?}
 {324}{}{Can you help me destroy them?}
-{325}{}{Thanks, I can use all the help I can get!}
+{325}{}{Thanks; I can use all the help I can get!}
 {326}{}{Thanks for the information. I'll be going now.}
 
 

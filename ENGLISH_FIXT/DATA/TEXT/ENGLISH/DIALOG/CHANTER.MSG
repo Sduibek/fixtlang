@@ -1,4 +1,4 @@
-{100}{}{You see a chanter of the Children.}
+{100}{}{You see a chanter from the Children of the Cathedral.}
 {101}{}{The Master will forgive your sins! Join us and be free! Praise to the Master and his mercy!}
 {102}{}{Hello, friend! The Master's vision has made me truly alive for the first time. May I share my wonderful story with you?}
 {103}{}{Where might I meet this Master?}

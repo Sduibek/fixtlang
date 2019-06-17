@@ -32,26 +32,26 @@
 #
 {114}{}{You earn 100 experience for helping Phil solve his canine conundrum.}
 {115}{}{The dog seems to think you are his owner.}
-{116}{}{You earn 35 experience for helping Phil solve his canine conundrum.}
-{117}{}{Woof-woof!}
-{118}{}{Come on, buddy.}
-{119}{}{Stay here and wait, okay?}
-{120}{}{Good dog.}
+{116}{}{You earn 100 experience for helping Phil solve his canine conundrum.}
+{117}{}{Woof-woof! Woof!}
+{118}{}{Come on, Dogmeat. Good boy.}
+{119}{}{Dogmeat, sit! Good boy. I'll be back soon.}
+{120}{}{Let's go, Dogmeat!}
 {121}{}{Puppie!!!}
 {122}{}{Woof?}
 {123}{}{Arf?}
+{124}{}{Woof-woof! Woof!}
 #
 # for Fallout Fixt:
 #
 #
 # for Stupid characters (INT <= 3)
 {300}{}{Doggie!! doggie be frend?}
-{301}{}{doggie Stay! no move!}
-{304}{}{Good doggie!}
+{301}{}{Doggie stay! no move.}
+{304}{}{Good doggie.}
 #
 #Normal INT
-{302}{}{Move aside, buddy. Good boy.}
+{302}{}{Move aside, Dogmeat. Good boy.}
 #
-# space is intentional
-{303}{}{ Stupid mutt!}
+{303}{}{}
 

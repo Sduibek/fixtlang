@@ -21,7 +21,7 @@
 {120}{}{I can see you standing before me, but I don't believe it. What do you want?}
 {121}{}{I want the girl set free. Now.}
 {122}{}{I want you to step down.}
-{123}{}{I want riches to buy my way into Heaven.}
+{123}{}{I want riches to buy my way into heaven.}
 {124}{}{Pledge that you shall return to the grave, and it shall be so.}
 {125}{}{I swear that I will leave.}
 {126}{}{So be it. Release the Shady Sands woman and escort this one out of here...}
@@ -116,6 +116,10 @@
 {1006}{}{Tandi}
 {1007}{}{Sands}
 {1008}{}{Chip}
+{1009}{}{Raiders}
+{1010}{}{Khan}
+{1011}{}{Raid}
+{1012}{}{Raider}
 
 {1100}{}{That's us, you lackey.}
 {1101}{}{I am the leader of the Khans. I am the most feared man in the wasteland.}
@@ -126,3 +130,7 @@
 {1106}{}{I don't know anyone by that name.}
 {1107}{}{Miserable little piss-ant community. I could crush them.}
 {1108}{}{A what?}
+{1109}{}{That's us, you lackey.}
+{1110}{}{That's us, you lackey.}
+{1111}{}{That's us, you lackey.}
+{1112}{}{That's us, you lackey.}

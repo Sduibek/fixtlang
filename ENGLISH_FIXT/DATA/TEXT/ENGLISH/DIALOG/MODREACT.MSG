@@ -20,4 +20,4 @@
 # Translation note: 109 is referring to weapons,
 #   if you try to give a hired NPC a weapon they aren't allowed to equip.
 #
-{109}{}{I can't use that.}
+{109}{}{I can't use that. Sorry.}

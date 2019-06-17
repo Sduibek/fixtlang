@@ -3,15 +3,15 @@
 #
 #
 {0}{}{GAME PREFERENCES}
-{1}{}{SCREEN SETTINGS}
-{3}{}{Options}
+{1}{}{DISPLAY OPTIONS}
+{3}{}{SETTINGS}
 
 
-{50}{}{Screen Settings}
+{50}{}{DISPLAY OPTIONS (F1-RES)}
 {51}{}{Custom}
 {52}{}{Width}
 {53}{}{Height}
-{54}{}{Done}
+{54}{}{APPLY}
 {55}{}{Cancel}
 {56}{}{Fallout must restart to apply settings.}
 {57}{}{Would you like to restart Fallout now?}
@@ -30,7 +30,7 @@
 {107}{}{Invert List}
 {108}{}{Windowed}
 {109}{}{Set Scroll Key}
-{110}{}{Scaling X2}
+{110}{}{Scaling 2X}
 {111}{}{Refresh Rate}
 
 {130}{}{Window Key}
@@ -40,11 +40,11 @@
 {140}{}{Graphics Mode:}
 {141}{}{Basic}
 {142}{}{Sfall DirectX 9 Mode:}
-{143}{}{}
+{143}{}{1}
 
 {144}{}{DirectDraw 7}
-{145}{}{}
-{146}{}{}
+{145}{}{2}
+{146}{}{3}
 
 {147}{}{Direct3D 9}
 {148}{}{Vertex Hardware Processing:}
@@ -71,8 +71,8 @@
 {206}{}{GPU Blitting}
 {207}{}{This setting has no effect while in Basic Graphics Mode.}
 
-{250}{}{Ignore PC Scroll Limit}
-{253}{}{Path Finding Range}
+{250}{}{Ignore Scroll Limit}
+{253}{}{Path-Finding Range}
 {254}{}{Normal}
 {255}{}{Max}
 {256}{}{Enable Fog Of War}
